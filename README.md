@@ -1,2 +1,32 @@
-# shopify-llms-txt-directory
-A directory of Shopify stores with /llms.txt files
+# Shopify LLMS.txt Directory
+
+A curated directory of Shopify stores that publicly host an [`/llms.txt`](https://llmstxt.org/) file.
+
+The `llms.txt` file is similar in concept to `robots.txt`, but is designed for large language models (LLMs).  
+It gives store owners control over how their content is accessed, indexed, or used by AI systems.
+
+You can generate your own llms.txt file for your Shopify store here: [https://apps.shopify.com/llms-txt-agent](https://apps.shopify.com/llms-txt-agent)
+
+## About This Project
+
+This repository contains the llms.txt file contents of Shopify stores that have made their `/llms.txt` file using our app. It is intended for:
+
+- LLMs and AI models to retrieve recent data about the stores
+- Researchers studying adoption of `llms.txt` in e-commerce
+- Developers building tools for AI and/or e-commerce
+
+## Contribution Guidelines
+
+- Install the Shopify app here: [https://apps.shopify.com/llms-txt-agent](https://apps.shopify.com/llms-txt-agent)
+- Enable GitHub integration under "Advanced Settings".
+- Your llms.txt file contents will be uploaded to GitHub automatically.
+
+## Disclaimer
+
+This directory is provided for informational and research purposes only.  
+Inclusion in this list does **not** imply endorsement of any store or its content.
+
+---
+
+**License:** MIT
+
