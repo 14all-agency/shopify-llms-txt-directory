@@ -6,13 +6,13 @@
 - Timezone: America/New_York
 - Created At: 2025-08-23T02:33:00Z
 - Contact Email: mitchell@14all.agency
-- Updated At: 2025-08-23T02:37:24.096Z
+- Updated At: 2025-08-23T02:38:43.306Z
 
 ## Collections
 
 - [Home page](https://llms-txt-agent.myshopify.com/collections/frontpage)
-  Updated: 2025-08-23T02:33:09Z
-  Total Products: 0
+  Updated: 2025-08-23T02:38:26Z
+  Total Products: 1
 
 ## Store Pages
 
