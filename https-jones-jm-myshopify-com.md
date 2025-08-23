@@ -1,18 +1,12 @@
 # Jones JM (https://jones-jm.myshopify.com)
 
-> Our store is like super cool and stuff
-
 - Domain: https://jones-jm.myshopify.com
 - Locale: en
 - Currency: NZD
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Contact Phone: 0800 83 83 83
-- Address: 123 Fako Street
-- Updated At: 2025-08-10T00:06:44.935Z
-
-This is my custom intro!!
+- Updated At: 2025-08-23T02:17:15.710Z
 
 ## Products
 
@@ -688,6 +682,18 @@ This is my custom intro!!
   - [The Ultimate Guide to Test Planning Basics](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-test-planning-basics): Discover the essentials of test planning with our comprehensive guide, covering key concepts, strategies, and best practices for successful testing.
     Updated: 2025-08-01T04:59:00Z
     Author: User
+  - [The Ultimate Checklist for Buying Your First Snowboard](https://jones-jm.myshopify.com/blogs/news/the-ultimate-checklist-for-buying-your-first-snowboard): Discover essential tips in our ultimate checklist for buying your first snowboard. Ensure you make the right choice for an unforgettable winter experience!
+    Updated: 2025-08-11T19:38:13Z
+    Author: User
+  - [Top 10 Tests You Need to Know About This Year](https://jones-jm.myshopify.com/blogs/news/top-10-tests-you-need-to-know-about-this-year): Discover the essential tests you need to know about this year. Stay informed and prepared with our top 10 picks that could impact your health and well-being!
+    Updated: 2025-08-16T02:17:28Z
+    Author: User
+  - [The Ultimate Guide to Passing Tests Every Time](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-passing-tests-every-time): Discover effective strategies and tips in The Ultimate Guide to Passing Tests Every Time to boost your confidence and achieve academic success!
+    Updated: 2025-08-18T01:41:41Z
+    Author: User
+  - [Expert Tips for Overcoming Snowboarding Challenges](https://jones-jm.myshopify.com/blogs/news/expert-tips-for-overcoming-snowboarding-challenges): Master your snowboarding skills with expert tips to overcome challenges on the slopes. Discover the best snowboards and elevate your riding experience!
+    Updated: 2025-08-18T01:52:57Z
+    Author: User
 
 ## Store Pages
 
@@ -711,12 +717,7 @@ This is my custom intro!!
 - [Contact Information](https://jones-jm.myshopify.com/policies/contact-information)
   Updated: 2025-07-26T21:32:43-04:00
 
-## Social Media!!
-- https://example.com
-
 ## Optional
 
 - [robots.txt](https://jones-jm.myshopify.com/robots.txt)
 - [sitemap.xml](https://jones-jm.myshopify.com/sitemap.xml)
-
-This is my custom footer!!
