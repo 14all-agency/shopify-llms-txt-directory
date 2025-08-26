@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-26T16:00:32.640Z
+- Updated At: 2025-08-26T20:00:33.274Z
 
 ## Products
 
@@ -3112,7 +3112,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Topspinner60m_GroundSpike-MetallicGrey-8710755310867Brabantia_96dpi_1000x1000px_7_NR-28672.png?v=1734572963
   Price: $299.95 NZD
 - [Brabantia HangOn Drying Rack with Rod - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-with-rod-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! Thanks to the rocking rod, and 25 metres of flexible drying space, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. XXL drying in size and benefits!
-  Updated: 2025-08-25T23:52:11Z
+  Updated: 2025-08-26T19:23:56Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4731,10 +4731,10 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-26T11:06:38Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-26T11:06:38Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-08-26T01:25:15Z
@@ -4851,7 +4851,7 @@
   Updated: 2025-08-26T01:24:01Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
-  Updated: 2025-08-15T01:09:43Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
   Updated: 2025-08-26T01:24:01Z
@@ -4875,7 +4875,7 @@
   Updated: 2025-08-12T04:55:11Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
-  Updated: 2025-08-15T01:09:43Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 90
 - [Laundry Bins & Hampers](https://everydayhome.co.nz/collections/laundry-bins-hampers)
   Updated: 2025-08-15T01:09:16Z
@@ -5001,7 +5001,7 @@
   Updated: 2025-08-26T11:06:38Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
-  Updated: 2025-08-15T01:09:43Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
   Updated: 2025-08-26T01:24:01Z
@@ -5043,7 +5043,7 @@
   Updated: 2025-08-26T11:06:38Z
   Total Products: 141
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-26T01:23:25Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 922
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-08-22T00:57:19Z
@@ -5082,22 +5082,22 @@
   Updated: 2025-08-26T11:06:38Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
-  Updated: 2025-08-15T01:08:28Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 40
 - [Clothing Protection & Storage](https://everydayhome.co.nz/collections/clothing-protection-storage)
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-26T11:06:38Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-26T01:23:25Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 922
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-15T01:09:06Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
-  Updated: 2025-08-12T05:16:06Z
+  Updated: 2025-08-26T16:46:17Z
   Total Products: 57
 - [Clothes Airers & Retractable Lines](https://everydayhome.co.nz/collections/clothes-airers-retractable-lines): Your solutions to indoor drying this winter.
   Updated: 2025-08-15T01:09:43Z
