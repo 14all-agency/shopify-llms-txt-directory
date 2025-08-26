@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-26T04:00:35.266Z
+- Updated At: 2025-08-26T08:00:34.332Z
 
 ## Products
 
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Multi-Colour-Lite-UMBRA-2.jpg?v=1731901823
   Price: $39.99 NZD
 - [Buddy Hook (Set 3) - White](https://everydayhome.co.nz/products/buddy-hook-set-3-white): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-08-19T00:22:11Z
+  Updated: 2025-08-26T04:22:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3672,7 +3672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/WashBags_setof3_in2sizes-White-8710755149221Brabantia_96dpi_1000x1000px_7_NR-26298.png?v=1734574761
   Price: $23.95 NZD
 - [SwiftDry Lifestyle Replacement Pulleys (2 Sizes - Black)](https://everydayhome.co.nz/products/lifestyle-replacement-pulley-double-black)
-  Updated: 2025-08-15T03:42:45Z
+  Updated: 2025-08-26T05:42:41Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
