@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-26T00:00:33.641Z
+- Updated At: 2025-08-26T04:00:35.266Z
 
 ## Products
 
@@ -1600,19 +1600,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Steam-Clothes-Hanger-Grey-0.png?v=1727658655
   Price: $39.95 NZD
 - [Ringo Chairs - Black Set of 4](https://everydayhome.co.nz/products/ringo-example): Ringo contrasts the geometric shape of the continuous ring-shaped frame with the smooth, organic shape of the seat; giving the feeling that the seat is floating or melting into the ring. With a rust-proof bent metal frame, this eye-catching chair features molded mixed wood fiber composite with an eco-friendly durable powder coated finish. Ringo can be used indoors or outdoors and has an ergonomic injection-molded seat, making it comfortable to sit and lounge in.
-  Updated: 2025-08-12T16:06:39Z
+  Updated: 2025-08-26T01:25:14Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chairs-Black-Set-of-4-2_e4b475f5-4eda-431e-bc0b-1e17bda20293.jpg?v=1731547553
-  Price: $499.99 NZD
+  Price: $399.99 NZD
 - [Ringo Chairs - Grey Set of 4](https://everydayhome.co.nz/products/ringo-chairs-grey-set-of-4): Ringo contrasts the geometric shape of the continuous ring-shaped frame with the smooth, organic shape of the seat; giving the feeling that the seat is floating or melting into the ring. With a rust-proof bent metal frame, this eye-catching chair features molded mixed wood fiber composite with an eco-friendly durable powder coated finish. Ringo can be used indoors or outdoors and has an ergonomic injection-molded seat, making it comfortable to sit and lounge in.
-  Updated: 2025-08-12T16:06:42Z
+  Updated: 2025-08-26T01:24:46Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chairs-Grey-Set-of-4-1_a576cdf5-35c3-4bee-aa31-337385321e91.jpg?v=1731547593
-  Price: $499.99 NZD
+  Price: $399.99 NZD
 - [Anolon X SearTech - 10 Piece Cookware Set](https://everydayhome.co.nz/products/ano-x-s-tech-ns-10pc-cookware-set): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 10 piece cookware set features an ultra-durable, PFOA-free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet. Metal utensil safe, oven safe to 260°C degrees for the perfect finish, and dishwasher safe for the easiest cleanup.
   Updated: 2025-08-12T16:39:56Z
   Vendor: Anolon
@@ -2776,12 +2776,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Schnook-Over-the-Door-Hooks-Set-of-5-Black-Nickel-4.jpg?v=1731902112
   Price: $57.99 NZD
 - [Sling Caddy With Pump - White](https://everydayhome.co.nz/products/sling-caddy-with-pump-white): This all-in-one caddy will help to organize the space around your sink and make dish washing a breeze. ​Including a convenient and removable 500 ml soap pump bottle and a water-catching drainage tray, that even provides additional storage, the Sling Caddy features a visually appealing design while optimizing functionality in the kitchen.
-  Updated: 2025-08-12T16:51:41Z
+  Updated: 2025-08-26T01:22:55Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sling-Caddy-With-Pump-White-UMBRA-6.jpg?v=1731902227
-  Price: $59.99 NZD
+  Price: $29.99 NZD
 - [Sling Folding Dishrack - White](https://everydayhome.co.nz/products/sling-folding-dishrack-white): Introducing Sling Dishrack: the space-saving and efficient solution for your dishes. This easy-to-use and durable dishrack is designed to maximize capacity while minimizing clutter. The Sling Dishrack features a metal foldaway rack and a folding mat that fits perfectly into a convenient caddy base. The base has three divided sections for your cutlery, large utensils, or dish cleaning accessories like sponges and scrub brushes. Not only is the Sling Dishrack incredibly functional, but it's also portable. It folds away for easy storage when you're not using it, and it's perfect for taking on camping trips. To keep everything in place, a silicone band wraps around the caddy base and holds up the mat and rack when they're not in use
   Updated: 2025-08-24T22:07:11Z
   Vendor: UMBRA
@@ -3105,7 +3105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardC_124x45cm_SSIR-SpringBubbles-8710755134920Brabantia_96dpi_1000x1000px_7_NR-19942.png?v=1733870570
   Price: $299.95 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-60m-metal-soil-spear-metallic-grey): The Brabantia Topspinner rotary dryer really spins like a top, even when the arms are fully loaded with wet laundry. But there’s more: it’s easy to open and has up to 60 metres of quality, UV-resistant non-slip washing lines. Thanks to the nifty retension-system, these lines are always taut. You’ll surely love the eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you and the planet!
-  Updated: 2025-08-15T13:32:09Z
+  Updated: 2025-08-26T00:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4716,7 +4716,7 @@
   Updated: 2025-08-23T11:09:30Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-08-15T01:09:43Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 56
 - [Kitchen & Dining](https://everydayhome.co.nz/collections/kitchen-dining)
   Updated: 2025-02-12T22:26:22Z
@@ -4731,22 +4731,22 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-08-22T00:57:19Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-08-22T11:08:13Z
+  Updated: 2025-08-26T01:24:01Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-07-29T03:51:57Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-08-17T11:07:27Z
+  Updated: 2025-08-26T01:22:56Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-08-14T03:56:58Z
@@ -4755,7 +4755,7 @@
   Updated: 2024-09-06T00:59:15Z
   Total Products: 0
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-08-15T01:09:38Z
+  Updated: 2025-08-26T01:24:00Z
   Total Products: 55
 - [Shelves](https://everydayhome.co.nz/collections/shelves)
   Updated: 2024-09-06T00:59:12Z
@@ -4839,28 +4839,28 @@
   Updated: 2025-08-12T04:53:04Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:24:00Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-08-21T11:07:03Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-08-23T11:09:30Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-08-22T11:08:13Z
+  Updated: 2025-08-26T01:24:01Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-08-15T01:09:43Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
-  Updated: 2025-08-21T23:55:14Z
+  Updated: 2025-08-26T01:24:01Z
   Total Products: 63
 - [Touch Top Bins](https://everydayhome.co.nz/collections/touch-top-bins)
   Updated: 2025-08-15T01:09:42Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
-  Updated: 2025-08-22T11:08:13Z
+  Updated: 2025-08-26T01:23:59Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
   Updated: 2025-08-21T11:07:03Z
@@ -4953,7 +4953,7 @@
   Updated: 2025-08-15T01:09:12Z
   Total Products: 7
 - [Stools & Chairs](https://everydayhome.co.nz/collections/stools-chairs)
-  Updated: 2025-08-12T04:53:05Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 9
 - [Mixing Bowls](https://everydayhome.co.nz/collections/mixing-bowls)
   Updated: 2025-08-15T01:09:20Z
@@ -4962,7 +4962,7 @@
   Updated: 2025-08-15T01:09:36Z
   Total Products: 4
 - [Sink Caddies](https://everydayhome.co.nz/collections/sink-caddies)
-  Updated: 2025-08-15T01:08:36Z
+  Updated: 2025-08-26T01:22:56Z
   Total Products: 10
 - [Shoe Racks & Accessories](https://everydayhome.co.nz/collections/shoe-racks-accessories)
   Updated: 2025-08-12T04:55:11Z
@@ -4992,19 +4992,19 @@
   Updated: 2025-08-12T04:54:44Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-08-23T11:09:30Z
-  Total Products: 127
+  Updated: 2025-08-26T01:25:15Z
+  Total Products: 128
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-08-21T11:07:03Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:24:00Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-08-15T01:09:43Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-08-22T11:08:13Z
+  Updated: 2025-08-26T01:24:01Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
   Updated: 2025-08-15T02:20:38Z
@@ -5040,11 +5040,11 @@
   Updated: 2025-08-15T03:12:54Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 141
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-23T11:09:30Z
-  Total Products: 923
+  Updated: 2025-08-26T01:23:25Z
+  Total Products: 922
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-08-22T00:57:19Z
   Total Products: 22
@@ -5079,7 +5079,7 @@
   Updated: 2025-08-15T03:00:10Z
   Total Products: 54
 - [On The Go](https://everydayhome.co.nz/collections/on-the-go)
-  Updated: 2025-08-15T01:08:34Z
+  Updated: 2025-08-26T01:24:00Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
   Updated: 2025-08-15T01:08:28Z
@@ -5088,11 +5088,11 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:25:15Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-23T11:09:30Z
-  Total Products: 923
+  Updated: 2025-08-26T01:23:25Z
+  Total Products: 922
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-15T01:09:06Z
   Total Products: 34
@@ -5103,7 +5103,7 @@
   Updated: 2025-08-15T01:09:43Z
   Total Products: 17
 - [Kitchen Sink Accessories](https://everydayhome.co.nz/collections/kitchen-sink-accessories)
-  Updated: 2025-08-23T11:09:30Z
+  Updated: 2025-08-26T01:22:56Z
   Total Products: 43
 - [Bin Liners](https://everydayhome.co.nz/collections/bin-liners)
   Updated: 2025-08-14T02:42:44Z
