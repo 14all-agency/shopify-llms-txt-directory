@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-08-26T16:00:42.465Z
+- Updated At: 2025-08-26T20:00:43.538Z
 
 ## Products
 
@@ -10602,7 +10602,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
 - [KONGES SLODJ Swim Vest - Fruity](https://www.littlebambinos.co.nz/products/konges-slodj-swim-vest-fruity): A Swim vest is the perfect swim accessory when your little ones are just beginning to splash around. It adds natural buoyancy and helps them get comfortable in the water while learning to swim on their own. Our Swimvests are designed with inside foam sticks that can be adjusted according to the child’s skills and needs. The float sticks can easily be removed one by one as your child develops their swimming skills. Once the child is secure and comfortable in the water, the buoyancy sticks can be removed all together. Swim vest made from 80% neoprene and 20% polyester. Size guide: 1-2y: H: 3.4 cm x B: 27.5 cm x L: 32 cm2-3y: H: 3.4 cm x B: 29 cm x L: 36 cm3-6y: H: 3.4 cm x B: 31 cm x L: 39 cm WARNINGS:This is not a lifesaving device. Only to be used in water in which the child is within its depth. WILL NOT PROTECT AGAINST DROWNING. USE ONLY UNDER CONSTANT SUPERVISION. NOT FOR USE IN BOATING
-  Updated: 2025-08-24T22:07:16Z
+  Updated: 2025-08-26T18:18:19Z
   Vendor: Konges slojd
   Product Type: Float Vest
   Availability: Available
@@ -11112,7 +11112,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-08-25T02:22:40Z
+  Updated: 2025-08-26T19:42:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -14432,7 +14432,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LITTLE_LUXURY_SIGNATUREORGANICPLAYMATMELONALI3.webp?v=1750209432
   Price: $199.00 NZD
 - [SOLVEJ SWINGS Baby Toddler Swing](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing): The Solvej swing is a beautiful, secure option for babies that converts into a toddler swing as they grow. Made from quality materials for indoor or outdoor use, its timeless design makes it a lasting family favorite. The swing folds flat for easy storage and transport. Carabiner hooks and screw eyes make it simple to move between indoor and outdoor spaces. We have 11 beautiful colours for you to choose from.
-  Updated: 2025-08-26T04:28:03Z
+  Updated: 2025-08-26T16:15:45Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14482,7 +14482,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Midnight_Blue_Baby_angle_c04cf523-e8c3-4d14-ae59-f89272343ac8.webp?v=1750295953
     Price: $280.00 NZD
 - [SOLVEJ SWINGS Child Swing](https://www.littlebambinos.co.nz/products/solvej-child-swing): This swing offers a secure and cozy experience for both children and adults. Suitable for indoor and outdoor use, it can be effortlessly relocated as needed. Perfect for kids to enjoy tummy swinging, its classic natural design ensures it remains a cherished piece for years to come, ready to be passed down through generations. We have 11 beautiful colours for you to choose from.
-  Updated: 2025-08-26T04:28:04Z
+  Updated: 2025-08-26T16:25:38Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14532,7 +14532,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/midnightbluechildswing600800.webp?v=1750297516
     Price: $190.00 NZD
 - [SOLVEJ SWINGS Traditional Board Swing](https://www.littlebambinos.co.nz/products/solvej-traditional-board-swing): This charming wooden board swing features carefully shaped edges and is designed for those who appreciate a touch of nostalgia. Suitable for both indoor and outdoor use, it is expertly made from FSC-certified, naturally durable wood. Its classic natural style ensures it remains a beloved piece to pass down through generations.
-  Updated: 2025-08-26T04:28:05Z
+  Updated: 2025-08-26T16:24:59Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14546,21 +14546,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/black_rope_78254838-53bc-450e-a5fa-2f2dcc1cf2da.webp?v=1750299459
     Price: $190.00 NZD
 - [SOLVEJ SWINGS Loft Swing](https://www.littlebambinos.co.nz/products/solvej-loft-swing): The SOLVEJ Loft swing is a cozy, secure swing for ages 3 to adulthood, made from soft, hypoallergenic wool felt. Great for developing coordination in kids, it’s designed for indoor use and built to last for generations. Crafted in New Zealand, its timeless, natural style reflects a slow design philosophy—perfect to enjoy and pass down. The swing rolls up compactly for storage or transport. Stainless steel carbine clips make it very easy for you to move the swing.
-  Updated: 2025-08-26T04:28:05Z
+  Updated: 2025-08-26T16:24:35Z
   Vendor: Solvej Swings
   Product Type: Activity Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/DSCF7057_1.webp?v=1750299971
   Price: $200.00 NZD
 - [SOLVEJ SWINGS Baby LOFT Swing](https://www.littlebambinos.co.nz/products/solvej-baby-loft-swing): Made in New Zealand, this indoor swing uses soft, hypoallergenic wool felt that’s gentle on babies’ skin. Designed for ages 6 months to 3 years, it supports natural play and development. Durable and eco-friendly, its timeless design makes it a lasting heirloom. The swing rolls up compactly for storage or transport. Stainless steel carbine clips make it very easy for you to move the swing.
-  Updated: 2025-08-26T04:28:06Z
+  Updated: 2025-08-26T16:23:59Z
   Vendor: Solvej Swings
   Product Type: Activity Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/MG_7002.webp?v=1750300385
   Price: $270.00 NZD
 - [SOLVEJ SWINGS Extension Ropes](https://www.littlebambinos.co.nz/products/extension-ropes): Extension ropes in matching rope/colour to your swing ropes - 1m or 2m long.Comes with stainless steel, spring-loaded carbine clips. - 10mm performance yachting braid.
-  Updated: 2025-08-26T04:28:07Z
+  Updated: 2025-08-26T16:23:00Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14590,7 +14590,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $30.00 NZD
 - [SOLVEJ SWINGS Tree Hangers](https://www.littlebambinos.co.nz/products/tree-hangers): These tree hangers feature sturdy, wide straps designed to securely suspend your swing from the ideal tree branch. They are gentler on the tree compared to wrapping rope directly around the branch, and they also help protect your swing rope. To determine the right length, measure the branch’s circumference and add at least 30cm (12"). Additionally, these hangers can extend your swing ropes if your tree’s height exceeds the standard rope length.
-  Updated: 2025-08-26T04:28:08Z
+  Updated: 2025-08-26T16:21:44Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14612,7 +14612,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackk.webp?v=1750301442
     Price: $40.00 NZD
 - [SOLVEJ SWINGS Little Sailor Swing](https://www.littlebambinos.co.nz/products/little-sailor-swing): This Limited Edition Little Sailor Swing combines all the benefits of our Baby-Toddler swing with unique embroidered artwork. Designed by Solvej, it’s perfect for both indoor and outdoor use—even on your boat! Suitable for children aged 6 months to 6 years, it grows with your child to provide lasting enjoyment. Its classic natural design ensures it remains a cherished heirloom for years to come.
-  Updated: 2025-08-26T04:28:09Z
+  Updated: 2025-08-26T16:21:19Z
   Vendor: Solvej Swings
   Product Type: Activity Toys
   Availability: Available
@@ -14794,7 +14794,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $75.00 NZD
 - [SOLVEJ SWINGS Swing Bunting](https://www.littlebambinos.co.nz/products/swing-bunting): This charming bunting is made from 100% woollen felt, designed specifically for your Solvej Baby-Toddler Swing. It adds a gentle, magical touch to your child’s playtime. Each set includes four flags in soft grey or sand, accented with cream or black trim. The bunting is hypoallergenic and simple to clean. It attaches securely and safely using soft-close domes, ensuring peace of mind for parents.
-  Updated: 2025-08-26T04:28:10Z
+  Updated: 2025-08-26T16:18:30Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14816,7 +14816,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sand_cream_web_close_up.webp?v=1752714226
     Price: $40.00 NZD
 - [SOLVEJ SWINGS Bar Bib](https://www.littlebambinos.co.nz/products/bar-bib): This charming bar bib is crafted from 100% wool felt, perfect for your swing. It’s gentle on sensitive skin and simple to clean. The bib attaches securely with kid-friendly soft close domes, making it both safe and convenient.
-  Updated: 2025-08-26T04:28:11Z
+  Updated: 2025-08-26T16:17:27Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14830,14 +14830,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sandbarbib.webp?v=1752714892
     Price: $22.00 NZD
 - [SOLVEJ SWINGS Extra Long Extension Ropes](https://www.littlebambinos.co.nz/products/extra-long-extension-ropes): 4m black extension ropes.
-  Updated: 2025-08-26T04:28:12Z
+  Updated: 2025-08-26T16:16:53Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/extralongextensionropes.webp?v=1752715075
   Price: $60.00 NZD
 - [SOLVEJ SWINGS Dee's Beeswax Wood Conditioner 50g](https://www.littlebambinos.co.nz/products/dees-beeswax-wood-conditioner-50g): Dee's Beeswax Wood Conditioner 50g offers a completely natural, food-safe mix of beeswax and plant oils designed to maintain your wood’s beauty. It features a gentle honey fragrance that fades quickly with use. This conditioner restores the natural oils lost to weathering and adds a protective beeswax layer to lock in moisture and preserve the wood’s colour. A little goes a long way, making this tin ideal for long-term care, especially for your swing. Without any water in the formula, it stays fresh and won’t dry out in the container.
-  Updated: 2025-08-26T04:28:13Z
+  Updated: 2025-08-26T16:15:36Z
   Vendor: Solvej Swings
   Product Type: Baby Care
   Availability: Available
@@ -15073,7 +15073,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-08-26T15:43:11Z
+  Updated: 2025-08-26T19:43:12Z
   Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15925,7 +15925,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-08-26T15:43:11Z
+  Updated: 2025-08-26T19:43:12Z
   Total Products: 1297
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-08-25T23:45:07Z
