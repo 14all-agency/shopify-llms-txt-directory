@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-08-26T04:00:43.871Z
+- Updated At: 2025-08-26T08:00:42.048Z
 
 ## Products
 
@@ -653,7 +653,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/03_SANDNATUR.jpg?v=1706577297
   Price: $139.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Cappuccino](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-cappuccino): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-08-24T03:23:06Z
+  Updated: 2025-08-26T04:59:02Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
@@ -14431,6 +14431,193 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LITTLE_LUXURY_SIGNATUREORGANICPLAYMATMELONALI3.webp?v=1750209432
   Price: $199.00 NZD
+- [SOLVEJ SWINGS Baby Toddler Swing](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing): The Solvej swing is a beautiful, secure option for babies that converts into a toddler swing as they grow. Made from quality materials for indoor or outdoor use, its timeless design makes it a lasting family favorite. The swing folds flat for easy storage and transport. Carabiner hooks and screw eyes make it simple to move between indoor and outdoor spaces. We have 11 beautiful colours for you to choose from.
+  Updated: 2025-08-26T04:28:03Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pohutakawa_red_baby_lifetyle1.webp?v=1750295953
+  - [Slate Grey](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289396830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Slate_Grey_baby_angle_0bc7cdfc-224c-4a8d-8f9c-9e1dc922d19e.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Pohutakawa Red](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289429598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pohutakawa_red_baby_angle_2d65a83e-5efa-4004-9f52-c2c8db1036ba.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Moss Green](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289462366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Moss_Green_baby_angle_345721a5-605a-4d98-85a2-00af7494d65a.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Smokey Grey](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289495134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Smokey_grey_baby_angle_420e053c-7fb8-48e1-9826-c21685ede9b1.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Merino White](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289527902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Merino_white_baby_angle_ff12f829-cb83-4b92-8394-b86d3b4e7325.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Classic Taupe](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289560670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Classic_Taupe_Baby_angle_f6653622-747a-482f-af00-1e934bd0aafd.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Coral Black](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289593438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Coral_Black_baby_angle_6fdbdfe2-9db6-4510-8ab7-7da4b8131796.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Soft Linen](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289626206)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Soft_linen_baby_angle_af622d63-0a7d-4d94-a77e-4e7a631cdf66.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Kowhai Yellow](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289658974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Kowhai_yellow_baby_angle_65fc4fbc-7247-4445-9735-4bb75c623e3a.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Forest Green](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289691742)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Forest_Green_baby_angle_3c02e86e-0770-4680-a52f-589187a1030a.webp?v=1750295953
+    Price: $280.00 NZD
+  - [Midnight Blue](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing?variant=41796289724510)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Midnight_Blue_Baby_angle_c04cf523-e8c3-4d14-ae59-f89272343ac8.webp?v=1750295953
+    Price: $280.00 NZD
+- [SOLVEJ SWINGS Child Swing](https://www.littlebambinos.co.nz/products/solvej-child-swing): This swing offers a secure and cozy experience for both children and adults. Suitable for indoor and outdoor use, it can be effortlessly relocated as needed. Perfect for kids to enjoy tummy swinging, its classic natural design ensures it remains a cherished piece for years to come, ready to be passed down through generations. We have 11 beautiful colours for you to choose from.
+  Updated: 2025-08-26T04:28:04Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/slate_grey_live_photo.webp?v=1750297263
+  - [Slate Grey](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300472414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/slate_child_product_500.webp?v=1750297281
+    Price: $190.00 NZD
+  - [Pohutakawa Red](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300505182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/child_red_product_web_500.webp?v=1750297293
+    Price: $190.00 NZD
+  - [Moss Green](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300537950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Fernmosschildweb.webp?v=1750297310
+    Price: $190.00 NZD
+  - [Smokey Grey](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300570718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/smokeygreychildswing600800.webp?v=1750297411
+    Price: $190.00 NZD
+  - [Merino White](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300603486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/child_white_product_web_500.webp?v=1750297435
+    Price: $190.00 NZD
+  - [Classic Taupe](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300636254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/child_taupe1_product_web_500.webp?v=1750297449
+    Price: $190.00 NZD
+  - [Coral Black](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300669022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Black_child_product_800600.webp?v=1750297462
+    Price: $190.00 NZD
+  - [Soft Linen](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300701790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/child_linen_product_web_500.webp?v=1750297474
+    Price: $190.00 NZD
+  - [Kowhai Yellow](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300734558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/child_yellow_product_web_500.webp?v=1750297485
+    Price: $190.00 NZD
+  - [Forest Green](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300767326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Green_Child_Side_Short.webp?v=1750297500
+    Price: $190.00 NZD
+  - [Midnight Blue](https://www.littlebambinos.co.nz/products/solvej-child-swing?variant=41796300800094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/midnightbluechildswing600800.webp?v=1750297516
+    Price: $190.00 NZD
+- [SOLVEJ SWINGS Traditional Board Swing](https://www.littlebambinos.co.nz/products/solvej-traditional-board-swing): This charming wooden board swing features carefully shaped edges and is designed for those who appreciate a touch of nostalgia. Suitable for both indoor and outdoor use, it is expertly made from FSC-certified, naturally durable wood. Its classic natural style ensures it remains a beloved piece to pass down through generations.
+  Updated: 2025-08-26T04:28:05Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SolvejBoardSwing00013_1.webp?v=1750299459
+  - [White Rope](https://www.littlebambinos.co.nz/products/solvej-traditional-board-swing?variant=41796367188062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/white_rope_fcc01ee1-09eb-460b-9fae-24155440fb5b.webp?v=1750299459
+    Price: $190.00 NZD
+  - [Black Rope](https://www.littlebambinos.co.nz/products/solvej-traditional-board-swing?variant=41796367220830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/black_rope_78254838-53bc-450e-a5fa-2f2dcc1cf2da.webp?v=1750299459
+    Price: $190.00 NZD
+- [SOLVEJ SWINGS Loft Swing](https://www.littlebambinos.co.nz/products/solvej-loft-swing): The SOLVEJ Loft swing is a cozy, secure swing for ages 3 to adulthood, made from soft, hypoallergenic wool felt. Great for developing coordination in kids, it’s designed for indoor use and built to last for generations. Crafted in New Zealand, its timeless, natural style reflects a slow design philosophy—perfect to enjoy and pass down. The swing rolls up compactly for storage or transport. Stainless steel carbine clips make it very easy for you to move the swing.
+  Updated: 2025-08-26T04:28:05Z
+  Vendor: Solvej Swings
+  Product Type: Activity Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/DSCF7057_1.webp?v=1750299971
+  Price: $200.00 NZD
+- [SOLVEJ SWINGS Baby LOFT Swing](https://www.littlebambinos.co.nz/products/solvej-baby-loft-swing): Made in New Zealand, this indoor swing uses soft, hypoallergenic wool felt that’s gentle on babies’ skin. Designed for ages 6 months to 3 years, it supports natural play and development. Durable and eco-friendly, its timeless design makes it a lasting heirloom. The swing rolls up compactly for storage or transport. Stainless steel carbine clips make it very easy for you to move the swing.
+  Updated: 2025-08-26T04:28:06Z
+  Vendor: Solvej Swings
+  Product Type: Activity Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/MG_7002.webp?v=1750300385
+  Price: $270.00 NZD
+- [SOLVEJ SWINGS Extension Ropes](https://www.littlebambinos.co.nz/products/extension-ropes): Extension ropes in matching rope/colour to your swing ropes - 1m or 2m long.Comes with stainless steel, spring-loaded carbine clips. - 10mm performance yachting braid.
+  Updated: 2025-08-26T04:28:07Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/extension_ropes_curled.webp?v=1750301056
+  - [Black - 1m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396351582)
+    Availability: Available
+    Price: $30.00 NZD
+  - [Black - 2m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396384350)
+    Availability: Available
+    Price: $30.00 NZD
+  - [White - 1m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396417118)
+    Availability: Available
+    Price: $30.00 NZD
+  - [White - 2m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396449886)
+    Availability: Available
+    Price: $30.00 NZD
+  - [Pohutakawa Red - 1m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396482654)
+    Availability: Available
+    Price: $30.00 NZD
+  - [Pohutakawa Red - 2m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396515422)
+    Availability: Available
+    Price: $30.00 NZD
+  - [Forest Green - 1m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396548190)
+    Availability: Available
+    Price: $30.00 NZD
+  - [Forest Green - 2m](https://www.littlebambinos.co.nz/products/extension-ropes?variant=41796396580958)
+    Availability: Available
+    Price: $30.00 NZD
+- [SOLVEJ SWINGS Tree Hangers](https://www.littlebambinos.co.nz/products/tree-hangers): These tree hangers feature sturdy, wide straps designed to securely suspend your swing from the ideal tree branch. They are gentler on the tree compared to wrapping rope directly around the branch, and they also help protect your swing rope. To determine the right length, measure the branch’s circumference and add at least 30cm (12"). Additionally, these hangers can extend your swing ropes if your tree’s height exceeds the standard rope length.
+  Updated: 2025-08-26T04:28:08Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/treehangers1.webp?v=1750301452
+  - [White / 1m](https://www.littlebambinos.co.nz/products/tree-hangers?variant=41796397236318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/white.webp?v=1750301430
+    Price: $35.00 NZD
+  - [White / 2m](https://www.littlebambinos.co.nz/products/tree-hangers?variant=41796397269086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/white.webp?v=1750301430
+    Price: $40.00 NZD
+  - [Black / 1m](https://www.littlebambinos.co.nz/products/tree-hangers?variant=41796397301854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackk.webp?v=1750301442
+    Price: $35.00 NZD
+  - [Black / 2m](https://www.littlebambinos.co.nz/products/tree-hangers?variant=41796397334622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackk.webp?v=1750301442
+    Price: $40.00 NZD
+- [SOLVEJ SWINGS Little Sailor Swing](https://www.littlebambinos.co.nz/products/little-sailor-swing): This Limited Edition Little Sailor Swing combines all the benefits of our Baby-Toddler swing with unique embroidered artwork. Designed by Solvej, it’s perfect for both indoor and outdoor use—even on your boat! Suitable for children aged 6 months to 6 years, it grows with your child to provide lasting enjoyment. Its classic natural design ensures it remains a cherished heirloom for years to come.
+  Updated: 2025-08-26T04:28:09Z
+  Vendor: Solvej Swings
+  Product Type: Activity Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little_Sailor_Swing.webp?v=1752625084
+  Price: $290.00 NZD
 - [KONGES SLODJ Ellis Swim Vest - Sweet and Sour](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-sweet-and-sour): The KONGES SLODJ Ellis Swim Vest in Sweet and Sour provides essential support for beginning swimmers. This buoyancy aid helps children gain water confidence while developing independent swimming skills. Perfect for those first aquatic adventures! Available in two sizes: 1-2 years (11-15 kg) and 2-3 years (15-19 kg). WARNINGS: This is not a lifesaving device. Only to be used in water in which the child is within its depth. WILL NOT PROTECT AGAINST DROWNING. USE ONLY UNDER CONSTANT SUPERVISION. NOT FOR USE IN BOATING.
   Updated: 2025-08-10T10:04:31Z
   Vendor: Konges slojd
@@ -14606,6 +14793,56 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-seer-asnou-swimshort-tigers-eye?variant=41854728732766)
     Availability: Available
     Price: $75.00 NZD
+- [SOLVEJ SWINGS Swing Bunting](https://www.littlebambinos.co.nz/products/swing-bunting): This charming bunting is made from 100% woollen felt, designed specifically for your Solvej Baby-Toddler Swing. It adds a gentle, magical touch to your child’s playtime. Each set includes four flags in soft grey or sand, accented with cream or black trim. The bunting is hypoallergenic and simple to clean. It attaches securely and safely using soft-close domes, ensuring peace of mind for parents.
+  Updated: 2025-08-26T04:28:10Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/greyblackcloseupweb.webp?v=1752714160
+  - [Grey and Black](https://www.littlebambinos.co.nz/products/swing-bunting?variant=41864212676702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/greyblackcloseupweb.webp?v=1752714160
+    Price: $40.00 NZD
+  - [Grey and Cream](https://www.littlebambinos.co.nz/products/swing-bunting?variant=41864212709470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/grey_cream_web_close_up.webp?v=1752714180
+    Price: $40.00 NZD
+  - [Sand and Black](https://www.littlebambinos.co.nz/products/swing-bunting?variant=41864212742238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/grey_cream_closeup_web.webp?v=1752714207
+    Price: $40.00 NZD
+  - [Sand and Cream](https://www.littlebambinos.co.nz/products/swing-bunting?variant=41864212775006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sand_cream_web_close_up.webp?v=1752714226
+    Price: $40.00 NZD
+- [SOLVEJ SWINGS Bar Bib](https://www.littlebambinos.co.nz/products/bar-bib): This charming bar bib is crafted from 100% wool felt, perfect for your swing. It’s gentle on sensitive skin and simple to clean. The bib attaches securely with kid-friendly soft close domes, making it both safe and convenient.
+  Updated: 2025-08-26T04:28:11Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/greybarbib.webp?v=1752714870
+  - [Grey](https://www.littlebambinos.co.nz/products/bar-bib?variant=41864231649374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/greybarbib.webp?v=1752714870
+    Price: $22.00 NZD
+  - [Sand](https://www.littlebambinos.co.nz/products/bar-bib?variant=41864231682142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sandbarbib.webp?v=1752714892
+    Price: $22.00 NZD
+- [SOLVEJ SWINGS Extra Long Extension Ropes](https://www.littlebambinos.co.nz/products/extra-long-extension-ropes): 4m black extension ropes.
+  Updated: 2025-08-26T04:28:12Z
+  Vendor: Solvej Swings
+  Product Type: Outdoor Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/extralongextensionropes.webp?v=1752715075
+  Price: $60.00 NZD
+- [SOLVEJ SWINGS Dee's Beeswax Wood Conditioner 50g](https://www.littlebambinos.co.nz/products/dees-beeswax-wood-conditioner-50g): Dee's Beeswax Wood Conditioner 50g offers a completely natural, food-safe mix of beeswax and plant oils designed to maintain your wood’s beauty. It features a gentle honey fragrance that fades quickly with use. This conditioner restores the natural oils lost to weathering and adds a protective beeswax layer to lock in moisture and preserve the wood’s colour. A little goes a long way, making this tin ideal for long-term care, especially for your swing. Without any water in the formula, it stays fresh and won’t dry out in the container.
+  Updated: 2025-08-26T04:28:13Z
+  Vendor: Solvej Swings
+  Product Type: Baby Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/deesbees.webp?v=1752715168
+  Price: $20.00 NZD
 - [TOSHI Swim Kids Boardies - Uluwatu](https://www.littlebambinos.co.nz/products/toshi-swim-kids-boardies-uluwatu): Adorable dinosaur themed baby shorts crafted from the finest quality 100% cotton. Designed for comfort and mobility during little adventures and moments of vigorous play, these shorts are a great addition to the summer wardrobe.
   Updated: 2025-08-24T22:24:11Z
   Vendor: Toshi
@@ -14685,14 +14922,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T06:22:42Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T07:42:47Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -14722,7 +14959,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $7.99 NZD
 - [LIL MOO Spare Parts](https://www.littlebambinos.co.nz/products/dust-cap): Misplaced your dust cap or rubber seal of your bottle warmer? No worries, you can order a new one here! Make sure you press the middle of the dust cap down when on the warmer to ensure a secure fit. Please do not place rubber seal or any part of your Portable Bottle Warmer in a UV steriliser or dishwasher.
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:04:50Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -14836,8 +15073,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 388
+  Updated: 2025-08-26T07:43:16Z
+  Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -15184,7 +15421,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-08-26T03:41:09Z
+  Updated: 2025-08-26T04:28:11Z
   Total Products: 1545
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
@@ -15244,7 +15481,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:37Z
   Total Products: 0
 - [ALL Baby](https://www.littlebambinos.co.nz/collections/all-baby)
-  Updated: 2025-08-26T03:32:39Z
+  Updated: 2025-08-26T04:28:10Z
   Total Products: 267
 - [RYLEE + CRU - HOMETOWN SS20](https://www.littlebambinos.co.nz/collections/hometown): RYLEE + CRU SS20 - HOMETOWN LAUNCHES 6AM 28.02 NZST FREE LOCAL SHIPPING - RCFREESHIP Ends Midnight 01.02.20 nzst
   Updated: 2025-07-02T08:33:07Z
@@ -15328,8 +15565,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:34:47Z
   Total Products: 29
 - [Toys + Activities](https://www.littlebambinos.co.nz/collections/toys-activities): Shop our collection of Toys and Activities
-  Updated: 2025-08-23T11:01:56Z
-  Total Products: 301
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 308
 - [Girls - Matching Sets](https://www.littlebambinos.co.nz/collections/girls-matching-sets): Shop our collection of girls matching sets
   Updated: 2025-08-06T22:49:09Z
   Total Products: 55
@@ -15343,14 +15580,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:33:54Z
   Total Products: 2
 - [Accessories](https://www.littlebambinos.co.nz/collections/accessories): Shop our collection of accessories
-  Updated: 2025-08-21T11:01:54Z
+  Updated: 2025-08-26T04:28:10Z
   Total Products: 137
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 5546
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 5545
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 5546
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 5545
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-08-06T22:45:43Z
   Total Products: 79
@@ -15424,8 +15661,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:25Z
   Total Products: 152
 - [Wooden Toys](https://www.littlebambinos.co.nz/collections/wooden-toys): Shop our collection of wooden toys
-  Updated: 2025-08-06T22:35:32Z
-  Total Products: 80
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 90
 - [Soft Toys](https://www.littlebambinos.co.nz/collections/soft-toys): Shop our collection of soft toys
   Updated: 2025-08-06T22:48:27Z
   Total Products: 66
@@ -15442,7 +15679,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:38:26Z
   Total Products: 142
 - [Activities](https://www.littlebambinos.co.nz/collections/colouring-painting): Shop our collection of Activities
-  Updated: 2025-08-06T22:41:56Z
+  Updated: 2025-08-26T04:28:09Z
   Total Products: 30
 - [Tiny Table Co](https://www.littlebambinos.co.nz/collections/tiny-table): Tiny Table create pared back feeding essentials for babies that prioritise form and functionality. Made from the highest quality food grade silicone that is not only super safe for baby but oh so practical.
   Updated: 2025-07-02T08:35:28Z
@@ -15673,8 +15910,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 5532
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 5531
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-08-24T22:26:38Z
   Total Products: 242
@@ -15688,8 +15925,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 1285
+  Updated: 2025-08-26T07:43:16Z
+  Total Products: 1297
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-08-25T23:45:07Z
   Total Products: 472
@@ -15697,8 +15934,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T23:44:29Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 5525
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 5524
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
   Total Products: 0
@@ -15718,8 +15955,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-09T09:34:06Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 1686
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 1685
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-08-26T03:40:59Z
   Total Products: 60
@@ -15967,8 +16204,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:55Z
   Total Products: 0
 - [Toys](https://www.littlebambinos.co.nz/collections/n-toys): Shop our collection of Toys
-  Updated: 2025-08-24T22:26:38Z
-  Total Products: 490
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 500
 - [Pools](https://www.littlebambinos.co.nz/collections/n-pools): Shop our collection of pool products
   Updated: 2025-08-25T23:51:07Z
   Total Products: 75
@@ -15988,8 +16225,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-14T11:02:05Z
   Total Products: 70
 - [Wooden Toys](https://www.littlebambinos.co.nz/collections/n-wooden-toys): Shop our collection of wooden toys
-  Updated: 2025-08-06T22:35:32Z
-  Total Products: 80
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 90
 - [Musical Toys](https://www.littlebambinos.co.nz/collections/musical-toys): Shop our collection of musical toys
   Updated: 2025-07-02T08:36:00Z
   Total Products: 10
@@ -15997,7 +16234,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:56Z
   Total Products: 19
 - [Activity Rings](https://www.littlebambinos.co.nz/collections/n-activity-rings): Shop our collection of Activity Rings
-  Updated: 2025-08-06T22:43:36Z
+  Updated: 2025-08-26T04:28:09Z
   Total Products: 34
 - [Baby Mats](https://www.littlebambinos.co.nz/collections/n-baby-mats): Shop our collection of baby mats
   Updated: 2025-08-06T22:45:52Z
@@ -16036,7 +16273,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-09T11:01:34Z
   Total Products: 161
 - [Baby Play](https://www.littlebambinos.co.nz/collections/n-baby-play): Shop our collection of baby play products
-  Updated: 2025-08-24T11:02:21Z
+  Updated: 2025-08-26T04:28:09Z
   Total Products: 223
 - [Baby Footwear](https://www.littlebambinos.co.nz/collections/n-baby-footwear): Shop our collection of baby footwear
   Updated: 2025-08-25T23:44:29Z
@@ -16072,8 +16309,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T23:45:07Z
   Total Products: 226
 - [Play](https://www.littlebambinos.co.nz/collections/n-play): Shop our collection of play products
-  Updated: 2025-08-25T23:51:07Z
-  Total Products: 563
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 573
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
   Updated: 2025-08-26T03:40:59Z
   Total Products: 1682
@@ -16087,16 +16324,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T11:02:06Z
   Total Products: 176
 - [Mama](https://www.littlebambinos.co.nz/collections/mama-n): Shop our collection of all thing Mama
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:04:49Z
   Total Products: 232
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2025-08-26T03:40:59Z
+  Updated: 2025-08-26T04:28:09Z
   Total Products: 952
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:28:12Z
   Total Products: 5491
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-08-25T23:45:07Z
@@ -16105,7 +16342,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:55Z
   Total Products: 8
 - [Weight test](https://www.littlebambinos.co.nz/collections/weight-test)
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:04:49Z
   Total Products: 44
 - [Crywolf](https://www.littlebambinos.co.nz/collections/crywolf): Crywolf is fun, functional and big on style and they have kids aged 1-14 years covered for their outdoor missions. Their collections feature limited edition prints and include Swimwear made from recycled materials, epic Beach Sandals, 100% waterproof Play Jackets and Overalls, Rain Boots and new Magic Jacket. Crywolf's innovative Eco-Puffer Jackets that are filled with recycled water bottles, with new styles being released every year.
   Updated: 2025-08-06T22:48:59Z
@@ -16126,13 +16363,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T23:45:33Z
   Total Products: 760
 - [Home](https://www.littlebambinos.co.nz/collections/n-home): Shop our collection of home products
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:04:49Z
   Total Products: 861
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-1): Shop our collection of kids room and nursery products
   Updated: 2025-08-24T23:50:00Z
   Total Products: 123
 - [Baby Bottle](https://www.littlebambinos.co.nz/collections/baby-bottle): Shop our collection of Baby Bottles
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:04:49Z
   Total Products: 9
 - [Water Bottle](https://www.littlebambinos.co.nz/collections/water-bottle): Shop our collection of Water Bottles
   Updated: 2025-08-25T11:02:06Z
@@ -16147,7 +16384,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:39:02Z
   Total Products: 20
 - [Baby Toy](https://www.littlebambinos.co.nz/collections/n-baby-toy)
-  Updated: 2025-08-06T22:38:26Z
+  Updated: 2025-08-26T04:28:08Z
   Total Products: 17
 - [Baby Dinnerware](https://www.littlebambinos.co.nz/collections/baby-dinnerware): Shop our collection of baby dinnerware
   Updated: 2025-08-20T11:02:20Z
@@ -16240,8 +16477,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T23:51:07Z
   Total Products: 525
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 5494
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 5493
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-08-20T11:02:20Z
   Total Products: 37
@@ -16258,8 +16495,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 2271
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 2270
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-08-06T22:44:16Z
   Total Products: 15
@@ -16336,11 +16573,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T11:02:06Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 2341
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 2340
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-08-26T04:00:07Z
-  Total Products: 5546
+  Updated: 2025-08-26T04:28:12Z
+  Total Products: 5545
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-08-24T11:02:21Z
   Total Products: 22
@@ -16369,11 +16606,17 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:15Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2025-08-26T04:00:07Z
+  Updated: 2025-08-26T04:28:12Z
   Total Products: 1582
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
   Updated: 2025-08-26T03:41:28Z
   Total Products: 3088
+- [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
+  Updated: 2025-08-26T04:04:49Z
+  Total Products: 3
+- [SOLVEJ SWINGS](https://www.littlebambinos.co.nz/collections/solvej-swings)
+  Updated: 2025-08-26T04:28:23Z
+  Total Products: 12
 
 ## Blogs
 
