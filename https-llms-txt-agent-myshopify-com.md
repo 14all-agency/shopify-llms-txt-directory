@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-23T02:33:00Z
 - Contact Email: mitchell@14all.agency
-- Updated At: 2025-08-26T16:00:26.998Z
+- Updated At: 2025-08-26T20:00:27.245Z
 
 Hello! This is an example of an LLMS.txt file you can create with LLMS.txt Agent. Your LLMS.txt file can include products, collections, pages, articles, and other website links. It's also all customizable via the app settings. Give it a try!
 
