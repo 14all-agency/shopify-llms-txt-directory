@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-08-27T12:00:42.403Z
+- Updated At: 2025-08-27T16:00:43.602Z
 
 ## Products
 
@@ -3732,7 +3732,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_1.png?v=1684396892
   Price: $74.00 NZD
 - [PURE MAMA Nipple Butter](https://www.littlebambinos.co.nz/products/pure-mama-nipple-butter): Made with high quality, 100% natural and organic ingredients including Organic Shea Butter, Kawakawa and Calendula Flower, this Lanolin-free nipple butter will help soothe and restore dry, cracked, and sore nipples for breastfeeding mamas. A birthing bag essential! Midwife and Lactation Consultant recommended - by Libby Cain + Instantly soothes nipples + Helps repair cracked skin+ Deeply nourishes and aids in healing process + No need to wash off before feeding+ Fragrance-free and gentle on skin Formulated specifically for breastfeeding women and suitable for use on all skin types. Patch test first. If any reaction occurs, discontinue use immediately. Not breastfeeding anymore? Great as an everyday lip balm too! DIRECTIONS FOR USEUse as required before and after breastfeeding. Gently pat the nipple dry and apply a small amount of balm. No need to wash off for feeding. This product is safe for baby. Recommend patch test first. SCENTVery subtle smell of beeswax. No additional fragrance or essential oils have been added. Blend carefully formulated to minimise potenial allergens. INGREDIENTSPrunus Amygdalus Dulcis (Sweet Almond) Oil; Cera Alba (Beeswax); Butyrospermum Parkii (Shea) Butter*; Cocos Nucifera (Coconut) Oil*; Macropiper Excelsum Leaf Extract (Kawakawa); Glycine Soja (Soybean) Oil; Rubus Idaeus (Raspberry) Seed Oil; Calendula Officinalis Flower Extract; Althaea Officinalis (Marshmellow) Root Extract. *Certified Organic.
-  Updated: 2025-08-24T23:02:21Z
+  Updated: 2025-08-27T14:52:18Z
   Vendor: Pure Mama
   Product Type: Women Care
   Availability: Available
@@ -15135,7 +15135,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-08-27T11:43:13Z
+  Updated: 2025-08-27T15:43:16Z
   Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15987,7 +15987,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-08-27T11:43:13Z
+  Updated: 2025-08-27T15:43:16Z
   Total Products: 1297
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-08-27T03:27:59Z
