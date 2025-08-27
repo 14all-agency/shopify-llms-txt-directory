@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-27T16:00:33.192Z
+- Updated At: 2025-08-27T20:00:33.585Z
 
 ## Products
 
@@ -3112,7 +3112,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Topspinner60m_GroundSpike-MetallicGrey-8710755310867Brabantia_96dpi_1000x1000px_7_NR-28672.png?v=1734572963
   Price: $299.95 NZD
 - [Brabantia HangOn Drying Rack with Rod - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-with-rod-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! Thanks to the rocking rod, and 25 metres of flexible drying space, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. XXL drying in size and benefits!
-  Updated: 2025-08-27T01:04:50Z
+  Updated: 2025-08-27T17:07:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
