@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-27T04:00:33.273Z
+- Updated At: 2025-08-27T08:00:33.967Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sling-Sink-Caddy-White-3.jpg?v=1727658861
   Price: $17.99 NZD
 - [Peggy Drawer Org (2Pc) - White](https://everydayhome.co.nz/products/peggy-drawer-org-2pc-wht): Peggy Drawer Org (2Pc)  Wht
-  Updated: 2025-08-12T16:17:51Z
+  Updated: 2025-08-27T04:30:45Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2006,7 +2006,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-32cm-Open-Stirfry-Ci-0.jpg?v=1731902053
   Price: $99.99 NZD
 - [Circulon Scratchdefense A1 - 14cm/0.9L Open Milkpan](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-14cm-0-9l-open-milkpan-w-spout): Experience excellence with the Circulon Open Milkpan w/Spout 14cm/0.9L, a true kitchen masterpiece. This premium milkpan is crafted for lasting durability, boasting a metal utensil-safe interior that can handle your toughest cooking tasks. Its cast steel and silicone handles provide a secure grip and stay cool on the stovetop. Plus, the stain-resistant exterior nonstick finish ensures effortless cleanup. Whether you're making creamy sauces or warming milk, trust in Circulon's innovation for consistent, reliable performance.
-  Updated: 2025-08-17T17:07:11Z
+  Updated: 2025-08-27T04:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2783,7 +2783,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sling-Caddy-With-Pump-White-UMBRA-6.jpg?v=1731902227
   Price: $29.99 NZD
 - [Sling Folding Dishrack - White](https://everydayhome.co.nz/products/sling-folding-dishrack-white): Introducing Sling Dishrack: the space-saving and efficient solution for your dishes. This easy-to-use and durable dishrack is designed to maximize capacity while minimizing clutter. The Sling Dishrack features a metal foldaway rack and a folding mat that fits perfectly into a convenient caddy base. The base has three divided sections for your cutlery, large utensils, or dish cleaning accessories like sponges and scrub brushes. Not only is the Sling Dishrack incredibly functional, but it's also portable. It folds away for easy storage when you're not using it, and it's perfect for taking on camping trips. To keep everything in place, a silicone band wraps around the caddy base and holds up the mat and rack when they're not in use
-  Updated: 2025-08-24T22:07:11Z
+  Updated: 2025-08-27T04:30:45Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3301,7 +3301,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattBlack-8710755108587Brabantia_96dpi_1000x1000px_7_NR-19967.png?v=1734469082
   Price: $74.95 NZD
 - [Brabantia ReNew Toilet Brush and Holder - Platinum](https://everydayhome.co.nz/products/renew-toilet-brush-and-holder-platinum): Not too hot on cleaning the loo? Armed with this reliable Brabantia ReNew Toilet Brush and Holder, cleaning the toilet is a lot easier and faster. Bonus: the holder keeps your brush out of sight, but ready whenever you need it. Made of corrosion-resistant materials, the holder keeps its beauty - even in humid conditions. Designed to be discreet!
-  Updated: 2025-08-24T18:52:10Z
+  Updated: 2025-08-27T04:30:45Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3703,7 +3703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Screenshot2024-06-27115015.png?v=1746478922
     Price: $990.00 NZD
 - [SwiftDry Lifestyle Colonial Airer - Black (3 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-colonial-clothes-airer-1-8-meter): The traditional Lifestyle Colonial Clothes Airer was one of the early designs of its kind made and distributed in New Zealand for the Ceiling mounted clothes drying rack, and it’s sleek, compact, design and ease of use has made it a much loved addition to thousands of New Zealand homes. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Featuring Antique powder coated aluminium end brackets hand-cast in the traditional way, and the four wooden rails are crafted from imported kiln-dried American White Ash, specially selected for its straight, beautiful grain and warp-resistant stability. The rails are supplied fine sanded and ready to use but can be stained and clear-coated by the purchaser to match existing décor if required. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES 2x powder coated aluminium end brackets Pulleys and screw mounting hooks 10m length of braided sash cord with cleat hook and screws (15m available for high ceilings) Easy DIY assembly instructions 30 day money back guarantee 30 yr Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Soft, easy to handle braided pulley cord Length: 1.2m / 1.8m / 2.4m Width: 500mm Rack End Colour Options: Black Weight: approx. 5kg ALSO AVAILABLE AT: Mitre 10 Mega Hornby - ChristchurchMitre 10 Mega Papanui - Christchurch
-  Updated: 2025-08-06T20:08:18Z
+  Updated: 2025-08-27T05:52:10Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
