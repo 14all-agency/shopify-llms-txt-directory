@@ -6,7 +6,7 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-08-28T10:20:41.223Z
+- Updated At: 2025-08-28T10:20:49.870Z
 
 ## Products
 
