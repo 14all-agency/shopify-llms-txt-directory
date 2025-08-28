@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-28T04:00:33.687Z
+- Updated At: 2025-08-28T08:00:33.852Z
 
 ## Products
 
@@ -501,7 +501,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-LISA-WIRENFELT-Meringue-8.jpg?v=1727659525
   Price: $85.00 NZD
 - [REBECCA HEIN Sea Lavender](https://everydayhome.co.nz/products/rebecca-hein-sea-lavender): Seeking out calmness, Danish artist Rebecca Hein has created a collection of artworks that explores the hushed depths of the ocean, the colours of coral reefs and their organic shapes. The result is The Sous La Mer Collection where art meets nature.
-  Updated: 2025-07-20T12:00:37Z
+  Updated: 2025-08-28T06:13:44Z
   Vendor: The Poster Club
   Product Type: 
   Availability: Available
@@ -3413,12 +3413,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Large_Plastic-LightGrey-8710755203121Brabantia_96dpi_1000x1000px_7_NR-27933.png?v=1734401261
   Price: $14.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Dark Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-dark-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:24:01Z
+  Updated: 2025-08-28T04:31:13Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-DarkGrey-8710755202520Brabantia_96dpi_1000x1000px_7_NR-27884.png?v=1734401760
-  Price: $24.95 NZD
+  Price: $9.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
   Updated: 2025-08-15T13:26:10Z
   Vendor: BRABANTIA
@@ -4724,16 +4724,16 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-08-27T11:08:25Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-07-29T03:51:57Z
@@ -4748,7 +4748,7 @@
   Updated: 2024-09-06T00:59:15Z
   Total Products: 0
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 55
 - [Shelves](https://everydayhome.co.nz/collections/shelves)
   Updated: 2024-09-06T00:59:12Z
@@ -4832,7 +4832,7 @@
   Updated: 2025-08-12T04:53:04Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-08-27T22:14:21Z
@@ -4985,13 +4985,13 @@
   Updated: 2025-08-27T22:14:24Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-08-27T22:14:23Z
-  Total Products: 128
+  Updated: 2025-08-28T04:31:43Z
+  Total Products: 129
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
   Updated: 2025-08-27T22:14:19Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-08-27T22:10:32Z
@@ -5033,11 +5033,11 @@
   Updated: 2025-08-27T22:15:26Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-08-27T22:14:23Z
-  Total Products: 141
+  Updated: 2025-08-28T04:31:43Z
+  Total Products: 142
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-28T03:32:15Z
-  Total Products: 922
+  Updated: 2025-08-28T04:31:43Z
+  Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-08-27T22:14:23Z
   Total Products: 22
@@ -5072,7 +5072,7 @@
   Updated: 2025-08-15T03:00:10Z
   Total Products: 54
 - [On The Go](https://everydayhome.co.nz/collections/on-the-go)
-  Updated: 2025-08-26T11:06:38Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
   Updated: 2025-08-26T16:46:17Z
@@ -5081,11 +5081,11 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-28T03:32:15Z
+  Updated: 2025-08-28T04:31:14Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-28T03:32:15Z
-  Total Products: 922
+  Updated: 2025-08-28T04:31:43Z
+  Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-27T21:49:47Z
   Total Products: 34
