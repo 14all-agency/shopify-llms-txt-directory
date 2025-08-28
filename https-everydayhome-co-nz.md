@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-28T08:00:33.852Z
+- Updated At: 2025-08-28T12:00:35.414Z
 
 ## Products
 
@@ -2825,7 +2825,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Stowit-Jewelry-Box-Black-Walnut-UMBRA-6.png?v=1731902487
   Price: $159.99 NZD
 - [Stowit Mini Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-mini-jewelry-box-black-walnut): Use Mini Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Multiple hidden compartments of various sizes allow you to store your rings, earrings, bracelets, watches, necklaces and other accessories in different configurations depending on what works best for you. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Mini Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Alternatively, Mini Stowit can also be used as a keepsake box, for storing small valuables and other trinkets from your adventures, or as a drawer organizer in your desk or nightstand.
-  Updated: 2025-08-12T16:47:39Z
+  Updated: 2025-08-28T08:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4724,22 +4724,22 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-28T04:31:14Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-28T04:31:14Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-08-27T11:08:25Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-08-28T04:31:14Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-07-29T03:51:57Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-08-27T21:49:17Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-08-27T22:15:29Z
@@ -4832,7 +4832,7 @@
   Updated: 2025-08-12T04:53:04Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-08-28T04:31:14Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-08-27T22:14:21Z
@@ -4907,7 +4907,7 @@
   Updated: 2025-08-27T22:14:19Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
-  Updated: 2025-08-27T22:14:21Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
   Updated: 2025-08-27T22:15:33Z
@@ -4919,7 +4919,7 @@
   Updated: 2025-08-27T22:15:33Z
   Total Products: 19
 - [Cleaning Tools & Accessories](https://everydayhome.co.nz/collections/cleaning-tools-accessories)
-  Updated: 2025-08-27T22:15:23Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 8
 - [Steaming Accessories](https://everydayhome.co.nz/collections/steaming-accessories)
   Updated: 2025-08-27T22:15:32Z
@@ -4991,7 +4991,7 @@
   Updated: 2025-08-27T22:14:19Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-08-28T04:31:14Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-08-27T22:10:32Z
@@ -5036,7 +5036,7 @@
   Updated: 2025-08-28T04:31:43Z
   Total Products: 142
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-28T04:31:43Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-08-27T22:14:23Z
@@ -5081,10 +5081,10 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-28T04:31:14Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-28T04:31:43Z
+  Updated: 2025-08-28T11:07:45Z
   Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-27T21:49:47Z
