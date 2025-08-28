@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-28T00:00:33.720Z
+- Updated At: 2025-08-28T04:00:33.687Z
 
 ## Products
 
@@ -438,7 +438,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Replacement-Dish-Brush-Set-of-2-Dark-Gre-6.jpg?v=1727659117
   Price: $19.95 NZD
 - [Brabantia SinkSide Soap Dispensing Dish Brush - Dark Grey](https://everydayhome.co.nz/products/soap-dispensing-dish-brush-dark-grey): Soap Dispensing Dish Brush, Dark Grey
-  Updated: 2025-08-21T01:22:11Z
+  Updated: 2025-08-28T02:33:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1040,14 +1040,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Dotsy-7-Hook-White-Natural-9.jpg?v=1727658893
   Price: $59.99 NZD
 - [Picket 5 Hook - Natural](https://everydayhome.co.nz/products/picket-5-hook-natural): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-08-25T23:52:11Z
+  Updated: 2025-08-28T02:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Natural-8.png?v=1727660128
   Price: $99.99 NZD
 - [Picket 5 Hook - Aged Walnut](https://everydayhome.co.nz/products/picket-5-hook-aged-walnut): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-08-19T00:22:11Z
+  Updated: 2025-08-28T02:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1880,7 +1880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $479.99 NZD
 - [Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-08-25T23:52:10Z
+  Updated: 2025-08-28T03:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2020,7 +2020,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-18cm-2-8L-Covered-Sauce-0.jpg?v=1731902998
   Price: $209.99 NZD
 - [Circulon Scratchdefense A1 - 21.5/25.4cm Skillet Twin Pack](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5-25-4cm-skillet-twin-pack): The Frypan Twin Pack is your essential kitchen companion for perfecting your cooking skills. This premium set includes two frypans with a generous 21.5cm and 25.4cm diameter, ideal for a variety of culinary tasks.
-  Updated: 2025-08-18T03:52:11Z
+  Updated: 2025-08-28T00:37:07Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2076,7 +2076,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-8-Piece-Cookware-Set-Ci-6.jpg?v=1731902752
   Price: $864.99 NZD
 - [Circulon Style - 21/25/28cm Skillet Triple Pack](https://everydayhome.co.nz/products/circulon-style-21-25-28cm-skillet-triple-pack): For a lifetime of exceptional cooking, look no further than Circulon Style. With its unique circular technology and TOTAL™ non-stick coating, oil-free cooking has never been easier, and with the non-stick proven to last 15 x longer than traditional non-stick coatings, you can rely on Style for meal after meal.
-  Updated: 2025-08-27T01:37:06Z
+  Updated: 2025-08-28T03:07:06Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2895,7 +2895,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Dishrack-Drying-Mat-Charcoal-UMBRA-0.jpg?v=1731903043
   Price: $44.99 NZD
 - [Udry Drying Rack & Drying Mat - Black](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-black): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-08-19T00:22:10Z
+  Updated: 2025-08-28T02:33:06Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3798,7 +3798,7 @@
     Availability: Available
     Price: $65.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-08-27T22:42:45Z
+  Updated: 2025-08-28T01:02:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4724,16 +4724,16 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-27T21:49:48Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-27T21:49:48Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-08-27T11:08:25Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-08-27T11:08:25Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-07-29T03:51:57Z
@@ -4748,7 +4748,7 @@
   Updated: 2024-09-06T00:59:15Z
   Total Products: 0
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-08-27T11:08:25Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 55
 - [Shelves](https://everydayhome.co.nz/collections/shelves)
   Updated: 2024-09-06T00:59:12Z
@@ -4832,7 +4832,7 @@
   Updated: 2025-08-12T04:53:04Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-08-27T22:14:22Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-08-27T22:14:21Z
@@ -4928,7 +4928,7 @@
   Updated: 2025-08-27T22:14:23Z
   Total Products: 25
 - [Bread Bins](https://everydayhome.co.nz/collections/bread-bins)
-  Updated: 2025-08-27T22:15:22Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 14
 - [Cookware Accessories For Everyday Cooking | Shop Now](https://everydayhome.co.nz/collections/cookware-accessories): Cookware accessories to complement your kitchen. From stovetop kettles and universal steamers to cookware cleaning powders and liquids. We have a wide range of items to choose from. Free shipping across NZ on orders over 99*
   Updated: 2025-08-27T22:15:24Z
@@ -4991,7 +4991,7 @@
   Updated: 2025-08-27T22:14:19Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-08-27T22:14:23Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-08-27T22:10:32Z
@@ -5036,7 +5036,7 @@
   Updated: 2025-08-27T22:14:23Z
   Total Products: 141
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-27T22:14:19Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 922
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-08-27T22:14:23Z
@@ -5081,10 +5081,10 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-27T21:49:48Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-27T21:49:48Z
+  Updated: 2025-08-28T03:32:15Z
   Total Products: 922
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-27T21:49:47Z
