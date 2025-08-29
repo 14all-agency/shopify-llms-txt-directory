@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-29T12:00:35.433Z
+- Updated At: 2025-08-29T16:00:34.409Z
 
 ## Products
 
@@ -1334,7 +1334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Small-Matt-Steel-7.png?v=1727659946
   Price: $129.95 NZD
 - [Brabantia Roll Top Bread Bin - Medium Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-08-29T03:01:31Z
+  Updated: 2025-08-29T15:01:36Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4679,21 +4679,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-5_854aaf66-a399-475d-becc-f8027be169a9.jpg?v=1754535837
   Price: $109.95 NZD
 - [Brabantia Profile Cheese Slicer - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-cheese-slicer-matt-steel): Cheese louise! This Brabantia Cheese Slicer is perfect for slicing all sorts of cheese. This sleek and stylish slicer has a sharp blade and great grip - made for easy slicing.
-  Updated: 2025-08-29T03:19:34Z
+  Updated: 2025-08-29T14:54:55Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCheeseSlicer-MattSteel-8710755250200Brabantia_96dpi_2000x2000px_9_NR-19671.jpg?v=1756436090
   Price: $29.95 NZD
 - [Brabantia Profile Pizza/Pastry Cutter - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-pizza-pastry-cutter-matt-steel): The wheel reinvented! This Brabantia Pizza/Pastry Cutter cuts your pizza and pastry into perfect parts. The stainless-steel wheel is large and sharp - made for easy cutting, even thick bakes.
-  Updated: 2025-08-29T03:19:34Z
+  Updated: 2025-08-29T14:50:18Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePizza_PastryCutter-MattSteel-8710755250446Brabantia_300dpi_2000x2000px_9_NR-19702.jpg?v=1756435812
   Price: $27.95 NZD
 - [Brabantia Profile Potatoe Masher - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-potatoe-masher-matt-steel): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-08-29T03:19:33Z
+  Updated: 2025-08-29T14:41:30Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4707,49 +4707,49 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Large_Non-Stick-MattSteel-8710755250705Brabantia_300dpi_2000x2000px_9_NR-19742.jpg?v=1756435037
   Price: $24.95 NZD
 - [Brabantia Profile Spatula Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-matt-steel): Eggs, meat, pancakes… Flip 'em and serve 'em with this Brabantia Profile Spatula, Small. This Matt Steel spatula has slots, so fat runs off easily. And it has no seams or welds, so it is also easy to clean and hygienic. A super spatula!
-  Updated: 2025-08-29T03:19:33Z
+  Updated: 2025-08-29T14:33:25Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small-MattSteel-8710755250729Brabantia_300dpi_2000x2000px_9_NR-19745.jpg?v=1756434802
   Price: $27.95 NZD
 - [Brabantia Profile Spatula Small Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-nonstick): Flipping a burger or spreading veggies in the pan? Use this Small Non-Stick Brabantia Spatula. This spatula has smart slots through which fat can easily run off - great for serving. And it's made of resilient nylon, so safe for your cookware. Start the flipping.
-  Updated: 2025-08-29T03:19:33Z
+  Updated: 2025-08-29T14:29:38Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small_Non-Stick-MattSteel-8710755250743Brabantia_300dpi_2000x2000px_9_NR-19748.jpg?v=1756434570
   Price: $21.95 NZD
 - [Brabantia Profile Serving Spoon Nonstick -Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-serving-spoon-nonstick): Get everything out of great diners and your pans. Meet the Brabantia Non-Stick Serving Spoon that lets you serve your vegetables and more with ease. Made of non-stick and non-scratch nylon, with a long handle. A stirring spoon!
-  Updated: 2025-08-29T03:19:31Z
+  Updated: 2025-08-29T14:25:45Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileServingSpoon_NonStick-MattSteel-8710755250828Brabantia_300dpi_2000x2000px_9_NR-19764.jpg?v=1756434339
   Price: $24.95 NZD
 - [Brabantia Profile Whisk Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-whisk-small-matt-steel): Whip up your style with this unbeatable yet small whisk. This Brabantia Whisk Small fits a glass, cup or small bowl with ease. A great little helper!
-  Updated: 2025-08-29T03:19:31Z
+  Updated: 2025-08-29T15:16:34Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileWhisk_Small-MattSteel-8710755250880Brabantia_300dpi_2000x2000px_9_NR-19768.jpg?v=1756433360
   Price: $24.95 NZD
 - [Brabantia Essential Peeler - White](https://everydayhome.co.nz/products/brabantia-essential-peeler-white): Cooking is even more fun with this Brabantia Food Peeler. It skins fruits, potatoes and other veggies easily and very thin. Very a-peeling!
-  Updated: 2025-08-29T03:19:31Z
+  Updated: 2025-08-29T14:05:58Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineFoodPeeler-White-8710755400308Brabantia_300dpi_2000x2000px_9_NR-4548.jpg?v=1756433145
   Price: $17.95 NZD
 - [Brabantia Essential Ice Cream Scoop - White](https://everydayhome.co.nz/products/brabantia-essential-ice-cream-scoop-white): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
-  Updated: 2025-08-29T03:19:31Z
+  Updated: 2025-08-29T14:02:42Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineIceCreamScoop-White-8710755400346Brabantia_300dpi_2000x2000px_9_NR-4550.jpg?v=1756432955
   Price: $29.95 NZD
 - [Brabantia Essential Silicone Pastry Brush Large - White](https://everydayhome.co.nz/products/brabantia-essential-silicone-pastry-brush-large-white): With this Brabantia Pastry Brush you turn your bakes into works of art. Made of soft silicone, this brush is ideal for buttering baking tins, glazing cakes, oiling veggies or basting meat. Boy, what a brush!
-  Updated: 2025-08-29T03:19:30Z
+  Updated: 2025-08-29T13:58:54Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4763,7 +4763,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLinePotatoMasher-White-8710755400483Brabantia_300dpi_2000x2000px_9_NR-4556.jpg?v=1756432332
   Price: $29.95 NZD
 - [Brabantia Essential Universal Opener - White](https://everydayhome.co.nz/products/brabantia-essential-universal-opener-white): Open your heart to this Brabantia Universal Opener. This multifunctional opener opens both lids and crown caps effortless. A turn for the better!
-  Updated: 2025-08-29T03:19:30Z
+  Updated: 2025-08-29T13:49:41Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4847,7 +4847,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverC_124x45cm-SoothingSea_96dpi_2000x2000px_9_NR-35855_aeb1cdad-064a-4198-8a39-95384d8b2cfa.jpg?v=1756267111
   Price: $59.95 NZD
 - [Brabantia Ironing Board Cover D - Metalised Silver](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-d-metalised-silver): Better ironing without any extra effort - this Brabantia metallised cotton ironing board cover is a dream come true. It reflects the heat of your (steam) iron, giving you double ironing power!
-  Updated: 2025-08-29T03:19:30Z
+  Updated: 2025-08-29T13:43:34Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
