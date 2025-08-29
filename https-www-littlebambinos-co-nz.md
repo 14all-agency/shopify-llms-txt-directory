@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-08-29T00:00:43.388Z
+- Updated At: 2025-08-29T04:00:44.799Z
 
 ## Products
 
@@ -2123,7 +2123,7 @@
     Availability: Not Available
     Price: $12.00 NZD
 - [TOSHI Singlet Onesie - Cream](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1): This dreamy little baby onesie is created for the ultimate in baby comfort and functionality. Crafted from the finest quality 100% cotton, it is soft and gentle on delicate baby skin. The envelope neckline ensures convenient dressing and press studs assist in smooth nappy changes. The gorgeous cloud print features a classic and calming baby blue skyline and is an original in-house design exclusive to Toshi.
-  Updated: 2025-08-06T22:39:28Z
+  Updated: 2025-08-29T03:56:46Z
   Vendor: Toshi
   Product Type: Onesie
   Availability: Available
@@ -2132,7 +2132,7 @@
     Availability: Available
     Price: $29.00 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1?variant=39760039084126)
-    Availability: Available
+    Availability: Not Available
     Price: $29.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream-1?variant=39760039116894)
     Availability: Available
@@ -3122,7 +3122,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [GROWN Knitted Singletsuit - Latte](https://www.littlebambinos.co.nz/products/knitted-singletsuit-latte): 100% Organic CottonÂ Lightweight knitted bodysuitÂ made from GOTS-certified organic cotton. This bodysuitÃ‚Â has a fine rib knit all over, chunky straps and press snaps at the crotch. The yarn has a space dye all over in a latte colourway. Washing Instructions - Warm gentle machine wash inside out with similar colours, do not soak, bleach or tumble dry. Line dry in the shade without delay. Warm iron on the reverse side. Do not dry clean.Â Our sizing is true to size, see our sizing page for more information on fit. Please refer to our flat lay image for the best colour representation, styled images may have filters
-  Updated: 2025-08-06T22:46:35Z
+  Updated: 2025-08-29T03:13:59Z
   Vendor: Grown
   Product Type: Singlet Bodysuits
   Availability: Available
@@ -10134,7 +10134,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $99.00 NZD
 - [KONGES SLOJD Nia Maternity Package GOTS - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-lemon): The perfect gift for new parents: A thoughtful maternity package with a soft wrap cardigan, footed pants, a baby hat, and a soft snuggle bunny. Made from 80% organic cotton and 20% recycled polyester. DETAILS GOTS, made with 80% organic materials, certified by CU 1094701. 80% organic cotton, 20% recycled polyester.
-  Updated: 2025-08-26T22:14:20Z
+  Updated: 2025-08-29T03:56:46Z
   Vendor: Konges slojd
   Product Type: Matching Set
   Availability: Available
@@ -12468,7 +12468,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $40.00 NZD
 - [KONGES SLOJD Basic Long Sleeve Newborn Body - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-long-sleeve-newborn-body-tea-stripe): Soft newborn body with long sleeves. Features snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-08-26T22:07:55Z
+  Updated: 2025-08-29T03:56:46Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
@@ -12477,7 +12477,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-long-sleeve-newborn-body-tea-stripe?variant=41419174117470)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-long-sleeve-newborn-body-tea-stripe?variant=41419179884638)
     Availability: Available
@@ -13296,7 +13296,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-08-28T20:02:48Z
+  Updated: 2025-08-29T02:22:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13355,7 +13355,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-08-27T10:22:40Z
+  Updated: 2025-08-29T02:22:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13382,7 +13382,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-08-25T22:22:41Z
+  Updated: 2025-08-29T02:22:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13396,7 +13396,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hormone_helper_e27ec68c-c508-46d1-8d4d-a801a8d6d0b8.jpg?v=1744071968
   Price: $59.00 NZD
 - [ORIA SKIN Blemish Repair Balm](https://www.littlebambinos.co.nz/products/blemish-repair-balm): 100% Natural Soothe inflammation Heal breakoutsReduce redness Crafted for hormonal imbalances, Blemish Repair Balm works with your skin to naturally heal & soothe spots. Zinc oxide provides relief with an instant moisture barrier, alongside effective healers Chamomile & Lavender oils. How it works: Zinc - Significantly reduces the swelling and redness of a skin problem like acne. Can help heal the wound or spot overnight. German Chamomile - relieves irritation, removes redness and swelling. Niacinamide - helps treat acne by reducing inflammation, regulates excess oil production, a skin regenerator so helps the scarring caused by a pimple. Niacinamide, also known as Vitamin B3, is a highly effective ingredient for treating and preventing breakouts. Here's how it helps: Reduces Inflammation: Niacinamide has anti-inflammatory properties that can help calm the skin and reduce the redness and swelling associated with acne. Regulates Sebum Production: It helps balance the skin's oil production, preventing excessive sebum that can clog pores and contribute to breakouts. Minimizes Pore Size: Niacinamide can help tighten and refine pores, reducing the likelihood of clogged pores, which are a common cause of acne. Improves Skin Barrier: By strengthening the skin's natural barrier, niacinamide helps retain moisture and protect the skin from harmful bacteria, further preventing breakouts. Fights Hyperpigmentation: It helps to reduce post-acne marks and dark spots, promoting a more even skin tone over time. How to use Apply to pimples, spots, rashes & other skin breakouts. Patch test before use. Ingredients Zinc Oxide, , Butyrospermum parkii* (shea butter)*, Simmondsia chinensis seed oil* (Jojoba oil*) Matricaria recutita (Chamomile german essential oil). Lavandula angustifolia (Lavender oil*) *Organic
-  Updated: 2025-08-24T20:56:41Z
+  Updated: 2025-08-29T02:16:41Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13805,7 +13805,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [WILSON & FRENCHY Organic Waffle Set - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon): This playful cotton waffle set includes a pre-shrunk, soft washed long sleeved top and full length pant in a relaxed fit. Adjust the ties on the waistband for a perfect fit and enjoy functional pockets, all made from GOTS certified organic cotton free from nasty chemicals. DETAILS Full length tapered leg, stretch waistband that is gentle on little tummies, functional side pockets, great everyday basic pant, waffle knit. Australian owned and designed. Made in India.
-  Updated: 2025-08-25T22:07:21Z
+  Updated: 2025-08-29T03:56:47Z
   Vendor: Wilson & Frenchy
   Product Type: Matching Set
   Availability: Available
@@ -13837,18 +13837,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-ruffle-zipsuit-little-lemon?variant=41647474704478)
     Availability: Available
     Price: $45.90 NZD
-- [WILSON & FRENCHY Organic Waffle Knot Hat - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-knot-hat-little-lemon): his knot hat by Wilson and Frenchy is made of the softest organic cotton waffle. Featuring a knot that can be adjusted to suit the size and shape of babies head. Baby beanies are ideal for newborns - they protect their heads from the cold while making them look adorable. DETAILS Adjustable knot. Australian owned and designed. Packaged in a bio-degradable bag.
-  Updated: 2025-08-07T01:30:57Z
-  Vendor: Wilson & Frenchy
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2500-05_1_578eefa4-ce8e-4feb-a432-0349f78d820a.jpg?v=1746153873
-  - [NB](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-knot-hat-little-lemon?variant=41647477260382)
-    Availability: Not Available
-    Price: $20.40 NZD
-  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-knot-hat-little-lemon?variant=41647477031006)
-    Availability: Available
-    Price: $20.40 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Growsuit - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-growsuit-beary-cute): Keep your newborn comfy and cosy with this practical yet adorable ruffle zipsuit from Wilson and Frenchy. Crafted from organic cotton waffle that is gentle on baby's sensitive skin, this zipsuit features a gorgeous ruffle detail at zip opening with an all-over print. DETAILS Round neckline with concealed zipper for safety, long sleeved, full length, two-way zip closure for easy changes, made from GOTS certified organic cotton, sustainably produced, wrapped in a bio-degradable bag.
   Updated: 2025-08-03T19:41:46Z
   Vendor: Wilson & Frenchy
@@ -14979,14 +14967,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-08-28T21:22:46Z
+  Updated: 2025-08-29T03:22:45Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-08-28T22:22:45Z
+  Updated: 2025-08-29T00:22:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15130,7 +15118,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-08-28T23:43:16Z
+  Updated: 2025-08-29T03:43:12Z
   Total Products: 402
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15982,8 +15970,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-08-28T23:43:16Z
-  Total Products: 1297
+  Updated: 2025-08-29T03:57:16Z
+  Total Products: 1296
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-08-27T03:27:59Z
   Total Products: 472
