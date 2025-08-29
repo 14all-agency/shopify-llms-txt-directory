@@ -6,7 +6,7 @@
 - Timezone: America/Guatemala
 - Created At: 2025-08-03T17:24:54Z
 - Contact Email: support@trustedtechteamg.com
-- Updated At: 2025-08-29T00:00:37.302Z
+- Updated At: 2025-08-29T04:00:37.282Z
 
 ## Products
 
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/office-2024_1c4ff8d5-10ae-4d7d-8520-f9511bccd62f.png?v=1755167266
   Price: $200.00 USD
 - [Microsoft Project Professional 2024 - Advanced Project Management Software](https://www.trustedtechteamg.com/products/microsoft-project-professional-2024): Discover Microsoft Project Professional 2024, the ultimate tool for enhancing project management. Streamline tasks, allocate resources & track progress efficiently.
-  Updated: 2025-08-28T11:23:15Z
+  Updated: 2025-08-29T01:15:43Z
   Vendor: Microsoft
   Product Type: Microsoft > Project > 2024 > Professional
   Availability: Available
@@ -123,14 +123,14 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/visio-professional-sa.png?v=1755167316
   Price: $150.00 USD
 - [Microsoft Visio Standard 2024 – Powerful Diagramming Tool](https://www.trustedtechteamg.com/products/microsoft-visio-standard-2024): Discover Microsoft Visio Standard 2024, a powerful diagramming tool for creating professional visuals with ease. Enhance your projects and streamline collaboration today!
-  Updated: 2025-08-28T11:23:15Z
+  Updated: 2025-08-29T02:05:17Z
   Vendor: Microsoft
   Product Type: Microsoft > Visio > 2024 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/visio-professional-sa_0f9dc2fd-b080-4f72-9f4f-e290bc26e965.png?v=1755167325
   Price: $150.00 USD
 - [Microsoft Office Home 2024: The Ultimate Productivity Suite](https://www.trustedtechteamg.com/products/microsoft-office-home-2024): Discover Microsoft Office Home 2024, the essential suite for productivity, collaboration, and creativity. Perfect for home and business use.
-  Updated: 2025-08-28T11:23:15Z
+  Updated: 2025-08-29T02:05:17Z
   Vendor: Microsoft
   Product Type: Microsoft > Office > 2024 > Home and Student
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/MSO2024_HB_Box.jpg?v=1754797247
   Price: $229.98 USD
 - [Microsoft Windows 10 Home OEI 32-bit - Reliable OS for Your PC](https://www.trustedtechteamg.com/products/microsoft-windows-10-home-oei-32-bit): Explore Microsoft Windows 10 Home OEI 32-bit, a reliable operating system with user-friendly features, exceptional performance, and enhanced security for all your computing needs.
-  Updated: 2025-08-28T11:23:15Z
+  Updated: 2025-08-29T02:30:36Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows > 10 > Home
   Availability: Available
@@ -683,21 +683,21 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-user_ttt2.jpg?v=1754797477
   Price: $300.00 USD
 - [Microsoft Windows Server 2022 Remote Desktop 50 User CAL](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-remote-desktop-50-user-cal): Microsoft Windows Server 2022 Remote Desktop 50 User CAL enables secure remote access for up to 50 users. Compatible with multiple Windows versions. Shop now!
-  Updated: 2025-08-28T11:20:34Z
+  Updated: 2025-08-29T00:04:51Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > Remote Desktop Service > 2022
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-user_ttt2_c87925b7-8969-4015-b5d6-b1c701bf883c.jpg?v=1754797478
   Price: $300.00 USD
 - [Microsoft Windows Server 2022 Remote Desktop 50 Device CAL - Elite Pricing](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-remote-desktop-50-device-cal-elite-pricing): Microsoft Windows Server 2022 Remote Desktop 50 Device CAL - Elite Pricing offers secure remote connections for multiple devices. Flexible licensing for your needs. Shop now!
-  Updated: 2025-08-28T11:20:34Z
+  Updated: 2025-08-29T01:44:32Z
   Vendor: Microsoft-Elite
   Product Type: Microsoft > Windows Server > Remote Desktop Service > 2022
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-device_ttt2.jpg?v=1754797480
   Price: $300.00 USD
 - [Microsoft Windows Server 2022 Remote Desktop 50 Device CAL](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-remote-desktop-50-device-cal): Microsoft Windows Server 2022 Remote Desktop 50 Device CAL - Enhance secure remote access with device-based licensing. Supports session and VM desktops. Shop now!
-  Updated: 2025-08-28T11:20:34Z
+  Updated: 2025-08-29T00:04:51Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > Remote Desktop Service > 2022
   Availability: Available
@@ -718,21 +718,21 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-user_ttt2_e271d4a2-0158-49ed-98d0-59a3e2d09d4a.jpg?v=1754797483
   Price: $300.00 USD
 - [Microsoft Windows Server 2022 Remote Desktop 20 Device CAL - Elite Pricing](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-remote-desktop-20-device-cal-elite-pricing): Microsoft Windows Server 2022 Remote Desktop 20 Device CAL - Elite Pricing secures remote access for multiple devices. Flexible licensing for efficient server use. Shop now!
-  Updated: 2025-08-28T11:20:34Z
+  Updated: 2025-08-29T01:01:57Z
   Vendor: Microsoft-Elite
   Product Type: Microsoft > Windows Server > Remote Desktop Service > 2022
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-device_ttt2_3110ba20-14af-4259-935a-afcdd798c2f2.jpg?v=1754797486
   Price: $300.00 USD
 - [Microsoft Windows Server 2022 Remote Desktop 20 Device CAL](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-remote-desktop-20-device-cal): Microsoft Windows Server 2022 Remote Desktop 20 Device CAL - Securely connect remote users for enhanced productivity. Access from managed or unmanaged devices. Shop now!
-  Updated: 2025-08-28T11:20:34Z
+  Updated: 2025-08-29T00:03:40Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > Remote Desktop Service > 2022
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-device_ttt2_1a1e6ed0-5bae-4416-9bd8-852762810abd.jpg?v=1754797487
   Price: $300.00 USD
 - [Standard CALs](https://www.trustedtechteamg.com/products/standard-cals-18): Standard CALs - Provides essential licensing for seamless access management. Designed to work exclusively with Product Options application. Shop now!
-  Updated: 2025-08-28T11:20:34Z
+  Updated: 2025-08-29T00:02:16Z
   Vendor: Trusted Tech Team
   Product Type: OPTIONS_HIDDEN_PRODUCT
   Availability: Available
@@ -819,14 +819,14 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/WS_2022_Retail_Box_2_3405bce3-0d41-4ed6-b2ee-92dd79a9eac7.png?v=1755168567
   Price: $79.99 USD
 - [Microsoft Windows Server 2022 Datacenter - 16 Core - Elite Pricing](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-datacenter-16-core-elite-pricing): Microsoft Windows Server 2022 Datacenter - Protect business-critical workloads with advanced multi-layer security. Hybrid capabilities with Azure enhance IT efficiency. Shop now!
-  Updated: 2025-08-28T11:18:21Z
+  Updated: 2025-08-29T00:53:30Z
   Vendor: Microsoft-Elite
   Product Type: Microsoft > Windows Server > 2022 > Datacenter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-datacenter_2_7e3f247e-7b3e-4424-8693-ee74facda30f.jpg?v=1754797508
   Price: $250.00 USD
 - [Microsoft Windows Server 2022 Standard - 16 Core - Elite Pricing](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-standard-16-core-elite-pricing): Microsoft Windows Server 2022 Standard - Advanced multi-layer security to protect your business-critical workloads. Hybrid Azure capabilities for IT efficiency. Shop now!
-  Updated: 2025-08-28T11:18:21Z
+  Updated: 2025-08-29T01:45:38Z
   Vendor: Microsoft-Elite
   Product Type: Microsoft > Windows Server > 2022 > Standard
   Availability: Available
@@ -847,7 +847,7 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-rds-user.jpg?v=1754797513
   Price: $250.00 USD
 - [Microsoft Windows Server 2022 Remote Desktop 1 Device CAL](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-remote-desktop-1-device-cal): Microsoft Windows Server 2022 Remote Desktop 1 Device CAL - Enables secure remote connections for one device. Supports session and virtual desktops. Shop now!
-  Updated: 2025-08-28T11:18:21Z
+  Updated: 2025-08-29T00:58:27Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > Remote Desktop Service > 2022
   Availability: Available
@@ -868,14 +868,14 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-5-user-cal_ttt2.jpg?v=1754797518
   Price: $189.99 USD
 - [Microsoft Windows Server 2022 - 5 Device Client Access License (CAL)](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-5-device-cal): Microsoft Windows Server 2022 - 5 Device Client Access License (CAL) boosts server performance with advanced security. Enables seamless access for 5 devices. Shop now!
-  Updated: 2025-08-28T11:18:21Z
+  Updated: 2025-08-29T01:59:46Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Client Access Licenses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2022-5-device-cal_ttt2.jpg?v=1754797518
   Price: $173.99 USD
 - [Microsoft Windows Server 2022 - 1 User Client Access License (CAL)](https://www.trustedtechteamg.com/products/microsoft-windows-server-2022-1-user-cal): Microsoft Windows Server 2022 - 1 User Client Access License (CAL) provides seamless access for one user. Features enhanced security and hybrid Azure integration. Shop now!
-  Updated: 2025-08-28T11:18:21Z
+  Updated: 2025-08-29T00:57:14Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Client Access Licenses
   Availability: Available
@@ -2039,21 +2039,21 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/ws-2019_rds-cal.png?v=1755170426
   Price: $75.00 USD
 - [Microsoft Windows Server 2019 Datacenter - 2 Core - Powerful Server OS for Your Business](https://www.trustedtechteamg.com/products/microsoft-windows-server-2019-datacenter-2-core-open-license): Discover the full potential of your business infrastructure with Microsoft Windows Server 2019 Datacenter - 2 Core. This powerful server operating system offers unlimited virtual machine capabilities, robust security features, and seamless integration with Azure. Perfect for diverse workloads, it enhances data management and virtualization, equipped with advanced tools like VM Shielding and Windows Defender. Upgrade your datacenter today for enhanced performance and modernized applications.
-  Updated: 2025-08-28T11:14:31Z
+  Updated: 2025-08-29T00:38:47Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Datacenter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/WS2019_Datacenter_Mockup_42c7ee10-4304-4218-9a13-eddc1bd166fe.jpg?v=1754797902
   Price: $90.00 USD
 - [Microsoft Windows Server 2019 Standard - 2 Core - Flexible Infrastructure Solution](https://www.trustedtechteamg.com/products/microsoft-windows-server-2019-standard-2-core-open-license): Discover Microsoft Windows Server 2019 Standard - 2 Core, the ideal solution for enterprises seeking to expand their infrastructure with flexibility. This 2-core license supports additional cores, enhancing your business's growth. Benefit from advanced security features and seamless cloud integration through Windows Admin Center, designed for managing workloads on-premises and in Azure. With improved Linux operations and secure virtualization via Shielded Virtual Machines, you can trust in a robust server experience. Order now for free installation support from Trusted Tech Team.
-  Updated: 2025-08-28T11:14:31Z
+  Updated: 2025-08-29T00:27:53Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/WS2019_Standard_Mockup_8b9d1b09-5968-4659-8b26-26cb73a4334d.jpg?v=1754797901
   Price: $45.00 USD
 - [Microsoft Project Professional 2019 - Elite Pricing](https://www.trustedtechteamg.com/products/microsoft-project-professional-2019-license-elite-pricing): Unlock the full potential of project management with Microsoft Project Professional 2019. This versatile tool comes packed with new features like improved task linking, timeline bar labels, and accessibility enhancements. With our download license, receive immediate access within 30 minutes. Ideal for managing complex tasks efficiently, this software is an essential for your project management needs.
-  Updated: 2025-08-28T11:14:31Z
+  Updated: 2025-08-29T00:46:30Z
   Vendor: Microsoft-Elite
   Product Type: Microsoft > Project > 2019 > Professional
   Availability: Available
@@ -2088,7 +2088,7 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/HB19_elite_ttt.png?v=1755170473
   Price: $171.99 USD
 - [Microsoft Visio 2019 Professional - Elite Pricing](https://www.trustedtechteamg.com/products/microsoft-visio-2019-professional-license-elite-pricing): Microsoft Visio 2019 Professional - Create complex business and everyday process diagrams with advanced tools. Supports AutoCAD files for seamless workflow. Shop now!
-  Updated: 2025-08-28T11:08:19Z
+  Updated: 2025-08-29T03:08:48Z
   Vendor: Microsoft-Elite
   Product Type: Microsoft > Visio > 2019 > Professional
   Availability: Available
@@ -2102,7 +2102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/visiostd_2019_ttt.png?v=1755170490
   Price: $85.00 USD
 - [Microsoft Visio Professional 2019](https://www.trustedtechteamg.com/products/microsoft-visio-2019-professional-license): Microsoft Visio Professional 2019 - Enhance your visual communication with updated tools. Includes new stencils and AutoCAD support. Shop now!
-  Updated: 2025-08-28T11:08:19Z
+  Updated: 2025-08-29T00:43:57Z
   Vendor: Microsoft
   Product Type: Microsoft > Visio > 2019 > Professional
   Availability: Available
@@ -2116,21 +2116,21 @@
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/project-2019-standard.jpg?v=1754797919
   Price: $85.00 USD
 - [Microsoft Project Professional 2019 License](https://www.trustedtechteamg.com/products/microsoft-project-professional-2019-license): Microsoft Project Professional 2019 License - Enhance project management with intuitive task summaries and timeline bars. Supports 1 PC with free installation support. Shop now!
-  Updated: 2025-08-28T11:08:19Z
+  Updated: 2025-08-29T00:50:48Z
   Vendor: Microsoft
   Product Type: Microsoft > Project > 2019 > Professional
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/project-2019-professional.jpg?v=1754797921
   Price: $85.00 USD
 - [Microsoft Office Home & Business 2019 - 1 PC/Mac Download](https://www.trustedtechteamg.com/products/microsoft-office-home-business-2019-download-pc-mac): Microsoft Office Home & Business 2019 - Boost productivity with essential apps like Word and Excel. Includes advanced features for PC and Mac. Shop now!
-  Updated: 2025-08-28T11:08:19Z
+  Updated: 2025-08-29T00:25:11Z
   Vendor: Microsoft
   Product Type: Microsoft > Office > 2019 > Home and Business
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/5530/1213/files/MSO_2019_HB_Mockup_cc193302-9f04-406e-b3c8-43406fe4ff2d.jpg?v=1754797923
   Price: $85.00 USD
 - [Microsoft Office Home & Student 2019](https://www.trustedtechteamg.com/products/microsoft-office-home-and-student-2019-license-pc-mac): Microsoft Office Home & Student 2019 - Boost productivity with essential tools for PC and Mac. Features Word, Excel, PowerPoint, and OneDrive. Shop now!
-  Updated: 2025-08-28T11:08:20Z
+  Updated: 2025-08-29T00:21:48Z
   Vendor: Microsoft
   Product Type: Microsoft > Office > 2019 > Home and Student
   Availability: Available
