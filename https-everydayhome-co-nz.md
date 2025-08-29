@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-29T04:00:33.537Z
+- Updated At: 2025-08-29T08:00:35.478Z
 
 ## Products
 
@@ -585,7 +585,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Home-Linen-Spray-Sooth-1.jpg?v=1727660024
   Price: $18.99 NZD
 - [Therapy Hand & Body Wash Refill - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-hand-body-wash-refill-peony-petitgrain): Top-up with our one litre wash, refilling your Therapy hand & body wash bottle twice. Soothe and relax with this peaceful aroma. Enriched with Aloe Leaf extract, Kawakawa oil, Petitgrain & Lavender essential oils and the floral scent of Peony & Rose to gently cleanse your skin. Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver
-  Updated: 2025-08-12T16:54:48Z
+  Updated: 2025-08-29T06:25:45Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
@@ -892,13 +892,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Greetings-From-1000-Piece-Puzzle-4.webp?v=1727659457
   Price: $49.00 NZD
-- [Wash Concentrate : Tulip Rosa](https://everydayhome.co.nz/products/wash-concentrate-tulip-rosa): Tulip Rosa : Floral Palmarosa and Geranium with hints of sweet and warming clove. Forever running out of Hand Wash? Use this bottle to easily mix The Wash Concentrate with tap water to make Everdaily Foaming Hand Wash. Mixed with tap water this one bottle of concentrate can refill our foaming hand wash bottle 7 times. For fresh, fragrant foaming hand wash whenever you need it. The Wash Concentrates plant-based formula has skin-smoothing ingredients that when mixed with water create a creamy, foaming lather that glides through hands and leaves them soft, fresh and clean.
-  Updated: 2025-08-12T16:46:30Z
-  Vendor: Everdaily
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Everdaily-Wash-Concentrate-Tulip-Rosa-5.webp?v=1727659578
-  Price: $35.00 NZD
 - [Bellwood Garment Rack - White/Natural](https://everydayhome.co.nz/products/bellwood-garment-rack-wht-nat): A clothing rack that saves space while adding a decorative touch, Bellwood Garment rack mixes soft curves with bentwood accents. This modern and multi-functional rack is perfect for organizing and displaying your clothes, shoes, bags and other accessories. With four space-saving shelves and integrated steel rod, Bellwood Rack can be used in your bedroom, laundry room, closet, entryway and more to store & organize your belongings.
   Updated: 2025-08-12T16:44:28Z
   Vendor: UMBRA
@@ -1950,7 +1943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Cappa Toilet Paper Stand - Black](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-black): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-08-29T01:37:10Z
+  Updated: 2025-08-29T04:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
