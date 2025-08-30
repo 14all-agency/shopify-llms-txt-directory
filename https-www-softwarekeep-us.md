@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-14T15:42:41Z
 - Contact Email: sales@softwarekeep.us
-- Updated At: 2025-08-30T08:00:29.433Z
+- Updated At: 2025-08-30T12:00:28.938Z
 
 ## Products
 
@@ -1172,6 +1172,9 @@
     Author: pasha pasha
   - [Windows 11 Pro activation step-by-step: Complete Guide | Softwarekeep](https://www.softwarekeep.us/blogs/news/windows-11-pro-activation-step-by-step): Softwarekeep's Windows 11 Pro activation step-by-step guide: learn activation methods, product key tips, quick troubleshooting, and secure setup in minutes.
     Updated: 2025-08-23T17:31:41Z
+    Author: pasha pasha
+  - [how to install RDS CALs on Windows Server - Quick Guide | Softwarekeep](https://www.softwarekeep.us/blogs/news/how-to-install-rds-cals-on-windows-server): Softwarekeep explains how to install RDS CALs on Windows Server with a step-by-step guide, licensing tips, and troubleshooting for IT admins to secure access.
+    Updated: 2025-08-30T09:10:05Z
     Author: pasha pasha
 
 ## Store Pages
