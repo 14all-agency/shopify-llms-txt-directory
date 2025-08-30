@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-30T08:00:33.866Z
+- Updated At: 2025-08-30T12:00:33.929Z
 
 ## Products
 
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Silicone-Dish-Drying-Mat-Light-Grey-1.jpg?v=1727660074
   Price: $64.95 NZD
 - [Brabantia SinkSide Dish Brush with Suction Cup Holder - Dark Grey](https://everydayhome.co.nz/products/dish-brush-w-suction-cup-holder-dark-grey): Dish Brush W/Suction Cup Holder, Dark Grey
-  Updated: 2025-08-24T18:52:11Z
+  Updated: 2025-08-30T08:23:37Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1277,13 +1277,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-Hi-60L-Matt-Black-8.png?v=1727659377
   Price: $599.95 NZD
-- [Brabantia Bo Waste Bin Hi - 4L Matt Black](https://everydayhome.co.nz/products/bo-waste-bin-hi-4l-matt-black): In need of a more discreet bin that looks more like a sleek piece of furniture? Then the Brabantia Bo Waste Bin Hi 4 litre is the bin for you! This space-saving bin fits perfectly in any corner. The nifty lid pens easily from the left, right, and front of the bin. So no more twisting your arm to put something in. Now that's handy and stylish!
-  Updated: 2025-08-28T21:22:11Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Waste-Bin-Hi-4L-Matt-Black-8.png?v=1727659259
-  Price: $39.99 NZD
 - [Brabantia Nic Bread Bin - Medium Dark Grey](https://everydayhome.co.nz/products/nic-bread-bin-dark-grey): Whether you’re feasting with your family or having a quiet meal by yourself: the Brabantia Nic Bread Bin makes setting the table a picnic, thanks to its easy carrying grip. It has a pretty bamboo lid, and a convenient carrying handle to take this cutie right from your counter to table. This beauty of a bread bin fits two loaves, and the ribbed base helps ventilation underneath. Easy in the kitchen, great on the table!
   Updated: 2025-08-20T17:07:12Z
   Vendor: BRABANTIA
@@ -2972,7 +2965,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BoWasteBin_4L-MattBlack-8710755222481Brabantia_96dpi_1000x1000px_7_NR-30069.png?v=1733783399
   Price: $99.95 NZD
 - [Brabantia Bo Waste Bin - 4L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/bo-waste-bin-4l-matt-steel-fpp): Need a small bin, that is great in design? The Brabantia Bo Waste Bin 4 litre is the bin for you! Fits in the smallest corner, but can hang on the wall too. The nifty lid opens easily from the left, right and front of the bin. So no more twisting your arm to put something in. Beautiful on the outside and in!
-  Updated: 2025-08-17T04:07:11Z
+  Updated: 2025-08-30T08:23:36Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -5238,7 +5231,7 @@
   Updated: 2023-06-27T03:20:33Z
   Total Products: 0
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
   Updated: 2025-08-29T11:07:03Z
@@ -5256,22 +5249,22 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-08-29T03:19:34Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-07-29T03:51:57Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-08-27T22:15:29Z
@@ -5364,16 +5357,16 @@
   Updated: 2025-08-12T04:53:04Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-08-29T11:07:03Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-08-29T00:20:35Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-08-29T03:19:29Z
@@ -5385,7 +5378,7 @@
   Updated: 2025-08-29T00:20:35Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
-  Updated: 2025-08-27T22:14:22Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
   Updated: 2025-08-21T11:07:03Z
@@ -5451,7 +5444,7 @@
   Updated: 2025-08-27T22:15:33Z
   Total Products: 19
 - [Cleaning Tools & Accessories](https://everydayhome.co.nz/collections/cleaning-tools-accessories)
-  Updated: 2025-08-29T00:20:41Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 8
 - [Steaming Accessories](https://everydayhome.co.nz/collections/steaming-accessories)
   Updated: 2025-08-27T22:15:32Z
@@ -5517,19 +5510,19 @@
   Updated: 2025-08-27T22:14:24Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-08-28T04:31:43Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 129
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
   Updated: 2025-08-29T11:07:03Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-08-29T03:19:29Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-08-29T00:20:35Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
   Updated: 2025-08-27T22:15:24Z
@@ -5553,7 +5546,7 @@
   Updated: 2025-08-27T22:15:30Z
   Total Products: 6
 - [Stylish and Practical Toilet Accessories | Shop Now](https://everydayhome.co.nz/collections/toilet-accessories): Practical and stylish toilet accessories to keep your bathroom organised and clean. From toilet roll holders to brushes and more, these items offer both convenience and sleek designs. Free shipping across NZ on orders over 99*
-  Updated: 2025-08-29T00:20:35Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 13
 - [Stylish Wall and Desk Frames | Shop Now](https://everydayhome.co.nz/collections/wall-desk-frames): Showcase your favourite memories with our collection of wall and desk frames. Available in a variety of styles and sizes, these frames are perfect for adding a personal touch to any room. Free shipping across NZ on orders over 99*
   Updated: 2025-08-29T00:20:32Z
@@ -5565,10 +5558,10 @@
   Updated: 2025-08-29T00:20:40Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-08-28T04:31:43Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 142
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-08-29T00:20:38Z
@@ -5613,10 +5606,10 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-27T21:49:47Z
@@ -5634,7 +5627,7 @@
   Updated: 2025-08-14T02:42:44Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-08-29T11:07:03Z
+  Updated: 2025-08-30T11:08:26Z
   Total Products: 162
 
 ## Store Pages
