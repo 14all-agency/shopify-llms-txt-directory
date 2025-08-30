@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-08-30T08:00:27.574Z
+- Updated At: 2025-08-30T12:00:27.503Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-08-30T05:54:21Z
+  Updated: 2025-08-30T11:08:00Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-08-30T05:54:21Z
+  Updated: 2025-08-30T10:20:40Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Greens1_fa3078aa-1028-4491-ad52-90069ae7f000.jpg?v=1743047448
   Price: $69.95 NZD
 - [Organic Zinc](https://www.bioblends.com/products/organic-zinc-extract): Imagine you have a bucket inside you that can hold zinc. You want it nice and full, so zinc can be supplied when and where it’s needed. If the bucket doesn’t have much zinc in it, the body will have to prioritise where zinc goes, meaning numerous processes that require it, won’t be able to function well or at all. Zinc is an essential mineral that plays a pivotal role in maintaining so many aspects of health, particularly robust immune function, digestion, hormone production, mood, wound healing and skin clarity, as well as hair and nail quality – it’s indispensable to a wide range of physiological functions. Despite its importance, zinc deficiency is surprisingly common, typically due to inadequate dietary intake from diminished top soil quality.
-  Updated: 2025-08-29T22:14:12Z
+  Updated: 2025-08-30T11:08:00Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Calm1_7b0e0aae-4d7f-4a50-9d27-a4ece69051c6.jpg?v=1743047442
   Price: $69.95 NZD
 - [Meno Ease](https://www.bioblends.com/products/meno-magic): Meno Ease is for those seeking relief from hormone-related symptoms once menstruation has ceased or become highly irregular (such as three periods per year). Perimenopause has three stages, the last of which is the lead up to menopause, which is the 12 month anniversary of your last period. In this last stage of perimenopause as well as post-menopause, estrogen is low and ovulation has ceased, meaning progesterone is also low (only the adrenal production remains). Some women cruise through the menopausal transition while others suffer mildly or in a debilitating way.&nbsp;
-  Updated: 2025-08-29T10:29:35Z
+  Updated: 2025-08-30T10:20:40Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-08-30T05:54:25Z
+  Updated: 2025-08-30T11:08:06Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -119,13 +119,13 @@
 ## Collections
 
 - [Home page](https://www.bioblends.com/collections/frontpage)
-  Updated: 2025-08-29T11:23:53Z
+  Updated: 2025-08-30T11:26:12Z
   Total Products: 2
 - [The Bio Blends Range](https://www.bioblends.com/collections/all)
-  Updated: 2025-08-29T11:23:53Z
+  Updated: 2025-08-30T11:26:12Z
   Total Products: 11
 - [FULL PRICED ITEMS](https://www.bioblends.com/collections/full-priced-items)
-  Updated: 2025-08-29T11:23:53Z
+  Updated: 2025-08-30T11:26:12Z
   Total Products: 13
 
 ## Blogs
