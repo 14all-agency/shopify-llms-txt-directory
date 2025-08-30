@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-29T20:00:34.287Z
+- Updated At: 2025-08-30T00:00:34.351Z
 
 ## Products
 
@@ -1166,7 +1166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Storage-Table-Black-Walnut-2.jpg?v=1727659568
   Price: $179.99 NZD
 - [Bellwood Storage Table - White/Natural](https://everydayhome.co.nz/products/bellwood-storage-table-white-natural): A modern solution for messy cables and storage, Bellwood storage side table is both a side table and cable management in one. Made of metal and wood, this side table can be used in any space to provide both multi-purposeful and sophisticated storage. Its tabletop provides the perfect spot for your device or a glass of wine, while its underneath storage container works great for cables or larger items like blankets or books
-  Updated: 2025-08-13T00:37:06Z
+  Updated: 2025-08-29T23:37:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2307,7 +2307,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-30cm-Open-French-Skillet-Esste-6.jpg?v=1731903109
   Price: $239.99 NZD
 - [Essteele Per Salute - 32cm/5.7LCovered Sauté](https://everydayhome.co.nz/products/essteele-per-salute-32cm-covered-saute): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This large sized nonstick sauté pan will create perfect results on the stovetop or the oven and the generous size gives the pan versatility for a variety of cooking styles.
-  Updated: 2025-08-15T02:19:53Z
+  Updated: 2025-08-29T21:07:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -3140,7 +3140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $139.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-08-26T22:52:17Z
+  Updated: 2025-08-29T22:52:06Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3182,7 +3182,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_KitchenScalesplus-DarkGrey-8710755122880Brabantia_96dpi_1000x1000px_7_NR-15331.png?v=1733872141
   Price: $119.95 NZD
 - [Brabantia Profile Digital Kitchen Scales with Timer - Matt Steel](https://everydayhome.co.nz/products/profile-digital-kitchen-scales-w-timer-round-matt-steel): Scaling up your cooking? High time for this round Brabantia Profile Digital Kitchen Scale. A sleek stainless steel piece with an integrated countdown timer with alarm to warn you when your cakes are ready. This allrounder has a backlit display, auto-off and weighs everything from 1 gram to 5 kilos. A real steal!
-  Updated: 2025-08-17T03:07:12Z
+  Updated: 2025-08-29T23:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -5043,14 +5043,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I022334526123.jpg?v=1755748650
   Price: $139.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 White](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-white): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-08-29T00:17:28Z
+  Updated: 2025-08-29T22:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I0223345.jpg?v=1755748377
   Price: $139.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 3 8x10 Black](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-3-8x10-black): Create your own unique gallery wall with Exhibit 8x10 picture frames. An extension from the original Exhibit Photo Display, this set of three larger frames, each suspend on their own metal rod. Displayed vertically or horizontally, Exhibit is a unique way to hang and showoff your favorite photos. Each picture frame can float an image up to 8x10" in size. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-08-29T00:17:28Z
+  Updated: 2025-08-29T22:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
