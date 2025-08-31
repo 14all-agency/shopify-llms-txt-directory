@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-07-02T12:11:25Z
 - Contact Email: hello@throwline.co.uk
-- Updated At: 2025-08-31T04:00:27.509Z
+- Updated At: 2025-08-31T12:00:27.594Z
 
 ## Products
 
 - [Dart Anatomy – Framed Wall Art Print](https://www.throwline.co.uk/products/dart-anatomy-wall-art-print-with-frame): Discover the Dart Anatomy with this framed wall art print. Perfect for darts fans, game rooms, and unique décor.
-  Updated: 2025-08-30T16:40:26Z
+  Updated: 2025-08-31T04:00:58Z
   Vendor: Throwline Darts
   Product Type: Wall Art
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/framed-dart-parts-poster-white-frame-dart-parts-diagram.jpg?v=1755449340
     Price: £65.00 GBP
 - [Get to the Point – Framed Darts Wall Art](https://www.throwline.co.uk/products/get-to-the-point-wall-art-with-frame): Add humor to your walls with our 'Get to the Point' framed darts wall art. Perfect for game rooms, bars, or darts enthusiasts.
-  Updated: 2025-08-30T16:39:41Z
+  Updated: 2025-08-31T04:01:30Z
   Vendor: Throwline Darts
   Product Type: Wall Art
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/dart-wall-art-print-get-to-the-point-white-frame.jpg?v=1755449361
     Price: £65.00 GBP
 - [Dart Board Anatomy Wall Art With Frame](https://www.throwline.co.uk/products/dart-board-anatomy-wall-art-with-frame): Explore the anatomy of the dartboard with our framed wall art. Perfect for game rooms, darts enthusiasts, and unique home décor.
-  Updated: 2025-08-30T16:38:48Z
+  Updated: 2025-08-31T04:38:56Z
   Vendor: Throwline Darts
   Product Type: Wall Art
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/dart-board-wall-art-white-frame-blue-print.jpg?v=1755449374
     Price: £65.00 GBP
 - [Darts Pop Art Wall Art with Frame](https://www.throwline.co.uk/products/darts-pop-art-wall-art-with-frame): Brighten up your space with our Darts Pop Art framed wall print. Perfect for home bars, game rooms, and darts enthusiasts.
-  Updated: 2025-08-30T16:38:00Z
+  Updated: 2025-08-31T04:38:07Z
   Vendor: Throwline Darts
   Product Type: Wall Art
   Availability: Available
@@ -131,7 +131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/darts-pop-art-wall-decor-white-frame-multicolor.jpg?v=1755449389
     Price: £65.00 GBP
 - [Bullseye? Never Heard Of Her with Frame](https://www.throwline.co.uk/products/bullseye-never-heard-of-her-framed-darts-wall-art): Add humor to your space with our 'Bullseye? Never Heard Of Her' framed wall art. Perfect for darts fans, game rooms, or fun home décor.
-  Updated: 2025-08-30T16:40:48Z
+  Updated: 2025-08-31T04:36:23Z
   Vendor: Throwline Darts
   Product Type: Wall Art
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/funny-darts-wall-art-bullseye-never-heard-white-frame.jpg?v=1755449401
     Price: £65.00 GBP
 - [Throwline Gift Card – Perfect Dart Lovers Gift](https://www.throwline.co.uk/products/darts-gift-card-throwline): Give the gift of choice! Throwline Gift Cards let darts fans pick their favorite items. Instant, flexible, and perfect for any occasion.
-  Updated: 2025-08-30T16:34:28Z
+  Updated: 2025-08-31T04:34:35Z
   Vendor: Throwline Darts
   Product Type: Gift Card
   Availability: Available
@@ -183,21 +183,21 @@
     Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/Throwline_100_GiftCard_66f47b01-95a2-4657-9f34-eb9bd9bbd828.jpg?v=1755449421
     Price: £100.00 GBP
 - [Fuel Your Darts 16oz Pint Glass – Funny Darts Gift](https://www.throwline.co.uk/products/fuel-your-darts-16oz-pint-glass): Raise a glass to the game with our 'Fuel Your Darts' 16oz Pint Glass. Perfect for darts fans, sturdy, dishwasher safe, and full of personality!
-  Updated: 2025-08-30T16:32:38Z
+  Updated: 2025-08-31T04:34:02Z
   Vendor: Throwline Darts
   Product Type: Glassware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/darts-fuel-clear-glass-with-printed-measurements.jpg?v=1752759336
   Price: £19.99 GBP
 - [Bullseye? Never Heard Of Her 11oz Mug – Funny Darts Gift](https://www.throwline.co.uk/products/bullseye-never-heard-of-her-11oz): Enjoy your favorite brew with our 'Bullseye? Never Heard Of Her' 11oz Mug. Perfect for darts enthusiasts. Dishwasher and microwave safe.
-  Updated: 2025-08-30T16:30:49Z
+  Updated: 2025-08-31T04:31:17Z
   Vendor: Throwline Darts Gifts & Accessories
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/7177/2025/files/BullseyeNeverHeardOfHer_Mug_left.jpg?v=1755449432
   Price: £11.99 GBP
 - [Still Got Great Aim Funny Birthday Card A5](https://www.throwline.co.uk/products/still-got-great-aim-birthday-card): Guaranteed laughs with our 'Still Got Great Aim' A5 birthday card. Perfect for witty friends. Shop now! Free standard UK delivery!
-  Updated: 2025-08-30T16:24:37Z
+  Updated: 2025-08-31T04:16:43Z
   Vendor: Throwline Darts
   Product Type: Greeting Cards
   Availability: Available
@@ -227,11 +227,11 @@
 
 ## Store Pages
 
-- [Contact Throwline | Darts Gifts & Homeware Support](https://www.throwline.co.uk/pages/contact-us): Have questions or need help? Contact Throwline today. Our team is ready to assist with orders, gift advice, or any queries about our darts-themed gifts and homeware.
+- [Contact Throwline | Darts Gifts & Homeware Support](https://www.throwline.co.uk/pages/contact-us): 
   Updated: 2025-08-30T16:53:29Z
-- [About Throwline Darts | Darts-Inspired Gifts & Homeware](https://www.throwline.co.uk/pages/about-us): Learn more about Throwline, the darts-themed gift and homeware store. Discover our passion for creating unique products for darts enthusiasts and why our gifts hit the bullseye every time!
+- [About Throwline Darts | Darts-Inspired Gifts & Homeware](https://www.throwline.co.uk/pages/about-us): Welcome to Throwline – where darts meets good design. We started Throwline because we love darts and we love creativity. Simple as that. Whether yo...
   Updated: 2025-08-30T16:52:57Z
-- [Data Sharing Opt Out | Throwline Darts](https://www.throwline.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website.
+- [Data Sharing Opt Out | Throwline Darts](https://www.throwline.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-07-16T08:58:34Z
 - [HTML Sitemap](https://www.throwline.co.uk/pages/html-sitemap): Products Dart Anatomy Wall Art Print with Frame Get to the Point Wall Art With Frame Dart Board Anatomy Wall Art With Frame Darts Pop Art Wall Art ...
   Updated: 2025-08-17T16:55:12Z
