@@ -6,7 +6,7 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-08-30T20:00:30.078Z
+- Updated At: 2025-08-31T00:00:30.623Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-upgrade-blue-background-logo.webp?v=1753601958
   Price: $14.99 USD
 - [Microsoft Windows 11 Pro Software with Windows 11 Pro license key | trustedtechteam](https://trustedtechteam.digital/products/windows-11-pro-license-key-software): Get your Windows 11 Pro license key from trustedtechteam. Enjoy Microsoft's latest OS with enhanced security and productivity features today.
-  Updated: 2025-08-17T06:02:42Z
+  Updated: 2025-08-30T21:21:46Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -242,42 +242,42 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-pro-plus-download-office-professional-retail-box.webp?v=1752392753
   Price: $11.99 USD
 - [Microsoft Project 2021 Professional license - Email Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2021-professional-license): Buy Microsoft Project 2021 Professional license at TrustedTech, instant email activation for powerful planning, resource management and Gantt charts.
-  Updated: 2025-08-30T10:01:44Z
+  Updated: 2025-08-30T22:01:50Z
   Vendor: neweggv
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-project-2021-professional-license-retail-box-front-green-p-logo-activation-code-by-email.jpg?v=1756548103
   Price: $25.00 USD
 - [Microsoft Office 2021 Professional license - Digital Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2021-professional-license): Buy Microsoft Office 2021 Professional license at TrustedTech- genuine software, one-time purchase with Word, Excel, PowerPoint & Outlook to boost productivity.
-  Updated: 2025-08-30T10:01:45Z
+  Updated: 2025-08-30T22:01:52Z
   Vendor: microsoft
   Product Type: office 2021
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-professional-license-software-box-front.webp?v=1752928014
   Price: $22.99 USD
 - [Microsoft Project 2024 Professional license - Instant | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2024-professional-license): TrustedTech: Microsoft Project 2024 Professional license by gnewnetworks — instant delivery, one-user perpetual activation, Windows 10/11 compatible today.
-  Updated: 2025-08-30T10:01:49Z
+  Updated: 2025-08-30T22:01:56Z
   Vendor: gnewnetworks
   Product Type: project professional 2024
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-project-2024-professional-license-green-p-icon-box-cover-windows-10-11-city-street-background.png?v=1756548108
   Price: $45.00 USD
 - [Microsoft Visio 2024 Professional License for Windows | TrustedTech](https://trustedtechteam.digital/products/microsoft-visio-2024-professional-license): Microsoft Visio 2024 Professional License from TrustedTech for Windows, fast diagramming, smart templates, collaboration and Office integration, secure sharing.
-  Updated: 2025-08-30T10:01:50Z
+  Updated: 2025-08-30T22:01:57Z
   Vendor: microsoft
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-visio-2024-professional-license-blue-v-icon-box-art-windows-10-11-badge.png?v=1756548109
   Price: $85.00 USD
 - [Microsoft Office 2024 Home PC - New Theme, Excel Boosts | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-home-pc): TrustedTech offers Microsoft Office 2024 Home PC — 1 PC suite with Word, Excel, PowerPoint, OneNote, new Office theme, templates and enhanced Excel functions.
-  Updated: 2025-08-30T10:01:36Z
+  Updated: 2025-08-30T22:01:43Z
   Vendor: microsoft
   Product Type: office 2024
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2024-home-pc-software-box-features.webp?v=1752392778
   Price: $26.99 USD
 - [Microsoft Visio Professional 2021 license - Official | TrustedTech](https://trustedtechteam.digital/products/microsoft-visio-professional-2021-license): TrustedTech offers Microsoft Visio Professional 2021 license — powerful diagramming software with templates for flowcharts, org charts and network diagrams.
-  Updated: 2025-08-30T10:01:40Z
+  Updated: 2025-08-30T22:01:46Z
   Vendor: microsoft
   Product Type: 
   Availability: Available
@@ -291,21 +291,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-visio-2024-professional-license-blue-v-icon-box-art-windows-10-11-badge.png?v=1756548109
   Price: $85.00 USD
 - [Windows Server 2022 Datacenter license - Unlimited VMs | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-datacenter-license): TrustedTech - Windows Server 2022 Datacenter license - advanced security, unlimited virtualization, hybrid Azure integration and scalable, reliable performance.
-  Updated: 2025-08-30T10:01:43Z
+  Updated: 2025-08-30T22:02:08Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-box-front.webp?v=1752928252
   Price: $35.00 USD
 - [Windows Server 2025 CALs — 5 User RDS License | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-cals-5-user-rds): TrustedTech: Windows Server 2025 CALs 5-user RDS license, secure remote access, easy deployment, compliance-ready, instant delivery and Microsoft support.
-  Updated: 2025-08-30T10:01:51Z
+  Updated: 2025-08-30T22:01:57Z
   Vendor: microsoft
   Product Type: windows server 2025 RDS 5 user cal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-cals-logo-white-background.jpg?v=1756548111
   Price: $250.00 USD
 - [MS Windows Server 2025 Standard CAL pack - 5 User CALs | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-cal-pack): TrustedTech sells Windows Server 2025 Standard CAL pack for 5 users — Microsoft RDS access, secure enterprise licensing, easy deployment and central management.
-  Updated: 2025-08-30T10:01:43Z
+  Updated: 2025-08-30T22:02:16Z
   Vendor: microsoft
   Product Type: windows server 2025 RDS 5 user cal
   Availability: Available
@@ -319,21 +319,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-blue-windows-logo.webp?v=1756548096
   Price: $45.00 USD
 - [Windows 10 Home license - Genuine Microsoft Key | TrustedTech](https://trustedtechteam.digital/products/windows-10-home-license-key): TrustedTech offers genuine Windows 10 Home license with instant digital delivery, secure activation key and Microsoft-backed reliability for your PC today.
-  Updated: 2025-08-30T10:01:47Z
+  Updated: 2025-08-30T22:01:53Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-10-home-license-retail-box-windows-logo-gold-microsoft-partner-badge.webp?v=1756548106
   Price: $11.99 USD
 - [buy Windows 10 Enterprise LTSB - Stable & Secure | TrustedTech](https://trustedtechteam.digital/products/buy-windows-10-enterprise-ltsb): TrustedTech: buy Windows 10 Enterprise LTSB from Microsoft for enhanced performance, long-term security, stability and streamlined IT management for businesses.
-  Updated: 2025-08-30T10:01:39Z
+  Updated: 2025-08-30T22:01:44Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-windows-10-enterprise-ltsb-logo-gold-partner.webp?v=1752147613
   Price: $29.99 USD
 - [Windows 11 Enterprise LTSC 2024 - Secure & Streamlined | TrustedTech](https://trustedtechteam.digital/products/windows-11-enterprise-ltsc-2024): TrustedTech: Windows 11 Enterprise LTSC 2024 by Microsoft — secure, streamlined performance, long-term stability and fewer updates for enterprise deployments.
-  Updated: 2025-08-30T10:01:44Z
+  Updated: 2025-08-30T22:01:51Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
