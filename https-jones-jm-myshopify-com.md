@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-08-31T00:00:27.726Z
+- Updated At: 2025-08-31T08:00:27.688Z
 
 ## Products
 
@@ -133,8 +133,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1736660632
   Price: $2,629.95 NZD
-- [The Collection Snowboard: Liquid](https://jones-jm.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2025-06-17T21:09:31Z
+- [The Collection Snowboard: Liquid](https://jones-jm.myshopify.com/products/the-collection-snowboard-liquid): This is my liquid snowboard
+  Updated: 2025-08-31T02:28:30Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
