@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-08-30T20:00:27.611Z
+- Updated At: 2025-08-31T00:00:27.726Z
 
 ## Products
 
@@ -50,7 +50,7 @@
   Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1736660631
   Price: $600.00 NZD
 - [The Videographer Snowboard](https://jones-jm.myshopify.com/products/the-videographer-snowboard)
-  Updated: 2025-06-17T21:09:29Z
+  Updated: 2025-08-30T23:57:57Z
   Vendor: Jones JM
   Product Type: snowboard
   Availability: Available
