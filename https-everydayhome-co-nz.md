@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-31T00:00:35.306Z
+- Updated At: 2025-08-31T04:00:34.106Z
 
 ## Products
 
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-REBECCA-HEIN-Sea-Lavender-6.jpg?v=1727658885
   Price: $199.00 NZD
 - [Frame Breakfast Board - Oiled Walnut](https://everydayhome.co.nz/products/dutchdeluxes-frame-breakfast-board-oiled-walnut): Complete a country chic kitchen with this Frame board from DutchDeluxes. Featuring a side with a juice groove for cutting and a smooth side for serving, it’s a must-have for any kitchen.
-  Updated: 2025-08-15T02:59:41Z
+  Updated: 2025-08-31T00:58:20Z
   Vendor: DUTCH DELUXES
   Product Type: Kitchenware
   Availability: Available
@@ -1544,7 +1544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Pepper-Black-0.png?v=1727659263
   Price: $119.95 NZD
 - [Brabantia Refresh Foldable Steaming Board - Grey](https://everydayhome.co.nz/products/foldable-steaming-board-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-08-21T23:37:11Z
+  Updated: 2025-08-31T00:58:16Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2615,7 +2615,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Pirouette-Cosmetic-Organizer-Clear-Nickel-UMBRA-0.jpg?v=1731902902
   Price: $59.99 NZD
 - [Portaloo Toilet Paper Stand & Reserve - White/Nickel](https://everydayhome.co.nz/products/portaloo-toilet-paper-stand-reserve-white-nickel): Freestanding and easy to move around, Portaloo makes use of vertical space to deliver a versatile and modern toilet paper stand. Portaloo’s practical design includes a built-in tray for personal items or small decor, as well as storage to hide and hold extra toilet paper rolls. Its white matte body and shiny chrome accents work to complement bathroom appliances and suit a variety of color palettes. Portaloo is convenient, easy to use and fits up to three jumbo size rolls.
-  Updated: 2025-08-30T01:22:06Z
+  Updated: 2025-08-31T03:22:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3028,7 +3028,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.95 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-08-30T23:22:11Z
+  Updated: 2025-08-31T01:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3084,7 +3084,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Topspinner60m_GroundSpike-MetallicGrey-8710755310867Brabantia_96dpi_1000x1000px_7_NR-28672.png?v=1734572963
   Price: $299.95 NZD
 - [Brabantia HangOn Drying Rack with Rod - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-with-rod-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! Thanks to the rocking rod, and 25 metres of flexible drying space, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. XXL drying in size and benefits!
-  Updated: 2025-08-27T17:07:06Z
+  Updated: 2025-08-31T00:58:16Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3336,14 +3336,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/LinnDressboy-Black-8710755229886Brabantia_96dpi_1000x1000px_7_NR-35363.png?v=1734392028
   Price: $159.95 NZD
 - [Brabantia Make & Take Bento Box - Large Dark Grey](https://everydayhome.co.nz/products/make-take-bento-box-large-dark-grey): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T15:15:13Z
+  Updated: 2025-08-31T00:58:20Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-DarkGrey-8710755203480Brabantia_96dpi_1000x1000px_7_NR-27947.png?v=1734393319
   Price: $17.99 NZD
 - [Brabantia Make & Take Bento Box - Large Jade Green](https://everydayhome.co.nz/products/make-take-bento-box-large-jade-green): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:19:55Z
+  Updated: 2025-08-31T00:58:16Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3623,7 +3623,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x15L-DarkGrey-8710755232503Brabantia_96dpi_1000x1000px_7_NR-34729.png?v=1734560867
   Price: $299.95 NZD
 - [Brabantia Sort & Go Built in Bin - 2 x 30L Dark Grey & Jade Green](https://everydayhome.co.nz/products/sort-go-built-in-bin-2-x-30l-dark-grey-jade-green): Double your waste-separating power, without losing any floor space with the Brabantia Sort & Go Built-in Bin 2 x 30 litre. Made to hide in the cupboard, with an easy to install mounting frame (self-supporting, so no sagging doors!). These discreet bins fit in most kitchen cupboards, whether the doors open to the left or right. They even have storage space on top and hooks on the side for extra organising. With a long telescopic rail, so you can single-handedly pull them out all the way. And of course they are easy to clean, take out and empty too. A great set.
-  Updated: 2025-08-21T23:37:13Z
+  Updated: 2025-08-31T03:22:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3842,7 +3842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $390.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 10 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-08-26T10:02:41Z
+  Updated: 2025-08-31T01:46:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4244,13 +4244,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileIceCreamScoop-MattSteel-8710755250323Brabantia_96dpi_2000x2000px_T_NR-19688.png?v=1750982395
   Price: $14.99 NZD
-- [Brabantia Newicon Pedal Bin - 5L Passion Red](https://everydayhome.co.nz/products/newicon-pedal-bin-5l): The NewIcon 5L Pedal Trash Can by Brabantia makes for a great addition to garbage management. This neat and practical sized under kitchen countertop or bedroom trash can is an ideal fit into many domestic areas where size is important. Its compact size makes it a great under countertop trash can for the kitchen but it will be equally at home in a bedroom or home office and it will fit unobtrusively into most decors.
-  Updated: 2025-08-15T15:15:04Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-10.jpg?v=1752027652
-  Price: $39.99 NZD
 - [Brabantia Profile Carving Knife - Black](https://everydayhome.co.nz/products/profile-carving-knife): Looking for a great knife to cut meat? The Brabantia Carving Knife will surely make the cut. With its long steel blade and fine tip, it easily slices all kinds of cooked meat. Easy to clean and durable - cut out for you!
   Updated: 2025-08-15T13:20:24Z
   Vendor: BRABANTIA
