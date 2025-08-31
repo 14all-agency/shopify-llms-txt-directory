@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-30T20:00:34.992Z
+- Updated At: 2025-08-31T00:00:35.306Z
 
 ## Products
 
@@ -2020,7 +2020,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-25-4cm-Open-Skillet-Cir-2.jpg?v=1731903078
   Price: $169.99 NZD
 - [Circulon Scratchdefense A1 - 28cm/4.7L Covered Sauteuse](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-28cm-4-7l-covered-sauteuse): Elevate your culinary creations with the Covered Sauteuse 28cm/4.7L, a premium addition to your kitchen arsenal. This versatile sauté pan is perfect for searing, braising, simmering, and more. Its spacious capacity accommodates family-sized meals, while the included lid locks in flavours and moisture. Crafted with precision and durability, this sauteuse ensures even heat distribution and exceptional nonstick performance.
-  Updated: 2025-08-29T01:37:11Z
+  Updated: 2025-08-30T22:37:06Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -3028,7 +3028,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.95 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-08-30T04:37:11Z
+  Updated: 2025-08-30T23:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
