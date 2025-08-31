@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-08-31T04:00:34.106Z
+- Updated At: 2025-08-31T08:00:34.686Z
 
 ## Products
 
@@ -1285,7 +1285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Nic-Bread-Bin-Dark-Grey-2.png?v=1727658658
   Price: $159.95 NZD
 - [Brabantia Nic Bread Bin - Medium Light Grey](https://everydayhome.co.nz/products/nic-bread-bin-light-grey): Whether you’re feasting with your family or having a quiet meal by yourself: the Brabantia Nic Bread Bin makes setting the table a picnic, thanks to its easy carrying grip. It has a pretty bamboo lid, and a convenient carrying handle to take this cutie right from your counter to table. This beauty of a bread bin fits two loaves, and the ribbed base helps ventilation underneath. Easy in the kitchen, great on the table!
-  Updated: 2025-08-15T13:20:26Z
+  Updated: 2025-08-31T06:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1943,7 +1943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cappa-Toilet-Paper-Stand-Black-UMBRA-0.jpg?v=1731902721
   Price: $69.99 NZD
 - [Cappa Toilet Paper Stand - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-08-17T01:37:11Z
+  Updated: 2025-08-31T05:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2538,7 +2538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hubba-Mirror-Brass-UMBRA-1.jpg?v=1731901834
   Price: $279.99 NZD
 - [Leana Ladder Rack - Black](https://everydayhome.co.nz/products/leana-ladder-rack-black): Both decorative and functional, Leana Ladder features solid wood posts and 4 metal bars, providing you room to store blankets, clothes, towels and more. Easy to assemble, Leana provides a modern storage solution that can be used in a variety of rooms in your home. With a solid wood construction and powder-coated steel, this innovative storage solution is the ideal towel rack, blanket rack, or clothing organizer.
-  Updated: 2025-08-19T00:22:10Z
+  Updated: 2025-08-31T04:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3035,7 +3035,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $349.95 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-08-28T22:07:11Z
+  Updated: 2025-08-31T07:52:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -4266,7 +4266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-7.jpg?v=1752027451
   Price: $29.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Terracotta Pink](https://everydayhome.co.nz/products/newicon-pedal-bin-3l-terracotta-pink-copy): The NewIcon 12L Pedal Trash Can by Brabantia makes for a great addition to garbage management. This neat and practical sized under kitchen countertop or bedroom trash can is an ideal fit into many domestic areas where size is important.
-  Updated: 2025-08-15T13:44:19Z
+  Updated: 2025-08-31T04:10:15Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
