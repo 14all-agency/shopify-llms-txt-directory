@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-01T04:00:33.671Z
+- Updated At: 2025-09-01T08:00:34.204Z
 
 ## Products
 
@@ -1880,7 +1880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
   Price: $39.99 NZD
 - [Buddy Hook (Set 3) - Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-08-19T00:22:11Z
+  Updated: 2025-09-01T07:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4154,7 +4154,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSoupLadle_Non-Stick-MattSteel-8710755250620Brabantia_96dpi_2000x2000px_T_NR-19727.png?v=1750901494
   Price: $7.99 NZD
 - [Brabantia Profile Sauce Ladle Nonstick - Matt Steel](https://everydayhome.co.nz/products/profile-sauce-ladle-non-stick): Feeling saucy? Scoop and serve with this small Non-Stick Brabantia Sauce Ladle. Perfect for small portions of sauce without spilling. And because it is non-stick, your cookware is protected too. A lovely ladle.
-  Updated: 2025-08-15T13:43:58Z
+  Updated: 2025-09-01T07:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
