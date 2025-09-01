@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-01T12:00:44.241Z
+- Updated At: 2025-09-01T16:00:43.135Z
 
 ## Products
 
@@ -11287,7 +11287,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $46.00 NZD
 - [SUNNY FOLK Shady days organic shorts](https://www.littlebambinos.co.nz/products/shady-days-shorts): Get ready for some shady business (the cute kind)! with our Shady Day Shorts. These shorts offer: - Bespoke hand-drawn illustration - Elastic waist for growing - Double pockets for all the treasure storage - GOTS-certified 100% organic cotton: soft, breathable, and gentle on skin - Azo-free dye: safe for your wee folk and eco-friendly - Pre-washed fabric to minimise shrinkage - Designed in New Zealand Modelled by: - Avila: 1 year old and wearing size 12-18 months- Iro: 3 years old and wearing 4-5 years
-  Updated: 2025-08-06T22:50:31Z
+  Updated: 2025-09-01T13:15:40Z
   Vendor: Sunny Folk Clothing
   Product Type: Shorts
   Availability: Available
@@ -12742,7 +12742,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $40.00 NZD
 - [KONGES SLOJD Basic Long Sleeve Newborn Body - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-long-sleeve-newborn-body-tea-stripe): Soft newborn body with long sleeves. Features snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-08-29T03:56:46Z
+  Updated: 2025-09-01T15:57:47Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
@@ -15424,7 +15424,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-01T11:43:16Z
+  Updated: 2025-09-01T15:43:14Z
   Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16276,7 +16276,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-01T11:43:16Z
+  Updated: 2025-09-01T15:43:14Z
   Total Products: 1293
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-01T01:34:25Z
