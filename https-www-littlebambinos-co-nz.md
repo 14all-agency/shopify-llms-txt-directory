@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-01T04:00:43.921Z
+- Updated At: 2025-09-01T08:00:42.725Z
 
 ## Products
 
@@ -2630,25 +2630,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BLUSH_400x_da1c805e-bdde-41fa-9511-a0cf95d67e20.jpg?v=1665293311
   Price: $29.00 NZD
 - [MUSHIE Dinnerware cup set - Cloud](https://www.littlebambinos.co.nz/products/mushie-dinnerware-cup-cloud-set-of-2): With soft colours and clean design, this dinnerware set is simple and elegantÃ¢â‚¬â€and easy for your baby to hold. Made in Denmark from BPA-free polypropylene plastic, these plates are dishwasher- and microwave-safe to simplify mealtime and make cleanup easy.
-  Updated: 2025-08-06T22:37:44Z
+  Updated: 2025-09-01T07:32:57Z
   Vendor: Mushie
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ScreenShot2022-10-09at7.09.30PM.png?v=1665295917
-  Price: $29.00 NZD
-- [MUSHIE Dinnerware cup set - Ivory](https://www.littlebambinos.co.nz/products/mushie-dinnerware-cup-ivory-set-of-3): These elegant cups in various soft colours are easy for your baby to hold. They are made from polypropylene plastic, and they are both dishwasher and microwave safe. Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in matching colours to create a perfect dinnerware set.
-  Updated: 2025-08-06T22:37:46Z
-  Vendor: Mushie
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/2-pack_cups_VANILLA_400x_ecd5235b-ef5a-4e5b-bf28-f1dc0b259a7d.jpg?v=1665293009
-  Price: $29.00 NZD
-- [MUSHIE Dinnerware cup set - Sage](https://www.littlebambinos.co.nz/products/copy-of-mushie-dinnerware-cup-sage-set-of-2): With soft colours and clean design, this dinnerware set is simple and elegantÃ¢â‚¬â€and easy for your baby to hold. Made in Denmark from BPA-free polypropylene plastic, these plates are dishwasher- and microwave-safe to simplify mealtime and make cleanup easy.
-  Updated: 2025-08-10T23:18:47Z
-  Vendor: Mushie
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/2-pack_cups_SAGE_3.jpg?v=1667264661
   Price: $29.00 NZD
 - [MUSHIE Training Toothbrush - Pale Daffodil](https://www.littlebambinos.co.nz/products/copy-of-mushie-training-toothbrush-pale-daffodil): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
   Updated: 2025-08-10T23:18:50Z
@@ -2756,7 +2742,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Shiftingsands.jpg?v=1674436018
   Price: $32.00 NZD
 - [MUSHIE Round Dinnerware Bowl Set- Pale Daffodil](https://www.littlebambinos.co.nz/products/mushie-round-dinnerware-bowl-set-pale-daffodil): With soft colours and clean design, this dinnerware set is simple and elegantÃ¢â‚¬â€and easy for your baby to hold.
-  Updated: 2025-08-06T22:38:01Z
+  Updated: 2025-09-01T07:32:57Z
   Vendor: Mushie
   Product Type: Dinnerware
   Availability: Available
@@ -2777,7 +2763,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ScreenShot2022-11-01at4.38.49PM.png?v=1667274209
   Price: $38.00 NZD
 - [MUSHIE Round Dinnerware Plate Set- Daffodil](https://www.littlebambinos.co.nz/products/mushie-round-dinnerware-plate-set-daffodil): With soft colours and clean design, this dinnerware set is simple and elegantÃ¢â‚¬â€and easy for your baby to hold - Set of 2
-  Updated: 2025-08-06T22:38:03Z
+  Updated: 2025-09-01T07:32:56Z
   Vendor: Mushie
   Product Type: Dinnerware
   Availability: Available
@@ -3442,13 +3428,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [M-L](https://www.littlebambinos.co.nz/products/sleepy-doe-womens-legging-ribbon?variant=39873794932830)
     Availability: Available
     Price: $40.00 NZD
-- [ROMMER Silicone Plate Set - Cinnamon/Nude](https://www.littlebambinos.co.nz/products/mushie-round-dinnerware-bowl-set-powder-blue): These plates are a MUST-HAVE for the modern family. Featuring an anti slip base, they're sturdy, durable, microwave safe and SO SO SO good looking! They wont break if dropped so you can ensure you'll be using and loving these for years to come! Featuring- 2 x Plates.
-  Updated: 2025-08-06T22:38:22Z
-  Vendor: Mushie
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at12.05.17PM.png?v=1741907123
-  Price: $38.00 NZD
 - [ROMMER Silicone Plate Set - Cinnamon/Nude](https://www.littlebambinos.co.nz/products/mushie-suction-plate-pale-daffodil): These plates are a MUST-HAVE for the modern family. Featuring an anti slip base, they're sturdy, durable, microwave safe and SO SO SO good looking! They wont break if dropped so you can ensure you'll be using and loving these for years to come! Featuring- 2 x Plates.
   Updated: 2025-08-10T23:18:49Z
   Vendor: Mushie
@@ -7981,7 +7960,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS2474-2PACKDINNERBIBWITHSLEEVES-LEMON-Extra0.jpg?v=1709672332
   Price: $82.00 NZD
 - [KONGES SLOJD Newborn Onesie - Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-newborn-onesie-cherry): Soft onesie made in 95 percent organic cotton and 5 percent elastane, with a hint of stretch. Snap buttons along the sides make it easy to wrap the garment around the baby.GOTS certified CARE Washable at 30 degrees C
-  Updated: 2025-08-31T03:36:49Z
+  Updated: 2025-09-01T05:36:47Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
@@ -10910,7 +10889,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $99.00 NZD
 - [KONGES SLOJD 2 pk Glitter Cups - Horn Stars](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-horn-stars): Spread some magic with our glitter cups. Shake lightly and the glitter will gently dance around. Ages: 3Y+
-  Updated: 2025-08-31T08:27:43Z
+  Updated: 2025-09-01T04:48:15Z
   Vendor: Konges slojd
   Product Type: Cup
   Availability: Available
@@ -11433,7 +11412,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-01T00:16:42Z
+  Updated: 2025-09-01T07:58:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -15294,14 +15273,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-08-31T20:22:42Z
+  Updated: 2025-09-01T07:22:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-01T03:22:46Z
+  Updated: 2025-09-01T07:02:43Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15445,7 +15424,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-01T03:43:12Z
+  Updated: 2025-09-01T07:43:13Z
   Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16297,8 +16276,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-01T03:43:12Z
-  Total Products: 1296
+  Updated: 2025-09-01T07:43:13Z
+  Total Products: 1293
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-01T01:34:25Z
   Total Products: 485
