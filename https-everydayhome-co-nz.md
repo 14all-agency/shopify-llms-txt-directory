@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-01T08:00:34.204Z
+- Updated At: 2025-09-01T12:00:34.292Z
 
 ## Products
 
@@ -5210,7 +5210,7 @@
   Updated: 2023-06-27T03:20:33Z
   Total Products: 0
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-08-30T11:08:26Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
   Updated: 2025-08-29T11:07:03Z
@@ -5228,13 +5228,13 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-08-31T11:08:49Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-08-31T11:08:49Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-08-30T11:08:26Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-08-31T11:08:49Z
@@ -5342,7 +5342,7 @@
   Updated: 2025-08-29T11:07:03Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-08-30T11:08:26Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
   Updated: 2025-08-31T11:08:49Z
@@ -5540,10 +5540,10 @@
   Updated: 2025-08-31T11:08:49Z
   Total Products: 142
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-08-31T11:08:49Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
-  Updated: 2025-08-29T00:20:38Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
   Updated: 2025-08-27T22:14:19Z
@@ -5585,10 +5585,10 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-08-31T11:08:49Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-08-31T11:08:49Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-31T11:08:49Z
@@ -5606,7 +5606,7 @@
   Updated: 2025-08-14T02:42:44Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-08-30T11:08:26Z
+  Updated: 2025-09-01T11:06:35Z
   Total Products: 162
 
 ## Store Pages
