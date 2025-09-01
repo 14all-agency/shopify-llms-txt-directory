@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-09-01T04:00:27.711Z
+- Updated At: 2025-09-01T16:00:27.648Z
 
 ## Products
 
@@ -702,6 +702,9 @@
     Author: User
   - [Top 10 Ways to Incorporate Sustainability into Everyday Life](https://jones-jm.myshopify.com/blogs/news/top-10-ways-to-incorporate-sustainability-into-everyday-life): Top 10 Ways to Incorporate Sustainability into Everyday Life
     Updated: 2025-08-29T20:50:30Z
+    Author: User
+  - [10 Simple Ways to Make Your Lifestyle More Sustainable](https://jones-jm.myshopify.com/blogs/news/10-simple-ways-to-make-your-lifestyle-more-sustainable): 10 Simple Ways to Make Your Lifestyle More Sustainable
+    Updated: 2025-09-01T06:21:21Z
     Author: User
 
 ## Store Pages
