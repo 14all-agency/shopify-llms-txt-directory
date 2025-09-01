@@ -6,7 +6,7 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-08-31T20:00:29.465Z
+- Updated At: 2025-09-01T00:00:29.847Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-microsoft-office-2024-license-home-business.webp?v=1752392501
   Price: $26.99 USD
 - [Microsoft Office 2024 Pro Plus Key - License Key Download Available](https://trustedtechteam.digital/products/microsoft-office-2024-pro-plus-license): Get Microsoft Office 2024 Pro Plus license at TrustedTech — instant download, lifetime key, full Word, Excel, PowerPoint, Outlook & productivity apps.
-  Updated: 2025-08-31T10:35:42Z
+  Updated: 2025-08-31T22:35:01Z
   Vendor: gnewnetworks
   Product Type: 
   Availability: Available
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2019-standard-license-white-box-front.webp?v=1752396551
   Price: $75.00 USD
 - [Microsoft Office 2024 Professional Plus - ESD License for Windows 10 & 11](https://trustedtechteam.digital/products/microsoft-office-2024-professional-plus-lifetime): Unlock productivity with Microsoft Office 2024 Professional Plus. Get a 1 PC license for Windows 10 & 11 and elevate your work experience today! Perfect for professionals.
-  Updated: 2025-08-31T11:34:27Z
+  Updated: 2025-08-31T22:33:54Z
   Vendor: gnewnetworks
   Product Type: 
   Availability: Available
@@ -1621,7 +1621,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-with-5-user-cals-datacenter-16-core-enterprise-digital-download.png?v=1756207596
   Price: $450.00 USD
 - [Windows Server 2025 with 5 User CALs. 16-Core Standard | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-with-5-user-cals): TrustedTech sells Windows Server 2025 with 5 User CALs. 16-Core Standard server software, digital download with 5 CALs for secure, scalable business use.
-  Updated: 2025-08-31T15:02:34Z
+  Updated: 2025-08-31T23:50:43Z
   Vendor: microsoft
   Product Type: server software
   Availability: Available
