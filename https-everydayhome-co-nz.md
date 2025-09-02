@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-02T08:00:34.742Z
+- Updated At: 2025-09-02T12:00:38.064Z
 
 ## Products
 
@@ -2384,7 +2384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-5-Piece-Cookware-Set-Essteele-3.jpg?v=1731903308
   Price: $969.99 NZD
 - [Estique Mirror W/ Hooks - White](https://everydayhome.co.nz/products/estique-mirror-w-hooks-white): A mirror with integrated storage, Estique features six wooden hooks to protect items while adding a decorative touch. Its integrated tray is perfect to hold your phone, wallet, keys, candles and more, while its mirror provides functionality to touch-up before heading out the door. Its modern mix of wood and metal make it a decorative storage solution that will look great in any home or office space.
-  Updated: 2025-08-25T23:52:10Z
+  Updated: 2025-09-02T09:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3609,7 +3609,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x30L-DarkGrey-8710755232527Brabantia_96dpi_1000x1000px_7_NR-34737.png?v=1734561023
   Price: $349.95 NZD
 - [Brabantia Bra Wash Bag - White](https://everydayhome.co.nz/products/bra-wash-bag-wht-gry): Wash your delicates with care with a Brabantia Wash Bag. A strong mesh bag, protecting fine garments and small items of clothing during washing, rinsing or spinning. The easy to use zipper even has a special cover for the pull-tab to protect other laundry and your washing machine. Small item, great idea!
-  Updated: 2025-08-21T23:37:12Z
+  Updated: 2025-09-02T09:37:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4672,7 +4672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/RollTopBreadBin-White-8710755306020Brabantia_300dpi_2000x2000px_9_NR-21282.jpg?v=1756436710
   Price: $149.95 NZD
 - [Brabantia Profile Can Opener - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-can-opener-matt-steel): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-02T02:02:33Z
+  Updated: 2025-09-02T10:52:43Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4847,7 +4847,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverC_124x45cm-SoothingSea_96dpi_2000x2000px_9_NR-35855_aeb1cdad-064a-4198-8a39-95384d8b2cfa.jpg?v=1756267111
   Price: $59.95 NZD
 - [Brabantia Ironing Board Cover D - Metalised Silver](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-d-metalised-silver): Better ironing without any extra effort - this Brabantia metallised cotton ironing board cover is a dream come true. It reflects the heat of your (steam) iron, giving you double ironing power!
-  Updated: 2025-08-31T20:37:11Z
+  Updated: 2025-09-02T09:37:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4973,7 +4973,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $17.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-08-31T20:37:11Z
+  Updated: 2025-09-02T08:07:10Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -5238,7 +5238,7 @@
   Updated: 2023-06-27T03:20:33Z
   Total Products: 0
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
   Updated: 2025-08-29T11:07:03Z
@@ -5256,13 +5256,13 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 1036
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 1036
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-09-01T11:06:35Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-09-02T02:02:34Z
@@ -5370,10 +5370,10 @@
   Updated: 2025-08-29T11:07:03Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-08-31T11:08:49Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-08-31T11:08:49Z
@@ -5418,7 +5418,7 @@
   Updated: 2025-08-27T22:15:23Z
   Total Products: 7
 - [Open Top](https://everydayhome.co.nz/collections/open-top)
-  Updated: 2025-08-27T22:15:29Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 7
 - [Kitchen Textiles](https://everydayhome.co.nz/collections/kitchen-textiles)
   Updated: 2025-08-27T22:15:27Z
@@ -5553,7 +5553,7 @@
   Updated: 2025-08-27T22:15:30Z
   Total Products: 6
 - [Stylish and Practical Toilet Accessories | Shop Now](https://everydayhome.co.nz/collections/toilet-accessories): Practical and stylish toilet accessories to keep your bathroom organised and clean. From toilet roll holders to brushes and more, these items offer both convenience and sleek designs. Free shipping across NZ on orders over 99*
-  Updated: 2025-08-30T11:08:26Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 13
 - [Stylish Wall and Desk Frames | Shop Now](https://everydayhome.co.nz/collections/wall-desk-frames): Showcase your favourite memories with our collection of wall and desk frames. Available in a variety of styles and sizes, these frames are perfect for adding a personal touch to any room. Free shipping across NZ on orders over 99*
   Updated: 2025-08-29T00:20:32Z
@@ -5568,7 +5568,7 @@
   Updated: 2025-08-31T11:08:49Z
   Total Products: 142
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-09-01T11:06:35Z
@@ -5613,10 +5613,10 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 1050
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-08-31T11:08:49Z
@@ -5634,7 +5634,7 @@
   Updated: 2025-08-14T02:42:44Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-09-02T02:02:34Z
+  Updated: 2025-09-02T11:07:14Z
   Total Products: 162
 
 ## Store Pages
@@ -5657,19 +5657,6 @@
   Updated: 2024-12-20T14:48:25Z
 - [Free Gift With Purchase](https://everydayhome.co.nz/pages/free-gift-with-purchase): Terms & Conditions Free gift applies to all clothesline purchases, this excludes clothesline accessories. One peg bag per order, automatically appl...
   Updated: 2025-02-19T03:32:45Z
-
-## Policies
-
-- [Privacy Policy](https://everydayhome.co.nz/policies/privacy-policy)
-  Updated: 2025-04-29T14:57:46+12:00
-- [Shipping Policy](https://everydayhome.co.nz/policies/shipping-policy)
-  Updated: 2025-04-29T14:58:41+12:00
-- [Refund Policy](https://everydayhome.co.nz/policies/refund-policy)
-  Updated: 2025-04-29T14:57:13+12:00
-- [Terms of Service](https://everydayhome.co.nz/policies/terms-of-service)
-  Updated: 2025-04-29T14:58:13+12:00
-- [Contact Information](https://everydayhome.co.nz/policies/contact-information)
-  Updated: 2025-04-29T15:01:38+12:00
 
 ## Optional
 
