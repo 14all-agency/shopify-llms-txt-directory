@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-01T20:00:33.879Z
+- Updated At: 2025-09-02T00:00:34.597Z
 
 ## Products
 
@@ -375,7 +375,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-2-X-30L-Matt-Black-9.jpg?v=1727659030
   Price: $599.95 NZD
 - [Brabantia Bo Touch Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-platinum): Bo Touch Bin, 2 X 30L, Platinum
-  Updated: 2025-09-01T03:52:11Z
+  Updated: 2025-09-01T23:22:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -914,7 +914,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbonwood-Wall-Clock-Natural-4.jpg?v=1727660134
   Price: $179.99 NZD
 - [Pillar Coat Rack - Black/Walnut](https://everydayhome.co.nz/products/pillar-coat-rack-black-walnut): This multi-functional coat rack boasts a sleek and stylish design that can easily fit into any space. With eight hooks for maximum storage, it offers a sophisticated solution for hanging coats and accessories in your home.
-  Updated: 2025-08-25T23:52:10Z
+  Updated: 2025-09-01T21:52:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -984,7 +984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Black-2.jpg?v=1727660092
   Price: $59.99 NZD
 - [Woodrow Trash Can - Natural](https://everydayhome.co.nz/products/woodrow-can-7-5l-natural): Introducing Woodrow, a stylish waste can that brings a modern vibe to any room. With its two-tone design, this can combines a natural wood interior with a stained finish on the outside, creating a cozy and grounded atmosphere. Its super easy to move around thanks to the integrated handles, making disposal a breeze. Plus, the unique curved shape turns a regular household item into a standout decor piece. Woodrow is perfect for compact spaces like powder rooms, offices, or studies. Upgrade your space with this eye-catching trash can!
-  Updated: 2025-08-30T01:07:11Z
+  Updated: 2025-09-01T22:01:50Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -1348,7 +1348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wooden-Chopping-Board-Meat-3.png?v=1727659465
   Price: $89.95 NZD
 - [Brabantia Profile Wooden Chopping for Board - Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-bread-c): No more crumbs on your countertop with this large Profile Wooden Chopping Board for Bread. In stylish and sustainable beech wood, with grooves that catch your bread crumbs. Done slicing? The back can be used for serving. Double handy!
-  Updated: 2025-08-15T15:15:57Z
+  Updated: 2025-09-01T22:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1999,7 +1999,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-24cm-7-6L-Covered-Stock-7.jpg?v=1731901999
   Price: $324.99 NZD
 - [Circulon Scratchdefense A1 - 25.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-25-4cm-open-skillet): Cook with complete confidence using this dishwasher-safe 25.4cm frying pan with a triple-layer nonstick cooking surface that lasts 130X longer than the competition and stands up to laboratory tests simulating 200+ years of daily wear and tear. An aluminium core delivers fast, all-over heat delivery and a thick, induction-suitable stainless steel base boosts durability and heat retention.
-  Updated: 2025-08-31T17:07:11Z
+  Updated: 2025-09-01T22:22:06Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2454,7 +2454,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Adhesive-Corner-Bin-White-UMBRA-4.jpg?v=1731902547
   Price: $37.99 NZD
 - [Flex Adhesive Toilet Brush - White](https://everydayhome.co.nz/products/flex-adhesive-tlt-brush-white): Umbra Adhesive Toilet Brush makes cleaning your toilet a less gruesome chore. With rubberized bristles that are both soft and durable, this toilet brush prevents odor-causing bacteria, mold or mildew for a sanitary and long-lasting brush. Its lid stays open when the brush is removed and automatically closes when putting back in place, all without having to touch anything but the handle. Flex Toilet Brush’s canister neatly stores the brush when not in use and can be secured to the floor or to any smooth surface.
-  Updated: 2025-08-12T16:51:43Z
+  Updated: 2025-09-01T22:01:51Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3021,14 +3021,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $349.95 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-08-31T07:52:11Z
+  Updated: 2025-09-01T21:52:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $54.95 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-08-24T03:37:11Z
+  Updated: 2025-09-01T21:52:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -4987,7 +4987,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $24.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-08-31T20:37:11Z
+  Updated: 2025-09-01T21:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
