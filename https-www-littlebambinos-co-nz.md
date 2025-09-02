@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-02T16:00:44.207Z
+- Updated At: 2025-09-02T20:00:45.059Z
 
 ## Products
 
@@ -920,13 +920,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Peace2.jpg?v=1633809619
   Price: $14.00 NZD
-- [LION + LAMB Rainbow Kantha Blanket](https://www.littlebambinos.co.nz/products/lion-lamb-rainbow-kantha-blanket): Lion + Lamb's sun kantha blankets have landed. Block printed in a beautiful gender neutral rust tone. Each blanket is entirely handmade from the unique pattern formed by a traditional Indian block stamp, right down to the hand stitched quilting. Each of the kantha blankets are one of a kind with a neutral white and beige stitch reverse side. A timeless and precious keepsake item to cherish over the years.
-  Updated: 2025-08-06T22:45:42Z
-  Vendor: Lion + Lamb
-  Product Type: Blanket
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RainbowBlanket1.jpg?v=1633817120
-  Price: $69.00 NZD
 - [QUINCY MAE Bringing Home Baby Set - Petite Floral](https://www.littlebambinos.co.nz/products/quincy-mae-bringing-home-baby-set-natural): This Quincy Mae bundle is packaged with love. Using their soft + sweet organic pointelle, this set has everything you need for bringing your new little love home.  Cosy and gentle to the touch, this set has you covered. The welcome home baby set includes 1x Pointelle Wrap top + pant set, 1x Pointelle Baby Bonnet and 1x Pointelle Blanket. Shop Quincy Mae for babies and toddlers.
   Updated: 2025-09-01T01:20:17Z
   Vendor: Quincy Mae
@@ -1381,7 +1374,7 @@
     Availability: Available
     Price: $27.00 NZD
 - [MUSHIE Crib Pocket - Tradewinds](https://www.littlebambinos.co.nz/products/mushie-crib-pocket-tradewinds): This multifunctional crib pocket, made from 100% cotton, is compatible with most cots. It will help you organise babyÃ¢â‚¬â„¢s necessary essentials such as diapers, wipes, teethers and toys. You can easily fasten the crib pocket to cot bars, railings, or shelves with the 3 sets of attached ribbon ties.
-  Updated: 2025-08-06T22:37:22Z
+  Updated: 2025-09-02T18:21:52Z
   Vendor: Mushie
   Product Type: Crib Pockets
   Availability: Available
@@ -1716,14 +1709,14 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/StarTrainingToothbrush-CambridgeBluecopy.jpg?v=1651054242
   Price: $28.00 NZD
 - [MUSHIE Silicone Place Mat - Dinosaur](https://www.littlebambinos.co.nz/products/mushie-silicone-place-mat-dinosaur): Keep your little one clean with this fun-loving silicone place mat. Made from food-grade silicone, these playful mats are BPA and phthalate free. Easy to clean, our silicone place mats resist stains and does not absorb water. Wash with soap.
-  Updated: 2025-09-01T01:13:49Z
+  Updated: 2025-09-02T17:34:37Z
   Vendor: Mushie
   Product Type: Place Mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SiliconePlaceMat-Dinosaurscopy.jpg?v=1651054497
   Price: $39.00 NZD
 - [MUSHIE Silicone Place Mat - Vanilla Confetti](https://www.littlebambinos.co.nz/products/mushie-silicone-place-mat-vanilla-confetti): Keep your little one clean with this fun-loving silicone place mat. Made from food-grade silicone, these playful mats are BPA and phthalate free. Easy to clean, our silicone place mats resist stains and does not absorb water. Wash with soap.
-  Updated: 2025-09-01T01:16:45Z
+  Updated: 2025-09-02T17:12:24Z
   Vendor: Mushie
   Product Type: Place Mat
   Availability: Available
@@ -10640,13 +10633,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Roman_Green.jpg?v=1727403169
   Price: $59.00 NZD
-- [MUSHIE Muslin Cotton Washcloth 5 pk - Rainbow Combo](https://www.littlebambinos.co.nz/products/mushie-muslin-cotton-washcloth-5-pk-rainbow-combo): Versatile muslin cloths in a pack of three. These beautifully soft muslin cloths are perfectly handy for several purposes; when nursing, eating or sleeping. Choose between a variety of prints. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-08-10T23:18:50Z
-  Vendor: Mushie
-  Product Type: Muslin Cloth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/MUSHIE_Muslin_Cotton_Washcloth_5_pk_-_Rainbow_Combo.jpg?v=1727408395
-  Price: $43.00 NZD
 - [MUSHIE Water Resistant Wet Bag 2pk - Blush](https://www.littlebambinos.co.nz/products/mushie-water-resistant-wet-bag-2pk-blush): Versatile muslin cloths in a pack of three. These beautifully soft muslin cloths are perfectly handy for several purposes; when nursing, eating or sleeping. Choose between a variety of prints. Free shipping within New Zealand on orders over $149.
   Updated: 2025-08-10T23:18:47Z
   Vendor: Mushie
@@ -11413,7 +11399,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-09-01T21:52:40Z
+  Updated: 2025-09-02T16:39:49Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -15439,7 +15425,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-02T15:43:17Z
+  Updated: 2025-09-02T19:43:17Z
   Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16291,8 +16277,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-02T15:43:17Z
-  Total Products: 1294
+  Updated: 2025-09-02T19:43:17Z
+  Total Products: 1292
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-02T11:21:39Z
   Total Products: 492
@@ -16975,8 +16961,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-02T01:08:29Z
   Total Products: 1582
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-02T01:08:29Z
-  Total Products: 3089
+  Updated: 2025-09-02T18:45:49Z
+  Total Products: 3090
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-08-26T04:04:49Z
   Total Products: 3
