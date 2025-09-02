@@ -6,68 +6,68 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-02T04:00:29.765Z
+- Updated At: 2025-09-02T12:00:30.124Z
 
 ## Products
 
-- [Microsoft Windows Server 2025 Standard Edition Download - Buy Now](https://trustedtechteam.digital/products/windows-server-2025-download): TrustedTech: Windows Server 2025 download - Microsoft Standard with enhanced security, virtualization & simplified management for scalable servers today.
-  Updated: 2025-08-25T11:16:21Z
+- [Windows Server 2025 download - Standard Edition Secure | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-download): TrustedTech offers Microsoft Windows Server 2025 Standard — secure, scalable OS with VM support and hybrid cloud tools. Windows Server 2025 download now.
+  Updated: 2025-09-02T09:16:30Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-download-standard-edition.png?v=1752392468
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-download-standard-edition-blue-windows-logo-server-room.png?v=1756804589
   Price: $150.00 USD
-- [Windows Server 2025 Standard 16 core Edition by Microsoft | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2025-standard-16-core): TrustedTech sells Windows Server 2025 Standard 16 core — secure, scalable server OS with improved virtualization, built-in security, and easy management.
-  Updated: 2025-08-25T11:16:15Z
+- [Windows Server 2025 Standard 16 core - Secure & Scalable | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-16-core): TrustedTech sells Microsoft Windows Server 2025 Standard 16 core - secure, scalable OS with virtualization, advanced security and reliable performance for SMBs.
+  Updated: 2025-09-02T09:16:35Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-16-core-logo-transparent-background.png?v=1752568136
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-16-core-server-room-cover-blue-windows-logo.png?v=1756804594
   Price: $150.00 USD
-- [Microsoft Office 2024 for Mac Home & Business Edition - TrustedTechTeam](https://trustedtechteam.digital/products/microsoft-office-2024-for-mac): Shop TrustedTech for Microsoft Office 2024 for Mac — Home & Business suite: Word, Excel, PowerPoint & Outlook for home & small-business productivity.
-  Updated: 2025-08-25T11:16:13Z
+- [Microsoft Office 2024 for Mac — Home & Business | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-for-mac): Buy Microsoft Office 2024 for Mac at TrustedTech — Office Home & Business 2024 with Word, Excel, PowerPoint and Outlook for a one-time productivity boost.
+  Updated: 2025-09-02T09:16:27Z
   Vendor: microsoft
   Product Type: office 2024
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-home-and-business-software-2024-logo-graph.webp?v=1752397288
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2024-for-mac-home-and-business-packaging-excel-green-bar-chart.webp?v=1756804586
   Price: $125.00 USD
-- [Microsoft Office 2024 License - Buy Home & Business Edition Now](https://trustedtechteam.digital/products/buy-microsoft-office-2024-license): TrustedTech: buy Microsoft Office 2024 license — Home & Business with Word, Excel, PowerPoint & Outlook. One-time purchase, secure download and fast support.
-  Updated: 2025-08-25T11:16:11Z
+- [buy Microsoft Office 2024 license - Home & Business | TrustedTech](https://trustedtechteam.digital/products/buy-microsoft-office-2024-license): buy Microsoft Office 2024 license at TrustedTech - Office Home & Business 2024: Word, Excel, PowerPoint & Outlook. One-time purchase for reliable productivity.
+  Updated: 2025-09-02T09:16:21Z
   Vendor: microsoft
   Product Type: office 2024
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-microsoft-office-2024-license-home-business.webp?v=1752392501
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-microsoft-office-2024-license-home-and-business-2024-box-green-bar-chart.webp?v=1756804581
   Price: $26.99 USD
-- [Microsoft Office 2024 Pro Plus Key - License Key Download Available](https://trustedtechteam.digital/products/microsoft-office-2024-pro-plus-license): Get Microsoft Office 2024 Pro Plus license at TrustedTech — instant download, lifetime key, full Word, Excel, PowerPoint, Outlook & productivity apps.
-  Updated: 2025-08-31T22:35:01Z
+- [Microsoft Office 2024 Pro Plus license - Instant Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-pro-plus-license): Buy Microsoft Office 2024 Pro Plus license at TrustedTech. Instant genuine key download, full Office suite for Windows 10/11, easy activation and lifetime use.
+  Updated: 2025-09-02T09:16:53Z
   Vendor: gnewnetworks
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2024-professional-plus-key-icons-and-logo.avif?v=1753351942
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2024-pro-plus-license-office-2024-logo-app-icons-white.avif?v=1756804610
   Price: $26.99 USD
-- [Microsoft Remote Desktop User CAL 20 pack for Windows Server 2025 | trustedtechteam](https://trustedtechteam.digital/products/microsoft-remote-desktop-user-cal-20-pack): TrustedTech: Microsoft Remote Desktop User CAL 20 pack for Windows Server — secure remote access, centralized management, easy deployment and 20-user licensing.
-  Updated: 2025-08-25T11:16:08Z
+- [Microsoft Remote Desktop User CAL 20 pack - RDS 2022 | TrustedTech](https://trustedtechteam.digital/products/microsoft-remote-desktop-user-cal-20-pack): TrustedTech: Microsoft Remote Desktop User CAL 20 pack for Windows Server — secure RDS access, scalable licensing for 20 users and simple remote productivity.
+  Updated: 2025-09-02T09:16:22Z
   Vendor: microsoft
   Product Type: windows server 2025 RDS 20 user cal
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-remote-desktop-user-cal-20-pack-windows-remote-desktop-services-2022.png?v=1752926878
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-remote-desktop-user-cal-20-pack-windows-remote-desktop-services-2022-user-cal-box-front.png?v=1756804582
   Price: $45.00 USD
-- [Microsoft Client Access Licenses 10 Users for Windows Server 2022 CALs | trustedtechteam](https://trustedtechteam.digital/products/microsoft-client-access-licenses-10-users): Microsoft Client Access Licenses 10 Users for Windows Server - Securely connect up to 10 users with flexible, easy-to-manage licenses. Enhance your network today! Shop now!
-  Updated: 2025-08-10T18:41:39Z
+- [Microsoft Client Access Licenses 10 users for WS2022 RDS | TrustedTech](https://trustedtechteam.digital/products/microsoft-client-access-licenses-10-users): TrustedTech sells Microsoft Client Access Licenses 10 users for Windows Server 2022 — volume CALs for secure remote access, easy management and compliance.
+  Updated: 2025-09-02T09:16:42Z
   Vendor: microsoft
   Product Type: windows server 2022 RDS 5 user cal
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-client-access-licenses-10-users-windows-server-2022-dell-box.webp?v=1752926960
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/dell-microsoft-client-access-licenses-10-users-windows-server-2022-retail-box-dell-logo.webp?v=1756804601
   Price: $65.00 USD
-- [Windows Server 2022 User CAL - Buy 5 User CAL by Microsoft Online](https://trustedtechteam.digital/products/buy-windows-server-2022-cal-5-user-cal): TrustedTech: buy Windows Server 2022 CAL — Microsoft 5 User CAL for secure, compliant remote access, simple licensing and instant digital delivery. Fast.
-  Updated: 2025-08-25T11:16:22Z
+- [buy Windows Server 2022 CAL 5-User Pack - Microsoft | TrustedTech](https://trustedtechteam.digital/products/buy-windows-server-2022-cal-5-user): TrustedTech: buy Windows Server 2022 CAL 5-user pack by Microsoft - genuine user CALs for secure access, easy deployment and streamlined server management.
+  Updated: 2025-09-02T09:16:32Z
   Vendor: microsoft
   Product Type: windows server 2025 RDS 5 user cal
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/dell-buy-windows-server-2022-cal-white-box-logo.webp?v=1752392553
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-windows-server-2022-cal-dell-retail-box-blue.webp?v=1756804591
   Price: $65.00 USD
-- [Windows Server Datacenter 2022 License - Microsoft Software | trustedtechteam](https://trustedtechteam.digital/products/windows-server-datacenter-2022-license): Microsoft Windows Server Datacenter 2022 license from TrustedTech — virtualization, advanced security and Azure integration for scalable datacenters. Reliable.
-  Updated: 2025-08-25T11:16:28Z
+- [Windows Server Datacenter 2022 license - Unlimited VMs | TrustedTech](https://trustedtechteam.digital/products/windows-server-datacenter-2022-license): TrustedTech: Windows Server Datacenter 2022 license - official Microsoft edition with advanced security, unlimited virtualization and scalable management.
+  Updated: 2025-09-02T09:16:24Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -78,63 +78,63 @@
   Vendor: microsoft
   Product Type: software
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-box.webp?v=1752927087
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-retail-box-white-blue-windows-logo-angled.webp?v=1756804584
   Price: $45.00 USD
 - [Microsoft Windows Server 2025 Standard License 16 Core Solution | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2025-standard-license-16-core): Microsoft Windows Server 2025 Standard license - Reliable server OS boosting productivity with advanced security. Scalable for diverse workloads. Shop now!
   Updated: 2025-08-25T11:16:11Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-blue-logo-box.png?v=1753601966
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-box-front-microsoft-logo-blue-windows.png?v=1756804585
   Price: $200.00 USD
-- [Windows Server Datacenter 2025 - Buy for Enhanced Performance Now](https://trustedtechteam.digital/products/buy-windows-server-datacenter-2025): TrustedTech - buy Windows Server Datacenter 2025: enterprise virtualization, built-in security, unlimited containers and fast, scalable hybrid cloud performance.
-  Updated: 2025-08-25T11:16:13Z
+- [buy Windows Server Datacenter 2025 - Scalable & Secure | TrustedTech](https://trustedtechteam.digital/products/buy-windows-server-datacenter-2025): TrustedTech: buy Windows Server Datacenter 2025 - enterprise-grade virtualization, containers, built-in security and optimized hybrid cloud performance.
+  Updated: 2025-09-02T09:16:42Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-server-2025-datacenter-license-windows-box-art.png?v=1752396779
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-windows-server-datacenter-2025-front-gray-box-microsoft-logo-blue-windows-icon.png?v=1756804601
   Price: $250.00 USD
-- [Buy Microsoft Windows Server 2022 License - Reliable & Secure | trustedtechteam](https://trustedtechteam.digital/products/buy-microsoft-windows-server-2022-license): Buy Microsoft Windows Server 2022 Standard Edition - Elevate your business with enhanced security and improved performance. Flexible deployment options included. Shop now!
-  Updated: 2025-08-10T18:41:40Z
+- [buy Microsoft Windows Server 2022 Standard - Secure | TrustedTech](https://trustedtechteam.digital/products/buy-microsoft-windows-server-2022): buy Microsoft Windows Server 2022 at TrustedTech - fast, secure Standard with hybrid cloud support, advanced security and simplified management for IT teams.
+  Updated: 2025-09-02T09:18:40Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-24-core-license-product-box.webp?v=1753601968
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-microsoft-windows-server-2022-standard-retail-box-white-blue-windows-logo.webp?v=1756804718
   Price: $45.00 USD
 - [Windows Server 2022 Standard License 16 Core by Microsoft | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2022-standard-license-16-core): Microsoft Windows Server 2022 Standard license - Manage and secure your IT environment with enhanced security. Supports virtualization for multiple VMs. Shop now!
   Updated: 2025-08-10T18:41:40Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-blue-windows-logo.webp?v=1756548096
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-retail-box-white-blue-windows-logo-angled.webp?v=1756804692
   Price: $45.00 USD
-- [Windows Server 2022 Standard License by Microsoft - Ultimate Solution | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2022-standard-license): Microsoft Windows Server 2022 Standard License Key - Boost business growth with enhanced security. Enjoy hybrid cloud flexibility and improved performance. Shop now!
-  Updated: 2025-08-10T18:41:40Z
+- [Windows Server 2022 Standard license - Microsoft key | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-standard-license): TrustedTech sells Windows Server 2022 Standard license - official Microsoft key for secure, scalable hybrid and virtualized deployments with easy management.
+  Updated: 2025-09-02T09:18:22Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-blue-background.jpg?v=1752927377
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-purple-box-microsoft-logo.jpg?v=1756804702
   Price: $50.00 USD
-- [Microsoft Office 2019 Mac Business - Home & Business Edition for Mac](https://trustedtechteam.digital/products/microsoft-office-2019-for-mac-home-business): Enhance productivity with Microsoft Office 2019 for Mac - Home & Business Edition. Perfect for professionals seeking robust tools. Get your Microsoft Office 2019 Mac Business today!
-  Updated: 2025-08-16T22:14:38Z
+- [Microsoft Office 2019 for Mac Home & Business - 1 User | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2019-for-mac): Buy Microsoft Office 2019 for Mac at TrustedTech - Home & Business edition with Word, Excel, PowerPoint and Outlook. One-time buy for reliable Mac productivity.
+  Updated: 2025-09-02T09:18:08Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2019-for-mac-home-business-software-box.webp?v=1752927428
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2019-for-mac-home-and-business-retail-box-orange-1-user.webp?v=1756804687
   Price: $26.99 USD
-- [Microsoft Office 2021 License for Home and Business - Buy Now](https://trustedtechteam.digital/products/microsoft-office-2021-home-and-business-license): Microsoft Office 2021 Home and Business license - Boost productivity with powerful apps like Word, Excel, and Outlook. Lifetime access on one PC. Shop now!
-  Updated: 2025-08-10T18:41:40Z
+- [Microsoft Office 2021 Home and Business license - For PC | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2021-home-and-business-license): Microsoft Office 2021 Home and Business license - TrustedTech one-time PC suite with Word, Excel, PowerPoint & Outlook for home & small business productivity.
+  Updated: 2025-09-02T09:18:32Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-home-and-business-license-software-box-pc.webp?v=1752927478
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2021-home-and-business-license-retail-box-front-gold-partner-badge-on-desk.webp?v=1756804712
   Price: $19.99 USD
-- [Microsoft Windows 11 Upgrade Software for Easy Home to Pro Upgrade](https://trustedtechteam.digital/products/windows-11-home-to-pro-software): Upgrade to Microsoft Windows 11 Upgrade Software for a seamless transition from Home to Pro. Experience enhanced features and performance. Elevate your PC today!
-  Updated: 2025-08-10T18:41:40Z
+- [Windows 11 Home to Pro Upgrade - Seamless Pro Features | TrustedTech](https://trustedtechteam.digital/products/windows-11-home-to-pro-upgrade): TrustedTech: Microsoft Windows 11 Home to Pro upgrade for a seamless, secure transition—unlock BitLocker, Remote Desktop, security and business features.
+  Updated: 2025-09-02T09:18:20Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-upgrade-blue-background-logo.webp?v=1753601958
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-home-to-pro-pro-upgrade-logo-blue-abstract-background.webp?v=1756804698
   Price: $14.99 USD
 - [Microsoft Windows 11 Pro Software with Windows 11 Pro license key | trustedtechteam](https://trustedtechteam.digital/products/windows-11-pro-license-key-software): Get your Windows 11 Pro license key from trustedtechteam. Enjoy Microsoft's latest OS with enhanced security and productivity features today.
   Updated: 2025-08-30T21:21:46Z
@@ -143,37 +143,37 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-license-key-box-front.webp?v=1752927516
   Price: $10.99 USD
-- [Windows 11 Pro license Software for Enhanced Performance | trustedtechteam](https://trustedtechteam.digital/products/windows-11-pro-license-software): Get your genuine Windows 11 Pro license from trustedtechteam for enhanced security and performance. Upgrade today with Microsoft’s latest software.
-  Updated: 2025-08-10T18:41:40Z
+- [Windows 11 Pro license - Genuine Microsoft Key, Secure | TrustedTech](https://trustedtechteam.digital/products/windows-11-pro-license): Get a genuine Windows 11 Pro license from TrustedTech - instant email delivery of Microsoft product key, secure activation and professional security features.
+  Updated: 2025-09-02T09:18:10Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-license-blue-logo-background.webp?v=1752927557
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-license-dark-cover-blue-abstract-wave-closeup.webp?v=1756804689
   Price: $10.99 USD
-- [Microsoft Office 2021 for Mac license - Home & Business Software | trustedtechteam](https://trustedtechteam.digital/products/microsoft-office-2021-for-mac-license): Get your Microsoft Office 2021 for Mac license from trustedtechteam. This Home & Business software suite boosts productivity with essential tools for pros.
-  Updated: 2025-08-10T18:41:40Z
-  Vendor: mysoftwarechoice
+- [Microsoft Office 2021 for Mac license - Home & Business | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2021-for-mac-license): TrustedTech offers Microsoft Office 2021 for Mac license from mysoftwarechoice — Home & Business one-time purchase with Word, Excel, PowerPoint and Outlook.
+  Updated: 2025-09-02T10:24:53Z
+  Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-for-mac-license-home-business-box.webp?v=1752927597
   Price: $105.00 USD
-- [Printable Planner Inserts A5 & HP Classic Daily & Weekly | trustedtechteam](https://trustedtechteam.digital/products/printable-planner-inserts-daily-weekly-a5): Get printable planner inserts from trustedtechteam featuring stylish daily and weekly sheets in multiple sizes. Download and customize your planner today!
-  Updated: 2025-08-10T18:41:40Z
-  Vendor: mysoftwarechoice
+- [printable planner inserts - Customizable 3 Sizes | TrustedTech](https://trustedtechteam.digital/products/printable-planner-inserts): TrustedTech: MySoftwareChoice printable planner inserts — customizable in 3 sizes, 4 sheets (Today, This Week, 2 Notes) plus bonus cut file for A5 & Classic.
+  Updated: 2025-09-02T10:24:53Z
+  Vendor: excel
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/printable-planner-inserts-airplane-theme-daily-weekly-schedule.jpg?v=1752927623
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/jetsetstudio-printable-planner-inserts-airplane-watercolor-daily-weekly-bonus-cutfile-a5-classic.jpg?v=1756804698
   Price: $3.99 USD
-- [Printable Productivity Planner Bundle with Project & Habit Tracker PDF | trustedtechteam](https://trustedtechteam.digital/products/printable-productivity-planner-bundle-pdf): Get the printable productivity planner bundle from trustedtechteam, featuring goal tracking, project planning, and time management for maximum efficiency.
-  Updated: 2025-08-10T18:41:40Z
-  Vendor: mysoftwarechoice
+- [printable productivity planner bundle - HP Classic PDF | TrustedTech](https://trustedtechteam.digital/products/printable-productivity-planner-bundle): TrustedTech's printable productivity planner bundle: 21-page HP Classic/Disc PDF with goal, habit, Pomodoro & project trackers to boost focus and productivity.
+  Updated: 2025-09-02T10:24:53Z
+  Vendor: excel
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/printable-productivity-planner-bundle-classic-disc-planner-pages.webp?v=1752392652
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/planner-studio-printable-productivity-planner-bundle-cover-daily-weekly-monthly-habit-pomodoro-tracker.webp?v=1756804709
   Price: $4.99 USD
-- [Printable Cleaning Checklist PDF for Weekly & Monthly Planner | trustedtechteam](https://trustedtechteam.digital/products/printable-cleaning-checklist-home-planner): Get organized with trustedtechteam’s printable cleaning checklist PDF insert for Big Happy Planner. Perfect for weekly and monthly home management chores.
-  Updated: 2025-08-10T18:41:41Z
-  Vendor: mysoftwarechoice
+- [printable cleaning checklist - Happy Planner PDF Insert | TrustedTech](https://trustedtechteam.digital/products/printable-cleaning-checklist-planner): TrustedTech printable cleaning checklist PDF for Mambi Classic & Big Happy Planner — 2-page weekly/monthly chore insert with checkboxes to streamline home care.
+  Updated: 2025-09-02T10:24:53Z
+  Vendor: excel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/printable-cleaning-checklist-disc-planner-2-pages-layout.webp?v=1752392658
@@ -242,8 +242,8 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-pro-plus-download-office-professional-retail-box.webp?v=1752392753
   Price: $11.99 USD
 - [Microsoft Project 2021 Professional license - Email Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2021-professional-license): Buy Microsoft Project 2021 Professional license at TrustedTech, instant email activation for powerful planning, resource management and Gantt charts.
-  Updated: 2025-08-30T22:01:50Z
-  Vendor: neweggv
+  Updated: 2025-09-02T10:24:52Z
+  Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-project-2021-professional-license-retail-box-front-green-p-logo-activation-code-by-email.jpg?v=1756548103
@@ -256,8 +256,8 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-professional-license-software-box-front.webp?v=1752928014
   Price: $22.99 USD
 - [Microsoft Project 2024 Professional license - Instant | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2024-professional-license): TrustedTech: Microsoft Project 2024 Professional license by gnewnetworks — instant delivery, one-user perpetual activation, Windows 10/11 compatible today.
-  Updated: 2025-08-30T22:01:56Z
-  Vendor: gnewnetworks
+  Updated: 2025-09-02T10:24:52Z
+  Vendor: microsoft
   Product Type: project professional 2024
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-project-2024-professional-license-green-p-icon-box-cover-windows-10-11-city-street-background.png?v=1756548108
@@ -316,7 +316,7 @@
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-blue-windows-logo.webp?v=1756548096
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-retail-box-white-blue-windows-logo-angled.webp?v=1756804692
   Price: $45.00 USD
 - [Windows 10 Home license - Genuine Microsoft Key | TrustedTech](https://trustedtechteam.digital/products/windows-10-home-license-key): TrustedTech offers genuine Windows 10 Home license with instant digital delivery, secure activation key and Microsoft-backed reliability for your PC today.
   Updated: 2025-08-30T22:01:53Z
@@ -361,53 +361,53 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2019-standard-license-white-box-front.webp?v=1752396551
   Price: $75.00 USD
 - [Microsoft Office 2024 Professional Plus - ESD License for Windows 10 & 11](https://trustedtechteam.digital/products/microsoft-office-2024-professional-plus-lifetime): Unlock productivity with Microsoft Office 2024 Professional Plus. Get a 1 PC license for Windows 10 & 11 and elevate your work experience today! Perfect for professionals.
-  Updated: 2025-08-31T22:33:54Z
-  Vendor: gnewnetworks
+  Updated: 2025-09-02T10:24:52Z
+  Vendor: Microsoft
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2024-professional-plus-key-icons-and-logo.avif?v=1753351942
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2024-pro-plus-license-office-2024-logo-app-icons-white.avif?v=1756804610
   Price: $26.99 USD
 - [Microsoft Server 2025 Datacenter license 24 Core Windows Server for Enhanced Performance | trustedtechteam](https://trustedtechteam.digital/products/microsoft-server-2025-datacenter-license): Get the Microsoft Server 2025 Datacenter license with 24 Core Windows Server for enhanced performance at trustedtechteam. Ideal for advanced data center needs.
   Updated: 2025-08-10T18:41:43Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-server-2025-datacenter-license-windows-box-art.png?v=1752396779
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-windows-server-datacenter-2025-front-gray-box-microsoft-logo-blue-windows-icon.png?v=1756804601
   Price: $225.00 USD
 - [Windows 11 Pro Upgrade Software for Seamless Home to Pro by Microsoft | trustedtechteam](https://trustedtechteam.digital/products/windows-11-pro-upgrade-software): Upgrade your PC with trustedtechteam's Microsoft Windows 11 Pro upgrade software for a seamless transition from Home to Pro with enhanced features.
   Updated: 2025-08-10T18:41:43Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-upgrade-blue-background-logo.webp?v=1753601958
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-home-to-pro-pro-upgrade-logo-blue-abstract-background.webp?v=1756804698
   Price: $14.99 USD
 - [Windows Server 2025 Standard license - Reliable Microsoft Server OS | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2025-standard-license): Get the Windows Server 2025 Standard license from trustedtechteam, the reliable Microsoft server OS offering enhanced security and performance.
   Updated: 2025-08-10T18:41:43Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-blue-logo-box.png?v=1753601966
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-box-front-microsoft-logo-blue-windows.png?v=1756804585
   Price: $200.00 USD
 - [Microsoft Windows Server 2025 Standard License 16 Core Solution | trustedtechteam](https://trustedtechteam.digital/products/microsoft-windows-server-2025-standard): Get the Windows Server 2025 Standard license from trustedtechteam. Complete 16 Core solution by Microsoft ensuring powerful and scalable server management.
   Updated: 2025-08-10T18:41:44Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-blue-logo-box.png?v=1753601966
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-box-front-microsoft-logo-blue-windows.png?v=1756804585
   Price: $200.00 USD
 - [Microsoft Windows Server 2025 Standard License 16 Core Solution | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2025-standard-license-microsoft): Get the Windows Server 2025 Standard license from trustedtechteam. Complete 16 Core solution by Microsoft ensuring powerful and scalable server management.
   Updated: 2025-08-10T18:41:44Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-blue-logo-box.png?v=1753601966
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-box-front-microsoft-logo-blue-windows.png?v=1756804585
   Price: $200.00 USD
 - [Windows Server 2022 Standard 24 core license - Microsoft 24-Core OS | trustedtechteam](https://trustedtechteam.digital/products/windows-server-2022-standard-24-core-license): Get the Windows Server 2022 Standard 24 core license from trustedtechteam. Reliable Microsoft software for powerful and secure server management.
   Updated: 2025-08-10T18:41:44Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-24-core-license-product-box.webp?v=1753601968
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-microsoft-windows-server-2022-standard-retail-box-white-blue-windows-logo.webp?v=1756804718
   Price: $45.00 USD
 - [Microsoft Office Home and Business 2024 with Essential Tools | trustedtechteam](https://trustedtechteam.digital/products/microsoft-office-home-and-business-2024): Get Microsoft Office Home and Business 2024 at trustedtechteam. Enhance productivity with Word, Excel, PowerPoint, and Outlook for home and office use.
   Updated: 2025-08-10T18:41:44Z
@@ -444,106 +444,106 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-2022-standard-white-retail-software-box-red-wave-2019-front-angle.jpg?v=1756119595
   Price: $375.00 USD
-- [Microsoft Windows Server 2025 Standard 24 core license | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-24-core-license): Windows Server 2025 Standard 24 core license from TrustedTech delivers Microsoft-grade virtualization, industry-leading security, and easy server management.
-  Updated: 2025-08-27T08:19:07Z
+- [Windows Server 2025 Standard 24 core license OEM | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-24-core-license): TrustedTech: Windows Server 2025 Standard 24 core license - Microsoft OEM with enterprise-grade security, virtualization and easy management for SMBs.
+  Updated: 2025-09-02T09:25:14Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-24-core-license-white-retail-box-angled-front-blue-windows-logo.jpg?v=1756119792
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-24-core-license-white-retail-box-front-blue-windows-logo-angled.jpg?v=1756805113
   Price: $550.00 USD
-- [Windows Server 2025 Datacenter license - Per Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-license): TrustedTech sells Windows Server 2025 Datacenter license per core — Microsoft enterprise OS with advanced security, scalable virtualization, digital key.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2025 Datacenter license - Perpetual Key | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-license): TrustedTech sells the Microsoft Windows Server 2025 Datacenter license - perpetual, enterprise virtualization, advanced security and hybrid cloud scale.
+  Updated: 2025-09-02T09:24:56Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-license-blue-product-box-angled-front-white-windows-logo.jpg?v=1756192034
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-license-blue-retail-box-microsoft-logo-windows-logo-angled.jpg?v=1756805095
   Price: $550.00 USD
-- [Microsoft Windows Server 2025 Standard - 16 Core License](https://trustedtechteam.digital/products/microsoft-windows-server-2025-standard-16-core-license): Windows Server 2025 Standard Microsoft Windows Server 2025 prepares you for tomorrow while delivering the security, performance, and flexibility you need today. Be more productive with easier networking, faster storage, and hybrid cloud capabilities that adapt to your needs. Get ahead of what’s next with forward-looking security, and AI-ready compute. Key Features: Hybrid: Adapt quickly across hybrid, cloud and on-premise. Easier to connect to Azure Arc to bridge on-premises and cloud-based servers. Deliver Azure capabilities to your on-premises servers. Security: Hardware and software-level security to deter cyberattacks; next-generation Active Directory that improves security and scalability. Enable a tailored security baseline and configure drift protection from the start. Modern, future-ready platform: Windows Server 2025 is now easier to upgrade and scale, with better-than-ever app compatibility. Windows Server 2025 desktop brings a consistent client and server UI experience, plus conveniences like WiFi and Bluetooth. Performance: Faster and easier networking and storage; live hotpatching for reduced downtime; GPU partitioning for inferencing at the edge. Improvements in flash-based storage make Windows Server an even better platform for SQL Server. For Windows Server 2025 hardware requirements, check out the component requirements.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2025 Standard license - 16 Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-license-16): TrustedTech: Windows Server 2025 Standard license (16-core) - secure, scalable server OS with virtualization and built-in security for reliable business.
+  Updated: 2025-09-02T09:28:06Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-retail-box-front-blue-windows-logo.jpg?v=1756192016
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-white-retail-box-blue-windows-logo-angled.jpg?v=1756805094
   Price: $729.99 USD
-- [Microsoft Windows Server 2025 Standard - 2 Core License](https://trustedtechteam.digital/products/windows-server-standard-2025-2-core): Windows Server 2025 Standard Microsoft Windows Server 2025 prepares you for tomorrow while delivering the security, performance, and flexibility you need today. Be more productive with easier networking, faster storage, and hybrid cloud capabilities that adapt to your needs. Get ahead of what’s next with forward-looking security, and AI-ready compute. Key Features: Hybrid: Adapt quickly across hybrid, cloud and on-premise. Easier to connect to Azure Arc to bridge on-premises and cloud-based servers. Deliver Azure capabilities to your on-premises servers. Security: Hardware and software-level security to deter cyberattacks; next-generation Active Directory that improves security and scalability. Enable a tailored security baseline and configure drift protection from the start. Modern, future-ready platform: Windows Server 2025 is now easier to upgrade and scale, with better-than-ever app compatibility. Windows Server 2025 desktop brings a consistent client and server UI experience, plus conveniences like WiFi and Bluetooth. Performance: Faster and easier networking and storage; live hotpatching for reduced downtime; GPU partitioning for inferencing at the edge. Improvements in flash-based storage make Windows Server an even better platform for SQL Server. For Windows Server 2025 hardware requirements, check out the component requirements.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2025 Standard license - 2 Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-license-2c): TrustedTech offers Microsoft Windows Server 2025 Standard license, 2-core edition for secure, scalable server deployment with improved performance, VM support.
+  Updated: 2025-09-02T09:31:16Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-retail-box-blue-windows-logo-angled.jpg?v=1756192025
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-white-retail-box-blue-windows-logo-front-angle.jpg?v=1756805098
   Price: $109.99 USD
-- [Windows Server 2025 Datacenter 16 core license - Secure | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-16-core-license): Buy Windows Server 2025 Datacenter 16 core license from TrustedTech, Datacenter edition with scalable virtualization, advanced security and hybrid cloud.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2025 Datacenter 16 core license OEM | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-16-core-license-oem): TrustedTech sells Windows Server 2025 Datacenter 16 core license - OEM edition with advanced security, Hyper-V virtualization and container scale for IT teams.
+  Updated: 2025-09-02T09:25:08Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-16-core-license-blue-retail-box-microsoft-logo-windows-logo-angled.jpg?v=1756192037
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-16-core-license-blue-retail-box-front-angle-microsoft-logo-windows-logo.jpg?v=1756805107
   Price: $3,889.99 USD
-- [Microsoft Windows Server 2025 Datacenter - 2 Core License](https://trustedtechteam.digital/products/windows-server-datacenter-2025-2-core): Windows Server 2025 Datacenter Microsoft Windows Server 2025 boasts advanced features that improve security, performance, and flexibility. With faster storage options and the ability to integrate with hybrid cloud environments, managing your infrastructure is now more streamlined. Windows Server 2025 builds on the strong foundation of its predecessor while introducing a range of innovative enhancements to adapt to your needs. Key Features: Hybrid: Adapt quickly across hybrid, cloud and on-premise. Easier to connect to Azure Arc to bridge on-premises and cloud-based servers. Deliver Azure capabilities to your on-premises servers. Security: Hardware and software-level security to deter cyberattacks; next-generation Active Directory that improves security and scalability. Enable a tailored security baseline and configure drift protection from the start. Modern, future-ready platform: Windows Server 2025 is now easier to upgrade and scale, with better-than-ever app compatibility. Windows Server 2025 desktop brings a consistent client and server UI experience, plus conveniences like WiFi and Bluetooth. Performance: Faster and easier networking and storage; live hotpatching for reduced downtime; GPU partitioning for inferencing at the edge. Improvements in flash-based storage make Windows Server an even better platform for SQL Server. For Windows Server 2025 hardware requirements, check out the component requirements.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2025 Datacenter license - MS 2-core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-license-2): TrustedTech sells Microsoft Windows Server 2025 Datacenter license 2-core: enterprise virtualization, advanced security and scalable management for datacenters.
+  Updated: 2025-09-02T09:37:57Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/WS2025_Datacenter_Box_e09dc8ca-ecf0-456d-bee1-99da08b2afb3.jpg?v=1756190706
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-license-blue-retail-box-front-side-microsoft-logo.jpg?v=1756805824
   Price: $689.99 USD
-- [Microsoft Windows Server 2022 Standard - 16 Core License](https://trustedtechteam.digital/products/microsoft-windows-server-2022-standard-16-core): Windows Server 2022 Standard License Elevate your business with Windows Server 2022 Standard. This powerful operating system delivers a robust and secure foundation for your IT infrastructure. Optimize performance, enhance security, and streamline operations. Leverage Windows Server 2022's cloud capabilities to run various workloads across different environments, including cloud, on-premise, and hybrid. Its hybrid capabilities integrate seamlessly with Azure, providing flexibility and efficiency for your digital transformation. Key Features: Hybrid Capabilities: Run workloads anywhere: data center, cloud, or edge. Flexible Application Platform: Build and deploy diverse applications with containers. Security: Protect your data with advanced multi-layer security and threat detection. Performance: Optimize your workloads for maximum efficiency and scalability. Management: Streamline IT management with Azure AD and Group Policy. Windows Server 2022: Standard vs. Datacenter Comparison Feature Standard Datacenter Core Windows Server functionality Hybrid integration OSEs*/Hyper-V isolated containers 2 Unlimited Windows Server containers Unlimited Unlimited Storage Replica Limited to single Storage Replica volume up to 2TB Software-defined networking Software-defined storage Windows Server 2022 vs. 2019: Key Feature Comparison Feature Windows Server 2022 Windows Server 2019 New Windows Admin Center Automatic Windows Admin Center Updates Automated Extension Lifecycle Management Event Workspace to track data Detachable Events Overview Screen Built in Configurable Configurable Destination Virtual Switch Customizable Columns for VM Information Upgraded Hyper V Manager Action Bar Live Storage Migration Affinity and Anti-Affinity Rules VM Clones Running Workloads Between Server New Partitioning Tool Enhanced Security Hypervisor based code integrity Secured-core server Hardware-enforced Stack Protection TLS 1.3 Enabled by default 1.2 Supported Hybrid Cloud Capabilities Azure Arc 1.3 Enabled by default Supported Storage Migration Service Simplified Deployment & Management Supported Improved Platform Flexibility Uncompressed Image Size 3.7 GB approx 2.7 GB approx Virtualized Time Zone Configurable Within Container Mirrors Host Timezone Group Managed Service Accounts (gMSA) Requires Domain Joining DSR Routing Better Kubernetes Experience Multiple Subnets Per Windows Worker Node HostProcess containers Organizations are increasingly relying on cloud-based solutions and hybrid infrastructures to meet their business needs. Windows Server 2022 offers a powerful and versatile platform to support these critical workloads. Trusted Tech Team is your trusted partner for implementing Windows Server 2022 Standard. Our experts can help you optimize your IT infrastructure, ensure a smooth migration, and provide ongoing support.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2022 Standard license 16-Core (Microsoft) | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-standard-license-16c): TrustedTech: Microsoft Windows Server 2022 Standard license 16-core, secure, hybrid-ready OS with virtualization and streamlined management for businesses.
+  Updated: 2025-09-02T09:39:46Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-tilted-blue-windows-logo.png?v=1756192043
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-box-blue-windows-logo.png?v=1756805360
   Price: $526.99 USD
 - [Microsoft Windows Server 2022 Standard - 2 Core](https://trustedtechteam.digital/products/microsoft-windows-server-2022-standard-2-core-1): *Microsoft requires a minimum of a 16-core license. Windows Server Anywhere Windows Server 2022 supports you wherever you are. Download the datasheet Microsoft Windows Server 2022 Edition Features Feature Standard Datacenter Core Windows Server functionality Hybrid integration OSEs*/Hyper-V isolated containers 2 Unlimited Windows Server containers Unlimited Unlimited Storage Replica Limited to single Storage Replica volume up to 2TB Software-defined networking Software-defined storage Windows Server 2022 Top Features Read more on the Trusted Tech Team Blog. Read More Windows Server on-premises Update to the latest operating system for enhanced security, performance and value. Windows Server on Azure Modernize your workloads on Azure, the trusted cloud for Windows Server. Microsoft Windows Server 2022 Windows Server 2022 introduces advanced multi-layer security, hybrid capabilities with Azure and flexible application platform. Advanced multilayer security Elevate the security posture of your organization starting with the operating system. Hybrid capabilities with Azure Extend your datacenter to Azure for greater IT efficiency Flexible application platform Empower developers and IT pros with an application platform to build and deploy diverse applications. Unbeatable offers on Azure See how your cost savings will add up on Azure with offers such as Azure Hybrid Benefit and Extended Security Updates. Microsoft Windows Server 2022 vs 2019 Feature Windows Server 2022 Windows Server 2019 New Windows Admin Center Automatic Windows Admin Center Updates Automated Extension Lifecycle Management Event Workspace to track data Detachable Events Overview Screen Built in Configurable Configurable Destination Virtual Switch Customizable Columns for VM Information Upgraded Hyper V Manager Action Bar Live Storage Migration Affinity and Anti-Affinity Rules VM Clones Running Workloads Between Server New Partitioning Tool Enhanced Security Hypervisor based code integrity Secured-core server Hardware-enforced Stack Protection TLS 1.3 Enabled by default 1.2 Supported Hybrid Cloud Capabilities Azure Arc 1.3 Enabled by default Supported Storage Migration Service Simplified Deployment & Management Supported Improved Platform Flexibility Uncompressed Image Size 3.7 GB approx 2.7 GB approx Virtualized Time Zone Configurable Within Container Mirrors Host Timezone Group Managed Service Accounts (gMSA) Requires Domain Joining DSR Routing Better Kubernetes Experience Multiple Subnets Per Windows Worker Node HostProcess containers Organizations are digitally transforming their operations and running business-critical workloads that span across cloud, on-premises, and the edge. As a result, the need to secure workloads and data has never been greater. Windows Server 2022 enables you to run business-critical workloads anywhere — in your datacenter, in the cloud, and at the edge — while staying ahead of emerging security threats and helping secure your data. This release builds on the advancements made in Windows Server 2019, the fastest adopted Windows Server ever. Windows Server delivers advanced multi-layer security, hybrid capabilities with Azure, and a flexible platform to modernize applications with containers.
   Updated: 2025-08-27T08:19:06Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-blue-windows-logo.png?v=1756192025
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-angled-blue-windows-logo.png?v=1756805370
   Price: $79.99 USD
-- [Microsoft Windows Server 2022 Datacenter - 16 Core](https://trustedtechteam.digital/products/microsoft-windows-server-2022-datacenter-16-core): Windows Server Anywhere Windows Server 2022 supports you wherever you are. Download the datasheet Microsoft Windows Server 2022 Edition Features Feature Standard Datacenter Core Windows Server functionality Hybrid integration OSEs*/Hyper-V isolated containers 2 Unlimited Windows Server containers Unlimited Unlimited Storage Replica Limited to single Storage Replica volume up to 2TB Software-defined networking Software-defined storage Windows Server 2022 Top Features Read more on the Trusted Tech Team Blog. Read More Windows Server on-premises Update to the latest operating system for enhanced security, performance and value. Windows Server on Azure Modernize your workloads on Azure, the trusted cloud for Windows Server. Microsoft Windows Server 2022 Windows Server 2022 introduces advanced multi-layer security, hybrid capabilities with Azure and flexible application platform. Advanced multilayer security Elevate the security posture of your organization starting with the operating system. Hybrid capabilities with Azure Extend your datacenter to Azure for greater IT efficiency Flexible application platform Empower developers and IT pros with an application platform to build and deploy diverse applications. Unbeatable offers on Azure See how your cost savings will add up on Azure with offers such as Azure Hybrid Benefit and Extended Security Updates. Microsoft Windows Server 2022 vs 2019 Feature Windows Server 2022 Windows Server 2019 New Windows Admin Center Automatic Windows Admin Center Updates Automated Extension Lifecycle Management Event Workspace to track data Detachable Events Overview Screen Built in Configurable Configurable Destination Virtual Switch Customizable Columns for VM Information Upgraded Hyper V Manager Action Bar Live Storage Migration Affinity and Anti-Affinity Rules VM Clones Running Workloads Between Server New Partitioning Tool Enhanced Security Hypervisor based code integrity Secured-core server Hardware-enforced Stack Protection TLS 1.3 Enabled by default 1.2 Supported Hybrid Cloud Capabilities Azure Arc 1.3 Enabled by default Supported Storage Migration Service Simplified Deployment & Management Supported Improved Platform Flexibility Uncompressed Image Size 3.7 GB approx 2.7 GB approx Virtualized Time Zone Configurable Within Container Mirrors Host Timezone Group Managed Service Accounts (gMSA) Requires Domain Joining DSR Routing Better Kubernetes Experience Multiple Subnets Per Windows Worker Node HostProcess containers Organizations are digitally transforming their operations and running business-critical workloads that span across cloud, on-premises, and the edge. As a result, the need to secure workloads and data has never been greater. Windows Server 2022, particularly the Windows Server Datacenter Edition, enables you to run business-critical workloads anywhere — in your datacenter, in the cloud, and at the edge — while staying ahead of emerging security threats and helping secure your data. This release builds on the advancements made in Windows Server 2019, the fastest adopted Windows Server ever. For those looking to integrate this robust solution, the Windows Server 2022 Datacenter download is available, providing direct access to its comprehensive capabilities. Windows Server delivers advanced multi-layer security, hybrid capabilities with Azure, and a flexible platform to modernize applications with containers.
-  Updated: 2025-08-27T08:19:06Z
+- [Windows Server 2022 Datacenter license 16-Core Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-datacenter-license-16core): TrustedTech: Microsoft Windows Server 2022 Datacenter 16-Core — secure virtualization and hybrid cloud management. Windows Server 2022 Datacenter license.
+  Updated: 2025-09-02T09:33:07Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-blue-box-front-windows-logo.jpg?v=1756192023
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-blue-retail-box-windows-logo-3d.jpg?v=1756805547
   Price: $2,639.99 USD
 - [Microsoft Windows Server 2022 Datacenter - 2 Core](https://trustedtechteam.digital/products/microsoft-windows-server-2022-datacenter-2-core-open-license): Windows Server Anywhere Windows Server 2022 supports you wherever you are. Download the datasheet Microsoft Windows Server 2022 Edition Features Feature Standard Datacenter Core Windows Server functionality Hybrid integration OSEs*/Hyper-V isolated containers 2 Unlimited Windows Server containers Unlimited Unlimited Storage Replica Limited to single Storage Replica volume up to 2TB Software-defined networking Software-defined storage Windows Server 2022 Top Features Read more on the Trusted Tech Team Blog. Read More Windows Server on-premises Update to the latest operating system for enhanced security, performance and value. Windows Server on Azure Modernize your workloads on Azure, the trusted cloud for Windows Server. Microsoft Windows Server 2022 Windows Server 2022 introduces advanced multi-layer security, hybrid capabilities with Azure and flexible application platform. Advanced multilayer security Elevate the security posture of your organization starting with the operating system. Hybrid capabilities with Azure Extend your datacenter to Azure for greater IT efficiency Flexible application platform Empower developers and IT pros with an application platform to build and deploy diverse applications. Unbeatable offers on Azure See how your cost savings will add up on Azure with offers such as Azure Hybrid Benefit and Extended Security Updates. Microsoft Windows Server 2022 vs 2019 Feature Windows Server 2022 Windows Server 2019 New Windows Admin Center Automatic Windows Admin Center Updates Automated Extension Lifecycle Management Event Workspace to track data Detachable Events Overview Screen Built in Configurable Configurable Destination Virtual Switch Customizable Columns for VM Information Upgraded Hyper V Manager Action Bar Live Storage Migration Affinity and Anti-Affinity Rules VM Clones Running Workloads Between Server New Partitioning Tool Enhanced Security Hypervisor based code integrity Secured-core server Hardware-enforced Stack Protection TLS 1.3 Enabled by default 1.2 Supported Hybrid Cloud Capabilities Azure Arc 1.3 Enabled by default Supported Storage Migration Service Simplified Deployment & Management Supported Improved Platform Flexibility Uncompressed Image Size 3.7 GB approx 2.7 GB approx Virtualized Time Zone Configurable Within Container Mirrors Host Timezone Group Managed Service Accounts (gMSA) Requires Domain Joining DSR Routing Better Kubernetes Experience Multiple Subnets Per Windows Worker Node HostProcess containers Organizations are digitally transforming their operations and running business-critical workloads that span across cloud, on-premises, and the edge. As a result, the need to secure workloads and data has never been greater. Windows Server 2022 enables you to run business-critical workloads anywhere — in your datacenter, in the cloud, and at the edge — while staying ahead of emerging security threats and helping secure your data. This release builds on the advancements made in Windows Server 2019, the fastest adopted Windows Server ever. Windows Server delivers advanced multi-layer security, hybrid capabilities with Azure, and a flexible platform to modernize applications with containers.
   Updated: 2025-08-27T08:19:05Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-blue-retail-box-angled-front.jpg?v=1756192026
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-blue-retail-box-windows-logo-angled.jpg?v=1756805097
   Price: $379.99 USD
-- [Windows Server 2019 Standard 16 core license - Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-standard-16-core-license): Buy Windows Server 2019 Standard 16 core license at TrustedTech. Microsoft-certified OS for secure virtualization, scalable performance and easy management.
-  Updated: 2025-08-27T08:19:05Z
+- [Windows Server 2019 Standard 16 core license OEM - 1PC | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-standard-16-core-license): TrustedTech sells Windows Server 2019 Standard 16 core license - Microsoft OEM: secure, scalable core-based licensing with virtualization and easier management.
+  Updated: 2025-09-02T09:24:58Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-standard-16-core-license-boxed-white-product-mockup-angled.jpg?v=1756192026
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-standard-16-core-license-box-angled-blue-windows-logo.jpg?v=1756805097
   Price: $418.99 USD
-- [Windows Server 2019 Standard 2 Core - Microsoft License | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-standard-2-core): TrustedTech sells Windows Server 2019 Standard 2 Core by Microsoft — secure, virtualization-ready server OS with easy management and enterprise reliability.
-  Updated: 2025-08-27T08:19:05Z
+- [Windows Server 2019 Standard 2 Core License - Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-standard-2-core): Buy Windows Server 2019 Standard 2 Core at TrustedTech, Microsoft license featuring security, virtualization, easy management and fast digital delivery.
+  Updated: 2025-09-02T09:25:14Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Standard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/WS2019_Standard_Mockup_8b9d1b09-5968-4659-8b26-26cb73a4334d.jpg?v=1756190712
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-standard-2-core-white-box-blue-windows-logo-angled-shadow.jpg?v=1756805113
   Price: $62.49 USD
-- [Windows Server 2019 Datacenter license 16-Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-datacenter-license): TrustedTech: Microsoft Windows Server 2019 Datacenter license 16-core - enterprise-grade virtualization, advanced security and hybrid cloud management.
-  Updated: 2025-08-27T08:19:05Z
+- [Windows Server 2019 Datacenter license - Scalable | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-datacenter-license): TrustedTech offers Windows Server 2019 Datacenter license: scalable enterprise virtualization and security with flexible licensing for modern datacenters.
+  Updated: 2025-09-02T09:24:58Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-datacenter-license-retail-box-front-spine-blue-logo.jpg?v=1756192011
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-datacenter-license-boxed-angled-white-box-blue-windows-logo.jpg?v=1756805097
   Price: $2,699.99 USD
-- [Microsoft Windows Server 2019 Datacenter - 2 Core](https://trustedtechteam.digital/products/microsoft-windows-server-2019-datacenter-2-core-open-license): Microsoft Windows Server 2019 Datacenter - 2 Core *Microsoft requires a minimum of 16-cores per server and at least 8-cores per processor. Windows Server Datacenter is the most powerful and feature-rich edition in the Windows Server line. As the latest version of this high-performing server operating system, Microsoft Windows Server 2019 Datacenter offers a host of cutting-edge features and innovative infrastructure to help users do more with their data. With this open license, 2-core version of Microsoft Windows Server 2019 Datacenter, users can utilize as many VMs as needed to meet their virtualization needs. Learn more about the latest features in Microsoft Windows Server 2019 Datacenter below, and order this open license, 2 core version Microsoft Windows Server 2019 Datacenter with free installation support from our Microsoft Cloud Solutions Partners here at Trusted Tech Team. Windows Server 2019 is the operating system that bridges on-premises environments with Azure, adding additional layers of security while helping you modernize your applications and infrastructure. Elevate security, enable creation of cloud-native apps,evolve your datacenter and more with the latest version of Windows Server. *Note that this product requires Client Access Licenses, which are not included in this purchase. To learn more about CALS, check out our CAL guide here. Datacenter includes great features like: VM Shielding Tools for Fabric Management WebDAV Redirector Windows Biometric Framework Windows Defender features Windows Identity Foundation 3.5 Windows Internal Database Windows PowerShell Windows Process Activation Service Windows Search Service Windows Server Backup Windows Server Migration Tools Windows Standards-Based Storage Management For a full comparison of features, take a look at Microsoft's Datacenter 2019 page.
-  Updated: 2025-08-27T08:19:04Z
+- [Windows Server 2019 Datacenter license 2-Core Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-datacenter-license1): TrustedTech sells Windows Server 2019 Datacenter license — 2-core edition with advanced security, unlimited virtualization and scalable enterprise features.
+  Updated: 2025-09-02T09:36:03Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Datacenter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-datacenter-license-white-box-blue-windows-logo-angled.jpg?v=1756192018
+  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-datacenter-license-white-box-blue-windows-logo.jpg?v=1756805733
   Price: $338.99 USD
-- [Microsoft Windows Server 2022 Standard - 16 Core + 5 CALs](https://trustedtechteam.digital/products/microsoft-windows-server-2022-standard-16-core-5-cals): Windows Server Anywhere Windows Server 2022 supports you wherever you are. Download the datasheet Microsoft Windows Server 2022 Edition Features Feature Standard Datacenter Core Windows Server functionality Hybrid integration OSEs*/Hyper-V isolated containers 2 Unlimited Windows Server containers Unlimited Unlimited Storage Replica Limited to single Storage Replica volume up to 2TB Software-defined networking Software-defined storage Windows Server 2022 Top Features Read more on the Trusted Tech Team Blog. Read More Windows Server on-premises Update to the latest operating system for enhanced security, performance and value. Windows Server on Azure Modernize your workloads on Azure, the trusted cloud for Windows Server. Microsoft Windows Server 2022 Windows Server 2022 introduces advanced multi-layer security, hybrid capabilities with Azure and flexible application platform. Advanced multilayer security Elevate the security posture of your organization starting with the operating system. Hybrid capabilities with Azure Extend your datacenter to Azure for greater IT efficiency Flexible application platform Empower developers and IT pros with an application platform to build and deploy diverse applications. Unbeatable offers on Azure See how your cost savings will add up on Azure with offers such as Azure Hybrid Benefit and Extended Security Updates. Microsoft Windows Server 2022 vs 2019 Feature Windows Server 2022 Windows Server 2019 New Windows Admin Center Automatic Windows Admin Center Updates Automated Extension Lifecycle Management Event Workspace to track data Detachable Events Overview Screen Built in Configurable Configurable Destination Virtual Switch Customizable Columns for VM Information Upgraded Hyper V Manager Action Bar Live Storage Migration Affinity and Anti-Affinity Rules VM Clones Running Workloads Between Server New Partitioning Tool Enhanced Security Hypervisor based code integrity Secured-core server Hardware-enforced Stack Protection TLS 1.3 Enabled by default 1.2 Supported Hybrid Cloud Capabilities Azure Arc 1.3 Enabled by default Supported Storage Migration Service Simplified Deployment & Management Supported Improved Platform Flexibility Uncompressed Image Size 3.7 GB approx 2.7 GB approx Virtualized Time Zone Configurable Within Container Mirrors Host Timezone Group Managed Service Accounts (gMSA) Requires Domain Joining DSR Routing Better Kubernetes Experience Multiple Subnets Per Windows Worker Node HostProcess containers Organizations are digitally transforming their operations and running business-critical workloads that span across cloud, on-premises, and the edge. As a result, the need to secure workloads and data has never been greater. Windows Server 2022 enables you to run business-critical workloads anywhere — in your datacenter, in the cloud, and at the edge — while staying ahead of emerging security threats and helping secure your data. This release builds on the advancements made in Windows Server 2019, the fastest adopted Windows Server ever. Windows Server delivers advanced multi-layer security, hybrid capabilities with Azure, and a flexible platform to modernize applications with containers.
-  Updated: 2025-08-27T08:19:04Z
+- [Windows Server 2022 Standard license 16-Core +5 CALs | TrustedTech](https://trustedtechteam.digital/products/ms-windows-server-2022-standard-license): TrustedTech sells Microsoft Windows Server 2022 Standard license - 16-core + 5 CALs for secure virtualization, simplified management, and scalable performance.
+  Updated: 2025-09-02T09:34:37Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Standard
   Availability: Available
@@ -1095,13 +1095,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-remote-desktop-cal-blue-cover-microsoft-logo-white-text.png?v=1756192542
   Price: $150.00 USD
-- [Windows Server 2016 Datacenter 24 core license OEI DVD | TrustedTech](https://trustedtechteam.digital/products/windows-server-2016-datacenter-24-core-license): TrustedTech sells Microsoft Windows Server 2016 Datacenter 24 core license OEI DVD — virtualization, enhanced security and scalable enterprise infrastructure.
-  Updated: 2025-08-27T08:08:35Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Datacenter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-datacenter-24-core-license-box-packaging-cloud-server-illustration.jpg?v=1756192514
-  Price: $250.00 USD
 - [Windows Server 2016 Datacenter - 24 Core Instant License](https://trustedtechteam.digital/products/windows-server-2016-datacenter-oei-24-core-instant-license): Windows Server 2016 Datacenter - 24 Core Instant License Need help determining your licensing scenario? Take a look at the guide below: Windows Server Licensing Guide Do more with Windows Server 2016 Datacenter from Trusted Tech Team. The Datacenter Edition of the software is built for private and hybrid cloud environments, allowing your datacenter to be automated for better efficiency. Change your existing applications into cloud-ready solutions and use the software to develop your own applications using containers, microservices and Nano Server features. You’ll also have access to user-friendly features like server virtualization, extra storage, software-defined networking, web application platforms, server management tools and more. The software comes with a 24-core instant license, so you can get started using it right away. Windows Server 2016 Datacenter Edition is the newest version of the highly virtualized software built for private and hybrid cloud environments. Your datacenter can be run with an automated and resilient operating system and will have access to many of the same cloud-efficient features found in Microsoft Azure datacenters. Users can change existing applications into cloud-ready solutions and help developers to create new ones using containers, microservices, and Nano Server. With Windows Server 2016 Datacenter, users gain access to features such as server virtualization, storage, software-defined networking, web application platforms, server management and automation, information protection, virtual desktops, and much more. FEATURES Some of the new features added to Windows Server 2016 Datacenter include: Added layers of security - Enhance security and reduce risk with multiple layers of built-in protection New deployment options - Increase availability and reduce resource usage with the lightweight Nano Server Built-in containers - Develop and manage with agility thanks to Windows Server and Hyper-V containers Cost-efficient storage - Build highly available, scalable software-defined storage and reduce costs Innovative networking - Software-defined networking to automate with cloud-like efficiency For more information on Windows Server 2016 Datacenter, contact us at (855) 202-8140 or support@TrustedTechTeam.com.
   Updated: 2025-08-27T08:08:35Z
   Vendor: Microsoft
@@ -1116,13 +1109,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-datacenter-16-core-box-cloud-icons-data-center-front.jpg?v=1756192514
   Price: $150.00 USD
-- [Windows Server 2016 Standard OEI DVD - 24 Core](https://trustedtechteam.digital/products/windows-server-2016-standard-oei-dvd-24-core): Windows Server 2016 Standard OEI DVD - 24 Core Need help determining your licensing scenario? Take a look below Windows Server Licensing Guide Windows Server 2016 Standard Edition is the newest version of the low virtualized software. Users can change existing applications into cloud-ready solutions and help developers to create new ones using containers and microservices. One of Microsoft's newest features with 2016 is Nano Server, a headless installation option for Windows Server 2016, and has a 93% lower VHD size than Windows Server. Nano Server is also concentrated on "born-in-the-cloud" applications that support C#, Java, Node.js, and Python; it also targets Microsoft Cloud platform infrastructure that supports Hyper-V compute clusters and Scale-Out File Server clusters. This new, innovative software specializes in on providing the highest level of flexibility and control to businesses in need of a centralized solution to managing cloud-ready workloads with more ease. Windows Server 2016 also helps to prevent malicious attacks against your system with a strengthened security suite that also detects any suspicious activity as a preventative measure. With Windows Server 2016 Standard, users gain access to features such as server virtualization, storage, software-defined networking, web application platforms, server management and automation, information protection, virtual desktops, and much more. This version of Windows Server 2016 Standard uses an original equipment installation (OEI) DVD for installation and provides a 24 core license. FEATURES Some of the new features added to Windows Server 2016 Standard include: Added layers of security - Enhance security and reduce risk with multiple layers of built-in protection New deployment options - Increase availability and reduce resource usage with the lightweight Nano Server Built-in containers - Develop and manage with agility thanks to Windows Server and Hyper-V containers Cost-efficient storage - Build highly available, scalable software-defined storage and reduce costs Innovative networking - Software-defined networking to automate with cloud-like efficiency For more information on Windows Server 2016 Standard, contact us at (855) 202-8140 or support@TrustedTechTeam.com.
-  Updated: 2025-08-27T08:08:35Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-standard-24-core-license-blue-box-cover-windows-logo-gold-partner.jpg?v=1756192700
-  Price: $150.00 USD
 - [Windows Server 2016 Standard - 24 Core Instant License](https://trustedtechteam.digital/products/windows-server-2016-standard-24-core-instant-license): Windows Server 2016 Standard - 24 Core Instant License Need help determining your licensing scenario? Take a look at the guide below: Windows Server Licensing Guide Windows Server 2016 Standard Edition is the newest version of the low virtualized software. Users can change existing applications into cloud-ready solutions and help developers to create new ones using containers and microservices. One of Microsoft's newest features with 2016 is Nano Server, a headless installation option for Windows Server 2016, and has a 93% lower VHD size than Windows Server. Nano Server is also concentrated on "born-in-the-cloud" applications that support C#, Java, Node.js, and Python; it also targets Microsoft Cloud platform infrastructure that supports Hyper-V compute clusters and Scale-Out File Server clusters. Windows Server 2016 Standard (SKU: P73-07132) is a powerful and scalable operating system featuring improved security features and a host of other tools, including Nano Server a revolutionary headless installation option for Windows Server concentrated on "born-in-the-cloud" applications that support C#, Java, Node.js, and Python. Take your application development and project integration to new heights with Windows Server 2016 Standard. Get your Server license with free installation support here at Trusted Tech Team. With Windows Server 2016 Standard, users gain access to features such as server virtualization, storage, software-defined networking, web application platforms, server management and automation, information protection, virtual desktops, and much more. FEATURES Some of the new features added to Windows Server 2016 Standard include: Added layers of security - Enhance security and reduce risk with multiple layers of built-in protection New deployment options - Increase availability and reduce resource usage with the lightweight Nano Server Built-in containers - Develop and manage with agility thanks to Windows Server and Hyper-V containers Cost-efficient storage - Build highly available, scalable software-defined storage and reduce costs Innovative networking - Software-defined networking to automate with cloud-like efficiency For more information on Windows Server 2016 Standard, contact us at (855) 202-8140 or support@TrustedTechTeam.com.
   Updated: 2025-08-27T08:08:35Z
   Vendor: Microsoft
@@ -1130,13 +1116,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/ws-2016-std-2_f0ea0003-1705-4f03-86ad-8d1df481da01.jpg?v=1756190824
   Price: $849.99 USD
-- [Windows Server 2016 Standard OEI DVD - 16 Core](https://trustedtechteam.digital/products/windows-server-2016-standard-oei-dvd-16-core): Windows Server 2016 Standard OEI DVD - 16 Core Need help determining your licensing scenario? Take a look below Windows Server Licensing Guide Windows Server 2016 Standard Edition is the newest base version of the low virtualized software built for high traffic container environments. This innovative software focuses on providing a high level of flexibility of use and control to businesses in need of a solution to manage cloud-ready workloads with more ease. Windows Server 2016 also helps to prevent malicious attacks against your system with a strengthened security suite that also detects any suspicious activity as a preventative measure. Users can change existing applications into cloud-ready solutions and help developers to create new apps using containers, microservices, and the new Nano Server. Your data center can be run with an automated and resilient operating system and will have access to many of the same cloud-efficient features found in Microsoft Azure data centers. With Windows Server 2016 Standard, users gain access to features such as server virtualization, storage, software-defined networking, web application platforms, server management and automation, information protection, virtual desktops, and much more. One of Microsoft's newest features with 2016 is Nano Server, a headless installation option for Windows Server 2016, and has a 93% lower VHD size than Windows Server. This version of Windows Server 2016 Standard uses an original equipment installation (OEI) DVD for installation and provides a 16 core license. Windows Server 2016 Standard is the base version of the powerful server operating system and virtualized software platform Windows Server from Microsoft. Windows Server 2016 Standard includes features such as added layers of security and software-defined networking to help teams manage cloud-ready workloads with more ease. For improved virtualization, Windows Server 2016 Standard has cutting edge tools, including built-in Hyper-V containers and new deployment options via Nano Sever. Bring the power of a 16-core version Windows Server 2016 Standard to your system with this Windows Server 2016 OEI DVD, available to order now with free installation support from our Microsoft Cloud Solutions Partners at Trusted Tech Team. FEATURES Some of the new features added to Windows Server 2016 Standard include: Added layers of security - Enhance security and reduce risk with multiple layers of built-in protection New deployment options - Increase availability and reduce resource usage with the lightweight Nano Server Built-in containers - Develop and manage with agility thanks to Windows Server and Hyper-V containers Cost-efficient storage - Build highly available, scalable software-defined storage and reduce costs Innovative networking - Software-defined networking to automate with cloud-like efficiency For more information on Windows Server 2016 Standard, contact us at (855) 202-8140 or support@TrustedTechTeam.com.
-  Updated: 2025-08-27T08:08:35Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-standard-16-core-license-blue-cover-microsoft-logo-gold-partner-badge.jpg?v=1756192695
-  Price: $649.99 USD
 - [Windows Server 2016 Datacenter 2 core license | TrustedTech](https://trustedtechteam.digital/products/windows-server-2016-datacenter-2-core-license): Windows Server 2016 Datacenter 2 core license from TrustedTech: Microsoft Datacenter Core edition with scalable virtualization, enterprise security, and containers.
   Updated: 2025-08-27T08:08:34Z
   Vendor: Microsoft
@@ -1165,20 +1144,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/server2016ess.jpg?v=1756190828
   Price: $298.99 USD
-- [Windows Server 2016 5 User CAL - Microsoft CAL Pack | TrustedTech](https://trustedtechteam.digital/products/windows-server-2016-5-user-cal): TrustedTech: Windows Server 2016 5 User CAL - official Microsoft licenses for secure, compliant multi-user access, simplified licensing & centralized management.
-  Updated: 2025-08-27T08:08:33Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Client Access Licenses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-5-user-cal-blue-box-gold-microsoft-partner-badge.jpg?v=1756192691
-  Price: $189.99 USD
-- [Windows Server 2016 5 Device CAL – Official Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2016-5-device-cal): TrustedTech: Windows Server 2016 5 Device CAL: official Microsoft license for 5 devices, secure access, compliance and easy management with simple deployment.
-  Updated: 2025-08-27T08:08:33Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Client Access Licenses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-5-device-cal-blue-product-box-windows-logo-gold-partner-badge.jpg?v=1756192724
-  Price: $149.99 USD
 - [Windows Server 2016 RDS CAL 1-User Remote Desktop Access | TrustedTech](https://trustedtechteam.digital/products/windows-server-2016-rds-cal-1-user): TrustedTech offers Microsoft Windows Server 2016 RDS CAL - 1 User Remote Desktop license for secure, scalable remote access and simplified user management.
   Updated: 2025-08-27T08:08:33Z
   Vendor: Microsoft
@@ -1207,41 +1172,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/ws-2016-1dcal_ad48c893-65e9-4087-afa7-26285daa3b4e.jpg?v=1756190836
   Price: $39.99 USD
-- [Microsoft Windows Server 2016 Single User CAL](https://trustedtechteam.digital/products/microsoft-windows-server-2016-single-user-cal-open-license): Microsoft Windows Server 2016 Single User CAL Need help determining your licensing scenario? Take a look below Windows Server CAL Licensing Guide Microsoft Windows Server 2016 is designed for physical or minimally virtualized environments. Windows Server 2016 is a cloud-compatible operating system that supports all current workloads while introducing new technologies that make transitioning to cloud computing much easier. The system brings great new layers of security to the table and possesses Azure-inspired innovation for the applications and infrastructure that can transform the way you do business. This product is an open license for a Microsoft Windows Server 2016 Single User Cal for Microsoft Windows Server 2016 (sold separately) that permits the use of the software for a single user. Microsoft Windows Server 2016 product variations are available at Trusted Tech Team; contact us to find out which version will work best for you. Microsoft Windows Server 2016 is the perfect choice for minimally virtualized environments. Like other Windows Server platforms, Windows Server 2016 relies on CALs to provide access. For organizations that employ a user CAL licensing model, Trusted Tech Team offers single user CALs at low prices. Our user CALs are designed to make it easy to add just one extra user or administrator to your team. Windows Server CALs are priced low and are a great choice of small businesses where multiple CALs are not needed nor economical. PRODUCT INFORMATION The Windows Server 2016 licensing model includes both Cores + Client Access Licenses (CALs). Each user and device accessing a licensed Windows Server Standard, Datacenter or Multipoint edition require a Windows Server CAL, or a Windows Server and a Remote Desktop Services (RDS) CAL. A Windows Server CAL allows access to any edition of Windows Server of the same or earlier version. Each Window Server CAL provides access to multiple licenses of Windows Server. When you are ready to transition workloads to the public cloud, you can leverage your existing investment in Windows Server. The Azure Hybrid Use Benefit lets you bring your on-premises Windows Server license with Software Assurance to Azure. Rather than paying the full price for a new Windows Server virtual machine, you will pay only the base to compute rate. Find more details at www.azure.com. For more information regarding the Microsoft Windows Server 2016 Single User CAL, contact us at (855) 202-8140 or support@TrustedTechTeam.com.
-  Updated: 2025-08-27T08:08:32Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Client Access Licenses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-user-cal-box-cover-1-user-cal-gold-partner-badge.jpg?v=1756192699
-  Price: $39.99 USD
-- [Windows Server 2016 Device CAL - Microsoft Single Device | TrustedTech](https://trustedtechteam.digital/products/windows-server-2016-device-cal): TrustedTech: Windows Server 2016 Device CAL single-device license for secure server access, compliance, and centralized management with easy deployment.
-  Updated: 2025-08-27T08:08:32Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2016 > Client Access Licenses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2016-device-cal-blue-packaging-1-device-cal-gold-microsoft-partner-badge.jpg?v=1756192688
-  Price: $39.99 USD
-- [Windows Server 2012 Datacenter ESU 2-Core Y1 Oct 2023 | TrustedTech](https://trustedtechteam.digital/products/windows-server-2012-datacenter-esu): TrustedTech offers Windows Server 2012 Datacenter ESU (2-core) Year 1 Oct 2023-2024 by Microsoft — extended security updates and compliance for legacy servers.
-  Updated: 2025-08-27T08:08:31Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Datacenter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2012-datacenter-esu-blue-retail-box-angled-front-white-windows-logo.jpg?v=1756192770
-  Price: $759.99 USD
-- [Windows Server 2012 Standard ESU license 2-Core Year 1 | TrustedTech](https://trustedtechteam.digital/products/windows-server-2012-standard-esu-license): TrustedTech offers Microsoft Windows Server 2012 Standard ESU license - Year 1 (Oct 2023-24), 2-core coverage with extended security updates for legacy servers.
-  Updated: 2025-08-27T08:08:31Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2012-standard-esu-license-blue-retail-box-front-angle.jpg?v=1756192768
-  Price: $124.99 USD
-- [Windows Server 2012 Standard - 8 Core - ESU - Year 1 (October 2023-2024)](https://trustedtechteam.digital/products/windows-server-2012-standard-8-core-esu-year-1-october-2023-2024): What are Extended Security Updates (ESU)? Extended Security Updates (ESU) are a Microsoft service that provides critical security patches and fixes for their products beyond the end of the standard support period. ESU ensures that businesses can maintain security and compliance for legacy software systems while they transition to newer technologies. This program is especially crucial for systems that handle sensitive data, where continuous protection against vulnerabilities and threats is necessary even after the general support lifecycle has ended. ESU allows organizations to protect their investments, maintain operational continuity, and reduce risks as they plan and implement their upgrade strategies. Note: This product does NOT include a Windows Server license.
-  Updated: 2025-08-27T08:08:31Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2012-standard-esu-license-blue-box-front-angled-microsoft-logo.jpg?v=1756192776
-  Price: $499.96 USD
 - [Microsoft Windows Server Device CAL 1 Device w/ SA | TrustedTech](https://trustedtechteam.digital/products/microsoft-windows-server-device-cal): TrustedTech offers Microsoft Windows Server Device CAL 1 Device with Software Assurance - secure updates, support and compliance for a single workstation
   Updated: 2025-08-27T08:08:31Z
   Vendor: Microsoft
@@ -1249,41 +1179,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-windows-server-device-cal-black-front-box-1-device-cal-gold-partner-badge.jpg?v=1756192777
   Price: $57.99 USD
-- [Windows Server 2012 Standard - 2 Core - ESU - Year 2 (October 2024-2025)](https://trustedtechteam.digital/products/windows-server-2012-standard-2-core-esu-year-2-october-2024-2025): What are Extended Security Updates (ESU)? Extended Security Updates (ESU) are a Microsoft service that provides critical security patches and fixes for their products beyond the end of the standard support period. ESU ensures that businesses can maintain security and compliance for legacy software systems while they transition to newer technologies. This program is especially crucial for systems that handle sensitive data, where continuous protection against vulnerabilities and threats is necessary even after the general support lifecycle has ended. ESU allows organizations to protect their investments, maintain operational continuity, and reduce risks as they plan and implement their upgrade strategies. Note: This product does NOT include a Windows Server license.
-  Updated: 2025-08-27T08:08:30Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2012-standard-esu-year-2-blue-retail-box-front-microsoft-logo.jpg?v=1756192774
-  Price: $134.00 USD
-- [Windows Server 2012 Standard ESU Year 2 8-Core License | TrustedTech](https://trustedtechteam.digital/products/windows-server-2012-standard-esu-year-2): TrustedTech offers Windows Server 2012 Standard ESU Year 2 (8-core) from Microsoft — extended security updates Oct 2024–2025 for legacy server protection.
-  Updated: 2025-08-27T08:08:30Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2012-standard-esu-year-2-blue-box-front-perspective-microsoft-logo.jpg?v=1756192770
-  Price: $534.00 USD
-- [Windows Server 2012 Datacenter ESU Year 2 license 2-Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2012-datacenter-esu-year-2-license): Get Windows Server 2012 Datacenter ESU Year 2 license from TrustedTech - 2-core coverage (Oct 2024-2025) with official Microsoft extended security updates.
-  Updated: 2025-08-27T08:08:30Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Datacenter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/WS2012_Datacenter_ESU_Mockup_1873641c-1cb9-451d-9861-1713f4c909db.jpg?v=1756190846
-  Price: $769.00 USD
-- [Windows Server 2012 Datacenter - 8 Core - ESU - Year 2 (October 2024-2025)](https://trustedtechteam.digital/products/windows-server-2012-datacenter-8-core-esu-year-2-october-2024-2025): What are Extended Security Updates (ESU)? Extended Security Updates (ESU) are a Microsoft service that provides critical security patches and fixes for their products beyond the end of the standard support period. ESU ensures that businesses can maintain security and compliance for legacy software systems while they transition to newer technologies. This program is especially crucial for systems that handle sensitive data, where continuous protection against vulnerabilities and threats is necessary even after the general support lifecycle has ended. ESU allows organizations to protect their investments, maintain operational continuity, and reduce risks as they plan and implement their upgrade strategies. Note: This product does NOT include a Windows Server license.
-  Updated: 2025-08-27T08:08:30Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2012 > Datacenter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2012-datacenter-esu-blue-retail-box-windows-logo-angled.jpg?v=1756192777
-  Price: $3,078.00 USD
-- [Microsoft Windows Server 2025 Datacenter 24 core license | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-24-core-license): TrustedTech sells Windows Server 2025 Datacenter 24 core license - Datacenter with robust security, scalable virtualization and enterprise performance.
-  Updated: 2025-08-27T08:03:30Z
-  Vendor: Microsoft
-  Product Type: Microsoft > Windows Server > 2025 > Datacenter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-24-core-license-box-angled-blue-retail-packaging.jpg?v=1756192783
-  Price: $500.00 USD
 - [Microsoft Windows Server 2025 Standard - 24 Core License](https://trustedtechteam.digital/products/microsoft-windows-server-2025-standard-24-core-license): Windows Server 2025 Standard Microsoft Windows Server 2025 prepares you for tomorrow while delivering the security, performance, and flexibility you need today. Be more productive with easier networking, faster storage, and hybrid cloud capabilities that adapt to your needs. Get ahead of what’s next with forward-looking security, and AI-ready compute. Key Features: Hybrid: Adapt quickly across hybrid, cloud and on-premise. Easier to connect to Azure Arc to bridge on-premises and cloud-based servers. Deliver Azure capabilities to your on-premises servers. Security: Hardware and software-level security to deter cyberattacks; next-generation Active Directory that improves security and scalability. Enable a tailored security baseline and configure drift protection from the start. Modern, future-ready platform: Windows Server 2025 is now easier to upgrade and scale, with better-than-ever app compatibility. Windows Server 2025 desktop brings a consistent client and server UI experience, plus conveniences like WiFi and Bluetooth. Performance: Faster and easier networking and storage; live hotpatching for reduced downtime; GPU partitioning for inferencing at the edge. Improvements in flash-based storage make Windows Server an even better platform for SQL Server. For Windows Server 2025 hardware requirements, check out the component requirements.
   Updated: 2025-08-27T08:03:30Z
   Vendor: Microsoft
@@ -1340,27 +1235,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-2019-enterprise-license-red-angled-box-3d.jpg?v=1756192882
   Price: $500.00 USD
-- [SQL Server 2017 Standard - License](https://trustedtechteam.digital/products/microsoft-sql-server-2017-standard-license): Growing SQL Server 2017 Get to know the features of SQL 2017 and prepare for SQL 2008 end of support. Download the infographic How to License SQL Server Standard Option #1 SERVER + CAL: Provides the option to license users and/or devices, with low-cost access to incremental SQL Server deployments. Each server running SQL Server software requires a server license. Each user and/or device accessing a licensed SQL Server requires a SQL Server CAL that is the same version or newer - for example, to access a SQL Server 2012 Standard Edition server, a user would need a SQL Server 2012 or 2017 CAL. Each SQL Server CAL allows access to multiple licensed SQL Servers, including Standard Edition and legacy Business Intelligence and Enterprise Edition Servers. Option #2 PER CORE: Gives a more precise measurement of computing power and a more consistent metric, regardless of whether solutions are deployed on physical servers on-premises, or in virtual/cloud environments. Core based licensing is appropriate when customers are unable to count users/devices, have Internet/Extranet workloads, or have systems that integrate with external facing workloads. To license a physical server—when running SQL Server in a physical OSE—all physical cores on the server must be licensed. A minimum of four core licenses are required for each physical processor on the server. Download the full Microsoft SQL Server 2019 Licensing guide SQL Server Features: Standard vs. Enterprise SQL Server 2017 Features Standard Enterprise Scale Maximum number of cores 24 Cores OS Max Maximum buffer pool size per instance 128 GB OS Max Maximum Columnstore segment cache per instance 32 GB OS Max Maximum memory-optimized data per database 32 GB OS Max Maximum database size 524 PB 524 PB Production use rights Unlimited virtualization (benefit of Software Assurance) Programmability Programmability and developer tools: T-SQL, SQL CLR, Service Broker, JSON, XML, graph data support OLTP Performance Advanced OLTP: in-memory OLTP, operational analytics Management Studio, policy-based management Two-node single database failover, non-readable secondary Always On Availability Groups, multi-database failover, readable secondaries Security Always Encrypted Row-level security, data masking Compliance reporting with SQL Server audit Transparent data encryption Data Integration Fuzzy grouping and look ups Data Warehousing Partitioning, data compression, change data capture, database snapshot In-memory columnstore Adaptive Query Processing PolyBase Master Data Services, Data Quality Services Business Intelligence Maximum memory utilized per instance of Analysis Services Tabular: 16 GB MOLAP: 64 GB OS Max Maximum Memory utilized per instance of Reporting Services 64 GB OS Max Basic reporting and analytics SQL Server Integration Services, built-in connectors Basic multi-dimensional models, basic tabular model, in-memory storage mode Mobile reports and KPIs Advanced multi-dimensional models, advanced tabular model, DirectQuery storage mode, advanced data mining Access to Power BI Report Server (benefit of Software Assurance) Advanced Analytics Connectivity to open source Python and R, limited parallelism Full parallelism of R and Python analytics and the ability to run on GPUs Machine Learning for Hadoop/Spark and Machine Learning for Linux, a software assurance benefit Hybrid Cloud Stretch Database New to SQL Licensing? Check out our SQL Server licensing guide to find out the features that would benefit you and how to license. Take a deeper dive into SQL licensing with a licensing expert from our team in our Video Meetup below. Trusted Tech Team has full licensing experts available to assist you in purchasing the correct licensing model for your needs. This is a digital download product that will be sent directly to your inbox. Whether you are upgrading your 2008, 2012, 2014 or 2016 edition, this SQL Server 2017 download will provide you with all database tools to improve your data and store it securely. Advanced SQL queries have never been easier with a new feature implemented in the most recent version called automatic database tuning - which will work towards improving notifying query performance problems, and will also recommend solutions for you. Contact us at support@trustedtechteam.com or (855)-202-8140 and we will be happy to get you taken care of!
-  Updated: 2025-08-27T08:03:28Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/sql-server-2017-standard_3af915a5-900e-44f5-976c-26bb4c127014.png?v=1756191841
-  Price: $150.00 USD
-- [SQL Server 2017 Standard - License + 10 CALs](https://trustedtechteam.digital/products/microsoft-sql-server-2017-standard-10-cals): Growing SQL Server 2017 Get to know the features of SQL 2017 and prepare for SQL 2008 end of support. Download the infographic How to License SQL Server Standard Option #1 SERVER + CAL: Provides the option to license users and/or devices, with low-cost access to incremental SQL Server deployments. Each server running SQL Server software requires a server license. Each user and/or device accessing a licensed SQL Server requires a SQL Server CAL that is the same version or newer - for example, to access a SQL Server 2012 Standard Edition server, a user would need a SQL Server 2012 or 2017 CAL. Each SQL Server CAL allows access to multiple licensed SQL Servers, including Standard Edition and legacy Business Intelligence and Enterprise Edition Servers. Option #2 PER CORE: Gives a more precise measurement of computing power and a more consistent metric, regardless of whether solutions are deployed on physical servers on-premises, or in virtual/cloud environments. Core based licensing is appropriate when customers are unable to count users/devices, have Internet/Extranet workloads, or have systems that integrate with external facing workloads. To license a physical server—when running SQL Server in a physical OSE—all physical cores on the server must be licensed. A minimum of four core licenses are required for each physical processor on the server. Download the full Microsoft SQL Server 2017 Licensing guide SQL Server Features: Standard vs. Enterprise SQL Server 2017 Features Standard Enterprise Scale Maximum number of cores 24 Cores OS Max Maximum buffer pool size per instance 128 GB OS Max Maximum Columnstore segment cache per instance 32 GB OS Max Maximum memory-optimized data per database 32 GB OS Max Maximum database size 524 PB 524 PB Production use rights Unlimited virtualization (benefit of Software Assurance) Programmability Programmability and developer tools: T-SQL, SQL CLR, Service Broker, JSON, XML, graph data support OLTP Performance Advanced OLTP: in-memory OLTP, operational analytics Management Studio, policy-based management Two-node single database failover, non-readable secondary Always On Availability Groups, multi-database failover, readable secondaries Security Always Encrypted Row-level security, data masking Compliance reporting with SQL Server audit Transparent data encryption Data Integration Fuzzy grouping and look ups Data Warehousing Partitioning, data compression, change data capture, database snapshot In-memory columnstore Adaptive Query Processing PolyBase Master Data Services, Data Quality Services Business Intelligence Maximum memory utilized per instance of Analysis Services Tabular: 16 GB MOLAP: 64 GB OS Max Maximum Memory utilized per instance of Reporting Services 64 GB OS Max Basic reporting and analytics SQL Server Integration Services, built-in connectors Basic multi-dimensional models, basic tabular model, in-memory storage mode Mobile reports and KPIs Advanced multi-dimensional models, advanced tabular model, DirectQuery storage mode, advanced data mining Access to Power BI Report Server (benefit of Software Assurance) Advanced Analytics Connectivity to open source Python and R, limited parallelism Full parallelism of R and Python analytics and the ability to run on GPUs Machine Learning for Hadoop/Spark and Machine Learning for Linux, a software assurance benefit Hybrid Cloud Stretch Database New to SQL Licensing? Check out our SQL Server licensing guide to find out the features that would benefit you and how to license. Take a deeper dive into SQL licensing with a licensing expert from our team in our Video Meetup below. Trusted Tech Team has full licensing experts available to assist you in purchasing the correct licensing model for your needs. This is a digital download product that will be sent directly to your inbox. Whether you are upgrading your 2008, 2012, 2014 or 2016 edition, this SQL Server 2017 download will provide you with all database tools to improve your data and store it securely. Advanced SQL queries have never been easier with a new feature implemented in the most recent version called automatic database tuning - which will work towards improving notifying query performance problems, and will also recommend solutions for you. Contact us at support@trustedtechteam.com or (855)-202-8140 and we will be happy to get you taken care of!
-  Updated: 2025-08-27T08:03:28Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-standard-license-blue-box-gold-partner-badge.jpg?v=1756192872
-  Price: $150.00 USD
-- [SQL Server 2017 Enterprise 2 core license - Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-enterprise-2-core-license): Buy SQL Server 2017 Enterprise 2 core license - TrustedTech: Microsoft-certified enterprise DB with advanced security, analytics & high availability.
-  Updated: 2025-08-27T08:03:27Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > Enterprise
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-enterprise-2-core-license-blue-box-gold-microsoft-partner-badge.jpg?v=1756192881
-  Price: $13,109.99 USD
 - [SQL Server 2016 Standard license - Microsoft DB Platform | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-standard-license): TrustedTech offers SQL Server 2016 Standard license. Microsoft DB delivering scalable performance, built-in security, high availability and easy management.
   Updated: 2025-08-27T08:03:27Z
   Vendor: Microsoft
@@ -1403,76 +1277,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-2019-standard-license-box-angled-front-red-wave.jpg?v=1756192872
   Price: $150.00 USD
-- [SQL Server 2017 User CAL 1-User License - Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-user-cal): TrustedTech: SQL Server 2017 User CAL — 1-user Microsoft license for secure, compliant access to SQL Server features. Affordable per-user licensing and support.
-  Updated: 2025-08-27T08:03:26Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-user-cal-blue-cover-gold-partner-badge.jpg?v=1756192881
-  Price: $199.99 USD
-- [SQL Server 2016 user CAL 1-User Microsoft License | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-user-cal-1): TrustedTech: Microsoft SQL Server 2016 user CAL — single-user license for secure, compliant SQL access; cost-effective licensing ideal for small teams.
-  Updated: 2025-08-27T08:03:25Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/sql-2016-std-ucal_53632f34-97fb-45ec-922a-131ece0cc49a.jpg?v=1756191853
-  Price: $199.99 USD
-- [SQL Server 2017 Standard license with 5 CALs - Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-standard-license-5-cals): TrustedTech offers the SQL Server 2017 Standard license — Microsoft-certified with 5 CALs included for secure, scalable database performance and easy deployment
-  Updated: 2025-08-27T08:03:25Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-standard-license-blue-cover-microsoft-logo-top-left.png?v=1756192874
-  Price: $1,532.99 USD
-- [SQL Server 2017 Standard 2 Core license - Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-standard-2-core-license): TrustedTech offers Microsoft SQL Server 2017 Standard 2 Core license, secure, scalable database with high availability, analytics, and enterprise performance.
-  Updated: 2025-08-27T08:03:25Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-standard-2-core-license-blue-cover-microsoft-logo-spiral.png?v=1756192949
-  Price: $300.00 USD
-- [SQL Server 2017 Device CAL – 1 Device License, Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-device-cal-1): TrustedTech offers SQL Server 2017 Device CAL - Microsoft 1 Device CAL for secure per-machine access, ideal for shared workplaces and regulated enterprises.
-  Updated: 2025-08-27T08:03:25Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-device-cal-blue-cover-gold-microsoft-partner-badge.jpg?v=1756192946
-  Price: $199.99 USD
-- [Microsoft SQL Server 2019 Device CAL 1-Device License | TrustedTech](https://trustedtechteam.digital/products/microsoft-sql-server-2019-device-cal): Buy Microsoft SQL Server 2019 Device CAL at TrustedTech - 1 Device CAL from Microsoft for secure, compliant single-device access to SQL Server databases.
-  Updated: 2025-08-27T08:03:24Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2019 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-2019-device-cal-red-cover-white-text-1-device-cal-gold-microsoft-partner.jpg?v=1756192943
-  Price: $198.99 USD
-- [SQL Server 2017 Standard license | Microsoft DB Platform | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-standard-license): Get the SQL Server 2017 Standard license at TrustedTech. Microsoft's secure, high-performance database with analytics, reporting, and simplified deployment.
-  Updated: 2025-08-27T08:03:24Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-standard-license-blue-box-microsoft-logo-spiral-right.png?v=1756192947
-  Price: $578.99 USD
-- [SQL Server 2016 Standard 2 Core license - Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-standard-2-core-license): TrustedTech offers Microsoft SQL Server 2016 Standard 2 Core license — enterprise-grade database performance, advanced security, and scalable core-based licensing
-  Updated: 2025-08-27T08:03:24Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-standard-2-core-license-white-retail-box-perspective-red-graphic.jpg?v=1756192944
-  Price: $150.00 USD
-- [SQL Server 2016 Device CAL 1-Device License - Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-device-cal): TrustedTech sells SQL Server 2016 Device CAL by Microsoft - device-based licensing for secure, compliant access, simplified management and Gold Partner support.
-  Updated: 2025-08-27T08:03:24Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-device-cal-orange-cover-device-cal-text-gold-partner-badge.jpg?v=1756192941
-  Price: $199.99 USD
-- [SQL Server 2017 10 User CALs - Microsoft 10-User License | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-10-user-cals): TrustedTech sells SQL Server 2017 10 User CALs—secure, compliant user licensing for centralized access, simplified management, and reliable database performance
-  Updated: 2025-08-27T08:03:23Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-10-user-cals-blue-cover-gold-microsoft-partner-badge.jpg?v=1756192955
-  Price: $150.00 USD
 - [Microsoft SQL Server Standard license w/ SA | TrustedTech](https://trustedtechteam.digital/products/microsoft-sql-server-standard-license): TrustedTech: Microsoft SQL Server Standard license w/ Software Assurance - scalable performance, built-in security & priority support for enterprise databases.
   Updated: 2025-08-27T08:03:23Z
   Vendor: Microsoft
@@ -1480,27 +1284,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-standard-license-white-box-front-angle-red-wave.jpg?v=1756192960
   Price: $300.00 USD
-- [Microsoft SQL Server Standard 2 Core license 2019 w/ SA | TrustedTech](https://trustedtechteam.digital/products/microsoft-sql-server-standard-2-core-license): TrustedTech sells Microsoft SQL Server Standard 2 Core license with Software Assurance — reliable SQL Server 2019 Standard performance, updates, and priority support.
-  Updated: 2025-08-27T08:03:23Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2019 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-standard-2-core-license-white-box-front-2019-red-wave.jpg?v=1756192951
-  Price: $350.00 USD
-- [SQL Server 2017 5 User CALs - Microsoft User Licensing | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-5-user-cals): TrustedTech offers Microsoft SQL Server 2017 5 User CALs - five user licenses granting secure, compliant access to SQL Server 2017; ideal for small teams.
-  Updated: 2025-08-27T08:03:23Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-5-user-cals-blue-cover-gold-microsoft-partner-badge.jpg?v=1756192945
-  Price: $200.00 USD
-- [Official Microsoft SQL Server 2016 5 User CAL license | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-5-user-cal-license): Buy SQL Server 2016 5 User CAL license at TrustedTech - Microsoft-certified User CALs for secure, compliant multi-user access and simplified license management.
-  Updated: 2025-08-27T08:03:22Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-5-user-cal-license-orange-background-user-cal-gold-partner-badge.jpg?v=1756192945
-  Price: $200.00 USD
 - [Microsoft SQL Server Enterprise 2 Core license 2019 SA | TrustedTech](https://trustedtechteam.digital/products/microsoft-sql-server-enterprise-2-core-license): Microsoft SQL Server Enterprise 2 Core license from TrustedTech with Software Assurance for secure, scalable, high-performance database operations today.
   Updated: 2025-08-27T08:03:22Z
   Vendor: Microsoft
@@ -1508,48 +1291,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-enterprise-2-core-license-sql-server-2019-retail-box-angled.jpg?v=1756192957
   Price: $350.00 USD
-- [SQL Server 2016 User CALs - 10 User Licenses, Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-user-cals): TrustedTech offers SQL Server 2016 User CALs - 10-user pack licensing for secure per-user access, ideal for small teams, backed by Gold Partner support.
-  Updated: 2025-08-27T08:03:22Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-user-cals-orange-cover-gold-partner-badge.jpg?v=1756192948
-  Price: $200.00 USD
-- [SQL Server 2017 Device CAL 5-Pack Per-Device Licensing | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-device-cal): TrustedTech sells SQL Server 2017 Device CAL 5-pack: licensed for 5 devices, secure access to SQL Server features with easy deployment and central management.
-  Updated: 2025-08-27T08:04:05Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-device-cal-blue-cover-large-sql-server-text-gold-partner-badge.jpg?v=1756192962
-  Price: $300.00 USD
-- [SQL Server 2016 - 5 Device CALs](https://trustedtechteam.digital/products/sql-server-2016-5-device-cals): Microsoft SQL Server 2016 - 10 Device CALs Add a Microsoft SQL Server 2016 CAL to a device that may need to access or use your copy of SQL Server 2016 or any of its functions. Trusted Tech Team offers separate device CALs for Microsoft SQL Server 2016 so you can grow your team on your terms. Individual CALs are inexpensive and easy to use. They are delivered electronically, so you can expand your team without delay. Perfect for small business owners, individual CALs let you add single users or devices at a business-friendly cost. Add Microsoft SQL Server 2016 Device CALs to license devices that may be accessing or using the service of SQL Server 2016 or any of its functions. Every User or Device accessing SQL Server 2016 data, must either directly or indirectly possess a CAL. Like all Microsoft SQL Server software, Microsoft SQL Server 2016 will help you and your organization improve decision making and make business processes more efficient. It can assist you in solving complex business problems while reducing complexity for users, administrators and developers. SQL Server 2016 will make it easier and more cost effective to build high-performance, mission-critical applications, enterprise-ready big data assets and business solutions to help employees make smarter, faster decisions. In addition, Microsoft SQL Server 2016 gives you the flexibility of deployment on the premises, in the cloud or in a hybrid environment along with a host of brand-new capabilities and benefits. To find out how Microsoft SQL Server 2016 with a device client access license can serve you better, call Trusted Tech Team toll free, email us, instant-message us or fill out and submit our online question form. Youll get prompt, personal attention from our team of in-house support and sales experts here in California. Benefits SQL Server 2016 makes it easier and more cost effective to build high-performance, mission-critical applications, enterprise ready Big Data assets, and BI solutions that help employees make better decisions, faster. These solutions have the flexibility of being deployed on-premises, in the cloud or in a hybrid environment, and can be managed through a common and familiar tool set. Mission-critical performance SQL Server 2016 accelerates reliable, mission critical applications with a new in-memory OLTP engine that can deliver on average 10x, and up to 30x transactional performance gains. For Data Warehousing, the new updatable in-memory columnstore can query 100x faster than legacy solutions. SQL Server also delivers peace of mind as the most secure database five years in a row. (National Institute of Standards and Technology Comprehensive Vulnerability Database 4/17/2013, Market share from IDC 2013) Faster insights on any data Get to insights faster with a complete BI platform that speeds up how you access, analyze, clean and shape both internal and external data. With SQL Server 2016 and Power BI for Office 365, it is easy to connect every user in an organization to the right data they need to make better decisions, faster. Platform for hybrid cloud SQL Server 2016 was designed to work in a hybrid environment that spans on-premises and the cloud and has new tools that make it even easier to build back-up and disaster recovery solutions with Microsoft Azure. These tools provide an easy on-ramp to the cloud for on-premises SQL Server databases, enabling customers to use their existing skills to take advantage of Microsofts global datacenters. Capabilities Breakthrough, in-memory performance With SQL Server 2016, new in-memory capabilities for transaction processing and enhancements for data warehousing complement our existing technologies for data warehousing and analytics. Scale and transform your business with, on average, a 10x performance gain for transaction processing while still using existing hardware, and a greater-than 100x performance gain for data warehousing. Proven, predictable performance SQL Server consistently leads in TPC-E, TPC-H and real-world application performance benchmarks. SQL Server is SAP-certified to run some of the most demanding workloads. Get more predictable performance of virtualized SQL Server instances with IO governance in Resource Governor. High availability and disaster recovery Gain greater uptime, faster failover, improved manageability, and better use of hardware resources through AlwaysOn, a unified solution for high availability. In SQL Server 2016, there are additional active secondaries, new online operations and the ability to quickly setup a secondary in Microsoft Azure. Enterprise scalability across compute, networking, and storage With Windows Server, physical processing now scales up to
-  Updated: 2025-08-27T08:04:05Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-device-cal-orange-cover-device-cal-text-microsoft-partner-gold-badge.jpg?v=1756192958
-  Price: $300.00 USD
-- [SQL Server 2016 Device CAL 10-Pack - 10 Device Licenses | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-device-cal-10-pack): Buy SQL Server 2016 Device CAL 10-pack at TrustedTech - Microsoft-certified licensing for 10 devices, secure compliance and cost-effective SQL access.
-  Updated: 2025-08-27T08:03:22Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-device-cal-orange-cover-gold-microsoft-partner-badge.jpg?v=1756193009
-  Price: $200.00 USD
-- [SQL Server 2017 Device CALs 10-Pack (Microsoft) | TrustedTech](https://trustedtechteam.digital/products/sql-server-2017-device-cals-10): TrustedTech offers Microsoft SQL Server 2017 Device CALs - 10-device pack for secure, compliant access and simplified licensing for busy IT teams. Buy now.
-  Updated: 2025-08-27T08:04:05Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2017 > CAL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2017-device-cals-blue-box-gold-microsoft-partner-badge.jpg?v=1756193005
-  Price: $500.00 USD
-- [SQL Server 2016 Enterprise 2 Core license by Microsoft | TrustedTech](https://trustedtechteam.digital/products/sql-server-2016-enterprise-2-core-license): TrustedTech: SQL Server 2016 Enterprise 2 Core license from Microsoft - enterprise performance, advanced security, high scalability and reliability now.
-  Updated: 2025-08-27T08:04:05Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2016 > Enterprise
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2016-enterprise-2-core-license-red-box-microsoft-logo.png?v=1756193024
-  Price: $500.00 USD
 - [Microsoft SQL Server 1 Device CAL - w/ Software Assurance | TrustedTech](https://trustedtechteam.digital/products/microsoft-sql-server-1-device-cal): Microsoft SQL Server 1 Device CAL with Software Assurance from TrustedTech — device licensing, updates, support and compliance for secure database access.
   Updated: 2025-08-27T08:03:21Z
   Vendor: Microsoft
@@ -1592,20 +1333,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/Group327_3f95824e-f241-4b02-bfd4-29c070fe161d.png?v=1756191884
   Price: $500.00 USD
-- [SQL Server 2012 Standard ESU Year 2 license 2-Core | TrustedTech](https://trustedtechteam.digital/products/sql-server-2012-standard-esu-year-2-license): TrustedTech sells Microsoft SQL Server 2012 Standard ESU Year 2 license: 2-core ESU coverage (Jul 2023-Jul 2024) for continued security and compliance.
-  Updated: 2025-08-27T08:04:04Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2012 > Standard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2012-standard-esu-year-2-license-boxed-software-front-spine-microsoft-logo.jpg?v=1756193022
-  Price: $500.00 USD
-- [SQL Server 2012 Enterprise ESU Year 2 - 2 Core | TrustedTech](https://trustedtechteam.digital/products/sql-server-2012-enterprise-esu-year-2): TrustedTech offers SQL Server 2012 Enterprise ESU Year 2 (Microsoft, 2 Core, July 2023-July 2024) for extended security updates and enterprise stability.
-  Updated: 2025-08-27T08:04:04Z
-  Vendor: Microsoft
-  Product Type: Microsoft > SQL Server > 2012 > Enterprise
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2012-enterprise-esu-year-2-white-box-front-red-side-grid-pattern.jpg?v=1756193021
-  Price: $500.00 USD
 - [Buy Microsoft Windows Server 2025 Standard 16 Core License – Digital](https://trustedtechteam.digital/products/microsoft-windows-server-2025-standard-16-core-license-digital-download): Get Microsoft Windows Server 2025 Standard 16-Core License at TrustedTechTeam.digital. Instant delivery, official license, full after-sales support.
   Updated: 2025-08-27T08:23:12Z
   Vendor: microsoft
@@ -1630,29 +1357,29 @@
 
 ## Collections
 
-- [Microsoft Software Deals on Windows 11 Pro Licenses | trustedtechteam](https://trustedtechteam.digital/collections/microsoft-software-deals-best-prices): Boost productivity and security for PC upgrades. Genuine Windows 11 Pro licenses with seamless updates and expert support. Shop now for top Microsoft software deals!
-  Updated: 2025-08-31T11:19:42Z
+- [Microsoft software deals: Windows 11 Pro Upgrades | TrustedTech](https://trustedtechteam.digital/collections/microsoft-software-deals-windows-11-pro): TrustedTech Microsoft software deals: Save on Windows 11 Pro licenses for professionals and home users - boost security, performance, and productivity today.
+  Updated: 2025-09-02T09:41:56Z
   Total Products: 9
-- [Microsoft Softwares Products USA Wholesale - Best Deals | trustedtechteam](https://trustedtechteam.digital/collections/microsoft-softwares-products-usa-wholesale): Affordable licensing for business and education needs. Trusted, authorized Microsoft software with volume discounts. Shop now for seamless, secure solutions.
-  Updated: 2025-08-31T11:19:42Z
+- [Microsoft softwares products usa wholesale - Deals | TrustedTech](https://trustedtechteam.digital/collections/microsoft-softwares-products-usa-wholesale): TrustedTech sells Microsoft softwares products usa wholesale - genuine Windows Pro & Office, secure volume licensing, fast downloads for businesses & schools.
+  Updated: 2025-09-02T09:42:10Z
   Total Products: 18
-- [Essential Office Software Downloads for Business Success | trustedtechteam](https://trustedtechteam.digital/collections/office-software-downloads-business): Boost productivity for essential office software needs. Trusted, easy-to-install downloads ensure smooth work and secure data protection. Explore now!
-  Updated: 2025-08-30T10:01:51Z
+- [office software downloads for business productivity | TrustedTech](https://trustedtechteam.digital/collections/office-software-downloads-essential): TrustedTech: office software downloads for businesses — secure document editing, spreadsheets, presentations and fast support to boost team productivity.
+  Updated: 2025-09-02T09:41:56Z
   Total Products: 19
-- [Essential Server Software Solutions Featuring Windows Server 2025 Standard | trustedtechteam](https://trustedtechteam.digital/collections/windows-server-2025-standard-solutions): Boost efficiency and secure data for business operations. Trusted, reliable server software with advanced features and expert support. Shop now for better uptime.
-  Updated: 2025-08-30T10:01:53Z
-  Total Products: 171
-- [Best Sellers: Top Software Licenses for Businesses | trustedtechteam](https://trustedtechteam.digital/collections/top-software-licenses-for-businesses): Boost productivity with reliable software licenses for your business needs. Access top-rated solutions handpicked for success. Shop now and elevate your work!
-  Updated: 2025-08-31T11:19:42Z
-  Total Products: 253
-- [Microsoft SQL Server](https://trustedtechteam.digital/collections/microsoft-sql-server)
-  Updated: 2025-08-27T08:04:06Z
-  Total Products: 47
-- [Microsoft Windows Server](https://trustedtechteam.digital/collections/microsoft-exchange-server)
-  Updated: 2025-08-30T10:01:53Z
-  Total Products: 200
-- [Microsoft Windows OS](https://trustedtechteam.digital/collections/microsoft-windows-os)
-  Updated: 2025-08-31T11:19:42Z
+- [Windows Server 2025 Standard: Essential Server Solutions | TrustedTech](https://trustedtechteam.digital/collections/windows-server-2025-standard-software): TrustedTech: Essential Server Software Solutions featuring Windows Server 2025 Standard - secure management, virtualization, fast storage, backups, scalable IT.
+  Updated: 2025-09-02T09:42:11Z
+  Total Products: 146
+- [Best Sellers: top software licenses for businesses | TrustedTech](https://trustedtechteam.digital/collections/top-software-licenses-for-businesses): TrustedTech offers best sellers: top software licenses for businesses — cloud, Azure, migration, optimization & 24/7 support to scale securely and affordably.
+  Updated: 2025-09-02T09:41:54Z
+  Total Products: 213
+- [Microsoft SQL Server licenses: Standard & Enterprise | TrustedTech](https://trustedtechteam.digital/collections/microsoft-sql-server-licenses): TrustedTech offers affordable Microsoft SQL Server licenses for Standard and Enterprise editions. Buy, upgrade, and manage SQL Server 2022 with expert support.
+  Updated: 2025-09-02T09:41:55Z
+  Total Products: 22
+- [Microsoft Windows Server 2025 license - 16 Core Digital | TrustedTech](https://trustedtechteam.digital/collections/microsoft-windows-server-2025-license): Shop TrustedTech for Microsoft Windows Server 2025 license: datacenter & enterprise 16-core digital downloads, fast delivery and authentic activation keys.
+  Updated: 2025-09-02T09:41:59Z
+  Total Products: 160
+- [buy Microsoft Windows operating system licenses | TrustedTech](https://trustedtechteam.digital/collections/buy-microsoft-windows-operating-system): TrustedTech: buy Microsoft Windows operating system licenses, keys, and upgrades, Windows 11, 10 Pro & Home for home and business users, fast delivery.
+  Updated: 2025-09-02T09:41:57Z
   Total Products: 4
 
 ## Blogs
