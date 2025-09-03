@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-03T16:00:35.046Z
+- Updated At: 2025-09-03T20:00:33.726Z
 
 ## Products
 
@@ -2027,7 +2027,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cubiko-Wall-Planter-Black-UMBRA-6.png?v=1731902679
   Price: $199.99 NZD
 - [Droplet Soap Dish - Clear](https://everydayhome.co.nz/products/droplet-soap-dish-clear): Made of durable, strong acrylic, Droplet gives off the illusion of delicate glass, but is practical and breakage-resistant. Droplet’s smooth wave-like ridges keep the soap bar from sitting in a pool of water and disintegrating. This is a clean, modern addition to any bathroom or kitchen.
-  Updated: 2025-08-12T16:51:43Z
+  Updated: 2025-09-03T19:08:40Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2426,14 +2426,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Adhesive-Toilet-Paper-Holder-Shelf-White-UMBR-2.jpg?v=1731902062
   Price: $19.99 NZD
 - [Flip 5 Hook - Black](https://everydayhome.co.nz/products/flip-5-hook-black): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-03T10:22:06Z
+  Updated: 2025-09-03T17:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flip-5-Hook-Black-UMBRA-5.jpg?v=1731902590
   Price: $69.99 NZD
 - [Flip 8 Hook - Black](https://everydayhome.co.nz/products/flip-8-hook-black): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-03T10:22:06Z
+  Updated: 2025-09-03T17:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2944,7 +2944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/LinnClothesRack_Small-Black-8710755118203Brabantia_96dpi_1000x1000px_7_NR-13452.png?v=1733974942
   Price: $349.95 NZD
 - [Brabantia Linn Clothes Rack - Small White](https://everydayhome.co.nz/products/linn-clothes-rack-small-white): Organise your clothes beautifully with Brabantia's Linn Clothes Rack. This free-standing clothes rack, with sturdy bamboo rod and two height-adjustable shelves, holds its own in any home. Use Linn as a drying rack for planet-friendly drying or use her for airing your clothes in style by displaying them on clothes hangers on the sturdy rod. Need some stylish storage space? Linn is happy to help out. Perfect for your bedroom, laundry room or front hall!
-  Updated: 2025-08-23T22:07:16Z
+  Updated: 2025-09-03T19:08:40Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
