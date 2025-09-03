@@ -1,12 +1,16 @@
 # AroSport (https://arosport.co.il)
 
+> ארוספורט מתמחה במכירת ציוד ספורט הנעלה וביגוד מקצועי לספורטאים מקצועיים וחובבנים במחירים ללא תחרות.
+
 - Domain: https://arosport.co.il
 - Locale: he
 - Currency: ILS
 - Timezone: Asia/Jerusalem
 - Created At: 2018-07-24T06:17:02Z
 - Contact Email: info@arosport.co.il
-- Updated At: 2025-09-03T16:01:22.763Z
+- Contact Phone: 03-96-747-96
+- Address: סוף רחוב רמז ראשון לציון צמוד לקאנטרי גלי הדר
+- Updated At: 2025-09-03T16:03:45.670Z
 
 ## Products
 
@@ -44622,10 +44626,10 @@ Adidas Ultraboost 21
   Updated: 2025-08-30T17:15:17Z
   Total Products: 7
 - [Best Selling](https://arosport.co.il/collections/best-selling)
-  Updated: 2025-09-03T15:29:03Z
+  Updated: 2025-09-03T16:02:55Z
   Total Products: 20
 - [8-latest](https://arosport.co.il/collections/8-latest): גלו עכשיו את המוצרים הנמכרים ביותר השבוע בארוספורט! מוצרי ונעלי ספורט, הליכה ופנאי מבוקשים במיוחד במחירים מיוחדים ממיטב המותגים, אל תחמיצו הזדמנות להשיג את המוצרים הנמכרים ביותר של השבוע במחירי מבצע מטורפים!
-  Updated: 2025-09-03T15:29:02Z
+  Updated: 2025-09-03T16:03:09Z
   Total Products: 10
 - [Zap-Products-Feed-Hoka](https://arosport.co.il/collections/zap-products-feed-hoka)
   Updated: 2025-09-03T15:29:30Z
@@ -44837,7 +44841,7 @@ Adidas Ultraboost 21
   Updated: 2025-09-03T11:02:02Z
   Total Products: 1483
 - [חדש בחנות](https://arosport.co.il/collections/new-collection)
-  Updated: 2025-09-03T15:29:04Z
+  Updated: 2025-09-03T16:03:01Z
   Total Products: 114
 - [Price Drop](https://arosport.co.il/collections/price-drop)
   Updated: 2025-08-30T17:15:22Z
@@ -44852,13 +44856,13 @@ Adidas Ultraboost 21
   Updated: 2025-08-30T17:15:23Z
   Total Products: 0
 - [38-44 % discount](https://arosport.co.il/collections/38-44-discount)
-  Updated: 2025-09-03T15:29:02Z
+  Updated: 2025-09-03T16:03:02Z
   Total Products: 278
 - [זוגות בודדים ומוצרים במחירי חיסול](https://arosport.co.il/collections/items-on-sale): ארוספורט אאוטלט - נעלי ריצה וביגוד ספורט בהנחה של 30% ומעלה
   Updated: 2025-09-03T11:02:02Z
   Total Products: 2670
 - [45-54 % discount](https://arosport.co.il/collections/38-44-discount-copy)
-  Updated: 2025-09-03T15:29:02Z
+  Updated: 2025-09-03T16:02:58Z
   Total Products: 271
 - [outlet- נעלי ספורט וביגוד במבצע](https://arosport.co.il/collections/outlet): גלו עכשיו את קטגוריית ה-OUTLET שלנו עם מבחר מוצרים במחירי חיסול והנחות ענק. זוגות אחרונים ודגמים שנותרו במלאי נמכרים עכשיו במחירים מיוחדים והנחות של עד 60%! נעלי ספורט, הליכה וריצה, בגדי ספורט ועוד ממותגים מובילים במחירי חיסול שאסור לפספס. כנסו עכשיו למכירת החיסול שלנו וגלו מציאות אמיתיות!
   Updated: 2025-09-03T11:27:58Z
@@ -46206,6 +46210,12 @@ Adidas Ultraboost 21
   Updated: 2020-10-28T09:35:27+02:00
 - [Terms of Service](https://arosport.co.il/policies/terms-of-service)
   Updated: 2020-10-28T09:23:04+02:00
+
+## Social Media
+https://www.instagram.com/arosportrunning
+https://www.pinterest.com/arosport1
+https://x.com/arosport1
+https://www.facebook.com/arosport
 
 ## Optional
 
