@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-02T20:00:35.283Z
+- Updated At: 2025-09-03T00:00:36.049Z
 
 ## Products
 
 - [Cubiko Shower Caddy, Black](https://everydayhome.co.nz/products/cubiko-shower-caddy-black): Cubiko Shower Caddy, Black
-  Updated: 2025-09-01T01:52:16Z
+  Updated: 2025-09-02T23:52:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Mirror-Storage-Unit-Black-7.jpg?v=1727659219
   Price: $209.99 NZD
 - [Triflora Hanging Planter - White](https://everydayhome.co.nz/products/triflora-hanging-planter-white): Triflora Hanging Planter, White
-  Updated: 2025-08-17T23:07:11Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -263,7 +263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Metallic-Titanium-1.jpg?v=1727659051
   Price: $249.99 NZD
 - [Cubiko Adhesive Shower Bins - Black](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-black): Cubiko Adhesive Shower Bins, Black
-  Updated: 2025-08-31T20:37:12Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -500,15 +500,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-REBECCA-HEIN-Sea-Lavender-6.jpg?v=1727658885
   Price: $199.00 NZD
-- [Frame Breakfast Board - Oiled Walnut](https://everydayhome.co.nz/products/dutchdeluxes-frame-breakfast-board-oiled-walnut): Complete a country chic kitchen with this Frame board from DutchDeluxes. Featuring a side with a juice groove for cutting and a smooth side for serving, it’s a must-have for any kitchen.
-  Updated: 2025-08-31T00:58:20Z
-  Vendor: DUTCH DELUXES
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Frame-Breakfast-Board-Oiled-Walnut-3.jpg?v=1727658581
-  Price: $59.99 NZD
 - [Moon Breakfast Board - Oiled Walnut](https://everydayhome.co.nz/products/dutchdeluxes-moon-breakfast-board-oiled-walnut): These solid wooden breakfast boards can be used at both sides; one with a juice groove for cutting, while keeping the plain side for a deluxe presentation. Beautiful to combine the different shapes and materials. They are easy to store and easy to clean, no need to use the dishwasher.
-  Updated: 2025-08-15T02:59:41Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: DUTCH DELUXES
   Product Type: Kitchenware
   Availability: Available
@@ -529,40 +522,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Bread-Board-Oiled-Walnut-0.png?v=1727659358
   Price: $89.99 NZD
 - [Food Stand Medium - White](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-medium-white): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
-  Updated: 2025-08-12T16:40:00Z
+  Updated: 2025-09-02T23:53:25Z
   Vendor: DUTCH DELUXES
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Food-Stand-Medium-White-9.jpg?v=1727659706
   Price: $29.99 NZD
 - [Food Stand Medium - Platinum](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-medium-platinum): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
-  Updated: 2025-08-12T16:39:58Z
+  Updated: 2025-09-02T23:53:25Z
   Vendor: DUTCH DELUXES
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Food-Stand-Medium-Platinum-5.jpg?v=1727660103
   Price: $29.99 NZD
-- [Food Stand Large - Platinum](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-large-platinum): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
-  Updated: 2025-08-15T04:09:05Z
-  Vendor: DUTCH DELUXES
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Food-Stand-Large-Platinum-5.jpg?v=1727658958
-  Price: $39.99 NZD
-- [Food Stand Medium - Platinum Matt](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-medium-platinum-matt): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
-  Updated: 2025-08-18T06:07:11Z
-  Vendor: DUTCH DELUXES
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Food-Stand-Medium-Platinum-Matt-5.jpg?v=1727659302
-  Price: $29.99 NZD
-- [Leather Oven Glove - Vintage Grey](https://everydayhome.co.nz/products/dutchdeluxes-leather-oven-glove-vintage-grey): Never burn your fingers again! For usage in the kitchen or during your garden barbecue. Regular use and passage of time will create a patina, a soft sheen that develops on the surface of the leather as it is a natural product that ages. Which makes the leather oven glove more beautiful the more you use it.
-  Updated: 2025-08-12T16:17:52Z
-  Vendor: DUTCH DELUXES
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Leather-Oven-Glove-Vintage-Grey-1.jpg?v=1727659897
-  Price: $59.99 NZD
 - [Therapy Kitchen Surface Spray - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy®-kitchen-surface-spray-lemongrass-lime-bergamot): Clean surfaces without the use of harsh ingredients. Naturally, revitalise and neutralise odours with a fresh and purifying aroma. Refill once empty with our Surface Spray concentrate (sold separately). Simply add the concentrate to your empty Therapy Kitchen Surface Spray bottle, then fill to the top with water. Reducing single-use plastic. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
   Updated: 2025-08-12T04:53:49Z
   Vendor: The Aromatherapy Co
@@ -1082,7 +1054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-5-Hook-Natural-3.jpg?v=1727659274
   Price: $69.99 NZD
 - [Flip 5 Hook - White](https://everydayhome.co.nz/products/flip-5-hook-white): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-08-21T17:22:20Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1109,13 +1081,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-8-Hook-White-6.jpg?v=1727660385
   Price: $119.99 NZD
-- [Hub Bevy Mirror - Copper](https://everydayhome.co.nz/products/rd-hub-bevy-mirror-61cm-copper): This beveled wall mirror is one-of-a-kind Hub Bevy not only brightens up your space but makes it appear larger thanks to its large reflective surface Its modern and classic design effortlessly looks great in any room it’s placed in. Wherever you put it, its modern and classic style will elevate any room it calls home.
-  Updated: 2025-08-12T16:49:07Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hub-Bevy-Mirror-Copper-2.jpg?v=1727660018
-  Price: $69.95 NZD
 - [Hub Wall Mirror (94cm) - Grey](https://everydayhome.co.nz/products/rd-hub-wall-mirror-94cm-grey): Hub Wall Mirror is the perfect wall decor for heavily trafficked areas like entryways and washrooms. Its rubber rim makes it more durable than most other mirrors while providing a modern, industrialized look. This decorative mirror is a great solution because it helps bounce light around your room, making space appear larger and brighter.
   Updated: 2025-08-12T16:49:06Z
   Vendor: UMBRA
@@ -1593,21 +1558,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-18Cm-2-8L-Covered-Saucepan-Anolo-8.jpg?v=1731902164
   Price: $89.99 NZD
 - [Anolon X SearTech - 20Cm/2.4L Saucier](https://everydayhome.co.nz/products/ano-x-s-tech-ns-20cm-2-4l-saucier): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 20cm/2.4L covered saucier features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-08-12T16:40:09Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-20Cm-2-4L-Saucier-Anolon-8.jpg?v=1731902727
   Price: $89.99 NZD
 - [Anolon X SearTech - 21cm Open French Skillet](https://everydayhome.co.nz/products/ano-x-s-tech-ns-21cm-open-french-skillet): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 21cm frying pan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-08-27T03:22:24Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-21cm-Open-French-Skillet-Anolon-9.jpg?v=1731901879
   Price: $49.99 NZD
 - [Anolon X SearTech - 24Cm/3.8L Covered Casserole](https://everydayhome.co.nz/products/ano-x-s-tech-ns-24cm-3-8l-cov-casserole): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 24cm/3.8L covered casserole features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-08-12T16:39:52Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -2069,7 +2034,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Droplet-Soap-Dish-Clear-UMBRA-7.jpg?v=1731902077
   Price: $19.99 NZD
 - [Essteele Glass Ceramic Nonstick - 3.9L Covered Casserole](https://everydayhome.co.nz/products/esst-glass-ovenware-ceramic-ns-covered-oval-casserole-37x22cm): At the heart of this collection is the Essteele Ceramic Covered Casserole Dish, a masterpiece that promises to elevate your culinary creations to new heights. With a generous 3.9L base and an additional 1.9L capacity in the lid, this casserole dish is tailor-made for slow-cooked stews, braised dishes, and more. Its nonstick surface ensures easy food release and quick cleaning, while an elegant design suits all occasions. The 4-layer ceramic coating and borosilicate glass offer durability in extreme temperatures.
-  Updated: 2025-08-12T16:39:38Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2146,7 +2111,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-28cm-Open-French-Skillet-Esste-3.jpg?v=1731902541
   Price: $269.99 NZD
 - [Essteele Per Domani - 30cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-domani-30cm-open-french-skillet): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 30cm nonstick skillet is perfect for cooking meat or fish, vegetables and family meals, providing frying and searing perfection. The European look will complement any kitchen while the super-hard and durable nonstick provides fat-free cooking and effortless clean-up.
-  Updated: 2025-08-15T02:20:10Z
+  Updated: 2025-09-02T23:52:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2174,7 +2139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-20cm-Open-French-Skillet-Esste-8.jpg?v=1731903223
   Price: $209.99 NZD
 - [Essteele Per Domani - 20cm/2.8L Covered Saucepan](https://everydayhome.co.nz/products/essteele-per-domani-20cm-2-8l-covered-saucepan): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 20cm nonstick saucepan is perfect for heating up soups, making sauces, cooking rice and more.
-  Updated: 2025-08-26T22:22:07Z
+  Updated: 2025-09-02T23:52:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2286,7 +2251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-32cm-5-7LCovered-Saute-Essteel-0.jpg?v=1731903263
   Price: $334.99 NZD
 - [Essteele Per Salute - 32cm Covered Stirfry](https://everydayhome.co.nz/products/essteele-per-salute-32cm-covered-stirfry): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. Perfect for stir-frying and so much more, this stirfry was created for a lifetime of delicious results.
-  Updated: 2025-08-22T00:52:11Z
+  Updated: 2025-09-02T23:52:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2433,7 +2398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-01T01:52:15Z
+  Updated: 2025-09-02T23:52:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2825,7 +2790,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Triflora-Hanging-Planter-Set-of-5-White-UMBRA-1.jpg?v=1731902130
   Price: $159.99 NZD
 - [Trigem Jewelry Stand - White/Brass](https://everydayhome.co.nz/products/trigem-jwl-stand-kd-wht-bras): With the Trigem Jewelry Stand, three plated bars provide plenty of hanging space for all your favorite necklaces; keeping them safe, organized and tangle free. At 19-inches (48 cm) tall, Trigem is ideal for any type of necklace. The base of Trigem doubles as a jewelry holder for added accessory storage. Trigem’s sleek design compliments any modern decor and the protective padded base ensures your counter or table top surface doesn’t get damaged.
-  Updated: 2025-08-12T16:47:37Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3056,7 +3021,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardC_124x45cm_SSIR-SpringBubbles-8710755134920Brabantia_96dpi_1000x1000px_7_NR-19942.png?v=1733870570
   Price: $299.95 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-60m-metal-soil-spear-metallic-grey): The Brabantia Topspinner rotary dryer really spins like a top, even when the arms are fully loaded with wet laundry. But there’s more: it’s easy to open and has up to 60 metres of quality, UV-resistant non-slip washing lines. Thanks to the nifty retension-system, these lines are always taut. You’ll surely love the eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you and the planet!
-  Updated: 2025-08-27T03:22:17Z
+  Updated: 2025-09-02T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3364,14 +3329,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Large_Plastic-LightGrey-8710755203121Brabantia_96dpi_1000x1000px_7_NR-27933.png?v=1734401261
   Price: $14.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Dark Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-dark-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-28T04:31:13Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-DarkGrey-8710755202520Brabantia_96dpi_1000x1000px_7_NR-27884.png?v=1734401760
   Price: $9.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:26:10Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3385,14 +3350,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardplusServingTray-LightGrey-8710755123146Brabantia_96dpi_1000x1000px_7_NR-17716.png?v=1733802336
   Price: $49.95 NZD
 - [Brabantia ReNew Shower Squeegee - Dark Grey](https://everydayhome.co.nz/products/shower-squeegee-dark-grey): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-08-31T20:37:11Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerSqueegee-DarkGrey-8710755280160Brabantia_300dpi_4303x6455px_6_NR-20019_96dpi_1000x1000px_7_NR-22283.png?v=1734479174
   Price: $41.95 NZD
 - [Brabantia ReNew Shower Squeegee - White](https://everydayhome.co.nz/products/shower-squeegee-white): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-08-31T20:37:12Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3441,7 +3406,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_16L-Grey-8710755109966Brabantia_96dpi_1000x1000px_7_NR-1287.png?v=1734562203
   Price: $99.95 NZD
 - [Brabantia Sort & Go Waste Bin - 12L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-12l-grey): Feed your empty packaging, bottles, cans or anything else you want sorted to the 12 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Now that's organising!
-  Updated: 2025-09-01T01:52:14Z
+  Updated: 2025-09-02T23:52:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4126,7 +4091,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_SpatulaplusFork-AubergineRed-8710755122781Brabantia_96dpi_2000x2000px_T_NR-28079.png?v=1750899938
   Price: $5.99 NZD
 - [Brabantia Tasty+ Food Peeler - Jade Green](https://everydayhome.co.nz/products/tasty-food-peeler-plus-zester): Cooking is even more fun with this multifunctional Brabantia Tasty+ Food Peeler plus Zester. It skins potatoes, fruits and veggies closely and easily, and it has an eye-picker and a nifty zester too. Very a-peeling!
-  Updated: 2025-08-15T13:31:35Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4160,13 +4125,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_SliceGraterplusCover-DarkGrey-8710755121661Brabantia_96dpi_2000x2000px_T_NR-15157.png?v=1750901784
   Price: $9.99 NZD
-- [Brabantia Tasty+ Mixing Bowl - 1.5 litre Honey Yellow](https://everydayhome.co.nz/products/tasty-mixing-bowl-1-5-litre): When you mix contemporary design and love for cooking, you get the Brabantia Tasty+ Mixing Bowl. The smart rim on the bowl makes pouring easy, whilst the silicone ring at the bottom prevents slipping. Ideal for stirring, mixing or a whipping up a salad. Easy to clean and dishwasher safe - sure to bowl you over!
-  Updated: 2025-08-15T13:35:43Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_MixingBowl_1.5L-HoneyYellow-8710755122163Brabantia_96dpi_2000x2000px_T_NR-15712.png?v=1750902294
-  Price: $9.99 NZD
 - [Brabantia Tasty+ Ice Cream Scoop - Terracotta Pink](https://everydayhome.co.nz/products/tasty-ice-cream-scoop): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
   Updated: 2025-08-15T13:43:26Z
   Vendor: BRABANTIA
@@ -4182,14 +4140,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/71_Yivf-4SL._AC_SX679.jpg?v=1750902687
   Price: $9.99 NZD
 - [Brabantia Profile Slice Grater - Matt Steel](https://everydayhome.co.nz/products/profile-slice-grater): This Brabantia Slice Grater is ideal for Parmesan, cucumber, carrots, etcetera. It will even make you chocolate flakes, adding a sweet touch to your favourite dessert. The anti-slip base and large plate help you grate lightly. And after use you can store it securely because of the protective cover. Happy grating!
-  Updated: 2025-08-15T13:44:29Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSliceGrater-MattSteel-8710755250941Brabantia_96dpi_2000x2000px_T_NR-24235.png?v=1750903539
   Price: $9.99 NZD
 - [Brabantia Profile Spaghetti Spoon - Matt Steel](https://everydayhome.co.nz/products/profile-spaghetti-spoon): Into Italian food? This Brabantia Spaghetti Spoon is the tool you need to get a grip on your spaghetti. With a nice long stem and prongs that are made to grab and hold the strings. No strings attached.
-  Updated: 2025-08-17T09:37:11Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4203,18 +4161,11 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSauceLadle-MattSteel-8710755250521Brabantia_96dpi_2000x2000px_T_NR-19713.png?v=1750982301
   Price: $12.99 NZD
 - [Brabantia Profile Soup Ladle - Matt Steel](https://everydayhome.co.nz/products/profile-soup-ladle): Scoop and serve your soup with this Brabantia Soup Ladle. This long-stemmed portion sized ladle is ideal for serving soup without spilling. Every inch a ladle.
-  Updated: 2025-08-17T09:37:11Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSoupLadle-MattSteel-8710755250606Brabantia_96dpi_2000x2000px_T_NR-19723.png?v=1750982307
-  Price: $14.99 NZD
-- [Brabantia Profile Paring Knife - Black](https://everydayhome.co.nz/products/profile-paring-knife): Looking for a knife that can cut and peel? The Brabantia Paring Knife is ideal to use for potatoes, vegetables, and fruit. It has a hardened high-quality steel blade, so it remains sharp for a long time. Easy to clean and durable - the knife for fruits and much more.
-  Updated: 2025-08-15T13:45:49Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileParingKnife-Black-8710755250460Brabantia_96dpi_2000x2000px_T_NR-19703.png?v=1750982279
   Price: $14.99 NZD
 - [Brabantia Profile Ice Cream Scoop - Matt Steel](https://everydayhome.co.nz/products/profile-ice-cream-scoop): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
   Updated: 2025-08-15T13:22:02Z
@@ -4245,7 +4196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-7.jpg?v=1752027451
   Price: $29.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Terracotta Pink](https://everydayhome.co.nz/products/newicon-pedal-bin-3l-terracotta-pink-copy): The NewIcon 12L Pedal Trash Can by Brabantia makes for a great addition to garbage management. This neat and practical sized under kitchen countertop or bedroom trash can is an ideal fit into many domestic areas where size is important.
-  Updated: 2025-08-31T04:10:15Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4588,7 +4539,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_6L-Grey-8710755109720Brabantia_300dpi_2000x2000px_9_NR-1255.jpg?v=1754605929
   Price: $79.95 NZD
 - [Brabantia Sort & Go Waste Bin - 3L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-grey): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
-  Updated: 2025-09-01T01:52:18Z
+  Updated: 2025-09-02T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4602,7 +4553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-LightGrey-8710755213229Brabantia_300dpi_2000x2000px_9_NR-25842.jpg?v=1754607295
   Price: $59.95 NZD
 - [Brabantia Sort & Go Waste Bin - 6L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-6l-lght-gry): This cute 6 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just put it on your worktop, in a drawer or hang it on the wall with its included wall bracket. Full? Grab it by its handy handle and empty it. And do you want a bin liner with that? The PerfectFit 100% compostable bags, code S, are a perfect match - and easy to fit too! XS size, XL ease.
-  Updated: 2025-09-01T01:52:15Z
+  Updated: 2025-09-02T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4630,7 +4581,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoRecycleBin_40L-Grey-8710755251047Brabantia_300dpi_2000x2000px_9_NR-23227_4337f1a9-063e-4e75-94ee-76ef1060ea70.jpg?v=1754541748
   Price: $169.95 NZD
 - [Brabantia Sort & Go Waste Bin - 40L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-40l-grey): Feed your empty packaging, bottles, cans - and anything else you want sorted - to this handy 40 litre Brabantia Sort & Go Recycle Bin. It fits snugly in corners, flat against the wall, and has a large handle for easy carrying and emptying. Just what you need for a smooth running recycling operation at home!
-  Updated: 2025-08-21T23:37:11Z
+  Updated: 2025-09-02T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4973,7 +4924,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $17.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-09-02T08:07:10Z
+  Updated: 2025-09-02T22:03:55Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -5050,7 +5001,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I0223345.jpg?v=1755748377
   Price: $139.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 3 8x10 Black](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-3-8x10-black): Create your own unique gallery wall with Exhibit 8x10 picture frames. An extension from the original Exhibit Photo Display, this set of three larger frames, each suspend on their own metal rod. Displayed vertically or horizontally, Exhibit is a unique way to hang and showoff your favorite photos. Each picture frame can float an image up to 8x10" in size. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-08-29T22:37:11Z
+  Updated: 2025-09-02T22:03:56Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
