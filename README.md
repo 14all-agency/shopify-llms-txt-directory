@@ -21,6 +21,11 @@ This repository contains the llms.txt file contents of Shopify stores that have 
 - Enable GitHub integration under "Advanced Settings".
 - Your llms.txt file contents will be uploaded to GitHub automatically.
 
+## Requesting Removal
+
+- If you are a store owner and would like your entry removed from this directory, please open an issue in this repository or contact us directly via hello@goplus.nz  
+- We will review and remove your listing promptly upon verification of ownership.
+
 ## Disclaimer
 
 This directory is provided for informational and research purposes only.  
@@ -29,4 +34,3 @@ Inclusion in this list does **not** imply endorsement of any store or its conten
 ---
 
 **License:** MIT
-
