@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2018-07-24T06:17:02Z
 - Contact Email: info@arosport.co.il
-- Updated At: 2025-09-03T15:58:28.139Z
+- Updated At: 2025-09-03T16:01:22.763Z
 
 ## Products
 
