@@ -6,68 +6,68 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-02T20:00:30.023Z
+- Updated At: 2025-09-03T00:00:29.591Z
 
 ## Products
 
 - [Windows Server 2025 download - Standard Edition Secure | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-download): TrustedTech offers Microsoft Windows Server 2025 Standard — secure, scalable OS with VM support and hybrid cloud tools. Windows Server 2025 download now.
-  Updated: 2025-09-02T09:16:30Z
+  Updated: 2025-09-02T21:49:23Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-download-standard-edition-blue-windows-logo-server-room.png?v=1756804589
   Price: $150.00 USD
 - [Windows Server 2025 Standard 16 core - Secure & Scalable | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-16-core): TrustedTech sells Microsoft Windows Server 2025 Standard 16 core - secure, scalable OS with virtualization, advanced security and reliable performance for SMBs.
-  Updated: 2025-09-02T09:16:35Z
+  Updated: 2025-09-02T21:17:32Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-16-core-server-room-cover-blue-windows-logo.png?v=1756804594
   Price: $150.00 USD
 - [Microsoft Office 2024 for Mac — Home & Business | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-for-mac): Buy Microsoft Office 2024 for Mac at TrustedTech — Office Home & Business 2024 with Word, Excel, PowerPoint and Outlook for a one-time productivity boost.
-  Updated: 2025-09-02T09:16:27Z
+  Updated: 2025-09-02T21:17:28Z
   Vendor: microsoft
   Product Type: office 2024
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2024-for-mac-home-and-business-packaging-excel-green-bar-chart.webp?v=1756804586
   Price: $125.00 USD
 - [buy Microsoft Office 2024 license - Home & Business | TrustedTech](https://trustedtechteam.digital/products/buy-microsoft-office-2024-license): buy Microsoft Office 2024 license at TrustedTech - Office Home & Business 2024: Word, Excel, PowerPoint & Outlook. One-time purchase for reliable productivity.
-  Updated: 2025-09-02T09:16:21Z
+  Updated: 2025-09-02T21:45:53Z
   Vendor: microsoft
   Product Type: office 2024
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-microsoft-office-2024-license-home-and-business-2024-box-green-bar-chart.webp?v=1756804581
   Price: $26.99 USD
 - [Microsoft Office 2024 Pro Plus license - Instant Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-pro-plus-license): Buy Microsoft Office 2024 Pro Plus license at TrustedTech. Instant genuine key download, full Office suite for Windows 10/11, easy activation and lifetime use.
-  Updated: 2025-09-02T09:16:53Z
+  Updated: 2025-09-02T21:30:02Z
   Vendor: gnewnetworks
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2024-pro-plus-license-office-2024-logo-app-icons-white.avif?v=1756804610
   Price: $26.99 USD
 - [Microsoft Remote Desktop User CAL 20 pack - RDS 2022 | TrustedTech](https://trustedtechteam.digital/products/microsoft-remote-desktop-user-cal-20-pack): TrustedTech: Microsoft Remote Desktop User CAL 20 pack for Windows Server — secure RDS access, scalable licensing for 20 users and simple remote productivity.
-  Updated: 2025-09-02T09:16:22Z
+  Updated: 2025-09-02T21:59:30Z
   Vendor: microsoft
   Product Type: windows server 2025 RDS 20 user cal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-remote-desktop-user-cal-20-pack-windows-remote-desktop-services-2022-user-cal-box-front.png?v=1756804582
   Price: $45.00 USD
 - [Microsoft Client Access Licenses 10 users for WS2022 RDS | TrustedTech](https://trustedtechteam.digital/products/microsoft-client-access-licenses-10-users): TrustedTech sells Microsoft Client Access Licenses 10 users for Windows Server 2022 — volume CALs for secure remote access, easy management and compliance.
-  Updated: 2025-09-02T09:16:42Z
+  Updated: 2025-09-02T21:53:07Z
   Vendor: microsoft
   Product Type: windows server 2022 RDS 5 user cal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/dell-microsoft-client-access-licenses-10-users-windows-server-2022-retail-box-dell-logo.webp?v=1756804601
   Price: $65.00 USD
 - [buy Windows Server 2022 CAL 5-User Pack - Microsoft | TrustedTech](https://trustedtechteam.digital/products/buy-windows-server-2022-cal-5-user): TrustedTech: buy Windows Server 2022 CAL 5-user pack by Microsoft - genuine user CALs for secure access, easy deployment and streamlined server management.
-  Updated: 2025-09-02T09:16:32Z
+  Updated: 2025-09-02T22:26:54Z
   Vendor: microsoft
   Product Type: windows server 2025 RDS 5 user cal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-windows-server-2022-cal-dell-retail-box-blue.webp?v=1756804591
   Price: $65.00 USD
 - [Windows Server Datacenter 2022 license - Unlimited VMs | TrustedTech](https://trustedtechteam.digital/products/windows-server-datacenter-2022-license): TrustedTech: Windows Server Datacenter 2022 license - official Microsoft edition with advanced security, unlimited virtualization and scalable management.
-  Updated: 2025-09-02T09:16:24Z
+  Updated: 2025-09-02T21:28:04Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -88,14 +88,14 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-box-front-microsoft-logo-blue-windows.png?v=1756804585
   Price: $200.00 USD
 - [buy Windows Server Datacenter 2025 - Scalable & Secure | TrustedTech](https://trustedtechteam.digital/products/buy-windows-server-datacenter-2025): TrustedTech: buy Windows Server Datacenter 2025 - enterprise-grade virtualization, containers, built-in security and optimized hybrid cloud performance.
-  Updated: 2025-09-02T09:16:42Z
+  Updated: 2025-09-02T21:52:44Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-buy-windows-server-datacenter-2025-front-gray-box-microsoft-logo-blue-windows-icon.png?v=1756804601
   Price: $250.00 USD
 - [buy Microsoft Windows Server 2022 Standard - Secure | TrustedTech](https://trustedtechteam.digital/products/buy-microsoft-windows-server-2022): buy Microsoft Windows Server 2022 at TrustedTech - fast, secure Standard with hybrid cloud support, advanced security and simplified management for IT teams.
-  Updated: 2025-09-02T09:18:40Z
+  Updated: 2025-09-02T21:18:45Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
@@ -109,28 +109,28 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-retail-box-white-blue-windows-logo-angled.webp?v=1756804692
   Price: $45.00 USD
 - [Windows Server 2022 Standard license - Microsoft key | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-standard-license): TrustedTech sells Windows Server 2022 Standard license - official Microsoft key for secure, scalable hybrid and virtualized deployments with easy management.
-  Updated: 2025-09-02T09:18:22Z
+  Updated: 2025-09-02T21:20:09Z
   Vendor: microsoft
   Product Type: windows server
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-purple-box-microsoft-logo.jpg?v=1756804702
   Price: $50.00 USD
 - [Microsoft Office 2019 for Mac Home & Business - 1 User | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2019-for-mac): Buy Microsoft Office 2019 for Mac at TrustedTech - Home & Business edition with Word, Excel, PowerPoint and Outlook. One-time buy for reliable Mac productivity.
-  Updated: 2025-09-02T09:18:08Z
+  Updated: 2025-09-02T21:50:31Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2019-for-mac-home-and-business-retail-box-orange-1-user.webp?v=1756804687
   Price: $26.99 USD
 - [Microsoft Office 2021 Home and Business license - For PC | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2021-home-and-business-license): Microsoft Office 2021 Home and Business license - TrustedTech one-time PC suite with Word, Excel, PowerPoint & Outlook for home & small business productivity.
-  Updated: 2025-09-02T09:18:32Z
+  Updated: 2025-09-02T21:29:21Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2021-home-and-business-license-retail-box-front-gold-partner-badge-on-desk.webp?v=1756804712
   Price: $19.99 USD
 - [Windows 11 Home to Pro Upgrade - Seamless Pro Features | TrustedTech](https://trustedtechteam.digital/products/windows-11-home-to-pro-upgrade): TrustedTech: Microsoft Windows 11 Home to Pro upgrade for a seamless, secure transition—unlock BitLocker, Remote Desktop, security and business features.
-  Updated: 2025-09-02T09:18:20Z
+  Updated: 2025-09-02T21:47:49Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -144,35 +144,35 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-license-key-box-front.webp?v=1752927516
   Price: $10.99 USD
 - [Windows 11 Pro license - Genuine Microsoft Key, Secure | TrustedTech](https://trustedtechteam.digital/products/windows-11-pro-license): Get a genuine Windows 11 Pro license from TrustedTech - instant email delivery of Microsoft product key, secure activation and professional security features.
-  Updated: 2025-09-02T09:18:10Z
+  Updated: 2025-09-02T21:29:00Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-11-pro-license-dark-cover-blue-abstract-wave-closeup.webp?v=1756804689
   Price: $10.99 USD
 - [Microsoft Office 2021 for Mac license - Home & Business | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2021-for-mac-license): TrustedTech offers Microsoft Office 2021 for Mac license from mysoftwarechoice — Home & Business one-time purchase with Word, Excel, PowerPoint and Outlook.
-  Updated: 2025-09-02T10:24:53Z
+  Updated: 2025-09-02T21:28:50Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-for-mac-license-home-business-box.webp?v=1752927597
   Price: $105.00 USD
 - [printable planner inserts - Customizable 3 Sizes | TrustedTech](https://trustedtechteam.digital/products/printable-planner-inserts): TrustedTech: MySoftwareChoice printable planner inserts — customizable in 3 sizes, 4 sheets (Today, This Week, 2 Notes) plus bonus cut file for A5 & Classic.
-  Updated: 2025-09-02T10:24:53Z
+  Updated: 2025-09-02T21:39:02Z
   Vendor: excel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/jetsetstudio-printable-planner-inserts-airplane-watercolor-daily-weekly-bonus-cutfile-a5-classic.jpg?v=1756804698
   Price: $3.99 USD
 - [printable productivity planner bundle - HP Classic PDF | TrustedTech](https://trustedtechteam.digital/products/printable-productivity-planner-bundle): TrustedTech's printable productivity planner bundle: 21-page HP Classic/Disc PDF with goal, habit, Pomodoro & project trackers to boost focus and productivity.
-  Updated: 2025-09-02T10:24:53Z
+  Updated: 2025-09-02T21:29:12Z
   Vendor: excel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/planner-studio-printable-productivity-planner-bundle-cover-daily-weekly-monthly-habit-pomodoro-tracker.webp?v=1756804709
   Price: $4.99 USD
 - [printable cleaning checklist - Happy Planner PDF Insert | TrustedTech](https://trustedtechteam.digital/products/printable-cleaning-checklist-planner): TrustedTech printable cleaning checklist PDF for Mambi Classic & Big Happy Planner — 2-page weekly/monthly chore insert with checkboxes to streamline home care.
-  Updated: 2025-09-02T10:24:53Z
+  Updated: 2025-09-02T21:50:16Z
   Vendor: excel
   Product Type: 
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-pro-plus-download-office-professional-retail-box.webp?v=1752392753
   Price: $11.99 USD
 - [Microsoft Project 2021 Professional license - Email Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2021-professional-license): Buy Microsoft Project 2021 Professional license at TrustedTech, instant email activation for powerful planning, resource management and Gantt charts.
-  Updated: 2025-09-02T10:24:52Z
+  Updated: 2025-09-02T22:24:56Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-professional-license-software-box-front.webp?v=1752928014
   Price: $22.99 USD
 - [Microsoft Project 2024 Professional license - Instant | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2024-professional-license): TrustedTech: Microsoft Project 2024 Professional license by gnewnetworks — instant delivery, one-user perpetual activation, Windows 10/11 compatible today.
-  Updated: 2025-09-02T10:24:52Z
+  Updated: 2025-09-02T22:32:57Z
   Vendor: microsoft
   Product Type: project professional 2024
   Availability: Available
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2019-standard-license-white-box-front.webp?v=1752396551
   Price: $75.00 USD
 - [Microsoft Office 2024 Professional Plus - ESD License for Windows 10 & 11](https://trustedtechteam.digital/products/microsoft-office-2024-professional-plus-lifetime): Unlock productivity with Microsoft Office 2024 Professional Plus. Get a 1 PC license for Windows 10 & 11 and elevate your work experience today! Perfect for professionals.
-  Updated: 2025-09-02T10:24:52Z
+  Updated: 2025-09-02T22:24:57Z
   Vendor: Microsoft
   Product Type: 
   Availability: Available
@@ -445,21 +445,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-sql-server-2022-standard-white-retail-software-box-red-wave-2019-front-angle.jpg?v=1756119595
   Price: $375.00 USD
 - [Windows Server 2025 Standard 24 core license OEM | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-24-core-license): TrustedTech: Windows Server 2025 Standard 24 core license - Microsoft OEM with enterprise-grade security, virtualization and easy management for SMBs.
-  Updated: 2025-09-02T09:25:14Z
+  Updated: 2025-09-02T21:58:29Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-24-core-license-white-retail-box-front-blue-windows-logo-angled.jpg?v=1756805113
   Price: $550.00 USD
 - [Windows Server 2025 Datacenter license - Perpetual Key | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-license): TrustedTech sells the Microsoft Windows Server 2025 Datacenter license - perpetual, enterprise virtualization, advanced security and hybrid cloud scale.
-  Updated: 2025-09-02T09:24:56Z
+  Updated: 2025-09-02T21:41:51Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Datacenter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-license-blue-retail-box-microsoft-logo-windows-logo-angled.jpg?v=1756805095
   Price: $550.00 USD
 - [Windows Server 2025 Standard license - 16 Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-license-16): TrustedTech: Windows Server 2025 Standard license (16-core) - secure, scalable server OS with virtualization and built-in security for reliable business.
-  Updated: 2025-09-02T09:28:06Z
+  Updated: 2025-09-02T21:55:45Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-white-retail-box-blue-windows-logo-front-angle.jpg?v=1756805098
   Price: $109.99 USD
 - [Windows Server 2025 Datacenter 16 core license OEM | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-16-core-license-oem): TrustedTech sells Windows Server 2025 Datacenter 16 core license - OEM edition with advanced security, Hyper-V virtualization and container scale for IT teams.
-  Updated: 2025-09-02T09:25:08Z
+  Updated: 2025-09-02T21:25:13Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Datacenter
   Availability: Available
@@ -487,7 +487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-license-blue-retail-box-front-side-microsoft-logo.jpg?v=1756805824
   Price: $689.99 USD
 - [Windows Server 2022 Standard license 16-Core (Microsoft) | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-standard-license-16c): TrustedTech: Microsoft Windows Server 2022 Standard license 16-core, secure, hybrid-ready OS with virtualization and streamlined management for businesses.
-  Updated: 2025-09-02T09:39:46Z
+  Updated: 2025-09-02T22:01:27Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Standard
   Availability: Available
@@ -501,7 +501,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-standard-license-white-retail-box-angled-blue-windows-logo.png?v=1756805370
   Price: $79.99 USD
 - [Windows Server 2022 Datacenter license 16-Core Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2022-datacenter-license-16core): TrustedTech: Microsoft Windows Server 2022 Datacenter 16-Core — secure virtualization and hybrid cloud management. Windows Server 2022 Datacenter license.
-  Updated: 2025-09-02T09:33:07Z
+  Updated: 2025-09-02T22:02:59Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Datacenter
   Availability: Available
@@ -515,35 +515,35 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2022-datacenter-license-blue-retail-box-windows-logo-angled.jpg?v=1756805097
   Price: $379.99 USD
 - [Windows Server 2019 Standard 16 core license OEM - 1PC | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-standard-16-core-license): TrustedTech sells Windows Server 2019 Standard 16 core license - Microsoft OEM: secure, scalable core-based licensing with virtualization and easier management.
-  Updated: 2025-09-02T09:24:58Z
+  Updated: 2025-09-02T21:25:03Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-standard-16-core-license-box-angled-blue-windows-logo.jpg?v=1756805097
   Price: $418.99 USD
 - [Windows Server 2019 Standard 2 Core License - Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-standard-2-core): Buy Windows Server 2019 Standard 2 Core at TrustedTech, Microsoft license featuring security, virtualization, easy management and fast digital delivery.
-  Updated: 2025-09-02T09:25:14Z
+  Updated: 2025-09-02T21:25:19Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-standard-2-core-white-box-blue-windows-logo-angled-shadow.jpg?v=1756805113
   Price: $62.49 USD
 - [Windows Server 2019 Datacenter license - Scalable | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-datacenter-license): TrustedTech offers Windows Server 2019 Datacenter license: scalable enterprise virtualization and security with flexible licensing for modern datacenters.
-  Updated: 2025-09-02T09:24:58Z
+  Updated: 2025-09-02T21:32:33Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Datacenter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-datacenter-license-boxed-angled-white-box-blue-windows-logo.jpg?v=1756805097
   Price: $2,699.99 USD
 - [Windows Server 2019 Datacenter license 2-Core Microsoft | TrustedTech](https://trustedtechteam.digital/products/windows-server-2019-datacenter-license1): TrustedTech sells Windows Server 2019 Datacenter license — 2-core edition with advanced security, unlimited virtualization and scalable enterprise features.
-  Updated: 2025-09-02T09:36:03Z
+  Updated: 2025-09-02T21:46:57Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2019 > Datacenter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2019-datacenter-license-white-box-blue-windows-logo.jpg?v=1756805733
   Price: $338.99 USD
 - [Windows Server 2022 Standard license 16-Core +5 CALs | TrustedTech](https://trustedtechteam.digital/products/ms-windows-server-2022-standard-license): TrustedTech sells Microsoft Windows Server 2022 Standard license - 16-core + 5 CALs for secure virtualization, simplified management, and scalable performance.
-  Updated: 2025-09-02T09:34:37Z
+  Updated: 2025-09-02T21:34:41Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2022 > Standard
   Availability: Available
