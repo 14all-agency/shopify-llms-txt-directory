@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-05-06T14:38:20Z
-- Updated At: 2025-09-03T12:00:27.565Z
+- Updated At: 2025-09-03T20:00:28.097Z
 
 ## Products
 
@@ -63,6 +63,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0914/6951/3081/files/purple-t-shirt.jpg?v=1756826767
     Price: €25.00 EUR
+- [Example Jeans | Test Store](https://mjj0ts-rb.myshopify.com/products/example-pants): Heritage jeans from our store.
+  Updated: 2025-09-03T12:33:38Z
+  Vendor: Acme
+  Product Type: Pants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0914/6951/3081/files/urban-vintage-denimn-on-hangers.jpg?v=1756826769
+  - [28](https://mjj0ts-rb.myshopify.com/products/example-pants?variant=55733590065529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0914/6951/3081/files/fashion-model-walks-down-city-street.jpg?v=1756826769
+    Price: €95.00 EUR
+  - [30](https://mjj0ts-rb.myshopify.com/products/example-pants?variant=55733590098297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0914/6951/3081/files/woman-puts-hand-in-pocket.jpg?v=1756826769
+    Price: €95.00 EUR
+  - [40](https://mjj0ts-rb.myshopify.com/products/example-pants?variant=55733590131065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0914/6951/3081/files/female-fashion-model-poses-in-city-street.jpg?v=1756826769
+    Price: €95.00 EUR
 
 ## Collections
 
