@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-04T12:00:27.654Z
+- Updated At: 2025-09-04T16:00:28.395Z
 
 ## Products
 
@@ -297,7 +297,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_70.png?v=1756897221
   Price: ₹694.00 INR
 - [Plus Size Black Printed Everyday Rayon Kurta- The Plus Size Co.](https://theplussizeco.com/products/black-printed-everyday-rayon-kurta): An everyday staple with our Black Printed Everyday Rayon Kurta. Features rayon fabric and sweetheart neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-04T00:43:25Z
+  Updated: 2025-09-04T14:47:07Z
   Vendor: The Plus Size Co.
   Product Type: Short Kurtas
   Availability: Available
@@ -309,7 +309,7 @@
     Availability: Available
     Price: ₹694.00 INR
   - [10XL](https://theplussizeco.com/products/black-printed-everyday-rayon-kurta?variant=44655810576437)
-    Availability: Available
+    Availability: Not Available
     Price: ₹694.00 INR
 - [Plus Size Indigo Bandhani Printed Everyday Kurta- The Plus Size Co.](https://theplussizeco.com/products/indigo-bandhani-printed-everyday-kurta): Classic bandhani in rich indigo our Indigo Bandhani Printed Everyday Kurta. Features rayon fabric and V neckline. Sizes in XL to 10XL.
   Updated: 2025-08-22T11:52:43Z
@@ -402,7 +402,7 @@
     Availability: Available
     Price: ₹694.00 INR
 - [Plus Size Creme Floral Collared Co-ord Set with Pockets - The Plus Size Co.](https://theplussizeco.com/products/creme-floral-collared-co-ord-set-with-pockets): Soft crème hues meet floral grace with our Creme Floral Collared Co-ord Set with Pockets. Features modal fabric and collar neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-01T07:08:25Z
+  Updated: 2025-09-04T13:16:50Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -504,7 +504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Creamy_Black_Flared_Rayon_Dress_with_Pockets_8.jpg?v=1755686621
   Price: ₹995.00 INR
 - [Black Floral Flared Maxi Dress with Pockets](https://theplussizeco.com/products/black-floral-flared-maxi-dress-with-pockets)
-  Updated: 2025-09-02T23:27:47Z
+  Updated: 2025-09-04T14:37:15Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -573,7 +573,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Yellow_Floral_V-neck_Everyday_Top.png?v=1754473539
   Price: ₹695.00 INR
 - [Plus Size Olive Printed Flared Dress with Pockets- The Plus Size Co.](https://theplussizeco.com/products/olive-printed-flared-dress-with-pockets)
-  Updated: 2025-08-29T01:43:34Z
+  Updated: 2025-09-04T14:37:15Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -668,7 +668,7 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Plus Size Orange Digital Printed Co-ord Set- The Plus Size Co.](https://theplussizeco.com/products/orange-digital-printed-co-ord-set): Brighten your vibe with our Orange Digital Printed Co-ord Set. Features poly satin fabric and v neckline. Paired with Pant. Sizes in XL to 10XL.
-  Updated: 2025-08-29T05:05:41Z
+  Updated: 2025-09-04T14:37:16Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -702,7 +702,7 @@
     Availability: Available
     Price: ₹994.00 INR
 - [Plus Size Deep Wine Abstract Printed Co-ord Set- The Plus Size Co.](https://theplussizeco.com/products/deep-wine-abstract-printed-co-ord-set): Effortless co-ord styling with our Deep Wine Abstract Printed Co-ord Set. Features polyester fabric and mandarin neckline. Paired with pant. Sizes in XL to 10XL.
-  Updated: 2025-09-04T10:06:12Z
+  Updated: 2025-09-04T14:37:16Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -738,7 +738,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_75.png?v=1756900854
   Price: ₹1,194.00 INR
 - [Plus Size Navy Abstract Printed Co-ord Set with Pockets -The Plus Size Co.](https://theplussizeco.com/products/navy-abstract-printed-co-ord-set-with-pockets): Abstract prints meet navy elegance our Navy Abstract Printed Co-ord Set with Pockets. Features polyester fabric and 3/4th sleeves. Sizes in XL to 10XL.
-  Updated: 2025-09-03T06:39:42Z
+  Updated: 2025-09-04T14:37:16Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -759,7 +759,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizePinkFloralCottonSuitSet_1.png?v=1755342864
   Price: ₹1,295.00 INR
 - [Plus Size Soft Charcoal Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/charcoal-printed-cotton-suit-set): Elevate everyday look with our Charcoal Printed Cotton Suit Set. Features cotton fabric and sweetheart neckline. paired with pant and dupatta. sizes in XL to 10XL.
-  Updated: 2025-09-04T01:11:59Z
+  Updated: 2025-09-04T14:43:49Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -787,7 +787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeWhiteStarCo-ordSetwithPockets_2.png?v=1755343670
   Price: ₹1,195.00 INR
 - [So Hearty Collared Co-ord Set with Pockets - The Plus SizeCo](https://theplussizeco.com/products/so-hearty-collared-co-ord-set-with-pockets): Stay effortlessly chic with our So Hearty Collared Co-ord Set with Pockets. Features polyester fabric and collar neckline. Paired with pant. Sizes in XL to 10XL.
-  Updated: 2025-09-04T06:57:30Z
+  Updated: 2025-09-04T15:35:26Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -829,7 +829,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeGreySolidEverydayTop_1.png?v=1755345766
   Price: ₹695.00 INR
 - [Plus Size Peacock Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/peacock-floral-rayon-night-gown-with-pocket-copy): Relax, unwind & dream easy in our Rust Printed Cotton Nighty with Pocket. Features cotton fabric and half sleeves. Sizes in XL to 10XL.
-  Updated: 2025-08-31T18:22:57Z
+  Updated: 2025-09-04T12:10:45Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
