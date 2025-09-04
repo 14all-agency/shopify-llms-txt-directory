@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-03T20:00:53.661Z
+- Updated At: 2025-09-04T00:00:56.366Z
 
 ## Products
 
@@ -6368,7 +6368,7 @@
     Availability: Available
     Price: ‏164.99 ‏₪ ILS
 - [חולצת נבחרת איטליה חוץ 2024/25](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2024-25): חולצת נבחרת איטליה חוץ לשנת 2024/25 בצבע לבן עשויה מ-100% פוליאסטר, המציעה בד קל ונושם למקסימום נוחות במהלך המשחקים. הלוגו הרקום מדגיש את הגאווה הלאומית והסגנון היוקרתי של הנבחרת.
-  Updated: 2025-08-09T05:56:25Z
+  Updated: 2025-09-03T21:49:51Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
