@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-04T00:00:56.366Z
+- Updated At: 2025-09-04T04:00:51.457Z
 
 ## Products
 
