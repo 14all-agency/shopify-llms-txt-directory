@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-04T12:00:51.184Z
+- Updated At: 2025-09-04T16:00:50.784Z
 
 ## Products
 
@@ -35219,7 +35219,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק חטאפה שלישית 24/25 | גברים](https://www.rsport.co.il/products/חולצת-משחק-חטאפה-שלישית-24-25-גברים): חולצת השלישית של חטאפה לעונת 2024/25 עשויה מ-100% פוליאסטר, בד נושם וקל משקל שמנדף זיעה, ומציעה נוחות מקסימלית לאורך כל המשחק והאימון. מושלמת לאוהדים שרוצים לבלוט עם סגנון מיוחד ונוח.
-  Updated: 2025-08-09T08:13:02Z
+  Updated: 2025-09-04T14:48:35Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
