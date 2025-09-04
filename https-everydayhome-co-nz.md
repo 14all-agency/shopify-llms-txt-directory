@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-04T16:00:34.248Z
+- Updated At: 2025-09-04T20:00:35.738Z
 
 ## Products
 
@@ -970,7 +970,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $59.99 NZD
 - [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-08-24T19:22:11Z
+  Updated: 2025-09-04T17:07:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -5197,7 +5197,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022482-158_FLUTEPICTUREFRAME_8X10_CHROME_CC01.jpg?v=1755730968
   Price: $79.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-08-29T00:17:24Z
+  Updated: 2025-09-04T17:07:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
