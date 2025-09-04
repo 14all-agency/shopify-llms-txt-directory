@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-09-03T08:00:27.794Z
+- Updated At: 2025-09-04T00:00:27.749Z
 
 ## Products
 
@@ -717,6 +717,12 @@
     Author: User
   - [Comparing Traditional Versus Modern Snowboards for Different Skill Levels](https://jones-jm.myshopify.com/blogs/news/comparing-traditional-versus-modern-snowboards-for-different-skill-levels): Comparing Traditional Versus Modern Snowboards for Different Skill Levels
     Updated: 2025-09-02T08:05:37Z
+    Author: User
+  - [Solving Snowboarding Issues with Expert Insights](https://jones-jm.myshopify.com/blogs/news/solving-snowboarding-issues-with-expert-insights): Solving Snowboarding Issues with Expert Insights
+    Updated: 2025-09-03T20:30:48Z
+    Author: User
+  - [10 Ways to Make Your Home More Eco-Friendly](https://jones-jm.myshopify.com/blogs/news/10-ways-to-make-your-home-more-eco-friendly): 10 Ways to Make Your Home More Eco-Friendly
+    Updated: 2025-09-03T23:13:05Z
     Author: User
 
 ## Store Pages
