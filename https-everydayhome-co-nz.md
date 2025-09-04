@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-03T20:00:33.726Z
+- Updated At: 2025-09-04T00:00:36.897Z
 
 ## Products
 
@@ -1810,7 +1810,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $479.99 NZD
 - [Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-08-28T03:37:10Z
+  Updated: 2025-09-03T22:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2811,7 +2811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Dishrack-Drying-Mat-Charcoal-UMBRA-0.jpg?v=1731903043
   Price: $44.99 NZD
 - [Udry Drying Rack & Drying Mat - Black](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-black): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-08-28T02:33:06Z
+  Updated: 2025-09-03T21:58:21Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
