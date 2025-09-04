@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-04T08:00:50.225Z
+- Updated At: 2025-09-04T12:00:51.184Z
 
 ## Products
 
@@ -44784,7 +44784,7 @@
   Updated: 2025-08-26T11:18:22Z
   Total Products: 50
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-03T11:17:07Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 317
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-08-26T11:18:22Z
@@ -44856,13 +44856,13 @@
   Updated: 2025-08-05T22:10:25Z
   Total Products: 19
 - [נבחרת ברזיל חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ברזיל): רכוש חולצות כדורגל נבחרת ברזיל – חולצות משחק, אוהדים, חולצות רטרו, חליפות ילדים ועוד במחירים אטרקטיביים ומשלוח מהיר לכל הארץ
-  Updated: 2025-08-05T22:10:25Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
   Updated: 2025-08-31T19:06:38Z
   Total Products: 200
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-08-26T11:18:22Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 150
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
   Updated: 2025-08-26T11:18:22Z
@@ -44874,7 +44874,7 @@
   Updated: 2025-08-26T11:18:22Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
-  Updated: 2025-08-05T22:10:25Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 60
 - [לידס יונייטד](https://www.rsport.co.il/collections/לידס-יונייטד)
   Updated: 2025-08-20T11:19:50Z
@@ -45003,7 +45003,7 @@
   Updated: 2025-08-17T20:37:33Z
   Total Products: 16
 - [חולצות רטרו](https://www.rsport.co.il/collections/חולצות-רטרו)
-  Updated: 2025-09-02T11:19:03Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 204
 - [נבחרות רטרו](https://www.rsport.co.il/collections/נבחרות-רטרו)
   Updated: 2025-08-05T22:10:29Z
@@ -45021,10 +45021,10 @@
   Updated: 2025-08-11T09:15:10Z
   Total Products: 13
 - [אינטר רטרו | חולצות כדורגל רטרו ומוצרי ספורט](https://www.rsport.co.il/collections/אינטר-רטרו): גלה את קולקציית החולצות הרטרו של אינטר מילאנו חולצות כדורגל קלאסיים לאוהדים. חולצות בית וחוץ עם עיצובים נוסטלגיים ומרשימים, דגש על נוחות, איכות וסטייל איטלקי
-  Updated: 2025-08-25T18:43:20Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 11
 - [ליגה איטלקית רטרו](https://www.rsport.co.il/collections/ליגה-איטלקית-רטרו)
-  Updated: 2025-08-29T11:18:24Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 40
 - [יובנטוס רטרו](https://www.rsport.co.il/collections/יובנטוס-רטרו)
   Updated: 2025-08-29T11:18:24Z
@@ -45156,13 +45156,13 @@
   Updated: 2025-09-03T11:17:07Z
   Total Products: 800
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-03T11:17:07Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 240
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-08-05T22:10:33Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-03T11:17:07Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 696
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-01T11:18:24Z
@@ -45246,7 +45246,7 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-03T11:17:07Z
+  Updated: 2025-09-04T11:18:07Z
   Total Products: 2004
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
