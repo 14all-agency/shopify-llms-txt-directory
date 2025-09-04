@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-04T04:00:33.749Z
+- Updated At: 2025-09-04T08:00:35.382Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Shower-Caddy-Black-3.jpg?v=1727660247
   Price: $79.99 NZD
 - [Woodrow Trash Can - Sierra](https://everydayhome.co.nz/products/woodrow-can-7-5l-sierra): Woodrow Can 7.5L Sierra
-  Updated: 2025-08-15T02:20:43Z
+  Updated: 2025-09-04T05:07:11Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -5036,7 +5036,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $17.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-09-02T22:03:55Z
+  Updated: 2025-09-04T04:07:10Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -5312,11 +5312,11 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-03T11:06:44Z
-  Total Products: 1036
+  Updated: 2025-09-04T04:44:39Z
+  Total Products: 1040
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-03T11:06:44Z
-  Total Products: 1036
+  Updated: 2025-09-04T04:44:39Z
+  Total Products: 1040
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-09-03T11:06:44Z
   Total Products: 278
@@ -5624,8 +5624,8 @@
   Updated: 2025-09-03T11:06:44Z
   Total Products: 142
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-09-04T03:50:08Z
-  Total Products: 922
+  Updated: 2025-09-04T04:44:10Z
+  Total Products: 931
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-09-03T11:06:44Z
   Total Products: 22
@@ -5669,11 +5669,11 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-04T03:50:08Z
-  Total Products: 1051
+  Updated: 2025-09-04T04:44:10Z
+  Total Products: 1060
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-09-04T03:50:08Z
-  Total Products: 922
+  Updated: 2025-09-04T04:44:10Z
+  Total Products: 931
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-09-03T11:06:44Z
   Total Products: 34
