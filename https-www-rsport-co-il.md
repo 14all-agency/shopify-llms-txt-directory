@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-05T08:00:53.162Z
+- Updated At: 2025-09-05T12:00:51.451Z
 
 ## Products
 
@@ -24263,7 +24263,7 @@
     Availability: Available
     Price: ‏134.90 ‏₪ ILS
 - [חולצת משחק פנרבחצ'ה בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-פנרבחצה-בית-24-25): חולצת משחק פנרבחצ'ה בית 24/25 בעיצוב קלאסי ומודרני, מושלמת לכל אוהד. עשויה 100% פוליאסטר נושם וקל משקל לשמירה על נוחות וקרירות במהלך פעילויות אינטנסיביות. כוללת לוגו רקום על החולצה ושרוולים קצרים שמתאימים למשחקים ספורטיביים וללבוש יומיומי.
-  Updated: 2025-08-09T07:20:06Z
+  Updated: 2025-09-05T10:27:58Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -26312,7 +26312,7 @@
     Availability: Available
     Price: ‏107.99 ‏₪ ILS
 - [חולצת אימון לבנה נבחרת פורטוגל 2025 | גברים](https://www.rsport.co.il/products/חולצת-אימון-לבנה-נבחרת-פורטוגל-2025-גברים): חולצת אימון בעיצוב החדש של נבחרת פורטוגל לשנת 2025. עשויה מ-100% פוליאסטר נושם עם טכנולוגיית נידוף זיעה, לנוחות מרבית בזמן אימון, ריצה או פעילות יומיומית. מתאימה לאוהדים שרוצים להרגיש חלק מהנבחרת גם מחוץ למגרש.
-  Updated: 2025-08-09T07:28:33Z
+  Updated: 2025-09-05T08:20:23Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -44778,7 +44778,7 @@
   Updated: 2025-09-01T11:18:24Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-03T11:17:07Z
+  Updated: 2025-09-05T11:17:54Z
   Total Products: 910
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-08-26T11:18:22Z
@@ -45087,7 +45087,7 @@
   Updated: 2025-08-25T18:44:58Z
   Total Products: 13
 - [ליגה ברזילאית](https://www.rsport.co.il/collections/ליגה-ברזילאית): .br-text-container { position: relative; font-family: 'Heebo', Arial, sans-serif; text-align: right; direction: rtl; margin: 0; } .br-text-content { display: block; } .br-text-toggle { display: none; color: #007aff; cursor: pointer; font-weight: bold; margin-top: 8px; } @media (max-width: 768px) { .br-text-content { max-height: 4.8em; /* בערך 3 שורות */ overflow: hidden; position: relative; } .br-text-container.expanded .br-text-content { max-height: none; } .br-text-toggle { display: inline-block; } } הליגה הברזילאית היא הלב הפועם של הכדורגל הדרום אמריקאי השחקנים הקהל האווירה והסטייל שמתחילים מהרחוב ומגיעים עד ליציעים כאן תמצאו חולצות כדורגל של הקבוצות הכי חמות הכי צבעוניות והכי אהובות בברזיל חולצות בית חוץ ושלישית שעוצבו בשביל אוהדים אמיתיים שחיים ונושמים כדורגל מועדונים כמו פלמנגו סאו פאולו פלומיננסה קורינתיאנס גרמיו אינטרנסיונל אתלטיקו מיניירו ואחרות כל חולצה מביאה איתה סיפור תשוקה ומסורת שנותנת לך להרגיש חלק ממשהו גדול חלק ממועדון חלק מהקהל כל צבע וכל סמל שייך לתרבות אמיתית שזורמת בכדורגל הברזילאי אין דבר שדומה לזה ואין תחליף לרגש הזה אם הכדורגל הברזילאי מדבר אליך תלבש את זה תרגיש את זה ותהיה חלק מהקסם הצג עוד const container = document.getElementById("brTextContainer"); const toggle = document.getElementById("brTextToggle"); toggle.addEventListener("click", function () { container.classList.toggle("expanded"); toggle.textContent = container.classList.contains("expanded") ? "הצג פחות" : "הצג עוד"; });
-  Updated: 2025-08-11T10:40:09Z
+  Updated: 2025-09-05T11:17:54Z
   Total Products: 111
 - [פלמנגו](https://www.rsport.co.il/collections/פלמנגו): פלמנגו היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה חסרת גבולות. עם קהל עצום ונאמן ורגעים בלתי נשכחים בליגה המקומית, Flamengo מייצגת גאווה ועוצמה בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של פלמנגו, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את האדום והשחור הגעת למקום הנכון.
   Updated: 2025-08-05T22:10:32Z
@@ -45153,16 +45153,16 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 34
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-03T11:17:07Z
+  Updated: 2025-09-05T11:17:54Z
   Total Products: 800
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-09-04T11:18:07Z
   Total Products: 240
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
-  Updated: 2025-08-05T22:10:33Z
+  Updated: 2025-09-05T11:17:54Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-04T11:18:07Z
+  Updated: 2025-09-05T11:17:54Z
   Total Products: 696
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-01T11:18:24Z
@@ -45246,7 +45246,7 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-04T11:18:07Z
+  Updated: 2025-09-05T11:17:54Z
   Total Products: 2004
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
