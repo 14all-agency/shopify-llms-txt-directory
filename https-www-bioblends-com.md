@@ -6,26 +6,26 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-09-05T04:00:27.800Z
+- Updated At: 2025-09-05T08:00:27.796Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-09-05T03:45:37Z
+  Updated: 2025-09-05T07:06:20Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Liver1_12dd3dd9-6f54-456a-a8f7-d856585cbfd9.jpg?v=1746054864
   Price: $69.95 NZD
 - [Cycle Essentials](https://www.bioblends.com/products/cycle-essentials): Cycle Essentials harnesses a potent blend of foods and botanicals (medicinal herbs) to support healthy progesterone production, easing challenges that can come with monthly hormonal shifts as well as those that can arise during perimenopause, fostering a smoother transition across this time. It is renown for reducing cycle-related anxiousness and mood lows, as well as bloating and fluid retention. This formula supports robust adrenal function for a milder stress response and aids in decreasing sweet cravings.
-  Updated: 2025-09-05T03:41:11Z
+  Updated: 2025-09-05T07:26:21Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-09-05T03:41:10Z
+  Updated: 2025-09-05T07:26:21Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -39,14 +39,14 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Zinc1_e04ac993-ab63-4327-a19a-93f8948ebf9e.jpg?v=1743047450
   Price: $59.95 NZD
 - [Calm Restore](https://www.bioblends.com/products/calm-restore): Calm Restore offers relief for a busy mind, and from both acute and chronic stress. You can use it during the day to help calm anxious feelings or use it at night for better sleep quality. It’s a natural, non-drowsy formula designed to soothe your nervous system and ease tension, containing a blend of five highly effective botanicals — magnolia, zizyphus, lemon balm, chamomile, and withania. They work synergistically to reduce anxious feelings, alleviate irritability and promote a deep sense of calm. It's perfect for anyone feeling 'tired but wired' or struggling to unwind.
-  Updated: 2025-09-05T02:39:59Z
+  Updated: 2025-09-05T07:26:20Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Calm1_7b0e0aae-4d7f-4a50-9d27-a4ece69051c6.jpg?v=1743047442
   Price: $69.95 NZD
 - [Meno Ease](https://www.bioblends.com/products/meno-magic): Meno Ease is for those seeking relief from hormone-related symptoms once menstruation has ceased or become highly irregular (such as three periods per year). Perimenopause has three stages, the last of which is the lead up to menopause, which is the 12 month anniversary of your last period. In this last stage of perimenopause as well as post-menopause, estrogen is low and ovulation has ceased, meaning progesterone is also low (only the adrenal production remains). Some women cruise through the menopausal transition while others suffer mildly or in a debilitating way.&nbsp;
-  Updated: 2025-09-04T02:27:20Z
+  Updated: 2025-09-05T07:06:20Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-09-05T03:45:40Z
+  Updated: 2025-09-05T07:06:25Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
