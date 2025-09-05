@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-09-04T00:00:27.749Z
+- Updated At: 2025-09-05T00:00:28.131Z
 
 ## Products
 
@@ -723,6 +723,12 @@
     Author: User
   - [10 Ways to Make Your Home More Eco-Friendly](https://jones-jm.myshopify.com/blogs/news/10-ways-to-make-your-home-more-eco-friendly): 10 Ways to Make Your Home More Eco-Friendly
     Updated: 2025-09-03T23:13:05Z
+    Author: User
+  - [The Science Behind Snowboards Understanding Their Impact on Your Ride](https://jones-jm.myshopify.com/blogs/news/the-science-behind-snowboards-understanding-their-impact-on-your-ride): The Science Behind Snowboards Understanding Their Impact on Your Ride
+    Updated: 2025-09-04T01:14:14Z
+    Author: User
+  - [A Beginner's Guide to a Sustainable Lifestyle](https://jones-jm.myshopify.com/blogs/news/a-beginners-guide-to-a-sustainable-lifestyle): A Beginner's Guide to a Sustainable Lifestyle
+    Updated: 2025-09-04T01:14:31Z
     Author: User
 
 ## Store Pages
