@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-05T00:00:34.424Z
+- Updated At: 2025-09-05T04:00:33.949Z
 
 ## Products
 
@@ -116,33 +116,33 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Otto-Auto-Soap-Dispenser-White-Grey-6.jpg?v=1727659760
   Price: $64.99 NZD
 - [Swivo Coffee Table - Light Walnut](https://everydayhome.co.nz/products/swivo-coffee-table-light-walnut): Swivo Coffee Table, Light Walnut
-  Updated: 2025-08-12T16:06:39Z
+  Updated: 2025-09-05T03:41:43Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Swivo-Coffee-Table-Light-Walnut-3.png?v=1727660253
-  Price: $249.95 NZD
+  Price: $149.99 NZD
 - [Swivo Coffee Table - Natural](https://everydayhome.co.nz/products/swivo-coffee-table-natural): Swivo Coffee Table, Natural
-  Updated: 2025-08-12T16:06:41Z
+  Updated: 2025-09-05T03:41:43Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Swivo-Coffee-Table-Natural-8.jpg?v=1727659475
-  Price: $249.95 NZD
+  Price: $149.99 NZD
 - [Bellwood Freestand Shelf 3 Tier  - Black/Walnut](https://everydayhome.co.nz/products/bellwood-freestand-shelf-3-tier-black-walnut): Bellwood Freestand Shelf 3 Tier Black/Walnut
-  Updated: 2025-08-12T16:06:34Z
+  Updated: 2025-09-05T03:41:42Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-3-Tier-Black-Walnut-2.jpg?v=1727660047
-  Price: $299.99 NZD
+  Price: $184.99 NZD
 - [Bellwood Freestand Shelf 3 Tier - White/Natural](https://everydayhome.co.nz/products/bellwood-freestand-shelf-3-tier-wht-nat): Bellwood Freestand Shelf 3 Tier Wht/Nat
-  Updated: 2025-08-12T16:06:39Z
+  Updated: 2025-09-05T03:41:41Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-3-Tier-White-Natura-7.jpg?v=1727659316
-  Price: $299.99 NZD
+  Price: $184.90 NZD
 - [Bellwood Wall Shelf - White/Natural](https://everydayhome.co.nz/products/bellwood-wall-shelf-wht-nat): Bellwood Wall Shelf  Wht/Nat
   Updated: 2025-08-12T16:06:37Z
   Vendor: UMBRA
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-5-Hook-White-4.jpg?v=1727659224
   Price: $69.99 NZD
 - [Glam Hair Tool Organiser - White/Charcoal](https://everydayhome.co.nz/products/glam-hair-tool-organiser-white-charcoal): Glam Hair Tool Organiser, White/Charcoal
-  Updated: 2025-09-04T23:23:08Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -207,12 +207,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Arched-Leaning-Mirror-Titanium-8.jpg?v=1727659437
   Price: $359.99 NZD
 - [Bellwood Coffee Table - Natural](https://everydayhome.co.nz/products/bellwood-coffe-table-natural): Bellwood Coffe Table, Natural
-  Updated: 2025-08-12T16:06:40Z
+  Updated: 2025-09-05T03:41:41Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Coffee-Table-Natural-3.jpg?v=1727659754
-  Price: $649.99 NZD
+  Price: $359.99 NZD
 - [Montage Shelf - Natural](https://everydayhome.co.nz/products/montage-shelf-natural): Montage Shelf, Natural
   Updated: 2025-09-01T03:52:11Z
   Vendor: UMBRA
@@ -921,19 +921,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flapper-Coat-Rack-White-Natural-8.jpg?v=1727658923
   Price: $399.99 NZD
 - [Bellwood Freestand Shelf - Black/Walnut](https://everydayhome.co.nz/products/bellwood-freestand-shelf-5-tier-blk-wal): Both decorative and versatile, Bellwood Freestand Shelf can be used in a variety of rooms to showcase decor and/or store your items. Easy to assemble, it features real wood accents and integrated handles, making it easy to move around. Bellwood is a modern and versatile freestanding shelf, with five tiers for storage, decor, plants and more. It can be used in your living room, home office, bedroom, bathroom and more
-  Updated: 2025-08-12T16:53:09Z
+  Updated: 2025-09-05T03:41:40Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-Black-Walnut-3.jpg?v=1727658793
-  Price: $449.99 NZD
+  Price: $259.99 NZD
 - [Bellwood Freestand Shelf - White/Natural](https://everydayhome.co.nz/products/bellwood-freestand-shelf-5-tier-wht-nat): Both decorative and versatile, Bellwood Freestand Shelf can be used in a variety of rooms to showcase decor and/or store your items. Easy to assemble, it features real wood accents and integrated handles, making it easy to move around. Bellwood is a modern and versatile freestanding shelf, with five tiers for storage, decor, plants and more. It can be used in your living room, home office, bedroom, bathroom and more
-  Updated: 2025-08-12T16:53:09Z
+  Updated: 2025-09-05T03:41:39Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-White-Natural-4.jpg?v=1727658613
-  Price: $449.99 NZD
+  Price: $259.99 NZD
 - [Wobble Chess Set - Walnut](https://everydayhome.co.nz/products/wobble-chess-set-walnut): Get ready for a chess set like no other! Introducing the Wobble Chess Set - the perfect combination of classic and modern. With its concave landscape, this set brings a whole new level of excitement to the game. The freely quivering chess pieces add a lively interaction between the board and the pieces. It's the ultimate showpiece for your living room!
   Updated: 2025-08-25T23:52:11Z
   Vendor: UMBRA
@@ -970,12 +970,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bird-Cafe-Grey-8.jpg?v=1727660328
   Price: $79.99 NZD
 - [Stream Water Fountain - Grey](https://everydayhome.co.nz/products/stream-water-fountain-grey): USB-powered, Stream makes a great addition to your desk space, counter, entryway and more; providing an aesthetic and relaxing way to integrate decor into your space; also doubles as a great gift for any wellness lover.
-  Updated: 2025-08-12T16:44:24Z
+  Updated: 2025-09-05T03:41:39Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Stream-Water-Fountain-Grey-8.jpg?v=1727659011
-  Price: $89.99 NZD
+  Price: $34.99 NZD
 - [Slip Shoe Horn - Aluminium](https://everydayhome.co.nz/products/slip-shoe-horn-aluminium-matte): Ease on your shoes with this stylish and elegant slip shoehorn. The Slip long handle shoe horn is the solution to end the common struggle of slipping on shoes; but with a modern twist.
   Updated: 2025-08-25T23:52:10Z
   Vendor: UMBRA
@@ -991,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Dotsy-7-Hook-White-Natural-9.jpg?v=1727658893
   Price: $59.99 NZD
 - [Picket 5 Hook - Natural](https://everydayhome.co.nz/products/picket-5-hook-natural): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-08-28T02:37:10Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1012,7 +1012,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Skyline-Multi-Hook-Black-8.jpg?v=1727658777
   Price: $54.99 NZD
 - [Sticks Multi Hook - Black](https://everydayhome.co.nz/products/sticks-multi-hook-black): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-08-25T23:52:11Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1075,12 +1075,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-8-Hook-White-6.jpg?v=1727660385
   Price: $119.99 NZD
 - [Hub Wall Mirror (94cm) - Grey](https://everydayhome.co.nz/products/rd-hub-wall-mirror-94cm-grey): Hub Wall Mirror is the perfect wall decor for heavily trafficked areas like entryways and washrooms. Its rubber rim makes it more durable than most other mirrors while providing a modern, industrialized look. This decorative mirror is a great solution because it helps bounce light around your room, making space appear larger and brighter.
-  Updated: 2025-08-12T16:49:06Z
+  Updated: 2025-09-05T03:41:38Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hub-Wall-Mirror-Grey-8.jpg?v=1727659727
-  Price: $89.95 NZD
+  Price: $99.99 NZD
 - [Woodrow Storage Stool - White/Natural](https://everydayhome.co.nz/products/woodrow-storage-stool-white-natural): Woodrow is a contemporary and sleek take on the typical ottoman with its beautiful, natural wood finish and geometric shape. Its lid functions as both a tabletop or a seat, and its integrated handles make it easy to move around the house.
   Updated: 2025-08-12T16:53:09Z
   Vendor: UMBRA
@@ -1096,19 +1096,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Lazy-Susan-White-Natural-8.jpg?v=1727659106
   Price: $79.99 NZD
 - [Bellwood Side Table - Natural](https://everydayhome.co.nz/products/bellwood-side-table-natural): With soft bent-wood legs and two open tiers, Bellwood brings a warm and airy touch to your living room, bedroom or entryway. This versatile side table seamlessly accompanies your space to provide multipurpose storage. Its two tiers allow you to store plants, decor, remotes and more.
-  Updated: 2025-08-12T16:53:10Z
+  Updated: 2025-09-05T03:41:37Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Side-Table-Natural-5.jpg?v=1727660369
-  Price: $349.99 NZD
+  Price: $194.99 NZD
 - [Bellwood Coffee Table - Aged Walnut](https://everydayhome.co.nz/products/bellwood-coffee-table-aged-walnut): With soft bent-wood legs and two open tiers, Bellwood brings a warm and airy touch to your living room, bedroom or entryway. This versatile coffee table seamlessly accompanies your space to provide multipurpose storage. Its two tiers allow you to store plants, decor, remotes and more.
-  Updated: 2025-08-12T16:53:08Z
+  Updated: 2025-09-05T03:41:37Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Coffee-Table-Aged-Walnut-5.jpg?v=1727659765
-  Price: $649.99 NZD
+  Price: $359.99 NZD
 - [Bellwood Storage Table - Black/Walnut](https://everydayhome.co.nz/products/bellwood-storage-table-black-walnut): A modern solution for messy cables and storage, Bellwood storage side table is both a side table and cable management in one. Made of metal and wood, this side table can be used in any space to provide both multi-purposeful and sophisticated storage. Its tabletop provides the perfect spot for your device or a glass of wine, while its underneath storage container works great for cables or larger items like blankets or books
   Updated: 2025-08-25T23:52:11Z
   Vendor: UMBRA
@@ -1131,19 +1131,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Leaning-Mirror-Natural-3.jpg?v=1727660168
   Price: $479.99 NZD
 - [Madera Coffee Table - Black](https://everydayhome.co.nz/products/madera-coffee-table-black): Experience sleek and sustainable furniture design with Umbra. This modern coffee table provides convenience and quality with its easy assembly and renewable wood construction Expertly crafted with sustainability in mind, Umbra's Madera Coffee Table boasts an effortless assembly process and renewable wood construction. Elevate your space with sleek, eco-friendly design.
-  Updated: 2025-08-12T16:53:07Z
+  Updated: 2025-09-05T03:41:36Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Madera-Coffee-Table-Black-0.png?v=1727658674
-  Price: $689.99 NZD
+  Price: $394.99 NZD
 - [Madera Coffee Table - Natural](https://everydayhome.co.nz/products/madera-coffee-table-natural): Experience sleek and sustainable furniture design with Umbra. This modern coffee table provides convenience and quality with its easy assembly and renewable wood construction Expertly crafted with sustainability in mind, Umbra's Madera Coffee Table boasts an effortless assembly process and renewable wood construction. Elevate your space with sleek, eco-friendly design.
-  Updated: 2025-08-12T16:53:07Z
+  Updated: 2025-09-05T03:41:36Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Madera-Coffee-Table-Natural-8.jpg?v=1727660338
-  Price: $689.99 NZD
+  Price: $394.99 NZD
 - [Brabantia Bo Pedal Bin - 11 + 23L White](https://everydayhome.co.nz/products/bo-pedal-bin-11-23l-white): Looking for a beautiful solution for waste separation? This 23 + 11 litre Brabantia Bo Pedal Bin has all you need to easily separate waste at home. Like two removable inner buckets, a space-saving design and a protective non-skid base to keep it steady. It opens hygienically with the lightest tap of your foot and, because of the clever hinge design, the lid closes slowly. Your perfect bin!
   Updated: 2025-08-15T15:32:03Z
   Vendor: BRABANTIA
@@ -1229,26 +1229,26 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-Hi-60L-Matt-Black-8.png?v=1727659377
   Price: $599.95 NZD
 - [Brabantia Nic Bread Bin - Medium Dark Grey](https://everydayhome.co.nz/products/nic-bread-bin-dark-grey): Whether you’re feasting with your family or having a quiet meal by yourself: the Brabantia Nic Bread Bin makes setting the table a picnic, thanks to its easy carrying grip. It has a pretty bamboo lid, and a convenient carrying handle to take this cutie right from your counter to table. This beauty of a bread bin fits two loaves, and the ribbed base helps ventilation underneath. Easy in the kitchen, great on the table!
-  Updated: 2025-08-20T17:07:12Z
+  Updated: 2025-09-05T03:41:35Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Nic-Bread-Bin-Dark-Grey-2.png?v=1727658658
-  Price: $159.95 NZD
+  Price: $89.99 NZD
 - [Brabantia Nic Bread Bin - Medium Light Grey](https://everydayhome.co.nz/products/nic-bread-bin-light-grey): Whether you’re feasting with your family or having a quiet meal by yourself: the Brabantia Nic Bread Bin makes setting the table a picnic, thanks to its easy carrying grip. It has a pretty bamboo lid, and a convenient carrying handle to take this cutie right from your counter to table. This beauty of a bread bin fits two loaves, and the ribbed base helps ventilation underneath. Easy in the kitchen, great on the table!
-  Updated: 2025-08-31T06:37:10Z
+  Updated: 2025-09-05T03:41:35Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Nic-Bread-Bin-Light-Grey-9.png?v=1727660164
-  Price: $159.95 NZD
+  Price: $89.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium Platinum](https://everydayhome.co.nz/products/fall-front-bread-bin-platinum): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-08-15T15:43:03Z
+  Updated: 2025-09-05T03:41:34Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Platinum-4.png?v=1727659786
-  Price: $149.95 NZD
+  Price: $79.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium White](https://everydayhome.co.nz/products/fall-front-bread-bin-white): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
   Updated: 2025-08-24T22:07:06Z
   Vendor: BRABANTIA
@@ -1264,19 +1264,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Medium-Brilliant-Stee-0.png?v=1727658726
   Price: $149.95 NZD
 - [Brabantia Fall Front Bread Bin - Medium Matt Black](https://everydayhome.co.nz/products/fall-front-bread-bin-matt-black): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-08-24T23:37:05Z
+  Updated: 2025-09-05T00:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Matt-Black-5.png?v=1727660185
   Price: $149.95 NZD
 - [Brabantia Roll Top Bread Bin - Small Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-medium-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This compact and classy bread bin happily holds up to one loaf or anything else you want to store, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-08-15T13:24:34Z
+  Updated: 2025-09-05T03:41:34Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Small-Matt-Steel-7.png?v=1727659946
-  Price: $129.95 NZD
+  Price: $64.99 NZD
 - [Brabantia Roll Top Bread Bin - Medium Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
   Updated: 2025-09-04T20:38:23Z
   Vendor: BRABANTIA
@@ -1537,33 +1537,33 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chairs-Grey-Set-of-4-1_a576cdf5-35c3-4bee-aa31-337385321e91.jpg?v=1731547593
   Price: $399.99 NZD
 - [Anolon X SearTech - 10 Piece Cookware Set](https://everydayhome.co.nz/products/ano-x-s-tech-ns-10pc-cookware-set): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 10 piece cookware set features an ultra-durable, PFOA-free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet. Metal utensil safe, oven safe to 260°C degrees for the perfect finish, and dishwasher safe for the easiest cleanup.
-  Updated: 2025-08-12T16:39:56Z
+  Updated: 2025-09-05T03:41:33Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-10-Piece-Cookware-Set-Anolon-2.jpg?v=1731902137
-  Price: $499.99 NZD
+  Price: $549.99 NZD
 - [Anolon X SearTech - 18Cm/2.8L Covered Saucepan](https://everydayhome.co.nz/products/ano-x-s-tech-ns-18cm-2-8l-cov-saucepan): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 18cm/2.8L covered saucepan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-08-12T16:39:55Z
+  Updated: 2025-09-05T03:41:33Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-18Cm-2-8L-Covered-Saucepan-Anolo-8.jpg?v=1731902164
-  Price: $89.99 NZD
+  Price: $104.99 NZD
 - [Anolon X SearTech - 20Cm/2.4L Saucier](https://everydayhome.co.nz/products/ano-x-s-tech-ns-20cm-2-4l-saucier): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 20cm/2.4L covered saucier features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-02T22:03:56Z
+  Updated: 2025-09-05T03:41:32Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-20Cm-2-4L-Saucier-Anolon-8.jpg?v=1731902727
-  Price: $89.99 NZD
+  Price: $104.99 NZD
 - [Anolon X SearTech - 21cm Open French Skillet](https://everydayhome.co.nz/products/ano-x-s-tech-ns-21cm-open-french-skillet): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 21cm frying pan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-02T22:03:56Z
+  Updated: 2025-09-05T03:41:32Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-21cm-Open-French-Skillet-Anolon-9.jpg?v=1731901879
-  Price: $49.99 NZD
+  Price: $54.99 NZD
 - [Anolon X SearTech - 24Cm/3.8L Covered Casserole](https://everydayhome.co.nz/products/ano-x-s-tech-ns-24cm-3-8l-cov-casserole): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 24cm/3.8L covered casserole features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
   Updated: 2025-09-02T22:03:55Z
   Vendor: Anolon
@@ -1572,19 +1572,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-24Cm-3-8L-Covered-Casserole-Anol-8.jpg?v=1731902442
   Price: $99.99 NZD
 - [Anolon X SearTech - 25cm Covered Stirfry](https://everydayhome.co.nz/products/ano-x-s-tech-ns-25cm-covered-stirfry): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 25cm covered stirfry features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-08-22T17:07:11Z
+  Updated: 2025-09-05T03:41:31Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-25cm-Covered-Stirfry-Anolon-7.jpg?v=1731902040
-  Price: $89.99 NZD
+  Price: $99.99 NZD
 - [Anolon X SearTech - 25cm Open French Skillet](https://everydayhome.co.nz/products/ano-x-s-tech-ns-25cm-open-french-skillet): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 25cm frying pan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-08-12T16:39:51Z
+  Updated: 2025-09-05T03:41:31Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-25cm-Open-French-Skillet-Anolon-1.jpg?v=1731902300
-  Price: $69.99 NZD
+  Price: $79.99 NZD
 - [Anolon Accessories - Large Roaster](https://everydayhome.co.nz/products/anolon-accessories-large-roaster-38-x-28-x-6cm): Awaken your inner chef with the heavy duty cast aluminium Anolon non-stick roaster. Featuring premium quality non-stick and a cast aluminium construction, this roaster offers exceptional durability and performance to ensure you get the best results in the kitchen. This large roaster offers a generous size to fit larger cuts of meat with plenty of room for vegetables, or to do a full tray of roast vegetables.
   Updated: 2025-08-15T02:20:39Z
   Vendor: Anolon
@@ -1803,7 +1803,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $479.99 NZD
 - [Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-09-03T22:37:10Z
+  Updated: 2025-09-05T00:22:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1831,18 +1831,11 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Chess-Set-Natural-UMBRA-0.jpg?v=1731903504
   Price: $369.99 NZD
 - [Buddy Hook (Set 3) - Assorted Grey](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted-grey): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-08-19T00:22:10Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
-  Price: $39.99 NZD
-- [Buddy Hook (Set 3) - Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-09-01T07:37:11Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Black-UMBRA-7.jpg?v=1731902493
   Price: $39.99 NZD
 - [Buddy Hook (Set 3) - Multi Colour Lite](https://everydayhome.co.nz/products/buddy-hook-set-3-multi-colour-lite): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
   Updated: 2025-08-12T16:53:06Z
@@ -1852,7 +1845,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Multi-Colour-Lite-UMBRA-2.jpg?v=1731901823
   Price: $39.99 NZD
 - [Buddy Hook (Set 3) - White](https://everydayhome.co.nz/products/buddy-hook-set-3-white): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-08-26T04:22:06Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1866,7 +1859,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Napkin-Holder-Black-UMBRA-1.jpg?v=1731902807
   Price: $27.99 NZD
 - [Buddy OTD Double Hook - Black](https://everydayhome.co.nz/products/buddy-otd-double-hook-black): Buddy Over-the-Door Double Hook features Umbra’s signature buddy figurine, this time as an over the door hook, great for storing belonging like hats, scarves, coats and purses. This decorative piece has a more active look then your typical hook, since buddy looks like he’s in motion.
-  Updated: 2025-08-19T00:22:10Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -1901,19 +1894,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cappa-Toilet-Paper-Stand-Nickel-UMBRA-4.jpg?v=1731902580
   Price: $69.99 NZD
 - [Circulon SteelShield C-Series - 10 Piece Set with Bonus Tools](https://everydayhome.co.nz/products/circ-c-s-shld-10pc-set-with-bonus-tools): The best thing since non-stick, Circulon SteelShield™ gives you the best of both worlds. This stunning all-in-one 10 piece pan set, complete with lids, allows you to cook from scratch – without the scratches. Featuring hybrid non-stick, Circulon’s steel peaks protect the non-stick grooves, so you don’t have to worry about scratched non-stick. Our tri-ply clad stainless steel non-stick saucepan set has been engineered for fearless cooks. It's time to get bold in the kitchen.
-  Updated: 2025-08-12T16:39:45Z
+  Updated: 2025-09-05T03:41:30Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-10-Piece-Set-with-Bo-3.jpg?v=1731902150
-  Price: $599.99 NZD
+  Price: $489.99 NZD
 - [Circulon SteelShield C-Series - 26cm/7.6L Covered Stockpot](https://everydayhome.co.nz/products/circ-c-s-shld-26cm-7-6l-covered-stockpot): Circulon SteelShield™ hybrid non-stick & stainless steel gives you the best of both worlds. Our 26cm stainless steel non-stick stockpot with lid allows you to cook from scratch effortlessly – without the scratches. Circulon’s steel peaks protect the non-stick grooves, so you don’t have to worry about scratched non-stick. Engineered for fearless cooks – cook up a storm in our tri-ply clad stainless steel non-stick stockpot.
-  Updated: 2025-08-12T16:39:45Z
+  Updated: 2025-09-05T03:41:30Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-26cm-7-6L-Covered-St-9.jpg?v=1731902452
-  Price: $129.99 NZD
+  Price: $164.99 NZD
 - [Circulon SteelShield C-Series - 32cm Open Stirfry](https://everydayhome.co.nz/products/circ-c-s-shld-32cm-open-stirfry): The best thing since nonstick. Circulon SteelShield™ gives you the best of both worlds. This stunning 32cm stirfry with helper handle allows you to cook from scratch – without the scratches. Featuring hybrid nonstick, Circulon’s steel peaks protect the nonstick grooves, so you don’t have to worry about scratched nonstick. Our tri-ply clad stainless steel nonstick stirfry has been engineered for fearless cooks. It’s time to get bold in the kitchen.
   Updated: 2025-08-12T16:39:44Z
   Vendor: Circulon
@@ -1971,7 +1964,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-28cm-4-7L-Covered-Saute-7.jpg?v=1731902661
   Price: $299.99 NZD
 - [Circulon Scratchdefense A1 - 30.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-30-4cm-open-skillet): Discover culinary excellence with the Circulon Open Skillet in 30.4cm. This premium skillet is your key to exceptional cooking. Its versatile size makes it perfect for searing succulent steaks, sautéing fresh veggies, and whipping up delightful omelettes. Crafted for even heat distribution, it ensures every dish is a masterpiece.
-  Updated: 2025-08-17T02:22:10Z
+  Updated: 2025-09-05T02:22:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2027,40 +2020,40 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Droplet-Soap-Dish-Clear-UMBRA-7.jpg?v=1731902077
   Price: $19.99 NZD
 - [Essteele Glass Ceramic Nonstick - 3.9L Covered Casserole](https://everydayhome.co.nz/products/esst-glass-ovenware-ceramic-ns-covered-oval-casserole-37x22cm): At the heart of this collection is the Essteele Ceramic Covered Casserole Dish, a masterpiece that promises to elevate your culinary creations to new heights. With a generous 3.9L base and an additional 1.9L capacity in the lid, this casserole dish is tailor-made for slow-cooked stews, braised dishes, and more. Its nonstick surface ensures easy food release and quick cleaning, while an elegant design suits all occasions. The 4-layer ceramic coating and borosilicate glass offer durability in extreme temperatures.
-  Updated: 2025-09-02T22:03:56Z
+  Updated: 2025-09-05T03:41:29Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Glass-Ceramic-Nonstick-3-9L-Covered-Casse-0.jpg?v=1731902091
-  Price: $89.99 NZD
+  Price: $94.99 NZD
 - [Essteele Glass Ceramic Nonstick - 3.5L Large Oval Dish](https://everydayhome.co.nz/products/esst-glass-ovenware-ceramic-ns-large-oval-dish-39x27x6-6cm): Essteele's Ceramic Large Oval Dish, with a 3.5L capacity, is your go-to for family-sized roasts, casseroles and more. Precision-crafted ceramic ensures even heat distribution. Its nonstick surface guarantees easy food release, while an elegant design adds sophistication. The 4-layer ceramic coating and borosilicate glass offer durability in extreme temperatures.
-  Updated: 2025-08-12T16:39:40Z
+  Updated: 2025-09-05T03:41:29Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Glass-Ceramic-Nonstick-3-5L-Large-Oval-Di-0.jpg?v=1731903006
-  Price: $39.99 NZD
+  Price: $44.99 NZD
 - [Essteele Glass-Ceramic Nonstick - 3.2L Large Rectangular Dish](https://everydayhome.co.nz/products/esst-glass-ovenware-ceramic-ns-large-rect-dish-39x24x6-5cm): Introducing the Essteele Ceramic Large Rectangle Dish, a culinary essential that promises to transform your kitchen experience. Measuring an impressive 39cm x 24cm x 6.5cm, this dish offers a generous capacity for your culinary creations. Precision-crafted from high-quality ceramic ensures even cooking every time. Its nonstick surface simplifies food release and cleanup, saving you time. With a 4-layer ceramic coating and borosilicate glass, it handles extreme temperatures.
-  Updated: 2025-08-12T16:39:39Z
+  Updated: 2025-09-05T03:41:28Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Glass-Ceramic-Nonstick-3-2L-Large-Rectang-9.jpg?v=1731901747
-  Price: $39.99 NZD
+  Price: $44.99 NZD
 - [Essteele Glass Ceramic Nonstick - 1.9L Medium Oval Dish](https://everydayhome.co.nz/products/esst-glass-ovenware-ceramic-ns-medium-oval-dish-30x21x6-3cm): Crafted from borosilicate glass, coated in premium ceramic nonstick, our ovenware brings a stylish, versatile and durable collection to the Essteele kitchen. The Glass Ceramic range promotes eco-friendliness, thanks to the pure water-based ceramic coating. It's not just cookware; it's a statement of sustainability and wellness. Elevate your culinary experience with the Essteele Glass Ceramic Range Medium Oval Dish (1.9L). Its premium 4-layer ceramic nonstick coating ensures long-lasting performance and easy food release. With rust-free baking and thermal heat preservation, this dish is designed to last and keep your food warm at the table.
-  Updated: 2025-08-12T16:39:39Z
+  Updated: 2025-09-05T03:41:28Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Glass-Ceramic-Nonstick-1-9L-Medium-Oval-D-7.jpg?v=1731902770
-  Price: $29.99 NZD
+  Price: $34.99 NZD
 - [Essteele Glass Ceramic Nonstick - 2.3L Medium Rectangular Dish](https://everydayhome.co.nz/products/esst-glass-ovenware-ceramic-ns-medium-rect-dish-35x22x5-5cm): Introducing the Essteele Ceramic Medium Rectangle Dish, a precision-crafted culinary essential with a 2.3L capacity. Its premium ceramic ensures even cooking and heat retention, while the elegant design transitions from oven to table seamlessly. Whether you're baking, roasting, or gratinating, this versatile dish delivers superior results every time. The nonstick surface simplifies food release and cleanup, saving you time. With a 4-layer ceramic coating and borosilicate glass, it handles extreme temperatures.
-  Updated: 2025-08-12T16:39:37Z
+  Updated: 2025-09-05T03:41:27Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Glass-Ceramic-Nonstick-2-3L-Medium-Rectan-3.jpg?v=1731902436
-  Price: $39.99 NZD
+  Price: $44.99 NZD
 - [Essteele Stainless Steel Stovetop Kettle 1.9L Silver](https://everydayhome.co.nz/products/essteele-1-9l-ss-kettle): Made with exceptional quality stainless steel that ensures strength and a lustrous, elegant shine. The whistle feature promptly sounds to alert you that your water has reached a rapid boil. For a timeless statement look on your stovetop.
   Updated: 2025-08-30T04:07:05Z
   Vendor: Essteele
@@ -2307,7 +2300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-24cm-9-0L-Covered-Stockpot-Esste-9.jpg?v=1731902107
   Price: $399.99 NZD
 - [Essteele Per Vita - 28cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-vita-28cm-open-french-skillet): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This 28cm open French skillet is perfect for cooking meat, fish, vegetables and family meals, providing frying and searing perfection.
-  Updated: 2025-08-31T23:22:11Z
+  Updated: 2025-09-05T02:22:12Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2363,7 +2356,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Organiser-Black-Walnut-UMBRA-9.jpg?v=1731902602
   Price: $44.99 NZD
 - [Estique Organiser - White](https://everydayhome.co.nz/products/estique-organiser-white): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-08-24T02:52:10Z
+  Updated: 2025-09-05T00:22:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2517,7 +2510,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-White-UMBRA-4.jpg?v=1731903176
   Price: $139.99 NZD
 - [Moona Storage Box - Black/Walnut](https://everydayhome.co.nz/products/moona-storage-box-black-walnut): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
-  Updated: 2025-08-13T00:37:06Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2776,14 +2769,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Wood-Storage-Box-Black-Walnut-UMBRA-6.png?v=1731901941
   Price: $74.99 NZD
 - [Triflora Hanging Planter (Set of 5) - White](https://everydayhome.co.nz/products/triflora-5-large-white): Triflora is a hanging planter for indoor plants that combines the utility of a drapery rod with the beauty of potted plants. Great for herbs, succulents, vine plants and more, Triflora Hanging Planter mounts to your wall or ceiling and adds functionality to your window by turning it into a space for growing plants. Because its pots are made from durable recycled molded polypropylene, Triflora remains lightweight even once plants are potted, allowing Triflora to be the lightest weight possible. You can adjust the length of Triflora’s ropes and slide them anywhere along the metal rod to customize the position of each hanging pot.
-  Updated: 2025-08-12T16:49:02Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Triflora-Hanging-Planter-Set-of-5-White-UMBRA-1.jpg?v=1731902130
   Price: $159.99 NZD
 - [Trigem Jewelry Stand - White/Brass](https://everydayhome.co.nz/products/trigem-jwl-stand-kd-wht-bras): With the Trigem Jewelry Stand, three plated bars provide plenty of hanging space for all your favorite necklaces; keeping them safe, organized and tangle free. At 19-inches (48 cm) tall, Trigem is ideal for any type of necklace. The base of Trigem doubles as a jewelry holder for added accessory storage. Trigem’s sleek design compliments any modern decor and the protective padded base ensures your counter or table top surface doesn’t get damaged.
-  Updated: 2025-09-02T22:03:55Z
+  Updated: 2025-09-05T00:22:13Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2944,12 +2937,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileKnifeBlockplusKnives-BeechWood-8710755260483Brabantia_96dpi_1000x1000px_7_NR-19790.png?v=1734574130
   Price: $389.95 NZD
 - [Brabantia New Touch Bin - 30L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/rd-touch-bin-new-30l-matt-steel-fingerprint-proof): Ready for the next step in organising your home? Get your hands on the Brabantia Touch Bin 30 litre. Just touch the lid and it opens smoothly. It really is seriously easy – to open, to change the bin bags, to clean... This touch bin also has a round design, is sturdy, and protects your floor thanks to the protection rim. Bring on the years of intensive, problem free use with 30 litres of value for money.
-  Updated: 2025-08-15T13:42:27Z
+  Updated: 2025-09-05T03:41:27Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-MattSteelFingerprintProof-8710755115462Brabantia_96dpi_1000x1000px_7_NR-13425.png?v=1734406069
-  Price: $359.95 NZD
+  Price: $214.99 NZD
 - [Brabantia Ironing Board D - Spring Bubbles](https://everydayhome.co.nz/products/ironing-board-d-135x45cm-hripz-35mm-black-frame-spring-bubbles): Need some space? The Brabantia Ironing Board D is so wide, you can iron a shirt in one go. Drape it over the boards shoulder shape to iron it to perfection. There's no iron rest in the way, you can just leave your iron on the heat resistant zone on the cover. A truly great ironing board, that you can even use sitting down.
   Updated: 2025-08-21T23:37:13Z
   Vendor: BRABANTIA
@@ -3406,7 +3399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CoverforWallFix-Black-8710755420108Brabantia_96dpi_1000x1000px_7_NR-4780.png?v=1734574964
   Price: $39.95 NZD
 - [Brabantia Protective Clothes Cover - Large Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-xlge-trans-gry): Do you want keep your long coats and dresses looking good? This set of two 60 x 150 cm Brabantia Protective Clothes Covers is a good-looking solution. These extra long soft-touch transparent zipper bags in size XL protect your garments from dust and moths.
-  Updated: 2025-08-21T23:37:11Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3700,7 +3693,7 @@
     Availability: Available
     Price: $65.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-09-03T02:22:46Z
+  Updated: 2025-09-05T03:22:41Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3758,7 +3751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/13406_IMG-002.png?v=1746478953
     Price: $319.00 NZD
 - [SwiftDry SkyLine Post Kit (2 Types)](https://everydayhome.co.nz/products/skyline-in-ground-post-kit-1-6m-wide): Upgrade your SwiftDry clothesline with this pair of heavy-duty black powder-coated posts. Designed for versatile mounting, they include multiple height positions for a perfect fit. Made from 50mm Square galvanized steel, they come with 316 stainless steel fixing bolts and optional surface mount plates or in-ground concrete installation. A durable, New Zealand-made solution for secure and stylish outdoor drying. Kit includes; -2x 50mm x 50mm x 2mm wall Heavy Duty Steel posts, Galvanised and Black Powder Coated -1 x 30mm x 30mm Back Bar(supplied the width of SkyLine ordered eg. 2.2m/2.4m) -In-ground posts are 2390mm high, 490mm to be concreted into the groundSurface-mounted posts are 1990mm high -In-ground posts to be concreted in, or Plated feet for Surface Mounting/bolting to existing concrete. -316 Stainless Steel fixing bolts -8 x concrete screws supplied with the Surface mounted post kit *New Zealand Made Quality*
-  Updated: 2025-08-30T07:37:11Z
+  Updated: 2025-09-05T03:22:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4175,19 +4168,19 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/32e36688a7406b7bbe69c178fe7a6e025173d8e9.jpg?v=1750988169
   Price: $24.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Terracotta Pink](https://everydayhome.co.nz/products/newicon-pedal-bin-5l-terracotta-pink-copy): The NewIcon 3L Pedal Trash Can by Brabantia makes for a great addition to garbage management. This neat and practical sized under kitchen countertop or bedroom trash can is an ideal fit into many domestic areas where size is important. Its compact size makes it a great under countertop trash can for the kitchen but it will be equally at home in a bedroom or home office and it will fit unobtrusively into most decors.
-  Updated: 2025-08-18T06:55:51Z
+  Updated: 2025-09-05T03:41:26Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-7.jpg?v=1752027451
-  Price: $29.99 NZD
+  Price: $49.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Terracotta Pink](https://everydayhome.co.nz/products/newicon-pedal-bin-3l-terracotta-pink-copy): The NewIcon 12L Pedal Trash Can by Brabantia makes for a great addition to garbage management. This neat and practical sized under kitchen countertop or bedroom trash can is an ideal fit into many domestic areas where size is important.
-  Updated: 2025-09-02T22:03:55Z
+  Updated: 2025-09-05T03:41:26Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-5.jpg?v=1752027336
-  Price: $49.99 NZD
+  Price: $74.99 NZD
 - [Brabantia New Touch Bin - 30L White](https://everydayhome.co.nz/products/touch-bin-new-30l-white): Ready for the next step in organising your home? Get your hands on the Brabantia Touch Bin 30 litre. Just touch the lid and it opens smoothly. It really is seriously easy – to open, to change the bin bags, to clean... This touch bin also has a round design, is sturdy, and protects your floor thanks to the protection rim. Bring on the years of intensive, problem free use with 30 litres of value for money.
   Updated: 2025-08-14T11:35:34Z
   Vendor: BRABANTIA
@@ -4966,7 +4959,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013258-149_BUDDYDOORSTOP_CHARCOAL_SETOF2.jpg?v=1756178593
   Price: $37.99 NZD
 - [Umbra Bolo Hanging Planter - Black](https://everydayhome.co.nz/products/umbra-bolo-hanging-planter-black): Instantly decorate your space with Bolo Hanging Planter. Its round soft curves and dimension make a dynamic balance with any indoor greenery. Perfect for displaying a variety of small to medium plants, this easy to hang planter mounts in just minutes.
-  Updated: 2025-08-29T02:52:11Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -5001,7 +4994,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_CC02.jpg?v=1755823621
   Price: $39.99 NZD
 - [Umbra Flex Shower Caddy - White](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-white): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-08-29T00:20:37Z
+  Updated: 2025-09-05T00:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -5057,14 +5050,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $17.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-08-31T20:37:11Z
+  Updated: 2025-09-05T00:22:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $24.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-09-01T21:52:11Z
+  Updated: 2025-09-05T00:22:13Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -5283,7 +5276,7 @@
   Updated: 2025-09-04T11:07:46Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-09-04T11:07:46Z
+  Updated: 2025-09-05T03:41:44Z
   Total Products: 56
 - [Kitchen & Dining](https://everydayhome.co.nz/collections/kitchen-dining)
   Updated: 2025-02-12T22:26:22Z
@@ -5298,16 +5291,16 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-04T22:58:28Z
-  Total Products: 1040
+  Updated: 2025-09-05T03:41:44Z
+  Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-04T22:58:28Z
-  Total Products: 1040
+  Updated: 2025-09-05T03:41:44Z
+  Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-09-04T22:58:23Z
+  Updated: 2025-09-05T03:41:44Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-09-04T22:58:28Z
+  Updated: 2025-09-05T03:41:36Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-07-29T03:51:57Z
@@ -5316,13 +5309,13 @@
   Updated: 2025-09-04T11:07:46Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
-  Updated: 2025-09-04T22:58:23Z
+  Updated: 2025-09-05T03:41:39Z
   Total Products: 25
 - [Storage](https://everydayhome.co.nz/collections/storage)
   Updated: 2024-09-06T00:59:15Z
   Total Products: 0
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:36Z
   Total Products: 55
 - [Shelves](https://everydayhome.co.nz/collections/shelves)
   Updated: 2024-09-06T00:59:12Z
@@ -5346,7 +5339,7 @@
   Updated: 2025-08-12T04:09:19Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:40Z
   Total Products: 138
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-08-12T04:53:07Z
@@ -5373,7 +5366,7 @@
   Updated: 2025-02-12T22:26:29Z
   Total Products: 0
 - [Bedroom](https://everydayhome.co.nz/collections/bedroom)
-  Updated: 2025-09-04T11:07:46Z
+  Updated: 2025-09-05T03:41:43Z
   Total Products: 51
 - [Kitchen Accessories](https://everydayhome.co.nz/collections/kitchen-accessories)
   Updated: 2025-02-12T22:26:29Z
@@ -5403,28 +5396,28 @@
   Updated: 2025-08-12T04:44:37Z
   Total Products: 1
 - [Coffee Table](https://everydayhome.co.nz/collections/coffee-table)
-  Updated: 2025-08-12T04:53:04Z
+  Updated: 2025-09-05T03:41:44Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-09-04T22:58:27Z
+  Updated: 2025-09-05T03:41:36Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-09-04T22:58:23Z
+  Updated: 2025-09-05T03:41:44Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-09-04T11:07:46Z
+  Updated: 2025-09-05T03:41:43Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-09-04T22:58:28Z
+  Updated: 2025-09-05T03:41:28Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-09-04T11:07:46Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
-  Updated: 2025-09-04T22:58:28Z
+  Updated: 2025-09-05T03:41:27Z
   Total Products: 63
 - [Touch Top Bins](https://everydayhome.co.nz/collections/touch-top-bins)
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:28Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
   Updated: 2025-09-04T22:58:25Z
@@ -5436,7 +5429,7 @@
   Updated: 2025-08-31T11:08:49Z
   Total Products: 31
 - [Cookware](https://everydayhome.co.nz/collections/cookware)
-  Updated: 2025-09-04T22:58:26Z
+  Updated: 2025-09-05T03:41:34Z
   Total Products: 146
 - [Racks & Stands](https://everydayhome.co.nz/collections/racks-stands)
   Updated: 2025-08-27T22:15:30Z
@@ -5469,16 +5462,16 @@
   Updated: 2025-08-29T00:20:41Z
   Total Products: 31
 - [Shelves & Tables](https://everydayhome.co.nz/collections/shelves-tables)
-  Updated: 2025-08-27T22:15:31Z
+  Updated: 2025-09-05T03:41:43Z
   Total Products: 24
 - [Coffee Tables](https://everydayhome.co.nz/collections/coffee-tables)
-  Updated: 2025-08-27T22:15:24Z
+  Updated: 2025-09-05T03:41:44Z
   Total Products: 6
 - [Full Length/Leaning](https://everydayhome.co.nz/collections/full-length-leaning)
-  Updated: 2025-08-27T22:15:25Z
+  Updated: 2025-09-05T03:41:39Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-08-29T00:20:38Z
+  Updated: 2025-09-05T03:41:40Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
   Updated: 2025-09-04T11:07:46Z
@@ -5490,7 +5483,7 @@
   Updated: 2025-09-04T11:07:46Z
   Total Products: 42
 - [Wall Mirrors](https://everydayhome.co.nz/collections/wall-mirrors)
-  Updated: 2025-09-04T22:58:23Z
+  Updated: 2025-09-05T03:41:39Z
   Total Products: 19
 - [Cleaning Tools & Accessories](https://everydayhome.co.nz/collections/cleaning-tools-accessories)
   Updated: 2025-08-30T11:08:26Z
@@ -5502,7 +5495,7 @@
   Updated: 2025-08-27T22:14:23Z
   Total Products: 25
 - [Bread Bins](https://everydayhome.co.nz/collections/bread-bins)
-  Updated: 2025-09-02T02:02:33Z
+  Updated: 2025-09-05T03:41:36Z
   Total Products: 14
 - [Cookware Accessories For Everyday Cooking | Shop Now](https://everydayhome.co.nz/collections/cookware-accessories): Cookware accessories to complement your kitchen. From stovetop kettles and universal steamers to cookware cleaning powders and liquids. We have a wide range of items to choose from. Free shipping across NZ on orders over 99*
   Updated: 2025-08-27T22:15:24Z
@@ -5559,31 +5552,31 @@
   Updated: 2025-08-27T22:14:24Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-09-04T22:58:28Z
-  Total Products: 129
+  Updated: 2025-09-05T03:42:12Z
+  Total Products: 144
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-09-04T22:58:23Z
+  Updated: 2025-09-05T03:41:44Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-09-04T22:58:27Z
+  Updated: 2025-09-05T03:41:36Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-09-04T11:07:46Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-09-04T22:58:28Z
+  Updated: 2025-09-05T03:41:28Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
-  Updated: 2025-09-03T00:09:30Z
+  Updated: 2025-09-05T03:41:34Z
   Total Products: 22
 - [Shop Premium Pots & Saucepans | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/pots-saucepans): Find the perfect pots and saucepans from leading brands in cookware, such as Anolon, Circulon, Essteele, and Raco at Everyday Home.  Offering, non-stick, stainless steel & ceramic coated cookware that meets your daily cooking needs, from sautéing to simmering. Free shipping across NZ on orders over $99*
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:34Z
   Total Products: 55
 - [Frypans & Woks | Anolon, Circulon, Essteele & Raco | Shop Now](https://everydayhome.co.nz/collections/frypans-woks): Top-quality frypans and woks from leading brands Anolon, Circulon, Essteele, and Raco at Everyday Home. Explore non-stick, stainless steel & ceramic coated cookware designed for perfect frying, sautéing, and stir-frying. Free shipping across NZ on orders over 99*
-  Updated: 2025-09-04T22:58:26Z
+  Updated: 2025-09-05T03:41:33Z
   Total Products: 59
 - [Durable Non-Stick Roasters & Ovenware – Anolon & Essteele](https://everydayhome.co.nz/collections/roasters-ovenware): Durable roasters and ovenware from brands like Anolon and Essteele in non-stick and ceramic coatings for ease in cooking and clean up. Perfect for Sunday roasts and holiday gatherings, these high-quality products guarantee perfect results time and again. Free shipping across NZ on orders over 99*
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:30Z
   Total Products: 8
 - [Non-Stick Bakeware - Built to Last](https://everydayhome.co.nz/collections/bakeware): Shop our premium bakeware for all your baking needs, non-stick, durable and even heat distribution ranges. Baking cakes, muffins or homemade bread has never been easier, we have a range of products to suit. Free shipping across NZ on orders over 99*
   Updated: 2025-08-27T22:15:21Z
@@ -5607,25 +5600,25 @@
   Updated: 2025-09-03T11:06:44Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-09-04T22:58:28Z
-  Total Products: 142
+  Updated: 2025-09-05T03:42:12Z
+  Total Products: 157
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-09-04T11:07:46Z
-  Total Products: 931
+  Updated: 2025-09-05T03:42:12Z
+  Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-09-03T11:06:44Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:34Z
   Total Products: 42
 - [Circulon](https://everydayhome.co.nz/collections/circulon)
-  Updated: 2025-09-04T22:58:26Z
+  Updated: 2025-09-05T03:41:31Z
   Total Products: 24
 - [Raco](https://everydayhome.co.nz/collections/raco)
   Updated: 2025-09-03T00:09:25Z
   Total Products: 24
 - [Essteele](https://everydayhome.co.nz/collections/essteele)
-  Updated: 2025-09-03T11:06:44Z
+  Updated: 2025-09-05T03:41:30Z
   Total Products: 61
 - [Steaming & Ironing Accessories](https://everydayhome.co.nz/collections/steaming-ironing-accessories)
   Updated: 2025-08-31T11:08:49Z
@@ -5655,11 +5648,11 @@
   Updated: 2025-08-15T01:08:24Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-04T22:58:28Z
-  Total Products: 1060
+  Updated: 2025-09-05T03:41:44Z
+  Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-09-04T11:07:46Z
-  Total Products: 931
+  Updated: 2025-09-05T03:42:12Z
+  Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-09-04T22:58:20Z
   Total Products: 34
@@ -5676,7 +5669,7 @@
   Updated: 2025-08-14T02:42:44Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-09-04T11:07:46Z
+  Updated: 2025-09-05T03:41:43Z
   Total Products: 162
 
 ## Store Pages
