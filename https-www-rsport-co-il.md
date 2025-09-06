@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-06T00:00:52.788Z
+- Updated At: 2025-09-06T04:00:51.428Z
 
 ## Products
 
@@ -18908,7 +18908,7 @@
     Availability: Available
     Price: ‏495.00 ‏₪ ILS
 - [ז'קט חורף מילאן ורסיטי אוף-ווייט | אפור](https://www.rsport.co.il/products/זקט-חורף-מילאן-ורסיטי-אוף-ווייט-אפור): ז'קט חורף מילאן ורסיטי אוף-ווייט בצבע אפור הקולקציה החדשה מחברת באופן מושלם את ההיסטוריה המפוארת של מילאן עם הסגנון המודרני של Off-White, ומדגישה את סמלי ה-Rossoneri יחד עם אלמנטים וינטג' של כדורגל, לכבוד יום המיוחד.
-  Updated: 2025-08-09T06:53:26Z
+  Updated: 2025-09-06T01:20:58Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
