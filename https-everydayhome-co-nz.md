@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-06T00:00:34.812Z
+- Updated At: 2025-09-06T04:00:35.069Z
 
 ## Products
 
@@ -1096,7 +1096,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Lazy-Susan-White-Natural-8.jpg?v=1727659106
   Price: $79.99 NZD
 - [Bellwood Side Table - Natural](https://everydayhome.co.nz/products/bellwood-side-table-natural): With soft bent-wood legs and two open tiers, Bellwood brings a warm and airy touch to your living room, bedroom or entryway. This versatile side table seamlessly accompanies your space to provide multipurpose storage. Its two tiers allow you to store plants, decor, remotes and more.
-  Updated: 2025-09-05T03:41:37Z
+  Updated: 2025-09-06T03:52:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2096,13 +2096,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-28cm-Open-French-Skillet-Esste-3.jpg?v=1731902541
   Price: $269.99 NZD
-- [Essteele Per Domani - 30cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-domani-30cm-open-french-skillet): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 30cm nonstick skillet is perfect for cooking meat or fish, vegetables and family meals, providing frying and searing perfection. The European look will complement any kitchen while the super-hard and durable nonstick provides fat-free cooking and effortless clean-up.
-  Updated: 2025-09-02T23:52:10Z
-  Vendor: Essteele
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-30cm-Open-French-Skillet-Esste-6.jpg?v=1731902837
-  Price: $279.99 NZD
 - [Essteele Per Domani - 24cm/5.5L Covered Casserole](https://everydayhome.co.nz/products/essteele-per-domani-cvd-casserole-24cm-5-5l): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 24cm/5.5L nonstick casserole features a generous size that is perfect for casseroles, stews and all your stovetop-to-oven dishes.
   Updated: 2025-08-22T00:52:14Z
   Vendor: Essteele
@@ -3112,7 +3105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DigitalKitchenScales-DarkGrey-8710755122644Brabantia_96dpi_1000x1000px_7_NR-15691.png?v=1733866488
   Price: $109.95 NZD
 - [Brabantia Kitchen Utensils Set Nonstick - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-set-n-stick-c): No more sticky situations in your kitchen with this Profile Non-Stick Kitchen Utensils Set. This top-team consists of a Soup Ladle, Vegetable Spoon, Spatula and Skimmer. All with durable stainless steel grips and nylon non-stick tops. For cooking with confidence.
-  Updated: 2025-09-01T03:52:12Z
+  Updated: 2025-09-06T03:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4651,7 +4644,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileServingSpoon_NonStick-MattSteel-8710755250828Brabantia_300dpi_2000x2000px_9_NR-19764.jpg?v=1756434339
   Price: $24.95 NZD
 - [Brabantia Profile Whisk Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-whisk-small-matt-steel): Whip up your style with this unbeatable yet small whisk. This Brabantia Whisk Small fits a glass, cup or small bowl with ease. A great little helper!
-  Updated: 2025-08-31T21:22:11Z
+  Updated: 2025-09-06T03:52:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
