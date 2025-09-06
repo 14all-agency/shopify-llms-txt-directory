@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-06T04:00:35.069Z
+- Updated At: 2025-09-06T08:00:34.276Z
 
 ## Products
 
@@ -1194,7 +1194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-60L-Matt-Black-8.png?v=1727660150
   Price: $579.95 NZD
 - [Brabantia Bo Pedal Bin - 60L Platinum](https://everydayhome.co.nz/products/bo-pedal-bin-60l-platinum): Do you want a bin that has great looks and great capacity? Meet Bo Pedal Bin 60 litre - Brabantia's big beauty. This XXL bin can hold lots of waste. It has a soft closing lid that opens hygienically at a tap of your foot and integrated grips to move it around with ease. Designed with love for your home and care for the planet. A big plus!
-  Updated: 2025-08-26T22:52:16Z
+  Updated: 2025-09-06T06:52:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2202,7 +2202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-28cm-7-7L-Covered-Casserole-Es-1.jpg?v=1731903191
   Price: $324.99 NZD
 - [Essteele Per Salute - 28cm Grill Pan](https://everydayhome.co.nz/products/essteele-per-salute-28cm-grill-pan): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This generously sized nonstick grill pan will create perfect results when cooking meat, fish or vegetables. Oven safe to 180°C and featuring pouring spouts, this pan will provide a healthy grilling option and a stylish piece for your kitchen.
-  Updated: 2025-08-15T02:19:56Z
+  Updated: 2025-09-06T04:07:12Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2944,7 +2944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.95 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-03T08:37:12Z
+  Updated: 2025-09-06T05:07:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
