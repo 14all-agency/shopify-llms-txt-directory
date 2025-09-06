@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-05T20:00:34.872Z
+- Updated At: 2025-09-06T00:00:34.812Z
 
 ## Products
 
@@ -4012,7 +4012,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Surfmist-Laundryup_70dde68c-1b23-4473-adca-f7d7e02ab5a2.jpg?v=1746478978
     Price: $181.00 NZD
 - [SwiftDry Loft Pulley Airer White (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-urban-loft-pulley-airer): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS White powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: White (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTES A longer 15 meter sash cord can be purchased if you have a ceiling higher than 3 meters
-  Updated: 2025-09-04T09:22:47Z
+  Updated: 2025-09-05T20:02:47Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
