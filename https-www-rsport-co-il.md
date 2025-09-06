@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-06T12:00:50.998Z
+- Updated At: 2025-09-06T16:00:51.955Z
 
 ## Products
 
@@ -12338,7 +12338,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק רטרו מיאמי היט |  דווין וויד](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-08-17T20:37:04Z
+  Updated: 2025-09-06T13:36:11Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
