@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-07T04:00:27.429Z
+- Updated At: 2025-09-07T12:00:27.493Z
 
 ## Products
 
@@ -90,7 +90,7 @@
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/5F79BB6B-1E8A-45A8-A98E-2247E5BB6725.jpg?v=1752071764
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-07T01:49:36Z
+  Updated: 2025-09-07T10:05:13Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
@@ -100,7 +100,7 @@
 ## Collections
 
 - [Page d'accueil](https://www.laforetnousregale.fr/collections/frontpage)
-  Updated: 2025-09-07T00:05:10Z
+  Updated: 2025-09-07T10:02:57Z
   Total Products: 1
 
 ## Blogs
@@ -135,6 +135,9 @@
     Tags: alimentation durable, Bio, environnement, forêt, forêt comestible, Forêt nourricière, Jardin Forêt, terroir
   - [11 raisons pour lesquelles les forêts sont importantes](https://www.laforetnousregale.fr/blogs/infos/11-raisons-pour-lesquelles-les-forets-sont-importantes)
     Updated: 2025-09-06T10:50:31Z
+    Author: Équipe Pacific Planet
+  - [Bienfaits de la forêt](https://www.laforetnousregale.fr/blogs/infos/bienfaits-de-la-foret)
+    Updated: 2025-09-07T09:28:28Z
     Author: Équipe Pacific Planet
   - [Paiement USDC accepté - La forêt nous régale](https://www.laforetnousregale.fr/blogs/infos/nous-acceptons-maintenant-la-cryptomonnaie-usdc): Paiement USDC accepté - La forêt nous régale
     Updated: 2025-09-04T17:38:30Z
