@@ -6,7 +6,7 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-07T00:00:29.458Z
+- Updated At: 2025-09-07T04:00:29.129Z
 
 ## Products
 
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-pro-plus-download-office-professional-retail-box.webp?v=1752392753
   Price: $11.99 USD
 - [Microsoft Project 2021 Professional license - Email Key | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2021-professional-license): Buy Microsoft Project 2021 Professional license at TrustedTech, instant email activation for powerful planning, resource management and Gantt charts.
-  Updated: 2025-09-06T14:17:38Z
+  Updated: 2025-09-07T02:17:44Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -228,7 +228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-office-2021-professional-license-software-box-front.webp?v=1752928014
   Price: $22.99 USD
 - [Microsoft Project 2024 Professional license - Instant | TrustedTech](https://trustedtechteam.digital/products/microsoft-project-2024-professional-license): TrustedTech: Microsoft Project 2024 Professional license by gnewnetworks — instant delivery, one-user perpetual activation, Windows 10/11 compatible today.
-  Updated: 2025-09-06T14:16:28Z
+  Updated: 2025-09-07T02:16:33Z
   Vendor: microsoft
   Product Type: project professional 2024
   Availability: Available
