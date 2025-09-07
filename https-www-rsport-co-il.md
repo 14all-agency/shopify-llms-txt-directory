@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-07T08:00:53.403Z
+- Updated At: 2025-09-07T12:00:50.274Z
 
 ## Products
 
@@ -44778,7 +44778,7 @@
   Updated: 2025-09-01T11:18:24Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-05T11:17:54Z
+  Updated: 2025-09-07T11:18:57Z
   Total Products: 910
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-08-26T11:18:22Z
@@ -44826,7 +44826,7 @@
   Updated: 2025-08-29T11:18:24Z
   Total Products: 135
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
-  Updated: 2025-09-02T11:19:03Z
+  Updated: 2025-09-07T11:18:57Z
   Total Products: 105
 - [אתלטיקו מדריד](https://www.rsport.co.il/collections/אתלטיקו-מדריד): חולצת אתלטיקו מדריד היא הרבה יותר מפריט לבוש זו הצהרת אהבה לקבוצה אדומה-לבנה עם אופי לוחמני ומסורת מרגשת. בקטגוריה הזו תמצאו מגוון רחב של חולצות אתלטיקו מדריד לגברים, נשים וילדים, לצד חליפות כדורגל, בגדי אימון ואביזרים שישלימו את ההופעה שלכם כאוהדים אמיתיים. כל הפריטים עשויים מחומרים איכותיים ומעוצבים בהשראת הקבוצה מהוונדה מטרופוליטנו כדי שתוכלו להתחבר לרוח של אתלטיקו, בכל מקום.
   Updated: 2025-08-05T22:10:24Z
@@ -45174,7 +45174,7 @@
   Updated: 2025-08-05T22:10:34Z
   Total Products: 41
 - [חולצות טי שירט](https://www.rsport.co.il/collections/חולצות-טי-שירט)
-  Updated: 2025-08-21T11:18:24Z
+  Updated: 2025-09-07T11:18:57Z
   Total Products: 20
 - [נבחרת אורוגוואי](https://www.rsport.co.il/collections/נבחרת-אורוגוואי)
   Updated: 2025-08-05T22:10:34Z
@@ -45246,7 +45246,7 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-05T11:17:54Z
+  Updated: 2025-09-07T11:18:57Z
   Total Products: 2004
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
@@ -45417,7 +45417,7 @@
   Updated: 2025-08-05T22:10:40Z
   Total Products: 5
 - [LifeStyle](https://www.rsport.co.il/collections/lifestyle)
-  Updated: 2025-08-21T11:18:24Z
+  Updated: 2025-09-07T11:18:57Z
   Total Products: 23
 - [יורו נשים 2025](https://www.rsport.co.il/collections/יורו-נשים-2025)
   Updated: 2025-08-26T11:18:22Z
