@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-07T00:00:54.304Z
+- Updated At: 2025-09-07T04:00:53.666Z
 
 ## Products
 
@@ -11252,7 +11252,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנסי לוס אנג'לס קליפרס JUST DON | כחול כהה](https://www.rsport.co.il/products/מכנסי-לוס-אנגלס-קליפרס-just-don-כחול-כהה): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-08-09T06:17:38Z
+  Updated: 2025-09-07T03:11:22Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -34109,7 +34109,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת כדורגל פורטלזה בית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-פורטלזה-בית-2024-גברים): חולצת הבית של פורטלזה לעונת 2024 מגיעה בעיצוב מסורתי המשלב צבעים כחול ולבן, עם דגש על נוחות וביצועים. החולצה עשויה 100% פוליאסטר, בד קל משקל ונושם שמנדף זיעה, ומיועדת לאימון, משחק או לבוש יומיומי. הגזרה מותאמת לגברים ומספקת תחושת נוחות וחופש תנועה.
-  Updated: 2025-08-09T08:08:49Z
+  Updated: 2025-09-07T00:31:45Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
