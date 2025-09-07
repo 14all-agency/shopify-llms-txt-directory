@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-07T00:00:34.749Z
+- Updated At: 2025-09-07T04:00:35.100Z
 
 ## Products
 
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hub-Leaning-Mirror-Black-0.jpg?v=1727658555
   Price: $299.99 NZD
 - [Bellwood Bar/Serving Cart -  Black/Walnut](https://everydayhome.co.nz/products/bellwood-bar-serving-cart-black-walnut): Bellwood Bar/Serving Cart, Black/Walnut
-  Updated: 2025-08-29T02:52:10Z
+  Updated: 2025-09-07T02:37:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2937,14 +2937,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.95 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-06T05:07:07Z
+  Updated: 2025-09-07T02:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $349.95 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-01T21:52:11Z
+  Updated: 2025-09-07T02:07:06Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3751,7 +3751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $390.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-09-04T21:28:42Z
+  Updated: 2025-09-07T03:52:12Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4392,7 +4392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-ConfidentGrey-8710755233449Brabantia_96dpi_2000x2000px_9_NR-36786.jpg?v=1754950393
   Price: $79.95 NZD
 - [Brabantia Newicon Pedal Bin - 3L Matt Black](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-matt-black): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-08-14T11:35:13Z
+  Updated: 2025-09-07T03:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
