@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-06T15:25:22.529Z
+- Updated At: 2025-09-07T04:00:27.429Z
 
 ## Products
 
 - [Affiche châtaigner](https://www.laforetnousregale.fr/products/affiche): Affiche botanique du châtaignier, avec une illustration. Le châtaignier Castanea sativa est surnommé "l’arbre à pain" pour son rôle crucial dans l’alimentation des populations rurales. Ses fruits, les châtaignes, sont une source de subsistance depuis des siècles. Résistant et généreux, le châtaignier est également prisé pour son bois durable. L’affiche capture l’essence de cet arbre précieux, célébrant son rôle dans nos paysages et nos traditions culinaires.
-  Updated: 2025-09-06T15:20:35Z
+  Updated: 2025-09-07T00:05:10Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche chêne](https://www.laforetnousregale.fr/products/affiche-chene): Affiche botanique du chêne, avec son illustration naturaliste. Le chêne Quercus est un monument de la nature, connu pour sa longévité et sa robustesse. Symbole de sagesse dans de nombreuses cultures, il offre bien plus que son ombre : bois noble pour la construction et l’ébénisterie, et fruits (glands) essentiels à la faune. Cette affiche rend hommage à l’architecture complexe et majestueuse de cet arbre, véritable pilier de nos écosystèmes. Ses glands sont comestibles, et cet arbre a une place centrale dans l'aménagement d'écosystèmes forestiers comestibles.
-  Updated: 2025-09-06T15:20:36Z
+  Updated: 2025-09-07T00:05:10Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche théier](https://www.laforetnousregale.fr/products/affiche-theier): Affiche botanique du théier, avec une illustration naturaliste. Le théier Camellia sinensis est l’essence même de l’art du thé. Cultivé principalement en Chine, en Inde et au Japon, cet arbuste donne naissance à une des boissons les plus consommées au monde. Avec ses feuilles délicates et ses usages variés, il incarne la tradition et le bien-être. L’illustration met en lumière sa beauté sobre et ses rameaux verdoyants, célébrant un patrimoine culturel universel.
-  Updated: 2025-09-06T15:21:20Z
+  Updated: 2025-09-07T00:05:10Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche amandier](https://www.laforetnousregale.fr/products/affiche-amandier): Affiche botanique de l'amandier, c'est une illustration naturaliste dans sont cadre en bois. L’amandier Prunus dulcis est bien plus qu’un simple arbre fruitier. Cet arbre emblématique des régions méditerranéennes produit des amandes, symboles de douceur et d’abondance. Connues pour leurs bienfaits nutritionnels et cosmétiques, les amandes sont une richesse cultivée depuis des millénaires. Cette affiche met en avant l’élégance naturelle des branches en fleur, un spectacle éphémère qui marque le retour du printemps.
-  Updated: 2025-09-06T15:20:42Z
+  Updated: 2025-09-07T00:05:10Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -83,14 +83,14 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Jeune plant de chêne à glands doux - Quercus Ilex Ballota](https://www.laforetnousregale.fr/products/chene-a-glands-doux-quercus-ilex-ballota): Jeune plant Bio de chêne ballote, utilisée dans la conception de jardins comestibles pour la consommation de ses glands en farine, ou grillés comme des châtaignes. Au Maroc, en Espagne ou en Grèce, on consomme encore les glands de chêne pour en faire du pain par exemple. La variété Ballota, représentée surtout dans le sud de l’Europe et en Algérie étaient aussi utilisée confits comme des marrons glacés et considérés con’e une friandise. On réalise aussi le café de glands doux avec les glands d’Espagne. Résistant à la sécheresse, longtemps cultivé pour l’alimentation humaine, c’est une arbre qu’il faut planter aussi chez vous ! Forêt comestible | Jardin forêt | Forêt nourricière | Agroforêt | Forêt jardin
-  Updated: 2025-09-06T15:20:34Z
+  Updated: 2025-09-07T00:05:10Z
   Vendor: La forêt nous régale
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/5F79BB6B-1E8A-45A8-A98E-2247E5BB6725.jpg?v=1752071764
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-06T15:21:17Z
+  Updated: 2025-09-07T01:49:36Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
@@ -100,8 +100,8 @@
 ## Collections
 
 - [Page d'accueil](https://www.laforetnousregale.fr/collections/frontpage)
-  Updated: 2025-09-06T15:20:20Z
-  Total Products: 4
+  Updated: 2025-09-07T00:05:10Z
+  Total Products: 1
 
 ## Blogs
 
@@ -147,14 +147,14 @@
 
 ## Store Pages
 
-- [Séjourner en forêt](https://www.laforetnousregale.fr/pages/contact): Une nuit insolite en cabane. Ouvrez la lourde porte en bois de cette cabane, sentez le bois et levez les yeux.Son grand toi panoramique et transpar...
-  Updated: 2025-09-06T10:09:23Z
+- [Séjour](https://www.laforetnousregale.fr/pages/contact): Une nuit insolite en cabane. Ouvrez la lourde porte en bois de cette cabane, sentez le bois et levez les yeux.Son grand toi panoramique et transpar...
+  Updated: 2025-09-06T23:14:50Z
 - [Certification du label Bio](https://www.laforetnousregale.fr/pages/presse): 
-  Updated: 2025-09-06T10:00:42Z
-- [Participer au projet](https://www.laforetnousregale.fr/pages/participer-au-projet): Ensemble, donnons vie à un projet engagé ! Plongez dans notre projet et laissez-vous embarquer par cette belle aventure humaine ! Si, comme nous, v...
-  Updated: 2025-09-06T10:13:31Z
-- [Contactez-nous](https://www.laforetnousregale.fr/pages/contactez-nous): Contactez La forêt nous régale pour vos questions sur nos séjours en cabane en Bretagne. Réservation, informations pratiques et conseils
-  Updated: 2025-09-06T11:15:47Z
+  Updated: 2025-09-06T23:15:11Z
+- [Participer](https://www.laforetnousregale.fr/pages/participer-au-projet): Ensemble, donnons vie à un projet engagé ! Plongez dans notre projet et laissez-vous embarquer par cette belle aventure humaine ! Si, comme nous, v...
+  Updated: 2025-09-06T23:14:17Z
+- [Contactez-nous](https://www.laforetnousregale.fr/pages/contactez-nous): Contactez La forêt nous régale pour vos questions sur nos séjours en cabane en Bretagne. Réservation, informations pratiques et conseils, sur la ve...
+  Updated: 2025-09-06T23:12:20Z
 
 ## Policies
 
