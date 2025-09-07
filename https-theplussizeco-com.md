@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-06T16:00:27.844Z
+- Updated At: 2025-09-07T04:00:28.122Z
 
 ## Products
 
@@ -124,13 +124,13 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_92.png?v=1756980972
   Price: ₹1,294.00 INR
 - [Plus Size Rust Printed Cotton Straight Cut Suit- The Plus Size Co.](https://theplussizeco.com/products/rust-printed-cotton-straight-cut-suit)
-  Updated: 2025-09-06T11:35:38Z
+  Updated: 2025-09-06T16:59:12Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_68.png?v=1756894462
   - [3XL / 3XL](https://theplussizeco.com/products/rust-printed-cotton-straight-cut-suit?variant=44658867732533)
-    Availability: Available
+    Availability: Not Available
     Price: ₹1,194.00 INR
   - [5XL / 6XL](https://theplussizeco.com/products/rust-printed-cotton-straight-cut-suit?variant=44669304111157)
     Availability: Available
@@ -757,7 +757,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizePinkStripeEverydayTop_1.png?v=1755345334
   Price: ₹695.00 INR
 - [Greyish Blue Cotton Mandarin Kurta - The Plus Size Co](https://theplussizeco.com/products/greyish-blue-cotton-mandarin-kurta): Mandarin collar meets cotton comfort in our Greyish Blue Cotton Mandarin Kurta. Features cotton fabric and mandarin neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-03T11:49:02Z
+  Updated: 2025-09-07T00:29:51Z
   Vendor: The Plus Size Co.
   Product Type: Short Kurtas
   Availability: Available
@@ -771,7 +771,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeBrownSolidEverydayTop_1.png?v=1755345709
   Price: ₹695.00 INR
 - [Plus Size Grey Metallic Cotton Kurta with Foil Print- Yhe Plus Size Co](https://theplussizeco.com/products/grey-metallic-cotton-kurta-with-foil-print): Grey never looked this glam with our Grey Metallic Cotton Kurta with Foil Print. Features cotton fabric and  V neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-01T08:59:38Z
+  Updated: 2025-09-06T20:47:37Z
   Vendor: The Plus Size Co.
   Product Type: Short Kurtas
   Availability: Available
