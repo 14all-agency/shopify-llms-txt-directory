@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-07T12:00:27.493Z
+- Updated At: 2025-09-08T04:00:28.277Z
 
 ## Products
 
 - [Affiche châtaigner](https://www.laforetnousregale.fr/products/affiche): Affiche botanique du châtaignier, avec une illustration. Le châtaignier Castanea sativa est surnommé "l’arbre à pain" pour son rôle crucial dans l’alimentation des populations rurales. Ses fruits, les châtaignes, sont une source de subsistance depuis des siècles. Résistant et généreux, le châtaignier est également prisé pour son bois durable. L’affiche capture l’essence de cet arbre précieux, célébrant son rôle dans nos paysages et nos traditions culinaires.
-  Updated: 2025-09-07T00:05:10Z
+  Updated: 2025-09-07T14:37:21Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche chêne](https://www.laforetnousregale.fr/products/affiche-chene): Affiche botanique du chêne, avec son illustration naturaliste. Le chêne Quercus est un monument de la nature, connu pour sa longévité et sa robustesse. Symbole de sagesse dans de nombreuses cultures, il offre bien plus que son ombre : bois noble pour la construction et l’ébénisterie, et fruits (glands) essentiels à la faune. Cette affiche rend hommage à l’architecture complexe et majestueuse de cet arbre, véritable pilier de nos écosystèmes. Ses glands sont comestibles, et cet arbre a une place centrale dans l'aménagement d'écosystèmes forestiers comestibles.
-  Updated: 2025-09-07T00:05:10Z
+  Updated: 2025-09-07T14:37:21Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche théier](https://www.laforetnousregale.fr/products/affiche-theier): Affiche botanique du théier, avec une illustration naturaliste. Le théier Camellia sinensis est l’essence même de l’art du thé. Cultivé principalement en Chine, en Inde et au Japon, cet arbuste donne naissance à une des boissons les plus consommées au monde. Avec ses feuilles délicates et ses usages variés, il incarne la tradition et le bien-être. L’illustration met en lumière sa beauté sobre et ses rameaux verdoyants, célébrant un patrimoine culturel universel.
-  Updated: 2025-09-07T00:05:10Z
+  Updated: 2025-09-07T14:37:22Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche amandier](https://www.laforetnousregale.fr/products/affiche-amandier): Affiche botanique de l'amandier, c'est une illustration naturaliste dans sont cadre en bois. L’amandier Prunus dulcis est bien plus qu’un simple arbre fruitier. Cet arbre emblématique des régions méditerranéennes produit des amandes, symboles de douceur et d’abondance. Connues pour leurs bienfaits nutritionnels et cosmétiques, les amandes sont une richesse cultivée depuis des millénaires. Cette affiche met en avant l’élégance naturelle des branches en fleur, un spectacle éphémère qui marque le retour du printemps.
-  Updated: 2025-09-07T00:05:10Z
+  Updated: 2025-09-07T14:37:22Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -83,14 +83,14 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Jeune plant de chêne à glands doux - Quercus Ilex Ballota](https://www.laforetnousregale.fr/products/chene-a-glands-doux-quercus-ilex-ballota): Jeune plant Bio de chêne ballote, utilisée dans la conception de jardins comestibles pour la consommation de ses glands en farine, ou grillés comme des châtaignes. Au Maroc, en Espagne ou en Grèce, on consomme encore les glands de chêne pour en faire du pain par exemple. La variété Ballota, représentée surtout dans le sud de l’Europe et en Algérie étaient aussi utilisée confits comme des marrons glacés et considérés con’e une friandise. On réalise aussi le café de glands doux avec les glands d’Espagne. Résistant à la sécheresse, longtemps cultivé pour l’alimentation humaine, c’est une arbre qu’il faut planter aussi chez vous ! Forêt comestible | Jardin forêt | Forêt nourricière | Agroforêt | Forêt jardin
-  Updated: 2025-09-07T00:05:10Z
+  Updated: 2025-09-07T14:37:22Z
   Vendor: La forêt nous régale
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/5F79BB6B-1E8A-45A8-A98E-2247E5BB6725.jpg?v=1752071764
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-07T10:05:13Z
+  Updated: 2025-09-07T22:03:00Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
@@ -99,9 +99,9 @@
 
 ## Collections
 
-- [Page d'accueil](https://www.laforetnousregale.fr/collections/frontpage)
-  Updated: 2025-09-07T10:02:57Z
-  Total Products: 1
+- [Produits Bio Forêt Française Saison 2024 - Champignons Fruits Sauvages - La Forêt Nous Régale](https://www.laforetnousregale.fr/collections/produits-saisons-bio-foret-francaise): 🌲 Produits bio de saison : champignons frais, fruits sauvages, plantes aromatiques de forêt française. Récolte responsable, fraîcheur garantie. Livraison France.
+  Updated: 2025-09-07T22:56:29Z
+  Total Products: 2
 
 ## Blogs
 
@@ -147,6 +147,14 @@
     Updated: 2025-09-06T14:26:59Z
     Author: Équipe Pacific Planet
     Tags: biologique, épicéa, original, pas cher, recette, sirop
+  - [Plongez dans l’histoire rurale Bretonne](https://www.laforetnousregale.fr/blogs/infos/plongez-dans-l-histoire-rurale-bretonne)
+    Updated: 2025-09-07T16:00:02Z
+    Author: Équipe Pacific Planet
+    Tags: Bio, biologique, environnement, forêt, nature, original
+  - [Parce que la forêt est gourmande de Fabrice Desjours, Laurie Gilles, Claire Mauquié](https://www.laforetnousregale.fr/blogs/infos/parce-que-la-foret-est-gourmande-de-fabrice-desjours-laurie-gilles-claire-mauquie)
+    Updated: 2025-09-08T01:19:43Z
+    Author: Équipe Pacific Planet
+    Tags: alimentation durable, Bio, cueillette, environnement, épicéa, Fabrice Desjours, forêt comestible, Forêt nourricière, France, innovation, Jardin Forêt, recette, santé
 
 ## Store Pages
 
