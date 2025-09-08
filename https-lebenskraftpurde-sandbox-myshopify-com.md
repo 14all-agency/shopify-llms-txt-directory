@@ -1,6 +1,6 @@
 # lebenskraftpur.de Sandbox (https://lebenskraftpurde-sandbox.myshopify.com)
 
-- Updated At: 2025-09-08T12:26:49.750Z
+- Updated At: 2025-09-08T12:27:00.586Z
 
 Lebenskraftpur - Gesund durch die Kraft der Natur
 Nahrungsergänzungsmittel, Lebensmittel & Superfoods und Naturkosmetik für Ihr Wohlbefinden
