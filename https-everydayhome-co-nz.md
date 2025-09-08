@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-07T20:00:34.485Z
+- Updated At: 2025-09-08T00:00:33.919Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sling-Sink-Caddy-Black-0.jpg?v=1727658913
   Price: $17.99 NZD
 - [Sling Sink Caddy - White](https://everydayhome.co.nz/products/sling-sink-caddy-white): Sling Sink Caddy  White
-  Updated: 2025-08-31T21:22:12Z
+  Updated: 2025-09-07T21:22:07Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2670,13 +2670,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sling-Caddy-With-Pump-White-UMBRA-6.jpg?v=1731902227
   Price: $29.99 NZD
-- [Sling Folding Dishrack - White](https://everydayhome.co.nz/products/sling-folding-dishrack-white): Introducing Sling Dishrack: the space-saving and efficient solution for your dishes. This easy-to-use and durable dishrack is designed to maximize capacity while minimizing clutter. The Sling Dishrack features a metal foldaway rack and a folding mat that fits perfectly into a convenient caddy base. The base has three divided sections for your cutlery, large utensils, or dish cleaning accessories like sponges and scrub brushes. Not only is the Sling Dishrack incredibly functional, but it's also portable. It folds away for easy storage when you're not using it, and it's perfect for taking on camping trips. To keep everything in place, a silicone band wraps around the caddy base and holds up the mat and rack when they're not in use
-  Updated: 2025-08-31T21:22:11Z
-  Vendor: UMBRA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sling-Folding-Dishrack-White-UMBRA-3.png?v=1731902783
-  Price: $69.99 NZD
 - [Squire Napkin Holder - Black](https://everydayhome.co.nz/products/squire-napkin-holder-black): A contemporary take on a classic aesthetic, this Napkin Holder has the look of cast iron but its continuous square wire creates a graphic line that is all modern. Squire Napkin Holder makes keeping napkins on hand, neat and organized easy to do. Its divider supports your napkins, makes them easy to organize and doubles as a handle, making it easy to move around. This modern piece looks great as an accessory in your kitchen or at a cocktail party.
   Updated: 2025-09-03T08:07:12Z
   Vendor: UMBRA
@@ -2790,7 +2783,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Drying-Rack-Drying-Mat-Black-UMBRA-4.jpg?v=1731903493
   Price: $37.99 NZD
 - [Udry Drying Rack & Drying Mat - Charcoal](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-charcoal): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-09-01T01:52:15Z
+  Updated: 2025-09-07T21:22:07Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -4567,49 +4560,49 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/RollTopBreadBin-White-8710755306020Brabantia_300dpi_2000x2000px_9_NR-21282.jpg?v=1756436710
   Price: $149.95 NZD
 - [Brabantia Profile Can Opener - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-can-opener-matt-steel): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-02T10:52:43Z
+  Updated: 2025-09-07T21:22:07Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCanOpener-MattSteel-8710755250187Brabantia_300dpi_2000x2000px_9_NR-19669.jpg?v=1756767159
   Price: $39.95 NZD
 - [Brabantia Profile Cheese Slicer - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-cheese-slicer-matt-steel): Cheese louise! This Brabantia Cheese Slicer is perfect for slicing all sorts of cheese. This sleek and stylish slicer has a sharp blade and great grip - made for easy slicing.
-  Updated: 2025-08-31T21:22:11Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCheeseSlicer-MattSteel-8710755250200Brabantia_96dpi_2000x2000px_9_NR-19671.jpg?v=1756436090
   Price: $29.95 NZD
 - [Brabantia Profile Pizza/Pastry Cutter - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-pizza-pastry-cutter-matt-steel): The wheel reinvented! This Brabantia Pizza/Pastry Cutter cuts your pizza and pastry into perfect parts. The stainless-steel wheel is large and sharp - made for easy cutting, even thick bakes.
-  Updated: 2025-08-29T14:50:18Z
+  Updated: 2025-09-07T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePizza_PastryCutter-MattSteel-8710755250446Brabantia_300dpi_2000x2000px_9_NR-19702.jpg?v=1756435812
   Price: $27.95 NZD
 - [Brabantia Profile Potatoe Masher - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-potatoe-masher-matt-steel): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-08-29T14:41:30Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePotatoMasher-MattSteel-8710755250484Brabantia_300dpi_2000x2000px_9_NR-19706.jpg?v=1756435278
   Price: $34.95 NZD
 - [Brabantia Profile Spatula Large Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-large-nonstick): Eggs, meat, oven dishes… Flip them and serve them with this Brabantia Non-Stick Large Spatula. This sturdy spatula has smart slots through which fat can easily run off. And it's made of resilient nylon, so safe for your non-stick cookware too. A turn for the better!
-  Updated: 2025-08-31T21:22:11Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Large_Non-Stick-MattSteel-8710755250705Brabantia_300dpi_2000x2000px_9_NR-19742.jpg?v=1756435037
   Price: $24.95 NZD
 - [Brabantia Profile Spatula Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-matt-steel): Eggs, meat, pancakes… Flip 'em and serve 'em with this Brabantia Profile Spatula, Small. This Matt Steel spatula has slots, so fat runs off easily. And it has no seams or welds, so it is also easy to clean and hygienic. A super spatula!
-  Updated: 2025-08-31T21:22:12Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small-MattSteel-8710755250729Brabantia_300dpi_2000x2000px_9_NR-19745.jpg?v=1756434802
   Price: $27.95 NZD
 - [Brabantia Profile Spatula Small Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-nonstick): Flipping a burger or spreading veggies in the pan? Use this Small Non-Stick Brabantia Spatula. This spatula has smart slots through which fat can easily run off - great for serving. And it's made of resilient nylon, so safe for your cookware. Start the flipping.
-  Updated: 2025-08-31T21:22:11Z
+  Updated: 2025-09-07T21:22:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4623,7 +4616,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileServingSpoon_NonStick-MattSteel-8710755250828Brabantia_300dpi_2000x2000px_9_NR-19764.jpg?v=1756434339
   Price: $24.95 NZD
 - [Brabantia Profile Whisk Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-whisk-small-matt-steel): Whip up your style with this unbeatable yet small whisk. This Brabantia Whisk Small fits a glass, cup or small bowl with ease. A great little helper!
-  Updated: 2025-09-06T03:52:12Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4637,42 +4630,42 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineFoodPeeler-White-8710755400308Brabantia_300dpi_2000x2000px_9_NR-4548.jpg?v=1756433145
   Price: $17.95 NZD
 - [Brabantia Essential Ice Cream Scoop - White](https://everydayhome.co.nz/products/brabantia-essential-ice-cream-scoop-white): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
-  Updated: 2025-08-31T21:22:10Z
+  Updated: 2025-09-07T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineIceCreamScoop-White-8710755400346Brabantia_300dpi_2000x2000px_9_NR-4550.jpg?v=1756432955
   Price: $29.95 NZD
 - [Brabantia Essential Silicone Pastry Brush Large - White](https://everydayhome.co.nz/products/brabantia-essential-silicone-pastry-brush-large-white): With this Brabantia Pastry Brush you turn your bakes into works of art. Made of soft silicone, this brush is ideal for buttering baking tins, glazing cakes, oiling veggies or basting meat. Boy, what a brush!
-  Updated: 2025-08-31T21:22:11Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLinePastryBrush-White-8710755400384Brabantia_300dpi_2000x2000px_9_NR-4551.jpg?v=1756432726
   Price: $19.95 NZD
 - [Brabantia Essential Potatoe Masher - White](https://everydayhome.co.nz/products/brabantia-essential-potatoe-masher-white): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-08-31T21:22:12Z
+  Updated: 2025-09-07T21:22:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLinePotatoMasher-White-8710755400483Brabantia_300dpi_2000x2000px_9_NR-4556.jpg?v=1756432332
   Price: $29.95 NZD
 - [Brabantia Essential Universal Opener - White](https://everydayhome.co.nz/products/brabantia-essential-universal-opener-white): Open your heart to this Brabantia Universal Opener. This multifunctional opener opens both lids and crown caps effortless. A turn for the better!
-  Updated: 2025-08-31T21:07:13Z
+  Updated: 2025-09-07T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineUniversalOpener-White-8710755400605Brabantia_300dpi_2000x2000px_9_NR-4562.jpg?v=1756432171
   Price: $31.95 NZD
 - [Brabantia Essential Can Opener - White](https://everydayhome.co.nz/products/brabantia-essential-can-opener-white): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-04T00:52:11Z
+  Updated: 2025-09-07T21:22:07Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineCanOpener-White-8710755400643Brabantia_300dpi_2000x2000px_9_NR-4564.jpg?v=1755820974
   Price: $34.95 NZD
 - [Brabantia Essential Garlic Press - White](https://everydayhome.co.nz/products/brabantia-essential-garlic-press-white): Have a crush on garlic, but wincing at the mincing? This Brabantia Garlic Press will brighten your mood and kitchen. Quick, efficient and easy to clean thanks to its removable anvil. A perfect press.
-  Updated: 2025-09-02T00:07:11Z
+  Updated: 2025-09-07T21:22:07Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
