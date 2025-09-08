@@ -15,6 +15,7 @@ Navigation Links
 - [Widerruf](https://www.lebenskraftpur.de/pages/widerruf): Information on the right of withdrawal from purchases.
 - [Datenschutz](https://www.lebenskraftpur.de/pages/datenschutz): Privacy policy outlining data protection measures.
 - [FAQ](https://www.lebenskraftpur.de/pages/faq): Frequently asked questions regarding products and services.
+
 Product Categories
 ### Supplements
 - [Expertise, Qualität & Sicherheit](https://www.lebenskraftpur.de/pages/expertise-qualitaet-sicherheit): Insights into the expertise, quality, and safety standards of the products.
@@ -23,6 +24,7 @@ Product Categories
 - [BELIEBT: Omega 3 Plus Kapseln](https://www.lebenskraftpur.de/products/omega-3-kapseln-plus): Omega-3 capsules that support heart and brain health.
 - [NEU: Berberin Kapseln](https://www.lebenskraftpur.de/products/berberin-kapseln): New berberine capsules for metabolic health.
 - [Alle Nahrungsergänzungsmittel](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel): Comprehensive list of all dietary supplements available.
+
 ### Vitamins
 - [Alle Vitamine](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-vitamine): Overview of all vitamins offered.
 - [Vitamin A](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-vitamine-vitamin-a): Information on the benefits and sources of Vitamin A.
@@ -30,6 +32,7 @@ Product Categories
 - [Vitamin C](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-vitamine-vitamin-c): Insights into Vitamin C's role in immune function.
 - [Vitamin D](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-vitamine-vitamin-d): Importance of Vitamin D for bone health.
 - [Vitamin K](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-vitamine-vitamin-k): Role of Vitamin K in blood clotting and bone metabolism.
+
 ### Minerals & Trace Elements
 - [Alle Mineralstoffe & Spurenelemente](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente): Complete list of minerals and trace elements.
 - [Magnesium](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente-magnesium): Benefits of magnesium for overall health.
@@ -38,6 +41,7 @@ Product Categories
 - [Selen](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente-selen): Benefits of selenium as an antioxidant.
 - [Eisen](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente-eisen): Importance of iron for blood health.
 - [Jod](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente-jod): Role of iodine in thyroid function.
+
 ### Specialized Products
 - [MSM](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente-msm): Information on Methylsulfonylmethane and its benefits.
 - [Zeolith](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-mineralstoffe-spurenelemente-zeolith): Benefits of zeolite for detoxification.
@@ -45,6 +49,7 @@ Product Categories
 - [Aminosäuren & Peptide](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-aminosaeuren-peptide): Information on amino acids and peptides for muscle recovery.
 - [Kollagen](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-kollagen): Benefits of collagen for skin and joint health.
 - [Darmbakterien](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-darmbakterien): Importance of gut bacteria for digestive health.
+
 ### Antioxidants
 - [Alle Antioxidantien](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-antioxidantien): Overview of all antioxidant products.
 - [Traubenkernextrakte](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-antioxidantien-traubenkernextrakt): Benefits of grape seed extract as an antioxidant.
@@ -54,12 +59,14 @@ Product Categories
 - [Curcumin](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-antioxidantien-curcumin): Role of curcumin in anti-inflammatory processes.
 - [Resveratrol](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-antioxidantien-resveratrol): Benefits of resveratrol for heart health.
 - [Glutathion](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-antioxidantien-glutathion): Importance of glutathione in detoxification.
+
 ### Other Categories
 - [Sekundäre Pflanzenstoffe & Pflanzenextrakte](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-sekundaere-pflanzenstoffe-pflanzenextrakte): Overview of secondary plant compounds and extracts.
 - [Präbiotika](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-praebiotika): Information on prebiotics and their role in gut health.
 - [Alle Kombipräparate, Indikationspräparate & Multivitamine](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-kombipraeparate-multivitamine-indikationspraeparate): Comprehensive list of combination products and multivitamins.
 - [Kombipräparate & Indikationspräparate](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-kombipraeparate-multivitamine-indikationspraeparate-kombipraeparate-indikationspraeparate): Information on combination and indication-specific preparations.
 - [Multivitamine](https://www.lebenskraftpur.de/collections/nahrungsergaenzungsmittel-kombipraeparate-multivitamine-indikationspraeparate-multivitamin): Overview of available multivitamin products.
+
 Natural Cosmetics
 - [Alle Naturkosmetik-Produkte](https://www.lebenskraftpur.de/collections/naturkosmetik): Complete list of all natural cosmetic products.
 - [Alle Mund- & Zahnpflege](https://www.lebenskraftpur.de/collections/naturkosmetik-zahnpflege-mundpflege): Overview of oral and dental care products.
@@ -71,6 +78,7 @@ Natural Cosmetics
 - [Deos](https://www.lebenskraftpur.de/collections/naturkosmetik-deos): Overview of natural deodorants.
 - [Seifen](https://www.lebenskraftpur.de/collections/naturkosmetik-seifen): Information on natural soaps.
 - [Cremes](https://www.lebenskraftpur.de/collections/naturkosmetik-cremes): Overview of available creams for skin care.
+
 Health Topics
 - [Abnehmen & Gewichtskontrolle](https://www.lebenskraftpur.de/collections/anwendung-abnehmen-gewichtskontrolle-nahrungsergaenzungsmittel-zum-abnehmen): Information on weight loss and management.
 - [Allergien](https://www.lebenskraftpur.de/collections/anwendung-allergie-antiallergikum-natuerlich): Overview of products for allergy relief.
@@ -104,6 +112,7 @@ Health Topics
 - [Vegetarier & Veganer](https://www.lebenskraftpur.de/collections/anwendung-vegetarier-veganer-nahrungsergaenzungsmittel-vegan): Health products suitable for vegetarians and vegans.
 - [Vitalität & Energie](https://www.lebenskraftpur.de/collections/anwendung-energie-vitalitaet-nahrungsergaenzungsmittel): Overview of products for vitality and energy.
 - [Wellness & Wohlbefinden](https://www.lebenskraftpur.de/collections/anwendung-wellness-wohlbefinden-steigern): Products for overall wellness and well-being.
+
 Additional Resources
 - [Alle Lebenskraftpur Produkte](https://www.lebenskraftpur.de/collections/produktuebersicht): Complete list of all products offered by Lebenskraftpur.
 - [Alle Artikel](https://www.lebenskraftpur.de/blogs/ratgeber): Overview of all articles and resources available.
@@ -118,10 +127,12 @@ Additional Resources
 - [Sport](https://www.lebenskraftpur.de/blogs/ratgeber/tagged/sport): Resources related to sports and physical activity.
 - [Zahnpflege](https://www.lebenskraftpur.de/blogs/ratgeber/tagged/zahnpflege): Information on dental care practices.
 - [Lexikon](https://www.lebenskraftpur.de/blogs/ratgeber/tagged/lexikon): Glossary of terms related to health and wellness.
+
 Articles
 - [Melatonin: Wirkung und Nebenwirkungen – Ein Überblick](https://www.lebenskraftpur.de/blogs/ratgeber/staendige-muedigkeit-trotz-viel-schlaf-ursachen-tipps): Overview of melatonin, its effects, and potential side effects.
 - [Ständige Müdigkeit trotz viel Schlaf: Mögliche Ursachen und Tipps](https://www.lebenskraftpur.de/blogs/ratgeber/darmsanierung-nach-antibiotika-eine-anleitung): Discussion on chronic fatigue despite adequate sleep and possible solutions.
 - [Darmsanierung nach Antibiotika & Co.: Eine Anleitung](https://www.lebenskraftpur.de/pages/qualitaetssiegel-produktkennzeichnungen): Guide on gut restoration after antibiotic use.
+
 Contact and Engagement
 - [Newsletter](https://www.lebenskraftpur.de/pages/lebenskraftpur-newsletter): Sign up for updates and news from Lebenskraftpur.
 - [Meldebogen Produkterfahrungen](https://forms.gle/x6UY1oVm2iuwwRSk6): Share your product experiences.
@@ -132,6 +143,7 @@ Contact and Engagement
 - [Presse](https://www.lebenskraftpur.de/pages/presse): Press inquiries and media resources.
 - [WhatsApp: +49 176 4588 1199](https://api.whatsapp.com/send/?phone=4917645881199&text&type=phone_number&app_absent=0): Contact via WhatsApp for quick support.
 - [kundenservice@lebenskraftpur.de](mailto:kundenservice@lebenskraftpur.de): Email for customer service inquiries.
+
 Special Offers
 - [Schwarzkümmelöl Experten-Webinar: Heilung für jede Krankheit?](https://webinar.lebenskraftpur.de/schwarzkuemmeloel-registrierung/): Webinar discussing the healing properties of black seed oil.
 - [Miswak online kaufen - Lebenskraftpur](https://www.lebenskraftpur.de/products/miswak): Purchase Miswak for natural dental care.
@@ -139,6 +151,7 @@ Special Offers
 - [Vielen Dank für Ihre Anmeldung - Lebenskraftpur](https://www.lebenskraftpur.de/pages/danke): Confirmation message for newsletter sign-up.
 - [Weihrauch Kapseln online kaufen - Lebenskraftpur](https://www.lebenskraftpur.de/products/weihrauchkapseln): Purchase frankincense capsules for health benefits.
 - [10 Jahre jünger aussehen mit Kollagen – Geht das?](https://webinar.lebenskraftpur.de/kollagen-registrierung/): Article discussing the anti-aging effects of collagen.
+
 Educational Content
 - [Was ist Sanddorn (Hippophae rhamnoides)? - Lebenskraftpur](https://www.lebenskraftpur.de/blogs/ratgeber/sanddorn): Information on sea buckthorn and its health benefits.
 - [Was ist Hydroxypropylmethylcellulose? - Lebenskraftpur](https://www.lebenskraftpur.de/blogs/ratgeber/hydroxypropylmethylcellulose): Overview of hydroxypropylmethylcellulose and its uses.
