@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-08T16:00:34.828Z
+- Updated At: 2025-09-08T20:00:34.196Z
 
 ## Products
 
