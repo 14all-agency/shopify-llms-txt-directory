@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-08T08:00:42.272Z
+- Updated At: 2025-09-08T12:00:42.615Z
 
 ## Products
 
@@ -670,13 +670,6 @@
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/01_CAPPUCCINONATUR.jpg?v=1706577199
-  Price: $139.00 NZD
-- [MOONIE Organic Humming Bear 2.0 - Caramel](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-caramel): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-08-31T08:24:37Z
-  Vendor: MOONIE
-  Product Type: Sleep Aid
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/06_CARAMELNATUR.jpg?v=1706577531
   Price: $139.00 NZD
 - [GRECH & CO Adult Sunglasses - Buff](https://www.littlebambinos.co.nz/products/grech-co-adult-sunglasses-buff-1): Invest in a pair of unisex sustainable sunglasses for yourself! Yes, these cult sunglasses are now available in adult sizing! Made from recycled PC plastic, this new design from Grech & Co also feature the best lenses available; category 3 with polarized lenses. The sunglasses have an embossed logo on the armband plus come in a beautiful felt case inside a protective box. Available in a variety of colours.
   Updated: 2025-08-06T22:45:33Z
@@ -11378,7 +11371,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-01T21:52:40Z
+  Updated: 2025-09-08T08:56:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13511,7 +13504,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-09-06T07:22:41Z
+  Updated: 2025-09-08T10:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13598,14 +13591,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_clay_mask_28802afd-54d1-4402-a5bd-df40b82950cc.jpg?v=1744072321
   Price: $59.00 NZD
 - [ORIA SKIN Brightening Enzyme Polish](https://www.littlebambinos.co.nz/products/active-brightening-polish): 100% Natural Brighten skin tone.Exfoliate & smooth.Bring balance. Find freedom from hormonal skin with a twice-weekly gentle exfoliation. An all-natural exfoliant, packed with vitamin C & AHAs to gently smooth, brighten & freshen up your complexion without the usual harshness. Fruit enzymes & antioxidants work together to boost collagen production, for an all over healthy glow. How it works: Pineapple extract enzyme - Enzymes are a natural exfoliator. Creates a chemical reaction on the skin to dissolve dry, hardened and dead skin cells encourages the new growth of healthy new cells to take their place. Harakeke extract - softens your skin while naturally promoting recovery in skin damaged by irritation, environmental stresses and late nights etc. Hibiscus extract - unclogs the pores and hydrates the skin, thus making it visibly soft, smooth, and radiant. Ritual Use twice weekly to gently exfoliate by massaging into damp skin, avoiding contact with eyes. Complete the routine with Oria Skin serum, moisturiser & oil. Espeically useful to use after days of wearing makeup or sunscreen which can cause build up and clog pores. Ingredients Aloe Barbadensis Leaf Juice* (Aloe Vera), Pumice Powder, Hibiscus Sabdariffa Flower (Hibiscus Extract), Ananas sativa Fruit Extract (Pineapple), Phormium tenax extract (Harakeke), Carica Papaya extract, Citric acid, Sodium benzoate, Potassium sorbate, Citrus sinensis* (Orange sweet essential oil). *Organic
-  Updated: 2025-09-07T08:16:47Z
+  Updated: 2025-09-08T10:56:41Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
+- [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
+  Updated: 2025-09-08T11:42:45Z
+  Vendor: Oria Skin
+  Product Type: Skincare
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
+  Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-09-07T00:42:46Z
+  Updated: 2025-09-08T11:02:44Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13632,14 +13632,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-09-07T04:02:43Z
+  Updated: 2025-09-08T11:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Vitamin_C_4a3a896f-5caf-4600-bdf5-6e09d06addd2.jpg?v=1744072017
   Price: $79.00 NZD
 - [ORIA SKIN Hormone Helper](https://www.littlebambinos.co.nz/products/hormone-helper): 100% Natural Hormonal harmonyHair regenerationBalance mood A targeted blend to balance the mind & hormonal cycle. Find relief from tension, moodiness & hormonal hair loss. This carefully selected combination of essential oils help to have a normalising effect on the endocrine system. Hormone Helper works in harmony with the body to support you through the natural cycle of perimenopause, menopause & premenstrual issues. 20ml Not suitable for pregnancy. How to use Place 4 drops into hands, inhale & massage into base of neck (thyroid) and lower abdomen area (adrenal & ovaries) . Alternatively create a compress using a warm cloth, add 10 drops of Hormone Helper & apply to the lower back or abdomen for pain relief and instant calming results. For hair growth application, apply 10 drops along the scalp, massage in, or use in targeting hair-loss area. Best to use overnight before you wash your hair. How it works: Castor Seed Oil Hormonal Support: Castor oil is known for its ability to improve circulation and detoxification. It is often used in the form of castor oil packs over the abdomen to help regulate the liver, which plays a critical role in hormone metabolism. By supporting detoxification, it can help balance estrogen levels and alleviate hormone-related symptoms like bloating and menstrual discomfort. 2. Abyssinian Oil Hair growth Abyssinian oil's nourishing properties can help maintain healthy skin, and scalp - excellent for treated dandruff or itchy scalp - which can be impacted by hormonal fluctuations. Healthy skin and hair are often affected by changes in hormones, particularly in cases of estrogen or testosterone imbalance. 3. Meadowfoam Seed Oil Hormonal Support: This oil has a fatty acid profile that closely resembles the skin’s natural oils, making it useful for promoting healthy skin and hormonal acne - it can alleviate the symptoms of hormonal imbalances like acne. It is also good for strengthening hair , preventing split ends -bonus. 4. Rosemary Essential Oil Hormonal Support: Rosemary oil is often used in aromatherapy for its stimulating properties. It is believed to support the adrenal glands, which are responsible for producing stress hormones like cortisol. By reducing the negative effects of chronic stress, rosemary may help keep cortisol levels in balance, indirectly supporting overall hormonal health. 5. Thyme Essential Oil Hormonal Support: Thyme oil is used in traditional medicine to support the endocrine system and improve thyroid function, which regulates many hormones in the body. 6. Myrrh Essential Oil Hormonal Support: Myrrh has been used in traditional medicine for its ability to support the endocrine system. It is also thought to have an adaptogenic effect, helping the body to adapt to stress and balance hormone levels. This makes it useful in managing stress-related hormonal imbalances. 7. Clove Essential Oil Hormonal Support: Clove oil has been shown to have strong antioxidant properties, which can support the body in fighting oxidative stress. Chronic oxidative stress can disrupt hormone function, so using clove oil may help support overall hormonal balance. 8. Lemongrass Essential Oil Hormonal Support: Lemongrass oil is rich in the citral molecule, which has an oestrogen effect, it is useful for the menopause in women. Citral is recognised to be useful to help balance the mind and cycle. It is also said to be helpful with balancing the Thyroid it has a normalising effect on the thyroid. Lemongrass is also useful to treat more of the mental state a woman might experience with peri/ menopause. Lemongrass oil promotes emotional and mental renewal, also useful for those who struggle to get started in the morning. 9. Basil Essential Oil Hormonal Support: Basil essential oil is often used to relieve stress and anxiety, which are known to affect cortisol and other hormone levels. By helping to manage stress, basil oil can indirectly help balance hormones, particularly those affected by adrenal stress. 10. Palmarosa Essential Oil Hormonal Support: Palmarosa is believed to have a balancing effect on the Thyroid- which is responsible for regulating our metabolism. Palmarosa has a normalising effect on the thyroid, useful for weight fluctuation. 11. Carrot Seed Extract Hormonal Support: Carrot seed oil is used for its regenerative properties on the skin, particularly in cases of aging, which is often hormonally influenced (like menopause). It is thought to support liver function, which is important for hormone detoxification. 12. Clary Sage Essential Oil Hormonal Support: Clary sage is one of the most well-known essential oils for balancing hormones, particularly in women. It has phytoestrogenic properties, meaning it can mimic estrogen in the body. This is particularly useful for managing symptoms of PMS, menopause, and hormonal acne. Clary sage also supports the adrenal glands, which help regulate stress hormones. 13. Geranium Essential Oil Hormonal Support: Geranium oil is known to have a balancing effect on the endocrine system, particularly in cases of menstrual irregularities and hormonal fluctuations. It may help regulate estrogen levels and is often used in skincare to reduce hormonal acne and promote overall skin health. 14. Litsea Essential Oil Hormonal Support: Litsea cubeba has a soothing effect and is often used to relieve stress, which can influence cortisol and other hormones. It can help manage mood swings and irritability that often accompany hormonal fluctuations. 15. Aniseed Essential Oil Hormonal Support: Aniseed oil contains compounds that are believed to have phytoestrogenic effects, similar to clary sage. It may support the regulation of estrogen in the body, which can help balance menstrual cycles and reduce symptoms like hot flashes or hormonal acne. Aiseed contains anethole, which has been suggested to mimic oestrogen, is a sexual tonic and can help control hormone deficiency during the menopause. It is useful for hot flashes and mood swings during Menopause. (Di Mola, 2017). 16. Sage Essential Oil Hormonal Support: Sage essential oil is often used to help balance estrogen levels, which can be particularly beneficial for women going through menopause. It is also used to alleviate symptoms like hot flashes, night sweats, and mood swings. Ingredients In no particular order of potency Ricinus communis (Castor) Seed Oil*, Crambe abyssinica (Abyssinian) Oil, Limnanthes alba (Meadowfoam) Seed Oil, Rosmarinus officinalis (Rosemary) Essential Oil*, Thymus vulgaris (Thyme) Essential Oil, Commiphora wightii (Myrrh) Essential Oil, Syzygium aromaticum (Clove) Essential Oil*, Cymbopogon citratus (Lemongrass) Essential Oil*, Ocimum basilicum (Basil) Essential Oil*, Cymbopogon martinii (Palmarosa) Essential Oil, Daucus carota (Carrot Seed) extract*, Salvia sclarea (Clary Sage) Essential Oil*, Pelargonium graveolens (Geranium) Essential Oil*, Litsea cubeba (Litsea) Essential Oil, Pimpinella anisum (Aniseed) Essential Oil, Salvia officinalis (Sage) Essential Oil*. *Organic
-  Updated: 2025-08-06T23:00:31Z
+  Updated: 2025-09-08T08:56:41Z
   Vendor: Oria Skin
   Product Type: Hormone Helper
   Availability: Available
@@ -13679,7 +13679,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/OriaBag_aafbfa32-2e73-47de-a4bd-0d9d52b282b3.png?v=1744001857
   Price: $25.00 NZD
 - [ORIA SKIN The Mini Set](https://www.littlebambinos.co.nz/products/the-mini-set): The Mini Set Discover the perfect introduction to Oria Skin with The Mini Set, a travel-friendly collection designed to cover all your skincare needs, no matter where life takes you. This set includes mini travel-sized jars and bottles, so you can sample our bestsellers or pack them easily for your next getaway. $121 in value for only $69! Inside, you'll find: Gentle Cleansing Milk (30g) – A mild, nourishing cleanser that gently removes impurities without disrupting your skin’s natural balance. Balancing Day Cream (30g) – Lightweight yet hydrating, this day cream helps maintain your skin’s moisture and balance throughout the day. Overnight Firming Cream (30g) – Wake up to rejuvenated skin with this rich, firming cream that works overnight to restore and smooth. Rejuvenating Face Oil (5ml) – A luxurious, nutrient-packed oil that revitalises and restores a healthy glow. Hydration Booster Serum (5ml) – A powerful serum that locks in moisture, leaving your skin soft, dewy, and deeply hydrated. Whether you're just starting to explore Oria Skin’s natural formulations or need compact sizes for your travels, The Mini Set is the perfect way to experience a full, balanced routine on the go. All products are designed to work together, providing your skin with the care it deserves—anytime, anywhere.
-  Updated: 2025-08-31T09:22:41Z
+  Updated: 2025-09-08T08:02:42Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13707,7 +13707,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/image_6605c1d1-30ad-4b0f-90f1-435f58b094b6.jpg?v=1744073588
   Price: $149.00 NZD
 - [INKAH Two in one Rattan Change table](https://www.littlebambinos.co.nz/products/change-table): Introducing a statement piece for your nursery - our new rattan Change Table. This beautiful piece is crafted from rattan to create a timeless and elegant look, and can be easily reinvented into versatile storage shelves for when your little one grows into a toddler. With a combination of beauty and practicality, our Change Table is the ideal choice for parents seeking sophistication, convenience and futureproofing. Measures: 85cm long x 92cm high x 55cm deep
-  Updated: 2025-08-06T23:00:50Z
+  Updated: 2025-09-08T08:22:41Z
   Vendor: Inkah Limited
   Product Type: 
   Availability: Available
@@ -14682,14 +14682,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Black Multi-Use Cover](https://www.littlebambinos.co.nz/products/black-multi-use-cover): Protect your baby with the versatile Black Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-09-02T08:02:42Z
+  Updated: 2025-09-08T10:02:41Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_9a88b89b-513c-47be-a66c-fa48367c8986.png?v=1749600729
   Price: $69.00 NZD
 - [MODERN MINI Gingham Multi-Use Cover](https://www.littlebambinos.co.nz/products/gingham-multi-use-cover): Protect your baby with the versatile Gingham Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-08-28T23:18:46Z
+  Updated: 2025-09-08T10:16:41Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -15239,14 +15239,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-08T01:22:46Z
+  Updated: 2025-09-08T08:22:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-08T01:22:45Z
+  Updated: 2025-09-08T11:42:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15390,7 +15390,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-08T07:43:12Z
+  Updated: 2025-09-08T11:43:16Z
   Total Products: 395
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15486,7 +15486,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T11:02:06Z
   Total Products: 160
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-girl-0-2y): Shop our collection of baby girl products
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 3051
 - [NEW IN BABY GIRL](https://www.littlebambinos.co.nz/collections/n-new-in-baby-girl)
   Updated: 2025-03-13T01:37:24Z
@@ -15546,7 +15546,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:39:38Z
   Total Products: 24
 - [Baby - Accessories](https://www.littlebambinos.co.nz/collections/n-baby-girl-accessories): Shop our collection of baby accessories
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 770
 - [BABY BOY - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-baby-girl-accessories-1)
   Updated: 2025-08-25T11:02:06Z
@@ -15738,7 +15738,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 1554
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
@@ -15900,10 +15900,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-26T04:28:10Z
   Total Products: 137
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5571
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5571
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-09-01T01:17:38Z
@@ -15984,7 +15984,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:27Z
   Total Products: 66
 - [Baby Gift Ideas | Baby Shower](https://www.littlebambinos.co.nz/collections/for-baby): We've curated a collection of gift ideas for babies. Need a gift for a baby shower? We have you covered. Shop baby gift ideas at Little Bambinos. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 507
 - [Gift Ideas For Girls](https://www.littlebambinos.co.nz/collections/for-girls): We've put together some wonderful gift ideas for girls to make life easier for you. Browse our range or clothing, accessories and toys that we think a little girl would love!
   Updated: 2025-08-21T11:01:54Z
@@ -16017,7 +16017,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:48Z
   Total Products: 42
 - [MOONIE Humming Friend | Little Bambinos](https://www.littlebambinos.co.nz/collections/moonie): MOONIE the humming friend is a professional baby sleep aid, that helps babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all! MOONIE is also night lamp. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 15
 - [Goober Crayons](https://www.littlebambinos.co.nz/collections/goober-crayons): Introducing the coolest kids crayons on the market! GOOBER is a brand with a focus on drawing. The brand produces a variety of drawing tools including crayons, drawing tops, cooking colouring books, and crayon bags.
   Updated: 2025-07-02T08:35:41Z
@@ -16065,7 +16065,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:55Z
   Total Products: 44
 - [Sleep Aids](https://www.littlebambinos.co.nz/collections/sleep-aids): Shop our collection of sleep aid products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 26
 - [Baby Hats + Mittens](https://www.littlebambinos.co.nz/collections/baby-hats): Shop our collection of baby hats and mittens
   Updated: 2025-09-07T11:02:21Z
@@ -16125,7 +16125,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:33Z
   Total Products: 13
 - [Subscriber Only Sale](https://www.littlebambinos.co.nz/collections/little-bambinos-flash-winter-sale): Winter Sale! Take 20% OFF STOREWIDE with the code STOREWIDE20 at checkout! Exclusions Apply. This weekend only. Winter sale on baby clothing and accessories. Kids clothing sale New Zealand.
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 4636
 - [Mama Bear](https://www.littlebambinos.co.nz/collections/mama-bear): Mama Bear is an Auckland based company offering organic, natural and environmental friendly products catering for the while family.
   Updated: 2024-10-05T04:11:20Z
@@ -16140,7 +16140,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:34:30Z
   Total Products: 4
 - [Mushie - Baby Accessories](https://www.littlebambinos.co.nz/collections/mushie): Mushie is best known for its Scandinavian designed silicone baby bibs, pacifier clips, organic muslin swaddles, children's dinnerware and toys. Mushie is an American baby brand.
-  Updated: 2025-09-03T11:01:58Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 198
 - [Nursery](https://www.littlebambinos.co.nz/collections/nursery)
   Updated: 2025-09-06T11:02:12Z
@@ -16185,7 +16185,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:37:18Z
   Total Products: 3
 - [Night Lights + Lights](https://www.littlebambinos.co.nz/collections/night-lights-lights): Shop our collection of Night Lights and Lights
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 23
 - [Playmats](https://www.littlebambinos.co.nz/collections/playmats)
   Updated: 2025-08-24T11:02:21Z
@@ -16227,7 +16227,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5557
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-09-07T11:02:21Z
@@ -16242,7 +16242,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-08T07:43:13Z
+  Updated: 2025-09-08T11:43:16Z
   Total Products: 1294
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-07T11:02:21Z
@@ -16251,7 +16251,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T23:44:29Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5550
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
@@ -16272,7 +16272,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-09T09:34:06Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 1709
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-09-03T11:01:58Z
@@ -16437,7 +16437,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-24T22:32:40Z
   Total Products: 196
 - [Sleep](https://www.littlebambinos.co.nz/collections/n-sleep): Shop our collection of Sleep products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 350
 - [Bedding](https://www.littlebambinos.co.nz/collections/n-bedding): Shop our collection of bedding
   Updated: 2025-09-04T11:01:56Z
@@ -16449,10 +16449,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-01T11:02:12Z
   Total Products: 45
 - [Sleep Aids](https://www.littlebambinos.co.nz/collections/n-sleep-aids): Shop our collection of sleep aid products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 30
 - [Nightlight](https://www.littlebambinos.co.nz/collections/n-nightlight): Shop our collection of nightlight products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 23
 - [Mobile](https://www.littlebambinos.co.nz/collections/n-mobile): Shop our collection of mobile products
   Updated: 2025-03-16T22:29:21Z
@@ -16464,7 +16464,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:38:01Z
   Total Products: 5
 - [Sippy Cups](https://www.littlebambinos.co.nz/collections/n-sippy-cups): Shop our collection of Sippy Cups
-  Updated: 2025-08-20T11:02:20Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 37
 - [Placemats](https://www.littlebambinos.co.nz/collections/n-placemats): Shop our collection of placemats
   Updated: 2025-09-01T01:16:44Z
@@ -16581,7 +16581,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:34:17Z
   Total Products: 4
 - [Baby Sleep](https://www.littlebambinos.co.nz/collections/n-baby-sleep): Shop our collection of baby sleep products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 380
 - [Baby Eat](https://www.littlebambinos.co.nz/collections/n-baby-eat): Shop our Bib collection
   Updated: 2025-08-13T03:52:45Z
@@ -16623,7 +16623,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-06T19:02:18Z
   Total Products: 136
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-n): Shop our collection of kids room and nursery products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 226
 - [Play](https://www.littlebambinos.co.nz/collections/n-play): Shop our collection of play products
   Updated: 2025-09-07T11:02:21Z
@@ -16638,19 +16638,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-07T11:02:21Z
   Total Products: 506
 - [Nursery](https://www.littlebambinos.co.nz/collections/n-nursery): Shop our collection of nursery products
-  Updated: 2025-09-04T11:01:56Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 176
 - [Mama](https://www.littlebambinos.co.nz/collections/mama-n): Shop our collection of all thing Mama
   Updated: 2025-09-06T19:02:18Z
   Total Products: 232
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 967
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5517
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-09-07T11:02:21Z
@@ -16680,7 +16680,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-07T11:02:21Z
   Total Products: 784
 - [Home](https://www.littlebambinos.co.nz/collections/n-home): Shop our collection of home products
-  Updated: 2025-09-06T19:02:18Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 861
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-1): Shop our collection of kids room and nursery products
   Updated: 2025-09-04T11:01:56Z
@@ -16788,13 +16788,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-07T11:02:21Z
   Total Products: 355
 - [10% OFF MID-YEAR SALE](https://www.littlebambinos.co.nz/collections/bf-10): *Black Friday T&Cs Prices as marked, no codes needed. Happy shopping!
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 88
 - [Summer Essentials](https://www.littlebambinos.co.nz/collections/summer-essentials)
   Updated: 2025-09-07T11:02:21Z
   Total Products: 547
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5519
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-01T11:02:12Z
@@ -16812,7 +16812,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 2294
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-08-06T22:44:16Z
@@ -16863,7 +16863,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-30T11:02:42Z
   Total Products: 167
 - [Boxing Day Sale 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-24): Shop our Boxing Day Spend & Save and get yourself a bargin - With prices already discounted, you could save up-to 60% Off! Spend $50, get another 10% off | Spend $100, get another 20% off | Spend $150, get another 30% off!
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 3216
 - [Wear Boxing Day 24](https://www.littlebambinos.co.nz/collections/wear-boxing-day-24)
   Updated: 2024-12-23T02:18:58Z
@@ -16890,10 +16890,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-25T11:02:06Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-09-07T11:02:21Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 2364
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-09-08T00:07:41Z
+  Updated: 2025-09-08T11:01:48Z
   Total Products: 5571
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-08-24T11:02:21Z
