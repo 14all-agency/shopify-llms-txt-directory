@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-08T04:00:35.088Z
+- Updated At: 2025-09-08T08:00:34.420Z
 
 ## Products
 
@@ -1061,7 +1061,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-8-Hook-Black-Walnut-4.jpg?v=1727658631
   Price: $119.99 NZD
 - [Flip 8 Hook - White](https://everydayhome.co.nz/products/flip-8-hook-white): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-08T01:37:07Z
+  Updated: 2025-09-08T05:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3667,7 +3667,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [Galvanised 7 Strand Clothesline Wire](https://everydayhome.co.nz/products/30m-galvanized-7-strand-wire): Strong galvanised 7-strand clothesline is ideal for use for replacement wire on your clothesline, typically on galvanised rotary hoist clotheslines, T-bar clotheslines, or as a single wire between trees! Galvanised high grade wire, specifically made for clotheslines 7 strands 3.36mm in diameter 42 meter or 50 meter lengths Works great with Large Gripples or SwiftDry Line Tensioner for tensioning, or can be tied back on itself We do not recommend using the Clothesline Ratchet to tension this wire Has a long history of lasting for many years with active use
-  Updated: 2025-08-17T00:07:11Z
+  Updated: 2025-09-08T04:52:06Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
