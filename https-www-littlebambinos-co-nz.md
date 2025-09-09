@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-09T04:00:42.595Z
+- Updated At: 2025-09-09T08:00:42.389Z
 
 ## Products
 
@@ -922,7 +922,7 @@
     Availability: Not Available
     Price: $89.00 NZD
 - [KONGES SLOJD All You Need Bag - Moss Grey](https://www.littlebambinos.co.nz/products/konges-slojd-all-you-need-bag-moss-grey): The new and improved all you need bag from Konges Slojd is waterproof and windproof.Designed to look like no ordinary change bag, it is for the parents who want to use their changing bag for more than diapers, bottles and pacifiers.The all you need bag has two outside pockets, one of them can be used for wet wipes. Inside the bag you will find a removable changing pad to use when your child needs a fresh diaper. There is one large pocket with a zipper, two regular pockets and one holder perfect for a bottle.
-  Updated: 2025-08-26T09:38:55Z
+  Updated: 2025-09-09T05:23:55Z
   Vendor: Konges slojd
   Product Type: Nappy Bag
   Availability: Available
@@ -7352,7 +7352,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $159.00 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-08-25T14:56:20Z
+  Updated: 2025-09-09T06:54:06Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11364,7 +11364,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-08T21:02:41Z
+  Updated: 2025-09-09T04:22:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -15155,7 +15155,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pure-mama-product-imagery-belly-spa-kit-gift-belly-oil-cream-lotion-oil-mask-scrub_f5da83e2-6bcb-411f-9045-4acc99a90bb9.webp?v=1753753626
   Price: $119.00 NZD
 - [PURE MAMA Belly Hydration Mask](https://www.littlebambinos.co.nz/products/pure-mama-belly-hydration-mask): A self-care moment to nourish and connect. This 100% cotton sheet mask is infused with a luxurious, hydrating serum, designed to soothe stretching skin and help reduce the appearance of stretch marks. It delivers deep hydration while calming and soothing the skin. Packed with skin-loving ingredients like Kakadu Plum (a potent source of Vitamin C to brighten and even skin tone), Ceramide Complex CLR™ (to lock in hydration and support the skin barrier), and Seaweed Extract (to soften and soothe), this belly mask treatment pampers your skin exactly when it needs it most and leaves you with a silky-soft belly. Nourishing Avocado Extract and moisture-retaining Hyaluronic Acid work in harmony to relieve dryness and support skin elasticity as your body grows and changes. Visibly improves skin texture, targeting uneven tone Helps reduce the appearance of stretch marks Strengthens skin barrier and provides long-lasting hydration Soothes and calms tight, itchy, dry skin No rinsing required, just a beautiful belly ritual to pause and connect. Suitable for use on all skin types. 100% natural fragrance. Free from Phthalates.
-  Updated: 2025-08-07T03:16:21Z
+  Updated: 2025-09-09T05:23:58Z
   Vendor: Pure Mama
   Product Type: Women Care
   Availability: Available
@@ -15362,8 +15362,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-09T03:43:11Z
-  Total Products: 393
+  Updated: 2025-09-09T07:43:12Z
+  Total Products: 392
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -16214,7 +16214,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-09T03:43:11Z
+  Updated: 2025-09-09T07:43:13Z
   Total Products: 1292
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-07T11:02:21Z
