@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-09T08:00:53.363Z
+- Updated At: 2025-09-09T12:00:54.321Z
 
 ## Products
 
@@ -8210,7 +8210,7 @@
     Availability: Available
     Price: ‏164.99 ‏₪ ILS
 - [חולצת קדם משחק נבחרת פורטוגל 24/25](https://www.rsport.co.il/products/חולצת-קדם-משחק-נבחרת-פורטוגל-24-25): החולצה עשויה 100% פוליאסטר, מה שמבטיח בד קל ונושם, מתאים לאימוני כדורגל ריצה או הליכה. לוגו רקום על החולצה המעניק לה מראה מקצועי ומרשים, מושלמת לכל פעילות ספורטיבית ולאוהדי כדורגל
-  Updated: 2025-09-07T22:15:19Z
+  Updated: 2025-09-09T11:21:02Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -14351,7 +14351,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי דנבר נאגטס JUST DON](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:04Z
+  Updated: 2025-09-09T11:00:42Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
