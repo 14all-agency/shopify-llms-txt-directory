@@ -6,7 +6,7 @@
 - Timezone: Europe/Belgrade
 - Created At: 2024-07-06T18:10:52Z
 - Contact Email: webworldmarket650@gmail.com
-- Updated At: 2025-09-09T00:00:29.048Z
+- Updated At: 2025-09-09T12:00:28.755Z
 
 ## Products
 
@@ -1744,7 +1744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/2081/1720/files/97075e7d-633e-4d33-ade2-59a23a812829.jpg?v=1724986958
     Price: $57.48 USD
 - [Halloween Candy Tote Bag For Kids Funny Creative Witch Skull Pumpkin Gift Handbag Small Jewelry Props Shopping Bags - WebWorld Market](https://ed5a06-96.myshopify.com/products/halloween-candy-tote-bag-for-kids-funny-creative-witch-skull-pumpkin-gift-handbag-small-jewelry-props-shopping-bags): Product information: Image: Pumpkin, Witch, Ghost, Black Cat Material: Linen Craftsmanship: Half manual, Half mechanical Prop type: Cartoon doll costume Color: Pumpkin, Black Cat, Witch, Skull Size: Packing list: Package * 1PC Product Image: - WebWorld Market
-  Updated: 2025-08-10T16:20:45Z
+  Updated: 2025-09-09T11:08:03Z
   Vendor: WebWorld Market
   Product Type: 4
   Availability: Available
