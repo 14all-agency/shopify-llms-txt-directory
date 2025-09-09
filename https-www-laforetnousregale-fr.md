@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-08T08:00:27.719Z
+- Updated At: 2025-09-09T04:00:27.073Z
 
 ## Products
 
@@ -100,7 +100,7 @@
 ## Collections
 
 - [Produits Bio Forêt Française Saison 2024 - Champignons Fruits Sauvages - La Forêt Nous Régale](https://www.laforetnousregale.fr/collections/produits-saisons-bio-foret-francaise): 🌲 Produits bio de saison : champignons frais, fruits sauvages, plantes aromatiques de forêt française. Récolte responsable, fraîcheur garantie. Livraison France.
-  Updated: 2025-09-07T22:56:29Z
+  Updated: 2025-09-08T11:17:24Z
   Total Products: 2
 
 ## Blogs
@@ -109,52 +109,56 @@
   - [L’histoire du projet : de l’idée à la réalisation d'une forêt comestible](https://www.laforetnousregale.fr/blogs/infos/test): <p><strong>L'histoire d'un rêve devenu réalité : notre projet de forêt vivante</strong></p>
 <p>Tout a commencé par une passion : celle de la nature, de la biodiversité, et du désir de réconcilier l’homme avec son environnement. Nous rêvions d’un lieu où la forêt ne serait pas qu’un écosystème, mais aussi une source de bien-être, d’apprentissage, et de production durable.</p>
 <p>Aujourd’hui, ce rêve prend racine en Bretagne, un territoire riche de son patrimoine naturel et de son potentiel unique. Ce projet n’est pas simplement le nôtre — il est celui d’une communauté qui partage cette vision, et il continue de grandir grâce à chaque geste, chaque idée, et chaque moment partagé.</p>
-    Updated: 2025-01-24T10:15:37Z
+    Updated: 2025-09-08T15:33:55Z
     Author: Équipe Pacific Planet
     Tags: alimentation durable, Financement participatif, forêt comestible, Forêt nourricière, Jardin Forêt
   - [Ce que vous devriez savoir avant de semer une graine](https://www.laforetnousregale.fr/blogs/infos/ce-que-vous-devriez-savoir-avant-de-semer-une-graine): <p><strong>Semer une graine</strong>, c'est peut-être se faire <strong>engrainer</strong> dans un plan qui tombe à l'eau.<br>Pour ne pas que cela arrive, cet article résume les <strong>grands</strong> <strong>principes</strong> de fonctionnement <strong>d'une graine</strong>, en dormance dans votre main <strong>jusqu'à la vie</strong> en pleine terre.</p>
-    Updated: 2025-03-20T09:32:42Z
+    Updated: 2025-09-08T15:32:45Z
     Author: Équipe Pacific Planet
   - [6 idées de recettes](https://www.laforetnousregale.fr/blogs/infos/6-idees-de-recettes)
-    Updated: 2025-09-01T13:32:24Z
+    Updated: 2025-09-08T15:28:10Z
     Author: Équipe Pacific Planet
   - [Label biologique : garantie qualité pour produits forestiers | La forêt nous régale](https://www.laforetnousregale.fr/blogs/infos/comprendre-le-label-biologique-garantie-de-qualite-pour-vos-produits-forestiers): Label biologique : garantie qualité pour produits forestiers | La forêt nous régale
-    Updated: 2025-09-02T10:39:25Z
+    Updated: 2025-09-08T15:27:14Z
     Author: Équipe Pacific Planet
     Tags: biologique, environnement, label, qualité, santé
   - [Les trésors cachés de nos forêts françaises | La forêt nous régale](https://www.laforetnousregale.fr/blogs/infos/les-tresors-caches-de-nos-forets-francaises): Les trésors cachés de nos forêts françaises | La forêt nous régale
-    Updated: 2025-09-02T10:51:33Z
+    Updated: 2025-09-08T15:26:29Z
     Author: Équipe Pacific Planet
     Tags: Bio, cueillette, forêt, France, nature, plant, terroir, Vente
   - [Le Sylvanier : Le Jardinier de la Forêt](https://www.laforetnousregale.fr/blogs/infos/le-sylvanier-le-jardinier-de-la-foret)
-    Updated: 2025-09-04T10:14:19Z
+    Updated: 2025-09-08T15:25:41Z
     Author: Équipe Pacific Planet
   - [Comment appelle-t-on quelqu’un qui aime la forêt ?](https://www.laforetnousregale.fr/blogs/infos/comment-appelle-t-on-quelqu-un-qui-aime-la-foret): <p><meta charset="utf-8">Comment appelle-t-on quelqu’un qui aime la forêt ?</p>
-    Updated: 2025-09-06T06:00:01Z
+    Updated: 2025-09-08T15:24:52Z
     Author: Équipe Pacific Planet
     Tags: alimentation durable, Bio, environnement, forêt, forêt comestible, Forêt nourricière, Jardin Forêt, terroir
   - [11 raisons pour lesquelles les forêts sont importantes](https://www.laforetnousregale.fr/blogs/infos/11-raisons-pour-lesquelles-les-forets-sont-importantes)
-    Updated: 2025-09-06T10:50:31Z
+    Updated: 2025-09-08T15:24:08Z
     Author: Équipe Pacific Planet
   - [Bienfaits de la forêt](https://www.laforetnousregale.fr/blogs/infos/bienfaits-de-la-foret)
-    Updated: 2025-09-07T09:28:28Z
+    Updated: 2025-09-08T15:22:29Z
     Author: Équipe Pacific Planet
   - [Paiement USDC accepté - La forêt nous régale](https://www.laforetnousregale.fr/blogs/infos/nous-acceptons-maintenant-la-cryptomonnaie-usdc): Paiement USDC accepté - La forêt nous régale
     Updated: 2025-09-04T17:38:30Z
     Author: Équipe Pacific Planet
     Tags: cryptomonnaie, innovation, paiement, USDC
   - [5 recettes originales avec du sirop d'épicéa bio pour éveiller vos papilles !](https://www.laforetnousregale.fr/blogs/infos/5-recettes-originales-avec-du-sirop-depicea-bio-pour-eveiller-vos-papilles)
-    Updated: 2025-09-06T14:26:59Z
+    Updated: 2025-09-08T15:23:21Z
     Author: Équipe Pacific Planet
     Tags: biologique, épicéa, original, pas cher, recette, sirop
   - [Plongez dans l’histoire rurale Bretonne](https://www.laforetnousregale.fr/blogs/infos/plongez-dans-l-histoire-rurale-bretonne)
-    Updated: 2025-09-07T16:00:02Z
+    Updated: 2025-09-08T15:20:46Z
     Author: Équipe Pacific Planet
     Tags: Bio, biologique, environnement, forêt, nature, original
   - [Parce que la forêt est gourmande de Fabrice Desjours, Laurie Gilles, Claire Mauquié](https://www.laforetnousregale.fr/blogs/infos/parce-que-la-foret-est-gourmande-de-fabrice-desjours-laurie-gilles-claire-mauquie)
-    Updated: 2025-09-08T01:19:43Z
+    Updated: 2025-09-08T15:19:36Z
     Author: Équipe Pacific Planet
     Tags: alimentation durable, Bio, cueillette, environnement, épicéa, Fabrice Desjours, forêt comestible, Forêt nourricière, France, innovation, Jardin Forêt, recette, santé
+  - [Un Trésor Oublié de la Nature "Le chêne vert"](https://www.laforetnousregale.fr/blogs/infos/un-tresor-oublie-de-la-nature-le-chene-vert)
+    Updated: 2025-09-08T15:20:12Z
+    Author: Équipe Pacific Planet
+    Tags: alimentation durable, biologique, cueillette, environnement, forêt comestible, Forêt nourricière, France, nature, original, plant, qualité, sirop, terroir, Vente
 
 ## Store Pages
 
