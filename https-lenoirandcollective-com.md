@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-08T14:19:33.357Z
+- Updated At: 2025-09-09T04:00:27.502Z
 
 ## Products
 
@@ -223,27 +223,27 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/1121bc08b18d706a6a3b2ff4d2845873.jpg?v=1747068133
     Price: €20.00 EUR
 - [Elegant Outfits Made Easy with the Classic Chic Shirt](https://lenoirandcollective.com/products/classic-chic-shirt): Elegant Outfits Made Easy with the Classic Chic Shirt Discover the perfect blend of elegance and comfort with the Classic Chic Shirt.
-  Updated: 2025-09-07T19:59:27Z
+  Updated: 2025-09-08T17:07:49Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1751481288
+  Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/IMG-0223.png?v=1757351269
   - [Sandy Brown / Xs](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433577805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1751481288
-    Price: €32.44 EUR
+    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
+    Price: €37.44 EUR
   - [Sandy Brown / S](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433610573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1751481288
-    Price: €32.44 EUR
+    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
+    Price: €37.44 EUR
   - [Sandy Brown / M](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433643341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1751481288
-    Price: €32.44 EUR
+    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
+    Price: €37.44 EUR
   - [Sandy Brown / L](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433676109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1751481288
-    Price: €32.44 EUR
+    Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
+    Price: €37.44 EUR
 - [Vavabold Ruched Mock Neck Tee – Stylish and Comfortable](https://lenoirandcollective.com/products/vavabold-ruched-mock-neck-tee): Vavabold Ruched Mock Neck Tee offers a chic, ruched design combined with comfort for everyday wear. Perfect for layering or wearing on its own for a modern look
   Updated: 2025-09-07T19:45:09Z
   Vendor: Le noir & collective
@@ -310,7 +310,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/c0ccf8fb389c834d4c670263eb481389.jpg?v=1747077452
   Price: €20.99 EUR
 - [New Style Ladies Bag Fashion Shoulder Casual Messenger](https://lenoirandcollective.com/products/2023-new-style-ladies-bags-fashion-shoulder-bags-casual-messenger-bags-frosted-fabric-crossbody-bags-mobile-phone-bags-small-bag): 2023 New Style Ladies Bags feature fashion shoulder bags with casual messenger and frosted fabric crossbody designs. Ideal for mobile phone storage
-  Updated: 2025-09-07T11:21:43Z
+  Updated: 2025-09-09T01:30:05Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -665,7 +665,7 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 12
 - [Elegant Women Collection | Old Money Style](https://lenoirandcollective.com/collections/woman-outfit-1): Explore our Elegant Women Collection, inspired by timeless old money style. Perfect pieces to elevate your wardrobe.
-  Updated: 2025-09-07T19:07:24Z
+  Updated: 2025-09-08T17:04:40Z
   Total Products: 17
 - [Elegant Woman Bags Collection - Old Money Style](https://lenoirandcollective.com/collections/woman-outfit-2): Explore our elegant collection of woman bags inspired by old money sophistication.
   Updated: 2025-09-07T11:21:41Z
@@ -689,10 +689,10 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 6
 - [Small Collection 2](https://lenoirandcollective.com/collections/small-collection-2)
-  Updated: 2025-09-07T19:07:24Z
+  Updated: 2025-09-08T17:04:40Z
   Total Products: 13
 - [Featured Collection](https://lenoirandcollective.com/collections/featured-collection-skkzk)
-  Updated: 2025-09-07T19:07:24Z
+  Updated: 2025-09-08T17:04:40Z
   Total Products: 3
 
 ## Blogs
