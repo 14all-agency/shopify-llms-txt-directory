@@ -1,6 +1,5 @@
 # Lebenskraftpur (https://www.lebenskraftpur.de)
 
-
 Lebenskraftpur - Gesund durch die Kraft der Natur
 Nahrungsergänzungsmittel, Lebensmittel & Superfoods und Naturkosmetik für Ihr Wohlbefinden
 
