@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-09-09T12:00:27.703Z
+- Updated At: 2025-09-09T16:00:27.957Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-09-09T09:23:07Z
+  Updated: 2025-09-09T14:11:51Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Zinc1_e04ac993-ab63-4327-a19a-93f8948ebf9e.jpg?v=1743047450
   Price: $59.95 NZD
 - [Calm Restore](https://www.bioblends.com/products/calm-restore): Calm Restore offers relief for a busy mind, and from both acute and chronic stress. You can use it during the day to help calm anxious feelings or use it at night for better sleep quality. It’s a natural, non-drowsy formula designed to soothe your nervous system and ease tension, containing a blend of five highly effective botanicals — magnolia, zizyphus, lemon balm, chamomile, and withania. They work synergistically to reduce anxious feelings, alleviate irritability and promote a deep sense of calm. It's perfect for anyone feeling 'tired but wired' or struggling to unwind.
-  Updated: 2025-09-09T07:51:15Z
+  Updated: 2025-09-09T14:11:50Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-09-09T11:44:30Z
+  Updated: 2025-09-09T14:11:55Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
