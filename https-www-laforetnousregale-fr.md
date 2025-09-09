@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-09T04:00:27.073Z
+- Updated At: 2025-09-09T20:00:27.568Z
 
 ## Products
 
@@ -159,6 +159,10 @@
     Updated: 2025-09-08T15:20:12Z
     Author: Équipe Pacific Planet
     Tags: alimentation durable, biologique, cueillette, environnement, forêt comestible, Forêt nourricière, France, nature, original, plant, qualité, sirop, terroir, Vente
+  - [La Technogénèse c'est quoi ?](https://www.laforetnousregale.fr/blogs/infos/la-technogenese-cest-quoi)
+    Updated: 2025-09-09T08:30:01Z
+    Author: Équipe Pacific Planet
+    Tags: Bio, biologique, innovation, nature, technologie
 
 ## Store Pages
 
