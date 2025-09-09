@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-09T00:00:33.936Z
+- Updated At: 2025-09-09T04:00:34.025Z
 
 ## Products
 
@@ -1628,7 +1628,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-24cm-Fluted-Cake-Ring-An-9.jpg?v=1731902324
   Price: $33.99 NZD
 - [Anolon Ceramic Reinforced - 25 x 38cm Medium Baking Tray](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-25cmx-38cm-medium-baking-tray): This multi-purpose tray is an essential bakeware item in any kitchen. From savoury to sweet, this tray has so many uses; the only limit is your baking imagination. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C. This unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-09-08T23:13:58Z
+  Updated: 2025-09-09T02:37:10Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1747,28 +1747,28 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-30cm-French-Skillet-With-Bonus-Li-0.jpg?v=1731902627
   Price: $267.99 NZD
 - [Anolon Endurance+ 30cm/7.1L Covered Casserole](https://everydayhome.co.nz/products/anolon-endurance-30cm-7-1l-covered-casserole-p): Once this pan is in your kitchen you will wonder how you ever lived without it. Sauté seafood and vegetables for pasta, with plenty of room to stir the noodles right into the pan; or brown lamb shanks in this pan on the stovetop, and continue to braise them in the oven with root vegetables and red wine - there’s no need to even use another pan.
-  Updated: 2025-09-08T23:14:08Z
+  Updated: 2025-09-09T03:56:40Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-30cm-7-1L-Covered-Casserole-Anolo-4.jpg?v=1731903461
   Price: $275.99 NZD
 - [Anolon Endurance+ 34cm Open French Skillet](https://everydayhome.co.nz/products/anolon-endurance-34cm-open-french-skillet): Perfect for large families, this generous sized skillet allows for versatile cooking with the convenience of both stovetop and oven use. Effortlessly prepare any recipe from start to finish!
-  Updated: 2025-09-08T23:14:09Z
+  Updated: 2025-09-09T03:56:16Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-34cm-Open-French-Skillet-Anolon-6.jpg?v=1731903404
   Price: $297.99 NZD
 - [Anolon Endurance+ 36cm Wok](https://everydayhome.co.nz/products/anolon-endurance-36cm-wok): With its generous size and two helper handles, this wok offers plenty of room for a beautiful stir-fry technique. Toss and stir your ingredients quickly to maintain the bright notes of a stir-fry’s sweet-salty-tangy accents.
-  Updated: 2025-09-08T23:14:09Z
+  Updated: 2025-09-09T03:56:03Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-36cm-Wok-Anolon-8.jpg?v=1731902511
   Price: $314.99 NZD
 - [Anolon Endurance+ 6 Piece Cookware Set](https://everydayhome.co.nz/products/anolon-endurance-6-piece-cookware-set-16cm-1-9l-and-18cm-2-8l-saucepans-24cm-5-7l-stockpot-20cm-and-24cm-open-french-skillets-28cm-4-7l-covered-saute): Cook with confidence and precision with the Anolon Endurance+ 6 Piece Cookware Set. Perfectly suited for all your cooking needs, this set makes it easy to boil, simmer, sauté, and fry your favorite dishes to perfection.
-  Updated: 2025-09-08T23:14:10Z
+  Updated: 2025-09-09T03:58:03Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -4665,7 +4665,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineUniversalOpener-White-8710755400605Brabantia_300dpi_2000x2000px_9_NR-4562.jpg?v=1756432171
   Price: $26.99 NZD
 - [Brabantia Essential Can Opener - White](https://everydayhome.co.nz/products/brabantia-essential-can-opener-white): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-08T23:16:08Z
+  Updated: 2025-09-09T03:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -5263,10 +5263,10 @@
   Updated: 2025-09-08T23:12:27Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-08T23:20:39Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-08T23:20:39Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-09-08T23:16:53Z
@@ -5383,7 +5383,7 @@
   Updated: 2025-09-08T23:16:50Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
-  Updated: 2025-09-08T23:16:44Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
   Updated: 2025-09-08T23:15:58Z
@@ -5407,7 +5407,7 @@
   Updated: 2025-09-08T23:15:07Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
-  Updated: 2025-09-08T23:16:44Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 90
 - [Laundry Bins & Hampers](https://everydayhome.co.nz/collections/laundry-bins-hampers)
   Updated: 2025-09-08T23:13:51Z
@@ -5476,7 +5476,7 @@
   Updated: 2025-09-08T23:14:11Z
   Total Products: 9
 - [Clothes Airers](https://everydayhome.co.nz/collections/clothes-airers)
-  Updated: 2025-09-08T23:16:44Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 41
 - [Ironing Boards](https://everydayhome.co.nz/collections/ironing-boards)
   Updated: 2025-09-08T23:15:36Z
@@ -5524,7 +5524,7 @@
   Updated: 2025-09-08T23:13:07Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-09-08T23:20:39Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 1038
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
   Updated: 2025-09-08T23:16:53Z
@@ -5533,7 +5533,7 @@
   Updated: 2025-09-08T23:16:18Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
-  Updated: 2025-09-08T23:16:44Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
   Updated: 2025-09-08T23:16:50Z
@@ -5614,13 +5614,13 @@
   Updated: 2025-09-03T11:06:44Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
-  Updated: 2025-09-08T23:11:53Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 40
 - [Clothing Protection & Storage](https://everydayhome.co.nz/collections/clothing-protection-storage)
   Updated: 2025-09-08T22:42:45Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-08T23:20:39Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-09-08T23:17:30Z
@@ -5629,7 +5629,7 @@
   Updated: 2025-09-08T23:15:33Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
-  Updated: 2025-09-08T23:11:54Z
+  Updated: 2025-09-09T01:56:44Z
   Total Products: 57
 - [Clothes Airers & Retractable Lines](https://everydayhome.co.nz/collections/clothes-airers-retractable-lines): Your solutions to indoor drying this winter.
   Updated: 2025-09-08T23:11:50Z
