@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-07-02T12:11:25Z
 - Contact Email: hello@throwline.co.uk
-- Updated At: 2025-09-10T00:00:28.117Z
+- Updated At: 2025-09-10T20:00:28.549Z
 
 ## Products
 
@@ -302,6 +302,9 @@
 - [APPPlaza - Best Sellers](https://www.throwline.co.uk/collections/appplaza-best-sellers)
   Updated: 2025-08-31T15:46:38Z
   Total Products: 12
+- [Partner Products](https://www.throwline.co.uk/collections/partner-products)
+  Updated: 2025-09-10T19:42:34Z
+  Total Products: 0
 
 ## Store Pages
 
@@ -311,8 +314,8 @@
   Updated: 2025-08-30T16:52:57Z
 - [Data Sharing Opt Out | Throwline Darts](https://www.throwline.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-07-16T08:58:34Z
-- [HTML Sitemap](https://www.throwline.co.uk/pages/html-sitemap): Products Dart Anatomy Wall Art Print with Frame Get to the Point Wall Art With Frame Dart Board Anatomy Wall Art With Frame Darts Pop Art Wall Art ...
-  Updated: 2025-08-17T16:55:12Z
+- [Directory Sites](https://www.throwline.co.uk/pages/directory-sites)
+  Updated: 2025-09-10T19:42:36Z
 
 ## Policies
 
