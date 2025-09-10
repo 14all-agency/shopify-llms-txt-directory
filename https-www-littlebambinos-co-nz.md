@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-09T20:00:44.195Z
+- Updated At: 2025-09-10T00:00:43.528Z
 
 ## Products
 
@@ -665,7 +665,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/03_SANDNATUR.jpg?v=1706577297
   Price: $139.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Cappuccino](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-cappuccino): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-09-08T21:40:36Z
+  Updated: 2025-09-09T21:28:41Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
@@ -950,6 +950,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/60Rainbow.jpg?v=1697100552
   Price: $139.00 NZD
+- [CONNETIX Rainbow Mega Pack 212pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-maga-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The mega pack comes with enough tiles to build a city, with vehicles to explore it. It includes 212 magnetic building tiles including hexagonal pieces. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
+  Updated: 2025-09-09T21:34:27Z
+  Vendor: Connetix
+  Product Type: magnetic kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Mega1copy.jpg?v=1636411896
+  Price: $389.00 NZD
 - [VIVA LA VULVA Perineal Power - Soothing Postpartum Ice Pack](https://www.littlebambinos.co.nz/products/viva-la-vulva-perineal-power-soothing-postpartum-ice-pack): Let this postpartum perineal icepack take care of down there while you take care of your baby. Viva La Vulva Postpartum Ice Packs have been specifically designed and contoured to fit down there to help you â€˜chillâ€™ comfortably. Cold therapy is a safe and natural way to soothe pain and reduce swelling from postpartum tearing, haemorrhoids and wounds. You got this mama!
   Updated: 2025-08-06T22:41:07Z
   Vendor: Viva La Vulva
@@ -7325,6 +7332,20 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $159.00 NZD
+- [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
+  Updated: 2025-09-09T21:34:26Z
+  Vendor: Connetix
+  Product Type: magnetic kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/102Rainbow_6c6b0505-af46-40ab-a958-391aea7b1485.jpg?v=1702936126
+  Price: $189.00 NZD
+- [CONNETIX Pastel Mega Pack 202pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-mega-pack-202pc): Explore a rainbow of pastel delight and let your imagination soar with our 202 Piece Pastel Mega Pack! Featuring all our standard tile shapes in 8 unique earthy pastel colours PLUS two car bases, this pack is the ultimate option to kickstart or grow your magnetic tile collection. Expand the range of colours children know with our hues of rose, berry, peach, mint, emerald, lemon, violet and sapphire. Providing endless possibilities for creativity and learning through PLAY, the Pastel Mega Pack is the perfect option for siblings, family and/or friends to enjoy building MEGA Connetix creations together!
+  Updated: 2025-09-09T21:34:26Z
+  Vendor: Connetix
+  Product Type: magnetic kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
+  Price: $389.00 NZD
 - [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
   Updated: 2025-09-05T21:57:56Z
   Vendor: Connetix
@@ -10352,6 +10373,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_16_Piece_Roads_R_I.jpg?v=1725229348
   Price: $139.00 NZD
+- [CONNETIX Creative Roads Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-creative-roads-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
+  Updated: 2025-09-09T21:34:26Z
+  Vendor: Connetix
+  Product Type: magnetic kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_48_Piece_Roads_Creative_Pack.jpg?v=1725230414
+  Price: $235.00 NZD
 - [CONNETIX Rainbow Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
   Updated: 2025-08-23T22:32:32Z
   Vendor: Connetix
@@ -11310,28 +11338,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-07T22:14:40Z
+  Updated: 2025-09-09T20:30:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-09-09T03:42:41Z
+  Updated: 2025-09-09T20:42:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-09-06T03:02:41Z
+  Updated: 2025-09-09T21:36:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-09T04:22:42Z
+  Updated: 2025-09-09T23:42:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13492,14 +13520,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
 - [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-09-05T23:02:41Z
+  Updated: 2025-09-09T22:42:45Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-09-08T06:42:45Z
+  Updated: 2025-09-09T22:42:45Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13558,7 +13586,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-09-09T10:02:43Z
+  Updated: 2025-09-09T22:42:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13625,7 +13653,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/MaskBrush_c74c0bfc-4efa-4f87-b6a4-1da6c587c017.jpg?v=1744001924
   Price: $15.00 NZD
 - [ORIA SKIN Bag](https://www.littlebambinos.co.nz/products/oria-skin-bag): The Oria Skin Bag for all your skincare essentials! Meet the Oria Skin Bag—the perfect blend of practicality and style for your bathroom essentials! Crafted from durable, washable neoprene, this functional skincare bag is designed to keep all your favorite products safe. Plenty of space to store everything you need, including your shampoo and conditioner bottles, hairbrush and more! Not only is it super practical, but it's also padded for extra protection, keeping your products safe from bumps and spills. Plus, its sleek, minimalist design looks gorgeous sitting on your bathroom bench, adding a touch of elegance to your space. No more cluttered countertops or juggling multiple bottles—just tidy, functional style at your fingertips! Why You’ll Love It: Spacious & Functional: Fits all your bathroom essentials with ease—shampoo, conditioner, skincare, and more! Washable & Durable: Made from neoprene that’s easy to clean and built to last. Padded Protection: Keep your products safe from spills and drops with extra padding. Sleek & Stylish: The minimalist design adds a chic touch to any bathroom. Perfectly Sized: A great fit for bathroom counters, vanities, or travel packing. Add some organization and style to your skincare routine with the Oria Skin Bag—where beauty meets functionality!
-  Updated: 2025-08-06T22:50:34Z
+  Updated: 2025-09-09T22:38:41Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -15178,14 +15206,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-09T03:22:52Z
+  Updated: 2025-09-09T23:22:45Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-09T03:23:04Z
+  Updated: 2025-09-09T23:22:45Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15329,8 +15357,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-09T19:43:11Z
-  Total Products: 392
+  Updated: 2025-09-09T23:43:11Z
+  Total Products: 394
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -16166,8 +16194,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-09T11:02:02Z
-  Total Products: 5557
+  Updated: 2025-09-09T21:41:36Z
+  Total Products: 5542
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-09-09T11:02:02Z
   Total Products: 242
@@ -16181,7 +16209,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-09T19:43:11Z
+  Updated: 2025-09-09T23:43:11Z
   Total Products: 1291
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-07T11:02:21Z
