@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-10T12:00:54.417Z
+- Updated At: 2025-09-10T16:00:52.128Z
 
 ## Products
 
@@ -34853,7 +34853,7 @@
     Availability: Available
     Price: ‏180.00 ‏₪ ILS
 - [חולצת כדורגל אינטרנסיונל בית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-אינטרנסיונל-בית-2024-גברים): חולצת הבית של אינטרנסיונל לעונת 2024 מביאה עמה עיצוב קלאסי ואיקוני בצבע האדום המזוהה עם המועדון, יחד עם נגיעות מודרניות שנותנות לה מראה רענן. עשויה מ-100% פוליאסטר עם בד נושם וקל משקל שמנדף זיעה, החולצה מתאימה למשחק, אימון או לבוש יומיומי. מושלמת לאוהדים שרוצים לתמוך בקבוצה בנוחות ובסטייל.
-  Updated: 2025-09-09T23:53:25Z
+  Updated: 2025-09-10T15:02:48Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37571,7 +37571,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-09-07T22:03:06Z
+  Updated: 2025-09-10T14:03:36Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -38147,6 +38147,27 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-פ-צ-קלן-בית-25-26-גברים?variant=47487202918650)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+- [חולצת כדורגל מיינץ 05 בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים): גלה מבחר רחב של חולצות כדורגל מיינץ 05, חולצות איכותיות שמבטאות את הגאווה והנאמנות שלך לקבוצה. עם עיצובים מודרניים, נוחות מקסימלית ופריטים שמזכירים את ההיסטוריה המפוארת של המועדון, כל חולצה תאפשר לך להרגיש חלק מהקבוצה בכל רגע. בין אם אתה אוהד ותיק או חדש, הקולקציה שלנו מציעה את כל מה שאתה צריך כדי להראות את התמיכה שלך במיינץ 05.
+  Updated: 2025-09-10T15:06:55Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_8bf94682-e154-491c-8741-efa9279997fa.jpg?v=1752090921
+  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים?variant=47497384001786)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים?variant=47497384034554)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים?variant=47497384067322)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים?variant=47497384100090)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים?variant=47497384132858)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת משחק בורוסיה מנשנגלדבך בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-בורוסיה-מנשנגלדבך-בית-25-26-גברים): חולצת משחק בורוסיה מנשנגלדבך בית 25/26 מעוצבת בגווני לבן ושחור קלאסיים, המשלבים אלגנטיות עם מסורת המועדון. החולצה עשויה מ-100% פוליאסטר קל ונושם, שמבטיח נוחות מקסימלית ותחושת רעננות לאורך כל המשחק. הגזרה הרגילה שלה מאפשרת חופש תנועה מלא לאורך כל הפעילות.
@@ -45704,6 +45725,9 @@
     Author: R- SPORT
   - [חולצת צ’לסי שלישית 25/26 – עיצוב חדש ומרשים](https://www.rsport.co.il/blogs/חולצות-כדורגל/חולצת-צלסי-שלישית-25-26): חולצת צ’לסי שלישית 25/26 – עיצוב חדש ומרשים
     Updated: 2025-09-07T22:18:45Z
+    Author: R- SPORT
+  - [ליברפול חולצה שלישית 25/26](https://www.rsport.co.il/blogs/חולצות-כדורגל/ליברפול-חולצה-שלישית)
+    Updated: 2025-09-10T15:24:02Z
     Author: R- SPORT
 
 ## Store Pages
