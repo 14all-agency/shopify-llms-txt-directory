@@ -6,7 +6,7 @@
 - Timezone: America/Guatemala
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-10T04:00:29.123Z
+- Updated At: 2025-09-10T12:00:29.590Z
 
 ## Products
 
@@ -1076,11 +1076,11 @@
 ## Policies
 
 - [Privacy Policy](https://trustedtechteam.digital/policies/privacy-policy)
-  Updated: 2025-05-07T00:36:53-06:00
+  Updated: 2025-05-07T02:36:53-04:00
 - [Refund Policy](https://trustedtechteam.digital/policies/refund-policy)
-  Updated: 2025-07-09T04:29:43-06:00
+  Updated: 2025-07-09T06:29:43-04:00
 - [Terms of Service](https://trustedtechteam.digital/policies/terms-of-service)
-  Updated: 2025-07-09T04:28:37-06:00
+  Updated: 2025-07-09T06:28:37-04:00
 
 ## Optional
 
