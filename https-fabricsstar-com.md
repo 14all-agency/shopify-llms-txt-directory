@@ -1,12 +1,12 @@
-# Fabrics Star (https://fabricsstar.com)
+# The Tablecloth Store (https://fabricsstar.com)
 
 - Domain: https://fabricsstar.com
 - Locale: en
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
-- Contact Email: info@Fabricsstar.com
-- Updated At: 2025-09-10T20:54:24.756Z
+- Contact Email: info@thetableclothstore.com
+- Updated At: 2025-09-10T21:13:15.011Z
 
 ## Products
 
@@ -9681,6 +9681,13 @@
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
   Updated: 2025-09-10T15:00:07Z
   Total Products: 240
+
+## Blogs
+
+- [News](https://fabricsstar.com/blogs/news)
+  - [Top Five Fabric Trends Taking the Fashion Industry by Storm](https://fabricsstar.com/blogs/news/top-five-fabric-trends-taking-the-fashion-industry-by-storm): Top Five Fabric Trends Taking the Fashion Industry by Storm
+    Updated: 2025-09-10T21:07:02Z
+    Author: User
 
 ## Store Pages
 
