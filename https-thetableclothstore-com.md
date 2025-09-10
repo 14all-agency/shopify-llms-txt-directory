@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-10T20:58:29.553Z
+- Updated At: 2025-09-10T22:23:14.270Z
 
 ## Products
 
@@ -33705,6 +33705,13 @@
 - [72 Inch - The Tablecloth Store](https://thetableclothstore.com/collections/72-inch): - The Tablecloth Store
   Updated: 2025-09-08T19:56:39Z
   Total Products: 22
+
+## Blogs
+
+- [News](https://thetableclothstore.com/blogs/news)
+  - [Top 10 Tablecloth Trends to Elevate Your Dining Space](https://thetableclothstore.com/blogs/news/top-10-tablecloth-trends-to-elevate-your-dining-space): Top 10 Tablecloth Trends to Elevate Your Dining Space
+    Updated: 2025-09-10T21:07:45Z
+    Author: User
 
 ## Store Pages
 
