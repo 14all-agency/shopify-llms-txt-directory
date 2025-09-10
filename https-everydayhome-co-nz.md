@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-10T04:00:35.414Z
+- Updated At: 2025-09-10T08:00:34.648Z
 
 ## Products
 
@@ -1341,7 +1341,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Hangon-Drying-Rack-20M-Matt-Black-3.png?v=1727659283
   Price: $114.99 NZD
 - [Brabantia HangOn Drying Rack - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! With 25 meters of flexible drying space, and room for 8 extra clothes hangers, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. Let's hang out!
-  Updated: 2025-09-09T21:32:27Z
+  Updated: 2025-09-10T05:32:51Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1992,7 +1992,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-34cm-Open-Stirfry-Circu-8.jpg?v=1731901960
   Price: $229.99 NZD
 - [Circulon Scratchdefense A1 - 8 Piece Cookware Set](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-8pc-cookware-set): Elevate your kitchen with the Circulon ScratchDefense 8-Piece Cookware Set. This collection includes essential pieces designed for culinary excellence. Crafted with care, it features a Covered Straining Saucepan 16cm/1.9L, a Covered Stockpot 24cm/5.7L, a Covered Saute 24cm/2.8L, a Open Skillet 21.5cm and a Open Skillet 25.4cm. With ScratchDefense technology, these pans stand up to the rigours of daily cooking, ensuring durability and longevity. Experience superior heat distribution and nonstick performance.
-  Updated: 2025-09-08T23:14:29Z
+  Updated: 2025-09-10T04:52:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2629,7 +2629,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-24cm-7-6L-Stockpot-Raco-6.jpg?v=1731902939
   Price: $135.99 NZD
 - [Raco Contemporary - 28cm Frypan](https://everydayhome.co.nz/products/raco-contemporary-28cm-open-french-skillet): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Family Feast Ready: The 28cm Nonstick Frypan This Frypan is perfect for larger families. Whether you're frying, sautéing, searing, or stir-frying, this pan makes it easy to cook up delicious meals for everyone.
-  Updated: 2025-09-08T23:15:21Z
+  Updated: 2025-09-10T06:07:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
