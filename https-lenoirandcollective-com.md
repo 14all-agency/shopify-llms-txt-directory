@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-09T04:00:27.502Z
+- Updated At: 2025-09-10T12:00:28.266Z
 
 ## Products
 
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/1121bc08b18d706a6a3b2ff4d2845873.jpg?v=1747068133
     Price: €20.00 EUR
 - [Elegant Outfits Made Easy with the Classic Chic Shirt](https://lenoirandcollective.com/products/classic-chic-shirt): Elegant Outfits Made Easy with the Classic Chic Shirt Discover the perfect blend of elegance and comfort with the Classic Chic Shirt.
-  Updated: 2025-09-08T17:07:49Z
+  Updated: 2025-09-09T05:50:05Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -439,7 +439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/4cd21673000e6a5eb6ae7dfb26a3ef22.jpg?v=1747077480
   Price: €31.80 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-07T19:49:48Z
+  Updated: 2025-09-10T09:44:14Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
