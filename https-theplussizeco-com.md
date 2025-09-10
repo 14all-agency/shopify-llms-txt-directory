@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-09T16:00:27.880Z
+- Updated At: 2025-09-10T00:00:28.230Z
 
 ## Products
 
@@ -183,7 +183,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Yellow_Mandarin_Cotton_Straight_Cut_Suit_3.png?v=1753942661
   Price: ₹1,295.00 INR
 - [Plus Size Yellow Printed Straight Cut Cotton Suit- The Plus Size Co.](https://theplussizeco.com/products/yellow-printed-straight-cut-cotton-suit): Bring sunshine to day with Yellow Printed Straight Cut Cotton Suit. Features cotton fabric and 3/4th sleeves. Paired with pant & dupatta . Sizes in XL to 10XL.
-  Updated: 2025-09-09T05:13:32Z
+  Updated: 2025-09-09T17:24:15Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -195,7 +195,7 @@
     Availability: Available
     Price: ₹1,194.00 INR
   - [7XL](https://theplussizeco.com/products/yellow-printed-straight-cut-cotton-suit?variant=44671044124725)
-    Availability: Available
+    Availability: Not Available
     Price: ₹1,194.00 INR
   - [8XL](https://theplussizeco.com/products/yellow-printed-straight-cut-cotton-suit?variant=44671044157493)
     Availability: Available
@@ -553,7 +553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Navy_Abstract_Printed_Dress_with_Pockets.png?v=1754466929
   Price: ₹995.00 INR
 - [Plus Size Peach Digital Printed Dress with Pockets- plus size store](https://theplussizeco.com/products/peach-digital-printed-dress-with-pockets): A dress that blends modern artistry with our Peach Digital Printed Dress with Pockets. features poly satin fabric and square neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-09T11:56:26Z
+  Updated: 2025-09-09T23:57:29Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -623,7 +623,7 @@
     Availability: Not Available
     Price: ₹995.00 INR
 - [Plus Size Smoke Black Abstract Co-ord Set with Pockets- The Plus Size Co.](https://theplussizeco.com/products/smoke-black-abstract-co-ord-set-with-pockets): Bold black tones with our Smoke Black Abstract Co-ord Set with Pockets. Features poly satin and 3/4th sleeves. Paired with pant. Sizes in XL to 10XL.
-  Updated: 2025-09-09T11:35:05Z
+  Updated: 2025-09-09T23:30:46Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -730,7 +730,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeWhiteStarCo-ordSetwithPockets_2.png?v=1755343670
   Price: ₹1,195.00 INR
 - [So Hearty Collared Co-ord Set with Pockets - The Plus SizeCo](https://theplussizeco.com/products/so-hearty-collared-co-ord-set-with-pockets): Stay effortlessly chic with our So Hearty Collared Co-ord Set with Pockets. Features polyester fabric and collar neckline. Paired with pant. Sizes in XL to 10XL.
-  Updated: 2025-09-09T08:23:21Z
+  Updated: 2025-09-09T17:13:36Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
