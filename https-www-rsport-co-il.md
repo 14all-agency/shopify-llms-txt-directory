@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-10T08:00:53.434Z
+- Updated At: 2025-09-10T12:00:54.417Z
 
 ## Products
 
@@ -9746,7 +9746,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק ווסטהאם יונייטד חוץ 24/25](https://www.rsport.co.il/products/חולצת-משחק-ווסטהאם-יונייטד-חוץ-24-25): החולצה עשויה מ-100% פוליאסטר המספק נוחות ואוורור במהלך פעילות ספורטיבית. עם גזרה רגילה ולוגו רקום, היא מתאימה לשימוש יומיומי ולסגנונות ספורטיביים מגוונים.
-  Updated: 2025-09-07T22:14:46Z
+  Updated: 2025-09-10T09:40:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -41562,7 +41562,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [חולצת מנצ'סטר יונייטד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים): התלבושת השלישית לעונת 25/26 מציגה שילוב מרהיב של שחור, צהוב וכחול, שמוסיף לה נגיעה ייחודית ואנרגטית. עשויה מבד פוליאסטר איכותי, קל ונושם, המעניק תחושת נוחות מקסימלית גם בזמן משחק אינטנסיבי וגם ביום יום, סמל המועדון בגימור מודגש יחד עם פרטים עיצוביים עכשוויים הופכים את החולצה לפריט חובה עבור כל אוהד שמעוניין להציג בגאווה את תמיכתו בקבוצה בכל סיטואציה.
-  Updated: 2025-09-07T22:01:17Z
+  Updated: 2025-09-10T11:11:07Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -44982,25 +44982,25 @@
 ## Collections
 
 - [ליגה אנגלית חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ליגה-אנגלית): המבחר הגדול ביותר של חולצות ומוצרי כדורגל מהליגה האנגלית – עכשיו באר ספורט מציעים לכם מגוון רחב של חולצות כדורגל מהפרמייר ליג, כולל חולצות משחק רשמיות, חולצות אוהד, חליפות ילדים, אימוניות, מעילי רוח, חולצות שוער, חולצות עבר, בגדי תינוקות ועוד. כל המוצרים באיכות הגבוהה ביותר ובמחירים אטרקטיביים. תמצאו כאן את המותגים של הקבוצות הגדולות בעולם – מנצ'סטר סיטי, מנצ'סטר יונייטד, ליברפול, ארסנל, צ'לסי, טוטנהאם ועוד.
-  Updated: 2025-09-09T15:15:45Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 227
 - [ארסנל חולצות כדורגל, חליפות ספורט ומוצרי אוהדים | Arsenal FC](https://www.rsport.co.il/collections/ארסנל): חולצות ארסנל, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מבחר רחב של מוצרים לאוהדי Arsenal איכות, סטייל ונאמנות למועדון.
   Updated: 2025-09-01T11:18:24Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-09T15:15:43Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 917
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-09T15:15:45Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-09T15:15:45Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 322
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-08-26T11:18:22Z
   Total Products: 37
 - [מנצ'סטר יונייטד](https://www.rsport.co.il/collections/מנצסטר-יונייטד): גלה מגוון חולצות מנצ’סטר יונייטד לגברים, נשים וילדים. חולצות בית, חוץ, שלישיות וחולצות שוער. הדפסה עם שם ומספר של שחקנים או בהתאמה אישית. משלוח מהיר, אפשרות החלפה קלה. קנה עכשיו ב־ RSPORT
-  Updated: 2025-09-08T11:16:01Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 67
 - [מנצ’סטר סיטי חולצות כדורגל, חליפות ומוצרי ספורט | Manchester City](https://www.rsport.co.il/collections/מנצסטר-סיטי): חולצות מנצ’סטר סיטי, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מגוון עיצובים עדכניים ואיכותיים לאוהדי Manchester City – סטייל ונאמנות למועדון.
   Updated: 2025-08-25T11:16:01Z
@@ -45021,19 +45021,19 @@
   Updated: 2025-08-25T18:38:27Z
   Total Products: 46
 - [רומא](https://www.rsport.co.il/collections/רומא): רומא הוא מועדון עם היסטוריה מפוארת, תשוקה אדירה ומסורת של כדורגל התקפי מרהיב. כאן תוכל למצוא את מגוון החולצות והאביזרים שמחברים אותך למועדון... הצג עוד רומא הוא לא רק מועדון כדורגל – זו תרבות של עוצמה, גאווה ורוח צעירה לצד מסורת אליפויות מרתקת. כאן תוכל למצוא את כל החולצות – בית, חוץ ושלישיות, בנוסף לחולצות אימון וחולצות לילדים בעיצוב מרהיב. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולבצע הצהרה של סטייל וגאווה בכל הזדמנות. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות והאהבה למועדון. לבש את צבעי רומא בגאווה. הצג פחות רומא הוא מועדון עם היסטוריה מפוארת, תשוקה אדירה ומסורת של כדורגל התקפי מרהיב... הצג עוד רומא הוא לא רק מועדון כדורגל – זו תרבות של עוצמה, גאווה ורוח צעירה לצד מסורת אליפויות מרתקת. כאן תוכל למצוא את כל החולצות – בית, חוץ ושלישיות, בנוסף לחולצות אימון וחולצות לילדים בעיצוב מרהיב. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולבצע הצהרה של סטייל וגאווה בכל הזדמנות. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות והאהבה למועדון. לבש את צבעי רומא בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #a91c1c; /* צבע רומא כהה */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.querySelector('.short-text-desktop'); const fullDesktop = document.querySelector('.full-text-desktop'); const showMoreDesktop = document.querySelector('.toggle-btn-desktop'); const showLessDesktop = document.querySelector('.toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
-  Updated: 2025-08-28T15:00:48Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 24
 - [נאופלי](https://www.rsport.co.il/collections/נאופלי)
-  Updated: 2025-08-20T08:23:11Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 18
 - [חולצות כדורגל ברצלונה ומוצרי ספורט של המועדון מבחר רחב של פריטים](https://www.rsport.co.il/collections/ברצלונה): רכוש את חולצת ברצלונה המועדפת עליך האתר המוביל למוצרי ספורט איכותיים תמצא מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת ברצלונה במחירים משתלמים. אל תפספס  היכנס עכשיו ותהיה חלק מההיסטוריה של המועדון
   Updated: 2025-09-03T11:17:07Z
   Total Products: 68
 - [חולצות כדורגל ומוצרי ספורט של הליגה הספרדית](https://www.rsport.co.il/collections/ליגה-ספרדית): גלה את המבחר הגדול של חולצות כדורגל מהליגה הספרדית – ברצלונה, ריאל מדריד, אתלטיקו מדריד ועוד
-  Updated: 2025-09-08T11:16:01Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 135
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
-  Updated: 2025-08-29T11:18:24Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 135
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
   Updated: 2025-09-07T11:18:57Z
@@ -45066,7 +45066,7 @@
   Updated: 2025-08-05T22:10:25Z
   Total Products: 19
 - [נבחרת ברזיל חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ברזיל): רכוש חולצות כדורגל נבחרת ברזיל – חולצות משחק, אוהדים, חולצות רטרו, חליפות ילדים ועוד במחירים אטרקטיביים ומשלוח מהיר לכל הארץ
-  Updated: 2025-09-04T11:18:07Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
   Updated: 2025-09-09T15:15:45Z
@@ -45084,7 +45084,7 @@
   Updated: 2025-08-26T11:18:22Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
-  Updated: 2025-09-08T11:16:01Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 60
 - [לידס יונייטד](https://www.rsport.co.il/collections/לידס-יונייטד)
   Updated: 2025-08-20T11:19:50Z
@@ -45111,7 +45111,7 @@
   Updated: 2025-08-05T22:10:26Z
   Total Products: 17
 - [נאפולי](https://www.rsport.co.il/collections/נאפולי): נאפולי הוא יותר ממועדון – זו אהבה, תשוקה וכדורגל איכותי עם סגנון ייחודי מדרום איטליה. כאן תמצא את כל החולצות והאביזרים שמחברים אותך למועדון... הצג עוד נאפולי (SCC Napoli) הוא סמל של סגנון, מסורת ותשוקה אדירה לכדורגל, שמשלב היסטוריה מפוארת עם רוח צעירה וחדשנית. כאן תוכל למצוא מגוון רחב של חולצות – בית, חוץ ושלישיות – בנוסף לחולצות אימון ולפריטים לילדים בעיצובים מרהיבים. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולהצהיר על גאווה וסטייל בכל מקום. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות למועדון. לבש את צבעי נאפולי בגאווה. הצג פחות נאפולי הוא יותר ממועדון – זו אהבה, תשוקה וכדורגל איכותי מדרום איטליה... הצג עוד נאפולי (SCC Napoli) הוא סמל של סגנון, מסורת ותשוקה אדירה לכדורגל, שמשלב היסטוריה מפוארת עם רוח צעירה וחדשנית. כאן תוכל למצוא מגוון רחב של חולצות – בית, חוץ ושלישיות – בנוסף לחולצות אימון ולפריטים לילדים בעיצובים מרהיבים. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולהצהיר על גאווה וסטייל בכל מקום. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות למועדון. לבש את צבעי נאפולי בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #1d4d92; /* צבע כחול נאפולי */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.querySelector('.short-text-desktop'); const fullDesktop = document.querySelector('.full-text-desktop'); const showMoreDesktop = document.querySelector('.toggle-btn-desktop'); const showLessDesktop = document.querySelector('.toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
-  Updated: 2025-08-28T15:11:45Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 18
 - [גופיות כדורסל](https://www.rsport.co.il/collections/גופיות-כדורסל)
   Updated: 2025-08-17T20:37:34Z
@@ -45213,10 +45213,10 @@
   Updated: 2025-08-17T20:37:33Z
   Total Products: 16
 - [חולצות רטרו](https://www.rsport.co.il/collections/חולצות-רטרו)
-  Updated: 2025-09-04T11:18:07Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 204
 - [נבחרות רטרו](https://www.rsport.co.il/collections/נבחרות-רטרו)
-  Updated: 2025-08-05T22:10:29Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 46
 - [נבחרת צרפת רטרו](https://www.rsport.co.il/collections/נבחרת-צרפת-רטרו)
   Updated: 2025-08-05T22:10:29Z
@@ -45225,16 +45225,16 @@
   Updated: 2025-08-05T22:10:29Z
   Total Products: 10
 - [נבחרת ברזיל רטרו](https://www.rsport.co.il/collections/נבחרת-ברזיל-רטרו)
-  Updated: 2025-08-05T22:10:30Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 11
 - [מילאן רטרו](https://www.rsport.co.il/collections/מילאן-רטרו)
   Updated: 2025-08-11T09:15:10Z
   Total Products: 13
 - [אינטר רטרו | חולצות כדורגל רטרו ומוצרי ספורט](https://www.rsport.co.il/collections/אינטר-רטרו): גלה את קולקציית החולצות הרטרו של אינטר מילאנו חולצות כדורגל קלאסיים לאוהדים. חולצות בית וחוץ עם עיצובים נוסטלגיים ומרשימים, דגש על נוחות, איכות וסטייל איטלקי
-  Updated: 2025-09-04T11:18:07Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 11
 - [ליגה איטלקית רטרו](https://www.rsport.co.il/collections/ליגה-איטלקית-רטרו)
-  Updated: 2025-09-04T11:18:07Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 40
 - [יובנטוס רטרו](https://www.rsport.co.il/collections/יובנטוס-רטרו)
   Updated: 2025-08-29T11:18:24Z
@@ -45348,7 +45348,7 @@
   Updated: 2025-08-05T22:10:33Z
   Total Products: 3
 - [ויאריאל](https://www.rsport.co.il/collections/ויאריאל)
-  Updated: 2025-08-05T22:10:33Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 2
 - [ריאל בטיס](https://www.rsport.co.il/collections/ריאל-בטיס)
   Updated: 2025-08-05T22:10:33Z
@@ -45363,16 +45363,16 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 34
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-09T15:15:45Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 808
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-09T15:15:41Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 244
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-09-05T11:17:54Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-09T15:15:41Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 698
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-09T15:15:46Z
@@ -45456,13 +45456,13 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-09T15:15:46Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 2019
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-09-09T15:15:45Z
+  Updated: 2025-09-10T11:18:41Z
   Total Products: 265
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-08-05T22:10:36Z
