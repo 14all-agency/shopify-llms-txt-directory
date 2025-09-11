@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-11T08:00:31.232Z
+- Updated At: 2025-09-11T12:00:31.799Z
 
 ## Products
 
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-LODEN-GREEN.jpg?v=1757517170
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric-2): Discover luxurious Soft Velvet Fabric at Fabrics Star. Perfect for a variety of sewing projects, this fabric offers both elegance and comfort.
-  Updated: 2025-09-10T15:13:30Z
+  Updated: 2025-09-11T11:03:36Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-11T03:47:13Z
+  Updated: 2025-09-11T11:41:41Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9652,7 +9652,7 @@
   Updated: 2025-09-10T11:14:33Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-09-10T15:10:47Z
+  Updated: 2025-09-11T11:13:17Z
   Total Products: 16
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-09-03T11:12:20Z
@@ -9667,19 +9667,19 @@
   Updated: 2025-09-06T11:13:48Z
   Total Products: 8
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-09-10T11:14:33Z
+  Updated: 2025-09-11T11:13:17Z
   Total Products: 240
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-09-10T11:14:33Z
+  Updated: 2025-09-11T11:13:17Z
   Total Products: 240
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-09-10T11:14:33Z
+  Updated: 2025-09-11T11:13:17Z
   Total Products: 109
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-09-08T11:12:05Z
+  Updated: 2025-09-11T11:13:17Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-10T15:00:07Z
+  Updated: 2025-09-11T11:13:17Z
   Total Products: 240
 
 ## Blogs
