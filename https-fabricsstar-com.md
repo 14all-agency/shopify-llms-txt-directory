@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-11T12:00:31.799Z
+- Updated At: 2025-09-11T16:00:31.864Z
 
 ## Products
 
@@ -8940,6 +8940,44 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NATALI-118-PEWTER.jpg?v=1757518737
     Price: $1.00 USD
+- [MATISE Jacquard Fabric, 55 Inch. in Width, | Home Décor](https://fabricsstar.com/products/matise): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
+  Updated: 2025-09-11T13:33:56Z
+  Vendor: Fabrics Star
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-MATISE.jpg?v=1755199218
+  - [Gray / Cut by the Yard](https://fabricsstar.com/products/matise?variant=51278157676825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-GREY-15.jpg?v=1755199217
+    Price: $22.00 USD
+  - [Gray / Sample 3x3 Inch](https://fabricsstar.com/products/matise?variant=51278157709593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-GREY-15.jpg?v=1755199217
+    Price: $1.00 USD
+  - [Levender / Cut by the Yard](https://fabricsstar.com/products/matise?variant=51278157742361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-LEVENDER-8.jpg?v=1755199218
+    Price: $22.00 USD
+  - [Levender / Sample 3x3 Inch](https://fabricsstar.com/products/matise?variant=51278157775129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-LEVENDER-8.jpg?v=1755199218
+    Price: $1.00 USD
+  - [Mustard / Cut by the Yard](https://fabricsstar.com/products/matise?variant=51278157807897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-MUSTARD-14.jpg?v=1755199217
+    Price: $22.00 USD
+  - [Mustard / Sample 3x3 Inch](https://fabricsstar.com/products/matise?variant=51278157840665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-MUSTARD-14.jpg?v=1755199217
+    Price: $1.00 USD
+  - [Mocha / Cut by the Yard](https://fabricsstar.com/products/matise?variant=51278157873433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-MOCHA-3.jpg?v=1755199218
+    Price: $22.00 USD
+  - [Mocha / Sample 3x3 Inch](https://fabricsstar.com/products/matise?variant=51278157906201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-MOCHA-3.jpg?v=1755199218
+    Price: $1.00 USD
 - [REBA Jacquard Fabric, 55 Inch. in Width | Home Décor](https://fabricsstar.com/products/reba): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. Wash with lukewarm water USEFUL - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful fresh floral tablecloth will uplift any occasion and create a luxurious atmosphere for your guests Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
   Updated: 2025-09-10T15:39:31Z
   Vendor: Fabrics Star
@@ -9667,19 +9705,19 @@
   Updated: 2025-09-06T11:13:48Z
   Total Products: 8
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-09-11T11:13:17Z
+  Updated: 2025-09-11T13:50:42Z
   Total Products: 240
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-09-11T11:13:17Z
+  Updated: 2025-09-11T13:50:42Z
   Total Products: 240
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-09-11T11:13:17Z
-  Total Products: 109
+  Updated: 2025-09-11T13:51:11Z
+  Total Products: 107
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-09-11T11:13:17Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-11T11:13:17Z
+  Updated: 2025-09-11T13:50:42Z
   Total Products: 240
 
 ## Blogs
