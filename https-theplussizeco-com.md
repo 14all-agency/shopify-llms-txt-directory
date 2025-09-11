@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-10T16:00:28.196Z
+- Updated At: 2025-09-11T08:00:27.834Z
 
 ## Products
 
@@ -99,7 +99,7 @@
     Availability: Not Available
     Price: ₹794.00 INR
 - [Plus Size Peacock Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/peacock-floral-rayon-night-gown): Every night feels cozy with our Peacock Floral Rayon Night Gown With Pocket. Features rayon fabric and half sleeves. Sizes in XL to 10XL.
-  Updated: 2025-09-09T06:19:47Z
+  Updated: 2025-09-11T06:52:21Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
