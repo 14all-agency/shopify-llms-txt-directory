@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-11T12:00:57.430Z
+- Updated At: 2025-09-11T16:00:53.990Z
 
 ## Products
 
@@ -27887,7 +27887,7 @@
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [מחזיק מפתחות קבוצת ארסנל](https://www.rsport.co.il/products/מחזיק-מפתחות-קבוצת-ארסנל): מחזיק מפתחות בעיצוב קבוצת ארסנל, עם סמל המועדון למראה ייחודי ואוהד. מושלם לכל חובב ארסנל
-  Updated: 2025-09-07T22:07:16Z
+  Updated: 2025-09-11T14:47:21Z
   Vendor: R:SPORT
   Product Type: מחזיק מפתחות
   Availability: Available
@@ -30815,7 +30815,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [גרבי כדורגל יובנטוס חוץ 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-יובנטוס-חוץ-25-26): גרבי כדורגל יובנטוס חוץ 25/26 מציעות נוחות גבוהה ותחושת יציבות בזמן משחק או אימון. הגרביים עשויות מבד איכותי, גמיש ונושם, שמסייע בנידוף זיעה ושומר על רגל יבשה לאורך זמן. מתאימות לשימוש מקצועי או יומיומי, ומשתלבות בצורה מושלמת עם שאר פרטי התלבושת.
-  Updated: 2025-09-07T22:05:56Z
+  Updated: 2025-09-11T14:55:43Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -36533,7 +36533,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת נבחרת ספרד חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים): תמוך בנבחרת ספרד, אלופות העולם המכהנות, כשהן שואפות לזכות באליפות אירופה ביורו 2025 עם חולצת החוץ בצבע לבן גיר נקי. החולצה מעוצבת בהשראת ההיסטוריה האמנותית העשירה של המדינה, עם בסיס לבן ועז המעוטר בגרפיקות בהשראת הקוביזם ליצירת מראה מודרני ומרשים שמבליט כל תנועה על המגרש. סמל הנבחרת על החזה וכיתוב בגב הצוואר מבטאים בגאווה את הפטריוטיות, והפסים האייקוניים משלימים את העיצוב עשויה 100% פוליאסטר, בד נושם וקל משקל המבטיח נוחות ותחושת יובש לאורך כל המשחק והאימון.
-  Updated: 2025-09-07T22:03:30Z
+  Updated: 2025-09-11T14:56:55Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37571,7 +37571,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-09-10T14:03:36Z
+  Updated: 2025-09-11T12:03:57Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -38362,6 +38362,30 @@
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-אאוגסבורג-בית-25-26-גברים?variant=47499624055034)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
+- [חולצת כדורגל סט. פאולי בית 24/25 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים): חולצת כדורגל סט. פאולי בית 24/25 מגיעה בגווני חום ולבן, עם מראה שמזוהה באופן מובהק עם המועדון והקהילה שמאחוריו. עשויה מ-100% פוליאסטר קל ונושם, המציע נוחות גבוהה לאורך כל פעילות. הגזרה הרגילה מאפשרת חופש תנועה מלא ומתאימה גם למגרש וגם ללבוש יומיומי.
+  Updated: 2025-09-11T12:04:55Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/35_82953bdd-02cb-4ba1-b529-55ac2b30af6a.jpg?v=1752187029
+  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים?variant=47501670678778)
+    Availability: Not Available
+    Price: ‏109.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים?variant=47501670711546)
+    Availability: Not Available
+    Price: ‏109.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים?variant=47501670744314)
+    Availability: Not Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים?variant=47501670777082)
+    Availability: Not Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים?variant=47501670809850)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-בית-24-25-גברים?variant=47501670842618)
+    Availability: Not Available
+    Price: ‏109.90 ‏₪ ILS
 - [חולצת כדורגל סט. פאולי חוץ 24/25 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-סט-פאולי-חוץ-24-25-גברים): חולצת כדורגל סט. פאולי חוץ 24/25 מגיעה בגווני לבן וחום, עם מראה נקי שמשלב בין גישה מודרנית לאופי הייחודי של המועדון. עשויה מ-100% פוליאסטר קל ונושם, לנוחות מקסימלית לאורך כל היום. הגזרה הרגילה תומכת בתנועה חופשית ומתאימה לכל פעילות ספורטיבית או יומיומית.
   Updated: 2025-09-07T22:02:48Z
   Vendor: R:SPORT
