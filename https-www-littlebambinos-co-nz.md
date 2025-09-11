@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-11T00:00:43.810Z
+- Updated At: 2025-09-11T04:00:43.807Z
 
 ## Products
 
@@ -1716,7 +1716,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/TeetherBunny-Sage_1_copy.jpg?v=1651054890
   Price: $26.00 NZD
 - [MUSHIE Elephant Teether - Cloud](https://www.littlebambinos.co.nz/products/mushie-elephant-teether-cloud): Teethers help soothe your babyÃ¢â‚¬â„¢s irritated gums when teeth are starting to come out. This line of teethers are made from food-grade silicone, and they are designed to be easy to grasp by tiny baby hands.
-  Updated: 2025-08-06T22:37:28Z
+  Updated: 2025-09-11T03:49:22Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
@@ -3490,45 +3490,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $150.00 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380826718)
-    Availability: Not Available
-    Price: $150.00 NZD
-- [VEJA V10 Velcro Multico - Extra White & Ouro](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:42:57Z
-  Vendor: VEJA
-  Product Type: Footwear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Ouro.jpg?v=1672788618
-  - [EU 22](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384562270)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 23](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384595038)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 24](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384627806)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 25](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384660574)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 26](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384693342)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 27](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384726110)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 28](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384758878)
-    Availability: Available
-    Price: $150.00 NZD
-  - [EU 29](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384791646)
-    Availability: Not Available
-    Price: $150.00 NZD
-  - [EU 30](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384824414)
-    Availability: Not Available
-    Price: $150.00 NZD
-  - [EU 31](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886384857182)
-    Availability: Not Available
-    Price: $150.00 NZD
-  - [EU 32](https://www.littlebambinos.co.nz/products/veja-v10-velcro-extra-white-ouro?variant=39886385119326)
     Availability: Not Available
     Price: $150.00 NZD
 - [VEJA V12 Velcro Multico -  Extra White & Silver](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
@@ -6933,13 +6894,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [5y](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bikini-bottom-scarlett?variant=40061180477534)
     Availability: Available
     Price: $24.00 NZD
-- [KONGES SLOJD  2 pk Glitter Cups - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-lemon): Polyethylene Terephthalate Glycol (PCTG), filler: distilled water and Polyethylene terephthalate (PET).Not suitable for dishwasher. Do not use in microwave. Temperature safe: 0°C to 100°C.Capacity: 180 ml 6.5 x H: 9cm
-  Updated: 2025-09-01T20:27:23Z
-  Vendor: Konges slojd
-  Product Type: Cup
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS5069-2PACKGLITTERCUPS-LEMON-Extra0_39cab99d-8311-456f-827d-a1b4cb4ababa.jpg?v=1696921354
-  Price: $54.00 NZD
 - [CONNETIX Pastel Rectangle Pack 24pc](https://www.littlebambinos.co.nz/products/connetix-pastel-rectangle-pack): Spark imagination and creativity with our 24 Piece Pastel Rectangle Pack! Inspire big ideas with multiple connection points and strong magnets as children explore their imagination to create long ramps, car tracks, roads, colourful carparks, towers and houses, plus so much more.
   Updated: 2025-09-10T22:37:44Z
   Vendor: Connetix
@@ -8695,7 +8649,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Tradewinds_SiliconeBabyRattleToy_jpg.webp?v=1712880212
   Price: $33.00 NZD
 - [GRECH & CO Children's Mesh Sneakers - Spice](https://www.littlebambinos.co.nz/products/grech-co-play-shoes-coral-rouge): Lightweight and breathable, these shoes are made for play! You're kids will love these shoes made from an eco friendly mesh and durable wear natural rubber. They have child friendly adjustable velcro straps so are easy to take on and off. Please note they are made from mesh so suitable for warmer weather.
-  Updated: 2025-08-06T22:48:58Z
+  Updated: 2025-09-11T01:05:16Z
   Vendor: Grech & Co
   Product Type: Footwear
   Availability: Available
@@ -8716,7 +8670,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/grech-co-play-shoes-coral-rouge?variant=40618547511390)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 NZD
 - [SONNIE Varsity Crewneck - Court Green](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-court-green): A classic crewneck sweatshirt cut in a mid-weight 100% cotton French terry. Ribbed cuff and hem detailing with Sonnie varsity chest print. New Court Green colourway Composition: 100% cotton French terry. Care: Machine wash cold. Tumble dry low.
   Updated: 2025-08-06T22:48:59Z
@@ -9848,13 +9802,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $49.00 NZD
 - [TOSHI Swim Kids Bodysuit Classic - Island Dreaming](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-island-dreaming): DETAILS UPF 50+ UV protection Chlorine safe, pool & salt water friendly Quality Nylon fabrication for luxuriously soft hand feel Lightweight, fast drying & sun resistant Inner lining provides for modesty and comfort Enhanced elastic recovery High neckline and long sleeves for greater sun protection Seamless armhole, sleeve and sides for enhanced comfort Front opening zip for ease of dressing YKK zip for superior functionality and durability Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-08-06T22:40:42Z
+  Updated: 2025-09-11T02:46:12Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SK_BSU_CLA_ISD_A_Toshi_532b7c29-9a8c-4405-b800-9a5f2755faf6.jpg?v=1724291449
   - [3y](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-island-dreaming?variant=41100414222430)
-    Availability: Available
+    Availability: Not Available
     Price: $69.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-island-dreaming?variant=41100414255198)
     Availability: Available
@@ -9878,7 +9832,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.00 NZD
 - [TOSHI Swim Kids Bodysuit Classic - Palm Cove](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-palm-cove): DETAILS UPF 50+ UV protection Chlorine safe, pool & salt water friendly Quality Nylon fabrication for luxuriously soft hand feel Lightweight, fast drying & sun resistant Inner lining provides for modesty and comfort Enhanced elastic recovery High neckline and long sleeves for greater sun protection Seamless armhole, sleeve and sides for enhanced comfort Front opening zip for ease of dressing YKK zip for superior functionality and durability Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-08-06T22:40:44Z
+  Updated: 2025-09-11T02:46:12Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -13338,13 +13292,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [L](https://www.littlebambinos.co.nz/products/grown-organic-striped-pixie-beanie-tomato?variant=41450761715806)
     Availability: Not Available
     Price: $39.00 NZD
-- [KONGES SLOJD  2 pk Glitter Cups - Fragola](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-fragola): Spread some magic with our glitter cups. Shake lightly and the glitter will gently dance around. Ages: 3Y+
-  Updated: 2025-09-01T16:43:29Z
-  Vendor: Konges slojd
-  Product Type: Cup
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Konges-Glitter-cups-Fragola-Strawberry-Little-French-Heart-550x770.jpg?v=1741903180
-  Price: $54.00 NZD
 - [KONGES SLOJD Loupy Lou Sweatshirt - Off White Melange](https://www.littlebambinos.co.nz/products/konges-slojd-loupy-lou-sweatshirt-off-white-melange): Our classic Lou sweatshirt is a soft, wearable favorite made from organic cotton. Please note: Smaller sizes, from 9-18 months, feature press buttons on the left shoulder for easy dressing. Sizes 2 years and up feature a regular round neck with rib detailing.
   Updated: 2025-08-06T22:35:39Z
   Vendor: Konges slojd
@@ -13921,7 +13868,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $42.50 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Jumper - Flower Pop](https://www.littlebambinos.co.nz/products/wilson-frenchy-flower-pop-organic-knitted-jacquard-jumper-flower-pop): Get ready to cuddle up in style with Wilson & Frenchy's organic cotton, wool, and bamboo jacquard knit jumper. The roomy fit and ribbed cuffs and neckline provide comfort, while the cute flower pop design adds some playful charm. Stay warm and trendy, baby and kid approved. DETAILS Relaxed fit, long sleeved, all over jacquard design, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-07-23T22:11:09Z
+  Updated: 2025-09-11T03:00:25Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
@@ -15213,14 +15160,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-10T22:22:46Z
+  Updated: 2025-09-11T01:22:42Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-10T22:22:46Z
+  Updated: 2025-09-11T01:22:42Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15364,7 +15311,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-10T23:43:12Z
+  Updated: 2025-09-11T03:43:11Z
   Total Products: 392
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16216,8 +16163,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-10T23:43:12Z
-  Total Products: 1291
+  Updated: 2025-09-11T03:43:11Z
+  Total Products: 1288
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-07T11:02:21Z
   Total Products: 494
@@ -17102,8 +17049,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-03-10T22:47:23Z
 - [Back To School](https://www.littlebambinos.co.nz/pages/back-to-school): Not ready for school? Neither are we! Here are our everyday favourites to help make that transition a little easier this year.
   Updated: 2025-01-28T23:59:40Z
-- [Up-To 70% Off Sale Terms & Conditions](https://www.littlebambinos.co.nz/pages/warehouse-sale-2025): Did somebody say SALE?! Shop up-to 70% off almost everything. Prices as marked. You won't want to miss this! T&C's Apply: All sale items are final ...
-  Updated: 2025-07-02T23:08:29Z
+- [25% Off Sitewide* Sale Terms & Conditions](https://www.littlebambinos.co.nz/pages/warehouse-sale-2025): Did somebody say SALE?! Flash Sale. You won't want to miss this! T&C's Apply: All sale items are final unless faulty, so please choose carefully. D...
+  Updated: 2025-09-11T03:41:12Z
 - [Welcome10 Discount Details](https://www.littlebambinos.co.nz/pages/welcome10-discount-details): Welcome to Little Bambinos! As a new customer, you're eligible for our special Welcome10 discount. This discount excludes all Owala and Inkah produ...
   Updated: 2025-05-22T23:23:18Z
 
