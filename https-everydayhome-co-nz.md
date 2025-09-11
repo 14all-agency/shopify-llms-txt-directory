@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-10T20:00:35.516Z
+- Updated At: 2025-09-11T00:00:36.103Z
 
 ## Products
 
@@ -942,7 +942,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Black-2.jpg?v=1727660092
   Price: $44.99 NZD
 - [Woodrow Trash Can - Natural](https://everydayhome.co.nz/products/woodrow-can-7-5l-natural): Introducing Woodrow, a stylish waste can that brings a modern vibe to any room. With its two-tone design, this can combines a natural wood interior with a stained finish on the outside, creating a cozy and grounded atmosphere. Its super easy to move around thanks to the integrated handles, making disposal a breeze. Plus, the unique curved shape turns a regular household item into a standout decor piece. Woodrow is perfect for compact spaces like powder rooms, offices, or studies. Upgrade your space with this eye-catching trash can!
-  Updated: 2025-09-10T03:44:06Z
+  Updated: 2025-09-10T20:54:25Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -1054,7 +1054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-3-Hook-White-6.jpg?v=1727659026
   Price: $50.99 NZD
 - [Flip 8 Hook - Black/Walnut](https://everydayhome.co.nz/products/flip-8-hook-black-walnut): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-08T23:13:40Z
+  Updated: 2025-09-10T21:39:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1201,7 +1201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-White-5.png?v=1727659038
   Price: $405.99 NZD
 - [Brabantia Bo Pedal Bin - 2 x 30L Matt Black](https://everydayhome.co.nz/products/bo-pedal-bin-2-x-30l-matt-black): Looking for a beautiful solution for waste separation? This Brabantia Bo Pedal Bin is a beauty inside and out, with two spacious 30 litre removable inner buckets for two kinds of waste. It fits snugly against a wall, has a protective non-skid base, hygienic and easy pedal opening and soft closure. A great bin in more ways than one!
-  Updated: 2025-09-08T23:10:16Z
+  Updated: 2025-09-10T23:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2475,7 +2475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Wall-Mirror-94cm-Black-UMBRA-2.png?v=1731903528
   Price: $254.99 NZD
 - [Hubba Mirror - Brass](https://everydayhome.co.nz/products/hubba-mirror-86cm-brass): Freshen up the look of your room with one simple accessory that can both expand the space and make it appear brighter. Hubba is a large wall mirror that is ideal for heavy traffic areas in your home. Its decorative metallic finished frame has a look that is sure to complement any decor. Because Hubba is large and reflective, it bounces natural and artificial light around the room, helping to brighten even the darkest of space. It also adds visual depth, which instantly makes smaller rooms appear bigger.
-  Updated: 2025-09-08T23:15:05Z
+  Updated: 2025-09-10T22:52:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2825,7 +2825,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Drying-Rack-Drying-Mat-Black-UMBRA-4.jpg?v=1731903493
   Price: $28.99 NZD
 - [Udry Drying Rack & Drying Mat - Charcoal](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-charcoal): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-09-08T23:09:36Z
+  Updated: 2025-09-10T20:37:40Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3196,7 +3196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardSet-Mixed-8710755123160Brabantia_96dpi_1000x1000px_7_NR-17723.png?v=1733802099
   Price: $67.99 NZD
 - [Brabantia Knife Block with Utensil Holder - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-utensil-holder-dark-grey): Cut the clutter in your kitchen with this Brabantia Profile Knife Block with Utensil Holder. This stylish dark grey block keeps all your favourite kitchen tools together. Ultimate organising!
-  Updated: 2025-09-08T23:15:45Z
+  Updated: 2025-09-10T23:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3714,7 +3714,7 @@
     Availability: Available
     Price: $61.99 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-09-08T23:25:27Z
+  Updated: 2025-09-10T22:22:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3786,7 +3786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $370.99 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-09-08T23:25:34Z
+  Updated: 2025-09-10T21:52:25Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
