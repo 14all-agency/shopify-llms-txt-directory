@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-11T04:00:27.676Z
+- Updated At: 2025-09-11T16:56:56.236Z
 
 ## Products
 
@@ -127,8 +127,8 @@
   - [Ce que vous devriez savoir avant de semer une graine](https://www.laforetnousregale.fr/blogs/infos/ce-que-vous-devriez-savoir-avant-de-semer-une-graine): <p><strong>Semer une graine</strong>, c'est peut-être se faire <strong>engrainer</strong> dans un plan qui tombe à l'eau.<br>Pour ne pas que cela arrive, cet article résume les <strong>grands</strong> <strong>principes</strong> de fonctionnement <strong>d'une graine</strong>, en dormance dans votre main <strong>jusqu'à la vie</strong> en pleine terre.</p>
     Updated: 2025-09-08T15:32:45Z
     Author: Équipe Pacific Planet
-  - [6 idées de recettes](https://www.laforetnousregale.fr/blogs/infos/6-idees-de-recettes)
-    Updated: 2025-09-08T15:28:10Z
+  - [6 idées de recettes au sirop d'épicéa](https://www.laforetnousregale.fr/blogs/infos/6-idees-de-recettes): <p>Avec son goût frais, résineux et boisé il remplace à bien des égards le sirop d'érable.<br>Voici comment !</p>
+    Updated: 2025-09-11T10:25:14Z
     Author: Équipe Pacific Planet
   - [Label biologique : garantie qualité pour produits forestiers | La forêt nous régale](https://www.laforetnousregale.fr/blogs/infos/comprendre-le-label-biologique-garantie-de-qualite-pour-vos-produits-forestiers): Label biologique : garantie qualité pour produits forestiers | La forêt nous régale
     Updated: 2025-09-08T15:27:14Z
@@ -151,10 +151,6 @@
   - [Bienfaits de la forêt](https://www.laforetnousregale.fr/blogs/infos/bienfaits-de-la-foret)
     Updated: 2025-09-08T15:22:29Z
     Author: Équipe Pacific Planet
-  - [Paiement USDC accepté - La forêt nous régale](https://www.laforetnousregale.fr/blogs/infos/nous-acceptons-maintenant-la-cryptomonnaie-usdc): Paiement USDC accepté - La forêt nous régale
-    Updated: 2025-09-04T17:38:30Z
-    Author: Équipe Pacific Planet
-    Tags: cryptomonnaie, innovation, paiement, USDC
   - [5 recettes originales avec du sirop d'épicéa bio pour éveiller vos papilles !](https://www.laforetnousregale.fr/blogs/infos/5-recettes-originales-avec-du-sirop-depicea-bio-pour-eveiller-vos-papilles)
     Updated: 2025-09-08T15:23:21Z
     Author: Équipe Pacific Planet
@@ -171,12 +167,8 @@
     Updated: 2025-09-08T15:20:12Z
     Author: Équipe Pacific Planet
     Tags: alimentation durable, biologique, cueillette, environnement, forêt comestible, Forêt nourricière, France, nature, original, plant, qualité, sirop, terroir, Vente
-  - [La Technogénèse c'est quoi ?](https://www.laforetnousregale.fr/blogs/infos/la-technogenese-cest-quoi)
-    Updated: 2025-09-09T08:30:01Z
-    Author: Équipe Pacific Planet
-    Tags: Bio, biologique, innovation, nature, technologie
   - [Bienfaits des feuilles de figuier en poudre : santé, diabète et antioxydants](https://www.laforetnousregale.fr/blogs/infos/bienfaits-de-la-poudre-de-feuilles-de-figuier): Bienfaits des feuilles de figuier en poudre : santé, diabète et antioxydants
-    Updated: 2025-09-10T09:41:47Z
+    Updated: 2025-09-11T10:45:02Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, phytothérapie, plante médicinale, poudre de feuilles de figuier, remède naturel
 
@@ -190,6 +182,8 @@
   Updated: 2025-09-06T23:14:17Z
 - [Contactez-nous](https://www.laforetnousregale.fr/pages/contactez-nous): Contactez La forêt nous régale pour vos questions sur nos séjours en cabane en Bretagne. Réservation, informations pratiques et conseils, sur la ve...
   Updated: 2025-09-06T23:12:20Z
+- [FAQ](https://www.laforetnousregale.fr/pages/faq): Quels types de produits proposez-vous ? Ah, la crème de la crème des délices forestiers ! Nous avons une sélection de produits naturels et bio, com...
+  Updated: 2025-09-11T16:46:04Z
 
 ## Policies
 
