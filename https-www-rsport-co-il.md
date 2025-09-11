@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-11T16:00:53.990Z
+- Updated At: 2025-09-11T20:00:56.216Z
 
 ## Products
 
@@ -17750,7 +17750,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [גופיית אימון ריאל מדריד 2024/25](https://www.rsport.co.il/products/גופיית-אימון-ריאל-מדריד-2024-25): גופיית אימון ריאל מדריד 24/25 למבוגרים, גופיית אימון קצרה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר.
-  Updated: 2025-09-07T22:11:40Z
+  Updated: 2025-09-11T17:54:26Z
   Vendor: R:Sport
   Product Type: גופיית כדורגל
   Availability: Available
