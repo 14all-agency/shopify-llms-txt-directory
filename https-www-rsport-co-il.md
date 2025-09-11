@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-11T00:00:57.561Z
+- Updated At: 2025-09-11T04:00:56.731Z
 
 ## Products
 
@@ -5258,7 +5258,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [גרבי כדורגל בורוסיה דורטמונד 24/25 צבע צהוב](https://www.rsport.co.il/products/גרבי-כדורגל-בורוסיה-דורטמונד-בית-24-25-צבע-צהוב): גרבי כדורגל בורוסיה דורטמונד 24/25 בצבע צהוב שחור גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס
-  Updated: 2025-09-07T22:16:29Z
+  Updated: 2025-09-11T01:51:19Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
