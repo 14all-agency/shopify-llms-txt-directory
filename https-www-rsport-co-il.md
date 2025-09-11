@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-10T20:00:54.599Z
+- Updated At: 2025-09-11T00:00:57.561Z
 
 ## Products
 
@@ -13346,7 +13346,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק אדומה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:26Z
+  Updated: 2025-09-10T23:55:23Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
