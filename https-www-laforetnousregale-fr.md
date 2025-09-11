@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-10T08:00:27.848Z
+- Updated At: 2025-09-11T00:00:27.455Z
 
 ## Products
 
 - [Affiche châtaigner](https://www.laforetnousregale.fr/products/affiche): Affiche botanique du châtaignier, avec une illustration. Le châtaignier Castanea sativa est surnommé "l’arbre à pain" pour son rôle crucial dans l’alimentation des populations rurales. Ses fruits, les châtaignes, sont une source de subsistance depuis des siècles. Résistant et généreux, le châtaignier est également prisé pour son bois durable. L’affiche capture l’essence de cet arbre précieux, célébrant son rôle dans nos paysages et nos traditions culinaires.
-  Updated: 2025-09-07T14:37:21Z
+  Updated: 2025-09-10T09:47:00Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -90,18 +90,30 @@
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/5F79BB6B-1E8A-45A8-A98E-2247E5BB6725.jpg?v=1752071764
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-07T22:03:00Z
+  Updated: 2025-09-10T14:36:16Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/3826EE8C-2945-4DAC-B112-38C84ACACF15.png?v=1753429832
-  Price: 9,80 € EUR
+  Price: 9,90 € EUR
+- [Poudre de feuilles de figuier (Ficus carica) Bio - La forêt nous régale](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre): Poudre de feuilles de figuier bio de bretagne 100% naturelle, riche en bienfaits pour infusions, cuisine et bien-être. d'origine local garantie.
+  Updated: 2025-09-10T12:53:47Z
+  Vendor: La forêt nous régale
+  Product Type: alimentaire
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/poudredefeuillesdefiguier.png?v=1757500552
+  - [100 gramme](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre?variant=55698418631000)
+    Availability: Available
+    Price: 18,90 € EUR
+  - [150 gramme](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre?variant=55698418663768)
+    Availability: Available
+    Price: 24,90 € EUR
 
 ## Collections
 
 - [Produits Bio Forêt Française Saison 2024 - Champignons Fruits Sauvages - La Forêt Nous Régale](https://www.laforetnousregale.fr/collections/produits-saisons-bio-foret-francaise): 🌲 Produits bio de saison : champignons frais, fruits sauvages, plantes aromatiques de forêt française. Récolte responsable, fraîcheur garantie. Livraison France.
-  Updated: 2025-09-08T11:17:24Z
-  Total Products: 2
+  Updated: 2025-09-10T14:36:17Z
+  Total Products: 3
 
 ## Blogs
 
@@ -163,6 +175,10 @@
     Updated: 2025-09-09T08:30:01Z
     Author: Équipe Pacific Planet
     Tags: Bio, biologique, innovation, nature, technologie
+  - [Bienfaits des feuilles de figuier en poudre : santé, diabète et antioxydants](https://www.laforetnousregale.fr/blogs/infos/bienfaits-de-la-poudre-de-feuilles-de-figuier): Bienfaits des feuilles de figuier en poudre : santé, diabète et antioxydants
+    Updated: 2025-09-10T09:41:47Z
+    Author: Équipe Pacific Planet
+    Tags: agroforesterie, phytothérapie, plante médicinale, poudre de feuilles de figuier, remède naturel
 
 ## Store Pages
 
