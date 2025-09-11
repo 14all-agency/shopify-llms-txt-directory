@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-11T00:00:27.455Z
+- Updated At: 2025-09-11T04:00:27.676Z
 
 ## Products
 
@@ -97,7 +97,7 @@
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/3826EE8C-2945-4DAC-B112-38C84ACACF15.png?v=1753429832
   Price: 9,90 € EUR
 - [Poudre de feuilles de figuier (Ficus carica) Bio - La forêt nous régale](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre): Poudre de feuilles de figuier bio de bretagne 100% naturelle, riche en bienfaits pour infusions, cuisine et bien-être. d'origine local garantie.
-  Updated: 2025-09-10T12:53:47Z
+  Updated: 2025-09-11T00:37:06Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
