@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2025-07-07T09:48:28Z
 - Contact Email: contact.rezzaura@gmail.com
-- Updated At: 2025-09-11T00:00:27.311Z
+- Updated At: 2025-09-11T04:00:27.377Z
 
 Rezzaura is quality conscious brand focused on affordable products and customer experience on par with leading stores.
 
