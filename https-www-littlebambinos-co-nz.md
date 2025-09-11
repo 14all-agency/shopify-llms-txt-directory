@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-11T04:00:43.807Z
+- Updated At: 2025-09-11T08:00:42.916Z
 
 ## Products
 
@@ -1293,15 +1293,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ScrunchieGingham4.jpg?v=1640852054
   Price: $18.00 NZD
-- [STICKY LEMON Scrunchie - Flower Field Green](https://www.littlebambinos.co.nz/products/sticky-lemon-scrunchie-flower-field-green): Gorgeous scrunchie in a green floral print.
-  Updated: 2025-08-06T22:45:46Z
-  Vendor: Sticky Lemon
-  Product Type: Srunchie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Scrunchie4.jpg?v=1640851991
-  Price: $9.00 NZD
 - [STICKY LEMON Scrunchie - Flower Field Pink](https://www.littlebambinos.co.nz/products/sticky-lemon-scrunchie-flower-field-pink): Gorgeous scrunchie in a pink floral print.
-  Updated: 2025-08-09T11:54:58Z
+  Updated: 2025-09-11T06:07:00Z
   Vendor: Sticky Lemon
   Product Type: Srunchie
   Availability: Available
@@ -8141,7 +8134,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [ZULU & ZEPHYR Mini Rib Surf Short - Emerald](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-rib-surf-short-emerald): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-08-06T22:48:49Z
+  Updated: 2025-09-11T06:07:01Z
   Vendor: Zulu & Zephyr
   Product Type: swim shorts
   Availability: Available
@@ -8165,7 +8158,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $45.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-rib-surf-short-emerald?variant=40468749287518)
-    Availability: Available
+    Availability: Not Available
     Price: $45.00 NZD
   - [8y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-rib-surf-short-emerald?variant=40468749320286)
     Availability: Not Available
@@ -13540,13 +13533,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-09-10T02:22:40Z
+  Updated: 2025-09-11T05:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hydrating_booster_serum_5611b0d8-f942-478e-b16a-09bc1e8b1552.jpg?v=1744072139
   - [20 ml](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid?variant=41613842743390)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hydrating_booster_serum_2.jpg?v=1744072139
     Price: $49.00 NZD
   - [50ml](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid?variant=41613842776158)
@@ -13567,7 +13560,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-09-08T23:48:43Z
+  Updated: 2025-09-11T05:02:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -14367,7 +14360,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Mediumgrey6.jpg?v=1745546887
     Price: $149.00 NZD
 - [LITTLE FINCH Homepark Check Round Waterproof Play Mat](https://www.littlebambinos.co.nz/products/homepark-check-round): At last a play mat that is practical and stylish! We have created a timeless yet contemporary design that will slide seamlessly into your living space, nursery, or child’s bedroom. A classic look guaranteed to fit most interiors for many years to come. Is it a rug or is it a play mat? It’s both! On the reverse, select from either Grey or Rose Homepark Check to provide an equally timeless alternative look from the same mat.
-  Updated: 2025-08-10T06:02:41Z
+  Updated: 2025-09-11T07:08:35Z
   Vendor: Little Finch
   Product Type: 
   Availability: Available
@@ -15311,7 +15304,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-11T03:43:11Z
+  Updated: 2025-09-11T07:43:16Z
   Total Products: 392
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16163,8 +16156,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-11T03:43:11Z
-  Total Products: 1288
+  Updated: 2025-09-11T07:43:16Z
+  Total Products: 1287
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-07T11:02:21Z
   Total Products: 494
@@ -16847,8 +16840,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-10T11:02:09Z
   Total Products: 1582
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-09T11:02:02Z
-  Total Products: 3091
+  Updated: 2025-09-11T06:07:31Z
+  Total Products: 3092
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-08-26T04:04:49Z
   Total Products: 3
