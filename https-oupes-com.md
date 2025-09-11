@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-10T20:00:29.610Z
+- Updated At: 2025-09-11T00:00:29.181Z
 
 ## Products
 
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1741944152
   Price: $1,400.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-09-10T15:37:41Z
+  Updated: 2025-09-10T22:13:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -909,7 +909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-5-home-backup-portable-power-station-4000w-5040wh-279468.webp?v=1755766195
     Price: $5,499.00 USD
 - [OUPES Exodus 2400 Refurbished Portable Solar Power Generator Station](https://oupes.com/products/refurbished-oupes-exodus-2400-portable-power-station-2400w-2232wh): Shop the OUPES Exodus 2400 refurbished portable power station. A high quality refurbished solar generator, tested and certified for reliable use.
-  Updated: 2025-09-10T19:38:01Z
+  Updated: 2025-09-10T23:40:54Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -964,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh-215343.jpg?v=1741944216
     Price: $1,719.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/member-exclusive-oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-09-10T15:37:23Z
+  Updated: 2025-09-10T21:39:55Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -994,7 +994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh-897054.webp?v=1755766273
     Price: $2,359.00 USD
 - [OUPES B2 Multi-functional Extra Battery](https://oupes.com/products/member-exclusive-oupes-b2-multi-functional-extra-battery): Discover the OUPES B2 Multi-functional Extra Battery—portable RV power with LiFePO4 safety and smart app control. Charge anywhere, anytime with ease.
-  Updated: 2025-09-10T18:51:21Z
+  Updated: 2025-09-10T21:39:55Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
