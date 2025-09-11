@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-11T04:00:35.742Z
+- Updated At: 2025-09-11T08:00:35.895Z
 
 ## Products
 
@@ -33711,6 +33711,9 @@
 - [News](https://thetableclothstore.com/blogs/news)
   - [Top 10 Tablecloth Trends to Elevate Your Dining Space](https://thetableclothstore.com/blogs/news/top-10-tablecloth-trends-to-elevate-your-dining-space): Top 10 Tablecloth Trends to Elevate Your Dining Space
     Updated: 2025-09-10T21:07:45Z
+    Author: User
+  - [How to Choose the Perfect Tablecloth for Every Occasion](https://thetableclothstore.com/blogs/news/how-to-choose-the-perfect-tablecloth-for-every-occasion): How to Choose the Perfect Tablecloth for Every Occasion
+    Updated: 2025-09-11T04:07:06Z
     Author: User
 
 ## Store Pages
