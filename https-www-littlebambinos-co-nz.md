@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-11T16:00:44.520Z
+- Updated At: 2025-09-11T20:00:43.276Z
 
 ## Products
 
@@ -336,7 +336,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BathCrayon1copy.jpg?v=1633397948
   Price: $22.00 NZD
 - [HONEYSTICKS Natural Watercolour Paints](https://www.littlebambinos.co.nz/products/honeysticks-natural-watercolour-paints): Introducing the safer paint option for little artists - Honeysticks Watercolour Paints. A perfect introduction to painting! 100% non-toxic for peace of mind: Handmade in New Zealand using non-toxic and food-grade ingredients. 8 vibrant colours to ignite creativity: Each Watercolour Paint Palette contains 8 vibrant and long-lasting colours, including yellow, red, pink, purple, green, blue, brown and orange. Natural paintbrush included: Including a non-toxic paintbrush crafted from natural wood and vegan bristles. Perfect eco-friendly gift set: Beautifully packaged in a recyclable metal tin, Honeysticks Watercolour Paint Set will make a thoughtful gift for the little artist in your life (ages 3+).
-  Updated: 2025-08-09T23:01:51Z
+  Updated: 2025-09-11T18:36:54Z
   Vendor: Honeysticks
   Product Type: Paints
   Availability: Available
@@ -6960,7 +6960,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $49.00 NZD
 - [GROWN Terry Bucket Hat - Mud Wave](https://www.littlebambinos.co.nz/products/grown-terry-bucket-hat-mud-wave): - 100% COTTON - JACQUARD WEAVE WITH 'Wave' ARTWORK - WITH TASSLE - 574GSM S: 6-12months M: 12-24months L: 2-5years Adults size Please refer to our flat lay image for the best colour representation, styled images may have filters
-  Updated: 2025-08-06T22:48:22Z
+  Updated: 2025-09-11T19:19:10Z
   Vendor: Grown
   Product Type: Hats
   Availability: Available
@@ -6972,7 +6972,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
   - [L](https://www.littlebambinos.co.nz/products/grown-terry-bucket-hat-mud-wave?variant=40207934423134)
-    Availability: Available
+    Availability: Not Available
     Price: $32.00 NZD
 - [GROWN Wiggle Bike Shorts - Mud](https://www.littlebambinos.co.nz/products/grown-wiggle-bike-shorts-mud): 100% Organic Cotton Jacquard Bike Shorts made from GOTS certified organic cotton 'Wave' Jacquard pattern along the sides and hem edge Elasticated waistband Model wears size 3. Please refer to our flat layÂ image for the best colour representation, styled images may have filters.
   Updated: 2025-08-06T22:48:23Z
@@ -10157,7 +10157,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie GOTS - Bloomie](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie): Soft onesie for newborns in a light cotton blend with a hint of stretch. Designed with a wrap closure that features snap buttons along the body and legs for easy dressing. Made in 95% organic cotton and 5% elastane. GOTS, Organic,certified by CU1094701. DETAILS GOTS, Organic,certified by CU1094701. 95% Organic Cotton, 5% Elastane
-  Updated: 2025-08-31T04:15:32Z
+  Updated: 2025-09-11T19:38:30Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
@@ -10166,7 +10166,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $75.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie?variant=41129072099422)
-    Availability: Available
+    Availability: Not Available
     Price: $75.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie?variant=41129072132190)
     Availability: Available
@@ -11294,7 +11294,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-11T09:20:42Z
+  Updated: 2025-09-11T19:20:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -11337,7 +11337,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $185.00 NZD
 - [VEJA V-10 Chromefree Leather - Extra-White & Multico Nautico](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-09-01T20:44:53Z
+  Updated: 2025-09-11T19:06:15Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
@@ -11361,7 +11361,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $185.00 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857949790)
-    Availability: Available
+    Availability: Not Available
     Price: $185.00 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857982558)
     Availability: Available
@@ -12642,7 +12642,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $79.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie - Marmalade](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-marmalade): Soft newborn onesie with long sleeves. Designed with snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-08-31T03:23:34Z
+  Updated: 2025-09-11T19:38:33Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
@@ -15285,7 +15285,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-11T15:43:12Z
+  Updated: 2025-09-11T19:43:21Z
   Total Products: 390
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16137,7 +16137,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-11T15:43:12Z
+  Updated: 2025-09-11T19:43:21Z
   Total Products: 1285
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-11T11:02:10Z
