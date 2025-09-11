@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-11T16:00:35.277Z
+- Updated At: 2025-09-11T20:00:36.166Z
 
 ## Products
 
@@ -2384,7 +2384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-08T23:14:59Z
+  Updated: 2025-09-11T19:52:07Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3063,7 +3063,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $118.99 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-08T23:15:36Z
+  Updated: 2025-09-11T18:37:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -5092,14 +5092,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_02copy.jpg?v=1755738808
   Price: $118.99 NZD
 - [Umbra Infinity Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-4x6-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different finishes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-09-08T23:16:32Z
+  Updated: 2025-09-11T19:22:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_01.jpg?v=1755738282
   Price: $42.99 NZD
 - [Umbra Infinity Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-5x7-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different sizes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-09-08T23:16:32Z
+  Updated: 2025-09-11T19:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
