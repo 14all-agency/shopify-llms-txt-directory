@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-11T04:00:35.322Z
+- Updated At: 2025-09-11T08:00:35.945Z
 
 ## Products
 
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $67.99 NZD
 - [Cubiko Adhesive Shower Bins - White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-09-10T17:40:09Z
+  Updated: 2025-09-11T07:52:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1200,13 +1200,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-White-5.png?v=1727659038
   Price: $405.99 NZD
-- [Brabantia Bo Pedal Bin - 2 x 30L Matt Black](https://everydayhome.co.nz/products/bo-pedal-bin-2-x-30l-matt-black): Looking for a beautiful solution for waste separation? This Brabantia Bo Pedal Bin is a beauty inside and out, with two spacious 30 litre removable inner buckets for two kinds of waste. It fits snugly against a wall, has a protective non-skid base, hygienic and easy pedal opening and soft closure. A great bin in more ways than one!
-  Updated: 2025-09-10T23:37:10Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-Matt-Black-9.png?v=1727659870
-  Price: $405.99 NZD
 - [Brabantia Bo Pedal Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-pedal-bin-2-x-30l-platinum): Looking for a beautiful solution for waste separation? This Brabantia Bo Pedal Bin is a beauty inside and out, with two spacious 30 litre removable inner buckets for two kinds of waste. It fits snugly against a wall, has a protective non-skid base, hygienic and easy pedal opening and soft closure. A great bin in more ways than one!
   Updated: 2025-09-09T21:19:45Z
   Vendor: BRABANTIA
@@ -1418,7 +1411,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Touch-Bin-New-40L-Matt-Black-0.png?v=1727659941
   Price: $359.99 NZD
 - [Brabantia New Touch Bin - 40L White](https://everydayhome.co.nz/products/touch-bin-new-40l-white): Add a touch of design to your home with the Brabantia Touch Bin 40 litre. A great, yet space efficient, organising help that looks the part too. Just touch the lid and it opens smoothly. It also has a timeless design, is easy to clean, and it protects your floor thanks to the protection rim. This touch bin is ready for years of intensive, problem free use!
-  Updated: 2025-09-08T23:10:32Z
+  Updated: 2025-09-11T04:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3399,7 +3392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_25L-Grey-8710755129940Brabantia_96dpi_1000x1000px_7_NR-21429.png?v=1734562382
   Price: $89.99 NZD
 - [Brabantia Sort & Go Waste Bin - 16L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-16l-grey): Collecting empty packaging, bottles, or cans separately? Make it easy on yourself, organise it all with this 16 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Sort & go!
-  Updated: 2025-09-08T22:43:21Z
+  Updated: 2025-09-11T07:37:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
