@@ -3,10 +3,10 @@
 - Domain: https://trustedtechteam.digital
 - Locale: en
 - Currency: USD
-- Timezone: America/Guatemala
+- Timezone: America/New_York
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-10T20:00:30.621Z
+- Updated At: 2025-09-11T04:00:29.276Z
 
 ## Products
 
