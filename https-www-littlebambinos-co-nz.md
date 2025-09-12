@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-12T00:00:44.166Z
+- Updated At: 2025-09-12T04:00:44.774Z
 
 ## Products
 
@@ -355,7 +355,7 @@
     Availability: Available
     Price: $55.00 NZD
 - [MARMAR COPENHAGEN Leggings - Hay](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay): Very comfortable & soft leggings. They are made to a high quality with a good fit making them a great basic for you little ones year-round wardrobe. DETAILS 47% TENCEL Modal 48% Cotton 5% Elasthane Standard 100 by OEKO-TEXÂ® certified SIZE Available from 2m - 8y CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-08-06T22:45:20Z
+  Updated: 2025-09-12T03:29:46Z
   Vendor: MarMar Copenhagen
   Product Type: Bottoms
   Availability: Available
@@ -367,7 +367,7 @@
     Availability: Not Available
     Price: $12.00 NZD
   - [6m](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay?variant=32356255629406)
-    Availability: Available
+    Availability: Not Available
     Price: $12.00 NZD
   - [9m](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay?variant=32356255662174)
     Availability: Not Available
@@ -583,7 +583,7 @@
     Availability: Available
     Price: $9.00 NZD
 - [MARMAR COPENHAGEN Leggings - Hay Stripe](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay-stripe): Very comfortable leggings in a soft quality and good fit. DETAILS 47% TENCELâ„¢ Modal 47% Cotton 6% Elasthane Standard 100 by OEKO-TEXÂ® certified SIZE Available from 2m - 8y CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-08-06T22:45:31Z
+  Updated: 2025-09-12T03:29:46Z
   Vendor: MarMar Copenhagen
   Product Type: Bottoms
   Availability: Available
@@ -622,7 +622,7 @@
     Availability: Not Available
     Price: $20.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay-stripe?variant=39274841997406)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 NZD
   - [8y](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay-stripe?variant=39274842030174)
     Availability: Not Available
@@ -777,24 +777,6 @@
   - [Size 2](https://www.littlebambinos.co.nz/products/bibs-supreme-pacifier-silicone-iron-baby-blue?variant=39481687965790)
     Availability: Available
     Price: $27.00 NZD
-- [POUDRE ORGANIC Girl's Long Sleeve Top - Flower](https://www.littlebambinos.co.nz/products/poudre-organic-long-sleeve-top-flower): A lovely long-sleeved t-shirt with buttons on the shoulder. Each garment is made from unbleached organic cotton before dying to avoid using chemicals. The colour can therefore vary depending on the bath.
-  Updated: 2025-08-06T22:45:37Z
-  Vendor: Poudre Organic
-  Product Type: Tops
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Top1.jpg?v=1629969035
-  - [3y](https://www.littlebambinos.co.nz/products/poudre-organic-long-sleeve-top-flower?variant=39482029572190)
-    Availability: Not Available
-    Price: $24.00 NZD
-  - [4-5y](https://www.littlebambinos.co.nz/products/poudre-organic-long-sleeve-top-flower?variant=39482029604958)
-    Availability: Not Available
-    Price: $24.00 NZD
-  - [6-7y](https://www.littlebambinos.co.nz/products/poudre-organic-long-sleeve-top-flower?variant=39482029637726)
-    Availability: Available
-    Price: $24.00 NZD
-  - [8-9y](https://www.littlebambinos.co.nz/products/poudre-organic-long-sleeve-top-flower?variant=39482029670494)
-    Availability: Not Available
-    Price: $24.00 NZD
 - [POUDRE ORGANIC Baby Bodysuit - Indian Tan](https://www.littlebambinos.co.nz/products/poudre-organic-bodysuit-indian-tan): A beautifully soft long sleeve bodysuit for little bubbas. Sizes 0-6m feature a crossover style with dome fastenings. Sizes 9m - 2 years are a plain style (no crossover) with domes on the crotch for easy changing. Made from 100% cotton sourced from organic farms.
   Updated: 2025-09-08T00:26:20Z
   Vendor: Poudre Organic
@@ -2068,7 +2050,7 @@
     Availability: Not Available
     Price: $45.00 NZD
 - [TOSHI Sunhat Drifter - Jurassic](https://www.littlebambinos.co.nz/products/toshi-sunhat-drifter-jurassic): The classic wide brimmed Toshi sunhat features a subtle print design. A toggle on the head tie creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. The Sunhat Drifter is made from a durable and quality cotton fabric. DETAILS Head toggle for adjustable sizing Chin toggle to secure hat 50% Cotton 50% polyester (100% cotton lining) SIZINGÂ Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-08-06T22:39:26Z
+  Updated: 2025-09-12T01:36:14Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -7227,14 +7209,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-11T20:49:18Z
+  Updated: 2025-09-12T02:01:01Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-11T22:16:52Z
+  Updated: 2025-09-12T03:17:22Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11227,14 +11209,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-09-09T21:36:40Z
+  Updated: 2025-09-12T03:02:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-11T19:20:40Z
+  Updated: 2025-09-12T02:22:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -14439,21 +14421,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [3-6y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-tea-stripe?variant=41688423366750)
     Availability: Not Available
     Price: $99.00 NZD
-- [KONGES SLODJ Avery Swim Vest - Amour Pink](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-amour-pink): Enhance your little one's water confidence with this supportive swim vest. Designed for beginners, it provides gentle buoyancy as they develop swimming skills at their own pace. Available in two sizes: 1-2 years (11-15 kg) and 2-3 years (15-19 kg). Remember, this is a learning aid, not a lifesaving device. Always supervise children closely in water, use only in appropriate depth, and never during boating activities. WARNINGS: This is not a lifesaving device. Only to be used in water in which the child is within its depth. WILL NOT PROTECT AGAINST DROWNING. USE ONLY UNDER CONSTANT SUPERVISION. NOT FOR USE IN BOATING.
-  Updated: 2025-08-06T22:35:46Z
-  Vendor: Konges slojd
-  Product Type: Float Vest
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103230-p15060_1.jpg?v=1748424469
-  - [1-2y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-amour-pink?variant=41688424382558)
-    Availability: Available
-    Price: $99.00 NZD
-  - [2-3y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-amour-pink?variant=41688424415326)
-    Availability: Not Available
-    Price: $99.00 NZD
-  - [3-6y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-amour-pink?variant=41688424448094)
-    Availability: Not Available
-    Price: $99.00 NZD
 - [KONGES SLODJ Aster Swim Blouse - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slodj-aster-swim-blouse-tea-stripe): Protective long-sleeved swim blouse offering maximum sun safety with UPF 50+ ultraviolet protection. Features a convenient back zipper closure to make dressing easy. Perfect for keeping little ones safe during water adventures.
   Updated: 2025-08-24T02:40:07Z
   Vendor: Konges slojd
@@ -14839,7 +14806,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $99.00 NZD
 - [KONGES SLOJD Beach Tent Pop Up Anti UV50+ - Ma Grande Cerise Blush](https://www.littlebambinos.co.nz/products/konges-slojd-beach-tent-pop-up-anti-uv50-ma-grande-cerise-blush-1): This stylish UV beach tent can provide great sun relief and comfort for those long and sunny beach days. It can also be used on picnics in the park or as an additional source of shade in your garden or summerhouse.
-  Updated: 2025-07-03T14:48:19Z
+  Updated: 2025-09-12T02:23:42Z
   Vendor: Konges slojd
   Product Type: beach shade tent
   Availability: Available
@@ -15074,14 +15041,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-11T21:22:42Z
+  Updated: 2025-09-12T00:22:42Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-11T20:22:45Z
+  Updated: 2025-09-12T03:42:42Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15225,8 +15192,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-11T23:43:12Z
-  Total Products: 390
+  Updated: 2025-09-12T03:43:11Z
+  Total Products: 389
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -16077,8 +16044,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-11T23:43:12Z
-  Total Products: 1281
+  Updated: 2025-09-12T03:43:11Z
+  Total Products: 1279
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-11T11:02:10Z
   Total Products: 494
