@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-12T16:00:35.161Z
+- Updated At: 2025-09-12T20:00:34.844Z
 
 ## Products
 
@@ -340,7 +340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Silicone-Dish-Drying-Mat-Light-Grey-1.jpg?v=1727660074
   Price: $48.99 NZD
 - [Brabantia SinkSide Dish Brush with Suction Cup Holder - Dark Grey](https://everydayhome.co.nz/products/dish-brush-w-suction-cup-holder-dark-grey): Dish Brush W/Suction Cup Holder, Dark Grey
-  Updated: 2025-09-08T23:09:26Z
+  Updated: 2025-09-12T17:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4406,7 +4406,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-ConfidentGrey-8710755233449Brabantia_96dpi_2000x2000px_9_NR-36786.jpg?v=1754950393
   Price: $59.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Matt Black](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-matt-black): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-08T22:43:26Z
+  Updated: 2025-09-12T18:59:40Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
