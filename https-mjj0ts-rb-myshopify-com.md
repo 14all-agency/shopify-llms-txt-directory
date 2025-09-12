@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-05-06T14:38:20Z
-- Updated At: 2025-09-12T00:00:27.261Z
+- Updated At: 2025-09-12T08:00:28.244Z
 
 ## Products
 
@@ -87,6 +87,11 @@
 - [Home page](https://mjj0ts-rb.myshopify.com/collections/frontpage)
   Updated: 2025-09-02T15:25:56Z
   Total Products: 1
+
+## Store Pages
+
+- [Contact](https://mjj0ts-rb.myshopify.com/pages/contact)
+  Updated: 2025-05-06T14:38:23Z
 
 ## Policies
 
