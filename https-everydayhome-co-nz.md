@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-11T20:00:36.166Z
+- Updated At: 2025-09-12T00:00:36.295Z
 
 ## Products
 
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Corner-Shower-Bins-White-8.png?v=1727659913
   Price: $67.99 NZD
 - [Bellwood Caddy - White/Natural](https://everydayhome.co.nz/products/bellwood-caddy-wht-ntrl): Bellwood Caddy, Wht/Ntrl
-  Updated: 2025-09-08T22:41:02Z
+  Updated: 2025-09-11T21:07:07Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -312,14 +312,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Packet-Organiser-White-Natural-5.png?v=1727658813
   Price: $41.99 NZD
 - [Bellwood Bin Medium - White/Natural](https://everydayhome.co.nz/products/bellwood-bin-27-x-17-5cm-wht-ntrl): Bellwood Bin 27 X 17.5Cm, Wht/Ntrl
-  Updated: 2025-09-08T23:09:13Z
+  Updated: 2025-09-11T21:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Bin-White-Natural-5.png?v=1727658769
   Price: $34.99 NZD
 - [Bellwood Bin Large - White/Natural](https://everydayhome.co.nz/products/bellwood-bin-35-x-22-5cm-wht-ntrl): Bellwood Bin 35 X 22.5Cm, Wht/Ntrl
-  Updated: 2025-09-08T23:09:14Z
+  Updated: 2025-09-11T21:07:07Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -437,6 +437,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-11-23L-White-7.jpg?v=1727658827
   Price: $349.99 NZD
+- [Magino Stool with Magazine Rack - Clear](https://everydayhome.co.nz/products/magino-stool-w-magazine-rack-clear): Magino Stool W/Magazine Rack, Clear
+  Updated: 2025-09-11T23:37:10Z
+  Vendor: UMBRA
+  Product Type: Home & Living
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Magino-Stool-with-Magazine-Rack-Clear-8.jpg?v=1727659783
+  Price: $475.99 NZD
 - [Brabantia WallFix Retractable Clothesline with Protective Cover - 24m Metallic Grey](https://everydayhome.co.nz/products/brabantia-wallfix-retractable-clothesline-24m-with-protection-cover-metallic-grey): Wallfix  Dryer, 24M, W/Cover, Metallic Grey
   Updated: 2025-09-08T23:09:50Z
   Vendor: BRABANTIA
@@ -2384,7 +2391,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-11T19:52:07Z
+  Updated: 2025-09-11T22:37:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3049,7 +3056,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/HangOnDryingRack_15m-MattBlack-8710755403347Brabantia_96dpi_1000x1000px_7_NR-23454.png?v=1733869996
   Price: $104.99 NZD
 - [Brabantia Pull-Out Clothes Line - 22m Matt Steel](https://everydayhome.co.nz/products/pull-out-clothesline-22m-stainless-steel): Lots of laundry? Just pull out some extra drying space. Brabantias Pull Out Drying Lines can be adjusted to fit between two walls, up to 4.4 metres apart. They’re smooth and easy to operate and have up to 22 metres of drying capacity. The auto blocking system keeps this drying line taut at all times. How’s that for a pickup line?
-  Updated: 2025-09-08T23:10:07Z
+  Updated: 2025-09-11T22:37:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3441,7 +3448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/GroundSpikeMetal_Size3_O50mm-Galvanized-8710755311468Brabantia_96dpi_1000x1000px_7_NR-1855.png?v=1734403540
   Price: $24.99 NZD
 - [Brabantia Protective Clothes Cover - Medium Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-med-trans-gry): For anyone that wants a good-looking solution for keeping their clothes looking good, this set of two 60 x 100 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size M protect your blouses and shirts from dust and moths.
-  Updated: 2025-09-08T23:10:00Z
+  Updated: 2025-09-11T22:37:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3757,8 +3764,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/13406_IMG-002.png?v=1746478953
     Price: $302.99 NZD
-- [SwiftDry SkyLine Post Kit (2 Types)](https://everydayhome.co.nz/products/skyline-in-ground-post-kit-1-6m-wide): Upgrade your SwiftDry clothesline with this pair of heavy-duty black powder-coated posts. Designed for versatile mounting, they include multiple height positions for a perfect fit. Made from 50mm Square galvanized steel, they come with 316 stainless steel fixing bolts and optional surface mount plates or in-ground concrete installation. A durable, New Zealand-made solution for secure and stylish outdoor drying. Kit includes; -2x 50mm x 50mm x 2mm wall Heavy Duty Steel posts, Galvanised and Black Powder Coated -1 x 30mm x 30mm Back Bar(supplied the width of SkyLine ordered eg. 2.2m/2.4m) -In-ground posts are 2390mm high, 490mm to be concreted into the groundSurface-mounted posts are 1990mm high -In-ground posts to be concreted in, or Plated feet for Surface Mounting/bolting to existing concrete. -316 Stainless Steel fixing bolts -8 x concrete screws supplied with the Surface mounted post kit *New Zealand Made Quality*
-  Updated: 2025-09-08T23:16:30Z
+- [SwiftDry SkyLine Post Kit (2 Types)](https://everydayhome.co.nz/products/skyline-in-ground-post-kit-1-6m-wide): Upgrade your SwiftDry clothesline with this pair of heavy-duty black powder-coated posts. Designed for versatile mounting, they include multiple height positions for a perfect fit. Made from 50mm Square galvanized steel, they come with 316 stainless steel fixing bolts and optional surface mount plates or in-ground concrete installation. A durable, New Zealand-made solution for secure and stylish outdoor drying. Kit includes; -2x 50mm x 25mm x 2mm wall Heavy Duty Steel posts, Galvanised and Black Powder Coated -1 x 30mm length adjustable Back Bar -In-ground posts are 2390mm high, 490mm to be concreted into the groundSurface-mounted posts are 1990mm high -In-ground posts to be concreted in, or Plated feet for Surface Mounting/bolting to existing concrete. -316 Stainless Steel fixing bolts -8 x concrete screws supplied with the Surface mounted post kit *New Zealand Made Quality*
+  Updated: 2025-09-11T23:36:19Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3772,7 +3779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $370.99 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-09-11T03:30:42Z
+  Updated: 2025-09-11T22:50:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3928,7 +3935,7 @@
     Availability: Available
     Price: $445.99 NZD
 - [SwiftDry SpinLine Rotary](https://everydayhome.co.nz/products/swiftdry-spinline-2-meter): The SwiftDry SpinLine Rotary Clothesline is the top of the line in Rotary Clotheslines, being a perfect fit for architectural homes, and a solid quality feel that you will appreciate everyday. We make the Spinline with heavy galvanised steel 3.6mm thick wall for the main pole, and the arms are made from 2mm thick wall galvinised steel. This is quite a statement when the industry standard for other rotary clotheslines is only 1mm steel wall on the main pole! We then Powder coat with Dulux Textura Black to finish, this gives it the elegant look that blends into and complements your home and outdoor landscape. The other very noticeable game changer with this model we designed here at SwiftDry, is that this is the only rotary clothesline available that does not have a tent pole like structure (or support arms) to hold the arms up, this is only possible because of the heavier duty steel use that can support itself. It does not have a winding handle hoist, instead it has 4 adjustable height positions 100mm apart, so you can set it to the height to suit you (around 100mm above head height is ideal) The lines are galvanised steel clothesline wire with 316 stainless steel turnbuckles (one for every line) that allow you to tension, or re-tension your lines at any stage without tools. It needs to be concreted into the ground, so it is not removable or foldable, so it is very strong and sturdy once installed It is available in 4 different diameters 2, 3, 4 or 5 meters overall. -Spinline 5 Meter = 64 meters of line space-Spinline 4 Meter = 40 meters of line space-Spinline 3 Meter = 22 meters of line space-Spinline 2 Meter = 11 meters of line space The best way to check what size you need is 1, How much washing do you have?2, Do you have limited space? Ideally you need at least 1 meter to spare around the edge of your SpinLine to allow it to spin freely without sheets and clothes getting caught on a bush/fence/shed close by. All SpinLines are Powder Coated Black, unless Custom Comes with our SwiftDry 30 year structural warranty, and free urban shipping NZ wide. Requires assembly on installation. Do you have further questions? Please contact us here
-  Updated: 2025-09-08T23:16:34Z
+  Updated: 2025-09-11T23:07:10Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -4476,7 +4483,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-Platinum-8710755112683Brabantia_300dpi_2000x2000px_9_NR-1426.jpg?v=1754621189
   Price: $82.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-soft-beige): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-09-08T22:43:32Z
+  Updated: 2025-09-11T23:52:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4581,7 +4588,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewDigitalBathroomScales-White-8710755280146Brabantia_300dpi_2000x2000px_9_NR-20014.jpg?v=1756437715
   Price: $71.99 NZD
 - [Brabantia Roll Top Bread Bin Regular - White](https://everydayhome.co.nz/products/brabantia-roll-top-bread-bin-regular-white): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. It's space efficient too: the lid disappears inside the bin, and you can put your canisters on the partially flat top. A practical and stylish addition to your kitchen!
-  Updated: 2025-09-08T23:09:19Z
+  Updated: 2025-09-11T22:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4686,7 +4693,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineUniversalOpener-White-8710755400605Brabantia_300dpi_2000x2000px_9_NR-4562.jpg?v=1756432171
   Price: $26.99 NZD
 - [Brabantia Essential Can Opener - White](https://everydayhome.co.nz/products/brabantia-essential-can-opener-white): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-09T22:22:11Z
+  Updated: 2025-09-11T22:37:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4784,7 +4791,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardFeltUnderlayE_135x49cm-White-8710755196423Brabantia_300dpi_2000x2000px_9_NR-3688.jpg?v=1756269664
   Price: $17.99 NZD
 - [Brabantia SinkSide Microfiber Dish Drying Mat - Dark Grey](https://everydayhome.co.nz/products/brabantia-sinkside-microfiber-dish-drying-mat-dark-grey): Drying the dishes and keeping your countertop dry without even lifting a finger? Use the Brabantia SinkSide Microfibre Dish Drying Mat! This foldable mat absorbs 7 times its weight in water. And it's soft, so less chance of chipping. Done? Let it dry and fold it away, or put it in the washing machine first. Fibertastic!
-  Updated: 2025-09-09T21:37:25Z
+  Updated: 2025-09-11T22:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
