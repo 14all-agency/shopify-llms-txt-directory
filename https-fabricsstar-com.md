@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-12T04:00:31.693Z
+- Updated At: 2025-09-12T12:00:31.986Z
 
 ## Products
 
@@ -2821,7 +2821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEACON-WHITE-101.jpg?v=1712264332
     Price: $1.00 USD
 - [Beaconsfield Metallic Jacquard Embroidery Fabric | Fabrics Star](https://fabricsstar.com/products/beaconsfield-metallic-jacquard-embroidery-fabric): Discover luxury and style with Beaconsfield Metallic Jacquard Embroidery Fabric at Fabrics Star. Elevate your creations with premium materials. Shop now!
-  Updated: 2025-08-26T15:08:38Z
+  Updated: 2025-09-12T04:23:42Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -8941,7 +8941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NATALI-118-PEWTER.jpg?v=1757518737
     Price: $1.00 USD
 - [MATISE Jacquard Fabric, 55 Inch. in Width, | Home Décor](https://fabricsstar.com/products/matise): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-11T13:33:56Z
+  Updated: 2025-09-12T05:29:16Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9690,7 +9690,7 @@
   Updated: 2025-09-10T11:14:33Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-09-11T11:13:17Z
+  Updated: 2025-09-12T11:13:33Z
   Total Products: 16
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-09-03T11:12:20Z
@@ -9705,19 +9705,19 @@
   Updated: 2025-09-06T11:13:48Z
   Total Products: 8
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-09-11T13:50:42Z
+  Updated: 2025-09-12T11:13:33Z
   Total Products: 240
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-09-11T13:50:42Z
+  Updated: 2025-09-12T11:13:33Z
   Total Products: 240
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-09-11T13:51:11Z
   Total Products: 107
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-09-11T11:13:17Z
+  Updated: 2025-09-12T11:13:33Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-11T13:50:42Z
+  Updated: 2025-09-12T11:13:33Z
   Total Products: 240
 
 ## Blogs
