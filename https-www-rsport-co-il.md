@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-12T12:00:56.903Z
+- Updated At: 2025-09-12T16:00:56.185Z
 
 ## Products
 
@@ -3341,7 +3341,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת בית נאפולי 24/25](https://www.rsport.co.il/products/חולצת-בית-נאפולי-24-25): חולצת בית נאפולי לעונת 24/25, עשויה מ-100% פוליאסטר, מציעה נוחות ומראה ספורטיבי עם העיצוב הייחודי והלוגו המוכר, זו דרך מצוינת להראות את התמיכה שלך בנאפולי על המגרש ומחוצה לו.
-  Updated: 2025-09-07T22:17:16Z
+  Updated: 2025-09-12T14:32:46Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45023,6 +45023,174 @@
   - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרבי-כדורגל-ליברפול-שלישית-25-26?variant=47706711523578)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg): נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG בצבע סגול יוניטי לבן ולימון לוסיד מביאות את המהירות לקדמת הבמה בהשראת דגמי F50 מהעבר עם עיצוב מיוחד שחתום על שמו של הכוכב הצעיר למין ימל הדגם האייקוני חוזר במהדורה מהירה וקלילה יותר מתמיד עם טכנולוגיות מתקדמות שנבנו במיוחד להאצת ריצות חדות ולפריצות בקווים ישרים סוליית Sprintframe 360 החדשה כוללת פקקים מעוגלים במרכז כף הרגל לתנועות חדות ומהירות שמבלבלות יריבים תוך שמירה על יציבות ושליטה בעזרת תומך עקב חיצוני חלק העליון עשוי Fibertouch סופר קל שמעניק תחושת התאמה מדויקת ותמיכה ממוקדת מבלי להכביד על הנעל עם טקסטורת Sprintweb תלת ממדית לאחיזה אופטימלית בכדור גם במהירויות גבוהות ועד קצה האצבעות לנגיעה מדויקת עוד יותר גרסת Laceless ללא שרוכים עם צווארון Primeknit גמיש ונוח להתאמה צמודה וריפוד ארגונומי בקרסול שמפחית חיכוך ואי נוחות כמו בדגמי F50 הקלאסיים גם כאן תקבלו שני סוגי מדרסים בקופסה – SL למהירות מקסימלית או Comfort לריכוך נוסף בעת נחיתה
+  Updated: 2025-09-12T12:38:49Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_1_2_22c538ba-5415-446b-ad67-af893a678662.webp?v=1757677094
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202793722)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202826490)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202859258)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202892026)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202924794)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202957562)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715202990330)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203023098)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203055866)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203088634)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203121402)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203154170)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203186938)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203219706)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203252474)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg?variant=47715203285242)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+- [נעלי כדורגל ללא שרוכים F50 League x Lamine Yamal FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg): נעלי כדורגל ללא שרוכים F50 League x Lamine Yamal FG/MG בצבע סגול יוניטי לבן ולימון לוסיד מציעות שילוב של מהירות, נוחות ושליטה על המגרש בהשראת דגמי F50 הקלאסיים עם חתימת הכוכב הצעיר למין ימל הן קלות במיוחד ומעוצבות להאצות פתאומיות ולתזוזות מהירות לצד שימור יציבות מלאה. סוליית Sprintplate 360 עם פקקים מעוגלים במרכז כף הרגל מאפשרת תנועות חדות ומדויקות, ותומך העקב החיצוני שומר על איזון ושליטה בזמן כל פריצה חלק העליון עשוי Fiberskin סופר קל עם תמיכה ממוקדת בלבד, וטקסטורת Sprintgrid 2D משפרת אחיזה בכדור ומקנה שליטה מלאה גם במהירויות גבוהות, עד קצה האצבעות הגרסה ללא שרוכים מגיעה עם צווארון Knit אינטגרלי למתן התאמה צמודה ונוחה וריפוד ארגונומי סביב הקרסול להפחתת חיכוך ואי נוחות
+  Updated: 2025-09-12T12:38:50Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_1_1_bfe9d8ad-4185-4734-8d3f-9b126d58d3b1.webp?v=1757678375
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238510842)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238543610)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238576378)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238609146)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238641914)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238674682)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238707450)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238740218)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238772986)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238805754)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238838522)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238871290)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238904058)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238936826)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715238969594)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-ללא-שרוכים-f50-league-x-lamine-yamal-fg-mg?variant=47715239002362)
+    Availability: Available
+    Price: ‏900.00 ‏₪ ILS
+- [נעלי כדורגל ילדים ללא שרוכים FG/MG Lamine Yamal](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal): תנו לילדים שלכם לחוות את המהירות והכיף של כדורגל מקצועי עם נעלי F50 League LL FG/MG – נעליים ללא שרוכים שמתאימות למגרשי דשא טבעי ולדשא מלאכותי דור שני. בהשראת דגמי F50 האיקוניים של הגדולים מהעבר, עיצוב זה חוגג את המשחק המהיר, הנועז והבלתי צפוי של הכוכב הצעיר למין ימל, ומזמין את הדור הבא לחלום בגדול חלק העליון קל במיוחד משלב Fiberskin עם טקסטורת Sprintgrid בקדמת כף הרגל, להענקת זריזות ושליטה מושלמת בכדור במצבי התקפה. הנעל מגיעה עם סוליה קלאסית, סגירה עם שרוכים, ריפוד טקסטילי ולשונית אלסטית להתאמה מדויקת, כדי להבטיח נוחות, יציבות ותנועה חופשית כמו ברק על הדשא סוליית Sprintplate 360 מאפשרת שימוש במגרשי דשא טבעי יבשים וגם במשטחים מרובי סוגים, כך שהנעל מתאימה למשחקים בבית ובחוץ מומלצת לשחקנים מתחילים שמחפשים נעליים עמידות ואיכותיות, המאפשרות לשפר את המשחק במגוון תנאים בלי להתפשר על ביצועים
+  Updated: 2025-09-12T12:38:51Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_2_8d7676dc-50d9-4a96-bd60-80d071c20aff.webp?v=1757678994
+  - [28](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286352122)
+    Availability: Not Available
+    Price: ‏799.00 ‏₪ ILS
+  - [½28](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286384890)
+    Availability: Not Available
+    Price: ‏799.00 ‏₪ ILS
+  - [29](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286417658)
+    Availability: Not Available
+    Price: ‏799.00 ‏₪ ILS
+  - [30](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286450426)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [½30](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286483194)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [31](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286515962)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [31½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286548730)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [32](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286581498)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286614266)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286647034)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286679802)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286712570)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286745338)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286778106)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286810874)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286843642)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286876410)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286909178)
+    Availability: Available
+    Price: ‏799.00 ‏₪ ILS
 
 ## Collections
 
@@ -45039,8 +45207,8 @@
   Updated: 2025-09-12T11:18:32Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-11T11:19:00Z
-  Total Products: 322
+  Updated: 2025-09-12T12:38:50Z
+  Total Products: 323
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-08-26T11:18:22Z
   Total Products: 37
@@ -45402,11 +45570,11 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 12
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-09-12T12:00:49Z
-  Total Products: 41
+  Updated: 2025-09-12T12:38:50Z
+  Total Products: 42
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-09-12T12:00:49Z
-  Total Products: 36
+  Updated: 2025-09-12T12:38:50Z
+  Total Products: 37
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-09-12T11:18:32Z
   Total Products: 808
@@ -45501,8 +45669,8 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-12T12:00:49Z
-  Total Products: 2021
+  Updated: 2025-09-12T12:38:50Z
+  Total Products: 2022
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
   Total Products: 9
@@ -45682,6 +45850,9 @@
   Total Products: 5
 - [OGC Nice חולצות כדורגל ומוצרי ספורט של](https://www.rsport.co.il/collections/ניס): קנו עכשיו חולצות כדורגל של OGC Nice – חולצות בית וחוץ, לילדים ולמבוגרים. איכותיות, נוחות ועמידות למשחק או לאוסף. משלוחים מהירים והזמנה קלה אונליין.
   Updated: 2025-08-31T19:56:42Z
+  Total Products: 3
+- [נעלי כדורגל ומוצרים Lamine Yamal](https://www.rsport.co.il/collections/נעלי-כדורגל-ומוצרים-lamine-yamal)
+  Updated: 2025-09-12T12:38:50Z
   Total Products: 3
 
 ## Blogs
