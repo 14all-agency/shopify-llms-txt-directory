@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-12T16:00:44.790Z
+- Updated At: 2025-09-12T20:00:44.047Z
 
 ## Products
 
@@ -1206,13 +1206,6 @@
   Product Type: Baby Toothbrush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ToothbrushStone.jpg?v=1640829440
-  Price: $24.00 NZD
-- [MUSHIE Finger Toothbrush - Blush/Shifting Sand](https://www.littlebambinos.co.nz/products/mushie-finger-toothbrush-blush-shifting-sand): Help brushing go smoothly and begin building good habits with these 100% BPA-free, chemical-free finger toothbrushes! Made from food grade silicone, the bumps on the back assist with sore, teething gums while the bristles on the front keep your baby's teeth clean.
-  Updated: 2025-08-10T23:18:46Z
-  Vendor: Mushie
-  Product Type: Baby Toothbrush
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ToothbrushBlush.jpg?v=1640829798
   Price: $24.00 NZD
 - [MUSHIE Lovey Blanket - Roman Green](https://www.littlebambinos.co.nz/products/mushie-lovey-blanket-roman-green): MushieÃ¢â‚¬â„¢s Lovey Blanket is a cute, cuddly, and calming blanket with a toy. It will bring comfort and security and stimulate your childÃ¢â‚¬â„¢s senses. The Lovey Blanket is ideal for naptime and playtime. You can also easily bring it with you when you are on the go. The Lovey Blankets are made of 100% organic cotton muslin, and they will stay soft after every wash.
   Updated: 2025-08-17T02:20:54Z
@@ -13857,7 +13850,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [WILSON & FRENCHY Organic Waffle Set - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon): This playful cotton waffle set includes a pre-shrunk, soft washed long sleeved top and full length pant in a relaxed fit. Adjust the ties on the waistband for a perfect fit and enjoy functional pockets, all made from GOTS certified organic cotton free from nasty chemicals. DETAILS Full length tapered leg, stretch waistband that is gentle on little tummies, functional side pockets, great everyday basic pant, waffle knit. Australian owned and designed. Made in India.
-  Updated: 2025-09-09T01:07:13Z
+  Updated: 2025-09-12T19:59:09Z
   Vendor: Wilson & Frenchy
   Product Type: Matching Set
   Availability: Available
@@ -13869,7 +13862,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $51.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon?variant=41647467397214)
-    Availability: Available
+    Availability: Not Available
     Price: $51.00 NZD
 - [WILSON & FRENCHY Organic Waffle Ruffle Zipsuit - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-ruffle-zipsuit-little-lemon): Keep your newborn comfy and cosy with this practical yet adorable ruffle zipsuit from Wilson and Frenchy. Crafted from organic cotton waffle that is gentle on baby's sensitive skin, this zipsuit features a gorgeous ruffle detail at zip opening with an all-over print. DETAILS Round neckline with concealed zipper for safety, long sleeved, full length, two-way zip closure for easy changes, made from GOTS certified organic cotton, sustainably produced, wrapped in a bio-degradable bag.
   Updated: 2025-08-07T01:30:56Z
@@ -13961,24 +13954,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-hat-beary-cute?variant=41648830709854)
     Availability: Available
     Price: $34.85 NZD
-- [WILSON & FRENCHY Organic Ribbed Tights - Buttermilk](https://www.littlebambinos.co.nz/products/wilson-frenchy-buttermilk-organic-ribbed-tights-buttermilk): Keep your little one cosy and warm with Wilson & Frenchy's rib tights. Made with organic cotton and added elastane and nylon, these tights provide both warmth and comfort. The elasticated waistband ensures they stay in place under any outfit. A must-have for any wardrobe. DETAILS Elasticated waistband for comfort, Stretchy, comfortable and warm, Great gift idea, Packed in recyclable packaging. Made in India.
-  Updated: 2025-07-23T22:11:05Z
-  Vendor: Wilson & Frenchy
-  Product Type: Tights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2541-05_1_517f27e6-553a-49f1-a66b-6f3102415a19.jpg?v=1746153499
-  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-buttermilk-organic-ribbed-tights-buttermilk?variant=41648838279262)
-    Availability: Not Available
-    Price: $20.40 NZD
-  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-buttermilk-organic-ribbed-tights-buttermilk?variant=41648838312030)
-    Availability: Available
-    Price: $20.40 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-buttermilk-organic-ribbed-tights-buttermilk?variant=41648838344798)
-    Availability: Available
-    Price: $20.40 NZD
-  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-buttermilk-organic-ribbed-tights-buttermilk?variant=41648838377566)
-    Availability: Not Available
-    Price: $20.40 NZD
 - [WILSON & FRENCHY Coco Speckle Organic Knitted Bear Hat - Coco Speckle](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-bear-hat-coco-speckle): This knitted hat with bear ears is the cutest way to keep little heads warm this winter. Made from organic cotton, bamboo, and wool, it features a soft turn up ribbed cuff for added warmth and comfort. A playful addition to any winter outfit. DETAILS Cute bear ears, soft ribbed turn up, gentle on baby's delicate skin, packaged in a bio-degradable bag. Made in India.
   Updated: 2025-07-23T22:11:06Z
   Vendor: Wilson & Frenchy
@@ -15177,7 +15152,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-12T15:43:12Z
+  Updated: 2025-09-12T19:43:14Z
   Total Products: 389
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16029,8 +16004,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-12T15:43:12Z
-  Total Products: 1278
+  Updated: 2025-09-12T19:59:38Z
+  Total Products: 1276
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-12T11:01:58Z
   Total Products: 494
@@ -16713,8 +16688,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-12T11:01:58Z
   Total Products: 1582
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-12T11:01:58Z
-  Total Products: 3092
+  Updated: 2025-09-12T19:59:39Z
+  Total Products: 3093
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-08-26T04:04:49Z
   Total Products: 3
