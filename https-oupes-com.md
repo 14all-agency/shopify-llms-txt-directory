@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-12T16:00:29.955Z
+- Updated At: 2025-09-12T20:00:29.999Z
 
 ## Products
 
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1741944152
   Price: $1,400.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-09-12T14:38:02Z
+  Updated: 2025-09-12T19:03:45Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $2,339.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-09-12T14:37:07Z
+  Updated: 2025-09-12T16:50:20Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -934,7 +934,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-370963_fb8fc09e-ee48-4d5c-82f0-23837ec45343.jpg?v=1756102316
   Price: $0.00 USD
 - [(Member Exclusive) OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/member-exclusive-oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-09-12T14:37:47Z
+  Updated: 2025-09-12T19:58:08Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
