@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-12T08:00:27.835Z
+- Updated At: 2025-09-12T11:52:08.167Z
 
 ## Products
 
@@ -173,6 +173,9 @@
     Tags: agroforesterie, phytothérapie, plante médicinale, poudre de feuilles de figuier, remède naturel
   - [Un retour à l'essentiel : de l'humilité du champ à la simplicité de l'assiette](https://www.laforetnousregale.fr/blogs/infos/un-retour-a-lessentiel-de-lhumilite-du-champ-a-la-simplicite-de-lassiette)
     Updated: 2025-09-12T05:30:01Z
+    Author: Équipe Pacific Planet
+  - [Découvrez l'aide à l'Agroforesterie Intraparcellaire en Bretagne](https://www.laforetnousregale.fr/blogs/infos/decouvrez-laide-a-lagroforesterie-intraparcellaire-en-bretagne)
+    Updated: 2025-09-12T11:38:53Z
     Author: Équipe Pacific Planet
 
 ## Store Pages
