@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-12T04:00:55.900Z
+- Updated At: 2025-09-12T08:00:54.986Z
 
 ## Products
 
@@ -1301,7 +1301,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק מנצ'סטר סיטי חוץ 24/25](https://www.rsport.co.il/products/חולצת-משחק-מנצסטר-סיטי-חוץ-24-25): הפגינו את תמיכתכם במנצ'סטר סיטי עם חולצת החוץ של הקבוצה הזו, המיועדת לאוהדים גם על המגרש וגם מחוצה הראו את מסירותכם למועדון.
-  Updated: 2025-09-07T22:18:05Z
+  Updated: 2025-09-12T05:23:51Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -22151,7 +22151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_ed42aaee-e0fa-4f41-a123-e3d1046a62a5.jpg?v=1740428974
   Price: ‏60.00 ‏₪ ILS
 - [מחזיק מפתחות ברזל קבוצת ברצלונה](https://www.rsport.co.il/products/מחזיק-מפתחות-ברזל-קבוצת-ברצלונה): מחזיק מפתחות מברזל בעיצוב קבוצת ברצלונה, עם סמל המועדון למראה ייחודי ואוהד. מושלם לכל חובב בארסה
-  Updated: 2025-09-07T22:09:44Z
+  Updated: 2025-09-12T06:16:51Z
   Vendor: R:SPORT
   Product Type: מחזיק מפתחות
   Availability: Available
