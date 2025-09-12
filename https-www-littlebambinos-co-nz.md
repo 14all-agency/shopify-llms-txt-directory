@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-12T04:00:44.774Z
+- Updated At: 2025-09-12T08:00:43.103Z
 
 ## Products
 
@@ -181,7 +181,7 @@
     Availability: Available
     Price: $22.00 NZD
 - [BIBS Pacifier - Natural Rubber - Sand](https://www.littlebambinos.co.nz/products/bibs-sand-two-pack): BIBS dummies. The BIBS pacifier has been a bestseller for more than 30 years.&nbsp; The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a motherÃ¢â‚¬â„¢s breast and is therefore recommended by midwifes to support natural breastfeeding. The round light shield faces away from the babyÃ¢â‚¬â„¢s face to ensure the supply of air to the sensitive skin around the mouth.
-  Updated: 2025-08-06T22:41:59Z
+  Updated: 2025-09-12T05:48:46Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -10079,7 +10079,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie GOTS - Bloomie](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie): Soft onesie for newborns in a light cotton blend with a hint of stretch. Designed with a wrap closure that features snap buttons along the body and legs for easy dressing. Made in 95% organic cotton and 5% elastane. GOTS, Organic,certified by CU1094701. DETAILS GOTS, Organic,certified by CU1094701. 95% Organic Cotton, 5% Elastane
-  Updated: 2025-09-11T19:38:30Z
+  Updated: 2025-09-12T04:42:25Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
@@ -10091,7 +10091,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $75.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-bloomie?variant=41129072132190)
-    Availability: Available
+    Availability: Not Available
     Price: $75.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie GOTS - Grand Prix](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-gots-grand-prix): Soft onesie for newborns in a light cotton blend with a hint of stretch. Designed with a wrap closure that features snap buttons along the body and legs for easy dressing. Made in 95% organic cotton and 5% elastane. GOTS, Organic,certified by CU1094701. DETAILS GOTS, Organic,certified by CU1094701. 95% Organic Cotton, 5% Elastane
   Updated: 2025-08-31T04:07:53Z
@@ -10170,7 +10170,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $19.00 NZD
 - [KONGES SLOJD Minnie Newborn Body GOTS - Antique White](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white): Soft body with decorative pointelle and easy wrap closure. Snap buttons along the body and crotch for easy dressing. Made from 100% organic cotton. DETAILS GOTS, Organic,certified by CU1094701. 100% Organic Cotton
-  Updated: 2025-09-01T08:37:08Z
+  Updated: 2025-09-12T05:48:45Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
@@ -10179,7 +10179,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white?variant=41129868918878)
-    Availability: Available
+    Availability: Not Available
     Price: $59.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-body-gots-antique-white?variant=41129868951646)
     Availability: Available
@@ -12352,7 +12352,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $80.00 NZD
 - [RYLEE + CRU Malibu Bodysuit - Wildflower](https://www.littlebambinos.co.nz/products/quincy-mae-malibu-bodysuit-wildflower): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-08-19T02:44:28Z
+  Updated: 2025-09-12T04:42:25Z
   Vendor: rylee + cru
   Product Type: Bodysuit
   Availability: Available
@@ -12361,7 +12361,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $73.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/quincy-mae-malibu-bodysuit-wildflower?variant=41416516632670)
-    Availability: Available
+    Availability: Not Available
     Price: $73.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/quincy-mae-malibu-bodysuit-wildflower?variant=41416517255262)
     Availability: Available
@@ -12546,7 +12546,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $55.00 NZD
 - [KONGES SLOJD Basic Newborn Onesie - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe): Soft newborn onesie with long sleeves. Designed with snap buttons along the sides and at the crotch for easy dressing.
-  Updated: 2025-08-26T22:04:37Z
+  Updated: 2025-09-12T05:48:45Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
@@ -12555,7 +12555,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $79.00 NZD
   - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe?variant=41419183980638)
-    Availability: Available
+    Availability: Not Available
     Price: $79.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-newborn-onesie-tea-stripe?variant=41419184013406)
     Availability: Available
@@ -12582,7 +12582,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $79.00 NZD
 - [KONGES SLOJD Basic Baby Helmet - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slojd-basic-baby-helmet-tea-stripe): Soft baby helmet made from organic cotton with a hint of stretch. Fasten with ties under the chin.
-  Updated: 2025-08-06T22:35:32Z
+  Updated: 2025-09-12T05:48:46Z
   Vendor: Konges slojd
   Product Type: baby hat
   Availability: Available
@@ -12591,7 +12591,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $40.72 NZD
   - [0-3m](https://www.littlebambinos.co.nz/products/konges-slojd-basic-baby-helmet-tea-stripe?variant=41419187716190)
-    Availability: Available
+    Availability: Not Available
     Price: $40.72 NZD
 - [KONGES SLOJD Basic Baby Helmet - Marmalade](https://www.littlebambinos.co.nz/products/konges-slojd-basic-baby-helmet-marmalade): Soft baby helmet made from organic cotton with a hint of stretch. Fasten with ties under the chin.
   Updated: 2025-08-06T22:35:33Z
@@ -12650,7 +12650,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [KONGES SLOJD Minnie Newborn Onesie - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge): Soft pointelle onesie. Designed with snap buttons at the shoulder and crotch for easy dressing.
-  Updated: 2025-08-31T03:49:12Z
+  Updated: 2025-09-12T04:42:27Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
@@ -13484,7 +13484,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blemish_repair_balm_fed36dba-cb91-4f3e-bb5c-dffe157c5cc7.jpg?v=1744071930
   Price: $39.00 NZD
 - [ORIA SKIN Claw Clip](https://www.littlebambinos.co.nz/products/oria-skin-claw-clip): Say goodbye to bad hair days and hello to effortless elegance with our Oria Skin Claw Clips. These sleek, stylish clips are the perfect mix of function and flair, designed to keep your hair in place while you apply your skincare products! Featuring our beautiful crescent moon 'O' logo mark. Use them to gently sweep your hair out of the way while applying your Oria Skin masks, serums and creams. No more stray strands in your face or getting stuck in your products—just smooth, clear skin and hassle-free beauty rituals. Made with durable materials built to last. All-day comfort, no tugging, just hassle free sophistication. Add a pop of effortless style to your collection with the Oria Skin Claw Clips—because great hair and perfect skincare should never be a struggle!
-  Updated: 2025-09-10T01:42:40Z
+  Updated: 2025-09-12T06:42:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -15020,14 +15020,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-56-pieces-Glitter-Unicorn-Pack-1_1000x1000_bc7d2a0a-f059-4579-a3bc-6aebf87dc1d2.webp?v=1754441899
   Price: $142.99 NZD
 - [CONNETIX Glitter Castle Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-glitter-castle-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:42Z
+  Updated: 2025-09-12T04:46:25Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Glitter-Castle-Pack-1_1000x1000_1d770295-9a1e-44ad-8bc8-925032e1ccce.webp?v=1754442140
   Price: $121.99 NZD
 - [CONNETIX Light Star Pack 28pc](https://www.littlebambinos.co.nz/products/connetix-light-star-pack-28pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:46Z
+  Updated: 2025-09-12T04:46:26Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15041,14 +15041,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-12T00:22:42Z
+  Updated: 2025-09-12T06:02:47Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-12T03:42:42Z
+  Updated: 2025-09-12T06:02:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15192,7 +15192,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-12T03:43:11Z
+  Updated: 2025-09-12T07:43:11Z
   Total Products: 389
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16044,7 +16044,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-12T03:43:11Z
+  Updated: 2025-09-12T07:43:11Z
   Total Products: 1279
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-11T11:02:10Z
