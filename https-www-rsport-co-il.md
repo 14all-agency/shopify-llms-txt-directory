@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-12T16:00:56.185Z
+- Updated At: 2025-09-12T20:00:55.451Z
 
 ## Products
 
@@ -45852,7 +45852,7 @@
   Updated: 2025-08-31T19:56:42Z
   Total Products: 3
 - [נעלי כדורגל ומוצרים Lamine Yamal](https://www.rsport.co.il/collections/נעלי-כדורגל-ומוצרים-lamine-yamal)
-  Updated: 2025-09-12T12:38:50Z
+  Updated: 2025-09-12T18:14:18Z
   Total Products: 3
 
 ## Blogs
