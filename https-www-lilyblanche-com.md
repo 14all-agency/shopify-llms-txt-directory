@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-12T12:00:43.171Z
+- Updated At: 2025-09-12T16:00:39.682Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2526,7 +2526,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Garnet Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-silver): Looking for a romantic gift? The Garnet Vintage Heart Locket features a gorgeous garnet gemstone, the birthstone of January. This beautiful vintage locket opens to take two photos, use our free locket photo service. Hallmarked in Edinburgh. Free UK shipping & Luxury Jewellery Care Kit Included. Shop this Locket Online.
-  Updated: 2025-09-07T11:25:50Z
+  Updated: 2025-09-12T14:46:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15993,7 +15993,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Sterling Silver Men's Dog Tag Necklace | High Quality | Lily Blanche](https://www.lilyblanche.com/products/mens-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother, this necklace is a jewellery box classic. Order online today and receive a free jewellery care kit worth £20!
-  Updated: 2025-09-11T15:45:03Z
+  Updated: 2025-09-12T14:32:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16026,7 +16026,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-09-11T15:37:03Z
+  Updated: 2025-09-12T14:25:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21498,7 +21498,7 @@ From £119
     Price: £125.00 GBP
 - [Men's 9ct Solid Gold Cross Necklace | UK Handcrafted](https://www.lilyblanche.com/products/mens-large-gold-cross-necklace): Discover our Men's Solid 9ct Gold Cross Necklace, handcrafted. Hallmarked British gold, choice of chain styles, and complimentary luxury packaging. Free UK delivery & care kit
 £175
-  Updated: 2025-09-10T17:36:52Z
+  Updated: 2025-09-12T15:04:56Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22660,7 +22660,7 @@ GBP 340
     Availability: Not Available
     Price: £325.00 GBP
 - [Men's XL Dog Tag Necklace Gold + Engraving](https://www.lilyblanche.com/products/mens-xl-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-09-11T15:22:02Z
+  Updated: 2025-09-12T14:10:04Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22690,7 +22690,7 @@ GBP 340
     Availability: Available
     Price: £265.00 GBP
 - [Men's XL Dog Tag Necklace Silver + Engraving](https://www.lilyblanche.com/products/mens-xl-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother. Order today and receive a free jewellery care kit.
-  Updated: 2025-09-11T15:30:02Z
+  Updated: 2025-09-12T14:17:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22930,7 +22930,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/heavy-gold-cross-necklace): Expertly crafted heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-08T12:47:22Z
+  Updated: 2025-09-12T14:44:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
