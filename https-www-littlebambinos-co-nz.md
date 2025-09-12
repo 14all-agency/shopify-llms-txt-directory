@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-11T20:00:43.276Z
+- Updated At: 2025-09-12T00:00:44.166Z
 
 ## Products
 
@@ -1271,13 +1271,6 @@
   Product Type: Baby Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Stars3.jpg?v=1640836355
-  Price: $46.00 NZD
-- [MUSHIE Stacking Cup - Original](https://www.littlebambinos.co.nz/products/mushie-stacking-ring-tower-rustic-1): This colourful round tower is fun and engaging for your baby to look at, while stacking the pieces helps them develop their organisation and motor skills. Mushie's Danish Hygge collection of toys for kids 0-3 years allow your child can play while learning valuable skills.
-  Updated: 2025-08-10T23:18:48Z
-  Vendor: Mushie
-  Product Type: Baby Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/StackingCupOriginal.jpg?v=1640837926
   Price: $46.00 NZD
 - [MUSHIE Swaddle - Cherries](https://www.littlebambinos.co.nz/products/mushie-swaddle-cherries): Made from 100% organic cotton, Mushie's cosy and extra soft swaddle is pre-washed for softness against babyÃ¢â‚¬â„¢s delicate skin. Their swaddles stay breathable while keeping baby warm and cuddly.
   Updated: 2025-08-10T23:18:47Z
@@ -3485,45 +3478,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [EU 31](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380826718)
     Availability: Not Available
     Price: $150.00 NZD
-- [VEJA V12 Velcro Multico -  Extra White & Silver](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:42:58Z
-  Vendor: VEJA
-  Product Type: Footwear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/VEJA_VSV052839_lateral_d0a7a3f7-16f7-4ca7-844a-2e24b7aa4c00.jpg?v=1672796504
-  - [EU 22](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387445854)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 23](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387478622)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 24](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387511390)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 25](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387544158)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 26](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387576926)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 27](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387609694)
-    Availability: Not Available
-    Price: $140.00 NZD
-  - [EU 28](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387642462)
-    Availability: Not Available
-    Price: $150.00 NZD
-  - [EU 29](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387675230)
-    Availability: Available
-    Price: $150.00 NZD
-  - [EU 30](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387707998)
-    Availability: Not Available
-    Price: $150.00 NZD
-  - [EU 31](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886387740766)
-    Availability: Not Available
-    Price: $150.00 NZD
-  - [EU 32](https://www.littlebambinos.co.nz/products/veja-v12-velcro-extra-white-silver?variant=39886388330590)
-    Availability: Not Available
-    Price: $150.00 NZD
 - [Te Reo Maoori For Preschoolers](https://www.littlebambinos.co.nz/products/te-reo-maori-for-preschoolers): Exploring the sounds of the MÄori language with bright and bold images your children will love.
   Updated: 2025-08-06T22:34:14Z
   Vendor: As We Are Illustration
@@ -3864,13 +3818,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [7y](https://www.littlebambinos.co.nz/products/grown-ribbed-organic-leggings-pink-salt?variant=39968700563550)
     Availability: Not Available
     Price: $29.00 NZD
-- [MUSHIE Shape Sorting Box](https://www.littlebambinos.co.nz/products/mushie-shape-sorting-box): A fun press toy inspired by phones made for little hands to hold. The toy promotes fine motor skills and encourages sensory exploration with bubbles that can be pushed and popped.
-  Updated: 2025-08-10T23:18:50Z
-  Vendor: Mushie
-  Product Type: Baby Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ShapeSortedBox.jpg?v=1679357119
-  Price: $74.00 NZD
 - [FRIGG Pacifier - Rope - Natural Rubber - Cream + Sage](https://www.littlebambinos.co.nz/products/frigg-pacifier-rope-natural-rubber-cream-duo): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
   Updated: 2025-08-06T22:42:58Z
   Vendor: Frigg
@@ -7280,14 +7227,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:42Z
+  Updated: 2025-09-11T20:49:18Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:43Z
+  Updated: 2025-09-11T22:16:52Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -8000,13 +7947,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/4200244_bibs-pacifier-soother-dunny-box-holder-blush_1__jpg.webp?v=1709696000
   Price: $29.00 NZD
-- [MUSHIE Stacking Cup - Retro](https://www.littlebambinos.co.nz/products/mushie-stacking-cup-retro): This colourful round tower is fun and engaging for your baby to look at, while stacking the pieces helps them develop their organisation and motor skills. Mushie's Danish Hygge collection of toys for kids 0-3 years allow your child can play while learning valuable skills.
-  Updated: 2025-08-10T23:18:49Z
-  Vendor: Mushie
-  Product Type: Baby Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/cupNEW_pyramid_amazon_produkt-shoot_1200x_4e71c0dc-78b0-4d82-9b36-a0aea5a00166.webp?v=1709696353
-  Price: $39.00 NZD
 - [MUSHIE Stacking Cup - Petal](https://www.littlebambinos.co.nz/products/mushie-stacking-cup-retro-1): This colourful round tower is fun and engaging for your baby to look at, while stacking the pieces helps them develop their organisation and motor skills. Mushie's Danish Hygge collection of toys for kids 0-3 years allow your child can play while learning valuable skills.
   Updated: 2025-08-13T21:41:11Z
   Vendor: Mushie
@@ -10302,7 +10242,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $99.00 NZD
 - [KONGES SLOJD Wooden Teddy Dress-up Puzzle - Animals](https://www.littlebambinos.co.nz/products/konges-slojd-wooden-teddy-dress-up-puzzle-animals): Dress up puzzle with our favorite little teddy bear. Play with different options and costumes for the teddy. Includes: 4 outfits. 12 puzzle pieces. A box with a lid for storage. This product is made of FSC™-certified pinewood and plywood. License Number: FSC C177572. Ages: 18m+. FSC™ certified pinewood & plywood
-  Updated: 2025-08-10T21:51:31Z
+  Updated: 2025-09-11T22:16:52Z
   Vendor: Konges slojd
   Product Type: Jigsaw Puzzles
   Availability: Available
@@ -11273,7 +11213,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-10T22:36:40Z
+  Updated: 2025-09-11T22:12:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -12746,7 +12686,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [KONGES SLOJD Children's Mini Backpack - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-jody-teddy-backpack-mon-grand-citron-sage): The Konges Slojd mini backpack is a perfect bag for children in kindergarten. The backpack has a front-chest buckle, padded shoulder straps, inside pockets, room for a thermal bottle and an inside water repellent foam board for back comfort. The foam board is removable and can be used to sit on as well.
-  Updated: 2025-09-11T12:54:49Z
+  Updated: 2025-09-11T23:40:46Z
   Vendor: Konges slojd
   Product Type: School Bag
   Availability: Available
@@ -13420,7 +13360,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-09-08T10:02:41Z
+  Updated: 2025-09-11T21:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13448,7 +13388,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
 - [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-09-09T22:42:45Z
+  Updated: 2025-09-11T21:02:45Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13541,7 +13481,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-09-11T10:02:40Z
+  Updated: 2025-09-11T21:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15134,14 +15074,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-11T01:22:42Z
+  Updated: 2025-09-11T21:22:42Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-11T01:22:42Z
+  Updated: 2025-09-11T20:22:45Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15168,7 +15108,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $7.99 NZD
   - [Adapter 10](https://www.littlebambinos.co.nz/products/adapters?variant=41986460123230)
-    Availability: Not Available
+    Availability: Available
     Price: $7.99 NZD
 - [LIL MOO Spare Parts](https://www.littlebambinos.co.nz/products/dust-cap): Misplaced your dust cap or rubber seal of your bottle warmer? No worries, you can order a new one here! Make sure you press the middle of the dust cap down when on the warmer to ensure a secure fit. Please do not place rubber seal or any part of your Portable Bottle Warmer in a UV steriliser or dishwasher.
   Updated: 2025-09-08T00:22:47Z
@@ -15285,7 +15225,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-11T19:43:21Z
+  Updated: 2025-09-11T23:43:12Z
   Total Products: 390
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16137,8 +16077,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-11T19:43:21Z
-  Total Products: 1285
+  Updated: 2025-09-11T23:43:12Z
+  Total Products: 1281
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-11T11:02:10Z
   Total Products: 494
