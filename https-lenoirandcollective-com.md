@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-11T08:00:28.030Z
+- Updated At: 2025-09-12T04:00:27.750Z
 
 ## Products
 
@@ -432,14 +432,13 @@
     Availability: Available
     Price: €32.45 EUR
 - [Turtleneck Sweater Women Fashion – 2024 New Stretch Knitted](https://lenoirandcollective.com/products/turtleneck-sweater-women-fashion-2024-new-stretch-tops-women-knitted-pullovers-long-sleeve-bottoming-knitted-sweater): Turtleneck Sweater Women Fashion offers 2024’s latest stretch knitted pullovers. Long sleeve and bottoming sweater perfect for layering and winter warmth
-  Updated: 2025-09-07T19:55:33Z
+  Updated: 2025-09-12T03:37:12Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/4cd21673000e6a5eb6ae7dfb26a3ef22.jpg?v=1747077480
   Price: €31.80 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-10T09:44:14Z
+  Updated: 2025-09-11T13:43:34Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -641,7 +640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/c08d09f4f2919e802a5fe309d7ed4a9c.jpg?v=1751481315
     Price: €49.50 EUR
 - [Luxury Women Handbag - Organic Tote & Crossbody 2025](https://lenoirandcollective.com/products/women-bag-hander-bag-for-women-2025-tote-bag-crossbody-bag-fashion-single-bag-for-women-sac-a-main-femme-luxury): Discover our stylish women bag collection, featuring organic materials and old money aesthetics in tote and crossbody designs.
-  Updated: 2025-09-07T11:21:44Z
+  Updated: 2025-09-11T15:48:04Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -665,7 +664,7 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 12
 - [Elegant Women Collection | Old Money Style](https://lenoirandcollective.com/collections/woman-outfit-1): Explore our Elegant Women Collection, inspired by timeless old money style. Perfect pieces to elevate your wardrobe.
-  Updated: 2025-09-08T17:04:40Z
+  Updated: 2025-09-11T13:43:53Z
   Total Products: 17
 - [Elegant Woman Bags Collection - Old Money Style](https://lenoirandcollective.com/collections/woman-outfit-2): Explore our elegant collection of woman bags inspired by old money sophistication.
   Updated: 2025-09-07T11:21:41Z
@@ -677,7 +676,7 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 8
 - [SUMMER COLLECTION](https://lenoirandcollective.com/collections/summer-collection): Summer collection for woman and men with stylish accessories
-  Updated: 2025-09-07T19:06:24Z
+  Updated: 2025-09-11T13:43:35Z
   Total Products: 5
 - [Elegant Men's Perfume Collection | Old Money Essence](https://lenoirandcollective.com/collections/mens-perfume): Discover our elegant men's perfume collection, embodying the essence of old money sophistication and luxury.
   Updated: 2025-09-07T11:21:41Z
@@ -692,7 +691,7 @@
   Updated: 2025-09-08T17:04:40Z
   Total Products: 13
 - [Featured Collection](https://lenoirandcollective.com/collections/featured-collection-skkzk)
-  Updated: 2025-09-08T17:04:40Z
+  Updated: 2025-09-11T13:43:53Z
   Total Products: 3
 
 ## Blogs
