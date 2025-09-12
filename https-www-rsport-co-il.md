@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-11T20:00:56.216Z
+- Updated At: 2025-09-12T00:01:01.782Z
 
 ## Products
 
@@ -29432,11 +29432,11 @@
     Availability: Available
     Price: ‏190.00 ‏₪ ILS
 - [חליפת כדורגל ריאל מדריד בית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-ריאל-מדריד-בית-25-26-ילדים): חליפת כדורגל ריאל מדריד בית 25/26 כוללת חולצה ומכנס בגזרה ספורטיבית ונוחה, בצבע הלבן האייקוני עם כל הפרטים המדויקים כמו של השחקנים. עשויה מבד נושם וקליל, מושלמת לאימון, משחק או סתם יום של אהדה אמיתית
-  Updated: 2025-09-07T22:06:33Z
+  Updated: 2025-09-11T21:37:37Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20250606_120621_0002.jpg?v=1749202593
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20250606_120621_0002.jpg?v=1757626657
   - [2-3Y](https://www.rsport.co.il/products/חליפת-כדורגל-ריאל-מדריד-בית-25-26-ילדים?variant=47386460455162)
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
@@ -29504,11 +29504,11 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד בית 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-בית-25-26-נשים): חולצת כדורגל נשים של ריאל מדריד עשויה 100% פוליאסטר, קלה, נושמת ונוחה, בגזרה מחמיאה המתאימה לפעילות ספורטיבית וללבישה יומיומית.
-  Updated: 2025-09-07T22:06:31Z
+  Updated: 2025-09-11T21:34:48Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/rn-image_picker_lib_temp_81681bd5-cc70-4914-8b4a-1d8b9fcf5925.png?v=1749229625
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/rn-image_picker_lib_temp_a3c46d6f-185e-4a51-8409-4ff736bb7806.png?v=1757626488
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-בית-25-26-נשים?variant=47388201681146)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
