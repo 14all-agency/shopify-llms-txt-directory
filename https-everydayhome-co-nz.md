@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-12T04:00:36.167Z
+- Updated At: 2025-09-12T08:00:36.047Z
 
 ## Products
 
@@ -1915,7 +1915,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-32cm-Open-Stirfry-Ci-0.jpg?v=1731902053
   Price: $99.99 NZD
 - [Circulon Accessories Cleaning Brush W/Scraper Head](https://everydayhome.co.nz/products/circulon-accessories-cleaning-brush-w-scraper-head): This Circulon cleaning brush is a must-have item for every kitchen! With high quality stainless steel construction and special heat-resistant nylon bristles, this brush will thoroughly clean your pan and help prolong the life of your nonstick surfaces. The handle features an ergonomic curved design for a confident grip and a tapered edge scraping head for removing tough residue.
-  Updated: 2025-09-09T23:07:22Z
+  Updated: 2025-09-12T04:37:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
