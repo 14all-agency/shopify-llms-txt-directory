@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-13T00:00:46.649Z
+- Updated At: 2025-09-13T04:00:43.607Z
 
 ## Products
 
@@ -1934,36 +1934,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/hbplatinum1.png?v=1662803045
   Price: $9.00 NZD
-- [RYLEE + CRU Boxy Tee - Lemon](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe): Playful boxy fit tee with a round neckline and dropped sleeves. Soft-washed + yarn dyed for added comfort.Care: Machine wash cold. Tumble Dry low.Made of 100% cotton
-  Updated: 2025-08-06T22:46:16Z
-  Vendor: rylee + cru
-  Product Type: Tops
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC039_Lemon.jpg?v=1660623993
-  - [3-6m](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759939993694)
-    Availability: Available
-    Price: $14.00 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759943172190)
-    Availability: Not Available
-    Price: $14.00 NZD
-  - [12-18m](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759940026462)
-    Availability: Not Available
-    Price: $14.00 NZD
-  - [18-24m](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759943204958)
-    Availability: Not Available
-    Price: $14.00 NZD
-  - [2-3y](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759943237726)
-    Availability: Not Available
-    Price: $14.00 NZD
-  - [4-5y](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759943270494)
-    Availability: Not Available
-    Price: $14.00 NZD
-  - [6-7y](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759940059230)
-    Availability: Not Available
-    Price: $14.00 NZD
-  - [8-9y](https://www.littlebambinos.co.nz/products/copy-of-rylee-cru-boxy-tee-carnival-stripe?variant=39759940091998)
-    Availability: Not Available
-    Price: $14.00 NZD
 - [SUSUKOSHI Organic Kimono Bodysuit SS - Platinum](https://www.littlebambinos.co.nz/products/susukoshi-organic-kimono-bodysuit-ss-platinum): Made with a beautifully soft organic cotton elastane, suitable for delicate baby's skin. Features snap buttons made for easy changing but don't necessarily have to be opened when putting it on wriggly toddlers. Susukoshi basics are well designed for comfort and everyday wear. DETAILS 95% organic cotton, 5% elastane with organic dye Designed in Australia, ethically made in China SIZING True to size CARE Machine cold wash. Delicate cycle. Do not dry clean. Do not bleach. Tumble dry low. *Please bear in mind that photos may be slightly different from actual items in terms of colour due to the lighting during photo shooting or the monitor's display.
   Updated: 2025-06-10T23:24:53Z
   Vendor: Susukoshi
@@ -3583,33 +3553,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-knit-legging-shell-ditsy?variant=39901886480478)
     Availability: Not Available
     Price: $29.00 NZD
-- [SOLL THE LABEL Ribbed Bike Shorts - Dark Blush](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush): Ribbed essentials for all seasons and occasions, designed with stretch cotton fabric in a range of fashionable neutrals. These everyday, versatile items are perfect to mix and match. True to size.Â Made of 95% cotton, 5% elastane
-  Updated: 2025-08-06T22:46:49Z
-  Vendor: Sol the Label
-  Product Type: Bottoms
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/DarkBlush1.jpg?v=1675744202
-  - [3-6m](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498309214)
-    Availability: Available
-    Price: $12.00 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498341982)
-    Availability: Not Available
-    Price: $12.00 NZD
-  - [1y](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498374750)
-    Availability: Not Available
-    Price: $12.00 NZD
-  - [2y](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498407518)
-    Availability: Not Available
-    Price: $12.00 NZD
-  - [3y](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498440286)
-    Availability: Not Available
-    Price: $12.00 NZD
-  - [4y](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498473054)
-    Availability: Not Available
-    Price: $12.00 NZD
-  - [5y](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-bike-shorts-dark-blush?variant=39908498505822)
-    Availability: Not Available
-    Price: $12.00 NZD
 - [SOLL THE LABEL Ribbed T-Shirt Dress - Cream](https://www.littlebambinos.co.nz/products/soll-the-label-ribbed-t-shirt-dress-cream): Ribbed essentials for all seasons and occasions, designed with stretch cotton fabric in a range of fashionable neutrals. These everyday, versatile items are perfect to mix and match, pair with our otherÂ collections or simply cute on their own.Â True to size. Made of 95% cotton, 5% elastane
   Updated: 2025-08-06T22:46:50Z
   Vendor: Sol the Label
@@ -3740,7 +3683,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $34.00 NZD
 - [RYLEE + CRU Butterfly Top & Bloomer Set](https://www.littlebambinos.co.nz/products/rylee-cru-butterfly-top-bloomer-set): This set has our Butterfly Top with ruffle details at the sleeves and bottom edge with a button and keyhole opening at the back. Paired with our Flutter bloomers for the perfect set!Featuring our 'geo embroidery' all-over pattern on cloud.Care: Machine wash cold. Tumble dry low. Minor shrinkage may occur if tumble dried.Made of 100% Cotton
-  Updated: 2025-08-06T22:46:55Z
+  Updated: 2025-09-13T00:58:17Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
@@ -6316,21 +6259,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/STY_BBI_SST_A_Toshi.jpg?v=1691991324
   Price: $28.00 NZD
-- [WILSON & FRENCHY Organic Rib Kimono Top - Petit Soleil](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-rib-kimono-top-petit-soleil): A very sweet kimono top made with GOTS certified organic cotton. Perfect for summer this wrap cardigan features short sleeves and crossover button fastening with a tie. Matching nappy pants available.
-  Updated: 2025-08-06T22:48:02Z
-  Vendor: Wilson & Frenchy
-  Product Type: Kimono Top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2318-03_1.jpg?v=1693373532
-  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-rib-kimono-top-petit-soleil?variant=40040089583710)
-    Availability: Available
-    Price: $19.00 NZD
-  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-rib-kimono-top-petit-soleil?variant=40040089616478)
-    Availability: Not Available
-    Price: $19.00 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-rib-kimono-top-petit-soleil?variant=40040089649246)
-    Availability: Not Available
-    Price: $19.00 NZD
 - [QUINCY MAE Tiered Jersey Dress](https://www.littlebambinos.co.nz/products/quincy-mae-tiered-jersey-dress): Velvety soft long sleeve dress with aÂ dotty print.Â All sizes have a snap at the shoulder for easy changing. DETAILS Made from 100% certified organic cotton CARE Machine wash cold. Tumble dry low.
   Updated: 2025-08-06T22:48:04Z
   Vendor: Quincy Mae
@@ -7209,7 +7137,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-12T23:52:06Z
+  Updated: 2025-09-13T01:40:12Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15152,7 +15080,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-12T23:43:13Z
+  Updated: 2025-09-13T03:43:11Z
   Total Products: 389
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16004,8 +15932,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-12T23:43:13Z
-  Total Products: 1276
+  Updated: 2025-09-13T03:43:11Z
+  Total Products: 1273
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-12T11:01:58Z
   Total Products: 494
