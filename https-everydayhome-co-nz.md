@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-13T16:00:34.619Z
+- Updated At: 2025-09-13T20:00:35.067Z
 
 ## Products
 
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-2-X-30L-Matt-Black-9.jpg?v=1727659030
   Price: $419.99 NZD
 - [Brabantia Bo Touch Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-platinum): Bo Touch Bin, 2 X 30L, Platinum
-  Updated: 2025-09-08T23:10:15Z
+  Updated: 2025-09-13T17:07:21Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
