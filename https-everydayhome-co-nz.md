@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-13T00:00:35.419Z
+- Updated At: 2025-09-13T04:00:35.163Z
 
 ## Products
 
@@ -143,13 +143,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-3-Tier-White-Natura-7.jpg?v=1727659316
   Price: $184.90 NZD
-- [Bellwood Wall Shelf - White/Natural](https://everydayhome.co.nz/products/bellwood-wall-shelf-wht-nat): Bellwood Wall Shelf  Wht/Nat
-  Updated: 2025-09-12T03:22:10Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Wall-Shelf-White-Natural-5.jpg?v=1727659428
-  Price: $212.99 NZD
 - [Cubiko 5 Hook - Black](https://everydayhome.co.nz/products/cubiko-5-hook-black): Cubiko 5 Hook  Black
   Updated: 2025-09-08T23:12:02Z
   Vendor: UMBRA
@@ -312,7 +305,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Packet-Organiser-White-Natural-5.png?v=1727658813
   Price: $41.99 NZD
 - [Bellwood Bin Medium - White/Natural](https://everydayhome.co.nz/products/bellwood-bin-27-x-17-5cm-wht-ntrl): Bellwood Bin 27 X 17.5Cm, Wht/Ntrl
-  Updated: 2025-09-11T21:07:10Z
+  Updated: 2025-09-13T03:13:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -991,7 +984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Natural-8.png?v=1727660128
   Price: $84.99 NZD
 - [Picket 5 Hook - Aged Walnut](https://everydayhome.co.nz/products/picket-5-hook-aged-walnut): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-09-08T23:13:36Z
+  Updated: 2025-09-13T02:22:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1439,7 +1432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Compact-Dish-Drying-Rack-Light-Grey-2.png?v=1727659676
   Price: $74.99 NZD
 - [Brabantia SinkSide Dish Drying Rack - Dark Grey](https://everydayhome.co.nz/products/dish-drying-rack-dark-grey): This Brabantia SinkSide Dish Drying Rack is designed for keeping your dripping dishes. It has a sleek design, but space for up to 13 plates plus bowls, cutlery and glasses. It has a removable cutlery basket and a sloping drip tray too, so drippings run directly into the sink. This rack is on track!
-  Updated: 2025-09-12T20:53:21Z
+  Updated: 2025-09-13T01:08:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2972,7 +2965,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $46.99 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-08T23:15:34Z
+  Updated: 2025-09-13T02:52:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3280,7 +3273,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-JadeGreen-8710755203527Brabantia_96dpi_1000x1000px_7_NR-27967.png?v=1734400434
   Price: $17.99 NZD
 - [Brabantia Make & Take Bento Box - Large Light Grey](https://everydayhome.co.nz/products/make-take-bento-box-large-light-grey): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:20:21Z
+  Updated: 2025-09-13T00:46:18Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3322,7 +3315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-DarkGrey-8710755202520Brabantia_96dpi_1000x1000px_7_NR-27884.png?v=1734401760
   Price: $9.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-02T22:03:55Z
+  Updated: 2025-09-13T00:46:20Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4315,7 +4308,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_20L-Platinum-8710755114045Brabantia_300dpi_2000x2000px_9_NR-1489.jpg?v=1754957882
   Price: $164.99 NZD
 - [Brabantia Newicon Pedal Bin - 20L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-20l-soft-beige): Looking for the perfect bin for your kitchen? Or the perfect bin for any other room? Try your foot at the Brabantia Pedal Bin NewIcon 20 litre - a true all-rounder. This timeless bin is odour-proof and hygienic, with a tap of the toe pedal opening and soft-close feature. More plusses: the non-skid base, nifty anti-tilting block and of course its iconic looks. What's not to love?
-  Updated: 2025-09-08T23:10:43Z
+  Updated: 2025-09-13T01:18:45Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4434,7 +4427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-Platinum-8710755113246Brabantia_300dpi_2000x2000px_9_NR-1462.jpg?v=1754624788
   Price: $59.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-soft-beige): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-08T22:43:25Z
+  Updated: 2025-09-13T01:18:45Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
