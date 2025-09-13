@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-13T04:00:35.163Z
+- Updated At: 2025-09-13T08:00:35.187Z
 
 ## Products
 
@@ -1873,7 +1873,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $43.99 NZD
 - [Cappa Toilet Paper Stand - Black](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-black): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-09-10T17:07:10Z
+  Updated: 2025-09-13T04:52:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2951,7 +2951,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-12T23:52:06Z
+  Updated: 2025-09-13T04:22:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2965,7 +2965,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $46.99 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-13T02:52:10Z
+  Updated: 2025-09-13T04:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3056,7 +3056,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $118.99 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-12T21:07:10Z
+  Updated: 2025-09-13T04:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
