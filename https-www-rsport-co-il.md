@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-13T04:00:52.466Z
+- Updated At: 2025-09-13T08:00:55.467Z
 
 ## Products
 
@@ -1073,7 +1073,7 @@
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
 - [חולצת משחקי חוץ מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית): הפוך לאוהד אמיתי עם חולצת החוץ האותנטית הזו של מנצ'סטר יונייטד ל-24/25. הצג את תמיכתך עם החולצה הרשמית הזו הכוללת את הצבעים והסמל של הקבוצה. חולצה זו, שעוצבה במומחיות לנוחות וסטייל, תגרום לך להרגיש חלק מהצוות המנצח.
-  Updated: 2025-09-07T22:18:11Z
+  Updated: 2025-09-13T06:23:29Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
