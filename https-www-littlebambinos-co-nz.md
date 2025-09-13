@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-13T16:00:44.254Z
+- Updated At: 2025-09-13T20:00:43.371Z
 
 ## Products
 
@@ -7130,7 +7130,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-13T07:12:17Z
+  Updated: 2025-09-13T19:41:51Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7165,7 +7165,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/80pceExpansion3D_1c17a925-a7bc-4020-8d81-18fa0ba0e27b.jpg?v=1702936631
   Price: $142.99 NZD
 - [CONNETIX Pastel Shape Expansion Pack 48 pc](https://www.littlebambinos.co.nz/products/connetix-pastel-shape-expansion-pack-48-pc): Expand play and learning possibilities with our 48 Piece Pastel Shape Expansion Pack. Featuring a range of exclusive magnetic tile shapes, including large triangles, right-angle triangles, quarter circles, pentagons, trapezoids and rhombi, this pack enhances design and play possibilities with Connetix.
-  Updated: 2025-09-10T22:37:43Z
+  Updated: 2025-09-13T18:57:47Z
   Vendor: Connetix
   Product Type: 
   Availability: Available
@@ -11498,13 +11498,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-01-24at2.29.23PM_4cc868ef-a2f4-48a1-b740-b28d8acc59bf.png?v=1738014956
   Price: $42.95 NZD
-- [B.BOX Snack Box - Lilac Pop](https://www.littlebambinos.co.nz/products/bbox-snack-box-lilac-pop): DETAILS On-the-go? B.box makes snack time easy with the versatile snackbox. The perfect answer for smaller portions, keep little ones fed no matter what your day has in store – playground, car trips or kinder. The flexi whole fruit holder secures small, whole fruits in place, meaning no more cut fruit or soggy, bruised snacks! 2 sealed compartments are leak proof so wet snack ideas such as puree, yoghurt and dips can be packed with peace of mind. An easy open/close clip is large enough for little hands and fingers and the seals are removable for easy, hygienic cleaning. Made from PP and silicone, the snackbox is freezer safe so you can get ahead of the game and store a few in the freezer at the start of the week, ready to go.
-  Updated: 2025-08-06T22:41:48Z
-  Vendor: B.Box
-  Product Type: Lunch Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/122925_snackbox-Lilac-Pop_01__90489_cb65a0cf-257f-4905-934f-1989c381effe.jpg?v=1738016288
-  Price: $22.95 NZD
 - [B.BOX Snack Box - Ocean Breeze](https://www.littlebambinos.co.nz/products/bbox-snack-box-ocean-breeze): DETAILS On-the-go? B.box makes snack time easy with the versatile snackbox. The perfect answer for smaller portions, keep little ones fed no matter what your day has in store – playground, car trips or kinder. The flexi whole fruit holder secures small, whole fruits in place, meaning no more cut fruit or soggy, bruised snacks! 2 sealed compartments are leak proof so wet snack ideas such as puree, yoghurt and dips can be packed with peace of mind. An easy open/close clip is large enough for little hands and fingers and the seals are removable for easy, hygienic cleaning. Made from PP and silicone, the snackbox is freezer safe so you can get ahead of the game and store a few in the freezer at the start of the week, ready to go.
   Updated: 2025-08-06T22:41:49Z
   Vendor: B.Box
@@ -13822,7 +13815,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $80.75 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Jumper - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute): Get ready to cuddle up in style with our organic cotton, wool, and bamboo jacquard knit jumper. The roomy fit and ribbed cuffs and neckline provide comfort, while the cute bear face design adds some playful charm. Stay warm and trendy, baby and kid approved. DETAILS Relaxed fit, long sleeved, all over jacquard design, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-07-23T22:11:10Z
+  Updated: 2025-09-13T18:17:56Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
@@ -13860,21 +13853,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648825499742)
     Availability: Available
     Price: $39.95 NZD
-- [WILSON & FRENCHY Organic Knitted Jacquard Hat - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-hat-beary-cute): Warm up those little heads this winter with our adorable knitted hat. Made from a blend of organic cotton, bamboo and wool, this hat is not only soft but also eco-friendly. The cute pom pom and soft ribbed cuff add a playful touch. Keep your little ones cosy and stylish with this must-have winter accessory. DETAILS Pom pom detail, soft knitted ties, gentle on baby's delicate skin, packaged in a bio-degradable bag.
-  Updated: 2025-08-29T10:56:21Z
-  Vendor: Wilson & Frenchy
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2547-02C_1_e399f340-2fd8-4e9e-a101-9c26d01620fc.jpg?v=1746153552
-  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-hat-beary-cute?variant=41648830644318)
-    Availability: Not Available
-    Price: $34.85 NZD
-  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-hat-beary-cute?variant=41648830677086)
-    Availability: Not Available
-    Price: $34.85 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-hat-beary-cute?variant=41648830709854)
-    Availability: Available
-    Price: $34.85 NZD
 - [WILSON & FRENCHY Coco Speckle Organic Knitted Bear Hat - Coco Speckle](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-bear-hat-coco-speckle): This knitted hat with bear ears is the cutest way to keep little heads warm this winter. Made from organic cotton, bamboo, and wool, it features a soft turn up ribbed cuff for added warmth and comfort. A playful addition to any winter outfit. DETAILS Cute bear ears, soft ribbed turn up, gentle on baby's delicate skin, packaged in a bio-degradable bag. Made in India.
   Updated: 2025-07-23T22:11:06Z
   Vendor: Wilson & Frenchy
@@ -14365,7 +14343,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Black Multi-Use Cover](https://www.littlebambinos.co.nz/products/black-multi-use-cover): Protect your baby with the versatile Black Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-09-08T10:02:41Z
+  Updated: 2025-09-13T19:42:47Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -14908,7 +14886,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Glitter-Castle-Pack-1_1000x1000_1d770295-9a1e-44ad-8bc8-925032e1ccce.webp?v=1754442140
   Price: $121.99 NZD
 - [CONNETIX Light Star Pack 28pc](https://www.littlebambinos.co.nz/products/connetix-light-star-pack-28pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-12T04:46:26Z
+  Updated: 2025-09-13T18:17:56Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15073,7 +15051,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-13T15:43:17Z
+  Updated: 2025-09-13T19:43:12Z
   Total Products: 389
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15925,8 +15903,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-13T15:43:17Z
-  Total Products: 1273
+  Updated: 2025-09-13T19:43:13Z
+  Total Products: 1271
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-13T11:02:24Z
   Total Products: 494
