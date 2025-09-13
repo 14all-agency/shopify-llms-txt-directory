@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-13T16:00:55.403Z
+- Updated At: 2025-09-13T20:00:54.970Z
 
 ## Products
 
@@ -13250,7 +13250,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:28Z
+  Updated: 2025-09-13T16:35:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
