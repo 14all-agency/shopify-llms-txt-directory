@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-12T04:00:27.750Z
+- Updated At: 2025-09-13T08:00:27.870Z
 
 ## Products
 
@@ -438,7 +438,7 @@
   Availability: Available
   Price: €31.80 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-11T13:43:34Z
+  Updated: 2025-09-13T03:21:04Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
