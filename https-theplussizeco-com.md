@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-12T12:00:28.116Z
+- Updated At: 2025-09-13T00:00:29.641Z
 
 ## Products
 
 - [Plus Size Blue Floral Cotton Straight Cut Suit - The Plus Size Co.](https://theplussizeco.com/products/blue-floral-cotton-straight-cut-suit)
-  Updated: 2025-09-12T05:05:27Z
+  Updated: 2025-09-12T20:09:51Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -499,7 +499,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Deep_Wine_Abstract_Printed_Dress_with_Pockets.png?v=1756980459
   Price: ₹995.00 INR
 - [Plus Size Blue Digital PrintedFlaredDresswithPockets- plus size store](https://theplussizeco.com/products/blue-digital-printed-flared-dress-with-pockets)
-  Updated: 2025-09-12T07:04:23Z
+  Updated: 2025-09-12T21:05:49Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -511,7 +511,7 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Plus Size Vibrant Blue Digital Printed Dress with Pockets - The Plus Size Store](https://theplussizeco.com/products/vibrant-blue-digital-printed-dress-with-pockets): Make a statement in vibrant blue with our Vibrant Blue Digital Printed Dress with Pockets. Features poly satin fabric and sweetheart neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-12T10:53:16Z
+  Updated: 2025-09-12T21:10:28Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -543,7 +543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Orange_Digital_Printed_Co-ord_Set.png?v=1754463366
   Price: ₹1,195.00 INR
 - [Plus Size Vibrant Blue Digital Printed Co-ord Set- The Plus Size Co.](https://theplussizeco.com/products/vibrant-blue-digital-printed-co-ord-set): Turn everyday into a statement with our Vibrant Blue Digital Printed Co-ord Set. Features modal poly satin and V neckline. Paired with pant. Sizes in XL to 10XL.
-  Updated: 2025-09-12T05:32:30Z
+  Updated: 2025-09-12T22:24:40Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -579,7 +579,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Neon_Anti_Wrinkle_Co-ord_Set_with_Pockets.png?v=1754465492
   Price: ₹1,195.00 INR
 - [Plus Size Smoke Black Abstract Dress with Pockets- plus size store](https://theplussizeco.com/products/smoke-black-abstract-dress-with-pockets): Designed for twirls, styled with our Smoke Black Abstract Dress with Pockets. Features poly satin fabric and square neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-12T11:04:00Z
+  Updated: 2025-09-12T22:44:19Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -716,7 +716,7 @@
   Updated: 2025-09-12T05:32:31Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2025-09-12T11:42:38Z
+  Updated: 2025-09-12T12:02:53Z
   Total Products: 38
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
   Updated: 2025-09-12T11:18:11Z
@@ -728,7 +728,7 @@
   Updated: 2025-09-12T05:35:08Z
   Total Products: 19
 - [Affordable Plus Size Office Wear for Women  | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-office-wear): Upgrade your Work Wardrobe with Stylish and Budget-Friendly Plus Size Office Wear. Explore Suits, Co-ord Sets, Kurtas & more in Sizes XL to 10XL.
-  Updated: 2025-09-12T11:24:01Z
+  Updated: 2025-09-12T12:02:53Z
   Total Products: 25
 - [Plus Size Vacation Wear – Dresses, Kurtas & Co-ords| The Plus Size Co.](https://theplussizeco.com/collections/plus-size-vacation-wear): Plan your getaway in style with our Plus Size Vacation Wear. Shop Breezy Dresses, Chic Kurtas & Comfy Co-ord Sets in Sizes XL to 10XL. Travel-friendly & trendy!
   Updated: 2025-09-12T05:35:08Z
