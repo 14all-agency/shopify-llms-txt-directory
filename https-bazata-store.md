@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-01T08:52:22Z
 - Contact Email: lauracozma03@gmail.com
-- Updated At: 2025-09-14T10:07:52.594Z
+- Updated At: 2025-09-14T16:00:27.718Z
 
 ## Products
 
@@ -95,19 +95,19 @@
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/3168430320734_I52.jpg?v=1756760552
   Price: 112,33 lei RON
 - [Set de curățenie eficient Leifheit PowerClean M - Curățenie rapidă!](https://bazata.store/products/set-de-curatenie-leifheit-powerclean-m-4006501555106): Set de curățenie Leifheit PowerClean M: soluția ideală pentru casa ta. Eficiență și calitate superioară, ușor de utilizat!
-  Updated: 2025-09-13T11:20:49Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: LEIFHEIT
   Product Type: Otthon és kert -> Háztartási kellékek -> Háztartási tisztítási kellékek -> Felmosók
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/6300c851-519f-4bf1-9b8b-c71d246b995c.png?v=1756797042
-  Price: 185,27 lei RON
+  Price: 186,00 lei RON
 - [Set curatenie Lamart Wind, 31 cm, 6 L (LT8054)](https://bazata.store/products/set-curatenie-lamart-wind-31-cm-6-l-lt8054)
-  Updated: 2025-09-13T11:20:49Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: Lamart
   Product Type: Otthon és kert -> Háztartási kellékek -> Háztartási tisztítási kellékek -> Felmosók
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/9e726485-0598-4047-ac0e-a49586ef96d7.png?v=1756797052
-  Price: 178,31 lei RON
+  Price: 179,03 lei RON
 - [Set de pictura si desen de 174 piese, in cutie practica de cadou din lemn](https://bazata.store/products/set-de-pictura-si-desen-de-174-piese-in-cutie-practica-de-cadou-din-lemn): Set de pictura si desen pentru adulti, 174 piese, cu creioane si vopsele.-Alindashop.ro
   Updated: 2025-09-13T11:20:51Z
   Vendor: Timelesstools
@@ -186,19 +186,19 @@
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/product-image-1453985526.jpg?v=1756797579
   Price: 205,11 lei RON
 - [Tocator Lamart Bamboo + cutit, 30 x 22 cm / 15 cm (LT2059)](https://bazata.store/products/tocator-lamart-bamboo-cutit-30-x-22-cm-15-cm-lt2059)
-  Updated: 2025-09-13T11:20:42Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: Lamart
   Product Type: Otthon és kert -> Konyha és étkezés -> Konyhaeszközök -> Vágódeszkák
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/bb887711-5263-4885-bf57-c512409ad25b.png?v=1756802570
-  Price: 57,38 lei RON
+  Price: 57,61 lei RON
 - [Set de cuțite BerlingerHaus Negru/Mov - Calitate și design elegant](https://bazata.store/products/set-de-cutite-berlingerhaus-negrumov-bh2597): Set de cuțite BerlingerHaus, Negru/Mov (BH/2597) - Eleganță și performanță în bucătărie cu design atrăgător și lame de calitate superioară.
-  Updated: 2025-09-13T11:20:45Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: Berlinger Haus
   Product Type: Otthon és kert -> Konyha és étkezés -> Konyhaeszközök -> Konyhakések
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/7bf4a125-abe4-4a2a-9b51-0f837b0d697c.png?v=1756802600
-  Price: 119,96 lei RON
+  Price: 120,13 lei RON
 - [Women's Perfume Ruf 50 ml](https://bazata.store/products/womens-perfume-ruf-50-ml): Let the 100% original Women's Perfume Ruf 50 ml surprise you and boost your femininity using this exclusive women's perfume with a unique, personal scent. Discover the 100% original Ruf products! Gender: Lady Capacity: 50 ml Inspired by Love, Taboo Frivole is a delicate Eau de Toilette invites you to experience unlimited romance. Created by French perfumers Taboo Frivole is a balanced mix between the sweetness and sensuality of its floral notes and the eroticism of its woody and amber notes. This fragrance reveals your femininity for a frivolous day. Fragrances: fresh - floral - wood Eau de Toilette for Women 50 ml Top notes: lemon / blackcurrant / mandarin Heart notes: lily of the valley / jasmine / rose / freesia / peach / apple Base notes: sandalwood / cedar / amber / white musk Ingredients: Alcohol, Aqua (water), Parfum (fragrance), Limonene, Cinnamal, Linalool, Citral, Benzyl benzoate, Eugenol, Citronellol, Isoeugenol, Benzyl Salicylate, Farnesol, Geraniol, Cinnamyl Alcohol. Important information: We guarantee complete discretion and confidentiality in our shipping. No-one but yourself will know what the package contains.. Important information: The packaging of the product may vary in its design, depending on the manufacturer's advertising promotions or the time of year. The different packaging is kept until the stock runs out..
   Updated: 2025-09-13T11:20:54Z
   Vendor: Ruf
@@ -327,7 +327,7 @@
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/8436616353551_S05145781_P00.jpg?v=1757159979
   Price: 30,36 lei RON
 - [Pudră de curățare a dinților cu vitamine & Aloe Vera](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused): Îmbunătățește-ți zâmbetul cu pudra de curățare din 100% ingrediente naturale! Reduce petele și îngrijește gingiile.
-  Updated: 2025-09-13T11:20:51Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: LiveCoco
   Product Type: n/a
   Availability: Available
@@ -335,27 +335,27 @@
   - [1 tin = 50 uses / None](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused?variant=55590781976900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/mainimagezoomedcharcoal.jpg?v=1757160863
-    Price: 46,88 lei RON
+    Price: 46,79 lei RON
   - [1 tin = 50 uses / with Compostable Bristles (Medium -3 pack)](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused?variant=55590782009668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/bundle_04dae029-b44d-4977-b2e9-4efb2a9e33b0.jpg?v=1757160863
-    Price: 88,77 lei RON
+    Price: 88,67 lei RON
   - [1 tin = 50 uses / with Nano Bristles (Soft - 3 pack)](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused?variant=55590782042436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/bundle2.jpg?v=1757160861
-    Price: 88,77 lei RON
+    Price: 88,67 lei RON
   - [3 tins = 150 uses / None](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused?variant=55590782075204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/mainimagezoomedcharcoal.jpg?v=1757160863
-    Price: 109,76 lei RON
+    Price: 109,57 lei RON
   - [3 tins = 150 uses / with Compostable Bristles (Medium -3 pack)](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused?variant=55590782107972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/bundle_04dae029-b44d-4977-b2e9-4efb2a9e33b0.jpg?v=1757160863
-    Price: 151,64 lei RON
+    Price: 151,40 lei RON
   - [3 tins = 150 uses / with Nano Bristles (Soft - 3 pack)](https://bazata.store/products/teeth-cleaning-powder-vitamins-aloe-vera-infused?variant=55590782140740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/bundle2.jpg?v=1757160861
-    Price: 151,64 lei RON
+    Price: 151,40 lei RON
 - [Detergent lichid Wipp Express – Curățare profundă](https://bazata.store/products/liquid-detergent-wipp-express): Cumpără detergent lichid Wipp Express pentru o curățare profundă. Prețuri excelente, dar ai grijă la utilizare!
   Updated: 2025-09-13T11:20:43Z
   Vendor: Wipp Express
@@ -364,26 +364,26 @@
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/8410436445719_S7921717_P00.jpg?v=1757161017
   Price: 84,74 lei RON
 - [Detergent lichid Coccolino Care White, 1.8L - 45 spalari](https://bazata.store/products/detergent-lichid-coccolino-care-white-45-spalari-18l-8720181019449): Cumpără detergent lichid Coccolino Care White, 1.8L pentru 45 de spălări. Răsfățați-vă rufele cu prospețimea și calitatea premium!
-  Updated: 2025-09-13T11:20:51Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: Coccolino
   Product Type: Otthon és kert -> Háztartási kellékek -> Mosókonyhai kellékanyagok -> Mosószer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/00e96cce-f1ba-4e86-a06f-e3badde0af03.png?v=1757161029
-  Price: 50,42 lei RON
+  Price: 50,47 lei RON
 - [Detergent rufe Woolite 3.6 L - Curățare eficientă](https://bazata.store/products/detergent-rufe-woolite-36-l-5900627090529): Descoperă detergentul rufe Woolite 3.6 L, ideal pentru o curățare delicată și eficientă a țesăturilor tale.
-  Updated: 2025-09-13T11:20:43Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: Woolite
   Product Type: Otthon és kert -> Háztartási kellékek -> Mosókonyhai kellékanyagok -> Mosószer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/62ec5ffa-5647-42fc-a1d7-8224e91b1dd0.png?v=1757161656
-  Price: 62,90 lei RON
+  Price: 63,12 lei RON
 - [2-in-1 Women's Electric Shaver Wet & Dry Epilator](https://bazata.store/products/2-in-1-womens-electric-shaver-wet-dry-epilator): Obține o razuire netedă și delicată oriunde. Dispozitiv 2-in-1, portabil și reîncărcabil.
-  Updated: 2025-09-13T11:20:40Z
+  Updated: 2025-09-14T10:40:23Z
   Vendor: TM
   Product Type: Health & Beauty > Shaving & Hair Removal > Shaving & Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/6048/5700/files/f930dcc2-11fd-46b2-a9e1-44dbcb701aba.jpg?v=1757180750
-  Price: 267,72 lei RON
+  Price: 265,62 lei RON
 
 ## Collections
 
