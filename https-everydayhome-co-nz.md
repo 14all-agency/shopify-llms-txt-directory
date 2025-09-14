@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-13T20:00:35.067Z
+- Updated At: 2025-09-14T00:00:35.295Z
 
 ## Products
 
@@ -507,13 +507,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Bread-Board-Oiled-Walnut-0.png?v=1727659358
   Price: $89.99 NZD
-- [Food Stand Medium - White](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-medium-white): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
-  Updated: 2025-09-02T23:53:25Z
-  Vendor: DUTCH DELUXES
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Food-Stand-Medium-White-9.jpg?v=1727659706
-  Price: $29.99 NZD
 - [Food Stand Medium - Platinum](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-medium-platinum): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
   Updated: 2025-09-02T23:53:25Z
   Vendor: DUTCH DELUXES
@@ -1439,7 +1432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Dish-Drying-Rack-Dark-Grey-2.png?v=1727658709
   Price: $119.99 NZD
 - [Brabantia SinkSide Dish Drying Rack - Light Grey](https://everydayhome.co.nz/products/dish-drying-rack-light-grey): This Brabantia SinkSide Dish Drying Rack is designed for keeping your dripping dishes. It has a sleek design, but space for up to 13 plates plus bowls, cutlery and glasses. It has a removable cutlery basket and a sloping drip tray too, so drippings run directly into the sink. This rack is on track!
-  Updated: 2025-09-11T02:18:52Z
+  Updated: 2025-09-13T22:59:01Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2951,14 +2944,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-13T04:22:10Z
+  Updated: 2025-09-13T23:52:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $244.99 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-08T23:15:33Z
+  Updated: 2025-09-13T22:22:16Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3007,7 +3000,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Topspinner60m_GroundSpike-MetallicGrey-8710755310867Brabantia_96dpi_1000x1000px_7_NR-28672.png?v=1734572963
   Price: $209.99 NZD
 - [Brabantia HangOn Drying Rack with Rod - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-with-rod-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! Thanks to the rocking rod, and 25 metres of flexible drying space, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. XXL drying in size and benefits!
-  Updated: 2025-09-12T01:26:10Z
+  Updated: 2025-09-13T21:58:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3077,7 +3070,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CoffeeCapsuleDispenser-MattSteel-8710755418709Brabantia_96dpi_1000x1000px_7_NR-4765.png?v=1733864323
   Price: $82.99 NZD
 - [Brabantia Hanging Drying Rack - 4.5M Metallic Grey](https://everydayhome.co.nz/products/hanging-drying-rack-4-5m-metallic-grey): Want to dry a lil' laundry? Or just looking for a solution for drying your knitwear? This Brabantia Hanging Drying Rack has 4.5 metres of drying space, is easy to set up and fits thin doors, 11 cm thick walls and anything in-between. And drying naturally is better for the planet too. You’ll be hooked in no time!
-  Updated: 2025-09-08T23:09:56Z
+  Updated: 2025-09-13T21:58:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3315,7 +3308,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-DarkGrey-8710755202520Brabantia_96dpi_1000x1000px_7_NR-27884.png?v=1734401760
   Price: $9.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-13T00:46:20Z
+  Updated: 2025-09-13T22:59:01Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3546,7 +3539,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x15L-DarkGrey-8710755232503Brabantia_96dpi_1000x1000px_7_NR-34729.png?v=1734560867
   Price: $224.99 NZD
 - [Brabantia Sort & Go Built in Bin - 2 x 30L Dark Grey & Jade Green](https://everydayhome.co.nz/products/sort-go-built-in-bin-2-x-30l-dark-grey-jade-green): Double your waste-separating power, without losing any floor space with the Brabantia Sort & Go Built-in Bin 2 x 30 litre. Made to hide in the cupboard, with an easy to install mounting frame (self-supporting, so no sagging doors!). These discreet bins fit in most kitchen cupboards, whether the doors open to the left or right. They even have storage space on top and hooks on the side for extra organising. With a long telescopic rail, so you can single-handedly pull them out all the way. And of course they are easy to clean, take out and empty too. A great set.
-  Updated: 2025-09-08T23:10:20Z
+  Updated: 2025-09-13T20:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
