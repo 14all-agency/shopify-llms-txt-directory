@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-14T12:00:30.437Z
+- Updated At: 2025-09-14T20:00:29.730Z
 
 ## Products
 
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1755138972
     Price: $2,142.00 USD
 - [OUPES Mega 5 Series 5040Wh 4000W Portable Home Backup Power Station](https://oupes.com/products/oupes-mega-5-portable-power-station): OUPES Mega 5 Series: a powerful 4000W portable power station with 5040Wh capacity. Stay prepared with this reliable home backup power solution!
-  Updated: 2025-09-14T07:41:11Z
+  Updated: 2025-09-14T18:05:22Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1741944152
   Price: $1,400.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-09-14T11:41:38Z
+  Updated: 2025-09-14T19:35:49Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $2,099.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-09-14T10:10:20Z
+  Updated: 2025-09-14T19:53:47Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -353,7 +353,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-b2-extra-battery-2240w-solar-panel-solar-generator-kit-637987.jpg?v=1741944292
   Price: $1,599.00 USD
 - [20ft 12AWG Solar Panel Extension Cables - OUPES](https://oupes.com/products/solar-panel-female-and-male-connectors): Extend your solar setup with OUPES 20ft 12AWG Solar Panel Extension Cables. Durable and efficient, this extension cord for solar panels ensures reliable power flow in any setup.
-  Updated: 2025-09-14T10:16:41Z
+  Updated: 2025-09-14T17:50:09Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -574,7 +574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-1200-portable-power-station-1200w-992wh-169250.jpg?v=1755139004
     Price: $799.00 USD
 - [Best Portable Power Station 1500W 1488Wh | OUPES Exodus 1500](https://oupes.com/products/oupes-exodus-1500-portable-power-station-1500w-1488wh): Best 1500W portable power station with OUPES. 0-80% in 2 hrs with AC charging. Solar-ready for camping/home/outages. Premium after-sales service included.
-  Updated: 2025-09-14T05:40:47Z
+  Updated: 2025-09-14T13:44:06Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -790,7 +790,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1755138972
   Price: $2,142.00 USD
 - [OUPES Emergency Bag](https://oupes.com/products/oupes-emergency-bag)
-  Updated: 2025-09-12T02:13:46Z
+  Updated: 2025-09-14T15:08:50Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -1052,14 +1052,14 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/hand-truck-sturdy-roll-cart-387570_91b94205-c93e-405b-876e-3f83b67f79d4.jpg?v=1757055306
   Price: $0.00 USD
 - [🎁 Storage Shelves with Casters (100% off)](https://oupes.com/products/storage-sheleves-with-casters-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
-  Updated: 2025-09-14T07:02:03Z
+  Updated: 2025-09-14T19:02:21Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/storage-shelves-with-casters-466844_fb0a8910-7772-4b74-a31b-64c11e7b0969.jpg?v=1757833321
   Price: $0.00 USD
 - [🎁 OUPES Portable Folding Camping Chair (100% off)](https://oupes.com/products/portable-folding-camping-chair-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
-  Updated: 2025-09-14T07:04:26Z
+  Updated: 2025-09-14T19:05:18Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
