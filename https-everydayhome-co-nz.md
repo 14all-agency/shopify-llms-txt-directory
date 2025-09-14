@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-14T04:00:34.948Z
+- Updated At: 2025-09-14T12:00:37.575Z
 
 ## Products
 
@@ -991,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Black-9.jpg?v=1727660014
   Price: $46.99 NZD
 - [Sticks Multi Hook - Espresso](https://everydayhome.co.nz/products/sticks-multi-hook-espresso): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-08T23:13:37Z
+  Updated: 2025-09-14T08:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1369,7 +1369,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Laundry-Bin-60L-White-W-Dark-Grey-Lid-0_42cb1e3c-a471-4afe-8692-6fb959c52c2d.png?v=1730849808
   Price: $194.99 NZD
 - [Brabantia New Touch Bin - 40L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/touch-bin-new-40l-matt-steel-fingerprint-proof): Add a touch of design to your home with the Brabantia Touch Bin 40 litre. A great, yet space efficient, organising help that looks the part too. Just touch the lid and it opens smoothly. It also has a timeless design, is easy to clean, and it protects your floor thanks to the protection rim. This touch bin is ready for years of intensive, problem free use!
-  Updated: 2025-09-08T23:10:19Z
+  Updated: 2025-09-14T05:52:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1460,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Pepper-Black-0.png?v=1727659263
   Price: $83.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Grey](https://everydayhome.co.nz/products/foldable-steaming-board-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-09-08T23:09:55Z
+  Updated: 2025-09-14T07:37:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1481,7 +1481,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Steam-Clothes-Hanger-Pepper-Black-5.png?v=1727659005
   Price: $27.99 NZD
 - [Brabantia Refresh Steam Clothes Hanger - Grey](https://everydayhome.co.nz/products/steam-clothes-hanger-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Steam Hanger. Made for use with hand steamers, it makes steaming easier and quicker. Especially those difficult parts like the collar and shoulders! A hot item for easy-peasy steaming.
-  Updated: 2025-09-14T01:37:10Z
+  Updated: 2025-09-14T07:37:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2790,7 +2790,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Dishrack-Drying-Mat-Charcoal-UMBRA-0.jpg?v=1731903043
   Price: $33.99 NZD
 - [Udry Drying Rack & Drying Mat - Black](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-black): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-09-08T23:09:37Z
+  Updated: 2025-09-14T09:35:01Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2937,14 +2937,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-14T03:22:10Z
+  Updated: 2025-09-14T06:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $244.99 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-13T22:22:16Z
+  Updated: 2025-09-14T08:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3063,7 +3063,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CoffeeCapsuleDispenser-MattSteel-8710755418709Brabantia_96dpi_1000x1000px_7_NR-4765.png?v=1733864323
   Price: $82.99 NZD
 - [Brabantia Hanging Drying Rack - 4.5M Metallic Grey](https://everydayhome.co.nz/products/hanging-drying-rack-4-5m-metallic-grey): Want to dry a lil' laundry? Or just looking for a solution for drying your knitwear? This Brabantia Hanging Drying Rack has 4.5 metres of drying space, is easy to set up and fits thin doors, 11 cm thick walls and anything in-between. And drying naturally is better for the planet too. You’ll be hooked in no time!
-  Updated: 2025-09-13T21:58:05Z
+  Updated: 2025-09-14T09:35:00Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3238,7 +3238,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/LinnClothesRack_Compact-White-8710755229862Brabantia_96dpi_1000x1000px_7_NR-35360.png?v=1734391354
   Price: $159.99 NZD
 - [Brabantia Linn Dressboy - Black](https://everydayhome.co.nz/products/linn-dressboy-black): Hang your outfit for tomorrow or air out the clothes you wore today on the Brabantia Linn Dressboy. This smart looking rack has three bars to hang your clothes over, a shoulder-like top section for your jacket or blouse and a handy hook for clothes hangers. The Linn Dressboy also looks stylish leaning against the wall, unloaded. Space-saving, stylish and ideal for your hallway, bathroom or bedroom. Boy oh boy, what a Dressboy!
-  Updated: 2025-09-08T23:09:44Z
+  Updated: 2025-09-14T07:37:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3266,7 +3266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-LightGrey-8710755203503Brabantia_96dpi_1000x1000px_7_NR-27957.png?v=1734400571
   Price: $17.99 NZD
 - [Brabantia Linn Dressboy - White](https://everydayhome.co.nz/products/linn-dressboy-white): Hang your outfit for tomorrow or air out the clothes you wore today on the Brabantia Linn Dressboy. This smart looking rack has three bars to hang your clothes over, a shoulder-like top section for your jacket or blouse and a handy hook for clothes hangers. The Linn Dressboy also looks stylish leaning against the wall, unloaded. Space-saving, stylish and ideal for your hallway, bathroom or bedroom. Boy oh boy, what a Dressboy!
-  Updated: 2025-09-08T23:09:45Z
+  Updated: 2025-09-14T05:07:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -5263,22 +5263,22 @@
   Updated: 2025-09-08T23:12:27Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-08T23:12:16Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-09-08T23:15:06Z
@@ -5287,7 +5287,7 @@
   Updated: 2024-09-06T00:59:15Z
   Total Products: 0
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 55
 - [Shelves](https://everydayhome.co.nz/collections/shelves)
   Updated: 2024-09-06T00:59:12Z
@@ -5326,13 +5326,13 @@
   Updated: 2025-09-08T23:12:24Z
   Total Products: 7
 - [Dutch Deluxes](https://everydayhome.co.nz/collections/dutch-deluxe)
-  Updated: 2025-09-11T11:08:02Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 27
 - [Natural Home Fragrance & Body Care | The Aromatherapy Co](https://everydayhome.co.nz/collections/the-aromatherapy-co): Discover The Aromatherapy Co.’s range of natural home fragrance and body care products. Designed in New Zealand, these products combine essential oils and premium ingredients to enhance your well-being and create a relaxing atmosphere in your home. Shop candles, diffusers, and skincare collections today.
   Updated: 2025-09-12T11:07:31Z
   Total Products: 89
 - [Serveware](https://everydayhome.co.nz/collections/serveware)
-  Updated: 2025-09-11T11:08:02Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 21
 - [Home Fragrances and Candels](https://everydayhome.co.nz/collections/home-fragrances-and-candels)
   Updated: 2025-02-12T22:26:29Z
@@ -5371,7 +5371,7 @@
   Updated: 2025-09-05T03:41:44Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-09-13T11:06:40Z
@@ -5383,7 +5383,7 @@
   Updated: 2025-09-13T11:06:40Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
-  Updated: 2025-09-12T11:07:31Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
   Updated: 2025-09-13T11:06:40Z
@@ -5407,7 +5407,7 @@
   Updated: 2025-09-08T23:15:07Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
-  Updated: 2025-09-12T11:07:31Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 90
 - [Laundry Bins & Hampers](https://everydayhome.co.nz/collections/laundry-bins-hampers)
   Updated: 2025-09-08T23:13:51Z
@@ -5446,7 +5446,7 @@
   Updated: 2025-09-09T11:08:25Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
   Updated: 2025-09-13T11:06:40Z
@@ -5476,7 +5476,7 @@
   Updated: 2025-09-08T23:14:11Z
   Total Products: 9
 - [Clothes Airers](https://everydayhome.co.nz/collections/clothes-airers)
-  Updated: 2025-09-12T11:07:31Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 41
 - [Ironing Boards](https://everydayhome.co.nz/collections/ironing-boards)
   Updated: 2025-09-08T23:15:36Z
@@ -5524,16 +5524,16 @@
   Updated: 2025-09-08T23:13:07Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 1038
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
   Updated: 2025-09-13T11:06:40Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
-  Updated: 2025-09-12T11:07:31Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
   Updated: 2025-09-13T11:06:40Z
@@ -5572,7 +5572,7 @@
   Updated: 2025-09-08T23:16:51Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 152
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
   Updated: 2025-09-08T23:17:30Z
@@ -5611,7 +5611,7 @@
   Updated: 2025-09-08T23:16:10Z
   Total Products: 54
 - [On The Go](https://everydayhome.co.nz/collections/on-the-go)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
   Updated: 2025-09-10T11:08:07Z
@@ -5620,19 +5620,19 @@
   Updated: 2025-09-08T22:42:45Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-09-08T23:17:30Z
   Total Products: 28
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
-  Updated: 2025-09-09T11:08:25Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
   Updated: 2025-09-09T01:56:44Z
   Total Products: 57
 - [Clothes Airers & Retractable Lines](https://everydayhome.co.nz/collections/clothes-airers-retractable-lines): Your solutions to indoor drying this winter.
-  Updated: 2025-09-12T11:07:31Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 17
 - [Kitchen Sink Accessories](https://everydayhome.co.nz/collections/kitchen-sink-accessories)
   Updated: 2025-09-10T11:08:07Z
@@ -5644,7 +5644,7 @@
   Updated: 2025-09-13T11:06:40Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-14T11:07:38Z
   Total Products: 245
 
 ## Store Pages
