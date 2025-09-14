@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-14T00:00:31.356Z
+- Updated At: 2025-09-14T04:00:32.674Z
 
 ## Products
 
@@ -3211,7 +3211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VAILS-WHITE.jpg?v=1757517637
     Price: $1.00 USD
 - [Gate Brocade Velvet Fabric, 72 Inch Width](https://fabricsstar.com/products/gate-brocade-velvet-fabric-72-inch-in-width-ideal-embossed-material-for-home-decor): Discover premium Gate Brocade Velvet Fabric, 72 inches wide. Perfect for home decor, sold by the yard, and customizable to fit your needs.
-  Updated: 2025-09-12T14:30:23Z
+  Updated: 2025-09-14T02:00:22Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9663,6 +9663,9 @@
 - [News](https://fabricsstar.com/blogs/news)
   - [Top Five Fabric Trends Taking the Fashion Industry by Storm](https://fabricsstar.com/blogs/news/top-five-fabric-trends-taking-the-fashion-industry-by-storm): Top Five Fabric Trends Taking the Fashion Industry by Storm
     Updated: 2025-09-10T21:07:02Z
+    Author: User
+  - [The Best Fabrics for Every Room in Your Home](https://fabricsstar.com/blogs/news/the-best-fabrics-for-every-room-in-your-home): The Best Fabrics for Every Room in Your Home
+    Updated: 2025-09-14T00:09:47Z
     Author: User
 
 ## Store Pages
