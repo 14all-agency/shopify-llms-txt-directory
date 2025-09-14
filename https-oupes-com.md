@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-13T16:00:29.773Z
+- Updated At: 2025-09-14T00:00:29.137Z
 
 ## Products
 
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1755138972
     Price: $2,142.00 USD
 - [OUPES Mega 5 Series 5040Wh 4000W Portable Home Backup Power Station](https://oupes.com/products/oupes-mega-5-portable-power-station): OUPES Mega 5 Series: a powerful 4000W portable power station with 5040Wh capacity. Stay prepared with this reliable home backup power solution!
-  Updated: 2025-09-13T15:12:46Z
+  Updated: 2025-09-13T23:23:46Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1741944152
   Price: $1,400.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-09-13T15:12:06Z
+  Updated: 2025-09-13T20:56:31Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -193,14 +193,14 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh-215343.jpg?v=1741944216
     Price: $1,719.00 USD
 - [OUPES 4ft Charging Cable Adapter](https://oupes.com/products/oupes-4ft-charging-cable-adapter): A specific charging cable for Mega/Titan series power stations.
-  Updated: 2025-09-09T05:56:17Z
+  Updated: 2025-09-13T22:17:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-4ft-charging-cable-adapter-958823.png?v=1741944217
   Price: $19.00 USD
 - [B2/B5 Battery connection cable](https://oupes.com/products/b2-b5-battery-connection-cable): Used to connect B2 or B5 batteries to the Mega/Titan series power station.
-  Updated: 2025-09-12T23:03:42Z
+  Updated: 2025-09-13T18:26:16Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -292,7 +292,7 @@
     Availability: Available
     Price: $3,998.00 USD
 - [OUPES Exodus 256Wh 600W Portable Power Station](https://oupes.com/products/exodus-600-exodus-600-plus): Empower Your Adventures with the Exodus 600 Series Portable Power Station! The OUPES 600W portable power station features a 256Wh capacity and 600W output, offering lightweight, reliable, and versatile energy for all your outdoor activities.
-  Updated: 2025-09-12T10:00:21Z
+  Updated: 2025-09-13T19:35:42Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -353,7 +353,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-b2-extra-battery-2240w-solar-panel-solar-generator-kit-637987.jpg?v=1741944292
   Price: $1,719.00 USD
 - [20ft 12AWG Solar Panel Extension Cables - OUPES](https://oupes.com/products/solar-panel-female-and-male-connectors): Extend your solar setup with OUPES 20ft 12AWG Solar Panel Extension Cables. Durable and efficient, this extension cord for solar panels ensures reliable power flow in any setup.
-  Updated: 2025-09-09T18:09:03Z
+  Updated: 2025-09-13T18:26:20Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -556,7 +556,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/exodus-600-240w-solar-panel-solar-generator-kit-861784.webp?v=1741944447
   Price: $319.00 USD
 - [1200W Portable Solar Power Station - OUPES Exodus 1200](https://oupes.com/products/exodus-1200): The OUPES Exodus 1200 delivers 1200W output and 992Wh capacity – perfect for off-grid living, outdoor adventures, and emergencies. Compact, quiet, and solar-compatible.
-  Updated: 2025-09-09T09:52:04Z
+  Updated: 2025-09-13T22:53:52Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -596,7 +596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Exodus1500PortablePowerStation_240WSolarPanel2.jpg?v=1755138918
     Price: $1,389.00 USD
 - [OUPES Solar Panel Connector MC4 to DC7909 Male Adapter Cable](https://oupes.com/products/oupes-solar-panel-connector-mc4-to-dc7909-male-adapter-cable): Adapter cable for connecting solar panels with MC4 connectors to power stations with a 7909 input port. Or for DIY setups.
-  Updated: 2025-09-03T06:04:26Z
+  Updated: 2025-09-13T22:08:21Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
