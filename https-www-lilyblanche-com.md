@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-14T04:00:39.524Z
+- Updated At: 2025-09-14T08:00:41.643Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -17511,7 +17511,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/ivory_pearl_on_gold_paperclip_chain_2_1080_0f620459-b075-4794-bd8c-47a031351a77.jpg?v=1741872397
     Price: £215.00 GBP
 - [Diamond Initial Necklace | Solid Gold | A to Z](https://www.lilyblanche.com/products/diamond-initial-necklace-solid-9-carat-gold-charm-a-to-z): Make a sparkling initial impression with our diamond and solid gold Initial Necklaces. Featuring up to 19 white diamonds, these diamond initial pendants make luxurious personalised gifts.  Shop now and receive a free jewellery care kit with all orders.
-  Updated: 2025-09-13T18:50:22Z
+  Updated: 2025-09-14T06:46:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22894,7 +22894,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-13T19:21:11Z
+  Updated: 2025-09-14T07:58:06Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22930,7 +22930,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/heavy-gold-cross-necklace): Expertly crafted heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-12T19:48:20Z
+  Updated: 2025-09-14T07:11:55Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23165,7 +23165,7 @@ From £150
     Availability: Available
     Price: £215.00 GBP
 - [Handcrafted 9 Carat Solid Gold Belcher Chain | UK Investment Jewellery |](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted): 9 carat solid gold belcher chain, UK hallmarked. Timeless investment piece perfect for layering or wearing alone. Durable, elegant & versatile. Free UK delivery.
-  Updated: 2025-09-13T18:51:01Z
+  Updated: 2025-09-14T04:48:20Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -23432,7 +23432,7 @@ From £129
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/white_gold_initial_necklace_Q.webp?v=1755082435
     Price: £135.00 GBP
 - [Solid 9 Carat White Gold Belcher Chain | Handcrafted UK](https://www.lilyblanche.com/products/belcher-chain-solid-white-gold): Handcrafted solid 9 carat white gold belcher chain by UK master goldsmiths with 50 years experience. Modern, durable & sophisticated. Free UK delivery.
-  Updated: 2025-09-13T18:50:51Z
+  Updated: 2025-09-14T06:33:33Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
