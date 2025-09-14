@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-13T20:00:27.809Z
+- Updated At: 2025-09-14T20:00:28.476Z
 
 ## Products
 
@@ -390,7 +390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/0ef58e957d9fe9f0ad4877de6776dc56.jpg?v=1751481293
     Price: €23.48 EUR
 - [Elegant Popular Straight Leg High Waist Jumpsuit – Winter](https://lenoirandcollective.com/products/elegant-popular-straight-leg-high-waist-jumpsuit-autumn-winter-office-lady-jumpsuit-long-sleeve-for-wedding): Elegant Popular Straight Leg High Waist Jumpsuit perfect for autumn and winter office wear or weddings. Features long sleeves and a flattering fit
-  Updated: 2025-09-07T11:21:43Z
+  Updated: 2025-09-14T19:04:03Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -432,13 +432,13 @@
     Availability: Available
     Price: €32.45 EUR
 - [Turtleneck Sweater Women Fashion – 2024 New Stretch Knitted](https://lenoirandcollective.com/products/turtleneck-sweater-women-fashion-2024-new-stretch-tops-women-knitted-pullovers-long-sleeve-bottoming-knitted-sweater): Turtleneck Sweater Women Fashion offers 2024’s latest stretch knitted pullovers. Long sleeve and bottoming sweater perfect for layering and winter warmth
-  Updated: 2025-09-12T03:37:12Z
+  Updated: 2025-09-14T17:10:08Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
   Price: €31.80 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-13T03:21:04Z
+  Updated: 2025-09-14T19:04:04Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
