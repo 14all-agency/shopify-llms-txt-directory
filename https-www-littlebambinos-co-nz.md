@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-13T20:00:43.371Z
+- Updated At: 2025-09-14T00:00:45.028Z
 
 ## Products
 
@@ -3011,24 +3011,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-bambini-dinosauria?variant=39827691864158)
     Availability: Not Available
     Price: $32.00 NZD
-- [ZULU & ZEPHYR One Piece - Cocoa Flower](https://www.littlebambinos.co.nz/products/zulu-zephyr-one-piece-cocoa-flower): Girls rib bikini. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-08-06T22:46:32Z
-  Vendor: Zulu & Zephyr
-  Product Type: swimsuit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ZZ4015_1_1920x_1.jpg?v=1752023975
-  - [6](https://www.littlebambinos.co.nz/products/zulu-zephyr-one-piece-cocoa-flower?variant=39831534174302)
-    Availability: Available
-    Price: $59.00 NZD
-  - [8](https://www.littlebambinos.co.nz/products/zulu-zephyr-one-piece-cocoa-flower?variant=39831534207070)
-    Availability: Not Available
-    Price: $59.00 NZD
-  - [10](https://www.littlebambinos.co.nz/products/zulu-zephyr-one-piece-cocoa-flower?variant=39831534239838)
-    Availability: Not Available
-    Price: $59.00 NZD
-  - [12](https://www.littlebambinos.co.nz/products/zulu-zephyr-one-piece-cocoa-flower?variant=39831546593374)
-    Availability: Not Available
-    Price: $59.00 NZD
 - [ZULU & ZEPHYR Bikini Top - Cocoa Flower](https://www.littlebambinos.co.nz/products/zulu-zephyr-bikini-top-cocoa-flower): Girls rib bikini. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
   Updated: 2025-08-06T22:46:32Z
   Vendor: Zulu & Zephyr
@@ -6818,7 +6800,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $32.00 NZD
 - [GROWN Wiggle Bike Shorts - Mud](https://www.littlebambinos.co.nz/products/grown-wiggle-bike-shorts-mud): 100% Organic Cotton Jacquard Bike Shorts made from GOTS certified organic cotton 'Wave' Jacquard pattern along the sides and hem edge Elasticated waistband Model wears size 3. Please refer to our flat layÂ image for the best colour representation, styled images may have filters.
-  Updated: 2025-08-06T22:48:23Z
+  Updated: 2025-09-13T21:34:02Z
   Vendor: Grown
   Product Type: Bottoms
   Availability: Available
@@ -6827,7 +6809,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $29.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/grown-wiggle-bike-shorts-mud?variant=40207934652510)
-    Availability: Available
+    Availability: Not Available
     Price: $29.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-wiggle-bike-shorts-mud?variant=40207934685278)
     Availability: Not Available
@@ -7116,7 +7098,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:39Z
+  Updated: 2025-09-13T20:58:41Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10028,27 +10010,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-etoile?variant=41129579151454)
     Availability: Available
     Price: $99.00 NZD
-- [KONGES SLOJD Lou Sweat Shirt OCS - Kalamata](https://www.littlebambinos.co.nz/products/konges-slojd-lou-sweat-shirt-ocs-kalamata): A super cute dress perfect for a warm summer day. Made in 100% organic cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-08-06T22:49:11Z
-  Vendor: Konges slojd
-  Product Type: Sweatshirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101568-s20016_1_41d3417d-4337-45c5-8a9f-c61a3c09bcc2.jpg?v=1725856169
-  - [18m](https://www.littlebambinos.co.nz/products/konges-slojd-lou-sweat-shirt-ocs-kalamata?variant=41129619521630)
-    Availability: Not Available
-    Price: $69.00 NZD
-  - [2y](https://www.littlebambinos.co.nz/products/konges-slojd-lou-sweat-shirt-ocs-kalamata?variant=41129619554398)
-    Availability: Not Available
-    Price: $69.00 NZD
-  - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-lou-sweat-shirt-ocs-kalamata?variant=41129619587166)
-    Availability: Not Available
-    Price: $69.00 NZD
-  - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-lou-sweat-shirt-ocs-kalamata?variant=41129619619934)
-    Availability: Not Available
-    Price: $69.00 NZD
-  - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-lou-sweat-shirt-ocs-kalamata?variant=41129619652702)
-    Availability: Available
-    Price: $69.00 NZD
 - [KONGES SLOJD Lunch Box - Safari/Elephantastic](https://www.littlebambinos.co.nz/products/konges-slojd-lunch-box-safari-elephantastic): Lunch box with playful illustrations. Made of 100% polypropylene (PP) and inside box lid made of 100% silicone. DETAILS Dishwasher safe. Not recommended for microwave. No heating or food contact over 70°C. H: 8 cm x W: 12.6 cm x L: 16.6 cm. 100% polypropylene (PP), LID: 100% silicone Tested and complies with the EU regulations regarding food contact 10/2011 and 1935/2004 and the German LFGB §30 and 31. Ages: 3 yr +. WARNING: Choking hazard - small parts. Not suitable for children under 36 months.
   Updated: 2025-08-10T10:32:01Z
   Vendor: Konges slojd
@@ -11101,7 +11062,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-09-10T22:36:40Z
+  Updated: 2025-09-13T23:42:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -12321,7 +12282,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $73.00 NZD
 - [GROWN Everyday Pants - Paint](https://www.littlebambinos.co.nz/products/grown-everyday-pants-paint): 100% CottonCool gentle machine wash Fit is true to size. Refer to size chart for garment measurement. Studio Model is aged 4 and wearing a size 4.
-  Updated: 2025-09-11T09:16:21Z
+  Updated: 2025-09-13T21:40:31Z
   Vendor: Grown
   Product Type: Pants
   Availability: Available
@@ -12339,19 +12300,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $62.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/grown-everyday-pants-paint?variant=41416558084190)
-    Availability: Available
+    Availability: Not Available
     Price: $62.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/grown-everyday-pants-paint?variant=41416558116958)
     Availability: Available
     Price: $62.00 NZD
 - [GROWN Quilted Reversible Vest - Denim & Paint](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint): Main: 100% Organic Cotton DenimWadding: 100% Recycled Polyester Lining: 100% CottonCool gentle machine wash Fit is true to size, refer to size chart for garment measurements. Studio model is aged 4 and wearing a size 4.
-  Updated: 2025-08-24T22:32:12Z
+  Updated: 2025-09-13T21:34:05Z
   Vendor: Grown
   Product Type: Vest
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GI25011_Front_1728x_bd62f1c4-e13f-47c7-ae51-526aa864341a.webp?v=1754868685
   - [12-18m](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint?variant=41416558313566)
-    Availability: Available
+    Availability: Not Available
     Price: $78.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint?variant=41416558346334)
     Availability: Available
@@ -12928,7 +12889,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $61.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-herb): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-08-06T22:36:56Z
+  Updated: 2025-09-13T21:34:03Z
   Vendor: Grown
   Product Type: Sweater
   Availability: Available
@@ -12937,7 +12898,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $75.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-herb?variant=41450700636254)
-    Availability: Available
+    Availability: Not Available
     Price: $75.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-herb?variant=41450700669022)
     Availability: Not Available
@@ -13529,21 +13490,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-kimono-cardigan-cinnamon-stripe?variant=41647377940574)
     Availability: Available
     Price: $60.35 NZD
-- [WILSON & FRENCHY Organic Rib Long Sleeved Bodysuit - Cloud](https://www.littlebambinos.co.nz/products/wilson-frenchy-cloud-organic-rib-long-sleeved-bodysuit-cloud): This adorable bodysuit is made from soft 2x2 rib fabric, with a hint of elastane for long-lasting wear. Its cute embroidery adds a touch of charm. Perfect for layering, this practical everyday item keeps little backs and chests warm and won't ride up, the snap crotch makes nappy changes a breeze. DETAILS Long sleeved, snug fitting, snap crotch for easy nappy changes, made with GOTS certified organic cotton, Australian owned and designed, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-08-24T04:09:26Z
-  Vendor: Wilson & Frenchy
-  Product Type: Bodysuit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFW2574-03_1_8c9cb2a4-164a-4a43-8fb9-08e9e07d43dd.jpg?v=1746158380
-  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cloud-organic-rib-long-sleeved-bodysuit-cloud?variant=41647384821854)
-    Availability: Not Available
-    Price: $34.85 NZD
-  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cloud-organic-rib-long-sleeved-bodysuit-cloud?variant=41647384854622)
-    Availability: Available
-    Price: $34.85 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cloud-organic-rib-long-sleeved-bodysuit-cloud?variant=41647384887390)
-    Availability: Not Available
-    Price: $34.85 NZD
 - [WILSON & FRENCHY Organic Knitted Bear Hat - Cookie and Cream](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-bear-hat-cookie-and-cream): This knitted hat with bear ears is the cutest way to keep little heads warm this winter. Made from organic cotton, bamboo, and wool, it features a soft turn up ribbed cuff for added warmth and comfort. A playful addition to any winter outfit. DETAILS Cute bear ears, soft ribbed turn up, gentle on baby's delicate skin, packaged in a bio-degradable bag. Made in India.
   Updated: 2025-07-23T22:11:07Z
   Vendor: Wilson & Frenchy
@@ -13833,7 +13779,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $64.60 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Legging - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute): Wrap your baby in snuggly comfort with our knitted leggings. Made from a blend of organic cotton, bamboo, and wool, they'll keep your little one warm while being gentle on their tummy with a soft elastic waistband. The playful all over jacquard design adds a touch of charm. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-07-23T22:11:10Z
+  Updated: 2025-09-13T21:40:32Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
@@ -13845,7 +13791,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648821305438)
-    Availability: Available
+    Availability: Not Available
     Price: $39.95 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-legging-beary-cute?variant=41648821338206)
     Availability: Available
@@ -14180,27 +14126,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Price: $66.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-boxes?variant=41688275255390)
     Availability: Available
-    Price: $66.00 NZD
-- [GROWN Organic Everyday Denim Pant - Milk](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-milk): These organic denim pants feature an elastic waistband with an adjustable internal drawstring for a comfortable, secure fit. Designed with a relaxed cut, they offer ease of movement and everyday comfort.
-  Updated: 2025-08-06T22:37:03Z
-  Vendor: Grown
-  Product Type: Pant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GW25020_Front_Milk_1296x_3081e0b9-634e-4d55-93a0-f053881ed7e9.webp?v=1749504869
-  - [1y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-milk?variant=41688293507166)
-    Availability: Not Available
-    Price: $66.00 NZD
-  - [2y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-milk?variant=41688293539934)
-    Availability: Available
-    Price: $66.00 NZD
-  - [3y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-milk?variant=41688293572702)
-    Availability: Not Available
-    Price: $66.00 NZD
-  - [4y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-milk?variant=41688293605470)
-    Availability: Not Available
-    Price: $66.00 NZD
-  - [5y](https://www.littlebambinos.co.nz/products/grown-organic-everyday-denim-pant-milk?variant=41688293638238)
-    Availability: Not Available
     Price: $66.00 NZD
 - [GROWN Knitted Posy Pull Over](https://www.littlebambinos.co.nz/products/grown-knitted-posy-pull-over): This cozy pullover features a ribbed knit design crafted from textured yarn, highlighted by a charming 'Posy' flower pattern. With its dropped shoulder and relaxed fit, it offers comfortable wear for everyday ease.
   Updated: 2025-08-14T23:34:31Z
@@ -14900,14 +14825,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-12T06:02:47Z
+  Updated: 2025-09-13T22:02:42Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-12T22:42:42Z
+  Updated: 2025-09-13T22:42:47Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15051,7 +14976,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-13T19:43:12Z
+  Updated: 2025-09-13T23:43:12Z
   Total Products: 389
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15903,8 +15828,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-13T19:43:13Z
-  Total Products: 1271
+  Updated: 2025-09-13T23:43:12Z
+  Total Products: 1267
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-13T11:02:24Z
   Total Products: 494
@@ -16587,8 +16512,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-13T11:02:24Z
   Total Products: 1582
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-13T11:02:24Z
-  Total Products: 3093
+  Updated: 2025-09-13T21:41:03Z
+  Total Products: 3094
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-08-26T04:04:49Z
   Total Products: 3
