@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-14T12:00:40.472Z
+- Updated At: 2025-09-14T20:00:42.311Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1711,7 +1711,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [Memory Keeper Locket® Silver | Lily Blanche | Keep Loved Ones Close](https://www.lilyblanche.com/products/memory-keeper-locket-silver): The Memory Keeper Locket in Sterling Silver is a beautiful & unique way to keep your loved ones close to your heart. This stunning locket can hold up to 6 photos, making it the perfect way to cherish your most precious memories. Order your silver Memory Keeper Locket online & get free photos, shipping & care kit today!
-  Updated: 2025-08-27T19:02:16Z
+  Updated: 2025-09-14T16:21:21Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2421,7 +2421,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Sapphire Heart Locket Gold | Genuine Sapphire Necklace + Free Photos](https://www.lilyblanche.com/products/sapphire-heart-locket): Looking for a personalised necklace? This 18 carat gold vermeil sapphire locket hides a secret photo inside. A perfect 16th, 18th or 21st birthday gift, this pretty and romantic locket is hallmarked in Edinburgh.  Free Shipping & Luxury Jewellery Care Kit worth £20 Included. Personalise your own locket online today.
-  Updated: 2025-09-03T16:28:01Z
+  Updated: 2025-09-14T17:01:45Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2526,7 +2526,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Garnet Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-silver): Looking for a romantic gift? The Garnet Vintage Heart Locket features a gorgeous garnet gemstone, the birthstone of January. This beautiful vintage locket opens to take two photos, use our free locket photo service. Hallmarked in Edinburgh. Free UK shipping & Luxury Jewellery Care Kit Included. Shop this Locket Online.
-  Updated: 2025-09-12T14:46:57Z
+  Updated: 2025-09-14T16:13:13Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2765,7 +2765,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a956e96e-a597-4ec5-8a20-9d55b1a02068.jpg?v=1741877344
   Price: £85.00 GBP
 - [Garnet Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-gold): Looking for a personalised gift? This gold vintage locket necklace features a heart-shaped garnet at its centre. The Garnet Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-09-06T04:32:09Z
+  Updated: 2025-09-14T14:44:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9860,7 +9860,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Belcher Chain Gold](https://www.lilyblanche.com/products/belcher-chain-gold): This strong 18-carat gold vermeil medium-weight belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-08T12:18:05Z
+  Updated: 2025-09-14T19:05:11Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16829,7 +16829,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-09-13T15:17:00Z
+  Updated: 2025-09-14T18:48:55Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-14T08:57:36Z
+  Updated: 2025-09-14T19:38:30Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16970,7 +16970,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-14T09:17:20Z
+  Updated: 2025-09-14T18:06:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23933,7 +23933,7 @@ From £129
   Updated: 2025-09-09T11:33:14Z
   Total Products: 22
 - [Chains | Silver & Gold | Lily Blanche](https://www.lilyblanche.com/collections/chains-collections): silver, gold, rose gold & white gold chains in a variety of styles, & lengths, including curb, belcher, twist and beaded chains.
-  Updated: 2025-09-13T18:49:30Z
+  Updated: 2025-09-14T19:00:24Z
   Total Products: 40
 - [Peridot Jewellery | Genuine Peridot | Lily Blanche](https://www.lilyblanche.com/collections/peridot-jewellery): Explore our real Peridot Jewellery collection.  The birthstone for August, shop Peridot personalised necklaces, earrings and bracelets. Free luxury gift wrap and UK Shipping.
   Updated: 2025-09-02T11:36:02Z
