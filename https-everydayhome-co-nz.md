@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-14T00:00:35.295Z
+- Updated At: 2025-09-14T04:00:34.948Z
 
 ## Products
 
@@ -206,13 +206,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Coffee-Table-Natural-3.jpg?v=1727659754
   Price: $359.99 NZD
-- [Montage Shelf - Natural](https://everydayhome.co.nz/products/montage-shelf-natural): Montage Shelf, Natural
-  Updated: 2025-09-08T23:12:06Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Montage-Shelf-Natural-9.jpg?v=1727660203
-  Price: $118.99 NZD
 - [Triflora Hanging Planter Set of 5 - Black](https://everydayhome.co.nz/products/triflora-5-large-black): Triflora 5 Large  Black
   Updated: 2025-09-08T23:12:07Z
   Vendor: UMBRA
@@ -991,7 +984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Skyline-Multi-Hook-Black-8.jpg?v=1727658777
   Price: $46.99 NZD
 - [Sticks Multi Hook - Black](https://everydayhome.co.nz/products/sticks-multi-hook-black): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-09T05:39:25Z
+  Updated: 2025-09-14T03:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1026,7 +1019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-5-Hook-Natural-3.jpg?v=1727659274
   Price: $59.99 NZD
 - [Flip 5 Hook - White](https://everydayhome.co.nz/products/flip-5-hook-white): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-08T23:13:40Z
+  Updated: 2025-09-14T03:52:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1488,7 +1481,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Steam-Clothes-Hanger-Pepper-Black-5.png?v=1727659005
   Price: $27.99 NZD
 - [Brabantia Refresh Steam Clothes Hanger - Grey](https://everydayhome.co.nz/products/steam-clothes-hanger-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Steam Hanger. Made for use with hand steamers, it makes steaming easier and quicker. Especially those difficult parts like the collar and shoulders! A hot item for easy-peasy steaming.
-  Updated: 2025-09-08T23:09:58Z
+  Updated: 2025-09-14T01:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1607,14 +1600,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-24cm-Fluted-Cake-Ring-An-9.jpg?v=1731902324
   Price: $33.99 NZD
 - [Anolon Ceramic Reinforced - 25 x 38cm Medium Baking Tray](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-25cmx-38cm-medium-baking-tray): This multi-purpose tray is an essential bakeware item in any kitchen. From savoury to sweet, this tray has so many uses; the only limit is your baking imagination. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C. This unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-09-09T23:07:21Z
+  Updated: 2025-09-14T01:07:10Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-25-x-38cm-Medium-Baking-9.jpg?v=1731902375
   Price: $33.99 NZD
 - [Anolon Ceramic Reinforced - 28 x 43cm Large Baking Tray](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-28cm-x-43cm-large-baking-tray): This large multi-purpose tray is an essential bakeware item in any kitchen. From savoury to sweet, this tray has so many uses; the only limit is your baking imagination. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C. This unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-09-08T23:13:58Z
+  Updated: 2025-09-14T01:07:10Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1866,7 +1859,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $43.99 NZD
 - [Cappa Toilet Paper Stand - Black](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-black): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-09-13T04:52:10Z
+  Updated: 2025-09-14T00:07:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2440,14 +2433,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Oval-Mirror-45-x-61cm-Black-UMBRA-5.png?v=1731902521
   Price: $135.99 NZD
 - [Hub Wall Mirror (61cm ) - Black](https://everydayhome.co.nz/products/hub-wall-mirror-61cm-black): Hub Wall Mirror is the perfect wall decor for heavily trafficked areas like entryways and washrooms. Its rubber rim makes it more durable than most other mirrors while providing a modern, industrialized look. This decorative mirror is a great solution because it helps bounce light around your room, making space appear larger and brighter.
-  Updated: 2025-09-08T23:15:04Z
+  Updated: 2025-09-14T03:52:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Wall-Mirror-61cm-Black-UMBRA-3.png?v=1731903449
   Price: $152.99 NZD
 - [Hub Wall Mirror (94cm) - Black](https://everydayhome.co.nz/products/hub-wall-mirror-94cm-black): Hub Wall Mirror is the perfect wall decor for heavily trafficked areas like entryways and washrooms. Its rubber rim makes it more durable than most other mirrors while providing a modern, industrialized look. This decorative mirror is a great solution because it helps bounce light around your room, making space appear larger and brighter.
-  Updated: 2025-09-08T23:15:05Z
+  Updated: 2025-09-14T03:52:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2944,7 +2937,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-13T23:52:10Z
+  Updated: 2025-09-14T03:22:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2958,7 +2951,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $46.99 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-13T04:22:10Z
+  Updated: 2025-09-14T00:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2993,7 +2986,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardC_124x45cm_SSIR-SpringBubbles-8710755134920Brabantia_96dpi_1000x1000px_7_NR-19942.png?v=1733870570
   Price: $209.99 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-60m-metal-soil-spear-metallic-grey): The Brabantia Topspinner rotary dryer really spins like a top, even when the arms are fully loaded with wet laundry. But there’s more: it’s easy to open and has up to 60 metres of quality, UV-resistant non-slip washing lines. Thanks to the nifty retension-system, these lines are always taut. You’ll surely love the eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you and the planet!
-  Updated: 2025-09-08T23:09:53Z
+  Updated: 2025-09-14T01:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4609,7 +4602,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Large_Non-Stick-MattSteel-8710755250705Brabantia_300dpi_2000x2000px_9_NR-19742.jpg?v=1756435037
   Price: $20.99 NZD
 - [Brabantia Profile Spatula Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-matt-steel): Eggs, meat, pancakes… Flip 'em and serve 'em with this Brabantia Profile Spatula, Small. This Matt Steel spatula has slots, so fat runs off easily. And it has no seams or welds, so it is also easy to clean and hygienic. A super spatula!
-  Updated: 2025-09-08T23:16:00Z
+  Updated: 2025-09-14T01:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
