@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-14T00:00:45.028Z
+- Updated At: 2025-09-14T04:00:43.874Z
 
 ## Products
 
@@ -181,13 +181,13 @@
     Availability: Available
     Price: $22.00 NZD
 - [BIBS Pacifier - Natural Rubber - Sand](https://www.littlebambinos.co.nz/products/bibs-sand-two-pack): BIBS dummies. The BIBS pacifier has been a bestseller for more than 30 years.&nbsp; The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a motherÃ¢â‚¬â„¢s breast and is therefore recommended by midwifes to support natural breastfeeding. The round light shield faces away from the babyÃ¢â‚¬â„¢s face to ensure the supply of air to the sensitive skin around the mouth.
-  Updated: 2025-09-12T05:48:46Z
+  Updated: 2025-09-14T03:01:38Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Sand2.jpg?v=1622247455
   - [Size 1](https://www.littlebambinos.co.nz/products/bibs-sand-two-pack?variant=32200188231774)
-    Availability: Available
+    Availability: Not Available
     Price: $22.00 NZD
   - [Size 2](https://www.littlebambinos.co.nz/products/bibs-sand-two-pack?variant=32200188264542)
     Availability: Available
@@ -1410,7 +1410,7 @@
     Availability: Available
     Price: $33.00 NZD
 - [TOSHI Cardigan - Walnut](https://www.littlebambinos.co.nz/products/toshi-cardigan-walnut): The sumptuously soft Toshi Organic Baby Cardigan is crafted from the finest quality certified 100% organic cotton yarn. Organic certification ensures the cardigan is gentle on your delicate baby, as well as our precious environment. With a textured reverse knit and covered buttons, the styling is classic and yet the feel is contemporary. This cardi is designed to keep precious babies warm and cosy during cooler months.
-  Updated: 2025-08-06T22:45:54Z
+  Updated: 2025-09-14T01:09:47Z
   Vendor: Toshi
   Product Type: Cardigans
   Availability: Available
@@ -1425,7 +1425,7 @@
     Availability: Not Available
     Price: $42.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/toshi-cardigan-walnut?variant=39633175117918)
-    Availability: Available
+    Availability: Not Available
     Price: $42.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/toshi-cardigan-walnut?variant=39633175150686)
     Availability: Not Available
@@ -2260,18 +2260,6 @@
     Price: $22.00 NZD
   - [Size 2](https://www.littlebambinos.co.nz/products/frigg-daisy-silicone-pacifier-cream-night?variant=39762753126494)
     Availability: Not Available
-    Price: $22.00 NZD
-- [FRIGG Pacifier - Daisy - Silicone - Cream](https://www.littlebambinos.co.nz/products/frigg-daisy-natural-rubber-pacifier-cream): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2025-08-06T22:42:44Z
-  Vendor: Frigg
-  Product Type: Pacifier
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FRIGGPacifierDaisy-Silicone-Cream-Duo.png?v=1661049372
-  - [Size 1](https://www.littlebambinos.co.nz/products/frigg-daisy-natural-rubber-pacifier-cream?variant=39762754895966)
-    Availability: Not Available
-    Price: $22.00 NZD
-  - [Size 2](https://www.littlebambinos.co.nz/products/frigg-daisy-natural-rubber-pacifier-cream?variant=39762754928734)
-    Availability: Available
     Price: $22.00 NZD
 - [MUSHIE Swaddle - Fall Yellow](https://www.littlebambinos.co.nz/products/copy-of-mushie-swaddle-cherries): Made from 100% organic cotton, Mushie's cosy and extra soft swaddle is pre-washed for softness against babyâ€™s delicate skin. Their swaddles stay breathable while keeping baby warm and cuddly.
   Updated: 2025-08-06T22:37:30Z
@@ -4335,7 +4323,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $22.00 NZD
 - [TOSHI Organic Beanie - Snowy Ginger](https://www.littlebambinos.co.nz/products/toshi-organic-beanie-snowy-ginger): Toshi Beanie Snowy is crafted from the finest quality certified 100% organic cotton yarn.Â The beautifully textured melange yarn introduces an element of refinement to the beanie. Two cute pom poms are featured for a playful and whimsical look. Full internal lining creates enhanced comfort and greater warmth during our cooler months. Beanie Snowy is an ideal gender-neutral baby accessory.The colour of this beanie is Ginger, an earthy and rustic gender-neutral hue. Certified 100% organic cotton yarn Beautifully textured melange knit Feature pom poms creates a playful feel Ribbed border Gender-neutral styling Fully lined for protection from the elements Quality crafting provides lasting durability Toshi Headwear Size Chart Toshi headwear fit and sizing is variable and dependent on several factors including stretch component, knit tension and varying fabric construction.The following is an approximate sizing suggestion, for optimum fit headwear is best tried on. XXS - Premature to NewbornÂ XS - Newborn to 8 monthsS - 8 months to 2 yearsÂ M - 2 years to small grown upsÂ L - Big kids & grown upsÂ Â
-  Updated: 2025-08-06T22:47:13Z
+  Updated: 2025-09-14T01:09:46Z
   Vendor: Toshi
   Product Type: Beanie
   Availability: Available
@@ -4347,7 +4335,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $29.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-organic-beanie-snowy-ginger?variant=39990453993566)
-    Availability: Available
+    Availability: Not Available
     Price: $29.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-organic-beanie-snowy-ginger?variant=39990454026334)
     Availability: Not Available
@@ -6720,7 +6708,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_24pc-Pastel-Rectangle.jpg?v=1694642889
   Price: $133.99 NZD
 - [CONNETIX Pastel Mini Pack 32pc](https://www.littlebambinos.co.nz/products/connetix-pastel-mini-pack): Designed to encourage hours of creativity, fun and learning through PLAY, children will be inspired to explore colours, shapes and patterns, creating houses, boats, animals, car parks, mandalas and so much more. Showcasing the Connetix signature bevel design and safety-rated to international standards.
-  Updated: 2025-09-10T22:37:40Z
+  Updated: 2025-09-14T03:28:37Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7126,7 +7114,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
   Price: $349.99 NZD
 - [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
-  Updated: 2025-09-10T22:37:44Z
+  Updated: 2025-09-14T03:28:37Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -9661,7 +9649,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [TOSHI Swim Kids Onepiece Classic - Palm Cove](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-palm-cove-1): DETAILS UPF 50+ UV protection Chlorine safe, pool & salt water friendly Quality nylon fabrication for luxuriously soft hand feel Lightweight, fast drying & sun resistant Inner lining provides for modesty & comfort Enhanced elastic recovery Frilled shoulder straps for flattering styling Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-08-06T22:40:46Z
+  Updated: 2025-09-14T01:44:57Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -9673,7 +9661,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-palm-cove-1?variant=41100423463006)
-    Availability: Available
+    Availability: Not Available
     Price: $59.00 NZD
 - [TOSHI Swim Kids Rashie Long Sleeve Classic - Daintree](https://www.littlebambinos.co.nz/products/toshi-swim-kids-rashie-long-sleeve-half-zip-classic-daintree): DETAILS UPF 50+ UV protection Chlorine safe and pool friendly High neckline and long sleeves for greater sun protection Seamless armhole, sleeve and side seam for wearers comfort Back zip for ease of dressing YKK zip for superior functionality and durability Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
   Updated: 2025-08-06T22:40:46Z
@@ -9785,18 +9773,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-moonlight-bloom?variant=41100510396510)
     Availability: Not Available
-    Price: $44.95 NZD
-- [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-palm-cove): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-08-06T22:40:53Z
-  Vendor: Toshi
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SK_SU_CLA_PLC_A_Toshi_e692b45c-957f-45e3-9614-76ac71c2ac73.jpg?v=1724295318
-  - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-palm-cove?variant=41100512002142)
-    Availability: Not Available
-    Price: $44.95 NZD
-  - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-palm-cove?variant=41100512034910)
-    Availability: Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-surf-soul): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
   Updated: 2025-08-24T20:06:31Z
@@ -10310,13 +10286,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Roman_Green.jpg?v=1727403169
   Price: $59.00 NZD
-- [MUSHIE Water Resistant Wet Bag 2pk - Blush](https://www.littlebambinos.co.nz/products/mushie-water-resistant-wet-bag-2pk-blush): Versatile muslin cloths in a pack of three. These beautifully soft muslin cloths are perfectly handy for several purposes; when nursing, eating or sleeping. Choose between a variety of prints. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-08-10T23:18:47Z
-  Vendor: Mushie
-  Product Type: Muslin Cloth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Water_Resistant_Wet_Bag_2_Pack_Blush-r7dq9zjr.jpg?v=1727410344
-  Price: $34.00 NZD
 - [MUSHIE Water Resistant Wet Bag 2pk - Fog](https://www.littlebambinos.co.nz/products/mushie-water-resistant-wet-bag-2pk-fog): Versatile muslin cloths in a pack of three. These beautifully soft muslin cloths are perfectly handy for several purposes; when nursing, eating or sleeping. Choose between a variety of prints. Free shipping within New Zealand on orders over $149.
   Updated: 2025-08-10T23:18:50Z
   Vendor: Mushie
@@ -11903,7 +11872,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $110.00 NZD
 - [RYLEE + CRU Mini Backpack - Blue Daisies](https://www.littlebambinos.co.nz/products/quincy-mae-mini-backpack-blue-daisies): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-08-06T22:39:10Z
+  Updated: 2025-09-14T02:21:31Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
@@ -11998,7 +11967,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $73.00 NZD
 - [QUINCY MAE Sun Hat - Oat Check](https://www.littlebambinos.co.nz/products/quincy-mae-sun-hat-oat-check): Shield your child from the sun with this floppy Sun Hat crafted from durable pique swim fabric. Offering UPF 50+ protection, it showcases a cozy ‘oat check’ pattern on a soft ‘ivory’ background for both comfort and style.
-  Updated: 2025-09-09T09:38:12Z
+  Updated: 2025-09-14T00:51:37Z
   Vendor: Quincy Mae
   Product Type: Sun Hat
   Availability: Available
@@ -12503,7 +12472,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [KONGES SLOJD Minnie Newborn Onesie - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge): Soft pointelle onesie. Designed with snap buttons at the shoulder and crotch for easy dressing.
-  Updated: 2025-09-12T04:42:27Z
+  Updated: 2025-09-14T03:33:35Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
@@ -13315,13 +13284,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
-- [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-09-11T21:02:41Z
-  Vendor: Oria Skin
-  Product Type: Skincare
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Vitamin_C_4a3a896f-5caf-4600-bdf5-6e09d06addd2.jpg?v=1744072017
-  Price: $79.00 NZD
 - [ORIA SKIN Hormone Helper](https://www.littlebambinos.co.nz/products/hormone-helper): 100% Natural Hormonal harmonyHair regenerationBalance mood A targeted blend to balance the mind & hormonal cycle. Find relief from tension, moodiness & hormonal hair loss. This carefully selected combination of essential oils help to have a normalising effect on the endocrine system. Hormone Helper works in harmony with the body to support you through the natural cycle of perimenopause, menopause & premenstrual issues. 20ml Not suitable for pregnancy. How to use Place 4 drops into hands, inhale & massage into base of neck (thyroid) and lower abdomen area (adrenal & ovaries) . Alternatively create a compress using a warm cloth, add 10 drops of Hormone Helper & apply to the lower back or abdomen for pain relief and instant calming results. For hair growth application, apply 10 drops along the scalp, massage in, or use in targeting hair-loss area. Best to use overnight before you wash your hair. How it works: Castor Seed Oil Hormonal Support: Castor oil is known for its ability to improve circulation and detoxification. It is often used in the form of castor oil packs over the abdomen to help regulate the liver, which plays a critical role in hormone metabolism. By supporting detoxification, it can help balance estrogen levels and alleviate hormone-related symptoms like bloating and menstrual discomfort. 2. Abyssinian Oil Hair growth Abyssinian oil's nourishing properties can help maintain healthy skin, and scalp - excellent for treated dandruff or itchy scalp - which can be impacted by hormonal fluctuations. Healthy skin and hair are often affected by changes in hormones, particularly in cases of estrogen or testosterone imbalance. 3. Meadowfoam Seed Oil Hormonal Support: This oil has a fatty acid profile that closely resembles the skin’s natural oils, making it useful for promoting healthy skin and hormonal acne - it can alleviate the symptoms of hormonal imbalances like acne. It is also good for strengthening hair , preventing split ends -bonus. 4. Rosemary Essential Oil Hormonal Support: Rosemary oil is often used in aromatherapy for its stimulating properties. It is believed to support the adrenal glands, which are responsible for producing stress hormones like cortisol. By reducing the negative effects of chronic stress, rosemary may help keep cortisol levels in balance, indirectly supporting overall hormonal health. 5. Thyme Essential Oil Hormonal Support: Thyme oil is used in traditional medicine to support the endocrine system and improve thyroid function, which regulates many hormones in the body. 6. Myrrh Essential Oil Hormonal Support: Myrrh has been used in traditional medicine for its ability to support the endocrine system. It is also thought to have an adaptogenic effect, helping the body to adapt to stress and balance hormone levels. This makes it useful in managing stress-related hormonal imbalances. 7. Clove Essential Oil Hormonal Support: Clove oil has been shown to have strong antioxidant properties, which can support the body in fighting oxidative stress. Chronic oxidative stress can disrupt hormone function, so using clove oil may help support overall hormonal balance. 8. Lemongrass Essential Oil Hormonal Support: Lemongrass oil is rich in the citral molecule, which has an oestrogen effect, it is useful for the menopause in women. Citral is recognised to be useful to help balance the mind and cycle. It is also said to be helpful with balancing the Thyroid it has a normalising effect on the thyroid. Lemongrass is also useful to treat more of the mental state a woman might experience with peri/ menopause. Lemongrass oil promotes emotional and mental renewal, also useful for those who struggle to get started in the morning. 9. Basil Essential Oil Hormonal Support: Basil essential oil is often used to relieve stress and anxiety, which are known to affect cortisol and other hormone levels. By helping to manage stress, basil oil can indirectly help balance hormones, particularly those affected by adrenal stress. 10. Palmarosa Essential Oil Hormonal Support: Palmarosa is believed to have a balancing effect on the Thyroid- which is responsible for regulating our metabolism. Palmarosa has a normalising effect on the thyroid, useful for weight fluctuation. 11. Carrot Seed Extract Hormonal Support: Carrot seed oil is used for its regenerative properties on the skin, particularly in cases of aging, which is often hormonally influenced (like menopause). It is thought to support liver function, which is important for hormone detoxification. 12. Clary Sage Essential Oil Hormonal Support: Clary sage is one of the most well-known essential oils for balancing hormones, particularly in women. It has phytoestrogenic properties, meaning it can mimic estrogen in the body. This is particularly useful for managing symptoms of PMS, menopause, and hormonal acne. Clary sage also supports the adrenal glands, which help regulate stress hormones. 13. Geranium Essential Oil Hormonal Support: Geranium oil is known to have a balancing effect on the endocrine system, particularly in cases of menstrual irregularities and hormonal fluctuations. It may help regulate estrogen levels and is often used in skincare to reduce hormonal acne and promote overall skin health. 14. Litsea Essential Oil Hormonal Support: Litsea cubeba has a soothing effect and is often used to relieve stress, which can influence cortisol and other hormones. It can help manage mood swings and irritability that often accompany hormonal fluctuations. 15. Aniseed Essential Oil Hormonal Support: Aniseed oil contains compounds that are believed to have phytoestrogenic effects, similar to clary sage. It may support the regulation of estrogen in the body, which can help balance menstrual cycles and reduce symptoms like hot flashes or hormonal acne. Aiseed contains anethole, which has been suggested to mimic oestrogen, is a sexual tonic and can help control hormone deficiency during the menopause. It is useful for hot flashes and mood swings during Menopause. (Di Mola, 2017). 16. Sage Essential Oil Hormonal Support: Sage essential oil is often used to help balance estrogen levels, which can be particularly beneficial for women going through menopause. It is also used to alleviate symptoms like hot flashes, night sweats, and mood swings. Ingredients In no particular order of potency Ricinus communis (Castor) Seed Oil*, Crambe abyssinica (Abyssinian) Oil, Limnanthes alba (Meadowfoam) Seed Oil, Rosmarinus officinalis (Rosemary) Essential Oil*, Thymus vulgaris (Thyme) Essential Oil, Commiphora wightii (Myrrh) Essential Oil, Syzygium aromaticum (Clove) Essential Oil*, Cymbopogon citratus (Lemongrass) Essential Oil*, Ocimum basilicum (Basil) Essential Oil*, Cymbopogon martinii (Palmarosa) Essential Oil, Daucus carota (Carrot Seed) extract*, Salvia sclarea (Clary Sage) Essential Oil*, Pelargonium graveolens (Geranium) Essential Oil*, Litsea cubeba (Litsea) Essential Oil, Pimpinella anisum (Aniseed) Essential Oil, Salvia officinalis (Sage) Essential Oil*. *Organic
   Updated: 2025-09-08T08:56:41Z
   Vendor: Oria Skin
@@ -14590,7 +14552,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $99.00 NZD
 - [KONGES SLOJD Beach Tent Pop Up Anti UV50+ - Ma Grande Cerise Blush](https://www.littlebambinos.co.nz/products/konges-slojd-beach-tent-pop-up-anti-uv50-ma-grande-cerise-blush-1): This stylish UV beach tent can provide great sun relief and comfort for those long and sunny beach days. It can also be used on picnics in the park or as an additional source of shade in your garden or summerhouse.
-  Updated: 2025-09-12T02:23:42Z
+  Updated: 2025-09-14T03:07:33Z
   Vendor: Konges slojd
   Product Type: beach shade tent
   Availability: Available
@@ -14825,14 +14787,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-13T22:02:42Z
+  Updated: 2025-09-14T01:42:42Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-13T22:42:47Z
+  Updated: 2025-09-14T01:42:42Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -14976,8 +14938,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-13T23:43:12Z
-  Total Products: 389
+  Updated: 2025-09-14T03:43:12Z
+  Total Products: 388
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -15828,8 +15790,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-13T23:43:12Z
-  Total Products: 1267
+  Updated: 2025-09-14T03:43:12Z
+  Total Products: 1263
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-13T11:02:24Z
   Total Products: 494
