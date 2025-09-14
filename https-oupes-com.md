@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-14T00:00:29.137Z
+- Updated At: 2025-09-14T04:00:30.330Z
 
 ## Products
 
@@ -128,7 +128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh-897054.webp?v=1755766273
     Price: $2,359.00 USD
 - [OUPES B2 Multi-functional Extra Battery](https://oupes.com/products/b2-battery): Discover the OUPES B2 Multi-functional Extra Battery—portable RV power with LiFePO4 safety and smart app control. Charge anywhere, anytime with ease.
-  Updated: 2025-09-13T05:02:23Z
+  Updated: 2025-09-14T00:37:00Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
