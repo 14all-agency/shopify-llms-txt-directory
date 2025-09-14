@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-13T08:00:27.768Z
+- Updated At: 2025-09-14T08:00:27.539Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche théier](https://www.laforetnousregale.fr/products/affiche-theier): Affiche botanique du théier, avec une illustration naturaliste. Le théier Camellia sinensis est l’essence même de l’art du thé. Cultivé principalement en Chine, en Inde et au Japon, cet arbuste donne naissance à une des boissons les plus consommées au monde. Avec ses feuilles délicates et ses usages variés, il incarne la tradition et le bien-être. L’illustration met en lumière sa beauté sobre et ses rameaux verdoyants, célébrant un patrimoine culturel universel.
-  Updated: 2025-09-07T14:37:22Z
+  Updated: 2025-09-14T06:31:38Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
     Author: Équipe Pacific Planet
     Tags: alimentation durable, biologique, cueillette, environnement, forêt comestible, Forêt nourricière, France, nature, original, plant, qualité, sirop, terroir, Vente
   - [Bienfaits des feuilles de figuier en poudre : santé, diabète et antioxydants](https://www.laforetnousregale.fr/blogs/infos/bienfaits-de-la-poudre-de-feuilles-de-figuier): Bienfaits des feuilles de figuier en poudre : santé, diabète et antioxydants
-    Updated: 2025-09-11T10:45:02Z
+    Updated: 2025-09-13T16:56:50Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, phytothérapie, plante médicinale, poudre de feuilles de figuier, remède naturel
   - [Un retour à l'essentiel : de l'humilité du champ à la simplicité de l'assiette](https://www.laforetnousregale.fr/blogs/infos/un-retour-a-lessentiel-de-lhumilite-du-champ-a-la-simplicite-de-lassiette)
