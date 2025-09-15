@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-15T04:00:56.507Z
+- Updated At: 2025-09-15T08:00:53.375Z
 
 ## Products
 
@@ -2183,7 +2183,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [מכנס קצר טוטנהאם חוץ 24/25](https://www.rsport.co.il/products/מכנס-קצר-טוטנהאם-חוץ-24-25): מכנסיים קצרים מנדפי זיעה ואת הלוגו האייקוני של ספרס. הישאר קריר ונוח על המגרש עם מכנסיים קצרים ברמה מקצועית.
-  Updated: 2025-09-07T22:17:44Z
+  Updated: 2025-09-15T07:35:38Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
