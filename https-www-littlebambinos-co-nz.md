@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-15T00:00:44.353Z
+- Updated At: 2025-09-15T04:00:43.649Z
 
 ## Products
 
@@ -3786,7 +3786,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $80.00 NZD
 - [CONNETIX Rainbow Square Expansion Pack 42pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-square-pack-40pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:44Z
+  Updated: 2025-09-15T01:57:22Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -4172,7 +4172,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/forestlsc.jpg?v=1684367780
   Price: $25.00 NZD
 - [BINK Mama Bottle - Sand](https://www.littlebambinos.co.nz/products/bink-mama-bottle-sand): The first-ever water tracking bottle specifically designed to support you through pregnancy and breastfeeding to meet your daily recommended water needs. Keeping properly hydrated matters more in pregnancy and postpartum. Both you and your baby depend on it. The Mama Bottle water bottle shows you the recommended amount of water you should drink each day and provides you a simple, intuitive, timed-guide to help you reach it. It is the simplest, most powerful tool to help you create an optimal environment to nourish and grow your baby, and take care of yourself as well. At times, self-care can be really difficult. The Mama Bottle empowers you to make it easier, and gives you comfort knowing you are getting enough water. Volume: 800ml Dimensions: 22.9cm x 7.6cm x 7.6cm Features: 1. Hydration Tracking (Specifically for Pregnancy & Nursing): Provides a simple, intuitive guide to keep you drinking throughout the day. x 3 refills for pregnancy & x 4 refills for postpartum recovery and nursing. 2. Night-mode: For Nursing mamas. Night-mode encourages x 1 additional refill to meet your hydration needs & keep you drinking throughout those night-time feeds. 3. Glass + Silicone: The purest way to drink water + a thick protective sleeve. 4. Wide Drinking Mouth: Easy to clean + ice cube compatible. 5. Dishwasher Safe: Wash regularly without concern, no need to remove the sleeve. 6. Comfortable Carry Cap: Perfect grip. Made from polypropylene.
-  Updated: 2025-08-06T22:34:47Z
+  Updated: 2025-09-15T03:01:31Z
   Vendor: BINK
   Product Type: Water Bottle
   Availability: Available
@@ -4186,7 +4186,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/honeylsc_720x_dc6e4e35-4276-488c-ab22-105f8c0005ee.png?v=1684369429
   Price: $25.00 NZD
 - [BINK Lounge Straw & Cap - Sand](https://www.littlebambinos.co.nz/products/bink-lounge-straw-cap-sand): A reusable silicone straw & cap for clean, easy drinking. Made from the purest food-grade silicone. LFGB certified (highest EU safety standard).Features:1. Compatible with Day Bottle & Mama Bottle2. Easy press fit cap3. Flexible straw is durable and easy to clean4. Includes silicone straw & cap + Metal cleaning brush5. BPA-Free and Phthalate-Free6. Dishwasher Safe
-  Updated: 2025-08-06T22:34:49Z
+  Updated: 2025-09-15T03:01:31Z
   Vendor: BINK
   Product Type: Water Bottle
   Availability: Available
@@ -7072,7 +7072,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-14T10:57:12Z
+  Updated: 2025-09-15T00:45:52Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10944,7 +10944,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $50.00 NZD
 - [SUNNY FOLK Shady days organic romper](https://www.littlebambinos.co.nz/products/shady-days-romper): Let your little folk breeze through summer in our Shady Days Romper. This romper offers: - Bespoke hand-drawn illustration - Convenient design: snap domes between legs for hassle-free nappy changes - Secure fit: elastic ensures a snug fit around the legs for active little ones - Front pocket for ALL the things - GOTS-certified 100% organic cotton: soft, breathable, and gentle on skin - Azo-free dye: safe for your wee folk and eco-friendly - Pre-washed fabric to minimise shrinkage - Designed in New Zealand Modeled by Avila: 1 year old and wearing size 12-18 months
-  Updated: 2025-09-14T09:22:40Z
+  Updated: 2025-09-15T01:52:41Z
   Vendor: Sunny Folk Clothing
   Product Type: Romper
   Availability: Available
@@ -13130,18 +13130,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-corduroy-trouser-navy?variant=41584250093662)
     Availability: Available
     Price: $89.00 NZD
-- [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-09-11T09:58:42Z
-  Vendor: Oria Skin
-  Product Type: Spritzer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/clarity_mist.jpg?v=1743995362
-  - [100ml](https://www.littlebambinos.co.nz/products/hayfeverspritzer?variant=41613840580702)
-    Availability: Not Available
-    Price: $35.00 NZD
-  - [200ml](https://www.littlebambinos.co.nz/products/hayfeverspritzer?variant=41613840613470)
-    Availability: Available
-    Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
   Updated: 2025-09-14T04:22:43Z
   Vendor: Oria Skin
@@ -13150,7 +13138,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-08-30T04:22:45Z
+  Updated: 2025-09-15T00:22:40Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13285,7 +13273,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blemish_repair_balm_fed36dba-cb91-4f3e-bb5c-dffe157c5cc7.jpg?v=1744071930
   Price: $39.00 NZD
 - [ORIA SKIN Claw Clip](https://www.littlebambinos.co.nz/products/oria-skin-claw-clip): Say goodbye to bad hair days and hello to effortless elegance with our Oria Skin Claw Clips. These sleek, stylish clips are the perfect mix of function and flair, designed to keep your hair in place while you apply your skincare products! Featuring our beautiful crescent moon 'O' logo mark. Use them to gently sweep your hair out of the way while applying your Oria Skin masks, serums and creams. No more stray strands in your face or getting stuck in your products—just smooth, clear skin and hassle-free beauty rituals. Made with durable materials built to last. All-day comfort, no tugging, just hassle free sophistication. Add a pop of effortless style to your collection with the Oria Skin Claw Clips—because great hair and perfect skincare should never be a struggle!
-  Updated: 2025-09-14T09:22:43Z
+  Updated: 2025-09-15T03:22:42Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -14773,14 +14761,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-14T21:22:42Z
+  Updated: 2025-09-15T02:22:41Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-14T23:22:47Z
+  Updated: 2025-09-15T03:02:42Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -14924,8 +14912,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-14T23:43:11Z
-  Total Products: 388
+  Updated: 2025-09-15T03:43:12Z
+  Total Products: 387
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -15776,8 +15764,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-14T23:43:12Z
-  Total Products: 1262
+  Updated: 2025-09-15T03:43:12Z
+  Total Products: 1261
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-14T20:55:24Z
   Total Products: 494
