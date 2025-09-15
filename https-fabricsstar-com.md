@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-15T08:00:31.045Z
+- Updated At: 2025-09-15T12:00:32.251Z
 
 ## Products
 
@@ -9628,7 +9628,7 @@
   Updated: 2025-09-13T11:13:26Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-09-14T11:12:19Z
+  Updated: 2025-09-15T11:12:32Z
   Total Products: 16
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-09-12T15:41:54Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-09-12T15:47:54Z
   Total Products: 8
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-09-14T11:12:19Z
+  Updated: 2025-09-15T11:12:32Z
   Total Products: 240
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-09-14T11:12:19Z
+  Updated: 2025-09-15T11:12:32Z
   Total Products: 240
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-09-14T11:12:19Z
+  Updated: 2025-09-15T11:12:32Z
   Total Products: 107
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-09-14T11:12:19Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-14T11:12:19Z
+  Updated: 2025-09-15T11:12:32Z
   Total Products: 240
 
 ## Blogs
