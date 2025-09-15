@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-15T00:00:36.389Z
+- Updated At: 2025-09-15T04:00:35.641Z
 
 ## Products
 
@@ -33714,6 +33714,9 @@
     Author: User
   - [How to Choose the Perfect Tablecloth for Every Occasion](https://thetableclothstore.com/blogs/news/how-to-choose-the-perfect-tablecloth-for-every-occasion): How to Choose the Perfect Tablecloth for Every Occasion
     Updated: 2025-09-11T04:07:06Z
+    Author: User
+  - [The History of Tablecloths and Their Evolution Over Time](https://thetableclothstore.com/blogs/news/the-history-of-tablecloths-and-their-evolution-over-time): The History of Tablecloths and Their Evolution Over Time
+    Updated: 2025-09-15T00:42:15Z
     Author: User
 
 ## Store Pages
