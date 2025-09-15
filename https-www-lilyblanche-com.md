@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-15T16:00:42.427Z
+- Updated At: 2025-09-15T20:00:42.953Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3880,7 +3880,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £305.00 GBP
 - [Four-Photo Heart Charm Locket Gold | Lily Blanche | Treasure Memories](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-gold): This Four-Photo Heart Charm Locket in Gold is a wonderful & unique way to treasure your precious memories. This stunning locket can hold up to four photos, making it the perfect love token or special gift. Order your Four-Photo Heart Charm Locket in gold online today and receive free photos, & jewellery care kit!
-  Updated: 2025-09-01T11:45:12Z
+  Updated: 2025-09-15T17:12:41Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15770,7 +15770,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [2 Photo Heart Locket Silver Top Quality Engravable Necklace](https://www.lilyblanche.com/products/large-2-photo-heart-locket-silver): Keep loved ones close with this two photo heart shaped locket in sterling silver is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
-  Updated: 2025-09-08T21:37:05Z
+  Updated: 2025-09-15T19:46:36Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16536,7 +16536,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £235.00 GBP
 - [Men's Hexagon Locket Necklace | Solid Sterling Silver](https://www.lilyblanche.com/products/mens-hexagon-locket-necklace-silver): Treasure precious memories with this solid silver Men's Hexagon Locket necklace. Personalise  with our complimentary photo service & add engraving. High Quality. Fast delivery. Order online today.
-  Updated: 2025-09-11T05:39:16Z
+  Updated: 2025-09-15T16:45:28Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16970,7 +16970,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-14T18:06:50Z
+  Updated: 2025-09-15T16:32:18Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24834,8 +24834,8 @@ From £129
   Updated: 2025-03-26T11:37:00Z
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-03-31T09:41:29Z
-- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on September 12 202...
-  Updated: 2025-09-12T22:52:06Z
+- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on September 15 202...
+  Updated: 2025-09-15T16:11:45Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
