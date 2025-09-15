@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-14T20:00:31.792Z
+- Updated At: 2025-09-15T00:00:31.450Z
 
 ## Products
 
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-09-12T15:13:02Z
+  Updated: 2025-09-14T20:13:06Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
