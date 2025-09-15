@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-15T12:00:44.219Z
+- Updated At: 2025-09-15T16:00:44.826Z
 
 ## Products
 
@@ -11010,7 +11010,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-09-13T23:42:40Z
+  Updated: 2025-09-15T12:22:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13697,7 +13697,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $80.75 NZD
 - [WILSON & FRENCHY Organic Knitted Jacquard Jumper - Beary Cute](https://www.littlebambinos.co.nz/products/wilson-frenchy-beary-cute-organic-knitted-jacquard-jumper-beary-cute): Get ready to cuddle up in style with our organic cotton, wool, and bamboo jacquard knit jumper. The roomy fit and ribbed cuffs and neckline provide comfort, while the cute bear face design adds some playful charm. Stay warm and trendy, baby and kid approved. DETAILS Relaxed fit, long sleeved, all over jacquard design, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-09-13T18:17:56Z
+  Updated: 2025-09-15T12:32:42Z
   Vendor: Wilson & Frenchy
   Product Type: Jumper
   Availability: Available
@@ -14912,7 +14912,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-15T11:43:11Z
+  Updated: 2025-09-15T15:43:16Z
   Total Products: 386
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -15764,7 +15764,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-15T11:43:11Z
+  Updated: 2025-09-15T15:43:16Z
   Total Products: 1261
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-14T20:55:24Z
