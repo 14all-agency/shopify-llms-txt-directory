@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-14T20:00:57.000Z
+- Updated At: 2025-09-15T00:00:56.574Z
 
 ## Products
 
@@ -36464,7 +36464,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת נבחרת בלגיה חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים): תמוך בשדים האדומים של בלגיה עם גרפיקה דינמית בהשראת כינוי הנבחרת "השדים האדומים", ליצירת מראה מודרני ובולט על המגרש ומחוצה לו. סמל הנבחרת על החזה יחד עם הכיתוב “Belgium” בגאווה משלימים את העיצוב עשויה 100% פוליאסטר, בד נושם וקל משקל שמספק נוחות מירבית ותחושת יובש לאורך כל המשחק והאימון.
-  Updated: 2025-09-07T22:03:32Z
+  Updated: 2025-09-14T20:06:08Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
