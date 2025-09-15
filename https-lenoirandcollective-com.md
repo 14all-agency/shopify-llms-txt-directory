@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-15T16:00:28.082Z
+- Updated At: 2025-09-15T20:00:28.299Z
 
 ## Products
 
@@ -432,7 +432,7 @@
     Availability: Available
     Price: €32.45 EUR
 - [Turtleneck Sweater Women Fashion – 2024 New Stretch Knitted](https://lenoirandcollective.com/products/turtleneck-sweater-women-fashion-2024-new-stretch-tops-women-knitted-pullovers-long-sleeve-bottoming-knitted-sweater): Turtleneck Sweater Women Fashion offers 2024’s latest stretch knitted pullovers. Long sleeve and bottoming sweater perfect for layering and winter warmth
-  Updated: 2025-09-14T17:10:08Z
+  Updated: 2025-09-15T18:33:10Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
