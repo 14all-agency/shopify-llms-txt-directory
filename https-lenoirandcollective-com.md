@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-15T00:00:27.550Z
+- Updated At: 2025-09-15T16:00:28.082Z
 
 ## Products
 
 - [Hot Sale Jeans Women Straight Leg Trendy Street Style](https://lenoirandcollective.com/products/hot-sale-jeans-women-straight-leg-ankle-length-all-match-casual-denim-trousers-4-colors-popular-students-daily-street-do-old-bf): Hot Sale Jeans Women Straight Leg Hot Sale Jeans Women Straight Leg style offers casual ankle-length denim in 4 stylish colors
-  Updated: 2025-09-07T11:21:41Z
+  Updated: 2025-09-15T07:29:02Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -259,7 +259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/5c5f90172c470210d5161e6636b3402f.jpg?v=1747077419
   Price: €44.33 EUR
 - [Frenchy Women's High Neck Ribbed Drop Shoulder Sweater](https://lenoirandcollective.com/products/frenchy-womens-high-neck-ribbed-drop-shoulder-long-sleeve-sweater-textured-fabric-dress): Frenchy Women's High Neck Ribbed Drop Shoulder Sweater features textured fabric and long sleeves. This stylish dress combines comfort and elegance
-  Updated: 2025-09-07T11:21:42Z
+  Updated: 2025-09-15T11:09:59Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -438,7 +438,7 @@
   Availability: Available
   Price: €31.80 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-14T19:04:04Z
+  Updated: 2025-09-15T09:23:04Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
