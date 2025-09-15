@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-15T00:00:36.174Z
+- Updated At: 2025-09-15T04:00:34.892Z
 
 ## Products
 
@@ -431,7 +431,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Magino-Stool-with-Magazine-Rack-Clear-8.jpg?v=1727659783
   Price: $475.99 NZD
 - [Brabantia WallFix Retractable Clothesline with Protective Cover - 24m Metallic Grey](https://everydayhome.co.nz/products/brabantia-wallfix-retractable-clothesline-24m-with-protection-cover-metallic-grey): Wallfix  Dryer, 24M, W/Cover, Metallic Grey
-  Updated: 2025-09-14T22:22:11Z
+  Updated: 2025-09-15T02:52:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -844,7 +844,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Steel-8.jpg?v=1727659533
   Price: $92.99 NZD
 - [Ribbonwood Wall Clock - Natural](https://everydayhome.co.nz/products/ribbonwood-wall-clock-50-8cm-natural): This gorgeous clock is made from bent beech wood that has been shaped into folded ribbon shapes. Its contrasting minute and hour hands make it easy to tell the time. Ribbonwood's bent wood is part of a complex process of molding bent plywood.
-  Updated: 2025-09-08T23:13:29Z
+  Updated: 2025-09-15T02:52:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1285,14 +1285,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wooden-Chopping-Board-Vegetables-7.png?v=1727658904
   Price: $75.99 NZD
 - [Brabantia Profile Wooden Chopping Board - Medium Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-medium-c): Need a multitasker in your kitchen? This sustainable Brabantia Profile Wooden Chopping Board is cut out for any cutting, chopping or serving job. And it can be used on both sides, for serving too! Medium size - compact in use, compact in storage. Space efficient!
-  Updated: 2025-09-08T23:13:47Z
+  Updated: 2025-09-15T02:52:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wooden-Chopping-Board-Medium-4.png?v=1727658636
   Price: $50.99 NZD
 - [Brabantia Profile Wooden Chopping Board Set - Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-set-3-c): This set of 3 Brabantia Profile Wooden Chopping Boards is all you need in your kitchen when it comes to cutting. One board for vegetables, one for bread and one for meat. All made of sustainable beech wood, all made for double sided use. All aboard!
-  Updated: 2025-09-08T23:13:47Z
+  Updated: 2025-09-15T02:52:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1943,7 +1943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-25-4cm-Open-Skillet-Cir-2.jpg?v=1731903078
   Price: $144.99 NZD
 - [Circulon Scratchdefense A1 - 28cm/4.7L Covered Sauteuse](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-28cm-4-7l-covered-sauteuse): Elevate your culinary creations with the Covered Sauteuse 28cm/4.7L, a premium addition to your kitchen arsenal. This versatile sauté pan is perfect for searing, braising, simmering, and more. Its spacious capacity accommodates family-sized meals, while the included lid locks in flavours and moisture. Crafted with precision and durability, this sauteuse ensures even heat distribution and exceptional nonstick performance.
-  Updated: 2025-09-09T23:07:21Z
+  Updated: 2025-09-15T03:07:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1957,7 +1957,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-30-4cm-Open-Skillet-Cir-2.jpg?v=1731903168
   Price: $186.99 NZD
 - [Circulon Scratchdefense A1 - 34cm Open Stirfry](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-34cm-open-stirfry-w-hh): The Open Stirfry with Helper Handle is your culinary companion for mastering the art of stir-frying. This premium kitchen essential boasts a generous 34cm diameter and a convenient helper handle for effortless manoeuvring.
-  Updated: 2025-09-09T23:07:22Z
+  Updated: 2025-09-15T03:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1971,7 +1971,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-8-Piece-Cookware-Set-Ci-6.jpg?v=1731902752
   Price: $734.99 NZD
 - [Circulon Style - 21/25/28cm Skillet Triple Pack](https://everydayhome.co.nz/products/circulon-style-21-25-28cm-skillet-triple-pack): For a lifetime of exceptional cooking, look no further than Circulon Style. With its unique circular technology and TOTAL™ non-stick coating, oil-free cooking has never been easier, and with the non-stick proven to last 15 x longer than traditional non-stick coatings, you can rely on Style for meal after meal.
-  Updated: 2025-09-08T23:14:29Z
+  Updated: 2025-09-15T03:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2097,7 +2097,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-20-26cm-Skillet-Twin-Pack-Esst-4.jpg?v=1731902220
   Price: $339.99 NZD
 - [Essteele Per Domani - 20cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-domani-20cm-open-french-skillet): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 20cm skillet is perfect for side dishes and single-serve meals, providing frying and searing perfection. The European look will complement any kitchen while the super-hard and durable nonstick provides fat-free cooking and effortless clean-up.
-  Updated: 2025-09-08T23:14:36Z
+  Updated: 2025-09-15T02:52:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2139,7 +2139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-2-Piece-Set-Essteele-8.jpg?v=1731901920
   Price: $348.99 NZD
 - [Essteele Per Salute - 20/24/28cm Skillet Triple Pack](https://everydayhome.co.nz/products/essteele-per-salute-20-24-28cm-skillet-triple-pack): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This diamond-reinforced triple pack contains 20cm, 24cm and 28cm premium nonstick skillets, so you can create a variety of delicious dishes both big and small and clean up with ease afterward.
-  Updated: 2025-09-08T23:14:39Z
+  Updated: 2025-09-15T03:07:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2223,7 +2223,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-32cm-Covered-Stirfry-Essteele-0.jpg?v=1731902821
   Price: $263.99 NZD
 - [Essteele Per Salute - 32cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-salute-32cm-open-french-skillet): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This 32cm nonstick skillet is perfect for cooking meat or fish, vegetables and family meals.
-  Updated: 2025-09-08T23:14:48Z
+  Updated: 2025-09-15T03:07:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2335,7 +2335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Multi-Organiser-White-UMBRA-0.jpg?v=1731902280
   Price: $50.99 NZD
 - [Estique Organiser - Black/Walnut](https://everydayhome.co.nz/products/estique-org-blk-wal): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-09-08T23:14:57Z
+  Updated: 2025-09-15T03:22:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2545,7 +2545,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-14cm-1-4L-Saucepan-Raco-0.jpg?v=1731902188
   Price: $67.99 NZD
 - [Raco Contemporary - 16cm/1.9L Saucepan](https://everydayhome.co.nz/products/raco-contemporary-16cm-1-9l-ss-saucepan): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Everyday Essential: The 16cm Stainless Steel Saucepan This Saucepan is perfect for everyday cooking tasks like boiling pasta, making sauces, or preparing small portions of soup.
-  Updated: 2025-09-09T22:22:11Z
+  Updated: 2025-09-15T02:52:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2643,7 +2643,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Universal-Steamer-with-Lid-16-18-20cm-Raco-0.jpg?v=1731902457
   Price: $67.99 NZD
 - [Raco Elements - 2.5L Stovetop Kettle](https://everydayhome.co.nz/products/raco-elements-2-5l-stovetop-kettle): You can enjoy more than just your morning cup of tea with the stylish and timeless design of the RACO Elements Stainless Steel Stovetop Kettle. Featuring a generous 2.5L Capacity and a wooden effect cool touch handle, the capsulated base provides even and rapid heating. The whistling feature and spring loaded spout alerts you when your water is boiled and assists with a safe and easy pour. Suitable for all cooktops, including induction.
-  Updated: 2025-09-12T20:32:10Z
+  Updated: 2025-09-15T02:52:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2937,7 +2937,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-14T06:07:11Z
+  Updated: 2025-09-15T01:22:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3077,7 +3077,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/HangingDryingRack_4.5m-White-8710755102769Brabantia_96dpi_1000x1000px_7_NR-896.png?v=1733868623
   Price: $76.99 NZD
 - [Brabantia Tasty+ Digital Kitchen Scales Plus - Dark Grey](https://everydayhome.co.nz/products/kitchen-scales-plus-dark-grey): Looking for a scale that never runs out of battery? Turn to this digital Brabantia Tasty+ Kitchen Scale Plus. This smart kitchen helper weighs everything from 5 gram to 5 kilos. It comes with a dynamo you charge by turning the knob, so no batteries needed. Easy on the planet and easy to clean. A great scale to wind up with!
-  Updated: 2025-09-08T23:15:37Z
+  Updated: 2025-09-15T00:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4980,7 +4980,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/71dNAc1ZPsL._AC_SX679.jpg?v=1756177559
   Price: $29.99 NZD
 - [Umbra Step Toothbrush Holder - White](https://everydayhome.co.nz/products/umbra-step-toothbrush-holder-white): This modern and sleek toothbrush holder will hold your toothbrushes upright, ensuring they remain clean and dry after use. Step is made of the highly durable material melamine, meaning it is less likely to break in busy washrooms and kitchens.
-  Updated: 2025-09-09T21:37:26Z
+  Updated: 2025-09-15T03:22:16Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
