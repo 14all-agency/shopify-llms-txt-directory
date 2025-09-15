@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-15T04:00:34.892Z
+- Updated At: 2025-09-15T08:00:34.974Z
 
 ## Products
 
 - [Cubiko Shower Caddy, Black](https://everydayhome.co.nz/products/cubiko-shower-caddy-black): Cubiko Shower Caddy, Black
-  Updated: 2025-09-14T18:52:10Z
+  Updated: 2025-09-15T05:31:40Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-3-Tier-White-Natura-7.jpg?v=1727659316
   Price: $184.90 NZD
 - [Cubiko 5 Hook - Black](https://everydayhome.co.nz/products/cubiko-5-hook-black): Cubiko 5 Hook  Black
-  Updated: 2025-09-08T23:12:02Z
+  Updated: 2025-09-15T04:07:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -241,6 +241,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Brass-2.jpg?v=1727659691
   Price: $212.99 NZD
+- [Hubba Pebble Mirror - Metallic Titanium](https://everydayhome.co.nz/products/hubba-pebble-mirror-92-x-61cm-mtl-ttnm): Hubba Pebble Mirror 92 X 61Cm Mtl Ttnm
+  Updated: 2025-09-15T04:07:05Z
+  Vendor: UMBRA
+  Product Type: Home & Living
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Metallic-Titanium-1.jpg?v=1727659051
+  Price: $212.99 NZD
 - [Cubiko Adhesive Shower Bins - Black](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-black): Cubiko Adhesive Shower Bins, Black
   Updated: 2025-09-14T18:37:10Z
   Vendor: UMBRA
@@ -249,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $67.99 NZD
 - [Cubiko Adhesive Shower Bins - White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-09-11T07:52:12Z
+  Updated: 2025-09-15T04:07:05Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -326,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Silicone-Dish-Drying-Mat-Light-Grey-1.jpg?v=1727660074
   Price: $48.99 NZD
 - [Brabantia SinkSide Dish Brush with Suction Cup Holder - Dark Grey](https://everydayhome.co.nz/products/dish-brush-w-suction-cup-holder-dark-grey): Dish Brush W/Suction Cup Holder, Dark Grey
-  Updated: 2025-09-14T18:58:36Z
+  Updated: 2025-09-15T06:58:30Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -403,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Toothbrush-Holder-Dark-Grey-2.jpg?v=1727658755
   Price: $24.99 NZD
 - [Brabantia ReNew Toothbrush Holder - White](https://everydayhome.co.nz/products/toothbrush-holder-white): Toothbrush Holder, White
-  Updated: 2025-09-08T22:41:08Z
+  Updated: 2025-09-15T06:58:31Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -830,7 +837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Garment-Rack-White-Natural-8.jpg?v=1727659545
   Price: $552.99 NZD
 - [Ribbon Wall Clock - Black](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-black): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
-  Updated: 2025-09-13T10:07:17Z
+  Updated: 2025-09-15T04:07:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -998,11 +1005,18 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $46.99 NZD
 - [Sticks Multi Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-08T23:13:38Z
+  Updated: 2025-09-15T04:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-White-5.jpg?v=1727660345
+  Price: $46.99 NZD
+- [Sticks Multi Hook - Grey](https://everydayhome.co.nz/products/sticks-multi-hook-grey): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
+  Updated: 2025-09-15T04:07:06Z
+  Vendor: UMBRA
+  Product Type: Home & Living
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Grey-0.jpg?v=1727659149
   Price: $46.99 NZD
 - [Flip 5 Hook - Black/Walnut](https://everydayhome.co.nz/products/flip-5-hook-black-walnut): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
   Updated: 2025-09-14T23:52:11Z
@@ -1809,12 +1823,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Chess-Set-Natural-UMBRA-0.jpg?v=1731903504
   Price: $314.99 NZD
+- [Buddy Hook (Set 3) - Assorted](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
+  Updated: 2025-09-15T04:07:05Z
+  Vendor: UMBRA
+  Product Type: Home & Living
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-UMBRA-2.jpg?v=1731903410
+  Price: $33.99 NZD
 - [Buddy Hook (Set 3) - Assorted Grey](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted-grey): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
   Updated: 2025-09-08T23:14:14Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
+  Price: $33.99 NZD
+- [Buddy Hook (Set 3) - Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
+  Updated: 2025-09-15T04:07:05Z
+  Vendor: UMBRA
+  Product Type: Home & Living
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Black-UMBRA-7.jpg?v=1731902493
   Price: $33.99 NZD
 - [Buddy Hook (Set 3) - Multi Colour Lite](https://everydayhome.co.nz/products/buddy-hook-set-3-multi-colour-lite): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
   Updated: 2025-09-09T23:38:06Z
@@ -1859,7 +1887,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $43.99 NZD
 - [Cappa Toilet Paper Stand - Black](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-black): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-09-14T20:27:25Z
+  Updated: 2025-09-15T04:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2335,7 +2363,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Multi-Organiser-White-UMBRA-0.jpg?v=1731902280
   Price: $50.99 NZD
 - [Estique Organiser - Black/Walnut](https://everydayhome.co.nz/products/estique-org-blk-wal): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-09-15T03:22:17Z
+  Updated: 2025-09-15T04:07:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2475,7 +2503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Luna-Photo-Display-Black-UMBRA-3.jpg?v=1731901901
   Price: $101.99 NZD
 - [Montage Shelf - Black](https://everydayhome.co.nz/products/montage-shelf-black): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-08T23:15:08Z
+  Updated: 2025-09-15T04:22:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2678,7 +2706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sling-Caddy-With-Pump-White-UMBRA-6.jpg?v=1731902227
   Price: $29.99 NZD
 - [Sling Folding Dishrack - White](https://everydayhome.co.nz/products/sling-folding-dishrack-white): Introducing Sling Dishrack: the space-saving and efficient solution for your dishes. This easy-to-use and durable dishrack is designed to maximize capacity while minimizing clutter. The Sling Dishrack features a metal foldaway rack and a folding mat that fits perfectly into a convenient caddy base. The base has three divided sections for your cutlery, large utensils, or dish cleaning accessories like sponges and scrub brushes. Not only is the Sling Dishrack incredibly functional, but it's also portable. It folds away for easy storage when you're not using it, and it's perfect for taking on camping trips. To keep everything in place, a silicone band wraps around the caddy base and holds up the mat and rack when they're not in use
-  Updated: 2025-09-09T20:26:35Z
+  Updated: 2025-09-15T04:07:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3014,7 +3042,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Built-inBin_15L-BrilliantSteel-8710755418181Brabantia_96dpi_1000x1000px_7_NR-4747.png?v=1733801664
   Price: $149.99 NZD
 - [Brabantia Tasty+ Knife Block Set - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-5-knives-paring-utility-carving-bread-chef-dark-grey): Cut the clutter on your countertop with this stylish Brabantia Tasty+ Knife Block plus five Tasty+ Knives, cut out for passionate chefs. The blades of ice-hardened steel keep their edge longer, and are both scratch and corrosion resistant. They have a seamless grip, are easy to clean, and hygienic to use. Cutting edge design for your countertop.
-  Updated: 2025-09-08T23:15:35Z
+  Updated: 2025-09-15T04:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4966,7 +4994,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_CC02.jpg?v=1755823621
   Price: $33.99 NZD
 - [Umbra Flex Shower Caddy - White](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-white): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-09-08T23:16:23Z
+  Updated: 2025-09-15T05:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4980,7 +5008,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/71dNAc1ZPsL._AC_SX679.jpg?v=1756177559
   Price: $29.99 NZD
 - [Umbra Step Toothbrush Holder - White](https://everydayhome.co.nz/products/umbra-step-toothbrush-holder-white): This modern and sleek toothbrush holder will hold your toothbrushes upright, ensuring they remain clean and dry after use. Step is made of the highly durable material melamine, meaning it is less likely to break in busy washrooms and kitchens.
-  Updated: 2025-09-15T03:22:16Z
+  Updated: 2025-09-15T04:07:05Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -5036,7 +5064,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I011.jpg?v=1755822158
   Price: $20.99 NZD
 - [Umbra Tesora Jewelry Stand - Clear/Brass](https://everydayhome.co.nz/products/umbra-tesora-jewelry-stand-clear-brass): The Tesora Jewelry Stand brings modern elegance to your jewelry storage. Featuring three posts of varying heights, it's perfect for hanging necklaces, bracelets, and other jewelry of all sizes. The base includes a built-in dish, ideal for organizing smaller accessories like earrings, rings, and brooches. Each post is enhanced with double-wire accents, providing a stylish and secure display for your earrings or cufflinks.
-  Updated: 2025-09-08T23:16:27Z
+  Updated: 2025-09-15T04:07:05Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
