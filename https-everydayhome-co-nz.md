@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-16T04:00:35.771Z
+- Updated At: 2025-09-16T08:00:36.991Z
 
 ## Products
 
@@ -1257,7 +1257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Small-Matt-Steel-7.png?v=1727659946
   Price: $89.99 NZD
 - [Brabantia Roll Top Bread Bin - Medium Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-09-08T23:09:17Z
+  Updated: 2025-09-16T05:38:30Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1431,13 +1431,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Compact-Dish-Drying-Rack-Light-Grey-2.png?v=1727659676
   Price: $74.99 NZD
-- [Brabantia SinkSide Dish Drying Rack - Dark Grey](https://everydayhome.co.nz/products/dish-drying-rack-dark-grey): This Brabantia SinkSide Dish Drying Rack is designed for keeping your dripping dishes. It has a sleek design, but space for up to 13 plates plus bowls, cutlery and glasses. It has a removable cutlery basket and a sloping drip tray too, so drippings run directly into the sink. This rack is on track!
-  Updated: 2025-09-13T01:08:10Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Dish-Drying-Rack-Dark-Grey-2.png?v=1727658709
-  Price: $119.99 NZD
 - [Brabantia SinkSide Dish Drying Rack - Light Grey](https://everydayhome.co.nz/products/dish-drying-rack-light-grey): This Brabantia SinkSide Dish Drying Rack is designed for keeping your dripping dishes. It has a sleek design, but space for up to 13 plates plus bowls, cutlery and glasses. It has a removable cutlery basket and a sloping drip tray too, so drippings run directly into the sink. This rack is on track!
   Updated: 2025-09-13T22:59:01Z
   Vendor: BRABANTIA
@@ -2398,7 +2391,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-16T00:52:11Z
+  Updated: 2025-09-16T05:35:16Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2706,7 +2699,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sling-Caddy-With-Pump-White-UMBRA-6.jpg?v=1731902227
   Price: $29.99 NZD
 - [Sling Folding Dishrack - White](https://everydayhome.co.nz/products/sling-folding-dishrack-white): Introducing Sling Dishrack: the space-saving and efficient solution for your dishes. This easy-to-use and durable dishrack is designed to maximize capacity while minimizing clutter. The Sling Dishrack features a metal foldaway rack and a folding mat that fits perfectly into a convenient caddy base. The base has three divided sections for your cutlery, large utensils, or dish cleaning accessories like sponges and scrub brushes. Not only is the Sling Dishrack incredibly functional, but it's also portable. It folds away for easy storage when you're not using it, and it's perfect for taking on camping trips. To keep everything in place, a silicone band wraps around the caddy base and holds up the mat and rack when they're not in use
-  Updated: 2025-09-15T04:07:10Z
+  Updated: 2025-09-16T05:35:41Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3567,14 +3560,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x30L-DarkGrey-8710755232527Brabantia_96dpi_1000x1000px_7_NR-34737.png?v=1734561023
   Price: $244.99 NZD
 - [Brabantia Bra Wash Bag - White](https://everydayhome.co.nz/products/bra-wash-bag-wht-gry): Wash your delicates with care with a Brabantia Wash Bag. A strong mesh bag, protecting fine garments and small items of clothing during washing, rinsing or spinning. The easy to use zipper even has a special cover for the pull-tab to protect other laundry and your washing machine. Small item, great idea!
-  Updated: 2025-09-08T23:10:00Z
+  Updated: 2025-09-16T05:35:43Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BraWashBag-White-8710755149245Brabantia_96dpi_1000x1000px_7_NR-26300.png?v=1733789129
   Price: $13.99 NZD
 - [Brabantia Wash Bags - Set of 3 White](https://everydayhome.co.nz/products/wash-bags-set-3-wht-gry): Wash your delicates with care with a Brabantia Wash Bag. A strong mesh bag, protecting fine garments and small items of clothing during washing, rinsing or spinning. The easy to use zipper even has a special cover for the pull-tab to protect other laundry and your washing machine. Small item, great idea!
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-16T05:35:43Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
