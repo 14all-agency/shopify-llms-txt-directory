@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-16T16:00:36.293Z
+- Updated At: 2025-09-16T20:00:36.164Z
 
 ## Products
 
@@ -1327,7 +1327,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Hangon-Drying-Rack-20M-Matt-Black-3.png?v=1727659283
   Price: $114.99 NZD
 - [Brabantia HangOn Drying Rack - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! With 25 meters of flexible drying space, and room for 8 extra clothes hangers, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. Let's hang out!
-  Updated: 2025-09-16T10:37:11Z
+  Updated: 2025-09-16T17:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1789,7 +1789,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $407.99 NZD
 - [Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-09-16T10:52:11Z
+  Updated: 2025-09-16T17:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1873,7 +1873,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $42.99 NZD
 - [Buddy Paper Towel Holder - Black](https://everydayhome.co.nz/products/buddy-paper-twl-hldr-kd-black): Along with its unique appearance, Buddy is also highly practical; the molded figure provides friction and leverage for one-handed tearing and protects the roll from unravelling. Taking up little space on your countertop, maintenance is hassle-free; cleaning only requires a quick wipe-down.
-  Updated: 2025-09-16T10:37:11Z
+  Updated: 2025-09-16T17:07:12Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -1978,7 +1978,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-30-4cm-Open-Skillet-Cir-2.jpg?v=1731903168
   Price: $186.99 NZD
 - [Circulon Scratchdefense A1 - 34cm Open Stirfry](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-34cm-open-stirfry-w-hh): The Open Stirfry with Helper Handle is your culinary companion for mastering the art of stir-frying. This premium kitchen essential boasts a generous 34cm diameter and a convenient helper handle for effortless manoeuvring.
-  Updated: 2025-09-16T11:07:12Z
+  Updated: 2025-09-16T17:07:12Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2755,7 +2755,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Swivel-Napkin-Holder-Black-Nickel-UMBRA-6.jpg?v=1731903285
   Price: $26.99 NZD
 - [Terrace Jewelry Tray - Black/Walnut](https://everydayhome.co.nz/products/terrace-jewelry-tray-black-walnut): The Terrace Jewelry Tray features three stacked trays, each with dividers optimized for organizing jewelry and keeping it safe. Made of high-quality, Rubberwood with an elegant, walnut finish, and a black metal wire frame for stacking its trays, Terrace is a piece you will be proud to leave out in your home. This piece makes excellent use of vertical space, stacking the trays, freeing up space on your vanity or counter, while adding a nice decorative dimension of height and material to any space in your home.
-  Updated: 2025-09-16T10:52:11Z
+  Updated: 2025-09-16T17:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4945,7 +4945,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-656_FERRISRINGHOLDER_WALNUT_CC01.jpg?v=1756181949
   Price: $67.99 NZD
 - [Umbra Buddy Doorstop - Set of 2 Charcoal](https://everydayhome.co.nz/products/umbra-buddy-doorstop-set-of-2-charcoal): A playful and helpful tool, the Buddy Doorstop features Umbra’s signature Buddy figurine. A new addition to the Buddy Family, this imaginative door stopper helps to keep your door open as it appears as if Buddy is stuck underneath the door.
-  Updated: 2025-09-16T10:37:12Z
+  Updated: 2025-09-16T17:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -5246,7 +5246,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
   Price: $33.99 NZD
 - [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-09-16T10:37:12Z
+  Updated: 2025-09-16T17:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
