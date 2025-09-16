@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-15T12:00:27.810Z
+- Updated At: 2025-09-16T08:00:28.614Z
 
 ## Products
 
@@ -90,14 +90,14 @@
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/5F79BB6B-1E8A-45A8-A98E-2247E5BB6725.jpg?v=1752071764
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-15T09:51:49Z
+  Updated: 2025-09-15T22:38:12Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/3826EE8C-2945-4DAC-B112-38C84ACACF15.png?v=1753429832
   Price: 9,90 € EUR
 - [Poudre de feuilles de figuier (Ficus carica) Bio - La forêt nous régale](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre): Poudre de feuilles de figuier bio de bretagne 100% naturelle, riche en bienfaits pour infusions, cuisine et bien-être. d'origine local garantie.
-  Updated: 2025-09-14T18:23:56Z
+  Updated: 2025-09-15T12:07:31Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
