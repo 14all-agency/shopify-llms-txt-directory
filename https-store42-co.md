@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2025-08-01T18:33:16Z
 - Contact Email: Contact@store42.co
-- Updated At: 2025-09-16T12:03:42.432Z
+- Updated At: 2025-09-16T16:04:11.034Z
 
 ## Products
 
@@ -355,9 +355,6 @@
 - [Lenovo ThinkPad P16s Gen3 Laptop](https://store42.co/products/lenovo-thinkpad-p16s-gen-3-21ks0023us-16inch-touchscreen): Discover the Lenovo ThinkPad P16s Gen3 with a vibrant WUXGA display, powerful NVIDIA RTX 500 graphics, and 16GB RAM for ultimate productivity. Ideal for professionals!
   Updated: 2025-09-15T12:10:16Z
   Price: $2,337.99 USD
-- [Lenovo V14 14" FHD Laptop](https://store42.co/products/lenovo-v14-g4-iru-83a0004gus-14-inch-laptop-i3-1315u-8gb): Discover the Lenovo V14 14" FHD Laptop with Intel Core i3, 8GB RAM, and 256GB SSD. Perfect for professionals needing power and portability.
-  Updated: 2025-09-14T12:42:42Z
-  Price: $700.99 USD
 - [ThinkPad E14 Gen 5 - Core i5, 16GB, 512GB SSD](https://store42.co/products/lenovo-thinkpad-e14-gen-5-21jk0052us-14in-touchscreen): Elevate your productivity with the Lenovo ThinkPad E14 Gen 5. Powered by Intel Core i5, it features 16GB RAM and a stunning 14" display.
   Updated: 2025-09-15T12:39:07Z
   Price: $1,107.99 USD
@@ -1087,12 +1084,6 @@
 - [Adesso Wireless Mini Trackball Keyboard](https://store42.co/products/adesso-wkb3100ub-wireless-keyboard-usb-receiver-included): Discover the Adesso Wireless Mini Trackball Keyboard. Perfect for compact spaces, it merges functionality and convenience for unmatched productivity.
   Updated: 2025-09-15T12:12:08Z
   Price: $70.99 USD
-- [Logitech Pebble 2 Wireless Keyboard & Mouse](https://store42.co/products/logitech-pebble-2-combo-keyboard-and-mouse-tonal-rose): Boost your productivity with the Logitech Pebble 2 Combo. Connect up to three devices, enjoy quiet clicks, and embrace eco-friendly design!
-  Updated: 2025-09-15T12:39:16Z
-  Price: $70.99 USD
-- [Morpheus 360 Advantage UC Headset](https://store42.co/products/morpheus-360-advantage-wireless-uc-headset-hs6500sbt): Experience seamless multi-device connectivity with Morpheus 360 Advantage UC Headset. Lightweight, noise-cancelling mic for clear calls, perfect for work!
-  Updated: 2025-09-13T20:33:28Z
-  Price: $129.99 USD
 - [Fellowes PlushTouch Wrist Rest - Black](https://store42.co/products/fellowes-plushtouch-foam-keyboard-wrist-rest-black-9252101): Enhance comfort while you work with Fellowes PlushTouch Wrist Rest. Antimicrobial protection and FoamFusion technology ensure hygiene and softness for your wrists.
   Updated: 2025-09-14T07:28:12Z
   Price: $65.99 USD
@@ -1135,27 +1126,18 @@
 - [Hamilton Buhl HA2 On-Ear Headset](https://store42.co/products/hamilton-buhl-personal-on-ear-stereo-headphone-for-classroom): Discover the Hamilton Buhl HA2 headset: durable, comfortable, and featuring an Anti-Lice storage bag, perfect for enhancing classroom audio experiences.
   Updated: 2025-09-14T12:42:51Z
   Price: $29.99 USD
-- [Matias Wired Aluminum Keyboard for Mac](https://store42.co/products/matias-wired-aluminum-keyboard-usb-mac-layout-for-pros): Upgrade your Mac experience with the Matias Wired Aluminum Keyboard. Features a numeric keypad, USB hub, and precision volume control for ultimate efficiency.
-  Updated: 2025-09-14T12:48:04Z
-  Price: $90.99 USD
 - [Seal Shield Waterproof USB Keyboard](https://store42.co/products/seal-shield-silver-seal-waterproof-keyboard-healthcare): Experience the Seal Shield 104-Key Waterproof Keyboard. Antimicrobial, dishwasher safe, and perfect for clean workspaces. Upgrade your typing now!
   Updated: 2025-09-15T12:37:26Z
   Price: $118.99 USD
 - [Cherry Stream TKL Compact Keyboard](https://store42.co/products/cherry-stream-tkl-wired-keyboard-with-quiet-keys-system): Experience ergonomic comfort with the Cherry Stream TKL Keyboard. Silent SX switches and tenkeyless design enhance productivity in any workspace.
   Updated: 2025-09-13T20:34:41Z
   Price: $49.99 USD
-- [Dell USB Keyboard with Smart Card Reader](https://store42.co/products/dell-keyboard-standard-usb-layout-for-office-use-pro): Boost your productivity and security with the Dell USB Keyboard. It features a built-in Smart Card Reader for safe, quick access to sensitive data.
-  Updated: 2025-09-15T12:40:47Z
-  Price: $73.99 USD
 - [Kensington ErgoSoft Wrist Rest](https://store42.co/products/kensington-ergosoft-gel-wrist-rest-for-slim-keyboards): Upgrade your keyboard experience with the Kensington ErgoSoft Wrist Rest. Enjoy ergonomic support and ultimate comfort for long typing sessions.
   Updated: 2025-09-15T12:12:01Z
   Price: $27.99 USD
 - [HP 450 Wireless Keyboard with Custom Keys](https://store42.co/products/hp-450-programmable-wireless-keyboard-with-custom-shortcuts): Discover the HP 450 Wireless Programmable Keyboard with 20 customizable keys, sleek design, and over 20 months of battery life. Boost your productivity!
   Updated: 2025-09-13T20:34:57Z
   Price: $86.99 USD
-- [Morpheus 360 Bluetooth Over-Ear Headphones](https://store42.co/products/morpheus-360-comfort-plus-hp6500g-wireless-headphones): Discover the Morpheus 360 Bluetooth 5.2 headphones with deep bass, comfy design, and built-in mic. Perfect for music lovers on the go!
-  Updated: 2025-09-13T20:35:01Z
-  Price: $43.99 USD
 - [Logitech G515 TKL Gaming Keyboard](https://store42.co/products/logitech-g-g515-tkl-gaming-keyboard-with-rgb-lighting): Unleash your gaming potential with the Logitech G515 TKL keyboard. Featuring low-profile switches, RGB lighting, and customizable keys for the ultimate experience.
   Updated: 2025-09-14T07:28:14Z
   Price: $145.99 USD
@@ -1165,9 +1147,6 @@
 - [Cherry G84 4100 Ultraslim Keyboard](https://store42.co/products/cherry-g84-4100-ultraslim-black-wired-mechanical-keyboard): Discover the Cherry G84 4100 Ultraslim Keyboard, perfect for mobile use with 104 keys, lightweight design, and exceptional durability. Perfect for tight spaces!
   Updated: 2025-09-14T06:13:30Z
   Price: $124.99 USD
-- [CHERRY KW9100 Ultra-Slim Mac Keyboard](https://store42.co/products/cherry-kw-9100-slim-for-mac-wireless-keyboard-low-profile): Experience elegance and efficiency with the CHERRY KW9100 Slim Wireless Keyboard for Mac—rechargeable, quiet typing, and sleek design for ultimate productivity.
-  Updated: 2025-09-15T12:40:46Z
-  Price: $102.99 USD
 - [Waterproof Backlit Keyboard with Touchpad](https://store42.co/products/seal-shield-glow-series-silicone-backlit-keyboard-touchpad): Elevate your workspace with Seal Shield's 100% waterproof keyboard, featuring backlit keys and a touchpad. Ideal for clean environments like clinics.
   Updated: 2025-09-13T20:35:27Z
   Price: $176.99 USD
@@ -1186,21 +1165,12 @@
 - [Hamilton Buhl HA7 Deluxe Headset](https://store42.co/products/hamilton-buhl-deluxe-stereo-headphone-with-3-5mm-plug): Discover the Hamilton Buhl HA7 Deluxe Headset, featuring noise-isolating sound and durable design, perfect for classrooms and long-term use.
   Updated: 2025-09-15T12:39:21Z
   Price: $53.99 USD
-- [Matias Wireless Aluminum Keyboard](https://store42.co/products/matias-wireless-bluetooth-aluminum-keyboard-space-gray): Upgrade your workspace with the sleek Matias Wireless Aluminum Keyboard in Space Gray. Enjoy seamless switching between devices and a year of battery life.
-  Updated: 2025-09-15T12:42:02Z
-  Price: $123.99 USD
-- [Logitech Wave Keys Ergonomic Keyboard](https://store42.co/products/logitech-wave-keys-for-business-logi-bolt-keyboard-graphite): Experience comfort with the Logitech Wave Keys Wireless Ergonomic Keyboard. Secure, eco-friendly, and designed for prolonged use with enhanced wrist support.
-  Updated: 2025-09-15T12:39:21Z
-  Price: $92.99 USD
 - [Washable Medical Keyboard - Seal Shield SEAL Flex](https://store42.co/products/seal-shield-seal-flex-medical-grade-washable-keyboard): Enhance productivity with the SEAL Flex washable keyboard. Perfect for healthcare and office use with durable, easy-to-clean design and responsive keys.
   Updated: 2025-09-14T12:41:21Z
   Price: $55.99 USD
 - [TG3 Medical USB Keyboard - IP68 Protect](https://store42.co/products/tg3-medical-keyboard-for-healthcare-high-precision-quiet): Discover the TG3 Medical Keyboard, featuring 96 keys, IP68 protection, and fast scissors key switches for efficiency in healthcare environments.
   Updated: 2025-09-14T06:13:43Z
   Price: $195.99 USD
-- [Dell KM7120W Wireless Keyboard & Mouse](https://store42.co/products/dell-km7120w-keyboard-and-mouse-wireless-usb-combo): Elevate your workspace with the Dell KM7120W Wireless Keyboard and Mouse Set. Enjoy seamless connectivity and precise tracking with elegant design.
-  Updated: 2025-09-15T12:40:46Z
-  Price: $113.99 USD
 - [Logitech MX Keys S Keyboard](https://store42.co/products/logitech-mx-keys-s-wireless-keyboard-low-profile-usb-c): Upgrade your typing with the Logitech MX Keys S. This low-profile, smart backlit keyboard pairs with 3 devices and offers USB-C recharge. Perfect for productivity!
   Updated: 2025-09-15T12:39:22Z
   Price: $156.99 USD
@@ -1219,9 +1189,6 @@
 - [Waterproof Antimicrobial Keyboard](https://store42.co/products/seal-shield-silver-seal-keyboard-long-cable-by-seal-shield): Discover the Seal Shield Silver Seal™ IP68 Keyboard. Antimicrobial, dishwasher safe, and waterproof for a hygienic typing experience. Order now!
   Updated: 2025-09-15T12:37:46Z
   Price: $118.99 USD
-- [Morpheus 360 Wireless Over-Ear Headphones](https://store42.co/products/morpheus-360-comfort-plus-wireless-headphones-hp6500l): Discover superior sound and all-day comfort with Morpheus 360 Wireless Over-Ear Headphones. Perfect for music, calls, and travel. Order yours today!
-  Updated: 2025-09-15T12:37:34Z
-  Price: $43.99 USD
 - [Waterproof USB Keyboard - STK503](https://store42.co/products/seal-shield-stk503-keyboard-waterproof-spill-resistant): Boost productivity with the Seal Shield STK503 Waterproof USB Keyboard. Durable, easy to set up, and perfect for any workspace needs.
   Updated: 2025-09-15T12:37:34Z
   Price: $92.99 USD
@@ -1240,36 +1207,21 @@
 - [3M Antibacterial Gel Wrist Rest](https://store42.co/products/3m-gel-wristrest-platform-for-keyboard-cushioned-support): Experience comfort and hygiene with the 3M Antibacterial Gel Wrist Rest. Adjustable tilt design ensures optimal wrist alignment and ergonomic support.
   Updated: 2025-09-14T07:14:19Z
   Price: $62.99 USD
-- [Morpheus 360 Serenity Wireless Headphones](https://store42.co/products/morpheus-360-serenity-over-ear-bluetooth-5-4-hp5500b): Discover the Morpheus 360 Serenity Wireless Over-Ear Headphones with HiFi sound, Bluetooth 5.0, and unbeatable comfort—perfect for music and calls.
-  Updated: 2025-09-15T12:40:47Z
-  Price: $59.99 USD
-- [Belkin SoundForm Adapt Wireless Headset](https://store42.co/products/belkin-soundform-adapt-wireless-over-ear-headset-boom-mic): Enjoy 65 hours of playtime with the eco-friendly Belkin SoundForm Adapt headset. Bluetooth 5.2, ENC mic and superior comfort for all your needs.
-  Updated: 2025-09-15T12:37:43Z
-  Price: $59.99 USD
 - [Lenovo TrackPoint Keyboard II - Wireless Comfort](https://store42.co/products/lenovo-thinkpad-trackpoint-keyboard-ii-us-english-bluetooth): Elevate your typing with the ergonomic Lenovo TrackPoint Keyboard II. Supports 2 devices, ideal for Windows & Android, enhancing productivity effortlessly.
   Updated: 2025-09-14T12:42:55Z
   Price: $144.99 USD
-- [EcoSmart Ergonomic Keyboard by Targus](https://store42.co/products/targus-sustainable-ergonomic-ecosmart-keyboard-for-work): Enhance your typing with the EcoSmart Ergonomic Keyboard from Targus. Sustainable design meets multi-device connectivity for ultimate comfort and efficiency.
-  Updated: 2025-09-13T20:37:58Z
-  Price: $138.99 USD
 - [Kensington Pro Fit Wireless Keyboard](https://store42.co/products/kensington-pro-fit-wireless-keyboard-black-full-size): Experience worry-free typing with the Kensington Pro Fit Wireless Keyboard. Its Waterseal Technology protects against spills, ensuring durability and performance.
   Updated: 2025-09-15T12:12:06Z
   Price: $51.99 USD
 - [DSI IP68 Waterproof USB Keyboard](https://store42.co/products/dsi-ip68-silicone-mini-wired-keyboard-with-touchpad): Explore the DSI IP68 Waterproof USB Keyboard, perfect for rugged environments. Its durable design and integrated touchpad enhance productivity. Get yours today!
   Updated: 2025-09-14T07:28:35Z
   Price: $151.99 USD
-- [Morpheus 360 Wireless Over-Ear Headphones](https://store42.co/products/morpheus-360-comfort-plus-wireless-over-ear-hp6500b): Experience unmatched sound with Morpheus 360 Wireless Headphones. Enjoy deep bass, 10-hour battery life, and seamless Bluetooth 5.2 connectivity.
-  Updated: 2025-09-13T20:38:12Z
-  Price: $43.99 USD
 - [Antimicrobial Waterproof Keyboard](https://store42.co/products/seal-shield-silver-seal-medical-grade-keyboard-waterproof): Discover the Seal Shield Silver Seal™ Keyboard with waterproof and antimicrobial features, perfect for clean and safe workspaces in healthcare and beyond.
   Updated: 2025-09-15T12:35:57Z
   Price: $129.99 USD
 - [Adesso Illuminated Large Print Keyboard](https://store42.co/products/adesso-large-print-illuminated-desktop-keyboard-led-backlit): Discover the Adesso AKB-139CB, a multimedia illuminated keyboard with 2X large print keys and blue backlighting for flawless typing in any lighting.
   Updated: 2025-09-15T12:35:56Z
   Price: $49.99 USD
-- [Logitech Wave Keys Ergonomic Wireless Keyboard](https://store42.co/products/logitech-wave-keys-wireless-keyboard-cushioned-palm-rest): Discover the Logitech Wave Keys ergonomic wireless keyboard featuring memory foam palm rest and Bluetooth connectivity for comfortable, productive typing.
-  Updated: 2025-09-15T12:37:49Z
-  Price: $92.99 USD
 - [Ergonomic Left-Handed USB Keyboard](https://store42.co/products/brand-left-handed-ergonomic-keyboard-wired-usb-black): Enhance typing comfort with the Ashape Left-Handed Ergonomic Keyboard. Designed to prevent RSI, it features an A-shape layout and membrane switches for durability.
   Updated: 2025-09-15T12:13:26Z
   Price: $49.99 USD
@@ -1279,9 +1231,6 @@
 - [Fellowes Ergonomic Gel Palm Support](https://store42.co/products/fellowes-keyboard-wrist-rest-palm-support-black-9183201): Enhance your typing comfort with the Fellowes Ergonomic Gel Keyboard Palm Support. Antimicrobial, non-skid, and designed to alleviate wrist strain.
   Updated: 2025-09-14T06:51:02Z
   Price: $71.99 USD
-- [Dell KB216 Wired Keyboard - Compact & Functional](https://store42.co/products/dell-kb216-usb-wired-keyboard-104key-quiet-typing-office): Discover the Dell KB216 USB Wired Keyboard. Enjoy 104 keys, sleek design, and quiet operation for an optimal typing experience at work or play.
-  Updated: 2025-09-15T12:40:51Z
-  Price: $26.99 USD
 - [CHERRY KC 1000 Keyboard - Durable & Quiet](https://store42.co/products/cherry-jk-0800-economical-corded-keyboard-pc-compatible): Discover the CHERRY KC 1000 Corded Keyboard. Enjoy whisper keys, durability, and 4 hotkeys for enhanced productivity in any office environment.
   Updated: 2025-09-14T06:14:31Z
   Price: $35.99 USD
@@ -1291,12 +1240,6 @@
 - [Dell Premier KB900 Wireless Keyboard](https://store42.co/products/dell-premier-kb900-keyboard-for-office-productivity): Discover the Dell Premier KB900 Wireless Keyboard with Bluetooth 5.1, backlighting, and an integrated numeric keypad for unmatched typing comfort. Try it now!
   Updated: 2025-09-15T12:42:04Z
   Price: $164.99 USD
-- [Dell KB522 Quiet USB Keyboard](https://store42.co/products/dell-kb522-business-multimedia-keyboard-for-office-use): Discover the Dell KB522 Wired USB Keyboard, featuring quiet keys, ergonomic palm rest, and multimedia functionality for enhanced productivity at home or office.
-  Updated: 2025-09-15T12:40:52Z
-  Price: $51.99 USD
-- [Logitech MK670 Wave Keys & M550 Mouse Combo](https://store42.co/products/logitech-wave-keys-mk670-keyboard-and-mouse-palm-rest): Elevate your productivity with the Logitech MK670 Wave Keys & Signature M550 L Mouse. Experience ergonomic comfort and seamless Bluetooth connectivity today!
-  Updated: 2025-09-15T12:37:55Z
-  Price: $102.99 USD
 - [Logitech MX Keys S Wireless Keyboard](https://store42.co/products/logitech-mx-keys-s-wireless-keyboard-low-profile-usb-c-1): Elevate your typing experience with the Logitech MX Keys S keyboard. Enjoy smart backlighting, Bluetooth connectivity, and customizable actions for ultimate efficiency.
   Updated: 2025-09-15T12:37:51Z
   Price: $156.99 USD
@@ -1309,21 +1252,12 @@
 - [Kids' Safe Foam Headphones – Flex-Phones](https://store42.co/products/hamilton-buhl-flex-phones-foam-headphones-for-school): Explore Hamilton Buhl Flex-Phones for kids. Soft, safe, and durable headphones that deliver superior sound quality while protecting young ears. Order now!
   Updated: 2025-09-14T06:14:40Z
   Price: $69.99 USD
-- [Logitech Pebble 2 Eco Wireless Combo](https://store42.co/products/logitech-pebble-2-combo-keyboard-and-mouse-bluetooth): Discover the Logitech Pebble 2 Combo—a sleek, eco-friendly wireless keyboard and mouse duo with multi-device support and quiet typing for every workspace.
-  Updated: 2025-09-13T20:40:09Z
-  Price: $70.99 USD
-- [Logitech Pebble Keys 2 Wireless Keyboard](https://store42.co/products/logitech-pebble-keys-2-k380s-wireless-bluetooth-keyboard): Elevate your typing with the Logitech Pebble Keys 2. Slim, eco-friendly, and versatile, this keyboard connects seamlessly to three devices with ease.
-  Updated: 2025-09-15T12:39:26Z
-  Price: $59.99 USD
 - [Kensington Duo Gel Wave Wrist Rest](https://store42.co/products/kensington-duo-gel-wave-keyboard-wrist-rest-ergonomic): Experience comfort with the Kensington Duo Gel Wave Wrist Rest. Ergonomic gel support and cooling design enhance your typing productivity and style.
   Updated: 2025-09-14T06:14:41Z
   Price: $40.99 USD
 - [Durable On-Ear Stereo Headphones](https://store42.co/products/hamilton-buhl-on-ear-stereo-headphone-for-classrooms): Discover the Hamilton Buhl HA2V headphones designed for comfort and durability in classrooms. Features include in-line volume control and anti-lice storage bag.
   Updated: 2025-09-15T12:40:52Z
   Price: $22.99 USD
-- [Logitech Pebble 2 Wireless Combo](https://store42.co/products/logitech-pebble-2-combo-logi-bolt-keyboard-and-mouse): Upgrade your workspace with the Logitech Pebble 2 Combo, a quiet, eco-friendly wireless keyboard and mouse designed for seamless multitasking and style.
-  Updated: 2025-09-15T12:39:26Z
-  Price: $70.99 USD
 - [Waterproof Wireless Medical Keyboard](https://store42.co/products/seal-shield-cleanwipe-wireless-waterproof-keyboard-premium): Discover the Seal Shield Cleanwipe Waterproof Wireless Keyboard, designed for medical settings with AES128 security, chiclet keys, and waterproof durability.
   Updated: 2025-09-15T12:35:56Z
   Price: $134.99 USD
@@ -1384,9 +1318,6 @@
 - [Dell EcoLoop Urban Sleeve for Laptops](https://store42.co/products/dell-ecoloop-urban-sleeve-for-11-to-14-notebook-gray): Travel in style with the Dell EcoLoop Urban Sleeve. Eco-friendly, lightweight, and designed for laptops up to 14 inches, it offers both protection and convenience.
   Updated: 2025-09-13T20:43:14Z
   Price: $56.99 USD
-- [Lenovo 27" ThinkVision S27i-30 Monitor](https://store42.co/products/lenovo-thinkvision-s27i-30-27-inch-fhd-storm-gray-monitor): Discover the Lenovo ThinkVision S27i-30 27" Full HD IPS Monitor. Exceptional clarity, vibrant colors, and rapid response for work or play. Upgrade today!
-  Updated: 2025-09-15T12:39:27Z
-  Price: $296.99 USD
 - [Dell 5-Year Monitor Warranty Upgrade](https://store42.co/products/dell-3y-to-5y-basic-advanced-exchange-upgrade-plan-service): Secure your Dell monitor with a 5-Year Advanced Exchange Warranty. Enjoy quick replacement service to minimize downtime and keep your workflow uninterrupted.
   Updated: 2025-09-13T20:43:27Z
   Price: $38.99 USD
@@ -1435,9 +1366,6 @@
 - [Dell Keep Your Drive Service](https://store42.co/products/dell-3y-keep-your-hard-drive-warranty-and-data-protection): Secure your data with Dell's Keep Your Drive Service. Maintain ownership of your hard drive for tailored protection and compliance post-failure.
   Updated: 2025-09-13T20:44:48Z
   Price: $28.99 USD
-- [Xerox 550 Sheet Paper Tray for B410](https://store42.co/products/xerox-paper-tray-for-office-laser-printers-high-capacity): Enhance your printing with the Xerox 550 sheet adjustable paper tray for B410. Supports legal size paper and boosts efficiency in your office.
-  Updated: 2025-09-14T12:44:36Z
-  Price: $298.99 USD
 - [Dell ProSupport Plus 4-Year Coverage](https://store42.co/products/dell-3y-next-business-day-to-4y-prosupport-plus-upgrade): Secure your business with Dell ProSupport Plus. Enjoy 24x7 proactive support, self-healing solutions, and peace of mind for all your IT needs.
   Updated: 2025-09-13T20:44:50Z
   Price: $477.99 USD
@@ -1531,9 +1459,6 @@
 - [Dell ProSupport for PCs - 24x7 Expert Aid](https://store42.co/products/dell-4y-prosupport-upgrade-from-3y-next-business-day): Boost your business efficiency with Dell ProSupport. Enjoy 24x7 expert assistance, next-day repairs, and proactive issue resolution for seamless operations.
   Updated: 2025-09-13T20:47:35Z
   Price: $302.99 USD
-- [Lexmark High-Performance Transfer Module](https://store42.co/products/lexmark-transfer-module-for-office-printers-and-workgroups): Boost your Lexmark printer's performance with the reliable Transfer Module, ensuring sharp prints and extended durability for all your printing needs.
-  Updated: 2025-09-15T12:37:42Z
-  Price: $416.99 USD
 - [Xerox VersaLink B620DN Printer](https://store42.co/products/xerox-versalink-b620-dn-wireless-led-printer-monochrome): Discover the Xerox VersaLink B620DN, a high-speed monochrome laser printer with advanced wireless connectivity and a robust 650-sheet capacity for any office.
   Updated: 2025-09-15T12:07:25Z
   Price: $1,687.99 USD
@@ -1579,12 +1504,6 @@
 - [Dell ProSupport Upgrade for PCs](https://store42.co/products/dell-upgrade-from-1y-next-business-day-to-4y-prosupport): Maximize your productivity with Dell ProSupport Upgrade, featuring 24x7 access to expert engineers and next business day onsite service for 4 years.
   Updated: 2025-09-13T20:48:53Z
   Price: $389.99 USD
-- [Xerox C410 Color Printer](https://store42.co/products/xerox-c410-wired-color-laser-printer-for-office-use): Discover the Xerox C410 Color Printer for vibrant printing, easy setup, and eco-friendly features. Perfectly compact for any workspace, enhancing productivity.
-  Updated: 2025-09-14T12:43:07Z
-  Price: $1,220.99 USD
-- [Xerox VersaLink C625 Multifunction Printer](https://store42.co/products/xerox-versalink-c625-wireless-and-wired-color-mfp-printer): Elevate your office efficiency with the Xerox VersaLink C625 printer. Enjoy high-speed printing, duplex capabilities, and stunning color quality!
-  Updated: 2025-09-15T12:37:45Z
-  Price: $4,227.99 USD
 - [HID Magnetic Head Board - Rugged Security Tool](https://store42.co/products/hid-magnetic-head-board-for-printers-copiers-fax-machines): Boost your security with the HID Magnetic Head Board. This durable black accessory offers reliable performance for all access control systems. Easy installation!
   Updated: 2025-09-13T20:49:11Z
   Price: $1,009.99 USD
@@ -1600,9 +1519,6 @@
 - [Microsoft Surface Pro 10 - 2-in-1 Power](https://store42.co/products/microsoft-surface-pro-10-13-inch-vpro-16gb-256gb-platinum): Discover the Microsoft Surface Pro 10, a versatile 2-in-1 laptop with 16GB RAM, 256GB SSD, stunning display, and AI features for ultimate productivity.
   Updated: 2025-09-15T12:08:57Z
   Price: $1,836.99 USD
-- [Epson WorkForce Pro ST C5500 Printer](https://store42.co/products/epson-workforce-pro-st-c5500-inkjet-mfp-printer-outgoing-fax): Boost your office efficiency with the Epson WorkForce Pro ST C5500. Fast printing, high resolution, and dual-sided capability make it ideal for productivity.
-  Updated: 2025-09-13T20:49:46Z
-  Price: $1,558.99 USD
 - [Xerox Input Tray for Smooth Printing](https://store42.co/products/xerox-input-tray-replacement-for-xerox-desktop-printers): Upgrade your printer with the Xerox Input Tray. Enjoy seamless paper feeding and minimize jams, perfect for home and office use. Boost your productivity!
   Updated: 2025-09-13T20:49:47Z
   Price: $2,361.99 USD
@@ -1618,18 +1534,12 @@
 - [Lexmark MX432adwe Laser MFP](https://store42.co/products/lexmark-mx432adwe-monochrome-laser-multifunction-printer-taa): Discover the Lexmark MX432adwe Monochrome Laser MFP delivering fast 42 ppm printing. Compact design, robust security, and eco-friendly features. Ideal for workgroups.
   Updated: 2025-09-15T12:34:06Z
   Price: $1,096.99 USD
-- [Xerox VersaLink B415 Multifunction Printer](https://store42.co/products/xerox-versalink-b415-monochrome-wireless-laser-printer): Discover the Xerox VersaLink B415 MFP, an all-in-one wireless printer with cloud connectivity, intuitive touchscreen, and top-notch security for your office.
-  Updated: 2025-09-15T12:39:26Z
-  Price: $2,047.99 USD
 - [HP Elite 805 G9 Small Form Factor PC](https://store42.co/products/hp-elite-805-g9-desktop-ryzen-5-8600g-32gb-512gb-sff): Discover the HP Elite 805 G9 with Ryzen 5, 32GB RAM & 512GB SSD. Unmatched performance, security & productivity for your workspace.
   Updated: 2025-09-13T20:50:40Z
   Price: $1,481.99 USD
 - [Epson Roll Media Adapter for Printers](https://store42.co/products/epson-roll-media-adapter-for-wide-format-printers-pro): Enhance your Epson printer with the Roll Media Adapter. Enjoy quick installation and seamless use of roll media for all your printing projects.
   Updated: 2025-09-14T12:43:06Z
   Price: $192.99 USD
-- [Logitech Brio 105 Webcam | HD Quality](https://store42.co/products/logitech-brio-105-webcam-graphite-ultra-hd-home-office): Upgrade your video calls with the Logitech Brio 105 Webcam. Enjoy stunning 1080P Full HD clarity and a sleek design for professional streaming.
-  Updated: 2025-09-15T12:37:46Z
-  Price: $49.99 USD
 - [Brother PocketJet 8 Mobile Printer](https://store42.co/products/brother-pocketjet-8-pj-863-monochrome-printer-bluetooth-usb): Discover the Brother PocketJet 8, your portable solution for high-speed thermal printing. Enjoy 300 DPI resolution and Bluetooth connectivity for on-the-go use.
   Updated: 2025-09-15T12:34:07Z
   Price: $686.99 USD
@@ -1657,9 +1567,6 @@
 - [Hamilton Buhl SuperFlix™ HD Webcam](https://store42.co/products/hamilton-buhl-superflix-webcam-5-megapixel-30-fps-usb-2-0): Discover crisp video streaming with the Hamilton Buhl SuperFlix™ 5MP HD Webcam. Enjoy flexible positioning for any setting and enhanced low-light performance.
   Updated: 2025-09-13T20:51:42Z
   Price: $49.99 USD
-- [Poly Studio E70 4K AI Camera](https://store42.co/products/poly-studio-e70-smart-camera-ai-framing-for-meetings): Enhance your Zoom meetings with the Poly E70 4K AI Camera. Enjoy automatic framing for all participants and superior video quality.
-  Updated: 2025-09-15T12:39:32Z
-  Price: $4,793.99 USD
 - [Lexmark MX431adw Laser Printer](https://store42.co/products/lexmark-mx431adw-monochrome-laser-multifunction-printer): Discover the Lexmark MX431adw Monochrome Multifunction Laser Printer. Enjoy fast, sharp prints, ideal for both home and office use. Compact and efficient!
   Updated: 2025-09-15T12:37:47Z
   Price: $748.99 USD
@@ -1672,9 +1579,6 @@
 - [Dell ProSupport 5-Year Monitor Service](https://store42.co/products/dell-prosupport-upgrade-5y-from-3y-basic-advanced-exchange): Get Dell ProSupport for monitors including 24/7 support and Next Business Day replacement. Enjoy hassle-free performance and expert assistance today.
   Updated: 2025-09-13T20:52:16Z
   Price: $589.99 USD
-- [Fujitsu Fi-7600 Brake Roller Replacement](https://store42.co/products/fujitsu-fi-7600-brake-roller-consumable-for-scanner): Enhance your Fujitsu Fi-7600 scanner's performance with our premium brake roller. Durable and reliable for smooth, uninterrupted scanning. Order now!
-  Updated: 2025-09-15T12:42:21Z
-  Price: $78.99 USD
 - [Dell ProSupport Plus Service](https://store42.co/products/dell-upgrade-from-1y-mail-in-service-to-4y-prosupport-plus): Elevate your IT support with Dell ProSupport Plus. Enjoy 24/7 expert access, proactive monitoring, and enhanced productivity for your organization.
   Updated: 2025-09-13T20:52:18Z
   Price: $430.99 USD
@@ -1687,18 +1591,12 @@
 - [Xerox 2000 Sheet Finisher](https://store42.co/products/xerox-2000-sheet-office-finisher-high-capacity-collating): Boost your office productivity with the Xerox 2000 Sheet Finisher. Efficiently handle 2000 sheets while ensuring a professional finish for your documents.
   Updated: 2025-09-15T12:39:31Z
   Price: $2,682.99 USD
-- [Fujitsu Brake Roller Scanner](https://store42.co/products/fujitsu-brake-roller-replacement-for-scansnap-scanners): Upgrade your scanning with the Fujitsu Brake Roller. Durable, 200K sheets capacity ensures efficiency and reliable document handling for any busy environment.
-  Updated: 2025-09-15T12:40:52Z
-  Price: $55.99 USD
 - [Samsung Galaxy Tab A9 - 11" Display](https://store42.co/products/samsung-galaxy-tab-a9-plus-tablet-11-wuxga-4gb-64gb-graphite): Experience the Samsung Galaxy Tab A9 with stunning 11" display, 4GB RAM, 128GB storage, and 5G connectivity. Perfect for work or play!
   Updated: 2025-09-15T12:10:41Z
   Price: $252.99 USD
 - [Lenovo ThinkStation P8 Workstation](https://store42.co/products/lenovo-thinkstation-p8-30hh002xus-ryzen-tr-pro-7945wx-2tb-ssd): Discover the Lenovo ThinkStation P8 with Ryzen Threadripper PRO, 2TB SSD, and 64GB RAM. Unleash your creativity and power through your projects today!
   Updated: 2025-09-14T12:14:36Z
   Price: $4,556.99 USD
-- [Canon ImageClass LBP247DW Printer](https://store42.co/products/canon-imageclass-lbp247dw-wireless-monochrome-laser-printer): Discover the efficiency of the Canon ImageClass LBP247DW Printer. With wireless connectivity and 42 PPM speed, it's perfect for home or office use.
-  Updated: 2025-09-15T12:39:33Z
-  Price: $737.99 USD
 - [Creative 2K QHD Webcam with Zoom](https://store42.co/products/creative-live-cam-sync-v3-2k-qhd-usb-webcam-4x-zoom-2-mics): Experience stunning video clarity with the Creative Live Cam Sync V3. Enjoy 4X zoom and dual mics for superior audio in your virtual meetings.
   Updated: 2025-09-15T12:37:55Z
   Price: $70.99 USD
@@ -1954,9 +1852,6 @@
 - [Lenovo Wired Mouse - 1000 DPI, Black](https://store42.co/products/lenovo-basic-wired-mouse-usb-a-plug-and-play-ergonomic): Enhance your productivity with the Lenovo Wired Mouse. Its ambidextrous design, 1000 DPI sensor, and plug-and-play feature make it a reliable choice.
   Updated: 2025-09-15T12:42:26Z
   Price: $34.99 USD
-- [Samsung Galaxy Tab S9: Rugged Power](https://store42.co/products/samsung-galaxy-tab-s9-sm-x71-rugged-11inch-android-13-128gb): Discover the Samsung Galaxy Tab S9 with 8GB RAM, 128GB storage, rugged design, and stunning AMOLED display. Perfect for creativity and productivity!
-  Updated: 2025-09-15T12:39:36Z
-  Price: $872.99 USD
 - [15" Magnetic Privacy Screen for MacBook](https://store42.co/products/startech-laptop-privacy-screen-15in-macbook-pro-air-magnetic): Protect your MacBook's screen with StarTech's 15" magnetic privacy filter that reduces blue light and glare, ensuring secure viewing everywhere you go.
   Updated: 2025-09-14T12:43:06Z
   Price: $99.99 USD
@@ -2083,9 +1978,6 @@
 - [ZAGG Privacy Screen Protector for iPhone 14 Pro](https://store42.co/products/invisibleshield-glass-elite-privacy-360-for-iphone-14-pro): Secure your iPhone 14 Pro with ZAGG Glass Elite Privacy 360. Enjoy 4-way viewing protection and an anti-microbial treatment for a cleaner screen.
   Updated: 2025-09-13T21:05:06Z
   Price: $81.99 USD
-- [Philips 22" Full HD LED Monitor](https://store42.co/products/philips-221v8l-22-inch-full-hd-led-monitor-v-line-display): Discover vibrant visuals with the Philips 22" Full HD LED Monitor. Enjoy Adaptive-Sync, Flicker-Free, and LowBlue Mode for comfortable viewing.
-  Updated: 2025-09-15T12:40:57Z
-  Price: $97.99 USD
 - [Acer Vero B247Y Eco LCD Monitor 24"](https://store42.co/products/acer-vero-b247y-taa-24-inch-lcd-monitor-black-full-hd): Discover the eco-friendly Acer Vero B247Y, a 24" LCD monitor with rapid 4ms response, vibrant visuals, and seamless FreeSync for gaming and work.
   Updated: 2025-09-11T01:35:28Z
   Price: $231.99 USD
@@ -2113,9 +2005,6 @@
 - [MacBook Pro 14" Privacy Screen](https://store42.co/products/startech-com-14-inch-macbook-pro-privacy-screen-magnetic): Protect sensitive data with the StarTech 14" Privacy Screen for MacBook Pro. Anti-glare, blue light reduction, and easy installation make it essential.
   Updated: 2025-09-14T12:14:42Z
   Price: $85.99 USD
-- [Shell Shock Glass Screen Protector](https://store42.co/products/cellairis-shell-shock-tempered-glass-screen-protection): Guard your device with the Cellairis Shell Shock Tempered Glass Screen Protector. Achieving 9H impact resistance and sleek, case-friendly design!
-  Updated: 2025-09-13T21:06:03Z
-  Price: $38.99 USD
 - [Dell UltraSharp U2724D Monitor - 27-inch](https://store42.co/products/dell-ultrasharp-u2724d-27-inch-wqhd-led-monitor-16-9): Discover vibrant visuals with the Dell UltraSharp U2724D 27" WQHD monitor. Enjoy 120Hz refresh rate, IPS Black tech, and ergonomic design for ultimate comfort.
   Updated: 2025-09-15T12:07:40Z
   Price: $610.99 USD
@@ -2137,12 +2026,6 @@
 - [Targus 4Vu Privacy Screen Protector](https://store42.co/products/targus-privacy-screen-protector-taa-compliant-for-laptops): Safeguard your screen with Targus 4Vu Privacy Protector. Experience enhanced privacy, brilliant clarity, and anti-microbial protection. Easy install!
   Updated: 2025-09-13T21:06:53Z
   Price: $89.99 USD
-- [Acer Vero V7 27" WQHD Monitor](https://store42.co/products/acer-vero-v7-v277u-e-27-inch-wqhd-led-monitor-black): Experience stunning visuals with the Acer Vero V7 Monitor. Enjoy 2560x1440 resolution, 100Hz refresh rate, and versatile HDMI connectivity for all your needs.
-  Updated: 2025-09-14T12:46:15Z
-  Price: $279.99 USD
-- [Portable 14.1" IPS Monitor - Duex Max](https://store42.co/products/mobile-pixels-duex-max-ds-14-inch-class-lcd-monitor-black): Boost your productivity with the Mobile Pixels Duex Max 14.1" IPS monitor. Enjoy vibrant visuals, auto-rotate, and eye care tech for seamless multitasking.
-  Updated: 2025-09-12T12:20:11Z
-  Price: $284.99 USD
 - [3M 13.3" Laptop Privacy Filter](https://store42.co/products/3m-privacy-filter-for-13-3-inch-widescreen-laptop-by-3m): Protect your sensitive data with the 3M 13.3" Privacy Filter. Enjoy a glare-free, vivid display with black out technology for optimal privacy anywhere.
   Updated: 2025-09-13T21:07:10Z
   Price: $63.99 USD
@@ -2152,9 +2035,6 @@
 - [ViewSonic VP275-4K 27" Monitor](https://store42.co/products/viewsonic-vp275-4k-27-ips-4k-uhd-monitor-for-surface): Discover the ViewSonic VP275-4K 27" UHD monitor, featuring USB-C, incredible color accuracy, and ergonomic design for optimal comfort and productivity.
   Updated: 2025-09-12T11:30:57Z
   Price: $690.99 USD
-- [Elo 1515L 15" Touch Monitor](https://store42.co/products/elo-1000-series-1515l-touch-screen-monitor-retail-grade): Upgrade your POS system with the Elo 1515L 15-Inch Touch Monitor. Reliable, high-performance display for retail and hospitality environments.
-  Updated: 2025-09-13T21:07:42Z
-  Price: $905.99 USD
 - [StarTech 24" Privacy Screen Filter](https://store42.co/products/startech-com-monitor-privacy-screen-24-inch-blue-light): Protect your data and eyes with the StarTech 24" Privacy Screen Filter, featuring anti-glare, blue light reduction, and antimicrobial properties.
   Updated: 2025-09-15T12:42:36Z
   Price: $114.99 USD
@@ -2176,18 +2056,12 @@
 - [3M 15.6" Laptop Privacy Filter](https://store42.co/products/3m-privacy-filter-for-15-6-inch-laptop-16-by-9-pf156w9b): Protect your screen with the 3M 15.6-Inch Laptop Privacy Filter. Offers reversible matte/glossy design, reducing glare and ensuring data privacy.
   Updated: 2025-09-15T12:09:11Z
   Price: $74.99 USD
-- [Acer Nitro XV272U 27" Gaming Monitor](https://store42.co/products/acer-nitro-xv272u-w2-27-inch-wqhd-gaming-monitor-16x9): Elevate your gaming with the Acer Nitro XV272U. Enjoy WQHD resolution, rich colors, and seamless connectivity, ideal for gamers and creators alike.
-  Updated: 2025-09-14T12:46:15Z
-  Price: $540.99 USD
 - [Lenovo ThinkVision T22i-30 22" Monitor](https://store42.co/products/lenovo-thinkvision-t22i-30-22-fhd-led-monitor-raven-black): Experience vibrant visuals and swift response with the Lenovo ThinkVision T22i-30 22" IPS Full HD Monitor, perfect for work and play.
   Updated: 2025-09-15T12:40:58Z
   Price: $219.99 USD
 - [Targus 9H Glass Screen Protector for Surface](https://store42.co/products/targus-tempered-glass-antimicrobial-screen-protector-clear): Safeguard your Surface Pro 10/9/8 with Targus 9H Tempered Glass. Antimicrobial, scratch-resistant, and easy to apply for ultimate clarity.
   Updated: 2025-09-13T21:08:39Z
   Price: $82.99 USD
-- [Dell U3824DW 38" Curved Monitor](https://store42.co/products/dell-ultrasharp-u3824dw-38-inch-wqhd-curved-monitor-21-9): Boost your productivity with the Dell U3824DW 38" WQHD+ curved monitor. Enjoy stunning visuals, seamless multitasking, and extensive connectivity.
-  Updated: 2025-09-15T12:39:38Z
-  Price: $1,812.99 USD
 - [Kensington 28" Privacy Screen Filter](https://store42.co/products/kensington-fp280w10-privacy-screen-28in-1610-monitors): Enhance privacy and reduce blue light with the Kensington 28" FP280W10 screen filter. Ideal for offices, it minimizes glare and improves eye comfort.
   Updated: 2025-09-11T01:36:05Z
   Price: $159.99 USD
@@ -2206,9 +2080,6 @@
 - [ViewSonic 27" 4K Monitor with USB-C](https://store42.co/products/viewsonic-vx2776-4k-mhdu-27-inch-4k-ips-monitor-hdr10-usb-c): Elevate your workspace with the ViewSonic 27" 4K UHD monitor. Stunning visuals, USB-C connectivity, and HDR10 support for all your viewing needs!
   Updated: 2025-09-14T12:43:11Z
   Price: $460.99 USD
-- [Dell P2424HT 24" Touch Monitor](https://store42.co/products/dell-p2424ht-24-inch-led-touchscreen-monitor-16-by-9-5-ms): Elevate your workspace with the Dell P2424HT Touch Monitor. Enjoy a 10-point touch screen, Full HD clarity, and seamless USB-C connectivity.
-  Updated: 2025-09-15T12:37:56Z
-  Price: $624.99 USD
 - [ViewSonic 27" Full HD Monitor](https://store42.co/products/viewsonic-va2709m-27-inch-ips-full-hd-monitor-100hz-hdmi-vga): Discover the ViewSonic VA2709M – a 27" Full HD IPS monitor with a 100Hz refresh rate for ultimate gaming and work efficiency. Eye care tech included!
   Updated: 2025-09-14T12:40:01Z
   Price: $209.99 USD
@@ -2218,9 +2089,6 @@
 - [3M Privacy Screen Filter 13.3"](https://store42.co/products/3m-privacy-screen-filter-for-laptops-2-way-privacy): Protect your laptop screen with 3M's Privacy Screen Filter for 13.3" notebooks. Guard against scratches and ensure your data stays private!
   Updated: 2025-09-14T12:14:42Z
   Price: $80.99 USD
-- [Lenovo ThinkCentre 22" FHD Monitor](https://store42.co/products/lenovo-thinkcentre-tiny-in-one-22-gen-5-webcam-full-hd-led): Experience stunning visuals with the Lenovo ThinkCentre 22" FHD Monitor. Enjoy vibrant colors, fast response time, and versatile connectivity options.
-  Updated: 2025-09-14T12:43:15Z
-  Price: $421.99 USD
 - [ViewSonic VG3456A 34" WQHD Monitor](https://store42.co/products/viewsonic-vg3456a-34-ultrawide-qhd-ips-monitor-usb-c-dock): Boost productivity with the ViewSonic VG3456A 34" UltraWide WQHD Monitor. Enjoy 100Hz refresh, USB-C docking, and ergonomic design for comfort.
   Updated: 2025-09-15T12:09:10Z
   Price: $915.99 USD
@@ -2236,9 +2104,6 @@
 - [StarTech 34" Ultrawide Privacy Screen](https://store42.co/products/startech-com-34in-ultrawide-monitor-privacy-screen-21-by-9): Secure your data with the StarTech 34" Ultrawide Privacy Screen Filter. Reduces blue light and offers antimicrobial protection. Perfect for any workspace.
   Updated: 2025-09-15T12:42:41Z
   Price: $186.99 USD
-- [MacBook Pro Privacy Screen 14"](https://store42.co/products/startech-com-14-inch-macbook-pro-privacy-screen-anti-glare): Protect your MacBook Pro with this 14" privacy screen. Enjoy reversible matte/glossy finishes and blue light reduction for ultimate eye comfort and privacy.
-  Updated: 2025-09-12T12:23:17Z
-  Price: $77.99 USD
 - [Kensington 17.3" Privacy Screen Filter](https://store42.co/products/kensington-fp173w9-privacy-screen-17-3-inch-16-by-9-tinted): Protect your data with Kensington's 17.3” Privacy Screen Filter. Enjoy blue light reduction, glare reduction, and easy installation for utmost clarity.
   Updated: 2025-09-11T01:36:25Z
   Price: $77.99 USD
@@ -2278,9 +2143,6 @@
 - [3M Privacy Filter for 15.6" Laptops](https://store42.co/products/3m-bright-screen-privacy-filter-15-6in-laptop-16-9-bp156w9b): Enhance your laptop experience with the 3M Bright Screen Privacy Filter. Enjoy 85% brightness and protection against visual hackers in style.
   Updated: 2025-09-13T21:13:16Z
   Price: $90.99 USD
-- [ViewSonic 15.6" 4K OLED Portable Monitor](https://store42.co/products/viewsonic-vx1655-4k-oled-15-6-inch-portable-oled-monitor): Discover the ViewSonic VX1655 portable monitor, featuring 4K OLED clarity, USB-C connectivity, and an ultra-slim design for on-the-go professionals.
-  Updated: 2025-09-15T12:39:35Z
-  Price: $734.99 USD
 - [Kensington 25" Privacy Screen Filter](https://store42.co/products/kensington-fp250w9-privacy-screen-for-25-inch-monitors): Enhance privacy and reduce blue light with the Kensington FP250W9 Privacy Screen Filter for 25" monitors. Ideal for work or home. Order now!
   Updated: 2025-09-11T01:36:41Z
   Price: $134.99 USD
@@ -2314,18 +2176,12 @@
 - [ViewSonic 27" Full HD Monitor - 100Hz](https://store42.co/products/viewsonic-va2747-mhj-27-inch-1080p-monitor-freesync-100hz): Discover the ViewSonic VA2747-MHJ 27" monitor with Full HD display, 100Hz refresh rate, ergonomic design, and eye comfort technology for a premium viewing experience.
   Updated: 2025-09-15T12:42:46Z
   Price: $252.99 USD
-- [Kensington MagPro Privacy Screen for 16"](https://store42.co/products/kensington-magpro-privacy-screen-filter-16-inch-laptop): Protect your visual privacy with the Kensington MagPro filter for 16" notebooks. Removable, power-efficient, and enhances screen clarity in public settings.
-  Updated: 2025-09-15T12:39:39Z
-  Price: $83.99 USD
 - [ViewSonic 24" Curved Gaming Monitor](https://store42.co/products/viewsonic-vx2418c-24-inch-1080p-180hz-curved-monitor): Immerse in gaming with the ViewSonic VX2418C 24" Curved Monitor. Enjoy 180Hz, 1ms response time & FreeSync for ultra-smooth gameplay!
   Updated: 2025-09-11T11:56:01Z
   Price: $213.99 USD
 - [ViewSonic VP3256-4K 32" Monitor](https://store42.co/products/viewsonic-vp3256-4k-32-inch-ips-monitor-usb-c-ergonomic): Discover the ViewSonic VP3256-4K, a 32" UHD monitor with 100% sRGB color accuracy, ergonomic design, and USB-C connectivity for all-day comfort.
   Updated: 2025-09-15T12:34:25Z
   Price: $821.99 USD
-- [ViewSonic VA3209M 32-Inch Monitor](https://store42.co/products/viewsonic-va3209m-32-inch-ips-monitor-75hz-eye-care-hdmi): Discover vibrant visuals with the ViewSonic VA3209M 32" Full HD IPS Monitor. Flicker-Free, Blue Light Filter, and 75Hz refresh rate for comfort and clarity.
-  Updated: 2025-09-15T12:39:42Z
-  Price: $251.99 USD
 - [ViewSonic 24" Full HD IPS Monitor](https://store42.co/products/viewsonic-va2456a-mhd-24-inch-ips-monitor-1080p-eye-care): Enhance your workspace with ViewSonic's 24" Full HD IPS Monitor. Enjoy flicker-free viewing, vivid colors, and versatile connectivity for work and play.
   Updated: 2025-09-15T12:09:12Z
   Price: $195.99 USD
@@ -2371,9 +2227,6 @@
 - [Lenovo TIO22GEN5 21.5" FHD Monitor](https://store42.co/products/lenovo-thinkcentre-tio22gen5-22-full-hd-led-webcam-monitor): Discover the Lenovo TIO22GEN5 21.5" FHD IPS Monitor, featuring built-in VoIP capabilities, webcam, and low blue light for a productivity boost.
   Updated: 2025-09-14T12:44:52Z
   Price: $360.99 USD
-- [Targus 4Vu Privacy Screen 23.8 Inch](https://store42.co/products/targus-4vu-privacy-screen-for-23-8-inch-infinity-monitors): Protect your privacy with the Targus 4Vu Privacy Screen for 23.8-inch monitors. Its anti-glare, antimicrobial features enhance both security and comfort.
-  Updated: 2025-09-14T12:44:51Z
-  Price: $140.99 USD
 - [BenQ GW2790T 27" Full HD Monitor](https://store42.co/products/benq-gw2790t-27-inch-class-full-hd-led-monitor-16x9): The BenQ GW2790T offers a 27" Full HD display with 100Hz refresh rate, eye-care technology, ergonomic design, and versatile connectivity for optimal viewing.
   Updated: 2025-09-15T12:12:16Z
   Price: $204.99 USD
@@ -2398,9 +2251,6 @@
 - [Kensington 18.1" Privacy Screen Filter](https://store42.co/products/kensington-fp181-privacy-screen-18-1-inch-5-by-4-tinted): Protect your privacy and reduce eye strain with the Kensington 18.1" Privacy Screen Filter. Enjoy easy installation and reversible design for your monitor.
   Updated: 2025-09-11T01:37:24Z
   Price: $83.99 USD
-- [Kensington Magnetic Privacy Screen 15.6"](https://store42.co/products/kensington-magpro-privacy-screen-15-6-inch-16-by-10-black): Protect your data on the go with the Kensington MagPro Magnetic Privacy Screen. Enjoy blue light reduction and antimicrobial features for optimal eye health.
-  Updated: 2025-09-11T01:37:25Z
-  Price: $87.99 USD
 - [ViewSonic TD2430 Touchscreen Monitor](https://store42.co/products/viewsonic-td2430-24-inch-1080p-touch-monitor-hdmi-dp): Discover the ViewSonic TD2430, a 24-inch Full HD touchscreen monitor with 10-point multi-touch. Connect effortlessly and enhance your workspace today!
   Updated: 2025-09-14T12:14:46Z
   Price: $518.99 USD
@@ -2467,15 +2317,9 @@
 - [3M Privacy Filter for MacBook Pro 14](https://store42.co/products/3m-bright-screen-privacy-filter-macbook-pro-m1-m2-bpnap003): Protect your data with the 3M Bright Screen Privacy Filter for MacBook Pro 14. Enjoy 85% brightness transmission and Nanolouver technology. Buy now!
   Updated: 2025-09-14T12:48:30Z
   Price: $85.99 USD
-- [Cellairis Shell Shock Screen Protector](https://store42.co/products/cellairis-shell-shock-tempered-glass-screen-protection-2): Protect your phone with the Cellairis Shell Shock Tempered Glass Screen Protector. Durable, case-friendly, and easy to apply for ultimate clarity.
-  Updated: 2025-09-13T21:22:29Z
-  Price: $38.99 USD
 - [3M MacBook Pro Privacy Filter 16"](https://store42.co/products/3m-bright-screen-privacy-filter-for-macbook-pro-16-bpnap004): Protect your MacBook Pro 16" screen with the 3M Bright Screen Privacy Filter. Enjoy superior clarity, privacy, and comfort while working in public spaces.
   Updated: 2025-09-15T12:42:57Z
   Price: $92.99 USD
-- [Mobile Pixels Trio 101 Triple Monitor](https://store42.co/products/mobile-pixels-trio-101-1003p04-13-inch-full-hd-monitor): Boost your workflow with the Mobile Pixels Trio 101. This ultra-thin triple monitor is perfect for productivity on the go, featuring vibrant 13.3" displays.
-  Updated: 2025-09-11T01:37:57Z
-  Price: $530.99 USD
 - [ViewSonic 24" Touch Screen IPS Monitor](https://store42.co/products/viewsonic-td2455-24in-1080p-ips-touch-monitor-usb-c-hdmi-dp): Discover the ViewSonic TD2455, a 24" Full HD touchscreen monitor with 10-point touch technology, USB-C connectivity, and an ergonomic design for productivity.
   Updated: 2025-09-15T12:37:59Z
   Price: $605.99 USD
@@ -2506,9 +2350,6 @@
 - [Targus iPad 10th Gen Glass Screen Protector](https://store42.co/products/targus-tempered-glass-antimicrobial-screen-ipad10thgen-10-9): Shield your iPad with the Targus Antimicrobial Tempered Glass Screen Protector. 9H hardness, crystal clear, fits perfectly for everyday protection.
   Updated: 2025-09-13T21:23:50Z
   Price: $77.99 USD
-- [Targus 4Vu 23" Privacy Screen](https://store42.co/products/targus-4vu-privacy-screen-for-23-inch-infinity-monitors): Protect your screen with the Targus 4Vu Privacy Screen for 23" monitors. Antimicrobial, anti-glare, and perfect for shared spaces. Stay private!
-  Updated: 2025-09-11T01:38:08Z
-  Price: $134.99 USD
 - [ViewSonic 24" Touch Display TD2423D](https://store42.co/products/viewsonic-td2423d-24in-1080p-ir-touch-hdmi-vga-dp-usb-hub): Discover the ViewSonic TD2423D 24" Touch Display with stunning 1080P resolution, durable design, and advanced IR touch technology perfect for kiosks.
   Updated: 2025-09-15T12:43:07Z
   Price: $476.99 USD
@@ -2548,12 +2389,6 @@
 - [Acer Vero B7 21.5" Full HD Monitor](https://store42.co/products/acer-vero-b7-b227qh-full-hd-lcd-monitor-16-by-9-black): Discover stunning visuals with the Acer Vero B7 21.5" Full HD Monitor. Immerse in vibrant colors and seamless connectivity for an engaging experience.
   Updated: 2025-09-12T12:21:47Z
   Price: $204.99 USD
-- [Acer Vero V7 21.5" Eco-Friendly Monitor](https://store42.co/products/acer-vero-v7-v227q-h-22-inch-full-hd-led-monitor-black): Experience stunning visuals with the Acer Vero V7, a 21.5-Inch Full HD monitor featuring 4ms response time and eco-friendly design for a brighter future.
-  Updated: 2025-09-15T12:39:41Z
-  Price: $166.99 USD
-- [StarTech 15.6" Privacy Screen Filter](https://store42.co/products/startech-com-15-6in-privacy-filter-anti-glare-blue-light): Enhance your privacy and comfort with the StarTech 15.6" Privacy Screen. Anti-glare and blue light reduction features make it ideal for any setting.
-  Updated: 2025-09-15T12:37:58Z
-  Price: $73.99 USD
 - [Dell 43" 4K UHD Monitor - Quad View](https://store42.co/products/dell-ultrasharp-u4323qe-43-inch-4k-uhd-lcd-monitor-silver): Enhance productivity with the Dell U4323QE 43" 4K monitor. Enjoy quadruple view, seamless connectivity, and stunning display quality for multitasking.
   Updated: 2025-09-15T12:41:07Z
   Price: $1,508.99 USD
@@ -2566,15 +2401,9 @@
 - [3M MacBook Pro Privacy Filter 13-inch](https://store42.co/products/3m-bright-screen-privacy-filter-mbp-13-m1-m2-16x10-bpnap002): Secure your data with the 3M Bright Screen Privacy Filter for MacBook Pro 13. Enjoy 85% brightness and a 60-degree viewing angle for ultimate privacy.
   Updated: 2025-09-13T21:26:51Z
   Price: $80.99 USD
-- [NEC MultiSync E224FL-BK 22" Monitor](https://store42.co/products/nec-display-multisync-e224fl-bk-22in-fhd-led-monitor-16x9): Discover the NEC MultiSync E224FL-BK 22" Full HD monitor with ergonomic design, eco-friendly features, and versatile connectivity for ultimate productivity.
-  Updated: 2025-09-15T12:37:57Z
-  Price: $468.99 USD
 - [HP E32k G5 31.5" 4K UHD Monitor](https://store42.co/products/hp-e32k-g5-32-inch-4k-uhd-usb-c-monitor-black-silver): Discover stunning 4K clarity and ergonomic design with the HP E32k G5 Monitor. Enjoy USB-C connectivity and vibrant colors for ultimate productivity.
   Updated: 2025-09-15T12:39:46Z
   Price: $711.99 USD
-- [ViewSonic 27-Inch QHD Dock Monitor](https://store42.co/products/viewsonic-vg2756a-2k-27-inch-ips-docking-monitor-100w-usb-c): Boost productivity with the ViewSonic VG2756A-2K monitor. Enjoy USB-C connectivity, ergonomic design, and vibrant QHD visuals for every task.
-  Updated: 2025-09-15T12:37:57Z
-  Price: $546.99 USD
 - [ViewSonic VP2768a 27" 4K Monitor](https://store42.co/products/viewsonic-vp2768a-4k-27-inch-ips-monitor-srgb-hdr10): Discover unmatched color accuracy with the ViewSonic VP2768a 27" 4K monitor, ideal for creatives. Enjoy vibrant visuals and USB-C connectivity.
   Updated: 2025-09-15T12:43:06Z
   Price: $800.99 USD
@@ -2590,9 +2419,6 @@
 - [Dell P2423DEQHD 23.8" QHD Monitor](https://store42.co/products/dell-p2423de-24-inch-qhd-usb-c-hub-monitor-black-silver): Enhance productivity with the Dell P2423DEQHD, a 23.8" QHD monitor featuring USB-C connectivity, ergonomic design, and eco-friendly construction.
   Updated: 2025-09-14T12:40:11Z
   Price: $514.99 USD
-- [Dell E2020H 20" LCD Monitor](https://store42.co/products/dell-e2020h-20-inch-lcd-monitor-16x9-led-backlit-black): Discover sharp visuals and vibrant colors with the Dell E2020H 20" LCD Monitor. Perfect for work and play, it features a stunning 1600x900 resolution.
-  Updated: 2025-09-15T12:41:06Z
-  Price: $138.99 USD
 - [Dell 27" WQHD Thunderbolt Monitor](https://store42.co/products/dell-ultrasharp-u2724de-27-wqhd-led-monitor-black-silver): Experience stunning visuals with the Dell UltraSharp 27" WQHD Monitor, featuring Thunderbolt 4, 120Hz refresh rate, and ComfortView Plus for eye protection.
   Updated: 2025-09-15T12:07:36Z
   Price: $830.99 USD
@@ -2635,9 +2461,6 @@
 - [Dell EcoLoop Pro 17" Backpack](https://store42.co/products/dell-ecoloop-pro-carrying-case-backpack-for-17in-notebook): Discover the Dell EcoLoop Pro 17" Backpack, made with durable 840D fabric, perfect for comfort, style, and eco-friendliness while carrying your laptop everywhere.
   Updated: 2025-09-14T12:41:45Z
   Price: $97.99 USD
-- [Xerox 550 Sheet Paper Tray](https://store42.co/products/xerox-paper-tray-550-sheet-plain-paper-for-office-printers): Boost productivity with the Xerox 550 Sheet Paper Tray. Designed for efficiency, it minimizes interruptions for seamless black and white printing.
-  Updated: 2025-09-15T12:39:46Z
-  Price: $488.99 USD
 - [HP Pro Mini 400 G9 Business Desktop PC](https://store42.co/products/hp-pro-mini-400-g9-business-desktop-pc-intel-i5-14500t-8gb-ram-256gb-ssd-secure-performance): Maximize productivity with the HP Pro Mini 400 G9. Featuring Intel i5, 8GB RAM, 256GB SSD, and top-tier security for your business needs.
   Updated: 2025-09-15T12:10:52Z
   Price: $1,064.99 USD
@@ -2683,18 +2506,12 @@
 - [Kensington L1000 Ring Light](https://store42.co/products/kensington-l1000-bicolour-ring-light-with-webcam-mount): Enhance your video calls with the Kensington L1000 Ring Light. Offering 930 lumens, adjustable brightness, and 360-degree rotation for flawless lighting.
   Updated: 2025-09-15T12:34:32Z
   Price: $78.99 USD
-- [Xerox 550-Sheet Paper Tray](https://store42.co/products/xerox-550-sheet-adjustable-paper-tray-for-c410-c415-legal): Boost your printing efficiency with the Xerox 550-Sheet Paper Tray for C410 & C415. Adjustable to fit diverse paper sizes, ensuring seamless prints.
-  Updated: 2025-09-15T12:39:51Z
-  Price: $327.99 USD
 - [Xerox VersaLink C620 Laser Printer](https://store42.co/products/xerox-versalink-c620-desktop-wired-color-laser-printer): Boost productivity with the Xerox VersaLink C620. Print 52 ppm in color, feature duplex printing, and connect easily via Gigabit Ethernet. Ideal for any office!
   Updated: 2025-09-15T12:12:20Z
   Price: $1,614.99 USD
 - [Canon Sheet Feeder for Efficient Printing](https://store42.co/products/canon-sheet-feeder-plain-paper-for-document-scanners): Enhance your printing with Canon's efficient sheet feeder designed for plain paper. Enjoy fast feed technology and seamless paper handling for increased productivity.
   Updated: 2025-09-13T21:31:06Z
   Price: $399.99 USD
-- [Ricoh Fast Scan Imprinter](https://store42.co/products/ricoh-scanner-post-imprinter-for-seamless-post-imprint): Enhance your scanning with the Ricoh Fast Scan Post Imprinter, delivering high-speed, customizable imprinting for accurate document management.
-  Updated: 2025-09-14T12:46:21Z
-  Price: $644.99 USD
 - [Canon MF656Cdw Wireless Laser Printer](https://store42.co/products/canon-imageclass-mf656cdw-wireless-color-laser-printer): Discover the Canon ImageCLASS MF656Cdw, a 4-in-1 wireless laser printer with 22 ppm speed and ADF. Efficient, reliable, and perfect for your office needs!
   Updated: 2025-09-15T12:41:06Z
   Price: $1,089.99 USD
@@ -2836,9 +2653,6 @@
 - [HP 527PM 27" WQHD Monitor](https://store42.co/products/hp-527pm-27-inch-class-wqhd-lcd-monitor-2560x1440-usb-c): Discover the HP 527PM 27" WQHD Monitor with stunning 2560 x 1440 resolution and USB-C connectivity for optimal productivity and a spectacular viewing experience.
   Updated: 2025-09-15T12:09:16Z
   Price: $573.99 USD
-- [1080p Full HD Webcam with Microphone](https://store42.co/products/visiontek-vtwc30-webcam-1080p-30fps-usb-2-0-windows-mac): Discover the VisionTek VTWC30 webcam for stunning 1080p video and clear audio. Perfect for home or office, compatible with all major platforms.
-  Updated: 2025-09-13T21:35:18Z
-  Price: $51.99 USD
 - [Dell ProSupport Plus 4-Year Support](https://store42.co/products/dell-prosupport-plus-4-year-upgrade-from-3y-nbd-coverage): Unlock seamless IT management with Dell ProSupport Plus, featuring 24/7 support, proactive monitoring, and accidental damage protection for 4 years.
   Updated: 2025-09-13T21:35:18Z
   Price: $307.99 USD
@@ -2887,18 +2701,12 @@
 - [Ricoh ACCS Transfer Unit - 200,000 Yield](https://store42.co/products/ricoh-transfer-unit-accs-genuine-oem-part-for-ricoh): Elevate your printing efficiency with Ricoh's ACCS Transfer Unit, yielding 200,000 pages for vibrant, sharp prints. Invest in quality for optimal performance.
   Updated: 2025-09-15T12:06:04Z
   Price: $203.99 USD
-- [Xerox VersaLink C415 Multifunction Printer](https://store42.co/products/xerox-versalink-c415-color-wireless-and-wired-mfp-printer): Elevate your workplace productivity with the Xerox VersaLink C415. Enjoy seamless wireless printing, robust security features, and multifunction capabilities.
-  Updated: 2025-09-15T12:39:53Z
-  Price: $2,058.99 USD
 - [Dell ProSupport 5-Year Monitor Plan](https://store42.co/products/dell-5y-prosupport-for-monitors-upgrade-from-3y-basic-1): Get 24x7 expert support and next-day monitor exchange with Dell ProSupport. Ensure uninterrupted productivity and peace of mind with our reliable service.
   Updated: 2025-09-13T21:36:56Z
   Price: $2,874.99 USD
 - [Dell 3-Year Onsite Support Upgrade](https://store42.co/products/dell-3-year-next-business-day-warranty-upgrade-from-1-year): Upgrade your IT reliability with Dell's 3-Year Next Business Day Onsite Support. Ensure minimal downtime and swift recovery for your business.
   Updated: 2025-09-13T21:36:56Z
   Price: $109.99 USD
-- [Xerox 550 Sheet Paper Tray](https://store42.co/products/xerox-550-sheet-paper-tray-with-integrated-100-sheet-bypass): Boost your printing efficiency with the Xerox 550 Sheet Paper Tray featuring a 100-sheet bypass for versatile media handling and exceptional quality.
-  Updated: 2025-09-15T12:39:51Z
-  Price: $327.99 USD
 - [Axiom 8GB DDR4 SODIMM RAM for Lenovo](https://store42.co/products/axiom-8gb-ddr4-sodimm-for-lenovo-4x70z90846-4x70z90844): Enhance your Lenovo laptop with Axiom's 8GB DDR4 3200 SODIMM RAM, featuring low power consumption and a lifetime warranty. Upgrade for faster performance!
   Updated: 2025-09-15T12:12:21Z
   Price: $57.99 USD
@@ -2941,9 +2749,6 @@
 - [Logitech C925e 1080p HD Webcam](https://store42.co/products/logitech-c925e-webcam-1080p-30fps-usb-2-0-black-78-fov): Upgrade your remote work setup with the Logitech C925e Webcam. Experience 1080p video, dual microphones, and easy USB plug-and-play functionality!
   Updated: 2025-09-15T12:10:56Z
   Price: $150.99 USD
-- [Logitech Brio 100 HD Webcam](https://store42.co/products/logitech-brio-100-webcam-2-mp-off-white-usb-type-a-1-pack): Elevate your video calls with the Logitech Brio 100 webcam. With Full HD clarity, built-in mic, and privacy shutter, it's your perfect streaming companion.
-  Updated: 2025-09-15T12:38:04Z
-  Price: $59.99 USD
 - [Lexmark MX632adwe Multifunction Printer](https://store42.co/products/lexmark-mx632adwe-wired-and-wireless-mono-laser-printer-taa): Discover the Lexmark MX632adwe printer: fast, secure, and eco-friendly. Perfect for productivity with copy, print, and scan features for your office.
   Updated: 2025-09-15T12:39:53Z
   Price: $2,500.99 USD
@@ -3046,18 +2851,12 @@
 - [Dell EcoLoop Rugged Case for Latitude 7350](https://store42.co/products/dell-ecoloop-cg7325l-rugged-case-for-13-3-dell-notebook): Protect your Dell Latitude 7350 with the EcoLoop Rugged Case. Made from recycled materials, featuring a kickstand, shoulder strap, and shock-absorbing bumpers.
   Updated: 2025-09-15T12:09:15Z
   Price: $102.99 USD
-- [Dell SB521A Slim Soundbar](https://store42.co/products/dell-sb521a-sound-bar-speaker-3-60-w-rms-180hz-20khz-for-pc): Elevate your audio experience with the Dell SB521A Slim Soundbar. Enjoy rich sound, easy USB setup, and a sleek design for your workspace.
-  Updated: 2025-09-15T12:41:11Z
-  Price: $78.99 USD
 - [Dell PK492 Black Toner Cartridge](https://store42.co/products/dell-pk492-original-toner-cartridge-for-2330-2350d-2350dn): Get the Dell PK492 Black Toner Cartridge for sharp, clear prints with a yield of 2000 pages. Perfect for Dell 2330, 2350d & 2350dn printers.
   Updated: 2025-09-13T21:41:02Z
   Price: $96.99 USD
 - [Dell EcoLoop Black Business Backpack](https://store42.co/products/dell-ecoloop-premier-cp7625-case-backpack-14-to-16-inch): Discover the eco-friendly Dell EcoLoop CP7625 Backpack. Stylish, protective, and designed for business travel with sustainable materials and smart organization.
   Updated: 2025-09-13T21:41:05Z
   Price: $164.99 USD
-- [Lenovo ThinkCentre M75s Gen 2 Desktop](https://store42.co/products/lenovo-thinkcentre-m75s-gen-2-11r8004gus-ryzen-7-pro-5750g): Boost productivity with the Lenovo ThinkCentre M75s Gen 2. Ryzen 7 Pro, 16GB RAM, 512GB SSD & Windows 11 Pro for enhanced efficiency and performance.
-  Updated: 2025-09-15T12:39:58Z
-  Price: $1,139.99 USD
 - [Axiom 16GB DDR4-3200 SODIMM RAM](https://store42.co/products/axiom-16gb-ddr4-3200-sodimm-for-lenovo-4x70z90847-memory): Boost your Lenovo's performance with Axiom's 16GB DDR4-3200 SODIMM RAM. Enjoy faster speeds, better multitasking, and ultimate reliability for your device.
   Updated: 2025-09-13T21:41:19Z
   Price: $106.99 USD
@@ -3085,33 +2884,18 @@
 - [Dell OptiPlex 3000 Thin Client N6005](https://store42.co/products/dell-optiplex-3000-thin-client-n6005-quad-core-2ghz-black-1): Discover the Dell OptiPlex 3000 Thin Client with 2GHz processor, 8GB RAM, and secure ThinOS. Perfect for seamless cloud computing and data protection!
   Updated: 2025-09-15T12:11:02Z
   Price: $1,133.99 USD
-- [Dell MS3220 Black Laser Mouse](https://store42.co/products/dell-ms3220-mouse-usb-2-0-3200-dpi-tilt-wheel-5-buttons): Enhance your productivity with the Dell MS3220 Black Laser Mouse. Precision tracking, ergonomic design & quick USB 2.0 connectivity for a superior experience.
-  Updated: 2025-09-15T12:41:13Z
-  Price: $64.99 USD
-- [Lenovo Integrated Pen Gen 4](https://store42.co/products/lenovo-integrated-pen-for-300w-500w-gen-4-4096-pressure): Unlock your creativity with the Lenovo Integrated Pen Gen 4 featuring 4096 pressure levels, rapid charging, and optimized for Windows 11. Perfect for artists!
-  Updated: 2025-09-13T21:42:55Z
-  Price: $68.99 USD
 - [Lenovo Go Wireless Vertical Mouse](https://store42.co/products/lenovo-go-wireless-vertical-mouse-ergonomic-45-degree-grip): Discover the Lenovo Go Wireless Vertical Mouse with ergonomic design for comfort, 2400 DPI precision, and customizable buttons for enhanced productivity.
   Updated: 2025-09-15T12:34:41Z
   Price: $78.99 USD
 - [Dell ProSupport for Monitors](https://store42.co/products/dell-prosupport-for-monitors-3-year-upgrade-24x7-support): Gain 24x7 expert assistance and Next Business Day Exchange for your Dell monitor. Ensure productivity with tailored support for seamless performance.
   Updated: 2025-09-13T21:43:01Z
   Price: $94.99 USD
-- [Dell Gigabit Ethernet USB 3.0 Card](https://store42.co/products/dell-gigabit-ethernet-card-usb-3-1-port-network-adapter): Experience blazing-fast network speeds and seamless connectivity with the Dell Gigabit Ethernet Card. Ideal for gaming, streaming, and file transfers!
-  Updated: 2025-09-15T12:43:13Z
-  Price: $53.99 USD
 - [Dell Pro ANC Headset WH5024](https://store42.co/products/dell-pro-wired-anc-headset-wh5024-professional-audio): Discover the Dell Pro Wired ANC Headset WH5024. Enjoy immersive sound with active noise cancellation and reliable wired connectivity for any audio experience.
   Updated: 2025-09-15T12:11:02Z
   Price: $140.99 USD
-- [Dell 5460dn Imaging Drum - 100K Yield](https://store42.co/products/dell-5460dn-imaging-drum-cartridge-for-b5465dnf-100k-pages): Boost productivity with the Dell Imaging Drum for 5460dn and B5465dnf. Enjoy high-quality prints and a 100K page yield for lasting performance.
-  Updated: 2025-09-14T12:46:31Z
-  Price: $97.99 USD
 - [Plugable 7-In-1 USB-C Hub for Mac Pro](https://store42.co/products/plugable-usb-c-hub-7-in-1-multiport-adapter-for-macbook-pro): Enhance your Mac Pro with the Plugable 7-In-1 USB-C Hub. Enjoy 4K HDMI, USB 3.0 ports, and SD card reader for ultimate productivity on the go.
   Updated: 2025-09-15T12:38:04Z
   Price: $59.99 USD
-- [Dell WM126 Wireless Ergonomic Mouse](https://store42.co/products/dell-wireless-mouse-wm126-black-usb-receiver-included): Discover the Dell WM126 Wireless Mouse—the perfect blend of comfort and convenience. Enjoy 1-year battery life and seamless multi-device connectivity.
-  Updated: 2025-09-15T12:41:17Z
-  Price: $37.99 USD
 - [Lenovo ThinkCentre M90q Desktop PC](https://store42.co/products/lenovo-thinkcentre-m90q-gen5-12th000eus-i5-14500-16gb-512gb): Boost productivity with the Lenovo ThinkCentre M90q Tiny Desktop. Featuring Intel i5, 16GB RAM, and 512GB SSD for stellar performance.
   Updated: 2025-09-15T12:11:04Z
   Price: $1,235.99 USD
@@ -3130,9 +2914,6 @@
 - [Lenovo 24" FHD IPS Monitor with KVM Switch](https://store42.co/products/lenovo-thinkcentre-tiny-in-one-24-gen-5-hd-webcam-monitor): Discover the Lenovo ThinkCentre Tiny-In-One 24" FHD IPS Monitor. Enjoy stunning clarity, low blue light, and seamless multi-device control with KVM switch.
   Updated: 2025-09-15T12:38:04Z
   Price: $385.99 USD
-- [Dell Imaging Drum for S2810dn & S2815dn](https://store42.co/products/dell-imaging-drum-for-s2810dn-s2815dn-h815dw-printers): Experience exceptional printing with the Dell Imaging Drum, yielding 85,000 pages for S2810dn & S2815dn. Upgrade for professional-quality prints today!
-  Updated: 2025-09-15T12:41:18Z
-  Price: $59.99 USD
 - [Dell 65W USB-C Power Adapter](https://store42.co/products/dell-65w-usb-c-laptop-adapter-sustainably-designed): Charge laptops effortlessly with the Dell 65W USB-C Power Adapter. Fast, sustainable, and perfect for on-the-go productivity. Get yours today!
   Updated: 2025-09-15T12:09:16Z
   Price: $69.99 USD
@@ -3154,9 +2935,6 @@
 - [Lenovo Digital Pen 2 - Precision Writing Tool](https://store42.co/products/lenovo-digital-pen-2-active-stylus-for-tablets-gray): Discover the Lenovo Digital Pen 2, designed for optimal precision and comfort. Enhance creativity and productivity with this stylish digital writing tool.
   Updated: 2025-09-13T21:45:11Z
   Price: $63.99 USD
-- [Havis 5-Year Enhanced Protection Plan](https://store42.co/products/havis-enhanced-protection-plan-5-year-warranty-coverage-2): Secure your investment with the Havis Enhanced Protection Plan, offering 5 years of warranty against breakdowns and dependable support. Act now for peace of mind!
-  Updated: 2025-09-13T21:45:14Z
-  Price: $372.99 USD
 - [Dell EcoLoop Backpack for 14-16" Laptops](https://store42.co/products/dell-ecoloop-premier-cp7625s-carrying-case-for-14-to-16-inch): Explore the Dell EcoLoop CP7625S Backpack: eco-friendly, water-resistant, and designed for 14-16" laptops. Perfect for travel and sustainable living.
   Updated: 2025-09-11T11:50:21Z
   Price: $138.99 USD
@@ -3184,9 +2962,6 @@
 - [Dell High Yield Imaging Drum Cartridge](https://store42.co/products/dell-2330-2350-imaging-drum-cartridge-for-laser-printers): Discover the Dell Imaging Drum Cartridge for 2330d and 2350d printers. Print up to 30,000 pages with clarity and ease. Perfect for busy offices!
   Updated: 2025-09-13T21:46:06Z
   Price: $71.99 USD
-- [Lenovo ThinkCentre M75s Gen2 Desktop](https://store42.co/products/lenovo-thinkcentre-m75s-gen-2-11r8004hus-ryzen-3-pro-5350g): Discover the Lenovo ThinkCentre M75s Gen2 with Ryzen 3 Pro, 8GB RAM, and 256GB SSD for powerful performance and reliability in a compact design.
-  Updated: 2025-09-15T12:41:17Z
-  Price: $807.99 USD
 - [Lenovo ThinkCentre M75s Desktop](https://store42.co/products/lenovo-thinkcentre-m75s-11r80051us-amd-ryzen-5-pro-5650g): Discover the Lenovo ThinkCentre M75s with Ryzen 5, 16GB RAM, and 256GB SSD. Boost your productivity with fast performance and Windows 11 Pro.
   Updated: 2025-09-15T12:11:06Z
   Price: $914.99 USD
@@ -3199,15 +2974,9 @@
 - [Dell P5525QC 55" 4K Monitor](https://store42.co/products/dell-p5525qc-collaboration-display-usb-c-90w-daisy-chain-4k): Elevate your workspace with the Dell P5525QC 55" 4K USB-C Monitor. Enjoy 90W charging, dual speakers, and stunning visuals for enhanced productivity.
   Updated: 2025-09-15T12:09:21Z
   Price: $1,858.99 USD
-- [Dell MS5120W Pro Wireless Mouse](https://store42.co/products/dell-pro-wireless-mouse-ms5120w-ergonomic-design-black): Elevate your productivity with the Dell MS5120W Pro Wireless Mouse. Its ergonomic design ensures comfort and efficiency for all your tasks. Shop now!
-  Updated: 2025-09-15T12:41:13Z
-  Price: $53.99 USD
 - [Dell EcoLoop 15" Weatherproof Backpack](https://store42.co/products/dell-ecoloop-cp4523g-carrying-case-backpack-15-inch-gray): Discover the Dell EcoLoop Urban Backpack made from durable 420D fabric, perfect for protecting your laptop and essentials with eco-friendly style!
   Updated: 2025-09-14T12:40:15Z
   Price: $84.99 USD
-- [Lenovo Integrated Pen for Yoga Chromebook](https://store42.co/products/lenovo-stylis-pen-4096-pressure-for-300e-and-500e-gen-4): Unlock creativity with the Lenovo Integrated Pen featuring 4096 pressure sensitivity and rechargeable design—perfect for sketching, notes, and more!
-  Updated: 2025-09-14T12:45:11Z
-  Price: $68.99 USD
 - [Lenovo ThinkVision MS30 Soundbar](https://store42.co/products/lenovo-thinkvision-ms30-sound-bar-speaker-4-w-rms-black): Enhance your audio with the Lenovo ThinkVision MS30 Soundbar featuring crystal-clear sound, USB charging, and a sleek design for any workspace.
   Updated: 2025-09-13T21:47:33Z
   Price: $58.99 USD
@@ -3217,9 +2986,6 @@
 - [Dell MS300 Wireless Mouse - Ergonomic Black](https://store42.co/products/dell-ms300-wireless-full-size-mouse-home-office-use): Elevate your workflow with the Dell MS300 Wireless Mouse. Featuring ergonomic design, 2.4 GHz connectivity, and precision tracking for ultimate comfort.
   Updated: 2025-09-14T12:40:18Z
   Price: $33.99 USD
-- [Dell Wireless Mouse - Comfort & Style](https://store42.co/products/dell-mobile-mouse-wireless-black-with-reliable-precision): Discover the Dell Wireless Mobile Mouse in Black! Ergonomic design, responsive feedback, & wireless convenience for a seamless workspace experience.
-  Updated: 2025-09-15T12:41:17Z
-  Price: $40.99 USD
 - [Dell High Yield Black Toner Cartridge](https://store42.co/products/dell-original-high-yield-laser-black-toner-cartridge-e310dw): Get the Dell High Yield Black Laser Toner Cartridge. Yields 2,600 pages for top-quality printing, compatible with E310dw, E514dw, E515dw, E515dn.
   Updated: 2025-09-13T21:47:51Z
   Price: $97.99 USD
@@ -3247,39 +3013,24 @@
 - [Dell 34-Inch Curved Ultrawide Monitor](https://store42.co/products/dell-p3424web-34-inch-uw-qhd-curved-ips-led-monitor-webcam): Discover the Dell P3424WEB 34-Inch Ultrawide Monitor. Enjoy stunning UW-QHD visuals, USB-C connectivity, and KVM switch for seamless multitasking.
   Updated: 2025-09-14T12:13:30Z
   Price: $1,036.99 USD
-- [Dell Dual Display Monitor Stand 27-Inch](https://store42.co/products/dell-monitor-stand-dual-display-up-to-27-inch-13-2-lb): Optimize your workspace with the Dell 27-Inch Dual Display Monitor Stand. Supports up to 13.2 lbs for comfortable viewing and enhanced productivity.
-  Updated: 2025-09-15T12:43:18Z
-  Price: $327.99 USD
 - [Lenovo ThinkVision P27h-30 27" Monitor](https://store42.co/products/lenovo-thinkvision-p27h-30-27-inch-wqhd-lcd-monitor-16-by-9): Discover the Lenovo ThinkVision P27h-30 27" WQHD monitor with USB-C, offering vibrant visuals, KVM switch, and superior performance for work and play.
   Updated: 2025-09-11T01:43:39Z
   Price: $777.99 USD
 - [Dell Black Toner Cartridge 700 Yield](https://store42.co/products/dell-original-standard-yield-laser-toner-cartridge-1250c): Enhance your prints with the Dell Black Toner Cartridge. Achieve vibrant colors, sharp text, and a yield of 700 pages. Perfect for your Dell printers!
   Updated: 2025-09-13T21:48:59Z
   Price: $67.99 USD
-- [Dell Wireless Mouse - Ergonomic & Reliable](https://store42.co/products/dell-wireless-optical-mouse-for-pc-with-connectivity): Boost your productivity with the Dell Wireless Mouse. Enjoy seamless connectivity, enhanced responsiveness, and long battery life for uninterrupted work.
-  Updated: 2025-09-15T12:41:15Z
-  Price: $59.99 USD
 - [Dell Black Toner Cartridge 8500 - High Yield](https://store42.co/products/dell-original-standard-yield-laser-toner-b2360d-b2360dn): Maximize your printing output with the Dell 8500 black toner cartridge. High yield, easy installation, and superior print quality for serious productivity.
   Updated: 2025-09-13T21:49:04Z
   Price: $240.99 USD
 - [Plugable USB-C to VGA Adapter](https://store42.co/products/plugable-usb-c-to-vga-adapter-thunderbolt-3-monitor-output): Connect USB-C devices to VGA monitors with the Plugable Adapter. Enjoy up to 1920x1200 resolution and a portable, durable design—perfect for any setup!
   Updated: 2025-09-14T12:41:52Z
   Price: $33.99 USD
-- [Dell Waste Tank for C2660dn & C3765dnf](https://store42.co/products/dell-toner-cartridge-waste-container-for-c2660dn-c2665dnf): Maximize your printer's performance with the Dell Waste Tank! Designed for C2660dn, C3760dn, and others, enjoy a 30K page yield for efficient printing.
-  Updated: 2025-09-15T12:43:17Z
-  Price: $35.99 USD
-- [Dell DW316 Portable DVD-RW Drive](https://store42.co/products/dell-dw316-external-dvd-writer-black-usb-2-plug-and-play): Discover the Dell DW316 Portable DVD-RW Drive—your compact solution for reading and writing CDs and DVDs. Enjoy seamless multimedia performance anywhere!
-  Updated: 2025-09-15T12:41:21Z
-  Price: $75.99 USD
 - [Dell High Yield Black Toner Cartridge](https://store42.co/products/dell-original-high-yield-black-laser-toner-for-2330-2350d): Get the Dell High Yield Black Toner for 2330, 2350d, and 2350dn printers. Enjoy crisp prints and a 6,000-page yield to maximize productivity today!
   Updated: 2025-09-13T21:49:19Z
   Price: $175.99 USD
 - [Lenovo ThinkBook Silent Bluetooth Mouse](https://store42.co/products/lenovo-thinkbook-bluetooth-silent-mouse-ergonomic-design): Elevate your workflow with the Lenovo ThinkBook Silent Mouse. Enjoy quiet clicks, dual-device connectivity, and customizable DPI for seamless productivity.
   Updated: 2025-09-15T12:38:10Z
   Price: $67.99 USD
-- [Dell MH3021P Speakerphone for Meetings](https://store42.co/products/dell-mh3021p-speakerphone-with-360-degree-microphone): Elevate your meetings with the Dell MH3021P Speakerphone. Enjoy 360° audio, USB-C connectivity, and hassle-free plug-and-play setup!
-  Updated: 2025-09-15T12:43:21Z
-  Price: $140.99 USD
 - [Dell OptiPlex 3000 Thin Client](https://store42.co/products/dell-optiplex-3000-thin-client-silver-n6005-quadcore-2ghz): Discover the Dell OptiPlex 3000 Thin Client with N6005, 8GB RAM, and ThinOS for superior security and performance. Elevate your workflow today!
   Updated: 2025-09-15T12:11:06Z
   Price: $870.99 USD
@@ -3607,9 +3358,6 @@
 - [Rocstor 45W Slim USB-C Power Adapter](https://store42.co/products/rocstor-45w-smart-usb-c-laptop-power-adapter-charger): Discover the Rocstor 45W USB-C Power Adapter with Smart Voltage and 2M cable. Perfect for charging laptops, tablets, and smartphones on the go!
   Updated: 2025-09-13T22:02:10Z
   Price: $54.99 USD
-- [Plugable 30W GaN USB-C Charger](https://store42.co/products/plugable-gan-usb-c-charger-block-30w-portable-charger): Charge devices fast with Plugable's 30W GaN USB-C Charger. Compact, portable, and efficient for phones, tablets, and laptops. Perfect for on-the-go!
-  Updated: 2025-09-15T12:39:59Z
-  Price: $43.99 USD
 - [Belkin 30W USB-C Power Bank 20,000 mAh](https://store42.co/products/belkin-30w-usb-c-20k-power-bank-2-port-charger-black): Charge your devices on-the-go with the Belkin 30W USB-C Power Bank. 20,000 mAh capacity ensures power for your MacBook and more. Fast charge tech included!
   Updated: 2025-09-13T22:02:34Z
   Price: $86.99 USD
@@ -3631,9 +3379,6 @@
 - [Belkin 24W Dual USB-A Wall Charger](https://store42.co/products/belkin-boostcharge-dual-usb-a-wall-charger-24w-two-ports): Fast charge two devices with the Belkin 24W Dual USB-A Wall Charger. Comes with a 1m cable, perfect for home or travel. Enjoy peace of mind with a warranty!
   Updated: 2025-09-13T22:03:02Z
   Price: $39.99 USD
-- [Plugable 30W GaN USB-C Charger 3-Pack](https://store42.co/products/plugable-gan-usb-c-charger-block-30w-foldable-prongs-3-pack): Power up on-the-go with the Plugable 30W GaN USB-C Charger 3-Pack, featuring fast charging for all your devices. Compact and universal compatibility!
-  Updated: 2025-09-14T12:46:46Z
-  Price: $118.99 USD
 - [Plugable 60W USB-C Fast Laptop Charger](https://store42.co/products/plugable-usb-c-laptop-charger-60w-pd-for-laptops-and-more): Power up with the Plugable 60W USB-C Laptop Charger. Compact, fast charging, and compatible with MacBook, Dell, HP, and more. Perfect for any setup!
   Updated: 2025-09-14T12:42:01Z
   Price: $81.99 USD
@@ -3646,9 +3391,6 @@
 - [C2G 45W USB-C Power Adapter](https://store42.co/products/c2g-usb-c-power-adapter-45w-usb-c-wall-charger-for-laptops): Discover the compact C2G 45W USB-C Power Adapter, perfect for fast charging laptops and tablets. Designed for portability and safety on-the-go.
   Updated: 2025-09-14T12:45:17Z
   Price: $67.99 USD
-- [Plugable 32W USB-C Wall Adapter](https://store42.co/products/plugable-wall-outlet-extender-1-usb-c-and-1-usb-32w-charger): Charge devices fast with the Plugable 32W USB-C & USB-A Wall Extender Adapter. Compact, travel-ready, and perfect for dual charging anytime, anywhere.
-  Updated: 2025-09-14T12:43:36Z
-  Price: $38.99 USD
 - [Belkin 37W Dual USB-C & USB-A Charger](https://store42.co/products/belkin-37w-dual-port-usb-c-wall-charger-usb-a-12w-usb-c-30w): Charge your devices fast with Belkin's 37W wall charger featuring dual USB-C & USB-A ports. Compact, portable, and optimized for iPhones and Samsung devices.
   Updated: 2025-09-13T22:03:50Z
   Price: $39.99 USD
@@ -3670,9 +3412,6 @@
 - [StarTech Dual USB Car Charger 24W](https://store42.co/products/startech-com-dual-port-usb-car-charger-24w-4-8a-black): Charge two devices simultaneously with the StarTech Dual USB Car Charger. Featuring Smart IC technology, it's perfect for road trips and daily use!
   Updated: 2025-09-14T12:12:00Z
   Price: $28.99 USD
-- [Fast Charging GaN USB C Charger 3-Pack](https://store42.co/products/plugable-gan-usb-c-charger-block-30w-foldable-prongs-3-pack-1): Charge your devices quickly with the Plugable 30W GaN USB C Charger 3-Pack. Compact, safe, and perfect for home or travel use. Get yours today!
-  Updated: 2025-09-15T12:43:23Z
-  Price: $102.99 USD
 - [Belkin 37W Dual Car Charger with Cable](https://store42.co/products/belkin-boostcharge-dual-car-charger-pps-37w-lightning-cable): Power up your devices on the go with the Belkin BoostCharge 37W Dual Car Charger. Fast charge your iPhone in minutes with included USB-C to Lightning cable!
   Updated: 2025-09-15T12:36:36Z
   Price: $49.99 USD
@@ -3715,9 +3454,6 @@
 - [Belkin 30W GaN USB-C Fast Charger](https://store42.co/products/belkin-boostcharge-30w-usb-c-power-delivery-gan-charger): Charge your devices quickly with the compact Belkin 30W GaN USB-C Fast Charger. Perfect for iPhone and MacBook with built-in safety features.
   Updated: 2025-09-13T22:05:47Z
   Price: $38.99 USD
-- [Belkin 60W Dual USB-C Fast Charger](https://store42.co/products/belkin-dual-usb-c-wall-charger-pps-60w-for-iphone-galaxy): Charge faster with the Belkin 60W USB-C Fast Charger featuring 2 ports, eco-friendly design, and PD 3.1 technology. Perfect for all your devices!
-  Updated: 2025-09-13T22:05:51Z
-  Price: $44.99 USD
 - [Belkin Magnetic Car Charger Qi2 15W](https://store42.co/products/belkin-boostcharge-pro-magnetic-car-charger-qi2-15w): Charge on the go with the Belkin BoostCharge Pro! Enjoy fast wireless charging up to 15W with a convenient magnetic mount for seamless navigation.
   Updated: 2025-09-15T12:12:37Z
   Price: $83.99 USD
@@ -3766,9 +3502,6 @@
 - [Belkin 37W Dual Car Charger](https://store42.co/products/belkin-boostcharge-dual-car-charger-pps-37w-usb-c-pd-3): Charge two devices simultaneously with the Belkin BOOST?CHARGE 37W Dual Car Charger. Fast, efficient, and designed for iPhone and Samsung!
   Updated: 2025-09-15T12:36:40Z
   Price: $33.99 USD
-- [C2G Dual USB Car Charger - Fast Charging](https://store42.co/products/c2g-usb-car-charger-power-adapter-smart-car-charger-2-port): Charge devices on the go with the C2G Dual USB Car Charger. Fast 5V 2.4A output and Smart-IC technology make it a must-have accessory for any traveler.
-  Updated: 2025-09-15T12:43:38Z
-  Price: $27.99 USD
 - [Belkin 67W 3-Port USB-C Wall Charger](https://store42.co/products/belkin-67w-portable-3-port-usb-c-wall-charger-fast-charging): Power up fast with the Belkin 67W 3-Port USB-C Wall Charger. Compact, efficient, and designed for safety to keep your devices charged on-the-go!
   Updated: 2025-09-15T12:12:41Z
   Price: $54.99 USD
@@ -3793,9 +3526,6 @@
 - [Tripp Lite 10-Port USB Charging Hub](https://store42.co/products/eaton-tripp-lite-10-port-usb-charging-station-12v-8a): Charge multiple devices efficiently with the Tripp Lite 10-Port USB Charging Hub. Features smart storage and safety protection for optimal use.
   Updated: 2025-09-15T12:08:01Z
   Price: $416.99 USD
-- [Plugable 30W GaN USB-C Fast Charger](https://store42.co/products/plugable-gan-usb-c-charger-block-30w-portable-charger-1): Charge your devices quickly with the Plugable 30W GaN USB-C Fast Charger. Compact, portable, and safe charging for all your USB devices. Perfect for travel!
-  Updated: 2025-09-15T12:40:04Z
-  Price: $43.99 USD
 - [30W GaN USB-C Charger](https://store42.co/products/startech-com-30w-usb-c-gan-wall-charger-6ft-cable-usb-pd): Fast charge laptops and devices with the StarTech 30W GaN USB-C Charger. Compact design, safety features, and included 6.6ft cable for convenience.
   Updated: 2025-09-15T12:34:53Z
   Price: $78.99 USD
@@ -3841,9 +3571,6 @@
 - [Belkin 30W USB-C PD Charger](https://store42.co/products/belkin-30w-usb-c-pd-3-0-pps-wall-charger-3-3ft-usb-c-cable): Charge your devices quickly with the Belkin 30W USB-C PD Charger. Compact design, fast charging, and PPS technology make it perfect for travel.
   Updated: 2025-09-14T12:42:01Z
   Price: $43.99 USD
-- [StarTech 6.5ft Angled Lightning Cable](https://store42.co/products/startech-com-2m-usb-a-to-lightning-cable-aramid-fiber-mfi): Discover the durability of the StarTech 6.5ft Angled USB A to MFi Lightning Cable. Perfect for your Apple devices with reinforced and flexible design.
-  Updated: 2025-09-14T12:46:45Z
-  Price: $35.99 USD
 - [StarTech 13Ft USB-C Cable 240W PD](https://store42.co/products/startech-com-13ft-usb-c-charging-cable-usb-certified-240w): Charge your devices quickly with the StarTech 13Ft USB-C Cable. Supports 240W PD 3.1 for high-power laptops and ensures durability & performance.
   Updated: 2025-09-15T12:06:11Z
   Price: $28.99 USD
@@ -4099,9 +3826,6 @@
 - [Della Arborio Rice 6x28oz Case](https://store42.co/products/della-arborio-white-rice-case-of-6-28-oz): Discover Della Arborio Rice for creamy risotto and delicious meals. Quality ingredients in a convenient 6-pack ensure culinary success every time!
   Updated: 2025-09-13T22:15:45Z
   Price: $87.99 USD
-- [Ghirardelli Dark Chocolate Bar - 12 Pack](https://store42.co/products/ghirardelli-bar-intense-dark-dark-chocolate-case-of-12-3-17-ounces): Indulge in Ghirardelli's Intense Dark Chocolate Bars. This 12-pack offers rich flavor and premium quality, perfect for snacks or baking.
-  Updated: 2025-09-14T12:16:01Z
-  Price: $98.99 USD
 - [Ghirardelli 72% Dark Chocolate Bars](https://store42.co/products/ghirardelli-intense-dark-72-cacao-twilight-delight-chocolate-bars-case-of-12-3-5-oz): Savor Ghirardelli's Intense Dark Twilight Delight Chocolate Bars. Made with 72% cacao, these 3.5 oz bars offer a rich, flavorful experience in every bite.
   Updated: 2025-09-13T22:15:54Z
   Price: $98.99 USD
@@ -4126,9 +3850,6 @@
 - [Ghirardelli 60% Cacao Baking Bar](https://store42.co/products/ghirardelli-premium-baking-bar-60-cacao-bittersweet-chocolate-case-of-12-4-oz): Elevate your baking with Ghirardelli 60% Cacao Bittersweet Baking Bar. Perfect for cookies, brownies, and decadent sauces. Bulk case of 12!
   Updated: 2025-09-13T22:16:22Z
   Price: $90.99 USD
-- [Ghirardelli Sea Salt Caramel Bar Case](https://store42.co/products/ghirardelli-bar-milk-chocolate-sea-salt-caramel-case-of-10-4-8-oz): Indulge in Ghirardelli's rich Milk Chocolate Sea Salt Caramel Bars. Enjoy a case of 10 for perfect sharing or personal bliss. Taste the luxury today!
-  Updated: 2025-09-13T22:16:26Z
-  Price: $84.99 USD
 - [Ghirardelli 60% Cacao Baking Chips](https://store42.co/products/ghirardelli-cacao-bittersweet-chocolate-baking-chips-case-of-12-10-oz): Elevate your baking with Ghirardelli 60% Cacao Bittersweet Baking Chips. Perfect for cookies, brownies, and desserts. Deliciously rich flavor!
   Updated: 2025-09-13T22:16:29Z
   Price: $147.99 USD
@@ -4136,7 +3857,7 @@
   Updated: 2025-09-13T22:16:32Z
   Price: $147.99 USD
 - [Ghirardelli 100% Cacao Unsweetened Bars](https://store42.co/products/ghirardelli-premium-baking-bar-100-cacao-unsweetened-chocolate-case-of-12-4-oz): Elevate your baking with Ghirardelli 100% Cacao Unsweetened Baking Bars. Perfect for delicious desserts, tailored sweetness, and rich chocolate flavor.
-  Updated: 2025-09-15T12:12:27Z
+  Updated: 2025-09-16T12:08:57Z
   Price: $90.99 USD
 - [Garofalo Pappardelle Pasta – 16 Oz](https://store42.co/products/garofalo-italian-pappardelle-pasta-case-of-12-16-oz): Taste authentic Italy with Garofalo Pappardelle Pasta. Ideal for rich sauces, this 16 oz box in a case of 12 elevates your culinary creations!
   Updated: 2025-09-13T22:16:39Z
@@ -4453,9 +4174,6 @@
 - [Corel VHS to DVD 3.0 Plus Software](https://store42.co/products/corel-easy-vhs-to-dvd-v-3-0-plus-complete-product-1-user-standard): Effortlessly convert VHS tapes to DVD with Corel Easy VHS to DVD 3.0 Plus. Enjoy video stabilization and noise reduction for quality memories.
   Updated: 2025-09-14T12:42:01Z
   Price: $81.99 USD
-- [Versatile LED Ring Light for Makeup & Vlogging](https://store42.co/products/led-ring-light-with-stand-for-makeup-photography-video-for-iphone-selfie-stream): Illuminate your beauty and photography with this LED Ring Light offering 10 brightness levels, 3 lighting modes, and a rotatable phone holder for stunning content.
-  Updated: 2025-09-13T22:19:51Z
-  Price: $24.99 USD
 - [Cellairis Type-C Fast Charger](https://store42.co/products/cellairis-ac-adapter-1): Power your devices quickly with the Cellairis USB Type-C Fast Charger. Enjoy reliable voltage and compact design for every lifestyle need.
   Updated: 2025-09-13T22:19:58Z
   Price: $59.99 USD
@@ -4705,9 +4423,6 @@
 - [Panda Patch Management for Cybersecurity](https://store42.co/products/panda-panda-patch-management-12): Secure your systems with Panda Patch Management. Real-time OS patches to reduce vulnerabilities and enhance your cybersecurity strategy effectively.
   Updated: 2025-09-13T22:22:23Z
   Price: $29.99 USD
-- [Poly APN91 Hookswitch for Seamless Calls](https://store42.co/products/poly-apn-91-electronic-hookswitch-taa): Enhance your communication with the Poly APN91 Electronic Hookswitch. TAA compliant, durable, and perfect for seamless integration in any workspace.
-  Updated: 2025-09-15T12:34:56Z
-  Price: $123.99 USD
 - [Cisco V10 Media: Premium Audio Solution](https://store42.co/products/cisco-v-10-x-for-cisco-unified-contact-center-enterprise-media-only): Upgrade your contact center with Cisco V10 Media for unmatched audio clarity and seamless integration, enhancing communication and boosting productivity.
   Updated: 2025-09-13T22:22:28Z
   Price: $39.99 USD
@@ -4768,9 +4483,6 @@
 - [Cisco IP Phone Power Adapter - Korea](https://store42.co/products/cisco-power-adapter-2): Ensure uninterrupted communication with the Cisco Power Adapter for IP Phones. Compact, efficient, and compatible with various models for reliable performance.
   Updated: 2025-09-13T22:23:16Z
   Price: $44.99 USD
-- [Poly HL10 Handset Lifter - TAA Compliant](https://store42.co/products/poly-hl10-handset-lifter-taa): Discover the Poly HL10 Handset Lifter, designed for seamless connectivity. Enjoy hands-free calling with its compact, ergonomic design. Perfect for any workspace!
-  Updated: 2025-09-13T22:23:19Z
-  Price: $111.99 USD
 - [Lenovo 45W USB-C Fast Charger](https://store42.co/products/lenovo-45w-usb-c-ac-adapter): Get the Lenovo 45W USB-C PD Fast Charger for efficient, reliable charging of ThinkPad notebooks & tablets. Compact, lightweight, & perfect for on-the-go.
   Updated: 2025-09-15T12:06:12Z
   Price: $92.99 USD
@@ -4840,15 +4552,9 @@
 - [Brother Universal AC Adapter](https://store42.co/products/brother-ac-adapter): Power your printers and devices with the Brother Universal AC Adapter. Compact, reliable, and ideal for home or travel. Keep your productivity uninterrupted!
   Updated: 2025-09-14T12:15:06Z
   Price: $81.99 USD
-- [Premium Poly Hook Tabs - 25 Count](https://store42.co/products/poly-hook-tab): Discover versatile and durable premium poly hook tab fasteners. Ideal for organizing and crafting, with 25 tabs per pack. Upgrade your projects today!
-  Updated: 2025-09-13T22:24:23Z
-  Price: $43.99 USD
 - [Cisco Unified Contact Center V10.0](https://store42.co/products/cisco-unified-contact-center-express-v-10-0-media-only): Elevate your customer service with Cisco Unified Contact Center V10.0. Discover scalable solutions and analytics for optimized business communication.
   Updated: 2025-09-13T22:24:29Z
   Price: $114.99 USD
-- [Poly Edge E Expansion Module](https://store42.co/products/poly-edge-e-phone-expansion-module): Enhance your communication with the Poly Edge E Expansion Module. Streamline call management and increase productivity in any workspace.
-  Updated: 2025-09-14T12:45:16Z
-  Price: $327.99 USD
 - [Cisco IOS Metro Access 12.2 QoS Upgrade](https://store42.co/products/cisco-ios-metro-access-v-12-253se-complete-product): Upgrade your network with Cisco IOS Metro Access 12.2. Enhance QoS and traffic management for superior performance and reliable data delivery.
   Updated: 2025-09-13T22:24:35Z
   Price: $1,077.99 USD
@@ -4906,9 +4612,6 @@
 - [Panda Email Protection - 1 Year Plan](https://store42.co/products/panda-panda-email-protection-8): Secure your email with Panda's robust protection against malware and spam. Enjoy 24/7 security and easy management for your business communications.
   Updated: 2025-09-13T22:25:10Z
   Price: $62.99 USD
-- [AXIS DC Extension for Door Control](https://store42.co/products/axis-door-controller-extension): Upgrade your access control system with the AXIS DC Extension. Enhance security, manage access efficiently, and enjoy seamless integration with wireless locks.
-  Updated: 2025-09-13T22:25:12Z
-  Price: $231.99 USD
 - [Cisco 3750 Firmware Upgrade](https://store42.co/products/cisco-catalyst-3750-enhanced-multilayer-software-image-upgrade-for-1-switch-firmware): Enhance your network with Cisco Catalyst 3750 firmware. Unlock advanced features, improve security, and boost performance for optimal operation.
   Updated: 2025-09-13T22:25:12Z
   Price: $2,142.99 USD
@@ -4945,9 +4648,6 @@
 - [Poly Edge E Handset - Blue Design](https://store42.co/products/poly-edge-e-handset): Discover the Poly Edge E Handset with elegant blue design. Enjoy superior audio clarity and a comfortable grip for all your professional calls.
   Updated: 2025-09-13T22:25:42Z
   Price: $142.99 USD
-- [Poly APD-80 Electronic Hookswitch](https://store42.co/products/poly-apd-80-electronic-hookswitch-taa): Upgrade your communication with the Poly APD-80 Electronic Hookswitch. Enjoy seamless connectivity, stylish design, and enhanced productivity in any workspace.
-  Updated: 2025-09-15T12:40:04Z
-  Price: $123.99 USD
 - [12V DC Adapter - StarTech.com](https://store42.co/products/startech-com-replacement-12v-dc-power-adapter-12-volts-2-amps): Keep your devices powered with the reliable StarTech.com 12V DC Adapter. It offers a 2A output and fits M-type barrel connectors perfectly.
   Updated: 2025-09-13T22:25:46Z
   Price: $42.99 USD
@@ -4969,9 +4669,6 @@
 - [Cisco Power Cube 4 Adapter - Fast Charging](https://store42.co/products/cisco-power-cube-4-adapter): Power your devices efficiently with the Cisco Power Cube 4 Adapter. Enjoy rapid 48V DC output for uninterrupted performance at home or on-the-go.
   Updated: 2025-09-14T12:10:11Z
   Price: $102.99 USD
-- [Poly APC43 Hookswitch Cable for Cisco Phones](https://store42.co/products/poly-apc-43-electronic-hookswitch-taa): Enhance your productivity with the Poly APC43 Electronic Hookswitch Cable, allowing effortless remote call control for Cisco desk phones and more.
-  Updated: 2025-09-15T12:40:05Z
-  Price: $123.99 USD
 - [BTI 65W Type-C Charger for Lenovo ThinkPad](https://store42.co/products/bti-5a10w86303-bti-65w-type-c-ac-adapter): Charge your Lenovo ThinkPad T14 Gen 4 quickly with the BTI 65W Type-C AC Adapter. Enjoy fast charging and a 24-month warranty.
   Updated: 2025-09-13T22:26:07Z
   Price: $54.99 USD
@@ -5086,9 +4783,6 @@
 - [HP E14 G4 Portable Slim Monitor 14"](https://store42.co/products/14-e14-g4-portable-monitor): Discover the HP E14 G4 Portable Slim Monitor. Enjoy portability, sharp FHD visuals, and seamless connectivity, perfect for professionals on the go.
   Updated: 2025-09-15T20:46:55Z
   Price: $399.99 USD
-- [Lenovo Chromebook Security License - 5 Years](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-5-year): Safeguard your Chromebook with the Lenovo Absolute Visibility Security License. Five years of robust protection for your device, ensuring peace of mind.
-  Updated: 2025-09-13T22:28:05Z
-  Price: $40.99 USD
 - [Lenovo Theft Management Software for Chromebooks](https://store42.co/products/lenovo-absolute-theft-management-premium-software-for-chromebooks-1-year-license): Protect your Chromebook with Lenovo Absolute Theft Management. Enjoy peace of mind with updates, continuous protection, and easy management.
   Updated: 2025-09-13T22:28:07Z
   Price: $12.99 USD
@@ -5101,9 +4795,6 @@
 - [Logitech M310 Wireless Mouse](https://store42.co/products/logitech-m310-wireless-mouse-2-4ghz-usb-nano-receiver-peacock-blue-ergonomic-comfort-design): Discover comfort and style with the Logitech M310 Wireless Mouse. Long-lasting battery and smooth tracking enhance your productivity every day.
   Updated: 2025-09-13T22:28:20Z
   Price: $41.99 USD
-- [Acer Chromebook 315 - Touchscreen Laptop](https://store42.co/products/acer-chromebook-315-15-6-touchscreen-intel-n100-8gb-ram-64gb-storage-silver-12-hours-battery): Unleash productivity with the Acer Chromebook 315. Enjoy a 15.6" touchscreen, Intel N100, 8GB RAM, and long-lasting 12-hour battery. Perfect for on-the-go!
-  Updated: 2025-09-11T01:56:11Z
-  Price: $605.99 USD
 - [Slim Protective Sleeve for 11" Chromebook](https://store42.co/products/vigil-11-chromebook-sleeve): Discover the Case Logic Vigil Slim Sleeve for 11" Chromebooks. Stylish, protective, and lightweight — the perfect travel companion for your laptop!
   Updated: 2025-09-13T22:28:22Z
   Price: $48.99 USD
@@ -5116,9 +4807,6 @@
 - [Lenovo Theft Management for Chromebooks](https://store42.co/products/lenovo-absolute-software-theft-management-for-chromebooks-4-year-academic-license): Secure your Chromebooks with Lenovo's Absolute Software Theft Management. Perfect for schools, this 4-year license ensures device protection and peace of mind.
   Updated: 2025-09-13T22:28:31Z
   Price: $19.99 USD
-- [Lenovo Chromebook License for Academics](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-5-year-1): Elevate your Chromebook experience with the Lenovo Absolute Visibility License. Enjoy 5 years of premium features tailored for educational institutions.
-  Updated: 2025-09-13T22:28:30Z
-  Price: $28.99 USD
 - [StarTech USB 3.0 Ethernet Adapter](https://store42.co/products/startech-usb-3-0-gigabit-ethernet-adapter-silver-plug-and-play-for-macbook-chromebook): Enhance your MacBook or Chromebook connectivity with the StarTech USB 3.0 Gigabit Ethernet Adapter for fast wired internet access without hassle.
   Updated: 2025-09-13T22:28:38Z
   Price: $58.99 USD
@@ -5134,18 +4822,12 @@
 - [Lenovo Duet G2 Chromebook 10.1"](https://store42.co/products/ts-chromebook-duet-g2-mtk838): Discover the Lenovo Duet G2 Chromebook featuring a portable design, long battery life, and powerful performance – perfect for education and productivity!
   Updated: 2025-09-15T20:46:25Z
   Price: $377.99 USD
-- [Lenovo 2-Year Chromebook License for Schools](https://store42.co/products/lenovo-absolute-resilience-for-chromebooks-term-license-1-license-2-year): Enhance your Chromebook's potential with Lenovo's 2-Year Absolute Resilience License. Ideal for schools, offering security and management at academic pricing.
-  Updated: 2025-09-13T22:29:05Z
-  Price: $21.99 USD
 - [Viewsonic 15.6" FHD Portable Monitor](https://store42.co/products/15-6-fhd-portable-monitor-108): Enhance your workflow with the Viewsonic 15.6" FHD Portable Monitor. Lightweight, USB-C powered, and perfect for travel. Experience stunning visuals!
   Updated: 2025-09-15T19:39:52Z
   Price: $338.99 USD
 - [Lenovo Chromebook Theft Protection License](https://store42.co/products/lenovo-absolute-mobile-theft-management-2-year-license-for-chromebooks-academic-pricing): Secure your Chromebooks with Lenovo's 2-Year Absolute Mobile Theft Management License. Affordable, robust protection designed for educational environments.
   Updated: 2025-09-13T22:29:07Z
   Price: $13.99 USD
-- [Lenovo Chromebook 5-Year License](https://store42.co/products/lenovo-absolute-resilience-for-chromebooks-term-license-1-license-5-year): Enhance your Chromebook with Lenovo Absolute Resilience. Secure your academic device with a 5-year license designed for optimal performance and stability.
-  Updated: 2025-09-13T22:29:09Z
-  Price: $35.99 USD
 - [Case Logic Neoprene Sleeve for Chromebooks](https://store42.co/products/case-logic-quantic-lneo-214-carrying-case-sleeve-for-14-chromebook-black): Protect your 14" Chromebook with the Case Logic Neoprene Sleeve. Stylish, cushioned, and with extra pockets for accessories, it's perfect for travel.
   Updated: 2025-09-11T21:00:59Z
   Price: $47.99 USD
@@ -5173,15 +4855,6 @@
 - [Acer Chromebook Spin 511 - 2-in-1 Laptop](https://store42.co/products/acer-chromebook-spin-511-r756t-r756t-c822-11-6-touchscreen-convertible-2-in-1-chromebook-hd-intel-n100-4-gb-32-gb-flash-memory-english-us-keyboard-black): Experience the versatility of the Acer Chromebook Spin 511 with an 11.6" touchscreen, Intel N100 processor, and 12-hour battery life for endless productivity.
   Updated: 2025-09-11T19:19:51Z
   Price: $584.99 USD
-- [Lenovo Chromebook Visibility License](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-4-year): Get peace of mind with the Lenovo Absolute Visibility License for Chromebooks. Four-year validity for seamless device management and security.
-  Updated: 2025-09-13T22:30:09Z
-  Price: $35.99 USD
-- [Lenovo Absolute Visibility for Chromebooks](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-3-year): Enhance your Chromebook's security with Lenovo Absolute Visibility. This 3-year license offers protection and efficiency for your device and data.
-  Updated: 2025-09-13T22:30:10Z
-  Price: $28.99 USD
-- [Lenovo Resilience for Chromebooks](https://store42.co/products/lenovo-absolute-resilience-for-chromebooks-term-license-1-license-1-year): Enhance learning with Lenovo Absolute Resilience—secure software for Chromebooks at an exclusive academic rate. Protect devices and boost productivity.
-  Updated: 2025-09-13T22:30:11Z
-  Price: $16.99 USD
 - [Targus 11.6" Slim Work-In Case](https://store42.co/products/targus-work-in-tkc001-carrying-case-briefcase-for-11-6-notebook-chromebook-black): Protect your Chromebook with the Targus 11.6" Slim Work-In Case. Features durable materials, padded straps, and ample storage for your essentials.
   Updated: 2025-09-11T01:56:39Z
   Price: $58.99 USD
@@ -5197,18 +4870,12 @@
 - [Belkin 5-In-1 USB-C Multiport Adapter](https://store42.co/products/belkin-usb-c-5-in-1-multiport-adapter-for-chromebook-4k-hdmi-86w-power-delivery-gigabit-ethernet): Discover the Belkin 5-In-1 USB-C Multiport Adapter for your Chromebook. Enjoy 4K HDMI, 86W power delivery, and Gigabit Ethernet for seamless connectivity!
   Updated: 2025-09-13T22:30:40Z
   Price: $92.99 USD
-- [Lenovo Visibility for Chromebooks - Academic](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-4-year-1): Empower your academic institution with Lenovo Absolute Visibility for Chromebooks. Get a 4-year license for effective device management and oversight.
-  Updated: 2025-09-13T22:30:40Z
-  Price: $24.99 USD
 - [Targus 14" Neoprene Sleeve - Black](https://store42.co/products/targus-tss913-carrying-case-sleeve-for-14-microsoft-surface-book-notebook-chromebook-black): Protect your laptop with the Targus 14" Neoprene Sleeve. Featuring 3-way carry options, a zippered pocket, and ID holder for convenience and style.
   Updated: 2025-09-14T12:16:21Z
   Price: $52.99 USD
 - [BTI C31N1845 42Wh Battery for ASUS Chromebook](https://store42.co/products/bti-c31n1845-11-55v-42wh-3-cell-li-ion-notebook-battery-for-asus-chromebook-flip-series): Upgrade your ASUS Chromebook Flip with the BTI C31N1845 battery. Enjoy lasting power and efficiency with 3640 mAh for uninterrupted productivity!
   Updated: 2025-09-13T22:30:48Z
   Price: $151.99 USD
-- [Lenovo Absolute Visibility for Chromebooks](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-2-year): Transform Chromebook management in education with Lenovo Absolute Visibility. Get insights and control with a 2-Year Academic License for one user.
-  Updated: 2025-09-13T22:30:49Z
-  Price: $17.99 USD
 - [Dual 4K USB-C Hub with Power Delivery](https://store42.co/products/plugable-dual-4k-usb-c-chromebook-docking-station-google-certified-chromebook-compatible-60w-driverless-charging-dock): Unlock productivity with the Plugable Dual 4K USB-C Hub. Connect dual 4K displays, fast charge your devices, and enjoy universal compatibility.
   Updated: 2025-09-14T12:49:01Z
   Price: $247.99 USD
@@ -5227,38 +4894,17 @@
 - [Logitech M317 Wireless Mouse](https://store42.co/products/logitech-m317-wireless-mouse-2-4-ghz-with-usb-unifying-receiver-1000-dpi-optical-tracking-12-month-battery-compatible-with-pc-mac-laptop-chromebook-steel-blue): Discover the Logitech M317 Wireless Mouse with a year-long battery life, sleek steel blue design, and compatibility with multiple operating systems.
   Updated: 2025-09-15T12:41:28Z
   Price: $41.99 USD
-- [Lenovo Chromebook 2-Year Security License](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-2-year-1): Secure your Chromebook with Lenovo's Absolute Visibility 2-Year License. Enjoy seamless protection and monitoring for your device. Maximize your productivity!
-  Updated: 2025-09-13T22:31:25Z
-  Price: $23.99 USD
-- [Lenovo Chromebook License - 3 Year Academic](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-3-year-1): Enhance Chromebook management with Lenovo's Absolute Visibility License. Secure a single-user license for 3 years, designed for educational institutions.
-  Updated: 2025-09-13T22:31:26Z
-  Price: $20.99 USD
-- [Lenovo Chromebook Absolute Visibility License](https://store42.co/products/lenovo-absolute-visibility-for-chromebooks-term-license-1-license-1-year): Unlock your Chromebook's full potential with the Lenovo Absolute Visibility License. Enjoy 1 year of seamless software access and peace of mind.
-  Updated: 2025-09-13T22:31:27Z
-  Price: $14.99 USD
 - [Targus 12-Inch Neoprene Case - Versatile Fit](https://store42.co/products/targus-12-inch-surface-pro-neoprene-case-versatile-3-way-protection-with-handles-strap): Protect your 12-inch Surface Pro with the Targus Neoprene Case. Enjoy versatile carrying options and a sleek design for work or leisure.
   Updated: 2025-09-15T12:12:47Z
   Price: $44.99 USD
-- [Lenovo Resilience for Chromebooks](https://store42.co/products/lenovo-absolute-resilience-for-chromebooks-term-license-1-license-4-year): Maximize Chromebook performance in schools with Lenovo Absolute Resilience Software. Enjoy 4 years of protection and efficiency for learning.
-  Updated: 2025-09-13T22:31:36Z
-  Price: $31.99 USD
-- [Lenovo Chromebook Academic License](https://store42.co/products/lenovo-absolute-resilience-for-chromebooks-term-license-1-license-3-year): Elevate your educational experience with the Lenovo Absolute Resilience Chromebook. Get 3 years of uninterrupted service and personalized access for learning.
-  Updated: 2025-09-13T22:31:38Z
-  Price: $25.99 USD
-- [Acer Chromebook 311 - Portability & Power](https://store42.co/products/acer-chromebook-311-11-6-hd-display-octa-core-processor-8gb-ram-15-hour-battery-life-shal): Discover the Acer Chromebook 311 with an 11.6" HD display, Octa-Core power, and 15-hour battery life. Perfect for multitasking on the go!
-  Updated: 2025-09-11T01:57:00Z
-  Price: $477.99 USD
 - [Samsung Galaxy Chromebook Plus 8GB RAM](https://store42.co/products/chromebook-neptune-blue): Discover the Samsung Galaxy Chromebook Plus: 8GB RAM, 256GB storage, Neptune Blue. Ultra-portable design and vibrant touchscreen for seamless productivity.
   Updated: 2025-09-15T20:47:26Z
   Price: $775.99 USD
-- [Acer Chromebook 314 - 14" Touchscreen](https://store42.co/products/acer-chromebook-314-14-touchscreen-intel-core-i3-n305-8gb-ram-128gb-storage-silver): Acer Chromebook 314 features a 14" touchscreen, Intel Core i3, 8GB RAM, and 128GB storage for high performance and stunning visuals. Perfect for work and play!
-  Updated: 2025-09-11T01:57:02Z
-  Price: $712.99 USD
 - [Lenovo 14e Chromebook Gen 3 - Storm Gray](https://store42.co/products/lenovo-14e-chromebook-gen-3-14-fhd-n200-8gb-ram-14-hours-battery-classroom-ready-in-storm-gra): Discover the Lenovo 14e Chromebook Gen 3 with a 14" FHD, 8GB RAM, and 14 hours battery, perfect for students and seamless learning on the go.
   Updated: 2025-09-15T12:40:04Z
   Price: $604.99 USD
 - [Dell P1424H 14" Portable Monitor](https://store42.co/products/dell-14-portable-monitor): Boost your productivity on the go with the ultra-lightweight Dell P1424H 14" FHD Portable Monitor. Stunning visuals for any workspace!
-  Updated: 2025-09-15T20:46:33Z
+  Updated: 2025-09-16T15:22:17Z
   Price: $416.99 USD
 - [Case Logic 12" Chromebook Sleeve](https://store42.co/products/quantic-12-chromebook-slv-blk): Discover premium protection with the Case Logic Quantic Slim 12" Chromebook Sleeve in black. Sleek design for travel & daily use, stay connected safely!
   Updated: 2025-09-11T01:57:04Z
@@ -5291,7 +4937,7 @@
   Updated: 2025-09-13T22:32:16Z
   Price: $71.99 USD
 - [Windows 11 Home 64 Bit OEM DVD](https://store42.co/products/windows-11-home-64-bit-1pack): Upgrade your PC with Windows 11 Home 64 Bit OEM DVD. Enjoy enhanced performance, gaming features, and robust security for modern computing.
-  Updated: 2025-09-16T11:36:06Z
+  Updated: 2025-09-16T15:22:06Z
   Price: $150.99 USD
 - [Microsoft Remote Desktop Services CAL 2019](https://store42.co/products/win-rmt-dsktp-cal-2019-1user): Enhance productivity with Microsoft Remote Desktop Services CAL 2019. Securely access your desktop remotely. Perfect for flexible work environments!
   Updated: 2025-09-13T22:32:18Z
@@ -5300,7 +4946,7 @@
   Updated: 2025-09-13T22:32:19Z
   Price: $242.99 USD
 - [Microsoft Office 2024 Home & Business](https://store42.co/products/office-home-and-business-2024): Boost your productivity with Microsoft Office Home & Business 2024. Built for seamless task management and collaboration. Get started today!
-  Updated: 2025-09-16T11:36:11Z
+  Updated: 2025-09-16T15:22:21Z
   Price: $296.99 USD
 - [Windows Server 2022 User CAL - OEM License](https://store42.co/products/server-2022-user-cal-1pk): Unlock the power of your IT with the Microsoft Windows Server 2022 User CAL. Ideal for businesses needing security and performance in server access.
   Updated: 2025-09-15T19:39:31Z
@@ -5330,7 +4976,7 @@
   Updated: 2025-09-13T22:32:28Z
   Price: $349.99 USD
 - [Microsoft 365 Family for Military](https://store42.co/products/m365-family-1yr-military-only): Unlock productivity with Microsoft 365 Family Subscription for US Military. 1-Year license, family sharing, and medialess access. Start enhancing your digital experience!
-  Updated: 2025-09-16T10:16:21Z
+  Updated: 2025-09-16T15:22:01Z
   Price: $135.99 USD
 - [Windows Server 2025 Standard License](https://store42.co/products/server-2025-standard-16-core): Enhance your server with Microsoft Windows Server 2025 Standard. Get robust performance, security, and efficient virtualization for your business.
   Updated: 2025-09-16T10:16:36Z
@@ -5339,7 +4985,7 @@
   Updated: 2025-09-13T22:32:34Z
   Price: $6,240.99 USD
 - [Windows Server 2025 Standard 24-Core](https://store42.co/products/server-2025-standard-24-core): Unlock your server's potential with Windows Server 2025 Standard. Enhance performance, security, and scalability for your business needs.
-  Updated: 2025-09-16T10:16:36Z
+  Updated: 2025-09-16T15:22:11Z
   Price: $2,163.99 USD
 - [Windows Server 2022 Datacenter 16-Core](https://store42.co/products/svr-2022-datacntr-16-core-al): Unlock enterprise power with Microsoft Windows Server 2022. Experience advanced security, virtualization, and hybrid cloud capabilities with a 16-core license.
   Updated: 2025-09-13T22:32:36Z
@@ -5363,10 +5009,10 @@
   Updated: 2025-09-15T15:37:55Z
   Price: $296.99 USD
 - [Microsoft 365 Personal - 1 Year License](https://store42.co/products/m365-personal-1yr): Unlock productivity with Microsoft 365 Personal. Enjoy Office apps, 1 TB OneDrive storage, and real-time collaboration. Enhance your efficiency today!
-  Updated: 2025-09-16T11:36:06Z
+  Updated: 2025-09-16T15:22:01Z
   Price: $135.99 USD
 - [Windows 11 Pro 64 Bit USB License](https://store42.co/products/win-11-pro-usb): Upgrade to Microsoft Windows 11 Pro for unmatched performance and security. Enhance your productivity with a refined interface and robust protection.
-  Updated: 2025-09-16T10:16:26Z
+  Updated: 2025-09-16T15:22:01Z
   Price: $242.99 USD
 - [2501-5000 Asset Tagging Solutions](https://store42.co/products/asset-tagging-2501-5000): Maximize your inventory efficiency with 2501-5000 Asset Tagging by D and H Services. Durable, precise, and perfect for mixed assets, optimize tracking today!
   Updated: 2025-09-15T19:40:06Z
@@ -5381,13 +5027,13 @@
   Updated: 2025-09-13T22:32:47Z
   Price: $1,232.99 USD
 - [Windows 11 Pro OEM License - Enhance PC](https://store42.co/products/windows-11-pro-64-bit-1-pack): Elevate your computing with Windows 11 Pro OEM DVD License. Boost performance, multitask easily, and enjoy enhanced security. Upgrade today!
-  Updated: 2025-09-16T10:16:37Z
+  Updated: 2025-09-16T15:22:11Z
   Price: $185.99 USD
 - [Visio Pro 2021 - Advanced Diagramming Software](https://store42.co/products/visio-pro-2021): Discover Microsoft Visio Pro 2021 for Windows. Create stunning diagrams and enhance collaboration with advanced features. Get your license today!
   Updated: 2025-09-13T22:32:49Z
   Price: $644.99 USD
 - [Office Home 2024 License - Digital Download](https://store42.co/products/office-home-2024): Unlock productivity with the Microsoft Office Home 2024 Medialess License. Seamless digital download for English NA users. Start creating today!
-  Updated: 2025-09-16T10:15:47Z
+  Updated: 2025-09-16T15:21:43Z
   Price: $189.99 USD
 - [Windows Server 2022 Standard 16 Core OEM](https://store42.co/products/server-2022-standard-16-core): Upgrade your IT with Windows Server 2022 Standard Edition. Get enhanced performance, security, and compatibility for your business operations today!
   Updated: 2025-09-16T10:16:46Z
@@ -5420,7 +5066,7 @@
   Updated: 2025-09-16T10:15:51Z
   Price: $1,437.99 USD
 - [Microsoft Surface Pro 11 - Powerful & Portable](https://store42.co/products/pro11-13-cu7-32-256-platinum): Experience the Microsoft Surface Pro 11 with Intel CU7, 32GB RAM, and 256GB SSD. A versatile device that offers performance and stunning visuals.
-  Updated: 2025-09-15T19:38:30Z
+  Updated: 2025-09-16T15:21:43Z
   Price: $2,272.99 USD
 - [Surface Pro 11: Power & Portability](https://store42.co/products/pro11-13-cu7-16-256-plat-taa): Discover the Microsoft Surface Pro 11 with Intel i7, 16GB RAM, and 256GB SSD. TAA certified and perfect for professionals and government use.
   Updated: 2025-09-16T10:15:51Z
@@ -5441,7 +5087,7 @@
   Updated: 2025-09-13T22:33:10Z
   Price: $210.99 USD
 - [Samsung Galaxy Tab A9 - 4GB RAM WiFi](https://store42.co/products/tab-a9-4-64gb-wifi-graphite): Discover the Samsung Galaxy Tab A9 with 4GB RAM and 64GB of storage. Perfect for streaming, browsing, and on-the-go entertainment.
-  Updated: 2025-09-16T11:36:06Z
+  Updated: 2025-09-16T15:21:57Z
   Price: $265.99 USD
 - [Samsung Galaxy Tab S10+ 12GB Gray Tablet](https://store42.co/products/tab-s10-12-256gb-vzw-gray): Discover the Samsung Galaxy Tab S10+ with 12GB RAM, 256GB storage in Moonstone Gray. Unmatched performance for work and play. Upgrade now!
   Updated: 2025-09-13T22:33:14Z
@@ -5459,10 +5105,10 @@
   Updated: 2025-09-14T10:04:00Z
   Price: $1,523.99 USD
 - [Logitech Slim Folio Keyboard Case for iPad](https://store42.co/products/slim-folio-ipad-10-9-g10): Elevate your iPad experience with the Logitech Slim Folio Keyboard Case. Enjoy productivity, protection, and a stylish design in one essential accessory.
-  Updated: 2025-09-16T10:16:57Z
+  Updated: 2025-09-16T15:22:25Z
   Price: $135.99 USD
 - [Surface Pro 10 i7 1TB Platinum Laptop](https://store42.co/products/srpr10-i7-64-1tb-platinum): Discover the Microsoft Surface Pro 10 i7 with 64GB RAM and 1TB storage. A powerful 2-in-1 device perfect for professionals and on-the-go productivity.
-  Updated: 2025-09-15T20:47:00Z
+  Updated: 2025-09-16T15:21:44Z
   Price: $3,021.99 USD
 - [Logitech Crayon for iPad - Classic Blue](https://store42.co/products/crayon-digital-pencil-ipad-blu): Discover the Logitech Crayon Digital Pencil for USB-C iPad in Classic Blue. Perfect for artists and students for precision drawing and easy note-taking!
   Updated: 2025-09-15T14:12:58Z
@@ -5486,10 +5132,10 @@
   Updated: 2025-09-16T10:16:51Z
   Price: $1,042.99 USD
 - [Targus Smooth Glide Stylus Pen](https://store42.co/products/smooth-glide-standard-stylus): Enhance your digital experience with the Targus Smooth Glide Black Stylus Pen. Effortless precision for writing, drawing, and navigating apps.
-  Updated: 2025-09-14T19:00:03Z
+  Updated: 2025-09-16T15:22:02Z
   Price: $48.99 USD
 - [Microsoft Surface Pro 11 5G Tablet](https://store42.co/products/pro11-5g-eli-16-512-platinum): Experience the power of the Microsoft Surface Pro 11 5G tablet with 16GB RAM & 512GB storage. Stay connected & productive wherever you go!
-  Updated: 2025-09-16T10:16:11Z
+  Updated: 2025-09-16T15:22:01Z
   Price: $2,058.99 USD
 - [Logitech iPad Air 11" Combo Touch Case](https://store42.co/products/combo-touch-for-ipad-air-11-in): Discover the Logitech Combo Touch iPad Air 11-Inch case in Grey. Combining premium protection and versatile functionality for all your needs.
   Updated: 2025-09-16T10:16:51Z
@@ -5501,7 +5147,7 @@
   Updated: 2025-09-16T10:16:27Z
   Price: $1,246.99 USD
 - [Surface Pro 10 5G - Intel i7 Tablet PC](https://store42.co/products/pro10-5g-i7-16-256-taa-plat): Discover the Microsoft Surface Pro 10 5G equipped with Intel i7, 16GB RAM, 256GB SSD. Perfect for professionals on-the-go!
-  Updated: 2025-09-13T22:33:35Z
+  Updated: 2025-09-16T15:22:26Z
   Price: $2,219.99 USD
 - [Samsung Galaxy Tab S10 FE - 8GB RAM](https://store42.co/products/tab-s10-fe-8-128gb-att-gray): Discover the Samsung Galaxy Tab S10 FE in AT&T Gray. Enjoy 8GB RAM, 128GB storage, and all-day battery life for work and play. Upgrade your experience now!
   Updated: 2025-09-13T22:33:36Z
@@ -5546,7 +5192,7 @@
   Updated: 2025-09-15T19:39:27Z
   Price: $318.99 USD
 - [Logitech iPad Pro 13" Combo Touch Case](https://store42.co/products/combo-touch-for-ipad-pro-13-in): Elevate your productivity with the Logitech Combo Touch Case for iPad Pro 13". Enjoy a keyboard, trackpad, and durable protection in sleek grey.
-  Updated: 2025-09-16T10:15:51Z
+  Updated: 2025-09-16T15:21:43Z
   Price: $308.99 USD
 - [Samsung Galaxy Tab S10 FE - Gray](https://store42.co/products/tab-s10-fe-8-128gb-tmo-gray): Discover the sleek Samsung Galaxy Tab S10 FE with 8GB RAM and 128GB storage. Perfect for work or play, this tablet is your portable powerhouse.
   Updated: 2025-09-13T22:33:49Z
@@ -5564,7 +5210,7 @@
   Updated: 2025-09-13T22:33:55Z
   Price: $1,255.99 USD
 - [Logitech iPad Pro 11" Keyboard Case](https://store42.co/products/combo-touch-ipad-pro-11in-m4): Transform your iPad Pro 11” with Logitech's Combo Touch. This sleek grey keyboard case offers protection and functionality for productivity on the go.
-  Updated: 2025-09-16T10:16:42Z
+  Updated: 2025-09-16T15:22:16Z
   Price: $276.99 USD
 - [Samsung Galaxy Tab S10 Plus - 12GB RAM](https://store42.co/products/tab-s10-12-256gb-usc-gray): Discover the Samsung Galaxy Tab S10 Plus with 12GB RAM and 256GB storage, designed for seamless multitasking and stunning visuals. Elevate your experience!
   Updated: 2025-09-13T22:33:57Z
@@ -5600,7 +5246,7 @@
   Updated: 2025-09-16T10:16:31Z
   Price: $1,149.99 USD
 - [Microsoft Surface Pro 10 - Intel i5, 16GB](https://store42.co/products/srpr10-i5-16-512-platinum): Discover the Microsoft Surface Pro 10 with Intel i5, 16GB RAM, and 512GB SSD. Perfect for productivity and creativity on the go, multilingual support included!
-  Updated: 2025-09-16T10:16:46Z
+  Updated: 2025-09-16T15:22:26Z
   Price: $1,737.99 USD
 - [Startech 15W Qi Wireless Charging Stand](https://store42.co/products/qi-wireless-charging-stand): Charge your device fast with the Startech Qi Wireless Charging Stand. Adjustable, sleek, and Qi Certified for safe power delivery. Perfect for any setup!
   Updated: 2025-09-13T22:34:06Z
@@ -5615,7 +5261,7 @@
   Updated: 2025-09-15T20:47:15Z
   Price: $2,379.99 USD
 - [Microsoft Surface Pro 11 - Intel i5, 32GB RAM](https://store42.co/products/pro11-13-cu5-32-256-platinum): Explore the powerful Microsoft Surface Pro 11 with Intel i5, 32GB RAM, and 256GB SSD. Perfect for work and play in a sleek platinum design!
-  Updated: 2025-09-16T10:16:31Z
+  Updated: 2025-09-16T15:22:10Z
   Price: $1,951.99 USD
 - [Rugged Samsung Galaxy Tab Active4 Pro](https://store42.co/products/active4-pro-4-64gb-wi-fi-black): Explore the Samsung Galaxy Tab Active4 Pro - a rugged, powerful Wi-Fi tablet perfect for outdoor and work environments. Unmatched durability and performance await!
   Updated: 2025-09-13T22:34:13Z
@@ -5627,7 +5273,7 @@
   Updated: 2025-09-16T10:16:22Z
   Price: $2,165.99 USD
 - [Microsoft Surface Pro 11 - i7, 32GB, 512GB](https://store42.co/products/pro11-13-cu7-32-512-platinum): Discover the Microsoft Surface Pro 11: Intel i7, 32GB RAM, 512GB SSD. Versatile 2-in-1 design for seamless productivity and creativity. Get yours now!
-  Updated: 2025-09-15T19:38:57Z
+  Updated: 2025-09-16T15:21:57Z
   Price: $2,486.99 USD
 - [Microsoft Surface Pro 10 - i5 & 5G Ready](https://store42.co/products/pro10-5g-i5-16-256-taa-plat): Discover the versatile Microsoft Surface Pro 10 with an Intel i5, 16GB RAM, and 256GB SSD. Perfect for professionals and students on the go!
   Updated: 2025-09-11T01:59:14Z
@@ -5771,7 +5417,7 @@
   Updated: 2025-09-13T22:35:08Z
   Price: $125.99 USD
 - [Belkin 2-Port USB Car Charger](https://store42.co/products/boost-charge-dual-car-charger): Stay powered on the go with the Belkin Boost Charge 2-Port USB Car Charger. Dual ports for fast charging and sleek design for modern travels.
-  Updated: 2025-09-16T10:15:56Z
+  Updated: 2025-09-16T15:21:47Z
   Price: $55.99 USD
 - [Belkin Dual USB-A Car Charger](https://store42.co/products/bst-chgr-dual-usb-a-car-chrgr): Charge your devices on the go with Belkin's 2-Port USB-A Car Charger. Fast charging, dual ports, and LED indicator for an efficient driving experience.
   Updated: 2025-09-13T22:35:12Z
@@ -5867,7 +5513,7 @@
   Updated: 2025-09-13T22:36:18Z
   Price: $30.00 USD
 - [Plaid Patchwork Henley Top](https://store42.co/products/waffle-stripe-plaid-patchwork-henley-knit-top): Discover the Waffle Stripe Plaid Patchwork Henley Top, a stylish, stretchy knit. Perfect for casual outings, it blends comfort and modern style effortlessly!
-  Updated: 2025-09-16T07:11:21Z
+  Updated: 2025-09-16T14:20:46Z
   Price: $36.28 USD
 - [Plaid Drop Shoulder Jacket](https://store42.co/products/plaid-button-up-drop-shoulder-jacket): Elevate your casual style with our plaid drop shoulder jacket, made from 100% polyester for comfort and easy maintenance. Perfect for layering!
   Updated: 2025-09-13T22:36:30Z
@@ -5894,7 +5540,7 @@
   Updated: 2025-09-13T22:37:39Z
   Price: $32.98 USD
 - [Trendsi Color Block Knit Cardigan](https://store42.co/products/color-block-knit-button-up-cardigan): Discover the perfect blend of style and comfort with the Trendsi Color Block Knit Button-Up Cardigan. Ideal for versatile layering all season long!
-  Updated: 2025-09-16T07:11:29Z
+  Updated: 2025-09-16T15:01:29Z
   Price: $48.88 USD
 - [Stylish Plaid Wide Leg Pants](https://store42.co/products/plaid-wide-leg-pants-with-drawstring-waist): Elevate your wardrobe with our plaid wide leg pants featuring a drawstring waist and pockets. Comfort meets chic in every outfit. Shop now!
   Updated: 2025-09-13T22:37:54Z
@@ -6008,7 +5654,7 @@
   Updated: 2025-09-13T22:46:31Z
   Price: $45.64 USD
 - [Stylish Checkered Bowknot Graphic Tee](https://store42.co/products/checkered-bowknot-graphic-crew-neck-t-shirt): Discover effortless style with our Bowknot Checkered Graphic Tee, featuring a comfy fit perfect for any casual occasion. Shop now for a chic update!
-  Updated: 2025-09-16T09:43:41Z
+  Updated: 2025-09-16T15:01:39Z
   Price: $31.44 USD
 - [Chic Paisley Floral V Neck Mini Dress](https://store42.co/products/paisley-floral-v-neck-short-sleeve-mini-dress): Discover the Paisley Floral V Neck Mini Dress. Crafted in breathable cotton, it's perfect for brunch, parties, or casual outings. Style meets comfort!
   Updated: 2025-09-13T22:46:48Z
@@ -6065,7 +5711,7 @@
   Updated: 2025-09-13T22:49:48Z
   Price: $27.82 USD
 - [Oversized Checkerboard Denim Top](https://store42.co/products/checkerboard-splicing-raw-detail-oversized-denim-top): Make a bold statement with our oversized checkerboard denim top featuring fringe details. Perfect for any occasion, comfort meets style effortlessly!
-  Updated: 2025-09-16T03:50:35Z
+  Updated: 2025-09-16T13:22:18Z
   Price: $54.30 USD
 - [Plaid Wool Blend Longline Jacket](https://store42.co/products/plaid-wool-blend-longline-jacket): Upgrade your fall style with our Plaid Wool Blend Longline Jacket. Featuring pockets and button closure, it's perfect for layering and keeping warm.
   Updated: 2025-09-13T22:50:19Z
@@ -6176,7 +5822,7 @@
   Updated: 2025-09-16T04:30:18Z
   Price: $78.20 USD
 - [Trendsi Checkered Smocked Shorts](https://store42.co/products/smocked-elastic-waist-checkered-shorts): Discover the perfect blend of comfort and style with Trendsi's checkered smocked shorts. Ideal for casual outings, these shorts offer a chic design.
-  Updated: 2025-09-16T06:10:48Z
+  Updated: 2025-09-16T15:01:56Z
   Price: $17.88 USD
 - [Leopard Print Patchwork Button Down Shirt](https://store42.co/products/striped-patchwork-button-down-shirt-with-leopard-print-details): Elevate your style with our Striped Patchwork Button Down Shirt, featuring chic leopard print details and made from breathable cotton. Shop now!
   Updated: 2025-09-16T03:10:51Z
@@ -6374,7 +6020,7 @@
   Updated: 2025-09-13T23:11:11Z
   Price: $36.74 USD
 - [Chic Checkered Open Front Cardigan](https://store42.co/products/checkered-pattern-open-front-cardigan): Discover the Trendy Checkered Pattern Open Front Cardigan. A stylish, stretchy blend, perfect for layering and versatile enough for any occasion.
-  Updated: 2025-09-16T07:11:16Z
+  Updated: 2025-09-16T13:22:11Z
   Price: $55.82 USD
 - [Plaid Scoop Neck Top & Shorts Set](https://store42.co/products/plaid-tied-scoop-neck-short-sleeve-top-and-drawstring-shorts-set): Elevate your casual style with our Plaid Tied Scoop Neck Top and Drawstring Shorts Set. Soft, stylish, and perfect for any occasion.
   Updated: 2025-09-13T23:11:51Z
@@ -6389,7 +6035,7 @@
   Updated: 2025-09-13T23:12:24Z
   Price: $24.10 USD
 - [Mandy Classic Plaid Long Sleeve Shirt](https://store42.co/products/mandy-plaid-collared-neck-long-sleeve-shirt): Discover the Mandy Classic Plaid Long Sleeve Shirt, perfect for any occasion. Stylish, versatile, and crafted for comfort—revamp your wardrobe now!
-  Updated: 2025-09-13T23:12:38Z
+  Updated: 2025-09-16T12:30:17Z
   Price: $20.00 USD
 - [Plus Size GAME DAY Graphic T-Shirt](https://store42.co/products/full-size-game-day-checkered-letter-graphic-t-shirt-plus-size): Score big on style with our plus size GAME DAY Checkered Letter Graphic T-Shirt. Comfort meets flair for every game and casual outing!
   Updated: 2025-09-16T09:45:04Z
@@ -6587,7 +6233,7 @@
   Updated: 2025-09-13T23:27:31Z
   Price: $25.58 USD
 - [Chic Striped V-Neck Casual Top](https://store42.co/products/striped-v-neck-button-front-casual-top): Discover our trendy striped V-neck top, featuring a button-front for versatile styling. Crafted from a soft viscose blend for all-day comfort. Shop now!
-  Updated: 2025-09-13T23:27:55Z
+  Updated: 2025-09-16T15:24:08Z
   Price: $34.10 USD
 - [Longline Button Up Vest Coat](https://store42.co/products/button-up-longline-vest-coat): Discover the Button Up Longline Vest Coat—stylish, breathable, and perfect for layering. Ideal for any occasion, effortlessly elevate your wardrobe today!
   Updated: 2025-09-13T23:28:12Z
@@ -6683,10 +6329,10 @@
   Updated: 2025-09-13T23:35:25Z
   Price: $33.50 USD
 - [Boho Embroidered Casual Shorts](https://store42.co/products/embroidered-boho-tasseled-drawstring-elastic-waist-casual-shorts): Discover our stylish Boho Tasseled Casual Shorts, crafted from soft cotton with a chic drawstring waist. Perfect for summer adventures and everyday comfort!
-  Updated: 2025-09-13T23:35:42Z
+  Updated: 2025-09-16T12:20:57Z
   Price: $30.34 USD
 - [Zenana Oversized Stripe Pullover](https://store42.co/products/zenana-round-neck-stripe-sweater): Discover the serene style of the Zenana Oversized Stripe Sweater. Perfect for layering or solo wear, enjoy cozy comfort with chic stripes. Get yours!
-  Updated: 2025-09-13T23:35:45Z
+  Updated: 2025-09-16T15:39:20Z
   Price: $34.58 USD
 - [Chic Tassel V-Neck Cami Top](https://store42.co/products/tassel-v-neck-spaghetti-strap-cami): Elevate your style with our Tassel V-Neck Spaghetti Strap Cami Top. Lightweight, smooth, and perfect for casual or dressy occasions. Explore now!
   Updated: 2025-09-13T23:35:50Z
@@ -6854,7 +6500,7 @@
   Updated: 2025-09-13T23:48:20Z
   Price: $31.80 USD
 - [Vintage Purple Tie-Dye Crop Tee](https://store42.co/products/zenana-washed-crew-neck-short-sleeve-crop-box-tee-1): Discover style with our Vintage Washed Crew Neck Purple Tie-Dye Crop Tee. Soft cotton, relaxed fit, perfect for any casual occasion. Shop now!
-  Updated: 2025-09-13T23:48:23Z
+  Updated: 2025-09-16T15:22:52Z
   Price: $21.66 USD
 - [Chic Wide Leg Drawstring Pants](https://store42.co/products/drawstring-wide-leg-pants-1): Embrace comfort with our chic drawstring wide leg pants. Made from 95% polyester, they feature pockets & are machine washable for easy care.
   Updated: 2025-09-13T23:48:43Z
@@ -6944,7 +6590,7 @@
   Updated: 2025-09-13T23:56:06Z
   Price: $42.22 USD
 - [Trendy V-Neck Women’s Tank Top](https://store42.co/products/v-neck-tank): Discover the ultimate comfort and style with our Trendy V-Neck Tank Top for women. Perfect for any occasion, stay cool and chic this summer!
-  Updated: 2025-09-13T23:56:25Z
+  Updated: 2025-09-16T15:11:05Z
   Price: $22.38 USD
 - [Chic V-Neck Ribbed Two-Piece Set](https://store42.co/products/v-neck-short-sleeve-top-and-pants-set): Discover our Trendy V-Neck Ribbed Two-Piece Set with pocketed pants and chic slit detail. Perfect for any occasion, combining style and comfort effortlessly.
   Updated: 2025-09-13T23:56:35Z
@@ -7115,7 +6761,7 @@
   Updated: 2025-09-14T00:07:42Z
   Price: $16.00 USD
 - [Chic Off-Shoulder Loungewear Set](https://store42.co/products/zenana-fleece-boat-neck-sweatshirt-and-shorts-set): Explore the Zenana Off-Shoulder Fleece Set, your stylish choice for comfy loungewear. Perfect for lounging or casual outings. Shop your size today!
-  Updated: 2025-09-14T00:07:48Z
+  Updated: 2025-09-16T15:22:51Z
   Price: $41.88 USD
 - [Stylish Ribbed Knit Sleeveless Top](https://store42.co/products/contrast-trim-ribbed-knit-sleeveless-top): Elevate your wardrobe with our Ribbed Knit Sleeveless Top featuring chic contrast trim. Comfortable, stretchy, and perfect for any occasion!
   Updated: 2025-09-16T06:30:47Z
@@ -7130,7 +6776,7 @@
   Updated: 2025-09-16T03:50:51Z
   Price: $32.20 USD
 - [Chic High-Waisted Wide Leg Jeans](https://store42.co/products/high-waisted-wide-leg-washed-jeans): Upgrade your style with our High-Waisted Wide Leg Jeans. Made from durable non-stretch denim, offering comfort and chic versatility for any occasion.
-  Updated: 2025-09-15T16:11:15Z
+  Updated: 2025-09-16T14:40:39Z
   Price: $60.16 USD
 - [Chic Smocked Cami & Pants Set](https://store42.co/products/smocked-square-neck-cami-and-pants-set): Discover the Trendsi 2-Piece Smocked Cami and Pants Set. Stylish, comfortable, and perfect for any occasion. Elevate your wardrobe today!
   Updated: 2025-09-14T00:09:55Z
@@ -7478,7 +7124,7 @@
   Updated: 2025-09-14T00:37:40Z
   Price: $43.10 USD
 - [Floral Layered Mini Dress](https://store42.co/products/floral-contrast-edge-layered-short-sleeve-mini-dress): Step out in style with our Floral Contrast Edge Layered Mini Dress. Perfect for summer, its ruffled design and lightweight fabric ensure comfort and flair.
-  Updated: 2025-09-16T02:31:30Z
+  Updated: 2025-09-16T15:06:36Z
   Price: $47.04 USD
 - [Floral Spaghetti Strap Maxi Dress](https://store42.co/products/printed-spaghetti-strap-sleeveless-maxi-dress): Shop our elegant Floral Spaghetti Strap Maxi Dress! Lightweight, breathable fabric perfect for summer outings, weddings, or casual brunch dates.
   Updated: 2025-09-14T00:38:29Z
@@ -7514,7 +7160,7 @@
   Updated: 2025-09-14T00:40:51Z
   Price: $39.94 USD
 - [Ruffle Mini Dress - Mineral Wash Style](https://store42.co/products/mineral-wash-raw-edge-ruffle-mini-dress): Discover elegance with our Slightly Stretchy Mineral Wash Ruffle Mini Dress. Perfect blend of chic style and comfort for any occasion!
-  Updated: 2025-09-16T06:10:41Z
+  Updated: 2025-09-16T15:01:14Z
   Price: $56.36 USD
 - [Davi & Dani Flutter V-Neck Tiered Dress](https://store42.co/products/davi-dani-jacquard-v-neck-flutter-cap-sleeve-tiered-dress): Elevate your style with the Davi & Dani Jacquard V-Neck Flutter Cap Sleeve Tiered Dress. Perfect for weddings and brunches. Shop now!
   Updated: 2025-09-14T00:41:18Z
@@ -7688,7 +7334,7 @@
   Updated: 2025-09-15T07:01:37Z
   Price: $31.90 USD
 - [Floral Lace Square Neck Dress](https://store42.co/products/lace-detail-square-neck-floral-dress): Elevate your style with our Floral Lace Detail Square Neck Dress. Perfect for any event, featuring a charming bow tie and elegant lace accents.
-  Updated: 2025-09-14T00:57:31Z
+  Updated: 2025-09-16T14:20:46Z
   Price: $48.10 USD
 - [Floral Puff Sleeve Dress with Ruffled Hem](https://store42.co/products/ruffled-hem-floral-puff-sleeve-dress): Elevate your style with the Ruffled Hem Floral Dress. Chic puff sleeves and smocked bodice make it a perfect choice for any occasion. Shop now!
   Updated: 2025-09-14T00:58:06Z
@@ -7958,7 +7604,7 @@
   Updated: 2025-09-15T12:33:41Z
   Price: $46.80 USD
 - [Sequin Nashville T-Shirt - Glam Style](https://store42.co/products/lightening-nashville-sequin-round-neck-t-shirt): Revamp your casual style with our Lightening Nashville Sequin T-Shirt. Chic, stretchy, and versatile—perfect for any occasion!
-  Updated: 2025-09-16T09:43:40Z
+  Updated: 2025-09-16T15:01:47Z
   Price: $32.28 USD
 - [Floral Sheer Mesh Top with Lettuce Hem](https://store42.co/products/annie-wear-floral-lettuce-hem-sheer-mesh-top): Elevate your style with the Annie Wear Sheer Mesh Floral Top. Trendy, airy, and feminine, it's perfect for layering and versatile for any occasion.
   Updated: 2025-09-14T01:17:29Z
@@ -8327,7 +7973,7 @@
   Updated: 2025-09-14T01:36:19Z
   Price: $31.64 USD
 - [Sleek Checkered Mock Neck Blouse](https://store42.co/products/checkered-mock-neck-long-sleeve-blouse): Discover the stylish Sheer Checkered Mock Neck Long Sleeve Blouse. Perfect for any occasion, this chic piece combines elegance with comfort seamlessly.
-  Updated: 2025-09-16T10:01:34Z
+  Updated: 2025-09-16T15:20:46Z
   Price: $18.32 USD
 - [Perfee Semi-Sheer Long Sleeve Dress](https://store42.co/products/perfee-lapel-collar-tied-mesh-long-sleeve-dress): Discover elegance with the Perfee Semi-Sheer Tied Dress. Perfect for any occasion, this versatile dress features a lapel collar & chic tied waist.
   Updated: 2025-09-14T01:36:44Z
@@ -8369,7 +8015,7 @@
   Updated: 2025-09-14T01:39:35Z
   Price: $21.08 USD
 - [Sheer Bow Long Sleeve Top](https://store42.co/products/bow-round-neck-long-sleeve-top-1): Elevate your style with our Sheer Bow Round Neck Long Sleeve Top, blending comfort and fashion. Perfect for any occasion, it’s a wardrobe essential!
-  Updated: 2025-09-16T00:54:12Z
+  Updated: 2025-09-16T14:38:34Z
   Price: $18.92 USD
 - [Sheer Mesh V-Neck Bodysuit](https://store42.co/products/culture-code-round-neck-mesh-perspective-bodysuit): Elevate your style with the Sheer Mesh V-Neck Bodysuit. Its sultry fit and alluring design make it perfect for any confident outfit. Shop now!
   Updated: 2025-09-14T01:39:51Z
@@ -9086,7 +8732,7 @@
   Updated: 2025-09-14T02:09:11Z
   Price: $23.50 USD
 - [Stylish Embroidered Denim Jacket](https://store42.co/products/embroidered-patch-button-up-long-sleeve-denim-jacket): Discover our Embroidered Patch Button Up Long Sleeve Denim Jacket. Perfect for any occasion with a modern high-low hem and playful patches. Get yours now!
-  Updated: 2025-09-14T02:09:20Z
+  Updated: 2025-09-16T14:12:05Z
   Price: $93.74 USD
 - [Crisscross Striped Tankini Set](https://store42.co/products/crisscross-striped-spaghetti-strap-tankini-set): Embrace summer in style with our Crisscross Striped Tankini Set. Enjoy comfort, adjustable support, and a chic design perfect for poolside lounging!
   Updated: 2025-09-14T02:09:31Z
@@ -9218,7 +8864,7 @@
   Updated: 2025-09-14T02:16:33Z
   Price: $190.14 USD
 - [Chic Summer Top & Denim Shorts Set](https://store42.co/products/collared-neck-button-up-top-and-shorts-denim-set): Elevate your summer style with our collared neck button-up top and denim short set. Stay cool and chic this season with effortless elegance.
-  Updated: 2025-09-16T10:17:01Z
+  Updated: 2025-09-16T12:27:42Z
   Price: $71.82 USD
 - [Four Leaf Clover Bracelet - Good Luck Charm](https://store42.co/products/stainless-steel-four-leaf-clover-bracelet): Shop our Stainless Steel Four Leaf Clover Bracelet in gold or silver. Hypoallergenic and adjustable, this charm represents good luck and elegance.
   Updated: 2025-09-14T02:16:51Z
@@ -9410,7 +9056,7 @@
   Updated: 2025-09-14T02:25:35Z
   Price: $12.98 USD
 - [Plus Size Relaxed Fit Ribbed Sweater](https://store42.co/products/full-size-relaxed-fit-ribbed-hem-sweater-plus-size): Discover comfort and style with our Plus Size Relaxed Fit Ribbed Hem Sweater. Available in sizes S to 5XL, it’s perfect for any occasion.
-  Updated: 2025-09-14T02:25:59Z
+  Updated: 2025-09-16T14:09:20Z
   Price: $32.70 USD
 - [18K Gold-Plated Charm Necklace](https://store42.co/products/zinc-alloy-bead-charm-necklace): Elevate your style with our 18K Gold-Plated Charm Necklace featuring an adjustable rope chain. Perfect for any occasion, this piece is a fashion essential.
   Updated: 2025-09-14T02:26:04Z
@@ -9656,7 +9302,7 @@
   Updated: 2025-09-14T02:38:02Z
   Price: $43.40 USD
 - [Chic Stripe Two-Piece Set](https://store42.co/products/stripe-collared-top-and-drawstring-pant-set): Discover effortless elegance with our Stripe Collared Two-Piece Set. Perfect for casual outings, this stylish ensemble combines comfort and trendiness.
-  Updated: 2025-09-16T11:00:41Z
+  Updated: 2025-09-16T13:40:42Z
   Price: $72.02 USD
 - [Chic 2-Piece Square Neck Swim Set](https://store42.co/products/square-neck-top-and-skirt-swim-set): Discover our trendy 2-piece square neck swim set featuring removable padding and stretchy fabric for ultimate comfort this summer.
   Updated: 2025-09-14T02:38:35Z
@@ -9734,7 +9380,7 @@
   Updated: 2025-09-14T02:42:04Z
   Price: $57.84 USD
 - [Fringed Distressed Denim Jacket for Women](https://store42.co/products/distressed-drop-shoulder-denim-jacket): Elevate your style with our Fringed Distressed Drop Shoulder Denim Jacket. Perfect for trendy outfits, layered or standalone. Get yours today!
-  Updated: 2025-09-16T03:53:35Z
+  Updated: 2025-09-16T13:32:07Z
   Price: $53.36 USD
 - [Mini Denim Dress with Pockets](https://store42.co/products/pocketed-dropped-shoulder-mini-denim-dress): Shop our Mini Denim Dress crafted from 100% rayon. Features dropped shoulders, pockets, and is machine washable for effortless style. Perfect for any occasion!
   Updated: 2025-09-15T11:55:45Z
@@ -9746,7 +9392,7 @@
   Updated: 2025-09-14T02:44:00Z
   Price: $31.52 USD
 - [Tied Cotton Romper with Pockets](https://store42.co/products/tied-romper-with-pockets): Embrace summer in our Tied Cotton Romper. Chic design, breathable fabric, and convenient pockets make this your go-to outfit for any occasion.
-  Updated: 2025-09-15T11:55:36Z
+  Updated: 2025-09-16T12:36:38Z
   Price: $56.84 USD
 - [Stylish Denim Jacket for Women](https://store42.co/products/pocketed-button-up-sleeveless-denim-jacket): Elevate your style with our Pocketed Button-Up Sleeveless Denim Jacket. Perfect for any season, versatile fit, and effortless casual chic!
   Updated: 2025-09-14T02:44:42Z
@@ -9887,7 +9533,7 @@
   Updated: 2025-09-14T02:51:05Z
   Price: $12.60 USD
 - [Bootcut Distressed Plus Size Jeans](https://store42.co/products/risen-full-size-distressed-detail-bootcut-jeans-plus-size): Elevate your style with RISEN's bootcut distressed plus size jeans. Perfectly blend comfort and elegance for any occasion. Shop now!
-  Updated: 2025-09-16T00:37:28Z
+  Updated: 2025-09-16T12:52:01Z
   Price: $66.02 USD — $69.50 USD
 - [Elegant 2 Carat Moissanite Teardrop Ring](https://store42.co/products/2-carat-925-sterling-silver-moissanite-teardrop-shape-ring): Discover the 2 Carat Moissanite Teardrop Ring in 925 Sterling Silver. Perfect for engagements or special occasions, this jewelry piece shines bright!
   Updated: 2025-09-14T02:51:15Z
@@ -10181,7 +9827,7 @@
   Updated: 2025-09-14T03:02:40Z
   Price: $8.76 USD
 - [Glitter Ghost Women's T-Shirt](https://store42.co/products/glitter-ghost-round-neck-short-sleeve-t-shirt): Unleash your style with the Glitter Ghost Short Sleeve T-Shirt! Made from stretchy fabric, it's perfect for any occasion and machine washable.
-  Updated: 2025-09-16T09:43:10Z
+  Updated: 2025-09-16T14:28:02Z
   Price: $29.44 USD
 - [Elegant Pearl Moissanite Earrings](https://store42.co/products/925-sterling-silver-freshwater-pearl-earrings): Discover elegance with our Sterling Silver Freshwater Pearl Earrings featuring Moissanite accents. Perfect for any occasion, blend charm and sophistication!
   Updated: 2025-09-14T03:02:55Z
@@ -11174,7 +10820,7 @@
   Updated: 2025-09-14T03:43:43Z
   Price: $10.66 USD
 - [Gold-Plated Halloween Pumpkin Earrings](https://store42.co/products/halloween-pumpkin-drop-earrings): Celebrate the spooky season with our 18K Gold-Plated Halloween Pumpkin Drop Earrings, adorned with rhinestones for a chic look. Perfect for any outfit!
-  Updated: 2025-09-14T03:43:49Z
+  Updated: 2025-09-16T15:18:02Z
   Price: $6.88 USD
 - [925 Sterling Silver Cross Necklace](https://store42.co/products/925-sterling-silver-cross-necklace): Discover timeless elegance with our 925 Sterling Silver Cross Necklace, featuring a 15.7-inch chain and a stunning design perfect for any occasion.
   Updated: 2025-09-15T20:03:11Z
@@ -11381,7 +11027,7 @@
   Updated: 2025-09-14T03:50:50Z
   Price: $19.62 USD
 - [Chic Asymmetrical Short Sleeve Top](https://store42.co/products/asymmetrical-short-sleeve-top): Elevate your style with our Trendy Asymmetrical Short Sleeve Top. Crafted from a stretchy blend, it's perfect for every occasion. Shop now!
-  Updated: 2025-09-16T07:40:36Z
+  Updated: 2025-09-16T12:59:06Z
   Price: $25.10 USD
 - [Comfortable Solid Polyester Headband](https://store42.co/products/solid-polyester-wide-headband): Discover the style and functionality of our Solid Polyester Wide Headband—perfect for daily wear while keeping your hair effortlessly in place!
   Updated: 2025-09-14T03:51:12Z
@@ -11519,7 +11165,7 @@
   Updated: 2025-09-16T09:43:50Z
   Price: $30.98 USD
 - [Plus Size US Flag Graphic V-Neck Tee](https://store42.co/products/plus-size-us-flag-graphic-v-neck-tee): Show off your patriotic spirit with this Plus Size US Flag Graphic V-Neck Tee. Comfort and style blend perfectly for any occasion. Shop now!
-  Updated: 2025-09-14T03:56:25Z
+  Updated: 2025-09-16T13:21:34Z
   Price: $31.88 USD
 - [Chic Distressed Denim Shorts](https://store42.co/products/us-flag-distressed-denim-shorts): Elevate your summer style with our trendy distressed denim shorts featuring a US flag print. Stylish comfort for any casual outing awaits!
   Updated: 2025-09-14T03:56:34Z
@@ -11528,7 +11174,7 @@
   Updated: 2025-09-16T10:40:51Z
   Price: $31.34 USD
 - [US Flag Sequin T-Shirt](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-1): Show your patriotism with the stylish US Flag Sequin T-Shirt. Perfect for casual outings and celebrating national pride comfortably!
-  Updated: 2025-09-16T09:42:46Z
+  Updated: 2025-09-16T15:02:12Z
   Price: $29.82 USD
 - [Patriotic US Flag Long Sleeve Sweatshirt](https://store42.co/products/us-flag-round-neck-long-sleeve-sweatshirt): Express your love for the USA with our US Flag Graphic Long Sleeve Sweatshirt. Fashion meets comfort in this versatile cotton blend for every occasion.
   Updated: 2025-09-14T03:56:50Z
@@ -11573,10 +11219,10 @@
   Updated: 2025-09-14T03:57:59Z
   Price: $6.60 USD
 - [US Flag Graphic Tee for Men & Women](https://store42.co/products/us-flag-graphic-round-neck-tee): Embrace your patriotism with our stylish US Flag Graphic Tee. Comfortable fit for casual outings or lounging at home. Available in sizes S to 2XL!
-  Updated: 2025-09-16T09:43:27Z
+  Updated: 2025-09-16T15:02:06Z
   Price: $29.60 USD
 - [US Flag Short Sleeve T-Shirt](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-6): Show your patriotism with our US Flag Short Sleeve T-Shirt. Made from a comfy cotton blend, it’s perfect for casual outings or lounging at home!
-  Updated: 2025-09-16T09:43:45Z
+  Updated: 2025-09-16T15:01:18Z
   Price: $33.50 USD
 - [FAM-FAM High Waist Bootcut Pants](https://store42.co/products/fam-fam-star-stripes-high-waist-bootcut-pants): Discover the stylish FAM-FAM High Waist Bootcut Pants with a unique Star & Stripes design. Perfect for comfort and a flattering fit for any occasion.
   Updated: 2025-09-14T03:58:19Z
@@ -11609,13 +11255,13 @@
   Updated: 2025-09-14T03:59:10Z
   Price: $68.48 USD
 - [Sequin Star Short Sleeve T-Shirt](https://store42.co/products/sequin-star-round-neck-short-sleeve-t-shirt): Sparkle in style with our Sequin Star Short Sleeve T-Shirt. Perfect for casual outings or adding glam to your look! Available in multiple sizes.
-  Updated: 2025-09-15T18:51:05Z
+  Updated: 2025-09-16T15:21:07Z
   Price: $29.80 USD
 - [Patriotic Heart T-Shirt](https://store42.co/products/stars-and-stripes-heart-round-neck-short-sleeve-t-shirt): Show your patriotic spirit with our Stars and Stripes Heart T-Shirt. Chic, comfortable, and easy to care for—perfect for casual outings!
   Updated: 2025-09-16T09:43:45Z
   Price: $30.76 USD
 - [Sequin Star Short Sleeve T-Shirt](https://store42.co/products/sequin-star-round-neck-short-sleeve-t-shirt-1): Shine brightly in our trendy Sequin Star Short Sleeve T-Shirt! Perfect for any occasion, this comfy shirt is a must-have for your wardrobe!
-  Updated: 2025-09-16T09:43:51Z
+  Updated: 2025-09-16T15:01:52Z
   Price: $29.54 USD
 - [Patriotic US Flag Two-Piece Swimsuit](https://store42.co/products/us-flag-drawstring-detail-two-piece-swimsuit): Embrace your patriotic style with our US Flag Two-Piece Swimsuit. Removable padding and stylish skirted bottom make it perfect for any summer occasion!
   Updated: 2025-09-14T03:59:34Z
@@ -11630,7 +11276,7 @@
   Updated: 2025-09-14T03:59:53Z
   Price: $55.30 USD
 - [Women's US Flag T-Shirt](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-10): Show your patriotic spirit with our US Flag Short Sleeve T-Shirt for women. Enjoy comfort and style for all casual outings this summer!
-  Updated: 2025-09-16T09:42:11Z
+  Updated: 2025-09-16T15:01:57Z
   Price: $29.58 USD
 - [ADORA V-Neck Mini Dress with Ruffles](https://store42.co/products/adora-printed-v-neck-ruffle-sleeve-mini-dress): Discover the ADORA Printed V-Neck Mini Dress with charming ruffle sleeves. Perfect for any occasion, it offers stylish comfort and versatility.
   Updated: 2025-09-14T04:00:04Z
@@ -11693,7 +11339,7 @@
   Updated: 2025-09-14T04:01:43Z
   Price: $8.56 USD
 - [US Flag Sequin T-Shirt](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-12): Show your patriotic spirit with our eye-catching US Flag Sequin T-Shirt. Perfect for any occasion, this stylish tee offers comfort and flair!
-  Updated: 2025-09-16T09:44:12Z
+  Updated: 2025-09-16T15:01:30Z
   Price: $33.64 USD
 - [ADORA Mini Denim Dress with Pockets](https://store42.co/products/adora-v-neck-half-sleeve-mini-denim-dress): Elevate your style with the ADORA V-Neck Mini Denim Dress. Comfortable 100% cotton, chic design, and convenient pockets for a versatile look.
   Updated: 2025-09-14T04:01:53Z
@@ -11708,7 +11354,7 @@
   Updated: 2025-09-14T04:02:10Z
   Price: $30.54 USD
 - [Patriotic Oversize US Flag T-Shirt](https://store42.co/products/us-flag-star-round-neck-half-sleeve-oversize-t-shirt): Show your love for the USA with our Oversized US Flag T-Shirt. Perfect for any occasion, this comfy tee dazzles with a sequined design!
-  Updated: 2025-09-15T06:34:21Z
+  Updated: 2025-09-16T13:00:43Z
   Price: $35.66 USD
 - [Trendy Star Patch Sweatshirt](https://store42.co/products/game-day-star-patch-round-neck-long-sleeve-sweatshirt): Elevate your style with the GAME DAY Star Patch Sweatshirt. Comfortable, trendy, and perfect for any occasion. Available in sizes S to XL.
   Updated: 2025-09-15T21:12:01Z
@@ -11765,7 +11411,7 @@
   Updated: 2025-09-14T04:06:12Z
   Price: $28.28 USD
 - [Slightly Stretchy Bow Neck T-Shirt](https://store42.co/products/full-size-bow-round-neck-short-sleeve-t-shirt): Experience comfort and style with our Full Size Bow Round Neck Tee. Soft, stretchy fabric in multiple sizes for a perfect fit. Elevate your wardrobe today!
-  Updated: 2025-09-16T09:43:13Z
+  Updated: 2025-09-16T15:01:51Z
   Price: $25.04 USD
 - [Striped Turtleneck Sweater by Trendsi](https://store42.co/products/contrast-striped-turtleneck-dropped-shoulder-sweater): Elevate your wardrobe with our Contrast Striped Turtleneck Dropped Shoulder Sweater. Perfect for layering, stylish and comfortable for all occasions.
   Updated: 2025-09-14T04:06:41Z
@@ -11783,7 +11429,7 @@
   Updated: 2025-09-14T04:07:05Z
   Price: $24.14 USD
 - [Sequin Santa Sweatshirt for the Holidays](https://store42.co/products/sequin-santa-striped-round-neck-long-sleeve-sweatshirt): Celebrate the season in style with our Sequin Santa Striped Sweatshirt! Perfect for festive gatherings and cozy nights, radiate holiday cheer everywhere.
-  Updated: 2025-09-16T11:32:08Z
+  Updated: 2025-09-16T14:15:11Z
   Price: $39.78 USD
 - [Chic Leopard Print Zip Jacket](https://store42.co/products/leopard-collared-neck-zip-up-jacket): Elevate your style with our Leopard Print Collared Zip Up Jacket. Effortlessly chic and versatile for any occasion. Perfect for layering anytime!
   Updated: 2025-09-14T04:07:18Z
@@ -11891,7 +11537,7 @@
   Updated: 2025-09-14T07:31:41Z
   Price: $30.74 USD
 - [Trendsi Women's Bow Neck Sweatshirt](https://store42.co/products/bow-round-neck-long-sleeve-sweatshirt): Discover the Trendsi Women’s Bow Round Neck Sweatshirt—stylish, comfy, and versatile for casual outings. Shop now for a wardrobe upgrade!
-  Updated: 2025-09-16T12:00:41Z
+  Updated: 2025-09-16T14:40:52Z
   Price: $33.44 USD
 - [Johnny Collar Stripe Sweater](https://store42.co/products/johnny-collar-long-sleeve-stripe-sweater): Discover the chic Johnny Collar Long Sleeve Stripe Sweater. Its comfortable, stretchy knit and stylish design make it perfect for any occasion.
   Updated: 2025-09-14T04:14:56Z
@@ -12008,13 +11654,13 @@
   Updated: 2025-09-14T04:20:25Z
   Price: $29.62 USD
 - [Trendsi Sequin Short Sleeve T-Shirt](https://store42.co/products/sequin-round-neck-short-sleeve-t-shirt): Elevate your wardrobe with the Trendsi Sequin T-Shirt. Soft, stylish, and versatile—perfect for casual outings or lounging at home!
-  Updated: 2025-09-16T09:44:00Z
+  Updated: 2025-09-16T15:01:54Z
   Price: $28.64 USD
 - [Fuzzy Plaid Hooded Vest Coat for Women](https://store42.co/products/fuzzy-plaid-hooded-vest-coat): Stay stylish and cozy with our Women's Fuzzy Plaid Hooded Vest Coat. Perfect for layering, this lightweight vest is both trendy and warm for all occasions.
   Updated: 2025-09-14T04:20:36Z
   Price: $37.22 USD
 - [Trendy Sequin Striped Sweatshirt](https://store42.co/products/sequin-football-striped-long-sleeve-sweatshirt): Shop our Trendy Sequin Football Striped Sweatshirt. Soft cotton blend, chic design, and perfect for game days or casual outings. Elevate your wardrobe!
-  Updated: 2025-09-16T06:51:22Z
+  Updated: 2025-09-16T12:20:57Z
   Price: $49.60 USD
 - [Striped Long Sleeve Top with Pockets](https://store42.co/products/striped-round-neck-long-sleeve-top-1): Elevate your wardrobe with Trendsi’s Women’s Striped Long Sleeve Top. Comfortable, chic, and practical, perfect for any occasion. Shop now!
   Updated: 2025-09-14T04:20:55Z
@@ -12044,7 +11690,7 @@
   Updated: 2025-09-14T04:21:54Z
   Price: $40.54 USD
 - [Sequin Pumpkin Tee - Stylish Comfort](https://store42.co/products/sequin-pumpkin-round-neck-short-sleeve-t-shirt-1): Shine bright with our Sequin Pumpkin Short Sleeve T-Shirt. Perfect for casual outings, this tee offers style, comfort, and a flattering fit for all.
-  Updated: 2025-09-16T09:41:53Z
+  Updated: 2025-09-16T15:02:18Z
   Price: $27.42 USD
 - [Gold-Plated Bow Pendant Necklace](https://store42.co/products/titanium-steel-gold-plated-bow-pendant-necklace): Discover elegance with our Gold-Plated Titanium Steel Bow Pendant Necklace. Lightweight, adjustable, and perfect for any occasion. Treat yourself or a loved one!
   Updated: 2025-09-14T04:22:02Z
@@ -12209,7 +11855,7 @@
   Updated: 2025-09-14T04:32:05Z
   Price: $34.50 USD
 - [Chic Striped Two-Piece Set](https://store42.co/products/striped-round-neck-long-sleeve-top-and-pants-set): Discover comfort and style with our Trendy Striped Two-Piece Set. Perfect for outings or lounging, crafted from soft stretchy fabric. Shop now!
-  Updated: 2025-09-16T05:51:46Z
+  Updated: 2025-09-16T13:22:15Z
   Price: $77.34 USD — $77.56 USD
 - [Striped Boat Neck Long Sleeve Sweater](https://store42.co/products/striped-boat-neck-long-sleeve-sweater): Upgrade your wardrobe with our Striped Boat Neck Long Sleeve Sweater. Made from soft, stretchy acrylic, it's perfect for any casual occasion. Shop now!
   Updated: 2025-09-14T04:32:33Z
@@ -12221,7 +11867,7 @@
   Updated: 2025-09-14T04:33:06Z
   Price: $35.08 USD
 - [Chic Bow Print Lounge Set](https://store42.co/products/bow-printed-collared-neck-top-and-drawstring-shorts-lounge-set): Upgrade your comfort with our Bow Printed Top and Drawstring Shorts Set. Stylish and breathable, perfect for lounging or casual outings. Shop now!
-  Updated: 2025-09-14T04:33:12Z
+  Updated: 2025-09-16T15:26:40Z
   Price: $58.70 USD
 - [Trendsi Striped Long Sleeve Sweatshirt](https://store42.co/products/striped-round-neck-long-sleeve-sweatshirt-1): Explore comfort and style with the Trendsi Striped Long Sleeve Sweatshirt. Made of 95% cotton, it's perfect for layering or casual outings.
   Updated: 2025-09-14T04:33:16Z
@@ -12263,7 +11909,7 @@
   Updated: 2025-09-16T03:32:17Z
   Price: $48.20 USD
 - [Dazzling Sequin T-Shirt for All Occasions](https://store42.co/products/sequin-hat-round-neck-short-sleeve-t-shirt): Shine bright with our Trendy Sequin T-Shirt. A stylish cotton-blend tee with sequins, perfect for any event. Grab yours and dazzle today!
-  Updated: 2025-09-16T09:43:57Z
+  Updated: 2025-09-16T15:02:19Z
   Price: $32.16 USD
 - [Leopard Print Half Sleeve Blouse](https://store42.co/products/leopard-round-neck-half-sleeve-blouse): Stand out in style with our trendy leopard print half sleeve blouse. Perfect for any occasion, available in sizes S-XL. Elevate your wardrobe now!
   Updated: 2025-09-14T14:50:46Z
@@ -12296,7 +11942,7 @@
   Updated: 2025-09-14T04:37:22Z
   Price: $35.94 USD
 - [Sequined Leopard Print Tee](https://store42.co/products/sequin-leopard-round-neck-short-sleeve-t-shirt): Elevate your style with our Sequined Leopard Print T-Shirt. Slightly stretchy for comfort, it’s perfect for any occasion!
-  Updated: 2025-09-16T09:43:46Z
+  Updated: 2025-09-16T15:01:42Z
   Price: $30.98 USD
 - [Leopard Print Ruffled Tank Top](https://store42.co/products/leopard-ruffled-notched-tank): Stay stylish with this Leopard Print Ruffled Notched Tank Top. Perfect for casual outings, it combines comfort and trendy fashion effortlessly!
   Updated: 2025-09-14T04:37:33Z
@@ -12437,7 +12083,7 @@
   Updated: 2025-09-14T04:46:55Z
   Price: $59.84 USD
 - [Sequin Pumpkin T-Shirt for Fall](https://store42.co/products/full-size-sequin-pumpkin-round-neck-short-sleeve-t-shirt): Shop our Sequin Pumpkin Round Neck T-Shirt! Perfect for fall celebrations, it blends comfort and sparkle for a standout look. Available in various sizes.
-  Updated: 2025-09-16T09:41:51Z
+  Updated: 2025-09-16T15:01:16Z
   Price: $27.42 USD
 - [Leopard Print Tie Neck Blouse](https://store42.co/products/leopard-tie-neck-cap-sleeve-blouse): Embrace fierce fashion with our Leopard Print Tie Neck Blouse. Perfect for any occasion, featuring elegant cap sleeves and chic styling. Order yours today!
   Updated: 2025-09-14T04:47:22Z
@@ -12467,7 +12113,7 @@
   Updated: 2025-09-14T04:48:25Z
   Price: $25.48 USD
 - [Nutcracker Sequin Bow Cardigan](https://store42.co/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Celebrate the season in style with our Nutcracker Sequin Bow Cardigan. Enjoy comfort, elegance, and a playful twist for festive gatherings!
-  Updated: 2025-09-15T17:45:15Z
+  Updated: 2025-09-16T14:45:18Z
   Price: $52.88 USD
 - [Festive Front Tied Mini Dress](https://store42.co/products/double-take-christmas-front-tied-long-sleeve-mini-dress): Celebrate in style with the Double Take Christmas Dress. Long sleeves, adjustable front tie, and a flattering silhouette perfect for winter festivities!
   Updated: 2025-09-14T04:48:43Z
@@ -12524,7 +12170,7 @@
   Updated: 2025-09-15T14:31:27Z
   Price: $49.48 USD
 - [Chic Bow Graphic Long Sleeve Sweatshirt](https://store42.co/products/bow-graphic-round-neck-long-sleeve-sweatshirt): Discover the stylish Bow Graphic Opaque Long Sleeve Sweatshirt crafted from a soft cotton blend. Perfect for any casual occasion, easy care and chic!
-  Updated: 2025-09-15T16:12:51Z
+  Updated: 2025-09-16T15:21:16Z
   Price: $42.24 USD
 - [Trendy Tied Printed Jacket](https://store42.co/products/tied-printed-collared-neck-long-sleeve-jacket): Elevate your style with this chic Tied Printed Collared Neck Jacket. Crafted for comfort, it's perfect for any occasion and easy to maintain.
   Updated: 2025-09-14T04:51:51Z
@@ -12701,10 +12347,10 @@
   Updated: 2025-09-14T05:01:29Z
   Price: $43.90 USD
 - [Sequin Christmas Tree T-Shirt](https://store42.co/products/sequin-christmas-tree-round-neck-short-sleeve-t-shirt): Shine this holiday season with our Sequin Christmas Tree Short Sleeve T-Shirt. Perfect for festive gatherings, this tee combines comfort and style!
-  Updated: 2025-09-15T18:51:03Z
+  Updated: 2025-09-16T15:21:22Z
   Price: $25.04 USD
 - [Chic Sequin Long Sleeve Sweatshirt](https://store42.co/products/sequin-round-neck-long-sleeve-sweatshirt): Upgrade your wardrobe with our Chic Sequin Long Sleeve Sweatshirt. Perfect for casual outings, it's stylish, comfortable, and machine washable!
-  Updated: 2025-09-16T12:00:40Z
+  Updated: 2025-09-16T15:21:12Z
   Price: $50.24 USD
 - [Chic Crisscross Color Block Tee](https://store42.co/products/crisscross-color-block-long-sleeve-t-shirt): Discover the Chic Crisscross Color Block T-Shirt. Made from a soft cotton blend, its unique design ensures style and comfort in every outfit.
   Updated: 2025-09-14T05:01:51Z
@@ -12830,7 +12476,7 @@
   Updated: 2025-09-14T05:07:42Z
   Price: $33.92 USD
 - [Festive Sequin Santa T-Shirt for Women](https://store42.co/products/sequin-santa-round-neck-short-sleeve-t-shirt): Celebrate in style with our Sequin Santa Graphic T-Shirt! Perfect for holiday gatherings, this comfy tee adds festive flair and comfort to your wardrobe.
-  Updated: 2025-09-16T09:43:36Z
+  Updated: 2025-09-16T15:20:57Z
   Price: $28.50 USD
 - [Glamorous Sequin Long Sleeve Dress](https://store42.co/products/sequin-round-neck-long-sleeve-dress): Dazzle at parties in our Glamorous Sequin Round Neck Long Sleeve Dress. Opaque sheer fabric, timeless design, and perfect for any special occasion.
   Updated: 2025-09-16T02:54:26Z
@@ -12839,7 +12485,7 @@
   Updated: 2025-09-12T07:22:31Z
   Price: $19.34 USD
 - [Festive Sequin Nutcracker Sweatshirt](https://store42.co/products/sequin-nutcracker-round-neck-long-sleeve-sweatshirt-1): Embrace the holiday spirit with our cozy Sequin Nutcracker Sweatshirt. Perfect for winter outings, this stylish piece adds charm and comfort to any look.
-  Updated: 2025-09-16T12:00:44Z
+  Updated: 2025-09-16T15:20:47Z
   Price: $56.12 USD
 - [Chic Lace-Up Leopard Print Flats](https://store42.co/products/lace-up-leopard-slip-ons): Embrace stylish comfort with our chic leopard print lace-up slip-ons. Ideal for any occasion, crafted for durability and effortless elegance.
   Updated: 2025-09-14T05:08:25Z
@@ -12893,7 +12539,7 @@
   Updated: 2025-09-14T05:11:05Z
   Price: $36.08 USD
 - [Cute Santa Bow Graphic Sweatshirt](https://store42.co/products/santa-bow-graphic-long-sleeve-sweatshirt): Celebrate the season with our soft, comfy Santa & Bow graphic sweatshirt. Perfect for festive outings or cozy days at home. Get yours now!
-  Updated: 2025-09-16T12:00:52Z
+  Updated: 2025-09-16T14:40:50Z
   Price: $33.44 USD
 - [Mandy Striped Sweater Vest](https://store42.co/products/mandy-collared-neck-striped-sweater-vest): Discover the Mandy Collared Neck Striped Sweater Vest. Comfortable stretch, chic design—perfect for any occasion. Dress up or down with ease.
   Updated: 2025-09-14T05:11:38Z
@@ -12944,7 +12590,7 @@
   Updated: 2025-09-16T00:10:46Z
   Price: $34.84 USD
 - [Chic Women's Bow Long Sleeve Sweatshirt](https://store42.co/products/bow-round-neck-long-sleeve-sweatshirt-1): Elevate your casual wardrobe with the Trendsi Women's Bow Sweatshirt. Soft, stylish, and versatile for any occasion. Shop now for effortless chic!
-  Updated: 2025-09-16T09:10:36Z
+  Updated: 2025-09-16T14:40:38Z
   Price: $43.36 USD
 - [Trendy Leopard Open Front Cardigan](https://store42.co/products/leopard-open-front-dropped-shoulder-cardigan): Discover the chic Leopard Open Front Cardigan, featuring pockets and moderate stretch for comfort. Perfect for any casual outfit. Shop today!
   Updated: 2025-09-14T05:14:35Z
@@ -12989,7 +12635,7 @@
   Updated: 2025-09-14T05:16:50Z
   Price: $72.34 USD
 - [Sparkling Sequin Sweatshirt for Women](https://store42.co/products/sequin-helmet-round-neck-long-sleeve-sweatshirt): Elevate your style with our Sequin Round Neck Long Sleeve Sweatshirt. Comfortable, chic, and machine washable - perfect for any occasion!
-  Updated: 2025-09-16T12:00:44Z
+  Updated: 2025-09-16T15:20:52Z
   Price: $51.06 USD
 - [Chic Plaid Zip-Up Vest Coat](https://store42.co/products/pocketed-plaid-zip-up-vest-coat): Elevate your style with this Plaid Zip-Up Vest Coat. Crafted from 100% polyester, featuring pockets and easy care, it's perfect for layering!
   Updated: 2025-09-14T05:17:01Z
@@ -13007,7 +12653,7 @@
   Updated: 2025-09-14T05:17:26Z
   Price: $25.64 USD
 - [Sequin Baseball Long Sleeve Sweatshirt](https://store42.co/products/sequin-baseball-long-sleeve-sweatshirt): Elevate your style with our Trendy Sequin Baseball Long Sleeve Sweatshirt, blending comfort and glam in a structured fit. Perfect for any occasion!
-  Updated: 2025-09-15T16:13:07Z
+  Updated: 2025-09-16T15:21:11Z
   Price: $44.84 USD
 - [Trendy Sequin T-Shirt - Shine Bright!](https://store42.co/products/sequin-round-neck-short-sleeve-t-shirt-2): Elevate your style with our Trendy Sequin Round Neck T-Shirt. Perfect for any occasion, this machine washable top combines comfort with elegance.
   Updated: 2025-09-16T09:42:47Z
@@ -13301,7 +12947,7 @@
   Updated: 2025-09-14T05:36:19Z
   Price: $37.04 USD
 - [Sparkling Sequin Football Sweatshirt](https://store42.co/products/sequin-football-long-sleeve-sweatshirt-1): Elevate your casual style with the Sparkling Sequin Football Long Sleeve Sweatshirt. Comfort meets glam for every occasion. Shop now!
-  Updated: 2025-09-16T08:31:00Z
+  Updated: 2025-09-16T12:20:44Z
   Price: $47.30 USD
 - [Chic Leopard Zip-Up Jacket for Women](https://store42.co/products/pocketed-leopard-zip-up-hooded-jacket): Elevate your style with our trendy leopard zip-up jacket. Featuring pockets and comfort, it's perfect for any outfit. Order yours today!
   Updated: 2025-09-14T05:36:27Z
@@ -13415,7 +13061,7 @@
   Updated: 2025-09-16T08:30:57Z
   Price: $32.80 USD
 - [Chic Plaid Button-Up Cardigan](https://store42.co/products/plaid-button-up-collared-neck-cardigan): Elevate your look with our trendy Plaid Button-Up Collared Cardigan, crafted for comfort and machine washable for easy care. Perfect for any occasion!
-  Updated: 2025-09-14T21:31:20Z
+  Updated: 2025-09-16T15:01:49Z
   Price: $72.52 USD
 - [Plaid Quarter Zip Hooded Tee](https://store42.co/products/plaid-quarter-zip-hooded-t-shirt): Elevate your style with our Plaid Quarter Zip Hooded T-Shirt. Enjoy the perfect blend of comfort, stretch, and trendy design for any occasion.
   Updated: 2025-09-14T05:42:02Z
@@ -13577,7 +13223,7 @@
   Updated: 2025-09-14T05:51:01Z
   Price: $50.24 USD — $54.86 USD
 - [Stylish Plus Size Long Sleeve Top](https://store42.co/products/zenana-full-size-exposed-seam-long-sleeve-corded-rib-knit-top-plus-size): Discover the Zenana Plus Size Long Sleeve Corded Rib Knit Top with trendy exposed seams. Perfect for any occasion, this chic top enhances your style and comfort.
-  Updated: 2025-09-14T16:15:26Z
+  Updated: 2025-09-16T15:38:48Z
   Price: $23.34 USD — $25.58 USD
 - [Plus Size Flutter Sleeve Jumpsuit](https://store42.co/products/full-size-printed-wide-leg-jumpsuit-with-flutter-sleeves-plus-size): Elevate your style with our Plus Size Printed Wide-Leg Jumpsuit featuring charming flutter sleeves. Perfect for any occasion, it combines elegance and comfort!
   Updated: 2025-09-14T05:51:22Z
@@ -13586,7 +13232,7 @@
   Updated: 2025-09-14T05:51:25Z
   Price: $39.22 USD
 - [Umgee Plus Size Linen Long Sleeve Top](https://store42.co/products/umgee-full-size-linen-long-sleeve-top-with-drawstring-plus-size): Elevate your wardrobe with the Umgee Plus Size Linen Long Sleeve Top. Featuring chic drawstring detail and breathable fabric for comfort.
-  Updated: 2025-09-15T15:26:14Z
+  Updated: 2025-09-16T15:35:07Z
   Price: $47.92 USD — $52.56 USD
 - [Umgee Plus Size Half-Zip Short Sleeve Top](https://store42.co/products/umgee-full-size-half-zip-short-sleeve-top-plus-size-1): Explore stylish comfort with the Umgee Half-Zip Short Sleeve Top. Perfect for layering, it offers versatility for any occasion. Shop now!
   Updated: 2025-09-14T05:51:47Z
@@ -13703,7 +13349,7 @@
   Updated: 2025-09-14T05:58:54Z
   Price: $24.30 USD
 - [Chic Plus Size Balloon Sleeve Blouse](https://store42.co/products/umgee-full-size-textured-notched-balloon-sleeve-blouse-plus-size): Elevate your style with the Umgee plus-size textured blouse featuring notched balloon sleeves. Perfect for any occasion, shop now for effortless elegance!
-  Updated: 2025-09-14T05:59:01Z
+  Updated: 2025-09-16T15:35:07Z
   Price: $50.24 USD — $54.86 USD
 - [Plus Size Flare Sleeve Dress](https://store42.co/products/ivy-lane-plus-size-surplice-neck-flare-sleeve-dress): Discover the Ivy Lane Plus Size Surplice Neck Flare Sleeve Dress. Combines elegance, comfort, and versatility for every occasion. Shop now!
   Updated: 2025-09-14T05:59:05Z
@@ -13778,7 +13424,7 @@
   Updated: 2025-09-14T06:03:26Z
   Price: $27.70 USD
 - [Chic Plus Size Blazer & Pants Set](https://store42.co/products/full-size-lapel-collar-long-sleeve-blazer-and-pants-set-plus-size): Discover elegance with our Plus Size Lapel Collar Blazer and Pants Set, designed for comfort and style. Perfect for any occasion, feel fabulous today!
-  Updated: 2025-09-15T02:02:20Z
+  Updated: 2025-09-16T12:15:57Z
   Price: $50.80 USD
 - [Chic Plus Size Midi Dress](https://store42.co/products/full-size-ruched-halter-neck-midi-dress-plus-size): Discover elegance with our Plus Size Midi Dress. Featuring a ruched halter neck, lightweight fabric, and perfect for any occasion. Shop now!
   Updated: 2025-09-14T06:04:15Z
@@ -13808,7 +13454,7 @@
   Updated: 2025-09-14T06:05:40Z
   Price: $25.10 USD
 - [Plus Size Sleeveless Maxi Dress](https://store42.co/products/full-size-round-neck-sleeveless-slit-maxi-dress-plus-size): Elevate your style with our Plus Size Round Neck Sleeveless Slit Maxi Dress. Featuring stylish slits, convenient pockets, and a flattering fit for every occasion.
-  Updated: 2025-09-14T06:06:19Z
+  Updated: 2025-09-16T13:59:21Z
   Price: $23.42 USD
 - [Plus Size Color Block Mini Dress](https://store42.co/products/plus-size-color-block-scoop-neck-mini-dress): Step out in style with our Plus Size Color Block Mini Dress. Flattering, stretchy, and chic, this dress is perfect for any casual occasion. Express your style!
   Updated: 2025-09-14T06:06:25Z
@@ -14030,7 +13676,7 @@
   Updated: 2025-09-14T06:21:31Z
   Price: $24.76 USD
 - [High Rise Flare Raw Cut Hem Plus Size Jeans](https://store42.co/products/risen-full-size-high-rise-flare-raw-cut-hem-jeans-plus-size): Elevate your style with RISEN Plus Size High Rise Flare Jeans featuring a raw cut hem. Perfect blend of chic and comfort for confident dressing.
-  Updated: 2025-09-15T21:54:11Z
+  Updated: 2025-09-16T15:54:17Z
   Price: $62.10 USD — $65.58 USD
 - [Bohemian Plus Size Maxi Pants](https://store42.co/products/plus-size-printed-wide-leg-long-pants): Discover stylish Bohemian Plus Size Printed Wide Leg Maxi Pants, perfect for tropical vibes and casual outings. Comfortable fit and unique design await!
   Updated: 2025-09-14T06:21:43Z
@@ -14045,7 +13691,7 @@
   Updated: 2025-09-14T06:22:21Z
   Price: $64.24 USD
 - [Tummy Control High Rise Plus Size Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-long-straight-jeans-plus-size): Elevate your style with RISEN Tummy Control High Rise Jeans. Enjoy comfort and chic design in plus sizes, perfect for any occasion.
-  Updated: 2025-09-16T06:06:45Z
+  Updated: 2025-09-16T16:00:49Z
   Price: $67.90 USD — $71.36 USD
 - [Plus Size Brushed Ribbed Hacci Sweater](https://store42.co/products/zenana-full-size-brushed-ribbed-hacci-drop-shoulder-sweater-plus-size): Stay stylish in the Zenana Brushed Ribbed Hacci Sweater. Comfort meets chic design with drop shoulders and soft fabric, perfect for any occasion.
   Updated: 2025-09-14T06:22:30Z
@@ -14537,7 +14183,7 @@
   Updated: 2025-09-14T07:00:14Z
   Price: $50.02 USD
 - [Plus Size Judy Blue Straight Leg Jeans](https://store42.co/products/judy-blue-full-size-seam-detail-straight-leg-jeans-plus-size): Discover the perfect blend of style and comfort with our Plus Size Judy Blue straight leg jeans. Crafted from premium denim for versatile wear.
-  Updated: 2025-09-16T00:37:12Z
+  Updated: 2025-09-16T15:50:40Z
   Price: $67.76 USD — $72.40 USD
 - [Floral Mini Dress for Plus Size](https://store42.co/products/plus-size-floral-print-v-neck-flutter-sleeve-mini-dress): Discover elegance with our Plus Size Floral Print V-Neck Flutter Sleeve Mini Dress. Perfect for any occasion, be it casual or formal. Shop now!
   Updated: 2025-09-14T07:00:28Z
@@ -14801,7 +14447,7 @@
   Updated: 2025-09-14T07:20:30Z
   Price: $30.38 USD
 - [Plus Size Distressed Wide Leg Jeans](https://store42.co/products/risen-full-size-distressed-wide-leg-jeans-plus-size-1): Elevate your style with RISEN's plus size distressed wide leg jeans. Enjoy comfort, chic vintage vibes, and versatility for any occasion. Shop now!
-  Updated: 2025-09-14T07:20:34Z
+  Updated: 2025-09-16T15:56:06Z
   Price: $66.60 USD — $70.08 USD
 - [Plus Size Polka Dot Midi Dress](https://store42.co/products/plus-size-embroidered-polka-dot-tie-neck-long-sleeve-midi-dress): Elevate your style with our Plus Size Embroidered Polka Dot Tie Neck Midi Dress. Perfect for any occasion, its elegance and comfort make it a wardrobe essential!
   Updated: 2025-09-14T07:20:41Z
@@ -15014,43 +14660,43 @@
   Updated: 2025-09-15T13:32:05Z
   Total Products: 13
 - [Modern Tech & Lifestyle Essentials](https://store42.co/collections/new-arrivals): Discover cutting-edge tech and stylish lifestyle essentials designed for modern living. Elevate your daily routine with our curated collection.
-  Updated: 2025-09-15T13:32:33Z
+  Updated: 2025-09-16T12:48:51Z
   Total Products: 7
 - [Top Laptops & Tablets for Work & Play](https://store42.co/collections/laptops-desktops): Discover powerful laptops and tablets designed for seamless multitasking and entertainment. Experience fast performance and stunning visuals for every need.
-  Updated: 2025-09-15T20:45:47Z
+  Updated: 2025-09-16T12:54:54Z
   Total Products: 324
 - [Portable Monitors for Work & Play](https://store42.co/collections/portable-screens-monitors): Discover versatile portable monitors designed for ultimate mobility. Elevate productivity and enjoy leisure with stunning visuals on-the-go!
-  Updated: 2025-09-15T19:46:37Z
+  Updated: 2025-09-16T12:54:17Z
   Total Products: 145
 - [Chic Laptop Sleeves & Travel Bags](https://store42.co/collections/bags-luggage): Discover our chic laptop sleeves and travel bags! Perfectly blend style with function and elevate your travel experience with durable, elegant designs.
   Updated: 2025-09-15T19:44:54Z
   Total Products: 32
 - [Smart Printers for Every Workspace](https://store42.co/collections/printers-printers): Explore our range of innovative printers designed for home and office efficiency. Boost productivity and achieve high-quality results with each print.
-  Updated: 2025-09-15T19:46:43Z
+  Updated: 2025-09-16T12:54:21Z
   Total Products: 57
 - [Essential Computer Accessories for Productivity](https://store42.co/collections/computer-accessories): Discover essential computer accessories to enhance your workspace. From ergonomic tools to sleek designs, boost your productivity and comfort today!
-  Updated: 2025-09-15T19:47:13Z
+  Updated: 2025-09-16T12:57:14Z
   Total Products: 242
 - [Premium Audio Gear: Headphones & Speakers](https://store42.co/collections/audio-headphones-speakers): Elevate your sound experience with premium headphones and speakers. Discover optimal audio performance and stylish designs for every lifestyle. Shop now!
-  Updated: 2025-09-15T19:47:03Z
+  Updated: 2025-09-16T12:54:11Z
   Total Products: 35
 - [Smart Tablets & Wearables for Active Living](https://store42.co/collections/handheld-wearables): Discover innovative tablets and wearables designed for active lifestyles. Enjoy seamless connectivity and stylish tech that enhances every adventure.
-  Updated: 2025-09-15T20:45:47Z
+  Updated: 2025-09-16T12:40:05Z
   Total Products: 103
 - [HP Innovation: Cutting-Edge Tech](https://store42.co/collections/hp-hp): Discover HP Innovation solutions tailored for your lifestyle. From Chromebooks to portable monitors, enhance work and leisure seamlessly with style and functionality.
-  Updated: 2025-09-15T19:47:30Z
+  Updated: 2025-09-16T12:53:32Z
   Total Products: 390
 - [Lenovo Tablets & Chromebooks Collection](https://store42.co/collections/lenovo-lenovo): Explore our innovative Lenovo Tablets and Chromebooks designed for productivity. Experience cutting-edge tech with unmatched performance and versatility.
-  Updated: 2025-09-16T02:23:16Z
-  Total Products: 915
+  Updated: 2025-09-16T14:32:44Z
+  Total Products: 916
 - [Dell Monitors & Accessories for Work](https://store42.co/collections/dell-dell): Elevate productivity with Dell Monitors & Accessories, featuring vibrant displays, ergonomic designs, and seamless connectivity for any workspace.
-  Updated: 2025-09-15T19:47:34Z
+  Updated: 2025-09-16T12:56:18Z
   Total Products: 245
 - [Best Accessories for Apple Devices](https://store42.co/collections/appplaza-best-sellers): Discover the best tech accessories for your Apple devices. From stylish chargers to innovative power banks, enhance your device experience today!
-  Updated: 2025-09-16T10:15:51Z
+  Updated: 2025-09-16T16:02:22Z
   Total Products: 1120
 - [Xerox Printers & Accessories](https://store42.co/collections/xerox): Explore our range of Xerox printers and accessories, featuring innovative technology for effortless printing and enhanced productivity in your workspace.
-  Updated: 2025-09-15T19:46:46Z
+  Updated: 2025-09-16T12:54:21Z
   Total Products: 41
 - [3M Privacy Filters for Ultimate Screen Protection](https://store42.co/collections/3m-3m): Discover top-notch 3M Privacy Filters that enhance display clarity while providing superior privacy. Perfect for reducing glare and protecting your screen.
   Updated: 2025-09-15T19:47:08Z
@@ -15059,10 +14705,10 @@
   Updated: 2025-09-13T19:41:00Z
   Total Products: 16
 - [Innovative WiFi & Networking Devices](https://store42.co/collections/wifi-and-networking): Explore our innovative WiFi & networking solutions. Enjoy fast, reliable connectivity with advanced security and easy setup for home or office use!
-  Updated: 2025-09-15T19:32:15Z
+  Updated: 2025-09-16T12:56:21Z
   Total Products: 36
 - [Smart Charging Solutions & Accessories](https://store42.co/collections/all-products-chatgpt-ai-product-description): Explore our Smart Charging Solutions with stylish wireless chargers, elegant stands, and powerful power banks—perfect for enhancing your tech lifestyle.
-  Updated: 2025-09-15T23:38:28Z
+  Updated: 2025-09-16T12:51:28Z
   Total Products: 202
 - [IT-as-a-Service for Growing Businesses](https://store42.co/collections/transform-42-services): Explore flexible IT-as-a-Service that scales with your business. Ideal for startups to enterprises, we offer secure, on-demand support you can trust.
   Updated: 2025-09-13T19:41:00Z
@@ -15071,16 +14717,16 @@
   Updated: 2025-09-10T13:25:08Z
   Total Products: 2
 - [Samsung Tablet Protection Plans](https://store42.co/collections/product-warranties): Protect your Samsung tablet with our extended warranties. Enjoy peace of mind against accidental damage and secure repairs tailored for your device.
-  Updated: 2025-09-15T19:46:53Z
+  Updated: 2025-09-16T12:40:20Z
   Total Products: 41
 - [Top Servers & Accessories for Performance](https://store42.co/collections/servers-and-server-accessories): Explore our high-quality servers and essential accessories. Enhance performance, reliability, and efficiency for your digital infrastructure today!
-  Updated: 2025-09-14T17:24:44Z
+  Updated: 2025-09-16T12:54:54Z
   Total Products: 1
 - [Top Cameras & Webcams for You](https://store42.co/collections/cameras-and-webcams): Discover high-quality cameras and webcams ideal for any purpose. Capture stunning visuals with advanced features for content creation and remote work.
-  Updated: 2025-09-15T19:46:45Z
+  Updated: 2025-09-16T12:48:18Z
   Total Products: 38
 - [Microsoft Software & Licenses Collection](https://store42.co/collections/software): Explore top Microsoft software and licenses including Windows, Office, and Surface Pro. Enhance your productivity with our premium solutions today!
-  Updated: 2025-09-15T23:38:24Z
+  Updated: 2025-09-16T12:57:30Z
   Total Products: 841
 - [Portable Power Banks for All Your Devices](https://store42.co/collections/power-banks-1): Discover top portable power banks offering fast charging and high-capacity solutions for your smartphones and laptops. Stay connected anywhere you go.
   Updated: 2025-09-15T19:45:04Z
@@ -15155,8 +14801,8 @@
   Updated: 2025-09-16T05:06:01Z
   Total Products: 579
 - [Need to remove](https://store42.co/collections/need-to-remove)
-  Updated: 2025-09-16T10:21:06Z
-  Total Products: 341
+  Updated: 2025-09-16T16:03:05Z
+  Total Products: 1127
 - [Chic Women's Summer Tank Tops & Camisoles](https://store42.co/collections/tank-tops-camis-for-women): Explore our stylish collection of summer tank tops and camisoles. Perfect for any occasion, enjoy comfort and flair with trendy designs and vibrant colors.
   Updated: 2025-09-14T00:03:47Z
   Total Products: 0
@@ -15176,8 +14822,8 @@
   Updated: 2025-09-14T00:02:36Z
   Total Products: 0
 - [APPPlaza - Best Sellers](https://store42.co/collections/appplaza-best-sellers-1)
-  Updated: 2025-09-16T10:16:01Z
-  Total Products: 15679
+  Updated: 2025-09-16T16:02:22Z
+  Total Products: 15685
 - [Chic Women's Casual Dresses](https://store42.co/collections/casual-dresses-for-women): Explore our chic women's casual dresses for all occasions. From off-shoulder to midi styles, find your perfect look and express your unique style!
   Updated: 2025-09-15T19:26:48Z
   Total Products: 45
@@ -15194,7 +14840,7 @@
   Updated: 2025-09-14T17:03:44Z
   Total Products: 0
 - [IT Support and Services](https://store42.co/collections/it-support-and-services)
-  Updated: 2025-09-15T19:46:54Z
+  Updated: 2025-09-16T12:59:07Z
   Total Products: 1070
 - [Denim Dresses & Skirts](https://store42.co/collections/denim-dresses-skirts)
   Updated: 2025-09-15T21:27:27Z
