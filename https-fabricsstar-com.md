@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-16T00:00:33.098Z
+- Updated At: 2025-09-16T04:00:32.965Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-09-12T15:41:51Z
+  Updated: 2025-09-16T02:09:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-09-12T14:30:16Z
+  Updated: 2025-09-16T00:42:43Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-09-13T01:47:30Z
+  Updated: 2025-09-16T00:42:43Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-LODEN-GREEN.jpg?v=1757517170
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric-2): Discover luxurious Soft Velvet Fabric at Fabrics Star. Perfect for a variety of sewing projects, this fabric offers both elegance and comfort.
-  Updated: 2025-09-12T14:30:17Z
+  Updated: 2025-09-16T00:42:43Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -683,7 +683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SWEDAN-BRASS-325.jpg?v=1757517188
     Price: $1.00 USD
 - [Abstract Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/abstract-crushed-velvet-fabric-cut-by-the-yard): Discover luxurious Allendale Abstract Crushed Velvet Fabric by the Yard at Fabrics Star. Perfect for upholstery, drapery, and more. Shop now!
-  Updated: 2025-09-12T14:30:16Z
+  Updated: 2025-09-16T00:42:44Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-09-14T13:36:28Z
+  Updated: 2025-09-16T00:42:44Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LOBBY.jpg?v=1757517229
     Price: $1.00 USD
 - [Brocade Damask Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-damask-velvet-fabric): Transform your upholstery projects with Brocade Damask Velvet Fabric from Fabrics Star. This embossed material adds elegance and sophistication to coaches, chairs, and more.
-  Updated: 2025-09-10T15:14:19Z
+  Updated: 2025-09-16T00:42:44Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-15T23:37:17Z
+  Updated: 2025-09-16T00:42:44Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1283,7 +1283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELVETEEN-MALAGA-1012.jpg?v=1757517288
     Price: $1.00 USD
 - [Shiny Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/shiny-crushed-velvet-fabric): Elevate your upholstery projects with Shiny Crushed Velvet Fabric from Fabrics Star. This luxurious fabric adds a touch of glamour and sophistication to coaches and chairs.
-  Updated: 2025-09-12T17:00:26Z
+  Updated: 2025-09-16T00:42:45Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1369,7 +1369,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/burgundy_e5eb573b-7ea3-43cc-b383-3cd255965a58.jpg?v=1757517299
     Price: $1.00 USD
 - [Brocade Hunter Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-hunter-velvet-fabric-cut-by-the-yard): Discover luxurious Embossed Hunter Velvet Goldenrod Fabric by the Yard at Fabrics Star. Shop now and bring elegance to your creations!
-  Updated: 2025-09-12T14:30:17Z
+  Updated: 2025-09-16T00:42:45Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/natural1.jpg?v=1757517314
     Price: $1.00 USD
 - [Brocade Huntsville Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/unique-quality-fabrics-72-embossed-huntsville-velvet): Elevate your projects with Embossed Huntsville Velvet from Fabrics Star. With its unique texture and quality, this fabric adds a touch of sophistication to upholstery, drapery, and more.
-  Updated: 2025-09-12T14:30:17Z
+  Updated: 2025-09-16T00:42:45Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1581,7 +1581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HUNTSVILLE-WHITE-00.jpg?v=1757517342
     Price: $1.00 USD
 - [Riverdale Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/riverdale-crushed-velvet-fabric-cut-by-the-yard): Ideal Riverdale Crushed Velvet Fabric Cut by the Yard for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts etc.
-  Updated: 2025-09-12T15:13:00Z
+  Updated: 2025-09-16T00:42:46Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-09-14T20:13:06Z
+  Updated: 2025-09-16T00:42:46Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -1799,7 +1799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-WHITE-1.jpg?v=1757517390
     Price: $1.00 USD
 - [Selectra Waves Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard): The Selectra Waves Stretch Velvet Sequin Fabric by the Yard is made of 100% polyester. It has a soft stretch velvet base that is heavily embellished with sequins.
-  Updated: 2025-09-12T15:13:01Z
+  Updated: 2025-09-16T00:42:46Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -1893,7 +1893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-YELLOW-WHITE.jpg?v=1757517408
     Price: $1.00 USD
 - [Tulle Mesh Fabric Embellished with Sequins, Beads and Pearls](https://fabricsstar.com/products/soft-tulle-mesh-fabric-embellished-with-sequins-beads-pearls): This Soft Tulle Mesh Fabric Embellished with Sequins has a lace base and is heavily embellished with shiny sequins, beautiful beads, & matching high-quality pearls.
-  Updated: 2025-09-12T15:13:00Z
+  Updated: 2025-09-16T00:42:47Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2019,7 +2019,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [Newport Beach Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport): Discover the Newport Fabric Collection at Fabrics Star, offering a range of premium textiles for your sewing projects. Find the perfect fabric to elevate your creations.
-  Updated: 2025-09-12T14:30:19Z
+  Updated: 2025-09-16T00:42:47Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2081,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-BEACH-TOBBACO-5.jpg?v=1757517441
     Price: $1.00 USD
 - [Newport Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport-1): Elevate your sewing projects with the Newport 1 Fabric Collection at Fabrics Star. Explore a diverse range of premium textiles, from elegant patterns to modern designs.
-  Updated: 2025-09-13T00:03:32Z
+  Updated: 2025-09-16T00:42:47Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2135,7 +2135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-LILAC-22.jpg?v=1757517445
     Price: $1.00 USD
 - [Bristol Glitter Sequin Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/bristol-glitter-sequin-embroidered-mesh-fabric): Elevate your sewing projects with the Bristol Glitter Sequin Embroidered Mesh Fabric at Fabrics Star. Explore a diverse range of premium textiles. Shop now!
-  Updated: 2025-09-12T15:41:53Z
+  Updated: 2025-09-16T00:42:48Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2189,7 +2189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRISTOL-BLUSH.jpg?v=1757517453
     Price: $1.00 USD
 - [Rowley Sequin Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/rowley-sequin-embroidered-mesh-fabric): Rowley Sequin Embroidered Mesh Fabric is 100% polyester & lightweight, it features a slight stretch on the grain. Add a touch of glitz to your wardrobe!
-  Updated: 2025-09-12T14:30:22Z
+  Updated: 2025-09-16T00:42:48Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2227,7 +2227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROWLEY-NAVY-GOLD_5.jpg?v=1757517463
     Price: $1.00 USD
 - [CREATION Glitter Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/creation-glitter-embroidered-mesh-fabric): This CREATION Glitter Embroidered Mesh Fabric features a mesh backing with beautiful embroidery. Its luxurious look makes it the ideal fabric for all your elegant needs.
-  Updated: 2025-09-12T14:30:20Z
+  Updated: 2025-09-16T00:42:50Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2297,7 +2297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CREATION-SILVER.jpg?v=1757517480
     Price: $1.00 USD
 - [OMAHA Glitter Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/omaha-glitter-embroidered-mesh-fabric): Perfect fabric for sewing, gowns, dresses, skirts, veils, DIY, Arts & Crafts, tablecloths, table runners, drapery, home décor and more.
-  Updated: 2025-09-12T14:30:20Z
+  Updated: 2025-09-16T00:42:50Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2375,7 +2375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/OMAHA-WHITE.jpg?v=1757517495
     Price: $1.00 USD
 - [HILTON Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/hilton-embroidered-mesh-fabric): This HILTON Embroidered Mesh Fabric features a mesh backing with beautiful embroidery and a dramatic scalloped border. Its luxurious look makes it the ideal fabric for all your elegant needs.
-  Updated: 2025-09-12T14:30:20Z
+  Updated: 2025-09-16T00:42:50Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2421,7 +2421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILTON-WHITE-1.jpg?v=1757517503
     Price: $1.00 USD
 - [HOLIDAY Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/hilton-embroidered-mesh-fabric-1): Perfect HOLIDAY Embroidered Mesh Fabric for sewing, gowns, dresses, skirts, veils, DIY, Arts & Crafts, tablecloths, table runners, drapery, home décor and more.
-  Updated: 2025-09-12T14:30:24Z
+  Updated: 2025-09-16T00:42:50Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -2467,7 +2467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HOLIDAY-WHITE-6.jpg?v=1757517511
     Price: $1.00 USD
 - [Mumbai Sparkling Jacquard Fabric with Glitzy Yarn | Fabrics Star](https://fabricsstar.com/products/mumbai-sparkling-jacquard-fabric-with-glitzy-yarn-cut): Add glamour to your projects with Mumbai Sparkling Jacquard Fabric featuring glitzy yarn cuts. Elevate your designs with premium quality material. Shop now!
-  Updated: 2025-09-12T15:13:03Z
+  Updated: 2025-09-16T00:42:51Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2513,7 +2513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MUMBAI-MIDNITE-1612-1.jpg?v=1757517527
     Price: $1.00 USD
 - [Starlight Metallic Fabric with a Glitz | Fabrics Star](https://fabricsstar.com/products/starlight-metallic-fabric-with-a-glitz-cut-by-the-yard-118-inch-in-width): Add sparkle and glamour to your creations with Starlight Metallic Fabric featuring a glitz cut. With a width of 118 inches, this fabric is perfect for various sewing projects.
-  Updated: 2025-09-12T15:13:03Z
+  Updated: 2025-09-16T00:42:51Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2575,7 +2575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STARLIGHT-GREY-17.jpg?v=1757517536
     Price: $1.00 USD
 - [Bonanza Jacquard, Quilted Look Fabric | Fabrics Star](https://fabricsstar.com/products/bonanza-fabric-collection): Dive into the exquisite Bonanza Fabric Collection at Fabrics Star. Discover a wide range of premium textiles perfect for your sewing projects. Shop now!
-  Updated: 2025-09-12T15:13:05Z
+  Updated: 2025-09-16T00:42:51Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2613,7 +2613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BONANZA-WHITE-10.jpg?v=1757517544
     Price: $1.00 USD
 - [Square Jacquard, Quilted Look Fabric | Fabrics Star](https://fabricsstar.com/products/square): Explore the modern designs of the Square Fabric Collection at Fabrics Star. From geometric patterns to sleek prints, find the perfect fabric to add contemporary flair to your projects.
-  Updated: 2025-09-12T15:13:03Z
+  Updated: 2025-09-16T00:42:51Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2667,7 +2667,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SQUARE-GOLD-16-1.jpg?v=1757517560
     Price: $1.00 USD
 - [Calcutta Metallic Jacquard Embroidery Fabric | Fabrics Star](https://fabricsstar.com/products/calcutta-metallic-jacquard-embroidery-fabric): Explore elegance with Calcutta Metallic Jacquard Embroidery Fabric from Fabrics Star. With a 58-inch width, this fabric is perfect for upholstery, drapery, pillows etc.
-  Updated: 2025-09-12T15:13:03Z
+  Updated: 2025-09-16T00:42:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2705,7 +2705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CALCUTTA-MIDNIGHT-503-2.jpg?v=1711391576
     Price: $1.00 USD
 - [Gravel Metallic Jacquard Embroidery Fabric | Fabrics Star](https://fabricsstar.com/products/gravel-metallic-jacquard-embroidery-fabric): Gravel Metallic Jacquard Embroidery Fabric Jacquard fabric by the yard is medium-weight and made of 100% polyester. The beautiful glitzy tablecloth will uplift any occasion!
-  Updated: 2025-09-12T15:13:04Z
+  Updated: 2025-09-16T00:42:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2743,7 +2743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GRAVEL-NAVY-GOLD-853.jpg?v=1750270204
     Price: $1.00 USD
 - [Beacon Metallic Jacquard Embroidery Fabric | Fabrics Star](https://fabricsstar.com/products/beacon-metallic-jacquard-embroidery-fabric): Find elegance and sophistication with Beacon Metallic Jacquard Embroidery Fabric at Fabrics Star. This 57-inch width fabric is ideal for upholstery, drapery, and more.
-  Updated: 2025-09-12T15:13:04Z
+  Updated: 2025-09-16T00:42:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2821,7 +2821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEACON-WHITE-101.jpg?v=1712264332
     Price: $1.00 USD
 - [Beaconsfield Metallic Jacquard Embroidery Fabric | Fabrics Star](https://fabricsstar.com/products/beaconsfield-metallic-jacquard-embroidery-fabric): Discover luxury and style with Beaconsfield Metallic Jacquard Embroidery Fabric at Fabrics Star. Elevate your creations with premium materials. Shop now!
-  Updated: 2025-09-12T15:13:06Z
+  Updated: 2025-09-16T00:42:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2891,7 +2891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEACONSFIELD-IVORY-SLVR-103.jpg?v=1712264726
     Price: $1.00 USD
 - [Lanora Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/copy-of-lanora-jacquard-fabric): Add a touch of elegance to your event with the Lenora fabric. The beautiful classy tablecloth will uplift any occasion and create a luxurious atmosphere for your guests.
-  Updated: 2025-09-12T15:13:04Z
+  Updated: 2025-09-16T00:42:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -2985,7 +2985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LENORA-WINE-02-1_096e822a-a3fc-4792-bf80-b38ce0780034.jpg?v=1757517604
     Price: $1.00 USD
 - [Denver Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/denver-jacquard-fabric): Ideal Denver Jacquard Fabric for light Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, etc. Add a touch of elegance to your event with the Lenora fabric.
-  Updated: 2025-09-12T15:13:04Z
+  Updated: 2025-09-16T00:42:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3031,7 +3031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DENVER-GOLD-NAVY-851.jpg?v=1757517611
     Price: $1.00 USD
 - [Cambridge Floral Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/cambridge-floral-jacquard-fabric): Add a touch of sophistication with Cambridge Floral Jacquard Fabric from Fabrics Star. With a 55-inch width, this fabric is perfect for upholstery, drapery, pillows etc.
-  Updated: 2025-09-12T15:13:05Z
+  Updated: 2025-09-16T00:42:53Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-09-12T14:30:23Z
+  Updated: 2025-09-16T00:42:53Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3211,7 +3211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VAILS-WHITE.jpg?v=1757517637
     Price: $1.00 USD
 - [Gate Brocade Velvet Fabric, 72 Inch Width](https://fabricsstar.com/products/gate-brocade-velvet-fabric-72-inch-in-width-ideal-embossed-material-for-home-decor): Discover premium Gate Brocade Velvet Fabric, 72 inches wide. Perfect for home decor, sold by the yard, and customizable to fit your needs.
-  Updated: 2025-09-14T02:00:22Z
+  Updated: 2025-09-16T00:42:53Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3273,7 +3273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GATE-WHITE.jpg?v=1757517648
     Price: $1.00 USD
 - [Derby Floral Digital Fabric - 115" Linen Look](https://fabricsstar.com/products/derby-floral-digital-print-fabric-115-inch-in-width-home-decor): Shop Derby Floral Digital Print Fabric in 115" width, perfect for home decor projects. Cut by the yard for customized size.
-  Updated: 2025-09-12T15:13:06Z
+  Updated: 2025-09-16T00:42:53Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3317,7 +3317,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [Inline Metallic Jacquard Fabric - 114 Inch. | Home Decor](https://fabricsstar.com/products/inline-metallic-jacquard-fabric-114-inch-in-width-home-decor): Shop Inline Metallic Jacquard Fabric - 114 Inch. in Width. Ideal for wide tablecloths and more. Cut by the Yard, sold in customizable lengths.
-  Updated: 2025-09-12T15:13:05Z
+  Updated: 2025-09-16T00:42:54Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3387,7 +3387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/INLINE-WHITE.jpg?v=1757517661
     Price: $1.00 USD
 - [Delhi Metallic Jacquard Fabric - 120 Inch Width](https://fabricsstar.com/products/delhi-metallic-flower-jacquard-fabric-120-inch-in-width-home-decor): Shop Delhi Metallic Flower Jacquard Fabric - 120 Inch. Wide. Perfect for wide tablecloths and home decor. Custom cut to order.
-  Updated: 2025-09-12T15:13:07Z
+  Updated: 2025-09-16T00:42:54Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3441,7 +3441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DELHI-NAVY-851.jpg?v=1757517676
     Price: $1.00 USD
 - [New Delhi Metallic Flower Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/new-delhi-metallic-flower-jacquard-fabric-120-inch-in-width-home-decor): Shop New Delhi Metallic Flower Jacquard Fabric, 120" wide, perfect for home decor needs like tablecloths. Custom cuts available by the yard.
-  Updated: 2025-09-12T15:13:05Z
+  Updated: 2025-09-16T00:42:54Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3479,7 +3479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEW-DELHI-COMBO-851-1.jpg?v=1757517684
     Price: $1.00 USD
 - [Mahwah Metallic Marbleized Fabric - 54" | Home Decor](https://fabricsstar.com/products/mahwah-metallic-marbleized-fabric-54-inch-in-width-home-decor): Shop Mahwah Metallic Marbleized Fabric - 54” Inch. in Width, perfect for home decor. Heavyweight, 100% polyester, cut by the yard, custom sizes available.
-  Updated: 2025-09-12T14:30:24Z
+  Updated: 2025-09-16T00:42:54Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3549,7 +3549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MAHWAH-TAUPE-9-1.jpg?v=1757517700
     Price: $1.00 USD
 - [Dover Floral Digital Print Fabric - Linen Look | Fabrics Star](https://fabricsstar.com/products/dover-floral-digital-print-fabric-linen-look-115-inch-in-width-home-decor): Discover Dover Floral Digital Print Fabric - 115" wide, ideal for home decor. Customizable, cut by the yard for your unique projects.
-  Updated: 2025-09-12T15:13:07Z
+  Updated: 2025-09-16T00:42:54Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3585,7 +3585,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [ANTHIUM - Floral Print Satin Fabric | Home Decor](https://fabricsstar.com/products/digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor): Shop ANTHIUM Floral Digital Print Satin Fabric in 58" width, ideal for home decor. Sold by the yard, 100% polyester with a cotton hand.
-  Updated: 2025-09-12T14:30:23Z
+  Updated: 2025-09-16T00:42:55Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3639,7 +3639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ANTHIUM-TURQOUISE_ff1a1fc6-2b80-460c-b00a-f1e421620f0b.jpg?v=1757517716
     Price: $1.00 USD
 - [AQUARIUM - Print Satin Fabric - Home Decor](https://fabricsstar.com/products/digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor-1): AQUARIUM Solid Digital Print Satin Fabric - Cotton Hand. 58 Inch. in Width. Medium weight, 100% polyester. Custom cuts available. Perfect for home decor.
-  Updated: 2025-09-12T14:30:23Z
+  Updated: 2025-09-16T00:42:55Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3685,7 +3685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AQUARIUM-TURQOISE_9b248689-32bf-49a9-b40f-e8b6edb9422e.jpg?v=1757517731
     Price: $1.00 USD
 - [ATRIUM - Zigzag Satin Fabric - 58 Inch Width](https://fabricsstar.com/products/atrium-digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor-copy): Discover ATRIUM's Zigzag Digital Print Satin Fabric, 100% polyester, 58" width, perfect for home decor. Customize your order by the yard.
-  Updated: 2025-09-12T14:30:25Z
+  Updated: 2025-09-16T00:42:55Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3723,7 +3723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ATRIUM-TURQOISE_4b780f5c-d74b-42df-a3f4-0315f9832f07.jpg?v=1757517738
     Price: $1.00 USD
 - [Digital Print Satin Fabric - Cotton Hand - 58 Inch](https://fabricsstar.com/products/digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor-2): 58"-wide digital print satin fabric. Sold by the yard, 100% polyester. Custom cuts available. Ideal for home décor.
-  Updated: 2025-09-10T15:22:44Z
+  Updated: 2025-09-16T00:42:55Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3857,7 +3857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ATRIUM-TURQOISE.jpg?v=1757517762
     Price: $1.00 USD
 - [ASTER Floral Digital Print Metallic Fabric - 58" Wide](https://fabricsstar.com/products/aster-floral-digital-print-metallic-fabric-cotton-hand-58-inch-in-width-home-decor): Discover ASTER Floral Digital Print Metallic Fabric, cotton hand, 58" wide, ideal for home decor projects. Medium weight, 100% polyester.
-  Updated: 2025-09-12T14:30:27Z
+  Updated: 2025-09-16T00:42:55Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3887,7 +3887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ASTER-GREEN-D2D.jpg?v=1757517767
     Price: $1.00 USD
 - [AURURA Rectangular Blocks Fabric - 58" | Home Decor](https://fabricsstar.com/products/aurura-floral-digital-print-metallic-fabric-cotton-hand-58-inch-in-width-home-decor): Shop AURURA's 58" Digital Print Metallic Fabric. Sold by the yard, 100% polyester, perfect for elegant home decor.
-  Updated: 2025-09-12T22:24:33Z
+  Updated: 2025-09-16T00:42:56Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3917,7 +3917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AURURA-GREEN-BLACK-D6F.jpg?v=1757517774
     Price: $1.00 USD
 - [AZALEA Floral Digital Print Satin Fabric - 54” | Home Decor](https://fabricsstar.com/products/azalea-floral-digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor): Discover AZALEA Floral Digital Print Satin Fabric, 54” wide. Sold by the yard, customizable cuts. 100% polyester, perfect for home decor.
-  Updated: 2025-09-12T15:41:57Z
+  Updated: 2025-09-16T00:42:56Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -3947,7 +3947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AZALEA-DARK-NAVY.jpg?v=1757517782
     Price: $1.00 USD
 - [SPRING GARDEN Floral Digital Print Fabric | 58 Inch Wide](https://fabricsstar.com/products/floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Discover the SPRING GARDEN Floral Digital Print Fabric, 58" wide for home decor. Medium weight, 100% polyester, sold by the yard. Order now!
-  Updated: 2025-09-12T14:30:26Z
+  Updated: 2025-09-16T00:42:56Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4001,7 +4001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPRING-GARDEN-RED-J.jpg?v=1757517794
     Price: $1.00 USD
 - [FESTOON Floral Digital Print Fabric - 58" Width Cotton Hand](https://fabricsstar.com/products/festoon-floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Shop FESTOON Floral Digital Print Fabric by the yard for home decor. Size: 58" width. 100% polyester, customizable cuts. Elegant medium-weight fabric.
-  Updated: 2025-09-12T14:30:26Z
+  Updated: 2025-09-16T00:42:56Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4015,7 +4015,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTOON-BLACK-TDC-4648.jpg?v=1757517912
     Price: $1.00 USD
 - [LYNN Jacquard Print Fabric, 118 Inch | Home Decor](https://fabricsstar.com/products/lynn-jacquard-print-metallic-fabric-118-inch-in-width-home-decor): Shop LYNN Jacquard Print Metallic Fabric, 118 Inch in Width. Heavyweight, 100% polyester, sold by the yard. Perfect for home decor projects.
-  Updated: 2025-09-12T15:13:07Z
+  Updated: 2025-09-16T00:42:56Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4061,7 +4061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LYNN-SILVER-1-1.jpg?v=1757517836
     Price: $1.00 USD
 - [LYNSFIELD Jacquard Print Metallic Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/lynsfield-jacquard-print-metallic-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:09Z
+  Updated: 2025-09-16T00:42:56Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4091,7 +4091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LYNSFIELD-LIME-3-1.jpg?v=1757517859
     Price: $1.00 USD
 - [MILANO Jacquard Print Metallic Marbleized Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/milano-jacquard-print-metallic-marbleized-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:08Z
+  Updated: 2025-09-16T00:42:57Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4145,7 +4145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MILANO-AQUA-6.jpg?v=1757517867
     Price: $1.00 USD
 - [PATIO Jacquard Print Metallic Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/patio-jacquard-print-metallic-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:10Z
+  Updated: 2025-09-16T00:42:57Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4183,7 +4183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PATIO-SKY-2-3.jpg?v=1757517888
     Price: $1.00 USD
 - [CARNATION - Digital Print Fabric - Cotton Hand - 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/carnation-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:29Z
+  Updated: 2025-09-16T00:42:57Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4205,7 +4205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNATION-BLUE-D-19E.jpg?v=1757517907
     Price: $1.00 USD
 - [Digital Print Fabric - Cotton Hand - 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-10T15:25:55Z
+  Updated: 2025-09-16T00:42:57Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4267,7 +4267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTOON-BLACK-TDC-4648.jpg?v=1757517912
     Price: $1.00 USD
 - [FALLEN LEAVES Jacquard Leave Print Tapestry Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/fallen-leaves-jacquard-leave-print-tapestry-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:10Z
+  Updated: 2025-09-16T00:42:57Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4281,7 +4281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FALLEN-LEAVES-BLACK-8-1.jpg?v=1757517919
     Price: $1.00 USD
 - [FOLIAGE Jacquard Leave Print Tapestry Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/foliage-jacquard-leave-print-tapestry-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 97% Polyester 3% Linen SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:08Z
+  Updated: 2025-09-16T00:42:58Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4303,7 +4303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FOLIAGE-GOLD-1.jpg?v=1757517926
     Price: $1.00 USD
 - [GRANITE - Digital Print Satin Fabric - Cotton Hand - 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/granite-digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor-copy): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:28Z
+  Updated: 2025-09-16T00:42:58Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4341,7 +4341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GRANITE-WHITE.jpg?v=1757517936
     Price: $1.00 USD
 - [LILY - Digital Print Fabric - Cotton Hand - 58 Inch. in Width, | Home Décor](https://fabricsstar.com/products/lily-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:30Z
+  Updated: 2025-09-16T00:42:58Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4363,7 +4363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LILY-MAUVE-01-VC-1.jpg?v=1757517940
     Price: $1.00 USD
 - [Jacquard Palm Tree Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/palms-jacquard-palm-tree-print-tapestry-fabric-118-inch-in-width-home-decor-copy): Shop premium palm tree fabric at Fabrics Star. Perfect for home décor and creative projects, this jacquard tapestry fabric adds style and elegance to any space!
-  Updated: 2025-09-12T15:13:08Z
+  Updated: 2025-09-16T00:42:58Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4385,7 +4385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PALMS-NATURAL-7-1.jpg?v=1757517948
     Price: $1.00 USD
 - [PARROT Digital Print Fabric - Cotton Hand - 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/parrot-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor-1): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:26Z
+  Updated: 2025-09-16T00:42:58Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4407,7 +4407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PARROT-MINT-D19-D.jpg?v=1757517954
     Price: $1.00 USD
 - [POPPY Jacquard Tulip Print Tapestry Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/poppy-jacquard-tulip-print-tapestry-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:09Z
+  Updated: 2025-09-16T00:42:58Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4429,7 +4429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/POPY-LIGHT-BLUE-2.jpg?v=1757517960
     Price: $1.00 USD
 - [TROPICAL Floral Digital Print Satin Fabric - Cotton Hand - 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/tropical-floral-digital-print-satin-fabric-cotton-hand-58-inch-in-width-home-decor-1): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:29Z
+  Updated: 2025-09-16T00:42:59Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4491,7 +4491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TROPICAL-TURQUISE.jpg?v=1757517974
     Price: $1.00 USD
 - [QUINCY Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Home Decor](https://fabricsstar.com/products/quincy-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:31Z
+  Updated: 2025-09-16T00:42:59Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -4607,7 +4607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/QUINCY-BLUSH.jpg?v=1757517987
     Price: $1.00 USD
 - [FIESTA Striped Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Arts and Crafts](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T16:32:41Z
+  Updated: 2025-09-16T00:42:59Z
   Vendor: Fabrics Star
   Product Type: Striped Sequin Fabric
   Availability: Available
@@ -4669,7 +4669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-SILVER-WHITE-3.jpg?v=1757518017
     Price: $1.00 USD
 - [SPRINKLE Two Size Sequin Fabric on Sheer Material ,2- Way Stretch, 52 Inch. In Width, | Home Decor](https://fabricsstar.com/products/srinkle-two-size-sequin-fabric-on-sheer-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:27Z
+  Updated: 2025-09-16T00:42:59Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -4739,7 +4739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPRINKLE-NAVY.jpg?v=1757518028
     Price: $1.00 USD
 - [COCKTAIL Sequin Fabric on Mesh Material ,4 -Way Stretch, 52 Inch. In Width, | Home Decor](https://fabricsstar.com/products/cocktail-sequin-fabric-on-mesh-material-4-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It features a 30% stretch on the grain, and 10% stretch on the vertical. It has a mesh base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:30Z
+  Updated: 2025-09-16T00:42:59Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -4809,7 +4809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COCKTAIL-GOLD-7.jpg?v=1757518039
     Price: $1.00 USD
 - [Treasure Jacquard, Quilted Look Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/bonanza-jacquard-quilted-look-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: quilted look fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its quilted look brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-15T03:29:39Z
+  Updated: 2025-09-16T00:43:00Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4847,7 +4847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TREASURE-OFF-WHITE-5A-1.jpg?v=1757518049
     Price: $1.00 USD
 - [Sprite Jacquard, Textured Feel Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/sprite-jacquard-quilted-look-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: Textured Feel fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its Textured Feel brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:12Z
+  Updated: 2025-09-16T00:43:00Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4901,7 +4901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPRITE-WHITE-00-2.jpg?v=1757518068
     Price: $1.00 USD
 - [Track Jacquard, Quilted Look Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/track-jacquard-quilted-look-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: quilted look fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its quilted look brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:10Z
+  Updated: 2025-09-16T00:43:00Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4935,7 +4935,7 @@
     Availability: Available
     Price: $1.00 USD
 - [CHRISMA Jacquard, Textured Feel Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/chrisma-jacquard-textured-feel-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: Textured Feel fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its Textured Feel brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:12Z
+  Updated: 2025-09-16T00:43:00Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5003,7 +5003,7 @@
     Availability: Available
     Price: $1.00 USD
 - [York Jacquard, Textured Feel Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/york-jacquard-textured-feel-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: Textured Feel fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its Textured Feel brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:11Z
+  Updated: 2025-09-16T00:43:00Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5049,7 +5049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/YORK-WHITE-1.jpg?v=1757518114
     Price: $1.00 USD
 - [Marble Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/marble-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Marble jacquard fabric. The beautiful marble design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:31Z
+  Updated: 2025-09-16T00:43:01Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5083,7 +5083,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Marisol Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/marble-jacquard-fabric-55-inch-in-width-home-decor-copy): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Marisol jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:33Z
+  Updated: 2025-09-16T00:43:01Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5161,7 +5161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MARISOL-WHITE-1.jpg?v=1757518135
     Price: $1.00 USD
 - [Highlight Metallic Jacquard Fabric, 110 Inch. in Width, | Home Decor](https://fabricsstar.com/products/highlight-jacquard-fabric-110-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Highlight jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-10T15:29:03Z
+  Updated: 2025-09-16T00:43:01Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5191,7 +5191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HIGHLIGHT-TEAL-7.jpg?v=1757518142
     Price: $1.00 USD
 - [Allium Jacquard Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/allium-jacquard-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 115 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - The Allium jacquard fabric will add a touch of elegance to your event. The beautiful tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:13Z
+  Updated: 2025-09-16T00:43:01Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5229,7 +5229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLIUM-OYNX-31-2.jpg?v=1757518149
     Price: $1.00 USD
 - [Sparkle Metallic Jacquard Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/sparkle-metallic-jacquard-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Sparkle jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:12Z
+  Updated: 2025-09-16T00:43:01Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5291,7 +5291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLE-GREY_0bc0fc65-15eb-479e-a870-d140cc6272fa.jpg?v=1757518160
     Price: $1.00 USD
 - [Garden Jacquard Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/garden-jacquard-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Garden jacquard fabric. The beautiful garden design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:14Z
+  Updated: 2025-09-16T00:43:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5321,7 +5321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GARDEN-SILVER-02.jpg?v=1757518169
     Price: $1.00 USD
 - [Classic Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/classic-jacquard-fabric-58-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - The classic jacquard fabric will add a touch of elegance to your event. The beautiful, classy tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:35Z
+  Updated: 2025-09-16T00:43:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5373,7 +5373,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Portland Hights Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/portland-hights-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland Hights jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:11Z
+  Updated: 2025-09-16T00:43:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5427,7 +5427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PORTLAND-HIGHTS-CLOUD-BLUE-30.jpg?v=1757518184
     Price: $1.00 USD
 - [Portland Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/portland-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:15Z
+  Updated: 2025-09-16T00:43:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5513,7 +5513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PORTLAND-BLACK-GOLD-19.jpg?v=1757518194
     Price: $1.00 USD
 - [Triangle Metallic Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/triangle-metallic-jacquard-fabric-58-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Triangle jacquard fabric. The beautiful metallic triangle design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:13Z
+  Updated: 2025-09-16T00:43:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5575,7 +5575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TRIANGLE-MIDNIGHT-501-1.jpg?v=1757518213
     Price: $1.00 USD
 - [Catch Jacquard Fabric, 110 Inch. in Width, | Home Decor](https://fabricsstar.com/products/catch-jacquard-fabric-110-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - The Catch jacquard fabric will add a touch of elegance to your event. The beautiful tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:15Z
+  Updated: 2025-09-16T00:43:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5613,7 +5613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CATCH-21-EBONY-7-1.jpg?v=1757518221
     Price: $1.00 USD
 - [Ladino Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/ladino-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Ladino jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:17Z
+  Updated: 2025-09-16T00:43:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5683,7 +5683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LADINO-ONYX-03.jpg?v=1757518237
     Price: $1.00 USD
 - [Gastonia Jacquard Fabric, 110 Inch. in Width, | Home Decor](https://fabricsstar.com/products/gastonia-jacquard-fabric-110-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Gastonia jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:12Z
+  Updated: 2025-09-16T00:43:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5745,7 +5745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GASTONIA-BLUE-23-1.jpg?v=1757518245
     Price: $1.00 USD
 - [Des Arts Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/des-arts-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Des Arts jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:29Z
+  Updated: 2025-09-16T00:43:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5791,7 +5791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DES-ARTS-SIVER-4.jpg?v=1757518260
     Price: $1.00 USD
 - [Frontier Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/frontier-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Frontier fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:33Z
+  Updated: 2025-09-16T00:43:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5869,7 +5869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FRONTIER-PURPLE-17.jpg?v=1757518275
     Price: $1.00 USD
 - [Misty Jacquard Fabric, 57 Inch. in Width, | Home Decor](https://fabricsstar.com/products/misty-jacquard-fabric-57-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 57' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 57' x 36'. Order of 3 yards (Qty=3) is 57' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Misty jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:46:11Z
+  Updated: 2025-09-16T00:43:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5915,7 +5915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MISTY-BLUE-10-2.jpg?v=1757518280
     Price: $1.00 USD
 - [Stardust Metallic Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/stardust-metallic-jacquard-fabric-58-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 58' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Stardust metallic jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:30Z
+  Updated: 2025-09-16T00:43:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5993,7 +5993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STARDUST-BLACK-18.jpg?v=1757518292
     Price: $1.00 USD
 - [Vine tree Jacquard Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/vine-tree-jacquard-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 115' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Vinetree jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T15:13:16Z
+  Updated: 2025-09-16T00:43:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6047,7 +6047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VINETREE-BLACK-28-1.jpg?v=1757518312
     Price: $1.00 USD
 - [Textura Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/textura-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Textura jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T14:30:33Z
+  Updated: 2025-09-16T00:43:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6085,7 +6085,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TEXTURA-NAVY-14.jpg?v=1757518323
     Price: $1.00 USD
 - [BARNES Jacquard Quilted Look Fabric, 60 Inch. in Width](https://fabricsstar.com/products/barnes)
-  Updated: 2025-09-12T17:46:09Z
+  Updated: 2025-09-16T00:43:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6131,7 +6131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BARNES-PINE-GREEN-912-1.jpg?v=1757518330
     Price: $1.00 USD
 - [Bubbles Lace Fabric, 52 inch. in Width](https://fabricsstar.com/products/bubbles)
-  Updated: 2025-09-12T17:46:08Z
+  Updated: 2025-09-16T00:43:05Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6153,7 +6153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BUBBLES-LINEN-1.jpg?v=1757518344
     Price: $1.00 USD
 - [COBBLESTONE Fabric, 117 Inch. in Width](https://fabricsstar.com/products/cobblestone)
-  Updated: 2025-09-12T17:46:08Z
+  Updated: 2025-09-16T00:43:05Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6207,7 +6207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COBBLESTONE-BLUSH-11.jpg?v=1757518350
     Price: $1.00 USD
 - [COLORADO Jacquard Fabric, 55 Inch . in Width](https://fabricsstar.com/products/colorado)
-  Updated: 2025-09-12T17:46:07Z
+  Updated: 2025-09-16T00:43:06Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6285,7 +6285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLORADO-WHITE-WHITE-002-1.jpg?v=1757518355
     Price: $1.00 USD
 - [DE JENEIRO Lace Fabric, 54 Inch. in Width](https://fabricsstar.com/products/de-jeneiro)
-  Updated: 2025-09-12T17:46:07Z
+  Updated: 2025-09-16T00:43:06Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6307,7 +6307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DE-JENEIRO-IVORY.jpg?v=1757518367
     Price: $1.00 USD
 - [MEADOW Velvet Fabric, 72 Inch. in Width](https://fabricsstar.com/products/meadow)
-  Updated: 2025-09-12T17:46:06Z
+  Updated: 2025-09-16T00:43:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -6319,7 +6319,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Milton Taffeta Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/milton)
-  Updated: 2025-09-12T17:46:06Z
+  Updated: 2025-09-16T00:43:06Z
   Vendor: Fabrics Star
   Product Type: Taffeta Fabric
   Availability: Available
@@ -6365,7 +6365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MILTON-PINK.jpg?v=1757518371
     Price: $1.00 USD
 - [MINIRAL Jacquard Metallic Fabric, 54 Inch. in Width](https://fabricsstar.com/products/miniral)
-  Updated: 2025-09-12T17:46:06Z
+  Updated: 2025-09-16T00:43:07Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6411,7 +6411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MINIRAL-SILVER-207.jpg?v=1757518378
     Price: $1.00 USD
 - [NEBRASKA Mesh Fabric, 54 Inch. in width](https://fabricsstar.com/products/nebraska)
-  Updated: 2025-09-12T17:46:06Z
+  Updated: 2025-09-16T00:43:07Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6425,7 +6425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEBRASKA-BURGUNDY.jpg?v=1757518388
     Price: $1.00 USD
 - [NEVELY Mesh Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/nevely)
-  Updated: 2025-09-12T17:46:04Z
+  Updated: 2025-09-16T00:43:07Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6439,7 +6439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEVELY-GOLD-NAVY.jpg?v=1757518389
     Price: $1.00 USD
 - [NOBLE Jacquard Fabric, 60 Inch. in Width](https://fabricsstar.com/products/noble)
-  Updated: 2025-09-12T17:46:04Z
+  Updated: 2025-09-16T00:43:07Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6509,7 +6509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NOBLE-WHITE-101.jpg?v=1757518392
     Price: $1.00 USD
 - [MEDLEY Cozy Crushed Fabric, 110 Inch. in Width](https://fabricsstar.com/products/medley)
-  Updated: 2025-09-12T17:46:04Z
+  Updated: 2025-09-16T00:43:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Fabric
   Availability: Available
@@ -6611,7 +6611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-PINE-18.jpg?v=1757518406
     Price: $1.00 USD
 - [MOBILE Jacquard Fabric, 55 Inch. in Width](https://fabricsstar.com/products/mobile): 67% Polyester 33% Cotton
-  Updated: 2025-09-12T17:46:02Z
+  Updated: 2025-09-16T00:43:08Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6665,7 +6665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOBILE-SILVER-062.jpg?v=1757518432
     Price: $1.00 USD
 - [MOWHAK Jacquard Fabric, 115 Inch. in Width](https://fabricsstar.com/products/mowhak)
-  Updated: 2025-09-12T17:46:02Z
+  Updated: 2025-09-16T00:43:08Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6727,7 +6727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOWHAK-WHITE-WHITE.jpg?v=1757518445
     Price: $1.00 USD
 - [MULTI Jacquard Fabric, 55 Inch.in Width](https://fabricsstar.com/products/multi): 88% Polyester 12% Cotton
-  Updated: 2025-09-12T17:46:02Z
+  Updated: 2025-09-16T00:43:08Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6773,7 +6773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MULTI-STEEL-065.jpg?v=1757518454
     Price: $1.00 USD
 - [ON THE VINE Jacquard Fabric, 115 Inch. in Width](https://fabricsstar.com/products/on-the-vine)
-  Updated: 2025-09-12T17:45:58Z
+  Updated: 2025-09-16T00:43:09Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6811,7 +6811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ON-THE-VINE-PINK-16-1.jpg?v=1757518463
     Price: $1.00 USD
 - [REO Lace Fabric, 54 Inch. in Width](https://fabricsstar.com/products/reo)
-  Updated: 2025-09-12T17:45:58Z
+  Updated: 2025-09-16T00:43:09Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6833,7 +6833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/REO-WHITE-1.jpg?v=1757518474
     Price: $1.00 USD
 - [RODEO Lace Fabric, 54 Inch. in Width](https://fabricsstar.com/products/rodeo)
-  Updated: 2025-09-12T17:45:58Z
+  Updated: 2025-09-16T00:43:09Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6871,7 +6871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RODEO-WHITE-1.jpg?v=1757518480
     Price: $1.00 USD
 - [SAPPHIRE Jacquard Fabric, 118 Inch. in Width](https://fabricsstar.com/products/sapphire)
-  Updated: 2025-09-12T17:45:58Z
+  Updated: 2025-09-16T00:43:09Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6909,7 +6909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SAPPHIRE-WHITE-4010-2.jpg?v=1757518488
     Price: $1.00 USD
 - [VENICE Lace Fabric, 52 Inch. in Width](https://fabricsstar.com/products/venice)
-  Updated: 2025-09-12T17:45:56Z
+  Updated: 2025-09-16T00:43:09Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6931,7 +6931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VENICE-WHITE.jpg?v=1757518499
     Price: $1.00 USD
 - [RHONDA Jacquard Fabric, 55 Inch. in Width](https://fabricsstar.com/products/rhonda)
-  Updated: 2025-09-12T17:45:54Z
+  Updated: 2025-09-16T00:43:10Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7037,7 +7037,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RHONDA-SNOW-WHITE.jpg?v=1757518512
     Price: $1.00 USD
 - [ROSEDALE Lace Fabric, 53 Inch. in Width](https://fabricsstar.com/products/rosedale)
-  Updated: 2025-09-12T17:45:54Z
+  Updated: 2025-09-16T00:43:10Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -7075,7 +7075,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROSEDALE-WHITE.jpg?v=1757518522
     Price: $1.00 USD
 - [ROUNDAROSE Lace Fabric, 54 Inch. in Width](https://fabricsstar.com/products/roundarose)
-  Updated: 2025-09-12T17:45:54Z
+  Updated: 2025-09-16T00:43:11Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -7121,7 +7121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-WHITE.jpg?v=1757518528
     Price: $1.00 USD
 - [STANLEY Mesh Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/stanley)
-  Updated: 2025-09-12T17:45:54Z
+  Updated: 2025-09-16T00:43:11Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -7151,7 +7151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-WHITE-SILVER.jpg?v=1757518534
     Price: $1.00 USD
 - [SUPREME Jacquard Fabric, 110 Inch. in Width](https://fabricsstar.com/products/supreme)
-  Updated: 2025-09-12T17:45:52Z
+  Updated: 2025-09-16T00:43:11Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7247,7 +7247,7 @@
     Availability: Available
     Price: $1.00 USD
 - [TIMES Jacquard Fabric, 55 Inch. in Width](https://fabricsstar.com/products/times)
-  Updated: 2025-09-12T17:45:51Z
+  Updated: 2025-09-16T00:43:11Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7309,7 +7309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-WHITE.jpg?v=1757518555
     Price: $1.00 USD
 - [TIMES AROUND Jacquard Fabric, 55 Inch. in Width](https://fabricsstar.com/products/times-around)
-  Updated: 2025-09-12T17:45:52Z
+  Updated: 2025-09-16T00:43:12Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7347,7 +7347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-TAUPE-3.jpg?v=1757518565
     Price: $1.00 USD
 - [TIMES SQUARE Jacquard Fabric, 110 Inch. in Width](https://fabricsstar.com/products/times-square)
-  Updated: 2025-09-12T17:45:50Z
+  Updated: 2025-09-16T00:43:12Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7401,7 +7401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-SQUARE-WHITE.jpg?v=1757518572
     Price: $1.00 USD
 - [TIMES TABLE Jacquard Fabric, 58 Inch. in Width](https://fabricsstar.com/products/times-table)
-  Updated: 2025-09-12T17:45:50Z
+  Updated: 2025-09-16T00:43:12Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7437,7 +7437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-TAUPE-3.jpg?v=1757518579
     Price: $1.00 USD
 - [GARDENA Lace Fabric, 110 Inch. in Width](https://fabricsstar.com/products/gardena)
-  Updated: 2025-09-12T17:45:49Z
+  Updated: 2025-09-16T00:43:12Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -7467,7 +7467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GARDENA-110-IVORY.jpg?v=1757518582
     Price: $1.00 USD
 - [LUXURY Crushed Fabric, 110 Inch. in Width](https://fabricsstar.com/products/luxury-110)
-  Updated: 2025-09-12T17:45:50Z
+  Updated: 2025-09-16T00:43:12Z
   Vendor: Fabrics Star
   Product Type: Crushed Fabric
   Availability: Available
@@ -7613,7 +7613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LUXURY-WHITE.jpg?v=1757518587
     Price: $1.00 USD
 - [LIBERTY Jacquard Fabric, 115 Inch. in Width](https://fabricsstar.com/products/liberty)
-  Updated: 2025-09-12T17:45:48Z
+  Updated: 2025-09-16T00:43:13Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7657,7 +7657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-WHITE.jpg?v=1757518601
     Price: $1.00 USD
 - [HILLS Fabric, 115 Inch. in Width](https://fabricsstar.com/products/hills)
-  Updated: 2025-09-12T17:45:47Z
+  Updated: 2025-09-16T00:43:13Z
   Vendor: Fabrics Star
   Product Type: Metallic Fabric
   Availability: Available
@@ -7695,7 +7695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-PURPLE-910-1.jpg?v=1757518607
     Price: $1.00 USD
 - [BRILLIANT Crushed Fabric, 48 Inch. in Width](https://fabricsstar.com/products/brilliant)
-  Updated: 2025-09-12T17:45:48Z
+  Updated: 2025-09-16T00:43:13Z
   Vendor: Fabrics Star
   Product Type: Sheer Fabric
   Availability: Available
@@ -7757,7 +7757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-WHITE.jpg?v=1757518614
     Price: $1.00 USD
 - [SPARKLING Crushed Fabric, 58 Inch. in Width](https://fabricsstar.com/products/sparkling)
-  Updated: 2025-09-12T17:45:47Z
+  Updated: 2025-09-16T00:43:13Z
   Vendor: Fabrics Star
   Product Type: Crushed Fabric
   Availability: Available
@@ -7935,7 +7935,7 @@
     Availability: Available
     Price: $1.00 USD
 - [AINSLEY Embroidered Sheer Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/ainsley)
-  Updated: 2025-09-12T17:45:46Z
+  Updated: 2025-09-16T00:43:13Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -7965,7 +7965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-SMOKE.jpg?v=1757518634
     Price: $1.00 USD
 - [ALLEY Mesh Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/alley)
-  Updated: 2025-09-12T17:45:46Z
+  Updated: 2025-09-16T00:43:14Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -7979,7 +7979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLEY-GREY.jpg?v=1757518637
     Price: $1.00 USD
 - [BELLAIRE Embroidered Fabric, 50 Inch. in Width](https://fabricsstar.com/products/bellaire)
-  Updated: 2025-09-12T17:45:46Z
+  Updated: 2025-09-16T00:43:14Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8001,7 +8001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-PINK.jpg?v=1757518649
     Price: $1.00 USD
 - [BELLAIRE/B Embroidered Fabric, 54 Inch. in Width](https://fabricsstar.com/products/bellaire-b)
-  Updated: 2025-09-12T17:45:42Z
+  Updated: 2025-09-16T00:43:14Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8023,7 +8023,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-IVORY.jpg?v=1757518651
     Price: $1.00 USD
 - [BEVERLY Embroidered Sheer With Sequins Fabric, 54 Inch. in Width](https://fabricsstar.com/products/beverly)
-  Updated: 2025-09-12T17:45:42Z
+  Updated: 2025-09-16T00:43:14Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8061,7 +8061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-WHITE-SILVER.jpg?v=1757518654
     Price: $1.00 USD
 - [BLOSSOM/B Embroidered Sheer With Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/blossom-b)
-  Updated: 2025-09-12T17:45:42Z
+  Updated: 2025-09-16T00:43:14Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -8091,7 +8091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-WHITE.jpg?v=1757518658
     Price: $1.00 USD
 - [BRIDELY Embroidered Sheer Mesh Fabric, 58 Inch. in Width](https://fabricsstar.com/products/bridely)
-  Updated: 2025-09-12T17:45:42Z
+  Updated: 2025-09-16T00:43:15Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8129,7 +8129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-WHITE.jpg?v=1757518662
     Price: $1.00 USD
 - [CHARMING Embroidered Sheer Fabric, 54 Inch in Width](https://fabricsstar.com/products/charming)
-  Updated: 2025-09-12T17:45:40Z
+  Updated: 2025-09-16T00:43:15Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8159,7 +8159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-WHITE.jpg?v=1757518665
     Price: $1.00 USD
 - [COOL Fabric, 54 Inch. in Width](https://fabricsstar.com/products/cool)
-  Updated: 2025-09-12T17:45:40Z
+  Updated: 2025-09-16T00:43:15Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8181,7 +8181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COOL-LT-YELLOW.jpg?v=1757518670
     Price: $1.00 USD
 - [COUNTRY COTTAGE Embroidered Fabric, 54 Inch. in Width](https://fabricsstar.com/products/country-cottage)
-  Updated: 2025-09-12T17:45:40Z
+  Updated: 2025-09-16T00:43:15Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8219,7 +8219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-TURQUISE.jpg?v=1757518672
     Price: $1.00 USD
 - [CRYSTAL Fabric, 110 Inch. in Width](https://fabricsstar.com/products/crystal)
-  Updated: 2025-09-12T17:45:40Z
+  Updated: 2025-09-16T00:43:15Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8249,7 +8249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-PINK.jpg?v=1757518676
     Price: $1.00 USD
 - [GISELLE Embroidered Sheer Fabric, 58 Inch. in Width](https://fabricsstar.com/products/giselle)
-  Updated: 2025-09-12T17:45:37Z
+  Updated: 2025-09-16T00:43:16Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8271,7 +8271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-WHITE.jpg?v=1757518679
     Price: $1.00 USD
 - [GLACIER Embroidered Fabric, 58 Inch. in Width](https://fabricsstar.com/products/glacier)
-  Updated: 2025-09-12T17:45:37Z
+  Updated: 2025-09-16T00:43:16Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8293,7 +8293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-WHITE.jpg?v=1757518681
     Price: $1.00 USD
 - [LOVEABLE Embroidered Taffeta Fabric, 54 Inch. in Width](https://fabricsstar.com/products/loveable)
-  Updated: 2025-09-12T17:45:37Z
+  Updated: 2025-09-16T00:43:16Z
   Vendor: Fabrics Star
   Product Type: Taffeta Fabric
   Availability: Available
@@ -8363,7 +8363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-GREY.jpg?v=1757518688
     Price: $1.00 USD
 - [CLAYTON Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/clayton)
-  Updated: 2025-09-12T17:45:38Z
+  Updated: 2025-09-16T00:43:16Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8401,7 +8401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-WHITE.jpg?v=1757518691
     Price: $1.00 USD
 - [19TH CENTURY Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/19th-century)
-  Updated: 2025-09-12T17:45:35Z
+  Updated: 2025-09-16T00:43:16Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8415,7 +8415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/19TH-CENTURY-WHITE.jpg?v=1757518695
     Price: $1.00 USD
 - [CARLISLE Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/carlisle)
-  Updated: 2025-09-12T17:45:36Z
+  Updated: 2025-09-16T00:43:17Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8437,7 +8437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-IVORY.jpg?v=1757518697
     Price: $1.00 USD
 - [CLAIRMONT Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/clairmont)
-  Updated: 2025-09-12T17:45:36Z
+  Updated: 2025-09-16T00:43:17Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8451,7 +8451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAIRMONT-SILVER-61.jpg?v=1757518699
     Price: $1.00 USD
 - [CLASSIC LACE Fabric, 55 Inch. in Width](https://fabricsstar.com/products/classic-lace)
-  Updated: 2025-09-12T17:45:35Z
+  Updated: 2025-09-16T00:43:17Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8465,7 +8465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLASSIC-LACE-WHITE.jpg?v=1757518700
     Price: $1.00 USD
 - [EDEN Fabric, 55 Inch. in Width](https://fabricsstar.com/products/eden)
-  Updated: 2025-09-12T17:45:34Z
+  Updated: 2025-09-16T00:43:17Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8477,7 +8477,7 @@
     Availability: Available
     Price: $1.00 USD
 - [EMILY Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/emily)
-  Updated: 2025-09-12T17:45:34Z
+  Updated: 2025-09-16T00:43:17Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8499,7 +8499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-IVORY.jpg?v=1757518703
     Price: $1.00 USD
 - [FERN Lace Fabric, 110 Inch in Width](https://fabricsstar.com/products/fern)
-  Updated: 2025-09-12T17:45:33Z
+  Updated: 2025-09-16T00:43:18Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8519,7 +8519,7 @@
     Availability: Available
     Price: $1.00 USD
 - [FLEUR Fabric, 55 Inch in Width](https://fabricsstar.com/products/fleur)
-  Updated: 2025-09-12T17:45:34Z
+  Updated: 2025-09-16T00:43:18Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8533,7 +8533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FLEUR-IVORY_1.jpg?v=1757518705
     Price: $1.00 USD
 - [IRVINE Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/irvine)
-  Updated: 2025-09-12T17:45:32Z
+  Updated: 2025-09-16T00:43:18Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8555,7 +8555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-WHITE.jpg?v=1757518707
     Price: $1.00 USD
 - [JENNY Lace Fabric, 58 Inch in Width](https://fabricsstar.com/products/jenny)
-  Updated: 2025-09-12T17:45:32Z
+  Updated: 2025-09-16T00:43:18Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8577,7 +8577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-IVORY.jpg?v=1757518710
     Price: $1.00 USD
 - [JUST BEAUTIFUL Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/just-beautiful)
-  Updated: 2025-09-12T17:45:32Z
+  Updated: 2025-09-16T00:43:18Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8591,7 +8591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JUST-BEAUTIFUL-IVORY.jpg?v=1757518711
     Price: $1.00 USD
 - [LACEY Fabric 58 Inch. in Width](https://fabricsstar.com/products/lacey)
-  Updated: 2025-09-12T17:45:32Z
+  Updated: 2025-09-16T00:43:19Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8619,7 +8619,7 @@
     Availability: Available
     Price: $1.00 USD
 - [LANCHASTER Lace Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/lanchaster)
-  Updated: 2025-09-12T17:45:30Z
+  Updated: 2025-09-16T00:43:19Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -8641,7 +8641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-WHITE.jpg?v=1757518715
     Price: $1.00 USD
 - [ROUNDERS Lace Fabric, 55 Inch in Width](https://fabricsstar.com/products/rounders)
-  Updated: 2025-09-12T17:45:30Z
+  Updated: 2025-09-16T00:43:19Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8661,7 +8661,7 @@
     Availability: Available
     Price: $1.00 USD
 - [STERLING Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/sterling)
-  Updated: 2025-09-12T17:45:30Z
+  Updated: 2025-09-16T00:43:19Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8683,7 +8683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-IVORY.jpg?v=1757518719
     Price: $1.00 USD
 - [WESTBURY Lace Fabric, 55 Inch in Width](https://fabricsstar.com/products/westbury)
-  Updated: 2025-09-12T17:45:30Z
+  Updated: 2025-09-16T00:43:19Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8705,7 +8705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-IVORY.jpg?v=1757518722
     Price: $1.00 USD
 - [CONFETTI Fabric, 52 Inch in Width](https://fabricsstar.com/products/confetti)
-  Updated: 2025-09-12T17:45:28Z
+  Updated: 2025-09-16T00:43:20Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -8719,7 +8719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
     Price: $1.00 USD
 - [CARNIVAL Color Changing Sensory Wall Reversible Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/carnival)
-  Updated: 2025-09-12T17:45:28Z
+  Updated: 2025-09-16T00:43:20Z
   Vendor: Fabrics Star
   Product Type: Reversible Sequin Fabric
   Availability: Available
@@ -8765,7 +8765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-D-BLUSH-S-BLUSH.jpg?v=1757518726
     Price: $1.00 USD
 - [GLITTER Sequin Fabric, 58 Inch. in Width](https://fabricsstar.com/products/glitter)
-  Updated: 2025-09-12T17:45:28Z
+  Updated: 2025-09-16T00:43:20Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8803,7 +8803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-WHITE-SILVER.jpg?v=1757518729
     Price: $1.00 USD
 - [NAOMI Sheer Fabric, 118 Inch. in Width](https://fabricsstar.com/products/naomi)
-  Updated: 2025-09-12T17:45:28Z
+  Updated: 2025-09-16T00:43:20Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8849,7 +8849,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-WHITE.jpg?v=1757518733
     Price: $1.00 USD
 - [NATALI Sheer Fabric, 118 Inch. in Width | Home Décor](https://fabricsstar.com/products/natali)
-  Updated: 2025-09-12T17:45:26Z
+  Updated: 2025-09-16T00:43:20Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8879,7 +8879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NATALI-118-PEWTER.jpg?v=1757518737
     Price: $1.00 USD
 - [MATISE Jacquard Fabric, 55 Inch. in Width, | Home Décor](https://fabricsstar.com/products/matise): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:26Z
+  Updated: 2025-09-16T00:43:21Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8917,7 +8917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MATISE-MOCHA-3.jpg?v=1755199218
     Price: $1.00 USD
 - [REBA Jacquard Fabric, 55 Inch. in Width | Home Décor](https://fabricsstar.com/products/reba): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. Wash with lukewarm water USEFUL - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful fresh floral tablecloth will uplift any occasion and create a luxurious atmosphere for your guests Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:24Z
+  Updated: 2025-09-16T00:43:22Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -8987,7 +8987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/REBA-19-PURPLE.jpg?v=1757518767
     Price: $1.00 USD
 - [GLASGOW Lace Netting Material 55 Inch in Width | Home Décor](https://fabricsstar.com/products/glasgow): DIMENSION - Size of the embroidered fabric is 55 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. MATERIAL -Embroidered mesh fabric is 100% polyester & lightweight DESIGN -This embroidered fabric features a mesh backing with beautiful embroidery. Its luxurious look makes it the ideal fabric for all your elegant needs USEFUL - Perfect fabric for sewing , gowns , dresses , skirts , veils , DIY , Arts & Crafts , tablecloths, table runners, drapery , home décor and more . Add a touch of glitz to your wardrobe with stylish overlays for skirts and dresses or for special occasion decorations like tablecloths CARE - Wash with lukewarm water - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer
-  Updated: 2025-09-12T17:45:24Z
+  Updated: 2025-09-16T00:43:22Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9001,7 +9001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLASGOW-IVORY.jpg?v=1757518771
     Price: $1.00 USD
 - [LANE Fabric, 55 Inch. in Width, | Home Décor](https://fabricsstar.com/products/lane): DIMENSION - Size of the fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:22Z
+  Updated: 2025-09-16T00:43:22Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9047,7 +9047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANE-SNOW-WHITE.jpg?v=1757518772
     Price: $1.00 USD
 - [LARGO Jacquard Fabric, 115 Inch. in Width, | Home Décor](https://fabricsstar.com/products/largo): DIMENSION - Size of the fabric is 115 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:22Z
+  Updated: 2025-09-16T00:43:23Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9061,7 +9061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LARGO-IVORY-535.jpg?v=1757518779
     Price: $1.00 USD
 - [LAURIER Fabric. 58 Inch in Width | Home Décor](https://fabricsstar.com/products/laurier): DIMENSION - Size of the fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:22Z
+  Updated: 2025-09-16T00:43:23Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9115,7 +9115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LAURIER-SILVER-02.jpg?v=1757518783
     Price: $1.00 USD
 - [MACKENZIE Embroidered Taffeta Fabric.  58 Inch in Width | Home Décor](https://fabricsstar.com/products/mackenzie): DIMENSION - Size of the fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:22Z
+  Updated: 2025-09-16T00:43:23Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9177,7 +9177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MACKENZIE-WHITE.jpg?v=1757518788
     Price: $1.00 USD
 - [PEARLES Fabric, 55 Inch. in Width, | Home Décor](https://fabricsstar.com/products/pearles): DIMENSION - Size of the fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:20Z
+  Updated: 2025-09-16T00:43:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9223,7 +9223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PEARLES-BLUSH-4.jpg?v=1757518802
     Price: $1.00 USD
 - [RACHEL Lace Netting Material 55 Inch in Width | Home Décor](https://fabricsstar.com/products/rachel): DIMENSION - Size of the embroidered fabric is 55 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. MATERIAL -Embroidered mesh fabric is 100% polyester & lightweight DESIGN -This embroidered fabric features a mesh backing with beautiful embroidery. Its luxurious look makes it the ideal fabric for all your elegant needs USEFUL - Perfect fabric for sewing , gowns , dresses , skirts , veils , DIY , Arts & Crafts , tablecloths, table runners, drapery , home décor and more . Add a touch of glitz to your wardrobe with stylish overlays for skirts and dresses or for special occasion decorations like tablecloths CARE - Wash with lukewarm water - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:20Z
+  Updated: 2025-09-16T00:43:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9243,7 +9243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RACHEL-IVORY.jpg?v=1757518803
     Price: $1.00 USD
 - [RATTLE Jacquard Fabric, 58 Inch. in Width, | Home Décor](https://fabricsstar.com/products/rattle): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:20Z
+  Updated: 2025-09-16T00:43:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9295,7 +9295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RATTLE-WHITE.jpg?v=1757518805
     Price: $1.00 USD
 - [RELLA Jacquard Fabric, 58 Inch. in Width, | Home Décor](https://fabricsstar.com/products/rella): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:20Z
+  Updated: 2025-09-16T00:43:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9349,7 +9349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RELLA-WHITE.jpg?v=1757518810
     Price: $1.00 USD
 - [ROLLS ROYCE Jacquard Fabric, 58 Inch. in Width, | Home Décor](https://fabricsstar.com/products/rolls-royce): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:18Z
+  Updated: 2025-09-16T00:43:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9395,7 +9395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROLLS-ROYCE-PEO-PURPLE.jpg?v=1757518820
     Price: $1.00 USD
 - [RUSSEL Jacquard Fabric, 55 Inch. in Width, | Home Décor](https://fabricsstar.com/products/russel): DIMENSION - Size of the Jacquard fabric is 55 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:18Z
+  Updated: 2025-09-16T00:43:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9441,7 +9441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RUSSEL-SILVER-8.jpg?v=1757518821
     Price: $1.00 USD
 - [VINTAGE Jacquard Fabric, 54 Inch. in Width, | Home Décor](https://fabricsstar.com/products/vintage): DIMENSION - Size of the Jacquard fabric is 54 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 54' x 36'. Order of 3 yards (Qty=3) is 54' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:18Z
+  Updated: 2025-09-16T00:43:25Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9455,7 +9455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VINTAGE-TERRACOTTA-90.jpg?v=1757518828
     Price: $1.00 USD
 - [WALDORF Jacquard Fabric, 54 Inch. in Width, | Home Decor](https://fabricsstar.com/products/waldorf): DIMENSION - Size of the Jacquard fabric is 54 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 54' x 36'. Order of 3 yards (Qty=3) is 54' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-12T17:45:18Z
+  Updated: 2025-09-16T00:43:25Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-09-14T12:41:53Z
+  Updated: 2025-09-16T00:43:25Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9622,41 +9622,41 @@
 ## Collections
 
 - [Premium Woven Fabric Online | Buy High Quality Woven Fabric](https://fabricsstar.com/collections/woven): Shop premium woven fabrics at Fabrics Star. Discover high-quality woven fabric online and buy the perfect material for your creative projects today!
-  Updated: 2025-09-12T15:13:03Z
+  Updated: 2025-09-16T00:42:42Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-09-13T11:13:26Z
+  Updated: 2025-09-16T00:42:42Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-09-15T11:12:32Z
-  Total Products: 16
+  Updated: 2025-09-16T00:47:58Z
+  Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
-  Updated: 2025-09-12T15:41:54Z
+  Updated: 2025-09-16T00:42:42Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-09-14T11:12:19Z
-  Total Products: 60
+  Updated: 2025-09-16T00:47:58Z
+  Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2025-09-12T15:41:59Z
-  Total Products: 20
+  Updated: 2025-09-16T00:47:43Z
+  Total Products: 38
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://fabricsstar.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
-  Updated: 2025-09-12T15:47:54Z
-  Total Products: 8
+  Updated: 2025-09-16T00:47:55Z
+  Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-09-15T11:12:32Z
-  Total Products: 240
+  Updated: 2025-09-16T00:47:58Z
+  Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-09-15T11:12:32Z
-  Total Products: 240
+  Updated: 2025-09-16T00:47:58Z
+  Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-09-15T11:12:32Z
-  Total Products: 107
+  Updated: 2025-09-16T00:47:58Z
+  Total Products: 533
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-09-14T11:12:19Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-15T11:12:32Z
-  Total Products: 240
+  Updated: 2025-09-16T00:47:59Z
+  Total Products: 666
 
 ## Blogs
 
