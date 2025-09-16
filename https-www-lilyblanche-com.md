@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-15T20:00:42.953Z
+- Updated At: 2025-09-16T00:00:42.301Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3910,7 +3910,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Gold Heart Earrings | Lily Blanche](https://www.lilyblanche.com/products/heart-earrings-gold): These pretty filigree heart earrings are made from 18 carat gold vermeil. Free jewellery care kit worth £20 with all orders.
-  Updated: 2025-08-28T11:42:02Z
+  Updated: 2025-09-15T21:40:35Z
   Vendor: Lily Blanche
   Product Type: Earring
   Availability: Available
@@ -16829,7 +16829,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-09-14T18:48:55Z
+  Updated: 2025-09-15T21:40:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-15T09:58:06Z
+  Updated: 2025-09-15T21:29:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17675,7 +17675,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_diamond_initial_necklace_R.jpg?v=1741872491
     Price: £260.00 GBP
 - [Solid White Gold Curb Chain | Premium Quality Chain | UK Made](https://www.lilyblanche.com/products/solid-white-gold-curb-chain): Quality & strength assured, this classic, medium-weight, solid 9 carat white gold curb chain is perfect for any occasion.  Free shipping & free care kit today
-  Updated: 2025-09-15T11:40:50Z
+  Updated: 2025-09-15T23:34:33Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
