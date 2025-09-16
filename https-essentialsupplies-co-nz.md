@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-16T16:00:38.218Z
+- Updated At: 2025-09-16T20:00:39.673Z
 
 ## Products
 
@@ -3595,7 +3595,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/kitchen-paper-towels-white-272mm-x-226mm-3-ply-60-sheets-fsc-mix-12-rolls-perforated-kitchen-paper-towels-essential-supplies-872147.jpg?v=1719445418
   Price: $55.00 NZD
 - [Manual Roll Feed Dispenser - Silver, 1 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/manual-roll-feed-dispenser-silver-1-roll-capacity-1): Manual roll feed dispenser with one pull automatic paper towel dispensing action. Designed for superior hygiene and waste minimisation with no cross contamination between individual towels. Compatible with most roll feed paper towels.
-  Updated: 2025-02-14T05:13:47Z
+  Updated: 2025-09-16T19:11:57Z
   Vendor: Mattews Packaging
   Product Type: Roll Towel Dispensers
   Availability: Available
