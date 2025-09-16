@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2025-08-14T23:44:00Z
 - Contact Email: nkemso22@gmail.com
-- Updated At: 2025-09-16T08:00:29.071Z
+- Updated At: 2025-09-16T16:00:29.098Z
 
 ## Products
 
@@ -171,7 +171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/S2733a6d89ad04c3ba457b0cd56391008r.webp?v=1757943759
     Price: $37.28 USD
 - [Keyboard Cleaner Air Spray for Computers - 10oz Air Can Duster for Electronics, Keyboard, 1PCS…](https://aviauwa.myshopify.com/products/keyboard-cleaner-air-spray-for-computers-10oz-air-can-duster-for-electronics-keyboard-1pcs-85371977981-k8ovp): Hidden Space Cleaner: The iDuster compressed air duster excels in eliminating dust and debris from concealed and hard-to-reach areas of electronic devices, ensuring a comprehensive clean even in the most hidden spots.Outstanding Customer Support: The Keyboard Cleaner for PC features a sleek, minimalist design. We are committed to providing high-quality compressed air dusters and cleaner sprays and are always ready to assist with any questions or concerns.Versatile Use: The iDuster canned air, with its compact size and ergonomic design, is perfect for cleaning hard-to-reach areas such as computer keyboards, car seats, camera lenses, collectibles, screens, and more.User-Friendly: The PC air duster is simple to use. Just press the trigger to release the compressed air and aim the nozzle at the area you want to clean.Safe to Use: This compressed air duster is free of harmful chemicals and is safe for all electronic devices, including computers, keyboards, laptops, and tablets.
-  Updated: 2025-09-15T22:34:20Z
+  Updated: 2025-09-16T10:34:49Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
@@ -1560,6 +1560,49 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/l2JKI8OIPVIWtC1J-_1.webp?v=1757719332
   Price: $344.96 USD
+- [Bamboo Toothbrush. Soft, Eco-Friendly](https://aviauwa.myshopify.com/products/bamboo-toothbrush-soft-eco-friendly): BeNat Environment-friendly wood toothbrush bamboo/nylon fiber. Low-carbon eco-friendly. Don´t be part of the plastic pollution! It's time to find better ways to do our daily hygiene routine. A natural way! Go green, go healthier, go better! Get rid of your traditional and pollutant plastic toothbrush and reduce your carbon footprint while getting the same results. Comfortable and soft brush, with no damage to the enamel. Nanotechnology prevents bacteria growth on the toothbrush. Effectively massages the gum tissue and promotes blood circulation. Non-slip handle, delicate appearance, comfortable hand feeling. The superfine brush can go deep into the gaps between the teeth to clean more effectively. Bamboo Toothbrush. Soft. Eco-Friendly Quantity: 1 unit. 7.2 x 1.1 x 2.1 in. 0.4 oz
+  Updated: 2025-09-16T10:06:39Z
+  Vendor: AVIAUWA
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/sxT83KQ8men1qwH.webp?v=1758017112
+  Price: $27.07 USD
+- [Eco-Friendly Cotton Tote](https://aviauwa.myshopify.com/products/eco-friendly-cotton-tote): Say goodbye to plastic, and bag your goodies in this organic cotton Feeling Good tote bag. There’s more than enough room for groceries, books, and anything in between. • 100% certified organic cotton 3/1 twill • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg)
+  Updated: 2025-09-16T10:24:15Z
+  Vendor: AVIAUWA
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/Py6WdR2XGQMAeEA.webp?v=1758017424
+  - [Black](https://aviauwa.myshopify.com/products/eco-friendly-cotton-tote?variant=46633965027581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/Py6WdR2XGQMAeEA.webp?v=1758017424
+    Price: $130.72 USD
+  - [Oyster](https://aviauwa.myshopify.com/products/eco-friendly-cotton-tote?variant=46633965060349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/MKds5yzJWRusmIg.webp?v=1758017445
+    Price: $130.72 USD
+- [K56Pro Smart Watch for Men Heart Rate Blood Bluetooth Sport 400Mah Long Standby 1.39 Inch 360*360 HD Screen Outdoors Smartwatch](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch): Description Product parameters -System requirements: Android 4.4 and above, IOS 8.0 and above, supporting Bluetooth 5.0-Bluetooth version: BLE 5.0-Main control chip: Realtek8762DK-Memory: Flash 128MB-Screen resolution: 360 * 360-Heart rate: 3605-Horn: 0916-Battery capacity: 400mA-Standby time: about 30 days-Working time: around 5-10 days-Motor: Built in, vibration reminder-APP: Dafit Watch features -1.39 inch IPS screen-Detachable 22mm strap Standard -Multiple watch faces pushing,Customized watch faces-Bluetooth calling/BT music(Superior clear audio like sound effect),Weather-Heart rate detection/Blood pressure detection/Blood oxygen detection/Wole-day heart rate monitor-Timer ,Pedometer,Calorie Consumption,Distance Calculation,Heart rate,Blood pressure,Blood oxygen,Sleep time /quality,On & Off dispaly，Multiple sport modes-Sleep detection (Sleep time ,Sleep quality)-Calls to remind,SMS Reminder,Third-party messaging reminder Multilingual push,Clock alarm,Remote Camera，Sedentary reminder-400mAh big battery,super long standby time,Bright screen under sunshine Language Watch device language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian,Italian,PolishMessage push language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian, Italian,PolishAPP language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian, Italian,Polish Package includes Main unit, charger, wrist strap, instruction manual, packing box After receiving the watch, please charge it first. Due to the long-term logistics, the battery of the watch is low. Before using, please scan the QR code on the instruction manual to download the APP and connect the watch through the APP.
+  Updated: 2025-09-16T11:49:25Z
+  Vendor: AVIAUWA
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/95d5c22c8386b2009e26fd09a09b86cf.jpg?v=1758023077
+  - [Black Silicone](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch?variant=46634036297981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/95d5c22c8386b2009e26fd09a09b86cf.jpg?v=1758023077
+    Price: $31.41 USD
+  - [Green Silicone](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch?variant=46634036330749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/2bc9ee8511bf3a75a44e1f053cf416c6.jpg?v=1758023077
+    Price: $38.89 USD
+  - [Black Steel](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch?variant=46634036363517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/b20c95bb8aa3caafc772aac9907b73e4.jpg?v=1758023076
+    Price: $32.78 USD
+  - [Khaki Silicone](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch?variant=46634036396285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/9f847a3b1e3e5de65c5f4de1e077ad93.jpg?v=1758023076
+    Price: $34.29 USD
 
 ## Collections
 
@@ -1609,8 +1652,14 @@
   Updated: 2025-09-07T23:28:23Z
   Total Products: 0
 - [APPPlaza - Best Sellers](https://aviauwa.myshopify.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-12T23:06:28Z
-  Total Products: 37
+  Updated: 2025-09-16T11:45:01Z
+  Total Products: 41
+- [Personal Care](https://aviauwa.myshopify.com/collections/personal-care)
+  Updated: 2025-09-16T10:08:35Z
+  Total Products: 2
+- [Clothing](https://aviauwa.myshopify.com/collections/clothing)
+  Updated: 2025-09-16T10:10:35Z
+  Total Products: 1
 
 ## Blogs
 
