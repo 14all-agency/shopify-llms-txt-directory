@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-16T08:00:39.011Z
+- Updated At: 2025-09-16T12:00:38.705Z
 
 ## Products
 
@@ -1670,7 +1670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/low-lint-dry-wipes-white-300mm-x-500mm-90-sheets-80gsm-4-rolls-ultra-low-lint-dry-wipes-essential-supplies-983542.jpg?v=1719445325
   Price: $85.00 NZD
 - [Luxury TAD Compact Paper Towel - White, 1 Ply, 200mm x 250mm, FSC Mix® - 2400 Sheets](https://essentialsupplies.co.nz/products/luxury-tad-compact-paper-towel-white-1-ply-200mm-x-250mm-fsc-mix®-2400): Luxury compact paper towels are designed for dispensing in tight spaces.Ideal for high volume use, ensuring quality absorbency and strength with every sheet, combined with premium cost efficiency. 5 fold 1 ply 120 sheet pack The paper used is FSC certified which ensures you are making a sustainable paper choice Towel size: 190mm x 250mm Pack content: 120 towels Box contains 20 packs x 120 towels (2400 towels) Colour: White
-  Updated: 2025-01-10T00:07:18Z
+  Updated: 2025-09-16T11:10:39Z
   Vendor: Mattews Packaging
   Product Type: Folded Paper Towels
   Availability: Available
