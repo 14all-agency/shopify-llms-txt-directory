@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-15T20:00:55.109Z
+- Updated At: 2025-09-16T00:00:56.686Z
 
 ## Products
 
@@ -36725,7 +36725,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [חולצת כדורגל ברצלונה בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים): חולצת כדורגל ברצלונה לעונת 25/26 בגימור מודרני. קלי משקל ונושמת, מושלמת לכל אוהד מועדון
-  Updated: 2025-09-14T10:37:04Z
+  Updated: 2025-09-15T20:13:12Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37859,7 +37859,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [חולצת נשים ברצלונה בית 25/26](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26): חולצת נשים ברצלונה בית 25/26 החולצה החדשה של ברצלונה לעונת 2025/26 מציעה עיצוב מודרני שמקפיד לשמור על רוח המועדון החולצה משלבת את הצבעים המסורתיים של כחול ואדום, אך עם גימור חדשני הכולל דפוסים גרפיים עדינים שמקנים לה מראה צעיר, טרנדי ונשי סמל המועדון נמצא בגאווה על החזה, ומחבר אותך ישירות לאחת הקבוצות הגדולות בעולם עשויה מ-100% פוליאסטר קל ונושם, החולצה מבטיחה נוחות מירבית לאורך כל היום, בין אם את משחקת, מתאמנת או סתם נושאת את הגאווה שלך בשגרת היומיום. חולצה מושלמת לכל אוהבת ברצלונה שרוצה לשדר גם סטייל וגם נוחות.
-  Updated: 2025-09-14T10:37:06Z
+  Updated: 2025-09-15T20:13:12Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -40713,32 +40713,32 @@
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [חולצה ארוכה ליברפול בית 25/26 | גברים](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים): חולצה ארוכה של ליברפול לעונת 2025/26 בגוון אדום עמוק, מתאימה לשימוש יום-יומי או לאימון. עשויה מבד נושם וקל משקל שמאפשר נוחות לאורך כל היום. העיצוב כולל את סמל המועדון על החזה ונגיעות לבנות עדינות שמדגישות את הזהות הקבוצתית. חולצה פשוטה ונוחה למי שרוצה להראות את התמיכה בליברפול גם מחוץ למגרש.
-  Updated: 2025-09-07T22:01:44Z
+  Updated: 2025-09-15T21:06:04Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_3da81218-c691-4f68-80ac-647fb0db8905.jpg?v=1754060484
   - [S](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573846819066)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573846851834)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573846884602)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573846917370)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573846950138)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573846982906)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-בית-25-26-גברים?variant=47573847015674)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
 - [חולצה ארוכה לבירפול משחקי בית 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצה-ארוכה-לבירפול-משחקי-בית-25-26-אותנטית-גברים): חולצת הבית של ליברפול לעונת 2025/26 בגרסת השחקן גזרה צמודה, בד מתקדם ונראות זהה לזו שעל הדשא באנפילד. מתאימה לאוהדים שרוצים להרגיש על המגרש.
   Updated: 2025-09-07T22:01:43Z
   Vendor: R:SPORT
@@ -44889,32 +44889,32 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [חולצה ארוכה ליברפול שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים): תמוך בליברפול במגרש ומחוץ למגרש החולצה הארוכה השלישית של ליברפול לעונת 25/26 לגברים בגווני ירוק ולבן מציעה עיצוב מודרני בהשראת התלבושת של השחקנים עשויה 100% פוליאסטר קל ונושם שמספק נוחות מירבית ותחושת יובש לאורך כל הפעילות הגזרה רגילה ומותאמת לגברים ומאפשרת חופש תנועה מלא עם הצבעים של הקבוצה מודגשים בצורה ברורה ומרשימה ותומכת באוהדים שרוצים להרגיש חלק מהקבוצה
-  Updated: 2025-09-10T02:56:02Z
+  Updated: 2025-09-15T21:05:41Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_739e530d-b5fa-474a-a374-1fedb647a29b.jpg?v=1757432543
   - [S](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694222074)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694254842)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694287610)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694320378)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694353146)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694385914)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצה-ארוכה-ליברפול-שלישית-25-26-גברים?variant=47706694418682)
     Availability: Available
-    Price: ‏160.00 ‏₪ ILS
+    Price: ‏200.00 ‏₪ ILS
 - [חולצה ארוכה משחקי לבירפול שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצה-ארוכה-משחקי-לבירפול-שלישית-25-26-גברים): חולצת הבית של ליברפול לעונת 2025/26 בגרסת השחקן גזרה צמודה, בד מתקדם ונראות זהה לזו שעל הדשא באנפילד. מתאימה לאוהדים שרוצים להרגיש על המגרש.
   Updated: 2025-09-10T02:58:10Z
   Vendor: R:SPORT
@@ -45296,24 +45296,96 @@
   - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-אתלטיקו-מדריד-שלישית-25-26-גוניורס?variant=47721961914618)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
+- [חולצת כדורגל יובנטוס שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים): חולצת כדורגל יובנטוס שלישית לעונת 2025/26 לגברים בגזרה רגילה עשויה 100% פוליאסטר קל ונושם המעניק נוחות מלאה ותחושת יובש לאורך כל המשחק או האימון העיצוב מודרני ואפשר להוסיף שם, מספר או לבחור שחקן אהוב להתאמה אישית מושלמת למי שרוצה ללבוש את הצבעים בגאווה במגרש ובחיי היום יום
+  Updated: 2025-09-15T22:56:59Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_7e7d6359-441f-42fe-8d9a-c000f6d85b36.jpg?v=1757976698
+  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722992894202)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722992926970)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722992959738)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722992992506)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722993025274)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722993058042)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXXL](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גברים?variant=47722993090810)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת משחקי יובנטוס שלישית 2025/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים): חולצת כדורגל משחקי יובנטוס שלישית 2025/26 אותנטית לגברים בגרסת שחקן בגזרה צמודה בהשראת החולצה של השחקנים על המגרש עשויה 100% פוליאסטר קל ונושם המנדף זיעה ושומר על יובש ונוחות גם ברגעי מאמץ אינטנסיביים העיצוב מודרני בגווני שחור, שמנת וירוק ואפשר להוסיף שם, מספר או לבחור שחקן אהוב להתאמה אישית מושלמת למי שרוצה להרגיש חלק מהמשחק וללבוש את הצבעים בגאווה
+  Updated: 2025-09-15T22:57:00Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_5e3becc1-02b6-4806-b940-b2833a060f27.jpg?v=1757976788
+  - [S](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722995876090)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722995908858)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722995941626)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722995974394)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722996007162)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722996039930)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXXXL](https://www.rsport.co.il/products/חולצת-משחקי-יובנטוס-שלישית-2025-26-אותנטית-גברים?variant=47722996072698)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+- [חולצת כדורגל יובנטוס שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גוניורס): חולצת כדורגל יובנטוס שלישית 25/26 לילדים בגזרה רגילה מותאמת לילדים עשויה 100% פוליאסטר קל ונושם המעניק נוחות מלאה ותחושת יובש גם במהלך משחקים ואימונים העיצוב מודרני בגווני שחור, שמנת וירוק ואפשר להוסיף שם, מספר או לבחור שחקן אהוב להתאמה אישית מושלמת למי שרוצה ללבוש את הצבעים בגאווה במגרש ובחיי היום יום
+  Updated: 2025-09-15T22:57:01Z
+  Vendor: R:SPORT
+  Product Type: חליפת כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_c116ab9a-900f-4ca0-beda-efe0a55d79b8.jpg?v=1757976907
+  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גוניורס?variant=47722996433146)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גוניורס?variant=47722996465914)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גוניורס?variant=47722996498682)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-יובנטוס-שלישית-25-26-גוניורס?variant=47722996531450)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
 
 ## Collections
 
 - [ליגה אנגלית חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ליגה-אנגלית): המבחר הגדול ביותר של חולצות ומוצרי כדורגל מהליגה האנגלית – עכשיו באר ספורט מציעים לכם מגוון רחב של חולצות כדורגל מהפרמייר ליג, כולל חולצות משחק רשמיות, חולצות אוהד, חליפות ילדים, אימוניות, מעילי רוח, חולצות שוער, חולצות עבר, בגדי תינוקות ועוד. כל המוצרים באיכות הגבוהה ביותר ובמחירים אטרקטיביים. תמצאו כאן את המותגים של הקבוצות הגדולות בעולם – מנצ'סטר סיטי, מנצ'סטר יונייטד, ליברפול, ארסנל, צ'לסי, טוטנהאם ועוד.
-  Updated: 2025-09-15T11:16:47Z
+  Updated: 2025-09-15T21:06:06Z
   Total Products: 227
 - [ארסנל חולצות כדורגל, חליפות ספורט ומוצרי אוהדים | Arsenal FC](https://www.rsport.co.il/collections/ארסנל): חולצות ארסנל, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מבחר רחב של מוצרים לאוהדי Arsenal איכות, סטייל ונאמנות למועדון.
   Updated: 2025-09-15T11:16:47Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-15T12:46:20Z
-  Total Products: 920
+  Updated: 2025-09-15T22:56:59Z
+  Total Products: 922
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-12T11:18:32Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-15T12:46:21Z
-  Total Products: 325
+  Updated: 2025-09-15T22:57:00Z
+  Total Products: 326
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-09-13T11:18:12Z
   Total Products: 37
@@ -45324,7 +45396,7 @@
   Updated: 2025-08-25T11:16:01Z
   Total Products: 44
 - [חולצות כדורגל ליברפול ומוצרי ספורט | איכות ומבחר למעריצים](https://www.rsport.co.il/collections/ליברפול): גלו את קולקציית חולצות הכדורגל של ליברפול לעונת 25/26 ומוצרי ספורט נבחרים. מבחר פריטים איכותיים ומעודכנים לכל אוהדי המועדון
-  Updated: 2025-09-12T11:18:32Z
+  Updated: 2025-09-15T21:06:06Z
   Total Products: 36
 - [חולצות מילאן ומוצרי ספורט | Ac Milan](https://www.rsport.co.il/collections/מילאן): רכוש את חולצת מילאן המועדפת עליך. מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת מילאן במחירים משתלמים
   Updated: 2025-08-21T11:18:24Z
@@ -45333,8 +45405,8 @@
   Updated: 2025-09-09T15:14:27Z
   Total Products: 26
 - [יובנטוס](https://www.rsport.co.il/collections/יובנטוס)
-  Updated: 2025-08-29T11:18:24Z
-  Total Products: 34
+  Updated: 2025-09-15T22:57:00Z
+  Total Products: 37
 - [אינטר | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אינטר): גלה את חולצות הכדורגל של אינטר מהליגה האיטלקית, בגדי אימון איכותיים לאוהדים. חולצות בית וחוץ עם דגש על נוחות, איכות וסטייל איטלקי ייחודי.
   Updated: 2025-08-25T18:38:27Z
   Total Products: 46
@@ -45351,8 +45423,8 @@
   Updated: 2025-09-15T12:46:21Z
   Total Products: 140
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
-  Updated: 2025-09-10T11:18:41Z
-  Total Products: 135
+  Updated: 2025-09-15T22:57:00Z
+  Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
   Updated: 2025-09-15T11:16:47Z
   Total Products: 105
@@ -45681,11 +45753,11 @@
   Updated: 2025-09-12T12:38:50Z
   Total Products: 37
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-15T12:46:19Z
-  Total Products: 810
+  Updated: 2025-09-15T22:56:59Z
+  Total Products: 812
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-15T12:46:20Z
-  Total Products: 245
+  Updated: 2025-09-15T22:57:00Z
+  Total Products: 246
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-09-05T11:17:54Z
   Total Products: 11
@@ -45774,14 +45846,14 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-15T12:46:21Z
-  Total Products: 2027
+  Updated: 2025-09-15T22:57:00Z
+  Total Products: 2030
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-09-15T12:46:19Z
-  Total Products: 267
+  Updated: 2025-09-15T22:56:59Z
+  Total Products: 269
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-08-05T22:10:36Z
   Total Products: 6
@@ -45792,8 +45864,8 @@
   Updated: 2025-08-25T19:07:32Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-09-15T12:46:21Z
-  Total Products: 357
+  Updated: 2025-09-15T22:56:59Z
+  Total Products: 359
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-08-05T22:10:36Z
   Total Products: 71
