@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-16T04:00:37.703Z
+- Updated At: 2025-09-16T08:00:39.011Z
 
 ## Products
 
@@ -2062,7 +2062,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-buckles-white-light-duty-12mm-1000-strapping-buckles-essential-supplies-887615.jpg?v=1719445549
   Price: $69.00 NZD
 - [Polypropylene Buckles - White, Light Duty, 19mm - 1000 Pieces](https://essentialsupplies.co.nz/products/polypropylene-buckles-white-light-duty-19mm-1000): Polypropylene buckles made from durable polypropylene are quick to use and reliable. Designed for hand tensioning polypropylene strapping around light to medium weight packages. For light to medium weight packages Designed for hand tensioning polypropylene strapping Colour: White Size: 19mm Pack of 4000 pieces
-  Updated: 2025-01-09T15:19:25Z
+  Updated: 2025-09-16T08:00:19Z
   Vendor: Mattews Packaging
   Product Type: Strapping Buckles
   Availability: Available
