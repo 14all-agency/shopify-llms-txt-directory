@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-16T12:00:29.062Z
+- Updated At: 2025-09-16T16:00:28.878Z
 
 ## Products
 
