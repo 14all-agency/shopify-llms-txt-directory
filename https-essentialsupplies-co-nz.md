@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-16T12:00:38.705Z
+- Updated At: 2025-09-16T16:00:38.218Z
 
 ## Products
 
@@ -3021,7 +3021,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/plastic-labelope-plain-a5-white-175mm-x-230mm-500-pack-labelopes-essential-supplies-224172.jpg?v=1719445426
   Price: $67.00 NZD
 - [Plastic Labelope Plain A4 - White, 240mm x 330mm - 500 Pack](https://essentialsupplies.co.nz/products/plastic-labelope-plain-a4-white-240mm-x-330mm-500): Standard shipping labelopes are constructed of tough, waterproof polyethylene. Labelopes remain firmly stuck to packages and are the ideal way to protect your packing documents. Made from strong transparent polyethylene Strong, self adhesive backing to instantly stick to packages or boxes Ultimate protection for packing documents Printed: No Prints (Plain) Size: 240 x 330mm (A4) Pack of: 500
-  Updated: 2025-02-14T23:52:29Z
+  Updated: 2025-09-16T12:05:16Z
   Vendor: Mattews Packaging
   Product Type: Labelopes
   Availability: Available
