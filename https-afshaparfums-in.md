@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-06-07T09:35:30Z
 - Contact Email: afshaparfumsofficial@gmail.com
-- Updated At: 2025-09-16T08:00:27.962Z
+- Updated At: 2025-09-16T12:00:27.855Z
 
 ## Products
 
 - [Shop Now: Casanova by Afsha Parfums - Best Dubai Perfume in India for Unmatched Charisma](https://afshaparfums.in/products/casanova-luxury-perfume-in-india): Discover and shop Casanova by Afsha Parfums, a rare and alluring fragrance that embodies charisma like a crimson moon. Perfect for those who seek a unique scent experience. Explore the best Dubai perfume in India that leaves a lasting impression.
-  Updated: 2025-09-03T13:24:27Z
+  Updated: 2025-09-16T08:44:31Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0658/0319/0461/files/DSC_5657copy.png?v=1717756199
   Price: ₹1,799.00 INR
 - [Shop Now: Mafiusu by Afsha Parfums - Best Premium Dubai Perfume in India](https://afshaparfums.in/products/mafiusu-premium-dubai-perfume-in-india): Explore and shop Mafiusu by Afsha Parfums, a bold fragrance that captures power and sophistication. Inspired by the Italian word for 'Mafia,' this scent exudes authority and intrigue. Buy best premium Dubai perfume in India
-  Updated: 2025-08-31T17:32:08Z
+  Updated: 2025-09-16T08:44:32Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/0319/0461/files/DSC_5628copy.png?v=1717756322
   Price: ₹1,499.00 INR
 - [Shop Now Emperor Best Premium Dubai Perfume in India - Afsha Parfums](https://afshaparfums.in/products/emperor-premium-dubai-perfume-in-india): Best premium Dubai perfume in India Discover and shop Emperor by Afsha Parfums, a captivating unisex fragrance that exudes regal sophistication. Encased in a sleek, purple and white bottle, this scent is a symbol of modern elegance.
-  Updated: 2025-09-08T06:42:06Z
+  Updated: 2025-09-16T08:44:32Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
