@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-16T16:00:42.110Z
+- Updated At: 2025-09-16T20:00:42.677Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9524,7 +9524,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £320.00 GBP
 - [Curb Chain | Silver | Lily Blanche](https://www.lilyblanche.com/products/curb-chain-silver): This classic, medium weight sterling silver curb chain is the perfect chain for any occasion. Wear on it is own, with one of our solid silver pendants or lockets. Free gift wrap.
-  Updated: 2025-09-07T13:46:48Z
+  Updated: 2025-09-16T19:07:17Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -17000,7 +17000,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [St Christopher Necklace  Solid Gold + Engraving](https://www.lilyblanche.com/products/st-christopher-necklace-gold): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a perfect gift for special birthdays. Personalise with engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-07T22:25:02Z
+  Updated: 2025-09-16T17:07:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22852,7 +22852,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-16T11:39:05Z
+  Updated: 2025-09-16T19:10:26Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
