@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-09-16T11:59:48.802Z
+- Updated At: 2025-09-16T16:00:28.280Z
 
 ## Products
 
@@ -1417,15 +1417,18 @@
 
 ## Collections
 
-- [Women’s Fitted T-shirts | LazyWhiskers](https://lazywhiskers.shop/collections/women-t-shirts): Shop funny t-shirts, sarcastic tees and cat-inspired streetwear. LazyWhiskers designs mix humor, irony and feline independence. Designed to Disobey.
-  Updated: 2025-09-04T11:58:44Z
+- [Women’s Fitted T-Shirts | LazyWhiskers Streetwear](https://lazywhiskers.shop/collections/women-t-shirts): Bold. Fitted. Zero chill. Discover LazyWhiskers Women’s Fitted T-Shirts with rebellious cat-inspired graphics. Shop attitude today.
+  Updated: 2025-09-16T12:10:15Z
   Total Products: 2
-- [Unisex Streetwear T-shirts | LazyWhiskers](https://lazywhiskers.shop/collections/funny-cat-t-shirts): Shop funny t-shirts, sarcastic tees and cat-inspired streetwear. LazyWhiskers unisex designs mix humor, irony and feline independence. Designed to Disobey.
-  Updated: 2025-09-11T10:39:22Z
+- [Unisex T-Shirts | LazyWhiskers Cat Streetwear](https://lazywhiskers.shop/collections/funny-cat-t-shirts): Shop LazyWhiskers Unisex T-Shirts: bold cat-inspired graphics, regular fit, rebellious streetwear vibes. Wear attitude, not basics.
+  Updated: 2025-09-16T12:12:13Z
   Total Products: 14
 - [AVADA - Best Sellers](https://lazywhiskers.shop/collections/avada-best-sellers)
   Updated: 2025-09-11T08:18:44Z
   Total Products: 16
+- [LazyWhiskers Halloween Collection 2025 | Cat Streetwear](https://lazywhiskers.shop/collections/halloween-collection-2025-lazywhiskers): Discover the LazyWhiskers Halloween Collection 2025: limited edition cat t-shirts, bold streetwear, and spooky vibes. Shop now before they vanish!
+  Updated: 2025-09-16T12:07:21Z
+  Total Products: 0
 
 ## Blogs
 
