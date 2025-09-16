@@ -8,7 +8,7 @@
 - Contact Email: hello@apella.in
 - Contact Phone: +91 6230116927
 - Address: Red Apple Inn, NH 72, Bhatanwali, Paonta Sahib, Himachal Pradesh, India
-- Updated At: 2025-09-15T20:01:09.147Z
+- Updated At: 2025-09-16T04:01:11.536Z
 
 ## Products
 
@@ -31,7 +31,7 @@
   Updated: 2025-09-10T09:10:41Z
   Price: ₹1,794.00 INR
 - [Buy Plus Size ​Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T18:09:37Z
+  Updated: 2025-09-16T02:16:00Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Blue Floral Cotton Shorts | Apella - The XS to 10XL Store](https://www.apella.in/products/blue-floral-cotton-shorts): The Blue Floral Cotton Shorts are a charming and playful addition to your summer wardrobe. Featuring a delightful floral pattern in shades of blue, these shorts exude a fresh and feminine vibe. Crafted for comfort, the shorts offer a relaxed fit, making them ideal for casual days and warm-weather outings. Pair them with a simple tee or a stylish blouse for an effortlessly chic look. Material:- Cotton Color:- Sky Blue Waistline:- Fully Elasticated | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:07:41Z
@@ -88,7 +88,7 @@
   Updated: 2025-09-03T11:08:24Z
   Price: ₹500.00 INR — ₹2,500.00 INR
 - [Buy Plus Size ​Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T13:10:51Z
+  Updated: 2025-09-16T00:08:22Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Navy Embellished Cotton Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/embellished-cotton-palazzo): Put your hands on this highly comfortable palazzo crafted with Cotton fabric. The palazzo has a little flare along with beautiful embroidered detailing at the hemline in contrast color. It has a fully elasticized waistband to add to the comfort and double pockets to keep your essentials safe. Material:- Cotton Pattern:- Bell Shaped Waistband:- Fully Elasticized Pockets:- Two Side Color;- Navy Blue This palazzo by Apella crafted in cotton is sure you be your quick pick for the season.The fully palazzo with fully elasticized waistband features contrast embroidered detailing. Having double sided pockets,it will go well with both indie and western wear. | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-13T11:12:36Z
@@ -958,7 +958,7 @@
   Updated: 2025-09-10T09:10:17Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Mahogany Maroon Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/mahogany-maroon-silk-blouse): Product Details- Deep Maroon Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Square Neckline and 3/4th Quarter Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-11T07:32:36Z
+  Updated: 2025-09-16T02:54:56Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Gleamy Gold Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/gleamy-gold-silk-blouse): Product Details- Golden Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Round Neckline and 3/4th Quarter Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T09:54:25Z
@@ -1420,7 +1420,7 @@
   Updated: 2025-09-13T11:38:56Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Cotton Patiala Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-patiala-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T18:20:46Z
+  Updated: 2025-09-16T03:59:36Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Afghani Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-afghani-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T16:26:36Z
@@ -2722,7 +2722,7 @@
   Updated: 2025-09-15T05:28:00Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Red Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/red-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-14T07:51:41Z
+  Updated: 2025-09-16T03:06:16Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Violet Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/violet-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-13T14:05:56Z
@@ -4555,7 +4555,7 @@
   Updated: 2025-09-10T09:09:24Z
   Price: ₹894.00 INR
 - [Buy Plus Size ​Fluorescent Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/fluorescent-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-11T14:34:25Z
+  Updated: 2025-09-16T02:49:26Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Cobalt Blue Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/cobalt-blue-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T08:17:30Z
@@ -4615,7 +4615,7 @@
   Updated: 2025-09-03T11:30:19Z
   Price: ₹994.00 INR — ₹1,194.00 INR
 - [Buy Plus Size ​Rust Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/rust-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-13T10:17:51Z
+  Updated: 2025-09-16T03:06:17Z
   Price: ₹894.00 INR — ₹1,194.00 INR
 - [Buy Plus Size ​Wine Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/wine-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:30:21Z
@@ -5605,7 +5605,7 @@
   Updated: 2025-09-13T05:37:01Z
   Price: ₹894.00 INR
 - [Buy Plus Size ​Dusty Onion Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/dusty-onion-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T09:14:10Z
+  Updated: 2025-09-15T21:22:45Z
   Price: ₹894.00 INR
 - [Buy Plus Size ​Forest Grey Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/forest-grey-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:35:05Z
@@ -5953,7 +5953,7 @@
   Updated: 2025-09-03T11:36:22Z
   Price: ₹696.00 INR
 - [Buy Plus Size ​Rainbow Spectrum Printed Maxi Dress | Apella - The XS to 10XL Store](https://www.apella.in/products/rainbow-spectrum-printed-maxi-dress): Product Details- Vibrant abstract printed Dress in Calf length Graceful silhouette gives a breezy feel Easy Care Polyester fabric that stays durable Functional pockets for an effortless style Square neck with quarter sleeves for a classic touch | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T11:59:16Z
+  Updated: 2025-09-16T01:07:51Z
   Price: ₹1,705.00 INR — ₹1,975.00 INR
 - [Buy Plus Size ​Caramel Carnival Muslin Maxi Dress | Apella - The XS to 10XL Store](https://www.apella.in/products/caramel-carnival-muslin-maxi-dress): Product Details- Light beige Muslin dress with soft multicolor print Double pockets add to functionality Calf-length silhouette for easy movement Flared quarter sleeves add a feminine touch Soft, breathable material ideal for daily wear | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-11T06:48:06Z
@@ -6241,16 +6241,16 @@
   Updated: 2025-09-15T13:39:22Z
   Price: ₹2,995.00 INR — ₹3,295.00 INR
 - [Buy Plus Size ​Morni Noor Embroidered Fancy Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/morni-noor-embroidered-fancy-suit): Product Details- Deep maroon suit for festive & wedding events Enhanced with gorgeous gold embroidery Sweetheart neckline enhanced with potli buttons Airy dupatta highlighted with subtle sequins Paired with palazzo with functional pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T13:37:18Z
+  Updated: 2025-09-15T20:06:29Z
   Price: ₹2,995.00 INR — ₹3,295.00 INR
 - [Buy Plus Size ​Shagun Red Embroidered Fancy Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/shagun-red-embroidered-fancy-suit): Product Details- Peacock blue suit perfect for festive occasions Enhanced with gorgeous gold embroidery Sweetheart neckline with quarter sleeves Light, airy dupatta embellished with sequins Paired with palazzo with handy pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T13:35:51Z
   Price: ₹2,995.00 INR — ₹3,295.00 INR
 - [Buy Plus Size ​Wine Mehfil Embroidered Fancy Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/wine-mehfil-embroidered-fancy-suit): Product Details- Vibrant red suit ideal for festive celebrations Enhanced with gorgeous gold embroidery Sweetheart neckline enhanced with potli buttons Soft, airy dupatta with sequin embellishments Paired with palazzo with functional pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T13:28:37Z
+  Updated: 2025-09-15T20:14:32Z
   Price: ₹2,995.00 INR — ₹3,295.00 INR
 - [Buy Plus Size ​Neel Surmai Embroidered Fancy Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/neel-surmai-embroidered-fancy-suit): Product Details- Deep wine suit designed for weddings & festive events Decorated with intricate gold & silver embroidery Features V-neckline enhanced with potli buttons Airy dupatta with delicate sequin detailing Paired with palazzo with functional pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T13:27:32Z
+  Updated: 2025-09-15T20:08:27Z
   Price: ₹3,295.00 INR — ₹3,595.00 INR
 - [Buy Plus Size ​Onion Blush Embroidered Fancy Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/onion-blush-embroidered-fancy-suit): Product Details- Dark blue suit crafted for festive & wedding looks Adorned with heavy floral embroidery & border Scallop neckline for an enhanced look Airy dupatta with delicate sequin detailing Paired with palazzo with functional pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T13:26:03Z
