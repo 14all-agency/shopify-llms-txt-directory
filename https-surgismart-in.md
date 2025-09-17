@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-17T12:00:31.429Z
+- Updated At: 2025-09-17T20:00:30.811Z
 
 ## Products
 
@@ -3727,7 +3727,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51sWEBzfczL._SL1080.jpg?v=1751477958
   Price: ₹249.00 INR
 - [Buy ​Amkay Digital Thermometer With Quick Measurement of Oral & Underarm Temperature in Celsius & Fahrenheit (12 Months Warranty) | Water Resistant for Easy Cleaning (White) - Surgismart](https://surgismart.in/products/amkay-digital-thermometer-with-quick-measurement-of-oral-underarm-temperature-in-celsius-fahrenheit-12-months-warranty-water-resistant-for-easy-cleaning-white): Product Overview Brand: AMKAY Special Feature: High Accuracy Colour: white Age Range (Description): Adult Included Components: digital thermometer, user manual Product Features Fast and Accurate: Provides quick and reliable temperature readings in seconds. Multi-Use: Suitable for oral, rectal, and underarm temperature measurement. LCD Display: Clear digital display with easy-to-read results. Fever Alarm: Alerts you immediately if fever is detected. Safe for All Ages: Perfect for adults, children, and babies. Portable and Lightweight: Easy to carry for travel and home first aid kits. Memory Function: Stores last temperature reading for easy tracking. Auto Shut-Off: Battery-saving automatic power-off feature. Product Information Brand ‎AMKAY Special Feature ‎High Accuracy Colour ‎white Age Range (Description) ‎Adult Included Components ‎digital thermometer, user manual Outer Material ‎Plastic Specification Met ‎FDA Display Type ‎Digital Product Care Instructions ‎Hand Wash Only Net Quantity ‎1.0 count Power Source ‎Battery Powered Item Length ‎12.31 Centimetres Upper Temperature Rating ‎100 Degrees Fahrenheit Response Time ‎5 Seconds Reusability ‎Rechargeable Indoor/Outdoor Usage ‎Indoor Manufacturer ‎AMKAY PRODUCTS LIMITED Country of Origin ‎India Number of Memory Sticks ‎1 Item part number ‎AMKDTM-173-W Are batteries included? ‎Yes ASIN B0BZQ696QB Customer Reviews Best Sellers Rank Date First Available 27 March 2023 Manufacturer AMKAY PRODUCTS LIMITED Net Quantity 1.0 count - Surgismart
-  Updated: 2025-08-13T07:36:53Z
+  Updated: 2025-09-17T14:59:05Z
   Vendor: Amkay
   Product Type: 
   Availability: Available
