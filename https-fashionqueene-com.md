@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-17T12:02:32.074Z
+- Updated At: 2025-09-17T16:02:24.541Z
 
 ## Products
 
@@ -89,7 +89,7 @@
   Updated: 2025-09-17T03:05:42Z
   Price: $28.00 USD
 - [Judy Blue Full Size High Waist Straight Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-straight-jeans-2): These High Waist Straight Jeans are a versatile and timeless addition to your wardrobe. The high waist design offers a flattering and on-trend silhouette. With a straight leg cut, these jeans provide a classic and effortless look. Perfect for both casual and dressed-up occasions, they can be styled in various ways. Pair them with a tucked-in blouse for a polished look or with a casual tee for a relaxed vibe. Update your denim collection with these stylish and comfortable high waist straight jeans for a chic and sophisticated outfit option.Style #: 8602 Features: Basic style Stretch: Moderate stretch Material composition: 65% cotton, 20% rayon, 13% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-13T06:39:05Z
+  Updated: 2025-09-17T12:27:30Z
   Price: $35.00 USD — $64.00 USD
 - [Judy Blue Full Size High Waist Tummy Control Cuffed Denim Shorts - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-tummy-control-cuffed-denim-shorts): These High Waist Tummy Control Cuffed Denim Shorts are the perfect addition to any summer wardrobe. With their high waist design, they provide extra coverage and support, helping to create a slimming and flattering effect on the stomach area. The cuffed hem adds a stylish touch. Style #: 150237 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist HIP 0/24 N/A 24 33 1/25 N/A 25 34 3/26 N/A 26 35 5/27 N/A 27 36 7/28 N/A 28 37 9/29 N/A 29 38 11/30 N/A 30.5 40.5 13/31 N/A 32 42 15/32 N/A 33.5 43.5 14W N/A 34 44.5 16W N/A 35.5 45.5 18W N/A 37.5 47.5 20W N/A 39.5 49.5 22W N/A 41.5 52 24W N/A 43.5 54.5 S 36 26-27 34-35 M 38 28-29 36-38 L 40 30-31 39-40.5 XL N/A 32.5-34 42-43.5 1XL 46 34.5-35.5 44.5-45.5 2XL 48 37.5 47.5 3XL 50 39.5 49.5 - Fashionqueene.com
   Updated: 2025-09-14T00:47:01Z
@@ -113,7 +113,7 @@
   Updated: 2025-09-14T21:08:26Z
   Price: $32.00 USD
 - [Judy Blue Full Size Mid Waist Distressed Slim Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-mid-waist-distressed-slim-jeans-1): The Mid Waist Distressed Slim Jeans are a stylish addition to your wardrobe. These jeans feature a flattering mid-rise waist and a slim fit for a trendy look. The distressed detailing adds a touch of edginess to your outfit. Pair them with your favorite top and sneakers for a casual, cool vibe. Made with quality denim material, these jeans are comfortable and durable for everyday wear. Upgrade your denim collection with these fashionable and versatile jeans.Style #: 88798 Features: Basic style, Distressed, Pocketed Stretch: Slightly stretchy Material composition: 91% cotton, 7% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist HIP 0/24 N/A 24 33 1/25 N/A 25 34 3/26 N/A 26 35 5/27 N/A 27 36 7/28 N/A 28 37 9/29 N/A 29 38 11/30 N/A 30.5 40.5 13/31 N/A 32 42 15/32 N/A 33.5 43.5 14W N/A 34 44.5 16W N/A 35.5 45.5 18W N/A 37.5 47.5 20W N/A 39.5 49.5 22W N/A 41.5 52 24W N/A 43.5 54.5 S 36 26-27 34-35 M 38 28-29 36-38 L 40 30-31 39-40.5 XL N/A 32.5-34 42-43.5 1XL 46 34.5-35.5 44.5-45.5 2XL 48 37.5 47.5 3XL 50 39.5 49.5 - Fashionqueene.com
-  Updated: 2025-09-16T17:09:51Z
+  Updated: 2025-09-17T15:40:36Z
   Price: $34.00 USD
 - [Judy Blue Full Size Mid Rise Hand Sand & Destroy Bootcut Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-mid-rise-hand-sand-destroy-bootcut-jeans-1): These jeans are meticulously crafted for the fashion-forward individual who values both comfort and a unique, distressed aesthetic. The mid-rise waistline offers a flattering fit while providing comfort for all-day wear.Style #: 82541 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Model information: Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14WProduct measurements:1(25): hip 32 in, rise 10 in, inseam 27.5 in, waist 25 in3(26): hip 33 in, rise 10.5 in, inseam 27.5 in, waist 26 in5(27): hip 34 in, rise 10.5 in, inseam 27.5 in, waist 27 in7(28): hip 35 in, rise 11 in, inseam 27.5 in, waist 28 in9(29): hip 36 in, rise 11 in, inseam 27.5 in, waist 29 in11(30): hip 37 in, rise 11 in, inseam 27.5 in, waist 30 in13(31): hip 39 in, rise 11.5 in, inseam 27.5 in, waist 31 in15(32): hip 40 in, rise 11.5 in, inseam 27.5 in, waist 32 in14W: hip 42 in, rise 11.5 in, inseam 27.5 in, waist 33 in16W: hip 43 in, rise 12 in, inseam 27.5 in, waist 34 in18W: hip 45 in, rise 12 in, inseam 27.5 in, waist 36 in20W: hip 47 in, rise 12.5 in, inseam 27.5 in, waist 38 in22W: hip 50 in, rise 12.5 in, inseam 27.5 in, waist 40 in24W: hip 52 in, rise 13 in, inseam 27.5 in, waist 42 in - Fashionqueene.com
   Updated: 2025-09-16T12:43:12Z
@@ -2926,7 +2926,7 @@
   Updated: 2025-09-17T11:06:00Z
   Total Products: 240
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-17T11:10:39Z
+  Updated: 2025-09-17T15:47:48Z
   Total Products: 1732
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
   Updated: 2025-09-17T10:26:02Z
@@ -2977,7 +2977,7 @@
   Updated: 2025-09-17T11:08:04Z
   Total Products: 24
 - [Girls Shoes - Fashionqueene.com](https://fashionqueene.com/collections/girls-shoes): sandals, sneakers, flats, boots, casual shoes - Fashionqueene.com
-  Updated: 2025-09-17T11:08:01Z
+  Updated: 2025-09-17T15:47:48Z
   Total Products: 23
 - [Bridal Gallery - Fashionqueene.com](https://fashionqueene.com/collections/wedding-dresses): Wedding Dresses, formal, ball gowns, bridesmaids dresses, mother of the bride gowns, wedding accessories, tiaras, veils, gloves - Fashionqueene.com
   Updated: 2025-09-17T09:33:54Z
@@ -3001,7 +3001,7 @@
   Updated: 2025-09-17T10:29:19Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-17T11:10:39Z
+  Updated: 2025-09-17T15:47:48Z
   Total Products: 4620
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
