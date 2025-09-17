@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-17T00:00:33.875Z
+- Updated At: 2025-09-17T04:00:32.450Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-09-16T02:09:10Z
+  Updated: 2025-09-17T01:02:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-16T21:15:12Z
+  Updated: 2025-09-17T00:35:44Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3387,7 +3387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/INLINE-WHITE.jpg?v=1757517661
     Price: $1.00 USD
 - [Delhi Metallic Jacquard Fabric - 120 Inch Width](https://fabricsstar.com/products/delhi-metallic-flower-jacquard-fabric-120-inch-in-width-home-decor): Shop Delhi Metallic Flower Jacquard Fabric - 120 Inch. Wide. Perfect for wide tablecloths and home decor. Custom cut to order.
-  Updated: 2025-09-16T00:42:54Z
+  Updated: 2025-09-17T01:00:23Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4061,7 +4061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LYNN-SILVER-1-1.jpg?v=1757517836
     Price: $1.00 USD
 - [LYNSFIELD Jacquard Print Metallic Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/lynsfield-jacquard-print-metallic-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:42:56Z
+  Updated: 2025-09-17T01:00:17Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -4091,7 +4091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LYNSFIELD-LIME-3-1.jpg?v=1757517859
     Price: $1.00 USD
 - [MILANO Jacquard Print Metallic Marbleized Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/milano-jacquard-print-metallic-marbleized-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:42:57Z
+  Updated: 2025-09-17T01:00:17Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -5161,7 +5161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MARISOL-WHITE-1.jpg?v=1757518135
     Price: $1.00 USD
 - [Highlight Metallic Jacquard Fabric, 110 Inch. in Width, | Home Decor](https://fabricsstar.com/products/highlight-jacquard-fabric-110-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Highlight jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:43:01Z
+  Updated: 2025-09-17T01:00:21Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6153,7 +6153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BUBBLES-LINEN-1.jpg?v=1757518344
     Price: $1.00 USD
 - [COBBLESTONE Fabric, 117 Inch. in Width](https://fabricsstar.com/products/cobblestone)
-  Updated: 2025-09-16T00:43:05Z
+  Updated: 2025-09-17T01:00:22Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7467,7 +7467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GARDENA-110-IVORY.jpg?v=1757518582
     Price: $1.00 USD
 - [LUXURY Crushed Fabric, 110 Inch. in Width](https://fabricsstar.com/products/luxury-110)
-  Updated: 2025-09-16T00:43:12Z
+  Updated: 2025-09-17T01:00:21Z
   Vendor: Fabrics Star
   Product Type: Crushed Fabric
   Availability: Available
@@ -8499,7 +8499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-IVORY.jpg?v=1757518703
     Price: $1.00 USD
 - [FERN Lace Fabric, 110 Inch in Width](https://fabricsstar.com/products/fern)
-  Updated: 2025-09-16T00:43:18Z
+  Updated: 2025-09-17T01:00:20Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -9669,6 +9669,9 @@
     Author: User
   - [A Beginner's Guide to Sustainable Fabrics](https://fabricsstar.com/blogs/news/a-beginners-guide-to-sustainable-fabrics): A Beginner's Guide to Sustainable Fabrics
     Updated: 2025-09-15T03:08:01Z
+    Author: User
+  - [Fabric Care Demystified Keep Your Textiles Looking New](https://fabricsstar.com/blogs/news/fabric-care-demystified-keep-your-textiles-looking-new): Fabric Care Demystified Keep Your Textiles Looking New
+    Updated: 2025-09-17T02:11:31Z
     Author: User
 
 ## Store Pages
