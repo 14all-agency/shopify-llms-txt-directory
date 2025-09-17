@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-17T00:02:15.291Z
+- Updated At: 2025-09-17T04:02:30.561Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Updated: 2025-09-16T07:58:22Z
   Price: $34.00 USD
 - [Watches Luxury Ladies Quartz Watch Waterproof Luminous Date Stainless Stain Wristwatch - Fashionqueene.com](https://fashionqueene.com/products/binbong-women-watches-luxury-fashion-ladies-quartz-watch-waterproof-luminous-date-stainless-stain-wristwatch-girlfriend-gift): Upgrade your style with the BINBONG Women's Luxury Fashion Quartz Watch. This stylish timepiece features a luminous display and a convenient date feature, making it easy to stay on schedule. With its durable stainless steel construction and waterproof design, this watch is the perfect combination of fashion and functionality. Treat yourself or your girlfriend to a gift she'll love. SPECIFICATIONS Brand Name: BINBOND Water Resistance Depth: 3Bar Movement: Quartz Case Material: ALLOY Style: Fashion & Casual Clasp Type: Push Button Hidden Clasp Origin: Mainland China Dial Window Material Type: Sapphire Crystal Case Thickness: 9 Boxes & Cases Material: No package Band Material Type: STAINLESS STEEL Band Width: 14 Feature: Auto Date Feature: Complete Calendar Feature: Water Resistant Feature: Week Display Feature: luminous hands Band Length: 21 Dial Diameter: 28 Certification: CE Case Shape: Round Model Number: B2521 Choice: yes - Fashionqueene.com
-  Updated: 2025-09-15T07:53:58Z
+  Updated: 2025-09-17T03:38:22Z
   Price: $33.10 USD — $33.31 USD
 - [6Pcs Sets Luxury White Leather Analog Ladies Quartz Wrist Watch Butterfly Design Earring Bracelet Necklace - Fashionqueene.com](https://fashionqueene.com/products/6pcs-sets-luxury-white-leather-analog-ladies-quartz-wrist-watch-fashion-butterfly-design-earring-bracelet-necklace-gifts): This 6-piece set offers a stylish and luxurious look for any lady. The analog watch features a white leather strap and precise quartz movement. The fashion-forward butterfly design is also reflected in the accompanying earrings, bracelet, and necklace. Perfect for gifting to any fashionista. SPECIFICATIONS Brand Name: DSIMPLE Water Resistance Depth: No Waterproof Movement: Quartz Band Material Type: leather Hign-concerned Chemical: None Display Type: Arabic numeral markers Case Material: STAINLESS STEEL Style: Luxury Clasp Type: Buckle Origin: Mainland China Model Number: ZH13029SADX Case Thickness: 9.5 Boxes & Cases Material: No package Band Width: 20 Band Length: 23.5 Dial Diameter: 40 Case Shape: Round Choice: yes • Luxury Design :This set of wristwatch, earrings, bracelet, and necklace features a luxurious design that is sure to impress. The butterfly-shaped accessories add a touch of elegance and sophistication. • High-Quality Material :Crafted from high-quality leather and stainless steel, these accessories promise durability and longevity. They are designed to withstand daily wear and tear, making them a worthy investment. • Quartz Movement :Equipped with a quartz movement, these accessories ensure accurate timekeeping. They are not only stylish but also practical and reliable. • Versatile Accessories :These accessories can be worn separately or combined to create different looks. Whether for a casual day out or a formal event, this set has got you covered. • Ideal Gift :Packaged in a elegant box, this set makes the perfect gift for women on special occasions. It's a thoughtful present that guarantees a delightful surprise. - Fashionqueene.com
   Updated: 2025-09-15T07:54:07Z
@@ -65,7 +65,7 @@
   Updated: 2025-09-16T07:58:21Z
   Price: $18.34 USD — $32.14 USD
 - [2pcs Diamond Studded Real Nail Scale Alloy Set Quartz Bracelet Watch - Fashionqueene.com](https://fashionqueene.com/products/2pcs-fashionable-diamond-studded-real-nail-scale-alloy-set-quartz-bracelet-watch-for-womens-watches): Expertly crafted with real nail scale alloy, this set of 2 fashionable diamond-studded watches adds a touch of elegance to any outfit. With precision quartz movement and a sturdy bracelet design, these watches are both stylish and functional. Perfect for any woman looking to make a statement. SPECIFICATIONS Brand Name: other Water Resistance Depth: No Waterproof Movement: Quartz Band Material Type: ALLOY Hign-concerned Chemical: None Display Type: Numberless Case Material: ALLOY Style: Luxury Clasp Type: Hook Buckle Origin: Mainland China Model Number: Quart watch Dial Window Material Type: Glass Case Shape: Round Choice: yes • Fashionable Design :This luxury watch features a fashionable diamond studded real nail scale alloy set, making it a stylish accessory for any outfit. • Quartz Movement :Equipped with a reliable quartz movement, this watch ensures accurate timekeeping, making it perfect for daily wear. • Non-Waterproof :The watch is not waterproof, limiting its use in water-related activities but ensuring its longevity as a dry item. • Luxury Style :With its round case shape and hook buckle clasp, this watch exudes a luxurious style that is sure to impress. • Alloy Material :The case and band material are both alloy, providing durability and longevity while maintaining a sophisticated look. • Glass Dial Window :The glass dial window adds a touch of elegance to the watch, making it a perfect gift for any occasion. - Fashionqueene.com
-  Updated: 2025-09-15T22:58:21Z
+  Updated: 2025-09-17T03:34:12Z
   Price: $24.99 USD — $26.62 USD
 - [Flip Wallet Case for Samsung Galaxy S24 Ultra S24 Plus S24, Leather Magnetic Folio Cover with Card Holder Shockproof - Fashionqueene.com](https://fashionqueene.com/products/flip-wallet-case-for-samsung-galaxy-s24-ultra-s24-plus-s24-leather-magnetic-folio-cover-with-card-holder-shockproof-phone-cases): Enhance the protection and convenience of your Samsung Galaxy S24 Ultra S24 Plus S24 with our Flip Wallet Case. Made of durable leather, its magnetic closure keeps your phone secure while its built-in card holder adds functionality. Shockproof design defends against accidental drops, making it an ideal phone case for daily use. SPECIFICATIONS Brand Name: WeFor Origin: Mainland China Type: FULL COVERAGE Design: Plain Features: Anti-Fingerprint Features: Anti-Scratch Features: Card Pocket Features: With Lanyard Features: Storage Compartment Compatible Brand: Samsung Brand Name: WeFor Compatible Model 1: For Samsung Galaxy S24 Compatible Model 2: For Samsung Galaxy S24 Plus Compatible Model 3: For Samsung Galaxy S24 Ultra Sales: Retail and wholesale - Fashionqueene.com
   Updated: 2025-09-11T20:31:17Z
@@ -86,7 +86,7 @@
   Updated: 2025-09-16T23:22:56Z
   Price: $33.99 USD
 - [Judy Blue Full Size High Waist Skinny Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-skinny-jeans-1): The High Waist Skinny Jeans are a versatile and flattering essential for your wardrobe. Featuring a high waist design, these jeans provide a comfortable and slimming fit that accentuates your curves. The skinny leg silhouette offers a sleek and modern look that pairs well with a variety of tops and shoes. Made from stretchy denim fabric, these jeans offer both style and comfort for all-day wear. Perfect for creating stylish and streamlined outfits, these high waist skinny jeans are a timeless piece that can be dressed up or down for any occasion. Elevate your style with these chic and figure-flattering jeans that are a go-to option for a sleek and on-trend look.Style #: 88687 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 24 30 29.5 9.5 1/25 25 31 29.5 10 3/26 26 32 29.5 10 5/27 27 33 29.5 10.5 7/28 28 34 29.5 10.5 9/29 29 35 29.5 11 11/30 30 36 29.5 11 13/31 31 37 29.5 11 15/32 32 39 29.5 11.5 14W 32 41 29.5 11.5 16W 32 41 29.5 12 18W 34 43 29.5 12 20W 36 45 29.5 12.5 22W 38 48 29.5 13 24W 40 51 29.5 13 - Fashionqueene.com
-  Updated: 2025-09-16T22:18:30Z
+  Updated: 2025-09-17T03:05:42Z
   Price: $28.00 USD
 - [Judy Blue Full Size High Waist Straight Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-straight-jeans-2): These High Waist Straight Jeans are a versatile and timeless addition to your wardrobe. The high waist design offers a flattering and on-trend silhouette. With a straight leg cut, these jeans provide a classic and effortless look. Perfect for both casual and dressed-up occasions, they can be styled in various ways. Pair them with a tucked-in blouse for a polished look or with a casual tee for a relaxed vibe. Update your denim collection with these stylish and comfortable high waist straight jeans for a chic and sophisticated outfit option.Style #: 8602 Features: Basic style Stretch: Moderate stretch Material composition: 65% cotton, 20% rayon, 13% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
   Updated: 2025-09-13T06:39:05Z
@@ -140,7 +140,7 @@
   Updated: 2025-09-11T20:31:09Z
   Price: $25.00 USD
 - [Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans-1): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans!Style #: 88848 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 33 11 1/25 24 30 33 11 3/26 25 31 33 11 5/27 26 32 33 11.5 7/28 27 33 33 11.5 9/29 28 34 33 11.5 11/30 29 35 33 12 13/31 30 37 33 12 15/32 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13 - Fashionqueene.com
-  Updated: 2025-09-16T05:43:16Z
+  Updated: 2025-09-17T00:49:56Z
   Price: $38.00 USD
 - [Mittoshop Crepe Knit Elastic Waist Flare Leg Pants - Fashionqueene.com](https://fashionqueene.com/products/mittoshop-crepe-knit-elastic-waist-flare-leg-pants-1): These crepe knit pants feature a comfortable elastic waist for a perfect fit. The flare leg design adds a touch of sophistication to any outfit. Made from high-quality materials, they are both stylish and comfortable to wear. These versatile pants can easily be dressed up or down for different occasions. Whether for work or a night out, these pants are a trendy choice. Get ready to look effortlessly chic in these flare leg pants! Features: Basic style Sheer: Opaque Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 25-27 in, Hip 35-37 inM:Waist 27-30 in, Hip 37-40 inL:Waist 30-32 in, Hip 40-42 inXL:Waist 32-34 in, Hip 43-46 in1X:Waist 33-35 in, Hip 44-47 in2X:Waist 34-36 in, Hip 48-51 in - Fashionqueene.com
   Updated: 2025-09-11T20:31:08Z
@@ -224,7 +224,7 @@
   Updated: 2025-09-11T20:30:59Z
   Price: $113.00 USD
 - [Judy Blue Full Size Raw Hem High Rise Bootcut Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-raw-hem-high-rise-bootcut-jeans): Raw hem high rise bootcut jeans are a trendy and stylish denim option for a fashionable look. These jeans typically feature a high-rise waist that sits above the natural waistline, elongating the legs and providing a flattering silhouette. Style #: 82486 Features: Basic style, Raw Hem Stretch: Moderate stretch Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-16T16:12:01Z
+  Updated: 2025-09-17T02:38:35Z
   Price: $72.00 USD — $73.00 USD
 - [Davi & Dani Flap Pocket Mid Rise Cargo Pants - Fashionqueene.com](https://fashionqueene.com/products/davi-dani-flap-pocket-mid-rise-cargo-pants-1): Flap Pocket Mid Rise Cargo Pants are stylish and functional bottoms with flap pockets for added detail and practicality. Featuring a mid-rise waist, these pants offer a flattering fit that sits comfortably on the hips. The flap pockets provide a trendy utilitarian touch, perfect for keeping small essentials secure. Features: Basic style, Pocketed Sheer: Opaque Material composition: 50% rayon, 45% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 26-28 in, HIP 36-38 in M:Waist 29-31 in, HIP 39-41 in L:Waist 32-33 in, HIP 42-43 in - Fashionqueene.com
   Updated: 2025-09-11T20:30:58Z
@@ -338,7 +338,7 @@
   Updated: 2025-09-11T20:30:46Z
   Price: $40.15 USD
 - [bytos Full Size Cat's Whiskers Mid Rise Bootcut Jeans - Fashionqueene.com](https://fashionqueene.com/products/bytos-full-size-cats-whiskers-mid-rise-bootcut-jeans): The Cat's Whiskers Mid Rise Bootcut Jeans are a playful and stylish twist on a classic design. Featuring a mid-rise waist that sits comfortably on the hips, these jeans offer a flattering fit for a variety of body types. The bootcut style adds a touch of elegance, while the subtle cat's whiskers detailing adds a unique and whimsical charm. Features: Basic style, Pocketed Stretch: Moderate stretch Material composition: 98% cotton, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 1(25) 25 31 32 9 3(26) 26 32 32 9 5(27) 27 33 32 10 7(28) 28 34 32 10 9(29) 29 35 32 10 11(30) 30 36 32 11 13(31) 31 37 32 11 15(32) 32 38 32 11 1XL 34 39 32 12 2XL 36 41 32 12 3XL 38 43 32 12 - Fashionqueene.com
-  Updated: 2025-09-11T20:30:45Z
+  Updated: 2025-09-17T03:36:31Z
   Price: $40.15 USD — $42.15 USD
 - [bytos Full Size Cat's Whiskers Mid Rise Ankle Jeans - Fashionqueene.com](https://fashionqueene.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans): The Cat's Whiskers Mid Rise Ankle Jeans are a trendy and chic choice for those who love to stay ahead of the fashion curve. The mid-rise waist provides a comfortable and flattering fit, while the ankle-length cut offers a modern and streamlined look. Features: Basic style, Pocketed Stretch: Moderate stretch Material composition: 92% cotton, 6% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 1(25) 25 31 29 9 3(26) 26 32 29 9 5(27) 27 33 29 10 7(28) 28 34 29 10 9(29) 29 35 29 10 11(30) 30 36 29 11 13(31) 31 37 29 11 15(32) 32 38 29 11 1XL 34 39 29 12 2XL 36 41 29 12 3XL 38 43 29 12 - Fashionqueene.com
   Updated: 2025-09-16T21:45:18Z
@@ -410,7 +410,7 @@
   Updated: 2025-09-13T11:22:05Z
   Price: $44.81 USD
 - [Pink Floral Long Sleeve High Neck Sheath Mesh Top - Fashionqueene.com](https://fashionqueene.com/products/pink-floral-long-sleeve-high-neck-sheath-mesh-top): Introducing our Pink Floral Long Sleeve High Neck Sheath Mesh Top! Made with delicate mesh and adorned with beautiful floral designs, this top will elevate any outfit. The high neckline and long sleeves add a touch of elegance, making it a versatile piece for both casual and formal occasions. Stay stylish and sophisticated with this chic top. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 31.5 31.1 29.2 18.7 M 8-10 38-40 12-14 33.9 33.5 29.7 19.3 L 12-14 42-44 16-18 36.2 35.8 30.3 19.9 XL 16-18 46-48 20-22 39.4 39.0 31.0 20.5 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 80 79 74.1 47.5 M 8-10 38-40 12-14 86 85 75.5 49 L 12-14 42-44 16-18 92 91 76.9 50.5 XL 16-18 46-48 20-22 100 99 78.7 52 Elasticity High The chic blouse is a delicate fusion of floral beauty and sophisticated style. The high neck design is perfect for a polished and professional look. The sheath cut accentuates the silhouette with a feminine grace. Mesh fabric brings a subtle allure and a touch of modernity. - Fashionqueene.com
-  Updated: 2025-09-16T23:21:51Z
+  Updated: 2025-09-17T02:26:22Z
   Price: $14.81 USD
 - [Red Plaid Print Loose Vintage Shirt - Fashionqueene.com](https://fashionqueene.com/products/red-plaid-print-loose-vintage-shirt): This Red Plaid Print Loose Vintage Shirt offers a classic and stylish addition to your wardrobe. Made with a loose fit and vintage plaid print, it provides comfort and style. Perfect for adding a touch of retro charm to any outfit. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 41.7 44.9 23.6 19.1 28.3 M 8-10 38-40 12-14 44.1 47.2 24.8 19.3 29.1 L 12-14 42-44 16-18 46.5 49.6 26.0 19.5 29.9 XL 16-18 46-48 20-22 49.6 52.8 27.6 19.7 30.7 2XL 20-22 50-52 24-26 52.8 55.9 29.1 19.9 31.5 Elasticity None Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 106 114 60 48.5 72 M 8-10 38-40 12-14 112 120 63 49 74 L 12-14 42-44 16-18 118 126 66 49.5 76 XL 16-18 46-48 20-22 126 134 70 50 78 2XL 20-22 50-52 24-26 134 142 74 50.5 80 Elasticity None Embrace timeless style with this plaid shirt. Classic design with a touch of retro charm. Loose fit style is comfy and suitable for all. Versatile piece that can be styled in various ways. - Fashionqueene.com
   Updated: 2025-09-15T11:22:06Z
@@ -434,7 +434,7 @@
   Updated: 2025-09-11T20:30:32Z
   Price: $16.50 USD
 - [Beige Leopard Velvet Burnout Off Shoulder Long Sleeve Blouse - Fashionqueene.com](https://fashionqueene.com/products/beige-leopard-velvet-burnout-off-shoulder-long-sleeve-blouse): Expertly crafted in a beige leopard velvet burnout design, this blouse offers a unique and stylish off shoulder silhouette with long sleeves. Its luxurious fabric and trendy design make it a must-have statement piece for any fashion-forward wardrobe. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Relax S 4-6 34-36 8-10 42.1 40.2 21.9 18.8 M 8-10 38-40 12-14 44.5 42.5 22.2 19.5 L 12-14 42-44 16-18 46.9 44.9 22.6 20.2 XL 16-18 46-48 20-22 50.0 48.0 22.8 20.8 Elasticity Medium-High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Relax S 4-6 34-36 8-10 107 102 55.5 47.8 M 8-10 38-40 12-14 113 108 56.5 49.5 L 12-14 42-44 16-18 119 114 57.5 51.2 XL 16-18 46-48 20-22 127 122 58 52.8 Elasticity Medium-High A vintage leopard velvet burnout top for women.Features and off shoulder design with elastic.Comfortable fit with a pair of long puff sleeves.Suitable to pair any jeans or shorts for different occasions. - Fashionqueene.com
-  Updated: 2025-09-11T20:30:32Z
+  Updated: 2025-09-17T03:26:46Z
   Price: $25.88 USD
 - [Pink Classic Heart Valentines Short Sleeve Pants Pajamas Set - Fashionqueene.com](https://fashionqueene.com/products/pink-classic-heart-valentines-short-sleeve-pants-pajamas-set): Upgrade your sleepwear with our Pink Classic Heart Valentines Short Sleeve Pants Pajamas Set! Featuring a charming heart design, this set is made for comfort with short sleeves and pants. Perfect for a romantic night in or a cozy weekend. Crafted from soft and lightweight fabric, you'll never want to take them off. Take your bedtime style to another level with this chic and comfortable set. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Waist Hem Width Shoulder Sleeve Length Length Hip Bottoms Inseam Outseam Relax Relax Relax Relax Relax Relax Relax Relax Relax Relax S 4-6 34-36 8-10 40.4 26.4 41.7 18.0 10.5 23.6 39.0 24.6 28.7 40.6 M 8-10 38-40 12-14 42.7 28.3 44.1 18.9 10.6 24.4 41.3 26.0 28.7 40.9 L 12-14 42-44 16-18 45.1 30.3 46.5 19.8 10.7 25.2 43.7 27.4 28.8 41.3 XL 16-18 46-48 20-22 48.2 33.1 49.6 21.1 10.9 26.0 46.9 29.1 28.8 41.7 Elasticity None Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Waist Hem Width Shoulder Sleeve Length Length Hip Bottoms Inseam Outseam Relax Relax Relax Relax Relax Relax Relax Relax Relax Relax S 4-6 34-36 8-10 102.5 67 106 45.6 26.7 60 99 62.5 72.8 103 M 8-10 38-40 12-14 108.5 72 112 48 27 62 105 66 73 104 L 12-14 42-44 16-18 114.5 77 118 50.4 27.3 64 111 69.5 73.2 105 XL 16-18 46-48 20-22 122.5 84 126 53.6 27.7 66 119 74 73.2 106 Elasticity None The pajamas set is a cozy and festive choice for the season of love. Classic heart prints make this set perfect for Valentine's Day. It is designed with breathable material to ensure a cozy wear. Pair with slippers or keep it simple for a stylish sleepwear look. - Fashionqueene.com
   Updated: 2025-09-11T20:30:30Z
@@ -569,7 +569,7 @@
   Updated: 2025-09-16T23:22:46Z
   Price: $47.15 USD — $49.15 USD
 - [Judy Blue Full Size Washed Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-washed-straight-leg-jeans-with-pockets): Washed Straight Leg Jeans with Pockets are a practical and fashionable choice for your everyday wardrobe. The washed finish gives them a laid-back and casual feel, while the straight leg cut offers a flattering silhouette. The addition of pockets adds functionality and convenience, making these jeans a perfect blend of style and practicality. Style #: 82631 Features: Basic style, Pocketed Stretch: Slightly stretchy Material composition: 93.7% cotton, 5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 31 10 1/25 24 30 31 10 3/26 25 31 31 10.5 5/27 26 32 31 10.5 7/28 27 33 31 11 9/29 28 34 31 11 11/30 29 35 31 11 13/31 30 37 31 11.5 15/32 31 38 31 11.5 14W 31 40 31 11.5 16W 30 40 31 12 18W 32 42 31 12 20W 35 45 31 12 22W 37 47 31 12.5 24W 39 50 31 12.5 - Fashionqueene.com
-  Updated: 2025-09-16T21:22:27Z
+  Updated: 2025-09-17T02:37:03Z
   Price: $45.15 USD — $48.15 USD
 - [bytos Raw Hem Distressed Mid Rise Crop Jeans - Fashionqueene.com](https://fashionqueene.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans): The Raw Hem Distressed Mid Rise Crop Jeans are a perfect blend of edgy and sophisticated style. The mid-rise waist offers a comfortable fit that flatters the figure, while the cropped length adds a modern twist to the classic denim design. The raw hem and distressed detailing give these jeans a worn-in, vintage look that's effortless. Whether you're dressing them up with a blouse and heels or keeping it casual with a t-shirt and sneakers, these jeans are a versatile and stylish choice for any occasion. Features: Pocketed, Raw Hem, Distressed Stretch: Slightly stretchy Material composition: 92% cotton, 6% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 1(25) 25 31 28 9 3(26) 26 32 28 9 5(27) 27 33 28 9 7(28) 28 34 28 9.5 9(29) 29 35 28 9.5 11(30) 30 36 28 9.5 13(31) 31 37 28 10 15(32) 32 38 28 10 - Fashionqueene.com
   Updated: 2025-09-11T20:30:13Z
@@ -1496,7 +1496,7 @@
   Updated: 2025-09-15T07:57:36Z
   Price: $38.59 USD — $57.61 USD
 - [Stretch Snake Bracelet Armlet Upper Arm Cuff  Women Punk Rock - Fashionqueene.com](https://fashionqueene.com/products/yacq-stretch-snake-bracelet-armlet-upper-arm-cuff-women-punk-rock-crystal-bangle-jewelry-gold-silver-color-dropshipping-a32): The YACQ Stretch Snake Bracelet Armlet is perfect for women looking for a punk rock edge in their jewelry. Made with high-quality materials and adorned with crystals, this arm cuff adds a touch of glamour to any outfit. Its stretch design ensures a comfortable fit while making a bold fashion statement. Available in gold and silver colors. SPECIFICATIONS Brand Name: Yacq Origin: Mainland China Gender: Women Metals Type: Zinc Alloy Bracelets Type: Bangles Fine or Fashion: fashion Function: bangle Style: Casual/Sporty Material: CRYSTAL Plating: Antique Gold Plated Compatibility: All Compatible Model Number: snake 5 Setting Type: Channel Setting Shape\pattern: Animal Diameter: Adjustable These are stretch snake bracelets with flaxible band can also be used as an upper arm cuff fit most wrist size,lead free,nickle,this designs comes in gold silver and gun color 3 different metal,more than 10 different stone colors. - Fashionqueene.com
-  Updated: 2025-09-12T07:09:30Z
+  Updated: 2025-09-17T03:45:18Z
   Price: $37.73 USD
 - [Apricot Sequin Zip up Round Neck Long Sleeve Jacket - Fashionqueene.com](https://fashionqueene.com/products/apricot-sequin-zip-up-round-neck-long-sleeve-jacket): Material:95%Polyester+5%Elastane This zipped jacket is perfect for easy wear. Eye-catching sequined design for a glamorous touch. Classic round neck for a versatile and timeless look. Long sleeves for added warmth and style. Size Chart (CM) Sizes Bust Hem_Width Shoulder Sleeve_Length Length Relax Relax Relax Relax Relax S 113 95 44 57 58.7 M 119 100 47 57.5 61 L 125 105 50 58 63.3 XL 133 112 54 58 65.6 2XL 141 119 58 58 67.9 3XL 149 126 62 58 70.2 Elasticity High Size Chart (INCH) Sizes Bust Hem_Width Shoulder Sleeve_Length Length Relax Relax Relax Relax Relax S 44.5 37.4 17.3 22.4 23.1 M 46.9 39.4 18.5 22.6 24.0 L 49.2 41.3 19.7 22.8 24.9 XL 52.4 44.1 21.3 22.8 25.8 2XL 55.5 46.9 22.8 22.8 26.7 3XL 58.7 49.6 24.4 22.8 27.6 Elasticity High - Fashionqueene.com
   Updated: 2025-09-11T20:28:33Z
@@ -1879,10 +1879,10 @@
   Updated: 2025-09-14T09:50:48Z
   Price: $42.15 USD
 - [Faux Two Piece Floral Long Sleeve Patchwork Top - Fashionqueene.com](https://fashionqueene.com/products/faux-two-piece-floral-long-sleeve-patchwork-top): Features: Lace Detail Sheer: Semi-sheer Stretch: Slightly stretchy Material composition: 65% polyester, 30% viscose, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 4 24.6 19.7 43.7 20.5 M 6/8 25.4 20.9 46.1 20.7 L 10/12 26.2 22 48.4 20.9 XL 14/16 27 23.6 51.6 20.9 - Fashionqueene.com
-  Updated: 2025-09-16T00:51:02Z
+  Updated: 2025-09-17T01:01:07Z
   Price: $26.15 USD
 - [Full Size Adjustable Strap Modal Cami with Bra - Fashionqueene.com](https://fashionqueene.com/products/full-size-adjustable-strap-modal-cami-with-bra): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 95% viscose, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length S 2/4 29.5 20.9 M 6/8 31.5 21.3 L 10 33.5 21.7 XL 12 35.4 22 2XL 14 37.4 22.4 3XL 16 39.4 22.8 - Fashionqueene.com
-  Updated: 2025-09-11T20:27:53Z
+  Updated: 2025-09-17T01:07:16Z
   Price: $22.15 USD
 - [Lace Backless Halter Neck Cami - Fashionqueene.com](https://fashionqueene.com/products/lace-backless-halter-neck-cami): Features: Lace Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 65% polyester, 35% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 4 9.8 29.1 M 6/8 10.2 30.7 L 10/12 10.6 33.1 XL 14 11 35.4 - Fashionqueene.com
   Updated: 2025-09-11T20:27:52Z
@@ -2164,7 +2164,7 @@
   Updated: 2025-09-11T20:27:18Z
   Price: $16.71 USD
 - [Tween Boy Gamepad Print Hoodie & Drawstring Pants Set - Perfect for Spring and Autumn! - Fashionqueene.com](https://fashionqueene.com/products/tween-boy-gamepad-print-hoodie-drawstring-pants-set-perfect-for-spring-and-autumn): Get your game on with this trendy Tween Boy Gamepad Print Hoodie & Drawstring Pants Set! Perfect for Spring and Autumn, stay cool and comfy while showing off your love for gaming. The hoodie and pants feature a playful gamepad print, making this set a must-have for any young gamer. Neckline : Hooded Lined For Added Warmth : No Details : Pocket Sleeve Type : Regular Sleeve Color : Black Pattern Type : Letter, Slogan Top Type : Sweatshirt Bottom Type : Sweatpants Fit Type : Regular Fit Care Instructions : Machine wash, do not dry clean Sheer : No Fabric : Slight Stretch Tops Sleeve Length : Long Sleeve Tops Length : Long Tops Material : Polyester Tops Composition : 94% Polyester, 6% Elastane Tops Body : Unlined Size Shoulder Length Sleeve Length Bust 7Y 12.2 19.7 16.5 32.3 8Y 13 20.9 17.7 33.9 9Y 13.8 22 18.9 35.4 10Y 14.6 23.2 20.1 37 11Y 15.4 24.4 21.3 38.6 13Y 16.1 25.6 22.4 40.2 - Fashionqueene.com
-  Updated: 2025-09-11T20:27:18Z
+  Updated: 2025-09-17T02:49:27Z
   Price: $21.49 USD
 - [Ultimate Comfort: Big Boys' Stretch Denim Jeans – 2-Pack for Endless Adventures! - Fashionqueene.com](https://fashionqueene.com/products/ultimate-comfort-big-boys-stretch-denim-jeans-2-pack-for-endless-adventures): Explore in style and comfort with our Ultimate Comfort: Big Boys' Stretch Denim Jeans – 2-Pack! Made with stretch fabric, these jeans allow for endless adventures without compromising on comfort. Plus, with two pairs in one pack, your little one will always have a stylish option for their next adventure. Features : Warming, Breathable Details : Pocket, Ripped, Zipper Fit Type : Regular Fit Closure Type : Zipper Fly Color : Blue/Dark Blue Pattern Type : Plain Type : Straight Leg Waist Line : Natural Length : Long Composition : 80% Cotton, 18% Polyester, 2% Elastane Care Instructions : Machine wash, do not dry clean,wash with the soft detergent Pockets : Yes - Fashionqueene.com
   Updated: 2025-09-11T20:27:18Z
@@ -2893,28 +2893,28 @@
 ## Collections
 
 - [Ladies Plus - Fashionqueene.com](https://fashionqueene.com/collections/ladies-plus): Plus size tops, cami's, short sleeves plus size, plus tank tops, Long sleeves plus, shorts, skorts, dresses, tank tops, hoodies, Maxi, demi, Mini dresses, outfit sets, office wear, active wear, sweat pants, sweat shirts - Fashionqueene.com
-  Updated: 2025-09-16T04:37:53Z
+  Updated: 2025-09-17T03:48:30Z
   Total Products: 341
 - [Ladies Coats and Jackets - Fashionqueene.com](https://fashionqueene.com/collections/ladies-coats-and-jackets): Coats, hoodies, sweaters, cardigans, puffy jackets, denim, long coats, faux fur, leather coats, leather jackets - Fashionqueene.com
   Updated: 2025-09-16T08:56:06Z
   Total Products: 133
 - [Ladies Fashions - Fashionqueene.com](https://fashionqueene.com/collections/ladies-fashions): Casual to dressy dresses, office, party, formal dresses, cami, midi, maxi, long, pants, shorts, active wear, blouses, office, party, overalls, rompers, crop tops, t-shirts, skorts, active wear, cargo pants, - Fashionqueene.com
-  Updated: 2025-09-16T09:49:58Z
+  Updated: 2025-09-17T03:52:12Z
   Total Products: 1175
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-16T21:13:32Z
+  Updated: 2025-09-17T03:51:43Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-16T09:14:26Z
+  Updated: 2025-09-17T03:39:03Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
   Updated: 2025-09-16T10:17:31Z
   Total Products: 532
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
-  Updated: 2025-09-16T09:25:49Z
+  Updated: 2025-09-17T03:58:14Z
   Total Products: 322
 - [Men's Shoes - Fashionqueene.com](https://fashionqueene.com/collections/mens-shoes): Sneakers, running, loafers, slip-on's, boots, sandals, flip flops, swim shoes, leather shoes, casual, driving shoes, slippers, Beach shoes, work shoes - Fashionqueene.com
-  Updated: 2025-09-16T01:15:21Z
+  Updated: 2025-09-17T03:58:24Z
   Total Products: 102
 - [Baby-Teen Girls - Fashionqueene.com](https://fashionqueene.com/collections/new-born-teen-girls): Everyday wear, school,formal,parties, High-qualty materials to handle all acrivities children get into girls - Fashionqueene.com
   Updated: 2025-09-16T09:53:24Z
@@ -2926,16 +2926,16 @@
   Updated: 2025-09-16T08:07:07Z
   Total Products: 240
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-16T10:17:31Z
+  Updated: 2025-09-17T03:58:14Z
   Total Products: 1732
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
-  Updated: 2025-09-16T01:15:22Z
+  Updated: 2025-09-17T03:16:16Z
   Total Products: 128
 - [Men's Coats And Jackets - Fashionqueene.com](https://fashionqueene.com/collections/mens-coats-and-jackets): Parkas, puffy coats, waterproof, jackets, leather jackets, windbreakers, Long coats, wool coats, business coats, hunting jackets, ski-coats, - Fashionqueene.com
   Updated: 2025-09-16T08:56:11Z
   Total Products: 90
 - [Gothic Row (Men & Women) - Fashionqueene.com](https://fashionqueene.com/collections/gothic-row): All Gothic wear distressed jeans, leggings, jumpsuits, overalls, long dresses, batwing tops, mens Gothic clothing, blouses, kilts, cargo pants, sweaters, shoes - Fashionqueene.com
-  Updated: 2025-09-16T10:04:36Z
+  Updated: 2025-09-17T03:16:02Z
   Total Products: 183
 - [Top Brands - Fashionqueene.com](https://fashionqueene.com/collections/tkitok): All items here are from our TikTok Shop. #Judy Blue brand, # Basic Bae, #Nicole Miller Handbags, #Zenana, #Heimish, #Risen, #BiBi, #Culture Code - Fashionqueene.com
   Updated: 2025-09-16T01:15:22Z
@@ -2944,25 +2944,25 @@
   Updated: 2025-09-16T08:34:46Z
   Total Products: 63
 - [Women's Dresses - Fashionqueene.com](https://fashionqueene.com/collections/womens-dresses): women's dresses, Long dresses, Maxi, mini, two-piece, suits, office casual, sundresses cute dresses, casual dresses, women's fashion casual skirts, fashion 2024 dresses, fashion winter dresses, fall dresses - Fashionqueene.com
-  Updated: 2025-09-16T08:23:01Z
+  Updated: 2025-09-17T03:21:18Z
   Total Products: 210
 - [Women's One-piece - Fashionqueene.com](https://fashionqueene.com/collections/womens-one-piece): Overalls, Rompers, - Fashionqueene.com
   Updated: 2025-09-16T01:15:23Z
   Total Products: 76
 - [Women's Pants - Fashionqueene.com](https://fashionqueene.com/collections/womens-pants): Jeans, leggings, trousers, pull-on's, flare, hip hugger's, denim,pants for women, dress pants, dress pants women - Fashionqueene.com
-  Updated: 2025-09-16T08:34:53Z
+  Updated: 2025-09-17T03:19:21Z
   Total Products: 456
 - [Women's Tops - Fashionqueene.com](https://fashionqueene.com/collections/womens-tops): women's tops, Blouses, crop tops, knitted, short sleeves, cold shoulder, t-shirts, pull over, women's tops on sale, - Fashionqueene.com
-  Updated: 2025-09-16T08:55:13Z
+  Updated: 2025-09-17T03:51:56Z
   Total Products: 380
 - [Women's Shorts - Fashionqueene.com](https://fashionqueene.com/collections/womens-shorts): Denim shorts, cargo shorts, elastic waist, gym shorts, casual - Fashionqueene.com
   Updated: 2025-09-16T01:15:23Z
   Total Products: 119
 - [Men's Shirts - Fashionqueene.com](https://fashionqueene.com/collections/mens-shirts): #Polo shirts, #pullover shirts, #t-shirts, #Button down, #Men's cardigans, #sports shirts - Fashionqueene.com
-  Updated: 2025-09-16T08:34:02Z
+  Updated: 2025-09-17T03:58:14Z
   Total Products: 151
 - [Men's Pant's - Fashionqueene.com](https://fashionqueene.com/collections/mens-pants): #sweatpants, #cargo Pants, #distressed jeans, #Dress pants, #trousers, #carpenter pants, #leather pants, #hip hop pants - Fashionqueene.com
-  Updated: 2025-09-16T09:25:49Z
+  Updated: 2025-09-17T03:58:04Z
   Total Products: 234
 - [Maternity Wear - Fashionqueene.com](https://fashionqueene.com/collections/maternity-wear): "maternity dress" maternity blouses" Maternity pants" maternity sweater dresses" maternity shorts" maternity shape wear" postpartum belts" - Fashionqueene.com
   Updated: 2025-09-16T01:15:24Z
@@ -3001,7 +3001,7 @@
   Updated: 2025-09-16T01:15:25Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-16T21:13:32Z
+  Updated: 2025-09-17T03:58:24Z
   Total Products: 4623
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
