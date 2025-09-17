@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-16T20:00:37.034Z
+- Updated At: 2025-09-17T04:00:38.265Z
 
 ## Products
 
@@ -7515,7 +7515,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:15Z
+  Updated: 2025-09-16T21:58:20Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
