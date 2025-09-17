@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-09-17T12:00:28.352Z
+- Updated At: 2025-09-17T16:00:28.645Z
 
 ## Products
 
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-09-17T11:51:00Z
+  Updated: 2025-09-17T15:05:35Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1750636809
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-09-17T11:51:05Z
+  Updated: 2025-09-17T15:05:40Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
