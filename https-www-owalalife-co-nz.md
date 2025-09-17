@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-09-17T00:00:27.392Z
+- Updated At: 2025-09-17T08:00:27.425Z
 
 ## Products
 
@@ -198,7 +198,7 @@
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Kids-MakeWaves-SC-4000x4000-9dc0167.jpg?v=1749439651
   Price: $49.99 NZD
 - [710ML Tumbler](https://www.owalalife.co.nz/products/710ml-tumbler): Fewer refills = better hydration—all thanks to the Owala 24oz Tumbler. But this is no ordinary insulated cup. It also has an awesome 2-in-1, sip-or-swig lid. Another handy feature? The Owala Tumbler fits easily into cup holders, making it the perfect car companion.
-  Updated: 2025-09-16T23:43:11Z
+  Updated: 2025-09-17T05:27:51Z
   Vendor: My Store
   Product Type: TUMBLER
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1749429110
     Price: $54.99 NZD
 - [FreeSip](https://www.owalalife.co.nz/products/freesip-may-release): When it comes to hydration, you deserve options. That’s why we designed the FreeSip to let you choose your own adventure—hold upright to sip through the built-in straw or tilt back to swig through the wide-mouth opening. If that isn’t exciting enough, this bottle is ready to spring into action at any time. Just push the button to flip the top open and push back down to lock it shut (and keep out germs). But we should warn you: If you’re one of those people who likes bottles that spill water everywhere, you’re out of luck… the FreeSip is completely leak proof.
-  Updated: 2025-09-16T23:23:31Z
+  Updated: 2025-09-17T07:46:07Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
