@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-09-16T12:00:28.211Z
+- Updated At: 2025-09-17T04:00:27.785Z
 
 ## Products
 
@@ -312,7 +312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/Rectangularicecubetraywithlid-Red-8710755882388Lekue_96dpi_1000x1000px_7_NR-33323.png?v=1737412607
   Price: $14.98 NZD
 - [Star Ice Cube Tray, with Lid](https://www.lekue.co.nz/products/star-ice-cube-tray-with-lid): Ready to celebrate your great achievement? Create star-shaped ice cubes with this fun ice cube tray with lid. Features An original touch to your drinks that will surprise your family and friends! These ice cube trays are made of rubber. They're flexible so it's easy and quick to remove the ice cubes. It's effortless: just press on the ice cube mould! It includes a lid that prevents odours from transferring from frozen foods to ice cubes. It also allows you to stack the ice cube trays and other containers, saving storage space. It's stable, so you can move the ice cube tray and position it in the freezer drawers without any water leaks. Recommendations for use: Use these ice cube trays to make ice cubes with water. This prevents contamination from odours and possible damage to the material caused by the acidic components of some foods, such as citrus juices.
-  Updated: 2025-07-15T23:38:29Z
+  Updated: 2025-09-17T03:37:55Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
