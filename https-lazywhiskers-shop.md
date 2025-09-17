@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-09-17T08:00:28.129Z
+- Updated At: 2025-09-17T20:00:27.954Z
 
 ## Products
 
@@ -1424,7 +1424,7 @@
   Updated: 2025-09-16T12:12:13Z
   Total Products: 14
 - [AVADA - Best Sellers](https://lazywhiskers.shop/collections/avada-best-sellers)
-  Updated: 2025-09-11T08:18:44Z
+  Updated: 2025-09-17T08:14:55Z
   Total Products: 16
 - [LazyWhiskers Halloween Collection 2025 | Cat Streetwear](https://lazywhiskers.shop/collections/halloween-collection-2025-lazywhiskers): Discover the LazyWhiskers Halloween Collection 2025: limited edition cat t-shirts, bold streetwear, and spooky vibes. Shop now before they vanish!
   Updated: 2025-09-16T12:07:21Z
