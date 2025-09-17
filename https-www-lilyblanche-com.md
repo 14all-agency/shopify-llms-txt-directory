@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-17T12:00:45.695Z
+- Updated At: 2025-09-17T16:00:42.516Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -5807,7 +5807,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £95.00 GBP
 - [Key Locket | Luxury White Gold Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/key-locket-white-gold): Keep your loved ones close to your heart with this pretty filigree style white gold vermeil heart locket which opens to take two of your pictures. Hallmarked in the UK. This white gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Shop this necklace online today.
-  Updated: 2025-09-05T12:55:20Z
+  Updated: 2025-09-17T14:05:21Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15984,7 +15984,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-09-16T10:52:46Z
+  Updated: 2025-09-17T12:22:06Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16062,7 +16062,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_92ae2c16-fa97-4c95-8657-333d5648be2f.jpg?v=1741884502
   Price: £145.00 GBP
 - [Sapphire Heart Locket White Gold | Sapphire Necklace | Lily Blanche](https://www.lilyblanche.com/products/sapphire-heart-locket-white-gold): Need a special gift? This sapphire locket in 18 carat white gold vermeil hides a photo inside. A perfect 16th, 18th or 21st birthday gift, this pretty and romantic locket is hallmarked in Edinburgh. Free UK Shipping. Free jewellery care kit included worth £20. Personalise your locket online today.
-  Updated: 2025-09-01T14:18:58Z
+  Updated: 2025-09-17T14:59:41Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-15T21:29:50Z
+  Updated: 2025-09-17T15:36:21Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21817,7 +21817,7 @@ GBP 340
     Availability: Available
     Price: £540.00 GBP
 - [Amethyst Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold): Satisfaction 100% guaranteed with this stunning Amethyst Cross necklace in Solid Gold. An heirloom piece this real amethyst and  9-carat gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-08-28T11:32:19Z
+  Updated: 2025-09-17T15:06:03Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
