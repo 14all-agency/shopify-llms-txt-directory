@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-16T20:00:36.164Z
+- Updated At: 2025-09-17T00:00:33.209Z
 
 ## Products
 
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $67.99 NZD
 - [Cubiko Adhesive Shower Bins - White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-09-15T04:07:05Z
+  Updated: 2025-09-16T22:37:07Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2384,14 +2384,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Exhibit-Photo-Display-Set-5-Black-UMBRA-4.png?v=1731901805
   Price: $118.99 NZD
 - [Flex Drain Stop & Hair Catcher - Grey](https://everydayhome.co.nz/products/flex-drain-stop-hair-catcher-grey): Say goodbye to clogged shower drains and tub stoppers that don't work with Flex drain stop and hair catcher you prevent hair from clogging your drain with this drain stop and hair catcher in one. Once inserted in your bathtub drain, simply push down on the center to convert it to either a hair catcher or tub stopper.
-  Updated: 2025-09-08T23:14:59Z
+  Updated: 2025-09-16T22:37:07Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-16T05:35:16Z
+  Updated: 2025-09-16T22:37:07Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3553,7 +3553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x15L-DarkGrey-8710755232503Brabantia_96dpi_1000x1000px_7_NR-34729.png?v=1734560867
   Price: $224.99 NZD
 - [Brabantia Sort & Go Built in Bin - 2 x 30L Dark Grey & Jade Green](https://everydayhome.co.nz/products/sort-go-built-in-bin-2-x-30l-dark-grey-jade-green): Double your waste-separating power, without losing any floor space with the Brabantia Sort & Go Built-in Bin 2 x 30 litre. Made to hide in the cupboard, with an easy to install mounting frame (self-supporting, so no sagging doors!). These discreet bins fit in most kitchen cupboards, whether the doors open to the left or right. They even have storage space on top and hooks on the side for extra organising. With a long telescopic rail, so you can single-handedly pull them out all the way. And of course they are easy to clean, take out and empty too. A great set.
-  Updated: 2025-09-13T20:22:10Z
+  Updated: 2025-09-16T20:22:07Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4469,14 +4469,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-MattBlack-8710755112928Brabantia_300dpi_2000x2000px_9_NR-1438.jpg?v=1754622413
   Price: $82.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Platinum](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-platinum): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-16T22:35:39Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-Platinum-8710755112683Brabantia_300dpi_2000x2000px_9_NR-1426.jpg?v=1754621189
   Price: $82.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-soft-beige): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-09-11T23:52:10Z
+  Updated: 2025-09-16T22:35:39Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4854,7 +4854,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ESSTEELE_PERBENESSERE_161380_20CMOPENFRENCHSKILLET_1.jpg?v=1756781608
   Price: $118.99 NZD
 - [Essteele Per Benessere Ceramic Nonstick Induction Open French Skillet - 24cm](https://everydayhome.co.nz/products/essteele-per-benessere-ceramic-nonstick-induction-open-french-skillet-24cm): Meet the Essteele Per Benessere 24cm Open Skillet – combining safety with unmatched performance. Enjoy effortless cooking and easy clean-up with its nonstick ceramic coating, designed for superior scratch and stain resistance. Ideal for searing, sautéing, or frying, it ensures even heat distribution. Suitable for all cooktops and dishwasher-safe, this skillet epitomises culinary excellence.
-  Updated: 2025-09-09T04:06:07Z
+  Updated: 2025-09-16T22:35:38Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -4875,7 +4875,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ESSTEELE_PERBENESSERE_161430_28CM7.7LCOVEREDCASSEROLE_1.jpg?v=1756780761
   Price: $267.99 NZD
 - [Essteele Per Benessere Ceramic Nonstick Induction Open French Skillet - 32cm](https://everydayhome.co.nz/products/essteele-per-benessere-ceramic-nonstick-induction-open-french-skillet-32cm): Meet the Essteele Per Benessere Open French Skillet with Helper Handle 32cm. Enjoy effortless cooking with its nonstick surface and easy cleanup. Designed for durability and scratch resistance, it provides even heat distribution for searing, sautéing or frying a variety of ingredients. Suitable for all cooktops and dishwasher-safe, it's a kitchen essential.
-  Updated: 2025-09-09T04:05:19Z
+  Updated: 2025-09-16T22:35:38Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -4903,7 +4903,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CONTEMPORARY_161610_CoveredSauteuse28cm_1.jpg?v=1756779218
   Price: $126.99 NZD
 - [Raco Contemporary Nonstick Induction Covered Risotto Pan - 32cm/5.2L](https://everydayhome.co.nz/products/raco-contemporary-nonstick-induction-covered-risotto-pan-32cm-5-2l): Elevate your cooking with the Raco Contemporary Nonstick Induction 32cm/5.2L Covered Risotto Pan, designed for both versatility and performance. Its durable nonstick surface ensures effortless food release and easy cleanup, while the induction-compatible base delivers even heat distribution for perfect risottos every time. The generous 5.2-liter capacity is ideal for preparing meals for family and guests, and the fitted lid locks in moisture and flavor to enhance your dishes. Crafted with expert precision, this pan combines practicality with style, making it an essential tool for serious home chefs seeking reliable, consistent results.
-  Updated: 2025-09-09T04:04:14Z
+  Updated: 2025-09-16T22:35:38Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -4917,343 +4917,343 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CONTEMPORARY_161630_CoveredSaute30cm4.3L_1.jpg?v=1756779024
   Price: $144.99 NZD
 - [Raco Contemporary Nonstick Induction Crepe Pan - 24cm](https://everydayhome.co.nz/products/raco-contemporary-nonstick-induction-crepe-pan-24cm): The Raco Contemporary Nonstick Induction Crepe Pan, measuring 24cm, is expertly designed for effortless cooking and even heat distribution on induction cooktops. Its high-quality nonstick surface ensures your crepes, pancakes, and omelettes slide off smoothly, allowing for perfect flips and easy cleaning.
-  Updated: 2025-09-09T23:07:22Z
+  Updated: 2025-09-16T22:35:38Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CONTEMPORARY_161640_CrepePan24cm_1.jpg?v=1756778881
   Price: $54.99 NZD
 - [Umbra Ferris Ring Holder - Black](https://everydayhome.co.nz/products/umbra-ferris-ring-holder-black): Make a statement with the Umbra Ferris Jewelry Organizer! This stylish jewelry holder is the perfect gift for yourself or a friend and is designed to hold and protect your rings with velvet-padded pillows. Crafted with renewable wood sources, the Ferris Jewelry Organizer is easy to keep clean and ready to impress. Its modern design is sure to complement any room in your home and will look great on your nightstand, dresser, or desk.
-  Updated: 2025-09-08T23:16:18Z
+  Updated: 2025-09-16T22:19:25Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_CC02.jpg?v=1756182743
   Price: $67.99 NZD
 - [Umbra Ferris Ring Holder - Natural](https://everydayhome.co.nz/products/umbra-ferris-ring-holder-natural): Make a statement with the Umbra Ferris Jewelry Organizer! This stylish jewelry holder is the perfect gift for yourself or a friend and is designed to hold and protect your rings with velvet-padded pillows. Crafted with renewable wood sources, the Ferris Jewelry Organizer is easy to keep clean and ready to impress. Its modern design is sure to complement any room in your home and will look great on your nightstand, dresser, or desk.
-  Updated: 2025-09-08T23:16:18Z
+  Updated: 2025-09-16T22:19:25Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-390_FERRISRINGHOLDER_NAT_CC01.jpg?v=1756182127
   Price: $67.99 NZD
 - [Umbra Ferris Ring Holder - Walnut](https://everydayhome.co.nz/products/umbra-ferris-ring-holder-walnut): Make a statement with the Umbra Ferris Jewelry Organizer! This stylish jewelry holder is the perfect gift for yourself or a friend and is designed to hold and protect your rings with velvet-padded pillows. Crafted with renewable wood sources, the Ferris Jewelry Organizer is easy to keep clean and ready to impress. Its modern design is sure to complement any room in your home and will look great on your nightstand, dresser, or desk.
-  Updated: 2025-09-08T23:16:18Z
+  Updated: 2025-09-16T22:19:24Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-656_FERRISRINGHOLDER_WALNUT_CC01.jpg?v=1756181949
   Price: $67.99 NZD
 - [Umbra Buddy Doorstop - Set of 2 Charcoal](https://everydayhome.co.nz/products/umbra-buddy-doorstop-set-of-2-charcoal): A playful and helpful tool, the Buddy Doorstop features Umbra’s signature Buddy figurine. A new addition to the Buddy Family, this imaginative door stopper helps to keep your door open as it appears as if Buddy is stuck underneath the door.
-  Updated: 2025-09-16T17:07:11Z
+  Updated: 2025-09-16T22:19:24Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013258-149_BUDDYDOORSTOP_CHARCOAL_SETOF2.jpg?v=1756178593
   Price: $31.99 NZD
 - [Umbra Bolo Hanging Planter - Black](https://everydayhome.co.nz/products/umbra-bolo-hanging-planter-black): Instantly decorate your space with Bolo Hanging Planter. Its round soft curves and dimension make a dynamic balance with any indoor greenery. Perfect for displaying a variety of small to medium plants, this easy to hang planter mounts in just minutes.
-  Updated: 2025-09-08T23:16:20Z
+  Updated: 2025-09-16T22:19:23Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1009571-040.jpg?v=1756178326
   Price: $75.99 NZD
 - [Umbra Bask Shower Caddy - White/Nickel](https://everydayhome.co.nz/products/umbra-bask-shower-caddy-white-nickel): Bask is a space-saving solution, providing ample storage within the 3 wide-brimmed, deep baskets. Stainless steel ball chains mean this caddy won’t rust and its three self-draining baskets make it easy to clean and maintain.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-16T22:19:23Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/716R7vzKMML._AC_SX679.jpg?v=1756177900
   Price: $31.99 NZD
 - [Umbra Casa Tissue Box Cover - White](https://everydayhome.co.nz/products/umbra-casa-tissue-box-cover-white): Casa's playful design makes your standard square tissue box a lot less boring. Our tissue box holder is shaped like a house with a tiny chimney stack that dispenses your tissue, making it look like a little cloud of smoke. Perfect for disguising standard boutique (cube-shaped) tissue boxes and adding a decorative touch to your bathroom, bedroom, or any other room in your home or office.
-  Updated: 2025-09-14T18:37:11Z
+  Updated: 2025-09-16T22:19:23Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_I022.jpg?v=1756183228
   Price: $16.99 NZD
 - [Umbra Flex Shower Caddy - Black](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-black): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-09-14T18:52:11Z
+  Updated: 2025-09-16T22:19:23Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_l01_1c00963b-5b8b-4d25-820c-1c7a7b15b774.jpg?v=1755823786
   Price: $33.99 NZD
 - [Umbra Flex Shower Caddy - Slate Blue](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-slate-blue): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-09-14T18:52:10Z
+  Updated: 2025-09-16T22:19:22Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_CC02.jpg?v=1755823621
   Price: $33.99 NZD
 - [Umbra Flex Shower Caddy - White](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-white): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-09-15T05:22:10Z
+  Updated: 2025-09-16T22:19:22Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I0234_881c9617-9d28-4edd-9ab7-2c48aed48f8a.jpg?v=1755823048
   Price: $33.99 NZD
 - [Umbra Step Toilet Brush - White](https://everydayhome.co.nz/products/umbra-step-toilet-brush-white): The Umbra Step Toilet Brush in white features sleek, polished lines that add a contemporary touch to your bathroom. Crafted from melamine, it includes a removable brush head for easy cleaning and maintenance.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-16T22:19:22Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/71dNAc1ZPsL._AC_SX679.jpg?v=1756177559
   Price: $29.99 NZD
 - [Umbra Step Toothbrush Holder - White](https://everydayhome.co.nz/products/umbra-step-toothbrush-holder-white): This modern and sleek toothbrush holder will hold your toothbrushes upright, ensuring they remain clean and dry after use. Step is made of the highly durable material melamine, meaning it is less likely to break in busy washrooms and kitchens.
-  Updated: 2025-09-15T04:07:05Z
+  Updated: 2025-09-16T22:19:22Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $13.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-09-14T18:52:10Z
+  Updated: 2025-09-16T22:19:21Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023840-660_STEP_CAN_WITH_LID_WHITE_FRONT_01.jpg?v=1756171224
   Price: $37.99 NZD
 - [Umbra Flex Adhesive Corner Bin - Slate Blue](https://everydayhome.co.nz/products/umbra-flex-adhesive-corner-bin-slate-blue): Flex Gel-Lock Corner Bin makes excellent use of the underutilized corner space in your shower – giving you more room, while keeping all the essentials on hand. Easy to install, Flex Adhesive Corner Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). Flex Adhesive Bin has space for shampoo, conditioner, body wash, a razor and two hooks for loofahs and wash cloths. It's easy to remove and move to a different space if needed.
-  Updated: 2025-09-14T18:37:12Z
+  Updated: 2025-09-16T22:19:21Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1004435-1050_FLEXADHESIVECORNERBIN_SLTBLUE_CC01.jpg?v=1755824024
   Price: $31.99 NZD
 - [Umbra Flex Adhesive Bin - Slate Blue](https://everydayhome.co.nz/products/umbra-flex-adhesive-bin-slate-blue): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-16T22:19:21Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021300_1050_FLEXADHESIVEBIN_SLATE_CC01_EDITIED.jpg?v=1755824233
   Price: $31.99 NZD
 - [Umbra Flex Adhesive Soap Dish - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-soap-dish-white): Soap dishes tend to pool water, with the Umbra Adhesive Soap Dish you don’t need to worry because the integrated drainage holes prevent water from collecting at the bottom of the dish.
-  Updated: 2025-09-14T18:37:12Z
+  Updated: 2025-09-16T22:19:21Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-09-16T00:52:11Z
+  Updated: 2025-09-16T22:37:07Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $14.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-09-14T18:52:10Z
+  Updated: 2025-09-16T22:19:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $20.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-09-14T18:37:11Z
+  Updated: 2025-09-16T22:19:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I011.jpg?v=1755822158
   Price: $20.99 NZD
 - [Umbra Tesora Jewelry Stand - Clear/Brass](https://everydayhome.co.nz/products/umbra-tesora-jewelry-stand-clear-brass): The Tesora Jewelry Stand brings modern elegance to your jewelry storage. Featuring three posts of varying heights, it's perfect for hanging necklaces, bracelets, and other jewelry of all sizes. The base includes a built-in dish, ideal for organizing smaller accessories like earrings, rings, and brooches. Each post is enhanced with double-wire accents, providing a stylish and secure display for your earrings or cufflinks.
-  Updated: 2025-09-15T04:07:05Z
+  Updated: 2025-09-16T22:19:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1014862-104_TESORAGLASSSTAND_CC03.jpg?v=1755821313
   Price: $67.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 Chrome](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-chrome): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-09-08T23:16:27Z
+  Updated: 2025-09-16T22:19:19Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I022334534.jpg?v=1755748936
   Price: $118.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 Matt Brass](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-matt-black): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-09-08T23:16:28Z
+  Updated: 2025-09-16T22:19:19Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I022334526123.jpg?v=1755748650
   Price: $118.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 White](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-white): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-09-08T23:16:28Z
+  Updated: 2025-09-16T22:19:19Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I0223345.jpg?v=1755748377
   Price: $118.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 3 8x10 Black](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-3-8x10-black): Create your own unique gallery wall with Exhibit 8x10 picture frames. An extension from the original Exhibit Photo Display, this set of three larger frames, each suspend on their own metal rod. Displayed vertically or horizontally, Exhibit is a unique way to hang and showoff your favorite photos. Each picture frame can float an image up to 8x10" in size. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-09-08T23:16:28Z
+  Updated: 2025-09-16T22:19:19Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_02copy.jpg?v=1755738808
   Price: $118.99 NZD
 - [Umbra Infinity Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-4x6-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different finishes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-09-11T19:22:10Z
+  Updated: 2025-09-16T22:19:18Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_01.jpg?v=1755738282
   Price: $42.99 NZD
 - [Umbra Infinity Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-5x7-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different sizes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-09-11T19:22:11Z
+  Updated: 2025-09-16T22:19:18Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012272-040_INFINITY_PD_5x7_CLOSEDCROP_01.jpg?v=1755738165
   Price: $50.99 NZD
 - [Umbra Bellwood Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-5x7-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:33Z
+  Updated: 2025-09-16T22:19:18Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1019922-040_BELLWOODDESKFRAME_5X7_BLACK_CC01.jpg?v=1755736840
   Price: $59.99 NZD
 - [Umbra Bellwood Picture Frame - 5x7 Natural](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-5x7-natural): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:33Z
+  Updated: 2025-09-16T22:19:18Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1019922-390_BELLWOODDESKFRAME_5X7_NATURALCC01.jpg?v=1755736167
   Price: $59.99 NZD
 - [Umbra Bellwood Picture Frame - 5x7 Aged Walnut](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-5x7-aged-walnut): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:34Z
+  Updated: 2025-09-16T22:19:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1019922-746_BELLWOODDESKFRAME_5X7_WALNUT_CC01.jpg?v=1755736051
   Price: $59.99 NZD
 - [Umbra Wishbone Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-wishbone-picture-frame-5x7-black): Introducing Wishbone: the sculptural desk frame that will effortlessly elevate any space with its polished finish. Its trophy-inspired design ensures 360 degree beauty, allowing for photos to be showcased on both sides of the frame.
-  Updated: 2025-09-08T23:16:34Z
+  Updated: 2025-09-16T22:19:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1020820-040_WISHBONEPD_BLK_CC01.jpg?v=1755737791
   Price: $67.99 NZD
 - [Umbra Wishbone Picture Frame - 5x7 Chrome](https://everydayhome.co.nz/products/umbra-wishbone-picture-frame-5x7-chrome): Introducing Wishbone: the sculptural desk frame that will effortlessly elevate any space with its polished finish. Its trophy-inspired design ensures 360 degree beauty, allowing for photos to be showcased on both sides of the frame.
-  Updated: 2025-09-08T23:16:35Z
+  Updated: 2025-09-16T22:19:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1020820-158_WISHBONEPD_CHROME_CC01.jpg?v=1755737338
   Price: $67.99 NZD
 - [Umbra Flute Picture Frame 4x6 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-4x6-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 4x6 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-08T23:16:35Z
+  Updated: 2025-09-16T22:19:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416-040_FLUTEPICTUREFRAME4x6_BLACK_CC03.jpg?v=1755732297
   Price: $40.99 NZD
 - [Umbra Flute Picture Frame - 4x6 Chrome](https://everydayhome.co.nz/products/umbra-flute-picture-frame-4x6-chrome): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 4x6 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-08T23:16:36Z
+  Updated: 2025-09-16T22:19:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416-158_FLUTEPICTUREFRAME_4x6_CHROME_CC03.jpg?v=1755731979
   Price: $40.99 NZD
 - [Umbra Flute Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-8x10-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 8x10 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-08T23:16:37Z
+  Updated: 2025-09-16T22:19:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022482-040_FLUTEPICTUREFRAME_8X10_BLACK_CC01.jpg?v=1755731505
   Price: $67.99 NZD
 - [Umbra Flute Picture Frame - 8x10 Chrome](https://everydayhome.co.nz/products/umbra-flute-picture-frame-8x10-chrome): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 8x10 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-08T23:16:38Z
+  Updated: 2025-09-16T22:19:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022482-158_FLUTEPICTUREFRAME_8X10_CHROME_CC01.jpg?v=1755730968
   Price: $67.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:38Z
+  Updated: 2025-09-16T22:19:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022486-040_BELLWOODPD8X10_BLK_CC01.jpg?v=1755735865
   Price: $75.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Natural](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-natural): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:39Z
+  Updated: 2025-09-16T22:19:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022486-390_BELLWOODPD8X10_NAT_CC01.jpg?v=1755735701
   Price: $75.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Aged Walnut](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-aged-walnut): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:39Z
+  Updated: 2025-09-16T22:19:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022486-746_BELLWOODPD8X10_WAL_CC01.jpg?v=1755735584
   Price: $75.99 NZD
 - [Umbra Bellwood Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-4x6-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:40Z
+  Updated: 2025-09-16T22:19:15Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-040_BELLWOODDESKFRAME_4x6_BLACK_CC05.jpg?v=1755733525
   Price: $50.99 NZD
 - [Umbra Bellwood Picture Frame - 4x6 Natural](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-4x6-natural): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:40Z
+  Updated: 2025-09-16T22:19:15Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-390_BELLWOODDESKFRAME_4x6_NATURAL_CC05.jpg?v=1755733074
   Price: $50.99 NZD
 - [Umbra Bellwood Picture Frame - 4x6 Aged Walnut](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-4x6-aged-walnut): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-08T23:16:41Z
+  Updated: 2025-09-16T22:19:15Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-746_BELLWOODDESKFRAME_4x6_WALNUT_CC05.jpg?v=1755732917
   Price: $50.99 NZD
 - [Umbra Flute Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-5x7-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 5x7 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-08T23:16:41Z
+  Updated: 2025-09-16T22:19:15Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416_FLUTE_5x7_BLACK_CC01.jpg?v=1755730666
   Price: $42.99 NZD
 - [Umbra Flute Picture Frame 5x7 - Chrome](https://everydayhome.co.nz/products/umbra-flute-picture-frame-5x7-chrome): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 5x7 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-08T23:16:42Z
+  Updated: 2025-09-16T22:19:14Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022845-158_FLUTEPICTUREFRAME_5X7_CHROME_CC01.jpg?v=1755729897
   Price: $42.99 NZD
 - [Umbra Ali Cat Ring Holder - Brass](https://everydayhome.co.nz/products/umbra-ali-cat-ring-holder-brass): Meet Ali Cat, a ring holder inspired by the playful charm of the munchkin cat breed. Designed with velvet-padded pillows to keep your rings safe and scratch-free, Ali Cat can hold up to 9 rings, making it as practical as it is adorable. Whether perched on a nightstand, dresser, or desk, this whimsical accessory adds a touch of feline fun to any space. Ali Cat is the ultimate gift for any cat lover in your life.
-  Updated: 2025-09-08T23:16:49Z
+  Updated: 2025-09-16T22:19:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1023419-104_MINOU_RINGHOLDER_BRASS_CC01.jpg?v=1755558422
   Price: $33.99 NZD
 - [Umbra Ali Cat Ring Holder - Chrome](https://everydayhome.co.nz/products/umbra-ali-cat-ring-holder-chrome): Meet Ali Cat, a ring holder inspired by the playful charm of the munchkin cat breed. Designed with velvet-padded pillows to keep your rings safe and scratch-free, Ali Cat can hold up to 9 rings, making it as practical as it is adorable. Whether perched on a nightstand, dresser, or desk, this whimsical accessory adds a touch of feline fun to any space. Ali Cat is the ultimate gift for any cat lover in your life.
-  Updated: 2025-09-08T23:16:50Z
+  Updated: 2025-09-16T22:19:14Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1023419-158_MINOU_RINGHOLDER_CHROME_CC01.jpg?v=1755558298
   Price: $33.99 NZD
 - [Umbra Tipsy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-tipsy-bottle-opener-chrome): This bar accessory is not just your average bottle opener, it's a decorative piece that will elevate any home bar setup. With its sleek cast metal construction and polished chrome finish, Tipsy is not only built to last, but it also exudes a sense of sophistication and elegance. But what sets Tipsy apart is its unique balancing stand (included), which allows it to stand upright on its own or on any edge surface. It's not just a bottle opener - it's a conversation starter and a sculptural masterpiece. Whether you're entertaining guests or enjoying a quiet drink by yourself, Tipsy is sure to impress.
-  Updated: 2025-09-11T00:37:10Z
+  Updated: 2025-09-16T22:19:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
   Price: $33.99 NZD
 - [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-09-16T17:07:11Z
+  Updated: 2025-09-16T22:19:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022635-158_RODEOBUDDY_CHROME_CC01.jpg?v=1755557046
   Price: $33.99 NZD
 - [Umbra Casita Diffuser - Sand](https://everydayhome.co.nz/products/umbra-casita-diffuser-sand): Enhance your space with Castia- where function meets thoughtful design. Made for use with 100% pure essential oils, Casita fills your home with calming aromas while doubling as a stylish decor piece. Designed with convenience and ambiance in mind, it features an integrated soft white LED light with two brightness settings (100% and dimmed), perfect for creating a relaxing environment. *Essential oils not included
-  Updated: 2025-09-08T23:16:52Z
+  Updated: 2025-09-16T22:19:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -5275,8 +5275,8 @@
   Updated: 2025-02-12T22:26:22Z
   Total Products: 0
 - [New Arrivals](https://everydayhome.co.nz/collections/new-arrivals)
-  Updated: 2025-02-12T22:26:22Z
-  Total Products: 0
+  Updated: 2025-09-16T22:36:47Z
+  Total Products: 60
 - [Office](https://everydayhome.co.nz/collections/office)
   Updated: 2025-09-08T23:12:10Z
   Total Products: 1
