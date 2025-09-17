@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-17T00:00:33.209Z
+- Updated At: 2025-09-17T04:00:35.604Z
 
 ## Products
 
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $67.99 NZD
 - [Cubiko Adhesive Shower Bins - White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-09-16T22:37:07Z
+  Updated: 2025-09-17T01:52:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2279,7 +2279,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-18cm-2-8L-Covered-Saucepan-Esste-0.jpg?v=1731903540
   Price: $220.99 NZD
 - [Essteele Per Vita - 20cm/3.4L Covered Saucepan](https://everydayhome.co.nz/products/essteele-per-vita-20cm-3-8l-saucepan): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This 20cm/3.4L covered saucepan is perfect for sauces, steaming vegetables and so much more.
-  Updated: 2025-09-09T22:22:11Z
+  Updated: 2025-09-17T03:22:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2972,7 +2972,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $46.99 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-14T23:37:11Z
+  Updated: 2025-09-17T01:52:14Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -4392,14 +4392,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_30L-White-8710755111785Brabantia_300dpi_2000x2000px_9_NR-1366.jpg?v=1754952857
   Price: $194.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Brilliant Steel](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-brilliant-steel): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-17T02:37:07Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-BrilliantSteel-8710755113147Brabantia_300dpi_2000x2000px_9_NR-1456.jpg?v=1754952138
   Price: $59.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Confident Grey](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-confident-grey): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-17T02:37:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4413,7 +4413,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-MattBlack-8710755113321Brabantia_300dpi_2000x2000px_9_NR-1468.jpg?v=1754950199
   Price: $59.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-matt-steel-fpp): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-17T02:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4427,14 +4427,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-MetallicGold-8710755304408Brabantia_300dpi_2000x2000px_9_NR-20653.jpg?v=1754624955
   Price: $59.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Platinum](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-platinum): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-17T02:37:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-Platinum-8710755113246Brabantia_300dpi_2000x2000px_9_NR-1462.jpg?v=1754624788
   Price: $59.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-soft-beige): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-17T02:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -5036,7 +5036,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-09-16T22:37:07Z
+  Updated: 2025-09-17T01:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -5050,7 +5050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $20.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-09-16T22:19:20Z
+  Updated: 2025-09-17T01:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -5284,16 +5284,16 @@
   Updated: 2025-09-08T23:12:27Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-09-16T11:07:14Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-08T23:12:16Z
@@ -5347,13 +5347,13 @@
   Updated: 2025-09-08T23:12:24Z
   Total Products: 7
 - [Dutch Deluxes](https://everydayhome.co.nz/collections/dutch-deluxe)
-  Updated: 2025-09-14T11:07:38Z
+  Updated: 2025-09-17T03:12:18Z
   Total Products: 27
 - [Natural Home Fragrance & Body Care | The Aromatherapy Co](https://everydayhome.co.nz/collections/the-aromatherapy-co): Discover The Aromatherapy Co.’s range of natural home fragrance and body care products. Designed in New Zealand, these products combine essential oils and premium ingredients to enhance your well-being and create a relaxing atmosphere in your home. Shop candles, diffusers, and skincare collections today.
   Updated: 2025-09-12T11:07:31Z
   Total Products: 89
 - [Serveware](https://everydayhome.co.nz/collections/serveware)
-  Updated: 2025-09-14T11:07:38Z
+  Updated: 2025-09-17T03:12:18Z
   Total Products: 21
 - [Home Fragrances and Candels](https://everydayhome.co.nz/collections/home-fragrances-and-candels)
   Updated: 2025-02-12T22:26:29Z
@@ -5392,7 +5392,7 @@
   Updated: 2025-09-05T03:41:44Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-09-13T11:06:40Z
@@ -5401,7 +5401,7 @@
   Updated: 2025-09-16T11:07:14Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-09-15T11:06:51Z
+  Updated: 2025-09-17T03:12:19Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-09-16T11:07:14Z
@@ -5413,7 +5413,7 @@
   Updated: 2025-09-08T23:15:57Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
-  Updated: 2025-09-12T11:07:31Z
+  Updated: 2025-09-17T03:12:19Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
   Updated: 2025-09-13T11:06:40Z
@@ -5545,19 +5545,19 @@
   Updated: 2025-09-08T23:13:07Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 1038
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
   Updated: 2025-09-13T11:06:40Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-09-16T11:07:14Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-09-15T11:06:51Z
+  Updated: 2025-09-17T03:12:19Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
   Updated: 2025-09-10T11:08:07Z
@@ -5593,7 +5593,7 @@
   Updated: 2025-09-08T23:16:51Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-09-14T11:07:38Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 152
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
   Updated: 2025-09-08T23:17:30Z
@@ -5641,13 +5641,13 @@
   Updated: 2025-09-16T11:07:14Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-16T11:07:14Z
+  Updated: 2025-09-17T03:12:20Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-09-08T23:17:30Z
   Total Products: 28
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
-  Updated: 2025-09-14T11:07:38Z
+  Updated: 2025-09-17T03:12:18Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
   Updated: 2025-09-09T01:56:44Z
