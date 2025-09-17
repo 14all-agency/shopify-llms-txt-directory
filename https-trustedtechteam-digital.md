@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-17T00:00:30.090Z
+- Updated At: 2025-09-17T08:00:30.502Z
 
 ## Products
 
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-rds-10-user-cals-software-box.webp?v=1752927925
   Price: $95.00 USD
 - [Windows 11 Home Office 2021 Bundle - Microsoft Software | trustedtechteam](https://trustedtechteam.digital/products/windows-11-home-office-2021-software-bundle): Get the Windows 11 Home Office 2021 bundle from trustedtechteam. Enjoy the latest Microsoft software with enhanced productivity and seamless performance.
-  Updated: 2025-08-10T18:41:42Z
+  Updated: 2025-09-17T02:13:48Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
