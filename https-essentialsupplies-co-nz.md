@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-17T00:00:41.429Z
+- Updated At: 2025-09-17T08:00:40.673Z
 
 ## Products
 
@@ -1530,7 +1530,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/interleave-toilet-tissue-dispenser-transparent-700-sheet-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-997297.jpg?v=1719445334
   Price: $68.00 NZD
 - [Interleave Toilet Tissue Dispenser - White, 700 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/interleave-toilet-tissue-dispenser-white-700-sheet-capacity-1): Interleave toilet tissue dispensers with a stylish look for any bathroom or workspace environment provide superior practicality and hygiene.Compatible with interleave tissue sheets featuring a clear viewing panel and a huge 700 sheet capacity. Interleave toilet tissue dispenser Sturdy and durable design Holds 700 sheets Colour: White
-  Updated: 2025-01-09T05:50:37Z
+  Updated: 2025-09-17T05:05:05Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
@@ -1894,7 +1894,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pet-strapping-band-embossed-green-16mm-x-1200m-x-10mm-600kgf-1-roll-pet-strapping-band-essential-supplies-811332.jpg?v=1719445436
   Price: $159.00 NZD
 - [PET Strapping Band Smooth - Green, 16mm x 1150m x 1.0mm, 700kgf - 1 Roll](https://essentialsupplies.co.nz/products/pet-strapping-band-smooth-green-16mm-x-1150m-x-1-0mm-700kgf-1): PET strapping band is made from premium strength, lightweight polyester and offers a safe and recyclable alternative to steel strapping.Minimal elongation properties means strap tension is maintained with load settling during transit. Can be securely sealed with serrated seals or friction weld tools. Maintain strap tension during transit Minimal elongation properties means strap tension is maintained with load settling Smooth Strength: 700kgf (KILOGRAM-FORCE WEIGHT) Colour: Green Size: 16mm x 1150mt x 1.0mm
-  Updated: 2025-01-08T17:50:57Z
+  Updated: 2025-09-17T02:37:27Z
   Vendor: Mattews Packaging
   Product Type: PET Strapping Band
   Availability: Available
@@ -3553,7 +3553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/luxury-tad-interfold-paper-towel-white-230mm-x-230mm-1-ply-fsc-mix-3000-sheets-folded-paper-towels-essential-supplies-420045.jpg?v=1719445435
   Price: $74.00 NZD
 - [Half Slimfold Towel Dispenser - White, 400 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/half-slimfold-towel-dispenser-white-400-sheet-capacity-1): Half slimfold paper towel dispensers are ideal for small hands and compact spaces where full sized towel dispensers are not suitable. The quick fill dispenser features a viewing window for easy refilling and a 400 sheet capacity. Available in three colour finishes.
-  Updated: 2025-01-15T14:25:16Z
+  Updated: 2025-09-17T01:35:26Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
@@ -3588,7 +3588,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/kitchen-paper-towels-white-272mm-x-226mm-2-ply-120-sheets-fsc-mix-12-rolls-perforated-kitchen-paper-towels-essential-supplies-720368.jpg?v=1719445328
   Price: $72.00 NZD
 - [Kitchen Paper Towels - White, 272mm x 226mm, 3 Ply, 60 Sheets, FSC Mix® - 12 Rolls - *Perforated](https://essentialsupplies.co.nz/products/kitchen-paper-towels-white-272mm-x-226mm-3-ply-60-sheets-fsc-mix®-12-perforated): Kitchen paper towels feature strong quad weave technology. Perforated on a roll for convenience and ideal for mopping up spills, cleaning or general kitchen use quickly and easily. These towels are certified which ensures you are making a sustainable paper choice. Available in a 2 ply, 60 sheet twin pack with a 228mm x 270mm sheet size.
-  Updated: 2025-01-15T07:13:53Z
+  Updated: 2025-09-17T03:43:46Z
   Vendor: Mattews Packaging
   Product Type: Kitchen Paper Towels
   Availability: Available
@@ -4545,7 +4545,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dust-control-mop-handle-silver-25mm-x-1400mm-1-handle-mops-essential-supplies-485877.jpg?v=1719444962
   Price: $35.00 NZD
 - [Dust Control Mop Complete - Blue, 610mm x 25mm x 1400mm](https://essentialsupplies.co.nz/products/dust-control-mop-complete-blue-610mm-x-25mm-x-1400mm-4): Dust control mops with a strong metal frame and durable swivel attachment. Featuring a replaceable mod-acrylic fringe pad to effectively attract and hold dirt and dust particles. The unique swivel head ensures the mop can move freely around corners and under large furniture items.
-  Updated: 2025-01-19T16:59:51Z
+  Updated: 2025-09-17T01:43:23Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
