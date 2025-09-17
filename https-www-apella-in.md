@@ -8,7 +8,7 @@
 - Contact Email: hello@apella.in
 - Contact Phone: +91 6230116927
 - Address: Red Apple Inn, NH 72, Bhatanwali, Paonta Sahib, Himachal Pradesh, India
-- Updated At: 2025-09-16T20:01:03.687Z
+- Updated At: 2025-09-17T00:01:14.960Z
 
 ## Products
 
@@ -253,7 +253,7 @@
   Updated: 2025-09-15T10:07:36Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Pleated Cotton Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/pleated-cotton-salwar): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T12:21:42Z
+  Updated: 2025-09-16T23:49:03Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Detailed Rayon Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/detailed-rayon-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-11T00:31:17Z
@@ -277,7 +277,7 @@
   Updated: 2025-09-10T09:11:23Z
   Price: ₹1,525.00 INR — ₹1,615.00 INR
 - [Buy Plus Size ​Cotton Straight Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-straight-salwar): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T11:38:10Z
+  Updated: 2025-09-16T23:43:05Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Rayon Straight Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-straight-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T20:21:14Z
@@ -832,7 +832,7 @@
   Updated: 2025-09-10T09:10:37Z
   Price: ₹5,495.00 INR — ₹6,495.00 INR
 - [Buy Plus Size ​Easy Fit Cotton Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/easy-fit-cotton-salwar): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T11:31:04Z
+  Updated: 2025-09-16T23:32:54Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Easy Fit Rayon Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/easy-fit-rayon-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T13:08:26Z
@@ -1423,7 +1423,7 @@
   Updated: 2025-09-16T14:13:15Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Straight Cotton Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/straight-cotton-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T11:37:08Z
+  Updated: 2025-09-16T23:40:00Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Straight Rayon Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/straight-rayon-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-16T04:16:26Z
@@ -1642,7 +1642,7 @@
   Updated: 2025-09-10T09:11:16Z
   Price: ₹995.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Love Lullaby Woollen Night Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/blue-printed-kids-co-ord-set): Introducing our "Just Lullaby" Woollen Night Suit for kids! Crafted from warm Brushed Cotton fabric, it features a playful "love" and "joy" print. With a cozy collar neckline, full button placket and full sleeves, it's paired with matching bottoms. Perfect for joyful cozy nights, ensuring your little ones enjoy bedtime with warmth and style! Color:- White Material:- Brushed Cotton Neckline:- Collar | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-03T11:46:00Z
+  Updated: 2025-09-16T23:58:19Z
   Price: ₹995.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Christmas Cuddle Printed Night Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/black-printed-kids-co-ord-set-1): Embrace fun and warmth with our Christmas Cuddle Printed Night Suit. Crafted from soft Brushed Cotton fabric that is so cozy, it features an adorable animal print, a cozy collar neckline with a full button placket, two front pockets, and full sleeves. It is paired with matching bottoms, it creates a perfect ensemble for enjoyable, cozy, and playful nights. Let your little ones revel in the fun and comfort! Color:-Red Material:- Brushed Cotton Neckline:- Collar | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:46:02Z
