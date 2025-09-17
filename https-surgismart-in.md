@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-16T20:00:32.233Z
+- Updated At: 2025-09-17T08:00:30.877Z
 
 ## Products
 
@@ -337,7 +337,7 @@
     Availability: Available
     Price: ₹295.00 INR
 - [Buy ​United Medicare Ar Sling Baggy (C-08) - Surgismart](https://surgismart.in/products/c-08): Key Features:UM baggy pouch arm sling will keep your arm in a resting position, allowing for faster healing. It covers the arm completely and also can accommodate even bulky casts or bandages. Arm sling made of a three-layered PU bonded fabric that is both sturdy and non-tear able. The strap extends from the wrist part and has a soft feel thumb loop inside for desired hand rest. D-buckles that attach to a drip stand and allow arm elevation. The universal design suits both the left and right arm. Direction of use Place your arm inside the sling pouch. Connect the straps as per your comfortable resting height and angle of the arm. Safety information Hand wash with mild detergent and water. Keep out of reach of children. UM arm sling baggy is designed to protect your shoulder and arm. It will keep your arm in a resting position, allowing for faster healing.UM baggy sling is available in 4 different sizes: S, M, L and XL, you can choose your suitable size.Arm sling baggy supports the arm in fractures, surgeries, and dislocation cases, and it supports the fractured arm by providing warmth and improving blood circulation.UM baggy arm sling is made in lightweight PU material and it provides comfort, durability & soft feel.Baggy arm sling is designed for protected arm and shoulder injuries and who has arm and shoulder injuries, shoulder immobilization, dislocated shoulder, post cast care, surgically operated arm.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:32Z
+  Updated: 2025-09-17T03:34:04Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
@@ -1416,59 +1416,6 @@
   - [XL / 120](https://surgismart.in/products/diapermedium?variant=50411477795096)
     Availability: Available
     Price: ₹4,080.00 INR
-- [Buy ​Medvance Lab Coat Half Sleeve - Surgismart](https://surgismart.in/products/medvance-lab-coat-half-sleeve): Introducing the Medvance Lab Coat Half Sleeve: Crafted for science experts, this lab coat combines comfort, functionality, and professionalism. Here’s why it’s a must-have: Ultimate Comfort: Designed for long hours in the lab. High-Quality Materials: Durable and reliable. Enhanced Mobility: Half sleeves allow better range of motion. Stay focused on your experiments with Medvance! 👩‍🔬👨‍🔬 - Surgismart
-  Updated: 2025-08-13T07:38:33Z
-  Vendor: Medvance Surgicals
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_15718947-d636-440f-8e9c-e29ba52cbb00.jpg?v=1751478424
-  - [S](https://surgismart.in/products/medvance-lab-coat-half-sleeve?variant=50377771712792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_15718947-d636-440f-8e9c-e29ba52cbb00.jpg?v=1751478424
-    Price: ₹600.00 INR
-  - [M](https://surgismart.in/products/medvance-lab-coat-half-sleeve?variant=50377771745560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_6c66b051-530d-4f62-8c9e-193903fa9324.jpg?v=1751478424
-    Price: ₹600.00 INR
-  - [L](https://surgismart.in/products/medvance-lab-coat-half-sleeve?variant=50377771778328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_4b1f46d8-3eaa-426d-83e7-87078554ef4b.jpg?v=1751478424
-    Price: ₹600.00 INR
-  - [XL](https://surgismart.in/products/medvance-lab-coat-half-sleeve?variant=50377771811096)
-    Availability: Available
-    Price: ₹600.00 INR
-  - [XXL](https://surgismart.in/products/medvance-lab-coat-half-sleeve?variant=50377771843864)
-    Availability: Available
-    Price: ₹600.00 INR
-- [Buy ​Medvance Lab Coat Full Sleeve, White - Surgismart](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white): Introducing the Medvance Lab Coat: Your trusted companion in healthcare. Crafted for professionals, this lab coat offers: Full Coverage: Long white sleeves ensure comprehensive protection. Quality Materials: High-quality fabric for comfort and durability. Ideal for Long Shifts: Designed to withstand demanding schedules. Professional and Protective: Elevate your workwear with Medvance. Stay confident, stay covered—choose Medvance. 🩺👩‍⚕️👨‍⚕️ - Surgismart
-  Updated: 2025-08-13T07:38:32Z
-  Vendor: Medvance Surgicals
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_d6a7f527-5937-4bbf-8f75-20f11bcb5ad9.jpg?v=1751478423
-  - [S](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white?variant=50377772073240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_d6a7f527-5937-4bbf-8f75-20f11bcb5ad9.jpg?v=1751478423
-    Price: ₹680.00 INR
-  - [M](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white?variant=50377772106008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_ffeff865-4694-443a-9c53-b451763cf4cf.jpg?v=1751478423
-    Price: ₹680.00 INR
-  - [L](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white?variant=50377772138776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_529f50f1-f7d1-4276-8b5a-4dd0afc3f950.jpg?v=1751478423
-    Price: ₹680.00 INR
-  - [XL](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white?variant=50377772171544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_743f0415-4290-4468-a702-84ac5e7c98a5.jpg?v=1751478423
-    Price: ₹680.00 INR
-  - [XXL](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white?variant=50377772204312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_26b6cff6-35b3-4a0c-9e3d-4f70689b2669.jpg?v=1751478423
-    Price: ₹680.00 INR
-  - [3XL](https://surgismart.in/products/medvance-lab-coat-full-sleeve-white?variant=50377772237080)
-    Availability: Available
-    Price: ₹680.00 INR
 - [Buy ​Medvance Portable Folding Commode Stool, Square - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-stool-square): The weight capacity for this product is up to 80-100 kg. It features a stainless steel frame (grade 202) with a seating area of 15" width. The frame is held together by rivets and clasps to ensure stability. Additionally, the stool is equipped with anti-slip rubber bushings and made from high-quality, virgin-grade plastic. - Surgismart
   Updated: 2025-08-13T07:38:32Z
   Vendor: Medvance Surgicals
@@ -1509,273 +1456,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_2060ecd0-93a2-43d1-bb58-22a3533da803.jpg?v=1751478419
     Price: ₹1,400.00 INR
-- [Buy ​Medvance Classic Scrub Suit, Maroon - Surgismart](https://surgismart.in/products/medvance-classic-scrub-suit-maroon): Medvance Scrub Suits - Comfort, Durability, and Professionalism in Every Shift Experience the perfect blend of comfort, durability, and professionalism with Medvance Scrub Suits. Designed for healthcare professionals, these scrub suits ensure you look and feel your best during every shift, providing the reliability and functionality you need in a demanding medical environment. Key Features: Superior Comfort: Medvance Scrub Suits are made from soft, breathable fabrics that keep you comfortable throughout long shifts, allowing you to focus on patient care. Durable and Long-Lasting: Constructed from high-quality materials, these scrubs are built to withstand frequent washing and wear, maintaining their professional appearance over time. Practical Design: Featuring multiple pockets and a well-thought-out design, our scrub suits offer the practicality you need to carry essential tools and personal items conveniently. Professional Look: With a clean, tailored fit, Medvance Scrub Suits ensure you always present a professional appearance, boosting your confidence and credibility in the workplace. Easy to Maintain: These scrubs are easy to clean and maintain, saving you time and effort while ensuring hygiene and cleanliness. Why Choose Medvance Scrub Suits? Optimal Fabric: The breathable, lightweight fabric keeps you cool and comfortable, even during long and hectic shifts. Functional Design: With strategically placed pockets and a comfortable fit, these scrubs are designed to meet the practical needs of healthcare professionals. Resilient and Reliable: High-quality construction ensures that these scrubs remain durable and maintain their shape and color after numerous washes. Professional and Stylish: Available in a range of colors and sizes, Medvance Scrub Suits offer a stylish and professional look suitable for any healthcare setting. Invest in Your Comfort and Professionalism Choose Medvance Scrub Suits for unbeatable comfort, durability, and functionality. Whether you are a nurse, doctor, or medical technician, these scrubs provide the reliability and professional appearance you need to excel in your role. Trust Medvance for high-quality scrubs that support you in delivering the best patient care. Order your Medvance Scrub Suits today and experience the ultimate in comfort and performance! - Surgismart
-  Updated: 2025-08-20T22:14:52Z
-  Vendor: Medvance Surgicals
-  Product Type: SCRUB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_eb6e2fbe-515d-4020-a22b-c26885c9f8a5.jpg?v=1751478417
-  - [Round / S](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778790680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_eb6e2fbe-515d-4020-a22b-c26885c9f8a5.jpg?v=1751478417
-    Price: ₹760.00 INR
-  - [Round / M](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778823448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_6937e968-d6a5-48bc-a955-81f780327d02.jpg?v=1751478417
-    Price: ₹760.00 INR
-  - [Round / L](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778856216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_26221dc4-b1fc-42fc-9763-aafc92b9d22d.jpg?v=1751478417
-    Price: ₹760.00 INR
-  - [Round / XL](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778888984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_9d3f42e7-5083-420a-b1f9-d8ff5802ba0b.jpg?v=1751478418
-    Price: ₹760.00 INR
-  - [Round / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778921752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_daf2702e-d74c-4886-a8e4-c98d8196389d.jpg?v=1751478418
-    Price: ₹760.00 INR
-  - [V-Neck / S](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778954520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_5c232af5-7745-4c2c-8414-00e00b3787a4.jpg?v=1751478418
-    Price: ₹760.00 INR
-  - [V-Neck / M](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377778987288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_db76ce0a-7fcc-47de-9024-88b89921848f.jpg?v=1751478418
-    Price: ₹760.00 INR
-  - [V-Neck / L](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377779020056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_f3cd283e-0f4e-4ebc-9373-1cb007adcaa3.jpg?v=1751478418
-    Price: ₹760.00 INR
-  - [V-Neck / XL](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377779052824)
-    Availability: Available
-    Price: ₹760.00 INR
-  - [V-Neck / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-maroon?variant=50377779085592)
-    Availability: Available
-    Price: ₹760.00 INR
-- [Buy ​Medvance Classic Scrub Suit, Grey - Surgismart](https://surgismart.in/products/medvance-classic-scrub-suit-grey): Medvance Scrub Suits - Comfort, Durability, and Professionalism in Every Shift Experience the perfect blend of comfort, durability, and professionalism with Medvance Scrub Suits. Designed for healthcare professionals, these scrub suits ensure you look and feel your best during every shift, providing the reliability and functionality you need in a demanding medical environment. Key Features: Superior Comfort: Medvance Scrub Suits are made from soft, breathable fabrics that keep you comfortable throughout long shifts, allowing you to focus on patient care. Durable and Long-Lasting: Constructed from high-quality materials, these scrubs are built to withstand frequent washing and wear, maintaining their professional appearance over time. Practical Design: Featuring multiple pockets and a well-thought-out design, our scrub suits offer the practicality you need to carry essential tools and personal items conveniently. Professional Look: With a clean, tailored fit, Medvance Scrub Suits ensure you always present a professional appearance, boosting your confidence and credibility in the workplace. Easy to Maintain: These scrubs are easy to clean and maintain, saving you time and effort while ensuring hygiene and cleanliness. Why Choose Medvance Scrub Suits? Optimal Fabric: The breathable, lightweight fabric keeps you cool and comfortable, even during long and hectic shifts. Functional Design: With strategically placed pockets and a comfortable fit, these scrubs are designed to meet the practical needs of healthcare professionals. Resilient and Reliable: High-quality construction ensures that these scrubs remain durable and maintain their shape and color after numerous washes. Professional and Stylish: Available in a range of colors and sizes, Medvance Scrub Suits offer a stylish and professional look suitable for any healthcare setting. Invest in Your Comfort and Professionalism Choose Medvance Scrub Suits for unbeatable comfort, durability, and functionality. Whether you are a nurse, doctor, or medical technician, these scrubs provide the reliability and professional appearance you need to excel in your role. Trust Medvance for high-quality scrubs that support you in delivering the best patient care. Order your Medvance Scrub Suits today and experience the ultimate in comfort and performance! - Surgismart
-  Updated: 2025-08-13T07:38:32Z
-  Vendor: Medvance Surgicals
-  Product Type: SCRUB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_4f16ed38-ca90-46b3-8978-c131261db5d4.png?v=1751478416
-  - [Round / S](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779675416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_4f16ed38-ca90-46b3-8978-c131261db5d4.png?v=1751478416
-    Price: ₹760.00 INR
-  - [Round / M](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779708184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_e6a4baf6-d832-4b51-9d21-5d99eecd6e5b.png?v=1751478416
-    Price: ₹760.00 INR
-  - [Round / L](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779740952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_2e8ed9b0-6a08-4d20-bf17-4c79f0a5e5d4.png?v=1751478416
-    Price: ₹760.00 INR
-  - [Round / XL](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779773720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_6c69aa6d-41a8-4dc1-8285-ef1cc5d89e0f.png?v=1751478416
-    Price: ₹760.00 INR
-  - [Round / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779806488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_59685f43-a407-4994-a916-eacc304dc1d1.png?v=1751478416
-    Price: ₹760.00 INR
-  - [V-Neck / S](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779839256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_3420c4d7-1bf4-4bc9-9890-43da54e12f68.png?v=1751478416
-    Price: ₹760.00 INR
-  - [V-Neck / M](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779872024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_8bafcf51-9a9b-4998-9fba-30075ef0e991.jpg?v=1751478416
-    Price: ₹760.00 INR
-  - [V-Neck / L](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779904792)
-    Availability: Available
-    Price: ₹760.00 INR
-  - [V-Neck / XL](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779937560)
-    Availability: Available
-    Price: ₹760.00 INR
-  - [V-Neck / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-grey?variant=50377779970328)
-    Availability: Available
-    Price: ₹760.00 INR
-- [Buy ​Medvance Classic Scrub Suit, Purple - Surgismart](https://surgismart.in/products/medvance-classic-scrub-suit-purple): Medvance Scrub Suits - Comfort, Durability, and Professionalism in Every Shift Experience the perfect blend of comfort, durability, and professionalism with Medvance Scrub Suits. Designed for healthcare professionals, these scrub suits ensure you look and feel your best during every shift, providing the reliability and functionality you need in a demanding medical environment. Key Features: Superior Comfort: Medvance Scrub Suits are made from soft, breathable fabrics that keep you comfortable throughout long shifts, allowing you to focus on patient care. Durable and Long-Lasting: Constructed from high-quality materials, these scrubs are built to withstand frequent washing and wear, maintaining their professional appearance over time. Practical Design: Featuring multiple pockets and a well-thought-out design, our scrub suits offer the practicality you need to carry essential tools and personal items conveniently. Professional Look: With a clean, tailored fit, Medvance Scrub Suits ensure you always present a professional appearance, boosting your confidence and credibility in the workplace. Easy to Maintain: These scrubs are easy to clean and maintain, saving you time and effort while ensuring hygiene and cleanliness. Why Choose Medvance Scrub Suits? Optimal Fabric: The breathable, lightweight fabric keeps you cool and comfortable, even during long and hectic shifts. Functional Design: With strategically placed pockets and a comfortable fit, these scrubs are designed to meet the practical needs of healthcare professionals. Resilient and Reliable: High-quality construction ensures that these scrubs remain durable and maintain their shape and color after numerous washes. Professional and Stylish: Available in a range of colors and sizes, Medvance Scrub Suits offer a stylish and professional look suitable for any healthcare setting. Invest in Your Comfort and Professionalism Choose Medvance Scrub Suits for unbeatable comfort, durability, and functionality. Whether you are a nurse, doctor, or medical technician, these scrubs provide the reliability and professional appearance you need to excel in your role. Trust Medvance for high-quality scrubs that support you in delivering the best patient care. Order your Medvance Scrub Suits today and experience the ultimate in comfort and performance! - Surgismart
-  Updated: 2025-08-13T07:38:31Z
-  Vendor: Medvance Surgicals
-  Product Type: SCRUB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_ec892d32-5c6a-46fe-a69c-cc7d9361bcd5.jpg?v=1751478413
-  - [Round / S](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377781805336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_ec892d32-5c6a-46fe-a69c-cc7d9361bcd5.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [Round / M](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377781838104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_f1170746-1578-42eb-a12a-1b4b03a0700e.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [Round / L](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377781870872)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_803a9106-e063-4bef-9918-13551883a409.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [Round / XL](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377781903640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_b1c508ee-0a38-4a16-bf10-58c77b57f17b.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [Round / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377781936408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_eedaee6e-592f-4b9d-b274-e491087477f7.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [V-Neck / S](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377781969176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_bc823ed1-7347-4209-91b3-d515cca5d661.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [V-Neck / M](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377782001944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_8e93e78f-d491-4319-bc7f-6fea04337e7b.jpg?v=1751478413
-    Price: ₹760.00 INR
-  - [V-Neck / L](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377782034712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_f524314a-2f6c-4bc9-9296-9695df3d2078.jpg?v=1751478414
-    Price: ₹760.00 INR
-  - [V-Neck / XL](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377782067480)
-    Availability: Available
-    Price: ₹760.00 INR
-  - [V-Neck / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-purple?variant=50377782100248)
-    Availability: Available
-    Price: ₹760.00 INR
-- [Buy ​Medvance Classic Scrub Suit, Pink - Surgismart](https://surgismart.in/products/medvance-classic-scrub-suit-pink): Medvance Scrub Suits - Comfort, Durability, and Professionalism in Every Shift Experience the perfect blend of comfort, durability, and professionalism with Medvance Scrub Suits. Designed for healthcare professionals, these scrub suits ensure you look and feel your best during every shift, providing the reliability and functionality you need in a demanding medical environment. Key Features: Superior Comfort: Medvance Scrub Suits are made from soft, breathable fabrics that keep you comfortable throughout long shifts, allowing you to focus on patient care. Durable and Long-Lasting: Constructed from high-quality materials, these scrubs are built to withstand frequent washing and wear, maintaining their professional appearance over time. Practical Design: Featuring multiple pockets and a well-thought-out design, our scrub suits offer the practicality you need to carry essential tools and personal items conveniently. Professional Look: With a clean, tailored fit, Medvance Scrub Suits ensure you always present a professional appearance, boosting your confidence and credibility in the workplace. Easy to Maintain: These scrubs are easy to clean and maintain, saving you time and effort while ensuring hygiene and cleanliness. Why Choose Medvance Scrub Suits? Optimal Fabric: The breathable, lightweight fabric keeps you cool and comfortable, even during long and hectic shifts. Functional Design: With strategically placed pockets and a comfortable fit, these scrubs are designed to meet the practical needs of healthcare professionals. Resilient and Reliable: High-quality construction ensures that these scrubs remain durable and maintain their shape and color after numerous washes. Professional and Stylish: Available in a range of colors and sizes, Medvance Scrub Suits offer a stylish and professional look suitable for any healthcare setting. Invest in Your Comfort and Professionalism Choose Medvance Scrub Suits for unbeatable comfort, durability, and functionality. Whether you are a nurse, doctor, or medical technician, these scrubs provide the reliability and professional appearance you need to excel in your role. Trust Medvance for high-quality scrubs that support you in delivering the best patient care. Order your Medvance Scrub Suits today and experience the ultimate in comfort and performance! - Surgismart
-  Updated: 2025-08-13T07:38:31Z
-  Vendor: Medvance Surgicals
-  Product Type: SCRUB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_5364bb38-3089-4f9f-ad2a-eaa8eeb159e2.jpg?v=1751478410
-  - [Round / S](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377786917144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_5364bb38-3089-4f9f-ad2a-eaa8eeb159e2.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [Round / M](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377786949912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_28a7b503-436d-4a95-8a13-251063358b94.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [Round / L](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377786982680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_2b7fda45-9770-4d6d-ab0f-e97ee8d90a45.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [Round / XL](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787015448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_6c92e0d7-5a8a-4ccd-813d-9f62c3dba699.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [Round / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787048216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_1558f3cd-af27-4192-8269-252b43d8283a.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [V-Neck / S](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787080984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_6a7bf844-3b5d-4eec-add9-c7cdfd271b7a.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [V-Neck / M](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787113752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_268f6eda-1bff-4a60-8fb0-6619f1a0f5b7.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [V-Neck / L](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787146520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_cea9a437-a4cb-4578-8925-71a852338e3d.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [V-Neck / XL](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787179288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_195f4b68-69ec-4a31-843d-510419b0c1eb.jpg?v=1751478410
-    Price: ₹760.00 INR
-  - [V-Neck / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-pink?variant=50377787212056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_13203a81-78cc-4498-b325-d05357e6c30b.jpg?v=1751478410
-    Price: ₹760.00 INR
-- [Buy ​Medvance Classic Scrub Suit, Green - Surgismart](https://surgismart.in/products/medvance-classic-scrub-suit-green): Medvance Scrub Suits - Comfort, Durability, and Professionalism in Every Shift Experience the perfect blend of comfort, durability, and professionalism with Medvance Scrub Suits. Designed for healthcare professionals, these scrub suits ensure you look and feel your best during every shift, providing the reliability and functionality you need in a demanding medical environment. Key Features: Superior Comfort: Medvance Scrub Suits are made from soft, breathable fabrics that keep you comfortable throughout long shifts, allowing you to focus on patient care. Durable and Long-Lasting: Constructed from high-quality materials, these scrubs are built to withstand frequent washing and wear, maintaining their professional appearance over time. Practical Design: Featuring multiple pockets and a well-thought-out design, our scrub suits offer the practicality you need to carry essential tools and personal items conveniently. Professional Look: With a clean, tailored fit, Medvance Scrub Suits ensure you always present a professional appearance, boosting your confidence and credibility in the workplace. Easy to Maintain: These scrubs are easy to clean and maintain, saving you time and effort while ensuring hygiene and cleanliness. Why Choose Medvance Scrub Suits? Optimal Fabric: The breathable, lightweight fabric keeps you cool and comfortable, even during long and hectic shifts. Functional Design: With strategically placed pockets and a comfortable fit, these scrubs are designed to meet the practical needs of healthcare professionals. Resilient and Reliable: High-quality construction ensures that these scrubs remain durable and maintain their shape and color after numerous washes. Professional and Stylish: Available in a range of colors and sizes, Medvance Scrub Suits offer a stylish and professional look suitable for any healthcare setting. Invest in Your Comfort and Professionalism Choose Medvance Scrub Suits for unbeatable comfort, durability, and functionality. Whether you are a nurse, doctor, or medical technician, these scrubs provide the reliability and professional appearance you need to excel in your role. Trust Medvance for high-quality scrubs that support you in delivering the best patient care. Order your Medvance Scrub Suits today and experience the ultimate in comfort and performance! - Surgismart
-  Updated: 2025-08-20T06:47:16Z
-  Vendor: Medvance Surgicals
-  Product Type: SCRUB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_46501d1a-e945-4a8d-a49c-3665487a12c5.jpg?v=1751478408
-  - [Round / S](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787801880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_46501d1a-e945-4a8d-a49c-3665487a12c5.jpg?v=1751478408
-    Price: ₹760.00 INR
-  - [Round / M](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787834648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_00cfbc9d-83d1-4bf5-9c01-fe1f079b2442.jpg?v=1751478408
-    Price: ₹760.00 INR
-  - [Round / L](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787867416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_4bcf5b82-58a9-45f6-b1aa-7760db49254f.jpg?v=1751478408
-    Price: ₹760.00 INR
-  - [Round / XL](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787900184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_ce5ec217-eb66-43d5-96bd-2f675938ddcb.jpg?v=1751478408
-    Price: ₹760.00 INR
-  - [Round / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787932952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_7f8c5220-0540-4f70-9a6c-1ef9522dd7fa.jpg?v=1751478409
-    Price: ₹760.00 INR
-  - [V-Neck / S](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787965720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_473f7ed5-595a-4b82-b5ea-972513cbb210.jpg?v=1751478409
-    Price: ₹760.00 INR
-  - [V-Neck / M](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377787998488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_82201742-4547-403b-ba63-d5a6cf608d87.jpg?v=1751478409
-    Price: ₹760.00 INR
-  - [V-Neck / L](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377788031256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_1a060dee-d574-4ffb-912a-e23ba1b0f174.jpg?v=1751478409
-    Price: ₹760.00 INR
-  - [V-Neck / XL](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377788064024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_a9e6ec54-08dd-48f5-a649-efd3ce5d931b.jpg?v=1751478409
-    Price: ₹760.00 INR
-  - [V-Neck / XXL](https://surgismart.in/products/medvance-classic-scrub-suit-green?variant=50377788096792)
-    Availability: Available
-    Price: ₹760.00 INR
-- [Buy ​Medvance Classic Scrub Suit, Sky Blue - Surgismart](https://surgismart.in/products/medvance-classic-scrub-skyblue): - Surgismart
-  Updated: 2025-08-23T11:16:59Z
-  Vendor: Medvance Surgicals
-  Product Type: SCRUB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_c8e2da4c-0be3-4871-b358-8af9f86f9ecc.jpg?v=1751478405
-  - [Round / S](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790423320)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_c8e2da4c-0be3-4871-b358-8af9f86f9ecc.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [Round / M](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790456088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_d0159f69-f263-4407-969c-ee7f6deec022.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [Round / L](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790488856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_e62cc888-1af2-4d64-be01-07f03cc72688.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [Round / XL](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790521624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_edd2d6a7-1a33-4a0f-acf3-399450e24d4d.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [Round / XXL](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790554392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_16591211-4da6-4376-b661-739ccac096a4.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [V-Neck / S](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790587160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_40122074-a731-4a02-9454-ccff068e64fb.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [V-Neck / M](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790619928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_b556c9b3-7885-4a3b-b3ce-514b05025405.jpg?v=1751478405
-    Price: ₹760.00 INR
-  - [V-Neck / L](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790652696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_4b9a9471-dcba-4bb7-826d-14dbeaf3998b.jpg?v=1751478406
-    Price: ₹760.00 INR
-  - [V-Neck / XL](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790685464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/8_fb70ae42-730b-432c-9272-e076090bef49.jpg?v=1751478406
-    Price: ₹760.00 INR
-  - [V-Neck / XXL](https://surgismart.in/products/medvance-classic-scrub-skyblue?variant=50377790718232)
-    Availability: Available
-    Price: ₹760.00 INR
 - [Buy ​Medvance Back rest - Surgismart](https://surgismart.in/products/medvance-back-rest): - Surgismart
   Updated: 2025-08-13T07:38:30Z
   Vendor: Medvance Surgicals
@@ -3210,7 +2890,7 @@
     Availability: Available
     Price: ₹1,686.00 INR
 - [Buy ​Sil Cath Silicon External Catheter - Surgismart](https://surgismart.in/products/romsons-sil-cath-silicon-external-catheter-30mm-large-pack-of-10): The Romsons Sil Cath Male External Catheter is made of 100% silicone material The soft silicone catheter is designed to be non-irritating, non-reactive and for soft and gentle feel Clear material enables visualization of drainage flow. Bio-compatible material reduces irritation for patient’s comfort and safety. The eyes are smooth and proportional to provide atraumatic insertion. Hard valve ensures easy inflation and deflation of balloon. Sterile, individually packed. Colour coded as per size. Box of 10/ Master Box of 500. It is ergonomically shaped and easily rolls over the penis The catheter is highly safe and free from any kind of allergic reactions Its proximal end is designed for safe and easy connection to urine bag/ leg bag The catheter is sterile and is ready to use Product Specifications: Brand Romsons Generic Name Male External Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 3 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265102724 License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-16T10:43:54Z
+  Updated: 2025-09-16T22:46:58Z
   Vendor: Romsons
   Product Type: Catheters
   Availability: Available
@@ -4263,7 +3943,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-16T11:16:29Z
+  Updated: 2025-09-17T06:02:45Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-16T10:37:21Z
@@ -4305,7 +3985,7 @@
   Updated: 2025-09-16T10:36:20Z
   Total Products: 7
 - [Buy ​Medvance - Surgismart](https://surgismart.in/collections/medvance): - Surgismart
-  Updated: 2025-09-16T11:16:29Z
+  Updated: 2025-09-17T06:02:53Z
   Total Products: 65
 - [Buy ​Medtech - Surgismart](https://surgismart.in/collections/medtech): - Surgismart
   Updated: 2025-08-01T11:05:29Z
