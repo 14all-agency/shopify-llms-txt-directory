@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-17T12:00:32.458Z
+- Updated At: 2025-09-17T20:00:32.294Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-09-16T22:11:21Z
+  Updated: 2025-09-17T14:19:46Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-17T00:35:44Z
+  Updated: 2025-09-17T19:59:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
