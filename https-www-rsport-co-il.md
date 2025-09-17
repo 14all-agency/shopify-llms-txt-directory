@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-17T00:00:54.211Z
+- Updated At: 2025-09-17T04:00:58.126Z
 
 ## Products
 
@@ -12698,7 +12698,7 @@
     Availability: Available
     Price: ‏249.90 ‏₪ ILS
 - [מכנסיי JUST DON אדום שחור מיאמי היט](https://www.rsport.co.il/products/מכנסיי-just-don-אדום-שחור-מיאמי-היט): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:40Z
+  Updated: 2025-09-17T02:58:48Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13805,7 +13805,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק יוטה ג'אז' | קולין סקסטון](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:15Z
+  Updated: 2025-09-17T01:33:27Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
