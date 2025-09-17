@@ -8,7 +8,7 @@
 - Contact Email: hello@apella.in
 - Contact Phone: +91 6230116927
 - Address: Red Apple Inn, NH 72, Bhatanwali, Paonta Sahib, Himachal Pradesh, India
-- Updated At: 2025-09-17T00:01:14.960Z
+- Updated At: 2025-09-17T04:01:19.245Z
 
 ## Products
 
@@ -295,7 +295,7 @@
   Updated: 2025-09-15T08:40:05Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Cotton Afghani Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-afghani-salwar): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T11:34:23Z
+  Updated: 2025-09-17T00:56:55Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Afghani Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-afghani-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-11T00:48:21Z
@@ -436,7 +436,7 @@
   Updated: 2025-09-10T09:10:11Z
   Price: ₹1,994.00 INR
 - [Buy Plus Size ​Cotton Churidar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-churidar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T11:36:05Z
+  Updated: 2025-09-17T00:53:19Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Off White Schiffli Cotton Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/schiffli-cotton-pant): Look Chic & Trendy for the day with this stylish Cotton pants featuring schiffli border at the hemline. The simple and precise work on the palazzo pant gives it a very subtle, classy feel. This smart pair of palazzos can be matched with your tops and tunics for a chic look. Material:- Cotton Waistband:- Fully Elasticated Pockets:- Double Side | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:14:08Z
@@ -1417,10 +1417,10 @@
   Updated: 2025-09-13T11:38:56Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Cotton Patiala Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-patiala-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T15:04:26Z
+  Updated: 2025-09-17T00:56:14Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Afghani Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-afghani-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T14:13:15Z
+  Updated: 2025-09-17T01:33:30Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Straight Cotton Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/straight-cotton-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-16T23:40:00Z
@@ -1432,7 +1432,7 @@
   Updated: 2025-09-12T17:18:50Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Cotton Easy Fit Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-easy-fit-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T11:33:19Z
+  Updated: 2025-09-17T00:24:04Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Black Raspberry Anarkali Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/black-raspberry-anarkali-kurta): Product Details- Black Anarkali Kurta made from Rayon fabric Features a solid pattern for a timeless look Round Neckline and 3/4th Quarter Sleeves | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:09:50Z
