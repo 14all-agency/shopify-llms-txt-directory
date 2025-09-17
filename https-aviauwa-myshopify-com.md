@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2025-08-14T23:44:00Z
 - Contact Email: nkemso22@gmail.com
-- Updated At: 2025-09-17T00:00:28.125Z
+- Updated At: 2025-09-17T04:00:28.092Z
 
 ## Products
 
@@ -1582,7 +1582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/MKds5yzJWRusmIg.webp?v=1758017445
     Price: $130.72 USD
 - [K56Pro Smart Watch for Men Heart Rate Blood Bluetooth Sport 400Mah Long Standby 1.39 Inch 360*360 HD Screen Outdoors Smartwatch](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch): Description Product parameters -System requirements: Android 4.4 and above, IOS 8.0 and above, supporting Bluetooth 5.0-Bluetooth version: BLE 5.0-Main control chip: Realtek8762DK-Memory: Flash 128MB-Screen resolution: 360 * 360-Heart rate: 3605-Horn: 0916-Battery capacity: 400mA-Standby time: about 30 days-Working time: around 5-10 days-Motor: Built in, vibration reminder-APP: Dafit Watch features -1.39 inch IPS screen-Detachable 22mm strap Standard -Multiple watch faces pushing,Customized watch faces-Bluetooth calling/BT music(Superior clear audio like sound effect),Weather-Heart rate detection/Blood pressure detection/Blood oxygen detection/Wole-day heart rate monitor-Timer ,Pedometer,Calorie Consumption,Distance Calculation,Heart rate,Blood pressure,Blood oxygen,Sleep time /quality,On & Off dispaly，Multiple sport modes-Sleep detection (Sleep time ,Sleep quality)-Calls to remind,SMS Reminder,Third-party messaging reminder Multilingual push,Clock alarm,Remote Camera，Sedentary reminder-400mAh big battery,super long standby time,Bright screen under sunshine Language Watch device language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian,Italian,PolishMessage push language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian, Italian,PolishAPP language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian, Italian,Polish Package includes Main unit, charger, wrist strap, instruction manual, packing box After receiving the watch, please charge it first. Due to the long-term logistics, the battery of the watch is low. Before using, please scan the QR code on the instruction manual to download the APP and connect the watch through the APP.
-  Updated: 2025-09-16T11:49:25Z
+  Updated: 2025-09-17T00:45:41Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
