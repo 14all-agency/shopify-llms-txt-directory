@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-16T12:00:28.533Z
+- Updated At: 2025-09-17T16:00:28.621Z
 
 ## Products
 
@@ -87,21 +87,21 @@
   Vendor: La forêt nous régale
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/5F79BB6B-1E8A-45A8-A98E-2247E5BB6725.jpg?v=1752071764
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/plant_de_chene_vert.jpg?v=1758052267
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
   Updated: 2025-09-15T22:38:12Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/3826EE8C-2945-4DAC-B112-38C84ACACF15.png?v=1753429832
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/sirop_epicea_bio_maison.png?v=1758052111
   Price: 9,90 € EUR
 - [Poudre de feuilles de figuier (Ficus carica) Bio - La forêt nous régale](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre): Poudre de feuilles de figuier bio de bretagne 100% naturelle, riche en bienfaits pour infusions, cuisine et bien-être. d'origine local garantie.
   Updated: 2025-09-15T12:07:31Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Capture_d_ecran_2025-09-14_a_20.17.59.png?v=1757874236
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Poudre_de_feuilles_figuier.png?v=1758051625
   - [100 gramme](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre?variant=55698418631000)
     Availability: Available
     Price: 9,50 € EUR
@@ -709,6 +709,15 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
     Updated: 2025-09-15T07:52:21Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, CNRS, forêt comestible, Forêt nourricière, Formation, L'INRAE, Pacific Planet
+  - [Les Secrets Méconnus des Arbres : 10 Faits Scientifiques Qui Vont Vous Étonner](https://www.laforetnousregale.fr/blogs/infos/les-secrets-meconnus-des-arbres-10-faits-scientifiques-qui-vont-vous-etonner): <p class="p1"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Bonjour à tous ! Si vous pensez que les arbres étaient de simples géants immobiles qui nous offrent de l'ombre et de l'oxygène, détrompez-vous. La science récente révèle une vie souterraine et aérienne fascinante pour ces organismes. Dans cet article, je vous embarque pour une plongée dans des découvertes peu connues, basées sur des études rigoureuses. Prêts à voir la forêt d'un œil nouveau ? Allons-y !</span></span></p>
+    Updated: 2025-09-16T15:48:44Z
+    Author: Équipe Pacific Planet
+    Tags: Arbre, biologique, Découvertes, Etude, forêt, L'INRAE, Organisme, original, Rigoureuses, Science
+  - [Champignons et organismes fongiformes : des révélations scientifiques surprenantes](https://www.laforetnousregale.fr/blogs/infos/champignons-et-organismes-fongiformes-des-revelations-scientifiques-surprenantes): <p class="p1"><b><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Les champignons appartiennent à un règne vivant distinct de celui des plantes et des animaux. Ils façonnent nos écosystèmes de manière insoupçonnée. Voici un aperçu de découvertes récentes qui changent notre regard sur elles.</span></span></b></p>
+<p class="p1"> </p>
+    Updated: 2025-09-17T08:40:44Z
+    Author: Équipe Pacific Planet
+    Tags: agroforesterie, alimentation durable, biologique, champignon, cueillette, Découvertes, environnement, Etude, forêt comestible, Forêt nourricière, nature
 
 ## Store Pages
 
