@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-17T12:00:47.814Z
+- Updated At: 2025-09-17T16:00:46.889Z
 
 ## Products
 
@@ -9674,7 +9674,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [TOSHI Swim Kids Onepiece Classic - Palm Cove](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-palm-cove-1): DETAILS UPF 50+ UV protection Chlorine safe, pool & salt water friendly Quality nylon fabrication for luxuriously soft hand feel Lightweight, fast drying & sun resistant Inner lining provides for modesty & comfort Enhanced elastic recovery Frilled shoulder straps for flattering styling Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-09-16T23:46:05Z
+  Updated: 2025-09-17T12:45:43Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -12703,7 +12703,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $67.00 NZD
 - [HUXBABY College Hux Blue Stripe Romper - Blue](https://www.littlebambinos.co.nz/products/huxbaby-college-hux-blue-stripe-romper-blue): A marshmallow-soft striped romper with fun and furry Huxbear embroidery. Consciously crafted from premium organic cotton, it has stainless steel snaps at the shoulder and crotch for super snappy dressing. Just add squishy legs.
-  Updated: 2025-08-06T22:36:50Z
+  Updated: 2025-09-17T13:20:22Z
   Vendor: HUXBABY
   Product Type: Romper
   Availability: Available
@@ -15728,7 +15728,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-17T11:43:12Z
+  Updated: 2025-09-17T15:43:13Z
   Total Products: 394
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16580,7 +16580,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-17T11:43:12Z
+  Updated: 2025-09-17T15:43:13Z
   Total Products: 1261
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-15T22:49:30Z
