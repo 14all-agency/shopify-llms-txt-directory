@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-16T20:00:29.614Z
+- Updated At: 2025-09-17T16:00:29.415Z
 
 ## Products
 
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/1121bc08b18d706a6a3b2ff4d2845873.jpg?v=1747068133
     Price: €20.00 EUR
 - [Elegant Outfits Made Easy with the Classic Chic Shirt](https://lenoirandcollective.com/products/classic-chic-shirt): Elegant Outfits Made Easy with the Classic Chic Shirt Discover the perfect blend of elegance and comfort with the Classic Chic Shirt.
-  Updated: 2025-09-09T05:50:05Z
+  Updated: 2025-09-17T11:01:25Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -231,19 +231,19 @@
   - [Sandy Brown / Xs](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433577805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
-    Price: €37.44 EUR
+    Price: €22.00 EUR
   - [Sandy Brown / S](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433610573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
-    Price: €37.44 EUR
+    Price: €22.00 EUR
   - [Sandy Brown / M](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433643341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
-    Price: €37.44 EUR
+    Price: €22.00 EUR
   - [Sandy Brown / L](https://lenoirandcollective.com/products/classic-chic-shirt?variant=51645433676109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
-    Price: €37.44 EUR
+    Price: €22.00 EUR
 - [Vavabold Ruched Mock Neck Tee – Stylish and Comfortable](https://lenoirandcollective.com/products/vavabold-ruched-mock-neck-tee): Vavabold Ruched Mock Neck Tee offers a chic, ruched design combined with comfort for everyday wear. Perfect for layering or wearing on its own for a modern look
   Updated: 2025-09-07T19:45:09Z
   Vendor: Le noir & collective
@@ -432,87 +432,87 @@
     Availability: Available
     Price: €32.45 EUR
 - [Turtleneck Sweater Women Fashion – 2024 New Stretch Knitted](https://lenoirandcollective.com/products/turtleneck-sweater-women-fashion-2024-new-stretch-tops-women-knitted-pullovers-long-sleeve-bottoming-knitted-sweater): Turtleneck Sweater Women Fashion offers 2024’s latest stretch knitted pullovers. Long sleeve and bottoming sweater perfect for layering and winter warmth
-  Updated: 2025-09-15T20:55:04Z
+  Updated: 2025-09-17T11:00:53Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
-  Price: €31.80 EUR
+  Price: €21.00 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-15T09:23:04Z
+  Updated: 2025-09-17T10:59:44Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/2db1bd6fa02d1d14f5f9c5605fc60e4d.jpg?v=1751481318
   - [Grey / S](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648736002381)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Grey / M](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735510861)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Grey / L](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735543629)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Grey / Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735576397)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Grey / 2Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735609165)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Khaki / S](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735641933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/6697a7ad10f839b9f326b6dfa2e36fc2.jpg?v=1751481320
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Khaki / M](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735674701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/6697a7ad10f839b9f326b6dfa2e36fc2.jpg?v=1751481320
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Khaki / L](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735707469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/6697a7ad10f839b9f326b6dfa2e36fc2.jpg?v=1751481320
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Khaki / Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735740237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/6697a7ad10f839b9f326b6dfa2e36fc2.jpg?v=1751481320
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Khaki / 2Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648736133453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/6697a7ad10f839b9f326b6dfa2e36fc2.jpg?v=1751481320
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Black / S](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648736035149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/b8a2cc857e94d373b9dfd111a7e4aa27.jpg?v=1751481323
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Black / M](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648736067917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/b8a2cc857e94d373b9dfd111a7e4aa27.jpg?v=1751481323
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Black / L](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648736100685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/b8a2cc857e94d373b9dfd111a7e4aa27.jpg?v=1751481323
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Black / Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735773005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/b8a2cc857e94d373b9dfd111a7e4aa27.jpg?v=1751481323
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [Black / 2Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735805773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/b8a2cc857e94d373b9dfd111a7e4aa27.jpg?v=1751481323
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [White / S](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735838541)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [White / M](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735871309)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [White / L](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735904077)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [White / Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735936845)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
   - [White / 2Xl](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business?variant=51648735969613)
     Availability: Available
-    Price: €26.72 EUR
+    Price: €18.00 EUR
 - [2024 Women's Cashmere Pants – High Waist Knitted Warm](https://lenoirandcollective.com/products/2024-womens-cashmere-pants-sports-pants-womens-autumn-and-winter-high-waist-drawstring-warm-pants-knitted-cashmere-warm-pants): 2024 Women's Cashmere Pants offer soft, knitted comfort with a high waist and drawstring design. These warm sports pants are perfect
   Updated: 2025-09-07T14:46:01Z
   Vendor: Le noir & collective
@@ -664,7 +664,7 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 12
 - [Elegant Women Collection | Old Money Style](https://lenoirandcollective.com/collections/woman-outfit-1): Explore our Elegant Women Collection, inspired by timeless old money style. Perfect pieces to elevate your wardrobe.
-  Updated: 2025-09-11T13:43:53Z
+  Updated: 2025-09-17T11:01:26Z
   Total Products: 17
 - [Elegant Woman Bags Collection - Old Money Style](https://lenoirandcollective.com/collections/woman-outfit-2): Explore our elegant collection of woman bags inspired by old money sophistication.
   Updated: 2025-09-07T11:21:41Z
@@ -676,7 +676,7 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 8
 - [SUMMER COLLECTION](https://lenoirandcollective.com/collections/summer-collection): Summer collection for woman and men with stylish accessories
-  Updated: 2025-09-11T13:43:35Z
+  Updated: 2025-09-17T10:59:45Z
   Total Products: 5
 - [Elegant Men's Perfume Collection | Old Money Essence](https://lenoirandcollective.com/collections/mens-perfume): Discover our elegant men's perfume collection, embodying the essence of old money sophistication and luxury.
   Updated: 2025-09-07T11:21:41Z
@@ -688,10 +688,10 @@
   Updated: 2025-09-07T11:21:41Z
   Total Products: 6
 - [Small Collection 2](https://lenoirandcollective.com/collections/small-collection-2)
-  Updated: 2025-09-08T17:04:40Z
+  Updated: 2025-09-17T11:01:26Z
   Total Products: 13
 - [Featured Collection](https://lenoirandcollective.com/collections/featured-collection-skkzk)
-  Updated: 2025-09-11T13:43:53Z
+  Updated: 2025-09-17T11:01:26Z
   Total Products: 3
 
 ## Blogs
