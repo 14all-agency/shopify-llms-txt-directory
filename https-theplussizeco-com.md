@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-17T04:00:29.043Z
+- Updated At: 2025-09-17T16:00:29.443Z
 
 ## Products
 
@@ -84,11 +84,11 @@
     Availability: Available
     Price: ₹1,194.00 INR
 - [Plus Size Violet Printed Straight Cut Afghani Suit- The Plus Size Co.](https://theplussizeco.com/products/violet-printed-straight-cut-afghani-suit)
-  Updated: 2025-09-06T10:24:50Z
+  Updated: 2025-09-17T05:12:10Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_85.png?v=1756977877
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_cd1c7c2c-41d0-4fe4-bbd6-0a5773250854.png?v=1758085930
   Price: ₹1,294.00 INR
 - [Plus Size Yellow Floral Cotton Straight Cut Salwar Suit- The Plus Size Co.](https://theplussizeco.com/products/yellow-floral-cotton-straight-cut-salwar-suit)
   Updated: 2025-09-13T01:35:28Z
@@ -136,15 +136,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Mulberry_Wine_Floral_Night_Gown_6.jpg?v=1755846818
   Price: ₹794.00 INR
-- [Plus Size Mustard Floral Rayon Night Gown With Pocket-The Plus SizeCo.](https://theplussizeco.com/products/mustard-floral-rayon-night-gown)
-  Updated: 2025-09-13T07:22:54Z
-  Vendor: The Plus Size Co.
-  Product Type: Night Gowns
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_25_91ff2da7-d54a-466c-83df-770f8c2f666c.png?v=1757677530
-  Price: ₹795.00 INR
 - [Plus Size Peacock Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/peacock-floral-rayon-night-gown): Every night feels cozy with our Peacock Floral Rayon Night Gown With Pocket. Features rayon fabric and half sleeves. Sizes in XL to 10XL.
-  Updated: 2025-09-13T05:04:49Z
+  Updated: 2025-09-17T13:51:51Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
@@ -643,6 +636,13 @@
   - [6XL / 7XL](https://theplussizeco.com/products/wine-floral-printed-cotton-suit-set?variant=44686201585717)
     Availability: Available
     Price: ₹1,295.00 INR
+- [Maroon Floral Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/maroon-floral-printed-cotton-suit-set): Embrace everyday elegance with our Maroon Floral Printed Cotton Suit Set. Features cotton fabric and V cut neckline. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-09-17T04:53:52Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOnionFloralCottonSuitSet_11.png?v=1755378080
+  Price: ₹1,295.00 INR
 - [Plus Size Starry White Co-ord Set with Pockets-The Plus Size Co](https://theplussizeco.com/products/starry-white-co-ord-set-with-pockets): Effortless charm meets comfort with our Starry White Co-ord Set with Pockets. Features polyester fabric and 3/4th sleeves. Sizes in XL to 10XL.
   Updated: 2025-09-06T04:45:56Z
   Vendor: The Plus Size Co.
