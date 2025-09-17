@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-17T08:00:30.877Z
+- Updated At: 2025-09-17T12:00:31.429Z
 
 ## Products
 
@@ -3916,7 +3916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
     Price: ₹649.00 INR
 - [Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-08-13T07:36:46Z
+  Updated: 2025-09-17T11:15:49Z
   Vendor: Surgismart
   Product Type: Lab Coat
   Availability: Available
@@ -3943,7 +3943,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-17T06:02:45Z
+  Updated: 2025-09-17T11:15:46Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-16T10:37:21Z
@@ -3985,7 +3985,7 @@
   Updated: 2025-09-16T10:36:20Z
   Total Products: 7
 - [Buy ​Medvance - Surgismart](https://surgismart.in/collections/medvance): - Surgismart
-  Updated: 2025-09-17T06:02:53Z
+  Updated: 2025-09-17T11:15:46Z
   Total Products: 65
 - [Buy ​Medtech - Surgismart](https://surgismart.in/collections/medtech): - Surgismart
   Updated: 2025-08-01T11:05:29Z
