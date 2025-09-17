@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-16T20:00:33.170Z
+- Updated At: 2025-09-17T00:00:33.875Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-09-16T00:42:43Z
+  Updated: 2025-09-16T22:11:21Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-09-16T00:42:44Z
+  Updated: 2025-09-16T21:52:26Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-16T00:42:44Z
+  Updated: 2025-09-16T21:15:12Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -4607,7 +4607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/QUINCY-BLUSH.jpg?v=1757517987
     Price: $1.00 USD
 - [FIESTA Striped Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Arts and Crafts](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:42:59Z
+  Updated: 2025-09-16T20:05:58Z
   Vendor: Fabrics Star
   Product Type: Striped Sequin Fabric
   Availability: Available
@@ -4615,7 +4615,7 @@
   - [Black/Gold / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539065625)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-BLACK-GOLD-05.jpg?v=1757518007
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Black/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539032857)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-BLACK-GOLD-05.jpg?v=1757518007
@@ -4623,7 +4623,7 @@
   - [Black/White / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539131161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-BLACK-WHITE-01.jpg?v=1757518008
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Black/White / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539098393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-BLACK-WHITE-01.jpg?v=1757518008
@@ -4631,7 +4631,7 @@
   - [Gold/Ivory / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539196697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-GOLD-IVORY-4.jpg?v=1757518010
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Gold/Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539163929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-GOLD-IVORY-4.jpg?v=1757518010
@@ -4639,7 +4639,7 @@
   - [Gold/Silver / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539262233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-GOLD-SILVER-6.jpg?v=1757518012
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Gold/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539229465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-GOLD-SILVER-6.jpg?v=1757518012
@@ -4647,7 +4647,7 @@
   - [Red/Silver / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539327769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-RED-SILVER.jpg?v=1757518013
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Red/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539295001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-RED-SILVER.jpg?v=1757518013
@@ -4655,7 +4655,7 @@
   - [Red/White / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539393305)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-RED-WHITE.jpg?v=1757518015
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Red/White / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539360537)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-RED-WHITE.jpg?v=1757518015
@@ -4663,7 +4663,7 @@
   - [Silver/White / Cut by the Yard](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539458841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-SILVER-WHITE-3.jpg?v=1757518017
-    Price: $26.40 USD
+    Price: $17.60 USD
   - [Silver/White / Sample 3x3 Inch](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor?variant=49882539426073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-SILVER-WHITE-3.jpg?v=1757518017
