@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-17T20:00:34.668Z
+- Updated At: 2025-09-18T00:00:34.470Z
 
 ## Products
 
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Bin-White-Natural-3.png?v=1727659446
   Price: $47.99 NZD
 - [Brabantia SinkSide Silicone Dish Drying Mat - Dark Grey](https://everydayhome.co.nz/products/silicone-dish-drying-mat-44-x-32cm-dark-grey): Silicone Dish Drying Mat, 44 X 32Cm, Dark Grey
-  Updated: 2025-09-08T23:09:30Z
+  Updated: 2025-09-17T22:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -389,14 +389,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-60L-Platinum-3.jpg?v=1727659714
   Price: $419.99 NZD
 - [Brabantia Renew Soap Dispenser - Dark Grey](https://everydayhome.co.nz/products/soap-dispenser-dark-grey): Soap Dispenser, Dark Grey
-  Updated: 2025-09-08T22:41:07Z
+  Updated: 2025-09-17T23:10:25Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Soap-Dispenser-Dark-Grey-7.jpg?v=1727660277
   Price: $41.99 NZD
 - [Brabantia Renew Soap Dispenser - White](https://everydayhome.co.nz/products/soap-dispenser-white): Soap Dispenser, White
-  Updated: 2025-09-08T22:41:06Z
+  Updated: 2025-09-17T23:10:24Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -1348,7 +1348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Ironing-Board-B-Spring-Bubbles-3.png?v=1727658927
   Price: $174.99 NZD
 - [Brabantia Ironing Board B - Denim Black](https://everydayhome.co.nz/products/ironing-board-b-124x38cm-sir-22mm-black-frame-denim-black): Sturdy, stable and designed for easy ironing - this standard Brabantia Ironing Board B is setting the standards. It has a steam iron rest that is suitable for left and righthanded use, a sturdy and stable frame and more. Check out all those other nifty features that make this board great value for great ironing.
-  Updated: 2025-09-08T23:09:53Z
+  Updated: 2025-09-17T22:45:36Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1509,54 +1509,26 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chairs-Grey-Set-of-4-1_a576cdf5-35c3-4bee-aa31-337385321e91.jpg?v=1731547593
   Price: $399.99 NZD
 - [Anolon X SearTech - 10 Piece Cookware Set](https://everydayhome.co.nz/products/ano-x-s-tech-ns-10pc-cookware-set): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 10 piece cookware set features an ultra-durable, PFOA-free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet. Metal utensil safe, oven safe to 260°C degrees for the perfect finish, and dishwasher safe for the easiest cleanup.
-  Updated: 2025-09-17T04:20:34Z
+  Updated: 2025-09-17T22:07:10Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-10-Piece-Cookware-Set-Anolon-2.jpg?v=1731902137
   Price: $479.99 NZD
 - [Anolon X SearTech - 18Cm/2.8L Covered Saucepan](https://everydayhome.co.nz/products/ano-x-s-tech-ns-18cm-2-8l-cov-saucepan): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 18cm/2.8L covered saucepan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T04:20:33Z
+  Updated: 2025-09-17T22:07:11Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-18Cm-2-8L-Covered-Saucepan-Anolo-8.jpg?v=1731902164
   Price: $89.99 NZD
 - [Anolon X SearTech - 20Cm/2.4L Saucier](https://everydayhome.co.nz/products/ano-x-s-tech-ns-20cm-2-4l-saucier): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 20cm/2.4L covered saucier features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T04:20:33Z
+  Updated: 2025-09-17T22:07:11Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-20Cm-2-4L-Saucier-Anolon-8.jpg?v=1731902727
   Price: $89.99 NZD
-- [Anolon X SearTech - 21cm Open French Skillet](https://everydayhome.co.nz/products/ano-x-s-tech-ns-21cm-open-french-skillet): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 21cm frying pan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T04:20:33Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-21cm-Open-French-Skillet-Anolon-9.jpg?v=1731901879
-  Price: $49.99 NZD
-- [Anolon X SearTech - 24Cm/3.8L Covered Casserole](https://everydayhome.co.nz/products/ano-x-s-tech-ns-24cm-3-8l-cov-casserole): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 24cm/3.8L covered casserole features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T04:20:32Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-24Cm-3-8L-Covered-Casserole-Anol-8.jpg?v=1731902442
-  Price: $89.99 NZD
-- [Anolon X SearTech - 25cm Covered Stirfry](https://everydayhome.co.nz/products/ano-x-s-tech-ns-25cm-covered-stirfry): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 25cm covered stirfry features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T04:20:32Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-25cm-Covered-Stirfry-Anolon-7.jpg?v=1731902040
-  Price: $89.99 NZD
-- [Anolon X SearTech - 25cm Open French Skillet](https://everydayhome.co.nz/products/ano-x-s-tech-ns-25cm-open-french-skillet): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 25cm frying pan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T04:20:31Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-25cm-Open-French-Skillet-Anolon-1.jpg?v=1731902300
-  Price: $69.99 NZD
 - [Anolon Accessories - Large Roaster](https://everydayhome.co.nz/products/anolon-accessories-large-roaster-38-x-28-x-6cm): Awaken your inner chef with the heavy duty cast aluminium Anolon non-stick roaster. Featuring premium quality non-stick and a cast aluminium construction, this roaster offers exceptional durability and performance to ensure you get the best results in the kitchen. This large roaster offers a generous size to fit larger cuts of meat with plenty of room for vegetables, or to do a full tray of roast vegetables.
   Updated: 2025-09-09T23:07:20Z
   Vendor: Anolon
@@ -3224,7 +3196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileOrganiserforGadgets-MattSteel-8710755313066Brabantia_96dpi_1000x1000px_7_NR-1865.png?v=1733872346
   Price: $58.99 NZD
 - [Brabantia Ironing Board Cover B - Metallised Silver](https://everydayhome.co.nz/products/ironing-board-cover-b-124x38cm-2mm-foam-metallized-silver): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable and practical - a real top layer for your Brabantia Ironing Board B. Enjoy!
-  Updated: 2025-09-08T23:10:04Z
+  Updated: 2025-09-17T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3280,7 +3252,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-JadeGreen-8710755203527Brabantia_96dpi_1000x1000px_7_NR-27967.png?v=1734400434
   Price: $17.99 NZD
 - [Brabantia Make & Take Bento Box - Large Light Grey](https://everydayhome.co.nz/products/make-take-bento-box-large-light-grey): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-13T00:46:18Z
+  Updated: 2025-09-17T23:10:20Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3322,7 +3294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-DarkGrey-8710755202520Brabantia_96dpi_1000x1000px_7_NR-27884.png?v=1734401760
   Price: $9.99 NZD
 - [Brabantia Make & Take Lunch Box - Medium Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-13T22:59:01Z
+  Updated: 2025-09-17T23:10:26Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3350,7 +3322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerSqueegee-White-8710755280184Brabantia_300dpi_4303x6455px_6_NR-20021_96dpi_1000x1000px_7_NR-22285.png?v=1734479270
   Price: $35.99 NZD
 - [Brabantia Universal Replacement Clotheslines - 65m Grey](https://everydayhome.co.nz/products/universal-replacement-clotheslines-65m-grey): Extend the life of your rotary dryer with this Brabantia replacement line. Just follow the step-by-step instructions and your rotary dryer will be like new again. Double green drying!
-  Updated: 2025-09-08T23:09:57Z
+  Updated: 2025-09-17T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3420,14 +3392,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/StackableGlassJar_1.1L-Transparent-8710755298264Brabantia_96dpi_1000x1000px_7_NR-1813.png?v=1734562896
   Price: $26.99 NZD
 - [Brabantia Protective Clothes Cover - Large Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-lge-trans-gry): Looking for a good-looking solution to keep your coat or dress looking good? Then this set of two 60 x 135 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size L protect your clothes from dust and moths.
-  Updated: 2025-09-08T23:10:10Z
+  Updated: 2025-09-17T23:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_L_setof2-Transparent-8710755148941Brabantia_96dpi_1000x1000px_7_NR-26291.png?v=1733802901
   Price: $23.99 NZD
 - [Brabantia Ground Spike Metal - 45mm Silver](https://everydayhome.co.nz/products/metal-soil-spear-45mm-silver): Keep your Brabantia rotary dryer in place with this smart metal ground spike – for anyone that wants sturdy anchorage without concrete. The spike has a closable cap and is made of galvanised steel plate, so corrosion resistant too.
-  Updated: 2025-09-08T23:10:07Z
+  Updated: 2025-09-17T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3448,7 +3420,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_M_setof2-Transparent-8710755148927Brabantia_96dpi_1000x1000px_7_NR-26289.png?v=1733862217
   Price: $20.99 NZD
 - [Brabantia Concrete Tube Plastic - 45mm Black](https://everydayhome.co.nz/products/concrete-plastic-tube-45mm-black): Keep your Brabantia rotary dryer where it belongs with this matching concrete tube. The handy plastic tube has a closable cap, so placing it in concrete is not only a breeze; you won’t have any obstacles in your garden either.
-  Updated: 2025-09-15T21:52:11Z
+  Updated: 2025-09-17T22:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3700,7 +3672,7 @@
     Availability: Available
     Price: $61.99 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-09-12T08:42:46Z
+  Updated: 2025-09-17T22:52:11Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
