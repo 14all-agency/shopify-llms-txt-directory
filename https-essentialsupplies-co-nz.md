@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-17T20:00:37.894Z
+- Updated At: 2025-09-18T00:00:38.971Z
 
 ## Products
 
@@ -3553,7 +3553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/luxury-tad-interfold-paper-towel-white-230mm-x-230mm-1-ply-fsc-mix-3000-sheets-folded-paper-towels-essential-supplies-420045.jpg?v=1719445435
   Price: $74.00 NZD
 - [Half Slimfold Towel Dispenser - White, 400 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/half-slimfold-towel-dispenser-white-400-sheet-capacity-1): Half slimfold paper towel dispensers are ideal for small hands and compact spaces where full sized towel dispensers are not suitable. The quick fill dispenser features a viewing window for easy refilling and a 400 sheet capacity. Available in three colour finishes.
-  Updated: 2025-09-17T01:35:26Z
+  Updated: 2025-09-17T20:06:28Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
