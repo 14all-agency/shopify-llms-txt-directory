@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-17T20:00:30.811Z
+- Updated At: 2025-09-18T12:00:31.622Z
 
 ## Products
 
@@ -3776,7 +3776,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GUNMASSAGERGMV4mainInfrograph.jpg?v=1751477950
   Price: ₹2,699.00 INR
 - [Buy ​Medtech Automatic Digital BP Machine Blood Pressure Monitor BP18 - Surgismart](https://surgismart.in/products/medtech-automatic-digital-bp-machine-blood-pressure-monitor-bp18): The Medtech Blood Pressure Monitor BP18 is the best blood pressure monitor that every household should have for monitoring their family's heart health. The highly accurate and quick reading device helps you monitor your blood pressure and pulse levels conveniently in the comfort of your home. It is the best blood pressure for home use. Pulse measurement accuracy: Fast and reliable, results can be obtained within seconds and avoid inaccurate results. Large Screen: The large LCD helps customers easily read the numbers on the screen. USB Cable Power Support: No need to worry if the batteries die. You can always use the Medtech Blood Pressure Monitor with a Micro-USB cable. Memory Function to store readings: The BP monitor also has a memory function that helps you to store 90 readings for two members each! Made In India: All Medtech Blood Pressure Monitors are made by us in India giving us the expertise in providing the best quality products and services to our customers Live Hassle-Free and Live-Healthy with the Medtech Blood Pressure Monitors! Stay on top of your health with the automatic digital best blood pressure monitor from Medtech.Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:51Z
+  Updated: 2025-09-18T00:27:45Z
   Vendor: Medtechlife
   Product Type: B. P. Monitor
   Availability: Available
@@ -3943,7 +3943,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-17T11:15:46Z
+  Updated: 2025-09-18T11:16:05Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-16T10:37:21Z
