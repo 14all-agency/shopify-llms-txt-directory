@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-18T04:00:37.594Z
+- Updated At: 2025-09-18T08:00:39.010Z
 
 ## Products
 
@@ -3070,7 +3070,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/manual-dishwashing-liquid-yellow-5l-refill-bottle-kitchen-care-essential-supplies-469497.jpg?v=1719445338
   Price: $68.00 NZD
 - [Flat Tissue Dispenser - White, 100 Sheet Capacity - 1 Dispenser - *Wall Mountable](https://essentialsupplies.co.nz/products/flat-tissue-dispenser-white-100-sheet-capacity-1-wall-mountable): This flat facial tissue dispenser is a professional, tidy way to dispense tissues.Great for use in the office, classroom, meeting rooms, reception areas, washrooms and more.Dispenser has a flat 100 sheet capacity. These dispensers offer a crisp, clean and professional appearance to complement your space. The dispenser has a complete lid and base with screw holes for wall mounting. Hygienic tissue dispensing Dispenser has a flat 100 sheet capacity Dispenser has a complete lid and base with screw holes for wall mounting Colour: White
-  Updated: 2025-01-19T16:30:29Z
+  Updated: 2025-09-18T07:08:46Z
   Vendor: Mattews Packaging
   Product Type: Facial Tissue Dispensers
   Availability: Available
