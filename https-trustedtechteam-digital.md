@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-17T12:00:30.617Z
+- Updated At: 2025-09-18T04:00:29.816Z
 
 ## Products
 
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-microsoft-office-2021-home-and-business-license-retail-box-front-gold-partner-badge-on-desk.webp?v=1756804712
   Price: $19.99 USD
 - [Windows 11 Home to Pro Upgrade - Seamless Pro Features | TrustedTech](https://trustedtechteam.digital/products/windows-11-home-to-pro-upgrade): TrustedTech: Microsoft Windows 11 Home to Pro upgrade for a seamless, secure transition—unlock BitLocker, Remote Desktop, security and business features.
-  Updated: 2025-09-02T21:47:49Z
+  Updated: 2025-09-17T14:56:12Z
   Vendor: microsoft
   Product Type: software
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-sql-server-2019-license-standard-edition-box.webp?v=1756967571
   Price: $75.00 USD
 - [Microsoft Office 2024 Professional Plus - ESD for Windows 10 & 11 | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-professional-plus-esd-1-pc-license): Get Microsoft Office 2024 Professional Plus at TrustedTech! Enjoy powerful tools for productivity with a 1 PC License for Windows 10 & 11.
-  Updated: 2025-09-04T18:33:07Z
+  Updated: 2025-09-17T14:52:16Z
   Vendor: Microsoft
   Product Type: 
   Availability: Available
