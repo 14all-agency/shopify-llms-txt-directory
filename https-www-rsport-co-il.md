@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-18T08:00:55.346Z
+- Updated At: 2025-09-18T12:00:55.712Z
 
 ## Products
 
@@ -10712,7 +10712,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק לבנה City edition | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-לבנה-city-edition-קווין-דוראנט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:24Z
+  Updated: 2025-09-18T09:38:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -45378,7 +45378,7 @@
   Updated: 2025-09-15T11:16:47Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-17T11:19:06Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 922
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-16T11:18:26Z
@@ -45426,7 +45426,7 @@
   Updated: 2025-09-15T22:57:00Z
   Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
-  Updated: 2025-09-16T11:18:26Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 105
 - [אתלטיקו מדריד](https://www.rsport.co.il/collections/אתלטיקו-מדריד): חולצת אתלטיקו מדריד היא הרבה יותר מפריט לבוש זו הצהרת אהבה לקבוצה אדומה-לבנה עם אופי לוחמני ומסורת מרגשת. בקטגוריה הזו תמצאו מגוון רחב של חולצות אתלטיקו מדריד לגברים, נשים וילדים, לצד חליפות כדורגל, בגדי אימון ואביזרים שישלימו את ההופעה שלכם כאוהדים אמיתיים. כל הפריטים עשויים מחומרים איכותיים ומעוצבים בהשראת הקבוצה מהוונדה מטרופוליטנו כדי שתוכלו להתחבר לרוח של אתלטיקו, בכל מקום.
   Updated: 2025-09-15T12:46:21Z
@@ -45462,7 +45462,7 @@
   Updated: 2025-09-16T11:18:26Z
   Total Products: 204
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-09-16T11:18:26Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 150
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
   Updated: 2025-08-26T11:18:22Z
@@ -45474,7 +45474,7 @@
   Updated: 2025-08-26T11:18:22Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
-  Updated: 2025-09-16T11:18:26Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 60
 - [לידס יונייטד](https://www.rsport.co.il/collections/לידס-יונייטד)
   Updated: 2025-08-20T11:19:50Z
@@ -45540,7 +45540,7 @@
   Updated: 2025-08-05T22:10:27Z
   Total Products: 4
 - [מקסיקו](https://www.rsport.co.il/collections/מקסיקו)
-  Updated: 2025-08-05T22:10:27Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 7
 - [צ'ילה](https://www.rsport.co.il/collections/צילה)
   Updated: 2025-08-05T22:10:28Z
@@ -45675,7 +45675,7 @@
   Updated: 2025-08-19T11:17:24Z
   Total Products: 10
 - [מעילי חורף](https://www.rsport.co.il/collections/מעילי-חורף)
-  Updated: 2025-09-02T11:19:03Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 24
 - [אימוניות ילדים](https://www.rsport.co.il/collections/אימוניות-ילדים)
   Updated: 2025-08-05T22:10:31Z
@@ -45774,7 +45774,7 @@
   Updated: 2025-08-05T22:10:34Z
   Total Products: 41
 - [חולצות טי שירט](https://www.rsport.co.il/collections/חולצות-טי-שירט)
-  Updated: 2025-09-07T11:18:57Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 20
 - [נבחרת אורוגוואי](https://www.rsport.co.il/collections/נבחרת-אורוגוואי)
   Updated: 2025-08-05T22:10:34Z
@@ -45846,7 +45846,7 @@
   Updated: 2025-08-05T22:10:36Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-17T11:19:06Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 2030
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-08-05T22:10:36Z
@@ -46017,7 +46017,7 @@
   Updated: 2025-08-05T22:10:40Z
   Total Products: 5
 - [LifeStyle](https://www.rsport.co.il/collections/lifestyle)
-  Updated: 2025-09-07T11:18:57Z
+  Updated: 2025-09-18T11:18:35Z
   Total Products: 23
 - [יורו נשים 2025](https://www.rsport.co.il/collections/יורו-נשים-2025)
   Updated: 2025-08-26T11:18:22Z
