@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-18T12:02:33.069Z
+- Updated At: 2025-09-18T16:02:21.472Z
 
 ## Products
 
@@ -539,7 +539,7 @@
   Updated: 2025-09-11T20:30:17Z
   Price: $48.68 USD
 - [Pink Smocked Cuffed Striped Boyfriend Shirt with Pocket - Fashionqueene.com](https://fashionqueene.com/products/pink-smocked-cuffed-striped-boyfriend-shirt-with-pocket): Size Chart (INCH) Sizes Bust Sleeve Length Length Hem Width Relax Relax Relax Relax XS 39.0 27.6 28.3 43.3 S 40.9 28.1 29.1 45.3 M 42.9 28.7 29.9 47.2 L 44.9 29.3 30.7 49.2 XL 48.0 30.2 31.5 52.4 2XL 51.2 31.1 32.3 55.5 XXL 51.2 31.1 32.3 55.5 Elasticity None Size Chart (CM) Sizes Bust Sleeve Length Length Hem Width Relax Relax Relax Relax XS 99 70 72 110 S 104 71.5 74 115 M 109 73 76 120 L 114 74.5 78 125 XL 122 76.8 80 133 2XL 130 79.1 82 141 XXL 130 79.1 82 141 Elasticity None This oversize fit is sure to make the wearer feel slender and fashionable Turn-down collar, long sleeves with smocked cuffs, bust pocket and front button closures Perfect to wear daily or as a beach cover-up matching with a bikini You can also wholesale pants to complete the look - Fashionqueene.com
-  Updated: 2025-09-16T09:22:41Z
+  Updated: 2025-09-18T13:23:10Z
   Price: $28.50 USD
 - [Cotton Linen Shirt Long Sleeve Women Spring Summer Clothing Solid Button Back Ruffled Trim Blouse Casual T Shirt Women Pack - Fashionqueene.com](https://fashionqueene.com/products/cotton-linen-shirt-long-sleeve-women-spring-summer-clothing-solid-button-back-ruffled-trim-blouse-casual-t-shirt-women-pack): This Cotton Linen Shirt is perfect for the warmer seasons, providing a breathable and comfortable option for everyday wear. The long sleeves offer added coverage and the ruffled trim adds a touch of femininity. The button back detail adds a stylish twist to this classic blouse. Enjoy this pack of versatile and easy-to-style t-shirts. SPECIFICATIONS Brand Name: NoEnName_Null Style: Casual Elasticity: High Strecth Origin: Mainland China Season: All season Fabric Type: Broadcloth Material: POLYESTER Pattern Type: Print Fit Type: Regulai Fit Age: MIDDLE AGE Thickness: midweight Clothing Length: regular Decoration: none Shirts Type: Casual Shirts Place Of Origin: China (mainland) Dress Patterns: Pullover Fabric content: 81% (inclusive) - 90% (inclusive) Collar: Turtleneck Sleeve Style: regular Model Number: 1 Material Composition: synthetic fiber Sleeve Length(cm): Full Combination Form: Single-piece Set Gender: WOMEN Craft of Weaving: Knit Release Date: Autumn 2022 Clothing Patterns: STRAIGHT Women Spring Summer Clothing Solid Button Back Ruffled Trim Blouse Casual Short Sleeve Blouse Features: Cotton Short Sleeve Shirts with sleeve tabs is a fashion style and a must-have item in everyone's wardrobe, make you look slim and refreshed. VERSATILE - Easy to with jeans or skirt for an style. You can also wear it as a bikini over-up on beach. It will be on call all Spring, Summer and Autumn, or paired with a cardigan for the chilly days. Laundry Wash Care: HAND WASH OR MACHINE WASH ON A LOW TEMPERATURE(cold or lukewarm) with a mild and using the delicate cycle as our shirts are made of cotton which will shrink when subjected to high heat. To shrinking, you should use appropriate protocols, i.e., cold water, delicate wash cycles, and low dryer settings. Whether it is leisure, office, school, vacation, beach, party, it can be a perfect . Due to the different resolution of the computer ,there may be some color difference. Product Description: Season: All Gender: Women Material: Cotton Decoration: None Sleeve Length: Short Sleeve Pattern Type: Solid Style: Fashion, Casual Size Bust Sleeve Front Length Back Length S 102cm/40.16'' 24.5cm/9.65'' 62cm/24.41'' 78cm/30.71'' M 108cm/42.52'' 25.5cm/10.04'' 63cm/24.80'' 79cm/31.10'' L 114cm/44.88'' 26.5cm/10.43'' 64cm/25.20'' 80cm/31.50'' XL 120cm/47.24'' 27.5cm/10.83'' 65cm/25.59'' 81cm/31.89'' XXL 126cm/49.61'' 28.5cm/11.22'' 66cm/25.98'' 82cm/32.28'' Size:S Bust:102cm/40.16'' Sleeve:24.5cm/9.65'' Front Length:62cm/24.41'' Back Length:78cm/30.71'' Size:M Bust:108cm/42.52'' Sleeve:25.5cm/10.04'' Front Length:63cm/24.80'' Back Length:79cm/31.10'' Size:L Bust:114cm/44.88'' Sleeve:26.5cm/10.43'' Front Length:64cm/25.20'' Back Length:80cm/31.50'' Size:XL Bust:120cm/47.24'' Sleeve:27.5cm/10.83'' Front Length:65cm/25.59'' Back Length:81cm/31.89'' Size:XXL Bust:126cm/49.61'' Sleeve:28.5cm/11.22'' Front Length:66cm/25.98'' Back Length:82cm/32.28'' - Fashionqueene.com
   Updated: 2025-09-17T08:15:55Z
@@ -566,7 +566,7 @@
   Updated: 2025-09-14T16:38:46Z
   Price: $46.15 USD
 - [Judy Blue Full Size Wide Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-wide-leg-jeans-with-pockets): Wide Leg Jeans with Pockets are a trendy and versatile option for those looking to make a statement with their outfit. The wide-leg silhouette offers a relaxed and vintage-inspired look, while the addition of pockets provides both style and functionality. Pair these jeans with a tucked-in blouse and some statement accessories for a fashion-forward ensemble. Style #: 82625 Features: Basic style Waist line: High waist Stretch: Moderate stretch Material composition: 93% cotton, 5% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-18T00:43:36Z
+  Updated: 2025-09-18T15:42:10Z
   Price: $47.15 USD — $49.15 USD
 - [Judy Blue Full Size Washed Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-washed-straight-leg-jeans-with-pockets): Washed Straight Leg Jeans with Pockets are a practical and fashionable choice for your everyday wardrobe. The washed finish gives them a laid-back and casual feel, while the straight leg cut offers a flattering silhouette. The addition of pockets adds functionality and convenience, making these jeans a perfect blend of style and practicality. Style #: 82631 Features: Basic style, Pocketed Stretch: Slightly stretchy Material composition: 93.7% cotton, 5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 31 10 1/25 24 30 31 10 3/26 25 31 31 10.5 5/27 26 32 31 10.5 7/28 27 33 31 11 9/29 28 34 31 11 11/30 29 35 31 11 13/31 30 37 31 11.5 15/32 31 38 31 11.5 14W 31 40 31 11.5 16W 30 40 31 12 18W 32 42 31 12 20W 35 45 31 12 22W 37 47 31 12.5 24W 39 50 31 12.5 - Fashionqueene.com
   Updated: 2025-09-17T18:18:13Z
@@ -707,7 +707,7 @@
   Updated: 2025-09-11T20:29:59Z
   Price: $19.99 USD
 - [Fairy Glow Duo: Pink Glitter Highlighting & Shimmering Blush Set - Fashionqueene.com](https://fashionqueene.com/products/fairy-glow-duo-pink-glitter-highlighting-shimmering-blush-set): The Fairy Glow Duo is the perfect set for achieving a luminous, radiant complexion. This set includes a sparkling pink glitter highlighter for a dazzling glow, and a shimmering blush to add a touch of color and dimension. Create a dazzling look with our expertly curated duo. Finish : Radiant Color : Pink Benefits : Long-Wearing, Brightening Texture : Powder Type : Stick Highlighter - Fashionqueene.com
-  Updated: 2025-09-11T20:29:59Z
+  Updated: 2025-09-18T12:53:34Z
   Price: $15.29 USD
 - [Chic Winter Elegance: Plush Beige Fur Coat for Stylish Holiday Gatherings - Fashionqueene.com](https://fashionqueene.com/products/chic-winter-elegance-plush-beige-fur-coat-for-stylish-holiday-gatherings): Stay warm and elegant during holiday gatherings with our Chic Winter Elegance: Plush Beige Fur Coat. Its plush fur and chic design bring a touch of style to any occasion. Feel confident and fashionable with this coat. Sleeve Type : Regular Sleeve Details : Belted, Contrast Faux Fur Hem Shaped : Flared Placket : Belted Style : Casual Neckline : Waterfall Color : Apricot Pattern Type : Plain Sleeve Length : Long Sleeve Length : Regular Fit Type : Regular Fit Fabric : Non-Stretch Material : Woven Fabric Composition : 100% Polyester Care Instructions : Machine wash, do not dry clean Temperature : Winter (<10℃/50℉) Lined For Added Warmth : No Body : Lined Belt : Yes Sheer : No Lining : 100% Polyester US Size Shoulder Length Sleeve Length Bust Waist Size Cuff Bicep Length Belt Length 2 XS 15.7 28/29.1 24.2 38.8 33.9 10.6 14.8 65 4 S 16.1 28.3/29.5 24.6 40.4 35.4 10.9 15.4 66.5 6 M 16.5 28.7/29.9 25 41.9 37 11.3 15.9 68.1 8/10 L 16.9 29.3/30.5 25.4 44.3 39.4 11.9 16.8 70.5 - Fashionqueene.com
   Updated: 2025-09-11T20:29:58Z
@@ -1289,7 +1289,7 @@
   Updated: 2025-09-11T20:28:55Z
   Price: $48.15 USD
 - [RISEN Full Size High Rise Wide Leg Cargo Jeans - Fashionqueene.com](https://fashionqueene.com/products/risen-full-size-high-rise-wide-leg-cargo-jeans): The high rise wide leg cargo jeans combine style and functionality for a trendy look. Featuring a flattering high-rise fit, these jeans offer a comfortable silhouette while the wide leg design adds a modern flair. Equipped with cargo pockets, they provide practicality without sacrificing style. Perfect for casual outings or a laid-back day, you can easily pair them with a fitted top or oversized sweater for a chic, effortless ensemble. Ideal for those who appreciate both fashion and utility! Features: Pocketed Stretch: Slightly stretchy Material composition: 98% cotton, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0(24) 24 30 31.5 11 1(25) 25 31 31.5 11 3(26) 26 32 31.5 11 5(27) 27 33 31.5 12 7(28) 28 34 31.5 12 9(29) 29 35 31.5 12 11(30) 30 36 31.5 13 13(31) 31 37 31.5 13 15(32) 32 38 31.5 13 1XL 34 39 32 13.5 2XL 36 41 32 13.5 3XL 38 43 32 13.5 - Fashionqueene.com
-  Updated: 2025-09-11T20:28:54Z
+  Updated: 2025-09-18T13:45:17Z
   Price: $48.15 USD
 - [Kancan Full Size High Rise Ankle Skinny Jeans - Fashionqueene.com](https://fashionqueene.com/products/kancan-full-size-high-rise-ankle-skinny-jeans): These high-rise ankle skinny jeans in a dark wash offer a sleek and modern silhouette. Crafted from stretchy denim, they provide a comfortable fit that hugs your curves. The unique double waistband adds a stylish detail, while the release hem with destruction gives these jeans a trendy edge. Featuring a classic zip fly, they are perfect for pairing with both casual and dressy tops, making them a versatile addition to your wardrobe. Features: Washed, Raw Hem, Pocketed Stretch: Slightly stretchy Material composition: 93% cotton, 5% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 26 32 27 10.5 1 27 33 27 10.5 3 28 34 27 10.5 5 29 35 27 10.5 7 30 36 27 11.5 9 31 37 27 11.5 11 32 38 27 11.5 13 33 39 27 11.5 15 34 40 27 11.5 16W 30 40 27.5 12.5 18W 32 42 27.5 12.5 20W 35 45 27.5 12.5 22W 37 47 27.5 12.5 - Fashionqueene.com
   Updated: 2025-09-11T20:28:54Z
@@ -1870,7 +1870,7 @@
   Updated: 2025-09-11T20:27:54Z
   Price: $41.15 USD
 - [Leopard Johnny Collar Sleeveless Mini Dress - Fashionqueene.com](https://fashionqueene.com/products/leopard-johnny-collar-sleeveless-mini-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Shoulder Bust S 4 33.9 14.8 38.6 M 6/8 34.6 15.4 40.9 L 10/12 35.4 15.9 43.3 XL 14/16 36.2 16.4 43.3 - Fashionqueene.com
-  Updated: 2025-09-17T06:30:50Z
+  Updated: 2025-09-18T14:41:06Z
   Price: $35.15 USD
 - [925 Sterling Silver Inlaid Zircon Huggie Earrings - Fashionqueene.com](https://fashionqueene.com/products/925-sterling-silver-inlaid-zircon-huggie-earrings): Pieces: 1-piece Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product measurements:One Size:Actual Length 0.4 in, Actual Width 0.4 in, Weight 3.2 oz (91.32 g) - Fashionqueene.com
   Updated: 2025-09-11T20:27:53Z
@@ -2905,11 +2905,11 @@
   Updated: 2025-09-18T09:54:04Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-18T11:16:42Z
+  Updated: 2025-09-18T14:16:59Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-18T11:37:58Z
-  Total Products: 539
+  Updated: 2025-09-18T16:01:51Z
+  Total Products: 545
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
   Updated: 2025-09-18T11:55:47Z
   Total Products: 324
@@ -2923,13 +2923,13 @@
   Updated: 2025-09-18T11:45:31Z
   Total Products: 34
 - [Jewelry Treasures - Fashionqueene.com](https://fashionqueene.com/collections/jewelry-treasures): fashion jewelry earrings, designer fashion jewelry, luxury fashion jewelry, fashion diamond jewelry, vintage fashion and costume jewelry, fashion gold jewelry, silver fashion jewelry - Fashionqueene.com
-  Updated: 2025-09-17T11:06:00Z
-  Total Products: 240
+  Updated: 2025-09-18T15:52:04Z
+  Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-18T12:00:24Z
-  Total Products: 1741
+  Updated: 2025-09-18T16:01:51Z
+  Total Products: 1758
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
-  Updated: 2025-09-18T09:51:05Z
+  Updated: 2025-09-18T12:34:32Z
   Total Products: 128
 - [Men's Coats And Jackets - Fashionqueene.com](https://fashionqueene.com/collections/mens-coats-and-jackets): Parkas, puffy coats, waterproof, jackets, leather jackets, windbreakers, Long coats, wool coats, business coats, hunting jackets, ski-coats, - Fashionqueene.com
   Updated: 2025-09-17T11:09:38Z
@@ -3001,8 +3001,8 @@
   Updated: 2025-09-18T08:14:40Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-18T12:01:45Z
-  Total Products: 4624
+  Updated: 2025-09-18T15:58:18Z
+  Total Products: 4644
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
   Total Products: 59
@@ -3010,20 +3010,20 @@
   Updated: 2025-09-16T01:15:25Z
   Total Products: 1
 - [Rings](https://fashionqueene.com/collections/rings): wedding rings, mens and women's rings, silver rings, gold rings
-  Updated: 2025-09-16T01:15:25Z
-  Total Products: 50
+  Updated: 2025-09-18T15:52:05Z
+  Total Products: 53
 - [Ladies Sweaters](https://fashionqueene.com/collections/ladies-sweaters): Sweaters, winter tops, long sleeves
   Updated: 2025-09-17T11:10:18Z
   Total Products: 59
 - [Women's Boots](https://fashionqueene.com/collections/womens-boots): ankle boots, thigh high, zipper boots, platform boots, wedge boots
-  Updated: 2025-09-18T11:34:15Z
-  Total Products: 72
+  Updated: 2025-09-18T12:15:12Z
+  Total Products: 74
 - [Women's Sneakers](https://fashionqueene.com/collections/womens-sneakers): sneakers, high tops, slip-ons,
   Updated: 2025-09-18T11:26:50Z
   Total Products: 24
 - [bracelets](https://fashionqueene.com/collections/bracelets): cuffs, elastic bracelets, beaded, silver bracelets
-  Updated: 2025-09-18T11:47:52Z
-  Total Products: 23
+  Updated: 2025-09-18T15:41:20Z
+  Total Products: 25
 
 ## Blogs
 
