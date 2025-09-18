@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-18T16:02:21.472Z
+- Updated At: 2025-09-18T20:02:20.284Z
 
 ## Products
 
@@ -65,7 +65,7 @@
   Updated: 2025-09-18T05:51:50Z
   Price: $18.34 USD — $32.14 USD
 - [2pcs Diamond Studded Real Nail Scale Alloy Set Quartz Bracelet Watch - Fashionqueene.com](https://fashionqueene.com/products/2pcs-fashionable-diamond-studded-real-nail-scale-alloy-set-quartz-bracelet-watch-for-womens-watches): Expertly crafted with real nail scale alloy, this set of 2 fashionable diamond-studded watches adds a touch of elegance to any outfit. With precision quartz movement and a sturdy bracelet design, these watches are both stylish and functional. Perfect for any woman looking to make a statement. SPECIFICATIONS Brand Name: other Water Resistance Depth: No Waterproof Movement: Quartz Band Material Type: ALLOY Hign-concerned Chemical: None Display Type: Numberless Case Material: ALLOY Style: Luxury Clasp Type: Hook Buckle Origin: Mainland China Model Number: Quart watch Dial Window Material Type: Glass Case Shape: Round Choice: yes • Fashionable Design :This luxury watch features a fashionable diamond studded real nail scale alloy set, making it a stylish accessory for any outfit. • Quartz Movement :Equipped with a reliable quartz movement, this watch ensures accurate timekeeping, making it perfect for daily wear. • Non-Waterproof :The watch is not waterproof, limiting its use in water-related activities but ensuring its longevity as a dry item. • Luxury Style :With its round case shape and hook buckle clasp, this watch exudes a luxurious style that is sure to impress. • Alloy Material :The case and band material are both alloy, providing durability and longevity while maintaining a sophisticated look. • Glass Dial Window :The glass dial window adds a touch of elegance to the watch, making it a perfect gift for any occasion. - Fashionqueene.com
-  Updated: 2025-09-17T23:59:51Z
+  Updated: 2025-09-18T16:56:15Z
   Price: $25.00 USD — $26.63 USD
 - [Flip Wallet Case for Samsung Galaxy S24 Ultra S24 Plus S24, Leather Magnetic Folio Cover with Card Holder Shockproof - Fashionqueene.com](https://fashionqueene.com/products/flip-wallet-case-for-samsung-galaxy-s24-ultra-s24-plus-s24-leather-magnetic-folio-cover-with-card-holder-shockproof-phone-cases): Enhance the protection and convenience of your Samsung Galaxy S24 Ultra S24 Plus S24 with our Flip Wallet Case. Made of durable leather, its magnetic closure keeps your phone secure while its built-in card holder adds functionality. Shockproof design defends against accidental drops, making it an ideal phone case for daily use. SPECIFICATIONS Brand Name: WeFor Origin: Mainland China Type: FULL COVERAGE Design: Plain Features: Anti-Fingerprint Features: Anti-Scratch Features: Card Pocket Features: With Lanyard Features: Storage Compartment Compatible Brand: Samsung Brand Name: WeFor Compatible Model 1: For Samsung Galaxy S24 Compatible Model 2: For Samsung Galaxy S24 Plus Compatible Model 3: For Samsung Galaxy S24 Ultra Sales: Retail and wholesale - Fashionqueene.com
   Updated: 2025-09-11T20:31:17Z
@@ -488,7 +488,7 @@
   Updated: 2025-09-16T04:53:57Z
   Price: $21.75 USD
 - [Red Stripe Buttoned V Neck Collared Drop Shoulder Top - Fashionqueene.com](https://fashionqueene.com/products/red-stripe-buttoned-v-neck-collared-drop-shoulder-top): Size Chart (INCH) Sizes US Sizes Euro A top that features a v-neck, button closure, collared neckline, and drop shoulder design, all in a vibrant red stripe pattern. UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 44.9 47.2 24.0 19.5 28.7 M 8-10 38-40 12-14 47.2 49.6 25.2 19.7 29.5 L 12-14 42-44 16-18 49.6 52.0 26.4 19.9 30.3 XL 16-18 46-48 20-22 52.8 55.1 28.0 19.9 31.1 2XL 20-22 50-52 24-26 55.9 58.3 29.5 19.9 31.9 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 114 120 61 49.5 73 M 8-10 38-40 12-14 120 126 64 50 75 L 12-14 42-44 16-18 126 132 67 50.5 77 XL 16-18 46-48 20-22 134 140 71 50.5 79 2XL 20-22 50-52 24-26 142 148 75 50.5 81 Elasticity High The top features a classic striped pattern which is popular among people.It includes a v neck with buttoned detail and collared design.The drop shoulder gives the top a relaxed and trendy fit.This striped top is a versatile piece that can be paired with various bottoms. - Fashionqueene.com
-  Updated: 2025-09-15T09:27:13Z
+  Updated: 2025-09-18T17:21:10Z
   Price: $43.50 USD
 - [Black Sequin Velvet Sheer Mesh Mock Neck Blouse - Fashionqueene.com](https://fashionqueene.com/products/black-sequin-velvet-sheer-mesh-mock-neck-blouse): This black sequin velvet blouse features a sheer mesh design and mock neck, combining elegance with a touch of edginess. The versatile design makes it perfect for any occasion, while the comfortable fit ensures all-day wearability. Make a statement and elevate your wardrobe with this unique and stylish blouse. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Waist Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax Relax S 4-6 34-36 8-10 31.1 26.8 32.7 14.0 22.8 22.0 M 8-10 38-40 12-14 33.5 29.1 35.0 14.6 23.2 22.8 L 12-14 42-44 16-18 35.8 31.5 37.4 15.2 23.6 23.6 XL 16-18 46-48 20-22 39.0 34.6 40.6 16.0 24.0 24.4 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Waist Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax Relax S 4-6 34-36 8-10 79 68 83 35.5 58 56 M 8-10 38-40 12-14 85 74 89 37 59 58 L 12-14 42-44 16-18 91 80 95 38.5 60 60 XL 16-18 46-48 20-22 99 88 103 40.7 61 62 Elasticity High This sheer mesh blouse adds a touch of allure and sophistication.Sparkling sequins add a glamorous and eye-catching detail.Luxurious velvet material for a rich and elegant look.Long sleeves provide coverage while maintaining a trendy silhouette. - Fashionqueene.com
   Updated: 2025-09-11T20:30:22Z
@@ -539,7 +539,7 @@
   Updated: 2025-09-11T20:30:17Z
   Price: $48.68 USD
 - [Pink Smocked Cuffed Striped Boyfriend Shirt with Pocket - Fashionqueene.com](https://fashionqueene.com/products/pink-smocked-cuffed-striped-boyfriend-shirt-with-pocket): Size Chart (INCH) Sizes Bust Sleeve Length Length Hem Width Relax Relax Relax Relax XS 39.0 27.6 28.3 43.3 S 40.9 28.1 29.1 45.3 M 42.9 28.7 29.9 47.2 L 44.9 29.3 30.7 49.2 XL 48.0 30.2 31.5 52.4 2XL 51.2 31.1 32.3 55.5 XXL 51.2 31.1 32.3 55.5 Elasticity None Size Chart (CM) Sizes Bust Sleeve Length Length Hem Width Relax Relax Relax Relax XS 99 70 72 110 S 104 71.5 74 115 M 109 73 76 120 L 114 74.5 78 125 XL 122 76.8 80 133 2XL 130 79.1 82 141 XXL 130 79.1 82 141 Elasticity None This oversize fit is sure to make the wearer feel slender and fashionable Turn-down collar, long sleeves with smocked cuffs, bust pocket and front button closures Perfect to wear daily or as a beach cover-up matching with a bikini You can also wholesale pants to complete the look - Fashionqueene.com
-  Updated: 2025-09-18T13:23:10Z
+  Updated: 2025-09-18T16:19:56Z
   Price: $28.50 USD
 - [Cotton Linen Shirt Long Sleeve Women Spring Summer Clothing Solid Button Back Ruffled Trim Blouse Casual T Shirt Women Pack - Fashionqueene.com](https://fashionqueene.com/products/cotton-linen-shirt-long-sleeve-women-spring-summer-clothing-solid-button-back-ruffled-trim-blouse-casual-t-shirt-women-pack): This Cotton Linen Shirt is perfect for the warmer seasons, providing a breathable and comfortable option for everyday wear. The long sleeves offer added coverage and the ruffled trim adds a touch of femininity. The button back detail adds a stylish twist to this classic blouse. Enjoy this pack of versatile and easy-to-style t-shirts. SPECIFICATIONS Brand Name: NoEnName_Null Style: Casual Elasticity: High Strecth Origin: Mainland China Season: All season Fabric Type: Broadcloth Material: POLYESTER Pattern Type: Print Fit Type: Regulai Fit Age: MIDDLE AGE Thickness: midweight Clothing Length: regular Decoration: none Shirts Type: Casual Shirts Place Of Origin: China (mainland) Dress Patterns: Pullover Fabric content: 81% (inclusive) - 90% (inclusive) Collar: Turtleneck Sleeve Style: regular Model Number: 1 Material Composition: synthetic fiber Sleeve Length(cm): Full Combination Form: Single-piece Set Gender: WOMEN Craft of Weaving: Knit Release Date: Autumn 2022 Clothing Patterns: STRAIGHT Women Spring Summer Clothing Solid Button Back Ruffled Trim Blouse Casual Short Sleeve Blouse Features: Cotton Short Sleeve Shirts with sleeve tabs is a fashion style and a must-have item in everyone's wardrobe, make you look slim and refreshed. VERSATILE - Easy to with jeans or skirt for an style. You can also wear it as a bikini over-up on beach. It will be on call all Spring, Summer and Autumn, or paired with a cardigan for the chilly days. Laundry Wash Care: HAND WASH OR MACHINE WASH ON A LOW TEMPERATURE(cold or lukewarm) with a mild and using the delicate cycle as our shirts are made of cotton which will shrink when subjected to high heat. To shrinking, you should use appropriate protocols, i.e., cold water, delicate wash cycles, and low dryer settings. Whether it is leisure, office, school, vacation, beach, party, it can be a perfect . Due to the different resolution of the computer ,there may be some color difference. Product Description: Season: All Gender: Women Material: Cotton Decoration: None Sleeve Length: Short Sleeve Pattern Type: Solid Style: Fashion, Casual Size Bust Sleeve Front Length Back Length S 102cm/40.16'' 24.5cm/9.65'' 62cm/24.41'' 78cm/30.71'' M 108cm/42.52'' 25.5cm/10.04'' 63cm/24.80'' 79cm/31.10'' L 114cm/44.88'' 26.5cm/10.43'' 64cm/25.20'' 80cm/31.50'' XL 120cm/47.24'' 27.5cm/10.83'' 65cm/25.59'' 81cm/31.89'' XXL 126cm/49.61'' 28.5cm/11.22'' 66cm/25.98'' 82cm/32.28'' Size:S Bust:102cm/40.16'' Sleeve:24.5cm/9.65'' Front Length:62cm/24.41'' Back Length:78cm/30.71'' Size:M Bust:108cm/42.52'' Sleeve:25.5cm/10.04'' Front Length:63cm/24.80'' Back Length:79cm/31.10'' Size:L Bust:114cm/44.88'' Sleeve:26.5cm/10.43'' Front Length:64cm/25.20'' Back Length:80cm/31.50'' Size:XL Bust:120cm/47.24'' Sleeve:27.5cm/10.83'' Front Length:65cm/25.59'' Back Length:81cm/31.89'' Size:XXL Bust:126cm/49.61'' Sleeve:28.5cm/11.22'' Front Length:66cm/25.98'' Back Length:82cm/32.28'' - Fashionqueene.com
   Updated: 2025-09-17T08:15:55Z
@@ -1553,7 +1553,7 @@
   Updated: 2025-09-13T05:09:55Z
   Price: $41.15 USD
 - [PU Leather Handbag with Tassels - Fashionqueene.com](https://fashionqueene.com/products/pu-leather-handbag-with-tassels): This luxurious PU leather handbag is designed with sophistication and exclusivity in mind. The intricate tassel details add a touch of elegance to this already refined piece. Made with premium materials, this handbag is both stylish and practical, making it the perfect accessory for any fashion-forward individual. Elevate your wardrobe with this must-have staple. Bag size: Large Material: PU, polyester Imported Product measurements: 13.4*4.7*9.8 in - Fashionqueene.com
-  Updated: 2025-09-14T06:52:11Z
+  Updated: 2025-09-18T16:01:26Z
   Price: $37.15 USD
 - [2 Carat Moissanite 925 Sterling Silver Moon & Star Earrings - Fashionqueene.com](https://fashionqueene.com/products/2-carat-moissanite-925-sterling-silver-moon-star-earrings): Pieces: 1-pair Includes: A matching box., Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included, please contact us for any issues related to your purchase. Material: Platinum-plated, 925 sterling silver, Moissanite Carat weight: 2 Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 0.9 - Fashionqueene.com
   Updated: 2025-09-14T10:00:12Z
@@ -2899,16 +2899,16 @@
   Updated: 2025-09-18T11:49:47Z
   Total Products: 134
 - [Ladies Fashions - Fashionqueene.com](https://fashionqueene.com/collections/ladies-fashions): Casual to dressy dresses, office, party, formal dresses, cami, midi, maxi, long, pants, shorts, active wear, blouses, office, party, overalls, rompers, crop tops, t-shirts, skorts, active wear, cargo pants, - Fashionqueene.com
-  Updated: 2025-09-18T10:09:00Z
+  Updated: 2025-09-18T17:46:24Z
   Total Products: 1175
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-18T09:54:04Z
+  Updated: 2025-09-18T17:40:58Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
   Updated: 2025-09-18T14:16:59Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-18T16:01:51Z
+  Updated: 2025-09-18T16:19:09Z
   Total Products: 545
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
   Updated: 2025-09-18T11:55:47Z
@@ -2923,11 +2923,11 @@
   Updated: 2025-09-18T11:45:31Z
   Total Products: 34
 - [Jewelry Treasures - Fashionqueene.com](https://fashionqueene.com/collections/jewelry-treasures): fashion jewelry earrings, designer fashion jewelry, luxury fashion jewelry, fashion diamond jewelry, vintage fashion and costume jewelry, fashion gold jewelry, silver fashion jewelry - Fashionqueene.com
-  Updated: 2025-09-18T15:52:04Z
+  Updated: 2025-09-18T16:02:36Z
   Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-18T16:01:51Z
-  Total Products: 1758
+  Updated: 2025-09-18T17:46:24Z
+  Total Products: 1760
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
   Updated: 2025-09-18T12:34:32Z
   Total Products: 128
@@ -2953,7 +2953,7 @@
   Updated: 2025-09-18T11:53:31Z
   Total Products: 457
 - [Women's Tops - Fashionqueene.com](https://fashionqueene.com/collections/womens-tops): women's tops, Blouses, crop tops, knitted, short sleeves, cold shoulder, t-shirts, pull over, women's tops on sale, - Fashionqueene.com
-  Updated: 2025-09-18T10:09:00Z
+  Updated: 2025-09-18T17:46:24Z
   Total Products: 380
 - [Women's Shorts - Fashionqueene.com](https://fashionqueene.com/collections/womens-shorts): Denim shorts, cargo shorts, elastic waist, gym shorts, casual - Fashionqueene.com
   Updated: 2025-09-17T11:06:51Z
@@ -3001,7 +3001,7 @@
   Updated: 2025-09-18T08:14:40Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-18T15:58:18Z
+  Updated: 2025-09-18T17:46:24Z
   Total Products: 4644
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
@@ -3010,13 +3010,13 @@
   Updated: 2025-09-16T01:15:25Z
   Total Products: 1
 - [Rings](https://fashionqueene.com/collections/rings): wedding rings, mens and women's rings, silver rings, gold rings
-  Updated: 2025-09-18T15:52:05Z
+  Updated: 2025-09-18T16:02:36Z
   Total Products: 53
 - [Ladies Sweaters](https://fashionqueene.com/collections/ladies-sweaters): Sweaters, winter tops, long sleeves
   Updated: 2025-09-17T11:10:18Z
   Total Products: 59
 - [Women's Boots](https://fashionqueene.com/collections/womens-boots): ankle boots, thigh high, zipper boots, platform boots, wedge boots
-  Updated: 2025-09-18T12:15:12Z
+  Updated: 2025-09-18T16:04:46Z
   Total Products: 74
 - [Women's Sneakers](https://fashionqueene.com/collections/womens-sneakers): sneakers, high tops, slip-ons,
   Updated: 2025-09-18T11:26:50Z
