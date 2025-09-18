@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-09-17T12:00:27.308Z
+- Updated At: 2025-09-18T04:00:27.828Z
 
 ## Products
 
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07055-12ozSmoothsipSliderVeryVeryDark-SC.jpg?v=1749428552
     Price: $49.99 NZD
 - [Kid's Tumbler - Stainless Steel](https://www.owalalife.co.nz/products/kids-tumbler-stainless-steel): I’m every kid’s #1 fan. I’ll happily sit through the 327th rewatch of their favorite show with no complaints—because hey, I don’t have ears. In addition to being a good friend, I'm easy to sip, and spill resistant.
-  Updated: 2025-09-16T21:05:26Z
+  Updated: 2025-09-18T02:46:06Z
   Vendor: My Store
   Product Type: TUMBLER KIDS
   Availability: Available
@@ -318,7 +318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07066-32ozBootYellow-SC.jpg?v=1749429588
     Price: $14.99 NZD
 - [FreeSip Twist](https://www.owalalife.co.nz/products/freesip-twist-may-release): I’m the perfect addition to the FreeSip family. With the FreeSip Twist, you'll have a versatile and stylish option for on-the-go hydration. Whether you're traveling on a plane or enjoying a night out, my compact shape allows for easy storage and access. Plus, my carry loop ensures you'll always have me within reach. And with the ability to keep drinks cold for 24 hours and handle hot and carbonated beverages, I've got you covered for all your beverage needs.
-  Updated: 2025-09-17T09:39:00Z
+  Updated: 2025-09-18T02:05:57Z
   Vendor: Owalalife
   Product Type: 
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1749429110
     Price: $54.99 NZD
 - [FreeSip](https://www.owalalife.co.nz/products/freesip-may-release): When it comes to hydration, you deserve options. That’s why we designed the FreeSip to let you choose your own adventure—hold upright to sip through the built-in straw or tilt back to swig through the wide-mouth opening. If that isn’t exciting enough, this bottle is ready to spring into action at any time. Just push the button to flip the top open and push back down to lock it shut (and keep out germs). But we should warn you: If you’re one of those people who likes bottles that spill water everywhere, you’re out of luck… the FreeSip is completely leak proof.
-  Updated: 2025-09-17T10:31:06Z
+  Updated: 2025-09-18T03:55:31Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
