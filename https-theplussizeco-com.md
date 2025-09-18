@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-18T04:00:28.758Z
+- Updated At: 2025-09-18T08:00:28.811Z
 
 ## Products
 
@@ -55,7 +55,7 @@
     Availability: Not Available
     Price: ₹1,195.00 INR
 - [Plus Size Pink Cotton Printed Straight Cut Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-cotton-printed-straight-cut-suit-set): Blush in blooms with our Pink Cotton Printed Straight Cut Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant & dupatta. Sizes in XL to 10XL.
-  Updated: 2025-08-31T03:44:41Z
+  Updated: 2025-09-18T07:40:53Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -116,7 +116,7 @@
     Availability: Available
     Price: ₹1,194.00 INR
 - [Plus Size Magenta Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/magenta-floral-rayon-night-gown): Write one liners for our Magenta Floral Rayon Night Gown With Pocket. Features rayon fabric and V neckline. Sizes in XL to 10XL.
-  Updated: 2025-08-30T18:23:35Z
+  Updated: 2025-09-18T05:20:12Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
