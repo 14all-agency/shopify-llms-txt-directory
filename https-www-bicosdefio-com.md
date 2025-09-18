@@ -19,7 +19,7 @@ Nuestra misión es acercar la moda actual a todas las personas, combinando calid
 - Contact Email: info@bicosdefio.com
 - Contact Phone: +34 982330069
 - Address: Avda de Lugo, 27 Bajo 27240 Meira - Lugo
-- Updated At: 2025-09-18T04:02:46.231Z
+- Updated At: 2025-09-18T08:03:00.661Z
 
 ## Products
 
@@ -378,7 +378,7 @@ Nuestra misión es acercar la moda actual a todas las personas, combinando calid
   Updated: 2025-09-02T05:48:29Z
   Price: 24,98 € EUR
 - [Vestido ICHI Damia Oro](https://www.bicosdefio.com/products/vestido-ichi-damia-oro): Vestido de tirantes Ichi de dos partes en color amarillo con estampado de flores. Este vestido de largo midi es perfecto para tus días de playa. Las últimas
-  Updated: 2025-09-02T05:48:32Z
+  Updated: 2025-09-18T05:17:25Z
   Price: 24,98 € EUR
 - [Top ICHI Fino Negro](https://www.bicosdefio.com/products/top-ichi-fino-negro): Top negro transparente, una prenda cómoda y sensual para tus outfits más especiales. Las últimas tendencias en Camisas y blusas de Ichi están en Bicos de Fío.
   Updated: 2025-09-09T07:19:57Z
@@ -1950,7 +1950,7 @@ Nuestra misión es acercar la moda actual a todas las personas, combinando calid
   Updated: 2025-07-04T18:25:07Z
   Price: 39,95 € EUR
 - [Blusa estampado floral Salsa Jeans Azul - Bicos de Fío](https://www.bicosdefio.com/products/blusa-estampado-floral-salsa-jeans-azul): Blusa con estampado floral de Salsa Jeans en color azul. Esta blusa incorpora volantes en la manga y cuello mao con cierre de botones. Las últimas tendencias
-  Updated: 2025-09-17T00:20:20Z
+  Updated: 2025-09-18T04:18:42Z
   Price: 41,95 € EUR
 - [Vaqueros Salsa Jeans Skinny Clash Ready To Go](https://www.bicosdefio.com/products/vaqueros-salsa-jeans-skinny-clash-ready-to-go): Pantalón vaquero para hombre Salsa Jeans Skinny Clash Ready To Go con rotos. Los vaqueros Clash se ajustan perfectamente al cuerpo desde la cintura hasta el
   Updated: 2025-07-24T00:53:58Z
