@@ -8,7 +8,7 @@
 - Contact Email: hello@apella.in
 - Contact Phone: +91 6230116927
 - Address: Red Apple Inn, NH 72, Bhatanwali, Paonta Sahib, Himachal Pradesh, India
-- Updated At: 2025-09-18T12:01:07.094Z
+- Updated At: 2025-09-18T16:01:08.002Z
 
 ## Products
 
@@ -4639,7 +4639,7 @@
   Updated: 2025-09-03T11:30:26Z
   Price: ₹894.00 INR
 - [Buy Plus Size ​Coffee Rayon Pleated Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/coffee-rayon-pleated-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-11T11:40:41Z
+  Updated: 2025-09-18T13:57:57Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Bottle Green Rayon Pleated Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/bottle-green-rayon-pleated-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:30:27Z
