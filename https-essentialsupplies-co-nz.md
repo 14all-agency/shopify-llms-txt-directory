@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-18T12:00:38.698Z
+- Updated At: 2025-09-18T16:00:37.352Z
 
 ## Products
 
@@ -6715,7 +6715,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-utility-duct-tape-black-48mm-x-30m-x-150mu-utility-duct-tape-essential-supplies-494546.jpg?v=1719445675
   Price: $7.00 NZD
 - [PVC Utility Duct Tape - Silver, 48mm x 30m x 150mu](https://essentialsupplies.co.nz/products/pvc-utility-duct-tape-silver-48mm-x-30m-x-150mu-30): Utility duct tape made of high quality PVC with superior stretch, strength and durability. Featuring a special ribbed design to enable tape to be torn horizontally or vertically by hand for effortless use. Ideal for trade and maintenance industries, DIY and general use around the home and workplace.
-  Updated: 2025-02-19T00:14:28Z
+  Updated: 2025-09-18T14:26:26Z
   Vendor: Mattews Packaging
   Product Type: Utility Duct Tape
   Availability: Available
