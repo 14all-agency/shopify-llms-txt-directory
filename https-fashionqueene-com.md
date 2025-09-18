@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-18T08:02:27.445Z
+- Updated At: 2025-09-18T12:02:33.069Z
 
 ## Products
 
@@ -368,7 +368,7 @@
   Updated: 2025-09-11T20:30:41Z
   Price: $32.15 USD
 - [Washed Wide Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/washed-wide-leg-jeans-with-pockets): Features: Basic style Stretch: No stretch Material composition: 72% cotton, 26% polyester, 2% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 38.6 28 26.6 35.8 6 39 28.1 27.8 37 8 39.4 28.3 28.7 38.2 10 39.8 28.5 29.7 39.4 12 40.2 28.7 31.3 40.6 14 40.6 28.9 32.9 42.1 16 40.9 29 34.4 43.7 - Fashionqueene.com
-  Updated: 2025-09-18T01:41:40Z
+  Updated: 2025-09-18T10:21:25Z
   Price: $41.15 USD
 - [Contrast Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/contrast-straight-leg-jeans-with-pockets): Features: Basic style Stretch: No stretch Material composition: 95% Rayon, 5% Polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length S 4 29.9 40.2 40.6 M 6/8 31.5 41.7 40.9 L 10/12 33.9 44.1 41.3 XL 14 36.2 46.5 41.7 - Fashionqueene.com
   Updated: 2025-09-11T20:30:41Z
@@ -410,7 +410,7 @@
   Updated: 2025-09-13T11:22:05Z
   Price: $44.81 USD
 - [Pink Floral Long Sleeve High Neck Sheath Mesh Top - Fashionqueene.com](https://fashionqueene.com/products/pink-floral-long-sleeve-high-neck-sheath-mesh-top): Introducing our Pink Floral Long Sleeve High Neck Sheath Mesh Top! Made with delicate mesh and adorned with beautiful floral designs, this top will elevate any outfit. The high neckline and long sleeves add a touch of elegance, making it a versatile piece for both casual and formal occasions. Stay stylish and sophisticated with this chic top. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 31.5 31.1 29.2 18.7 M 8-10 38-40 12-14 33.9 33.5 29.7 19.3 L 12-14 42-44 16-18 36.2 35.8 30.3 19.9 XL 16-18 46-48 20-22 39.4 39.0 31.0 20.5 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 80 79 74.1 47.5 M 8-10 38-40 12-14 86 85 75.5 49 L 12-14 42-44 16-18 92 91 76.9 50.5 XL 16-18 46-48 20-22 100 99 78.7 52 Elasticity High The chic blouse is a delicate fusion of floral beauty and sophisticated style. The high neck design is perfect for a polished and professional look. The sheath cut accentuates the silhouette with a feminine grace. Mesh fabric brings a subtle allure and a touch of modernity. - Fashionqueene.com
-  Updated: 2025-09-18T07:25:20Z
+  Updated: 2025-09-18T09:21:05Z
   Price: $14.81 USD
 - [Red Plaid Print Loose Vintage Shirt - Fashionqueene.com](https://fashionqueene.com/products/red-plaid-print-loose-vintage-shirt): This Red Plaid Print Loose Vintage Shirt offers a classic and stylish addition to your wardrobe. Made with a loose fit and vintage plaid print, it provides comfort and style. Perfect for adding a touch of retro charm to any outfit. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 41.7 44.9 23.6 19.1 28.3 M 8-10 38-40 12-14 44.1 47.2 24.8 19.3 29.1 L 12-14 42-44 16-18 46.5 49.6 26.0 19.5 29.9 XL 16-18 46-48 20-22 49.6 52.8 27.6 19.7 30.7 2XL 20-22 50-52 24-26 52.8 55.9 29.1 19.9 31.5 Elasticity None Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 106 114 60 48.5 72 M 8-10 38-40 12-14 112 120 63 49 74 L 12-14 42-44 16-18 118 126 66 49.5 76 XL 16-18 46-48 20-22 126 134 70 50 78 2XL 20-22 50-52 24-26 134 142 74 50.5 80 Elasticity None Embrace timeless style with this plaid shirt. Classic design with a touch of retro charm. Loose fit style is comfy and suitable for all. Versatile piece that can be styled in various ways. - Fashionqueene.com
   Updated: 2025-09-15T11:22:06Z
@@ -425,7 +425,7 @@
   Updated: 2025-09-11T20:30:34Z
   Price: $22.50 USD
 - [Orange Floral Printed Bell Sleeve Mock Neck Scallop Trim Blouse - Fashionqueene.com](https://fashionqueene.com/products/orange-floral-printed-bell-sleeve-mock-neck-scallop-trim-blouse): Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 31.5 28.3 13.4 24.8 18.5 M 8-10 38-40 12-14 33.9 30.7 14.0 25.2 19.3 L 12-14 42-44 16-18 36.2 33.1 14.6 25.6 20.1 XL 16-18 46-48 20-22 39.4 36.2 15.4 26.0 20.9 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 80 72 34 63 47 M 8-10 38-40 12-14 86 78 35.5 64 49 L 12-14 42-44 16-18 92 84 37 65 51 XL 16-18 46-48 20-22 100 92 39.2 66 53 Elasticity High This floral blouse brings a pop of color and a fresh, romantic vibe to your ensemble.Elevate your look with graceful bell sleeves, adding a touch of drama.Embrace a chic and modern neckline with a mock neck design.Add a delicate and intricate touch with scallop trim details. - Fashionqueene.com
-  Updated: 2025-09-16T17:21:46Z
+  Updated: 2025-09-18T09:21:07Z
   Price: $12.00 USD
 - [Brown Stripe Striped Drop Shoulder Pullover and Jogger Pants Set - Fashionqueene.com](https://fashionqueene.com/products/brown-stripe-striped-drop-shoulder-pullover-and-jogger-pants-set): Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Trousers Waist Hip Bottoms Inseam Outseam Relax Relax Relax Relax Relax Relax Relax Relax Relax S 4-6 34-36 8-10 44.9 36.6 18.3 25.2 26.0 38.6 23.8 27.5 39.0 M 8-10 38-40 12-14 47.2 39.0 18.5 26.0 28.3 40.9 25.2 27.6 39.4 L 12-14 42-44 16-18 49.6 41.3 18.7 26.8 30.7 43.3 26.6 27.6 39.8 XL 16-18 46-48 20-22 52.8 44.5 18.9 27.6 33.9 46.5 28.3 27.6 40.2 2XL 20-22 50-52 24-26 55.9 47.6 19.1 28.3 37.0 49.6 30.1 27.6 40.6 3XL 24-26 54-56 28-30 59.1 50.8 19.3 29.1 40.2 52.8 31.9 27.6 40.9 Elasticity Medium-High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Trousers Waist Hip Bottoms Inseam Outseam Relax Relax Relax Relax Relax Relax Relax Relax Relax S 4-6 34-36 8-10 114 93 46.5 64 66 98 60.5 69.8 99 M 8-10 38-40 12-14 120 99 47 66 72 104 64 70 100 L 12-14 42-44 16-18 126 105 47.5 68 78 110 67.5 70.2 101 XL 16-18 46-48 20-22 134 113 48 70 86 118 72 70.2 102 2XL 20-22 50-52 24-26 142 121 48.5 72 94 126 76.5 70.2 103 3XL 24-26 54-56 28-30 150 129 49 74 102 134 81 70.2 104 Elasticity Medium-High The two pieces set showcases a stylish striped pattern that lends a classic and eye-catching appeal.The pullover features a trendy drop shoulder and loose fit style.The set includes matching jogger pants with an elastic waist for a snug and comfortable fit.This casual set is perfect for a coordinated, effortlessly stylish look suitable for everyday wear. - Fashionqueene.com
   Updated: 2025-09-17T04:25:30Z
@@ -2896,23 +2896,23 @@
   Updated: 2025-09-17T11:09:21Z
   Total Products: 341
 - [Ladies Coats and Jackets - Fashionqueene.com](https://fashionqueene.com/collections/ladies-coats-and-jackets): Coats, hoodies, sweaters, cardigans, puffy jackets, denim, long coats, faux fur, leather coats, leather jackets - Fashionqueene.com
-  Updated: 2025-09-18T07:15:06Z
-  Total Products: 133
+  Updated: 2025-09-18T11:49:47Z
+  Total Products: 134
 - [Ladies Fashions - Fashionqueene.com](https://fashionqueene.com/collections/ladies-fashions): Casual to dressy dresses, office, party, formal dresses, cami, midi, maxi, long, pants, shorts, active wear, blouses, office, party, overalls, rompers, crop tops, t-shirts, skorts, active wear, cargo pants, - Fashionqueene.com
-  Updated: 2025-09-17T11:10:39Z
+  Updated: 2025-09-18T10:09:00Z
   Total Products: 1175
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-17T11:10:12Z
+  Updated: 2025-09-18T09:54:04Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-17T23:04:04Z
+  Updated: 2025-09-18T11:16:42Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-18T06:27:38Z
-  Total Products: 532
+  Updated: 2025-09-18T11:37:58Z
+  Total Products: 539
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
-  Updated: 2025-09-18T04:45:55Z
-  Total Products: 322
+  Updated: 2025-09-18T11:55:47Z
+  Total Products: 324
 - [Men's Shoes - Fashionqueene.com](https://fashionqueene.com/collections/mens-shoes): Sneakers, running, loafers, slip-on's, boots, sandals, flip flops, swim shoes, leather shoes, casual, driving shoes, slippers, Beach shoes, work shoes - Fashionqueene.com
   Updated: 2025-09-17T11:09:08Z
   Total Products: 102
@@ -2920,22 +2920,22 @@
   Updated: 2025-09-17T09:31:18Z
   Total Products: 40
 - [New Born Boys-Teen Boys - Fashionqueene.com](https://fashionqueene.com/collections/new-born-boys-teen-boys): Jeans, onsies, overalls, outfit sets, shirts, shorts, - Fashionqueene.com
-  Updated: 2025-09-16T01:15:22Z
-  Total Products: 33
+  Updated: 2025-09-18T11:45:31Z
+  Total Products: 34
 - [Jewelry Treasures - Fashionqueene.com](https://fashionqueene.com/collections/jewelry-treasures): fashion jewelry earrings, designer fashion jewelry, luxury fashion jewelry, fashion diamond jewelry, vintage fashion and costume jewelry, fashion gold jewelry, silver fashion jewelry - Fashionqueene.com
   Updated: 2025-09-17T11:06:00Z
   Total Products: 240
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-18T07:14:52Z
-  Total Products: 1732
+  Updated: 2025-09-18T12:00:24Z
+  Total Products: 1741
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
-  Updated: 2025-09-18T05:42:19Z
+  Updated: 2025-09-18T09:51:05Z
   Total Products: 128
 - [Men's Coats And Jackets - Fashionqueene.com](https://fashionqueene.com/collections/mens-coats-and-jackets): Parkas, puffy coats, waterproof, jackets, leather jackets, windbreakers, Long coats, wool coats, business coats, hunting jackets, ski-coats, - Fashionqueene.com
   Updated: 2025-09-17T11:09:38Z
   Total Products: 90
 - [Gothic Row (Men & Women) - Fashionqueene.com](https://fashionqueene.com/collections/gothic-row): All Gothic wear distressed jeans, leggings, jumpsuits, overalls, long dresses, batwing tops, mens Gothic clothing, blouses, kilts, cargo pants, sweaters, shoes - Fashionqueene.com
-  Updated: 2025-09-17T11:08:13Z
+  Updated: 2025-09-18T11:22:32Z
   Total Products: 183
 - [Top Brands - Fashionqueene.com](https://fashionqueene.com/collections/tkitok): All items here are from our TikTok Shop. #Judy Blue brand, # Basic Bae, #Nicole Miller Handbags, #Zenana, #Heimish, #Risen, #BiBi, #Culture Code - Fashionqueene.com
   Updated: 2025-09-16T01:15:22Z
@@ -2944,16 +2944,16 @@
   Updated: 2025-09-17T10:28:45Z
   Total Products: 63
 - [Women's Dresses - Fashionqueene.com](https://fashionqueene.com/collections/womens-dresses): women's dresses, Long dresses, Maxi, mini, two-piece, suits, office casual, sundresses cute dresses, casual dresses, women's fashion casual skirts, fashion 2024 dresses, fashion winter dresses, fall dresses - Fashionqueene.com
-  Updated: 2025-09-17T11:08:31Z
-  Total Products: 210
+  Updated: 2025-09-18T12:01:18Z
+  Total Products: 213
 - [Women's One-piece - Fashionqueene.com](https://fashionqueene.com/collections/womens-one-piece): Overalls, Rompers, - Fashionqueene.com
   Updated: 2025-09-17T11:06:47Z
   Total Products: 76
 - [Women's Pants - Fashionqueene.com](https://fashionqueene.com/collections/womens-pants): Jeans, leggings, trousers, pull-on's, flare, hip hugger's, denim,pants for women, dress pants, dress pants women - Fashionqueene.com
-  Updated: 2025-09-17T11:10:39Z
-  Total Products: 456
+  Updated: 2025-09-18T11:53:31Z
+  Total Products: 457
 - [Women's Tops - Fashionqueene.com](https://fashionqueene.com/collections/womens-tops): women's tops, Blouses, crop tops, knitted, short sleeves, cold shoulder, t-shirts, pull over, women's tops on sale, - Fashionqueene.com
-  Updated: 2025-09-17T11:10:37Z
+  Updated: 2025-09-18T10:09:00Z
   Total Products: 380
 - [Women's Shorts - Fashionqueene.com](https://fashionqueene.com/collections/womens-shorts): Denim shorts, cargo shorts, elastic waist, gym shorts, casual - Fashionqueene.com
   Updated: 2025-09-17T11:06:51Z
@@ -2962,8 +2962,8 @@
   Updated: 2025-09-18T04:45:55Z
   Total Products: 151
 - [Men's Pant's - Fashionqueene.com](https://fashionqueene.com/collections/mens-pants): #sweatpants, #cargo Pants, #distressed jeans, #Dress pants, #trousers, #carpenter pants, #leather pants, #hip hop pants - Fashionqueene.com
-  Updated: 2025-09-17T11:09:31Z
-  Total Products: 234
+  Updated: 2025-09-18T11:51:40Z
+  Total Products: 235
 - [Maternity Wear - Fashionqueene.com](https://fashionqueene.com/collections/maternity-wear): "maternity dress" maternity blouses" Maternity pants" maternity sweater dresses" maternity shorts" maternity shape wear" postpartum belts" - Fashionqueene.com
   Updated: 2025-09-16T01:15:24Z
   Total Products: 60
@@ -2998,11 +2998,11 @@
   Updated: 2025-09-16T01:15:25Z
   Total Products: 750
 - [Women's Active Wear](https://fashionqueene.com/collections/womens-active-wear): active wear, leggings, skorts, shorts, spandex, tennis skirts, cropped tops, t-shirts
-  Updated: 2025-09-17T10:29:19Z
+  Updated: 2025-09-18T08:14:40Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-18T07:15:06Z
-  Total Products: 4618
+  Updated: 2025-09-18T12:01:45Z
+  Total Products: 4624
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
   Total Products: 59
@@ -3016,14 +3016,14 @@
   Updated: 2025-09-17T11:10:18Z
   Total Products: 59
 - [Women's Boots](https://fashionqueene.com/collections/womens-boots): ankle boots, thigh high, zipper boots, platform boots, wedge boots
-  Updated: 2025-09-17T11:10:34Z
-  Total Products: 74
+  Updated: 2025-09-18T11:34:15Z
+  Total Products: 72
 - [Women's Sneakers](https://fashionqueene.com/collections/womens-sneakers): sneakers, high tops, slip-ons,
-  Updated: 2025-09-17T11:10:20Z
-  Total Products: 23
+  Updated: 2025-09-18T11:26:50Z
+  Total Products: 24
 - [bracelets](https://fashionqueene.com/collections/bracelets): cuffs, elastic bracelets, beaded, silver bracelets
-  Updated: 2025-09-16T01:15:26Z
-  Total Products: 22
+  Updated: 2025-09-18T11:47:52Z
+  Total Products: 23
 
 ## Blogs
 
