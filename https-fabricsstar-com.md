@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-18T12:00:33.344Z
+- Updated At: 2025-09-18T20:00:33.554Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-09-17T01:02:31Z
+  Updated: 2025-09-18T13:53:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LOBBY.jpg?v=1757517229
     Price: $1.00 USD
 - [Brocade Damask Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-damask-velvet-fabric): Transform your upholstery projects with Brocade Damask Velvet Fabric from Fabrics Star. This embossed material adds elegance and sophistication to coaches, chairs, and more.
-  Updated: 2025-09-16T00:42:44Z
+  Updated: 2025-09-18T15:10:56Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-18T00:22:03Z
+  Updated: 2025-09-18T14:59:40Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
