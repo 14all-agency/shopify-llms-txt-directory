@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-17T20:00:36.066Z
+- Updated At: 2025-09-18T04:00:36.332Z
 
 ## Products
 
@@ -33720,6 +33720,9 @@
     Author: User
   - [Common Tablecloth Mistakes and How to Avoid Them](https://thetableclothstore.com/blogs/news/common-tablecloth-mistakes-and-how-to-avoid-them): Common Tablecloth Mistakes and How to Avoid Them
     Updated: 2025-09-16T01:40:29Z
+    Author: User
+  - [Questions Answered: Everything You Wanted to Know About Tablecloths](https://thetableclothstore.com/blogs/news/questions-answered-everything-you-wanted-to-know-about-tablecloths): Questions Answered: Everything You Wanted to Know About Tablecloths
+    Updated: 2025-09-18T01:13:24Z
     Author: User
 
 ## Store Pages
