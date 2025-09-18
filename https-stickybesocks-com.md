@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-09-17T16:00:33.561Z
+- Updated At: 2025-09-18T00:00:33.155Z
 
 ## Products
 
@@ -396,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/SBS_1-2-21_BabySets_-Grls-0376_600x600_c2dd9dd4-de64-4607-b43e-cb7dcce5605a.jpg?v=1613590341
   Price: $40.00 USD
 - [Buy Toddler Winter 2 Pack Grip Socks 2T-4T (Frost) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/toddler-winter-2-pack-grip-socks-2t-4t-frost): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Toddler Winter 2 Pack Grip Socks 2T-4T (Frost).
-  Updated: 2025-09-17T06:06:11Z
+  Updated: 2025-09-17T18:10:56Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -438,7 +438,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/BeNice_BeCurious_KidsSet4_0066_1500x1500_7b17e227-ac6b-47cb-bace-9d795186fc96.jpg?v=1637695507
   Price: $14.00 USD
 - [Buy Half Toe Be You Marbled Grip Socks (Ash) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/half-toe-be-you-marbled-grip-socks-ash): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Half Toe Be You Marbled Grip Socks (Ash).
-  Updated: 2025-09-02T00:55:43Z
+  Updated: 2025-09-17T17:44:00Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -725,7 +725,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/BeGrateful_Front_1500x1500_319292.jpg?v=1745521520
   Price: $16.00 USD
 - [Buy Be Unique Marlowe Grip Socks (Beach) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-unique-marlowe-grip-socks-sand): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Unique Marlowe Grip Socks (Beach).
-  Updated: 2025-09-16T12:07:05Z
+  Updated: 2025-09-17T17:44:00Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
