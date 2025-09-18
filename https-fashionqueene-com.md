@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-17T20:02:20.958Z
+- Updated At: 2025-09-18T00:02:22.671Z
 
 ## Products
 
@@ -65,7 +65,7 @@
   Updated: 2025-09-16T07:58:21Z
   Price: $18.34 USD — $32.14 USD
 - [2pcs Diamond Studded Real Nail Scale Alloy Set Quartz Bracelet Watch - Fashionqueene.com](https://fashionqueene.com/products/2pcs-fashionable-diamond-studded-real-nail-scale-alloy-set-quartz-bracelet-watch-for-womens-watches): Expertly crafted with real nail scale alloy, this set of 2 fashionable diamond-studded watches adds a touch of elegance to any outfit. With precision quartz movement and a sturdy bracelet design, these watches are both stylish and functional. Perfect for any woman looking to make a statement. SPECIFICATIONS Brand Name: other Water Resistance Depth: No Waterproof Movement: Quartz Band Material Type: ALLOY Hign-concerned Chemical: None Display Type: Numberless Case Material: ALLOY Style: Luxury Clasp Type: Hook Buckle Origin: Mainland China Model Number: Quart watch Dial Window Material Type: Glass Case Shape: Round Choice: yes • Fashionable Design :This luxury watch features a fashionable diamond studded real nail scale alloy set, making it a stylish accessory for any outfit. • Quartz Movement :Equipped with a reliable quartz movement, this watch ensures accurate timekeeping, making it perfect for daily wear. • Non-Waterproof :The watch is not waterproof, limiting its use in water-related activities but ensuring its longevity as a dry item. • Luxury Style :With its round case shape and hook buckle clasp, this watch exudes a luxurious style that is sure to impress. • Alloy Material :The case and band material are both alloy, providing durability and longevity while maintaining a sophisticated look. • Glass Dial Window :The glass dial window adds a touch of elegance to the watch, making it a perfect gift for any occasion. - Fashionqueene.com
-  Updated: 2025-09-17T18:54:03Z
+  Updated: 2025-09-17T23:59:51Z
   Price: $25.00 USD — $26.63 USD
 - [Flip Wallet Case for Samsung Galaxy S24 Ultra S24 Plus S24, Leather Magnetic Folio Cover with Card Holder Shockproof - Fashionqueene.com](https://fashionqueene.com/products/flip-wallet-case-for-samsung-galaxy-s24-ultra-s24-plus-s24-leather-magnetic-folio-cover-with-card-holder-shockproof-phone-cases): Enhance the protection and convenience of your Samsung Galaxy S24 Ultra S24 Plus S24 with our Flip Wallet Case. Made of durable leather, its magnetic closure keeps your phone secure while its built-in card holder adds functionality. Shockproof design defends against accidental drops, making it an ideal phone case for daily use. SPECIFICATIONS Brand Name: WeFor Origin: Mainland China Type: FULL COVERAGE Design: Plain Features: Anti-Fingerprint Features: Anti-Scratch Features: Card Pocket Features: With Lanyard Features: Storage Compartment Compatible Brand: Samsung Brand Name: WeFor Compatible Model 1: For Samsung Galaxy S24 Compatible Model 2: For Samsung Galaxy S24 Plus Compatible Model 3: For Samsung Galaxy S24 Ultra Sales: Retail and wholesale - Fashionqueene.com
   Updated: 2025-09-11T20:31:17Z
@@ -83,7 +83,7 @@
   Updated: 2025-09-11T20:31:16Z
   Price: $55.00 USD
 - [Judy Blue Full Size Mid Rise Rigid Magic Release Hem Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans-1): These Mid Rise Rigid Magic Release Hem Jeans are a stylish and versatile choice for any occasion. The mid rise waist provides a flattering silhouette, while the rigid fabric offers a structured and classic look. The magic release hem detail adds a unique touch to these jeans, giving them a modern and on-trend edge. Perfect for dressing up or down, these jeans are sure to become a wardrobe staple. Pair them with heels for a night out or sneakers for a casual day look. Embrace comfort and style with these chic jeans.Style #: 88818 Features: Basic style Stretch: Moderate stretch Material composition: Front panel: 71% cotton, 29% V (lyocell)Back panel: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip inseam Rise 0/24 XS 24 30 29.5 10.5 1/25 S 25 31 29.5 10.5 3/26 S 26 32 29.5 10.5 5/27 M 27 33 29.5 11 7/28 M 28 34 29.5 11 9/29 L 29 35 29.5 11 11/30 L 30 36 29.5 11.5 13/31 XL 31 37 29.5 11.5 15/32 XL 32 38 29.5 12 14W 1XL 31 41 30 12.1 16W 1XL 32 42 30 12.1 18W 2XL 34 45 30 12.5 20W 3XL 36 47 30 12.5 22W 4XL 38 50 30 12.5 24W 5XL 40 52 30 13 - Fashionqueene.com
-  Updated: 2025-09-17T16:36:30Z
+  Updated: 2025-09-17T22:56:31Z
   Price: $33.99 USD
 - [Judy Blue Full Size High Waist Skinny Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-skinny-jeans-1): The High Waist Skinny Jeans are a versatile and flattering essential for your wardrobe. Featuring a high waist design, these jeans provide a comfortable and slimming fit that accentuates your curves. The skinny leg silhouette offers a sleek and modern look that pairs well with a variety of tops and shoes. Made from stretchy denim fabric, these jeans offer both style and comfort for all-day wear. Perfect for creating stylish and streamlined outfits, these high waist skinny jeans are a timeless piece that can be dressed up or down for any occasion. Elevate your style with these chic and figure-flattering jeans that are a go-to option for a sleek and on-trend look.Style #: 88687 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 24 30 29.5 9.5 1/25 25 31 29.5 10 3/26 26 32 29.5 10 5/27 27 33 29.5 10.5 7/28 28 34 29.5 10.5 9/29 29 35 29.5 11 11/30 30 36 29.5 11 13/31 31 37 29.5 11 15/32 32 39 29.5 11.5 14W 32 41 29.5 11.5 16W 32 41 29.5 12 18W 34 43 29.5 12 20W 36 45 29.5 12.5 22W 38 48 29.5 13 24W 40 51 29.5 13 - Fashionqueene.com
   Updated: 2025-09-17T03:05:42Z
@@ -233,7 +233,7 @@
   Updated: 2025-09-16T23:56:01Z
   Price: $61.00 USD
 - [Judy Blue Full Size Side Seam Detail Straight Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-side-seam-detail-straight-jeans-with-pockets): The Side Seam Detail Straight Jeans with Pockets are a contemporary take on a classic style. Featuring unique side seam detailing, these jeans add a modern twist to the timeless straight fit. Style #: 82629 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 5% ployester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 28 10 1/25 24 30 28 10 3/26 25 31 28 10 5/27 26 32 28 10.5 7/28 27 33 28 10.5 9/29 28 34 28 10.5 11/30 29 35 28 11 13/31 30 37 28 11 15/32 31 38 28 11 14W 31 40 28 11.5 16W 30 40 28 11.5 18W 32 42 28 12 20W 35 45 28 12 22W 37 47 28 13 24W 39 50 28 13 - Fashionqueene.com
-  Updated: 2025-09-17T19:12:41Z
+  Updated: 2025-09-17T22:25:11Z
   Price: $65.15 USD
 - [Judy Blue Full Size Run Mid-Rise Waist Skinny Jeans with Thermal Lining - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-run-mid-rise-waist-skinny-jeans-with-thermal-lining): Indulge in the ultimate luxury with Judy Blue's Full Size Run Mid-Rise Waist Skinny Jeans. These premium jeans feature a thermal lining that adds extra warmth, making them perfect for colder days. The mid-rise waist and skinny fit provide a sleek and chic look, while the full size run ensures a perfect fit for all body types. Elevate your wardrobe with these exclusive and sophisticated jeans. Mid-Rise Waist Skinny Jeans with Pockets are a versatile and essential piece for any wardrobe. With a flattering mid-rise waist and slimming skinny fit, these jeans create a sleek and stylish look. The addition of a thin thermal lining provides lightweight warmth, making them perfect for cooler days, while the pockets offer both functionality and casual flair. Whether dressed up with a blouse and heels or paired with a t-shirt and sneakers for a more relaxed vibe, these jeans are sure to become a go-to staple in your closet. Style #: 82639 Features: Thermal Lining Waist line: Mid waist Stretch: Moderate stretch Material composition: 93.7% cotton, 5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 28 9 1/25 24 30 28 9 3/26 25 31 28 9.5 5/27 26 32 28 9.5 7/28 27 33 28 10 9/29 28 34 28 10 11/30 29 35 28 10.5 13/31 30 37 28 10.5 15/32 31 38 28 11 14W 31 40 28 11.5 16W 30 40 28 11.5 18W 32 42 28 12 20W 35 45 28 12 22W 37 47 28 12.5 24W 39 50 28 12.5 - Fashionqueene.com
   Updated: 2025-09-16T20:12:43Z
@@ -671,7 +671,7 @@
   Updated: 2025-09-15T22:44:22Z
   Price: $23.15 USD
 - [Cable-Knit Round Neck Color Block Sweater Dress - Fashionqueene.com](https://fashionqueene.com/products/cable-knit-round-neck-color-block-sweater-dress): Features: Cable-Knit Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Bust Waist Hip Sleeve Length Shoulder S 4 32.7 39.4 39.4 39.4 22 20.1 M 6/8 33.1 40.9 40.9 40.9 22.4 20.9 L 10/12 33.5 43.3 43.3 43.3 22.8 21.7 - Fashionqueene.com
-  Updated: 2025-09-11T20:30:02Z
+  Updated: 2025-09-17T23:49:34Z
   Price: $32.15 USD
 - [Sequin Round Toe Flat Sneakers - Fashionqueene.com](https://fashionqueene.com/products/sequin-round-toe-flat-sneakers): Includes: Box not included Heel height: Flats Material: Rubber, PU leather, Sequin, Cloth Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4 - Fashionqueene.com
   Updated: 2025-09-17T04:25:28Z
@@ -2905,7 +2905,7 @@
   Updated: 2025-09-17T11:10:12Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-17T11:09:36Z
+  Updated: 2025-09-17T23:04:04Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
   Updated: 2025-09-17T11:10:34Z
@@ -3001,7 +3001,7 @@
   Updated: 2025-09-17T10:29:19Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-17T15:47:48Z
+  Updated: 2025-09-17T23:04:04Z
   Total Products: 4620
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
