@@ -8,7 +8,7 @@
 - Contact Email: hello@apella.in
 - Contact Phone: +91 6230116927
 - Address: Red Apple Inn, NH 72, Bhatanwali, Paonta Sahib, Himachal Pradesh, India
-- Updated At: 2025-09-18T08:01:04.935Z
+- Updated At: 2025-09-18T12:01:07.094Z
 
 ## Products
 
@@ -31,7 +31,7 @@
   Updated: 2025-09-10T09:10:41Z
   Price: ₹1,794.00 INR
 - [Buy Plus Size ​Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T23:08:26Z
+  Updated: 2025-09-18T11:22:00Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Blue Floral Cotton Shorts | Apella - The XS to 10XL Store](https://www.apella.in/products/blue-floral-cotton-shorts): The Blue Floral Cotton Shorts are a charming and playful addition to your summer wardrobe. Featuring a delightful floral pattern in shades of blue, these shorts exude a fresh and feminine vibe. Crafted for comfort, the shorts offer a relaxed fit, making them ideal for casual days and warm-weather outings. Pair them with a simple tee or a stylish blouse for an effortlessly chic look. Material:- Cotton Color:- Sky Blue Waistline:- Fully Elasticated | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:07:41Z
@@ -46,19 +46,19 @@
   Updated: 2025-09-03T11:07:47Z
   Price: ₹976.00 INR
 - [Buy Plus Size ​Rayon Skirt Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-skirt-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:22:22Z
+  Updated: 2025-09-18T11:37:37Z
   Price: ₹1,195.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Seaside Rose Twill Checked Dress | Apella - The XS to 10XL Store](https://www.apella.in/products/seaside-rose-twill-checked-dress): Product Details- Sea Green Maxi Dress made from Twill Rayon fabric Features timeless Checked Pattern Collar Neckline and Full Sleeves | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:09:25Z
   Price: ₹1,995.00 INR — ₹2,195.00 INR
 - [Buy Plus Size ​Leafy Rayon Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/leafy-rayon-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:39:55Z
+  Updated: 2025-09-18T11:39:16Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Cotton Patiala Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-patiala-salwar): Tailored to a tapering fit and crafted from breathable cotton this pair of salwar is what completes your Indie look. It has self tie up drawstrings, one side pocket and full pleats and gives you a comfortable fit. Material:- Cotton Pattern:- Pleated Waistband:- Tie Up Pocket:- One Side | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:09:17Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Patiala Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-patiala-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T07:51:45Z
+  Updated: 2025-09-18T11:47:21Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Detailed Cotton Kurta Pajama | Apella - The XS to 10XL Store](https://www.apella.in/products/detailed-cotton-kurta-pajama): Product Details- White Embroidered Kurta Pajama Made from breathable Cotton fabric Collar Neckline with Half Button Closure Comes with Solid Bottom with pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:58Z
@@ -70,7 +70,7 @@
   Updated: 2025-09-10T09:10:55Z
   Price: ₹995.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Detailed Waistline Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/detailed-waistline-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:40:50Z
+  Updated: 2025-09-18T11:41:08Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Minimal Magic Kurta Pajama | Apella - The XS to 10XL Store](https://www.apella.in/products/minimal-magic-kurta-pajama-1): Dress up to impress by donning this amazing white full sleeve mandarin collar kurta pyjama set by Apella. Made with premium quality cotton, this set ensures maximum breathability and keeps you at ease for long hours. Material:- Cotton Color:- White Neckline:- Mandarin | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:08:13Z
@@ -91,7 +91,7 @@
   Updated: 2025-09-03T11:08:24Z
   Price: ₹500.00 INR — ₹2,500.00 INR
 - [Buy Plus Size ​Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T07:18:10Z
+  Updated: 2025-09-18T11:30:21Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Navy Embellished Cotton Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/embellished-cotton-palazzo): Put your hands on this highly comfortable palazzo crafted with Cotton fabric. The palazzo has a little flare along with beautiful embroidered detailing at the hemline in contrast color. It has a fully elasticized waistband to add to the comfort and double pockets to keep your essentials safe. Material:- Cotton Pattern:- Bell Shaped Waistband:- Fully Elasticized Pockets:- Two Side Color;- Navy Blue This palazzo by Apella crafted in cotton is sure you be your quick pick for the season.The fully palazzo with fully elasticized waistband features contrast embroidered detailing. Having double sided pockets,it will go well with both indie and western wear. | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-17T07:47:33Z
@@ -169,7 +169,7 @@
   Updated: 2025-09-10T09:10:20Z
   Price: ₹994.00 INR
 - [Buy Plus Size ​Tie-up Rayon Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/tie-up-rayon-palazzo): Why It's A Must Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets Flattering Tie-up Detail | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:17:00Z
+  Updated: 2025-09-18T11:37:55Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Sunny Hues Checked A-Line Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/sunny-hues-checked-a-line-kurta): Product Details- Yellow Kurta made from Cotton fabric Features classis Checked Pattern Lapel Collar and 3/4th quarter sleeves | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:09:32Z
@@ -235,37 +235,37 @@
   Updated: 2025-09-10T09:09:26Z
   Price: ₹1,395.00 INR — ₹1,595.00 INR
 - [Buy Plus Size ​Flared Rayon Palazzo Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/flared-rayon-palazzo-pants): Breeze through day with our Flared Rayon Palazzo Pants. Features rayon fabric and elasticized waistline. Sizes in XS to 10XL with free customization.
-  Updated: 2025-09-17T18:20:56Z
+  Updated: 2025-09-18T11:34:11Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Detailed Hemline Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/detailed-hemline-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:33:17Z
+  Updated: 2025-09-18T11:38:04Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Long Skirt | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-long-skirt): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:28:23Z
+  Updated: 2025-09-18T11:38:46Z
   Price: ₹1,195.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Pleated Rayon Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/pleated-rayon-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:04:44Z
+  Updated: 2025-09-18T11:51:22Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Rayon Dhoti Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-dhoti-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:10:54Z
+  Updated: 2025-09-18T11:52:03Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Belted Dhoti Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/belted-dhoti-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T17:43:07Z
+  Updated: 2025-09-18T11:48:36Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Pleated Cotton Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/pleated-cotton-salwar): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-16T23:49:03Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Detailed Rayon Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/detailed-rayon-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:32:40Z
+  Updated: 2025-09-18T11:37:15Z
   Price: ₹1,195.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Rayon Loose Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-loose-palazzo): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:14:39Z
+  Updated: 2025-09-18T11:34:42Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Muted Floral Night Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/muted-floral-night-suit): Product Details- Beige Night Suit made from Rayon fabric Features subtle Floral Print all over Collar Neckline and Half Sleeves Matching Bottom with Two Side Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:11:10Z
   Price: ₹1,495.00 INR — ₹1,795.00 INR
 - [Buy Plus Size ​Scallop Cut Palazzo | Apella - The XS to 10XL Store](https://www.apella.in/products/scallop-cut-palazzo): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Stylish Scallop Cut Design Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T07:18:10Z
+  Updated: 2025-09-18T11:36:36Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Sky Polka Cotton Night Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/sky-polka-cotton-night-suit): Product Details- White Night Suit made from Cotton fabric Features a playful polka print all over Lapel Collar Neckline and half Sleeves Matching Bottom with Two Side Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:11:26Z
@@ -280,7 +280,7 @@
   Updated: 2025-09-16T23:43:05Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Rayon Straight Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-straight-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:16:53Z
+  Updated: 2025-09-18T11:51:42Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Green Hearty Night Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/green-hearty-night-suit): Product Details- Green Night Suit made from Cotton fabric Features charming Hearty Print all over Lapel Collar Neckline and Half Sleeves Matching Bottom with Two Side Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:11:17Z
@@ -298,7 +298,7 @@
   Updated: 2025-09-17T00:56:55Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Afghani Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-afghani-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:02:00Z
+  Updated: 2025-09-18T11:51:00Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Beige Pintuck Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/beige-pintuck-kurta): Crafted with precision, this kurta set in Rayon has a V- neck. In soothing beige color, the kurta set features a pin tuck detailing at the front thoughtfully combined with contrast embroidery at the sleeves and neckline making it your to be favorite. The kurta is a perfect pick for those who want a minimal yet powerful look. The product includes Kurta only. Material:- Rayon Color:- Beige Detailing:- Pin tuck | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:12:02Z
@@ -315,9 +315,6 @@
 - [Buy Plus Size ​Pink Pastel Dress Material | Apella - The XS to 10XL Store](https://www.apella.in/products/pink-pastel-dress-material): Product Details Pink Unstitched Salwar Suit in Georgette fabric The unstitched salwar suit is elevated with Sequin work all over & Thread work Comes with a lining, unstitched bottom and Dupatta Accompanied by the Apella guarantee of superior quality The unstitched dress material can be stitched in Sizes from XS to 8XL Sizes & Fit Kurta: 2.5 Mtrs; Bottom: 2.5 Mtrs; Dupatta: 2.25 Mtrs Material & Care Dry Clean Only | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:35Z
   Price: ₹3,600.00 INR
-- [Buy Plus Size ​Golden Silk Dress Material | Apella - The XS to 10XL Store](https://www.apella.in/products/golden-silk-dress-material): Product Details Golden Unstitched Salwar Suit in Silk fabric The unstitched salwar suit is elevated with Light thread work all Comes with a lining, unstitched bottom and Kashmiri embroidery multi colored Dupatta Accompanied by the Apella guarantee of superior quality The unstitched dress material can be stitched in Sizes from XS to 6XL Sizes & Fit Kurta: 2.5 Mtrs; Bottom: 2.5 Mtrs; Dupatta: 2.25 Mtrs Material & Care Dry Clean Only | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-10T09:10:34Z
-  Price: ₹4,000.00 INR
 - [Buy Plus Size ​Red A-Line Cotton Linen Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/red-a-line-cotton-linen-kurta): Product Details- Deep Red Kurta made from Cotton fabric Features delicate lace detailing on both sides Sweetheart Neckline and 3/4th quarter sleeves | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:09:25Z
   Price: ₹1,595.00 INR — ₹1,795.00 INR
@@ -325,10 +322,10 @@
   Updated: 2025-09-10T09:10:18Z
   Price: ₹5,200.00 INR
 - [Buy Plus Size ​Red Banarasi Silk Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/red-banarasi-silk-suit): Product Details Red Unstitched Salwar Suit in Silk fabric The unstitched salwar suit is elevated with Meenakari thread work Comes with a lining, unstitched Bottom and chiffon Dupatta Accompanied by the Apella guarantee of superior quality The unstitched dress material can be stitched in Sizes from XS to 6XL Sizes & Fit Kurta: 2.5 Mtrs; Bottom: 2.5 Mtrs; Dupatta: 2.25 Mtrs Material & Care Dry Clean Only | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-10T09:10:36Z
+  Updated: 2025-09-18T10:26:39Z
   Price: ₹2,800.00 INR
 - [Buy Plus Size ​Frilled Rayon Sharara | Apella - The XS to 10XL Store](https://www.apella.in/products/frilled-rayon-sharara): Why It's A Must-Have? Breathable Rayon Fabric Comforting All Day Fit Functional Pockets Stylish Frill Detailing for added flair | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:16:01Z
+  Updated: 2025-09-18T11:35:26Z
   Price: ₹1,195.00 INR — ₹1,395.00 INR
 - [Buy Plus Size ​Peacock Green Mirrored Fancy Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/peacock-green-mirrored-fancy-suit): Product Details Peacock Green Unstitched Salwar Suit in Georgette fabric The unstitched salwar suit is elevated with sequin work and mirror work Comes with a lining, unstitched bottom and dupatta Accompanied by the Apella guarantee of superior quality The unstitched dress material can be stitched in Sizes from XS to 4XL Sizes & Fit Kurta: 2.5 Mtrs; Bottom: 2.5 Mtrs; Dupatta: 2.25 Mtrs Material & Care Dry Clean Only | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:19Z
@@ -382,7 +379,7 @@
   Updated: 2025-09-10T09:10:25Z
   Price: ₹2,194.00 INR
 - [Buy Plus Size ​Scallop Cut Rayon Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/scallop-cut-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:04:23Z
+  Updated: 2025-09-18T11:52:24Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Pink Sniffle Woollen Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/pink-sniffle-woollen-kurta): Experience winter in style with this chic and upbeat kurta in a pink hue, perfect to give you a warm and cozy feel. Curated with premium acrylic wool, this printed straight-fit kurta featuring a boat neck with 3/4 quarter sleeves will definitely amp up your winter closet. Sport this piece on both casual and festive occasion with a set of white bottom and statement earrings to finish your ensemble. Material:- Blended Pashmina Color:- Pink Neckline:- Boat | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:24Z
@@ -589,7 +586,7 @@
   Updated: 2025-09-10T09:10:21Z
   Price: ₹5,495.00 INR — ₹5,695.00 INR
 - [Buy Plus Size ​Rayon Churidar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-churidar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T18:03:07Z
+  Updated: 2025-09-18T11:50:08Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Aboli Abeer Anarkali Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/aboli-abeer-anarkali-suit): This festive season curate a stylish look by wearing this stunning Mustard Anarkali kurta, pant. Tailored to sartorial perfection with a flowy Rayon fabric, it assures a soft and soothing touch against the skin. The scoop neck and 3/4 sleeves embellished with thread embroidery design further add to its appeal. Style this set with a pair of super-sized earrings and kolhapuri heels to complete the look. Material:- Rayon Color:- Mustard Neckline:- Scoop | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-11T05:05:57Z
@@ -835,7 +832,7 @@
   Updated: 2025-09-18T04:19:27Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Easy Fit Rayon Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/easy-fit-rayon-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T17:41:40Z
+  Updated: 2025-09-18T11:48:07Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Pink Sequin Organza Skirt Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/pink-sequin-organza-skirt-suit): Product Details- Elegant Pink Suit Set made from Organza fabric Features intricate Sequin Work all Over Matching solid Skirt with Thread & Sequin Work ending Easy to carry Lace detailed Dupatta | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:39Z
@@ -945,9 +942,6 @@
 - [Buy Plus Size ​Peacock Green Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/peacock-green-silk-blouse-1): Product Details- Peacock Green Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Square Neckline and Half Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-13T04:41:50Z
   Price: ₹1,595.00 INR — ₹1,795.00 INR
-- [Buy Plus Size ​Merry Magenta Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/merry-magenta-silk-blouse): Product Details- Magenta Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Sweetheart Neckline and Half Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-10T09:10:40Z
-  Price: ₹1,596.00 INR
 - [Buy Plus Size ​Scarlet Red Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/scarlet-red-silk-blouse): Product Details- Red Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Round Neckline and 3/4th Quarter Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-12T05:26:14Z
   Price: ₹1,436.00 INR
@@ -955,10 +949,10 @@
   Updated: 2025-09-10T09:10:17Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Mahogany Maroon Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/mahogany-maroon-silk-blouse): Product Details- Deep Maroon Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Square Neckline and 3/4th Quarter Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T02:54:56Z
+  Updated: 2025-09-18T11:02:46Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Gleamy Gold Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/gleamy-gold-silk-blouse): Product Details- Golden Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Round Neckline and 3/4th Quarter Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-15T09:54:25Z
+  Updated: 2025-09-18T11:02:50Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Classic Black Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/classic-black-silk-blouse): Product Details- Black Blouse made from Silk fabric Features stunning Gold Jacquard Weaving Round Neckline and 3/4th Quarter Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-14T11:14:15Z
@@ -1414,22 +1408,22 @@
   Updated: 2025-09-10T09:10:23Z
   Price: ₹3,595.00 INR — ₹3,695.00 INR
 - [Buy Plus Size ​Rayon Easy Fit Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-easy-fit-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T17:54:22Z
+  Updated: 2025-09-18T11:49:00Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Cotton Patiala Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-patiala-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T04:41:30Z
+  Updated: 2025-09-18T11:25:10Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Rayon Afghani Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/rayon-afghani-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T07:18:05Z
+  Updated: 2025-09-18T11:49:43Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Straight Cotton Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/straight-cotton-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-16T23:40:00Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Straight Rayon Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/straight-rayon-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T17:55:43Z
+  Updated: 2025-09-18T11:49:25Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Pleated Rayon Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/pleated-rayon-salwar-pants): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T17:37:53Z
+  Updated: 2025-09-18T11:45:44Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Cotton Easy Fit Salwar Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/cotton-easy-fit-salwar-pants): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-17T00:24:04Z
@@ -1690,7 +1684,7 @@
   Updated: 2025-09-13T04:41:51Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Festive Fawn Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/festive-fawn-silk-blouse): Product Details- Golden Blouse made from Kanchivaram Silk fabric Features a solid pattern for a timeless look Round Neckline and Half Sleeves Comes with Back Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-10T09:10:30Z
+  Updated: 2025-09-18T08:18:55Z
   Price: ₹1,795.00 INR — ₹1,995.00 INR
 - [Buy Plus Size ​Grey Glamour Silk Blouse | Apella - The XS to 10XL Store](https://www.apella.in/products/grey-glamour-silk-blouse): Product Details- Grey Blouse made from Kanchivaram Silk fabric Features a solid pattern for a timeless look Round Neckline and 3/4th Quarter Sleeves Comes with Front Hook Closure | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:18Z
@@ -2817,9 +2811,6 @@
 - [Buy Plus Size ​Lemon Yellow Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/lemon-yellow-rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:20:34Z
   Price: ₹895.00 INR — ₹1,195.00 INR
-- [Buy Plus Size ​Off White Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/off-white-rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T06:31:16Z
-  Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Onion Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/onion-rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:09:13Z
   Price: ₹894.00 INR — ₹1,194.00 INR
@@ -3394,7 +3385,7 @@
   Updated: 2025-09-10T09:10:42Z
   Price: ₹5,395.00 INR — ₹5,595.00 INR
 - [Buy Plus Size ​Rucha Jacquard Silk Suit Set | Apella - The XS to 10XL Store](https://www.apella.in/products/rucha-jacquard-silk-suit-set): Pure White Suit Set made from Silk fabric Features intricate Jacquard Weaving Matching solid bottom with pockets & Gota edging Stunning Jacquard Woven Silk Dupatta | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-10T09:10:40Z
+  Updated: 2025-09-18T10:48:55Z
   Price: ₹5,495.00 INR — ₹5,695.00 INR
 - [Buy Plus Size ​Vibhaa Jacquard Silk Suit Set | Apella - The XS to 10XL Store](https://www.apella.in/products/vibhaa-jacquard-silk-suit-set): Radiant White Suit Set made from Silk fabric Features intricate Jacquard Weaving Matching solid bottom with pockets & Gota edging Stunning Jacquard Woven Silk Dupatta | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:27Z
@@ -3631,8 +3622,8 @@
   Updated: 2025-09-10T09:11:13Z
   Price: ₹1,356.00 INR
 - [Buy Plus Size ​Melon Magic Cotton Night Gown | Apella - The XS to 10XL Store](https://www.apella.in/products/melon-magic-cotton-night-gown): Product Details- White Night Gown made from Cotton fabric Features a watermelon print all-over square Neckline and Half Sleeves Front & Back Pleats for added volume and movement | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-13T18:35:15Z
-  Price: ₹1,196.00 INR — ₹1,356.00 INR
+  Updated: 2025-09-18T11:17:13Z
+  Price: ₹1,196.00 INR
 - [Buy Plus Size ​Misty Mauve Cotton Night Gown | Apella - The XS to 10XL Store](https://www.apella.in/products/misty-mauve-cotton-night-gown): Product Details- Mauve Night Gown made from Cotton fabric Features charming Floral Print all over Round Neckline and Half Sleeves | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:11:27Z
   Price: ₹1,046.00 INR
@@ -4506,9 +4497,6 @@
 - [Buy Plus Size ​Rust Checked Woollen Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/rust-checked-woollen-kurta): Turn heads with the timeless charm of our Rust Checked Woollen Kurta, designed to keep you warm and comfortable all day without sacrificing style. Crafted from brushed cotton, it features a collar neckline with a button-down placket and front opening, complemented by full sleeves. This kurta offers a refined, stylish look for any occasion. The product includes only Kurta. Material:- Brushed Cotton Color:- Rust Neckline:- Collar | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-10T09:10:13Z
   Price: ₹1,695.00 INR — ₹1,895.00 INR
-- [Buy Plus Size ​Magenta Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/magenta-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T03:35:41Z
-  Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Surmayi Shaam Handcrafted Tissue Saree | Apella - The XS to 10XL Store](https://www.apella.in/products/surmayi-shaam-handcrafted-tissue-saree): Product Details- Smoke Grey Plus Size Saree made from Tissue Silk fabric Features exquisite Handcrafted Details with Shimmer Comes with Gota Edging all side Ready To Wear Silk Blouse | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-12T07:47:00Z
   Price: ₹9,995.00 INR
@@ -4656,9 +4644,6 @@
 - [Buy Plus Size ​Bottle Green Rayon Pleated Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/bottle-green-rayon-pleated-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:30:27Z
   Price: ₹895.00 INR — ₹1,195.00 INR
-- [Buy Plus Size ​Off White Rayon Pleated Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/off-white-rayon-pleated-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-10T11:24:31Z
-  Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Orange Rayon Pleated Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/orange-rayon-pleated-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:30:29Z
   Price: ₹895.00 INR — ₹1,195.00 INR
@@ -4683,9 +4668,6 @@
 - [Buy Plus Size ​Sky Blue Rayon Pleated Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/sky-blue-rayon-pleated-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-05T05:13:10Z
   Price: ₹895.00 INR — ₹1,195.00 INR
-- [Buy Plus Size ​Yellow Pleated Rayon Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/yellow-pleated-rayon-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-03T11:30:38Z
-  Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Light Grey Pleated Rayon Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/light-grey-pleated-rayon-salwar): Why It's a Must-Have? Breathable Rayon Fabric Unmatched Ease One Side Pocket Sweat Absorbent Non Transparent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:30:38Z
   Price: ₹994.00 INR
@@ -4699,7 +4681,7 @@
   Updated: 2025-09-16T08:36:20Z
   Price: ₹5,495.00 INR — ₹5,695.00 INR
 - [Buy Plus Size ​Deep Maroon Jacquard Silk Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/deep-maroon-jacquard-silk-suit): Product Details- Deep Maroon Suit Set made from Silk fabric Features intricate Jacquard Weaving Matching solid bottom with pockets & Gota edging Stunning Jacquard Woven Silk Dupatta | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-11T06:42:54Z
+  Updated: 2025-09-18T11:20:30Z
   Price: ₹5,595.00 INR — ₹5,795.00 INR
 - [Buy Plus Size ​Maroon Mystique Fancy Suit Set | Apella - The XS to 10XL Store](https://www.apella.in/products/maroon-mystique-fancy-suit-set): Product Details- Maroon Suit Set made from Silk fabric Features intricate Jacquard Weaving Matching solid bottom with pockets & Gota edging Stunning Jacquard Woven Silk Dupatta | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:30:43Z
@@ -4785,9 +4767,6 @@
 - [Buy Plus Size ​Greyish Green Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/greyish-green-rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:31:03Z
   Price: ₹1,194.00 INR
-- [Buy Plus Size ​Yellow Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/yellow-rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T06:44:41Z
-  Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Royal Blue Rayon Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/royal-blue-rayon-kurti-pant): Why It's a Must-Have? Breathable Rayon Fabric Comforting all day fit Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-17T06:31:16Z
   Price: ₹894.00 INR — ₹1,194.00 INR
@@ -4811,9 +4790,6 @@
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Firozi Pleated Cotton Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/firozi-pleated-cotton-salwar): Why You Will Love This? Breathable Cotton Fabric Ease of Movement One Side Pocket Sweat Absorbent | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-16T08:58:15Z
-  Price: ₹895.00 INR — ₹1,195.00 INR
-- [Buy Plus Size ​Light Onion Pleated Cotton Salwar | Apella - The XS to 10XL Store](https://www.apella.in/products/firozi-pleated-cotton-salwar-copy): Introducing our Black Pleated Cotton Salwar, a perfect fusion of comfort and style. Crafted with cotton fabric, this salwar offers all-day ease and elegance. Its elasticized waist ensures a snug yet flexible fit, accommodating various body types with ease. Adding to its functionality, a convenient single-size pocket is included, offering practical storage for essentials. Embrace effortless sophistication with this versatile wardrobe staple, ideal for casual outings or relaxed days at home. Material:- Cotton Waistline:- Elasticized Pattern:- Semi Pleated Pocket:- One Side Color;- Light Onion | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-03T11:31:15Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Ivory Merlot Woollen Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/ivory-merlot-woollen-kurta): Embrace cozy elegance with our Ivory Merlot Woollen Kurta. Made from pashmina fabric, it features floral weaving all over, sweetheart neckline with potli buttons and full sleeves with contrast sleeves. The product includes only Kurta. Material:- Pashmina Color:- Ivory Neckline:-Sweetheart | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-13T09:50:45Z
@@ -5070,9 +5046,6 @@
 - [Buy Plus Size ​Rosewood Pink Rayon Anarkali Set | Apella - The XS to 10XL Store](https://www.apella.in/products/rosewood-pink-rayon-anarkali-set): Product Details- Baby pink rayon Anarkali with a flowy silhouette V-neck adorned with multicolor lace embellishment Quarter sleeves with delicate lace detailing Solid matching bottom for a seamless look Paired with a wine silk dupatta featuring multicolor floral and geometric prints | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:32:34Z
   Price: ₹2,795.00 INR — ₹3,095.00 INR
-- [Buy Plus Size ​Golden Glow Rayon Anarkali Set | Apella - The XS to 10XL Store](https://www.apella.in/products/golden-glow-rayon-anarkali-set): Product Details- Bright yellow Anarkali with a flattering flowy fit Sweetheart neckline with multicolor lace and buttons Quarter sleeves enhanced with delicate lace detailing Matching solid bottom for a cohesive look Paired with a multicolored silk dupatta with floral and geometric prints | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T07:37:05Z
-  Price: ₹2,795.00 INR — ₹3,095.00 INR
 - [Buy Plus Size ​Vibrant Firozi Rayon Salwar Suit | Apella - The XS to 10XL Store](https://www.apella.in/products/vibrant-firozi-rayon-salwar-suit): Product Details- Firozi rayon straight-cut suit with a sleek silhouette Sweetheart neckline with multicolor lace and buttons Quarter sleeves with delicate lace detailing Matching solid bottom for a seamless look Paired with a vibrant multicolored silk dupatta | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:32:35Z
   Price: ₹2,595.00 INR — ₹2,795.00 INR
@@ -5180,9 +5153,6 @@
   Price: ₹795.00 INR — ₹995.00 INR
 - [Buy Plus Size ​Timeless Black Pleated Rayon Top | Apella - The XS to 10XL Store](https://www.apella.in/products/timeless-black-pleated-rayon-top): Product Details- A versatile Black top in Viscose Rayon Mandarin-style neckline with a front pleat Full sleeves with cuff and rouching detail Relaxed fit for all-day comfort | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:33:14Z
-  Price: ₹795.00 INR — ₹995.00 INR
-- [Buy Plus Size ​Ivory Elegance Pleated Rayon Top | Apella - The XS to 10XL Store](https://www.apella.in/products/ivory-elegance-pleated-rayon-top): Product Details- Solid ivory-colored pleated top Mandarin-style neckline with a front pleat Full sleeves with cuffs and rouching details Soft rayon fabric with a relaxed fit | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-03T11:33:15Z
   Price: ₹795.00 INR — ₹995.00 INR
 - [Buy Plus Size ​Solid Olive Pleated Rayon Top | Apella - The XS to 10XL Store](https://www.apella.in/products/solid-olive-pleated-rayon-top): Product Details- A versatile Olive colored solid top Mandarin-style neckline with a front pleat Long sleeves with cuffs and rouching details Soft rayon fabric with a relaxed fit | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:33:15Z
@@ -5443,10 +5413,10 @@
   Updated: 2025-09-16T09:15:59Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Khakhi All Day Flared Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/khakhi-all-day-flared-pants): Why It's a Must-Have? Versatile flared pants with two deep pockets Elasticized waistline for all day comfort Anti-wrinkle & light-weight fabric One side slit for a sharp look | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-09T10:41:22Z
+  Updated: 2025-09-18T08:58:16Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​White All Day Flared Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/white-all-day-flared-pants): Why It's a Must-Have? Versatile flared pants with two deep pockets Elasticized waistline for all day comfort Anti-wrinkle & light-weight fabric One side slit for a sharp look | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-17T06:33:30Z
+  Updated: 2025-09-18T11:18:40Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Black All Day Flared Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/black-all-day-flared-pants): Why It's a Must-Have? Versatile flared pants with two deep pockets Elasticized waistline for all day comfort Anti-wrinkle & light-weight fabric One side slit for a sharp look | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:34:30Z
@@ -5467,7 +5437,7 @@
   Updated: 2025-09-03T11:34:33Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Wine All Day Flared Pants | Apella - The XS to 10XL Store](https://www.apella.in/products/wine-all-day-flared-pants): Why It's a Must-Have? Versatile flared pants with two deep pockets Elasticized waistline for all day comfort Anti-wrinkle & light-weight fabric One side slit for a sharp look | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-03T11:34:34Z
+  Updated: 2025-09-18T08:58:16Z
   Price: ₹895.00 INR — ₹1,195.00 INR
 - [Buy Plus Size ​Peacock Ajrakh Katha Kurta | Apella - The XS to 10XL Store](https://www.apella.in/products/peacock-ajrakh-katha-kurta): Product Details- Black Ajrakh kurta with fine Katha work Collar neck with wooden button placket till hem A-line cut in warm rusty and beige tones Double pockets in both kurta and bottom for ease | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-03T11:34:35Z
@@ -5581,8 +5551,8 @@
   Updated: 2025-09-11T06:42:54Z
   Price: ₹1,495.00 INR — ₹1,695.00 INR
 - [Buy Plus Size ​Peacock Green Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/peacock-green-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-18T04:43:41Z
-  Price: ₹894.00 INR
+  Updated: 2025-09-18T10:09:30Z
+  Price: ₹894.00 INR — ₹994.00 INR
 - [Buy Plus Size ​Coffee Cotton Kurti Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/coffee-cotton-kurti-pant): Why It's a Must-Have? Breathable Cotton Fabric Comforting all day fit Non Transparent Functional Pockets | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-18T05:59:45Z
   Price: ₹1,194.00 INR
@@ -6153,17 +6123,11 @@
 - [Buy Plus Size ​Black Flared Palazzo Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/black-flared-pant-palazzo): Elevate any outfit instantly with our Black Flared Palazzo Pant. Features rayon fabric and elasticized waistline. Sizes in XS to 10XL with free customization.
   Updated: 2025-09-16T04:50:37Z
   Price: ₹995.00 INR — ₹1,295.00 INR
-- [Buy Plus Size ​Off White Flared Palazzo Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/off-white-flared-pant-palazzo): Why It's a Must-Have? Breathable pure Viscose fabric Medium flared for a breezy wear Double side functional Pockets Comfortable Elasticized Waistline | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-16T06:40:04Z
-  Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Beige Flared Palazzo Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/beige-flared-pant-palazzo): Neutral perfection for pairing with our Beige Flared Palazzo Pant. Features rayon fabric and elasticized waistline. Sizes in XS to 10XL with free customization.
   Updated: 2025-09-13T16:33:40Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Sky Blue Flared Palazzo Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/sky-blue-flared-palazzo-pant): Float through day in our Sky Blue Flared Palazzo Pant. Features rayon fabric and elasticized waistline. Sizes in XS to 10XL with free customization.
   Updated: 2025-09-12T08:44:21Z
-  Price: ₹995.00 INR — ₹1,295.00 INR
-- [Buy Plus Size ​Yellow Flared Palazzo Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/yellow-flared-pant-palazzo): Bring a splash of nature to look our Yellow Flared Palazzo Pant. Features rayon fabric and elasticized waistline. Sizes in XS to 10XL with free customization.
-  Updated: 2025-09-12T08:32:27Z
   Price: ₹995.00 INR — ₹1,295.00 INR
 - [Buy Plus Size ​Baby Pink Flared Palazzo Pant | Apella - The XS to 10XL Store](https://www.apella.in/products/baby-pink-flared-palazzo-pant): Step into soft elegance with our Baby Pink Flared Palazzo Pant. Features rayon fabric and elasticized waistline. Sizes in XS to 10XL with free customization.
   Updated: 2025-09-12T08:51:40Z
@@ -6183,9 +6147,6 @@
 - [Buy Plus Size ​Ivory Karachi Muslin Suit with Embroidery | Apella - The XS to 10XL Store](https://www.apella.in/products/ivory-karachi-muslin-suit-with-embroidery): | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-15T11:03:45Z
   Price: ₹2,995.00 INR
-- [Buy Plus Size ​Gulrang Sitara Muslin Suit with Embroidery | Apella - The XS to 10XL Store](https://www.apella.in/products/gulrang-sitara-muslin-suit-with-embroidery): | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
-  Updated: 2025-09-13T06:45:15Z
-  Price: ₹2,795.00 INR
 - [Buy Plus Size ​Parrot Sitara Muslin Suit with Embroidery | Apella - The XS to 10XL Store](https://www.apella.in/products/parrot-sitara-muslin-suit-with-embroidery): | Apella | Designed with a custom fit for every body shape, available in Plus Sizes XS to 10XL. Style that fits you perfectly.
   Updated: 2025-09-13T08:45:52Z
   Price: ₹2,795.00 INR
@@ -6214,7 +6175,7 @@
   Updated: 2025-09-17T10:55:20Z
   Price: ₹2,995.00 INR — ₹3,295.00 INR
 - [Laddu Peela Embroidered Fancy Suit - Apella](https://www.apella.in/products/laddu-peela-embroidered-fancy-suit): Where joy meets style our Laddu Peela Embroidered Fancy Suit. Features polyester fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XS to 10XL.
-  Updated: 2025-09-16T09:42:22Z
+  Updated: 2025-09-18T11:11:35Z
   Price: ₹2,995.00 INR — ₹3,295.00 INR
 - [Masala Chai Embroidered Fancy Suit - Apella](https://www.apella.in/products/masala-chai-embroidered-fancy-suit): Spice up look with our Masala Chai Embroidered Fancy Suit. Features polyester fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XS to 10XL.
   Updated: 2025-09-17T10:58:27Z
@@ -6235,10 +6196,10 @@
   Updated: 2025-09-16T10:59:25Z
   Price: ₹3,295.00 INR — ₹3,595.00 INR
 - [Onion Blush Embroidered Fancy Suit - Apella](https://www.apella.in/products/onion-blush-embroidered-fancy-suit): Celebrate every mehfil in our Onion Blush Embroidered Fancy Suit. Features polyester fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XS to 10XL.
-  Updated: 2025-09-17T11:20:17Z
+  Updated: 2025-09-18T11:20:30Z
   Price: ₹3,295.00 INR — ₹3,595.00 INR
 - [Onion Gulaabi Embroidered Fancy Suit - Apella](https://www.apella.in/products/onion-gulaabi-embroidered-fancy-suit): Grace meets glamour in our Onion Gulaabi Embroidered Fancy Suit. Features polyester fabric,  and 3/4th sleeves. Paired with pant and dupatta. Sizes in XS to 10XL.
-  Updated: 2025-09-17T14:08:06Z
+  Updated: 2025-09-18T11:11:35Z
   Price: ₹3,295.00 INR — ₹3,595.00 INR
 - [Gulnaar Scarlet Chinon Sharara Suit - Apella](https://www.apella.in/products/gulnaar-scarlet-chinon-sharara-suit): Redefine celebration with our Gulnaar Scarlet Chinon Sharara Suit. Features chinon fabric and 3/4th sleeves. Paired with palazzo and dupatta. Sizes in XS to 10XL.
   Updated: 2025-09-18T06:19:09Z
@@ -6253,7 +6214,7 @@
   Updated: 2025-09-18T07:36:57Z
   Price: ₹4,495.00 INR — ₹4,695.00 INR
 - [Amaltas Yellow Fancy Chinon Suit - Apella](https://www.apella.in/products/amaltas-yellow-fancy-chinon-suit): Sunshine charm in every our Amaltas Yellow Fancy Chinon Suit. Features chinon fabric and 3/4th sleeves. Paired with palazzo and dupatta. Sizes in XS to 10XL.
-  Updated: 2025-09-18T06:28:02Z
+  Updated: 2025-09-18T11:20:30Z
   Price: ₹4,495.00 INR — ₹4,695.00 INR
 - [Anunika Red Fancy Chinon Suit - Apella](https://www.apella.in/products/anunika-red-fancy-chinon-suit): Celebrate beautifully in our Anunika Red Fancy Chinon Suit. Features chinon fabric and jacquard weaving. Paired with palazzo and dupatta. Sizes in XS to 10XL.
   Updated: 2025-09-18T06:35:23Z
@@ -6262,7 +6223,7 @@
 ## Collections
 
 - [Shop Plus Size ​Kurta Sets at  Apella](https://www.apella.in/collections/kurta-sets): Shop ​Kurta Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:57Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 161
 - [Comfortable Women Plus Size Night Suit Shop online at Apella](https://www.apella.in/collections/comfortable-women-plus-size-night-suit): Comfortable women plus size night suits from Apella offer soft fabrics, stylish designs, and perfect fits for cozy nights. Available in cotton, satin, printed, and plus size options.
   Updated: 2025-09-18T05:30:09Z
@@ -6274,7 +6235,7 @@
   Updated: 2025-09-18T05:48:09Z
   Total Products: 18
 - [Shop Plus Size ​Night Gowns at  Apella](https://www.apella.in/collections/night-gowns): Shop ​Night Gowns at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T05:48:09Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 82
 - [Shop Plus Size ​Dresses at  Apella](https://www.apella.in/collections/dresses): Shop ​Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6283,25 +6244,25 @@
   Updated: 2025-09-17T11:28:30Z
   Total Products: 75
 - [Shop Plus Size ​Solid Shirts & Kurtas at  Apella](https://www.apella.in/collections/solid-shirts-kurtas): Shop ​Solid Shirts & Kurtas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T07:01:39Z
+  Updated: 2025-09-18T09:59:56Z
   Total Products: 38
 - [Shop Plus Size ​Men's Bottom Wear at  Apella](https://www.apella.in/collections/bottom-wear-men): Shop ​Men's Bottom Wear at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 132
 - [Shop Plus Size ​Shorts at  Apella](https://www.apella.in/collections/shorts): Shop ​Shorts at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:31Z
   Total Products: 0
 - [Shop Plus Size ​Best Selling Products at  Apella](https://www.apella.in/collections/best-selling-products): Shop ​Best Selling Products at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:59:51Z
-  Total Products: 3928
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 3929
 - [Shop Plus Size ​Newest Products at  Apella](https://www.apella.in/collections/newest-products): Shop ​Newest Products at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:59:51Z
-  Total Products: 3928
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 3929
 - [Shop Plus Size ​Gift Card at  Apella](https://www.apella.in/collections/collection): Shop ​Gift Card at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:32Z
   Total Products: 1
 - [Shop Plus Size ​Winter Wear at  Apella](https://www.apella.in/collections/winter-wear): Shop ​Winter Wear at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-14T11:07:22Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 150
 - [Shop Plus Size ​Maternity Dresses at  Apella](https://www.apella.in/collections/maternity-dresses): Shop ​Maternity Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6316,7 +6277,7 @@
   Updated: 2025-09-13T11:06:26Z
   Total Products: 60
 - [Shop Plus Size ​Woollen Kurta Sets at  Apella](https://www.apella.in/collections/woolen-kurta-sets): Shop ​Woollen Kurta Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-14T11:07:22Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 67
 - [Shop Plus Size ​Woollen Dresses at  Apella](https://www.apella.in/collections/woollen-dresses): Shop ​Woollen Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:34Z
@@ -6328,25 +6289,25 @@
   Updated: 2025-09-03T11:05:35Z
   Total Products: 26
 - [Shop Plus Size ​Bottom Wear at  Apella](https://www.apella.in/collections/bottom-wear): Shop ​Bottom Wear at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 68
 - [Plus Size Unstitched Dress Material | Unstitched Suits - Apella](https://www.apella.in/collections/plus-size-unstitched-dress-material): Shop Apella’s plus size Unstitched Dress Material and Unstitched Fancy Suits for weddings, parties & festive occasions. Discover elegant, affordable party wear suits online & celebrate in style!
-  Updated: 2025-09-15T17:05:24Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 70
 - [Shop Plus Size ​Rayon Kurta Sets at  Apella](https://www.apella.in/collections/rayon-kurta-sets): Shop ​Rayon Kurta Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T08:56:59Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 51
 - [Shop Plus Size ​Printed Bottoms at  Apella](https://www.apella.in/collections/printed-bottoms): Shop ​Printed Bottoms at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-16T11:06:36Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 20
 - [Shop Plus Size ​Anarkali Sets at  Apella](https://www.apella.in/collections/anarkali-sets): Shop ​Anarkali Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T08:56:59Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 54
 - [Shop Plus Size ​Salwars & Patialas at  Apella](https://www.apella.in/collections/salwars-patialas): Shop ​Salwars & Patialas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 25
 - [Shop Plus Size ​Pants & Palazzos at  Apella](https://www.apella.in/collections/pants-palazzos): Shop ​Pants & Palazzos at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:59:51Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 61
 - [Shop Plus Size ​Pajamas at  Apella](https://www.apella.in/collections/pajamas): Shop ​Pajamas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:37Z
@@ -6367,7 +6328,7 @@
   Updated: 2025-09-03T11:05:39Z
   Total Products: 0
 - [Shop Plus Size ​Sale at  Apella](https://www.apella.in/collections/sale): Shop ​Sale at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T05:19:00Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 664
 - [Shop Plus Size ​Women's Kurta Pajama at  Apella](https://www.apella.in/collections/womens-kurta-pajama): Shop ​Women's Kurta Pajama at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:39Z
@@ -6376,8 +6337,8 @@
   Updated: 2025-09-03T11:05:40Z
   Total Products: 56
 - [Fancy Party Wear Suit | Plus Size Wedding & Party Suits – Apella](https://www.apella.in/collections/fancy-party-wear-suit): Shop Apella’s plus size fancy party wear suits for weddings, parties & festive occasions. Discover elegant, affordable party wear suits online & celebrate in style!
-  Updated: 2025-09-18T06:07:53Z
-  Total Products: 226
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 227
 - [Shop Plus Size ​Women Sale: S Size at  Apella](https://www.apella.in/collections/sale-s-size): Shop ​Women Sale: S Size at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-10T09:40:51Z
   Total Products: 14
@@ -6430,7 +6391,7 @@
   Updated: 2025-09-17T11:06:58Z
   Total Products: 40
 - [Shop Plus Size ​Men's Cargos at  Apella](https://www.apella.in/collections/cargos): Shop ​Men's Cargos at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-15T11:07:06Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 70
 - [Shop Plus Size ​Men's Shorts at  Apella](https://www.apella.in/collections/mens-shorts): Shop ​Men's Shorts at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6445,10 +6406,10 @@
   Updated: 2025-09-13T09:46:00Z
   Total Products: 1
 - [Shop Plus Size ​Fancy Anarkali & Dresses at  Apella](https://www.apella.in/collections/fancy-anarkali-dresses): Shop ​Fancy Anarkali & Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 58
 - [Shop Plus Size ​Maternity Bottoms at  Apella](https://www.apella.in/collections/maternity-bottoms): Shop ​Maternity Bottoms at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-16T11:06:36Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 5
 - [Shop Plus Size ​Maternity Kurta Sets at  Apella](https://www.apella.in/collections/maternity-kurta-sets): Shop ​Maternity Kurta Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:28:30Z
@@ -6460,7 +6421,7 @@
   Updated: 2025-09-13T11:06:26Z
   Total Products: 115
 - [Shop Plus Size ​Saree Blouse at  Apella](https://www.apella.in/collections/saree-blouse): Shop ​Saree Blouse at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-16T11:06:36Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 20
 - [Ethnic Party Wear Designer Sharara Suits | Wedding & Festive Suits – A](https://www.apella.in/collections/ethnic-party-wear-designer-sharara-suits): Explore Apella’s ethnic party wear designer sharara suits online. Shop elegant wedding sharara suits, festive embroidered sets & plus size sharara suits today.
   Updated: 2025-09-18T06:07:53Z
@@ -6472,22 +6433,22 @@
   Updated: 2025-09-03T11:05:50Z
   Total Products: 0
 - [Shop Plus Size ​Men's Trousers at  Apella](https://www.apella.in/collections/mens-trousers): Shop ​Men's Trousers at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-15T11:07:06Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 66
 - [Shop Plus Size ​Vaskets at  Apella](https://www.apella.in/collections/vaskets): Shop ​Vaskets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:50Z
   Total Products: 34
 - [Shop Plus Size ​Co-ord Sets at  Apella](https://www.apella.in/collections/co-ord-sets): Shop ​Co-ord Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 121
 - [Shop Plus Size ​Kurta Pajamas at  Apella](https://www.apella.in/collections/kurta-pajamas): Shop ​Kurta Pajamas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:51Z
   Total Products: 88
 - [Shop Plus Size ​Lehengas at  Apella](https://www.apella.in/collections/lehengas): Shop ​Lehengas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-03T11:05:51Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 30
 - [Shop Plus Size ​Lycra Slub Pants at  Apella](https://www.apella.in/collections/lycra-slub-pants): Shop ​Lycra Slub Pants at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-16T11:20:01Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 31
 - [Shop Plus Size ​Cotton Metallic Pants at  Apella](https://www.apella.in/collections/cotton-metallic-pants): Shop ​Cotton Metallic Pants at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-14T11:07:22Z
@@ -6505,7 +6466,7 @@
   Updated: 2025-09-15T16:43:57Z
   Total Products: 16
 - [Shop Plus Size ​Winter Styles at  Apella](https://www.apella.in/collections/winter-collection-2024): Shop ​Winter Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-14T11:07:22Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 169
 - [Shop Plus Size ​Woollen Short Kurtas at  Apella](https://www.apella.in/collections/woollen-short-kurtas): Shop ​Woollen Short Kurtas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:54Z
@@ -6514,7 +6475,7 @@
   Updated: 2025-09-14T11:07:22Z
   Total Products: 49
 - [Shop Plus Size ​Dupattas at  Apella](https://www.apella.in/collections/dupattas): Shop ​Dupattas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 119
 - [Shop Plus Size ​Male Sale : XS Size at  Apella](https://www.apella.in/collections/male-sale-xs-size): Shop ​Male Sale : XS Size at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:05:55Z
@@ -6577,13 +6538,13 @@
   Updated: 2025-09-03T11:06:59Z
   Total Products: 5
 - [Shop Plus Size ​Leggings at  Apella](https://www.apella.in/collections/leggings): Shop ​Leggings at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T09:40:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 10
 - [Shop Plus Size ​Women's Shirts at  Apella](https://www.apella.in/collections/womens-shirts): Shop ​Women's Shirts at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T07:01:39Z
   Total Products: 26
 - [Shop Plus Size ​Winter Best Sellers at  Apella](https://www.apella.in/collections/winter-best-sellers): Shop ​Winter Best Sellers at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-03T11:06:01Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 35
 - [Shop Plus Size ​Woollen Shawls at  Apella](https://www.apella.in/collections/woollen-shawls): Shop ​Woollen Shawls at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:02Z
@@ -6592,19 +6553,19 @@
   Updated: 2025-09-09T11:07:21Z
   Total Products: 183
 - [Shop Plus Size ​New Arrivals at  Apella](https://www.apella.in/collections/new-arrivals): Shop ​New Arrivals at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 48
 - [Shop Plus Size ​Printed Shirts & Kurtas at  Apella](https://www.apella.in/collections/printed-shirts-kurtas): Shop ​Printed Shirts & Kurtas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:58:04Z
   Total Products: 66
 - [Shop Plus Size ​Ghazal- Sequin Sets at  Apella](https://www.apella.in/collections/ghazal-fancy-sequin-sets): Shop ​Ghazal- Sequin Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-07T11:06:41Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 59
 - [Fancy Party Wear Silk Suits | Buy Designer Silk Suits Online – Apella](https://www.apella.in/collections/fancy-party-wear-silk-suits): Shop Apella’s exclusive range of fancy party wear silk suits. Discover pure silk wedding suits, designer silk suits & plus size silk suits online today.
-  Updated: 2025-09-17T19:37:38Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 117
 - [Shop Plus Size ​Boutique Styles at  Apella](https://www.apella.in/collections/boutique-styles): Shop ​Boutique Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:57Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 50
 - [Shop Plus Size ​Georgette Suits at  Apella](https://www.apella.in/collections/georgette-suits): Shop ​Georgette Suits at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6655,19 +6616,19 @@
   Updated: 2025-09-17T11:06:57Z
   Total Products: 82
 - [Shop Plus Size ​Solid Kurta Sets at  Apella](https://www.apella.in/collections/solid-kurta-sets): Shop ​Solid Kurta Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T08:56:59Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 40
 - [Shop Plus Size ​Casual Co-ord Sets at  Apella](https://www.apella.in/collections/casual-co-ord-sets): Shop ​Casual Co-ord Sets at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 94
 - [Shop Plus Size ​Fancy Co-ord Set at  Apella](https://www.apella.in/collections/fancy-co-ord-set): Shop ​Fancy Co-ord Set at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:10Z
   Total Products: 27
 - [Shop Plus Size ​Night Wear at  Apella](https://www.apella.in/collections/night-wear): Shop ​Night Wear at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T05:48:09Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 84
 - [Shop Plus Size ​Eid Outfits at  Apella](https://www.apella.in/collections/eid-outfits): Shop ​Eid Outfits at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 129
 - [Shop Plus Size ​Brocade Weaves at  Apella](https://www.apella.in/collections/brocade-weaves): Shop ​Brocade Weaves at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:11Z
@@ -6688,13 +6649,13 @@
   Updated: 2025-09-03T11:06:12Z
   Total Products: 4
 - [Shop Plus Size ​Cotton Kurti Pants at  Apella](https://www.apella.in/collections/cotton-kurti-pants): Shop ​Cotton Kurti Pants at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:50:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 73
 - [Shop Plus Size ​Rayon Kurti Pants at  Apella](https://www.apella.in/collections/rayon-palazzo-pants): Shop ​Rayon Kurti Pants at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:02:29Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 50
 - [Shop Plus Size ​Rayon Salwars at  Apella](https://www.apella.in/collections/rayon-salwars): Shop ​Rayon Salwars at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:07:19Z
+  Updated: 2025-09-18T09:53:23Z
   Total Products: 53
 - [Shop Plus Size ​Ready To Ship Cargo at  Apella](https://www.apella.in/collections/ready-to-shipped-cargo): Shop ​Ready To Ship Cargo at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-15T11:07:06Z
@@ -6706,10 +6667,10 @@
   Updated: 2025-09-12T11:06:23Z
   Total Products: 34
 - [Shop Plus Size ​Shirts & Kurtas at  Apella](https://www.apella.in/collections/shirts-kurtas): Shop ​Shirts & Kurtas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T07:01:39Z
+  Updated: 2025-09-18T09:59:56Z
   Total Products: 70
 - [Shop Plus Size ​The Shaadi Edit at  Apella](https://www.apella.in/collections/the-shaadi-edit): Shop ​The Shaadi Edit at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 109
 - [Shop Plus Size ​Everyday Kurtas at  Apella](https://www.apella.in/collections/everyday-kurtas): Shop ​Everyday Kurtas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:15Z
@@ -6718,7 +6679,7 @@
   Updated: 2025-09-03T11:06:15Z
   Total Products: 9
 - [Shop Plus Size ​Summer Styles at  Apella](https://www.apella.in/collections/summer-suits-and-co-ord-sets): Shop ​Summer Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 31
 - [Shop Plus Size ​Kaftans at  Apella](https://www.apella.in/collections/kaftans): Shop ​Kaftans at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:16Z
@@ -6727,7 +6688,7 @@
   Updated: 2025-09-06T11:07:24Z
   Total Products: 60
 - [Shop Plus Size ​Wedding Styles at  Apella](https://www.apella.in/collections/shubh-aarambh-festive-fits): Shop ​Wedding Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 92
 - [Shop Plus Size ​Buy 2, Get 1 Free at  Apella](https://www.apella.in/collections/stock-clearance-sale): Shop ​Buy 2, Get 1 Free at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:17Z
@@ -6736,28 +6697,28 @@
   Updated: 2025-09-03T11:06:17Z
   Total Products: 22
 - [Shop Plus Size ​Pujo Styles at  Apella](https://www.apella.in/collections/pujo-styles): Shop ​Pujo Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
-  Total Products: 103
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 104
 - [Shop Plus Size ​Navratri Fits at  Apella](https://www.apella.in/collections/navratri-fits): Shop ​Navratri Fits at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
-  Total Products: 128
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 129
 - [Shop Plus Size ​Cocktail Dresses at  Apella](https://www.apella.in/collections/cocktail-dresses): Shop ​Cocktail Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
   Total Products: 27
 - [Shop Plus Size ​Karwa Styles at  Apella](https://www.apella.in/collections/karwa-chauth): Shop ​Karwa Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T19:29:30Z
-  Total Products: 59
+  Updated: 2025-09-18T09:14:44Z
+  Total Products: 60
 - [Shop Plus Size ​Haldi at  Apella](https://www.apella.in/collections/haldi): Shop ​Haldi at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T19:37:38Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 38
 - [Shop Plus Size ​Mehendi at  Apella](https://www.apella.in/collections/mehendi): Shop ​Mehendi at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:18:57Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 26
 - [Shop Plus Size ​Baraat at  Apella](https://www.apella.in/collections/baraat): Shop ​Baraat at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 95
 - [Shop Plus Size ​Under 3K at  Apella](https://www.apella.in/collections/under-3k): Shop ​Under 3K at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-13T11:06:26Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 54
 - [Shop Plus Size ​Under 5K at  Apella](https://www.apella.in/collections/under-5k): Shop ​Under 5K at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-13T11:06:26Z
@@ -6769,10 +6730,10 @@
   Updated: 2025-09-09T11:07:21Z
   Total Products: 14
 - [Shop Plus Size ​Diwali Edit at  Apella](https://www.apella.in/collections/diwali-edit): Shop ​Diwali Edit at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T19:39:01Z
-  Total Products: 73
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 74
 - [Shop Plus Size ​Vacation Wear at  Apella](https://www.apella.in/collections/vacation-wear): Shop ​Vacation Wear at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-13T11:06:26Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 34
 - [Shop Plus Size ​Casual Co-ord Suit Set at  Apella](https://www.apella.in/collections/casual-co-ord-suit-set): Shop ​Casual Co-ord Suit Set at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-13T11:06:26Z
@@ -6790,7 +6751,7 @@
   Updated: 2025-09-17T11:06:57Z
   Total Products: 61
 - [Shop Plus Size ​Winter Essentials at  Apella](https://www.apella.in/collections/winter-essentials): Shop ​Winter Essentials at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-14T11:07:22Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 84
 - [Shop Plus Size ​Velvet & Knits at  Apella](https://www.apella.in/collections/woollen-velvet-knits): Shop ​Velvet & Knits at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:23Z
@@ -6811,7 +6772,7 @@
   Updated: 2025-09-03T11:06:24Z
   Total Products: 9
 - [Shop Plus Size ​Rayon Pleated Salwar at  Apella](https://www.apella.in/collections/rayon-pleated-salwar): Shop ​Rayon Pleated Salwar at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:07:19Z
+  Updated: 2025-09-18T09:53:23Z
   Total Products: 41
 - [Shop Plus Size ​Evening Dresses at  Apella](https://www.apella.in/collections/cape-sets): Shop ​Evening Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6826,28 +6787,28 @@
   Updated: 2025-09-03T11:06:26Z
   Total Products: 49
 - [Shop Plus Size ​Holi Styles 2025 at  Apella](https://www.apella.in/collections/holi-styles-2025): Shop ​Holi Styles 2025 at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-15T11:07:06Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 54
 - [Shop Plus Size ​Ramadan Styles at  Apella](https://www.apella.in/collections/ramadan-styles): Shop ​Ramadan Styles at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 199
 - [Shop Plus Size ​Eid Kurta Pajamas at  Apella](https://www.apella.in/collections/eid-kurta-pajamas): Shop ​Eid Kurta Pajamas at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:27Z
   Total Products: 83
 - [Shop Plus Size ​Apella Basics at  Apella](https://www.apella.in/collections/apella-basics): Shop ​Apella Basics at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-15T08:53:24Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 30
 - [Shop Plus Size ​Pleated Tops at  Apella](https://www.apella.in/collections/pleated-tops): Shop ​Pleated Tops at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-15T08:53:24Z
+  Updated: 2025-09-18T09:59:56Z
   Total Products: 10
 - [Shop Plus Size ​Flared Palazzo Pants at  Apella](https://www.apella.in/collections/flared-palazzo-pants): Shop ​Flared Palazzo Pants at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T07:59:51Z
+  Updated: 2025-09-18T09:56:06Z
   Total Products: 21
 - [Shop Plus Size ​Long Dresses at  Apella](https://www.apella.in/collections/long-dresses): Shop ​Long Dresses at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
   Total Products: 18
 - [Shop Plus Size ​Flared Pants at  Apella](https://www.apella.in/collections/flared-pants): Shop ​Flared Pants at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-15T08:31:34Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 4
 - [Shop Plus Size ​Rang-e-Fusion at  Apella](https://www.apella.in/collections/rang-e-fusion): Shop ​Rang-e-Fusion at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6856,7 +6817,7 @@
   Updated: 2025-09-18T06:07:53Z
   Total Products: 69
 - [Shop Plus Size ​Solid Rayon Night Wear at  Apella](https://www.apella.in/collections/solid-rayon-night-wear): Shop ​Solid Rayon Night Wear at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T05:48:09Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 34
 - [Shop Plus Size ​Flat 40% Off at  Apella](https://www.apella.in/collections/flat-40-off): Shop ​Flat 40% Off at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-18T05:12:45Z
@@ -6865,13 +6826,13 @@
   Updated: 2025-09-17T11:43:29Z
   Total Products: 184
 - [Shop Plus Size ​Flat 20% Off at  Apella](https://www.apella.in/collections/flat-20-off): Shop ​Flat 20% Off at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T05:19:00Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 103
 - [Shop Plus Size ​Flat 50% Off at  Apella](https://www.apella.in/collections/eoss-flat-50-off): Shop ​Flat 50% Off at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-15T05:30:39Z
   Total Products: 10
 - [Shop Plus Size ​Apella EOSS at  Apella](https://www.apella.in/collections/apella-eoss): Shop ​Apella EOSS at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 191
 - [Shop Plus Size ​Flat 60% Off at  Apella](https://www.apella.in/collections/flat-60-off): Shop ​Flat 60% Off at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-03T11:06:32Z
@@ -6886,7 +6847,7 @@
   Updated: 2025-09-06T07:45:10Z
   Total Products: 20
 - [Shop Plus Size ​Co-ord Sets- Sale at  Apella](https://www.apella.in/collections/co-ord-sets-sale): Shop ​Co-ord Sets- Sale at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-08T11:06:59Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 31
 - [Shop Plus Size ​Night Gowns- Sale at  Apella](https://www.apella.in/collections/night-gowns-sale): Shop ​Night Gowns- Sale at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-11T11:07:30Z
@@ -6907,7 +6868,7 @@
   Updated: 2025-09-03T11:06:36Z
   Total Products: 1
 - [Shop Plus Size ​Woven Jacquard Suits at  Apella](https://www.apella.in/collections/silk-suits-new): Shop ​Woven Jacquard Suits at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 41
 - [Shop Plus Size ​Sequins & Mirrors at  Apella](https://www.apella.in/collections/pastel-suits-new): Shop ​Sequins & Mirrors at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-10T11:07:36Z
@@ -6919,7 +6880,7 @@
   Updated: 2025-09-12T10:31:06Z
   Total Products: 10
 - [Shop Plus Size ​Second Skin at  Apella](https://www.apella.in/collections/second-skin): Shop ​Second Skin at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 12
 - [Shop Plus Size ​For-ever Florals at  Apella](https://www.apella.in/collections/for-ever-florals): Shop ​For-ever Florals at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
   Updated: 2025-09-17T11:06:58Z
@@ -6928,17 +6889,17 @@
   Updated: 2025-09-12T11:06:23Z
   Total Products: 4
 - [Shop Plus Size ​Festive Best Sellers at  Apella](https://www.apella.in/collections/festive-best-sellers): Shop ​Festive Best Sellers at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-18T06:07:53Z
-  Total Products: 45
+  Updated: 2025-09-18T11:07:54Z
+  Total Products: 46
 - [Rangrez- The Muslin Luxe](https://www.apella.in/collections/rangrez-the-muslin-luxe)
-  Updated: 2025-09-17T11:06:57Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 10
 - [Shop Plus Size ​Meher- The Festive Basics at  Apella](https://www.apella.in/collections/meher-the-festive-basics): Shop ​Meher- The Festive Basics at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T11:06:58Z
+  Updated: 2025-09-18T11:07:54Z
   Total Products: 12
 - [Shop Plus Size ​Chinon Fancy Suits at  Apella](https://www.apella.in/collections/noor-the-flowy-chinons): Shop ​Chinon Fancy Suits at  Apella | India’s plus size clothing brand. Custom fit styles in sizes XS to 10XL, crafted for elegance and comfort. | Ethic Wear for every body type
-  Updated: 2025-09-17T19:50:31Z
-  Total Products: 6
+  Updated: 2025-09-18T09:14:44Z
+  Total Products: 7
 
 ## Blogs
 
