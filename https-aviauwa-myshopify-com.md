@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2025-08-14T23:44:00Z
 - Contact Email: nkemso22@gmail.com
-- Updated At: 2025-09-18T04:00:28.908Z
+- Updated At: 2025-09-18T20:00:28.977Z
 
 ## Products
 
@@ -171,14 +171,14 @@
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/S2733a6d89ad04c3ba457b0cd56391008r.webp?v=1757943759
     Price: $37.28 USD
 - [Keyboard Cleaner Air Spray for Computers - 10oz Air Can Duster for Electronics, Keyboard, 1PCS…](https://aviauwa.myshopify.com/products/keyboard-cleaner-air-spray-for-computers-10oz-air-can-duster-for-electronics-keyboard-1pcs-85371977981-k8ovp): Hidden Space Cleaner: The iDuster compressed air duster excels in eliminating dust and debris from concealed and hard-to-reach areas of electronic devices, ensuring a comprehensive clean even in the most hidden spots.Outstanding Customer Support: The Keyboard Cleaner for PC features a sleek, minimalist design. We are committed to providing high-quality compressed air dusters and cleaner sprays and are always ready to assist with any questions or concerns.Versatile Use: The iDuster canned air, with its compact size and ergonomic design, is perfect for cleaning hard-to-reach areas such as computer keyboards, car seats, camera lenses, collectibles, screens, and more.User-Friendly: The PC air duster is simple to use. Just press the trigger to release the compressed air and aim the nozzle at the area you want to clean.Safe to Use: This compressed air duster is free of harmful chemicals and is safe for all electronic devices, including computers, keyboards, laptops, and tablets.
-  Updated: 2025-09-16T10:34:49Z
+  Updated: 2025-09-18T11:27:32Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/61wmVdZsEiL.jpg?v=1756688288
-  Price: $21.88 USD
+  Price: $21.87 USD
 - [adidas Women's Essentials 3-Stripes Cotton Leggings](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u): Find your comfort zone in these 3-Stripes leggingsTIGHT FIT: Wears close but is not restrictive, and hugs the legs almost like a second skinELASTIC WAIST: The comfortable stretch lets you move freely
-  Updated: 2025-09-15T13:39:42Z
+  Updated: 2025-09-18T11:27:32Z
   Vendor: AVIAUWA
   Product Type: Sports Wear
   Availability: Available
@@ -186,59 +186,59 @@
   - [Large / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654060797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [Large / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654454013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [XX-Large / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654093565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [XX-Large / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654486781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [Small / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654126333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [Small / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654322941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [X-Small / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654159101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [X-Small / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654388477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [X-Large / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654191869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [X-Large / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654290173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [Medium / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654224637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [Medium / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654355709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [XX-Small / Black/White](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654257405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/41hLjhCT9DL.jpg?v=1757943579
-    Price: $69.67 USD
+    Price: $69.64 USD
   - [XX-Small / Medium Grey Heather/Black](https://aviauwa.myshopify.com/products/adidas-womens-essentials-3-stripes-cotton-leggings-85371977981-s1r4u?variant=46562654421245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/71zD0iCnr5L.jpg?v=1757943581
-    Price: $69.67 USD
+    Price: $69.64 USD
 - [Pelvic Floor Muscle Trainer, Adjustable](https://aviauwa.myshopify.com/products/pelvic-floor-muscle-trainer): Adjustable pelvic floor muscle trainer for effective strengthening. Compact and portable. Ideal for postpartum recovery.
   Updated: 2025-09-15T13:46:59Z
   Vendor: AVIAUWA
@@ -294,14 +294,14 @@
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/H000ccfcf07ed452b90e6387f55fca8e9Y.webp?v=1755725558
     Price: $6.48 USD
 - [3-in-1 Fast Wireless Charging Station, 15W](https://aviauwa.myshopify.com/products/wireless-charging-station-3-in-1-15-w-fast-charging-charger-stand-suitable-for-iphone-16-15-14-13-12-11-x-8-pro-max-pro-mini-plus-suitable-for-i-watch-ultra-10-9-8-7-6-5-4-3-2-se-suitable-for-air-pods-3-2-85371977981-uvenp): Wireless charging station 3-in-1 15 W fast charging charger stand, suitable for iPhone 16 15 14 13 12 11 X 8 Pro Max/Pro/Mini/Plus, suitable for i Watch Ultra 10/9/8 7/6/5/4/3/2 SE, suitable for Air Pods 3/2/
-  Updated: 2025-09-15T13:50:59Z
+  Updated: 2025-09-18T11:27:32Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/1887412159698038784-_1.png?v=1757944253
-  Price: $9.74 USD
+  Price: $7.74 USD
 - [Intelligent Counting Jump Rope - Cordless Fitness Tool](https://aviauwa.myshopify.com/products/electronic-adult-dual-use-rope-skipping-intelligent-counting-wire-rope-household-cordless-load-rope-skipping-sporting-goods-wholesale-85371977981-2kjst): 关于批发   1.1000个起定制商标/logo/图案（提供设计图）/纸箱/ 2.大货提前联系沟通，提前排单以免影响发货时效/船期，做到一刻不延误宗旨 3.1000条以上订单联系老板有优惠 4.可根据客户要求生产-检测-发货 注：一分钱一分货，质量要求很低的我们都不做 5.支持亚马逊/京东/各大云仓 贴标服务6.发货没有标识，需要定制可以联系在线客服 欢迎新老客户来工厂参观考察                                              关于代发 1.支持一切平台代发/商标授权 2.快递：顺丰/中通（顺丰不包的地方默认发中通，需要发顺丰联系客服加钱） 3.时效：每日三点半之前订单都会及时发出！ 4.服务：8：00-23:00在线售后服务：支持7天无理由退换货，收到有质量问题及时联系在线客服拍照核实处理补发退换代发包邮产品（无质量问题退货退款，客户拒收，客户不想要）需要扣除寄出3元运费，代发不容易，谢谢老板理解                                               关于产品大球直径60mm，PVC钢丝绳长2.8米直径4.5mm钢丝绳款约120克左右，大球款重约200克左右，大球+钢丝绳款重约270克左右以上数据以实际测试为准，有误差很正常，不能成为顾客找麻烦的缘由
-  Updated: 2025-09-15T13:42:42Z
+  Updated: 2025-09-18T11:27:32Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
@@ -309,20 +309,20 @@
   - [Black and green-wire rope (opp bag) 130g](https://aviauwa.myshopify.com/products/electronic-adult-dual-use-rope-skipping-intelligent-counting-wire-rope-household-cordless-load-rope-skipping-sporting-goods-wholesale-85371977981-2kjst?variant=46565405524221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/O1CN01f61qWP21Ro6g3c59H__2212354106982-0-cib.jpg?v=1757943758
-    Price: $8.44 USD
+    Price: $4.44 USD
   - [Black and green-small balls (opp bag) 114g](https://aviauwa.myshopify.com/products/electronic-adult-dual-use-rope-skipping-intelligent-counting-wire-rope-household-cordless-load-rope-skipping-sporting-goods-wholesale-85371977981-2kjst?variant=46565405556989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/O1CN01BzngUY21RoGMHGsjH__2212354106982-0-cib.jpg?v=1757943759
-    Price: $8.44 USD
+    Price: $4.44 USD
   - [Black and green big ball + steel wire rope (opp bag) 255g](https://aviauwa.myshopify.com/products/electronic-adult-dual-use-rope-skipping-intelligent-counting-wire-rope-household-cordless-load-rope-skipping-sporting-goods-wholesale-85371977981-2kjst?variant=46565405589757)
     Availability: Available
-    Price: $9.45 USD
+    Price: $6.45 USD
   - [White powder ball + steel wire rope (opp bag) 255g](https://aviauwa.myshopify.com/products/electronic-adult-dual-use-rope-skipping-intelligent-counting-wire-rope-household-cordless-load-rope-skipping-sporting-goods-wholesale-85371977981-2kjst?variant=46565405622525)
     Availability: Available
-    Price: $9.45 USD
+    Price: $6.45 USD
   - [Black and gray big ball + steel wire rope (opp bag) 255g](https://aviauwa.myshopify.com/products/electronic-adult-dual-use-rope-skipping-intelligent-counting-wire-rope-household-cordless-load-rope-skipping-sporting-goods-wholesale-85371977981-2kjst?variant=46565405655293)
     Availability: Available
-    Price: $9.45 USD
+    Price: $6.45 USD
 - [Pelvic Floor Muscle Trainer, Postpartum Recovery](https://aviauwa.myshopify.com/products/yoga-leg-clamp-pelvic-floor-muscle-trainer-leg-inner-kegel-exercise-female-postpartum-repair-leg-beauty): Support your postpartum recovery with our pelvic floor muscle trainer. Effective and discreet. Buy today!
   Updated: 2025-09-15T13:47:28Z
   Vendor: eprolo
@@ -1614,22 +1614,22 @@
 ## Collections
 
 - [Home page](https://aviauwa.myshopify.com/collections/frontpage)
-  Updated: 2025-09-07T19:25:36Z
+  Updated: 2025-09-18T11:27:33Z
   Total Products: 2
 - [Health & Beauty](https://aviauwa.myshopify.com/collections/health-beauty)
-  Updated: 2025-09-02T13:40:30Z
+  Updated: 2025-09-18T11:27:33Z
   Total Products: 3
 - [Computer Accessories](https://aviauwa.myshopify.com/collections/computer-accessories): Computer Accessories
-  Updated: 2025-09-07T22:12:37Z
+  Updated: 2025-09-18T11:27:33Z
   Total Products: 4
 - [Computers and Laptops](https://aviauwa.myshopify.com/collections/computers-and-laptops): Computers and Laptops
   Updated: 2025-08-30T18:03:03Z
   Total Products: 1
 - [Sporting Equipment](https://aviauwa.myshopify.com/collections/sporting-equipment): Sporting Equipment
-  Updated: 2025-09-07T19:25:36Z
+  Updated: 2025-09-18T11:27:33Z
   Total Products: 7
 - [Sporting Goods](https://aviauwa.myshopify.com/collections/sporting-goods): Sporting Goods
-  Updated: 2025-09-07T19:25:36Z
+  Updated: 2025-09-18T11:27:33Z
   Total Products: 9
 - [Bestsellers](https://aviauwa.myshopify.com/collections/bestsellers): The Hottest Tech in Nigeria: Shop Our Bestsellers Welcome to the AVIAUWA Hall of Fame. You're looking at more than just a collection; this is a curated showcase of the most loved, most trusted, and most purchased tech in Nigeria, chosen by savvy customers just like you. Why do these products make the cut? It's simple. From the relentless hustle in Lagos to the vibrant energy of Port Harcourt, these are the gadgets that consistently deliver. They are the problem-solvers: the power bank that outlasts any power cut, the wireless earbuds with sound so clear it transforms your commute, and the smart accessories that simplify your daily life. Every item here has earned its place with 5-star reviews, repeat purchases, and the ultimate seal of approval—your satisfaction. We've done the research so you don't have to. Shop with confidence, knowing you're getting the best of the best. See what’s flying off our shelves and find your next favourite gadget today.
   Updated: 2025-09-07T19:30:20Z
@@ -1659,7 +1659,7 @@
   Updated: 2025-09-07T23:28:23Z
   Total Products: 0
 - [APPPlaza - Best Sellers](https://aviauwa.myshopify.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-17T10:15:55Z
+  Updated: 2025-09-18T11:27:33Z
   Total Products: 42
 - [Personal Care](https://aviauwa.myshopify.com/collections/personal-care)
   Updated: 2025-09-17T10:15:55Z
