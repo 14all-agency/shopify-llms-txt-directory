@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-18T04:00:42.114Z
+- Updated At: 2025-09-18T08:00:43.510Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16506,7 +16506,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £190.00 GBP
 - [Men's Gold Hexagon Locket Necklace | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/mens-hexagon-locket-necklace-gold): Our Men's gold Hexagon locket necklace is a great way to treasure precious memories.Personalise with two photos and engraving - free today. Order online today with free shipping
-  Updated: 2025-08-14T11:02:47Z
+  Updated: 2025-09-18T07:42:17Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
