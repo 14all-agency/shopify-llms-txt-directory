@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-17T16:00:29.443Z
+- Updated At: 2025-09-18T04:00:28.758Z
 
 ## Products
 
@@ -84,7 +84,7 @@
     Availability: Available
     Price: ₹1,194.00 INR
 - [Plus Size Violet Printed Straight Cut Afghani Suit- The Plus Size Co.](https://theplussizeco.com/products/violet-printed-straight-cut-afghani-suit)
-  Updated: 2025-09-17T05:12:10Z
+  Updated: 2025-09-17T17:16:38Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
