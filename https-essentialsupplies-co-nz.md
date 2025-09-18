@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-18T08:00:39.010Z
+- Updated At: 2025-09-18T12:00:38.698Z
 
 ## Products
 
@@ -1859,7 +1859,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pacvac-backpack-vacuum-blue-superpro-battery-700-1-vacuum-vacuum-cleaners-essential-supplies-621791.jpg?v=1719445556
   Price: $2,096.00 NZD
 - [Pacvac Backpack Vacuum - Blue, Superpro 700 - 1 Vacuum](https://essentialsupplies.co.nz/products/pacvac-backpack-vacuum-blue-superpro-700-1): Pacvac Backpack Vacuum is a powerful and efficient vacuum cleaner designed for commercial cleaning. Featuring a lightweight backpack and harness design for good manoeuvrability and superior comfort. Corded 5L bag capacity
-  Updated: 2025-01-17T15:39:39Z
+  Updated: 2025-09-18T11:39:01Z
   Vendor: Mattews Packaging
   Product Type: Vacuum Cleaners
   Availability: Available
@@ -3042,7 +3042,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/tall-slimfold-towel-dispenser-black-600-sheet-capacity-1-dispenser-folded-towel-dispensers-essential-supplies-613861.jpg?v=1719445807
   Price: $65.00 NZD
 - [Tall Slimfold Towel Dispenser - Silver, 600 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/tall-slimfold-towel-dispenser-silver-600-sheet-capacity-1): Tall slimfold paper towel dispensers are designed for use with the complete slimfold paper towel range. Reduces contamination and with a 600 sheet capacity. minimises refilling frequency. High gloss, easy clean finish featuring a viewing window to check towel levels. High gloss Easy clean finish 600 sheets capacity Colour: Silver Suitable tissues: MPH27090, MPH27095, MPH27162, MPH27110, MPH27120, MPH27100, MPH27105
-  Updated: 2025-01-09T09:29:42Z
+  Updated: 2025-09-18T10:58:56Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
