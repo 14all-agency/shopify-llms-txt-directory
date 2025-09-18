@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-18T00:00:34.470Z
+- Updated At: 2025-09-18T04:00:36.390Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Triflora-Hanging-Planter-White-7.jpg?v=1727658836
   Price: $84.99 NZD
 - [Hubba Mirror - Titanium](https://everydayhome.co.nz/products/hubba-mirror-86cm-titanium): Hubba Mirror, (86Cm), Titanium
-  Updated: 2025-09-12T03:22:10Z
+  Updated: 2025-09-18T01:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -172,14 +172,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Cosmetic-Organiser-White-Grey-5.png?v=1727659177
   Price: $49.99 NZD
 - [Hubba Arched Mirror - Brass](https://everydayhome.co.nz/products/hubba-arched-mirror-86-x-91cm-brass): Hubba, Arched Mirror, 86 X 91Cm - Brass
-  Updated: 2025-09-08T23:12:04Z
+  Updated: 2025-09-18T01:22:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Arched-Mirror-Brass-5.jpg?v=1727659771
   Price: $254.99 NZD
 - [Hubba Arched Mirror - Metal Titanium](https://everydayhome.co.nz/products/hubba-arched-mirror-86-x-91cm-metal-titanium): Hubba Arched Mirror (86 X 91Cm), Metal Titanium
-  Updated: 2025-09-08T23:12:04Z
+  Updated: 2025-09-18T01:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2363,7 +2363,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-16T22:37:07Z
+  Updated: 2025-09-18T02:22:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2439,13 +2439,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Wall-Mirror-94cm-Black-UMBRA-2.png?v=1731903528
   Price: $254.99 NZD
-- [Hubba Mirror - Brass](https://everydayhome.co.nz/products/hubba-mirror-86cm-brass): Freshen up the look of your room with one simple accessory that can both expand the space and make it appear brighter. Hubba is a large wall mirror that is ideal for heavy traffic areas in your home. Its decorative metallic finished frame has a look that is sure to complement any decor. Because Hubba is large and reflective, it bounces natural and artificial light around the room, helping to brighten even the darkest of space. It also adds visual depth, which instantly makes smaller rooms appear bigger.
-  Updated: 2025-09-10T22:52:11Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hubba-Mirror-Brass-UMBRA-1.jpg?v=1731901834
-  Price: $237.99 NZD
 - [Leana Ladder Rack - Black](https://everydayhome.co.nz/products/leana-ladder-rack-black): Both decorative and functional, Leana Ladder features solid wood posts and 4 metal bars, providing you room to store blankets, clothes, towels and more. Easy to assemble, Leana provides a modern storage solution that can be used in a variety of rooms in your home. With a solid wood construction and powder-coated steel, this innovative storage solution is the ideal towel rack, blanket rack, or clothing organizer.
   Updated: 2025-09-08T23:15:06Z
   Vendor: UMBRA
@@ -3161,7 +3154,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileKnifeBlockwithUtensilHolder-DarkGrey-8710755129889Brabantia_96dpi_1000x1000px_7_NR-19899.png?v=1733973708
   Price: $67.99 NZD
 - [Brabantia Ironing Board Cover B - Denim Blue](https://everydayhome.co.nz/products/ironing-board-cover-b-124-x-38cm-denim-blue): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable and practical - a real top layer for your Brabantia Ironing Board B. Enjoy!
-  Updated: 2025-09-08T23:10:03Z
+  Updated: 2025-09-18T01:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3672,7 +3665,7 @@
     Availability: Available
     Price: $61.99 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-09-17T22:52:11Z
+  Updated: 2025-09-18T03:42:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4455,7 +4448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-SoftBeige-8710755149900Brabantia_300dpi_2000x2000px_9_NR-28697.jpg?v=1754621023
   Price: $82.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L White](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-white): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-09-14T18:52:10Z
+  Updated: 2025-09-18T02:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
