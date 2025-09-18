@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-18T04:00:47.526Z
+- Updated At: 2025-09-18T08:00:45.322Z
 
 ## Products
 
@@ -7090,7 +7090,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-18T03:51:15Z
+  Updated: 2025-09-18T06:53:10Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7104,7 +7104,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-18T00:26:00Z
+  Updated: 2025-09-18T07:48:30Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -13238,7 +13238,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-09-18T02:02:41Z
+  Updated: 2025-09-18T05:42:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13297,7 +13297,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-09-17T19:02:43Z
+  Updated: 2025-09-18T05:42:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15574,7 +15574,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-18T03:22:47Z
+  Updated: 2025-09-18T05:22:45Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15718,7 +15718,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-18T03:51:46Z
+  Updated: 2025-09-18T07:43:11Z
   Total Products: 396
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16570,7 +16570,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-18T03:43:11Z
+  Updated: 2025-09-18T07:43:11Z
   Total Products: 1260
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-15T22:49:30Z
