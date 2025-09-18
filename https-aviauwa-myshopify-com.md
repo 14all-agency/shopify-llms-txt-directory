@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2025-08-14T23:44:00Z
 - Contact Email: nkemso22@gmail.com
-- Updated At: 2025-09-17T20:00:27.721Z
+- Updated At: 2025-09-18T04:00:28.908Z
 
 ## Products
 
@@ -1568,7 +1568,7 @@
   Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/sxT83KQ8men1qwH.webp?v=1758017112
   Price: $27.07 USD
 - [Eco-Friendly Cotton Tote](https://aviauwa.myshopify.com/products/eco-friendly-cotton-tote): Say goodbye to plastic, and bag your goodies in this organic cotton Feeling Good tote bag. There’s more than enough room for groceries, books, and anything in between. • 100% certified organic cotton 3/1 twill • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg)
-  Updated: 2025-09-17T10:02:16Z
+  Updated: 2025-09-17T22:16:11Z
   Vendor: AVIAUWA
   Product Type: Bags
   Availability: Available
@@ -1582,7 +1582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/MKds5yzJWRusmIg.webp?v=1758017445
     Price: $99.72 USD
 - [K56Pro Smart Watch for Men Heart Rate Blood Bluetooth Sport 400Mah Long Standby 1.39 Inch 360*360 HD Screen Outdoors Smartwatch](https://aviauwa.myshopify.com/products/k56pro-smart-watch-for-men-heart-rate-blood-bluetooth-sport-400mah-long-standby-1-39-inch-360-360-hd-screen-outdoors-smartwatch): Boost your fitness and style with the K56Pro Smart Watch for Men. Monitor your heart rate and blood pressure, stay connected with Bluetooth technology, and enjoy a 1.39 inch HD screen. With a 400mAh battery, this outdoors smartwatch has long standby time. Stay active and stylish with the K56Pro.Description Product parameters -System requirements: Android 4.4 and above, IOS 8.0 and above, supporting Bluetooth 5.0-Bluetooth version: BLE 5.0-Main control chip: Realtek8762DK-Memory: Flash 128MB-Screen resolution: 360 * 360-Heart rate: 3605-Horn: 0916-Battery capacity: 400mA-Standby time: about 30 days-Working time: around 5-10 days-Motor: Built in, vibration reminder-APP: Dafit Watch features -1.39 inch IPS screen-Detachable 22mm strap Standard -Multiple watch faces pushing,Customized watch faces-Bluetooth calling/BT music(Superior clear audio like sound effect),Weather-Heart rate detection/Blood pressure detection/Blood oxygen detection/Wole-day heart rate monitor-Timer ,Pedometer,Calorie Consumption,Distance Calculation,Heart rate,Blood pressure,Blood oxygen,Sleep time /quality,On & Off dispaly，Multiple sport modes-Sleep detection (Sleep time ,Sleep quality)-Calls to remind,SMS Reminder,Third-party messaging reminder Multilingual push,Clock alarm,Remote Camera，Sedentary reminder-400mAh big battery,super long standby time,Bright screen under sunshine Language Watch device language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian,Italian,PolishMessage push language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian, Italian,PolishAPP language：Chinese, English, Russian,German, Japanese, French, Spanish, Portuguese, Ukrainian, Italian,Polish Package includes Main unit, charger, wrist strap, instruction manual, packing box After receiving the watch, please charge it first. Due to the long-term logistics, the battery of the watch is low. Before using, please scan the QR code on the instruction manual to download the APP and connect the watch through the APP.
-  Updated: 2025-09-17T09:58:28Z
+  Updated: 2025-09-17T22:37:30Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
@@ -1604,7 +1604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0772/8021/5293/files/9f847a3b1e3e5de65c5f4de1e077ad93.jpg?v=1758023076
     Price: $34.29 USD
 - [DENSET HBTDM 7 Pcs Natural Green Bamboo Toothbrush Biodegradable and Environmentally Friendly Soft Bristles and BPA Free Professional Bamboo Toothbrush.](https://aviauwa.myshopify.com/products/denset-hbtdm-7-pcs-natural-green-bamboo-toothbrush-biodegradable-and-environmentally-friendly-soft-bristles-and-bpa-free-professional-bamboo-toothbrush): Go green with DENSET HBTDM 7 Pcs Natural Green Bamboo Toothbrush. Biodegradable and environmentally friendly, it features soft bristles and is free of harmful BPA. Experience a professional cleaning while reducing your carbon footprint! The reasonable design of the toothbrush can completely clean the plaque on the surface of the teeth. [ protect]:Soft Bristles help to keep the gums healthy without irritation. [ Eco-Friendly]: Renewable and naturally degradable bamboo materials keep nature . [contact us]:Thank you for your purchase free to contact us if you have any questions
-  Updated: 2025-09-17T11:36:54Z
+  Updated: 2025-09-17T22:50:05Z
   Vendor: AVIAUWA
   Product Type: 
   Availability: Available
