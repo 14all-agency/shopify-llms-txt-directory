@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-18T12:00:31.622Z
+- Updated At: 2025-09-18T16:00:30.136Z
 
 ## Products
 
@@ -2923,608 +2923,6 @@
   - [35mm / Pack of 25](https://surgismart.in/products/romsons-sil-cath-silicon-external-catheter-30mm-large-pack-of-10?variant=50382332002584)
     Availability: Available
     Price: ₹1,257.00 INR
-- [Buy ​Uphealthy Powder Coated Basic Foldable Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-powder-coated-basic-foldable-wheelchair): A basic powder-coated wheelchair is a standard mobility device designed for individuals who need assistance with movement. Powder coating provides a durable and attractive finish to the wheelchair frame, enhancing its longevity and resistance to scratches, chips, and corrosion. Here’s a detailed description of a basic powder-coated wheelchair: Constructed from high-quality iron with a powder-coated finish, ensuring durability and resistance to rust and corrosion. The wheelchair is foldable, making it easy to store and transport. Fixed Armrests Fixed Footrests With padded armrests, leg support and aluminium footplates Solid rubber spoke rear wheel Considerations User Needs: It’s important to consider the specific needs of the user, including their physical condition, lifestyle, and the environments where the wheelchair will be used. Maintenance: Regular maintenance is required to keep the wheelchair in good working condition, including ensuring the brakes function properly, and cleaning the frame and upholstery. - Surgismart
-  Updated: 2025-08-13T07:37:43Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/875_BLACK.png?v=1751478142
-  Price: ₹7,649.00 INR
-- [Buy ​Uphealthy Heavy Duty MAG Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-heavy-duty-mag-wheelchair): The 951B Heavy duty Wheelchair is designed to accommodate larger individuals, providing enhanced comfort, support, and durability. Here’s a detailed description of its features and specifications: Constructed from high-strength steel, ensuring a sturdy and reliable structure capable of supporting higher weight capacities. The wheelchair can be easily folded for convenient storage and transportation, making it ideal for travel and daily use. Flip Up armrest Rear MAG Wheel Features a wider seat to accommodate larger users comfortably. - Surgismart
-  Updated: 2025-08-13T07:37:42Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/951B_01315a27-a3e5-446f-88cd-2481c6d37f95.jpg?v=1751478141
-  Price: ₹14,450.00 INR
-- [Buy ​Uphealthy Bariatric/Obesity Foldable Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-bariatric-obesity-foldable-wheelchair): A bariatric wheelchair is designed specifically for individuals who are larger or heavier than the average user. These wheelchairs offer enhanced support, comfort, and durability to accommodate higher weight capacities. Here are some key uses and benefits of a bariatric wheelchair. A wheelchair with quick release wheels offers the convenience of easily removing and attaching the wheels, making it ideal for transport, storage, and customization. This feature is particularly beneficial for users who frequently travel or need to fit their wheelchair into tight spaces. Bariatric wheelchairs are designed to support users who exceed the weight limits of standard wheelchairs, often accommodating up to 500 pounds or more. Provides a wider seat to ensure comfort and proper support for larger individuals. The wheels can be quickly and easily detached from the frame by pressing a button or lever, allowing for compact storage and transport. The quick release mechanism does not require tools, making it convenient and user-friendly. Ideal for individuals recovering from surgeries or medical conditions that limit mobility, offering the necessary support and stability. Suitable for users with chronic conditions such as obesity, arthritis, or other disabilities that affect mobility. Considerations User Needs: Ensure the wheelchair can accommodate the user’s weight. Select the appropriate seat dimensions for comfort and support. Verify the maximum weight capacity to ensure it’s suitable for the user. Ensure the wheelchair’s dimensions fit through the spaces it will be used in and are comfortable for the user. Consider how easy it is for the user to detach and reattach the wheels and for caregivers to assist if needed. Maintenance: Regular maintenance is required to keep the wheelchair in good working condition, including ensuring the brakes function properly, and cleaning the frame and upholstery. - Surgismart
-  Updated: 2025-08-13T07:37:42Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/956_b27a89d1-2bd6-4c3a-b8cf-b0d55125df32.jpg?v=1751478140
-  Price: ₹25,500.00 INR
-- [Buy ​Uphealthy Chrome Plated Wheelchair with Attender Brake - Surgismart](https://surgismart.in/products/uphealthy-chrome-plated-wheelchair-with-attender-brake): Uphealthy Chrome Plated Wheelchair with Attender Brake 809J The Chrome Plated wheelchair with attender brake assist is a specialised mobility device designed to provide enhanced safety and convenience for both the user and the caregiver (attender). Here’s a detailed description of its features and benefits: Equipped with a dual brake system that allows the caregiver to control the brakes from behind the wheelchair, providing additional safety. The brake handles are ergonomically designed for easy and quick access, enabling the caregiver to apply the brakes without bending or reaching awkwardly. Frame made of iron with chrome plating provides a balance between strength and portability. Folding Mechanism allows for easy storage and transport, making it convenient for travel. Fixed Armrests Fixed Footrests With padded armrests, leg support and aluminium footplates Solid rubber spoke rear wheel Considerations User Needs: It’s important to consider the specific needs of the user, including their physical condition, lifestyle, and the environments where the wheelchair will be used. Maintenance: Regular maintenance is required to keep the wheelchair in good working condition, including ensuring the brakes function properly, and cleaning the frame and upholstery. - Surgismart
-  Updated: 2025-08-13T07:37:42Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2473-scaled_b2b70708-23e6-40a5-8819-1d615a6f13f8.jpg?v=1751478140
-  Price: ₹7,904.00 INR
-- [Buy ​Uphealthy Chrome Plated MAG Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-chrome-plated-mag-wheelchair): Mag wheelchairs, also known as wheelchairs with mag wheels, feature composite wheels made from materials such as ABS plastic or other durable composites. These wheels are designed to be strong, lightweight compared to traditional spoked wheels. Some of the key features, benefits, and considerations regarding mag wheelchairs are Frame made of iron with chrome plating provides a balance between strength and portability. Folding Mechanism allows for easy storage and transport, making it convenient for travel. Fixed Armrests Fixed Footrests With padded armrests, leg support and aluminium footplates Mag Wheels, constructed from composite materials like ABS plastic, offering a solid, robust structure without the need for spokes. Mag wheels provide a sleek, modern look to the wheelchair. Resistant to rust and corrosion, making them suitable for various environments. Considerations Weight Capacity: Ensure the wheelchair with mag wheels supports the user’s weight. Most mag wheelchairs are designed to accommodate standard weight limits, but checking specifications is important. Terrain: While mag wheels are durable and provide a smooth ride, consider the types of terrain the wheelchair will be used on. Some mag wheels may perform better on specific surfaces than others. Cost: Mag wheelchairs can be more expensive than those with traditional spoked wheels due to the advanced materials and technology used. - Surgismart
-  Updated: 2025-08-13T07:37:42Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2487-scaled_421a0b11-ce27-4211-ad99-17450bd0e6a0.jpg?v=1751478139
-  Price: ₹8,499.00 INR
-- [Buy ​Uphealthy Hard Cushioned Foldable Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-hard-cushioned-foldable-wheelchair): This Standard Hard Seat Wheelchair is a variation of the standard wheelchair but with a cushioned seat upholstery. This is a specific model designed to offer both support and comfort for individuals with mobility needs. Below is a detailed description of its features and specifications: The hard cushion is designed to provide firm, stable support. Made from high-density foam or similar materials, the cushion maintains its shape over time, ensuring long-term usability. Frame made of iron with chrome plating provides a balance between strength and portability. Folding Mechanism allows for easy storage and transport, making it convenient for travel. Fixed Armrests Fixed Footrests With padded armrests, leg support and aluminium footplates Solid rubber spoke rear wheel Considerations User Needs: It’s important to consider the specific needs of the user, including their physical condition, lifestyle, and the environments where the wheelchair will be used. Maintenance: Regular maintenance is required to keep the wheelchair in good working condition, including ensuring the brakes function properly, and cleaning the frame and upholstery. - Surgismart
-  Updated: 2025-08-13T07:37:42Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2478-1-scaled_a277c510-8221-457c-9a30-8639474d1ece.jpg?v=1751478138
-  Price: ₹8,924.00 INR
-- [Buy ​Uphealthy Hard Cushioned Wheelchair With Attender Brake - Surgismart](https://surgismart.in/products/uphealthy-hard-cushioned-wheelchair-with-attender-brake): Uphealthy Hard Cushion Wheelchair with Attender Brake UH809YJ This Standard Hard Seat Wheelchair is a variation of the standard wheelchair but with a cushioned seat upholstery and attender brake assist designed to provide enhanced safety and convenience for both the user and the caregiver (attender). This is a specific model designed to offer both support and comfort for individuals with mobility needs. Below is a detailed description of its features and specifications: The hard cushion is designed to provide firm, stable support. Equipped with a dual brake system that allows the caregiver to control the brakes from behind the wheelchair, providing additional safety. The brake handles are ergonomically designed for easy and quick access, enabling the caregiver to apply the brakes without bending or reaching awkwardly. Made from high-density foam or similar materials, the cushion maintains its shape over time, ensuring long-term usability. Frame made of iron with chrome plating provides a balance between strength and portability. Folding Mechanism allows for easy storage and transport, making it convenient for travel. Fixed Armrests Fixed Footrests With padded armrests, leg support and aluminium footplates Solid rubber spoke rear wheel Considerations User Needs: It’s important to consider the specific needs of the user, including their physical condition, lifestyle, and the environments where the wheelchair will be used. Maintenance: Regular maintenance is required to keep the wheelchair in good working condition, including ensuring the brakes function properly, and cleaning the frame and upholstery. - Surgismart
-  Updated: 2025-08-13T07:37:41Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2760-scaled_9cc886d3-d345-487f-9656-268022c76650.jpg?v=1751478137
-  Price: ₹9,179.00 INR
-- [Buy ​Uphealthy Heavy Duty Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-heavy-duty-wheelchair): The Heavy Duty Wheelchair is designed to accommodate larger individuals, providing enhanced comfort, support, and durability. Here’s a detailed description of its features and specifications: Constructed from high-strength steel, ensuring a sturdy and reliable structure capable of supporting higher weight capacities. The wheelchair can be easily folded for convenient storage and transportation, making it ideal for travel and daily use. Features a wider seat to accommodate larger users comfortably. - Surgismart
-  Updated: 2025-08-17T06:48:51Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2784-scaled_71298c76-1be9-430f-9295-c3873a941848.jpg?v=1751478136
-  Price: ₹10,199.00 INR
-- [Buy ​Uphealthy Paediatric Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-paediatric-wheelchair): Paediatric Wheelchair with Steel Frame, a reliable and cost-effective solution for children with mobility challenges. This paediatric wheelchair is thoughtfully designed to meet the specific needs of young users while offering durability, comfort, and ease of use. With its foldable design and high-quality materials, it provides a convenient and safe mobility option for children in various settings. Equipped with a 2-wheel steering system, this wheelchair offers excellent manoeuvrability, allowing children to navigate their surroundings with ease. The padded armrests provide additional support and comfort, ensuring a pleasant seating experience. - Surgismart
-  Updated: 2025-08-13T07:37:41Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/802.png?v=1751478135
-  Price: ₹7,225.00 INR
-- [Buy ​Uphealthy Chrome Plated Arm &#038; Footrest Removable Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-chrome-plated-arm-038-footrest-removable-wheelchair): A portable and foldable wheelchair that provides increased mobility and independence for the user and their caretaker, allowing them to take part in daily activities, despite having restricted mobility. Chrome Plated steel frame Detachable Armrest Detachable Footrest - Surgismart
-  Updated: 2025-08-13T07:37:41Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/903_3dc6dc1c-11f6-42d1-966a-910b08ebfe46.jpg?v=1751478134
-  Price: ₹8,925.00 INR
-- [Buy ​Uphealthy Foldable Commode Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-foldable-commode-wheelchair): A commode wheelchair is a versatile mobility aid that combines the functions of a wheelchair and a commode, designed to provide convenience and independence to individuals with limited mobility. This type of wheelchair allows users to move around and also use it as a portable toilet, making it especially useful for home and care facility settings. Here’s a detailed description of a commode wheelchair: Functions as a standard wheelchair for transportation, providing independence and mobility for the user. The frame is typically made of chrome-plated iron for durability and manoeuvrability. It folds easily for transport and storage. The seat is usually padded for comfort and has a cutout section in the centre that reveals the commode bucket. The commode bucket is a removable container located beneath the seat. It can be easily removed and emptied. Increased independence and privacy for users who have difficulty using a standard restroom. Reduced need for assistance with toileting activities. More convenient option for toileting during outings or travel. Functions as a standard wheelchair for transportation, providing independence and mobility for the user. Considerations: Ensure the wheelchair meets the user’s specific medical and mobility needs. Verify the maximum weight capacity to ensure it’s suitable for the user. Ensure the wheelchair’s dimensions fit through the spaces it will be used in and are comfortable for the user. - Surgismart
-  Updated: 2025-08-30T02:46:35Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/609-12-1_478c6c1a-569f-44c9-bfa3-9e1138c404e4.png?v=1751478133
-  Price: ₹10,200.00 INR
-- [Buy ​Uphealthy U Cut Commode Foldable Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-u-cut-commode-foldable-wheelchair): Commode Wheelchair is a dual function wheelchair. It can be used to transfer the patient from place to place. It can also be used as a movable commode chair for the patient’s use. A commode wheelchair is a versatile mobility aid that combines the functions of a wheelchair and a commode, designed to provide convenience and independence to individuals with limited mobility. This type of wheelchair allows users to move around and also use it as a portable toilet, making it especially useful for home and care facility settings. Here’s a detailed description of a commode wheelchair: The cut seat design makes it comparably more comfortable than the whole pcs seat design. And if you want to use it only as a wheelchair for outdoor use, you only need to take out the pot without difficulty. Functions as a standard wheelchair for transportation, providing independence and mobility for the user. The frame is typically made of chrome-plated iron for durability and manoeuvrability. It folds easily for transport and storage. The seat is usually padded for comfort and has a cutout section in the centre that reveals the commode bucket. The commode bucket is a removable container located beneath the seat. It can be easily removed and emptied. Increased independence and privacy for users who have difficulty using a standard restroom. Reduced need for assistance with toileting activities. More convenient option for toileting during outings or travel. Functions as a standard wheelchair for transportation, providing independence and mobility for the user. Considerations: Ensure the wheelchair meets the user’s specific medical and mobility needs. Verify the maximum weight capacity to ensure it’s suitable for the user. Ensure the wheelchair’s dimensions fit through the spaces it will be used in and are comfortable for the user. - Surgismart
-  Updated: 2025-08-13T07:37:40Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2505-scaled_8b3a9945-1506-41cb-8883-87c7cfde5e5d.jpg?v=1751478132
-  Price: ₹9,774.00 INR
-- [Buy ​Uphealthy Shower Cum Commode Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-shower-cum-commode-wheelchair): The key feature of the Foldable Toilet Seat with Wheels is its innovative wheeled design that provides easy mobility for the user. The sturdy yet lightweight aluminium alloy frame combined with the large 12” PU wheels allow the user to effortlessly move the chair on their own. This enables independence and accessibility, as the user can now transport themselves to the bathroom without assistance. The wheels also have step pedals that flip up when not in use. The seat and backrest are padded for comfort. An oxidised silver surface treatment gives the chair a sleek, modern look suitable for any bathroom décor. The Foldable Toilet Seat with Wheels is manufactured from high-grade, rust-proof aluminium alloy with a thickness of 1.5mm for durability. The chair remains lightweight for easy portability and storage. This wheeled chair delivers independence and accessibility for limited mobility users. - Surgismart
-  Updated: 2025-09-05T09:14:17Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/693-1.jpg?v=1751478131
-  Price: ₹14,450.00 INR
-- [Buy ​Uphealthy Shower Cum Commode MAG Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-shower-cum-commode-mag-wheelchair): The key feature that makes the Slip Resistant Commode with Flip Armrests unique is its slip-resistant sitting plate. This commode is designed for safety, with a textured sitting surface that prevents slipping and adds stability. The subtle diamond pattern on the sitting plate provides reliable traction, even when wet, so users can sit and stand with confidence. This is an important feature for a commode intended for use in bathrooms by elderly and disabled individuals. Slip Resistant Commode with Flip Armrests is constructed from sturdy, corrosion-resistant aluminium alloy with a brushed silver powder coating. The armrests and footrests flip up independently for easy transfer on and off the chair. Additional features include a lightweight yet durable aluminium alloy frame, backrest for comfort, removable sitting plate for cleaning, anti-slip rubber tipped feet, and 4″ wheels with brakes for stability. This commode chair combines thoughtful design with robust construction to provide safe, reliable support. - Surgismart
-  Updated: 2025-08-13T07:37:40Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/694.jpg?v=1751478130
-  Price: ₹17,850.00 INR
-- [Buy ​Uphealthy Reclining U Cut Commode Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-reclining-u-cut-commode-wheelchair): A reclining commode wheelchair is a specialised mobility aid that combines the features of a wheelchair, a recliner, and a commode. This type of wheelchair is designed to provide maximum comfort, support, and convenience for individuals with limited mobility, particularly those who require assistance with toileting and spend extended periods of time in the wheelchair. Here’s a detailed description of a reclining commode wheelchair: The cut seat design makes it comparably more comfortable than the whole pcs seat design. And if you want to use it only as a wheelchair for outdoor use, you only need to take out the pot without difficulty. Made from high-quality iron for strength and durability. The backrest can be reclined to various angles, allowing the user to adjust their position for maximum comfort. The head pillow and the reclining feature increase the comfort, the elevating leg rest is suitable for different leg length needs. The detachable armrest and leg rest make the side transit of the user with ease. A reclining wheelchair has the capability to adjust the backrest and/or footrest into a reclined position. This feature is especially important to users who find it difficult or impossible to sit in a fully upright position, and users who sleep in their chairs frequently. Extended head rest to support the head especially when reclined. Headrest has a detachable pillow for user’s comfort Reclining up to 180 degrees so that the patient can lie flat like on a bed. The reclining mechanism is designed for easy adjustment, typically operated by a caregiver using a lever or remote control. Includes a built-in commode with a removable bucket or pan for easy cleaning and waste disposal. The commode seat typically includes a lid and cover for discretion and to maintain cleanliness when not in use. Considerations: Ensure the wheelchair meets the user’s specific medical and mobility needs. Verify the maximum weight capacity to ensure it’s suitable for the user. Ensure the wheelchair’s dimensions fit through the spaces it will be used in and are comfortable for the user. - Surgismart
-  Updated: 2025-08-13T07:37:40Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2458-scaled_954e5bf1-912c-4339-9129-6b48e7f6b0ea.jpg?v=1751478129
-  Price: ₹15,299.00 INR
-- [Buy ​Uphealthy Reclining High Back Commode Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-reclining-high-back-commode-wheelchair): A reclining commode wheelchair is a specialised mobility aid that combines the features of a wheelchair, a recliner, and a commode. This type of wheelchair is designed to provide maximum comfort, support, and convenience for individuals with limited mobility, particularly those who require assistance with toileting and spend extended periods of time in the wheelchair. Here’s a detailed description of a reclining commode wheelchair: Made from high-quality iron for strength and durability. The backrest can be reclined to various angles, allowing the user to adjust their position for maximum comfort. The head pillow and the reclining feature increase the comfort, the elevating leg rest is suitable for different leg length needs. The detachable armrest and leg rest make the side transit of the user with ease. A reclining wheelchair has the capability to adjust the backrest and/or footrest into a reclined position. This feature is especially important to users who find it difficult or impossible to sit in a fully upright position, and users who sleep in their chairs frequently. Extended head rest to support the head especially when reclined. Headrest has a detachable pillow for user’s comfort Reclining up to 180 degrees so that the patient can lie flat like on a bed. The reclining mechanism is designed for easy adjustment, typically operated by a caregiver using a lever or remote control. Includes a built-in commode with a removable bucket or pan for easy cleaning and waste disposal. The commode seat typically includes a lid and cover for discretion and to maintain cleanliness when not in use. Considerations: Ensure the wheelchair meets the user’s specific medical and mobility needs. Verify the maximum weight capacity to ensure it’s suitable for the user. Ensure the wheelchair’s dimensions fit through the spaces it will be used in and are comfortable for the user. - Surgismart
-  Updated: 2025-09-08T15:16:43Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2566-scaled_474d322a-9e19-44c6-922e-4d196cce317b.jpg?v=1751478128
-  Price: ₹15,299.00 INR
-- [Buy ​Uphealthy Orthopaedic Foldable Wheelchair (Leg Raise) - Surgismart](https://surgismart.in/products/uphealthy-orthopaedic-foldable-wheelchair-leg-raise): Leg-elevating wheelchairs are designed to provide additional comfort and medical support by allowing users to elevate their legs while seated. This feature is particularly beneficial for managing circulation, reducing swelling, and enhancing overall comfort. These wheelchairs are often used by individuals with various medical conditions or mobility issues that require leg elevation for therapeutic reasons. The primary feature of these wheelchairs is the ability to elevate the leg rests. This can be achieved through manual adjustments. Leg-elevating wheelchairs allow for independent adjustment of each leg rest, providing personalized comfort and support. Leg-elevating wheelchairs generally come with large rear wheels that can be either self-propelled by the user or pushed by a caregiver. The wheels are designed for smooth movement over different surfaces. The front casters are smaller and swivel to provide better manoeuvrability, especially in tight spaces. A reliable braking system is included to ensure safety and stability when the wheelchair is stationary or during leg elevation. - Surgismart
-  Updated: 2025-08-13T07:37:39Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/902C-scaled_48cdc3ad-6e38-4dd3-a4b8-6e6495234810.jpg?v=1751478128
-  Price: ₹11,049.00 INR
-- [Buy ​Uphealthy High Back Ortho Reclining Wheelchair 902GC - Surgismart](https://surgismart.in/products/uphealthy-high-back-ortho-reclining-wheelchair-902gc): Uphealthy Powder Coated Reclining Wheelchair 902gc A reclining and leg-elevating wheelchair combines two essential features to enhance comfort and provide medical support for users who require frequent repositioning or leg elevation. This type of wheelchair is ideal for individuals with various medical conditions that necessitate specific seating positions to manage health issues, improve comfort, and facilitate care. The backrest can be adjusted from an upright position to a fully reclined angle, allowing users to find the most comfortable position. The reclining feature helps reduce pressure on the spine and lower back, making it easier to relax or sleep in the wheelchair. The wheelchair features adjustable leg rests that can be elevated. The wheelchair is built with a strong, durable frame and powder coated. The wheelchair is equipped with large rear wheels that can be either self-propelled by the user or pushed by a caregiver. The wheels are designed for smooth movement over various surfaces. The front wheels are smaller and swivel to provide better manoeuvrability, particularly in tight spaces. The wheelchair includes a reliable braking system with wheel locks and attendant brakes for safety during reclining and leg elevation. - Surgismart
-  Updated: 2025-08-13T07:37:39Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/902GC-scaled_115c3b6b-c033-4e56-82cc-e686161bf168.jpg?v=1751478127
-  Price: ₹13,515.00 INR
-- [Buy ​Uphealthy Uphealthy Chrome Plated Reclining Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-uphealthy-chrome-plated-reclining-wheelchair): Uphealthy Chrome Plated Reclining High Back Wheelchair UH903GC A reclining and leg-elevating wheelchair combines two essential features to enhance comfort and provide medical support for users who require frequent repositioning or leg elevation. This type of wheelchair is ideal for individuals with various medical conditions that necessitate specific seating positions to manage health issues, improve comfort, and facilitate care. The backrest can be adjusted from an upright position to a fully reclined angle, allowing users to find the most comfortable position. The reclining feature helps reduce pressure on the spine and lower back, making it easier to relax or sleep in the wheelchair. The wheelchair features adjustable leg rests that can be elevated. The wheelchair is built with a strong, durable frame and chrome platted. The wheelchair is equipped with large rear wheels that can be either self-propelled by the user or pushed by a caregiver. The wheels are designed for smooth movement over various surfaces. The front wheels are smaller and swivel to provide better manoeuvrability, particularly in tight spaces. The wheelchair includes a reliable braking system with wheel locks and attendant brakes for safety during reclining and leg elevation. - Surgismart
-  Updated: 2025-08-13T07:37:39Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/903gc.jpg?v=1751478127
-  Price: ₹14,280.00 INR
-- [Buy ​Uphealthy Commode Wheelchair Foldable - Surgismart](https://surgismart.in/products/uphealthy-commode-wheelchair-foldable): A commode wheelchair is a versatile mobility aid that combines the functions of a wheelchair and a commode, designed to provide convenience and independence to individuals with limited mobility. This type of wheelchair allows users to move around and also use it as a portable toilet, making it especially useful for home and care facility settings. Here’s a detailed description of a commode wheelchair: Functions as a standard wheelchair for transportation, providing independence and mobility for the user. This wheelchair has the Flip Up armrest, which provides convenience in transferring The frame is typically made of chrome-plated iron for durability and manoeuvrability. It folds easily for transport and storage. The seat is usually padded for comfort and has a cutout section in the centre that reveals the commode bucket. The commode bucket is a removable container located beneath the seat. It can be easily removed and emptied. Increased independence and privacy for users who have difficulty using a standard restroom. Reduced need for assistance with toileting activities. More convenient option for toileting during outings or travel. Considerations: Ensure the wheelchair meets the user’s specific medical and mobility needs. Verify the maximum weight capacity to ensure it’s suitable for the user. Ensure the wheelchair’s dimensions fit through the spaces it will be used in and are comfortable for the user. - Surgismart
-  Updated: 2025-08-13T07:37:39Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/681.jpg?v=1751478126
-  Price: ₹12,325.00 INR
-- [Buy ​Uphealthy Lightweight Transit Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-lightweight-transit-wheelchair): A Transit Wheelchair is a lightweight wheelchair that is ideal for travelling around since it is compact enough to carry around. Has four (4) small wheels so it’s lighter to push and carry around Made of aluminium so it won’t rust and is very lightweight Padded armrests for patient’s comfort, can be raised up when not in use With seatbelt for the patient’s safety With hand brakes that can be locked in place - Surgismart
-  Updated: 2025-08-13T07:37:38Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2711-scaled.jpg?v=1751478126
-  Price: ₹10,199.00 INR
-- [Buy ​Uphealthy Wheelchair with Lifter - Surgismart](https://surgismart.in/products/uphealthy-wheelchair-with-lifter): A wheelchair with a lifter, also known as a patient transfer wheelchair or lift wheelchair, is designed to assist caregivers in safely transferring patients with limited mobility from one position to another. This type of wheelchair typically combines the features of a standard wheelchair with additional handles for lifting to facilitate safe and comfortable patient transfers. Constructed from high-strength materials like aluminium to support the additional weight and stress of lifting mechanisms. User’s Specific Needs: Ensure the wheelchair meets the user’s specific mobility and comfort needs. Weight Capacity: Verify the maximum weight capacity to ensure it’s suitable for the user. - Surgismart
-  Updated: 2025-08-13T07:37:38Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/805LR-1.png?v=1751478125
-  Price: ₹12,750.00 INR
-- [Buy ​Uphealthy Foldable LightWeight Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-foldable-lightweight-wheelchair): The 903L aluminium wheelchair is a lightweight, foldable mobility aid designed for individuals who require assistance with movement. Its aluminium frame makes it durable yet easy to handle, providing a comfortable and convenient solution for daily use. Aluminium frame flip up, PU armrest detachable footrest High quality, comfortable, breathable, nylon seat - Surgismart
-  Updated: 2025-08-13T07:37:38Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2548-scaled.jpg?v=1751478124
-  Price: ₹14,449.00 INR
-- [Buy ​Uphealthy Foldable Lightweight Quick Release Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-foldable-lightweight-quick-release-wheelchair): The aluminium wheelchair is a lightweight, foldable mobility aid designed for individuals who require assistance with movement. Its aluminium frame makes it durable yet easy to handle, providing a comfortable and convenient solution for daily use. Aluminium frame flip up ,PU armrest detachable footrest High quality, comfortable, breathable, nylon seat Quick release pneumatic rear wheel - Surgismart
-  Updated: 2025-08-13T07:37:38Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2665ok-scaled.jpg?v=1751478124
-  Price: ₹16,150.00 INR
-- [Buy ​Uphealthy Uphealthy Foldable Lightweight Aluminum Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-uphealthy-foldable-lightweight-aluminum-wheelchair): Uphealthy Portable Aluminum Wheelchair UH863LABJ A compact aluminium wheelchair designed for optimal mobility and comfort. Its sturdy aluminium frame ensures durability while remaining lightweight and foldable for easy transportation and storage. The transit type design allows for smooth manoeuvrability in various environments. Fixed armrests and flip-back footrests provide added convenience, while the drop-back handle and foldable backrest makes for easy storage. With solid castor front wheels and rear wheels, stability and durability are guaranteed. Aluminium Frame Transit type wheelchair Drop Back Handle/Foldable Backrest Solid castor Front Wheel 6” Solid rear wheel 12″ - Surgismart
-  Updated: 2025-08-13T07:37:37Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2511-scaled.jpg?v=1751478123
-  Price: ₹11,049.00 INR
-- [Buy ​Uphealthy Ortho Wheelchair with Quick Release MAG Wheel - Surgismart](https://surgismart.in/products/uphealthy-ortho-wheelchair-with-quick-release-mag-wheel): The aluminum wheelchair offers exceptional support and functionality with the following features: High strength double cross bars and frame Flip-up armrests for users to move easily to hospital beds/seats Built in durable soft nylon mesh cushions Quick release rear wheels saving package space and storage size Economical black plastic footplates detachable and elevating footrests: offers convenience and adjustable positioning. - Surgismart
-  Updated: 2025-09-03T03:13:37Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2651-scaled.jpg?v=1751478123
-  Price: ₹16,150.00 INR
-- [Buy ​Uphealthy High Back Reclining Aluminium Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-high-back-reclining-aluminium-wheelchair): A reclining and leg-elevating aluminium wheelchair combines two essential features to enhance comfort and provide medical support for users who require frequent repositioning or leg elevation. This type of wheelchair is ideal for individuals with various medical conditions that necessitate specific seating positions to manage health issues, improve comfort, and facilitate care. The backrest can be adjusted from an upright position to a fully reclined angle, allowing users to find the most comfortable position. The reclining feature helps reduce pressure on the spine and lower back, making it easier to relax or sleep in the wheelchair. The wheelchair features adjustable leg rests that can be elevated. The wheelchair is built with a strong, durable aluminium . The wheelchair is equipped with large rear wheels that can be either self-propelled by the user or pushed by a caregiver. The wheels are designed for smooth movement over various surfaces. The front wheels are smaller and swivel to provide better manoeuvrability, particularly in tight spaces. The wheelchair includes a reliable braking system with wheel locks and attendant brakes for safety during reclining and leg elevation. - Surgismart
-  Updated: 2025-08-29T12:46:49Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/954LGC-scaled.jpg?v=1751478122
-  Price: ₹16,999.00 INR
-- [Buy ​Uphealthy Stair Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-stair-wheelchair): Powered Stair Wheelchairs allows you to provide the safe transport of patients up and down stairs. The Powered Chair has a power track system that makes transporting patients up and down stairs an easy task, it provides controlled transportation up and down stairs. When operating this chair, the power tracks make contact with the stairs, allowing the chair to glide over the edge of the stairs eliminating the need to lift the patient and chair. This Powered Stair Chair can be used for medical transport, emergency evacuations, daily assistance going up and down stairs. Features: Can be used at home and in medical facilities Light-weight, aluminium construction powder-coated frame Ergonomic lifting handles with moulded hand grips to reduce stress and provide extra control for caregiver Telescoping lift handles easily adjust to caregiver’s specific needs Dual, extra traction treads withstand high volume use, high durability tracks for non-slip traction on any surface with adjustable track swivelling front castors increase range of motion and sharper turn radius for use in confined spaces Easy-to-fold, compact for convenient storage for small spaces. Retractable solid footrest ensures safe transport and added comfort 4-point patient safety belt Head support and headrest is easily removed for storage - Surgismart
-  Updated: 2025-08-13T07:37:37Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6050-1.jpg?v=1751478121
-  Price: ₹89,250.00 INR
-- [Buy ​Uphealthy Transfer Wheelchair Leg Hydraulic - Surgismart](https://surgismart.in/products/uphealthy-transfer-wheelchair-leg-hydraulic): Transfer chair is a type of wheelchair designed to facilitate the safe and comfortable movement of patients between different areas, such as from a bed to a bathroom or within medical facilities. Its compact frame and manoeuvrability make it ideal for navigating tight spaces and for short-distance transfers. The transfer chair streamlines the process of moving patients with limited mobility, reducing physical strain on both caregivers and patients. Its design enhances patient dignity and comfort during transfers, while also minimising the risk of injuries. By improving mobility within confined spaces, it addresses the challenges of navigating in homes or healthcare settings with limited room for manoeuvring. Durable Frame Construction: Transfer chairs are built with a sturdy frame, often made from high-strength metals to ensure stability and support for users during transfers. Comfortable Seating Material: The seating area is typically crafted to provide comfort during use, while also being easy to clean and maintain. Easily Moveable Wheel Design: Equipped with smooth-rolling wheels, transfer chairs allow for easy navigation across various surfaces, with lock mechanisms for safety during patient transfer. Secure Restraints and Supports: Adjustable safety belts and support, such as armrests and footrests, are integrated to secure the patient in place and prevent falls during movement. Ergonomic Handles and Controls: Ergonomically designed handles and user-friendly controls ensure ease of operation for caregivers, reducing the effort required for patient transfers. - Surgismart
-  Updated: 2025-08-27T14:38:13Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/891LH.png?v=1751478121
-  Price: ₹32,300.00 INR
-- [Buy ​Uphealthy Patient Transfer Wheelchair Hand Hydraulic - Surgismart](https://surgismart.in/products/uphealthy-patient-transfer-wheelchair-hand-hydraulic): Uphealthy Manual Patient Transfer Shifter Commode Chair-891HH Transfer chair is a type of wheelchair designed to facilitate the safe and comfortable movement of patients between different areas, such as from a bed to a bathroom or within medical facilities. Its compact frame and manoeuvrability make it ideal for navigating tight spaces and for short-distance transfers. The transfer chair streamlines the process of moving patients with limited mobility, reducing physical strain on both caregivers and patients. Its design enhances patient dignity and comfort during transfers, while also minimising the risk of injuries. By improving mobility within confined spaces, it addresses the challenges of navigating in homes or healthcare settings with limited room for manoeuvring. Durable Frame Construction: Transfer chairs are built with a sturdy frame, often made from high-strength metals to ensure stability and support for users during transfers. Comfortable Seating Material: The seating area is typically crafted to provide comfort during use, while also being easy to clean and maintain. Easily Moveable Wheel Design: Equipped with smooth-rolling wheels, transfer chairs allow for easy navigation across various surfaces, with lock mechanisms for safety during patient transfer. Secure Restraints and Supports: Adjustable safety belts and support, such as armrests and footrests, are integrated to secure the patient in place and prevent falls during movement. Ergonomic Handles and Controls: Ergonomically designed handles and user-friendly controls ensure ease of operation for caregivers, reducing the effort required for patient transfers. - Surgismart
-  Updated: 2025-08-13T07:37:36Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/891HH.jpg?v=1751478120
-  Price: ₹32,300.00 INR
-- [Buy ​Uphealthy Dual Purpose Stair Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-dual-purpose-stair-wheelchair): This product is both a power wheelchair and power stair chair all in one. It can be conveniently used as a power wheelchair on the ground. Powered Stair Wheelchairs allows you to provide the safe transport of patients up and down stairs. The Powered Chair has a power track system that makes transporting patients up and down stairs an easy task, it provides controlled transportation up and down stairs. When operating this chair, the power tracks make contact with the stairs, allowing the chair to glide over the edge of the stairs eliminating the need to lift the patient and chair. This Powered Stair Chair can be used for medical transport, emergency evacuations, daily assistance going up and down stairs. Features: Can be used at home and in medical facilities Light-weight, aluminium construction powder-coated frame Ergonomic lifting handles with moulded hand grips to reduce stress and provide extra control for caregiver Telescoping lift handles easily adjust to caregiver’s specific needs Dual, extra traction treads withstand high volume use, high durability tracks for non-slip traction on any surface with adjustable track swivelling front castors increase range of motion and sharper turn radius for use in confined spaces Easy-to-fold, compact for convenient storage for small spaces. Retractable solid footrest ensures safe transport and added comfort 4-point patient safety belt Head support and headrest is easily removed for storage - Surgismart
-  Updated: 2025-08-13T07:37:36Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6051-red.jpg?v=1751478120
-  Price: ₹124,950.00 INR
-- [Buy ​Uphealthy Motorized Foldable Electric Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-motorized-foldable-electric-wheelchair): An electric wheelchair is a motorised mobility aid designed for individuals who have difficulty using a manual wheelchair due to physical limitations or conditions. It is powered by electric motors, allowing for easier movement and control compared to manual wheelchairs. Electric motor Provides powered movement, reducing the physical effort required to propel the wheelchair. The motors can drive the wheelchair forward, backward, and assist with turning. Joystick allows users to control speed, direction, and manoeuvrability with minimal effort. Joystick controls can be customised for different levels of physical ability. Rechargeable batteries provide the energy needed for the motors to operate. Batteries can typically be recharged at home using a standard electrical outlet. Includes features such as anti-tip wheels, seat belts, and automatic braking systems. Electric wheelchairs can be folded or disassembled. Facilitates easier transport and storage, particularly useful for travel or when space is limited. Enables individuals with limited physical strength or coordination to move around more independently. Ideal for navigating around the house, including manoeuvring through rooms and accessing various areas with ease. Suitable for use outdoors, including navigating sidewalks, parks, and other terrain, depending on the model’s capabilities. - Surgismart
-  Updated: 2025-08-13T07:37:36Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2543-scaled.jpg?v=1751478119
-  Price: ₹56,950.00 INR
-- [Buy ​Uphealthy Motorized Electric Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-motorized-electric-wheelchair): An electric wheelchair is a motorised mobility aid designed for individuals who have difficulty using a manual wheelchair due to physical limitations or conditions. It is powered by electric motors, allowing for easier movement and control compared to manual wheelchairs. Electric motor Provides powered movement, reducing the physical effort required to propel the wheelchair. The motors can drive the wheelchair forward, backward, and assist with turning. Joystick allows users to control speed, direction, and manoeuvrability with minimal effort. Joystick controls can be customised for different levels of physical ability. Rechargeable batteries provide the energy needed for the motors to operate. Batteries can typically be recharged at home using a standard electrical outlet. Includes features such as anti-tip wheels, seat belts, and automatic braking systems. Electric wheelchairs can be folded or disassembled. Facilitates easier transport and storage, particularly useful for travel or when space is limited. Enables individuals with limited physical strength or coordination to move around more independently. Ideal for navigating around the house, including manoeuvring through rooms and accessing various areas with ease. Suitable for use outdoors, including navigating sidewalks, parks, and other terrain, depending on the model’s capabilities. - Surgismart
-  Updated: 2025-08-13T07:37:36Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6022R-1.jpg?v=1751478119
-  Price: ₹59,968.00 INR
-- [Buy ​Uphealthy LightWeight Aluminium Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-lightweight-aluminium-wheelchair): An electric wheelchair is a motorised mobility aid designed for individuals who have difficulty using a manual wheelchair due to physical limitations or conditions. It is powered by electric motors, allowing for easier movement and control compared to manual wheelchairs. Electric motor Provides powered movement, reducing the physical effort required to propel the wheelchair. The motors can drive the wheelchair forward, backward, and assist with turning. Joystick allows users to control speed, direction, and manoeuvrability with minimal effort. Joystick controls can be customised for different levels of physical ability. Rechargeable batteries provide the energy needed for the motors to operate. Batteries can typically be recharged at home using a standard electrical outlet. Includes features such as anti-tip wheels, seat belts, and automatic braking systems. Electric wheelchairs can be folded or disassembled. Facilitates easier transport and storage, particularly useful for travel or when space is limited. Enables individuals with limited physical strength or coordination to move around more independently. Ideal for navigating around the house, including manoeuvring through rooms and accessing various areas with ease. Suitable for use outdoors, including navigating sidewalks, parks, and other terrain, depending on the model’s capabilities. - Surgismart
-  Updated: 2025-08-13T07:37:35Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6021.png?v=1751478118
-  Price: ₹79,050.00 INR
-- [Buy ​Uphealthy Reclining High Back Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-reclining-high-back-wheelchair): An electric wheelchair is a motorised mobility aid designed for individuals who have difficulty using a manual wheelchair due to physical limitations or conditions. It is powered by electric motors, allowing for easier movement and control compared to manual wheelchairs. Electric motor Provides powered movement, reducing the physical effort required to propel the wheelchair. The motors can drive the wheelchair forward, backward, and assist with turning. Joystick allows users to control speed, direction, and manoeuvrability with minimal effort. Joystick controls can be customised for different levels of physical ability. Rechargeable batteries provide the energy needed for the motors to operate. Batteries can typically be recharged at home using a standard electrical outlet. Includes features such as anti-tip wheels, seat belts, and automatic braking systems. Electric wheelchairs can be folded or disassembled. Facilitates easier transport and storage, particularly useful for travel or when space is limited. Enables individuals with limited physical strength or coordination to move around more independently. Ideal for navigating around the house, including manoeuvring through rooms and accessing various areas with ease. Suitable for use outdoors, including navigating sidewalks, parks, and other terrain, depending on the model’s capabilities. - Surgismart
-  Updated: 2025-08-13T07:37:35Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/801.png?v=1751478117
-  Price: ₹68,298.00 INR
-- [Buy ​Uphealthy Electric Standing Wheelchair - Surgismart](https://surgismart.in/products/uphealthy-electric-standing-wheelchair): A standing wheelchair is a type of mobility aid designed to help users who need support while standing. Unlike traditional wheelchairs that keep the user seated, a standing wheelchair allows the user to transition from a seated to a standing position, providing both mobility and the benefits of standing. Equipped with a powered mechanism that allows the user to rise from a seated position to a standing position. Can be used as a regular manual wheelchair. Enables users to stand up and adjust their posture, which can be beneficial for health, mobility, and daily activities. Offers stability and safety during the standing process, helping users maintain balance. The control system / remote allows users to easily transition between sitting and standing positions and manoeuvre the wheelchair. Standing can help improve blood flow and reduce the risk of pressure sores and circulatory problems. - Surgismart
-  Updated: 2025-08-13T07:37:35Z
-  Vendor: Uphealthy
-  Product Type: Wheelchair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6011-1.jpg?v=1751478117
-  Price: ₹61,200.00 INR
-- [Buy ​Uphealthy Commode Stool - Surgismart](https://surgismart.in/products/uphealthy-commode-stool): The commode stool is a versatile assistive device designed for individuals who need support and convenience when using the toilet. It combines the functions of a commode and a stool, making it useful for people with mobility issues, the elderly, or those recovering from surgery. Rubber tips on the feet to prevent slipping and ensure the stool remains stable on various surfaces. Offers the functionality of a commode with the portability of a stool, making it suitable for use in different rooms. Reduces the risk of falls and provides a secure seating option for those with limited mobility. Ensure the commode stool is placed on a flat, stable surface before use. - Surgismart
-  Updated: 2025-08-13T07:37:35Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2607-scaled.jpg?v=1751478116
-  Price: ₹1,190.00 INR
-- [Buy ​Uphealthy Commode Stool With Bucket - Surgismart](https://surgismart.in/products/uphealthy-commode-stool-with-bucket): The commode stool with bucket is a versatile assistive device designed for individuals who need support and convenience when using the toilet. It combines the functions of a commode and a stool, making it useful for people with mobility issues, the elderly, or those recovering from surgery. Features a removable bucket for easy cleaning and disposal of waste. Clean the commode bucket and the stool regularly to maintain hygiene. Rubber tips on the feet to prevent slipping and ensure the stool remains stable on various surfaces. Offers the functionality of a commode with the portability of a stool, making it suitable for use in different rooms. Reduces the risk of falls and provides a secure seating option for those with limited mobility. Ensure the commode stool is placed on a flat, stable surface before use. - Surgismart
-  Updated: 2025-08-13T07:37:35Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2520-1-scaled.jpg?v=1751478116
-  Price: ₹1,402.00 INR
-- [Buy ​Uphealthy Commode Chair - Surgismart](https://surgismart.in/products/uphealthy-commode-chair): The commode chair is an essential aid for individuals who require assistance with toileting. It is designed to offer convenience, safety, and comfort for those with mobility issues, the elderly, or those recovering from surgery. Comes with a removable bucket for easy cleaning and waste disposal. Features armrests to provide additional support and stability. Equipped with rubber tips on the feet to prevent slipping and to ensure stability on various surfaces. Combines the functionality of a commode with the portability of a chair, making it suitable for use in different rooms. Ensure the commode chair is placed on a flat, stable surface before use. Clean the commode bucket and the chair regularly to maintain hygiene. - Surgismart
-  Updated: 2025-08-13T07:37:34Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2523-2-scaled.jpg?v=1751478115
-  Price: ₹2,125.00 INR
-- [Buy ​Uphealthy Commode Chair with Bucket - Surgismart](https://surgismart.in/products/uphealthy-commode-chair-with-bucket): The 899B U-Cut Commode Chair is a specialised commode chair designed to provide additional convenience and comfort, especially for users who need easier access for personal hygiene. The seat has a U-shaped cutout at the front, which allows for better access for personal cleaning and hygiene. Includes a removable bucket for easy cleaning and waste disposal. Features armrests for additional support and stability. Equipped with rubber tips on the feet to prevent slipping and ensure stability on various surfaces. The U-cut design offers easier access for personal cleaning, making it particularly useful for caregivers. Functions as both a commode and a chair, suitable for use in different rooms. - Surgismart
-  Updated: 2025-08-13T07:37:34Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2623-1-scaled.jpg?v=1751478115
-  Price: ₹2,125.00 INR
-- [Buy ​Uphealthy Height Adjustable Commode Chair - Surgismart](https://surgismart.in/products/uphealthy-height-adjustable-commode-chair): The commode chair is designed to provide support and convenience for individuals who need assistance with toileting. The legs of the Height Adjustable commode chair can be adjusted to various heights, allowing users to customise it to their needs. Comes with a removable bucket for easy cleaning and disposal of waste. Equipped with armrests to provide additional support and stability. Rubber tips on the feet to prevent slipping and to ensure the stool remains stable on various surfaces. Clean the commode bucket and the chair regularly to maintain hygiene. Utilise the armrests for support when sitting down or standing up to prevent strain or injury. Check the weight capacity to ensure it is suitable for the intended user. This model can be folded for easy storage and transport. - Surgismart
-  Updated: 2025-08-13T07:37:34Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2518-scaled.jpg?v=1751478114
-  Price: ₹4,079.00 INR
-- [Buy ​Uphealthy Height Adjustable Aluminium Commode Chair - Surgismart](https://surgismart.in/products/uphealthy-height-adjustable-aluminium-commode-chair): The commode chair is designed to provide support and convenience for individuals who need assistance with toileting. The frame is made of aluminium. The legs of the Height Adjustable Aluminium commode chair can be adjusted to various heights, allowing users to customise it to their needs. Comes with a removable bucket for easy cleaning and disposal of waste. Equipped with armrests to provide additional support and stability. Rubber tips on the feet to prevent slipping and to ensure the stool remains stable on various surfaces. Clean the commode bucket and the chair regularly to maintain hygiene. Utilise the armrests for support when sitting down or standing up to prevent strain or injury. Check the weight capacity to ensure it is suitable for the intended user. This model can be folded for easy storage and transport. - Surgismart
-  Updated: 2025-08-13T07:37:34Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2780-scaled.jpg?v=1751478113
-  Price: ₹4,249.00 INR
-- [Buy ​Uphealthy Height Adjustable Commode Chair with Wheel - Surgismart](https://surgismart.in/products/uphealthy-height-adjustable-commode-chair-with-wheel): A folding commode chair with wheels is an auxiliary equipment that helps the user to perform physiological activities. It comes with height adjustable legs with castors. It folds into a compact unit for transport. MS Chrome plated foldable frame is sturdy yet lightweight. The rear castors are lockable for extra safety. It is suitable for a variety of settings, including homes, healthcare facilities, and other environments where individuals may require assistance with mobility and toileting. The removable commode bucket simplifies the cleaning process, ensuring that the chair remains hygienic and ready for use. This feature contributes to the overall ease of maintenance. - Surgismart
-  Updated: 2025-08-13T07:37:33Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2772ok-scaled.jpg?v=1751478112
-  Price: ₹4,249.00 INR
-- [Buy ​Uphealthy Height Adjustable Aluminium Commode Chair with Wheel - Surgismart](https://surgismart.in/products/uphealthy-height-adjustable-aluminium-commode-chair-with-wheel): A folding commode chair with wheels is an auxiliary equipment that helps the user to perform physiological activities. It comes with height adjustable legs with castors. It folds into a compact unit for transport. The Aluminum foldable frame is sturdy yet lightweight. The rear castors are lockable for extra safety. It is suitable for a variety of settings, including homes, healthcare facilities, and other environments where individuals may require assistance with mobility and toileting. The removable commode bucket simplifies the cleaning process, ensuring that the chair remains hygienic and ready for use. This feature contributes to the overall ease of maintenance. - Surgismart
-  Updated: 2025-08-13T07:37:33Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/696L.jpg?v=1751478111
-  Price: ₹4,674.00 INR
-- [Buy ​Uphealthy Commode Seat Raiser with Handle - Surgismart](https://surgismart.in/products/uphealthy-commode-seat-raiser-with-handle): - Surgismart
-  Updated: 2025-08-13T07:37:33Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/893.jpg?v=1751478111
-  Price: ₹2,890.00 INR
-- [Buy ​Uphealthy Lightweight Shower Stool - Surgismart](https://surgismart.in/products/uphealthy-lightweight-shower-stool): A shower stool is similar to a bath stool but is specifically designed for use in the shower. It provides support and stability for individuals who may have difficulty standing for long periods or who need to sit while showering due to mobility issues, age, or recovery from surgery. This shower stool has a lightweight construction that makes it easy to move. The use of high-quality materials ensures durability without compromising on portability, making it an ideal choice for individuals seeking a handy seating solution. - Surgismart
-  Updated: 2025-08-13T07:37:33Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/797.jpg?v=1751478110
-  Price: ₹2,125.00 INR
-- [Buy ​Uphealthy LightWeight Shower Chair - Surgismart](https://surgismart.in/products/uphealthy-lightweight-shower-chair): The Lightweight shower chair designed for use in the shower to provide stability and comfort. Features: The shower chair typically has adjustable legs, allowing users to set the chair to a comfortable height. Equipped with rubber tips or non-slip feet to ensure stability on wet surfaces. Made from rust-resistant materials such as aluminium or high-grade plastic. Reduces the risk of slipping and falling in the shower. Regularly clean the chair to maintain hygiene and check the non-slip feet for wear and tear. - Surgismart
-  Updated: 2025-08-14T14:29:34Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/798LQ.jpg?v=1751478109
-  Price: ₹2,975.00 INR
-- [Buy ​Uphealthy Foldable Shower Chair Cum Walker (6 in 1) - Surgismart](https://surgismart.in/products/uphealthy-foldable-shower-chair-cum-walker-6-in-1): This is a multi-function aluminium walker. Constructed from high-strength aluminium or steel for durability while remaining lightweight for ease of use. Suitable for both temporary use during recovery and long-term use for chronic mobility issues. Comes with a height adjustable feature. The walker with a commode can be detached and stored in narrow spaces and is easily portable. Its main uses are as mentioned below: Step Walker Shower Chair Commode Chair - Surgismart
-  Updated: 2025-09-08T21:51:33Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/822L-scaled.jpg?v=1751478108
-  Price: ₹5,950.00 INR
-- [Buy ​Uphealthy Lightweight Shower Chair with Handle - Surgismart](https://surgismart.in/products/uphealthy-lightweight-shower-chair-with-handle): The 798LQA shower chair is a specific model designed to provide support and comfort for individuals who need assistance while showering. The chair’s legs can be adjusted to various heights, allowing users to customise it to their needs. Rubber tips on the feet ensure the chair remains stable on wet surfaces. Typically made from rust-resistant materials like aluminium or high-quality plastic, ensuring longevity. Designed with armrests to aid in sitting down and standing up, offering extra support and stability. Ensure the chair is placed on a flat, stable surface in the shower before use. Utilise the armrests for support when sitting down or standing up to prevent strain or injury. - Surgismart
-  Updated: 2025-08-13T07:37:32Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/798LQA.jpg?v=1751478108
-  Price: ₹2,975.00 INR
-- [Buy ​Uphealthy Shower Chair With Commode &#038; Handle - Surgismart](https://surgismart.in/products/uphealthy-shower-chair-with-commode-038-handle): The 791-shower chair with commode is a specific model designed to provide support and comfort for individuals who need assistance while showering and toileting. Serves both as a chair for showering and as a portable commode for toileting needs. Eliminates the need to transfer between devices, making bathing and toileting easier for individuals with mobility challenges. The chair’s legs can be adjusted to various heights, allowing users to customize it to their needs. Rubber tips on the feet ensure the chair remains stable on wet surfaces. Typically made from rust-resistant materials like aluminium or high-quality plastic, ensuring longevity. Designed with armrests to aid in sitting down and standing up, offering extra support and stability. Ensure the chair is placed on a flat, stable surface in the shower before use. Utilise the armrests for support when sitting down or standing up to prevent strain or injury. - Surgismart
-  Updated: 2025-08-13T07:37:32Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/791.jpg?v=1751478107
-  Price: ₹4,674.00 INR
-- [Buy ​Uphealthy Aluminium Light Weight Single Stick - Surgismart](https://surgismart.in/products/uphealthy-aluminium-light-weight-single-stick): The 920L single walking stick is a basic mobility aid designed to provide balance and stability for individuals with mild mobility challenges. It is lightweight, adjustable, and easy to use, making it ideal for elderly individuals or those recovering from an injury. Typically made from lightweight materials such as aluminium. Easy to carry and handle, reducing the strain on the user while still providing sturdy support. The height of the walking stick can be adjusted to suit the user’s height. The walking stick often comes with a contoured, ergonomic handle for easy gripping. Equipped with a non-slip rubber tip at the base for added traction. - Surgismart
-  Updated: 2025-08-25T20:16:35Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2586ok-scaled.jpg?v=1751478106
-  Price: ₹509.00 INR
-- [Buy ​Uphealthy Walking Stick Tripod - Surgismart](https://surgismart.in/products/uphealthy-walking-stick-tripod): The 926L three-leg walking stick, also known as a tripod, is a mobility aid designed to provide enhanced stability and support for individuals with balance or walking difficulties. Its four-legged base offers more support than a standard single-point walking stick. The walking stick features a wide, stable base with four legs. The height of the walking stick can be adjusted to fit the user’s height. Each leg has a non-slip rubber tip for enhanced grip on various surfaces. Designed with a comfortable, ergonomic grip for ease of use. Typically constructed from lightweight yet sturdy materials like aluminium. The three-leg design provides significantly more balance support than standard canes, making it ideal for people with severe balance issues. Commonly used by elderly individuals who need additional support while walking. - Surgismart
-  Updated: 2025-08-13T07:37:32Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2538ok-1-scaled.jpg?v=1751478105
-  Price: ₹849.00 INR
-- [Buy ​Uphealthy Walking Stick Quadripod - Surgismart](https://surgismart.in/products/uphealthy-walking-stick-quadripod): The 922L four-leg walking stick, also known as a quad cane, is a mobility aid designed to provide enhanced stability and support for individuals with balance or walking difficulties. Its four-legged base offers more support than a standard single-point walking stick. The walking stick features a wide, stable base with four legs. The height of the walking stick can be adjusted to fit the user’s height. Each leg has a non-slip rubber tip for enhanced grip on various surfaces. Designed with a comfortable, ergonomic grip for ease of use. Typically constructed from lightweight yet sturdy materials like aluminium. The four-leg design provides significantly more balance support than standard canes, making it ideal for people with severe balance issues. Commonly used by elderly individuals who need additional support while walking. - Surgismart
-  Updated: 2025-08-18T04:08:49Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2539ok-1-scaled.jpg?v=1751478103
-  Price: ₹849.00 INR
-- [Buy ​Uphealthy Elbow Crutch - Surgismart](https://surgismart.in/products/uphealthy-elbow-crutch): The 9331 elbow crutch is a mobility aid designed for individuals who require support and stability while walking. Unlike underarm crutches, elbow crutches are held at the forearm and are often used by individuals with long-term mobility issues or during rehabilitation. The crutch features a cuff that wraps around the forearm for added stability and control. Equipped with a comfortable, ergonomic handgrip that supports the user’s hand and wrist. The overall height of the crutch and the forearm section can be adjusted. Made from lightweight materials like aluminium. The bottom of the crutch features a non-slip rubber tip for enhanced traction. - Surgismart
-  Updated: 2025-08-13T07:37:31Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2534ok1-scaled.jpg?v=1751478102
-  Price: ₹849.00 INR
-- [Buy ​Uphealthy Foldable Metal Walker - Surgismart](https://surgismart.in/products/uphealthy-foldable-metal-walker): Indian iron walkers are a common type of mobility aid found in India. A walker or walking frame is a mobility aid designed to provide support and stability for individuals who have difficulty walking due to age, injury, surgery, or other mobility impairments. Made from iron, they offer excellent stability and durability. Designed to accommodate users of different heights. They usually have a simple, no-frills design with a focus on functionality. More budget-friendly compared to other types of walkers. - Surgismart
-  Updated: 2025-08-21T04:39:59Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/911-1.png?v=1751478101
-  Price: ₹1,105.00 INR
-- [Buy ​Uphealthy Aluminium Foldable Walker - Surgismart](https://surgismart.in/products/uphealthy-aluminium-foldable-walker): The Aluminium Foldable Walker is a specific model of a mobility aid designed to provide stability and support for individuals with difficulty walking. It is a popular choice for individuals seeking a lightweight, foldable, and comfortable mobility aid. It’s made from aluminium with chrome plating, making it easy to manoeuvre and transport. Constructed from high-strength aluminium to provide robust support and durability. The legs are adjustable, allowing the height of the walker to be customised to the user’s needs. The feet of the walker are fitted with non-slip rubber tips to provide traction and prevent slipping. The handles are designed with ergonomic grips to provide comfort and reduce hand strain during use. - Surgismart
-  Updated: 2025-08-13T07:37:31Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2533ok1-scaled.jpg?v=1751478101
-  Price: ₹2,124.00 INR
-- [Buy ​Uphealthy Foldable Aluminium Walker - Surgismart](https://surgismart.in/products/uphealthy-foldable-aluminium-walker): The Foldable Aluminium Walker is a specific model of a mobility aid designed to provide stability and support for individuals with difficulty walking. It is a popular choice for individuals seeking a lightweight, foldable, and comfortable mobility aid. It’s made from aluminium with chrome plating, making it easy to manoeuvre and transport. Constructed from high-strength aluminium to provide robust support and durability. The legs are adjustable, allowing the height of the walker to be customised to the user’s needs. The feet of the walker are fitted with non-slip rubber tips to provide traction and prevent slipping. The handles are designed with ergonomic grips to provide comfort and reduce hand strain during use. - Surgismart
-  Updated: 2025-08-24T00:25:50Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2621-1-scaled.jpg?v=1751478100
-  Price: ₹2,379.00 INR
-- [Buy ​Uphealthy Aluminium Walker With Wheel - Surgismart](https://surgismart.in/products/uphealthy-aluminium-walker-with-wheel): The Aluminium Wheel Walker is a specific type of walker, which combines the features of a traditional walker with the added benefit of wheels to enhance mobility and ease of use. A wheel walker is essentially a walker with two wheels typically located at the front. This design offers a balance between the stability of a traditional walker and the ease of movement provided by wheels. Wheels are usually located at the front for easier manoeuvrability. The lightweight frame is made of aluminium for portability. The foldable design is convenient for storage and transportation. Accommodates users of different heights. - Surgismart
-  Updated: 2025-08-13T07:37:30Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2617-scaled.jpg?v=1751478099
-  Price: ₹2,379.00 INR
-- [Buy ​Uphealthy Foldable Step Walker for Climbing - Surgismart](https://surgismart.in/products/uphealthy-foldable-step-walker-for-climbing): The Foldable Step Walker is a type of mobility aid designed to provide support and stability for individuals who have difficulty walking. Unlike standard walkers, step walkers often incorporate features that make them easier to use for people with varying levels of mobility. Constructed from high-strength aluminium or steel for durability while remaining lightweight for ease of use. Suitable for both temporary use during recovery and long-term use for chronic mobility issues. Its sturdy construction, adjustable features, and step walker design make it an invaluable tool for daily activities and rehabilitation. - Surgismart
-  Updated: 2025-08-13T07:37:30Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2827ok-scaled.jpg?v=1751478098
-  Price: ₹2,379.00 INR
-- [Buy ​Uphealthy Foldable Stair Climbing Walker - Surgismart](https://surgismart.in/products/uphealthy-foldable-stair-climbing-walker): A staircase walker is a specialised mobility aid designed to assist individuals in navigating stairs safely. Unlike standard walkers, this type of walker is built to provide stability and support on staircases, making it ideal for people with balance issues, reduced strength, or those recovering from surgery or injury. The walker typically features adjustable legs, allowing the user to set the height according to their needs for both stairs and flat surfaces. It has a foldable design for easy storage and transport. Made from lightweight materials like aluminium. The walker is equipped with non-slip rubber tips or caps at the base of the legs for better traction. - Surgismart
-  Updated: 2025-08-13T07:37:30Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/915.png?v=1751478097
-  Price: ₹7,650.00 INR
-- [Buy ​Uphealthy Paediatric/Child Walker - Surgismart](https://surgismart.in/products/uphealthy-paediatric-child-walker): The Paediatric Walker UH9121L is a mobility aid specifically designed for children. It is a foldable aluminium walker with a matt finish, providing support and assistance to children who require assistance with walking or have difficulty maintaining balance. - Surgismart
-  Updated: 2025-08-13T07:37:30Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9121L.png?v=1751478097
-  Price: ₹3,910.00 INR
-- [Buy ​Uphealthy Foldable Rollator - Surgismart](https://surgismart.in/products/uphealthy-foldable-rollator): A rollator is a type of walker equipped with wheels, a seat, and often additional features like a storage pouch or basket, designed to provide mobility assistance for individuals who need help with balance and support while walking. Rollators are ideal for people who require a more stable walking aid than a cane but more mobility than a standard walker. Made from lightweight, high-strength materials like aluminium for durability and ease of use. Many rollators feature a foldable design for easy storage and transport. Typically equipped with four wheels to provide stability and manoeuvrability. The front wheels usually swivel to enhance manoeuvrability, making it easier to navigate tight spaces. Provides support and stability for individuals with mobility challenges, helping them to walk more confidently. Suitable for both indoor and outdoor use. The built-in seat allows users to rest whenever needed, making it ideal for longer outings. The storage basket or pouch offers a convenient way to carry personal items or shopping. The brake system ensures users can control the rollator and stop securely. - Surgismart
-  Updated: 2025-08-13T07:37:29Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2633-scaled.jpg?v=1751478096
-  Price: ₹8,075.00 INR
-- [Buy ​Uphealthy Aluminum Rollator - Surgismart](https://surgismart.in/products/uphealthy-aluminum-rollator): Rollators allow for easier and faster walking compared to traditional walkers. Users can move around more freely and confidently. A rollator is a type of walker equipped with wheels, a seat, and often additional features like a storage pouch or basket, designed to provide mobility assistance for individuals who need help with balance and support while walking. Rollators are ideal for people who require a more stable walking aid than a cane but more mobility than a standard walker. Made from lightweight, high-strength materials like aluminium for durability and ease of use. Many rollators feature a foldable design for easy storage and transport. Typically equipped with four wheels to provide stability and manoeuvrability. The front wheels usually swivel to enhance manoeuvrability, making it easier to navigate tight spaces. Provides support and stability for individuals with mobility challenges, helping them to walk more confidently. Suitable for both indoor and outdoor use. The built-in seat allows users to rest whenever needed, making it ideal for longer outings. The storage basket or pouch offers a convenient way to carry personal items or shopping. The brake system ensures users can control the rollator and stop securely. When to Consider a Rollator Difficulty walking long distances Need for occasional rest breaks Balance issues Post-surgery recovery - Surgismart
-  Updated: 2025-08-13T07:37:29Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9149L.png?v=1751478095
-  Price: ₹10,199.00 INR
-- [Buy ​Uphealthy Stair/Chair Stretcher - Surgismart](https://surgismart.in/products/uphealthy-stair-chair-stretcher): A stair stretcher, also known as an evacuation chair or stair chair, is a specialised medical device designed to safely transport individuals up and down stairs in emergency situations or when elevators are unavailable. Typically made from high-strength aluminium or steel for durability while remaining lightweight for easy handling. Often designed to be foldable or collapsible for convenient storage and portability. - Surgismart
-  Updated: 2025-08-13T07:37:29Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/563.png?v=1751478094
-  Price: ₹20,400.00 INR
-- [Buy ​Uphealthy Aluminium Stretcher - Surgismart](https://surgismart.in/products/uphealthy-aluminium-stretcher): An aluminium foldable stretcher is a lightweight, portable medical device designed for the safe and efficient transportation of patients. Made primarily of aluminium, this type of stretcher is known for its durability, ease of use, and lightweight nature, making it ideal for emergency situations, hospitals, ambulances, and rescue operations. Lightweight Aluminium Frame Foldable Design Sturdy Fabric Surface Safety Straps - Surgismart
-  Updated: 2025-09-04T15:36:06Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/564.jpg?v=1751478093
-  Price: ₹6,885.00 INR
-- [Buy ​Uphealthy Patient Transfer Sheet - Surgismart](https://surgismart.in/products/uphealthy-patient-transfer-sheet): A patient transfer sheet, also known as a transfer aid, is a fabric device used to facilitate the safe and efficient transfer of patients between surfaces, such as from a bed to a stretcher, wheelchair, or another bed. The primary purpose of a transfer sheet is to reduce the physical effort required by caregivers and to minimise the risk of injury to both patients and healthcare workers during patient handling tasks. - Surgismart
-  Updated: 2025-08-13T07:37:29Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/565.jpg?v=1751478093
-  Price: ₹11,900.00 INR
-- [Buy ​Uphealthy Head Immobilizer - Surgismart](https://surgismart.in/products/uphealthy-head-immobilizer): A head immobiliser is a medical device used to stabilise and immobilise a patient’s head and neck to prevent movement and reduce the risk of further injury during transport or emergency situations. It is typically used in conjunction with a spine board or stretcher to ensure the patient’s head remains aligned with the spine, which is crucial for patients with suspected neck or spinal injuries. The immobiliser has a flat base plate or pad that is placed under the patient’s head and neck. The head immobiliser is equipped with two foam blocks or cushions that are positioned on either side of the patient’s head. It includes adjustable Velcro or buckle straps that secure the head and forehead to the immobiliser. Designed to be compatible with most spine boards and stretchers. - Surgismart
-  Updated: 2025-08-13T07:37:28Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Head-immoblizer-567.jpg?v=1751478092
-  Price: ₹5,950.00 INR
-- [Buy ​Uphealthy Spine Board - Surgismart](https://surgismart.in/products/uphealthy-spine-board): A spine board, also known as a backboard or spinal board, is a rigid medical device used to stabilise and immobilise patients with suspected spinal, neck, or back injuries during transport. It is commonly employed in pre-hospital settings, such as emergency medical services (EMS), as well as in hospitals, rescue operations, and sports medicine. The primary purpose of a spine board is to prevent further injury to the spine by maintaining proper alignment during patient handling and transport. Comes with a set of adjustable straps or restraint systems to secure the patient to the board. - Surgismart
-  Updated: 2025-08-21T19:26:19Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/spine-568.png?v=1751478091
-  Price: ₹5,950.00 INR
-- [Buy ​Uphealthy Scoop Stretcher - Surgismart](https://surgismart.in/products/uphealthy-scoop-stretcher): A scoop stretcher, also known as a scoop board or clamshell stretcher, is a specialized medical device designed for safely lifting, immobilising, and transporting patients with potential spinal, pelvic, or limb injuries. Unlike traditional spine boards, a scoop stretcher can be split into two halves, allowing rescuers to “scoop” the patient off the ground with minimal movement, reducing the risk of exacerbating any existing injuries. This feature makes it especially useful in pre-hospital settings and during emergency rescues. The stretcher is composed of two halves that can be separated and reassembled around the patient. Many scoop stretchers feature an adjustable length mechanism to accommodate patients of various sizes. Constructed from high-strength materials such as aluminium. Equipped with secure locking mechanisms to ensure the two halves of the stretcher remain firmly attached once assembled around the patient. The stretcher has a slightly curved shape to conform to the natural curvature of the body. - Surgismart
-  Updated: 2025-08-13T07:37:28Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/566.jpg?v=1751478090
-  Price: ₹17,085.00 INR
-- [Buy ​Uphealthy CPR Board - Surgismart](https://surgismart.in/products/uphealthy-cpr-board): A CPR board is a flat, rigid surface designed to provide a stable and firm platform underneath a patient during cardiopulmonary resuscitation (CPR). It ensures that compressions are more effective by minimising the amount of force absorbed by a soft surface, such as a mattress or stretcher. CPR boards are commonly used in hospitals, clinics, and emergency medical settings to enhance the quality of chest compressions during resuscitation efforts. - Surgismart
-  Updated: 2025-08-13T07:37:28Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/569.jpg?v=1751478089
-  Price: ₹2,125.00 INR
-- [Buy ​Uphealthy CPR Mask - Surgismart](https://surgismart.in/products/uphealthy-cpr-mask): A CPR mask, also known as a pocket mask or resuscitation mask, is a device used to safely deliver rescue breaths during cardiopulmonary resuscitation (CPR). The mask is designed to protect both the rescuer and the patient from cross-contamination and provides a barrier between them while allowing for effective ventilation of the patient’s lungs. CPR masks are commonly used by healthcare providers, first responders, and trained laypersons in emergency situations. - Surgismart
-  Updated: 2025-08-13T07:37:28Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/cpr-mask.jpg?v=1751478088
-  Price: ₹425.00 INR
-- [Buy ​Uphealthy Piston Compressor Nebulizer - Surgismart](https://surgismart.in/products/uphealthy-piston-compressor-nebulizer): The Piston Compressor Nebulizer is a medical device designed to deliver medication in the form of a mist, inhaled directly into the lungs. Ideal for managing respiratory conditions such as asthma, COPD, and bronchitis, it ensures fast and effective treatment by targeting the lungs directly. Its user-friendly design makes it suitable for all ages, including children, the elderly, and those with severe respiratory issues. It is a reliable and effective solution for managing respiratory conditions, providing comfort and ease of use for patients of all ages. Key Features: Effective Medication Delivery: Directly administers medication to the lungs, providing quick relief and enhanced treatment efficacy. Easy to Use: Designed for simplicity, making it accessible for children, elderly individuals, and those with difficulty using inhalers. Versatile Application: Especially beneficial for severe respiratory conditions where inhalers may fall short. Components: Compressor: The motorised unit that generates airflow to transform liquid medication into a fine mist. Medication Cup: Holds the liquid medication and connects to the compressor via tubing during nebulization. Mouthpiece/Mask: Delivers medication through either a mouthpiece or mask, accommodating different user preferences and needs. Tubing: Connects the compressor to the medication cup, enabling the conversion of liquid medication into mist. Operation: Setup: Fill the medication cup with the prescribed dose, attach it to the compressor via the tubing, and connect the mouthpiece or mask. Inhalation: Once the nebulizer is turned on, the compressor pushes air through the tubing, creating a fine mist. The user inhales this mist through the mouthpiece or mask, delivering the medication deep into the lungs. - Surgismart
-  Updated: 2025-08-13T07:37:27Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/UH-506.jpg?v=1751478087
-  Price: ₹1,424.00 INR
-- [Buy ​Uphealthy Portable Phlegm Suction Apparatus - Surgismart](https://surgismart.in/products/uphealthy-portable-phlegm-suction-apparatus): The Portable Phlegm Suction Apparatus is a portable suction device designed to efficiently remove fluids such as mucus, blood, saliva, and other secretions from a patient’s airway, lungs, or bodily cavities. Essential in emergency care, home care, and hospital environments, this device is particularly valuable for patients who struggle to clear secretions independently, such as those with chronic respiratory conditions or tracheostomies. Key Features: Chronic Condition Management: Ideal for home use by patients with conditions like cystic fibrosis, chronic bronchitis, or neuromuscular diseases, enabling regular suctioning without frequent hospital visits. Tracheostomy Care: Provides critical support for patients with tracheostomies, allowing caregivers to keep airways clear and manage secretions effectively at home. Components: Suction Pump: The core of the device, generating the vacuum necessary to draw fluids into the collection canister. Collection Canister: A clear, sealed container that stores the extracted fluids. It features measurement markings and a secure lid to prevent spills and contamination. Tubing: Flexible tubing connects the suction pump to both the collection canister and the suction catheter. Suction Catheter: The part of the device inserted into the patient’s airway, nose, mouth, or other areas to remove fluids. Various catheter types are available depending on the specific application. Operation: Setup: Attach the tubing to the suction pump, collection canister, and suction catheter. Ensure the canister is empty and securely attached. Activation: Power on the device and adjust the suction strength based on patient needs. Insert the suction catheter into the desired area to begin fluid removal. Collection: Fluids are drawn through the catheter and tubing into the collection canister until the area is clear or the canister is full. Disposal: After use, dispose of the tubing and catheter, then empty and clean or replace the canister as per device guidelines. The Portable Phlegm Suction Apparatus ensures safe, effective, and convenient fluid management, making it a vital tool for both medical professionals and home caregivers. - Surgismart
-  Updated: 2025-08-13T07:37:27Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/suction-1.png?v=1751478086
-  Price: ₹5,950.00 INR
-- [Buy ​Uphealthy Coccyx Cushion - Surgismart](https://surgismart.in/products/uphealthy-coccyx-cushion): A coccyx cushion, also known as a tailbone cushion, is a specialised cushion designed to relieve pressure on the coccyx (tailbone) and provide comfort for people who experience pain or discomfort while sitting. This cushion is commonly used by individuals suffering from tailbone pain (coccydynia), lower back pain, or other conditions that make sitting for extended periods uncomfortable. - Surgismart
-  Updated: 2025-08-13T07:37:27Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7080.jpg?v=1751478083
-  Price: ₹1,148.00 INR
-- [Buy ​Uphealthy Gel Coccyx Cushion - Surgismart](https://surgismart.in/products/uphealthy-gel-coccyx-cushion): A Gel Coccyx Cushion is a type of seat cushion designed to provide comfort and support specifically for the coccyx (tailbone) area. It incorporates a layer of gel along with foam to enhance comfort, reduce pressure, and promote proper posture. This cushion is particularly beneficial for individuals experiencing tailbone pain (coccydynia), lower back pain, or discomfort from prolonged sitting. - Surgismart
-  Updated: 2025-08-13T07:37:26Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2080.jpg?v=1751478082
-  Price: ₹3,060.00 INR
-- [Buy ​Uphealthy Gel Seat Cushion - Surgismart](https://surgismart.in/products/uphealthy-gel-seat-cushion): A gel seat cushion is designed to provide comfort and support while sitting for extended periods. These cushions are typically made from a combination of foam and gel. They help distribute weight evenly, reduce pressure on the tailbone and lower back, and promote better posture. Gel seat cushions are often used in office chairs, wheelchairs, and car seats, and can be especially beneficial for people with back pain, sciatica, or other conditions that make sitting uncomfortable. - Surgismart
-  Updated: 2025-08-13T07:37:26Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2081.jpg?v=1751478080
-  Price: ₹3,485.00 INR
-- [Buy ​Uphealthy ABS Bedside Locker With Wheels - Surgismart](https://surgismart.in/products/uphealthy-abs-bedside-locker-with-wheels): A bedside locker with wheels is a piece of furniture commonly used in hospitals, nursing homes, and home care settings. It combines the functionality of a traditional bedside locker with the added convenience of mobility, making it easier to move the locker as needed. - Surgismart
-  Updated: 2025-08-13T07:37:25Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9510-ABS-Bedside-Locker-scaled.jpg?v=1751478076
-  Price: ₹5,950.00 INR
-- [Buy ​Uphealthy Saline/IV Stand - Surgismart](https://surgismart.in/products/uphealthy-saline-iv-stand): A saline stand is medical equipment used to support and hold saline bags or other intravenous (IV) fluids during patient care. It is commonly used in hospitals, clinics, and other healthcare settings where intravenous treatments are administered. - Surgismart
-  Updated: 2025-08-13T07:37:25Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9508.jpg?v=1751478074
-  Price: ₹2,125.00 INR
-- [Buy ​Uphealthy Over Bed Table - Surgismart](https://surgismart.in/products/uphealthy-over-bed-table): A patient food table, also commonly referred to as an overbed table or cardiac table, is a portable and adjustable table designed to provide a convenient surface for patients to eat, read, write, or engage in other activities while in bed. These tables are widely used in hospitals, nursing homes, and home care settings to enhance patient comfort and convenience. The table height can be adjusted to suit the patient’s needs. Fitted with wheels or casters, often with locking mechanisms. Made with surfaces that are smooth and non-porous. Designed to fit over the bed without taking up much space. Provides a stable and accessible surface for eating, drinking, and other activities while in bed. - Surgismart
-  Updated: 2025-08-13T07:37:25Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MOH_2644-scaled.jpg?v=1751478073
-  Price: ₹6,120.00 INR
-- [Buy ​Uphealthy Backrest - Surgismart](https://surgismart.in/products/uphealthy-backrest): A backrest for bed is a supportive device designed to provide adjustable back support while sitting up in bed. It is commonly used by individuals who spend significant time in bed due to medical conditions, for activities such as reading, watching TV, or eating. A bed backrest can enhance comfort and promote proper posture, reducing strain on the back and neck. Allows users to adjust the angle of the backrest to multiple positions. - Surgismart
-  Updated: 2025-08-13T07:37:24Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/F11.jpg?v=1751478072
-  Price: ₹1,275.00 INR
-- [Buy ​Uphealthy Metal Backrest - Surgismart](https://surgismart.in/products/uphealthy-metal-backrest): A backrest for bed is a supportive device designed to provide adjustable back support while sitting up in bed. It is commonly used by individuals who spend significant time in bed due to medical conditions, for activities such as reading, watching TV, or eating. A bed backrest can enhance comfort and promote proper posture, reducing strain on the back and neck. Allows users to adjust the angle of the backrest to multiple positions. - Surgismart
-  Updated: 2025-08-13T07:37:24Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/F15.jpg?v=1751478072
-  Price: ₹1,275.00 INR
-- [Buy ​Uphealthy Bubble Air Bed - Surgismart](https://surgismart.in/products/uphealthy-bubble-air-bed): A bubble airbed is a valuable tool in managing patient comfort and preventing pressure sores. Its design and features are tailored to provide effective pressure relief and support, making it an essential component of patient care for individuals who are bedridden or have limited mobility. Whether used in a clinical or home setting, a bubble airbed helps to enhance patient well-being and reduce the risk of pressure-related complications. The mattress is composed of interconnected air cells or bubbles that can be inflated. The air cells distribute body weight evenly and reduce pressure points, helping to prevent the formation of pressure sores and improve patient comfort. Many bubble air beds come with a control unit that allows for adjustments in air pressure. Bubble air beds feature alternating pressure technology, where air cells periodically inflate and deflate in a sequence. The mattress can be easily inflated using an electric pump. - Surgismart
-  Updated: 2025-08-13T07:37:19Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9720.jpg?v=1751478054
-  Price: ₹3,999.00 INR
-- [Buy ​Uphealthy Anti Decubitus Tubular Air Bed - Surgismart](https://surgismart.in/products/uphealthy-anti-decubitus-tubular-air-bed): A tubular airbed is a type of air mattress commonly used in medical settings to provide support and pressure relief for patients. It features a design made up of interconnected tubular air cells, which create a supportive and cushioned surface. This type of airbed is often utilized to prevent or manage pressure ulcers (bedsores) and enhance patient comfort, especially for those who are bedridden or have limited mobility. The mattress consists of a series of interconnected tubular air cells that provide support and cushioning. The tubular design helps to distribute body weight evenly and reduce pressure points, which is crucial for preventing pressure sores and enhancing comfort. Tubular air beds include a control unit that allows users to adjust the air pressure within the cells. It has an alternating pressure technology, where air cells inflate and deflate in a cyclical pattern. - Surgismart
-  Updated: 2025-08-13T07:37:19Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9701.jpg?v=1751478054
-  Price: ₹4,999.00 INR
-- [Buy ​Uphealthy Anti Decubitus Tubular Air Mattress with Commode - Surgismart](https://surgismart.in/products/uphealthy-anti-decubitus-tubular-air-mattress-with-commode): A tubular airbed with commode combines the features of a tubular air mattress with the functionality of a commode, providing a specialized solution for patients who require both pressure relief and toileting support. This type of equipment is designed to enhance comfort and convenience for individuals with limited mobility or those who are bedridden. The mattress consists of a series of interconnected tubular air cells that provide support and cushioning. The tubular design helps to distribute body weight evenly and reduce pressure points, which is crucial for preventing pressure sores and enhancing comfort. Tubular air beds include a control unit that allows users to adjust the air pressure within the cells. It has an alternating pressure technology, where air cells inflate and deflate in a cyclical pattern. The commode feature is integrated into the mattress design, usually with a removable or adjustable section to allow for toileting. - Surgismart
-  Updated: 2025-08-13T07:37:19Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9702.jpg?v=1751478053
-  Price: ₹5,999.00 INR
-- [Buy ​Uphealthy Fowler Bed Rexine Top Mattress - Surgismart](https://surgismart.in/products/uphealthy-fowler-bed-rexine-top-mattress): A rexine mattress for a Fowler bed is designed to provide comfort, support, and pressure relief while accommodating the bed’s adjustable angles. The cover of the bed is made up of rexin material. - Surgismart
-  Updated: 2025-09-15T05:30:27Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9705.jpg?v=1751478052
-  Price: ₹0.00 INR
-- [Buy ​Uphealthy Pedal Exerciser - Surgismart](https://surgismart.in/products/uphealthy-pedal-exerciser): A pedal exerciser is a compact, portable exercise device designed to provide a low-impact cardiovascular workout and improve lower body strength and endurance. It typically consists of a set of pedals attached to a base, allowing users to perform a cycling motion while seated. Many pedal exercisers have adjustable resistance settings. The device is generally small and lightweight. Pedals are often equipped with non-slip surfaces and adjustable straps. Designed to be used while seated in a chair. - Surgismart
-  Updated: 2025-08-13T07:37:18Z
-  Vendor: Uphealthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Pedal-Exerciser-1.jpg?v=1751478049
-  Price: ₹2,499.00 INR
 - [Buy ​iCare 105 Folding Wheel chair Swing Away Handrest Removable Leg Rest - Surgismart](https://surgismart.in/products/icare-folding-whelchair-swing-away-handrest-038-removable-leg-rest): The icare lightweight folding wheelchair has been cleverly designed to create the kind of minimalistic style that youd expect from a rigid wheelchair. Weight 17.00Kgs Seat Width 18 Load Capacity 100 Kgs - Surgismart
   Updated: 2025-09-07T20:19:06Z
   Vendor: iCare
@@ -3589,7 +2987,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-46.png?v=1751477977
   Price: ₹12,499.00 INR
 - [Buy ​iCare Folding Wheelchair IN Chrome Finish With Mag Wheel - Surgismart](https://surgismart.in/products/icare-folding-wheelchair-in-chrome-finish-with-mag-wheel): Folding Wheelchair (udaan Chrome) The Udaan Swift is versatile, modular, and available in an endless number of configurations. An industry favorite wheelchair manufacturing company in India for over 33 years. Weight 15.00Kgs Seat Width 14,16 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:36:59Z
+  Updated: 2025-09-18T12:49:44Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
@@ -3946,10 +3344,10 @@
   Updated: 2025-09-18T11:16:05Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
-  Updated: 2025-09-16T10:37:21Z
+  Updated: 2025-09-18T14:01:32Z
   Total Products: 51
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
-  Updated: 2025-09-16T10:36:41Z
+  Updated: 2025-09-18T14:01:29Z
   Total Products: 23
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
   Updated: 2025-08-01T11:05:28Z
@@ -3978,9 +3376,6 @@
 - [Buy ​Friends - Surgismart](https://surgismart.in/collections/friends): - Surgismart
   Updated: 2025-08-20T18:23:32Z
   Total Products: 5
-- [Buy ​Samson - Surgismart](https://surgismart.in/collections/samson): - Surgismart
-  Updated: 2025-08-20T18:23:25Z
-  Total Products: 0
 - [Buy ​Beurer - Surgismart](https://surgismart.in/collections/beurer): - Surgismart
   Updated: 2025-09-16T10:36:20Z
   Total Products: 7
@@ -3996,14 +3391,11 @@
 - [Buy ​Diagnostic Devices - Surgismart](https://surgismart.in/collections/diagnostic-devices): - Surgismart
   Updated: 2025-08-01T11:05:29Z
   Total Products: 0
-- [Buy ​Respiratory Care - Surgismart](https://surgismart.in/collections/respiratory-care): - Surgismart
-  Updated: 2025-08-20T18:23:18Z
-  Total Products: 0
 - [Buy ​Pain Relief & Orthopedic - Surgismart](https://surgismart.in/collections/pain-relief-orthopedic): - Surgismart
   Updated: 2025-09-09T11:15:57Z
   Total Products: 13
 - [Buy ​Mobility Aids - Surgismart](https://surgismart.in/collections/mobility-aids): - Surgismart
-  Updated: 2025-08-01T11:05:29Z
+  Updated: 2025-09-18T14:02:27Z
   Total Products: 40
 - [Buy ​Orthopedic - Surgismart](https://surgismart.in/collections/orthopedic): - Surgismart
   Updated: 2025-09-12T11:15:05Z
@@ -4015,16 +3407,16 @@
   Updated: 2025-08-01T11:05:29Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-09-04T07:26:56Z
+  Updated: 2025-09-18T14:01:32Z
   Total Products: 37
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
   Updated: 2025-08-01T11:05:29Z
   Total Products: 4
 - [Buy ​iCare - Surgismart](https://surgismart.in/collections/icare): - Surgismart
-  Updated: 2025-09-12T11:15:05Z
-  Total Products: 83
+  Updated: 2025-09-18T13:57:02Z
+  Total Products: 10
 - [Buy ​Wheel Chairs - Surgismart](https://surgismart.in/collections/wheel-chairs): - Surgismart
-  Updated: 2025-08-01T11:05:30Z
+  Updated: 2025-09-18T14:02:27Z
   Total Products: 46
 - [Buy ​Omron Nebulizer - Surgismart](https://surgismart.in/collections/omron-nebulizer): - Surgismart
   Updated: 2025-08-01T11:05:30Z
@@ -4078,25 +3470,25 @@
   Updated: 2025-09-04T07:27:20Z
   Total Products: 53
 - [Buy ​Hospital Furniture - Surgismart](https://surgismart.in/collections/hospital-furniture): - Surgismart
-  Updated: 2025-09-16T10:36:41Z
+  Updated: 2025-09-18T14:01:29Z
   Total Products: 12
 - [Buy ​Trolley - Surgismart](https://surgismart.in/collections/trolley): - Surgismart
-  Updated: 2025-08-01T11:05:31Z
+  Updated: 2025-09-18T14:01:28Z
   Total Products: 5
 - [Buy ​First Aid & Emergency Essentials - Surgismart](https://surgismart.in/collections/first-aid-emergency-essentials): - Surgismart
   Updated: 2025-08-01T11:05:31Z
   Total Products: 1
 - [Buy ​Hospital & Home Care Beds - Surgismart](https://surgismart.in/collections/hospital-home-care-beds): - Surgismart
-  Updated: 2025-08-01T11:05:31Z
+  Updated: 2025-09-18T14:01:32Z
   Total Products: 2
 - [Buy ​Walking Aids - Surgismart](https://surgismart.in/collections/walking-aids): - Surgismart
   Updated: 2025-08-01T11:05:31Z
   Total Products: 0
 - [Buy ​Uphealthy - Surgismart](https://surgismart.in/collections/uphealthy): - Surgismart
-  Updated: 2025-08-01T11:05:31Z
+  Updated: 2025-09-18T14:02:27Z
   Total Products: 120
 - [Buy ​Airbeds - Surgismart](https://surgismart.in/collections/airbeds): - Surgismart
-  Updated: 2025-08-01T11:05:31Z
+  Updated: 2025-09-18T14:01:32Z
   Total Products: 4
 - [Buy ​Thermometer - Surgismart](https://surgismart.in/collections/thermometer): - Surgismart
   Updated: 2025-09-16T10:36:15Z
@@ -4122,11 +3514,8 @@
 - [Buy ​Doctor's Corner - Surgismart](https://surgismart.in/collections/doctors-corner): - Surgismart
   Updated: 2025-08-23T11:16:56Z
   Total Products: 14
-- [Buy ​Hospital Care - Surgismart](https://surgismart.in/collections/hospital-care): - Surgismart
-  Updated: 2025-08-20T18:22:09Z
-  Total Products: 0
 - [Buy ​Cushion - Surgismart](https://surgismart.in/collections/cushion): - Surgismart
-  Updated: 2025-08-20T18:24:40Z
+  Updated: 2025-09-18T14:02:25Z
   Total Products: 26
 - [Massagers](https://surgismart.in/collections/massagers)
   Updated: 2025-08-01T11:05:32Z
@@ -4148,33 +3537,6 @@
   Total Products: 0
 - [Steamer](https://surgismart.in/collections/steamer)
   Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
-- [Trending Now](https://surgismart.in/collections/trending-now)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
-- [Best Sellers](https://surgismart.in/collections/best-sellers)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
-- [Kramson](https://surgismart.in/collections/kramson)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 2
-- [Palmtex](https://surgismart.in/collections/palmtex)
-  Updated: 2025-08-01T11:05:33Z
-  Total Products: 0
-- [Abbott](https://surgismart.in/collections/abbott)
-  Updated: 2025-08-01T11:05:33Z
-  Total Products: 0
-- [Naulakha](https://surgismart.in/collections/naulakha)
-  Updated: 2025-08-01T11:05:33Z
-  Total Products: 0
-- [Sceptre](https://surgismart.in/collections/sceptre)
-  Updated: 2025-08-01T11:05:33Z
-  Total Products: 0
-- [Medigrip](https://surgismart.in/collections/medigrip)
-  Updated: 2025-08-20T18:22:11Z
-  Total Products: 0
-- [Buy Surgical Products in Chennai – Fast Delivery | SurgiSmart](https://surgismart.in/collections/surgicals-in-chennai): Looking for surgical suppliers in Chennai? Shop hospital & OT products online at Surgismart with quick delivery & GST billing.
-  Updated: 2025-08-01T11:05:33Z
   Total Products: 0
 - [Adult Diapers](https://surgismart.in/collections/adult-diapers)
   Updated: 2025-08-20T18:23:31Z
