@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-17T20:00:41.724Z
+- Updated At: 2025-09-18T00:00:42.134Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-17T15:36:21Z
+  Updated: 2025-09-17T21:22:32Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21723,7 +21723,7 @@ From £119
     Availability: Available
     Price: £935.00 GBP
 - [Men's Diamond Cross Necklace | Solid 9ct White Gold | Handcrafted](https://www.lilyblanche.com/products/mens-diamond-white-gold-cross-necklace): Elevate his style with a handcrafted solid 9ct white gold & diamond cross necklace from Lily Blanche. Heirloom quality, UK hallmarked, & beautifully gift-boxed. Rated 4.9★ Free UK shipping!
-  Updated: 2025-08-07T13:41:06Z
+  Updated: 2025-09-17T20:32:26Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23390,7 +23390,7 @@ From £129
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/white_gold_initial_necklace_Q.webp?v=1755082435
     Price: £145.00 GBP
 - [Solid 9 Carat White Gold Belcher Chain | Handcrafted UK](https://www.lilyblanche.com/products/belcher-chain-solid-white-gold): Handcrafted solid 9 carat white gold belcher chain by UK master goldsmiths with 50 years experience. Modern, durable & sophisticated. Free UK delivery.
-  Updated: 2025-09-17T11:40:58Z
+  Updated: 2025-09-17T23:55:32Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
