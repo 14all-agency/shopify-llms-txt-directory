@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-18T12:00:28.934Z
+- Updated At: 2025-09-18T16:00:28.951Z
 
 ## Products
 
@@ -615,11 +615,11 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeSkyFloralCottonSuitSet_1.png?v=1755343153
   Price: ₹1,295.00 INR
 - [Plus Size Wine Floral Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/wine-floral-printed-cotton-suit-set): Make everyday special with our Wine Floral Printed Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XS XL to 10XL
-  Updated: 2025-09-10T09:49:29Z
+  Updated: 2025-09-18T12:01:38Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOnionFloralCottonSuitSet_1.png?v=1755343358
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_04f45d0f-35c6-4734-911f-61fe69e808bf.png?v=1758196898
   - [3XL / 3XL](https://theplussizeco.com/products/wine-floral-printed-cotton-suit-set?variant=44686201520181)
     Availability: Available
     Price: ₹1,295.00 INR
