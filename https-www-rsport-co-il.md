@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-18T00:00:53.583Z
+- Updated At: 2025-09-18T04:00:54.612Z
 
 ## Products
 
@@ -29612,7 +29612,7 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [מכנסיים קצרים באיירן מינכן בית 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-באיירן-מינכן-בית-25-26-גברים): מכנסיים קצרים בית של באיירן מינכן לעונת 25/26 לגברים, עשויים 100% פוליאסטר איכותי ונושם. מתאפיינים בגזרה נוחה שמאפשרת חופש תנועה מקסימלי, מושלמים לאימון, למשחק או לשימוש יומיומי עבור אוהדים שרוצים להרגיש חלק מהקבוצה.
-  Updated: 2025-09-07T22:06:27Z
+  Updated: 2025-09-18T01:07:47Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
