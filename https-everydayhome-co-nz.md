@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-19T00:00:34.270Z
+- Updated At: 2025-09-19T04:00:35.227Z
 
 ## Products
 
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Bin-White-Natural-3.png?v=1727659446
   Price: $47.99 NZD
 - [Brabantia SinkSide Silicone Dish Drying Mat - Dark Grey](https://everydayhome.co.nz/products/silicone-dish-drying-mat-44-x-32cm-dark-grey): Silicone Dish Drying Mat, 44 X 32Cm, Dark Grey
-  Updated: 2025-09-17T22:07:10Z
+  Updated: 2025-09-19T03:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1656,7 +1656,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-20cm-3-8L-Saucepan-Anolon-9.jpg?v=1731903470
   Price: $246.99 NZD
 - [Anolon Endurance+ 24cm Open French Skillet](https://everydayhome.co.nz/products/anolon-endurance-24cm-open-french-skillet): Perfect for an array of cooking tasks, from sautéing a couple of chicken breasts to making a batch of scrambled eggs, this medium sized skillet will be your go-to in the kitchen. Whether you're creating a gourmet meal for two or making a tasty weeknight dinner, you can rely on this skillet for consistent performance every time.
-  Updated: 2025-09-09T23:07:20Z
+  Updated: 2025-09-19T03:07:10Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1845,7 +1845,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $42.99 NZD
 - [Buddy Paper Towel Holder - Black](https://everydayhome.co.nz/products/buddy-paper-twl-hldr-kd-black): Along with its unique appearance, Buddy is also highly practical; the molded figure provides friction and leverage for one-handed tearing and protects the roll from unravelling. Taking up little space on your countertop, maintenance is hassle-free; cleaning only requires a quick wipe-down.
-  Updated: 2025-09-16T17:07:12Z
+  Updated: 2025-09-19T03:07:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -1887,7 +1887,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-32cm-Open-Stirfry-Ci-0.jpg?v=1731902053
   Price: $89.99 NZD
 - [Circulon Accessories Cleaning Brush W/Scraper Head](https://everydayhome.co.nz/products/circulon-accessories-cleaning-brush-w-scraper-head): This Circulon cleaning brush is a must-have item for every kitchen! With high quality stainless steel construction and special heat-resistant nylon bristles, this brush will thoroughly clean your pan and help prolong the life of your nonstick surfaces. The handle features an ergonomic curved design for a confident grip and a tapered edge scraping head for removing tough residue.
-  Updated: 2025-09-18T08:07:07Z
+  Updated: 2025-09-19T02:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2503,7 +2503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Orchid-Jewelry-Stand-Gun-Metal-UMBRA-5.png?v=1731903217
   Price: $59.99 NZD
 - [Penguin Soap Pump - Black](https://everydayhome.co.nz/products/penguin-soap-pump-black): This fun and colorful soap or lotion pump is perfect for kitchens and bathrooms. It has a 12-ounce (355 mL) capacity and features a thin vertical window so you can see what is left. This Penguin Pump named appropriately as each pump looks like a cute little penguin has "soft touch" finish and is easy for both kids and adults alike to use.
-  Updated: 2025-09-14T18:37:10Z
+  Updated: 2025-09-19T02:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2923,7 +2923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-15T21:52:11Z
+  Updated: 2025-09-19T03:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2979,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Topspinner60m_GroundSpike-MetallicGrey-8710755310867Brabantia_96dpi_1000x1000px_7_NR-28672.png?v=1734572963
   Price: $209.99 NZD
 - [Brabantia HangOn Drying Rack with Rod - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-with-rod-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! Thanks to the rocking rod, and 25 metres of flexible drying space, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. XXL drying in size and benefits!
-  Updated: 2025-09-17T17:07:10Z
+  Updated: 2025-09-19T00:24:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3434,7 +3434,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/StackableGlassJar_0.6L-Transparent-8710755298288Brabantia_96dpi_1000x1000px_7_NR-1814.png?v=1734562722
   Price: $22.99 NZD
 - [Brabantia Premium Clothes Peg Bag - Mixed Colours](https://everydayhome.co.nz/products/clothes-peg-bag-premium-assorted-colours): Keep your clothes pegs close – store up to 150 of them in Brabantia's Premium Clothes Peg Bag. Attach it to your rotary dryer, line, drying rack or your trouser belt, to keep your pegs handy. This durable and solid Peg Bag even has a closing cord to keep your clothes pegs together and clean. Premium quality!
-  Updated: 2025-09-10T08:30:11Z
+  Updated: 2025-09-19T00:24:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3497,7 +3497,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapSqueezer-DarkGrey-8710755228049Brabantia_96dpi_1000x1000px_7_NR-32171.png?v=1734560103
   Price: $22.99 NZD
 - [Brabantia SinkStyle Soap Squeezer - 200ml Fresh White](https://everydayhome.co.nz/products/sinkstyle-soap-squeezer-200ml-fresh-white): No need to hide your washing up liquid anymore. Just store 200 ml of your favourite dish soap in style with this Brabantia SinkStyle Soap Squeezer. A flexible non-slip and non-drip design, that releases dishwashing liquid when squeezing. Empty? Refill this squeezer easily with the removable screw top. Easy squeezy!
-  Updated: 2025-09-08T23:09:38Z
+  Updated: 2025-09-19T02:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3931,7 +3931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Screenshot_2025-03-03_143132_2a921908-9359-485f-8725-9ed3ac107a6c.png?v=1746478970
     Price: $845.99 NZD
 - [ECO Wooden Pegs 12pk](https://everydayhome.co.nz/products/eco-wooden-pegs-12pk): The best wooden pegs available, 12 per box
-  Updated: 2025-09-08T23:15:41Z
+  Updated: 2025-09-19T00:42:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4553,7 +4553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/RollTopBreadBin-White-8710755306020Brabantia_300dpi_2000x2000px_9_NR-21282.jpg?v=1756436710
   Price: $104.99 NZD
 - [Brabantia Profile Can Opener - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-can-opener-matt-steel): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-14T21:07:10Z
+  Updated: 2025-09-19T01:52:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
