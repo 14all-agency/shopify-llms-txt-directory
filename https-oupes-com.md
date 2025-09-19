@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-18T20:00:30.750Z
+- Updated At: 2025-09-19T04:00:30.687Z
 
 ## Products
 
 - [100W Portable Solar Panel - OUPES](https://oupes.com/products/oupes-100-portable-solar-panel): Charge your devices anywhere with the OUPES 100W Portable Solar Panel. Lightweight, efficient, and foldable—this 100W Portable Solar Panel is perfect for camping, RVs, and off-grid adventures.
-  Updated: 2025-09-18T07:14:24Z
+  Updated: 2025-09-18T20:15:32Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1741944152
   Price: $1,400.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-09-18T19:36:10Z
+  Updated: 2025-09-19T01:25:41Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $2,339.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-09-18T15:11:06Z
+  Updated: 2025-09-19T02:05:08Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -574,7 +574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-1200-portable-power-station-1200w-992wh-169250.jpg?v=1755139004
     Price: $799.00 USD
 - [Best Portable Power Station 1500W 1488Wh | OUPES Exodus 1500](https://oupes.com/products/oupes-exodus-1500-portable-power-station-1500w-1488wh): Best 1500W portable power station with OUPES. 0-80% in 2 hrs with AC charging. Solar-ready for camping/home/outages. Premium after-sales service included.
-  Updated: 2025-09-18T07:14:28Z
+  Updated: 2025-09-19T01:13:22Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -916,7 +916,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-370963_fb8fc09e-ee48-4d5c-82f0-23837ec45343.jpg?v=1756102316
   Price: $0.00 USD
 - [(Member Exclusive) OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/member-exclusive-oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-09-18T15:11:18Z
+  Updated: 2025-09-19T02:09:27Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -1034,7 +1034,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/hand-truck-sturdy-roll-cart-387570_91b94205-c93e-405b-876e-3f83b67f79d4.jpg?v=1757055306
   Price: $0.00 USD
 - [🎁 OUPES Emergency Bag (100% off)](https://oupes.com/products/oupes-emergency-bag-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
-  Updated: 2025-09-18T07:26:50Z
+  Updated: 2025-09-18T20:46:48Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -1893,6 +1893,10 @@
     Updated: 2025-09-17T02:43:48Z
     Author: STOREOUPES
     Tags: solar energy, solar panel, solar panels, solar power
+  - [Can A Portable Power Station Charge An E-Bike?](https://oupes.com/blogs/blogs/oupes-can-a-portable-power-station-charge-an-e-bike)
+    Updated: 2025-09-19T01:34:28Z
+    Author: STOREOUPES
+    Tags: outdoor power station, portable power staion, Portable Power Station, power station portable, small portable power station
 - [Learning Center](https://oupes.com/blogs/learning-center)
   - [2. What are Volts, Amps, and Watts?](https://oupes.com/blogs/learning-center/what-is-volts-amps-and-watts): An explanation of volts, amps, and watts, and how to calculate electricity with them.
     Updated: 2025-03-03T06:51:08Z
