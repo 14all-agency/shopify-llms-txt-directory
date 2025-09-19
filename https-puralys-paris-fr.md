@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-22T12:46:37Z
 - Contact Email: contact@puralys-paris.fr
-- Updated At: 2025-09-19T04:00:27.705Z
+- Updated At: 2025-09-19T08:00:28.180Z
 
 ## Products
 
 - [Gommage sensoriel visage & corps – AHA & Volcan islandais](https://puralys-paris.fr/products/gommage-corps-aha-sable-volcanique-peaux-sensibles): Le meilleur Gommage certifié visage & corps naturel au sable volcanique. Exfolie, purifie et adoucit sans agresser. Vegan, Bio & 100 % sans micro plastique.
-  Updated: 2025-09-18T18:03:38Z
+  Updated: 2025-09-19T06:01:40Z
   Vendor: PURÄLYS
   Product Type: Gommage visage et corps - AHA / Volcan islandais
   Availability: Available
