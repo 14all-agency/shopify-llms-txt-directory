@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-19T16:01:03.479Z
+- Updated At: 2025-09-19T20:01:02.570Z
 
 ## Products
 
@@ -602,7 +602,7 @@ de 1,5 toneladas.
 - [Bolo de Chocolate](https://brincatoys.pt/products/bolo-de-chocolate): Bom apetite!! Podes cortar o bolo em 6 fatias com a ajuda da espátula e é
  só servir. Inclui base para o bolo que tem que ser recortada do fundo 
 da caixa
-  Updated: 2025-08-21T00:18:20Z
+  Updated: 2025-09-19T16:12:45Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -1553,7 +1553,7 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-lee-race-550364522-0194735036455-cars-1178693080.jpg?v=1752832562
   Price: 11,99 € EUR
 - [Jogo de Cartas Five Alive - Diversão Familiar Estratégica](https://brincatoys.pt/products/cartas-five-alive): Descubra Five Alive, o jogo de cartas perfeito para diversão familiar com um toque estratégico ideal. Ideal para momentos de lazer repletos de desafios.
-  Updated: 2025-09-01T16:52:16Z
+  Updated: 2025-09-19T17:55:17Z
   Vendor: Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -5567,7 +5567,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mogli-621238023-brincatoys-1178694382.webp?v=1752814085
   Price: 7,50 € EUR
 - [Monopoly Guerra dos Tronos](https://brincatoys.pt/products/monopoly-guerra-dos-tronos): A corrida pelo controlo de Westeros acontece no Jogo de Tabuleiro Monopólio Guerra dos Tronos. As mecânicas que durante décadas proporcionaram momentos de diversão emfamília mantêm-se as mesmas, incluindo a compra e venda de recursos, negociação entre jogadores, cartas de ação aleatórias, lançamento de dados, movimentação de peças e gestão de dinhe
-  Updated: 2025-09-06T09:08:00Z
+  Updated: 2025-09-19T18:40:20Z
   Vendor: Monopoly
   Product Type: + 14 anos
   Availability: Available
@@ -9315,7 +9315,7 @@ outras espécies de ursos comem uma mistura de plantas, frutas e carne.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneco-de-pvc-urso-pardo-realista-e-detalhado-438132923-brincatoys-1178695603.jpg?v=1752877332
   Price: 8,50 € EUR
 - [boneco de PVC Urso Pardo com salmão - Realista e detalhado](https://brincatoys.pt/products/boneco-de-pvc-urso-pardo-com-salmao): Este boneco de PVC Urso Pardo com Salmão, feito de material resistente e durável, é um presente ideal para os que apreciam a natureza e os animais.
-  Updated: 2025-08-21T00:09:09Z
+  Updated: 2025-09-19T18:42:01Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -10824,7 +10824,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-harry-potter-torneio-dos-tres-feiticeiros-o-lago-negro-667642023-5702017413235-lego-1178696144.jpg?v=1752887660
   Price: 49,99 € EUR
 - [Lego City - Barco de Resgate dos Bombeiros 60373](https://brincatoys.pt/products/lego-city-barco-de-resgate-dos-bombeiros-60373): SPLASH! Uma lancha rápida incendiou-se e o piloto saltou borda fora! Entre em ação com o poderoso Barco de Resgate dos Bombeiros. Avance pelas ondas e ajude o piloto a ficar em segurança. Depois, envie o bombeiro de jetpack e use o extintor do barco para derrotar as chamas. Quando é a próxima emergência? Na LEGO® City, a decisão é sua! Dimensão:  2
-  Updated: 2025-09-16T10:28:15Z
+  Updated: 2025-09-19T16:35:36Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -11041,7 +11041,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-ninjago-71780-carro-de-corrida-ninja-evo-do-kai-667178024-5702017399676-lego-1178696242.jpg?v=1752889699
   Price: 12,50 € EUR
 - [Lego Marvel Carro do Spider-Man e Doc Ock 10789](https://brincatoys.pt/products/lego-marvel-carro-do-spider-man-e-doc-ock-10789): A Doc Ock roubou alguns diamantes. O Spidey salta para o seu carro super fixe do Spider-Man e corre atrás dela. O carro tem uma teia brilhante em ambos os lados, por isso o Spidey pode até conduzir no escuro. Ele lança uma grande teia para um poste de luz. Será que Doc Ock vai ser apanhada na armadilha de Spidey ou vai usar os seus tentáculos mecân
-  Updated: 2025-09-16T10:29:45Z
+  Updated: 2025-09-19T17:58:56Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -15031,36 +15031,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
-- [Cartão-presente](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
-  Updated: 2025-09-19T15:59:41Z
-  Vendor: Brincatoys
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartao-presente-brincatoys-1190870189.svg?v=1756907520
-  - [€20](https://brincatoys.pt/products/cartao-presente?variant=45469558604040)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [€30](https://brincatoys.pt/products/cartao-presente?variant=45469558636808)
-    Availability: Available
-    Price: 30,00 € EUR
-  - [€40](https://brincatoys.pt/products/cartao-presente?variant=45469558669576)
-    Availability: Available
-    Price: 40,00 € EUR
-  - [€50](https://brincatoys.pt/products/cartao-presente?variant=45469558702344)
-    Availability: Available
-    Price: 50,00 € EUR
-  - [€60](https://brincatoys.pt/products/cartao-presente?variant=45469558735112)
-    Availability: Available
-    Price: 60,00 € EUR
-  - [€80](https://brincatoys.pt/products/cartao-presente?variant=45469558767880)
-    Availability: Available
-    Price: 80,00 € EUR
-  - [€100](https://brincatoys.pt/products/cartao-presente?variant=45469558800648)
-    Availability: Available
-    Price: 100,00 € EUR
-  - [€150](https://brincatoys.pt/products/cartao-presente?variant=45469558833416)
-    Availability: Available
-    Price: 150,00 € EUR
 - [Bluey Passar a Encomenda](https://brincatoys.pt/products/bluey-passar-a-encomenda): Apresentamos o emocionante conjunto de brinquedos Bluey Passar a Encomenda, o presente ideal para fascinar e estimular a imaginação das crianças em idade pré-escolar! Quem será o sortudo que abrirá o pacote e ganhará o prêmio do jato d'água quando a música parar? Bluey e Bingo usam os seus chapéus de festa neste pacote divertido, além de 2 acessórios de jogo engraçados. Este conjunto é inspirado na popular série de animação australiana ‘Bluey’ e promete horas de jogo interativo e educativo para os mais pequenos. Incluído neste conjunto estão quatro figuras adoráveis representando as personagens favoritas do programa: Bluey, Bingo, o pai do Lucky e Lila, acompanhadas por acessórios temáticos que enriquecem a brincadeira. Ademais, as figuras são desenhadas com detalhes autênticos e vibrantes que capturam a essência de cada personagem. Elas possuem um tamanho adequado para mãos pequenas, facilitando o manuseio e o jogo seguro. Além disso, a durabilidade destes brinquedos é garantida pela sua construção em materiais de alta qualidade, não tóxicos e seguros para as crianças. Cada figura vem com articulações móveis, permitindo que as crianças posicionem e movimentem as personagens durante as suas aventuras imaginárias. Os acessórios incluídos não só complementam as figuras mas também incentivam o jogo de faz de conta, permitindo que as crianças recriem cenas da série ou inventem as suas próprias histórias. Além do mais, este conjunto não é apenas uma fonte de entretenimento, mas também contribui para o desenvolvimento de habilidades sociais e criativas, promovendo a interação entre pares e o jogo cooperativo. Em suma, é um produto imprescindível para fãs de Bluey, adequado para crianças a partir dos 3 anos de idade. É também um excelente presente de aniversário ou para qualquer ocasião especial. Em suma... Conjunto de brinquedos inspirado na série ‘Bluey’; Inclui 4 figuras de personagens e acessórios temáticos; Promove criatividade e habilidades sociais; Feito com materiais seguros e duráveis; Ideal para crianças a partir dos 3 anos. Dimensão: 23 x 16 x 6 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-08-21T00:02:02Z
   Vendor: Bluey
@@ -15209,9 +15179,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-bluey-fantasias-divertidas-90437424-5010993981359-bluey-1178698665.jpg?v=1752796098
   Price: 19,99 € EUR
 - [NERF Elite 2.0 Set de 50 Dardos](https://brincatoys.pt/products/nerf-elite-2-0-set-de-50-dardos): Apresentamos o NERF Elite 2.0 Set de 50 Dardos, um complemento essencial para qualquer aficionado da emblemática marca de brinquedos de ação. Com este conjunto de 50 dardos oficiais Nerf Elite 2.0 terás todo o poder de que precisas em mãos. Muitas vezes, quando estás em batalha Nerf, alguns dardos desaparecem. Em vez de parar o jogo e procurares os dardos, mantem as recargas à mão para gastar menos tempo à procura dos dardos e mais tempo a jogar. Assim, este conjunto NERF Elite 2.0 Set de 50 Dardos oferece aos jogadores uma quantidade abundante de munições para prolongar as suas intensas batalhas. Além disso, assegura que estejas sempre preparado para qualquer desafio que surja durante o jogo. Ademais, cada dardo foi desenhado com a precisão e durabilidade características da NERF. Possuem uma ponta oca e flexível que se destaca pela sua segurança, minimizando o risco de ferimentos durante o jogo animado. Além disso, a aerodinâmica dos dardos foi otimizada para proporcionar uma trajetória mais reta e um alcance prolongado, garantindo assim que atingirás o teu alvo com maior precisão. Os dardos estão aptos a serem usados com qualquer lançador NERF Elite 2.0, bem como com os modelos anteriores da linha NERF Elite, o que significa que não precisarás de preocupar-te com a compra de equipamentos adicionais. Esta versatilidade permite-te manter um arsenal diversificado para enfrentares qualquer tipo de batalha. O design em azul e laranja não só é esteticamente agradável, mas também facilita a localização dos dardos após serem lançados. Este aspeto é particularmente útil em ambientes exteriores, onde os dardos podem facilmente se misturar com a paisagem. Finalmente, o conjunto é apresentado numa embalagem prática, que não só resguarda os dardos antes de serem usados, mas também serve como uma excelente opção de presente para qualquer entusiasta da gama NERF. Deste modo, com este conjunto de 50 dardos, podes recarregar os lançadores Nerf Elite 2.0 e continuar a batalha Nerf. Em suma... Conjunto de 50 dardos de alta precisão e durabilidade. Compatíveis com todos os lançadores NERF Elite 2.0 e modelos Elite anteriores. Design colorido para fácil recuperação e embalagem ideal para presente. Dimensão: 15,50 x 22,50 x 4,50 cm. Idade Recomendada: + de 8 anos.
-  Updated: 2025-09-16T17:33:38Z
+  Updated: 2025-09-19T18:54:41Z
   Vendor: Nerf
-  Product Type: + 8 anos
+  Product Type: Nerf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/nerf-elite-2-0-set-de-50-dardos-90948424-5010993747580-nerf-1178698673.jpg?v=1752796323
   Price: 12,50 € EUR
@@ -19108,7 +19078,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76314-capitao-america-guerra-civil-jogue-667631425-5702017817873-lego-1178701805.jpg?v=1752977294
   Price: 99,99 € EUR
 - [Lego City 60448 Carro Desportivo Vermelho: Acelera!](https://brincatoys.pt/products/lego-city-carro-desportivo-vermelho): Acelera a diversão com o Lego City 60448 Carro Desportivo Vermelho! Este set cativante de 109 peças vai encantar os pequenos fãs desde os 5 anos.
-  Updated: 2025-09-16T10:30:21Z
+  Updated: 2025-09-19T17:58:56Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -20266,7 +20236,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
 ## Collections
 
 - [Ar livre](https://brincatoys.pt/collections/ar-livre)
-  Updated: 2025-09-16T10:31:29Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 68
 - [Caixas de música](https://brincatoys.pt/collections/caixas-de-musica)
   Updated: 2025-09-07T15:43:22Z
@@ -20422,8 +20392,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T10:28:00Z
   Total Products: 690
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-09-16T22:25:28Z
-  Total Products: 320
+  Updated: 2025-09-19T18:55:06Z
+  Total Products: 319
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
   Total Products: 18
@@ -20434,25 +20404,25 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T12:14:44Z
   Total Products: 129
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-19T12:37:04Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 1303
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-19T15:59:40Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 2392
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-19T15:59:40Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 2840
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-19T15:59:40Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3220
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-19T15:59:40Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3345
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-19T15:59:40Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3423
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-19T15:59:40Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3468
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-09-18T12:41:31Z
@@ -20590,7 +20560,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:28:55Z
   Total Products: 7
 - [Nerf](https://brincatoys.pt/collections/nerf)
-  Updated: 2025-09-16T10:31:29Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 13
 - [Overwatch](https://brincatoys.pt/collections/overwatch)
   Updated: 2025-09-13T14:45:06Z
@@ -20644,7 +20614,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-19T14:44:31Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3496
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-19T12:37:33Z
@@ -20671,8 +20641,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:27:41Z
   Total Products: 73
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-09-16T18:09:22Z
-  Total Products: 212
+  Updated: 2025-09-19T18:55:06Z
+  Total Products: 211
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-08-31T21:39:49Z
   Total Products: 92
@@ -20680,10 +20650,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-08T22:29:57Z
   Total Products: 65
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-19T14:44:31Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3498
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-19T14:44:31Z
+  Updated: 2025-09-19T18:54:37Z
   Total Products: 3498
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-16T10:31:54Z
@@ -20695,8 +20665,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-19T13:15:46Z
-  Total Products: 3005
+  Updated: 2025-09-19T18:54:37Z
+  Total Products: 3004
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20704,8 +20674,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-17T21:52:37Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-19T13:15:46Z
-  Total Products: 3005
+  Updated: 2025-09-19T18:54:37Z
+  Total Products: 3004
 
 ## Blogs
 
