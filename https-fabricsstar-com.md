@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-19T12:00:33.918Z
+- Updated At: 2025-09-19T20:00:32.814Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-09-17T14:19:46Z
+  Updated: 2025-09-19T16:44:06Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-LODEN-GREEN.jpg?v=1757517170
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric-2): Discover luxurious Soft Velvet Fabric at Fabrics Star. Perfect for a variety of sewing projects, this fabric offers both elegance and comfort.
-  Updated: 2025-09-16T00:42:43Z
+  Updated: 2025-09-19T18:04:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -683,7 +683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SWEDAN-BRASS-325.jpg?v=1757517188
     Price: $1.00 USD
 - [Abstract Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/abstract-crushed-velvet-fabric-cut-by-the-yard): Discover luxurious Allendale Abstract Crushed Velvet Fabric by the Yard at Fabrics Star. Perfect for upholstery, drapery, and more. Shop now!
-  Updated: 2025-09-16T00:42:44Z
+  Updated: 2025-09-19T16:30:47Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-09-16T21:52:26Z
+  Updated: 2025-09-19T16:30:47Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2019,7 +2019,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [Newport Beach Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport): Discover the Newport Fabric Collection at Fabrics Star, offering a range of premium textiles for your sewing projects. Find the perfect fabric to elevate your creations.
-  Updated: 2025-09-16T00:42:47Z
+  Updated: 2025-09-19T16:30:48Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2189,7 +2189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRISTOL-BLUSH.jpg?v=1757517453
     Price: $1.00 USD
 - [Rowley Sequin Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/rowley-sequin-embroidered-mesh-fabric): Rowley Sequin Embroidered Mesh Fabric is 100% polyester & lightweight, it features a slight stretch on the grain. Add a touch of glitz to your wardrobe!
-  Updated: 2025-09-16T00:42:48Z
+  Updated: 2025-09-19T14:45:58Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -6153,17 +6153,17 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BUBBLES-LINEN-1.jpg?v=1757518344
     Price: $1.00 USD
 - [COBBLESTONE Fabric, 117 Inch. in Width](https://fabricsstar.com/products/cobblestone)
-  Updated: 2025-09-17T01:00:22Z
+  Updated: 2025-09-19T13:55:46Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-COBBLESTONE.jpg?v=1757518346
   - [Beige / Cut by the Yard](https://fabricsstar.com/products/cobblestone?variant=50919190954265)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COBBLESTONE-BEIGE-4.jpg?v=1757518351
     Price: $37.40 USD
   - [Beige / Sample 3x3 Inch](https://fabricsstar.com/products/cobblestone?variant=50898061918489)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COBBLESTONE-BEIGE-4.jpg?v=1757518351
     Price: $1.00 USD
   - [Silver / Cut by the Yard](https://fabricsstar.com/products/cobblestone?variant=50919190987033)
