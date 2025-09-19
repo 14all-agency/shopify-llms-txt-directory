@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-09-19T00:00:28.245Z
+- Updated At: 2025-09-19T04:00:28.510Z
 
 ## Products
 
@@ -55,7 +55,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Owala_SmoothSip_Watermelon_Breeze-20oz_a7c89969-143e-4cb2-8de5-9808f6dfc2f4.webp?v=1754435797
     Price: $49.99 NZD
 - [SmoothSip Slider](https://www.owalalife.co.nz/products/smoothsip-slider): I’ll never spill the (coffee) beans. You could say I’m pretty tight lipped - all thanks to my leakproof slider lid. But besides keeping your caffeine safe, I also keep drinks hot or cold and my ohhhh-so-smooth spout delivers the best sipping experience you’ll ever have. Cup holder friendly? That's a given. So, meet me for coffee?
-  Updated: 2025-09-16T16:58:52Z
+  Updated: 2025-09-19T01:31:05Z
   Vendor: Owalalife
   Product Type: 
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1749429110
     Price: $54.99 NZD
 - [FreeSip](https://www.owalalife.co.nz/products/freesip-may-release): When it comes to hydration, you deserve options. That’s why we designed the FreeSip to let you choose your own adventure—hold upright to sip through the built-in straw or tilt back to swig through the wide-mouth opening. If that isn’t exciting enough, this bottle is ready to spring into action at any time. Just push the button to flip the top open and push back down to lock it shut (and keep out germs). But we should warn you: If you’re one of those people who likes bottles that spill water everywhere, you’re out of luck… the FreeSip is completely leak proof.
-  Updated: 2025-09-18T23:55:36Z
+  Updated: 2025-09-19T03:46:07Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
