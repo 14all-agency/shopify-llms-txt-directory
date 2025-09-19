@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-19T00:00:47.534Z
+- Updated At: 2025-09-19T04:00:45.600Z
 
 ## Products
 
@@ -954,7 +954,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/60Rainbow.jpg?v=1697100552
   Price: $124.99 NZD
 - [CONNETIX Rainbow Mega Pack 212pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-maga-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The mega pack comes with enough tiles to build a city, with vehicles to explore it. It includes 212 magnetic building tiles including hexagonal pieces. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-18T03:51:15Z
+  Updated: 2025-09-19T00:03:41Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -1777,7 +1777,7 @@
     Availability: Not Available
     Price: $22.00 NZD
 - [CONNETIX Rainbow Replacement Ball Pack](https://www.littlebambinos.co.nz/products/connetix-rainbow-replacement-ball-pack): We know how much time we spend trying to find missing socks, so letâ€™s not worry about locating those runaway balls. The Rainbow Replacement Ball Pack features 12 wooden balls (x2 of each of our classic rainbow colours) â€“ perfect for supplementing or expanding your Rainbow Ball Run fun!
-  Updated: 2025-09-17T19:36:35Z
+  Updated: 2025-09-19T01:52:06Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2332,7 +2332,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ChangematRomangreen.jpg?v=1679356123
   Price: $65.00 NZD
 - [CONNETIX Rainbow Ball Run Expansion Pack 66pc](https://www.littlebambinos.co.nz/products/connetix-66-piece-rainbow-ball-run-expansion): When it comes to magnetic tile play, its all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-09-16T18:14:42Z
+  Updated: 2025-09-19T00:03:38Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2463,7 +2463,7 @@
     Availability: Not Available
     Price: $55.00 NZD
 - [KONGES SLOJD All You Need Bag - Black](https://www.littlebambinos.co.nz/products/pre-order-konges-slojd-all-you-need-bag-black): The new and improved all you need bag from Konges Slojd is waterproof and windproof.Designed to look like no ordinary change bag, it is for the parents who want to use their changing bag for more than diapers, bottles and pacifiers.The all you need bag has two outside pockets, one of them can be used for wet wipes. Inside the bag you will find a removable changing pad to use when your child needs a fresh diaper. There is one large pocket with a zipper, two regular pockets and one holder perfect for a bottle.
-  Updated: 2025-08-10T19:24:03Z
+  Updated: 2025-09-19T02:44:20Z
   Vendor: Konges slojd
   Product Type: Nappy Bag
   Availability: Available
@@ -4292,7 +4292,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $22.00 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Cream](https://www.littlebambinos.co.nz/products/frigg-pacifier-daisy-natural-rubber-cream-duo): With scalloped edges that mimic flower petals, the Frigg Daisy pacifier takes the thoughtful design of their Classic pacifier and adds in a whimsical, charming design. Designed and manufactured in Denmark.
-  Updated: 2025-09-15T23:24:35Z
+  Updated: 2025-09-19T02:14:27Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -7097,7 +7097,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-18T03:51:15Z
+  Updated: 2025-09-19T00:03:38Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7139,7 +7139,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/80pceExpansion3D_1c17a925-a7bc-4020-8d81-18fa0ba0e27b.jpg?v=1702936631
   Price: $142.99 NZD
 - [CONNETIX Pastel Shape Expansion Pack 48 pc](https://www.littlebambinos.co.nz/products/connetix-pastel-shape-expansion-pack-48-pc): Expand play and learning possibilities with our 48 Piece Pastel Shape Expansion Pack. Featuring a range of exclusive magnetic tile shapes, including large triangles, right-angle triangles, quarter circles, pentagons, trapezoids and rhombi, this pack enhances design and play possibilities with Connetix.
-  Updated: 2025-09-13T18:57:47Z
+  Updated: 2025-09-19T00:38:22Z
   Vendor: Connetix
   Product Type: 
   Availability: Available
@@ -15562,7 +15562,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-18T21:22:45Z
+  Updated: 2025-09-19T02:22:43Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15706,7 +15706,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-18T23:43:12Z
+  Updated: 2025-09-19T03:43:12Z
   Total Products: 395
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16558,7 +16558,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-18T23:43:12Z
+  Updated: 2025-09-19T03:43:12Z
   Total Products: 1259
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-18T21:29:51Z
