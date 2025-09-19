@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-19T00:00:42.074Z
+- Updated At: 2025-09-19T04:00:41.620Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16970,7 +16970,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-18T23:01:03Z
+  Updated: 2025-09-19T02:45:46Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
