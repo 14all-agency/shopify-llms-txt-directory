@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-18T20:00:53.299Z
+- Updated At: 2025-09-19T00:00:54.652Z
 
 ## Products
 
@@ -43974,7 +43974,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [מכנסי כדורגל קצרים טוטנהאם חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-טוטנהאם-חוץ-25-26-גוניורס): מכנסי כדורגל קצרים של טוטנהאם חוץ 25/26 לילדים בצבע שחור בהשראת התלבושת החיצונית של הקבוצה עשויים 100% פוליאסטר קל ונושם המנדף זיעה ומספק נוחות מרבית במהלך אימון או משחק פריט אידיאלי לילדים שרוצים להרגיש חלק מהקבוצה ולהראות גאווה בהוטספר
-  Updated: 2025-09-18T18:31:13Z
+  Updated: 2025-09-18T23:51:01Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
