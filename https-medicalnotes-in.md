@@ -1,0 +1,117 @@
+# Medical Notes (https://medicalnotes.in)
+
+- Domain: https://medicalnotes.in
+- Locale: en
+- Currency: INR
+- Timezone: Asia/Kolkata
+- Created At: 2024-11-18T06:39:38Z
+- Contact Email: themedicalnotes@yahoo.com
+- Updated At: 2025-09-19T03:07:12.514Z
+
+## Products
+
+- [Complete Medical Notes Bundle](https://medicalnotes.in/products/all-21-medical-notes-bundle-first-1000-95-discount-applied): What’s Inside the Complete Medical Notes Bundle? 🔥 Get ALL 19+3 Subjects (System-Wise) at 95% OFF (Limited-Time Sale)📥 Delivered instantly to your inbox in PDF format This all-in-one bundle offers meticulously crafted, ready-to-study resources: Comprehensive Anatomy, Physiology, and Pathology across ALL bodily systems. Step-by-step Clinical Examinations and Investigations. Specialized topics like Cellular Biology, Genetics, Mental Health, and more. High Yield Highly Concentrated System-Wise Approach (Popularized By Harvard Medicos) 📚 Topics Covered: ✔️ Cardiovascular System: Master heart anatomy, blood flow, and conditions like MI. ✔️ Respiratory System: Understand gas exchange, lung mechanics, and respiratory pathologies. ✔️ Nervous System: Decode neural pathways, reflexes, and neurological conditions. ✔️ Musculoskeletal System: Explore bones, joints, and conditions like arthritis. ✔️ Gastrointestinal System: Dive into digestion, nutrient absorption, and GI disorders. ✔️ Renal System: Master kidney function, nephrology, and fluid balance. ✔️ Endocrine System: Learn about hormones, feedback mechanisms, and endocrine diseases. ✔️ Genetics & Cancer: Decode inheritance patterns and the basics of oncology. ✔️ Clinical Skills & Examinations: Sharpen your OSCE prep and bedside skills. ✔️ Pharmacology & Toxicology: Explore drug mechanisms and emergency toxicology. ✔️ Emergency Medicine: Equip yourself for acute care and trauma cases. ✔️ Clinical Hematology: Understand blood disorders and their management. ✔️ Immunology & Rheumatology: Learn immune functions and rheumatic diseases. ✔️ Obstetrics & Gynecology: Cover reproductive health, pregnancy, and delivery. ✔️ Mental Health & Psychiatry: Address psychiatric conditions and mental health essentials. ✔️ Dermatology: Study skin anatomy, diseases, and treatments. ✔️ Public Health & Microbiology: Gain insights into community health and microbial sciences. ...and so much more! Why This Bundle is a Game-Changer for Medical Students and Practitioners: 📚 Comprehensive: Over 3,900 pages covering all 21 core medical subjects. 🌐 Real-World Relevance: Integrate anatomy, physiology, pathology, and clinical insights effortlessly. ⏱️ Efficient Learning: Save time with streamlined, high-yield content tailored for exams and clinical practice. 💡 Globally Trusted: Built on principles from top institutions like Harvard, Cambridge, and AIIMS. Why Choose the Complete 21 Subjects Medical Notes (India)? 🩺 All-in-One Resource: No more juggling multiple notes or resources. 🎯 Exam-Ready: Perfectly tailored for NEET PG, USMLE, and other exams. 💡 Clinically Relevant: Gain practical knowledge for real-world medical scenarios. 📥 Instant Access: Get the bundle immediately in PDF format. Take Control of Your Medical Education Today!
+  Updated: 2025-08-01T01:40:12Z
+  Vendor: Medical Notes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0916/2388/3028/files/Swipe-ezgif.com-png-to-webp-converter.webp?v=1734128214
+  Price: ₹499.00 INR
+- [1400 Premium Medical Books Bundle](https://medicalnotes.in/products/1453-premium-medical-books-bundle): body { font-family: "Figtree", sans-serif; color: #333; margin: 0; padding: 0; background-color: #f9f9f9; } .container { width: 100%; max-width: 100%; margin: 0; padding: 20px 10px; background: linear-gradient(135deg, #ffffff, #f8f8f8); border-radius: 0; box-shadow: none; text-align: center; } .header-title { font-size: 1.6em; font-weight: bold; color: #007bff; margin-bottom: 6px; } @media (min-width: 768px) { .header-title { font-size: 2em; } } .sub-title { font-size: 1.2em; color: #ff4081; font-weight: bold; margin-bottom: 20px; } .info { font-size: 1.1em; line-height: 1.7; color: #444; margin-bottom: 30px; } .highlight { color: #ff5722; font-weight: bold; } .cta-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px; } .cta-buttons a { display: inline-block; background: linear-gradient(135deg, #f441a5, #ffb700); color: white; text-decoration: none; padding: 12px 22px; font-size: 1.1em; font-weight: bold; border-radius: 50px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); box-shadow: 0 6px 18px rgba(244, 65, 165, 0.4); transition: all 0.3s ease-in-out; } .cta-buttons a:hover { background: linear-gradient(135deg, #ffb700, #f441a5); box-shadow: 0 8px 22px rgba(244, 65, 165, 0.5); transform: translateY(-3px) scale(1.05); } .cta-buttons a.amazon { background: linear-gradient(135deg, #ffd54f, #ff6f00); color: black; } .cta-buttons a.amazon:hover { background: linear-gradient(135deg, #ff6f00, #ffd54f); } .index-section { font-size: 1.05em; font-weight: bold; color: #555; margin-bottom: 30px; } .footer { font-size: 1em; color: #666; font-weight: bold; margin-top: 30px; } 🎉 Get a FREE Book worth ₹3000 before you buy the full product 🎉 A Gift of Trust & Quality Experience the premium quality of our medical resources with a full sample book. Download Macleod's Clinical OSCEs - Paul O'Neill, a must-have for medical students and professionals, valued at ₹3085 on Amazon! 🔎 Check Amazon Price ₹3085 📥 Download It Free Now Our collection is so massive that we can't list all the books here. Click below to download the full list of 1,400+ medical books available! 📥 Download Full List of Books Upgrade your medical education with trusted, high-quality resources. This opportunity is one in a lifetime—don’t miss it!
+  Updated: 2025-08-01T07:10:05Z
+  Vendor: Medical Notes
+  Product Type: Medical Books
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0916/2388/3028/files/smallsiejpeg.jpg?v=1734116711
+  Price: ₹977.00 INR
+- [1400+ Medical Books Bundle](https://medicalnotes.in/products/1400-medical-books-bundle): body { font-family: "Figtree", sans-serif; color: #333; margin: 0; padding: 0; background-color: #f9f9f9; } .container { width: 100%; max-width: 100%; margin: 0; padding: 20px 10px; background: linear-gradient(135deg, #ffffff, #f8f8f8); border-radius: 0; box-shadow: none; text-align: center; } .header-title { font-size: 1.6em; font-weight: bold; color: #007bff; margin-bottom: 6px; } @media (min-width: 768px) { .header-title { font-size: 2em; } } .sub-title { font-size: 1.2em; color: #ff4081; font-weight: bold; margin-bottom: 20px; } .info { font-size: 1.1em; line-height: 1.7; color: #444; margin-bottom: 30px; } .highlight { color: #ff5722; font-weight: bold; } .cta-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px; } .cta-buttons a { display: inline-block; background: linear-gradient(135deg, #f441a5, #ffb700); color: white; text-decoration: none; padding: 12px 22px; font-size: 1.1em; font-weight: bold; border-radius: 50px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); box-shadow: 0 6px 18px rgba(244, 65, 165, 0.4); transition: all 0.3s ease-in-out; } .cta-buttons a:hover { background: linear-gradient(135deg, #ffb700, #f441a5); box-shadow: 0 8px 22px rgba(244, 65, 165, 0.5); transform: translateY(-3px) scale(1.05); } .cta-buttons a.amazon { background: linear-gradient(135deg, #ffd54f, #ff6f00); color: black; } .cta-buttons a.amazon:hover { background: linear-gradient(135deg, #ff6f00, #ffd54f); } .index-section { font-size: 1.05em; font-weight: bold; color: #555; margin-bottom: 30px; } .footer { font-size: 1em; color: #666; font-weight: bold; margin-top: 30px; } 🎉 Get a FREE Book worth ₹3000 before you buy the full product 🎉 A Gift of Trust & Quality Experience the premium quality of our medical resources with a full sample book. Download Macleod's Clinical OSCEs - Paul O'Neill, a must-have for medical students and professionals, valued at ₹3085 on Amazon! 🔎 Check Amazon Price ₹3085 📥 Download It Free Now Our collection is so massive that we can't list all the books here. Click below to download the full list of 1,400+ medical books available! 📥 Download Full List of Books Upgrade your medical education with trusted, high-quality resources. This opportunity is one in a lifetime—don’t miss it!
+  Updated: 2025-08-20T08:09:38Z
+  Vendor: Medical Notes
+  Product Type: Medical Books
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0916/2388/3028/files/smallsiejpeg.jpg?v=1734116711
+  Price: ₹3,999.00 INR
+
+## Collections
+
+- [Home page](https://medicalnotes.in/collections/frontpage)
+  Updated: 2025-09-18T11:16:25Z
+  Total Products: 2
+- [Paperbacks](https://medicalnotes.in/collections/paperbacks): Order Our Highly Popular Paperbacks Today. Use Code "BOOKS10" for 10% OFF.
+  Updated: 2025-07-20T13:33:57Z
+  Total Products: 5
+
+## Blogs
+
+- [Edutainment](https://medicalnotes.in/blogs/edutainment)
+  - [The Secret to Studying Smarter, Not Harder in Medical School](https://medicalnotes.in/blogs/edutainment/the-secret-to-studying-smarter-not-harder-in-medical-school): <span data-mce-fragment="1">Studying subject by subject (anatomy here, physiology there) is like watching </span><i data-mce-fragment="1">random episodes of a TV series</i><span data-mce-fragment="1">. You miss the big picture. In the real world, patients don’t come with labels like “this is an anatomy question.”</span>
+    Updated: 2024-11-20T08:36:58Z
+    Author: Syed Quadri
+    Tags: effective study techniques, med school study tips, smarter studying strategies, study hacks for medical students, study smarter medical school
+  - [The Top 5 Study Mistakes Medical Students Make and How to Avoid Them](https://medicalnotes.in/blogs/edutainment/dfas)
+    Updated: 2024-11-20T08:01:26Z
+    Author: Syed Quadri
+  - [How Digital Notes are Changing the Game for Medicos](https://medicalnotes.in/blogs/edutainment/how-digital-notes-are-changing-the-game-for-medicos)
+    Updated: 2024-11-20T08:04:25Z
+    Author: Syed Quadri
+  - [10 Must-Have Skills Every Medical Student Should Master](https://medicalnotes.in/blogs/edutainment/10-must-have-skills-every-medical-student-should-master): <h1 data-mce-fragment="1">10 Must-Have Skills Every Medical Student Should Master</h1>
+<p data-mce-fragment="1">Not just book smarts—these are the superpowers you need to make it through med school (and life)! 💪</p>
+<hr data-mce-fragment="1">
+<h2 data-mce-fragment="1">🩺 #1: Clinical Observation</h2>
+<p data-mce-fragment="1">Being a “symptom detective” is a medical student’s bread and butter. Spotting subtle signs in patients is the first step to making a killer (not literally) diagnosis. Practice makes perfect, Sherlock.</p>
+    Updated: 2024-11-20T08:34:33Z
+    Author: Syed Quadri
+    Tags: clinical skills for students, med school essentials, medical student mastery, must-have medical skills, skills for medical students
+  - [The Top 5 Study Mistakes Medical Students Make and How to Avoid Them](https://medicalnotes.in/blogs/edutainment/the-top-5-study-mistakes-medical-students-make-and-how-to-avoid-them): <p data-mce-fragment="1">Cracking med school requires more than long hours. Avoid these common blunders and study like a pro. </p>
+    Updated: 2024-11-20T08:35:09Z
+    Author: Syed Quadri
+    Tags: avoid study burnout, effective study strategies, med school study tips, medical student success, study mistakes medical students
+  - [The Anatomy of a Medical Student's Backpack: Essentials and Oddities](https://medicalnotes.in/blogs/edutainment/the-anatomy-of-a-medical-students-backpack-essentials-and-oddities): Explore the essentials and quirky items every medical student carries in their backpack. From stethoscopes to stress balls, find out what fuels medicos on their journey to success.
+    Updated: 2024-11-20T08:33:38Z
+    Author: Syed Quadri
+    Tags: med school backpack, med school must-haves, medical student essentials, medical student supplies, study tools for medical students
+  - [A Day in the Life of a Medical Student: From Dawn to Dissection](https://medicalnotes.in/blogs/edutainment/a-day-in-the-life-of-a-medical-student-from-dawn-to-dissection): Step into the daily grind of a medical student, from caffeine-fueled mornings to late-night study sessions. A relatable and humorous glimpse into life in med school.
+    Updated: 2024-11-20T08:33:02Z
+    Author: Syed Quadri
+    Tags: day in the life of a medical student, life of a med student, med school life, medical student daily routine, studying medicine insights
+  - [The Secret Sauce to Medical School Success: Tips, Tricks, and a Little Magic](https://medicalnotes.in/blogs/edutainment/the-secret-sauce-to-medical-school-success-tips-tricks-and-a-little-magic): Discover the ultimate recipe for med school success! Learn how to integrate study methods, master time management, and use high-quality resources to excel in your journey.
+    Updated: 2024-11-20T08:31:35Z
+    Author: Syed Quadri
+    Tags: how to succeed in med school, med school study hacks, medical school success tips, medical student advice, top med school strategies
+  - [The Science of Memory: How to Retain Medical Knowledge Like a Pro](https://medicalnotes.in/blogs/edutainment/the-science-of-memory-how-to-retain-medical-knowledge-like-a-pro): Unlock the secrets to mastering medical knowledge with science-backed memory techniques. From spaced repetition to visualization, learn how to ace your studies and retain information for life.
+    Updated: 2024-12-13T15:31:09Z
+    Author: Syed Quadri
+    Tags: improve memory in med school, medical study techniques, memory hacks for med students, memory retention for medical students, memory tips for medical students, neuroscience of learni, retaining medical knowledge, science of memory, study smarter for exams
+
+## Store Pages
+
+- [Contact Us](https://medicalnotes.in/pages/contact): Email id: themedicalnotes@yahoo.com Whatsapp number: +91 9202203896 Address: house 37, noor khan layout, 4th cross, deccan college road, kalaburgi,...
+  Updated: 2025-02-01T06:12:44Z
+- [About Us](https://medicalnotes.in/pages/about-us): Revolutionizing the way medicine is learned, one system at a time. ✨ We Are We’re a team of doctors from India’s top institutions, united by one go...
+  Updated: 2025-02-01T05:48:19Z
+- [Customer Reviews](https://medicalnotes.in/pages/customer-reviews): Explore the Bundle Contact Us Your Name Your Email Your Message Send Message
+  Updated: 2024-11-20T03:28:29Z
+- [FAQs](https://medicalnotes.in/pages/frequently-asked-questions-faqs): Frequently Asked Questions 1. How do I receive the notes after purchase? As soon as you complete your purchase, you’ll receive an email with a dire...
+  Updated: 2024-11-20T05:19:33Z
+- [Frequently Asked Questions](https://medicalnotes.in/pages/avada-faqs): .main-page-title.page-title { display: none !important; } function loadScript() { const elem = document.createElement('script'); elem.type = 'text/...
+  Updated: 2024-11-20T05:09:36Z
+- [FREE Sample Notes](https://medicalnotes.in/pages/sample-notes): Medical Notes Samples Subject/System Download Sample Immunology & Rheumatology Download Sample Cardiovascular System Download Sample Respiratory Sy...
+  Updated: 2024-12-13T18:09:28Z
+
+## Policies
+
+- [Privacy Policy](https://medicalnotes.in/policies/privacy-policy)
+  Updated: 2024-11-18T12:09:47+05:30
+- [Shipping Policy](https://medicalnotes.in/policies/shipping-policy)
+  Updated: 2024-11-20T07:57:58+05:30
+- [Refund Policy](https://medicalnotes.in/policies/refund-policy)
+  Updated: 2025-01-23T12:36:22+05:30
+- [Terms of Service](https://medicalnotes.in/policies/terms-of-service)
+  Updated: 2024-11-20T07:56:12+05:30
+- [Contact Information](https://medicalnotes.in/policies/contact-information)
+  Updated: 2025-02-01T11:55:49+05:30
+
+## Optional
+
+- [robots.txt](https://medicalnotes.in/robots.txt)
+- [sitemap.xml](https://medicalnotes.in/sitemap.xml)
