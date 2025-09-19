@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-19T08:02:28.622Z
+- Updated At: 2025-09-19T12:02:31.763Z
 
 ## Products
 
@@ -407,7 +407,7 @@
   Updated: 2025-09-13T11:22:05Z
   Price: $44.81 USD
 - [Pink Floral Long Sleeve High Neck Sheath Mesh Top - Fashionqueene.com](https://fashionqueene.com/products/pink-floral-long-sleeve-high-neck-sheath-mesh-top): Introducing our Pink Floral Long Sleeve High Neck Sheath Mesh Top! Made with delicate mesh and adorned with beautiful floral designs, this top will elevate any outfit. The high neckline and long sleeves add a touch of elegance, making it a versatile piece for both casual and formal occasions. Stay stylish and sophisticated with this chic top. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 31.5 31.1 29.2 18.7 M 8-10 38-40 12-14 33.9 33.5 29.7 19.3 L 12-14 42-44 16-18 36.2 35.8 30.3 19.9 XL 16-18 46-48 20-22 39.4 39.0 31.0 20.5 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 80 79 74.1 47.5 M 8-10 38-40 12-14 86 85 75.5 49 L 12-14 42-44 16-18 92 91 76.9 50.5 XL 16-18 46-48 20-22 100 99 78.7 52 Elasticity High The chic blouse is a delicate fusion of floral beauty and sophisticated style. The high neck design is perfect for a polished and professional look. The sheath cut accentuates the silhouette with a feminine grace. Mesh fabric brings a subtle allure and a touch of modernity. - Fashionqueene.com
-  Updated: 2025-09-18T09:21:05Z
+  Updated: 2025-09-19T10:20:30Z
   Price: $14.81 USD
 - [Red Plaid Print Loose Vintage Shirt - Fashionqueene.com](https://fashionqueene.com/products/red-plaid-print-loose-vintage-shirt): This Red Plaid Print Loose Vintage Shirt offers a classic and stylish addition to your wardrobe. Made with a loose fit and vintage plaid print, it provides comfort and style. Perfect for adding a touch of retro charm to any outfit. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 41.7 44.9 23.6 19.1 28.3 M 8-10 38-40 12-14 44.1 47.2 24.8 19.3 29.1 L 12-14 42-44 16-18 46.5 49.6 26.0 19.5 29.9 XL 16-18 46-48 20-22 49.6 52.8 27.6 19.7 30.7 2XL 20-22 50-52 24-26 52.8 55.9 29.1 19.9 31.5 Elasticity None Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 106 114 60 48.5 72 M 8-10 38-40 12-14 112 120 63 49 74 L 12-14 42-44 16-18 118 126 66 49.5 76 XL 16-18 46-48 20-22 126 134 70 50 78 2XL 20-22 50-52 24-26 134 142 74 50.5 80 Elasticity None Embrace timeless style with this plaid shirt. Classic design with a touch of retro charm. Loose fit style is comfy and suitable for all. Versatile piece that can be styled in various ways. - Fashionqueene.com
   Updated: 2025-09-15T11:22:06Z
@@ -575,8 +575,8 @@
   Updated: 2025-09-19T07:15:19Z
   Price: $17.84 USD — $29.47 USD
 - [3D Bronzers Matte Wheat Contour Powder Palette Facial Makeup Natural Highlights Waterproof Long-Lasting - Fashionqueene.com](https://fashionqueene.com/products/3d-bronzers-matte-wheat-contour-powder-palette-facial-makeup-natural-highlights-contouring-modification-waterproof-long-lasting): Enhance your facial features with our 3D Bronzers Matte Wheat Contour Powder Palette. Achieve a natural, long-lasting contour and highlighted look with ease. Made with waterproof formula for all-day wear. Perfect for professional makeup artists or everyday use. SPECIFICATIONS Brand Name: QiBest Formulation: Palette Origin: Mainland China Shelf Life: 3 years Number of Pieces: One Unit Model Number: Q2367 Manufacturer: Highlighter Palette NET WT: 10g Quantity: 1 palette Distributor/Importer: Contouring makeup Type: Bronzer & Highlighter Certificate Number: Highlighter Contour Bronzer Ingredient: Highlighter Bronzer powder Benefit: Long-lasting Benefit: Easy to Wear Benefit: Oil-control Benefit: Concealer Benefit: BRIGHTEN Benefit: other Date of Manufacture: New Size: Full Size Country/Region of Manufacture: CHINA Certification: GZZZ GZZZ: YGZWBZ Type: Highlighter Concealer Palette Feature 1: Highlighter for nose Feature 2: highlighter makeup cosmetics Feature 3: Concealer Contour makeup Feature 4: Highlighter Makeup for face Specification: Brand: QibestName: Highlighter Bronzer PaletteModel: Q2367Net content: 10gWeight: 50.3gSize: 7.8*1.6*7.8cmColor: 3 colors choose for youFeature:1.Waterproof2.Lightweight /long-lasting/natural3.Deepens the contours,easy to use4.Easy to carry Description: Say goodbye to flatness,creating three-dimensional face contouringMulti-purpose bronzing powder applicable to multiple parts,can be used like blush powder, contour powder, highlighter powder,hairline powder and collarbone powder.【Contour powder】Smooth and fine powder,easy to apply,which is used lateral zygomatic bone mandible,easy to create a small V-face.【Highlighter powder】Matte high gloss naturally brightens the face, and visually diminishes nasolabial lines and tear grooves,building deep eye sockets, accentuated by a high nose.【Hairline powder】Fill in the forehead gap and naturally volumize the hairline.【Collarbone powder】Smooth and fine powder,fits the skin,easy to draw a swan neck.Perfect for salon, party, show, or home use. How to Use Step1: Swipe a small amount of bronzing powder on the cheekbones several times, if necessary, you can also swipe on the nose, lip peaks, and eye sockets to modify.Step2:Dip an appropriate amount and apply it on the forehead, roots, cheekbones, chin and other areas that need to be brightened.Step3: The shadow can be swept a few times on the nose, eye socket, sideburns, mandible and other parts that need to be modified; it can also modify the clavicle, vest line and other parts. Package Include: 1* Face bronzing Powder Notes: Due to the differences between different monitors, the picture may not reflect the actual color of the item.If there is a problem with the product, please leave a message before giving you bad feedback. Thank you for your understanding. - Fashionqueene.com
-  Updated: 2025-09-19T07:30:36Z
-  Price: $23.54 USD
+  Updated: 2025-09-19T10:08:44Z
+  Price: $23.21 USD
 - [3-in-1 Cheek Blush Stick Lip Tinted Eyes Cheek Lips Brighten Cream Water-resistant Moisturizing Face Contouring Shadow Blusher - Fashionqueene.com](https://fashionqueene.com/products/3-in-1-cheek-blush-stick-lip-tinted-eyes-cheek-lips-brighten-cream-water-resistant-moisturizing-face-contouring-shadow-blusher): Achieve a flawless, multi-dimensional makeup look with our 3-in-1 Cheek Blush Stick. This versatile product can be used as a lip tint, eye shadow, and blush, providing a brightening and contouring effect to your face. Its water-resistant and moisturizing formula ensures long-lasting wear, giving you a flawless and radiant complexion all day. SPECIFICATIONS Brand Name: QiBest Formulation: Cream Origin: Mainland China Shelf Life: 3 years Number of Pieces: One Unit Model Number: Q2358 Manufacturer: QiBest NET WT: 6.5g Quantity: 1pc Distributor/Importer: Highlighter Makeup Type: Bronzer & Highlighter Certificate Number: Glitter Highlighter Ingredient: Face Highlighter Stick Benefit: Long-lasting Benefit: Easy to Wear Benefit: Concealer Benefit: BRIGHTEN Benefit: other Date of Manufacture: New Size: Full Size Country/Region of Manufacture: CHINA Certification: GZZZ GZZZ: YGZWBZ Feature 1: Highlighter Stick Feature 2: Make-up for women Feature 3: Blush lipstick makeup Use this highlighter stick sephora create three-dimensional contour makeup Specification Product Name:Lipstick Blush Eyes 3-in-1 Stick Net weight：6.5gQuantity: 1 pcSize:2.8*2.8*6.5cmApplicable skin type: suitable for a variety of skin typesBest way to use:Use after setting makeupEffect: Velvet smooth texture, easy to spread, rich color, not easy to take off makeup, showing charming lips Description: 1. Have three uses for a stick(1) Blush (Cheek)(2) Eyeshadow (Eyes)(3) Lipstick (Lips)2. Makeup Sweetness Upgrade(1) Retouch the faceEasy to apply, wipe out the makeup three-dimensional glossy feeling.(2) Translucent good complexionEvenly stained, transparent skin melting, to create a sense of light redness.(3) Two textures available◆Slightly Polarised TextureSlightly glossy, for a stunning look.◆Matte textureSoft, natural and elegant.(4) Native RednessA translucent, natural-looking redness that is not too heavy.(5) Refreshing and non-stickyCreamy texture, refreshing and non-sticky, not stuck lines after halo. Features: 1.Long Lasting MakeupNon-dizzy and lose color,Delicate touch，Moist & close to the skin，Appears Veletly makeup2. Stunning Natural EffectNatural color,Like blush on the face,not exaggerated but color rendering.Gel cream texture, simple to get started, light and smooth, it will not fade for a whole day!3.Elegance Goddess FanNot easy to remove and the waterproof effect is very good,push the smudge well, and it can melt well with the skin, and the makeup is perfect About Colors: 01# Red bean (slightly polarised)Gentle and sweet, low-key natural.02 # Red Pear (Matte)Red classic tone, very white.03 # Coral Orange (slightly polarised)Vibrant with the orange fragrance of summer.04#Purple Taro (slightly polarised)Elegant and lovely with a slight sense of playfulness. Package Include: 1pcs*Monochromatic multi-stick Tips: --Due to the differences between different monitors, the picture may not reflect the actual color of the item.--If there is a problem with the product, please leave a message before giving you bad feedback.--Thank you for your understanding. - Fashionqueene.com
   Updated: 2025-09-12T07:51:43Z
   Price: $23.99 USD
@@ -653,8 +653,8 @@
   Updated: 2025-09-19T07:02:45Z
   Price: $23.59 USD — $23.98 USD
 - [Double End Glitter Matte Eye shadow Stick Pencil Waterproof Bicolor Shimmer - Fashionqueene.com](https://fashionqueene.com/products/qibest-double-end-glitter-matte-eye-shadow-stick-pencil-eyeshadow-makeup-waterproof-bicolor-shimmer-cosmetics-beauty-makeup-tool): Expertly designed for effortless eye makeup application, the QIBEST Double End Glitter Matte Eye shadow Stick Pencil offers the perfect combination of glitter and matte finishes. Waterproof for long-lasting wear, this versatile eyeshadow tool will enhance your natural beauty and elevate your makeup game. SPECIFICATIONS Brand Name: QiBest Origin: Mainland China Manufacturer: QIBEST NET WT: 1.5g+1.5g Distributor/Importer: Liquid Eyeshadow Size: Full Size Single color/multi-color: Two Colors Certificate Number: Double-headed Liquid Eye Shadow Model Number: Q2332 Double-headed Liquid Eye Shadow Finish: Matte Finish: Natural Shelf Life: 3 years Benefit: Long-lasting Benefit: Easy to Wear Benefit: Natural Benefit: Waterproof / Water-Resistant Date of Manufacture: New Quantity: 1 Ingredient: Eyeshadow Country/Region of Manufacture: CHINA Certification: GZZZ Type: Eye Shadow Waterproof / Water-Resistant: Yes Number of Pieces: One Unit Specification: Type: Pearl +Matte liquid eyeshadow Brand: QIBEST Net Weight: 1.5g+1.5g Target skin types: All skin Color:6 colors for choice Function：Create a beautiful eye makeup. Description: *Fine Matte *Fast-drying & smooth, light hold *everyday Versatile Eye Makeup *Lightweight & silky *Double-headed design *Fine sparkle+Lightweight Soft Mist Features: 【Delicate liquid texture】Silky smooth, light and easy to push. 【Maintain makeup & color display】Waterproof and sweatproof No fear of makeup removal. 【Multiple Occasions】It’s silky, make up your lips lightly, suitable for all seasons makeup, especially in the office, dating, shopping, summer party with friends. This is a very convenient, very beautiful lip makeup set, easy to wear. Notes: 1. Due to lighting effect and computer color, the actual colors may be slightly different from the picture . 2. Store in a normal temperature 3. Keep far away from children - Fashionqueene.com
-  Updated: 2025-09-19T07:45:22Z
-  Price: $23.39 USD
+  Updated: 2025-09-19T10:29:52Z
+  Price: $23.29 USD
 - [Hot Velvet Matte Nude Lip Gloss Sexy Long Lasting Non-stick Cup Nude Red Liquid Lipstick Waterproof - Fashionqueene.com](https://fashionqueene.com/products/hot-velvet-matte-nude-lip-gloss-sexy-long-lasting-non-stick-cup-nude-red-liquid-lipstick-waterproof-make-up-for-women-cosmetic): Achieve a seductive look with our Hot Velvet Matte Nude Lip Gloss. This long-lasting, non-stick formula has a subtle nude red hue that will have heads turning. Its waterproof properties ensure your makeup stays flawless all day. Elevate your beauty game with this must-have cosmetic for women. SPECIFICATIONS Brand Name: QiBest Origin: Mainland China Quantity: 1pc Country/Region of Manufacture: CHINA Certification: GZZZ GZZZ: YGZWBZ Type: LIPSTICK Number of Pieces: One Unit Manufacturer: QIBSET Model Number: Q1617 Ingredient: Lip Gloss NET WT: 7g Distributor/Importer: Lip Tint Certificate Number: LSCLM Benefit: Waterproof / Water-Resistant Date of Manufacture: New Shelf Life: 3 years Specification: Product Name:Long Lasting Matte Lip GlossType:Lip Gloss/Lips Makeup /Liquid LipstickItem Name:Liquid Pigment For LipglossQuantity:1pcWeight: 20gColor: You can choose 34 colors,always one option fit for you Description: 1.Fitting and Long Lasting colouring lightly and non-dizzy2.Excellent Coloration color uniform to get perfect makeup3.Pure Colors light lustre and pure colors4.Multi-Colored 34 colors for choosing 5.Exquisite outlook easy to choose which color you want with transparent outlookSuitable for: professional use or home use. Give yourself a makeover with this Lip gloss Feature: Easy to color and fit the lipMoist and Long LastingSmells Like Sweet CreamMatte Velvet KindPortable size, easy to carry100% Brand new and high quality Suitable for professional use or home useGive yourself a makeover with this Lip gloss Ingrdients: Mineral Oil,Polybutene,Petrolatum,Octyl lsopalmitate,Cera Microcrist-allina,Styrene-EthylenePropylene-(Styrene)Block Copolymer,Dimet-hicone,Squala-ne,Mica,Methylpa-raben,Perfu-meMAY CONTAIN:CI77491 CI77492 CI77499/CI58550 Note: Due to the differences between different monitors, the picture may not reflect the actual color of the item.If there is a problem with the product, please leave a message before giving you bad feedback.Thank you for your understanding. - Fashionqueene.com
   Updated: 2025-09-11T20:30:03Z
   Price: $22.79 USD
@@ -1906,7 +1906,7 @@
   Updated: 2025-09-16T23:00:15Z
   Price: $44.15 USD — $46.15 USD
 - [Collared Neck Button Up Top and Shorts Denim Set - Fashionqueene.com](https://fashionqueene.com/products/collared-neck-button-up-top-and-shorts-denim-set): Features: Basic style Number of pieces: Two-piece Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Bottom Length Sleeve Length Hip S 4 42.5 24.4 14.6 8.7 0 M 6/8 44.1 24.8 15 9.1 0 L 10/12 46.5 25.2 15.4 9.4 0 XL 14 48.8 25.6 15.7 9.8 0 - Fashionqueene.com
-  Updated: 2025-09-18T05:28:05Z
+  Updated: 2025-09-19T09:45:25Z
   Price: $44.15 USD
 - [Side Slit Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/side-slit-jeans-with-pockets): Features: Slit Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length S 4 27.6 40.2 41.3 M 6/8 29.5 42.1 42.1 L 10/12 31.5 44.1 42.5 XL 14 34.6 47.2 42.9 2XL 16/18 37.8 50.4 43.3 - Fashionqueene.com
   Updated: 2025-09-11T20:27:48Z
@@ -2692,7 +2692,7 @@
   Updated: 2025-09-11T20:26:23Z
   Price: $34.00 USD
 - [Trendy Distressed Women's Skinny Jeans - Perfect Fit & Fashion Forward - Fashionqueene.com](https://fashionqueene.com/products/trendy-distressed-womens-skinny-jeans-perfect-fit-fashion-forward): Step into the world of fashion with our stunning Women's Bottoms Jeans. These blue jeans are a must-have for any wardrobe, combining style and comfort effortlessly. Crafted from a premium blend of cotton, denim, and terylene, these jeans feature unique elements like bow accents, patchwork, and a washed, ripped design that adds a touch of edgy sophistication. The high-rise waistline and straight fit ensure a flattering silhouette for all body types. Perfect for casual outings, streetwear looks, or even a chic day out, these jeans are versatile enough to pair with your favorite tops and accessories. ... Read More Color: Blue Size: S, M, L, XL, 2XL Elements: Bow, Patchwork, Washed, Ripped Fitting: Straight Material: Cotton, Denim, Terylene Collar: Null Sleeve: Null Waistline: High Rise, Null Detail: Zipper, Null Boot Shaft Length: Casual, Streetwear Lining Material: Cotton Season: Spring, Autumn, Winter Trends: Body Vibe Weight: 700g - Fashionqueene.com
-  Updated: 2025-09-11T20:26:22Z
+  Updated: 2025-09-19T11:29:00Z
   Price: $35.67 USD
 - [Chic High-Waisted Distressed Skinny Jeans for Effortless Style - Fashionqueene.com](https://fashionqueene.com/products/chic-high-waisted-distressed-skinny-jeans-for-effortless-style): Step into the world of fashion with our must-have Light Blue Patchwork Ripped Jeans. These jeans are the epitome of streetwear chic, combining the rugged charm of ripped and ragged hems with the playful flair of colorblock and badge elements. Crafted from a premium blend of cotton, denim, and terylene, these jeans promise both comfort and durability, making them a versatile addition to your wardrobe. Designed with a loose, straight fit and a mid-rise waistline, these jeans are perfect for any season-be it spring, summer, autumn, or winter. The hip-hop and streetwear-inspired design, complete with a stylish chain detail, ensures you stand out whether you're hitting the town for a casual outing, attending a special event, or jetting off on a vacation. Pair these trendy jeans with a simple white tee and sneakers for a laid-back look, or elevate your style with a chic blouse and heels for a night out. Color: Light Blue Size: S, M, L, XL, 2XL Elements: Badge, Chain, Colorblock, Patchwork, Raged Hem, Ripped Fitting: Loose, Straight Material: Cotton, Denim, Terylene Collar: Null Sleeve: Null Waistline: Mid-rise, Null Detail: Zipper, Null Boot Shaft Length: Hip Hop, Streetwear, Seductive Lining Material: Cotton Season: Spring, Summer, Autumn, Winter Trends: Body Vibe Weight: 700g - Fashionqueene.com
   Updated: 2025-09-11T20:26:22Z
@@ -2893,28 +2893,28 @@
 ## Collections
 
 - [Ladies Plus - Fashionqueene.com](https://fashionqueene.com/collections/ladies-plus): Plus size tops, cami's, short sleeves plus size, plus tank tops, Long sleeves plus, shorts, skorts, dresses, tank tops, hoodies, Maxi, demi, Mini dresses, outfit sets, office wear, active wear, sweat pants, sweat shirts - Fashionqueene.com
-  Updated: 2025-09-19T07:16:18Z
+  Updated: 2025-09-19T09:51:08Z
   Total Products: 341
 - [Ladies Coats and Jackets - Fashionqueene.com](https://fashionqueene.com/collections/ladies-coats-and-jackets): Coats, hoodies, sweaters, cardigans, puffy jackets, denim, long coats, faux fur, leather coats, leather jackets - Fashionqueene.com
-  Updated: 2025-09-19T06:55:57Z
-  Total Products: 134
+  Updated: 2025-09-19T10:12:34Z
+  Total Products: 135
 - [Ladies Fashions - Fashionqueene.com](https://fashionqueene.com/collections/ladies-fashions): Casual to dressy dresses, office, party, formal dresses, cami, midi, maxi, long, pants, shorts, active wear, blouses, office, party, overalls, rompers, crop tops, t-shirts, skorts, active wear, cargo pants, - Fashionqueene.com
-  Updated: 2025-09-19T07:46:56Z
-  Total Products: 1175
+  Updated: 2025-09-19T09:52:01Z
+  Total Products: 1179
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-19T07:58:14Z
+  Updated: 2025-09-19T09:51:51Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-19T07:14:54Z
+  Updated: 2025-09-19T09:51:27Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-19T07:37:03Z
+  Updated: 2025-09-19T09:51:58Z
   Total Products: 545
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
-  Updated: 2025-09-19T07:41:04Z
-  Total Products: 324
+  Updated: 2025-09-19T10:07:54Z
+  Total Products: 327
 - [Men's Shoes - Fashionqueene.com](https://fashionqueene.com/collections/mens-shoes): Sneakers, running, loafers, slip-on's, boots, sandals, flip flops, swim shoes, leather shoes, casual, driving shoes, slippers, Beach shoes, work shoes - Fashionqueene.com
-  Updated: 2025-09-19T07:50:10Z
+  Updated: 2025-09-19T10:23:03Z
   Total Products: 102
 - [Baby-Teen Girls - Fashionqueene.com](https://fashionqueene.com/collections/new-born-teen-girls): Everyday wear, school,formal,parties, High-qualty materials to handle all acrivities children get into girls - Fashionqueene.com
   Updated: 2025-09-19T06:26:43Z
@@ -2923,86 +2923,86 @@
   Updated: 2025-09-18T11:45:31Z
   Total Products: 34
 - [Jewelry Treasures - Fashionqueene.com](https://fashionqueene.com/collections/jewelry-treasures): fashion jewelry earrings, designer fashion jewelry, luxury fashion jewelry, fashion diamond jewelry, vintage fashion and costume jewelry, fashion gold jewelry, silver fashion jewelry - Fashionqueene.com
-  Updated: 2025-09-19T07:14:42Z
+  Updated: 2025-09-19T09:46:45Z
   Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-19T07:55:48Z
-  Total Products: 1760
+  Updated: 2025-09-19T10:23:03Z
+  Total Products: 1772
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
-  Updated: 2025-09-19T07:15:47Z
+  Updated: 2025-09-19T10:29:53Z
   Total Products: 128
 - [Men's Coats And Jackets - Fashionqueene.com](https://fashionqueene.com/collections/mens-coats-and-jackets): Parkas, puffy coats, waterproof, jackets, leather jackets, windbreakers, Long coats, wool coats, business coats, hunting jackets, ski-coats, - Fashionqueene.com
-  Updated: 2025-09-19T07:16:16Z
-  Total Products: 90
+  Updated: 2025-09-19T10:07:54Z
+  Total Products: 91
 - [Gothic Row (Men & Women) - Fashionqueene.com](https://fashionqueene.com/collections/gothic-row): All Gothic wear distressed jeans, leggings, jumpsuits, overalls, long dresses, batwing tops, mens Gothic clothing, blouses, kilts, cargo pants, sweaters, shoes - Fashionqueene.com
-  Updated: 2025-09-19T07:16:13Z
+  Updated: 2025-09-19T09:49:46Z
   Total Products: 183
 - [Top Brands - Fashionqueene.com](https://fashionqueene.com/collections/tkitok): All items here are from our TikTok Shop. #Judy Blue brand, # Basic Bae, #Nicole Miller Handbags, #Zenana, #Heimish, #Risen, #BiBi, #Culture Code - Fashionqueene.com
   Updated: 2025-09-16T01:15:22Z
   Total Products: 313
 - [Ladies Loungewear - Fashionqueene.com](https://fashionqueene.com/collections/ladies-loungewear): Robes, night shirts, two PCs short pajamas, - Fashionqueene.com
-  Updated: 2025-09-19T05:36:27Z
+  Updated: 2025-09-19T09:15:40Z
   Total Products: 63
 - [Women's Dresses - Fashionqueene.com](https://fashionqueene.com/collections/womens-dresses): women's dresses, Long dresses, Maxi, mini, two-piece, suits, office casual, sundresses cute dresses, casual dresses, women's fashion casual skirts, fashion 2024 dresses, fashion winter dresses, fall dresses - Fashionqueene.com
-  Updated: 2025-09-19T07:41:24Z
-  Total Products: 213
+  Updated: 2025-09-19T10:17:59Z
+  Total Products: 215
 - [Women's One-piece - Fashionqueene.com](https://fashionqueene.com/collections/womens-one-piece): Overalls, Rompers, - Fashionqueene.com
-  Updated: 2025-09-19T07:27:54Z
+  Updated: 2025-09-19T09:47:41Z
   Total Products: 76
 - [Women's Pants - Fashionqueene.com](https://fashionqueene.com/collections/womens-pants): Jeans, leggings, trousers, pull-on's, flare, hip hugger's, denim,pants for women, dress pants, dress pants women - Fashionqueene.com
-  Updated: 2025-09-19T07:27:48Z
-  Total Products: 457
+  Updated: 2025-09-19T10:01:44Z
+  Total Products: 456
 - [Women's Tops - Fashionqueene.com](https://fashionqueene.com/collections/womens-tops): women's tops, Blouses, crop tops, knitted, short sleeves, cold shoulder, t-shirts, pull over, women's tops on sale, - Fashionqueene.com
-  Updated: 2025-09-19T07:27:41Z
+  Updated: 2025-09-19T09:51:59Z
   Total Products: 380
 - [Women's Shorts - Fashionqueene.com](https://fashionqueene.com/collections/womens-shorts): Denim shorts, cargo shorts, elastic waist, gym shorts, casual - Fashionqueene.com
-  Updated: 2025-09-19T07:46:56Z
+  Updated: 2025-09-19T09:47:37Z
   Total Products: 119
 - [Men's Shirts - Fashionqueene.com](https://fashionqueene.com/collections/mens-shirts): #Polo shirts, #pullover shirts, #t-shirts, #Button down, #Men's cardigans, #sports shirts - Fashionqueene.com
-  Updated: 2025-09-19T07:17:07Z
+  Updated: 2025-09-19T09:49:23Z
   Total Products: 151
 - [Men's Pant's - Fashionqueene.com](https://fashionqueene.com/collections/mens-pants): #sweatpants, #cargo Pants, #distressed jeans, #Dress pants, #trousers, #carpenter pants, #leather pants, #hip hop pants - Fashionqueene.com
-  Updated: 2025-09-19T07:27:48Z
-  Total Products: 235
+  Updated: 2025-09-19T10:06:16Z
+  Total Products: 236
 - [Maternity Wear - Fashionqueene.com](https://fashionqueene.com/collections/maternity-wear): "maternity dress" maternity blouses" Maternity pants" maternity sweater dresses" maternity shorts" maternity shape wear" postpartum belts" - Fashionqueene.com
   Updated: 2025-09-16T01:15:24Z
   Total Products: 60
 - [Men's Suits (Formal) - Fashionqueene.com](https://fashionqueene.com/collections/mens-suits-formal): Tuxedos, dress suits, 3 pieces, two piece - Fashionqueene.com
-  Updated: 2025-09-19T07:16:24Z
+  Updated: 2025-09-19T09:51:27Z
   Total Products: 13
 - [Ladies Swimsuits - Fashionqueene.com](https://fashionqueene.com/collections/ladies-swimsuits): Tankini, bikini, two-piece, one-piece, cover-ups - Fashionqueene.com
-  Updated: 2025-09-19T05:23:26Z
+  Updated: 2025-09-19T09:49:48Z
   Total Products: 69
 - [Boys Shoes - Fashionqueene.com](https://fashionqueene.com/collections/boys-shoes): Sneakers, flipflops, sandals, casual shoes - Fashionqueene.com
-  Updated: 2025-09-19T08:01:13Z
+  Updated: 2025-09-19T09:48:45Z
   Total Products: 24
 - [Girls Shoes - Fashionqueene.com](https://fashionqueene.com/collections/girls-shoes): sandals, sneakers, flats, boots, casual shoes - Fashionqueene.com
-  Updated: 2025-09-19T05:46:26Z
+  Updated: 2025-09-19T09:48:42Z
   Total Products: 23
 - [Bridal Gallery - Fashionqueene.com](https://fashionqueene.com/collections/wedding-dresses): Wedding Dresses, formal, ball gowns, bridesmaids dresses, mother of the bride gowns, wedding accessories, tiaras, veils, gloves - Fashionqueene.com
-  Updated: 2025-09-19T07:51:20Z
+  Updated: 2025-09-19T08:25:27Z
   Total Products: 42
 - [Ladies Bra's and Underwear](https://fashionqueene.com/collections/ladies-bras-and-underwear): Bras, bralettes, camisoles, underwear, thongs, briefs,
-  Updated: 2025-09-19T07:00:59Z
+  Updated: 2025-09-19T08:26:28Z
   Total Products: 39
 - [Ladies Summer Collection](https://fashionqueene.com/collections/ladies-spring-collection): Rompers, jumpsuits, overalls, short sleeve blouses, shorts, capris, t-shirts, tank tops, crop tops, skirts, jeans, graphics tees.
-  Updated: 2025-09-19T07:41:24Z
+  Updated: 2025-09-19T09:15:43Z
   Total Products: 275
 - [Men's Plus Sizes](https://fashionqueene.com/collections/mens-plus-sizes): Mens Plus size in shorts, jeans, suits, joggers, overall, polo shirts, t-shirts
-  Updated: 2025-09-19T07:17:07Z
+  Updated: 2025-09-19T09:49:01Z
   Total Products: 70
 - [Women's work Uniforms](https://fashionqueene.com/collections/womens-work-uniforms): Scrubs, tops, bottoms, lab coats, lab jackets, short sleeve, long sleeves
-  Updated: 2025-09-19T04:59:14Z
+  Updated: 2025-09-19T09:14:20Z
   Total Products: 11
 - [APPPlaza - Best Sellers](https://fashionqueene.com/collections/appplaza-best-sellers): top brands for men and women, bibi, Judy blue, basic bae, Nicole brown,
   Updated: 2025-09-16T01:15:25Z
   Total Products: 750
 - [Women's Active Wear](https://fashionqueene.com/collections/womens-active-wear): active wear, leggings, skorts, shorts, spandex, tennis skirts, cropped tops, t-shirts
-  Updated: 2025-09-19T07:00:59Z
+  Updated: 2025-09-19T09:16:32Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-19T08:01:13Z
-  Total Products: 4639
+  Updated: 2025-09-19T10:29:53Z
+  Total Products: 4646
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
   Total Products: 59
@@ -3013,17 +3013,17 @@
   Updated: 2025-09-18T16:02:36Z
   Total Products: 53
 - [Ladies Sweaters](https://fashionqueene.com/collections/ladies-sweaters): Sweaters, winter tops, long sleeves
-  Updated: 2025-09-17T11:10:18Z
+  Updated: 2025-09-19T09:51:42Z
   Total Products: 59
 - [Women's Boots](https://fashionqueene.com/collections/womens-boots): ankle boots, thigh high, zipper boots, platform boots, wedge boots
-  Updated: 2025-09-19T04:54:11Z
+  Updated: 2025-09-19T09:51:48Z
   Total Products: 74
 - [Women's Sneakers](https://fashionqueene.com/collections/womens-sneakers): sneakers, high tops, slip-ons,
-  Updated: 2025-09-18T11:26:50Z
+  Updated: 2025-09-19T09:51:49Z
   Total Products: 24
 - [bracelets](https://fashionqueene.com/collections/bracelets): cuffs, elastic bracelets, beaded, silver bracelets
-  Updated: 2025-09-18T15:41:20Z
-  Total Products: 25
+  Updated: 2025-09-19T10:08:35Z
+  Total Products: 24
 
 ## Blogs
 
