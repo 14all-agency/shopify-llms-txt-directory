@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-19T00:00:31.496Z
+- Updated At: 2025-09-19T08:00:30.736Z
 
 ## Products
 
@@ -1319,7 +1319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH014BL_5-scaled.jpg?v=1751478434
   Price: ₹799.00 INR
 - [Buy ​Lifeline Stethoscope Diamond - Surgismart](https://surgismart.in/products/lifeline-diamond): Aluminium chest piece with a bright finish Sensitive diaphragm Superlative acoustics Patented 2-way tube with extra glass finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, nurses, paramedics, students Tube colors: black, grey Includes spares and warranty card - Surgismart
-  Updated: 2025-08-13T07:38:35Z
+  Updated: 2025-09-19T03:06:33Z
   Vendor: Lifeline
   Product Type: Lightweight;Stethoscopes
   Availability: Available
