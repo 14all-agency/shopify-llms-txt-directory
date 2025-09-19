@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-19T00:00:37.942Z
+- Updated At: 2025-09-19T04:00:39.315Z
 
 ## Products
 
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-bundling-film-black-100mm-x-150m-x-23mu-18-rolls-4-free-handles-bundling-stretch-film-essential-supplies-771541.jpg?v=1719444774
   Price: $96.00 NZD
 - [POR Gusseted Polyethylene Bag - Clear, 1240mm x 1200mm x 1800mm x 125mu - 50 Pieces](https://essentialsupplies.co.nz/products/por-gusseted-polyethylene-bag-clear-1240mm-x-1200mm-x-1800mm-x-125mu-50): Carton liners are durable, quality liners made from either low density polyethylene (LDPE) or high density polyethylene (HDPE), commonly used for lining the inside of cartons or containers to protect goods and prevent leakage. Our carton liners are all food grade and come in a range of sizes which are ideal for meat, fish, poultry and other fresh or frozen produce. Size: 1240mm x 1200mm x 1800mm x 125mu Content: 50 pieces per roll Colour: Clear
-  Updated: 2025-01-09T18:40:20Z
+  Updated: 2025-09-19T00:10:17Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Bags
   Availability: Available
@@ -3427,7 +3427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-white-s-240mm-cuff-50g-1000-gloves-nitrile-examination-gloves-essential-supplies-435338.jpg?v=1719445394
   Price: $99.00 NZD
 - [Nitrile Examination Gloves Powder Free - White, M, 240mm Cuff, 5.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-white-m-240mm-cuff-5-0g-1000): White powder free nitrile soft gloves offer premium snag, puncture, cut and abrasion resistance making them ideal for the chemical, tattooing, laboratories and meat processing industries. With greater tolerance for high temperatures and ability to neutralise electrostatic charges. 240mm cuff 5.0g Colour: White Size: Medium Pack:10 packs x 100's Note:*Other sizes available: Small, Large, Extra Large
-  Updated: 2025-01-09T02:23:44Z
+  Updated: 2025-09-19T03:10:59Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
