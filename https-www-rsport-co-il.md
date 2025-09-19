@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-19T12:00:55.058Z
+- Updated At: 2025-09-19T16:00:56.539Z
 
 ## Products
 
@@ -25184,7 +25184,7 @@
     Availability: Available
     Price: ‏134.99 ‏₪ ILS
 - [חולצת משחק פלומיננסה בית 2024](https://www.rsport.co.il/products/חולצת-משחק-פלומיננסה-בית-2024): חולצת המשחק הביתית של פלומיננסה 2024 מציגה עיצוב קלאסי עם פסים אנכיים בירוק, בורדו ולבן, בשילוב טכנולוגיית נידוף זיעה מתקדמת לנוחות מרבית. הגזרה רגילה, עם צווארון עגול וסמל המועדון בגאווה על החזה, המשקף את המורשת המפוארת של הקבוצה.
-  Updated: 2025-09-07T22:08:24Z
+  Updated: 2025-09-19T12:46:55Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
