@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-19T04:00:41.620Z
+- Updated At: 2025-09-19T08:00:42.483Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1711,7 +1711,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [Memory Keeper Locket® Silver | Lily Blanche | Keep Loved Ones Close](https://www.lilyblanche.com/products/memory-keeper-locket-silver): The Memory Keeper Locket in Sterling Silver is a beautiful & unique way to keep your loved ones close to your heart. This stunning locket can hold up to 6 photos, making it the perfect way to cherish your most precious memories. Order your silver Memory Keeper Locket online & get free photos, shipping & care kit today!
-  Updated: 2025-09-14T16:21:21Z
+  Updated: 2025-09-19T07:09:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15261,7 +15261,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_8ee71505-b476-4abe-a819-66528c718da2.jpg?v=1741883682
   Price: £70.00 GBP
 - [Citrine 5mm Mini Stud Earrings Rose Gold | October Birthstone Stud Earrings| Lily Blanche](https://www.lilyblanche.com/products/citrine-mini-stud-earrings-rose-gold-november): A pretty pair of real citrine  stud earrings measuring 5mm in an 18 carat rose gold vermeil setting.  October birthstone earrings  & the ideal birthday gift. Shop now
-  Updated: 2025-08-19T11:10:18Z
+  Updated: 2025-09-19T04:38:28Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
