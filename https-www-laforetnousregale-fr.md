@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-18T08:00:28.784Z
+- Updated At: 2025-09-19T16:00:28.750Z
 
 ## Products
 
@@ -718,6 +718,10 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
     Updated: 2025-09-17T08:40:44Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, alimentation durable, biologique, champignon, cueillette, Découvertes, environnement, Etude, forêt comestible, Forêt nourricière, nature
+  - [Pourquoi l'Intelligence Artificielle Revolutionne l'Agroforesterie Moderne](https://www.laforetnousregale.fr/blogs/infos/pourquoi-lintelligence-artificielle-revolutionne-lagroforesterie-moderne): <p><meta charset="utf-8"><i>L'intégration de l'intelligence artificielle dans les systèmes agroforestiers marque une rupture technologique majeure. Avec un marché évalué à 4,7 milliards de dollars en 2024 et une croissance annuelle prévue de 26,3 pour cent, l'IA transforme radicalement la gestion des écosystèmes forestiers productifs en optimisant surveillance, prédiction et prise de décision.</i></p>
+    Updated: 2025-09-19T15:06:33Z
+    Author: Équipe Pacific Planet
+    Tags: agroforesterie, Analyse multispectrale, écosystémique, Gestion prédictive, modélisation, multispectraux, Surveillance écosystémique
 
 ## Store Pages
 
