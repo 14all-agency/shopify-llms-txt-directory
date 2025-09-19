@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-19T12:02:31.763Z
+- Updated At: 2025-09-19T16:02:27.425Z
 
 ## Products
 
@@ -83,7 +83,7 @@
   Updated: 2025-09-17T22:56:31Z
   Price: $33.99 USD
 - [Judy Blue Full Size High Waist Skinny Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-skinny-jeans-1): The High Waist Skinny Jeans are a versatile and flattering essential for your wardrobe. Featuring a high waist design, these jeans provide a comfortable and slimming fit that accentuates your curves. The skinny leg silhouette offers a sleek and modern look that pairs well with a variety of tops and shoes. Made from stretchy denim fabric, these jeans offer both style and comfort for all-day wear. Perfect for creating stylish and streamlined outfits, these high waist skinny jeans are a timeless piece that can be dressed up or down for any occasion. Elevate your style with these chic and figure-flattering jeans that are a go-to option for a sleek and on-trend look.Style #: 88687 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 76.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 24 30 29.5 9.5 1/25 25 31 29.5 10 3/26 26 32 29.5 10 5/27 27 33 29.5 10.5 7/28 28 34 29.5 10.5 9/29 29 35 29.5 11 11/30 30 36 29.5 11 13/31 31 37 29.5 11 15/32 32 39 29.5 11.5 14W 32 41 29.5 11.5 16W 32 41 29.5 12 18W 34 43 29.5 12 20W 36 45 29.5 12.5 22W 38 48 29.5 13 24W 40 51 29.5 13 - Fashionqueene.com
-  Updated: 2025-09-17T03:05:42Z
+  Updated: 2025-09-19T14:49:07Z
   Price: $28.00 USD
 - [Judy Blue Full Size High Waist Straight Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-high-waist-straight-jeans-2): These High Waist Straight Jeans are a versatile and timeless addition to your wardrobe. The high waist design offers a flattering and on-trend silhouette. With a straight leg cut, these jeans provide a classic and effortless look. Perfect for both casual and dressed-up occasions, they can be styled in various ways. Pair them with a tucked-in blouse for a polished look or with a casual tee for a relaxed vibe. Update your denim collection with these stylish and comfortable high waist straight jeans for a chic and sophisticated outfit option.Style #: 8602 Features: Basic style Stretch: Moderate stretch Material composition: 65% cotton, 20% rayon, 13% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip inseam rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
   Updated: 2025-09-17T12:27:30Z
@@ -365,7 +365,7 @@
   Updated: 2025-09-11T20:30:41Z
   Price: $32.15 USD
 - [Washed Wide Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/washed-wide-leg-jeans-with-pockets): Features: Basic style Stretch: No stretch Material composition: 72% cotton, 26% polyester, 2% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Inseam Waist Hip 4 38.6 28 26.6 35.8 6 39 28.1 27.8 37 8 39.4 28.3 28.7 38.2 10 39.8 28.5 29.7 39.4 12 40.2 28.7 31.3 40.6 14 40.6 28.9 32.9 42.1 16 40.9 29 34.4 43.7 - Fashionqueene.com
-  Updated: 2025-09-18T10:21:25Z
+  Updated: 2025-09-19T14:50:37Z
   Price: $41.15 USD
 - [Contrast Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/contrast-straight-leg-jeans-with-pockets): Features: Basic style Stretch: No stretch Material composition: 95% Rayon, 5% Polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length S 4 29.9 40.2 40.6 M 6/8 31.5 41.7 40.9 L 10/12 33.9 44.1 41.3 XL 14 36.2 46.5 41.7 - Fashionqueene.com
   Updated: 2025-09-11T20:30:41Z
@@ -563,7 +563,7 @@
   Updated: 2025-09-14T16:38:46Z
   Price: $46.15 USD
 - [Judy Blue Full Size Wide Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-wide-leg-jeans-with-pockets): Wide Leg Jeans with Pockets are a trendy and versatile option for those looking to make a statement with their outfit. The wide-leg silhouette offers a relaxed and vintage-inspired look, while the addition of pockets provides both style and functionality. Pair these jeans with a tucked-in blouse and some statement accessories for a fashion-forward ensemble. Style #: 82625 Features: Basic style Waist line: High waist Stretch: Moderate stretch Material composition: 93% cotton, 5% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-18T15:42:10Z
+  Updated: 2025-09-19T15:53:30Z
   Price: $47.15 USD — $49.15 USD
 - [Judy Blue Full Size Washed Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-washed-straight-leg-jeans-with-pockets): Washed Straight Leg Jeans with Pockets are a practical and fashionable choice for your everyday wardrobe. The washed finish gives them a laid-back and casual feel, while the straight leg cut offers a flattering silhouette. The addition of pockets adds functionality and convenience, making these jeans a perfect blend of style and practicality. Style #: 82631 Features: Basic style, Pocketed Stretch: Slightly stretchy Material composition: 93.7% cotton, 5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 31 10 1/25 24 30 31 10 3/26 25 31 31 10.5 5/27 26 32 31 10.5 7/28 27 33 31 11 9/29 28 34 31 11 11/30 29 35 31 11 13/31 30 37 31 11.5 15/32 31 38 31 11.5 14W 31 40 31 11.5 16W 30 40 31 12 18W 32 42 31 12 20W 35 45 31 12 22W 37 47 31 12.5 24W 39 50 31 12.5 - Fashionqueene.com
   Updated: 2025-09-17T18:18:13Z
@@ -650,7 +650,7 @@
   Updated: 2025-09-19T05:52:51Z
   Price: $11.68 USD — $13.70 USD
 - [Metallic No-stick Cup Lip Gloss Glitter Matte Moisturizing Waterproof Long Lasting - Fashionqueene.com](https://fashionqueene.com/products/metallic-no-stick-cup-lip-gloss-glitter-matte-moisturizing-waterproof-long-lasting-lip-glaze-liquid-lipstick-lip-makeup-cosmetic): Achieve a long-lasting, glamorous look with our Metallic No-stick Cup Lip Gloss. The glittery, matte finish adds a touch of sparkle while keeping lips moisturized and protected. Waterproof and non-sticky, this liquid lipstick is the perfect addition to your makeup collection. SPECIFICATIONS Brand Name: NoEnName_Null Origin: Mainland China Benefit: Moisturizer Benefit: Hydrating Benefit: Nutritious Benefit: other Hign-concerned Chemical: None NET WT: 2.5ml Model Number: Glitter lip gloss Size: Full Size Certificate Number: Lip makeup Quantity: 1pcs Type: Lip Gloss Country/Region of Manufacture: CHINA Certification: GZZZ GZZZ: YGZWBZ Ingredient: Liquid lipstick Number of Pieces: One Unit Item: Glitter Metallic Lip Gloss Color: 12 colors for choose Feature: Glitter, metallic, shimmer Choice: yes semi_Choice: yes - Fashionqueene.com
-  Updated: 2025-09-19T07:02:45Z
+  Updated: 2025-09-19T14:21:57Z
   Price: $23.59 USD — $23.98 USD
 - [Double End Glitter Matte Eye shadow Stick Pencil Waterproof Bicolor Shimmer - Fashionqueene.com](https://fashionqueene.com/products/qibest-double-end-glitter-matte-eye-shadow-stick-pencil-eyeshadow-makeup-waterproof-bicolor-shimmer-cosmetics-beauty-makeup-tool): Expertly designed for effortless eye makeup application, the QIBEST Double End Glitter Matte Eye shadow Stick Pencil offers the perfect combination of glitter and matte finishes. Waterproof for long-lasting wear, this versatile eyeshadow tool will enhance your natural beauty and elevate your makeup game. SPECIFICATIONS Brand Name: QiBest Origin: Mainland China Manufacturer: QIBEST NET WT: 1.5g+1.5g Distributor/Importer: Liquid Eyeshadow Size: Full Size Single color/multi-color: Two Colors Certificate Number: Double-headed Liquid Eye Shadow Model Number: Q2332 Double-headed Liquid Eye Shadow Finish: Matte Finish: Natural Shelf Life: 3 years Benefit: Long-lasting Benefit: Easy to Wear Benefit: Natural Benefit: Waterproof / Water-Resistant Date of Manufacture: New Quantity: 1 Ingredient: Eyeshadow Country/Region of Manufacture: CHINA Certification: GZZZ Type: Eye Shadow Waterproof / Water-Resistant: Yes Number of Pieces: One Unit Specification: Type: Pearl +Matte liquid eyeshadow Brand: QIBEST Net Weight: 1.5g+1.5g Target skin types: All skin Color:6 colors for choice Function：Create a beautiful eye makeup. Description: *Fine Matte *Fast-drying & smooth, light hold *everyday Versatile Eye Makeup *Lightweight & silky *Double-headed design *Fine sparkle+Lightweight Soft Mist Features: 【Delicate liquid texture】Silky smooth, light and easy to push. 【Maintain makeup & color display】Waterproof and sweatproof No fear of makeup removal. 【Multiple Occasions】It’s silky, make up your lips lightly, suitable for all seasons makeup, especially in the office, dating, shopping, summer party with friends. This is a very convenient, very beautiful lip makeup set, easy to wear. Notes: 1. Due to lighting effect and computer color, the actual colors may be slightly different from the picture . 2. Store in a normal temperature 3. Keep far away from children - Fashionqueene.com
   Updated: 2025-09-19T10:29:52Z
@@ -2902,16 +2902,16 @@
   Updated: 2025-09-19T09:52:01Z
   Total Products: 1179
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-19T09:51:51Z
+  Updated: 2025-09-19T12:44:43Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
   Updated: 2025-09-19T09:51:27Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-19T09:51:58Z
+  Updated: 2025-09-19T13:12:36Z
   Total Products: 545
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
-  Updated: 2025-09-19T10:07:54Z
+  Updated: 2025-09-19T12:47:22Z
   Total Products: 327
 - [Men's Shoes - Fashionqueene.com](https://fashionqueene.com/collections/mens-shoes): Sneakers, running, loafers, slip-on's, boots, sandals, flip flops, swim shoes, leather shoes, casual, driving shoes, slippers, Beach shoes, work shoes - Fashionqueene.com
   Updated: 2025-09-19T10:23:03Z
@@ -2926,7 +2926,7 @@
   Updated: 2025-09-19T09:46:45Z
   Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-19T10:23:03Z
+  Updated: 2025-09-19T12:47:14Z
   Total Products: 1772
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
   Updated: 2025-09-19T10:29:53Z
@@ -2941,7 +2941,7 @@
   Updated: 2025-09-16T01:15:22Z
   Total Products: 313
 - [Ladies Loungewear - Fashionqueene.com](https://fashionqueene.com/collections/ladies-loungewear): Robes, night shirts, two PCs short pajamas, - Fashionqueene.com
-  Updated: 2025-09-19T09:15:40Z
+  Updated: 2025-09-19T12:13:46Z
   Total Products: 63
 - [Women's Dresses - Fashionqueene.com](https://fashionqueene.com/collections/womens-dresses): women's dresses, Long dresses, Maxi, mini, two-piece, suits, office casual, sundresses cute dresses, casual dresses, women's fashion casual skirts, fashion 2024 dresses, fashion winter dresses, fall dresses - Fashionqueene.com
   Updated: 2025-09-19T10:17:59Z
@@ -2962,7 +2962,7 @@
   Updated: 2025-09-19T09:49:23Z
   Total Products: 151
 - [Men's Pant's - Fashionqueene.com](https://fashionqueene.com/collections/mens-pants): #sweatpants, #cargo Pants, #distressed jeans, #Dress pants, #trousers, #carpenter pants, #leather pants, #hip hop pants - Fashionqueene.com
-  Updated: 2025-09-19T10:06:16Z
+  Updated: 2025-09-19T12:47:17Z
   Total Products: 236
 - [Maternity Wear - Fashionqueene.com](https://fashionqueene.com/collections/maternity-wear): "maternity dress" maternity blouses" Maternity pants" maternity sweater dresses" maternity shorts" maternity shape wear" postpartum belts" - Fashionqueene.com
   Updated: 2025-09-16T01:15:24Z
@@ -3001,7 +3001,7 @@
   Updated: 2025-09-19T09:16:32Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-19T10:29:53Z
+  Updated: 2025-09-19T13:12:36Z
   Total Products: 4646
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
