@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-19T04:00:35.227Z
+- Updated At: 2025-09-19T08:00:36.368Z
 
 ## Products
 
@@ -1453,7 +1453,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Steam-Board-Pepper-Black-9.png?v=1727659968
   Price: $99.99 NZD
 - [Brabantia Linn Steam Board - Grey](https://everydayhome.co.nz/products/linn-steam-board-grey): Steaming clothes gets rid of pesky wrinkles and takes less time and effort than ironing. And with the Brabantia Linn Steam Board, steaming is even faster and easier. This smart Steam Board helps you put pressure on the creases, for better results.
-  Updated: 2025-09-08T23:10:06Z
+  Updated: 2025-09-19T07:52:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2313,13 +2313,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-5-Piece-Cookware-Set-Essteele-3.jpg?v=1731903308
   Price: $824.99 NZD
-- [Estique Mirror W/ Hooks - White](https://everydayhome.co.nz/products/estique-mirror-w-hooks-white): A mirror with integrated storage, Estique features six wooden hooks to protect items while adding a decorative touch. Its integrated tray is perfect to hold your phone, wallet, keys, candles and more, while its mirror provides functionality to touch-up before heading out the door. Its modern mix of wood and metal make it a decorative storage solution that will look great in any home or office space.
-  Updated: 2025-09-08T23:14:55Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Mirror-W-Hooks-White-UMBRA-1.jpg?v=1731903297
-  Price: $126.99 NZD
 - [Estique Multi Organiser - White](https://everydayhome.co.nz/products/estique-multi-organiser-white): Estique Multi Organizer by Umbra features 14 hooks, providing easy access to your belongings. Estique can be either wall-mounted, or hung over a door using over-the-door hooks that are included. In addition to adding a warm touch to Estique’s design, these pegs prevent delicate items from pulling or snagging.
   Updated: 2025-09-08T23:14:56Z
   Vendor: UMBRA
@@ -3084,7 +3077,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DigitalKitchenScales-DarkGrey-8710755122644Brabantia_96dpi_1000x1000px_7_NR-15691.png?v=1733866488
   Price: $92.99 NZD
 - [Brabantia Kitchen Utensils Set Nonstick - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-set-n-stick-c): No more sticky situations in your kitchen with this Profile Non-Stick Kitchen Utensils Set. This top-team consists of a Soup Ladle, Vegetable Spoon, Spatula and Skimmer. All with durable stainless steel grips and nylon non-stick tops. For cooking with confidence.
-  Updated: 2025-09-18T07:37:07Z
+  Updated: 2025-09-19T04:52:05Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4175,7 +4168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-SoftBeige-8710755149986Brabantia_300dpi_2000x2000px_9_NR-27507.jpg?v=1755046435
   Price: $229.99 NZD
 - [Brabantia New Touch Bin - 30L Dreamy Blue](https://everydayhome.co.nz/products/touch-bin-new-30l-dreamy-blue): Ready for the next step in organising your home? Get your hands on the Brabantia Touch Bin 30 litre. Just touch the lid and it opens smoothly. It really is seriously easy – to open, to change the bin bags, to clean... This touch bin also has a round design, is sturdy, and protects your floor thanks to the protection rim. Bring on the years of intensive, problem free use with 30 litres of value for money.
-  Updated: 2025-09-17T06:23:16Z
+  Updated: 2025-09-19T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
