@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-19T00:02:30.105Z
+- Updated At: 2025-09-19T04:02:33.072Z
 
 ## Products
 
@@ -224,7 +224,7 @@
   Updated: 2025-09-11T20:30:59Z
   Price: $113.00 USD
 - [Judy Blue Full Size Raw Hem High Rise Bootcut Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-raw-hem-high-rise-bootcut-jeans): Raw hem high rise bootcut jeans are a trendy and stylish denim option for a fashionable look. These jeans typically feature a high-rise waist that sits above the natural waistline, elongating the legs and providing a flattering silhouette. Style #: 82486 Features: Basic style, Raw Hem Stretch: Moderate stretch Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-17T02:38:35Z
+  Updated: 2025-09-19T03:19:16Z
   Price: $72.00 USD — $73.00 USD
 - [Davi & Dani Flap Pocket Mid Rise Cargo Pants - Fashionqueene.com](https://fashionqueene.com/products/davi-dani-flap-pocket-mid-rise-cargo-pants-1): Flap Pocket Mid Rise Cargo Pants are stylish and functional bottoms with flap pockets for added detail and practicality. Featuring a mid-rise waist, these pants offer a flattering fit that sits comfortably on the hips. The flap pockets provide a trendy utilitarian touch, perfect for keeping small essentials secure. Features: Basic style, Pocketed Sheer: Opaque Material composition: 50% rayon, 45% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 26-28 in, HIP 36-38 in M:Waist 29-31 in, HIP 39-41 in L:Waist 32-33 in, HIP 42-43 in - Fashionqueene.com
   Updated: 2025-09-11T20:30:58Z
@@ -539,7 +539,7 @@
   Updated: 2025-09-11T20:30:17Z
   Price: $48.68 USD
 - [Pink Smocked Cuffed Striped Boyfriend Shirt with Pocket - Fashionqueene.com](https://fashionqueene.com/products/pink-smocked-cuffed-striped-boyfriend-shirt-with-pocket): Size Chart (INCH) Sizes Bust Sleeve Length Length Hem Width Relax Relax Relax Relax XS 39.0 27.6 28.3 43.3 S 40.9 28.1 29.1 45.3 M 42.9 28.7 29.9 47.2 L 44.9 29.3 30.7 49.2 XL 48.0 30.2 31.5 52.4 2XL 51.2 31.1 32.3 55.5 XXL 51.2 31.1 32.3 55.5 Elasticity None Size Chart (CM) Sizes Bust Sleeve Length Length Hem Width Relax Relax Relax Relax XS 99 70 72 110 S 104 71.5 74 115 M 109 73 76 120 L 114 74.5 78 125 XL 122 76.8 80 133 2XL 130 79.1 82 141 XXL 130 79.1 82 141 Elasticity None This oversize fit is sure to make the wearer feel slender and fashionable Turn-down collar, long sleeves with smocked cuffs, bust pocket and front button closures Perfect to wear daily or as a beach cover-up matching with a bikini You can also wholesale pants to complete the look - Fashionqueene.com
-  Updated: 2025-09-18T16:19:56Z
+  Updated: 2025-09-19T01:22:56Z
   Price: $28.50 USD
 - [Cotton Linen Shirt Long Sleeve Women Spring Summer Clothing Solid Button Back Ruffled Trim Blouse Casual T Shirt Women Pack - Fashionqueene.com](https://fashionqueene.com/products/cotton-linen-shirt-long-sleeve-women-spring-summer-clothing-solid-button-back-ruffled-trim-blouse-casual-t-shirt-women-pack): This Cotton Linen Shirt is perfect for the warmer seasons, providing a breathable and comfortable option for everyday wear. The long sleeves offer added coverage and the ruffled trim adds a touch of femininity. The button back detail adds a stylish twist to this classic blouse. Enjoy this pack of versatile and easy-to-style t-shirts. SPECIFICATIONS Brand Name: NoEnName_Null Style: Casual Elasticity: High Strecth Origin: Mainland China Season: All season Fabric Type: Broadcloth Material: POLYESTER Pattern Type: Print Fit Type: Regulai Fit Age: MIDDLE AGE Thickness: midweight Clothing Length: regular Decoration: none Shirts Type: Casual Shirts Place Of Origin: China (mainland) Dress Patterns: Pullover Fabric content: 81% (inclusive) - 90% (inclusive) Collar: Turtleneck Sleeve Style: regular Model Number: 1 Material Composition: synthetic fiber Sleeve Length(cm): Full Combination Form: Single-piece Set Gender: WOMEN Craft of Weaving: Knit Release Date: Autumn 2022 Clothing Patterns: STRAIGHT Women Spring Summer Clothing Solid Button Back Ruffled Trim Blouse Casual Short Sleeve Blouse Features: Cotton Short Sleeve Shirts with sleeve tabs is a fashion style and a must-have item in everyone's wardrobe, make you look slim and refreshed. VERSATILE - Easy to with jeans or skirt for an style. You can also wear it as a bikini over-up on beach. It will be on call all Spring, Summer and Autumn, or paired with a cardigan for the chilly days. Laundry Wash Care: HAND WASH OR MACHINE WASH ON A LOW TEMPERATURE(cold or lukewarm) with a mild and using the delicate cycle as our shirts are made of cotton which will shrink when subjected to high heat. To shrinking, you should use appropriate protocols, i.e., cold water, delicate wash cycles, and low dryer settings. Whether it is leisure, office, school, vacation, beach, party, it can be a perfect . Due to the different resolution of the computer ,there may be some color difference. Product Description: Season: All Gender: Women Material: Cotton Decoration: None Sleeve Length: Short Sleeve Pattern Type: Solid Style: Fashion, Casual Size Bust Sleeve Front Length Back Length S 102cm/40.16'' 24.5cm/9.65'' 62cm/24.41'' 78cm/30.71'' M 108cm/42.52'' 25.5cm/10.04'' 63cm/24.80'' 79cm/31.10'' L 114cm/44.88'' 26.5cm/10.43'' 64cm/25.20'' 80cm/31.50'' XL 120cm/47.24'' 27.5cm/10.83'' 65cm/25.59'' 81cm/31.89'' XXL 126cm/49.61'' 28.5cm/11.22'' 66cm/25.98'' 82cm/32.28'' Size:S Bust:102cm/40.16'' Sleeve:24.5cm/9.65'' Front Length:62cm/24.41'' Back Length:78cm/30.71'' Size:M Bust:108cm/42.52'' Sleeve:25.5cm/10.04'' Front Length:63cm/24.80'' Back Length:79cm/31.10'' Size:L Bust:114cm/44.88'' Sleeve:26.5cm/10.43'' Front Length:64cm/25.20'' Back Length:80cm/31.50'' Size:XL Bust:120cm/47.24'' Sleeve:27.5cm/10.83'' Front Length:65cm/25.59'' Back Length:81cm/31.89'' Size:XXL Bust:126cm/49.61'' Sleeve:28.5cm/11.22'' Front Length:66cm/25.98'' Back Length:82cm/32.28'' - Fashionqueene.com
   Updated: 2025-09-17T08:15:55Z
@@ -653,7 +653,7 @@
   Updated: 2025-09-16T07:58:37Z
   Price: $11.68 USD — $13.70 USD
 - [Metallic No-stick Cup Lip Gloss Glitter Matte Moisturizing Waterproof Long Lasting - Fashionqueene.com](https://fashionqueene.com/products/metallic-no-stick-cup-lip-gloss-glitter-matte-moisturizing-waterproof-long-lasting-lip-glaze-liquid-lipstick-lip-makeup-cosmetic): Achieve a long-lasting, glamorous look with our Metallic No-stick Cup Lip Gloss. The glittery, matte finish adds a touch of sparkle while keeping lips moisturized and protected. Waterproof and non-sticky, this liquid lipstick is the perfect addition to your makeup collection. SPECIFICATIONS Brand Name: NoEnName_Null Origin: Mainland China Benefit: Moisturizer Benefit: Hydrating Benefit: Nutritious Benefit: other Hign-concerned Chemical: None NET WT: 2.5ml Model Number: Glitter lip gloss Size: Full Size Certificate Number: Lip makeup Quantity: 1pcs Type: Lip Gloss Country/Region of Manufacture: CHINA Certification: GZZZ GZZZ: YGZWBZ Ingredient: Liquid lipstick Number of Pieces: One Unit Item: Glitter Metallic Lip Gloss Color: 12 colors for choose Feature: Glitter, metallic, shimmer Choice: yes semi_Choice: yes - Fashionqueene.com
-  Updated: 2025-09-18T05:44:28Z
+  Updated: 2025-09-19T01:11:30Z
   Price: $23.60 USD — $23.99 USD
 - [Double End Glitter Matte Eye shadow Stick Pencil Waterproof Bicolor Shimmer - Fashionqueene.com](https://fashionqueene.com/products/qibest-double-end-glitter-matte-eye-shadow-stick-pencil-eyeshadow-makeup-waterproof-bicolor-shimmer-cosmetics-beauty-makeup-tool): Expertly designed for effortless eye makeup application, the QIBEST Double End Glitter Matte Eye shadow Stick Pencil offers the perfect combination of glitter and matte finishes. Waterproof for long-lasting wear, this versatile eyeshadow tool will enhance your natural beauty and elevate your makeup game. SPECIFICATIONS Brand Name: QiBest Origin: Mainland China Manufacturer: QIBEST NET WT: 1.5g+1.5g Distributor/Importer: Liquid Eyeshadow Size: Full Size Single color/multi-color: Two Colors Certificate Number: Double-headed Liquid Eye Shadow Model Number: Q2332 Double-headed Liquid Eye Shadow Finish: Matte Finish: Natural Shelf Life: 3 years Benefit: Long-lasting Benefit: Easy to Wear Benefit: Natural Benefit: Waterproof / Water-Resistant Date of Manufacture: New Quantity: 1 Ingredient: Eyeshadow Country/Region of Manufacture: CHINA Certification: GZZZ Type: Eye Shadow Waterproof / Water-Resistant: Yes Number of Pieces: One Unit Specification: Type: Pearl +Matte liquid eyeshadow Brand: QIBEST Net Weight: 1.5g+1.5g Target skin types: All skin Color:6 colors for choice Function：Create a beautiful eye makeup. Description: *Fine Matte *Fast-drying & smooth, light hold *everyday Versatile Eye Makeup *Lightweight & silky *Double-headed design *Fine sparkle+Lightweight Soft Mist Features: 【Delicate liquid texture】Silky smooth, light and easy to push. 【Maintain makeup & color display】Waterproof and sweatproof No fear of makeup removal. 【Multiple Occasions】It’s silky, make up your lips lightly, suitable for all seasons makeup, especially in the office, dating, shopping, summer party with friends. This is a very convenient, very beautiful lip makeup set, easy to wear. Notes: 1. Due to lighting effect and computer color, the actual colors may be slightly different from the picture . 2. Store in a normal temperature 3. Keep far away from children - Fashionqueene.com
   Updated: 2025-09-12T07:59:47Z
@@ -695,7 +695,7 @@
   Updated: 2025-09-11T20:30:00Z
   Price: $47.23 USD — $74.96 USD
 - [Cozy Chic: Brown and Gray Striped Fur-Lined Street Jacket - Fashionqueene.com](https://fashionqueene.com/products/cozy-chic-brown-and-gray-striped-fur-lined-street-jacket): Stay warm and stylish in our Cozy Chic jacket. Featuring a soft faux-fur lining and a sleek striped design, this jacket is perfect for chilly days. Expertly crafted for ultimate comfort and warmth. Details : Zipper Sleeve Type : Drop Shoulder Placket : Zipper Style : Casual Neckline : Collar Hem Shaped : Tight Hem Color : Grey Pattern Type : Colorblock, Plain, Striped, Tie Dye, Textured Pattern Sleeve Length : Long Sleeve Length : Regular Fit Type : Regular Fit Fabric : Non-Stretch Material : Flannelette Composition : 100% Polyester Care Instructions : Machine wash, do not dry clean Temperature : Winter (<10℃/50℉) Lined For Added Warmth : No Body : Lined Sheer : No Lining : 100% Polyester US Size Shoulder Length Sleeve Length Bust Cuff Bicep Length 2 XS 18.3 17.4/18.7 22.2 38.6 6.7 13.6 4 S 19.1 17.9/19.2 22.4 40.2 7.1 14.2 6 M 19.9 18.4/19.7 22.6 41.8 7.5 14.7 8/10 L 20.8 18.9/20.2 22.7 44.1 8.1 15.6 - Fashionqueene.com
-  Updated: 2025-09-11T20:30:00Z
+  Updated: 2025-09-19T01:17:45Z
   Price: $45.79 USD
 - [Makeup Gift Box: All-in-One Beauty Essentials for a Glamorous Look! - Fashionqueene.com](https://fashionqueene.com/products/valentines-day-surprise-makeup-gift-box-all-in-one-beauty-essentials-for-a-glamorous-look): Get ready to wow your special someone this Valentine's Day with our Surprise Makeup Gift Box! Packed with all-in-one beauty essentials, this box will give you a glamorous look that is sure to impress. From stunning eyeshadow palettes to long-lasting lip colors, this gift box has everything you need to create the perfect makeup look. Show your love with the gift of beauty. Texture : Cream Color : Red Finish : Matte, High-Shine, Metallic Benefits : Long-Wearing, Waterproof, Smudge Proof Type : Eye Makeup Sets, Face Makeup Sets, Lip Sets - Fashionqueene.com
   Updated: 2025-09-11T20:29:59Z
@@ -1607,8 +1607,8 @@
   Updated: 2025-09-11T20:28:21Z
   Price: $29.96 USD
 - [Solid See Through Tshirt O-Neck Long Sleeve Oversized T Shirt For Women - Fashionqueene.com](https://fashionqueene.com/products/solid-see-through-tshirt-women-sexy-tops-o-neck-long-sleeve-oversized-t-shirt-for-women-clothing-club-y2k-aesthetic-egirl-tees): Get ready to turn heads with our Solid See Through Tshirt! This sexy top features a sheer design, perfect for adding a touch of edginess to your outfit. The oversized fit and long sleeves make it ideal for any body type. Perfect for clubbing or achieving that Y2K aesthetic! SPECIFICATIONS Brand Name: Vamos Todos Style: Sexy & Club Age: JUNIOR Origin: Mainland China CN: Zhejiang Season: Summer Clothing Length: long（26+inch） Decoration: PATCHWORK Elasticity: Non Strech Sleeve Style: regular Fabric Type: Mesh Fabric Hign-concerned Chemical: Actinomycin D Material: POLYESTER Material: SPANDEX Pattern Type: Solid Sleeve Length(cm): Full Fit: Fits true to size, take your normal size Pattern Them: magic Craft of Weaving: Knit Tops Type: TEES Release Date: Spring 2024 Item Type: tops Gender: WOMEN Collar: O-Neck Model Number: VT1D21TP425 Tshirt Women Fit Type: LOOSE Pattern: Solid Color: Black,Blue Green,Apricot Type: T Shirt For Women Fabric: 91%-99% Polyester Size: S,M,L Fitting: Oversized T Shirt Fabric2: 10% Spandex Style: Casual Collar: O-Neck Decor: Patchwork, See Through Closure: Pullover PN: VT1D21TP425 Tshirt Women Cloth: Polyester Sleeve: Regular Age Appropriate: 18-35 Length: Long Season: 2022 Summer Sleeve: Long Sleeve Solid See Through Tshirt Women Sexy Tops O-Neck Long Sleeve Oversized T Shirt For Women Clothing Club Y2k Aesthetic Egirl Tees Size Reference Women Sexy Tops Model Show T Shirt For Women Real Photo Y2k Aesthetic Detail Tshirt Women Solid See Through Tshirt Women Sexy Tops O-Neck Long Sleeve Oversized T Shirt For Women Clothing Club Y2k Aesthetic Egirl Tees Delivery Time Questions and Answers: 1. Which size is suitable for me?We'd love to advise based on your measurements of bust/ waist /hip and weight/height.2.Ruturn & Refund?Full refund if you don't receive your order.Full or Partial Refund, if the item is not as described.3. How long to ship order?We usually handle your order within 1-2 business days to arrange the shipment.4. How can I track my parcel?Aliexpress Standard Shipping: https://global.cainiao.com/ePacket: https://www.17track.net/en Please kindly notice: About ColorPlease note, there are some differences between each monitor and lighting environment. The photos may not reflect 100% of the actual color. Some color transparencies and minor coloring differences may be present. Slight difference of color is not a quality problem.About SizePlease note, there may be 1-3cm tolerance with manual measurement. Thanks for your understanding.About ShippingPlease note we will ship out within 7 working days.The parcel will be sent by China Post Air Mail, Epacket, Aliexpress Saver and Standard Shipping.We also accept DHL, UPS, TNT, EMS or other fast shipping ways.Please kindly notice the delivery time is only for reference. Sometimes it might delay by holiday, festival, weather, custom, etc.About ReturnPlease note: Man made defects are not guaranteed, such as damage after use, water damage and so on.1. If you are not satisfied with your items, you can exchange the item, but the buyer is responsible for all further shipping fees.2. If you wish to exchange defective or incorrect shipped items, you can do as this:Step 1) E-mail to us within 7 working days or chat with us by Trade Manager.Step 2) Send the photos to us about the problems of the items or something else detailsStep 3) Return the items to us with tracking number, then we will delivery the right item to you immediately.About Feedback1. Positive Feedback (5 stars) is very important to us, please think twice before leaving feedback.2. Please contact us before leaving neutral (3 stars) or negative (1-2 stars) feedback. We will try our best to solve the problems and please trust us! - Fashionqueene.com
-  Updated: 2025-09-17T04:13:20Z
-  Price: $32.49 USD
+  Updated: 2025-09-19T03:07:50Z
+  Price: $32.47 USD
 - [Black Leather Crop Top Ladies Slim Tank Tops Wear Tanks Women Clothing - Fashionqueene.com](https://fashionqueene.com/products/sexy-y2k-black-leather-crop-top-ladies-slim-tank-tops-2025-summer-vest-femme-fashion-club-party-wear-tanks-women-clothing): Get ready to turn heads with our Sexy Y2K Black Leather Crop Top! Made for the fashion-forward club-goer, this slim tank top is perfect for your summer party needs. The faux leather adds a touch of edginess, making you stand out in a sea of boring tanks. Elevate your style game with our latest femme fashion piece. SPECIFICATIONS Brand Name: ZOMAXIUJEE Elasticity: Slight Strech Fabric Type: Broadcloth Material: POLYESTER Hign-concerned Chemical: None Pattern Type: Solid Craft of Weaving: TAT Age: MIDDLE AGE Style: Sexy & Club Clothing Length: short（4-16inch） Origin: Mainland China Season: Spring/Summer Decoration: Backless Gender: WOMEN Tops Type: TANK TOPS Release Date: Autumn 2024 Item Type: tops Place Of Origin: China (mainland) crop top: tops ropa mujer: tops women tank top: ropa de mujer top mujer: topy women clothes: vetement femme debardeur femme: gothic top crop: bustier top Womens Glitter Strappy Tank Tops Ladies Sexy Patent Leather Vest Sexy Short Top Please check the Size Chart before order. If you are not sure the size, please send message to us. Item specifics Season: Winter Gender: Women Material: Polyester Decoration: None Clothing Length: Regular Sleeve Length: Sleeveless Collar: Turtleneck Style: Fashion,Causal Features: 1. It is made of high quality materials,durable enought for your daily wearing 2. Stylish and fashion make you more attractive 3. Great for party,Daily,Beach,I am sure you will like it! Package include 1PC Tops Size US Size UK Size EU Size Bust Length S 4 8 34 78-88cm/30.71-34.65'' 50cm/19.69'' M 6 10 36 80-90cm/31.50-35.43'' 51cm/20.08'' L 8 12 38 82-92cm/32.28-36.22'' 52cm/20.47'' XL 10 14 40 84-94cm/33.07-37.01'' 53cm/20.87'' - Fashionqueene.com
   Updated: 2025-09-17T08:16:56Z
   Price: $21.81 USD — $22.08 USD
@@ -1879,7 +1879,7 @@
   Updated: 2025-09-14T09:50:48Z
   Price: $42.15 USD
 - [Faux Two Piece Floral Long Sleeve Patchwork Top - Fashionqueene.com](https://fashionqueene.com/products/faux-two-piece-floral-long-sleeve-patchwork-top): Features: Lace Detail Sheer: Semi-sheer Stretch: Slightly stretchy Material composition: 65% polyester, 30% viscose, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 4 24.6 19.7 43.7 20.5 M 6/8 25.4 20.9 46.1 20.7 L 10/12 26.2 22 48.4 20.9 XL 14/16 27 23.6 51.6 20.9 - Fashionqueene.com
-  Updated: 2025-09-18T05:40:36Z
+  Updated: 2025-09-19T02:41:30Z
   Price: $26.15 USD
 - [Full Size Adjustable Strap Modal Cami with Bra - Fashionqueene.com](https://fashionqueene.com/products/full-size-adjustable-strap-modal-cami-with-bra): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 95% viscose, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length S 2/4 29.5 20.9 M 6/8 31.5 21.3 L 10 33.5 21.7 XL 12 35.4 22 2XL 14 37.4 22.4 3XL 16 39.4 22.8 - Fashionqueene.com
   Updated: 2025-09-17T01:07:16Z
@@ -2893,28 +2893,28 @@
 ## Collections
 
 - [Ladies Plus - Fashionqueene.com](https://fashionqueene.com/collections/ladies-plus): Plus size tops, cami's, short sleeves plus size, plus tank tops, Long sleeves plus, shorts, skorts, dresses, tank tops, hoodies, Maxi, demi, Mini dresses, outfit sets, office wear, active wear, sweat pants, sweat shirts - Fashionqueene.com
-  Updated: 2025-09-17T11:09:21Z
+  Updated: 2025-09-19T03:19:49Z
   Total Products: 341
 - [Ladies Coats and Jackets - Fashionqueene.com](https://fashionqueene.com/collections/ladies-coats-and-jackets): Coats, hoodies, sweaters, cardigans, puffy jackets, denim, long coats, faux fur, leather coats, leather jackets - Fashionqueene.com
   Updated: 2025-09-18T11:49:47Z
   Total Products: 134
 - [Ladies Fashions - Fashionqueene.com](https://fashionqueene.com/collections/ladies-fashions): Casual to dressy dresses, office, party, formal dresses, cami, midi, maxi, long, pants, shorts, active wear, blouses, office, party, overalls, rompers, crop tops, t-shirts, skorts, active wear, cargo pants, - Fashionqueene.com
-  Updated: 2025-09-18T17:46:24Z
+  Updated: 2025-09-19T03:41:26Z
   Total Products: 1175
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-18T17:40:58Z
+  Updated: 2025-09-19T03:40:40Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-18T14:16:59Z
+  Updated: 2025-09-19T03:29:29Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
   Updated: 2025-09-18T16:19:09Z
   Total Products: 545
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
-  Updated: 2025-09-18T11:55:47Z
+  Updated: 2025-09-19T03:47:02Z
   Total Products: 324
 - [Men's Shoes - Fashionqueene.com](https://fashionqueene.com/collections/mens-shoes): Sneakers, running, loafers, slip-on's, boots, sandals, flip flops, swim shoes, leather shoes, casual, driving shoes, slippers, Beach shoes, work shoes - Fashionqueene.com
-  Updated: 2025-09-17T11:09:08Z
+  Updated: 2025-09-19T03:46:52Z
   Total Products: 102
 - [Baby-Teen Girls - Fashionqueene.com](https://fashionqueene.com/collections/new-born-teen-girls): Everyday wear, school,formal,parties, High-qualty materials to handle all acrivities children get into girls - Fashionqueene.com
   Updated: 2025-09-17T09:31:18Z
@@ -2926,7 +2926,7 @@
   Updated: 2025-09-18T16:02:36Z
   Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-18T20:16:58Z
+  Updated: 2025-09-19T03:46:56Z
   Total Products: 1760
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
   Updated: 2025-09-18T12:34:32Z
@@ -2950,19 +2950,19 @@
   Updated: 2025-09-17T11:06:47Z
   Total Products: 76
 - [Women's Pants - Fashionqueene.com](https://fashionqueene.com/collections/womens-pants): Jeans, leggings, trousers, pull-on's, flare, hip hugger's, denim,pants for women, dress pants, dress pants women - Fashionqueene.com
-  Updated: 2025-09-18T11:53:31Z
+  Updated: 2025-09-19T03:13:28Z
   Total Products: 457
 - [Women's Tops - Fashionqueene.com](https://fashionqueene.com/collections/womens-tops): women's tops, Blouses, crop tops, knitted, short sleeves, cold shoulder, t-shirts, pull over, women's tops on sale, - Fashionqueene.com
-  Updated: 2025-09-18T17:46:24Z
+  Updated: 2025-09-19T03:41:03Z
   Total Products: 380
 - [Women's Shorts - Fashionqueene.com](https://fashionqueene.com/collections/womens-shorts): Denim shorts, cargo shorts, elastic waist, gym shorts, casual - Fashionqueene.com
   Updated: 2025-09-17T11:06:51Z
   Total Products: 119
 - [Men's Shirts - Fashionqueene.com](https://fashionqueene.com/collections/mens-shirts): #Polo shirts, #pullover shirts, #t-shirts, #Button down, #Men's cardigans, #sports shirts - Fashionqueene.com
-  Updated: 2025-09-18T04:45:55Z
+  Updated: 2025-09-19T03:47:02Z
   Total Products: 151
 - [Men's Pant's - Fashionqueene.com](https://fashionqueene.com/collections/mens-pants): #sweatpants, #cargo Pants, #distressed jeans, #Dress pants, #trousers, #carpenter pants, #leather pants, #hip hop pants - Fashionqueene.com
-  Updated: 2025-09-18T11:51:40Z
+  Updated: 2025-09-19T03:46:50Z
   Total Products: 235
 - [Maternity Wear - Fashionqueene.com](https://fashionqueene.com/collections/maternity-wear): "maternity dress" maternity blouses" Maternity pants" maternity sweater dresses" maternity shorts" maternity shape wear" postpartum belts" - Fashionqueene.com
   Updated: 2025-09-16T01:15:24Z
@@ -2986,7 +2986,7 @@
   Updated: 2025-09-17T10:28:12Z
   Total Products: 39
 - [Ladies Summer Collection](https://fashionqueene.com/collections/ladies-spring-collection): Rompers, jumpsuits, overalls, short sleeve blouses, shorts, capris, t-shirts, tank tops, crop tops, skirts, jeans, graphics tees.
-  Updated: 2025-09-17T10:28:40Z
+  Updated: 2025-09-19T03:09:33Z
   Total Products: 275
 - [Men's Plus Sizes](https://fashionqueene.com/collections/mens-plus-sizes): Mens Plus size in shorts, jeans, suits, joggers, overall, polo shirts, t-shirts
   Updated: 2025-09-17T11:07:51Z
@@ -3001,7 +3001,7 @@
   Updated: 2025-09-18T08:14:40Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-18T20:16:58Z
+  Updated: 2025-09-19T03:47:02Z
   Total Products: 4644
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
