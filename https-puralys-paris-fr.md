@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-22T12:46:37Z
 - Contact Email: contact@puralys-paris.fr
-- Updated At: 2025-09-19T08:00:28.180Z
+- Updated At: 2025-09-19T20:00:28.232Z
 
 ## Products
 
