@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-18T12:00:28.875Z
+- Updated At: 2025-09-19T12:00:29.045Z
 
 ## Products
 
@@ -432,7 +432,7 @@
     Availability: Available
     Price: €32.45 EUR
 - [Turtleneck Sweater Women Fashion – 2024 New Stretch Knitted](https://lenoirandcollective.com/products/turtleneck-sweater-women-fashion-2024-new-stretch-tops-women-knitted-pullovers-long-sleeve-bottoming-knitted-sweater): Turtleneck Sweater Women Fashion offers 2024’s latest stretch knitted pullovers. Long sleeve and bottoming sweater perfect for layering and winter warmth
-  Updated: 2025-09-17T11:00:53Z
+  Updated: 2025-09-18T23:20:05Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -640,7 +640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/c08d09f4f2919e802a5fe309d7ed4a9c.jpg?v=1751481315
     Price: €49.50 EUR
 - [Luxury Women Handbag - Organic Tote & Crossbody 2025](https://lenoirandcollective.com/products/women-bag-hander-bag-for-women-2025-tote-bag-crossbody-bag-fashion-single-bag-for-women-sac-a-main-femme-luxury): Discover our stylish women bag collection, featuring organic materials and old money aesthetics in tote and crossbody designs.
-  Updated: 2025-09-11T15:48:04Z
+  Updated: 2025-09-18T15:29:10Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
