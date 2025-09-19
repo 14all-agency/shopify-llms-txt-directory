@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-19T16:00:35.865Z
+- Updated At: 2025-09-19T20:00:36.042Z
 
 ## Products
 
@@ -332,13 +332,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Silicone-Dish-Drying-Mat-Light-Grey-1.jpg?v=1727660074
   Price: $48.99 NZD
-- [Brabantia SinkSide Dish Brush with Suction Cup Holder - Dark Grey](https://everydayhome.co.nz/products/dish-brush-w-suction-cup-holder-dark-grey): Dish Brush W/Suction Cup Holder, Dark Grey
-  Updated: 2025-09-15T22:32:55Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Dish-Brush-with-Suction-Cup-Holder-Dark-3.jpg?v=1727659878
-  Price: $20.99 NZD
 - [Brabantia Linn Clothes Rack - Large Black](https://everydayhome.co.nz/products/linn-clothes-rack-large-black): Linn Clothes Rack, Large, Black
   Updated: 2025-09-08T23:09:49Z
   Vendor: BRABANTIA
@@ -3599,7 +3592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SwiftDry_Lifestyle_Folding_Laundry_Rack_22233_2.4meter_3.png?v=1746478927
     Price: $374.99 NZD
 - [White Replacement Rope - for SwiftDry Pulley Airer](https://everydayhome.co.nz/products/white-rope-replacement-for-lifestyle-pulley-airer): White Replacement Braided Rope for the SwiftDry Pulley Airers. 10M - for standard ceilings, 4 rail airer only 15M - for high ceilings, 4 rail and 6 rail airers (2.7m high ceiling and above)
-  Updated: 2025-09-08T23:20:44Z
+  Updated: 2025-09-19T19:10:57Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
