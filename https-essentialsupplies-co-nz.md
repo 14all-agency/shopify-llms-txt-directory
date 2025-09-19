@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-19T04:00:39.315Z
+- Updated At: 2025-09-19T12:00:37.956Z
 
 ## Products
 
@@ -6449,7 +6449,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/high-visibility-daynight-safety-vest-orange-2xl-120g-polyester-fabric-24-vests-safety-vests-essential-supplies-834786.jpg?v=1719445183
   Price: $199.00 NZD
 - [High Visibility Day/Night Safety Vest - Orange, 3XL, 120g Polyester Fabric - 24 Vests](https://essentialsupplies.co.nz/products/high-visibility-day-night-safety-vest-orange-3xl-120g-polyester-fabric-24): Orange Hi Visibility safety work vests made of lightweight polyester, that is strong and easily washable. With reflective tape as prescribed by AS/NZS 4602.1:2011 safety standards. Featuring a strong zip front and longtail for added visibility. Available in a wide range of sizes.
-  Updated: 2025-02-15T13:14:11Z
+  Updated: 2025-09-19T11:24:16Z
   Vendor: Mattews Packaging
   Product Type: Safety Vests
   Availability: Available
