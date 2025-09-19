@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-19T16:00:38.711Z
+- Updated At: 2025-09-19T20:00:39.335Z
 
 ## Products
 
@@ -5252,7 +5252,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/citrus-solvent-cleaner-clear-5l-refill-bottle-heavy-duty-surface-care-essential-supplies-564714.jpg?v=1719444955
   Price: $67.00 NZD
 - [Thickened Commercial Bleach 5% - Clear, 5L Refill Bottle](https://essentialsupplies.co.nz/products/thickened-commercial-bleach-5-clear-5l-refill-bottle-2)
-  Updated: 2025-01-09T18:37:15Z
+  Updated: 2025-09-19T17:33:17Z
   Vendor: Mattews Packaging
   Product Type: Washroom Care
   Availability: Available
