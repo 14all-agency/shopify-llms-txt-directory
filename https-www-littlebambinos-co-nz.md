@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-19T12:00:48.575Z
+- Updated At: 2025-09-19T16:00:47.682Z
 
 ## Products
 
@@ -4144,7 +4144,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KiwiSurfers.jpg?v=1684207044
   Price: $34.00 NZD
 - [PURE MAMA Magnesium Body Rub](https://www.littlebambinos.co.nz/products/pure-mama-magnesium-body-rub): Giving mama a moment of relief and relaxation during pregnancy. The Magnesium Body Rub has been expertly formulated using both Magnesium & SyriCalm™ to rapidly absorb through the skin to help ease discomfort and encourage skin suppleness during the second and third trimester of pregnancy. Specifically designed for pregnancy self-massage to promote relaxation, provide muscle relief through massage, and alleviate common discomforts experienced in the later stages of pregnancy. + Magnesium and SyriCalm™+ Eases discomfort throughout the second and third trimester+ Soothes and hydrates skin+ Supports relief and relaxation + Made in New Zealand + Gentle on skin SEE PURE MAMA's GUIDE TO AT HOME (SELF OR PARTNER) PREGNANCY MASSAGE HERE. This creamy blend features a subtle, natural fragrance of peppermint. Please seek professional guidance for safe deep tissue massage. 120ml per jar.
-  Updated: 2025-09-06T08:31:11Z
+  Updated: 2025-09-19T14:15:17Z
   Vendor: Pure Mama
   Product Type: Women Care
   Availability: Available
@@ -11058,7 +11058,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-09-18T22:42:40Z
+  Updated: 2025-09-19T12:22:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -11973,7 +11973,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $73.00 NZD
 - [QUINCY MAE Knit Cardigan - Melon](https://www.littlebambinos.co.nz/products/quincy-mae-knit-cardigan-melon): This Knit Cardigan showcases a lovely knit pattern complemented by charming coconut buttons, adding a delightful touch. It comes in a fresh and vibrant ‘melon’ shade, perfect for summer.
-  Updated: 2025-08-06T22:36:41Z
+  Updated: 2025-09-19T15:47:42Z
   Vendor: Quincy Mae
   Product Type: Cardigan
   Availability: Available
@@ -15706,8 +15706,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-19T11:43:12Z
-  Total Products: 395
+  Updated: 2025-09-19T15:43:14Z
+  Total Products: 394
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -16558,7 +16558,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-19T11:43:12Z
+  Updated: 2025-09-19T15:43:14Z
   Total Products: 1259
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-18T21:29:51Z
