@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-19T08:00:54.482Z
+- Updated At: 2025-09-19T12:00:55.058Z
 
 ## Products
 
@@ -6011,7 +6011,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת משחקי נבחרת צרפת בית 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-נבחרת-צרפת-בית-24-25-אותנטית): חולצת נבחרת צרפת לבית עונת 24/25, עשויה 100% פוליאסטר, מציעה עיצוב סלים פיט המעניק מראה צמוד ונוח. החומר הקל והאוורירי סופג לחות, מה שמבטיח נוחות מירבית בזמן המשחק. החולצה כוללת סמלים מוטבעים בחום ותוספות רשת בצדדים לשדרוג זרימת האוויר, המתאימה לשחקנים ורצים.
-  Updated: 2025-09-18T19:46:07Z
+  Updated: 2025-09-19T11:37:49Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -21967,7 +21967,7 @@
     Availability: Available
     Price: ‏164.99 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Predator Elite Tongue x Moments SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-moments-sg): שלוט במגרש עם adidas Predator Elite Tongue x Moments SG חגוג 30 שנה לרגעים בלתי נשכחים עם מהדורה מיוחדת בצבעי שחור/לבן/אדום. עיצוב אייקוני עם לוגו Predator ותגית "100% חוקי. 0% הוגן." על הסוליה. שדרוגי HybridTouch מספקים נוחות, שליטה ודיוק משופר, בעוד מבנה Strikeskin מעצים אפקט סיבוב הכדור. סוליית ControlFrame 2.0 מבטיחה אחיזה, יציבות ומהירות – כי ניצחון מתחיל בנעליים שלך.
-  Updated: 2025-09-07T22:09:57Z
+  Updated: 2025-09-19T09:58:12Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37859,7 +37859,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [חולצת נשים ברצלונה בית 25/26](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26): חולצת נשים ברצלונה בית 25/26 החולצה החדשה של ברצלונה לעונת 2025/26 מציעה עיצוב מודרני שמקפיד לשמור על רוח המועדון החולצה משלבת את הצבעים המסורתיים של כחול ואדום, אך עם גימור חדשני הכולל דפוסים גרפיים עדינים שמקנים לה מראה צעיר, טרנדי ונשי סמל המועדון נמצא בגאווה על החזה, ומחבר אותך ישירות לאחת הקבוצות הגדולות בעולם עשויה מ-100% פוליאסטר קל ונושם, החולצה מבטיחה נוחות מירבית לאורך כל היום, בין אם את משחקת, מתאמנת או סתם נושאת את הגאווה שלך בשגרת היומיום. חולצה מושלמת לכל אוהבת ברצלונה שרוצה לשדר גם סטייל וגם נוחות.
-  Updated: 2025-09-18T18:16:09Z
+  Updated: 2025-09-19T08:59:00Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -43575,7 +43575,7 @@
     Availability: Available
     Price: ‏89.90 ‏₪ ILS
 - [חולצת משחקי ברצלונה תלבושת שלישית 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-משחקי-ברצלונה-תלבושת-שלישית-25-26-אותנטית-גברים): הרגישו את האנרגיה של המגרש עם חולצת המשחקים השלישית האותנטית של ברצלונה לעונת 2025/26 לגברים. החולצה מעוצבת בגזרה צמודה בהשראת זו של שחקני הקבוצה, ומגיעה בשילוב צבעים בולט של כתום וכחול כהה ליצירת מראה נועז ומודרני. סמל המועדון מתנוסס בגאווה על החזה ומשלים את העיצוב המרשים. הבד קל משקל, נושם ומתייבש במהירות, ומעניק נוחות ותנועה חופשית בכל רגע – באימון, במשחק או ביום-יום. הבחירה המושלמת לאוהדים שמחפשים אותנטיות, סטייל ואיכות לאורך זמן.
-  Updated: 2025-09-18T18:28:57Z
+  Updated: 2025-09-19T11:38:10Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -43599,7 +43599,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חליפת כדורגל ילדים ברצלונה שלישית 25/26](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ברצלונה-שלישית-25-26): חליפת ברצלונה שלישית לילדים לעונת 25/26 כוללת חולצה ומכנסיים קצרים בעיצוב מיוחד בהשראת מראה המשחקים של הקבוצה בצבעי כתום וכחול כהה החולצה עשויה 100% פוליאסטר קל ונושם לנוחות מקסימלית בזמן משחק או פעילות יומיומית עם סמל ברצלונה על החזה שמעניק תחושת חיבור וגאווה העיצוב המודרני מתאים לכל ילד שרוצה להרגיש חלק מהקבוצה האהובה עליו
-  Updated: 2025-09-18T18:31:06Z
+  Updated: 2025-09-19T10:23:08Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -43617,7 +43617,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת כדורגל ילדים ברצלונה שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-שלישית-25-26-גוניורס): חולצת ברצלונה שלישית לילדים לעונת 25/26 מעניקה מראה נועז בהשראת עיצובי המשחק של הקבוצה בצבעי כתום וכחול כהה החולצה עשויה 100% פוליאסטר קל ונושם שמבטיח נוחות ותחושת יובש בזמן משחק או פעילות יומיומית סמל ברצלונה בחזה מוסיף גאווה וזהות ומאפשר לילדים להרגיש חלק מהקבוצה האהובה עליהם ולתמוך בבלוגראנה בכל הזדמנות
-  Updated: 2025-09-18T18:31:07Z
+  Updated: 2025-09-19T10:23:08Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -45382,6 +45382,234 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_f5b65384-3d53-42ec-97ae-f34b4f1f136e.jpg?v=1758206958
   Price: ‏749.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות  F50 Elite x Messi FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg): רוצו אחרי התהילה כמו ליאו עם נעלי F50 Elite x Messi FG – שילוב מושלם של מהירות, נוחות וסגנון אישי של מסי. בהשראת העיצוב החתום של הכוכב, הנעל כוללת את הלשונית “בוריטו” האהובה עליו ואת שלושת הפסים המותאמים לעיצוב ייחודי ולתמיכה נוספת הנעל האייקונית חזרה במהדורה קלה ומהירה מתמיד עם טכנולוגיות חדשניות להאצות פתאומיות ולריצות בקו ישר. סוליית Sprintframe 360 כוללת פקקים מעוגלים במרכז כף הרגל לתנועות חדות ומהירות שמבלבלות יריבים, ותומך העקב החיצוני שומר על איזון ושליטה בכל פריצה חלק העליון עשוי HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל, לצד לשונית Knit “בוריטו” שמאפשרת התאמה נוחה ומעט רחבה יותר לרגל כמו בדגמי F50 הקלאסיים, הנעל מגיעה עם שני סוגי מדרסים בקופסה – SL למהירות מקסימלית או Comfort לריכוך נוסף בעת נחיתה
+  Updated: 2025-09-19T10:56:53Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_4394978d-44bf-4a83-aa58-858c02ac8be0.webp?v=1758269367
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061077754)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061110522)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061143290)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061176058)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061208826)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061241594)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061274362)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061307130)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061339898)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061372666)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061405434)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061438202)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061470970)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061503738)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061536506)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg?variant=47732061569274)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+- [נעלי כדורגל ילדים F50 Elite x Messi FG](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg): תנו לילדים שלכם לרוץ אחרי התהילה כמו ליאו עם נעלי F50 Elite x Messi FG – שילוב מושלם של מהירות, נוחות וסגנון אישי של מסי. בהשראת העיצוב החתום של הכוכב, הנעל כוללת את הלשונית “בוריטו” האהובה עליו ואת שלושת הפסים המותאמים לעיצוב ייחודי ולתמיכה נוספת הנעל האייקונית חזרה במהדורה קלה ומהירה מתמיד עם טכנולוגיות חדשניות להאצות פתאומיות ולריצות בקו ישר. סוליית Sprintframe 360 כוללת פקקים מעוגלים במרכז כף הרגל לתנועות חדות ומהירות שמבלבלות יריבים, ותומך העקב החיצוני שומר על איזון ושליטה בכל פריצה חלק העליון עשוי HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל, לצד לשונית Knit “בוריטו” שמאפשרת התאמה נוחה ומעט רחבה יותר לרגל כמו בדגמי F50 הקלאסיים, הנעל מגיעה עם שני סוגי מדרסים בקופסה – SL למהירות מקסימלית או Comfort לריכוך נוסף בעת נחיתה
+  Updated: 2025-09-19T10:56:54Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_c16185a1-61d6-49bf-baa3-e98e5e87751c.webp?v=1758270426
+  - [28](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108034298)
+    Availability: Not Available
+    Price: ‏999.00 ‏₪ ILS
+  - [½28](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108067066)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [29](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108099834)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [30](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108132602)
+    Availability: Not Available
+    Price: ‏999.00 ‏₪ ILS
+  - [½30](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108165370)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [31](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108198138)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [31½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108230906)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [32](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108263674)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108296442)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108329210)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108361978)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108394746)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108427514)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108460282)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108493050)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108525818)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108558586)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108591354)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+- [נעלי כדורגל League x Messi FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg): מהירות, נוחות ועיצוב בהשראת ליאו מסי. חלק עליון סינטטי עם תמיכה מובנית, סוליית Sprintplate 360 להאצות פתאומיות ולשליטה מושלמת בכל תנועה. השראה מהחתימה של מסי לכל מי שרוצה להרגיש את ההבדל על המגרש.
+  Updated: 2025-09-19T10:56:55Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_c8a30878-20fb-498d-a1a5-e88dd8eb1001.webp?v=1758277569
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245070074)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245102842)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245135610)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245168378)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245201146)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245233914)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245266682)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245299450)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245332218)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245364986)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245397754)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245430522)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245463290)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245496058)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245528826)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-league-x-messi-fg-mg?variant=47732245561594)
+    Availability: Available
+    Price: ‏899.00 ‏₪ ILS
+- [נעלי כדורגל ילדים F50 League x Messi](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi): נעלי F50 League x Messi FG/MG לילדים שילוב מושלם של מהירות, נוחות וסגנון בהשראת ליאו מסי. סידור שרוכים קלאסי, לשונית “צפה” ושלושת הפסים לתמיכה נוספת מהדורה קלה ומהירה עם סוליית Sprintplate 360 לפקקים מעוגלים שמאפשרים תנועות חדות ומהירות ושמירה על איזון ושליטה. חלק עליון HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל לנוחות מירבית בזמן המשחק.
+  Updated: 2025-09-19T10:56:56Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_698c67e5-a308-4f5f-8774-a955b1f94b51.webp?v=1758279353
+  - [28](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324565242)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [½28](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324598010)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [29](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324630778)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [30](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324663546)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [½30](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324696314)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [31](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324729082)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [31½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324761850)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [32](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324794618)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324827386)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324860154)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324892922)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324925690)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324958458)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324991226)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732325023994)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732325056762)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732325089530)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732325122298)
+    Availability: Available
+    Price: ‏499.90 ‏₪ ILS
 
 ## Collections
 
@@ -45389,17 +45617,17 @@
   Updated: 2025-09-18T18:31:20Z
   Total Products: 227
 - [ארסנל חולצות כדורגל, חליפות ספורט ומוצרי אוהדים | Arsenal FC](https://www.rsport.co.il/collections/ארסנל): חולצות ארסנל, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מבחר רחב של מוצרים לאוהדי Arsenal איכות, סטייל ונאמנות למועדון.
-  Updated: 2025-09-18T18:30:55Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-18T19:46:28Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 922
 - [נשים](https://www.rsport.co.il/collections/נשים)
-  Updated: 2025-09-18T19:46:24Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-18T19:46:29Z
-  Total Products: 326
+  Updated: 2025-09-19T11:16:57Z
+  Total Products: 328
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-09-18T18:31:12Z
   Total Products: 37
@@ -45416,7 +45644,7 @@
   Updated: 2025-09-18T18:28:40Z
   Total Products: 41
 - [טוטנהאם חולצות כדורגל, חליפות ומוצרי ספורט | Tottenham Hotspur](https://www.rsport.co.il/collections/טוטנהאם): חולצות טוטנהאם, חליפות כדורגל ומוצרי אוהדים לקנייה אונליין מאובטחת. מבחר איכותי לכל גיל – אוהדי Tottenham נהנים מסטייל, נוחות ומקצועיות.
-  Updated: 2025-09-18T18:31:14Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 26
 - [יובנטוס](https://www.rsport.co.il/collections/יובנטוס)
   Updated: 2025-09-18T18:31:24Z
@@ -45431,10 +45659,10 @@
   Updated: 2025-09-18T18:31:02Z
   Total Products: 18
 - [חולצות כדורגל ברצלונה ומוצרי ספורט של המועדון מבחר רחב של פריטים](https://www.rsport.co.il/collections/ברצלונה): רכוש את חולצת ברצלונה המועדפת עליך האתר המוביל למוצרי ספורט איכותיים תמצא מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת ברצלונה במחירים משתלמים. אל תפספס  היכנס עכשיו ותהיה חלק מההיסטוריה של המועדון
-  Updated: 2025-09-18T18:31:10Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 68
 - [חולצות כדורגל ומוצרי ספורט של הליגה הספרדית](https://www.rsport.co.il/collections/ליגה-ספרדית): גלה את המבחר הגדול של חולצות כדורגל מהליגה הספרדית – ברצלונה, ריאל מדריד, אתלטיקו מדריד ועוד
-  Updated: 2025-09-18T18:31:23Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 140
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
   Updated: 2025-09-18T18:31:24Z
@@ -45446,10 +45674,10 @@
   Updated: 2025-09-18T18:31:23Z
   Total Products: 22
 - [פריז סן ז'רמן](https://www.rsport.co.il/collections/פריז-סן-זרמן): פריז סן ז’רמן, הידועה גם כ-PSG, היא אחת הקבוצות הפופולריות ביותר בליגת העל הצרפתית – ואולי בעולם כולו. אם גם אתה, כמו מיליונים אחרים, אוהד של המועדון הצרפתי המוביל, הגעת למקום הנכון. בחנות המקוונת שלנו תמצא את הפריטים הטובים, הייחודיים והעדכניים ביותר של פריז סן ז’רמן החל מחולצות כדורגל ומדים, בגדי אימון ועד אביזרים כמו מחזיקי מפתחות. כל זה במחירים מעולים.
-  Updated: 2025-09-18T18:31:18Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 70
 - [ליגה צרפתית](https://www.rsport.co.il/collections/ליגה-צרפתית)
-  Updated: 2025-09-18T18:31:18Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 114
 - [באיירן מינכן](https://www.rsport.co.il/collections/באיירן-מינכן): אחת הקבוצות הגדולות והאהובות באירופה, עם מסורת מנצחת וכדורגל מרגש. אם גם אתם חלק מצבא האוהדים של "הכוכב הדרומי" הגעתם למקום הנכון, כאן תמצאו מגוון רחב של חולצות כדורגל של באיירן מינכן, כולל דגמי בית, חוץ ושלישית מהעונות האחרונות, לצד חליפות ילדים, חולצות אימון ועוד פריטים מעוצבים באווירת המועדון, החולצות מתאימות לאימונים, למשחקים או כפריט אופנתי לחובבי הקבוצה.
   Updated: 2025-09-18T18:30:35Z
@@ -45473,7 +45701,7 @@
   Updated: 2025-09-18T19:46:29Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
-  Updated: 2025-09-18T19:46:07Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 204
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
   Updated: 2025-09-18T19:46:29Z
@@ -45617,7 +45845,7 @@
   Updated: 2025-08-17T20:37:33Z
   Total Products: 16
 - [חולצות רטרו](https://www.rsport.co.il/collections/חולצות-רטרו)
-  Updated: 2025-09-18T17:57:40Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 204
 - [נבחרות רטרו](https://www.rsport.co.il/collections/נבחרות-רטרו)
   Updated: 2025-09-18T17:57:02Z
@@ -45638,16 +45866,16 @@
   Updated: 2025-09-18T17:56:06Z
   Total Products: 11
 - [ליגה איטלקית רטרו](https://www.rsport.co.il/collections/ליגה-איטלקית-רטרו)
-  Updated: 2025-09-18T17:57:30Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 40
 - [יובנטוס רטרו](https://www.rsport.co.il/collections/יובנטוס-רטרו)
   Updated: 2025-09-18T17:56:10Z
   Total Products: 7
 - [ארסנל רטרו](https://www.rsport.co.il/collections/ארסנל-רטרו)
-  Updated: 2025-09-18T17:56:18Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 17
 - [ליגה אנגלית רטרו](https://www.rsport.co.il/collections/ליגה-אנגלית-רטרו)
-  Updated: 2025-09-18T17:57:40Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 69
 - [צ'לסי רטרו](https://www.rsport.co.il/collections/צלסי-רטרו)
   Updated: 2025-09-18T17:56:24Z
@@ -45761,22 +45989,22 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 12
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-09-12T12:38:50Z
-  Total Products: 42
+  Updated: 2025-09-19T10:56:54Z
+  Total Products: 46
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-09-12T12:38:50Z
-  Total Products: 37
+  Updated: 2025-09-19T10:56:54Z
+  Total Products: 41
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-18T19:46:28Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 812
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-18T19:46:29Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 246
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-09-18T17:19:13Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-18T19:46:25Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 698
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-18T19:46:18Z
@@ -45857,16 +46085,16 @@
   Updated: 2025-09-18T18:16:23Z
   Total Products: 5
 - [פיורנטינה](https://www.rsport.co.il/collections/פיורנטינה): אנו מציעים לכם את המבחר הגדול ביותר של חולצות כדורגל פיורנטינה באתר rsport.co.il. תמצאו כאן חולצות משחק איכותיות, חולצות אוהד עם עיצובים מיוחדים, בגדי ילדים, אימוניות ארוכות, מעילי רוח, חולצות שוער ועוד. כל הפריטים באתר נבחרים בקפידה כדי להציע לכם את החוויה המושלמת כאוהדים של פיורנטינה. אל תפספסו את ההזדמנות להוסיף לאוסף שלכם את המוצרים האיכותיים ביותר עבור כל אוהד כדורגל
-  Updated: 2025-09-18T17:57:30Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-18T19:46:29Z
-  Total Products: 2032
+  Updated: 2025-09-19T11:16:57Z
+  Total Products: 2036
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
-  Updated: 2025-09-18T17:57:30Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-09-18T19:46:29Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 269
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-09-18T17:18:47Z
@@ -45878,7 +46106,7 @@
   Updated: 2025-09-18T17:57:31Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-09-18T18:31:23Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 359
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-09-18T18:28:35Z
@@ -46043,7 +46271,7 @@
   Updated: 2025-09-18T18:20:00Z
   Total Products: 3
 - [Lamine Yamal | נעלי כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/נעלי-כדורגל-ומוצרים-lamine-yamal): Lamine Yamal F50 מגוון רחב של נעלי כדורגל וחולצות כדורגל ברצלונה, נבחרת ספרד , אימון וכל הפריטים של לאמין ימאל נעלי כדורגל
-  Updated: 2025-09-19T07:23:32Z
+  Updated: 2025-09-19T11:16:57Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
   Updated: 2025-09-18T19:46:18Z
@@ -46052,8 +46280,8 @@
   Updated: 2025-09-18T19:46:15Z
   Total Products: 31
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
-  Updated: 2025-09-19T07:47:00Z
-  Total Products: 58
+  Updated: 2025-09-19T10:56:54Z
+  Total Products: 62
 
 ## Blogs
 
