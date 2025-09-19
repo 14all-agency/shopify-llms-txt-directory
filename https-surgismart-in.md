@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-18T16:00:30.136Z
+- Updated At: 2025-09-19T00:00:31.496Z
 
 ## Products
 
@@ -2183,7 +2183,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/618vzrjlkgl.jpg?v=1751478189
   Price: ₹13,799.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Smoke Chestpiece, Gray Tube, Violet Gray Stem,5873 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-smoke-chestpiece-gray-tube-violet-gray-stem-5873): - Surgismart
-  Updated: 2025-08-13T07:37:57Z
+  Updated: 2025-09-18T22:30:17Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
