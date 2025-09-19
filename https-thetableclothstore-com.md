@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-19T12:00:38.561Z
+- Updated At: 2025-09-19T16:00:36.010Z
 
 ## Products
 
@@ -33747,7 +33747,7 @@
 - [Privacy Policy](https://thetableclothstore.com/policies/privacy-policy)
   Updated: 2025-02-06T18:04:21-05:00
 - [Refund Policy](https://thetableclothstore.com/policies/refund-policy)
-  Updated: 2025-08-04T14:42:43-04:00
+  Updated: 2025-09-19T10:48:18-04:00
 - [Terms of Service](https://thetableclothstore.com/policies/terms-of-service)
   Updated: 2025-07-29T15:44:25-04:00
 - [Contact Information](https://thetableclothstore.com/policies/contact-information)
