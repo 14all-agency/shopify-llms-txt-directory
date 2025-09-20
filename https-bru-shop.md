@@ -47,7 +47,7 @@ Der beste Teeautomat für Deutschland, Österreich und die Schweiz:
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-09-20T08:20:12.136Z
+- Updated At: 2025-09-20T08:20:27.707Z
 
 # bru.shop LLM Access Rules
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
