@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-20T00:00:39.548Z
+- Updated At: 2025-09-20T04:00:38.182Z
 
 ## Products
 
@@ -6463,7 +6463,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/high-visibility-daynight-safety-vest-orange-4xl-120g-polyester-fabric-24-vests-safety-vests-essential-supplies-587420.jpg?v=1719445171
   Price: $199.00 NZD
 - [Industrial PVC Gumboots - White/Yellow, Size 3 - *Steel Toe Cap + Steel Midsole](https://essentialsupplies.co.nz/products/industrial-pvc-gumboots-white-yellow-size-3-5-steel-toe-cap-steel-midsole): White industrial gumboots constructed of hard wearing, flexible PVC with a steel midsole and safety toe to prevent penetration. The nitrile sole is slip resistant and repels solvents, oils, acids, alkalis and fats. Featuring internal nylon lining to enable easy boot cleaning and heel kick off spur for quick removal.
-  Updated: 2025-01-09T16:22:54Z
+  Updated: 2025-09-20T01:20:44Z
   Vendor: Mattews Packaging
   Product Type: Gumboots
   Availability: Available
