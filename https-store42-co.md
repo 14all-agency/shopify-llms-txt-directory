@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2025-08-01T18:33:16Z
 - Contact Email: Contact@store42.co
-- Updated At: 2025-09-19T20:04:26.222Z
+- Updated At: 2025-09-20T00:04:41.179Z
 
 ## Products
 
@@ -4613,7 +4613,7 @@
   Updated: 2025-09-19T11:54:34Z
   Price: $28.99 USD
 - [HP E14 G4 Portable Slim Monitor 14"](https://store42.co/products/14-e14-g4-portable-monitor): Discover the HP E14 G4 Portable Slim Monitor. Enjoy portability, sharp FHD visuals, and seamless connectivity, perfect for professionals on the go.
-  Updated: 2025-09-19T19:38:21Z
+  Updated: 2025-09-19T22:02:50Z
   Price: $399.99 USD
 - [Lenovo Theft Management Software for Chromebooks](https://store42.co/products/lenovo-absolute-theft-management-premium-software-for-chromebooks-1-year-license): Protect your Chromebook with Lenovo Absolute Theft Management. Enjoy peace of mind with updates, continuous protection, and easy management.
   Updated: 2025-09-19T11:54:36Z
@@ -4721,7 +4721,7 @@
   Updated: 2025-09-19T11:55:14Z
   Price: $604.99 USD
 - [Dell P1424H 14" Portable Monitor](https://store42.co/products/dell-14-portable-monitor): Boost your productivity on the go with the ultra-lightweight Dell P1424H 14" FHD Portable Monitor. Stunning visuals for any workspace!
-  Updated: 2025-09-19T19:37:46Z
+  Updated: 2025-09-19T22:02:20Z
   Price: $416.99 USD
 - [Case Logic 12" Chromebook Sleeve](https://store42.co/products/quantic-12-chromebook-slv-blk): Discover premium protection with the Case Logic Quantic Slim 12" Chromebook Sleeve in black. Sleek design for travel & daily use, stay connected safely!
   Updated: 2025-09-19T11:55:16Z
@@ -4754,7 +4754,7 @@
   Updated: 2025-09-19T11:55:25Z
   Price: $71.99 USD
 - [Windows 11 Home 64 Bit OEM DVD](https://store42.co/products/windows-11-home-64-bit-1pack): Upgrade your PC with Windows 11 Home 64 Bit OEM DVD. Enjoy enhanced performance, gaming features, and robust security for modern computing.
-  Updated: 2025-09-19T19:37:37Z
+  Updated: 2025-09-19T22:03:11Z
   Price: $150.99 USD
 - [Microsoft Remote Desktop Services CAL 2019](https://store42.co/products/win-rmt-dsktp-cal-2019-1user): Enhance productivity with Microsoft Remote Desktop Services CAL 2019. Securely access your desktop remotely. Perfect for flexible work environments!
   Updated: 2025-09-19T11:55:27Z
@@ -4763,7 +4763,7 @@
   Updated: 2025-09-19T11:55:28Z
   Price: $242.99 USD
 - [Microsoft Office 2024 Home & Business](https://store42.co/products/office-home-and-business-2024): Boost your productivity with Microsoft Office Home & Business 2024. Built for seamless task management and collaboration. Get started today!
-  Updated: 2025-09-19T19:38:02Z
+  Updated: 2025-09-19T23:03:36Z
   Price: $296.99 USD
 - [Windows Server 2022 User CAL - OEM License](https://store42.co/products/server-2022-user-cal-1pk): Unlock the power of your IT with the Microsoft Windows Server 2022 User CAL. Ideal for businesses needing security and performance in server access.
   Updated: 2025-09-19T11:55:30Z
@@ -4793,16 +4793,16 @@
   Updated: 2025-09-19T11:55:38Z
   Price: $349.99 USD
 - [Microsoft 365 Family for Military](https://store42.co/products/m365-family-1yr-military-only): Unlock productivity with Microsoft 365 Family Subscription for US Military. 1-Year license, family sharing, and medialess access. Start enhancing your digital experience!
-  Updated: 2025-09-19T19:37:33Z
+  Updated: 2025-09-19T22:01:52Z
   Price: $135.99 USD
 - [Windows Server 2025 Standard License](https://store42.co/products/server-2025-standard-16-core): Enhance your server with Microsoft Windows Server 2025 Standard. Get robust performance, security, and efficient virtualization for your business.
-  Updated: 2025-09-19T19:37:51Z
+  Updated: 2025-09-19T22:31:30Z
   Price: $1,093.99 USD
 - [Windows Server Datacenter 2022 16 Core](https://store42.co/products/svr-2022-datacntr-16-core): Unlock superior performance with Windows Server Datacenter 2022. This 16-core OEM software is built for security, scalability, and virtualization. Explore now!
   Updated: 2025-09-19T11:55:41Z
   Price: $6,240.99 USD
 - [Windows Server 2025 Standard 24-Core](https://store42.co/products/server-2025-standard-24-core): Unlock your server's potential with Windows Server 2025 Standard. Enhance performance, security, and scalability for your business needs.
-  Updated: 2025-09-19T11:55:43Z
+  Updated: 2025-09-19T22:02:11Z
   Price: $2,163.99 USD
 - [Windows Server 2022 Datacenter 16-Core](https://store42.co/products/svr-2022-datacntr-16-core-al): Unlock enterprise power with Microsoft Windows Server 2022. Experience advanced security, virtualization, and hybrid cloud capabilities with a 16-core license.
   Updated: 2025-09-19T11:55:43Z
@@ -4820,13 +4820,13 @@
   Updated: 2025-09-19T11:55:47Z
   Price: $1,040.99 USD
 - [Windows Server 2025 - 5 User CAL Pack](https://store42.co/products/server-2025-user-cal-5pk): Enhance productivity with Microsoft Windows Server 2025 - 5 User CAL Pack. Secure, reliable server access for small to medium-sized businesses.
-  Updated: 2025-09-19T19:37:29Z
+  Updated: 2025-09-19T22:01:51Z
   Price: $349.99 USD
 - [Windows Server 2025 Device CAL 5-Pack](https://store42.co/products/server-2025-device-cal-5pk): Enhance device management and security with Microsoft Windows Server 2025 Device CAL 5-Pack. Ideal for efficient connectivity in any organization.
   Updated: 2025-09-19T11:55:49Z
   Price: $296.99 USD
 - [Microsoft 365 Personal - 1 Year License](https://store42.co/products/m365-personal-1yr): Unlock productivity with Microsoft 365 Personal. Enjoy Office apps, 1 TB OneDrive storage, and real-time collaboration. Enhance your efficiency today!
-  Updated: 2025-09-19T16:12:37Z
+  Updated: 2025-09-19T22:31:26Z
   Price: $135.99 USD
 - [Windows 11 Pro 64 Bit USB License](https://store42.co/products/win-11-pro-usb): Upgrade to Microsoft Windows 11 Pro for unmatched performance and security. Enhance your productivity with a refined interface and robust protection.
   Updated: 2025-09-19T16:12:46Z
@@ -4834,9 +4834,6 @@
 - [2501-5000 Asset Tagging Solutions](https://store42.co/products/asset-tagging-2501-5000): Maximize your inventory efficiency with 2501-5000 Asset Tagging by D and H Services. Durable, precise, and perfect for mixed assets, optimize tracking today!
   Updated: 2025-09-19T11:55:52Z
   Price: $78.99 USD
-- [Windows Server 2022 Standard License](https://store42.co/products/svr-2022-std-4-core-al-apos): Transform your IT with Windows Server 2022. This OEM 4 Core license boosts performance, security, and hybrid cloud capabilities for your business.
-  Updated: 2025-09-19T19:37:47Z
-  Price: $312.99 USD
 - [Office 365 Family Subscription - 1 Year](https://store42.co/products/office-365-family-1yr-p10): Discover productivity with Microsoft Office 365 Family. Access premium tools like Word, Excel, and PowerPoint for seamless collaboration and organized projects.
   Updated: 2025-09-19T11:55:54Z
   Price: $167.99 USD
@@ -4844,13 +4841,13 @@
   Updated: 2025-09-19T11:55:55Z
   Price: $1,232.99 USD
 - [Windows 11 Pro OEM License - Enhance PC](https://store42.co/products/windows-11-pro-64-bit-1-pack): Elevate your computing with Windows 11 Pro OEM DVD License. Boost performance, multitask easily, and enjoy enhanced security. Upgrade today!
-  Updated: 2025-09-19T19:37:46Z
+  Updated: 2025-09-19T23:03:36Z
   Price: $185.99 USD
 - [Office Home 2024 License - Digital Download](https://store42.co/products/office-home-2024): Unlock productivity with the Microsoft Office Home 2024 Medialess License. Seamless digital download for English NA users. Start creating today!
-  Updated: 2025-09-19T19:36:57Z
+  Updated: 2025-09-19T23:34:36Z
   Price: $189.99 USD
 - [Windows Server 2022 Standard 16 Core OEM](https://store42.co/products/server-2022-standard-16-core): Upgrade your IT with Windows Server 2022 Standard Edition. Get enhanced performance, security, and compatibility for your business operations today!
-  Updated: 2025-09-19T19:38:06Z
+  Updated: 2025-09-19T22:02:27Z
   Price: $1,045.99 USD
 - [Windows Server Standard 2022 - OEM Pack](https://store42.co/products/svr-2022-std-2-core-al-apos): Enhance your IT infrastructure with Windows Server Standard 2022. Enjoy robust security, virtualization, and efficient server management for your business.
   Updated: 2025-09-19T11:56:01Z
@@ -4862,7 +4859,7 @@
   Updated: 2025-09-19T11:56:02Z
   Price: $2,272.99 USD
 - [Samsung Galaxy Tab S10 Plus - 12GB, 256GB](https://store42.co/products/tab-s10-12-256gb-gray): Discover the Samsung Galaxy Tab S10 Plus. Experience seamless multitasking, stunning visuals, and ample storage in a sleek design. Upgrade your tech today!
-  Updated: 2025-09-19T19:38:22Z
+  Updated: 2025-09-19T22:02:40Z
   Price: $1,094.99 USD
 - [Eaton 16-Port USB Dock - Fast Charging Hub](https://store42.co/products/16port-chrg-sync-station): Charge up to 16 devices quickly! Eaton's USB Dock is a space-saving wall mount solution, designed for homes, schools, and offices. Stay organized and powered.
   Updated: 2025-09-19T11:56:05Z
@@ -4874,7 +4871,7 @@
   Updated: 2025-09-19T11:56:07Z
   Price: $1,951.99 USD
 - [Samsung Galaxy Tab S10 Ultra 12GB 512GB](https://store42.co/products/tab-s10-ultra-12-512gb-gray): Discover the Samsung Galaxy Tab S10 Ultra with 12GB RAM and 512GB storage. Perfect for creativity and productivity, all in a sleek design.
-  Updated: 2025-09-19T11:56:08Z
+  Updated: 2025-09-19T22:31:11Z
   Price: $1,437.99 USD
 - [Microsoft Surface Pro 11 - Powerful & Portable](https://store42.co/products/pro11-13-cu7-32-256-platinum): Experience the Microsoft Surface Pro 11 with Intel CU7, 32GB RAM, and 256GB SSD. A versatile device that offers performance and stunning visuals.
   Updated: 2025-09-19T16:12:11Z
@@ -4886,7 +4883,7 @@
   Updated: 2025-09-19T11:56:11Z
   Price: $285.99 USD
 - [Samsung Galaxy Tab A9 Plus - 4GB RAM](https://store42.co/products/tab-a9-4-64gb-vzw-graphite-1): Explore the Samsung Galaxy Tab A9 Plus featuring 4GB RAM and 64GB storage. Perfect for work, play, and entertainment on the go, compact and stylish!
-  Updated: 2025-09-19T19:37:55Z
+  Updated: 2025-09-19T22:31:36Z
   Price: $317.99 USD
 - [Samsung Galaxy Tab S10 FE - 12GB RAM, Gray](https://store42.co/products/tab-s10-fe-12-256gb-wifi-gray): Experience the Samsung Galaxy Tab S10 FE with 12GB RAM and 256GB storage. Sleek gray design, powerful performance, and seamless WiFi connectivity await!
   Updated: 2025-09-19T16:12:17Z
@@ -4898,16 +4895,16 @@
   Updated: 2025-09-19T11:56:15Z
   Price: $210.99 USD
 - [Samsung Galaxy Tab A9 - 4GB RAM WiFi](https://store42.co/products/tab-a9-4-64gb-wifi-graphite): Discover the Samsung Galaxy Tab A9 with 4GB RAM and 64GB of storage. Perfect for streaming, browsing, and on-the-go entertainment.
-  Updated: 2025-09-19T19:37:17Z
+  Updated: 2025-09-19T23:03:30Z
   Price: $265.99 USD
 - [Samsung Galaxy Tab S10+ 12GB Gray Tablet](https://store42.co/products/tab-s10-12-256gb-vzw-gray): Discover the Samsung Galaxy Tab S10+ with 12GB RAM, 256GB storage in Moonstone Gray. Unmatched performance for work and play. Upgrade now!
   Updated: 2025-09-19T11:56:17Z
   Price: $1,255.99 USD
 - [Microsoft Surface Pro 11 - 32GB 1TB](https://store42.co/products/pro11-13-cu7-32-1t-platinum): Unleash your productivity with the Microsoft Surface Pro 11. Sleek design, 32GB RAM, 1TB storage, and multi-language support for all your needs!
-  Updated: 2025-09-19T19:38:01Z
+  Updated: 2025-09-19T22:02:30Z
   Price: $2,700.99 USD
 - [Surface Pro 11 - High-Performance 2-in-1](https://store42.co/products/pro11-13-cu5-32-512-platinum): Unleash productivity with the Microsoft Surface Pro 11. Featuring Intel Core CU5, 32GB RAM, and a sleek design, it’s perfect for work and fun.
-  Updated: 2025-09-19T11:56:19Z
+  Updated: 2025-09-19T22:31:41Z
   Price: $2,165.99 USD
 - [StarTech 2-Port Travel USB Charger 17W](https://store42.co/products/2-port-usb-wall-charger-17w): Charge two devices simultaneously with the compact StarTech 2-Port USB Charger. Perfect for travel, offering safety and efficiency in one sleek design.
   Updated: 2025-09-19T11:56:20Z
@@ -4916,7 +4913,7 @@
   Updated: 2025-09-19T11:56:21Z
   Price: $1,523.99 USD
 - [Logitech Slim Folio Keyboard Case for iPad](https://store42.co/products/slim-folio-ipad-10-9-g10): Elevate your iPad experience with the Logitech Slim Folio Keyboard Case. Enjoy productivity, protection, and a stylish design in one essential accessory.
-  Updated: 2025-09-19T11:56:22Z
+  Updated: 2025-09-19T22:31:45Z
   Price: $135.99 USD
 - [Logitech Crayon for iPad - Classic Blue](https://store42.co/products/crayon-digital-pencil-ipad-blu): Discover the Logitech Crayon Digital Pencil for USB-C iPad in Classic Blue. Perfect for artists and students for precision drawing and easy note-taking!
   Updated: 2025-09-19T11:56:23Z
@@ -4928,7 +4925,7 @@
   Updated: 2025-09-19T11:56:25Z
   Price: $1,094.99 USD
 - [Samsung Galaxy Tab Active5 Pro Rugged Tablet](https://store42.co/products/active5-pro-ee-6-128gb-green): Discover the rugged Samsung Galaxy Tab Active5 Pro with 6GB RAM, 128GB storage, and IP68 rating for durability in tough conditions. Perfect for professionals!
-  Updated: 2025-09-19T19:37:12Z
+  Updated: 2025-09-19T22:01:36Z
   Price: $730.99 USD
 - [Targus 2-In-1 Stylus Pen for Note Taking](https://store42.co/products/stylus-pen-blue-red-black): Elevate your creativity with the Targus 2-In-1 Stylus Pen. Perfect for note taking, drawing, and seamless touchscreen navigation. Get yours today!
   Updated: 2025-09-19T11:56:27Z
@@ -4936,23 +4933,20 @@
 - [Surface Pro 10 5G Intel i7 Laptop](https://store42.co/products/pro10-5g-i7-32-512-platinum): Discover the powerful Microsoft Surface Pro 10 5G. With Intel i7, 32GB RAM, and 512GB SSD, it's perfect for professionals and creatives on the go.
   Updated: 2025-09-19T11:56:28Z
   Price: $2,700.99 USD
-- [Microsoft Surface Pro 12 - 256GB Platinum](https://store42.co/products/pro12-sd-p-16-256-platinum): Unleash productivity with the Microsoft Surface Pro 12. A powerful 2-in-1 device with 256GB storage and multi-language support for versatile use.
-  Updated: 2025-09-19T19:38:17Z
-  Price: $1,042.99 USD
 - [Targus Smooth Glide Stylus Pen](https://store42.co/products/smooth-glide-standard-stylus): Enhance your digital experience with the Targus Smooth Glide Black Stylus Pen. Effortless precision for writing, drawing, and navigating apps.
-  Updated: 2025-09-19T19:37:36Z
+  Updated: 2025-09-19T22:01:55Z
   Price: $48.99 USD
 - [Microsoft Surface Pro 11 5G Tablet](https://store42.co/products/pro11-5g-eli-16-512-platinum): Experience the power of the Microsoft Surface Pro 11 5G tablet with 16GB RAM & 512GB storage. Stay connected & productive wherever you go!
-  Updated: 2025-09-19T19:38:29Z
+  Updated: 2025-09-19T22:03:12Z
   Price: $2,058.99 USD
 - [Logitech iPad Air 11" Combo Touch Case](https://store42.co/products/combo-touch-for-ipad-air-11-in): Discover the Logitech Combo Touch iPad Air 11-Inch case in Grey. Combining premium protection and versatile functionality for all your needs.
-  Updated: 2025-09-19T19:38:24Z
+  Updated: 2025-09-19T22:31:46Z
   Price: $243.99 USD
 - [Surface Pro 11 - Power & Portability](https://store42.co/products/pro11-13-cu7-16-256-black): Explore the Microsoft Surface Pro 11 with a stunning 13" display, powerful Intel CU7, 16GB RAM, and 256GB storage for unmatched versatility and performance.
-  Updated: 2025-09-19T11:56:33Z
+  Updated: 2025-09-20T00:00:42Z
   Price: $1,951.99 USD
 - [AVerCharge B30: 30-Device Fast Charger](https://store42.co/products/avercharge-b30-cart): Streamline your charging with the AVerCharge B30 cart for 30 devices. Fast charging, safety features, and compact design enhance productivity in any workspace.
-  Updated: 2025-09-19T11:56:34Z
+  Updated: 2025-09-19T22:01:56Z
   Price: $1,246.99 USD
 - [Surface Pro 10 5G - Intel i7 Tablet PC](https://store42.co/products/pro10-5g-i7-16-256-taa-plat): Discover the Microsoft Surface Pro 10 5G equipped with Intel i7, 16GB RAM, 256GB SSD. Perfect for professionals on-the-go!
   Updated: 2025-09-19T11:56:35Z
@@ -4961,10 +4955,10 @@
   Updated: 2025-09-19T11:56:36Z
   Price: $666.99 USD
 - [Logitech Combo Touch Case for iPad Air 13"](https://store42.co/products/combo-touch-for-ipad-air-13in): Enhance your iPad Air 13" M2 with the Logitech Combo Touch. Enjoy a sleek design, keyboard, and touchpad for versatile productivity on the go.
-  Updated: 2025-09-19T11:56:37Z
+  Updated: 2025-09-19T22:31:40Z
   Price: $276.99 USD
 - [Microsoft Surface Pro 11 16GB 512GB](https://store42.co/products/pro11-13-cu7-16-512-platinum): Discover the Microsoft Surface Pro 11: powerful Intel CU7, 16GB RAM, 512GB SSD in a sleek design. Your ultimate device for work and play awaits!
-  Updated: 2025-09-19T19:36:56Z
+  Updated: 2025-09-19T22:01:26Z
   Price: $2,058.99 USD
 - [ZeniTech Wireless Stylus for iPad](https://store42.co/products/wireless-charging-active-stylu): Discover the ZeniTech Wireless Active Stylus for iPad. Enjoy precision writing, ergonomic design, and wireless charging for all your creative needs.
   Updated: 2025-09-19T11:56:39Z
@@ -4979,43 +4973,43 @@
   Updated: 2025-09-19T11:56:42Z
   Price: $265.99 USD
 - [Microsoft Surface Pro 11 - Intel i7, 16GB RAM](https://store42.co/products/pro11-13-cu7-16-512-black): Unleash power with the Microsoft Surface Pro 11. Featuring Intel i7, 16GB RAM, and a vibrant 512GB SSD for effortless multitasking and ultimate versatility.
-  Updated: 2025-09-19T19:36:55Z
+  Updated: 2025-09-19T22:01:27Z
   Price: $2,058.99 USD
 - [Surface Pro 11 - TAA Compliant Tablet](https://store42.co/products/pro11-13-cu7-16-1t-plat-taa): Discover the Microsoft Surface Pro 11, a 13" TAA-compliant tablet that combines power and versatility for professionals needing ultimate performance.
   Updated: 2025-09-19T11:56:44Z
   Price: $2,326.99 USD
 - [Surface Pro 11: Power & Versatility](https://store42.co/products/pro11-13-cu5-16-256-platinum): Experience the Microsoft Surface Pro 11 with Intel CU5, 16GB RAM, and 256GB storage. Ideal for work and play, in a sleek platinum design!
-  Updated: 2025-09-19T11:56:45Z
+  Updated: 2025-09-19T22:02:37Z
   Price: $1,630.99 USD
 - [Logitech Crayon Stylus for Apple](https://store42.co/products/logi-crayon-stylus-edu-apple): Boost your creativity with the Logitech Crayon Stylus for Apple. Ideal for educators and students, it features a replaceable tip and palm rejection.
   Updated: 2025-09-19T11:56:46Z
   Price: $82.99 USD
 - [Logitech Combo Touch iPad Pro Keyboard Case](https://store42.co/products/combo-touch-kb-case-ipad-pro-5): Transform your iPad Pro 12.9" with the Logitech Combo Touch. Enjoy backlit keys, a responsive trackpad, and flexible viewing angles for ultimate productivity.
-  Updated: 2025-09-19T19:37:53Z
+  Updated: 2025-09-19T22:02:16Z
   Price: $308.99 USD
 - [Samsung Galaxy Tab A9 Plus - Graphite](https://store42.co/products/tab-a9-4-64gb-usc-graphite): Discover the Samsung Galaxy Tab A9 Plus featuring 4GB RAM and 64GB storage. Perfect for entertainment and productivity, all in a sleek graphite design.
   Updated: 2025-09-19T11:56:48Z
   Price: $318.99 USD
 - [Logitech iPad Pro 13" Combo Touch Case](https://store42.co/products/combo-touch-for-ipad-pro-13-in): Elevate your productivity with the Logitech Combo Touch Case for iPad Pro 13". Enjoy a keyboard, trackpad, and durable protection in sleek grey.
-  Updated: 2025-09-19T19:36:55Z
+  Updated: 2025-09-19T22:01:33Z
   Price: $308.99 USD
 - [Samsung Galaxy Tab S10 FE - Gray](https://store42.co/products/tab-s10-fe-8-128gb-tmo-gray): Discover the sleek Samsung Galaxy Tab S10 FE with 8GB RAM and 128GB storage. Perfect for work or play, this tablet is your portable powerhouse.
   Updated: 2025-09-19T11:56:51Z
   Price: $666.99 USD
 - [Surface Pro 11 - 13" Intel i5 Laptop](https://store42.co/products/pro11-13-cu5-16-256-black): Explore the Microsoft Surface Pro 11, a versatile 13" laptop with Intel i5, 16GB RAM, and 256GB SSD. Perfect for work and on-the-go use!
-  Updated: 2025-09-19T19:37:36Z
+  Updated: 2025-09-19T22:02:07Z
   Price: $1,630.99 USD
 - [Logitech iPad Pro 11" Keyboard Case](https://store42.co/products/combo-touch-ipad-pro-11-inch): Enhance your iPad Pro 11" experience with the Logitech Combo Touch Keyboard Case. Versatile modes, backlit keyboard, and durable protection await!
   Updated: 2025-09-19T11:56:52Z
   Price: $276.99 USD
 - [Microsoft Surface Pro 11 - 13" Laptop](https://store42.co/products/pro11-13-cu5-16-512-black): Discover the power of the Microsoft Surface Pro 11. With Intel i5, 16GB RAM, and 512GB SSD, it's perfect for work, play, and creativity.
-  Updated: 2025-09-19T19:37:02Z
+  Updated: 2025-09-19T22:01:26Z
   Price: $1,737.99 USD
 - [Samsung Galaxy Tab S10 Plus - Moonstone Gray](https://store42.co/products/tab-s10-12-256gb-tmo-gray): Discover the Samsung Galaxy Tab S10 Plus with 12GB RAM and 256GB storage. Enjoy a stunning display, S Pen, and long battery life for ultimate performance.
   Updated: 2025-09-19T11:56:54Z
   Price: $1,255.99 USD
 - [Logitech iPad Pro 11" Keyboard Case](https://store42.co/products/combo-touch-ipad-pro-11in-m4): Transform your iPad Pro 11” with Logitech's Combo Touch. This sleek grey keyboard case offers protection and functionality for productivity on the go.
-  Updated: 2025-09-19T11:56:55Z
+  Updated: 2025-09-19T22:02:21Z
   Price: $276.99 USD
 - [Samsung Galaxy Tab S10 Plus - 12GB RAM](https://store42.co/products/tab-s10-12-256gb-usc-gray): Discover the Samsung Galaxy Tab S10 Plus with 12GB RAM and 256GB storage, designed for seamless multitasking and stunning visuals. Elevate your experience!
   Updated: 2025-09-19T11:56:56Z
@@ -5036,7 +5030,7 @@
   Updated: 2025-09-19T11:57:01Z
   Price: $242.99 USD
 - [Galaxy Tab A9 - 4GB RAM, 64GB Storage](https://store42.co/products/tab-a9-4-64gb-wifi-graphite-1): Upgrade to the Samsung Galaxy Tab A9 with 4GB RAM and 64GB storage. Enjoy seamless performance, vibrant visuals, and reliable WiFi connectivity.
-  Updated: 2025-09-19T19:37:41Z
+  Updated: 2025-09-19T22:31:26Z
   Price: $234.99 USD
 - [IOGEAR Accu-Tip Precision Stylus](https://store42.co/products/accu-tip-stylus): Enhance your digital experience with the IOGEAR Accu-Tip Stylus. Enjoy precision control for tablets and smartphones, perfect for art and signatures.
   Updated: 2025-09-19T11:57:03Z
@@ -5045,10 +5039,10 @@
   Updated: 2025-09-19T11:57:04Z
   Price: $674.99 USD
 - [Microsoft Surface Pro 12" Platinum](https://store42.co/products/pro12-sd-p-16-512-platinum): Discover the Microsoft Surface Pro 12" Silver Platinum, a lightweight powerhouse with 16GB RAM, 512GB SSD, and a vibrant 12" display, perfect for creatives.
-  Updated: 2025-09-19T16:12:51Z
+  Updated: 2025-09-19T22:02:00Z
   Price: $1,149.99 USD
 - [Microsoft Surface Pro 10 - Intel i5, 16GB](https://store42.co/products/srpr10-i5-16-512-platinum): Discover the Microsoft Surface Pro 10 with Intel i5, 16GB RAM, and 512GB SSD. Perfect for productivity and creativity on the go, multilingual support included!
-  Updated: 2025-09-19T19:38:29Z
+  Updated: 2025-09-19T22:02:36Z
   Price: $1,737.99 USD
 - [Startech 15W Qi Wireless Charging Stand](https://store42.co/products/qi-wireless-charging-stand): Charge your device fast with the Startech Qi Wireless Charging Stand. Adjustable, sleek, and Qi Certified for safe power delivery. Perfect for any setup!
   Updated: 2025-09-19T11:57:08Z
@@ -5057,7 +5051,7 @@
   Updated: 2025-09-19T11:57:09Z
   Price: $1,951.99 USD
 - [Microsoft Surface Pro 10 i7 32GB 512GB](https://store42.co/products/srpr10-i7-32-512-platinum): Experience the power and versatility of the Microsoft Surface Pro 10. With Intel i7, 32GB RAM, and 512GB SSD, it’s perfect for productivity on the go!
-  Updated: 2025-09-19T19:38:37Z
+  Updated: 2025-09-19T23:34:41Z
   Price: $2,379.99 USD
 - [Rugged Samsung Galaxy Tab Active4 Pro](https://store42.co/products/active4-pro-4-64gb-wi-fi-black): Explore the Samsung Galaxy Tab Active4 Pro - a rugged, powerful Wi-Fi tablet perfect for outdoor and work environments. Unmatched durability and performance await!
   Updated: 2025-09-19T11:57:12Z
@@ -5066,10 +5060,10 @@
   Updated: 2025-09-19T16:13:11Z
   Price: $923.99 USD
 - [Microsoft Surface Pro 10 5G - Intel i7](https://store42.co/products/pro10-5g-i7-16-256-platinum): Boost your productivity with the Microsoft Surface Pro 10 5G. Featuring an Intel i7, 16GB RAM, and 256GB SSD for ultimate performance on the go!
-  Updated: 2025-09-19T19:37:26Z
+  Updated: 2025-09-19T22:01:51Z
   Price: $2,165.99 USD
 - [Microsoft Surface Pro 11 - i7, 32GB, 512GB](https://store42.co/products/pro11-13-cu7-32-512-platinum): Discover the Microsoft Surface Pro 11: Intel i7, 32GB RAM, 512GB SSD. Versatile 2-in-1 design for seamless productivity and creativity. Get yours now!
-  Updated: 2025-09-19T11:57:15Z
+  Updated: 2025-09-19T23:03:31Z
   Price: $2,486.99 USD
 - [Microsoft Surface Pro 10 - i5 & 5G Ready](https://store42.co/products/pro10-5g-i5-16-256-taa-plat): Discover the versatile Microsoft Surface Pro 10 with an Intel i5, 16GB RAM, and 256GB SSD. Perfect for professionals and students on the go!
   Updated: 2025-09-19T11:57:15Z
@@ -5078,10 +5072,10 @@
   Updated: 2025-09-19T11:57:16Z
   Price: $1,308.99 USD
 - [Samsung Galaxy Tab S10 Ultra Tablet](https://store42.co/products/tab-s10-ultra-16-1tb-gray): Unleash productivity with the Samsung Galaxy Tab S10 Ultra. Boasting 16GB RAM, 1TB storage, and a stunning display, it's the perfect device for work and play.
-  Updated: 2025-09-19T11:57:17Z
+  Updated: 2025-09-20T00:00:36Z
   Price: $1,758.99 USD
 - [Samsung Galaxy Tab S9 - 8GB RAM, 128GB WiFi](https://store42.co/products/galaxy-tab-s9-8-128gb-gray): Unleash productivity and entertainment with the Samsung Galaxy Tab S9. Enjoy fast performance, vibrant display, and long-lasting battery on the go!
-  Updated: 2025-09-19T19:37:57Z
+  Updated: 2025-09-19T22:02:26Z
   Price: $879.99 USD
 - [Samsung Galaxy Tab S10 FE 8GB RAM](https://store42.co/products/tab-s10-fe-8-128gb-wifi-gray-1): Experience power and style with the Samsung Galaxy Tab S10 FE. Featuring 8GB RAM, 128GB storage, and long-lasting battery life for all your needs.
   Updated: 2025-09-19T11:57:19Z
@@ -5126,7 +5120,7 @@
   Updated: 2025-09-19T11:57:32Z
   Price: $125.99 USD
 - [Wilson Magnet Mount Antenna 800/1900 MHz](https://store42.co/products/magnetmount-antenna-w-sma-conn): Boost your connectivity with the Wilson Magnet Mount Antenna. Enjoy superior signal reception and seamless communication on the go with easy installation.
-  Updated: 2025-09-19T16:12:38Z
+  Updated: 2025-09-19T22:01:46Z
   Price: $58.99 USD
 - [WeBoost In-Vehicle Cell Antenna](https://store42.co/products/in-vehicle-cell-antenna-w-smb): Boost your in-vehicle connectivity with the WeBoost Antenna. Enjoy reliable cellular signals while traveling with easy setup and enhanced performance.
   Updated: 2025-09-19T11:57:34Z
@@ -5150,7 +5144,7 @@
   Updated: 2025-09-19T11:57:40Z
   Price: $37.99 USD
 - [Wilson 20 Ft RG58 Coaxial Cable](https://store42.co/products/20-rg58-n-male-sma-male): Enhance your connectivity with the Wilson 20 Ft RG58 Coaxial Cable. Low loss N Male to SMA Male connectors for optimal performance in networks.
-  Updated: 2025-09-19T11:57:41Z
+  Updated: 2025-09-19T23:03:25Z
   Price: $60.99 USD
 - [Belkin Glass EZ Frame Camera Protector - 2 Pack](https://store42.co/products/glass-ez-frame-15): Safeguard your smartphone with Belkin's 2-pack Glass EZ Frame Camera Protector, ensuring maximum clarity and scratch-free photos. Upgrade your photography!
   Updated: 2025-09-19T11:57:42Z
@@ -5176,9 +5170,6 @@
 - [Wilson 10 Ft LMR400 Coax Cable](https://store42.co/products/10-wilson400-coax): Discover the Wilson 10 Ft LMR400 Coax Cable. Ultra low loss, durable N Male to N Male connection for enhanced performance in networking and communications.
   Updated: 2025-09-19T11:57:49Z
   Price: $66.99 USD
-- [NovaLine RGB Strip Light - 6.5ft Mood Enhancer](https://store42.co/products/6-5-rgb-strip-light): Elevate your space with the NovaLine 6.5Ft RGB Strip Light, perfect for gaming and decor! Enjoy 16 colors and easy installation for any mood.
-  Updated: 2025-09-19T11:57:50Z
-  Price: $58.99 USD
 - [SIIG 200W GaN PD 5-Port Charger](https://store42.co/products/siig-200w-gan-pd-charger): Charge all your devices with the SIIG 200W GaN PD Charger. Fast, efficient, and equipped with an LCD display, it's perfect for home or travel.
   Updated: 2025-09-19T11:57:51Z
   Price: $273.99 USD
@@ -5189,7 +5180,7 @@
   Updated: 2025-09-19T11:57:54Z
   Price: $105.99 USD
 - [VoltTech 10-Port USB Power Hub](https://store42.co/products/10-port-usb-a-c-charging): Charge multiple devices effortlessly with the VoltTech 10-Port 150W USB A C Power Hub. Enjoy wireless charging and remarkable safety features!
-  Updated: 2025-09-19T11:57:54Z
+  Updated: 2025-09-19T22:31:42Z
   Price: $262.99 USD
 - [Adesso 10W Qi Wireless Charger Pad](https://store42.co/products/10w-qi-wireless-charger): Charge on-the-go with the Adesso 10W Qi Charger. Its foldable design, fast charging, and safety features make it perfect for busy lifestyles.
   Updated: 2025-09-19T11:57:55Z
@@ -5204,7 +5195,7 @@
   Updated: 2025-09-19T11:57:58Z
   Price: $125.99 USD
 - [Belkin 2-Port USB Car Charger](https://store42.co/products/boost-charge-dual-car-charger): Stay powered on the go with the Belkin Boost Charge 2-Port USB Car Charger. Dual ports for fast charging and sleek design for modern travels.
-  Updated: 2025-09-19T19:37:02Z
+  Updated: 2025-09-19T22:01:25Z
   Price: $55.99 USD
 - [Belkin Dual USB-A Car Charger](https://store42.co/products/bst-chgr-dual-usb-a-car-chrgr): Charge your devices on the go with Belkin's 2-Port USB-A Car Charger. Fast charging, dual ports, and LED indicator for an efficient driving experience.
   Updated: 2025-09-19T11:58:00Z
@@ -5297,7 +5288,7 @@
   Updated: 2025-09-19T11:58:34Z
   Price: $30.00 USD
 - [Plaid Patchwork Henley Top](https://store42.co/products/waffle-stripe-plaid-patchwork-henley-knit-top): Discover the Waffle Stripe Plaid Patchwork Henley Top, a stylish, stretchy knit. Perfect for casual outings, it blends comfort and modern style effortlessly!
-  Updated: 2025-09-19T17:50:37Z
+  Updated: 2025-09-19T23:50:57Z
   Price: $36.28 USD
 - [Plaid Drop Shoulder Jacket](https://store42.co/products/plaid-button-up-drop-shoulder-jacket): Elevate your casual style with our plaid drop shoulder jacket, made from 100% polyester for comfort and easy maintenance. Perfect for layering!
   Updated: 2025-09-19T11:58:39Z
@@ -5324,7 +5315,7 @@
   Updated: 2025-09-19T11:59:06Z
   Price: $32.98 USD
 - [Trendsi Color Block Knit Cardigan](https://store42.co/products/color-block-knit-button-up-cardigan): Discover the perfect blend of style and comfort with the Trendsi Color Block Knit Button-Up Cardigan. Ideal for versatile layering all season long!
-  Updated: 2025-09-19T11:59:08Z
+  Updated: 2025-09-19T23:10:37Z
   Price: $48.88 USD
 - [Stylish Plaid Wide Leg Pants](https://store42.co/products/plaid-wide-leg-pants-with-drawstring-waist): Elevate your wardrobe with our plaid wide leg pants featuring a drawstring waist and pockets. Comfort meets chic in every outfit. Shop now!
   Updated: 2025-09-19T11:59:13Z
@@ -5528,7 +5519,7 @@
   Updated: 2025-09-19T12:03:29Z
   Price: $55.72 USD
 - [Color Block Plaid Notched Long Sleeve Top](https://store42.co/products/color-block-plaid-notched-long-sleeve-top): Stay stylish and comfortable with our Color Block Plaid Notched Long Sleeve Top. Perfect for any occasion, machine washable, and slightly stretchy for a great fit.
-  Updated: 2025-09-19T12:03:32Z
+  Updated: 2025-09-19T23:51:00Z
   Price: $36.28 USD
 - [Trendsi Paisley Long Sleeve Blouse](https://store42.co/products/paisley-pattern-notched-long-sleeve-blouse): Elevate your style with the Trendsi Paisley Long Sleeve Blouse. 100% cotton, embroidered design, and chic notched collar for a standout wardrobe piece!
   Updated: 2025-09-19T12:03:42Z
@@ -5792,7 +5783,7 @@
   Updated: 2025-09-19T12:08:39Z
   Price: $36.74 USD
 - [Chic Checkered Open Front Cardigan](https://store42.co/products/checkered-pattern-open-front-cardigan): Discover the Trendy Checkered Pattern Open Front Cardigan. A stylish, stretchy blend, perfect for layering and versatile enough for any occasion.
-  Updated: 2025-09-19T15:11:46Z
+  Updated: 2025-09-19T23:30:41Z
   Price: $55.82 USD
 - [Plaid Scoop Neck Top & Shorts Set](https://store42.co/products/plaid-tied-scoop-neck-short-sleeve-top-and-drawstring-shorts-set): Elevate your casual style with our Plaid Tied Scoop Neck Top and Drawstring Shorts Set. Soft, stylish, and perfect for any occasion.
   Updated: 2025-09-19T12:08:46Z
@@ -5807,7 +5798,7 @@
   Updated: 2025-09-19T12:08:55Z
   Price: $24.10 USD
 - [Mandy Classic Plaid Long Sleeve Shirt](https://store42.co/products/mandy-plaid-collared-neck-long-sleeve-shirt): Discover the Mandy Classic Plaid Long Sleeve Shirt, perfect for any occasion. Stylish, versatile, and crafted for comfort—revamp your wardrobe now!
-  Updated: 2025-09-19T18:45:19Z
+  Updated: 2025-09-19T20:15:18Z
   Price: $20.00 USD
 - [Plus Size GAME DAY Graphic T-Shirt](https://store42.co/products/full-size-game-day-checkered-letter-graphic-t-shirt-plus-size): Score big on style with our plus size GAME DAY Checkered Letter Graphic T-Shirt. Comfort meets flair for every game and casual outing!
   Updated: 2025-09-19T18:30:57Z
@@ -5825,7 +5816,7 @@
   Updated: 2025-09-19T12:09:11Z
   Price: $45.82 USD
 - [Cropped Teddy Fleece Sweater - Heart Design](https://store42.co/products/pol-v-neck-heart-pattern-checkered-sweater-4): Elevate your casual style with our cropped teddy fleece sweater. Soft, warm, and trendy with heart patterns for a chic look. Perfect for layering!
-  Updated: 2025-09-19T12:09:13Z
+  Updated: 2025-09-19T23:37:51Z
   Price: $52.80 USD
 - [Men's Gingham Short Sleeve Shirt](https://store42.co/products/gingham-short-sleeve-button-up-shirt): Elevate your style with our Men's Gingham Short Sleeve Shirt, crafted from 100% polyester for comfort and easy care—machine washable for your convenience!
   Updated: 2025-09-19T12:09:19Z
@@ -5900,7 +5891,7 @@
   Updated: 2025-09-19T12:10:36Z
   Price: $50.04 USD
 - [Chic Checkered Two-Piece Set](https://store42.co/products/checkered-long-sleeve-top-and-skirt-two-piece-set): Elevate your style with our chic checkered two-piece set! Made from comfortable stretch fabric, it's perfect for any occasion. Shop now!
-  Updated: 2025-09-19T12:10:39Z
+  Updated: 2025-09-19T23:30:41Z
   Price: $40.46 USD
 - [Chic Plaid 2-Piece Set with Pockets](https://store42.co/products/plaid-button-up-shirt-and-skirt-set): Discover our chic plaid 2-piece set featuring a button-up shirt and ruffled skirt. Perfect for any occasion, available in sizes S to XL.
   Updated: 2025-09-19T12:10:41Z
@@ -6374,7 +6365,7 @@
   Updated: 2025-09-19T12:24:55Z
   Price: $48.16 USD
 - [High-Low Dropped Shoulder Hoodie](https://store42.co/products/double-take-full-size-high-low-dropped-shoulder-long-sleeve-hoodie): Discover comfort with our Double Take High-Low Hoodie. Its stylish design and soft fabric make it perfect for any occasion. Explore your size today!
-  Updated: 2025-09-19T12:25:03Z
+  Updated: 2025-09-19T20:59:36Z
   Price: $32.14 USD
 - [Judy Blue High-Waisted Straight Jeans](https://store42.co/products/judy-blue-full-size-button-fly-straight-jeans): Elevate your style with Judy Blue High-Waisted Button-Fly Medium Wash Straight Jeans. Perfect blend of comfort and trend for any occasion!
   Updated: 2025-09-19T12:25:04Z
@@ -6455,7 +6446,7 @@
   Updated: 2025-09-19T12:27:01Z
   Price: $45.02 USD
 - [Plus Size Lounge Set: Comfort & Style](https://store42.co/products/full-size-oversized-slit-round-neck-top-and-shorts-lounge-set-plus-size): Discover our Plus Size Oversized Slit Lounge Set, designed for ultimate comfort with stylish flair. Perfect for relaxing or running errands!
-  Updated: 2025-09-19T12:27:21Z
+  Updated: 2025-09-19T22:53:19Z
   Price: $28.08 USD
 - [Frill Backless Midi Dress by Perfee](https://store42.co/products/perfee-frill-backless-printed-sleeveless-midi-dress): Elevate your style with the Perfee Frill Backless Printed Midi Dress. Perfect for summer outings, this chic piece features vibrant prints and a flirty backless design.
   Updated: 2025-09-19T12:27:24Z
@@ -6524,7 +6515,7 @@
   Updated: 2025-09-19T12:28:23Z
   Price: $29.08 USD
 - [Trendy Racerback Tank Top for All Day Wear](https://store42.co/products/basic-bae-full-size-round-neck-racerback-tank): Discover comfort and style with the Trendy Basic Bae Racerback Tank. This versatile piece is perfect for layering or solo styling, available from S to 3XL.
-  Updated: 2025-09-19T18:54:26Z
+  Updated: 2025-09-19T21:30:15Z
   Price: $19.98 USD
 - [Chic Seam Detail Long Sleeve Top](https://store42.co/products/double-take-seam-detail-round-neck-long-sleeve-top): Elevate your style with our chic Seam Detail Long Sleeve Top. Perfect for any occasion, this versatile piece combines comfort and elegance effortlessly.
   Updated: 2025-09-19T17:45:17Z
@@ -6587,7 +6578,7 @@
   Updated: 2025-09-19T12:29:52Z
   Price: $60.86 USD
 - [Stylish V-Neck Contrast Trim Top](https://store42.co/products/contrast-trim-v-neck-short-sleeve-knit-top): Discover the ultimate in comfort and style with our Stylish Contrast Trim V-Neck Top. Perfect for any occasion, it pairs well with anything!
-  Updated: 2025-09-19T19:01:48Z
+  Updated: 2025-09-19T23:37:52Z
   Price: $22.76 USD
 - [Champagne Balloon Sleeve Blouse](https://store42.co/products/umgee-satin-jacquard-balloon-sleeve-blouse): Elevate your style with the Champagne Balloon Sleeve Blouse. Soft, relaxed fit pairs perfectly with any outfit. Ideal for effortless chic.
   Updated: 2025-09-19T12:30:02Z
@@ -7586,7 +7577,7 @@
   Updated: 2025-09-19T12:59:13Z
   Price: $21.12 USD
 - [Disco Ball Cowboy Hat T-Shirt](https://store42.co/products/cowboy-hat-disco-ball-patched-round-neck-t-shirt): Stand out in our Cowboy Hat Disco Ball Round Neck T-Shirt. Unique, stylish, and comfortable for any occasion. Shine with confidence today!
-  Updated: 2025-09-19T19:32:51Z
+  Updated: 2025-09-19T23:50:44Z
   Price: $36.70 USD
 - [Chic Button Detail Mini Dress](https://store42.co/products/button-detail-printed-mini-dress): Discover our Chic Button Detail Printed Mini Dress, featuring ruched and ruffled accents, perfect for any occasion. Elevate your style effortlessly!
   Updated: 2025-09-19T12:59:19Z
@@ -7736,7 +7727,7 @@
   Updated: 2025-09-19T13:01:55Z
   Price: $31.64 USD
 - [Sleek Checkered Mock Neck Blouse](https://store42.co/products/checkered-mock-neck-long-sleeve-blouse): Discover the stylish Sheer Checkered Mock Neck Long Sleeve Blouse. Perfect for any occasion, this chic piece combines elegance with comfort seamlessly.
-  Updated: 2025-09-19T18:53:41Z
+  Updated: 2025-09-19T20:12:02Z
   Price: $18.32 USD
 - [Perfee Semi-Sheer Long Sleeve Dress](https://store42.co/products/perfee-lapel-collar-tied-mesh-long-sleeve-dress): Discover elegance with the Perfee Semi-Sheer Tied Dress. Perfect for any occasion, this versatile dress features a lapel collar & chic tied waist.
   Updated: 2025-09-19T13:02:04Z
@@ -8402,7 +8393,7 @@
   Updated: 2025-09-14T02:04:34Z
   Price: $11.10 USD
 - [Elegant Gold Chain Link Jewelry Set](https://store42.co/products/gold-chain-link-jewelry-set-with-necklace-and-bracelet): Elevate your style with our exquisite Gold Chain Link Jewelry Set. Crafted from titanium steel with 18K gold plating, perfect for any occasion!
-  Updated: 2025-09-14T02:04:46Z
+  Updated: 2025-09-19T21:02:11Z
   Price: $20.52 USD — $23.14 USD
 - [Elegant 18K Gold-Plated Rope Bracelet](https://store42.co/products/18k-gold-plated-bead-rope-bracelet): Elevate your style with our 18K gold-plated bead rope bracelet. Lightweight and adjustable, it's the perfect accessory for any occasion. Shop now!
   Updated: 2025-09-14T02:05:09Z
@@ -8423,7 +8414,7 @@
   Updated: 2025-09-14T02:05:32Z
   Price: $76.86 USD
 - [Chic Low Heel Buckle Loafers](https://store42.co/products/round-toe-low-heel-buckle-loafers): Discover comfort and elegance with our stylish round toe low heel buckle loafers. Perfect for all-day wear, these versatile shoes are a must-have!
-  Updated: 2025-09-18T17:09:47Z
+  Updated: 2025-09-19T21:00:56Z
   Price: $29.32 USD
 - [PU Leather Christmas Tree Earrings](https://store42.co/products/pu-leather-cutout-christmas-tree-earrings): Elevate your holiday style with our PU Leather Cutout Christmas Tree Earrings—perfect for festive occasions and thoughtful gifts. Shop now!
   Updated: 2025-09-14T02:05:53Z
@@ -8453,10 +8444,10 @@
   Updated: 2025-09-14T02:06:58Z
   Price: $23.76 USD
 - [Leopard Print Drop Shoulder Denim Jacket](https://store42.co/products/distressed-leopard-drop-shoulder-denim-jacket): Unleash your style with our Distressed Leopard Print Drop Shoulder Denim Jacket. Perfect for layering, it combines trendy design with practical pockets.
-  Updated: 2025-09-19T12:54:50Z
+  Updated: 2025-09-19T23:50:51Z
   Price: $52.48 USD
 - [Chic Plus Size Denim Dress with Zip Front](https://store42.co/products/full-size-zip-front-short-sleeve-denim-dress-plus-size): Elevate your fashion game with our Plus Size Zip Front Denim Dress. Perfect for casual outings, featuring a flattering fit and handy pockets!
-  Updated: 2025-09-14T20:04:13Z
+  Updated: 2025-09-19T23:50:50Z
   Price: $41.64 USD
 - [Elegant 5 Carat Moissanite Ring](https://store42.co/products/5-carat-moissanite-925-sterling-silver-ring-14): Adorn yourself with our stunning 5 Carat Moissanite Ring in platinum-plated sterling silver. A perfect eco-friendly gift for any occasion. Shop now!
   Updated: 2025-09-14T02:07:35Z
@@ -9062,7 +9053,7 @@
   Updated: 2025-09-14T02:38:02Z
   Price: $43.40 USD
 - [Chic Stripe Two-Piece Set](https://store42.co/products/stripe-collared-top-and-drawstring-pant-set): Discover effortless elegance with our Stripe Collared Two-Piece Set. Perfect for casual outings, this stylish ensemble combines comfort and trendiness.
-  Updated: 2025-09-19T18:10:36Z
+  Updated: 2025-09-19T23:11:02Z
   Price: $72.02 USD
 - [Chic 2-Piece Square Neck Swim Set](https://store42.co/products/square-neck-top-and-skirt-swim-set): Discover our trendy 2-piece square neck swim set featuring removable padding and stretchy fabric for ultimate comfort this summer.
   Updated: 2025-09-14T02:38:35Z
@@ -9290,7 +9281,7 @@
   Updated: 2025-09-14T02:51:05Z
   Price: $12.60 USD
 - [Bootcut Distressed Plus Size Jeans](https://store42.co/products/risen-full-size-distressed-detail-bootcut-jeans-plus-size): Elevate your style with RISEN's bootcut distressed plus size jeans. Perfectly blend comfort and elegance for any occasion. Shop now!
-  Updated: 2025-09-19T17:11:11Z
+  Updated: 2025-09-19T21:26:43Z
   Price: $66.02 USD — $69.50 USD
 - [Elegant 2 Carat Moissanite Teardrop Ring](https://store42.co/products/2-carat-925-sterling-silver-moissanite-teardrop-shape-ring): Discover the 2 Carat Moissanite Teardrop Ring in 925 Sterling Silver. Perfect for engagements or special occasions, this jewelry piece shines bright!
   Updated: 2025-09-14T02:51:15Z
@@ -9584,7 +9575,7 @@
   Updated: 2025-09-18T12:45:14Z
   Price: $8.76 USD
 - [Glitter Ghost Women's T-Shirt](https://store42.co/products/glitter-ghost-round-neck-short-sleeve-t-shirt): Unleash your style with the Glitter Ghost Short Sleeve T-Shirt! Made from stretchy fabric, it's perfect for any occasion and machine washable.
-  Updated: 2025-09-19T19:32:50Z
+  Updated: 2025-09-19T23:50:45Z
   Price: $29.44 USD
 - [Elegant Pearl Moissanite Earrings](https://store42.co/products/925-sterling-silver-freshwater-pearl-earrings): Discover elegance with our Sterling Silver Freshwater Pearl Earrings featuring Moissanite accents. Perfect for any occasion, blend charm and sophistication!
   Updated: 2025-09-14T03:02:55Z
@@ -10397,7 +10388,7 @@
   Updated: 2025-09-14T03:36:42Z
   Price: $63.46 USD
 - [Star Pattern Raw Edge Long Sleeve Sweater](https://store42.co/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Elevate your style with the cozy Double Take Star Pattern Sweater. Perfect for any occasion, this piece combines comfort and trendy design in one!
-  Updated: 2025-09-19T17:13:15Z
+  Updated: 2025-09-19T22:00:17Z
   Price: $54.76 USD
 - [3 Carat Moissanite Ring in Silver](https://store42.co/products/3-carat-moissanite-925-sterling-silver-ring-15): Discover elegance with our 3 Carat Moissanite Ring in 925 Sterling Silver and Platinum-Plated finish. Perfect for gifting or personal indulgence!
   Updated: 2025-09-14T03:36:56Z
@@ -10799,7 +10790,7 @@
   Updated: 2025-09-14T03:51:31Z
   Price: $16.52 USD
 - [Tummy Control Mid Rise Flare Jeans](https://store42.co/products/risen-full-size-tummy-control-mid-rise-flare-jeans-plus-size): Elevate your style with RISEN's Tummy Control Mid Rise Flare Jeans. Perfect fit for all occasions, ensuring comfort and confidence. Explore your style now!
-  Updated: 2025-09-18T12:09:51Z
+  Updated: 2025-09-19T21:28:06Z
   Price: $64.86 USD — $68.34 USD
 - [Trendy Buttoned Denim Jacket](https://store42.co/products/buttoned-collared-neck-denim-jacket-with-pockets): Upgrade your wardrobe with our stylish buttoned collared denim jacket. Perfect for casual outings with pockets for convenience and comfort. Shop now!
   Updated: 2025-09-14T03:52:01Z
@@ -10916,7 +10907,7 @@
   Updated: 2025-09-14T03:56:11Z
   Price: $7.80 USD
 - [Sequin US Flag T-Shirt for All Sizes](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt): Celebrate your patriotism in style with our Sequin US Flag T-Shirt. Made with soft fabric, available in sizes S-2XL. Order yours now and shine!
-  Updated: 2025-09-19T19:32:52Z
+  Updated: 2025-09-19T23:50:50Z
   Price: $30.98 USD
 - [Plus Size US Flag Graphic V-Neck Tee](https://store42.co/products/plus-size-us-flag-graphic-v-neck-tee): Show off your patriotic spirit with this Plus Size US Flag Graphic V-Neck Tee. Comfort and style blend perfectly for any occasion. Shop now!
   Updated: 2025-09-17T01:20:42Z
@@ -10949,7 +10940,7 @@
   Updated: 2025-09-14T03:57:13Z
   Price: $28.68 USD
 - [Rhinestone US Flag T-Shirt](https://store42.co/products/rhinestone-us-flag-round-neck-short-sleeve-t-shirt): Show your patriotic side with this stylish Rhinestone US Flag Round Neck T-Shirt. Perfect for casual outings, festivals, or everyday wear!
-  Updated: 2025-09-19T19:33:03Z
+  Updated: 2025-09-19T23:50:50Z
   Price: $30.72 USD
 - [Peace Patch Dropped Shoulder Sweatshirt](https://store42.co/products/sage-fig-contrast-peace-patch-dropped-shoulder-sweatshirt-1): Elevate your style with the SAGE + FIG Contrast Peace Patch Sweatshirt. Oversized fit, artistic design, perfect for any casual occasion. Shop now!
   Updated: 2025-09-14T03:57:22Z
@@ -10967,7 +10958,7 @@
   Updated: 2025-09-14T03:57:50Z
   Price: $33.02 USD
 - [US Flag Graphic T-Shirt for Everyone](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-4): Show your patriotism with our stylish US Flag Graphic T-Shirt. Perfect for casual outings or layered looks, it's a must-have for every wardrobe!
-  Updated: 2025-09-19T19:33:36Z
+  Updated: 2025-09-19T23:50:50Z
   Price: $30.58 USD
 - [US Flag Pattern Wooden Earrings](https://store42.co/products/us-flag-pattern-wooden-earrings): Discover our unique Wooden US Flag Pattern Earrings, crafted from lightweight alloy and wood for stylish comfort. Perfect for any occasion!
   Updated: 2025-09-14T03:57:59Z
@@ -10988,10 +10979,10 @@
   Updated: 2025-09-14T03:58:27Z
   Price: $8.56 USD
 - [Sparkling Sequin Star T-Shirt](https://store42.co/products/sequin-stars-patched-round-neck-t-shirt): Discover the stylish Sequin Stars Patched T-Shirt. Soft stretch fabric offers comfort, while the unique design adds sparkle and flair to any outfit.
-  Updated: 2025-09-19T19:33:30Z
+  Updated: 2025-09-19T23:51:03Z
   Price: $29.34 USD
 - [US Flag Women's Tee - Casual Comfort](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-7): Celebrate your style and patriotism with our US Flag Short Sleeve T-Shirt for women. Soft, durable, and perfect for any casual occasion!
-  Updated: 2025-09-19T19:32:32Z
+  Updated: 2025-09-19T23:50:56Z
   Price: $33.02 USD
 - [FAM-FAM Star Striped Tank Top](https://store42.co/products/fam-fam-star-striped-square-neck-tank): Elevate your style with the FAM-FAM Star Striped Tank Top. Crafted from soft, stretchy fabric, it pairs perfectly for casual outings or chic layering.
   Updated: 2025-09-14T03:58:43Z
@@ -11003,7 +10994,7 @@
   Updated: 2025-09-14T03:58:55Z
   Price: $60.44 USD
 - [US Flag Women's T-Shirt - Patriotic Style](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-8): Show your patriotism with our US Flag Round Neck T-Shirt for Women. Comfortable, stylish, and perfect for any casual outing. Order yours today!
-  Updated: 2025-09-19T19:31:47Z
+  Updated: 2025-09-19T23:50:51Z
   Price: $30.76 USD
 - [Floral Off-Shoulder Maxi Dress](https://store42.co/products/adora-layered-floral-off-shoulder-short-sleeve-maxi-dress): Elevate your style with the ADORA Layered Floral Off-Shoulder Maxi Dress. Perfect for any occasion, it offers comfort and elegance in one stunning piece.
   Updated: 2025-09-14T03:59:10Z
@@ -11012,7 +11003,7 @@
   Updated: 2025-09-19T04:02:07Z
   Price: $29.80 USD
 - [Patriotic Heart T-Shirt](https://store42.co/products/stars-and-stripes-heart-round-neck-short-sleeve-t-shirt): Show your patriotic spirit with our Stars and Stripes Heart T-Shirt. Chic, comfortable, and easy to care for—perfect for casual outings!
-  Updated: 2025-09-19T19:32:36Z
+  Updated: 2025-09-19T23:50:51Z
   Price: $30.76 USD
 - [Sequin Star Short Sleeve T-Shirt](https://store42.co/products/sequin-star-round-neck-short-sleeve-t-shirt-1): Shine brightly in our trendy Sequin Star Short Sleeve T-Shirt! Perfect for any occasion, this comfy shirt is a must-have for your wardrobe!
   Updated: 2025-09-19T19:12:11Z
@@ -11024,7 +11015,7 @@
   Updated: 2025-09-14T03:59:40Z
   Price: $68.48 USD
 - [Patriotic US Flag T-Shirt](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-9): Showcase your American pride with our US Flag Round Neck T-Shirt. Made from soft polyester and cotton, it's perfect for any casual occasion. Grab yours!
-  Updated: 2025-09-19T19:32:11Z
+  Updated: 2025-09-19T23:50:35Z
   Price: $30.98 USD
 - [ADORA Watercolor V-Neck Midi Dress](https://store42.co/products/adora-watercolor-v-neck-midi-cami-dress): Elevate your summer style with the ADORA Watercolor V-Neck Midi Dress. Perfect for events, its lightweight design offers comfort and elegance for every occasion.
   Updated: 2025-09-14T03:59:53Z
@@ -11111,7 +11102,7 @@
   Updated: 2025-09-19T09:00:41Z
   Price: $35.66 USD
 - [Patriotic US Flag Women's T-Shirt](https://store42.co/products/us-flag-round-neck-short-sleeve-t-shirt-14): Show your patriotism with our US Flag Round Neck T-Shirt for women. Perfect for casual outings, this stretchy tee combines comfort and style!
-  Updated: 2025-09-19T19:33:02Z
+  Updated: 2025-09-19T23:50:51Z
   Price: $30.76 USD
 - [Chic Sequin Star Short Sleeve Top](https://store42.co/products/exposed-seam-star-round-neck-short-sleeve-top): Elevate your wardrobe with our Sequin Detail Short Sleeve Top. Perfect for any occasion, it blends style and comfort effortlessly. Shop now!
   Updated: 2025-09-19T08:30:51Z
@@ -11138,7 +11129,7 @@
   Updated: 2025-09-15T03:33:22Z
   Price: $72.58 USD
 - [Chic Bow Trim Medium Shoulder Bag](https://store42.co/products/pu-leather-bow-trim-shoulder-bag): Discover the perfect blend of style and practicality with our Medium PU Leather Bow Trim Shoulder Bag, ideal for any occasion and daily use.
-  Updated: 2025-09-16T11:32:16Z
+  Updated: 2025-09-19T21:11:37Z
   Price: $29.10 USD
 - [Chic Bowtie Collared Shirt](https://store42.co/products/ribbon-bowtie-collared-neck-flounce-sleeve-shirt): Elevate your style with our Chic Ribbon Bowtie Collared Shirt. Made from breathable 100% cotton, perfect for any occasion. Shop now for a trendy look!
   Updated: 2025-09-14T04:04:38Z
@@ -11168,7 +11159,7 @@
   Updated: 2025-09-14T04:06:43Z
   Price: $45.60 USD
 - [Festive Santa & Bow Graphic T-Shirt](https://store42.co/products/santa-bow-graphic-round-neck-short-sleeve-t-shirt): Celebrate the holidays in style! Our Santa & Bow Graphic T-Shirt is perfect for festive gatherings and cozy winter days. Shop now for comfort and cheer!
-  Updated: 2025-09-19T19:33:26Z
+  Updated: 2025-09-19T23:50:57Z
   Price: $26.08 USD
 - [Chic Striped Round Neck Sweater](https://store42.co/products/striped-round-neck-long-sleeve-sweater-2): Discover ultimate comfort and style with our Striped Round Neck Long Sleeve Sweater. Perfect for casual outings and effortless layering. Get yours!
   Updated: 2025-09-14T04:06:59Z
@@ -11207,13 +11198,13 @@
   Updated: 2025-09-14T04:09:18Z
   Price: $21.82 USD
 - [Sheer Lace Mock Neck Top - Trendsi](https://store42.co/products/mock-neck-long-sleeve-lace-top): Elevate your style with this Sheer Mock Neck Long Sleeve Lace Top. Perfect for layering or wearing alone for an elegant look. Machine washable.
-  Updated: 2025-09-14T04:09:49Z
+  Updated: 2025-09-19T22:29:56Z
   Price: $29.70 USD
 - [Leopard Print Nylon Crossbody Bag](https://store42.co/products/leopard-nylon-crossbody-bag): Discover the stylish Leopard Print Nylon Crossbody Bag. Its chic design and functional space make it the perfect accessory for any outfit or outing!
   Updated: 2025-09-12T04:25:20Z
   Price: $16.46 USD
 - [Chic Thankful Sequin T-Shirt for Women](https://store42.co/products/thankful-sequin-round-neck-short-sleeve-t-shirt): Shop our Thankful Sequin T-Shirt! This stylish, slightly stretchy top features gorgeous sequins, perfect for any occasion. Elevate your wardrobe now!
-  Updated: 2025-09-19T19:32:43Z
+  Updated: 2025-09-19T23:51:00Z
   Price: $28.50 USD
 - [Chic Fuzzy Mini Handbag](https://store42.co/products/fuzzy-polyester-mini-handbag-with-zipper): Elevate your style with our Fuzzy Mini Handbag, crafted from PU leather and polyester. Compact, chic, and perfect for on-the-go essentials!
   Updated: 2025-09-12T09:50:11Z
@@ -11258,7 +11249,7 @@
   Updated: 2025-09-14T04:13:02Z
   Price: $52.14 USD
 - [Contrast Striped Half Button Sweater](https://store42.co/products/contrast-striped-half-button-round-neck-sweater): Upgrade your style with our Contrast Striped Half Button Sweater. Soft, stretchy, and machine washable—perfect for any occasion. Shop now!
-  Updated: 2025-09-19T07:21:07Z
+  Updated: 2025-09-19T23:10:46Z
   Price: $41.12 USD
 - [Chic Bow Boat Neck Long Sleeve Sweater](https://store42.co/products/bow-boat-neck-long-sleeve-sweater): Elevate your wardrobe with our chic Bow Boat Neck Long Sleeve Sweater. Crafted from soft polyester for comfort, perfect for any occasion. Embrace elegance!
   Updated: 2025-09-14T04:13:24Z
@@ -11348,7 +11339,7 @@
   Updated: 2025-09-14T04:17:39Z
   Price: $48.20 USD
 - [Sparkling Sequin Pumpkin Tee](https://store42.co/products/sequin-pumpkin-round-neck-short-sleeve-t-shirt): Celebrate Halloween in style with our Sparkling Sequin Pumpkin T-Shirt. Comfortable, chic, and perfect for festive occasions this fall!
-  Updated: 2025-09-19T19:33:03Z
+  Updated: 2025-09-19T23:50:51Z
   Price: $32.28 USD
 - [Leopard Print Buttoned Sweater](https://store42.co/products/leopard-buttoned-square-neck-sweater): Step out boldly in our Leopard Print Buttoned Square Neck Sweater. Made from 100% acrylic, it offers style, comfort, and versatility for any occasion.
   Updated: 2025-09-14T04:18:02Z
@@ -11408,7 +11399,7 @@
   Updated: 2025-09-18T02:46:22Z
   Price: $37.22 USD
 - [Trendy Sequin Striped Sweatshirt](https://store42.co/products/sequin-football-striped-long-sleeve-sweatshirt): Shop our Trendy Sequin Football Striped Sweatshirt. Soft cotton blend, chic design, and perfect for game days or casual outings. Elevate your wardrobe!
-  Updated: 2025-09-19T08:04:21Z
+  Updated: 2025-09-19T20:50:44Z
   Price: $49.60 USD
 - [Striped Long Sleeve Top with Pockets](https://store42.co/products/striped-round-neck-long-sleeve-top-1): Elevate your wardrobe with Trendsi’s Women’s Striped Long Sleeve Top. Comfortable, chic, and practical, perfect for any occasion. Shop now!
   Updated: 2025-09-14T04:20:55Z
@@ -11444,7 +11435,7 @@
   Updated: 2025-09-14T04:22:02Z
   Price: $13.02 USD
 - [Sequin Bow Button Up Shacket](https://store42.co/products/double-take-full-size-sequin-bow-button-up-shacket): Elevate your style with the shimmering Double Take Sequin Bow Shacket. Perfect for layering, it's the blend of comfort and glamorous fashion you need!
-  Updated: 2025-09-14T04:22:06Z
+  Updated: 2025-09-19T23:44:05Z
   Price: $54.96 USD
 - [Stylish Longline Printed Cardigan](https://store42.co/products/double-take-printed-button-front-longline-cardigan): Transform your outfits with the Double Take Printed Cardigan. Perfect for layering, it's versatile and comfortable, adding sophistication to any look!
   Updated: 2025-09-15T14:09:01Z
@@ -11558,10 +11549,10 @@
   Updated: 2025-09-19T06:01:56Z
   Price: $58.90 USD
 - [Leopard Print Long-Sleeved Sweater](https://store42.co/products/round-neck-leopard-print-stitched-long-sleeved-sweater): Unleash your style with our chic leopard print long-sleeved sweater. Perfect for layering, it combines comfort and trend, making it a wardrobe essential!
-  Updated: 2025-09-17T09:10:35Z
+  Updated: 2025-09-19T21:10:56Z
   Price: $44.22 USD
 - [Trendy Striped Contrast Sweater](https://store42.co/products/striped-contrast-round-neck-long-sleeve-sweater): Upgrade your style with this chic striped contrast sweater. Soft acrylic, versatile design, and perfect for layering. Available in multiple sizes!
-  Updated: 2025-09-14T04:30:02Z
+  Updated: 2025-09-19T22:28:14Z
   Price: $36.60 USD
 - [Umgee Polka Dot Lace Blouse](https://store42.co/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse): Elevate your style with the Umgee Polka Dot Lace Long Sleeve Blouse. Perfect for any occasion, this chic design offers comfort and elegance.
   Updated: 2025-09-14T04:30:06Z
@@ -11738,7 +11729,7 @@
   Updated: 2025-09-14T04:40:26Z
   Price: $41.14 USD
 - [Trendy Striped Long Sleeve Sweatshirt](https://store42.co/products/exposed-seam-striped-long-sleeve-sweatshirt): Enjoy ultimate comfort and style with our Exposed Seam Striped Long Sleeve Sweatshirt, made from a soft cotton blend for easy movement. Perfect for casual outings!
-  Updated: 2025-09-19T16:12:40Z
+  Updated: 2025-09-19T22:56:32Z
   Price: $45.52 USD
 - [Plus Size Leopard Print V-Neck Blouse](https://store42.co/products/plus-size-leopard-v-neck-raglan-sleeve-blouse): Elevate your style with the Trendsi Plus Size Leopard Print Blouse featuring a V-neck and raglan sleeves. Experience comfort and bold fashion in one!
   Updated: 2025-09-14T04:40:43Z
@@ -11915,7 +11906,7 @@
   Updated: 2025-09-15T14:31:27Z
   Price: $49.48 USD
 - [Chic Bow Graphic Long Sleeve Sweatshirt](https://store42.co/products/bow-graphic-round-neck-long-sleeve-sweatshirt): Discover the stylish Bow Graphic Opaque Long Sleeve Sweatshirt crafted from a soft cotton blend. Perfect for any casual occasion, easy care and chic!
-  Updated: 2025-09-18T23:21:26Z
+  Updated: 2025-09-19T23:30:41Z
   Price: $42.24 USD
 - [Trendy Tied Printed Jacket](https://store42.co/products/tied-printed-collared-neck-long-sleeve-jacket): Elevate your style with this chic Tied Printed Collared Neck Jacket. Crafted for comfort, it's perfect for any occasion and easy to maintain.
   Updated: 2025-09-14T04:51:51Z
@@ -12026,7 +12017,7 @@
   Updated: 2025-09-14T04:57:56Z
   Price: $27.98 USD
 - [Leopard Print Long Sleeve Blouse](https://store42.co/products/leopard-round-neck-long-sleeve-blouse): Elevate your style with our sleek leopard print long sleeve blouse. Comfortable, trendy, and perfect for any occasion, it's a wardrobe essential!
-  Updated: 2025-09-15T12:51:17Z
+  Updated: 2025-09-19T23:11:07Z
   Price: $29.80 USD
 - [Trendy Contrast Stripes Sweater for Women](https://store42.co/products/contrast-stripes-round-neck-long-sleeve-sweater-2): Discover the perfect blend of style and comfort with our trendy contrast stripes sweater for women. Soft fabric and modern design make it essential!
   Updated: 2025-09-14T04:58:16Z
@@ -12221,7 +12212,7 @@
   Updated: 2025-09-14T05:07:42Z
   Price: $33.92 USD
 - [Festive Sequin Santa T-Shirt for Women](https://store42.co/products/sequin-santa-round-neck-short-sleeve-t-shirt): Celebrate in style with our Sequin Santa Graphic T-Shirt! Perfect for holiday gatherings, this comfy tee adds festive flair and comfort to your wardrobe.
-  Updated: 2025-09-19T19:33:31Z
+  Updated: 2025-09-19T23:50:50Z
   Price: $28.50 USD
 - [Glamorous Sequin Long Sleeve Dress](https://store42.co/products/sequin-round-neck-long-sleeve-dress): Dazzle at parties in our Glamorous Sequin Round Neck Long Sleeve Dress. Opaque sheer fabric, timeless design, and perfect for any special occasion.
   Updated: 2025-09-16T02:54:26Z
@@ -12335,7 +12326,7 @@
   Updated: 2025-09-18T02:42:15Z
   Price: $34.84 USD
 - [Chic Women's Bow Long Sleeve Sweatshirt](https://store42.co/products/bow-round-neck-long-sleeve-sweatshirt-1): Elevate your casual wardrobe with the Trendsi Women's Bow Sweatshirt. Soft, stylish, and versatile for any occasion. Shop now for effortless chic!
-  Updated: 2025-09-19T19:11:46Z
+  Updated: 2025-09-19T23:30:35Z
   Price: $43.36 USD
 - [Trendy Leopard Open Front Cardigan](https://store42.co/products/leopard-open-front-dropped-shoulder-cardigan): Discover the chic Leopard Open Front Cardigan, featuring pockets and moderate stretch for comfort. Perfect for any casual outfit. Shop today!
   Updated: 2025-09-14T05:14:35Z
@@ -12395,7 +12386,7 @@
   Updated: 2025-09-14T05:17:26Z
   Price: $25.64 USD
 - [Sequin Baseball Long Sleeve Sweatshirt](https://store42.co/products/sequin-baseball-long-sleeve-sweatshirt): Elevate your style with our Trendy Sequin Baseball Long Sleeve Sweatshirt, blending comfort and glam in a structured fit. Perfect for any occasion!
-  Updated: 2025-09-18T23:21:25Z
+  Updated: 2025-09-19T23:30:42Z
   Price: $44.84 USD
 - [Trendy Sequin T-Shirt - Shine Bright!](https://store42.co/products/sequin-round-neck-short-sleeve-t-shirt-2): Elevate your style with our Trendy Sequin Round Neck T-Shirt. Perfect for any occasion, this machine washable top combines comfort with elegance.
   Updated: 2025-09-19T18:30:58Z
@@ -12620,7 +12611,7 @@
   Updated: 2025-09-14T05:32:27Z
   Price: $30.50 USD
 - [Striped Open Front Cardigan](https://store42.co/products/striped-open-front-long-sleeve-cardigan): Upgrade your wardrobe with our Striped Long Sleeve Cardigan. Perfect for layering and crafted from a soft, flexible fabric for comfort. Shop now!
-  Updated: 2025-09-19T16:50:48Z
+  Updated: 2025-09-19T23:10:45Z
   Price: $53.38 USD
 - [Trendy Striped Long Sleeve Sweater](https://store42.co/products/striped-round-neck-long-sleeve-sweater-10): Discover the perfect blend of style and comfort with our Trendy Striped Round Neck Sweater. Ideal for casual outings or cozy days at home, get yours today!
   Updated: 2025-09-19T01:04:02Z
@@ -12758,7 +12749,7 @@
   Updated: 2025-09-16T08:31:00Z
   Price: $27.84 USD
 - [Leopard Print Long Sleeve Jacket](https://store42.co/products/leopard-button-down-long-sleeve-jacket): Elevate your style with our Leopard Print Long Sleeve Jacket! Lightweight, practical pockets, and machine washable. Perfect for any outfit.
-  Updated: 2025-09-18T01:06:01Z
+  Updated: 2025-09-19T21:11:02Z
   Price: $60.26 USD
 - [Trendy Printed Half Sleeve Top](https://store42.co/products/printed-round-neck-half-sleeve-top): Discover the ultimate blend of style and comfort with our Trendy Printed Round Neck Half Sleeve Top. Perfect for any occasion, get yours today!
   Updated: 2025-09-18T07:21:03Z
@@ -12893,7 +12884,7 @@
   Updated: 2025-09-19T05:42:26Z
   Price: $58.56 USD
 - [Glam Sequin Short Sleeve T-Shirt](https://store42.co/products/sequin-round-neck-short-sleeve-t-shirt-4): Elevate your style with our Trendy Sequin T-Shirt. Perfect for brunch or nights out, this comfy tee flaunts shimmering details that shine!
-  Updated: 2025-09-19T19:32:31Z
+  Updated: 2025-09-19T23:51:01Z
   Price: $30.94 USD
 - [Gingerbread Man Sequin Sweatshirt](https://store42.co/products/sequin-gingerbread-man-long-sleeve-sweatshirt): Celebrate the season in style with our Gingerbread Man Sequin Long Sleeve Sweatshirt. Perfect for holiday parties and cozy nights. Get yours today!
   Updated: 2025-09-14T05:47:13Z
@@ -13043,7 +13034,7 @@
   Updated: 2025-09-14T05:56:03Z
   Price: $45.78 USD
 - [RISEN High Rise Straight Leg Jeans](https://store42.co/products/risen-full-size-high-rise-straight-leg-jeans-with-front-pockets-plus-size): Elevate your style with RISEN Full Size High Rise Straight Leg Jeans. Flattering fit, stylish design, and comfort—all in one pair. Shop now!
-  Updated: 2025-09-17T00:32:45Z
+  Updated: 2025-09-19T21:44:10Z
   Price: $65.58 USD — $69.06 USD
 - [Stylish Plus Size Scoop Neck Tank Top](https://store42.co/products/full-size-scoop-neck-wide-strap-tank-plus-size): Elevate your wardrobe with our Plus Size Scoop Neck Wide Strap Tank Top. Embrace comfort and style in a flattering fit for any occasion. Order yours today!
   Updated: 2025-09-18T03:54:22Z
@@ -13079,16 +13070,16 @@
   Updated: 2025-09-14T05:58:28Z
   Price: $111.16 USD
 - [Tummy Control Plus Size Straight Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-straight-jeans-plus-size-1): Discover comfort and style with RISEN's Tummy Control High Rise Straight Jeans. Perfect fit and flattering silhouette for every occasion!
-  Updated: 2025-09-19T17:44:56Z
+  Updated: 2025-09-19T21:28:34Z
   Price: $65.58 USD — $69.06 USD
 - [Chic Plus Size Palazzo Jeans](https://store42.co/products/risen-full-size-high-rise-ankle-wide-palazzo-jeans-plus-size): Elevate your style with RISEN High Rise Ankle Wide Palazzo Jeans. Comfort and elegance for curvy figures, perfect for any occasion.
-  Updated: 2025-09-19T15:35:53Z
+  Updated: 2025-09-19T21:28:13Z
   Price: $63.84 USD — $67.32 USD
 - [Plus Size Color Block Summer Dress](https://store42.co/products/full-size-color-block-tiered-ruffle-summer-dress-plus-size): Embrace summer style with our plus-size color block dress featuring tiered ruffles. Perfect for any occasion—stay cool and chic all season long!
   Updated: 2025-09-14T05:58:54Z
   Price: $24.30 USD
 - [Chic Plus Size Balloon Sleeve Blouse](https://store42.co/products/umgee-full-size-textured-notched-balloon-sleeve-blouse-plus-size): Elevate your style with the Umgee plus-size textured blouse featuring notched balloon sleeves. Perfect for any occasion, shop now for effortless elegance!
-  Updated: 2025-09-18T21:33:45Z
+  Updated: 2025-09-19T23:46:20Z
   Price: $50.24 USD — $54.86 USD
 - [Plus Size Flare Sleeve Dress](https://store42.co/products/ivy-lane-plus-size-surplice-neck-flare-sleeve-dress): Discover the Ivy Lane Plus Size Surplice Neck Flare Sleeve Dress. Combines elegance, comfort, and versatility for every occasion. Shop now!
   Updated: 2025-09-14T05:59:05Z
@@ -13127,7 +13118,7 @@
   Updated: 2025-09-14T07:20:56Z
   Price: $29.54 USD
 - [Bold Baggy Leg Tie Washed Jeans](https://store42.co/products/risen-full-size-mid-rise-fit-wide-baggy-leg-tie-washed-jeans-plus-size): Upgrade your style with RISEN's Plus Size Wide Baggy Leg Tie Washed Jeans. Comfort meets fashion in this chic and unique design. Shop now!
-  Updated: 2025-09-18T23:59:36Z
+  Updated: 2025-09-19T21:28:40Z
   Price: $70.08 USD — $73.56 USD
 - [Chic Plus Size V-Neck Blouse](https://store42.co/products/honey-plus-size-v-neck-flutter-sleeve-blouse): Elevate your style with the Chic Honey Plus Size V-Neck Blouse featuring flattering flutter sleeves, perfect for any occasion. Shop sizes 1XL to 4XL!
   Updated: 2025-09-14T06:01:10Z
@@ -13220,13 +13211,13 @@
   Updated: 2025-09-14T06:07:58Z
   Price: $30.00 USD
 - [Chic Plus Size Deep V Lace Night Dress](https://store42.co/products/plus-size-lace-trim-deep-v-night-dress): Stylish and comfortable plus size deep V lace trim nightdress available in sizes 0XL-5XL. Perfect for lounging or cozy nights in. Shop now!
-  Updated: 2025-09-14T06:08:04Z
+  Updated: 2025-09-19T22:39:55Z
   Price: $33.90 USD
 - [Plus Size Raglan Sleeve Button Coat](https://store42.co/products/full-size-button-front-raglan-sleeve-coat-plus-size): Discover ultimate comfort and style with our Plus Size Button-Front Raglan Sleeve Coat. Ideal for all occasions, featuring chic design and practical pockets.
   Updated: 2025-09-14T06:08:17Z
   Price: $45.60 USD
 - [RISEN Plus Size Wide Leg Jeans](https://store42.co/products/risen-full-size-mid-rise-fit-wide-leg-with-pleated-detail-jeans-plus-size): Elevate your style with the RISEN Plus Size Wide Leg Jeans. Mid-rise fit, pleated detail, and comfortable non-stretch fabric for a flattering silhouette.
-  Updated: 2025-09-17T16:26:03Z
+  Updated: 2025-09-19T21:28:12Z
   Price: $65.58 USD — $69.06 USD
 - [Trendy Plus Size Color Block Sweater](https://store42.co/products/plus-size-color-block-long-sleeve-sweater): Discover the Plus Size Color Block Long Sleeve Sweater. Soft viscose blend, slightly stretchy, and perfect for any stylish occasion. Elevate your wardrobe!
   Updated: 2025-09-14T06:08:30Z
@@ -13325,7 +13316,7 @@
   Updated: 2025-09-14T06:15:46Z
   Price: $32.06 USD
 - [High Rise Wide Leg Corduroy Jeans](https://store42.co/products/risen-full-size-high-rise-wide-leg-corduroy-jeans-plus-size): Elevate your style with RISEN's High Rise Wide Leg Corduroy Jeans. Perfect blend of comfort, trend, and practicality. Shop now for your unique fit!
-  Updated: 2025-09-18T15:31:23Z
+  Updated: 2025-09-19T21:28:19Z
   Price: $64.42 USD — $67.90 USD
 - [Floral Plus Size Midi Dress](https://store42.co/products/honey-plus-size-floral-round-neck-short-sleeve-midi-dress): Discover the elegance of our Honey Plus Size Floral Midi Dress, perfect for any occasion with its flattering A-line fit and chic design. Shop now!
   Updated: 2025-09-14T06:16:00Z
@@ -13415,7 +13406,7 @@
   Updated: 2025-09-14T06:21:31Z
   Price: $24.76 USD
 - [High Rise Flare Raw Cut Hem Plus Size Jeans](https://store42.co/products/risen-full-size-high-rise-flare-raw-cut-hem-jeans-plus-size): Elevate your style with RISEN Plus Size High Rise Flare Jeans featuring a raw cut hem. Perfect blend of chic and comfort for confident dressing.
-  Updated: 2025-09-19T17:45:12Z
+  Updated: 2025-09-19T21:27:53Z
   Price: $62.10 USD — $65.58 USD
 - [Bohemian Plus Size Maxi Pants](https://store42.co/products/plus-size-printed-wide-leg-long-pants): Discover stylish Bohemian Plus Size Printed Wide Leg Maxi Pants, perfect for tropical vibes and casual outings. Comfortable fit and unique design await!
   Updated: 2025-09-14T06:21:43Z
@@ -13430,7 +13421,7 @@
   Updated: 2025-09-14T06:22:21Z
   Price: $64.24 USD
 - [Tummy Control High Rise Plus Size Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-long-straight-jeans-plus-size): Elevate your style with RISEN Tummy Control High Rise Jeans. Enjoy comfort and chic design in plus sizes, perfect for any occasion.
-  Updated: 2025-09-19T15:21:36Z
+  Updated: 2025-09-19T21:27:04Z
   Price: $67.90 USD — $71.36 USD
 - [Plus Size Brushed Ribbed Hacci Sweater](https://store42.co/products/zenana-full-size-brushed-ribbed-hacci-drop-shoulder-sweater-plus-size): Stay stylish in the Zenana Brushed Ribbed Hacci Sweater. Comfort meets chic design with drop shoulders and soft fabric, perfect for any occasion.
   Updated: 2025-09-19T15:33:16Z
@@ -13685,7 +13676,7 @@
   Updated: 2025-09-14T06:42:53Z
   Price: $53.20 USD
 - [Plus Size High Rise Distressed Ankle Jeans](https://store42.co/products/risen-full-size-high-rise-ankle-straight-front-body-distressed-jeans-plus-size): Discover RISEN's flattering distressed ankle jeans for plus-size women. High-rise design for comfort and style, perfect for any occasion.
-  Updated: 2025-09-18T03:09:47Z
+  Updated: 2025-09-19T21:27:07Z
   Price: $60.80 USD — $64.28 USD
 - [Cozy Sherpa Lined Plus Size Toggle Coat](https://store42.co/products/full-size-cozy-sherpa-lined-toggle-coat-with-hood-plus-size): Embrace warmth and style this winter with our Cozy Sherpa Lined Toggle Coat, available in plus sizes from S to 5XL. Perfect for chilly days!
   Updated: 2025-09-14T06:43:57Z
@@ -13907,13 +13898,13 @@
   Updated: 2025-09-14T06:59:44Z
   Price: $45.36 USD
 - [RISEN Plus Size Mid Rise Barrel Jeans](https://store42.co/products/risen-full-size-mid-rise-fit-barrel-jeans-plus-size): Elevate your style with RISEN Plus Size Mid Rise Barrel Jeans, featuring slight stretch for comfort and a timeless look. Perfect for any occasion!
-  Updated: 2025-09-19T15:21:36Z
+  Updated: 2025-09-19T21:28:12Z
   Price: $67.76 USD — $71.24 USD
 - [Lace Detail Plus Size T-Shirt](https://store42.co/products/plus-size-lace-detail-round-neck-t-shirt): Discover elegance with our Plus Size Lace Detail T-Shirt, available in sizes L-4XL. Elevate your style effortlessly for any occasion!
   Updated: 2025-09-14T06:59:57Z
   Price: $42.08 USD
 - [Plus Size Wide Leg Crop Jeans](https://store42.co/products/risen-full-size-mid-rise-crop-wide-leg-jeans-plus-size): Shop the RISEN plus-size mid-rise crop jeans for a chic look. Premium stretch denim ensures comfort and style. Perfect for any occasion!
-  Updated: 2025-09-16T06:06:56Z
+  Updated: 2025-09-19T23:14:11Z
   Price: $63.70 USD — $67.18 USD
 - [Plus Size Criss-Cross Denim Shorts](https://store42.co/products/judy-blue-plus-size-high-waist-criss-cross-waistband-denim-shorts): Discover trendy Plus Size High Waist Denim Shorts with a criss-cross waistband for ultimate comfort and style. Perfect for summer outings!
   Updated: 2025-09-14T07:00:14Z
@@ -13970,7 +13961,7 @@
   Updated: 2025-09-14T07:03:50Z
   Price: $18.32 USD
 - [Tummy Control Plus Size Cuffed Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-crop-wide-cuffed-jeans-plus-size): Embrace comfort and style with RISEN's full-size tummy control high rise crop jeans. Flattering fit and modern cuffs for every occasion await you!
-  Updated: 2025-09-14T07:03:57Z
+  Updated: 2025-09-19T21:28:37Z
   Price: $65.44 USD — $68.92 USD
 - [Chic Plus Size Striped V-Neck Sweater](https://store42.co/products/plus-size-striped-v-neck-sweater): Elevate your style with our Plus Size Striped V-Neck Sweater. Comfortable, chic, and perfect for any occasion! Shop now for ultimate comfort.
   Updated: 2025-09-14T07:04:06Z
@@ -14006,7 +13997,7 @@
   Updated: 2025-09-14T07:07:13Z
   Price: $28.82 USD
 - [Plus Size Raw Hem Crop Jeans](https://store42.co/products/risen-full-size-mid-rise-crop-wide-raw-cut-hem-jeans-plus-size): Discover stylish comfort with RISEN's mid-rise crop jeans for plus sizes. Edgy raw cut hem, perfect fit, and versatile enough for any outfit!
-  Updated: 2025-09-16T23:19:37Z
+  Updated: 2025-09-19T21:28:18Z
   Price: $66.60 USD — $70.08 USD
 - [Chic Plus Size V-Neck Vest & Wide Leg Pants](https://store42.co/products/full-size-v-neck-vest-and-wide-leg-pants-set-plus-size): Discover the stylish plus size V-neck vest and wide leg pants set. Perfect for comfort and elegance. Elevate your wardrobe with this chic outfit!
   Updated: 2025-09-14T07:08:30Z
@@ -14015,7 +14006,7 @@
   Updated: 2025-09-14T07:07:40Z
   Price: $27.80 USD
 - [High Rise Crop Cargo Jeans Plus Size](https://store42.co/products/risen-full-size-high-rise-crop-wide-barrel-cargo-pocket-jeans-plus-size): Upgrade your wardrobe with RISEN's High Rise Crop Cargo Jeans. Comfort meets style in this versatile piece perfect for any casual look.
-  Updated: 2025-09-19T15:34:02Z
+  Updated: 2025-09-19T21:28:20Z
   Price: $66.60 USD — $70.08 USD
 - [Plus Size Leopard Print Waffle Blouse](https://store42.co/products/plus-size-waffle-knit-leopard-round-neck-blouse): Upgrade your wardrobe with our Plus Size Leopard Print Waffle-Knit Blouse. Stylish, comfortable, and perfect for any occasion. Shop now!
   Updated: 2025-09-14T07:07:52Z
@@ -14072,7 +14063,7 @@
   Updated: 2025-09-14T07:12:16Z
   Price: $54.56 USD — $58.04 USD
 - [Chic Plus Size Wide Leg Jeans - Khaki Beige](https://store42.co/products/risen-full-size-raw-hem-wide-leg-jeans-plus-size): Discover stylish comfort with our Plus Size Risen Wide Leg Jeans in Khaki Beige. Perfect for any occasion, these chic jeans offer a trendy look and flexibility.
-  Updated: 2025-09-19T13:51:57Z
+  Updated: 2025-09-19T21:28:24Z
   Price: $64.86 USD — $68.34 USD
 - [Plus Size Longline Knit Coat](https://store42.co/products/full-size-texture-knit-longline-coat-plus-size): Discover style and comfort with our Plus Size Longline Knit Coat. Featuring a double-breasted design and pockets, it's perfect for layering during cooler months.
   Updated: 2025-09-17T06:57:55Z
@@ -14144,7 +14135,7 @@
   Updated: 2025-09-14T07:18:05Z
   Price: $24.80 USD
 - [Tummy Control Flare Jeans with Fray Hem](https://store42.co/products/risen-full-size-tummy-control-mid-rise-flare-jeans-with-fray-hem-detailed-plus-size): Discover the RISEN Tummy Control Flare Jeans featuring a stylish fray hem. Perfect for every occasion, enhance your silhouette with comfort and chic style!
-  Updated: 2025-09-18T15:26:17Z
+  Updated: 2025-09-19T21:28:36Z
   Price: $64.28 USD — $67.76 USD
 - [Plus Size Notched Short Sleeve T-Shirt](https://store42.co/products/full-size-notched-short-sleeve-t-shirt-plus-size-1): Discover comfort and style with the Trendsi Plus Size Short Sleeve T-Shirt, featuring a flattering fit and easy care for every occasion.
   Updated: 2025-09-14T07:18:48Z
@@ -14177,7 +14168,7 @@
   Updated: 2025-09-14T07:20:30Z
   Price: $30.38 USD
 - [Plus Size Distressed Wide Leg Jeans](https://store42.co/products/risen-full-size-distressed-wide-leg-jeans-plus-size-1): Elevate your style with RISEN's plus size distressed wide leg jeans. Enjoy comfort, chic vintage vibes, and versatility for any occasion. Shop now!
-  Updated: 2025-09-17T00:47:01Z
+  Updated: 2025-09-19T21:28:30Z
   Price: $66.60 USD — $70.08 USD
 - [Plus Size Polka Dot Midi Dress](https://store42.co/products/plus-size-embroidered-polka-dot-tie-neck-long-sleeve-midi-dress): Elevate your style with our Plus Size Embroidered Polka Dot Tie Neck Midi Dress. Perfect for any occasion, its elegance and comfort make it a wardrobe essential!
   Updated: 2025-09-14T07:20:41Z
@@ -14198,13 +14189,13 @@
   Updated: 2025-09-14T07:21:33Z
   Price: $66.00 USD
 - [High Rise Flare Plus Size Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-flare-jeans-plus-size): Discover the RISEN Full Size Tummy Control High Rise Flare Jeans. Perfectly designed for curves, combining style and comfort for every occasion!
-  Updated: 2025-09-19T15:37:52Z
+  Updated: 2025-09-19T21:27:42Z
   Price: $67.76 USD — $71.24 USD
 - [Zenana Plus Size Fleece Sweatshirt](https://store42.co/products/zenana-full-size-fleece-drop-shoulder-sweatshirt-plus-size): Discover the Zenana Full Size Fleece Drop Shoulder Sweatshirt. Cozy, stylish, and perfect for any casual outing. Shop your ultimate comfort now!
   Updated: 2025-09-14T07:21:47Z
   Price: $24.24 USD — $26.48 USD
 - [Tummy Control High Rise Cuffed Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-ankle-wide-cuffed-jeans-plus-size-1): Discover RISEN's Full Size Tummy Control High Rise Ankle Wide Cuffed Jeans. Perfect blend of style and comfort for plus-size women. Shop now!
-  Updated: 2025-09-19T15:34:27Z
+  Updated: 2025-09-19T21:33:57Z
   Price: $65.44 USD — $68.92 USD
 - [Chic Plus Size V-Neck Blouse](https://store42.co/products/plus-size-printed-v-neck-half-sleeve-blouse): Discover style and comfort with our Chic Plus Size Printed V-Neck Blouse. Crafted from soft 100% viscose, it's the perfect addition to your wardrobe.
   Updated: 2025-09-14T07:21:56Z
@@ -14300,7 +14291,7 @@
   Updated: 2025-09-14T07:28:31Z
   Price: $35.22 USD
 - [High Waisted Bootcut Plus Size Jeans](https://store42.co/products/risen-full-size-high-waisted-bootcut-cropped-jeans-plus-size): Discover RISEN’s high waisted bootcut cropped jeans in plus size. Flattering fit, vintage wash, and versatile style for all-day comfort and fashion.
-  Updated: 2025-09-14T07:28:39Z
+  Updated: 2025-09-19T21:28:16Z
   Price: $64.28 USD — $67.76 USD
 - [Plus Size Lobster Trim Sweater](https://store42.co/products/full-size-lobster-contrast-trim-round-neck-sweater-plus-size): Discover style and comfort with our Plus Size Lobster Contrast Trim Sweater. Perfect for casual outings or cozy nights, it's a wardrobe essential!
   Updated: 2025-09-14T07:28:44Z
@@ -14408,7 +14399,7 @@
   Updated: 2025-09-14T07:36:11Z
   Price: $65.96 USD
 - [High Rise Ankle Cuffed Plus Size Jeans](https://store42.co/products/risen-full-size-high-rise-ankle-straight-wide-cuffed-jeans-plus-size): Experience style and comfort with RISEN's High Rise Ankle Straight Wide Cuffed Jeans. Perfect for any occasion, these jeans flatter your curves effortlessly.
-  Updated: 2025-09-19T03:26:01Z
+  Updated: 2025-09-19T21:28:41Z
   Price: $64.86 USD — $68.34 USD
 - [Stylish Plus Size Trench Coat](https://store42.co/products/honey-plus-size-lapel-collar-roll-tab-sleeve-trench-coat): Discover the Honey Plus Size Trench Coat with a chic lapel collar and adjustable fit. Elevate your wardrobe with style and comfort for any occasion.
   Updated: 2025-09-14T07:36:25Z
@@ -14417,7 +14408,7 @@
   Updated: 2025-09-14T07:36:28Z
   Price: $56.40 USD
 - [High-Waisted Plus Size Straight Leg Jeans](https://store42.co/products/judy-blue-full-size-high-waisted-rigid-magic-non-destroy-straight-leg-jeans-plus-size): Discover the perfect blend of comfort and style with Judy Blue's high-waisted straight leg jeans designed for plus sizes. Flattering fit and classic appeal!
-  Updated: 2025-09-19T19:55:11Z
+  Updated: 2025-09-19T20:22:07Z
   Price: $65.44 USD — $70.08 USD
 - [Plus Size V-Neck Balloon Maxi Dress](https://store42.co/products/plus-size-v-neck-balloon-sleeve-maxi-dress): Discover elegance with our Plus Size V-Neck Balloon Sleeve Maxi Dress. Stylish and comfortable for any occasion. Embrace your curves confidently!
   Updated: 2025-09-14T07:36:39Z
@@ -14459,7 +14450,7 @@
   Updated: 2025-09-14T07:40:06Z
   Price: $41.64 USD
 - [Plus Size Tummy Control Flare Jeans](https://store42.co/products/risen-full-size-tummy-control-mid-rise-flare-jeans-plus-size-1): Discover comfort and style with RISEN's Plus Size Tummy Control Flare Jeans, designed for curves with a flattering mid-rise fit. Perfect for any occasion!
-  Updated: 2025-09-19T02:40:42Z
+  Updated: 2025-09-19T21:28:37Z
   Price: $65.44 USD — $68.92 USD
 - [Plus Size V-Neck Long Sleeve Tee](https://store42.co/products/full-size-v-neck-long-sleeve-t-shirt-plus-size): Discover style and comfort with our Plus Size V-Neck Long Sleeve T-Shirt. Crafted from soft polyester, it's perfect for layering and versatile for any occasion.
   Updated: 2025-09-14T07:40:42Z
@@ -14483,7 +14474,7 @@
   Updated: 2025-09-14T07:41:37Z
   Price: $49.48 USD
 - [Plus Size High Rise Tummy Control Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-crop-barrel-jeans-plus-size): Discover effortless style with RISEN's full size high rise jeans. Featuring tummy control and a chic olive wash, they offer comfort and a flattering fit.
-  Updated: 2025-09-18T15:18:38Z
+  Updated: 2025-09-19T21:28:32Z
   Price: $64.86 USD — $68.34 USD
 - [Chic Plus Size Round Neck Sweater Dress](https://store42.co/products/plus-size-round-neck-long-sleeve-sweater-dress): Discover comfort and style in our Plus Size Round Neck Long Sleeve Sweater Dress, made from soft polyester with moderate stretch for a flattering fit.
   Updated: 2025-09-14T07:42:20Z
@@ -14537,7 +14528,7 @@
   Updated: 2025-09-14T07:46:02Z
   Price: $29.64 USD
 - [Plus Size Tummy Control Straight Jeans](https://store42.co/products/risen-full-size-tummy-control-mid-rise-ankle-straight-jeans-plus-size-1): Discover the RISEN Full Size Tummy Control Mid Rise Ankle Straight Jeans. Perfect fit and style for plus sizes, enhancing your silhouette with comfort.
-  Updated: 2025-09-18T15:31:22Z
+  Updated: 2025-09-19T21:33:18Z
   Price: $63.12 USD — $66.60 USD
 - [American Flag Fringe Tank Top Plus Size](https://store42.co/products/jade-by-jane-full-size-american-flag-fringe-tank-top-plus-size): Show your pride with the Jade By Jane American Flag Fringe Tank. Comfort and style meet in this trendy plus-size tank, perfect for any occasion.
   Updated: 2025-09-14T07:46:22Z
@@ -14609,7 +14600,7 @@
   Updated: 2025-09-14T07:51:38Z
   Price: $29.66 USD
 - [RISEN Tummy Control Bootcut Jeans](https://store42.co/products/risen-full-size-tummy-control-high-rise-bootcut-jeans-with-double-button-waistband-plus-size): Discover style and comfort with RISEN Tummy Control Bootcut Jeans. Featuring a flattering high rise, double button waistband, and advanced tummy control for all-day wear.
-  Updated: 2025-09-19T15:21:36Z
+  Updated: 2025-09-19T21:28:33Z
   Price: $68.34 USD — $71.82 USD
 - [Linen Scallop Hem Blouse - Plus Size](https://store42.co/products/umgee-full-size-linen-scallop-hem-blouse-with-contrast-trim-plus-size-2): Elevate your wardrobe with the Umgee Plus Size Linen Scallop Hem Blouse. Stylish contrast trim, comfort, and breathability for any occasion!
   Updated: 2025-09-18T21:29:47Z
@@ -14675,7 +14666,7 @@
   Updated: 2025-09-14T07:57:13Z
   Price: $24.08 USD
 - [Stylish POL V-Neck Ribbed T-Shirt](https://store42.co/products/pol-v-neck-short-sleeve-ribbed-t-shirt-with-contrast-overlock-stitching-2): Elevate your wardrobe with our POL V-Neck Ribbed T-Shirt featuring chic contrast overlock stitching, combining comfort and style for any occasion.
-  Updated: 2025-09-19T17:57:51Z
+  Updated: 2025-09-19T21:44:10Z
   Price: $38.92 USD
 - [Chic Striped Long Sleeve T-Shirt](https://store42.co/products/striped-square-neck-long-sleeve-t-shirt): Discover the elegance of our striped long sleeve t-shirt with a square neck. A stylish and comfy choice for any occasion. Shop now!
   Updated: 2025-09-14T07:57:44Z
@@ -14687,7 +14678,7 @@
   Updated: 2025-09-14T07:57:54Z
   Price: $27.08 USD
 - [Halloween Skull Graphic Tee](https://store42.co/products/halloween-skull-checkerboard-graphic-round-neck-tee): Embrace the spooky season with our Halloween Skull Checkerboard Round Neck Tee. Perfect for casual outings or Halloween parties. Get yours today!
-  Updated: 2025-09-19T19:32:31Z
+  Updated: 2025-09-19T23:50:41Z
   Price: $32.80 USD
 - [Trendy Striped Raglan T-Shirt](https://store42.co/products/striped-round-neck-raglan-sleeve-t-shirt): Discover the ultimate comfort and style with our Trendy Striped Raglan Tee. Perfect for casual outings and everyday wear. Shop now!
   Updated: 2025-09-19T02:38:08Z
@@ -14723,10 +14714,10 @@
   Updated: 2025-09-14T07:59:58Z
   Price: $20.36 USD
 - [Floral Applique Oversized Tee](https://store42.co/products/flower-patched-exposed-seam-oversized-t-shirt): Shop our Floral Applique Oversized T-Shirt, crafted from soft 65% polyester and 35% cotton. Perfect for comfort and style in any casual setting!
-  Updated: 2025-09-18T07:05:47Z
+  Updated: 2025-09-19T21:30:37Z
   Price: $44.40 USD
 - [Heart Sequin Game Day T-Shirt for Women](https://store42.co/products/game-day-football-heart-round-neck-t-shirt): Show your team spirit with our Heart Sequin Game Day T-Shirt! Crafted for comfort, style, and perfect fit for every sports enthusiast. Order yours now!
-  Updated: 2025-09-19T19:32:41Z
+  Updated: 2025-09-19T23:50:47Z
   Price: $36.96 USD
 
 ## Collections
@@ -14741,7 +14732,7 @@
   Updated: 2025-09-19T12:53:14Z
   Total Products: 7
 - [Top Laptops & Tablets for Work & Play](https://store42.co/collections/laptops-desktops): Discover powerful laptops and tablets designed for seamless multitasking and entertainment. Experience fast performance and stunning visuals for every need.
-  Updated: 2025-09-19T15:29:18Z
+  Updated: 2025-09-19T22:31:41Z
   Total Products: 315
 - [Portable Monitors for Work & Play](https://store42.co/collections/portable-screens-monitors): Discover versatile portable monitors designed for ultimate mobility. Elevate productivity and enjoy leisure with stunning visuals on-the-go!
   Updated: 2025-09-19T12:54:14Z
@@ -14753,13 +14744,13 @@
   Updated: 2025-09-19T12:46:59Z
   Total Products: 55
 - [Essential Computer Accessories for Productivity](https://store42.co/collections/computer-accessories): Discover essential computer accessories to enhance your workspace. From ergonomic tools to sleek designs, boost your productivity and comfort today!
-  Updated: 2025-09-19T20:03:59Z
+  Updated: 2025-09-19T22:31:16Z
   Total Products: 227
 - [Premium Audio Gear: Headphones & Speakers](https://store42.co/collections/audio-headphones-speakers): Elevate your sound experience with premium headphones and speakers. Discover optimal audio performance and stylish designs for every lifestyle. Shop now!
   Updated: 2025-09-19T12:54:12Z
   Total Products: 27
 - [Smart Tablets & Wearables for Active Living](https://store42.co/collections/handheld-wearables): Discover innovative tablets and wearables designed for active lifestyles. Enjoy seamless connectivity and stylish tech that enhances every adventure.
-  Updated: 2025-09-19T15:29:18Z
+  Updated: 2025-09-19T22:31:41Z
   Total Products: 100
 - [HP Innovation: Cutting-Edge Tech](https://store42.co/collections/hp-hp): Discover HP Innovation solutions tailored for your lifestyle. From Chromebooks to portable monitors, enhance work and leisure seamlessly with style and functionality.
   Updated: 2025-09-19T16:07:00Z
@@ -14771,7 +14762,7 @@
   Updated: 2025-09-19T12:53:14Z
   Total Products: 242
 - [Best Accessories for Apple Devices](https://store42.co/collections/appplaza-best-sellers): Discover the best tech accessories for your Apple devices. From stylish chargers to innovative power banks, enhance your device experience today!
-  Updated: 2025-09-19T20:03:59Z
+  Updated: 2025-09-19T22:31:37Z
   Total Products: 1068
 - [Xerox Printers & Accessories](https://store42.co/collections/xerox): Explore our range of Xerox printers and accessories, featuring innovative technology for effortless printing and enhanced productivity in your workspace.
   Updated: 2025-09-19T14:59:59Z
@@ -14804,7 +14795,7 @@
   Updated: 2025-09-19T12:47:02Z
   Total Products: 36
 - [Microsoft Software & Licenses Collection](https://store42.co/collections/software): Explore top Microsoft software and licenses including Windows, Office, and Surface Pro. Enhance your productivity with our premium solutions today!
-  Updated: 2025-09-19T19:37:40Z
+  Updated: 2025-09-19T22:02:10Z
   Total Products: 814
 - [Portable Power Banks for All Your Devices](https://store42.co/collections/power-banks-1): Discover top portable power banks offering fast charging and high-capacity solutions for your smartphones and laptops. Stay connected anywhere you go.
   Updated: 2025-09-17T16:24:53Z
@@ -14879,8 +14870,8 @@
   Updated: 2025-09-17T16:24:24Z
   Total Products: 569
 - [Need to remove](https://store42.co/collections/need-to-remove)
-  Updated: 2025-09-19T20:03:59Z
-  Total Products: 2237
+  Updated: 2025-09-19T23:27:36Z
+  Total Products: 2249
 - [Chic Women's Summer Tank Tops & Camisoles](https://store42.co/collections/tank-tops-camis-for-women): Explore our stylish collection of summer tank tops and camisoles. Perfect for any occasion, enjoy comfort and flair with trendy designs and vibrant colors.
   Updated: 2025-09-14T00:03:47Z
   Total Products: 0
@@ -14900,7 +14891,7 @@
   Updated: 2025-09-17T20:00:04Z
   Total Products: 513
 - [APPPlaza - Best Sellers](https://store42.co/collections/appplaza-best-sellers-1)
-  Updated: 2025-09-19T20:03:59Z
+  Updated: 2025-09-19T22:31:41Z
   Total Products: 17901
 - [Chic Women's Casual Dresses](https://store42.co/collections/casual-dresses-for-women): Explore our chic women's casual dresses for all occasions. From off-shoulder to midi styles, find your perfect look and express your unique style!
   Updated: 2025-09-15T19:26:48Z
