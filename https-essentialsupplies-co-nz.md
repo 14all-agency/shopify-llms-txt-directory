@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-20T04:00:38.182Z
+- Updated At: 2025-09-20T08:00:39.762Z
 
 ## Products
 
@@ -711,7 +711,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/antibacterial-leaf-wipes-green-300mm-x-500mm-90-sheets-60gsm-4-rolls-regular-duty-dry-wipes-essential-supplies-202198.jpg?v=1719444755
   Price: $69.00 NZD
 - [Antibacterial Leaf Wipes - Red, 300mm x 500mm, 90 Sheets, 60gsm - 4 Rolls - *Regular Duty](https://essentialsupplies.co.nz/products/antibacterial-leaf-wipes-red-300mm-x-500mm-90-sheets-60gsm-4-regular-duty): Dispensed on a perforated roll for convenience, they are reusable and machine washable. These wipes are made from a regular duty 50gsm, 70% viscose, 30% polyester mix. Regular duty economical choice Made from a regular duty 50gsm, 70% viscose, 30% polyester mix Reusable and machine washable Tissue size: 300mm x 500mm Roll length: 45 metres Pack: 4 rolls Colour: Red
-  Updated: 2025-06-30T13:17:58Z
+  Updated: 2025-09-20T04:28:47Z
   Vendor: Mattews Packaging
   Product Type: Dry Wipes
   Availability: Available
@@ -3427,7 +3427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-white-s-240mm-cuff-50g-1000-gloves-nitrile-examination-gloves-essential-supplies-435338.jpg?v=1719445394
   Price: $99.00 NZD
 - [Nitrile Examination Gloves Powder Free - White, M, 240mm Cuff, 5.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-white-m-240mm-cuff-5-0g-1000): White powder free nitrile soft gloves offer premium snag, puncture, cut and abrasion resistance making them ideal for the chemical, tattooing, laboratories and meat processing industries. With greater tolerance for high temperatures and ability to neutralise electrostatic charges. 240mm cuff 5.0g Colour: White Size: Medium Pack:10 packs x 100's Note:*Other sizes available: Small, Large, Extra Large
-  Updated: 2025-09-19T03:10:59Z
+  Updated: 2025-09-20T05:47:21Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -5511,7 +5511,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/manual-aerosol-air-freshener-clean-linen-200g-manual-air-fresheners-essential-supplies-422579.jpg?v=1719445324
   Price: $9.00 NZD
 - [Manual Aerosol Air Freshener - Lavender, 200g](https://essentialsupplies.co.nz/products/manual-aerosol-air-freshener-lavender-200g-6): Manual aerosol air fresheners come in a 200g spray can and helps freshen the air to eliminate any bad odours. The various scents help to target those stubborn odours and are perfect for the washroom, bedroom or anywhere else you want to instantly freshen the air.
-  Updated: 2025-09-18T23:50:24Z
+  Updated: 2025-09-20T06:26:01Z
   Vendor: Mattews Packaging
   Product Type: Manual Air Fresheners
   Availability: Available
