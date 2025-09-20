@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-20T16:00:44.621Z
+- Updated At: 2025-09-20T20:00:47.467Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15951,7 +15951,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Sterling Silver Men's Dog Tag Necklace | High Quality | Lily Blanche](https://www.lilyblanche.com/products/mens-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother, this necklace is a jewellery box classic. Order online today and receive a free jewellery care kit worth £20!
-  Updated: 2025-09-12T14:32:05Z
+  Updated: 2025-09-20T20:00:26Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20966,7 +20966,7 @@ From £119
     Availability: Available
     Price: £185.00 GBP
 - [Lapis Lazuli Mini Stud Earrings Silver September Birthstone](https://www.lilyblanche.com/products/lapis-lazuli-mini-stud-earrings-silver-september-birthstone): Looking for the perfect gift for a September birthday? Look no further than this pretty pair of Lapis Lazuli stud earrings in a sterling silver setting. Matching necklace and hoops available. Shop today and get a free jewellery care kit worth £20
-  Updated: 2025-07-21T00:49:57Z
+  Updated: 2025-09-20T19:51:30Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -22852,7 +22852,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-20T07:30:50Z
+  Updated: 2025-09-20T17:05:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22996,7 +22996,7 @@ GBP 340
     Availability: Available
     Price: £245.00 GBP
 - [Men's St Christopher Locket Silver & Gold + Free Photos](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold): Men’s mixed metal St Christopher locket in silver & gold. A travel protection necklace holding two photos & engraving. The perfect gift for life's next adventure.
-  Updated: 2025-09-09T18:56:11Z
+  Updated: 2025-09-20T16:30:48Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
