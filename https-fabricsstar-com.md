@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-20T04:00:33.196Z
+- Updated At: 2025-09-20T08:00:33.264Z
 
 ## Products
 
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-09-16T00:42:46Z
+  Updated: 2025-09-20T04:44:42Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -2081,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-BEACH-TOBBACO-5.jpg?v=1757517441
     Price: $1.00 USD
 - [Newport Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport-1): Elevate your sewing projects with the Newport 1 Fabric Collection at Fabrics Star. Explore a diverse range of premium textiles, from elegant patterns to modern designs.
-  Updated: 2025-09-16T00:42:47Z
+  Updated: 2025-09-20T04:44:35Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
