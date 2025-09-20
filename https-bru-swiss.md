@@ -7,16 +7,46 @@
 - Currency: CHF
 - Timezone: Europe/Zurich
 
-User-Agent: GPTBot
+# KI-Bots erlaubt
+User-agent: GPTBot
 Allow: /
 
-User-Agent: ClaudeBot
+User-agent: ClaudeBot
 Allow: /
 
-User-Agent: Google-Extended
+User-agent: Google-Extended
 Allow: /
 
-User-Agent: *
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Wichtige SEO-/Preview-Crawler erlaubt
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Default: alle anderen blockiert
+User-agent: *
 Disallow: /
 
 # Marketing Content für LLMs
@@ -206,7 +236,7 @@ Temperatur-präzise Teezubereitung
 - Currency: CHF
 - Timezone: Europe/Berlin
 - Created At: 2024-12-20T10:16:39Z
-- Updated At: 2025-09-20T08:56:05.019Z
+- Updated At: 2025-09-20T09:20:58.252Z
 
 wir lieben tee
 
