@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-20T00:00:34.524Z
+- Updated At: 2025-09-20T04:00:36.715Z
 
 ## Products
 
@@ -984,7 +984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Skyline-Multi-Hook-Black-8.jpg?v=1727658777
   Price: $46.99 NZD
 - [Sticks Multi Hook - Black](https://everydayhome.co.nz/products/sticks-multi-hook-black): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-14T03:07:10Z
+  Updated: 2025-09-20T00:37:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1229,7 +1229,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-White-1_9b1d6719-d230-4910-9a84-9f5496880574.png?v=1730849507
   Price: $104.99 NZD
 - [Brabantia Roll Top Bread Bin - Medium Brilliant Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-brilliant-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-09-08T23:09:20Z
+  Updated: 2025-09-20T03:22:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1411,7 +1411,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Lift-O-Matic-Advance-4-Arm-Clothesline-9.png?v=1727660189
   Price: $339.99 NZD
 - [Brabantia SinkSide Compact Dish Drying Rack - Dark Grey](https://everydayhome.co.nz/products/compact-dish-drying-rack-dark-grey): Small kitchen? Don't waste countertop space on drying dishes, use this Brabantia SinkSide Compact Dish Drying Rack. It's designed with limited countertop space in mind, and offers space to fit 5 plates, a removable cutlery basket and a flat section for glasses and more. A great little rack.
-  Updated: 2025-09-08T23:09:23Z
+  Updated: 2025-09-20T00:22:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1691,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-28Cm-Open-French-Skillet-Anolon-9.jpg?v=1731901862
   Price: $229.99 NZD
 - [Anolon Endurance+ 3 Piece Cookware Set](https://everydayhome.co.nz/products/anolon-endurance-3-piece-cookware-set): Unleash your culinary prowess with this premium set that includes an 18cm covered saucepan, a 24cm French skillet, and a 28cm covered sauté pan. Each piece is meticulously crafted to elevate your cooking experience to new heights. From sautéing to simmering, boiling to frying, this 3-piece set covers all your cooking needs, allowing you to experiment with diverse culinary techniques and recipes. The sleek design of the cookware effortlessly combines style and performance, making it a focal point in any kitchen.
-  Updated: 2025-09-09T16:10:38Z
+  Updated: 2025-09-20T00:22:11Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -2244,7 +2244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-18cm-2-8L-Covered-Saucepan-Esste-0.jpg?v=1731903540
   Price: $220.99 NZD
 - [Essteele Per Vita - 20cm/3.4L Covered Saucepan](https://everydayhome.co.nz/products/essteele-per-vita-20cm-3-8l-saucepan): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This 20cm/3.4L covered saucepan is perfect for sauces, steaming vegetables and so much more.
-  Updated: 2025-09-17T03:22:11Z
+  Updated: 2025-09-20T00:22:12Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2293,19 +2293,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-30cm-4-7L-Covered-Multicooker-Wi-4.jpg?v=1731903153
   Price: $416.99 NZD
 - [Essteele Per Vita - 14/16/18cm 3 Piece Covered Saucepan Set](https://everydayhome.co.nz/products/essteele-per-vita-3pc-saucepan-set): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This covered 3 piece saucepan set is perfect for boiling eggs, making sauces and so much more. Set Includes: 14CM/1.2L Covered Saucepan 16CM/1.9L Covered Saucepan 18CM/2.8L Covered Saucepan
-  Updated: 2025-09-09T23:07:21Z
+  Updated: 2025-09-20T00:22:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-14-16-18cm-3-Piece-Covered-Sauce-3.jpg?v=1731902975
   Price: $552.99 NZD
-- [Essteele Per Vita - 5 Piece Cookware Set](https://everydayhome.co.nz/products/essteele-per-vita-5-piece-cookware-set-14cm-1-2l-milk-pan-20cm-3-8l-saucepan-24cm-5-5l-stockpot-24cm-open-french-skillet-20cm-universal-steamer): This high-quality Essteele Per Vita 5 Piece Cookware set is a must-have for every kitchen. Including two saucepans, a steamer and covered stockpot plus a skillet, this set provides the ultimate beginnings of a gourmet kitchen. Crafted from high quality stainless steel with a solid copper base for optimal heat control, the exceptional quality of Essteele Per Vita makes cooking a delight. The Per Vita collection combines Italian elegance with a 60 year Australian heritage, bringing you flawless, beautiful looking cookware that continually performs. Set Includes: 14cm/1.2L Milkpan 20cm/3.8L Saucepan 24cm/5.5L Stockpot 24cm Open French Skillet 20cm Universal Steamer
-  Updated: 2025-09-11T08:37:13Z
-  Vendor: Essteele
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-5-Piece-Cookware-Set-Essteele-3.jpg?v=1731903308
-  Price: $824.99 NZD
 - [Estique Multi Organiser - White](https://everydayhome.co.nz/products/estique-multi-organiser-white): Estique Multi Organizer by Umbra features 14 hooks, providing easy access to your belongings. Estique can be either wall-mounted, or hung over a door using over-the-door hooks that are included. In addition to adding a warm touch to Estique’s design, these pegs prevent delicate items from pulling or snagging.
   Updated: 2025-09-08T23:14:56Z
   Vendor: UMBRA
@@ -2909,7 +2902,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-19T21:37:11Z
+  Updated: 2025-09-20T02:37:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2986,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Built-inBin_15L-BrilliantSteel-8710755418181Brabantia_96dpi_1000x1000px_7_NR-4747.png?v=1733801664
   Price: $149.99 NZD
 - [Brabantia Tasty+ Knife Block Set - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-5-knives-paring-utility-carving-bread-chef-dark-grey): Cut the clutter on your countertop with this stylish Brabantia Tasty+ Knife Block plus five Tasty+ Knives, cut out for passionate chefs. The blades of ice-hardened steel keep their edge longer, and are both scratch and corrosion resistant. They have a seamless grip, are easy to clean, and hygienic to use. Cutting edge design for your countertop.
-  Updated: 2025-09-15T04:07:10Z
+  Updated: 2025-09-20T01:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3392,7 +3385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/GroundSpikeMetal_Size3_O50mm-Galvanized-8710755311468Brabantia_96dpi_1000x1000px_7_NR-1855.png?v=1734403540
   Price: $24.99 NZD
 - [Brabantia Protective Clothes Cover - Medium Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-med-trans-gry): For anyone that wants a good-looking solution for keeping their clothes looking good, this set of two 60 x 100 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size M protect your blouses and shirts from dust and moths.
-  Updated: 2025-09-11T22:37:12Z
+  Updated: 2025-09-20T02:37:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
