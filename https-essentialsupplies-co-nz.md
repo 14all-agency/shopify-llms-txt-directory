@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-20T08:00:39.762Z
+- Updated At: 2025-09-20T12:00:39.130Z
 
 ## Products
 
@@ -5623,7 +5623,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/vinyl-gloves-powder-free-blue-2xl-240mm-cuff-50g-1000-gloves-vinyl-gloves-essential-supplies-631518.jpg?v=1719445922
   Price: $75.00 NZD
 - [Latex Diamond Grip Examination Gloves Powder Free - White, XS, 240mm Cuff, 8.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/latex-diamond-grip-examination-gloves-powder-free-white-xs-240mm-cuff-8-0g-1000)
-  Updated: 2025-01-08T22:36:11Z
+  Updated: 2025-09-20T10:32:21Z
   Vendor: Mattews Packaging
   Product Type: Latex Examination Gloves
   Availability: Available
