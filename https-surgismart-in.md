@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-20T00:00:31.483Z
+- Updated At: 2025-09-20T12:00:31.066Z
 
 ## Products
 
@@ -1298,7 +1298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Black-scaled.jpg?v=1751478437
   Price: ₹3,299.00 INR
 - [Buy ​Lifeline Stethoscope L1-Steel - Surgismart](https://surgismart.in/products/lifeline-l1-steel): Stainless steel chest piece with a bright finish Dual diaphragm Combined non-chill snap on ring and sensitive floating diaphragm Superlative acoustics Patented 2 way tube with extra glass finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, paediatricians Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-08-13T07:38:35Z
+  Updated: 2025-09-20T10:50:36Z
   Vendor: Lifeline
   Product Type: Life-Line Flagship;Stethoscopes
   Availability: Available
