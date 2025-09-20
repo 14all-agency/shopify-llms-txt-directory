@@ -1,6 +1,6 @@
 # BRU  (https://bru.shop)
 
-> # bru.shop LLM Access Rules
+> # https://bru.shop/ LLM Access Rules ein warmes "hallo" 
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
 # Alle anderen: verboten (ausser er mag Tee)
 
@@ -191,7 +191,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-09-20T08:41:13.546Z
+- Updated At: 2025-09-20T08:44:57.675Z
 
 wir lieben tee
 
