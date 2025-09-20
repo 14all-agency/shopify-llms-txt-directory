@@ -2,7 +2,7 @@
 
 > # https://bru.swiss/ LLM Access Rules - grüezi und willkommen 
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
-# Alle anderen: verboten (ausser du mags Tee)
+# Alle anderen: verboten (ausser du magst Tee)
 
 
 User-Agent: GPTBot
@@ -190,7 +190,7 @@ Temperatur-präzise Teezubereitung
 - Currency: CHF
 - Timezone: Europe/Berlin
 - Created At: 2024-12-20T10:16:39Z
-- Updated At: 2025-09-20T08:45:42.420Z
+- Updated At: 2025-09-20T08:45:59.649Z
 
 wir lieben tee
 
