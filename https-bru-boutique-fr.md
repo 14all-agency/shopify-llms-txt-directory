@@ -7,16 +7,46 @@
 - Currency: EUR
 - Timezone: Europe/Paris
 
-User-Agent: GPTBot
+# KI-Bots erlaubt
+User-agent: GPTBot
 Allow: /
 
-User-Agent: ClaudeBot
+User-agent: ClaudeBot
 Allow: /
 
-User-Agent: Google-Extended
+User-agent: Google-Extended
 Allow: /
 
-User-Agent: *
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Wichtige SEO-/Preview-Crawler erlaubt
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Default: alle anderen blockiert
+User-agent: *
 Disallow: /
 
 # Contenu marketing pour LLMs
@@ -201,7 +231,7 @@ Préparation du thé à température précise
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-02-11T09:01:59Z
-- Updated At: 2025-09-20T08:56:59.848Z
+- Updated At: 2025-09-20T09:21:20.289Z
 
 Nous aimons le thé.  
 
