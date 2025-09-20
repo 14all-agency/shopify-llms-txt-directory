@@ -1,4 +1,4 @@
-# BRU (https://bru.shop)
+# BRU Schweiz (https://bru.shop)
 
 - Domain: https://bru.shop
 - Locale: de
@@ -6,7 +6,24 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
 - Contact Email: support@bru-tea.com
-- Updated At: 2025-09-20T07:53:29.256Z
+- Updated At: 2025-09-20T07:58:04.776Z
+
+# bru.shop LLM Access Rules
+# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
+# Alle anderen: verboten (ausser er mag Tee)
+
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: *
+Disallow: /
 
 ## Products
 
@@ -403,7 +420,7 @@ Die Glas- Brühkammer unserer Teemaschine vereint Form und Funktion in einem umw
   Updated: 2025-09-19T11:18:31Z
   Total Products: 19
 - [Zubehör Get it now - BRU](https://bru.shop/collections/zubehor): - BRU
-  Updated: 2025-09-19T11:18:31Z
+  Updated: 2025-09-20T07:55:00Z
   Total Products: 8
 - [Bundle Builder Products Get it now - BRU](https://bru.shop/collections/bundle-builder-products): Products created using Bundle Builder app - BRU
   Updated: 2023-10-03T15:42:59Z
