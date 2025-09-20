@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-20T12:00:45.810Z
+- Updated At: 2025-09-20T16:00:44.621Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3489,7 +3489,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £225.00 GBP
 - [Gold Rutilated Quartz Cocktail Ring | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-gold): This rutilated quartz gemstone ring, in a sterling silver setting, has fabulous clarity, depth of colour and luminosity.
-  Updated: 2025-08-22T01:03:03Z
+  Updated: 2025-09-20T12:03:49Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
@@ -12615,7 +12615,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Peridot Bangle |  Silver | August Birthstone | Lily Blanche](https://www.lilyblanche.com/products/peridot-charm-bangle-silver-august): A stunning, green peridot gemstone forms the centrepiece of this beautiful silver August birthstone bracelet which can be customised with additional gemstones or charms.
-  Updated: 2025-08-26T11:11:23Z
+  Updated: 2025-09-20T14:21:24Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -22888,7 +22888,7 @@ GBP 340
     Availability: Available
     Price: £250.00 GBP
 - [Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/heavy-gold-cross-necklace): Expertly crafted heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-18T09:45:31Z
+  Updated: 2025-09-20T15:03:46Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
