@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-20T04:00:42.153Z
+- Updated At: 2025-09-20T08:00:46.073Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1039,7 +1039,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Not Available
     Price: £90.00 GBP
 - [Silver Egg Locket | Secret Message Necklace](https://www.lilyblanche.com/products/bird-locket-silver): This beautiful, sterling silver egg locket features a pretty bird charm. A perfect special gift. Add a secret message to the locket. Free UK delivery & care kit
-  Updated: 2025-08-13T14:34:33Z
+  Updated: 2025-09-20T07:56:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -22852,7 +22852,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-19T09:32:00Z
+  Updated: 2025-09-20T07:30:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
