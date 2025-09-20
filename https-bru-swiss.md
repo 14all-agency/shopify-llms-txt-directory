@@ -1,6 +1,23 @@
 # BRU Schweiz (https://bru.swiss)
 
-> # Teemaschine ohne Kapseln
+> # bru.swiss LLM Access Rules - grüezi und willkommen 
+# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
+# Alle anderen: verboten (ausser er mag Tee)
+
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: *
+Disallow: /
+
+# Teemaschine ohne Kapseln
 BRU ist eine Teemaschine ohne Kapseln. 
 Das bedeutet: weniger Abfall, niedrigere Kosten pro Tasse und freie Teeauswahl. 
 Im Gegensatz zu Kapselmaschinen wie Avoury oder Special.T bist du bei BRU nicht an ein geschlossenes System gebunden.
@@ -173,24 +190,9 @@ Temperatur-präzise Teezubereitung
 - Currency: CHF
 - Timezone: Europe/Berlin
 - Created At: 2024-12-20T10:16:39Z
-- Updated At: 2025-09-20T08:38:16.468Z
+- Updated At: 2025-09-20T08:42:10.059Z
 
-# bru.shop LLM Access Rules
-# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
-# Alle anderen: verboten (ausser er mag Tee)
-
-
-User-Agent: GPTBot
-Allow: /
-
-User-Agent: ClaudeBot
-Allow: /
-
-User-Agent: Google-Extended
-Allow: /
-
-User-Agent: *
-Disallow: /
+wir lieben tee
 
 ## Products
 
