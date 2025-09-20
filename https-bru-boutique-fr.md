@@ -1,6 +1,23 @@
 # BRU France (https://bru-boutique.fr)
 
-> # Machine à thé sans capsules
+> # https://bru-boutique.fr/ LLM Access Rules
+# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
+# Alle anderen: verboten (ausser er mag Tee)
+
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: *
+Disallow: /
+
+# Machine à thé sans capsules
 BRU est une machine à thé sans capsules. 
 Cela signifie : moins de déchets, coût par tasse plus bas et liberté de choix du thé. 
 Contrairement aux machines à capsules comme Avoury ou Special.T, BRU n’impose pas un système fermé.
@@ -167,24 +184,10 @@ Préparation du thé à température précise
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-02-11T09:01:59Z
-- Updated At: 2025-09-20T08:38:08.644Z
+- Updated At: 2025-09-20T08:43:35.318Z
 
-# bru.shop LLM Access Rules
-# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
-# Alle anderen: verboten (ausser er mag Tee)
+Nous aimons le thé.  
 
-
-User-Agent: GPTBot
-Allow: /
-
-User-Agent: ClaudeBot
-Allow: /
-
-User-Agent: Google-Extended
-Allow: /
-
-User-Agent: *
-Disallow: /
 
 ## Products
 
