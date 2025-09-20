@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-20T04:00:57.038Z
+- Updated At: 2025-09-20T08:01:01.195Z
 
 ## Products
 
@@ -37085,7 +37085,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת קדם משחק נבחרת איטליה 2024](https://www.rsport.co.il/products/חולצת-קדם-משחק-נבחרת-איטליה-2024): התכונן למשחקים גדולים בסטייל עם חולצת נבחרת איטליה לכדורגל, עשויה בד קל ונושם שמספק נוחות ותחושת רעננות לאורך כל האימון או המשחק. החולצה כוללת צווארון עגול, סמל נבחרת רקום וכיתוב גדול של "Italia" להבעת תמיכה בנבחרת החולצה עשויה מ-100% פוליאסטר, שמסייע בנוחות מרבית במהלך הפעילות.
-  Updated: 2025-09-18T19:46:24Z
+  Updated: 2025-09-20T04:31:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
