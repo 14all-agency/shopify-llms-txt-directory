@@ -1,6 +1,6 @@
 # BRU Schweiz (https://bru.shop)
 
-- Updated At: 2025-09-20T07:59:48.659Z
+- Updated At: 2025-09-20T08:00:23.493Z
 
 # bru.shop LLM Access Rules
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
