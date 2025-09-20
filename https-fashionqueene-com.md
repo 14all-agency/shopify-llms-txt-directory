@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-19T20:02:32.805Z
+- Updated At: 2025-09-20T00:02:29.846Z
 
 ## Products
 
@@ -125,7 +125,7 @@
   Updated: 2025-09-11T20:31:11Z
   Price: $27.00 USD
 - [Judy Blue Full Size Plaid Print Cuff Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-plaid-print-cuff-straight-leg-jeans-with-pockets): Plaid Print Cuff Straight Leg Jeans with Pockets are a stylish and versatile choice for any outfit. These jeans feature a classic plaid print pattern and a straight leg cut, providing a trendy and flattering look. With convenient pockets for added functionality, these jeans offer both style and practicality for your everyday wardrobe. Style #: 88877 Features: Basic style Waist line: Mid waist Stretch: Moderate stretch Material composition: 78.2% cotton, 22.5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-16T14:09:30Z
+  Updated: 2025-09-19T21:34:56Z
   Price: $38.00 USD
 - [Judy Blue Full Size Raw Hem Straight Leg Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-raw-hem-straight-leg-jeans): Raw Hem Straight Leg Jeans are a versatile and timeless addition to your wardrobe. The raw hem adds a touch of edge, while the straight leg style offers a flattering silhouette. Perfect for both casual and dressy looks, these jeans are a must-have for any fashion-forward individual. Style: #82622 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32 10 1/25 24 30 32 10 3/26 25 31 32 10.5 5/27 26 32 32 10.5 7/28 27 33 32 11 9/29 28 34 32 11 11/30 29 35 32 11 13/31 30 37 32 11.5 15/32 31 38 32 11.5 14W 31 40 32 11.5 16W 30 40 32 12 18W 32 42 32 12 20W 35 45 32 12.5 22W 37 47 32 13 24W 39 50 32 13.5 - Fashionqueene.com
   Updated: 2025-09-12T21:24:05Z
@@ -221,7 +221,7 @@
   Updated: 2025-09-11T20:30:59Z
   Price: $113.00 USD
 - [Judy Blue Full Size Raw Hem High Rise Bootcut Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-raw-hem-high-rise-bootcut-jeans): Raw hem high rise bootcut jeans are a trendy and stylish denim option for a fashionable look. These jeans typically feature a high-rise waist that sits above the natural waistline, elongating the legs and providing a flattering silhouette. Style #: 82486 Features: Basic style, Raw Hem Stretch: Moderate stretch Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-19T03:19:16Z
+  Updated: 2025-09-19T22:40:13Z
   Price: $72.00 USD — $73.00 USD
 - [Davi & Dani Flap Pocket Mid Rise Cargo Pants - Fashionqueene.com](https://fashionqueene.com/products/davi-dani-flap-pocket-mid-rise-cargo-pants-1): Flap Pocket Mid Rise Cargo Pants are stylish and functional bottoms with flap pockets for added detail and practicality. Featuring a mid-rise waist, these pants offer a flattering fit that sits comfortably on the hips. The flap pockets provide a trendy utilitarian touch, perfect for keeping small essentials secure. Features: Basic style, Pocketed Sheer: Opaque Material composition: 50% rayon, 45% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 26-28 in, HIP 36-38 in M:Waist 29-31 in, HIP 39-41 in L:Waist 32-33 in, HIP 42-43 in - Fashionqueene.com
   Updated: 2025-09-11T20:30:58Z
@@ -343,9 +343,6 @@
 - [Umgee High Rise Elastic Waist Flare Pants - Fashionqueene.com](https://fashionqueene.com/products/umgee-high-rise-elastic-waist-flare-pants): The High Rise Elastic Waist Flare Pants are a must-have addition to your wardrobe for both style and comfort. Featuring a high-rise waistband and a flattering flare leg silhouette, these pants offer a chic and flattering look. The elastic waist ensures a comfortable and secure fit, making them perfect for all-day wear. Features: Basic style Sheer: Opaque Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 27-28 in, HIP 35-37 in M:Waist 29-30 in, HIP 38-39 in L:Waist 31-32 in, HIP 40-41 in - Fashionqueene.com
   Updated: 2025-09-16T09:30:15Z
   Price: $39.15 USD
-- [Judy Blue Full Size Raw Hem Mid Rise Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-raw-hem-mid-rise-jeans): Raw hem mid-rise jeans are a fashionable and on-trend denim style. The "raw hem" refers to the unfinished edge at the bottom of the jeans, creating a frayed or raw look. This detail adds a touch of edginess and casual vibe to the classic jeans style. The mid-rise fit typically sits at or just below the natural waist... Style #: 82640 Features: Basic style Waist line: Mid waist Stretch: Moderate stretch Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Mid Rise Low Rise High Rise Inseam 0/24 XS 25 30 9.5 8.5 10.5 31 1/25 S 26 31 10 9 11 31 3/26 S 27 32 10 9 11 31 5/27 M 28 33 10.5 9.5 11.5 31 7/28 M 29 34 10.5 9.5 11.5 31 9/29 L 30 35 11 10 12 31 11/30 L 31 36 11 10 12 31 13/31 XL 32 37 11.5 10.5 12.5 31 15/32 XL 32 38 11.5 10.5 12.5 31 14W 1XL 33 40 12 11 13 31 16W 1XL 33 42 12 11 13 31 18W 2XL 34 44 12.5 11.5 13.5 31 20W 3XL 36 46 12.5 11.5 13.5 31 22W 4XL 38 48 13 12 14 31 24W 5XL 40 50 13 12 14 31 - Fashionqueene.com
-  Updated: 2025-09-16T16:22:17Z
-  Price: $48.15 USD
 - [Umgee Floral Elastic Waist Jacquard Shorts with Pockets - Fashionqueene.com](https://fashionqueene.com/products/umgee-floral-elastic-waist-jacquard-shorts-with-pockets-1): The Floral Elastic Waist Jacquard Shorts with Pockets feature a stylish floral pattern woven in jacquard fabric. The elastic waistband provides comfort and flexibility, while the addition of pockets adds functionality. These shorts are perfect for a chic and comfortable summer look, combining trendy floral design with practical elements for a versatile wardrobe staple. Features: Basic style, Pocketed, Slit Sheer: Opaque Material composition: 96% polyester, 4% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 27-28 in, HIP 35-37 inM:Waist 29-30 in, HIP 38-39 inL:Waist 31-32 in, HIP 40-41 in - Fashionqueene.com
   Updated: 2025-09-11T20:30:44Z
   Price: $35.15 USD
@@ -404,7 +401,7 @@
   Updated: 2025-09-11T20:30:37Z
   Price: $23.15 USD
 - [Coffee Cable Knit Drop Shoulder Loose Fit Sweater Dress - Fashionqueene.com](https://fashionqueene.com/products/coffee-cable-knit-drop-shoulder-loose-fit-sweater-dress): Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 42.5 38.2 22.4 21.7 31.9 M 8-10 38-40 12-14 44.9 40.6 23.6 21.7 32.7 L 12-14 42-44 16-18 47.2 42.9 24.8 21.7 33.5 XL 16-18 46-48 20-22 50.4 46.1 26.4 21.7 34.3 2XL 20-22 50-52 24-26 53.5 49.2 28.0 21.7 35.0 3XL 24-26 54-56 28-30 56.7 52.4 29.5 21.7 35.8 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 108 97 57 55 81 M 8-10 38-40 12-14 114 103 60 55 83 L 12-14 42-44 16-18 120 109 63 55 85 XL 16-18 46-48 20-22 128 117 67 55 87 2XL 20-22 50-52 24-26 136 125 71 55 89 3XL 24-26 54-56 28-30 144 133 75 55 91 Elasticity High Intricate cable knit detailing for a cozy yet stylish look. Effortlessly chic drop shoulder design adds a touch of casual elegance. Embrace comfort with a loose fit that flatters all body shapes. Versatile enough to be dressed up or down for any occasion. - Fashionqueene.com
-  Updated: 2025-09-13T11:22:05Z
+  Updated: 2025-09-19T22:19:32Z
   Price: $44.81 USD
 - [Pink Floral Long Sleeve High Neck Sheath Mesh Top - Fashionqueene.com](https://fashionqueene.com/products/pink-floral-long-sleeve-high-neck-sheath-mesh-top): Introducing our Pink Floral Long Sleeve High Neck Sheath Mesh Top! Made with delicate mesh and adorned with beautiful floral designs, this top will elevate any outfit. The high neckline and long sleeves add a touch of elegance, making it a versatile piece for both casual and formal occasions. Stay stylish and sophisticated with this chic top. Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 31.5 31.1 29.2 18.7 M 8-10 38-40 12-14 33.9 33.5 29.7 19.3 L 12-14 42-44 16-18 36.2 35.8 30.3 19.9 XL 16-18 46-48 20-22 39.4 39.0 31.0 20.5 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Sleeve Length Length Relax Relax Relax Back S 4-6 34-36 8-10 80 79 74.1 47.5 M 8-10 38-40 12-14 86 85 75.5 49 L 12-14 42-44 16-18 92 91 76.9 50.5 XL 16-18 46-48 20-22 100 99 78.7 52 Elasticity High The chic blouse is a delicate fusion of floral beauty and sophisticated style. The high neck design is perfect for a polished and professional look. The sheath cut accentuates the silhouette with a feminine grace. Mesh fabric brings a subtle allure and a touch of modernity. - Fashionqueene.com
   Updated: 2025-09-19T17:26:05Z
@@ -416,7 +413,7 @@
   Updated: 2025-09-11T20:30:35Z
   Price: $19.31 USD
 - [Dusk Blue Tied Front Bubble Sleeve Peplum Denim Shirt - Fashionqueene.com](https://fashionqueene.com/products/dusk-blue-tied-front-bubble-sleeve-peplum-denim-shirt): Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Back S 4-6 34-36 8-10 37.8 47.2 14.4 12.8 23.6 M 8-10 38-40 12-14 40.2 49.6 15.0 13.0 24.4 L 12-14 42-44 16-18 42.5 52.0 15.6 13.2 25.2 XL 16-18 46-48 20-22 45.7 55.1 16.4 13.4 26.0 Elasticity None Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Back S 4-6 34-36 8-10 96 120 36.5 32.5 60 M 8-10 38-40 12-14 102 126 38 33 62 L 12-14 42-44 16-18 108 132 39.5 33.5 64 XL 16-18 46-48 20-22 116 140 41.7 34 66 Elasticity None This bubble sleeve shirt is perfect for adding a touch of volume and drama to your outfit.Elevate your style with a fashionable tie front detail that adds a touch of interest.Enjoy the durability and timeless appeal of denim material.Accentuate your waist and create a flattering silhouette with a peplum hem. - Fashionqueene.com
-  Updated: 2025-09-11T20:30:35Z
+  Updated: 2025-09-19T23:22:37Z
   Price: $38.81 USD
 - [Burgundy Cable Knit Pointelle Slim Fit V Neck Sweater Vest - Fashionqueene.com](https://fashionqueene.com/products/burgundy-cable-knit-pointelle-slim-fit-v-neck-sweater-vest): Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Length Relax Relax Relax S 4-6 34-36 8-10 28.3 28.3 18.9 M 8-10 38-40 12-14 30.7 30.7 19.7 L 12-14 42-44 16-18 33.1 33.1 20.5 XL 16-18 46-48 20-22 36.2 36.2 21.3 Elasticity High Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Length Relax Relax Relax S 4-6 34-36 8-10 72 72 48 M 8-10 38-40 12-14 78 78 50 L 12-14 42-44 16-18 84 84 52 XL 16-18 46-48 20-22 92 92 54 Elasticity High This sweater tank is very sexy designed with a sleeveless silhouette and deep v neck.It’s slim fitted to show sexy figure and curves.The delicate knit texture makes it a unique piece.This sleeveless sweater pairs well with high waist jeans. - Fashionqueene.com
   Updated: 2025-09-11T20:30:34Z
@@ -566,7 +563,7 @@
   Updated: 2025-09-19T18:09:27Z
   Price: $47.15 USD — $49.15 USD
 - [Judy Blue Full Size Washed Straight Leg Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-washed-straight-leg-jeans-with-pockets): Washed Straight Leg Jeans with Pockets are a practical and fashionable choice for your everyday wardrobe. The washed finish gives them a laid-back and casual feel, while the straight leg cut offers a flattering silhouette. The addition of pockets adds functionality and convenience, making these jeans a perfect blend of style and practicality. Style #: 82631 Features: Basic style, Pocketed Stretch: Slightly stretchy Material composition: 93.7% cotton, 5% polyester, 1.3% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 31 10 1/25 24 30 31 10 3/26 25 31 31 10.5 5/27 26 32 31 10.5 7/28 27 33 31 11 9/29 28 34 31 11 11/30 29 35 31 11 13/31 30 37 31 11.5 15/32 31 38 31 11.5 14W 31 40 31 11.5 16W 30 40 31 12 18W 32 42 31 12 20W 35 45 31 12 22W 37 47 31 12.5 24W 39 50 31 12.5 - Fashionqueene.com
-  Updated: 2025-09-19T17:07:57Z
+  Updated: 2025-09-19T22:55:27Z
   Price: $45.15 USD — $48.15 USD
 - [bytos Raw Hem Distressed Mid Rise Crop Jeans - Fashionqueene.com](https://fashionqueene.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans): The Raw Hem Distressed Mid Rise Crop Jeans are a perfect blend of edgy and sophisticated style. The mid-rise waist offers a comfortable fit that flatters the figure, while the cropped length adds a modern twist to the classic denim design. The raw hem and distressed detailing give these jeans a worn-in, vintage look that's effortless. Whether you're dressing them up with a blouse and heels or keeping it casual with a t-shirt and sneakers, these jeans are a versatile and stylish choice for any occasion. Features: Pocketed, Raw Hem, Distressed Stretch: Slightly stretchy Material composition: 92% cotton, 6% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 1(25) 25 31 28 9 3(26) 26 32 28 9 5(27) 27 33 28 9 7(28) 28 34 28 9.5 9(29) 29 35 28 9.5 11(30) 30 36 28 9.5 13(31) 31 37 28 10 15(32) 32 38 28 10 - Fashionqueene.com
   Updated: 2025-09-11T20:30:13Z
@@ -1583,7 +1580,7 @@
   Updated: 2025-09-11T20:28:23Z
   Price: $23.09 USD
 - [Trendy Frayed Straight Leg Jeans with Contrast Color Detailing for Men - Fashionqueene.com](https://fashionqueene.com/products/trendy-frayed-straight-leg-jeans-with-contrast-color-detailing-for-men): These straight leg jeans are more than just trendy - the frayed detailing and contrast color add an artistic touch to elevate your fashion game. Made for men who appreciate the finer details. Details : Button, Pocket, Zipper Closure Type : Zipper Fly Color : Multicolor Pattern Type : Colorblock Type : Straight Leg Waist Line : Natural Length : Long Fit Type : Regular Fit Fabric : Non-Stretch Material : Denim Composition : 100% Cotton Care Instructions : Machine wash, do not dry clean Pockets : Yes Body : Unlined Sheer : No Size Waist Size Hip Size Inseam 28 29.9 38.6 28.7 30 31.9 40.6 29.1 32 33.9 42.5 29.5 34 35.8 44.5 29.9 36 37.8 46.5 30.3 38 39.8 48.4 30.7 40 41.7 50.4 31.1 42 43.7 52.4 31.5 - Fashionqueene.com
-  Updated: 2025-09-11T20:28:23Z
+  Updated: 2025-09-19T22:06:34Z
   Price: $33.89 USD
 - [Urban Techwear Purple Joggers - Men's Tactical Streetwear Pants - Fashionqueene.com](https://fashionqueene.com/products/urban-techwear-purple-joggers-mens-tactical-streetwear-pants): Elevate your streetwear game with our Urban Techwear Purple Joggers. Combining style and function, these tactical pants for men are a must-have for any fashion-forward individual. With their sleek design and practical features, you'll be ready to conquer the concrete jungle in style. Upgrade your wardrobe now. Features : Comfortable, Soft Details : Drawstring Closure Type : Drawstring Waist Style : Street Color : Purple Pattern Type : Letter, Plain Type : Jogger Waist Line : Natural Length : Long Fit Type : Loose Fabric : High Stretch Material : Fabric Composition : 95% Polyester, 5% Elastane Care Instructions : Machine wash or professional dry clean Pockets : Yes Lined For Added Warmth : No Body : Unlined Belt : No Sheer : No Size Length Waist Size Hip Size Thigh S 38.6 26.8 42.5 13 M 39.4 28.3 43.3 13.4 L 40.2 30.7 44.1 13.8 XL 40.9 32.3 44.9 14.2 XXL 41.7 33.9 45.7 14.6 - Fashionqueene.com
   Updated: 2025-09-11T20:28:22Z
@@ -2461,7 +2458,7 @@
   Updated: 2025-09-11T20:26:46Z
   Price: $17.45 USD
 - [Patriotic Performance: 3D-Printed Short Sleeve Golf Shirt for Men - Perfect Independence Day Gift! - Fashionqueene.com](https://fashionqueene.com/products/patriotic-performance-3d-printed-short-sleeve-golf-shirt-for-men-perfect-independence-day-gift): Boost your golf game and show off your patriotic side with our Patriotic Performance 3D-Printed Golf Shirt for Men! This short sleeve shirt is perfect for celebrating Independence Day on the course. Made with high-quality materials and 3D-printed for a unique and stylish look. A must-have gift for any golf lover! Details : Patched, Button, Button Front Style : Casual Sleeve Type : Regular Sleeve Color : Grey Pattern Type : Colorblock, Geometric, Striped, Textured Pattern Neckline : Polo Sleeve Length : Long Sleeve Length : Regular Fit Type : Regular Fit Size Shoulder Length Sleeve Length Bust M 18.1 28.3 25.6 43.3 L 18.9 29.1 26 45.3 XL 19.7 29.9 26.4 47.2 XXL 20.5 30.7 26.8 49.2 XXXL 21.3 31.5 27.2 51.2 - Fashionqueene.com
-  Updated: 2025-09-11T20:26:46Z
+  Updated: 2025-09-19T20:27:00Z
   Price: $23.09 USD
 - [Celebrate Style: 3D Printed Short Sleeve Golf Shirt for Men - Fashionqueene.com](https://fashionqueene.com/products/celebrate-style-3d-printed-short-sleeve-golf-shirt-for-men-perfect-independence-day-gift): Get ready to tee off in style with our Celebrate Style 3D Printed Short Sleeve Golf Shirt for Men! Impress your friends on Independence Day with this unique and playful design. Made with high-quality material for maximum comfort and performance. Perfect for a round of golf or a backyard BBQ! Style : Casual Features : Soft Details : Button Sleeve Type : Regular Sleeve Color : Black Pattern Type : Colorblock, Striped, Random Print Neckline : Collar Sleeve Length : Long Sleeve Length : Regular Fabric : Slight Stretch Coating : 100% Polyester Material : Polyester Composition : 100% Polyester Care Instructions : Machine wash, do not dry clean,wash with the soft detergent Pockets : No Lined For Added Warmth : No Sheer : No Size Shoulder Length Sleeve Length Bust M 18.1 28.3 25.6 43.3 L 18.9 29.1 26 45.3 XL 19.7 29.9 26.4 47.2 XXL 20.5 30.7 26.8 49.2 XXXL 21.3 31.5 27.2 51.2 - Fashionqueene.com
   Updated: 2025-09-11T20:26:45Z
@@ -2902,13 +2899,13 @@
   Updated: 2025-09-19T09:52:01Z
   Total Products: 1179
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-19T12:44:43Z
+  Updated: 2025-09-19T23:56:17Z
   Total Products: 363
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
   Updated: 2025-09-19T09:51:27Z
   Total Products: 232
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-19T13:12:36Z
+  Updated: 2025-09-19T21:55:09Z
   Total Products: 545
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
   Updated: 2025-09-19T12:47:22Z
@@ -2926,7 +2923,7 @@
   Updated: 2025-09-19T09:46:45Z
   Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-19T12:47:14Z
+  Updated: 2025-09-19T20:48:37Z
   Total Products: 1772
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
   Updated: 2025-09-19T10:29:53Z
@@ -2935,7 +2932,7 @@
   Updated: 2025-09-19T10:07:54Z
   Total Products: 91
 - [Gothic Row (Men & Women) - Fashionqueene.com](https://fashionqueene.com/collections/gothic-row): All Gothic wear distressed jeans, leggings, jumpsuits, overalls, long dresses, batwing tops, mens Gothic clothing, blouses, kilts, cargo pants, sweaters, shoes - Fashionqueene.com
-  Updated: 2025-09-19T09:49:46Z
+  Updated: 2025-09-19T23:48:22Z
   Total Products: 183
 - [Top Brands - Fashionqueene.com](https://fashionqueene.com/collections/tkitok): All items here are from our TikTok Shop. #Judy Blue brand, # Basic Bae, #Nicole Miller Handbags, #Zenana, #Heimish, #Risen, #BiBi, #Culture Code - Fashionqueene.com
   Updated: 2025-09-16T01:15:22Z
@@ -3001,8 +2998,8 @@
   Updated: 2025-09-19T09:16:32Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-19T13:12:36Z
-  Total Products: 4646
+  Updated: 2025-09-19T23:56:17Z
+  Total Products: 4645
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
   Total Products: 59
