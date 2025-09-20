@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-20T04:01:02.035Z
+- Updated At: 2025-09-20T08:01:04.977Z
 
 ## Products
 
@@ -1607,7 +1607,7 @@ aprender e treinar.
   Price: 11,99 € EUR
 - [Cavalo Kiara](https://brincatoys.pt/products/cavalo-kiara): O cavalo Kiara adora fazer equitação com as crianças mas também 
 participa em alguns concursos de beleza especiais e adora viver na quinta!
-  Updated: 2025-08-21T00:17:28Z
+  Updated: 2025-09-20T06:21:00Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -7174,7 +7174,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-snubbull-luxury-ball-230265622-pokemon-1178694910.jpg?v=1752865814
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Torchic & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-torchic-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-08-21T00:11:47Z
+  Updated: 2025-09-20T05:02:11Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -11415,7 +11415,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/masha-e-o-urso-masha-inverno-629980223-brincatoys-1178696463.jpg?v=1752893411
   Price: 6,90 € EUR
 - [Masha e o Urso - Masha Pintora | Brincatoys](https://brincatoys.pt/products/masha-e-o-urso-masha-pintora): Masha é uma menina inquieta que mal consegue ficar calma. Ele é gentil por natureza e trata a todos como se os conhecesse por toda a vida. A sua curiosidade e criatividade causam aventuras divertidas, embora às vezes também possam causar problemas. Recria todas as aventuras da tua série infantil favorita. Figura termoplástica com aproximadamente 6
-  Updated: 2025-09-19T04:07:50Z
+  Updated: 2025-09-20T05:10:04Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -13169,7 +13169,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-logica-minhocas-felizes-desafio-divertido-810681623-2600000-brincatoys-1178697285.jpg?v=1752907809
   Price: 28,99 € EUR
 - [Jogo Pirâmide de Animais](https://brincatoys.pt/products/jogo-piramide-de-animais): Um clássico no mundo dos jogos de habilidade, este jogo simples pode ser feito para crianças, mas não se engane... os adultos também adoram! Somente os mais hábeis, com nervos de aço, emergem triunfantes neste jogo emocionante. Os animais querem mostrar o quão capazes são de fazer uma pirâmide muito alta! Quem irá colocar o pinguim em cima do crocodilo, a ovelha em cima do pinguim, a serpente em cima da ovelha, o tucano...? Objetivo do jogo: Quem é o mais habilidoso em empilhar e será o primeiro a ficar sem animais? Preparação do Jogo: Jogue numa superfície plana. Selecione o crocodilo e coloque-o no centro da mesa. É o primeiro animal da pirâmide. Cada jogador seleciona sete animais diferentes e coloca-os à sua frente como suprimento. Se houver dois ou três jogadores, os animais restantes são mantidos na caixa. O jogador mais jovem lança o dado. Instruções em português. Dimensão: 22 x 22 x 4,50 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-09-19T04:51:21Z
+  Updated: 2025-09-20T06:21:58Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
