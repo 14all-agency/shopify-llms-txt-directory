@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-19T20:00:36.042Z
+- Updated At: 2025-09-20T00:00:34.524Z
 
 ## Products
 
@@ -1236,7 +1236,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Medium-Brilliant-Stee-0.png?v=1727658726
   Price: $104.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium Matt Black](https://everydayhome.co.nz/products/fall-front-bread-bin-matt-black): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-09-08T23:09:19Z
+  Updated: 2025-09-19T20:22:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1320,7 +1320,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Hangon-Drying-Rack-20M-Matt-Black-3.png?v=1727659283
   Price: $114.99 NZD
 - [Brabantia HangOn Drying Rack - 25m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-25m-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! With 25 meters of flexible drying space, and room for 8 extra clothes hangers, this Brabantia HangOn Drying Rack sure is spacious. And when all’s dried and done, fold it flat easily for compact storage. Let's hang out!
-  Updated: 2025-09-16T17:07:12Z
+  Updated: 2025-09-19T22:12:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1796,7 +1796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
   Price: $33.99 NZD
 - [Buddy Hook (Set 3) - Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-09-15T04:07:05Z
+  Updated: 2025-09-19T23:52:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2909,7 +2909,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-19T03:07:10Z
+  Updated: 2025-09-19T21:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
