@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-16T19:21:00Z
 - Contact Email: Staff@Fashionqueene.com
-- Updated At: 2025-09-20T00:02:29.846Z
+- Updated At: 2025-09-20T04:02:28.938Z
 
 ## Products
 
@@ -62,7 +62,7 @@
   Updated: 2025-09-18T05:51:50Z
   Price: $18.34 USD — $32.14 USD
 - [2pcs Diamond Studded Real Nail Scale Alloy Set Quartz Bracelet Watch - Fashionqueene.com](https://fashionqueene.com/products/2pcs-fashionable-diamond-studded-real-nail-scale-alloy-set-quartz-bracelet-watch-for-womens-watches): Expertly crafted with real nail scale alloy, this set of 2 fashionable diamond-studded watches adds a touch of elegance to any outfit. With precision quartz movement and a sturdy bracelet design, these watches are both stylish and functional. Perfect for any woman looking to make a statement. SPECIFICATIONS Brand Name: other Water Resistance Depth: No Waterproof Movement: Quartz Band Material Type: ALLOY Hign-concerned Chemical: None Display Type: Numberless Case Material: ALLOY Style: Luxury Clasp Type: Hook Buckle Origin: Mainland China Model Number: Quart watch Dial Window Material Type: Glass Case Shape: Round Choice: yes • Fashionable Design :This luxury watch features a fashionable diamond studded real nail scale alloy set, making it a stylish accessory for any outfit. • Quartz Movement :Equipped with a reliable quartz movement, this watch ensures accurate timekeeping, making it perfect for daily wear. • Non-Waterproof :The watch is not waterproof, limiting its use in water-related activities but ensuring its longevity as a dry item. • Luxury Style :With its round case shape and hook buckle clasp, this watch exudes a luxurious style that is sure to impress. • Alloy Material :The case and band material are both alloy, providing durability and longevity while maintaining a sophisticated look. • Glass Dial Window :The glass dial window adds a touch of elegance to the watch, making it a perfect gift for any occasion. - Fashionqueene.com
-  Updated: 2025-09-19T04:09:42Z
+  Updated: 2025-09-20T02:31:31Z
   Price: $25.00 USD — $26.62 USD
 - [Flip Wallet Case for Samsung Galaxy S24 Ultra S24 Plus S24, Leather Magnetic Folio Cover with Card Holder Shockproof - Fashionqueene.com](https://fashionqueene.com/products/flip-wallet-case-for-samsung-galaxy-s24-ultra-s24-plus-s24-leather-magnetic-folio-cover-with-card-holder-shockproof-phone-cases): Enhance the protection and convenience of your Samsung Galaxy S24 Ultra S24 Plus S24 with our Flip Wallet Case. Made of durable leather, its magnetic closure keeps your phone secure while its built-in card holder adds functionality. Shockproof design defends against accidental drops, making it an ideal phone case for daily use. SPECIFICATIONS Brand Name: WeFor Origin: Mainland China Type: FULL COVERAGE Design: Plain Features: Anti-Fingerprint Features: Anti-Scratch Features: Card Pocket Features: With Lanyard Features: Storage Compartment Compatible Brand: Samsung Brand Name: WeFor Compatible Model 1: For Samsung Galaxy S24 Compatible Model 2: For Samsung Galaxy S24 Plus Compatible Model 3: For Samsung Galaxy S24 Ultra Sales: Retail and wholesale - Fashionqueene.com
   Updated: 2025-09-11T20:31:17Z
@@ -137,7 +137,7 @@
   Updated: 2025-09-11T20:31:09Z
   Price: $25.00 USD
 - [Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans-1): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans!Style #: 88848 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 33 11 1/25 24 30 33 11 3/26 25 31 33 11 5/27 26 32 33 11.5 7/28 27 33 33 11.5 9/29 28 34 33 11.5 11/30 29 35 33 12 13/31 30 37 33 12 15/32 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13 - Fashionqueene.com
-  Updated: 2025-09-19T17:44:02Z
+  Updated: 2025-09-20T00:52:27Z
   Price: $38.00 USD
 - [Mittoshop Crepe Knit Elastic Waist Flare Leg Pants - Fashionqueene.com](https://fashionqueene.com/products/mittoshop-crepe-knit-elastic-waist-flare-leg-pants-1): These crepe knit pants feature a comfortable elastic waist for a perfect fit. The flare leg design adds a touch of sophistication to any outfit. Made from high-quality materials, they are both stylish and comfortable to wear. These versatile pants can easily be dressed up or down for different occasions. Whether for work or a night out, these pants are a trendy choice. Get ready to look effortlessly chic in these flare leg pants! Features: Basic style Sheer: Opaque Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 25-27 in, Hip 35-37 inM:Waist 27-30 in, Hip 37-40 inL:Waist 30-32 in, Hip 40-42 inXL:Waist 32-34 in, Hip 43-46 in1X:Waist 33-35 in, Hip 44-47 in2X:Waist 34-36 in, Hip 48-51 in - Fashionqueene.com
   Updated: 2025-09-11T20:31:08Z
@@ -221,7 +221,7 @@
   Updated: 2025-09-11T20:30:59Z
   Price: $113.00 USD
 - [Judy Blue Full Size Raw Hem High Rise Bootcut Jeans - Fashionqueene.com](https://fashionqueene.com/products/judy-blue-full-size-raw-hem-high-rise-bootcut-jeans): Raw hem high rise bootcut jeans are a trendy and stylish denim option for a fashionable look. These jeans typically feature a high-rise waist that sits above the natural waistline, elongating the legs and providing a flattering silhouette. Style #: 82486 Features: Basic style, Raw Hem Stretch: Moderate stretch Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Made in Vietnam Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 30 10 1/25 24 30 30 10 3/26 25 31 30 10.5 5/27 26 32 30 10.5 7/28 27 33 30 11 9/29 28 34 30 11 11/30 29 35 30 11 13/31 30 37 30 11.5 15/32 31 38 30 11.5 14W 31 40 30 11.5 16W 30 40 30 12 18W 32 42 30 12 20W 35 45 30 12.5 22W 37 47 30 13 24W 39 50 30 13.5 - Fashionqueene.com
-  Updated: 2025-09-19T22:40:13Z
+  Updated: 2025-09-20T00:55:30Z
   Price: $72.00 USD — $73.00 USD
 - [Davi & Dani Flap Pocket Mid Rise Cargo Pants - Fashionqueene.com](https://fashionqueene.com/products/davi-dani-flap-pocket-mid-rise-cargo-pants-1): Flap Pocket Mid Rise Cargo Pants are stylish and functional bottoms with flap pockets for added detail and practicality. Featuring a mid-rise waist, these pants offer a flattering fit that sits comfortably on the hips. The flap pockets provide a trendy utilitarian touch, perfect for keeping small essentials secure. Features: Basic style, Pocketed Sheer: Opaque Material composition: 50% rayon, 45% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Waist 26-28 in, HIP 36-38 in M:Waist 29-31 in, HIP 39-41 in L:Waist 32-33 in, HIP 42-43 in - Fashionqueene.com
   Updated: 2025-09-11T20:30:58Z
@@ -1903,7 +1903,7 @@
   Updated: 2025-09-16T23:00:15Z
   Price: $44.15 USD — $46.15 USD
 - [Collared Neck Button Up Top and Shorts Denim Set - Fashionqueene.com](https://fashionqueene.com/products/collared-neck-button-up-top-and-shorts-denim-set): Features: Basic style Number of pieces: Two-piece Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Bottom Length Sleeve Length Hip S 4 42.5 24.4 14.6 8.7 0 M 6/8 44.1 24.8 15 9.1 0 L 10/12 46.5 25.2 15.4 9.4 0 XL 14 48.8 25.6 15.7 9.8 0 - Fashionqueene.com
-  Updated: 2025-09-19T09:45:25Z
+  Updated: 2025-09-20T01:42:37Z
   Price: $44.15 USD
 - [Side Slit Jeans with Pockets - Fashionqueene.com](https://fashionqueene.com/products/side-slit-jeans-with-pockets): Features: Slit Stretch: No stretch Material composition: 95% rayon, 5% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Waist Hip Bottom Length S 4 27.6 40.2 41.3 M 6/8 29.5 42.1 42.1 L 10/12 31.5 44.1 42.5 XL 14 34.6 47.2 42.9 2XL 16/18 37.8 50.4 43.3 - Fashionqueene.com
   Updated: 2025-09-11T20:27:48Z
@@ -2893,20 +2893,20 @@
   Updated: 2025-09-19T09:51:08Z
   Total Products: 341
 - [Ladies Coats and Jackets - Fashionqueene.com](https://fashionqueene.com/collections/ladies-coats-and-jackets): Coats, hoodies, sweaters, cardigans, puffy jackets, denim, long coats, faux fur, leather coats, leather jackets - Fashionqueene.com
-  Updated: 2025-09-19T10:12:34Z
-  Total Products: 135
+  Updated: 2025-09-20T02:40:48Z
+  Total Products: 137
 - [Ladies Fashions - Fashionqueene.com](https://fashionqueene.com/collections/ladies-fashions): Casual to dressy dresses, office, party, formal dresses, cami, midi, maxi, long, pants, shorts, active wear, blouses, office, party, overalls, rompers, crop tops, t-shirts, skorts, active wear, cargo pants, - Fashionqueene.com
-  Updated: 2025-09-19T09:52:01Z
-  Total Products: 1179
+  Updated: 2025-09-20T02:22:58Z
+  Total Products: 1187
 - [Handbags - Fashionqueene.com](https://fashionqueene.com/collections/handbags): Designer handbags, backpacks, evening bags, shoulder bags, bucket bags, cross body, clutches, totes, multi-compartment bags, under arm, sling bags, Nicole Lee, and other brands - Fashionqueene.com
-  Updated: 2025-09-19T23:56:17Z
-  Total Products: 363
+  Updated: 2025-09-20T03:42:27Z
+  Total Products: 365
 - [Fashion Accessories - Fashionqueene.com](https://fashionqueene.com/collections/fashion-accessories): #Belts, #hats, #fashion winter gloves, #scarves, #shawls - Fashionqueene.com
-  Updated: 2025-09-19T09:51:27Z
-  Total Products: 232
+  Updated: 2025-09-20T02:09:25Z
+  Total Products: 234
 - [Ladies Shoes - Fashionqueene.com](https://fashionqueene.com/collections/ladies-shoes): sneakers, loafers, boots, ankle boots, flip flops, thigh high boots, leather sandals, slip-on's, platform sandals, high heels, stilettos, chunky heel, Goth shoes, rain boots, snow boots - Fashionqueene.com
-  Updated: 2025-09-19T21:55:09Z
-  Total Products: 545
+  Updated: 2025-09-20T01:02:07Z
+  Total Products: 546
 - [Men's Fashions - Fashionqueene.com](https://fashionqueene.com/collections/mens-fashions): men's fashion trends 2023, men's fashion trends 2024, 80's men's fashion, men's fashion Nova, falls men's fashion, older men's fashion, plus size men's fashion, men's fashion suits, men's fashion jeans, smart casual men's fashion, latest men's fashion, men's fashion retro casual pants - Fashionqueene.com
   Updated: 2025-09-19T12:47:22Z
   Total Products: 327
@@ -2923,11 +2923,11 @@
   Updated: 2025-09-19T09:46:45Z
   Total Products: 251
 - [New Arrivals - Fashionqueene.com](https://fashionqueene.com/collections/new-arrivals): jewelry, dresses, purses, mens clothing, women's clothing, childrens clothing, Beauty, accessories, shoes - Fashionqueene.com
-  Updated: 2025-09-19T20:48:37Z
-  Total Products: 1772
+  Updated: 2025-09-20T03:42:27Z
+  Total Products: 1799
 - [Beauty Essentials - Fashionqueene.com](https://fashionqueene.com/collections/beauty-essentials): foundation, high ligther, lipstick, eye shadow, eyeliner, eyebrow pencil, moisturizer, face paint, cosmetic bag, Beauty tools, brushes, hair tools, false eyelashes, tweezers, wigs - Fashionqueene.com
-  Updated: 2025-09-19T10:29:53Z
-  Total Products: 128
+  Updated: 2025-09-20T01:10:47Z
+  Total Products: 130
 - [Men's Coats And Jackets - Fashionqueene.com](https://fashionqueene.com/collections/mens-coats-and-jackets): Parkas, puffy coats, waterproof, jackets, leather jackets, windbreakers, Long coats, wool coats, business coats, hunting jackets, ski-coats, - Fashionqueene.com
   Updated: 2025-09-19T10:07:54Z
   Total Products: 91
@@ -2935,20 +2935,20 @@
   Updated: 2025-09-19T23:48:22Z
   Total Products: 183
 - [Top Brands - Fashionqueene.com](https://fashionqueene.com/collections/tkitok): All items here are from our TikTok Shop. #Judy Blue brand, # Basic Bae, #Nicole Miller Handbags, #Zenana, #Heimish, #Risen, #BiBi, #Culture Code - Fashionqueene.com
-  Updated: 2025-09-16T01:15:22Z
-  Total Products: 313
+  Updated: 2025-09-20T02:03:58Z
+  Total Products: 315
 - [Ladies Loungewear - Fashionqueene.com](https://fashionqueene.com/collections/ladies-loungewear): Robes, night shirts, two PCs short pajamas, - Fashionqueene.com
-  Updated: 2025-09-19T12:13:46Z
-  Total Products: 63
+  Updated: 2025-09-20T01:57:39Z
+  Total Products: 65
 - [Women's Dresses - Fashionqueene.com](https://fashionqueene.com/collections/womens-dresses): women's dresses, Long dresses, Maxi, mini, two-piece, suits, office casual, sundresses cute dresses, casual dresses, women's fashion casual skirts, fashion 2024 dresses, fashion winter dresses, fall dresses - Fashionqueene.com
-  Updated: 2025-09-19T10:17:59Z
-  Total Products: 215
+  Updated: 2025-09-20T02:08:39Z
+  Total Products: 218
 - [Women's One-piece - Fashionqueene.com](https://fashionqueene.com/collections/womens-one-piece): Overalls, Rompers, - Fashionqueene.com
-  Updated: 2025-09-19T09:47:41Z
-  Total Products: 76
+  Updated: 2025-09-20T01:21:32Z
+  Total Products: 77
 - [Women's Pants - Fashionqueene.com](https://fashionqueene.com/collections/womens-pants): Jeans, leggings, trousers, pull-on's, flare, hip hugger's, denim,pants for women, dress pants, dress pants women - Fashionqueene.com
-  Updated: 2025-09-19T10:01:44Z
-  Total Products: 456
+  Updated: 2025-09-20T01:55:41Z
+  Total Products: 459
 - [Women's Tops - Fashionqueene.com](https://fashionqueene.com/collections/womens-tops): women's tops, Blouses, crop tops, knitted, short sleeves, cold shoulder, t-shirts, pull over, women's tops on sale, - Fashionqueene.com
   Updated: 2025-09-19T09:51:59Z
   Total Products: 380
@@ -2956,7 +2956,7 @@
   Updated: 2025-09-19T09:47:37Z
   Total Products: 119
 - [Men's Shirts - Fashionqueene.com](https://fashionqueene.com/collections/mens-shirts): #Polo shirts, #pullover shirts, #t-shirts, #Button down, #Men's cardigans, #sports shirts - Fashionqueene.com
-  Updated: 2025-09-19T09:49:23Z
+  Updated: 2025-09-20T03:58:17Z
   Total Products: 151
 - [Men's Pant's - Fashionqueene.com](https://fashionqueene.com/collections/mens-pants): #sweatpants, #cargo Pants, #distressed jeans, #Dress pants, #trousers, #carpenter pants, #leather pants, #hip hop pants - Fashionqueene.com
   Updated: 2025-09-19T12:47:17Z
@@ -2998,8 +2998,8 @@
   Updated: 2025-09-19T09:16:32Z
   Total Products: 55
 - [Recommended products (Seguno)](https://fashionqueene.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-09-19T23:56:17Z
-  Total Products: 4645
+  Updated: 2025-09-20T03:58:17Z
+  Total Products: 4695
 - [Mens Swimwear](https://fashionqueene.com/collections/mens-swimwear): Boxers, briefs, bikini, swim trunks
   Updated: 2025-09-16T01:15:25Z
   Total Products: 59
@@ -3013,8 +3013,8 @@
   Updated: 2025-09-19T09:51:42Z
   Total Products: 59
 - [Women's Boots](https://fashionqueene.com/collections/womens-boots): ankle boots, thigh high, zipper boots, platform boots, wedge boots
-  Updated: 2025-09-19T09:51:48Z
-  Total Products: 74
+  Updated: 2025-09-20T01:03:10Z
+  Total Products: 75
 - [Women's Sneakers](https://fashionqueene.com/collections/womens-sneakers): sneakers, high tops, slip-ons,
   Updated: 2025-09-19T09:51:49Z
   Total Products: 24
