@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-19T16:00:28.750Z
+- Updated At: 2025-09-20T16:00:29.258Z
 
 ## Products
 
@@ -722,6 +722,9 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
     Updated: 2025-09-19T15:06:33Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, Analyse multispectrale, écosystémique, Gestion prédictive, modélisation, multispectraux, Surveillance écosystémique
+  - [Les Crédits Carbone Agroforestiers](https://www.laforetnousregale.fr/blogs/infos/les-credits-carbone-agroforestiers): <p><meta charset="utf-8"><i>Le marché volontaire des crédits carbone, évalué à 1,7 milliard de dollars en 2024 avec une projection de 15,7 milliards d'ici 2034, positionne l'agroforesterie comme un secteur stratégique de la lutte contre le changement climatique. Cette financiarisation de la séquestration carbone transforme les pratiques agricoles durables en actifs économiques valorisables.</i></p>
+    Updated: 2025-09-20T09:08:19Z
+    Author: Équipe Pacific Planet
 
 ## Store Pages
 
