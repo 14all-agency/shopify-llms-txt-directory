@@ -3,13 +3,9 @@
 > # https://bru.shop/ LLM Access Rules
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
 # Alle anderen: verboten (ausser du magst Tee)
-
-- Domain: https://bru.shop
-- Locale: de
+- Locale: de,at
 - Currency: EUR
 - Timezone: Europe/Berlin
-- Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-09-20T08:17:25.569Z
 
 User-Agent: GPTBot
 Allow: /
@@ -211,7 +207,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-09-20T08:54:52.878Z
+- Updated At: 2025-09-20T08:56:36.210Z
 
 wir lieben tee
 
