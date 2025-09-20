@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-20T12:00:28.890Z
+- Updated At: 2025-09-20T16:00:29.556Z
 
 ## Products
 
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/1121bc08b18d706a6a3b2ff4d2845873.jpg?v=1747068133
     Price: €20.00 EUR
 - [Elegant Outfits Made Easy with the Classic Chic Shirt](https://lenoirandcollective.com/products/classic-chic-shirt): Elegant Outfits Made Easy with the Classic Chic Shirt Discover the perfect blend of elegance and comfort with the Classic Chic Shirt.
-  Updated: 2025-09-17T11:01:25Z
+  Updated: 2025-09-20T14:30:00Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -245,7 +245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/e612661c1e3ea40bf01b07cd0b07f082.jpg?v=1757351269
     Price: €22.00 EUR
 - [Vavabold Ruched Mock Neck Tee – Stylish and Comfortable](https://lenoirandcollective.com/products/vavabold-ruched-mock-neck-tee): Vavabold Ruched Mock Neck Tee offers a chic, ruched design combined with comfort for everyday wear. Perfect for layering or wearing on its own for a modern look
-  Updated: 2025-09-07T19:45:09Z
+  Updated: 2025-09-20T14:29:50Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
@@ -438,7 +438,7 @@
   Availability: Available
   Price: €21.00 EUR
 - [Women Long Pants Pocket Decoration – Elegant Wide Leg](https://lenoirandcollective.com/products/women-long-pants-pocket-decoration-pants-elegant-wide-leg-dress-pants-for-women-with-high-waist-button-zipper-fly-for-business): Women Long Pants Pocket Decoration design brings elegance and function with a wide leg, high waist, and button-zip fly.
-  Updated: 2025-09-17T10:59:44Z
+  Updated: 2025-09-20T14:29:41Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
