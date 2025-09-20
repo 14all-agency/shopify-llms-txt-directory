@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-20T08:00:36.124Z
+- Updated At: 2025-09-20T12:00:36.379Z
 
 ## Products
 
@@ -1957,7 +1957,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-8-Piece-Cookware-Set-Ci-6.jpg?v=1731902752
   Price: $734.99 NZD
 - [Circulon Style - 21/25/28cm Skillet Triple Pack](https://everydayhome.co.nz/products/circulon-style-21-25-28cm-skillet-triple-pack): For a lifetime of exceptional cooking, look no further than Circulon Style. With its unique circular technology and TOTAL™ non-stick coating, oil-free cooking has never been easier, and with the non-stick proven to last 15 x longer than traditional non-stick coatings, you can rely on Style for meal after meal.
-  Updated: 2025-09-15T03:07:10Z
+  Updated: 2025-09-20T08:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -3357,7 +3357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_XL_setof2-Transparent-8710755148965Brabantia_96dpi_1000x1000px_7_NR-26293.png?v=1733862417
   Price: $24.99 NZD
 - [Brabantia Stackable Glass Jar - 1.1L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-1l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-09-08T23:09:40Z
+  Updated: 2025-09-20T09:22:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -5213,7 +5213,7 @@
   Updated: 2025-09-19T11:06:17Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-09-17T11:07:01Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 56
 - [Kitchen & Dining](https://everydayhome.co.nz/collections/kitchen-dining)
   Updated: 2025-02-12T22:26:22Z
@@ -5228,22 +5228,22 @@
   Updated: 2025-09-08T23:12:27Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-08T23:12:16Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-09-17T04:20:37Z
@@ -5336,10 +5336,10 @@
   Updated: 2025-09-17T04:20:39Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-09-17T11:07:01Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-09-19T11:06:17Z
@@ -5348,7 +5348,7 @@
   Updated: 2025-09-17T11:07:01Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
   Updated: 2025-09-17T04:20:29Z
@@ -5360,7 +5360,7 @@
   Updated: 2025-09-17T03:12:19Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 36
 - [Ironing & Steaming](https://everydayhome.co.nz/collections/ironing-steaming)
   Updated: 2025-09-18T11:08:07Z
@@ -5372,7 +5372,7 @@
   Updated: 2025-09-17T11:07:01Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 90
 - [Laundry Bins & Hampers](https://everydayhome.co.nz/collections/laundry-bins-hampers)
   Updated: 2025-09-08T23:13:51Z
@@ -5399,7 +5399,7 @@
   Updated: 2025-09-17T11:07:01Z
   Total Products: 31
 - [Shelves & Tables](https://everydayhome.co.nz/collections/shelves-tables)
-  Updated: 2025-09-17T04:20:40Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 24
 - [Coffee Tables](https://everydayhome.co.nz/collections/coffee-tables)
   Updated: 2025-09-17T04:20:39Z
@@ -5414,7 +5414,7 @@
   Updated: 2025-09-19T11:06:17Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
-  Updated: 2025-09-13T11:06:40Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 30
 - [Storage & Organisation](https://everydayhome.co.nz/collections/storage-organisation): Keep your home stylishly organised with Everyday Home's variety of storage solutions. Find everything from sleek pantry organisers to multi-functional cosmetic and shower caddies that will maximize space while adding style to any room. Shop now and enjoy free shipping across NZ on orders over $99*.
   Updated: 2025-09-17T11:07:01Z
@@ -5423,7 +5423,7 @@
   Updated: 2025-09-17T04:20:37Z
   Total Products: 19
 - [Cleaning Tools & Accessories](https://everydayhome.co.nz/collections/cleaning-tools-accessories)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 8
 - [Steaming Accessories](https://everydayhome.co.nz/collections/steaming-accessories)
   Updated: 2025-08-27T22:15:32Z
@@ -5441,7 +5441,7 @@
   Updated: 2025-09-08T23:14:11Z
   Total Products: 9
 - [Clothes Airers](https://everydayhome.co.nz/collections/clothes-airers)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 41
 - [Ironing Boards](https://everydayhome.co.nz/collections/ironing-boards)
   Updated: 2025-09-18T11:08:07Z
@@ -5489,16 +5489,16 @@
   Updated: 2025-09-08T23:13:07Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 1038
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-09-17T11:07:01Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
   Updated: 2025-09-17T11:07:01Z
@@ -5585,7 +5585,7 @@
   Updated: 2025-09-16T11:07:14Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-09-08T23:17:30Z
@@ -5597,7 +5597,7 @@
   Updated: 2025-09-19T11:06:17Z
   Total Products: 57
 - [Clothes Airers & Retractable Lines](https://everydayhome.co.nz/collections/clothes-airers-retractable-lines): Your solutions to indoor drying this winter.
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 17
 - [Kitchen Sink Accessories](https://everydayhome.co.nz/collections/kitchen-sink-accessories)
   Updated: 2025-09-19T11:06:17Z
@@ -5609,7 +5609,7 @@
   Updated: 2025-09-19T11:06:17Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-09-19T11:06:17Z
+  Updated: 2025-09-20T11:06:59Z
   Total Products: 240
 
 ## Store Pages
