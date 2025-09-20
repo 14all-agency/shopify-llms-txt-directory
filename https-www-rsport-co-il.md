@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-20T12:01:00.756Z
+- Updated At: 2025-09-20T16:00:59.037Z
 
 ## Products
 
@@ -3389,7 +3389,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [מכנס קצר יובנטוס בית 24/25](https://www.rsport.co.il/products/מכנס-קצר-יובנטוס-בית-24-25): מכנס קצר יובנטוס לבית לשנת 24/25 הוא הפריט המושלם להשלמת הערכה הביתית שלכם. המכנס עשוי מבד מנדף זיעה המבטיח נוחות במהלך הפעילות הספורטיבית, ומעוטר בסמל יובנטוס האייקוני, שמוסיף נופך של גאווה לאוהדים. השלמת המראה במכנסיים הקצרים הללו תביא לכם תשומת לב בכל משחק!
-  Updated: 2025-09-07T22:17:15Z
+  Updated: 2025-09-20T15:04:55Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -12170,7 +12170,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנסי משחק יוסטון רוקטס | צבע אדום](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:52Z
+  Updated: 2025-09-20T15:17:52Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -26126,7 +26126,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק בורוסיה מנשנגלדבך בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-בורוסיה-מנשנגלדבך-בית-24-25): חולצת הבית של מנשנגלדבך לעונת 24/25 שומרת על הלבן הקלאסי עם טאץ' ירוק ושחור כמו שצריך. עיצוב נקי, צווארון עגול, ולוגו המועדון בול במקום. עשויה מ-100% פוליאסטר נושם מושלמת למגרש, ליציע או סתם ליומיום.
-  Updated: 2025-09-18T17:19:39Z
+  Updated: 2025-09-20T12:51:40Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -27611,27 +27611,6 @@
     Availability: Available
     Price: ‏79.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-כחול?variant=47307188601082)
-    Availability: Available
-    Price: ‏79.90 ‏₪ ILS
-- [מכנסי אימון קצרים פריז סן ז'רמן 24/25 | שחור סגול](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-שחור-סגול): מכנסי אימון קצרים בעיצוב מודרני ואלגנטי, לשחקנים ולחובבים שרוצים לשמור על נוחות וביצועים גבוהים. המכנסיים עשויים 100% פוליאסטר, חומר נושם ומנדף זיעה, המספק תמיכה מלאה תוך שמירה על תחושת יובש. שילוב הצבעים השחור והסגול מוסיף מראה ספורטיבי ומרשים, מתאים לאימונים אינטנסיביים ולשימוש יומיומי.
-  Updated: 2025-09-19T16:20:39Z
-  Vendor: R:SPORT
-  Product Type: מכנסי כדורגל
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_44f1e077-a789-4a49-8dbe-d5c232143ba2.jpg?v=1748475005
-  - [S](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-שחור-סגול?variant=47307190468858)
-    Availability: Available
-    Price: ‏79.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-שחור-סגול?variant=47307190501626)
-    Availability: Available
-    Price: ‏79.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-שחור-סגול?variant=47307190534394)
-    Availability: Available
-    Price: ‏79.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-שחור-סגול?variant=47307190567162)
-    Availability: Available
-    Price: ‏79.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסי-אימון-קצרים-פריז-סן-זרמן-24-25-שחור-סגול?variant=47307190599930)
     Availability: Available
     Price: ‏79.90 ‏₪ ILS
 - [מכנס אימון קצר פריז סן ז'רמן 24/25 | כחול](https://www.rsport.co.il/products/מכנס-אימון-קצר-פריז-סן-זרמן-24-25-כחול): מכנסי אימון קצרים בעיצוב מקצועי ונוח, מושלמים לאימונים אינטנסיביים ולשימוש יומיומי. המכנסיים עשויים 100% פוליאסטר איכותי שמנדף זיעה ומספק נוחות גבוהה. הצבע הכחול המודרני והחומר הנושם מבטיחים תחושת יובש ונוחות במהלך כל הפעילות. מכנסיים אלו הם בחירה אידיאלית לשחקנים ולחובבי פ.ס.ז' שמעוניינים בנוחות ובביצועים גבוהים.
@@ -38150,7 +38129,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת כדורגל מיינץ 05 בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-מיינץ-05-בית-25-26-גברים): גלה מבחר רחב של חולצות כדורגל מיינץ 05, חולצות איכותיות שמבטאות את הגאווה והנאמנות שלך לקבוצה. עם עיצובים מודרניים, נוחות מקסימלית ופריטים שמזכירים את ההיסטוריה המפוארת של המועדון, כל חולצה תאפשר לך להרגיש חלק מהקבוצה בכל רגע. בין אם אתה אוהד ותיק או חדש, הקולקציה שלנו מציעה את כל מה שאתה צריך כדי להראות את התמיכה שלך במיינץ 05.
-  Updated: 2025-09-18T18:30:24Z
+  Updated: 2025-09-20T14:46:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45610,6 +45589,159 @@
   - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732325122298)
     Availability: Available
     Price: ‏499.90 ‏₪ ILS
+- [חולצת כדורגל באיירן מינכן שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים): תמוך בבאיירן מינכן במגרש ומחוץ למגרש עם חולצת השלישית לעונת 2025/26 לגברים בעיצוב עוצמתי בצבעי שחור אדום וירוק החולצה עשויה 100% פוליאסטר קל ונושם שמעניק תחושת יובש ונוחות גם בזמן משחק וגם ביום יום הגזרה רגילה ומאפשרת חופש תנועה מלא בהשראת החולצות שלובשים השחקנים עם סמל המועדון על החזה שילוב צבעים ייחודי שמביא מראה מודרני ותומך באוהדים שרוצים ללבוש את הצבעים בגאווה בכל מקום
+  Updated: 2025-09-20T15:25:24Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_1a08ddc9-f393-4c78-ac4e-0eb1ef4819a7.webp?v=1758378663
+  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387212538)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387245306)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387278074)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387310842)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387343610)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387376378)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+  - [XXXXL](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-שלישית-25-26-גברים?variant=47734387409146)
+    Availability: Available
+    Price: ‏170.00 ‏₪ ILS
+- [חולצת משחקי באיירן מינכן חוץ 2025/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים): הראה את תמיכתך בבאיירן מינכן במגרש ומחוץ למגרש עם חולצת החוץ לעונת 2025/26 לגברים בעיצוב מודרני בצבעי שחור אדום וירוק גרסת שחקן בגזרה צמודה שמדגישה חופש תנועה ונוחות בזמן משחק החולצה עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים מרשים שמביא מראה מקצועי ותומך באוהדים שרוצים ללבוש את הצבעים בגאווה בכל מקום
+  Updated: 2025-09-20T15:25:25Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_0198add2-05f5-4a8f-ab9c-8954f06a8ce8.webp?v=1758379166
+  - [S](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409396474)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409429242)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409462010)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409494778)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409527546)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409560314)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+- [חולצת כדורגל באיירן מינכן חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1): הראה את התמיכה שלך בבאיירן מינכן עם חולצת החוץ לילדים ונוער לעונת 2025/26 בעיצוב מקצועי בגווני שחור אדום וירוק החולצה בגזרה רגילה לנוחות מרבית וחופש תנועה במהלך אימונים ומשחקים עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים דינמי שמביא מראה מודרני ותומך באוהדים הצעירים שרוצים ללבוש את צבעי הקבוצה בגאווה
+  Updated: 2025-09-20T15:25:25Z
+  Vendor: R:SPORT
+  Product Type: חליפת כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_efe751a8-469b-42e0-bf78-b78a56cb0b1c.webp?v=1758379286
+  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1?variant=47734410903802)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1?variant=47734410936570)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1?variant=47734410969338)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1?variant=47734411002106)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+- [חליפת כדורגל באיירן מינכן שלישית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-באיירן-מינכן-שלישית-25-26-ילדים): תמוך בבאיירן מינכן במגרש ומחוץ למגרש עם חליפת השלישית לילדים לעונת 2025/26 בעיצוב מודרני בגווני שחור אדום וירוק החליפה כוללת חולצה וגזרה רגילה לנוחות מרבית וחופש תנועה במהלך המשחקים עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים מרשים שמביא מראה צעיר ותומך באוהדים הצעירים שרוצים ללבוש את צבעי הקבוצה בגאווה
+  Updated: 2025-09-20T15:28:11Z
+  Vendor: R:SPORT
+  Product Type: חליפות כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/25.webp?v=1758379502
+  - [2-3Y](https://www.rsport.co.il/products/חליפת-כדורגל-באיירן-מינכן-שלישית-25-26-ילדים?variant=47734412378362)
+    Availability: Available
+    Price: ‏119.00 ‏₪ ILS
+  - [4-5Y](https://www.rsport.co.il/products/חליפת-כדורגל-באיירן-מינכן-שלישית-25-26-ילדים?variant=47734412411130)
+    Availability: Available
+    Price: ‏119.00 ‏₪ ILS
+  - [6-7Y](https://www.rsport.co.il/products/חליפת-כדורגל-באיירן-מינכן-שלישית-25-26-ילדים?variant=47734412443898)
+    Availability: Available
+    Price: ‏119.00 ‏₪ ILS
+  - [8-9Y](https://www.rsport.co.il/products/חליפת-כדורגל-באיירן-מינכן-שלישית-25-26-ילדים?variant=47734412476666)
+    Availability: Available
+    Price: ‏119.00 ‏₪ ILS
+- [מכנס קצר משחקי באיירן מינכן תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים): מכנס קצר בהשראת השחקנים של באיירן מינכן שלישית 2025/26 לגברים בעיצוב קל ונושם שמאפשר חופש תנועה מלא בזמן משחק ואימון עם סמל המועדון רקום על הרגל שילוב צבעים מודרני שתומך באוהדים שרוצים לחוות את חוויית השחקנים במגרש ובחיי יום יום
+  Updated: 2025-09-20T15:25:26Z
+  Vendor: R:SPORT
+  Product Type: מכנסי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23.webp?v=1758379660
+  - [S](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים?variant=47734422798586)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים?variant=47734422831354)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים?variant=47734422864122)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים?variant=47734422896890)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים?variant=47734422929658)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים?variant=47734422962426)
+    Availability: Available
+    Price: ‏109.90 ‏₪ ILS
+- [מכנסי כדורגל קצרים באיירן מינכן שלישית 25/26 | גברים](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים): תעלה את הסטייל שלך במגרש עם מכנסי השלישית של באיירן מינכן לגברים לעונת 2025/26 בגזרה רגילה ונוחה בעיצוב מקצועי בגווני שחור אדום וירוק עשויים 100% פוליאסטר קל ונושם שמספק תחושת יובש ונוחות לאורך כל המשחק עם סמל המועדון על הירך שילוב צבעים מרשים שמעניק מראה מודרני ותומך באוהדים שרוצים ללבוש את צבעי הקבוצה בגאווה
+  Updated: 2025-09-20T15:25:27Z
+  Vendor: R:SPORT
+  Product Type: מכנסי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_a13fba04-23f4-497e-9d1a-34a24c611d09.webp?v=1758381580
+  - [S](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים?variant=47734465069306)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים?variant=47734465102074)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים?variant=47734465134842)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים?variant=47734465167610)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים?variant=47734465200378)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים?variant=47734465233146)
+    Availability: Available
+    Price: ‏120.00 ‏₪ ILS
+- [מכנסי כדורגל קצרים באיירן מינכן שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גוניורס): תמוך בבאיירן מינכן במגרש ומחוץ למגרש עם המכנס השלישי לילדים ונוער לעונת 2025/26 בעיצוב מודרני בגווני שחור אדום וירוק המכנס בגזרה רגילה לנוחות וחופש תנועה מרביים עשוי 100% פוליאסטר קל ונושם עם סמל המועדון על הירך שילוב צבעים מרשים שמביא מראה צעיר ותומך באוהדים שרוצים ללבוש את צבעי הקבוצה בגאווה
+  Updated: 2025-09-20T15:25:27Z
+  Vendor: R:SPORT
+  Product Type: מכנסי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_6d7c9b0c-9bae-49b6-a0f6-892a8d9a64af.webp?v=1758381803
+  - [10-11Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גוניורס?variant=47734473818362)
+    Availability: Available
+    Price: ‏80.00 ‏₪ ILS
+  - [11-12Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גוניורס?variant=47734473851130)
+    Availability: Available
+    Price: ‏80.00 ‏₪ ILS
+  - [12-13Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גוניורס?variant=47734473883898)
+    Availability: Available
+    Price: ‏80.00 ‏₪ ILS
+  - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גוניורס?variant=47734473916666)
+    Availability: Available
+    Price: ‏80.00 ‏₪ ILS
 
 ## Collections
 
@@ -45620,14 +45752,14 @@
   Updated: 2025-09-20T11:18:16Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 922
+  Updated: 2025-09-20T15:25:26Z
+  Total Products: 926
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-19T11:16:57Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 328
+  Updated: 2025-09-20T15:25:27Z
+  Total Products: 331
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-09-18T18:31:12Z
   Total Products: 37
@@ -45680,11 +45812,11 @@
   Updated: 2025-09-20T11:18:16Z
   Total Products: 114
 - [באיירן מינכן](https://www.rsport.co.il/collections/באיירן-מינכן): אחת הקבוצות הגדולות והאהובות באירופה, עם מסורת מנצחת וכדורגל מרגש. אם גם אתם חלק מצבא האוהדים של "הכוכב הדרומי" הגעתם למקום הנכון, כאן תמצאו מגוון רחב של חולצות כדורגל של באיירן מינכן, כולל דגמי בית, חוץ ושלישית מהעונות האחרונות, לצד חליפות ילדים, חולצות אימון ועוד פריטים מעוצבים באווירת המועדון, החולצות מתאימות לאימונים, למשחקים או כפריט אופנתי לחובבי הקבוצה.
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 56
+  Updated: 2025-09-20T15:25:27Z
+  Total Products: 63
 - [ליגה גרמנית](https://www.rsport.co.il/collections/ליגה-גרמנית): כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר... הצג עוד כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר. כל הדגמים זמינים במידות שונות, עם אפשרות להדפיס שם ומספר בהתאמה אישית – בין אם של שחקן אהוב ובין אם שלכם. בין אם אתה מחפש חולצת אוהד או חולצת שחקן, לתמוך בקבוצה שלך בסטייל – כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר... הצג עוד כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר. כל הדגמים זמינים במידות שונות, עם אפשרות להדפיס שם ומספר בהתאמה אישית – בין אם של שחקן אהוב ובין אם שלכם. בין אם אתה מחפש חולצת אוהד או חולצת שחקן, לתמוך בקבוצה שלך בסטייל – כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 130
+  Updated: 2025-09-20T15:25:27Z
+  Total Products: 136
 - [בורוסיה דורטמונד](https://www.rsport.co.il/collections/בורוסיה-דורטמונד): בורוסיה דורטמונד – אחת הקבוצות המלהיבות ביותר בבונדסליגה, שמביאה איתה אנרגיה בלתי נגמרת, רוח לחימה ויכולת מרשימה על המגרש. הקבוצה הצהובה-שחורה תמיד ידועה בהתקפה הדינמית ובמשחק האנרגטי שלה. כאן תוכלו למצוא את חולצות המשחק המפורסמות, חולצות אוהדים, חולצות אימון מקצועיות, חולצות שוער ועוד. תנו לנו לעזור לכם להראות את התמיכה בקבוצה שלכם בכל רגע – על המגרש, באימון או ביום יום. הצג עוד בורוסיה דורטמונד היא קבוצה בעלת מסורת עשירה בכדורגל הגרמני, עם שחקנים מוכשרים ששמים את המועדון על המפה העולמית. החולצות שלה, בעיצוב הצהוב-שחור האייקוני, הן סמל לאוהדים בכל רחבי העולם. אנחנו מציעים מגוון רחב של מוצרים – מחולצות משחק רשמיות ועד חולצות אוהדים בעיצובים מגוונים, חולצות אימון מקצועיות, בגדי ילדים, חולצות שוער ומידות שונות לכל הגילאים. אם אתם אוהדים את דורטמונד או סתם אוהבים את העיצוב שלה, תוכלו למצוא אצלנו את כל מה שצריך כדי להראות את אהבתכם לקבוצה. כל דגם ניתן להדפסה אישית עם שם ומספר של שחקן אהוב או אפילו השם שלכם. ההזמנה קלה ומהירה, השירות שלנו מקצועי, והמשלוח לכל הארץ. בחרו את המוצרים שלכם ותראו את הקבוצה שלכם בגאווה. הצג פחות בורוסיה דורטמונד – אחת הקבוצות המלהיבות ביותר בבונדסליגה, שמביאה איתה אנרגיה בלתי נגמרת, רוח לחימה ויכולת מרשימה על המגרש. הקבוצה הצהובה-שחורה תמיד ידועה בהתקפה הדינמית ובמשחק האנרגטי שלה. כאן תוכלו למצוא את חולצות המשחק המפורסמות, חולצות אוהדים, חולצות אימון מקצועיות, חולצות שוער ועוד... הצג עוד בורוסיה דורטמונד היא קבוצה בעלת מסורת עשירה בכדורגל הגרמני, עם שחקנים מוכשרים ששמים את המועדון על המפה העולמית. החולצות שלה, בעיצוב הצהוב-שחור האייקוני, הן סמל לאוהדים בכל רחבי העולם. אנחנו מציעים מגוון רחב של מוצרים – מחולצות משחק רשמיות ועד חולצות אוהדים בעיצובים מגוונים, חולצות אימון מקצועיות, בגדי ילדים, חולצות שוער ומידות שונות לכל הגילאים. אם אתם אוהדים את דורטמונד או סתם אוהבים את העיצוב שלה, תוכלו למצוא אצלנו את כל מה שצריך כדי להראות את אהבתכם לקבוצה. כל דגם ניתן להדפסה אישית עם שם ומספר של שחקן אהוב או אפילו השם שלכם. ההזמנה קלה ומהירה, השירות שלנו מקצועי, והמשלוח לכל הארץ. בחרו את המוצרים שלכם ותראו את הקבוצה שלכם בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-09-18T18:30:45Z
   Total Products: 23
@@ -45701,8 +45833,8 @@
   Updated: 2025-09-18T19:46:29Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 204
+  Updated: 2025-09-20T15:25:27Z
+  Total Products: 207
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
   Updated: 2025-09-20T11:18:16Z
   Total Products: 150
@@ -45995,17 +46127,17 @@
   Updated: 2025-09-19T10:56:54Z
   Total Products: 41
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 812
+  Updated: 2025-09-20T15:25:24Z
+  Total Products: 814
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 246
+  Updated: 2025-09-20T15:25:25Z
+  Total Products: 248
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-09-18T17:19:13Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 698
+  Updated: 2025-09-20T15:25:25Z
+  Total Products: 699
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-18T19:46:18Z
   Total Products: 91
@@ -46088,14 +46220,14 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 2036
+  Updated: 2025-09-20T15:25:27Z
+  Total Products: 2043
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 269
+  Updated: 2025-09-20T15:25:25Z
+  Total Products: 272
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-09-18T17:18:47Z
   Total Products: 6
@@ -46106,8 +46238,8 @@
   Updated: 2025-09-18T17:57:31Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 359
+  Updated: 2025-09-20T15:25:27Z
+  Total Products: 366
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-09-18T18:28:35Z
   Total Products: 71
@@ -46274,8 +46406,8 @@
   Updated: 2025-09-20T11:18:16Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
-  Updated: 2025-09-20T11:18:16Z
-  Total Products: 155
+  Updated: 2025-09-20T15:25:24Z
+  Total Products: 156
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
   Updated: 2025-09-20T11:18:16Z
   Total Products: 31
