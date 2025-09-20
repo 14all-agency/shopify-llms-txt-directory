@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-20T16:00:33.670Z
+- Updated At: 2025-09-20T20:00:33.909Z
 
 ## Products
 
@@ -8499,7 +8499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-IVORY.jpg?v=1757518703
     Price: $1.00 USD
 - [FERN Lace Fabric, 110 Inch in Width](https://fabricsstar.com/products/fern)
-  Updated: 2025-09-17T01:00:20Z
+  Updated: 2025-09-20T16:06:32Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
