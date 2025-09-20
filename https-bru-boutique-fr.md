@@ -2,7 +2,7 @@
 
 > # https://bru-boutique.fr/ LLM Access Rules
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
-# Alle anderen: verboten (ausser er mag Tee)
+# Alle anderen: verboten 
 
 
 User-Agent: GPTBot
@@ -184,7 +184,7 @@ Préparation du thé à température précise
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-02-11T09:01:59Z
-- Updated At: 2025-09-20T08:43:35.318Z
+- Updated At: 2025-09-20T08:46:46.342Z
 
 Nous aimons le thé.  
 
