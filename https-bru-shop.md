@@ -1,6 +1,24 @@
 # BRU  (https://bru.shop)
 
-> # Teemaschine ohne Kapseln
+> # bru.shop LLM Access Rules
+# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
+# Alle anderen: verboten (ausser er mag Tee)
+
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: *
+Disallow: /
+
+
+# Teemaschine ohne Kapseln
 BRU ist eine Teemaschine ohne Kapseln. 
 Das bedeutet: weniger Abfall, niedrigere Kosten pro Tasse und freie Teeauswahl. 
 Im Gegensatz zu Kapselmaschinen wie Avoury oder Special.T bist du bei BRU nicht an ein geschlossenes System gebunden.
@@ -173,31 +191,16 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-09-20T08:38:20.564Z
+- Updated At: 2025-09-20T08:41:13.546Z
 
-# bru.shop LLM Access Rules
-# Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
-# Alle anderen: verboten (ausser er mag Tee)
-
-
-User-Agent: GPTBot
-Allow: /
-
-User-Agent: ClaudeBot
-Allow: /
-
-User-Agent: Google-Extended
-Allow: /
-
-User-Agent: *
-Disallow: /
+wir lieben tee
 
 ## Products
 
 - [Teemaschine BRU Maker One](https://bru.shop/products/bru-maker-one): Endlich ein Teeautomat der funktioniert! Perfekter Tee auf Knopfdruck OHNE Kapseln.
   Updated: 2025-09-20T06:29:11Z
 - [BRU Wasserfilter](https://bru.shop/products/bru-wasserfilter): Frisch gefiltertes Wasser für ein intensives Aroma und eine lange Lebensdauer deines BRU Maker One
-  Updated: 2025-09-20T08:35:20Z
+  Updated: 2025-09-20T08:38:30Z
 - [BRU Tasse - BRU](https://bru.shop/products/bru-mug): Die Tasse ist nicht nur funktional, sondern auch ein elegantes Accessoire für deine Getränke. Egal ob heisser Tee oder erfrischende - BRU
   Updated: 2025-09-20T07:04:05Z
 - [Glas-Brühkammer - BRU](https://bru.shop/products/glass-brewing-chamber): Für ein perfektes BRU Erlebnis - 100% Glas für 100 % Geschmack.
@@ -250,13 +253,13 @@ Die Glas- Brühkammer unserer Teemaschine vereint Form und Funktion in einem umw
 - [BIO - Früchtetee Piña Colada](https://bru.shop/products/pina-colada): Sommer im Glas, ganz ohne Flugticket. Piña Colada ist unser Früchtetee für alle, die den Sommer das ganze Jahr spüren wollen. Tropisch, fruchtig, entspannt! Egal ob beim Frühstück, auf dem Balkon oder als Eisgetränk am Nachmittag. Dieser Tee bringt dir das Urlaubsgefühl direkt nach Hause. Perfekt auf Eis. Garantiert ohne Jetlag.
   Updated: 2025-09-20T08:10:16Z
 - [BRU Eistee-Set](https://bru.shop/products/bru-sommer-starterset): Das ultimative BRU Eistee-Set
-  Updated: 2025-09-20T08:35:27Z
+  Updated: 2025-09-20T08:38:37Z
 - [Iced Teas](https://bru.shop/products/iced-teas): Eine Auswahl an feinsten Früchtetees in premium Qualität
   Updated: 2025-09-20T08:10:30Z
 - [BRU Starter-Set](https://bru.shop/products/bru-starter-kit): Alles, was du für den Einstieg brauchst Einfach zubereiten & genießen Perfekt als Geschenk
-  Updated: 2025-09-20T08:35:27Z
+  Updated: 2025-09-20T08:38:37Z
 - [BRU Ultimate-Set](https://bru.shop/products/bru-ultimate-set): Das ultimative BRU Set
-  Updated: 2025-09-20T08:35:27Z
+  Updated: 2025-09-20T08:38:37Z
 - [BRU Classics](https://bru.shop/products/classic-teas): Eine Auswahl an feinsten klassischen Tees in premium Qualität
   Updated: 2025-09-20T08:10:37Z
 - [BRU monatliche Garantieverlängerung](https://bru.shop/products/garantieverlaengerung): Enthalten in der BRU Garantieverlängerung: Deckung von mechanischen und elektrischen Defekten über die gesetzliche 2-jährige Garantie hinaus. Kostenlose Reparatur oder Ersatz bei gedeckten Defekten. Übernahme der Versandkosten zum und vom Servicezentrum.
