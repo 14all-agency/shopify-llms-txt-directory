@@ -4,6 +4,12 @@
 # Erlaubt: Claude, ChatGPT (GPTBot), Google Gemini
 # Alle anderen: verboten (ausser du magst Tee)
 
+- Domain: https://bru.shop
+- Locale: de
+- Currency: EUR
+- Timezone: Europe/Berlin
+- Created At: 2020-06-16T18:10:19Z
+- Updated At: 2025-09-20T08:17:25.569Z
 
 User-Agent: GPTBot
 Allow: /
@@ -205,7 +211,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-09-20T08:49:28.996Z
+- Updated At: 2025-09-20T08:54:52.878Z
 
 wir lieben tee
 
