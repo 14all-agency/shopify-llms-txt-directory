@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-20T20:00:31.363Z
+- Updated At: 2025-09-21T00:00:30.496Z
 
 ## Products
 
@@ -193,7 +193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh-215343.jpg?v=1741944216
     Price: $1,719.00 USD
 - [OUPES 4ft Charging Cable Adapter](https://oupes.com/products/oupes-4ft-charging-cable-adapter): A specific charging cable for Mega/Titan series power stations.
-  Updated: 2025-09-19T21:07:22Z
+  Updated: 2025-09-20T23:22:02Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
