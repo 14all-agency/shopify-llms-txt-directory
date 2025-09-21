@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-21T16:01:01.797Z
+- Updated At: 2025-09-21T20:00:59.941Z
 
 ## Products
 
@@ -7490,7 +7490,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק צהובה אנתוני דייוויס](https://www.rsport.co.il/products/גופיית-משחק-צהובה-אנתוני-דייוויס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:15:34Z
+  Updated: 2025-09-21T18:36:35Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
