@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-21T00:01:04.547Z
+- Updated At: 2025-09-21T08:01:04.005Z
 
 ## Products
 
@@ -2381,7 +2381,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-arkham-knight-harley-quinn-23395416-dc-comics-1178693434.webp?v=1752838334
   Price: 13,99 € EUR
 - [DC Comics Batman](https://brincatoys.pt/products/dc-comics-batman): Figura em PVC não tóxico, flexível, com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-08-21T00:16:40Z
+  Updated: 2025-09-21T02:32:44Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -4904,7 +4904,7 @@ todo o mundo, embora o leopardo africano seja de longe o mais difundido.Figura e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/little-friends-mini-boneco-erik-81280219-brincatoys-1178694186.jpg?v=1752852122
   Price: 9,99 € EUR
 - [Little Friends Mini Boneco Liam](https://brincatoys.pt/products/little-friends-mini-boneco-liam): A colecção Little Friends não para de crescer e de juntar amigos e família. Muito amigo do Erik, o Liam também é conhecido pelo seu humor apurado e por saber sempre uma anedota divertida. Gosta muito dos seus jeans justos e de andar com um par de sapatos que dê nas vistas. Um boneco articulado com 9,5cm.    Dimensão: 9,5 x 7 x 2,50 cm. Idade recome
-  Updated: 2025-08-21T00:14:11Z
+  Updated: 2025-09-21T02:20:07Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -7764,7 +7764,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-animais-selvagens-810460919-brincatoys-1178695118.jpg?v=1752869286
   Price: 9,90 € EUR
 - [Puzzle Bombeiros](https://brincatoys.pt/products/puzzle-bombeiros): Monta este divertido puzzle de 16 peças, sem pino, do carro dos bombeiros.Tem impressas pequenas pistas no interior para facilitar a colocação das peças . Desenvolve a atenção, a habilidade manual e a coordenação olho/mão. Dimensão: 28 x 28 x 1 cm Idade recomendada: + de 12 meses.
-  Updated: 2025-09-20T23:20:40Z
+  Updated: 2025-09-21T03:24:41Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -9160,7 +9160,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-de-2-rodas-unicornio-172869322-brincatoys-1178695575.jpg?v=1752808565
   Price: 36,99 € EUR
 - [Trotinete de Alumínio Dragon Ball](https://brincatoys.pt/products/trotinete-de-aluminio-dragon-ball): A Trotinete de alumínio do Dragon Ball é leve e fácil de manejar, apresentando 2 rodas de silicone, travão na roda traseira, plataforma anti-derrapante, guiador ajustável em altura e estrutura dobrável. O guiador é ajustável em diferentes alturas (72 a 76,5 cm) e a trotinete suporta o peso de uma criança até 50 Kg. A trotinete em alumínio do Dragon
-  Updated: 2025-08-21T00:09:17Z
+  Updated: 2025-09-21T00:32:02Z
   Vendor: Dragon Ball
   Product Type: + 5 anos
   Availability: Available
@@ -10050,7 +10050,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/robot-trains-vito-brincatoys-11071218-2600000-robot-trains-1178695830.webp?v=1752882501
   Price: 11,50 € EUR
 - [Robot Trains - Victor | Brincatoys](https://brincatoys.pt/products/robot-trains-victor): Bem-vindos ao Mundo dos Comboios, onde os seus habitantes são comboios! Porém, entre os moradores existem comboios especiais que podem transformar-se em robôs, os Robot Trains. Os 5 heróis, com poderes especiais, são: Kay, Alf, Duck, Selly e Victor - e suas emocionantes aventuras. Os Robot Trains poderão salvar a vila das forças malignas das trevas
-  Updated: 2025-08-21T00:08:04Z
+  Updated: 2025-09-21T00:45:52Z
   Vendor: Robot Trains
   Product Type: + 3 anos
   Availability: Available
@@ -10197,7 +10197,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ford-gt-2017-683138423-brincatoys-1178695891.jpg?v=1752806409
   Price: 54,99 € EUR
 - [Comboio a pilhas vermelho](https://brincatoys.pt/products/comboio-a-pilhas-vermelho): Esta pequena locomotiva ronca junto com uma luz que ilumina o caminho. Um toque num botão coloca este pequeno motor em marcha atrás.  Dimensão: 18 x 10 x 5 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:07:54Z
+  Updated: 2025-09-21T03:11:44Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -12185,7 +12185,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/brinquedo-petronix-defenders-matt-s-pet-mobile-pup-e-644834223-8056379148340-petronix-defenders-1178696801.webp?v=1752803522
   Price: 11,19 € EUR
 - [Brinquedos Petronix Defenders - Emma's Pet Mobile & Kitt-10](https://brincatoys.pt/products/petronix-defenders-emma-pet-mobile-kitt-10): Descubra a Petronix Defenders - Emma's Pet Mobile & Kitt-10, a emocionante moto de aventura com um animal de estimação robótico incluído. Perfeito para crianças a partir dos 3 anos de idade. Encomende já a sua!
-  Updated: 2025-08-21T00:05:19Z
+  Updated: 2025-09-21T00:51:29Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
@@ -12703,7 +12703,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-tiana-35-cm-775575923-princesas-disney-1178697026.jpg?v=1752802815
   Price: 42,50 € EUR
 - [Lego Friends - Treino Equestre](https://brincatoys.pt/products/lego-friends-treino-equestre): A Aliya veio para ajudar a Mia a cuidar do seu cavalo e do seu potro. O estábulo de treino tem tudo o que precisam. Gire a roda para ver a tarefa que precisa de ser feita a seguir. A Aliya adora montar o cavalo e deixá-lo praticar os saltos. Ela ajuda a Mia a escovar a mãe e o potro, e a limpar o estábulo, antes de se sentar na varanda para ver os
-  Updated: 2025-09-20T14:19:35Z
+  Updated: 2025-09-21T01:12:26Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -15770,7 +15770,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/enchantimals-tails-gerika-e-familia-de-golden-retriever-20630524-0194735063055-enchantimals-1178699241.jpg?v=1752937698
   Price: 16,99 € EUR
 - [Boneca Frozen - Elsa Disney | Brincatoys](https://brincatoys.pt/products/boneca-frozen-elsa): Descubra a Boneca Frozen - Elsa, um brinquedo Disney autêntico que traz a magia de Arendelle para suas mãos. Encanta fãs com detalhes mágicos.
-  Updated: 2025-09-20T19:25:36Z
+  Updated: 2025-09-21T07:25:37Z
   Vendor: Princesas Disney
   Product Type: Bonecas
   Availability: Available
@@ -18094,7 +18094,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-9-marcadores-perfumados-arte-criativa-e-divertida-490307424-3760301403074-brincatoys-1178701161.jpg?v=1752966494
   Price: 10,99 € EUR
 - [Conjunto de Colorir Lily em Veludo: Obras de Arte Facilitadas](https://brincatoys.pt/products/conjunto-de-colorir-lily-em-veludo): Deixe a imaginação fluir com o Conjunto de colorir Lily em veludo. Ilustrações cuidadosamente desenhadas para garantir diversão sem frustrações.
-  Updated: 2025-08-27T10:01:51Z
+  Updated: 2025-09-21T00:28:46Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18500,7 +18500,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-tabuleiro-party-co-family-inesquecivel-81011925-8410446101193-brincatoys-1178695942.jpg?v=1752883461
   Price: 34,90 € EUR
 - [kit Pulseiras da Amizade para crianças: Criatividade e Partilha](https://brincatoys.pt/products/kit-pulseiras-da-amizade-para-criancas): Deixe a criatividade fluir com o Kit de Pulseiras da Amizade para Crianças. Dezenas de cores, missangas e autocolantes para criar acessórios únicos! 😍
-  Updated: 2025-08-29T11:48:08Z
+  Updated: 2025-09-21T06:53:16Z
   Vendor: Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -19837,7 +19837,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-uno-show-em-no-mercy-diversao-estrategica-772080924-0194735220809-uno-1178699924.jpg?v=1752790206
   Price: 17,90 € EUR
 - [Figura Porquinha Peppa - Avó | Brinquedo Educacional](https://brincatoys.pt/products/figura-porquinha-peppa-avo): Descubra a Figura Porquinha Peppa - Avó, ideal para fãs da série! Promove o desenvolvimento cognitivo com diversão garantida.
-  Updated: 2025-09-20T15:05:10Z
+  Updated: 2025-09-21T03:12:31Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
