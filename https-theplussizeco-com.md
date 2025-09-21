@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-21T00:00:28.859Z
+- Updated At: 2025-09-21T08:00:28.938Z
 
 ## Products
 
@@ -541,7 +541,7 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Plus Size Vibrant Blue Digital Printed Dress with Pockets - The Plus Size Store](https://theplussizeco.com/products/vibrant-blue-digital-printed-dress-with-pockets): Make a statement in vibrant blue with our Vibrant Blue Digital Printed Dress with Pockets. Features poly satin fabric and sweetheart neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-20T11:57:17Z
+  Updated: 2025-09-21T00:14:13Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
