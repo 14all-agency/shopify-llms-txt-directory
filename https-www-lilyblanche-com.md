@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-21T16:00:43.715Z
+- Updated At: 2025-09-21T20:00:44.488Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -4010,13 +4010,13 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £315.00 GBP
 - [Amethyst Vintage Heart Locket Silver + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-silver): Looking for a truly special gift? This Amethyst Heart Necklace holds two of your precious photos. Made from sterling silver, the necklace features a genuine heart-shaped amethyst gemstone, the birthstone for February. Hallmarked in Edinburgh. Order online today to receive free UK shipping & Luxury Jewellery Care Kit.
-  Updated: 2025-09-06T04:12:08Z
+  Updated: 2025-09-21T16:51:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/img_proxy_0096155a-48f4-4a14-b371-6ffd6f8194d2.jpg?v=1741878876
   - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-silver?variant=44782243512638)
-    Availability: Available
+    Availability: Not Available
     Price: £175.00 GBP
   - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-silver?variant=47655454572862)
     Availability: Available
@@ -14926,7 +14926,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Sapphire Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-silver): Searching for the perfect romantic gift? This Sapphire Vintage Heart Locket features a genuine sapphire, the birthstone of September. This beautiful vintage locket opens to take two of your personal photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Shop Sapphire Necklaces Online.
-  Updated: 2025-09-11T16:32:26Z
+  Updated: 2025-09-21T17:37:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15373,7 +15373,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_7d454310-fdcd-40e3-894e-ee8e682eb748.jpg?v=1741883914
   Price: £65.00 GBP
 - [Sapphire Heart Locket Silver | Genuine Sapphire Necklace | Lily Blanche](https://www.lilyblanche.com/products/sapphire-heart-locket-silver): Looking for a stunning personalised necklace? This sterling silver sapphire locket hides a secret photo inside. A perfect 16th, 18th or 21st birthday gift, this pretty and romantic locket is hallmarked in Edinburgh.  Free UK Shipping. Free jewellery care kit included worth £20. Personalise your locket online today.
-  Updated: 2025-09-08T20:13:20Z
+  Updated: 2025-09-21T17:43:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-21T13:38:35Z
+  Updated: 2025-09-21T18:12:42Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17000,7 +17000,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [St Christopher Necklace  Solid Gold + Engraving](https://www.lilyblanche.com/products/st-christopher-necklace-gold): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a perfect gift for special birthdays. Personalise with engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-18T23:04:04Z
+  Updated: 2025-09-21T19:28:41Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
