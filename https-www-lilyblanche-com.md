@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-21T12:00:44.249Z
+- Updated At: 2025-09-21T16:00:43.715Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2849,7 +2849,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Memory Keeper Locket Necklace | 6 Photos + Engraving | Premium Quality](https://www.lilyblanche.com/products/memory-keeper-locket-gold): The Memory Keeper Locket keeps loved ones close. This stunning necklace holds 6 photos. Engraveable. Get free photos, jewellery care kit & gift wrap today.
-  Updated: 2025-09-18T10:05:09Z
+  Updated: 2025-09-21T12:07:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9836,7 +9836,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £160.00 GBP
 - [Belcher Chain Solid Silver](https://www.lilyblanche.com/products/belcher-chain-silver): This strong sterling silver heavy-weight belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look. Order today and receive a free jewellery care kit
-  Updated: 2025-08-13T14:22:54Z
+  Updated: 2025-09-21T15:34:17Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -10437,7 +10437,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £350.00 GBP
 - [Four Picture Heart Locket | 4 Photo Locket Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-white-gold): Need a luxurious romantic gift? This pretty four photo heart-shaped locket in 18 carat white gold vermeil is a charming way to keep loved ones close. The locket is hallmarked in Edinburgh. Free Locket Photos today.  Free UK shipping & Express Delivery Available. Shop this white gold necklace online today.
-  Updated: 2025-09-01T11:46:25Z
+  Updated: 2025-09-21T14:19:11Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16554,7 +16554,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [Men's Round Locket Necklace | High Quality | Lily Blanche](https://www.lilyblanche.com/products/mens-round-locket-necklace-white-gold): Keep loved ones close with this men's round 18 carat white gold vermeil photo locket can hold two photos and can be engraved. Order online today with free photos, UK shipping & luxury gift wrap.
-  Updated: 2025-08-14T11:05:54Z
+  Updated: 2025-09-21T14:02:41Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-20T23:05:40Z
+  Updated: 2025-09-21T13:38:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22852,7 +22852,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-20T17:05:11Z
+  Updated: 2025-09-21T14:09:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
