@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-21T16:01:05.409Z
+- Updated At: 2025-09-21T20:01:02.525Z
 
 ## Products
 
@@ -1518,35 +1518,35 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carrossel-azul-191425216-brincatoys-1178693068.png?v=1752832328
   Price: 25,90 € EUR
 - [Cars Brad Winmiler](https://brincatoys.pt/products/cars-brad-winmiler): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-08-21T00:17:33Z
+  Updated: 2025-09-21T17:17:32Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-brad-winmiler-550365122-0194735036516-cars-1178693070.webp?v=1752832335
   Price: 11,99 € EUR
-- [Cars Chisaki](https://brincatoys.pt/products/cars-chisaki): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-09-05T09:42:25Z
+- [Cars Disney - Chisaki](https://brincatoys.pt/products/cars-chisaki): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
+  Updated: 2025-09-21T18:51:11Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-chisaki-557219123-cars-1178697635.jpg?v=1757021581
   Price: 11,99 € EUR
 - [Cars Derek Wheeliams](https://brincatoys.pt/products/cars-derek-wheeliams): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-09-05T05:08:45Z
+  Updated: 2025-09-21T17:17:32Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-derek-wheeliams-559107122-0887961910711-cars-1178693074.webp?v=1752832447
   Price: 11,99 € EUR
 - [Cars Keith Kone](https://brincatoys.pt/products/cars-keith-kone): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-08-21T00:17:32Z
+  Updated: 2025-09-21T17:17:32Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-keith-kone-550363622-0194735036363-cars-1178693078.jpg?v=1752832459
   Price: 11,99 € EUR
 - [Cars Lee Race](https://brincatoys.pt/products/cars-lee-race): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-08-21T00:17:31Z
+  Updated: 2025-09-21T17:17:32Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -1867,7 +1867,7 @@ Esse gênero possui duas características notáveis.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-animais-magnetico-26770321-3048700077035-brincatoys-1178693259.jpg?v=1752818175
   Price: 24,99 € EUR
 - [Conjunto Ariel](https://brincatoys.pt/products/conjunto-ariel): Este conjunto é perfeito para todos os fâs de Ariel. Inclui a boneca com 15 cm, Ursula, Sebastian, Flounder e um pente.
-  Updated: 2025-08-21T00:17:06Z
+  Updated: 2025-09-21T17:35:32Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -3189,7 +3189,7 @@ do sul da
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/foca-leopardo-430012925-0095866002473-brincatoys-1178693653.jpg?v=1752842180
   Price: 9,99 € EUR
 - [Ford Mustang Shelby GT500 Coupe 2020](https://brincatoys.pt/products/ford-mustang-shelby-gt500-coupe-2020): Com um custo-benefício imbatível, a versão Shelby GT500 representa tudo o que é considerado tradicional e inconfundível na história dos muscle cars americanos: o motor V8 de 5162cc é um dos pontos mais interessantes do modelo, capaz de empurrar o carro de 0 a 100 km/h em apenas 3"4. A velocidade máxima também impressiona, tudo para uma massa não ex
-  Updated: 2025-08-21T00:15:53Z
+  Updated: 2025-09-21T17:17:31Z
   Vendor: Brincatoys
   Product Type: + 14 anos
   Availability: Available
@@ -8533,7 +8533,7 @@ Figura com aproximadamente 8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/shanti-621237822-brincatoys-1178695361.jpg?v=1752872781
   Price: 7,50 € EUR
 - [Boneco PVC Disney Simba Bebé: Magia e Aventura](https://brincatoys.pt/products/boneco-pvc-disney-simba-bebe): Leve para casa a magia do Rei Leão com o boneco PVC Disney Simba bebé. Perfeito para criar novas histórias e recriar cenas memoráveis da Disney. Compre já!
-  Updated: 2025-09-05T19:41:56Z
+  Updated: 2025-09-21T19:37:55Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -9062,7 +9062,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-3-rodas-das-princesas-disney-171899622-princesas-disney-1178695554.jpg?v=1752807961
   Price: 39,99 € EUR
 - [Trotinete 3 Rodas do Cars](https://brincatoys.pt/products/trotinete-3-rodas-do-cars): Trotinete decorada com as cores e desenhos de Cars com 3 rodas (2 traseiras e 1 dianteira), com grande estabilidade, ideal para os mais pequenos.. A base de apoio para os pés é larga e anti-derrapante. Uma trotinete com bolsa porta-objetos frontal. Peso máximo = 20 Kg Dimensão: 47,50 x 22 x 14 cm. Idade Recomendada: + de 2 anos.
-  Updated: 2025-08-28T10:01:40Z
+  Updated: 2025-09-21T17:17:31Z
   Vendor: Cars
   Product Type: + 2 anos
   Availability: Available
@@ -9118,7 +9118,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-de-2-rodas-das-princesas-disney-172801422-princesas-disney-1178695568.jpg?v=1752808326
   Price: 44,99 € EUR
 - [Trotinete de 2  Rodas do Cars](https://brincatoys.pt/products/trotinete-de-2-rodas-do-cars): A Trotinete de alumínio do Cars é leve e fácil de manejar, apresentando 2 rodas de silicone, travão na roda traseira, plataforma anti-derrapante, guiador ajustável em altura e estrutura dobrável. O guiador é ajustável em diferentes alturas (72 a 76,5 cm) e a trotinete suporta o peso de uma criança até 50 Kg. A trotinete em alumínio do Cars é ideal
-  Updated: 2025-08-21T00:09:20Z
+  Updated: 2025-09-21T17:17:31Z
   Vendor: Cars
   Product Type: + 5 anos
   Availability: Available
@@ -9627,7 +9627,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/videojogo-sony-psp-the-eye-of-judgment-legends-102109-brincatoys-1178695688.webp?v=1752878895
   Price: 14,99 € EUR
 - [Videojogo Wii Cars 2](https://brincatoys.pt/products/videojogo-wii-cars-2): Baseado no próximo filme de animação da Disney-Pixar, surge Cars 2: o videojogo que permite aos jogadores entrar numa emocionante aventura, oferecendo-lhes a possibilidade de seleccionar de entre 25 personagens de Cars diferentes, incluindo as mais conhecidas, como Mate e Faísca McQueen, assim como novas personagens como Finn McMissle. Os jogadores
-  Updated: 2025-08-21T00:08:38Z
+  Updated: 2025-09-21T17:17:30Z
   Vendor: Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -11352,7 +11352,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-fashionista-meschas-violeta-brincatoys-20020223-0194735002023-barbie-1178696442.jpg?v=1752892930
   Price: 15,99 € EUR
 - [Brinquedos da Patrulha Pata Rocky - Aprender com diversão](https://brincatoys.pt/products/patrulha-pata-rocky): Explore a diversão e a educação ambiental com o Brinquedo da Patrulha Pata Rocky! Ideal para crianças criativas e preocupadas com o planeta.
-  Updated: 2025-09-16T10:27:05Z
+  Updated: 2025-09-21T19:37:56Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -12696,7 +12696,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-tiana-35-cm-775575923-princesas-disney-1178697026.jpg?v=1752802815
   Price: 42,50 € EUR
 - [Lego Friends - Treino Equestre](https://brincatoys.pt/products/lego-friends-treino-equestre): A Aliya veio para ajudar a Mia a cuidar do seu cavalo e do seu potro. O estábulo de treino tem tudo o que precisam. Gire a roda para ver a tarefa que precisa de ser feita a seguir. A Aliya adora montar o cavalo e deixá-lo praticar os saltos. Ela ajuda a Mia a escovar a mãe e o potro, e a limpar o estábulo, antes de se sentar na varanda para ver os
-  Updated: 2025-09-21T01:12:26Z
+  Updated: 2025-09-21T18:03:49Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -13663,21 +13663,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-the-movie-pink-power-jumpsuit-231745223-0194735174522-barbie-signature-1178697607.jpg?v=1752913090
   Price: 59,99 € EUR
 - [Carro Disney Cars Reyo Kos - Brinquedo de Corrida Inspirador](https://brincatoys.pt/products/carro-disney-cars-reyo-kos): Deixe a imaginação das crianças acelerar com o Carro Disney Cars Reyo Kos! Este brinquedo interativo e colorido é perfeito para jogos e coleção, oferecendo diversão segura e criatividade ilimitada.
-  Updated: 2025-08-21T00:03:33Z
+  Updated: 2025-09-21T17:17:30Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-disney-cars-reyo-kos-brinquedo-de-corrida-inspirador-550766223-0194735076628-cars-1178697611.jpg?v=1752913100
   Price: 11,99 € EUR
 - [Cars Marlon "Clutches" McKay](https://brincatoys.pt/products/cars-jonathan-wrenchworths): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-08-29T12:07:40Z
+  Updated: 2025-09-21T17:17:30Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-marlon-clutches-mckay-550363923-0194735036394-cars-1178697613.jpg?v=1752913206
   Price: 11,99 € EUR
 - [Carro Disney Noriyuki - Modelo de Metal Coleccionável](https://brincatoys.pt/products/carro-disney-noriyuki): Carro Disney Noriyuki. Descubra o camião da coleção Cars e deixe-o impulsionar a imaginação da criançada. Réplica de metal perfeita para jogos e coleções.
-  Updated: 2025-08-21T00:03:32Z
+  Updated: 2025-09-21T17:17:30Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -13754,7 +13754,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-peppa-pig-peppa-enfermeira-50895323-5704976089537-peppa-pig-1178697676.jpg?v=1752799325
   Price: 16,99 € EUR
 - [Cubos de Empilhar Peppa Pig](https://brincatoys.pt/products/cubos-de-empilhar-peppa-pig): Este conjunto de empilhamento Peppa Pig é um brinquedo maravilhoso que garante diversão e aprendizagem ao seu filho. Composto por dez cubos de empilhamento, cada um ilustrado com os personagens adoráveis da Peppa Pig, este conjunto é feito de papelão robusto, garantindo sua durabilidade. O ato de empilhar os cubos varia de simples a desafiador, dependendo do tamanho dos cubos. Este brinquedo estimula o seu filho a usar as suas habilidades de concentração à medida que tenta equilibrar cubos de diferentes tamanhos um em cima do outro. Este desafio de equilíbrio aumenta a concentração e o foco do seu filho, habilidades vitais que são úteis na vida diária e na aprendizagem escolar. Além disso, a construção e empilhamento dos cubos melhora significativamente as habilidades motoras finas e grossas do seu filho. As habilidades motoras finas envolvem o uso de músculos pequenos, como os das mãos e dedos, enquanto as habilidades motoras grossas envolvem o uso de músculos maiores, como os dos braços e pernas. Ambas são essenciais para o desenvolvimento físico adequado de uma criança. Este conjunto de empilhamento Peppa Pig também ajuda a aprimorar a coordenação mão-olho do seu filho. A coordenação mão-olho é uma habilidade cognitiva fundamental que envolve a comunicação do cérebro com os músculos do corpo para realizar tarefas que requerem precisão e atenção. Por fim, este brinquedo requer uma quantidade significativa de concentração da parte do seu filho. Isso mantém o seu filho concentrado, entretido e ajuda a aumentar a sua competência cognitiva. A competência cognitiva envolve o uso de habilidades mentais para adquirir conhecimento e compreensão, e é fundamental para o desenvolvimento intelectual de uma criança. Em resumo, este lindo conjunto de empilhamento Peppa Pig é um brinquedo educativo que promove o desenvolvimento cognitivo e motor do seu filho, enquanto também garante horas de diversão e entretenimento. Dimensão: 15 x 15 x 15 cm.Idade Recomendada: + de 2 anos.
-  Updated: 2025-08-21T00:03:26Z
+  Updated: 2025-09-21T16:40:55Z
   Vendor: Peppa Pig
   Product Type: + 2 anos
   Availability: Available
@@ -15042,7 +15042,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-minifiguras-surpresa-233931724-043377357414-godzilla-vs-kong-1178698577.jpg?v=1752929177
   Price: 10,00 € EUR
 - [Carros Disney Mre Pillar Durev](https://brincatoys.pt/products/cars-mre-pillar-durev): Descubra o encanto do Cars - Mre Pillar Durev, um brinquedo estimulante e cativante diretamente do universo fascinante de "Cars", criado pela Disney Pixar, para as crianças colecionarem e construiemr a sua própria frota de carros! Repleto de cores vibrantes e com um design dinâmico, este veículo é confeccionado em metal resistente, desenhado para perdurar através de incontáveis aventuras imaginárias. Além disso, o Mre Pillar Durev destaca-se pelo seu acabamento impecável com detalhes meticulosos que encantam à primeira vista. Inicialmente, o que captura sua atenção é a lustruosa carroceria prateada adornada por chamas vermelhas e negras, conferindo ao brinquedo um ar de velocidade e paixão. Acompanhado por rodas duráveis e bem encaixadas, proporciona uma experiência de brincadeira suave e contínua. Ademais, a atenção aos detalhes estende-se até o interior do veículo, com um acabamento sofisticado que inspira admiração. Além do seu apelo visual, este modelo promove o desenvolvimento da coordenação motora e da criatividade nas crianças. Elas podem criar cenários emocionantes, estimulando a imaginação e incentivando o jogo cooperativo com amigos ou familiares. É, portanto, um veículo tanto para colecionadores como para crianças que adoram a série "Cars" e desejam levar sua paixão para o próximo nível. Falando em colecionabilidade, vale destacar que o Cars - Mre Pillar Durev vem numa embalagem atraente, que dá um vislumbre do universo "Cars" através do mapa dos Salt Flats incluído, adicionando valor ao artigo enquanto objeto colecionável. Cada emocionante veículo fundido na escala 1:55 apresenta detalhes fiéis aos filmes e rodas giratórias, sendo adequado para crianças a partir dos 3 anos, este carro metálico é robusto o suficiente para suportar as brincadeiras mais entusiásticas. Em suma, com o Mre Pillar Durev da coleção Disney Pixar "Cars",investe em: Design atraente inspirado no filme "Cars" Qualidade durável e acabamento detalhado Estímulo à criatividade e coordenação motora Dimensão: 14 x 16,50 x 3 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:01:57Z
+  Updated: 2025-09-21T17:16:48Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -15133,7 +15133,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-atego-1530f-magirus-683201825-8719247696335-bburago-1178698681.jpg?v=1752930497
   Price: 21,50 € EUR
 - [Carros Disney Kay Pillar](https://brincatoys.pt/products/cars-disney): Acelere as aventuras do seu pequeno com o fantástico Cars Disney - Kay Pillar-Durev, uma adição indispensável à coleção de qualquer fã da série de filmes "Cars" da Disney-Pixar. Este Veículo é feito com uma atenção meticulosa aos detalhes, apresentando um acabamento metálico que reflete a paixão e a velocidade das pistas de corrida dos filmes. Inicialmente, o sorriso cativante de Kay Pillar-Durev é o que salta à vista, convidando tanto crianças quanto colecionadores a recriar as suas cenas favoritas ou a imaginar novas aventuras. Além disso, as rodas bem trabalhadas e os grafismos ondulados realçam a sua aerodinâmica e apelo estético, fazendo deste brinquedo uma verdadeira obra de arte em miniatura. A durabilidade é outra característica surpreendente, graças à sua construção em metal resistente, garantindo horas de brincadeira sem sinais de desgaste. Também vale destacar que o Cars Disney - Kay Pillar-Durev é uma edição especial, tornando-o ainda mais cobiçado por entusiastas e colecionadores de todas as idades. Ao passo que oferece diversão sem fim, este modelo também apoia o desenvolvimento de habilidades motoras finas, bem como a capacidade de planejamento e organização ao planejar corridas e eventos no universo "Cars". A embalagem, que presta homenagem ao tema "Cars on the Road", não só protege o brinquedo como também serve como um excelente display para aqueles que preferem manter suas coleções intactas. Com estilo autêntico, este veículo fundido na escala 1:55 é cheios de personalidade e detalhes icônicos e perfeitos para recriar todas as cenas de ação e aventura hilariantes dos filmes Cars da Disney/Pixar. As crianças vão querer colecionar e construir a sua própria frota. Em suma... Detalhes meticulosos e acabamento metálico de alta qualidade. Durabilidade com a construção em metal resistente. Edição especial, perfeita para fãs e colecionadores. Fomento ao desenvolvimento de habilidades motoras e criatividade. Embalagem temática que funciona como display. Dimensão: 14 x 16,50 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-08-29T12:07:40Z
+  Updated: 2025-09-21T17:16:46Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -15945,7 +15945,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-princesa-disney-anna-com-coroa-772187924-2600000-princesas-disney-1178699381.jpg?v=1752940461
   Price: 19,99 € EUR
 - [Carros Disney - Ken Enginoki e Justin Roadritter](https://brincatoys.pt/products/cars-disney-ken-enginoki-e-justin-roadritter): Adicione magia à sua colecção com os carros Disney Ken Enginoki e Justin Roadritter – peças die-cast autênticas que encantam fãs de todas as idades.
-  Updated: 2025-09-09T15:19:19Z
+  Updated: 2025-09-21T17:09:06Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -16232,7 +16232,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-fennekin-lechonk-e-sirfetch-d-23360224-0191726709435-pokemon-1178699645.jpg?v=1752944414
   Price: 22,50 € EUR
 - [Carro de brincar Porsche 911 GT3 preto à Escala 1:24](https://brincatoys.pt/products/porsche-911-gt3-preto): Descubra o Carro de brincar Porsche 911 GT3 preto à escala 1:24 da Bburago, perfeito para crianças e colecionadores. Detalhes realistas e qualidade.
-  Updated: 2025-09-16T22:43:53Z
+  Updated: 2025-09-21T18:24:15Z
   Vendor: Bburago
   Product Type: Bburago
   Availability: Available
@@ -16281,28 +16281,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-bugatti-bolide-1-24-edicao-especial-683291125-8719247848437-brincatoys-1178699720.jpg?v=1752945848
   Price: 24,50 € EUR
 - [Carro da Disney - Lightning McQueen Global Racers Cup](https://brincatoys.pt/products/cars-disney-lightning-mcqueen-global-racers-cup): Descubra o carro da Disney - Lightning McQueen Global Racers Cup, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs.
-  Updated: 2025-09-19T13:44:31Z
+  Updated: 2025-09-21T17:09:06Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-lightning-mcqueen-global-racers-cup-772002724-0194735200276-cars-1178699732.jpg?v=1752945977
   Price: 11,99 € EUR
 - [Carro da Disney - Gearsten Marshall Die-Cast](https://brincatoys.pt/products/carro-da-disney-gearsten-marshall): Descubra o carro da Disney - Gearsten Marshall, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs e coleccionadores.
-  Updated: 2025-08-21T00:00:23Z
+  Updated: 2025-09-21T17:09:05Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-gearsten-marshall-die-cast-771103624-0194735110360-cars-1178699736.jpg?v=1752946088
   Price: 11,99 € EUR
 - [Carros da Disney Pixar - Komodo. Reviva as Corridas Mágicas](https://brincatoys.pt/products/carros-da-disney-komodo): Descubra o carros da Disney Pixar - Komodo, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs e coleccionadores.
-  Updated: 2025-09-16T10:29:36Z
+  Updated: 2025-09-21T17:09:03Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-da-disney-pixar-komodo-reviva-as-corridas-magicas-772012224-0194735201228-cars-1178699788.jpg?v=1752791293
   Price: 11,99 € EUR
 - [Carros da Disney - Jessica Carvill. Reviva as Corridas Mágicas](https://brincatoys.pt/products/carros-da-disney-jessica-carvill): Descubra o carros da Disney - Jessica Carvill, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs e coleccionadores.
-  Updated: 2025-08-21T00:00:21Z
+  Updated: 2025-09-21T17:09:03Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -17009,49 +17009,49 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-barbie-mysteries-the-great-horse-chase-772309624-0194735230969-barbie-1178700311.jpg?v=1752953658
   Price: 22,99 € EUR
 - [Carros da Disney – Carla Veloso](https://brincatoys.pt/products/cars-disney-carla-veloso): Adicione o carisma de carros da Disney – Carla Veloso à sua coleção.  Brinquedo metálico durável e fiel ao filme "Cars", perfeito para fãs e colecionadores.
-  Updated: 2025-08-20T23:59:38Z
+  Updated: 2025-09-21T17:09:02Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-da-disney-carla-veloso-552002224-0194735200221-cars-1178700323.jpg?v=1752954012
   Price: 11,99 € EUR
 - [Carro da Disney Alan Aiken Axler](https://brincatoys.pt/products/cars-disney-alan-aiken-axeler): Conquiste a pista com o carro da Disney Alan Aiken Axler, o colecionável Cars Pixar de metal. Design autêntico e resistente para brincar.
-  Updated: 2025-08-20T23:59:38Z
+  Updated: 2025-09-21T17:09:02Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-alan-aiken-axler-557260424-0887961726046-cars-1178700327.jpg?v=1752954122
   Price: 11,99 € EUR
 - [Carro da Disney Pixar - Manji | Colecionável de Metal](https://brincatoys.pt/products/carro-da-disney-pixar-manji): Adicione o Carro da Disney Pixar - Manji à sua coleção.! Modelo de metal detalhado para jogar e coleccionar. Durável, criativo e ideal para fãs de "Carros".
-  Updated: 2025-08-20T23:59:38Z
+  Updated: 2025-09-21T17:09:02Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-manji-colecionavel-de-metal-552002824-0194735200283-cars-1178700331.jpg?v=1752954134
   Price: 11,99 € EUR
 - [Carro da Disney – Manny Flywheel | Brinquedo Metálico](https://brincatoys.pt/products/cars-disney-manny-flywheel): Descubra o Carro da Disney – Manny Flywheel, o brinquedo metálico que traz diversão e aventura das corridas "Cars" para as mãos das crianças.
-  Updated: 2025-09-21T09:49:35Z
+  Updated: 2025-09-21T17:09:02Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-manny-flywheel-brinquedo-metalico-559108924-0887961910896-cars-1178700339.jpg?v=1752954257
   Price: 11,99 € EUR
 - [Carro da Disney Pixar – Otis | Réplica Perfeita](https://brincatoys.pt/products/cars-disney-pixar-otis): Carro da Disney Pixar – Otis. Traga a magia dos filmes "Cars" para casa. Este modelo detalhado estimula a criatividade e é um presente que encanta.
-  Updated: 2025-09-17T16:06:40Z
+  Updated: 2025-09-21T17:09:01Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-otis-replica-perfeita-550366324-0194735036639-cars-1178700347.jpg?v=1752954381
   Price: 11,99 € EUR
 - [Carro da Disney – Van Campbell | Réplica Perfeita](https://brincatoys.pt/products/cars-disney-van-campbell): Carro da Disney – Van Campbell. Traga a magia dos filmes "Cars" para casa. Este modelo detalhado estimula a criatividade e é um presente que encanta.
-  Updated: 2025-08-20T23:59:36Z
+  Updated: 2025-09-21T17:09:01Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-van-campbell-replica-perfeita-552003824-0194735200382-cars-1178700351.jpg?v=1752954612
   Price: 11,99 € EUR
 - [Carro da Disney – Eric Braker | Réplica Perfeita](https://brincatoys.pt/products/cars-disney-eric-braker): Carro da Disney –  Eric Braker. Traga a magia dos filmes "Cars" para casa. Este modelo detalhado estimula a criatividade e é um presente que encanta.
-  Updated: 2025-08-20T23:59:36Z
+  Updated: 2025-09-21T17:09:01Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -17366,7 +17366,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-de-madeira-quatro-estacoes-brinquedo-educativo-26264124-3048700026415-brincatoys-1178700588.jpg?v=1752958208
   Price: 16,80 € EUR
 - [Puzzle de Madeira - Animais do Zoo | Brinquedo Educativo](https://brincatoys.pt/products/puzzle-de-madeira-animais-do-zoo): Descubra o Puzzle de Madeira - Animais do Zoo da Vilac. Brinquedo educativo para crianças,. Desenvolve habilidades motoras e ensina sobre os animais.
-  Updated: 2025-08-20T23:59:18Z
+  Updated: 2025-09-21T16:52:33Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -17765,7 +17765,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-car-culture-1975-datsun-detalhes-classicos-771845424-0194735184545-hot-wheels-1178700908.jpg?v=1752963123
   Price: 24,99 € EUR
 - [Carros Disney - Double Clutch Daley e Jet Robinson](https://brincatoys.pt/products/cars-disney-double-clutch-daley-e-jet-robinson): Crie seu próprio universo 'Carros' com este conjunto de miniaturas de Carros Disney - Double Clutch Daley e Jet Robinson. Para uma diversão sem fim!
-  Updated: 2025-09-03T09:28:17Z
+  Updated: 2025-09-21T17:08:59Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -19648,11 +19648,18 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-racing-488-challenge-amarelo-682630724-8719247525871-bburago-1178700120.jpg?v=1752951251
   Price: 28,90 € EUR
 - [Carro da Disney - Lightning McQueen Global Racers Cup](https://brincatoys.pt/products/cars-disney-lightning-mcqueen-global-racers-cup-copia): Descubra o carro da Disney - Lightning McQueen Global Racers Cup, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs.
-  Updated: 2025-09-16T10:27:35Z
+  Updated: 2025-09-21T17:00:43Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-lightning-mcqueen-global-racers-cup-772002724-0194735200276-cars-1178699732.jpg?v=1752945977
+  Price: 11,99 € EUR
+- [Cars Disney – Doc Hudson: Réplica Die-Cast Oficial](https://brincatoys.pt/products/cars-disney-doc-hudson): Traga a aventura da Disney para sua casa com o Cars Disney – Doc Hudson. Perfeito para colecionar e recriar cenas emocionantes!
+  Updated: 2025-09-21T18:50:09Z
+  Vendor: Cars
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-doc-hudson-replica-die-cast-oficial-557219225-0887961721928-cars-1193924068.jpg?v=1758484323
   Price: 11,99 € EUR
 - [Carro Fast & Furious - Brian's Porsche 996 GT3 RS](https://brincatoys.pt/products/carro-fast-furious-brians-porsche-996-gt3-rs): O Carro Fast & Furious – Brian’s Porsche 996 GT3 RS reproduz ao pormenor o icónico veículo de Brian O’Conner, numa escala aproximada de 1:24. Primeiramente, fabricado em die-cast metal reforçado, este modelo apresenta superfícies lacadas em azul vivo, decalques “GT3 RS” realistas e jantes de liga com design multiraio, proporcionando detalhes fiéis ao original. Além disso, inclui componentes em plástico de elevada resistência para zonas como o difusor traseiro, o spoiler aerodinâmico ajustado e a grelha dianteira. Por outro lado, para um realismo superior, o modelo disponibiliza portas laterais e capot dianteiro totalmente funcionais, revelando o interior com bancos tipo competição, volante desportivo e barra de segurança (“roll cage”) visível através dos vidros fumados. Do mesmo modo, as rodas giram livremente e a suspensão ligeiramente rebaixada reflete o carácter de corrida do GT3 RS. Ademais, as luzes traseiras e os faróis dianteiros ostentam acabamento transparente, recriando o aspeto original. Ademais, recomendado para crianças a partir dos 8 anos e colecionadores, este carro die-cast cumpre normas de segurança CE, graças a materiais atóxicos e montagem resistente. Por isso, pais e entusiastas podem confiar na durabilidade do modelo para jogos de ação ou exposição em estantes. Consequentemente, desenvolve a coordenação motora, incentiva a criatividade e permite recriar cenas memoráveis da saga Fast & Furious. Por fim, seja para iniciar ou enriquecer uma vitrina de modelos automóveis, o Brian’s Porsche 996 GT3 RS é uma peça vencedora que combina precisão, qualidade e diversão. Em suma... Modelo die-cast 1:24 em metal e plástico resistente Portas e capot dianteiro funcionais Interior detalhado com volante desportivo e “roll cage” Jantes multiraio e decalques “GT3 RS” originais Dimensão:Idade recomendada: + de 8 anos.
   Updated: 2025-09-06T21:45:05Z
@@ -20275,8 +20282,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:30:16Z
   Total Products: 47
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-21T14:57:30Z
-  Total Products: 196
+  Updated: 2025-09-21T20:00:48Z
+  Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-19T14:43:59Z
   Total Products: 155
@@ -20305,8 +20312,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:40:50Z
   Total Products: 333
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-21T14:57:30Z
-  Total Products: 1518
+  Updated: 2025-09-21T20:00:48Z
+  Total Products: 1523
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-21T14:45:25Z
   Total Products: 689
@@ -20323,29 +20330,29 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:20Z
   Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-21T11:41:21Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 1298
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-21T11:41:21Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 2384
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-21T11:41:21Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 2828
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3207
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3332
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3409
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3454
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-21T14:44:56Z
-  Total Products: 356
+  Updated: 2025-09-21T19:51:16Z
+  Total Products: 359
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
   Total Products: 52
@@ -20371,8 +20378,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-20T23:28:53Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-09-10T17:50:16Z
-  Total Products: 33
+  Updated: 2025-09-21T18:43:30Z
+  Total Products: 34
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-09-09T10:07:25Z
   Total Products: 2
@@ -20533,7 +20540,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3482
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-21T14:45:24Z
@@ -20545,8 +20552,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:19:01Z
   Total Products: 114
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-21T12:39:18Z
-  Total Products: 1156
+  Updated: 2025-09-21T18:43:30Z
+  Total Products: 1157
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-21T14:45:25Z
   Total Products: 457
@@ -20569,10 +20576,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T11:18:02Z
   Total Products: 65
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3484
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-21T14:45:25Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 3484
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-21T11:18:20Z
@@ -20584,7 +20591,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-21T14:44:54Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 2993
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
@@ -20593,7 +20600,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-17T21:52:37Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-21T14:44:54Z
+  Updated: 2025-09-21T18:43:30Z
   Total Products: 2993
 
 ## Blogs
