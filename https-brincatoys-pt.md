@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-21T12:01:04.114Z
+- Updated At: 2025-09-21T16:01:05.409Z
 
 ## Products
 
@@ -966,9 +966,9 @@ Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualid
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-unique-eyes-amy-642302822-8056379123026-brincatoys-1178692915.jpg?v=1752829932
   Price: 29,99 € EUR
 - [Princesa Disney Vaiana 38 cm: Boneca Realista do Filme Animado](https://brincatoys.pt/products/princesa-disney-vaiana-38-cm): Experimente a emoção do filme da Disney com a boneca Princesa Disney Vaiana 38 cm. Uma réplica detalhada para estimular a imaginação dos pequenos.
-  Updated: 2025-08-21T00:18:02Z
+  Updated: 2025-09-21T12:38:50Z
   Vendor: Princesas Disney
-  Product Type: + 3 anos
+  Product Type: Bonecas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-vaiana-38-cm-boneca-realista-do-filme-animado-771044822-0192995210448-princesas-disney-1178692919.jpg?v=1752830162
   Price: 39,99 € EUR
@@ -1718,7 +1718,7 @@ curta e roliça.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alice-no-pais-das-maravilhas-coelho-branco-brincatoys-621140222-brincatoys-1178693179.jpg?v=1752834366
   Price: 8,99 € EUR
 - [Peluche Coelho Bege 25 cm da Kaloo: Um Presente Especial](https://brincatoys.pt/products/peluche-coelho-bege-25-cm-da-kaloo): Leve para casa o Peluche Coelho Bege de 25 cm da Kaloo e proporcione um mundo cheio de ternura para os mais pequenos. Um coelhinho fofinho e macio.
-  Updated: 2025-09-16T10:31:11Z
+  Updated: 2025-09-21T13:55:21Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -5707,7 +5707,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mosaico-diams-bellissimanimo-711393822-brincatoys-1178694456.jpg?v=1752813249
   Price: 17,50 € EUR
 - [Mr. Potato Head](https://brincatoys.pt/products/mr-potato-head): Incentive a criatividade com a personagem Mr. Potato Head.  Troque e mude as partes do corpo e do rosto.  Dimensão: 22 x 17 x 10 cm Idade recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:13:24Z
+  Updated: 2025-09-21T12:23:04Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -5977,7 +5977,7 @@ por que são cães pastores tão populares.Figura em borracha termoplástica nã
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pato-colorido-de-empurrar-em-madeira-diversao-e-aprendizagem-26778524-3048700077851-brincatoys-1178694531.jpg?v=1752858132
   Price: 24,90 € EUR
 - [Brinquedos da Patrulha Pata Rubble - Diversão para Crianças](https://brincatoys.pt/products/patrulha-pata-rubble): Descubra os Brinquedos da Patrulha Pata Rubble eco-friendly e robusto para horas de jogo imaginativo e educação ambientaL do seu pequeno herói.
-  Updated: 2025-09-16T16:13:23Z
+  Updated: 2025-09-21T12:03:30Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -10792,7 +10792,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-creator-papagaio-exotico-31136-brincatoys-663113623-5702017415895-lego-1178696155.jpg?v=1752888008
   Price: 26,90 € EUR
 - [Lego Duplo 10931 - Camião e Escavadora de Lagartas](https://brincatoys.pt/products/lego-duplo-10931-camiao-e-escavadora-de-lagartas): Explore o mundo da construção com o Lego Duplo 10931 - Camião e Escavadora de Lagartas. Com movimentos realistas, a diversão está garantida.
-  Updated: 2025-09-16T21:09:05Z
+  Updated: 2025-09-21T13:04:06Z
   Vendor: LEGO
   Product Type: + 2 anos
   Availability: Available
@@ -11240,7 +11240,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/play-doh-festa-da-massa-brincatoys-90777623-play-doh-1178696386.jpg?v=1752891968
   Price: 28,50 € EUR
 - [My Little Pony – Sunny Starscout Penteados com Estilo](https://brincatoys.pt/products/my-little-pony-sunny-starscout-penteados-com-estilo): A pónei Sunnystarscout é uma alicórnio aventureira de Maretime Bay. Ela é curiosa, aventureira e determinada a tornar o mundo um lugar melhor. No filme My Little Pony: A New Generation e na série My Little Pony: Make Your Mark, ela torna-se um Alicórnio com penteados de arco-íris. Penteados com Estilo Sunny Starscout inclui 1 figura de pónei laranj
-  Updated: 2025-08-29T15:31:42Z
+  Updated: 2025-09-21T13:36:42Z
   Vendor: My Little Pony
   Product Type: + 5 anos
   Availability: Available
@@ -12675,7 +12675,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-petite-winter-40-cm-42049123-brincatoys-1178697014.jpg?v=1752802566
   Price: 44,99 € EUR
 - [Lego Duplo - O Camião da Reciclagem](https://brincatoys.pt/products/lego-duplo-o-camiao-da-reciclagem): Ajude o seu filho a limpar a cidade! À medida que os pais e as crianças em idade pré-escolar separam o lixo nos contentores corretos, o conceito da reciclagem é apresentado aos mais novos. Este brinquedo realista de camião do lixo permite que as mentes curiosas reproduzam o mundo que veem à sua volta enquanto aprendem sobre reciclagem, separando os
-  Updated: 2025-09-18T22:07:43Z
+  Updated: 2025-09-21T15:14:44Z
   Vendor: LEGO
   Product Type: + 2 anos
   Availability: Available
@@ -14706,7 +14706,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-classic-11036-veiculos-criativos-liberte-a-imaginacao-661103624-5702017583020-lego-1178698309.jpg?v=1752923653
   Price: 58,50 € EUR
 - [Lego Creator 31146 Camião Plataforma com Helicóptero](https://brincatoys.pt/products/lego-creator-31146-camiao-plataforma-com-helicoptero): Explore a criatividade com o Lego Creator 31146 camião plataforma com helicóptero ou carro de corrida e estimule o desenvolvimento cognitivo e a imaginação.
-  Updated: 2025-09-17T16:06:43Z
+  Updated: 2025-09-21T12:26:16Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -16764,7 +16764,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-starters-formas-criativas-kit-criativo-90853424-5010996136435-play-doh-1178700133.jpg?v=1752788414
   Price: 13,50 € EUR
 - [Brinquedo em Peluche da Bluey 20 cm](https://brincatoys.pt/products/peluche-bluey-20-cm): Encontre o brinquedo em peluche da Bluey de 20 cm e ofereça o abraço mais macio e divertido! Este peluche é perfeito para crianças criativas.
-  Updated: 2025-09-08T20:12:55Z
+  Updated: 2025-09-21T12:38:50Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -17380,7 +17380,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-ariel-mar-e-terra-boneca-disney-transformavel-772338024-0192995233805-princesas-disney-1178700600.jpg?v=1752958442
   Price: 29,99 € EUR
 - [Rebecca Rabbit Estilos Divertidos | Conjunto Peppa Pig](https://brincatoys.pt/products/rebecca-rabbit-estilos-divertidos): Descubra o conjunto Rebecca Rabbit Estilos Divertidos da Peppa Pig. Figura articulada e acessórios para estimular a criatividade das crianças.
-  Updated: 2025-09-16T10:30:15Z
+  Updated: 2025-09-21T14:09:35Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -18640,7 +18640,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-jinafire-long-estilo-e-exclusividade-775631025-0194735256310-monster-high-1178701521.jpg?v=1752972843
   Price: 39,99 € EUR
 - [Conjunto de beleza das Princesas Disney encantador](https://brincatoys.pt/products/conjunto-de-beleza-das-princesas-disney): Descubra o encantador Conjunto de Beleza das Princesas Disney, perfeito para pequenas fãs! Com acessórios divertidos, a diversão é garantida!
-  Updated: 2025-09-16T18:20:55Z
+  Updated: 2025-09-21T14:09:30Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18954,13 +18954,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-crystal-violet-willow-boneca-glamourosa-772140425-0035051121404-rainbow-high-1178701761.jpg?v=1752976690
   Price: 39,99 € EUR
-- [Rainbow High Sparkle & Shine Rosetta: Boneca Brilhante](https://brincatoys.pt/products/rainbow-high-sparkle-shine-rosetta): Conheça a adorável Rainbow High Sparkle & Shine Rosetta! Com pernas brilhantes e acessórios incríveis, ela é perfeita para sua coleção.
-  Updated: 2025-09-13T10:58:30Z
-  Vendor: Rainbow High
-  Product Type: + 4 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-sparkle-shine-rosetta-boneca-brilhante-772778025-0035051427780-rainbow-high-1178701765.jpg?v=1752976702
-  Price: 39,99 € EUR
 - [Rainbow High Sparkle & Shine Clementine: Estilo Único](https://brincatoys.pt/products/rainbow-high-sparkle-shine-clementine): A Rainbow High Sparkle & Shine Clementine é perfeita para quem ama estilo! Com cabelos vibrantes e acessórios incríveis, ela é uma boneca única!
   Updated: 2025-08-26T11:22:44Z
   Vendor: Rainbow High
@@ -19123,9 +19116,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-232566025-194735256600-monster-high-1178701898.jpg?v=1752979101
   Price: 39,99 € EUR
 - [Monster High Boo-riginal Toralei: Estilo e Atitude](https://brincatoys.pt/products/monster-high-boo-riginal-toralei): Explore aventuras com a boneca Monster High Boo-riginal Toralei! Com 27 cm e um estilo feroz, ela é perfeita para histórias emocionantes. 🐾
-  Updated: 2025-09-07T10:09:15Z
+  Updated: 2025-09-21T14:44:56Z
   Vendor: Monster High
-  Product Type: + 6 anos
+  Product Type: Bonecas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-toralei-estilo-e-atitude-232567125-194735256716-monster-high-1178701904.jpg?v=1752979218
   Price: 39,99 € EUR
@@ -19816,7 +19809,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-hot-wheels-veiculos-japoneses-para-colecionadores-852668725-0194735266876-hot-wheels-1178692422.jpg?v=1752822373
   Price: 31,50 € EUR
 - [Jogo de cartas UNO Show 'Em No Mercy - Diversão Estratégica](https://brincatoys.pt/products/jogo-de-cartas-uno-show-em-no-mercy): Explore o Jogo de cartas UNO Show 'Em No Mercy e viva momentos de pura adrenalina com familiares e amigos. Versão repleta de emoção e estratégia!
-  Updated: 2025-09-03T13:17:51Z
+  Updated: 2025-09-21T14:09:30Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -20252,7 +20245,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-06T11:20:01Z
   Total Products: 100
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-09-20T19:25:33Z
+  Updated: 2025-09-21T14:44:56Z
   Total Products: 242
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-09-18T22:19:37Z
@@ -20282,7 +20275,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:30:16Z
   Total Products: 47
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-21T08:23:08Z
+  Updated: 2025-09-21T14:57:30Z
   Total Products: 196
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-19T14:43:59Z
@@ -20312,11 +20305,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:40:50Z
   Total Products: 333
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-21T11:18:20Z
-  Total Products: 1519
+  Updated: 2025-09-21T14:57:30Z
+  Total Products: 1518
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-09-21T11:28:11Z
-  Total Products: 690
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 689
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-09-19T18:55:06Z
   Total Products: 319
@@ -20339,19 +20332,19 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:21Z
   Total Products: 2828
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3208
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3207
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3333
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3332
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3410
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3409
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3455
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3454
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-21T11:28:11Z
+  Updated: 2025-09-21T14:44:56Z
   Total Products: 356
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
@@ -20477,7 +20470,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-20T23:28:54Z
   Total Products: 5
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-09-07T10:59:02Z
+  Updated: 2025-09-21T14:44:54Z
   Total Products: 35
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-08-31T21:21:50Z
@@ -20507,10 +20500,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-26T09:43:20Z
   Total Products: 4
 - [Princesas Disney](https://brincatoys.pt/collections/princesas-disney)
-  Updated: 2025-09-20T19:25:33Z
+  Updated: 2025-09-21T12:38:49Z
   Total Products: 110
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
-  Updated: 2025-09-16T10:31:51Z
+  Updated: 2025-09-21T14:44:56Z
   Total Products: 22
 - [Roblox](https://brincatoys.pt/collections/roblox)
   Updated: 2025-09-14T16:34:17Z
@@ -20540,11 +20533,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3483
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3482
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-09-19T12:37:33Z
-  Total Products: 286
+  Updated: 2025-09-21T14:45:24Z
+  Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-09-20T11:18:02Z
   Total Products: 171
@@ -20552,17 +20545,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:19:01Z
   Total Products: 114
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-21T11:18:20Z
-  Total Products: 1157
+  Updated: 2025-09-21T12:39:18Z
+  Total Products: 1156
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-09-21T11:28:45Z
-  Total Products: 458
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 457
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-09-21T11:16:00Z
   Total Products: 134
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-09-19T12:37:33Z
-  Total Products: 182
+  Updated: 2025-09-21T14:45:24Z
+  Total Products: 181
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-09-16T10:27:41Z
   Total Products: 73
@@ -20576,11 +20569,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T11:18:02Z
   Total Products: 65
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3485
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3484
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-21T11:41:21Z
-  Total Products: 3485
+  Updated: 2025-09-21T14:45:25Z
+  Total Products: 3484
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-21T11:18:20Z
   Total Products: 24
@@ -20591,7 +20584,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-21T11:18:20Z
+  Updated: 2025-09-21T14:44:54Z
   Total Products: 2993
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
@@ -20600,7 +20593,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-17T21:52:37Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-21T11:18:20Z
+  Updated: 2025-09-21T14:44:54Z
   Total Products: 2993
 
 ## Blogs
