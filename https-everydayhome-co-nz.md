@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-21T00:00:35.065Z
+- Updated At: 2025-09-21T04:00:35.543Z
 
 ## Products
 
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $67.99 NZD
 - [Cubiko Adhesive Shower Bins - White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-09-17T01:52:20Z
+  Updated: 2025-09-21T02:52:08Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Corner-Shower-Bins-Black-3.jpg?v=1727660053
   Price: $67.99 NZD
 - [Cubiko Corner Shower Bins - White](https://everydayhome.co.nz/products/cubiko-corner-shower-bins-set-2-wht): Cubiko Corner Shower Bins Set 2, Wht
-  Updated: 2025-09-08T23:12:12Z
+  Updated: 2025-09-21T02:52:08Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1390,7 +1390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Touch-Bin-New-40L-Platinum-3.png?v=1727659165
   Price: $359.99 NZD
 - [Brabantia New Touch Bin - 40L Matt Black](https://everydayhome.co.nz/products/touch-bin-new-40l-matt-black): Add a touch of design to your home with the Brabantia Touch Bin 40 litre. A great, yet space efficient, organising help that looks the part too. Just touch the lid and it opens smoothly. It also has a timeless design, is easy to clean, and it protects your floor thanks to the protection rim. This touch bin is ready for years of intensive, problem free use!
-  Updated: 2025-09-08T23:10:33Z
+  Updated: 2025-09-21T02:52:08Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1460,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Pepper-Black-0.png?v=1727659263
   Price: $83.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Grey](https://everydayhome.co.nz/products/foldable-steaming-board-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-09-14T07:37:05Z
+  Updated: 2025-09-21T01:07:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
