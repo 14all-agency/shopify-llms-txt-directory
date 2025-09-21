@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-20T20:00:36.103Z
+- Updated At: 2025-09-21T00:00:35.065Z
 
 ## Products
 
@@ -305,7 +305,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Packet-Organiser-White-Natural-5.png?v=1727658813
   Price: $41.99 NZD
 - [Bellwood Bin Medium - White/Natural](https://everydayhome.co.nz/products/bellwood-bin-27-x-17-5cm-wht-ntrl): Bellwood Bin 27 X 17.5Cm, Wht/Ntrl
-  Updated: 2025-09-13T03:13:10Z
+  Updated: 2025-09-20T22:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2454,7 +2454,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Light-Walnut-UMBRA-7.jpg?v=1731902033
   Price: $118.99 NZD
 - [Montage Shelf - White](https://everydayhome.co.nz/products/montage-shelf-white): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-20T07:14:50Z
+  Updated: 2025-09-20T22:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2902,14 +2902,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $249.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-20T06:22:10Z
+  Updated: 2025-09-20T21:07:05Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $244.99 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-20T05:37:10Z
+  Updated: 2025-09-20T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3301,7 +3301,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReplacementLine_65mwith16connectors-8710755297243Brabantia_96dpi_1000x1000px_7_NR-3708.png?v=1734573677
   Price: $34.99 NZD
 - [Brabantia Coffee Pad Canister - Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/canister-18-coffee-teapads-matt-steel-fpp-w-red-lid): Keep your head clear and your coffee fresh with this Brabantia Coffee Pad Canister. It happily holds up to 18 coffee pads, and getting them out is easy because of the nifty lifting system on the inside. The lid and the hoist have the same colour - made for organising your morning brew.
-  Updated: 2025-09-08T23:09:25Z
+  Updated: 2025-09-20T23:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3315,7 +3315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkSideSinkOrganiser-DarkGrey-8710755117503Brabantia_96dpi_1000x1000px_7_NR-26000.png?v=1734486965
   Price: $29.99 NZD
 - [Brabantia Food Waste Caddy - 1.8L Jade Green](https://everydayhome.co.nz/products/food-waste-caddy-jade-green): Keep your countertop clean when cooking, with this cute Brabantia SinkSide Food Waste Caddy of 1.8L. It has a stay open lid - very easy for larger chores. Its large stainless steel handle makes it easy to carry your leftovers to your compost bin and to empty it. And when emptied, just put it in the dishwasher for cleaning. Surely no baddy, this caddy!
-  Updated: 2025-08-15T13:30:44Z
+  Updated: 2025-09-20T23:05:30Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4980,7 +4980,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-09-17T01:52:11Z
+  Updated: 2025-09-20T22:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
