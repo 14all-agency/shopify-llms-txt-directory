@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-21T08:01:04.005Z
+- Updated At: 2025-09-21T12:01:04.114Z
 
 ## Products
 
@@ -5073,13 +5073,6 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lobo-guara-430036723-brincatoys-1178694235.jpg?v=1752853205
   Price: 9,00 € EUR
-- [Locomotiva colorida](https://brincatoys.pt/products/locomotiva-colorida): Este motor colorido possui um motor potente que o ajuda a subir ladeiras e rampas. O botão liga / desliga na parte superior pode ser facilmente operado por pequenos dedos. Um ótimo complemento para o seu conjunto de trilhos Hape  Dimensão: 15 x 10 x 5 cm.Idade Recomendada: + de 18 meses.
-  Updated: 2025-08-21T00:14:03Z
-  Vendor: Brincatoys
-  Product Type: + 12 meses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/locomotiva-colorida-82382023-2600000-brincatoys-1178694237.jpg?v=1752853210
-  Price: 12,99 € EUR
 - [LOL Surprise OMG Swag](https://brincatoys.pt/products/lol-surprise-omg-swag): Fá-lo sem medo. Make it Fashion. Faça-a Feroz. Encontra o teu FIERCE com a LOL Surpresa OMG Fierce Fashion Dolls! As bonecas LOL Surprise OMG Fierce são de colecção, podem ser posadas na perfeição, destacam-se com um novo tamanho de 30 cm, novo rosto com características impressionantes, esculturas de corpo, e novas modas elegantes e de alta qualida
   Updated: 2025-09-01T21:41:43Z
   Vendor: LOL Surprise
@@ -9218,7 +9211,7 @@ em vez disso, é usado para alcançar frutas distantes.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/unicornio-rosa-430292921-brincatoys-1178695591.jpg?v=1752807844
   Price: 12,50 € EUR
 - [Uno Dos](https://brincatoys.pt/products/uno-dos): O UNO agora é DOS! Os criadores do UNO sempre acharam que dois é melhor do que um e por isso tornaram-no oficial! No mítico jogo de cartas UNO, tu (ou a tua equipa) têm como objetivo ser os primeiros a conquistar 500 pontos. Ganhas pontos ao ser o primeiro a descartar as cartas da mão e, para tornar as coisas mais difíceis para os teus oponentes, p
-  Updated: 2025-09-01T22:02:16Z
+  Updated: 2025-09-21T11:40:50Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -11520,7 +11513,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tractor-de-madeira-vermelho-brincatoys-721104023-brincatoys-1178696510.webp?v=1752894482
   Price: 17,99 € EUR
 - [Puzzle - Músicos de Bremen  60 pçs | Brincatoys](https://brincatoys.pt/products/puzzle-musicos-de-bremen-60-pcs): Fantástico puzzle de 60 peças resistentes para fazer um lindo quebra-cabeça e aprender tudo sobre os músicos de Bremen. Os puzzles ajudam a melhorar as habilidades cognitivas e de resolução deproblemas, bem como a coordenação motora e as habilidades de raciocínio espacial. Utiliza cartão FSC (indica que os materiais do produto são provenientes de f
-  Updated: 2025-09-19T11:07:24Z
+  Updated: 2025-09-21T11:09:07Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -13106,7 +13099,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-disney-mickey-e-amigos-3-x-48-diversao-garantida-552526623-brincatoys-1178697248.jpg?v=1752907323
   Price: 9,50 € EUR
 - [Carimbos - O meu pequeno oceano](https://brincatoys.pt/products/carimbos-o-meu-pequeno-oceano): Descobre os carimbos "O meu pequeno Oceano" e cria histórias e desenhos fantásticos. Este conjunto de 10 carimbos de espuma é fácil de utilizar e tem um tamanho adaptado às mãos das crianças mais pequenas. Com os carimbos "O meu pequeno Oceano" as crianças farão, de forma fácil, desenhos mais bonitos e histórias fantásticas. Inclui 10 carimbos e uma almofada de carimbo. Dimensão. 22 x 22 x 5 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:04:07Z
+  Updated: 2025-09-21T10:22:25Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -15014,18 +15007,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-skar-king-com-chicote-de-ossos-233930524-0043377352051-godzilla-vs-kong-1178698537.jpg?v=1752928443
   Price: 19,99 € EUR
 - [Godzilla x Kong - Godzilla Evoluído com raio de calor](https://brincatoys.pt/products/godzilla-x-kong-godzilla-evoluido): Retorne à Hollow Earth com Godzilla e Kong em uma aventura totalmente nova! Quando uma ameaça colossal é descoberta em nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência – e a nossa. O Godzilla x Kong - Godzilla Evolved, com aproximadamente 15 cm, traz o Rei dos Monstros para a sua coleção, com novos detalhes épicos que capturam a sua forma evoluída. Desperte o monstro interior com o novo Godzilla x Kong - Godzilla Evoluído com raio de calor, uma verdadeira maravilha colecionável que promete deslumbrar fãs e entusiastas. Primeiramente, este fascinante produto captura a essência épica da rivalidade lendária entre duas das maiores forças da natureza. A figura articulada apresenta detalhes intrincados que refletem a poderosa estatura de Godzilla, com texturas que simulam a pele escamosa do icónico Rei dos Monstros. Além disso, esta edição especial inclui uma característica absolutamente eletrizante: um raio de calor que pode ser acoplado à boca de Godzilla para recriar as suas famosas cenas de batalha. As crianças e coleccionadores poderão recriar os embates memoráveis de Godzilla x Kong"ou criar os próprios cenarios, dando asas à imaginação. Adicionalmente, a figura é feita com materiais de alta qualidade garantindo durabilidade e resistência, tornando-a perfeita tanto para brincadeiras ativas quanto para exposição em prateleiras. O produto é projetado para ser manuseado facilmente, com pontos de articulação que permitem posicionar Godzilla em várias poses ameaçadoras. Este aspecto é fundamental, pois contribui para uma experiência de jogo ou exibição mais dinâmica e versátil. Faça a sua compra e receba em casa este símbolo de força e poder que é o Godzilla Evoluído. Esta figura será um acréscimo valioso para qualquer coleção. Em suma... Figura colecionável de Godzilla com detalhes intrincados e textura realista. Inclui raio de calor removível para recriação de cenas icónicas. Materiais duráveis e pontos de articulação para variadas poses. Embalagem colecionável vibrante e atraente. Dimensão: 19 x 23 x 7,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-02T11:45:26Z
+  Updated: 2025-09-21T11:28:10Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-evoluido-com-raio-de-calor-233930324-0043377352020-godzilla-vs-kong-1178698541.jpg?v=1752928455
-  Price: 19,99 € EUR
-- [Godzilla x Kong - Godzilla com raio de calor](https://brincatoys.pt/products/godzilla-x-kong-godzilla-raio): Numa época em que monstros andam pela Terra, a luta da humanidade pelo seu futuro coloca Godzilla e Kong em rota de colisão. As duas forças da natureza mais poderosas do planeta colidem numa batalha espetacular que durará séculos, enquanto uma conspiração humana ameaça exterminar para sempre as criaturas, boas e más, da face da terra. Prepare-se para testemunhar o verdadeiro poder de um rei dos monstros com o novo Godzilla com raio de calor da coleção Godzilla x Kong! Este produto não é apenas um brinquedo, mas uma representação fiel da icônica batalha dos titãs apresentada nas telonas. Com detalhes meticulosos, a figura apresenta texturas realistas que imitam a carapaça escamosa de Godzilla, enquanto OS seus olhos penetrantes estão à espreita para localizar o adversário, Kong. Além do mais, este impressionante Godzilla vem equipado com um "raio de calor" especial - um adereço destacável que simula a sua devastadora arma de sopro atômico. Além disso, a figura possui vários pontos de articulação, permitindo recriar as poses mais dramáticas e as batalhas mais épicas. E claro, este produto é adequado para crianças a partir dos 4 anos, ideal para jovens fãs que anseiam levar para casa a grandiosidade do Monsterverse. Adicionalmente, esta figura vibrante e colorida exalta o confronto épico entre Godzilla e Kong e como brinquedo, esta figura torna-se também uma excelente adição a qualquer prateleira de exibição, capturando o espírito feroz e a intensidade da rivalidade lendária. Nesta era de maravilhas digitais, oferecemos uma ponte tangível para o universo MonsterVerse - uma forma de as crianças e colecionadores tocarem e sentirem a magia do cinema nas suas próprias mãos. Em suma... Figura detalhada de Godzilla x Kong com "raio de calor" destacável. Articulação avançada para poses dinâmicas e ação de brincadeira. Ideal para crianças a partir dos 4 anos e valorizado por colecionadores Dimensão: 19 x 23 x 7,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-09-02T20:27:10Z
-  Vendor: Godzilla vs Kong
-  Product Type: + 4 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-com-raio-de-calor-233930224-0043377352013-godzilla-vs-kong-1178698545.jpg?v=1752928687
   Price: 19,99 € EUR
 - [Puzzle Jurassic World de 200 pçs XXL](https://brincatoys.pt/products/puzzle-jurassic-world-200-pcs): Divirta-se a montar este emocionante quebra-cabeça de 200 peças, apresentando alguns dinossauros icônicos e explore um mundo de pré-históricos enigmas com o incrível Puzzle Jurassic World de 200 peças XXL! Mergulhe num ambiente onde a vida e os dinossauros se misturam! Imagine conduzir por uma estrada costeira e encontrar 8 dinossauros gigantescos! O que faria? Perfeito para crianças a partir dos 8 anos, este quebra-cabeça apresenta uma imagem vibrante e emocionante, repleta de dinossauros ferozes e cenas de ação tiradas diretamente do épico cinematográfico "Jurassic World". Começando com a imagem, os detalhados retratos de T-Rex, Velociraptors e outros gigantes jurássicos prometem horas de entretenimento e educação, à medida que os pequenos paleontólogos em formação mergulham na era dos dinossauros. Cada peça XXL foi cuidadosamente cortada para garantir uma montagem fácil e confortável, A qualidade dos materiais usados é digna de nota, com a Ravensburger orgulhando-se de utilizar cartão exclusivo com acabamento em linho para reduzir o reflexo da luz sobre o puzzle e proporcionar uma experiência mais agradável. Além disso, graças ao encaixe perfeito das peças, a imagem final é suave e sem problemas de interseção irregular das peças. Sendo um puzzle da gama Premium da Ravensburger, a durabilidade e o design deste produto são de alto padrão. O Puzzle Jurassic World de 200 pçs XXL constitui não apenas um passatempo divertido, mas também uma ferramenta educativa que pode ajudar no desenvolvimento de habilidades vitais, como a resolução de problemas, a coordenação motora e a paciência. Ao completar o puzzle, os jovens aventureiros terão uma imagem espetacular para decorar o quarto ou para desmontar e iniciar a aventura novamente! Em suma... Imagem vibrante de dinossauros de Jurassic World em 200 peças XXL. Qualidade Premium e encaixe perfeito para facilitar a montagem. Estimula habilidades como resolução de problemas e coordenação motora. Cartão com acabamento em linho para minimizar reflexos de luz. Ideal para crianças a partir dos 8 anos e fãs de puzzles e dinossauros. Dimensão: 33 x 23 x 3,50 cm. Idade recomendada: + de 8 anos.
   Updated: 2025-09-10T08:33:30Z
@@ -15924,7 +15910,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-de-pano-fada-arco-iris-companheira-magica-60750724-brincatoys-1178699359.jpg?v=1752939977
   Price: 24,90 € EUR
 - [Boneca de Pano Fada Angelina - A Amiga Mágica Ideal](https://brincatoys.pt/products/boneca-de-pano-fada-angelina): A Fada Angelina é uma boneca de pano feita à mão com asas cintilantes e vestido macio, perfeita para presentear e inspirar sonhos. Ideal para brincar.
-  Updated: 2025-08-21T00:00:58Z
+  Updated: 2025-09-21T10:11:29Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -17044,7 +17030,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-manji-colecionavel-de-metal-552002824-0194735200283-cars-1178700331.jpg?v=1752954134
   Price: 11,99 € EUR
 - [Carro da Disney – Manny Flywheel | Brinquedo Metálico](https://brincatoys.pt/products/cars-disney-manny-flywheel): Descubra o Carro da Disney – Manny Flywheel, o brinquedo metálico que traz diversão e aventura das corridas "Cars" para as mãos das crianças.
-  Updated: 2025-08-20T23:59:37Z
+  Updated: 2025-09-21T09:49:35Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -17583,7 +17569,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-equilibrio-da-baleia-feliz-educativo-e-divertido-26771624-3048700077165-brincatoys-1178700748.jpg?v=1752960605
   Price: 20,90 € EUR
 - [Monster Jam - Venom vs Spiderman: O Confronto Épico](https://brincatoys.pt/products/monster-jam-venom-vs-spiderman): Prepare-se para uma batalha épica! O conjunto Monster Jam - Venom vs Spiderman traz a força dos monster trucks e o fascínio da Marvel direto para sua casa.
-  Updated: 2025-09-16T10:27:50Z
+  Updated: 2025-09-21T09:36:56Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18724,7 +18710,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77249-carro-de-corrida-williams-racing-667724925-5702017816166-lego-1178701577.png?v=1752974285
   Price: 28,90 € EUR
 - [Lego Speed Champions 77250 Carro de Corrida MoneyGram](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-moneygram-haas-f1®-team-vf-24): Acelera a tua coleção com o Lego Speed Champions 77250 Carro de Corrida MoneyGram Haas F1! Cria momentos épicos com 242 peças. 🏎️
-  Updated: 2025-09-05T21:57:00Z
+  Updated: 2025-09-21T09:03:25Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
@@ -18857,7 +18843,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-sonic-77003-super-shadow-contra-biolizard-acao-667700325-5702017815596-lego-1178701681.jpg?v=1752781941
   Price: 49,99 € EUR
 - [Jurassic World Hammond Collection - Triceratops Realista](https://brincatoys.pt/products/jurassic-world-hammond-collection-triceratops): Descubra a beleza do Triceratops da Jurassic World Hammond Collection! Esta figura com detalhes incríveis é perfeita para fãs e colecionadores. 🌟
-  Updated: 2025-09-10T22:24:12Z
+  Updated: 2025-09-21T11:28:10Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -19214,7 +19200,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-mesa-monopoly-pokemon-aventura-e-diversao-779872025-5010996298720-monopoly-1178701938.jpg?v=1752979695
   Price: 32,90 € EUR
 - [Puzzle Spidey Amazing Friends 2 x 60 para Crianças](https://brincatoys.pt/products/puzzle-spidey-amazing-friends-2-x-60): Desperte o super-herói que existe em seu pequeno com o Puzzle Spidey Amazing Friends 2 x 60. Diversão e aprendizagem garantidas para crianças! 🦸‍♀️
-  Updated: 2025-08-20T23:57:27Z
+  Updated: 2025-09-21T09:03:26Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 4 anos
   Availability: Available
@@ -19361,7 +19347,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-raphael-acao-e-detalhes-233873925-043377832843-tartarugas-ninja-1178702022.jpg?v=1752780018
   Price: 19,99 € EUR
 - [Hot Wheels - LB-Works McLaren 720S: Modelo Premium](https://brincatoys.pt/products/hot-wheels-lb-works-mclaren-720s): Descubra o Hot Wheels - LB-Works McLaren 720S, um modelo 1:64 com acabamentos de alta qualidade e detalhes impressionantes. Adquira já esta peça!
-  Updated: 2025-09-18T20:51:12Z
+  Updated: 2025-09-21T11:40:51Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -19963,7 +19949,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-velociraptor-colecionavel-232849925-0194735284993-jurassic-world-1192251740.jpg?v=1757533808
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection Stygimoloch Premium Figure](https://brincatoys.pt/products/jurassic-world-hammond-collection-stygimoloch): Aumente a sua coleção com o Jurassic World Hammond Collection Stygimoloch. Um dinossauro com design autêntico e poses emocionantes espera por você!
-  Updated: 2025-09-16T10:27:15Z
+  Updated: 2025-09-21T11:28:11Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -20137,20 +20123,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-iconic-panther-diversao-sem-fim-232471725-0630996247174-brincatoys-1192409553.jpg?v=1757627518
   Price: 31,50 € EUR
-- [Mr. Beast Lab Metallic Panther: Diversão e Aventura](https://brincatoys.pt/products/mr-beast-lab-metallic-panther): Dê vida a aventuras épicas com o Mr. Beast Lab Metallic Panther! Este jogo oferece uma experiência única com uma pantera cibernética. Explore já! 🐆
-  Updated: 2025-09-18T17:46:47Z
-  Vendor: Brincatoys
-  Product Type: + 5 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-metallic-panther-diversao-e-aventura-232471825-0630996247181-brincatoys-1192409549.jpg?v=1757627408
-  Price: 31,50 € EUR
-- [Mr. Beast Lab Stealth Panther: Experiência Épica de Brincar](https://brincatoys.pt/products/mr-beast-lab-stealth-panther): Prepare-se para a ação com o Mr. Beast Lab Stealth Panther! Em poucos segundos, conjure uma pantera cibernética deslumbrante para suas aventuras. 🐆
-  Updated: 2025-09-18T17:46:46Z
-  Vendor: Brincatoys
-  Product Type: + 5 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-stealth-panther-experiencia-epica-de-brincar-232471925-0630996247198-brincatoys-1192417829.jpg?v=1757634608
-  Price: 31,50 € EUR
 - [Sonic The Hedgehog - Super Sonic: Figura Articulada 10 cm](https://brincatoys.pt/products/sonic-the-hedgehog-super-sonic): Acelere no mundo de Sonic com a figura Sonic The Hedgehog - Super Sonic! Com 13 pontos de articulação e a Esmeralda-Mestra, ele brilha!
   Updated: 2025-09-16T10:26:55Z
   Vendor: Sonic the Hedgehog
@@ -20196,13 +20168,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-07T15:43:22Z
   Total Products: 64
 - [Blocos de Construção](https://brincatoys.pt/collections/blocos-de-construcao)
-  Updated: 2025-09-10T17:50:16Z
+  Updated: 2025-09-21T11:18:20Z
   Total Products: 31
 - [Cozinha e faz-de-conta](https://brincatoys.pt/collections/cozinha-e-faz-de-conta)
   Updated: 2025-09-20T10:24:53Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-09-20T17:54:23Z
+  Updated: 2025-09-21T11:28:11Z
   Total Products: 569
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-09-17T16:19:30Z
@@ -20310,13 +20282,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:30:16Z
   Total Products: 47
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-16T10:29:23Z
+  Updated: 2025-09-21T08:23:08Z
   Total Products: 196
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-19T14:43:59Z
   Total Products: 155
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-09-19T11:19:01Z
+  Updated: 2025-09-21T11:40:50Z
   Total Products: 119
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-09-06T19:37:03Z
@@ -20337,13 +20309,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-07T10:46:35Z
   Total Products: 19
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-19T21:54:56Z
+  Updated: 2025-09-21T11:40:50Z
   Total Products: 333
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-20T19:26:02Z
+  Updated: 2025-09-21T11:18:20Z
   Total Products: 1519
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-09-20T17:54:53Z
+  Updated: 2025-09-21T11:28:11Z
   Total Products: 690
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-09-19T18:55:06Z
@@ -20355,31 +20327,31 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T20:26:31Z
   Total Products: 54
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
-  Updated: 2025-09-19T12:14:44Z
-  Total Products: 129
+  Updated: 2025-09-21T11:41:20Z
+  Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-20T14:57:28Z
-  Total Products: 1299
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 1298
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 2386
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 2384
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 2832
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 2828
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3212
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3208
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3337
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3333
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3414
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3410
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3459
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3455
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-20T17:54:23Z
+  Updated: 2025-09-21T11:28:11Z
   Total Products: 356
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
@@ -20568,8 +20540,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3487
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3483
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-19T12:37:33Z
   Total Products: 286
@@ -20580,14 +20552,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:19:01Z
   Total Products: 114
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-20T19:26:02Z
+  Updated: 2025-09-21T11:18:20Z
   Total Products: 1157
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-09-19T20:28:50Z
-  Total Products: 459
+  Updated: 2025-09-21T11:28:45Z
+  Total Products: 458
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
-  Updated: 2025-09-20T10:58:17Z
-  Total Products: 136
+  Updated: 2025-09-21T11:16:00Z
+  Total Products: 134
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
   Updated: 2025-09-19T12:37:33Z
   Total Products: 182
@@ -20604,23 +20576,23 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T11:18:02Z
   Total Products: 65
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3489
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3485
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 3489
+  Updated: 2025-09-21T11:41:21Z
+  Total Products: 3485
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
-  Updated: 2025-09-16T10:31:54Z
+  Updated: 2025-09-21T11:18:20Z
   Total Products: 24
 - [Godzilla vs Kong](https://brincatoys.pt/collections/godzilla-vs-kong)
-  Updated: 2025-09-02T20:37:33Z
-  Total Products: 7
+  Updated: 2025-09-21T11:28:46Z
+  Total Products: 6
 - [Stumble Guys](https://brincatoys.pt/collections/stumble-guys)
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 2994
+  Updated: 2025-09-21T11:18:20Z
+  Total Products: 2993
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20628,8 +20600,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-17T21:52:37Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-20T19:25:33Z
-  Total Products: 2994
+  Updated: 2025-09-21T11:18:20Z
+  Total Products: 2993
 
 ## Blogs
 
