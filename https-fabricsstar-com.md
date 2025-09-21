@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-21T12:00:32.426Z
+- Updated At: 2025-09-21T16:00:32.732Z
 
 ## Products
 
@@ -3031,7 +3031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DENVER-GOLD-NAVY-851.jpg?v=1757517611
     Price: $1.00 USD
 - [Cambridge Floral Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/cambridge-floral-jacquard-fabric): Add a touch of sophistication with Cambridge Floral Jacquard Fabric from Fabrics Star. With a 55-inch width, this fabric is perfect for upholstery, drapery, pillows etc.
-  Updated: 2025-09-16T00:42:53Z
+  Updated: 2025-09-21T15:20:24Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
