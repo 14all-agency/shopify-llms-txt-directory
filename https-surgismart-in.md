@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-20T12:00:31.066Z
+- Updated At: 2025-09-21T16:00:30.966Z
 
 ## Products
 
@@ -632,7 +632,7 @@
     Availability: Available
     Price: ₹365.00 INR
 - [Buy ​United Medicare Knee Immobilizer Long Type 19 (F-04) - Surgismart](https://surgismart.in/products/f-04): Key Features:UM knee immobilizer is designed with three layers to allow for quicker sweat dispersion, more elasticity, and better fit. Consists of a patella pad, an inflating process, a condyle airbag, and a polycentric joint on one side. Includes two straps to counteract the inflating bag and flexible stays. Knee immobilizer is made up of three layers: terry cloth, polyurethane foam, and elastic microfiber fabric. Polycentric joint on one side with a condyle airbag and inflation system Direction of use Prepare the knee brace and straps. Position the immobilizer behind the leg, centered behind the knee. Align the patellar cutout of the immobilizer over the patella. Place the stabilizing bars if they are removable or adjustable on the immobilizer. Use the fastening straps above and below the knee to secure the stabilizing bars Safety information Any open wounds must be properly covered by the knee immobilizer. Hand wash in warm, soapy water, then thoroughly rinse and air dry. A knee immobilizer is used to limit the movement of the knee joint. It is used in cases where there is a suspected or diagnosed injury to the knee, such as a sprain or strain.Usually, this brace is only used when walking. Unless your doctor or therapist instructs you otherwise, you can remove it while sitting or lying in bed.Knee immobilizers are used following surgery or in the case of a severe knee injury. They are prescribed by doctors or physical therapists to keep the knee stable and prevent further damage after injury or surgery.You could utilize a knee immobilizer for tibia plateau fractures, injury of the patellar tendon, dislocation of the patella, injury of the quadriceps tendon, knee fractures and ligament injuries and injuries which require immobilization.UM knee immobilizers available are in 5 sizes: S, L, M, XL, and XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:27Z
+  Updated: 2025-09-21T02:14:45Z
   Vendor: United Medicare
   Product Type: Knee Brace
   Availability: Available
@@ -799,7 +799,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_thumb_spica_g07_u_408654_0_0.jpg?v=1751478712
   Price: ₹215.00 INR
 - [Buy ​United Medicare Wrist and Forearm with Thumb Stabilizer (G-08) - Surgismart](https://surgismart.in/products/g-08): Key Features:Lightweight structure and comfortable fitting provide complete thumb splinting in the abduction position. Wrist and Forearm with Thumb Stabilizer has moldable, contoured splints along the full length of the thumb. An easy closure system with individual straps that can be fastened around the wrist with only one hand provides a secure and fully adjustable fit. Two flexible stays on the back to help its stabilization function, elastic Lycra for easy fitting and Velcro fasteners with buckles Direction of use Wear it by inserting your arm inside the wrist and forearm splint by aligning with the palmar crease. Fasten the straps Safety information Do not fasten the splint too tight. Use as per medical advice only A wrist and forearm with thumb stabilizer G-08 is a type designed to provide support and stabilization to the wrist, forearm, and thumb. It is commonly used to treat conditions such as wrist, thumb injuries.The stabilizer typically consists of a splint made from a rigid or semi-rigid material that wraps around the wrist, forearm, and thumb. It is designed to limit the movement of these areas, providing stability and preventing excessive bending or twisting. By immobilizing the affected area, it allows for proper healing and reduces strain on the injured structures.It helps immobilize the wrist, forearm, and thumb, which can promote healing and prevent further injury. Stabilizer can alleviate pain associated with wrist, forearm, and thumb conditions. The stabilizer improves stability and reduces the risk of re-injury.If you have had a fall or think you may have fractured your hand or wrist, it is OK to wear a brace overnight.You can use this Wrist Thumb Stabilizer if you have pain, a sprain, or even a fracture in your wrist.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:24Z
+  Updated: 2025-09-20T16:36:58Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
@@ -1859,7 +1859,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_701dedb0-08ff-4e76-b51e-8b7b4146e436.jpg?v=1751478382
   Price: ₹1,039.00 INR
 - [Buy ​Medvance Portable Folding Commode Chair, Powder Coated, 315 - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-chair-powder-coated-313-copy): Medvance Commode Chair - Reliable, Comfortable, and Safe Hygiene Solution Discover the perfect blend of comfort and durability with the Medvance CRC Pipe Commode Chair. Designed to meet the highest standards of quality and safety, this commode chair is an essential addition for those seeking dependable support in their daily care routine. Key Features: Spacious Seating Area: The commode chair features a generous 17-inch wide seating area, ensuring ample space for comfortable use. Durable CRC Pipe Construction: Made from 21 gauge CRC pipe with a 19 mm outer diameter, this commode chair offers robust strength and long-lasting durability. MS Screw and Clasp: Equipped with mild steel (MS) screws and clasps, this chair ensures secure assembly and reliable performance. Anti-Slip Rubber Bush: Safety is a top priority with the anti-slip rubber bushes, providing stability and preventing accidental slips or falls during use. Virgin Grade Plastic: The seat and lid are crafted from virgin grade plastic, which is not only durable but also easy to clean, ensuring optimal hygiene. Weight Capacity: Designed to support up to 100 kg, this commode chair accommodates a wide range of users, providing strong and stable support. Why Choose the Medvance CRC Pipe Commode Chair? The Medvance CRC Pipe Commode Chair is thoughtfully designed for individuals needing additional support during their hygiene routine. Its combination of a spacious seating area, high-quality materials, and safety features makes it a reliable choice for home care. Whether used temporarily or as a permanent fixture, this commode chair delivers comfort, stability, and peace of mind. Order Now for Enhanced Comfort and Safety! Invest in your comfort and safety with the premium Medvance CRC Pipe Commode Chair. Order today and experience a product that seamlessly combines quality, durability, and convenience, making your daily hygiene routine more comfortable and secure. - Surgismart
-  Updated: 2025-08-13T07:38:24Z
+  Updated: 2025-09-20T21:10:51Z
   Vendor: Medvance Surgicals
   Product Type: Commode Chair
   Availability: Available
@@ -3146,7 +3146,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51_1NRtVqoL._SL1080.jpg?v=1751477955
   Price: ₹185.00 INR
 - [Buy ​Amkay Nebulizer Portable Kit - Surgismart](https://surgismart.in/products/amkay-nebulizer-portable-kit): Product Features Portable and Lightweight Design: The Amkay Nebulizer Kit is designed for on-the-go convenience. Its compact size and lightweight construction make it easy to carry for travel, offering relief whenever and wherever needed. Quiet Operation: Enjoy a peaceful experience with this nebulizer's ultra-quiet operation, making it ideal for use in public places or at night without disturbing others. Efficient Medication Delivery: The nebulizer uses advanced technology to deliver medication effectively in fine mist form, ensuring fast and targeted relief for asthma, COPD, or other respiratory conditions. Multiple Accessories Included: The kit comes with a mask and mouthpiece for versatile use, making it suitable for adults and children. The included USB charger and portable travel case offer added convenience. Family Health Essential: Don't let congestion slow you down. Our nebulizer is an essential for every family, perfect for prompt use at the first sign of colds, allergies, or sinus problems. Enjoy a convenient and happy life with this reliable health companion. Product Information Brand ‎AMKAY Manufacturer ‎AMKAY PRODUCTS LIMITED Country of Origin ‎India Number of Memory Sticks ‎1 Item part number ‎AMKNEB-140 ASIN B0BZRTBX2H Customer Reviews Best Sellers Rank Date First Available 28 March 2023 Manufacturer AMKAY PRODUCTS LIMITED, AMKAY PRODUCTS LIMITED Packer AMKAY PRODUCTS LIMITED - Surgismart
-  Updated: 2025-08-13T07:36:52Z
+  Updated: 2025-09-20T22:50:59Z
   Vendor: Amkay
   Product Type: 
   Availability: Available
@@ -3248,7 +3248,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-14T12:23:59Z
+  Updated: 2025-09-21T10:39:09Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3256,63 +3256,63 @@
   - [Navy / S](https://surgismart.in/products/classic-scrub-suit?variant=50425589825816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1754053943
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Navy / M](https://surgismart.in/products/classic-scrub-suit?variant=50425589858584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_06579a4e-cd05-4a24-a757-748d5d0e18d2.jpg?v=1754053943
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Navy / L](https://surgismart.in/products/classic-scrub-suit?variant=50425589891352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_3eca6934-d333-4438-892f-1d51e626d595.jpg?v=1754053943
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Navy / XL](https://surgismart.in/products/classic-scrub-suit?variant=50425589924120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4.jpg?v=1754053943
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Navy / XXL](https://surgismart.in/products/classic-scrub-suit?variant=50425589956888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_2e9238a5-e38e-4959-9282-269cfb4c330e.jpg?v=1754053943
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Black / S](https://surgismart.in/products/classic-scrub-suit?variant=50570710384920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/11_62848245-3fb7-4852-8352-92887dc56bc8.png?v=1755347000
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Black / M](https://surgismart.in/products/classic-scrub-suit?variant=50570710417688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/12_3881e675-5dd9-467f-bdbf-045b3be6f30f.png?v=1755347000
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Black / L](https://surgismart.in/products/classic-scrub-suit?variant=50570710450456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/13_ca590421-1766-4f89-b8e2-bd2bf40f66fe.png?v=1755347001
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Black / XL](https://surgismart.in/products/classic-scrub-suit?variant=50570710483224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/14_8d1a7640-26c5-4378-a9e9-4c6e301a4444.png?v=1755347001
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Black / XXL](https://surgismart.in/products/classic-scrub-suit?variant=50570710515992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/15_1452869e-08c6-4378-a6c1-848ab2e9baee.png?v=1755347000
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Wine / S](https://surgismart.in/products/classic-scrub-suit?variant=50570710548760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_88f34cb3-a993-48e2-b65d-c921859d5f20.png?v=1755347000
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Wine / M](https://surgismart.in/products/classic-scrub-suit?variant=50570710581528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_6a708753-31c2-4597-8fbf-3c9e58548ba7.png?v=1755347000
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Wine / L](https://surgismart.in/products/classic-scrub-suit?variant=50570710614296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/8_8609ab1d-e7af-49e9-9cbc-d1c9eaa1f150.png?v=1755347000
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Wine / XL](https://surgismart.in/products/classic-scrub-suit?variant=50570710647064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
   - [Wine / XXL](https://surgismart.in/products/classic-scrub-suit?variant=50570710679832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
-    Price: ₹649.00 INR
+    Price: ₹799.00 INR
 - [Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
   Updated: 2025-09-17T11:15:49Z
   Vendor: Surgismart
@@ -3341,7 +3341,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-18T11:16:05Z
+  Updated: 2025-09-21T09:56:28Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-18T14:01:32Z
