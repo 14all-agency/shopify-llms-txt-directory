@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-21T12:00:39.122Z
+- Updated At: 2025-09-21T16:00:38.643Z
 
 ## Products
 
@@ -3581,7 +3581,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/kitchen-paper-towels-white-272mm-x-226mm-2-ply-60-sheets-fsc-mix-12-rolls-perforated-kitchen-paper-towels-essential-supplies-782278.jpg?v=1719445320
   Price: $41.00 NZD
 - [Kitchen Paper Towels - White, 272mm x 226mm, 2 Ply, 120 Sheets, FSC Mix® - 12 Rolls - *Perforated](https://essentialsupplies.co.nz/products/kitchen-paper-towels-white-272mm-x-226mm-2-ply-120-sheets-fsc-mix®-12-perforated): Kitchen paper towels feature strong quad weave technology. Perforated on a roll for convenience and ideal for mopping up spills, cleaning or general kitchen use quickly and easily. These towels are certified which ensures you are making a sustainable paper choice. Available in a 2 ply, 60 sheet twin pack with a 228mm x 270mm sheet size.
-  Updated: 2025-02-07T04:11:36Z
+  Updated: 2025-09-21T13:51:16Z
   Vendor: Mattews Packaging
   Product Type: Kitchen Paper Towels
   Availability: Available
