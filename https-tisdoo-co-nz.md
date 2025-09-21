@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-03-22T07:13:30Z
 - Contact Email: info@tisdoo.co.nz
-- Updated At: 2025-09-20T12:00:27.704Z
+- Updated At: 2025-09-21T04:00:27.367Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0737/0876/5479/files/BonduroxC.jpg?v=1687742699
   Price: $22.00 NZD
 - [Galvanised Wedge Anchor M12 x 140mm Through Bolt](https://tisdoo.co.nz/products/galvanised-wedge-anchor-m12-x-140mm-through-bolt): This Galvanised Wedge Anchor M12 x 140mm Through Bolt is ideal for securely fastening to outdoor surfaces. The galvanised finish ensures extra durability and corrosion resistance. With its solid, reliable design, this anchor provides outstanding performance in a variety of applications. Suitable for concrete surfaces. 3 bolts per wheel stop required.
-  Updated: 2025-01-20T21:28:06Z
+  Updated: 2025-09-21T00:15:04Z
   Vendor: Tisdoo
   Product Type: Fastening
   Availability: Available
