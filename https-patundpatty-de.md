@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-21T16:00:29.412Z
+- Updated At: 2025-09-21T20:00:30.703Z
 
 ## Products
 
@@ -364,7 +364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Puenktchen_naturweiss__PAT_und_PATTY.jpg?v=1756382464
   Price: 102,90 € EUR
 - [Bio Steckenpferd Don Camillo – weich, fair & kreativ | PAT&PATTY](https://patundpatty.de/products/bio-steckenpferd-don-camillo): Bio Steckenpferd Don Camillo aus Plüsch – nachhaltig, handgefertigt & ideal für fantasievolles Spiel. Jetzt bei PAT&PATTY entdecken & bestellen!
-  Updated: 2025-09-21T11:02:26Z
+  Updated: 2025-09-21T19:53:30Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -837,13 +837,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Faultier-W_rmflasche-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1753258549
-  Price: 39,95 € EUR
-- [Bio Wärmflasche Fuchs Orange aus Naturgummi – langlebig | PAT&PATTY](https://patundpatty.de/products/bio-waermflasche-fuchs): Bio Wärmflasche Fuchs aus orangefarbenem Naturgummi – langlebig, sicher & umweltfreundlich. Perfekt für kuschelige Momente. Jetzt bei PAT&PATTY entdecken!
-  Updated: 2025-09-09T18:32:26Z
-  Vendor: PAT & PATTY
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmflasche-Fuchs-Bio-PAT-Und-PATTY.jpg?v=1753258089
   Price: 39,95 € EUR
 - [Bio Wärmflasche Wildschwein Braun – Naturgummi & Plüsch | PAT&PATTY](https://patundpatty.de/products/oeko-bio-waermflasche-wildschwein): Bio Wärmflasche Wildschwein aus Bio-Plüsch & Naturkautschuk – handgemacht, schadstofffrei & waschbar. Jetzt bei PAT&PATTY entdecken & bestellen!
   Updated: 2025-08-22T15:45:44Z
