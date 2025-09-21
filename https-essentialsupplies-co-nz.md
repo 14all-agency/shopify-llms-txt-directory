@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-21T16:00:38.643Z
+- Updated At: 2025-09-21T20:00:39.247Z
 
 ## Products
 
@@ -4811,7 +4811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/metal-wringer-bucket-red-16l-capacity-buckets-essential-supplies-622660.jpg?v=1719445345
   Price: $63.00 NZD
 - [Metal Wringer Bucket - Yellow, 16L Capacity](https://essentialsupplies.co.nz/products/metal-wringer-bucket-yellow-16l-capacity-2): Metal wringer buckets with a double sided non slip foot pedal and durable anti-corrosive mechanism. Soft under pedal pads provide good grip and stability. With a sturdy construction and precautionary signage feature. Available in a range of colours with a large 16L bucket capacity.
-  Updated: 2025-02-08T23:12:05Z
+  Updated: 2025-09-21T18:20:43Z
   Vendor: Mattews Packaging
   Product Type: Buckets
   Availability: Available
