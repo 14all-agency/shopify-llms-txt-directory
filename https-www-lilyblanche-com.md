@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-21T04:00:42.819Z
+- Updated At: 2025-09-21T08:00:43.270Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9662,7 +9662,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Rope Chain | Silver | Lily Blanche](https://www.lilyblanche.com/products/rope-chain-silver): This  extra strong, sterling silver diamond cut rope chain will add interest and texture to any pendant or locket. Free jewellery care kit worth £20 with all orders.
-  Updated: 2025-08-28T21:26:51Z
+  Updated: 2025-09-21T04:30:06Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -23105,7 +23105,7 @@ GBP 340
     Price: £270.00 GBP
 - [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
 From £150
-  Updated: 2025-09-17T11:17:32Z
+  Updated: 2025-09-21T07:07:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
