@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-20T20:00:40.437Z
+- Updated At: 2025-09-21T00:00:38.958Z
 
 ## Products
 
@@ -578,7 +578,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/tpe-embossed-gloves-powder-free-blue-s-240mm-cuff-20g-2000-gloves-plastic-gloves-essential-supplies-680172.jpg?v=1719445923
   Price: $74.00 NZD
 - [Polypropylene Coated Isolation Gown - Yellow, 1200mm x 1400mm, 40gsm - 40 Pieces - *Liquid Proof](https://essentialsupplies.co.nz/products/polypropylene-coated-isolation-gown-yellow-1200mm-x-1400mm-40gsm-40-liquid-proof): Coated disposable isolation gowns provide effective fluid resistance from blood and body fluids whilst being breathable and comfortable.The disposable isolation gowns are designed for use with moderate to heavy fluids. Made from 20gm Polypropylene (PP) and 15g polyethylene (PE) the gowns are impervious on the front and sleeves. They have a velcro closure at the neck, full back with ties at each side and knitted cuffs. 40gsm Effective fluid resistance from blood and body fluids whilst being breathable and comfortable Designed for use with moderate to heavy fluids Size: 1200mm x 1400mm Content: 40 pieces Colour: Yellow
-  Updated: 2025-01-19T13:01:04Z
+  Updated: 2025-09-20T23:25:52Z
   Vendor: Mattews Packaging
   Product Type: Isolation Gowns
   Availability: Available
@@ -5294,7 +5294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fragranced-fabric-softner-pink-5l-refill-bottle-laundry-care-essential-supplies-755936.jpg?v=1719445190
   Price: $45.00 NZD
 - [Laundry Powder - White, Oxygenated, 4.0kg Refill Bottle](https://essentialsupplies.co.nz/products/laundry-powder-white-oxygenated-4-0kg-refill-bottle-2-this-is-now-5kg-on-website): Laundry powder with a powerful low sud concentrate for a superior clean. For use in hot and cold water with optical brighteners to give clean and bright wash results. Suitable for use in top and front loaders with a fresh long lasting lemon fragrance.
-  Updated: 2025-01-08T22:33:10Z
+  Updated: 2025-09-20T20:40:48Z
   Vendor: Mattews Packaging
   Product Type: Laundry Care
   Availability: Available
@@ -6155,7 +6155,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-blue-m-13-gauge-120-gloves-rating-en388-3x4xf-cut-resistant-food-gloves-essential-supplies-945141.jpg?v=1719445685
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - Blue, L, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-blue-l-13-gauge-12-rating-en388-3x4xf): Blue cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-01-21T03:29:38Z
+  Updated: 2025-09-20T23:57:18Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
