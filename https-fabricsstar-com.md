@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-21T00:00:31.951Z
+- Updated At: 2025-09-21T08:00:33.539Z
 
 ## Products
 
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-09-19T16:30:47Z
+  Updated: 2025-09-21T01:42:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -8415,7 +8415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/19TH-CENTURY-WHITE.jpg?v=1757518695
     Price: $1.00 USD
 - [CARLISLE Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/carlisle)
-  Updated: 2025-09-16T00:43:17Z
+  Updated: 2025-09-21T00:10:51Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -9672,6 +9672,9 @@
     Author: User
   - [Fabric Care Demystified Keep Your Textiles Looking New](https://fabricsstar.com/blogs/news/fabric-care-demystified-keep-your-textiles-looking-new): Fabric Care Demystified Keep Your Textiles Looking New
     Updated: 2025-09-17T02:11:31Z
+    Author: User
+  - [Understanding Textile Weaves What You Need to Know](https://fabricsstar.com/blogs/news/understanding-textile-weaves-what-you-need-to-know): Understanding Textile Weaves What You Need to Know
+    Updated: 2025-09-21T00:10:23Z
     Author: User
 
 ## Store Pages
