@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-21T00:00:38.958Z
+- Updated At: 2025-09-21T08:00:38.685Z
 
 ## Products
 
@@ -5749,7 +5749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-diamond-grip-gloves-powder-free-black-l-240mm-cuff-90g-1000-gloves-nitrile-examination-gloves-essential-supplies-992840.jpg?v=1719445405
   Price: $161.00 NZD
 - [Nitrile Diamond Grip Gloves Powder Free - Black, XL, 240mm Cuff, 9.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-diamond-grip-gloves-powder-free-black-xl-240mm-cuff-9-0g-1000)
-  Updated: 2025-02-07T23:37:54Z
+  Updated: 2025-09-21T05:41:41Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
