@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-09-21T16:01:12.220Z
+- Updated At: 2025-09-21T20:01:11.402Z
 
 ## Products
 
@@ -7045,7 +7045,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/fc11f5aaf0793ad9feb804730abdb4c0d7ad7c7f_750_750.jpg?v=1756642559
   Price: 1123,99 € EUR
 - [Apple Airpods 4 Bluetooth Blanco (White)](https://hifimediastore.com/products/apple-airpods-4-bluetooth-blanco-white): AirPods 4:  Chip H2 Aislamiento de voz Hasta 5 horas de reproducción con una sola carga Hasta 30 horas de reproducción de audio con estuche de carga Carga fácil con USB-C Bluetooth 5.3 Calificación IP54
-  Updated: 2025-09-19T20:55:10Z
+  Updated: 2025-09-21T19:50:11Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -7948,7 +7948,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22103.jpg?v=1743718525
   Price: 73,38 € EUR
 - [Seguro de envío](https://hifimediastore.com/products/shipguard-shipping-protection-1)
-  Updated: 2025-09-21T09:35:38Z
+  Updated: 2025-09-21T16:10:26Z
   Vendor: Hifi Media Store
   Product Type: Wenexus-Warranty
   Availability: Available
@@ -8159,12 +8159,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23364.jpg?v=1748974520
   Price: 399,95 € EUR
 - [Realme 14X 5G 8GB/256GB Negro (Carbon Black) Dual SIM](https://hifimediastore.com/products/realme-14x-5g-8gb-256gb-negro-carbon-black-dual-sim): Realme 14x 5G:  Pantalla IPS LCD de 120 Hz Procesador 5G Dimensity 6300 Cámara de 50MP con IA NEXT AI Batería de 5000 mAh Realme UI 6.0
-  Updated: 2025-09-19T22:05:10Z
+  Updated: 2025-09-21T16:48:11Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23372.jpg?v=1748994318
-  Price: 194,80 € EUR
+  Price: 193,37 € EUR
 - [TCL 40R 5G 4GB/64GB Negro (Starlight Black) Dual SIM](https://hifimediastore.com/products/tcl-40r-5g-4gb-64gb-negro-starlight-black-dual-sim): TCL 40R 5G:  Pantalla NXTVISION de 6,6" y 90Hz Triple cámara de 50 MP con IA Mediatek Dimensity 700 (7nm) Batería de 5000 mAh, carga rápida de 15W TCL Link Conexión 5G
   Updated: 2025-09-09T21:21:13Z
   Vendor: TCL
@@ -8389,10 +8389,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 5381
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 5381
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-09-20T11:13:34Z
@@ -8446,7 +8446,7 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 1365
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8455,7 +8455,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 3488
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-09-17T15:44:16Z
@@ -8497,7 +8497,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 12
 - [Motorola](https://hifimediastore.com/collections/motorola)
-  Updated: 2025-09-20T19:35:55Z
+  Updated: 2025-09-21T16:46:05Z
   Total Products: 288
 - [Nokia](https://hifimediastore.com/collections/nokia)
   Updated: 2025-08-14T00:30:42Z
@@ -8515,7 +8515,7 @@
   Updated: 2025-09-21T04:16:52Z
   Total Products: 935
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-09-21T07:46:30Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 920
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-06-22T07:51:31Z
@@ -8536,7 +8536,7 @@
   Updated: 2025-06-22T07:51:31Z
   Total Products: 3
 - [Realme](https://hifimediastore.com/collections/realme)
-  Updated: 2025-09-21T03:48:54Z
+  Updated: 2025-09-21T16:48:13Z
   Total Products: 215
 - [Wiko](https://hifimediastore.com/collections/wiko)
   Updated: 2025-06-22T07:51:31Z
@@ -8770,7 +8770,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 5380
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-08-31T11:51:35Z
@@ -8785,7 +8785,7 @@
   Updated: 2025-08-28T13:56:16Z
   Total Products: 1
 - [Motorola](https://hifimediastore.com/collections/motorola-1)
-  Updated: 2025-09-20T19:35:55Z
+  Updated: 2025-09-21T16:46:05Z
   Total Products: 301
 - [Auriculares Motorola](https://hifimediastore.com/collections/auriculares-motorola)
   Updated: 2025-09-20T00:35:18Z
@@ -8827,7 +8827,7 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 1368
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
@@ -8947,7 +8947,7 @@
   Updated: 2025-08-31T09:26:14Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-09-21T03:42:07Z
+  Updated: 2025-09-21T16:45:14Z
   Total Products: 516
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-09-19T22:50:50Z
@@ -8965,7 +8965,7 @@
   Updated: 2025-09-21T03:42:07Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 5011
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-09-19T05:29:09Z
@@ -8977,7 +8977,7 @@
   Updated: 2025-08-27T20:42:12Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-09-21T07:46:30Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 1080
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-08-28T11:14:38Z
@@ -9004,10 +9004,10 @@
   Updated: 2025-09-20T00:35:31Z
   Total Products: 12
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:48:13Z
   Total Products: 4032
 - [Realme](https://hifimediastore.com/collections/realme-1)
-  Updated: 2025-09-21T03:48:54Z
+  Updated: 2025-09-21T16:48:13Z
   Total Products: 222
 - [Auriculares Realme](https://hifimediastore.com/collections/auriculares-realme)
   Updated: 2025-06-22T07:51:41Z
@@ -9061,7 +9061,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 5380
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-06-22T07:51:42Z
@@ -9076,7 +9076,7 @@
   Updated: 2025-08-25T16:36:25Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-21T15:24:08Z
+  Updated: 2025-09-21T16:53:24Z
   Total Products: 5380
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-09-19T19:03:18Z
