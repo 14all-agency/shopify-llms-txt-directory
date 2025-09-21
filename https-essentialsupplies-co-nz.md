@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-21T08:00:38.685Z
+- Updated At: 2025-09-21T12:00:39.122Z
 
 ## Products
 
@@ -5091,7 +5091,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/regular-scouring-pads-green-150mm-x-200mm-x-8mm-80-pads-heavy-duty-scourers-essential-supplies-540191.jpg?v=1719445683
   Price: $46.00 NZD
 - [Regular Scouring Pads - Black, 150mm x 200mm x 8mm - 80 Pads - *Extra Heavy Duty](https://essentialsupplies.co.nz/products/regular-scouring-pads-black-150mm-x-200mm-x-8mm-80-extra-heavy-duty): Scouring pads are hard wearing and effective for scrubbing all surfaces. Made from 50% Terylene and 50% Nylon with a superior coating to reduce grit fall-out. Tested to perform against a wide range of oil and chemical spills. Available in green, red, blue, black or white.
-  Updated: 2025-01-08T18:23:00Z
+  Updated: 2025-09-21T08:21:13Z
   Vendor: Mattews Packaging
   Product Type: Scourers
   Availability: Available
