@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-20T20:00:47.467Z
+- Updated At: 2025-09-21T00:00:43.011Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9815,7 +9815,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [White Gold Vermeil Twist Chain High Quality Necklace](https://www.lilyblanche.com/products/twist-chain-white-gold): Need a quality statement necklace? This fancy, white gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand-alone piece, the Twist Chain will add a decorative effect to any locket or pendant. Trusted UK jewellery brand with over 1500 five-star reviews on Trustpilot. Free UK shipping.
-  Updated: 2025-08-31T18:42:10Z
+  Updated: 2025-09-20T23:50:40Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9905,7 +9905,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Belcher Chain  White Gold Premium Quality](https://www.lilyblanche.com/products/belcher-chain-white-gold): This premium quality white gold vermeil belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look.
-  Updated: 2025-09-13T10:03:55Z
+  Updated: 2025-09-20T23:49:55Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -15737,7 +15737,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-09-13T14:55:30Z
+  Updated: 2025-09-20T21:41:25Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16934,7 +16934,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-19T15:58:56Z
+  Updated: 2025-09-20T23:05:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16970,7 +16970,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-19T02:45:46Z
+  Updated: 2025-09-20T21:04:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21684,7 +21684,7 @@ From £119
     Availability: Available
     Price: £690.00 GBP
 - [Men's Diamond Cross Necklace | Timeless & Handcrafted UK](https://www.lilyblanche.com/products/mens-diamond-gold-cross-necklace): Elevate his style with a handcrafted solid 9ct gold & diamond cross necklace from Lily Blanche. 52 real diamonds. Heirloom quality, UK hallmark & gift-box. 4.9★ rated. Free UK shipping!
-  Updated: 2025-09-06T21:15:50Z
+  Updated: 2025-09-20T21:51:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22924,7 +22924,7 @@ GBP 340
     Availability: Available
     Price: £250.00 GBP
 - [Heavy Silver Cross Necklace | High Quality](https://www.lilyblanche.com/products/heavy-silver-cross-necklace): Elevate your style with this bold, heavyweight sterling silver cross necklace—a timeless yet on-trend accessory. Includes a free £20 Jewellery Care Kit!
-  Updated: 2025-09-18T13:43:31Z
+  Updated: 2025-09-20T20:53:07Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
