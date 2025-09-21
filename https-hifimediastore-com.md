@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-09-21T12:01:09.848Z
+- Updated At: 2025-09-21T16:01:12.220Z
 
 ## Products
 
@@ -4286,13 +4286,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Lite_Green_Dual_SIM_2203129G_-_Hifi_Media_Store-999906.jpg?v=1719091392
   Price: 209,19 € EUR
-- [Apple iPhone 12 128GB Negro](https://hifimediastore.com/products/apple-iphone-12-128gb-negro): Apple iPhone 12 128GB Negro:- Pantalla Super Retina XDR OLED- Apple A14 Bionic- Cámara Dual de 12 MP- Velocidad 5G- Fabricado en Ceramic Shield* Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-09-18T01:00:27Z
-  Vendor: Apple
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_12_128GB_Negro_-_Hifi_Media_Store-965489.jpg?v=1718997629
-  Price: 588,33 € EUR
 - [Apple iPhone 14 Pro 128GB Morado Oscuro (Deep Purple)](https://hifimediastore.com/products/apple-iphone-14-pro-128gb-morado-oscuro-deep-purple): Apple iPhone 14 Pro Pantalla Super Retina XDR Pantalla OLED de 61 pulgadas Dynamic Island Pantalla siempre activa Cubierta oleofuga antihuellas Chip A16 Bionic Sistema de camaras Pro Principal de 48 Mpx Deteccion de accidentes Este iPhone no incluye c
   Updated: 2025-09-19T16:38:19Z
   Vendor: Apple
@@ -4378,7 +4371,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Neon_Laser_Black_Dual_SIM_2201116PG_-_Hifi_Media_Store-1001403.jpg?v=1719099790
   Price: 248,20 € EUR
 - [Xiaomi Redmi Note 10 Pro 6GB/128GB Bronze (Gradient Bronze) Dual SIM M2101K6G](https://hifimediastore.com/products/xiaomi-redmi-note-10-pro-6gb-128gb-bronze-gradient-bronze-dual-sim-m2101k6g): Xiaomi Redmi Note 10 Pro Bronce (Gradient Bronze) Dual SIM:  - 6GB RAM y 128GB almacenamiento - Pantalla AMOLED 6,67", FHD+, 120Hz, HDR10 - Qualcomm Snapdragon 732G (8 nm) - Quad Camera 108 MP - Batería 5020 mAh, con carga rápida 33 W
-  Updated: 2025-09-15T17:55:36Z
+  Updated: 2025-09-21T14:45:26Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4392,7 +4385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Bronce_Gradient_Bronze_Dual_SIM_-_Hifi_Media_Store-1002871.jpg?v=1719109467
   Price: 210,63 € EUR
 - [Xiaomi Redmi Note 10 Pro 8GB/128GB Azul (Glacier Blue) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-10-pro-8gb-128gb-azul-glacier-blue-dual-sim): Xiaomi Redmi Note 10 Pro Azul (Glacier Blue) Dual SIM:- 8GB RAM y 128GB almacenamiento- Pantalla AMOLED 6,67", FHD+, 120Hz, HDR10- Qualcomm Snapdragon 732G (8 nm)- Quad Camera 108 MP- Batería 5020 mAh, con carga rápida 33 W
-  Updated: 2025-09-16T22:30:13Z
+  Updated: 2025-09-21T14:45:30Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4566,13 +4559,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967228.jpg?v=1719001550
   Price: 883,86 € EUR
-- [Apple iPhone 15 Pro 128GB Azul (Blue Titanium)](https://hifimediastore.com/products/apple-iphone-15-pro-128gb-azul-blue-titanium): IPhone 15 Pro:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico Hasta 23H de reproducción de vídeo Pantalla Super Retina XDR de 6,1" USB-C 3.0
-  Updated: 2025-09-20T04:10:11Z
-  Vendor: Apple
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_15_Pro_128GB_Azul_Blue_Titanium_-_Hifi_Media_Store-967364.jpg?v=1719001854
-  Price: 1276,91 € EUR
 - [Apple iPhone 15 Pro Max 256GB Azul (Blue Titanium)](https://hifimediastore.com/products/apple-iphone-15-pro-max-256gb-azul-blue-titanium): IPhone 15 Pro Max:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico  Hasta 29H de reproducción de vídeo Pantalla Super Retina XDR de 6,7" USB-C 3.0
   Updated: 2025-09-21T00:20:10Z
   Vendor: Apple
@@ -4679,12 +4665,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Plata_Moonlight_Silver_Dual_SIM_22021211RG_-_Hifi_Media_Store-1000836.jpg?v=1719096526
   Price: 265,32 € EUR
 - [Google Pixel 8 5G 8GB/128GB Rosa (Rose) Dual SIM GA04856](https://hifimediastore.com/products/google-pixel-8-5g-8gb-128gb-rosa-rose-dual-sim-ga04856): Google Pixel 8 Pantalla Actua 62 1080 x 2400 120Hz y HDR10 Panel frontal de vidrio Corning Gorilla Glass Victus Bateria 4575 mAh con carga rapida 30W y carga inalambrica Procesador Google Tensor G3 Coprocesador de seguridad Titan M2 Camara Pri
-  Updated: 2025-09-18T18:15:18Z
+  Updated: 2025-09-21T15:24:06Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Rosa_Rose_Dual_SIM_GA04856_-_Hifi_Media_Store-974271.jpg?v=1719016383
-  Price: 511,49 € EUR
+  Price: 508,54 € EUR
 - [Google Pixel 8 Pro 5G 12GB/128GB Negro (Obsidian Black) Dual SIM GA04798](https://hifimediastore.com/products/google-pixel-8-pro-5g-12gb-128gb-negro-obsidian-black-dual-sim-ga04798): Google Pixel 8 Pro Pantalla Super Actua OLED de 67 hdr10 Y 120Hz Procesador Google Tensor G3 Sistema de 3 camaras traseras renovadas 50MP 48MP 48MP Bateria de 5050 mAh y carga rapida de 30W Marco de aluminio pulido y panel trasero de vidrio m
   Updated: 2025-09-18T20:20:17Z
   Vendor: Google
@@ -4825,13 +4811,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Amarillo_Amber_Yellow_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995656.jpg?v=1719066952
   Price: 603,11 € EUR
-- [Samsung Galaxy A05s 4GB/128GB Plata (Silver) Dual SIM SM-A057G](https://hifimediastore.com/products/samsung-galaxy-a05s-4gb-128gb-plata-silver-dual-sim-sm-a057g): Samsung Galaxy A05s:  Pantalla LCD 6,7" FDH+ con 90 Hz Triple cámara de 50 MP Chip Qualcomm Snapdragon 680 4G Batería de 5000 mAh y Carga rápida de 25W Android 13  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-09-20T00:06:20Z
-  Vendor: Samsung
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Plata_Silver_Dual_SIM_SM-A057G_-_Hifi_Media_Store-992566.jpg?v=1719051937
-  Price: 166,02 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Gris (Marble Gray) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-gris-marble-gray-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
   Updated: 2025-09-10T06:24:35Z
   Vendor: Samsung
@@ -4931,7 +4910,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Black_Beauty_Dual_SIM_XT2307-1_-_Hifi_Media_Store-986401.jpg?v=1719035246
   Price: 252,36 € EUR
 - [Samsung Galaxy A55 5G 8GB/128GB Negro (Awesome Navy) Dual SIM SM-A556](https://hifimediastore.com/products/samsung-galaxy-a55-5g-8gb-128gb-negro-awesome-navy-dual-sim-sm-a556): Samsung Galaxy A55 5G Pantalla FHD Super AMOLED de 66 Triple camara de 50MP y camara selfie de 32MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Dolby Atmos Certificacion IP67 Samsung Knox Vault No incluye cargad
-  Updated: 2025-09-21T07:45:20Z
+  Updated: 2025-09-21T14:25:30Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -5652,7 +5631,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auricular-diadema-philips-tah8506wt_00-_305887_7.jpg?v=1756401613
   Price: 112,99 € EUR
 - [Honor 200 5G 12GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/honor-200-5g-12gb-512gb-negro-black-dual-sim): HONOR 200:  Pantalla AMOLED de 6,7" Triple cámara de 50MP Chip Snapdragon 7 Gen 3 Batería de 5200 mAh HONOR SuperCharge de 100W Android 14, MagicOS 8
-  Updated: 2025-09-21T11:50:16Z
+  Updated: 2025-09-21T13:03:06Z
   Vendor: Honor
   Product Type: Smartphone
   Availability: Available
@@ -6457,7 +6436,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14106.jpg?v=1723762525
   Price: 720,54 € EUR
 - [Samsung Galaxy Tab A9 8,7" 4GB/64GB WiFi Azul (Navy) X110](https://hifimediastore.com/products/samsung-galaxy-tab-a9-87-4gb-64gb-wifi-azul-navy-x110): Samsung Galaxy Tab A9 Pantalla TFT LCD 87 Camara Principal 8MP y Camara delantera 2MP Android 13 One UI 51 Octacore Mediatek Helio G99 Amplicion de memoria hasta 1 TB Bateria 5100 mAh con carga rapida 15W Wi Fi Bluetooth 53 GPS USB Tipo C 20
-  Updated: 2025-09-20T05:01:29Z
+  Updated: 2025-09-21T14:30:16Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -6653,7 +6632,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/11508.jpg?v=1723769191
   Price: 200,19 € EUR
 - [Xiaomi Redmi Pad SE 11" 4GB/128GB Wi-Fi Verde (Mint Green) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-4gb-128gb-wi-fi-verde-mint-green-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-09-10T04:00:36Z
+  Updated: 2025-09-21T14:50:26Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
@@ -6681,7 +6660,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12363.jpg?v=1724674337
   Price: 509,23 € EUR
 - [Xiaomi Redmi Pad SE 11" 4GB/128GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-4gb-128gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-09-21T01:30:25Z
+  Updated: 2025-09-21T14:50:26Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
@@ -6785,20 +6764,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15716.jpg?v=1725047717
   Price: 202,88 € EUR
-- [Huawei FreeClip Auriculares Inalámbricos Negro (Black)](https://hifimediastore.com/products/huawei-freeclip-auriculares-inalambricos-negro-black): Huawei FreeClip Elegante diseno ergonomico Sistema de cancelacion de ruido inteligente Hasta 36 horas de duracion de la bateria con el estuche de carga Escucha Subversiva Open ear Proteccion IP54 contra el Polvo y Salpicaduras Llamadas nitidas mediante
-  Updated: 2025-09-17T08:50:16Z
-  Vendor: Huawei
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17138.jpg?v=1725048624
-  Price: 181,87 € EUR
-- [Huawei FreeClip Auriculares Inalámbricos Púrpura (Purple)](https://hifimediastore.com/products/huawei-freeclip-auriculares-inalambricos-purpura-purple): Huawei FreeClip Elegante diseno ergonomico Sistema de cancelacion de ruido inteligente Hasta 36 horas de duracion de la bateria con el estuche de carga Escucha Subversiva Open ear Proteccion IP54 contra el Polvo y Salpicaduras Llamadas nitidas mediante
-  Updated: 2025-09-19T15:17:41Z
-  Vendor: Huawei
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17143.jpg?v=1725048635
-  Price: 181,87 € EUR
 - [Huawei FreeClip Auriculares Inalámbricos Beige (Beige)](https://hifimediastore.com/products/huawei-freeclip-auriculares-inalambricos-beige-beige): Huawei FreeClip Elegante diseno ergonomico Sistema de cancelacion de ruido inteligente Hasta 36 horas de duracion de la bateria con el estuche de carga Escucha Subversiva Open ear Proteccion IP54 contra el Polvo y Salpicaduras Llamadas nitidas mediante
   Updated: 2025-09-17T23:44:06Z
   Vendor: Huawei
@@ -7073,7 +7038,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19189.jpg?v=1729897539
   Price: 617,88 € EUR
 - [Tv PHILIPS The Xtra  55" 55PML9008/12 Ambilight, MiniLED, Smart TV, 4K Ultra HD, TvOS](https://hifimediastore.com/products/tv-philips-the-xtra-55-55pml9008-12-ambilight-miniled-smart-tv-4k-ultra-hd-tvos): Con el Televisor 55PML9008/12 disfrutarás de imágenes muy nítidas gracias a su pantalla de 139,7 cm (55") y resolución 3840 x 2160 Pixeles. Además, con su conectividad WiFi y su característica de Smart TV no pongas límite a la programación de los canales convencionales, y combínala con el fácil acceso de tus aplicaciones, como Netflix, HBO o de juegos online y a tus consolas. ¡Diversión sin fronteras! Especificaciones: Tipo de dispositivo TV Mini LED 55 "" Tipo de pantalla Mini LED Tamaño pantalla (cm/pulg) 139 cm / 55 " Medidas sin peana 123.1 cm / 72.1 cm / 82 mm Calidad de imagen UHD 4K 3D No Tecnología 3D No Ultra HD Premium No Tipo de HDR Dolby Vision, HDR10, HDR10+, Hybrid Log-Gamma (HLG) Smart TV Sí Sistema Operativo SAPHI Procesador Philips P5 Inteligencia Artificial No Equipo de imagen Resolución 3840 x 2160 píxeles Frecuencia 120 Hz Frecuencia de fotogramas (velocidad de fotogramas nativa) 60 Hz Sistema de optimización de imagen 98% DCI(BT2020 73%) Formato de la pantalla 16:09 Retroiluminación LED Sí Tecnología LED Mini LED HDR Dolby Vision|HDR10+|HLG|HDR10 Brillo 1000 cd/m² USB grabador Sí Recepción Tipos de recepción DVB-T, DVB-T2 (H.264), DVB-T2 (H.265), DVB-C, DVB-C2, DVB-S, DVB-S2 Listo para WLAN Sí Sintonizador de Satelite integrado Si Certificado DLNA Sí Equipo Diseño Pantalla Plano HDMI-CEC Sí Ambilight Sí Versión Ambilight 3 Caras Lector de DVD No EPG Sí Servicios de streaming Amazon Prime Video, DAZN, Netflix, Youtube Picture in Picture (PiP) No Busqueda automática de canales Sí Calibración automática Calman Ready Bloqueo infantil Sí Modo hotel No Caract. especiales Sensor de luz Respetuoso del medio ambiente Sí Certificado CI+ Sí Control por voz Sí Compatible con la aplicación Sí Chromecast incorporado No Sonido Potencia musical 40 W Efectos de sonido Dolby Digital MS12 v2.6.1 Sistema de sonido 2 canales Subwoofer No Conexiones + puertos Conexiones Bluetooth|Ethernet|HDMI|RJ-45|USB|USB 2.0|WiFi Conectores HDMI 4 Puertos USB 3 Versión USB USB 2.0 Apto para internet Sí Plataforma compatible Amazon Alexa, Google Assistant Funciones de internet Smart TV, HbbTV Bluetooth Sí Wi-Fi Sí Características generales Ámbito de SmartHome Smart TV Sistema o compatible con el sistema H.264, MPEG1, VP9, MPEG2, H.265, MPEG4, HEVC, AVI, MKV Color (por fabricante) Negro Normativa VESA 300 x 300 mm Ancho sin peana 123.1 cm Altura sin peana 72.1 cm Profundidad sin peana 82 mm Medidas con peana 123.1 cm / 73.9 cm / 25.4 cm Ancho con peana 123.1 cm Alto con peana 73.9 cm Profundidad con peana 25.4 cm Peso sin soporte 14.3 kg Peso con soporte 14.6 kg Contenido TV Mini LED 55 " Serie 55PML9008/12 Datos de consumo de energía (EU 2017/1369) Identificador del modelo 55PML9008/12 Clase de eficiencia energética (EU 2017/1369) F Escala de eficiencia energética de la UE (UE 2017/1369) A-G Consumo de energía en modo ON (SDR) 77 W Consumo normal (SDR) en kWh/1000 horas 77 kWh Clase de eficiencia energética (HDR) G Consumo de energía en modo ON (HDR) 158 W Consumo HDR en kWh/1000 horas 158 kWh Consumo de energía en modo Stand-by 0.3 W Tipo de pantalla electrónica Televisor Relación de tamaño 16:9 Resolución de pantalla (píxeles) 3.840 x 2.160 Tamaño pantalla (cm) 139 cm Tamaño pantalla (pulgadas) 55 " Área de pantalla visible 82.3 dm² Tecnología de panel utilizada LED Control automático de brillo disponible No Sensor de reconocimiento de voz disponible No Sensor de presencia en la habitación disponible No Frecuencia de actualización de la imagen 120 Hz Tipo de fuente de alimentación Interno Fuente de alimentación estandarizada externa incluida (nombre estándar) CA 220-240 V (50/60 Hz)
-  Updated: 2025-08-31T15:54:58Z
+  Updated: 2025-09-21T14:15:15Z
   Vendor: PHILIPS
   Product Type: Televisores
   Availability: Available
@@ -8320,7 +8285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23621.jpg?v=1750291828
   Price: 795,20 € EUR
 - [ZTE Nubia Neo 3 GT 5G 12GB/256GB Negro (Interstellar Gray) Dual SIM](https://hifimediastore.com/products/zte-nubia-neo-3-gt-5g-12gb-256gb-negro-interstellar-gray-dual-sim): ZTE Nubia Neo 3 GT 5G:  Pantalla OLED FHD+ de 120Hz Procesador Unisoc Tiger T9100 Batería de 6000 mAh Carga rápida de 80W Cámara IA de 50 MP Conexión 5G Android 15
-  Updated: 2025-09-19T22:50:10Z
+  Updated: 2025-09-21T15:00:16Z
   Vendor: ZTE
   Product Type: Smartphone
   Availability: Available
@@ -8424,10 +8389,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-09-21T09:35:40Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 5381
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-09-21T09:35:40Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 5381
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-09-20T11:13:34Z
@@ -8481,8 +8446,8 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-09-21T09:35:40Z
-  Total Products: 1369
+  Updated: 2025-09-21T15:24:08Z
+  Total Products: 1365
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8490,7 +8455,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-09-21T07:46:30Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 3488
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-09-17T15:44:16Z
@@ -8511,7 +8476,7 @@
   Updated: 2025-09-19T10:21:03Z
   Total Products: 7
 - [Google](https://hifimediastore.com/collections/google)
-  Updated: 2025-09-19T22:21:18Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 118
 - [Honor](https://hifimediastore.com/collections/honor)
   Updated: 2025-09-20T19:12:08Z
@@ -8805,7 +8770,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-09-21T09:35:40Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 5380
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-08-31T11:51:35Z
@@ -8862,8 +8827,8 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-21T09:35:40Z
-  Total Products: 1372
+  Updated: 2025-09-21T15:24:08Z
+  Total Products: 1368
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
   Total Products: 24
@@ -8925,8 +8890,8 @@
   Updated: 2025-06-22T07:51:39Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-09-21T08:20:42Z
-  Total Products: 364
+  Updated: 2025-09-21T14:46:01Z
+  Total Products: 366
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-06-22T07:51:39Z
   Total Products: 1
@@ -9000,7 +8965,7 @@
   Updated: 2025-09-21T03:42:07Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-09-21T07:46:30Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 5011
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-09-19T05:29:09Z
@@ -9030,7 +8995,7 @@
   Updated: 2025-06-22T07:51:40Z
   Total Products: 2
 - [Google](https://hifimediastore.com/collections/google-1)
-  Updated: 2025-09-19T22:21:18Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 132
 - [Auriculares Google](https://hifimediastore.com/collections/auriculares-google)
   Updated: 2025-09-19T15:01:40Z
@@ -9039,7 +9004,7 @@
   Updated: 2025-09-20T00:35:31Z
   Total Products: 12
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-09-21T03:48:54Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 4032
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-09-21T03:48:54Z
@@ -9096,7 +9061,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-09-21T09:35:40Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 5380
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-06-22T07:51:42Z
@@ -9111,7 +9076,7 @@
   Updated: 2025-08-25T16:36:25Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-21T09:35:40Z
+  Updated: 2025-09-21T15:24:08Z
   Total Products: 5380
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-09-19T19:03:18Z
