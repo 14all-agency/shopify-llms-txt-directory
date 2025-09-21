@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-21T15:40:57.828Z
+- Updated At: 2025-09-21T16:00:29.412Z
 
 ## Products
 
@@ -2705,6 +2705,9 @@ Geschenkgutschein von PAT&PATTY
     Updated: 2025-09-21T07:07:55Z
     Author: Sharon
     Tags: vorteile von bio-spielzeug
+  - [Die besten Spielzeuge für kreative Kinder](https://patundpatty.de/blogs/news/die-besten-spielzeuge-fur-kreative-kinder): Die besten Spielzeuge für kreative Kinder
+    Updated: 2025-09-21T15:58:05Z
+    Author: Sharon Engel
 
 ## Store Pages
 
