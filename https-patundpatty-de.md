@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-22T12:00:31.348Z
+- Updated At: 2025-09-22T16:00:31.260Z
 
 ## Products
 
@@ -1987,7 +1987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich & atmungsaktiv | PAT & PATTY](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Natürliche Bio Hirsespelz Kissenfüllung – atmungsaktiv, nachhaltig & schadstofffrei. Für gesunden Schlaf. Jetzt bei PAT & PATTY entdecken und bestellen!
-  Updated: 2025-09-22T02:18:35Z
+  Updated: 2025-09-22T15:17:00Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
