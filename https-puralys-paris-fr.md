@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-22T12:46:37Z
 - Contact Email: contact@puralys-paris.fr
-- Updated At: 2025-09-22T00:00:30.238Z
+- Updated At: 2025-09-22T16:00:28.502Z
 
 ## Products
 
@@ -184,6 +184,8 @@
   Updated: 2025-08-19T18:46:53Z
 - [Manage Subscription](https://puralys-paris.fr/pages/joy-subscription)
   Updated: 2025-08-22T19:37:39Z
+- [Notre mission - Des cosmétiques véritablement concentrés, sans faille.](https://puralys-paris.fr/pages/notre-mission): Chez PURALYS Paris, nous refusons les compromis. Là où plus de 90 % des marques diluent leurs formules à l'eau, nous avons choisi une autre voie : ...
+  Updated: 2025-09-22T00:58:32Z
 
 ## Policies
 
