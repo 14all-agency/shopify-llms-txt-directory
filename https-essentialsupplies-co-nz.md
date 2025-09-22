@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-22T08:00:40.629Z
+- Updated At: 2025-09-22T12:00:40.231Z
 
 ## Products
 
@@ -1187,7 +1187,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/freezer-grade-acrylic-packaging-tape-clear-48mm-x-100m-x-60mu-36-rolls-suitable-to-150c-specialty-packaging-tape-essential-supplies-638745.jpg?v=1719445181
   Price: $122.00 NZD
 - [Wire Buckles Light Duty - Silver, 12mm, 2.5 Gauge - 2000 Pieces](https://essentialsupplies.co.nz/products/wire-buckles-light-duty-silver-12mm-2-5-gauge-2000): Galvanised wire buckles are designed for heavier applications where extra strength is required. Designed for hand tensioning of polypropylene strapping in light duty (for blue strapping). For light to medium weight packages Designed for hand tensioning polypropylene strapping Colour: Silver Size: 12mm Gauge: 2.5Pack of 2000 pieces
-  Updated: 2025-01-22T14:04:10Z
+  Updated: 2025-09-22T08:59:52Z
   Vendor: Mattews Packaging
   Product Type: Strapping Buckles
   Availability: Available
@@ -4755,7 +4755,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/wide-mop-bucket-red-13l-capacity-buckets-essential-supplies-527223.jpg?v=1719445929
   Price: $17.00 NZD
 - [Wide Mop Bucket - Blue, 13L Capacity](https://essentialsupplies.co.nz/products/wide-mop-bucket-blue-13l-capacity-6): Wide mop buckets feature an extra wide mouth to take all style squeeze mops. The smart design with integrated handle and durable moulding with an internal measure ensures an easy cleaning experience.
-  Updated: 2025-01-18T04:05:31Z
+  Updated: 2025-09-22T09:05:27Z
   Vendor: Mattews Packaging
   Product Type: Buckets
   Availability: Available
