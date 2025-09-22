@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-21T16:00:32.732Z
+- Updated At: 2025-09-22T04:00:31.786Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-09-18T13:53:10Z
+  Updated: 2025-09-21T20:26:59Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-09-19T16:44:06Z
+  Updated: 2025-09-21T20:26:57Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-09-16T00:42:43Z
+  Updated: 2025-09-22T00:23:46Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LOBBY.jpg?v=1757517229
     Price: $1.00 USD
 - [Brocade Damask Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-damask-velvet-fabric): Transform your upholstery projects with Brocade Damask Velvet Fabric from Fabrics Star. This embossed material adds elegance and sophistication to coaches, chairs, and more.
-  Updated: 2025-09-18T15:10:56Z
+  Updated: 2025-09-21T20:55:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-18T14:59:40Z
+  Updated: 2025-09-22T03:12:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2189,7 +2189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRISTOL-BLUSH.jpg?v=1757517453
     Price: $1.00 USD
 - [Rowley Sequin Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/rowley-sequin-embroidered-mesh-fabric): Rowley Sequin Embroidered Mesh Fabric is 100% polyester & lightweight, it features a slight stretch on the grain. Add a touch of glitz to your wardrobe!
-  Updated: 2025-09-19T14:45:58Z
+  Updated: 2025-09-22T00:51:07Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -9675,6 +9675,9 @@
     Author: User
   - [Understanding Textile Weaves What You Need to Know](https://fabricsstar.com/blogs/news/understanding-textile-weaves-what-you-need-to-know): Understanding Textile Weaves What You Need to Know
     Updated: 2025-09-21T00:10:23Z
+    Author: User
+  - [A Step-by-Step Guide to Selecting Upholstery Fabrics](https://fabricsstar.com/blogs/news/a-step-by-step-guide-to-selecting-upholstery-fabrics): A Step-by-Step Guide to Selecting Upholstery Fabrics
+    Updated: 2025-09-22T03:39:15Z
     Author: User
 
 ## Store Pages
