@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-22T12:00:48.903Z
+- Updated At: 2025-09-22T16:00:49.578Z
 
 ## Products
 
@@ -15607,56 +15607,56 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $5.99 NZD
 - [TRYBIKE - Vintage Cream](https://www.littlebambinos.co.nz/products/trybike-vintage-cream): The Vintage Cream matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T01:51:44Z
+  Updated: 2025-09-22T12:22:10Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cream-Vintage-TRYBIKE-Balance-Bike-Toddler-Child-Little-Bambinos_4.webp?v=1758500581
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Green](https://www.littlebambinos.co.nz/products/trybike-vintage-green): The Vintage Green matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T01:51:46Z
+  Updated: 2025-09-22T12:26:33Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREEN-VINTAGE-TRYBIKE-Little-Bambinos-1.webp?v=1758502464
   Price: $299.95 NZD
 - [TRYBIKE - Steel Pink](https://www.littlebambinos.co.nz/products/trybike-steel-pink): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T01:51:46Z
+  Updated: 2025-09-22T13:32:58Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink-Steel-TRYBIKE-Little-Bambinos-1.webp?v=1758504772
   Price: $299.95 NZD
 - [TRYBIKE - Steel Blue](https://www.littlebambinos.co.nz/products/trybike-steel-blue): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T01:51:47Z
+  Updated: 2025-09-22T13:37:32Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Blue-Steel-TRYBIKE-Little-Bambinos-1.webp?v=1758505048
   Price: $299.95 NZD
 - [TRYBIKE - Steel Grey](https://www.littlebambinos.co.nz/products/trybike-steel-grey): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T02:12:05Z
+  Updated: 2025-09-22T13:40:34Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREY-STEEL-TRYBIKE-Little-Bambinos-1.webp?v=1758505228
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Red](https://www.littlebambinos.co.nz/products/trybike-vintage-red): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T02:15:53Z
+  Updated: 2025-09-22T13:43:11Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Red-Vintage-TRYBIKE-Little-Bambinos-1.webp?v=1758505388
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Black](https://www.littlebambinos.co.nz/products/trybike-vintage-black): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T13:46:45Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BLACK_VINTAGE_TRYBIKE_Little-Bambinos.webp?v=1758505598
   Price: $299.95 NZD
 - [TRYBIKE - Basket](https://www.littlebambinos.co.nz/products/trybike-basket): Children will love bringing their favorite items along on every ride with this basket. From toys and snacks to drinks, it offers plenty of room for little explorers' essentials. Made to fit the Trybike Steel and adaptable to other bikes with leather straps, it’s crafted from sturdy plastic woven wicker that endures rain, snow, and sun. This reliable basket is ready to accompany your child on many seasons of adventure and imaginative play.
-  Updated: 2025-09-22T02:21:26Z
+  Updated: 2025-09-22T13:47:50Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
@@ -15762,7 +15762,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-22T11:43:12Z
+  Updated: 2025-09-22T15:43:16Z
   Total Products: 396
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16614,7 +16614,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-22T11:43:12Z
+  Updated: 2025-09-22T15:43:16Z
   Total Products: 1259
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-22T11:01:44Z
