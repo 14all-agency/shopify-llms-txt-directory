@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-22T08:01:06.451Z
+- Updated At: 2025-09-22T12:01:04.616Z
 
 ## Products
 
@@ -12738,7 +12738,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-camioes-de-construcao-e-grua-com-bola-destruidor-666039123-5702017416465-lego-1178697049.jpg?v=1752903962
   Price: 54,50 € EUR
 - [Lego Ninjago - Cão Caça-Dragões Imperium](https://brincatoys.pt/products/lego-ninjago-cao-caca-dragoes-imperium): Viaje para o Império para uma ousada missão com Jay e Lloyd enquanto enfrentam o General da Garra do Império, que está a montar uma temível Besta Photac. A sua tarefa é impedi-los de capturar dragões e de colher os seus poderes para o mal! A besta está pronta para atacar com garras e espigões afiados. Lute com as catanas dos ninjas. O futuro do nov
-  Updated: 2025-09-01T19:34:05Z
+  Updated: 2025-09-22T11:13:26Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -14272,7 +14272,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21252-o-deposito-de-armas-mundo-de-minecraft-662125224-5702017583280-lego-1178698008.jpg?v=1752796943
   Price: 22,90 € EUR
 - [Lego Minecraft 21254 A Casa de Tartaruga - Brincatoys](https://brincatoys.pt/products/lego-minecraft-21254-a-casa-de-praia-tartaruga): Explore o Bioma do Oceano com o Lego Minecraft 21254 A Casa de Praia Tartaruga. Construa a Casa e embarque em emocionantes aventuras submarinas!
-  Updated: 2025-09-16T10:28:01Z
+  Updated: 2025-09-22T11:13:26Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -15132,8 +15132,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-atego-1530f-magirus-683201825-8719247696335-bburago-1178698681.jpg?v=1752930497
   Price: 21,50 € EUR
-- [Carros Disney Kay Pillar](https://brincatoys.pt/products/cars-disney): Acelere as aventuras do seu pequeno com o fantástico Cars Disney - Kay Pillar-Durev, uma adição indispensável à coleção de qualquer fã da série de filmes "Cars" da Disney-Pixar. Este Veículo é feito com uma atenção meticulosa aos detalhes, apresentando um acabamento metálico que reflete a paixão e a velocidade das pistas de corrida dos filmes. Inicialmente, o sorriso cativante de Kay Pillar-Durev é o que salta à vista, convidando tanto crianças quanto colecionadores a recriar as suas cenas favoritas ou a imaginar novas aventuras. Além disso, as rodas bem trabalhadas e os grafismos ondulados realçam a sua aerodinâmica e apelo estético, fazendo deste brinquedo uma verdadeira obra de arte em miniatura. A durabilidade é outra característica surpreendente, graças à sua construção em metal resistente, garantindo horas de brincadeira sem sinais de desgaste. Também vale destacar que o Cars Disney - Kay Pillar-Durev é uma edição especial, tornando-o ainda mais cobiçado por entusiastas e colecionadores de todas as idades. Ao passo que oferece diversão sem fim, este modelo também apoia o desenvolvimento de habilidades motoras finas, bem como a capacidade de planejamento e organização ao planejar corridas e eventos no universo "Cars". A embalagem, que presta homenagem ao tema "Cars on the Road", não só protege o brinquedo como também serve como um excelente display para aqueles que preferem manter suas coleções intactas. Com estilo autêntico, este veículo fundido na escala 1:55 é cheios de personalidade e detalhes icônicos e perfeitos para recriar todas as cenas de ação e aventura hilariantes dos filmes Cars da Disney/Pixar. As crianças vão querer colecionar e construir a sua própria frota. Em suma... Detalhes meticulosos e acabamento metálico de alta qualidade. Durabilidade com a construção em metal resistente. Edição especial, perfeita para fãs e colecionadores. Fomento ao desenvolvimento de habilidades motoras e criatividade. Embalagem temática que funciona como display. Dimensão: 14 x 16,50 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-09-21T17:16:46Z
+- [Carros Disney Kay Pillar](https://brincatoys.pt/products/cars-disney-kay-pillar-durev): Acelere as aventuras do seu pequeno com o fantástico Cars Disney - Kay Pillar-Durev, uma adição indispensável à coleção de qualquer fã da série de filmes "Cars" da Disney-Pixar. Este Veículo é feito com uma atenção meticulosa aos detalhes, apresentando um acabamento metálico que reflete a paixão e a velocidade das pistas de corrida dos filmes. Inicialmente, o sorriso cativante de Kay Pillar-Durev é o que salta à vista, convidando tanto crianças quanto colecionadores a recriar as suas cenas favoritas ou a imaginar novas aventuras. Além disso, as rodas bem trabalhadas e os grafismos ondulados realçam a sua aerodinâmica e apelo estético, fazendo deste brinquedo uma verdadeira obra de arte em miniatura. A durabilidade é outra característica surpreendente, graças à sua construção em metal resistente, garantindo horas de brincadeira sem sinais de desgaste. Também vale destacar que o Cars Disney - Kay Pillar-Durev é uma edição especial, tornando-o ainda mais cobiçado por entusiastas e colecionadores de todas as idades. Ao passo que oferece diversão sem fim, este modelo também apoia o desenvolvimento de habilidades motoras finas, bem como a capacidade de planejamento e organização ao planejar corridas e eventos no universo "Cars". A embalagem, que presta homenagem ao tema "Cars on the Road", não só protege o brinquedo como também serve como um excelente display para aqueles que preferem manter suas coleções intactas. Com estilo autêntico, este veículo fundido na escala 1:55 é cheios de personalidade e detalhes icônicos e perfeitos para recriar todas as cenas de ação e aventura hilariantes dos filmes Cars da Disney/Pixar. As crianças vão querer colecionar e construir a sua própria frota. Em suma... Detalhes meticulosos e acabamento metálico de alta qualidade. Durabilidade com a construção em metal resistente. Edição especial, perfeita para fãs e colecionadores. Fomento ao desenvolvimento de habilidades motoras e criatividade. Embalagem temática que funciona como display. Dimensão: 14 x 16,50 x 4 cm. Idade recomendada: + de 3 anos.
+  Updated: 2025-09-22T08:18:56Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -19459,7 +19459,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cubo-12-pecas-princesas-disney-para-brincar-e-aprender-854119725-8005125411979-princesas-disney-1178702064.jpg?v=1752981735
   Price: 12,50 € EUR
 - [Jogo Xadrez Portátil em Madeira: Praticidade e Estilo](https://brincatoys.pt/products/jogo-xadrez-portatil-em-madeira): Desfrute de estratégias com o Jogo Xadrez portátil em madeira. Compacto e elegante, é ideal para quem joga em qualquer lugar! ♟️
-  Updated: 2025-09-05T09:38:13Z
+  Updated: 2025-09-22T09:47:53Z
   Vendor: Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -20282,8 +20282,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:30:16Z
   Total Products: 47
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-21T20:15:30Z
-  Total Products: 201
+  Updated: 2025-09-22T09:34:26Z
+  Total Products: 206
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-19T14:43:59Z
   Total Products: 155
@@ -20312,8 +20312,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:40:50Z
   Total Products: 333
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-21T20:15:30Z
-  Total Products: 1523
+  Updated: 2025-09-22T09:34:26Z
+  Total Products: 1528
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-21T14:45:25Z
   Total Products: 689
