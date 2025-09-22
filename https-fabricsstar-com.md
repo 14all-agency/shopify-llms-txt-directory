@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-22T12:00:33.644Z
+- Updated At: 2025-09-22T20:00:34.782Z
 
 ## Products
 
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LOBBY.jpg?v=1757517229
     Price: $1.00 USD
 - [Brocade Damask Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-damask-velvet-fabric): Transform your upholstery projects with Brocade Damask Velvet Fabric from Fabrics Star. This embossed material adds elegance and sophistication to coaches, chairs, and more.
-  Updated: 2025-09-21T20:55:07Z
+  Updated: 2025-09-22T14:50:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
