@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-22T00:00:38.417Z
+- Updated At: 2025-09-22T04:00:39.208Z
 
 ## Products
 
@@ -33723,6 +33723,9 @@
     Author: User
   - [Questions Answered: Everything You Wanted to Know About Tablecloths](https://thetableclothstore.com/blogs/news/questions-answered-everything-you-wanted-to-know-about-tablecloths): Questions Answered: Everything You Wanted to Know About Tablecloths
     Updated: 2025-09-18T01:13:24Z
+    Author: User
+  - [Step-by-Step Guide to Measuring for Your Tablecloth](https://thetableclothstore.com/blogs/news/step-by-step-guide-to-measuring-for-your-tablecloth): Step-by-Step Guide to Measuring for Your Tablecloth
+    Updated: 2025-09-22T00:43:29Z
     Author: User
 
 ## Store Pages
