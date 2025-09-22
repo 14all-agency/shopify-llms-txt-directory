@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-09-22T12:00:41.896Z
+- Updated At: 2025-09-22T12:00:53.119Z
 
 ## Products
 
