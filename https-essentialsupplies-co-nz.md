@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-22T00:00:42.733Z
+- Updated At: 2025-09-22T04:00:39.210Z
 
 ## Products
 
@@ -3490,7 +3490,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/recycled-unwrapped-toilet-tissue-boxed-white-2-ply-400-sheets-12-pack-fsc-recycled-48-rolls-household-toilet-tissue-essential-supplies-570372.jpg?v=1719445694
   Price: $55.00 NZD
 - [Unwrapped Toilet Tissue Boxed - White, 2 Ply, 400 Sheets, 12 Pack, FSC Mix® - 48 Rolls](https://essentialsupplies.co.nz/products/unwrapped-toilet-tissue-boxed-white-2-ply-400-sheets-12-pack-fsc-mix®-48): Unwrapped toilet tissue is a reliable, affordable and consistent tissue, ideal for standard workplace and home or hospitality establishments. Combining softness and strength at a competitive price for industry requirements. These rolls are certified which ensures you are making a sustainable paper choice. Available in a range of thicknesses with a 100mm x 110mm sheet size to cater for all industry requirements.
-  Updated: 2025-02-08T13:00:52Z
+  Updated: 2025-09-22T00:16:11Z
   Vendor: Mattews Packaging
   Product Type: Household Toilet Tissue
   Availability: Available
