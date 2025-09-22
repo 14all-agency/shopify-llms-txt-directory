@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-22T08:00:48.575Z
+- Updated At: 2025-09-22T12:00:48.903Z
 
 ## Products
 
@@ -10087,7 +10087,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_48_Piece_Roads_Creative_Pack.jpg?v=1725230414
   Price: $211.99 NZD
 - [CONNETIX Rainbow Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-21T23:52:10Z
+  Updated: 2025-09-22T10:10:45Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10245,7 +10245,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $79.00 NZD
 - [CONNETIX Rainbow Motion Pack - 24pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-motion-pack-24pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-20T22:29:38Z
+  Updated: 2025-09-22T10:10:46Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -13179,7 +13179,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-09-18T02:16:45Z
+  Updated: 2025-09-22T09:18:40Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13226,7 +13226,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-09-21T22:02:40Z
+  Updated: 2025-09-22T10:02:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15555,7 +15555,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-21T22:22:42Z
+  Updated: 2025-09-22T09:22:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
@@ -15762,8 +15762,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-22T07:43:13Z
-  Total Products: 397
+  Updated: 2025-09-22T11:43:12Z
+  Total Products: 396
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -15852,13 +15852,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:29Z
   Total Products: 0
 - [NEW ARRIVALS](https://www.littlebambinos.co.nz/collections/n-new-arrivals)
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1611
 - [BABY BOY](https://www.littlebambinos.co.nz/collections/n-baby-boy-0-2y): Shop our collection of baby boy products
   Updated: 2025-08-25T11:02:06Z
   Total Products: 160
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-girl-0-2y): Shop our collection of baby girl products
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 3052
 - [NEW IN BABY GIRL](https://www.littlebambinos.co.nz/collections/n-new-in-baby-girl)
   Updated: 2025-03-13T01:37:24Z
@@ -15876,7 +15876,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-14T11:02:05Z
   Total Products: 138
 - [Baby - Tops](https://www.littlebambinos.co.nz/collections/n-baby-girl-tops): Shop our collection of baby girl tops
-  Updated: 2025-09-17T21:37:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 174
 - [BABY BOY - TOPS](https://www.littlebambinos.co.nz/collections/n-baby-boy-tops): Shop our collection of baby boy tops
   Updated: 2023-10-31T02:42:30Z
@@ -15933,10 +15933,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:49:11Z
   Total Products: 141
 - [GIRLS - TOPS](https://www.littlebambinos.co.nz/collections/n-girls-tops): Shop our collection of girls tops
-  Updated: 2025-09-17T21:37:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 186
 - [BOYS - TOPS](https://www.littlebambinos.co.nz/collections/n-boys-tops): Shop our collection of boys tops
-  Updated: 2025-09-17T21:37:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 124
 - [GIRLS - JUMPERS + CARDIGANS](https://www.littlebambinos.co.nz/collections/n-girls-jumpers-cardigans): Shop our collection of girls jumpers and cardigans
   Updated: 2025-09-17T21:37:51Z
@@ -16011,10 +16011,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:33Z
   Total Products: 0
 - [GIRLS](https://www.littlebambinos.co.nz/collections/girls)
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1666
 - [BOYS](https://www.littlebambinos.co.nz/collections/boy): Shop our boys collection
-  Updated: 2025-09-18T11:02:56Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 931
 - [HUXBABY](https://www.littlebambinos.co.nz/collections/huxbaby): Huxbaby is about minimalist fashions for kids with an adult level of style. Their designs blend super soft organic cotton with a clean aesthetic - clothes that allow kids to be kids without sacrificing style.
   Updated: 2025-09-09T02:26:46Z
@@ -16056,7 +16056,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:42Z
   Total Products: 93
 - [Shop Our Sale!](https://www.littlebambinos.co.nz/collections/sale-all-1): We're having a Mid-Year clear out! Explore our sale & shop your favourite brands. Get in quick to grab a bargain! Please choose carefully, sale items cannot be returned or exchanged.
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 3163
 - [Jumper, Cardigans and Sweatshirts](https://www.littlebambinos.co.nz/collections/second-birthday-celebration-day-3)
   Updated: 2025-07-02T08:33:34Z
@@ -16110,7 +16110,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1559
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
@@ -16263,7 +16263,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:49:09Z
   Total Products: 37
 - [Baby - Matching Sets](https://www.littlebambinos.co.nz/collections/baby-girl-matching-sets): Shop our collection of baby girl matching sets
-  Updated: 2025-09-13T11:02:24Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 110
 - [Baby Boy - Matching Sets](https://www.littlebambinos.co.nz/collections/baby-boy-matching-sets): Shop our collection of baby boy matching sets
   Updated: 2025-07-02T08:33:54Z
@@ -16272,10 +16272,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 137
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5583
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5583
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-09-11T11:02:10Z
@@ -16314,7 +16314,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:36:14Z
   Total Products: 123
 - [Gifts Under $250](https://www.littlebambinos.co.nz/collections/christmas-gift-ideas-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $250 x
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 99
 - [Dining](https://www.littlebambinos.co.nz/collections/dining)
   Updated: 2025-09-18T11:02:56Z
@@ -16422,7 +16422,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:36:17Z
   Total Products: 16
 - [Grown](https://www.littlebambinos.co.nz/collections/grown): Grown launched in 2019 and is a knitwear label for babies and children from size NB to 5 years. Most of Grown's styles are unisex are created using natural, sustainable and eco-friendly fibres. They use small batch production focusing on ethical production practices.
-  Updated: 2025-09-17T21:37:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 301
 - [Sienna Blair](https://www.littlebambinos.co.nz/collections/sienna-blair): Sienna Blair is a New Zealand lifestyle brand for children. They bring you cool, effortless basics designed to be reached for daily, loved and passed on. Sienna Blair are committed to minimising their environmental footprint. They use manufacturers in Bali, India and China that pay their employees a fair wage and provide a safe working environment.
   Updated: 2025-07-02T08:36:39Z
@@ -16491,13 +16491,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:07Z
   Total Products: 14
 - [Connetix](https://www.littlebambinos.co.nz/collections/connetix): Magnetic toys for children, where play and learning connect. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.&nbsp;
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 38
 - [Viva La Vulva](https://www.littlebambinos.co.nz/collections/viva-la-vulva): Viva La Vulva are here to take care of you postpartum! From sore breasts to helping your vagina heal you will find products to make those first few weeks after baby arrives easier. These products make excellent gifts for expecting mamas!
   Updated: 2025-08-06T22:41:33Z
   Total Products: 13
 - [Subscriber Only Sale](https://www.littlebambinos.co.nz/collections/little-bambinos-flash-winter-sale): Winter Sale! Take 20% OFF STOREWIDE with the code STOREWIDE20 at checkout! Exclusions Apply. This weekend only. Winter sale on baby clothing and accessories. Kids clothing sale New Zealand.
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 4640
 - [Mama Bear](https://www.littlebambinos.co.nz/collections/mama-bear): Mama Bear is an Auckland based company offering organic, natural and environmental friendly products catering for the while family.
   Updated: 2024-10-05T04:11:20Z
@@ -16599,10 +16599,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5516
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 242
 - [Sonnie](https://www.littlebambinos.co.nz/collections/sonnie): Each range consists of tracksuits, t-shirts, shorts, hoodies, sweatshirts, polo shirts, caps, socks and more for both boys and girls, with a focus on creating long-lasting organic clothing for kids that can be worn in all seasons.
   Updated: 2025-08-25T23:45:33Z
@@ -16614,16 +16614,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-22T07:43:13Z
+  Updated: 2025-09-22T11:43:12Z
   Total Products: 1259
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 496
 - [Liewood](https://www.littlebambinos.co.nz/collections/liewood): With a focus on functionality and innovation, LIEWOOD designs and produces toys, interior, furniture, accessories, wear and footwear for babies and children all which made with aesthetics, quality, and consciousness in mind. Exactly the core values that makes us love LIEWOOD.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5562
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
@@ -16644,7 +16644,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1721
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-09-12T11:01:58Z
@@ -16662,13 +16662,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-07T11:02:21Z
   Total Products: 71
 - [Baby Matching Sets](https://www.littlebambinos.co.nz/collections/n-baby-matching-sets): Shop our collection of matching baby sets
-  Updated: 2025-09-13T11:02:24Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 80
 - [Baby Bottoms](https://www.littlebambinos.co.nz/collections/n-baby-bottoms): Shop our collection of baby bottoms
   Updated: 2025-09-18T11:02:56Z
   Total Products: 326
 - [Baby Tops](https://www.littlebambinos.co.nz/collections/n-baby-tops): Shop our collection of baby tops
-  Updated: 2025-09-14T20:55:24Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 163
 - [Baby Bodysuits](https://www.littlebambinos.co.nz/collections/n-baby-bodysuits): Shop our collection of baby bodysuits
   Updated: 2025-09-14T20:56:33Z
@@ -16728,13 +16728,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:49:16Z
   Total Products: 5
 - [Girls Tops](https://www.littlebambinos.co.nz/collections/n-girls-tops-1): Shop our collection of girls tops
-  Updated: 2025-09-14T20:54:53Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 142
 - [Girls Bottoms](https://www.littlebambinos.co.nz/collections/n-girls-bottoms-1): Shop our collection of girls bottoms
   Updated: 2025-09-18T11:02:56Z
   Total Products: 271
 - [Girls Matching Sets](https://www.littlebambinos.co.nz/collections/n-matching-sets)
-  Updated: 2025-08-06T22:49:15Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 55
 - [Girls Dresses](https://www.littlebambinos.co.nz/collections/n-girls-dresses): Shop our collection of girls dresses
   Updated: 2025-09-07T11:02:21Z
@@ -16848,7 +16848,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-03T11:01:58Z
   Total Products: 20
 - [Skincare](https://www.littlebambinos.co.nz/collections/n-skincare): Shop our collection of Skincare
-  Updated: 2025-09-17T11:01:53Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 35
 - [Nappy Creme](https://www.littlebambinos.co.nz/collections/n-nappy-creme)
   Updated: 2023-10-31T02:42:54Z
@@ -16893,7 +16893,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:55Z
   Total Products: 0
 - [Toys](https://www.littlebambinos.co.nz/collections/n-toys): Shop our collection of Toys
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 500
 - [Pools](https://www.littlebambinos.co.nz/collections/n-pools): Shop our collection of pool products
   Updated: 2025-09-18T11:02:56Z
@@ -16902,7 +16902,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:38:56Z
   Total Products: 16
 - [Puzzles & Games](https://www.littlebambinos.co.nz/collections/n-puzzles-games): Shop our collection of Puzzles and Games
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 57
 - [Dolls & Accessories](https://www.littlebambinos.co.nz/collections/n-dolls-accessories): Shop our collection of dolls and accessories
   Updated: 2025-08-06T22:35:49Z
@@ -16938,7 +16938,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-14T20:55:21Z
   Total Products: 87
 - [Women's Care](https://www.littlebambinos.co.nz/collections/n-womens-care): Shop our collection of Women's Care products
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 98
 - [Bags](https://www.littlebambinos.co.nz/collections/n-bags): Shop our collection of bags
   Updated: 2023-10-31T02:42:57Z
@@ -16947,7 +16947,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:29Z
   Total Products: 10
 - [All Mama](https://www.littlebambinos.co.nz/collections/n-all-mama): Shop our collection of all things Mama
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 210
 - [As We Are Illustration](https://www.littlebambinos.co.nz/collections/as-we-are-illustration): Shop our collection of As We Are Illustrations
   Updated: 2025-08-06T22:34:17Z
@@ -16959,7 +16959,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T21:06:23Z
   Total Products: 57
 - [Baby Care](https://www.littlebambinos.co.nz/collections/n-baby-care): Shop our collection of baby care
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 161
 - [Baby Play](https://www.littlebambinos.co.nz/collections/n-baby-play): Shop our collection of baby play products
   Updated: 2025-09-12T11:01:58Z
@@ -16980,7 +16980,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-14T20:55:22Z
   Total Products: 16
 - [Wear](https://www.littlebambinos.co.nz/collections/n-wear): Shop our Wear Collection
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 2186
 - [Pure Mama](https://www.littlebambinos.co.nz/collections/pure-mama): PURE MAMA FOUNDER AND MAMA OF ONE - Lara Christie"When I fell pregnant I was really surprised by the lack of pregnancy-specific body products available, especially as our skin changes so much during this time and needs extra support.I wanted to create a product range that harnessed the powerful, natural ingredients often used in facial skincare, such as Pomegranate and Raspberry Seed Oil, and concentrated levels of Vitamin E, which are miracle workers for skin hydration, elasticity and repairing damage. We then married these with tried and trusted base blends of Coconut and Almond oils to create a new, more nourishing range of skincare for pregnant woman and nursing mothers."
   Updated: 2025-09-20T11:02:20Z
@@ -16992,16 +16992,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T21:06:23Z
   Total Products: 302
 - [Care & Bath](https://www.littlebambinos.co.nz/collections/n-care-bath-n): Shop our care and bath collection
-  Updated: 2025-09-17T11:01:53Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 136
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-n): Shop our collection of kids room and nursery products
   Updated: 2025-09-18T11:02:56Z
   Total Products: 226
 - [Play](https://www.littlebambinos.co.nz/collections/n-play): Shop our collection of play products
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 573
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1707
 - [Baby Swimwear](https://www.littlebambinos.co.nz/collections/n-baby-swimwear): Shop our collection of baby swimwear
   Updated: 2025-09-20T11:02:20Z
@@ -17013,19 +17013,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 176
 - [Mama](https://www.littlebambinos.co.nz/collections/mama-n): Shop our collection of all thing Mama
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 232
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 968
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5529
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 43
 - [Love to dream](https://www.littlebambinos.co.nz/collections/love-to-dream): The Love To Dream, Newborn to Toddler Sleep System, provides the highest level of quality with trusted sleep solutions to the very real parenting challenge of better quality and longer sleep for the whole family. Try our products today and experience how Love To Dream can help your family achieve a better night’s sleep too.
   Updated: 2025-08-06T22:41:55Z
@@ -17037,10 +17037,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:59Z
   Total Products: 21
 - [Girls](https://www.littlebambinos.co.nz/collections/n-girls-1): Shop our collection of all girls products
-  Updated: 2025-09-18T11:02:56Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1016
 - [Girls All Clothing](https://www.littlebambinos.co.nz/collections/n-girls-all-clothing): Shop our collection of girls clothing
-  Updated: 2025-09-18T11:02:56Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 810
 - [Boys](https://www.littlebambinos.co.nz/collections/n-boys): Shop our boys collection
   Updated: 2025-09-18T11:02:56Z
@@ -17052,7 +17052,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-20T11:02:20Z
   Total Products: 785
 - [Home](https://www.littlebambinos.co.nz/collections/n-home): Shop our collection of home products
-  Updated: 2025-09-18T21:06:23Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 862
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-1): Shop our collection of kids room and nursery products
   Updated: 2025-09-14T23:47:01Z
@@ -17091,7 +17091,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-20T11:02:20Z
   Total Products: 423
 - [EOFY](https://www.littlebambinos.co.nz/collections/eofy)
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 3201
 - [Test](https://www.littlebambinos.co.nz/collections/test)
   Updated: 2025-09-18T11:02:56Z
@@ -17121,7 +17121,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-20T11:02:20Z
   Total Products: 135
 - [Gifts Under $100](https://www.littlebambinos.co.nz/collections/christmas-gifts-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $100 x
-  Updated: 2025-09-17T11:01:53Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 88
 - [Fruit Collection](https://www.littlebambinos.co.nz/collections/fruit-collection)
   Updated: 2025-09-18T21:29:21Z
@@ -17133,7 +17133,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 38
 - [Gifts for Toddlers](https://www.littlebambinos.co.nz/collections/gifts-for-toddlers): Shop our Curated Collection of Gift ideas for the Toddlers in your life x
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 32
 - [Noody](https://www.littlebambinos.co.nz/collections/noody)
   Updated: 2025-08-06T22:34:20Z
@@ -17157,16 +17157,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-20T11:02:20Z
   Total Products: 565
 - [20% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-20): Shop our EPIC 20% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-09-18T11:02:56Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 355
 - [10% OFF MID-YEAR SALE](https://www.littlebambinos.co.nz/collections/bf-10): *Black Friday T&Cs Prices as marked, no codes needed. Happy shopping!
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 88
 - [Summer Essentials](https://www.littlebambinos.co.nz/collections/summer-essentials)
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 547
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5531
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
@@ -17184,7 +17184,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 2269
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-09-14T11:02:26Z
@@ -17193,7 +17193,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2024-10-31T00:02:33Z
   Total Products: 26
 - [Byebyebad](https://www.littlebambinos.co.nz/collections/byebyebad)
-  Updated: 2025-09-17T11:01:53Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 10
 - [Drink Daisy](https://www.littlebambinos.co.nz/collections/drink-daisy)
   Updated: 2025-06-02T05:44:18Z
@@ -17226,16 +17226,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 157
 - [UNDER $50](https://www.littlebambinos.co.nz/collections/under-50): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-09-18T11:02:56Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 344
 - [UNDER $75](https://www.littlebambinos.co.nz/collections/under-75): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
   Updated: 2025-09-14T20:55:23Z
   Total Products: 83
 - [UNDER $100](https://www.littlebambinos.co.nz/collections/under-100): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-09-17T11:01:53Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 168
 - [Boxing Day Sale 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-24): Shop our Boxing Day Spend & Save and get yourself a bargin - With prices already discounted, you could save up-to 60% Off! Spend $50, get another 10% off | Spend $100, get another 20% off | Spend $150, get another 30% off!
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 3253
 - [Wear Boxing Day 24](https://www.littlebambinos.co.nz/collections/wear-boxing-day-24)
   Updated: 2024-12-23T02:18:58Z
@@ -17262,10 +17262,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-14T11:02:26Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 2339
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-09-22T01:51:51Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 5583
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
@@ -17280,7 +17280,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-17T11:01:32Z
   Total Products: 3
 - [Winter Toy Must-Haves](https://www.littlebambinos.co.nz/collections/winter-toy-must-haves): As the chill sets in, it’s the perfect time to bring the fun indoors. This season, our Winter favourites are all about creativity, colour and connection!
-  Updated: 2025-09-21T11:02:38Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 19
 - [INKAH](https://www.littlebambinos.co.nz/collections/inkah): Based out of Papamoa in New Zealand. Inkah specialises in bespoke, ethically handcrafted rattan furniture.
   Updated: 2025-08-31T11:02:44Z
@@ -17295,10 +17295,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:15Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2025-09-20T11:02:20Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 1582
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-18T11:02:56Z
+  Updated: 2025-09-22T11:01:44Z
   Total Products: 3095
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-08-26T04:04:49Z
