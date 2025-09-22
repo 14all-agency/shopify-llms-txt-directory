@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-22T04:00:37.633Z
+- Updated At: 2025-09-22T08:00:36.713Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sling-Sink-Caddy-Black-0.jpg?v=1727658913
   Price: $13.99 NZD
 - [Sling Sink Caddy - White](https://everydayhome.co.nz/products/sling-sink-caddy-white): Sling Sink Caddy  White
-  Updated: 2025-09-21T21:37:11Z
+  Updated: 2025-09-22T07:47:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Metallic-Titanium-1.jpg?v=1727659051
   Price: $212.99 NZD
 - [Cubiko Adhesive Shower Bins - Black](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-black): Cubiko Adhesive Shower Bins, Black
-  Updated: 2025-09-21T19:07:11Z
+  Updated: 2025-09-22T07:37:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1047,7 +1047,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-8-Hook-Black-Walnut-4.jpg?v=1727658631
   Price: $101.99 NZD
 - [Flip 8 Hook - White](https://everydayhome.co.nz/products/flip-8-hook-white): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-08T23:13:41Z
+  Updated: 2025-09-22T04:16:22Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3273,7 +3273,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardplusServingTray-LightGrey-8710755123146Brabantia_96dpi_1000x1000px_7_NR-17716.png?v=1733802336
   Price: $41.99 NZD
 - [Brabantia ReNew Shower Squeegee - Dark Grey](https://everydayhome.co.nz/products/shower-squeegee-dark-grey): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-09-21T18:52:10Z
+  Updated: 2025-09-22T07:37:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3371,7 +3371,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/GroundSpikeMetal_Size2_O45mm-Galvanized-8710755311444Brabantia_96dpi_1000x1000px_7_NR-1854.png?v=1734402565
   Price: $24.99 NZD
 - [Brabantia Ground Spike Metal - 50mm](https://everydayhome.co.nz/products/metal-soil-spear-50mm-wo-silver): Keep your Brabantia rotary dryer in place with this smart metal ground spike – for anyone that wants sturdy anchorage without concrete. The spike has a closable cap and is made of galvanised steel plate, so corrosion resistant too.
-  Updated: 2025-09-08T23:10:08Z
+  Updated: 2025-09-22T04:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
