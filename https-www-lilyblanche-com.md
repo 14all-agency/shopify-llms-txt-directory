@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-22T12:00:43.943Z
+- Updated At: 2025-09-22T16:00:45.661Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9860,7 +9860,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Belcher Chain Gold](https://www.lilyblanche.com/products/belcher-chain-gold): This strong 18-carat gold vermeil medium-weight belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-14T19:05:11Z
+  Updated: 2025-09-22T13:54:39Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16257,7 +16257,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Heart Shaped Rose Gold Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-rose-gold): Looking for an extra special necklace? This pretty filigree style rose gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This rose gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Express delivery available. Personalise online today.
-  Updated: 2025-09-02T09:47:59Z
+  Updated: 2025-09-22T12:33:37Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -23069,7 +23069,7 @@ GBP 340
     Price: £270.00 GBP
 - [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
 From £150
-  Updated: 2025-09-22T06:53:01Z
+  Updated: 2025-09-22T13:54:39Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23117,7 +23117,7 @@ From £150
     Availability: Not Available
     Price: £463.00 GBP
 - [Large Personalised St Christopher Necklace in Sterling Silver](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver): Travel safely with the Large Personalised St Christopher Necklace in sterling silver. Customise with free engraving & premium chain. Free UK shipping gift wrap & jewellery care kit.
-  Updated: 2025-09-13T23:41:35Z
+  Updated: 2025-09-22T12:10:51Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23136,16 +23136,16 @@ From £150
     Price: £110.00 GBP
   - [18 in (46 cm) silver belcher chain (3 mm)](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver?variant=55551438258562)
     Availability: Available
-    Price: £135.00 GBP
+    Price: £145.00 GBP
   - [20 inch (51 cm) silver belcher chain (3 mm)](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver?variant=55551438291330)
     Availability: Available
-    Price: £140.00 GBP
+    Price: £150.00 GBP
   - [22 inch (56 cm) silver belcher chain (3 mm)](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver?variant=55551438324098)
     Availability: Available
-    Price: £145.00 GBP
+    Price: £155.00 GBP
   - [24 inch (61 cm) silver belcher chain (3 mm)](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver?variant=55551438356866)
     Availability: Available
-    Price: £150.00 GBP
+    Price: £160.00 GBP
 - [Handcrafted 9ct White Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/handcrafted-9ct-white-gold-personalised-initial-necklace): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct white gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. 
 From £129
   Updated: 2025-09-15T12:01:05Z
