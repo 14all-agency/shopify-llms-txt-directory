@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-22T12:00:40.231Z
+- Updated At: 2025-09-22T16:00:40.818Z
 
 ## Products
 
@@ -557,7 +557,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/tpe-embossed-gloves-powder-free-blue-l-240mm-cuff-20g-2000-gloves-plastic-gloves-essential-supplies-390361.jpg?v=1719445923
   Price: $74.00 NZD
 - [TPE Embossed Gloves Powder Free - Blue, XL, 240mm Cuff, 2.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/tpe-embossed-gloves-powder-free-blue-xl-240mm-cuff-2-0g-2000): Clear TPE powder free gloves are made using a polyethylene based synthetic non-sterile polymer providing more stretch compared to vinyl and polyethylene gloves. Robust with a natural feel, allergy free, with a long shelf life and micro embossed for grip. Superior performance and feel 240mm cuff2.0g Colour: Blue Size: Extra Large Pack:10 packs x 200's Note:*Other sizes available: Small, Medium, Large
-  Updated: 2025-01-09T22:11:55Z
+  Updated: 2025-09-22T12:07:00Z
   Vendor: Mattews Packaging
   Product Type: Plastic Gloves
   Availability: Available
@@ -3455,7 +3455,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/household-toilet-roll-dispenser-black-40mm-core-size-1-dispenser-toilet-tissue-dispensers-essential-supplies-472066.jpg?v=1719445173
   Price: $68.00 NZD
 - [Recycled Wrapped Toilet Tissue Boxed - White, 1 Ply, 1000 Sheets, FSC Recycled® - 48 Rolls](https://essentialsupplies.co.nz/products/recycled-wrapped-toilet-tissue-boxed-white-1-ply-1000-sheets-fsc-recycled®-48): Recycled wrapped toilet tissue is a great, environmentally friendly, economical choice for your toilet paper needs. Made from 100% certified recycled tissue, the absorbent tissue is a great option for high traffic bathrooms. They contain no dyes, inks or chlorine and are sold in a box of 48 rolls individually wrapped rolls. Available in a range of thicknesses with a 100mm x 110mm
-  Updated: 2025-01-16T07:36:37Z
+  Updated: 2025-09-22T12:20:57Z
   Vendor: Mattews Packaging
   Product Type: Household Toilet Tissue
   Availability: Available
