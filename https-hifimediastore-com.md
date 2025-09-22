@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-09-22T12:01:12.957Z
+- Updated At: 2025-09-22T16:01:12.571Z
 
 ## Products
 
@@ -4574,12 +4574,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_15_Pro_128GB_Azul_Blue_Titanium_-_Hifi_Media_Store-967364.jpg?v=1719001854
   Price: 1276,91 € EUR
 - [Apple iPhone 15 Pro Max 256GB Azul (Blue Titanium)](https://hifimediastore.com/products/apple-iphone-15-pro-max-256gb-azul-blue-titanium): IPhone 15 Pro Max:  Chip A17 Pro con GPU de 6 núcleos Sistema de cámaras Pro: 48MP + Teleobjetivo + Ultra gran angular Zoom óptico  Hasta 29H de reproducción de vídeo Pantalla Super Retina XDR de 6,7" USB-C 3.0
-  Updated: 2025-09-22T03:10:59Z
+  Updated: 2025-09-22T12:43:58Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_15_Pro_Max_256GB_Azul_Blue_Titanium_-_Hifi_Media_Store-967595.jpg?v=1719002362
-  Price: 1328,64 € EUR
+  Price: 1327,16 € EUR
 - [Xiaomi 13T 5G 8GB/256GB Azul (Alpine Blue) Dual SIM](https://hifimediastore.com/products/xiaomi-13t-5g-8gb-256gb-azul-alpine-blue-dual-sim): Xiaomi 13T:  Procesador MediaTek Dimensity 8200-Ultra Pantalla AMOLED FHD+ de 6,67" Sistema de cámaras profesionales Leica (50MP+50MP+12MP) Batería de 5000mAh con carga rápida de 67W Resistencia al polvo y al agua IP68 Android 13, MIUI 14
   Updated: 2025-08-28T04:05:16Z
   Vendor: Xiaomi
@@ -7381,7 +7381,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20972.jpg?v=1738257010
   Price: 718,86 € EUR
 - [Samsung Galaxy S25 5G 12GB/128GB Verde (Mint) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-128gb-verde-mint-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-09-19T22:20:35Z
+  Updated: 2025-09-22T15:11:17Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8410,10 +8410,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 5381
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 5381
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-09-20T11:13:34Z
@@ -8467,7 +8467,7 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 1362
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8476,7 +8476,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 3488
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-09-17T15:44:16Z
@@ -8506,7 +8506,7 @@
   Updated: 2025-09-20T05:55:35Z
   Total Products: 133
 - [Apple](https://hifimediastore.com/collections/apple)
-  Updated: 2025-09-22T04:52:07Z
+  Updated: 2025-09-22T12:43:59Z
   Total Products: 484
 - [Land Rover](https://hifimediastore.com/collections/land-rover)
   Updated: 2025-06-22T07:51:30Z
@@ -8533,7 +8533,7 @@
   Updated: 2025-09-21T23:07:01Z
   Total Products: 179
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi)
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 935
 - [Samsung](https://hifimediastore.com/collections/samsung)
   Updated: 2025-09-22T04:51:32Z
@@ -8587,7 +8587,7 @@
   Updated: 2025-09-19T09:36:12Z
   Total Products: 45
 - [Apple](https://hifimediastore.com/collections/apple-1)
-  Updated: 2025-09-22T04:52:07Z
+  Updated: 2025-09-22T12:43:59Z
   Total Products: 568
 - [Asus](https://hifimediastore.com/collections/asus)
   Updated: 2025-08-29T08:53:07Z
@@ -8644,7 +8644,7 @@
   Updated: 2025-08-25T17:07:40Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 1039
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
   Updated: 2025-09-20T12:52:25Z
@@ -8791,7 +8791,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 5380
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-08-31T11:51:35Z
@@ -8848,7 +8848,7 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 1365
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
@@ -8986,7 +8986,7 @@
   Updated: 2025-09-21T03:42:07Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 5011
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-09-19T05:29:09Z
@@ -9025,7 +9025,7 @@
   Updated: 2025-09-20T00:35:31Z
   Total Products: 12
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-09-22T11:14:37Z
+  Updated: 2025-09-22T12:43:59Z
   Total Products: 4032
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-09-22T10:56:31Z
@@ -9082,7 +9082,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 5380
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-06-22T07:51:42Z
@@ -9097,7 +9097,7 @@
   Updated: 2025-08-25T16:36:25Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-22T11:14:42Z
+  Updated: 2025-09-22T13:54:49Z
   Total Products: 5380
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-09-19T19:03:18Z
