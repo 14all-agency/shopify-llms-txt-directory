@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-21T16:00:28.960Z
+- Updated At: 2025-09-22T08:00:29.086Z
 
 ## Products
 
@@ -69,7 +69,7 @@
     Availability: Available
     Price: ₹1,194.00 INR
 - [Plus Size Pink Cotton Printed Straight Cut Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-cotton-printed-straight-cut-suit-set): Blush in blooms with our Pink Cotton Printed Straight Cut Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant & dupatta. Sizes in XL to 10XL.
-  Updated: 2025-09-18T07:40:53Z
+  Updated: 2025-09-22T06:40:31Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -171,7 +171,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Mulberry_Wine_Floral_Night_Gown_6.jpg?v=1755846818
   Price: ₹794.00 INR
 - [Plus Size Peacock Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/peacock-floral-rayon-night-gown): Every night feels cozy with our Peacock Floral Rayon Night Gown With Pocket. Features rayon fabric and half sleeves. Sizes in XL to 10XL.
-  Updated: 2025-09-17T13:51:51Z
+  Updated: 2025-09-22T06:04:50Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
@@ -634,7 +634,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Navy_Abstract_Printed_Co-ord_Set_with_Pockets.png?v=1754465029
   Price: ₹1,195.00 INR
 - [Smoky Grey Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/smoky-grey-floral-cotton-suit-set): Step effortless elegance with our Smoky Grey Floral Cotton Suit Set. Features cotton fabric and V neckline. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-09-15T05:14:17Z
+  Updated: 2025-09-22T06:44:16Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_6803af6e-3a4d-4da2-b6da-4b9e6d14b5db.png?v=1755492087
   Price: ₹1,195.00 INR
 - [Soft Blue Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/soft-blue-floral-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-09-05T20:48:28Z
+  Updated: 2025-09-22T06:10:25Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
