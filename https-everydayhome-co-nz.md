@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-22T00:00:36.252Z
+- Updated At: 2025-09-22T04:00:37.633Z
 
 ## Products
 
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Hair-Tool-Organiser-White-Charcoal-9.jpg?v=1727659608
   Price: $49.99 NZD
 - [Glam Cosmetic Organiser - White/Grey](https://everydayhome.co.nz/products/glam-cosmetic-organiser-white-grey): Glam Cosmetic Organiser, White/Grey
-  Updated: 2025-09-08T22:41:03Z
+  Updated: 2025-09-22T01:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -438,7 +438,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wallfix-Dryer-with-Cover-Metallic-Grey-3.jpg?v=1727659095
   Price: $279.99 NZD
 - [Brabantia Pull-Out Clothesline - 22m White](https://everydayhome.co.nz/products/pull-out-clothesline-22m-white): Pull-Out Clothesline, 22M, White
-  Updated: 2025-09-14T22:22:10Z
+  Updated: 2025-09-22T02:02:01Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2426,7 +2426,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Leana-Ladder-Rack-White-UMBRA-1.jpg?v=1731902202
   Price: $131.99 NZD
 - [Luna Photo Display - Black](https://everydayhome.co.nz/products/luna-photo-display-black): Luna holds nine of your favorite 4x6 inch photos in a modern, gallery-style fashion and will effortlessly enhance your wall decor. At the same time, its practical design features a solid backing which allows you to clean and change your images easily. Use Luna to showcase your favorite photos or get creative and combine pictures, graphic text, illustrations, drawings, sketches, and other unique art for a one-of-a-kind, DIY collage photo frame.
-  Updated: 2025-09-08T23:15:07Z
+  Updated: 2025-09-22T01:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2944,7 +2944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardC_124x45cm_SSIR-SpringBubbles-8710755134920Brabantia_96dpi_1000x1000px_7_NR-19942.png?v=1733870570
   Price: $209.99 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-60m-metal-soil-spear-metallic-grey): The Brabantia Topspinner rotary dryer really spins like a top, even when the arms are fully loaded with wet laundry. But there’s more: it’s easy to open and has up to 60 metres of quality, UV-resistant non-slip washing lines. Thanks to the nifty retension-system, these lines are always taut. You’ll surely love the eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you and the planet!
-  Updated: 2025-09-16T01:37:11Z
+  Updated: 2025-09-22T03:43:46Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3049,7 +3049,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileDigitalKitchenScales_Round-MattSteel-8710755480560Brabantia_96dpi_1000x1000px_7_NR-5656.png?v=1734404799
   Price: $84.99 NZD
 - [Brabantia Tasty+ Digital Kitchen Scales - Dark Grey](https://everydayhome.co.nz/products/digital-kitchen-scale-dark-grey): Spice up your kitchen with this battery-operated Brabantia Tasty+ Digital Kitchen Scale. This cute kitchen helper has an LCD lit display and weighs everything from 1 gram to 5 kilos. Weighed out? Just wipe off the glass surface and hang your scale within easy reach from its loop. What else do you need to tip the scales in favour of this one?
-  Updated: 2025-09-08T23:15:38Z
+  Updated: 2025-09-22T01:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3168,7 +3168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverB_124x38cm2mmFoam-Metallised-8710755317705Brabantia_96dpi_1000x1000px_7_NR-3060.png?v=1733871119
   Price: $26.99 NZD
 - [Brabantia Ironing Board Cover C - Metallised Silver](https://everydayhome.co.nz/products/ironing-board-cover-c-124x45cm-2mm-foam-metalised-silver): Better ironing without any extra effort - this Brabantia metallised cotton ironing board cover is a dream come true. It reflects the heat of your (steam) iron, giving you double ironing power!
-  Updated: 2025-09-08T23:10:06Z
+  Updated: 2025-09-22T01:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3336,7 +3336,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_12L-Grey-8710755109805Brabantia_96dpi_1000x1000px_7_NR-1271.png?v=1734561402
   Price: $59.99 NZD
 - [Brabantia Wallfix Protective Fabric Cover - Black](https://everydayhome.co.nz/products/wallfix-protective-fabric-cover-black): Protect your WallFix dryer with this Brabantia WallFix Cover. It is extra strong and weather resistant, to keep your WallFix clean and lasting even longer. Thanks to the two press studs and sturdy cord, you can put it on or take it off easily. Now you can leave it protected, even when the weather is bad or the birds are out.
-  Updated: 2025-09-08T23:09:59Z
+  Updated: 2025-09-22T03:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3455,7 +3455,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapDispenserSet-MineralFreshWhite-8710755227967Brabantia_96dpi_1000x1000px_7_NR-32180.png?v=1734559387
   Price: $78.99 NZD
 - [Brabantia SinkStyle Soap Dispenser Set - 200ml Mineral Infinite Grey](https://everydayhome.co.nz/products/sinkstyle-soap-dispenser-set-200ml-mineral-infinite-grey): Bring great style to your kitchen with the Brabantia SInkStyle Soap Dispenser Set. Two stylish dispensers for your hand and dish soap on a textured metal tray. These beauties don't just dispense soap, they ooze style. From the textured body of the Soap Dispenser to its see-through holder. And the Soap Squeezer that releases washing up liquid when you squeeze it. Two sparkling examples of Brabantia’s hands-on designs.
-  Updated: 2025-09-08T23:09:27Z
+  Updated: 2025-09-22T01:49:26Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3637,7 +3637,7 @@
     Availability: Available
     Price: $61.99 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-09-21T04:52:10Z
+  Updated: 2025-09-22T02:37:11Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3903,7 +3903,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Screenshot_2025-03-03_143132_2a921908-9359-485f-8725-9ed3ac107a6c.png?v=1746478970
     Price: $845.99 NZD
 - [ECO Wooden Pegs 12pk](https://everydayhome.co.nz/products/eco-wooden-pegs-12pk): The best wooden pegs available, 12 per box
-  Updated: 2025-09-19T00:42:45Z
+  Updated: 2025-09-22T01:00:36Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
