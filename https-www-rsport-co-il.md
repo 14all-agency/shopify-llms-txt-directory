@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-21T20:00:59.941Z
+- Updated At: 2025-09-22T00:01:02.348Z
 
 ## Products
 
@@ -2255,7 +2255,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק ברצלונה בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ברצלונה-בית-24-25): חולצת בית לברצלונה לעונת 24/25 עשויה מ-100% פוליאסטר, חומר קל ועמיד שמבטיח נוחות ויכולת נשימה במהלך המשחקים. החולצה מעוצבת בצבעים המסורתיים של המועדון ומשדרת גאווה ואהבה לקבוצה.
-  Updated: 2025-09-18T17:18:38Z
+  Updated: 2025-09-21T20:19:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -23369,7 +23369,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו ספורטינג ליסבון 2003/04](https://www.rsport.co.il/products/חולצת-רטרו-ספורטינג-ליסבון-2003-04): חולצת רטרו ספורטינג ליסבון 2003/04 עשויה 100% פוליאסטר לנוחות מרבית ויכולת נשימה גבוהה. עיצוב קלאסי עם לוגו רקום ופרטים מהמהדורה המקורית. הבד מנדף זיעה ומתייבש במהירות, מושלמת ללבוש יומיומי ולפעילות ספורטיבית.
-  Updated: 2025-09-18T17:57:19Z
+  Updated: 2025-09-21T23:09:40Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -46490,6 +46490,11 @@
   - [ליברפול חולצה שלישית 25/26](https://www.rsport.co.il/blogs/חולצות-כדורגל/ליברפול-חולצה-שלישית)
     Updated: 2025-09-10T16:07:22Z
     Author: R- SPORT
+- [פריז סן ז’רמן | PSG](https://www.rsport.co.il/blogs/פריז-סן-ז-רמן-psg)
+  - [גלה את חולצות פריז סן ז’רמן: סטייל, איכות ורוח אוהדים](https://www.rsport.co.il/blogs/פריז-סן-ז-רמן-psg/גלה-את-חולצות-פריז-סן-ז-רמן-סטייל-איכות-ורוח-אוהדים)
+    Updated: 2025-09-21T21:42:07Z
+    Author: R- SPORT
+    Tags: PSG
 
 ## Store Pages
 
