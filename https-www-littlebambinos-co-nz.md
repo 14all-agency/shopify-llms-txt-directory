@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-22T00:00:49.706Z
+- Updated At: 2025-09-22T04:00:49.419Z
 
 ## Products
 
@@ -6464,7 +6464,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $42.00 NZD
 - [GROWN Knit Top - Cedar](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar): 100% Organic CottonFancy Knit Top made from GOTS certified organic cottonStipe detailCropped length
-  Updated: 2025-08-06T22:48:14Z
+  Updated: 2025-09-22T02:47:54Z
   Vendor: Grown
   Product Type: Topss
   Availability: Available
@@ -6476,7 +6476,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $35.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar?variant=40207931441246)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-linen-knit-top-cedar?variant=40207931474014)
     Availability: Not Available
@@ -7104,7 +7104,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-21T22:44:31Z
+  Updated: 2025-09-22T00:06:36Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11065,7 +11065,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-09-21T11:22:42Z
+  Updated: 2025-09-22T00:02:43Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -15562,7 +15562,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-21T23:22:46Z
+  Updated: 2025-09-22T00:22:45Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15606,6 +15606,62 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [USB Charging Cable](https://www.littlebambinos.co.nz/products/dust-cap?variant=41986038136926)
     Availability: Available
     Price: $5.99 NZD
+- [TRYBIKE - Vintage Cream](https://www.littlebambinos.co.nz/products/trybike-vintage-cream): The Vintage Cream matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T01:51:44Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cream-Vintage-TRYBIKE-Balance-Bike-Toddler-Child-Little-Bambinos_4.webp?v=1758500581
+  Price: $299.95 NZD
+- [TRYBIKE - Vintage Green](https://www.littlebambinos.co.nz/products/trybike-vintage-green): The Vintage Green matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T01:51:46Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREEN-VINTAGE-TRYBIKE-Little-Bambinos-1.webp?v=1758502464
+  Price: $299.95 NZD
+- [TRYBIKE - Steel Pink](https://www.littlebambinos.co.nz/products/trybike-steel-pink): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T01:51:46Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink-Steel-TRYBIKE-Little-Bambinos-1.webp?v=1758504772
+  Price: $299.95 NZD
+- [TRYBIKE - Steel Blue](https://www.littlebambinos.co.nz/products/trybike-steel-blue): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T01:51:47Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Blue-Steel-TRYBIKE-Little-Bambinos-1.webp?v=1758505048
+  Price: $299.95 NZD
+- [TRYBIKE - Steel Grey](https://www.littlebambinos.co.nz/products/trybike-steel-grey): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T02:12:05Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREY-STEEL-TRYBIKE-Little-Bambinos-1.webp?v=1758505228
+  Price: $299.95 NZD
+- [TRYBIKE - Vintage Red](https://www.littlebambinos.co.nz/products/trybike-vintage-red): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T02:15:53Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Red-Vintage-TRYBIKE-Little-Bambinos-1.webp?v=1758505388
+  Price: $299.95 NZD
+- [TRYBIKE - Vintage Black](https://www.littlebambinos.co.nz/products/trybike-vintage-black): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
+  Updated: 2025-09-22T01:51:51Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BLACK_VINTAGE_TRYBIKE_Little-Bambinos.webp?v=1758505598
+  Price: $299.95 NZD
+- [TRYBIKE - Basket](https://www.littlebambinos.co.nz/products/trybike-basket): Children will love bringing their favorite items along on every ride with this basket. From toys and snacks to drinks, it offers plenty of room for little explorers' essentials. Made to fit the Trybike Steel and adaptable to other bikes with leather straps, it’s crafted from sturdy plastic woven wicker that endures rain, snow, and sun. This reliable basket is ready to accompany your child on many seasons of adventure and imaginative play.
+  Updated: 2025-09-22T02:21:26Z
+  Vendor: Trybike
+  Product Type: Bikes & Scooters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Trybike-Vintage-Bike-Bicycle-Basket-1.webp?v=1758505802
+  Price: $64.95 NZD
 
 ## Collections
 
@@ -15706,7 +15762,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-21T23:43:12Z
+  Updated: 2025-09-22T03:43:11Z
   Total Products: 397
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16054,8 +16110,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-09-20T11:02:20Z
-  Total Products: 1558
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 1559
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
   Total Products: 1
@@ -16216,11 +16272,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 137
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-21T11:02:38Z
-  Total Products: 5575
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5583
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-21T11:02:38Z
-  Total Products: 5575
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5583
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-09-11T11:02:10Z
   Total Products: 79
@@ -16543,8 +16599,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-20T11:02:20Z
-  Total Products: 5508
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5516
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-09-21T11:02:38Z
   Total Products: 242
@@ -16558,7 +16614,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-21T23:43:12Z
+  Updated: 2025-09-22T03:43:12Z
   Total Products: 1259
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-20T11:02:20Z
@@ -16567,8 +16623,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-09-21T11:02:38Z
-  Total Products: 5554
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5562
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
   Total Products: 0
@@ -16588,8 +16644,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-09-21T11:02:38Z
-  Total Products: 1713
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 1721
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-09-12T11:01:58Z
   Total Products: 60
@@ -16966,8 +17022,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-09-20T11:02:20Z
-  Total Products: 5521
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5529
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-09-21T11:02:38Z
   Total Products: 43
@@ -16975,8 +17031,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:55Z
   Total Products: 8
 - [Weight test](https://www.littlebambinos.co.nz/collections/weight-test)
-  Updated: 2025-09-16T04:14:18Z
-  Total Products: 44
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 52
 - [Crywolf](https://www.littlebambinos.co.nz/collections/crywolf): Crywolf is fun, functional and big on style and they have kids aged 1-14 years covered for their outdoor missions. Their collections feature limited edition prints and include Swimwear made from recycled materials, epic Beach Sandals, 100% waterproof Play Jackets and Overalls, Rain Boots and new Magic Jacket. Crywolf's innovative Eco-Puffer Jackets that are filled with recycled water bottles, with new styles being released every year.
   Updated: 2025-08-06T22:48:59Z
   Total Products: 21
@@ -17110,8 +17166,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-20T11:02:20Z
   Total Products: 547
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-09-20T11:02:20Z
-  Total Products: 5523
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5531
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 37
@@ -17128,8 +17184,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-09-20T11:02:20Z
-  Total Products: 2261
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 2269
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-09-14T11:02:26Z
   Total Products: 15
@@ -17206,11 +17262,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-14T11:02:26Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-09-20T11:02:20Z
-  Total Products: 2331
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 2339
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-09-21T11:02:38Z
-  Total Products: 5575
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 5583
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
   Total Products: 22
@@ -17251,11 +17307,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-30T11:02:42Z
   Total Products: 12
 - [Banwood](https://www.littlebambinos.co.nz/collections/banwood)
-  Updated: 2025-09-16T04:14:18Z
+  Updated: 2025-09-22T01:51:34Z
   Total Products: 107
 - [Bikes & Scooters](https://www.littlebambinos.co.nz/collections/bikes-scooters)
-  Updated: 2025-09-16T04:14:18Z
-  Total Products: 50
+  Updated: 2025-09-22T01:51:51Z
+  Total Products: 58
+- [Trybike](https://www.littlebambinos.co.nz/collections/trybike)
+  Updated: 2025-09-22T01:52:13Z
+  Total Products: 8
 
 ## Blogs
 
