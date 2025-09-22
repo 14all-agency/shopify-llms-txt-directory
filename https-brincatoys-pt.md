@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-22T16:01:08.587Z
+- Updated At: 2025-09-22T20:01:08.421Z
 
 ## Products
 
@@ -630,7 +630,7 @@ da caixa
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bolsa-capuchinho-vermelho-671005722-brincatoys-1178692811.jpg?v=1752827894
   Price: 16,99 € EUR
 - [Bolsa de pescoço Princesa](https://brincatoys.pt/products/bolsa-de-pescoco-princesa-lilliee): Linda bolsa de pescoço com cordão. Com estampagem dourada e bordado detalhado. Tudo o que precisa estar seguro e à mão quando estiveres em movimento pode ser encontrado aqui.
-  Updated: 2025-08-30T14:22:35Z
+  Updated: 2025-09-22T19:13:12Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -4967,7 +4967,7 @@ todo o mundo, embora o leopardo africano seja de longe o mais difundido.Figura e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/livro-de-banho-magico-810470822-brincatoys-1178694201.jpg?v=1752852486
   Price: 8,99 € EUR
 - [Livro de Banho Quinta](https://brincatoys.pt/products/livro-de-banho-quinta): Hoje é dia de grande lavagem na fazenda! A avó não só lava as roupas, mas também o porco, a vaca e o cavalo são devidamente lavados. Quando tocado com água morna, todas as manchas desaparecem rapidamente.  Dimensão: 14 x 14 x 2 cm.Idade Recomendada. + de 6 meses.
-  Updated: 2025-08-21T00:14:08Z
+  Updated: 2025-09-22T19:00:03Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -5560,7 +5560,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/monopoly-guerra-dos-tronos-171741118-5600126457303-monopoly-1178694383.jpg?v=1752814088
   Price: 39,99 € EUR
 - [Monopoly Notas Falsas](https://brincatoys.pt/products/monopoly-notas-falsas): O jogo Monopoly Notas Fasas a jogabilidade clássica do Monopoly com a inovação do dispositivo de Mr. Monopoly que deteta notas falsas. Quando um jogador faz um pagamento, os oponentes podem usar o dispositivo que com um símbolo oculto revela se a nota é falsa ou real. Se for falsa, o jogador fica com ela. As cartas da Sorte também podem ser falsas!
-  Updated: 2025-08-21T00:13:34Z
+  Updated: 2025-09-22T16:41:05Z
   Vendor: Monopoly
   Product Type: + 8 anos
   Availability: Available
@@ -8400,7 +8400,7 @@ Figura com aproximadamente 8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/roca-gnomo-81395318-brincatoys-1178695320.png?v=1752872282
   Price: 9,99 € EUR
 - [Roca Mordedor Girafa Sofia Colo'rings 100% hévea natural](https://brincatoys.pt/products/roca-mordedor-girafa-sofia-colorings-100-hevea-natural): Este colorido anel de dentição da girafa Sophie tem diferentes texturas para favorecer a dentição do bebé e é feito de borracha 100% natural da árvore Hevea, além de pintado com tinta alimentar, uma alternativa totalmente natural para crianças. Os pais vão adorar as suas múltiplas cores, então escolha este grande presente para o seu filho.      Dim
-  Updated: 2025-09-16T22:32:09Z
+  Updated: 2025-09-22T19:00:03Z
   Vendor: Girafa Sofia
   Product Type: Girafa Sofia
   Availability: Available
@@ -9361,7 +9361,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vampirina-231345018-brincatoys-1178695627.jpg?v=1752877582
   Price: 9,50 € EUR
 - [Vampirina Demi](https://brincatoys.pt/products/vampirina-demi): Figura de borracha termoplástica da série Vampirina. A figura mede aproximadamente 6 cm.  Dimensão: 6 x 0 x 0 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:09:02Z
+  Updated: 2025-09-22T19:48:39Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -12521,7 +12521,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ford-mustang-hardtop-2015-683119723-brincatoys-1178696962.jpg?v=1752902654
   Price: 54,99 € EUR
 - [Boneca Tita Tutu](https://brincatoys.pt/products/boneca-tita-tutu): Tita é uma menina doce com uma expressão sonhadora e lindas tranças loiras. Ela veste um fantástico tutu rosa com estrelas prateadas e quer ser bailarina. Sapatos cor-de-rosa e uma elegante camisola decorada dão-lhe um toque ainda mais chique! Cabeça e membros macios em vinil da mais alta qualidade, sem ftalatos e com um aroma muito delicado de bau
-  Updated: 2025-09-08T20:50:20Z
+  Updated: 2025-09-22T19:13:25Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -15007,7 +15007,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-skar-king-com-chicote-de-ossos-233930524-0043377352051-godzilla-vs-kong-1178698537.jpg?v=1752928443
   Price: 19,99 € EUR
 - [Godzilla x Kong - Godzilla Evoluído com raio de calor](https://brincatoys.pt/products/godzilla-x-kong-godzilla-evoluido): Retorne à Hollow Earth com Godzilla e Kong em uma aventura totalmente nova! Quando uma ameaça colossal é descoberta em nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência – e a nossa. O Godzilla x Kong - Godzilla Evolved, com aproximadamente 15 cm, traz o Rei dos Monstros para a sua coleção, com novos detalhes épicos que capturam a sua forma evoluída. Desperte o monstro interior com o novo Godzilla x Kong - Godzilla Evoluído com raio de calor, uma verdadeira maravilha colecionável que promete deslumbrar fãs e entusiastas. Primeiramente, este fascinante produto captura a essência épica da rivalidade lendária entre duas das maiores forças da natureza. A figura articulada apresenta detalhes intrincados que refletem a poderosa estatura de Godzilla, com texturas que simulam a pele escamosa do icónico Rei dos Monstros. Além disso, esta edição especial inclui uma característica absolutamente eletrizante: um raio de calor que pode ser acoplado à boca de Godzilla para recriar as suas famosas cenas de batalha. As crianças e coleccionadores poderão recriar os embates memoráveis de Godzilla x Kong"ou criar os próprios cenarios, dando asas à imaginação. Adicionalmente, a figura é feita com materiais de alta qualidade garantindo durabilidade e resistência, tornando-a perfeita tanto para brincadeiras ativas quanto para exposição em prateleiras. O produto é projetado para ser manuseado facilmente, com pontos de articulação que permitem posicionar Godzilla em várias poses ameaçadoras. Este aspecto é fundamental, pois contribui para uma experiência de jogo ou exibição mais dinâmica e versátil. Faça a sua compra e receba em casa este símbolo de força e poder que é o Godzilla Evoluído. Esta figura será um acréscimo valioso para qualquer coleção. Em suma... Figura colecionável de Godzilla com detalhes intrincados e textura realista. Inclui raio de calor removível para recriação de cenas icónicas. Materiais duráveis e pontos de articulação para variadas poses. Embalagem colecionável vibrante e atraente. Dimensão: 19 x 23 x 7,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-21T11:28:10Z
+  Updated: 2025-09-22T19:13:17Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15504,7 +15504,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ford-gt-2021-heritage-edition-683139025-8719247697349-brincatoys-1178699025.jpg?v=1752934701
   Price: 57,90 € EUR
 - [Brinquedo para bebé peluche de actividades Elefante](https://brincatoys.pt/products/peluche-de-actividades-elefante): Descubra o Brinquedo para bebé peluche de actividades Elefante! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-09-19T11:19:53Z
+  Updated: 2025-09-22T19:00:08Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -16134,7 +16134,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pistola-nerf-elite-2-0-prospect-qs-4-brinquedo-para-acao-55419025-5010993948031-nerf-1178699574.jpg?v=1752943931
   Price: 12,99 € EUR
 - [Pistola Nerf - Elite 2.0 Commander RD-6 – Ação e Precisão](https://brincatoys.pt/products/nerf-elite-2-0-commander-rd-6): Descubra o poder da Pistola Nerf Elite 2.0 Commander RD-6, a escolha ideal para aventuras épicas! Com tambor giratório, alta capacidade de alcance,.
-  Updated: 2025-09-18T22:32:11Z
+  Updated: 2025-09-22T19:25:30Z
   Vendor: Nerf
   Product Type: Nerf
   Availability: Available
@@ -16260,7 +16260,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-little-susi-loira-40-cm-companheira-perfeita-36393024-8435054339301-brincatoys-1178699684.jpg?v=1752945245
   Price: 42,50 € EUR
 - [Boneca Tita Lana Ruiva  45 cm - Companheira elegante](https://brincatoys.pt/products/boneca-tita-lana-ruiva-45-cm): Boneca Tita Lana Ruiva 45 cm para um presente inesquecível. Charme realista, moda requintada e diversão duradoura reunidos num só produto!
-  Updated: 2025-09-02T17:15:05Z
+  Updated: 2025-09-22T19:13:33Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -16546,13 +16546,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-revuelto-laranja-a-escala-1-24-132110624-4893993211067-bburago-1178699960.jpg?v=1752790808
   Price: 23,50 € EUR
-- [Carro de Brincar Porsche 911 RSR Le Mans Race 2020](https://brincatoys.pt/products/carro-de-brincae-porsche-911-rsr): Carro de brincar Porsche 911 RSR Le Mans Race 2020. Traga a emoção das pistas de corrida para a sua casa! Modelo DETALHADO à escala 1:24.
-  Updated: 2025-09-16T10:27:55Z
-  Vendor: Bburago
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-911-rsr-le-mans-race-2020-682801624-bburago-1178699968.jpg?v=1752948257
-  Price: 29,99 € EUR
 - [Carro de brincar Iveco Daily com Subaru WRX](https://brincatoys.pt/products/icarro-de-brincar-veco-daily-com-subaru-wrx): Encante-se com o carro de brincar Iveco Daily com Subaru WRX! Perfeito para brincadeiras imaginativas cheias de ação e aventura.
   Updated: 2025-08-21T00:00:06Z
   Vendor: Bburago
@@ -18570,7 +18563,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-43256-aventura-de-treno-da-anna-diversao-664325625-5702017813950-lego-1178701481.jpg?v=1752971890
   Price: 44,50 € EUR
 - [Lego Disney 43261 -  Mini Casa de Encanto Criativa](https://brincatoys.pt/products/lego-disney-mini-casa-de-encanto): Entre no mundo mágico com o LEGO Disney 43261 - Mini Casa de Encanto! Com minifiguras e detalhes encantadores, crie suas próprias aventuras!
-  Updated: 2025-09-16T20:13:11Z
+  Updated: 2025-09-22T17:46:56Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -20012,7 +20005,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-vaiana-copia-772312723-princesas-disney-1178697759.jpg?v=1752913682
   Price: 39,99 € EUR
 - [Brinquedo para Bebé - Telefone Unicórnio](https://brincatoys.pt/products/telefone-unicornio-copiar-copia): Explore o brinquedo para Bebé - Telefone Unicórnio. Brinquedo, que estimula a aprendizagem sensorial e motora com luzes e sons divertidos!
-  Updated: 2025-09-16T10:27:41Z
+  Updated: 2025-09-22T18:59:56Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -20285,7 +20278,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T09:34:26Z
   Total Products: 206
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-09-19T14:43:59Z
+  Updated: 2025-09-22T19:12:44Z
   Total Products: 155
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-09-21T11:40:50Z
@@ -20312,7 +20305,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:40:50Z
   Total Products: 333
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-22T15:11:34Z
+  Updated: 2025-09-22T19:12:44Z
   Total Products: 1527
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-21T14:45:25Z
@@ -20336,20 +20329,20 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T15:11:05Z
   Total Products: 2384
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 2828
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 2827
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3207
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3206
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3332
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3331
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3409
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3408
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3454
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3453
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-09-21T19:51:16Z
   Total Products: 359
@@ -20540,8 +20533,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3482
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3481
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-21T14:45:24Z
   Total Products: 285
@@ -20552,8 +20545,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:19:01Z
   Total Products: 114
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-22T15:11:34Z
-  Total Products: 1156
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 1155
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-21T14:45:25Z
   Total Products: 457
@@ -20576,11 +20569,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T11:18:02Z
   Total Products: 65
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3484
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3483
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 3484
+  Updated: 2025-09-22T19:13:51Z
+  Total Products: 3483
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-21T11:18:20Z
   Total Products: 24
@@ -20591,17 +20584,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 2992
+  Updated: 2025-09-22T17:47:26Z
+  Total Products: 2993
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-09-17T21:52:37Z
+  Updated: 2025-09-22T19:12:44Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-22T15:11:05Z
-  Total Products: 2992
+  Updated: 2025-09-22T17:47:26Z
+  Total Products: 2993
 
 ## Blogs
 
