@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-21T20:00:44.488Z
+- Updated At: 2025-09-22T04:00:44.941Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1018,7 +1018,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £115.00 GBP
 - [Gold Rose Quartz Cocktail Ring | Pink Stone Ring Lily Blanche](https://www.lilyblanche.com/products/rose-quartz-cocktail-ring-gold): This rose quartz gemstone ring has fabulous clarity, depth of colour and luminosity. This pink stone ring makes a perfect birthday gift. Free shipping and 90 day returns.
-  Updated: 2025-09-13T16:52:17Z
+  Updated: 2025-09-21T20:42:55Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
@@ -17969,7 +17969,7 @@ From £119
     Availability: Available
     Price: £455.00 GBP
 - [Solid White Gold Rope Chain](https://www.lilyblanche.com/products/solid-white-gold-rope-chain): This solid 9-carat white gold Prince of Wales rope chain will add interest and texture to any look. Available in 5 lengths. The perfect gift, the rope chain comes with a complimentary jewellery care kit. Shop solid white gold chains today.
-  Updated: 2025-09-19T11:28:47Z
+  Updated: 2025-09-21T21:57:17Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -23123,7 +23123,7 @@ From £150
     Availability: Available
     Price: £215.00 GBP
 - [Handcrafted 9 Carat Solid Gold Belcher Chain | UK Investment Jewellery |](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted): 9 carat solid gold belcher chain, UK hallmarked. Timeless investment piece perfect for layering or wearing alone. Durable, elegant & versatile. Free UK delivery.
-  Updated: 2025-09-17T11:40:00Z
+  Updated: 2025-09-21T20:50:30Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
