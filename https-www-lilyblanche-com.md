@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-22T04:00:44.941Z
+- Updated At: 2025-09-22T08:00:47.380Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -17733,7 +17733,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £415.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-09-17T11:12:15Z
+  Updated: 2025-09-22T07:41:15Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23105,7 +23105,7 @@ GBP 340
     Price: £270.00 GBP
 - [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
 From £150
-  Updated: 2025-09-21T07:07:11Z
+  Updated: 2025-09-22T06:53:01Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
