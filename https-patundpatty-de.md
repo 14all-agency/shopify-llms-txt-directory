@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-22T16:00:31.260Z
+- Updated At: 2025-09-23T00:00:30.924Z
 
 ## Products
 
@@ -1318,13 +1318,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schnuffeltuch_Schaf_-_PAT_PATTY-4832546.jpg?v=1730653168
     Price: 30,50 € EUR
 - [Personalisiertes Bio Schmusetuch Löwe – weich & nachhaltig | PAT&PATTY](https://patundpatty.de/products/bio-schnuffeltuch-loewe): Personalisiertes Bio Schmusetuch Löwe – weich, schadstofffrei & handgemacht. Perfekt als Geschenk. Jetzt bei PAT&PATTY entdecken und bestellen!
-  Updated: 2025-09-12T09:21:57Z
+  Updated: 2025-09-22T18:06:40Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Baby-Schnuffeltuch-Mit-Loewenmotiv-Hergestellt-Von-PAT-Und-PATTY.jpg?v=1752568509
   - [Bio Schmusetuch nicht personalisiert / ohne](https://patundpatty.de/products/bio-schnuffeltuch-loewe?variant=45518435385612)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Weiches-Bio-Schmusetuch-Loewe-Fuer-Babys-Von-PAT-Und-PATTY.jpg?v=1752568566
     Price: 22,50 € EUR
   - [Bio Schmusetuch nicht personalisiert / mit](https://patundpatty.de/products/bio-schnuffeltuch-loewe?variant=45602539241740)
@@ -1913,7 +1913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-22T07:38:02Z
+  Updated: 2025-09-22T17:57:30Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
