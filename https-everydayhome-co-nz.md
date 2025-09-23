@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-23T00:00:33.551Z
+- Updated At: 2025-09-23T04:00:35.736Z
 
 ## Products
 
@@ -998,7 +998,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $46.99 NZD
 - [Sticks Multi Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-15T04:07:10Z
+  Updated: 2025-09-23T01:45:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1460,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Pepper-Black-0.png?v=1727659263
   Price: $83.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Grey](https://everydayhome.co.nz/products/foldable-steaming-board-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-09-21T01:07:06Z
+  Updated: 2025-09-23T00:41:47Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1754,7 +1754,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $407.99 NZD
 - [Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-09-16T17:07:11Z
+  Updated: 2025-09-23T02:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3322,7 +3322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_25L-Grey-8710755129940Brabantia_96dpi_1000x1000px_7_NR-21429.png?v=1734562382
   Price: $89.99 NZD
 - [Brabantia Sort & Go Waste Bin - 16L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-16l-grey): Collecting empty packaging, bottles, or cans separately? Make it easy on yourself, organise it all with this 16 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Sort & go!
-  Updated: 2025-09-11T07:37:12Z
+  Updated: 2025-09-23T02:52:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3357,7 +3357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/StackableGlassJar_1.1L-Transparent-8710755298264Brabantia_96dpi_1000x1000px_7_NR-1813.png?v=1734562896
   Price: $26.99 NZD
 - [Brabantia Protective Clothes Cover - Large Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-lge-trans-gry): Looking for a good-looking solution to keep your coat or dress looking good? Then this set of two 60 x 135 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size L protect your clothes from dust and moths.
-  Updated: 2025-09-17T23:07:10Z
+  Updated: 2025-09-23T01:24:45Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4679,7 +4679,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverC_124x45cm-DenimGrey_96dpi_2000x2000px_9_NR-35854.jpg?v=1756267845
   Price: $39.99 NZD
 - [Brabantia Ironing Board Cover C - New Dawn](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-c-new-dawn): Need a fresh take on ironing? Just dress your Brabantia Ironing Board C in this new cover. This 100% cotton top layer is Fairtrade certified, durable and practical - the perfect match to your ironing board. Smooth!
-  Updated: 2025-09-08T23:09:44Z
+  Updated: 2025-09-23T00:57:55Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
