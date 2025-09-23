@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-23T00:00:27.775Z
+- Updated At: 2025-09-23T08:00:29.093Z
 
 ## Products
 
@@ -109,7 +109,7 @@
     Availability: Available
     Price: 25,50 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-maison-d-epicea-bio-decouvrez-nos-recettes-incroyables-copie): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-22T19:35:32Z
+  Updated: 2025-09-23T07:34:35Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
