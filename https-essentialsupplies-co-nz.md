@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-23T12:00:38.000Z
+- Updated At: 2025-09-23T16:00:37.986Z
 
 ## Products
 
@@ -7469,7 +7469,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/prestretch-hand-stretch-film-clear-450mm-x-600m-x-6mu-4-rolls-extended-core-hand-stretch-film-essential-supplies-387846.jpg?v=1719445785
   Price: $59.00 NZD
 - [Prestretch Hand Stretch Film - Clear, 450mm x 400m x 9mu - 4 Rolls - *Extended Core](https://essentialsupplies.co.nz/products/prestretch-hand-stretch-film-clear-450mm-x-400m-x-9mu-4-extended-core): Nano grade hand stretch film is a high quality 9 micron, cost effective packaging solution. The pre stretched film is lightweight and easy to use. The clear finish enables simple scanning of barcodes through the packaging. Quiet roll unwinding for minimised disturbance. Great for freight, logistics and manufacturing with a roll size of 450mm wide by 400m long.
-  Updated: 2025-01-09T18:24:14Z
+  Updated: 2025-09-23T14:04:25Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
