@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-23T00:00:37.838Z
+- Updated At: 2025-09-23T04:00:39.385Z
 
 ## Products
 
@@ -6931,7 +6931,7 @@
   Availability: Available
   Price: $23.00 NZD
 - [Pistol Grip Magnet Dual Tape Dispenser - Blue/Black, 76mm + 25mm Core / 48mm Wide - 1 Dispenser](https://essentialsupplies.co.nz/products/pistol-grip-magnet-dual-tape-dispenser-blue-black-76mm-25mm-core-48mm-wide-1): General purpose pistol grip tape dispenser with a durable plastic and metal construction. Featuring a contoured pistol grip with adjustable tape tension control to reduce fatigue. Designed for fast and easy dispensing to increase high volume use productivity.
-  Updated: 2025-02-13T15:45:47Z
+  Updated: 2025-09-23T01:41:22Z
   Vendor: Mattews Packaging
   Product Type: Tape Dispensers
   Availability: Available
