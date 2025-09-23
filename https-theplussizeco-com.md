@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-23T08:00:29.145Z
+- Updated At: 2025-09-23T12:00:29.109Z
 
 ## Products
 
@@ -171,7 +171,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Mulberry_Wine_Floral_Night_Gown_6.jpg?v=1755846818
   Price: ₹794.00 INR
 - [Plus Size Peacock Floral Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/peacock-floral-rayon-night-gown): Every night feels cozy with our Peacock Floral Rayon Night Gown With Pocket. Features rayon fabric and half sleeves. Sizes in XL to 10XL.
-  Updated: 2025-09-22T06:04:50Z
+  Updated: 2025-09-23T09:30:21Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
@@ -329,7 +329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Soft_Pink_Striped_Co-ord_Set_With_Pockets_6.jpg?v=1753078707
   Price: ₹1,195.00 INR
 - [Plus Size Tangy Printed Co-ord Set with Cargo Pants - The Plus Size Co.](https://theplussizeco.com/products/tangy-printed-co-ord-set-with-cargo-pants): Spice up your style with our Tangy Printed Co-ord Set with Cargo Pants. features polyester fabric and collar neckline. Pair with pant. Sizes in XL to 10XL.
-  Updated: 2025-09-07T16:17:17Z
+  Updated: 2025-09-23T09:34:31Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
@@ -763,8 +763,8 @@
   Updated: 2025-09-12T05:32:31Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2025-09-20T11:29:22Z
-  Total Products: 38
+  Updated: 2025-09-23T11:58:57Z
+  Total Products: 57
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
   Updated: 2025-09-18T11:18:11Z
   Total Products: 8
