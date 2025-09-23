@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-23T04:00:35.736Z
+- Updated At: 2025-09-23T08:00:36.160Z
 
 ## Products
 
@@ -3378,7 +3378,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/GroundSpikeMetal_Size3_O50mm-Galvanized-8710755311468Brabantia_96dpi_1000x1000px_7_NR-1855.png?v=1734403540
   Price: $24.99 NZD
 - [Brabantia Protective Clothes Cover - Medium Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-med-trans-gry): For anyone that wants a good-looking solution for keeping their clothes looking good, this set of two 60 x 100 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size M protect your blouses and shirts from dust and moths.
-  Updated: 2025-09-20T02:37:05Z
+  Updated: 2025-09-23T04:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3542,7 +3542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Screenshot2024-06-27115015.png?v=1746478922
     Price: $940.99 NZD
 - [SwiftDry Lifestyle Colonial Airer - Black (3 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-colonial-clothes-airer-1-8-meter): The traditional Lifestyle Colonial Clothes Airer was one of the early designs of its kind made and distributed in New Zealand for the Ceiling mounted clothes drying rack, and it’s sleek, compact, design and ease of use has made it a much loved addition to thousands of New Zealand homes. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Featuring Antique powder coated aluminium end brackets hand-cast in the traditional way, and the four wooden rails are crafted from imported kiln-dried American White Ash, specially selected for its straight, beautiful grain and warp-resistant stability. The rails are supplied fine sanded and ready to use but can be stained and clear-coated by the purchaser to match existing décor if required. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES 2x powder coated aluminium end brackets Pulleys and screw mounting hooks 10m length of braided sash cord with cleat hook and screws (15m available for high ceilings) Easy DIY assembly instructions 30 day money back guarantee 30 yr Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Soft, easy to handle braided pulley cord Length: 1.2m / 1.8m / 2.4m Width: 500mm Rack End Colour Options: Black Weight: approx. 5kg ALSO AVAILABLE AT: Mitre 10 Mega Hornby - ChristchurchMitre 10 Mega Papanui - Christchurch
-  Updated: 2025-09-14T23:00:45Z
+  Updated: 2025-09-23T07:42:42Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
