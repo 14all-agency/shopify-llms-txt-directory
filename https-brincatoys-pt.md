@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-23T08:01:05.863Z
+- Updated At: 2025-09-23T12:01:07.708Z
 
 ## Products
 
@@ -7046,9 +7046,9 @@ O princípio lúdico único da Playmobil estimula a imaginação e a criatividad
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-policia-mochila-propulsora-detencao-ladrao-70782-657078222-playmobil-1178694877.jpg?v=1752864982
   Price: 21,99 € EUR
 - [Playmobil Quarto Real 70453](https://brincatoys.pt/products/playmobil-quarto-real): No quarto Real da Playmobil é hora de dormir! As princesas relaxam nas suas confortáveis camas. Com toucador, camisa de dormir, jóias e gati
-  Updated: 2025-08-21T00:11:54Z
+  Updated: 2025-09-23T11:35:22Z
   Vendor: Playmobil
-  Product Type: + 4 anos
+  Product Type: Playmobil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-quarto-real-70453-657045321-playmobil-1178694879.png?v=1752865206
   Price: 23,50 € EUR
@@ -12024,7 +12024,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-camping-commotion-82501623-2600000-brincatoys-1178696740.jpg?v=1752898461
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Business as Usual!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-business-as-usual): O mundo dos negócios de alta pressão há muito tempo que gira à volta de escritórios elegantes e modernos com a tecnologia mais recente e funcionários elegantemente vestidos, apresentand  gráficos e números na ponta dos dedos. .... até 2020. Depois dessa data alterou a vida profissional de cabeça para baixo. O escritório de hoje ainda pode contar co
-  Updated: 2025-09-19T22:07:06Z
+  Updated: 2025-09-23T11:02:31Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -14328,7 +14328,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishville-mini-squishmallows-esquadrao-gastronomico-23047424-squishville-1178698055.jpg?v=1752918728
   Price: 28,90 € EUR
 - [Squishville Mini Squishmallows Esquadrão Universitário](https://brincatoys.pt/products/squishmallows-esquadrao-universitario): Descubra os adoráveis Squishville Mini Squishmallows Esquadrão Universitário. Conheça estas fofuras de peluche que encantam pela suavidade e design único,
-  Updated: 2025-08-21T00:02:52Z
+  Updated: 2025-09-23T08:07:06Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -20167,7 +20167,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T10:24:53Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-09-21T11:28:11Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 569
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-09-17T16:19:30Z
@@ -20233,7 +20233,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T18:50:08Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-09-19T20:28:22Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 245
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
@@ -20275,7 +20275,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:30:16Z
   Total Products: 47
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-22T09:34:26Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 206
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-22T19:12:44Z
@@ -20305,11 +20305,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:40:50Z
   Total Products: 333
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-22T19:12:44Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 1527
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-09-21T14:45:25Z
-  Total Products: 689
+  Updated: 2025-09-23T11:35:44Z
+  Total Products: 688
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-09-19T18:55:06Z
   Total Products: 319
@@ -20323,28 +20323,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:20Z
   Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-21T18:43:30Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 1298
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-22T15:11:05Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 2384
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 2827
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3206
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3331
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3408
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3453
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-21T19:51:16Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 359
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
@@ -20371,7 +20371,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-20T23:28:53Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-09-21T18:43:30Z
+  Updated: 2025-09-23T09:48:42Z
   Total Products: 34
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-09-09T10:07:25Z
@@ -20449,7 +20449,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-31T17:42:37Z
   Total Products: 1
 - [Hot Wheels](https://brincatoys.pt/collections/hot-wheels)
-  Updated: 2025-09-16T10:29:20Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 30
 - [LEGO](https://brincatoys.pt/collections/lego)
   Updated: 2025-09-19T11:19:01Z
@@ -20491,10 +20491,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:31:39Z
   Total Products: 14
 - [Playmobil](https://brincatoys.pt/collections/playmobil)
-  Updated: 2025-09-19T20:28:22Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 134
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-09-14T16:32:11Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 101
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-08-26T09:43:20Z
@@ -20533,7 +20533,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3481
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-21T14:45:24Z
@@ -20545,11 +20545,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:19:01Z
   Total Products: 114
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 1155
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-09-21T14:45:25Z
-  Total Products: 457
+  Updated: 2025-09-23T11:35:44Z
+  Total Products: 456
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-09-21T11:16:00Z
   Total Products: 134
@@ -20569,13 +20569,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T11:18:02Z
   Total Products: 65
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3483
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-22T19:13:51Z
+  Updated: 2025-09-23T11:35:15Z
   Total Products: 3483
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
-  Updated: 2025-09-21T11:18:20Z
+  Updated: 2025-09-23T11:22:02Z
   Total Products: 24
 - [Godzilla vs Kong](https://brincatoys.pt/collections/godzilla-vs-kong)
   Updated: 2025-09-21T11:28:46Z
@@ -20584,8 +20584,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-22T17:47:26Z
-  Total Products: 2993
+  Updated: 2025-09-23T11:35:44Z
+  Total Products: 2992
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20593,8 +20593,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T19:12:44Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-22T17:47:26Z
-  Total Products: 2993
+  Updated: 2025-09-23T11:35:44Z
+  Total Products: 2992
 
 ## Blogs
 
