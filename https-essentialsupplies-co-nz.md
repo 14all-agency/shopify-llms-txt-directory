@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-23T08:00:39.223Z
+- Updated At: 2025-09-23T12:00:38.000Z
 
 ## Products
 
@@ -3231,7 +3231,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/white-towelling-rags-white-100kg-compressed-bag-1-bag-a-grade-quality-rags-essential-supplies-986022.jpg?v=1719445924
   Price: $63.00 NZD
 - [Centre Feed Dispenser - Transparent, 1 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/centre-feed-dispenser-transparent-1-roll-capacity-1): Transparent centre feed towel dispensers are a low cost hygienic dispensing solution, ensuring no cross contamination when cleaning. Compatible with centre feed perforated paper towels Colour: White/Transparent
-  Updated: 2025-02-09T07:39:57Z
+  Updated: 2025-09-23T11:14:56Z
   Vendor: Mattews Packaging
   Product Type: Roll Towel Dispensers
   Availability: Available
