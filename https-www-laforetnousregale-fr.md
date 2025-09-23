@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-23T12:00:28.650Z
+- Updated At: 2025-09-23T16:00:28.966Z
 
 ## Products
 
