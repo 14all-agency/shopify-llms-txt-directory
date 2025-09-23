@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-23T00:00:28.326Z
+- Updated At: 2025-09-23T08:00:29.145Z
 
 ## Products
 
@@ -301,7 +301,7 @@
     Availability: Available
     Price: ₹694.00 INR
 - [Plus Size Creme Floral Collared Co-ord Set with Pockets - The Plus Size Co.](https://theplussizeco.com/products/creme-floral-collared-co-ord-set-with-pockets): Soft crème hues meet floral grace with our Creme Floral Collared Co-ord Set with Pockets. Features modal fabric and collar neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-04T13:16:50Z
+  Updated: 2025-09-23T05:40:51Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
