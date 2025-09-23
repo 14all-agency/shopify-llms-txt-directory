@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-22T16:00:36.735Z
+- Updated At: 2025-09-23T00:00:33.551Z
 
 ## Products
 
@@ -431,7 +431,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Magino-Stool-with-Magazine-Rack-Clear-8.jpg?v=1727659783
   Price: $475.99 NZD
 - [Brabantia WallFix Retractable Clothesline with Protective Cover - 24m Metallic Grey](https://everydayhome.co.nz/products/brabantia-wallfix-retractable-clothesline-24m-with-protection-cover-metallic-grey): Wallfix  Dryer, 24M, W/Cover, Metallic Grey
-  Updated: 2025-09-15T21:52:11Z
+  Updated: 2025-09-22T21:52:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -872,7 +872,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Pillar-Stool-Coatrack-White-Natural-0.jpg?v=1727659230
   Price: $280.99 NZD
 - [Flapper Coat Rack - Black/Walnut](https://everydayhome.co.nz/products/flapper-coat-rack-black-walnut): This wooden coat rack stands tall and sleek with nine flip-down hooks, offering ample storage with the ability to tuck away when not in use. Made of wood, Flapper has a tree-like aesthetic, while being entirely modern. Available in a variety of modern finishes, Flapper is sleek in design while keeping ample utility.
-  Updated: 2025-09-08T23:13:31Z
+  Updated: 2025-09-22T19:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -991,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Black-9.jpg?v=1727660014
   Price: $46.99 NZD
 - [Sticks Multi Hook - Espresso](https://everydayhome.co.nz/products/sticks-multi-hook-espresso): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-14T08:37:10Z
+  Updated: 2025-09-22T23:37:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1901,7 +1901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-21-5-25-4cm-Skillet-Twi-2.jpg?v=1731902829
   Price: $212.99 NZD
 - [Circulon Scratchdefense A1 - 21.5cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5cm-open-skillet): Cook with complete confidence using this dishwasher-safe 21.5cm frying pan with a triple-layer nonstick cooking surface that lasts 130X longer than the competition and stands up to laboratory tests simulating 200+ years of daily wear and tear. An aluminium core delivers fast, all-over heat delivery and a thick, induction-suitable stainless steel base boosts durability and heat retention.
-  Updated: 2025-09-12T02:07:05Z
+  Updated: 2025-09-22T21:22:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1915,7 +1915,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-24cm-7-6L-Covered-Stock-7.jpg?v=1731901999
   Price: $275.99 NZD
 - [Circulon Scratchdefense A1 - 25.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-25-4cm-open-skillet): Cook with complete confidence using this dishwasher-safe 25.4cm frying pan with a triple-layer nonstick cooking surface that lasts 130X longer than the competition and stands up to laboratory tests simulating 200+ years of daily wear and tear. An aluminium core delivers fast, all-over heat delivery and a thick, induction-suitable stainless steel base boosts durability and heat retention.
-  Updated: 2025-09-09T23:07:28Z
+  Updated: 2025-09-22T21:22:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1929,14 +1929,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-28cm-4-7L-Covered-Saute-7.jpg?v=1731902661
   Price: $254.99 NZD
 - [Circulon Scratchdefense A1 - 30.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-30-4cm-open-skillet): Discover culinary excellence with the Circulon Open Skillet in 30.4cm. This premium skillet is your key to exceptional cooking. Its versatile size makes it perfect for searing succulent steaks, sautéing fresh veggies, and whipping up delightful omelettes. Crafted for even heat distribution, it ensures every dish is a masterpiece.
-  Updated: 2025-09-18T04:22:10Z
+  Updated: 2025-09-22T21:22:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-30-4cm-Open-Skillet-Cir-2.jpg?v=1731903168
   Price: $186.99 NZD
 - [Circulon Scratchdefense A1 - 34cm Open Stirfry](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-34cm-open-stirfry-w-hh): The Open Stirfry with Helper Handle is your culinary companion for mastering the art of stir-frying. This premium kitchen essential boasts a generous 34cm diameter and a convenient helper handle for effortless manoeuvring.
-  Updated: 2025-09-16T17:07:12Z
+  Updated: 2025-09-22T21:22:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2076,7 +2076,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-20-26cm-Skillet-Twin-Pack-Esst-4.jpg?v=1731902220
   Price: $339.99 NZD
 - [Essteele Per Domani - 20cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-domani-20cm-open-french-skillet): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 20cm skillet is perfect for side dishes and single-serve meals, providing frying and searing perfection. The European look will complement any kitchen while the super-hard and durable nonstick provides fat-free cooking and effortless clean-up.
-  Updated: 2025-09-15T02:52:10Z
+  Updated: 2025-09-22T21:22:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2335,7 +2335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $14.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-21T18:52:14Z
+  Updated: 2025-09-22T22:37:06Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2419,7 +2419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Leana-Ladder-Rack-Black-UMBRA-7.jpg?v=1731902232
   Price: $131.99 NZD
 - [Leana Ladder Rack - White](https://everydayhome.co.nz/products/leana-ladder-rack-white): Both decorative and functional, Leana Ladder features solid wood posts and 4 metal bars, providing you room to store blankets, clothes, towels and more. Easy to assemble, Leana provides a modern storage solution that can be used in a variety of rooms in your home. With a solid wood construction and powder-coated steel, this innovative storage solution is the ideal towel rack, blanket rack, or clothing organizer.
-  Updated: 2025-09-08T23:15:06Z
+  Updated: 2025-09-22T17:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3364,7 +3364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_L_setof2-Transparent-8710755148941Brabantia_96dpi_1000x1000px_7_NR-26291.png?v=1733802901
   Price: $23.99 NZD
 - [Brabantia Ground Spike Metal - 45mm Silver](https://everydayhome.co.nz/products/metal-soil-spear-45mm-silver): Keep your Brabantia rotary dryer in place with this smart metal ground spike – for anyone that wants sturdy anchorage without concrete. The spike has a closable cap and is made of galvanised steel plate, so corrosion resistant too.
-  Updated: 2025-09-17T22:07:11Z
+  Updated: 2025-09-22T21:52:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3865,7 +3865,7 @@
     Availability: Available
     Price: $445.99 NZD
 - [SwiftDry SpinLine Rotary](https://everydayhome.co.nz/products/swiftdry-spinline-2-meter): The SwiftDry SpinLine Rotary Clothesline is the top of the line in Rotary Clotheslines, being a perfect fit for architectural homes, and a solid quality feel that you will appreciate everyday. We make the Spinline with heavy galvanised steel 3.6mm thick wall for the main pole, and the arms are made from 2mm thick wall galvinised steel. This is quite a statement when the industry standard for other rotary clotheslines is only 1mm steel wall on the main pole! We then Powder coat with Dulux Textura Black to finish, this gives it the elegant look that blends into and complements your home and outdoor landscape. The other very noticeable game changer with this model we designed here at SwiftDry, is that this is the only rotary clothesline available that does not have a tent pole like structure (or support arms) to hold the arms up, this is only possible because of the heavier duty steel use that can support itself. It does not have a winding handle hoist, instead it has 4 adjustable height positions 100mm apart, so you can set it to the height to suit you (around 100mm above head height is ideal) The lines are galvanised steel clothesline wire with 316 stainless steel turnbuckles (one for every line) that allow you to tension, or re-tension your lines at any stage without tools. It needs to be concreted into the ground, so it is not removable or foldable, so it is very strong and sturdy once installed It is available in 4 different diameters 2, 3, 4 or 5 meters overall. -Spinline 5 Meter = 64 meters of line space-Spinline 4 Meter = 40 meters of line space-Spinline 3 Meter = 22 meters of line space-Spinline 2 Meter = 11 meters of line space The best way to check what size you need is 1, How much washing do you have?2, Do you have limited space? Ideally you need at least 1 meter to spare around the edge of your SpinLine to allow it to spin freely without sheets and clothes getting caught on a bush/fence/shed close by. All SpinLines are Powder Coated Black, unless Custom Comes with our SwiftDry 30 year structural warranty, and free urban shipping NZ wide. Requires assembly on installation. Do you have further questions? Please contact us here
-  Updated: 2025-09-11T23:07:10Z
+  Updated: 2025-09-22T23:22:42Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -4182,7 +4182,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_12L-MetallicGold-8710755304446Brabantia_300dpi_2000x2000px_9_NR-20655.jpg?v=1754970564
   Price: $129.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Platinum](https://everydayhome.co.nz/products/pedal-bin-newicon-12l-platinum): A Brabantia Pedal Bin NewIcon 12 litre is a great way to pick up waste management. Small enough to hide under your worktop, stylish enough to put in plain sight. And of course this hygienic NewIcon pedal bin comes with an odour-proof, soft closing lid and nifty anti-tilting block. A timeless design and handy addition to your home office, hobby room or kid's room - or any other room that could use a winning bin!
-  Updated: 2025-09-08T23:10:24Z
+  Updated: 2025-09-22T22:22:09Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
