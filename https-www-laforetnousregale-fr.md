@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-23T08:00:29.093Z
+- Updated At: 2025-09-23T12:00:28.650Z
 
 ## Products
 
@@ -725,17 +725,18 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
     Updated: 2025-09-17T08:40:44Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, alimentation durable, biologique, champignon, cueillette, Découvertes, environnement, Etude, forêt comestible, Forêt nourricière, nature
-  - [Pourquoi l'Intelligence Artificielle Revolutionne l'Agroforesterie Moderne](https://www.laforetnousregale.fr/blogs/infos/pourquoi-lintelligence-artificielle-revolutionne-lagroforesterie-moderne): <p><meta charset="utf-8"><i>L'intégration de l'intelligence artificielle dans les systèmes agroforestiers marque une rupture technologique majeure. Avec un marché évalué à 4,7 milliards de dollars en 2024 et une croissance annuelle prévue de 26,3 pour cent, l'IA transforme radicalement la gestion des écosystèmes forestiers productifs en optimisant surveillance, prédiction et prise de décision.</i></p>
-    Updated: 2025-09-19T15:06:33Z
-    Author: Équipe Pacific Planet
-    Tags: agroforesterie, Analyse multispectrale, écosystémique, Gestion prédictive, modélisation, multispectraux, Surveillance écosystémique
-  - [Les Crédits Carbone Agroforestiers](https://www.laforetnousregale.fr/blogs/infos/les-credits-carbone-agroforestiers): <p><meta charset="utf-8"><i>Le marché volontaire des crédits carbone, évalué à 1,7 milliard de dollars en 2024 avec une projection de 15,7 milliards d'ici 2034, positionne l'agroforesterie comme un secteur stratégique de la lutte contre le changement climatique. Cette financiarisation de la séquestration carbone transforme les pratiques agricoles durables en actifs économiques valorisables.</i></p>
-    Updated: 2025-09-20T09:08:19Z
-    Author: Équipe Pacific Planet
   - [L'Agroforesterie Urbaine : Bouclier Vert Contre les Îlots de Chaleur](https://www.laforetnousregale.fr/blogs/infos/lagroforesterie-urbaine-bouclier-vert-contre-les-ilots-de-chaleur): <p><meta charset="utf-8"><i>Face à l'intensification des îlots de chaleur urbains, pouvant générer des écarts de température de 5 à 10 degrés Celsius entre centre-ville et périphérie</i></p>
     Updated: 2025-09-22T19:06:30Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, climat urbain, ecologue, Intégration dans la planification, politique, qualité de l'air, resilience, strategie
+  - [Blockchain et Traçabilité : La Révolution Numérique des Filières Agroforestières](https://www.laforetnousregale.fr/blogs/infos/blockchain-et-tracabilite-la-revolution-numerique-des-filieres-agroforestieres): <p><meta charset="utf-8"><meta charset="utf-8"><i>Le marché de la blockchain appliquée à l'agriculture et à l'alimentation, évalué à 302,8 millions de dollars en 2023 avec une croissance annuelle de 36,2 pour cent, transforme la traçabilité des produits agroforestiers. Cette technologie de registre distribué garantit transparence, authenticité et valorisation des pratiques durables tout au long des chaînes d'approvisionnement.</i><br></p>
+    Updated: 2025-09-23T10:51:33Z
+    Author: Équipe Pacific Planet
+    Tags: agroforesterie, alimentation durable, authenticité, blockchain, durable, traçabilité, transparence
+  - [COP29 et Agroforesterie : Nouveaux Paradigmes pour l'Action Climatique Mondiale](https://www.laforetnousregale.fr/blogs/infos/cop29-et-agroforesterie-nouveaux-paradigmes-pour-laction-climatique-mondiale): <p><meta charset="utf-8"><i>La COP29 tenue à Bakou a positionné l'agroforesterie comme solution climatique naturelle prioritaire pour atteindre les objectifs de l'Accord de Paris. </i></p>
+    Updated: 2025-09-23T11:17:07Z
+    Author: Équipe Pacific Planet
+    Tags: accord, agroforesterie, biodiversité, carbon, changement climatique, climat urbain, cop29, paris, résilience
 
 ## Store Pages
 
