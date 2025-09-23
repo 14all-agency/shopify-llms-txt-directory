@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-22T20:01:08.421Z
+- Updated At: 2025-09-23T00:01:03.638Z
 
 ## Products
 
@@ -14195,7 +14195,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-tyranitar-colecionavel-select-23241323-0191726402688-pokemon-1178697956.jpg?v=1752917166
   Price: 39,50 € EUR
 - [Figura Pokémon Cubone - Coleção Select](https://brincatoys.pt/products/figura-pokemon-cubone): Adquira a figura Pokémon Cubone em vinil, perfeita para colecionadores e fãs. Qualidade superior, design autêntico Compre já a sua!
-  Updated: 2025-08-21T00:03:00Z
+  Updated: 2025-09-22T20:28:30Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -17639,7 +17639,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-ken-da-barbie-dia-de-praia-acessorios-divertidos-851624324-0194735162437-barbie-1178700813.jpg?v=1752961572
   Price: 23,99 € EUR
 - [Pista de Carros Patrulha Pata Carrera First - Chase e Marshall](https://brincatoys.pt/products/pista-de-carros-patrulha-pata): Ofereça aos pequenos fãs da Patrulha Pata uma experiência cheia de adrenalina com a Pista de Carros Patrulha Pata Carrera First - Chase e Marshall.
-  Updated: 2025-09-18T21:56:02Z
+  Updated: 2025-09-22T22:34:09Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -17786,7 +17786,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76918-mclaren-solus-gt-e-mclaren-f1-667691824-5702017424224-lego-1178700948.jpg?v=1752963966
   Price: 49,99 € EUR
 - [Corrida de Bolas Pack Pastel 110 peças: Brinquedo Educativo](https://brincatoys.pt/products/corrida-de-bolas-pack-pastel-110-pecas): Descubra um mundo de diversão educativa com o Corrida de Bolas Pack Pastel 110 peças. Encaixes magnéticos em tons pastel para construir pistas emocionantes.
-  Updated: 2025-09-20T12:46:02Z
+  Updated: 2025-09-22T20:50:18Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
