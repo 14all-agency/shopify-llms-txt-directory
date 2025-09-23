@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-23T04:00:44.045Z
+- Updated At: 2025-09-23T08:00:45.995Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -10365,7 +10365,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Four Picture Heart Locket | High Quality Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-gold): Keep your loved ones close to your heart with this pretty four photo heart-shaped locket in 18 carat gold vermeil. The unique necklace can be personalised with four of your photos and engraved with a message. The charm locket is hallmarked in Edinburgh. Free locket photos & free shipping. Shop online today.
-  Updated: 2025-09-14T20:06:26Z
+  Updated: 2025-09-23T07:43:36Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
