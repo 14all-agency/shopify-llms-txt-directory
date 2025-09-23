@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-23T04:01:04.403Z
+- Updated At: 2025-09-23T08:01:05.863Z
 
 ## Products
 
@@ -8254,7 +8254,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-destiny-81916619-brincatoys-1178695271.png?v=1752810255
   Price: 15,99 € EUR
 - [Qianzhousaurus](https://brincatoys.pt/products/qianzhousaurus): Qianzhousaurus é uma género possível de fóssil de dinossauro da família Tyrannosauridae do Cretáceo Superior da China, entre 72 à 66 milhões de anos atrás. Sua espécie-tipo é denominada Qianzhousaurus sinensis. Seus restos fósseis foram encontrados na formação Nanxiong na província de Jiangxi.  Dimensão: 22,90 x 4,80 x 9 cm.Idade Recomendada: + de
-  Updated: 2025-08-21T00:10:29Z
+  Updated: 2025-09-23T06:50:56Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
