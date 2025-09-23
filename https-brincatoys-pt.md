@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-23T12:01:07.708Z
+- Updated At: 2025-09-23T16:01:06.892Z
 
 ## Products
 
@@ -8669,7 +8669,7 @@ da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/star-wars-the-black-series-black-krrsantan-866282222-star-wars-1178695411.jpg?v=1752874083
   Price: 39,99 € EUR
 - [Star Wars The Black Series Chirrut Îmwe](https://brincatoys.pt/products/star-wars-the-black-series-chirrut-imwe): A figura da série Black com 15,50 cm é detalhada para se parecer com o personagem Chirrut Îmwe de Rogue One: A Star Wars Story, apresentando detalhes premium e vários pontos de articulação.  Embora ele não tenha habilidades da Força, este monge guerreiro aprimorou o seu corpo rigorosamente através de intensa disciplina física e mental. As crianças
-  Updated: 2025-08-21T00:09:55Z
+  Updated: 2025-09-23T15:57:41Z
   Vendor: Star Wars
   Product Type: + 4 anos
   Availability: Available
@@ -10176,7 +10176,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/borracha-batom-top-model-251189123-brincatoys-1178695888.jpg?v=1752883446
   Price: 2,50 € EUR
 - [Mustang Shelby GT 500 2020 1/18](https://brincatoys.pt/products/mustang-shelby-gt-500-2020): Reprodução à escala de 1:18 em metal com peças de plástico, portas que  abrem e fecham e pneus em borracha, capô e bagageira que abrem, volante direccional e suspensão integral às 4 rodas. Escala 1/18 Dimensão: 33 x 16,50 x 13 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-05T11:21:53Z
+  Updated: 2025-09-23T12:36:01Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -11121,7 +11121,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/monopoly-marvel-studios-the-falcon-and-the-winter-soldier-86585123-monopoly-1178696318.jpg?v=1752890535
   Price: 39,99 € EUR
 - [Carro Telecomandado Lamborghini Aventador: Design Autêntico](https://brincatoys.pt/products/carro-telecomandado-lamborghini-aventador): Leve para casa a icônico e inovador Carro Telecomandado Lamborghini Aventador numa escala 1/24! Vai impressionar com seu design fiel ao original.
-  Updated: 2025-09-20T09:18:31Z
+  Updated: 2025-09-23T12:08:12Z
   Vendor: Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -16330,7 +16330,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-friends-42635-cabeleireiro-movel-para-caes-664263524-5702017588841-lego-1178699812.jpg?v=1752947413
   Price: 12,00 € EUR
 - [Brinquedo para bebé - Chocalho Vaca Shake Me](https://brincatoys.pt/products/brinquedo-para-bebe-chocalho-vaca-shake-me): Brinquedo para bebé - Chocalho Vaca Shake Me, perfeito para estimulação sensorial e desenvolvimento motor. Cores vivas, para a felicidade do seu bebé!
-  Updated: 2025-08-30T17:38:36Z
+  Updated: 2025-09-23T12:20:41Z
   Vendor: Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -17233,7 +17233,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-time-s-up-party-anima-qualquer-festa-31033324-5425016926949-brincatoys-1178700514.jpg?v=1752786365
   Price: 26,90 € EUR
 - [Jogo de Cartas Salmão Feliz | Diversão Rápida](https://brincatoys.pt/products/jogo-de-cartas-salmao-feliz): Descubra o Jogo de Cartas Salmão Feliz na Brincatoys! Partidas de 90 segundos, diversão para 3-6 jogadores, ideal para famílias.
-  Updated: 2025-08-31T03:36:23Z
+  Updated: 2025-09-23T13:43:56Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -17527,7 +17527,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-princesa-disney-rapunzel-e-maximus-772215824-0192995221581-princesas-disney-1178700728.jpg?v=1752785781
   Price: 33,50 € EUR
 - [Star Wars Micro Galaxy Nave Boba Fetts: Ação e Diversão](https://brincatoys.pt/products/star-wars-micro-galaxy-nave-boba-fetts): Entre na batalha com a Nave de Boba Fett do Star Wars Micro Galaxy. Detalhes incríveis e design autêntico para os verdadeiros fãs de Star Wars!
-  Updated: 2025-08-20T23:59:08Z
+  Updated: 2025-09-23T15:01:11Z
   Vendor: Star Wars
   Product Type: + 8 anos
   Availability: Available
@@ -20584,8 +20584,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-23T11:35:44Z
-  Total Products: 2992
+  Updated: 2025-09-23T15:30:46Z
+  Total Products: 2990
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20593,8 +20593,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T19:12:44Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-23T11:35:44Z
-  Total Products: 2992
+  Updated: 2025-09-23T15:30:46Z
+  Total Products: 2990
 
 ## Blogs
 
