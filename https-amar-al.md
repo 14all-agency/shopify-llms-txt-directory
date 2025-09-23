@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-09-23T12:00:32.414Z
+- Updated At: 2025-09-23T20:00:32.937Z
 
 ## Products
 
@@ -564,7 +564,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/172-TRICHOLOGY-CLEANSING-PEEL-FOR-THE-SCALP-WITH-HAIR-LOSS-AND-DANDRUFF-PROBLEM-H-STIMUPEEL-125-ml-1.png?v=1757514538
   Price: ALL 2,633.60 ALL
 - [H-STIMUPURIN - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/professional-hair-growth-stimulating-shampoo): Pharmaceris H-Stimupurin Shampoo Stimulating Hair Growth Kjo shampo është krijuar për femra dhe meshkuj të prekur nga rënia e tepërt e përkohshme, ose rrallimi i flokëve. Ndihmon për të luftuar rënien që lidhet me predispozitat gjenetike dhe faktorët hormonalë (alopecia androgjenike) ose mjedisore. Parandalon në mënyrë efektive rënien e flokëve të shkaktuar nga mjekimi i zgjatur, stresi, lodhja, dobësia e përgjithshme (p.sh. lidhur me dietën) ose pas shtatzënisë. Është e përshtatshme për skalpin e ndjeshëm. Stimupurin Specialist Shampoo Stimulating Hair Growth përmban një kombinim unik i dy përbërësve: Faktori Natyror i Rritjes FGF dhe kafeina tregon efikasitet të konfirmuar shkencërisht në parandalimin e rënies së flokëve dhe stimulimin e rritjes së flokëve në të njëjtën kohë. Përbërësit që përmban ky kompleks ndikojnë në nivelin qelizor duke aktivizuar gjenet që janë përgjegjëse për zhvillimin e flokëve të rinj. Ato nxisin proceset jetësore të gjëndrave ekzistuese të flokëve për të nxitur rritjen natyrale të flokëve dhe zgjatjen e jetëgjatësisë së tyre (faza anagen). Kafeina parandalon rënien e përcaktuar gjenetikisht duke neutralizuar efektin negativ të hormoneve (androgjeneve, DHT) përgjegjëse për degradimin e flokëve dhe rënien e parakohshme të flokëve. Përbërësit e zgjedhur me kujdes: niacinamide (vitamina PP), D-panthenol dhe biotina kanë efekt qetësues dhe rivendosin ekuilibrin fiziologjik të skalpit të kokës. Shampoja pastron flokët dhe skalpin tuaj butësisht por në mënyrë efektive. Zbut dhe forcon strukturën e flokëve dhe rikthen trashësinë natyrale të flokëve. Ka një nivel pH neutral të ngjashëm me atë të kokës. Pa parabene, alergene, ngjyrues artificialëdhe silikone. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Lani flokët me shampon çdo ditë ose të paktën 3 herë në javë. Aplikojeni shampon në flokë dhe skalp të lagur. Fërkojeni butësisht për 2-3 minuta dhe më pas shpëlajeni me ujë. Nëse produkti ju bie në kontakt me sytë, lajini menjëherë me ujë. Shampoja mund të përdoret çdo ditë. Për të përmirësuar rezultatet e trajtimit, përdoreni në kombinim me Pharmaceris H-Stimulinum Hair Growth Stimulating Conditioner. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-09-18T09:14:54Z
+  Updated: 2025-09-23T15:31:20Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
