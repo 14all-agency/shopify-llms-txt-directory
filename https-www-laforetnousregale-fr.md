@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-22T04:00:29.232Z
+- Updated At: 2025-09-23T00:00:27.775Z
 
 ## Products
 
@@ -90,7 +90,7 @@
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/plant_de_chene_vert.jpg?v=1758052267
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-15T22:38:12Z
+  Updated: 2025-09-22T19:11:58Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
@@ -108,12 +108,19 @@
   - [300 gramme](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre?variant=55698418663768)
     Availability: Available
     Price: 25,50 € EUR
+- [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-maison-d-epicea-bio-decouvrez-nos-recettes-incroyables-copie): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
+  Updated: 2025-09-22T19:35:32Z
+  Vendor: La forêt nous régale
+  Product Type: alimentaire
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Sirop_de_feuile_de_figuier.png?v=1758569464
+  Price: 9,90 € EUR
 
 ## Collections
 
 - [Produits Bio Forêt Française Saison 2024 - Champignons Fruits Sauvages - La Forêt Nous Régale](https://www.laforetnousregale.fr/collections/produits-saisons-bio-foret-francaise): 🌲 Produits bio de saison : champignons frais, fruits sauvages, plantes aromatiques de forêt française. Récolte responsable, fraîcheur garantie. Livraison France.
-  Updated: 2025-09-12T13:54:54Z
-  Total Products: 3
+  Updated: 2025-09-22T19:34:58Z
+  Total Products: 4
 
 ## Blogs
 
@@ -725,6 +732,10 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
   - [Les Crédits Carbone Agroforestiers](https://www.laforetnousregale.fr/blogs/infos/les-credits-carbone-agroforestiers): <p><meta charset="utf-8"><i>Le marché volontaire des crédits carbone, évalué à 1,7 milliard de dollars en 2024 avec une projection de 15,7 milliards d'ici 2034, positionne l'agroforesterie comme un secteur stratégique de la lutte contre le changement climatique. Cette financiarisation de la séquestration carbone transforme les pratiques agricoles durables en actifs économiques valorisables.</i></p>
     Updated: 2025-09-20T09:08:19Z
     Author: Équipe Pacific Planet
+  - [L'Agroforesterie Urbaine : Bouclier Vert Contre les Îlots de Chaleur](https://www.laforetnousregale.fr/blogs/infos/lagroforesterie-urbaine-bouclier-vert-contre-les-ilots-de-chaleur): <p><meta charset="utf-8"><i>Face à l'intensification des îlots de chaleur urbains, pouvant générer des écarts de température de 5 à 10 degrés Celsius entre centre-ville et périphérie</i></p>
+    Updated: 2025-09-22T19:06:30Z
+    Author: Équipe Pacific Planet
+    Tags: agroforesterie, climat urbain, ecologue, Intégration dans la planification, politique, qualité de l'air, resilience, strategie
 
 ## Store Pages
 
