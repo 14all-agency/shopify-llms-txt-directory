@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-23T16:00:32.370Z
+- Updated At: 2025-09-23T20:00:31.187Z
 
 ## Products
 
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Pferd_-_PAT_PATTY-naturweiss-plush.jpg?v=1757436566
     Price: 63,90 € EUR
 - [Bio Kuscheltier Einhorn XXL – Nachhaltig & handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-einhorn): Entdecke das große Bio Kuscheltier Einhorn mit Hirsefüllung – handgefertigt in Deutschland, plastikfrei und perfekt zum Kuscheln, Spielen & Schlafen.
-  Updated: 2025-09-19T05:44:05Z
+  Updated: 2025-09-23T19:05:31Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1834,7 +1834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Rassel_Schwein_-_PAT_PATTY-4831514.jpg?v=1731590068
     Price: 26,50 € EUR
 - [Bio Rassel Wildschwein – weich & nachhaltig | PAT&PATTY](https://patundpatty.de/products/bio-rassel-wildschwein): Weiche Bio Rassel Wildschwein aus nachhaltigen Materialien – perfekt für Babys. Fördert Greif- & Spielspaß. Jetzt entdecken und Freude schenken!
-  Updated: 2025-08-22T15:45:44Z
+  Updated: 2025-09-23T19:39:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
