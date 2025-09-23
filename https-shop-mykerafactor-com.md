@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-09-23T14:22:24.183Z
+- Updated At: 2025-09-23T16:00:27.263Z
 
 ## Products
 
