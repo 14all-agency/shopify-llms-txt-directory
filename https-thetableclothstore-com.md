@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-23T00:00:38.160Z
+- Updated At: 2025-09-23T04:00:37.285Z
 
 ## Products
 
@@ -33726,6 +33726,9 @@
     Author: User
   - [Step-by-Step Guide to Measuring for Your Tablecloth](https://thetableclothstore.com/blogs/news/step-by-step-guide-to-measuring-for-your-tablecloth): Step-by-Step Guide to Measuring for Your Tablecloth
     Updated: 2025-09-22T00:43:29Z
+    Author: User
+  - [Eco-Friendly Tablecloth Materials You Should Consider](https://thetableclothstore.com/blogs/news/eco-friendly-tablecloth-materials-you-should-consider): Eco-Friendly Tablecloth Materials You Should Consider
+    Updated: 2025-09-23T01:40:17Z
     Author: User
 
 ## Store Pages
