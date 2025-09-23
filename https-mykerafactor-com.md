@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-09-23T08:00:27.686Z
+- Updated At: 2025-09-23T12:00:27.145Z
 
 ## Products
 
@@ -178,7 +178,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-09-20T11:05:10Z
+  Updated: 2025-09-23T11:04:56Z
   Total Products: 22
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
