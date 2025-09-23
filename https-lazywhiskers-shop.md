@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-09-22T12:00:29.449Z
+- Updated At: 2025-09-23T16:00:28.776Z
 
 ## Products
 
@@ -703,82 +703,82 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8b1619ee-1fa2-4967-b440-80240367433a.webp?v=1757586090
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Front & Back Cat Print Streetwear | Peace inside Outside not my problem](https://lazywhiskers.shop/products/outside-not-my-problem): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey
-  Updated: 2025-09-11T10:21:43Z
+  Updated: 2025-09-23T03:21:51Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/Untitleddesign_13.png?v=1758554500
   - [Heather Maroon / S](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345337724)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1757586098
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1758554500
     Price: €21.99 EUR
   - [Heather Maroon / M](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345370492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1757586098
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1758554500
     Price: €21.99 EUR
   - [Heather Maroon / L](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345403260)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1757586098
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1758554500
     Price: €21.99 EUR
   - [Heather Maroon / XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345436028)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1757586098
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1758554500
     Price: €21.99 EUR
   - [Heather Maroon / 2XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345468796)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1757586098
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1758554500
     Price: €23.99 EUR
   - [Heather Maroon / 3XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345501564)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1757586098
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/371f0441-8621-4539-8aa0-36f0f30d1c95.webp?v=1758554500
     Price: €23.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345534332)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1758554500
     Price: €21.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345567100)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1758554500
     Price: €21.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345599868)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1758554500
     Price: €21.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345632636)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1758554500
     Price: €21.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345665404)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1758554500
     Price: €23.99 EUR
   - [Navy / 3XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345698172)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1757586096
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7b8019df-5ce8-4cf2-aab1-95e6ed870680.webp?v=1758554500
     Price: €23.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345730940)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1757586102
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €21.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345763708)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1757586102
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €21.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345796476)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1757586102
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €21.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345829244)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1757586102
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €21.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345862012)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1757586102
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €23.99 EUR
   - [Black / 3XL](https://lazywhiskers.shop/products/outside-not-my-problem?variant=55637345894780)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1757586102
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €23.99 EUR
 - [LazyWhiskers Unisex White Tee | Sarcastic Cat Streetwear | I only fall asleep](https://lazywhiskers.shop/products/i-only-fall-asleep): Classic unisex white tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
   Updated: 2025-09-11T10:21:57Z
@@ -1235,106 +1235,106 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/bf21f325-691f-4158-ba70-2af4081ae189.webp?v=1757586157
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Front & Back Cat Print Streetwear](https://lazywhiskers.shop/products/just-kidding): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey.
-  Updated: 2025-09-11T10:22:55Z
+  Updated: 2025-09-23T03:07:12Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/Untitleddesign_12.png?v=1758554153
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/just-kidding?variant=55640043454844)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1758554153
     Price: €21.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/just-kidding?variant=55640043487612)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1758554153
     Price: €21.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/just-kidding?variant=55640043520380)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1758554153
     Price: €21.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043553148)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1758554153
     Price: €21.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043585916)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1758554153
     Price: €23.99 EUR
   - [Dark Chocolate / 3XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043618684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1757586165
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/799e8615-a191-4a25-a403-35db07efb993.webp?v=1758554153
     Price: €23.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/just-kidding?variant=55640043651452)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1757586172
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1758554153
     Price: €21.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/just-kidding?variant=55640043684220)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1757586172
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1758554153
     Price: €21.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/just-kidding?variant=55640043716988)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1757586172
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1758554153
     Price: €21.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043749756)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1757586172
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1758554153
     Price: €21.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043782524)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1757586172
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1758554153
     Price: €23.99 EUR
   - [Navy / 3XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043815292)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1757586172
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b210b6a0-1b02-45ec-a383-de202777fd46.webp?v=1758554153
     Price: €23.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/just-kidding?variant=55640043848060)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1757586166
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1758554153
     Price: €21.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/just-kidding?variant=55640043880828)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1757586166
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1758554153
     Price: €21.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/just-kidding?variant=55640043913596)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1757586166
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1758554153
     Price: €21.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043946364)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1757586166
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1758554153
     Price: €21.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/just-kidding?variant=55640043979132)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1757586166
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1758554153
     Price: €23.99 EUR
   - [Black / 3XL](https://lazywhiskers.shop/products/just-kidding?variant=55640044011900)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1757586166
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/29356e5e-d6c3-45ba-ba62-7cb62a4ad5b9.webp?v=1758554153
     Price: €23.99 EUR
   - [Purple / S](https://lazywhiskers.shop/products/just-kidding?variant=55640044044668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1757586169
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €21.99 EUR
   - [Purple / M](https://lazywhiskers.shop/products/just-kidding?variant=55640044077436)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1757586169
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €21.99 EUR
   - [Purple / L](https://lazywhiskers.shop/products/just-kidding?variant=55640044110204)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1757586169
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €21.99 EUR
   - [Purple / XL](https://lazywhiskers.shop/products/just-kidding?variant=55640044142972)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1757586169
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €21.99 EUR
   - [Purple / 2XL](https://lazywhiskers.shop/products/just-kidding?variant=55640044175740)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1757586169
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €23.99 EUR
   - [Purple / 3XL](https://lazywhiskers.shop/products/just-kidding?variant=55640044208508)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1757586169
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €23.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Red Flag](https://lazywhiskers.shop/products/i-saw-red-flags): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society.
   Updated: 2025-09-11T10:23:04Z
@@ -1414,8 +1414,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6247031c-02c1-4d84-b0af-655d5ea28545.webp?v=1757586176
     Price: €21.99 EUR
-- [Dead Inside But Cute – Funny Skeleton Cat T-Shirt](https://lazywhiskers.shop/products/dead-inside-but-cute-funny-skeleton-cat-t-shirt): Show off your sarcastic side with this Dead Inside But Cute cat t-shirt. Featuring a spooky-cute skeleton kitty, it’s the perfect mix of dark humor and adorable vibes. Ideal for Halloween, goth fashion, or anyone who loves funny cat tees with attitude. Soft and breathable cotton blend for all-day comfort High-quality DTG print that won’t fade after washes Unisex fit, easy to style with jeans or layered looks Great gift for cat lovers, Halloween fans, or anyone with a sarcastic soul Fabrication: Solid colors are 100% ring-spun cotton; Sport Grey 90% cotton/10% polyester; Heather 65% polyester/35% cotton. Size guide S M L XL 2XL 3XL A) Length (cm) 71 74 76 79 81 85 B) Width (cm) 92 102 112 122 132 142 B) Half Chest (cm) 46 51 56 61 66 71 S M L XL 2XL 3XL A) Length (inches) 28 29.1 29.9 31.1 31.9 33.5 B) Width (inches) 36.2 40.2 44.1 48 52 55.9 B) Half Chest (inches) 18.1 20.1 22 24 26 28 Care Instructions General A durable, comfortable, and versatile t-shirt that excels in printability and wearability, making it a top choice for custom designs​ . Wash The t-shirt should be washed with similar colors and can sustain regular washing without losing color or shape. Dry Tumble dry low or hang dry to maintain the integrity of the print and fabric. Store Keep this T-shirt in a cool, dry place away from direct sunlight to maintain its color and fabric integrity.
-  Updated: 2025-09-22T09:54:14Z
+- [Dead Inside But Cute Cat T-Shirt | Funny Skeleton Halloween Tee](https://lazywhiskers.shop/products/dead-inside-but-cute-funny-skeleton-cat-t-shirt): Spooky meets cute! This “Dead Inside But Cute” skeleton cat t-shirt is perfect for Halloween, goth style, or sarcastic cat lovers. Shop now at Lazy Whiskers.
+  Updated: 2025-09-22T21:53:38Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1516,187 +1516,110 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3518961-12df-4301-8a72-a7de008f1716.webp?v=1758534812
     Price: €19.99 EUR
-- [Bored to death](https://lazywhiskers.shop/products/bored-to-death): Embrace your dark humor with the Bored to Death cat t-shirt. Featuring a lazy black cat lounging in a coffin, this sarcastic graphic tee mixes spooky vibes with everyday mood. Perfect for Halloween, goth fashion, or anyone who loves cats with attitude. Soft cotton blend for comfort and durability High-quality DTG print that lasts wash after wash Unisex fit – pairs easily with jeans, jackets, or layered looks Great gift for cat lovers, Halloween fans, or anyone who’s “bored to death” with ordinary tees Fabrication: Solid colors are 100% ring-spun cotton; Sport Grey is 90% ring-spun cotton, 10% polyester; Heather colors are 35% cotton, 65% polyester; Graphite Heather is 65% cotton, 35% polyester. Size guide S M L XL 2XL 3XL A) Length (cm) 71 74 76 79 81 85 B) Width (cm) 92 102 112 122 132 142 B) Half Chest (cm) 46 51 56 61 66 71 S M L XL 2XL 3XL A) Length (inches) 28 29.1 29.9 31.1 31.9 33.5 B) Width (inches) 36.2 40.2 44.1 48 52 55.9 B) Half Chest (inches) 18.1 20.1 22 24 26 28 Care Instructions General A durable, comfortable, and versatile t-shirt that excels in printability and wearability, making it a top choice for custom designs​ . Wash The t-shirt should be washed with similar colors and can sustain regular washing without losing color or shape. Dry Tumble dry low or hang dry to maintain the integrity of the print and fabric. Store Keep this T-shirt in a cool, dry place away from direct sunlight to maintain its color and fabric integrity.
-  Updated: 2025-09-22T09:56:54Z
-  Vendor: LazyWhiskers
-  Product Type: Print Material
-  Availability: Available
-  - [Sand / S](https://lazywhiskers.shop/products/bored-to-death?variant=55777451737468)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Sand / M](https://lazywhiskers.shop/products/bored-to-death?variant=55777451770236)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Sand / L](https://lazywhiskers.shop/products/bored-to-death?variant=55777451803004)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Sand / XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777451835772)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Sand / 2XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777451868540)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Sand / 3XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777451901308)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Gold / S](https://lazywhiskers.shop/products/bored-to-death?variant=55777451934076)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Gold / M](https://lazywhiskers.shop/products/bored-to-death?variant=55777451966844)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Gold / L](https://lazywhiskers.shop/products/bored-to-death?variant=55777451999612)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Gold / XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452032380)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Gold / 2XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452065148)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Gold / 3XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452097916)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Military Green / S](https://lazywhiskers.shop/products/bored-to-death?variant=55777452130684)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Military Green / M](https://lazywhiskers.shop/products/bored-to-death?variant=55777452163452)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Military Green / L](https://lazywhiskers.shop/products/bored-to-death?variant=55777452196220)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Military Green / XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452228988)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Military Green / 2XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452261756)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Military Green / 3XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452294524)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Charcoal / S](https://lazywhiskers.shop/products/bored-to-death?variant=55777452327292)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Charcoal / M](https://lazywhiskers.shop/products/bored-to-death?variant=55777452360060)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Charcoal / L](https://lazywhiskers.shop/products/bored-to-death?variant=55777452392828)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Charcoal / XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452425596)
-    Availability: Available
-    Price: €19.99 EUR
-  - [Charcoal / 2XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452458364)
-    Availability: Available
-    Price: €21.99 EUR
-  - [Charcoal / 3XL](https://lazywhiskers.shop/products/bored-to-death?variant=55777452491132)
-    Availability: Available
-    Price: €21.99 EUR
-- [Bored to death – Funny Goth Cat T-Shirt](https://lazywhiskers.shop/products/bored-to-death-1): Embrace your dark humor with the Bored to Death cat t-shirt. Featuring a lazy black cat lounging in a coffin, this sarcastic graphic tee mixes spooky vibes with everyday mood. Perfect for Halloween, goth fashion, or anyone who loves cats with attitude. Soft cotton blend for comfort and durability High-quality DTG print that lasts wash after wash Unisex fit – pairs easily with jeans, jackets, or layered looks Great gift for cat lovers, Halloween fans, or anyone who’s “bored to death” with ordinary tees Fabrication: Solid colors are 100% ring-spun cotton; Sport Grey is 90% ring-spun cotton, 10% polyester; Heather colors are 35% cotton, 65% polyester; Graphite Heather is 65% cotton, 35% polyester. Size guide S M L XL 2XL 3XL A) Length (cm) 71 74 76 79 81 85 B) Width (cm) 92 102 112 122 132 142 B) Half Chest (cm) 46 51 56 61 66 71 S M L XL 2XL 3XL A) Length (inches) 28 29.1 29.9 31.1 31.9 33.5 B) Width (inches) 36.2 40.2 44.1 48 52 55.9 B) Half Chest (inches) 18.1 20.1 22 24 26 28 Care Instructions General A durable, comfortable, and versatile t-shirt that excels in printability and wearability, making it a top choice for custom designs​ . Wash The t-shirt should be washed with similar colors and can sustain regular washing without losing color or shape. Dry Tumble dry low or hang dry to maintain the integrity of the print and fabric. Store Keep this T-shirt in a cool, dry place away from direct sunlight to maintain its color and fabric integrity.
-  Updated: 2025-09-22T10:11:03Z
+- [Bored to Death Cat T-Shirt | Funny Goth Coffin Cat Tee](https://lazywhiskers.shop/products/bored-to-death-cat-shirt): Sarcastic vibes meet spooky style! This “Bored to Death” cat t-shirt features a lazy black cat in a coffin. Perfect for Halloween, goth fashion, and funny cat lovers
+  Updated: 2025-09-22T22:00:29Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
-  - [Sand / S](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463665020)
+  - [Sand / S](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463665020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9fb12774-704a-4013-9c19-08725e0aae08.webp?v=1758535217
     Price: €19.99 EUR
-  - [Sand / M](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463697788)
+  - [Sand / M](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463697788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9fb12774-704a-4013-9c19-08725e0aae08.webp?v=1758535217
     Price: €19.99 EUR
-  - [Sand / L](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463730556)
+  - [Sand / L](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463730556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9fb12774-704a-4013-9c19-08725e0aae08.webp?v=1758535217
     Price: €19.99 EUR
-  - [Sand / XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463763324)
+  - [Sand / XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463763324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9fb12774-704a-4013-9c19-08725e0aae08.webp?v=1758535217
     Price: €19.99 EUR
-  - [Sand / 2XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463796092)
+  - [Sand / 2XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463796092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9fb12774-704a-4013-9c19-08725e0aae08.webp?v=1758535217
     Price: €21.99 EUR
-  - [Sand / 3XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463828860)
+  - [Sand / 3XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463828860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9fb12774-704a-4013-9c19-08725e0aae08.webp?v=1758535217
     Price: €21.99 EUR
-  - [Gold / S](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463861628)
+  - [Gold / S](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463861628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8665cc98-b83d-4d63-9969-992ba7e0257e.webp?v=1758535219
     Price: €19.99 EUR
-  - [Gold / M](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463894396)
+  - [Gold / M](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463894396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8665cc98-b83d-4d63-9969-992ba7e0257e.webp?v=1758535219
     Price: €19.99 EUR
-  - [Gold / L](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463927164)
+  - [Gold / L](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463927164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8665cc98-b83d-4d63-9969-992ba7e0257e.webp?v=1758535219
     Price: €19.99 EUR
-  - [Gold / XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463959932)
+  - [Gold / XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463959932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8665cc98-b83d-4d63-9969-992ba7e0257e.webp?v=1758535219
     Price: €19.99 EUR
-  - [Gold / 2XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777463992700)
+  - [Gold / 2XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777463992700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8665cc98-b83d-4d63-9969-992ba7e0257e.webp?v=1758535219
     Price: €21.99 EUR
-  - [Gold / 3XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464025468)
+  - [Gold / 3XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464025468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8665cc98-b83d-4d63-9969-992ba7e0257e.webp?v=1758535219
     Price: €21.99 EUR
-  - [Military Green / S](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464058236)
+  - [Military Green / S](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464058236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
     Price: €19.99 EUR
-  - [Military Green / M](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464091004)
+  - [Military Green / M](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464091004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
     Price: €19.99 EUR
-  - [Military Green / L](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464123772)
+  - [Military Green / L](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464123772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
     Price: €19.99 EUR
-  - [Military Green / XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464156540)
+  - [Military Green / XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464156540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
     Price: €19.99 EUR
-  - [Military Green / 2XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464189308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
-    Price: €21.99 EUR
-  - [Military Green / 3XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464222076)
+  - [Military Green / 2XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464189308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
     Price: €21.99 EUR
-  - [Charcoal / S](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464254844)
+  - [Military Green / 3XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464222076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/13dea0eb-8e2f-4f27-86a2-9999dc00d3b3.webp?v=1758535216
+    Price: €21.99 EUR
+  - [Charcoal / S](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464254844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €19.99 EUR
-  - [Charcoal / M](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464287612)
+  - [Charcoal / M](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464287612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €19.99 EUR
-  - [Charcoal / L](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464320380)
+  - [Charcoal / L](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464320380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €19.99 EUR
-  - [Charcoal / XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464353148)
+  - [Charcoal / XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464353148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €19.99 EUR
-  - [Charcoal / 2XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464385916)
+  - [Charcoal / 2XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464385916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €21.99 EUR
-  - [Charcoal / 3XL](https://lazywhiskers.shop/products/bored-to-death-1?variant=55777464418684)
+  - [Charcoal / 3XL](https://lazywhiskers.shop/products/bored-to-death-cat-shirt?variant=55777464418684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €21.99 EUR
-- [Hot Ghoul Autumn – Funny Black Cat Halloween T-Shirt](https://lazywhiskers.shop/products/hot-ghoul-autumn-funny-black-cat-halloween-t-shirt): Step into spooky season with the Hot Ghoul Autumn t-shirt. Featuring a sassy black cat graphic and bold lettering, this Halloween tee is perfect for fall vibes, goth fashion, or anyone who loves cats with attitude. A playful twist on “Hot Girl Summer,” it’s the must-have shirt for your autumn wardrobe. Soft cotton blend for comfort all day long High-quality DTG print that won’t fade after washes Unisex fit – easy to style with jeans, jackets, or layered looks Great gift for cat lovers, Halloween parties, or spooky season fans Fabrication: Solid colors are 100% ring-spun cotton; Sport Grey is 90% ring-spun cotton, 10% polyester; Heather colors are 35% cotton, 65% polyester; Graphite Heather is 65% cotton, 35% polyester. Size guide S M L XL 2XL 3XL A) Length (cm) 71 74 76 79 81 85 B) Width (cm) 92 102 112 122 132 142 B) Half Chest (cm) 46 51 56 61 66 71 S M L XL 2XL 3XL A) Length (inches) 28 29.1 29.9 31.1 31.9 33.5 B) Width (inches) 36.2 40.2 44.1 48 52 55.9 B) Half Chest (inches) 18.1 20.1 22 24 26 28 Care Instructions General A durable, comfortable, and versatile t-shirt that excels in printability and wearability, making it a top choice for custom designs​ . Wash The t-shirt should be washed with similar colors and can sustain regular washing without losing color or shape. Dry Tumble dry low or hang dry to maintain the integrity of the print and fabric. Store Keep this T-shirt in a cool, dry place away from direct sunlight to maintain its color and fabric integrity.
-  Updated: 2025-09-22T10:08:09Z
+- [Hot Ghoul Autumn T-Shirt | Funny Black Cat Halloween Tee](https://lazywhiskers.shop/products/hot-ghoul-autumn-funny-black-cat-halloween-t-shirt): Celebrate spooky season in style! The “Hot Ghoul Autumn” t-shirt features a sassy black cat design – perfect for Halloween, fall vibes, and goth fashion lovers.
+  Updated: 2025-09-22T22:07:20Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1797,212 +1720,212 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5113ca0d-b4cf-4119-a0b5-5794b88f6a95.webp?v=1758535311
     Price: €21.99 EUR
-- [Ghosted Again Hoodie – Funny Spooky Cat Streetwear](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear): Get cozy and spooky with the Ghosted Again hoodie. Featuring a playful ghost-cat graphic, this sarcastic streetwear hoodie is perfect for Halloween vibes, goth fashion, or anyone who knows the pain of being “ghosted.” Super soft cotton-poly blend for everyday comfort Double-lined hood with matching drawstring Durable print that won’t fade after washes Front pouch pocket and rib-knit cuffs/waistband for a snug fit Ideal gift for cat lovers, Halloween fans, and anyone with dark humor Fabrication: Heavy blend of 50% cotton and 50% polyester. Air jet yarn for a softer feel and reduced pilling. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-09-22T10:11:38Z
+- [Ghosted Again Hoodie | Funny Spooky Cat Halloween Sweatshirt](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear): Stay cozy and sarcastic with the “Ghosted Again” hoodie. Featuring a ghost-cat graphic, it’s the perfect mix of funny, spooky, and comfy streetwear.
+  Updated: 2025-09-23T13:57:40Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/bba368ac-8c4e-47d6-9075-b32255216091.webp?v=1758635860
   - [Dark Heather / S](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470218620)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758535889
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758635860
     Price: €34.99 EUR
   - [Dark Heather / M](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470251388)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758535889
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758635860
     Price: €34.99 EUR
   - [Dark Heather / L](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470284156)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758535889
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758635860
     Price: €34.99 EUR
   - [Dark Heather / XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470316924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758535889
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758635860
     Price: €34.99 EUR
   - [Dark Heather / 2XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470349692)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758535889
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758635860
     Price: €34.99 EUR
   - [Dark Heather / 3XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470382460)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758535889
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/d5e7459f-d6c4-4f2d-9052-eda337f766fe.webp?v=1758635860
     Price: €34.99 EUR
   - [Forest Green / S](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470415228)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758535890
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758635860
     Price: €34.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470447996)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758535890
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758635860
     Price: €34.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470480764)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758535890
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758635860
     Price: €34.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470513532)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758535890
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758635860
     Price: €34.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470546300)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758535890
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758635860
     Price: €34.99 EUR
   - [Forest Green / 3XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470579068)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758535890
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/23cd9ac5-4207-420e-bbba-e3975a042b3c.webp?v=1758635860
     Price: €34.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470611836)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758535888
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758635860
     Price: €34.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470644604)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758535888
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758635860
     Price: €34.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470677372)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758535888
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758635860
     Price: €34.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470710140)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758535888
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758635860
     Price: €34.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470742908)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758535888
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758635860
     Price: €34.99 EUR
   - [Navy / 3XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470775676)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758535888
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ed7a8618-a18e-452b-a40f-06f5af5a8e96.webp?v=1758635860
     Price: €34.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470808444)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470841212)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470873980)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470906748)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470939516)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
   - [Black / 3XL](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear?variant=55777470972284)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758535887
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
-- [Pumpkin Spice & Bad Advice Hoodie – Funny Halloween Cat Sweatshirt](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice): Cozy up in sarcastic fall vibes with the Pumpkin Spice & Bad Advice hoodie. Featuring a mischievous black cat popping out of a jack-o’-lantern, this graphic hoodie mixes Halloween humor with autumn comfort. Perfect for spooky season, fall fashion, and anyone who loves pumpkin spice with a dark twist. Heavy cotton-poly blend for warmth and comfort Double-lined hood with matching drawstring Durable DTG print that won’t fade after washes Front pouch pocket and rib-knit cuffs/waistband for a snug fit Great gift for Halloween fans, pumpkin spice addicts, or sarcastic cat lovers Fabrication: 50% cotton, 50% polyester. Air jet yarn for a softer feel and reduced pilling. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-09-22T10:12:34Z
+- [Pumpkin Spice & Bad Advice Hoodie | Funny Halloween Cat Sweatshirt](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie): Spooky meets cozy! This “Pumpkin Spice & Bad Advice” hoodie features a black cat with a jack-o’-lantern. Perfect sarcastic fall hoodie for Halloween and autumn lovers
+  Updated: 2025-09-22T22:04:54Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
-  - [Maroon / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474183548)
+  - [Maroon / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474183548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35461ffc-5a0f-4102-a609-4103b3dded70.webp?v=1758535484
     Price: €34.99 EUR
-  - [Maroon / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474216316)
+  - [Maroon / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474216316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35461ffc-5a0f-4102-a609-4103b3dded70.webp?v=1758535484
     Price: €34.99 EUR
-  - [Maroon / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474249084)
+  - [Maroon / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474249084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35461ffc-5a0f-4102-a609-4103b3dded70.webp?v=1758535484
     Price: €34.99 EUR
-  - [Maroon / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474281852)
+  - [Maroon / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474281852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35461ffc-5a0f-4102-a609-4103b3dded70.webp?v=1758535484
     Price: €34.99 EUR
-  - [Maroon / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474314620)
+  - [Maroon / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474314620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35461ffc-5a0f-4102-a609-4103b3dded70.webp?v=1758535484
     Price: €34.99 EUR
-  - [Maroon / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474347388)
+  - [Maroon / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474347388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35461ffc-5a0f-4102-a609-4103b3dded70.webp?v=1758535484
     Price: €34.99 EUR
-  - [Forest Green / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474380156)
+  - [Forest Green / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474380156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/49e3df73-1d8d-431a-b73d-4e4bbca0145c.webp?v=1758535485
     Price: €34.99 EUR
-  - [Forest Green / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474412924)
+  - [Forest Green / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474412924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/49e3df73-1d8d-431a-b73d-4e4bbca0145c.webp?v=1758535485
     Price: €34.99 EUR
-  - [Forest Green / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474445692)
+  - [Forest Green / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474445692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/49e3df73-1d8d-431a-b73d-4e4bbca0145c.webp?v=1758535485
     Price: €34.99 EUR
-  - [Forest Green / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474478460)
+  - [Forest Green / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474478460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/49e3df73-1d8d-431a-b73d-4e4bbca0145c.webp?v=1758535485
     Price: €34.99 EUR
-  - [Forest Green / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474511228)
+  - [Forest Green / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474511228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/49e3df73-1d8d-431a-b73d-4e4bbca0145c.webp?v=1758535485
     Price: €34.99 EUR
-  - [Forest Green / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474543996)
+  - [Forest Green / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474543996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/49e3df73-1d8d-431a-b73d-4e4bbca0145c.webp?v=1758535485
     Price: €34.99 EUR
-  - [Navy / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474576764)
+  - [Navy / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474576764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
     Price: €34.99 EUR
-  - [Navy / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474609532)
+  - [Navy / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474609532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
     Price: €34.99 EUR
-  - [Navy / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474642300)
+  - [Navy / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474642300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
     Price: €34.99 EUR
-  - [Navy / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474675068)
+  - [Navy / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474675068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
     Price: €34.99 EUR
-  - [Navy / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474707836)
+  - [Navy / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474707836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
     Price: €34.99 EUR
-  - [Navy / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474740604)
+  - [Navy / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474740604)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b253aa3c-f6ea-453f-bf94-d3208b7902da.webp?v=1758535483
     Price: €34.99 EUR
-  - [Black / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474773372)
+  - [Black / S](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474773372)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4d97a6ea-6c13-4799-bfdf-6ca84ea74863.webp?v=1758535486
     Price: €34.99 EUR
-  - [Black / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474806140)
+  - [Black / M](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474806140)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4d97a6ea-6c13-4799-bfdf-6ca84ea74863.webp?v=1758535486
     Price: €34.99 EUR
-  - [Black / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474838908)
+  - [Black / L](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474838908)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4d97a6ea-6c13-4799-bfdf-6ca84ea74863.webp?v=1758535486
     Price: €34.99 EUR
-  - [Black / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474871676)
+  - [Black / XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474871676)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4d97a6ea-6c13-4799-bfdf-6ca84ea74863.webp?v=1758535486
     Price: €34.99 EUR
-  - [Black / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474904444)
+  - [Black / 2XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474904444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4d97a6ea-6c13-4799-bfdf-6ca84ea74863.webp?v=1758535486
     Price: €34.99 EUR
-  - [Black / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice?variant=55777474937212)
+  - [Black / 3XL](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie?variant=55777474937212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4d97a6ea-6c13-4799-bfdf-6ca84ea74863.webp?v=1758535486
     Price: €34.99 EUR
-- [Trick or Trauma Cat T-Shirt – Funny Halloween Graphic Tee](https://lazywhiskers.shop/products/trick-or-trauma-cat-t-shirt-funny-halloween-graphic-tee): Bring some sarcastic chaos to Halloween with the Trick or Trauma t-shirt. Featuring a mischievous orange cat holding a jack-o’-lantern, this bold graphic tee flips the classic “trick or treat” into a darker, funnier vibe. Perfect for spooky season, goth streetwear, or anyone who loves sarcastic cat designs. Soft cotton blend for all-day comfort High-quality DTG print with vibrant Halloween colors Unisex fit – easy to wear for parties, casual looks, or layered outfits Great gift for cat lovers, Halloween fans, or anyone with a dark sense of humor Fabrication: Solid colors are 100% ring-spun cotton; Sport Grey is 90% cotton/10% polyester; Heather colors are 65% polyester/35% cotton; Graphite Heather is 65% cotton/35% polyester. Size guide S M L XL 2XL 3XL A) Length (cm) 71 74 76 79 81 85 B) Width (cm) 92 102 112 122 132 142 B) Half Chest (cm) 46 51 56 61 66 71 S M L XL 2XL 3XL A) Length (inches) 28 29.1 29.9 31.1 31.9 33.5 B) Width (inches) 36.2 40.2 44.1 48 52 55.9 B) Half Chest (inches) 18.1 20.1 22 24 26 28 Care Instructions General A durable, comfortable, and versatile t-shirt that excels in printability and wearability, making it a top choice for custom designs​ . Wash The t-shirt should be washed with similar colors and can sustain regular washing without losing color or shape. Dry Tumble dry low or hang dry to maintain the integrity of the print and fabric. Store Keep this T-shirt in a cool, dry place away from direct sunlight to maintain its color and fabric integrity.
-  Updated: 2025-09-22T10:11:40Z
+- [Trick or Trauma Cat T-Shirt | Funny Halloween Angry Cat Tee](https://lazywhiskers.shop/products/trick-or-trauma-cat-t-shirt-funny-halloween-graphic-tee): Dark humor meets spooky vibes! This “Trick or Trauma” cat t-shirt is a sarcastic twist on trick-or-treat. Perfect for Halloween and cat lovers with attitude
+  Updated: 2025-09-22T22:10:12Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2103,8 +2026,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/36867bdd-3b11-4e5a-855d-a88c4cf1ea74.webp?v=1758535802
     Price: €19.99 EUR
-- [Witch Better Have My Candy  – Funny Halloween Cat Hoodie](https://lazywhiskers.shop/products/witch-better-have-my-candy-funny-halloween-cat-hoodie): Get into spooky season with the Witch Better Have My Candy hoodie. Featuring a sassy black cat in a witch hat with Halloween candy graphics, this cozy pullover blends humor and style. Perfect for fall nights, Halloween parties, or anyone who loves black cats and witchy vibes. Soft cotton/poly blend for warmth and comfort Double-lined hood with matching drawstring Air-jet yarn for a softer feel and reduced pilling Front pouch pocket + rib-knit cuffs and waistband for a snug fit Unisex fit – ideal for casual fall outfits and spooky layering Fabrication: 50% cotton / 50% polyester heavy blend. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-09-22T10:14:23Z
+- [Witch Better Have My Candy Hoodie | Funny Halloween Cat Sweatshirt](https://lazywhiskers.shop/products/witch-better-have-my-candy-funny-halloween-cat-hoodie): Stay cozy and spooky with the “Witch Better Have My Candy” hoodie. Funny Halloween black cat design – perfect for fall nights, witchy vibes, and spooky season outfits.
+  Updated: 2025-09-22T22:12:32Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2188,13 +2111,13 @@
   Updated: 2025-09-16T12:10:15Z
   Total Products: 2
 - [Unisex T-Shirts | LazyWhiskers Cat Streetwear](https://lazywhiskers.shop/collections/funny-cat-t-shirts): Shop LazyWhiskers Unisex T-Shirts: bold cat-inspired graphics, regular fit, rebellious streetwear vibes. Wear attitude, not basics.
-  Updated: 2025-09-16T12:12:13Z
+  Updated: 2025-09-23T14:36:27Z
   Total Products: 14
 - [AVADA - Best Sellers](https://lazywhiskers.shop/collections/avada-best-sellers)
-  Updated: 2025-09-22T10:12:36Z
+  Updated: 2025-09-22T14:14:00Z
   Total Products: 24
-- [LazyWhiskers Halloween Collection 2025 | Cat Streetwear](https://lazywhiskers.shop/collections/halloween-collection-2025-lazywhiskers): Discover the LazyWhiskers Halloween Collection 2025: limited edition cat t-shirts, bold streetwear, and spooky vibes. Shop now before they vanish!
-  Updated: 2025-09-22T10:12:50Z
+- [Funny Halloween Cat Shirts & Hoodies | LazyWhiskers 2025](https://lazywhiskers.shop/collections/halloween-cat-shirts-2025): Discover the LazyWhiskers Halloween Collection 2025 –funny cat shirts, spooky hoodies, and sarcastic tees for the season. Perfect for Halloween parties & gifts.
+  Updated: 2025-09-23T10:01:17Z
   Total Products: 7
 
 ## Blogs
