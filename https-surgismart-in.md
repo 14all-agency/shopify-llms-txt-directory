@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-22T16:00:32.205Z
+- Updated At: 2025-09-23T12:00:30.747Z
 
 ## Products
 
@@ -2239,7 +2239,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61969bjsvms.jpg?v=1751478183
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Rainbow-Finish, Caribbean Blue Tube, 27 in, 5807 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-rainbow-finish-caribbean-blue-tube-27-in-5807): - Surgismart
-  Updated: 2025-08-13T07:37:55Z
+  Updated: 2025-09-23T06:44:38Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
@@ -2382,7 +2382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/romsons-bi-valve-three-way-stop-cock-500x500.webp?v=1751478172
   Price: ₹902.00 INR
 - [Buy ​Exxacta Three Way Stop Cock - Surgismart](https://surgismart.in/products/exxacta-gs-3146): Specially designed three way stop cock with smooth rotation, suitable during pressure infusion and invasive blood pressure monitoring. Compatible with lipid/ emulsions/ most pharmaceutics. Made up of clear, transparent polymer. Rigid construction with circular flow channel prevents air entrapment. Universal 6% male/ female luer taper facilitates leak proof connections with corresponding devices. Male luer lock with ergonomically designed rotating nut prevents accidental disconnection of the line. Residual volume, not more than 0.20 ml, sustains line pressure upto 5 bar. Sterile ; Box of 50/ Master Box of 1000. Product Specifications: Brand Romsons Generic Name Three Way Stop Cock Manufacturer Name and Address Romsons Group Private Limited 62,63, 64, 65, 155 & 156 Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265314608 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:52Z
+  Updated: 2025-09-22T22:28:54Z
   Vendor: Romsons
   Product Type: 3 Way Stop Cock
   Availability: Available
@@ -3248,7 +3248,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-21T10:39:09Z
+  Updated: 2025-09-23T03:32:00Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
