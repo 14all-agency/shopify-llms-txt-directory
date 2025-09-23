@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-23T16:00:44.236Z
+- Updated At: 2025-09-23T20:00:44.703Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9596,7 +9596,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain in White Gold Vermeil](https://www.lilyblanche.com/products/curb-chain-white-gold): Quality and strength assured, this classic, medium-weight white gold vermeil curb chain is the perfect chain for any occasion. Wear this bestselling chain on its own or with one of our white gold vermeil pendants or lockets. Free jewellery care kit included with all orders.
-  Updated: 2025-09-19T16:09:07Z
+  Updated: 2025-09-23T16:15:41Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -21471,7 +21471,7 @@ From £119
     Price: £125.00 GBP
 - [Men's 9ct Solid Gold Cross Necklace | UK Handcrafted](https://www.lilyblanche.com/products/mens-large-gold-cross-necklace): Discover our Men's Solid 9ct Gold Cross Necklace, handcrafted. Hallmarked British gold, choice of chain styles, and complimentary luxury packaging. Free UK delivery & care kit
 £175
-  Updated: 2025-09-23T15:45:02Z
+  Updated: 2025-09-23T16:41:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21817,7 +21817,7 @@ From £119
     Price: £555.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 GBP 340
-  Updated: 2025-09-11T11:14:28Z
+  Updated: 2025-09-23T17:14:32Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22705,7 +22705,7 @@ GBP 340
     Availability: Available
     Price: £220.00 GBP
 - [Filigree Heart Locket Necklace Silver + Photos & Engraving](https://www.lilyblanche.com/products/heart-locket-necklace-in-silver-engraveable): Keep loved ones close with this pretty filigree sterling silver heart locket with a solid back that can be engraved. Add 2 photos - free today. Free UK Shipping
-  Updated: 2025-09-10T15:39:01Z
+  Updated: 2025-09-23T17:22:40Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
