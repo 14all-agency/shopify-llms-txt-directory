@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-23T20:01:01.683Z
+- Updated At: 2025-09-24T00:01:01.531Z
 
 ## Products
 
@@ -6274,8 +6274,8 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-נבחרת-אנגליה-חוץ-2024-25?variant=46867520717050)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גרבי כדורגל אנגליה בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-אנגליה-בית-2024-2025): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-18T19:44:15Z
+- [גרבי כדורגל אנגליה בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-אנגליה-בית-2024-2025): גרבי כדורגל אנגליה בית 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:04:58Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6286,8 +6286,8 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-אנגליה-בית-2024-2025?variant=46867530154234)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [גרבי כדורגל אנגליה חוץ 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-אנגליה-חוץ-2024-2025): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-18T19:44:15Z
+- [גרבי כדורגל אנגליה חוץ 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-אנגליה-חוץ-2024-2025): גרבי כדורגל אנגליה חוץ 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:05:34Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6499,8 +6499,8 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-נבחרת-איטליה-חוץ-2024-25?variant=46868153630970)
     Availability: Available
     Price: ‏130.00 ‏₪ ILS
-- [גרבי כדורגל איטליה בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-איטליה-בית-2024-2025): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-18T19:44:16Z
+- [גרבי כדורגל איטליה בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-איטליה-בית-2024-2025): גרבי כדורגל איטליה בית 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:00:14Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6511,8 +6511,8 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-איטליה-בית-2024-2025?variant=46868201242874)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [גרבי כדורגל איטליה חוץ 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-איטליה-חוץ-2024-2025): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-18T19:44:16Z
+- [גרבי כדורגל איטליה חוץ 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-איטליה-חוץ-2024-2025): גרבי כדורגל איטליה חוץ 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:00:58Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6763,8 +6763,8 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-אינטר-מיאמי-שלישית-2024-25?variant=46886673055994)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [גרבי כדורגל אינטר מיאמי בית 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-בית-24-25): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-19T07:42:50Z
+- [גרבי כדורגל אינטר מיאמי בית 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-בית-24-25): גרבי כדורגל אינטר מיאמי בית 24/25 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:02:28Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6775,8 +6775,8 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-בית-24-25?variant=46886674923770)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [גרבי כדורגל אינטר מיאמי חוץ 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-חוץ-24-25): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-19T07:42:51Z
+- [גרבי כדורגל אינטר מיאמי חוץ 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-חוץ-24-25): גרבי כדורגל אינטר מיאמי חוץ 24/25 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:03:09Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6787,8 +6787,8 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-חוץ-24-25?variant=46886676300026)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [גרבי כדורגל אינטר מיאמי שלישית 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-שלישית-24-25): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-19T07:42:51Z
+- [גרבי כדורגל אינטר מיאמי שלישית 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-אינטר-מיאמי-שלישית-24-25): גרבי כדורגל אינטר מיאמי שלישית 24/25 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:04:14Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -8143,8 +8143,8 @@
   - [XXXXL](https://www.rsport.co.il/products/מכנס-קצר-נבחרת-פורטוגל-חוץ-24-25?variant=46889228206330)
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
-- [גרבי כדורגל נבחרת פורטוגל 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-נבחרת-פורטוגל-2024-2025): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-07T22:15:21Z
+- [גרבי כדורגל נבחרת פורטוגל 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-נבחרת-פורטוגל-2024-2025): גרבי כדורגל נבחרת פורטוגל 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:07:30Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -8155,8 +8155,8 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-נבחרת-פורטוגל-2024-2025?variant=46889233481978)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [גרבי כדורגל נבחרת פורטוגל חוץ 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-נבחרת-פורטוגל-חוץ-2024-2025): גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-07T22:15:21Z
+- [גרבי כדורגל נבחרת פורטוגל חוץ 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-נבחרת-פורטוגל-חוץ-2024-2025): גרבי כדורגל נבחרת פורטוגל חוץ 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
+  Updated: 2025-09-23T22:06:04Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -14623,67 +14623,67 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-חוץ-2006?variant=46910937891066)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה חוץ 1994](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1994): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:41Z
+- [חולצת רטרו נבחרת ארגנטינה חוץ 1994](https://www.rsport.co.il/products/retro-shirt-arge-away-1994): חולצת רטרו נבחרת ארגנטינה חוץ 1994 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:29:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/94_348f4720-6015-4826-aaae-5247d5f5e5ce.jpg?v=1738544645
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46911235227898)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-away-1994?variant=46911235227898)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46911235260666)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-away-1994?variant=46911235260666)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46911235293434)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-away-1994?variant=46911235293434)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46911235326202)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-away-1994?variant=46911235326202)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46911235358970)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-away-1994?variant=46911235358970)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:41Z
+- [חולצת רטרו נבחרת ארגנטינה 1998](https://www.rsport.co.il/products/retro-shirt-arge-1998): חולצת רטרו נבחרת ארגנטינה 1998 משחזרת את הסגנון הקלאסי של הנבחרת ומספקת חווית לבישה נוחה עם עיצוב מסורתי שמתאים לאימונים וללבישה יומיומית חולצות רטרו מחברות בין אוהדים לדורות הקודמים של הקבוצה
+  Updated: 2025-09-23T23:32:59Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_2_3c5f4008-9ef4-4d64-b9c4-30325d71c8cb.jpg?v=1738544638
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1998?variant=46911256822010)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-1998?variant=46911256822010)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1998?variant=46911256854778)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-1998?variant=46911256854778)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1998?variant=46911256887546)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-1998?variant=46911256887546)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1998?variant=46911256920314)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-1998?variant=46911256920314)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1998?variant=46911256953082)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-1998?variant=46911256953082)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה 1996/97](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1996-97): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:42Z
+- [חולצת רטרו נבחרת ארגנטינה 1996/97](https://www.rsport.co.il/products/retro-shirt-arge-1996-97): חולצת רטרו נבחרת ארגנטינה 1996/97 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:38:46Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/96_97_ce2fe6c2-eed6-4177-8238-4e067af7121c.jpg?v=1738544636
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1996-97?variant=46912844300538)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-1996-97?variant=46912844300538)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1996-97?variant=46912844333306)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-1996-97?variant=46912844333306)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1996-97?variant=46912844366074)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-1996-97?variant=46912844366074)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1996-97?variant=46912844398842)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-1996-97?variant=46912844398842)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1996-97?variant=46912844431610)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-1996-97?variant=46912844431610)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה 1986](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -15250,25 +15250,25 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913252622586)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארוכה מילאן גמר ליגת האלופות 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מילאן-גמר-ליגת-האלופות-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:56Z
+- [חולצת רטרו מילאן גמר ליגת האלופות 2006/07 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07): חולצת רטרו ארוכה מילאן גמר ליגת האלופות 2006/07 – מחברת את האוהדים לרגע היסטורי בכדורגל האיטלקי עם עיצוב מסורתי ונוסטלגי עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T21:20:53Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/a742e92b-4ace-48e4-81f3-ed306d8b6b35.jpg?v=1738544507
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913263173882)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263173882)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913263206650)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263206650)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913263239418)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263239418)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913263272186)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263272186)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913263304954)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263304954)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו מילאן שלישית 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -15481,25 +15481,25 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010?variant=46913381957882)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארוכה אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-אינטר-גמר-ליגת-האלופות-2010): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:03Z
+- [חולצת רטרו ארוכה אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010): חולצת רטרו אינטר גמר ליגת האלופות 2010 מביאה את ההתרגשות והנוסטלגיה של הרגעים הגדולים באירופה החולצה מחברת את האוהדים לזיכרונות של השחקנים הבולטים, שתרמו לניצחונות המכריעים בעונה זו העיצוב משלב אלמנטים קלאסיים המזוהים עם אינטר מילאנו יחד עם פונקציונליות מודרנית שמתאימה ללבישה יומיומית ואימונים עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק נוחות מירבית הגזרה הרגילה מאפשרת חופש תנועה מלא תוך שמירה על סטייל ייחודי וחיבור למסורת הקבוצה חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
+  Updated: 2025-09-23T20:54:54Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_a70bec46-47f7-40d9-bf93-eabd81410168.jpg?v=1738544502
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-אינטר-גמר-ליגת-האלופות-2010?variant=46913382580474)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382580474)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-אינטר-גמר-ליגת-האלופות-2010?variant=46913382613242)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382613242)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-אינטר-גמר-ליגת-האלופות-2010?variant=46913382646010)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382646010)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-אינטר-גמר-ליגת-האלופות-2010?variant=46913382678778)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382678778)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-אינטר-גמר-ליגת-האלופות-2010?variant=46913382711546)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382711546)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו אינטר שלישית 1998/99](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99): חולצת רטרו אינטר מילאנו שלישית 1998/99 חולצת רטרו אינטר מילאנו שלישית 1998/99 מציגה את העיצוב הייחודי של החולצות השלישיות מתקופה זו החולצה מחברת את האוהדים לנוסטלגיה של אינטר מילאנו ומזכירה את השחקנים הבולטים שהובילו את הקבוצה בשנות ה-90 החולצה משלבת סגנון קלאסי ואותנטי עם פונקציונליות מודרנית ומאפשרת חווית לבישה יומיומית ואימונים נוחים עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק חופש תנועה מלא הגזרה הרגילה מותאמת לכל פעילות ספורטיבית תוך שמירה על סטייל ייחודי וחיבור למסורת הקבוצה חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
@@ -15691,239 +15691,239 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16?variant=46914509177082)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארוכה יובנטוס בית 1997/98](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-יובנטוס-בית-1997-98): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-21T07:43:15Z
+- [חולצת רטרו יובנטוס בית 1997/98 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98): חולצת רטרו ארוכה יובנטוס בית 1997/98 עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם לגזרה רגילה ונוחות מלאה
+  Updated: 2025-09-23T21:14:39Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/97_98_547ea190-88dc-40cb-9d4e-5eb9e1c89df7.jpg?v=1738544506
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-יובנטוס-בית-1997-98?variant=46914510684410)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510684410)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-יובנטוס-בית-1997-98?variant=46914510717178)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510717178)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-יובנטוס-בית-1997-98?variant=46914510749946)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510749946)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-יובנטוס-בית-1997-98?variant=46914510782714)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510782714)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-יובנטוס-בית-1997-98?variant=46914510815482)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510815482)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל בית 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2005-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:09Z
+- [חולצת רטרו ארסנל בית 2005/06 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06): חולצת רטרו ארסנל בית 2005/06 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T21:56:40Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2005-06_49e70127-435a-4a2e-9c47-cb2419b077aa.jpg?v=1738544518
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2005-06?variant=46914589655290)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06?variant=46914589655290)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2005-06?variant=46914589688058)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06?variant=46914589688058)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2005-06?variant=46914589720826)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06?variant=46914589720826)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2005-06?variant=46914589753594)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06?variant=46914589753594)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2005-06?variant=46914589786362)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06?variant=46914589786362)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל בית 2004/05](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2004-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:10Z
+- [חולצת רטרו ארסנל בית 2004/05 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-home-2004-05): חולצת רטרו ארסנל בית 2004/05 מחברת את האוהדים לעידן קלאסי בכדורגל האנגלי עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T21:49:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2004-05_7263315b-4558-4da7-8b2c-1624be39c211.jpg?v=1738544516
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2004-05?variant=46914606956794)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-home-2004-05?variant=46914606956794)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2004-05?variant=46914606989562)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-home-2004-05?variant=46914606989562)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2004-05?variant=46914607022330)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-home-2004-05?variant=46914607022330)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2004-05?variant=46914607055098)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-home-2004-05?variant=46914607055098)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2004-05?variant=46914607087866)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-home-2004-05?variant=46914607087866)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל בית 2001/03](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2001-03): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:11Z
+- [חולצת רטרו ארסנל בית 2001/03 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-home-2001-03): חולצת רטרו ארסנל בית 2001/03 | עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T21:50:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2001_03_66796021-122f-4f6d-9ab1-d483bbabe1ed.jpg?v=1738544514
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2001-03?variant=46914613805306)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-home-2001-03?variant=46914613805306)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2001-03?variant=46914613838074)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-home-2001-03?variant=46914613838074)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2001-03?variant=46914613870842)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-home-2001-03?variant=46914613870842)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2001-03?variant=46914613903610)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-home-2001-03?variant=46914613903610)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2001-03?variant=46914613936378)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-home-2001-03?variant=46914613936378)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל בית 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1998-99): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:12Z
+- [חולצת רטרו ארסנל בית 1998/99 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1998-99): חולצת רטרו ארסנל בית 1998/99 – מחברת את האוהדים לעידן קלאסי בכדורגל האנגלי עם עיצוב מסורתי ונוסטלגי עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T21:35:12Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_99_9a266ca4-2f30-4317-b5db-ca3273a0ab6d.jpg?v=1738544512
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1998-99?variant=46914621538554)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1998-99?variant=46914621538554)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1998-99?variant=46914621571322)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1998-99?variant=46914621571322)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1998-99?variant=46914621604090)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1998-99?variant=46914621604090)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1998-99?variant=46914621636858)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1998-99?variant=46914621636858)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1998-99?variant=46914621669626)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1998-99?variant=46914621669626)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל בית 1992/94](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1992-94): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:12Z
+- [חולצת רטרו ארסנל בית 1992/94 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1992-94): חולצת רטרו ארסנל בית 1992/94 – מחברת את האוהדים לעידן קלאסי בכדורגל האנגלי עם עיצוב מסורתי ונוסטלגי עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T21:29:52Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/92_94_e7578120-d6f3-4aaa-ba9a-3e87a42aa5a2.jpg?v=1738544510
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1992-94?variant=46914623897850)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1992-94?variant=46914623897850)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1992-94?variant=46914623930618)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1992-94?variant=46914623930618)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1992-94?variant=46914623963386)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1992-94?variant=46914623963386)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1992-94?variant=46914623996154)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1992-94?variant=46914623996154)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-1992-94?variant=46914624028922)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-1992-94?variant=46914624028922)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל בית 2012/13](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2012-13): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:13Z
+- [חולצת רטרו ארסנל בית 2012/13 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-home-2012-13-ask-chatgpt): חולצת רטרו ארסנל בית 2012/13 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T22:47:58Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_13_2299f162-1b6f-4dca-9ad1-8e8b9e383e5b.jpg?v=1738544520
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2012-13?variant=46914628223226)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-home-2012-13-ask-chatgpt?variant=46914628223226)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2012-13?variant=46914628255994)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-home-2012-13-ask-chatgpt?variant=46914628255994)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2012-13?variant=46914628288762)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-home-2012-13-ask-chatgpt?variant=46914628288762)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2012-13?variant=46914628321530)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-home-2012-13-ask-chatgpt?variant=46914628321530)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-בית-2012-13?variant=46914628354298)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-home-2012-13-ask-chatgpt?variant=46914628354298)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 1988/89](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1988-89): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:13Z
+- [חולצת רטרו ארסנל חוץ 1988/89 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-1988-89): חולצת רטרו ארסנל חוץ 1988/89 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T22:50:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8889_80774ce7-a24a-4974-b9b9-a7c2de8dc6f3.jpg?v=1738544521
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1988-89?variant=46914630254842)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-1988-89?variant=46914630254842)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1988-89?variant=46914630287610)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-1988-89?variant=46914630287610)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1988-89?variant=46914630320378)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-1988-89?variant=46914630320378)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1988-89?variant=46914630353146)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-1988-89?variant=46914630353146)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1988-89?variant=46914630385914)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-1988-89?variant=46914630385914)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 1993/94](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1993-94): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:14Z
+- [חולצת רטרו ארסנל חוץ 1993/94 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94): חולצת רטרו ארסנל חוץ 1993/94 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T22:54:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/93_94_b0c0276f-1f91-4b62-a8fb-cb3b4e2ebd51.jpg?v=1738544522
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1993-94?variant=46914634383610)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94?variant=46914634383610)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1993-94?variant=46914634416378)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94?variant=46914634416378)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1993-94?variant=46914634449146)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94?variant=46914634449146)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1993-94?variant=46914634481914)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94?variant=46914634481914)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1993-94?variant=46914634514682)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94?variant=46914634514682)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 1999/01](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1999-01): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:14Z
+- [חולצת רטרו ארסנל חוץ 1999/01 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-1999-01): חולצת רטרו ארסנל חוץ 1999/01 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T22:59:32Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/99_01_d3562740-475f-40af-b883-f2ffe57f7cba.jpg?v=1738544525
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1999-01?variant=46914636054778)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-1999-01?variant=46914636054778)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1999-01?variant=46914636087546)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-1999-01?variant=46914636087546)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1999-01?variant=46914636120314)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-1999-01?variant=46914636120314)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1999-01?variant=46914636153082)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-1999-01?variant=46914636153082)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1999-01?variant=46914636185850)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-1999-01?variant=46914636185850)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 2003/05](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2003-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:14Z
+- [חולצת רטרו ארסנל חוץ 2003/05 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-2003-05): חולצת רטרו ארסנל חוץ 2003/05 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:00:58Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2003-05_ec6d9b28-8d3b-4322-a7ed-fa6483490cb8.jpg?v=1738544527
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2003-05?variant=46914637857018)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-2003-05?variant=46914637857018)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2003-05?variant=46914637889786)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-2003-05?variant=46914637889786)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2003-05?variant=46914637922554)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-2003-05?variant=46914637922554)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2003-05?variant=46914637955322)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-2003-05?variant=46914637955322)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2003-05?variant=46914637988090)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-2003-05?variant=46914637988090)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2005-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:15Z
+- [חולצת רטרו ארסנל חוץ 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2005-06): חולצת רטרו ארסנל חוץ 2005/06 עיצוב שמחזיר את הרגעים הגדולים בכדורגל האנגלי, עשויה פוליאסטר קל ונושם לנוחות ותנועה מלאה
+  Updated: 2025-09-23T23:05:49Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15943,130 +15943,130 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2005-06?variant=46914639823098)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:15Z
+- [חולצת רטרו ארסנל חוץ 2006/07](https://www.rsport.co.il/products/retro-shirt-ars-away-2006-07): חולצת רטרו ארסנל חוץ 2006/07 עם עיצוב שמחבר לאוהדים ומחזיר את הרגעים הגדולים בכדורגל, עשויה פוליאסטר קל ונושם לנוחות ותנועה מלאה
+  Updated: 2025-09-23T23:08:37Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2006_07_75041408-aefa-412f-8cae-de0e01ed9fbc.jpg?v=1738544531
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2006-07?variant=46914645754106)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-2006-07?variant=46914645754106)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2006-07?variant=46914645786874)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-2006-07?variant=46914645786874)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2006-07?variant=46914645819642)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-2006-07?variant=46914645819642)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2006-07?variant=46914645852410)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-2006-07?variant=46914645852410)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2006-07?variant=46914645885178)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-2006-07?variant=46914645885178)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 2004/05](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2004-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:16Z
+- [חולצת רטרו ארסנל חוץ 2004/05 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-2004-05): חולצת רטרו ארסנל חוץ 2004/05 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:02:53Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2004_05.jpg?v=1738544529
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2004-05?variant=46914660368634)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-2004-05?variant=46914660368634)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2004-05?variant=46914660401402)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-2004-05?variant=46914660401402)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2004-05?variant=46914660434170)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-2004-05?variant=46914660434170)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2004-05?variant=46914660466938)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-2004-05?variant=46914660466938)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-2004-05?variant=46914660499706)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-2004-05?variant=46914660499706)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל חוץ 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:16Z
+- [חולצת רטרו ארסנל חוץ 1995/96 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96): חולצת רטרו ארסנל חוץ 1995/96 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T22:56:19Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_fe6b4b6e-876d-4946-ad34-bba01b8b3fef.jpg?v=1738544523
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1995-96?variant=46914668298490)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96?variant=46914668298490)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1995-96?variant=46914668331258)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96?variant=46914668331258)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1995-96?variant=46914668364026)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96?variant=46914668364026)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1995-96?variant=46914668396794)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96?variant=46914668396794)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-חוץ-1995-96?variant=46914668429562)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96?variant=46914668429562)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארוכה ארסנל בית 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2005-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:16Z
+- [חולצת רטרו ארסנל בית 2005/06 – עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-long-shirt-ars-home-2005-06): חולצת רטרו ארסנל בית 2005/06 מחברת את האוהדים לעידן מיוחד בכדורגל האנגלי עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא גזרה רגילה למראה מסורתי ונוחות יומיומית
+  Updated: 2025-09-23T21:08:54Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2005_06_1d2a9c86-b7be-4e31-be04-548951facbbd.jpg?v=1738544505
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2005-06?variant=46914671411450)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-ars-home-2005-06?variant=46914671411450)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2005-06?variant=46914671444218)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-ars-home-2005-06?variant=46914671444218)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2005-06?variant=46914671476986)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-ars-home-2005-06?variant=46914671476986)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2005-06?variant=46914671509754)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-2005-06?variant=46914671509754)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2005-06?variant=46914671542522)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-2005-06?variant=46914671542522)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארוכה ארסנל בית 2004/05](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2004-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:17Z
+- [חולצת רטרו ארוכה ארסנל בית 2004/05](https://www.rsport.co.il/products/retro-long-shirt-ars-home-red-white-2004-05): חולצת רטרו ארסנל בית 2004/05 מחברת את האוהדים לרגעים הגדולים של המועדון ומחזירה את העיצוב הקלאסי שהפך לסימן ההיכר של הקבוצה בעונה זו החולצה משדרת סגנון ונוסטלגיה ומאפשרת חווית לבישה נוחה גם בפעילות ספורטיבית וגם בסטייל יומיומי עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק חופש תנועה מלא הגזרה הרגילה מותאמת לכל פעילות ספורטיבית תוך שמירה על מראה קלאסי ומסורת המועדון חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של ארסנל הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
+  Updated: 2025-09-23T21:01:47Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2004_05_2_f2037038-6949-4513-96f5-71ac8aec62fb.jpg?v=1738544504
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2004-05?variant=46914675409146)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-ars-home-red-white-2004-05?variant=46914675409146)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2004-05?variant=46914675441914)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-ars-home-red-white-2004-05?variant=46914675441914)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2004-05?variant=46914675474682)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-ars-home-red-white-2004-05?variant=46914675474682)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2004-05?variant=46914675507450)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-red-white-2004-05?variant=46914675507450)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-ארסנל-בית-2004-05?variant=46914675540218)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-ars-home-red-white-2004-05?variant=46914675540218)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארסנל שלישית 2007/08](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-שלישית-2007-08): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:17Z
+- [חולצת רטרו ארסנל שלישית 2007/08](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08): חולצת רטרו ארסנל שלישית 2007/08 עם עיצוב שמחזיר את הרגעים הגדולים בכדורגל האנגלי, עשויה פוליאסטר קל ונושם לנוחות ותנועה מלאה
+  Updated: 2025-09-23T23:10:07Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2007_8.jpg?v=1738544532
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-שלישית-2007-08?variant=46914682814714)
+  - [S](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08?variant=46914682814714)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-שלישית-2007-08?variant=46914682847482)
+  - [M](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08?variant=46914682847482)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-שלישית-2007-08?variant=46914682880250)
+  - [L](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08?variant=46914682880250)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-שלישית-2007-08?variant=46914682913018)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08?variant=46914682913018)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארסנל-שלישית-2007-08?variant=46914682945786)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08?variant=46914682945786)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו צ'לסי בית 2014/15](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -16258,67 +16258,67 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05?variant=46914723250426)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו אתלטיקו מדריד בית 2004/05](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-2004-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:23Z
+- [חולצת רטרו אתלטיקו מדריד בית 2004/05](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05): חולצת רטרו אתלטיקו מדריד בית 2004/05 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:14:52Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1-20241201_225652_0000.jpg?v=1738544535
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-2004-05?variant=46915140518138)
+  - [S](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05?variant=46915140518138)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-2004-05?variant=46915140550906)
+  - [M](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05?variant=46915140550906)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-2004-05?variant=46915140583674)
+  - [L](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05?variant=46915140583674)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-2004-05?variant=46915140616442)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05?variant=46915140616442)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-2004-05?variant=46915140649210)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05?variant=46915140649210)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו אתלטיקו מדריד בית 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:23Z
+- [חולצת רטרו אתלטיקו מדריד בית 1995/96](https://www.rsport.co.il/products/retro-shirt-atm-home-1995-96): חולצת רטרו אתלטיקו מדריד בית 1995/96 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:12:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2-20241201_225652_0001.jpg?v=1738544534
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-1995-96?variant=46915143794938)
+  - [S](https://www.rsport.co.il/products/retro-shirt-atm-home-1995-96?variant=46915143794938)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-1995-96?variant=46915143827706)
+  - [M](https://www.rsport.co.il/products/retro-shirt-atm-home-1995-96?variant=46915143827706)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-1995-96?variant=46915143860474)
+  - [L](https://www.rsport.co.il/products/retro-shirt-atm-home-1995-96?variant=46915143860474)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-1995-96?variant=46915143893242)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-atm-home-1995-96?variant=46915143893242)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-בית-1995-96?variant=46915143926010)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-atm-home-1995-96?variant=46915143926010)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו אתלטיקו מדריד חוץ 2004/05](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-חוץ-2004-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:24Z
+- [חולצת רטרו אתלטיקו מדריד חוץ 2004/05](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05): חולצת רטרו אתלטיקו מדריד חוץ 2004/05 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-09-23T23:16:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4-20241201_225652_0003.jpg?v=1738544536
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-חוץ-2004-05?variant=46915145171194)
+  - [S](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05?variant=46915145171194)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-חוץ-2004-05?variant=46915145203962)
+  - [M](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05?variant=46915145203962)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-חוץ-2004-05?variant=46915145236730)
+  - [L](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05?variant=46915145236730)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-חוץ-2004-05?variant=46915145269498)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05?variant=46915145269498)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אתלטיקו-מדריד-חוץ-2004-05?variant=46915145302266)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05?variant=46915145302266)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד 2000/02](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -16405,25 +16405,25 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915189768442)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו ארוכה מנצ'סטר יונייטד גמר ליגת האלופות 2007/08](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:56:27Z
+- [חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08): חולצת רטרו ארוכה מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם לגזרה רגילה ונוחות מלאה
+  Updated: 2025-09-23T21:24:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_9943c711-d070-4076-8daf-54641f1ef14c.jpg?v=1738544508
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915191210234)
+  - [S](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191210234)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915191243002)
+  - [M](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191243002)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915191275770)
+  - [L](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191275770)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915191308538)
+  - [XL](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191308538)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ארוכה-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915191341306)
+  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191341306)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד שלישית 1993/94](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
