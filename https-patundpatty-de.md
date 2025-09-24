@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-24T04:00:31.388Z
+- Updated At: 2025-09-24T08:00:32.030Z
 
 ## Products
 
@@ -1936,7 +1936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen Füllmaterial | PAT&PATTY](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Nachhaltige Bio Schurwolle Kügelchen zum Füllen von Kissen & Spielzeug. Weich, atmungsaktiv, waschbar & Made in Germany. Jetzt bei PAT&PATTY bestellen!
-  Updated: 2025-09-17T10:02:22Z
+  Updated: 2025-09-24T07:41:20Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
