@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-23T20:01:05.363Z
+- Updated At: 2025-09-24T00:01:04.970Z
 
 ## Products
 
@@ -209,7 +209,7 @@ Figura com aproximadamente 7 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/aeroplano-azul-120102725-0816409010270-brincatoys-1178692691.jpg?v=1752825972
   Price: 24,99 € EUR
 - [Figura Jasmine do filme Aladino - Disney](https://brincatoys.pt/products/figura-de-borracha-jasmine): Figura em borracha termoplástica do filme Aladino, da Disney. Figura com cerca de 12 cm!
-  Updated: 2025-09-03T12:58:52Z
+  Updated: 2025-09-23T21:09:37Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -4088,7 +4088,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-rei-dos-numeros-810359022-brincatoys-1178693936.jpg?v=1752847688
   Price: 16,99 € EUR
 - [Jogo Rummikub de Viagem Caixa Metálica](https://brincatoys.pt/products/jogo-rummikub-de-viagem-caixa-metalica): Rummikub de Viagem - Caixa Metálica, é um jogo com números para entreter-te e iniciar-te nesta grande habilidade. Desfruta do jogo de mesa e estratégia mais divertido! Faz escadas e trios e combina os números até que fiques sem fichas. Se consegues ser o primeiro em ficar sem fichas, ganhas! Um jogo familiar e divertido que, graças ao formato de vi
-  Updated: 2025-09-23T17:29:31Z
+  Updated: 2025-09-23T21:36:11Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -6089,7 +6089,7 @@ por que são cães pastores tão populares.Figura em borracha termoplástica nã
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-lola-rosa-122927421-brincatoys-1178694571.jpg?v=1752858726
   Price: 34,90 € EUR
 - [Peluche Luigi 30 cm](https://brincatoys.pt/products/peluche-luigi-30-cm): Luigi é o irmão mais novo de Super Mario e usa o seu macacão azul escuro com a camisa verde, as suas luvas brancas e o chapéu verde com a sua letra inicial. O peluche Luigi tem 30 cm de altura e é feito de um material macio e fofinho que estimula o abraço com Luigi.  Dimensão: 30 cmIdade Recomendada: + de 12 meses.
-  Updated: 2025-09-23T19:51:44Z
+  Updated: 2025-09-23T20:03:07Z
   Vendor: Super Mario
   Product Type: + 12 meses
   Availability: Available
@@ -6716,7 +6716,7 @@ Playmobil.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-rc-module-set-plus-4856-65485611-playmobil-1178694749.jpg?v=1752812181
   Price: 51,95 € EUR
 - [Playmobil Robô de Gelo com Lançador 6832](https://brincatoys.pt/products/playmobil-robo-de-gelo-com-lancador): Apontar, disparar e ganhar.Catapultar projéteis de gelo na direcção da plataforma de destino e recolher o maior número de pontos.
-  Updated: 2025-08-21T00:12:18Z
+  Updated: 2025-09-23T23:01:15Z
   Vendor: Playmobil
   Product Type: + 5 anos
   Availability: Available
@@ -7046,7 +7046,7 @@ O princípio lúdico único da Playmobil estimula a imaginação e a criatividad
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-policia-mochila-propulsora-detencao-ladrao-70782-657078222-playmobil-1178694877.jpg?v=1752864982
   Price: 21,99 € EUR
 - [Playmobil Quarto Real 70453](https://brincatoys.pt/products/playmobil-quarto-real): No quarto Real da Playmobil é hora de dormir! As princesas relaxam nas suas confortáveis camas. Com toucador, camisa de dormir, jóias e gati
-  Updated: 2025-09-23T11:35:22Z
+  Updated: 2025-09-23T23:37:57Z
   Vendor: Playmobil
   Product Type: Playmobil
   Availability: Available
@@ -8947,7 +8947,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-generations-studio-kup-860710921-transformers-1178695506.jpg?v=1752876493
   Price: 34,99 € EUR
 - [Transformers Generations War for Cybertron:  Blackarachnia](https://brincatoys.pt/products/transformers-generations-war-for-cybertron-blackarachnia): Feras na batalha! Os mundos colidem quando os Maximals e Predacons entram numa épica batalha com os Autobots e Decepticons que mudará o destino. Poderes primais invadem o campo de batalha quando o modo animal dos Maximals e Predacons entram no combate. Esta figura de Blackarachnia vem com modo animal detalhado com textura inspirada em aranhas. O br
-  Updated: 2025-08-21T00:09:33Z
+  Updated: 2025-09-23T23:40:30Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -10204,7 +10204,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/comboio-intercidades-com-pilha-82377423-brincatoys-1178695903.jpg?v=1752806763
   Price: 22,50 € EUR
 - [Conjunto de praia](https://brincatoys.pt/products/conjunto-de-praia): Balde, pá, ancinho e peneira: agora só falta a areia para um dia de praia perfeito. Dimensão: 13 x 17 x 13 cm.Idade Recomendada: + de 18 meses.
-  Updated: 2025-09-05T15:01:44Z
+  Updated: 2025-09-23T20:35:46Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -14894,13 +14894,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-42617-santuario-de-animais-da-quinta-664261724-5702017589374-lego-1178698421.jpg?v=1752925932
   Price: 58,50 € EUR
-- [Lego Dreamzzz 71472 Balão de Ar Quente Narval da Izzie](https://brincatoys.pt/products/lego-dreamzzz-71472-balao-de-ar-quente-da-izzie): Descubra o Lego Dreamzzz 71472 Balão de Ar Quente Narval da Izzie, o brinquedo ideal para despertar criatividade e aventura em crianças.
-  Updated: 2025-09-07T20:13:16Z
-  Vendor: LEGO
-  Product Type: + 7 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-dreamzzz-71472-balao-de-ar-quente-narval-da-izzie-667147224-5702017584201-lego-1178698429.jpg?v=1752926056
-  Price: 17,50 € EUR
 - [Lego Dreamzzz 71475 Carro Espacial do Stor Oz](https://brincatoys.pt/products/lego-dreamzzz-71475-carro-espacial-do-stor-oz): Lego Dreamzzz 71475 Carro Espacial do Stor Oz, o conjunto perfeito para jovens construtores entusiastas, oferecendo uma experiência de jogo cheia de aventura.
   Updated: 2025-08-21T00:02:10Z
   Vendor: LEGO
@@ -15546,7 +15539,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ford-gt-2021-heritage-edition-683139025-8719247697349-brincatoys-1178699025.jpg?v=1752934701
   Price: 57,90 € EUR
 - [Brinquedo para bebé peluche de actividades Elefante](https://brincatoys.pt/products/peluche-de-actividades-elefante): Descubra o Brinquedo para bebé peluche de actividades Elefante! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-09-23T19:53:02Z
+  Updated: 2025-09-23T20:03:06Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -15560,7 +15553,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-peluche-de-actividades-raposa-820620624-brincatoys-1178699034.jpg?v=1752934926
   Price: 28,50 € EUR
 - [Brinquedo para bebé peluche de actividades Girafa](https://brincatoys.pt/products/brinquedo-para-bebe-peluche-de-actividades-girafa-skip): Descubra o Brinquedo para bebé peluche de actividades Girafa! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-09-23T19:54:56Z
+  Updated: 2025-09-23T20:03:04Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -18255,7 +18248,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-pvc-rafiki-e-simba-bebe-peca-memoravel-do-rei-leao-621225625-4007176122563-brincatoys-1178701203.jpg?v=1752967336
   Price: 9,50 € EUR
 - [Boneco PVC Disney Ariel: Uma Pequena Sereia Encantadora](https://brincatoys.pt/products/boneco-pvc-ariel): Recrie as cenas mais icônicas do filme da Disney com este boneco PVC Disney Ariel. Detalhes minuciosos, cores vibrantes e resistência para brincar.
-  Updated: 2025-09-08T19:47:50Z
+  Updated: 2025-09-23T21:33:39Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20429,7 +20422,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T18:50:08Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-09-23T11:35:15Z
+  Updated: 2025-09-23T21:34:19Z
   Total Products: 245
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
@@ -20453,14 +20446,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:19:01Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
-  Updated: 2025-09-20T14:57:27Z
-  Total Products: 187
+  Updated: 2025-09-23T21:10:52Z
+  Total Products: 186
 - [Casa de Bonecas e acessórios](https://brincatoys.pt/collections/casa-de-bonecas-e-acessorios)
   Updated: 2025-09-16T10:27:34Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-09-19T11:51:27Z
-  Total Products: 105
+  Updated: 2025-09-23T21:07:01Z
+  Total Products: 104
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
   Updated: 2025-09-06T22:22:31Z
   Total Products: 19
@@ -20489,7 +20482,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:22Z
   Total Products: 1
 - [Lego Dreamzzz](https://brincatoys.pt/collections/lego-dreamzzz): Entra no mundo dos sonhos com os amigos Mateo, Izzie, Cooper, Logan e Zoey que usam o poder da imaginação para enfrentarem o malvado Rei Assombroso. Inspirados na série de TV LEGO® DREAMZzz™, estes conjuntos incluem veículos fantásticos, edifícios deslumbrantes e criaturas maravilhosas.
-  Updated: 2025-09-07T20:13:10Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 9
 - [+ 0 meses](https://brincatoys.pt/collections/0-meses)
   Updated: 2025-09-19T21:54:56Z
@@ -20498,13 +20491,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:12Z
   Total Products: 23
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-21T11:40:50Z
-  Total Products: 333
+  Updated: 2025-09-23T21:07:01Z
+  Total Products: 332
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-23T19:25:51Z
-  Total Products: 1526
+  Updated: 2025-09-23T21:10:52Z
+  Total Products: 1525
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-09-23T18:59:13Z
+  Updated: 2025-09-23T21:34:19Z
   Total Products: 689
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-09-23T19:11:58Z
@@ -20522,25 +20515,25 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T19:26:07Z
   Total Products: 1337
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-23T19:26:07Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 2441
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-23T19:26:07Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 2894
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-23T19:26:07Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3278
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-23T19:26:07Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3404
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-23T19:26:08Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3484
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-23T19:26:08Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3532
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-23T19:25:22Z
+  Updated: 2025-09-23T21:34:19Z
   Total Products: 353
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
@@ -20648,7 +20641,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T11:22:02Z
   Total Products: 30
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-09-23T19:11:58Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 349
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-09-07T11:36:27Z
@@ -20657,7 +20650,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:31:18Z
   Total Products: 8
 - [Little Live Pets](https://brincatoys.pt/collections/little-live-pets)
-  Updated: 2025-09-19T10:28:00Z
+  Updated: 2025-09-23T21:34:19Z
   Total Products: 17
 - [Matchbox](https://brincatoys.pt/collections/matchbox)
   Updated: 2025-09-14T16:25:44Z
@@ -20696,8 +20689,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-26T09:43:20Z
   Total Products: 4
 - [Princesas Disney](https://brincatoys.pt/collections/princesas-disney)
-  Updated: 2025-09-23T16:28:32Z
-  Total Products: 110
+  Updated: 2025-09-23T21:10:52Z
+  Total Products: 109
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
   Updated: 2025-09-21T14:44:56Z
   Total Products: 22
@@ -20729,10 +20722,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-23T19:26:08Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3548
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-09-23T18:59:04Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-09-23T18:59:21Z
@@ -20750,10 +20743,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:24Z
   Total Products: 135
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-09-23T18:59:23Z
+  Updated: 2025-09-23T21:36:43Z
   Total Products: 185
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
-  Updated: 2025-09-23T18:59:37Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 77
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
   Updated: 2025-09-23T19:13:20Z
@@ -20765,10 +20758,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:52Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-23T19:26:08Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3564
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-23T19:26:08Z
+  Updated: 2025-09-23T22:43:41Z
   Total Products: 3564
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-23T11:22:02Z
@@ -20780,8 +20773,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-23T19:26:08Z
-  Total Products: 3076
+  Updated: 2025-09-23T21:07:36Z
+  Total Products: 3075
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20789,8 +20782,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T19:12:44Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-23T19:26:08Z
-  Total Products: 3076
+  Updated: 2025-09-23T21:07:36Z
+  Total Products: 3075
 
 ## Blogs
 
