@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-24T12:00:44.096Z
+- Updated At: 2025-09-24T16:00:43.898Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2626,7 +2626,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Gold Key Pendant | Lily Blanche](https://www.lilyblanche.com/products/key-pendant-gold): This sweet little gold key pendant will capture your heart. Youthful and charming, the gold key pendant necklace is made of  sterling silver and 18 carat gold vermeil
-  Updated: 2025-09-02T10:39:17Z
+  Updated: 2025-09-24T15:43:15Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -10365,7 +10365,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Four Picture Heart Locket | High Quality Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-gold): Keep your loved ones close to your heart with this pretty four photo heart-shaped locket in 18 carat gold vermeil. The unique necklace can be personalised with four of your photos and engraved with a message. The charm locket is hallmarked in Edinburgh. Free locket photos & free shipping. Shop online today.
-  Updated: 2025-09-23T12:20:43Z
+  Updated: 2025-09-24T13:32:21Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16844,7 +16844,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-09-19T14:08:05Z
+  Updated: 2025-09-24T12:13:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -21471,7 +21471,7 @@ From £119
     Price: £125.00 GBP
 - [Men's 9ct Solid Gold Cross Necklace | UK Handcrafted](https://www.lilyblanche.com/products/mens-large-gold-cross-necklace): Discover our Men's Solid 9ct Gold Cross Necklace, handcrafted. Hallmarked British gold, choice of chain styles, and complimentary luxury packaging. Free UK delivery & care kit
 £175
-  Updated: 2025-09-23T16:41:20Z
+  Updated: 2025-09-24T15:36:46Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
