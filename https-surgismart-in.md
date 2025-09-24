@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-23T16:00:31.010Z
+- Updated At: 2025-09-24T16:00:31.964Z
 
 ## Products
 
@@ -1838,7 +1838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_09d766f1-def0-4352-ae44-c55b2baef79a.jpg?v=1751478383
     Price: ₹3,920.00 INR
 - [Buy ​Medvance Cervical Pillow, Mesh Black - Surgismart](https://surgismart.in/products/medvance-cervical-pillow-meshblack): Elevate your sleep experience with the Medvance Cervical Pillow. Scientifically designed to support your neck and head, this pillow helps alleviate neck pain and stiffness. Its contoured shape promotes proper spinal alignment, ensuring a restful and rejuvenating sleep. Wake up feeling refreshed and ready to take on the day. - Surgismart
-  Updated: 2025-08-13T07:38:24Z
+  Updated: 2025-09-24T06:55:05Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
@@ -3248,7 +3248,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-23T03:32:00Z
+  Updated: 2025-09-24T14:36:51Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3302,7 +3302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_6a708753-31c2-4597-8fbf-3c9e58548ba7.png?v=1755347000
     Price: ₹799.00 INR
   - [Wine / L](https://surgismart.in/products/classic-scrub-suit?variant=50570710614296)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/8_8609ab1d-e7af-49e9-9cbc-d1c9eaa1f150.png?v=1755347000
     Price: ₹799.00 INR
   - [Wine / XL](https://surgismart.in/products/classic-scrub-suit?variant=50570710647064)
@@ -3341,7 +3341,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-21T09:56:28Z
+  Updated: 2025-09-24T11:14:16Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-18T14:01:32Z
