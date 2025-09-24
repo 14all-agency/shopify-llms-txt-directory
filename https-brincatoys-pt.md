@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-24T00:01:04.970Z
+- Updated At: 2025-09-24T04:01:05.646Z
 
 ## Products
 
@@ -9772,7 +9772,7 @@ Cada um possui algo único nas suas aventuras de luta contra o crime, o
 que os torna ainda mais fortes quando trabalham juntos como a incrível 
 Equipa Aranha.
 Diverte-te com a figura do Homem de Ferro de 10 cm...
-  Updated: 2025-09-05T11:13:32Z
+  Updated: 2025-09-24T02:24:44Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
@@ -11100,7 +11100,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-dragon-ball-super-saiyan-vegeta-limit-breaker-series-303673623-3296580367368-dragon-ball-1178696309.jpg?v=1752890408
   Price: 26,99 € EUR
 - [Dragon Ball Limit Breaker - Ultimate Gohan | Brincatoys](https://brincatoys.pt/products/dragon-ball-limit-breaker-ultimate-gohan): Prepare os seus guerreiros favoritos para a batalha final com esta figura  articulada de Ultimate Gohan, com 30 cm, da colecção de brinquedos  Dragon Ball Limit Breaker. A figura tem um nível de detalhe incrível e 5 pontos de articulação. Recria as batalhas épicas e enfrenta os  teus adversários para ver quem é o guerreiro mais poderoso da galáxia.
-  Updated: 2025-08-21T00:06:45Z
+  Updated: 2025-09-24T00:28:43Z
   Vendor: Dragon Ball
   Product Type: + 4 anos
   Availability: Available
@@ -13831,7 +13831,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-star-wars-75370-stormtrooper-mech-667537024-5702017462844-lego-1178697716.jpg?v=1752799701
   Price: 18,90 € EUR
 - [Barbie Signature Mariah Carey](https://brincatoys.pt/products/barbie-signature-mariah-carey): Tudo que eu quero no Natal é... Uma boneca Barbie Mariah Carey! Qual a melhor maneira de comemorar as festas de fim de ano do que com a própria estrela da temporada? Mariah Carey é uma das artistas mais vendidas de todos os tempos, e a Barbie presta homenagem a esta incrível cantora com uma boneca colecionável criada à sua imagem e semelhança. A boneca está deslumbrante num vestido vermelho brilhante que parece sublime em qualquer cenário de inverno. O forro franzido nos quadris e a fenda dramática na bainha acrescentam detalhes atraentes. As luzes estão a brilhar por toda parte e Mariah destaca-se com o seu estilo característico! Os seus cachos glamorosos, acessórios prateados brilhantes e saltos vermelhos a combinar completam o visual festivo. Assim como o seu hino alegre "All I Want for Christmas is You" se tornou um item básico nas festas de fim de ano, deixe a boneca Mariah Barbie tornar-se uma parte preciosa da sua colecção. Dimensão: 23 x 33,50 x 9 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-08-23T17:58:52Z
+  Updated: 2025-09-24T01:09:06Z
   Vendor: Barbie Signature
   Product Type: + 6 anos
   Availability: Available
