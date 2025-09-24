@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-24T16:01:05.973Z
+- Updated At: 2025-09-24T20:01:08.580Z
 
 ## Products
 
@@ -1651,7 +1651,7 @@ melhor amiga, não vai participar e está só a ajudar! Cavalo de plástico e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-chocalho-burro-shake-me-124013525-7290107721356-brincatoys-1178693127.jpg?v=1752833179
   Price: 13,99 € EUR
 - [Chocalho Maracas Multitextura Girafa Sofia | Brinquedo Sensorial](https://brincatoys.pt/products/chocalho-maracas-multitextura-girafa-sofia): Descubra o Chocalho Maracas Multitextura Girafa Sofia. Estimule o desenvolvimento do seu bebé com este brinquedo sensorial 3 em 1,
-  Updated: 2025-09-16T10:29:51Z
+  Updated: 2025-09-24T18:56:51Z
   Vendor: Girafa Sofia
   Product Type: + 3 meses
   Availability: Available
@@ -12834,13 +12834,6 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-the-movie-barbie-em-roupa-rosa-do-faroeste-231607623-0194735160761-barbie-signature-1178697124.webp?v=1752905177
   Price: 84,99 € EUR
-- [Barbie The Movie - Barbie em Macacão Disco Dourado](https://brincatoys.pt/products/barbie-the-movie-barbie-em-macacao-disco-dourado): Saudações da Barbie Land! Barbie celebra Barbie O Filme com uma boneca de colecionador num deslumbrante macacão disco! O seu visual recria uma roupa de dança usada por Margot Robbie como Barbie no filme. A boneca Barbie brilha num macacão dourado sem alças completamente enfeitado com lantejoulas prateadas. Ele capta a luz e brilha de todos os ângul
-  Updated: 2025-09-24T08:41:11Z
-  Vendor: Barbie Signature
-  Product Type: + 12 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-the-movie-barbie-em-macacao-disco-dourado-231608223-194735160822-barbie-signature-1178697127.jpg?v=1752905285
-  Price: 79,99 € EUR
 - [Barbie The Movie - Barbie em Vestido Rosa Gingham](https://brincatoys.pt/products/barbie-the-movie-barbie-em-vestido-rosa-gingham): Saudações da Barbie Land!  Leve para casa uma parte de Barbie The Movie - Barbie em Vestido Rosa Gingham com esta boneca de colecionador!
   Updated: 2025-08-21T00:04:23Z
   Vendor: Barbie Signature
@@ -14998,6 +14991,36 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
+- [Cartão-presente](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
+  Updated: 2025-09-24T19:11:08Z
+  Vendor: Brincatoys
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartao-presente-brincatoys-1190870189.svg?v=1756907520
+  - [€20](https://brincatoys.pt/products/cartao-presente?variant=45469558604040)
+    Availability: Available
+    Price: 20,00 € EUR
+  - [€30](https://brincatoys.pt/products/cartao-presente?variant=45469558636808)
+    Availability: Available
+    Price: 30,00 € EUR
+  - [€40](https://brincatoys.pt/products/cartao-presente?variant=45469558669576)
+    Availability: Available
+    Price: 40,00 € EUR
+  - [€50](https://brincatoys.pt/products/cartao-presente?variant=45469558702344)
+    Availability: Available
+    Price: 50,00 € EUR
+  - [€60](https://brincatoys.pt/products/cartao-presente?variant=45469558735112)
+    Availability: Available
+    Price: 60,00 € EUR
+  - [€80](https://brincatoys.pt/products/cartao-presente?variant=45469558767880)
+    Availability: Available
+    Price: 80,00 € EUR
+  - [€100](https://brincatoys.pt/products/cartao-presente?variant=45469558800648)
+    Availability: Available
+    Price: 100,00 € EUR
+  - [€150](https://brincatoys.pt/products/cartao-presente?variant=45469558833416)
+    Availability: Available
+    Price: 150,00 € EUR
 - [Bluey Passar a Encomenda](https://brincatoys.pt/products/bluey-passar-a-encomenda): Apresentamos o emocionante conjunto de brinquedos Bluey Passar a Encomenda, o presente ideal para fascinar e estimular a imaginação das crianças em idade pré-escolar! Quem será o sortudo que abrirá o pacote e ganhará o prêmio do jato d'água quando a música parar? Bluey e Bingo usam os seus chapéus de festa neste pacote divertido, além de 2 acessórios de jogo engraçados. Este conjunto é inspirado na popular série de animação australiana ‘Bluey’ e promete horas de jogo interativo e educativo para os mais pequenos. Incluído neste conjunto estão quatro figuras adoráveis representando as personagens favoritas do programa: Bluey, Bingo, o pai do Lucky e Lila, acompanhadas por acessórios temáticos que enriquecem a brincadeira. Ademais, as figuras são desenhadas com detalhes autênticos e vibrantes que capturam a essência de cada personagem. Elas possuem um tamanho adequado para mãos pequenas, facilitando o manuseio e o jogo seguro. Além disso, a durabilidade destes brinquedos é garantida pela sua construção em materiais de alta qualidade, não tóxicos e seguros para as crianças. Cada figura vem com articulações móveis, permitindo que as crianças posicionem e movimentem as personagens durante as suas aventuras imaginárias. Os acessórios incluídos não só complementam as figuras mas também incentivam o jogo de faz de conta, permitindo que as crianças recriem cenas da série ou inventem as suas próprias histórias. Além do mais, este conjunto não é apenas uma fonte de entretenimento, mas também contribui para o desenvolvimento de habilidades sociais e criativas, promovendo a interação entre pares e o jogo cooperativo. Em suma, é um produto imprescindível para fãs de Bluey, adequado para crianças a partir dos 3 anos de idade. É também um excelente presente de aniversário ou para qualquer ocasião especial. Em suma... Conjunto de brinquedos inspirado na série ‘Bluey’; Inclui 4 figuras de personagens e acessórios temáticos; Promove criatividade e habilidades sociais; Feito com materiais seguros e duráveis; Ideal para crianças a partir dos 3 anos. Dimensão: 23 x 16 x 6 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-08-21T00:02:02Z
   Vendor: Bluey
@@ -16413,7 +16436,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-mordedor-pinguim-129044724-2600000-brincatoys-1178699828.jpg?v=1752947777
   Price: 16,99 € EUR
 - [Brinquedo para bebé - Mordedor Tigre](https://brincatoys.pt/products/brinquedo-para-bebe-mordedor-tigre): Descubra O brinquedo para bebé - Mordedor Tigre,  ideal para a fase da dentição. Design ergonômico, materiais seguros e fácil de higienizar.
-  Updated: 2025-09-19T10:27:57Z
+  Updated: 2025-09-24T16:57:40Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -19234,7 +19257,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60453-carrinha-de-resgate-salva-vidas-em-acao-666045325-5702017812434-lego-1178701869.jpg?v=1752978498
   Price: 26,80 € EUR
 - [Lego City 60454 Autocaravana para Aventuras nas Férias](https://brincatoys.pt/products/lego-city-60454-autocaravana-para-aventuras-nas-ferias): Viva a aventura em família com o Lego City 60454 Autocaravana para Aventuras nas Férias! Com 385 peças, a diversão nunca acaba.
-  Updated: 2025-09-23T18:58:52Z
+  Updated: 2025-09-24T18:19:02Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -19549,7 +19572,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-09-22T15:11:06Z
+  Updated: 2025-09-24T16:57:40Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -19661,7 +19684,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/homem-aranha-metamorfose-liquida-acao-e-diversao-85072825-5010996295392-marvel-1178692630.jpg?v=1752825138
   Price: 34,90 € EUR
 - [Nenuco rosa com 3 funções – Boneca Interativa](https://brincatoys.pt/products/nenuco-rosa-com-3-funcoes): Nenuco rosa com 3 funções, um brinquedo interactivo perfeito para estimular a empatia e cuidado nas crianças. Ideal para desenvolvimento socioeducativo.
-  Updated: 2025-09-18T13:26:14Z
+  Updated: 2025-09-24T18:56:51Z
   Vendor: Nenuco
   Product Type: Nenuco
   Availability: Available
@@ -20419,7 +20442,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-06T11:20:01Z
   Total Products: 100
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-09-24T12:13:41Z
+  Updated: 2025-09-24T17:04:25Z
   Total Products: 240
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-09-18T22:19:37Z
@@ -20497,26 +20520,26 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:20Z
   Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 1336
+  Updated: 2025-09-24T19:10:23Z
+  Total Products: 1337
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 2436
+  Updated: 2025-09-24T19:11:07Z
+  Total Products: 2437
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 2889
+  Updated: 2025-09-24T19:11:07Z
+  Total Products: 2890
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 3273
+  Updated: 2025-09-24T19:11:07Z
+  Total Products: 3274
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 3399
+  Updated: 2025-09-24T19:11:07Z
+  Total Products: 3400
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 3479
+  Updated: 2025-09-24T19:11:07Z
+  Total Products: 3480
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 3527
+  Updated: 2025-09-24T19:11:07Z
+  Total Products: 3528
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-09-23T21:34:19Z
   Total Products: 353
@@ -20530,7 +20553,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:13:41Z
   Total Products: 23
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
-  Updated: 2025-09-24T11:20:32Z
+  Updated: 2025-09-24T17:04:25Z
   Total Products: 20
 - [Baby Alive](https://brincatoys.pt/collections/baby-alive)
   Updated: 2025-09-16T15:14:20Z
@@ -20707,13 +20730,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-24T13:20:36Z
+  Updated: 2025-09-24T17:04:25Z
   Total Products: 3543
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-24T12:31:41Z
   Total Products: 284
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-09-24T11:20:32Z
+  Updated: 2025-09-24T17:04:25Z
   Total Products: 171
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-09-24T12:58:14Z
@@ -20737,17 +20760,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T19:13:20Z
   Total Products: 212
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
-  Updated: 2025-09-24T11:20:32Z
+  Updated: 2025-09-24T17:04:25Z
   Total Products: 92
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
   Updated: 2025-09-23T18:59:52Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 3559
+  Updated: 2025-09-24T19:10:23Z
+  Total Products: 3560
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-24T13:20:36Z
-  Total Products: 3559
+  Updated: 2025-09-24T19:10:23Z
+  Total Products: 3560
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20758,7 +20781,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-24T13:20:36Z
+  Updated: 2025-09-24T19:10:23Z
   Total Products: 3070
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
@@ -20767,7 +20790,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T19:12:44Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-24T13:20:36Z
+  Updated: 2025-09-24T19:10:23Z
   Total Products: 3070
 
 ## Blogs
