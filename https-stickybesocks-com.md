@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-09-24T00:00:33.622Z
+- Updated At: 2025-09-24T04:00:33.580Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/39_StickyBeSocks_250210.jpg?v=1743595180
   Price: $15.00 USD
 - [Buy Be You Grip Socks (Black/White) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-you-grip-socks-black-white): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be You Grip Socks (Black/White).
-  Updated: 2025-09-22T18:26:45Z
+  Updated: 2025-09-24T00:31:15Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -893,7 +893,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/SADIE_Girls-2T-Crew_1500x1500_4c2f4fc4-fb4d-46d3-a572-5c204a141d8e.jpg?v=1696086626
   Price: $17.00 USD
 - [Buy Girls 2 Pack Pom Pom Grip Socks 2T-4T (Annie) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/girls-2-pack-grip-socks-2t-4t): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Girls 2 Pack Pom Pom Grip Socks 2T-4T (Annie).
-  Updated: 2025-09-15T14:06:00Z
+  Updated: 2025-09-24T00:31:15Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
