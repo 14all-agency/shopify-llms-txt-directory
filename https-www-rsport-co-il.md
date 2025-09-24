@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-24T00:01:01.531Z
+- Updated At: 2025-09-24T04:01:00.220Z
 
 ## Products
 
@@ -7058,7 +7058,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק לבנה לברון ג'יימס](https://www.rsport.co.il/products/גופיית-משחק-לבנה-לברון-גיימס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:15:43Z
+  Updated: 2025-09-24T00:30:18Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14686,157 +14686,157 @@
   - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-1996-97?variant=46912844431610)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה 1986](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:43Z
+- [חולצת רטרו נבחרת ארגנטינה 1986](https://www.rsport.co.il/products/retro-shirt-arge-1986): חולצת רטרו נבחרת ארגנטינה 1986 עם עיצוב שמחזיר את הזכייה ההיסטורית במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
+  Updated: 2025-09-24T00:48:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1986_c7332e11-a135-4b87-a4bd-3e0a6c17c42b.jpg?v=1738544634
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986?variant=46912848265466)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-1986?variant=46912848265466)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986?variant=46912848298234)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-1986?variant=46912848298234)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986?variant=46912848331002)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-1986?variant=46912848331002)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986?variant=46912848363770)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-1986?variant=46912848363770)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-1986?variant=46912848396538)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-1986?variant=46912848396538)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה 2014](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2014): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:43Z
+- [חולצת רטרו נבחרת ארגנטינה 2014](https://www.rsport.co.il/products/retro-shirt-arge-2014): חולצת רטרו נבחרת ארגנטינה 2014 עם עיצוב שמחזיר את רגעי השיא במונדיאל, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה ונוחות יומיומית
+  Updated: 2025-09-24T00:47:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2014_3_fa9a2a36-3b97-44f7-9206-c7599aec993f.jpg?v=1738544641
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2014?variant=46912853147898)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-2014?variant=46912853147898)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2014?variant=46912853180666)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-2014?variant=46912853180666)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2014?variant=46912853213434)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-2014?variant=46912853213434)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2014?variant=46912853246202)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-2014?variant=46912853246202)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2014?variant=46912853278970)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-2014?variant=46912853278970)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:43Z
+- [חולצת רטרו נבחרת ארגנטינה 2006/07](https://www.rsport.co.il/products/retro-shirt-arge-2006-07): חולצת רטרו נבחרת ארגנטינה 2006/07 משחזרת את עיצוב הנבחרת מהטורניר ההיסטורי ומביאה את תחושת הכדורגל הארגנטינאי הישנה למגרש החולצה משולבת עם נוחות מודרנית ומספקת חווית לבישה יומיומית ואימונים בצורה מושלמת
+  Updated: 2025-09-24T00:50:14Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/06_07_a9da90be-5017-4f4e-82d3-a0967651231f.jpg?v=1738544640
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2006-07?variant=46912856555770)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-2006-07?variant=46912856555770)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2006-07?variant=46912856588538)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-2006-07?variant=46912856588538)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2006-07?variant=46912856621306)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-2006-07?variant=46912856621306)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2006-07?variant=46912856654074)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-2006-07?variant=46912856654074)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-2006-07?variant=46912856686842)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-2006-07?variant=46912856686842)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה חוץ  2006/07](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-19T07:46:29Z
+- [חולצת רטרו נבחרת ארגנטינה חוץ  2006/07](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07): חולצת רטרו נבחרת ארגנטינה חוץ 2006/07 עם עיצוב שמחזיר את רגעי השיא במונדיאל ובתחרויות הבינלאומיות, עשויה פוליאסטר קל ונושם לנוחות ותנועה מלאה
+  Updated: 2025-09-24T00:52:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/06_07_2_8f5c4302-762e-4007-8f23-9385b0768d97.jpg?v=1738544643
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2006-07?variant=46912859177210)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07?variant=46912859177210)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2006-07?variant=46912859209978)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07?variant=46912859209978)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2006-07?variant=46912859242746)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07?variant=46912859242746)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2006-07?variant=46912859275514)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07?variant=46912859275514)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2006-07?variant=46912859308282)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07?variant=46912859308282)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה חוץ 1986](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1986): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:45Z
+- [חולצת רטרו נבחרת ארגנטינה חוץ 1986](https://www.rsport.co.il/products/retro-shirt-arge-away-1986): חולצת רטרו נבחרת ארגנטינה חוץ 1986 עם עיצוב שמחזיר את רגעי הזכייה במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
+  Updated: 2025-09-24T00:54:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/86_317aedcf-2f99-48a4-a2f5-8c41370ea25f.jpg?v=1738544644
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1986?variant=46912867533050)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-away-1986?variant=46912867533050)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1986?variant=46912867565818)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-away-1986?variant=46912867565818)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1986?variant=46912867598586)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-away-1986?variant=46912867598586)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1986?variant=46912867631354)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-away-1986?variant=46912867631354)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-1986?variant=46912867664122)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-away-1986?variant=46912867664122)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ארגנטינה חוץ 2014](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2014): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-19T07:46:29Z
+- [חולצת רטרו נבחרת ארגנטינה חוץ 2014](https://www.rsport.co.il/products/retro-shirt-arge-away-2014): חולצת רטרו נבחרת ארגנטינה חוץ 2014 עם עיצוב שמחזיר את רגעי השיא במונדיאל 2014, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
+  Updated: 2025-09-24T00:55:32Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2014_48e377a6-cfe1-4f51-a687-095282181773.jpg?v=1738544647
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2014?variant=46912872120570)
+  - [S](https://www.rsport.co.il/products/retro-shirt-arge-away-2014?variant=46912872120570)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2014?variant=46912872153338)
+  - [M](https://www.rsport.co.il/products/retro-shirt-arge-away-2014?variant=46912872153338)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2014?variant=46912872186106)
+  - [L](https://www.rsport.co.il/products/retro-shirt-arge-away-2014?variant=46912872186106)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2014?variant=46912872218874)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-arge-away-2014?variant=46912872218874)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ארגנטינה-חוץ-2014?variant=46912872251642)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-arge-away-2014?variant=46912872251642)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חליפת ילדים רטרו נבחרת ארגנטינה חוץ 1994](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994): חליפת ילדים רטרו היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים גזרה: ילדים שרוולים : קצרים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T19:44:19Z
+- [חליפת ילדים רטרו נבחרת ארגנטינה חוץ 1994](https://www.rsport.co.il/products/retro-kids-arge-away-1994): חליפת ילדים רטרו נבחרת ארגנטינה חוץ 1994 עם עיצוב שמחזיר את רגעי השיא במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
+  Updated: 2025-09-24T00:59:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_01f58aa1-a690-4580-bfd1-2a9b1b41442e.jpg?v=1738544857
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912909050106)
+  - [XS](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912909050106)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912909082874)
+  - [XXS](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912909082874)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912902463738)
+  - [S](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912902463738)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912902496506)
+  - [M](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912902496506)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912902529274)
+  - [L](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912902529274)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912902562042)
+  - [XL](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912902562042)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ארגנטינה-חוץ-1994?variant=46912902594810)
+  - [XXL](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912902594810)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -15461,7 +15461,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010): חולצת רטרו אינטר מילאן (Inter Milan) גמר ליגת האלופות 2010 היא חולצת כדורגל קלאסית לגברים מבוגרים, שרוולים קצרים, בגזרה רגילה. החולצה עשויה 100% פוליאסטר קל ונושם, המנדף זיעה ומתייבש במהירות, ומספק נוחות מלאה בימי אימון, משחק או לבישה יומיומית. עיצוב אותנטי בהשראת סגנון הקלאסי של אינטר מילאן, עם שילוב צבעי כחול ושחור, מושלם לאוהדים ולחובבי חולצות רטרו כדורגל.
-  Updated: 2025-09-23T14:30:20Z
+  Updated: 2025-09-24T02:14:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17624,7 +17624,7 @@
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
 - [אימונית אדומה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים): תמוך במנצ'סטר יונייטד עם אימונית אדומה לעונת 24/25 לגברים חליפת אימון ארוכה הכוללת חולצה ומכנסיים ארוכים בעיצוב שמעניק נוחות מלאה בכל פעילות עשויה 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים קרים הרוכסן בחזית מאפשר שליטה בטמפרטורה ונוחות אישית והגזרה מותאמת לגברים לאימונים בחורף או לשימוש יומיומי מחוץ למגרש
-  Updated: 2025-09-23T13:43:49Z
+  Updated: 2025-09-24T01:43:07Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -17645,7 +17645,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית שחורה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים): הראה את תמיכתך במנצ'סטר יונייטד עם אימונית שחורה לעונת 24/25 לגברים חליפת אימון ארוכה שמגיעה עם חולצה ומכנסיים ארוכים ומספקת שילוב של סגנון ונוחות לכל פעילות הבד עשוי 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים הקרים רוכסן קדמי מאפשר שליטה מלאה בטמפרטורה והגזרה מותאמת לגברים לאימונים אינטנסיביים בחורף וגם לשימוש יומיומי מחוץ למגרש
-  Updated: 2025-09-23T13:48:40Z
+  Updated: 2025-09-24T01:49:05Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -17708,7 +17708,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [אימונית כדורגל מנצ'סטר יונייטד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים): אימונית כדורגל מנצ'סטר יונייטד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר התאמה אישית לטמפרטורה והעיצוב המודרני מתאים גם לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
-  Updated: 2025-09-23T13:55:40Z
+  Updated: 2025-09-24T01:57:49Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -17972,7 +17972,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [אימונית נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים): תמוך בנבחרת ארגנטינה עם אימונית ארוכה לעונת 24/25 לגברים חליפת אימון הכוללת חולצה ומכנסיים ארוכים בעיצוב שמעניק נוחות מלאה בכל פעילות עשויה 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים קרים הרוכסן בחזית מאפשר שליטה בטמפרטורה ונוחות אישית והגזרה מותאמת לגברים לאימונים בחורף או לשימוש יומיומי מחוץ למגרש
-  Updated: 2025-09-23T13:46:24Z
+  Updated: 2025-09-24T01:46:31Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -17993,7 +17993,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית שחורה נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים): תמוך בנבחרת ארגנטינה עם אימונית שחורה לעונת 24/25 לגברים חליפת אימון ארוכה המשלבת חולצה ומכנסיים ארוכים ומעניקה מראה אלגנטי יחד עם ביצועים גבוהים עשויה 100% פוליאסטר קל ונושם השומר על חום הגוף ומנדף לחות הרוכסן הקדמי מאפשר התאמה אישית לטמפרטורה והגזרה המיוחדת מתאימה לגברים לאימוני חורף אינטנסיביים וגם ללבישה יומיומית מחוץ למגרש
-  Updated: 2025-09-23T13:49:48Z
+  Updated: 2025-09-24T01:50:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19181,7 +19181,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים חולצה ארוכה עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם המעניקה חימום ונוחות אופטימלית בימי גשם וחורף הבד מנדף לחות ושומר על תחושת יובש לאורך כל פעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא האימונית אידיאלית לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשדרג כל הופעה
-  Updated: 2025-09-23T13:59:12Z
+  Updated: 2025-09-24T02:00:34Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19202,7 +19202,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים): הראה את תמיכתך בריאל מדריד עם אימונית ארוכה לעונת 24/25 לילדים חליפת אימון בעיצוב נוח וקל משקל עשויה 100% פוליאסטר איכותי המספק הגנה בימי גשם וחורף האימונית משלבת נוחות ואוורור ומאפשרת חופש תנועה מלא בין אם על המגרש או ביום יום העמידות למים יחד עם מראה ייחודי יוצרים שילוב מושלם של סטייל ופונקציונליות שילדים אוהבים ללבוש בכל הזדמנות
-  Updated: 2025-09-23T13:51:56Z
+  Updated: 2025-09-24T01:53:33Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19223,7 +19223,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 לבנה | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-לבנה-ילדים): אימונית כדורגל ריאל מדריד 24/25 לבנה עם מכנס כחול עשויה 100% פוליאסטר קל ונושם שמספקת הגנה ונוחות בימי חורף וגשם הגזרה מותאמת לתנועה חופשית ומאפשרת חופש תנועה מלא מתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב כולל עמידות למים ואוורור עם שילוב צבעים ייחודי שמשדרג את המראה
-  Updated: 2025-09-23T14:06:00Z
+  Updated: 2025-09-24T02:06:05Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19244,7 +19244,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה מושלמת בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
-  Updated: 2025-09-23T13:56:44Z
+  Updated: 2025-09-24T02:25:39Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19265,7 +19265,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד שחורה 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-שחורה-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים חליפת אימון ארוכה קלה ונושמת, עשויה 100% פוליאסטר, שמספקת הגנה בימי גשם וחורף ושומרת על נוחות מקסימלית לאורך כל הפעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא מתאימה לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשלב עמידות למים ואוורור
-  Updated: 2025-09-23T14:03:51Z
+  Updated: 2025-09-24T01:59:42Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19307,7 +19307,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים-צבע-אפור): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה קלה ונושמת, עשויה 100% פוליאסטר, שמספקת הגנה אמינה בימי חורף וגשם ושומרת על נוחות מלאה כל הזמן הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא, מתאימה לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
-  Updated: 2025-09-23T14:01:32Z
+  Updated: 2025-09-24T02:02:21Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19328,7 +19328,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים-כחולה): אימונית כדורגל ריאל מדריד 24/25 ילדים עיצוב ארוך עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם שמעניק הגנה מושלמת בימי גשם וחורף ושומר על נוחות וחופש תנועה הבד מנדף לחות ושומר על יובש לאורך כל הפעילות מתאימה לאימונים על המגרש וללבישה יומיומית עם מראה מודרני שמשלב פונקציונליות וסטייל
-  Updated: 2025-09-23T13:59:50Z
+  Updated: 2025-09-24T02:01:19Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19349,7 +19349,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים-לבן-כתום): אימונית כדורגל ריאל מדריד 24/25 ילדים חליפת אימון ארוכה לילדים שמציעה שילוב של נוחות וביצועים בימי חורף וגשם הבד עשוי 100% פוליאסטר קל ונושם שמספק חימום ואוורור מושלם ושומר על תחושת יובש לאורך כל הפעילות הגזרה מאפשרת חופש תנועה מלא ומותאמת לאימונים על המגרש וגם ללבישה יומיומית עם עיצוב מודרני שמוסיף סטייל ייחודי
-  Updated: 2025-09-23T14:00:42Z
+  Updated: 2025-09-24T02:00:47Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19370,7 +19370,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית כדורגל ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים-צבע-לבן-כתום): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה ונוחה לילדים, עשויה 100% פוליאסטר קל ונושם, המספקת חימום והגנה בימי חורף וגשם הבד מנדף לחות ושומר על תחושת יובש לאורך כל הפעילות הגזרה מותאמת לתנועה חופשית ומתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב המודרני משלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
-  Updated: 2025-09-23T14:02:32Z
+  Updated: 2025-09-24T02:02:43Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19391,7 +19391,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית חצי רוכסן ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים): אימונית חצי רוכסן ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמעניק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים גם לאימונים וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים זו בחירה מצוינת לילדים שאוהבים את הקבוצה
-  Updated: 2025-09-23T13:54:04Z
+  Updated: 2025-09-24T02:24:37Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19433,7 +19433,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית ז'קט ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-ילדים): אימונית ז'קט ריאל מדריד 24/25 ילדים הראה את תמיכתך בריאל מדריד עם אימונית ארוכה בעיצוב מותאם לילדים עשויה 100% פוליאסטר קל ונושם המספק הגנה מושלמת לימי גשם וחורף תוך שמירה על נוחות ואוורור האימונית מתאימה גם לאימונים על המגרש וגם ללבישה יומיומית ומעניקה שילוב מנצח של סטייל ופונקציונליות עמידות למים יחד עם מראה ייחודי מבטיחים שימוש מושלם בכל מצב
-  Updated: 2025-09-23T13:52:58Z
+  Updated: 2025-09-24T01:54:32Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -28775,7 +28775,7 @@
     Availability: Available
     Price: ‏230.00 ‏₪ ILS
 - [גרבי כדורגל צ'לסי בית 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-צלסי-בית-25-26): גרבי כדורגל צ'לסי בית 25/26 עשויים מחומרים איכותיים המשלבים נוחות וגמישות לאורך כל המשחק. התמהיל כולל פוליאסטר, כותנה וספנדקס, ומיועדים לתמוך בכף הרגל תוך שמירה על מראה ספורטיבי ומעודכן שמתאים לאוהדי צ'לסי האמיתיים.
-  Updated: 2025-09-18T18:30:38Z
+  Updated: 2025-09-24T00:17:52Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
