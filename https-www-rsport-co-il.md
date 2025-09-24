@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-24T12:01:02.426Z
+- Updated At: 2025-09-24T16:01:02.928Z
 
 ## Products
 
@@ -8144,7 +8144,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [גרבי כדורגל נבחרת פורטוגל 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-נבחרת-פורטוגל-2024-2025): גרבי כדורגל נבחרת פורטוגל 2024/2025 גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש
-  Updated: 2025-09-23T22:07:30Z
+  Updated: 2025-09-24T14:02:48Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -9575,7 +9575,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנס שיקגו בולס JUST DON צבע שחור](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור): מכנסי JUST DON שיקגו בולס בצבע שחור הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:14:51Z
+  Updated: 2025-09-24T15:58:27Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -14624,7 +14624,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה חוץ 1994](https://www.rsport.co.il/products/retro-shirt-arge-away-1994): חולצת רטרו נבחרת ארגנטינה חוץ 1994 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
-  Updated: 2025-09-23T23:29:44Z
+  Updated: 2025-09-24T13:49:57Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14645,7 +14645,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה 1998](https://www.rsport.co.il/products/retro-shirt-arge-1998): חולצת רטרו נבחרת ארגנטינה 1998 משחזרת את הסגנון הקלאסי של הנבחרת ומספקת חווית לבישה נוחה עם עיצוב מסורתי שמתאים לאימונים וללבישה יומיומית חולצות רטרו מחברות בין אוהדים לדורות הקודמים של הקבוצה
-  Updated: 2025-09-23T23:32:59Z
+  Updated: 2025-09-24T15:06:53Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14687,7 +14687,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה 1986](https://www.rsport.co.il/products/retro-shirt-arge-1986): חולצת רטרו נבחרת ארגנטינה 1986 עם עיצוב שמחזיר את הזכייה ההיסטורית במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
-  Updated: 2025-09-24T00:48:20Z
+  Updated: 2025-09-24T12:09:53Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14729,7 +14729,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה 2006/07](https://www.rsport.co.il/products/retro-shirt-arge-2006-07): חולצת רטרו נבחרת ארגנטינה 2006/07 משחזרת את עיצוב הנבחרת מהטורניר ההיסטורי ומביאה את תחושת הכדורגל הארגנטינאי הישנה למגרש החולצה משולבת עם נוחות מודרנית ומספקת חווית לבישה יומיומית ואימונים בצורה מושלמת
-  Updated: 2025-09-24T00:50:14Z
+  Updated: 2025-09-24T12:50:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14750,7 +14750,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה חוץ  2006/07](https://www.rsport.co.il/products/retro-shirt-arge-away-2006-07): חולצת רטרו נבחרת ארגנטינה חוץ 2006/07 עם עיצוב שמחזיר את רגעי השיא במונדיאל ובתחרויות הבינלאומיות, עשויה פוליאסטר קל ונושם לנוחות ותנועה מלאה
-  Updated: 2025-09-24T00:52:15Z
+  Updated: 2025-09-24T12:52:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14771,7 +14771,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה חוץ 1986](https://www.rsport.co.il/products/retro-shirt-arge-away-1986): חולצת רטרו נבחרת ארגנטינה חוץ 1986 עם עיצוב שמחזיר את רגעי הזכייה במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
-  Updated: 2025-09-24T00:54:01Z
+  Updated: 2025-09-24T12:54:07Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14792,7 +14792,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה חוץ 2014](https://www.rsport.co.il/products/retro-shirt-arge-away-2014): חולצת רטרו נבחרת ארגנטינה חוץ 2014 עם עיצוב שמחזיר את רגעי השיא במונדיאל 2014, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
-  Updated: 2025-09-24T00:55:32Z
+  Updated: 2025-09-24T15:19:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14813,7 +14813,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חליפת ילדים רטרו נבחרת ארגנטינה חוץ 1994](https://www.rsport.co.il/products/retro-kids-arge-away-1994): חליפת ילדים רטרו נבחרת ארגנטינה חוץ 1994 עם עיצוב שמחזיר את רגעי השיא במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
-  Updated: 2025-09-24T00:59:03Z
+  Updated: 2025-09-24T14:25:50Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15860,7 +15860,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו ארסנל חוץ 1993/94 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-1993-94): חולצת רטרו ארסנל חוץ 1993/94 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
-  Updated: 2025-09-23T22:54:44Z
+  Updated: 2025-09-24T12:04:33Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15986,7 +15986,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו ארסנל חוץ 1995/96 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-away-1995-96): חולצת רטרו ארסנל חוץ 1995/96 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
-  Updated: 2025-09-23T22:56:19Z
+  Updated: 2025-09-24T14:04:05Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16301,7 +16301,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו אתלטיקו מדריד חוץ 2004/05](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05): חולצת רטרו אתלטיקו מדריד חוץ 2004/05 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
-  Updated: 2025-09-23T23:16:36Z
+  Updated: 2025-09-24T14:01:59Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -36710,7 +36710,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת ברצלונה משחקי בית 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ברצלונה-משחקי-בית-25-26-אותנטית-גברים): גלה את חולצת ברצלונה הביתית והאותנטית לעונת 25/26. איכות גבוהה, נוחות מרבית ועיצוב קלאסי. חובה לכל אוהד
-  Updated: 2025-09-23T14:49:36Z
+  Updated: 2025-09-24T14:30:11Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
