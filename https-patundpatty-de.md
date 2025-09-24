@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-23T20:00:31.187Z
+- Updated At: 2025-09-24T00:00:32.720Z
 
 ## Products
 
@@ -936,7 +936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Lavendelkissen-Schwein-Mit-Fuellung-PAT-Und-PATTY.jpg?v=1753088672
     Price: 22,50 € EUR
 - [Lavendelkissen Eule – Bio & beruhigend | PAT & PATTY](https://patundpatty.de/products/bio-lavendelkissen-eule): Bio Lavendelkissen Eule für Babys & Erwachsene. Handgemacht, beruhigend, fördert erholsamen Schlaf. Nachhaltig & weich. Jetzt entdecken & bestellen!
-  Updated: 2025-09-19T07:18:00Z
+  Updated: 2025-09-23T20:47:35Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Gans-Verpackt-Geschenk-Handgemacht-Pat-Und-Patty.jpg?v=1751889521
     Price: 30,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Eule – fair & einzigartig | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-eule): Personalisiertes Bio-Schmusetuch Eule – weich, einzigartig & schadstofffrei. Handgemacht mit Namen. Jetzt bei PAT&PATTY entdecken & bestellen!
-  Updated: 2025-09-23T09:42:00Z
+  Updated: 2025-09-23T21:42:09Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
