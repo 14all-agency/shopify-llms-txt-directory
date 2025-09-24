@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-24T00:00:35.048Z
+- Updated At: 2025-09-24T08:00:33.704Z
 
 ## Products
 
@@ -9678,6 +9678,9 @@
     Author: User
   - [A Step-by-Step Guide to Selecting Upholstery Fabrics](https://fabricsstar.com/blogs/news/a-step-by-step-guide-to-selecting-upholstery-fabrics): A Step-by-Step Guide to Selecting Upholstery Fabrics
     Updated: 2025-09-22T03:39:15Z
+    Author: User
+  - [Debunking Common Myths About Organic Cotton](https://fabricsstar.com/blogs/news/debunking-common-myths-about-organic-cotton): Debunking Common Myths About Organic Cotton
+    Updated: 2025-09-24T02:33:30Z
     Author: User
 
 ## Store Pages
