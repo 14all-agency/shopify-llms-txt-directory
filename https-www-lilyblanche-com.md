@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-23T20:00:44.703Z
+- Updated At: 2025-09-24T00:00:45.957Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16257,7 +16257,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Heart Shaped Rose Gold Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-rose-gold): Looking for an extra special necklace? This pretty filigree style rose gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This rose gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Express delivery available. Personalise online today.
-  Updated: 2025-09-23T09:11:48Z
+  Updated: 2025-09-23T21:09:16Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17690,7 +17690,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_diamond_initial_necklace_R.jpg?v=1741872491
     Price: £260.00 GBP
 - [Solid White Gold Curb Chain | Premium Quality Chain | UK Made](https://www.lilyblanche.com/products/solid-white-gold-curb-chain): Quality & strength assured, this classic, medium-weight, solid 9 carat white gold curb chain is perfect for any occasion.  Free shipping & free care kit today
-  Updated: 2025-09-23T09:37:47Z
+  Updated: 2025-09-23T21:37:53Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -17717,7 +17717,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £410.00 GBP
 - [Solid Gold Curb Chain | Premium Quality Medium Weight 9 Carat Chain](https://www.lilyblanche.com/products/solid-gold-curb-chain): Quality and strength assured this classic, solid gold medium-weight close curb chain is the perfect chain for any occasion. Free shipping & jewellery care kit.
-  Updated: 2025-09-23T10:04:16Z
+  Updated: 2025-09-23T22:04:22Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -17954,7 +17954,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_Q.jpg?v=1751452492
     Price: £124.00 GBP
 - [Rope Chain in Solid 9 Carat Gold](https://www.lilyblanche.com/products/solid-gold-rope-chain): This beautiful, 9-carat solid gold Prince of Wales rope chain will add interest and texture to any pendant or locket. Wear on its own or layered for added sophistication. Free jewellery care kit with all orders. Free UK shipping today
-  Updated: 2025-09-23T08:43:13Z
+  Updated: 2025-09-23T23:17:36Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -21817,7 +21817,7 @@ From £119
     Price: £555.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 GBP 340
-  Updated: 2025-09-23T17:14:32Z
+  Updated: 2025-09-23T21:39:41Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
