@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-24T08:00:36.412Z
+- Updated At: 2025-09-24T12:00:36.105Z
 
 ## Products
 
@@ -3625,7 +3625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [Galvanised 7 Strand Clothesline Wire](https://everydayhome.co.nz/products/30m-galvanized-7-strand-wire): Strong galvanised 7-strand clothesline is ideal for use for replacement wire on your clothesline, typically on galvanised rotary hoist clotheslines, T-bar clotheslines, or as a single wire between trees! Galvanised high grade wire, specifically made for clotheslines 7 strands 3.36mm in diameter 42 meter or 50 meter lengths Works great with Large Gripples or SwiftDry Line Tensioner for tensioning, or can be tied back on itself We do not recommend using the Clothesline Ratchet to tension this wire Has a long history of lasting for many years with active use
-  Updated: 2025-09-23T12:40:59Z
+  Updated: 2025-09-24T10:51:47Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -5196,7 +5196,7 @@
   Updated: 2023-06-27T03:20:33Z
   Total Products: 0
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-09-23T12:21:21Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
   Updated: 2025-09-23T12:19:22Z
@@ -5214,13 +5214,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-23T21:31:05Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-23T21:31:05Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-09-23T21:31:05Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-09-23T12:19:51Z
@@ -5328,7 +5328,7 @@
   Updated: 2025-09-23T21:31:05Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-09-23T12:19:29Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
   Updated: 2025-09-23T12:19:51Z
@@ -5526,10 +5526,10 @@
   Updated: 2025-09-23T21:31:05Z
   Total Products: 157
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-09-23T12:40:36Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
-  Updated: 2025-09-23T12:19:29Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
   Updated: 2025-09-23T21:30:50Z
@@ -5571,10 +5571,10 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-23T21:31:05Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-09-23T12:40:36Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-09-23T12:17:01Z
@@ -5592,7 +5592,7 @@
   Updated: 2025-09-23T12:19:51Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-09-23T12:21:21Z
+  Updated: 2025-09-24T11:07:48Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
   Updated: 2025-09-23T12:19:26Z
