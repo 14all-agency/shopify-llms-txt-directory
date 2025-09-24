@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-24T04:00:49.637Z
+- Updated At: 2025-09-24T08:00:48.201Z
 
 ## Products
 
@@ -11040,7 +11040,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-09-19T12:22:42Z
+  Updated: 2025-09-24T05:42:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -14239,7 +14239,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103353-p00038_1_3fdb51fe-d190-4e8d-820c-2f38400ae78c.jpg?v=1748423209
   Price: $89.00 NZD
 - [MODERN MINI Beige Multi-Use Cover](https://www.littlebambinos.co.nz/products/beige-multi-use-cover): Protect your baby with the versatile Beige Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-09-14T07:22:42Z
+  Updated: 2025-09-24T04:52:46Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -15744,7 +15744,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-24T03:43:12Z
+  Updated: 2025-09-24T07:43:11Z
   Total Products: 398
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16596,7 +16596,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-24T03:43:12Z
+  Updated: 2025-09-24T07:43:11Z
   Total Products: 1268
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-23T11:02:22Z
