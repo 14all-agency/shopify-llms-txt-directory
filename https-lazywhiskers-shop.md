@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-09-24T00:00:30.043Z
+- Updated At: 2025-09-24T12:00:30.310Z
 
 ## Products
 
@@ -702,8 +702,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8b1619ee-1fa2-4967-b440-80240367433a.webp?v=1757586090
     Price: €21.99 EUR
-- [LazyWhiskers Unisex Tee | Front & Back Cat Print Streetwear | Peace inside Outside not my problem](https://lazywhiskers.shop/products/outside-not-my-problem): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey
-  Updated: 2025-09-23T03:21:51Z
+- [LazyWhiskers Unisex Tee | Front & Back Cat Print | Peace inside](https://lazywhiskers.shop/products/outside-not-my-problem): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey
+  Updated: 2025-09-24T09:45:09Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1721,7 +1721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5113ca0d-b4cf-4119-a0b5-5794b88f6a95.webp?v=1758535311
     Price: €21.99 EUR
 - [Ghosted Again Hoodie | Funny Spooky Cat Halloween Sweatshirt](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear): Stay cozy and sarcastic with the “Ghosted Again” hoodie. Featuring a ghost-cat graphic, it’s the perfect mix of funny, spooky, and comfy streetwear.
-  Updated: 2025-09-23T13:57:40Z
+  Updated: 2025-09-24T01:53:25Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2113,9 +2113,6 @@
 - [Unisex T-Shirts | LazyWhiskers Cat Streetwear](https://lazywhiskers.shop/collections/funny-cat-t-shirts): Shop LazyWhiskers Unisex T-Shirts: bold cat-inspired graphics, regular fit, rebellious streetwear vibes. Wear attitude, not basics.
   Updated: 2025-09-23T14:36:27Z
   Total Products: 14
-- [AVADA - Best Sellers](https://lazywhiskers.shop/collections/avada-best-sellers)
-  Updated: 2025-09-22T14:14:00Z
-  Total Products: 24
 - [Funny Halloween Cat Shirts & Hoodies | LazyWhiskers 2025](https://lazywhiskers.shop/collections/halloween-cat-shirts-2025): Discover the LazyWhiskers Halloween Collection 2025 –funny cat shirts, spooky hoodies, and sarcastic tees for the season. Perfect for Halloween parties & gifts.
   Updated: 2025-09-23T10:01:17Z
   Total Products: 7
@@ -2130,14 +2127,14 @@
 
 ## Store Pages
 
-- [Contact | LazyWhiskers Customer Support](https://lazywhiskers.shop/pages/contact): 
-  Updated: 2025-08-20T07:57:45Z
-- [Your privacy choices](https://lazywhiskers.shop/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-08-10T13:59:04Z
-- [About Us | LazyWhiskers – Designed to Disobey](https://lazywhiskers.shop/pages/about-us): 
-  Updated: 2025-08-20T07:56:59Z
-- [FAQ | LazyWhiskers Questions Answered](https://lazywhiskers.shop/pages/frequently-asked-questions-faq): 
-  Updated: 2025-08-20T07:56:26Z
+- [Contact | LazyWhiskers Customer Support](https://lazywhiskers.shop/pages/contact): Need help with your order? Got a question about sizing, shipping, or how our cats always look cooler than us humans? You’re in the right place. At ...
+  Updated: 2025-09-24T10:19:43Z
+- [Your Privacy Choices | LazyWhiskers Data & Cookie Settings](https://lazywhiskers.shop/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-09-24T09:56:30Z
+- [About Us | LazyWhiskers – Designed to Disobey](https://lazywhiskers.shop/pages/about-us): LazyWhiskers was born from a simple idea: what if streetwear could be as bold, independent, and unpredictable as cats? Our brand blends fashion wit...
+  Updated: 2025-09-24T10:01:12Z
+- [FAQ | LazyWhiskers Questions Answered](https://lazywhiskers.shop/pages/frequently-asked-questions-faq): Welcome to the LazyWhiskers FAQ. Here you’ll find clear answers about orders, shipping, sizing, returns and our print-on-demand process. Every item...
+  Updated: 2025-09-24T10:22:45Z
 
 ## Policies
 
