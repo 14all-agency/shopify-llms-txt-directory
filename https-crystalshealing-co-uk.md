@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-23T20:32:32.268Z
+- Updated At: 2025-09-24T04:00:34.297Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -2188,7 +2188,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/il_fullxfull.3192569808_b1pk.jpg?v=1739738539
     Price: £21.00 GBP
 - [March Birthstone Bracelet - Citrine & Aquamarine](https://crystalshealing.co.uk/products/march-birthstone-bracelet): Celebrate March with the March Birthstone Bracelet, featuring citrine, aquamarine, and sapphire to inspire clarity, courage, and timeless elegance.
-  Updated: 2025-09-10T05:21:19Z
+  Updated: 2025-09-23T23:54:03Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4782,7 +4782,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1437616106_9d5413d3-24c7-44f4-beb3-1774de5cb890.jpg?v=1754662350
   Price: £8.00 GBP
 - [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfection: This hand-carved Rose Quartz mushroom massage tool may show visible surface flaws – scratches, uneven polish or slight asymmetry – but it’s fully functional and energetically active. Designed to fit comfortably in your palm, the mushroom shape is perfect for: Facial massage & tension release Reflexology & pressure points Lymphatic drainage Crystal healing rituals Rose Quartz is the crystal of unconditional love, emotional renewal, and heart-centered calm. Even imperfect, it radiates deep energetic support. Benefits of Use: Relieves facial muscle tension & puffiness Promotes circulation & glow Activates heart chakra through touch-based rituals Supports nervous system relaxation during self-care Product Details: Size: approx. 5 cm × 5 cm Shape: Mushroom (palm-sized, rounded top) Material: Ethically sourced Rose Quartz Surface: May show moderate to major scratches, rough patches or finish irregularities Sold individually Please Note: These tools are: Fully usable, despite cosmetic imperfections Not suitable as gift items for display perfectionists Discounted due to visual flaws only Final sale – healing happens beyond the surface Why Sacred Imperfections? Extends life to crystals with minor production flaws Reduces waste in crystal carving industry Affirms value beyond visual standards Celebrates functional beauty over flawless appearance
-  Updated: 2025-09-23T20:26:17Z
+  Updated: 2025-09-23T20:47:41Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
