@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-24T12:01:11.722Z
+- Updated At: 2025-09-24T16:01:05.973Z
 
 ## Products
 
@@ -1425,14 +1425,6 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/set-carimbos-princesas-e-fadas-para-criatividade-711078425-3760119710784-brincatoys-1182660506.jpg?v=1756213919
   Price: 14,99 € EUR
-- [Carrinho Taxi](https://brincatoys.pt/products/carrinho-taxi): Este taxi clássico americano é perfeito para brincar no chão lá em casa! Com 
-8,5x5,7cm, anda quando é empurrado, através de um sistema de propulsão.
-  Updated: 2025-09-17T20:16:22Z
-  Vendor: Brincatoys
-  Product Type: + 2 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carrinho-taxi-810667722-brincatoys-1178693039.jpg?v=1752819741
-  Price: 13,99 € EUR
 - [Carro com bola](https://brincatoys.pt/products/carro-com-bola): A bola entra no seu carro descapotáveL e faz uma corrida.
   Updated: 2025-09-13T11:43:46Z
   Vendor: Brincatoys
@@ -1717,13 +1709,6 @@ curta e roliça.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alice-no-pais-das-maravilhas-coelho-branco-brincatoys-621140222-brincatoys-1178693179.jpg?v=1752834366
   Price: 8,99 € EUR
-- [Peluche Coelho Bege 25 cm da Kaloo: Um Presente Especial](https://brincatoys.pt/products/peluche-coelho-bege-25-cm-da-kaloo): Leve para casa o Peluche Coelho Bege de 25 cm da Kaloo e proporcione um mundo cheio de ternura para os mais pequenos. Um coelhinho fofinho e macio.
-  Updated: 2025-09-21T13:55:21Z
-  Vendor: Brincatoys
-  Product Type: + 0 meses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-coelho-bege-25-cm-da-kaloo-um-presente-especial-227220422-4894173100188-brincatoys-1178693183.jpg?v=1752834378
-  Price: 22,50 € EUR
 - [Coelho de peluche](https://brincatoys.pt/products/coelho-de-peluche-1): Coelho de peluche com aproximadamente 37 cm que  se tornará um amigo inseparável das crianças. Composto de malha de algodão, com corte curto, enchido de poliéster e lavável à mão a 30 ° C.
   Updated: 2025-09-08T10:36:08Z
   Vendor: Brincatoys
@@ -11317,7 +11302,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-mini-saia-loira-brincatoys-59279923-0887961927993-barbie-1178696423.jpg?v=1752892454
   Price: 15,99 € EUR
 - [Barbie Princesa Loira | Brincatoys](https://brincatoys.pt/products/barbie-princesa-loira): Esta linda princesa Barbie vestida de rosa, com detalhes com laços, está pronta para um baile real! Ela vai brilhar com o seu lindo corpete com detalhes característicos e a saia brilhante a combinar. Os sapatos e a tiara completam o visual. Entre no seu reino de contos de fadas com esta graciosa princesa! Inclui boneca princesa Barbie com roupa e a
-  Updated: 2025-09-16T23:20:01Z
+  Updated: 2025-09-24T12:15:49Z
   Vendor: Barbie
   Product Type: Barbie
   Availability: Available
@@ -12346,9 +12331,9 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pandeireta-raposa-26856023-3048700085603-brincatoys-1178696877.jpg?v=1752900857
   Price: 13,99 € EUR
 - [Pandeireta Leão Arco-íris](https://brincatoys.pt/products/pandeireta-leao-arco-iris): Descubra esta pandeireta arco-íris ilustrada por Andy Westface, uma linda pandeireta com cabeça de leão poeticamente ilustrada em tons de arco-íris para crianças a partir dos 3 anos. Óptimo suporte para introduzir as crianças nas alegrias da percussão e do ritmo, permitindo que desenvolvam as suas habilidades auditivas e a sua criatividade.  Dimens
-  Updated: 2025-08-21T00:05:04Z
+  Updated: 2025-09-24T13:20:41Z
   Vendor: Brincatoys
-  Product Type: + 3 anos
+  Product Type: Instrumentos musicais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pandeireta-leao-arco-iris-26740823-brincatoys-1178696879.webp?v=1752900962
   Price: 13,99 € EUR
@@ -15385,14 +15370,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-42169-technic-neom-mclaren-replica-autentica-664216924-5702017583549-lego-1178698878.jpg?v=1752794522
   Price: 58,50 € EUR
 - [LEGO 42178 Technic Surface Space Loader - Aventura Espacial](https://brincatoys.pt/products/lego-technic-surface-space-loader-lt78): Domine terrenos extraterrestres com o LEGO 42178 Technic Surface Space Loader! Engenho e técnica numa aventura cósmica fundem-se neste conjunto.
-  Updated: 2025-08-21T00:01:36Z
+  Updated: 2025-09-24T12:53:51Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-42178-technic-surface-space-loader-aventura-espacial-664217824-5702017584126-lego-1178698881.jpg?v=1752794532
   Price: 38,50 € EUR
 - [Lego 71812 Ninjago O Robô Trepador Ninja do Kai](https://brincatoys.pt/products/lego-ninjago-o-robo-trepador-ninja-do-kai): Lego 71812 Ninjago O Robô Trepador Ninja do Kai. Explore suas articulações dinâmicas e minifiguras inclusas. Ideal para entusiastas de Ninjago.
-  Updated: 2025-08-21T00:01:35Z
+  Updated: 2025-09-24T12:53:51Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -16106,7 +16091,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-71816-ninjago-mota-de-gelo-do-zane-aventura-ninjago-667181624-5702017584591-lego-1178699505.jpg?v=1752942855
   Price: 12,50 € EUR
 - [Lego10330 Icons McLaren MP4/4 - Homenagem a Ayrton Senna](https://brincatoys.pt/products/lego-10330-icons-mclaren-mp4-4-e-ayrton-senna): Lego10330 Icons McLaren MP4/4,. Preste tributo ao Ayrton Senna com este conjunto colecionável de 693 peças repleto de detalhes autênticos.
-  Updated: 2025-09-23T18:59:22Z
+  Updated: 2025-09-24T12:53:51Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -16414,7 +16399,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-chocalho-galo-shake-me-124013324-7290107721332-brincatoys-1178699821.jpg?v=1752947537
   Price: 13,99 € EUR
 - [Brinquedo para bebé - Chocalho Cão Shake Me](https://brincatoys.pt/products/brinquedo-para-bebe-chocalho-cao-shake-me): Brinquedo para bebé - Chocalho Cão Shake Me, perfeito para estimulação sensorial e desenvolvimento motor. Cores vivas, para a felicidade do seu bebé!
-  Updated: 2025-09-16T10:28:35Z
+  Updated: 2025-09-24T12:02:40Z
   Vendor: Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -18850,7 +18835,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77250-carro-de-corrida-moneygram-667725025-5702017816173-lego-1178701581.png?v=1752974296
   Price: 28,90 € EUR
 - [Lego Speed Champions 77251 Carro de Corrida McLaren F1](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-mclaren-f1®-team-mcl38): Viva a emoção da Fórmula 1 com o Lego Speed Champions 77251 Carro de Corrida McLaren F1® Team MCL38. Construa e exiba esta peça incrível!
-  Updated: 2025-09-16T10:31:06Z
+  Updated: 2025-09-24T15:54:26Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
@@ -19914,7 +19899,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-classic-rocksteady-233879725-0043377810094-tartarugas-ninja-1178692453.jpg?v=1752821888
   Price: 19,99 € EUR
 - [Tartarugas Ninja Classic - Splinter](https://brincatoys.pt/products/tartarugas-ninja-classic-splinter): A figura Splinter Classic das Tartarugas Ninja transporta-te diretamente para as origens da lendária saga. Em primeiro lugar, com cerca de 10 cm de altura e 6 pontos de articulação, este mestre ninja permite criar posturas realistas de treino e combate. Além disso, o design retro em tons castanhos e roxo recupera a estética clássica dos anos 80, evidenciando o manto em tecido resistente e o cinto de cintura que ajusta-se a qualquer figura da coleção. Por outro lado, para maximizar a diversão, a embalagem inclui um conjunto completo de acessórios: arco com flecha, cajado de madeira, duas estrelas ninja e um par de bastões de treino. Ademais, todos estes itens encaixam perfeitamente nas mãos de Splinter, permitindo recriar cenas de treino no esgoto de Nova Iorque ou emboscadas contra o clã do Pé. Ademais, um cartão colecionável “Portrait of Splinter” oferece curiosidades sobre o rato mutante, aprofundando a ligação com o universo Nickelodeon. Além disso, Splinter Classic estimula a coordenação motora, a criatividade e o jogo simbólico, desenvolvendo competências sociais durante horas de brincadeira em grupo. Do mesmo modo, seja para iniciar ou expandir a coleção Tartarugas Ninja Classic, o mestre Splinter revela-se uma escolha imprescindível. Com acabamento detalhado, acessórios temáticos e articulações versáteis, esta figura oferece uma experiência completa de role-play e colecionismo. Por fim, não percas a oportunidade de treinar as tuas habilidades ninja com o mentor mais respeitado de todos! Em suma... Figura Splinter Classic de 10 cm com 6 pontos de articulação Inclui arco, flecha, cajado, 2 estrelas ninja e bastões de treino Manto em tecido resistente e cinto ajustável para acessórios PVC atóxico, livre de ftalatos, certificado CE (4+ anos) Cartão colecionável “Portrait of Splinter” com informação da personagem Dimensão: 19 x 25,50 x 5 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-09-24T04:31:11Z
+  Updated: 2025-09-24T12:02:19Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20356,10 +20341,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T10:24:53Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-09-23T11:22:02Z
-  Total Products: 569
+  Updated: 2025-09-24T12:38:07Z
+  Total Products: 568
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
-  Updated: 2025-09-17T16:19:30Z
+  Updated: 2025-09-24T13:20:36Z
   Total Products: 27
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
   Updated: 2025-09-24T11:20:32Z
@@ -20374,8 +20359,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T19:11:58Z
   Total Products: 8
 - [Lego Disney](https://brincatoys.pt/collections/lego-disney): Celebra 100 anos de encantamento mágico com os conjuntos LEGO® | Disney e as suas personagens icónicas. Os fãs podem recriar as cenas memoráveis, as atrações dos parques de diversões e construir os castelos encantados da Disney. Junta-te ao Mickey e Amigos, às Princesas Disney e a muitas outras personagens em brincadeiras criativas e divertidas.
-  Updated: 2025-09-16T20:13:07Z
-  Total Products: 18
+  Updated: 2025-09-24T12:50:15Z
+  Total Products: 17
 - [Lego Duplo](https://brincatoys.pt/collections/lego-duplo): Quando os mais pequenos têm uma grande imaginação, as peças de construção LEGO® DUPLO® libertam a sua criatividade através da aprendizagem e desenvolvimento. Este conjuntos oferecem aos mais pequenos diversão ilimitada, autoexpressão e a felicidade da descoberta.
   Updated: 2025-09-23T18:59:17Z
   Total Products: 20
@@ -20401,8 +20386,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:58:47Z
   Total Products: 21
 - [Lego Speed Champions](https://brincatoys.pt/collections/lego-speed-champions): Partida, largada, fugida! Os produtos LEGO® Speed Champions oferecem aos fãs de corridas de carros a oportunidade de recriar mini versões dos principais e mais conhecidos veículos do mundo. Constrói e expõe estas réplicas de modelos colecionáveis de marcas, como Ferrari, Aston Martin, Lamborghini, Dodge e Chevrolet.
-  Updated: 2025-09-23T18:58:21Z
-  Total Products: 23
+  Updated: 2025-09-24T12:53:50Z
+  Total Products: 22
 - [Lego Star Wars](https://brincatoys.pt/collections/lego-star-wars): Numa galáxia muito distante, existe um mundo repleto de aventuras onde o bem luta contra o mal e os fãs de Star Wars™ podem juntar-se a Luke Skywalker, Han Solo, Mandaloriano, Grogu e muitos outros para recriarem as cenas favoritas da série. Domina a Força para construíres naves e veículos épicos, droides fantásticos e personagens icónicas.
   Updated: 2025-09-23T18:58:45Z
   Total Products: 26
@@ -20419,8 +20404,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-18T10:04:13Z
   Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-09-20T18:50:08Z
-  Total Products: 107
+  Updated: 2025-09-24T12:25:55Z
+  Total Products: 106
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
   Updated: 2025-09-23T21:34:19Z
   Total Products: 245
@@ -20434,8 +20419,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-06T11:20:01Z
   Total Products: 100
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-09-24T11:20:32Z
-  Total Products: 242
+  Updated: 2025-09-24T12:13:41Z
+  Total Products: 240
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-09-18T22:19:37Z
   Total Products: 65
@@ -20452,8 +20437,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:27:34Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-09-23T21:07:01Z
-  Total Products: 104
+  Updated: 2025-09-24T12:25:55Z
+  Total Products: 103
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
   Updated: 2025-09-06T22:22:31Z
   Total Products: 19
@@ -20461,8 +20446,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-08T22:16:49Z
   Total Products: 121
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
-  Updated: 2025-09-16T10:30:16Z
-  Total Products: 47
+  Updated: 2025-09-24T12:22:51Z
+  Total Products: 46
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
   Updated: 2025-09-23T19:25:21Z
   Total Products: 206
@@ -20470,8 +20455,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T11:20:32Z
   Total Products: 155
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-09-21T11:40:50Z
-  Total Products: 119
+  Updated: 2025-09-24T12:58:14Z
+  Total Products: 118
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-09-23T18:58:24Z
   Total Products: 9
@@ -20482,26 +20467,26 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:22Z
   Total Products: 1
 - [Lego Dreamzzz](https://brincatoys.pt/collections/lego-dreamzzz): Entra no mundo dos sonhos com os amigos Mateo, Izzie, Cooper, Logan e Zoey que usam o poder da imaginação para enfrentarem o malvado Rei Assombroso. Inspirados na série de TV LEGO® DREAMZzz™, estes conjuntos incluem veículos fantásticos, edifícios deslumbrantes e criaturas maravilhosas.
-  Updated: 2025-09-23T22:43:41Z
-  Total Products: 9
+  Updated: 2025-09-24T12:31:41Z
+  Total Products: 8
 - [+ 0 meses](https://brincatoys.pt/collections/0-meses)
-  Updated: 2025-09-19T21:54:56Z
-  Total Products: 96
+  Updated: 2025-09-24T12:15:56Z
+  Total Products: 95
 - [+ 10 anos](https://brincatoys.pt/collections/10-anos)
   Updated: 2025-09-23T18:59:12Z
   Total Products: 23
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-23T21:07:01Z
-  Total Products: 332
+  Updated: 2025-09-24T12:25:55Z
+  Total Products: 330
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-24T11:20:32Z
-  Total Products: 1525
+  Updated: 2025-09-24T13:21:05Z
+  Total Products: 1521
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-09-23T21:34:19Z
-  Total Products: 689
+  Updated: 2025-09-24T12:50:15Z
+  Total Products: 688
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-09-23T19:11:58Z
-  Total Products: 319
+  Updated: 2025-09-24T12:53:50Z
+  Total Products: 318
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
   Total Products: 18
@@ -20512,26 +20497,26 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:20Z
   Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-23T19:26:07Z
-  Total Products: 1337
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 1336
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-24T11:28:55Z
-  Total Products: 2440
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 2436
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-24T11:28:55Z
-  Total Products: 2893
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 2889
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-24T11:28:55Z
-  Total Products: 3277
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3273
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-24T11:28:55Z
-  Total Products: 3403
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3399
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-24T11:28:55Z
-  Total Products: 3483
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3479
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-24T11:28:56Z
-  Total Products: 3531
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3527
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-09-23T21:34:19Z
   Total Products: 353
@@ -20542,8 +20527,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-08T20:12:54Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
-  Updated: 2025-09-23T19:25:22Z
-  Total Products: 24
+  Updated: 2025-09-24T12:13:41Z
+  Total Products: 23
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 20
@@ -20641,8 +20626,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T11:22:02Z
   Total Products: 30
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-09-23T22:43:41Z
-  Total Products: 349
+  Updated: 2025-09-24T12:53:50Z
+  Total Products: 346
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-09-07T11:36:27Z
   Total Products: 10
@@ -20689,8 +20674,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-26T09:43:20Z
   Total Products: 4
 - [Princesas Disney](https://brincatoys.pt/collections/princesas-disney)
-  Updated: 2025-09-23T21:10:52Z
-  Total Products: 109
+  Updated: 2025-09-24T12:10:37Z
+  Total Products: 108
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
   Updated: 2025-09-21T14:44:56Z
   Total Products: 22
@@ -20722,20 +20707,20 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-24T11:28:56Z
-  Total Products: 3547
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3543
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-09-24T11:20:32Z
-  Total Products: 285
+  Updated: 2025-09-24T12:31:41Z
+  Total Products: 284
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 171
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-09-23T18:59:51Z
-  Total Products: 116
+  Updated: 2025-09-24T12:58:14Z
+  Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-24T11:20:32Z
-  Total Products: 1169
+  Updated: 2025-09-24T13:21:05Z
+  Total Products: 1167
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-23T19:25:52Z
   Total Products: 474
@@ -20758,11 +20743,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:52Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-24T11:28:56Z
-  Total Products: 3563
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3559
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-24T11:28:56Z
-  Total Products: 3563
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3559
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20773,8 +20758,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-24T11:27:20Z
-  Total Products: 3074
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3070
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20782,8 +20767,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-22T19:12:44Z
   Total Products: 108
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-24T11:27:20Z
-  Total Products: 3074
+  Updated: 2025-09-24T13:20:36Z
+  Total Products: 3070
 
 ## Blogs
 
