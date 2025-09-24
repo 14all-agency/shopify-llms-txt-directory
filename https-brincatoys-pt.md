@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-24T04:01:05.646Z
+- Updated At: 2025-09-24T08:01:07.197Z
 
 ## Products
 
@@ -1525,7 +1525,7 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-brad-winmiler-550365122-0194735036516-cars-1178693070.webp?v=1752832335
   Price: 11,99 € EUR
 - [Cars Chisaki](https://brincatoys.pt/products/cars-chisaki): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-09-23T19:25:27Z
+  Updated: 2025-09-24T07:49:13Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -8877,7 +8877,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/torre-de-empilhar-810370821-brincatoys-1178695483.jpg?v=1752876009
   Price: 22,99 € EUR
 - [Torre de empilhar Panda](https://brincatoys.pt/products/torre-de-empilhar-panda): Um simpático pequeno panda para recompor, empilhando as diferentes peças de madeira para dar uma bela cambalhota. As orelhas pequenas são feitas de feltro. Tintas à base de água.  Dimensão: 18 x 11 x 11 cm.Idade Recomendada: + de 12 meses.
-  Updated: 2025-08-21T00:09:40Z
+  Updated: 2025-09-24T05:52:19Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -9725,7 +9725,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yu-gi-oh-joey-wheeler-232102222-yu-gi-oh-1178695711.jpg?v=1752879261
   Price: 22,99 € EUR
 - [Yu-Gi-Oh! Red-Eyes Black Dragon](https://brincatoys.pt/products/yu-gi-oh-red-eyes-black-dragon): Figura articulada de Yu-Gi-Oh Red-Eyes Black Dragon, com 9,52 cm, altamente detalhada com um cartão raro e exclusivo incluído em cada pacote. Cada carta é única para a personagem.  Dimensão: 13,50 x 19 x 7 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-08-21T00:08:30Z
+  Updated: 2025-09-24T05:17:30Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
@@ -11100,7 +11100,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-dragon-ball-super-saiyan-vegeta-limit-breaker-series-303673623-3296580367368-dragon-ball-1178696309.jpg?v=1752890408
   Price: 26,99 € EUR
 - [Dragon Ball Limit Breaker - Ultimate Gohan | Brincatoys](https://brincatoys.pt/products/dragon-ball-limit-breaker-ultimate-gohan): Prepare os seus guerreiros favoritos para a batalha final com esta figura  articulada de Ultimate Gohan, com 30 cm, da colecção de brinquedos  Dragon Ball Limit Breaker. A figura tem um nível de detalhe incrível e 5 pontos de articulação. Recria as batalhas épicas e enfrenta os  teus adversários para ver quem é o guerreiro mais poderoso da galáxia.
-  Updated: 2025-09-24T00:28:43Z
+  Updated: 2025-09-24T07:12:26Z
   Vendor: Dragon Ball
   Product Type: + 4 anos
   Availability: Available
@@ -12801,7 +12801,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-mechs-da-equipa-ninja-de-lloyd-e-arin-667179423-5702017413082-lego-1178697097.jpg?v=1752904701
   Price: 84,99 € EUR
 - [Princesa Disney Elsa com Vestido Verde: Elegância e Magia](https://brincatoys.pt/products/princesa-disney-elsa-com-vestido-verde-35-cm): Traga a magia de Frozen para a sua casa com a Princesa Disney Elsa com vestido verde! Uma boneca encantadora de 35cm com detalhes inspirados no gelo.
-  Updated: 2025-09-23T16:28:35Z
+  Updated: 2025-09-24T05:22:32Z
   Vendor: Princesas Disney
   Product Type: Bonecas
   Availability: Available
@@ -18353,7 +18353,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carrinho-de-bonecas-koala-com-berco-628507925-4897022850791-brincatoys-1178701281.jpg?v=1752783365
   Price: 69,50 € EUR
 - [Mochila 3D Disney Stitch: Design Encantador e Cores Vibrantes](https://brincatoys.pt/products/mochila-3d-disney-stitch): Leve a magia para qualquer lugar com a Mochila 3D Disney Stitch! Design encantador e alças acolchoadas, é perfeita para as aventuras diárias dos pequenos.
-  Updated: 2025-08-20T23:58:23Z
+  Updated: 2025-09-24T06:04:31Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19914,7 +19914,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-classic-rocksteady-233879725-0043377810094-tartarugas-ninja-1178692453.jpg?v=1752821888
   Price: 19,99 € EUR
 - [Tartarugas Ninja Classic - Splinter](https://brincatoys.pt/products/tartarugas-ninja-classic-splinter): A figura Splinter Classic das Tartarugas Ninja transporta-te diretamente para as origens da lendária saga. Em primeiro lugar, com cerca de 10 cm de altura e 6 pontos de articulação, este mestre ninja permite criar posturas realistas de treino e combate. Além disso, o design retro em tons castanhos e roxo recupera a estética clássica dos anos 80, evidenciando o manto em tecido resistente e o cinto de cintura que ajusta-se a qualquer figura da coleção. Por outro lado, para maximizar a diversão, a embalagem inclui um conjunto completo de acessórios: arco com flecha, cajado de madeira, duas estrelas ninja e um par de bastões de treino. Ademais, todos estes itens encaixam perfeitamente nas mãos de Splinter, permitindo recriar cenas de treino no esgoto de Nova Iorque ou emboscadas contra o clã do Pé. Ademais, um cartão colecionável “Portrait of Splinter” oferece curiosidades sobre o rato mutante, aprofundando a ligação com o universo Nickelodeon. Além disso, Splinter Classic estimula a coordenação motora, a criatividade e o jogo simbólico, desenvolvendo competências sociais durante horas de brincadeira em grupo. Do mesmo modo, seja para iniciar ou expandir a coleção Tartarugas Ninja Classic, o mestre Splinter revela-se uma escolha imprescindível. Com acabamento detalhado, acessórios temáticos e articulações versáteis, esta figura oferece uma experiência completa de role-play e colecionismo. Por fim, não percas a oportunidade de treinar as tuas habilidades ninja com o mentor mais respeitado de todos! Em suma... Figura Splinter Classic de 10 cm com 6 pontos de articulação Inclui arco, flecha, cajado, 2 estrelas ninja e bastões de treino Manto em tecido resistente e cinto ajustável para acessórios PVC atóxico, livre de ftalatos, certificado CE (4+ anos) Cartão colecionável “Portrait of Splinter” com informação da personagem Dimensão: 19 x 25,50 x 5 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-08-20T23:56:34Z
+  Updated: 2025-09-24T04:31:11Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20089,7 +20089,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-allosaurus-detalhado-232700425-0194735270040-jurassic-world-1181899610.jpg?v=1756213336
   Price: 56,90 € EUR
 - [Boneca Barbie 80º Aniversário: Elegância e Estilo](https://brincatoys.pt/products/boneca-barbie-80-aniversario-com-vestido-vermelho): Celebrando 80 anos de elegância, a boneca Barbie 80º Aniversário encanta com seu vestido vermelho deslumbrante. Adquira já essa edição especial!
-  Updated: 2025-09-23T19:25:27Z
+  Updated: 2025-09-24T07:31:27Z
   Vendor: Barbie
   Product Type: Barbie
   Availability: Available
