@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-09-24T12:00:34.201Z
+- Updated At: 2025-09-24T16:00:34.116Z
 
 ## Products
 
@@ -928,7 +928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/256-Lirene-NATURE-MATTE-Mattifying-fluid-30-ml-1.png?v=1737122579
   Price: ALL 1,389.00 ALL
 - [Lirene OIL THERAPIST Shower gel with essential oil BLACK PEPPER & WATERMELON 400 ml - Amar Pharma - Lirene - Shampo Trupi](https://amar.al/products/lirene-oil-therapist-shower-gel-with-essential-oil-black-pepper-watermelon-400-ml): Aroma delikate dhe e kendeshme e piperit te zi ne kombinim me shakqirin e lengshem, stimulon dhe energjizon trupin dhe mendjen. Aplikojeni xhelin ne lekure te lagur, masazhojeni lehesisht me levizje rrotulluese dhe me pas shpelajeni teresisht me uje. Pas tharjes se trupit, perdorni balsamin e zgjedhur Lirene. - Amar Pharma - Lirene - Shampo Trupi
-  Updated: 2025-09-21T00:14:35Z
+  Updated: 2025-09-24T14:29:41Z
   Vendor: Lirene
   Product Type: Shampo Trupi
   Availability: Available
@@ -3259,6 +3259,9 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
 - [Elementre Body Care - Amar Pharma -](https://amar.al/collections/elementre-body-care): - Amar Pharma
   Updated: 2025-09-17T13:52:13Z
   Total Products: 24
+- [APPPlaza - Best Sellers - Amar Pharma -](https://amar.al/collections/appplaza-best-sellers): - Amar Pharma
+  Updated: 2025-09-24T14:25:49Z
+  Total Products: 414
 
 ## Blogs
 
