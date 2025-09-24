@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-24T16:00:35.947Z
+- Updated At: 2025-09-24T20:00:36.473Z
 
 ## Products
 
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cascada-Cosmetic-Organiser-Clear-0.jpg?v=1727658818
   Price: $69.99 NZD
 - [Otto Auto Soap Dispenser - White/Grey](https://everydayhome.co.nz/products/otto-auto-soap-dispenser-white-grey): Otto Auto Soap Dispenser, White/Grey
-  Updated: 2025-09-23T12:33:22Z
+  Updated: 2025-09-24T17:07:12Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -998,7 +998,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $54.99 NZD
 - [Sticks Multi Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-23T12:35:03Z
+  Updated: 2025-09-24T17:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3000,7 +3000,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $139.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-23T12:37:28Z
+  Updated: 2025-09-24T19:37:07Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
