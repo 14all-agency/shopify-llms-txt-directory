@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2025-09-21T22:22:43Z
 - Contact Email: soportetendyz@gmail.com
-- Updated At: 2025-09-24T04:00:28.091Z
+- Updated At: 2025-09-24T12:00:28.849Z
 
 ## Products
 
@@ -389,7 +389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1756355434WhatsApp_20Image_202025-08-27_20at_2011.25.38_20PM.jpg?v=1758674005
     Price: 137.900,00 $ COP
 - [Nike Trebol Blanco Azul | Elegancia Deportiva y Estilo](https://dominare2.myshopify.com/products/nike-trebol-blanco-azul): Descubre el Nike Trebol Blanco Azul, perfecto para añadir un toque fresco y moderno a tu estilo. Un diseño icónico en moda. ¡Compra ya!
-  Updated: 2025-09-24T01:52:52Z
+  Updated: 2025-09-24T11:13:42Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1757568046f22d6f0e-708f-491c-b83c-ea87a24c6874.jpg?v=1758674027
     Price: 137.900,00 $ COP
 - [Tenis Diesel Blanco Caballero | Calzado Moderno Hombre](https://dominare2.myshopify.com/products/tenis-diesel-blanco-caballero): Descubre los Tenis Diesel Blancos para Caballero. Perfectos para un estilo urbano y moderno, ofreciendo calidad y comodidad. ¡Compra ahora!
-  Updated: 2025-09-24T01:52:52Z
+  Updated: 2025-09-24T10:30:24Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -657,7 +657,7 @@
     Availability: Available
     Price: 137.900,00 $ COP
 - [Tenis Adidas Fashion Blanco Dama | Estilo y Confort para Mujer](https://dominare2.myshopify.com/products/tenis-adidas-fashion-blanco-dama): Descubre los Tenis Adidas Fashion Blanco para Dama. Estilo moderno, versátil y cómodo para tu día a día. ¡Compra ya!
-  Updated: 2025-09-24T01:52:52Z
+  Updated: 2025-09-24T10:44:39Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -906,7 +906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1747030422WhatsApp_20Image_202025-05-11_20at_204.08.41_20PM.jpg?v=1758674104
     Price: 137.900,00 $ COP
 - [Tenis Hugo Boss Blanco Caballero | Estilo Premium](https://dominare2.myshopify.com/products/tenis-hugo-boss-blanco-caballero): Descubre los Tenis Hugo Boss Blancos para Caballero. Diseño moderno y calidad premium para tu estilo diario. ¡Compra ahora!
-  Updated: 2025-09-24T01:52:51Z
+  Updated: 2025-09-24T11:15:47Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -940,7 +940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1746249817WhatsApp_20Image_202025-05-02_20at_203.48.44_20PM_20_2.jpg?v=1758674131
     Price: 137.900,00 $ COP
 - [Tenis Hugo Boss Negro Naranja Caballero | Estilo y Confort](https://dominare2.myshopify.com/products/tenis-hugo-boss-negro-naranja-caballero): Descubre los Tenis Hugo Boss Negro Naranja para Caballero. Combina estilo audaz con confort. Perfectos para un look moderno. ¡Compra ahora!
-  Updated: 2025-09-24T01:52:51Z
+  Updated: 2025-09-24T10:54:12Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -974,7 +974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1746253244WhatsApp_20Image_202025-05-02_20at_203.48.44_20PM_20_3.jpg?v=1758674137
     Price: 137.900,00 $ COP
 - [Tenis Hugo Boss Caballero - Negro y Blanco | Elegancia Deportiva](https://dominare2.myshopify.com/products/hugo-boss-tenis-negro-blanco-caballero): Consigue los exclusivos tenis Hugo Boss para caballero. Diseño sofisticado en negro y blanco, máxima comodidad para tu estilo. ¡Compra hoy!
-  Updated: 2025-09-24T01:52:50Z
+  Updated: 2025-09-24T10:55:06Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1008,7 +1008,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1746249638WhatsApp_20Image_202025-05-02_20at_203.48.44_20PM.jpg?v=1758674143
     Price: 137.900,00 $ COP
 - [Tenis Adidas London Blanco Gris | Diseño Clásico & Comodidad](https://dominare2.myshopify.com/products/tenis-adidas-london-blanco-gris): Descubre los Tenis Adidas London Blanco Gris. Su diseño clásico y comodidad los hacen perfectos para tu día a día. ¡Compra ya!
-  Updated: 2025-09-24T01:52:50Z
+  Updated: 2025-09-24T11:06:09Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1154,7 +1154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1738986992WhatsApp_20Image_202025-02-07_20at_2011.06.16_20PM.jpg?v=1758674169
     Price: 137.900,00 $ COP
 - [Tenis Adidas Ogiy Negro Dama | Estilo Casual y Comodidad](https://dominare2.myshopify.com/products/tenis-adidas-ogiy-negro-dama): Descubre los Tenis Adidas Ogiy Negro Dama, perfectos para tu estilo diario. Disfruta de la comodidad y el diseño icónico de Adidas. ¡Compra ahora!
-  Updated: 2025-09-24T01:52:49Z
+  Updated: 2025-09-24T11:35:57Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1214,7 +1214,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1737568191WhatsApp_20Image_202025-01-22_20at_2012.22.42_20PM.jpg?v=1758674179
     Price: 137.900,00 $ COP
 - [Nike Balleli Blanco Naranja Unisex | Fresh Fashion Style](https://dominare2.myshopify.com/products/nike-balleli-blanco-naranja-unisex): Elevate your look with Nike Balleli Blanco Naranja unisex fashion. Enjoy vibrant style perfect for any wardrobe. Get yours today!
-  Updated: 2025-09-24T01:52:49Z
+  Updated: 2025-09-24T11:11:39Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1278,7 +1278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/173482461817018755391701875539WhatsApp_20Image_202023-08-21_20at_2011.45.02_20PM.jpg?v=1758674193
     Price: 137.900,00 $ COP
 - [Tenis Adidas Tractor Dama - Estilo Único y Comodidad](https://dominare2.myshopify.com/products/tenis-adidas-tractor-dama): Descubre los Tenis Adidas Tractor Dama. Combina estilo único y comodidad excepcional para tu look diario. ¡Moda audaz para mujer! Compra ahora.
-  Updated: 2025-09-24T01:52:48Z
+  Updated: 2025-09-24T11:20:09Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1332,7 +1332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1732057513WhatsApp_20Image_202024-09-21_20at_2012.29.01_20PM_20_1.jpg?v=1758674204
     Price: 137.900,00 $ COP
 - [Botas Timberland Caballero – Estilo y Tendencia 2024](https://dominare2.myshopify.com/products/botas-timberland-caballero): Eleva tu estilo con las Botas Timberland Caballero. Descubre la moda y tendencia 2024 que marcan pauta. ¡Compra las tuyas hoy!
-  Updated: 2025-09-24T01:52:48Z
+  Updated: 2025-09-24T11:32:22Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1422,7 +1422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1732225203WhatsApp_20Image_202024-10-31_20at_202.59.02_20PM_20_7.jpg?v=1758674222
     Price: 137.900,00 $ COP
 - [Adidas Bounce 2.0 Tenis Dama - Moda y Tendencia 2024](https://dominare2.myshopify.com/products/tenis-adidas-bounce-2-0-dama): Descubre los Tenis Adidas Bounce 2.0 para Dama. La moda y tendencia de 2024 en tus pies. ¡Compra ahora!
-  Updated: 2025-09-24T01:52:48Z
+  Updated: 2025-09-24T11:39:55Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1524,7 +1524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1729812781WhatsApp_20Image_202024-10-24_20at_2012.17.05_20AM.jpg?v=1758674250
     Price: 137.900,00 $ COP
 - [Nike Air Jordan 1 Low Blanco Gris Dama | Iconic Women's Sneakers](https://dominare2.myshopify.com/products/nike-air-jordan-1-low-blanco-gris-dama): Elevate your look with the iconic Nike Air Jordan 1 Low Blanco Gris for women. Experience classic style & comfort. Shop these must-have sneakers!
-  Updated: 2025-09-24T01:52:48Z
+  Updated: 2025-09-24T11:30:26Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1554,7 +1554,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1728076387WhatsApp_20Image_202024-10-04_20at_2012.23.34_20PM_20_1.jpg?v=1758674263
     Price: 137.900,00 $ COP
 - [New Balance Suela Alta Blanco Negro Dama - Women's Platform Sneakers](https://dominare2.myshopify.com/products/new-balance-suela-alta-blanco-negro-dama): Elevate your style with New Balance Suela Alta sneakers for women. Featuring a trendy platform sole in classic black and white. Shop now for comfort & fashion!
-  Updated: 2025-09-24T01:52:47Z
+  Updated: 2025-09-24T11:43:24Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1584,7 +1584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1727993574WhatsApp_20Image_202024-10-03_20at_201.48.27_20PM_20_1.jpg?v=1758674275
     Price: 137.900,00 $ COP
 - [Nike Letras Blanco Dama - DOMINARE](https://dominare2.myshopify.com/products/nike-letras-blanco-dama): - DOMINARE
-  Updated: 2025-09-24T01:52:47Z
+  Updated: 2025-09-24T11:45:38Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1764,7 +1764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1727211865WhatsApp_20Image_202024-09-24_20at_2010.23.54_20AM.jpg?v=1758674304
     Price: 137.900,00 $ COP
 - [Tenis Adidas Doble Blanco Tornasol Dama - DOMINARE](https://dominare2.myshopify.com/products/tenis-adidas-doble-blanco-tornasol-dama): - DOMINARE
-  Updated: 2025-09-24T01:52:47Z
+  Updated: 2025-09-24T11:20:39Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1794,7 +1794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1726766233WhatsApp_20Image_202024-09-17_20at_208.13.15_20PM_20_2.jpg?v=1758674324
     Price: 137.900,00 $ COP
 - [Nike Zoom X Negro Rosa Dama - DOMINARE](https://dominare2.myshopify.com/products/nike-zoom-x-negro-rosa-dama): - DOMINARE
-  Updated: 2025-09-24T01:52:46Z
+  Updated: 2025-09-24T11:45:18Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -1824,7 +1824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1726709773WhatsApp_20Image_202024-09-17_20at_207.48.46_20PM_20_5.jpg?v=1758674330
     Price: 137.900,00 $ COP
 - [Nike Zoom X Blanco Caballero - DOMINARE](https://dominare2.myshopify.com/products/nike-zoom-x-blanco-caballero): - DOMINARE
-  Updated: 2025-09-24T01:52:46Z
+  Updated: 2025-09-24T11:52:10Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -2240,7 +2240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/171080883417018949181701894918WhatsApp_20Image_202023-06-12_20at_206.09.41_20PM.jpg?v=1758674401
     Price: 137.900,00 $ COP
 - [Nike Trebol Gris - DOMINARE](https://dominare2.myshopify.com/products/nike-trebol-gris): - DOMINARE
-  Updated: 2025-09-24T01:52:45Z
+  Updated: 2025-09-24T12:00:04Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
@@ -2300,7 +2300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/17018797471701879747WhatsApp_20Image_202023-08-01_20at_208.01.09_20PM.jpg?v=1758674431
     Price: 137.900,00 $ COP
 - [Skechers Blanco Dama - DOMINARE](https://dominare2.myshopify.com/products/skechers-blanco-dama): - DOMINARE
-  Updated: 2025-09-24T01:52:45Z
+  Updated: 2025-09-24T11:58:54Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
