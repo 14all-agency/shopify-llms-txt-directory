@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-06-07T09:35:30Z
 - Contact Email: afshaparfumsofficial@gmail.com
-- Updated At: 2025-09-24T08:00:28.606Z
+- Updated At: 2025-09-24T16:00:28.708Z
 
 ## Products
 
@@ -42,7 +42,7 @@
 ## Collections
 
 - [Afsha Parfums | Premium Dubai Perfumes Now Available in India](https://afshaparfums.in/collections/frontpage): Discover the luxury of Dubai with Afsha Parfums. Shop our exclusive collection of premium fragrances, now available in India. Elevate your scent with long-lasting, exotic perfumes inspired by the essence of Dubai. The Spirit of Dubai, Luxury Perfumes Online in India
-  Updated: 2025-09-17T11:15:35Z
+  Updated: 2025-09-24T11:15:36Z
   Total Products: 7
 
 ## Blogs
