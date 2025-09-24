@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-09-22T08:00:29.594Z
+- Updated At: 2025-09-24T00:00:30.132Z
 
 ## Products
 
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/Setof3ReusablesiliconeBags-Green-8710755881909Lekue_96dpi_1000x1000px_7_NR-33142.png?v=1737427321
   Price: $69.98 NZD
 - [Reusable Stretch Lids, Set of 3](https://www.lekue.co.nz/products/kit-reusable-flexible-lids-3-u): Reusable lid to preserve food. Smart alternative to food plastic wrap! Features The perfect alternative to single-use plastics like cling film or aluminum foil. Flexible and reusable 100% platinum silicone lid. It can be used to store food airtight in the fridge, with no leakage of smells, keeping food fresher for longer. The lid can be stretched to fit containers with different diameters. Perfect to keep containers, cans and even food like watermelons, oranges, onions… A hermetic seal is achieved by simply pressing down on the top.
-  Updated: 2025-08-15T00:44:07Z
+  Updated: 2025-09-22T22:59:45Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -473,14 +473,14 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/SaltCellar-Grey-8710755883323Lekue_96dpi_1000x1000px_7_NR-32951.png?v=1737410115
   Price: $39.99 NZD
 - [Flat Reusable Bags, Set of 3](https://www.lekue.co.nz/products/set-of-3-flat-reusable-bags): Reusable platinum silicone bags in 3 different sizes to store solid food hermetically and preserve it in fridges and freezers. A sustainable alternative to disposable plastic wrapping, throw-away packaging, trays and cling wrap. Features 100% leak-proof. Reusable, they replace single-use plastic bags. Made from platinum silicone, a high quality, hygienic, light and strong material. The thickness of the silicone protects the food from frost. BPA-free. Available in 3 different sizes, they are suitable for all kinds of food. From small portions and small fillets of fish or meat, to medium-sized ingredients or large fillets of meat or fish. Ideal for marinades! Prepare your own marinade and spice blends, creating tastier, juicier dishes. As they don't have a flat bottom, liquids spread evenly over food items, producing a smooth, tasty emulsion. 3 sizes: Size: S: Perfect for storing small portions or a fillet of fish or meat. Size M: Perfect for storing 1 or 2 servings, medium-sized vegetables, garnishes or other ingredients. Size L: Perfect for storing 3-4 fillets of meat or fish
-  Updated: 2025-07-15T23:38:34Z
+  Updated: 2025-09-22T22:59:45Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/Setof3FlatReusableBags-Green-8710755883446Lekue_96dpi_1000x1000px_7_NR-32968.png?v=1737331184
   Price: $59.98 NZD
 - [Non-Scratch Kitchen Utensils, Set of 5](https://www.lekue.co.nz/products/non-scratch-cooking-utensil-set-of-5): The Non-Scratch kitchen utensil set includes 5 essential utensils: Serving spoon, Turning spatula, Skimmer, Tongs and Ladle. It includes a display support, whose elongated shape allows to optimize the space in your countertop space. It also includes a support tray to place the utensil on to keep the countertop clean. Features Non-Scratch and resistant to high temperatures! The Set includes 5 essential kitchen utensils to make any type of recipe while avoiding scratches. The perfect selection, whether you have cooking experience or you are introducing yourself to the world of cooking. Stir, serve, flip, and drain while taking care of your kitchenware! In addition, it includes an exclusive holder, perfect for keeping your utensils tidy and in sight. Ready for quick and easy cooking! The holder's innovative long and narrow shape optimizes countertop space, making good use of corners or walls. It also comes with a support tray to place your utensils whilst you cook, keeping your countertop nice and clean. A practical accessory to organize the kitchen and which will become part of its decoration. Cook while taking care of your kitchenware thanks to its 100% Platinum Silicone flexible tip, which avoids scratching your pots and pans. Cook worry-free and efficiently! Designed to last much longer without deteriorating, the utensil is resistant to high temperatures from the tip to the handle. Made of Platinum Silicone, a material that resists temperatures of up to 220ºC, to reinforce the areas that have contact with the hottest surfaces and the most wear and tear. PBT is a rigid and hygienic material that resists temperatures up to 180°C, meaning the utensil can rest on hot surfaces such as the pan sides while cooking. The holder's holes fit all utensils from the Non-Scratch Kitchen Utensils collection. BPA-free materials that meet the highest quality standards, such as EFSA's Certification: European Food Safety Authority for the European Union and FDA Certification: Food & Drug Administration in the USA.
-  Updated: 2025-07-15T23:38:34Z
+  Updated: 2025-09-22T22:59:45Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -633,10 +633,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-09-19T11:18:07Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 89
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-09-19T11:18:07Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 89
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-08-29T02:37:07Z
@@ -645,7 +645,7 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 7
 - [Cookware](https://www.lekue.co.nz/collections/cookware)
-  Updated: 2025-08-15T11:17:06Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Creative pastry](https://www.lekue.co.nz/collections/creative-pastry)
   Updated: 2025-07-15T23:38:19Z
@@ -657,7 +657,7 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 6
 - [Healthy Food](https://www.lekue.co.nz/collections/healthy-food)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Home Bread](https://www.lekue.co.nz/collections/home-bread)
   Updated: 2025-09-19T11:18:07Z
@@ -666,10 +666,10 @@
   Updated: 2025-09-17T11:17:44Z
   Total Products: 18
 - [Kitchen utensils](https://www.lekue.co.nz/collections/kitchen-utensils)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Lids](https://www.lekue.co.nz/collections/lids)
-  Updated: 2025-08-15T11:17:06Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Microwave cooking](https://www.lekue.co.nz/collections/microwave-cooking)
   Updated: 2025-08-29T02:37:09Z
@@ -681,7 +681,7 @@
   Updated: 2025-07-15T23:38:20Z
   Total Products: 6
 - [Reuse & Reduce collection](https://www.lekue.co.nz/collections/reuse-reduce-collection)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 3
 - [Traditional pastry](https://www.lekue.co.nz/collections/traditional-pastry)
   Updated: 2025-07-15T23:38:20Z
@@ -741,10 +741,10 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-09-19T11:18:07Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
-  Updated: 2025-09-19T11:18:07Z
+  Updated: 2025-09-23T11:25:38Z
   Total Products: 15
 
 ## Blogs
