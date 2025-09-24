@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-24T00:00:43.073Z
+- Updated At: 2025-09-24T04:00:38.459Z
 
 ## Products
 
@@ -2622,7 +2622,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-60l-white-650mm-x-900mm-x-30mu-450-pack-rubbish-bin-liners-essential-supplies-808793.jpg?v=1719445092
   Price: $131.00 NZD
 - [FP Recycled Bin Liner 240L - Black, 1125mm x 1500mm x 30mu - 150 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-240l-black-1125mm-x-1500mm-x-30mu-150): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Size: 240 Litres (1125 x 1500mm) Colour: Black Strength: 30mu Pack of: 150
-  Updated: 2025-01-10T19:43:56Z
+  Updated: 2025-09-24T03:33:21Z
   Vendor: Mattews Packaging
   Product Type: Wheelie Bin Liners
   Availability: Available
@@ -4349,7 +4349,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/aluminium-mop-handle-green-25mm-x-1500mm-mops-essential-supplies-669761.jpg?v=1719444768
   Price: $20.00 NZD
 - [Aluminium Mop Handle - Red, 25mm x 1500mm](https://essentialsupplies.co.nz/products/aluminium-mop-handle-red-25mm-x-1500mm-30): Socket mop handles constructed of durable commercial grade aluminium. Featuring an ergonomic swivel grip for comfortable cleaning. Universal socket attachment for use with cotton or microfibre mop heads. Match mop head colour to avoid cross contamination.
-  Updated: 2025-02-14T06:14:40Z
+  Updated: 2025-09-24T01:13:04Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
