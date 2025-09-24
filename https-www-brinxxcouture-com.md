@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-24T16:57:16.977Z
+- Updated At: 2025-09-24T20:00:49.401Z
 
 ## Products
 
@@ -3783,7 +3783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Black-Mesh-Leggings-Brinxx-Couture-7143.jpg?v=1709305278
     Price: $26.00 USD
 - [Kimmy Choo Perfume by Jimmy Choo | Women's Eau de Parfum](https://www.brinxxcouture.com/products/kimmy-choo-perfume-jimmy-choo): Discover Kimmy Choo by Jimmy Choo – a luxurious women's perfume with floral, fruity, and musky notes. Perfect for day or night. Shop now. Free Shipping!
-  Updated: 2025-09-24T08:41:43Z
+  Updated: 2025-09-24T19:52:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8552,7 +8552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-24T13:30:51Z
+  Updated: 2025-09-24T19:50:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8966,7 +8966,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Ribbed-Mini-Dress-Brinxx-Couture-1413.jpg?v=1709847508
     Price: $29.99 USD
 - [YSL Black Opium Perfume | Seductive Women's Eau de Parfum](https://www.brinxxcouture.com/products/ysl-black-opium-eau-de-parfum): Shop YSL Black Opium Eau de Parfum – a seductive women's fragrance with coffee, vanilla, and floral notes. Bold, addictive, and perfect for evening wear.
-  Updated: 2025-09-24T16:22:38Z
+  Updated: 2025-09-24T19:52:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9384,7 +9384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Zip-Up-Puffer-Jacket-Brinxx-Couture-2488.jpg?v=1709849372
     Price: $59.99 USD
 - [Sports Tank and Leggings Set - Brinxx Couture](https://www.brinxxcouture.com/products/sports-tank-and-leggings-set): This Sports Tank and Leggings Set provides superior comfort and support for any workout. The breathable fabric and stretch design make it easy to move.
-  Updated: 2025-08-22T19:23:50Z
+  Updated: 2025-09-24T17:38:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23790,7 +23790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-24T16:11:18Z
+  Updated: 2025-09-24T19:12:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23926,7 +23926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fuzzy-Zip-Up-Long-Sleeve-Hooded-Jacket-Brinxx-Couture-2156.jpg?v=1730297285
     Price: $49.99 USD
 - [Suede Fringe Adjustable Strap Shoulder Bag - Brinxx Couture](https://www.brinxxcouture.com/products/suede-fringe-adjustable-strap-shoulder-bag): Effortlessly stylish and versatile, our Suede Fringe Adjustable Strap Shoulder Bag is a must-have addition. The soft material provide comfort and durability.
-  Updated: 2025-09-15T09:12:46Z
+  Updated: 2025-09-24T17:27:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35890,8 +35890,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01di7lly2C1DAfAR5ef__3953378413-0-cib.jpg?v=1758137012
     Price: $54.99 USD
-- [Knitted Turtleneck Long Sleeve Set - Brinxx Couture](https://www.brinxxcouture.com/products/knitted-turtleneck-long-sleeve-set): Elevate Your Style with Luxurious Comfort Discover the perfect blend of sophistication and coziness with our Knitted Turtleneck Long Sleeve Set. Free Shipping!
-  Updated: 2025-09-24T16:45:08Z
+- [Luxe Knitted Turtleneck Long Sleeve Set | Premium Women's Fashion](https://www.brinxxcouture.com/products/knitted-turtleneck-long-sleeve-set): Shop our luxurious knitted turtleneck long sleeve set. Premium comfort meets timeless style. Perfect for work & casual wear. Free shipping at Brinxx Couture!
+  Updated: 2025-09-24T19:52:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36111,7 +36111,7 @@
   Updated: 2025-08-22T19:23:29Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover Brinxx Couture's collection of trendy co-ord sets and chic one-piece outfits. Shop now for stylish, coordinated looks perfect for any occasion.
-  Updated: 2025-09-17T20:01:25Z
+  Updated: 2025-09-24T17:04:19Z
   Total Products: 59
 - [Plus Size Clothing | Stylish Dresses, Tops & More | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover flattering plus size clothing at Brinxx Couture. We offer trendy styles for all sizes. Shop dresses, tops, pants & more. Free shipping!
   Updated: 2025-08-29T08:06:20Z
