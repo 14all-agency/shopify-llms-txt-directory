@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-24T08:00:29.723Z
+- Updated At: 2025-09-24T20:00:29.855Z
 
 ## Products
 
 - [Affiche châtaigner](https://www.laforetnousregale.fr/products/affiche): Affiche botanique du châtaignier, avec une illustration. Le châtaignier Castanea sativa est surnommé "l’arbre à pain" pour son rôle crucial dans l’alimentation des populations rurales. Ses fruits, les châtaignes, sont une source de subsistance depuis des siècles. Résistant et généreux, le châtaignier est également prisé pour son bois durable. L’affiche capture l’essence de cet arbre précieux, célébrant son rôle dans nos paysages et nos traditions culinaires.
-  Updated: 2025-09-10T09:47:00Z
+  Updated: 2025-09-24T10:37:13Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche chêne](https://www.laforetnousregale.fr/products/affiche-chene): Affiche botanique du chêne, avec son illustration naturaliste. Le chêne Quercus est un monument de la nature, connu pour sa longévité et sa robustesse. Symbole de sagesse dans de nombreuses cultures, il offre bien plus que son ombre : bois noble pour la construction et l’ébénisterie, et fruits (glands) essentiels à la faune. Cette affiche rend hommage à l’architecture complexe et majestueuse de cet arbre, véritable pilier de nos écosystèmes. Ses glands sont comestibles, et cet arbre a une place centrale dans l'aménagement d'écosystèmes forestiers comestibles.
-  Updated: 2025-09-07T14:37:21Z
+  Updated: 2025-09-24T10:37:13Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche théier](https://www.laforetnousregale.fr/products/affiche-theier): Affiche botanique du théier, avec une illustration naturaliste. Le théier Camellia sinensis est l’essence même de l’art du thé. Cultivé principalement en Chine, en Inde et au Japon, cet arbuste donne naissance à une des boissons les plus consommées au monde. Avec ses feuilles délicates et ses usages variés, il incarne la tradition et le bien-être. L’illustration met en lumière sa beauté sobre et ses rameaux verdoyants, célébrant un patrimoine culturel universel.
-  Updated: 2025-09-14T06:31:38Z
+  Updated: 2025-09-24T10:37:13Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Affiche amandier](https://www.laforetnousregale.fr/products/affiche-amandier): Affiche botanique de l'amandier, c'est une illustration naturaliste dans sont cadre en bois. L’amandier Prunus dulcis est bien plus qu’un simple arbre fruitier. Cet arbre emblématique des régions méditerranéennes produit des amandes, symboles de douceur et d’abondance. Connues pour leurs bienfaits nutritionnels et cosmétiques, les amandes sont une richesse cultivée depuis des millénaires. Cette affiche met en avant l’élégance naturelle des branches en fleur, un spectacle éphémère qui marque le retour du printemps.
-  Updated: 2025-09-07T14:37:22Z
+  Updated: 2025-09-24T10:37:13Z
   Vendor: Ma boutique
   Product Type: 
   Availability: Available
@@ -83,21 +83,21 @@
     Availability: Available
     Price: 10,50 € EUR
 - [Jeune plant de chêne à glands doux - Quercus Ilex Ballota](https://www.laforetnousregale.fr/products/chene-a-glands-doux-quercus-ilex-ballota): Jeune plant Bio de chêne ballote, utilisée dans la conception de jardins comestibles pour la consommation de ses glands en farine, ou grillés comme des châtaignes. Au Maroc, en Espagne ou en Grèce, on consomme encore les glands de chêne pour en faire du pain par exemple. La variété Ballota, représentée surtout dans le sud de l’Europe et en Algérie étaient aussi utilisée confits comme des marrons glacés et considérés con’e une friandise. On réalise aussi le café de glands doux avec les glands d’Espagne. Résistant à la sécheresse, longtemps cultivé pour l’alimentation humaine, c’est une arbre qu’il faut planter aussi chez vous ! Forêt comestible | Jardin forêt | Forêt nourricière | Agroforêt | Forêt jardin
-  Updated: 2025-09-07T14:37:22Z
+  Updated: 2025-09-24T10:37:13Z
   Vendor: La forêt nous régale
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/plant_de_chene_vert.jpg?v=1758052267
   Price: 6,00 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-d-epicea): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-22T19:11:58Z
+  Updated: 2025-09-24T10:37:13Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/sirop_epicea_bio_maison.png?v=1758052111
   Price: 9,90 € EUR
 - [Poudre de feuilles de figuier (Ficus carica) Bio - La forêt nous régale](https://www.laforetnousregale.fr/products/les-feuilles-de-figuier-bio-en-poudre): Poudre de feuilles de figuier bio de bretagne 100% naturelle, riche en bienfaits pour infusions, cuisine et bien-être. d'origine local garantie.
-  Updated: 2025-09-15T12:07:31Z
+  Updated: 2025-09-24T10:37:14Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
@@ -109,17 +109,31 @@
     Availability: Available
     Price: 25,50 € EUR
 - [Sirop d'Épicéa Bio - Saveur Boisée Unique | La Forêt Nous Régale](https://www.laforetnousregale.fr/products/sirop-maison-d-epicea-bio-decouvrez-nos-recettes-incroyables-copie): Découvrez notre sirop d'épicéa bio aux notes d'agrumes et résine. Parfait pour cocktails, pâtisseries et cuisine créative. Goût boisé authentique.
-  Updated: 2025-09-23T07:34:35Z
+  Updated: 2025-09-24T10:37:14Z
   Vendor: La forêt nous régale
   Product Type: alimentaire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Sirop_de_feuile_de_figuier.png?v=1758569464
   Price: 9,90 € EUR
+- [Plant de Théier Bio Issu d'Agroforesterie](https://www.laforetnousregale.fr/products/plant-de-theier-bio): Découvrez notre plant de théier bio (Camellia sinensis), cultivé en agroforesterie durable, une méthode ancestrale.
+  Updated: 2025-09-24T14:16:31Z
+  Vendor: La forêt nous régale
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Capture_d_ecran_2025-09-24_a_11.52.23.png?v=1758707577
+  Price: 6,00 € EUR
+- [Livret de formation en agroforesterie](https://www.laforetnousregale.fr/products/livret-de-formation-en-agroforesterie): Livret de formation en agroforesterie Gratuit
+  Updated: 2025-09-24T11:10:01Z
+  Vendor: La forêt nous régale
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Formation_09d41b66-90c9-47a4-9b07-b4997f4a419e.jpg?v=1758710067
+  Price: 0,00 € EUR
 
 ## Collections
 
 - [Produits Bio Forêt Française Saison 2024 - Champignons Fruits Sauvages - La Forêt Nous Régale](https://www.laforetnousregale.fr/collections/produits-saisons-bio-foret-francaise): 🌲 Produits bio de saison : champignons frais, fruits sauvages, plantes aromatiques de forêt française. Récolte responsable, fraîcheur garantie. Livraison France.
-  Updated: 2025-09-22T19:34:58Z
+  Updated: 2025-09-24T10:37:13Z
   Total Products: 4
 
 ## Blogs
@@ -729,14 +743,10 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
     Updated: 2025-09-22T19:06:30Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, climat urbain, ecologue, Intégration dans la planification, politique, qualité de l'air, resilience, strategie
-  - [Blockchain et Traçabilité : La Révolution Numérique des Filières Agroforestières](https://www.laforetnousregale.fr/blogs/infos/blockchain-et-tracabilite-la-revolution-numerique-des-filieres-agroforestieres): <p><meta charset="utf-8"><meta charset="utf-8"><i>Le marché de la blockchain appliquée à l'agriculture et à l'alimentation, évalué à 302,8 millions de dollars en 2023 avec une croissance annuelle de 36,2 pour cent, transforme la traçabilité des produits agroforestiers. Cette technologie de registre distribué garantit transparence, authenticité et valorisation des pratiques durables tout au long des chaînes d'approvisionnement.</i><br></p>
-    Updated: 2025-09-23T10:51:33Z
+  - [5 Recettes Incroyables avec du Sirop de Feuille de Figuier](https://www.laforetnousregale.fr/blogs/infos/5-recettes-incroyables-avec-du-sirop-de-feuille-de-figuier): <p><meta charset="utf-8"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Le sirop de feuille de figuier est un trésor culinaire méconnu, offrant une saveur douce et légèrement herbacée qui évoque les figues fraîches et les jardins d'été.</span></span></p>
+    Updated: 2025-09-24T09:41:42Z
     Author: Équipe Pacific Planet
-    Tags: agroforesterie, alimentation durable, authenticité, blockchain, durable, traçabilité, transparence
-  - [COP29 et Agroforesterie : Nouveaux Paradigmes pour l'Action Climatique Mondiale](https://www.laforetnousregale.fr/blogs/infos/cop29-et-agroforesterie-nouveaux-paradigmes-pour-laction-climatique-mondiale): <p><meta charset="utf-8"><i>La COP29 tenue à Bakou a positionné l'agroforesterie comme solution climatique naturelle prioritaire pour atteindre les objectifs de l'Accord de Paris. </i></p>
-    Updated: 2025-09-23T11:17:07Z
-    Author: Équipe Pacific Planet
-    Tags: accord, agroforesterie, biodiversité, carbon, changement climatique, climat urbain, cop29, paris, résilience
+    Tags: agroforesterie, alimentation durable, Bio, Découvertes, épicéa, Jardin Forêt, maison, original, plante médicinale, poudre de feuilles de figuier, recette, remède naturel, santé, sirop, Vente
 
 ## Store Pages
 
