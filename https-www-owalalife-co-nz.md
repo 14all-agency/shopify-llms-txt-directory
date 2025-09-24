@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-09-23T16:00:27.897Z
+- Updated At: 2025-09-24T04:00:29.253Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07200-40-oz.CalmWatersTumbler-SC.jpg?v=1749440192
     Price: $79.99 NZD
 - [Kid's Tumbler - Polypropylene](https://www.owalalife.co.nz/products/kids-tumbler-polypropylene): I’m every kid’s #1 fan. I’ll happily sit through the 327th rewatch of their favorite show with no complaints—because hey, I don’t have ears. In addition to being a good friend, I'm easy to sip, and spill resistant.
-  Updated: 2025-09-20T19:34:20Z
+  Updated: 2025-09-24T03:31:05Z
   Vendor: My Store
   Product Type: TUMBLER KIDS
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07292-15-oz.TumblerSkatePark-SC.jpg?v=1749439853
     Price: $24.99 NZD
 - [kids-free-sip](https://www.owalalife.co.nz/products/kids-freesip): My parents, the Owala FreeSip, are really proud of me. Why? Because I’m tough, never leak (when closed), am loads of fun to drink from, and always keep my cool. I’m kind of the perfect child.
-  Updated: 2025-09-23T06:27:06Z
+  Updated: 2025-09-24T03:31:05Z
   Vendor: My Store
   Product Type: FREESIP KIDS
   Availability: Available
@@ -236,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07000-24ozSmelltheRosesTumbler-SC.png?v=1749439587
     Price: $59.99 NZD
 - [Silicone Boot](https://www.owalalife.co.nz/products/silicone-boot): Dents and scratches? A thing of the past. No more worrying about dropping your bottle or placing it down too hard. This silicone cover acts like a phone case for your Owala Bottle—protecting it from damage and keeping it looking good as new. With an assortment of colors to choose from, the Bottle Boot also adds extra personality and individuality to your already cool-looking bottle. Your water bottle is precious and should be protected at all costs. That’s why I was created — to fight off dents, scratches, and zombie attacks. Basically, I’m like a phone case for your water bottle. I absorb any damage that comes its way. And I look pretty good doing it, if I do say so myself.Bottle not included. Fits FreeSip Stainless Steel bottles.
-  Updated: 2025-09-23T13:01:06Z
+  Updated: 2025-09-23T22:20:05Z
   Vendor: My Store
   Product Type: SILICONE BOOT
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1749429110
     Price: $54.99 NZD
 - [FreeSip](https://www.owalalife.co.nz/products/freesip): When it comes to hydration, you deserve options. That’s why we designed the FreeSip to let you choose your own adventure—hold upright to sip through the built-in straw or tilt back to swig through the wide-mouth opening. If that isn’t exciting enough, this bottle is ready to spring into action at any time. Just push the button to flip the top open and push back down to lock it shut (and keep out germs). But we should warn you: If you’re one of those people who likes bottles that spill water everywhere, you’re out of luck… the FreeSip is completely leak proof.
-  Updated: 2025-09-23T13:01:07Z
+  Updated: 2025-09-24T03:46:06Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
@@ -438,7 +438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06683_-_24oz_Candy_Coated_-_SC.jpg?v=1749419026
     Price: $64.99 NZD
   - [CANDY COATED / 945ML](https://www.owalalife.co.nz/products/freesip?variant=46919377059997)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06728_-_40oz_Candy_Coated_-_SC.jpg?v=1749419131
     Price: $74.99 NZD
   - [CANDY COATED / 1185ML](https://www.owalalife.co.nz/products/freesip?variant=46919377092765)
@@ -608,13 +608,13 @@
   Updated: 2025-09-23T11:07:25Z
   Total Products: 5
 - [Drinkware](https://www.owalalife.co.nz/collections/drinkware)
-  Updated: 2025-09-23T11:07:25Z
+  Updated: 2025-09-23T22:06:30Z
   Total Products: 22
 - [Kid's Tumbler](https://www.owalalife.co.nz/collections/kids-tumbler)
   Updated: 2025-09-23T11:07:25Z
   Total Products: 5
 - [Tumblers](https://www.owalalife.co.nz/collections/tumblers)
-  Updated: 2025-09-23T11:07:25Z
+  Updated: 2025-09-23T22:06:30Z
   Total Products: 11
 - [FreeSips](https://www.owalalife.co.nz/collections/freesips)
   Updated: 2025-09-23T11:07:25Z
@@ -626,10 +626,10 @@
   Updated: 2024-06-19T04:42:53Z
   Total Products: 0
 - [Kid's Products](https://www.owalalife.co.nz/collections/kids-products)
-  Updated: 2025-09-23T11:07:25Z
+  Updated: 2025-09-23T22:06:30Z
   Total Products: 8
 - [Shop All](https://www.owalalife.co.nz/collections/shop-all)
-  Updated: 2025-09-23T11:07:25Z
+  Updated: 2025-09-23T22:05:38Z
   Total Products: 11
 
 ## Store Pages
