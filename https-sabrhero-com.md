@@ -6,26 +6,26 @@
 - Timezone: Europe/Paris
 - Created At: 2022-01-11T22:54:58Z
 - Contact Email: Sabrhero@outlook.com
-- Updated At: 2025-09-24T04:00:28.942Z
+- Updated At: 2025-09-25T00:00:29.172Z
 
 ## Products
 
-- [SABRHERO Golden Hour Luxury Tennis Racket - French-Crafted Pro](https://sabrhero.com/products/sabrhero-golden-hour-luxury-performance-tennis-racket-adult-carbon-300g): Experience SABRHERO Golden Hour: French-crafted luxury tennis racket for precision, power & elegant design. Master your sport with elite performance.
-  Updated: 2025-09-23T12:27:24Z
+- [Luxury Tennis Racket - Golden Hour by SABRHERO for Elite Performance](https://sabrhero.com/products/sabrhero-golden-hour-luxury-tennis-racket-adult-carbon-300g): Elevate your game with the Golden Hour by SABRHERO—a luxury tennis racket designed for performance and style. Experience unmatched quality on the court today!
+  Updated: 2025-09-24T23:40:44Z
   Vendor: SABRHERO
   Product Type: Tennis Racquets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_1448c11448c11448.png?v=1758407506
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/res.png?v=1758721796
   Price: €338.00 EUR
-- [SABRHERO Inner Power Pro: Luxury Performance Tennis Racket GB](https://sabrhero.com/products/sabrhero-inner-power-pro-tennis-racket-295g-red-white): Master your game with SABRHERO Inner Power Pro. French luxury tennis racket for unparalleled performance & control. Define your court presence.
-  Updated: 2025-09-24T00:27:44Z
+- [Luxury Tennis Racket - SABRHERO Inner Power Pro Premium Tennis Racket](https://sabrhero.com/products/luxury-tennis-racket-inner): Master your game with SABRHERO Inner Power Pro. French luxury tennis racket for unparalleled performance & control. Define your court presence.
+  Updated: 2025-09-24T20:34:06Z
   Vendor: SABRHERO
   Product Type: Tennis Racquets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_wwra4zwwra4zwwra.png?v=1758407451
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/res_red.png?v=1758721983
   Price: €300.00 EUR
-- [SABRHERO Luxury Tennis Gift Card - French-Crafted for Elite Players](https://sabrhero.com/products/sabrhero-luxury-tennis-gift-card-elite-players): Grant the gift of choice & luxury with a SABRHERO Tennis Gift Card. Access French-crafted gear, coaching, & exclusive experiences for elite players.
-  Updated: 2025-09-23T12:27:24Z
+- [Luxury Tennis Gift Card - Perfect Gift for Tennis Enthusiasts](https://sabrhero.com/products/sabrhero-luxury-tennis-gift-card-elite-players): Discover the SABRHERO Luxury Tennis Gift Card, the ultimate gift for tennis enthusiasts. Perfect for gifting luxury tennis experiences. Elevate their game today!
+  Updated: 2025-09-24T20:36:45Z
   Vendor: SABRHERO
   Product Type: Gift Cards
   Availability: Available
@@ -45,139 +45,139 @@
   - [€1000.00](https://sabrhero.com/products/sabrhero-luxury-tennis-gift-card-elite-players?variant=41328299606166)
     Availability: Available
     Price: €100.00 EUR
-- [SABRHERO Inner Power Thermobag: Luxury French Tennis Bag, 3 Rackets](https://sabrhero.com/products/sabrhero-inner-power-thermobag-luxury-french-tennis-bag-3-rackets-thermal-protection): Experience SABRHERO's French-crafted luxury thermobag. Protect 3 rackets & elite gear with superior thermal performance & elegant style. Master your sport.
-  Updated: 2025-09-24T00:42:41Z
+- [Luxury Tennis Bag - SABRHERO Inner Power Thermobag for Premium Gear](https://sabrhero.com/products/luxury-tennis-bag-sabrhero): Elevate your game with the SABRHERO Inner Power Thermobag. This luxury tennis bag offers premium gear storage, ensuring your equipment stays protected and stylish on and off the court.
+  Updated: 2025-09-24T20:38:00Z
   Vendor: SABRHERO
   Product Type: Tennis Racquet Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_yrtryqyrtryqyrtr.png?v=1758150024
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_yrtryqyrtryqyrtr.png?v=1758737378
   Price: €111.00 EUR
-- [SABRHERO White Swan Luxury Tennis Dress - French-Crafted Performance GB](https://sabrhero.com/products/sabrhero-white-swan-luxury-performance-tennis-dress-women-gb): SABRHERO White Swan Luxury Tennis Dress: French-crafted for superior performance & elegant style. Experience refined comfort & dominate your matches.
-  Updated: 2025-09-24T00:27:32Z
+- [Luxury Tennis Dress - White Swan SABRHERO Premium Tennis Apparel](https://sabrhero.com/products/sabrhero-luxury-tennis-dress): SABRHERO White Swan Luxury Tennis Dress: French-crafted for superior performance & elegant style. Experience refined comfort & dominate your matches.
+  Updated: 2025-09-24T20:39:05Z
   Vendor: SABRHERO
   Product Type: Tennis Dresses and women’s apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_tshn3utshn3utshn.png?v=1758152919
-  - [L](https://sabrhero.com/products/sabrhero-white-swan-luxury-performance-tennis-dress-women-gb?variant=42671139061910)
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/2a07b2ac-1afa-4c40-aaa7-4604c589c74a.jpg?v=1758703246
+  - [L](https://sabrhero.com/products/sabrhero-luxury-tennis-dress?variant=42671139061910)
     Availability: Available
     Price: €169.00 EUR
-  - [M](https://sabrhero.com/products/sabrhero-white-swan-luxury-performance-tennis-dress-women-gb?variant=42671139094678)
+  - [M](https://sabrhero.com/products/sabrhero-luxury-tennis-dress?variant=42671139094678)
     Availability: Available
     Price: €169.00 EUR
-  - [S](https://sabrhero.com/products/sabrhero-white-swan-luxury-performance-tennis-dress-women-gb?variant=42671139127446)
+  - [S](https://sabrhero.com/products/sabrhero-luxury-tennis-dress?variant=42671139127446)
     Availability: Available
     Price: €169.00 EUR
-- [SABRHERO Red Beauty Luxury Performance Tennis Dress GB](https://sabrhero.com/products/sabrhero-red-beauty-luxury-performance-tennis-dress-gb): Master your sport with SABRHERO's French-crafted Red Beauty Luxury Performance Tennis Dress. Experience elegant style & unparalleled comfort on court in GB.
-  Updated: 2025-09-24T03:41:19Z
+- [Luxury Tennis Dress - Red Beauty SABRHERO Premium Performance Gear](https://sabrhero.com/products/luxury-tennis-dress-red): Elevate your game with the Red Beauty SABRHERO Luxury Tennis Dress. Experience unmatched style and comfort in this premium performance gear designed for champions. Shop now!
+  Updated: 2025-09-24T20:40:59Z
   Vendor: SABRHERO
   Product Type: Tennis Dresses and women’s apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/red_dress.png?v=1758637657
-  - [L](https://sabrhero.com/products/sabrhero-red-beauty-luxury-performance-tennis-dress-gb?variant=42671272984726)
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/19cf4eed-1560-45a2-a1bc-bf48820a77a8_57232e23-d720-4421-a07c-c779eb58adf2.jpg?v=1758708221
+  - [L](https://sabrhero.com/products/luxury-tennis-dress-red?variant=42671272984726)
     Availability: Available
     Price: €169.00 EUR
-  - [M](https://sabrhero.com/products/sabrhero-red-beauty-luxury-performance-tennis-dress-gb?variant=42671273017494)
+  - [M](https://sabrhero.com/products/luxury-tennis-dress-red?variant=42671273017494)
     Availability: Available
     Price: €169.00 EUR
-  - [S](https://sabrhero.com/products/sabrhero-red-beauty-luxury-performance-tennis-dress-gb?variant=42671273050262)
+  - [S](https://sabrhero.com/products/luxury-tennis-dress-red?variant=42671273050262)
     Availability: Available
     Price: €169.00 EUR
-- [SABRHERO Azurite Dress - Luxury French Tennis Apparel Women](https://sabrhero.com/products/sabrhero-azurite-dress-french-crafted-luxury-performance-tennis-apparel-women): SABRHERO Azurite Dress: French-crafted luxury tennis apparel for women. Dominate the court with superior performance & elegant style. Shop now!
-  Updated: 2025-09-24T00:27:35Z
+- [Luxury Tennis Dress - SABRHERO Azurite Premium Performance Gear for Athletes](https://sabrhero.com/products/luxury-tennis-dress-sabrhero-azurite): Unleash your potential with the SABRHERO Azurite Luxury Tennis Dress. Designed for athletes, this premium performance gear combines style and comfort on the court.
+  Updated: 2025-09-24T20:42:23Z
   Vendor: SABRHERO
   Product Type: Tennis Dresses and women’s apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/b0b3d9cc-577f-43c2-aae2-ff6f3e510cd4_18fceba0-ed4e-4638-b277-c6b364f6c34c.jpg?v=1758661298
-  - [XL](https://sabrhero.com/products/sabrhero-azurite-dress-french-crafted-luxury-performance-tennis-apparel-women?variant=42671304376470)
+  - [XL](https://sabrhero.com/products/luxury-tennis-dress-sabrhero-azurite?variant=42671304376470)
     Availability: Available
     Price: €169.00 EUR
-  - [L](https://sabrhero.com/products/sabrhero-azurite-dress-french-crafted-luxury-performance-tennis-apparel-women?variant=42671324561558)
+  - [L](https://sabrhero.com/products/luxury-tennis-dress-sabrhero-azurite?variant=42671324561558)
     Availability: Available
     Price: €169.00 EUR
-  - [M](https://sabrhero.com/products/sabrhero-azurite-dress-french-crafted-luxury-performance-tennis-apparel-women?variant=42671324594326)
+  - [M](https://sabrhero.com/products/luxury-tennis-dress-sabrhero-azurite?variant=42671324594326)
     Availability: Available
     Price: €169.00 EUR
-  - [S](https://sabrhero.com/products/sabrhero-azurite-dress-french-crafted-luxury-performance-tennis-apparel-women?variant=42671324627094)
+  - [S](https://sabrhero.com/products/luxury-tennis-dress-sabrhero-azurite?variant=42671324627094)
     Availability: Available
     Price: €169.00 EUR
-- [SABRHERO Heritage Champion Polo – Luxury French Tennis Polo for Men](https://sabrhero.com/products/sabrhero-heritage-champion-polo-luxury-french-performance-tennis-men): Experience the SABRHERO Heritage Champion Polo: French-crafted luxury tennis wear for men. Superior performance & elegant style on court. Shop now.
-  Updated: 2025-09-24T00:27:37Z
+- [Luxury Tennis Tshirt - SABRHERO Heritage Champion](https://sabrhero.com/products/luxury-tennis-tshirt): Elevate your game with the SABRHERO Heritage Champion Luxury Tennis tshirt. This premium performance polo combines style and comfort for passionate tennis enthusiasts.
+  Updated: 2025-09-24T20:46:42Z
   Vendor: SABRHERO
   Product Type: Shirts and t shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_dbb7msdbb7msdbb7_1.png?v=1758151297
-  - [XS](https://sabrhero.com/products/sabrhero-heritage-champion-polo-luxury-french-performance-tennis-men?variant=42750119379094)
+  - [XS](https://sabrhero.com/products/luxury-tennis-tshirt?variant=42750119379094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_dbb7msdbb7msdbb7_1.png?v=1758151297
     Price: €74.00 EUR
-  - [S](https://sabrhero.com/products/sabrhero-heritage-champion-polo-luxury-french-performance-tennis-men?variant=42750119411862)
+  - [S](https://sabrhero.com/products/luxury-tennis-tshirt?variant=42750119411862)
     Availability: Available
     Price: €74.00 EUR
-  - [M](https://sabrhero.com/products/sabrhero-heritage-champion-polo-luxury-french-performance-tennis-men?variant=42750119444630)
+  - [M](https://sabrhero.com/products/luxury-tennis-tshirt?variant=42750119444630)
     Availability: Available
     Price: €74.00 EUR
-  - [L](https://sabrhero.com/products/sabrhero-heritage-champion-polo-luxury-french-performance-tennis-men?variant=42750119477398)
+  - [L](https://sabrhero.com/products/luxury-tennis-tshirt?variant=42750119477398)
     Availability: Available
     Price: €74.00 EUR
-- [SABRHERO Elite Tennis Socks – Luxury 3-Pack, French-Crafted GB](https://sabrhero.com/products/sabrhero-elite-performance-tennis-socks-luxury-3-pack-gb): Master the court with SABRHERO Elite Performance Tennis Socks. French-crafted 3-pack offers luxury comfort, moisture-wicking, arch support. Shop now in GB.
-  Updated: 2025-09-24T00:27:31Z
+- [Luxury Tennis Socks - SABRHERO SuperHero Socks 3-Pack for Performance](https://sabrhero.com/products/sabrhero-luxury-tennis-socks): Elevate your game with SABRHERO SuperHero Socks! This 3-pack of luxury tennis socks delivers premium performance, comfort, and style on and off the court. Shop now!
+  Updated: 2025-09-24T20:48:20Z
   Vendor: SABRHERO
   Product Type: Apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_3c7ajv3c7ajv3c7a.png?v=1758147676
-  - [43-46](https://sabrhero.com/products/sabrhero-elite-performance-tennis-socks-luxury-3-pack-gb?variant=42818768208022)
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_3c7ajv3c7ajv3c7a.png?v=1758735897
+  - [43-46](https://sabrhero.com/products/sabrhero-luxury-tennis-socks?variant=42818768208022)
     Availability: Available
     Price: €22.00 EUR
-  - [36-42](https://sabrhero.com/products/sabrhero-elite-performance-tennis-socks-luxury-3-pack-gb?variant=42818768240790)
+  - [36-42](https://sabrhero.com/products/sabrhero-luxury-tennis-socks?variant=42818768240790)
     Availability: Available
     Price: €22.00 EUR
-- [SABRHERO Luxury Snow Jacket - French-Crafted Performance Coat](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof): SABRHERO Luxury Snow Jacket: French-crafted for unparalleled performance & sophisticated style. Conquer winter with advanced water-resistance & warmth.
-  Updated: 2025-09-23T21:13:20Z
+- [Luxury Sports Gear - The SABRHERO Snow Jacket for Outdoor Adventures](https://sabrhero.com/products/sabrhero-luxury-sports-gear): Upgrade your outdoor adventures with The SABRHERO Snow Jacket, the ultimate luxury sports gear. Experience unmatched comfort and style on every slope. Shop now!
+  Updated: 2025-09-24T20:49:49Z
   Vendor: SABRHERO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/Gemini_Generated_Image_i4bikmi4bikmi4bi.png?v=1758662000
-  - [Winter White / S](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975455894)
+  Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/kacletblue2.png?v=1758735973
+  - [Winter White / S](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975455894)
     Availability: Available
     Price: €150.00 EUR
-  - [Winter White / M](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975488662)
+  - [Winter White / M](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975488662)
     Availability: Available
     Price: €150.00 EUR
-  - [Winter White / L](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975521430)
+  - [Winter White / L](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975521430)
     Availability: Available
     Price: €150.00 EUR
-  - [Winter White / XL](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975554198)
+  - [Winter White / XL](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975554198)
     Availability: Available
     Price: €150.00 EUR
-  - [Pink Peach / S](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975586966)
+  - [Pink Peach / S](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975586966)
     Availability: Available
     Price: €150.00 EUR
-  - [Pink Peach / M](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975619734)
+  - [Pink Peach / M](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975619734)
     Availability: Available
     Price: €150.00 EUR
-  - [Pink Peach / L](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975652502)
+  - [Pink Peach / L](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975652502)
     Availability: Available
     Price: €150.00 EUR
-  - [Pink Peach / XL](https://sabrhero.com/products/sabrhero-luxury-snow-jacket-french-crafted-performance-20000mm-waterproof?variant=42905975685270)
+  - [Pink Peach / XL](https://sabrhero.com/products/sabrhero-luxury-sports-gear?variant=42905975685270)
     Availability: Available
     Price: €150.00 EUR
-- [SABRHERO White Performance Tennis T-Shirt | French Luxury](https://sabrhero.com/products/sabrhero-white-performance-tennis-t-shirt-french-luxury): Experience SABRHERO's French-crafted luxury. This performance tennis T-shirt offers advanced moisture-wicking, durable comfort, and an athletic fit for elite play. Dominate your matches.
-  Updated: 2025-09-23T12:27:24Z
+- [Luxury Tennis T-Shirt - Premium SABRHERO White Edition for Comfort](https://sabrhero.com/products/sabrhero-luxury-tennis-t-shirt-french): Elevate your game with the Premium Luxury Tennis T-Shirt - SABRHERO White Edition. Experience unmatched comfort and style with this luxury tennis T-shirt designed for champions.
+  Updated: 2025-09-24T20:50:56Z
   Vendor: SABRHERO
   Product Type: Shirts and t shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/tshirt.png?v=1758226149
-  - [S](https://sabrhero.com/products/sabrhero-white-performance-tennis-t-shirt-french-luxury?variant=45635867705494)
+  - [S](https://sabrhero.com/products/sabrhero-luxury-tennis-t-shirt-french?variant=45635867705494)
     Availability: Available
     Price: €27.00 EUR
-  - [M](https://sabrhero.com/products/sabrhero-white-performance-tennis-t-shirt-french-luxury?variant=45635867738262)
+  - [M](https://sabrhero.com/products/sabrhero-luxury-tennis-t-shirt-french?variant=45635867738262)
     Availability: Available
     Price: €27.00 EUR
-  - [L](https://sabrhero.com/products/sabrhero-white-performance-tennis-t-shirt-french-luxury?variant=45635867771030)
+  - [L](https://sabrhero.com/products/sabrhero-luxury-tennis-t-shirt-french?variant=45635867771030)
     Availability: Available
     Price: €27.00 EUR
-- [SABRHERO Women's Performance Tennis Shorts - White | GB](https://sabrhero.com/products/sabrhero-womens-performance-tennis-shorts-white-integrated-base-layer): French-crafted SABRHERO women's tennis shorts with integrated base layer. Moisture-wicking for peak performance. Experience luxury on court. Shop now!
-  Updated: 2025-09-24T00:38:49Z
+- [Luxury Tennis Apparel | SABRHERO Premium Tennis Shorts](https://sabrhero.com/products/sabrhero-luxury-tennis-apparel-shorts): Experience unparalleled comfort and style with SABRHERO Premium Tennis Shorts. Elevate your game with luxury tennis apparel that combines performance with a sleek design.
+  Updated: 2025-09-24T20:52:25Z
   Vendor: SABRHERO
   Product Type: Apparel
   Availability: Available
@@ -187,17 +187,20 @@
 ## Collections
 
 - [Heritage Collection | SABRHERO Premium Heritage Collection - Shop Now!](https://sabrhero.com/collections/sabrhero-luxury-heritage-collection): Discover the SABRHERO Premium Heritage Collection, showcasing timeless designs and quality craftsmanship. Elevate your style with our exclusive heritage collection today!
-  Updated: 2025-09-23T21:04:20Z
+  Updated: 2025-09-24T20:52:26Z
   Total Products: 4
 - [Performance Tennis Apparel - SABRHERO's Elite Athletic Wear Collection](https://sabrhero.com/collections/sabrhero-performance-tennis-apparel): Explore SABRHERO's Performance Tennis Apparel collection, designed for ultimate comfort and agility on the court. Elevate your game with our high-quality, stylish gear today!
-  Updated: 2025-09-23T21:03:54Z
+  Updated: 2025-09-24T20:49:50Z
   Total Products: 5
 - [Premium Rackets - Explore the SABRHERO Premium Racket Range Today!](https://sabrhero.com/collections/premium-rackets): Discover the SABRHERO Premium Racket Range, featuring high-performance premium rackets designed for champions. Elevate your game today with our top-quality collection!
-  Updated: 2025-09-23T21:02:20Z
+  Updated: 2025-09-24T20:34:07Z
   Total Products: 2
 - [Premium Tennis Bags | SABRHERO High-Quality Tennis Bag Collection](https://sabrhero.com/collections/sabrhero-premium-tennis-bags): Explore the SABRHERO Premium Tennis Bags collection, designed for style and functionality. Elevate your game with our durable, spacious, and stylish premium tennis bags.
-  Updated: 2025-09-23T21:03:22Z
+  Updated: 2025-09-24T20:37:56Z
   Total Products: 1
+- [Partner Products](https://sabrhero.com/collections/partner-products)
+  Updated: 2025-09-24T18:20:51Z
+  Total Products: 0
 
 ## Blogs
 
@@ -367,6 +370,8 @@
   Updated: 2025-09-20T20:41:24Z
 - [Collabs](https://sabrhero.com/pages/collab)
   Updated: 2025-09-20T20:41:25Z
+- [Directory Sites](https://sabrhero.com/pages/directory-sites)
+  Updated: 2025-09-24T19:00:41Z
 
 ## Policies
 
