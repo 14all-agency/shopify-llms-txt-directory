@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-25T12:00:38.092Z
+- Updated At: 2025-09-25T16:00:38.499Z
 
 ## Products
 
@@ -1579,7 +1579,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/interleave-toilet-tissue-white-2-ply-250-sheets-fsc-mix-36-packs-dispenser-pack-household-toilet-tissue-essential-supplies-384042.jpg?v=1719445314
   Price: $70.00 NZD
 - [Moss & Mould Remover - Clear, 5L Refill Bottle](https://essentialsupplies.co.nz/products/moss-mould-remover-clear-5l-refill-bottle-2): Kills and helps prevent moss, mould, mildew, lichen and algae growing on most exterior hard surfaces.Biodegradable and at recommended dilution rates has low toxicity for plants and animals. As a precaution any foliage should be fully rinsed if contact occurs.Ideal spray and leave solution. Algae, mould, moss and lichen controlIdeal spray and leave solution Colour: Clear Content: 2 x 5 Litres
-  Updated: 2025-01-09T22:34:47Z
+  Updated: 2025-09-25T14:12:41Z
   Vendor: Mattews Packaging
   Product Type: Exterior Care
   Availability: Available
@@ -4349,7 +4349,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/aluminium-mop-handle-green-25mm-x-1500mm-mops-essential-supplies-669761.jpg?v=1719444768
   Price: $20.00 NZD
 - [Aluminium Mop Handle - Red, 25mm x 1500mm](https://essentialsupplies.co.nz/products/aluminium-mop-handle-red-25mm-x-1500mm-30): Socket mop handles constructed of durable commercial grade aluminium. Featuring an ergonomic swivel grip for comfortable cleaning. Universal socket attachment for use with cotton or microfibre mop heads. Match mop head colour to avoid cross contamination.
-  Updated: 2025-09-24T01:13:04Z
+  Updated: 2025-09-25T12:27:11Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
