@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-25T04:00:32.081Z
+- Updated At: 2025-09-25T08:00:33.150Z
 
 ## Products
 
@@ -2019,7 +2019,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [Newport Beach Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport): Discover the Newport Fabric Collection at Fabrics Star, offering a range of premium textiles for your sewing projects. Find the perfect fabric to elevate your creations.
-  Updated: 2025-09-19T16:30:48Z
+  Updated: 2025-09-25T04:08:52Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
