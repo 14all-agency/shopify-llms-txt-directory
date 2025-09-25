@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-25T04:00:35.630Z
+- Updated At: 2025-09-25T08:00:36.206Z
 
 ## Products
 
@@ -73,13 +73,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Triflora-Hanging-Planter-White-7.jpg?v=1727658836
   Price: $99.99 NZD
-- [Umbra Hubba Mirror - Titanium](https://everydayhome.co.nz/products/hubba-mirror-86cm-titanium): Hubba Mirror, (86Cm), Titanium
-  Updated: 2025-09-25T00:51:52Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Mirror-Titanium-0.jpg?v=1727659064
-  Price: $279.99 NZD
 - [Umbra Hub Full Length Wall Mirror - Black](https://everydayhome.co.nz/products/hub-leaning-mirror-37-x-157cm-black): Hub Leaning Mirror, (37 X 157Cm), Black
   Updated: 2025-09-25T00:51:53Z
   Vendor: UMBRA
@@ -2384,7 +2377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Oval-Mirror-45-x-61cm-Black-UMBRA-5.png?v=1731902521
   Price: $159.99 NZD
 - [Umbra Hub Wall Mirror - Black](https://everydayhome.co.nz/products/hub-wall-mirror-61cm-black): Hub Wall Mirror is the perfect wall decor for heavily trafficked areas like entryways and washrooms. Its rubber rim makes it more durable than most other mirrors while providing a modern, industrialized look. This decorative mirror is a great solution because it helps bounce light around your room, making space appear larger and brighter.
-  Updated: 2025-09-25T00:51:48Z
+  Updated: 2025-09-25T07:52:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
