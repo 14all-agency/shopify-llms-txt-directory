@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-12T11:55:19Z
 - Contact Email: Info@lenoirandcollective.com
-- Updated At: 2025-09-25T12:00:29.553Z
+- Updated At: 2025-09-25T16:00:29.363Z
 
 ## Products
 
@@ -640,7 +640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0896/1658/0941/files/c08d09f4f2919e802a5fe309d7ed4a9c.jpg?v=1751481315
     Price: €49.50 EUR
 - [Luxury Women Handbag - Organic Tote & Crossbody 2025](https://lenoirandcollective.com/products/women-bag-hander-bag-for-women-2025-tote-bag-crossbody-bag-fashion-single-bag-for-women-sac-a-main-femme-luxury): Discover our stylish women bag collection, featuring organic materials and old money aesthetics in tote and crossbody designs.
-  Updated: 2025-09-18T15:29:10Z
+  Updated: 2025-09-25T16:00:11Z
   Vendor: Le noir & collective
   Product Type: 
   Availability: Available
