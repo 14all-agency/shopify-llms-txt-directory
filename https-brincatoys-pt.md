@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-25T12:01:05.412Z
+- Updated At: 2025-09-25T20:01:03.356Z
 
 ## Products
 
@@ -966,7 +966,7 @@ Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualid
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-unique-eyes-amy-642302822-8056379123026-brincatoys-1178692915.jpg?v=1752829932
   Price: 29,99 € EUR
 - [Princesa Disney Vaiana 38 cm: Boneca Realista do Filme Animado](https://brincatoys.pt/products/princesa-disney-vaiana-38-cm): Experimente a emoção do filme da Disney com a boneca Princesa Disney Vaiana 38 cm. Uma réplica detalhada para estimular a imaginação dos pequenos.
-  Updated: 2025-09-22T00:38:55Z
+  Updated: 2025-09-25T18:19:57Z
   Vendor: Princesas Disney
   Product Type: Bonecas
   Availability: Available
@@ -1131,7 +1131,7 @@ as várias partes da cabeça da Sophie (orelhas, chifres, etc.), seu corpo
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/burro-434982921-0095866249809-brincatoys-1178692956.jpg?v=1752831130
   Price: 7,00 € EUR
 - [Burro Marioneta](https://brincatoys.pt/products/burro-marioneta): Este burro irresistível de pelo escuro e sedoso, com uma natureza doce, lembra-nos delicioso alcaçuz (doce francês).  O mais bonito boneco de doudou feito de pele e microvelour para a uma sensação mais confortável ao toque. A função fantoche entretém o bebé e permite um jogo interactivo entre o bebé e os pais. As suas barrigas extremamente macia...
-  Updated: 2025-08-21T00:17:53Z
+  Updated: 2025-09-25T15:49:20Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -4959,7 +4959,7 @@ todo o mundo, embora o leopardo africano seja de longe o mais difundido.Figura e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/livro-de-tecido-arco-iris-810602822-brincatoys-1178694213.jpg?v=1752814683
   Price: 13,99 € EUR
 - [Livro de Tecido Floresta](https://brincatoys.pt/products/livro-de-tecido-floresta): Um livro de tecido onde os bebés poderão descobrir vários animais que vivem na floresta. O livro inclui também um mordedor de borracha, um chiador e folha crepitante, e ainda uma alça com argola para pendurar no carrinho, ovo ou cama.   Dimensão:13 x 10 x 2 cm.Idade Recomendada: + de 6 meses.
-  Updated: 2025-08-21T00:14:06Z
+  Updated: 2025-09-25T15:41:48Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -4969,14 +4969,14 @@ todo o mundo, embora o leopardo africano seja de longe o mais difundido.Figura e
 de animais do mar para descobrir e conhecer! Com cores e muitas texturas
  para mexer, inclui também uma alça super prática para pendurar o livro 
 no carrinho, ovo ou cadeira da papa. Livro com 12,5x13,5cm.
-  Updated: 2025-08-21T00:14:06Z
+  Updated: 2025-09-25T15:41:48Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/livro-de-tecido-mundo-marinho-810607822-brincatoys-1178694218.jpg?v=1752814698
   Price: 13,99 € EUR
 - [Livro de Tecido Mundo Marinho](https://brincatoys.pt/products/livro-de-tecido-mundo-marinho-1): Um livro de tecido para contar e inventar as primeiras histórias, cheio de animais do mar para descobrir e conhecer! Com cores e muitas texturas para mexer, inclui também uma alça super prática para pendurar o livro no carrinho, ovo ou cadeira da papa. Livro com 12,5x13,5cm.  Dimensão: 22 x 14 x 3 cm.Idade Recomendada: + de 6 meses.
-  Updated: 2025-08-21T00:14:06Z
+  Updated: 2025-09-25T15:41:47Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -6248,7 +6248,7 @@ sobrancelhas de cor amarela que terminam em longas penas da mesma cor.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pinypon-bebe-surpresa-cabelo-castanho-641408818-8410779048608-pinypon-1178694618.png?v=1752859820
   Price: 11,50 € EUR
 - [PinyPon Cabelo com Estilo](https://brincatoys.pt/products/pinypon-cabelo-com-estilo-1): Que cabelos fantásticos e divertidos esses novos Pinypon têm! cabelos? Não; são peludos!! Pinypon com cabelo roxo, num estilo afro trendy com um toque líquido «squeezy», com sapatos removíveis.  Dimensão: 8,50 x 11 x 5 cm.Idade Recomendada: + de 4 anos.
-  Updated: 2025-08-21T00:12:50Z
+  Updated: 2025-09-25T12:41:21Z
   Vendor: Pinypon
   Product Type: + 4 anos
   Availability: Available
@@ -8253,7 +8253,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/rainbow-high-mila-berrymore-557829122-0035051578291-rainbow-high-1178695283.jpg?v=1752871577
   Price: 44,99 € EUR
 - [Raposa de peluche](https://brincatoys.pt/products/raposa-de-peluche): Colorida raposa feita com materiais sintéticos da melhor qualidade. Dimensão: 35 cm. Idade recomendada: + de 0 meses.
-  Updated: 2025-09-16T10:30:46Z
+  Updated: 2025-09-25T17:47:02Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -10560,7 +10560,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-veterinario-de-cavalos-71241-657124123-playmobil-1178696055.jpg?v=1752885603
   Price: 23,50 € EUR
 - [Playmobil Apicultora 71253](https://brincatoys.pt/products/playmobil-apicultora): As abelhas estão entre os polinizadores mais importantes e são vitais para o nosso ecossistema. As abelhas do mel alimentam-se principalmente dos sumos doces das plantas, como o néctar, e vivem juntas em colónias. Os apicultores são responsáveis pela criação e reprodução das abelhas e pela produção de mel. Com o conjunto Apicultora da PLAYMOBIL, po
-  Updated: 2025-08-21T00:07:20Z
+  Updated: 2025-09-25T18:54:26Z
   Vendor: Playmobil
   Product Type: + 4 anos
   Availability: Available
@@ -10826,7 +10826,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-ninjago-71783-mech-motard-evo-do-kai-667178324-5702017412993-lego-1178696195.jpg?v=1752888963
   Price: 52,90 € EUR
 - [Lego Friends - Carrinha de Resgate de Cães 41741](https://brincatoys.pt/products/lego-friends-carrinha-de-resgate-de-caes): Pode ajudar a Nova a resgatar o cãozinho abandonado? Ligue para a empresa de resgates de cães. Aí vem o Dr. Marlon do centro de resgate de animais de estimação. O camião tem tudo o que precisa para cuidar de Pickle, o cão. Dê-lhe comida e água, e depois um banho. Ajude a Nova a pôr as suas capacidades de construção em prática e façam um conjunto de
-  Updated: 2025-09-25T09:05:22Z
+  Updated: 2025-09-25T15:18:46Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -11148,7 +11148,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-marvel-venom-brincatoys-90498423-marvel-1178696361.jpg?v=1752891377
   Price: 29,99 € EUR
 - [My Little Pony - Cutie Mark Magic Princess Petals](https://brincatoys.pt/products/my-little-pony-cutie-mark-magic-princess-petals): Princess Petals é uma elegante e talentosa princesa pop star de 7 cm, aproximadamente, com uma crina de plástico e cauda macia. A figura tem uma nota musical Cutie Mark de um lado, um charm plug-in Cutie Mark do outro lado e acessórios de cabelo para personalizar a figura e imaginar poderes mágicos. Princess é um pónei cor-de-rosa de cabelo roxo, i
-  Updated: 2025-08-24T17:35:46Z
+  Updated: 2025-09-25T15:33:50Z
   Vendor: My Little Pony
   Product Type: + 5 anos
   Availability: Available
@@ -11246,7 +11246,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-jenga-maker-brincatoys-90452823-brincatoys-1178696408.jpg?v=1752892214
   Price: 31,99 € EUR
 - [Transformers Studio Series - Arcee | Brincatoys](https://brincatoys.pt/products/transformers-studio-arcee): Eleve a sua coleção Transformers com a figura Studio Series - Arcee. Com um design sofisticado e detalhes incríveis, esta figura é obrigatória para os fãs.
-  Updated: 2025-09-01T12:24:46Z
+  Updated: 2025-09-25T18:32:36Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -12212,14 +12212,14 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-petit-calin-cesar-28-cm-o-melhor-amigo-do-seu-filho-266283924-3523196628393-brincatoys-1178696843.jpg?v=1752900255
   Price: 48,50 € EUR
 - [Anibabies 28 cm "Lapinou"](https://brincatoys.pt/products/anibabies-28-cm-lapinou): Bebé Anibabies "Lapinou" de 28 cm. Cabeça e mãos em vinil muito flexível com um delicado aroma a baunilha. Corpo, braços e pernas em tecido macio. Olhos azuis adormecidos com cílios. Capuz removível. Lavável na máquina.  Dimensão: 17 x 36 x 11 cm.Idade Recomendada: + de 12 meses.
-  Updated: 2025-08-21T00:05:12Z
+  Updated: 2025-09-25T15:41:47Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/anibabies-28-cm-lapinou-268280123-brincatoys-1178696845.jpg?v=1752900260
   Price: 39,99 € EUR
 - [Anibabies 28 cm "Pinpin"](https://brincatoys.pt/products/anibabies-28-cm-pinpin): Bebé Anibabies "Pinpin" de 28 cm. Cabeça e mãos em vinil muito flexível com um delicado aroma a baunilha. Corpo, braços e pernas em tecido macio. Olhos azuis adormecidos. Capuz removível. Lavável na máquina.  Dimensão: 17 x 36 x 11 cm.Idade Recomendada: + de 12 meses.
-  Updated: 2025-08-21T00:05:11Z
+  Updated: 2025-09-25T15:41:47Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -13522,7 +13522,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-sonic-76992-ilha-de-resgate-animal-brincatoys-667699223-5702017419503-lego-1178697561.jpg?v=1752912497
   Price: 58,50 € EUR
 - [Peluche Minnie 35 cm: Conforto e Magia Disney](https://brincatoys.pt/products/peluche-minnie-35-cm): Deixe a imaginação brilhar com o Peluche Minnie 35 cm! Este encantador brinquedo macio é perfeito para abraços e para decorar quartos.
-  Updated: 2025-09-09T11:21:27Z
+  Updated: 2025-09-25T15:31:58Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -13886,7 +13886,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-buddy-puppy-76018723-brincatoys-1178697779.jpg?v=1752913939
   Price: 24,90 € EUR
 - [Bola de Pano Teddy & Bunny](https://brincatoys.pt/products/bola-de-pano-teddy-bunny): Uma bola de atividades suave com muitos detalhes divertidos para descobrir e duas faces diferentes apresentando numa extremidade a cara de um urso e no lado oposto a cara de um coelho. Esta bola macia de pano tem muito para as mãos pequenas descobrirem. Existem diferentes abas e etiquetas que seu bebé agarrar e mexer; incluindo as orelhas macias do Coelho e do Urso! Também possui um pequeno chocalho no seu interior que fará um som suave ao rolar ou sacudir a bola. Este brinquedo macio é ótimo para ajudar a desenvolver as habilidades motoras, visuais e auditivas do seu bebé. Dimensão: 14 x 14 cm. Idade Recomendada. + de 0 meses.
-  Updated: 2025-08-21T00:03:16Z
+  Updated: 2025-09-25T15:41:47Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -14019,7 +14019,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-pikachu-e-popplio-239500123-pokemon-1178697856.jpg?v=1752915622
   Price: 14,99 € EUR
 - [Figura Pokémon - Alolan Muk](https://brincatoys.pt/products/figura-pokemon-alolan-muk): Prepara-te para a batalha com esta figura Pokémon. Torna-te um verdadeiro treinador Pokemon com esta incrível figura muito detalhada para colecionar. Este pacote contém uma figura altamente detalhada de Alolan Muk de aproximadamente 8 cm para a diversão se tornar ainda maior e para recriar e criar as tuas aventuras!! Garante já a tua!! Dimensão: 11 x 18 x 6 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-08-21T00:03:07Z
+  Updated: 2025-09-25T13:32:10Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14088,8 +14088,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-land-rover-defender-2022-a-escala-1-24-132110124-bburago-1178697907.jpg?v=1752916450
   Price: 23,99 € EUR
-- [Carro de Brincar Lamborghini Sesto Elemento 1/24](https://brincatoys.pt/products/lamborghini-sesto-elemento-copia): Descubra o carro de brincar Lamborghini Sesto Elemento, uma réplica para fâs, na escala 1/24, com detalhes impressionantes e design exclusivo.
-  Updated: 2025-09-25T10:09:26Z
+- [Carro de Brincar Lamborghini Sesto Elemento 1/24](https://brincatoys.pt/products/lamborghini-sesto-elemento): Descubra o carro de brincar Lamborghini Sesto Elemento, uma réplica para fâs, na escala 1/24, com detalhes impressionantes e design exclusivo.
+  Updated: 2025-09-25T12:38:09Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -14187,7 +14187,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-pikachu-e-sprigatito-ideais-para-colecao-23335823-8432752043684-pokemon-1178697972.jpg?v=1752917411
   Price: 12,90 € EUR
 - [Figuras Pokémon Pikachu e Quaxly - Coleção Select](https://brincatoys.pt/products/figuras-pokemon-pikachu-e-quaxly): Entre no mundo emocionante de Pokémon com as adoráveis e carismáticas figuras Pokémon Pikachu e Quaxly. Este conjunto traz figuras vibrantes e detalhadas, oferecendo uma representação fidedigna destes dois populares Pokémon. O icónico Pikachu, conhecido pelo seu poder elétrico e personalidade energética, é complementado pela novíssima e encantadora figura do Quaxly, que rapidamente conquistou corações com seu design exclusivo e estilo distinto. Com cerca de 5 centímetros de altura, estas figuras são o tamanho perfeito para colecionadores jovens, podendo ser facilmente utilizadas no jogo imaginativo. São também uma excelente adição a qualquer coleção de Pokémon, proporcionando uma maneira de trazer um pouco da magia do jogo e anime para a vida real. Além disso, estas figuras são uma ótima forma de incentivar a criatividade e a brincadeira interativa, permitindo que os fãs recriem as suas batalhas Pokémon favoritas. Este conjunto de figuras pokémon Pikachu e Quaxly são um presente maravilhoso para qualquer entusiasta de Pokémon. É uma excelente escolha para presentes de aniversário, ocasiões especiais ou simplesmente como uma surpresa para um dia qualquer. Inclui duas figuras colecionáveis: Pikachu e Quaxly Feitas de materiais duráveis e seguros Perfeitas para jogar e colecionar Ótima opção de presente para fãs de Pokémon Dimensão: 11,50 x 17,50 x 6 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-08-21T00:02:58Z
+  Updated: 2025-09-25T18:15:28Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14446,35 +14446,35 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-select-mewtwo-figure-detalhes-fantasticos-brincatoys-23241724-0191726402725-pokemon-1178698149.jpg?v=1752920779
   Price: 39,99 € EUR
 - [Bolas Sensoriais Montessori - Estimule os mais pequenos!](https://brincatoys.pt/products/bolas-sensoriais-montessori): Descubra as bolas sensoriais Montessori. Superfície texturizada para desenvolvimento tátil. Perfeito para coordenação motora e exploração sensorial.
-  Updated: 2025-08-21T00:02:42Z
+  Updated: 2025-09-25T15:41:47Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bolas-sensoriais-montessori-estimule-os-mais-pequenos-580517424-brincatoys-1178698153.jpg?v=1752921006
   Price: 21,99 € EUR
 - [Bola Sensorial Montessori Vermelha - Estimulação Tátil Infantil](https://brincatoys.pt/products/bola-sensorial-montessori-vermelha): Estimule o desenvolvimento tátil com a versátil bola sensorial  Montessori vermelha. Adequada desde os 6 meses de idade, promove a exploração sensorial e coordenação motora.
-  Updated: 2025-09-17T12:35:34Z
+  Updated: 2025-09-25T15:41:47Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bola-sensorial-montessori-vermelha-estimulacao-tatil-infantil-588630024-brincatoys-1178698157.jpg?v=1752921018
   Price: 11,99 € EUR
 - [Bola Sensorial Montessori Verde - Estimulação Tátil Infantil](https://brincatoys.pt/products/bola-sensorial-montessori-verde): Estimule o desenvolvimento tátil com a versátil bola sensorial  Montessori verde. Adequada desde os 6 meses de idade, promove a exploração sensorial e coordenação motora.
-  Updated: 2025-08-21T00:02:41Z
+  Updated: 2025-09-25T15:41:46Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bola-sensorial-montessori-verde-estimulacao-tatil-infantil-588630324-2600000-brincatoys-1178698161.jpg?v=1752921130
   Price: 11,99 € EUR
 - [Bola Sensorial Montessori Azul - Estimulação Tátil Infantil](https://brincatoys.pt/products/bola-sensorial-montessori-azul): Estimule o desenvolvimento tátil com a versátil bola sensorial  Montessori azul. Adequada desde os 6 meses de idade, promove a exploração sensorial e coordenação motora.
-  Updated: 2025-08-21T00:02:40Z
+  Updated: 2025-09-25T15:41:46Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bola-sensorial-montessori-azul-estimulacao-tatil-infantil-588630224-2600000-brincatoys-1178698165.jpg?v=1752921141
   Price: 11,99 € EUR
 - [Bola Sensorial Montessori Amarela - Estimulação Tátil Infantil](https://brincatoys.pt/products/bola-sensorial-montessori-amarela): Estimule o desenvolvimento tátil com a versátil bola sensorial  Montessori amarela. Adequada desde os 6 meses de idade, promove a exploração sensorial e coordenação motora.
-  Updated: 2025-08-21T00:02:39Z
+  Updated: 2025-09-25T15:41:46Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -14495,7 +14495,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-garchomp-brincatoys-23336724-pokemon-1178698177.jpg?v=1752921374
   Price: 21,99 € EUR
 - [Figura de batalha Pokémon Vaporeon](https://brincatoys.pt/products/figura-de-batalha-pokemon-vaporeon): Descubra a magia do mundo Pokémon com a Figura de batalha Pokémon Vaporeon, uma peça articulada com 7,50 cm perfeita para fãs.
-  Updated: 2025-09-04T08:24:09Z
+  Updated: 2025-09-25T13:32:09Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15174,14 +15174,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bolsa-de-pescoco-dinossauros-492152524-brincatoys-1178698755.jpg?v=1752931568
   Price: 16,50 € EUR
 - [Meias chocalho burro](https://brincatoys.pt/products/meias-chocalho-burro): Descubra o encanto e a praticidade com as encantadoras meias chocalho burro, desenhadas especialmente para aquecer e entreter os pequeninos! Fabricadas com uma mistura suave de algodão, poliéster e elastano, estas meias são o equilíbrio perfeito entre conforto e durabilidade. Com um design alegre e colorido, as riscas azuis e brancas, estas meias chocalho burro são complementadas por delicados apontamentos em vermelho e os protagonistas destas meias - adoráveis são duas carinhas de burro, que se destacam em 3D na parte frontal. Além de simpáticas e adoráveis, as meias incluem um elemento surpresa: chocalhos embutidos que encantam com sons suaves a cada passo do bebê, estimulando assim a coordenação motora e a percepção auditiva. Pensadas para a segurança, a sola conta com inserções antiderrapantes para prevenir escorregões, tornando-as ideais para bebês que estão a aprender a explorar o mundo ao seu redor. Além do mais, leves e fáceis de colocar, as meias chocalho burro prometem ser um acessório indispensável no dia a dia do seu bebé. Ademais, podem ser lavadas à máquina, resistindo a várias lavagens sem perder a forma ou a cor. São adequadas desde os recém-nascidos até aos mais aventureiros exploradores de sala. Além do uso prático, estas meias chocalho burro são também um presente original e pensativo para qualquer chá de bebê ou aniversário infantil. Por outro lado, estas meias fofinhas e macias com chocalho de um adorável burro despertam a curiosidade das crianças e promovem de forma divertida as habilidades motoras. Com apliques e bordados, forrado com tecido atoalhado. Oeko-Tex Standard 100. Tamanho único (2-12 meses). Lave a 30 graus. Em suma... Confortáveis e macias graças à sua composição têxtil. Seguras, com solas antiderrapantes. Estimulantes, com chocalhos que despertam a curiosidade. Duráveis, suportando lavagens frequentes. Perfeitas para presentear, vindo com um design adorável em cada par. Dimensão: 12 x 15 x 1 cm. Idade recomendada: + de 0 meses.
-  Updated: 2025-09-05T12:47:10Z
+  Updated: 2025-09-25T15:41:46Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/meias-chocalho-burro-491801824-brincatoys-1178698757.jpg?v=1752931575
   Price: 10,99 € EUR
 - [FurReal Poopalots Corgi](https://brincatoys.pt/products/furreal-poop-a-lots-corgi): Apresentamos o encantador e interativo brinquedo FurReal Poopalots Corgi, a adição perfeita para a sua família de brinquedos! Com a sua pelagem macia e expressão adorável, este pequeno cão Corgi promete encantar crianças de todas as idades com a sua personalidade cativante e funcionalidades surpreendentes.Primeiramente, vamos falar sobre a sua interatividade. Além de ser esteticamente atraente, o FurReal Poopalots Corgi tem a capacidade de "comer" e "fazer as suas necessidades", proporcionando uma experiência educativa e divertida, ensinando às crianças as responsabilidades de cuidar de um animal de estimação.É simples fazer a magia acontecer: alimente o seu novo amigo peludo com os acessórios incluídos e depois leve-o a passear com a sua própria trela, onde ele "faz o seu cocó", tal como um verdadeiro cãozinho faria.Além disso, a sua aparência realista é incrivelmente convincente e apelará a fãs de animais de todas as idades. As texturas macias e os detalhes cuidados dão vida a este brinquedo, tornando-o num ótimo companheiro de brincadeiras. E, claro, a diversão não para por aí; a limpeza é facílima, graças aos "cocós" de brinquedo colecionáveis, que são simples de recolher e reciclar no jogo seguinte.Como é lógico, a durabilidade é uma consideração chave. Este FurReal Poopalots Corgi é construído com materiais de alta qualidade para resistir a muitas aventuras e brincadeiras. Continuamente, a marca FurReal é conhecida pela sua qualidade, garantindo que este Corgi seja não apenas divertido, mas também feito para durar.Descubra a companhia perfeita com o FurReal Poop-A-Lots Corgi, um brinquedo que une diversão e aprendizagem com a magia do cuidado animal. Simples de usar e fácil de amar, este Corgi interativo é o presente ideal que promete horas de entretenimento!Em suma... Interativo e educacional, com um mecanismo de "alimentação" e "cocó" Esteticamente adorável e com texturas suaves ao toque Feito com materiais duráveis e fáceis de limpar Acompanhado de acessórios e uma trela para aventuras imaginárias Dimensão: 23 x 22,50 x 13,50 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-09-16T11:15:26Z
+  Updated: 2025-09-25T19:30:26Z
   Vendor: FurReal Friends
   Product Type: + 3 anos
   Availability: Available
@@ -15419,7 +15419,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-ponyo-studio-produto-oficial-studio-ghibli-861819924-2600000-brincatoys-1178698949.jpg?v=1752794042
   Price: 19,99 € EUR
 - [Pistola Nerf Junior Sharkfire - Para Aventuras Épicas!](https://brincatoys.pt/products/nerf-junior-sharkfire): Descubra a Pistola Nerf Junior Sharkfire, a arma em forma de tubarão perfeita para o seu pequeno herói. Carregamento fácil e diversão garantida.
-  Updated: 2025-09-08T22:16:55Z
+  Updated: 2025-09-25T13:20:21Z
   Vendor: Nerf
   Product Type: + 6 anos
   Availability: Available
@@ -15489,21 +15489,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ford-gt-2021-heritage-edition-683139025-8719247697349-brincatoys-1178699025.jpg?v=1752934701
   Price: 57,90 € EUR
 - [Brinquedo para bebé peluche de actividades Elefante](https://brincatoys.pt/products/peluche-de-actividades-elefante): Descubra o Brinquedo para bebé peluche de actividades Elefante! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-09-23T20:03:06Z
+  Updated: 2025-09-25T15:42:33Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-peluche-de-actividades-elefante-820620224-2600000-brincatoys-1178699028.jpg?v=1752934809
   Price: 28,50 € EUR
 - [Brinquedo para bebé peluche de actividades Raposa](https://brincatoys.pt/products/peluche-de-actividades-raposa): Descubra o Brinquedo para bebé peluche de actividades Raposa! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-09-07T00:05:34Z
+  Updated: 2025-09-25T15:42:33Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-peluche-de-actividades-raposa-820620624-brincatoys-1178699034.jpg?v=1752934926
   Price: 28,50 € EUR
 - [Brinquedo para bebé peluche de actividades Girafa](https://brincatoys.pt/products/brinquedo-para-bebe-peluche-de-actividades-girafa-skip): Descubra o Brinquedo para bebé peluche de actividades Girafa! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-09-23T20:03:04Z
+  Updated: 2025-09-25T15:33:22Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -16455,7 +16455,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-piramide-de-empilhar-124020124-7290107722018-brincatoys-1178699876.jpg?v=1752789006
   Price: 28,50 € EUR
 - [Brinquedo para bebé peluche de actividades Canguru](https://brincatoys.pt/products/brinquedo-para-bebe-peluche-de-actividades-canguru): Descubra o Brinquedo para bebé peluche de actividades Canguru! Perfeito para estimulação sensorial, dentição e aprendizagem, é o amigo ideal do seu bebé.
-  Updated: 2025-08-21T00:00:13Z
+  Updated: 2025-09-25T15:42:33Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -16777,7 +16777,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-starters-formas-criativas-kit-criativo-90853424-5010996136435-play-doh-1178700133.jpg?v=1752788414
   Price: 13,50 € EUR
 - [Brinquedo em Peluche da Bluey 20 cm](https://brincatoys.pt/products/peluche-bluey-20-cm): Encontre o brinquedo em peluche da Bluey de 20 cm e ofereça o abraço mais macio e divertido! Este peluche é perfeito para crianças criativas.
-  Updated: 2025-09-25T11:00:52Z
+  Updated: 2025-09-25T15:08:03Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -17414,7 +17414,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-ariel-mar-e-terra-boneca-disney-transformavel-772338024-0192995233805-princesas-disney-1178700600.jpg?v=1752958442
   Price: 29,99 € EUR
 - [Rebecca Rabbit Estilos Divertidos | Conjunto Peppa Pig](https://brincatoys.pt/products/rebecca-rabbit-estilos-divertidos): Descubra o conjunto Rebecca Rabbit Estilos Divertidos da Peppa Pig. Figura articulada e acessórios para estimular a criatividade das crianças.
-  Updated: 2025-09-21T14:09:35Z
+  Updated: 2025-09-25T13:40:03Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -18009,7 +18009,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lol-surprise-tweens-hana-groove-moda-e-aventuras-incriveis-779165824-0035051591658-lol-surprise-1178701065.jpg?v=1752784095
   Price: 29,99 € EUR
 - [LOL Surprise Tweens - Flora Moon: A Boneca cheia de estilo](https://brincatoys.pt/products/l-o-l-surprise-tweens-flora-moon): Expresse a criatividade e a imaginação das crianças com a LOL Surprise Tweens - Flora Moon. A boneca dos sonhos com um look moderno e cheio de atitude!
-  Updated: 2025-08-23T21:57:25Z
+  Updated: 2025-09-25T17:21:22Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -18170,7 +18170,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-luz-e-som-com-luzes-e-sons-realistas-778100024-bburago-1178701194.jpg?v=1752967208
   Price: 14,99 € EUR
 - [Ferrari F12 Berlinetta Luz e Som: Estímulos Sensoriais](https://brincatoys.pt/products/ferrari-f12-berlinetta-luz-e-som): Deixe a imaginação das crianças voar com o Ferrari F12 Berlinetta Luz e Som. Com rodas livres e detalhes meticulosos, garantia de diversão 🌟
-  Updated: 2025-09-25T09:57:51Z
+  Updated: 2025-09-25T19:07:46Z
   Vendor: Bburago
   Product Type: + 12 meses
   Availability: Available
@@ -18296,7 +18296,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carrinho-de-bonecas-koala-com-berco-628507925-4897022850791-brincatoys-1178701281.jpg?v=1752783365
   Price: 69,50 € EUR
 - [Mochila 3D Disney Stitch: Design Encantador e Cores Vibrantes](https://brincatoys.pt/products/mochila-3d-disney-stitch): Leve a magia para qualquer lugar com a Mochila 3D Disney Stitch! Design encantador e alças acolchoadas, é perfeita para as aventuras diárias dos pequenos.
-  Updated: 2025-09-24T06:04:31Z
+  Updated: 2025-09-25T13:08:57Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19325,7 +19325,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-princesas-disney-3-x-48-para-criancas-divertidas-852530425-8005125253043-princesas-disney-1178701950.jpg?v=1752979809
   Price: 10,90 € EUR
 - [Peluche Stitch 25 cm: Aventura em Cada Abraço](https://brincatoys.pt/products/peluche-stitch-25-cm): Descubra o encantador Peluche Stitch 25 cm! Este peluche macio, hipoalergénico e seguro é perfeito para cada abraço. Compre agora!
-  Updated: 2025-09-16T10:29:05Z
+  Updated: 2025-09-25T15:07:42Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -19416,14 +19416,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-marvel-legends-venom-figura-de-acao-iconica-869091525-5010996244284-marvel-1178702002.jpg?v=1752980418
   Price: 36,90 € EUR
 - [Peluche Hello Kitty Princesa 24 cm: Conforto E Diversão](https://brincatoys.pt/products/peluche-hello-kitty-princesa-24-cm): Descubra o Peluche Hello Kitty Princesa 24 cm, perfeito para abraçar e brincar. Este adorável peluche vai conquistar os corações de todos! 💖
-  Updated: 2025-08-20T23:57:21Z
+  Updated: 2025-09-25T15:45:43Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-hello-kitty-princesa-24-cm-conforto-e-diversao-232061425-8052780426145-brincatoys-1178702006.jpg?v=1752980649
   Price: 24,90 € EUR
 - [Peluche Hello Kitty Clássico 24 cm para Abraços Aconchegantes](https://brincatoys.pt/products/peluche-hello-kitty-classico-24-cm): Traga a doçura para a sua vida com o Peluche Hello Kitty Clássico 24 cm! Com acabamento de alta qualidade, é a escolha perfeita para fãs!
-  Updated: 2025-08-29T19:15:56Z
+  Updated: 2025-09-25T15:45:43Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -19542,9 +19542,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/instrumento-musical-xilofone-7-amigos-para-criancas-491868725-4029753186874-brincatoys-1178692594.jpg?v=1752824535
   Price: 22,90 € EUR
 - [Instrumento Musical Flauta 7 Amigos para Crianças](https://brincatoys.pt/products/instrumento-musical-flauta-7-amigos): Descubra o mundo da música com o instrumento musical Flauta 7 Amigos. Ideal para crianças, combina segurança e diversão! 🎶
-  Updated: 2025-09-07T10:59:01Z
+  Updated: 2025-09-25T13:57:22Z
   Vendor: Brincatoys
-  Product Type: + 3 anos
+  Product Type: Instrumentos musicais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/instrumento-musical-flauta-7-amigos-para-criancas-491868625-4029753186867-brincatoys-1178692586.jpg?v=1752824411
   Price: 10,99 € EUR
@@ -20283,6 +20283,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-benz-amg-gt-amarelo-brincar-com-estilo-133113425-0090159311348-brincatoys-1193313776.jpg?v=1758124207
   Price: 23,99 € EUR
+- [Peluche Hello Kitty com Vestido Vermelho Super Macio](https://brincatoys.pt/products/peluche-hello-kitty-vestido-vermelho-24-cm): Descubra o Peluche Hello Kitty com vestido vermelho, perfeito para abraços! Um encanto que encanta miúdos e graúdos. Compre já!
+  Updated: 2025-09-25T18:50:09Z
+  Vendor: Brincatoys
+  Product Type: + 0 meses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-hello-kitty-com-vestido-vermelho-super-macio-232061525-8052780426152-brincatoys-1194712958.jpg?v=1758829807
+  Price: 24,90 € EUR
 
 ## Collections
 
@@ -20302,11 +20309,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T22:55:40Z
   Total Products: 567
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
-  Updated: 2025-09-24T13:20:36Z
+  Updated: 2025-09-25T13:57:20Z
   Total Products: 27
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 184
+  Updated: 2025-09-25T18:48:17Z
+  Total Products: 185
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-09-23T18:58:52Z
   Total Products: 39
@@ -20362,8 +20369,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-18T10:04:13Z
   Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-09-24T12:25:55Z
-  Total Products: 106
+  Updated: 2025-09-25T18:37:11Z
+  Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
   Updated: 2025-09-23T21:34:19Z
   Total Products: 245
@@ -20407,11 +20414,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:22:51Z
   Total Products: 46
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-24T22:35:25Z
+  Updated: 2025-09-25T14:47:52Z
   Total Products: 204
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-09-25T10:54:13Z
-  Total Products: 156
+  Updated: 2025-09-25T19:59:09Z
+  Total Products: 161
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-09-24T21:42:38Z
   Total Products: 111
@@ -20428,17 +20435,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:31:41Z
   Total Products: 8
 - [+ 0 meses](https://brincatoys.pt/collections/0-meses)
-  Updated: 2025-09-24T22:38:03Z
-  Total Products: 94
+  Updated: 2025-09-25T18:45:46Z
+  Total Products: 95
 - [+ 10 anos](https://brincatoys.pt/collections/10-anos)
   Updated: 2025-09-24T21:25:56Z
   Total Products: 22
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-24T22:38:03Z
-  Total Products: 326
+  Updated: 2025-09-25T18:37:11Z
+  Total Products: 327
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-25T10:48:35Z
-  Total Products: 1512
+  Updated: 2025-09-25T14:43:15Z
+  Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-24T12:50:15Z
   Total Products: 688
@@ -20455,29 +20462,29 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:20Z
   Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-24T19:10:23Z
+  Updated: 2025-09-25T13:57:20Z
   Total Products: 1337
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-24T22:37:34Z
-  Total Products: 2434
+  Updated: 2025-09-25T18:45:47Z
+  Total Products: 2435
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-24T22:37:34Z
-  Total Products: 2886
+  Updated: 2025-09-25T19:53:35Z
+  Total Products: 2888
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3270
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 3272
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3395
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 3397
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3473
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 3475
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3521
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 3523
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-25T10:54:13Z
-  Total Products: 351
+  Updated: 2025-09-25T19:59:09Z
+  Total Products: 357
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
   Total Products: 52
@@ -20665,20 +20672,20 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3536
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 3538
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-09-24T21:19:03Z
-  Total Products: 283
+  Updated: 2025-09-25T18:48:17Z
+  Total Products: 284
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 169
+  Updated: 2025-09-25T13:09:51Z
+  Total Products: 168
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-09-24T12:58:14Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-24T22:25:34Z
-  Total Products: 1162
+  Updated: 2025-09-25T13:57:49Z
+  Total Products: 1161
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-23T19:25:52Z
   Total Products: 474
@@ -20686,8 +20693,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:24Z
   Total Products: 135
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-09-24T11:20:32Z
-  Total Products: 185
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 186
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-09-24T11:28:56Z
   Total Products: 76
@@ -20701,11 +20708,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T11:20:49Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3553
+  Updated: 2025-09-25T19:53:36Z
+  Total Products: 3555
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3553
+  Updated: 2025-09-25T19:53:37Z
+  Total Products: 3555
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20716,17 +20723,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3064
+  Updated: 2025-09-25T19:53:37Z
+  Total Products: 3066
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-09-25T10:54:13Z
-  Total Products: 119
+  Updated: 2025-09-25T19:59:09Z
+  Total Products: 123
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-25T11:20:49Z
-  Total Products: 3064
+  Updated: 2025-09-25T19:53:37Z
+  Total Products: 3066
 
 ## Blogs
 
