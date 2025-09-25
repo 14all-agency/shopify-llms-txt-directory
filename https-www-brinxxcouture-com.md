@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-25T12:00:47.579Z
+- Updated At: 2025-09-25T16:00:45.367Z
 
 ## Products
 
@@ -547,7 +547,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/26-Blonde-Straight-Wig-Brinxx-Couture-1877.jpg?v=1739988378
   Price: $39.99 USD
 - [26'' Body Wave Wig - Brinxx Couture](https://www.brinxxcouture.com/products/full-machine-long-wave-wigs-26): Achieve effortless glamour with the 26" Body Wave Wig. This wig offers women of all ages a voluminous, luxurious look featuring a body wave texture.
-  Updated: 2025-09-12T23:28:06Z
+  Updated: 2025-09-25T14:51:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-09-25T10:00:52Z
+  Updated: 2025-09-25T14:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -893,7 +893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-Heart-Ring-Brinxx-Couture-7936.jpg?v=1730298377
     Price: $199.99 USD
 - [1 Carat Moissanite Heart Pendant Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-heart-pendant-necklace): This stunning necklace features a 1 carat heart-shaped moissanite stone that sparkles brilliantly. The pendant is crafted in 925 sterling silver and plated with platinum for a luxurious finish. The necklace comes with a 16-inch chain and an additional 2-inch extension chain, so you can wear it at the length that best suits you. This necklace is the perfect gift for a special occasion or simply to show your loved one how much you care.
-  Updated: 2025-08-22T19:23:33Z
+  Updated: 2025-09-25T14:51:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1465,7 +1465,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Swim-Cover-Up-Brinxx-Couture-7824.jpg?v=1709286797
   Price: $31.00 USD
 - [Adjustable Strap Zip-Up Shaping Bodysuit](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit): Shape up and zip up with our Adjustable Strap Shaping Bodysuit! Look stunning while staying comfortable. Get yours now at Brinxx Couture.
-  Updated: 2025-08-22T19:23:36Z
+  Updated: 2025-09-25T14:51:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2722,7 +2722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4328.jpg?v=1709296326
     Price: $32.00 USD
 - [Ankle Length Cargo Pants - Brinxx Couture](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants): Our Ankle Length Cargo Pants bring unparalleled style and utility to your wardrobe: their slim fit design plus zippered compartments provide a modern look.
-  Updated: 2025-08-22T19:23:39Z
+  Updated: 2025-09-25T14:51:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -3268,7 +3268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Contrast-Trim-Decorative-Button-Sleeveless-Knit-Dress-Brinxx-Couture-9636.jpg?v=1726380781
     Price: $26.00 USD
 - [Cutout Sleeveless Knit Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cutout-sleeveless-knit-dress): Get ready to turn heads in our Cutout Sleeveless Knit Dress! Highly stretchy and stylish, perfect for women who love affordable fashion. Shop now!
-  Updated: 2025-08-22T19:23:40Z
+  Updated: 2025-09-25T14:57:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4512,7 +4512,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Polarized-Full-Rim-Sunglasses-Brinxx-Couture-8585.jpg?v=1709313963
   Price: $98.00 USD
 - [3-Piece Round Polycarbonate Full Rim Sunglasses](https://www.brinxxcouture.com/products/3-piece-round-polycarbonate-full-rim-sunglasses): Includes: Case Shape: Round Frame material: Polycarbonate Temple material: Polycarbonate Lens material: Polycarbonate Imported Product measurements: Bridge width: 0.8 in (2.1 cm)Temple length: 5.55 inLens width: 1.85 inLens height: 1.65 inFrame width: 5.5 in
-  Updated: 2025-07-07T20:44:35Z
+  Updated: 2025-09-25T14:51:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4586,7 +4586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Opal-Pendant-Necklace-Brinxx-Couture-4719.jpg?v=1709318849
     Price: $59.00 USD
 - [Acetate Lens Square Sunglasses](https://www.brinxxcouture.com/products/acetate-lens-square-sunglasses): Includes: Case Features: UV400 Shape: Square Frame material: Polycarbonate Temple material: Polycarbonate Lens material: Acetate Imported Product measurements: Bridge width: 0.83 in (2.1 cm)Temple length: 5.5 inLens width: 2.25 inLens height: 1.9 inFrame width: 5.67 in
-  Updated: 2025-08-08T23:47:16Z
+  Updated: 2025-09-25T14:51:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4714,7 +4714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Halter-Neck-Fishnet-Bikini-Set-Brinxx-Couture-4978.jpg?v=1709321671
     Price: $23.00 USD
 - [Animal Print Halter Neck Bikini Set](https://www.brinxxcouture.com/products/animal-print-halter-neck-bikini-set): Top type: No underwire Bottom type: Mid waist Number of pieces: Two Chest pad: Removable Padding Pattern type: Printed Style: Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: Top:S: length 9 in, bust 34 in, cup height 5 inM: length 9 in, bust 36 in, cup height 5 inL: length 10 in, bust 38 in, cup height 5 inBottoms:S: waist 25-37 in, length 11 inM: waist 27-39 in, length 12 inL: waist 28-41 in, length 12 in
-  Updated: 2025-09-11T16:45:41Z
+  Updated: 2025-09-25T14:51:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5584,7 +5584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Twisted-Asymmetrical-Short-Sleeve-Dress-Brinxx-Couture-9653.jpg?v=1709347344
     Price: $25.00 USD
 - [Cutout Split Puff Sleeve Maxi Dress](https://www.brinxxcouture.com/products/cutout-split-puff-sleeve-maxi-dress): Transform your wardrobe with this gorgeous Cutout Split Puff Sleeve Maxi Dress! Its delicate cutouts and light-as-air puffy sleeves make this stylish piece a must-have for any fashionista. Flattering designs and a beautiful long length create a show-stopping look you'll never forget. Don't miss out on this stunning dress!
-  Updated: 2025-08-04T17:00:24Z
+  Updated: 2025-09-25T14:57:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5695,7 +5695,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2-Carat-Moissanite-Stud-Earrings-Brinxx-Couture-6047.jpg?v=1709352182
   Price: $99.99 USD
 - [2 Carat Moissanite Teardrop Pendant](https://www.brinxxcouture.com/products/2-carat-moissanite-teardrop-pendant-925-sterling-silver-necklace): Introduce a luxurious touch to your wardrobe with this exquisite 2 Carat Moissanite Teardrop Pendant. Crafted from superior-quality materials, this elegant piece will make you shine like a star when you wear it. 🤩 With its timeless beauty and sophisticated sparkle, you will feel like royalty every time you don it! 💎
-  Updated: 2025-09-18T14:28:45Z
+  Updated: 2025-09-25T14:51:19Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5902,7 +5902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Halter-Neck-Chain-Detail-Two-Piece-Bikini-Set-Brinxx-Couture-4037.jpg?v=1709359113
     Price: $23.00 USD
 - [1 Carat Moissanite Pendant Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/show-off-1-carat-moissanite-pendant-necklace): Treat yourself to a special necklace with this 1 Carat Moissanite Pendant! This luxurious and alluring piece is sure to turn heads when you wear it. Its modern design and stunning sheen will add elegant beauty to your ensemble. You'll feel a boost of confidence wearing this gorgeous necklace!
-  Updated: 2025-07-07T20:44:53Z
+  Updated: 2025-09-25T14:51:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5952,7 +5952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-925-Sterling-Silver-Necklace-Brinxx-Couture-8758.jpg?v=1730298580
     Price: $69.00 USD
 - [1 Carat Moissanite 925 Sterling Silver Stud Earrings - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-925-sterling-silver-stud-earrings): Experience brilliant sparkle with these luxurious 1 carat Moissanite stud earrings! Crafted from 925 sterling silver, they offer brilliant brilliance and fire that are sure to turn heads. Enjoy a timeless, yet sophisticated look that is sure to last!
-  Updated: 2025-08-28T08:32:01Z
+  Updated: 2025-09-25T14:51:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -6020,7 +6020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Half-Sleeve-Tie-Waist-Mini-Dress-Brinxx-Couture-1027.jpg?v=1709361872
     Price: $28.00 USD
 - [Asymmetrical Surplice Puff Sleeve Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/asymmetrical-surplice-puff-sleeve-mini-dress): This stylish dress is perfect for any occasion. The asymmetrical neckline and puff sleeves add a touch of glamour, while the mini length keeps it cool and casual. Made from a soft, comfortable fabric, this dress is sure to become a favorite.
-  Updated: 2025-08-26T16:13:10Z
+  Updated: 2025-09-25T14:51:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -6186,7 +6186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Straw-Woven-Beach-Bag-Brinxx-Couture-9511.jpg?v=1709366020
     Price: $19.00 USD
 - [1 Carat Moissanite 925 Sterling Silver Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-925-sterling-silver-necklace-1): This 1 carat Moissanite 925 sterling silver necklace is the perfect combination of traditional and modern style. Crafted with the highest quality materials, this piece of jewelry is sure to make a statement. An ideal gift for special occasions, this necklace will make a lasting impression.
-  Updated: 2025-08-28T07:33:47Z
+  Updated: 2025-09-25T14:51:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8193,7 +8193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Puff-Sleeve-Tulip-Hem-Mini-Dress-Brinxx-Couture-4875.jpg?v=1709845311
     Price: $32.00 USD
 - [Cutout Long Sleeve Pencil Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cutout-long-sleeve-pencil-dress): Show off statement style with this stunning Cutout Long Sleeve Pencil Dress. Featuring remarkable cutouts, this dress is sure to turn heads.
-  Updated: 2025-08-31T04:03:57Z
+  Updated: 2025-09-25T14:57:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10890,7 +10890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Spandex-Long-Sleeve-Crossed-Over-Leggings-Set-Brinxx-Couture-5789.jpg?v=1709862163
     Price: $32.00 USD
 - [2 Carat Moissanite Sterling Silver Drop Earrings - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-sterling-silver-drop-earrings): Add timeless elegance to your wardrobe with these 2-Carat Moissanite Sterling Silver Drop Earrings. These earrings feature two impeccably cut round stones.
-  Updated: 2025-07-07T20:57:47Z
+  Updated: 2025-09-25T14:51:19Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11424,7 +11424,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/One-Shoulder-Ruched-Slit-Maxi-Dress-Brinxx-Couture-3729.jpg?v=1709864742
     Price: $39.99 USD
 - [2 Carat Moissanite Sterling Silver Ring - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-sterling-silver-ring): This 2 Carat Moissanite Sterling Silver Ring will make an eye-catching addition to any jewelry collection. Crafted using the highest quality of sterling silver.
-  Updated: 2025-09-01T03:05:45Z
+  Updated: 2025-09-25T14:51:19Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11660,7 +11660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zip-Up-Hooded-Jacket-and-Pants-Set-Brinxx-Couture-4753.jpg?v=1709865791
     Price: $37.00 USD
 - [Cutout Sequin Mesh Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cutout-sequin-mesh-mini-dress): This stunning mini dress is sure to turn heads. The cutout sequin mesh adds a touch of glamour while the mini length gives it a playful feel.
-  Updated: 2025-07-07T20:57:53Z
+  Updated: 2025-09-25T14:57:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -13858,7 +13858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Elegant-Brown-Wrap-Dress-Brinxx-Couture-7526.jpg?v=1709872691
     Price: $49.99 USD
 - [Chic Two-Tone V-Neck Wrap Dress - Brinxx Couture](https://www.brinxxcouture.com/products/chic-two-tone-v-neck-wrap-dress): This chic V-neck wrap dress by is a stylish addition to any wardrobe. Featuring a two-tone color scheme, it has a flattering silhouette and an adjustable fit.
-  Updated: 2025-07-07T20:58:03Z
+  Updated: 2025-09-25T14:57:34Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14002,7 +14002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Knee-Length-Dress-with-Leather-Corset-Brinxx-Couture-5073.jpg?v=1709872771
     Price: $49.99 USD
 - [Chic Plus Size Hooded Dress - Brinxx Couture](https://www.brinxxcouture.com/products/chic-plus-size-hooded-dress): This stylish hooded dress is perfect for any occasion. It features a chic plus size silhouette with long sleeves, a tie-waist, and a flattering hoodie.
-  Updated: 2025-07-07T20:58:03Z
+  Updated: 2025-09-25T14:57:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14798,7 +14798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Solid-Hollow-Out-Cutout-Split-Dress-Top-Brinxx-Couture-6320.jpg?v=1709875308
     Price: $34.99 USD
 - [18K Gold-Plated Chain Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-chain-necklace): This 18K gold-plated chain necklace exudes elegance and luxury. Crafted with precision and coated in high-quality gold, it adds a touch of sophistication to any outfit.
-  Updated: 2025-09-04T14:44:45Z
+  Updated: 2025-09-25T14:51:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14962,14 +14962,14 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Twisted-Inlaid-Zircon-Double-layered-Ring-Brinxx-Couture-6609.jpg?v=1709875754
     Price: $24.99 USD
 - [2 Carat Moissanite Heart 925 Sterling Silver Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-heart-925-sterling-silver-necklace): Discover the unique beauty of our 2 Carat Moissanite Heart Necklace. Made with 925 sterling silver, it features a stunning 2 carat moissanite round stone.
-  Updated: 2025-08-22T19:23:43Z
+  Updated: 2025-09-25T14:51:18Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2-Carat-Moissanite-Heart-925-Sterling-Silver-Necklace-Brinxx-Couture-204.jpg?v=1709875794
   Price: $99.99 USD
 - [3 Carat Moissanite 925 Sterling Silver Ring - Brinxx Couture](https://www.brinxxcouture.com/products/3-carat-moissanite-925-sterling-silver-ring): Expertly crafted with a stunning 3 carat Moissanite stone set in high quality 925 sterling silver, this ring is a luxurious addition to any jewelry collection.
-  Updated: 2025-09-17T04:24:08Z
+  Updated: 2025-09-25T14:51:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14999,7 +14999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3-Carat-Moissanite-925-Sterling-Silver-Ring-Brinxx-Couture-9797.jpg?v=1709875942
     Price: $149.99 USD
 - [10 Carat Moissanite Platinum-Plated Bracelet - Brinxx Couture](https://www.brinxxcouture.com/products/10-carat-moissanite-platinum-plated-bracelet): Discover the brilliance of our 10 Carat Moissanite Platinum-Plated Bracelet. Crafted with a rare gemstone that rivals diamonds in sparkle and durability.
-  Updated: 2025-09-12T18:28:55Z
+  Updated: 2025-09-25T14:51:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15036,7 +15036,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-Heart-Ring-Brinxx-Couture-3038.jpg?v=1730298932
     Price: $99.99 USD
 - [18K Gold-Plated Titanium Steel Bracelet - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-titanium-steel-bracelet): This 18K gold-plated titanium steel bracelet is the perfect accessory for any outfit. Made from high-quality titanium steel, it is durable and long-lasting.
-  Updated: 2025-09-05T16:33:37Z
+  Updated: 2025-09-25T14:51:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15815,7 +15815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Pleated-Short-Sleeve-Dress-Brinxx-Couture-5435.jpg?v=1709880770
     Price: $34.99 USD
 - [Animal Print Strapless Crop Top Skirt Set - Brinxx Couture](https://www.brinxxcouture.com/products/straplesscrop-top-skirt-set): Elevate your style game with our Animal Print Strapless Crop Top Skirt Set. Made from high-quality materials, this set features an eye-catching animal print.
-  Updated: 2025-09-13T20:46:27Z
+  Updated: 2025-09-25T14:51:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17511,7 +17511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Waist-Split-Dress-Brinxx-Couture-236.jpg?v=1712075855
     Price: $49.99 USD
 - [18K Gold-Plated Round Shape Pendant Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-round-shape-pendant-necklace): Add a touch of elegance to any outfit with our 18K Gold-Plated Round Shape Pendant Necklace. The stunning round shape pendant is meticulously crafted with 18K gold plating.
-  Updated: 2025-09-01T11:01:57Z
+  Updated: 2025-09-25T14:51:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17834,7 +17834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Scoop-Neck-Knit-Vest-Brinxx-Couture-1104.jpg?v=1716083914
     Price: $25.00 USD
 - [Backless Cowl Neck Sleeveless Cami Dress](https://www.brinxxcouture.com/products/backless-cowl-neck-sleeveless-cami-dress): Features: Ruched Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Size US Length Waist Waist Stretch Amount Bust S 4 43.3 27.6 31.5 - M 6/8 43.3 29.1 33.1 - L 10/12 43.3 31.5 35.4 - XL 14 43.3 33.9 37.8 - 2XL 16 43.3 36.2 40.2 -
-  Updated: 2025-08-30T00:19:16Z
+  Updated: 2025-09-25T14:51:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17942,7 +17942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-V-Neck-Sleeveless-Romper-Brinxx-Couture-4927.jpg?v=1719724481
     Price: $29.99 USD
 - [925 Sterling Silver Heart Ring](https://www.brinxxcouture.com/products/925-sterling-silver-heart-ring): Pieces: 1-piece Material: Platinum-plated, 18K gold-plated, 925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Size Circumference 6 2 7 2.1 8 2.2
-  Updated: 2025-07-07T20:58:41Z
+  Updated: 2025-09-25T14:51:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18656,7 +18656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Distressed-Cotton-Baseball-Cap-Brinxx-Couture-3742.jpg?v=1726379960
     Price: $18.00 USD
 - [8 Carat Moissanite 925 Sterling Silver Ring](https://www.brinxxcouture.com/products/8-carat-moissanite-925-sterling-silver-ring): Pieces: 1-piece Includes: Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included, please contact us for any issues related to your purchase. Material: 925 sterling silver, Moissanite Carat weight: 8 Main Stone: 4 Carat Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product measurements: 5: Circumference 2 in 6: Circumference 2.1 in 7: Circumference 2.2 in 8: Circumference 2.3 in 9: Circumference 2.4 in weight 0.1 oz (4 g)
-  Updated: 2025-07-07T20:58:46Z
+  Updated: 2025-09-25T14:51:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21983,7 +21983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Knit-Romper-Brinxx-Couture-7308.jpg?v=1730296192
     Price: $25.00 USD
 - [Crochet Flower Button Up Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/crochet-flower-button-up-cardigan): This charming Crochet Flower Button Up Cardigan is a must-have for any fashion-forward individual. Adorned with delicate crochet flowers and button closures.
-  Updated: 2025-08-22T19:25:56Z
+  Updated: 2025-09-25T14:57:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22173,7 +22173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-09-25T06:20:40Z
+  Updated: 2025-09-25T13:00:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23720,7 +23720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-25T11:21:26Z
+  Updated: 2025-09-25T14:00:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -28521,7 +28521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Hollow-Cutout-Camisole-Ribbon-Dress-Brinxx-Couture-559.jpg?v=1740077923
     Price: $34.99 USD
 - [Crystal Diamond Shoulder Bag - Brinxx Couture](https://www.brinxxcouture.com/products/crystal-diamond-shoulder-bag): Crystal Diamond Shoulder Bag Sparkle and shine with our Crystal Diamond Shoulder Bag! This elegant bag features a dazzling crystal diamond sparkling design.
-  Updated: 2025-08-22T19:26:05Z
+  Updated: 2025-09-25T14:57:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32725,7 +32725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01SSme5Z1uPKuVgjm6A__2652346029-0-cib.jpg?v=1743194313
     Price: $54.99 USD
 - [Square Neck Wide Strap Midi Tank Dress - Brinxx Couture](https://www.brinxxcouture.com/products/square-neck-wide-strap-midi-tank-dress): This midi tank dress boasts a flattering square neck and wide straps, perfect for any occasion. The timeless design adds a touch of sophistication to your wardrobe.
-  Updated: 2025-09-25T09:35:01Z
+  Updated: 2025-09-25T13:00:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33770,7 +33770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/5eec5135-926f-44e3-9b3b-c6e5cd7aef17-Max-Origin.webp?v=1745331032
     Price: $34.99 USD
 - [Cutout Slit Sleeveless Cami Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cutout-slit-sleeveless-cami-dress): This sultry cutout sleeveless cami dress features a trendy cutout design and a flattering slit. Perfect for a night out, this dress will have you turning heads.
-  Updated: 2025-07-07T21:00:25Z
+  Updated: 2025-09-25T14:57:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34583,7 +34583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
 - [Crochet Cutout Camisole Boho Sun Suit - Brinxx Couture](https://www.brinxxcouture.com/products/crochet-cutout-camisole-boho-sun-suit): Elevate your summer style with our Crochet Cutout Camisole Boho Sun Suit. This eye-catching ensemble combines intricate crochet detailing with strategic cutouts
-  Updated: 2025-07-07T21:00:36Z
+  Updated: 2025-09-25T14:57:34Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34673,7 +34673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01jDARLA1sX0KLUgUBa__2213265065775-0-cib.jpg?v=1747685292
     Price: $29.99 USD
 - [Ribbed Wrap Midi Dress with Side Slit - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit): Elevate your wardrobe with the Ribbed Wrap Midi Dress featuring a flattering side slit. Its ribbed texture adds subtle sophistication, the wrap design accentuates
-  Updated: 2025-09-10T12:43:46Z
+  Updated: 2025-09-25T12:10:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35003,7 +35003,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025244D.jpg?v=1756225729
     Price: $31.00 USD
 - [Chevron V Neck Long Sleeve Loose Top - Brinxx Couture](https://www.brinxxcouture.com/products/chevron-v-neck-long-sleeve-loose-top): Brighten your wardrobe with this playful Chevron V Neck Long Sleeve Loose Top. Its vibrant chevron pattern adds a dash of fun, the loose fit keeps you comfy.
-  Updated: 2025-09-18T07:41:01Z
+  Updated: 2025-09-25T14:59:53Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35331,7 +35331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/cd6899b79e784bc5b73c2c886231a1bc-Max.jpg?v=1756304762
     Price: $35.00 USD
 - [Black Mesh Rhinestone Party Dress - Crystal Glam](https://www.brinxxcouture.com/products/black-mesh-rhinestone-party-dress-crystal-glam): Stunning black mesh party dress with rhinestone details. See-through crystal design perfect for birthdays, parties, and special occasions. Glamorous fit.
-  Updated: 2025-09-17T19:41:11Z
+  Updated: 2025-09-25T14:57:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
