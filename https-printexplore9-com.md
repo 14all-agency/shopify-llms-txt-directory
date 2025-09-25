@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-09-25T04:00:29.553Z
+- Updated At: 2025-09-25T20:00:29.768Z
 
 ## Products
 
@@ -231,7 +231,7 @@
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/scented-soy-candle-9oz.jpg?v=1735924823
   Price: $18.65 USD
 - [Organic Canvas Tote Bags – Stay with Green](https://printexplore9.com/products/organic-canvas-tote-bags): Shop our stylish organic canvas tote bags and embrace a greener lifestyle. Perfect for shopping, travel, and everyday use—stay with green!
-  Updated: 2025-05-30T22:03:47Z
+  Updated: 2025-09-25T11:04:27Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -2300,11 +2300,8 @@
 
 ## Collections
 
-- [Shop Organic Skincare & Sustainable Products](https://printexplore9.com/collections/shop): Shop organic skincare, sustainable apparel & accessories made in the USA. Safe for the whole family. Eco-smart| mom-approved finds.
-  Updated: 2025-09-14T06:23:02Z
-  Total Products: 15
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-09-21T08:17:55Z
+  Updated: 2025-09-25T09:22:14Z
   Total Products: 41
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
   Updated: 2025-08-02T19:28:24Z
@@ -2313,34 +2310,16 @@
   Updated: 2025-09-16T09:22:01Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-09-21T08:17:55Z
+  Updated: 2025-09-25T18:55:41Z
   Total Products: 31
-- [Print & Explore: Baby Clothes Collection at Cheap Price](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
-  Updated: 2025-09-16T09:15:30Z
+- [Kids Clothes Collection](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
+  Updated: 2025-09-25T14:05:23Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
-  Updated: 2025-09-19T17:45:25Z
+  Updated: 2025-09-25T09:22:46Z
   Total Products: 8
-- [Summer Collection](https://printexplore9.com/collections/summer-collection): Refresh your style with our summer collection. Discover breathable trendy pieces perfect for warm-weather wear and outdoor activities.
-  Updated: 2025-09-21T08:17:55Z
-  Total Products: 9
-- [Daily Moisturizer](https://printexplore9.com/collections/daily-moisturizer)
-  Updated: 2025-09-19T17:47:48Z
-  Total Products: 1
-- [Toner](https://printexplore9.com/collections/toner)
-  Updated: 2025-09-19T17:46:00Z
-  Total Products: 2
-- [Facial Serums](https://printexplore9.com/collections/serum): Explore our organic serum collection packed with antioxidants for smooth rejuvenated skin that lasts naturally and beautifully.
-  Updated: 2025-09-19T17:46:00Z
-  Total Products: 5
-- [Hair Serum](https://printexplore9.com/collections/hair-serum): Boost hair length retention with biotin turmeric and caffeine Reduces thinning for thicker fuller hair with a natural plant-based formula.
-  Updated: 2025-09-19T17:46:00Z
-  Total Products: 1
 - [Candles](https://printexplore9.com/collections/candles)
-  Updated: 2025-09-19T17:46:00Z
-  Total Products: 3
-- [Canvas](https://printexplore9.com/collections/canvas)
-  Updated: 2025-09-19T17:52:55Z
+  Updated: 2025-09-25T11:51:17Z
   Total Products: 3
 - [Custom Phone Cases](https://printexplore9.com/collections/phone-cases): Explore our collection of custom phone cases Durable dual-layer protection wireless charging compatible Choose matte or glossy.
   Updated: 2025-09-23T19:06:15Z
@@ -2351,30 +2330,15 @@
 - [Bags](https://printexplore9.com/collections/bags): Sustainable bags that turn heads Built to last with bold designs Elevate your everyday look while protecting the planet.
   Updated: 2025-09-19T18:14:07Z
   Total Products: 8
-- [Stainless Steel Travel Mugs](https://printexplore9.com/collections/stainless-steel-travel-mugs)
-  Updated: 2025-09-21T06:11:18Z
-  Total Products: 6
-- [Sandals](https://printexplore9.com/collections/sandals)
-  Updated: 2025-09-19T17:52:56Z
-  Total Products: 1
-- [Women's Shoes](https://printexplore9.com/collections/shoes): Breathable polyester canvas shoes with soft memory foam insoles EVA shock-absorbing sole and durable rubber outsole for all-day comfort.
-  Updated: 2025-09-19T17:52:56Z
-  Total Products: 1
 - [Unisex distressed Caps](https://printexplore9.com/collections/unisex-distressed-caps)
-  Updated: 2025-07-25T12:46:50Z
+  Updated: 2025-09-25T11:50:36Z
   Total Products: 1
-- [Organic Skincare](https://printexplore9.com/collections/skincare): Shop best reviewed organic skincare made in the USA with natural formulas for healthy glowing skin and real visible results.
-  Updated: 2025-09-23T18:00:52Z
-  Total Products: 9
 - [Home/Room Decor](https://printexplore9.com/collections/home-room-decor): Eco-friendly home decor crafted to enhance your room with natural materials Stylish designs that bring warmth and care.
   Updated: 2025-09-20T18:45:00Z
   Total Products: 9
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
-  Updated: 2025-09-21T06:15:48Z
+  Updated: 2025-09-25T18:58:57Z
   Total Products: 12
-- [Bundle Collection - Save on Essential Bundles](https://printexplore9.com/collections/bundle): Discover exclusive bundles for extra savings. Perfect for gifts or essentials, these curated sets offer quality and value.
-  Updated: 2025-09-14T06:23:02Z
-  Total Products: 38
 - [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
   Updated: 2025-09-16T14:35:09Z
   Total Products: 10
@@ -2399,18 +2363,14 @@
 
 - [Contact Us - We're Here to Help 24/7](https://printexplore9.com/pages/contact-us): "We make support easy! Got questions? reach out to us, we are here 24/7."
   Updated: 2024-10-06T07:02:17Z
-- [Refund Policy](https://printexplore9.com/pages/refund-policy): Shopify Refund Policy - International We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. T...
-  Updated: 2024-10-14T08:51:16Z
 - [About Us - Best Print on Demand Products Store](https://printexplore9.com/pages/about-us): We stand behind our products! At Print & Explore 9, we’re more than just a store—we’re your go-to destination for personalized products that enhanc...
-  Updated: 2025-09-05T06:51:28Z
+  Updated: 2025-09-25T12:30:45Z
 - [Shipping Policy](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
-  Updated: 2025-03-04T10:57:08Z
+  Updated: 2025-09-25T12:24:58Z
 - [FAQs](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
   Updated: 2024-03-06T03:31:08Z
 - [Loyalty Program - Earn Rewards Today - Join For Free](https://printexplore9.com/pages/loyalty-program): 
   Updated: 2024-10-06T07:11:55Z
-- [Your privacy choices](https://printexplore9.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-06-30T13:42:59Z
 - [Size chart](https://printexplore9.com/pages/size-chart): Size Chest Width (inches) Length (inches) Small 34-36 28 Medium 38-40 29 Large 42-44 30 XLarge 46-48 31 XXLarge 50-52 32
   Updated: 2024-12-05T18:55:36Z
 - [Size chart Hoodies](https://printexplore9.com/pages/size-chart-hoodies)
