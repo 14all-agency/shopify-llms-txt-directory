@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-09-24T12:00:30.310Z
+- Updated At: 2025-09-25T04:00:29.039Z
 
 ## Products
 
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Born to nap](https://lazywhiskers.shop/products/born-to-nap): Born to Nap - Enjoy breathable comfort with premium 100% cotton and durable reinforced crew neckline. A funny cat t-shirt humor Gen Z will love. Shop now!
-  Updated: 2025-09-16T00:03:04Z
+  Updated: 2025-09-24T14:52:56Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -89,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8670877d-5a85-4057-b6cb-790b04f0b449.webp?v=1757585991
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Blame the algorithm](https://lazywhiskers.shop/products/blame-the-algorithm): Perfect for cat lovers and streetwear fans: our Blame the algorithm t-shirt provides lasting comfort with a witty, ironic print. Shop today!
-  Updated: 2025-09-15T11:39:27Z
+  Updated: 2025-09-24T14:52:44Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -215,7 +215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/93e70a5a-5171-42c7-a98f-07664aebda03.webp?v=1757586013
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear Today | I will do nothing](https://lazywhiskers.shop/products/today-i-will-do-nothing): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society.
-  Updated: 2025-09-11T10:20:35Z
+  Updated: 2025-09-24T14:52:33Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cc93734e-a4e4-47c0-ac02-2d243b336fd3.webp?v=1757586028
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Multitasking](https://lazywhiskers.shop/products/multitasking): Perfect for cat lovers seeking humor and style: our Multitasking t-shirt provides lasting comfort with a witty LazyWhiskers print. Shop today!
-  Updated: 2025-09-15T11:50:58Z
+  Updated: 2025-09-24T14:52:21Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/bdefcb8d-94fb-4994-b104-3733141be8ec.webp?v=1757586039
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Sarcastic Cat Streetwear |This isn't even my prime](https://lazywhiskers.shop/products/this-isnt-even-my-prime): Perfect for cat lovers and streetwear fans: our This isn't even my prime tee provides lasting comfort with a funny twist. Shop today!
-  Updated: 2025-09-15T11:51:09Z
+  Updated: 2025-09-24T14:52:08Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -517,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/462db593-d061-4bcb-8392-a717a1d6c798.webp?v=1757586064
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear| Overthinking](https://lazywhiskers.shop/products/overthinking-i-call-it-research): Perfect for cat lovers who enjoy humor: our Overthinking tee provides everyday comfort with unapologetic attitude. Shop today!
-  Updated: 2025-09-15T11:51:31Z
+  Updated: 2025-09-24T14:51:55Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -571,7 +571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f3c4e166-6d01-4ac5-b980-6f8c3a43c26c.webp?v=1757586072
     Price: €21.99 EUR
 - [LazyWhiskers Meme Tee | Cat Chaos Streetwear | All this for fish](https://lazywhiskers.shop/products/all-this-for-fish-1): Perfect for cat lovers and streetwear fans: our All this for fish provides everyday comfort with unapologetic attitude and ironic style. Shop today!
-  Updated: 2025-09-15T11:51:42Z
+  Updated: 2025-09-24T14:51:43Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -649,7 +649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7c119e14-2bbd-449c-9597-e7295f2a076b.webp?v=1757586084
     Price: €21.99 EUR
 - [LazyWhiskers Women’s Black Tee | Feline Energy & Attitude| Shedding the patriarchy](https://lazywhiskers.shop/products/shedding-the-patriarchy-1): Women’s fit black tee with unapologetic feline graphic. Soft cotton, bold streetwear — 100% cat-approved sarcasm.
-  Updated: 2025-09-11T10:21:33Z
+  Updated: 2025-09-24T14:51:31Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -703,7 +703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8b1619ee-1fa2-4967-b440-80240367433a.webp?v=1757586090
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Front & Back Cat Print | Peace inside](https://lazywhiskers.shop/products/outside-not-my-problem): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey
-  Updated: 2025-09-24T09:45:09Z
+  Updated: 2025-09-24T14:51:19Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -781,7 +781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €23.99 EUR
 - [LazyWhiskers Unisex White Tee | Sarcastic Cat Streetwear | I only fall asleep](https://lazywhiskers.shop/products/i-only-fall-asleep): Classic unisex white tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-09-11T10:21:57Z
+  Updated: 2025-09-24T14:51:07Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -883,7 +883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f34bfcbe-70b7-4f86-a576-33922c124719.webp?v=1757586110
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | We don' do fetch here](https://lazywhiskers.shop/products/we-don-do-fetch-here): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-09-11T10:22:09Z
+  Updated: 2025-09-24T14:50:54Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -985,7 +985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e7ba7d79-eea9-4bd0-8f12-9620f889e8d1.webp?v=1757586122
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Sarcastic Cat Streetwear | I meditate](https://lazywhiskers.shop/products/i-meditate): Classic unisex tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-09-11T10:22:18Z
+  Updated: 2025-09-24T14:50:42Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1063,7 +1063,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/847945fb-0e5c-4002-b18c-c9d98deaef73.webp?v=1757586136
     Price: €21.99 EUR
 - [LazyWhiskers Women’s White Tee | Feline Energy & Attitude | Girl be serious](https://lazywhiskers.shop/products/girl-be-serious): Women’s fit white tee with unapologetic feline graphic. Soft cotton, bold streetwear — 100% cat-approved sarcasm
-  Updated: 2025-09-11T10:22:30Z
+  Updated: 2025-09-24T14:50:31Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1157,7 +1157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2655ce34-5b5d-4f5f-97a3-6e309fb0ce39.webp?v=1757586148
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Sarcastic Cat Streetwear | Will work for snacks](https://lazywhiskers.shop/products/will-work-for-snacks): Classic unisex tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-09-11T10:22:41Z
+  Updated: 2025-09-24T14:50:19Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1235,7 +1235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/bf21f325-691f-4158-ba70-2af4081ae189.webp?v=1757586157
     Price: €21.99 EUR
 - [LazyWhiskers Unisex Tee | Front & Back Cat Print Streetwear](https://lazywhiskers.shop/products/just-kidding): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey.
-  Updated: 2025-09-23T03:07:12Z
+  Updated: 2025-09-24T14:50:06Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1337,7 +1337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €23.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Red Flag](https://lazywhiskers.shop/products/i-saw-red-flags): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society.
-  Updated: 2025-09-11T10:23:04Z
+  Updated: 2025-09-24T14:49:52Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6247031c-02c1-4d84-b0af-655d5ea28545.webp?v=1757586176
     Price: €21.99 EUR
 - [Dead Inside But Cute Cat T-Shirt | Funny Skeleton Halloween Tee](https://lazywhiskers.shop/products/dead-inside-but-cute-funny-skeleton-cat-t-shirt): Spooky meets cute! This “Dead Inside But Cute” skeleton cat t-shirt is perfect for Halloween, goth style, or sarcastic cat lovers. Shop now at Lazy Whiskers.
-  Updated: 2025-09-22T21:53:38Z
+  Updated: 2025-09-24T14:49:40Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1517,7 +1517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3518961-12df-4301-8a72-a7de008f1716.webp?v=1758534812
     Price: €19.99 EUR
 - [Bored to Death Cat T-Shirt | Funny Goth Coffin Cat Tee](https://lazywhiskers.shop/products/bored-to-death-cat-shirt): Sarcastic vibes meet spooky style! This “Bored to Death” cat t-shirt features a lazy black cat in a coffin. Perfect for Halloween, goth fashion, and funny cat lovers
-  Updated: 2025-09-22T22:00:29Z
+  Updated: 2025-09-24T14:49:10Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1619,7 +1619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/b72dc5b6-7612-40fe-8f63-c5ec7b3a3405.webp?v=1758535218
     Price: €21.99 EUR
 - [Hot Ghoul Autumn T-Shirt | Funny Black Cat Halloween Tee](https://lazywhiskers.shop/products/hot-ghoul-autumn-funny-black-cat-halloween-t-shirt): Celebrate spooky season in style! The “Hot Ghoul Autumn” t-shirt features a sassy black cat design – perfect for Halloween, fall vibes, and goth fashion lovers.
-  Updated: 2025-09-22T22:07:20Z
+  Updated: 2025-09-24T14:48:53Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1721,7 +1721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5113ca0d-b4cf-4119-a0b5-5794b88f6a95.webp?v=1758535311
     Price: €21.99 EUR
 - [Ghosted Again Hoodie | Funny Spooky Cat Halloween Sweatshirt](https://lazywhiskers.shop/products/ghosted-again-hoodie-funny-spooky-cat-streetwear): Stay cozy and sarcastic with the “Ghosted Again” hoodie. Featuring a ghost-cat graphic, it’s the perfect mix of funny, spooky, and comfy streetwear.
-  Updated: 2025-09-24T01:53:25Z
+  Updated: 2025-09-24T14:48:36Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1823,7 +1823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1ae1db6d-b6ef-4560-a10f-225efa224430.webp?v=1758635860
     Price: €34.99 EUR
 - [Pumpkin Spice & Bad Advice Hoodie | Funny Halloween Cat Sweatshirt](https://lazywhiskers.shop/products/pumpkin-spice-bad-advice-hoodie): Spooky meets cozy! This “Pumpkin Spice & Bad Advice” hoodie features a black cat with a jack-o’-lantern. Perfect sarcastic fall hoodie for Halloween and autumn lovers
-  Updated: 2025-09-22T22:04:54Z
+  Updated: 2025-09-24T14:47:54Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2027,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/36867bdd-3b11-4e5a-855d-a88c4cf1ea74.webp?v=1758535802
     Price: €19.99 EUR
 - [Witch Better Have My Candy Hoodie | Funny Halloween Cat Sweatshirt](https://lazywhiskers.shop/products/witch-better-have-my-candy-funny-halloween-cat-hoodie): Stay cozy and spooky with the “Witch Better Have My Candy” hoodie. Funny Halloween black cat design – perfect for fall nights, witchy vibes, and spooky season outfits.
-  Updated: 2025-09-22T22:12:32Z
+  Updated: 2025-09-24T14:47:29Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2130,7 +2130,7 @@
 - [Contact | LazyWhiskers Customer Support](https://lazywhiskers.shop/pages/contact): Need help with your order? Got a question about sizing, shipping, or how our cats always look cooler than us humans? You’re in the right place. At ...
   Updated: 2025-09-24T10:19:43Z
 - [Your Privacy Choices | LazyWhiskers Data & Cookie Settings](https://lazywhiskers.shop/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-24T09:56:30Z
+  Updated: 2025-09-24T15:07:08Z
 - [About Us | LazyWhiskers – Designed to Disobey](https://lazywhiskers.shop/pages/about-us): LazyWhiskers was born from a simple idea: what if streetwear could be as bold, independent, and unpredictable as cats? Our brand blends fashion wit...
   Updated: 2025-09-24T10:01:12Z
 - [FAQ | LazyWhiskers Questions Answered](https://lazywhiskers.shop/pages/frequently-asked-questions-faq): Welcome to the LazyWhiskers FAQ. Here you’ll find clear answers about orders, shipping, sizing, returns and our print-on-demand process. Every item...
@@ -2139,7 +2139,7 @@
 ## Policies
 
 - [Privacy Policy](https://lazywhiskers.shop/policies/privacy-policy)
-  Updated: 2025-08-16T16:26:28+02:00
+  Updated: 2025-09-24T17:05:42+02:00
 - [Shipping Policy](https://lazywhiskers.shop/policies/shipping-policy)
   Updated: 2025-08-16T16:29:02+02:00
 - [Refund Policy](https://lazywhiskers.shop/policies/refund-policy)
