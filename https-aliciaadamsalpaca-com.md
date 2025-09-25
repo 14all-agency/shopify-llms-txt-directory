@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-09-25T12:00:35.658Z
+- Updated At: 2025-09-25T16:00:36.364Z
 
 ## Products
 
@@ -6364,7 +6364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungewearset_blk-sweatpant_modelwhite.jpg?v=1735831266
     Price: $195.00 USD
 - [Buy Malibu Lounge Hoodie | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/lounge-hoodie): Discover luxury with our lounge hoodie, expertly crafted from premium alpaca. Designed for both comfort and style, this women's sweater features vibrant color block details. Buy now to elevate your loungewear collection and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
-  Updated: 2025-09-19T15:29:44Z
+  Updated: 2025-09-25T15:21:46Z
   Vendor: alicia adams alpaca
   Product Type: Loungewear
   Availability: Available
@@ -12261,7 +12261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1735831691
     Price: $145.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-18T22:10:55Z
+  Updated: 2025-09-25T15:14:55Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
@@ -13488,7 +13488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1754056519
     Price: $595.00 USD
 - [Buy Boulder Throw | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/boulder-throw-2): Buy Boulder Throw, luxury alpaca Blanket at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-23T00:23:23Z
+  Updated: 2025-09-25T15:15:33Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
