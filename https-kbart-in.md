@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-23T06:41:23Z
 - Contact Email: info.kbart@gmail.com
-- Updated At: 2025-09-25T12:00:27.218Z
+- Updated At: 2025-09-25T20:00:27.254Z
 
 ## Products
 
@@ -123,63 +123,63 @@
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Colorfulwoodenwalltempleforpoojaroom.png?v=1758722079
   Price: ₹1,250.00 INR
 - [Handcarved Wooden Temple Decor - Antique Brown Wall Hanging Mandir](https://kbart.in/products/handcarved-wooden-temple-decor): Discover the elegance of KB ART Handcarved Wooden Temple Decor. This Antique Brown Wall Hanging Mandir brings warmth and spirituality to your home. Perfect for enhancing any space!
-  Updated: 2025-09-25T05:57:24Z
+  Updated: 2025-09-25T19:52:59Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Temple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Rajasthani_wooden_temple_wall_hanging.png?v=1758028474
   Price: ₹1,250.00 INR
 - [Handpainted Wooden Jharokha - Turquoise Floral Mughal Arch Decor](https://kbart.in/products/kb-art-handpainted-wooden-jharokha-wall-panel-turquoise-floral-mughal-arch-decor-antique-look-wall-hanging): Elevate your space with the KB ART Handpainted Wooden Jharokha, featuring a stunning turquoise floral Mughal arch design. Perfect for adding an antique look to your decor!
-  Updated: 2025-09-25T05:59:12Z
+  Updated: 2025-09-25T18:22:24Z
   Vendor: KB ART
   Product Type: Wooden Jharokha Panal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Mughalinspiredwoodenwalldecor.png?v=1758722190
   Price: ₹850.00 INR
 - [Handpainted Wooden Jharokha Wall Panel - Dark Blue Floral Mughal Decor](https://kbart.in/products/kb-art-handpainted-wooden-jharokha-wall-panel-dark-blue-floral-mughal-arch-decor-antique-look-wall-hanging): Elevate your space with the KB ART Handpainted Wooden Jharokha. This dark blue floral Mughal arch decor adds an antique look, enhancing any wall with its unique charm.
-  Updated: 2025-09-25T06:01:05Z
+  Updated: 2025-09-25T19:53:22Z
   Vendor: KB ART
   Product Type: Wooden Jharokha Panal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Vintagejharokhadesignwalldecor_860f7c68-5eba-4fcb-b928-c27ffdc84eed.png?v=1758722291
   Price: ₹850.00 INR
 - [Handpainted Wooden Jharokha Panel - Turquoise & Orange Mughal Decor](https://kbart.in/products/kb-art-handpainted-wooden-jharokha-panel-turquoise-orange-floral-mughal-arch-decor-antique-ethnic-wall-hanging): Discover the stunning KB ART Handpainted Wooden Jharokha Panel in vibrant turquoise and orange. Enhance your decor with this antique ethnic wall hanging, perfect for any space!
-  Updated: 2025-09-25T06:03:45Z
+  Updated: 2025-09-25T19:24:29Z
   Vendor: KB ART
   Product Type: Wooden Jharokha Panal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Colorful_handcrafted_wooden_jharokha.png?v=1758722346
   Price: ₹850.00 INR
 - [Handpainted Wooden Wall Jharokha Panel - Dark Blue Floral Home Décor](https://kbart.in/products/kb-art-handpainted-wooden-wall-jharokha-panel-arch-decor-dark-blue-yellow-floral-mughal-painting-antique-look-home-interior-decor): Transform your space with the KB ART handpainted wooden wall jharokha panel. Featuring a stunning dark blue and yellow floral Mughal design, this antique-look décor piece is perfect for any home.
-  Updated: 2025-09-25T06:07:22Z
+  Updated: 2025-09-25T18:54:46Z
   Vendor: KB ART
   Product Type: Wooden Jharokha Panal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Colorfulhandcraftedwoodenjharokha_baa57817-24fc-4e56-a00f-eac73136611c.png?v=1758722410
   Price: ₹850.00 INR
 - [Handpainted Wooden Elephant Stool – Antique Look Home Decor & Gifting](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-black-red-misri-art-handcarved-antique-look-home-decor-gifting): Enhance your home decor with the KB ART Handpainted Wooden Elephant Stool. This 8-inch black and red Misri art piece is perfect for gifting or adding an antique touch to any space.
-  Updated: 2025-09-25T06:11:38Z
+  Updated: 2025-09-25T19:00:31Z
   Vendor: KB ART
   Product Type: Wooden 8inches elephant stool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/TraditionalIndianElephantStool.png?v=1758722459
   Price: ₹950.00 INR
 - [Handpainted Wooden Elephant Stool - 8 Inch Yellow Base & Amboz Art](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-multicolour-amboz-jodhpuri-art-antique-look-handcarved-home-table-decor): Shop the KB ART Handpainted Wooden Elephant Stool featuring a vibrant yellow base and multicolour Amboz Jodhpuri art. Perfect for adding an antique touch to your home décor!
-  Updated: 2025-09-25T06:12:57Z
+  Updated: 2025-09-25T18:51:58Z
   Vendor: KB ART
   Product Type: Wooden 8inches elephant stool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/TraditionalIndianElephantStool_855f5a3e-6704-4fd1-8b2e-1c11e7b0e938.png?v=1758722539
   Price: ₹950.00 INR
 - [Handpainted Wooden Elephant Stool – Antique Look Multicolour Décor](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-natural-multicolour-misri-art-antique-look-handcarved-home-table-decor): Discover the KB ART Handpainted Wooden Elephant Stool, a stunning 8-inch piece featuring Multicolour Amboz Jodhpuri Art. Perfect for antique-look home décor and enhancing any table setting!
-  Updated: 2025-09-25T06:13:53Z
+  Updated: 2025-09-25T18:49:03Z
   Vendor: KB ART
   Product Type: Wooden 8inches elephant stool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/ElephantShapedWoodenAccentTable_b2bdcfd9-8d53-4cdb-aa8f-6028ee7b5884.png?v=1758722602
   Price: ₹950.00 INR
 - [Handpainted Wooden Elephant Stool – 8 Inch Antique Misri Art Décor](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-natural-multicolour-misri-art-antique-look-handcarved-home-table-decor-1): Elevate your home decor with the KB ART Handpainted Wooden Elephant Stool. This 8-inch stool features vibrant Misri art and an antique look, perfect for any table or living space.
-  Updated: 2025-09-25T06:15:32Z
+  Updated: 2025-09-25T18:59:43Z
   Vendor: KB ART
   Product Type: Wooden 8inches elephant stool
   Availability: Available
