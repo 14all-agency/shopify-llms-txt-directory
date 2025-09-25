@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-24T20:01:08.580Z
+- Updated At: 2025-09-25T00:01:06.594Z
 
 ## Products
 
@@ -509,9 +509,9 @@ Barbie e enche a mochila com o essencial das caminhadas...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-malibu-852239722-0194735022397-barbie-1178692762.jpg?v=1752827174
   Price: 38,50 € EUR
 - [Barbie Pediatra](https://brincatoys.pt/products/barbie-pediatra): Quando as meninas brincam com a Barbie, elas imaginam inúmeras brincadeiras; Se gostas de cuidar de bebés, torna-te pediatra! O conjunto inclui uma mesa de diagnóstico (com visualizador de raios-X e instrumentos médicos) para a boneca Barbie Pediatra examinar os seus pequenos pacientes (com o seu amigo ursinho de peluche). A Barbie Pediatra usa ...
-  Updated: 2025-08-30T19:06:41Z
+  Updated: 2025-09-24T22:25:05Z
   Vendor: Barbie
-  Product Type: + 3 anos
+  Product Type: Barbie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-pediatra-851862522-0887961918625-barbie-1178692766.jpg?v=1752827286
   Price: 38,50 € EUR
@@ -1446,13 +1446,6 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-de-bonecas-grande-carlota-86041818-brincatoys-1178693043.jpg?v=1752831978
   Price: 86,90 € EUR
-- [Carro de polícia com sirene](https://brincatoys.pt/products/carro-de-policia-com-sirene): Um ladrão está à solta. Acenda a luz e a sirene e mande esse carro da polícia para o local! Possui estatuetas removíveis e uma cela móvel.
-  Updated: 2025-09-07T07:39:24Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-de-policia-com-sirene-82373823-brincatoys-1178693046.jpg?v=1752832084
-  Price: 16,99 € EUR
 - [Carro desportivo Vermelho](https://brincatoys.pt/products/carro-desportivo-vermelho): O carro desportivo vermelho faz os corações dos pequenos fãs de carros baterem mais rápido com sua aparência de sucesso. O seu motor de impulso dá-lhe velocidade extra. Isso significa: o carro desportivo branco só precisa ser empurrado uma vez e segue sozinho.
   Updated: 2025-08-21T00:17:37Z
   Vendor: Brincatoys
@@ -1467,13 +1460,6 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-dos-bombeiros-81297419-brincatoys-1178693049.jpg?v=1752832094
   Price: 11,90 € EUR
-- [Carro dos Bombeiros com sirene](https://brincatoys.pt/products/carro-dos-bombeiros-com-sirene): Um fogo está queimando! Acenda a luz e a sirene e leve este caminhão de bombeiros até o local! Apresenta um carretel de mangueira, escada móvel e escotilha de cabine que se abre.  Dimensão: 20 x 10 x 5 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:17:36Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-dos-bombeiros-com-sirene-82373723-2600000-brincatoys-1178693051.jpg?v=1752832101
-  Price: 16,99 € EUR
 - [Carro dos médicos](https://brincatoys.pt/products/carro-dos-medicos): Este carro de plástico dos médicos funciona com um sistema de corda quando é empurrado.
   Updated: 2025-09-12T18:15:52Z
   Vendor: Brincatoys
@@ -1975,13 +1961,6 @@ Cada conjunto inclui:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-comboio-com-musica-82382521-brincatoys-1178693304.jpg?v=1752835682
   Price: 39,99 € EUR
-- [Conjunto comboio de passageiros](https://brincatoys.pt/products/conjunto-comboio-de-passageiros): Vermelho significa pare, verde significa vá! Ensine as crianças sobre os sinais de segurança com este número 8 do conjunto de segurança. Ele vem com um trem, um condutor, um passageiro e sinais para parar o trem e colocá-lo em movimento novamente.
-  Updated: 2025-08-21T00:17:02Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-comboio-de-passageiros-82372923-brincatoys-1178693309.jpg?v=1752835697
-  Price: 29,99 € EUR
 - [Conjunto Culinária essencial](https://brincatoys.pt/products/conjunto-culinaria-essencial): É hora do jantar! Ajude a preparar as coisas aparando, descascando, picando os vegetais e ralando o queijo na sua própria tábua de cortar. Os ingredientes separáveis ​​e as diferentes ferramentas proporcionam realismo extra.
   Updated: 2025-08-21T00:17:01Z
   Vendor: Brincatoys
@@ -3143,7 +3122,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-little-prince-22475915-brincatoys-1178693643.png?v=1752841932
   Price: 24,99 € EUR
 - [Figuras Little Prince](https://brincatoys.pt/products/figuras-little-prince-1): Estas figuras Little Prince em PVC, apresentam a menina com a raposa e estão estão prontas para a aventura. Reúna todas as figuras para recriar todas as histórias do romance e prepare-se para se encantar.  Dimensão: 14 x 19 x 5 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:15:54Z
+  Updated: 2025-09-24T21:43:42Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -4073,7 +4052,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-rei-dos-numeros-810359022-brincatoys-1178693936.jpg?v=1752847688
   Price: 16,99 € EUR
 - [Jogo Rummikub de Viagem Caixa Metálica](https://brincatoys.pt/products/jogo-rummikub-de-viagem-caixa-metalica): Rummikub de Viagem - Caixa Metálica, é um jogo com números para entreter-te e iniciar-te nesta grande habilidade. Desfruta do jogo de mesa e estratégia mais divertido! Faz escadas e trios e combina os números até que fiques sem fichas. Se consegues ser o primeiro em ficar sem fichas, ganhas! Um jogo familiar e divertido que, graças ao formato de vi
-  Updated: 2025-09-23T21:36:11Z
+  Updated: 2025-09-24T22:00:10Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -5538,7 +5517,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mogli-621238023-brincatoys-1178694382.webp?v=1752814085
   Price: 7,50 € EUR
 - [Monopoly Guerra dos Tronos](https://brincatoys.pt/products/monopoly-guerra-dos-tronos): A corrida pelo controlo de Westeros acontece no Jogo de Tabuleiro Monopólio Guerra dos Tronos. As mecânicas que durante décadas proporcionaram momentos de diversão emfamília mantêm-se as mesmas, incluindo a compra e venda de recursos, negociação entre jogadores, cartas de ação aleatórias, lançamento de dados, movimentação de peças e gestão de dinhe
-  Updated: 2025-09-24T11:55:10Z
+  Updated: 2025-09-24T22:00:09Z
   Vendor: Monopoly
   Product Type: + 14 anos
   Availability: Available
@@ -10161,7 +10140,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/borracha-batom-top-model-251189123-brincatoys-1178695888.jpg?v=1752883446
   Price: 2,50 € EUR
 - [Mustang Shelby GT 500 2020 1/18](https://brincatoys.pt/products/mustang-shelby-gt-500-2020): Reprodução à escala de 1:18 em metal com peças de plástico, portas que  abrem e fecham e pneus em borracha, capô e bagageira que abrem, volante direccional e suspensão integral às 4 rodas. Escala 1/18 Dimensão: 33 x 16,50 x 13 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-23T12:36:01Z
+  Updated: 2025-09-24T22:00:08Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -10181,13 +10160,6 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/comboio-a-pilhas-vermelho-82370323-2600000-brincatoys-1178695893.jpg?v=1752806416
   Price: 15,99 € EUR
-- [Comboio intercidades com pilha](https://brincatoys.pt/products/comboio-intercidades-com-pilha): Leve os passageiros numa viagem de comboio de alta velocidade com este brilhante conjunto de comboio intercidades! Com faróis funcionais e marchas à frente e à ré, a pequena e forte locomotiva também pode puxar vagões extras! Requer 2 pilhas AAA (não incluídas) Dimensão: 24 x 10 x 5 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:07:54Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/comboio-intercidades-com-pilha-82377423-brincatoys-1178695903.jpg?v=1752806763
-  Price: 22,50 € EUR
 - [Conjunto de praia](https://brincatoys.pt/products/conjunto-de-praia): Balde, pá, ancinho e peneira: agora só falta a areia para um dia de praia perfeito. Dimensão: 13 x 17 x 13 cm.Idade Recomendada: + de 18 meses.
   Updated: 2025-09-23T20:35:46Z
   Vendor: Brincatoys
@@ -14991,36 +14963,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
-- [Cartão-presente](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
-  Updated: 2025-09-24T19:11:08Z
-  Vendor: Brincatoys
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartao-presente-brincatoys-1190870189.svg?v=1756907520
-  - [€20](https://brincatoys.pt/products/cartao-presente?variant=45469558604040)
-    Availability: Available
-    Price: 20,00 € EUR
-  - [€30](https://brincatoys.pt/products/cartao-presente?variant=45469558636808)
-    Availability: Available
-    Price: 30,00 € EUR
-  - [€40](https://brincatoys.pt/products/cartao-presente?variant=45469558669576)
-    Availability: Available
-    Price: 40,00 € EUR
-  - [€50](https://brincatoys.pt/products/cartao-presente?variant=45469558702344)
-    Availability: Available
-    Price: 50,00 € EUR
-  - [€60](https://brincatoys.pt/products/cartao-presente?variant=45469558735112)
-    Availability: Available
-    Price: 60,00 € EUR
-  - [€80](https://brincatoys.pt/products/cartao-presente?variant=45469558767880)
-    Availability: Available
-    Price: 80,00 € EUR
-  - [€100](https://brincatoys.pt/products/cartao-presente?variant=45469558800648)
-    Availability: Available
-    Price: 100,00 € EUR
-  - [€150](https://brincatoys.pt/products/cartao-presente?variant=45469558833416)
-    Availability: Available
-    Price: 150,00 € EUR
 - [Bluey Passar a Encomenda](https://brincatoys.pt/products/bluey-passar-a-encomenda): Apresentamos o emocionante conjunto de brinquedos Bluey Passar a Encomenda, o presente ideal para fascinar e estimular a imaginação das crianças em idade pré-escolar! Quem será o sortudo que abrirá o pacote e ganhará o prêmio do jato d'água quando a música parar? Bluey e Bingo usam os seus chapéus de festa neste pacote divertido, além de 2 acessórios de jogo engraçados. Este conjunto é inspirado na popular série de animação australiana ‘Bluey’ e promete horas de jogo interativo e educativo para os mais pequenos. Incluído neste conjunto estão quatro figuras adoráveis representando as personagens favoritas do programa: Bluey, Bingo, o pai do Lucky e Lila, acompanhadas por acessórios temáticos que enriquecem a brincadeira. Ademais, as figuras são desenhadas com detalhes autênticos e vibrantes que capturam a essência de cada personagem. Elas possuem um tamanho adequado para mãos pequenas, facilitando o manuseio e o jogo seguro. Além disso, a durabilidade destes brinquedos é garantida pela sua construção em materiais de alta qualidade, não tóxicos e seguros para as crianças. Cada figura vem com articulações móveis, permitindo que as crianças posicionem e movimentem as personagens durante as suas aventuras imaginárias. Os acessórios incluídos não só complementam as figuras mas também incentivam o jogo de faz de conta, permitindo que as crianças recriem cenas da série ou inventem as suas próprias histórias. Além do mais, este conjunto não é apenas uma fonte de entretenimento, mas também contribui para o desenvolvimento de habilidades sociais e criativas, promovendo a interação entre pares e o jogo cooperativo. Em suma, é um produto imprescindível para fãs de Bluey, adequado para crianças a partir dos 3 anos de idade. É também um excelente presente de aniversário ou para qualquer ocasião especial. Em suma... Conjunto de brinquedos inspirado na série ‘Bluey’; Inclui 4 figuras de personagens e acessórios temáticos; Promove criatividade e habilidades sociais; Feito com materiais seguros e duráveis; Ideal para crianças a partir dos 3 anos. Dimensão: 23 x 16 x 6 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-08-21T00:02:02Z
   Vendor: Bluey
@@ -15330,7 +15272,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-roma-replica-detalhada-132602924-brincatoys-1178698830.jpg?v=1752932764
   Price: 26,50 € EUR
 - [Carro de brincar Ferrari Purosangue - Réplica Perfeita](https://brincatoys.pt/products/carro-de-brincar-ferrari-purosangue-suv): Descobre o carro de brincar Ferrari Purosangue, uma réplica autêntica e detalhada do primeiro SUV da Ferrari. Cultiva a paixão por carros à escala 1:24.
-  Updated: 2025-09-09T16:46:34Z
+  Updated: 2025-09-24T22:08:05Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -16009,9 +15951,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-uno-flex-diversao-estrategica-reinventada-773596724-0194735135967-uno-1178699418.webp?v=1752941165
   Price: 14,99 € EUR
 - [Boneca de Pano Taylor 33 cm | Companheira Encantadora](https://brincatoys.pt/products/boneca-de-pano-taylor): Descubra a Boneca de Pano Taylor de 33 cm, uma adorável parceira de brincadeiras feita com materiais seguros e cheia de detalhes encantadores.
-  Updated: 2025-08-21T00:00:53Z
+  Updated: 2025-09-24T22:37:35Z
   Vendor: Brincatoys
-  Product Type: + 0 meses
+  Product Type: Bonecas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-de-pano-taylor-33-cm-companheira-encantadora-602107024-brincatoys-1178699421.jpg?v=1752941175
   Price: 24,90 € EUR
@@ -16198,7 +16140,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pistola-nerf-elite-2-0-prospect-qs-4-brinquedo-para-acao-55419025-5010993948031-nerf-1178699574.jpg?v=1752943931
   Price: 12,99 € EUR
 - [Pistola Nerf - Elite 2.0 Commander RD-6 – Ação e Precisão](https://brincatoys.pt/products/nerf-elite-2-0-commander-rd-6): Descubra o poder da Pistola Nerf Elite 2.0 Commander RD-6, a escolha ideal para aventuras épicas! Com tambor giratório, alta capacidade de alcance,.
-  Updated: 2025-09-22T19:25:30Z
+  Updated: 2025-09-24T21:12:55Z
   Vendor: Nerf
   Product Type: Nerf
   Availability: Available
@@ -16603,13 +16545,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-volkswagen-id-buzz-681055424-8719247910554-brincatoys-1178699948.jpg?v=1752790455
   Price: 24,90 € EUR
-- [Lego Technic 42173 Koenigsegg Jesko Absolut](https://brincatoys.pt/products/lego-technic-hipercarro-cinzento-koenigsegg-jesko-absolut): Descubra o Lego Technic 42173 - Hipercarro Cinzento Koenigsegg Jesko Absolut, o conjunto perfeito para apaixonados por engenharia e carros.
-  Updated: 2025-09-04T22:47:21Z
-  Vendor: LEGO
-  Product Type: + 10 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42173-koenigsegg-jesko-absolut-664217325-5702017584072-lego-1178699947.jpg?v=1752790452
-  Price: 56,50 € EUR
 - [Carro de Brincar Bugatti Bolide Amarelo 1/24 - Edição Especial](https://brincatoys.pt/products/carro-de-brincar-bugatti-bolide-amarelo): Leve para casa a emoção das pistas com o carro de brincar Bugatti Bolide Amarelo 1/24. Modelo Maisto detalhado e durável perfeito para colecionadores.
   Updated: 2025-09-08T22:29:47Z
   Vendor: Brincatoys
@@ -19039,13 +18974,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-super-heroes-76302-robo-do-superman-contra-lex-luthor-667630225-5702017817767-lego-1178701713.jpg?v=1752975972
   Price: 17,50 € EUR
-- [Lego Super Heroes 76303 Batman Tumbler contra Two-Face](https://brincatoys.pt/products/lego-super-heroes-76303-batman-tumbler-contra-two-face-e-the-joker): Mergulhe na ação com o Lego Super Heroes 76303 Batman Tumbler contra Two-Face e The Joker. Prepare-se para batalhas épicas hoje!
-  Updated: 2025-09-03T15:07:44Z
-  Vendor: LEGO
-  Product Type: + 8 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-super-heroes-76303-batman-tumbler-contra-two-face-667630325-5702017817774-lego-1178701717.jpg?v=1752976084
-  Price: 63,50 € EUR
 - [Lego Harry Potter 76441 O Castelo de Hogwarts: Clube de Duelos](https://brincatoys.pt/products/lego-harry-potter-76441-o-castelo-de-hogwarts-clube-de-duelos): Entre na magia com o Lego Harry Potter 76441 O Castelo de Hogwarts: Clube de Duelos! Reviva duelos épicos entre Harry e Draco! 🪄
   Updated: 2025-08-20T23:57:47Z
   Vendor: LEGO
@@ -19530,7 +19458,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-lb-works-mclaren-720s-modelo-premium-232622525-194735262250-hot-wheels-1178702026.jpg?v=1752980886
   Price: 14,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças Divertidas](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pcs): Desperte a imaginação com o Puzzle Patrulha Pata 3 x 48 peças! Ideal para pequenos fãs, este jogo estimula o raciocínio lógico. Compre agora!
-  Updated: 2025-08-29T22:43:26Z
+  Updated: 2025-09-24T21:25:21Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
@@ -19844,6 +19772,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-doc-hudson-replica-die-cast-oficial-557219225-0887961721928-cars-1193924068.jpg?v=1758484323
   Price: 11,99 € EUR
+- [Carro telecomandado Power Dragon – Velocidade e Aventura](https://brincatoys.pt/products/carro-telecomandado-power-dragon): Descubra o Carro telecomandado Power Dragon – um veículo RC potente com design de dragão, capaz de atingir 25 km/h. Ideal para emocionantes aventuras.
+  Updated: 2025-09-24T22:51:50Z
+  Vendor: Brincatoys
+  Product Type: + 8 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-telecomandado-power-dragon-velocidade-e-aventura-862467424-4009803124674-brincatoys-1178699457.jpg?v=1752941898
+  Price: 44,99 € EUR
 - [Carro Fast & Furious - Brian's Porsche 996 GT3 RS](https://brincatoys.pt/products/carro-fast-furious-brians-porsche-996-gt3-rs): O Carro Fast & Furious – Brian’s Porsche 996 GT3 RS reproduz ao pormenor o icónico veículo de Brian O’Conner, numa escala aproximada de 1:24. Primeiramente, fabricado em die-cast metal reforçado, este modelo apresenta superfícies lacadas em azul vivo, decalques “GT3 RS” realistas e jantes de liga com design multiraio, proporcionando detalhes fiéis ao original. Além disso, inclui componentes em plástico de elevada resistência para zonas como o difusor traseiro, o spoiler aerodinâmico ajustado e a grelha dianteira. Por outro lado, para um realismo superior, o modelo disponibiliza portas laterais e capot dianteiro totalmente funcionais, revelando o interior com bancos tipo competição, volante desportivo e barra de segurança (“roll cage”) visível através dos vidros fumados. Do mesmo modo, as rodas giram livremente e a suspensão ligeiramente rebaixada reflete o carácter de corrida do GT3 RS. Ademais, as luzes traseiras e os faróis dianteiros ostentam acabamento transparente, recriando o aspeto original. Ademais, recomendado para crianças a partir dos 8 anos e colecionadores, este carro die-cast cumpre normas de segurança CE, graças a materiais atóxicos e montagem resistente. Por isso, pais e entusiastas podem confiar na durabilidade do modelo para jogos de ação ou exposição em estantes. Consequentemente, desenvolve a coordenação motora, incentiva a criatividade e permite recriar cenas memoráveis da saga Fast & Furious. Por fim, seja para iniciar ou enriquecer uma vitrina de modelos automóveis, o Brian’s Porsche 996 GT3 RS é uma peça vencedora que combina precisão, qualidade e diversão. Em suma... Modelo die-cast 1:24 em metal e plástico resistente Portas e capot dianteiro funcionais Interior detalhado com volante desportivo e “roll cage” Jantes multiraio e decalques “GT3 RS” originais Dimensão:Idade recomendada: + de 8 anos.
   Updated: 2025-09-06T21:45:05Z
   Vendor: Fast & Furious
@@ -20364,8 +20299,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T10:24:53Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-09-24T12:38:07Z
-  Total Products: 568
+  Updated: 2025-09-24T22:55:40Z
+  Total Products: 567
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-09-24T13:20:36Z
   Total Products: 27
@@ -20406,8 +20341,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-08T20:12:52Z
   Total Products: 20
 - [Lego Ninjago](https://brincatoys.pt/collections/lego-ninjago): Os conjuntos LEGO® NINJAGO® incluem divertidas representações repletas de ação, com ninjas giratórios, dragões esvoaçantes, poderosos robôs e muito mais. Constrói templos incrivelmente detalhados e veículos fantásticos com infinitas possibilidades de narrativas do bem contra o mal.
-  Updated: 2025-09-23T18:58:47Z
-  Total Products: 21
+  Updated: 2025-09-24T21:19:03Z
+  Total Products: 20
 - [Lego Speed Champions](https://brincatoys.pt/collections/lego-speed-champions): Partida, largada, fugida! Os produtos LEGO® Speed Champions oferecem aos fãs de corridas de carros a oportunidade de recriar mini versões dos principais e mais conhecidos veículos do mundo. Constrói e expõe estas réplicas de modelos colecionáveis de marcas, como Ferrari, Aston Martin, Lamborghini, Dodge e Chevrolet.
   Updated: 2025-09-24T12:53:50Z
   Total Products: 22
@@ -20415,10 +20350,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:58:45Z
   Total Products: 26
 - [Lego DC](https://brincatoys.pt/collections/lego-dc-comics): Os conjuntos do Universo DC permitem que as crianças brinquem, inventem e criem um mundo colorido de super-heróis. Com estes conjuntos de jogo, as crianças vão poder construir cenas famosas e divertir-se a inventar novas aventuras entre todos os heróis e vilões. Vão poder divertir-se e aprender muito com cada conjunto.
-  Updated: 2025-09-09T14:39:08Z
+  Updated: 2025-09-24T21:25:20Z
   Total Products: 10
 - [Lego Technic](https://brincatoys.pt/collections/lego-technic): Os conjuntos LEGO® Technic oferecem experiências de construção avançadas e complexas com base em veículos reais grandes e pequenos, como carros desportivos, veículos de construção e motas. Estes veículos estão repletos de detalhes autênticos, como caixas de velocidade, rodas e eixos funcionais.
-  Updated: 2025-09-23T18:58:57Z
+  Updated: 2025-09-24T21:25:22Z
   Total Products: 21
 - [Outras coleções](https://brincatoys.pt/collections/outras-colecoes)
   Updated: 2025-09-23T18:59:21Z
@@ -20439,16 +20374,16 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-18T18:57:47Z
   Total Products: 104
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
-  Updated: 2025-09-06T11:20:01Z
-  Total Products: 100
+  Updated: 2025-09-24T22:32:16Z
+  Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-09-24T17:04:25Z
-  Total Products: 240
+  Updated: 2025-09-24T22:37:33Z
+  Total Products: 239
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
-  Updated: 2025-09-18T22:19:37Z
-  Total Products: 65
+  Updated: 2025-09-24T21:14:27Z
+  Total Products: 64
 - [Bonecas de Pano](https://brincatoys.pt/collections/bonecas-de-pano)
-  Updated: 2025-09-19T21:54:27Z
+  Updated: 2025-09-24T22:37:34Z
   Total Products: 25
 - [Mundo Animal](https://brincatoys.pt/collections/bonecos-pvc-mundo-animal)
   Updated: 2025-09-19T11:19:01Z
@@ -20460,8 +20395,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:27:34Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-09-24T12:25:55Z
-  Total Products: 103
+  Updated: 2025-09-24T22:10:11Z
+  Total Products: 102
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
   Updated: 2025-09-06T22:22:31Z
   Total Products: 19
@@ -20472,14 +20407,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:22:51Z
   Total Products: 46
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-23T19:25:21Z
-  Total Products: 206
+  Updated: 2025-09-24T22:35:25Z
+  Total Products: 204
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 155
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-09-24T12:58:14Z
-  Total Products: 118
+  Updated: 2025-09-24T21:42:38Z
+  Total Products: 111
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-09-23T18:58:24Z
   Total Products: 9
@@ -20493,23 +20428,23 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:31:41Z
   Total Products: 8
 - [+ 0 meses](https://brincatoys.pt/collections/0-meses)
-  Updated: 2025-09-24T12:15:56Z
-  Total Products: 95
+  Updated: 2025-09-24T22:38:03Z
+  Total Products: 94
 - [+ 10 anos](https://brincatoys.pt/collections/10-anos)
-  Updated: 2025-09-23T18:59:12Z
-  Total Products: 23
+  Updated: 2025-09-24T21:25:56Z
+  Total Products: 22
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-24T12:25:55Z
-  Total Products: 330
+  Updated: 2025-09-24T22:38:03Z
+  Total Products: 326
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-24T13:21:05Z
-  Total Products: 1521
+  Updated: 2025-09-24T22:55:40Z
+  Total Products: 1513
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-24T12:50:15Z
   Total Products: 688
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-09-24T12:53:50Z
-  Total Products: 318
+  Updated: 2025-09-24T22:35:25Z
+  Total Products: 317
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
   Total Products: 18
@@ -20523,26 +20458,26 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T19:10:23Z
   Total Products: 1337
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-24T19:11:07Z
-  Total Products: 2437
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 2434
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-24T19:11:07Z
-  Total Products: 2890
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 2886
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-24T19:11:07Z
-  Total Products: 3274
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3270
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-24T19:11:07Z
-  Total Products: 3400
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3395
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-24T19:11:07Z
-  Total Products: 3480
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3473
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-24T19:11:07Z
-  Total Products: 3528
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3521
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-23T21:34:19Z
-  Total Products: 353
+  Updated: 2025-09-24T22:08:05Z
+  Total Products: 350
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
   Total Products: 52
@@ -20550,11 +20485,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-08T20:12:54Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
-  Updated: 2025-09-24T12:13:41Z
+  Updated: 2025-09-24T22:25:05Z
   Total Products: 23
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
-  Updated: 2025-09-24T17:04:25Z
-  Total Products: 20
+  Updated: 2025-09-24T22:13:11Z
+  Total Products: 19
 - [Baby Alive](https://brincatoys.pt/collections/baby-alive)
   Updated: 2025-09-16T15:14:20Z
   Total Products: 6
@@ -20649,8 +20584,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T11:22:02Z
   Total Products: 30
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-09-24T12:53:50Z
-  Total Products: 346
+  Updated: 2025-09-24T21:25:22Z
+  Total Products: 345
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-09-07T11:36:27Z
   Total Products: 10
@@ -20700,8 +20635,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:10:37Z
   Total Products: 108
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
-  Updated: 2025-09-21T14:44:56Z
-  Total Products: 22
+  Updated: 2025-09-24T21:02:54Z
+  Total Products: 21
 - [Roblox](https://brincatoys.pt/collections/roblox)
   Updated: 2025-09-14T16:34:17Z
   Total Products: 4
@@ -20730,20 +20665,20 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-24T17:04:25Z
-  Total Products: 3543
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3536
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-09-24T12:31:41Z
-  Total Products: 284
+  Updated: 2025-09-24T21:19:03Z
+  Total Products: 283
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-09-24T17:04:25Z
-  Total Products: 171
+  Updated: 2025-09-24T22:32:16Z
+  Total Products: 169
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-09-24T12:58:14Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-24T13:21:05Z
-  Total Products: 1167
+  Updated: 2025-09-24T22:25:34Z
+  Total Products: 1162
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-23T19:25:52Z
   Total Products: 474
@@ -20757,20 +20692,20 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T11:28:56Z
   Total Products: 76
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-09-23T19:13:20Z
-  Total Products: 212
+  Updated: 2025-09-24T22:35:25Z
+  Total Products: 211
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
-  Updated: 2025-09-24T17:04:25Z
-  Total Products: 92
+  Updated: 2025-09-24T21:00:40Z
+  Total Products: 91
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
   Updated: 2025-09-23T18:59:52Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-24T19:10:23Z
-  Total Products: 3560
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3553
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-24T19:10:23Z
-  Total Products: 3560
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3553
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20781,17 +20716,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-24T19:10:23Z
-  Total Products: 3070
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3064
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-09-22T19:12:44Z
-  Total Products: 108
+  Updated: 2025-09-24T22:26:17Z
+  Total Products: 106
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-24T19:10:23Z
-  Total Products: 3070
+  Updated: 2025-09-24T22:37:34Z
+  Total Products: 3064
 
 ## Blogs
 
