@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-25T16:00:45.367Z
+- Updated At: 2025-09-25T20:00:49.551Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-25T11:40:41Z
+  Updated: 2025-09-25T17:20:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10387,8 +10387,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tie-Detail-Round-Neck-Midi-Dress-Brinxx-Couture-79.jpg?v=1709856486
     Price: $35.00 USD
-- [Boat Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress): This Boat Neck Lantern Sleeve Dress is a stylish choice for any occasion. Crafted from a lightweight fabric, it features a boat neck and lantern-style sleeves.
-  Updated: 2025-07-07T20:57:40Z
+- [Boat Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress): Elevate your wardrobe with this elegant Boat Neck Lantern Sleeve Dress. Featuring a graceful boat neckline and voluminous lantern add timeless sophistication.
+  Updated: 2025-09-25T16:56:34Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10396,51 +10396,51 @@
   - [Deep Rose / S](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537348278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1890.jpg?v=1709856508
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Deep Rose / M](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537381046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1890.jpg?v=1709856508
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Deep Rose / L](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537413814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1890.jpg?v=1709856508
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Deep Rose / XL](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537446582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1890.jpg?v=1709856508
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Black / S](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537479350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-6932.jpg?v=1709856522
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Black / M](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537512118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-6932.jpg?v=1709856522
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Black / L](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537544886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-6932.jpg?v=1709856522
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Black / XL](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537577654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-6932.jpg?v=1709856522
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Dark Navy / S](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537610422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1723.jpg?v=1709856542
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Dark Navy / M](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537643190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1723.jpg?v=1709856542
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Dark Navy / L](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537675958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1723.jpg?v=1709856542
-    Price: $25.00 USD
+    Price: $29.99 USD
   - [Dark Navy / XL](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress?variant=42412537708726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1723.jpg?v=1709856542
-    Price: $25.00 USD
+    Price: $29.99 USD
 - [Ruched Short Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-short-sleeve-dress): This Ruched Short Sleeve Dress is a versatile look, crafted from a lightweight and stretchy material. This dress features a classic design with an ruched neck.
   Updated: 2025-07-31T14:05:12Z
   Vendor: Brinxx Couture
@@ -10646,7 +10646,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Up-Lug-Booties-Brinxx-Couture-206.jpg?v=1709859595
     Price: $60.00 USD
 - [Sport Tank and Leggings Set - Brinxx Couture](https://www.brinxxcouture.com/products/sport-tank-and-leggings-set): Dominate your workout with this stylish Sport Tank and Leggings Set! Offering complete flexibility and comfort, this set is perfect for any activity.
-  Updated: 2025-09-22T18:17:21Z
+  Updated: 2025-09-25T17:24:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10748,7 +10748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-09-19T17:34:35Z
+  Updated: 2025-09-25T19:09:03Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23720,7 +23720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-25T14:00:41Z
+  Updated: 2025-09-25T18:20:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36035,7 +36035,7 @@
   Updated: 2025-08-22T19:23:29Z
   Total Products: 0
 - [Women's Dresses - All Styles & Occasions - Brinxx Couture](https://www.brinxxcouture.com/collections/dresses): Discover Brinxx Couture's complete dress collection. From casual to formal, find the perfect dress for any occasion. Bold designs that make a statement.
-  Updated: 2025-09-23T02:14:26Z
+  Updated: 2025-09-25T16:54:32Z
   Total Products: 218
 - [Top Beauty Products | Skincare, Makeup & Haircare Essentials](https://www.brinxxcouture.com/collections/beauty): Explore our range of beauty products. Find top skincare, makeup, and haircare essentials to enhance your natural beauty. Free shipping on all orders!
   Updated: 2025-08-22T19:23:29Z
@@ -36125,7 +36125,7 @@
   Updated: 2025-08-25T13:43:27Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they sell out.
-  Updated: 2025-09-23T20:53:07Z
+  Updated: 2025-09-25T16:46:58Z
   Total Products: 87
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2025-09-09T15:46:53Z
