@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2025-09-21T22:22:43Z
 - Contact Email: soportetendyz@gmail.com
-- Updated At: 2025-09-24T16:00:27.564Z
+- Updated At: 2025-09-25T00:00:28.433Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8583/7720/files/1757915904WhatsApp_20Image_202025-09-15_20at_2012.08.16_20AM_20_2.jpg?v=1758673944
     Price: 137.900,00 $ COP
 - [Tenis Chanel Blanco Dorado para Dama | Lujo & Estilo](https://dominare2.myshopify.com/products/tenis-chanel-blanco-dorado-dama): Eleva tu estilo con Tenis Chanel Blanco Dorado Dama. Diseño exclusivo y lujo auténtico para un look sofisticado. ¡Encuéntralos aquí!
-  Updated: 2025-09-24T01:52:53Z
+  Updated: 2025-09-24T18:07:07Z
   Vendor: DOMINARE
   Product Type: Moda
   Availability: Available
