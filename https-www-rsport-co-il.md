@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-24T20:01:03.499Z
+- Updated At: 2025-09-25T00:01:01.685Z
 
 ## Products
 
@@ -2309,7 +2309,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק ברצלונה שלישית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ברצלונה-שלישית-24-25): חולצת ברצלונה שלישית לעונת 24/24 עשויה מ-100% פוליאסטר, מספקת נוחות באמצעות בד קל ונושם, מה שהופך אותה לבחירה אידיאלית לאוהדים ולשחקנים כאחד.
-  Updated: 2025-09-18T17:18:38Z
+  Updated: 2025-09-24T22:27:26Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
