@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-25T12:00:45.308Z
+- Updated At: 2025-09-25T16:00:43.053Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16593,7 +16593,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £245.00 GBP
 - [Men's Round Locket Necklace | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/mens-round-locket-necklace-silver): This quality, men's round sterling silver photo locket can hold two photos and can be engraved. Order online today with free UK shipping & luxury gift wrap.
-  Updated: 2025-09-03T16:48:27Z
+  Updated: 2025-09-25T13:38:01Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16913,7 +16913,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-25T08:38:09Z
+  Updated: 2025-09-25T15:29:16Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
