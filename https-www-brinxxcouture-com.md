@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-24T20:00:49.401Z
+- Updated At: 2025-09-25T00:00:47.864Z
 
 ## Products
 
@@ -6279,7 +6279,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Printed-Tube-Jumpsuit-With-Belt-Brinxx-Couture-1127.jpg?v=1709370473
     Price: $48.00 USD
 - [Cutout Twisted One-Shoulder Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cutout-twisted-one-shoulder-mini-dress): This stunning Cutout Twisted One-Shoulder Mini Dress is the perfect addition to your wardrobe. Made from luxurious Italian jersey, it features a twisted shoulder strap and a sleek cutout that will show off your curves. Pair it with heels and statement jewelry for a night out, or keep it casual with sandals and a denim jacket.
-  Updated: 2025-08-31T09:25:01Z
+  Updated: 2025-09-24T23:57:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8552,7 +8552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-24T19:50:37Z
+  Updated: 2025-09-24T23:10:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12459,7 +12459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heathered-Turtleneck-Mini-Sweater-Dress-Brinxx-Couture-1471.jpg?v=1709868845
     Price: $34.00 USD
 - [Ruched Surplice Long Sleeve Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-bodycon-long-sleeve-midi-dress): This beautiful Ruched Surplice Long Sleeve Midi Dress will make you look and feel like a goddess. Its flattering and feminine silhouette, with ruched detailing.
-  Updated: 2025-09-23T12:55:21Z
+  Updated: 2025-09-24T21:31:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14606,7 +14606,7 @@
     Availability: Available
     Price: $69.99 USD
 - [Inlaid Zircon 925 Sterling Silver Ring - Brinxx Couture](https://www.brinxxcouture.com/products/inlaid-zircon-925-sterling-silver-ring): Crafted with pure 925 sterling silver, this Inlaid Zircon Ring is a subtle and elegant addition to any jewelry collection. The zircon stone adds a touch of sparkle.
-  Updated: 2025-08-22T19:23:41Z
+  Updated: 2025-09-24T21:59:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16400,7 +16400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-09-24T13:22:20Z
+  Updated: 2025-09-24T23:50:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23790,7 +23790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-24T19:12:42Z
+  Updated: 2025-09-24T23:50:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24006,7 +24006,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Collared-Neck-Long-Sleeve-Plush-Jacket-Brinxx-Couture-4949.jpg?v=1730297481
     Price: $44.99 USD
 - [Tied Printed Collared Neck Long Sleeve Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/tied-printed-collared-neck-long-sleeve-jacket): Step up your style game with our Tied Printed Collared Neck Long Sleeve Jacket! A unique twist on the classic collared jacket, it features a trendy tied design.
-  Updated: 2025-08-22T19:25:59Z
+  Updated: 2025-09-24T23:36:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26105,7 +26105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-09-22T16:09:33Z
+  Updated: 2025-09-24T23:05:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32985,7 +32985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
 - [Sleeveless Square Neck Wide Strap Tank - Brinxx Couture](https://www.brinxxcouture.com/products/sleeveless-square-neck-wide-strap-tank): Introducing our Sleeveless Square Neck Wide Strap Tank! Designed for comfort and style, this tank features a square neckline and wide straps for a chic look.
-  Updated: 2025-09-23T07:15:16Z
+  Updated: 2025-09-24T21:15:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33103,7 +33103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8cca1518-df00-425b-a284-24e7d0073aac-Max.jpg?v=1744123518
     Price: $24.99 USD
   - [Light Green / 2XL](https://www.brinxxcouture.com/products/sleeveless-square-neck-wide-strap-tank?variant=43898215628982)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8eae9ac6-9bbc-4556-b8f5-83881d203ce4-Max.jpg?v=1744123518
     Price: $24.99 USD
   - [Deep Red / XL](https://www.brinxxcouture.com/products/sleeveless-square-neck-wide-strap-tank?variant=43898215661750)
