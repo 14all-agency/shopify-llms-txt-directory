@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-25T08:00:30.991Z
+- Updated At: 2025-09-25T16:00:31.122Z
 
 ## Products
 
@@ -3341,7 +3341,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-24T11:14:16Z
+  Updated: 2025-09-25T13:01:54Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-18T14:01:32Z
