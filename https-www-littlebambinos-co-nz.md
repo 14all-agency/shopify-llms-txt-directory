@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-25T16:00:49.613Z
+- Updated At: 2025-09-25T20:00:48.123Z
 
 ## Products
 
@@ -4292,7 +4292,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $22.00 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Cream](https://www.littlebambinos.co.nz/products/frigg-pacifier-daisy-natural-rubber-cream-duo): With scalloped edges that mimic flower petals, the Frigg Daisy pacifier takes the thoughtful design of their Classic pacifier and adds in a whimsical, charming design. Designed and manufactured in Denmark.
-  Updated: 2025-09-25T03:48:14Z
+  Updated: 2025-09-25T16:29:43Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -7105,7 +7105,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-24T23:50:53Z
+  Updated: 2025-09-25T18:44:13Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15586,14 +15586,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-25T09:22:42Z
+  Updated: 2025-09-25T19:22:43Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-25T09:22:42Z
+  Updated: 2025-09-25T19:22:44Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15694,14 +15694,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Trybike-Vintage-Bike-Bicycle-Basket-1.webp?v=1758505802
   Price: $64.95 NZD
 - [MUSHIE Silicone Place Mat - Lilac Flowers](https://www.littlebambinos.co.nz/products/mushie-silicone-place-mat-vanilla-confetti-copy): Keep your little one clean with this fun-loving silicone place mat. Made from food-grade silicone, these playful mats are BPA and phthalate free. Easy to clean, our silicone place mats resist stains and does not absorb water. Wash with soap.
-  Updated: 2025-09-25T05:42:50Z
+  Updated: 2025-09-25T19:27:21Z
   Vendor: Mushie
   Product Type: Place Mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SiliconePlaceMat_LilacFlowers.webp?v=1758770069
   Price: $34.50 NZD
 - [TOSHI Organic Baby Booties - Driftwood](https://www.littlebambinos.co.nz/products/toshi-organic-baby-booties-driftwood): The much loved Toshi Organic Baby Booties Marley Cream are made from the finest quality certified 100% organic cotton yarn. Organic certification ensures the booties are gentle on your babies delicate feet, as well as the environment. The beautifully-textured melange yarn brings an element of refinement to this Toshi baby accessory. Carefully crafted with a ribbed knit cuff, Toshi booties stay up while maintaining healthy circulation. Our booties are ankle height and are designed to protect precious tootsies during rest and play. Cute pom poms create a whimsical style and the ties ensure a snug fit. The colour of this pair of booties is Cream, a gender-neutral wardrobe essential.Â Toshi booties are packaged in a quality box and make an ideal newborn gift. Certified 100% Organic Cotton Yarn
-  Updated: 2025-09-25T04:53:47Z
+  Updated: 2025-09-25T17:05:26Z
   Vendor: Toshi
   Product Type: Booties
   Availability: Available
@@ -15812,7 +15812,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-25T15:43:13Z
+  Updated: 2025-09-25T19:43:12Z
   Total Products: 398
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16664,7 +16664,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-25T15:43:13Z
+  Updated: 2025-09-25T19:43:13Z
   Total Products: 1278
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-25T05:30:09Z
