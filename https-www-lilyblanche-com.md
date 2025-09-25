@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-25T04:00:44.688Z
+- Updated At: 2025-09-25T08:00:44.631Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3316,7 +3316,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Seahorse Locket in Silver | Summer Seashell Necklace | Lily Blanche](https://www.lilyblanche.com/products/seahorse-locket-silver): Cherish your memories with this lovely sterling silver seashell necklace which opens to take two photos and has a seahorse charm. The Seahorse Locket is the perfect holiday necklace. Use our speedy photo service for a unique gift. Now with free UK shipping & luxury gift wrap. Personalise this locket online today.
-  Updated: 2025-09-08T16:48:56Z
+  Updated: 2025-09-25T06:47:41Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16985,7 +16985,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-23T09:03:01Z
+  Updated: 2025-09-25T07:58:01Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17015,7 +17015,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [St Christopher Necklace  Solid Gold + Engraving](https://www.lilyblanche.com/products/st-christopher-necklace-gold): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a perfect gift for special birthdays. Personalise with engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-24T18:05:37Z
+  Updated: 2025-09-25T06:04:45Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
