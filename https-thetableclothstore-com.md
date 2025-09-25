@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-25T00:00:37.147Z
+- Updated At: 2025-09-25T04:00:37.805Z
 
 ## Products
 
@@ -33729,6 +33729,9 @@
     Author: User
   - [Eco-Friendly Tablecloth Materials You Should Consider](https://thetableclothstore.com/blogs/news/eco-friendly-tablecloth-materials-you-should-consider): Eco-Friendly Tablecloth Materials You Should Consider
     Updated: 2025-09-23T01:40:17Z
+    Author: User
+  - [Tablecloth Care Tips that Extend Their Lifespan](https://thetableclothstore.com/blogs/news/tablecloth-care-tips-that-extend-their-lifespan): Tablecloth Care Tips that Extend Their Lifespan
+    Updated: 2025-09-25T01:32:14Z
     Author: User
 
 ## Store Pages
