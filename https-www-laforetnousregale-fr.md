@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-08T12:12:14Z
 - Contact Email: contact@pacific-planet.com
-- Updated At: 2025-09-24T20:00:29.855Z
+- Updated At: 2025-09-25T20:00:29.480Z
 
 ## Products
 
@@ -82,8 +82,8 @@
   - [A3 (42 cm par 29.7 cm) / Non](https://www.laforetnousregale.fr/products/affiche-amandier?variant=54441017672024)
     Availability: Available
     Price: 10,50 € EUR
-- [Jeune plant de chêne à glands doux - Quercus Ilex Ballota](https://www.laforetnousregale.fr/products/chene-a-glands-doux-quercus-ilex-ballota): Jeune plant Bio de chêne ballote, utilisée dans la conception de jardins comestibles pour la consommation de ses glands en farine, ou grillés comme des châtaignes. Au Maroc, en Espagne ou en Grèce, on consomme encore les glands de chêne pour en faire du pain par exemple. La variété Ballota, représentée surtout dans le sud de l’Europe et en Algérie étaient aussi utilisée confits comme des marrons glacés et considérés con’e une friandise. On réalise aussi le café de glands doux avec les glands d’Espagne. Résistant à la sécheresse, longtemps cultivé pour l’alimentation humaine, c’est une arbre qu’il faut planter aussi chez vous ! Forêt comestible | Jardin forêt | Forêt nourricière | Agroforêt | Forêt jardin
-  Updated: 2025-09-24T10:37:13Z
+- [Jeune plant de chêne à glands doux - Quercus Ilex Ballota](https://www.laforetnousregale.fr/products/chene-a-glands-doux-quercus-ilex-ballota): Plant de Chêne à Glands Doux Bio - Le Trésor Méditerranéen de Votre Jardin Découvrez le Quercus ilex var. ballota, l'arbre aux glands comestibles qui révolutionnera votre approche de l'autonomie alimentaire ! 🌰 CARACTÉRISTIQUES TECHNIQUES Espèce : Quercus ilex var. ballota (Chêne vert à glands doux, Chêne ballote) Origine : Issu de semences certifiées de souches méditerranéennes, cultivé en pépinière européenne sans produits chimiques Taille et Format : Plant jeune de 40-60 cm, en pot de 3L, prêt à planter Croissance : Modérée les premières années, puis accélérée - jusqu'à 20 mètres à maturité Fructification : Production de glands doux dès 8-15 ans, récolte d'octobre à novembre Conditions de Culture : Sol bien drainé, pH neutre à calcaire, exposition ensoleillée à mi-ombre Rusticité : Excellent jusqu'à -17°C, résiste parfaitement à la sécheresse une fois établi Prix Indicatif : 22-35 € (selon quantité, réductions pour plantations agroforestières) Disponibilité : Livraison immédiate avec guide de plantation et recettes traditionnelles inclus BIENFAITS NUTRITIONNELS & CULINAIRES Bienfait Description Avantage Pratique Glands Naturellement Doux Contrairement aux autres chênes, pas de désamérisation nécessaire - prêts à consommer ! Gain de temps énorme : torréfiez et dégustez directement comme des châtaignes Richesse Nutritionnelle 387 kcal/100g, 6g protéines, riche en potassium, fer, vitamines B et E, antioxydants puissants Superaliment local gratuit - autonomie alimentaire et santé optimale Sans Gluten Naturel Farine de gland à indice glycémique bas, alternative saine aux céréales Parfait pour intolérances - pâtisseries et pains savoureux garantis Propriétés Anti-inflammatoires Plus de 60 composés végétaux bénéfiques : catéchines, resvératrol, quercétine Soutien naturel du système immunitaire et protection cellulaire Goût Exceptionnel Saveur de noisette/châtaigne, idéal grillé ou en farine Plaisir gustatif authentique - redécouvrez les saveurs d'antan ! 🌍 AVANTAGES ENVIRONNEMENTAUX MAJEURS Champion du Stockage Carbone : Cet arbre centenaire (jusqu'à 1000 ans !) absorbe massivement le CO₂ pendant des décennies, contribuant efficacement à la lutte climatique. Biodiversité Exceptionnelle : Refuge pour des centaines d'espèces d'insectes, oiseaux et petits mammifères. Ses glands nourrissent naturellement la faune sauvage locale. Résistance Climatique Exemplaire : Parfaitement adapté au réchauffement climatique, résiste à la sécheresse extrême et aux températures élevées - investissement durable garanti. Amélioration des Sols : Système racinaire profond qui améliore la structure du sol, limite l'érosion et enrichit la terre en matière organique. 🍂 IDÉES D'UTILISATION & PROJETS GOURMANDS Pour le Gastronome Autonome Glands Grillés : Récoltez et torréfiez pour un apéritif original aux saveurs de châtaigne Farine Artisanale : Broyez vos glands pour créer une farine sans gluten unique en son genre Pâtisserie Créative : Biscuits, gâteaux et pains aux saveurs authentiques et nutritives Recette Traditionnelle : Glands Torréfiés à l'Espagnole Ingrédients : 500g de glands ballota frais, 1 pincée de sel de mer, 1 c.à.s. d'huile d'olive (optionnel)Préparation : Incisez les glands dans la longueur Torréfiez 15-20 min à la poêle sans matière grasse en remuant Épluchez tant qu'ils sont chauds (la coque se détache facilement !) Dégustez nature ou avec une pointe de sel Astuce : Parfait pour l'apéritif entre amis - authentique et surprenant ! Recette Gourmet : Farine de Glands Maison Méthode Express : Torréfiez 1kg de glands épluchés au four à 180°C pendant 30 min Broyez au mixeur jusqu'à obtenir une farine fine Conservez en bocal hermétique (6 mois) Utilisez pour 30% de vos préparations pâtissières 📋 PLANTATION & AGROFORESTERIE Intégration Agroforestière Idéale Association Fruitiers : Parfait compagnon des oliviers, amandiers et vignes - crée un microclimat favorable Haie Brise-vent : Protection naturelle des cultures sensibles, effet coupe-vent remarquable Pâturage Ombragé : Ombre bénéfique pour le bétail, glands nutritifs pour les porcs (tradition ibérique !) Plantation Optimisée Période : Automne idéal (octobre-décembre), possible jusqu'en avril hors gel Sol : S'adapte à tous types sauf sols gorgés d'eau - préfère les terrains drainés Espacement : 10-12 mètres entre sujets pour développement optimal Exposition : Plein soleil de préférence, tolère la mi-ombre Entretien Minimal Arrosage : Suivi les 2 premières années, puis totalement autonome Taille : Aucune nécessaire - port naturellement harmonieux Fertilisation : Inutile - l'arbre s'adapte aux sols pauvres Maladies : Très résistant, aucun traitement requis 🏆 POURQUOI CHOISIR NOTRE CHÊNE BALLOTA ? Rentabilité Alimentaire Unique : Seul chêne aux glands directement comestibles - économisez sur vos achats de fruits à coque tout en créant une ressource alimentaire pérenne Héritage Familial : Investissement transgénérationnel - vos descendants profiteront de cet arbre centenaire producteur de nourriture gratuite Adaptation Climatique : Face au changement climatique, misez sur une essence méditerranéenne éprouvée, parfaitement adaptée aux étés chauds et secs Biodiversité Garantie : Contribuez concrètement à la préservation des écosystèmes locaux tout en produisant votre alimentation Différenciation Unique : Impressionnez vos invités avec des glands grillés maison - conversation et dégustation mémorables assurées ! 🌱 BÉNÉFICES AGROFORESTIERS PROUVÉS Amélioration des Rendements : En système agroforestier, l'association avec ce chêne peut améliorer la productivité des cultures de 10-20% grâce au microclimat créé. Séquestration Carbone Massive : Un seul arbre mature peut stocker plusieurs tonnes de CO₂ sur sa durée de vie, éligible aux crédits carbone. Régulation Hydrique : Ses racines profondes remontent l'eau pour les cultures environnantes et limitent l'évaporation du sol. Protection des Cultures : Effet brise-vent naturel, modération des températures extrêmes, réduction du stress hydrique des cultures associées. 🚚 COMMANDEZ VOTRE TRÉSOR MÉDITERRANÉEN ! OFFRE DÉCOUVERTE : Guide de recettes traditionnelles + échantillon de glands torréfiés offerts pour toute première commande ! Livraison Express : Expédition sous 48h en emballage fraîcheur spécialisé Garantie Reprise : Plant remplacé gratuitement si échec de plantation (conditions normales) Support Expert : Accompagnement personnalisé pour intégration agroforestière optimale Plant certifié origine méditerranéenne authentique - Cultivé selon les principes de l'agriculture biologique - Traçabilité garantie Créez dès aujourd'hui votre forêt comestible - Votre chêne à glands doux vous attend ! Sources scientifiques utilisées : Données botaniques INPN, études nutritionnelles université de Valence, recherches INRAE sur l'agroforesterie méditerranéenne, analyses ethnobotaniques traditionnelles ibériques. Forêt comestible | Jardins forestiers | Forêt nourricière | Agroforêt | Forêt-jardin
+  Updated: 2025-09-25T14:08:17Z
   Vendor: La forêt nous régale
   Product Type: 
   Availability: Available
@@ -129,12 +129,25 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Formation_09d41b66-90c9-47a4-9b07-b4997f4a419e.jpg?v=1758710067
   Price: 0,00 € EUR
+- [Transformez votre espace en refuge créatif et écologique](https://www.laforetnousregale.fr/products/plant-saule-des-vanniers): Arrosage : Régulier la première année, puis résistant à la sécheresse
+Taille : Recépage hivernal pour production d'osier (tous les 1-2 ans)
+Fertilisation : Compost au printemps, aucun produit chimique nécessaire
+Multiplication : Bouturage ultra-facile - taux de réussite proche de 100% !
+  Updated: 2025-09-25T13:57:56Z
+  Vendor: La forêt nous régale
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0892/5052/9624/files/Plant_de_Saule_des_Vanniers_Bio-2.png?v=1758808208
+  Price: 6,00 € EUR
 
 ## Collections
 
 - [Produits Bio Forêt Française Saison 2024 - Champignons Fruits Sauvages - La Forêt Nous Régale](https://www.laforetnousregale.fr/collections/produits-saisons-bio-foret-francaise): 🌲 Produits bio de saison : champignons frais, fruits sauvages, plantes aromatiques de forêt française. Récolte responsable, fraîcheur garantie. Livraison France.
   Updated: 2025-09-24T10:37:13Z
   Total Products: 4
+- [Plants Vedettes Bio - Saule, Théier, Chêne | La forêt nous régale](https://www.laforetnousregale.fr/collections/plants-vedettes): Découvrez notre sélection de plants vedettes : saule des vanniers, théier bio et chêne à glands doux. Plants de qualité issus d'agroforesterie durable.
+  Updated: 2025-09-25T14:08:57Z
+  Total Products: 3
 
 ## Blogs
 
@@ -747,6 +760,9 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
     Updated: 2025-09-24T09:41:42Z
     Author: Équipe Pacific Planet
     Tags: agroforesterie, alimentation durable, Bio, Découvertes, épicéa, Jardin Forêt, maison, original, plante médicinale, poudre de feuilles de figuier, recette, remède naturel, santé, sirop, Vente
+  - [Journée Mondiale des Sols 2024](https://www.laforetnousregale.fr/blogs/infos/journee-mondiale-des-sols-2024): <p><meta charset="utf-8"><i><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La Journée mondiale des sols 2024, célébrée sous le thème "Mesurer, surveiller, gérer", a mis en lumière le rôle fondamental de l'agroforesterie</span></span></i></p>
+    Updated: 2025-09-25T13:05:53Z
+    Author: Équipe Pacific Planet
 
 ## Store Pages
 
@@ -760,6 +776,18 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
   Updated: 2025-09-06T23:12:20Z
 - [FAQ](https://www.laforetnousregale.fr/pages/faq): Quels types de produits proposez-vous ? Ah, la crème de la crème des délices forestiers ! Nous avons une sélection de produits naturels et bio, com...
   Updated: 2025-09-11T16:46:04Z
+- [PIPEDA Privacy Policy](https://www.laforetnousregale.fr/pages/pipeda-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2025-09-25T14:41:20Z
+- [APPI Privacy Policy](https://www.laforetnousregale.fr/pages/appi-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2025-09-25T14:41:20Z
+- [LGPD Privacy Policy](https://www.laforetnousregale.fr/pages/lgpd-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2025-09-25T14:41:20Z
+- [CCPA Privacy Policy](https://www.laforetnousregale.fr/pages/ccpa-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2025-09-25T14:41:20Z
+- [GDPR Privacy Policy](https://www.laforetnousregale.fr/pages/gdpr-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
+  Updated: 2025-09-25T14:41:20Z
+- [GDPR](https://www.laforetnousregale.fr/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
+  Updated: 2025-09-25T14:45:42Z
 
 ## Policies
 
