@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-25T04:00:30.829Z
+- Updated At: 2025-09-25T05:31:21.638Z
 
 ## Products
 
@@ -2712,6 +2712,10 @@ Geschenkgutschein von PAT&PATTY
   - [Nachhaltige Spielzeughersteller im Vergleich](https://patundpatty.de/blogs/news/nachhaltige-spielzeughersteller-im-vergleich): Nachhaltige Spielzeughersteller im Vergleich
     Updated: 2025-09-24T10:07:34Z
     Author: Sharon Engel
+  - [Warum besteht Bio-Spielzeug 2025? Eine umfassende Erklärung](https://patundpatty.de/blogs/news/warum-besteht-bio-spielzeug-2025): Entdecken Sie, warum besteht Bio-Spielzeug 2025 wichtig ist und welche Vorteile es für Kinder und Umwelt bietet.
+    Updated: 2025-09-25T04:29:01Z
+    Author: Sharon
+    Tags: warum besteht bio-spielzeug 2025
 
 ## Store Pages
 
