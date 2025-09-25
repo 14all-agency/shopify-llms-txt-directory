@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-25T08:00:36.206Z
+- Updated At: 2025-09-25T12:00:35.878Z
 
 ## Products
 
@@ -2104,7 +2104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-20-24-28cm-Skillet-Triple-Pack-9.jpg?v=1731903350
   Price: $429.99 NZD
 - [Essteele Per Salute - 20/28cm Skillet Twin Pack](https://everydayhome.co.nz/products/essteele-per-salute-20-28cm-skillet-twin-pack): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This nonstick skillet twin pack combines two of the most popular sizes so that you can create side dishes and family meals.
-  Updated: 2025-09-23T12:36:22Z
+  Updated: 2025-09-25T09:37:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2160,7 +2160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-28cm-4L-Covered-Sauteuse-Esste-5.jpg?v=1731902195
   Price: $289.99 NZD
 - [Essteele Per Salute - 30cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-salute-30cm-open-french-skillet): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This 30cm nonstick skillet is perfect for cooking meat or fish, vegetables and family meals.
-  Updated: 2025-09-23T12:36:26Z
+  Updated: 2025-09-25T09:37:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2384,7 +2384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Wall-Mirror-61cm-Black-UMBRA-3.png?v=1731903449
   Price: $179.99 NZD
 - [Umbra Leana Ladder - Black](https://everydayhome.co.nz/products/leana-ladder-rack-black): Both decorative and functional, Leana Ladder features solid wood posts and 4 metal bars, providing you room to store blankets, clothes, towels and more. Easy to assemble, Leana provides a modern storage solution that can be used in a variety of rooms in your home. With a solid wood construction and powder-coated steel, this innovative storage solution is the ideal towel rack, blanket rack, or clothing organizer.
-  Updated: 2025-09-25T00:52:15Z
+  Updated: 2025-09-25T08:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
