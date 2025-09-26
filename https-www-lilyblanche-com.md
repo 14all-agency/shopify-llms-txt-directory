@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-26T12:00:46.159Z
+- Updated At: 2025-09-26T16:00:45.926Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16913,7 +16913,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-26T09:46:01Z
+  Updated: 2025-09-26T12:46:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19053,7 +19053,7 @@ From £119
   Price: £65.00 GBP
 - [Men's St Christopher Necklace 9ct Gold | Free Engraving & UK Delivery](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold): Discover our handcrafted men's 9ct solid gold St Christopher necklace with free personalised engraving. UK hallmarked octagonal design, perfect for travellers. Free UK delivery, 4.9★ rated. Award-winning British jewellery.
 £315
-  Updated: 2025-09-24T18:21:48Z
+  Updated: 2025-09-26T14:21:51Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
