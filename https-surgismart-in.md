@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-25T20:00:31.309Z
+- Updated At: 2025-09-26T04:00:31.652Z
 
 ## Products
 
@@ -2712,7 +2712,7 @@
     Availability: Available
     Price: ₹3,767.00 INR
 - [Buy ​RESQ Manual Resuscitator Bag - Surgismart](https://surgismart.in/products/resq-bag-re-usablegs-2050): Resq Bag kit consists of a TPE Manual Resuscitator, Multichannel Kink Resistant Oxygen Tubing, Reservoir Bag and Inflatable Mask. Resuscitator supports bag re-expansion property. Pressure limiting valve ensures crucial adjustments for enhanced performance. Presence of 360° swivel joint between patient valve and face mask and facilitates ease of maneuverability to interface with the patient’s posture. Pack Contains: Silicone Resuscitator Bag (Autoclavable), Silicone Mask (Autoclavable), Oxygen Tubing and Reservoir Bag Box of 1/Master Box of 10. Product Specifications: Brand Romsons Generic Name Manual Resuscitator with Accessories Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265205029 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:46Z
+  Updated: 2025-09-26T02:46:47Z
   Vendor: Romsons
   Product Type: RESQ Bag
   Availability: Available
