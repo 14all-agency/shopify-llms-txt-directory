@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-26T08:00:30.701Z
+- Updated At: 2025-09-26T12:00:30.858Z
 
 ## Products
 
@@ -99,13 +99,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Pferd_-_PAT_PATTY-naturweiss-plush.jpg?v=1757436566
     Price: 63,90 € EUR
 - [Bio Kuscheltier Einhorn XXL – Nachhaltig & handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-einhorn): Entdecke das große Bio Kuscheltier Einhorn mit Hirsefüllung – handgefertigt in Deutschland, plastikfrei und perfekt zum Kuscheln, Spielen & Schlafen.
-  Updated: 2025-09-23T19:05:31Z
+  Updated: 2025-09-26T10:32:25Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Einhorn_-_PAT_PATTY-4830089.jpg?v=1751448942
   - [Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-einhorn?variant=45297403887884)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Einhorn_-_PAT_PATTY-4830089.jpg?v=1751448942
     Price: 60,90 € EUR
   - [Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-einhorn?variant=45297403920652)
@@ -1806,7 +1806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Rassel-Eule-Geschlechtsneutrales-Babyspielzeug-Naturinspiriert-Von-PAT-Und-PATTY.jpg?v=1752307653
     Price: 26,50 € EUR
 - [Bio Rassel Einhorn – handgemacht & nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-rassel-einhorn): Handgefertigte Bio Rassel Einhorn für Babys. Nachhaltig, weich, sicher. Fördert Sinne und motorische Entwicklung. Perfektes Geschenk zur Geburt.
-  Updated: 2025-09-19T06:30:22Z
+  Updated: 2025-09-26T10:32:28Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2221,30 +2221,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kinderdecke-Froschkoenig-Baumwolle-PAT-UND-PATTY.jpg?v=1752046054
     Price: 69,00 € EUR
-- [Bio Baumwolle Langarmshirt mit Ziege Applikation | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-langarmshirt): Wunderschönes Bio-Langarmshirt „Ziege“ aus 100 % Baumwolle (Feinripp), rot-weiß gestreift – hautfreundlich, nachhaltig & bequem. Jetzt online kaufen!
-  Updated: 2025-09-21T10:16:32Z
+- [Bio Baumwolle Langarmshirt mit Ziege Applikation für Kinder](https://patundpatty.de/products/bio-baumwolle-langarmshirt-ziege): Bio-Langarmshirt „Ziege“ von PAT & PATTY: aus 100 % Baumwolle, rot-weiß gestreift, weich, hautfreundlich, nachhaltig und bequem – ideal für Kinder jeden Alters.
+  Updated: 2025-09-26T11:49:42Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Ziege-Kinderkleidung-PAT-UND-PATTY.jpg?v=1752045782
-  - [Gr.74/80](https://patundpatty.de/products/bio-baumwolle-langarmshirt?variant=45595848573196)
+  - [Gr.74/80](https://patundpatty.de/products/bio-baumwolle-langarmshirt-ziege?variant=45595848573196)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Ziege-Vorderansicht-PAT-UND-PATTY.jpg?v=1752045841
     Price: 19,95 € EUR
-  - [Gr.86/92](https://patundpatty.de/products/bio-baumwolle-langarmshirt?variant=45595848605964)
+  - [Gr.86/92](https://patundpatty.de/products/bio-baumwolle-langarmshirt-ziege?variant=45595848605964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Ziege-verpackt-oder-gefaltet-PAT-UND-PATTY.jpg?v=1752045997
     Price: 19,95 € EUR
-  - [Gr.98/104](https://patundpatty.de/products/bio-baumwolle-langarmshirt?variant=45595848638732)
+  - [Gr.98/104](https://patundpatty.de/products/bio-baumwolle-langarmshirt-ziege?variant=45595848638732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Ziege-Nahaufnahme-PAT-UND-PATTY.jpg?v=1752045946
     Price: 19,95 € EUR
-  - [Gr.110/116](https://patundpatty.de/products/bio-baumwolle-langarmshirt?variant=45595848671500)
+  - [Gr.110/116](https://patundpatty.de/products/bio-baumwolle-langarmshirt-ziege?variant=45595848671500)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Ziege-Vorderansicht-PAT-UND-PATTY.jpg?v=1752045841
     Price: 19,95 € EUR
-- [Gestreiftes Bio Shirt mit Hund für Kinder | PAT & PATTY](https://patundpatty.de/products/bio-langarmshirt-hund): Kuscheliges Bio Langarmshirt aus Baumwolle in Blau/Weiß mit Hund-Motiv – weich, waschbar und nachhaltig. Ideal für Babys & Kleinkinder. Jetzt kaufen!
-  Updated: 2025-09-21T10:16:32Z
+- [Gestreiftes Bio Shirt Hund – Kinder Langarmshirt kbA Baumwolle](https://patundpatty.de/products/bio-langarmshirt-hund): Gestreiftes Bio-Kinderlangarmshirt „Hund“ von PAT & PATTY: aus 100 % kbA-Baumwolle, weich, waschbar, nachhaltig und bequem – ideal für Babys und Kleinkinder.
+  Updated: 2025-09-26T11:34:58Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2265,8 +2265,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Hund-Detailaufnahme-PAT-UND-PATTY.jpg?v=1751987086
     Price: 19,95 € EUR
-- [Bio Langarmshirt "Alpaka" 100 % Baumwolle kbA | PAT & PATTY](https://patundpatty.de/products/bio-langarmshirt-alpaka): Bio Langarmshirt „Alpaka“ aus 100 % Baumwolle (kbA), weich, hautfreundlich & nachhaltig – ideal für Kinder. Jetzt bei PAT & PATTY entdecken und bestellen!
-  Updated: 2025-09-21T10:16:32Z
+- [Bio Langarmshirt Alpaka 100% Baumwolle kbA nachhaltig & fair](https://patundpatty.de/products/bio-langarmshirt-alpaka): Bio Langarmshirt „Alpaka“ von PAT & PATTY: aus 100 % Baumwolle (kbA), weich, hautfreundlich, fair & nachhaltig gefertigt – ideal für Kinder, bequem & zeitlos.
+  Updated: 2025-09-26T11:24:05Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2287,8 +2287,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Langarmshirt-Alpaka-Kinder-PAT-UND-PATTY.jpg?v=1751962530
     Price: 19,95 € EUR
-- [Bio Kuscheltier-Kuschelkissen Pferdekopf – handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-kuschelkissen-pferdekopf): Bio Kuschelkissen Pferdekopf aus Bio-Baumwollplüsch – weich, handgemacht und waschbar. Perfekt zum Kuscheln, Spielen & Träumen. Jetzt bei Pat & Patty entdecken.
-  Updated: 2025-08-27T14:25:19Z
+- [Bio Kuscheltier Kuschelkissen Pferdekopf handgemacht nachhaltig](https://patundpatty.de/products/bio-kuscheltier-kuschelkissen-pferdekopf): Bio Kuschelkissen Pferdekopf aus Bio-Baumwollplüsch – weich, handgemacht und waschbar. Perfekt zum Kuscheln, Spielen & Träumen. Jetzt bei Pat & Patty entdecken.
+  Updated: 2025-09-26T10:47:47Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2303,15 +2303,14 @@
     Price: 44,50 € EUR
   - [beige](https://patundpatty.de/products/bio-kuscheltier-kuschelkissen-pferdekopf?variant=45678519124236)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Kuschelkissen-Pferdekopf-PAT-_-PATTY-64839274.jpg?v=1742036433
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Kuschelkissen-Pferdekopf-PAT-Und-PATTY.jpg?v=1758883524
     Price: 44,50 € EUR
   - [naturweiß](https://patundpatty.de/products/bio-kuscheltier-kuschelkissen-pferdekopf?variant=45678519157004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Pferdekopf-Variante-2-Pat-Und-Patty.jpg?v=1751892884
     Price: 44,50 € EUR
-- [Geschenkgutschein von PAT&PATTY Bio-Produkte, die in Deutschland handg](https://patundpatty.de/products/geschenkgutschein-von-pat-patty): Bei PAT & PATTY Geschenkgutscheine erwerben. Dieses perfekte Geschenk für nachhaltige und hochwertige Bio-Produkte.
-Geschenkgutschein von PAT&PATTY
-  Updated: 2025-08-21T13:22:18Z
+- [Geschenkgutschein Bio-Produkte nachhaltig in Deutschland](https://patundpatty.de/products/geschenkgutschein-von-pat-patty): Verschenke Freude mit einem PAT & PATTY Geschenkgutschein: nachhaltig, flexibel einlösbar und ideal für hochwertige Bio-Produkte, handgemacht in Deutschland.
+  Updated: 2025-09-26T10:36:09Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2336,8 +2335,8 @@ Geschenkgutschein von PAT&PATTY
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Geschenkgutschein_pat-und-patty-nachhaltig-fuer-kinderprodukte.jpg?v=1751452367
     Price: 200,00 € EUR
-- [Bio Kuscheltier Ente Pofie – Weiches Kuscheltier | PAT &  PATTY](https://patundpatty.de/products/bio-kuscheltier-ente-pofie): Bio Kuscheltier Ente Pofie aus Bio-Baumwolle – weich, nachhaltig & perfekt zum Kuscheln. Jetzt bei Pat & Patty kaufen – ein liebevoll handgemachtes Kuscheltier.
-  Updated: 2025-09-21T10:16:32Z
+- [Bio Kuscheltier Ente Pofie weich & kuschelig aus Naturstoffen](https://patundpatty.de/products/bio-kuscheltier-ente-pofie): Bio Kuscheltier Ente Pofie aus Bio-Baumwolle – weich, nachhaltig & perfekt zum Kuscheln. Jetzt bei Pat & Patty kaufen – ein liebevoll handgemachtes Kuscheltier.
+  Updated: 2025-09-26T10:29:37Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2465,13 +2464,13 @@ Geschenkgutschein von PAT&PATTY
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-09-24T11:20:35Z
+  Updated: 2025-09-26T11:21:52Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-25T11:21:18Z
   Total Products: 21
 - [Bio Wärmekissen für Kinder in Tierform – PAT & PATTY ❤️](https://patundpatty.de/collections/waermekissen): Entdecke handgemachte Bio-Wärmekissen mit Tiermotiven. GOTS-zertifiziert, nachhaltig & handmade bei PAT & PATTY!
-  Updated: 2025-09-18T18:24:30Z
+  Updated: 2025-09-26T11:21:52Z
   Total Products: 19
 - [Bio Lavendelkissen mit natürlichem Duft | PAT & PATTY](https://patundpatty.de/collections/bio-mini-lavendelkissen): Entdecke das bio Lavendelkissen von PAT & PATTY – natürlich, handgefertigt und mit beruhigendem Duft für entspannte Nächte. Nachhaltig & schadstofffrei.
   Updated: 2025-09-24T11:20:35Z
@@ -2480,16 +2479,16 @@ Geschenkgutschein von PAT&PATTY
   Updated: 2025-09-22T11:19:45Z
   Total Products: 12
 - [Meistverkaufte Produkte von Pat & Patty - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-09-25T09:17:14Z
+  Updated: 2025-09-26T11:21:52Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
   Updated: 2025-09-23T11:23:23Z
   Total Products: 21
 - [Bio Rasseln & Greiflinge - Natürliche Baumwolle für Babys| Pat & Patty](https://patundpatty.de/collections/rasseln-greiflinge): Weiche Rasseln & Greiflinge aus Bio-Baumwolle – schadstofffrei, handgemacht & ideal für kleine Hände. Jetzt entdecken und bestellen bei PAT & PATTY!
-  Updated: 2025-09-24T11:20:35Z
+  Updated: 2025-09-26T11:21:52Z
   Total Products: 15
 - [Bio Mini Rasseln & Greiflinge – Sicher & Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/mini-bio-rasseln-und-greiflinge): Entdecke bio Mini Rasseln & Greiflinge von PAT & PATTY – nachhaltig, schadstofffrei und besonders sanft zur Babyhaut. Perfekt für gesunde Entwicklung und Spaß!
-  Updated: 2025-09-16T12:01:31Z
+  Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
   Updated: 2025-09-25T11:21:18Z
@@ -2513,7 +2512,7 @@ Geschenkgutschein von PAT&PATTY
   Updated: 2025-09-08T11:21:28Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-09-25T11:21:18Z
+  Updated: 2025-09-26T11:21:52Z
   Total Products: 53
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
@@ -2720,6 +2719,9 @@ Geschenkgutschein von PAT&PATTY
     Updated: 2025-09-26T07:12:34Z
     Author: Sharon
     Tags: warum spielzeug aus deutschland
+  - [Lernspielzeuge die Kinder wirklich weiterbringen](https://patundpatty.de/blogs/news/lernspielzeuge-die-kinder-wirklich-weiterbringen): Lernspielzeuge die Kinder wirklich weiterbringen
+    Updated: 2025-09-26T10:06:03Z
+    Author: Sharon Engel
 
 ## Store Pages
 
