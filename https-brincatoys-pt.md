@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-25T20:01:03.356Z
+- Updated At: 2025-09-26T00:01:06.057Z
 
 ## Products
 
@@ -2687,7 +2687,7 @@ Tasmânia.Vive em águas superficiais junto a bancos de algas e a pradarias de e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/elena-de-avalor-mateo-231325217-brincatoys-1178693525.jpg?v=1752840135
   Price: 7,50 € EUR
 - [Elena de Avalor -Skylar-](https://brincatoys.pt/products/elena-de-avalor-skylar): Figura em borracha termoplástica da série Elena de Avalor.
-  Updated: 2025-08-21T00:16:22Z
+  Updated: 2025-09-25T23:32:23Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -3311,7 +3311,7 @@ recoberto por pele.As girafas bebês podem ter até 2,10 metros de altura e pesa
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/girafa-sofia-101640022-3056566164004-girafa-sofia-1178693700.jpg?v=1752843254
   Price: 21,90 € EUR
 - [Conjunto Girafa Sofia + Chucha | Brinquedo Sensorial](https://brincatoys.pt/products/conjunto-girafa-sofia-chucha): Descubra o Conjunto Girafa Sofia + Chucha, o presente ideal para bebés. Brinquedo sensorial e chucha em forma de girafa, seguros e naturais.
-  Updated: 2025-09-17T16:06:53Z
+  Updated: 2025-09-25T22:02:05Z
   Vendor: Girafa Sofia
   Product Type: + 0 meses
   Availability: Available
@@ -14082,7 +14082,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jaguar-xkr-s-682106323-bburago-1178697899.jpg?v=1752916203
   Price: 23,99 € EUR
 - [Carro de Brincar Land Rover Defender 2022 à Escala 1:24](https://brincatoys.pt/products/land-rover-defender-2022): Com o carro de brincar Land Rover Defender 2022 traga aventura e precisão para a sua coleção de brinquedos. Modelo retrata a essência da Land Rover.
-  Updated: 2025-09-18T12:50:55Z
+  Updated: 2025-09-25T22:59:59Z
   Vendor: Bburago
   Product Type: Bburago
   Availability: Available
@@ -15174,7 +15174,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bolsa-de-pescoco-dinossauros-492152524-brincatoys-1178698755.jpg?v=1752931568
   Price: 16,50 € EUR
 - [Meias chocalho burro](https://brincatoys.pt/products/meias-chocalho-burro): Descubra o encanto e a praticidade com as encantadoras meias chocalho burro, desenhadas especialmente para aquecer e entreter os pequeninos! Fabricadas com uma mistura suave de algodão, poliéster e elastano, estas meias são o equilíbrio perfeito entre conforto e durabilidade. Com um design alegre e colorido, as riscas azuis e brancas, estas meias chocalho burro são complementadas por delicados apontamentos em vermelho e os protagonistas destas meias - adoráveis são duas carinhas de burro, que se destacam em 3D na parte frontal. Além de simpáticas e adoráveis, as meias incluem um elemento surpresa: chocalhos embutidos que encantam com sons suaves a cada passo do bebê, estimulando assim a coordenação motora e a percepção auditiva. Pensadas para a segurança, a sola conta com inserções antiderrapantes para prevenir escorregões, tornando-as ideais para bebês que estão a aprender a explorar o mundo ao seu redor. Além do mais, leves e fáceis de colocar, as meias chocalho burro prometem ser um acessório indispensável no dia a dia do seu bebé. Ademais, podem ser lavadas à máquina, resistindo a várias lavagens sem perder a forma ou a cor. São adequadas desde os recém-nascidos até aos mais aventureiros exploradores de sala. Além do uso prático, estas meias chocalho burro são também um presente original e pensativo para qualquer chá de bebê ou aniversário infantil. Por outro lado, estas meias fofinhas e macias com chocalho de um adorável burro despertam a curiosidade das crianças e promovem de forma divertida as habilidades motoras. Com apliques e bordados, forrado com tecido atoalhado. Oeko-Tex Standard 100. Tamanho único (2-12 meses). Lave a 30 graus. Em suma... Confortáveis e macias graças à sua composição têxtil. Seguras, com solas antiderrapantes. Estimulantes, com chocalhos que despertam a curiosidade. Duráveis, suportando lavagens frequentes. Perfeitas para presentear, vindo com um design adorável em cada par. Dimensão: 12 x 15 x 1 cm. Idade recomendada: + de 0 meses.
-  Updated: 2025-09-25T15:41:46Z
+  Updated: 2025-09-25T22:02:02Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -17414,7 +17414,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-ariel-mar-e-terra-boneca-disney-transformavel-772338024-0192995233805-princesas-disney-1178700600.jpg?v=1752958442
   Price: 29,99 € EUR
 - [Rebecca Rabbit Estilos Divertidos | Conjunto Peppa Pig](https://brincatoys.pt/products/rebecca-rabbit-estilos-divertidos): Descubra o conjunto Rebecca Rabbit Estilos Divertidos da Peppa Pig. Figura articulada e acessórios para estimular a criatividade das crianças.
-  Updated: 2025-09-25T13:40:03Z
+  Updated: 2025-09-25T21:34:59Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -17603,7 +17603,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-equilibrio-da-baleia-feliz-educativo-e-divertido-26771624-3048700077165-brincatoys-1178700748.jpg?v=1752960605
   Price: 20,90 € EUR
 - [Monster Jam - Venom vs Spiderman: O Confronto Épico](https://brincatoys.pt/products/monster-jam-venom-vs-spiderman): Prepare-se para uma batalha épica! O conjunto Monster Jam - Venom vs Spiderman traz a força dos monster trucks e o fascínio da Marvel direto para sua casa.
-  Updated: 2025-09-21T09:36:56Z
+  Updated: 2025-09-25T20:36:16Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18023,7 +18023,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-littles-opal-raine-a-boneca-encantadora-773120324-0035051531203-rainbow-high-1178701076.jpg?v=1752784696
   Price: 17,99 € EUR
 - [Carro de brincar Lamborghini Sian FKP 37 verde](https://brincatoys.pt/products/lamborghini-sian-fkp-37-verde): Para os apaixonados por carros desportivos, o carro de brincar Lamborghini Sian FKP 37 em verde é o presente perfeito. Réplica em escala 1:24.
-  Updated: 2025-09-25T09:57:52Z
+  Updated: 2025-09-25T20:36:21Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -18912,7 +18912,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75402-arc-170-starfighter-para-fas-667540225-5702017817460-lego-1178701669.jpg?v=1752781208
   Price: 69,90 € EUR
 - [Lego Sonic 77001 Confronto no Acampamento do Sonic: Ação](https://brincatoys.pt/products/lego-sonic-77001-confronto-no-acampamento-do-sonic): Revive momentos emocionantes com o Lego Sonic 77001 Confronto no Acampamento do Sonic! Diversão garantida para crianças a partir dos 7 anos!
-  Updated: 2025-09-23T18:58:27Z
+  Updated: 2025-09-26T00:00:50Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -20228,7 +20228,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-camiao-mack-transformavel-a-oficina-magica-770204225-0194735020423-cars-1192185564.jpg?v=1757497808
   Price: 39,99 € EUR
 - [Lamborghini Revuelto Amarelo 1/18: Miniatura Detalhada](https://brincatoys.pt/products/lamborghini-revuelto-amarelo-1-18): Dê aos pequenos uma experiência única com o carro de brincar Lamborghini Revuelto Amarelo 1/18 – qualidade e detalhe surpreendentes numa só miniatura!
-  Updated: 2025-09-25T09:44:40Z
+  Updated: 2025-09-25T21:44:44Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -20290,6 +20290,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-hello-kitty-com-vestido-vermelho-super-macio-232061525-8052780426152-brincatoys-1194712958.jpg?v=1758829807
   Price: 24,90 € EUR
+- [Jogo Operação](https://brincatoys.pt/products/jogo-de-tabuleiro-operacao): Transforma qualquer tarde numa consulta divertida! Em primeiro lugar, o Jogo de tabuleiro Operação desafia as crianças a retirar “doenças” do paciente sem tocar nas bordas, estimulando a coordenação motora fina, a concentração e o autocontrolo. Além disso, promove o jogo em família e o trabalho em equipa, porque todos querem ouvir menos “bzzzt” e mais aplausos! Do mesmo modo, a nova edição portátil abre como uma mala, guarda todas as peças e joga-se em qualquer lugar. Inclui pinça condutora, compartimento para cartas, luzes e sons, bem como um temporizador digital para aumentar a emoção. Igualmente, nesta edição do jogo Operação, podes escolher entre 2 formas de jogar: a jogabilidade clássica no modo Hospital ou um frenesim de cortar a respiração no modo Emergência. No modo Hospital, os pequenos médicos compram cartas de curativos para doenças malucas. O suspense aumenta à medida que tentam manter as mãos firmes enquanto operam o Sam Cavidade ou - BZZZT! - o seu nariz vermelho ilumina-se! No modo Emergência, a corrida é para remover o maior número possível de doenças antes que o tempo acabe. Mas, ups! Se a pinça bater de lado, o Sam da Cavidade arrota, grita e faz outros sons histéricos que deixam as crianças a rir! Em ambos os modos, quem remover o maior número de doenças ganha - e "cura" o seu paciente. Este adorável jogo vem numa mala de transporte tudo-em-um com arrumação, por isso é um ótimo jogo de viagem para as crianças brincarem em qualquer altura e em qualquer lugar. Porque é que os pais adoram? Primeiro, o Jogo de tabuleiro Operação desenvolve destreza e atenção seletiva. Depois, treina a paciência, ensina a lidar com a frustração e cria momentos de partilha sem ecrãs. Ademais, é um clássico intemporal que passa de irmãos para irmãos, oferecendo uma excelente relação qualidade-preço. Por fim, diverte-te, aprende e ri com um jogo que nunca passa de moda – perfeito para presentes, festas e tardes de fim-de-semana! Compatível com regras simples de pontuação, permite adaptar a dificuldade a cada idade e grupo facilmente. Em suma... Alimentação: 3x AA/LR6 1,5 V (não incluídas) Edição portátil com arrumação interna Luzes, sons e temporizador para jogos mais emocionantes Inclui 13 peças e cartas de missão Dimensão: 26,50 x 27 x 4,20 cm.Idade recomendada.: + de 6 anos.
+  Updated: 2025-09-25T22:34:48Z
+  Vendor: Brincatoys
+  Product Type: + 6 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-operacao-77095125-5010996307682-brincatoys-1194724235.jpg?v=1758837117
+  Price: 32,50 € EUR
 
 ## Collections
 
@@ -20312,7 +20319,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T13:57:20Z
   Total Products: 27
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-09-25T18:48:17Z
+  Updated: 2025-09-25T22:27:29Z
   Total Products: 185
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-09-23T18:58:52Z
@@ -20417,8 +20424,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T14:47:52Z
   Total Products: 204
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-09-25T19:59:09Z
-  Total Products: 161
+  Updated: 2025-09-25T23:12:29Z
+  Total Products: 162
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-09-24T21:42:38Z
   Total Products: 111
@@ -20444,7 +20451,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T18:37:11Z
   Total Products: 327
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-25T14:43:15Z
+  Updated: 2025-09-25T22:47:23Z
   Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-24T12:50:15Z
@@ -20465,25 +20472,25 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T13:57:20Z
   Total Products: 1337
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-25T18:45:47Z
+  Updated: 2025-09-25T23:00:29Z
   Total Products: 2435
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-25T19:53:35Z
+  Updated: 2025-09-25T23:00:29Z
   Total Products: 2888
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3272
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3397
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3475
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3523
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-25T19:59:09Z
+  Updated: 2025-09-25T22:34:50Z
   Total Products: 357
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
@@ -20672,10 +20679,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3538
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-09-25T18:48:17Z
+  Updated: 2025-09-25T22:27:29Z
   Total Products: 284
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-09-25T13:09:51Z
@@ -20693,7 +20700,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:24Z
   Total Products: 135
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T22:27:29Z
   Total Products: 186
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-09-24T11:28:56Z
@@ -20708,10 +20715,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T11:20:49Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-25T19:53:36Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3555
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-25T19:53:37Z
+  Updated: 2025-09-25T23:00:30Z
   Total Products: 3555
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
@@ -20723,17 +20730,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-25T19:53:37Z
-  Total Products: 3066
+  Updated: 2025-09-25T23:00:31Z
+  Total Products: 3065
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-09-25T19:59:09Z
-  Total Products: 123
+  Updated: 2025-09-25T23:12:29Z
+  Total Products: 124
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-25T19:53:37Z
-  Total Products: 3066
+  Updated: 2025-09-25T23:00:31Z
+  Total Products: 3065
 
 ## Blogs
 
