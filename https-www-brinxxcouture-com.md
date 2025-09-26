@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-25T20:00:49.551Z
+- Updated At: 2025-09-26T00:00:50.302Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-25T17:20:42Z
+  Updated: 2025-09-25T23:20:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23720,7 +23720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-25T18:20:42Z
+  Updated: 2025-09-25T23:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26456,7 +26456,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
-  Updated: 2025-09-22T00:54:00Z
+  Updated: 2025-09-25T23:20:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
