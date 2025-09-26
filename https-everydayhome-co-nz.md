@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-26T04:00:35.226Z
+- Updated At: 2025-09-26T08:00:35.678Z
 
 ## Products
 
@@ -1152,7 +1152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-60L-White-9.png?v=1727658537
   Price: $579.99 NZD
 - [Brabantia Bo Pedal Bin - 60L Matt Black](https://everydayhome.co.nz/products/bo-pedal-bin-60l-matt-black): Do you want a bin that has great looks and great capacity? Meet Bo Pedal Bin 60 litre - Brabantia's big beauty. This XXL bin can hold lots of waste. It has a soft closing lid that opens hygienically at a tap of your foot and integrated grips to move it around with ease. Designed with love for your home and care for the planet. A big plus!
-  Updated: 2025-09-25T21:07:10Z
+  Updated: 2025-09-26T06:37:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2972,7 +2972,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $139.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-24T19:37:07Z
+  Updated: 2025-09-26T04:22:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
