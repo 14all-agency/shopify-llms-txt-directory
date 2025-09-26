@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-25T20:01:01.108Z
+- Updated At: 2025-09-26T00:01:00.942Z
 
 ## Products
 
@@ -1219,8 +1219,8 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=46852408541434)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת ילדים ארסנל חוץ 24/25 - רכשו עכשיו](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25): חליפת ילדים ארסנל חוץ 24/25 באיכות מעולה ומשלוח מהיר. התחילו לקנות עוד היום!
-  Updated: 2025-09-18T18:31:25Z
+- [חליפת ילדים מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25): חולצת חוץ לילדים של מנצ'סטר יונייטד בעיצוב מקצועי לעונת 2024/2025. חומר איכותי מבטיח נוחות ועמידות במגרש ומחוצה לו. הצג את תמיכתך בצוות בסטייל. צבע: שחור חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: חוץ
+  Updated: 2025-09-25T23:25:54Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
@@ -2497,8 +2497,8 @@
   - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרבי-כדורגל-ברצלונה-שלישית-24-25?variant=46855877492986)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [חולצת ברצלונה משחקי בית 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-ברצלונה-משחקי-בית-24-25-אותנטית): חולצת ברצלונה למשחקי בית לעונת 24/25 היא פריט אותנטי, עשויה מ-100% פוליאסטר, שמספק בד קל ונושם. חולצה זו מתאימה לאוהדים שמחפשים נוחות ואיכות במהלך המשחקים, ומייצגת את המסורת והסגנון של הקבוצה.
-  Updated: 2025-09-07T22:17:37Z
+- [R:SPORT | חולצת ברצלונה משחקי בית 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-ברצלונה-משחקי-בית-24-25-אותנטית): חולצת ברצלונה למשחקי בית לעונת 24/25 היא פריט אותנטי, עשויה מ-100% פוליאסטר, שמספק בד קל ונושם. חולצה זו מתאימה לאוהדים שמחפשים נוחות ואיכות במהלך המשחקים, ומייצגת את המסורת והסגנון של הקבוצה.
+  Updated: 2025-09-25T23:47:39Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -8869,58 +8869,58 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-בית-2024-25?variant=46892926435578)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת כדורגל לילדים בוקה ג’וניורס חוץ 2024/25](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
-  Updated: 2025-09-18T18:31:02Z
+- [חליפת כדורגל בוקה ג’וניורס חוץ 2024/25 | ילדים](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
+  Updated: 2025-09-25T22:12:00Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_0ede3ab8-e184-4931-835c-8d44db145a32.jpg?v=1738544889
-  - [XS](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938100986)
+  - [XS](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938100986)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXS](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938133754)
+  - [XXS](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938133754)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938166522)
+  - [S](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938166522)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938199290)
+  - [M](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938199290)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938232058)
+  - [L](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938232058)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938264826)
+  - [XL](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938264826)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-25?variant=46892938297594)
+  - [XXL](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938297594)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת כדורגל לילדים בוקה ג’וניורס חוץ 2024/25](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
-  Updated: 2025-09-18T18:31:02Z
+- [חליפת כדורגל לילדים בוקה ג’וניורס חוץ 24/25](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
+  Updated: 2025-09-25T22:12:00Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_929a504b-f6ab-4d45-b31d-fedbe3ebe2d2.jpg?v=1738544890
-  - [XXS](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892942983418)
+  - [XXS](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892942983418)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892942950650)
+  - [XS](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892942950650)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892943016186)
+  - [S](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943016186)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892943048954)
+  - [M](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943048954)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892943081722)
+  - [L](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943081722)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892943114490)
+  - [XL](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943114490)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-חוץ-2024-26?variant=46892943147258)
+  - [XXL](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943147258)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [מכנס קצר  בוקה ג’וניורס בית 24/25](https://www.rsport.co.il/products/מכנס-קצר-בוקה-ג-וניורס-בית-24-25): מכנס קצר אל נאסר בית בצבע כחול עונת 24/25 עשוי מ-100% פוליאסטר, מה שמבטיח נוחות ועמידות על המגרש ובפעילויות ספורטיביות. החומר קליל ומנדף זיעה, מה שמסייע לשמור על טמפרטורה נוחה במהלך המשחקים.
@@ -12314,7 +12314,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק ורודה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:48Z
+  Updated: 2025-09-25T23:57:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -18322,40 +18322,40 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940147155194)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro Hybrid | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים): כפפות השוער adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם מרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכד.-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
-  Updated: 2025-09-07T22:11:26Z
+- [כפפות שוער מקצועיות Predator Pro Hybrid | גברים](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid): כפפות השוער adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם מרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכד.-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
+  Updated: 2025-09-25T22:01:00Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_c9453cd8-caad-4e27-bdcc-7b80e572c8f3.jpg?v=1738544907
-  - [7](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491069178)
+  - [7](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491069178)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491101946)
+  - [7.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491101946)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491134714)
+  - [8](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491134714)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491167482)
+  - [8.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491167482)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491200250)
+  - [9](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491200250)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491233018)
+  - [9.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491233018)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491265786)
+  - [10](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491265786)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491298554)
+  - [10.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491298554)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [11](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491331322)
+  - [11](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491331322)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-adidas-predator-pro-hybrid-גברים?variant=46941491364090)
+  - [12](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491364090)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
 - [אימונית ז'קט ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים): אימונית ז'קט ריאל מדריד 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
@@ -18463,299 +18463,299 @@
   - [XXL](https://www.rsport.co.il/products/מעיל-חורף-שחור-ריאל-מדריד-24-25-גברים?variant=46943081005306)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro Hybrid | גברים](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים): כפפות השוער בצבע אדום שחור לבן adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם המרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכדור-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
-  Updated: 2025-09-07T22:11:21Z
+- [כפפות שוער מקצועיות Predator Pro Hybrid | אדום/שחור/לבן](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white): כפפות השוער בצבע אדום שחור לבן adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם המרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכדור-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
+  Updated: 2025-09-25T22:00:59Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_b4c35eb1-634f-4725-be15-21cd143b0597.jpg?v=1738544910
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947203809530)
+  - [8](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947203809530)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947203842298)
+  - [8.5](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947203842298)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947203907834)
+  - [9.5](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947203907834)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947203940602)
+  - [10](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947203940602)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947203973370)
+  - [10.5](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947203973370)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [11](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947204006138)
+  - [11](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947204006138)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-אדום-שחור-לבן-adidas-predator-pro-hybrid-גברים?variant=46947204038906)
+  - [12](https://www.rsport.co.il/products/predator-pro-hybrid-gk-gloves-red-black-white?variant=46947204038906)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro Hybrid | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים): כפפות השוער בצבע לבן עם פסי זהב adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם המרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכדור-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
-  Updated: 2025-09-07T22:11:20Z
+- [כפפות שוער מקצועיות Predator Pro Hybrid | לבן/זהב](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold): כפפות השוער בצבע לבן עם פסי זהב adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם המרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכדור-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
+  Updated: 2025-09-25T22:00:59Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_1928fcd7-3ebd-41c0-bd7e-7abc1741a733.jpg?v=1738544914
-  - [7](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245392122)
+  - [7](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245392122)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245424890)
+  - [7.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245424890)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245457658)
+  - [8](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245457658)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245490426)
+  - [8.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245490426)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245523194)
+  - [9](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245523194)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245555962)
+  - [9.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245555962)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245588730)
+  - [10](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245588730)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245621498)
+  - [10.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245621498)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [11](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245654266)
+  - [11](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245654266)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-זהב-adidas-predator-pro-hybrid-גברים?variant=46947245687034)
+  - [12](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-white-gold?variant=46947245687034)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים): כפפות שוער adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה מתקדמת ועיצוב אטרקטיבי, עם מרקם אגרסיבי בגב היד לחבטות עוצמתיות. סנפירי הגומי מספקים אחיזה מקסימלית, בעוד המרקם העדין מאפשר שליטה מדויקת בכדור. עם גוף הסריג המהונדס שמספק התאמה מעולה ונוחות, וחריצים מחוזקים בכל מפרקי היד לשיפור הגמישות, הכפפות מצוידות גם בלטקס URG 2.0 לאחיזה מיטבית בכל תנאי מזג האוויר, מה שהופך אותן לבחירה אידיאלית עבור שוערים מקצועיים.
-  Updated: 2025-09-07T22:11:20Z
+- [כפפות שוער מקצועיות דגם פרו Predator | לבן/כחול/ורוד](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink): כפפות שוער adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה מתקדמת ועיצוב אטרקטיבי, עם מרקם אגרסיבי בגב היד לחבטות עוצמתיות. סנפירי הגומי מספקים אחיזה מקסימלית, בעוד המרקם העדין מאפשר שליטה מדויקת בכדור. עם גוף הסריג המהונדס שמספק התאמה מעולה ונוחות, וחריצים מחוזקים בכל מפרקי היד לשיפור הגמישות, הכפפות מצוידות גם בלטקס URG 2.0 לאחיזה מיטבית בכל תנאי מזג האוויר, מה שהופך אותן לבחירה אידיאלית עבור שוערים מקצועיים.
+  Updated: 2025-09-25T22:08:16Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_49a17f2d-3703-4f62-b189-2cc14e941c0d.jpg?v=1738544920
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947288809722)
+  - [8](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947288809722)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947288842490)
+  - [8.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947288842490)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947288875258)
+  - [9](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947288875258)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947288908026)
+  - [9.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947288908026)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947288940794)
+  - [10](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947288940794)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947288973562)
+  - [10.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947288973562)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-כחול-ורוד-adidas-predator-pro-גברים?variant=46947289039098)
+  - [12](https://www.rsport.co.il/products/predator-pro-gk-gloves-white-blue-pink?variant=46947289039098)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים): כפפות שוער בצבע אדום שחור לבן adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה מתקדמת ועיצוב אטרקטיבי, עם מרקם אגרסיבי בגב היד לחבטות עוצמתיות. סנפירי הגומי מספקים אחיזה מקסימלית, בעוד המרקם העדין מאפשר שליטה מדויקת בכדור. עם גוף הסריג המהונדס שמספק התאמה מעולה ונוחות, וחריצים מחוזקים בכל מפרקי היד לשיפור הגמישות, הכפפות מצוידות גם בלטקס URG 2.0 לאחיזה מיטבית בכל תנאי מזג האוויר, מה שהופך אותן לבחירה אידיאלית עבור שוערים מקצועיים.
-  Updated: 2025-09-07T22:11:19Z
+- [כפפות שוער מקצועיות דגם פרו Predator | אדום/לבן/שחור](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black): כפפות שוער בצבע אדום שחור לבן adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה מתקדמת ועיצוב אטרקטיבי, עם מרקם אגרסיבי בגב היד לחבטות עוצמתיות. סנפירי הגומי מספקים אחיזה מקסימלית, בעוד המרקם העדין מאפשר שליטה מדויקת בכדור. עם גוף הסריג המהונדס שמספק התאמה מעולה ונוחות, וחריצים מחוזקים בכל מפרקי היד לשיפור הגמישות, הכפפות מצוידות גם בלטקס URG 2.0 לאחיזה מיטבית בכל תנאי מזג האוויר, מה שהופך אותן לבחירה אידיאלית עבור שוערים מקצועיים.
+  Updated: 2025-09-25T22:08:16Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_b7e8a333-ad47-403d-8ad5-76d415c5c945.jpg?v=1738544921
-  - [5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947307815162)
+  - [5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947307815162)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [5.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947307847930)
+  - [5.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947307847930)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [6.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947307913466)
+  - [6.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947307913466)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301622010)
+  - [7.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301622010)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301654778)
+  - [8](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301654778)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301687546)
+  - [8.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301687546)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301720314)
+  - [9](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301720314)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301753082)
+  - [9.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301753082)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301785850)
+  - [10](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301785850)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301818618)
+  - [10.5](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301818618)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-אדום-לבן-שחור-adidas-predator-pro-גברים?variant=46947301884154)
+  - [12](https://www.rsport.co.il/products/predator-pro-gk-gloves-red-white-black?variant=46947301884154)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro Hybrid | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-צהוב-שחור-אדום-adidas-predator-pro-hybrid-גברים): כפפות שוער בצבע צהוב שחור אדום adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה מתקדמת ועיצוב אטרקטיבי, עם מרקם אגרסיבי בגב היד לחבטות עוצמתיות. סנפירי הגומי מספקים אחיזה מקסימלית, בעוד המרקם העדין מאפשר שליטה מדויקת בכדור. עם גוף הסריג המהונדס שמספק התאמה מעולה ונוחות, וחריצים מחוזקים בכל מפרקי היד לשיפור הגמישות, הכפפות מצוידות גם בלטקס URG 2.0 לאחיזה מיטבית בכל תנאי מזג האוויר, מה שהופך אותן לבחירה אידיאלית עבור שוערים מקצועיים.
-  Updated: 2025-09-07T22:11:19Z
+- [כפפות שוער מקצועיות Predator Pro Hybrid adidas | צהוב/שחור/אדום](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-yellow-black-red): כפפות שוער בצבע צהוב שחור אדום adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה מתקדמת ועיצוב אטרקטיבי, עם מרקם אגרסיבי בגב היד לחבטות עוצמתיות. סנפירי הגומי מספקים אחיזה מקסימלית, בעוד המרקם העדין מאפשר שליטה מדויקת בכדור. עם גוף הסריג המהונדס שמספק התאמה מעולה ונוחות, וחריצים מחוזקים בכל מפרקי היד לשיפור הגמישות, הכפפות מצוידות גם בלטקס URG 2.0 לאחיזה מיטבית בכל תנאי מזג האוויר, מה שהופך אותן לבחירה אידיאלית עבור שוערים מקצועיים.
+  Updated: 2025-09-25T22:00:59Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_26ca84e3-e9e6-4e1b-ac53-c180dce95d60.jpg?v=1738544917
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-צהוב-שחור-אדום-adidas-predator-pro-hybrid-גברים?variant=46947313582330)
+  - [8.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-yellow-black-red?variant=46947313582330)
     Availability: Available
     Price: ‏580.00 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-צהוב-שחור-אדום-adidas-predator-pro-hybrid-גברים?variant=46947313647866)
+  - [9.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-yellow-black-red?variant=46947313647866)
     Availability: Available
     Price: ‏580.00 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-צהוב-שחור-אדום-adidas-predator-pro-hybrid-גברים?variant=46947313778938)
+  - [12](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid-yellow-black-red?variant=46947313778938)
     Availability: Available
     Price: ‏580.00 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים): כפפות השוער adidas Predator Pro מציעות ביצועים גבוהים ותחושה טבעית, עם אחיזת High Definition בגב היד ובנייה מותאמת המבטיחה גמישות ויכולת תגובה מהירה. העיצוב כולל עטיפת אגודל מורחבת לאבטחה נוספת, אזור שחיקה מוגבר להגנה ולטקס URG 2.0 על כף היד המבטיח אחיזה טובה בכל תנאי מזג האוויר, יחד עם סגירת סטרפלס משופרת לשיפור ההתאמה.
-  Updated: 2025-09-07T22:11:18Z
+- [כפפות שוער מקצועיות דגם פרו | כחול/לבן](https://www.rsport.co.il/products/pro-gk-gloves-blue-white): כפפות השוער adidas Predator Pro מציעות ביצועים גבוהים ותחושה טבעית, עם אחיזת High Definition בגב היד ובנייה מותאמת המבטיחה גמישות ויכולת תגובה מהירה. העיצוב כולל עטיפת אגודל מורחבת לאבטחה נוספת, אזור שחיקה מוגבר להגנה ולטקס URG 2.0 על כף היד המבטיח אחיזה טובה בכל תנאי מזג האוויר, יחד עם סגירת סטרפלס משופרת לשיפור ההתאמה.
+  Updated: 2025-09-25T22:08:15Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_f26250b4-5369-4bf6-9255-a455f0e108e4.jpg?v=1738544924
-  - [5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947342713082)
+  - [5](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947342713082)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947342876922)
+  - [7.5](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947342876922)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947342909690)
+  - [8](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947342909690)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947342942458)
+  - [8.5](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947342942458)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947342975226)
+  - [9](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947342975226)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947343007994)
+  - [9.5](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947343007994)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947343040762)
+  - [10](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947343040762)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947343073530)
+  - [10.5](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947343073530)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-  - [11](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-כחול-לבן-adidas-predator-pro-גברים?variant=46947343106298)
+  - [11](https://www.rsport.co.il/products/pro-gk-gloves-blue-white?variant=46947343106298)
     Availability: Available
     Price: ‏599.00 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים): כפפות השוער adidas Predator Pro מציעות איכות גבוהה וביצועים מרשימים לשוערים. עם מרקם אגרסיבי בגב היד וחברת גומי בזמן למיקום אסטרטגי, הכפפות מאפשרות קישוריות מצוינת עם הכדור ואחיזה משופרת. עיצוב הסריג המהונדס מספק התאמה טובה ונוחות, בעוד חריצי הפוליאסטר בכל מפרק מוסיפים גמישות ויכולת תנועה. הלטקס URG 2.0 מבטיח אחיזה מעולה בכל תנאי מזג האוויר, מה שהופך את הכפפות לאידיאליות עבור שוערים מקצועיים ואוהדים כאחד.
-  Updated: 2025-09-07T22:11:17Z
+- [כפפות שוער מקצועיות דגם פרו | שחור/אדום](https://www.rsport.co.il/products/pro-gk-gloves-black-red): כפפות השוער adidas Predator Pro מציעות איכות גבוהה וביצועים מרשימים לשוערים. עם מרקם אגרסיבי בגב היד וחברת גומי בזמן למיקום אסטרטגי, הכפפות מאפשרות קישוריות מצוינת עם הכדור ואחיזה משופרת. עיצוב הסריג המהונדס מספק התאמה טובה ונוחות, בעוד חריצי הפוליאסטר בכל מפרק מוסיפים גמישות ויכולת תנועה. הלטקס URG 2.0 מבטיח אחיזה מעולה בכל תנאי מזג האוויר, מה שהופך את הכפפות לאידיאליות עבור שוערים מקצועיים ואוהדים כאחד.
+  Updated: 2025-09-25T22:08:15Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_5109a7d4-1f2e-4b90-a2dd-05d5fd756c66.jpg?v=1738544927
-  - [5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947347792122)
+  - [5](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947347792122)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947347955962)
+  - [7.5](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947347955962)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947347988730)
+  - [8](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947347988730)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947348021498)
+  - [8.5](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947348021498)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947348054266)
+  - [9](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947348054266)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947348087034)
+  - [9.5](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947348087034)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947348119802)
+  - [10](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947348119802)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947348152570)
+  - [10.5](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947348152570)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-שחור-אדום-adidas-predator-pro-גברים?variant=46947348218106)
+  - [12](https://www.rsport.co.il/products/pro-gk-gloves-black-red?variant=46947348218106)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אפור-adidas-predator-pro-גברים): כפפות השוער של adidas Predator Pro מיועדות לביצועים ושליטה מיטביים. כוללות אחיזה ב-High Definition למרווחים משופרים והתאמה ארגונומית, כפפות אלו מבטיחות נוחות ומיקוד במהלך משחק.
-  Updated: 2025-09-07T22:11:16Z
+- [כפפות שוער מקצועיות דגם פרו Predator | לבן/אפור](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-pro-white-grey): כפפות השוער של adidas Predator Pro מיועדות לביצועים ושליטה מיטביים. כוללות אחיזה ב-High Definition למרווחים משופרים והתאמה ארגונומית, כפפות אלו מבטיחות נוחות ומיקוד במהלך משחק.
+  Updated: 2025-09-25T22:08:15Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_39d67d6b-48aa-4605-9e59-d97317ed04d0.jpg?v=1738544930
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אפור-adidas-predator-pro-גברים?variant=46947359424762)
+  - [9](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-pro-white-grey?variant=46947359424762)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אפור-adidas-predator-pro-גברים?variant=46947359457530)
+  - [9.5](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-pro-white-grey?variant=46947359457530)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אפור-adidas-predator-pro-גברים?variant=46947359490298)
+  - [10](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-pro-white-grey?variant=46947359490298)
     Availability: Available
     Price: ‏459.90 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים): כפפות השוער Adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה, נוחות וביצועים. עם מרקם אגרסיבי בגב היד שמאפשר חבטות חזקות, וסנפירי גומי שמבנים את האחיזה, הכפפות מאפשרות שליטה מדויקת בכדור. השימוש בסריג מהונדס מספק התאמה הדוקה וביטחון בעת המשחק, בעוד שהחריצים בכף היד מביאים לגמישות רבה יותר. הלטקס URG 2.0 מבטיח אחיזה מעולה בכל סוגי מזג האוויר, מה שהופך את הכפפות לאידיאליות עבור שוערים בכל הרמות.
-  Updated: 2025-09-07T22:11:15Z
+- [כפפות שוער מקצועיות Predator Pro adidas | לבן/אדום](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red): כפפות השוער Adidas Predator Pro מציעות שילוב מושלם של טכנולוגיה, נוחות וביצועים. עם מרקם אגרסיבי בגב היד שמאפשר חבטות חזקות, וסנפירי גומי שמבנים את האחיזה, הכפפות מאפשרות שליטה מדויקת בכדור. השימוש בסריג מהונדס מספק התאמה הדוקה וביטחון בעת המשחק, בעוד שהחריצים בכף היד מביאים לגמישות רבה יותר. הלטקס URG 2.0 מבטיח אחיזה מעולה בכל סוגי מזג האוויר, מה שהופך את הכפפות לאידיאליות עבור שוערים בכל הרמות.
+  Updated: 2025-09-25T22:00:59Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_9dfcaaef-a83a-48e8-988c-bfe8ea041629.jpg?v=1738544933
-  - [5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947378004218)
+  - [5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947378004218)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [5.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947378036986)
+  - [5.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947378036986)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [6](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947378069754)
+  - [6](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947378069754)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [6.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947378102522)
+  - [6.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947378102522)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [7](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370139898)
+  - [7](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370139898)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370172666)
+  - [7.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370172666)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [8](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370205434)
+  - [8](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370205434)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370238202)
+  - [8.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370238202)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [9](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370270970)
+  - [9](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370270970)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370303738)
+  - [9.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370303738)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [10](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370336506)
+  - [10](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370336506)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370369274)
+  - [10.5](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370369274)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [11](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לבן-אדם-adidas-predator-pro-hybrid-גברים?variant=46947370402042)
+  - [11](https://www.rsport.co.il/products/gk-gloves-predator-pro-adidas-white-red?variant=46947370402042)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-- [כפפות שוער מקצועיות adidas Predator Pro | גברים](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לימון-לבן-שחור-adidas-predator-pro-גברים): כפפות השוער adidas Predator Pro מציעות שילוב מרהיב של טכנולוגיה מתקדמת ועיצוב פונקציונלי, עם דגש על גמישות ושליטה מירבית. תודות לאחיזה ב-High Definition בגב היד וטקסטורה מרווחת, השוער יכול להרגיש בטוח ומדויק ברגעי ההחזרה והאיסוף. גרסת ה-Pro כוללת גם עטיפת אגודל מורחבת למקסום האבטחה במהלך התפיסות, כמו גם אזורי שחיקה משופרים כדי להתמודד עם בלאי. עם הטכנולוגיה של לטקס URG 2.0, הכפפות מבטיחות אחיזה אמינה גם בתנאים השונים, וסגירת הסטרפלס המדויקת מספקת התאמה מצוינת לשמירה על ריכוז במשחק.
-  Updated: 2025-09-07T22:11:15Z
+- [כפפות שוער מקצועיות Predator Pro adidas | צהוב/לבן/שחור](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black): כפפות השוער adidas Predator Pro מציעות שילוב מרהיב של טכנולוגיה מתקדמת ועיצוב פונקציונלי, עם דגש על גמישות ושליטה מירבית. תודות לאחיזה ב-High Definition בגב היד וטקסטורה מרווחת, השוער יכול להרגיש בטוח ומדויק ברגעי ההחזרה והאיסוף. גרסת ה-Pro כוללת גם עטיפת אגודל מורחבת למקסום האבטחה במהלך התפיסות, כמו גם אזורי שחיקה משופרים כדי להתמודד עם בלאי. עם הטכנולוגיה של לטקס URG 2.0, הכפפות מבטיחות אחיזה אמינה גם בתנאים השונים, וסגירת הסטרפלס המדויקת מספקת התאמה מצוינת לשמירה על ריכוז במשחק.
+  Updated: 2025-09-25T22:08:15Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_3ccf82b9-8f8e-45e5-8557-9d1e18dbc607.jpg?v=1738544936
-  - [5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לימון-לבן-שחור-adidas-predator-pro-גברים?variant=46947382624506)
+  - [5](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black?variant=46947382624506)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [5.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לימון-לבן-שחור-adidas-predator-pro-גברים?variant=46947382657274)
+  - [5.5](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black?variant=46947382657274)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [6](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לימון-לבן-שחור-adidas-predator-pro-גברים?variant=46947382690042)
+  - [6](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black?variant=46947382690042)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [6.5](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לימון-לבן-שחור-adidas-predator-pro-גברים?variant=46947382722810)
+  - [6.5](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black?variant=46947382722810)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-  - [7](https://www.rsport.co.il/products/כפפות-שוער-מקצועיות-לימון-לבן-שחור-adidas-predator-pro-גברים?variant=46947382755578)
+  - [7](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black?variant=46947382755578)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
 - [כפפות שוער מקצועיות Future Pro Hybrid | גברים](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-men): כפפות ה-FUTURE Pro Hybrid מיועדות לשוערים מהדור הבא המחפשים חופש תנועה והיענות אופטימלית כדי להגיע לגבהים חדשים בביצועים חומר סרוג המבטיח התאמה מושלמת וזריזות רבה. עטיפת אגודל המחזקת את תחושת המגע בין הלטקס לכדור האחורי. לטקס מובלט מספק גמישות ומשפר חוזק.
-  Updated: 2025-09-25T11:19:06Z
+  Updated: 2025-09-25T23:19:11Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
@@ -18776,7 +18776,7 @@
     Availability: Available
     Price: ‏469.90 ‏₪ ILS
 - [כפפות שוער מקצועיות לבן/ורוד Future Pro Hybrid](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-white-pink): כפפות ה-FUTURE Pro Hybrid מיועדות לשוערים מהדור הבא המחפשים חופש תנועה והיענות אופטימלית כדי להגיע לגבהים חדשים בביצועים חומר סרוג המבטיח התאמה מושלמת וזריזות רבה. עטיפת אגודל המחזקת את תחושת המגע בין הלטקס לכדור האחורי. לטקס מובלט מספק גמישות ומשפר חוזק.
-  Updated: 2025-09-25T11:28:18Z
+  Updated: 2025-09-25T23:19:23Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
@@ -18797,7 +18797,7 @@
     Availability: Available
     Price: ‏499.90 ‏₪ ILS
 - [כפפות שוער מקצועיות כחול Future Pro Hybrid](https://www.rsport.co.il/products/goalkeeper-gloves-future-pro-hybrid-blue): כפפות השוער PUMA Future Pro Hybrid מציעות שילוב מושלם של טכנולוגיה מתקדמת ונוחות, ממש כפי שהשוער זקוק. הגב המורכב משני חומרים מבטיח זריזות וכוח חבטות משופרים, בעוד כף היד עשויה מלטקס סופר רך עם ציפוי Duo, המספק אחיזה מעולה ועמידות מצוינת בתנאי מזג אוויר שונים. השכבה התחתונה הסרוגה יחד עם החלק העליון הלטקסי מעניקים תחושה קלה ונושמת, והם מגדילים את המרחק בחבטות. רצועת הפרק האלסטית הניתנת להסרה מאפשרת התאמה אישית מושלמת, כך שהשוער יוכל להרגיש ביטחון מוחלט בכל רגע על המגרש.
-  Updated: 2025-09-25T11:29:18Z
+  Updated: 2025-09-25T23:19:12Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
@@ -18818,7 +18818,7 @@
     Availability: Available
     Price: ‏369.90 ‏₪ ILS
 - [כפפות שוער מקצועיות כחול/ירוק Puma Future Pro Hybrid](https://www.rsport.co.il/products/goalkeeper-gloves-future-pro-hybrid-blue-green): כפפות השוער PUMA Future Pro Hybrid מציעות שילוב אידיאלי של תפיסה ונוחות, עם כף יד סופר-רכה העשויה LATEX וציפוי Duo לחיים ארוכים והגנה מפני פגיעות. גב היד עשוי מחומר כפול למען זריזות ועוצמת חבטות, ומשלב סריגה עם לטקס לספיגה טובה ולתחושת קלות. רצועת פרק כף היד האלסטית הניתנת להסרה מאפשרת התאמה אישית, מה שהופך אותן לבחירה מצוינת עבור שוערים רציניים.
-  Updated: 2025-09-25T11:31:18Z
+  Updated: 2025-09-25T23:31:26Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
@@ -18992,7 +18992,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [מעיל רוח נבחרת גרמניה שחור 24/25 | גברים](https://www.rsport.co.il/products/windbreaker-ger-24-25-men-black): מעיל רוח נבחרת גרמניה 24/25 בצבע שחור עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
-  Updated: 2025-09-25T11:07:44Z
+  Updated: 2025-09-25T23:13:59Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
@@ -19013,7 +19013,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [מעיל רוח נבחרת גרמניה לבן 2024/25 | גברים](https://www.rsport.co.il/products/windbreaker-ger-24-25-men-white): מעיל רוח נבחרת גרמניה 24/25 בצבע לבן עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
-  Updated: 2025-09-25T11:07:44Z
+  Updated: 2025-09-25T23:14:05Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
@@ -19139,7 +19139,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [מעיל רוח ברצלונה לבן 24/25 | גברים](https://www.rsport.co.il/products/windbreaker-barca-24-25-men-white): מעיל רוח ברצלונה 24/25 בצבע לבן עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
-  Updated: 2025-09-25T11:09:08Z
+  Updated: 2025-09-25T23:14:45Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
@@ -19160,7 +19160,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [מעיל רוח ברצלונה 24/25 כחול  | גברים](https://www.rsport.co.il/products/windbreaker-barca-24-25-men-blue): מעיל רוח ברצלונה 24/25 בצבע כחול עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
-  Updated: 2025-09-25T11:09:08Z
+  Updated: 2025-09-25T23:09:13Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
@@ -19181,7 +19181,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [חליפת אימון ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים חולצה ארוכה עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם המעניקה חימום ונוחות אופטימלית בימי גשם וחורף הבד מנדף לחות ושומר על תחושת יובש לאורך כל פעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא האימונית אידיאלית לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשדרג כל הופעה
-  Updated: 2025-09-25T09:25:23Z
+  Updated: 2025-09-25T21:26:05Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19223,7 +19223,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ריאל מדריד | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-לבנה-ילדים): אימונית כדורגל ריאל מדריד 24/25 לבנה עם מכנס כחול עשויה 100% פוליאסטר קל ונושם שמספקת הגנה ונוחות בימי חורף וגשם הגזרה מותאמת לתנועה חופשית ומאפשרת חופש תנועה מלא מתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב כולל עמידות למים ואוורור עם שילוב צבעים ייחודי שמשדרג את המראה
-  Updated: 2025-09-25T09:25:22Z
+  Updated: 2025-09-25T21:26:18Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19244,7 +19244,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה מושלמת בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
-  Updated: 2025-09-25T09:25:22Z
+  Updated: 2025-09-25T21:25:27Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19265,7 +19265,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ריאל מדריד ילדים 24/25 | שחורה](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids-black): אימונית כדורגל ריאל מדריד 24/25 ילדים חליפת אימון ארוכה קלה ונושמת, עשויה 100% פוליאסטר, שמספקת הגנה בימי גשם וחורף ושומרת על נוחות מקסימלית לאורך כל הפעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא מתאימה לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשלב עמידות למים ואוורור
-  Updated: 2025-09-25T09:28:55Z
+  Updated: 2025-09-25T21:29:23Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19286,7 +19286,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | שחור](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-black): אימונית ארוכה לילדים, עשויה 100% פוליאסטר, היא פתרון מצוין לימי גשם וחורף, המציעה הן נוחות והן הגנה מפני מזג האוויר. האימונית מתאימה לאימונים על המגרש וגם ללבוש יומיומי, עם עיצוב שיכול לשדרג כל לוק. עם איכויות כמו עמידות למים ואוורור, היא מספקת שילוב אידיאלי של פונקציונליות וסטייל.
-  Updated: 2025-09-25T09:25:22Z
+  Updated: 2025-09-25T21:52:01Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19307,7 +19307,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ריאל מדריד ילדים 24/25 | צבע אפור](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-grey): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה קלה ונושמת, עשויה 100% פוליאסטר, שמספקת הגנה אמינה בימי חורף וגשם ושומרת על נוחות מלאה כל הזמן הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא, מתאימה לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
-  Updated: 2025-09-25T09:25:21Z
+  Updated: 2025-09-25T21:34:30Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19328,7 +19328,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה כדורגל ילדים ריאל מדריד 24/25 | צבע כחוול](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-blue): אימונית כדורגל ריאל מדריד 24/25 ילדים עיצוב ארוך עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם שמעניק הגנה מושלמת בימי גשם וחורף ושומר על נוחות וחופש תנועה הבד מנדף לחות ושומר על יובש לאורך כל הפעילות מתאימה לאימונים על המגרש וללבישה יומיומית עם מראה מודרני שמשלב פונקציונליות וסטייל
-  Updated: 2025-09-25T09:25:21Z
+  Updated: 2025-09-25T21:29:21Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19349,7 +19349,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן כתום](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids-white-orange): אימונית כדורגל ריאל מדריד 24/25 ילדים חליפת אימון ארוכה לילדים שמציעה שילוב של נוחות וביצועים בימי חורף וגשם הבד עשוי 100% פוליאסטר קל ונושם שמספק חימום ואוורור מושלם ושומר על תחושת יובש לאורך כל הפעילות הגזרה מאפשרת חופש תנועה מלא ומותאמת לאימונים על המגרש וגם ללבישה יומיומית עם עיצוב מודרני שמוסיף סטייל ייחודי
-  Updated: 2025-09-25T09:29:09Z
+  Updated: 2025-09-25T21:29:37Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19369,67 +19369,67 @@
   - [18](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids-white-orange?variant=46967468785914)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן כתום](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-white-orange): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה ונוחה לילדים, עשויה 100% פוליאסטר קל ונושם, המספקת חימום והגנה בימי חורף וגשם הבד מנדף לחות ושומר על תחושת יובש לאורך כל הפעילות הגזרה מותאמת לתנועה חופשית ומתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב המודרני משלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
-  Updated: 2025-09-25T09:25:21Z
+- [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן כתום](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה ונוחה לילדים, עשויה 100% פוליאסטר קל ונושם, המספקת חימום והגנה בימי חורף וגשם הבד מנדף לחות ושומר על תחושת יובש לאורך כל הפעילות הגזרה מותאמת לתנועה חופשית ומתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב המודרני משלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
+  Updated: 2025-09-25T23:29:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/21_0565cd06-aba0-4700-82b0-07d1bc8e0bb6.jpg?v=1738543727
-  - [10](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-white-orange?variant=46967469932794)
+  - [10](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org?variant=46967469932794)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-white-orange?variant=46967469965562)
+  - [12](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org?variant=46967469965562)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-white-orange?variant=46967469998330)
+  - [14](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org?variant=46967469998330)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-white-orange?variant=46967470031098)
+  - [16](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org?variant=46967470031098)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/football-tracksuit-rmdr-24-25-kids-white-orange?variant=46967470063866)
+  - [18](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org?variant=46967470063866)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית חצי רוכסן ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים): אימונית חצי רוכסן ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמעניק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים גם לאימונים וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים זו בחירה מצוינת לילדים שאוהבים את הקבוצה
-  Updated: 2025-09-24T02:24:37Z
+- [חליפת אימון ארוכה חצי רוכסן ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids): אימונית חצי רוכסן ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמעניק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים גם לאימונים וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים זו בחירה מצוינת לילדים שאוהבים את הקבוצה
+  Updated: 2025-09-25T23:24:18Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_692f225f-5231-4a4e-9321-fc2b1a9d03b2.jpg?v=1738543728
-  - [10](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים?variant=46967470719226)
+  - [10](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids?variant=46967470719226)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים?variant=46967470751994)
+  - [12](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids?variant=46967470751994)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים?variant=46967470784762)
+  - [14](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids?variant=46967470784762)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים?variant=46967470817530)
+  - [16](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids?variant=46967470817530)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים?variant=46967470850298)
+  - [18](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids?variant=46967470850298)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית חצי רוכסן ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים-לבנה): אימונית ארוכה לילדים, עשויה 100% פוליאסטר, היא פתרון מצוין לימי גשם וחורף, המציעה הן נוחות והן הגנה מפני מזג האוויר. האימונית מתאימה לאימונים על המגרש וגם ללבוש יומיומי, עם עיצוב שיכול לשדרג כל לוק. עם איכויות כמו עמידות למים ואוורור, היא מספקת שילוב אידיאלי של פונקציונליות וסטייל.
-  Updated: 2025-09-18T18:30:53Z
+- [חליפת אימון ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids): אימונית ארוכה לילדים, עשויה 100% פוליאסטר, היא פתרון מצוין לימי גשם וחורף, המציעה הן נוחות והן הגנה מפני מזג האוויר. האימונית מתאימה לאימונים על המגרש וגם ללבוש יומיומי, עם עיצוב שיכול לשדרג כל לוק. עם איכויות כמו עמידות למים ואוורור, היא מספקת שילוב אידיאלי של פונקציונליות וסטייל.
+  Updated: 2025-09-25T23:24:18Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_63284595-1b46-48bb-8a5c-f4bf4e93e047.jpg?v=1738543728
-  - [10](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים-לבנה?variant=46967471833338)
+  - [10](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids?variant=46967471833338)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים-לבנה?variant=46967471866106)
+  - [12](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids?variant=46967471866106)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים-לבנה?variant=46967471898874)
+  - [14](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids?variant=46967471898874)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים-לבנה?variant=46967471931642)
+  - [16](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids?variant=46967471931642)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/אימונית-חצי-רוכסן-ריאל-מדריד-24-25-ילדים-לבנה?variant=46967471964410)
+  - [18](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids?variant=46967471964410)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית ז'קט ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-ילדים): אימונית ז'קט ריאל מדריד 24/25 ילדים הראה את תמיכתך בריאל מדריד עם אימונית ארוכה בעיצוב מותאם לילדים עשויה 100% פוליאסטר קל ונושם המספק הגנה מושלמת לימי גשם וחורף תוך שמירה על נוחות ואוורור האימונית מתאימה גם לאימונים על המגרש וגם ללבישה יומיומית ומעניקה שילוב מנצח של סטייל ופונקציונליות עמידות למים יחד עם מראה ייחודי מבטיחים שימוש מושלם בכל מצב
@@ -19475,7 +19475,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת אימון ארוכה ברצלונה 24/25 לגברים | שחורה](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-black): חולצת אימון ארוכה של ברצלונה לעונת 24/25 בצבע שחור מציעה פתרון מושלם לאימונים בחורף, עם בד נושם וקל שמספק חום ונוחות, עם חצי רוכסן שמקל, ויכולת שימוש יומיומי שכזו מתאימה גם לפעילויות מעבר לאימון.
-  Updated: 2025-09-25T11:04:09Z
+  Updated: 2025-09-25T23:10:37Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19496,7 +19496,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת אימון ארוכה ברצלונה 2024/25 לגברים | כחול כהה](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-dark-blue): חולצת אימון ארוכה של ברצלונה לעונת 24/25 בצבע כחול כהה מציעה פתרון מושלם לאימונים בחורף, עם בד נושם וקל שמספק חום ונוחות, עם חצי רוכסן שמקל, ויכולת שימוש יומיומי שכזו מתאימה גם לפעילויות מעבר לאימון.
-  Updated: 2025-09-25T11:04:09Z
+  Updated: 2025-09-25T23:04:13Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19517,7 +19517,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת אימון ארוכה ברצלונה 2024/25 לגברים | בז'](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-beige): חולצת אימון ארוכה של ברצלונה לעונת 24/25 בצבע בז' מציעה פתרון מושלם לאימונים בחורף, עם בד נושם וקל שמספק חום ונוחות, עם חצי רוכסן שמקל, ויכולת שימוש יומיומי שכזו מתאימה גם לפעילויות מעבר לאימון.
-  Updated: 2025-09-25T11:04:08Z
+  Updated: 2025-09-25T23:04:15Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19538,7 +19538,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת אימון ארוכה ברצלונה 2024/25 לגברים | שחור בז'](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-black-beige): חולצת אימון ארוכה של ברצלונה לעונת 24/25 בצבע שחור בז' מציעה פתרון מושלם לאימונים בחורף, עם בד נושם וקל שמספק חום ונוחות, עם חצי רוכסן שמקל, ויכולת שימוש יומיומי שכזו מתאימה גם לפעילויות מעבר לאימון.
-  Updated: 2025-09-25T11:04:08Z
+  Updated: 2025-09-25T23:04:14Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19559,7 +19559,7 @@
     Availability: Available
     Price: ‏169.90 ‏₪ ILS
 - [חולצת אימון ארוכה ברצלונה 2024/25 לגברים | אפורה](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-grey): חולצת אימון ארוכה של ברצלונה לעונת 24/25 בצבע אפור מציעה פתרון מושלם לאימונים בחורף, עם בד נושם וקל שמספק חום ונוחות, עם חצי רוכסן שמקל, ויכולת שימוש יומיומי שכזו מתאימה גם לפעילויות מעבר לאימון.
-  Updated: 2025-09-25T11:04:08Z
+  Updated: 2025-09-25T23:11:07Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19580,7 +19580,7 @@
     Availability: Available
     Price: ‏169.90 ‏₪ ILS
 - [חולצת אימון ארוכה ברצלונה 2024/25 כחול אדום  | גברים](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-blue-red): חולצת אימון ארוכה של ברצלונה לעונת 24/25 בצבע כחול אדום מציעה פתרון מושלם לאימונים בחורף, עם בד נושם וקל שמספק חום ונוחות, עם חצי רוכסן שמקל, ויכולת שימוש יומיומי שכזו מתאימה גם לפעילויות מעבר לאימון.
-  Updated: 2025-09-25T11:04:08Z
+  Updated: 2025-09-25T23:04:13Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -28632,7 +28632,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [דגלון תליה משלוש קבוצת מנצ'סטר סיטי](https://www.rsport.co.il/products/דגלון-תליה-משלוש-קבוצת-מנצסטר-סיטי): דגלון תלייה משולש של קבוצת מנצ'סטר סיטי בגודל כ-40x28 ס"מ, מושלם לקישוט הבית, הרכב או המשרד עבור אוהדי מנצ'סטר סיטי
-  Updated: 2025-09-07T22:06:56Z
+  Updated: 2025-09-25T23:52:47Z
   Vendor: R:SPORT
   Product Type: דגל
   Availability: Available
@@ -33563,7 +33563,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת כדורגל קרוזיירו חוץ 2024 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-קרוזיירו-חוץ-2024-גוניורס): חולצת החוץ של קרוזיירו לעונת 2024 לילדים ונוער מגיעה בצבע לבן עם נגיעות כחולות עדינות, בשילוב עיצוב מודרני ונקי שמדגיש את הזהות של המועדון. החולצה עשויה 100% פוליאסטר נושם וקל משקל, המנדף זיעה ומספק נוחות מקסימלית במהלך אימונים ומשחקים. גזרה מותאמת לגיל הצעיר, מתאימה לבנים ולבנות כאחד.
-  Updated: 2025-09-07T22:04:42Z
+  Updated: 2025-09-25T23:47:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל ילדים
   Availability: Available
@@ -45737,7 +45737,7 @@
   Updated: 2025-09-24T19:15:59Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-25T09:29:11Z
+  Updated: 2025-09-25T23:24:19Z
   Total Products: 331
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-09-18T18:31:12Z
@@ -45779,7 +45779,7 @@
   Updated: 2025-09-25T12:24:16Z
   Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
-  Updated: 2025-09-25T12:24:16Z
+  Updated: 2025-09-25T23:24:19Z
   Total Products: 105
 - [אתלטיקו מדריד](https://www.rsport.co.il/collections/אתלטיקו-מדריד): חולצת אתלטיקו מדריד היא הרבה יותר מפריט לבוש זו הצהרת אהבה לקבוצה אדומה-לבנה עם אופי לוחמני ומסורת מרגשת. בקטגוריה הזו תמצאו מגוון רחב של חולצות אתלטיקו מדריד לגברים, נשים וילדים, לצד חליפות כדורגל, בגדי אימון ואביזרים שישלימו את ההופעה שלכם כאוהדים אמיתיים. כל הפריטים עשויים מחומרים איכותיים ומעוצבים בהשראת הקבוצה מהוונדה מטרופוליטנו כדי שתוכלו להתחבר לרוח של אתלטיקו, בכל מקום.
   Updated: 2025-09-22T15:34:57Z
@@ -45884,10 +45884,10 @@
   Updated: 2025-09-18T19:46:22Z
   Total Products: 7
 - [בוקה ג’וניורס](https://www.rsport.co.il/collections/בוקה-ג-וניורס): הצטרפו לרוח הלחימה של בוקה ג'וניורס עם הקולקציה המובילה שלנו. בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הצהובה והכחולה האייקונית, החולצה האורחת הלבנה והמהודרת, או החולצה השלישית המיוחדת שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות הצטרפו לרוח הלחימה של בוקה ג'וניורס עם הקולקציה המובילה שלנו. בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הצהובה והכחולה האייקונית, החולצה האורחת הלבנה והמהודרת, או החולצה השלישית המיוחדת שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
-  Updated: 2025-09-18T18:30:28Z
+  Updated: 2025-09-25T22:12:01Z
   Total Products: 12
 - [ליגה ארגנטינאית](https://www.rsport.co.il/collections/ליגה-ארגנטינאית)
-  Updated: 2025-09-18T18:30:28Z
+  Updated: 2025-09-25T22:12:01Z
   Total Products: 20
 - [קולומביה](https://www.rsport.co.il/collections/קולומביה)
   Updated: 2025-09-18T19:46:03Z
@@ -46022,7 +46022,7 @@
   Updated: 2025-09-18T17:57:02Z
   Total Products: 9
 - [אימוניות](https://www.rsport.co.il/collections/אימוניות)
-  Updated: 2025-09-25T09:29:11Z
+  Updated: 2025-09-25T23:24:19Z
   Total Products: 30
 - [גופיות אימון](https://www.rsport.co.il/collections/גופיות-אימון)
   Updated: 2025-08-19T11:17:24Z
@@ -46031,7 +46031,7 @@
   Updated: 2025-09-25T11:09:09Z
   Total Products: 24
 - [אימוניות ילדים](https://www.rsport.co.il/collections/אימוניות-ילדים)
-  Updated: 2025-09-25T09:29:11Z
+  Updated: 2025-09-25T23:24:19Z
   Total Products: 14
 - [אסטון וילה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אסטון-וילה): חולצות הכדורגל של אסטון וילה ובגדי ספורט לאוהדים,נוחות, איכות וסטייל ייחודי של המועדון. חווה את האווירה והאנרגיה של אסטון וילה בכל משחק.
   Updated: 2025-09-18T19:45:48Z
@@ -46046,10 +46046,10 @@
   Updated: 2025-09-18T17:18:50Z
   Total Products: 11
 - [כפפות שוער](https://www.rsport.co.il/collections/כפפות-שוער)
-  Updated: 2025-09-25T11:31:19Z
+  Updated: 2025-09-25T22:08:17Z
   Total Products: 15
 - [שוערים](https://www.rsport.co.il/collections/שוערים)
-  Updated: 2025-09-25T11:31:19Z
+  Updated: 2025-09-25T22:08:17Z
   Total Products: 28
 - [חולצות שוער](https://www.rsport.co.il/collections/חולצות-שוער)
   Updated: 2025-09-24T19:15:59Z
@@ -46109,13 +46109,13 @@
   Updated: 2025-09-25T17:32:00Z
   Total Products: 814
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-24T19:16:00Z
+  Updated: 2025-09-25T22:12:01Z
   Total Products: 248
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-09-18T17:19:13Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-25T12:24:16Z
+  Updated: 2025-09-25T22:12:01Z
   Total Products: 698
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-23T11:18:42Z
@@ -46199,7 +46199,7 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-25T12:24:16Z
+  Updated: 2025-09-25T23:24:19Z
   Total Products: 2042
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
@@ -46217,7 +46217,7 @@
   Updated: 2025-09-18T17:57:31Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-09-25T12:24:16Z
+  Updated: 2025-09-25T22:12:01Z
   Total Products: 366
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-09-18T18:28:35Z
