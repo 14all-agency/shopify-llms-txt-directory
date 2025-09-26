@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-25T20:06:56.329Z
+- Updated At: 2025-09-26T04:00:38.577Z
 
 ## Products
 
@@ -7833,7 +7833,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCHNAUZER_SPRAY_FRANK_MYRRH_AGEWELLcopy.jpg?v=1650904349
     Price: $13.95 USD
 - [Bull Terrier Care Custom Combo For Dry Noses, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/bull-terrier-combos): The Blissful Dog Custom combo kit with all you need for Bull Terrier care - dry nose, rough paws, dog elbow calluses and annoying minor skin irritations.
-  Updated: 2025-06-24T16:11:43Z
+  Updated: 2025-09-26T02:55:02Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
