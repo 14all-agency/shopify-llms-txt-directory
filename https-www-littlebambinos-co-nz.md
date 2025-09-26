@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-26T00:00:48.510Z
+- Updated At: 2025-09-26T08:00:46.631Z
 
 ## Products
 
@@ -672,7 +672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/05GRAYNATUR.jpg?v=1706577465
   Price: $139.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Sand](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-sand): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-09-25T22:59:41Z
+  Updated: 2025-09-26T04:45:16Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
@@ -2304,7 +2304,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/PaleTaupe.jpg?v=1660870444
   Price: $49.00 NZD
 - [MUSHIE Changing Pad Cover - Blush](https://www.littlebambinos.co.nz/products/copy-of-mushie-changing-pad-cover-blush): Made from 100% organic cotton, Mushie's cosy and extra soft swaddle is pre-washed for softness against babyÃ¢â‚¬â„¢s delicate skin. Their swaddles stay breathable while keeping baby warm and cuddly.
-  Updated: 2025-08-06T22:37:32Z
+  Updated: 2025-09-26T02:38:19Z
   Vendor: Mushie
   Product Type: Change Mats
   Availability: Available
@@ -2463,7 +2463,7 @@
     Availability: Not Available
     Price: $55.00 NZD
 - [KONGES SLOJD All You Need Bag - Black](https://www.littlebambinos.co.nz/products/pre-order-konges-slojd-all-you-need-bag-black): The new and improved all you need bag from Konges Slojd is waterproof and windproof.Designed to look like no ordinary change bag, it is for the parents who want to use their changing bag for more than diapers, bottles and pacifiers.The all you need bag has two outside pockets, one of them can be used for wet wipes. Inside the bag you will find a removable changing pad to use when your child needs a fresh diaper. There is one large pocket with a zipper, two regular pockets and one holder perfect for a bottle.
-  Updated: 2025-09-25T21:23:11Z
+  Updated: 2025-09-26T01:20:25Z
   Vendor: Konges slojd
   Product Type: Nappy Bag
   Availability: Available
@@ -7112,14 +7112,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/102Rainbow_6c6b0505-af46-40ab-a958-391aea7b1485.jpg?v=1702936126
   Price: $169.99 NZD
 - [CONNETIX Pastel Mega Pack 202pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-mega-pack-202pc): Explore a rainbow of pastel delight and let your imagination soar with our 202 Piece Pastel Mega Pack! Featuring all our standard tile shapes in 8 unique earthy pastel colours PLUS two car bases, this pack is the ultimate option to kickstart or grow your magnetic tile collection. Expand the range of colours children know with our hues of rose, berry, peach, mint, emerald, lemon, violet and sapphire. Providing endless possibilities for creativity and learning through PLAY, the Pastel Mega Pack is the perfect option for siblings, family and/or friends to enjoy building MEGA Connetix creations together!
-  Updated: 2025-09-24T23:49:56Z
+  Updated: 2025-09-26T00:09:55Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
   Price: $349.99 NZD
 - [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
-  Updated: 2025-09-25T04:51:56Z
+  Updated: 2025-09-26T06:28:46Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -9265,7 +9265,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Flap Cap Classic - Surf Twilight](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-surf-twilight): DETAILS UPF 50+ UV protection Chlorine safe and pool friendly Contoured neck flap for enhanced sun protection Well structured brim maintains shape when wet Head tie for adjustable sizing Chin tie to secure hat Seamless crown Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-08-24T23:45:20Z
+  Updated: 2025-09-26T06:26:11Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -10125,7 +10125,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Littlebambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-1_600x_7b6f12ea-376f-4ae5-bbdc-e8ebbc2431a4.webp?v=1725231069
   Price: $124.99 NZD
 - [CONNETIX Pastel Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-pastel-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:45Z
+  Updated: 2025-09-26T06:28:47Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11082,7 +11082,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-25T21:30:42Z
+  Updated: 2025-09-26T07:52:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13257,7 +13257,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-09-25T02:22:42Z
+  Updated: 2025-09-26T01:22:45Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13284,7 +13284,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/all_body_oil.jpg?v=1743995371
     Price: $75.00 NZD
 - [ORIA SKIN Overnight Firming Cream](https://www.littlebambinos.co.nz/products/overnight-firming-cream): 100% Natural Minimise lines.Restore plumpness.Bring balance. Formulated for all stages of life, let the natural bioactives work their magic while you sleep. Wake up to plumper, smoother & happier skin thanks to the hormone-friendly ingredients, organic jasmine, avocado oil & aloe; The natural way to rejuvenate your skin & preserve your glow. How it works: Marine actives that instantly hydrate your face in 15 minutes Notice plumper, firmer skin in 14 days. Repeated use will prolong and improve results, reducing the visibility of fine lines and wrinkles Rose essential oil is a regenerative oil, helping skin become more elastic, hydrated and suitable for sensitive and dry skin. How to use Apply nightly to face & neck in upward strokes. Follow with the Oria Skin Rejuvenating Face Oil. Useful to apply extra around eyes, and neck skin. Select Rose if you are pregnant** Ingredients Overnight Firming Cream 65g (square box) Aloe barbadensis (aloe vera) leaf juice*, Persea gratissima (avocado) oil*, Helianthus annuus (sunflower) seed oil*, Butyrospermum parkii (shea butter)*, Theobroma cacao (cocoa) seed butter*,Sarcothalia circumcincta (Red seaweed), Cyathea medullaris leaf extract (Black fern), Gluconolactone, Sodium benzoate, Potassium sorbate, Calcium gluconate, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Camellia oleifera seed oil*, Totarol* (fallen Totora tree extract) Rosa damascena (Rose essential Oil). *organic
-  Updated: 2025-09-25T02:14:41Z
+  Updated: 2025-09-26T00:54:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13315,6 +13315,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
+- [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
+  Updated: 2025-09-26T07:42:41Z
+  Vendor: Oria Skin
+  Product Type: Skincare
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
+  Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
   Updated: 2025-09-25T02:22:41Z
   Vendor: Oria Skin
@@ -13343,7 +13350,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-09-25T05:50:42Z
+  Updated: 2025-09-26T01:34:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15579,14 +15586,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-25T19:22:43Z
+  Updated: 2025-09-26T05:22:47Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $119.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-25T19:22:44Z
+  Updated: 2025-09-26T06:22:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15645,7 +15652,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREEN-VINTAGE-TRYBIKE-Little-Bambinos-1.webp?v=1758502464
   Price: $299.95 NZD
 - [TRYBIKE - Steel Pink](https://www.littlebambinos.co.nz/products/trybike-steel-pink): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T13:32:58Z
+  Updated: 2025-09-26T06:18:51Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
@@ -15680,7 +15687,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BLACK_VINTAGE_TRYBIKE_Little-Bambinos.webp?v=1758505598
   Price: $299.95 NZD
 - [TRYBIKE - Basket](https://www.littlebambinos.co.nz/products/trybike-basket): Children will love bringing their favorite items along on every ride with this basket. From toys and snacks to drinks, it offers plenty of room for little explorers' essentials. Made to fit the Trybike Steel and adaptable to other bikes with leather straps, it’s crafted from sturdy plastic woven wicker that endures rain, snow, and sun. This reliable basket is ready to accompany your child on many seasons of adventure and imaginative play.
-  Updated: 2025-09-22T13:47:50Z
+  Updated: 2025-09-26T06:18:52Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
@@ -15805,7 +15812,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-25T23:43:11Z
+  Updated: 2025-09-26T07:43:11Z
   Total Products: 398
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16657,8 +16664,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-25T23:43:11Z
-  Total Products: 1277
+  Updated: 2025-09-26T07:43:11Z
+  Total Products: 1276
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-25T21:23:18Z
   Total Products: 501
