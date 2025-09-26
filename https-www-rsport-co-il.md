@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-26T12:01:01.186Z
+- Updated At: 2025-09-26T16:01:05.418Z
 
 ## Products
 
@@ -2255,8 +2255,8 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק ברצלונה בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ברצלונה-בית-24-25): חולצת בית לברצלונה לעונת 24/25 עשויה מ-100% פוליאסטר, חומר קל ועמיד שמבטיח נוחות ויכולת נשימה במהלך המשחקים. החולצה מעוצבת בצבעים המסורתיים של המועדון ומשדרת גאווה ואהבה לקבוצה.
-  Updated: 2025-09-25T12:58:56Z
-  Vendor: R:SPORT
+  Updated: 2025-09-26T12:46:53Z
+  Vendor: R:Sport
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6002a7-33efdf37565d96-4d4403-e09a3633892198451-d53a8zo8vvl8vvu-fowebp-20241113_011423_0000.png?v=1738566949
@@ -12290,7 +12290,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק לבנה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר): תמוך במיאמי היט בכל הזדמנות על המגרש ומחוצה לו הגופייה הלבנה מבטיחה מראה נקי ומרענן, עם צבעים שמזוהים עם הקבוצה ומעניקה הרגשה של שייכות לכל אוהד החומר קל ונושם, עשוי 100% פוליאסטר שמנדף זיעה ושומר על נוחות לאורך כל המשחק או האימון הגזרה מותאמת לגברים ומאפשרת חופש תנועה מלא, עם עיצוב מודרני המדגיש את צבעי הקבוצה בצורה ברורה ומרשימה
-  Updated: 2025-09-26T00:40:30Z
+  Updated: 2025-09-26T12:38:32Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12314,7 +12314,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק ורודה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר): הראה את תמיכתך מיאמי היט ותמוך בקבוצה במגרש ומחוץ למגרש גופיית המשחק מאפשרת לך להרגיש חלק מהקבוצה בכל רגע עם מראה מודרני וצבעים שמזוהים עם הקבוצה הגופייה עשויה 100% פוליאסטר קל ונושם שמספק נוחות מירבית ותחושת יובש לאורך כל המשחק הגזרה מותאמת לגברים ומעניקה חופש תנועה מלא עם עיצוב שמשלב את צבעי הקבוצה בצורה ברורה ומרשימה
-  Updated: 2025-09-26T00:41:30Z
+  Updated: 2025-09-26T12:41:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14392,88 +14392,88 @@
   - [2XL](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור?variant=46908820652282)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [חולצת רטרו נבחרת צרפת 2000/02](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2000-02): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:34Z
+- [חולצת רטרו צרפת 2000/02 | נבחרת הכחולים בסגנון קלאסי](https://www.rsport.co.il/products/retro-shirt-fran-2000-02): חולצת רטרו נבחרת צרפת 2000/02 בעיצוב קלאסי ונושם עשויה פוליאסטר איכותי בגזרה רגילה לנוחות מושלמת וחיבור לאוהדים של הכחולים
+  Updated: 2025-09-26T15:32:46Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2000-02_07b30b2f-cc89-46e8-86eb-1d67c5c4cc70.jpg?v=1738544681
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2000-02?variant=46908954444026)
+  - [S](https://www.rsport.co.il/products/retro-shirt-fran-2000-02?variant=46908954444026)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2000-02?variant=46908954771706)
+  - [M](https://www.rsport.co.il/products/retro-shirt-fran-2000-02?variant=46908954771706)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2000-02?variant=46908954476794)
+  - [L](https://www.rsport.co.il/products/retro-shirt-fran-2000-02?variant=46908954476794)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2000-02?variant=46908954509562)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-fran-2000-02?variant=46908954509562)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2000-02?variant=46908954542330)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-fran-2000-02?variant=46908954542330)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת צרפת 2002/04](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2002-04): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:34Z
+- [חולצת רטרו נבחרת צרפת 2002/04](https://www.rsport.co.il/products/retro-shirt-fran-2002-04): חולצת רטרו נבחרת צרפת 2002/04 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה ונוחות יומיומית לאוהדים
+  Updated: 2025-09-26T15:35:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/f48bf41d-50e9-4ce6-b785-f7d4b049fdb0.jpg?v=1738544682
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2002-04?variant=46908976922874)
+  - [S](https://www.rsport.co.il/products/retro-shirt-fran-2002-04?variant=46908976922874)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2002-04?variant=46908976955642)
+  - [M](https://www.rsport.co.il/products/retro-shirt-fran-2002-04?variant=46908976955642)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2002-04?variant=46908976988410)
+  - [L](https://www.rsport.co.il/products/retro-shirt-fran-2002-04?variant=46908976988410)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2002-04?variant=46908977021178)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-fran-2002-04?variant=46908977021178)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2002-04?variant=46908977053946)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-fran-2002-04?variant=46908977053946)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת צרפת בית 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-בית-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:35Z
+- [חולצת רטרו צרפת בית 1998 | זכייה היסטורית במונדיאל](https://www.rsport.co.il/products/retro-shirt-fran-home-1998): חולצת רטרו נבחרת צרפת בית 1998 עם עיצוב שמציין את הזכייה במונדיאל 1998, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
+  Updated: 2025-09-26T15:40:13Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/ebe6cab5-6f4b-461a-a87e-fd4d3e0f585a.jpg?v=1738544687
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-בית-1998?variant=46908978462970)
+  - [S](https://www.rsport.co.il/products/retro-shirt-fran-home-1998?variant=46908978462970)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-בית-1998?variant=46908978495738)
+  - [M](https://www.rsport.co.il/products/retro-shirt-fran-home-1998?variant=46908978495738)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-בית-1998?variant=46908978528506)
+  - [L](https://www.rsport.co.il/products/retro-shirt-fran-home-1998?variant=46908978528506)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-בית-1998?variant=46908978561274)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-fran-home-1998?variant=46908978561274)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-בית-1998?variant=46908978594042)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-fran-home-1998?variant=46908978594042)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חולצת רטרו נבחרת צרפת 2004](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2004): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T17:55:35Z
+- [חולצת רטרו צרפת 2004 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-fran-2004): חולצת רטרו נבחרת צרפת 2004 בסגנון קלאסי ונוסטלגי, עשויה פוליאסטר קל ונושם, מספקת חופש תנועה ונוחות יומיומית לכל אוהד
+  Updated: 2025-09-26T15:42:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2004_39ea2309-2c80-4de5-a97c-f28ae9c06f9f.jpg?v=1738544682
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2004?variant=46908984197370)
+  - [S](https://www.rsport.co.il/products/retro-shirt-fran-2004?variant=46908984197370)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2004?variant=46908984230138)
+  - [M](https://www.rsport.co.il/products/retro-shirt-fran-2004?variant=46908984230138)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2004?variant=46908984262906)
+  - [L](https://www.rsport.co.il/products/retro-shirt-fran-2004?variant=46908984262906)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2004?variant=46908984295674)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-fran-2004?variant=46908984295674)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2004?variant=46908984328442)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-fran-2004?variant=46908984328442)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת 2006](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-צרפת-2006): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -17581,88 +17581,88 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014?variant=46915605496058)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חליפת אימון ז'קט מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/חליפת-אימון-זקט-מנצסטר-יונייטד-24-25-גברים): חליפת אימון ארוכה הכוללת ז'קט ומכנס ארוך היא פתרון מעולה לאימונים במהלך החורף עשויה מ-100% פוליאסטר קל ונושם, המסייע בהסרת לחות ושמירה על חום הגוף. עם עיצוב הכולל רוכסן מלא, ניתן להסדיר את הטמפרטורה בקלות, מה שהופך אותה למתאימה גם לשימוש יומיומי. הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: ז'קט אימון ומכנס ארוך אורך שרוול: ארוך צווארון: רוכסן מלא גזרה: רגילה מכנס ארוך תואם
-  Updated: 2025-09-07T22:11:44Z
+- [חליפת אימון ז'קט מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men): חליפת אימון ארוכה הכוללת ז'קט ומכנס ארוך היא פתרון מעולה לאימונים במהלך החורף עשויה מ-100% פוליאסטר קל ונושם, המסייע בהסרת לחות ושמירה על חום הגוף. עם עיצוב הכולל רוכסן מלא, ניתן להסדיר את הטמפרטורה בקלות, מה שהופך אותה למתאימה גם לשימוש יומיומי. הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: ז'קט אימון ומכנס ארוך אורך שרוול: ארוך צווארון: רוכסן מלא גזרה: רגילה מכנס ארוך תואם
+  Updated: 2025-09-26T15:15:00Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/0203_3_6a9dc098-513a-41dd-ae6e-b4a3e1855e1b.jpg?v=1738544750
-  - [S](https://www.rsport.co.il/products/חליפת-אימון-זקט-מנצסטר-יונייטד-24-25-גברים?variant=46916906189050)
+  - [S](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men?variant=46916906189050)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-אימון-זקט-מנצסטר-יונייטד-24-25-גברים?variant=46916906221818)
+  - [M](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men?variant=46916906221818)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-אימון-זקט-מנצסטר-יונייטד-24-25-גברים?variant=46916906254586)
+  - [L](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men?variant=46916906254586)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-אימון-זקט-מנצסטר-יונייטד-24-25-גברים?variant=46916906287354)
+  - [XL](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men?variant=46916906287354)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-אימון-זקט-מנצסטר-יונייטד-24-25-גברים?variant=46916906320122)
+  - [XXL](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men?variant=46916906320122)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-- [חליפת אימון ז'קט כחולה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/חליפת-אימון-זקט-כחולה-מנצסטר-יונייטד-24-25-גברים): חליפת אימון ארוכה הכוללת ז'קט ומכנס ארוך היא פתרון מעולה לאימונים במהלך החורף עשויה מ-100% פוליאסטר קל ונושם, המסייע בהסרת לחות ושמירה על חום הגוף. עם עיצוב הכולל רוכסן מלא, ניתן להסדיר את הטמפרטורה בקלות, מה שהופך אותה למתאימה גם לשימוש יומיומי. הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: ז'קט אימון ומכנס ארוך אורך שרוול: ארוך צווארון: רוכסן מלא גזרה: רגילה מכנס ארוך תואם
-  Updated: 2025-09-07T22:11:43Z
+- [חליפת אימון ז'קט כחולה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men): חליפת אימון ארוכה הכוללת ז'קט ומכנס ארוך היא פתרון מעולה לאימונים במהלך החורף עשויה מ-100% פוליאסטר קל ונושם, המסייע בהסרת לחות ושמירה על חום הגוף. עם עיצוב הכולל רוכסן מלא, ניתן להסדיר את הטמפרטורה בקלות, מה שהופך אותה למתאימה גם לשימוש יומיומי. הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: ז'קט אימון ומכנס ארוך אורך שרוול: ארוך צווארון: רוכסן מלא גזרה: רגילה מכנס ארוך תואם
+  Updated: 2025-09-26T15:15:00Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_8b509e62-1ec7-4b2c-87d0-6884c0e4a57d.jpg?v=1738544748
-  - [S](https://www.rsport.co.il/products/חליפת-אימון-זקט-כחולה-מנצסטר-יונייטד-24-25-גברים?variant=46916910219514)
+  - [S](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men?variant=46916910219514)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-אימון-זקט-כחולה-מנצסטר-יונייטד-24-25-גברים?variant=46916910252282)
+  - [M](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men?variant=46916910252282)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-אימון-זקט-כחולה-מנצסטר-יונייטד-24-25-גברים?variant=46916910285050)
+  - [L](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men?variant=46916910285050)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-אימון-זקט-כחולה-מנצסטר-יונייטד-24-25-גברים?variant=46916910317818)
+  - [XL](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men?variant=46916910317818)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-אימון-זקט-כחולה-מנצסטר-יונייטד-24-25-גברים?variant=46916910350586)
+  - [XXL](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men?variant=46916910350586)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-- [אימונית אדומה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים): תמוך במנצ'סטר יונייטד עם אימונית אדומה לעונת 24/25 לגברים חליפת אימון ארוכה הכוללת חולצה ומכנסיים ארוכים בעיצוב שמעניק נוחות מלאה בכל פעילות עשויה 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים קרים הרוכסן בחזית מאפשר שליטה בטמפרטורה ונוחות אישית והגזרה מותאמת לגברים לאימונים בחורף או לשימוש יומיומי מחוץ למגרש
-  Updated: 2025-09-24T01:43:07Z
+- [אימונית אדומה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-red-tracksuit-24-25-men): תמוך במנצ'סטר יונייטד עם אימונית אדומה לעונת 24/25 לגברים חליפת אימון ארוכה הכוללת חולצה ומכנסיים ארוכים בעיצוב שמעניק נוחות מלאה בכל פעילות עשויה 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים קרים הרוכסן בחזית מאפשר שליטה בטמפרטורה ונוחות אישית והגזרה מותאמת לגברים לאימונים בחורף או לשימוש יומיומי מחוץ למגרש
+  Updated: 2025-09-26T15:15:00Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/0203_4_a6d47ee3-d366-49ea-8112-3929108c22f6.jpg?v=1738543727
-  - [S](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים?variant=46916913266938)
+  - [S](https://www.rsport.co.il/products/man-utd-red-tracksuit-24-25-men?variant=46916913266938)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים?variant=46916913299706)
+  - [M](https://www.rsport.co.il/products/man-utd-red-tracksuit-24-25-men?variant=46916913299706)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים?variant=46916913332474)
+  - [L](https://www.rsport.co.il/products/man-utd-red-tracksuit-24-25-men?variant=46916913332474)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים?variant=46916913365242)
+  - [XL](https://www.rsport.co.il/products/man-utd-red-tracksuit-24-25-men?variant=46916913365242)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-אדומה-מנצסטר-יונייטד-24-25-גברים?variant=46916913398010)
+  - [XXL](https://www.rsport.co.il/products/man-utd-red-tracksuit-24-25-men?variant=46916913398010)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית שחורה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים): הראה את תמיכתך במנצ'סטר יונייטד עם אימונית שחורה לעונת 24/25 לגברים חליפת אימון ארוכה שמגיעה עם חולצה ומכנסיים ארוכים ומספקת שילוב של סגנון ונוחות לכל פעילות הבד עשוי 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים הקרים רוכסן קדמי מאפשר שליטה מלאה בטמפרטורה והגזרה מותאמת לגברים לאימונים אינטנסיביים בחורף וגם לשימוש יומיומי מחוץ למגרש
-  Updated: 2025-09-24T01:49:05Z
+- [אימונית שחורה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men): הראה את תמיכתך במנצ'סטר יונייטד עם אימונית שחורה לעונת 24/25 לגברים חליפת אימון ארוכה שמגיעה עם חולצה ומכנסיים ארוכים ומספקת שילוב של סגנון ונוחות לכל פעילות הבד עשוי 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים הקרים רוכסן קדמי מאפשר שליטה מלאה בטמפרטורה והגזרה מותאמת לגברים לאימונים אינטנסיביים בחורף וגם לשימוש יומיומי מחוץ למגרש
+  Updated: 2025-09-26T15:15:00Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_43bfa1b6-1e15-46e0-9548-adda205b1c0b.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים?variant=46916917756154)
+  - [S](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men?variant=46916917756154)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים?variant=46916917788922)
+  - [M](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men?variant=46916917788922)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים?variant=46916917821690)
+  - [L](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men?variant=46916917821690)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים?variant=46916917854458)
+  - [XL](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men?variant=46916917854458)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-שחורה-מנצסטר-יונייטד-24-25-גברים?variant=46916917887226)
+  - [XXL](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men?variant=46916917887226)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [מעיל חורף מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25): מעיל חורף של מנצ'סטר יונייטד לעונת 24/25 עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל הרכב בד/חומר: 100% פוליאסטר
@@ -17707,25 +17707,25 @@
   - [XXL](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן?variant=46916944920826)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-- [אימונית כדורגל מנצ'סטר יונייטד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים): אימונית כדורגל מנצ'סטר יונייטד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר התאמה אישית לטמפרטורה והעיצוב המודרני מתאים גם לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
-  Updated: 2025-09-24T01:57:49Z
+- [אימונית כדורגל מנצ'סטר יונייטד 24/25 | ילדים](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids): אימונית כדורגל מנצ'סטר יונייטד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר התאמה אישית לטמפרטורה והעיצוב המודרני מתאים גם לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
+  Updated: 2025-09-26T15:26:07Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_7d88649e-541f-4518-ae8e-ff8fdcb408a9.jpg?v=1738543728
-  - [10](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים?variant=46916947837178)
+  - [10](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids?variant=46916947837178)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים?variant=46916947869946)
+  - [12](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids?variant=46916947869946)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים?variant=46916947902714)
+  - [14](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids?variant=46916947902714)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים?variant=46916947935482)
+  - [16](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids?variant=46916947935482)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/אימונית-כדורגל-מנצסטר-יונייטד-24-25-ילדים?variant=46916947968250)
+  - [18](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids?variant=46916947968250)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [גופיית אימון ריאל מדריד 2024/25](https://www.rsport.co.il/products/גופיית-אימון-ריאל-מדריד-2024-25): גופיית אימון ריאל מדריד 24/25 למבוגרים, גופיית אימון קצרה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר.
@@ -17971,46 +17971,46 @@
   - [XXXXL](https://www.rsport.co.il/products/חולצת-משחק-ארגנטינה-50th-anniversary?variant=46937692406010)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-- [אימונית נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים): תמוך בנבחרת ארגנטינה עם אימונית ארוכה לעונת 24/25 לגברים חליפת אימון הכוללת חולצה ומכנסיים ארוכים בעיצוב שמעניק נוחות מלאה בכל פעילות עשויה 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים קרים הרוכסן בחזית מאפשר שליטה בטמפרטורה ונוחות אישית והגזרה מותאמת לגברים לאימונים בחורף או לשימוש יומיומי מחוץ למגרש
-  Updated: 2025-09-24T01:46:31Z
+- [אימונית נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men): תמוך בנבחרת ארגנטינה עם אימונית ארוכה לעונת 24/25 לגברים חליפת אימון הכוללת חולצה ומכנסיים ארוכים בעיצוב שמעניק נוחות מלאה בכל פעילות עשויה 100% פוליאסטר קל ונושם ששומר על חום הגוף ומנדף לחות גם בימים קרים הרוכסן בחזית מאפשר שליטה בטמפרטורה ונוחות אישית והגזרה מותאמת לגברים לאימונים בחורף או לשימוש יומיומי מחוץ למגרש
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/02-03_20241207_002744_0000.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים?variant=46931214827770)
+  - [S](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men?variant=46931214827770)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים?variant=46931214860538)
+  - [M](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men?variant=46931214860538)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים?variant=46931214893306)
+  - [L](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men?variant=46931214893306)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים?variant=46931214926074)
+  - [XL](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men?variant=46931214926074)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-נבחרת-ארגנטינה-24-25-גברים?variant=46931214958842)
+  - [XXL](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men?variant=46931214958842)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית שחורה נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים): תמוך בנבחרת ארגנטינה עם אימונית שחורה לעונת 24/25 לגברים חליפת אימון ארוכה המשלבת חולצה ומכנסיים ארוכים ומעניקה מראה אלגנטי יחד עם ביצועים גבוהים עשויה 100% פוליאסטר קל ונושם השומר על חום הגוף ומנדף לחות הרוכסן הקדמי מאפשר התאמה אישית לטמפרטורה והגזרה המיוחדת מתאימה לגברים לאימוני חורף אינטנסיביים וגם ללבישה יומיומית מחוץ למגרש
-  Updated: 2025-09-24T01:50:04Z
+- [אימונית שחורה נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men-black): תמוך בנבחרת ארגנטינה עם אימונית שחורה לעונת 24/25 לגברים חליפת אימון ארוכה המשלבת חולצה ומכנסיים ארוכים ומעניקה מראה אלגנטי יחד עם ביצועים גבוהים עשויה 100% פוליאסטר קל ונושם השומר על חום הגוף ומנדף לחות הרוכסן הקדמי מאפשר התאמה אישית לטמפרטורה והגזרה המיוחדת מתאימה לגברים לאימוני חורף אינטנסיביים וגם ללבישה יומיומית מחוץ למגרש
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/02-03_20241207_003705_0000.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים?variant=46931222626554)
+  - [S](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men-black?variant=46931222626554)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים?variant=46931222659322)
+  - [M](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men-black?variant=46931222659322)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים?variant=46931222692090)
+  - [L](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men-black?variant=46931222692090)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים?variant=46931222724858)
+  - [XL](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men-black?variant=46931222724858)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-שחורה-נבחרת-ארגנטינה-24-25-גברים?variant=46931222757626)
+  - [XXL](https://www.rsport.co.il/products/ls-training-top-arg-24-25-men-black?variant=46931222757626)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [קפוצ'ון שחור נבחרת ארגנטינה 24/25 | גברים](https://www.rsport.co.il/products/קפוצון-שחור-נבחרת-ארגנטינה-24-25-גברים): קפוצ'ון חורף שישמור עליך חם במהלך ימי הגשם עשוי מ-100% פוליאסטר קל ונושם, היא שומר על חום הגוף ומרחיק לחות, עם רבע רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאים לאימונים גם לשימוש יומיומי.
@@ -18172,46 +18172,46 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-בית-24-25?variant=46938216956154)
     Availability: Available
     Price: ‏110.00 ‏₪ ILS
-- [אימונית שחורה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-שחורה-ריאל-מדריד-24-25-גברים): חליפת אימון שחורה ריאל מדריד 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-07T22:11:29Z
+- [אימונית שחורה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-black): חליפת אימון שחורה ריאל מדריד 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/33_2e5a88ba-bdf3-47bf-a21a-c38d53d2b4bc.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-שחורה-ריאל-מדריד-24-25-גברים?variant=46939690369274)
+  - [S](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-black?variant=46939690369274)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-שחורה-ריאל-מדריד-24-25-גברים?variant=46939690402042)
+  - [M](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-black?variant=46939690402042)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-שחורה-ריאל-מדריד-24-25-גברים?variant=46939690434810)
+  - [L](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-black?variant=46939690434810)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-שחורה-ריאל-מדריד-24-25-גברים?variant=46939690467578)
+  - [XL](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-black?variant=46939690467578)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-שחורה-ריאל-מדריד-24-25-גברים?variant=46939690500346)
+  - [XXL](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-black?variant=46939690500346)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [חליפת אימון ארוכה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/חליפת-אימון-ארוכה-ריאל-מדריד-24-25-גברים): חליפת אימון ריאל מדריד 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-07T22:11:28Z
+- [חליפת אימון ארוכה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/ls-training-suit-rmd-24-25-men): חליפת אימון ריאל מדריד 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/25_7ce6bec8-bd2f-4ee2-a3bc-77e35f1e861c.jpg?v=1738544744
-  - [S](https://www.rsport.co.il/products/חליפת-אימון-ארוכה-ריאל-מדריד-24-25-גברים?variant=46939695382778)
+  - [S](https://www.rsport.co.il/products/ls-training-suit-rmd-24-25-men?variant=46939695382778)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-אימון-ארוכה-ריאל-מדריד-24-25-גברים?variant=46939695415546)
+  - [M](https://www.rsport.co.il/products/ls-training-suit-rmd-24-25-men?variant=46939695415546)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-אימון-ארוכה-ריאל-מדריד-24-25-גברים?variant=46939695448314)
+  - [L](https://www.rsport.co.il/products/ls-training-suit-rmd-24-25-men?variant=46939695448314)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-אימון-ארוכה-ריאל-מדריד-24-25-גברים?variant=46939695481082)
+  - [XL](https://www.rsport.co.il/products/ls-training-suit-rmd-24-25-men?variant=46939695481082)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-אימון-ארוכה-ריאל-מדריד-24-25-גברים?variant=46939695513850)
+  - [XXL](https://www.rsport.co.il/products/ls-training-suit-rmd-24-25-men?variant=46939695513850)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת ילדים ארוכה ארסנל חוץ 24/25](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ארסנל-חוץ-24-25): חליפת ילדים ארוכה ארסנל חוץ 24/25 עשויה 100% פוליאסטר מנדף זיעה, מה שמבטיח נוחות ואוורור במהלך משחקים ואימונים. החליפה מעוצבת בסגנון מודרני, עם פרטים המזוהים עם הקבוצה, ומספקת לילדים את ההזדמנות להרגיש חלק מהשחקנים האהובים עליהם.
@@ -18358,88 +18358,88 @@
   - [12](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid?variant=46941491364090)
     Availability: Available
     Price: ‏689.90 ‏₪ ILS
-- [אימונית ז'קט ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים): אימונית ז'קט ריאל מדריד 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-18T18:02:00Z
+- [אימונית ז'קט ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/ls-jacket-rmd-24-25-men): אימונית ז'קט ריאל מדריד 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_57b55891-40d4-4568-841e-0a3ad1c70d8e.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים?variant=46943007179002)
+  - [S](https://www.rsport.co.il/products/ls-jacket-rmd-24-25-men?variant=46943007179002)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים?variant=46943007211770)
+  - [M](https://www.rsport.co.il/products/ls-jacket-rmd-24-25-men?variant=46943007211770)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים?variant=46943007244538)
+  - [L](https://www.rsport.co.il/products/ls-jacket-rmd-24-25-men?variant=46943007244538)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים?variant=46943007277306)
+  - [XL](https://www.rsport.co.il/products/ls-jacket-rmd-24-25-men?variant=46943007277306)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-זקט-ריאל-מדריד-24-25-גברים?variant=46943007310074)
+  - [XXL](https://www.rsport.co.il/products/ls-jacket-rmd-24-25-men?variant=46943007310074)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית ז'קט כחולה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/אימונית-זקט-כחולה-ריאל-מדריד-24-25-גברים): אימונית ז'קט כחולה ריאל מדריד 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-18T18:02:00Z
+- [אימונית ז'קט כחולה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/ls-training-suit-jacket-rmd-24-25-men-blue): אימונית ז'קט כחולה ריאל מדריד 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/29_2379fea5-ca53-4a59-91e5-92245e62d8bf.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-זקט-כחולה-ריאל-מדריד-24-25-גברים?variant=46943017763066)
+  - [S](https://www.rsport.co.il/products/ls-training-suit-jacket-rmd-24-25-men-blue?variant=46943017763066)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-זקט-כחולה-ריאל-מדריד-24-25-גברים?variant=46943017795834)
+  - [M](https://www.rsport.co.il/products/ls-training-suit-jacket-rmd-24-25-men-blue?variant=46943017795834)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-זקט-כחולה-ריאל-מדריד-24-25-גברים?variant=46943017828602)
+  - [L](https://www.rsport.co.il/products/ls-training-suit-jacket-rmd-24-25-men-blue?variant=46943017828602)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-זקט-כחולה-ריאל-מדריד-24-25-גברים?variant=46943017861370)
+  - [XL](https://www.rsport.co.il/products/ls-training-suit-jacket-rmd-24-25-men-blue?variant=46943017861370)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-זקט-כחולה-ריאל-מדריד-24-25-גברים?variant=46943017894138)
+  - [XXL](https://www.rsport.co.il/products/ls-training-suit-jacket-rmd-24-25-men-blue?variant=46943017894138)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית אפורה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/24-25): אימונית אפורה ריאל מדריד 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-18T18:02:01Z
+- [אימונית אפורה ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-gray): אימונית אפורה ריאל מדריד 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/24_e408ac60-3de1-4bbf-a4f7-6aa9f614f6bf.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/24-25?variant=46943018877178)
+  - [S](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-gray?variant=46943018877178)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/24-25?variant=46943018909946)
+  - [M](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-gray?variant=46943018909946)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/24-25?variant=46943018942714)
+  - [L](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-gray?variant=46943018942714)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/24-25?variant=46943018975482)
+  - [XL](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-gray?variant=46943018975482)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/24-25?variant=46943019008250)
+  - [XXL](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-gray?variant=46943019008250)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית כחולה ריאל מדריד 2024/25 | גברים](https://www.rsport.co.il/products/אימונית-כחולה-ריאל-מדריד-2024-25-גברים): אימונית כחולה ריאל מדריד 2024/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-25T01:04:33Z
+- [אימונית כחולה ריאל מדריד 2024/25 | גברים](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-blue): אימונית כחולה ריאל מדריד 2024/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:06Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_e1b135d5-da61-4789-8608-b8811e8de644.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-כחולה-ריאל-מדריד-2024-25-גברים?variant=46943032344826)
+  - [S](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-blue?variant=46943032344826)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-כחולה-ריאל-מדריד-2024-25-גברים?variant=46943032377594)
+  - [M](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-blue?variant=46943032377594)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-כחולה-ריאל-מדריד-2024-25-גברים?variant=46943032410362)
+  - [L](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-blue?variant=46943032410362)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-כחולה-ריאל-מדריד-2024-25-גברים?variant=46943032443130)
+  - [XL](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-blue?variant=46943032443130)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-כחולה-ריאל-מדריד-2024-25-גברים?variant=46943032475898)
+  - [XXL](https://www.rsport.co.il/products/ls-training-top-rmd-24-25-men-blue?variant=46943032475898)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [מעיל חורף שחור ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/מעיל-חורף-שחור-ריאל-מדריד-24-25-גברים): מעיל חורף שחור ריאל מדריד 24/25 עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל הרכב בד/חומר: 100% פוליאסטר
@@ -19180,46 +19180,46 @@
   - [XXL](https://www.rsport.co.il/products/windbreaker-barca-24-25-men-blue?variant=46967389815034)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-- [חליפת אימון ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים חולצה ארוכה עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם המעניקה חימום ונוחות אופטימלית בימי גשם וחורף הבד מנדף לחות ושומר על תחושת יובש לאורך כל פעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא האימונית אידיאלית לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשדרג כל הופעה
-  Updated: 2025-09-25T21:26:05Z
+- [football-ls-halfzip-rmd-24-25-kids](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids): אימונית כדורגל ריאל מדריד 24/25 ילדים חולצה ארוכה עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם המעניקה חימום ונוחות אופטימלית בימי גשם וחורף הבד מנדף לחות ושומר על תחושת יובש לאורך כל פעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא האימונית אידיאלית לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשדרג כל הופעה
+  Updated: 2025-09-26T15:26:05Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_ed40fc4f-bfd5-4374-b717-2e634887becd.jpg?v=1738543727
-  - [10](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים?variant=46967444275450)
+  - [10](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids?variant=46967444275450)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים?variant=46967444308218)
+  - [12](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids?variant=46967444308218)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים?variant=46967444340986)
+  - [14](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids?variant=46967444340986)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים?variant=46967444373754)
+  - [16](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids?variant=46967444373754)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-ילדים?variant=46967444406522)
+  - [18](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids?variant=46967444406522)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים): הראה את תמיכתך בריאל מדריד עם אימונית ארוכה לעונת 24/25 לילדים חליפת אימון בעיצוב נוח וקל משקל עשויה 100% פוליאסטר איכותי המספק הגנה בימי גשם וחורף האימונית משלבת נוחות ואוורור ומאפשרת חופש תנועה מלא בין אם על המגרש או ביום יום העמידות למים יחד עם מראה ייחודי יוצרים שילוב מושלם של סטייל ופונקציונליות שילדים אוהבים ללבוש בכל הזדמנות
-  Updated: 2025-09-24T01:53:33Z
+- [אימונית ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/ls-training-top-rmdr-24-25-kids): הראה את תמיכתך בריאל מדריד עם אימונית ארוכה לעונת 24/25 לילדים חליפת אימון בעיצוב נוח וקל משקל עשויה 100% פוליאסטר איכותי המספק הגנה בימי גשם וחורף האימונית משלבת נוחות ואוורור ומאפשרת חופש תנועה מלא בין אם על המגרש או ביום יום העמידות למים יחד עם מראה ייחודי יוצרים שילוב מושלם של סטייל ופונקציונליות שילדים אוהבים ללבוש בכל הזדמנות
+  Updated: 2025-09-26T15:26:05Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_99f469c3-576d-4598-939b-b9f5eb2b39ff.jpg?v=1738543728
-  - [10](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים?variant=46967447716090)
+  - [10](https://www.rsport.co.il/products/ls-training-top-rmdr-24-25-kids?variant=46967447716090)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים?variant=46967447748858)
+  - [12](https://www.rsport.co.il/products/ls-training-top-rmdr-24-25-kids?variant=46967447748858)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים?variant=46967447781626)
+  - [14](https://www.rsport.co.il/products/ls-training-top-rmdr-24-25-kids?variant=46967447781626)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים?variant=46967447814394)
+  - [16](https://www.rsport.co.il/products/ls-training-top-rmdr-24-25-kids?variant=46967447814394)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/אימונית-ארוכה-ריאל-מדריד-24-25-ילדים?variant=46967447847162)
+  - [18](https://www.rsport.co.il/products/ls-training-top-rmdr-24-25-kids?variant=46967447847162)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ריאל מדריד | ילדים](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-לבנה-ילדים): אימונית כדורגל ריאל מדריד 24/25 לבנה עם מכנס כחול עשויה 100% פוליאסטר קל ונושם שמספקת הגנה ונוחות בימי חורף וגשם הגזרה מותאמת לתנועה חופשית ומאפשרת חופש תנועה מלא מתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב כולל עמידות למים ואוורור עם שילוב צבעים ייחודי שמשדרג את המראה
@@ -19243,25 +19243,25 @@
   - [18](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-24-25-לבנה-ילדים?variant=46967449223418)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים): אימונית כדורגל ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה מושלמת בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
-  Updated: 2025-09-25T21:25:27Z
+- [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן](https://www.rsport.co.il/products/football-jacket-rmdr-24-25-kids-white): אימונית כדורגל ריאל מדריד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה מושלמת בימי גשם וחורף הרוכסן הקצר בחזית מאפשר שליטה בטמפרטורה והעיצוב המודרני מתאים לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
+  Updated: 2025-09-26T15:26:05Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_9d85291e-2bf1-40e4-914c-a1b9e4a01ff1.jpg?v=1738543728
-  - [10](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים?variant=46967450304762)
+  - [10](https://www.rsport.co.il/products/football-jacket-rmdr-24-25-kids-white?variant=46967450304762)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [12](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים?variant=46967450337530)
+  - [12](https://www.rsport.co.il/products/football-jacket-rmdr-24-25-kids-white?variant=46967450337530)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [14](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים?variant=46967450370298)
+  - [14](https://www.rsport.co.il/products/football-jacket-rmdr-24-25-kids-white?variant=46967450370298)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [16](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים?variant=46967450403066)
+  - [16](https://www.rsport.co.il/products/football-jacket-rmdr-24-25-kids-white?variant=46967450403066)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [18](https://www.rsport.co.il/products/אימונית-כדורגל-ריאל-מדריד-צבע-לבן-24-25-ילדים?variant=46967450435834)
+  - [18](https://www.rsport.co.il/products/football-jacket-rmdr-24-25-kids-white?variant=46967450435834)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ריאל מדריד ילדים 24/25 | שחורה](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids-black): אימונית כדורגל ריאל מדריד 24/25 ילדים חליפת אימון ארוכה קלה ונושמת, עשויה 100% פוליאסטר, שמספקת הגנה בימי גשם וחורף ושומרת על נוחות מקסימלית לאורך כל הפעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא מתאימה לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשלב עמידות למים ואוורור
@@ -19369,8 +19369,8 @@
   - [18](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids-white-orange?variant=46967468785914)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | צבע לבן כתום](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה ונוחה לילדים, עשויה 100% פוליאסטר קל ונושם, המספקת חימום והגנה בימי חורף וגשם הבד מנדף לחות ושומר על תחושת יובש לאורך כל הפעילות הגזרה מותאמת לתנועה חופשית ומתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב המודרני משלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
-  Updated: 2025-09-25T23:29:04Z
+- [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | כתום לבן](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה ונוחה לילדים, עשויה 100% פוליאסטר קל ונושם, המספקת חימום והגנה בימי חורף וגשם הבד מנדף לחות ושומר על תחושת יובש לאורך כל הפעילות הגזרה מותאמת לתנועה חופשית ומתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב המודרני משלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
+  Updated: 2025-09-26T15:04:53Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19600,88 +19600,88 @@
   - [XXL](https://www.rsport.co.il/products/football-ls-top-barca-24-25-men-blue-red?variant=46977887502586)
     Availability: Available
     Price: ‏169.90 ‏₪ ILS
-- [אימונית אייאקס אמסטרדם 24/25 | גברים](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-צהובה-24-25-גברים): חליפת אימון צהובה אייאקס אמסטרדם 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-07T22:10:53Z
+- [אימונית אייאקס אמסטרדם 24/25 | גברים](https://www.rsport.co.il/products/ajax-ls-jacket-24-25-men-yellow): חליפת אימון צהובה אייאקס אמסטרדם 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_66a75f51-2488-43cf-a460-77501c1cc340.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-צהובה-24-25-גברים?variant=46995568165114)
+  - [S](https://www.rsport.co.il/products/ajax-ls-jacket-24-25-men-yellow?variant=46995568165114)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-צהובה-24-25-גברים?variant=46995568197882)
+  - [M](https://www.rsport.co.il/products/ajax-ls-jacket-24-25-men-yellow?variant=46995568197882)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-צהובה-24-25-גברים?variant=46995568230650)
+  - [L](https://www.rsport.co.il/products/ajax-ls-jacket-24-25-men-yellow?variant=46995568230650)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-צהובה-24-25-גברים?variant=46995568263418)
+  - [XL](https://www.rsport.co.il/products/ajax-ls-jacket-24-25-men-yellow?variant=46995568263418)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-צהובה-24-25-גברים?variant=46995568296186)
+  - [XXL](https://www.rsport.co.il/products/ajax-ls-jacket-24-25-men-yellow?variant=46995568296186)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית אייאקס אמסטרדם מנטה 24/25 | גברים](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-24-25-מנטה-גברים): חליפת אימון צבע מנטה אייאקס אמסטרדם 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-07T22:10:52Z
+- [אימונית אייאקס אמסטרדם מנטה 24/25 | גברים](https://www.rsport.co.il/products/ajax-jacket-24-25-men-mint): חליפת אימון צבע מנטה אייאקס אמסטרדם 24/25 ארוכה, הכוללת חולצה ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_49f24adb-6381-42c8-bfa5-dc1aab5d15ad.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-24-25-מנטה-גברים?variant=46995573244154)
+  - [S](https://www.rsport.co.il/products/ajax-jacket-24-25-men-mint?variant=46995573244154)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-24-25-מנטה-גברים?variant=46995573276922)
+  - [M](https://www.rsport.co.il/products/ajax-jacket-24-25-men-mint?variant=46995573276922)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-24-25-מנטה-גברים?variant=46995573309690)
+  - [L](https://www.rsport.co.il/products/ajax-jacket-24-25-men-mint?variant=46995573309690)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-24-25-מנטה-גברים?variant=46995573342458)
+  - [XL](https://www.rsport.co.il/products/ajax-jacket-24-25-men-mint?variant=46995573342458)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-אייאקס-אמסטרדם-24-25-מנטה-גברים?variant=46995573375226)
+  - [XXL](https://www.rsport.co.il/products/ajax-jacket-24-25-men-mint?variant=46995573375226)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית ז'קט אייאקס אמסטרדם צהוב כחול 24/25 | גברים](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צהוב-כחול-24-25-גברים): אימונית ז'קט אייאקס אמסטרדם 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-07T22:10:52Z
+- [אימונית ז'קט אייאקס אמסטרדם צהוב כחול 24/25 | גברים](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue): אימונית ז'קט אייאקס אמסטרדם 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_d6c4ade9-119d-4ce7-9bd3-4d2b79025ffd.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צהוב-כחול-24-25-גברים?variant=46995575472378)
+  - [S](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue?variant=46995575472378)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צהוב-כחול-24-25-גברים?variant=46995575505146)
+  - [M](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue?variant=46995575505146)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צהוב-כחול-24-25-גברים?variant=46995575537914)
+  - [L](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue?variant=46995575537914)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צהוב-כחול-24-25-גברים?variant=46995575570682)
+  - [XL](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue?variant=46995575570682)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צהוב-כחול-24-25-גברים?variant=46995575603450)
+  - [XXL](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue?variant=46995575603450)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [אימונית ז'קט אייאקס אמסטרדם צבע מנטה 24/25 | גברים](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צבע-מנטה-24-25-גברים): אימונית ז'קט אייאקס אמסטרדם 2024/25 בצבע מנטה ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-07T22:10:51Z
+- [אימונית ז'קט אייאקס אמסטרדם צבע מנטה 24/25 | גברים](https://www.rsport.co.il/products/ajax-training-jacket-24-25-men-mint): אימונית ז'קט אייאקס אמסטרדם 2024/25 בצבע מנטה ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
+  Updated: 2025-09-26T15:26:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_a8c24a74-f1de-4100-a0f6-dff08b17612c.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צבע-מנטה-24-25-גברים?variant=46995578716410)
+  - [S](https://www.rsport.co.il/products/ajax-training-jacket-24-25-men-mint?variant=46995578716410)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צבע-מנטה-24-25-גברים?variant=46995578749178)
+  - [M](https://www.rsport.co.il/products/ajax-training-jacket-24-25-men-mint?variant=46995578749178)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צבע-מנטה-24-25-גברים?variant=46995578781946)
+  - [L](https://www.rsport.co.il/products/ajax-training-jacket-24-25-men-mint?variant=46995578781946)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צבע-מנטה-24-25-גברים?variant=46995578814714)
+  - [XL](https://www.rsport.co.il/products/ajax-training-jacket-24-25-men-mint?variant=46995578814714)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/אימונית-זקט-אייאקס-אמסטרדם-צבע-מנטה-24-25-גברים?variant=46995578847482)
+  - [XXL](https://www.rsport.co.il/products/ajax-training-jacket-24-25-men-mint?variant=46995578847482)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חולצת אייאקס מהדורה מיוחדת בוב מארלי](https://www.rsport.co.il/products/חולצת-אייאקס-מהדורה-מיוחדת-בוב-מארלי): החולצה הזו היא מהדורה מיוחדת, עשויה 100% פוליאסטר, ומעוטרת בציורים של בוב מארלי. הציורים מציגים את דמותו האיקונית והצבעונית של מארלי, עם עיצובים שמביאים את האווירה הרגועה והחיובית שהייתה מזוהה איתו. החולצה כוללת את הלוגו של המועדון, ומציעה שילוב של סגנון ספורטיבי עם אלמנטים תרבותיים של מארלי.
@@ -27815,7 +27815,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [גרבי כדורגל ארסנל בית 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-ארסנל-בית-25-26): גרבי כדורגל ארסנל בית 2025/26 בצבע אדום, מושלמים להשלמת מראה משחק מלא. עשויים מבד נושם וגמיש, עם תמיכה באזור הקשת ונוחות מרבית לכל אורך הפעילות. מתאימים לנעילה עם נעלי כדורגל ומעניקים התאמה מושלמת למדי הבית של הקבוצה. אידיאליים לאוהדים ושחקנים שרוצים להיראות ולהרגיש כמו על המגרש.
-  Updated: 2025-09-18T18:30:43Z
+  Updated: 2025-09-26T13:33:15Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -37985,7 +37985,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת כדורגל פ.צ. היידנהיים שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-פ-צ-היידנהיים-שלישית-25-26-גברים): חולצת כדורגל פ.צ. היידנהיים שלישית לעונת 2025/26 לגברים מעוצבת בסגנון ייחודי שמשלב צבעים בולטים ומראה מודרני. החולצה עשויה מ-100% פוליאסטר קל ונושם, שמספק נוחות מירבית במהלך כל פעילות ספורטיבית. הגזרה הרגילה מאפשרת תנועה חופשית ומתאימה גם לפעילות על המגרש וגם לשימוש יומיומי.
-  Updated: 2025-09-18T18:16:10Z
+  Updated: 2025-09-26T15:15:55Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45734,7 +45734,7 @@
   Updated: 2025-09-24T19:15:59Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-26T15:04:55Z
   Total Products: 331
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-09-18T18:31:12Z
@@ -45776,7 +45776,7 @@
   Updated: 2025-09-26T11:18:12Z
   Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-26T15:04:55Z
   Total Products: 105
 - [אתלטיקו מדריד](https://www.rsport.co.il/collections/אתלטיקו-מדריד): חולצת אתלטיקו מדריד היא הרבה יותר מפריט לבוש זו הצהרת אהבה לקבוצה אדומה-לבנה עם אופי לוחמני ומסורת מרגשת. בקטגוריה הזו תמצאו מגוון רחב של חולצות אתלטיקו מדריד לגברים, נשים וילדים, לצד חליפות כדורגל, בגדי אימון ואביזרים שישלימו את ההופעה שלכם כאוהדים אמיתיים. כל הפריטים עשויים מחומרים איכותיים ומעוצבים בהשראת הקבוצה מהוונדה מטרופוליטנו כדי שתוכלו להתחבר לרוח של אתלטיקו, בכל מקום.
   Updated: 2025-09-22T15:34:57Z
@@ -46019,7 +46019,7 @@
   Updated: 2025-09-18T17:57:02Z
   Total Products: 9
 - [אימוניות](https://www.rsport.co.il/collections/אימוניות)
-  Updated: 2025-09-25T23:24:19Z
+  Updated: 2025-09-26T15:26:05Z
   Total Products: 30
 - [גופיות אימון](https://www.rsport.co.il/collections/גופיות-אימון)
   Updated: 2025-08-19T11:17:24Z
@@ -46028,7 +46028,7 @@
   Updated: 2025-09-25T11:09:09Z
   Total Products: 24
 - [אימוניות ילדים](https://www.rsport.co.il/collections/אימוניות-ילדים)
-  Updated: 2025-09-25T23:24:19Z
+  Updated: 2025-09-26T15:04:55Z
   Total Products: 14
 - [אסטון וילה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אסטון-וילה): חולצות הכדורגל של אסטון וילה ובגדי ספורט לאוהדים,נוחות, איכות וסטייל ייחודי של המועדון. חווה את האווירה והאנרגיה של אסטון וילה בכל משחק.
   Updated: 2025-09-18T19:45:48Z
@@ -46196,7 +46196,7 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-26T15:26:05Z
   Total Products: 2042
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
