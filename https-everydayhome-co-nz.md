@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-26T16:00:37.210Z
+- Updated At: 2025-09-26T20:00:35.972Z
 
 ## Products
 
@@ -2979,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBatteryFreeBathroomScale-DarkGrey-8710755281341Brabantia_96dpi_1000x1000px_7_NR-22057.png?v=1734407312
   Price: $119.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - White](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-white): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-23T12:37:29Z
+  Updated: 2025-09-26T17:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3028,7 +3028,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DigitalKitchenScales-DarkGrey-8710755122644Brabantia_96dpi_1000x1000px_7_NR-15691.png?v=1733866488
   Price: $109.95 NZD
 - [Brabantia Kitchen Utensils Set Nonstick - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-set-n-stick-c): No more sticky situations in your kitchen with this Profile Non-Stick Kitchen Utensils Set. This top-team consists of a Soup Ladle, Vegetable Spoon, Spatula and Skimmer. All with durable stainless steel grips and nylon non-stick tops. For cooking with confidence.
-  Updated: 2025-09-23T12:37:32Z
+  Updated: 2025-09-26T17:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4048,15 +4048,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSauceLadle-MattSteel-8710755250521Brabantia_96dpi_2000x2000px_T_NR-19713.png?v=1750982301
   Price: $12.99 NZD
-- [Brabantia Profile Soup Ladle - Matt Steel](https://everydayhome.co.nz/products/profile-soup-ladle): Scoop and serve your soup with this Brabantia Soup Ladle. This long-stemmed portion sized ladle is ideal for serving soup without spilling. Every inch a ladle.
-  Updated: 2025-09-02T22:03:56Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSoupLadle-MattSteel-8710755250606Brabantia_96dpi_2000x2000px_T_NR-19723.png?v=1750982307
-  Price: $14.99 NZD
 - [Brabantia Profile Ice Cream Scoop - Matt Steel](https://everydayhome.co.nz/products/profile-ice-cream-scoop): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
-  Updated: 2025-08-15T13:22:02Z
+  Updated: 2025-09-26T17:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4483,14 +4476,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCanOpener-MattSteel-8710755250187Brabantia_300dpi_2000x2000px_9_NR-19669.jpg?v=1756767159
   Price: $39.95 NZD
 - [Brabantia Profile Cheese Slicer - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-cheese-slicer-matt-steel): Cheese louise! This Brabantia Cheese Slicer is perfect for slicing all sorts of cheese. This sleek and stylish slicer has a sharp blade and great grip - made for easy slicing.
-  Updated: 2025-09-23T12:39:05Z
+  Updated: 2025-09-26T17:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCheeseSlicer-MattSteel-8710755250200Brabantia_96dpi_2000x2000px_9_NR-19671.jpg?v=1756436090
   Price: $29.95 NZD
 - [Brabantia Profile Pizza/Pastry Cutter - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-pizza-pastry-cutter-matt-steel): The wheel reinvented! This Brabantia Pizza/Pastry Cutter cuts your pizza and pastry into perfect parts. The stainless-steel wheel is large and sharp - made for easy cutting, even thick bakes.
-  Updated: 2025-09-23T12:39:05Z
+  Updated: 2025-09-26T17:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
