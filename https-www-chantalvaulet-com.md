@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-09-25T12:00:30.658Z
+- Updated At: 2025-09-26T20:00:31.082Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -10967,6 +10967,9 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 - [Gold Collection - Exclusive Jewelry Pieces](https://www.chantalvaulet.com/collections/gold): Explore our stunning Gold Collection featuring exquisite designs and timeless pieces perfect for any occasion.
   Updated: 2025-09-22T09:19:16Z
   Total Products: 13
+- [Engagement Rings](https://www.chantalvaulet.com/collections/engagement-rings)
+  Updated: 2025-09-25T12:27:59Z
+  Total Products: 108
 
 ## Blogs
 
