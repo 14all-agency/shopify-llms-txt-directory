@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-25T20:00:45.485Z
+- Updated At: 2025-09-26T00:00:42.202Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1711,7 +1711,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [Memory Keeper Locket® Silver | Lily Blanche | Keep Loved Ones Close](https://www.lilyblanche.com/products/memory-keeper-locket-silver): The Memory Keeper Locket in Sterling Silver is a beautiful & unique way to keep your loved ones close to your heart. This stunning locket can hold up to 6 photos, making it the perfect way to cherish your most precious memories. Order your silver Memory Keeper Locket online & get free photos, shipping & care kit today!
-  Updated: 2025-09-19T07:09:51Z
+  Updated: 2025-09-25T20:19:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -10551,7 +10551,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £380.00 GBP
 - [Four Photo Heart Charm Locket Silver | Cherish Memories](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-silver): Hold special memories close to your heart with this Four-Photo Heart Charm Locket in sterling silver. This stunning locket necklace takes four photos, making it the perfect love token or gift. Order your Four-Photo Heart Charm Locket in silver online today and receive free photos, & free jewellery care kit!
-  Updated: 2025-09-16T21:28:06Z
+  Updated: 2025-09-25T21:10:25Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15948,7 +15948,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-09-23T08:59:22Z
+  Updated: 2025-09-25T20:47:16Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16203,7 +16203,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £155.00 GBP
 - [Heart Shaped Gold Photo Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-gold): In need of a romantic gift? This pretty filigree style gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This high quality gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Jewellery Care Kit. Express delivery available when you shop online today.
-  Updated: 2025-09-19T15:41:23Z
+  Updated: 2025-09-25T20:42:20Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17712,7 +17712,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £415.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-09-25T09:27:27Z
+  Updated: 2025-09-25T23:34:22Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21675,7 +21675,7 @@ From £119
     Availability: Available
     Price: £690.00 GBP
 - [Men's Diamond Cross Necklace | Timeless & Handcrafted UK](https://www.lilyblanche.com/products/mens-diamond-gold-cross-necklace): Elevate his style with a handcrafted solid 9ct gold & diamond cross necklace from Lily Blanche. 52 real diamonds. Heirloom quality, UK hallmark & gift-box. 4.9★ rated. Free UK shipping!
-  Updated: 2025-09-20T21:51:35Z
+  Updated: 2025-09-25T23:03:01Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22843,7 +22843,7 @@ GBP 340
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-23T14:24:08Z
+  Updated: 2025-09-25T23:03:56Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
