@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-09-25T16:00:34.304Z
+- Updated At: 2025-09-26T00:00:35.436Z
 
 ## Products
 
@@ -1229,7 +1229,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/115-MINERAL-MATTIFYING-FLUID-DERMO-FOUNDATION-SPF-30-MATT-MINERAL-CORRECTION-20-NATURAL-30-ml-1.png?v=1757514417
   Price: ALL 2,798.20 ALL
 - [MATTIFYING FLUID SPF 30+ - TANNED  30 - Amar Pharma - Pharmaceris - Fondatinë](https://amar.al/products/mineral-mattifying-fluid-dermo-foundation-spf-30-matt-mineral-correction-30-tanned-30-ml): Pharmaceris – Mattifying Fluid Pore Refining Foundation Fluid i cili aplikohet lehtësisht në lëkurë, duke i dhënë fytyrës një pamje natyrale, e cila zgjat deri në 10 orë, dhe duke siguruar menjëherë një efekt matifikues. Përthith sebumin e tepërt dhe rregullon aktivitetin e gjëndrave dhjamore për ta bërë lëkurën më pak të prirur ndaj shkëlqimit dhe papërsosmërive të reja. Formula inovative “Pore-Diminish” forcon fibrat e kolagjenit që rrethojnë poret e lëkurës për të zvogëluar dukshëm madhësinë e poreve. Baza fluide unifikon tonin e lëkurës dhe ju jep një grim të qëndrueshëm me pamje të freskët. Nuk e mbingarkon lëkurën dhe nuk bllokon poret e lëkurës. Filtrat e tij foto-stabile UVA/UVB forcojnë mekanizmat mbrojtës të lëkurës dhe mbrojnë lëkurën nga agresorët mjedisorë. Produkti rekomandohet për lëkurë normale, mikse dhe të yndyrshme e cila ka tendencë të yndyroset. Rekomandohet gjithashtu për njerëzit që vuajnë nga aknet, për të fshehur dhe eliminuar papërsosmëritë tipike për lëkurën e prirur ndaj akneve (të tilla si komedone ose pore të zgjeruara të lëkurës). Udhëzime mbi përdorimin Aplikojeni në lëkurë të pastër dhe shpërndajeni në mënyrë të barabartë në të gjithë fytyrën. Prisni derisa të përthithet plotësisht. - Amar Pharma - Pharmaceris - Fondatinë
-  Updated: 2025-09-18T09:15:05Z
+  Updated: 2025-09-25T20:08:11Z
   Vendor: Pharmaceris
   Product Type: Fondatinë
   Availability: Available
