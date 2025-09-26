@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-26T04:01:04.038Z
+- Updated At: 2025-09-26T12:01:04.734Z
 
 ## Products
 
@@ -2687,7 +2687,7 @@ Tasmânia.Vive em águas superficiais junto a bancos de algas e a pradarias de e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/elena-de-avalor-mateo-231325217-brincatoys-1178693525.jpg?v=1752840135
   Price: 7,50 € EUR
 - [Elena de Avalor -Skylar-](https://brincatoys.pt/products/elena-de-avalor-skylar): Figura em borracha termoplástica da série Elena de Avalor.
-  Updated: 2025-09-25T23:32:23Z
+  Updated: 2025-09-26T10:08:02Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -5489,7 +5489,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/minimates-stealth-iron-man-and-ghost-868376921-marvel-1178694370.jpg?v=1752855611
   Price: 13,99 € EUR
 - [Mochila Glitter LOL Surprise](https://brincatoys.pt/products/mochila-glitter-lol-surprise): Mochila da personagem LOL Surprise para crianças com altura máxima de 100 cm. Este produto foi concebido especificamente para oferecer um bom apoio nas costas, apresentando um fecho de correr, punho superior para pendurar, puxadores traseiros ajustáveis e compartimento lateral do porta-garrafas.  Dimensão: 31 x 25 x 10 cm.Idade Recomendada: + de 12
-  Updated: 2025-08-21T00:13:36Z
+  Updated: 2025-09-26T08:09:38Z
   Vendor: LOL Surprise
   Product Type: + 12 meses
   Availability: Available
@@ -7579,7 +7579,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-2x20-unicornios-e-fadas-551806420-brincatoys-1178695075.png?v=1752868564
   Price: 9,50 € EUR
 - [Puzzle 33 peças -Patrulha Pata-](https://brincatoys.pt/products/puzzle-33-pecas-patrulha-pata): Puzzle composto por grandes peças, perfeitamente acabadas para que o manuseamento pelas crianças seja simples e seguro.  Dimensão: 37 x 29 x 1 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-06T22:48:25Z
+  Updated: 2025-09-26T09:41:04Z
   Vendor: Patrulha Pata
   Product Type: + 4 anos
   Availability: Available
@@ -13217,7 +13217,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-huracan-lp-610-4-683150923-2600000-brincatoys-1178697360.jpg?v=1752908762
   Price: 22,99 € EUR
 - [Lamborghini Huracán LP 610-4 Amarelo](https://brincatoys.pt/products/lamborghini-huracan-lp-610-4-amarelo): Veículo Lamborghini Huracán LP 610-4, em metal, da marca Maisto, reproduzido na escala 1:24, com peças de plástico, portas que abrem e fecham e pneus de borracha. O Lamborghini Huracán é um desportivo construído pela empresa italiana Lamborghini, substituindo o lendário Gallardo, uns dos carros mais bem sucedidos da história da companhia. O Huracán utiliza o mesmo bloco do motor do anterior Gallardo, um 5,2 litros V10. As alterações introduzidas permitiram aumentar a potência dos 520 cv do Gallardo LP-520-4 para 610 cv. O Huracan acelera dos 0 a 100 km/h em apenas 3,2 segundos e alcança a marca de 200 km/h em 9,5 segundos. Dimensão: 23 x 11,50 x 10,50 cm Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-25T10:31:00Z
+  Updated: 2025-09-26T05:47:38Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14082,16 +14082,16 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jaguar-xkr-s-682106323-bburago-1178697899.jpg?v=1752916203
   Price: 23,99 € EUR
 - [Carro de Brincar Land Rover Defender 2022 à Escala 1:24](https://brincatoys.pt/products/land-rover-defender-2022): Com o carro de brincar Land Rover Defender 2022 traga aventura e precisão para a sua coleção de brinquedos. Modelo retrata a essência da Land Rover.
-  Updated: 2025-09-25T22:59:59Z
+  Updated: 2025-09-26T10:42:38Z
   Vendor: Bburago
   Product Type: Bburago
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-land-rover-defender-2022-a-escala-1-24-132110124-bburago-1178697907.jpg?v=1752916450
   Price: 23,99 € EUR
 - [Carro de Brincar Lamborghini Sesto Elemento 1/24](https://brincatoys.pt/products/lamborghini-sesto-elemento): Descubra o carro de brincar Lamborghini Sesto Elemento, uma réplica para fâs, na escala 1/24, com detalhes impressionantes e design exclusivo.
-  Updated: 2025-09-25T12:38:09Z
+  Updated: 2025-09-26T10:06:25Z
   Vendor: Bburago
-  Product Type: + 3 anos
+  Product Type: Bburago
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-de-brincar-lamborghini-sesto-elemento-1-24-682106124-8719247244017-bburago-1178697911.jpg?v=1752916457
   Price: 24,99 € EUR
@@ -15033,6 +15033,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-disney-mre-pillar-durev-551103524-0194735110353-cars-1178698581.jpg?v=1752929290
   Price: 11,99 € EUR
+- [Porsche 911 RSR GT](https://brincatoys.pt/products/porsche-911-rsr-gt): Descubra o esplendor da engenharia automóvel com o modelo Porsche 911 RSR GT 1:24, uma réplica meticulosamente construída destinada a entusiastas e colecionadores. Por vezes, para resolver um problema, é necessário agitar as coisas – e no desporto motorizado, vale a pena libertar-se do que lhe é familiar. Foi isso que a Porsche fez com o 911 RSR, invertendo a disposição do motor e da transmissão no carro de corrida GT. Isto criou espaço para um difusor traseiro maior – e a oportunidade para tempos de volta ainda mais rápidos. Visto de fora parece um 911, sem surpresas. No entanto, por baixo do exterior em fibra de carbono, o segundo Porsche 911 RSR baseado no 991 tem um design completamente novo. Apenas a maçaneta da porta de seu antecessor permanece inalterada. A Porsche reconfigurou todo o resto: suspensão, chassis, design aerodinâmico, motor e transmissão, construindo o 911 mais extremo e espetacular de todos os tempos, explorando as possibilidades permitidas pelos regulamentos de forma mais consistente do que nunca. Sendo um carro de brinquedo na escala 1:24, cada detalhe do veículo é capturado com precisão, do design aerodinâmico ao icônico número 911 nas portas. Este modelo, feito com uma fusão de metal fundido e partes de plástico de alta qualidade, oferece durabilidade e um acabamento de alta fidelidade, replicando fielmente o carro original. Este modelo Porsche 911 RSR GT é a verdadeira celebração do design ie espírito de corrida, incorporado numa réplica em miniatura que captura o coração e a alma do imponente carro de corrida. Com portas funcionais e um interior tão detalhado quanto o exterior, a atenção meticulosa aos detalhes leva a experiência de colecionar a um novo nível. Ideal para um público que aprecia a engenharia automobilística e coleccionáveis de alta qualidade. Em suma... Escala 1:24 detalhada Metal fundido com partes de plástico Detalhes autênticos e funcionais Design distinto Dimensão: 24 x 10 x 12,50 cm. Idade recomendada: + de 3 anos.
+  Updated: 2025-09-26T10:06:22Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/porsche-911-rsr-gt-682801324-8719247603654-bburago-1178698597.jpg?v=1752929417
+  Price: 26,50 € EUR
 - [Conjunto de batalha Pokémon - Oshawott & Applin](https://brincatoys.pt/products/conjunto-de-batalha-pokemon-oshawott-applin): Apresentamos com entusiasmo o novíssimo Conjunto de batalha Pokémon - Oshawott & Applin, um item que não pode faltar na coleção de qualquer jovem treinador Pokémon. Com este conjunto exclusivo, mergulhe nas emoções das batalhas Pokémon e deixa a imaginação levar as crianças para aventuras épicas. O conjunto inclui duas figuras detalhadas e dinâmicas: Oshawott, o adorável Pokémon Tipo Água e Applin, a pequena e intrigante criatura Tipo Planta/Dragão. Inicialmente, ressaltamos que Oshawott está pronto para lutar com a sua concha característica, e Applin está à espreita no melhor estilo Pokémon, com cores vivas e atenção aos detalhes. Cada figura é cuidadosamente moldada para capturar a essência destes Pokémon adorados pelos fãs. Ideal para brincadeiras criativas ou para exibição, estas figuras são feitas de materiais duráveis e seguros, garantindo horas de diversão sem preocupações. Além disso, o Conjunto de batalha Pokémon promove o desenvolvimento da coordenação motora fina e imaginação. As crianças podem recriar suas cenas favoritas do anime ou inventar novos cenários para uma batalha emocionante com amigos. Estas figuras também fazem parte de uma coleção que incentiva a interação social e o compartilhar de experiências de jogo, proporcionando uma ótima oportunidade de desenvolver habilidades sociais enquanto jogam. O design autêntico faz com que este conjunto seja um presente perfeito para aniversários ou qualquer ocasião especial. Destinado a crianças com mais de quatro anos, este conjunto de batalha Pokémon é um modo seguro e divertido de introduzir os mais jovens ao mundo Pokémon. o Conjunto de batalha Pokémon - Oshawott & Applin é a escolha ideal para despertar a alegria e a aventura de qualquer treinador Pokémon em formação! Reúna-se com Oshawott e Applin para uma jornada inesquecível através do mundo Pokémon. Em suma, este Conjunto de batalha Pokémon - Oshawott & Applin: Inclui figuras detalhadas de Oshawott e Applin Promove a criatividade e o jogo imaginativo Feito com materiais seguros e duráveis Ideal para coletar e brincar Perfeito para fãs de Pokémon de todas as idades Dimensão: 11 x 17,50 x 6,50 cm. Idade recomendada: + de 4 anos.
   Updated: 2025-08-21T00:01:56Z
   Vendor: Pokémon
@@ -15089,6 +15096,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-cayenne-turbo-replica-elegante-682105625-bburago-1178698645.jpg?v=1752930256
   Price: 23,99 € EUR
+- [Carro dos Bombeiros Renault Premium: Brinquedo Divertido](https://brincatoys.pt/products/carro-dos-bombeiros-renault-premium-1-50): Descubra o divertido Carro dos Bombeiros Renault Premium 1:50. Este brinquedo de alta qualidade é perfeito para incentivar a imaginação das crianças!
+  Updated: 2025-09-26T10:19:01Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-dos-bombeiros-renault-premium-1-50-683200224-8719247537799-bburago-1178698649.jpg?v=1752796452
+  Price: 18,50 € EUR
 - [Mercedes-Benz Unimog U5000](https://brincatoys.pt/products/mercedes-benz-unimog-u5000-1-50): Apresentamos um excitante complemento para a coleção de qualquer entusiasta de veículos de emergência: o Carro dos Bombeiros Mercedes-Benz Unimog U5000. Este modelo, impressionante no seu realismo e atenção ao detalhe, foi meticulosamente desenhado para refletir o poder e a versatilidade do verdadeiro Mercedes-Benz Unimog U5000. Inicialmente, destaca-se a vibrante cor vermelha, símbolo universal de veículos de emergência, que imediatamente capta a atenção. Além disso, a riqueza de detalhes, como as marcações autênticas dos "Marins Pompiers de Marseille", acrescenta um nível de autenticidade fascinante. Primeiramente, a robustez deste modelo é inquestionável, com uma estrutura feita de metal fundido e peças plásticas que garantem durabilidade e longevidade. Ademais, o seu design italiano é uma promessa de qualidade e estética requintada, combinando forma e função com maestria. O Unimog U5000 é famoso pela sua capacidade todo-o-terreno, e este modelo em escala reflete essa característica através das suas rodas e pneus bem modelados. Além disso, o veículo não é apenas um exemplar estático; ele é acompanhado por funcionalidades que realçam ainda mais a experiência de jogo, incluindo partes móveis que simulam as operações de um carro de bombeiros real. Além de fomentar a coordenação motora e o jogo simbólico, este carro dos bombeiros ajuda a desenvolver habilidades sociais, pois incentiva o jogo coletivo. As crianças podem criar cenários de equipa e colaboração, aprendendo a importância do trabalho em grupo e do altruísmo enquanto se divertem. A idade recomendada para este divertido brinquedo começa nos 3 anos, tornando-o ideal para pequenos aventureiros que estão prontos para explorar o mundo do socorro e salvamento. Portanto, vai além de ser um mero objeto de coleção, podendo também proporcionar horas de entretenimento para as crianças. Em suma... Réplica detalhada do Mercedes-Benz Unimog U5000 adequada para coleccionadores e brincadeiras interativas. Fabricado com materiais de alta qualidade, garantindo durabilidade e detalhe autêntico. Recomendado para maiores de 3 anos, promovendo um ambiente lúdico e educativo. Dimensão: 22 x 9 x 6,50 cm. Idade recomendada: + de 3 anos.
   Updated: 2025-08-23T21:26:12Z
   Vendor: Brincatoys
@@ -15279,9 +15293,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-purosangue-replica-perfeita-132603024-4893993260300-bburago-1178698833.jpg?v=1752932774
   Price: 26,50 € EUR
 - [Carro de Brincar Porsche 911 GT3 2021 à Escala 1:24](https://brincatoys.pt/products/porsche-911-gt3-2021): Com o carro de brincar Porsche 911 GT3 2021 e acrescente luxo e detalhes precisos à sua coleção! Perfeito para amantes de veículos desportivos.
-  Updated: 2025-09-25T10:06:50Z
+  Updated: 2025-09-26T10:06:21Z
   Vendor: Bburago
-  Product Type: + 3 anos
+  Product Type: Bburago
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-911-gt3-2021-a-escala-1-24-132110424-4893993211043-bburago-1178698837.jpg?v=1752795372
   Price: 23,99 € EUR
@@ -15432,6 +15446,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-moldes-animais-selvagens-kit-criativo-para-criancas-90721324-5010996121783-play-doh-1178698966.jpg?v=1752933852
   Price: 19,50 € EUR
+- [Carro de brincar Porsche 911 GT2 RS 1:24 | Réplica Autêntica](https://brincatoys.pt/products/porsche-911-gt2-rs): Descubra o Carro de brincar Porsche 911 GT2 RS da Maisto na escala 1:24. Detalhes realistas, acabamento premium e diversão garantida.
+  Updated: 2025-09-26T10:06:20Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-911-gt2-rs-1-24-replica-autentica-683152324-8719247527769-brincatoys-1178698969.jpg?v=1752933862
+  Price: 24,50 € EUR
 - [Carro de brincar Mercedes-Benz AMG GT Preto](https://brincatoys.pt/products/mercedes-benz-amg-gt-preto): Carro de brincar Mercedes-Benz AMG GT Preto, o modelo de edição especial a escala 1:24 com detalhes autênticos para horas de diversão.
   Updated: 2025-09-18T09:18:17Z
   Vendor: Brincatoys
@@ -16301,7 +16322,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-gearsten-marshall-die-cast-771103624-0194735110360-cars-1178699736.jpg?v=1752946088
   Price: 11,99 € EUR
 - [Carros da Disney - Strip Weathers Alias "O Rei" Die-Cast](https://brincatoys.pt/products/carros-da-disney-strip-weathers-alias-o-rei): Descubra os Carros da Disney - Strip Weathers Alias "O Rei", a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs e coleccionadores.
-  Updated: 2025-09-23T19:24:41Z
+  Updated: 2025-09-26T11:57:17Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -16322,7 +16343,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-da-disney-jessica-carvill-reviva-as-corridas-magicas-772003424-0194735200344-cars-1178699796.jpg?v=1752947165
   Price: 11,99 € EUR
 - [Carros da Disney - Road Trip Lighting McQueen](https://brincatoys.pt/products/carros-da-disney-road-trip-lighting-mcqueen): Descubra o carros da Disney - Road Trip Lighting McQueen, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs e coleccionadores.
-  Updated: 2025-09-23T19:24:41Z
+  Updated: 2025-09-26T11:57:16Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -16546,7 +16567,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-volkswagen-id-buzz-681055424-8719247910554-brincatoys-1178699948.jpg?v=1752790455
   Price: 24,90 € EUR
 - [Carro de Brincar Bugatti Bolide Amarelo 1/24 - Edição Especial](https://brincatoys.pt/products/carro-de-brincar-bugatti-bolide-amarelo): Leve para casa a emoção das pistas com o carro de brincar Bugatti Bolide Amarelo 1/24. Modelo Maisto detalhado e durável perfeito para colecionadores.
-  Updated: 2025-09-25T10:28:37Z
+  Updated: 2025-09-26T10:31:46Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -16783,6 +16804,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-em-peluche-da-bluey-20-cm-231300724-8056379133841-bluey-1178700136.jpg?v=1752951377
   Price: 16,99 € EUR
+- [Carro de brincar Ford F-150 Ford F-150 Pick-Up 1979](https://brincatoys.pt/products/ford-f-150-pick-up-1979): Descubra o carro de brincar Ford F-150 Pick-Up 1979 da Maisto, uma réplica à escala 1/18 que captura o legado da icónica pick-up.
+  Updated: 2025-09-26T10:06:15Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ford-f-150-ford-f-150-pick-up-1979-683146224-8719247848338-brincatoys-1178700144.jpg?v=1752951620
+  Price: 58,50 € EUR
 - [Ferrari F1-75 Carlos Sainz Jr. 2022](https://brincatoys.pt/products/ferrari-f1-75-carlos-sainz-jr-2022): Descubra o carro de brincar Ferrari F1-75 Carlos Sainz Jr. 2022 1/43, a escolha perfeita para fãs e colecionadores. Detalhes incríveis, design exclusivo.
   Updated: 2025-09-09T16:46:31Z
   Vendor: Bburago
@@ -17729,7 +17757,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-ken-t-shirt-de-cactos-um-estilo-moderno-e-divertido-850940524-0194735094059-barbie-1178700840.jpg?v=1752961928
   Price: 18,99 € EUR
 - [Carro de Brincar Ferrari 458 Italia - Modelo Escala 1:24](https://brincatoys.pt/products/ferrari-458-italia): Convide a emoção das corridas para a sua casa com este carro de brincar Ferrari 458 Italia. Detalhes realistas para garantir diversão duradoura!
-  Updated: 2025-09-25T10:01:10Z
+  Updated: 2025-09-26T10:19:10Z
   Vendor: Bburago
   Product Type: Bburago
   Availability: Available
@@ -17827,7 +17855,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76918-mclaren-solus-gt-e-mclaren-f1-667691824-5702017424224-lego-1178700948.jpg?v=1752963966
   Price: 49,99 € EUR
 - [Corrida de Bolas Pack Pastel 110 peças: Brinquedo Educativo](https://brincatoys.pt/products/corrida-de-bolas-pack-pastel-110-pecas): Descubra um mundo de diversão educativa com o Corrida de Bolas Pack Pastel 110 peças. Encaixes magnéticos em tons pastel para construir pistas emocionantes.
-  Updated: 2025-09-23T16:28:36Z
+  Updated: 2025-09-26T08:34:44Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19101,7 +19129,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76314-capitao-america-guerra-civil-jogue-667631425-5702017817873-lego-1178701805.jpg?v=1752977294
   Price: 99,99 € EUR
 - [Lego City 60447 Carrinha de Montanha 4x4 Todo-o-Terreno](https://brincatoys.pt/products/lego-city-carrinha-de-montanha-4x4-todo-o-terreno): Aventure-se na natureza com a Lego City 60447 Carrinha de Montanha 4x4 Todo-o-Terreno! Prepare-se para explorar montanhas e superar desafios.
-  Updated: 2025-09-23T18:58:52Z
+  Updated: 2025-09-26T09:17:56Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -20032,7 +20060,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-allosaurus-detalhado-232700425-0194735270040-jurassic-world-1181899610.jpg?v=1756213336
   Price: 56,90 € EUR
 - [Boneca Barbie 80º Aniversário: Elegância e Estilo](https://brincatoys.pt/products/boneca-barbie-80-aniversario-com-vestido-vermelho): Celebrando 80 anos de elegância, a boneca Barbie 80º Aniversário encanta com seu vestido vermelho deslumbrante. Adquira já essa edição especial!
-  Updated: 2025-09-24T07:31:27Z
+  Updated: 2025-09-26T09:53:41Z
   Vendor: Barbie
   Product Type: Barbie
   Availability: Available
@@ -20283,6 +20311,41 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-benz-amg-gt-amarelo-brincar-com-estilo-133113425-0090159311348-brincatoys-1193313776.jpg?v=1758124207
   Price: 23,99 € EUR
+- [Carro de Brincar Porsche 963 GTP 1/24](https://brincatoys.pt/products/porsche-963-gtp-1-24): Descubra o carro de brincar Porsche 963 GTP 1/24, feito em metal die-cast para durabilidade e design autêntico. Adquira essa peça incrível!
+  Updated: 2025-09-26T11:44:42Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-963-gtp-1-24-682804225-8719247991935-bburago-1194667588.jpg?v=1758803647
+  Price: 27,90 € EUR
+- [Carro de brincar Ford Ranger Laranja: Aventura Miniatura](https://brincatoys.pt/products/ford-ranger-laranja-2019): Explore o fascinante carro de brincar Ford Ranger Laranja! Esta réplica em miniatura encanta colecionadores e amantes de aventuras. 🚗
+  Updated: 2025-09-26T10:31:45Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ford-ranger-laranja-aventura-miniatura-683152125-8719247527806-brincatoys-1194680781.jpg?v=1758809397
+  Price: 23,50 € EUR
+- [Ferrari Racing - Ferrari 512 BB: Lenda das Pistas](https://brincatoys.pt/products/ferrari-racing-ferrari-512-bb-1000km-monza-1981): Traga para casa a lenda das pistas com o Ferrari Racing - Ferrari 512 BB, perfeito para completar a sua coleção. Adquira este modelo icônico! 🏎️
+  Updated: 2025-09-26T11:44:49Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/ferrari-racing-ferrari-512-bb-lenda-das-pistas-683630825-8719247719706-bburago-1194680777.jpg?v=1758809287
+  Price: 29,99 € EUR
+- [Ferrari Racing - Ferrari 296 GT3: Miniatura Impressionante](https://brincatoys.pt/products/ferrari-racing-ferrari-296-gt3-71): Notável pelo design arrojado, o Ferrari Racing - Ferrari 296 GT3 impressiona com detalhes incríveis e robustez. Adiciona emoção à tua coleção!
+  Updated: 2025-09-26T11:44:41Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/ferrari-racing-ferrari-296-gt3-miniatura-impressionante-683631325-8719247910394-bburago-1194691282.jpg?v=1758815758
+  Price: 29,99 € EUR
+- [Ferrari Racing - Ferrari 499P Hypercar Coleção 2024](https://brincatoys.pt/products/ferrari-racing-ferrari-499p-hypercar-robert-kubika-24h-le-mans-2024): Celebre a era Hypercar com o Ferrari Racing - Ferrari 499P Hypercar! Este modelo impressionante é um must-have para colecionadores apaixonados. 🏎️
+  Updated: 2025-09-26T10:19:28Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/ferrari-racing-ferrari-499p-hypercar-colecao-2024-683631725-8719247979292-bburago-1194691278.jpg?v=1758815646
+  Price: 31,50 € EUR
 - [Peluche Hello Kitty com Vestido Vermelho Super Macio](https://brincatoys.pt/products/peluche-hello-kitty-vestido-vermelho-24-cm): Descubra o Peluche Hello Kitty com vestido vermelho, perfeito para abraços! Um encanto que encanta miúdos e graúdos. Compre já!
   Updated: 2025-09-26T02:56:27Z
   Vendor: Brincatoys
@@ -20291,12 +20354,33 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-hello-kitty-com-vestido-vermelho-super-macio-232061525-8052780426152-brincatoys-1194712958.jpg?v=1758829807
   Price: 24,90 € EUR
 - [Jogo Operação](https://brincatoys.pt/products/jogo-de-tabuleiro-operacao): Transforma qualquer tarde numa consulta divertida! Em primeiro lugar, o Jogo de tabuleiro Operação desafia as crianças a retirar “doenças” do paciente sem tocar nas bordas, estimulando a coordenação motora fina, a concentração e o autocontrolo. Além disso, promove o jogo em família e o trabalho em equipa, porque todos querem ouvir menos “bzzzt” e mais aplausos! Do mesmo modo, a nova edição portátil abre como uma mala, guarda todas as peças e joga-se em qualquer lugar. Inclui pinça condutora, compartimento para cartas, luzes e sons, bem como um temporizador digital para aumentar a emoção. Igualmente, nesta edição do jogo Operação, podes escolher entre 2 formas de jogar: a jogabilidade clássica no modo Hospital ou um frenesim de cortar a respiração no modo Emergência. No modo Hospital, os pequenos médicos compram cartas de curativos para doenças malucas. O suspense aumenta à medida que tentam manter as mãos firmes enquanto operam o Sam Cavidade ou - BZZZT! - o seu nariz vermelho ilumina-se! No modo Emergência, a corrida é para remover o maior número possível de doenças antes que o tempo acabe. Mas, ups! Se a pinça bater de lado, o Sam da Cavidade arrota, grita e faz outros sons histéricos que deixam as crianças a rir! Em ambos os modos, quem remover o maior número de doenças ganha - e "cura" o seu paciente. Este adorável jogo vem numa mala de transporte tudo-em-um com arrumação, por isso é um ótimo jogo de viagem para as crianças brincarem em qualquer altura e em qualquer lugar. Porque é que os pais adoram? Primeiro, o Jogo de tabuleiro Operação desenvolve destreza e atenção seletiva. Depois, treina a paciência, ensina a lidar com a frustração e cria momentos de partilha sem ecrãs. Ademais, é um clássico intemporal que passa de irmãos para irmãos, oferecendo uma excelente relação qualidade-preço. Por fim, diverte-te, aprende e ri com um jogo que nunca passa de moda – perfeito para presentes, festas e tardes de fim-de-semana! Compatível com regras simples de pontuação, permite adaptar a dificuldade a cada idade e grupo facilmente. Em suma... Alimentação: 3x AA/LR6 1,5 V (não incluídas) Edição portátil com arrumação interna Luzes, sons e temporizador para jogos mais emocionantes Inclui 13 peças e cartas de missão Dimensão: 26,50 x 27 x 4,20 cm.Idade recomendada.: + de 6 anos.
-  Updated: 2025-09-25T22:34:48Z
+  Updated: 2025-09-26T07:32:08Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-operacao-77095125-5010996307682-brincatoys-1194724235.jpg?v=1758837117
   Price: 32,50 € EUR
+- [Ferrari 330 P4 Daytona 1967 - Modelo Escala 1:24](https://brincatoys.pt/products/ferrari-330-p4-daytona-1967): Convide a emoção das corridas para a sua casa com este carro de brincar Ferrari 330 P4 Daytona 1967. Detalhes realistas para garantir diversão duradoura!
+  Updated: 2025-09-26T10:19:00Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/ferrari-330-p4-daytona-1967-modelo-escala-1-24-682631025-8719247910387-bburago-1194724231.jpg?v=1758837006
+  Price: 31,50 € EUR
+- [Land Rover Defender verde 2022 à Escala 1:24](https://brincatoys.pt/products/land-rover-defender-110-verde-2022): Com o carro de brincar Land Rover Defender verde 2022 traga aventura e precisão para a sua coleção de brinquedos. Modelo retrata a essência da Land Rover.
+  Updated: 2025-09-26T10:56:22Z
+  Vendor: Bburago
+  Product Type: Bburago
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/land-rover-defender-verde-2022-a-escala-1-24-682110126-8719247768827-bburago-1194747356.jpg?v=1758851406
+  Price: 23,99 € EUR
+- [Transformers Age of The Primes - Sideways: Ação Épica](https://brincatoys.pt/products/transformers-age-of-the-primes-sideways): As asas do Transformers Age of The Primes - Sideways oferecem aventuras em modo robô e nave futurista. Junte-se à ação e crie batalhas épicas!
+  Updated: 2025-09-26T11:02:14Z
+  Vendor: Transformers
+  Product Type: + 8 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-sideways-acao-epica-861489525-5010996318466-transformers-1194825074.jpg?v=1758887516
+  Price: 38,90 € EUR
 
 ## Collections
 
@@ -20313,11 +20397,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-20T10:24:53Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-09-24T22:55:40Z
-  Total Products: 567
+  Updated: 2025-09-26T09:20:44Z
+  Total Products: 568
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
-  Updated: 2025-09-25T13:57:20Z
-  Total Products: 27
+  Updated: 2025-09-26T11:27:44Z
+  Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
   Updated: 2025-09-25T22:27:29Z
   Total Products: 185
@@ -20391,7 +20475,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T22:32:16Z
   Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-09-24T22:37:33Z
+  Updated: 2025-09-26T11:21:50Z
   Total Products: 239
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-09-24T21:14:27Z
@@ -20412,8 +20496,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T22:10:11Z
   Total Products: 102
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
-  Updated: 2025-09-06T22:22:31Z
-  Total Products: 19
+  Updated: 2025-09-26T11:36:19Z
+  Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
   Updated: 2025-09-08T22:16:49Z
   Total Products: 121
@@ -20424,8 +20508,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T14:47:52Z
   Total Products: 204
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-09-25T23:12:29Z
-  Total Products: 162
+  Updated: 2025-09-26T11:34:32Z
+  Total Products: 165
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-09-24T21:42:38Z
   Total Products: 111
@@ -20448,17 +20532,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T21:25:56Z
   Total Products: 22
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-25T18:37:11Z
+  Updated: 2025-09-26T11:36:22Z
   Total Products: 327
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-25T22:47:23Z
+  Updated: 2025-09-26T11:21:50Z
   Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-24T12:50:15Z
   Total Products: 688
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-09-24T22:35:25Z
-  Total Products: 317
+  Updated: 2025-09-26T09:20:44Z
+  Total Products: 318
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
   Total Products: 18
@@ -20469,29 +20553,29 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-21T11:41:20Z
   Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-25T13:57:20Z
-  Total Products: 1337
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 1336
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-25T23:00:29Z
-  Total Products: 2435
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 2438
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-25T23:00:29Z
-  Total Products: 2888
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 2897
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3272
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3283
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3397
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3411
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3475
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3489
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3523
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3537
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-25T22:34:50Z
-  Total Products: 357
+  Updated: 2025-09-26T11:34:32Z
+  Total Products: 361
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
   Total Products: 52
@@ -20517,8 +20601,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-20T23:28:53Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-09-23T19:25:34Z
-  Total Products: 51
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 50
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-09-09T10:07:25Z
   Total Products: 2
@@ -20571,8 +20655,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-02T10:16:38Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
-  Updated: 2025-09-20T11:33:39Z
-  Total Products: 45
+  Updated: 2025-09-26T09:41:26Z
+  Total Products: 46
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
   Updated: 2025-09-05T10:57:11Z
   Total Products: 32
@@ -20601,7 +20685,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T21:25:22Z
   Total Products: 345
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
-  Updated: 2025-09-07T11:36:27Z
+  Updated: 2025-09-26T11:21:50Z
   Total Products: 10
 - [LadyBug](https://brincatoys.pt/collections/ladybug)
   Updated: 2025-09-16T10:31:18Z
@@ -20679,8 +20763,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3538
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3552
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-25T22:27:29Z
   Total Products: 284
@@ -20691,8 +20775,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T12:58:14Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-25T13:57:49Z
-  Total Products: 1161
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 1163
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-23T19:25:52Z
   Total Products: 474
@@ -20706,8 +20790,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T11:28:56Z
   Total Products: 76
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-09-24T22:35:25Z
-  Total Products: 211
+  Updated: 2025-09-26T09:41:26Z
+  Total Products: 212
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-09-24T21:00:40Z
   Total Products: 91
@@ -20715,11 +20799,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T11:20:49Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3555
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3569
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-25T23:00:30Z
-  Total Products: 3555
+  Updated: 2025-09-26T11:58:02Z
+  Total Products: 3569
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20730,17 +20814,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-25T23:00:31Z
-  Total Products: 3065
+  Updated: 2025-09-26T11:45:21Z
+  Total Products: 3082
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-09-25T23:12:29Z
-  Total Products: 124
+  Updated: 2025-09-26T11:34:32Z
+  Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-25T23:00:31Z
-  Total Products: 3065
+  Updated: 2025-09-26T11:45:21Z
+  Total Products: 3082
 
 ## Blogs
 
