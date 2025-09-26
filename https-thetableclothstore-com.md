@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-26T12:00:39.685Z
+- Updated At: 2025-09-26T20:00:38.139Z
 
 ## Products
 
@@ -33693,9 +33693,6 @@
 - [LYNSFIELD - The Tablecloth Store](https://thetableclothstore.com/collections/lynsfield): - The Tablecloth Store
   Updated: 2025-09-14T16:27:58Z
   Total Products: 7
-- [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-09-17T11:19:22Z
-  Total Products: 613
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
   Updated: 2025-09-17T11:19:22Z
   Total Products: 592
