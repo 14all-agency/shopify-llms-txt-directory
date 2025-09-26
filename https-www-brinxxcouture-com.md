@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-26T16:00:49.404Z
+- Updated At: 2025-09-26T20:00:47.556Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-26T03:00:50Z
+  Updated: 2025-09-26T16:21:39Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-26T07:01:36Z
+  Updated: 2025-09-26T19:03:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17263,7 +17263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Scoop-Neck-Spaghetti-Strap-Two-Piece-Swim-Set-Brinxx-Couture-3515.jpg?v=1712074399
     Price: $29.99 USD
 - [Nicole Lee USA Graphic Crossbody Bag - Brinxx Couture](https://www.brinxxcouture.com/products/graphic-crossbody-bag): This Nicole Lee USA Graphic Crossbody Bag is both stylish and functional, making it the perfect accessory for any outfit. The graphic design adds a touch of personality.
-  Updated: 2025-08-22T19:23:53Z
+  Updated: 2025-09-26T18:22:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-26T14:41:32Z
+  Updated: 2025-09-26T19:02:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35222,10 +35222,96 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/cd6899b79e784bc5b73c2c886231a1bc-Max.jpg?v=1756304762
     Price: $35.00 USD
-- [Black Mesh Rhinestone Party Dress - Crystal Glam](https://www.brinxxcouture.com/products/black-mesh-rhinestone-party-dress-crystal-glam): Stunning black mesh party dress with rhinestone details. See-through crystal design perfect for birthdays, parties, and special occasions. Glamorous fit.
-  Updated: 2025-09-25T14:57:32Z
+- [Mesh Long Sleeve Ruffle Hem Bodycon Midi Dress - Party Style](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress): Shop our elegant mesh long sleeve bodycon midi dress with ruffle hem. Perfect for parties, weddings & special events. Flattering fit, sophisticated style.
+  Updated: 2025-09-26T19:52:32Z
   Vendor: Brinxx Couture
-  Product Type: 
+  Product Type: Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S176a773d77a64ea39a4a58459f649d3dg.webp?v=1756475807
+  - [Black / XS / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436342454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S176a773d77a64ea39a4a58459f649d3dg.webp?v=1756475807
+    Price: $25.87 USD
+  - [Black / M / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436375222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S176a773d77a64ea39a4a58459f649d3dg.webp?v=1756475807
+    Price: $25.87 USD
+  - [Black / S / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436407990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S176a773d77a64ea39a4a58459f649d3dg.webp?v=1756475807
+    Price: $25.87 USD
+  - [Black / XL / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436440758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S176a773d77a64ea39a4a58459f649d3dg.webp?v=1756475807
+    Price: $25.87 USD
+  - [Black / L / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436473526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S176a773d77a64ea39a4a58459f649d3dg.webp?v=1756475807
+    Price: $25.87 USD
+  - [Wine-Red / S / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436506294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S759ca79d820145a5a76dbd303ebc2813A.webp?v=1756475807
+    Price: $25.87 USD
+  - [Wine-Red / XS / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436539062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S759ca79d820145a5a76dbd303ebc2813A.webp?v=1756475807
+    Price: $25.87 USD
+  - [Wine-Red / L / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436571830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S759ca79d820145a5a76dbd303ebc2813A.webp?v=1756475807
+    Price: $25.87 USD
+  - [Wine-Red / M / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436604598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S759ca79d820145a5a76dbd303ebc2813A.webp?v=1756475807
+    Price: $25.87 USD
+  - [Navy / XS / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436637366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a53178326514f4d8e92cbd79e28416db.webp?v=1756475807
+    Price: $25.87 USD
+  - [Wine-Red / XL / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436670134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S759ca79d820145a5a76dbd303ebc2813A.webp?v=1756475807
+    Price: $25.87 USD
+  - [Navy / M / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436702902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a53178326514f4d8e92cbd79e28416db.webp?v=1756475807
+    Price: $25.87 USD
+  - [Navy / S / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436735670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a53178326514f4d8e92cbd79e28416db.webp?v=1756475807
+    Price: $25.87 USD
+  - [Navy / XL / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436768438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a53178326514f4d8e92cbd79e28416db.webp?v=1756475807
+    Price: $25.87 USD
+  - [Navy / L / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436801206)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a53178326514f4d8e92cbd79e28416db.webp?v=1756475807
+    Price: $25.87 USD
+  - [Green / S / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436833974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S55c4ea5641524fd59cb774e753be3ba8z.webp?v=1756475807
+    Price: $25.87 USD
+  - [Green / XS / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436866742)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S55c4ea5641524fd59cb774e753be3ba8z.webp?v=1756475807
+    Price: $25.87 USD
+  - [Green / L / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436899510)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S55c4ea5641524fd59cb774e753be3ba8z.webp?v=1756475807
+    Price: $25.87 USD
+  - [Green / M / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436932278)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S55c4ea5641524fd59cb774e753be3ba8z.webp?v=1756475807
+    Price: $25.87 USD
+  - [Green / XL / United States](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress?variant=44229436965046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S55c4ea5641524fd59cb774e753be3ba8z.webp?v=1756475807
+    Price: $25.87 USD
+- [Black Mesh Rhinestone Party Dress - Crystal Glam Style](https://www.brinxxcouture.com/products/black-mesh-rhinestone-party-dress-crystal-glam): Stunning black mesh party dress with sparkling rhinestone details. Perfect for birthdays, parties & special events. Show-stopping glamorous style.
+  Updated: 2025-09-26T17:49:03Z
+  Vendor: Brinxx Couture
+  Product Type: Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sd3541f300b694d79b9e4145139772d9av.webp?v=1756475807
   - [black / S / United States](https://www.brinxxcouture.com/products/black-mesh-rhinestone-party-dress-crystal-glam?variant=44229437096118)
@@ -35248,212 +35334,212 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sa7ab03948e094ff9a5215d179dbdfcc4T.webp?v=1756475807
     Price: $49.99 USD
-- [Hooded Faux Fur Cropped Jacket - Women's Winter Coat](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat): Luxurious hooded faux fur cropped jacket for women. Fluffy winter coat with premium quality materials. Perfect for cold weather styling and warmth.
-  Updated: 2025-09-17T19:54:28Z
+- [Hooded Faux Fur Cropped Jacket - Cozy Winter Coat Style](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat): Stay warm and stylish with our hooded faux fur cropped jacket. Perfect winter coat with cozy hood and trendy cropped fit. Shop now! Free Shipping!
+  Updated: 2025-09-26T19:52:33Z
   Vendor: Brinxx Couture
-  Product Type: 
+  Product Type: Coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8d28cab65a8940dc9a989eb63d6f4fc0j.webp?v=1756475814
   - [Brown / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437227190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [black / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437259958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9ff85756de824a2faf93b4cf5264cebdT.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [black / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437292726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9ff85756de824a2faf93b4cf5264cebdT.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [black / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437325494)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9ff85756de824a2faf93b4cf5264cebdT.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Brown / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437358262)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Brown / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437391030)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Brown / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437423798)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Brown / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437456566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437489334)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437522102)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437554870)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Brown / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437587638)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Pink / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437620406)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S669a6aa8e709492ba915661a1b889dc1U.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437653174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437685942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437718710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Pink / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437751478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S669a6aa8e709492ba915661a1b889dc1U.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Pink / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437784246)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S669a6aa8e709492ba915661a1b889dc1U.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Pink / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437817014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S669a6aa8e709492ba915661a1b889dc1U.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Pink / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437849782)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S669a6aa8e709492ba915661a1b889dc1U.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Pink / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437882550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S669a6aa8e709492ba915661a1b889dc1U.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [ROYAL BLUE / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437915318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S881a7cef63c64c33bf6b18507eb7b59dc.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [ROYAL BLUE / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437948086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S881a7cef63c64c33bf6b18507eb7b59dc.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [ROYAL BLUE / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229437980854)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S881a7cef63c64c33bf6b18507eb7b59dc.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [ROYAL BLUE / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438013622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S881a7cef63c64c33bf6b18507eb7b59dc.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [ROYAL BLUE / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438046390)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S881a7cef63c64c33bf6b18507eb7b59dc.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438079158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438111926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438144694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [ROYAL BLUE / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438177462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S881a7cef63c64c33bf6b18507eb7b59dc.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Beige Camel / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438210230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9fb7f65e0e3849bca356f308ca7674c0o.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438242998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438275766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438308534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Beige Camel / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438341302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9fb7f65e0e3849bca356f308ca7674c0o.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Beige Camel / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438374070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9fb7f65e0e3849bca356f308ca7674c0o.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Beige Camel / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438406838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9fb7f65e0e3849bca356f308ca7674c0o.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Beige Camel / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438439606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9fb7f65e0e3849bca356f308ca7674c0o.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Beige Camel / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438472374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S9fb7f65e0e3849bca356f308ca7674c0o.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Light Pink / S](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438505142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8a0fcd53d7034bbe94ff7082e17aedd1s.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Light Pink / XXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438537910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8a0fcd53d7034bbe94ff7082e17aedd1s.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Silver Fox / XS](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438570678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sb099be5f06a144c09eaf024770ae01efO.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Light Pink / XL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438603446)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8a0fcd53d7034bbe94ff7082e17aedd1s.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Light Pink / L](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438636214)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8a0fcd53d7034bbe94ff7082e17aedd1s.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Light Pink / M](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438668982)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8a0fcd53d7034bbe94ff7082e17aedd1s.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [WHITE / XS](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438701750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sa63dfd7e9cd345a4b9575a164efa10dbB.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Red / XS](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438734518)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S6fe4cedf6f8641349eb11dbc63ed183eY.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Rose / XS](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438767286)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Se087646081e24f179a43299128d81892I.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Light Pink / XXXL](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438800054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S8a0fcd53d7034bbe94ff7082e17aedd1s.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Brown / XS](https://www.brinxxcouture.com/products/hooded-faux-fur-cropped-jacket-womens-winter-coat?variant=44229438832822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
-    Price: $49.99 USD
+    Price: $59.99 USD
 - [Stand Collar Sweater Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/stand-collar-sweater-bodycon-dress): Step out in style with this Stand Collar Sweater Bodycon Dress, where cozy meets curve-hugging chic. Its snug fit highlights your silhouette. Free Shipping!
   Updated: 2025-09-23T02:14:25Z
   Vendor: Brinxx Couture
@@ -35713,9 +35799,9 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01di7lly2C1DAfAR5ef__3953378413-0-cib.jpg?v=1758137012
     Price: $54.99 USD
 - [Luxe Knitted Turtleneck Long Sleeve Set | Premium Women's Fashion](https://www.brinxxcouture.com/products/knitted-turtleneck-long-sleeve-set): Shop our luxurious knitted turtleneck long sleeve set. Premium comfort meets timeless style. Perfect for work & casual wear. Free shipping at Brinxx Couture!
-  Updated: 2025-09-25T06:42:23Z
+  Updated: 2025-09-26T18:21:21Z
   Vendor: Brinxx Couture
-  Product Type: 
+  Product Type: Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01NXXWiu20yV4WIsCd3__3041176918-0-cib.jpg?v=1758137022
   - [S / Brown](https://www.brinxxcouture.com/products/knitted-turtleneck-long-sleeve-set?variant=44283044561078)
@@ -35734,8 +35820,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Fg3xbh20yV4W99F2q__3041176918-0-cib.jpg?v=1758137023
     Price: $49.99 USD
-- [High Waist Buckle Belt Pants | Slim Fit Women’s Trousers](https://www.brinxxcouture.com/products/high-waist-buckle-belt-pants-women): Shop stylish high waist pants with buckle belt for women. Slim fit, versatile, and perfect for work or casual wear. Available in multiple colors. Free Shipping!
-  Updated: 2025-09-24T10:05:19Z
+- [High Waist Buckle Belt Pants - Women's Slim Fit Style](https://www.brinxxcouture.com/products/high-waist-buckle-belt-pants-women): Shop stylish high waist buckle belt pants for women. Flared leg design, adjustable belt, perfect for work or evening. Premium fabric for premium comfort.
+  Updated: 2025-09-26T19:52:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35921,8 +36007,8 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59706BM.jpg?v=1758655228
     Price: $59.99 USD
 - [Leopard Print Long Sleeve Bodysuit - High Neck Slim Fit](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit): Shop our leopard print long sleeve bodysuit with high neck design. Slim fit, comfortable polyester fabric. Perfect for layering or standalone wear. Free Ship
-  Updated: 2025-09-26T15:45:58Z
-  Vendor: George
+  Updated: 2025-09-26T19:52:32Z
+  Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01oM4s0N1hc4eYQgJtT__2207411884297-0-cib.jpg?v=1758900082
@@ -35942,9 +36028,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01LXWFex1hc4eODJmyR__2207411884297-0-cib.jpg?v=1758900080
     Price: $19.99 USD
-- [High Waist Leopard-Print Skirt](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt): Style: SexyFit: SlimFabric: PolyesterPattern: Animal PrintElement: RuchedDress/Skirt Length: MaxiRise: High RiseProduct Type: PencilMain Composition: PolyesterSeason: SeasonlessF00107205
-  Updated: 2025-09-26T15:22:49Z
-  Vendor: George
+- [High Waist Leopard Print Skirt - Sexy Slim Fit Fashion](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt): Shop our high waist leopard print skirt with sexy slim fit. Bold animal print design perfect for day or night. Flattering high waisted style. Free Shipping!
+  Updated: 2025-09-26T19:52:33Z
+  Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01OLVzzq1hc4c1SVe8S__2207411884297-0-cib.jpg?v=1758900136
@@ -35981,7 +36067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
     Price: $29.99 USD
 - [Leopard Print Long Sleeve Bodycon Dress - Sexy Slim Style](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress): Shop our stunning leopard print long sleeve bodycon dress. Sexy slim fit perfect for nights out, parties & special occasions. Bold animal print that stands out.
-  Updated: 2025-09-26T15:42:19Z
+  Updated: 2025-09-26T19:52:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36019,7 +36105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
     Price: $34.99 USD
 - [High Collar Long Sleeve Bodycon Midi Dress - Elegant Style](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress): Shop our elegant high collar long sleeve bodycon midi dress. Perfect figure-flattering fit for work, evening events, or special occasions. Premium quality.
-  Updated: 2025-09-26T15:35:41Z
+  Updated: 2025-09-26T19:52:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36037,7 +36123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pcWaV01VJxv2Bxciq__2215584952633-0-cib.jpg?v=1758900215
     Price: $34.99 USD
 - [Pointed High Heeled Thigh Boots - Brinxx Couture](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots): Step into confidence and flare with these Pointed High Heeled Thigh Boots. Their sleek, pointed toe pairs perfectly with the towering heel to elongate your legs
-  Updated: 2025-09-26T15:27:53Z
+  Updated: 2025-09-26T19:52:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36113,13 +36199,13 @@
   Updated: 2025-08-22T19:23:29Z
   Total Products: 0
 - [Women's Dresses - All Styles & Occasions - Brinxx Couture](https://www.brinxxcouture.com/collections/dresses): Discover Brinxx Couture's complete dress collection. From casual to formal, find the perfect dress for any occasion. Bold designs that make a statement.
-  Updated: 2025-09-26T15:41:39Z
+  Updated: 2025-09-26T17:49:04Z
   Total Products: 220
 - [Top Beauty Products | Skincare, Makeup & Haircare Essentials](https://www.brinxxcouture.com/collections/beauty): Explore our range of beauty products. Find top skincare, makeup, and haircare essentials to enhance your natural beauty. Free shipping on all orders!
   Updated: 2025-08-22T19:23:29Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover Brinxx Couture's collection of trendy co-ord sets and chic one-piece outfits. Shop now for stylish, coordinated looks perfect for any occasion.
-  Updated: 2025-09-24T17:04:19Z
+  Updated: 2025-09-26T18:21:22Z
   Total Products: 59
 - [Plus Size Clothing | Stylish Dresses, Tops & More | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover flattering plus size clothing at Brinxx Couture. We offer trendy styles for all sizes. Shop dresses, tops, pants & more. Free shipping!
   Updated: 2025-08-29T08:06:20Z
@@ -36137,7 +36223,7 @@
   Updated: 2025-09-26T15:45:57Z
   Total Products: 50
 - [Women's Pants | Shop the Latest Styles | Brinxx Couture](https://www.brinxxcouture.com/collections/bottoms): Brinxx Couture offers a wide variety of women's pants in the latest styles. Find the perfect pair of pants to flatter your figure and keep you comfortable.
-  Updated: 2025-09-26T15:16:20Z
+  Updated: 2025-09-26T16:10:21Z
   Total Products: 25
 - [Best Hats for Women | Stylish & Trendy Women’s Hats](https://www.brinxxcouture.com/collections/hats): Discover the best hats for women at Brinxx Couture. Shop our stylish and trendy collection of women’s hats, perfect for any occasion. Find your perfect fit today!
   Updated: 2025-08-22T19:23:30Z
@@ -36203,7 +36289,7 @@
   Updated: 2025-08-25T13:43:27Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they sell out.
-  Updated: 2025-09-26T15:45:57Z
+  Updated: 2025-09-26T16:10:21Z
   Total Products: 91
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2025-09-26T15:41:39Z
@@ -36212,13 +36298,13 @@
   Updated: 2025-08-22T19:23:31Z
   Total Products: 8
 - [Trendy Women’s Skirts | Brinxx Couture](https://www.brinxxcouture.com/collections/skirts): Discover our collection of trendy skirts for women. From casual to dressy, find the perfect skirt for any occasion at Brinxx Couture.
-  Updated: 2025-09-26T15:16:20Z
+  Updated: 2025-09-26T16:02:49Z
   Total Products: 6
 - [Women’s Pants | Brinxx Couture](https://www.brinxxcouture.com/collections/pants): Shop stylish and comfortable pants for women at Brinxx Couture. From casual to formal, find the perfect fit for every occasion.
-  Updated: 2025-09-23T19:38:02Z
+  Updated: 2025-09-26T16:10:21Z
   Total Products: 16
 - [Stylish Women's Coats | Winter, Trench, Wool & More](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2025-09-26T08:00:06Z
+  Updated: 2025-09-26T17:44:49Z
   Total Products: 34
 - [Fashionable Women’s Scarves | Brinxx Couture](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2025-08-22T19:23:31Z
