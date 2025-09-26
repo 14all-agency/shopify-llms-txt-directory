@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-26T16:00:47.907Z
+- Updated At: 2025-09-26T20:00:47.518Z
 
 ## Products
 
@@ -1318,7 +1318,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BIBS_BABY_BITIE_3000216_5713795209828_Ivory_720x_428f760e-b92b-4106-9de4-53a7e99de22f.jpg?v=1643867166
   Price: $27.00 NZD
 - [BIBS Pacifier - Boheme - Natural Rubber - Ivory & Blossom](https://www.littlebambinos.co.nz/products/bibs-boheme-pacifier-ivory-blossom): The Boheme pacifier is inspired by the modern bohemian style. The round natural rubber latex nipple is designed to resemble the shape and size of the motherÃ¢â‚¬â„¢s soft nipple and promotes a similar tongue placement and sucking technique when breastfeeding.
-  Updated: 2025-08-06T22:42:25Z
+  Updated: 2025-09-26T17:47:08Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -15805,7 +15805,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-26T15:43:11Z
+  Updated: 2025-09-26T19:43:12Z
   Total Products: 398
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16657,7 +16657,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-26T15:43:11Z
+  Updated: 2025-09-26T19:43:12Z
   Total Products: 1276
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-25T21:23:18Z
