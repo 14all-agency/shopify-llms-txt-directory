@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-26T16:00:45.926Z
+- Updated At: 2025-09-26T20:00:43.240Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -599,7 +599,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Rose Gold Bird Earrings | Lily Blanche](https://www.lilyblanche.com/products/bird-earrings-rose-gold): Buy these elegant 18 carat rose gold vermeil bird earrings online today. Created by hand in our Scottish studio, our drop bird earrings come in a black ribbon-tied gift box making them the ideal luxury gift for a mother, sister or friend. Free UK shipping
-  Updated: 2025-04-03T17:47:52Z
+  Updated: 2025-09-26T16:24:35Z
   Vendor: Lily Blanche
   Product Type: Hoop
   Availability: Available
@@ -15701,7 +15701,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-09-26T10:37:44Z
+  Updated: 2025-09-26T19:30:32Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16913,7 +16913,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-26T12:46:40Z
+  Updated: 2025-09-26T18:48:55Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22669,7 +22669,7 @@ GBP 340
     Availability: Available
     Price: £220.00 GBP
 - [Filigree Heart Locket Necklace Silver + Photos & Engraving](https://www.lilyblanche.com/products/heart-locket-necklace-in-silver-engraveable): Keep loved ones close with this pretty filigree sterling silver heart locket with a solid back that can be engraved. Add 2 photos - free today. Free UK Shipping
-  Updated: 2025-09-23T17:22:40Z
+  Updated: 2025-09-26T19:27:45Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
