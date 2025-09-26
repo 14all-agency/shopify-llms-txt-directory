@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-26T04:00:46.523Z
+- Updated At: 2025-09-26T16:00:49.404Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-09-26T02:41:04Z
+  Updated: 2025-09-26T14:01:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-25T09:40:41Z
+  Updated: 2025-09-26T07:01:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9332,7 +9332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sports-Tank-and-Leggings-Set-Brinxx-Couture-8329.jpg?v=1709849852
     Price: $39.99 USD
 - [One-Shoulder Twisted Split Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-one-shoulder-twisted-split-dress): Look beautiful and feel confident with this Plus Size One-Shoulder Twisted Split Dress. Enjoy the sleek one-shoulder design and flatter your figure with the twisted split skirt.
-  Updated: 2025-09-14T07:21:01Z
+  Updated: 2025-09-26T05:15:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10388,7 +10388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tie-Detail-Round-Neck-Midi-Dress-Brinxx-Couture-79.jpg?v=1709856486
     Price: $35.00 USD
 - [Boat Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/boat-neck-lantern-sleeve-dress): Elevate your wardrobe with this elegant Boat Neck Lantern Sleeve Dress. Featuring a graceful boat neckline and voluminous lantern add timeless sophistication.
-  Updated: 2025-09-25T16:56:34Z
+  Updated: 2025-09-26T04:54:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10948,7 +10948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Caramel-Platform-Combat-Boots-Brinxx-Couture-3438.jpg?v=1709862667
     Price: $50.00 USD
 - [Round Neck Puff Sleeve Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-puff-sleeve-sleeve-blouse): This Round Neck Puff Sleeve Sleeve Blouse is perfect for any occasion! Its round neck design and puff long sleeves add a touch of elegance to your style.
-  Updated: 2025-09-25T05:11:35Z
+  Updated: 2025-09-26T09:02:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12841,7 +12841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Turtleneck-Long-Sleeve-Dress-Brinxx-Couture-3771.jpg?v=1709870425
     Price: $44.99 USD
 - [Mock Neck Long Sleeve Maxi Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-long-sleeve-maxi-dress): This Mock Neck Long Sleeve Maxi Bodycon Dress is the perfect mix of sophisticated and chic. Featuring a mock neck and long sleeves, this dress is perfect to rock any style.
-  Updated: 2025-08-31T13:09:10Z
+  Updated: 2025-09-26T15:40:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12940,7 +12940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-26T03:40:52Z
+  Updated: 2025-09-26T04:00:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12950,7 +12950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -17225,7 +17225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-09-23T11:01:02Z
+  Updated: 2025-09-26T07:20:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-26T03:22:26Z
+  Updated: 2025-09-26T14:41:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26229,7 +26229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-09-22T07:20:35Z
+  Updated: 2025-09-26T08:21:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26294,7 +26294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-09-25T07:40:40Z
+  Updated: 2025-09-26T10:41:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32617,7 +32617,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01SSme5Z1uPKuVgjm6A__2652346029-0-cib.jpg?v=1743194313
     Price: $54.99 USD
 - [Square Neck Wide Strap Midi Tank Dress - Brinxx Couture](https://www.brinxxcouture.com/products/square-neck-wide-strap-midi-tank-dress): This midi tank dress boasts a flattering square neck and wide straps, perfect for any occasion. The timeless design adds a touch of sophistication to your wardrobe.
-  Updated: 2025-09-25T13:00:38Z
+  Updated: 2025-09-26T07:00:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35920,6 +35920,192 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59706BM.jpg?v=1758655228
     Price: $59.99 USD
+- [Leopard Print Long Sleeve Bodysuit - High Neck Slim Fit](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit): Shop our leopard print long sleeve bodysuit with high neck design. Slim fit, comfortable polyester fabric. Perfect for layering or standalone wear. Free Ship
+  Updated: 2025-09-26T15:45:58Z
+  Vendor: George
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01oM4s0N1hc4eYQgJtT__2207411884297-0-cib.jpg?v=1758900082
+  - [S / Multi](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit?variant=44299195318454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01LXWFex1hc4eODJmyR__2207411884297-0-cib.jpg?v=1758900080
+    Price: $19.99 USD
+  - [M / Multi](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit?variant=44299195351222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01LXWFex1hc4eODJmyR__2207411884297-0-cib.jpg?v=1758900080
+    Price: $19.99 USD
+  - [L / Multi](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit?variant=44299195383990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01LXWFex1hc4eODJmyR__2207411884297-0-cib.jpg?v=1758900080
+    Price: $19.99 USD
+  - [XL / Multi](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit?variant=44299195416758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01LXWFex1hc4eODJmyR__2207411884297-0-cib.jpg?v=1758900080
+    Price: $19.99 USD
+- [High Waist Leopard-Print Skirt](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt): Style: SexyFit: SlimFabric: PolyesterPattern: Animal PrintElement: RuchedDress/Skirt Length: MaxiRise: High RiseProduct Type: PencilMain Composition: PolyesterSeason: SeasonlessF00107205
+  Updated: 2025-09-26T15:22:49Z
+  Vendor: George
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01OLVzzq1hc4c1SVe8S__2207411884297-0-cib.jpg?v=1758900136
+  - [S / Leopard](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299195973814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN019JCr1W1hc4cyPSXJQ__2207411884297-0-cib.jpg?v=1758900131
+    Price: $29.99 USD
+  - [M / Leopard](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196006582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN019JCr1W1hc4cyPSXJQ__2207411884297-0-cib.jpg?v=1758900131
+    Price: $29.99 USD
+  - [L / Leopard](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196039350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN019JCr1W1hc4cyPSXJQ__2207411884297-0-cib.jpg?v=1758900131
+    Price: $29.99 USD
+  - [XL / Leopard](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196072118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN019JCr1W1hc4cyPSXJQ__2207411884297-0-cib.jpg?v=1758900131
+    Price: $29.99 USD
+  - [S / Multi](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196104886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
+    Price: $29.99 USD
+  - [M / Multi](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196137654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
+    Price: $29.99 USD
+  - [L / Multi](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196170422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
+    Price: $29.99 USD
+  - [XL / Multi](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt?variant=44299196203190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
+    Price: $29.99 USD
+- [Leopard Print Long Sleeve Bodycon Dress - Sexy Slim Style](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress): Shop our stunning leopard print long sleeve bodycon dress. Sexy slim fit perfect for nights out, parties & special occasions. Bold animal print that stands out.
+  Updated: 2025-09-26T15:42:19Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/16300060240_440528773.jpg?v=1758900157
+  - [S / Tiger Stripes](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196465334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZZMG961hc4YVGz61b__2207411884297-0-cib.jpg?v=1758900142
+    Price: $34.99 USD
+  - [M / Tiger Stripes](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196498102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZZMG961hc4YVGz61b__2207411884297-0-cib.jpg?v=1758900142
+    Price: $34.99 USD
+  - [L / Tiger Stripes](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196530870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZZMG961hc4YVGz61b__2207411884297-0-cib.jpg?v=1758900142
+    Price: $34.99 USD
+  - [XL / Tiger Stripes](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196563638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZZMG961hc4YVGz61b__2207411884297-0-cib.jpg?v=1758900142
+    Price: $34.99 USD
+  - [S / Leopard](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196596406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
+    Price: $34.99 USD
+  - [M / Leopard](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196629174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
+    Price: $34.99 USD
+  - [L / Leopard](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196661942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
+    Price: $34.99 USD
+  - [XL / Leopard](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress?variant=44299196694710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
+    Price: $34.99 USD
+- [High Collar Long Sleeve Bodycon Midi Dress - Elegant Style](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress): Shop our elegant high collar long sleeve bodycon midi dress. Perfect figure-flattering fit for work, evening events, or special occasions. Premium quality.
+  Updated: 2025-09-26T15:35:41Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01oyR3sz1VJxv3Hlfub__2215584952633-0-cib.jpg?v=1758900199
+  - [S / Burgundy](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress?variant=44299197120694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pcWaV01VJxv2Bxciq__2215584952633-0-cib.jpg?v=1758900215
+    Price: $34.99 USD
+  - [M / Burgundy](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress?variant=44299197153462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pcWaV01VJxv2Bxciq__2215584952633-0-cib.jpg?v=1758900215
+    Price: $34.99 USD
+  - [L / Burgundy](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress?variant=44299197186230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pcWaV01VJxv2Bxciq__2215584952633-0-cib.jpg?v=1758900215
+    Price: $34.99 USD
+- [Pointed High Heeled Thigh Boots - Brinxx Couture](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots): Step into confidence and flare with these Pointed High Heeled Thigh Boots. Their sleek, pointed toe pairs perfectly with the towering heel to elongate your legs
+  Updated: 2025-09-26T15:27:53Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Ks7v6U1e59aoxowm2__2212335093819-0-cib.jpg?v=1758900282
+  - [35 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299197972662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [36 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198005430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [37 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198038198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [38 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198070966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [39 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198103734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [40 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198136502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [41 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198169270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [42 / Black](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198202038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01no2hIn1e59aqnHtZo__2212335093819-0-cib.jpg?v=1758900281
+    Price: $69.99 USD
+  - [35 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198234806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [36 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198267574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [37 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198300342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [38 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198333110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [39 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198365878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [40 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198398646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [41 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198431414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
+  - [42 / Brown](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots?variant=44299198464182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
+    Price: $69.99 USD
 
 ## Collections
 
@@ -35927,8 +36113,8 @@
   Updated: 2025-08-22T19:23:29Z
   Total Products: 0
 - [Women's Dresses - All Styles & Occasions - Brinxx Couture](https://www.brinxxcouture.com/collections/dresses): Discover Brinxx Couture's complete dress collection. From casual to formal, find the perfect dress for any occasion. Bold designs that make a statement.
-  Updated: 2025-09-25T16:54:32Z
-  Total Products: 218
+  Updated: 2025-09-26T15:41:39Z
+  Total Products: 220
 - [Top Beauty Products | Skincare, Makeup & Haircare Essentials](https://www.brinxxcouture.com/collections/beauty): Explore our range of beauty products. Find top skincare, makeup, and haircare essentials to enhance your natural beauty. Free shipping on all orders!
   Updated: 2025-08-22T19:23:29Z
   Total Products: 14
@@ -35945,14 +36131,14 @@
   Updated: 2025-09-24T16:15:49Z
   Total Products: 30
 - [Stylish Women's Fashion Jackets | Trendy & Affordable](https://www.brinxxcouture.com/collections/womens-jackets): Explore our collection of women's fashion jackets. Trendy, affordable outerwear perfect for any season. Stay stylish, warm, and chic with our top picks!
-  Updated: 2025-08-22T19:23:30Z
+  Updated: 2025-09-26T08:00:04Z
   Total Products: 25
 - [Trendy Women’s Tops | Brinxx Couture](https://www.brinxxcouture.com/collections/womens-tops): Discover our collection of trendy tops for women. From casual tees to dressy blouses, find the perfect top for any occasion at Brinxx Couture.
-  Updated: 2025-09-11T18:04:28Z
-  Total Products: 49
+  Updated: 2025-09-26T15:45:57Z
+  Total Products: 50
 - [Women's Pants | Shop the Latest Styles | Brinxx Couture](https://www.brinxxcouture.com/collections/bottoms): Brinxx Couture offers a wide variety of women's pants in the latest styles. Find the perfect pair of pants to flatter your figure and keep you comfortable.
-  Updated: 2025-09-23T19:38:02Z
-  Total Products: 24
+  Updated: 2025-09-26T15:16:20Z
+  Total Products: 25
 - [Best Hats for Women | Stylish & Trendy Women’s Hats](https://www.brinxxcouture.com/collections/hats): Discover the best hats for women at Brinxx Couture. Shop our stylish and trendy collection of women’s hats, perfect for any occasion. Find your perfect fit today!
   Updated: 2025-08-22T19:23:30Z
   Total Products: 5
@@ -35960,8 +36146,8 @@
   Updated: 2025-08-26T17:34:10Z
   Total Products: 23
 - [Step Into Style | Women's Shoes for Every Occasion](https://www.brinxxcouture.com/collections/shoes): Find your perfect fit with our Women's Shoes Collection. From chic heels to comfy flats, we have styles for every look and lifestyle. Shop the latest trends today
-  Updated: 2025-09-11T17:59:57Z
-  Total Products: 10
+  Updated: 2025-09-26T15:21:20Z
+  Total Products: 11
 - [Stylish Women’s Sleepwear - Comfortable and Trendy Pajamas](https://www.brinxxcouture.com/collections/womens-sleepwear): Discover stylish women’s sleepwear. Shop comfortable and trendy pajamas for a good night’s sleep. Find the perfect sleepwear to elevate bedtime. Order now!
   Updated: 2025-09-26T01:54:23Z
   Total Products: 5
@@ -36017,22 +36203,22 @@
   Updated: 2025-08-25T13:43:27Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they sell out.
-  Updated: 2025-09-25T16:46:58Z
-  Total Products: 87
+  Updated: 2025-09-26T15:45:57Z
+  Total Products: 91
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
-  Updated: 2025-09-09T15:46:53Z
-  Total Products: 12
+  Updated: 2025-09-26T15:41:39Z
+  Total Products: 13
 - [Women’s Jeans | Brinxx Couture](https://www.brinxxcouture.com/collections/jeans): Find the perfect pair of jeans at Brinxx Couture. Shop our collection of stylish and comfortable jeans for women in various fits and styles.
   Updated: 2025-08-22T19:23:31Z
   Total Products: 8
 - [Trendy Women’s Skirts | Brinxx Couture](https://www.brinxxcouture.com/collections/skirts): Discover our collection of trendy skirts for women. From casual to dressy, find the perfect skirt for any occasion at Brinxx Couture.
-  Updated: 2025-08-28T16:36:42Z
-  Total Products: 5
+  Updated: 2025-09-26T15:16:20Z
+  Total Products: 6
 - [Women’s Pants | Brinxx Couture](https://www.brinxxcouture.com/collections/pants): Shop stylish and comfortable pants for women at Brinxx Couture. From casual to formal, find the perfect fit for every occasion.
   Updated: 2025-09-23T19:38:02Z
   Total Products: 16
 - [Stylish Women's Coats | Winter, Trench, Wool & More](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2025-09-17T19:54:29Z
+  Updated: 2025-09-26T08:00:06Z
   Total Products: 34
 - [Fashionable Women’s Scarves | Brinxx Couture](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2025-08-22T19:23:31Z
@@ -36044,8 +36230,8 @@
   Updated: 2025-08-22T19:23:31Z
   Total Products: 2
 - [Women's Fashion Boots - Designer Footwear Collection](https://www.brinxxcouture.com/collections/boots): Discover our Women's Boots Collection featuring trendy, durable, and comfortable boots. Perfect for all seasons and styles. Shop now for your perfect pair!
-  Updated: 2025-09-11T17:59:57Z
-  Total Products: 10
+  Updated: 2025-09-26T15:21:20Z
+  Total Products: 11
 - [Cozy Women's Sweaters | Knit, Pullover, Turtleneck & More](https://www.brinxxcouture.com/collections/sweaters): Shop our cozy women's sweaters collection. Find knit, pullover, turtleneck, and more. Stay warm and stylish with our latest arrivals. Perfect for every season.
   Updated: 2025-09-12T08:00:07Z
   Total Products: 15
