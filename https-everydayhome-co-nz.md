@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-26T08:00:35.678Z
+- Updated At: 2025-09-26T12:00:35.769Z
 
 ## Products
 
@@ -1446,7 +1446,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Pepper-Black-0.png?v=1727659263
   Price: $119.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Grey](https://everydayhome.co.nz/products/foldable-steaming-board-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-09-24T22:37:10Z
+  Updated: 2025-09-26T09:52:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -5163,7 +5163,7 @@
   Updated: 2025-02-12T22:26:22Z
   Total Products: 0
 - [New Arrivals](https://everydayhome.co.nz/collections/new-arrivals)
-  Updated: 2025-09-23T12:21:22Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 60
 - [Office](https://everydayhome.co.nz/collections/office)
   Updated: 2025-09-23T12:12:59Z
@@ -5172,13 +5172,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-09-23T12:19:51Z
@@ -5220,7 +5220,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-09-25T00:53:04Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 138
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -5283,7 +5283,7 @@
   Updated: 2025-09-25T00:53:02Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-09-25T12:16:05Z
@@ -5352,7 +5352,7 @@
   Updated: 2025-09-25T00:53:03Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-09-25T00:53:04Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
   Updated: 2025-09-25T00:53:02Z
@@ -5436,7 +5436,7 @@
   Updated: 2025-09-25T00:53:03Z
   Total Products: 145
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-09-25T12:16:05Z
@@ -5484,7 +5484,7 @@
   Updated: 2025-09-25T00:53:03Z
   Total Products: 157
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 921
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-09-25T00:52:28Z
@@ -5529,10 +5529,10 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-09-25T12:16:05Z
+  Updated: 2025-09-26T11:06:54Z
   Total Products: 921
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-09-25T00:52:45Z
