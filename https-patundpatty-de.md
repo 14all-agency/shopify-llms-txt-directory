@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-26T16:00:32.722Z
+- Updated At: 2025-09-26T20:00:29.887Z
 
 ## Products
 
@@ -2019,15 +2019,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Drache-Tattie-Fantasie-Abenteuer-Spielzeug-PAT-Und-PATTY.jpg?v=1752231017
   Price: 39,95 € EUR
-- [Bio Kuscheltier Esel Emil – weiches Stofftier | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-esel-emil): Bio Kuscheltier Esel Emil aus Bio-Baumwolle – weich, handgemacht und perfekt für kleine Kinder. Jetzt bei Pat & Patty kaufen – nachhaltig & liebevoll gefertigt.
-  Updated: 2025-08-21T13:22:14Z
+- [Bio Kuscheltier Esel Emil – weiches, handgemachtes Stofftier](https://patundpatty.de/products/bio-kuscheltier-esel-emil): Bio Kuscheltier Esel Emil aus Bio-Baumwolle – weich, handgemacht und perfekt für kleine Kinder. Jetzt bei Pat & Patty kaufen – nachhaltig & liebevoll gefertigt.
+  Updated: 2025-09-26T19:55:47Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Esel-Emil-GOTS-Zertifiziert-Handgefertigt-PAT-Und-PATTY.jpg?v=1752230690
   Price: 39,95 € EUR
-- [Bio Kuscheltier Wildschwein – fair & handgemacht | PAT&PATTY](https://patundpatty.de/products/bio-kuscheltier-wildschwein): Bio Kuscheltier Wildschwein aus 100 % Bio-Baumwolle mit Maiswatte / Schurwolle-Füllung, waschbar und kuschelweich – perfekt für Babys. Jetzt nachhaltig kaufen!
-  Updated: 2025-08-21T13:22:14Z
+- [Bio Kuscheltier Wildschwein – fair, handgemacht & nachhaltig](https://patundpatty.de/products/bio-kuscheltier-wildschwein): Bio Kuscheltier Wildschwein aus 100 % Bio-Baumwolle mit Maiswatte / Schurwolle-Füllung, waschbar und kuschelweich – perfekt für Babys. Jetzt nachhaltig kaufen!
+  Updated: 2025-09-26T19:50:06Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2052,22 +2052,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Wildschwein-Sinnesfreund-F_r-Kleinkinder-PAT-Und-PATTY.png?v=1752230559
     Price: 49,50 € EUR
-- [Bio Kuscheltier Hund – Weich, handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-hund): Bio Kuscheltier Hund – handgemacht aus weichem Bio-Baumwollplüsch. Nachhaltig, hautfreundlich & waschbar. Jetzt Lieblingsfreund entdecken & bestellen!
-  Updated: 2025-09-21T10:16:32Z
+- [Bio Kuscheltier Hund – weich, handgemacht und nachhaltig](https://patundpatty.de/products/bio-kuscheltier-hund-aus-100-bio-baumwolle): Bio Kuscheltier Hund von PAT & PATTY: handgemacht aus weichem Bio-Baumwollplüsch, nachhaltig, hautfreundlich, kuschelig und perfekt für Kinder und Babys.
+  Updated: 2025-09-26T19:41:57Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Hund-Mit-Gestreiftem-Jersey-PAT-Und-PATTY.jpg?v=1752054238
-  - [beige](https://patundpatty.de/products/bio-kuscheltier-hund?variant=45562500776204)
+  - [beige](https://patundpatty.de/products/bio-kuscheltier-hund-aus-100-bio-baumwolle?variant=45562500776204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Hund-Mit-Schurwolle-F_llung-GOTS-Zertifiziert-PAT-Und-PATTY.jpg?v=1752054653
     Price: 39,95 € EUR
-  - [hellbraun](https://patundpatty.de/products/bio-kuscheltier-hund?variant=45562500808972)
+  - [hellbraun](https://patundpatty.de/products/bio-kuscheltier-hund-aus-100-bio-baumwolle?variant=45562500808972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Hund-Mit-Gestreiftem-Jersey-PAT-Und-PATTY.jpg?v=1752054238
     Price: 39,95 € EUR
-- [Bio Kinder Kuscheltier Oktopus – weich & nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-kinder-kuscheltier-oktopus): Bio Kinder Kuscheltier Oktopus aus Bio-Baumwolle – weich, sicher & ideal zum Kuscheln. Jetzt bei Pat & Patty kaufen – nachhaltig, handgemacht & kinderfreundlich
-  Updated: 2025-08-21T13:22:15Z
+- [Bio Kuscheltier Oktopus für Kinder – weich und nachhaltig](https://patundpatty.de/products/bio-kinder-kuscheltier-oktopus): Bio Kinder Kuscheltier Oktopus aus Bio-Baumwolle – weich, sicher & ideal zum Kuscheln. Jetzt bei Pat & Patty kaufen – nachhaltig, handgemacht & kinderfreundlich
+  Updated: 2025-09-26T19:35:08Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2080,8 +2080,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Oktopus-Kuscheltier-Mit-Tentakeln-PAT-Und-PATTY.jpg?v=1752053108
     Price: 39,95 € EUR
-- [Bio Kuscheltier Alpaka/Lama – Weich und handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-alpaka-lama): Bio Kuscheltier Alpaka/Lama aus Bio-Baumwolle – weich, nachhaltig und ideal zum Kuscheln. Jetzt bei Pat & Patty kaufen – das perfekte Geschenk für Kinder!
-  Updated: 2025-09-15T11:17:57Z
+- [Bio Kuscheltier Alpaka/Lama gefertigt aus 100 % Bio-Baumwolle](https://patundpatty.de/products/bio-kuscheltier-alpaka-lama): Bio Kuscheltier Schwein von PAT & PATTY: handgemacht aus 100 % Bio-Baumwolle, weich, schadstofffrei und nachhaltig. Perfekt zum Kuscheln für Kinder und Babys.
+  Updated: 2025-09-26T19:29:13Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2094,21 +2094,21 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuscheltier_Alpaka-Lama_-_PAT_PATTY.jpg?v=1752052792
     Price: 34,95 € EUR
-- [Bio Kuscheltier Schwein – aus 100 % Bio-Baumwolle | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl): Kuscheltier Schwein aus 100 % Bio-Baumwolle, weich gefüllt mit Maiswatte, waschbar und ideal für Babys & Kinder. Nachhaltig , weich & sicher. Jetzt kaufen!
-  Updated: 2025-09-21T10:16:32Z
+- [Bio Kuscheltier Schwein gefertigt aus 100 % Bio-Baumwolle](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl-schwein): Kuscheltier Schwein aus 100 % Bio-Baumwolle, weich gefüllt mit Maiswatte, waschbar und ideal für Babys & Kinder. Nachhaltig , weich & sicher. Jetzt kaufen!
+  Updated: 2025-09-26T19:19:54Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Schwein-Klein-XXL-Baumwolle-PAT-UND-PATTY.jpg?v=1752049268
-  - [Klein Schwein](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl?variant=45563168030988)
+  - [Klein Schwein](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl-schwein?variant=45563168030988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Schwein-Baumwolle-Detailaufnahme-PAT-UND-PATTY.jpg?v=1752049504
     Price: 33,95 € EUR
-  - [Rosa Schwein](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl?variant=45563168063756)
+  - [Rosa Schwein](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl-schwein?variant=45563168063756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Kuschelschwein_aus_Bio-Baumwolle_Gr_en_Klein_XXL_PAT_PATTY.jpg?v=1752051198
     Price: 39,95 € EUR
-  - [XXL Schwein](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl?variant=45563168096524)
+  - [XXL Schwein](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl-schwein?variant=45563168096524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Schwein-Geschenkverpackt-Baumwolle-PAT-UND-PATTY.jpg?v=1752049630
     Price: 49,50 € EUR
@@ -2494,7 +2494,7 @@
   Updated: 2025-09-25T11:21:18Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
-  Updated: 2025-09-18T11:20:49Z
+  Updated: 2025-09-26T19:41:58Z
   Total Products: 11
 - [Bio-Spieluhren mit waschbarem Spielwerk - Nachhaltig & sicher](https://patundpatty.de/collections/bio-spieluhren-waschbaremspielwerk): Entdecken Sie Bio-Spieluhren von PAT & PATTY mit waschbarem Spielwerk – aus natürlichen Materialien, nachhaltig und ideal für Babys und Kinder.
   Updated: 2025-08-22T11:54:27Z
@@ -2512,7 +2512,7 @@
   Updated: 2025-09-08T11:21:28Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-09-26T11:21:52Z
+  Updated: 2025-09-26T19:41:58Z
   Total Products: 53
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
