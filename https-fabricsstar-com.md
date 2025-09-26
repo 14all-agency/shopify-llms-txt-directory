@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-25T16:00:34.750Z
+- Updated At: 2025-09-26T00:00:31.247Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-24T21:34:51Z
+  Updated: 2025-09-25T19:38:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3211,7 +3211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VAILS-WHITE.jpg?v=1757517637
     Price: $1.00 USD
 - [Gate Brocade Velvet Fabric, 72 Inch Width](https://fabricsstar.com/products/gate-brocade-velvet-fabric-72-inch-in-width-ideal-embossed-material-for-home-decor): Discover premium Gate Brocade Velvet Fabric, 72 inches wide. Perfect for home decor, sold by the yard, and customizable to fit your needs.
-  Updated: 2025-09-25T01:56:09Z
+  Updated: 2025-09-25T20:48:01Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3387,7 +3387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/INLINE-WHITE.jpg?v=1757517661
     Price: $1.00 USD
 - [Delhi Metallic Jacquard Fabric - 120 Inch Width](https://fabricsstar.com/products/delhi-metallic-flower-jacquard-fabric-120-inch-in-width-home-decor): Shop Delhi Metallic Flower Jacquard Fabric - 120 Inch. Wide. Perfect for wide tablecloths and home decor. Custom cut to order.
-  Updated: 2025-09-22T23:20:37Z
+  Updated: 2025-09-25T21:41:36Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4607,7 +4607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/QUINCY-BLUSH.jpg?v=1757517987
     Price: $1.00 USD
 - [FIESTA Striped Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Arts and Crafts](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T20:05:58Z
+  Updated: 2025-09-25T20:04:38Z
   Vendor: Fabrics Star
   Product Type: Striped Sequin Fabric
   Availability: Available
