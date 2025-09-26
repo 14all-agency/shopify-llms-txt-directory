@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-26T12:00:30.858Z
+- Updated At: 2025-09-26T16:00:32.722Z
 
 ## Products
 
@@ -1906,7 +1906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-24T08:19:37Z
+  Updated: 2025-09-26T14:27:46Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2112,37 +2112,37 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Schwein-Geschenkverpackt-Baumwolle-PAT-UND-PATTY.jpg?v=1752049630
     Price: 49,50 € EUR
-- [Bio Spieluhr  Baby Schnee-Eule aus 100 % Bio-Baumwolle  ca. 22 x 28 cS](https://patundpatty.de/products/bio-spieluhr-schnee-eule): Bio Spieluhr  Baby Schnee-Eule aus 100 % Bio-Baumwolle  ca. 22 x 28 cm mit 100 % Maiswolle gefüllt. Hersteller: PatundPatty - Öko-Spieluhren, Sitzsäcke und Tierpuppe
-  Updated: 2025-09-01T10:41:18Z
+- [Bio Spieluhr  Baby Schnee-Eule aus 100 % Bio-Baumwolle  ca. 22 x 28 cS](https://patundpatty.de/products/bio-spieluhr-schnee-eule): Bio-Spieluhr Baby Schnee-Eule von PAT & PATTY: aus 100 % Baumwolle, gefüllt mit Maiswolle, weich, sicher, handgemacht und ideal zum Kuscheln für Neugeborene.
+  Updated: 2025-09-26T12:57:11Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Spieluhr-Schnee-Eule-Handgemacht-Beruhigungsspielzeug-Fuer-Babys-Pat-Und-Patty.jpg?v=1751458939
   Price: 42,95 € EUR
-- [Bio Schlafsack mit Schaf weich & sicher | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf): Der Bio Schlafsack mit Schaf von PAT & PATTY: kuschelig, atmungsaktiv und schadstofffrei. Handgemacht aus Bio-Materialien für sicheren, geborgenen Babyschlaf.
-  Updated: 2025-09-03T17:11:59Z
+- [Bio Schlafsack mit Schaf weich & sicher für Babys und Kinder](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-plusch): Der Bio Schlafsack mit Schaf von PAT & PATTY: kuschelig, atmungsaktiv und schadstofffrei. Handgemacht aus Bio-Materialien für sicheren, geborgenen Babyschlaf.
+  Updated: 2025-09-26T12:34:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schlafsack-Schaf-Pluesch-PAT-UND-PATTY.jpg?v=1752048724
-  - [hellblau / ca. 60 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf?variant=45607658094860)
+  - [hellblau / ca. 60 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-plusch?variant=45607658094860)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schlafsack-Schaf-Pluesch-Rueckseite-Detail-PAT-UND-PATTY.jpg?v=1752048977
     Price: 49,90 € EUR
-  - [hellblau / ca. 85 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf?variant=45607658127628)
+  - [hellblau / ca. 85 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-plusch?variant=45607658127628)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schlafsack-Schaf-Pluesch-Rueckseite-Detail-PAT-UND-PATTY.jpg?v=1752048977
     Price: 52,50 € EUR
-  - [rosa / ca. 60 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf?variant=45607658160396)
+  - [rosa / ca. 60 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-plusch?variant=45607658160396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schlafsack-Schaf-Pluesch-Verpackung-PAT-UND-PATTY.jpg?v=1752048918
     Price: 49,90 € EUR
-  - [rosa / ca. 85 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf?variant=45607658193164)
+  - [rosa / ca. 85 cm](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-plusch?variant=45607658193164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schlafsack-Schaf-Pluesch-Verpackung-PAT-UND-PATTY.jpg?v=1752048918
     Price: 52,50 € EUR
-- [Schlafsack Bio-Baumwolle Frottee weich & warm | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-frottee): Kuscheliger Schlafsack aus Bio-Baumwolle-Frottee – perfekt für Neugeborene. Hautfreundlich, warm, waschbar & nachhaltig. Jetzt bei PAT & PATTY online kaufen!
-  Updated: 2025-09-03T17:06:19Z
+- [Bio-Baumwolle Schlafsack schaf Frottee weich & warm für Kinder](https://patundpatty.de/products/bio-baumwolle-schlafsack-schaf-frottee): Bio-Schlafsack aus weichem Frottee von PAT & PATTY: warm, kuschelig, aus Bio-Baumwolle, hautfreundlich, waschbar und nachhaltig – ideal für Neugeborene.
+  Updated: 2025-09-26T12:28:35Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2163,8 +2163,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schlafsack-Schaf-Frottee-Detailansicht-PAT-UND-PATTY.jpg?v=1752048355
     Price: 44,50 € EUR
-- [Bio-Baumwolle babydecke mit Applikation Schaf | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-babydecke-schaf): Weiche Babydecke aus Bio-Baumwolle mit liebevoller Schaf-Applikation – schadstofffrei, fair produziert & kuschelig. Jetzt online entdecken und bestellen!
-  Updated: 2025-09-21T10:16:32Z
+- [Bio-Baumwolle Babydecke Schaf mit Applikation für Kinder](https://patundpatty.de/products/bio-baumwolle-babydecke-schaf): Bio-Babydecke „Schaf“ von PAT & PATTY: aus weicher Bio-Baumwolle, kuschelig, schadstofffrei, fair produziert & ideal für sichere, gemütliche Babyschlafmomente.
+  Updated: 2025-09-26T12:19:16Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2181,8 +2181,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Babydecke-Schaf-Detailansicht-PAT-UND-PATTY.jpg?v=1752047968
     Price: 59,00 € EUR
-- [Bio Babydecke mit Hase aus 100% Baumwolle | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-babydecke-hasen): Weiche Bio Babydecke mit Hase von PAT & PATTY: aus 100 % Baumwolle, hautfreundlich, waschbar, nachhaltig und ideal für kuschelige Babyschlafmomente.
-  Updated: 2025-09-21T10:16:32Z
+- [Bio Babydecke mit Hase aus 100% Baumwolle nachhaltig gefertigt](https://patundpatty.de/products/bio-baumwolle-babydecke-hasen): Bio Babydecke „Hase“ von PAT & PATTY: aus 100 % Baumwolle, weich, hautfreundlich, waschbar und nachhaltig – ideal für kuschelige, sichere Babyschlafmomente.
+  Updated: 2025-09-26T12:11:29Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2203,8 +2203,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Babydecke-Hasen-zusammengelegt-PAT-UND-PATTY.jpg?v=1752047716
     Price: 39,90 € EUR
-- [Kinderdecke Froschkönig aus weicher Bio-Baumwolle | PAT & PATTY](https://patundpatty.de/products/bio-baumwolle-kinderdecke-froschkoenig): Kuschelige Kinderdecke Froschkönig aus weicher Bio-Baumwolle – schadstofffrei, fair & liebevoll gefertigt. Jetzt entdecken bei PAT & PATTY!| jetzt bestellen
-  Updated: 2025-09-21T10:16:32Z
+- [Bio-Baumwolle Kinderdecke Froschkönig aus weicher nachhaltig](https://patundpatty.de/products/bio-baumwolle-kinderdecke-froschkoenig): Bio-Kinderdecke „Froschkönig“ von PAT & PATTY: aus weicher Bio-Baumwolle, nachhaltig, hautfreundlich & kuschelig perfekt für Babys & Kleinkinder zum Wohlfühlen.
+  Updated: 2025-09-26T12:06:35Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2464,7 +2464,7 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-09-26T11:21:52Z
+  Updated: 2025-09-26T13:03:39Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-25T11:21:18Z
