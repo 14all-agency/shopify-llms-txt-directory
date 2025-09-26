@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-25T20:00:30.315Z
+- Updated At: 2025-09-26T00:00:32.248Z
 
 ## Products
 
@@ -2350,8 +2350,8 @@ Geschenkgutschein von PAT&PATTY
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Pat-Und-Patty-Domainautoritaet-45-Stand-24-05-2025.png?v=1751891722
   Price: 464,00 € EUR
-- [Hobby Horse Bio Steckenpferd kaufen „Abraxas" | PAT & PATTY](https://patundpatty.de/products/bio-steckenpferd-abraxas-mit-einem-gebiss): Hobby Horsing Bio Steckenpferd kaufen „Abraxas" mit einem Gebiss von PAT-PATTY damit Kinder umweltfreundlich spielen können | jetzt bestellen.
-  Updated: 2025-08-21T13:22:19Z
+- [Hobby Horse Bio Steckenpferd kaufen Modell Abraxas handgemacht](https://patundpatty.de/products/bio-hobby-horse-steckenpferd-abraxas-mit-einem-gebiss): Das Bio Steckenpferd „Abraxas“ von PAT & PATTY ist handgemacht, nachhaltig, mit Gebiss und ideal für fantasievolles, umweltfreundliches Spielen kleiner Kinder.
+  Updated: 2025-09-25T20:33:53Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
