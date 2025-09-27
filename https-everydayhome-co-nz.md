@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-27T08:00:36.148Z
+- Updated At: 2025-09-27T12:00:35.826Z
 
 ## Products
 
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-60L-Matt-Black-1.png?v=1727658822
   Price: $599.99 NZD
 - [Brabantia Bo Touch Bin - 60L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-60l-platinum): Bo Touch Bin, 60L, Platinum
-  Updated: 2025-09-23T12:33:44Z
+  Updated: 2025-09-27T08:37:09Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2867,7 +2867,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-27T07:07:07Z
+  Updated: 2025-09-27T09:22:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2979,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBatteryFreeBathroomScale-DarkGrey-8710755281341Brabantia_96dpi_1000x1000px_7_NR-22057.png?v=1734407312
   Price: $119.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - White](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-white): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-26T17:22:10Z
+  Updated: 2025-09-27T08:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
