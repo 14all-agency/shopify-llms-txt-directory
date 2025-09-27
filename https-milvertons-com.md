@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-09-27T08:00:32.317Z
+- Updated At: 2025-09-27T12:00:32.726Z
 
 ## Products
 
@@ -4927,7 +4927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-09-26T20:24:24Z
+  Updated: 2025-09-27T08:20:36Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10488,7 +10488,7 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-09-26T09:25:40Z
+  Updated: 2025-09-27T09:25:32Z
   Total Products: 163
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
