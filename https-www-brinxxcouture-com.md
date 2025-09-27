@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-27T08:00:46.360Z
+- Updated At: 2025-09-27T12:00:47.415Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-09-26T14:01:27Z
+  Updated: 2025-09-27T09:40:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8372,7 +8372,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Long Sleeve Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/long-sleeve-raw-hem-denim-jacket): Step out in style with the Long Sleeve Raw Hem Denim Jacket! Featuring trendy raw hem edges, this jacket brings a fun twist to classic denim vibes. Free Shipping
-  Updated: 2025-09-22T18:59:46Z
+  Updated: 2025-09-27T09:31:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9830,7 +9830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Surplice-Neck-Tie-Front-Pleated-Sweater-Dress-Brinxx-Couture-6923.jpg?v=1709851399
     Price: $59.99 USD
 - [Round Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress): This Round Neck Lantern Sleeve Dress is sure to make a statement. Crafted from quality material, this dress is designed for an elegant look that will keep you looking your best.
-  Updated: 2025-09-23T16:00:52Z
+  Updated: 2025-09-27T08:19:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12940,7 +12940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-26T04:00:51Z
+  Updated: 2025-09-27T08:20:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16330,7 +16330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-09-25T11:20:06Z
+  Updated: 2025-09-27T09:30:03Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21967,7 +21967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-09-22T07:00:41Z
+  Updated: 2025-09-27T09:20:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21977,7 +21977,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
   - [Black / M](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater?variant=43390990876854)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater?variant=43390990909622)
@@ -26294,7 +26294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-09-27T07:00:45Z
+  Updated: 2025-09-27T09:20:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29926,7 +29926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8752f6cf5b91414fb0fd06a0dd136a96-Max.jpg?v=1736541194
     Price: $49.99 USD
 - [Stylish Lace-Up Backless Mesh Dress for Prom Night](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress): Shop our Stylish Lace-Up Backless Mesh Dress from Brinxx Couture for a unique prom look. Features an elegant lace-up backless design. Limited stock, order now!
-  Updated: 2025-09-04T19:41:41Z
+  Updated: 2025-09-27T08:16:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35223,7 +35223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/cd6899b79e784bc5b73c2c886231a1bc-Max.jpg?v=1756304762
     Price: $35.00 USD
 - [Mesh Long Sleeve Ruffle Hem Bodycon Midi Dress - Party Style](https://www.brinxxcouture.com/products/mesh-long-sleeve-ruffle-hem-bodycon-midi-dress): Shop our elegant mesh long sleeve bodycon midi dress with ruffle hem. Perfect for parties, weddings & special events. Flattering fit, sophisticated style.
-  Updated: 2025-09-27T04:25:34Z
+  Updated: 2025-09-27T09:53:54Z
   Vendor: Brinxx Couture
   Product Type: Dresses
   Availability: Available
