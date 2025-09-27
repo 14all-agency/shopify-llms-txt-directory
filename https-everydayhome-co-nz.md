@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-27T04:00:34.786Z
+- Updated At: 2025-09-27T08:00:36.148Z
 
 ## Products
 
@@ -823,7 +823,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Garment-Rack-White-Natural-8.jpg?v=1727659545
   Price: $649.99 NZD
 - [Umbra Ribbon Wall Clock - Black](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-black): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
-  Updated: 2025-09-25T17:02:52Z
+  Updated: 2025-09-27T06:52:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1355,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Laundry-Bin-60L-Matt-Black-2.png?v=1727659088
   Price: $279.99 NZD
 - [Brabantia Laundry Bin - 60L White](https://everydayhome.co.nz/products/laundry-bin-60l-white-w-dark-grey-plastic-lid): Change laundry day bigtime with this 60 litre Brabantia Laundry Bin. Its top lid keeps your laundry out of sight, and thanks to its clever Quick-Drop opening, you don’t even have to remove it to put in your laundry. On washdays, take off the lid to easily remove the perfectly fitting cotton laundry bag inside. Of course it is corrosion free, and it has ventilation holes and a protective bottom ring, so it can be used anywhere in your home. Laundry at its loveliest.
-  Updated: 2025-09-23T12:35:28Z
+  Updated: 2025-09-27T04:52:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1376,7 +1376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Touch-Bin-New-40L-Platinum-3.png?v=1727659165
   Price: $479.99 NZD
 - [Brabantia New Touch Bin - 40L Matt Black](https://everydayhome.co.nz/products/touch-bin-new-40l-matt-black): Add a touch of design to your home with the Brabantia Touch Bin 40 litre. A great, yet space efficient, organising help that looks the part too. Just touch the lid and it opens smoothly. It also has a timeless design, is easy to clean, and it protects your floor thanks to the protection rim. This touch bin is ready for years of intensive, problem free use!
-  Updated: 2025-09-26T20:37:11Z
+  Updated: 2025-09-27T05:37:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2419,14 +2419,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Light-Walnut-UMBRA-7.jpg?v=1731902033
   Price: $139.99 NZD
 - [Umbra Montage Wall Shelf - White](https://everydayhome.co.nz/products/montage-shelf-white): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-25T16:55:49Z
+  Updated: 2025-09-27T05:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-White-UMBRA-4.jpg?v=1731903176
   Price: $139.99 NZD
 - [Umbra Moona Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/moona-storage-box-black-walnut): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
-  Updated: 2025-09-25T14:21:39Z
+  Updated: 2025-09-27T04:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2867,7 +2867,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-26T20:07:11Z
+  Updated: 2025-09-27T07:07:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
