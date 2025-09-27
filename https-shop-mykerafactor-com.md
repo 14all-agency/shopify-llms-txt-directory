@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-09-27T12:00:27.923Z
+- Updated At: 2025-09-27T20:00:27.909Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo and Conditioner](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): The KeraFactor 2 in 1 Shampoo and Conditioner exfoliates and stimulates the scalp and hair using a unique combination of conditioners and growth factors designed to enhance scalp circulation and reinvigorate the scalp and hair, leading to hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used daily for at least 1 month. Lasts for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. Leave in for 1 minute before rinsing. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair treatment than a shampoo wash. Lastly, condition your ends with your regular conditioner. List of Ingredients Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-09-27T05:06:08Z
+  Updated: 2025-09-27T19:48:26Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -98,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/5_920490c8-b4ab-465c-a158-35f92159ff33.png?v=1754150468
   Price: $20.00 USD
 - [KeraRoller](https://shop.mykerafactor.com/products/keraroller): Precision Scalp Microneedling Elevate your scalp care routine with the KeraRoller, a handheld device designed to optimize the absorption of your favorite topical treatments. Featuring 1,200 stainless steel needles (0.25mm), it gently and painlessly creates microchannels in the scalp to support healthier-looking hair. ✨ Why You’ll Love It Boosts penetration of scalp serums for maximum impact Painless 0.25mm stainless steel microneedles Easy-to-use design for at-home scalp support Perfectly pairs with our Scalp Stimulating Solution How to Use: Gently roll the KeraRoller across areas of concern on your scalp. Follow immediately with our Scalp Stimulating Solution to enhance delivery of active ingredients. Always sanitize your KeraRoller with alcohol before and after each use. Start your hair health journey with the KeraRoller—where innovation meets self-care.
-  Updated: 2025-09-26T18:38:22Z
+  Updated: 2025-09-27T18:19:41Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
