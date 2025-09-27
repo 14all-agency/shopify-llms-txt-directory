@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-09-27T16:00:30.720Z
+- Updated At: 2025-09-27T20:00:31.326Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -9975,7 +9975,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €2,150.00 EUR
 - [5CT Radiant-Cut Lab Diamond Ring – The Éclairia](https://www.chantalvaulet.com/products/eclairia-5ct-radiant-cut-ring): The Éclairia is a 5CT radiant-cut lab diamond ring, showcasing exquisite craftsmanship and ethical brilliance.
-  Updated: 2025-09-24T09:36:33Z
+  Updated: 2025-09-27T17:00:08Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10985,14 +10985,29 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 - [Oval Wedding Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-wedding-rings): Shop oval wedding rings in lab-grown diamond & moissanite. Contour & eternity bands in 18K gold or platinum—made to match oval engagement rings.
   Updated: 2025-09-27T12:36:52Z
   Total Products: 1
-- [Round Wedding Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-wedding-rings): Shop round wedding rings to match your round engagement ring—lab-grown diamond & moissanite contour, eternity & stackable bands in gold or platinum or silver
-  Updated: 2025-09-27T12:40:40Z
-  Total Products: 10
+- [Engagement Rings – Round Cut Lab-Grown Diamond | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-cut-lab-grown-diamond-engagement-rings): Explore round cut lab-grown diamond engagement rings. Handcrafted settings with customizable carat and metal. Ethical sparkle and exceptional value from Chantal Vaulet.
+  Updated: 2025-09-27T16:21:39Z
+  Total Products: 3
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
   Updated: 2025-09-27T12:43:14Z
   Total Products: 91
 - [Emerald Cut Engagement Rings – Lab-Grown Diamond | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-lab-grown-diamond-engagement-rings): Emerald cut lab-grown diamond engagement rings with ethical sparkle and modern elegance. Handcrafted, customizable settings and metals. Find your perfect ring today
-  Updated: 2025-09-27T15:40:27Z
+  Updated: 2025-09-27T16:54:24Z
+  Total Products: 0
+- [Engagement Rings – Round Cut Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-cut-moissanite-engagement-rings): Explore round cut moissanite engagement rings with exceptional brilliance and value. Customize metal, carat, and setting. Ethically made, free shipping & easy returns.
+  Updated: 2025-09-27T16:23:22Z
+  Total Products: 101
+- [Engagement Rings – Oval Cut Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-cut-moissanite-engagement-rings): Shop oval cut moissanite engagement rings. Elongated sparkle, exceptional value. Customize metal, setting & carat. Ethically crafted and free shipping.
+  Updated: 2025-09-27T16:34:46Z
+  Total Products: 3
+- [Engagement Rings – Oval Cut Lab-Grown Diamond | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-cut-lab-grown-diamond-engagement-rings): Discover oval cut lab-grown diamond engagement rings—flattering, elongated look. Customize metal, setting & carat. Conflict-free & free shipping.
+  Updated: 2025-09-27T16:44:58Z
+  Total Products: 1
+- [Engagement Rings – Emerald Cut Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-moissanite-engagement-rings): Shop emerald cut moissanite engagement rings—clean lines and bold sparkle. Customize metal, setting and carat. Ethically crafted and free shipping
+  Updated: 2025-09-27T16:52:17Z
+  Total Products: 2
+- [Engagement Rings – Radiant Cut Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/radiant-cut-moissanite-engagement-rings): Brilliant radiant cut moissanite engagement rings, vintage softness with modern fire. Customize metal, setting, and carat. Ethically crafted and free shipping
+  Updated: 2025-09-27T17:15:45Z
   Total Products: 0
 
 ## Blogs
