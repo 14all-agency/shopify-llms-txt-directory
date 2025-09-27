@@ -10,12 +10,12 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-26T21:49:43.650Z
+- Updated At: 2025-09-27T00:01:11.690Z
 
 ## Products
 
 - [Very Important Pets Digital Gift Card](https://veryimportantpets.shop/products/very-important-pets-gift-card): Give the gift of a Very Important Pets Gift Card, the perfect treat for the pet parent who loves spoiling their pets!
-  Updated: 2025-08-20T00:09:46Z
+  Updated: 2025-09-26T21:56:44Z
   Vendor: VIPs
   Product Type: Gift Cards
   Availability: Available
@@ -1563,7 +1563,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-pet-stroller-easy-fold-airy-mesh-safety-leash-pet-stroller-red-315841.jpg?v=1700658578
     Price: £62.99 GBP
 - [Compact Dark Blue Pet Crate with Mesh Windows](https://veryimportantpets.shop/products/compact-dark-blue-pet-crate-with-mesh-windows): This fabric dog crate for small dogs and cats creates a roomy space for your furry friends. Shop online at Very Important Pets
-  Updated: 2025-09-26T07:30:42Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1703,7 +1703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/81cm-foldable-carrier-for-medium-pets-with-cushion-pet-carrier-grey-709943.jpg?v=1700662910
     Price: £44.99 GBP
 - [91cm Foldable Pet Carrier, with Cushion, for Medium Dogs and Cats](https://veryimportantpets.shop/products/91cm-foldable-pet-carrier-for-medium-dogs-and-cats): Need help to travel with pets? With this PawHut fabric dog crate, you'll struggle no more. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1800,7 +1800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/detachable-3-in-1-pet-stroller-foldable-carrying-bag-brake-canopy-basket-storage-pet-stroller-black-943287.jpg?v=1700657948
     Price: £71.99 GBP
 - [Foldable Pet Stroller Med/Large Dogs | Easy Storage - Grey](https://veryimportantpets.shop/products/foldable-pet-stroller-for-medium-large-dogs-easy-storage-grey): Effortless travel with our Foldable Pet Stroller, ideal for medium/large dogs. Mesh windows, shock absorbers, safety leashes, and storage. Easy fold and store.
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -1814,7 +1814,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-stroller-for-mediumlarge-dogs-easy-storage-red-pet-stroller-red-474736.jpg?v=1700651518
   Price: £134.99 GBP
 - [2 in 1 Dog Bike Trailer for Large Dogs with Hitch, Quick-release 20" Wheels](https://veryimportantpets.shop/products/2-in-1-dog-bike-trailer-for-large-dogs-with-hitch-quick-release-20-wheels): With this PawHut stroller, pets will enjoy the outdoors, no matter their age or physical condition. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Bicycle Trailer
   Availability: Available
@@ -2361,7 +2361,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-pet-couch-bed-for-medium-large-dogs-with-legs-cushion-grey-699425.jpg?v=1700656940
     Price: £98.99 GBP
 - [Dog Sofa, pet Bed, with Soft Cushion, Washable Cover, for Small, Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-pet-bed-with-soft-cushion-washable-cover-for-small-medium-large-dogs): Pet's comfort is a top priority, and that's why this PawHut pet sofa is the perfect choice. Shop online at Very Important Pets
-  Updated: 2025-09-25T23:30:35Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2883,7 +2883,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-large-dog-feeding-station-with-storage-sleek-functional-dog-feeding-217842.jpg?v=1700649440
   Price: £53.99 GBP
 - [Pet Carrier Travel Backpack For Cats or Dogs with Trolley and Telescopic Handle](https://veryimportantpets.shop/products/pet-carrier-travel-backpack-for-cats-or-dogs-with-trolley-and-telescopic-handle): This puppy carrier is a great accessory to have. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:21Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3121,7 +3121,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-steps-for-bed-4-step-pet-stairs-for-sofa-dog-cat-climb-ladder-63x43x60-cm-grey-820943.jpg?v=1700656828
   Price: £35.99 GBP
 - [Cat Tower Centre, Sisal Scratching Post, Toy, Climbing Tree, Bed, Multi Level 181cm(H)](https://veryimportantpets.shop/products/cat-tower-centre-sisal-scratching-post-toy-climbing-tree-bed-multi-level-181cm-h): Satisfy your cat's natural instincts in a safe way with this cat tree from PawHut! This multi-activity center features natural sisal covered scratching posts, teasing ball toy, roomy condos and perches. Shop online at Very Important Pets
-  Updated: 2025-09-15T07:30:37Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3381,7 +3381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3928,7 +3928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/95cm-cat-tree-tower-for-indoor-cats-with-scratching-post-cat-house-toy-ball-platform-beige-121223.jpg?v=1700662626
   Price: £80.99 GBP
 - [255cm Floor to Ceiling Cat Tree with Scratching Posts, Height Adjustable Cat Tower with Hammock, House, Anti-tipping Kit, Perches, Toys, Grey](https://veryimportantpets.shop/products/255cm-floor-to-ceiling-cat-tree-with-scratching-posts-height-adjustable-cat-tower-with-hammock-house-anti-tipping-kit-perches-toys-grey): Say goodbye to ripped curtains, ruined carpets and damaged sofas and say hello to this PawHut floor-to-ceiling cat tree, designed to bring joy and adventure to pets. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4026,7 +4026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:20Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4299,7 +4299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-with-removable-trays-for-1-2-rabbits-rabbit-hutch-grey-927895.jpg?v=1700647117
   Price: £116.99 GBP
 - [Indoor Wooden Rabbit Hutch, Guinea Pig House, Two Tier with Openable Roof, Wheels, Slide-out Tray, 91.5 x 53.3 x 73 cm](https://veryimportantpets.shop/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-91-5-x-53-3-x-73-cm): Choose this indoor rabbit cage from PawHut to give your rabbit, guinea pig and other small animals a place to rest and play. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:13Z
+  Updated: 2025-09-26T23:30:55Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4803,7 +4803,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/alpha-sensitive-extra-with-duck-rice-dry-adult-dog-food-15-kg-working-dry-348523.jpg?v=1730373947
   Price: £33.40 GBP
 - [Alpha Sporting Puppy Hypoallergenic Diet for Active Puppies](https://veryimportantpets.shop/products/alpha-sporting-puppy): Give your puppy the best start in life with Alpha Sporting Puppy - a hypoallergenic, wheat gluten-free diet high in protein for growth and development.
-  Updated: 2025-09-22T18:51:58Z
+  Updated: 2025-09-26T22:28:05Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -6748,7 +6748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-adult-dog-food-rich-in-salmon-potato-adult-dry-12kg-641302.png?v=1709123462
     Price: £31.59 GBP
 - [Harringtons Senior Chicken & Rice Dog Food](https://veryimportantpets.shop/products/harringtons-dog-senior-chicken): Give your senior dog the best with Harringtons Senior Chicken and Rice Dog Food. Packed with nutritious ingredients for energy, growth, and joint support.
-  Updated: 2025-09-26T08:28:05Z
+  Updated: 2025-09-26T22:28:06Z
   Vendor: Harringtons
   Product Type: Senior Dry
   Availability: Available
@@ -6801,14 +6801,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-puppy-food-rich-in-chicken-rice-10kg-puppyjunior-dry-271127.png?v=1708950806
   Price: £29.38 GBP
 - [Harringtons Puppy Salmon & Rice 10 kg](https://veryimportantpets.shop/products/harringtons-puppy-salmon-rice-10-kg): Harringtons Puppy Salmon & Rice Food is carefully formulated for puppies from 3 weeks onward. No artificial colors or flavors, dairy, soya, or added wheat.
-  Updated: 2025-09-26T08:28:11Z
+  Updated: 2025-09-26T22:28:06Z
   Vendor: Harringtons
   Product Type: Puppy/Junior Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-puppy-food-rich-in-salmon-rice-10kg-puppyjunior-dry-657206.png?v=1708950806
   Price: £29.32 GBP
 - [Harringtons Puppy Turkey & Rice](https://veryimportantpets.shop/products/harringtons-puppy-turkey-rice): Harringtons Puppy Rich in Turkey & Rice is a complete pet food for puppies from 3 weeks, with no artificial additives. Perfect for growing pups!
-  Updated: 2025-09-26T13:28:31Z
+  Updated: 2025-09-26T22:28:05Z
   Vendor: Harringtons
   Product Type: Puppy/Junior Dry
   Availability: Available
