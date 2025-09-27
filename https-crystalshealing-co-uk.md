@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-27T12:00:34.785Z
+- Updated At: 2025-09-27T20:00:34.761Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4775,7 +4775,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_37_1.jpg?v=1754660496
     Price: £5.80 GBP
 - [Rose Quartz Wand – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-wand-sacred-imperfections): Rose Quartz Wand – Sacred Imperfections Edition Self-Love • Emotional Healing • Heart-Centered Energy What makes it unique: This natural rose quartz wand may sh
-  Updated: 2025-09-27T06:21:51Z
+  Updated: 2025-09-27T18:38:46Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
