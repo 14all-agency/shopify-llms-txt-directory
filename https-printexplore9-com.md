@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-09-27T16:00:29.620Z
+- Updated At: 2025-09-27T20:00:30.467Z
 
 ## Products
 
@@ -249,8 +249,8 @@
   - [2" × 2" / White](https://printexplore9.com/products/kiss-cute-stickers?variant=45051666891019)
     Availability: Available
     Price: $2.32 USD
-- [Tiger Toddler Hoodie — Durable, Cozy and Stylish](https://printexplore9.com/products/toddler-pullover-fleece-hoodie-print-explore): Toddler hoodie with fun tiger design soft cotton blend durable stitching and side pockets perfect for comfort and style.
-  Updated: 2025-09-27T15:47:54Z
+- [Tiger Toddler Hoodie — Durable, Cozy, and Stylish](https://printexplore9.com/products/toddler-pullover-fleece-hoodie-print-explore): Toddler hoodie with fun tiger design soft cotton blend durable stitching and side pockets perfect for comfort and style.
+  Updated: 2025-09-27T16:10:30Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -2337,7 +2337,7 @@
   Updated: 2025-09-20T18:45:00Z
   Total Products: 9
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
-  Updated: 2025-09-25T18:58:57Z
+  Updated: 2025-09-27T16:15:42Z
   Total Products: 12
 - [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
   Updated: 2025-09-16T14:35:09Z
