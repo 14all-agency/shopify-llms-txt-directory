@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-27T12:01:00.230Z
+- Updated At: 2025-09-27T20:01:00.938Z
 
 ## Products
 
@@ -8663,7 +8663,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת בלגיה בית 2024](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-בית-2024): חולצת נבחרת בלגיה בית 2024, שרוול קצר, בצבע אדום עשויה מ-100% פוליאסטר המספק נוחות ואוורור במהלך פעילות ספורטיבית. עם גזרה רגילה ולוגו רקום, היא מתאימה לשימוש יומיומי ולסגנונות ספורטיביים מגוונים.
-  Updated: 2025-09-18T19:45:57Z
+  Updated: 2025-09-27T18:54:10Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -8681,12 +8681,6 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-בית-2024?variant=46892053201146)
-    Availability: Available
-    Price: ‏89.99 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-בית-2024?variant=46892053233914)
-    Availability: Available
-    Price: ‏89.99 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-בית-2024?variant=46892053266682)
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת בלגיה חוץ 2024](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2024): חולצת נבחרת בלגיה חוץ 2024, שרוול קצר, בצבע כחול עשויה מ-100% פוליאסטר המספק נוחות ואוורור במהלך פעילות ספורטיבית. עם גזרה רגילה ולוגו רקום, היא מתאימה לשימוש יומיומי ולסגנונות ספורטיביים מגוונים.
@@ -13033,100 +13027,100 @@
   - [3XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס?variant=46908020654330)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיי JUSTO DON מילווקי באקס ירוקים](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:32Z
+- [מכנסיי JUSTO DON מילווקי באקס ירוקים](https://www.rsport.co.il/products/mb-pants-just-don-green): ‏מכנסי מילווקי באקס JUST DON לגברים בצבע ירוקים בעיצוב איכותי, נוח ועמיד בהשראת ה־NBA לשימוש במגרש וביום יום עם מראה מודרני וספורטיבי
+  Updated: 2025-09-27T19:35:39Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_00316d4b-25ef-4ee4-88c0-b2bd5fd3aded.jpg?v=1738545202
-  - [S](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים?variant=46908023505146)
+  - [S](https://www.rsport.co.il/products/mb-pants-just-don-green?variant=46908023505146)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים?variant=46908023537914)
+  - [M](https://www.rsport.co.il/products/mb-pants-just-don-green?variant=46908023537914)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים?variant=46908023570682)
+  - [L](https://www.rsport.co.il/products/mb-pants-just-don-green?variant=46908023570682)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים?variant=46908023603450)
+  - [XL](https://www.rsport.co.il/products/mb-pants-just-don-green?variant=46908023603450)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים?variant=46908023636218)
+  - [2XL](https://www.rsport.co.il/products/mb-pants-just-don-green?variant=46908023636218)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-ירוקים?variant=46908023668986)
+  - [3XL](https://www.rsport.co.il/products/mb-pants-just-don-green?variant=46908023668986)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיי JUSTO DON מילווקי באקס כחוילם](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:31Z
+- [מכנסיי JUSTO DON מילווקי באקס כחוילם](https://www.rsport.co.il/products/mb-pants-just-don-blue): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
+  Updated: 2025-09-27T19:33:36Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/21_daa263ef-22df-489d-b9c1-a00dd7548dce.jpg?v=1738545204
-  - [S](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם?variant=46908026880250)
+  - [S](https://www.rsport.co.il/products/mb-pants-just-don-blue?variant=46908026880250)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם?variant=46908026913018)
+  - [M](https://www.rsport.co.il/products/mb-pants-just-don-blue?variant=46908026913018)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם?variant=46908026945786)
+  - [L](https://www.rsport.co.il/products/mb-pants-just-don-blue?variant=46908026945786)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם?variant=46908026978554)
+  - [XL](https://www.rsport.co.il/products/mb-pants-just-don-blue?variant=46908026978554)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם?variant=46908027011322)
+  - [2XL](https://www.rsport.co.il/products/mb-pants-just-don-blue?variant=46908027011322)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסיי-justo-don-מילווקי-באקס-כחוילם?variant=46908027044090)
+  - [3XL](https://www.rsport.co.il/products/mb-pants-just-don-blue?variant=46908027044090)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיי JUSTO DON  לבנים מילווקי באקס](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:31Z
+- [לבן  | JUST DON  מכנסי מילווקי באקס](https://www.rsport.co.il/products/mb-pants-just-don-white): ‏מכנסי מילווקי באקס JUST DON לגברים בצבע לבן בעיצוב איכותי ונוח בהשראת ה־ NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-27T19:28:18Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/27_dc176710-1e03-4e42-a46b-d6373b1db36d.jpg?v=1738545198
-  - [S](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס?variant=46908027928826)
+  - [S](https://www.rsport.co.il/products/mb-pants-just-don-white?variant=46908027928826)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס?variant=46908027961594)
+  - [M](https://www.rsport.co.il/products/mb-pants-just-don-white?variant=46908027961594)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס?variant=46908027994362)
+  - [L](https://www.rsport.co.il/products/mb-pants-just-don-white?variant=46908027994362)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס?variant=46908028027130)
+  - [XL](https://www.rsport.co.il/products/mb-pants-just-don-white?variant=46908028027130)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס?variant=46908028059898)
+  - [2XL](https://www.rsport.co.il/products/mb-pants-just-don-white?variant=46908028059898)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסיי-justo-don-לבנים-מילווקי-באקס?variant=46908028092666)
+  - [3XL](https://www.rsport.co.il/products/mb-pants-just-don-white?variant=46908028092666)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיי  מילווקי באקס JUST DON | כחול כהה](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:30Z
+- [‏מכנסי מילווקי באקס JUST DON | כחול כהה](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue): ‏מכנסי מילווקי באקס JUST DON בצבע כחול כהה לגברים בעיצוב איכותי בהשראת ה־ NBA
+  Updated: 2025-09-27T19:13:24Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_657a19e2-225a-45c4-9d2c-ea0d06abb005.jpg?v=1738545185
-  - [S](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה?variant=46908033761530)
+  - [S](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033761530)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה?variant=46908033794298)
+  - [M](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033794298)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה?variant=46908033827066)
+  - [L](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033827066)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה?variant=46908033859834)
+  - [XL](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033859834)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה?variant=46908033892602)
+  - [2XL](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033892602)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסיי-מילווקי-באקס-just-don-כחול-כהה?variant=46908033925370)
+  - [3XL](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033925370)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
@@ -29462,7 +29456,7 @@
     Availability: Available
     Price: ‏70.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד בית 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-בית-25-26-נשים): חולצת כדורגל נשים של ריאל מדריד עשויה 100% פוליאסטר, קלה, נושמת ונוחה, בגזרה מחמיאה המתאימה לפעילות ספורטיבית וללבישה יומיומית.
-  Updated: 2025-09-24T19:15:58Z
+  Updated: 2025-09-27T19:49:04Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37229,7 +37223,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת ברזיל חוץ 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גוניורס): תמוך בדור העתיד של ה־Selecao עם חולצת החוץ של נבחרת ברזיל 2025 לילדים, בעיצוב חדש ונועז בהשראת המדים של שחקניות הנבחרת. החולצה מגיעה בגוון כחול עמוק, ליצירת מראה מודרני שמושך את העין ועדיין נאמן למסורת. עשויה 100% פוליאסטר, מבד קל, נושם ונוח במיוחד אידיאלית למשחק, אימון או לבוש יומיומי. פריט מושלם לאוהדים צעירים שרוצים לבלוט ולתמוך בנבחרת הברזילאית בסגנון ייחודי ורענן.
-  Updated: 2025-09-18T19:46:28Z
+  Updated: 2025-09-27T18:37:51Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -45833,7 +45827,7 @@
   Updated: 2025-08-17T20:36:23Z
   Total Products: 31
 - [גופיות כדורסל NBA | מגוון רחב של עיצובים ונוחות](https://www.rsport.co.il/collections/nba): גלה מגוון גופיות כדורסל NBA בעיצובים מגוונים ונוחים. אידיאלי לאוהדים ולשחקנים שרוצים סטייל וביצועים.
-  Updated: 2025-08-17T20:37:34Z
+  Updated: 2025-09-27T19:27:56Z
   Total Products: 194
 - [שיקגו בולס](https://www.rsport.co.il/collections/שיקגו-בולס): שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה... הצג עוד שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה. בנוסף לגופיות שחקנים, תמצא גם גופיות רטרו נוסטלגיות משנות ה-90, מכנסי כדורסל, מכנסי JUST DON ולצידן חולצות טי-שירט לייף סטייל שמתאימות לכל יום – גם מחוץ לפרקט. כל הפריטים עשויים מחומרים איכותיים, מתאימים לאימונים, למשחק או ליום יום, עם דגש על נוחות, עיצוב ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות שיקגו בולס – עבר מפואר, סגנון בולט והשראה לנצח. גופיות של ג'ורדן, פיפן, רוז ורודמן מחכות כאן – לצד לוק לייף סטייל אמיתי... הצג עוד גופיות השחקנים הכי חמות של שיקגו בולס – מייקל ג'ורדן, סקוטי פיפן, דריק רוז ודניס רודמן, לצד גופיות רטרו קלאסיות, מכנסי כדורסל, מכנסי JUST DON וחולצות טי שירט לייף סטייל שישלימו כל הופעה. הפריטים עשויים מחומרים איכותיים ומתאימים לאימונים, למשחק או פשוט ללבוש יומיומי מלא סטייל ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.getElementById('short-text-desktop'); const fullDesktop = document.getElementById('full-text-desktop'); const showMoreDesktop = document.getElementById('toggle-btn-desktop'); const showLessDesktop = document.getElementById('toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.getElementById('short-text'); const fullMobile = document.getElementById('full-text'); const showMoreMobile = document.getElementById('toggle-btn'); const showLessMobile = document.getElementById('toggle-btn-less'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'block'; }); } });
   Updated: 2025-09-26T20:59:02Z
@@ -45863,7 +45857,7 @@
   Updated: 2025-08-17T20:36:33Z
   Total Products: 3
 - [מכנסי כדורסל](https://www.rsport.co.il/collections/מכנסי-כדורסל): מכנסי כדורסל איכותיים לנוחות וביצועים מקסימליים על המגרש. עיצובים מודרניים, בדים נושמים וגמישים לכל סוגי האימונים והמשחקים
-  Updated: 2025-09-26T21:33:34Z
+  Updated: 2025-09-27T19:27:56Z
   Total Products: 59
 - [ליגה אמריקאית](https://www.rsport.co.il/collections/ליגה-אמריקאית)
   Updated: 2025-09-18T18:28:19Z
@@ -45908,7 +45902,7 @@
   Updated: 2025-09-18T18:30:47Z
   Total Products: 29
 - [מכנסי כדורסל Just Don | סטייל ונוחות בסגנון רחוב יוקרתי](https://www.rsport.co.il/collections/just-don): מכנסי כדורסל ייחודיים של Just Don בעיצובים בהשראת קבוצות NBA כמו שיקגו בולס, לוס אנג'לס לייקרס, מיאמי היט, פיניקס סאנס ועוד. שילוב מושלם של סטייל ונוחות.
-  Updated: 2025-09-26T21:33:34Z
+  Updated: 2025-09-27T19:27:56Z
   Total Products: 38
 - [גולדן סטייט ווריורס](https://www.rsport.co.il/collections/גולדן-סטייט-ווריורס)
   Updated: 2025-08-17T20:36:33Z
@@ -45941,7 +45935,7 @@
   Updated: 2025-08-17T20:37:08Z
   Total Products: 22
 - [מילווקי באקס](https://www.rsport.co.il/collections/מילווקי-באקס)
-  Updated: 2025-08-17T20:37:12Z
+  Updated: 2025-09-27T19:27:56Z
   Total Products: 17
 - [טורונטו ראפטורס](https://www.rsport.co.il/collections/טורונטו-ראפטורס)
   Updated: 2025-09-26T21:33:34Z
@@ -46196,7 +46190,7 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-27T11:19:20Z
+  Updated: 2025-09-27T19:27:56Z
   Total Products: 2042
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
