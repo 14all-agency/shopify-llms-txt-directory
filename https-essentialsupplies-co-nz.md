@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-27T16:00:38.515Z
+- Updated At: 2025-09-27T20:00:39.201Z
 
 ## Products
 
@@ -5427,7 +5427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/household-screw-top-cap-white-28410-neck-household-bottles-triggers-essential-supplies-981242.jpg?v=1719445177
   Price: $2.00 NZD
 - [Household Flip Top Cap - White, 28/410 Neck](https://essentialsupplies.co.nz/products/household-flip-top-cap-white-28-410-neck-64)
-  Updated: 2025-02-19T00:09:53Z
+  Updated: 2025-09-27T17:14:25Z
   Vendor: Mattews Packaging
   Product Type: Household Bottles & Triggers
   Availability: Available
