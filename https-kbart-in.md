@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-23T06:41:23Z
 - Contact Email: info.kbart@gmail.com
-- Updated At: 2025-09-27T08:00:27.553Z
+- Updated At: 2025-09-27T16:00:28.510Z
 
 ## Products
 
@@ -100,13 +100,6 @@
   Product Type: Wooden Handcrafted Handpianted Horse Head
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Interior_decor_798adbf6-d2ff-469f-859a-b7359a3bc01c.jpg?v=1758721933
-  Price: ₹830.00 INR
-- [Handcarved Horse Head Statue - 11 Inch White Crackle Gold Detailing](https://kbart.in/products/handcarved-horse-head-statue): Elevate your decor with the KB ART 11 Inch Handcarved Horse Head Statue. Featuring a white crackle finish and gold detailing, this antique table decor adds sophistication to any space.
-  Updated: 2025-09-25T05:32:54Z
-  Vendor: KB ART
-  Product Type: Wooden Handcarved Handpainted Distress wooden Horse head with stand
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Wooden_Home_decor.jpg?v=1758721970
   Price: ₹830.00 INR
 - [Handpainted Wooden Temple Decor - KB ART Multicolor Amboz Work Mandir](https://kbart.in/products/handpainted-wooden-temple-decor): Elevate your space with our KB ART handpainted wooden temple decor. This multicolor Amboz work antique handcarved wall hanging mandir adds a touch of elegance and spirituality to any home.
   Updated: 2025-09-25T03:30:25Z
