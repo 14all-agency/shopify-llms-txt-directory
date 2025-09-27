@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-26T16:00:35.904Z
+- Updated At: 2025-09-27T08:00:34.107Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -2329,7 +2329,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/IMG_20200716_140554-PhotoRoom_5.jpg?v=1739738715
   Price: £34.00 GBP
 - [Blue Apatite Bracelet - Chic and Elegant](https://crystalshealing.co.uk/products/blue-apatite-bracelet): Unlock psychic abilities and imagination with our Blue Apatite Bracelet. Natural gemstones, adjustable (6.5-9"), and gift-boxed for perfection.
-  Updated: 2025-09-25T11:49:46Z
+  Updated: 2025-09-26T18:42:15Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4567,7 +4567,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_31.webp?v=1749663529
   Price: £18.00 GBP
 - [Rose Quartz Angel Necklace on Wax Cord](https://crystalshealing.co.uk/products/rose-quartz-angel-necklace-on-wax-cord): Invite love, compassion, and gentle energy into your life with this beautiful Rose Quartz Angel Necklace. Carved from genuine rose quartz, this angel-shaped pendant is both a meaningful symbol and a timeless accessory. Its soft pink hue radiates warmth and emotional healing, making it a favorite for those seeking balance, love, and peace. Each pendant measures approximately 2cm x 1.3cm, perfectly sized for everyday wear without overpowering your look. The angel hangs from a durable wax cord, offering a natural, earthy feel and comfortable fit you can wear all day. Rose quartz is often called the Stone of Unconditional Love, known to open the heart chakra and promote harmony in relationships. This Rose Quartz Angel Necklace makes a thoughtful gift for a loved one, or a beautiful reminder of self-love and emotional clarity. ✅ Hand-carved rose quartz angel pendant✅ Approx. size: 2cm x 1.3cm✅ Comfortable and adjustable wax cord✅ Symbol of love, protection, and healing✅ Perfect for gifting or daily spiritual wear Wear your angel close and let love guide your path.
-  Updated: 2025-09-25T11:50:26Z
+  Updated: 2025-09-27T06:05:09Z
   Vendor: Crystals Healing
   Product Type: Necklace
   Availability: Available
@@ -4752,8 +4752,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_4_1_-min_3e9f873a-e451-4bdd-97fc-592b381968c2_2_1.jpg?v=1754661030
   Price: £0.99 GBP
-- [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant figurines are crafted from ethically sourced crystals, chosen for their unique energetic qualities.Each elephant is part of our Sacred Imperfections collection – meaning you may notice minor cosmetic flaws, surface marks, or inclusions.But rest assured: their spiritual integrity is untouched. In many traditions, elephants represent wisdom, stability, protection, and memory. These pocket-sized carvings are perfect for meditation, decor, or gifting with intention. Choose Your Crystal: Amethyst – Intuition • Calm • Dreamwork Supports the third eye and crown chakras. Perfect for spiritual connection, inner peace, and sleep rituals. Sodalite – Clarity • Truth • Communication Ideal for those seeking better self-expression, insight, and emotional balance. Tiger’s Eye – Courage • Protection • Grounding A powerful ally for confidence, decision-making, and emotional strength. Crazy Lace Agate – Joy • Stability • Vitality Known as the “Happy Lace”, this stone brings grounding with a playful twist – ideal for uplifting heavy energy. Product Details: Size: approx. 1.5" (L) × 0.8" (W) × 1" (H) Hand-carved from natural crystal Each piece is one-of-a-kind; expect natural variations Sold individually – choose your preferred stone Why Sacred Imperfections? Minor visual flaws, full spiritual power Helps reduce crystal waste from over-selection Lower cost, same energetic impact Final sale – we celebrate what’s perfectly imperfect Ideal For: Gifts with meaning & energy Altar decor or desk companions Pocket talismans Crystal healers & conscious collectors
-  Updated: 2025-09-25T11:50:33Z
+- [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant
+  Updated: 2025-09-27T06:24:20Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -4774,15 +4774,15 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_37_1.jpg?v=1754660496
     Price: £5.80 GBP
-- [Rose Quartz Wand – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-wand-sacred-imperfections): Rose Quartz Wand – Sacred Imperfections Edition Self-Love • Emotional Healing • Heart-Centered Energy What makes it unique: This natural rose quartz wand may show moderate to heavy scratches, uneven polish, or surface marks — which is exactly why it belongs in our Sacred Imperfections collection. These pieces were too powerful to discard, yet not “perfect” enough for conventional retail standards.They carry the full vibrational energy of rose quartz – unfiltered, raw, and honest – perfect for deep emotional healing and self-compassion work. Use these wands in rituals where authenticity matters more than appearance. Energetic Benefits: Opens and aligns the Heart Chakra Promotes forgiveness, softness, and emotional healing Encourages deep self-acceptance and release of guilt/shame Ideal for inner child work, grief support, or self-love intentions Best used for: Personal energy healing – not for display Self-massage or chakra rebalancing Mirror work, emotional release rituals Shadow work or integration practices Product Details: Size: approx. 100–111 mm long × 19–25 mm wide Shape: Rounded wand (may be slightly asymmetrical) Material: Ethically sourced Rose Quartz Surface: Unpolished or scratched – see images for reference Sold individually Transparency Note: These wands may include: Visible surface scratches (light to deep) Uneven or rough polish Inclusions or natural cracks They are priced accordingly and sold as-is.Final sale – no refunds or returns. Why Sacred Imperfections? Reduces waste in the crystal industry Honours the full spectrum of crystal energy Supports conscious, non-superficial consumption Each piece is imperfect – just like healing What can you do with a Rose Quartz Wand?A rose quartz wand can be used for heart chakra healing, emotional release rituals, crystal massage, or as a meditation focus tool. Its energy promotes compassion, calm and inner peace.
-  Updated: 2025-09-25T11:50:33Z
+- [Rose Quartz Wand – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-wand-sacred-imperfections): Rose Quartz Wand – Sacred Imperfections Edition Self-Love • Emotional Healing • Heart-Centered Energy What makes it unique: This natural rose quartz wand may sh
+  Updated: 2025-09-27T06:21:51Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1437616106_9d5413d3-24c7-44f4-beb3-1774de5cb890.jpg?v=1754662350
   Price: £8.00 GBP
-- [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfection: This hand-carved Rose Quartz mushroom massage tool may show visible surface flaws – scratches, uneven polish or slight asymmetry – but it’s fully functional and energetically active. Designed to fit comfortably in your palm, the mushroom shape is perfect for: Facial massage & tension release Reflexology & pressure points Lymphatic drainage Crystal healing rituals Rose Quartz is the crystal of unconditional love, emotional renewal, and heart-centered calm. Even imperfect, it radiates deep energetic support. Benefits of Use: Relieves facial muscle tension & puffiness Promotes circulation & glow Activates heart chakra through touch-based rituals Supports nervous system relaxation during self-care Product Details: Size: approx. 5 cm × 5 cm Shape: Mushroom (palm-sized, rounded top) Material: Ethically sourced Rose Quartz Surface: May show moderate to major scratches, rough patches or finish irregularities Sold individually Please Note: These tools are: Fully usable, despite cosmetic imperfections Not suitable as gift items for display perfectionists Discounted due to visual flaws only Final sale – healing happens beyond the surface Why Sacred Imperfections? Extends life to crystals with minor production flaws Reduces waste in crystal carving industry Affirms value beyond visual standards Celebrates functional beauty over flawless appearance
-  Updated: 2025-09-25T11:50:34Z
+- [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfec
+  Updated: 2025-09-27T06:23:02Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -5249,6 +5249,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Updated: 2025-09-24T09:21:32Z
     Author: Cristian Maxim
     Tags: Benefits, Best Crystals, crystals, Healing Crystals, Types & Jewelry
+  - [Unlock Moonstone Meaning for Healing and Manifestation](https://crystalshealing.co.uk/blogs/crystals-tips/unlock-moonstone-meaning-for-healing-and-manifestation): Unlock Moonstone Meaning for Healing and Manifestation
+    Updated: 2025-09-27T07:52:58Z
+    Author: Crystal Healing UK – Ethical Energy Jewelry
+    Tags: benefits of moonstone, crystal meanings, crystals, crystals for manifesting abundance, harnessing moonstone energy, healing, how to program crystals, manifestation stones, moonstone, moonstone meaning, moonstone properties
 
 ## Store Pages
 
