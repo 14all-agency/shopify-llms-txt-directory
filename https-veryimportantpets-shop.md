@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-27T08:01:14.217Z
+- Updated At: 2025-09-27T12:01:15.359Z
 
 ## Products
 
@@ -1952,7 +1952,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-foldable-grooming-table-w-adjustable-arm-non-slip-tabletop-leash-173533.jpg?v=1700650829
   Price: £89.99 GBP
 - [Foldable Pet Grooming Arm with Clamp, 29" Height Adjustable Dog Grooming Holder for Table with 2 Haunch Holders, Grooming Loop for Medium Dogs](https://veryimportantpets.shop/products/foldable-pet-grooming-arm-with-clamp-29-height-adjustable-dog-grooming-holder-for-table-with-2-haunch-holders-grooming-loop-for-medium-dogs): This grooming arm from PawHut is an excellent investment for any professional or in-home groomer. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-09-27T08:18:45Z
   Vendor: PawHut
   Product Type: Grooming Table
   Availability: Available
@@ -10148,7 +10148,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-just-6-lamb-with-veg-gravy-complete-grain-free-wet-dog-food-8-x-380g-adult-wet-649436.jpg?v=1708950872
   Price: £15.70 GBP
 - [Harringtons Just 6 Complete Adult Dog Multipack Trays 16x380g](https://veryimportantpets.shop/products/harringtons-just-6-complete-adult-dog-multipack-trays-16x380g): Harringtons Dog Just 6 Wet Multipack features tasty, natural ingredients for a happy, healthy pup. High in meat or fish content for optimal nutrition.
-  Updated: 2025-09-24T22:28:23Z
+  Updated: 2025-09-27T10:04:55Z
   Vendor: Harringtons
   Product Type: Adult Wet
   Availability: Available
@@ -12841,7 +12841,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-stix-medium-14-pack-x-6-natural-treats-629129.jpg?v=1701108780
   Price: £40.06 GBP
 - [Whimzees Toothbrush Large Box of 30 x 150mm](https://veryimportantpets.shop/products/whimzees-toothbrush-large-box-of-30-x-150mm): Whimzees are made with all-natural ingredients and are gluten free and vegetarian. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:54:20Z
+  Updated: 2025-09-27T09:28:17Z
   Vendor: Whimzees
   Product Type: Dental Chew Treats
   Availability: Available
@@ -13982,7 +13982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/furminator-undercoat-deshedding-tool-long-hair-extra-large-dog-brushes-combs-de-shedding-545867.jpg?v=1701338435
   Price: £41.72 GBP
 - [FURminator Toy Long Hair Dog DeShedding Tool](https://veryimportantpets.shop/products/furminator-toy-long-hair-dog-deshedding-tool): FURminator Undercoat deShedding Tool for Extra Small Long Hair Dog removes loose hair from shedding up to 99%. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:50Z
+  Updated: 2025-09-27T09:50:35Z
   Vendor: FURminator
   Product Type: Brushes, Combs & De-Shedding
   Availability: Available
@@ -24081,7 +24081,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-23T18:00:17Z
   Total Products: 434
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
-  Updated: 2025-09-25T21:02:18Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 302
 - [Durable Dog Bowls - Stainless Steel, Ceramic, Plastic Option](https://veryimportantpets.shop/collections/dog-bowls): Shop dog bowls including stainless steel, ceramic, plastic, and collapsible travel bowls. Find durable, stylish, and safe bowls for every dog.
   Updated: 2025-08-10T08:56:15Z
@@ -24174,7 +24174,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-26T15:31:46Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-09-26T13:28:54Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 590
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-09-22T18:52:15Z
@@ -24213,7 +24213,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-09-26T17:29:05Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 1781
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-09-22T18:51:59Z
@@ -24660,7 +24660,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-09-26T17:29:05Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 1702
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24738,7 +24738,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-14T11:34:46Z
   Total Products: 10
 - [Multi-Pack](https://veryimportantpets.shop/collections/pre-order)
-  Updated: 2025-09-26T13:28:55Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 105
 - [Arden Grange: Premium Pet Care - Very Important Pets | Shop](https://veryimportantpets.shop/collections/arden-grange): Arden Grange: Over 20 years of premium, hypoallergenic pet food. No wheat, beef, dairy. UK-made with quality chicken, lamb, salmon. No artificial additives.
   Updated: 2025-09-22T18:52:18Z
@@ -24804,7 +24804,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-02T13:28:05Z
   Total Products: 3
 - [Harringtons: Natural Pet Foods | Very Important Pets | Shop](https://veryimportantpets.shop/collections/harringtons): Discover Harringtons: natural, additive-free pet food with eco-friendly packaging. British heritage meets sustainability for dogs, cats, and small animals.
-  Updated: 2025-09-22T18:53:03Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 43
 - [Hill's Pet Food: Science-Led Nutrition | Very Important Pets](https://veryimportantpets.shop/collections/hills): Shop Hill's Pet Nutrition at Very Important Pets for tailored, science-backed food for every life stage. Your pet will benefit from the biologically appropriate recipes developed by experts to promote health, vitality, and enjoyment.
   Updated: 2024-02-22T15:04:03Z
@@ -24864,7 +24864,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-09-26T17:29:05Z
+  Updated: 2025-09-27T11:33:56Z
   Total Products: 2334
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
