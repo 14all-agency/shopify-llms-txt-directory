@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-09-27T12:00:30.419Z
+- Updated At: 2025-09-27T16:00:29.620Z
 
 ## Products
 
@@ -249,8 +249,8 @@
   - [2" × 2" / White](https://printexplore9.com/products/kiss-cute-stickers?variant=45051666891019)
     Availability: Available
     Price: $2.32 USD
-- [Tiger Toddler Hoodie Fun Design Durable and Cozy](https://printexplore9.com/products/toddler-pullover-fleece-hoodie-print-explore): Toddler hoodie with fun tiger design soft cotton blend durable stitching and side pockets perfect for comfort and style.
-  Updated: 2025-06-25T16:43:39Z
+- [Tiger Toddler Hoodie — Durable, Cozy and Stylish](https://printexplore9.com/products/toddler-pullover-fleece-hoodie-print-explore): Toddler hoodie with fun tiger design soft cotton blend durable stitching and side pockets perfect for comfort and style.
+  Updated: 2025-09-27T15:47:54Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -2246,7 +2246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_garment_-dyed_Tank_TOP.jpg?v=1735926334
     Price: $37.67 USD
 - [Accessory Pouch with T-Bottom | Stylish & Durable](https://printexplore9.com/products/accessory-pouch-w-t-bottom-print-explore): Stay organized in style with our T-bottom pouch—durable, elegant & compact. Perfect for makeup, stationery, or travel essentials.
-  Updated: 2025-09-19T05:17:41Z
+  Updated: 2025-09-27T14:31:51Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -2310,7 +2310,7 @@
   Updated: 2025-09-16T09:22:01Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-09-25T18:55:41Z
+  Updated: 2025-09-27T14:34:04Z
   Total Products: 31
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
   Updated: 2025-09-25T14:05:23Z
@@ -2328,7 +2328,7 @@
   Updated: 2025-09-21T08:17:55Z
   Total Products: 2
 - [Bags](https://printexplore9.com/collections/bags): Sustainable bags that turn heads Built to last with bold designs Elevate your everyday look while protecting the planet.
-  Updated: 2025-09-19T18:14:07Z
+  Updated: 2025-09-27T14:31:52Z
   Total Products: 8
 - [Unisex distressed Caps](https://printexplore9.com/collections/unisex-distressed-caps)
   Updated: 2025-09-25T11:50:36Z
