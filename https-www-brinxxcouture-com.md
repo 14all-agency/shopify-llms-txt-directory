@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-27T00:00:47.331Z
+- Updated At: 2025-09-27T04:00:44.267Z
 
 ## Products
 
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-26T23:40:46Z
+  Updated: 2025-09-27T02:41:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25927,7 +25927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-09-24T23:05:21Z
+  Updated: 2025-09-27T02:43:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26229,7 +26229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-09-26T08:21:25Z
+  Updated: 2025-09-27T03:20:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36007,7 +36007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59706BM.jpg?v=1758655228
     Price: $59.99 USD
 - [Leopard Print Long Sleeve Bodysuit - High Neck Slim Fit](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodysuit): Shop our leopard print long sleeve bodysuit with high neck design. Slim fit, comfortable polyester fabric. Perfect for layering or standalone wear. Free Ship
-  Updated: 2025-09-26T19:52:32Z
+  Updated: 2025-09-27T03:46:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36029,7 +36029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01LXWFex1hc4eODJmyR__2207411884297-0-cib.jpg?v=1758900080
     Price: $19.99 USD
 - [High Waist Leopard Print Skirt - Sexy Slim Fit Fashion](https://www.brinxxcouture.com/products/high-waist-leopard-print-skirt): Shop our high waist leopard print skirt with sexy slim fit. Bold animal print design perfect for day or night. Flattering high waisted style. Free Shipping!
-  Updated: 2025-09-26T19:52:33Z
+  Updated: 2025-09-27T01:14:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36067,7 +36067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
     Price: $29.99 USD
 - [Leopard Print Long Sleeve Bodycon Dress - Sexy Slim Style](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress): Shop our stunning leopard print long sleeve bodycon dress. Sexy slim fit perfect for nights out, parties & special occasions. Bold animal print that stands out.
-  Updated: 2025-09-26T22:40:09Z
+  Updated: 2025-09-27T03:41:48Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36105,7 +36105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
     Price: $34.99 USD
 - [High Collar Long Sleeve Bodycon Midi Dress - Elegant Style](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress): Shop our elegant high collar long sleeve bodycon midi dress. Perfect figure-flattering fit for work, evening events, or special occasions. Premium quality.
-  Updated: 2025-09-26T21:31:08Z
+  Updated: 2025-09-27T03:35:48Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36123,7 +36123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pcWaV01VJxv2Bxciq__2215584952633-0-cib.jpg?v=1758900215
     Price: $34.99 USD
 - [Pointed High Heeled Thigh Boots - Brinxx Couture](https://www.brinxxcouture.com/products/pointed-high-heeled-thigh-boots): Step into confidence and flare with these Pointed High Heeled Thigh Boots. Their sleek, pointed toe pairs perfectly with the towering heel to elongate your legs
-  Updated: 2025-09-26T19:52:33Z
+  Updated: 2025-09-27T03:25:18Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
