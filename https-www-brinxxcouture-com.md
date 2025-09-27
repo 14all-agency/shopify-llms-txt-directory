@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-26T20:00:47.556Z
+- Updated At: 2025-09-27T00:00:47.331Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-26T16:21:39Z
+  Updated: 2025-09-26T21:00:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-26T19:03:15Z
+  Updated: 2025-09-26T21:00:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-26T19:02:00Z
+  Updated: 2025-09-26T23:40:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29722,7 +29722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pTwQ7K1D9HPxwMo7n__2210235870173-0-cib.jpg?v=1735321332
     Price: $69.99 USD
 - [Off-Shoulder Long Sleeve Lace Dress - Brinxx Couture](https://www.brinxxcouture.com/products/off-shoulder-long-sleeve-lace-dress): This elegant off-shoulder dress with long lace sleeves will make you feel confident and stylish. The sexy lace adds a touch of romance to this versatile piece.
-  Updated: 2025-09-25T03:59:17Z
+  Updated: 2025-09-26T23:31:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36067,7 +36067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
     Price: $29.99 USD
 - [Leopard Print Long Sleeve Bodycon Dress - Sexy Slim Style](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress): Shop our stunning leopard print long sleeve bodycon dress. Sexy slim fit perfect for nights out, parties & special occasions. Bold animal print that stands out.
-  Updated: 2025-09-26T19:52:32Z
+  Updated: 2025-09-26T22:40:09Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36105,7 +36105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01u6o3rd1hc4YSS9AD8__2207411884297-0-cib.jpg?v=1758900143
     Price: $34.99 USD
 - [High Collar Long Sleeve Bodycon Midi Dress - Elegant Style](https://www.brinxxcouture.com/products/elegant-high-collar-bodycon-midi-dress): Shop our elegant high collar long sleeve bodycon midi dress. Perfect figure-flattering fit for work, evening events, or special occasions. Premium quality.
-  Updated: 2025-09-26T19:52:33Z
+  Updated: 2025-09-26T21:31:08Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
