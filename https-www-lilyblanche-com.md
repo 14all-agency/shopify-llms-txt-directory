@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-26T20:00:43.240Z
+- Updated At: 2025-09-27T00:00:42.496Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9572,7 +9572,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain | Rose Gold | Lily Blanche](https://www.lilyblanche.com/products/curb-chain-rose-gold): This classic, medium weight 18 carat rose gold vermeil curb chain is the perfect chain for any occasion. Wear on it is own, with one of our rose gold vermiel pendants. Free gift wrap.
-  Updated: 2025-08-17T12:14:23Z
+  Updated: 2025-09-26T21:51:15Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
