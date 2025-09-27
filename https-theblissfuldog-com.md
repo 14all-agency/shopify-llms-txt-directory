@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-27T00:00:39.466Z
+- Updated At: 2025-09-27T04:00:39.844Z
 
 ## Products
 
@@ -11616,7 +11616,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-PUGGLE_CUSTOM_COMBO.jpg?v=1597954160
   Price: $29.95 USD
 - [Samoyed Care Combo for Your Sammie's Dry Nose, Rough Paws & Itchy Skin](https://theblissfuldog.com/products/samoyed-custom-combo): The Blissful Dog - Customize your Samoyed Care Combo Kit for your Sammie's individual needs. Mix & match our individually handcrafted, all natural balms
-  Updated: 2025-06-24T16:13:14Z
+  Updated: 2025-09-27T01:40:43Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
