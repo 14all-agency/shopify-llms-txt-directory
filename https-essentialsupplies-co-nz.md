@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-27T04:00:37.577Z
+- Updated At: 2025-09-27T16:00:38.515Z
 
 ## Products
 
@@ -4720,7 +4720,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/round-bucket-blue-96l-capacity-1-bucket-buckets-essential-supplies-495080.jpg?v=1719445807
   Price: $5.00 NZD
 - [Round Bucket - Green, 9.6L Capacity - 1 Bucket](https://essentialsupplies.co.nz/products/round-bucket-green-9-6l-capacity-1): Round buckets made from food safe and BPA free plastic are ideal for a wide range of storage applications around the workplace or home. They are lightweight and stackable offering a great portable solution for every day use.
-  Updated: 2025-03-07T17:32:01Z
+  Updated: 2025-09-27T14:22:29Z
   Vendor: Mattews Packaging
   Product Type: Buckets
   Availability: Available
@@ -6113,7 +6113,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-white-m-13-gauge-120-gloves-rating-en388-3x4xf-cut-resistant-food-gloves-essential-supplies-264957.jpg?v=1719445687
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - White, L, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-white-l-13-gauge-12-rating-en388-3x4xf): White cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-01-28T22:06:27Z
+  Updated: 2025-09-27T11:57:17Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
@@ -7280,7 +7280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cardboard-corner-board-cutter-black-metal-design-1-cutter-corner-boards-essential-supplies-713522.jpg?v=1719444776
   Price: $575.00 NZD
 - [Kraft Paper Roll - Brown, 450mm x 250m, 80gsm - 1 Roll](https://essentialsupplies.co.nz/products/kraft-paper-roll-brown-450mm-x-250m-80gsm-1): Brown kraft paper rolls made from 100% recycled content are one of the most cost-efficient methods for wrapping packages and parcels. Ideal for the warehouse, office or retail industries. Available in a range of thicknesses and roll sizes to suit all packaging requirements
-  Updated: 2025-09-27T02:33:16Z
+  Updated: 2025-09-27T11:42:52Z
   Vendor: Mattews Packaging
   Product Type: Kraft Paper Rolls
   Availability: Available
