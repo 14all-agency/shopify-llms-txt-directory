@@ -6,45 +6,24 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
 - Contact Email: moonlitdragoninteractive@gmail.com
-- Updated At: 2025-09-27T17:26:04.576Z
+- Updated At: 2025-09-27T23:43:17.818Z
 
 ## Products
 
-- [FCS + Grappling Hook - Dual Maneuver System 3D (GUIDE) - GameDevCore](https://gamedevcore.com/products/fcs-grappling-hook-dual-maneuver-system-3d-weapons-combat): For solo devs, learners, and low-budget teams Learn how to integrate FCS + Grappling Hook - Dual Maneuver System yourself Great for improving your  - GameDevCore
-  Updated: 2025-09-27T16:30:12Z
-  Vendor: Roly's Portofolio/Blueprints
+- [Ultimate Blueprint Generator AI](https://gamedevcore.com/products/ultimate-blueprint-generator-ai): Bring your gameplay ideas to life without the technical hurdles. The Ultimate Blueprint Generator is a powerful but easy-to-use AI assistant that lets anyone, from artists to senior developers, create Blueprints from simple text in Unreal Engine. Click to purchase on the Fab Marketplace and unleash your creativity.
+  Updated: 2025-09-27T23:39:49Z
+  Vendor: GameDevCore
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/Screenshot2025-06-12230508_096f3d00-a6ea-4c77-8e7d-94e9f0c0e7ab.png?v=1758990609
-  Price: €24.99 EUR
-- [FCS + Superhero Flight Animations (GUIDE) - GameDevCore](https://gamedevcore.com/products/fcs-superhero-flight-animations): For solo devs, learners, and low-budget teams Learn how to integrate FCS + Superhero Flight Animations yourself - Unreal Engine 5.4, 5.5, and 5.6.  - GameDevCore
-  Updated: 2025-09-27T16:30:31Z
-  Vendor: Roly's Portofolio/Blueprints
+  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/newthumbnail.png?v=1759008917
+  Price: €0.00 EUR
+- [Ultimate Difficulty Scaling](https://gamedevcore.com/products/ultimate-difficulty-scaling): Tired of spaghetti Blueprints for difficulty scaling? Me too. This is the fix. Stop wrestling with endless Branch nodes. Ultimate Difficulty Scaling gives you one clean, central editor to control any variable, in any Blueprint, for any difficulty level. Balance your game in minutes, not days. It's the tool you've always wished you had.
+  Updated: 2025-09-27T23:42:10Z
+  Vendor: GameDevCore
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/Screenshot2025-06-12231359_753ec23d-df4d-4d8d-8197-d97f2e978ba4.png?v=1758990626
-  Price: €24.99 EUR
-- [FCS + Heroic Flight (GUIDE) - GameDevCore](https://gamedevcore.com/products/fcs-heroic-flight): For solo devs, learners, and low-budget teams Learn how to integrate FCS + Heroic Flight yourself - Unreal Engine 5.4, 5.5, and 5.6. Great for  - GameDevCore
-  Updated: 2025-09-27T16:30:43Z
-  Vendor: Roly's Portofolio/Blueprints
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/Screenshot2025-06-11172837_1de1269a-7e5d-40f5-ad86-915bc90a0aa2.png?v=1758990638
-  Price: €24.99 EUR
-- [FCS + Ultimate Horse System (GUIDE) - GameDevCore](https://gamedevcore.com/products/fcs-boss-ai-toolkit-integration-guide-copy): For solo devs, learners, and low-budget teams Learn how to integrate FCS + Ultimate Horse System yourself - Unreal Engine 5.4, 5.5, and 5.6. Great for  - GameDevCore
-  Updated: 2025-09-27T16:30:47Z
-  Vendor: Roly's Portofolio/Blueprints
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/Screenshot_2025-06-10_214135.png?v=1758990644
-  Price: €24.99 EUR
-- [FCS + Boss AI Toolkit Integration (GUIDE) - GameDevCore](https://gamedevcore.com/products/fcs-boss-ai-toolkit-integration-guide): For solo devs, learners, and low-budget teams Learn how to integrate FCS + Boss AI Toolkit yourself - Unreal Engine 5.4, 5.5, and 5.6. Great for  - GameDevCore
-  Updated: 2025-09-27T16:31:00Z
-  Vendor: Roly's Portofolio/Blueprints
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/Screenshot2025-06-09124715_c3522fd1-c7df-4ff4-b8b9-2c5d2b3cdaf4.png?v=1758990648
-  Price: €24.99 EUR
+  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/UDSlogonew.png?v=1759016177
+  Price: €0.00 EUR
 
 ## Collections
 
@@ -56,7 +35,7 @@
 
 - [Gamedev Blogs](https://gamedevcore.com/blogs/news)
   - [The Ultimate AI Blueprint Generator for Unreal Engine | 2025 Guide](https://gamedevcore.com/blogs/news/the-ultimate-ai-blueprint-generator-for-unreal-engine-2025-guide): <p><span>Tired of slow, repetitive Blueprint creation? Discover the Ultimate Blueprint Generator, a powerful AI tool for Unreal Engine that compiles C++-like code directly into clean graphs. This deep dive covers its core features, why it's the best blueprint generator on the market, and its groundbreaking 2025 roadmap.</span></p>
-    Updated: 2025-09-27T17:16:36Z
+    Updated: 2025-09-27T21:06:34Z
     Author: Blueprints Lab
     Tags: AI Assistant, AI Blueprint Generator, AI in Gamedev, AI Tools, Blueprint Generator, Blueprint to C++, Game Development, Generative AI, Prototyping, UE5, Ultimate Blueprint Generator, Unreal Engine, Unreal Engine 5, Workflow Automation
 
