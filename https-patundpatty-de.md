@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-27T08:00:31.293Z
+- Updated At: 2025-09-27T12:00:31.865Z
 
 ## Products
 
@@ -1906,7 +1906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-27T07:49:45Z
+  Updated: 2025-09-27T11:42:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2476,13 +2476,13 @@
   Updated: 2025-09-24T11:20:35Z
   Total Products: 10
 - [Bio Wärmflaschen Tiermotive – handgemacht & nachhaltig | PAT & PATTY](https://patundpatty.de/collections/bio-waermflaschen-im-tiermotiv-von-pat-und-patty): Handgemachte Bio Wärmflaschen mit Tiermotiven für Kinder & Erwachsene. Nachhaltig, weich & wohltuend – ideal als Geschenk oder für kalte Tage.
-  Updated: 2025-09-22T11:19:45Z
+  Updated: 2025-09-27T11:19:05Z
   Total Products: 12
 - [Meistverkaufte Produkte von Pat & Patty - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-09-26T11:21:52Z
+  Updated: 2025-09-27T11:19:05Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
-  Updated: 2025-09-23T11:23:23Z
+  Updated: 2025-09-27T11:19:05Z
   Total Products: 21
 - [Bio Rasseln & Greiflinge - Natürliche Baumwolle für Babys| Pat & Patty](https://patundpatty.de/collections/rasseln-greiflinge): Weiche Rasseln & Greiflinge aus Bio-Baumwolle – schadstofffrei, handgemacht & ideal für kleine Hände. Jetzt entdecken und bestellen bei PAT & PATTY!
   Updated: 2025-09-26T11:21:52Z
@@ -2491,10 +2491,10 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-09-25T11:21:18Z
+  Updated: 2025-09-27T11:19:05Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
-  Updated: 2025-09-26T19:41:58Z
+  Updated: 2025-09-27T11:19:05Z
   Total Products: 11
 - [Bio-Spieluhren mit waschbarem Spielwerk - Nachhaltig & sicher](https://patundpatty.de/collections/bio-spieluhren-waschbaremspielwerk): Entdecken Sie Bio-Spieluhren von PAT & PATTY mit waschbarem Spielwerk – aus natürlichen Materialien, nachhaltig und ideal für Babys und Kinder.
   Updated: 2025-08-22T11:54:27Z
@@ -2512,7 +2512,7 @@
   Updated: 2025-09-08T11:21:28Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-09-26T19:41:58Z
+  Updated: 2025-09-27T11:19:05Z
   Total Products: 53
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
