@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-26T20:00:39.166Z
+- Updated At: 2025-09-27T04:00:37.577Z
 
 ## Products
 
@@ -6827,7 +6827,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/floor-marking-tape-applicator-black-76mm-core-1-applicator-floor-marking-tape-essential-supplies-959867.jpg?v=1719445073
   Price: $230.00 NZD
 - [Kraft Paper Packaging Tape - Tan, 72mm x 50m x 125mu - 24 Rolls](https://essentialsupplies.co.nz/products/kraft-paper-packaging-tape-tan-72mm-x-50m-x-125mu-24): Kraft paper tape with a high quality adhesive designed for all timber, cardboard and paper applications. Kraft tape is strong, flexible and fully recyclable. Ideal for picture framing, sealing parcels and bookbinding.
-  Updated: 2025-01-26T14:09:48Z
+  Updated: 2025-09-27T02:46:31Z
   Vendor: Mattews Packaging
   Product Type: Paper Packaging Tape
   Availability: Available
@@ -7280,7 +7280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cardboard-corner-board-cutter-black-metal-design-1-cutter-corner-boards-essential-supplies-713522.jpg?v=1719444776
   Price: $575.00 NZD
 - [Kraft Paper Roll - Brown, 450mm x 250m, 80gsm - 1 Roll](https://essentialsupplies.co.nz/products/kraft-paper-roll-brown-450mm-x-250m-80gsm-1): Brown kraft paper rolls made from 100% recycled content are one of the most cost-efficient methods for wrapping packages and parcels. Ideal for the warehouse, office or retail industries. Available in a range of thicknesses and roll sizes to suit all packaging requirements
-  Updated: 2025-02-10T04:27:13Z
+  Updated: 2025-09-27T02:33:16Z
   Vendor: Mattews Packaging
   Product Type: Kraft Paper Rolls
   Availability: Available
