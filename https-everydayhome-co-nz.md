@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-26T20:00:35.972Z
+- Updated At: 2025-09-27T04:00:34.786Z
 
 ## Products
 
@@ -991,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-25T13:04:26Z
+  Updated: 2025-09-26T22:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1376,7 +1376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Touch-Bin-New-40L-Platinum-3.png?v=1727659165
   Price: $479.99 NZD
 - [Brabantia New Touch Bin - 40L Matt Black](https://everydayhome.co.nz/products/touch-bin-new-40l-matt-black): Add a touch of design to your home with the Brabantia Touch Bin 40 litre. A great, yet space efficient, organising help that looks the part too. Just touch the lid and it opens smoothly. It also has a timeless design, is easy to clean, and it protects your floor thanks to the protection rim. This touch bin is ready for years of intensive, problem free use!
-  Updated: 2025-09-23T12:35:30Z
+  Updated: 2025-09-26T20:37:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1460,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Steam-Clothes-Hanger-Pepper-Black-5.png?v=1727659005
   Price: $39.99 NZD
 - [Brabantia Refresh Steam Clothes Hanger - Grey](https://everydayhome.co.nz/products/steam-clothes-hanger-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Steam Hanger. Made for use with hand steamers, it makes steaming easier and quicker. Especially those difficult parts like the collar and shoulders! A hot item for easy-peasy steaming.
-  Updated: 2025-09-24T22:37:10Z
+  Updated: 2025-09-26T23:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1782,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Black-UMBRA-7.jpg?v=1731902493
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Multi Coloured](https://everydayhome.co.nz/products/buddy-hook-set-3-multi-colour-lite): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-09-25T14:12:18Z
+  Updated: 2025-09-27T03:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1824,7 +1824,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-09-25T23:22:06Z
+  Updated: 2025-09-27T03:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1950,7 +1950,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Conceal-Shelf-Small-Set-3-Silver-UMBRA-4.png?v=1731902619
   Price: $69.99 NZD
 - [Umbra Cubiko Wall Planter - Black](https://everydayhome.co.nz/products/cubiko-wall-planter-black): Introducing the Umbra Cubiko Wall Planter – the perfect way to add a powerful statement to any wall, both indoors or out. This planter is made of durable, lightweight materials, making it perfect for a variety of plants, no matter their size. With a customizable configuration, you can decide how you want to arrange your plants, giving you the freedom to spruce up any space in your own unique style. Plus, with the included drainage trays, it’s easy to ensure your plants stay hydrated and healthy.
-  Updated: 2025-09-25T13:03:54Z
+  Updated: 2025-09-26T20:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2279,7 +2279,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Multi-Organiser-White-UMBRA-0.jpg?v=1731902280
   Price: $59.99 NZD
 - [Umbra Estique Organiser - Black/Walnut](https://everydayhome.co.nz/products/estique-org-blk-wal): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-09-25T14:24:57Z
+  Updated: 2025-09-26T22:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2405,7 +2405,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Luna-Photo-Display-Black-UMBRA-3.jpg?v=1731901901
   Price: $119.99 NZD
 - [Umbra Montage Wall Shelf - Black](https://everydayhome.co.nz/products/montage-shelf-black): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-25T13:03:41Z
+  Updated: 2025-09-26T20:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2636,7 +2636,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Step-Soap-Sanitiser-Dispenser-White-UMBRA-2.jpg?v=1731903201
   Price: $27.99 NZD
 - [Umbra Stowit Jewelry Box - White/Natural](https://everydayhome.co.nz/products/stowit-jewelry-box-white-natural): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
-  Updated: 2025-09-25T15:01:47Z
+  Updated: 2025-09-26T21:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2867,7 +2867,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-25T03:07:10Z
+  Updated: 2025-09-26T20:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3609,7 +3609,7 @@
     Availability: Available
     Price: $65.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-09-26T01:42:45Z
+  Updated: 2025-09-26T23:00:41Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3681,7 +3681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $390.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-09-23T12:40:31Z
+  Updated: 2025-09-26T23:32:41Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3957,7 +3957,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SLPK-SMPK_IMG-001.png?v=1746478984
     Price: $390.00 NZD
 - [SwiftDry Loft Pulley Airer Black (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-loft-pulley-airer-black-3-sizes): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: Black (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTE A longer 15 meter sash cord can be purchased if you have a ceiling higher than 3 meters
-  Updated: 2025-09-23T20:37:10Z
+  Updated: 2025-09-27T03:02:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -5036,7 +5036,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416-158_FLUTEPICTUREFRAME_4x6_CHROME_CC03.jpg?v=1755731979
   Price: $47.99 NZD
 - [Umbra Flute Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-8x10-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 8x10 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-23T12:39:48Z
+  Updated: 2025-09-26T23:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
