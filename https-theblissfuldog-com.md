@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-27T04:00:39.844Z
+- Updated At: 2025-09-27T08:00:38.475Z
 
 ## Products
 
@@ -15899,7 +15899,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LAGOTTO_15TUBE_COMBO_1080_2fb17986-eeea-4b5f-84ef-b56db8f8d2c2.jpg?v=1656534627
   Price: $19.95 USD
 - [Petit Basset Vendome Griffon Dog Skin Care Combo For Your PBGV's Needs](https://theblissfuldog.com/products/petit-basset-vendome-tube-combo): Petit Basset Vendome Griffon Skin Care Combo For Your PBGV. Mix & Match tubes of our all-natural, handcrafted Nose Butter, Paw Butter, Elbow Butter & Boo Boo Butter
-  Updated: 2024-11-19T22:03:13Z
+  Updated: 2025-09-27T04:30:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
