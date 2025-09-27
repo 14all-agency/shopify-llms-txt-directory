@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-25T20:00:30.724Z
+- Updated At: 2025-09-27T08:00:30.578Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-16-core-server-room-cover-blue-windows-logo.png?v=1756804594
   Price: $150.00 USD
 - [Microsoft Office 2024 for Mac — Home & Business | TrustedTech](https://trustedtechteam.digital/products/microsoft-office-2024-for-mac): Buy Microsoft Office 2024 for Mac at TrustedTech — Office Home & Business 2024 with Word, Excel, PowerPoint and Outlook for a one-time productivity boost.
-  Updated: 2025-09-25T11:12:17Z
+  Updated: 2025-09-25T23:21:38Z
   Vendor: microsoft
   Product Type: office 2024
   Availability: Available
