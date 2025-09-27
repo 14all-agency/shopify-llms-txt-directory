@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-27T04:00:30.779Z
+- Updated At: 2025-09-27T08:00:31.293Z
 
 ## Products
 
@@ -1906,7 +1906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-26T14:27:46Z
+  Updated: 2025-09-27T07:49:45Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2053,7 +2053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Wildschwein-Sinnesfreund-F_r-Kleinkinder-PAT-Und-PATTY.png?v=1752230559
     Price: 49,50 € EUR
 - [Bio Kuscheltier Hund – weich, handgemacht und nachhaltig](https://patundpatty.de/products/bio-kuscheltier-hund-aus-100-bio-baumwolle): Bio Kuscheltier Hund von PAT & PATTY: handgemacht aus weichem Bio-Baumwollplüsch, nachhaltig, hautfreundlich, kuschelig und perfekt für Kinder und Babys.
-  Updated: 2025-09-26T19:41:57Z
+  Updated: 2025-09-27T07:42:05Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2722,6 +2722,10 @@
   - [Lernspielzeuge die Kinder wirklich weiterbringen](https://patundpatty.de/blogs/news/lernspielzeuge-die-kinder-wirklich-weiterbringen): Lernspielzeuge die Kinder wirklich weiterbringen
     Updated: 2025-09-26T10:06:03Z
     Author: Sharon Engel
+  - [Was ist eine Rassel? Verständnis für Eltern und Käufer](https://patundpatty.de/blogs/news/was-ist-eine-rassel): Erfahren Sie, was eine Rassel ist und warum sie wichtig für die Entwicklung Ihres Kindes ist. Was ist eine Rassel erklärt.
+    Updated: 2025-09-27T05:37:32Z
+    Author: Sharon
+    Tags: was ist eine rassel
 
 ## Store Pages
 
