@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-09-27T04:00:33.236Z
+- Updated At: 2025-09-27T12:00:33.269Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -617,7 +617,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £840.00 GBP
 - [Rose Water (Hydrolat)](https://inky-ingredients.com/products/rose-water-hydrolat): Rose Water, a hydrolat produced during steam distillation of rose petals, is a gentle and fragrant toner for the skin. Known for its soothing properties, it refreshes and hydrates, making it a popular addition to skincare routines for a radiant complexion.
-  Updated: 2025-09-26T09:44:31Z
+  Updated: 2025-09-27T11:34:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1064,7 +1064,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £66.50 GBP
 - [Jojoba Seed Oil Golden, Cold Pressed Organic](https://inky-ingredients.com/products/jojoba-seed-oil-golden-cold-pressed-organic): Organic Cold-pressed Jojoba Seed Oil Golden is a pure, natural moisturiser. Rich in nutrients, it nourishes the skin and hair deeply. Its organic origin ensures a clean, sustainable product for various cosmetic applications.
-  Updated: 2025-09-26T15:12:47Z
+  Updated: 2025-09-27T06:51:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1085,7 +1085,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £136.98 GBP
 - [Jojoba Seed Oil Golden, Cold Pressed](https://inky-ingredients.com/products/jojoba-seed-oil-golden-cold-pressed): Cold-pressed Jojoba Seed Oil Golden, with a natural golden hue, mimics the skin's sebum. It moisturises without clogging pores, providing balance. Ideal for skincare, haircare, and massage, leaving a nourished and radiant feel.
-  Updated: 2025-09-26T08:59:09Z
+  Updated: 2025-09-27T10:50:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1451,7 +1451,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £384.00 GBP
 - [Black Cumin Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed-organic): Organic and cold-pressed, Black Cumin Seed Oil is a potent source of antioxidants and nourishing compounds, promoting skin health and vitality with its natural and pure formulation.
-  Updated: 2025-09-26T15:12:53Z
+  Updated: 2025-09-27T06:51:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1535,7 +1535,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £265.80 GBP
 - [Bakuchi (Bakuchiol) Oil, Cold Pressed](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-cold-pressed): Embrace the benefits of Bakuchi Oil with this cold-pressed variant. Known for its natural retinol alternative, Bakuchiol nourishes and rejuvenates the skin, promoting a youthful complexion without the sensitivity associated with traditional retinol.
-  Updated: 2025-09-26T08:38:32Z
+  Updated: 2025-09-27T11:11:55Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2015,7 +2015,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £192.00 GBP
 - [Sunflower Seed Oil (Hi Linoleic), Cold Pressed Organic](https://inky-ingredients.com/products/sunflower-seed-oil-hi-linoleic-cold-pressed-organic): Organic, cold-pressed sunflower seed oil, rich in linoleic acid. A natural skincare solution that nourishes and balances the skin, providing essential moisture without greasiness.
-  Updated: 2025-09-26T09:39:17Z
+  Updated: 2025-09-27T07:45:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3410,7 +3410,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.27 GBP
 - [Hemp Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/hemp-seed-oil-cold-pressed-organic): Cold-pressed from organic hemp seeds, this oil retains its natural goodness. Packed with omega fatty acids, it hydrates and nourishes the skin deeply, promoting a healthy complexion and supporting skin elasticity.
-  Updated: 2025-09-26T09:24:25Z
+  Updated: 2025-09-27T06:51:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4730,7 +4730,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £122.40 GBP
 - [Andiroba Oil, Cold Pressed](https://inky-ingredients.com/products/andiroba-oil-cold-pressed): Cold-pressed Andiroba Oil is a skin-loving oil with anti-inflammatory properties. It deeply moisturises, soothes irritated skin, and promotes overall skin health. A natural choice for skincare formulations seeking to calm and nourish the skin.
-  Updated: 2025-09-26T09:07:26Z
+  Updated: 2025-09-27T06:51:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5445,7 +5445,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £69.00 GBP
 - [Grapeseed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/grapeseed-oil-cold-pressed-organic): Organic Cold Pressed Grapeseed Oil is a premium-grade oil with natural antioxidants. It nourishes and revitalises the skin, making it an excellent choice for organic skincare formulations that prioritise purity and quality.
-  Updated: 2025-09-26T09:23:34Z
+  Updated: 2025-09-27T06:51:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5958,7 +5958,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £43.00 GBP
 - [Rosehip Seed Oil, Cold Pressed Organic (R Colour)](https://inky-ingredients.com/products/rosehip-seed-oil-cold-pressed-organic-r-colour): Organic, cold-pressed Rosehip Seed Oil, renowned for its vibrant colour, is a skin-loving powerhouse. Packed with vitamins and essential fatty acids, it promotes skin regeneration and elasticity, providing a natural boost for a radiant and youthful appearance.
-  Updated: 2025-09-26T13:18:35Z
+  Updated: 2025-09-27T10:50:31Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6854,7 +6854,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/Soap_20base_20shopify_20image_20liquid-min_957b712b-efd2-4271-9ef5-6e39526d461d.jpg?v=1756297140
   Price: £184.80 GBP
 - [Rice Bran Oil, Cold Pressed Organic](https://inky-ingredients.com/products/rice-bran-oil-cold-pressed-organic): Organic Cold-pressed Rice Bran Oil is a lightweight, moisturising oil with antioxidant properties. It's an excellent choice for skincare, providing hydration and promoting a healthy complexion while supporting overall skin wellness.
-  Updated: 2025-09-26T08:18:05Z
+  Updated: 2025-09-27T06:51:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7158,43 +7158,43 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Updated: 2025-02-18T09:45:18Z
   Total Products: 0
 - [Gluten Free](https://inky-ingredients.com/collections/gluten-free): Natural, gluten-free ingredients for safe product formulations. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 351
 - [Organic](https://inky-ingredients.com/collections/organic): Discover our selection of certified organic natural ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 104
 - [Clearance](https://inky-ingredients.com/collections/clearance): Find great deals on natural ingredients in our clearance section. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
   Updated: 2025-08-07T11:33:48Z
   Total Products: 0
 - [Best Sellers](https://inky-ingredients.com/collections/best-sellers): Explore our best-selling natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 382
 - [New Products](https://inky-ingredients.com/collections/new-products): Discover our latest natural ingredient launches. Free delivery over £60, fully accredited, and sustainably sourced from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 382
 - [Cold-Pressed Oils](https://inky-ingredients.com/collections/cold-pressed-oils): Explore our range of cold-pressed natural oils for various applications. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 101
 - [Butters](https://inky-ingredients.com/collections/butters): Explore our range of natural butters for nourishing skincare products. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 20
 - [Essential Oils](https://inky-ingredients.com/collections/essential-oils): Explore our range of 100% pure, natural essential oils. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 114
 - [Exfoliants](https://inky-ingredients.com/collections/exfoliants): Explore our range of natural exfoliants for gentle skin renewal. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
   Updated: 2025-09-26T12:39:37Z
   Total Products: 8
 - [Soap Bases](https://inky-ingredients.com/collections/soap-bases): Discover our selection of natural soap bases for handmade soaps. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 26
 - [Waters](https://inky-ingredients.com/collections/waters): Discover our selection of natural waters for various formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-22T11:40:27Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 4
 - [Refined Oils](https://inky-ingredients.com/collections/refined-oils): Discover our selection of refined natural oils for various applications. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 69
 - [Waxes](https://inky-ingredients.com/collections/waxes): Discover our selection of natural waxes for various formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:36Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 14
 - [Infusions](https://inky-ingredients.com/collections/infusions): Explore our range of natural infusions for various applications. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
   Updated: 2025-09-25T11:38:25Z
@@ -7206,85 +7206,85 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Updated: 2025-09-26T12:39:37Z
   Total Products: 3
 - [Vegan Friendly](https://inky-ingredients.com/collections/vegan-friendly): Discover our selection of vegan-friendly natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 375
 - [Kosher](https://inky-ingredients.com/collections/kosher): Discover our selection of Kosher-certified natural ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 29
 - [Acne-Fighting](https://inky-ingredients.com/collections/acne-fighting): Natural ingredients to help combat acne and blemishes. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
   Updated: 2025-09-26T12:39:36Z
   Total Products: 2
 - [Anti-Aging](https://inky-ingredients.com/collections/anti-aging): Defy aging with our natural anti-aging ingredients. Free delivery over £60, fully accredited, and sustainably sourced from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 175
 - [Anti-Inflammatory](https://inky-ingredients.com/collections/anti-inflammatory): Combat inflammation with our natural anti-inflammatory ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 256
 - [Antimicrobial](https://inky-ingredients.com/collections/antimicrobial): Combat microbes with our natural antimicrobial ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 89
 - [Antioxidant](https://inky-ingredients.com/collections/antioxidant): Discover our selection of natural antioxidant ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 63
 - [Cleansing](https://inky-ingredients.com/collections/cleansing): Explore our range of natural cleansing ingredients for effective yet gentle formulas. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 80
 - [Cooling](https://inky-ingredients.com/collections/cooling): Discover our selection of natural cooling ingredients for refreshing formulations. Free delivery over £60, fully accredited, and sustainably sourced.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 79
 - [Easily-Absorbed](https://inky-ingredients.com/collections/easily-absorbed): Natural, easily-absorbed ingredients for effective skincare formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 190
 - [Emollient](https://inky-ingredients.com/collections/emollient): Discover our emollient natural ingredients for smoother, softer skin. Ethically sourced, with free delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 106
 - [Emulsifying](https://inky-ingredients.com/collections/emulsifying): Explore our range of natural emulsifying ingredients for stable formulations. Free delivery over £60, fully accredited, and sustainable sourcing.
   Updated: 2025-08-07T13:20:58Z
   Total Products: 1
 - [Energising](https://inky-ingredients.com/collections/energising): Natural ingredients to help promote alertness and energy levels. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 41
 - [Exfoliating](https://inky-ingredients.com/collections/exfoliating): Discover our selection of natural exfoliating ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
   Updated: 2025-09-26T12:39:37Z
   Total Products: 9
 - [Healing & Soothing](https://inky-ingredients.com/collections/healing-soothing): Explore our range of natural healing and soothing ingredients. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 62
 - [Moisturising & Hydrating](https://inky-ingredients.com/collections/moisturising-hydrating): Explore our range of natural moisturising ingredients for hydrated, supple skin. Free delivery over £60, fully accredited, and sustainably sourced.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 229
 - [Regenerative](https://inky-ingredients.com/collections/regenerative): Revitalise your skin with our natural regenerative ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 56
 - [Scar Healing](https://inky-ingredients.com/collections/scar-healing): Natural ingredients to promote scar healing and skin regeneration. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 17
 - [Sebum Control](https://inky-ingredients.com/collections/sebum-control): Natural ingredients to help control excess sebum production. Free delivery over £60, fully accredited, and sustainable sourcing.
   Updated: 2025-09-09T11:39:01Z
   Total Products: 3
 - [Skin Brightening](https://inky-ingredients.com/collections/skin-brightening): Discover our selection of natural skin brightening ingredients. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 38
 - [Skin Tightening](https://inky-ingredients.com/collections/skin-tightening): Natural ingredients to help promote tighter, firmer skin. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 72
 - [Stress Relief](https://inky-ingredients.com/collections/stress-relief): Natural ingredients to help promote relaxation and stress relief. Free delivery over £60, fully accredited, and sustainable sourcing.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:15Z
   Total Products: 33
 - [Warming](https://inky-ingredients.com/collections/warming): Explore our range of natural warming ingredients for various applications. Ethically sourced, with free UK delivery over £60 from INKY Ingredients.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 31
 - [Zero-Waste](https://inky-ingredients.com/collections/zero-waste)
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 116
 - [Upcycled](https://inky-ingredients.com/collections/upcycled)
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 62
 - [Summer Sale](https://inky-ingredients.com/collections/sale): Formulate Fresh This Summer – Save 15% Now! This summer, stock up on over 1,500 natural, accredited ingredients from the UK’s largest certified supplier. Simply use code: SUMMER15 at checkout (valid until 27/07/25) *sale excludes Soap Bases
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 362
 - [Shop the Season - Autumnal Scents](https://inky-ingredients.com/collections/shop-the-season): Discover the scents and sensations of the season with our handpicked range of autumnal and Christmas essential oils, cold-pressed oils, and natural waxes. From cosy, spiced aromas to fresh, festive notes, these ingredients are perfect for creating candles, skincare, and blends that capture the magic of the season.
-  Updated: 2025-09-26T12:39:37Z
+  Updated: 2025-09-27T11:36:16Z
   Total Products: 62
 
 ## Blogs
