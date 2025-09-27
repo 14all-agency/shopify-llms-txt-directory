@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-26T20:00:29.887Z
+- Updated At: 2025-09-27T00:00:32.027Z
 
 ## Products
 
@@ -832,7 +832,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Faultier-W_rmflasche-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1753258549
   Price: 39,95 € EUR
 - [Bio Wärmflasche Wildschwein Braun – Naturgummi & Plüsch | PAT&PATTY](https://patundpatty.de/products/oeko-bio-waermflasche-wildschwein): Bio Wärmflasche Wildschwein aus Bio-Plüsch & Naturkautschuk – handgemacht, schadstofffrei & waschbar. Jetzt bei PAT&PATTY entdecken & bestellen!
-  Updated: 2025-08-22T15:45:44Z
+  Updated: 2025-09-26T21:29:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1399,7 +1399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Wildschwein-PAT-und-PATTY-Naturtextil.jpg?v=1752566626
     Price: 30,50 € EUR
 - [Bio Schmusetuch Schwein Rosa – Weich & Nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-schwein): Weiches Bio Schmusetuch Schwein in Rosa – perfekt für Babys. Nachhaltig und liebevoll gefertigt. Jetzt personalisierbar! Hol dir dein individuelles Kuscheltuch!
-  Updated: 2025-08-22T11:54:35Z
+  Updated: 2025-09-26T20:13:46Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2013,7 +2013,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Einhorn-Ros_-Magisches-Fantasie-Spielzeug-PAT-Und-PATTY.jpg?v=1752231391
   Price: 39,95 € EUR
 - [Bio Kuscheltier Drache – Plüschtier handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-drache-tattie): Bio Kuscheltier Drache Tattie aus Bio-Baumwolle – weich, handgemacht und ideal zum Kuscheln. Jetzt bei Pat & Patty kaufen – nachhaltig und liebevoll gefertigt.
-  Updated: 2025-08-23T08:46:48Z
+  Updated: 2025-09-26T21:29:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
