@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-27T16:00:35.435Z
+- Updated At: 2025-09-27T20:00:35.700Z
 
 ## Products
 
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-09-25T13:48:32Z
+  Updated: 2025-09-27T16:07:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1026,7 +1026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-5-Hook-White-8.jpg?v=1727659556
   Price: $69.99 NZD
 - [Umbra Flip 3 Hook - White](https://everydayhome.co.nz/products/flip-3-hook-white): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-25T14:57:57Z
+  Updated: 2025-09-27T16:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2867,7 +2867,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-27T09:22:12Z
+  Updated: 2025-09-27T16:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3154,7 +3154,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkSideSinkOrganiserSet-DarkGrey-8710755302602Brabantia_96dpi_1000x1000px_7_NR-19587.png?v=1734486756
   Price: $69.99 NZD
 - [Brabantia Linn Clothes Rack Compact - Black](https://everydayhome.co.nz/products/linn-clothes-rack-black): Organise your clothes beautifully with Brabantia's Linn Clothes Rack Compact. This small size free-standing clothes rack with sturdy bamboo rod and handy shelf holds its own in any home. Use Linn Compact for airing your clothes in style by displaying them on clothes hangers on the sturdy rod. Need some stylish storage space? Linn is happy to help out. Perfect for your front hall, bedroom or laundry room!
-  Updated: 2025-09-23T12:37:40Z
+  Updated: 2025-09-27T16:22:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3462,7 +3462,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x15L-DarkGrey-8710755232503Brabantia_96dpi_1000x1000px_7_NR-34729.png?v=1734560867
   Price: $299.99 NZD
 - [Brabantia Sort & Go Built in Bin - 2 x 30L Dark Grey & Jade Green](https://everydayhome.co.nz/products/sort-go-built-in-bin-2-x-30l-dark-grey-jade-green): Double your waste-separating power, without losing any floor space with the Brabantia Sort & Go Built-in Bin 2 x 30 litre. Made to hide in the cupboard, with an easy to install mounting frame (self-supporting, so no sagging doors!). These discreet bins fit in most kitchen cupboards, whether the doors open to the left or right. They even have storage space on top and hooks on the side for extra organising. With a long telescopic rail, so you can single-handedly pull them out all the way. And of course they are easy to clean, take out and empty too. A great set.
-  Updated: 2025-09-23T12:37:58Z
+  Updated: 2025-09-27T18:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
