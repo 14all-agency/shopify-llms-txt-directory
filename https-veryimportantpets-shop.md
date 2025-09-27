@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-27T00:01:11.690Z
+- Updated At: 2025-09-27T08:01:14.217Z
 
 ## Products
 
@@ -3928,7 +3928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/95cm-cat-tree-tower-for-indoor-cats-with-scratching-post-cat-house-toy-ball-platform-beige-121223.jpg?v=1700662626
   Price: £80.99 GBP
 - [255cm Floor to Ceiling Cat Tree with Scratching Posts, Height Adjustable Cat Tower with Hammock, House, Anti-tipping Kit, Perches, Toys, Grey](https://veryimportantpets.shop/products/255cm-floor-to-ceiling-cat-tree-with-scratching-posts-height-adjustable-cat-tower-with-hammock-house-anti-tipping-kit-perches-toys-grey): Say goodbye to ripped curtains, ruined carpets and damaged sofas and say hello to this PawHut floor-to-ceiling cat tree, designed to bring joy and adventure to pets. Shop online at Very Important Pets
-  Updated: 2025-09-26T23:30:55Z
+  Updated: 2025-09-27T07:30:56Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4026,7 +4026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-26T23:30:55Z
+  Updated: 2025-09-27T07:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4359,7 +4359,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-animal-cage-with-hammock-wheels-pets-home-small-animal-cage-482199.jpg?v=1700648506
   Price: £71.99 GBP
 - [Mobile Small Animal Cage - Ideal for Small Rabbits, Guinea Pigs](https://veryimportantpets.shop/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs): Give your small pet their place to chill the day away with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:14Z
+  Updated: 2025-09-27T07:30:56Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4436,7 +4436,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellowblack-617038.jpg?v=1700645890
   Price: £152.99 GBP
 - [Rabbit Hutch Off-ground Small Animal Guinea Pig House 125.5 x 100 x 49cm](https://veryimportantpets.shop/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-125-5-x-100-x-49cm): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-09-27T02:09:24Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -11017,7 +11017,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/natural-vet-care-relief-250-ml-supplements-remedies-545410.jpg?v=1741090475
   Price: £9.85 GBP
 - [Naturo Adult Chicken and Lamb with Rice and Vegetables 7x400g](https://veryimportantpets.shop/products/naturo-adult-chicken-and-lamb-with-rice-and-vegetables-7x400g): Naturo Adult Chicken and Lamb with Rice and Vegetables. Shop online at Very Important Pets
-  Updated: 2025-09-26T02:20:19Z
+  Updated: 2025-09-27T07:46:25Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -16780,7 +16780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-british-short-hair-adult-cat-dry-10-kg-165007.jpg?v=1702499768
     Price: £107.95 GBP
 - [Royal Canin British Short Hair Kitten 2 kg](https://veryimportantpets.shop/products/royal-canin-british-short-hair-kitten-2-kg): Royal Canin British Shorthair Kitten has been designed to help these little kittens develop into the stereotypical British Shorthair cat. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:47Z
+  Updated: 2025-09-27T01:24:32Z
   Vendor: Royal Canin
   Product Type: Kitten Dry Food
   Availability: Available
@@ -23917,7 +23917,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-grain-free-turkey-duck-lamb-variety-pack-adult-wet-dog-food-12-x-395g-adult-wet-646980.webp?v=1741893983
   Price: £19.79 GBP
 - [Autarky Grain Free Variety Pack Adult Wet Dog Food - 12x395g](https://veryimportantpets.shop/products/autarky-grain-free-complete-variety-pack-wet-dog-food): Autarky Grain-Free Wet Dog Food Multipack Tins for working adult dogs. High-quality, grain-free, hypoallergenic recipes with joint and digestion support.
-  Updated: 2025-09-26T08:42:14Z
+  Updated: 2025-09-27T00:44:56Z
   Vendor: Autarky
   Product Type: Working Wet
   Availability: Available
@@ -25188,7 +25188,7 @@ Omega-6 & 3 for skin.
     Author: G Root
     Tags: All Posts, Cat
   - [Sleepy Kitties: Why Cats Sleep So Much](https://veryimportantpets.shop/blogs/news/sleepy-kitties-why-cats-sleep-so-much): <span>If you've ever watched your cat sleep the day away, you might have wondered why cats sleep so much. Contrary to popular belief, our feline friends aren't just lazy; their endless slumber serves a crucial purpose in their daily lives.</span>
-    Updated: 2025-09-26T21:12:03Z
+    Updated: 2025-09-27T00:43:26Z
     Author: G Root
     Tags: Advice, All Posts, Cat
   - [Decoding Feline Behaviour: Common Cat Quirks](https://veryimportantpets.shop/blogs/news/decoding-feline-behavior-common-cat-quirks): <span>Cats have a range of peculiar habits, from kneading and box obsession to the enigmatic purpose of their whiskers. By exploring these quirks, we gain insights into the complex world of feline behaviour and how their evolutionary history and domestication process has shaped it.</span>
