@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-27T12:00:31.865Z
+- Updated At: 2025-09-27T20:00:31.215Z
 
 ## Products
 
@@ -499,7 +499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Waermekissen_Pferd_-_PAT_PATTY-4833656.jpg?v=1747904597
     Price: 31,90 € EUR
 - [Bio Wärmekissen Wildschwein – Plüsch, weich & fair | PAT&PATTY](https://patundpatty.de/products/bio-waermekissen-wildschwein): Bio Wärmekissen Wildschwein aus Plüsch – handgemacht, schadstofffrei & kuschelig warm. Jetzt bei PAT&PATTY entdecken & bequem online bestellen!
-  Updated: 2025-09-13T19:41:07Z
+  Updated: 2025-09-27T18:31:20Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -657,7 +657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmekissen-Hase-waschbar-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1755608373
     Price: 29,90 € EUR
 - [Bio Wärmekissen Elefant – Plüsch & Frottee, weich & fair | PAT&PATTY](https://patundpatty.de/products/waermekissen-elefant): Bio Wärmekissen Elefant aus Plüsch & Frottee – handgemacht, wohltuend & schadstofffrei. Jetzt bei PAT&PATTY entdecken & online bestellen!
-  Updated: 2025-09-17T19:33:21Z
+  Updated: 2025-09-27T18:31:20Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1906,7 +1906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-27T11:42:55Z
+  Updated: 2025-09-27T16:17:50Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1936,7 +1936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen Füllmaterial | PAT&PATTY](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Nachhaltige Bio Schurwolle Kügelchen zum Füllen von Kissen & Spielzeug. Weich, atmungsaktiv, waschbar & Made in Germany. Jetzt bei PAT&PATTY bestellen!
-  Updated: 2025-09-24T15:35:45Z
+  Updated: 2025-09-27T18:07:17Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2726,6 +2726,10 @@
     Updated: 2025-09-27T05:37:32Z
     Author: Sharon
     Tags: was ist eine rassel
+  - [Bio Baumwollwatte - Nachhaltige Hautpflege | PAT & PATTY](https://patundpatty.de/blogs/news/bio-baumwollwatte-naturlich-rein-und-nachhaltig): Bio Baumwollwatte - Nachhaltige Hautpflege | PAT & PATTY
+    Updated: 2025-09-27T15:29:29Z
+    Author: Sharon Engel
+    Tags: Baumwollwatte, Bio, Hautpflege, Nachhaltigkeit, Umweltfreundlich
 
 ## Store Pages
 
