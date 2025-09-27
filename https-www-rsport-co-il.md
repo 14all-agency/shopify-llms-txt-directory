@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-26T16:01:05.418Z
+- Updated At: 2025-09-27T04:00:59.337Z
 
 ## Products
 
@@ -2255,7 +2255,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק ברצלונה בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ברצלונה-בית-24-25): חולצת בית לברצלונה לעונת 24/25 עשויה מ-100% פוליאסטר, חומר קל ועמיד שמבטיח נוחות ויכולת נשימה במהלך המשחקים. החולצה מעוצבת בצבעים המסורתיים של המועדון ומשדרת גאווה ואהבה לקבוצה.
-  Updated: 2025-09-26T12:46:53Z
+  Updated: 2025-09-27T01:08:56Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל
   Availability: Available
@@ -5944,8 +5944,8 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-נבחרת-ברזיל-חוץ-2024-25?variant=46863693086970)
     Availability: Available
     Price: ‏130.00 ‏₪ ILS
-- [גרבי כדורגל ברזיל בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-ברזיל-בית-2024-2025): גרבי כדורגל בורוסיה דורטמונד 24/25 בצבע לבן שחור גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס מתאימות לתלבושת שלישית
-  Updated: 2025-09-18T18:31:08Z
+- [גרבי כדורגל ברזיל בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-ברזיל-בית-2024-2025): גרבי הכדורגל הביתיות של נבחרת ברזיל לעונת 2024/2025 לתלבושת השלישית משלבות נוחות וביצועים מעולים עם עיצוב מקצועי בצבעי צהוב וירוק מסורתיים. עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, הן מספקות תמיכה באזור הקרסול והקשת, חופש תנועה מלא ותחושת יובש לאורך כל המשחק או האימון. הגרביים אידיאליות לשימוש במגרש, באימונים או כאביזר אופנתי עם תלבושת הנבחרת, ומעניקות מראה ייחודי שתומך באוהדים שרוצים ללבוש את הצבעים בגאווה.
+  Updated: 2025-09-26T22:38:37Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -8869,58 +8869,58 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-כדורגל-לילדים-בוקה-ג-וניורס-בית-2024-25?variant=46892926435578)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת כדורגל בוקה ג’וניורס חוץ 2024/25 | ילדים](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
-  Updated: 2025-09-26T10:12:05Z
+- [חליפת כדורגל בוקה ג’וניורס חוץ 2024/25 | ילדים](https://www.rsport.co.il/products/boca-kids-away-24-25): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע לבן מספקת שילוב מושלם של נוחות וביצועים לילדים אוהדי הקבוצה עשויה 100% פוליאסטר קל ואוורירי, היא מסייעת בשמירה על קור ונוחות במהלך פעילויות אינטנסיביות, עם לוגו רקום שמוסיף טאץ' אותנטי השרוולים הקצרים והגזרה המותאמת לילדים מאפשרים חופש תנועה למשחקים ספורטיביים וללבוש יומיומי, והופכים את החליפה לפריט איכותי שמחבר צעירים לאווירת הקבוצה.
+  Updated: 2025-09-26T20:55:30Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_0ede3ab8-e184-4931-835c-8d44db145a32.jpg?v=1738544889
-  - [XS](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938100986)
+  - [XS](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938100986)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXS](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938133754)
+  - [XXS](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938133754)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938166522)
+  - [S](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938166522)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938199290)
+  - [M](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938199290)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938232058)
+  - [L](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938232058)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938264826)
+  - [XL](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938264826)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/boca-juniors-away-24-25-kids?variant=46892938297594)
+  - [XXL](https://www.rsport.co.il/products/boca-kids-away-24-25?variant=46892938297594)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת כדורגל לילדים בוקה ג’וניורס חוץ 24/25](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
-  Updated: 2025-09-26T10:12:05Z
+- [חליפת כדורגל לילדים בוקה ג’וניורס חוץ 24/25](https://www.rsport.co.il/products/kids-suit-bo-away-24-25): חליפת ילדים בוקה ג’וניורס חוץ עונת 2024 בצבע כחול היא בחירה מושלמת לכל אוהד צעיר, מציע נוחות עם בד 100% פוליאסטר קל ואוורירי, שמסייע בשמירה על קור במהלך פעילויות אינטנסיביות. לוגו רקום על החולצה השרוולים הקצרים שלה מתאימים הן למשחקים ספורטיביים והן ללבוש יומיומי
+  Updated: 2025-09-26T20:53:23Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_929a504b-f6ab-4d45-b31d-fedbe3ebe2d2.jpg?v=1738544890
-  - [XXS](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892942983418)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892942983418)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892942950650)
+  - [XS](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892942950650)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943016186)
+  - [S](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892943016186)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943048954)
+  - [M](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892943048954)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943081722)
+  - [L](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892943081722)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943114490)
+  - [XL](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892943114490)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/boca-juniors-kids-away-24-25?variant=46892943147258)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-bo-away-24-25?variant=46892943147258)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [מכנס קצר  בוקה ג’וניורס בית 24/25](https://www.rsport.co.il/products/מכנס-קצר-בוקה-ג-וניורס-בית-24-25): מכנס קצר אל נאסר בית בצבע כחול עונת 24/25 עשוי מ-100% פוליאסטר, מה שמבטיח נוחות ועמידות על המגרש ובפעילויות ספורטיביות. החומר קליל ומנדף זיעה, מה שמסייע לשמור על טמפרטורה נוחה במהלך המשחקים.
@@ -9574,46 +9574,46 @@
   - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98?variant=46896490905850)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנס שיקגו בולס JUST DON צבע שחור](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור): מכנסי JUST DON שיקגו בולס בצבע שחור הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-24T15:58:27Z
+- [מכנסי JUST DON שיקגו בולס | שחור](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black): מכנסי JUST DON שיקגו בולס בצבע שחור מציעים שילוב מושלם של נוחות וסטייל עבור אוהדי NBA וחובבי אופנת רחוב עשויים 100% פוליאסטר קל ונושם, עם רצועת מותן סרוגה שמספקת התאמה מושלמת, לוגו וכיתוב רקום שמוסיפים טאץ' ייחודי, ורוכסנים לנוחות ופונקציונליות מקסימלית מתאימים ליום יום, אימונים או להופעות בסגנון רחוב, מה שהופך אותם לפריט אופנתי ושימושי בו זמנית.
+  Updated: 2025-09-26T21:00:28Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/22_13e8d8ba-4508-4bc8-ba48-1c3aaf5fd091.jpg?v=1738545099
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור?variant=46896591634682)
+  - [S](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black?variant=46896591634682)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור?variant=46896591667450)
+  - [M](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black?variant=46896591667450)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור?variant=46896591700218)
+  - [L](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black?variant=46896591700218)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור?variant=46896591732986)
+  - [XL](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black?variant=46896591732986)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-שחור?variant=46896591765754)
+  - [2XL](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black?variant=46896591765754)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנס שיקגו בולס JUST DON שחורים](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-שחורים): מכנסי JUST DON שיקגו בולס בצבע שחור הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:14:51Z
+- [מכנס שיקגו בולס JUST DON שחורים](https://www.rsport.co.il/products/just-don-bulls-black-pants): מכנסי שיקגו בולס JUST DON שחורים מציעים נוחות מרבית עם בד 100% פוליאסטר קל ונושם ורצועת מותן סרוגה לוגו וכיתוב רקום מוסיפים טאץ' ייחודי, הרוכסנים מספקים פונקציונליות גבוהה והופכים את המכנסיים לאידיאליים ליום יום, אימונים או סטייל רחוב פריט אופנתי שמאפשר חופש תנועה ומשדרג כל הופעה בסגנון NBA.
+  Updated: 2025-09-26T21:03:35Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_71bb851e-707d-4e62-997a-f561f2d058ea.jpg?v=1738545101
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-שחורים?variant=46896615031034)
+  - [S](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615031034)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-שחורים?variant=46896615063802)
+  - [M](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615063802)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-שחורים?variant=46896615096570)
+  - [L](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615096570)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-שחורים?variant=46896615129338)
+  - [XL](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615129338)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-שחורים?variant=46896615162106)
+  - [2XL](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615162106)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנס שיקגו בולס JUST DON לבנים](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים): מכנסי JUST DON שיקגו בולס בצבע לבן הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב.
@@ -13417,71 +13417,71 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908580036858)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסי טורונטו ראפטורס JUST DON | סגול](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:25Z
+- [מכנסי טורונטו ראפטורס JUST DON | סגול](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178): מכנסי JUST DON של טורונטו ראפטורס בצבע סגול משלבים נוחות מירבית עם סטייל רחוב מודרני. עשויים 100% פוליאסטר קל ונושם, הם מספקים חופש תנועה מלא ומתאימים לפעילות ספורטיבית וגם לשימוש יום יומי. הלוגו הרקום מוסיף טאץ' ייחודי ומדגיש את האותנטיות והסטייל של אוהדי NBA. רצועת המותן הסרוגה מבטיחה התאמה מושלמת, והרוכסנים מספקים פונקציונליות ונוחות מקסימלית בעת לבישה. מכנסיים אלו מתאימים ליום יום, אימונים או הופעות בסגנון רחוב. הצבע הסגול והעיצוב המקצועי מבטיחים מראה אופנתי שתואם את תרבות ה-NBA ומאפשר לאוהדים ללבוש את הצבעים בגאווה.
+  Updated: 2025-09-26T23:04:17Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_3fb9b95c-99df-4146-a2c9-9d1991e80fbf.jpg?v=1738545124
-  - [S](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול?variant=46908588982522)
+  - [S](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178?variant=46908588982522)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול?variant=46908589015290)
+  - [M](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178?variant=46908589015290)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול?variant=46908589048058)
+  - [L](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178?variant=46908589048058)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול?variant=46908589080826)
+  - [XL](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178?variant=46908589080826)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול?variant=46908589113594)
+  - [2XL](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178?variant=46908589113594)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי טורונטו ראפטורס JUST DON | לבן](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-לבן): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:24Z
+- [מכנסי טורונטו ראפטורס JUST DON | לבן](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378): מכנסי טורונטו ראפטורס JUST DON לבנים בעיצוב מודרני, בד קל ונושם לנוחות מירבית וחופש תנועה מושלם לאימון, יום-יום ואוהדים.
+  Updated: 2025-09-26T23:01:10Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_1869792a-15a7-40e7-9650-caac8df353b6.jpg?v=1738545122
-  - [S](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-לבן?variant=46908597764346)
+  - [S](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378?variant=46908597764346)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-לבן?variant=46908597797114)
+  - [M](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378?variant=46908597797114)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-לבן?variant=46908597829882)
+  - [L](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378?variant=46908597829882)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-לבן?variant=46908597862650)
+  - [XL](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378?variant=46908597862650)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-לבן?variant=46908597895418)
+  - [2XL](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378?variant=46908597895418)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי טורונטו ראפטורס JUST DON | שחור](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-שחור): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:24Z
+- [מכנסי טורונטו ראפטורס JUST DON](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898): מכנסי JUST DON שחורים בעיצוב מודרני שמחבר בין אהבת NBA לסטייל רחוב בד קל ונושם לנוחות מירבית וחופש תנועה. מתאים לאימון וליום-יום.
+  Updated: 2025-09-26T21:52:29Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_cdc41d76-b515-4bfd-955d-b0526b77068d.jpg?v=1738545130
-  - [S](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-שחור?variant=46908602122490)
+  - [S](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898?variant=46908602122490)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-שחור?variant=46908602155258)
+  - [M](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898?variant=46908602155258)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-שחור?variant=46908602188026)
+  - [L](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898?variant=46908602188026)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-שחור?variant=46908602220794)
+  - [XL](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898?variant=46908602220794)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-שחור?variant=46908602253562)
+  - [2XL](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898?variant=46908602253562)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי טורונטו ראפטורס JUST DON | צבעוני](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-צבעוני): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:23Z
+- [מכנסי טורונטו ראפטורס JUST DON | צבעוני](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-צבעוני): טורונטו ראפטורס JUST DON – מכנסי פוליאסטר קל ונושם בצבעוני, עם רצועת מותן סרוגה, לוגו רקום ורוכסני למפו, מושלמים לסטייל רחוב
+  Updated: 2025-09-26T21:36:43Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13501,8 +13501,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-צבעוני?variant=46908603269370)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי טורונטו ראפטורס JUST DON](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:22Z
+- [טורונטו ראפטורס JUST DON | מכנסי סטייל רחוב](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don): טורונטו ראפטורס JUST DON – מכנסי פוליאסטר קל ונושם, עם רצועת מותן סרוגה, לוגו רקום ורוכסני למפו, מושלמים לסטייל רחוב ואוהדי NBA
+  Updated: 2025-09-26T21:35:34Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13690,8 +13690,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908619129082)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסי טורונטו ראפטורס JUST DON סגול שחור](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול-שחור): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:18Z
+- [מכנסי טורונטו ראפטורס JUST DON | סגול שחור](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול-שחור): מכנסי טורונטו ראפטורס JUST DON מספקים חופש תנועה מלא ונוחות מקסימלית, עשויים 100% פוליאסטר קל ונושם שמנדף זיעה ומאפשר תחושת יובש לאורך כל הפעילות. רצועת המותן הסרוגה מבטיחה התאמה מדויקת ויציבות, והגזרה מותאמת למבוגרים כך שניתן לבצע חופש פעולה מלא במשחקים, אימונים או שימוש יומיומי. המכנסיים מעוצבים בגישה מודרנית ופונקציונלית, עם בד נושם שמספק אוורור ונוחות לאורך כל פעילות. פריט איכותי המדגיש חופש תנועה, עמידות ומראה מקצועי, מתאים למי שמחפש מכנסיים שמספקים ביצועים גבוהים מבלי לפגוע בסגנון הכללי.
+  Updated: 2025-09-26T21:33:35Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13711,8 +13711,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול-שחור?variant=46908619981050)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיי JUST DON  טורונטו ראפטורס](https://www.rsport.co.il/products/מכנסיי-just-don-טורונטו-ראפטורס): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:17Z
+- [JUST DON טורונטו ראפטורס | מכנסי סטייל רחוב](https://www.rsport.co.il/products/מכנסיי-just-don-טורונטו-ראפטורס): JUST DON טורונטו ראפטורס – מכנסי פוליאסטר קל ונושם, עם רצועת מותן סרוגה, לוגו רקום ורוכסני למפו, מושלמים לסטייל רחוב ואוהדי NBA
+  Updated: 2025-09-26T21:31:35Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13996,8 +13996,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908655042810)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסיי JUST DON יוטה ג'אז'](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:12Z
+- [מכנסיי JUST DON יוטה ג'אז'](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז): מכנסי יוטה ג'אז JUST DON מספקים חופש תנועה מירבי ונוחות יוצאת דופן, עשויים 100% פוליאסטר קל ונושם שמנדף זיעה ושומר על תחושת יובש לאורך כל הפעילות. רצועת המותן הסרוגה מבטיחה התאמה מדויקת ויציבות, והגזרה מותאמת למבוגרים ומאפשרת חופש פעולה מלא במהלך משחקים, אימונים או שימוש יומיומי. המכנסיים מתאפיינים בעיצוב מודרני ופונקציונלי, עם בד נושם שמספק אוורור יעיל ונוחות מקסימלית. פריט איכותי שמדגיש חופש תנועה, עמידות ונראות מקצועית, מתאים למי שמחפש מכנסיים שמספקים ביצועים גבוהים מבלי לפגוע במראה הכללי.
+  Updated: 2025-09-26T21:28:44Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -14350,50 +14350,50 @@
   - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור?variant=46908814360826)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי דנבר נאגטס JUST DON](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-09T11:00:42Z
+- [JUST DON דנבר נאגטס | מכנסי סטייל רחוב](https://www.rsport.co.il/products/pants-just-don-denver-nuggets): מכנסי דנבר נאגטס JUST DON מספקים חופש תנועה מלא ונוחות מירבית, עשויים 100% פוליאסטר קל ונושם שמנדף זיעה ושומר על תחושת יובש לאורך כל הפעילות. רצועת המותן הסרוגה מבטיחה התאמה מדויקת ויציבות, והגזרה מותאמת למבוגרים כך שמאפשרת חופש פעולה מלא בכל סוגי הפעילויות – משחק, אימון או יום יום. המכנסיים מתאפיינים בעיצוב פונקציונלי ומודרני שמתאים לשימוש יומיומי ולאימונים, עם בד נושם שמספק אוורור יעיל ונוחות מקסימלית במהלך פעילות ממושכת. פריט איכותי שמדגיש חופש תנועה, עמידות ונראות מקצועית, מתאים למי שמחפש מכנסיים שמספקים ביצועים גבוהים מבלי לפגוע במראה הכללי.
+  Updated: 2025-09-26T21:23:29Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_4d5b5a1d-5ed4-4cf8-b667-65896536d7a6.jpg?v=1738545117
-  - [S](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don?variant=46908816359674)
+  - [S](https://www.rsport.co.il/products/pants-just-don-denver-nuggets?variant=46908816359674)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don?variant=46908816392442)
+  - [M](https://www.rsport.co.il/products/pants-just-don-denver-nuggets?variant=46908816392442)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don?variant=46908816425210)
+  - [L](https://www.rsport.co.il/products/pants-just-don-denver-nuggets?variant=46908816425210)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don?variant=46908816457978)
+  - [XL](https://www.rsport.co.il/products/pants-just-don-denver-nuggets?variant=46908816457978)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don?variant=46908816490746)
+  - [2XL](https://www.rsport.co.il/products/pants-just-don-denver-nuggets?variant=46908816490746)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי דנבר נאגטס JUST DON | שחור](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור): מכנסי JUST DON הם פריט אופנתי פופולרי במיוחד בקרב אוהדי NBA ואוהבי סטייל רחוב. הרכב בד/חומר: 100% פוליאסטר רצועת מותן סרוגה לוגו וכיתוב רקום רוכסני למפו
-  Updated: 2025-09-07T22:13:04Z
+- [מכנסי דנבר נאגטס JUST DON | שחור אופנתי רחוב](https://www.rsport.co.il/products/just-don-denver-nuggets-pants-black): מכנסי דנבר נאגטס JUST DON שחורים, 100% פוליאסטר, רצועת מותן סרוגה, לוגו רקום ורוכסני למפו, מושלמים לסטייל רחוב ואוהדי NBA
+  Updated: 2025-09-26T21:07:26Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_435c67bd-35ad-4b74-b273-3de1a98d5902.jpg?v=1738545118
-  - [S](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור?variant=46908820521210)
+  - [S](https://www.rsport.co.il/products/just-don-denver-nuggets-pants-black?variant=46908820521210)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור?variant=46908820553978)
+  - [M](https://www.rsport.co.il/products/just-don-denver-nuggets-pants-black?variant=46908820553978)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור?variant=46908820586746)
+  - [L](https://www.rsport.co.il/products/just-don-denver-nuggets-pants-black?variant=46908820586746)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור?variant=46908820619514)
+  - [XL](https://www.rsport.co.il/products/just-don-denver-nuggets-pants-black?variant=46908820619514)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-דנבר-נאגטס-just-don-שחור?variant=46908820652282)
+  - [2XL](https://www.rsport.co.il/products/just-don-denver-nuggets-pants-black?variant=46908820652282)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [חולצת רטרו צרפת 2000/02 | נבחרת הכחולים בסגנון קלאסי](https://www.rsport.co.il/products/retro-shirt-fran-2000-02): חולצת רטרו נבחרת צרפת 2000/02 בעיצוב קלאסי ונושם עשויה פוליאסטר איכותי בגזרה רגילה לנוחות מושלמת וחיבור לאוהדים של הכחולים
-  Updated: 2025-09-26T15:32:46Z
+  Updated: 2025-09-27T03:32:51Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14414,7 +14414,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת 2002/04](https://www.rsport.co.il/products/retro-shirt-fran-2002-04): חולצת רטרו נבחרת צרפת 2002/04 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה ונוחות יומיומית לאוהדים
-  Updated: 2025-09-26T15:35:35Z
+  Updated: 2025-09-27T03:35:42Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14435,7 +14435,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו צרפת בית 1998 | זכייה היסטורית במונדיאל](https://www.rsport.co.il/products/retro-shirt-fran-home-1998): חולצת רטרו נבחרת צרפת בית 1998 עם עיצוב שמציין את הזכייה במונדיאל 1998, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
-  Updated: 2025-09-26T15:40:13Z
+  Updated: 2025-09-27T03:39:07Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14456,7 +14456,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת רטרו צרפת 2004 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-fran-2004): חולצת רטרו נבחרת צרפת 2004 בסגנון קלאסי ונוסטלגי, עשויה פוליאסטר קל ונושם, מספקת חופש תנועה ונוחות יומיומית לכל אוהד
-  Updated: 2025-09-26T15:42:10Z
+  Updated: 2025-09-27T03:42:09Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15028,58 +15028,58 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06?variant=46913088651514)
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
-- [חליפת ילדים רטרו נבחרת ברזיל 1998](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998): חליפת ילדים רטרו היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים גזרה: ילדים שרוולים : קצרים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T19:44:20Z
+- [חליפת ילדים ברזיל 1998 | רטרו בצבעי הסלסאו](https://www.rsport.co.il/products/retro-kids-suit-braz-1998): חליפת ילדים רטרו נבחרת ברזיל 1998 מחזירה את האווירה של מונדיאל צרפת והתקופה בה הנבחרת הציגה כדורגל מרגש עם שחקנים אגדיים. החליפה כוללת חולצה ומכנס, עשויה 100% פוליאסטר קל ונושם, המנדף זיעה ושומר על תחושת יובש לאורך כל פעילות. הגזרה מותאמת לילדים לנוחות מקסימלית, ומאפשרת חופש תנועה מלא במשחק, באימון או ביום יום. עיצוב בצבעי הצהוב-ירוק המזוהים עם הסלסאו, לחיבור אמיתי בין הדור הצעיר למסורת הכדורגל הברזילאי.
+  Updated: 2025-09-26T20:35:02Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2002_3_9b9e97d5-bf80-4e04-962d-f80a541452d0.jpg?v=1738544859
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117389050)
+  - [XS](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117389050)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117421818)
+  - [XXS](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117421818)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117454586)
+  - [S](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117454586)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117487354)
+  - [M](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117487354)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117520122)
+  - [L](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117520122)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117552890)
+  - [XL](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117552890)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-1998?variant=46913117585658)
+  - [XXL](https://www.rsport.co.il/products/retro-kids-suit-braz-1998?variant=46913117585658)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-- [חליפת ילדים רטרו נבחרת ברזיל 2002](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002): חליפת ילדים רטרו היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים גזרה: ילדים שרוולים : קצרים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-09-18T19:44:20Z
+- [חליפת ילדים ברזיל 2002 | רטרו בצבעי הסלסאו](https://www.rsport.co.il/products/retro-kids-suit-braz-2002): חליפת ילדים רטרו נבחרת ברזיל 2002 בצבעי הסלסאו, עשויה פוליאסטר קל ונושם לנוחות וחופש תנועה מלא במשחק, באימון או ביום יום
+  Updated: 2025-09-26T20:34:19Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_389f23a0-7a50-4622-a119-8e2f39a062fa.jpg?v=1738544863
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124532474)
+  - [XS](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124532474)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124565242)
+  - [XXS](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124565242)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124598010)
+  - [S](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124598010)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124630778)
+  - [M](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124630778)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124663546)
+  - [L](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124663546)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124696314)
+  - [XL](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124696314)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-רטרו-נבחרת-ברזיל-2002?variant=46913124729082)
+  - [XXL](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124729082)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
 - [חולצת רטרו מילאן בית 2000/02](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -17602,8 +17602,8 @@
   - [XXL](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men?variant=46916906320122)
     Availability: Available
     Price: ‏278.91 ‏₪ ILS
-- [חליפת אימון ז'קט כחולה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men): חליפת אימון ארוכה הכוללת ז'קט ומכנס ארוך היא פתרון מעולה לאימונים במהלך החורף עשויה מ-100% פוליאסטר קל ונושם, המסייע בהסרת לחות ושמירה על חום הגוף. עם עיצוב הכולל רוכסן מלא, ניתן להסדיר את הטמפרטורה בקלות, מה שהופך אותה למתאימה גם לשימוש יומיומי. הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: ז'קט אימון ומכנס ארוך אורך שרוול: ארוך צווארון: רוכסן מלא גזרה: רגילה מכנס ארוך תואם
-  Updated: 2025-09-26T15:15:00Z
+- [חליפת אימון ז'קט כחולה מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-blue-training-jacket-24-25-men): חליפת האימון הכחולה של מנצ'סטר יונייטד לעונת 24/25 עוצבה כדי לתת מענה מושלם לשחקנים ולאוהדים שמחפשים שילוב של ביצועים גבוהים ונוחות יומיומית הז'קט עשוי 100% פוליאסטר קל משקל ונושם, עם טכנולוגיה מתקדמת לנידוף זיעה ושמירה על תחושת יובש ורעננות גם באימונים אינטנסיביים, הבדים האיכותיים מבטיחים עמידות לאורך זמן, כך שהחליפה מתאימה הן לפעילות ספורטיבית והן לשימוש יומיומי.
+  Updated: 2025-09-26T20:25:04Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -17842,58 +17842,58 @@
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-חוץ-24-25?variant=46921660104954)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [חליפת ילדים אל הילאל בית 2024/25](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25): חליפת כדורגל ילדים החליפה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר
-  Updated: 2025-09-18T18:30:59Z
+- [חליפת ילדים אל הילאל בית 2024/25](https://www.rsport.co.il/products/kids-suit-al-home-2024-25): חליפת ילדים אל־חילאל בית 2024/25 מחברת את הצעירים לאווירת הבית של הקבוצה הסעודית עם עיצוב קלאסי בצבעי הכחול והלבן החליפה כוללת חולצה ומכנס, עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא בגזרה מותאמת לילדים לנוחות מקסימלית במשחק, באימון או ביום יום מושלם למי שרוצה ללבוש את צבעי הקבוצה בגאווה ולהרגיש חלק מהקבוצה כבר מגיל צעיר.
+  Updated: 2025-09-26T20:38:17Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/55850bf0-8954-4360-a335-02b37d6dc009.webp?v=1738544763
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925787898)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925787898)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925820666)
+  - [XS](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925820666)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925853434)
+  - [S](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925853434)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925886202)
+  - [M](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925886202)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925918970)
+  - [L](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925918970)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925951738)
+  - [XL](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925951738)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-בית-2024-25?variant=46921925984506)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-al-home-2024-25?variant=46921925984506)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-- [חליפת ילדים אל הילאל חוץ 2024/25](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25): חליפת כדורגל ילדים החליפה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר
-  Updated: 2025-09-18T18:30:59Z
+- [חליפת ילדים אל־הילאל חוץ 2024/25 | כחול כהה ולבן](https://www.rsport.co.il/products/kids-suit-al-away-2024-25): חליפת ילדים אל־הילאל חוץ 2024/25 בצבעי כחול כהה ולבן, עשויה פוליאסטר קל ונושם לנוחות וחופש תנועה מלא במשחק, באימון או ביום יום
+  Updated: 2025-09-26T20:43:27Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/a0d872cb-9027-4b1a-95b1-2ba84e3b0011.webp?v=1738544764
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921934995706)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921934995706)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921935028474)
+  - [XS](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921935028474)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921935061242)
+  - [S](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921935061242)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921935094010)
+  - [M](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921935094010)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921935126778)
+  - [L](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921935126778)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921935159546)
+  - [XL](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921935159546)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-אל-הילאל-חוץ-2024-25?variant=46921935192314)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-al-away-2024-25?variant=46921935192314)
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
 - [חולצת כדורגל פלמנגו בית 24/25](https://www.rsport.co.il/products/חולצת-כדורגל-פלמנגו-בית-24-25): חולצת פלמנגו בית 24/25, החולצה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר
@@ -18754,8 +18754,8 @@
   - [7](https://www.rsport.co.il/products/predator-pro-adidas-gk-gloves-yellow-white-black?variant=46947382755578)
     Availability: Available
     Price: ‏599.90 ‏₪ ILS
-- [כפפות שוער מקצועיות Future Pro Hybrid | גברים](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-men): כפפות ה-FUTURE Pro Hybrid מיועדות לשוערים מהדור הבא המחפשים חופש תנועה והיענות אופטימלית כדי להגיע לגבהים חדשים בביצועים חומר סרוג המבטיח התאמה מושלמת וזריזות רבה. עטיפת אגודל המחזקת את תחושת המגע בין הלטקס לכדור האחורי. לטקס מובלט מספק גמישות ומשפר חוזק.
-  Updated: 2025-09-25T23:19:11Z
+- [כפפות שוער מקצועיות Future Pro Hybrid | גברים](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-men): כפפות FUTURE Pro Hybrid תוכננו לשוערים שמחפשים שילוב של חופש תנועה ושליטה מלאה בכדור החומר הסרוג מספק התאמה מדויקת, זריזות גבוהה ותחושת מגע יוצאת דופן עם הכדור, בעוד לטקס מובלט מגביר גמישות וחוזק בכפפה העיצוב כולל עטיפת אגודל מחוזקת לשיפור אחיזה והגנה, מה שהופך את הכפפות לכלי מקצועי לשחקנים שרוצים להגיע לביצועים מקסימליים במגרש ובאימונים.
+  Updated: 2025-09-26T20:45:31Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
@@ -18775,8 +18775,8 @@
   - [10](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-men?variant=46947567337722)
     Availability: Available
     Price: ‏469.90 ‏₪ ILS
-- [כפפות שוער מקצועיות לבן/ורוד Future Pro Hybrid](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-white-pink): כפפות ה-FUTURE Pro Hybrid מיועדות לשוערים מהדור הבא המחפשים חופש תנועה והיענות אופטימלית כדי להגיע לגבהים חדשים בביצועים חומר סרוג המבטיח התאמה מושלמת וזריזות רבה. עטיפת אגודל המחזקת את תחושת המגע בין הלטקס לכדור האחורי. לטקס מובלט מספק גמישות ומשפר חוזק.
-  Updated: 2025-09-25T23:19:23Z
+- [כפפות שוער מקצועיות לבן/ורוד Future Pro Hybrid](https://www.rsport.co.il/products/future-pro-hybrid-goalkeeper-gloves-white-pink): כפפות שוער FUTURE Pro Hybrid תוכננו במיוחד לשוערים הצעירים שמחפשים שליטה, חופש תנועה ותגובה מדויקת במגרש החומר הסרוג מעניק התאמה מושלמת וגמישות מרבית, עטיפת האגודל משפרת את תחושת המגע עם הכדור והלטקס המובלט מחזק אחיזה ושליטה הכפפות אידיאליות לאימונים ולמשחקים ברמה מקצועית, ומעניקות שוערים את הבטחון והביצועים הדרושים כדי להגיע לפסגות חדשים.
+  Updated: 2025-09-26T20:48:53Z
   Vendor: R:SPORT
   Product Type: כפפות שוער
   Availability: Available
@@ -19181,7 +19181,7 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [football-ls-halfzip-rmd-24-25-kids](https://www.rsport.co.il/products/ls-training-suit-zip-rmd-24-25-kids): אימונית כדורגל ריאל מדריד 24/25 ילדים חולצה ארוכה עם רוכסן קדמי עשויה 100% פוליאסטר קל ונושם המעניקה חימום ונוחות אופטימלית בימי גשם וחורף הבד מנדף לחות ושומר על תחושת יובש לאורך כל פעילות הגזרה מותאמת לילדים ומאפשרת חופש תנועה מלא האימונית אידיאלית לאימונים על המגרש וללבישה יומיומית עם עיצוב מודרני שמשדרג כל הופעה
-  Updated: 2025-09-26T15:26:05Z
+  Updated: 2025-09-27T03:03:22Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19370,7 +19370,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [חליפת אימון ארוכה ילדים ריאל מדריד 24/25 | כתום לבן](https://www.rsport.co.il/products/football-ls-tracksuit-rmd-24-25-kids-white-org): אימונית כדורגל ריאל מדריד 24/25 ילדים אימונית ארוכה ונוחה לילדים, עשויה 100% פוליאסטר קל ונושם, המספקת חימום והגנה בימי חורף וגשם הבד מנדף לחות ושומר על תחושת יובש לאורך כל הפעילות הגזרה מותאמת לתנועה חופשית ומתאימה לאימונים על המגרש וגם ללבישה יומיומית העיצוב המודרני משלב אוורור ועמידות למים לסטייל ופונקציונליות מושלמים
-  Updated: 2025-09-26T15:04:53Z
+  Updated: 2025-09-27T03:05:13Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19411,8 +19411,8 @@
   - [18](https://www.rsport.co.il/products/football-ls-half-zip-tracksuit-rmdr-24-25-kids?variant=46967470850298)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [חליפת אימון ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids): אימונית ארוכה לילדים, עשויה 100% פוליאסטר, היא פתרון מצוין לימי גשם וחורף, המציעה הן נוחות והן הגנה מפני מזג האוויר. האימונית מתאימה לאימונים על המגרש וגם ללבוש יומיומי, עם עיצוב שיכול לשדרג כל לוק. עם איכויות כמו עמידות למים ואוורור, היא מספקת שילוב אידיאלי של פונקציונליות וסטייל.
-  Updated: 2025-09-26T11:24:24Z
+- [חליפת אימון ארוכה ריאל מדריד 24/25 | ילדים](https://www.rsport.co.il/products/football-ls-tracksuit-rmdr-24-25-kids): אימונית ארוכה לילדים עשויה 100% פוליאסטר, מספקת הגנה מלאה מפני גשם וקור ומעניקה נוחות מרבית הפריט מתאים לאימונים על המגרש ולשימוש יומיומי, עם עמידות למים ואוורור יעיל שמבטיח תחושת נוחות לאורך כל הפעילות העיצוב משלב פונקציונליות עם סטייל מודרני, מה שהופך את האימונית לבחירה מושלמת לשדרוג כל לוק של הילד.
+  Updated: 2025-09-26T20:51:12Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -19643,7 +19643,7 @@
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
 - [אימונית ז'קט אייאקס אמסטרדם צהוב כחול 24/25 | גברים](https://www.rsport.co.il/products/ajax-jacket-24-25-men-yellow-blue): אימונית ז'קט אייאקס אמסטרדם 24/25 ארוכה, הכוללת ז'קט עם רוכסן מלא ומכנסיים ארוכים, היא הבחירה האידיאלית לאימונים בחורף. עשויה מ-100% פוליאסטר קל ונושם, היא שומרת על חום הגוף ומרחיקה לחות, עם רוכסן המאפשר הסדרת טמפרטורה נוחה, והיא מתאימה גם לשימוש יומיומי.
-  Updated: 2025-09-26T15:26:04Z
+  Updated: 2025-09-27T03:26:20Z
   Vendor: R:Sport
   Product Type: אימונית
   Availability: Available
@@ -28632,7 +28632,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [דגלון תליה משלוש קבוצת מנצ'סטר סיטי](https://www.rsport.co.il/products/דגלון-תליה-משלוש-קבוצת-מנצסטר-סיטי): דגלון תלייה משולש של קבוצת מנצ'סטר סיטי בגודל כ-40x28 ס"מ, מושלם לקישוט הבית, הרכב או המשרד עבור אוהדי מנצ'סטר סיטי
-  Updated: 2025-09-25T23:52:47Z
+  Updated: 2025-09-26T21:15:38Z
   Vendor: R:SPORT
   Product Type: דגל
   Availability: Available
@@ -33563,7 +33563,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת כדורגל קרוזיירו חוץ 2024 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-קרוזיירו-חוץ-2024-גוניורס): חולצת החוץ של קרוזיירו לעונת 2024 לילדים ונוער מגיעה בצבע לבן עם נגיעות כחולות עדינות, בשילוב עיצוב מודרני ונקי שמדגיש את הזהות של המועדון. החולצה עשויה 100% פוליאסטר נושם וקל משקל, המנדף זיעה ומספק נוחות מקסימלית במהלך אימונים ומשחקים. גזרה מותאמת לגיל הצעיר, מתאימה לבנים ולבנות כאחד.
-  Updated: 2025-09-25T23:47:13Z
+  Updated: 2025-09-26T23:05:05Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל ילדים
   Availability: Available
@@ -37352,7 +37352,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro נעלי כדורגל איכותיות לשחקנים התקפיים שמחפשים דיוק ושליטה מושלמים בדריבל ובעיטות. חלק עליון בטכנולוגיית Gripknit מיקרוטקסטורה לשיפור התחושה והדיוק בכדור. סוליית Cyclone 360 מאפשרת תנועות זריזות, שינויי כיוון יציבים ונוחות מרבית. עיצוב נוח עם התאמה טבעית באזור האצבעות, צווארון Flyknit אסימטרי למניעת גירויים ומערכת ייצוב עקב עם סנפירים. דגם Player Edition כולל סוליית SG-Pro עם מסמרים מתכתיים עמידים ומתכווננים (מפתחות נמכרים בנפרד). מיועדות למגרשי דשא טבעי רך.
-  Updated: 2025-09-07T22:03:08Z
+  Updated: 2025-09-27T02:35:56Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -44961,7 +44961,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [גרבי כדורגל ליברפול שלישית 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-ליברפול-שלישית-25-26): גרבי כדורגל ליברפול שלישית 25/26 בצבע ירוק עם נגיעות לבן להשלמת מראה התלבושת השלישית של הקבוצה הגרביים מספקים תמיכה ונוחות בזמן משחק או אימון עם גזרה גבוהה שמתאימה לנעילה מעל מגני עצם עשויים מבד אלסטי ונושם המסייע בנידוף זיעה ושומר על תחושת יובש לאורך כל הפעילות פריט מושלם לאוהדים שרוצים להרגיש מחוברים למועדון
-  Updated: 2025-09-26T05:50:03Z
+  Updated: 2025-09-26T23:17:43Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -44972,8 +44972,8 @@
   - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרבי-כדורגל-ליברפול-שלישית-25-26?variant=47706711523578)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg): נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG בצבע סגול יוניטי לבן ולימון לוסיד מביאות את המהירות לקדמת הבמה בהשראת דגמי F50 מהעבר עם עיצוב מיוחד שחתום על שמו של הכוכב הצעיר למין ימל הדגם האייקוני חוזר במהדורה מהירה וקלילה יותר מתמיד עם טכנולוגיות מתקדמות שנבנו במיוחד להאצת ריצות חדות ולפריצות בקווים ישרים סוליית Sprintframe 360 החדשה כוללת פקקים מעוגלים במרכז כף הרגל לתנועות חדות ומהירות שמבלבלות יריבים תוך שמירה על יציבות ושליטה בעזרת תומך עקב חיצוני חלק העליון עשוי Fibertouch סופר קל שמעניק תחושת התאמה מדויקת ותמיכה ממוקדת מבלי להכביד על הנעל עם טקסטורת Sprintweb תלת ממדית לאחיזה אופטימלית בכדור גם במהירויות גבוהות ועד קצה האצבעות לנגיעה מדויקת עוד יותר גרסת Laceless ללא שרוכים עם צווארון Primeknit גמיש ונוח להתאמה צמודה וריפוד ארגונומי בקרסול שמפחית חיכוך ואי נוחות כמו בדגמי F50 הקלאסיים גם כאן תקבלו שני סוגי מדרסים בקופסה – SL למהירות מקסימלית או Comfort לריכוך נוסף בעת נחיתה
-  Updated: 2025-09-26T05:50:03Z
+- [נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg): נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG עם עיצוב חדשני וטכנולוגיות מתקדמות להאצת ריצות חדות.
+  Updated: 2025-09-26T23:18:28Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45140,8 +45140,8 @@
   - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286909178)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
-- [חולצת אתלטיקו מדריד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים): חולצת כדורגל אתלטיקו מדריד תלבושת שלישית לעונת 2025/26 לגברים בעיצוב ייחודי בגווני כחול לבן ואדום החולצה בגזרה רגילה עשויה 100% פוליאסטר קל ונושם המעניק נוחות מלאה ותחושת יובש גם ברגעים החמים ביותר על המגרש או ביציע הסמל של אתלטיקו מופיע על החזה לצד עיצוב מודרני שמחבר את אוהדי הקבוצה לכל משחק ואירוע אפשר להוסיף שם מספר או לבחור שחקן אהוב להתאמה אישית מושלמת למי שרוצה ללבוש את הצבעים בגאווה ולחיות את הרוח של המועדון בכל מקום
-  Updated: 2025-09-26T05:50:04Z
+- [חולצת אתלטיקו מדריד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים): חולצת אתלטיקו מדריד תלבושת שלישית 25/26 | גברים, בעיצוב ייחודי ונוחות מקסימלית בכל משחק.
+  Updated: 2025-09-26T23:18:59Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45593,7 +45593,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת משחקי באיירן מינכן חוץ 2025/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים): הראה את תמיכתך בבאיירן מינכן במגרש ומחוץ למגרש עם חולצת החוץ לעונת 2025/26 לגברים בעיצוב מודרני בצבעי שחור אדום וירוק גרסת שחקן בגזרה צמודה שמדגישה חופש תנועה ונוחות בזמן משחק החולצה עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים מרשים שמביא מראה מקצועי ותומך באוהדים שרוצים ללבוש את הצבעים בגאווה בכל מקום
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-26T23:17:11Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45617,7 +45617,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת כדורגל באיירן מינכן חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1): הראה את התמיכה שלך בבאיירן מינכן עם חולצת החוץ לילדים ונוער לעונת 2025/26 בעיצוב מקצועי בגווני שחור אדום וירוק החולצה בגזרה רגילה לנוחות מרבית וחופש תנועה במהלך אימונים ומשחקים עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים דינמי שמביא מראה מודרני ותומך באוהדים הצעירים שרוצים ללבוש את צבעי הקבוצה בגאווה
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-26T23:17:07Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -45635,7 +45635,7 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [חליפת כדורגל באיירן מינכן שלישית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-באיירן-מינכן-שלישית-25-26-ילדים): תמוך בבאיירן מינכן במגרש ומחוץ למגרש עם חליפת השלישית לילדים לעונת 2025/26 בעיצוב מודרני בגווני שחור אדום וירוק החליפה כוללת חולצה וגזרה רגילה לנוחות מרבית וחופש תנועה במהלך המשחקים עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים מרשים שמביא מראה צעיר ותומך באוהדים הצעירים שרוצים ללבוש את צבעי הקבוצה בגאווה
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-26T23:16:57Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
@@ -45653,7 +45653,7 @@
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
 - [מכנס קצר משחקי באיירן מינכן תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/מכנס-קצר-משחקי-באיירן-מינכן-תלבושת-שלישית-25-26-גברים): מכנס קצר בהשראת השחקנים של באיירן מינכן שלישית 2025/26 לגברים בעיצוב קל ונושם שמאפשר חופש תנועה מלא בזמן משחק ואימון עם סמל המועדון רקום על הרגל שילוב צבעים מודרני שתומך באוהדים שרוצים לחוות את חוויית השחקנים במגרש ובחיי יום יום
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-26T23:16:37Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -45677,7 +45677,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [מכנסי כדורגל קצרים באיירן מינכן שלישית 25/26 | גברים](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גברים): תעלה את הסטייל שלך במגרש עם מכנסי השלישית של באיירן מינכן לגברים לעונת 2025/26 בגזרה רגילה ונוחה בעיצוב מקצועי בגווני שחור אדום וירוק עשויים 100% פוליאסטר קל ונושם שמספק תחושת יובש ונוחות לאורך כל המשחק עם סמל המועדון על הירך שילוב צבעים מרשים שמעניק מראה מודרני ותומך באוהדים שרוצים ללבוש את צבעי הקבוצה בגאווה
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-26T23:16:32Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -45701,7 +45701,7 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [מכנסי כדורגל קצרים באיירן מינכן שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-באיירן-מינכן-שלישית-25-26-גוניורס): תמוך בבאיירן מינכן במגרש ומחוץ למגרש עם המכנס השלישי לילדים ונוער לעונת 2025/26 בעיצוב מודרני בגווני שחור אדום וירוק המכנס בגזרה רגילה לנוחות וחופש תנועה מרביים עשוי 100% פוליאסטר קל ונושם עם סמל המועדון על הירך שילוב צבעים מרשים שמביא מראה צעיר ותומך באוהדים שרוצים ללבוש את צבעי הקבוצה בגאווה
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-26T23:16:27Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -45836,7 +45836,7 @@
   Updated: 2025-08-17T20:37:34Z
   Total Products: 194
 - [שיקגו בולס](https://www.rsport.co.il/collections/שיקגו-בולס): שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה... הצג עוד שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה. בנוסף לגופיות שחקנים, תמצא גם גופיות רטרו נוסטלגיות משנות ה-90, מכנסי כדורסל, מכנסי JUST DON ולצידן חולצות טי-שירט לייף סטייל שמתאימות לכל יום – גם מחוץ לפרקט. כל הפריטים עשויים מחומרים איכותיים, מתאימים לאימונים, למשחק או ליום יום, עם דגש על נוחות, עיצוב ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות שיקגו בולס – עבר מפואר, סגנון בולט והשראה לנצח. גופיות של ג'ורדן, פיפן, רוז ורודמן מחכות כאן – לצד לוק לייף סטייל אמיתי... הצג עוד גופיות השחקנים הכי חמות של שיקגו בולס – מייקל ג'ורדן, סקוטי פיפן, דריק רוז ודניס רודמן, לצד גופיות רטרו קלאסיות, מכנסי כדורסל, מכנסי JUST DON וחולצות טי שירט לייף סטייל שישלימו כל הופעה. הפריטים עשויים מחומרים איכותיים ומתאימים לאימונים, למשחק או פשוט ללבוש יומיומי מלא סטייל ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.getElementById('short-text-desktop'); const fullDesktop = document.getElementById('full-text-desktop'); const showMoreDesktop = document.getElementById('toggle-btn-desktop'); const showLessDesktop = document.getElementById('toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.getElementById('short-text'); const fullMobile = document.getElementById('full-text'); const showMoreMobile = document.getElementById('toggle-btn'); const showLessMobile = document.getElementById('toggle-btn-less'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'block'; }); } });
-  Updated: 2025-08-17T20:36:26Z
+  Updated: 2025-09-26T20:59:02Z
   Total Products: 20
 - [חולצות כדורגל ומוצרי ספורט של נבחרת פורטוגל](https://www.rsport.co.il/collections/פורטוגל): מוצרי נבחרת פורטוגל למונדיאל 2026 – חולצות כדורגל, חולצות אוהדים, חליפות ילדים, אימוניות, מעילים רוח ועוד. כל הציוד של פורטוגל במחירים משתלמים
   Updated: 2025-09-18T19:46:24Z
@@ -45863,7 +45863,7 @@
   Updated: 2025-08-17T20:36:33Z
   Total Products: 3
 - [מכנסי כדורסל](https://www.rsport.co.il/collections/מכנסי-כדורסל): מכנסי כדורסל איכותיים לנוחות וביצועים מקסימליים על המגרש. עיצובים מודרניים, בדים נושמים וגמישים לכל סוגי האימונים והמשחקים
-  Updated: 2025-08-25T18:04:13Z
+  Updated: 2025-09-26T21:33:34Z
   Total Products: 59
 - [ליגה אמריקאית](https://www.rsport.co.il/collections/ליגה-אמריקאית)
   Updated: 2025-09-18T18:28:19Z
@@ -45908,7 +45908,7 @@
   Updated: 2025-09-18T18:30:47Z
   Total Products: 29
 - [מכנסי כדורסל Just Don | סטייל ונוחות בסגנון רחוב יוקרתי](https://www.rsport.co.il/collections/just-don): מכנסי כדורסל ייחודיים של Just Don בעיצובים בהשראת קבוצות NBA כמו שיקגו בולס, לוס אנג'לס לייקרס, מיאמי היט, פיניקס סאנס ועוד. שילוב מושלם של סטייל ונוחות.
-  Updated: 2025-08-05T22:10:28Z
+  Updated: 2025-09-26T21:33:34Z
   Total Products: 38
 - [גולדן סטייט ווריורס](https://www.rsport.co.il/collections/גולדן-סטייט-ווריורס)
   Updated: 2025-08-17T20:36:33Z
@@ -45944,7 +45944,7 @@
   Updated: 2025-08-17T20:37:12Z
   Total Products: 17
 - [טורונטו ראפטורס](https://www.rsport.co.il/collections/טורונטו-ראפטורס)
-  Updated: 2025-08-17T20:37:34Z
+  Updated: 2025-09-26T21:33:34Z
   Total Products: 27
 - [יוטה ג'אז'](https://www.rsport.co.il/collections/יוטה-גאז)
   Updated: 2025-08-17T20:37:27Z
@@ -46196,7 +46196,7 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-26T15:26:05Z
+  Updated: 2025-09-26T21:33:34Z
   Total Products: 2042
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
