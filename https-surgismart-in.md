@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-26T12:00:31.502Z
+- Updated At: 2025-09-27T00:00:30.105Z
 
 ## Products
 
@@ -2712,7 +2712,7 @@
     Availability: Available
     Price: ₹3,767.00 INR
 - [Buy ​RESQ Manual Resuscitator Bag - Surgismart](https://surgismart.in/products/resq-bag-re-usablegs-2050): Resq Bag kit consists of a TPE Manual Resuscitator, Multichannel Kink Resistant Oxygen Tubing, Reservoir Bag and Inflatable Mask. Resuscitator supports bag re-expansion property. Pressure limiting valve ensures crucial adjustments for enhanced performance. Presence of 360° swivel joint between patient valve and face mask and facilitates ease of maneuverability to interface with the patient’s posture. Pack Contains: Silicone Resuscitator Bag (Autoclavable), Silicone Mask (Autoclavable), Oxygen Tubing and Reservoir Bag Box of 1/Master Box of 10. Product Specifications: Brand Romsons Generic Name Manual Resuscitator with Accessories Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265205029 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-26T02:46:47Z
+  Updated: 2025-09-26T14:49:08Z
   Vendor: Romsons
   Product Type: RESQ Bag
   Availability: Available
@@ -3248,7 +3248,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-26T11:08:56Z
+  Updated: 2025-09-26T20:01:22Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
