@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-27T08:00:32.892Z
+- Updated At: 2025-09-27T20:00:32.420Z
 
 ## Products
 
@@ -9643,19 +9643,19 @@
   Updated: 2025-09-17T11:11:23Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-09-26T11:13:59Z
+  Updated: 2025-09-27T11:12:57Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-09-26T11:13:59Z
+  Updated: 2025-09-27T11:12:57Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-09-26T11:13:59Z
+  Updated: 2025-09-27T11:12:57Z
   Total Products: 533
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-09-26T11:13:59Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-09-26T11:13:59Z
+  Updated: 2025-09-27T11:12:57Z
   Total Products: 666
 
 ## Blogs
