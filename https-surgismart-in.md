@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-27T00:00:30.105Z
+- Updated At: 2025-09-27T16:00:31.289Z
 
 ## Products
 
@@ -611,7 +611,7 @@
     Availability: Available
     Price: ₹285.00 INR
 - [Buy ​United Medicare Knee Support Comfort (F-02) - Surgismart](https://surgismart.in/products/f-02): Key Features:Designed to give compression and support during minor knee joint instability. Thick knit retains body heat while also providing therapeutic warmth and support. Patellar ring on a four-way stretchy, soft and comfy knee brace. Silicon patellar cushioning improves blood flow and speeds up healing. Relieves the discomfort caused by ligament and muscular problems. Direction of use Just slide it over your knee. The brace should securely surround the knee. It shouldnt be overly tight. Ensure that the knee support is comfortably covering the entire knee by placing it correctly. Safety information Hand wash with a gentle detergent. Do not dry clean, iron, or bleach. Wear it comfortably. Keep out of childrens reach. United medicare knee support comfort is a knee support that is designed to provide support and comfort to people who are suffering from knee discomfort or injury. It is made of high-quality materials and will fit snugly around the knee.Individuals suffering from knee discomfort or injuries such as arthritis, tendinitis may benefit from the knee support comfort. It can also help people who participate in sports or other activities that put strain on their knees.Yes, UM knee support comfort is designed to be used for long periods of time. However, if you feel any discomfort or irritation while wearing it, you should take it off.UM knee support comfort is made to fit the majority of people. Make sure to select the size that suits your knee the best because it comes in a variety of sizes, the available sizes are S, L, M, XL, XXL.UM knee brace is made of a blend of neoprene, nylon, dermophillic cotton and spandex. This material combination provides a pleasant and supportive fit for the knee.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:27Z
+  Updated: 2025-09-27T04:23:22Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
@@ -3230,7 +3230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1751477937
   Price: ₹1,299.00 INR
 - [Buy 18" Disposable Bouffant Caps – Pack of 100 – Blue, Latex-Free](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100): Comfortable 18" blue disposable bouffant caps by Surgismart. Ideal for medical, kitchen, salon & lab use. Pack of 100. Breathable, latex-free, secure fit.
-  Updated: 2025-08-13T07:36:47Z
+  Updated: 2025-09-27T12:08:18Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3247,8 +3247,8 @@
   - [1000 x ₹1](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693186328)
     Availability: Available
     Price: ₹1,000.00 INR
-- [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-26T20:01:22Z
+- [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
+  Updated: 2025-09-27T12:31:24Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3314,7 +3314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
     Price: ₹799.00 INR
 - [Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-09-17T11:15:49Z
+  Updated: 2025-09-27T12:08:16Z
   Vendor: Surgismart
   Product Type: Lab Coat
   Availability: Available
@@ -3341,7 +3341,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-26T11:15:14Z
+  Updated: 2025-09-27T11:16:23Z
   Total Products: 138
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
   Updated: 2025-09-18T14:01:32Z
