@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-27T16:00:47.060Z
+- Updated At: 2025-09-27T20:00:47.555Z
 
 ## Products
 
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-27T15:40:46Z
+  Updated: 2025-09-27T19:00:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23850,7 +23850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Collared-Neck-Long-Sleeve-Plush-Jacket-Brinxx-Couture-4949.jpg?v=1730297481
     Price: $44.99 USD
 - [Tied Printed Collared Neck Long Sleeve Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/tied-printed-collared-neck-long-sleeve-jacket): Step up your style game with our Tied Printed Collared Neck Long Sleeve Jacket! A unique twist on the classic collared jacket, it features a trendy tied design.
-  Updated: 2025-09-24T23:36:56Z
+  Updated: 2025-09-27T17:10:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24709,7 +24709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Eclipse-Elegence-Square-Sunglasses-Brinxx-Couture-2786.jpg?v=1730299171
     Price: $15.00 USD
 - [Drawstring Long Sleeve Hoodie with Kangaroo Pocket](https://www.brinxxcouture.com/products/drawstring-long-sleeve-hoodie-with-kangaroo-pocket): Elevate your casual wardrobe with our Drawstring Long Sleeve Hoodie with Kangaroo Pocket! Featuring a convenient Kangaroo Pocket and adjustable drawstring,.
-  Updated: 2025-09-19T21:45:15Z
+  Updated: 2025-09-27T17:30:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
