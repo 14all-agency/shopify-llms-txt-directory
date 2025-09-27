@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-09-26T16:00:33.717Z
+- Updated At: 2025-09-27T04:00:33.236Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -482,7 +482,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £822.00 GBP
 - [Olive Pomace Oil, Refined](https://inky-ingredients.com/products/olive-pomace-oil-refined): Refined Olive Pomace Oil is a versatile culinary companion. Extracted from the olive pulp, it's an excellent choice for cooking, baking, and even as a base in natural beauty formulations.
-  Updated: 2025-09-26T08:20:52Z
+  Updated: 2025-09-26T18:33:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1385,7 +1385,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £218.28 GBP
 - [Beeswax Yellow (BP/EP)](https://inky-ingredients.com/products/beeswax-yellow-bp-ep): High-quality Beeswax Yellow (BP/EP) is a versatile cosmetic ingredient with various applications. It provides emollient and protective properties, making it ideal for skincare and cosmetic formulations.
-  Updated: 2025-09-26T08:36:37Z
+  Updated: 2025-09-26T18:33:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1703,7 +1703,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £31.50 GBP
 - [Batana (Ojon) Oil, Cold Pressed](https://inky-ingredients.com/products/batana-ojon-oil-cold-pressed): Please note: 100% pure Batana oil is heavier and richer in texture than other popular oils and can have a solid, paste-like consistency at cooler temperatures. In warmer conditions, it becomes a liquid. Packaging may vary depending on its state at the time of filling.Its orange-red hue is representative of its purity and nutrient-rich profile. Because it’s a natural ingredient, slight variations in colour and texture may occur - these are signs of authenticity and do not affect the quality or benefits of the oil.Unveil the magic of Batana Oil, a nourishing treasure from the rainforests. Packed with essential fatty acids and antioxidants, it deeply restores hair and skin, revealing their natural beauty. Embrace radiance!
-  Updated: 2025-09-26T08:42:47Z
+  Updated: 2025-09-26T22:10:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2099,7 +2099,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £24.50 GBP
 - [Sunflower Seed Oil, Refined](https://inky-ingredients.com/products/sunflower-seed-oil-refined): Refined sunflower seed oil is a lightweight and odorless oil rich in vitamin E. With its moisturising properties, it is suitable for skincare formulations, leaving the skin soft and supple.
-  Updated: 2025-09-26T08:46:46Z
+  Updated: 2025-09-26T18:33:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6280,14 +6280,14 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £30.00 GBP
 - [Free Gift - Chaulmoogra Seed Oil, Cold Pressed - 50ml](https://inky-ingredients.com/products/free-gift-chaulmoogra-seed-oil-cold-pressed-50ml): A free gift on orders over £85. Cold-pressed Chaulmoogra Seed Oil is a traditional skincare remedy. Renowned for its therapeutic benefits, it soothes and nourishes the skin, making it a valuable addition to formulations targeting various skin concerns.
-  Updated: 2025-09-26T15:12:46Z
+  Updated: 2025-09-26T18:33:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/K0841-min.jpg?v=1751980592
   Price: £0.00 GBP
 - [Grapeseed Oil, Refined](https://inky-ingredients.com/products/grapeseed-oil-refined): Revel in the purity of Refined Grapeseed Oil, a natural source of vitamins and antioxidants. Its silky texture and quick absorption make it perfect for nourishing skin and hair with lightweight moisture. Beauty simplified!
-  Updated: 2025-09-26T08:14:06Z
+  Updated: 2025-09-26T18:33:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
