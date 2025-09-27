@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-27T00:00:32.588Z
+- Updated At: 2025-09-27T08:00:32.892Z
 
 ## Products
 
@@ -5993,7 +5993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STARDUST-BLACK-18.jpg?v=1757518292
     Price: $1.00 USD
 - [Vine tree Jacquard Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/vine-tree-jacquard-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 115' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Vinetree jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-26T02:15:38Z
+  Updated: 2025-09-27T06:41:06Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
