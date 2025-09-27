@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-27T16:01:01.265Z
+- Updated At: 2025-09-27T20:01:05.297Z
 
 ## Products
 
@@ -1079,21 +1079,21 @@ as várias partes da cabeça da Sophie (orelhas, chifres, etc.), seu corpo
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bubble-guppies-gil-239981516-brincatoys-1178692946.webp?v=1752830780
   Price: 6,00 € EUR
 - [Bubble Guppies -Goby-](https://brincatoys.pt/products/bubble-guppies-goby): Figura em borracha termoplástica da série Bubble Guppies.Figura com aproximadamente 6 cm.
-  Updated: 2025-08-21T00:17:56Z
+  Updated: 2025-09-27T17:49:55Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bubble-guppies-goby-239982016-brincatoys-1178692947.png?v=1752831002
   Price: 6,00 € EUR
 - [Bubble Guppies -Nonny-](https://brincatoys.pt/products/bubble-guppies-nonny): Figura em borracha termoplástica da série&nbsp;Bubble Guppies.
-  Updated: 2025-08-21T00:17:55Z
+  Updated: 2025-09-27T17:49:56Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bubble-guppies-nonny-239981816-brincatoys-1178692948.jpg?v=1752831005
   Price: 6,00 € EUR
 - [Bubble Guppies -Oona-](https://brincatoys.pt/products/bubble-guppies-oona): Figura em borracha termoplástica da série Bubble Guppies.Figura com aproximadamente 6 cm.
-  Updated: 2025-08-21T00:17:55Z
+  Updated: 2025-09-27T17:49:56Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -5450,6 +5450,13 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mini-frozen-com-acessorios-90518818-princesas-disney-1178694359.jpg?v=1752855261
   Price: 13,99 € EUR
+- [Mini Piano Magic Touch: Música para o Seu Bebé](https://brincatoys.pt/products/mini-piano-magic-touch): Descubra a magia da música com o Mini Piano Magic Touch! Este brinquedo leve e colorido é perfeito para os primeiros sons do seu bebé. 🎹
+  Updated: 2025-09-27T18:45:45Z
+  Vendor: Brincatoys
+  Product Type: Instrumentos musicais
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mini-piano-magic-touch-musica-para-o-seu-bebe-821200825-6943478027251-brincatoys-1194836947.jpg?v=1758894726
+  Price: 15,99 € EUR
 - [Mini story Circo](https://brincatoys.pt/products/mini-story-circo): Que divertido! Este kit contém onze peças de madeira para montar o seu próprio circo.Não falta nada: os acróbatas, o domador, os animais e até um aro em chamas.Contém 11 peças de madeira maciça. Dimensão :14,5 x 8 x 14,5 cm Idade recomendada: + de 36 meses
   Updated: 2025-08-21T00:13:38Z
   Vendor: Brincatoys
@@ -6526,7 +6533,7 @@ estúdio de design de moda da Playmobil, os designers criam e apresentam
 as novas tendências de moda no showroom. Com máquina de costura, várias 
 roupas, sapatos e outros acessórios de moda. Pode ser combinado com a 
 Loja de Moda (ref. 70591) e a Loja de Moda Infantil (ref. 70592).
-  Updated: 2025-09-26T00:52:17Z
+  Updated: 2025-09-27T18:41:02Z
   Vendor: Playmobil
   Product Type: + 5 anos
   Availability: Available
@@ -6758,7 +6765,7 @@ paisagem aberta com a sua cria. O set inclui duas figuras de zebra e uma
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-guardiao-do-fogo-com-led-5104-15510412-playmobil-1178694786.png?v=1752862941
   Price: 7,80 € EUR
 - [Playmobil Arpista 70857](https://brincatoys.pt/products/playmobil-arpista): O princípio lúdico único da Playmobil estimula a imaginação e a criatividade e, assim, promove o desenvolvimento infantil. Com a PLAYMOBIL, as crianças podem não apenas desempenhar muitos papéis diferentes, mas também recriar e experimentar o mundo em miniatura. Com múltiplos talentos, essas figuras alegres superam com sucesso todos os tipos de ...
-  Updated: 2025-08-21T00:12:10Z
+  Updated: 2025-09-27T16:44:37Z
   Vendor: Playmobil
   Product Type: + 4 anos
   Availability: Available
@@ -8796,7 +8803,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tigre-de-bengala-437082923-brincatoys-1178695474.png?v=1752875763
   Price: 10,00 € EUR
 - [Tigre Fêmea de Bengala](https://brincatoys.pt/products/tigre-femea-de-bengala): Um dos maiores tipos de tigre, o tigre de Bengala habita as pastagens, florestas temperadas e florestas de mangue da Índia, China, Bangladesh, Nepal, Mianmar e Butão. Apesar do seu pequeno tamanho populacional, acredita-se que os tigres de Bengala seja a subespécie de tigre mais numerosa.  Dimensão: 12,5 x 4 x 7 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:09:43Z
+  Updated: 2025-09-27T17:43:08Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -11453,7 +11460,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-musicos-de-bremen-60-pcs-brincatoys-727007923-brincatoys-1178696512.jpg?v=1752894488
   Price: 14,95 € EUR
 - [Jogo Magnético - Fashion Girls](https://brincatoys.pt/products/jogo-magnetico-fashion-girls): Com o jogo magnético Fashion Girls é muito prático para levar para qualquer lugar; é compacto e as crianças adoram! Há uma infinidade de personagens e acessórios a serem posicionados. Podes brincar durante horas graças às muitas peças magnéticas (73) que podes colocar em todos os tipos de posições diferentes. As possibilidades são quase ilimitadas.
-  Updated: 2025-09-07T12:14:05Z
+  Updated: 2025-09-27T17:50:01Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -13680,7 +13687,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-asha-21700123-princesas-disney-1178697669.jpg?v=1752799207
   Price: 22,50 € EUR
 - [Puzzle Peppa Pig - George Construtor](https://brincatoys.pt/products/puzzle-peppa-pig-george-construtor): Este puzzle de Peppa Pig é perfeito para todas as crianças que adoram o mundo aconchegante e encantador desta personagem. Junta-te a George, o irmão mais novo de Peppa, enquanto ele está na sua escavadora. Este puzzle com 24 peças é uma atividade divertida e interativa que irá manter as crianças entretidas e incentivar a experiência de construir este quebra-cabeça. É uma excelente maneira de incentivar as habilidades motoras finas, a coordenação olho-mão e a resolução de problemas. As peças deste puzzle são feitas de papelão robusto e resistente, garantindo que possam resistir a brincadeiras mais árduas. As peças são fáceis de manusear e perfeitas para mãos pequenas. Além disso, a qualidade do papelão significa que o puzzle pode ser montado e desmontado várias vezes sem se desgastar. Após concluído, o quebra-cabeça mede 26 x 25 cm. Este é um tamanho perfeito para ser exibido numa moldura ou colocado numa mesa ou prateleira. As crianças vão adorar ver a sua obra de arte finalizada. Este puzzle da Peppa Pig é mais do que apenas um brinquedo. É uma maneira envolvente e divertida de permitir que as crianças explorem o mundo aconchegante de Peppa e George. É uma atividade que irá manter as crianças entretidas e que também pode proporcionar um tempo de qualidade entre pais e filhos. Com este puzzle, as crianças podem se juntar a Peppa e George nas suas aventuras, enquanto desenvolvem habilidades importantes de maneira lúdica e divertida. Dimensão: 24 x 19,50 x 6 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-19T11:05:23Z
+  Updated: 2025-09-27T17:50:01Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -14051,7 +14058,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-terzo-millennio-132109424-4893993008667-bburago-1178697896.jpg?v=1752797414
   Price: 22,99 € EUR
 - [Jaguar XKR-S](https://brincatoys.pt/products/jaguar-xkr-s): Informação adicional Apresentamos com entusiasmo o modelo à escala 1/24 do icónico Jaguar XKR-S, uma peça de coleção excepcional que encanta tanto entusiastas de automóveis de luxo quanto colecionadores de miniaturas sofisticadas. O Jaguar XKR-S possui um motor 5.0 Supercharged V8, que em relação ao irmão menos nervoso XKR, subiu de 510 cv e 63,7 m·kgf de torque para 550 cv e 69,4 km·kgf. A aceleração de 0 a 100 km/h ocorre em 4.4 segundos, enquanto a velocidade máxima fica na casa dos 250 km/h por ser limitado eletronicamente. Este modelo exibe uma meticulosa atenção aos detalhes, replicando de maneira fiel tanto o design deslumbrante quanto as características distintas do carro original. Além disso, a pintura prateada lustrosa do exterior é complementada por jantes cromadas elegantes e acabamentos aerodinâmicos que enaltecem a estética requintada do Jaguar XKR-S. O interior do modelo foi concebido com igual rigor, ostentando assentos detalhados e um painel de instrumentos que reproduz a experiência de luxo do veículo real. Conforme avançamos na descrição, é impossível não mencionar as portas e o capô do modelismo que se abrem, permitindo uma apreciação mais íntima dos pormenores internos e do motor. Esta funcionalidade não só enriquece a interatividade do brinquedo, como também serve de vitrina para a engenharia impressionante do Jaguar XKR-S. Importante destacar que este modelo à escala é produzido pela Bburago, uma marca de renome na indústria de miniaturas por sua qualidade e precisão, assegurando que receberá um produto duradouro e de alta fidelidade. Seja para presentear um aficionado por carros ou para enriquecer a sua própria coleção, este Jaguar XKR-S em miniatura é uma escolha excelente. Em suma... Modelo Jaguar XKR-S à escala 1/24 com altos níveis de detalhe e acabamentos de qualidade. Características interativas como portas e capô que se abrem, revelando um interior e motor detalhados. Réplica precisa produzida pela Bburago, uma marca com reputação de qualidade e autenticidade. Dimensão: 23 x 11,50 x 10,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-25T10:09:26Z
+  Updated: 2025-09-27T17:50:01Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -15955,7 +15962,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-de-pano-taylor-33-cm-companheira-encantadora-602107024-brincatoys-1178699421.jpg?v=1752941175
   Price: 24,90 € EUR
 - [Jogo Monopoly Deal em português - Estratégia e Diversão](https://brincatoys.pt/products/jogo-de-cartas-monopoly-deal): Monopoly Deal totalmente em português - experiência o clássico jogo de negociação em formato de cartas. Ideal parra muita diversão onde quer que vás!
-  Updated: 2025-09-26T17:54:16Z
+  Updated: 2025-09-27T19:50:36Z
   Vendor: Monopoly
   Product Type: + 8 anos
   Availability: Available
@@ -16410,7 +16417,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-pvc-my-little-pony-rainbow-dash-779025324-8412906902531-my-little-pony-1178699844.jpg?v=1752791049
   Price: 8,00 € EUR
 - [Boneco PVC My Little Pony - Twilight Sparkle](https://brincatoys.pt/products/boneco-pvc-my-little-pony-twilight-sparkle): Boneco PVC My Little Pony - Twilight Sparkle - Deixe-se encantar pela fidelidade desta peça coleccionável! Perfeito para presentear e cativar fãs,
-  Updated: 2025-09-27T10:29:44Z
+  Updated: 2025-09-27T18:57:37Z
   Vendor: My Little Pony
   Product Type: + 3 anos
   Availability: Available
@@ -16458,6 +16465,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-peluche-de-actividades-canguru-829121024-brincatoys-1178699880.jpg?v=1752789017
   Price: 28,50 € EUR
+- [Conjunto Maquilhagem Infantil Beauty](https://brincatoys.pt/products/conjunto-de-maquilhagem-infantil-beauty): Encante-se com o Conjunto de Maquilhagem Infantil Beauty! Seguro, duradouro e perfeito para o jogo criativo. Ideal para presentes
+  Updated: 2025-09-27T18:45:40Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-maquilhagem-infantil-beauty-82301424-6943478012066-brincatoys-1178699884.jpg?v=1752789492
+  Price: 22,99 € EUR
 - [Lego Minecraft 21260 - Jardim das Cerejeiras](https://brincatoys.pt/products/lego-minecraft-o-jardim-das-cerejeiras): Entre no mundo de Minecraft com o colorido e criativo Lego Minecraft 21260 - O Jardim das Cerejeiras. Ideal para fãs de todas as idades.
   Updated: 2025-08-21T00:00:12Z
   Vendor: LEGO
@@ -17698,7 +17712,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-com-alcofa-rosa-conforto-e-estilo-para-brincar-855072924-8427614507299-brincatoys-1178700824.jpg?v=1752961683
   Price: 43,50 € EUR
 - [Boneca Elegance verde com alcofa: Conforto e estilo para brincar](https://brincatoys.pt/products/boneca-elegance-verde-com-alcofa): Transporte a Boneca Elegance verde com alcofa para onde quiser, com muito conforto e estilo. Deixe a imaginação da sua criança voar! ✨
-  Updated: 2025-08-27T16:25:36Z
+  Updated: 2025-09-27T19:18:24Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18902,7 +18916,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75402-arc-170-starfighter-para-fas-667540225-5702017817460-lego-1178701669.jpg?v=1752781208
   Price: 69,90 € EUR
 - [Lego Sonic 77001 Confronto no Acampamento do Sonic: Ação](https://brincatoys.pt/products/lego-sonic-77001-confronto-no-acampamento-do-sonic): Revive momentos emocionantes com o Lego Sonic 77001 Confronto no Acampamento do Sonic! Diversão garantida para crianças a partir dos 7 anos!
-  Updated: 2025-09-26T00:00:50Z
+  Updated: 2025-09-27T19:15:02Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -20364,6 +20378,20 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/kit-construcao-ferrari-racing-488-challenge-montagem-divertida-682658225-8719247910400-bburago-1194825070.jpg?v=1758887409
   Price: 39,90 € EUR
+- [Puzzle em cubos Animais da Selva para Crianças](https://brincatoys.pt/products/puzzle-em-cubos-animais-da-selva): Desperte a criatividade da sua criança com o Puzzle em cubos Animais da Selva! Uma divertida forma de aprender formas e cores.
+  Updated: 2025-09-27T18:45:41Z
+  Vendor: Brincatoys
+  Product Type: + 2 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-em-cubos-animais-da-selva-para-criancas-82161925-6943478018792-brincatoys-1194986402.jpg?v=1758995519
+  Price: 16,99 € EUR
+- [Passarinho de empurrar musical Lilly: Diversão Garantida](https://brincatoys.pt/products/passarinho-de-empurrar-musical-lilly): Descubra a alegria nos primeiros passos com o Passarinho de empurrar musical Lilly! As rodas giram e produzem sons suaves, incentivando a marcha.
+  Updated: 2025-09-27T18:45:41Z
+  Vendor: Brincatoys
+  Product Type: + 12 meses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/passarinho-de-empurrar-musical-lilly-diversao-garantida-82035325-6943478016910-brincatoys-1194986398.jpg?v=1758995407
+  Price: 27,80 € EUR
 
 ## Collections
 
@@ -20377,7 +20405,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-23T18:59:28Z
   Total Products: 32
 - [Cozinha e faz-de-conta](https://brincatoys.pt/collections/cozinha-e-faz-de-conta)
-  Updated: 2025-09-20T10:24:53Z
+  Updated: 2025-09-27T18:37:15Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
   Updated: 2025-09-27T11:19:20Z
@@ -20476,13 +20504,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:27:34Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-09-27T15:48:09Z
+  Updated: 2025-09-27T18:36:53Z
   Total Products: 104
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
   Updated: 2025-09-26T13:29:11Z
   Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
-  Updated: 2025-09-27T15:30:55Z
+  Updated: 2025-09-27T18:36:53Z
   Total Products: 122
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
   Updated: 2025-09-24T12:22:51Z
@@ -20515,10 +20543,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T21:25:56Z
   Total Products: 22
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-27T15:48:38Z
+  Updated: 2025-09-27T18:36:44Z
   Total Products: 327
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-27T15:48:38Z
+  Updated: 2025-09-27T18:37:15Z
   Total Products: 1508
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-09-27T15:54:24Z
@@ -20530,34 +20558,34 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-19T11:52:01Z
   Total Products: 18
 - [+ 6 meses](https://brincatoys.pt/collections/6-meses)
-  Updated: 2025-09-16T20:26:31Z
-  Total Products: 54
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 55
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
-  Updated: 2025-09-26T19:58:23Z
-  Total Products: 127
+  Updated: 2025-09-27T18:46:11Z
+  Total Products: 128
 - [Até €15](https://brincatoys.pt/collections/ate-15)
   Updated: 2025-09-27T13:05:41Z
   Total Products: 1334
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-27T13:05:41Z
-  Total Products: 2435
+  Updated: 2025-09-27T18:46:15Z
+  Total Products: 2437
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-27T13:28:21Z
-  Total Products: 2892
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 2896
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3277
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3281
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3405
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3409
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3482
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3486
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3530
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3534
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-27T15:53:55Z
+  Updated: 2025-09-27T18:37:15Z
   Total Products: 364
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
@@ -20746,8 +20774,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3545
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3549
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-27T11:19:20Z
   Total Products: 283
@@ -20755,11 +20783,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-27T12:15:08Z
   Total Products: 167
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-09-24T12:58:14Z
-  Total Products: 115
+  Updated: 2025-09-27T18:46:12Z
+  Total Products: 116
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-27T14:13:41Z
-  Total Products: 1157
+  Updated: 2025-09-27T18:46:12Z
+  Total Products: 1158
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-09-27T15:54:24Z
   Total Products: 472
@@ -20782,11 +20810,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T11:20:49Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3562
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3566
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3562
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3566
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20797,8 +20825,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3074
+  Updated: 2025-09-27T18:46:16Z
+  Total Products: 3077
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20806,8 +20834,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-26T15:34:41Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-27T15:53:55Z
-  Total Products: 3074
+  Updated: 2025-09-27T18:46:17Z
+  Total Products: 3077
 
 ## Blogs
 
