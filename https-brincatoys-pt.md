@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-27T12:01:07.277Z
+- Updated At: 2025-09-27T16:01:01.265Z
 
 ## Products
 
@@ -661,16 +661,6 @@ O que está espera para conheccer?
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-alina-vichy-45-cm-42080521-brincatoys-1178692818.jpg?v=1752828014
   Price: 42,90 € EUR
-- [Boneca Ana boutique 45 cm](https://brincatoys.pt/products/boneca-ana-boutique-45-cm): A linda Ane Boutique é uma boneca de 45 cm com cabeça e 
-membros de vinil e um corpo de tecido macio que  vai adorar abraçar.  O seu rosto é adorável e ela está a vestir uma roupa fofa. Além disso, o seu corpo é articulado, o que significa que ela pode adotar as posturas de um bebé de verdade.
-
-O que está à espera para a conhecer?
-  Updated: 2025-08-21T00:18:18Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-ana-boutique-45-cm-42121021-brincatoys-1178692819.jpg?v=1752828017
-  Price: 48,50 € EUR
 - [Boneca Carla 32 cm](https://brincatoys.pt/products/boneca-carla-32-cm): Carla é uma boneca de 32 cm, feita de vinil. Os seus olhos azuis brilham e os seus longos cabelos parecem uma cascata. O vestido clássico em cores vivas complementa este modelo.
   Updated: 2025-08-21T00:18:17Z
   Vendor: Brincatoys
@@ -951,7 +941,7 @@ Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualid
   Price: 39,99 € EUR
 - [Boneca Sweet Baby chorona 42 cm](https://brincatoys.pt/products/boneca-sweet-baby-chorona-42-cm): Linda boneca, de 42 cm, com chupeta e mecanismo de choro.
 Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualidade.O corpo de pano enchido com um material macio.
-  Updated: 2025-09-19T10:19:40Z
+  Updated: 2025-09-27T14:13:16Z
   Vendor: Brincatoys
   Product Type: Bonecas
   Availability: Available
@@ -1845,7 +1835,7 @@ Esse gênero possui duas características notáveis.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-ariel-772313422-princesas-disney-1178693261.jpg?v=1752818181
   Price: 39,99 € EUR
 - [Conjunto Biscoitos](https://brincatoys.pt/products/conjunto-biscoitos): Uma variedade de 9 biscoitos de madeira pintados com fantasia, completos com um prato com padrão de guardanapo.
-  Updated: 2025-08-21T00:17:06Z
+  Updated: 2025-09-27T12:13:14Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -1894,7 +1884,7 @@ Repleto de todas as maravilhas do país das fadas, cada imagem para colorir, lin
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-colorir-amigos-das-fadas-836026122-brincatoys-1178693282.jpg?v=1752817815
   Price: 16,99 € EUR
 - [Conjunto Colorir Animais](https://brincatoys.pt/products/conjunto-colorir-animais): Clássico conjunto de colorir com uma surpresa escondida em cada página. Crianças com mais de 3 anos podem exercitar A sua criatividade e habilidades de colorir para dar vida às ilustrações de animais enquanto revelam belos padrões ocultos, incluindo listras de zebra, manchas de leopardo e muito mais.
-  Updated: 2025-09-02T18:12:31Z
+  Updated: 2025-09-27T12:02:07Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -2352,7 +2342,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-batman-23396116-dc-comics-1178693436.png?v=1752838341
   Price: 13,99 € EUR
 - [DC Comics Mulher Maravilha](https://brincatoys.pt/products/dc-comics-mulher-maravilha): Figura em PVC não tóxico, flexível, com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-09-05T07:56:29Z
+  Updated: 2025-09-27T12:39:58Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -3989,7 +3979,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-mikado-50541122-5704976054115-brincatoys-1178693904.webp?v=1752847337
   Price: 8,99 € EUR
 - [Jogo Mina de Tesouros](https://brincatoys.pt/products/jogo-mina-de-tesouros): Os jogadores completam as suas tarefas a bater na caixa e a fazer cair a quantidade e cores certas de pedras preciosas. O primeiro jogador a encher as suas quatro carruagens, ganha o jogo. Um jogo de destreza com uma variante para profissionais mineiros, para 2 a 4 jogadores dos 5 aos 99 anos. Regras em português no interior  Dimensão: 23 x 15 x 6,
-  Updated: 2025-08-21T00:15:02Z
+  Updated: 2025-09-27T13:27:51Z
   Vendor: Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -5188,7 +5178,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-legends-age-of-apocalypse-morph-23917620-marvel-1178694277.jpg?v=1752814461
   Price: 29,99 € EUR
 - [Marvel Legends Black Panther](https://brincatoys.pt/products/marvel-legends-black-panther): Figura Marvel Legends Séries Black Panther com aproximadamente 15 cm. Inclui mãos alternativas. Esta figura é articulada e tem desenho e detalhes autênticos, inspirados no filme Black Panther: Wakanda Forever. Este pack vem com uma peça de figura para criar uma figura adicional.  Dimensão: 14 x 25 x 6 cm.Idade Recomendada: + de 4 anos.
-  Updated: 2025-08-21T00:13:54Z
+  Updated: 2025-09-27T13:29:55Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -5727,7 +5717,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-aventuras-do-cristal-sunny-starscout-90245422-my-little-pony-1178694472.jpg?v=1752856802
   Price: 12,99 € EUR
 - [Mystery Minis: Batman vs Superman](https://brincatoys.pt/products/mystery-minis-batman-vs-superman): Os seus personagens favoritos do filme Batman vs Superman, apresentados numa mini figura de vinil com aproximadamente 6 cm.O produto vem numa caixa misteriosa e nunca sabemos qual a persongem que nos vai sair.  Dimensão: 5.08 x 5.08 x 7.62 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:13:21Z
+  Updated: 2025-09-27T12:27:14Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -6883,13 +6873,6 @@ Quando o cavalo está todo limpo seu tempo para montar e sair e...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-conjunto-de-limpeza-para-cavalos-6929-65692922-playmobil-1178694822.webp?v=1752863883
   Price: 32,50 € EUR
-- [Playmobil Consulta Veterinária no Zoo 70900](https://brincatoys.pt/products/playmobil-consulta-veterinaria-no-zoo): O veterinário do zoológico tem muito o que fazer. Seja um chimpanzé, uma girafa ou um bebê panda, todos os animais do zoológico são rapidamente curados na sua clínica veterinária. Primeiro, os pacientes são examinados na mesa de operação com uma lâmpada, então as operações são realizadas ou as feridas são tratadas e todos os animais são alimenta...
-  Updated: 2025-08-21T00:12:03Z
-  Vendor: Playmobil
-  Product Type: + 4 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-consulta-veterinaria-no-zoo-70900-657090022-playmobil-1178694825.jpg?v=1752863892
-  Price: 29,99 € EUR
 - [Playmobil Crystal Fairy com Unicórnio 70809](https://brincatoys.pt/products/playmobil-crystal-fairy-com-unicornio): Vai ser mágico! As aventuras em Ayuma continuam. Os cristais preciosos são a fonte de energia mais importante em Ayuma. É por isso que as fadas têm como objetivo protegê-las. A Fada do Cristal também gosta de se dedicar a essa importante tarefa e parte com seu animal da alma, o unicórnio de cristal, à procura de novos cristais. Ela encontra-os n...
   Updated: 2025-08-21T00:12:03Z
   Vendor: Playmobil
@@ -12268,7 +12251,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-equilibrismo-gatos-e-ratos-26777823-brincatoys-1178696862.jpg?v=1752803292
   Price: 22,99 € EUR
 - [Barco Rebocador Topo Amarelo](https://brincatoys.pt/products/barco-rebocador-topo-amarelo): Embarque num cruzeiro pela banheira. Navegue na piscina rasa. Mergulhe na poça de água ocasional. Não há fim para a diversão que os jovens marinheiros podem ter com este rebocador. Esta embarcação colorida flutua e tem um bico largo para colher e despejar água. Feitonos EUA com recipientes de leite de plástico 100% reciclado que economizam energia
-  Updated: 2025-08-21T00:05:07Z
+  Updated: 2025-09-27T12:27:16Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -13928,7 +13911,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carteira-squishmallows-fifi-fluffy-232634323-squishville-1178697816.jpg?v=1752914885
   Price: 13,90 € EUR
 - [Carteira Squishmallows - Squish Fluffy](https://brincatoys.pt/products/carteira-squishmallows-squish-fluffy): A Carteira Squishmallows - Squish Fluffy é um acessório divertido e funcional que não vai querer deixar de fora da sua coleção. Feita com a mesma qualidade premium e atenção aos detalhes que os amados Squishmallows, esta carteira irá surpreendê-lo com a sua macieza inigualável e design adorável. Perfeita para guardar dinheiro, cartões e pequenos itens essenciais, a Carteira Squishmallows - Squish Fluffy também é um item de moda incrível. O seu design único e divertido irá certamente chamar a atenção e fazer destacar-se. Dimensão: 13,50 x 12 x 3 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-08-21T00:03:12Z
+  Updated: 2025-09-27T14:56:07Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14334,7 +14317,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-select-chikorita-colecionavel-de-vinil-23295824-2600000-pokemon-1178698085.jpg?v=1752919330
   Price: 14,99 € EUR
 - [Figura Pokémon Select - Growlithe para Fãs e Colecionadores](https://brincatoys.pt/products/pokemon-select-growlithe): Apresentamos a figura Pokémon Select - Growlithe, o adorável companheiro das suas aventuras! Adquira a sua e comece a sua jornada hoje!
-  Updated: 2025-08-26T12:42:31Z
+  Updated: 2025-09-27T12:52:32Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15013,7 +14996,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-kong-gigante-com-luva-b-e-a-s-t-233931524-0043377355526-godzilla-vs-kong-1178698573.jpg?v=1752929166
   Price: 36,99 € EUR
 - [Godzilla x Kong: Minifiguras Surpresa](https://brincatoys.pt/products/godzilla-x-kong-minifiguras-surpresa): Apresentamos as fascinantes Minifiguras Surpresa da coleção Godzilla x Kong, uma linha de brinquedos que captura a essência épica da batalha dos titãs diretamente para a sua casa. O Godzilla x Kong Hollow Earth Crystal com surpresa de minifigura de 5 cm de altura traz um monstro misterioso para a sua coleção! O conjunto inclui uma minifigura e vem numa embalagem cega exclusiva do Godzilla X Kong! Abra um cristal para revelar o seu monstro misterioso. Inicialmente, estas minifiguras surpresa vêm em embalagens vibrantes e colecionáveis, garantindo que cada abertura seja uma aventura emocionante. Além disso, cada embalagem oculta uma de entre várias figuras espetaculares baseadas nos personagens icônicos - sejam elas o imponente Godzilla ou o poderoso Kong, e até mesmo outros monstros do MonsterVerse. Designadas com um detalhismo impressionante, as minifiguras oferecem um grau de realismo e qualidade que irá, sem dúvida, encantar colecionadores e fãs jovens. As texturas e cores das minifiguras foram cuidadosamente escolhidas para refletir os traços característicos dos personagens cinematográficos, desde o tom azulado e espinhos luminescentes de Godzilla até a expressividade e força simbolizadas por Kong. Além disso, a versatilidade das minifiguras é notável, permitindo que se criem cenas épicas de combate ou que simplesmente se adicionem a uma estante de exposição como um artefato de admiração. Estes brinquedos não são apenas um passatempo divertido, mas também um meio de estimular a imaginação e a criatividade nas crianças, encorajando a narrativa e a recriação de cenas dos filmes. Além de proporcionar horas de entretenimento, as Minifiguras Surpresa Godzilla x Kong ajudam a desenvolver habilidades motoras finas e coordenação através do manuseamento e posicionamento das figuras em variadas posturas. Em suma... Embalagens colecionáveis surpresa com personagens do MonsterVerse. Detalhismo e realismo impressionante nas minifiguras de Godzilla e Kong. Estímulo à imaginação, criatividade e desenvolvimento de habilidades motoras. Ideal para fãs, colecionadores e crianças acima de 4 anos. Dimensão: 11 x 7 x 4,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-08-26T12:58:28Z
+  Updated: 2025-09-27T12:39:56Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15643,7 +15626,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-do-super-esquadrao-da-lagoa-23050524-squishville-1178699145.jpg?v=1752793332
   Price: 22,99 € EUR
 - [Squishville Mini Squishmallows - Esquadrão do Pijama](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao-da-lagoa): Conheça o Squishville Mini Squishmallows – Esquadrão do Pijama, os peluches mais macios e adoráveis! Perfeitos para crianças e festas do pijama.
-  Updated: 2025-08-22T14:26:10Z
+  Updated: 2025-09-27T12:39:57Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -15811,9 +15794,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/baloes-de-agua-reutilizaveis-opaco-para-festas-ao-ar-livre-609935324-8437018699353-brincatoys-1178699276.jpg?v=1752938299
   Price: 20,90 € EUR
 - [Barbie Signature 65º Aniversário - Boneca de Coleção Elegante](https://brincatoys.pt/products/barbie-signature-65-aniversario): Celebre o legado da Barbie com a boneca Signature 65º Aniversário. Descubra verdadeira elegância e detalhes colecionáveis numa peça de comemoração única.
-  Updated: 2025-08-21T00:01:05Z
+  Updated: 2025-09-27T12:14:34Z
   Vendor: Barbie Signature
-  Product Type: + 3 anos
+  Product Type: Barbie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-signature-65-aniversario-boneca-de-colecao-elegante-771810324-0194735181032-barbie-signature-1178699281.jpg?v=1752938412
   Price: 84,90 € EUR
@@ -16007,7 +15990,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-teddiursa-para-colecionadores-23390724-0191726726678-pokemon-1178699465.jpg?v=1752942021
   Price: 14,99 € EUR
 - [Figuras Mystery Minis - Stitch Colecionáveis em Vinil](https://brincatoys.pt/products/mystery-minis-stitch): Apaixonados por Disney, colecione as Figuras Mystery Minis - Stitch para uma surpresa mágica! Cada caixinha traz um Stitch diferente, em trajes variados.
-  Updated: 2025-08-24T14:40:17Z
+  Updated: 2025-09-27T12:27:24Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -16434,7 +16417,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-pvc-my-little-pony-twilight-sparkle-779025424-8412906902548-my-little-pony-1178699848.jpg?v=1752791061
   Price: 8,00 € EUR
 - [Boneco PVC My Little Pony - Fluttershy](https://brincatoys.pt/products/boneco-pvc-my-little-pony-fluttershy): Boneco PVC My Little Pony - Fluttershy - Deixe-se encantar pela fidelidade desta peça coleccionável! Perfeito para presentear e cativar fãs,
-  Updated: 2025-08-21T00:00:15Z
+  Updated: 2025-09-27T13:08:10Z
   Vendor: My Little Pony
   Product Type: + 3 anos
   Availability: Available
@@ -16602,7 +16585,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-porquinha-peppa-30-cm-companheiro-de-aventuras-771868424-8425611386848-peppa-pig-1178699992.jpg?v=1752948605
   Price: 14,99 € EUR
 - [Nave Star Wars Millennium Falcon para Colecionadores e Fãs](https://brincatoys.pt/products/star-wars-micro-galaxy-squadron-assault-class-millennium-falcon): Descubra a nave Star Wars Millennium Falcon. Encante-se com a precisão dos detalhes e as aventuras que esta peça de coleção pode oferecer.
-  Updated: 2025-08-22T14:36:26Z
+  Updated: 2025-09-27T12:27:23Z
   Vendor: Star Wars
   Product Type: + 8 anos
   Availability: Available
@@ -16644,7 +16627,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75389-a-dark-falcon-667538925-5702017584454-lego-1178700024.jpg?v=1752949458
   Price: 184,90 € EUR
 - [Minifiguras Colecionáveis One Piece 7 cm](https://brincatoys.pt/products/mini-figuras-coleccionaveis-one-piece-7-cm): Minifiguras Colecionáveis One Piece 7 cm! Perfeitas para fãs., Descubra a qualidade e o detalhe que estas figuras trazem para o seu display de anime.
-  Updated: 2025-08-27T22:06:41Z
+  Updated: 2025-09-27T12:27:21Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -16875,9 +16858,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-sonic-76999-super-sonic-vs-egg-drillster-667699924-5702017592558-lego-1178700203.jpg?v=1752952209
   Price: 83,50 € EUR
 - [Barbie Signature 65º Aniversário - Boneca de Coleção Elegante](https://brincatoys.pt/products/barbie-signature-65º-aniversario): Celebre o legado da Barbie com a boneca Signature 65º Aniversário. Descubra verdadeira elegância e detalhes colecionáveis numa peça de comemoração única.
-  Updated: 2025-08-20T23:59:48Z
+  Updated: 2025-09-27T12:14:35Z
   Vendor: Barbie Signature
-  Product Type: + 3 anos
+  Product Type: Barbie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-signature-65-aniversario-boneca-de-colecao-elegante-771810324-0194735181032-barbie-signature-1178699281.jpg?v=1752938412
   Price: 84,90 € EUR
@@ -17098,13 +17081,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-van-campbell-replica-perfeita-552003824-0194735200382-cars-1178700351.jpg?v=1752954612
   Price: 11,99 € EUR
-- [Carro da Disney – Eric Braker | Réplica Perfeita](https://brincatoys.pt/products/cars-disney-eric-braker): Carro da Disney –  Eric Braker. Traga a magia dos filmes "Cars" para casa. Este modelo detalhado estimula a criatividade e é um presente que encanta.
-  Updated: 2025-09-21T17:09:01Z
-  Vendor: Cars
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-eric-braker-replica-perfeita-559106824-0887961910681-cars-1178700359.jpg?v=1752954734
-  Price: 11,99 € EUR
 - [Puzzle Monster High 180 pçs - Diversão e Aprendizagem](https://brincatoys.pt/products/puzzle-monster-high-180-pcs): Encontre o puzzle perfeito para fãs de Monster High! Com peças de alta qualidade, o Puzzle Monster High 180 pçs proporciona educação e entretenimento.
   Updated: 2025-08-20T23:59:36Z
   Vendor: Monster High
@@ -17302,7 +17278,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-salmao-feliz-diversao-rapida-31036124-0810083047072-brincatoys-1178700516.jpg?v=1752786371
   Price: 17,95 € EUR
 - [Jogo cartas BrainBox: Mundo | Desafio Geográfico](https://brincatoys.pt/products/jogo-brainbox-o-mundo): Descubra o Jogo cartas BrainBox: Mundo! Explore continentes, culturas e maravilhas em10 minutos. Jogo educativo para toda a família,
-  Updated: 2025-09-05T10:32:36Z
+  Updated: 2025-09-27T12:02:07Z
   Vendor: Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -17792,7 +17768,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-dinossauro-megalosaurus-para-fas-851925524-0194735192557-jurassic-world-1178700888.jpg?v=1752962646
   Price: 28,50 € EUR
 - [Actividades Manuais Criativas Gabby: Conjunto Encantador](https://brincatoys.pt/products/conjunto-de-actividades-manuais-criativas-gabby-dollhouse): Deixe a imaginação das crianças voar com o conjunto de actividades Manuais Criativas Gabby! Acessórios coloridos dentro de um design adorável.
-  Updated: 2025-09-20T10:24:56Z
+  Updated: 2025-09-27T14:13:12Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18289,7 +18265,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-edicao-european-car-culture-miniaturas-detalhadas-772380625-0194735023806-hot-wheels-1178701269.jpg?v=1752968643
   Price: 24,95 € EUR
 - [Boneco de Peluche da Bluey 45 cm: O Companheiro Perfeito](https://brincatoys.pt/products/peluche-da-bluey-45-cm): Descubra o irresistível boneco de peluche da Bluey, com 45 cm de altura. Perfeito para fãs da famosa personagem de animação australiana!
-  Updated: 2025-09-07T02:22:22Z
+  Updated: 2025-09-27T15:21:10Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -18695,9 +18671,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31153-casa-moderna-3-em-1-663115324-5702017585086-lego-1178699904.jpg?v=1752789849
   Price: 99,99 € EUR
 - [Monster High Skulltimate Secrets Twyla em Grande Estilo](https://brincatoys.pt/products/monster-high-skulltimate-secrets-twyla): Mergulhe no estilo misterioso da Monster High com a boneca Skulltimate Secrets Twyla! Descubra mais de 125 looks fabulosos e acessórios! 🌟
-  Updated: 2025-08-20T23:58:04Z
+  Updated: 2025-09-27T15:53:55Z
   Vendor: Monster High
-  Product Type: + 4 anos
+  Product Type: Bonecas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-skulltimate-secrets-twyla-em-grande-estilo-775543625-0194735255436-monster-high-1178701517.jpg?v=1752972611
   Price: 44,90 € EUR
@@ -18968,7 +18944,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-scutosaurus-detalhado-238496225-0194735284962-jurassic-world-1178701697.jpg?v=1752975727
   Price: 24,90 € EUR
 - [Minifiguras coleccionáveis Garten of BanBan únicas](https://brincatoys.pt/products/minifiguras-coleccionaveis-garten-of-banban): Mergulhe no mundo das Minifiguras coleccionáveis Garten of BanBan . Descubra personagens icônicos e figuras raras para a sua coleção!
-  Updated: 2025-09-16T10:28:30Z
+  Updated: 2025-09-27T12:27:20Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -19094,7 +19070,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/sonic-the-hedgehog-rouge-figura-articulada-incrivel-772305425-0192995412217-sonic-the-hedgehog-1178701789.jpg?v=1752780742
   Price: 18,90 € EUR
 - [Sonic The Hedgehog - Sonic clássico: Figura Articulada](https://brincatoys.pt/products/sonic-the-hedgehog-sonic-classico): Liberte a sua imaginação com a figura articulada Sonic The Hedgehog - Sonic clássico! Reviva aventuras icónicas e crie novas histórias.
-  Updated: 2025-08-26T14:30:06Z
+  Updated: 2025-09-27T12:27:18Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -19234,7 +19210,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-toy-story-woody-o-heroi-dos-brinquedos-774600325-0194735046003-toy-story-1178701894.jpg?v=1752979091
   Price: 29,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-boo-riginal-operetta): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-09-27T11:49:17Z
+  Updated: 2025-09-27T12:01:59Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -19374,35 +19350,35 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-lankybox-mystery-15-cm-brincadeira-divertida-233926425-810054663621-brincatoys-1178701970.jpg?v=1752780363
   Price: 16,99 € EUR
 - [Tartarugas Ninja Shouts - Raphael e seus gritos icônicos](https://brincatoys.pt/products/tartarugas-ninja-shouts-raphael): Desperte o espírito aventureiro com a figura Tartarugas Ninja Shouts - Raphael. Puxe o braço e ouça o grito icônico 'Ninjaaaa!' em ação!
-  Updated: 2025-09-27T11:50:55Z
+  Updated: 2025-09-27T12:01:57Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-shouts-raphael-e-seus-gritos-iconicos-233875025-043377833543-tartarugas-ninja-1178701974.jpg?v=1752780375
   Price: 22,99 € EUR
 - [Tartarugas Ninja Shouts - Leonardo: Ação e Diversão](https://brincatoys.pt/products/tartarugas-ninja-shouts-leonardo): Aumente a diversão com a figura Tartarugas Ninja Shouts - Leonardo! Interativa e cheia de ação, traga o herói para sua casa agora!
-  Updated: 2025-09-27T11:52:22Z
+  Updated: 2025-09-27T12:01:56Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-shouts-leonardo-acao-e-diversao-233874725-043377833512-tartarugas-ninja-1178701978.jpg?v=1752980170
   Price: 22,99 € EUR
 - [Tartarugas Ninja Shouts - Michelangelo com Som Icônico](https://brincatoys.pt/products/tartarugas-ninja-shouts-michelangelo): Entre no mundo das Tartarugas Ninja com a figura interativa Tartarugas Ninja Shouts - Michelangelo! Puxe o braço e ouça 'Cowabunga!' 🎉
-  Updated: 2025-09-27T11:53:47Z
+  Updated: 2025-09-27T12:01:55Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-shouts-michelangelo-com-som-iconico-233874925-043377833536-tartarugas-ninja-1178701982.jpg?v=1752780131
   Price: 22,99 € EUR
 - [Tartarugas Ninja Shouts - Donatello: Figura Interativa](https://brincatoys.pt/products/tartarugas-ninja-shouts-donatello): Entre no mundo das Tartarugas Ninja com a figura interativa Tartarugas Ninja Shouts - Donatello! Descubra sons icónicos e aventuras épicas. 🔥
-  Updated: 2025-09-27T11:55:40Z
+  Updated: 2025-09-27T12:01:53Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-shouts-donatello-figura-interativa-233874825-043377833529-tartarugas-ninja-1178701986.jpg?v=1752780144
   Price: 22,99 € EUR
 - [Tartarugas Ninja Mota do Dragão: Raphael em Ação](https://brincatoys.pt/products/tartarugas-ninja-mota-do-dragao): Acelere com o set Tartarugas Ninja Mota do Dragão! Raphael, robusto e pronto para a ação, traz aventuras empolgantes e surpresas! 🐢
-  Updated: 2025-09-27T11:57:05Z
+  Updated: 2025-09-27T12:01:52Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -19444,28 +19420,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-hello-kitty-classico-24-cm-para-abracos-aconchegantes-232061225-8052780426121-brincatoys-1178702010.jpg?v=1752980660
   Price: 24,90 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Donatello em Ação](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-donatello): Entre no mundo das Tartarugas Ninja Mutant Mayhen - Donatello! A figura perfeita para brincar e desenvolver habilidades motoras.
-  Updated: 2025-09-27T11:58:26Z
+  Updated: 2025-09-27T12:01:51Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-donatello-em-acao-233873725-0043377832829-tartarugas-ninja-1178702014.jpg?v=1752980772
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Leonardo: Ação e Heroísmo](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-leonardo): Traga aventuras emocionantes para as mãos dos seus filhos com a figura Tartarugas Ninja Mutant Mayhen - Leonardo! Tem 12 cm e muitos acessórios!
-  Updated: 2025-09-27T11:59:32Z
+  Updated: 2025-09-27T12:01:49Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-leonardo-acao-e-heroismo-233873625-043377832812-tartarugas-ninja-1178702018.jpg?v=1752780006
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Raphael: Ação e Detalhes](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-raphael): Desperte a imaginação da sua criança com a figura de ação Tartarugas Ninja Mutant Mayhen - Raphael! Pose feroz e detalhes incríveis esperam por você!
-  Updated: 2025-08-27T19:00:41Z
+  Updated: 2025-09-27T12:01:48Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-raphael-acao-e-detalhes-233873925-043377832843-tartarugas-ninja-1178702022.jpg?v=1752780018
   Price: 19,99 € EUR
 - [Hot Wheels - LB-Works McLaren 720S: Modelo Premium](https://brincatoys.pt/products/hot-wheels-lb-works-mclaren-720s): Descubra o Hot Wheels - LB-Works McLaren 720S, um modelo 1:64 com acabamentos de alta qualidade e detalhes impressionantes. Adquira já esta peça!
-  Updated: 2025-09-22T12:45:58Z
+  Updated: 2025-09-27T12:14:40Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -19514,7 +19490,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-09-27T09:42:55Z
+  Updated: 2025-09-27T12:14:39Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -19598,9 +19574,9 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-dragon-ball-z-104-pcs-diversao-e-aventura-852577425-8005125257744-dragon-ball-1178702074.jpg?v=1752981963
   Price: 12,99 € EUR
 - [Barbie Signature Miss Astronaut 1965: Edição Limitada](https://brincatoys.pt/products/barbie-signature-miss-astronaut-1965): Celebre o 60.º aniversário da Barbie com a Barbie Signature Miss Astronaut 1965! Experimente a nostalgia da exploração espacial. Adquira a sua!
-  Updated: 2025-08-20T23:57:14Z
+  Updated: 2025-09-27T12:14:38Z
   Vendor: Barbie
-  Product Type: + 12 anos
+  Product Type: Barbie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-signature-miss-astronaut-1965-edicao-limitada-232614325-194735261437-barbie-1178702078.jpg?v=1752779768
   Price: 84,99 € EUR
@@ -19794,7 +19770,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-telecomandado-power-dragon-velocidade-e-aventura-862467424-4009803124674-brincatoys-1178699457.jpg?v=1752941898
   Price: 44,99 € EUR
 - [Carro Fast & Furious - Brian's Porsche 996 GT3 RS](https://brincatoys.pt/products/carro-fast-furious-brians-porsche-996-gt3-rs): O Carro Fast & Furious – Brian’s Porsche 996 GT3 RS reproduz ao pormenor o icónico veículo de Brian O’Conner, numa escala aproximada de 1:24. Primeiramente, fabricado em die-cast metal reforçado, este modelo apresenta superfícies lacadas em azul vivo, decalques “GT3 RS” realistas e jantes de liga com design multiraio, proporcionando detalhes fiéis ao original. Além disso, inclui componentes em plástico de elevada resistência para zonas como o difusor traseiro, o spoiler aerodinâmico ajustado e a grelha dianteira. Por outro lado, para um realismo superior, o modelo disponibiliza portas laterais e capot dianteiro totalmente funcionais, revelando o interior com bancos tipo competição, volante desportivo e barra de segurança (“roll cage”) visível através dos vidros fumados. Do mesmo modo, as rodas giram livremente e a suspensão ligeiramente rebaixada reflete o carácter de corrida do GT3 RS. Ademais, as luzes traseiras e os faróis dianteiros ostentam acabamento transparente, recriando o aspeto original. Ademais, recomendado para crianças a partir dos 8 anos e colecionadores, este carro die-cast cumpre normas de segurança CE, graças a materiais atóxicos e montagem resistente. Por isso, pais e entusiastas podem confiar na durabilidade do modelo para jogos de ação ou exposição em estantes. Consequentemente, desenvolve a coordenação motora, incentiva a criatividade e permite recriar cenas memoráveis da saga Fast & Furious. Por fim, seja para iniciar ou enriquecer uma vitrina de modelos automóveis, o Brian’s Porsche 996 GT3 RS é uma peça vencedora que combina precisão, qualidade e diversão. Em suma... Modelo die-cast 1:24 em metal e plástico resistente Portas e capot dianteiro funcionais Interior detalhado com volante desportivo e “roll cage” Jantes multiraio e decalques “GT3 RS” originais Dimensão:Idade recomendada: + de 8 anos.
-  Updated: 2025-09-26T19:45:15Z
+  Updated: 2025-09-27T14:34:31Z
   Vendor: Fast & Furious
   Product Type: + 8 anos
   Availability: Available
@@ -19878,7 +19854,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-classic-splinter-233879825-0043377810100-tartarugas-ninja-1178692461.jpg?v=1752822014
   Price: 19,99 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-rosa-25-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-09-18T15:04:51Z
+  Updated: 2025-09-27T12:14:45Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -19920,7 +19896,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-25-cm-peluche-fofinho-522113825-7340031317313-brincatoys-1178692426.jpg?v=1752822377
   Price: 29,99 € EUR
 - [carro Cars Disney - Sally: Miniatura Oficial 1:55](https://brincatoys.pt/products/cars-disney-sally): Traga a diversão de Radiator Springs com o carro Cars Disney - Sally. Esta miniatura die-cast perfeita para crianças é irresistível! 🚗
-  Updated: 2025-09-23T19:24:51Z
+  Updated: 2025-09-27T13:05:11Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -20284,7 +20260,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-aston-martin-valkyria-peca-imponente-133146524-0090159314653-brincatoys-1178701112.jpg?v=1752965775
   Price: 54,50 € EUR
 - [Carro de Brincar Volkswagen Beetle - Escala 1:24](https://brincatoys.pt/products/volkswagen-beetle-verde-1-24): Descubra o carro de brincar Volkswagen Beetle, uma réplica à escala 1:24 com detalhes autênticos para entusiastas de todas as idades.
-  Updated: 2025-09-17T21:52:12Z
+  Updated: 2025-09-27T12:14:36Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20470,7 +20446,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-25T18:37:11Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-09-26T19:57:54Z
+  Updated: 2025-09-27T13:27:52Z
   Total Products: 245
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
@@ -20482,10 +20458,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T22:32:16Z
   Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-09-27T11:19:20Z
-  Total Products: 239
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 240
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
-  Updated: 2025-09-24T21:14:27Z
+  Updated: 2025-09-27T14:13:12Z
   Total Products: 64
 - [Bonecas de Pano](https://brincatoys.pt/collections/bonecas-de-pano)
   Updated: 2025-09-24T22:37:34Z
@@ -20500,19 +20476,19 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:27:34Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-09-24T22:10:11Z
-  Total Products: 102
+  Updated: 2025-09-27T15:48:09Z
+  Total Products: 104
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
   Updated: 2025-09-26T13:29:11Z
   Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
-  Updated: 2025-09-08T22:16:49Z
-  Total Products: 121
+  Updated: 2025-09-27T15:30:55Z
+  Total Products: 122
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
   Updated: 2025-09-24T12:22:51Z
   Total Products: 46
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-09-25T14:47:52Z
+  Updated: 2025-09-27T13:05:11Z
   Total Products: 204
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-09-26T15:37:19Z
@@ -20539,14 +20515,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-24T21:25:56Z
   Total Products: 22
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-09-26T19:58:23Z
-  Total Products: 326
+  Updated: 2025-09-27T15:48:38Z
+  Total Products: 327
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-09-26T22:44:41Z
-  Total Products: 1510
+  Updated: 2025-09-27T15:48:38Z
+  Total Products: 1508
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-09-27T11:19:20Z
-  Total Products: 688
+  Updated: 2025-09-27T15:54:24Z
+  Total Products: 686
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-09-26T15:20:15Z
   Total Products: 318
@@ -20560,29 +20536,29 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-26T19:58:23Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-27T11:19:20Z
-  Total Products: 1335
+  Updated: 2025-09-27T13:05:41Z
+  Total Products: 1334
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 2436
+  Updated: 2025-09-27T13:05:41Z
+  Total Products: 2435
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 2894
+  Updated: 2025-09-27T13:28:21Z
+  Total Products: 2892
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3280
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3277
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3408
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3405
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3485
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3482
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3533
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3530
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-27T11:16:28Z
-  Total Products: 361
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 364
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-19T11:19:01Z
   Total Products: 52
@@ -20590,10 +20566,10 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-08T20:12:54Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
-  Updated: 2025-09-24T22:25:05Z
+  Updated: 2025-09-27T12:14:39Z
   Total Products: 23
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
-  Updated: 2025-09-24T22:13:11Z
+  Updated: 2025-09-27T12:14:36Z
   Total Products: 19
 - [Baby Alive](https://brincatoys.pt/collections/baby-alive)
   Updated: 2025-09-16T15:14:20Z
@@ -20608,8 +20584,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-20T23:28:53Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-09-26T12:50:46Z
-  Total Products: 49
+  Updated: 2025-09-27T13:05:42Z
+  Total Products: 48
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-09-09T10:07:25Z
   Total Products: 2
@@ -20707,7 +20683,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-27T11:19:20Z
   Total Products: 5
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-09-27T11:19:20Z
+  Updated: 2025-09-27T15:53:55Z
   Total Products: 35
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-08-31T21:21:50Z
@@ -20728,7 +20704,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-16T10:31:39Z
   Total Products: 14
 - [Playmobil](https://brincatoys.pt/collections/playmobil)
-  Updated: 2025-09-26T19:57:54Z
+  Updated: 2025-09-27T13:27:52Z
   Total Products: 134
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
   Updated: 2025-09-23T11:22:02Z
@@ -20770,23 +20746,23 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-08-27T21:35:18Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3549
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3545
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-27T11:19:20Z
   Total Products: 283
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-09-25T13:09:51Z
-  Total Products: 168
+  Updated: 2025-09-27T12:15:08Z
+  Total Products: 167
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-09-24T12:58:14Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-09-26T22:44:41Z
-  Total Products: 1161
+  Updated: 2025-09-27T14:13:41Z
+  Total Products: 1157
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-09-27T11:19:20Z
-  Total Products: 474
+  Updated: 2025-09-27T15:54:24Z
+  Total Products: 472
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-09-23T18:59:24Z
   Total Products: 135
@@ -20800,17 +20776,17 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-26T15:20:47Z
   Total Products: 211
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
-  Updated: 2025-09-24T21:00:40Z
-  Total Products: 91
+  Updated: 2025-09-27T12:15:08Z
+  Total Products: 90
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
   Updated: 2025-09-25T11:20:49Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3566
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3562
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3566
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3562
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-24T11:20:32Z
   Total Products: 24
@@ -20821,8 +20797,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3076
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3074
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -20830,8 +20806,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Updated: 2025-09-26T15:34:41Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-27T11:50:41Z
-  Total Products: 3076
+  Updated: 2025-09-27T15:53:55Z
+  Total Products: 3074
 
 ## Blogs
 
