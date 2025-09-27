@@ -6,12 +6,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-09-27T08:01:10.918Z
+- Updated At: 2025-09-27T12:01:10.542Z
 
 ## Products
 
 - [Altavoz inalámbrico de conducción ósea Humbird - Hifi Media Store](https://hifimediastore.com/products/bone-conduction-wireless-humbird-speaker): Todo tiene sus propios sonidos Adoptando la tecnología de conducción ósea y la tecnología acústica de bobina móvil, el altavoz Humbird convierte el sonido en una vibración mecánica de diferentes frecuencias, aprovechando los efectos de los distintos materiales sobre los que se coloca y utiliza. Sus vibraciones producen una colección de sonidos realmente original, variable y personalizable a través de la autovibración. Todo tiene su propio sonido, ¿cuántos sonidos has descubierto ya? Hecho para pioneros con buen gusto Debido a su diseño estéticamente notable y compacto, así como a sus impresionantes características, el altavoz HumBird es la elección perfecta para los pioneros con buen gusto que quieren ser los primeros en adoptar la tecnología con un gran aprecio por el diseño inteligente. Portátil y ligero Además de tener un diseño extremadamente bonito, el altavoz HumBird es extremadamente compacto. De hecho, sólo tiene 40 mm de diámetro y pesa tan sólo 35 gramos , siendo sólo ligeramente más grande que una moneda. Puede llevarlo en la cartera, en el bolsillo o incluso colgado del cuello en un collar o en un llavero. Características: Este altavoz te permite escuchar música, seguir podcasts, mantener conversaciones telefónicas individuales o conferencias telefónicas, e incluso disfrutar de una experiencia increíble del sonido de tus juegos, vídeos o películas reproducidos en tu dispositivo. Funciona como un humBird, pequeño pero potente. Ofrece un volumen de sonido elevado, de 4 a 5 veces superior al volumen medio de los altavoces de los teléfonos móviles, alcanzando hasta 115db, y le permite personalizar . Descripción: Colóquelo en la parte superior de diferentes superficies, como una guitarra, una caja de kraft, una caja de almacenamiento de plástico, marcos de fotos, casco deportivo o incluso salpicaderos canprovide que varían de efectos de sonido. Notas: 1. Debido a la diferencia entre diferentes monitores, la imagen puede no reflejar el color real del artículo. Garantizamos que el estilo es el mismo que se muestra en las imágenes. 2. Por favor, permita una ligera diferencia de dimensiones debido a la diferente medición manual. 3. Instrucciones de radio FM: En el modo Bluetooth, pulse brevemente el botón de encendido para cambiar al modo de radio FM, el sonido prompt "modo de radio";Pulse la tecla de función durante 3 segundos para iniciar la búsqueda automática de FM.Después de la búsqueda de la estación se ha completado, el altavoz almacenará automáticamente las estaciones que han sido searched.VVolume control: un solo clic en el botón-disminuir el volumen, haga doble clic en el botón-aumentar el volumen, tres clics en el botón-cambiar las estaciones de radio.(*Antes de iniciar la radio, el cable USB debe ser insertado en el puerto de carga del altavoz como una antena de radio FM, que es mejor para el uso al aire libre). Especificaciones: A prueba de agua: NoControl de voz: NoSoporta tarjeta de memoria: SíTipo de altavoz: PortátilSensibilidad: 115dControl remoto: NoFuente de alimentación: USBPotencia de salida: 3Número de altavoces: 1Número de carriles: Doble carrilNúmero de canales: 2 (2.0)Número de cajas acústicas: 1Protección contra la humedad: NoNúmero de modelo: Humbird Sound Box SpeakerMaterial: AluminioSoporte para tarjeta de memoria: NoMaterial: MetalPotencia de entrada(W): <25 W Display Screen: NoConnec
-  Updated: 2025-06-22T07:51:28Z
+  Updated: 2025-09-27T10:43:55Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -5001,7 +5001,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/4fe1aa56c81d7473d2f0e29cfe4d0f4f4d8598fd_0_0.jpg?v=1756147421
   Price: 15,99 € EUR
 - [Motorola Moto G24 Power 8GB/256GB Azul (Ink Blue) Dual SIM](https://hifimediastore.com/products/motorola-moto-g24-power-8gb-256gb-azul-ink-blue-dual-sim): Motorola Moto G24 Power:  Batería de 6000 mAh Carga rápida de 30W Cámara trasera doble de 50 MP y frontal de 8 MP Altavoces Dolby Atmos® Desbloqueo rápido con lector de huellas y reconocimiento facial Procesador MediaTek Helio G85
-  Updated: 2025-09-26T21:26:16Z
+  Updated: 2025-09-27T10:45:16Z
   Vendor: Motorola
   Product Type: Smartphone
   Availability: Available
@@ -5925,7 +5925,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auriculares-bluetooth-ngs-artica-move-con-estuche-de-carga-autonomia-7h-blancos_3608d71f-44e8-4059-ab9b-9c10e178a753.jpg?v=1756570960
   Price: 28,99 € EUR
 - [Samsung Galaxy Z Flip6 5G 12GB/256GB Azul (Blue) Dual SIM SM-F741B](https://hifimediastore.com/products/samsung-galaxy-z-flip6-5g-12gb-256gb-azul-blue-dual-sim-sm-f741b): Samsung Galaxy Z Flip6 5G Pantalla plegable de 67 Dynamic LTPO AMOLED 2X con 120Hz y HDR10 Pantalla frontal de 34 Super AMOLED con proteccion Gorilla Glass Victus 2 Chip Qualcomm Snapdragon 8 Gen 3 4 nm Camara dual de 50MP con IA y video en 4K
-  Updated: 2025-09-26T17:59:37Z
+  Updated: 2025-09-27T11:35:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -6296,7 +6296,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13046.jpg?v=1723761939
   Price: 217,86 € EUR
 - [Samsung Galaxy Tab A9 8,7" 4GB/64GB LTE Gris (Graphite) X115](https://hifimediastore.com/products/samsung-galaxy-tab-a9-87-4gb-64gb-lte-gris-graphite-x115): Samsung Galaxy Tab A9 Pantalla TFT LCD 87 Camara Principal 8MP y Camara delantera 2MP Android 12 One UI 51 Octacore Mediatek Helio G99 Amplicion de memoria hata 1 TB Bateria 5100 mAh con carga rapida 15W Wi Fi Bluetooth 53 GPS USB Tipo C 20
-  Updated: 2025-09-27T04:50:15Z
+  Updated: 2025-09-27T11:30:16Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -6520,7 +6520,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/5007.jpg?v=1723765574
   Price: 407,97 € EUR
 - [Honor Pad X9 11,5" 4GB/128GB Wi-Fi Gris (Space Gray)](https://hifimediastore.com/products/honor-pad-x9-115-4gb-128gb-wi-fi-gris-space-gray): Honor Pad X9;  Pantalla LCD TFT (IPS) 11,5" Plataforma móvil Snapdragon® 685 4G Ocho núcleos MagicOS 7.1 (Android 13) Cámara 5 MP Batería de polímero de litio 7250 mAh Wi-Fi 5, 802.11 a/b/g/n/ac Bluetooth BT5.1 267,3 mm x 167,4 mm x 6,9 mm 495 g.
-  Updated: 2025-09-26T21:05:10Z
+  Updated: 2025-09-27T10:30:12Z
   Vendor: Honor
   Product Type: Tablet's
   Availability: Available
@@ -6632,7 +6632,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15063.jpg?v=1725047439
   Price: 104,91 € EUR
 - [Samsung Galaxy Buds FE Auriculares Bluetooth Gris (Graphite) SM-R400N](https://hifimediastore.com/products/samsung-galaxy-buds-fe-auriculares-bluetooth-gris-graphite-sm-r400n): Galaxy Buds FE Bluetooth Audio con 6 microfonos sonido ambiente y cancelacion activa de ruido 8anc Bluetooth v52 Sensor Hall de proximidad y tactil Capacidad de la Bateria auricular 60 mAh Capacidad de la Bateria estuche 479 mAh Conexion Bix
-  Updated: 2025-09-26T22:15:31Z
+  Updated: 2025-09-27T11:35:37Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
@@ -6681,7 +6681,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18014.jpg?v=1725048947
   Price: 31,59 € EUR
 - [Xiaomi Redmi Buds 6 Active Auriculares Bluetooth Azul (Transparent Blue)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-active-auriculares-bluetooth-azul-transparent-blue): Xiaomi Redmi Buds 6 Active Bluetooth 54 Cinco ajustes de ecualizacion Controlador dinamico de 142 mm Bateria de hasta 30 horas de duracion Escucha hasta 2h de musica con una carga de 5 minutos Cancelacion de ruido del viento de hasta 4 m s Conectivid
-  Updated: 2025-09-27T05:10:25Z
+  Updated: 2025-09-27T11:50:25Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
@@ -7129,7 +7129,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20080.jpg?v=1733890229
   Price: 172,51 € EUR
 - [Samsung Galaxy A16 4G 4GB/128GB Gris (Light Gray) Dual SIM SM-A165](https://hifimediastore.com/products/samsung-galaxy-a16-4g-4gb-128gb-gris-light-gray-dual-sim-sm-a165): Samsung Galaxy A16 4G:  Pantalla FHD+ Super AMOLED de 6,7" Cámara triple de 50 MP y cámara selfie de 13 MP Batería de 5000 mAh Carga rápida de 25W Procesador Octa-core  *Términos de Samsung Pay en la descripción.
-  Updated: 2025-09-27T04:50:10Z
+  Updated: 2025-09-27T11:30:10Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7822,7 +7822,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21978.jpg?v=1743106827
   Price: 285,46 € EUR
 - [Samsung Galaxy A26 5G 8GB/256GB Verde (Mint) Dual SIM A266](https://hifimediastore.com/products/samsung-galaxy-a26-5g-8gb-256gb-verde-mint-dual-sim-a266): Samsung Galaxy A26 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-09-27T00:37:54Z
+  Updated: 2025-09-27T11:30:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7984,7 +7984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22654.jpg?v=1746654642
   Price: 485,59 € EUR
 - [Vivo Y19s 4G 6GB/128GB Plata (Pearl Silver) Dual SIM](https://hifimediastore.com/products/vivo-y19s-4g-6gb-128gb-plata-pearl-silver-dual-sim): Vivo Y19s:  Pantalla IPS LCD 6,68"  Chip Unisoc Tiger T612 Cámara principal de 50 MP Cámara selfie de 5 MP Batería de 5150 mAh Flash Charge de 44W Android 14, Funtouch 14
-  Updated: 2025-09-26T08:50:32Z
+  Updated: 2025-09-27T11:40:36Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
@@ -8145,7 +8145,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23442.jpg?v=1749253515
   Price: 77,48 € EUR
 - [Samsung Galaxy S25 Edge 5G 12GB/256GB Negro (Titanium Jetblack) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-s25-edge-5g-12gb-256gb-negro-titanium-jetblack-dual-sim): Samsung Galaxy S25 Edge:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cámara principal de 200 MP Grabación de vídeo en 8K Batería de 3900 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-09-27T04:50:15Z
+  Updated: 2025-09-27T11:30:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8194,7 +8194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23497.jpg?v=1749582609
   Price: 32,60 € EUR
 - [Sony WF-C510 Auriculares Inalámbricos Negros](https://hifimediastore.com/products/sony-wf-c510-auriculares-inalambricos-negros): Sony WF-C510:  Diseño compacto y ligero Modo sonido ambiente Hasta 22 horas de duración de la batería Conexión multipunto Calidad de sonido excepcional Bluetooth 5.3
-  Updated: 2025-09-26T22:20:10Z
+  Updated: 2025-09-27T11:40:27Z
   Vendor: Sony
   Product Type: Bluetooth
   Availability: Available
@@ -8229,7 +8229,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23818.jpg?v=1751667307
   Price: 219,56 € EUR
 - [Vivo V40 SE 80W 5G 8GB/256GB Negro (Imperial Black) Dual SIM](https://hifimediastore.com/products/vivo-v40-se-80w-5g-8gb-256gb-negro-imperial-black-dual-sim): Vivo V40 SE 80W 5G:  Pantalla AMOLED de 6,67" y 120Hz Cámara dual de 50 MP con Ultra Gran Angular 8 MP Batería de 5000 mAh, Carga rápida 80W Qualcomm Snapdragon 4 Gen 2 Conexión 5G Android 14
-  Updated: 2025-09-26T22:20:21Z
+  Updated: 2025-09-27T11:40:21Z
   Vendor: Vivo
   Product Type: Smartphone
   Availability: Available
@@ -8369,56 +8369,56 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25887.jpg?v=1758660964
   Price: 1631,56 € EUR
 - [Apple iPhone 17 Pro 512GB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-512gb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:32Z
+  Updated: 2025-09-27T09:42:08Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25915.jpg?v=1758737754
   Price: 2034,97 € EUR
 - [Apple iPhone 17 512GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-17-512gb-blanco-white): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:38Z
+  Updated: 2025-09-27T10:00:06Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25934.jpg?v=1758759614
   Price: 1563,59 € EUR
 - [Apple iPhone 17 256GB Lavanda (Lavender)](https://hifimediastore.com/products/apple-iphone-17-256gb-lavanda-lavender): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:42Z
+  Updated: 2025-09-27T09:35:47Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25953.jpg?v=1758836114
   Price: 1312,38 € EUR
 - [Apple iPhone 17 512GB Verde Salvia (Sage)](https://hifimediastore.com/products/apple-iphone-17-512gb-verde-salvia-sage): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:44Z
+  Updated: 2025-09-27T09:32:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25957.jpg?v=1758836121
   Price: 1563,59 € EUR
 - [Apple iPhone 17 512GB Lavanda (Lavender)](https://hifimediastore.com/products/apple-iphone-17-512gb-lavanda-lavender): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:45Z
+  Updated: 2025-09-27T09:47:54Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25961.jpg?v=1758836128
   Price: 1563,59 € EUR
 - [Apple iPhone 17 Pro Max 256GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-max-256gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-27T04:00:20Z
+  Updated: 2025-09-27T11:13:56Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25969.jpg?v=1758836143
   Price: 2153,18 € EUR
 - [Apple iPhone 17 Pro Max 512GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:50Z
+  Updated: 2025-09-27T09:40:31Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25973.jpg?v=1758836150
   Price: 2448,70 € EUR
 - [Apple iPhone 17 Pro Max 512GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-plata-silver): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-26T21:59:53Z
+  Updated: 2025-09-27T09:32:36Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8488,8 +8488,8 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-09-27T07:04:47Z
-  Total Products: 1384
+  Updated: 2025-09-27T10:40:41Z
+  Total Products: 1386
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8869,8 +8869,8 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-27T07:04:47Z
-  Total Products: 1387
+  Updated: 2025-09-27T10:40:41Z
+  Total Products: 1389
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
   Total Products: 24
@@ -8932,8 +8932,8 @@
   Updated: 2025-06-22T07:51:39Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-09-27T06:50:06Z
-  Total Products: 379
+  Updated: 2025-09-27T10:40:41Z
+  Total Products: 381
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-06-22T07:51:39Z
   Total Products: 1
