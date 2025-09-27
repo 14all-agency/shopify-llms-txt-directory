@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-27T16:00:44.334Z
+- Updated At: 2025-09-27T20:00:45.917Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1866,7 +1866,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Not Available
     Price: £80.00 GBP
 - [Memory Keeper Photos | Fill My locket | Lily Blanche](https://www.lilyblanche.com/products/memory-keeper-photos-fill-my-locket): Photo service for the Lily Blanche Memory Keeper Lockets. Fill your Memory Keeper Locket or multi-photo family locket with six photos
-  Updated: 2025-09-01T12:53:10Z
+  Updated: 2025-09-27T18:54:02Z
   Vendor: Lily Blanche
   Product Type: 
   Availability: Available
@@ -16949,7 +16949,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-27T15:11:11Z
+  Updated: 2025-09-27T16:22:41Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
