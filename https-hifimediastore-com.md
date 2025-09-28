@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-09-28T12:01:10.738Z
+- Updated At: 2025-09-28T16:01:07.573Z
 
 ## Products
 
@@ -3839,7 +3839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/EJEAS_V7_Intercomunicador_para_Moto_-_Hifi_Media_Store-971641.jpg?v=1719011696
     Price: 162,99 € EUR
 - [EJEAS V7 Intercomunicador Bluetooth para Moto con Control Remoto](https://hifimediastore.com/products/ejeas-v7-bluetooth-motorcycle-intercom-with-remote-control): EJEAS Intercomunicador de moto V7 para 7 personas 1. V7 es una versión mejorada del superventas V6pro/V6.2. Adopta una botonera de nuevo diseño, que resulta más cómoda de manejar para los motoristas que llevan guantes.3. Interfaz de carga (interfaz de carga Type-C, recargable, actualización de software del sitio web oficial).4.Clip accesorio universal (utilizando el nuevo clip común a Q2 y Q7, la instalación es más cómoda y rápida).5. Se puede utilizar con el asa EUC (la antigua serie V6 no se puede utilizar con el asa).6. Se puede conectar a la APP oficial (La APP proporciona agrupación de intercomunicadores, control de música, apagado, verificación de autenticidad y otras funciones).7. Batería extraíble de reemplazo (la batería es extraíble, la batería se puede reemplazar) Especificaciones: Música/audio estéreo: Teléfono móvil habilitado para A2DP/MP3/GPSCaracterísticas especiales: Reducción de ruidoModo de alimentación: Batería integradaModelo: EJEAS V7Número máximo de personas: 7Distancia máxima de intercomunicación: 700mPeso del artículo: 0.3kgModo de conexión: bluetoothCertificación: CEMarca: EJEASTipo de casco aplicable: Medio casco,Modular,Motocross,Cara abierta,Cara completa,Casco abatibleNúmero de personas: 7 grupos, las seis personas conmutables, sólo dos personas pueden hablar entre sí al mismo tiempo.Versión Bluetooth: 5.1Empuñadura aplicable: EUCInterfaz de carga: Type-CGrado de impermeabilidad: IP65Especificaciones del cargador: DC5V/1ATensión de trabajo: 3.7VCapacidad de la batería: 850mAhTiempo de carga: 2HTiempo en espera: 160HTiempo de intercomunicación: 16HTiempo de música: 22HDistancia de conexión Bluetooth móvil: 10MCompatibilidad: Reducción de ruido CVC, efecto de sonido 3DTemperatura de funcionamiento: - 10 °~50 ° C Contenido del paquete: 1/2 x Intercomunicador1/2 x Control remoto Bluetooth 1/2 x Cable USB1/2 x Clip 1+21/2 x Destornillador1/2 x Manual del usuario
-  Updated: 2025-06-22T07:52:24Z
+  Updated: 2025-09-28T15:58:11Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -4252,7 +4252,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Cosmic_Black_Dual_SIM_CPH2343_-_Hifi_Media_Store-989945.jpg?v=1719045742
   Price: 209,19 € EUR
 - [OPPO Reno8 Lite 5G 8GB/128GB Rainbow Dual SIM CPH2343](https://hifimediastore.com/products/oppo-reno8-lite-5g-8gb-128gb-rainbow-dual-sim-cph2343): OPPO Reno8 Lite 5G Pantalla AMOLED de 643 FHD y proteccion ocular contra la luz azul Chip Qualcomm Snapdragon 695 5G con Nivel A en Fluidez segun TyV SyD Camara de 64MP con Retrato estilo Bokeh Flare Selfie HDR y video Doble Vision Luces de Doble or
-  Updated: 2025-09-16T19:50:25Z
+  Updated: 2025-09-28T14:00:25Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -4350,7 +4350,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Neon_Laser_Black_Dual_SIM_2201116PG_-_Hifi_Media_Store-1001403.jpg?v=1719099790
   Price: 248,20 € EUR
 - [Xiaomi Redmi Note 10 Pro 6GB/64GB Bronce (Gradient Bronze) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-10-pro-6gb-64gb-bronce-gradient-bronze-dual-sim): Xiaomi Redmi Note 10 Pro Bronce (Gradient Bronze) Dual SIM:- 6GB RAM y 64GB almacenamiento- Pantalla AMOLED 6,67", FHD+, 120Hz, HDR10- Qualcomm Snapdragon 732G (8 nm)- Quad Camera 108 MP- Batería 5020 mAh, con carga rápida
-  Updated: 2025-08-27T21:40:25Z
+  Updated: 2025-09-28T14:55:10Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4525,7 +4525,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967140.jpg?v=1719001346
   Price: 1062,55 € EUR
 - [Apple iPhone 15 256GB Rosa (Pink) MTP73QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-rosa-pink-mtp73ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-09-27T17:20:21Z
+  Updated: 2025-09-28T13:40:20Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -6380,7 +6380,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15856.jpg?v=1723770931
   Price: 753,04 € EUR
 - [Samsung Galaxy Tab Active5 5G 8,0" 8GB/256GB Verde (Green) Enterprise Edition Dual SIM SM-X306B](https://hifimediastore.com/products/samsung-galaxy-tab-active5-5g-80-8gb-256gb-verde-green-enterprise-edition-dual-sim-sm-x306b): Galaxy Tab Active5 5G Pantalla 80 TFT LCD Corning Gorilla Glass 5 Android 14 Procesador Octa core Hasta 1TB Almacenamiento externo Resistente al agua y al polvo IP68 MIL STD 810H Conexion 5G Wi Fi GPS Bluetooth 53 NFC Jack 35 mm Bateria extra
-  Updated: 2025-09-28T00:50:20Z
+  Updated: 2025-09-28T14:25:20Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -6590,7 +6590,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13578.jpg?v=1725046823
   Price: 639,97 € EUR
 - [Xiaomi Redmi Buds 5 Pro Auriculares Bluetooth Blanco (Midnight White)](https://hifimediastore.com/products/xiaomi-redmi-buds-5-pro-auriculares-bluetooth-blanco-midnight-white): Xiaomi Redmi Buds 5 Pro:  Sonido de alta resolución Anulación de ruido activa de hasta 52 dB Hasta 38h de batería con estuche de carga Sonido envolvente integrado Anulación de ruido de frecuencia ultra amplia de hasta 4 kHz
-  Updated: 2025-09-28T01:20:25Z
+  Updated: 2025-09-28T14:55:25Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
@@ -6863,12 +6863,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18701.jpg?v=1727204736
   Price: 215,27 € EUR
 - [Xiaomi Redmi Buds 6 Play Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-play-auriculares-bluetooth-negro-black): Xiaomi Redmi Buds 6 Play:  Bluetooth 5.4 Cinco ajustes de ecualización Controlador dinámico de 10 mm Batería de hasta 36 horas de duración Escucha hasta 3h de música con una carga de 10 minutos Reducción de ruido con IA Conectividad inteligente
-  Updated: 2025-09-28T01:20:25Z
+  Updated: 2025-09-28T16:00:20Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18770.jpg?v=1727291708
-  Price: 32,70 € EUR
+  Price: 31,98 € EUR
 - [Xiaomi Redmi Buds 6 Play Auriculares Bluetooth Blanco (White)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-play-auriculares-bluetooth-blanco-white): Xiaomi Redmi Buds 6 Play:  Bluetooth 5.4 Cinco ajustes de ecualización Controlador dinámico de 10 mm Batería de hasta 36 horas de duración Escucha hasta 3h de música con una carga de 10 minutos Reducción de ruido con IA Conectividad inteligente
   Updated: 2025-09-23T20:35:32Z
   Vendor: Xiaomi
@@ -7101,7 +7101,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20038.jpg?v=1733863816
   Price: 171,07 € EUR
 - [Xiaomi Buds 5 Auriculares Bluetooth Gris (Titan Gray) BHR8117GL](https://hifimediastore.com/products/xiaomi-buds-5-auriculares-bluetooth-gris-titan-gray-bhr8117gl): Xiaomi Buds 5:  Triple micrófono con reducción de ruido IA Harman AudioEFX Audio de alta resolución Qualcomm aptX Grabación de audio integrada Hasta 39 horas de uso con estuche resistencia IP54 al polvo y al agua
-  Updated: 2025-09-28T07:55:10Z
+  Updated: 2025-09-28T14:50:10Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
@@ -7199,7 +7199,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20452.jpg?v=1735851009
   Price: 152,39 € EUR
 - [Apple Airpods 3ª Gen. Auriculares Inalámbricos Blancos con estuche de carga Lightning](https://hifimediastore.com/products/apple-airpods-3-gen-auriculares-inalambricos-blancos-con-estuche-de-carga-lightning): Apple Airpods de 3ª generación MME73TY/A  Audio espacial con seguimiento dinámico de la cabeza Dos micrófonos con tecnología beamforming Resistentes al sudor y al agua (IPX4) Hasta 6 horas de reproducción de audio con una sola carga
-  Updated: 2025-09-27T04:10:11Z
+  Updated: 2025-09-28T13:55:20Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -7626,7 +7626,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21637.jpg?v=1741381209
   Price: 456,04 € EUR
 - [Xiaomi Pad 7 Pro 11" 8GB/256GB WiFi Gris (Grey)](https://hifimediastore.com/products/xiaomi-pad-7-pro-11-8gb-256gb-wifi-gris-grey): Xiaomi Pad 7 Pro:  Pantalla nítida 3,2K y 144 Hz Xiaomi HyperOS 2 Snapdragon 8s Gen 3 Batería de 8850 mAh 67W HyperCharge Cámara principal de 50MP Cámara frontal de 32MP 4 altavoces Dolby Atmos
-  Updated: 2025-09-28T01:15:20Z
+  Updated: 2025-09-28T14:50:36Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
@@ -8390,7 +8390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25867.jpg?v=1758660930
   Price: 1962,56 € EUR
 - [Apple iPhone Air 1TB Dorado Claro (Light Gold)](https://hifimediastore.com/products/apple-iphone-air-1tb-dorado-claro-light-gold): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-27T22:21:19Z
+  Updated: 2025-09-28T15:46:28Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8439,7 +8439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25895.jpg?v=1758737716
   Price: 1563,59 € EUR
 - [Apple iPhone 17 512GB Azul Neblina (Mist Blue)](https://hifimediastore.com/products/apple-iphone-17-512gb-azul-neblina-mist-blue): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-09-27T22:21:30Z
+  Updated: 2025-09-28T15:44:06Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8536,10 +8536,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 5420
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 5420
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-09-20T11:13:34Z
@@ -8557,13 +8557,13 @@
   Updated: 2025-08-31T14:00:43Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-09-27T12:28:08Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 462
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
   Updated: 2025-09-20T19:30:56Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-09-27T12:28:08Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 413
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
   Updated: 2025-09-27T12:28:08Z
@@ -8593,7 +8593,7 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 1379
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8770,10 +8770,10 @@
   Updated: 2025-08-25T17:07:40Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 1045
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
-  Updated: 2025-09-26T17:32:07Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 52
 - [Acer](https://hifimediastore.com/collections/acer-1)
   Updated: 2025-06-22T07:51:33Z
@@ -8917,7 +8917,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 5419
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-08-31T11:51:35Z
@@ -8974,7 +8974,7 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 1382
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
@@ -9037,8 +9037,8 @@
   Updated: 2025-06-22T07:51:39Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-09-28T10:30:27Z
-  Total Products: 377
+  Updated: 2025-09-28T13:40:51Z
+  Total Products: 378
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-06-22T07:51:39Z
   Total Products: 1
@@ -9112,7 +9112,7 @@
   Updated: 2025-09-28T03:25:09Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 5050
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-09-28T10:06:49Z
@@ -9130,7 +9130,7 @@
   Updated: 2025-09-23T19:58:36Z
   Total Products: 3
 - [Bluetooth](https://hifimediastore.com/collections/bluetooth)
-  Updated: 2025-09-27T12:28:08Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 262
 - [sbs](https://hifimediastore.com/collections/sbs)
   Updated: 2025-06-22T07:51:40Z
@@ -9151,7 +9151,7 @@
   Updated: 2025-09-24T23:24:29Z
   Total Products: 12
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-09-28T10:06:49Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 4064
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-09-27T19:18:48Z
@@ -9208,7 +9208,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 5419
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-06-22T07:51:42Z
@@ -9223,7 +9223,7 @@
   Updated: 2025-08-25T16:36:25Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-28T10:30:27Z
+  Updated: 2025-09-28T16:00:21Z
   Total Products: 5419
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-09-24T17:55:18Z
