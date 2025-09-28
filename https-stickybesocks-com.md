@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-09-27T20:00:33.451Z
+- Updated At: 2025-09-28T00:00:32.501Z
 
 ## Products
 
@@ -627,7 +627,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/Boy_Baby_Prints_Box__024_1500x1500_13c385d3-68f2-4922-8a6b-fd441acc3226.jpg?v=1676428846
   Price: $40.00 USD
 - [Buy Baby Boy Box 6 Pack (Tanner) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/baby-boy-box-6-pack): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Baby Boy Box 6 Pack (Tanner).
-  Updated: 2025-09-11T19:17:57Z
+  Updated: 2025-09-27T20:56:51Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
