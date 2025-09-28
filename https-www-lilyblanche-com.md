@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-28T04:00:44.883Z
+- Updated At: 2025-09-28T08:00:46.340Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -6248,7 +6248,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Citrine Charm Necklace Gold | November Birthstone Necklace](https://www.lilyblanche.com/products/citrine-charm-necklace-gold-november): A stunning, real citrine forms the centrepiece of this beautiful November birthstone necklace. Add an inital for personalisation. Free luxury jewellery care kit with all orders.
-  Updated: 2025-09-20T08:23:30Z
+  Updated: 2025-09-28T07:25:01Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
