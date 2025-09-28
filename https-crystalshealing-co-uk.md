@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-27T20:00:34.761Z
+- Updated At: 2025-09-28T04:00:34.787Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4753,7 +4753,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_4_1_-min_3e9f873a-e451-4bdd-97fc-592b381968c2_2_1.jpg?v=1754661030
   Price: £0.99 GBP
 - [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant
-  Updated: 2025-09-27T06:24:20Z
+  Updated: 2025-09-27T20:15:55Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
