@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-27T16:00:31.289Z
+- Updated At: 2025-09-28T04:00:32.196Z
 
 ## Products
 
@@ -1179,7 +1179,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Exact-2.jpg?v=1751478468
   Price: ₹1,280.00 INR
 - [Buy ​Samso Plush Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-plush): Glass Top LCD Display Battery and Ambient Temperature display Ideal Height & Weight Chart Printed - Surgismart
-  Updated: 2025-08-13T07:38:41Z
+  Updated: 2025-09-27T18:16:05Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
@@ -2053,7 +2053,7 @@
     Availability: Available
     Price: ₹9,408.00 INR
 - [Buy ​Medvance Cotton Compression Stockings for Varicose Veins Class 2 (Pair) - Surgismart](https://surgismart.in/products/medvance-compression-stockings-class-ii): Immediate Relief and Comfort: Experience immediate relief from pain and swelling with Medvance Cotton Compression Stockings, specifically designed for the treatment of varicose veins. Our open-toe design in a subtle beige color offers Class 2 compression (23mmHg - 32mmHg), ensuring effective support and comfort throughout the day. Versatile Sizing: Medvance compression stockings are available in a wide range of sizes including Small, Medium, Large, X-Large, XX-Large, and XXX-Large, ensuring a perfect fit for everyone. Unisex design makes them suitable for both women and men. Premium Cotton Material: Crafted from high-quality cotton, Medvance stockings are designed to be cool in summer and warm in winter, providing year-round comfort. The breathable fabric absorbs sweat, prevents odors, and keeps your skin free from itching, irritation, and rashes. The durable cotton material guarantees long-lasting use. Perfect for Indian Climate: Specifically suited for hot and humid Indian weather, our compression stockings offer excellent breathability and moisture management, keeping your legs comfortable and dry even during extended wear. How to Wear: Check out our easy-to-follow instructional video in the images section to learn how to wear and care for your Medvance compression stockings. We provide clear washing instructions and helpful tips to ensure you get the most out of your purchase. Enhanced Features: Targeted Compression: Provides graduated compression with a uniform reduction from bottom to top, ensuring optimal support for varicose veins, spider veins, swelling, and more. Anatomical Fit: The anatomical shape offers a perfect fit and uniform compression, even on uneven limb surfaces. Silicone Top Band: Ensures no slippage and provides a secure grip for all-day comfort. Open Toe Design: Facilitates easy wearing and reduces wear and tear. Durability: Made from strong, durable materials for a long functional life. Applications: Ideal for individuals suffering from varicose veins, spider veins, swelling, or those who require daily support for improved blood circulation. Perfect for use during travel, for pregnant women, or anyone who spends long periods sitting or standing. Quality You Can Trust: At Medvance, we are committed to providing premium quality compression stockings. Our products combine natural and synthetic fibers to offer superior comfort, durability, and effectiveness, without the use of any animal products. - Surgismart
-  Updated: 2025-08-13T07:38:19Z
+  Updated: 2025-09-28T00:08:08Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
@@ -3248,7 +3248,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-27T12:31:24Z
+  Updated: 2025-09-28T00:30:05Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3302,7 +3302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_6a708753-31c2-4597-8fbf-3c9e58548ba7.png?v=1755347000
     Price: ₹799.00 INR
   - [Wine / L](https://surgismart.in/products/classic-scrub-suit?variant=50570710614296)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/8_8609ab1d-e7af-49e9-9cbc-d1c9eaa1f150.png?v=1755347000
     Price: ₹799.00 INR
   - [Wine / XL](https://surgismart.in/products/classic-scrub-suit?variant=50570710647064)
