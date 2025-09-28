@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-28T00:01:14.709Z
+- Updated At: 2025-09-28T04:01:11.287Z
 
 ## Products
 
@@ -10485,7 +10485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-training-treat-venison-10-x-75g-natural-treats-247711.jpg?v=1741090705
   Price: £27.66 GBP
 - [Hollings 100% Meat Treat Beef 12 x 100g](https://veryimportantpets.shop/products/hollings-100-meat-treat-beef-12-x-100g): Hollings Treat Strips with Beef Display Box. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:03Z
+  Updated: 2025-09-28T00:28:27Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -13366,7 +13366,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-new-bio-degradable-bags-12-x-40-poop-156807.jpg?v=1701337919
   Price: £13.62 GBP
 - [Plastic Free Poo Bags: Compostable, Waterproof, Ethical](https://veryimportantpets.shop/products/ancol-paws-for-the-earth-plastic-free-poo-bags-96-bags-x-6): Eco-friendly Ancol Paws for the Earth Plastic Free Poo Bags made from compostable vegetable extracts. Thick, strong, waterproof, and biodegradable.
-  Updated: 2025-09-24T13:28:21Z
+  Updated: 2025-09-28T02:50:58Z
   Vendor: Ancol
   Product Type: Poop
   Availability: Available
@@ -23071,7 +23071,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/ancol-raised-twin-bowl-cat-feeder-cat-bowls-and-feeding-260438.jpg?v=1724722117
   Price: £14.46 GBP
 - [Felix Tasty Nuggets Beef & Lamb Cat Treats 8-pack 50g](https://veryimportantpets.shop/products/felix-tasty-nuggets-beef-lamb-cat-treats-8-x-50g): Give your cat a delicious treat with Felix Tasty Nuggets Beef & Lamb. Packed with protein and vitamins, it's the perfect snack for in between meals.
-  Updated: 2025-09-24T22:28:25Z
+  Updated: 2025-09-28T03:23:34Z
   Vendor: Felix
   Product Type: 
   Availability: Available
