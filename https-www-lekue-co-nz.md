@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-09-27T04:00:29.514Z
+- Updated At: 2025-09-28T00:00:28.108Z
 
 ## Products
 
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/ReusablePipingBagSetwith3Nozzles-Transparent-8710755883729Lekue_96dpi_1000x1000px_7_NR-33033.png?v=1737412472
   Price: $32.98 NZD
 - [Sourdough Starter Set](https://www.lekue.co.nz/products/sourdough-starter-set): With this practical kit, it's easy to make your own sourdough at home. This starter kit contains: two glass jars and a spatula. Each jar includes a lid with a valve to vent the gases, a silicone strip that acts as a marker, and a silicone ring which you can use to track the dough as it rises. It also includes a brochure detailing how to use it, and three delicious recipes to use the sourdough, including one for pizza dough. Features It's no longer a secret that sourdough bread is much more nutritious since this yeast is 100% natural! Pizza, bread, desserts, and many other delicious oven-baked goods, taste great and are healthier for you when made with sourdough. Discover how to make real sourdough in your kitchen easily and cleanly. With it, you can prepare loads of recipes to enjoy real bread again. And don't forget, the world's best bread is in your own kitchen! Take care of your intestinal well-being by baking homemade sourdough bread. In sourdough, a bacterial population creates acids, which is why sourdough bread is easier to digest.
-  Updated: 2025-09-19T04:48:56Z
+  Updated: 2025-09-27T20:10:56Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
