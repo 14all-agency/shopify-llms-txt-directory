@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-28T00:00:47.133Z
+- Updated At: 2025-09-28T04:00:48.645Z
 
 ## Products
 
@@ -8326,13 +8326,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/RomanGreen_CribSheet_Folded_1080x_720x_112def3a-bac8-44ab-9b70-9c6ee3a1d3da.webp?v=1712877823
   Price: $59.00 NZD
-- [MUSHIE Crib Sheet - Fog](https://www.littlebambinos.co.nz/products/mushie-crib-sheet-fog): Made from 100% cotton, our cozy, extra soft muslin crib and bassinet sheet is pre-washed for softness against baby's delicate skin. Muslin stays breathable while keeping your baby warm and cuddly. The sheets are fully elastic and allow for easy removal, as well as a perfect fit after wash.Wash before use. Machine washable.Crib Sheet fits standard size crib: 132 x 71 x 22cm Bassinet Sheet fits any European standard sized bassinet: 100 x 40 x 10cm
-  Updated: 2025-08-06T22:38:39Z
-  Vendor: Mushie
-  Product Type: Crib Sheet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Fog_CribSheet_folded_1379x_720x_c7d90149-04d8-4f07-86b3-478c3f22259b.webp?v=1712877462
-  Price: $59.00 NZD
 - [MUSHIE Crib Sheet - Blush](https://www.littlebambinos.co.nz/products/mushie-crib-sheet-blush): Made from 100% cotton, our cozy, extra soft muslin crib and bassinet sheet is pre-washed for softness against baby's delicate skin. Muslin stays breathable while keeping your baby warm and cuddly. The sheets are fully elastic and allow for easy removal, as well as a perfect fit after wash.Wash before use. Machine washable.Crib Sheet fits standard size crib: 132 x 71 x 22cm Bassinet Sheet fits any European standard sized bassinet: 100 x 40 x 10cm
   Updated: 2025-08-06T22:38:40Z
   Vendor: Mushie
@@ -11417,7 +11410,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/naturalframe.jpg?v=1737426544
     Price: $1,354.00 NZD
 - [TOPSY TURVY Disc Swing](https://www.littlebambinos.co.nz/products/disc-swing): Add another dynamic to your Swedish Ladder with friends and family as you enjoy our new disc swing. Crafted from safe wood materials, our swing ensures a secure and joyful play experience for children. Our disc swing seat features a comfortable design, with a diameter of 30cm and a rope length of 200cm, providing peace of mind for parents while their little ones play.
-  Updated: 2025-08-06T22:40:44Z
+  Updated: 2025-09-28T03:22:43Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -12530,7 +12523,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [KONGES SLOJD Minnie Newborn Onesie - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge): Soft pointelle onesie. Designed with snap buttons at the shoulder and crotch for easy dressing.
-  Updated: 2025-09-14T03:33:35Z
+  Updated: 2025-09-28T01:12:47Z
   Vendor: Konges slojd
   Product Type: Onesie
   Availability: Available
@@ -12542,7 +12535,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
   - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge?variant=41419305648222)
-    Availability: Available
+    Availability: Not Available
     Price: $89.00 NZD
   - [6m](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-newborn-onesie-amour-rouge?variant=41988685693022)
     Availability: Available
@@ -13257,7 +13250,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-09-27T21:02:40Z
+  Updated: 2025-09-28T01:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13284,7 +13277,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/all_body_oil.jpg?v=1743995371
     Price: $75.00 NZD
 - [ORIA SKIN Overnight Firming Cream](https://www.littlebambinos.co.nz/products/overnight-firming-cream): 100% Natural Minimise lines.Restore plumpness.Bring balance. Formulated for all stages of life, let the natural bioactives work their magic while you sleep. Wake up to plumper, smoother & happier skin thanks to the hormone-friendly ingredients, organic jasmine, avocado oil & aloe; The natural way to rejuvenate your skin & preserve your glow. How it works: Marine actives that instantly hydrate your face in 15 minutes Notice plumper, firmer skin in 14 days. Repeated use will prolong and improve results, reducing the visibility of fine lines and wrinkles Rose essential oil is a regenerative oil, helping skin become more elastic, hydrated and suitable for sensitive and dry skin. How to use Apply nightly to face & neck in upward strokes. Follow with the Oria Skin Rejuvenating Face Oil. Useful to apply extra around eyes, and neck skin. Select Rose if you are pregnant** Ingredients Overnight Firming Cream 65g (square box) Aloe barbadensis (aloe vera) leaf juice*, Persea gratissima (avocado) oil*, Helianthus annuus (sunflower) seed oil*, Butyrospermum parkii (shea butter)*, Theobroma cacao (cocoa) seed butter*,Sarcothalia circumcincta (Red seaweed), Cyathea medullaris leaf extract (Black fern), Gluconolactone, Sodium benzoate, Potassium sorbate, Calcium gluconate, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Camellia oleifera seed oil*, Totarol* (fallen Totora tree extract) Rosa damascena (Rose essential Oil). *organic
-  Updated: 2025-09-27T21:10:41Z
+  Updated: 2025-09-28T00:54:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13572,7 +13565,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.70 NZD
 - [WILSON & FRENCHY Organic Knitted Cable Jacket - Cookie and Cream](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream): Introducing our cosy knitted jacket with a hood and adorable bear ears. Made of a luxurious blend of organic cotton, bamboo, and wool, this jacket features a button front opening and a cable design on the front. Stay warm this winter with our baby-friendly design. DETAILS Bear ears detail, front button opening, mock wood buttons, cotton, bamboo, wool blend, packaged in a bio-degradable bag.
-  Updated: 2025-08-17T16:38:51Z
+  Updated: 2025-09-28T01:55:47Z
   Vendor: Wilson & Frenchy
   Product Type: Jacket
   Availability: Available
@@ -13584,7 +13577,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.70 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream?variant=41647421161566)
-    Availability: Available
+    Availability: Not Available
     Price: $69.70 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-cookie-and-cream-organic-knitted-cable-jacket-cookie-and-cream?variant=41647421194334)
     Availability: Not Available
@@ -15579,7 +15572,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-27T23:42:41Z
+  Updated: 2025-09-28T00:22:41Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
@@ -15805,7 +15798,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-27T23:43:12Z
+  Updated: 2025-09-28T03:43:12Z
   Total Products: 400
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16657,8 +16650,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-27T23:43:12Z
-  Total Products: 1294
+  Updated: 2025-09-28T03:43:12Z
+  Total Products: 1293
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-25T21:23:18Z
   Total Products: 501
