@@ -6,23 +6,23 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
 - Contact Email: moonlitdragoninteractive@gmail.com
-- Updated At: 2025-09-27T23:44:34.125Z
+- Updated At: 2025-09-28T20:00:28.019Z
 
 ## Products
 
-- [Ultimate Blueprint Generator AI](https://gamedevcore.com/products/ultimate-blueprint-generator-ai): Bring your gameplay ideas to life without the technical hurdles. The Ultimate Blueprint Generator is a powerful but easy-to-use AI assistant that lets anyone, from artists to senior developers, create Blueprints from simple text in Unreal Engine. Click to purchase on the Fab Marketplace and unleash your creativity.
-  Updated: 2025-09-27T23:44:12Z
+- [Ultimate AI Blueprint Generator - Design Made Easy](https://gamedevcore.com/products/ultimate-blueprint-generator-ai): Discover the power of our AI blueprint generator. It's never been easier to make games in Unreal Engine even as a beginner. Try it today!
+  Updated: 2025-09-28T18:33:41Z
   Vendor: GameDevCore
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/newthumbnail.png?v=1759008917
+  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/newthumbnail.png?v=1759017172
   Price: €140.00 EUR
-- [Ultimate Difficulty Scaling](https://gamedevcore.com/products/ultimate-difficulty-scaling): Tired of spaghetti Blueprints for difficulty scaling? Me too. This is the fix. Stop wrestling with endless Branch nodes. Ultimate Difficulty Scaling gives you one clean, central editor to control any variable, in any Blueprint, for any difficulty level. Balance your game in minutes, not days. It's the tool you've always wished you had.
-  Updated: 2025-09-27T23:44:23Z
+- [Ultimate Difficulty Scaling in Game Design](https://gamedevcore.com/products/ultimate-difficulty-scaling): Discover the importance of difficulty scaling in game design. Learn how it enhances player experience and keeps engagement high.
+  Updated: 2025-09-28T11:59:07Z
   Vendor: GameDevCore
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/UDSlogonew.png?v=1759016177
+  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/UDSlogonew.png?v=1759017172
   Price: €35.00 EUR
 
 ## Collections
