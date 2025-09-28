@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-09-05T05:49:56Z
 - Contact Email: sales@ultraiser.com
-- Updated At: 2025-09-26T20:00:28.247Z
+- Updated At: 2025-09-28T04:00:29.718Z
 
 The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine designed for home use, focusing on anti-aging and skin smoothing treatments. It is available for purchase online.
 
