@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-28T16:00:40.330Z
+- Updated At: 2025-09-28T20:00:38.823Z
 
 ## Products
 
@@ -823,7 +823,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-crimp-hats-blue-530mm-wide-12gsm-1000-pieces-head-protection-essential-supplies-384689.jpg?v=1719445576
   Price: $79.00 NZD
 - [Polypropylene Crimp Hats - Green, 530mm Wide, 12gsm - 1000 Pieces](https://essentialsupplies.co.nz/products/polypropylene-crimp-hats-green-530mm-wide-12gsm-1000): Disposable crimp hats made from skin friendly polypropylene material to provide complete head coverage while maintaining breathability.Featuring an elasticised fit designed for shorter/smaller hairstyles to deter the transfer of hair and skin particles in a hygienic environment. Made from skin friendly polypropylene material Elasticised fit designed for shorter/smaller hairstyles 530mm 12gsm Colour: Green Pack:1000 pieces
-  Updated: 2025-01-17T00:13:45Z
+  Updated: 2025-09-28T18:19:02Z
   Vendor: Mattews Packaging
   Product Type: Head Protection
   Availability: Available
@@ -7084,7 +7084,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dg-label-flammable-gas-21-redwhite-99mm-x-99mm-500-labels-dangerous-goods-labels-essential-supplies-141489.jpg?v=1719444950
   Price: $35.00 NZD
 - [DG Label Non Flammable Compressed Gas 2.2 - Green/White, 99mm x 99mm - 500 Labels](https://essentialsupplies.co.nz/products/dg-label-non-flammable-compressed-gas-2-2-green-white-99mm-x-99mm-500)
-  Updated: 2025-02-17T23:34:54Z
+  Updated: 2025-09-28T19:53:57Z
   Vendor: Mattews Packaging
   Product Type: Dangerous Goods Labels
   Availability: Available
