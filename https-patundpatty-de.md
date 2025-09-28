@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-27T20:00:31.215Z
+- Updated At: 2025-09-28T12:00:31.663Z
 
 ## Products
 
@@ -1110,7 +1110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Schaf-Waermekissen-Bio-Komfort-PAT-Und-PATTY.jpg?v=1753013133
     Price: 32,50 € EUR
 - [Personalisierter Bio Hund Neo – handgemacht & nachhaltig | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-hund-neo): Bio Schmusetuch Hund – aus 100 % Bio-Baumwolle, weich und nachhaltig. Perfekt zum Kuscheln und als besonderes Geschenk. Jetzt bestellen und Freude verschenken!
-  Updated: 2025-08-22T11:54:34Z
+  Updated: 2025-09-28T10:16:35Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1134,21 +1134,21 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / beige / ohne](https://patundpatty.de/products/bio-schmusetuch-hund-neo?variant=45518002422028)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Hund-Neo-Kuscheltuch-Baby-PAT-Und-PATTY.jpg?v=1753000784
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / beige / mit](https://patundpatty.de/products/bio-schmusetuch-hund-neo?variant=45602139570444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Hund_Neo_-_PAT_PATTY-4832070.jpg?v=1730654114
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / hellbraun / ohne](https://patundpatty.de/products/bio-schmusetuch-hund-neo?variant=45602139603212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Hund-Neo-Kuscheltuch-Baby-PAT-Und-PATTY.jpg?v=1753000784
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / hellbraun / mit](https://patundpatty.de/products/bio-schmusetuch-hund-neo?variant=45602139635980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Hund_Neo_-_PAT_PATTY-4832070.jpg?v=1730654114
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisierbares Bio Schmusetuch Pferd – nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-pferd): Bio Schmusetuch Pferd von Pat & Patty – aus 100% Bio-Baumwolle, weich und nachhaltig. Perfekt zum Kuscheln und Schmusen. Jetzt kaufen und Freude verschenken!
-  Updated: 2025-08-22T11:54:34Z
+  Updated: 2025-09-28T09:49:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1172,42 +1172,43 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / beige / ohne](https://patundpatty.de/products/bio-schmusetuch-pferd?variant=45518034600204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Personalisiertes-Bio-Schmusetuch-Pferd-GOTS-Zertifiziert-PAT-Und-PATTY.jpg?v=1752998266
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / beige / mit](https://patundpatty.de/products/bio-schmusetuch-pferd?variant=45602322514188)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Pferd_-_PAT_PATTY-4832181.jpg?v=1730205853
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / messing / ohne](https://patundpatty.de/products/bio-schmusetuch-pferd?variant=45518034632972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Personalisiertes-Bio-Schmusetuch-Pferd-GOTS-Zertifiziert-PAT-Und-PATTY.jpg?v=1752998266
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / messing / mit](https://patundpatty.de/products/bio-schmusetuch-pferd?variant=45602322546956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Pferd_-_PAT_PATTY-4832181.jpg?v=1730205853
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisierbares Bio Schmusetuch Esel Grau – Weich | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-esel): Weiches, personalisierbares Bio Schmusetuch „Esel“ in Grau. Nachhaltig hergestellt aus 100 % Bio-Baumwolle. Jetzt Lieblingskuscheltuch sichern!
-  Updated: 2025-09-22T11:12:46Z
+  Updated: 2025-09-28T09:41:04Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Esel-Baby-Kuscheltier-PAT-Und-PATTY.jpg?v=1752838227
   - [Bio Schmusetuch nicht personalisiert / ohne](https://patundpatty.de/products/bio-schmusetuch-esel?variant=45518118748428)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Esel-Baby-Kuscheltier-PAT-Und-PATTY.jpg?v=1752838227
     Price: 22,50 € EUR
   - [Bio Schmusetuch nicht personalisiert / mit](https://patundpatty.de/products/bio-schmusetuch-esel?variant=45601876148492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Esel_-_PAT_PATTY-4831824.jpg?v=1730654007
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Esel-Baby-Kuscheltier-PAT-Und-PATTY.jpg?v=1752838227
     Price: 26,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-esel?variant=45518118781196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Esel-Bio-Schmusetuch-Baby-GOTS-Zertifiziert-PAT-Und-PATTY.jpg?v=1752842858
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-esel?variant=45601876181260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Esel_-_PAT_PATTY-4831824.jpg?v=1730654007
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisiertes Bio Schmusetuch Eisbär – weich & fair | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-eisbaer): Personalisiertes Bio Schmusetuch Eisbär – weich, schadstofffrei & handgemacht. Perfekt als Geschenk. Jetzt bei PAT&PATTY entdecken und bestellen!
-  Updated: 2025-08-22T11:54:35Z
+  Updated: 2025-09-28T10:50:46Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1223,13 +1224,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-eisbaer?variant=45518139162892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Weiches-Bio-Schmusetuch-Eisbaer-Baby-PAT-Und-PATTY.jpg?v=1752736883
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-eisbaer?variant=45601795539212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Eisbar_-_PAT_PATTY-4831736.jpg?v=1730653888
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisierbares Bio Schmusetuch Einhorn – nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-einhorn): Bio Schmusetuch Storch – aus 100 % Bio-Baumwolle, weich und nachhaltig. Ideal zum Kuscheln & als Geschenk. Jetzt bestellen und ein besonderes Geschenk erhalten!
-  Updated: 2025-09-04T18:32:11Z
+  Updated: 2025-09-28T10:21:08Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1245,13 +1246,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-einhorn?variant=45518169669900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Einhorn-Kuscheltier-Baby-PAT-Und-PATTY.jpg?v=1752570863
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-einhorn?variant=45601687142668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Einhorn_-_PAT_PATTY-4831697.jpg?v=1730653447
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisiertes Bio Schmusetuch Fliegenpilz – weich | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-fliegenpilz): Personalisiertes Bio Schmusetuch Fliegenpilz – weich, schadstofffrei & handgemacht. Perfekt als Geschenk. Jetzt bei PAT&PATTY entdecken und bestellen!
-  Updated: 2025-08-22T11:54:35Z
+  Updated: 2025-09-28T10:49:39Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1267,13 +1268,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-fliegenpilz?variant=45518173962508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Fliegenpilz-Aus-Baumwolle-GOTS-PAT-Und-PATTY.jpg?v=1752570518
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-fliegenpilz?variant=45601960558860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Fliegenpilz_-_PAT_PATTY-4831942.jpg?v=1730653256
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisierbares Bio Schmusetuch Schaf – weich | PAT & PATTY](https://patundpatty.de/products/bio-schnuffeltuch-schaf): Bio Schmusetuch Schaf – aus 100 % Bio-Baumwolle, weich & nachhaltig. Perfekt zum Kuscheln und als besonderes Geschenk. Jetzt bestellen und Freude verschenken!
-  Updated: 2025-08-22T11:54:35Z
+  Updated: 2025-09-28T10:28:18Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1297,21 +1298,21 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / rosa / ohne](https://patundpatty.de/products/bio-schnuffeltuch-schaf?variant=45518199554316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schaf-Schnuffeltuch-F_r-Babys-PAT-Und-PATTY.jpg?v=1752570166
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / rosa / mit](https://patundpatty.de/products/bio-schnuffeltuch-schaf?variant=45602557526284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schnuffeltuch_Schaf_-_PAT_PATTY-4832546.jpg?v=1730653168
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / hellblau / ohne](https://patundpatty.de/products/bio-schnuffeltuch-schaf?variant=45518199619852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schaf-Schnuffeltuch-F_r-Babys-PAT-Und-PATTY.jpg?v=1752570166
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / hellblau / mit](https://patundpatty.de/products/bio-schnuffeltuch-schaf?variant=45602557559052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schnuffeltuch_Schaf_-_PAT_PATTY-4832546.jpg?v=1730653168
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisiertes Bio Schmusetuch Löwe – weich & nachhaltig | PAT&PATTY](https://patundpatty.de/products/bio-schnuffeltuch-loewe): Personalisiertes Bio Schmusetuch Löwe – weich, schadstofffrei & handgemacht. Perfekt als Geschenk. Jetzt bei PAT&PATTY entdecken und bestellen!
-  Updated: 2025-09-22T18:06:40Z
+  Updated: 2025-09-28T09:41:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1327,13 +1328,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schnuffeltuch-loewe?variant=45518435352844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/GOTS-Zertifiziertes-Loewe-Bio-Schnuffeltuch-Fuer-Babys-PAT-Und-PATTY.jpg?v=1752568726
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schnuffeltuch-loewe?variant=45602539274508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/GOTS-Zertifiziertes-Loewe-Bio-Schnuffeltuch-Fuer-Babys-PAT-Und-PATTY.jpg?v=1752568726
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisierbares Bio Schmusetuch Biene Gestreift | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-biene): Weiches, personalisierbares Bio Schmusetuch Biene safarn mit schwarzem Streifen – perfekt zum Kuscheln. Jetzt individuell gestalten und online bestellen!
-  Updated: 2025-08-22T11:54:35Z
+  Updated: 2025-09-28T10:22:49Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1349,13 +1350,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-biene?variant=45521667784972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Handgefertigtes-Bio-Schmusetuch-Mit-Bienenmotiv-Von-PAT-Und-PATTY.jpg?v=1752568277
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-biene?variant=45602424422668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Umweltfreundliches-Baby-Schmusetuch-Mit-Bienenmotiv-Handgefertigt-Von-PAT-Und-PATTY.jpg?v=1752568406
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Bio Schmusetuch Marienkäfer Rot – Personalisiert | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-marienkaefer): Personalisierte Bio Schmusetuch Marienkäfer – aus 100 % Bio-Baumwolle, weich & nachhaltig. Ideal zum Kuscheln. Jetzt bestellen & ein besonderes Geschenk machen!
-  Updated: 2025-08-22T11:54:35Z
+  Updated: 2025-09-28T10:01:11Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1371,13 +1372,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-marienkaefer?variant=45522063687948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Baby-Schmusetuch-Marienkaefer-GOTS-Zertifiziert-Weich-Von-PAT-Und-PATTY.jpg?v=1752567821
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-marienkaefer?variant=45602497298700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltiges-Baby-Schmusetuch-Marienkaefer-Mit-Naturtextur-PAT-Und-PATTY.jpg?v=1752567934
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisierte Bio Schmusetuch Wildschwein in Braun | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-wildschwein): Personalisiertes Bio Schmusetuch Wildschwein von Pat & Patty – aus 100 % Bio-Baumwolle, weich, nachhaltig und ideal zum Kuscheln. Jetzt bestellen!
-  Updated: 2025-08-29T18:53:46Z
+  Updated: 2025-09-28T09:51:25Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1393,13 +1394,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-wildschwein?variant=45522081186060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Wildschwein-Pat-und-Patty-Handgemacht.jpg?v=1752566567
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-wildschwein?variant=45602413150476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Wildschwein-PAT-und-PATTY-Naturtextil.jpg?v=1752566626
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Bio Schmusetuch Schwein Rosa – Weich & Nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-schwein): Weiches Bio Schmusetuch Schwein in Rosa – perfekt für Babys. Nachhaltig und liebevoll gefertigt. Jetzt personalisierbar! Hol dir dein individuelles Kuscheltuch!
-  Updated: 2025-09-26T20:13:46Z
+  Updated: 2025-09-28T09:44:48Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1415,13 +1416,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-schwein?variant=45522100125964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch-Schnuffeltuch_Schwein_-_PAT_PATTY-4832419.jpg?v=1742145297
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-schwein?variant=45602512240908)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Schwein-Pluesch-GOTS-Baumwolle-PAT-Und-PATTY.jpg?v=1752493211
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisiertes Bio Schmusetuch Elefant – sanft & fair | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-elefant): Personalisierte Bio Schmusetuch Elefant von Pat & Patty – aus 100 % Bio-Baumwolle. Weich, nachhaltig & ideal zum Kuscheln. Jetzt bestellen und Freude schenken!
-  Updated: 2025-09-17T06:32:07Z
+  Updated: 2025-09-28T09:46:50Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1445,21 +1446,21 @@
   - [Bio Schmusetucher personalisiert mit Wunschname / rosa / ohne](https://patundpatty.de/products/bio-schmusetuch-elefant?variant=45523360055564)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Elefant-Aus-Bio-Baumwolle-Handgemacht-PAT-Und-PATTY.jpg?v=1752492588
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / rosa / mit](https://patundpatty.de/products/bio-schmusetuch-elefant?variant=45601835614476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Elefant-GOTS-Naturtextil-Handgefertigt-PAT-Und-PATTY.jpg?v=1752492531
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / eisblau / ohne](https://patundpatty.de/products/bio-schmusetuch-elefant?variant=45523360088332)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Elefant-Aus-Bio-Baumwolle-Handgemacht-PAT-Und-PATTY.jpg?v=1752492588
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / eisblau / mit](https://patundpatty.de/products/bio-schmusetuch-elefant?variant=45601835647244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Elefant-GOTS-Naturtextil-Handgefertigt-PAT-Und-PATTY.jpg?v=1752492531
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Schmusetuch Waschbär Bio – personalisiert & nachhaltig | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-waschbar): Handgefertigtes Bio Schmusetuch Waschbär mit Name personalisierbar. Nachhaltige GOTS-Baumwolle, weich, waschbar – ideales Geschenk zur Geburt oder Taufe.
-  Updated: 2025-09-19T06:20:48Z
+  Updated: 2025-09-28T10:02:56Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1475,13 +1476,13 @@
   - [Bio Schmusetuch personalisiert  mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-waschbar?variant=45523822280972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Waschbaer-GOTS-Baumwolle-Handgemacht-PAT-Und-PATTY.jpg?v=1752491350
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert  mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-waschbar?variant=45602394472716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbaer-Schmusetuch-Bio-Baumwolle-GOTS-Zertifiziert-PAT-Und-PATTY.jpg?v=1752491296
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisiertes Bio Schmusetuch Fuchs – weich & fair | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-fuchs): Personalisierte Bio Schmusetuch Fuchs von Pat & Patty – aus 100 % Bio-Baumwolle. Weich, nachhaltig & perfekt zum Kuscheln. Jetzt bestellen und Freude schenken!
-  Updated: 2025-08-22T11:54:36Z
+  Updated: 2025-09-28T09:59:40Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1497,13 +1498,13 @@
   - [Bio Schmusetucher personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-fuchs?variant=45523846365452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Personalisiertes-Bio-Schmusetuch-Gans-Handgemacht-Babygeschenk-PAT-Und-PATTY.jpg?v=1752491733
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-fuchs?variant=45601993883916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Gans-Verpackt-Geschenk-Handgemacht-Pat-Und-Patty.jpg?v=1751889521
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Eule – fair & einzigartig | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-eule): Personalisiertes Bio-Schmusetuch Eule – weich, einzigartig & schadstofffrei. Handgemacht mit Namen. Jetzt bei PAT&PATTY entdecken & bestellen!
-  Updated: 2025-09-23T21:42:09Z
+  Updated: 2025-09-28T09:56:27Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1535,29 +1536,29 @@
   - [Bio Schmusetucher personalisiert mit Wunschname / eisblau / ohne](https://patundpatty.de/products/bio-schmusetuch-eule?variant=45523871432972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/GOTS-Zertifiziertes-Bio-Schmusetuch-Eule-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1758620516
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / eisblau / mit](https://patundpatty.de/products/bio-schmusetuch-eule?variant=45601910489356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Eule-Mit-GOTS-Zertifikat-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1758620516
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / rosa / ohne](https://patundpatty.de/products/bio-schmusetuch-eule?variant=45523871465740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/GOTS-Zertifiziertes-Bio-Schmusetuch-Eule-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1758620516
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / rosa / mit](https://patundpatty.de/products/bio-schmusetuch-eule?variant=45601910522124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Eule-Mit-GOTS-Zertifikat-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1758620516
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / hellblau / ohne](https://patundpatty.de/products/bio-schmusetuch-eule?variant=45523871400204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/GOTS-Zertifiziertes-Bio-Schmusetuch-Eule-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1758620516
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / hellblau / mit](https://patundpatty.de/products/bio-schmusetuch-eule?variant=45601910456588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Eule-Mit-GOTS-Zertifikat-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1758620516
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Bio Schmusetuch Storch – Weich & Handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-storch): Bio Schmusetuch Storch – aus 100 % Bio-Baumwolle, weich und nachhaltig. Perfekt zum Kuscheln und als besonderes Geschenk. Jetzt bestellen und Freude verschenken
-  Updated: 2025-08-29T18:55:51Z
+  Updated: 2025-09-28T10:15:26Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1573,13 +1574,13 @@
   - [Bio Schmusetuch personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-storch?variant=45523916652812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Storch-Schnuffeltuch-Personalisiert-Baby-PAT-Und-PATTY.jpg?v=1752484468
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetuch personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-storch?variant=45602368422156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Storch-Baby-Schlafbegleiter-GOTS-PAT-Und-Patty.jpg?v=1752484593
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Bio Schmusetuch Frosch aus Baumwollplüsch – weich & fair | PAT&PATTY](https://patundpatty.de/products/bio-schmusetuch-frosch-schnuffeltuch): Bio Schmusetuch Frosch aus Baumwollplüsch – kuschelweich, handgemacht & schadstofffrei. Jetzt bei PAT&PATTY entdecken und sicher online bestellen!
-  Updated: 2025-08-22T11:54:36Z
+  Updated: 2025-09-28T10:24:01Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1595,11 +1596,11 @@
   - [Bio Schmusetucher personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-frosch-schnuffeltuch?variant=45524875870476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Frosch-Schnuffeltuch-Baby-GOTS-Zertifiziert-Von-Pat-Und-Patty.jpg?v=1752389022
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-frosch-schnuffeltuch?variant=45601973469452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/GOTS-Bio-Schnuffeltuch-Frosch-F_r-Babys-Von-Pat-Und-Patty.jpg?v=1752388927
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Bio Mini Rassel Frosch – 100 % Baumwolle kbA | PAT & PATTY](https://patundpatty.de/products/bio-mini-rassel-frosch): Entdecke die Bio Mini Rassel „Frosch“ aus 100 % Baumwolle kbA – weich, waschbar & ideal für Babys. Natürlich & handgemacht. Jetzt bei PAT & PATTY kaufen!
   Updated: 2025-08-22T11:54:36Z
   Vendor: PAT & PATTY
@@ -1980,30 +1981,30 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich & atmungsaktiv | PAT & PATTY](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Natürliche Bio Hirsespelz Kissenfüllung – atmungsaktiv, nachhaltig & schadstofffrei. Für gesunden Schlaf. Jetzt bei PAT & PATTY entdecken und bestellen!
-  Updated: 2025-09-24T09:34:32Z
+  Updated: 2025-09-28T09:29:26Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304368
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
   - [1000 gr. (ca. 7 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908518668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304368
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
     Price: 9,90 € EUR
   - [2000 gr. (ca. 14 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908551436)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Hirsespelz_Hirsespreu_Hirseschalen_kbA_PAT_PATTY_kissen_fuellung.jpg?v=1749305772
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Hirsespelz_Hirsespreu_Hirseschalen_kbA_PAT_PATTY_kissen_fuellung.jpg?v=1759051740
     Price: 18,00 € EUR
   - [3000 gr. (ca. 21 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908584204)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304368
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
     Price: 26,00 € EUR
   - [5000 gr. (ca.35 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908616972)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304368
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
     Price: 42,50 € EUR
   - [10 kg (ca. 70 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908649740)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Weich-Naturf_llung-Hirseschalen-KbA-PAT-Und-PATTY.jpg?v=1752304446
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Weich-Naturf_llung-Hirseschalen-KbA-PAT-Und-PATTY.jpg?v=1759051765
     Price: 76,00 € EUR
 - [Bio Kuscheltier Einhorn Rosé – weiches Spielzeug | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-einhorn-rose): Bio Kuscheltier Einhorn Rosé aus Bio-Baumwolle/GOTS zertifiziert – weich, liebevoll handgemacht und perfekt zum Kuscheln. Jetzt online kaufen bei Pat & Patty!
   Updated: 2025-08-21T13:22:14Z
@@ -2371,7 +2372,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waermeflasche-Hase-Bio-Baumwolle-Pluesch-Waermer-Pat-Und-Patty.jpg?v=1751890196
   Price: 39,95 € EUR
 - [Bio Schmusetuch Hase personalisierbar und nachhaltig genäht](https://patundpatty.de/products/bio-schmusetutuch-hase): Das Bio Schmusetuch Hase von PAT & PATTY: kuschelig weich aus Bio-Baumwolle mit Maiswatte, waschbar, personalisierbar und nachhaltig – ein ideales Babygeschenk.
-  Updated: 2025-09-25T19:07:37Z
+  Updated: 2025-09-28T09:43:03Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2387,13 +2388,13 @@
   - [Bio Schmusetucher personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetutuch-hase?variant=54288265642252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Personalisiertes-Bio-Schmusetuch-Gans-Handgemacht-Babygeschenk-PAT-Und-PATTY.jpg?v=1752491733
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetutuch-hase?variant=54288265675020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Gans-Verpackt-Geschenk-Handgemacht-Pat-Und-Patty.jpg?v=1751889521
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Bio Schmusetuch Gans personalisierbar und nachhaltig genäht](https://patundpatty.de/products/bio-schmusetuch-gans): Das Bio Schmusetuch Gans von PAT & PATTY: aus Bio-Baumwolle mit Maiswatte, weich, waschbar, personalisierbar & nachhaltig – ein liebevolles Geschenk für Babys.
-  Updated: 2025-09-25T19:01:47Z
+  Updated: 2025-09-28T09:40:06Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2409,11 +2410,11 @@
   - [Bio Schmusetucher personalisiert mit Wunschname / ohne](https://patundpatty.de/products/bio-schmusetuch-gans?variant=54288299786508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Personalisiertes-Bio-Schmusetuch-Gans-Handgemacht-Babygeschenk-PAT-Und-PATTY.jpg?v=1752491733
-    Price: 26,50 € EUR
+    Price: 29,50 € EUR
   - [Bio Schmusetucher personalisiert mit Wunschname / mit](https://patundpatty.de/products/bio-schmusetuch-gans?variant=54288299819276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Gans-Verpackt-Geschenk-Handgemacht-Pat-Und-Patty.jpg?v=1751889521
-    Price: 30,50 € EUR
+    Price: 32,50 € EUR
 - [Schultüte Drache aus Plüsch besonders stark & angenehm weich](https://patundpatty.de/products/schultute-aus-stoff-drache): Die Schultüte „Drache“ von PAT & PATTY: aus eisblauem Bio-Plüsch mit grüner Applikation, rotem Samt und Kissen aus Maiswatte – weich, nachhaltig & waschbar.
   Updated: 2025-09-25T18:51:14Z
   Vendor: PAT & PATTY
@@ -2467,10 +2468,10 @@
   Updated: 2025-09-26T13:03:39Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
-  Updated: 2025-09-25T11:21:18Z
+  Updated: 2025-09-28T09:10:01Z
   Total Products: 21
 - [Bio Wärmekissen für Kinder in Tierform – PAT & PATTY ❤️](https://patundpatty.de/collections/waermekissen): Entdecke handgemachte Bio-Wärmekissen mit Tiermotiven. GOTS-zertifiziert, nachhaltig & handmade bei PAT & PATTY!
-  Updated: 2025-09-26T11:21:52Z
+  Updated: 2025-09-28T11:19:59Z
   Total Products: 19
 - [Bio Lavendelkissen mit natürlichem Duft | PAT & PATTY](https://patundpatty.de/collections/bio-mini-lavendelkissen): Entdecke das bio Lavendelkissen von PAT & PATTY – natürlich, handgefertigt und mit beruhigendem Duft für entspannte Nächte. Nachhaltig & schadstofffrei.
   Updated: 2025-09-24T11:20:35Z
@@ -2479,10 +2480,10 @@
   Updated: 2025-09-27T11:19:05Z
   Total Products: 12
 - [Meistverkaufte Produkte von Pat & Patty - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-09-27T11:19:05Z
+  Updated: 2025-09-28T11:19:59Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
-  Updated: 2025-09-27T11:19:05Z
+  Updated: 2025-09-28T11:19:59Z
   Total Products: 21
 - [Bio Rasseln & Greiflinge - Natürliche Baumwolle für Babys| Pat & Patty](https://patundpatty.de/collections/rasseln-greiflinge): Weiche Rasseln & Greiflinge aus Bio-Baumwolle – schadstofffrei, handgemacht & ideal für kleine Hände. Jetzt entdecken und bestellen bei PAT & PATTY!
   Updated: 2025-09-26T11:21:52Z
@@ -2491,7 +2492,7 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-09-27T11:19:05Z
+  Updated: 2025-09-28T11:19:59Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-09-27T11:19:05Z
@@ -2512,7 +2513,7 @@
   Updated: 2025-09-08T11:21:28Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-09-27T11:19:05Z
+  Updated: 2025-09-28T11:19:59Z
   Total Products: 53
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
@@ -2730,6 +2731,10 @@
     Updated: 2025-09-27T15:29:29Z
     Author: Sharon Engel
     Tags: Baumwollwatte, Bio, Hautpflege, Nachhaltigkeit, Umweltfreundlich
+  - [Was ist Lernspielzeug? Verstehen und Entdecken](https://patundpatty.de/blogs/news/was-ist-lernspielzeug-verstehen-und-entdecken): Erfahren Sie, was ist Lernspielzeug, warum es wichtig ist und wie es Kindern beim Lernen hilft. Umfassende Erklärungen für Eltern und Käufer.
+    Updated: 2025-09-28T05:22:32Z
+    Author: Sharon
+    Tags: was ist lernspielzeug
 
 ## Store Pages
 
