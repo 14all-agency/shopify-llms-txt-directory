@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-09-28T16:00:28.455Z
+- Updated At: 2025-09-28T20:00:27.569Z
 
 ## Products
 
@@ -118,10 +118,10 @@
     Author: Helius Originals
 - [Stay Up-to-Date on the Latest in Smoked Cocktails and Mixology](https://heliusoriginals.com/blogs/news): Stay up-to-date with the latest news and updates from Helius Originals, your source for smoked cocktail kits and unique mixology experiences. Our news section covers everything from new product releases and promotions to events and collaborations.
   - [Bilqees Grant Featured in The Story Exchange: Leading the Rise of Eco-Luxury Cocktail Culture](https://heliusoriginals.com/blogs/news/bilqees-grant-featured-in-the-story-exchange-leading-the-rise-of-eco-luxury-cocktail-culture)
-    Updated: 2025-07-29T16:29:00Z
+    Updated: 2025-09-28T18:52:35Z
     Author: Helius Originals
   - [Helius Originals Selected as 2024 Recipient of the BMO Celebrating Women Grant](https://heliusoriginals.com/blogs/news/helius-originals-selected-as-2024-recipient-of-the-bmo-celebrating-women-grant)
-    Updated: 2025-07-29T16:28:28Z
+    Updated: 2025-09-28T19:05:11Z
     Author: Helius Originals
   - [Helius Originals Scores Lenovo’s Evolve Small Grant to Ignite a New Era of Tech-Enhanced Eco-Luxury](https://heliusoriginals.com/blogs/news/helius-originals-scores-lenovo-s-evolve-small-grant-to-ignite-a-new-era-of-tech-enhanced-eco-luxury)
     Updated: 2025-07-29T16:24:47Z
