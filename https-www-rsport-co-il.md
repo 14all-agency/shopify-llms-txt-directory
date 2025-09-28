@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-28T04:01:02.221Z
+- Updated At: 2025-09-28T08:01:01.523Z
 
 ## Products
 
@@ -13028,7 +13028,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנסיי JUSTO DON מילווקי באקס ירוקים](https://www.rsport.co.il/products/mb-pants-just-don-green): ‏מכנסי מילווקי באקס JUST DON לגברים בצבע ירוקים בעיצוב איכותי, נוח ועמיד בהשראת ה־NBA לשימוש במגרש וביום יום עם מראה מודרני וספורטיבי
-  Updated: 2025-09-27T19:35:39Z
+  Updated: 2025-09-28T07:35:11Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13076,7 +13076,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [לבן  | JUST DON  מכנסי מילווקי באקס](https://www.rsport.co.il/products/mb-pants-just-don-white): ‏מכנסי מילווקי באקס JUST DON לגברים בצבע לבן בעיצוב איכותי ונוח בהשראת ה־ NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-27T19:28:18Z
+  Updated: 2025-09-28T07:28:00Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13100,7 +13100,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [‏מכנסי מילווקי באקס JUST DON | כחול כהה](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue): ‏מכנסי מילווקי באקס JUST DON בצבע כחול כהה לגברים בעיצוב איכותי בהשראת ה־ NBA
-  Updated: 2025-09-27T19:13:24Z
+  Updated: 2025-09-28T07:03:41Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -33317,7 +33317,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת כדורגל ואסקו דה גאמה רביעית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ואסקו-דה-גאמה-רביעית-2024-גברים): חולצת המשחק הרביעית של ואסקו דה גאמה לעונת 2024 מציגה עיצוב ייחודי וחדשני עם דגמים וצבעים שמבליטים את הסגנון המודרני של המועדון. החולצה עשויה מ-100% פוליאסטר, בד נושם וקל משקל שמנדף זיעה, ומספקת נוחות לאורך כל המשחק והאימון. גזרה רגילה המתאימה לגברים, עם מראה שמאפשר לאוהדים להציג את תמיכתם בצורה מקורית ואלגנטית.
-  Updated: 2025-09-07T22:04:48Z
+  Updated: 2025-09-28T06:32:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
