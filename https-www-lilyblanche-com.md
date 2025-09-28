@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-27T20:00:45.917Z
+- Updated At: 2025-09-28T00:00:42.339Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -14983,7 +14983,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket in Gold  |Free Photos | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-gold): Need a heartfelt, personalised gift? The Emerald Vintage Heart Locket features a gorgeous emerald, the birthstone of May. Use our free photo service to insert two of your cherished photos. Hallmarked. Free UK shipping & Luxury Jewellery Care Kit Included. Buy Online Today with Express Delivery.
-  Updated: 2025-09-06T04:21:08Z
+  Updated: 2025-09-27T21:57:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
