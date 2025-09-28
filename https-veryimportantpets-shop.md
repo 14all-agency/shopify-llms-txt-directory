@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-28T04:01:11.287Z
+- Updated At: 2025-09-28T08:01:18.439Z
 
 ## Products
 
@@ -2177,7 +2177,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-end-table-with-cushion-for-smallmedium-dogs-dog-crate-871691.jpg?v=1700647908
   Price: £107.99 GBP
 - [Spacious Outdoor Wooden Dog Kennel - Grey, 72x109x79cm](https://veryimportantpets.shop/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm): Dogs love the outdoors! So, let them enjoy it safely with this PawHut dog kennel. Shop online at Very Important Pets
-  Updated: 2025-07-14T18:41:59Z
+  Updated: 2025-09-28T07:30:56Z
   Vendor: PawHut
   Product Type: Dog Kennel
   Availability: Available
@@ -2883,7 +2883,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-large-dog-feeding-station-with-storage-sleek-functional-dog-feeding-217842.jpg?v=1700649440
   Price: £53.99 GBP
 - [Pet Carrier Travel Backpack For Cats or Dogs with Trolley and Telescopic Handle](https://veryimportantpets.shop/products/pet-carrier-travel-backpack-for-cats-or-dogs-with-trolley-and-telescopic-handle): This puppy carrier is a great accessory to have. Shop online at Very Important Pets
-  Updated: 2025-09-26T23:30:55Z
+  Updated: 2025-09-28T07:30:56Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3251,7 +3251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/100-cm-cat-tree-climbing-tower-activity-centre-scratching-tree-beige-116925.webp?v=1704738252
     Price: £44.99 GBP
 - [Cat Tree, Cat Tower for Kittens, Small Cat Condo with Rotatable Top Bar, Sisal Scratching Post, Tunnel, Dangling Balls](https://veryimportantpets.shop/products/cat-tree-cat-tower-for-kittens-small-cat-condo-with-rotatable-top-bar-sisal-scratching-post-tunnel-dangling-balls): Every cat and kitten needs a place to relax and be entertained. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:06Z
+  Updated: 2025-09-28T07:30:56Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3742,7 +3742,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-piece-cat-wall-shelves-wall-mounted-cat-tree-for-indoor-use-brown-wall-mounted-cat-post-646505.jpg?v=1700664023
   Price: £89.99 GBP
 - [Cat Tree, Climbing Kitten Cat Tower Activity Center for Indoor Cats with Jute Scratching Post, Condo, Kitten Stand, Hanging Ball Toy, Beige](https://veryimportantpets.shop/products/cat-tree-climbing-kitten-cat-tower-activity-center-for-indoor-cats-with-jute-scratching-post-condo-kitten-stand-hanging-ball-toy-beige): Rest and play in one spot, with this cat tree for large cat from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-27T15:31:02Z
+  Updated: 2025-09-28T07:30:57Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4019,7 +4019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:05Z
+  Updated: 2025-09-28T07:30:57Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4117,7 +4117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-transparent-sliding-doors-breathable-mesh-for-lizards-horned-frogs-snakes-and-chameleons-205750.jpg?v=1700649306
   Price: £71.99 GBP
 - [Reptile Terrarium Vivarium, Climbing Pet Containers, Reptile Habitat with Sliding Doors, Breathable Mesh, Easy to Install, for Lizards, Horned Frogs, Snakes, Chameleons, 80 x 40 x 40 cm](https://veryimportantpets.shop/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-80-x-40-x-40-cm): Do you want to give your pets real wild heaven? Our PawHut reptile tank is your best choice. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:20Z
+  Updated: 2025-09-28T07:30:56Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
@@ -4292,7 +4292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-with-removable-trays-for-1-2-rabbits-rabbit-hutch-grey-927895.jpg?v=1700647117
   Price: £116.99 GBP
 - [Indoor Wooden Rabbit Hutch, Guinea Pig House, Two Tier with Openable Roof, Wheels, Slide-out Tray, 91.5 x 53.3 x 73 cm](https://veryimportantpets.shop/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-91-5-x-53-3-x-73-cm): Choose this indoor rabbit cage from PawHut to give your rabbit, guinea pig and other small animals a place to rest and play. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:06Z
+  Updated: 2025-09-28T07:30:57Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4429,7 +4429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellowblack-617038.jpg?v=1700645890
   Price: £152.99 GBP
 - [Rabbit Hutch Off-ground Small Animal Guinea Pig House 125.5 x 100 x 49cm](https://veryimportantpets.shop/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-125-5-x-100-x-49cm): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-09-27T02:09:24Z
+  Updated: 2025-09-28T06:12:12Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4506,7 +4506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:06Z
+  Updated: 2025-09-28T07:30:56Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -11370,7 +11370,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-jumbone-mini-adult-small-dog-treats-beef-poultry-4-chews-8x-bags-natural-treats-261627.jpg?v=1728956625
   Price: £15.26 GBP
 - [Pedigree Mini Dog Jumbone Chicken & Lamb Chews - 8 Pack](https://veryimportantpets.shop/products/pedigree-jumbone-mini-chicken-lamb-8-x-4-chews-160g): Pedigree Jumbone Small Dog Treats with Chicken & Lamb Chews are low-fat, omega 3 enriched chews for dogs 5-14kg. Cleverly designed for a tasty & tough chew.
-  Updated: 2025-09-23T13:35:44Z
+  Updated: 2025-09-28T04:59:19Z
   Vendor: Pedigree
   Product Type: Dog Treats
   Availability: Available
@@ -23745,7 +23745,7 @@ Omega-6 & 3 for skin.
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/arden-grange-adult-grain-free-duck-superfoods-adult-dry-12-kg-477113.webp?v=1732983824
     Price: £61.95 GBP
 - [Arden Grange Grain-Free Chicken Superfoods Dry Dog Food](https://veryimportantpets.shop/products/arden-grange-adult-grain-free-chicken-superfoods): Arden Grange Adult Dog Grain-Free Chicken & Superfoods Dry Dog Food - high-quality, complete pet food for active adult dogs. Fresh chicken, grain-free.
-  Updated: 2025-09-22T18:52:14Z
+  Updated: 2025-09-28T05:06:51Z
   Vendor: Arden Grange
   Product Type: Adult Dry
   Availability: Available
