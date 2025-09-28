@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-28T00:00:35.843Z
+- Updated At: 2025-09-28T04:00:36.780Z
 
 ## Products
 
@@ -339,13 +339,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Clothes-Rack-White-6.jpg?v=1727659793
   Price: $399.99 NZD
-- [Brabantia Bo Touch Bin - 2 x 30L Matt Black](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-matt-black): Bo Touch Bin, 2 X 30L, Matt Black
-  Updated: 2025-09-26T03:37:11Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-2-X-30L-Matt-Black-9.jpg?v=1727659030
-  Price: $599.99 NZD
 - [Brabantia Bo Touch Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-platinum): Bo Touch Bin, 2 X 30L, Platinum
   Updated: 2025-09-23T12:33:43Z
   Vendor: BRABANTIA
@@ -963,7 +956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Natural-8.png?v=1727660128
   Price: $99.99 NZD
 - [Umbra Picket 5 Hook - Aged Walnut](https://everydayhome.co.nz/products/picket-5-hook-aged-walnut): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-09-25T14:46:58Z
+  Updated: 2025-09-28T03:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1166,7 +1159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-60L-Platinum-3.png?v=1727659961
   Price: $579.99 NZD
 - [Brabantia Bo Pedal Bin - 2 x 30L White](https://everydayhome.co.nz/products/bo-pedal-bin-2-x-30l-white): Looking for a beautiful solution for waste separation? This Brabantia Bo Pedal Bin is a beauty inside and out, with two spacious 30 litre removable inner buckets for two kinds of waste. It fits snugly against a wall, has a protective non-skid base, hygienic and easy pedal opening and soft closure. A great bin in more ways than one!
-  Updated: 2025-09-23T12:35:14Z
+  Updated: 2025-09-28T01:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1222,7 +1215,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Medium-Brilliant-Stee-0.png?v=1727658726
   Price: $149.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium Matt Black](https://everydayhome.co.nz/products/fall-front-bread-bin-matt-black): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-09-23T12:35:17Z
+  Updated: 2025-09-28T01:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1761,7 +1754,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Chess-Set-Natural-UMBRA-0.jpg?v=1731903504
   Price: $369.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Assorted Colours](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-09-25T14:46:07Z
+  Updated: 2025-09-28T00:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2272,14 +2265,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-14-16-18cm-3-Piece-Covered-Sauce-3.jpg?v=1731902975
   Price: $649.99 NZD
 - [Umbra Estique Multi Organiser - White](https://everydayhome.co.nz/products/estique-multi-organiser-white): Estique Multi Organizer by Umbra features 14 hooks, providing easy access to your belongings. Estique can be either wall-mounted, or hung over a door using over-the-door hooks that are included. In addition to adding a warm touch to Estique’s design, these pegs prevent delicate items from pulling or snagging.
-  Updated: 2025-09-25T13:00:01Z
+  Updated: 2025-09-28T03:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Multi-Organiser-White-UMBRA-0.jpg?v=1731902280
   Price: $59.99 NZD
 - [Umbra Estique Organiser - Black/Walnut](https://everydayhome.co.nz/products/estique-org-blk-wal): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-09-26T22:07:11Z
+  Updated: 2025-09-28T03:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2867,7 +2860,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-09-27T16:07:10Z
+  Updated: 2025-09-28T02:07:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2881,7 +2874,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $54.95 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-24T20:37:11Z
+  Updated: 2025-09-28T03:22:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3091,7 +3084,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardSet-Mixed-8710755123160Brabantia_96dpi_1000x1000px_7_NR-17723.png?v=1733802099
   Price: $79.95 NZD
 - [Brabantia Knife Block with Utensil Holder - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-utensil-holder-dark-grey): Cut the clutter in your kitchen with this Brabantia Profile Knife Block with Utensil Holder. This stylish dark grey block keeps all your favourite kitchen tools together. Ultimate organising!
-  Updated: 2025-09-23T22:22:10Z
+  Updated: 2025-09-28T01:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3294,14 +3287,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_25L-Grey-8710755129940Brabantia_96dpi_1000x1000px_7_NR-21429.png?v=1734562382
   Price: $119.99 NZD
 - [Brabantia Sort & Go Waste Bin - 16L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-16l-grey): Collecting empty packaging, bottles, or cans separately? Make it easy on yourself, organise it all with this 16 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Sort & go!
-  Updated: 2025-09-23T12:37:48Z
+  Updated: 2025-09-28T00:07:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_16L-Grey-8710755109966Brabantia_96dpi_1000x1000px_7_NR-1287.png?v=1734562203
   Price: $99.99 NZD
 - [Brabantia Sort & Go Waste Bin - 12L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-12l-grey): Feed your empty packaging, bottles, cans or anything else you want sorted to the 12 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Now that's organising!
-  Updated: 2025-09-23T12:37:48Z
+  Updated: 2025-09-28T02:07:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4924,7 +4917,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $17.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-09-26T00:22:11Z
+  Updated: 2025-09-28T01:23:30Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
