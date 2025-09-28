@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-28T16:00:44.069Z
+- Updated At: 2025-09-28T20:00:43.959Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2526,7 +2526,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Garnet Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-silver): Looking for a romantic gift? The Garnet Vintage Heart Locket features a gorgeous garnet gemstone, the birthstone of January. This beautiful vintage locket opens to take two photos, use our free locket photo service. Hallmarked in Edinburgh. Free UK shipping & Luxury Jewellery Care Kit Included. Shop this Locket Online.
-  Updated: 2025-09-24T21:51:41Z
+  Updated: 2025-09-28T17:21:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2765,7 +2765,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a956e96e-a597-4ec5-8a20-9d55b1a02068.jpg?v=1741877344
   Price: £85.00 GBP
 - [Garnet Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-gold): Looking for a personalised gift? This gold vintage locket necklace features a heart-shaped garnet at its centre. The Garnet Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-09-14T14:44:30Z
+  Updated: 2025-09-28T17:23:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2849,7 +2849,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Memory Keeper Locket Necklace | 6 Photos + Engraving | Premium Quality](https://www.lilyblanche.com/products/memory-keeper-locket-gold): The Memory Keeper Locket keeps loved ones close. This stunning necklace holds 6 photos. Engraveable. Get free photos, jewellery care kit & gift wrap today.
-  Updated: 2025-09-23T09:19:41Z
+  Updated: 2025-09-28T18:46:02Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3009,7 +3009,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Amethyst Vintage Heart Locket Rose Gold Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-rose-gold): Looking for a gift with meaning? Made of 18-carat rose gold vermeil, this Amethyst Vintage Heart Locket is based on a vintage design. The locket features a heart-shaped, faceted-cut, high-grade amethyst gemstone at its centre.  Shop today with free UK Shipping +Photos. Get a free jewellery care kit with every order!
-  Updated: 2025-09-15T10:21:35Z
+  Updated: 2025-09-28T17:07:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3841,7 +3841,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £465.00 GBP
 - [Garnet Vintage Heart Locket Rose Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-rose-gold): Hold special memories close with this garnet vintage heart locket, featuring a genuine garnet gemstone. The locket is also hallmarked and comes with a free chain. This is a perfect gift for a loved one or for yourself. Free Locket Photos & UK Shipping. Express Delivery Option available. Shop Online Today.
-  Updated: 2025-09-06T04:14:08Z
+  Updated: 2025-09-28T17:04:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3974,7 +3974,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_39f632e1-1ff3-4b2e-8a81-20f37e4770bd.jpg?v=1741878819
   Price: £75.00 GBP
 - [Blue Topaz Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-gold): Looking for the perfect gift for yourself or a loved one? This gold vermeil heart locket holds two of your precious photos and can be personalised for free. Featuring a Blue Topaz Gemstone. Hallmarked. Free UK Shipping & Luxury Jewellery Care Kit Included. Shop Photo Lockets Online Today. Express Delivery Available.
-  Updated: 2025-09-06T04:33:09Z
+  Updated: 2025-09-28T17:24:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -4010,7 +4010,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £315.00 GBP
 - [Amethyst Vintage Heart Locket Silver + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-silver): Looking for a truly special gift? This Amethyst Heart Necklace holds two of your precious photos. Made from sterling silver, the necklace features a genuine heart-shaped amethyst gemstone, the birthstone for February. Hallmarked in Edinburgh. Order online today to receive free UK shipping & Luxury Jewellery Care Kit.
-  Updated: 2025-09-21T16:51:30Z
+  Updated: 2025-09-28T17:03:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -4043,7 +4043,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £240.00 GBP
 - [Blue Topaz Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-white-gold): Looking for a personalised gift? Keep your loved ones close with this Blue Topaz Vintage Heart Locket in white gold. Featuring a heart-shaped blue topaz gemstone. Let us fill your locket for free with 2 photos for a personalised locket you'll love. Hallmarked in Edinburgh. Buy online today with Free UK Shipping.
-  Updated: 2025-09-06T04:22:08Z
+  Updated: 2025-09-28T17:13:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9494,7 +9494,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £245.00 GBP
 - [Garnet Vintage Heart Locket | White Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-white-gold): Looking for a personalised, romantic gift? This Garnet Vintage Heart Locket features a gorgeous garnet, the birthstone of January. This beautiful vintage locket in white gold vermeil opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Order online today!
-  Updated: 2025-09-06T04:31:09Z
+  Updated: 2025-09-28T17:22:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14779,7 +14779,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_4d08452f-fb6e-40dc-a8b3-daec90b7305e.jpg?v=1741882713
   Price: £65.00 GBP
 - [Ruby Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-gold): Looking for the perfect romantic gift? This Ruby Vintage Heart Locket features a gorgeous garnet, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Full UK Hallmark. This is a perfect gift for a loved one or for yourself. Free UK Shipping & Luxury Gift Wrap. Shop Online Today.
-  Updated: 2025-09-06T04:28:09Z
+  Updated: 2025-09-28T17:19:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14812,7 +14812,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Ruby Heart Locket White Gold  | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold): Looking for the perfect personalised gift? This white gold vintage locket necklace features a heart-shaped ruby at its centre. The Ruby Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-09-06T04:19:08Z
+  Updated: 2025-09-28T17:09:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14836,7 +14836,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Ruby Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-silver): Keep your loved ones close with this Ruby Vintage Heart Locket, featuring a gorgeous ruby gemstone, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Luxury Jewellery Care Kit Included. Express Delivery Available. Shop Online Today.
-  Updated: 2025-09-06T04:20:08Z
+  Updated: 2025-09-28T17:11:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14869,7 +14869,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Ruby Heart Locket Rose Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-rose-gold): Need a luxurious romantic gift? This Ruby Vintage Heart Locket features a gorgeous ruby gemstone, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Scented Gift Wrap. Express Delivery is Available. Order Yours Online Today.
-  Updated: 2025-09-06T04:15:08Z
+  Updated: 2025-09-28T17:06:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14893,7 +14893,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket Silver | Genuine Emerald Necklace | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-silver): Give the perfect gift with this personalised Emerald Vintage Heart Locket featuring a gorgeous emerald, the birthstone for May. This beautiful vintage locket opens to take two of your photos, inserted for free by our expert team. Express Delivery Available. Free Shipping & Luxury Gift Wrap. Order Yours Online Today.
-  Updated: 2025-09-06T04:36:09Z
+  Updated: 2025-09-28T17:27:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14926,7 +14926,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Sapphire Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-silver): Searching for the perfect romantic gift? This Sapphire Vintage Heart Locket features a genuine sapphire, the birthstone of September. This beautiful vintage locket opens to take two of your personal photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Shop Sapphire Necklaces Online.
-  Updated: 2025-09-25T08:47:12Z
+  Updated: 2025-09-28T17:02:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14959,7 +14959,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Sapphire Heart Locket Rose Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-rose-gold): Keep your loved ones close with this Sapphire Vintage Heart Locket, featuring a gorgeous sapphire, the birthstone of Sapphire. This beautiful vintage locket opens to take two photos, use our free photo service to personalise yours. Free UK Shipping & Jewellery Care Kit Included. Express Delivery Available Online.
-  Updated: 2025-09-25T08:47:04Z
+  Updated: 2025-09-28T17:08:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14983,7 +14983,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket in Gold  |Free Photos | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-gold): Need a heartfelt, personalised gift? The Emerald Vintage Heart Locket features a gorgeous emerald, the birthstone of May. Use our free photo service to insert two of your cherished photos. Hallmarked. Free UK shipping & Luxury Jewellery Care Kit Included. Buy Online Today with Express Delivery.
-  Updated: 2025-09-27T21:57:56Z
+  Updated: 2025-09-28T17:12:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15016,7 +15016,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Sapphire Heart Locket White Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-white-gold): Looking for a truly special gift? This Sapphire Vintage Heart Locket features a gorgeous sapphire, the birthstone of September. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Gift boxed. Free UK shipping & Express Delivery Available. Shop this sapphire necklace online today.
-  Updated: 2025-09-25T08:47:12Z
+  Updated: 2025-09-28T17:31:44Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15043,7 +15043,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Emerald Heart Locket Rose Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-rose-gold): Keep your loved ones close with this Emerald Vintage Heart Locket, featuring a gorgeous emerald, the birthstone of May. This beautiful vintage locket opens to take two photos, inserted for free by our expert personalisation team. Hallmarked. Free Shipping & Luxury Jewellery Care Kit Included. See Online Today.
-  Updated: 2025-09-06T04:26:09Z
+  Updated: 2025-09-28T17:17:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15067,7 +15067,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket White Gold  | Emerald Necklace | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-white-gold): Keep loved ones close with this personalised gift. The Emerald Vintage Heart Locket in White Gold features a gorgeous emerald, the birthstone of May. This beautiful locket opens to take two photos, inserted for free by our expert team. Hallmarked in Edinburgh. Free Shipping & Luxury Jewellery Care Kit Included.
-  Updated: 2025-09-06T04:38:09Z
+  Updated: 2025-09-28T17:29:44Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15098,7 +15098,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphire_gold_claw_earring1_1080_copy_b8dfc2c1-a02e-4bbd-bd7d-aa721e7b42da.jpg?v=1741883077
   Price: £190.00 GBP
 - [Amethyst Vintage Heart Locket Gold + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-gold): Need a romantic gift? This gold vermeil Amethyst Heart Locket is the ultimate love token and holds two of your precious photos. It is made of 18-carat gold vermeil and features a beautiful genuine amethyst gemstone. Hallmarked with a full UK hallmark. Order online today & receive a free Jewellery Care Kit worth £20!
-  Updated: 2025-09-06T04:25:08Z
+  Updated: 2025-09-28T17:16:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15131,7 +15131,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £315.00 GBP
 - [Amethyst Vintage Heart Locket  White Gold Necklace + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-white-gold): Cherish your precious memories with this Amethyst Vintage Heart Locket in white gold vermeil. Hallmarked in Edinburgh. Order online today with free UK shipping.
-  Updated: 2025-09-06T04:27:09Z
+  Updated: 2025-09-28T17:18:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15164,7 +15164,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £340.00 GBP
 - [Blue Topaz Rose Gold Heart Locket | Free Locket Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-rose-gold): Looking for a truly romantic gift? This Blue Topaz Vintage Heart Locket is based on an antique design & holds 2 photos. This necklace in 18 carat rose gold vermeil features a heart-shaped, high-grade blue topaz gemstone. Free UK Delivery & Gift Wrap. Express delivery available. Shop Online today!
-  Updated: 2025-09-06T04:23:08Z
+  Updated: 2025-09-28T17:14:43Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16808,7 +16808,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-09-28T15:18:37Z
+  Updated: 2025-09-28T19:15:45Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17681,38 +17681,38 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £410.00 GBP
 - [Solid Gold Curb Chain | Premium Quality Medium Weight 9 Carat Chain](https://www.lilyblanche.com/products/solid-gold-curb-chain): Quality and strength assured this classic, solid gold medium-weight close curb chain is the perfect chain for any occasion. Free shipping & jewellery care kit.
-  Updated: 2025-09-23T22:04:22Z
+  Updated: 2025-09-28T19:48:06Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/solidyellowgoldcurb_2_1.webp?v=1758621856
   - [16 inch (41 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49229575455038)
     Availability: Available
-    Price: £240.00 GBP
+    Price: £230.00 GBP
   - [18 inch (46 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49229575487806)
     Availability: Available
-    Price: £265.00 GBP
+    Price: £250.00 GBP
   - [20 inch (53 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49229575520574)
     Availability: Available
-    Price: £290.00 GBP
+    Price: £270.00 GBP
   - [22 inch (56 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49229575553342)
     Availability: Available
-    Price: £315.00 GBP
+    Price: £290.00 GBP
   - [24 inch (61 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49229575586110)
     Availability: Available
-    Price: £340.00 GBP
+    Price: £320.00 GBP
   - [26 inch ( 66 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49887617155390)
     Availability: Available
-    Price: £365.00 GBP
+    Price: £340.00 GBP
   - [28 inch (71 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49887617188158)
     Availability: Available
-    Price: £390.00 GBP
+    Price: £360.00 GBP
   - [30 inch (76 cm)](https://www.lilyblanche.com/products/solid-gold-curb-chain?variant=49887617220926)
     Availability: Available
-    Price: £415.00 GBP
+    Price: £380.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-09-27T10:26:15Z
+  Updated: 2025-09-28T17:17:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17918,7 +17918,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_Q.jpg?v=1751452492
     Price: £124.00 GBP
 - [Rope Chain in Solid 9 Carat Gold](https://www.lilyblanche.com/products/solid-gold-rope-chain): This beautiful, 9-carat solid gold Prince of Wales rope chain will add interest and texture to any pendant or locket. Wear on its own or layered for added sophistication. Free jewellery care kit with all orders. Free UK shipping today
-  Updated: 2025-09-23T23:17:36Z
+  Updated: 2025-09-28T19:43:52Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -17928,25 +17928,25 @@ From £119
     Price: £255.00 GBP
   - [18 inch (46 cm)](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=49347470819646)
     Availability: Available
-    Price: £280.00 GBP
+    Price: £285.00 GBP
   - [20 inch (51 cm)](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=49347470852414)
     Availability: Available
-    Price: £305.00 GBP
+    Price: £315.00 GBP
   - [22 inch (56 cm)](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=49871571222846)
     Availability: Available
-    Price: £330.00 GBP
+    Price: £345.00 GBP
   - [24 inch (61 cm)](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=49872242671934)
     Availability: Available
-    Price: £360.00 GBP
+    Price: £375.00 GBP
   - [26 inch (66 cm) Made to order](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=50432482246974)
     Availability: Available
-    Price: £385.00 GBP
+    Price: £405.00 GBP
   - [28 inch (71 cm) Made to order](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=50432482279742)
     Availability: Available
-    Price: £415.00 GBP
+    Price: £435.00 GBP
   - [30 inch (76 cm) Made to order](https://www.lilyblanche.com/products/solid-gold-rope-chain?variant=50432482312510)
     Availability: Available
-    Price: £445.00 GBP
+    Price: £465.00 GBP
 - [Solid White Gold Rope Chain](https://www.lilyblanche.com/products/solid-white-gold-rope-chain): This solid 9-carat white gold Prince of Wales rope chain will add interest and texture to any look. Available in 5 lengths. The perfect gift, the rope chain comes with a complimentary jewellery care kit. Shop solid white gold chains today.
   Updated: 2025-09-23T08:52:30Z
   Vendor: Lily Blanche
@@ -21675,7 +21675,7 @@ From £119
     Availability: Available
     Price: £690.00 GBP
 - [Men's Diamond Cross Necklace | Timeless & Handcrafted UK](https://www.lilyblanche.com/products/mens-diamond-gold-cross-necklace): Elevate his style with a handcrafted solid 9ct gold & diamond cross necklace from Lily Blanche. 52 real diamonds. Heirloom quality, UK hallmark & gift-box. 4.9★ rated. Free UK shipping!
-  Updated: 2025-09-25T23:03:01Z
+  Updated: 2025-09-28T19:19:33Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21747,7 +21747,7 @@ From £119
     Availability: Available
     Price: £850.00 GBP
 - [Ruby Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/ruby-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Ruby Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced rubies. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-08-28T11:33:19Z
+  Updated: 2025-09-28T19:35:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21781,7 +21781,7 @@ From £119
     Price: £555.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 GBP 340
-  Updated: 2025-09-23T21:39:41Z
+  Updated: 2025-09-28T19:03:22Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21808,37 +21808,37 @@ GBP 340
     Availability: Available
     Price: £540.00 GBP
 - [Amethyst Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold): Satisfaction 100% guaranteed with this stunning Amethyst Cross necklace in Solid Gold. An heirloom piece this real amethyst and  9-carat gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-09-17T15:06:03Z
+  Updated: 2025-09-28T19:40:59Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/amethyst_gold_cross_necklace.webp?v=1741873635
   - [No chain](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966603070)
     Availability: Available
-    Price: £215.00 GBP
-  - [9carat gold Prince of Wales rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966635838)
+    Price: £190.00 GBP
+  - [9 carat gold curb chain 18 inch (46 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966766910)
     Availability: Available
-    Price: £340.00 GBP
-  - [9 carat gold Prince of Wales rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966668606)
+    Price: £435.00 GBP
+  - [9 carat gold curb chain 20 inch (51 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966799678)
     Availability: Available
-    Price: £350.00 GBP
-  - [9 carat gold Prince of Wales rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966701374)
+    Price: £455.00 GBP
+  - [9 carat gold chain 22 inch (56 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966832446)
     Availability: Available
-    Price: £360.00 GBP
-  - [9 carat gold Prince of Wales rope chain 24 inch (61 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966734142)
+    Price: £475.00 GBP
+  - [9 carat gold rope chain 24 inch (61 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966734142)
     Availability: Available
-    Price: £370.00 GBP
-  - [9 carat gold close curb chain 18 inch (46 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966766910)
+    Price: £565.00 GBP
+  - [9carat gold rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966635838)
     Availability: Available
-    Price: £385.00 GBP
-  - [9 carat gold close curb chain 20 inch (51 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966799678)
+    Price: £475.00 GBP
+  - [9 carat gold rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966668606)
     Availability: Available
-    Price: £400.00 GBP
-  - [9 carat gold close chain 22 inch (56 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966832446)
+    Price: £505.00 GBP
+  - [9 carat gold rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold?variant=50440966701374)
     Availability: Available
-    Price: £415.00 GBP
+    Price: £535.00 GBP
 - [Peridot Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/peridot-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20.
-  Updated: 2025-09-01T19:45:25Z
+  Updated: 2025-09-28T19:15:49Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21865,7 +21865,7 @@ GBP 340
     Availability: Available
     Price: £415.00 GBP
 - [Blue Topaz Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/blue-topaz-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-08-28T11:31:49Z
+  Updated: 2025-09-28T19:20:49Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21892,7 +21892,7 @@ GBP 340
     Availability: Available
     Price: £415.00 GBP
 - [Tsavorite Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/tsavorite-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-15T10:16:53Z
+  Updated: 2025-09-28T19:40:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21919,7 +21919,7 @@ GBP 340
     Availability: Available
     Price: £650.00 GBP
 - [Tanzanite Cross Necklace in Solid White Gold](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold): Satisfaction 100% guaranteed with this stunning Diamond Cross necklace in Solid White Gold. An heirloom piece this real tanzanite and  9-carat white gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-09-15T10:08:04Z
+  Updated: 2025-09-28T19:25:49Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23078,26 +23078,26 @@ From £150
     Availability: Available
     Price: £215.00 GBP
 - [Handcrafted 9 Carat Solid Gold Belcher Chain | UK Investment Jewellery |](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted): 9 carat solid gold belcher chain, UK hallmarked. Timeless investment piece perfect for layering or wearing alone. Durable, elegant & versatile. Free UK delivery.
-  Updated: 2025-09-26T09:36:40Z
+  Updated: 2025-09-28T19:50:31Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/solid_gold_belcher_chain_1.png?v=1756983681
   - [16 inch (41cm)](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted?variant=55385617727874)
     Availability: Available
-    Price: £265.00 GBP
+    Price: £280.00 GBP
   - [18 inch (46 cm)](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted?variant=55385617760642)
     Availability: Available
-    Price: £295.00 GBP
+    Price: £305.00 GBP
   - [20 inch (51 cm)](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted?variant=55385617793410)
     Availability: Available
-    Price: £325.00 GBP
+    Price: £330.00 GBP
   - [22 inch (56 cm)](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted?variant=55385617826178)
     Availability: Available
     Price: £355.00 GBP
   - [24  inch (61 cm)](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted?variant=55385617858946)
     Availability: Available
-    Price: £385.00 GBP
+    Price: £380.00 GBP
   - [26 inch (65 cm) made to order](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted?variant=55669868953986)
     Availability: Available
     Price: £415.00 GBP
@@ -23378,16 +23378,16 @@ From £129
 ## Collections
 
 - [Our Jewellery Collections | Personalised Styles | Lily Blanche](https://www.lilyblanche.com/collections/collections): Browse our designer jewellery collections for women & girls in sterling silver, precious gemstones & gold vermeil. Uniquely styled & crafted.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 532
 - [Jewellery | Women's Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/jewellery): Personalised luxury jewellery created in the heart of Scotland; designed to surprise & delight. Home of the celebrated Memory Keeper Locket. Free delivery. Browse today.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 804
 - [Luminous Jewellery | Women's Cocktail Rings | Lily Blanche](https://www.lilyblanche.com/collections/luminous-jewellery): Explore our collection of Luminous Jewellery, from stunning gemstone rings in silver, gold & rose gold to drop hoops with dazzling gemstones. Free UK Delivery & Luxury Gift Wrap
   Updated: 2025-09-24T11:29:11Z
   Total Products: 51
 - [Necklaces | Necklaces For Ladies | Huge Range | Lily Blanche](https://www.lilyblanche.com/collections/necklaces): Browse our stunning range of necklaces to add to your jewellery box today. From keepsakes to gemstones, our range includes gold, silver & rose gold jewellery. So, no matter your style we have the perfect outfit uplift for you. Shop the best quality jewellery online today.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 287
 - [Bracelets | Bracelet for Women | Lily Blanche](https://www.lilyblanche.com/collections/bracelets): Stack, layer & work the look. From pearl charm bracelets to silver & gold bangles with the sweetest of charms & birthstones, find your perfect piece today. Free delivery.
   Updated: 2025-09-17T11:32:55Z
@@ -23396,22 +23396,22 @@ From £129
   Updated: 2025-07-07T09:35:36Z
   Total Products: 3
 - [Wedding Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/wedding-jewellery): Precious Pearls & beautiful Wedding Lockets to make your Wedding day truly special. You'll find lovely pieces for bridesmaids & flower girls too!
-  Updated: 2025-09-26T11:32:14Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 42
 - [Gifts | Lily Blanche | Vintage Inspired Jewellery](https://www.lilyblanche.com/collections/gifts): Whatever the occasion, mark the milestones on life’s journey with a precious piece of jewellery. Personalise your gift to show you care.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 744
 - [Earrings | Stud, Drop, Hoop & Earrings | Lily Blanche](https://www.lilyblanche.com/collections/earrings): Discover our wide range of gold and silver earrings. Choose from stud, hoop & gemstone earrings to elevate your look. Free shipping, gift wrap & jewellery care kit worth £20.
   Updated: 2025-09-24T11:29:11Z
   Total Products: 192
 - [Anniversary Jewellery Gifts For Her | Lily Blanche](https://www.lilyblanche.com/collections/anniversary-gifts): Celebrate your anniversary with the perfect personalised gift. From photo lockets and necklaces to engraved bracelets and earrings. Free UK shipping & jewellery care kit worth £20.
-  Updated: 2025-09-27T11:31:05Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 163
 - [Magical Charm Jewellery | Charm Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/magical-charm-jewellery): Explore our Magical Charm Jewellery, versatile charm jewellery with meaning, to be worn, layered, collected and loved. Available in silver and gold settings. Free UK Delivery.
   Updated: 2025-08-23T11:33:16Z
   Total Products: 54
 - [Pendants  | Womens necklaces | Lily Blanche](https://www.lilyblanche.com/collections/pendants): From statement pearl necklaces to silver  & gold charm pendants, we have a necklace option to suit every style and budget. Free delivery and free 90 days return policy.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 330
 - [Archive Sale Jewellery | Up to 50% Off | End of Line](https://www.lilyblanche.com/collections/sale): Lily Blanche archive sale. Here you will find amazing deals and discounts on collections which we are retiring as we introduce fabulous new jewellery ranges
   Updated: 2025-09-27T11:31:05Z
@@ -23429,7 +23429,7 @@ From £129
   Updated: 2025-09-20T11:27:40Z
   Total Products: 22
 - [Gold Necklaces | Necklaces for Women | Lily Blanche](https://www.lilyblanche.com/collections/gold-necklaces): Explore our brilliant collection of designer necklaces in 18 carat gold vermeil.  From romantic lockets to magical charm pendants which open to reveal a hidden secret.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 114
 - [Gold Pendants | Gold Necklaces for Women | Lily Blanche](https://www.lilyblanche.com/collections/gold-pendants): Our brilliant collection of designer pendants, lockets and charm pendants in 18 carat yellow gold and rose gold vermeil. Complimentary gift wrapping and gift messages.
   Updated: 2025-09-28T11:31:18Z
@@ -23462,7 +23462,7 @@ From £129
   Updated: 2025-01-13T00:51:53Z
   Total Products: 11
 - [New Baby Gift Ideas | Newborn Baby Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/new-baby-gifts): Explore our collection of newborn baby gifts from baby rattles and baby pendants to charm necklaces to welcome the new arrival. Free UK shipping and gift wrapping.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 69
 - [Charm Bracelets | Charm Bracelets for Women | Lily Blanche](https://www.lilyblanche.com/collections/charm-bracelets): A fabulous collection of silver, gold, and pearl charm bracelets holding up to ten LILY BLANCHE Magical and Lucky charms. Complimentary gift wrapping and gift messages.
   Updated: 2025-08-15T11:28:19Z
@@ -23504,13 +23504,13 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 151
 - [Best Sellers | Most Popular Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/bestsellers): Say hello to our bestsellers. Discover our most popular lockets, necklace, bracelets, rings and earrings and stay on-trend with our best-selling jewellery designs. Over 1240 5 star reviews
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 89
 - [Rings | Silver & Gold Cocktail Rings | Lily Blanche](https://www.lilyblanche.com/collections/rings): Mix, match and stack our interlocking gemstone cocktail rings & gold/silver friendship rings. Wear them singly or together for a statement look. Browse today. Free 90 days returns.
   Updated: 2025-09-22T11:33:07Z
   Total Products: 54
 - [Wide Range of Jewellery Birthday Gifts | Lily Blanche](https://www.lilyblanche.com/collections/birthday-gifts): Celebrate your loved ones on their birthday by gifting them beautiful jewellery, including pieces with birthstones & other gems. Take a look at our selection.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 239
 - [Key Jewellery | Personalised Heart Locket | Lily Blanche](https://www.lilyblanche.com/collections/key-jewellery): Discover our range of key & heart lockets, pendants, bangles and earrings in gold, rose gold & sterling silver. Perfect for giving, wearing & stacking. Free UK Delivery + Gift Wrap
   Updated: 2025-09-26T11:32:14Z
@@ -23537,7 +23537,7 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 21
 - [Personalised Birthstone Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/birthstone-jewellery): Birthstone jewellery represents the month you were born. From stunning sapphires for September to radiant rubies for July birthdays. Explore our birthstone jewellery. Free Shipping.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 331
 - [Memory Lockets | Vintage Locket Necklaces | Lily Blanche](https://www.lilyblanche.com/collections/lockets-jewellery): Keep cherished memories close to your heart with our stunning selection of silver and gold engravable photo lockets.
   Updated: 2025-09-28T11:31:18Z
@@ -23603,7 +23603,7 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 68
 - [Jewellery Christmas Gifts for Her | Lily Blanche](https://www.lilyblanche.com/collections/christmas-gifts): Discover our wide range of Christmas jewellery gifts for her. Choose from personalised necklaces, earrings, rings and more. Free UK shipping and jewellery care kit worth £20.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 175
 - [Memory Keeper Locket®  | Memory Keeper Necklace | Lily Blanche](https://www.lilyblanche.com/collections/memory-keeper-lockets): Our Memory Keeper Locket ® holds 6 photos & can be engraved. Matching bracelets & earrings available. The Memory Keeper Locket Necklace was worn by Judy Murray at Wimbledon
   Updated: 2025-09-28T11:31:18Z
@@ -23669,10 +23669,10 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 155
 - [White Gold Necklaces | Luxury White Gold Jewellery](https://www.lilyblanche.com/collections/white-gold-necklaces): Explore our luxurious collection of designer necklaces in 9 carat solid white gold or 18 carat white gold vermeil. From romantic, engraveable lockets set with diamonds to decorative chains, hop on the white gold trend & elevate your look. Order white gold necklaces online today with free shipping & luxury gift wrap
-  Updated: 2025-09-26T11:32:14Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 40
 - [Amethyst Pendants | Gemstone Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/amethyst-pendants): Shop Stunning Amethyst Pendants made from real stones. Personalise with an initial charm. Available in silver, gold, white gold & rose gold settings. Free UK Delivery & Gift Wrap.
-  Updated: 2025-09-22T11:33:07Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 12
 - [Aqua Chalcedony Pendants | Gemstone Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/aqua-chalcedony-pendants): Shop Aqua Chalcedony Pendants made from real gemstones. Personalise with an initial charm. Available in silver, gold & rose gold settings. Free UK Delivery & Luxury Gift Wrap
   Updated: 2025-07-08T21:10:46Z
@@ -23837,10 +23837,10 @@ From £129
   Updated: 2025-09-27T11:31:05Z
   Total Products: 11
 - [Chains | Gold, Silver, Rose Gold | Lily Blanche](https://www.lilyblanche.com/collections/chains): Shop now and personalise your necklaces with our carefully crafted jewellery chains, available in silver, gold, white gold & rose gold. Free shipping and free jewellery care kit.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 36
 - [Belcher Chains | Gold, Silver, Rose Gold | Lily Blanche](https://www.lilyblanche.com/collections/belcher-chains): Our beautiful & sturdy belcher necklace chains will hold even the heaviest of your pendants or can be worn as stand-alone pieces. Shop now to complete your look! Free UK delivery.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 12
 - [Rope Chains | Gold, Silver, Rose & White Gold | Lily Blanche](https://www.lilyblanche.com/collections/rope-chains): Our rope chains are extra sturdy, holding even your heaviest pendants while still looking beautiful. Explore our selection today.
   Updated: 2025-09-23T08:47:50Z
@@ -23852,7 +23852,7 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 12
 - [Curb Chains | Gold, Silver, Rose Gold | Lily Blanche](https://www.lilyblanche.com/collections/curb-chains): Our curb chains are perfect for any occasion, whether you opt to wear them on their own or in combination with one of our pendants or lockets. Next day delivery available.
-  Updated: 2025-09-27T11:31:05Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 7
 - [Christmas Gifts For Mum | Jewellery For Her | Lily Blanche](https://www.lilyblanche.com/collections/christmas-gifts-for-mum): Discover our wide range of Christmas gifts for mum from personalised necklaces to gemstone earrings, rings and more. Free shipping, gift wrap and jewellery care kit worth £20.
   Updated: 2025-09-27T11:31:05Z
@@ -23861,7 +23861,7 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 83
 - [Wide Range of Christmas Gifts for Wife | Lily Blanche](https://www.lilyblanche.com/collections/christmas-gifts-for-wife): Discover our selection of Christmas gifts for your wife or partner from personalised necklaces to drop earrings, rings and more. Free jewellery care kit worth £20.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 79
 - [Wide Range of Christmas Stocking Fillers | Lily Blanche](https://www.lilyblanche.com/collections/stocking-fillers): Explore our range of personalised Christmas stocking fillers from dainty pendant necklaces to rings and earrings. Free shipping, gift wrap and jewellery care kit worth £20.
   Updated: 2025-09-28T11:31:18Z
@@ -23873,7 +23873,7 @@ From £129
   Updated: 2025-08-11T11:19:03Z
   Total Products: 57
 - [Easter Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/easter-gifts): Explore our wide range of personalised Easter gifts from bird lockets to rabbit jewellery and more. Free UK shipping, gift wrap and jewellery care kit worth £20.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 97
 - [Emerald Pendants | Genuine Emerald Stone | Lily Blanche](https://www.lilyblanche.com/collections/emerald-jewellery): Shop Real Emerald Pendants, handcrafted with care which can be personalised with an initial charm. Choose from silver, gold, rose gold & white gold settings. Free UK Delivery.
   Updated: 2025-09-28T11:31:18Z
@@ -23888,7 +23888,7 @@ From £129
   Updated: 2025-09-09T11:33:14Z
   Total Products: 22
 - [Chains | Silver & Gold | Lily Blanche](https://www.lilyblanche.com/collections/chains-collections): silver, gold, rose gold & white gold chains in a variety of styles, & lengths, including curb, belcher, twist and beaded chains.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 40
 - [Peridot Jewellery | Genuine Peridot | Lily Blanche](https://www.lilyblanche.com/collections/peridot-jewellery): Explore our real Peridot Jewellery collection.  The birthstone for August, shop Peridot personalised necklaces, earrings and bracelets. Free luxury gift wrap and UK Shipping.
   Updated: 2025-09-02T11:36:02Z
@@ -23903,13 +23903,13 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 135
 - [Gemstone jewellery | precious & semi-Precious Gemstones  | Lily Blanche](https://www.lilyblanche.com/collections/gemstones): Gemstone jewellery, incorporating precious and semi-precious gemstones in silver and gold settings will add glamour, colour and uniqueness to any look. Our ethically sourced genuine rubies, emeralds, sapphires, amethysts and garnets are hand-cut by master craftsmen to highlight colour, clarity and carat of the gemstone. Each stone has its own special meaning. Elevate your look with our gemstone lockets, necklaces, earrings & bangles.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 370
 - [Gifts For All Occasions | Occasion Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/occasion-jewellery): Celebrate your special moments with our range of occasion jewellery. From birthdays & anniversaries to wedding jewellery. Free shipping, luxury gift wrap & jewellery care kit.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 493
 - [Featured jewellery | Trending Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/featured): Shop our featured jewellery and trending pieces here. Discover what's new, what's hot and what's special. Order your unique pieces Free shipping & 60 day returns.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 289
 - [Wide Range of 18th Birthday Gifts for Her | Lily Blanche](https://www.lilyblanche.com/collections/18th-birthday-gifts): Celebrate her 18th birthday in style with our wide range of personalised gifts from birthstone jewellery to necklaces and earrings. Free shipping & luxury gift wrap.
   Updated: 2025-09-27T11:31:05Z
@@ -23918,16 +23918,16 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 114
 - [Gemstone Jewellery | Lily Blanche | Precious & Semi-Precious Gemstones](https://www.lilyblanche.com/collections/gemstone-jewellery): Our natural precious & semi-precious Gemstone Jewellery will enhance your jewellery box. Lily Blanche offers a wide selection of genuine gemstone jewellery, including necklaces, bracelets, earrings, and rings. Find the perfect piece to express your unique style. Order online today and receive a free jewellery care kit
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 347
 - [Gift Ideas](https://www.lilyblanche.com/collections/gift-ideas): Stuck for the perfect gift? Browse our selection of jewellery gift ideas to find the collections she will love. There is no more personal or meaningful gift than an engraved locket filled with favourite photos. Choose a real ruby, emerald or sapphire necklace for a lasting gift that will be treasured. Whoever the recipient or whatever the occasion, we have a range of gift ideas which will make gifting easy. Choose our complimentary gift wrap option and send direct to the recipient with a free gift message for easy, hassle-free gifting.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 417
 - [New In Jewellery | Latest Collections | Lily Blanche](https://www.lilyblanche.com/collections/new-in): Shop new in jewellery and our latest jewellery collections. Discover our brand-new on-trend ranges. Free shipping & free jewellery care kit with all orders. We only use precious metals in our jewellery. Order today
-  Updated: 2025-09-27T11:31:05Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 47
 - [Our Favourite Jewellery | Top Picks Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/our-favourites): Discover our favourite jewellery pieces and shop our personalised edits. Our jewellery top picks change regularly so  visit often. Free luxury gift wrap with all orders.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 89
 - [Emerald Lockets | Real Emerald Necklaces | Lily Blanche](https://www.lilyblanche.com/collections/emerald-lockets): Explore our genuine Emerald Lockets, available in silver, gold, rose gold and white gold settings. Personalise with our photo service. Free UK Delivery + Luxury Gift Wrap
   Updated: 2025-09-28T11:31:18Z
@@ -23969,7 +23969,7 @@ From £129
   Updated: 2025-09-04T11:32:58Z
   Total Products: 12
 - [Amethyst Jewellery | Real Amethyst | Lily Blanche](https://www.lilyblanche.com/collections/purple-amethyst-jewellery): Shop our collection of stunning Amethyst Jewellery. This vibrant purple stone makes for beautiful Lockets, Necklaces and Earrings, set in Silver, Gold & Rose Gold. Free Gift Wrap.
-  Updated: 2025-09-22T11:33:07Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 28
 - [Rose Quartz Jewellery | Real Rose Quartz | Lily Blanche](https://www.lilyblanche.com/collections/rose-quartz-jewellery): Explore our range of real Rose Quartz Jewellery. This calming pink stone makes for beautiful Rings and Earrings, set in Silver, Gold & Rose Gold. Free Luxury Gift Wrap.
   Updated: 2025-09-22T11:33:07Z
@@ -23990,7 +23990,7 @@ From £129
   Updated: 2025-09-25T11:31:58Z
   Total Products: 23
 - [February Birthstone Amethyst Jewellery - Lily Lance](https://www.lilyblanche.com/collections/february-birthstone): The Amethyst gemstone is the birthstone for February. It is also the stone for the zodiac sign of Aquarius & Pisces. Highly valued since ancient times.
-  Updated: 2025-09-22T11:33:07Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 26
 - [March Birthstone | Aqua Chalcedony Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/march-birthstone): Discover our genuine Aqua Chalcedony jewellery, the birthstone for March. Choose from march birthstone necklaces, earrings, rings and bangles. Free UK delivery.
   Updated: 2025-07-08T21:10:46Z
@@ -24050,7 +24050,7 @@ From £129
   Updated: 2025-09-28T11:31:18Z
   Total Products: 88
 - [By Price](https://www.lilyblanche.com/collections/by-price): Whether you want to splurge on a diamond necklace or working to a budget, you can find the perfect piece of jewellery by price You can organise how you view the jewellery by highest or lowest priced pieces. Enjoy shopping at Lily Blanche, knowing you are spending within your preset budget.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 468
 - [Amethyst Bangles | Amethyst Bracelet | Lily Blanche](https://www.lilyblanche.com/collections/amethyst-bangles): Discover our amethyst gemstone bangles. Featuring genuine amethyst gemstones, the birthstone for February. Complimentary jewellery care kit. Free UK shipping. Shop now.
   Updated: 2025-08-11T11:19:03Z
@@ -24098,31 +24098,31 @@ From £129
   Updated: 2025-06-01T18:19:56Z
   Total Products: 23
 - [Gifts Ideas For Her | Lily Blanche | Photo Jewellery For Any Occasion](https://www.lilyblanche.com/collections/gifts-for-her): Lily Blanche offers a wide selection of high-quality jewellery gifts for her, including personalised jewellery, fine jewellery, jewellery sets, birthstone jewellery & gift cards. Browse our selection today and find the perfect gift for the special woman in your life. Free shipping, care kit & gift wrap with every order
-  Updated: 2025-09-25T11:31:58Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 143
 - [Gifts For Wife | Women's Jewellery Gift Ideas | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-wife): Discover gifts for your wife or partner from personalised lockets, and drop earrings to statement rings. Free gift wrap & jewellery care kit worth £20.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 67
 - [Gifts For Daughter | Jewellery Gifts for Her | Lily Blanche | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-daughter): Finding gifts for daughters can be tricky. Discover our range of personalised gifts from photo necklaces to birthstone jewellery for your daughter. Free Shipping.
-  Updated: 2025-09-25T11:31:58Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 62
 - [Gifts For Sister | Jewellery Gift Ideas For Sister | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-sister): Explore our stunning range of personalised gift ideas for sisters. Choose from personalised necklaces, gemstone rings, earrings and more. Complimentary shipping. Shop Today.
-  Updated: 2025-09-26T11:32:14Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 76
 - [Gifts For Friend | Best Friend Gift Ideas | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-friend): Give your friends the perfect gift! From matching necklaces to friendship rings, celebrate your friendship with our gifts for friends. Add free gift wrapping and jewellery care kit.
-  Updated: 2025-09-27T11:31:05Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 125
 - [Gifts For Bridesmaids | Bridesmaid Jewellery | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-bridesmaids): Discover bridesmaid gift ideas from personalised necklaces to engravable bracelets for a bridesmaid or maid of honour. Add a complimentary jewellery care kit. Shop today.
-  Updated: 2025-09-26T11:32:14Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 88
 - [Wide Range of Bridal Jewellery Gifts | Lily Blanche](https://www.lilyblanche.com/collections/bridal-jewellery-gifts): Discover bridal jewellery gift ideas. Create lasting memories with personalised jewellery that adds sparkle to the occasion. Add a complimentary jewellery care kit. Shop today.
   Updated: 2025-09-27T11:31:05Z
   Total Products: 95
 - [Gifts For Grandmother | Jewellery for Grandma | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-grandmother): Discover meaningful jewellery gifts for your grandmother. Choose from personalised necklaces, gemstone earrings and engravable bracelets. Free gift wrap and jewellery care kit.
-  Updated: 2025-09-25T11:31:58Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 54
 - [Gifts For Mum | Jewellery Gifts for Mothers | Lily Blanche](https://www.lilyblanche.com/collections/gifts-for-mum): Discover meaningful gifts for mum from personalised necklaces to engravable bracelets and more. Add a complimentary jewellery care kit. Shop today.
-  Updated: 2025-09-26T11:32:14Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 58
 - [Personalised Gifts | Jewellery Gift Ideas | Lily Blanche](https://www.lilyblanche.com/collections/personalised-gifts): Discover personalised gift ideas for every occasion. Choose from photo lockets, engraved necklaces and personalised birthstone jewellery. Add a complimentary jewellery care kit. Shop today.
   Updated: 2025-09-27T11:31:05Z
@@ -24134,7 +24134,7 @@ From £129
   Updated: 2025-09-27T11:31:05Z
   Total Products: 187
 - [Wide Range of Personalised Gifts Under £500 | Lily Blanche](https://www.lilyblanche.com/collections/gifts-under-500): Explore our range of personalised gifts under £500. Choose from photo lockets, engravable bracelets & personalised necklaces. Free shipping, gift wrap & jewellery care kit.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 42
 - [Christening Jewellery Gift Ideas | Lily Blanche](https://www.lilyblanche.com/collections/christening-gifts): Explore our range of personalised Christening gifts. Choose from engraved baby rattles, silver & gold charms, personalised necklaces and more. Free UK shipping and gift wrap.
   Updated: 2025-09-28T11:31:18Z
@@ -24149,19 +24149,19 @@ From £129
   Updated: 2025-09-27T11:31:05Z
   Total Products: 50
 - [40th Birthday Gifts for Her | Lily Blanche](https://www.lilyblanche.com/collections/40th-birthday-gifts): Explore our wide range of 40th birthday gifts for her. Choose from personalised and birthstone jewellery to make her 40th birthday special. Free shipping and luxury gift wrapping.
-  Updated: 2025-09-27T11:31:05Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 42
 - [Wide Range of 50th Birthday Gifts for Her | Lily Blanche](https://www.lilyblanche.com/collections/50th-birthday-gifts): Find the perfect 50th birthday gift for her with our range of personalised jewellery. Choose from photo necklaces, birthstone jewellery, rings & more. Free shipping & gift wrap.
-  Updated: 2025-09-25T11:31:58Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 50
 - [60th Birthday Gifts | Jewellery Gifts for Her | Lily Blanche](https://www.lilyblanche.com/collections/60th-birthday-gifts): Find the perfect 60th birthday gift for her from personalised necklaces and freshwater pearls to birthstone jewellery. Free shipping, gift wrap & jewellery care kit worth £20.
-  Updated: 2025-09-25T11:31:58Z
+  Updated: 2025-09-28T19:47:28Z
   Total Products: 37
 - [Most Gifted | Women's Jewellery Gift Ideas | Lily Blanche](https://www.lilyblanche.com/collections/most-gifted): Discover our most gifted pieces of jewellery from personalised necklaces & bracelets. Our Most Gifted range is designed to help you find the best gift for any occasion and style. Our jewellery is high quality and well-priced to ensure your gifts do not go unnoticed. Shop today and get a free gift and fast delivery.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 124
 - [Wide Range of Christmas Gifts for Daughter  | Lily Blanche](https://www.lilyblanche.com/collections/christmas-gifts-for-daughter): Explore our wide range of Christmas gifts for daughters from personalised necklaces to drop hoop earrings, rings and more. Free shipping, gift wrap and jewellery care kit worth £20.
-  Updated: 2025-09-27T11:31:05Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 91
 - [Wide Range of Christmas Gifts for Gradmother | Lily Blanche](https://www.lilyblanche.com/collections/christmas-gifts-for-grandmother): Discover our range of Christmas gifts for grandmothers, grans or grandmas with our range of personalised jewellery. Free shipping, gift wrap and jewellery care kit worth £20.
   Updated: 2025-09-27T11:31:05Z
@@ -24194,10 +24194,10 @@ From £129
   Updated: 2025-09-22T11:33:07Z
   Total Products: 62
 - [Featured](https://www.lilyblanche.com/collections/all): Shop our newest, most popular, and most relevant jewellery collections here. Want to stay ahead of the latest jewellery trends? Here you'll find the most fashionable looks and styling tips, seasonal ranges and trending gemstones. Be in with the in-crowd and stay in the know with our featured jewellery collections.
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 289
 - [Lily Blanche x Club L London](https://www.lilyblanche.com/collections/lily-blanche-x-club-l-london): Introducing Lily Blanche x Club L London. This fab Club L London collab is a sophisticated, on-trend collection of key pieces for the new season with one of the nation's best-loved occasion-wear brands. Mixing delicate gold chains, iconic St Christopher necklaces, stunning pearl necklaces and earrings, vintage glamour lockets and statement gemstone rings, let Lily Blanche x Club L London elevate your jewellery box and your wardrobe in one indulgent, stylish moment. Snap it up now before it goes!
-  Updated: 2025-09-28T11:31:18Z
+  Updated: 2025-09-28T19:50:28Z
   Total Products: 81
 - [Christmas Gifts | For Him | High-Quality | Lily Blanche](https://www.lilyblanche.com/collections/christmas-gifts-for-husband): Discover original Men's Jewellery for him, from personalised jewellery, to rings & necklaces. Our stunning range of for him, jewellery is the perfect gift for this holiday season. Find your exquisite gift online at Lily Blanche.
   Updated: 2025-09-28T11:31:18Z
@@ -24253,8 +24253,8 @@ From £129
 - [Lapis Lazuli Jewellery](https://www.lilyblanche.com/collections/lapis-lazuli): Explore our Lapis Lazuli jewellery collection, featuring beautifully handcrafted necklaces, earrings and bangles. Celebrated for its rich royal blue colour and natural golden flecks, lapis lazuli is a gemstone long associated with truth, wisdom and inner strength. As the birthstone for September, lapis lazuli makes a thoughtful and symbolic gift.
   Updated: 2025-09-17T11:32:55Z
   Total Products: 10
-- [Cross Necklaces](https://www.lilyblanche.com/collections/cross-necklaces): Explore our collection of cross necklaces, featuring elegant and meaningful designs in Sterling Silver and Gold. Each cross pendant is crafted with care and designed to be a timeless symbol of faith, hope, and protection. From classic gold cross necklaces to delicate silver cross pendants, this jewellery is perfect for religious gifts, christenings, confirmations, or personal wear.
-  Updated: 2025-09-27T11:31:05Z
+- [Cross Necklaces](https://www.lilyblanche.com/collections/cross-necklaces): Explore our collection of cross necklaces, featuring elegant and meaningful designs in sterling silver, gold & gemstones. Each cross pendant is crafted with care and designed to be a timeless symbol of faith, hope, and protection. From classic gold cross necklaces to delicate silver cross pendants, this jewellery is perfect for religious gifts, christenings, confirmations, or personal wear.
+  Updated: 2025-09-28T19:41:01Z
   Total Products: 20
 - [St Christopher Necklaces](https://www.lilyblanche.com/collections/st-christopher-necklaces): Travel safely with a personalised St Christopher necklace, handcrafted in solid silver, gold or 18 carat gold vermeil. This traditional necklace for men and women has become the style icon of the season and has been worn by fashionable celebrities such as Taylor Swift, Harry Styles and Hailey Bieber. Our meaningful travel protection pendants are traditionally worn as a symbol of safe travels and guidance. St Christopher jewellery is a thoughtful gift for adventurers, graduates, and loved ones embarking on a new journey. Now trending as modern heirloom pieces, St Christopher necklaces combine spiritual significance with contemporary style. Choose from classic round pendants, engraved medallions, and personalised options for a gift that’s both stylish and symbolic.
   Updated: 2025-09-28T11:31:18Z
@@ -24769,7 +24769,7 @@ From £129
     Author: Gillian Crawford
     Tags: Emma Cowing, four photo locket, locket necklace, lockets in literature, meet the author, Personalised lcokets, personalised locket necklace, premium quality lcokets, silver locket, vintage locket necklace
   - [Affirmation Jewellery - Your Complete Guide](https://www.lilyblanche.com/blogs/default-blog/affirmation-jewellery-guide): Affirmation Jewellery - Your Complete Guide
-    Updated: 2025-06-25T15:33:20Z
+    Updated: 2025-09-28T18:19:27Z
     Author: Gillian Crawford
     Tags: affirmation jewellery, best UK affirmetion jewellery, cross necklace, jewellery that empowers, jewellery with meaning, Meaning of affirmation jewellery, St Christopher medal, St Christopher Medalion, the affirmation jewellery trend in 2025, UK affirmation jewellery for men and women, who wears affirmation jewellery?, Who wears cross necklaces?
 
