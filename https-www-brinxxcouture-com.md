@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-27T20:00:47.555Z
+- Updated At: 2025-09-28T00:00:49.476Z
 
 ## Products
 
@@ -5546,7 +5546,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Cropped-Tank-and-Split-Skirt-Set-Brinxx-Couture-2877.jpg?v=1709346928
     Price: $45.00 USD
 - [Twisted Asymmetrical Short Sleeve Dress](https://www.brinxxcouture.com/products/twisted-asymmetrical-short-sleeve-dress): Discover effortless charm in this Twisted Asymmetrical Short Sleeve Dress. Crafted from soft luxurious fabric, this dress features a twist drape design at the front, creating an eye-catching silhouette. Perfect for any occasion, you’ll make a beautiful statement in this multi-dimensional dress!
-  Updated: 2025-09-13T14:23:43Z
+  Updated: 2025-09-27T20:10:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5938,7 +5938,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Moissanite-Platinum-Plated-Side-Stone-Ring-Brinxx-Couture-5533.jpg?v=1709360447
     Price: $79.00 USD
 - [1 Carat Moissanite Sterling Silver Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-sterling-silver-necklace): This 1 Carat Moissanite Necklace is a statement piece like no other. Crafted from 925 Sterling Silver and featuring a brilliant 1 Carat Moissanite gemstone.
-  Updated: 2025-07-20T22:52:26Z
+  Updated: 2025-09-27T21:12:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10518,7 +10518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Round-Neck-Short-Sleeve-Dress-Brinxx-Couture-7182.jpg?v=1709856599
     Price: $29.99 USD
 - [Gold Plated CZ Bracelet - Brinxx Couture](https://www.brinxxcouture.com/products/titanium-steel-bracelet): This elegant Gold Plated CZ Bracelet offers a timeless look with its shimmering cubic zirconia stones and gleaming gold plated base. Perfect with any outfit.
-  Updated: 2025-09-16T08:41:23Z
+  Updated: 2025-09-27T21:12:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12940,7 +12940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-27T08:20:36Z
+  Updated: 2025-09-27T23:40:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-27T19:00:40Z
+  Updated: 2025-09-27T23:40:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
