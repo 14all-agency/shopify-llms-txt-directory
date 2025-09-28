@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-09-26T08:00:27.916Z
+- Updated At: 2025-09-28T12:00:29.302Z
 
 ## Products
 
@@ -1580,13 +1580,13 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-09-24T11:19:32Z
+  Updated: 2025-09-26T11:19:48Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-09-25T12:29:48Z
+  Updated: 2025-09-28T11:26:40Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-09-25T12:29:48Z
+  Updated: 2025-09-28T11:26:40Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-09-21T11:19:34Z
@@ -1595,10 +1595,10 @@
   Updated: 2025-09-18T11:19:34Z
   Total Products: 4
 - [Cat Moisturizing Butters](https://theblissfulpets.com/collections/cat-moisturizing-butters)
-  Updated: 2025-09-22T11:18:03Z
+  Updated: 2025-09-28T11:26:40Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
-  Updated: 2025-09-25T12:29:48Z
+  Updated: 2025-09-28T11:26:40Z
   Total Products: 14
 - [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy)
   Updated: 2025-08-24T11:19:59Z
@@ -1619,13 +1619,13 @@
   Updated: 2025-09-05T11:19:00Z
   Total Products: 4
 - [Cat Sensitive Skin](https://theblissfulpets.com/collections/cat-sensitive-skin)
-  Updated: 2025-09-23T11:17:18Z
+  Updated: 2025-09-28T11:26:40Z
   Total Products: 5
 - [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse)
   Updated: 2025-09-21T11:19:34Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-09-25T12:29:48Z
+  Updated: 2025-09-28T11:26:40Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-09-23T11:17:18Z
