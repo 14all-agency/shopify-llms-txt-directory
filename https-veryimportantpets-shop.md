@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-28T08:01:18.439Z
+- Updated At: 2025-09-28T12:01:16.064Z
 
 ## Products
 
@@ -11185,7 +11185,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-senior-dog-grain-gluten-free-turkey-with-chicken-in-herb-gravy-tins-390g-x-12-senior-wet-235179.jpg?v=1741090464
   Price: £18.03 GBP
 - [Naturo Senior Turkey & Rice with Vegetables Pouch 8 x 150g](https://veryimportantpets.shop/products/naturo-senior-turkey-rice-with-vegetables-pouch-8-x-150g): Naturo Senior Turkey with Rice &amp; Vegetables Pouches. Shop online at Very Important Pets
-  Updated: 2025-09-24T13:29:05Z
+  Updated: 2025-09-28T08:57:45Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -12554,7 +12554,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-yumms-crunchy-biscuit-dog-treats-with-liver-5x400g-training-treats-691084.webp?v=1708773755
   Price: £8.83 GBP
 - [Webbox Chomping Chews Beef Dog Treats - Wheat & Gluten Free](https://veryimportantpets.shop/products/webbox-chomping-chews-beef): Webbox Beef Dog Treat with 50% fresh meat, wheat & gluten-free. No artificial colours, perfect for dogs with allergies. Satisfy chomping cravings.
-  Updated: 2025-09-26T08:28:18Z
+  Updated: 2025-09-28T10:40:55Z
   Vendor: Webbox
   Product Type: Dog Treats
   Availability: Available
@@ -16870,7 +16870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-hairball-care-adult-cat-dry-4-kg-809567.jpg?v=1702499768
     Price: £57.95 GBP
 - [Royal Canin Indoor +7](https://veryimportantpets.shop/products/royal-canin-indoor-7): Royal Canin Indoor 7+ is a balanced &amp; complete diet for senior cats that live an indoor lifestyle &amp; may need a more nutritionally complete diet than before. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:49Z
+  Updated: 2025-09-28T11:23:39Z
   Vendor: Royal Canin
   Product Type: Senior Cat Dry
   Availability: Available
@@ -21121,7 +21121,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/rosewood-pet-stuff-plastic-fork-for-hungry-cats-dogs-965868.jpg?v=1726868050
   Price: £4.80 GBP
 - [Rosewood Small Pet Food Can Cover](https://veryimportantpets.shop/products/rosewood-small-pet-food-tin-cover): Rosewood Pet Stuff Pet Food Small Can Cover. Shop online at Very Important Pets
-  Updated: 2025-09-23T13:29:08Z
+  Updated: 2025-09-28T09:26:21Z
   Vendor: Rosewood
   Product Type: 
   Availability: Available
@@ -24102,7 +24102,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-09-26T13:28:56Z
+  Updated: 2025-09-28T11:36:44Z
   Total Products: 410
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-09-22T18:54:02Z
@@ -24192,7 +24192,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-09-27T22:28:35Z
+  Updated: 2025-09-28T11:36:44Z
   Total Products: 1780
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-09-22T18:51:59Z
@@ -24639,7 +24639,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-09-27T22:28:35Z
+  Updated: 2025-09-28T11:36:44Z
   Total Products: 1700
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24693,7 +24693,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-18T19:55:55Z
   Total Products: 14
 - [Webbox Pet Food & Treat Essentials | Very Important Pets](https://veryimportantpets.shop/collections/webbox): Indulge your pets with Webbox's nutritious food and treats at Very Important Pets. Enjoy natural ingredients and flavours that cater to their health and delight. Free next-day delivery over £49.
-  Updated: 2025-09-26T11:36:02Z
+  Updated: 2025-09-28T11:36:44Z
   Total Products: 34
 - [Duck Houses](https://veryimportantpets.shop/collections/duck-house)
   Updated: 2025-07-20T07:31:27Z
@@ -24843,7 +24843,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-09-27T23:31:36Z
+  Updated: 2025-09-28T11:36:44Z
   Total Products: 2331
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
@@ -25256,6 +25256,8 @@ Omega-6 & 3 for skin.
   Updated: 2024-11-06T22:02:22Z
 - [Cookie Policy](https://veryimportantpets.shop/pages/cookie-policy): (function(d, s, id) { var js, tjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "...
   Updated: 2025-03-14T15:31:47Z
+- [Avada tag page](https://veryimportantpets.shop/pages/tag)
+  Updated: 2025-09-28T10:08:02Z
 
 ## Policies
 
