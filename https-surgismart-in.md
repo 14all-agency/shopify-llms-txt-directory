@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-28T04:00:32.196Z
+- Updated At: 2025-09-28T08:00:32.026Z
 
 ## Products
 
 - [Buy ​United Medicare Lumbar Corset with Strap (A-01) - Surgismart](https://surgismart.in/products/a-01): Key Features:Lumbar corset provides support, restricts motion, and facilitates healing with uniform compression. UM Lumbar corset is an ideal back support for general use with mild back aches. Provides noticeable therapeutic relief for the lumbar spine and supports the back muscles. May promote good posture and even helps reduce pelvic anterotation. Anatomically rigid splints may provide effective immobilisation and maintain correct and comfortable posture. Hook and loop closures that adjust for the most comfortable and easy fit. Direction of use: Place on the lower back and stretch the elastic from both the sides to lock in the front. Stretch and lock the loop elastic for additional reinforcement. Safety information: Read the label instruction carefully before using Keep reach out of children UM lumbar corset provides therapeutic relief for the lumbar spine. It also provides firm support for the lower back and helps maintain correct posture with enhanced compression for the lumber. Yes, you can wear your UM lumbar corset daily; however, you should consult your physician.UM lumbar corset with strap is used for patients who have acute lower back pain, slip disc, disc herniation, lumbar spondylitis, or muscle weakness. A lumbar corset works by applying pressure to your abdomen; it relieves pressure on your spine and joints, allowing you to recover more quickly. The corset can also be used to relieve discomfort following a sprain or strain for a brief period of time. Discuss the fit of your corset with your healthcare professional. It is important that your corset is the correct size for you and fits properly. Your healthcare professional will advise you on how long and how tight to make the corset to cover the areas that require support.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:36Z
+  Updated: 2025-09-28T07:48:51Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
@@ -3223,30 +3223,12 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitleddesign_1.png?v=1751477939
   Price: ₹1,149.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Gold - Surgismart](https://surgismart.in/products/medtech-nebulizer-handyneb-gold): Keep your respiratory problems at bay with MEDTECH Handyneb Gold Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Travel Pouch Included:Travel Hassle Free with the Handyneb Gold Nebulizer as you get an included travel pouch with the device that helps you to store your device and its accessories. Light Weight:The Medtech Handyneb Gold weighs just 1.5kgs which is really light and easy to carry around.Handle Design:The Medtech Handyneb Gold also has a handle integrated in the body which makes it convenient to carry around.Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-05T09:13:11Z
+  Updated: 2025-09-28T08:00:19Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1751477937
-  Price: ₹1,299.00 INR
-- [Buy 18" Disposable Bouffant Caps – Pack of 100 – Blue, Latex-Free](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100): Comfortable 18" blue disposable bouffant caps by Surgismart. Ideal for medical, kitchen, salon & lab use. Pack of 100. Breathable, latex-free, secure fit.
-  Updated: 2025-09-27T12:08:18Z
-  Vendor: Surgismart
-  Product Type: Free Shipping
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/CapImage1.jpg?v=1751477925
-  - [100 x ₹1.49](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693088024)
-    Availability: Available
-    Price: ₹149.00 INR
-  - [200 x ₹1.39](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693120792)
-    Availability: Available
-    Price: ₹278.00 INR
-  - [500 x ₹ 1.2](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693153560)
-    Availability: Available
-    Price: ₹625.00 INR
-  - [1000 x ₹1](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693186328)
-    Availability: Available
-    Price: ₹1,000.00 INR
+  Price: ₹1,499.00 INR
 - [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
   Updated: 2025-09-28T00:30:05Z
   Vendor: Surgismart
@@ -3337,15 +3319,29 @@
   - [3XL](https://surgismart.in/products/lab-coat-apron?variant=50546605130008)
     Availability: Available
     Price: ₹549.00 INR
+- [Classic Face Mask](https://surgismart.in/products/classic-face-mask)
+  Updated: 2025-09-28T07:51:26Z
+  Vendor: Surgismart
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/navy_facemask_prod_1200x1200_5ca9252b-b88b-4302-8f14-122b149eb9a9.webp?v=1759045881
+  Price: ₹99.00 INR
+- [Classic Head Cap](https://surgismart.in/products/classic-head-cap)
+  Updated: 2025-09-28T07:50:53Z
+  Vendor: Surgismart
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
+  Price: ₹99.00 INR
 
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-27T11:16:23Z
-  Total Products: 138
+  Updated: 2025-09-28T08:00:16Z
+  Total Products: 139
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
-  Updated: 2025-09-18T14:01:32Z
-  Total Products: 51
+  Updated: 2025-09-28T08:00:16Z
+  Total Products: 50
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-09-18T14:01:29Z
   Total Products: 23
@@ -3383,7 +3379,7 @@
   Updated: 2025-09-17T11:15:46Z
   Total Products: 65
 - [Buy ​Medtech - Surgismart](https://surgismart.in/collections/medtech): - Surgismart
-  Updated: 2025-08-01T11:05:29Z
+  Updated: 2025-09-28T08:00:17Z
   Total Products: 11
 - [Buy ​Surgical Instruments - Surgismart](https://surgismart.in/collections/surgical-instruments): - Surgismart
   Updated: 2025-08-01T11:05:29Z
@@ -3407,7 +3403,7 @@
   Updated: 2025-08-01T11:05:29Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-09-18T14:01:32Z
+  Updated: 2025-09-28T08:00:17Z
   Total Products: 37
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
   Updated: 2025-08-01T11:05:29Z
