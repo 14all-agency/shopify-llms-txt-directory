@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-05-07T06:36:41Z
 - Contact Email: support@trustedtechteam.digital
-- Updated At: 2025-09-27T20:00:31.088Z
+- Updated At: 2025-09-28T12:00:31.335Z
 
 ## Products
 
@@ -417,21 +417,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-datacenter-license-box.jpg?v=1756967689
   Price: $399.00 USD
 - [Microsoft Windows Server 2025 Standard License - 16 Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-license): Get the Microsoft Windows Server 2025 Standard - 16 Core License at TrustedTech. Reliable, powerful, and efficient for your business needs.
-  Updated: 2025-09-27T15:53:42Z
+  Updated: 2025-09-28T02:58:02Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-white-retail-box-blue-windows-logo-angled.jpg?v=1756895896
   Price: $295.00 USD
 - [Windows Server 2025 Standard license - 2 Core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-standard-license-2c): TrustedTech offers Microsoft Windows Server 2025 Standard license, 2-core edition for secure, scalable server deployment with improved performance, VM support.
-  Updated: 2025-09-27T15:53:42Z
+  Updated: 2025-09-28T08:39:55Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Standard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/9510/5603/files/microsoft-windows-server-2025-standard-license-white-retail-box-blue-windows-logo-front-angle.jpg?v=1756895897
   Price: $350.00 USD
 - [Windows Server 2025 Datacenter license - MS 2-core | TrustedTech](https://trustedtechteam.digital/products/windows-server-2025-datacenter-license-2): TrustedTech sells Microsoft Windows Server 2025 Datacenter license 2-core: enterprise virtualization, advanced security and scalable management for datacenters.
-  Updated: 2025-09-27T15:53:41Z
+  Updated: 2025-09-28T02:58:16Z
   Vendor: Microsoft
   Product Type: Microsoft > Windows Server > 2025 > Datacenter
   Availability: Available
