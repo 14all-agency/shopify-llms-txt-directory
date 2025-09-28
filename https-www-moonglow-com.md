@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2017-10-24T19:06:01Z
 - Contact Email: support@moonglow.com
-- Updated At: 2025-09-28T14:13:24.674Z
+- Updated At: 2025-09-28T16:00:34.451Z
 
 ## Products
 
@@ -150,7 +150,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Classic Necklace With Black Crystal](https://www.moonglow.com/products/classic-necklace-with-black-crystal): Edgy yet elegant, our Classic Necklace combines an awe-inspiring moon phase charm with the luxe sparkle of black crystal. Crafted with a vintage feel in hand-finished pewter, each pendant is uniquely original to the wearer.
-  Updated: 2025-09-28T13:56:08Z
+  Updated: 2025-09-28T15:41:37Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -383,14 +383,14 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FElegant_Stainless_Steel_Link_Chain-_p-2Fnew-ecom6S0A2695__cld.jpg?v=1758200915
   Price: $18.00 USD
 - [Classic Black Link Chain | Moonglow](https://www.moonglow.com/products/classic-black-link-chain): Pair this classic Black Stainless Steel link chain with your favorite mini moon charm to keep your most important dates close to your heart. The simple styling of this chain makes it perfect for pairing with the most elaborate or simple designs.
-  Updated: 2025-09-28T13:54:11Z
+  Updated: 2025-09-28T15:39:00Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecom6S0A2692.jpg?v=1758135362
   Price: $20.00 USD
 - [Classic Choker Necklace](https://www.moonglow.com/products/classic-choker-necklace): Edgy yet elegant, our Moonglow Classic Choker Necklace combines an awe-inspiring moon phase charm with the sparkle of black crystal.
-  Updated: 2025-09-28T13:27:11Z
+  Updated: 2025-09-28T15:25:30Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3984,31 +3984,31 @@
     Availability: Available
     Price: $49.00 USD
 - [ACCORDION](https://www.moonglow.com/products/accordion)
-  Updated: 2025-09-28T13:39:06Z
+  Updated: 2025-09-28T15:39:04Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [MAILER](https://www.moonglow.com/products/mailer)
-  Updated: 2025-09-28T13:39:07Z
+  Updated: 2025-09-28T15:39:01Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [JEWELRY CARD](https://www.moonglow.com/products/jewelry-card)
-  Updated: 2025-09-28T13:39:09Z
+  Updated: 2025-09-28T15:39:01Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [POUCH](https://www.moonglow.com/products/pouch)
-  Updated: 2025-09-28T13:39:06Z
+  Updated: 2025-09-28T15:39:00Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [CLEAR BAGS](https://www.moonglow.com/products/clear-bags)
-  Updated: 2025-09-28T13:39:11Z
+  Updated: 2025-09-28T15:39:01Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4807,7 +4807,7 @@
   Availability: Available
   Price: $0.00 USD
 - [LET001](https://www.moonglow.com/products/let001)
-  Updated: 2025-09-28T13:26:07Z
+  Updated: 2025-09-28T15:23:11Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
