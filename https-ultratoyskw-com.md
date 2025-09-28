@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-08-05T01:20:28Z
 - Contact Email: salesvicsv@gmail.com
-- Updated At: 2025-09-28T00:00:35.996Z
+- Updated At: 2025-09-28T16:00:36.182Z
 
 ## Products
 
@@ -2326,11 +2326,11 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/62.jpg?v=1758035462
   Price: ‏280.00 د.ك.‏ KWD
 - [سكوتر Citycoco: أداء قوي وتصميم فريد - Ultra Toy](https://ultratoyskw.com/products/سكوتر-citycoco-أداء-قوي-وتصميم-فريد): يعمل السكوتر بمحرك محوري قوي بدون فرشاة بقوة 1500 واط وبطارية ليثيوم أيون بسعة 60 فولت / 12 أمبير/ساعة. هذا المزيج يتيح له الوصول إلى سرعة تتراوح بين 30-50 كم/ساعة،
-  Updated: 2025-09-27T21:32:55Z
+  Updated: 2025-09-28T15:21:58Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/63_f7cbab49-89cd-477e-848d-a6f2e4cab24c.jpg?v=1758035470
+  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/Citycoco.jpg?v=1759026606
   Price: ‏220.00 د.ك.‏ KWD
 - [سكوتر كهربائي Citycoco أداء قوي وتصميم كلاسيكي - Ultra Toy](https://ultratoyskw.com/products/سكوتر-كهربائي-citycoco-أداء-قوي-وتصميم-كلاسيكي): يعتمد السكوتر على محرك قوي بدون فرشاة بقوة 2000 واط مما يسمح له بالوصول إلى سرعات عالية تتراوح بين 61-80 كم/ساعة.
   Updated: 2025-09-27T21:33:01Z
@@ -3334,14 +3334,14 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/202.jpg?v=1758053290
   Price: ‏30.00 د.ك.‏ KWD
 - [كرسي بلاستيكي للأطفال - Ultra Toys](https://ultratoyskw.com/products/كرسي-بلاستيكي-للأطفال-1): صُمم هذا الكرسي بـمسند ظهر منحني ليدعم عمود الطفل الفقري ويعزز وضعيته الصحيحة أثناء الجلوس. كما يتميز بـزوايا مستديرة وأسطح ناعمة لمنع الإصابات، ويحتوي على أقدام مانعة للانزلاق لضمان ثباته. - Ultra Toy
-  Updated: 2025-09-27T21:50:28Z
+  Updated: 2025-09-28T11:58:09Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/32c2fe7a-5637-40ac-b3eb-33f01e8ac0f8.jpg?v=1759009827
   Price: ‏4.45 د.ك.‏ KWD
 - [كرسي بلاستيكي للأطفال لعدة ألوان - Ultra Toy](https://ultratoyskw.com/products/كرسي-بلاستيكي-للأطفال-لعدة-ألوان): صُمم هذا الكرسي ليكون مناسبًا للأطفال الصغار من عمر سنة إلى ست سنوات، ويوفر لهم مقعدًا مريحًا بحجم مناسب. كما أنه مصمم للاستخدام في الأماكن الداخلية والخارجية،
-  Updated: 2025-09-27T21:43:03Z
+  Updated: 2025-09-28T09:42:28Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
@@ -3680,8 +3680,8 @@
   Updated: 2025-09-26T02:44:38Z
   Total Products: 129
 - [All Products (ChatGPT-AI Product Description) - Ultra Toys Kuwait](https://ultratoyskw.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate  - Ultra Toys Kuwait
-  Updated: 2025-09-27T21:50:21Z
-  Total Products: 520
+  Updated: 2025-09-28T09:22:47Z
+  Total Products: 521
 
 ## Blogs
 
