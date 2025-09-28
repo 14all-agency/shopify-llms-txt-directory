@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-28T00:00:32.465Z
+- Updated At: 2025-09-28T08:00:34.287Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-09-25T19:38:05Z
+  Updated: 2025-09-28T02:04:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2081,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-BEACH-TOBBACO-5.jpg?v=1757517441
     Price: $1.00 USD
 - [Newport Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport-1): Elevate your sewing projects with the Newport 1 Fabric Collection at Fabrics Star. Explore a diverse range of premium textiles, from elegant patterns to modern designs.
-  Updated: 2025-09-20T04:44:35Z
+  Updated: 2025-09-28T00:49:12Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9681,6 +9681,9 @@
     Author: User
   - [Debunking Common Myths About Organic Cotton](https://fabricsstar.com/blogs/news/debunking-common-myths-about-organic-cotton): Debunking Common Myths About Organic Cotton
     Updated: 2025-09-24T02:33:30Z
+    Author: User
+  - [How Fabrics Influence Fashion History An Overview](https://fabricsstar.com/blogs/news/how-fabrics-influence-fashion-history-an-overview): How Fabrics Influence Fashion History An Overview
+    Updated: 2025-09-28T00:08:56Z
     Author: User
 
 ## Store Pages
