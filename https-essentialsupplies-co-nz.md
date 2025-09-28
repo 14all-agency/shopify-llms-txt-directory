@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-28T08:00:39.473Z
+- Updated At: 2025-09-28T12:00:39.652Z
 
 ## Products
 
@@ -774,7 +774,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-back-tie-apron-white-800mm-x-1250mm-x-30mu-500-pieces-heavy-duty-plastic-body-protection-essential-supplies-157171.jpg?v=1719445558
   Price: $119.00 NZD
 - [Polypropylene Full Face Balaclavas - Blue, Elasticated, 25gsm - 400 Pieces](https://essentialsupplies.co.nz/products/polypropylene-full-face-balaclavas-blue-elasticated-25gsm-400): Disposable balaclavas are made from non woven polypropylene designed for minimal interference to breathing or communication. Balaclava covers entire mouth and bottom of the nose for optimal warmth, containment, and cleanliness. Covers entire mouth and bottom of the nose for optimal warmth, containment, and cleanliness 25gsm Colour: Blue Pack:400 pieces
-  Updated: 2025-01-09T10:59:59Z
+  Updated: 2025-09-28T11:13:56Z
   Vendor: Mattews Packaging
   Product Type: Head Protection
   Availability: Available
@@ -5259,7 +5259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/thickened-commercial-bleach-5-clear-5l-refill-bottle-washroom-care-essential-supplies-644849.jpg?v=1719445929
   Price: $35.00 NZD
 - [Active Bacterial Cleaner - Green, 5L Refill Bottle](https://essentialsupplies.co.nz/products/active-bacterial-cleaner-green-5l-refill-bottle-2): Active bacterial cleaner is a non toxic, biodegradable, environmentally friendly, deodorising agent, which augments biological action. It features natural enzymes which break down fats, oils and greases in septic tanks, grease traps, toilets and drains, making it easier for nature’s bacteria to consume any organic waste matter and at the same time any odours.
-  Updated: 2025-02-08T02:32:03Z
+  Updated: 2025-09-28T08:30:21Z
   Vendor: Mattews Packaging
   Product Type: Washroom Care
   Availability: Available
