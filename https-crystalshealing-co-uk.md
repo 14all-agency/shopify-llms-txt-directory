@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-28T12:00:35.814Z
+- Updated At: 2025-09-28T20:00:36.094Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4567,7 +4567,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_31.webp?v=1749663529
   Price: £18.00 GBP
 - [Rose Quartz Angel Necklace on Wax Cord](https://crystalshealing.co.uk/products/rose-quartz-angel-necklace-on-wax-cord): Invite love, compassion, and gentle energy into your life with this beautiful Rose Quartz Angel Necklace. Carved from genuine rose quartz, this angel-shaped pendant is both a meaningful symbol and a timeless accessory. Its soft pink hue radiates warmth and emotional healing, making it a favorite for those seeking balance, love, and peace. Each pendant measures approximately 2cm x 1.3cm, perfectly sized for everyday wear without overpowering your look. The angel hangs from a durable wax cord, offering a natural, earthy feel and comfortable fit you can wear all day. Rose quartz is often called the Stone of Unconditional Love, known to open the heart chakra and promote harmony in relationships. This Rose Quartz Angel Necklace makes a thoughtful gift for a loved one, or a beautiful reminder of self-love and emotional clarity. ✅ Hand-carved rose quartz angel pendant✅ Approx. size: 2cm x 1.3cm✅ Comfortable and adjustable wax cord✅ Symbol of love, protection, and healing✅ Perfect for gifting or daily spiritual wear Wear your angel close and let love guide your path.
-  Updated: 2025-09-27T06:05:09Z
+  Updated: 2025-09-28T13:32:48Z
   Vendor: Crystals Healing
   Product Type: Necklace
   Availability: Available
