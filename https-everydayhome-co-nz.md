@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-09-27T20:00:35.700Z
+- Updated At: 2025-09-28T00:00:35.843Z
 
 ## Products
 
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Metallic-Titanium-1.jpg?v=1727659051
   Price: $249.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 Black](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-black): Cubiko Adhesive Shower Bins, Black
-  Updated: 2025-09-25T17:40:25Z
+  Updated: 2025-09-27T22:42:56Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1138,7 +1138,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-36L-Platinum-5.png?v=1727660193
   Price: $479.99 NZD
 - [Brabantia Bo Pedal Bin - 36L Matt Black](https://everydayhome.co.nz/products/bo-pedal-bin-36l-matt-black): Looking for a waste solution that matches your style? This Brabantia Bo Pedal Bin 36 litre is beautiful on the outside and inside. It is space-saving, has hygienic pedal operation and the lid closes gently when you're done. This space efficient beauty also fits closely to the wall, so your waste management will not get in the way of your lifestyle. Go for Bo!
-  Updated: 2025-09-23T12:35:12Z
+  Updated: 2025-09-27T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1173,7 +1173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-White-5.png?v=1727659038
   Price: $579.99 NZD
 - [Brabantia Bo Pedal Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-pedal-bin-2-x-30l-platinum): Looking for a beautiful solution for waste separation? This Brabantia Bo Pedal Bin is a beauty inside and out, with two spacious 30 litre removable inner buckets for two kinds of waste. It fits snugly against a wall, has a protective non-skid base, hygienic and easy pedal opening and soft closure. A great bin in more ways than one!
-  Updated: 2025-09-25T19:52:10Z
+  Updated: 2025-09-27T23:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1453,7 +1453,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Grey-2.png?v=1727659128
   Price: $119.99 NZD
 - [Brabantia Refresh Steam Clothes Hanger - Pepper Black](https://everydayhome.co.nz/products/steam-clothes-hanger-pepper-black): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Steam Hanger. Made for use with hand steamers, it makes steaming easier and quicker. Especially those difficult parts like the collar and shoulders! A hot item for easy-peasy steaming.
-  Updated: 2025-09-23T12:35:35Z
+  Updated: 2025-09-27T21:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1824,7 +1824,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-09-27T03:07:11Z
+  Updated: 2025-09-27T22:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2853,7 +2853,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileKnifeBlockplusKnives-BeechWood-8710755260483Brabantia_96dpi_1000x1000px_7_NR-19790.png?v=1734574130
   Price: $389.95 NZD
 - [Brabantia New Touch Bin - 30L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/rd-touch-bin-new-30l-matt-steel-fingerprint-proof): Ready for the next step in organising your home? Get your hands on the Brabantia Touch Bin 30 litre. Just touch the lid and it opens smoothly. It really is seriously easy – to open, to change the bin bags, to clean... This touch bin also has a round design, is sturdy, and protects your floor thanks to the protection rim. Bring on the years of intensive, problem free use with 30 litres of value for money.
-  Updated: 2025-09-17T04:15:55Z
+  Updated: 2025-09-27T22:41:20Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2874,7 +2874,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $349.99 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-26T00:22:12Z
+  Updated: 2025-09-27T22:22:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2972,7 +2972,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $139.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-26T04:22:11Z
+  Updated: 2025-09-27T22:22:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3322,7 +3322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_XL_setof2-Transparent-8710755148965Brabantia_96dpi_1000x1000px_7_NR-26293.png?v=1733862417
   Price: $34.99 NZD
 - [Brabantia Stackable Glass Jar - 1.1L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-1l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-09-26T03:22:13Z
+  Updated: 2025-09-27T23:22:07Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3371,7 +3371,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ConcreteTubePlastic_Size2_O45mm-Black-8710755296789Brabantia_96dpi_1000x1000px_7_NR-1806_a37b3a9a-dc8f-4293-ab16-6bbdcce3a7d4.png?v=1733865664
   Price: $31.99 NZD
 - [Brabantia Stackable Glass Jar - 0.7L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-0-7l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-09-26T03:22:11Z
+  Updated: 2025-09-27T23:22:07Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4868,7 +4868,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_CC02.jpg?v=1755823621
   Price: $39.99 NZD
 - [Umbra Flex Shower Caddy - White](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-white): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-09-23T17:07:06Z
+  Updated: 2025-09-27T20:07:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
