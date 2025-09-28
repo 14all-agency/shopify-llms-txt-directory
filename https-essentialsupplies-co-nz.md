@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-27T20:00:39.201Z
+- Updated At: 2025-09-28T00:00:38.958Z
 
 ## Products
 
@@ -4531,7 +4531,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/flat-mop-pad-blue-wet-dry-540mm-wide-1-pad-mops-essential-supplies-143161.jpg?v=1719445078
   Price: $26.00 NZD
 - [Flat Mop Pad - Blue, Wet & Dry, 640mm Wide - 1 Pad](https://essentialsupplies.co.nz/products/flat-mop-pad-blue-wet-dry-640mm-wide-1)
-  Updated: 2025-01-17T19:48:59Z
+  Updated: 2025-09-27T22:58:50Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
