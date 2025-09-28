@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-28T00:00:49.476Z
+- Updated At: 2025-09-28T04:00:48.392Z
 
 ## Products
 
@@ -6193,7 +6193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-925-Sterling-Silver-Necklace-Brinxx-Couture-6736.jpg?v=1730298638
   Price: $149.00 USD
 - [Surplice Neck Slit Sleeveless Dress - Brinxx Couture](https://www.brinxxcouture.com/products/surplice-neck-slit-sleeveless-dress): This stylish dress features a surplice neck, sleeveless design, and a flattering slit. It's perfect for a night out or a special occasion. Made from high-quality fabric, this dress is both comfortable and stylish. Order yours today!
-  Updated: 2025-08-25T05:00:41Z
+  Updated: 2025-09-28T01:40:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-27T15:00:46Z
+  Updated: 2025-09-28T03:44:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10442,7 +10442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1723.jpg?v=1709856542
     Price: $29.99 USD
 - [Ruched Short Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-short-sleeve-dress): This Ruched Short Sleeve Dress is a versatile look, crafted from a lightweight and stretchy material. This dress features a classic design with an ruched neck.
-  Updated: 2025-07-31T14:05:12Z
+  Updated: 2025-09-28T03:49:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10948,7 +10948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Caramel-Platform-Combat-Boots-Brinxx-Couture-3438.jpg?v=1709862667
     Price: $50.00 USD
 - [Round Neck Puff Sleeve Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-puff-sleeve-sleeve-blouse): This Round Neck Puff Sleeve Sleeve Blouse is perfect for any occasion! Its round neck design and puff long sleeves add a touch of elegance to your style.
-  Updated: 2025-09-26T09:02:06Z
+  Updated: 2025-09-28T01:41:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11424,7 +11424,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/One-Shoulder-Ruched-Slit-Maxi-Dress-Brinxx-Couture-3729.jpg?v=1709864742
     Price: $39.99 USD
 - [2 Carat Moissanite Sterling Silver Ring - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-sterling-silver-ring): This 2 Carat Moissanite Sterling Silver Ring will make an eye-catching addition to any jewelry collection. Crafted using the highest quality of sterling silver.
-  Updated: 2025-09-26T03:12:47Z
+  Updated: 2025-09-28T01:28:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12940,7 +12940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-27T23:40:45Z
+  Updated: 2025-09-28T03:21:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15985,7 +15985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tied-Flounce-Sleeve-Mini-Dress-Brinxx-Couture-5707.jpg?v=1709882900
     Price: $45.00 USD
 - [SO PINK BEAUTY Faux Mink Eyelashes Variety Pack - Brinxx Couture](https://www.brinxxcouture.com/products/so-pink-beauty-faux-mink-eyelashes-variety-pack): Enhance your natural beauty with SO PINK BEAUTY Faux Mink Eyelashes Variety Pack. Each pack contains 5 pairs of high-quality faux mink lashes, providing a variety of styles.
-  Updated: 2025-09-21T13:01:07Z
+  Updated: 2025-09-28T01:43:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20153,7 +20153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Wide-Leg-Pants-with-Pockets-Brinxx-Couture-7151.jpg?v=1730295166
     Price: $50.00 USD
 - [Lace Detail V-Neck Short Sleeve Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/lace-detail-v-neck-short-sleeve-bodysuit): Elevate your everyday look with our Lace Detail V-Neck Short Sleeve Bodysuit. Delicately designed with lace detailing and a flattering v-neck.
-  Updated: 2025-09-27T07:00:53Z
+  Updated: 2025-09-28T03:00:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-27T23:40:40Z
+  Updated: 2025-09-28T03:43:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25927,7 +25927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-09-27T02:43:40Z
+  Updated: 2025-09-28T00:06:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29722,7 +29722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pTwQ7K1D9HPxwMo7n__2210235870173-0-cib.jpg?v=1735321332
     Price: $69.99 USD
 - [Off-Shoulder Long Sleeve Lace Dress - Brinxx Couture](https://www.brinxxcouture.com/products/off-shoulder-long-sleeve-lace-dress): This elegant off-shoulder dress with long lace sleeves will make you feel confident and stylish. The sexy lace adds a touch of romance to this versatile piece.
-  Updated: 2025-09-26T23:31:51Z
+  Updated: 2025-09-28T03:05:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32139,7 +32139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1316093758332207104.jpg?v=1741035072
     Price: $59.99 USD
 - [Red Bodycon Cocktail Dress - Brinxx Couture](https://www.brinxxcouture.com/products/red-bodycon-cocktail-dress): Unleash your bold and adventurous side with our Red Bodycon Cocktail Dress! This stunning dress accentuates your curves and commands attention. Be fierce.
-  Updated: 2025-08-22T19:26:13Z
+  Updated: 2025-09-28T01:20:04Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32737,7 +32737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01EKm6rB1cWVwr2bqg8__2153273608-0-cib.jpg?v=1743826513
     Price: $39.99 USD
 - [Pointed Open Toe Rhinestone Jeweled Party Heels](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels): Elevate your outfit with our Pointed Open Toe Rhinestone Jeweled Party Heels! Featuring a stylish pointed open design and glimmering rhinestone embellishments.
-  Updated: 2025-07-16T07:21:23Z
+  Updated: 2025-09-28T01:52:23Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32775,35 +32775,35 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01YEfUWF1e59O2imWjA__2212335093819-0-cib.jpg?v=1744046723
     Price: $59.99 USD
   - [35 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896025907382)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [36 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896025940150)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [37 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896025972918)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [38 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896026005686)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [39 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896026038454)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [40 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896026071222)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [41 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896026103990)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
   - [42 / Black](https://www.brinxxcouture.com/products/pointed-open-toe-rhinestone-jeweled-party-heels?variant=43896026136758)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VJmSkk1e59OD4seRP__2212335093819-0-cib_ba5e189a-7056-4037-ac44-b8bd3db16481.jpg?v=1744046723
     Price: $59.99 USD
 - [Sleeveless Square Neck Wide Strap Tank - Brinxx Couture](https://www.brinxxcouture.com/products/sleeveless-square-neck-wide-strap-tank): Introducing our Sleeveless Square Neck Wide Strap Tank! Designed for comfort and style, this tank features a square neckline and wide straps for a chic look.
@@ -34325,28 +34325,14 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/5a28f18b69fa490abdb595b753327363-Max-Origin.webp?v=1747405821
     Price: $30.00 USD
-- [Pearl Bow Shaped Clutch Handbag - Brinxx Couture](https://www.brinxxcouture.com/products/pearl-bow-shaped-clutch-handbag): Indulge in luxury and elevate your style with our elegant Pearl Bow Shaped Clutch Handbag. Adorned with exquisite pearls and a charming bow shape.
-  Updated: 2025-07-07T21:00:34Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002145.jpg?v=1747426132
-  - [Gold](https://www.brinxxcouture.com/products/pearl-bow-shaped-clutch-handbag?variant=43991454187702)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002145F.jpg?v=1747426132
-    Price: $89.99 USD
-  - [Silver](https://www.brinxxcouture.com/products/pearl-bow-shaped-clutch-handbag?variant=43991454220470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002145G.jpg?v=1747426132
-    Price: $89.99 USD
 - [Faux Leather Metal Handle Clutch - Brinxx Couture](https://www.brinxxcouture.com/products/faux-leather-metal-handle-clutch): Experience luxury and sophistication with our Faux Leather Metal Handle Clutch. Crafted with premium faux leather and a sleek metal handle an exquisite accessory.
-  Updated: 2025-07-07T21:00:34Z
+  Updated: 2025-09-28T02:51:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002088.jpg?v=1747426193
   - [Black](https://www.brinxxcouture.com/products/faux-leather-metal-handle-clutch?variant=43991458676918)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002088D.jpg?v=1747426193
     Price: $89.99 USD
   - [Silver](https://www.brinxxcouture.com/products/faux-leather-metal-handle-clutch?variant=43991458709686)
