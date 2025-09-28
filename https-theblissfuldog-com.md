@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-28T00:00:39.466Z
+- Updated At: 2025-09-28T08:00:41.280Z
 
 ## Products
 
@@ -7472,7 +7472,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBETAN_SPANIEL_RELAX_SPRAY_2500.jpg?v=1627048336
     Price: $13.95 USD
 - [Is Your Samoyed Afraid of Thunderstorms? Scared of Fireworks?](https://theblissfuldog.com/products/samoyed-relax-dog-aromatherapy): The Blissful Dog Relax Dog Aromatherapy calms the Samoyed afraid of thunder, fireworks, being alone using gentle essential oils. FREE Shipping USA
-  Updated: 2025-09-27T17:57:04Z
+  Updated: 2025-09-28T01:16:59Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -9143,7 +9143,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IT_GREYHOUND_RELAX_SPRAY_2500-copy.jpg?v=1623441919
     Price: $13.95 USD
 - [Is Your Greyhound Afraid of Thunder? Fireworks? Being Alone? Clowns?](https://theblissfuldog.com/products/greyhound-relax-dog-aromatherapy): Is your Greyhound afraid of thunderstorms? Fireworks? The calming blend of oils in Relax Dog Aromatherapy takes the edge off your dog's stress…naturally.
-  Updated: 2025-09-27T23:09:54Z
+  Updated: 2025-09-28T00:16:57Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -13133,7 +13133,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/YORKIE_COMBO_2022.jpg?v=1650823235
   Price: $19.95 USD
 - [Tibetan Terrier Nose Butter® For Rough, Dry, Uncomfortable Dog Noses](https://theblissfuldog.com/products/tibetan-terrier-nose-butter): The Blissful Dog Tibetan Terrier Nose Butter® for your dog's rough, dry dog nose. Available in Unscented and Scented, in tins and tubes with TT on labels.
-  Updated: 2025-06-24T16:09:35Z
+  Updated: 2025-09-28T07:57:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
