@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-08-05T01:20:28Z
 - Contact Email: salesvicsv@gmail.com
-- Updated At: 2025-09-27T20:00:34.686Z
+- Updated At: 2025-09-28T00:00:35.996Z
 
 ## Products
 
@@ -1898,56 +1898,56 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/136.jpg?v=1758730317
   Price: ‏19.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية بتصميم رياضي مميز - Ultra Toys Kuwait](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-بتصميم-رياضي-مميز): تُعد هذه السيارة الكهربائية المخصصة للأطفال، والتي تحمل رقم المنتج WMT-915، خيارًا ممتازًا بتصميمها الذي يشبه السيارات الرياضية الفاخرة. السيارة.
-  Updated: 2025-09-20T21:52:50Z
+  Updated: 2025-09-27T21:35:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/1_09fe0d5d-6ad4-4e0a-ae9b-dbd587d5f11b.jpg?v=1758035352
   Price: ‏190.00 د.ك.‏ KWD
 - [سيارة لاند روفر ديسكفري HL-2388 كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-لاند-روفر-ديسكفري-hl-2388-كهربائية-للأطفال): تُعد سيارة لاند روفر ديسكفري HL-2388 الكهربائية للأطفال خيارًا ممتازًا بتصميمها الواقعي والمرخص من لاند روفر. تعمل ببطارية قوية 12 فولت ومحركين بقوة 30 وات، مما يمنحها سرعة مناسبة للأطفال تصل إلى 3.7 كم/ساعة. - Ultra Toy
-  Updated: 2025-09-20T21:52:51Z
+  Updated: 2025-09-27T21:35:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/2_9e88769b-8db2-420d-b481-c62ec23d71bd.jpg?v=1758035358
   Price: ‏65.00 د.ك.‏ KWD
 - [سيارة شحن كهربائية للأطفال من رنج روفر 12 فولت - Ultra Toys Kuwait](https://ultratoyskw.com/products/سيارة-شحن-كهربائية-للأطفال-من-رنج-روفر): صُممت السيارة لتناسب الأطفال من عمر 1 إلى 7 سنوات، وتتضمن ميزات إضافية لزيادة المتعة والأمان، مثل  ومشغل موسيقى مدمج يدعم الاتصال عبر USB وAUX و Bluetooth. كما أنها مجهزة بحزام أمان، وقد تتضمن جهاز تحكم عن بعد للوالدين لضمان أقصى درجات الأمان أثناء القيادة. - Ultra Toy
-  Updated: 2025-09-20T21:52:51Z
+  Updated: 2025-09-27T21:35:50Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/3_1d8f5637-25f9-4b11-a3b7-bb1619818d3b.jpg?v=1758035360
   Price: ‏80.00 د.ك.‏ KWD
 - [سيارة لامبورجيني هوراكان QLS-5188A كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-لامبورجيني-هوراكان-qls-5188a-كهربائية-للأطفال): تعمل السيارة ببطارية قوية 24 فولت، مما يمنحها وقتاً طويلاً للعب. وتوفر لطفلك وضعين للقيادة: يمكنه التحكم فيها بنفسه باستخدام عجلة القيادة ودواسة القدم، أ
-  Updated: 2025-09-20T21:52:51Z
+  Updated: 2025-09-27T21:35:51Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/4_2.jpg?v=1758035361
   Price: ‏60.00 د.ك.‏ KWD
 - [سيارة شرطة كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-شرطة-كهربائية-للأطفال): تُعد هذه السيارة الكهربائية المصممة خصيصاً للأطفال خياراً مثالياً لمنح طفلك تجربة محاكاة واقعية، حيث تتميز بملصقات "POLICE" و "GATINEAU" وأضواء شرطة في الأعلى. تعمل السيارة ببطارية 12 فولت وبمحركين بقوة 380 واط، وتتضمن ميزات تفاعلية إضافية مثل الميكروفون، مما يمنح طفلك متعة لا مثيل لها. - Ultra Toy
-  Updated: 2025-09-20T21:52:51Z
+  Updated: 2025-09-27T21:35:50Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/5.jpg?v=1758035362
   Price: ‏35.00 د.ك.‏ KWD
 - [سيارة مرسيدس بنز كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-مرسيدس-بنز-كهربائية-للأطفال): تُعد سيارة الشرطة الكهربائية طراز JM-7188 خياراً متميزاً للأطفال، بتصميمها الواقعي المستوحى من شاحنة الشرطة الصغيرة من مرسيدس بنز. تعمل السيارة بأربعة محركات قوية وبطارية 12 فولت، مما يضمن أداءً موثوقاً وتجربة قيادة ممتعة. - Ultra Toy
-  Updated: 2025-09-20T21:52:51Z
+  Updated: 2025-09-27T21:35:50Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/6_4a5be946-d146-452e-a96b-2ee4a6cca3e0.jpg?v=1758035365
   Price: ‏55.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية للأطفال مع تحكم عن بعد - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-للأطفال-مع-تحكم-عن-بعد): تُعد هذه السيارة الجيب الكهربائية للأطفال خياراً مثالياً بتصميمها الواقعي وميزاتها المتقدمة. تعمل ببطاريتين وتدعم محركين، وتوفر وضعي قيادة مزدوجين: يدوياً من قِبَل الطفل
-  Updated: 2025-09-20T21:52:51Z
+  Updated: 2025-09-27T21:35:40Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/7.jpg?v=1758035365
   Price: ‏32.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية بمصابيح إضاءة LED - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-بمصابيح-إضاءة-led): تُعد هذه السيارة الكهربائية المخصصة للأطفال خياراً مثالياً بتصميمها المميز. تتميز بمصد أمامي مزود بشريط إضاءة ومصابيح موضعية في الجزء السفلي. تتوفر هذه السيارة بلونين: الأحمر والأبيض، ويبلغ حجمها 118 × 70 × 75 سم. - Ultra Toy
-  Updated: 2025-09-20T21:52:52Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
@@ -1955,224 +1955,224 @@
   Price: ‏35.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية للأطفال مع إضاءة - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-للأطفال-مع-إضاءة): تُعد هذه السيارة الجيب الكهربائية للأطفال خيارًا ممتازًا يتميز ببطاريتين ومحركين، مع مصد أمامي مزود بضوء وضوء موضعي في الأسفل. يبلغ قياسها 118 × 70 × 75 سم، 
 . - Ultra Toy
-  Updated: 2025-09-20T21:52:52Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/9.jpg?v=1758035368
   Price: ‏40.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية للأطفال (موديل J95) - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-للأطفال-موديل-j95): تُعد سيارة الجيب الكهربائية طراز J95 خياراً مثالياً للأطفال من عمر سنتين إلى 8 سنوات. تعمل ببطارية قوية 12 فولت ومحركين، مما يمنحها أداءً ممتازاً.. - Ultra Toy
-  Updated: 2025-09-20T21:52:52Z
+  Updated: 2025-09-27T21:35:36Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/10_168fe66b-294d-4d2e-97e9-d7b8c362f1e8.jpg?v=1758035368
   Price: ‏45.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية فاخرة للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-فاخرة-للأطفال): تُعد سيارة الجيب الكهربائية KP-906 خياراً مثالياً يوفر لطفلك تجربة قيادة فاخرة ومريحة. تتميز السيارة بالعديد من الميزات المتقدمة، مثل شاشة LCD، ومقعد من الجلد، وإطارات EVA، وعجلات وامضة، وامتصاص صدمات هيدروليكي، مما يضمن قيادة سلسة وممتعة. - Ultra Toy
-  Updated: 2025-09-20T21:52:52Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/11.jpg?v=1758035370
   Price: ‏75.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية للأطفال مع مقعد جلدي وعجلات مضيئة - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-للأطفال-مع-مقعد-جلدي-وعجلات-مضيئة): تتميز بمقعد جلدي، وعجلات EVA مضيئة، مما يضيف لمسة من الأناقة والمتعة. كما أنها مزودة بمشغل MP3 لتمكين طفلك من الاستماع إلى الموسيقى أثناء القيادة.
-  Updated: 2025-09-20T21:52:52Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/12.jpg?v=1758035377
   Price: ‏55.00 د.ك.‏ KWD
 - [سيارة جيب بولاريس  كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كلاس-كهربائية-للأطفال): تتميز بمقعد جلدي مريح وعجلات كبيرة ومناسبة لمختلف التضاريس، مما يجعلها مثالية للاستخدام في الأماكن المفتوحة. كما يمكن التحكم بها عن بعد من قِبَل الوالدين لضمان الأمان
-  Updated: 2025-09-20T21:52:52Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/13.jpg?v=1758035378
   Price: ‏100.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-للأطفال): تتميز بميزات عملية مثل ضوء سبوت في الأسفل، وإمكانية التحكم فيها عن بُعد من قبل الوالدين. كما أنها قد تحتوي على ميزات إضافية مثل أضواء LED، وبوق، ومشغل موسيقى مدمج. يبلغ حجمها 115 × 70 × 73 سم. - Ultra Toy
-  Updated: 2025-09-20T21:52:53Z
+  Updated: 2025-09-27T21:35:36Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/14.jpg?v=1758035380
   Price: ‏40.00 د.ك.‏ KWD
 - [سيارة جيب بولاريس SMT-901 كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/باجي-شحن-كهربائية-للأطفال): تتميز بمقعد جلدي، وعجلات EVA مضيئة، ومشغل MP3، مما يضمن لطفلك تجربة قيادة فاخرة ومريحة. يبلغ حجمها 148 × 92 × 83 سم، وتناسب الأطفال من عمر 2 إلى 13 سنة، مما يضمن سنوات طويلة من المتعة والمغامرات. - Ultra Toy
-  Updated: 2025-09-20T21:52:53Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/15_73fb8963-a6ce-4ec5-80c6-6ee3fc3e9d8f.jpg?v=1758035381
   Price: ‏95.00 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال مع عجلات مضيئة - Ultra Toy](https://ultratoyskw.com/products/سيارة-كهربائية-للأطفال-مع-عجلات-مضيئة): تتميز هذه السيارة الكهربائية المصممة للأطفال بأربعة محركات وبطارية قوية 12 فولت، مما يضمن قيادة سلسة وفعالة. كما أنها مزودة بعجلات مضيئة، ومقاعد جلدية، وشاشة LCD، ونظام تعليق هيدروليكي، مما يوفر لطفلك تجربة قيادة فاخرة ومريحة. - Ultra Toy
-  Updated: 2025-09-20T21:52:53Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/16_950659c8-6c5b-4f4d-a4b7-69a38a446e5f.jpg?v=1758035382
   Price: ‏47.00 د.ك.‏ KWD
 - [سيارة لكزس LC500 الكهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-لكزس-lc500-الكهربائية-للأطفال): تتميز السيارة بالتحكم المزدوج، حيث يمكن لطفلك قيادتها يدوياً باستخدام دواسة القدم، أو يمكنك التحكم بها عن بعد باستخدام جهاز التحكم المخصص للوالدين.
-  Updated: 2025-09-20T21:52:53Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/17.jpg?v=1758035384
   Price: ‏35.00 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال بتصميم فاخر - Ultra Toy](https://ultratoyskw.com/products/سيارة-كهربائية-للأطفال-بتصميم-فاخر): تتميز بميزات أمان مثل حزام الأمان ونظام التعليق الخلفي. كما أنها مزودة بمصابيح LED ونظام صوتي، وتتيح للوالدين التحكم فيها عن بعد. تتوفر هذه السيارة بألوان جذابة تشمل الأسود والأبيض والأزرق والأحمر والفضي، ويبلغ حجمها 105 × 50 × 38 سم. - Ultra Toy
-  Updated: 2025-09-20T21:52:53Z
+  Updated: 2025-09-27T21:35:35Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/18.jpg?v=1758035384
   Price: ‏35.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية بتصميم فاخر - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-بتصميم-فاخر): تُعد هذه السيارة الكهربائية المخصصة للأطفال خياراً مثالياً بتصميمها الذي يشبه سيارات لكزس الفاخرة. تعمل السيارة ببطارية 12 فولت ومحركين قويين، وتوفر لطفلك تجربة قيادة مريحة بفضل مقعدها الجلدي وعجلاتها
-  Updated: 2025-09-20T21:52:53Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/19.jpg?v=1758035386
   Price: ‏45.00 د.ك.‏ KWD
 - [سيارة لكزس LX-570 كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-لكزس-lx-570-كهربائية-للأطفال): تتميز بمقعد جلدي، وعجلات EVA لضمان قيادة سلسة، ومشغل MP3 لتشغيل الموسيقى المفضلة. تتوفر هذه السيارة بألوان جذابة تشمل الأبيض والأحمر والأسود والوردي والفضي، ويبلغ حجمها 126 × 77 × 62 سم. - Ultra Toy
-  Updated: 2025-09-20T21:52:54Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/20.jpg?v=1758035388
   Price: ‏65.00 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال مع مقعد جلدي وعجلات EVA - Ultra Toy](https://ultratoyskw.com/products/سيارة-كهربائية-للأطفال-مع-مقعد-جلدي-وعجلات-eva): توفر السيارة خيارين للتحكم: يمكن للطفل قيادتها يدوياً، أو يمكن للوالدين التحكم بها عن بعد لضمان الأمان. وهي مزودة بميزات إضافية مثل حزام الأمان، وأضواء LED، وبوق، ونظام موسيقى يدعم الاتصال عبر USB و AUX، مما يضيف المزيد من المتعة والإثارة أثناء اللعب. - Ultra Toy
-  Updated: 2025-09-20T21:52:54Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/21.jpg?v=1758035389
   Price: ‏45.00 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال HZBB-766 - Ultra Toy](https://ultratoyskw.com/products/سيارة-كهربائية-للأطفال): تتميز بمقعد مريح، وتوفر تجربة قيادة سلسة وممتعة. كما أنها مجهزة بمصابيح أمامية LED، مما يضيف المزيد من الواقعية. يبلغ حجم السيارة 94 × 47 × 45 سم، وهي مناسبة للأطفال من عمر سنتين إلى 5 سنوات. - Ultra Toy
-  Updated: 2025-09-20T21:52:54Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/22_a9b86b62-3ff9-463d-a3be-c007aed20495.jpg?v=1758035397
   Price: ‏30.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية بتصميم لامبورجيني سيان HZBB-866 - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-بتصميم-لامبورجيني): تعمل السيارة ببطارية قوية 12 فولت ومحركين، وهي مجهزة بمقعد من الجلد وعجلات من مادة EVA لضمان قيادة سلسة ومريحة. وتوفر خيارين للتحكم: يمكن لطفلك قيادتها بنفسه، أو يمكنك التحكم بها عن بعد لزيادة الأمان. - Ultra Toy
-  Updated: 2025-09-20T21:52:54Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/23_e41dc8d7-1e17-4847-9d1d-97a6ac857fe1.jpg?v=1758035398
   Price: ‏37.00 د.ك.‏ KWD
 - [سيارة مرسيدس-بنز JM-1188 الكهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-مرسيدس-بنز-jm-1188-الكهربائية-للأطفال): تتضمن السيارة ميزات إضافية لزيادة المتعة والأمان، مثل أضواء LED، ونظام موسيقى يدعم الاتصال عبر MP3، وUSB، وSD. ولضمان سلامة الطفل، فهي مزودة بحزام أمان، مع إمكانية التحكم بها عن بُعد من قِبَل الوالدين. كما قد تحتوي على وظيفة التأرجح للترفيه. - Ultra Toy
-  Updated: 2025-09-20T21:52:54Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/24.jpg?v=1758035398
   Price: ‏35.00 د.ك.‏ KWD
 - [سيارة مرسيدس بنز G63 AMG الكهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-مرسيدس-بنز-g63-amg-الكهربائية-للأطفال): تتميز بمقعد جلدي مريح وعجلات EVA التي توفر قيادة سلسة وهادئة. كما أنها مزودة بمشغل MP3 لتمكين طفلك من الاستمتاع بموسيقاه المفضلة أثناء القيادة. تتوفر هذه السيارة بألوان جذابة تشمل الأبيض والأحمر والأسود، ويبلغ حجمها 140 × 73 × 61.5 سم. - Ultra Toy
-  Updated: 2025-09-20T21:52:54Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/26.jpg?v=1758035401
   Price: ‏75.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية بتصميم فاخر ومقعد جلدي - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-بتصميم-فاخر-ومقعد-جلدي): يمكن للوالدين التحكم يدوياً، أو يمكن للوالدين التحكم عن بعد. كما أنها مزودة بمصابيح أمامية LED، نظام موسيقى مدمج توصيلات USB وبلوتوث. نقدم لكم هذه السيارة الكهربائية الرائعة بعدة ألوان منها&nbsp; الرمادي والوردي باللون الأبيض، إلا أن مقاسها 129 × 69 × 62 سم.
-  Updated: 2025-09-20T21:52:55Z
+  Updated: 2025-09-27T21:35:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/27.jpg?v=1758035402
   Price: ‏55.00 د.ك.‏ KWD
 - [سيارة جيب كهربائية رباعية الدفع للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-جيب-كهربائية-رباعية-الدفع-للأطفال): تُعد سيارة الجيب الكهربائية طراز JM-9188 خياراً قوياً ومميزاً للأطفال، حيث تعمل ببطارية 12 فولت ونظام . تتميز بمقعد مريح من الجلد وعجلات EVA مضيئة، مما يضيف لمسة من الأناقة والمتعة.
-  Updated: 2025-09-20T21:52:55Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/28_57b04448-e923-4f1b-bc64-6ecf1dc146ba.jpg?v=1758035402
   Price: ‏85.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية بشخصية Hello Kitty - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-بشخصية-hello-kitty): تُعد هذه السيارة الكهربائية المخصصة للأطفال خياراً مثالياً لمحبي شخصية Hello Kitty. تتميز بتصميم جذاب، ويبلغ حجمها 94 × 61 × 48 سم، مما يجعلها مناسبة للأطفال من عمر 3 سنوات فما فوق. - Ultra Toy
-  Updated: 2025-09-20T21:52:55Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/29.jpg?v=1758035405
   Price: ‏45.00 د.ك.‏ KWD
 - [سيارة كهربائية مصدومة للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-كهربائية-مصدومة-للأطفال): صُممت السيارة بلمسات أمان مثل المصدات الناعمة وأحزمة الأمان، ويمكن التحكم بها يدوياً أو عن بعد من قِبَل الوالدين. يتوفر هذا الموديل بألوان متعددة، ويبلغ حجمه 94 × 47 × 45 سم. - Ultra Toy
-  Updated: 2025-09-20T21:52:55Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/30.jpg?v=1758035406
   Price: ‏14.50 د.ك.‏ KWD
 - [شاحنة قلابة كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/شاحنة-قلابة-كهربائية-للأطفال): تُعد هذه الشاحنة القلابة الكهربائية للأطفال خيارًا ممتازًا لتوفير تجربة لعب ممتعة وواقعية. تعمل الشاحنة ببطارية قوية 12 فولت بسعة 10 أمبير/ساعة،
-  Updated: 2025-09-20T21:52:55Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/31.jpg?v=1758035407
   Price: ‏80.00 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال مع مقعد جلدي وعجلات EVA - Ultra Toys Kuwait](https://ultratoyskw.com/products/سيارة-كهربائية-للأطفال-مع-مقعد-جلدي-وعجلات-eva-2): خيارات السيارة من حيث المظهر تشمل الأبيض، والفضي، والوردي. كما أنها تخلصت من الميزات الإضافية مثل أضواء LED، نظام موسيقى يدعم الاتصال عبر USB، ووظيفة  - Ultra Toys Kuwait
-  Updated: 2025-09-20T21:52:55Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/25_945a17d3-d723-47e1-9ac4-5ab493d71186.jpg?v=1758035409
   Price: ‏85.00 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال بميزات تعليمية وترفيهية - Ultra Toy](https://ultratoyskw.com/products/سيارة-كهربائية-للأطفال-بميزات-تعليمية-وترفيهية): تتضمن السيارة نظام موسيقى مدمج ومنافذ USB وAUX لتشغيل المحتوى المفضل، بالإضافة إلى ميزات تعليمية مثل القصص ومحتوى لغة إنجليزية.
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/32.jpg?v=1758035415
   Price: ‏28.00 د.ك.‏ KWD
 - [حافلة أطفال مزودة بزحليقة وبيت لعب - Ultra Toy](https://ultratoyskw.com/products/حافلة-أطفال-مزودة-بزحليقة-وبيت-لعب): صُممت الحافلة بميزات أمان مثل الدرابزين والمنحدر اللطيف للزحليقة، وهي مصنوعة من مواد قوية وغير سامة. تتوفر هذه الحافلة بألوان جذابة تشمل الأزرق والوردي والأصفر، وتناسب الأطفال الصغار حتى عمر 5 أو 6 سنوات. - Ultra Toy
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/33.jpg?v=1758035416
   Price: ‏35.00 د.ك.‏ KWD
 - [لعبة حصان وعربة كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/لعبة-حصان-وعربة-كهربائية-للأطفال): تُعد لعبة الحصان والعربة الكهربائية خياراً مثالياً للعب التخيلي، حيث تتميز بتصميم ساحر لحصان يجر عربة أنيقة.
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/34.jpg?v=1758035418
   Price: ‏50.00 د.ك.‏ KWD
 - [دراجة رباعية كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-كهربائية-للأطفال): تتوفر هذه الدراجة بألوان جذابة تشمل الوردي والأحمر والأخضر والأصفر والأبيض، وهي مصممة بشكل آمن للاستخدام على مختلف الأسطح. - Ultra Toy
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/35.jpg?v=1758035418
   Price: ‏22.00 د.ك.‏ KWD
 - [دراجة رباعية كهربائية للأطفال مع مقعد جلدي - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-كهربائية-للأطفال-مع-مقعد-جلدي): تتضمن الدراجة ميزات ترفيهية مثل أضواء LED والاتصال عبر البلوتوث، بالإضافة إلى إمكانية التحكم بها يدوياً أو عن بعد من قِبَل الوالدين. يبلغ حجمها 117 × 68 × 75 سم، وهي مناسبة للأطفال من عمر 3 إلى 8 سنوات. - Ultra Toy
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/36.jpg?v=1758035419
   Price: ‏65.00 د.ك.‏ KWD
 - [دراجة رباعية كهربائية للأطفال 36 فولت - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-كهربائية-للأطفال-36-فولت): تتميز الدراجة بفرامل قرصية أمامية وخلفية، وإطارات للطرق الوعرة، مما يضمن قيادة آمنة على مختلف التضاريس. كما أنها مزودة بمصباحين LED وحاملين للشحن، وتتوفر بألوان متنوعة. - Ultra Toy
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/37_a11999f4-4421-4bdb-b086-d67f0d05046f.jpg?v=1758035422
   Price: ‏100.00 د.ك.‏ KWD
 - [بقي رباعية كهربائية قوية للأطفال - Ultra Toy](https://ultratoyskw.com/products/بقي-رباعية-كهربائية-قوية-للأطفال): صُممت الدراجة بأساس قوي لتوفير المتانة، وتتميز بعداد سرعة LED ومجموعة من الأضواء. كما أنها مزودة بالعديد من ميزات الأمان مثل محدد السرعة ومكابح الطوارئ،
-  Updated: 2025-09-20T21:52:56Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/38.jpg?v=1758035422
   Price: ‏120.00 د.ك.‏ KWD
 - [بقي رباعية كهربائية للأطفال 800 واط - Ultra Toys Kuwait](https://ultratoyskw.com/products/بقي-رباعية-كهربائية-للأطفال-800-واط): تتميز الدراجة بثلاث سرعات أمامية وسرعة للخلف، بالإضافة إلى عداد سرعة LED وأضواء رياضية. ولضمان الأمان، فهي مزودة بدواسة أمان وواقي سلسلة.
-  Updated: 2025-09-20T21:52:57Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/39_391be1e2-a1b6-4d78-a1a4-ff008fa27512.jpg?v=1758035423
   Price: ‏120.00 د.ك.‏ KWD
 - [بقي رباعية كهربائية رياضية للأطفال - Ultra Toy](https://ultratoyskw.com/products/بقي-رباعية-كهربائية-رياضية-للأطفال): تتميز الدراجة بعجلات كبيرة الحجم للطرق الوعرة، وممتصات صدمات قابلة للتعديل لضمان قيادة مريحة. ولتوفير أقصى درجات الأمان، فهي مزودة بفرامل قرصية،
-  Updated: 2025-09-20T21:52:57Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
@@ -2186,210 +2186,210 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/41.jpg?v=1758730321
   Price: ‏110.00 د.ك.‏ KWD
 - [دراجة رباعية بمحرك 125 سي سي وإطارات 7 بوصة - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-بمحرك-125-سي-سي-وإطارات-7-بوصة): تُعد هذه الدراجة الرباعية خيارًا ممتازًا للقيادة الترفيهية على مختلف التضاريس، حيث تعمل بمحرك قوي سعة 125 سي سي ومزودة بإطارات مقاس 7 بوصات مناسبة للاستخدام على الطرق الوعرة.
-  Updated: 2025-09-20T21:52:57Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/42.jpg?v=1758035433
   Price: ‏220.00 د.ك.‏ KWD
 - [دراجة رباعية بمحرك 125 سي سي أوتوماتيكي - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-بمحرك-125-سي-سي-أوتوماتيكي): تُعد هذه الدراجة الرباعية خيارًا ممتازًا للمبتدئين والشباب، حيث تتميز بمحرك أوتوماتيكي سعة 125 سم مكعب يسهل قيادتها بفضل عدم وجود تروس تقليدية. تم تجهيزها بإطارات مقاس 7 بوصات
-  Updated: 2025-09-20T21:52:57Z
+  Updated: 2025-09-27T21:35:26Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/43.jpg?v=1758035435
   Price: ‏210.00 د.ك.‏ KWD
 - [دراجة رباعية بمحرك 200 سي سي وميزات متطورة - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-بمحرك-200-سي-سي-وميزات-متطورة): تُعد هذه الدراجة الرباعية خيارًا متكاملاً للمغامرات، حيث تتميز بمحرك قوي مبرد بالزيت مع عمود توازن لضمان تشغيل أكثر سلاسة.
-  Updated: 2025-09-20T21:52:57Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/44.jpg?v=1758035435
   Price: ‏710.00 د.ك.‏ KWD
 - [بقي رباعية بمحرك 125 سي سي وتروس أمامية وخلفية - Ultra Toy](https://ultratoyskw.com/products/بقي-رباعية-بمحرك-125-سي-سي-وتروس-أمامية-وخلفية): تُعد هذه البقي الرباعية خيارًا ممتازًا للاستخدام الترفيهي، فهي مزودة بمحرك سعة 125 سي سي يوفر مستوى مناسباً من القوة للشباب.
-  Updated: 2025-09-20T21:52:58Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/45.jpg?v=1758035437
   Price: ‏170.00 د.ك.‏ KWD
 - [بقي بمحرك 150 سي سي للطرق الوعرة - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-بمحرك-150-سي-سي-للطرق-الوعرة): تُعد هذه البقي الرباعية خيارًا مثالياً لمغامرات الطرق الوعرة، حيث تعمل بمحرك قوي سعة 150 سي سي. تتميز الدراجة بإطارات مقاس 8 بوصات وعجلات من الألومنيوم،
-  Updated: 2025-09-24T16:12:09Z
+  Updated: 2025-09-27T21:35:25Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/47.jpg?v=1758730328
   Price: ‏330.00 د.ك.‏ KWD
 - [دراجة رباعية بمحرك 150 سي سي ومكبرات صوت بلوتوث - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-بمحرك-150-سي-سي-ومكبرات-صوت-بلوتوث): تُعد هذه الدراجة الرباعية خيارًا مثالياً للقيادة على الطرق الوعرة، حيث تتميز بمحرك قوي سعة 150 سي سي مصمم للأداء العالي.
-  Updated: 2025-09-24T16:12:11Z
+  Updated: 2025-09-27T21:35:20Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/48.jpg?v=1758730330
   Price: ‏330.00 د.ك.‏ KWD
 - [دراجة رباعية متكاملة بمحرك 150 سي سي - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-متكاملة-بمحرك-150-سي-سي): تُعد هذه الدراجة الرباعية خيارًا متكاملاً ومناسباً للاستخدام على الطرق الوعرة، حيث تعمل بمحرك قوي سعة 150 سي سي بنظام دفع 4x2. تتميز الدراجة بهيكل متين من الألومنيوم، وإطارات مقاس 8 بوصات، وفرامل
-  Updated: 2025-09-20T21:52:58Z
+  Updated: 2025-09-27T21:35:20Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/49.jpg?v=1758035440
   Price: ‏310.00 د.ك.‏ KWD
 - [دراجة رباعية بمحرك 125 سي سي وتروس متقدمة - Ultra Toy](https://ultratoyskw.com/products/بقي-بمحرك-125-سي-سي-وتروس-متقدمة): تُعد هذه الدراجة الرباعية خيارًا مميزًا للشباب، حيث تعمل بمحرك قوي سعة 125 سي سي رباعي الأشواط. يمنحها نظام نقل الحركة الذي يحتوي على ترس أمامي ومحايد وترس خلفي مرونة كبيرة في القيادة. y
-  Updated: 2025-09-20T21:52:58Z
+  Updated: 2025-09-27T21:35:20Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/50.jpg?v=1758035443
   Price: ‏180.00 د.ك.‏ KWD
 - [دراجة رباعية بمحرك 125 سي سي وعجلات 7 بوصة - Ultra Toy](https://ultratoyskw.com/products/دراجة-رباعية-بمحرك-125-سي-سي-وعجلات-7-بوصة): تُعد هذه الدراجة الرباعية خيارًا متميزًا للشباب في طرابلس، حيث تعمل بمحرك قوي رباعي الأشواط سعة 125 سي سي، ومزودة بترس واحد لسهولة الاستخدام على جميع التضاريس.y
-  Updated: 2025-09-20T21:52:58Z
+  Updated: 2025-09-27T21:35:20Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/51.jpg?v=1758035443
   Price: ‏210.00 د.ك.‏ KWD
 - [بقي بقوة محرك 125  سي سي وإطارات 7 إنش - Ultra Toy](https://ultratoyskw.com/products/بقي-بقوة-محرك-125-سي-سي-وإطارات-7-إنش): تقدم لكم هذه البقي تجربة مغامرة، وهي مصممة خصيصًا لتناسب عشاق التحدي في الكويت. هذه الدراجة ليست مجرد وسيلة نقل، بل هي رفيقك المثالي لاستكشاف الأراضي الرملية والكثبان الذهبية، بفضل محركها القوي ذو 125cc و4 أشواط الذي يضمن لك أداءً موثوقاً وسلساً. تأتي الدراجة بتصميم لافت للنظر مع نظام ألوان التمويه الأزرق المميز الذي يمنحها لمسة فريدة وجريئة. ولضمان تحكم كامل، زودت بنظام تروس أمامي، محايد، وخلفي (1F + N + 1R)، مما يسهل عليك المناورة في أصعب الظروف. - Ultra Toy
-  Updated: 2025-09-24T16:12:12Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/52.jpg?v=1758730331
   Price: ‏220.00 د.ك.‏ KWD
 - [بقي 150cc انطلق بأسلوب عصري وأداء قوي - Ultra Toys Kuwait](https://ultratoyskw.com/products/بقي-150cc-انطلق-بأسلوب-عصري-وأداء-قوي): تم تجهيز البقي بنظام فرامل قرصية هيدروليكية يوفر لك تحكمًا فائقًا وقوة إيقاف آمنة وفعالة في جميع الظروف. كما أنه مزود بعجلات قوية بـ جنوط معدنية مقاس 8 بوصة، تمنحه ثباتًا ومتانة أثناء القيادة.
-  Updated: 2025-09-20T21:52:59Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/53.jpg?v=1758035451
   Price: ‏330.00 د.ك.‏ KWD
 - [بقي 150cc - Ultra Toy](https://ultratoyskw.com/products/بقي-150cc): انطلق في مغامراتك القادمة بكل قوة وأسلوب مع هذا البقي الجديد، المصمم ليمنحك تجربة قيادة مثيرة لا تُنسى.
-  Updated: 2025-09-20T21:52:59Z
+  Updated: 2025-09-27T21:33:01Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/54.jpg?v=1758035452
   Price: ‏330.00 د.ك.‏ KWD
 - [بقي كهربائي للأطفال: انطلاق آمن ومرح لا يُنسى! - Ultra Toy](https://ultratoyskw.com/products/بقي-كهربائي-للأطفال-انطلاق-آمن-ومرح-لا-يُنسى): صُمم هذا البقي الكهربائي خصيصًا ليكون بوابة طفلك إلى عالم المغامرات، بأمان تام ومتعة لا حدود لها. يعمل بمحرك قوي ببطارية 36 فولت وبقوة 1000 واط،
-  Updated: 2025-09-20T21:52:59Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/55.jpg?v=1758035454
   Price: ‏110.00 د.ك.‏ KWD
 - [بقي كهربائي  مغامرة ممتدة وأمان للأطفال! - Ultra Toy](https://ultratoyskw.com/products/بقي-كهربائي-مغامرة-ممتدة-وأمان-للأطفال): يعتمد هذا البقي على بطارية قوية بحمض الرصاص 36 فولت و12 أمبير، مما يمنحه القدرة على السير لمسافة تصل إلى 30 كيلومترًا أو وقت تشغيل يبلغ حوالي 60 دقيقة بشحنة واحدة.
-  Updated: 2025-09-20T21:52:59Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/56.jpg?v=1758035455
   Price: ‏110.00 د.ك.‏ KWD
 - [بقي كهربائي: الأمان يلتقي الأداء! - Ultra Toy](https://ultratoyskw.com/products/بقي-كهربائي-الأمان-يلتقي-الأداء): امنح طفلك تجربة قيادة لا تُنسى مع هذا البقي الكهربائي، المصمم خصيصًا لتوفير مزيج مثالي من القوة والأمان. . - Ultra Toy
-  Updated: 2025-09-20T21:53:00Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/57.jpg?v=1758035456
   Price: ‏95.00 د.ك.‏ KWD
 - [بقي 125cc: مغامرة مصممة للشباب! - Ultra Toy](https://ultratoyskw.com/products/بقي-125cc-مغامرة-مصممة-للشباب): امنح مغامراتك القادمة دفعة قوية مع هذا البقي الذي يجمع بين الأداء القوي وسهولة التحكم. هذا البقي مناسب بشكل خاص للشباب والمبتدئين، ويمنحهم تجربة قيادة مثيرة دون المساومة على الأمان. - Ultra Toy
-  Updated: 2025-09-20T21:53:00Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/58.jpg?v=1758035458
   Price: ‏210.00 د.ك.‏ KWD
 - [سكوتر كهربائي: تنقل سهل وأنيق في المدينة - Ultra Toy](https://ultratoyskw.com/products/سكوتر-كهربائي-تنقل-سهل-وأنيق-في-المدينة): صُمم هذا السكوتر الكهربائي خصيصًا ليجعل تنقلك اليومي في المدينة أسهل وأكثر متعة. بفضل تصميمه الأنيق ومواصفاته العملية يعتبر هذا السكوتر الخيار المثالي للتنقلات القصيرة أو الاستخدامات الترفيهية. - Ultra Toy
-  Updated: 2025-09-20T21:53:00Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/59.jpg?v=1758035458
   Price: ‏170.00 د.ك.‏ KWD
 - [سكوتر كهربائي: تنقل مدمج وأنيق في المدينة - Ultra Toy](https://ultratoyskw.com/products/سكوتر-كهربائي-1200-وات): صمم هذا السكوتر الكهربائي ليكون الحل الأمثل لتنقلاتك اليومية. بفضل تصميمه المدمج ومقعده المريح، يمكنك التجول في شوارع المدينة بسهولة وأناقة، والوصول إلى وجهتك دون عناء. - Ultra Toy
-  Updated: 2025-09-20T21:53:00Z
+  Updated: 2025-09-27T21:33:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/60.jpg?v=1758035460
   Price: ‏200.00 د.ك.‏ KWD
 - [سكوتر كهربائي: أداء رياضي وتصميم عصري - Ultra Toy](https://ultratoyskw.com/products/سكوتر-كهربائي-أداء-رياضي-وتصميم-عصري): انطلق في مغامراتك اليومية مع هذا السكوتر الكهربائي القوي الذي يجمع بين الأداء الاستثنائي والميزات الفاخرة، مما يجعله مثاليًا للتنقل داخل المدينة أو حتى على الطرق الوعرة.
-  Updated: 2025-09-20T21:53:00Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/61.jpg?v=1758035462
   Price: ‏450.00 د.ك.‏ KWD
 - [سكوتر هارلي الكهربائي: تصميم أيقوني وأداء عملي - Ultra Toy](https://ultratoyskw.com/products/سكوتر-هارلي-الكهربائي-تصميم-أيقوني-وأداء-عملي): يمنحك هذا السكوتر الكهربائي الفريد من نوعه، المعروف بتصميم "Citycoco"، تجربة قيادة مميزة تجمع بين الأداء العملي والمظهر الأيقوني المستوحى من دراجات هارلي ديفيدسون.
-  Updated: 2025-09-20T21:53:00Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/62.jpg?v=1758035462
   Price: ‏280.00 د.ك.‏ KWD
 - [سكوتر Citycoco: أداء قوي وتصميم فريد - Ultra Toy](https://ultratoyskw.com/products/سكوتر-citycoco-أداء-قوي-وتصميم-فريد): يعمل السكوتر بمحرك محوري قوي بدون فرشاة بقوة 1500 واط وبطارية ليثيوم أيون بسعة 60 فولت / 12 أمبير/ساعة. هذا المزيج يتيح له الوصول إلى سرعة تتراوح بين 30-50 كم/ساعة،
-  Updated: 2025-09-20T21:53:01Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/63_f7cbab49-89cd-477e-848d-a6f2e4cab24c.jpg?v=1758035470
   Price: ‏220.00 د.ك.‏ KWD
 - [سكوتر كهربائي Citycoco أداء قوي وتصميم كلاسيكي - Ultra Toy](https://ultratoyskw.com/products/سكوتر-كهربائي-citycoco-أداء-قوي-وتصميم-كلاسيكي): يعتمد السكوتر على محرك قوي بدون فرشاة بقوة 2000 واط مما يسمح له بالوصول إلى سرعات عالية تتراوح بين 61-80 كم/ساعة.
-  Updated: 2025-09-20T21:53:01Z
+  Updated: 2025-09-27T21:33:01Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/64.jpg?v=1758035472
   Price: ‏280.00 د.ك.‏ KWD
 - [مركبة جولف كهربائية عائلية - Ultra Toy](https://ultratoyskw.com/products/مركبة-جولف-كهربائية-عائلية): هذه المركبة الكهربائية هي الحل الأمثل للتنقل المريح والآمن في المنتجعات والمجمعات السكنية الكبيرة حيث تجمع بين الأداء العملي والميزات الفاخرة فهي تتسع لـ 6 ركاب  - Ultra Toy
-  Updated: 2025-09-20T21:53:01Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/65.jpg?v=1758035472
   Price: ‏660.00 د.ك.‏ KWD
 - [دراجة ثلاثية كهربائية مريحة وعملية - Ultra Toy](https://ultratoyskw.com/products/دراجة-ثلاثية-كهربائية-مريحة-وعملية): تعتمد الدراجة على محرك قوي بدون فرشاة بقوة 1000 واط وبطارية بسعة 60 فولت / 20 أمبير. هذا المزيج يضمن لها أداءً سلسًا وقدرة على السير لمسافات جيدة، مما يجعلها مثالية للتنقلات اليومية أو الرحلات الترفيهية القصيرة. - Ultra Toy
-  Updated: 2025-09-20T21:53:01Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/66.jpg?v=1758035475
   Price: ‏240.00 د.ك.‏ KWD
 - [دراجة كهربائية ثلاثية العجلات Q-Star: تنقل ذكي ومريح - Ultra Toy](https://ultratoyskw.com/products/دراجة-كهربائية-ثلاثية-العجلات-تنقل-ذكي-ومريح): هذا التوكتوك الكهربائي هو الحل الأمثل لتنقلاتك اليومية ورحلاتك الترفيهية في المدينة حيث يجمع بين الراحة والأداء الذكي فهو مزود بحامل هاتف مع بلوتوث وشاشة عرض كبيرة مع كاميرا خلفية .
-  Updated: 2025-09-20T21:53:01Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/67.jpg?v=1758035476
   Price: ‏190.00 د.ك.‏ KWD
 - [دراجة ثلاثية كهربائية نقل ذكي وآمن مع شاشة وكاميرا - Ultra Toy](https://ultratoyskw.com/products/دراجة-ثلاثية-كهربائية-نقل-ذكي-وآمن-مع-شاشة-وكاميرا): هذه الدراجة الثلاثية الكهربائية مصممة لتكون وسيلة نقل ذكية ومريحة. تتميز بحامل للهاتف مع بلوتوث وشاشة عرض كبيرة مزودة بكاميرا خلفية لسهولة المناورة والأمان.
-  Updated: 2025-09-20T21:53:01Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/69.jpg?v=1758035476
   Price: ‏390.00 د.ك.‏ KWD
 - [دراجة ثلاثية كهربائية قوية وعملية - Ultra Toy](https://ultratoyskw.com/products/دراجة-ثلاثية-كهربائية-قوية-وعملية): تعتمد الدراجة على بطارية قوية بسعة 60 فولت و45 أمبير، مما يمنحها القدرة على السير لمسافات طويلة بشحنة واحدة. كما أنها مزودة بمحرك فعال بقوة 1500 واط، يوفر لك الطاقة الكافية للتحرك بسلاسة. - Ultra Toy
-  Updated: 2025-09-20T21:53:02Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/70.jpg?v=1758035479
   Price: ‏410.00 د.ك.‏ KWD
 - [مركبة كهربائية قوية وعملية - Ultra Toy](https://ultratoyskw.com/products/مركبة-كهربائية-قوية-وعملية): إذا كنت تدور على مركبة كهربائية تجمع بين القوة والتحمل فهذه المركبة هي الخيار الأمثل لك في البر والمخيمات. تعمل ببطارية جبارة 60 فولت و45 أمبير مما يضمن لك مدى طويل وشحنة تدوم ومزودة بمحرك 1500 واط يعطيك عزم ممتاز على كل التضاريس. كما أن تصميمها المتين وجنوطها الفولاذية وإطاراتها مقاس 12 إنش تضمن ثباتها على الأرض وتوفر قيادة مريحة. - Ultra Toy
-  Updated: 2025-09-20T21:53:02Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/71.jpg?v=1758035479
   Price: ‏610.00 د.ك.‏ KWD
 - [سيكل كهربائية للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيكل-كهربائية-للأطفال): هذه الدراجة الكهربائية مثالية للمغامرين الصغار. تتميز بمحرك قوي بدون فرشاة بقوة 350 واط، مما يوفر أداءً ممتازًا وآمنًا. صممت هذه الدراجة بلمسات جرافيكية نابضة بالحياة تشبه دراجة نارية حقيقية
-  Updated: 2025-09-20T21:53:02Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/72.jpg?v=1758035480
   Price: ‏105.00 د.ك.‏ KWD
 - [دراجة كهربائية للأطفال قوة وأمان للصغار - Ultra Toy](https://ultratoyskw.com/products/دراجة-كهربائية-للأطفال-قوة-وأمان-للصغار): هذه الدراجة الكهربائية هي الخيار الأمثل لتقديم تجربة قيادة ممتعة وآمنة لطفلك. تعمل بمحرك فعال بقوة 200 واط، مما يمنحها السرعة المناسبة للعب والترفيه. كما أنها مزودة ببطارية 24 فولت بسعة 7.8 أمبير/ساعة، تضمن ساعات من المرح بشحنة واحدة. - Ultra Toy
-  Updated: 2025-09-20T21:53:02Z
+  Updated: 2025-09-27T21:32:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
@@ -2410,7 +2410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/76.jpg?v=1758730333
   Price: ‏45.00 د.ك.‏ KWD
 - [دراجة كهربائية للأطفال بتصميم رياضي - Ultra Toy](https://ultratoyskw.com/products/دراجة-كهربائية-للأطفال-بتصميم-رياضي): هذه الدراجة الكهربائية المصممة على طراز دراجات كاواساكي نينجا H2R هي الخيار الأمثل للمغامرين الصغار. تأتي بلونين مميزين: الأزرق والأسود بلمسات خضراء، لتجربة قيادة ممتعة وآمنة. أداء قوي وموثوق تعمل الدراجة ببطارية قابلة لإعادة الشحن بقوة 12 فولت وسعة 7 أمبير، مما يوفر طاقة كافية للعب المستمر. - Ultra Toy
-  Updated: 2025-09-24T16:12:16Z
+  Updated: 2025-09-27T21:34:04Z
   Vendor: Ultra Toys Kuwait
   Product Type: Electric bicycle
   Availability: Available
@@ -2445,7 +2445,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/80.jpg?v=1758730340
   Price: ‏45.00 د.ك.‏ KWD
 - [دراجة كهربائية للأطفال متوفرة بألوان متعددة - Ultra Toy](https://ultratoyskw.com/products/دراجة-كهربائية-للأطفال-متوفرة-بألوان-متعددة-1): هذه الدراجة الكهربائية هي الرفيق المثالي لطفلك، بتصميمها الجذاب وألوانها الزاهية. متوفرة باللونين الأسود والأخضر والأحمر، مما يمنح طفلك تجربة قيادة ممتعة وآمنة. أداء قوي تعمل الدراجة ببطاريتين بقوة 6 فولت 4.5 أمبير، وتتميز بمحرك بقوة 550 واط، مما يضمن أداءً فعالاً وموثوقاً. - Ultra Toy
-  Updated: 2025-09-20T21:53:03Z
+  Updated: 2025-09-27T21:34:04Z
   Vendor: Ultra Toys Kuwait
   Product Type: Electric bicycle
   Availability: Available
@@ -2550,7 +2550,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/95_e53dbc85-3d57-4948-83c7-15e619c2ef66.jpg?v=1758053106
   Price: ‏17.50 د.ك.‏ KWD
 - [سيارة دفع للأطفال 3 في 1 - Ultra Toy](https://ultratoyskw.com/products/سيارة-دفع-للأطفال-3-في-1): هذه السيارة هي الخيار الأمثل لطفلك، فهي تجمع بين ثلاث وظائف في تصميم واحد ذكي. يمكن استخدامها كسيارة دفع يتحكم بها الوالدان، أو كمشّاية لمساعدة الطفل على الوقوف والمشي، أو كسيارة يركبها ويدفعها بنفسه. أمان وراحة صُممت السيارة لتكون آمنة ومتينة، حيث تتميز بـشريط أمان (سور حماية) يضمن سلامة الأطفال الصغار، بالإضافة إلى مسند ظهر مريح يوفر الدعم اللازم. - Ultra Toy
-  Updated: 2025-09-20T21:53:05Z
+  Updated: 2025-09-27T21:34:04Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
@@ -2585,133 +2585,133 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/100_b980f226-e3cc-443b-9da3-54cb62cd3bcc.jpg?v=1758730366
   Price: ‏15.50 د.ك.‏ KWD
 - [سيارة أطفال وردية: مرح وموسيقى - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-وردية-مع-مرح-وموسيقى): هذه السيارة هي الخيار الأمثل لطفلتك، بتصميمها الجذاب ولونها الوردي الأنيق. تجمع هذه اللعبة بين المرح والوظائف التي تحفز خيال الطفل، مما يجعلها هدية مثالية. - Ultra Toy
-  Updated: 2025-09-23T11:19:13Z
+  Updated: 2025-09-27T21:31:50Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/101_b7307be1-6cbd-45b3-99d3-46e93f5fbbeb.jpg?v=1758053114
   Price: ‏14.50 د.ك.‏ KWD
 - [سيارة أطفال بتصميم بطة - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-بتصميم-بطة): هذه السيارة هي الخيار الأمثل لطفلك، فهي مصممة لتناسب الأطفال الصغار في الفئة العمرية من 1 إلى 5 سنوات. تمثل هذه اللعبة طريقة ممتعة وآمنة للأطفال للتحرك عن طريق الدفع بأقدامهم، مما يساعد على تطوير مهاراتهم الحركية والتوازن والتنسيق. - Ultra Toy
-  Updated: 2025-09-23T11:19:13Z
+  Updated: 2025-09-27T21:31:55Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/102.jpg?v=1758053115
   Price: ‏16.00 د.ك.‏ KWD
 - [سيارة دفع للأطفال - Ultra Toy](https://ultratoyskw.com/products/سيارة-دفع-للأطفال-103): هذه السيارة هي الخيار المثالي لطفلك، فهي تجمع بين التصميم المبتكر والفوائد التنموية. تعمل هذه السيارة بشكل فريد دون الحاجة إلى بطاريات أو دواسات، حيث تعتمد على حركة عجلة القيادة الدوارة لدفعها إلى الأمام، مما يعلم طفلك مهارات التوجيه والتحكم. - Ultra Toy
-  Updated: 2025-09-20T21:53:06Z
+  Updated: 2025-09-27T21:31:05Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/103.jpg?v=1758053116
   Price: ‏17.00 د.ك.‏ KWD
 - [سيارة دفع للأطفال بعدة ألوان متوفرة على المتجر - Ultra Toy](https://ultratoyskw.com/products/سيارة-دفع-للأطفال-بعدة-ألوان-متوفرة-على-المتجر): هذه السيارة هي الخيار المثالي لطفلك، فهي تجمع بين التصميم الممتع والوظائف التي تساعده على النمو. متوفرة بأربعة ألوان جذابة: الوردي والأحمر والأصفر والأزرق، مما يضيف المزيد من المرح لوقت اللعب. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:05Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/104.jpg?v=1758053123
   Price: ‏32.00 د.ك.‏ KWD
 - [سيارة أطفال كهربائية قابلة للتحويل - Ultra Toy](https://ultratoyskw.com/products/سيارة-أطفال-كهربائية-قابلة-للتحويل): هذه السيارة هي الخيار الأمثل لطفلك، بفضل تصميمها الذكي الذي يجمع بين المرح والعملية. يمكن استخدامها كسيارة دفع يتحكم بها الوالدان، أو كسيارة يركبها الطفل ويدفعها بنفسه بعد إزالة اللوح الأرضي. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:05Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/105_56ab7bee-b383-486a-9bdb-a8d21777f968.jpg?v=1758053124
   Price: ‏31.00 د.ك.‏ KWD
 - [مشاية أطفال متعددة الوظائف - Ultra Toy](https://ultratoyskw.com/products/مشاية-أطفال-متعددة-الوظائف): هذه المشاية هي الخيار الأمثل لطفلك، فهي تجمع بين المرح والفوائد التنموية في منتج واحد. صُممت لتناسب الأطفال من عمر 6 أشهر فما فوق، مما يساعدهم على استكشاف العالم من حولهم بأمان. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:01Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/106_54d284fb-be49-4029-8420-3c431a81a150.jpg?v=1758053125
   Price: ‏28.00 د.ك.‏ KWD
 - [حوض لعب للأطفال - Ultra Toy](https://ultratoyskw.com/products/حوض-لعب-للأطفال): صُنع الحوض من قماش أوكسفورد شبكي يسمح بالتهوية الجيدة ويسهل تنظيفه، كما أنه خفيف الوزن وسهل التجميع والتفكيك، مما يجعله مثالياً للاستخدام في الأماكن الداخلية والخارجية. ولزيادة الراحة، يحتوي على باب بسحاب لسهولة وصول الطفل. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/107.jpg?v=1758053127
   Price: ‏19.00 د.ك.‏ KWD
 - [مشاية أطفال قابلة للطي - Ultra Toy](https://ultratoyskw.com/products/مشاية-أطفال-قابلة-للطي): هذه المشاية هي الخيار الأمثل لمساعدة طفلك في خطواته الأولى نحو الحركة والاستكشاف. بتصميمها العملي القابل للطي، تمنح طفلك الحرية في التحرك والاستمتاع بوقته بأمان. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/108_405d5816-197b-43fa-b798-c1b6d4cd8c2c.jpg?v=1758053127
   Price: ‏17.50 د.ك.‏ KWD
 - [مشاية أطفال تفاعلية متوفرة بعدة ألوان على المتجر - Ultra Toy](https://ultratoyskw.com/products/مشاية-أطفال-تفاعلية-متوفرة-بعدة-ألوان-على-المتجر): هذه المشاية هي الخيار الأمثل لمساعدة طفلك في خطواته الأولى نحو المشي، فهي تجمع بين الأمان والمرح لتجعل هذه المرحلة من النمو أكثر سهولة ومتعة. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/109.jpg?v=1758053129
   Price: ‏16.50 د.ك.‏ KWD
 - [مشاية أطفال قابلة للتعديل - Ultra Toy](https://ultratoyskw.com/products/مشاية-أطفال-قابلة-للتعديل): تتميز المشاية بـارتفاع قابل للتعديل، مما يضمن وضعية مريحة ومناسبة لنمو طفلك. كما أنها مزودة بـمركز أنشطة تفاعلي يحتوي على ألعاب وأضواء وأصوات، مما يحفز حواسه ويسليه أثناء اللعب. ولضمان سلامته، تحتوي على عجلات مضادة للانزلاق وقاعدة عريضة توفر ثباتاً إضافياً. - Ultra Toy
-  Updated: 2025-09-20T21:53:07Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/110.jpg?v=1758053131
   Price: ‏17.50 د.ك.‏ KWD
 - [مشاية أطفال قابلة للطي لخطوات الطفل الأولى - Ultra Toy](https://ultratoyskw.com/products/مشاية-أطفال-قابلة-للطي-لخطوات-الطفل-الأولى): هذه المشاية هي الخيار الأمثل لمساعدة طفلك في خطواته الأولى نحو الحركة والاستكشاف. متوفرة باللون الوردي وتتميز بتصميمها العملي الذي يسهل طيها، مما يجعلها مثالية للتخزين والنقل. - Ultra Toy
-  Updated: 2025-09-20T21:53:08Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/111_5d79b407-e9e7-4ceb-97ad-0f29224ecd4b.jpg?v=1758053130
   Price: ‏18.50 د.ك.‏ KWD
 - [مشاية وكرسي هزاز للأطفال 2 في 1 - Ultra Toy](https://ultratoyskw.com/products/مشاية-وكرسي-هزاز-للأطفال-2-في-1): هذه المشاية هي الحل الأمثل لمساعدة طفلك في خطواته الأولى، فهي تقدم وظيفتين في منتج واحد، حيث يمكن استخدامها كمشاية تقليدية لمساعدته على المشي، أو تحويلها إلى كرسي هزاز ثابت للاسترخاء واللعب. - Ultra Toy
-  Updated: 2025-09-20T21:53:08Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/112_13bb7790-c5af-4e4d-9058-f61281c13cda.jpg?v=1758053131
   Price: ‏18.60 د.ك.‏ KWD
 - [مشاية أطفال مع موسيقى - Ultra Toy](https://ultratoyskw.com/products/مشاية-أطفال-مع-موسيقى): هذه المشاية هي الخيار الأمثل لمساعدة طفلك في خطواته الأولى، فهي تجمع بين الأمان والترفيه في تصميم واحد. تتميز هذه المشاية بـالموسيقى المدمجة التي تضفي حيوية على وقت اللعب. - Ultra Toy
-  Updated: 2025-09-20T21:53:08Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/113.jpg?v=1758053133
   Price: ‏16.50 د.ك.‏ KWD
 - [عربة أطفال خفيفة الوزن ومريحة - Ultra Toy](https://ultratoyskw.com/products/عربة-أطفال-خفيفة-الوزن-ومريحة): صُممت العربة لتوفير أقصى درجات الراحة والأمان لطفلك، حيث توفر أوضاع استلقاء متعددة ومسند ساق قابل للتعديل. كما أنها مزودة بـحزام أمان بخمس نقاط وعجلات أمامية دوارة قابلة للقفل لضمان ثباتها وسهولة التحكم بها. ولحماية طفلك من الشمس، تحتوي على مظلة قابلة للتمدد. - Ultra Toy
-  Updated: 2025-09-20T21:53:08Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/114_552dfe5d-1115-4156-8d60-6665987ab077.jpg?v=1758053139
   Price: ‏32.00 د.ك.‏ KWD
 - [عربة أطفال قابلة للطي - Ultra Toy](https://ultratoyskw.com/products/عربة-أطفال-قابلة-للطي): هذه العربة هي الخيار الأمثل للآباء الباحثين عن سهولة الاستخدام والمرونة. تتميز بخفة وزنها وتصميمها الذي يسهل طيه، مما يجعلها مثالية للسفر والاستخدام اليومي. - Ultra Toy
-  Updated: 2025-09-20T21:53:08Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/115.jpg?v=1758053140
   Price: ‏40.00 د.ك.‏ KWD
 - [عربة أطفال خفيفة الوزن للسفر - Ultra Toy](https://ultratoyskw.com/products/عربة-أطفال-خفيفة-الوزن-للسفر): هذه العربة هي الخيار الأمثل للآباء كثيري التنقل، فهي تجمع بين خفة الوزن وسهولة الاستخدام. بفضل وزنها الذي يبلغ حوالي 5.5 كجم وآلية طيها بيد واحدة، يمكن تخزينها ونقلها بسهولة فائقة. - Ultra Toy
-  Updated: 2025-09-20T21:53:09Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/116.jpg?v=1758053142
   Price: ‏45.00 د.ك.‏ KWD
 - [عربة أطفال خفيفة وعملية - Ultra Toy](https://ultratoyskw.com/products/عربة-أطفال-خفيفة-وعملية): توفر العربة أقصى درجات الراحة لطفلك من خلال نظام تسخير آمن بخمس نقاط وعجلات دوارة تسهّل المناورة. كما أن مقبضها المبطّن يجعل التحكم بها سهلاً للغاية بيد واحدة. - Ultra Toy
-  Updated: 2025-09-20T21:53:09Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/117.jpg?v=1758053142
   Price: ‏32.00 د.ك.‏ KWD
 - [عربة أطفال مدمجة وعملية للسفر - Ultra Toy](https://ultratoyskw.com/products/عربة-أطفال-مدمجة-وعملية-للسفر): صُممت العربة لتوفير أقصى درجات الراحة والحماية لطفلك، حيث تتميز بمظلة قابلة للتمدد بعامل حماية UPF 50+ لحمايته من أشعة الشمس والحشرات. كما أنها مناسبة للأطفال منذ الولادة وحتى وزن 22 كجم (حتى 3-4 سنوات). - Ultra Toy
-  Updated: 2025-09-20T21:53:09Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/118.jpg?v=1758053144
   Price: ‏35.00 د.ك.‏ KWD
 - [عربة أطفال خفيفة الوزن ومريحة - Ultra Toy](https://ultratoyskw.com/products/عربة-أطفال-خفيفة-الوزن-ومريحة-119): صُممت العربة لتوفير أقصى درجات الراحة والأمان لطفلك، حيث تتميز بمقبض قابل للعكس يسمح للوالدين بالتبديل بين الوضع المواجه للأمام والوضع المواجه لهم. كما يمكن تعديل المقعد إلى أوضاع متعددة، بما في ذلك وضع الاستلقاء الكامل للقيلولة. ولضمان سلامة طفلك، تحتوي على حزام أمان بخمس نقاط ونظام فرامل على العجلات الخلفية. - Ultra Toy
-  Updated: 2025-09-20T21:53:09Z
+  Updated: 2025-09-27T21:31:00Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
@@ -3236,68 +3236,68 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/187.jpg?v=1758730484
   Price: ‏65.00 د.ك.‏ KWD
 - [مرمى كرة قدم من Champion - Ultra Toy](https://ultratoyskw.com/products/مرمى-كرة-قدم-من-champion-1): يُعد هذا المرمى مثالياً لـاللاعبين الشباب والهواة، حيث يمكنهم ممارسة مهاراتهم في التسديد والتمرير وحراسة المرمى بشكل فعال وممتع. - Ultra Toy
-  Updated: 2025-09-24T16:14:47Z
+  Updated: 2025-09-27T21:29:31Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/189.jpg?v=1758730486
-  Price: ‏85.00 د.ك.‏ KWD
+  Price: ‏84.90 د.ك.‏ KWD
 - [كرة قدم للتدريب متوفرة على المتجر في الكويت - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-للتدريب-متوفرة-على-المتجر-في-الكويت): هذه الكرة هي الخيار الأمثل للتدريب أو اللعب الترفيهي، حيث تجمع بين المتانة وسهولة الاستخدام. - Ultra Toy
-  Updated: 2025-09-24T16:14:51Z
+  Updated: 2025-09-27T21:29:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/190.jpg?v=1758730490
   Price: ‏11.25 د.ك.‏ KWD
 - [كرة قدم للتدريب متوفرة على المتجر في الكويت - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-للتدريب-متوفرة-على-المتجر-في-الكويت-1): هذه الكرة هي الخيار الأمثل للتدريب أو اللعب الترفيهي، حيث تجمع بين المتانة وسهولة الاستخدام. - Ultra Toy
-  Updated: 2025-09-24T16:14:51Z
+  Updated: 2025-09-27T21:29:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/190.jpg?v=1758730490
   Price: ‏11.25 د.ك.‏ KWD
 - [كرة قدم للتدريب - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-للتدريب): هذه الكرة هي الخيار الأمثل للتدريب أو اللعب الترفيهي، حيث تجمع بين الجودة والمتانة في تصميم جذاب. - Ultra Toy
-  Updated: 2025-09-24T16:14:53Z
+  Updated: 2025-09-27T21:29:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/191.jpg?v=1758730491
   Price: ‏11.25 د.ك.‏ KWD
 - [كرة سلة مقاس 7 من Platinum Cup - Ultra Toy](https://ultratoyskw.com/products/كرة-سلة-مقاس-7-من-platinum-cup): تُعد هذه الكرة رسمية بمقاس رقم 7، وهو المقاس القياسي للعب الذكور البالغين. وهي مصممة للاستخدام في الأماكن الداخلية والخارجية، مما يمنحها مرونة كبيرة في الاستخدام. ولضمان متانتها، فإنها مصنوعة من مادة المطاط، مما يجعلها تتحمل الاستخدام المكثف على جميع الأسطح. - Ultra Toy
-  Updated: 2025-09-24T16:14:54Z
+  Updated: 2025-09-27T21:29:30Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/193.jpg?v=1758730493
-  Price: ‏0.00 د.ك.‏ KWD
+  Price: ‏3.90 د.ك.‏ KWD
 - [كرة قدم من Platinum Cup - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-من-platinum-cup): هذه الكرة هي الخيار الأمثل للرجال الذين يبحثون عن كرة عالية الجودة يمكن استخدامها في أي مكان. - Ultra Toy
-  Updated: 2025-09-24T16:14:56Z
+  Updated: 2025-09-27T21:29:29Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/194.jpg?v=1758730495
-  Price: ‏0.00 د.ك.‏ KWD
+  Price: ‏3.90 د.ك.‏ KWD
 - [كرة قدم للتدريب بجودة ممتازة - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-للتدريب-بجودة-ممتازة): هذه الكرة هي الخيار الأمثل للتدريب أو اللعب الترفيهي، حيث تجمع بين الجودة والمتانة في تصميم مناسب للاستخدام المنتظم. - Ultra Toy
-  Updated: 2025-09-24T16:14:57Z
+  Updated: 2025-09-27T21:29:29Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/195.jpg?v=1758730496
-  Price: ‏0.00 د.ك.‏ KWD
+  Price: ‏3.90 د.ك.‏ KWD
 - [كرة قدم من Deer - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-من-deer): هذه الكرة هي الخيار الأمثل للمباريات والتدريب، حيث تجمع بين الجودة والمتانة لتقدم لك تجربة لعب احترافية. - Ultra Toy
-  Updated: 2025-09-24T16:15:05Z
+  Updated: 2025-09-27T21:29:29Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/196.jpg?v=1758730504
-  Price: ‏0.00 د.ك.‏ KWD
+  Price: ‏3.90 د.ك.‏ KWD
 - [كرة قدم للتدريب - Ultra Toy](https://ultratoyskw.com/products/كرة-قدم-للتدريب-1): هذه الكرة هي الخيار الأمثل للتدريب أو اللعب الترفيهي، حيث تجمع بين الجودة والمتانة في تصميم مناسب للاستخدام المنتظم. - Ultra Toy
-  Updated: 2025-09-24T16:15:06Z
+  Updated: 2025-09-27T21:29:29Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/197_d94b263e-10a5-4419-be2e-f3ad3a872c37.jpg?v=1758730505
-  Price: ‏0.00 د.ك.‏ KWD
+  Price: ‏3.90 د.ك.‏ KWD
 - [طاولة رمل وماء للأطفال - Ultra Toy](https://ultratoyskw.com/products/طاولة-رمل-وماء-للأطفال): هذه الطاولة هي الخيار الأمثل لمنح أطفالك تجربة لعب حسية وممتعة. بفضل تصميمها متعدد الألوان ومادتها المتينة (PP)، فهي مثالية للعب بالرمل والماء.
   Updated: 2025-09-24T16:15:08Z
   Vendor: Ultra Toys Kuwait
@@ -3333,27 +3333,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/202.jpg?v=1758053290
   Price: ‏30.00 د.ك.‏ KWD
-- [كرسي بلاستيكي للأطفال - Ultra Toy](https://ultratoyskw.com/products/كرسي-بلاستيكي-للأطفال-1): صُمم هذا الكرسي بـمسند ظهر منحني ليدعم عمود الطفل الفقري ويعزز وضعيته الصحيحة أثناء الجلوس. كما يتميز بـزوايا مستديرة وأسطح ناعمة لمنع الإصابات، ويحتوي على أقدام مانعة للانزلاق لضمان ثباته. - Ultra Toy
-  Updated: 2025-09-20T21:53:22Z
+- [كرسي بلاستيكي للأطفال - Ultra Toys](https://ultratoyskw.com/products/كرسي-بلاستيكي-للأطفال-1): صُمم هذا الكرسي بـمسند ظهر منحني ليدعم عمود الطفل الفقري ويعزز وضعيته الصحيحة أثناء الجلوس. كما يتميز بـزوايا مستديرة وأسطح ناعمة لمنع الإصابات، ويحتوي على أقدام مانعة للانزلاق لضمان ثباته. - Ultra Toy
+  Updated: 2025-09-27T21:50:28Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/203.jpg?v=1758053291
-  Price: ‏0.00 د.ك.‏ KWD
-- [كرسي بلاستيكي للأطفال - Ultra Toy](https://ultratoyskw.com/products/كرسي-بلاستيكي-للأطفال-2): يتميز هذا الكرسي ببنائه الآمن والمتين، مما يجعله مناسباً للاستخدام في الأماكن الداخلية والخارجية. ويمكن استخدامه في المنزل.
-  Updated: 2025-09-20T21:53:22Z
-  Vendor: Ultra Toys Kuwait
-  Product Type: ألعاب أطفال
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/204.jpg?v=1758053292
-  Price: ‏0.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/32c2fe7a-5637-40ac-b3eb-33f01e8ac0f8.jpg?v=1759009827
+  Price: ‏4.45 د.ك.‏ KWD
 - [كرسي بلاستيكي للأطفال لعدة ألوان - Ultra Toy](https://ultratoyskw.com/products/كرسي-بلاستيكي-للأطفال-لعدة-ألوان): صُمم هذا الكرسي ليكون مناسبًا للأطفال الصغار من عمر سنة إلى ست سنوات، ويوفر لهم مقعدًا مريحًا بحجم مناسب. كما أنه مصمم للاستخدام في الأماكن الداخلية والخارجية،
-  Updated: 2025-09-24T16:15:13Z
+  Updated: 2025-09-27T21:43:03Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/205.jpg?v=1758730512
-  Price: ‏0.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/12182021124843PM2046880672.jpg?v=1759009345
+  Price: ‏4.45 د.ك.‏ KWD
 - [طاولة بلاستيكية للأطفال - Ultra Toy](https://ultratoyskw.com/products/طاولة-بلاستيكية-للأطفال-1): تأتي الطاولة بلون أخضر نابض بالحياة، وتتميز بـزوايا مستديرة لضمان سلامة الأطفال. كما أن العديد من الموديلات المماثلة تحتوي على أرجل قابلة للتعديل في الارتفاع،
   Updated: 2025-09-20T21:53:22Z
   Vendor: Ultra Toys Kuwait
@@ -3651,13 +3644,13 @@
   Updated: 2025-09-26T02:44:57Z
   Total Products: 57
 - [أفضل عروض متجر الترا تويز - تسوق الآن](https://ultratoyskw.com/collections/ultra-toy): اكتشف أفضل عروض متجر الترا تويز للألعاب والمنتجات، تسوق بأفضل الأسعار لتمتع بأوقات ممتعة!
-  Updated: 2025-09-26T02:44:57Z
+  Updated: 2025-09-27T21:29:32Z
   Total Products: 15
 - [أفضل العاب الرضع لتنمية المهارات](https://ultratoyskw.com/collections/infanttoys-العاب-الرضع): استكشف مجموعة من العاب الرضع التي تعزز النمو والتعلم. مثالية لتعزيز الاستكشاف والمشاركة للأطفال.
-  Updated: 2025-09-26T02:44:56Z
-  Total Products: 210
+  Updated: 2025-09-27T21:50:21Z
+  Total Products: 209
 - [بيع مستلزمات حضانات بأفضل الأسعار](https://ultratoyskw.com/collections/nurserytoys): استكشف مستلزمات حضانات متنوعة تساهم في تعليم الأطفال وتنمية مهاراتهم.
-  Updated: 2025-09-26T02:44:33Z
+  Updated: 2025-09-27T21:50:21Z
   Total Products: 186
 - [توكتوك شحن - Ultra Toy](https://ultratoyskw.com/collections/توكتوك-شحن): - Ultra Toy
   Updated: 2025-09-26T02:44:34Z
@@ -3666,28 +3659,28 @@
   Updated: 2025-09-26T02:44:34Z
   Total Products: 46
 - [أفضل معدات اللعب الخارجية للأطفال](https://ultratoyskw.com/collections/معدات-اللعب-الخارجية-1): استمتع بألعاب خارجية مذهلة للأطفال. اكتشف معدات اللعب الآمنة والممتعة لتعزيز النشاط البدني.
-  Updated: 2025-09-26T02:44:35Z
+  Updated: 2025-09-27T21:29:32Z
   Total Products: 348
 - [سكوترات رائعة للبيع | استمتع بالتنقل والمرح](https://ultratoyskw.com/collections/سكوترات-رائعة): اكتشف سكوترات مذهلة تناسب كل الأعمار. استمتع بالتنقل بسهولة وراحة مع خيارات كهربائية وشحن مميزة. اختر سكوترك المثالي اليوم!
   Updated: 2025-09-26T02:44:41Z
   Total Products: 29
 - [ألعاب آمنة للأطفال - بيوت لعب بأفضل الأسعار](https://ultratoyskw.com/collections/بيوت-لعب-الأطفال): استمتع ببيوت لعب الأطفال آمنة وممتعة! توصيل مجاني داخل الكويت. خيارات واسعة تناسب كافة الأعمار.
-  Updated: 2025-09-26T02:44:41Z
-  Total Products: 378
+  Updated: 2025-09-27T21:17:23Z
+  Total Products: 377
 - [أفضل أثاث الرضع لتأثيث غرفة طفلك](https://ultratoyskw.com/collections/مجموعة-أثاث-الأطفال-والرضع): اكتشف أثاث الرضع المثالي لجعل غرفة طفلك آمنة ومريحة. تصفح مجموعتنا واختار ما يناسبك.
-  Updated: 2025-09-26T02:44:40Z
+  Updated: 2025-09-27T21:50:21Z
   Total Products: 108
 - [ألعاب النشاط للأطفال - أنشطة ممتعة وتفاعلية](https://ultratoyskw.com/collections/ألعاب-النشاط): استكشف أفضل الأنشطة للأطفال التي تعزز التفاعل والمرح. ألعاب نشاط ممتعة ومفيدة لتنمية المهارات.
-  Updated: 2025-09-26T02:44:40Z
+  Updated: 2025-09-27T21:29:32Z
   Total Products: 424
 - [الألعاب الرياضية وكرة القدم || توصيل مجاني داخل الكويت - Ultra Toys](https://ultratoyskw.com/collections/الألعاب-الرياضية-وكرة-القدم): نقدم لكم أفضل الألعاب والمستلزمات اللي تحتاجونها عشان تمارسون رياضتكم المفضلة، من أحسن الماركات  - Ultra Toys Kuwait
-  Updated: 2025-09-26T02:44:39Z
+  Updated: 2025-09-27T21:29:32Z
   Total Products: 30
 - [أفضل دراجات هوائية - تنوع وجودة](https://ultratoyskw.com/collections/مجموعة-الدراجات-الهوائية): استكشف مجموعة من الدراجات الهوائية المميزة. اكتشف أنواع وموديلات مختلفة تناسب احتياجاتك.
   Updated: 2025-09-26T02:44:38Z
   Total Products: 129
 - [All Products (ChatGPT-AI Product Description) - Ultra Toys Kuwait](https://ultratoyskw.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate  - Ultra Toys Kuwait
-  Updated: 2025-09-26T02:48:11Z
+  Updated: 2025-09-27T21:50:21Z
   Total Products: 520
 
 ## Blogs
@@ -3704,6 +3697,9 @@
     Author: Abdullah ghanem
   - [قواري: أفضل 7 نصائح لاختيار القوارب المناسبة للمبتدئين](https://ultratoyskw.com/blogs/news/قواري-افضل-7-نصائح-لاختيار-القوارب-المناسبة-للمبتدئين): قواري: أفضل 7 نصائح لاختيار القوارب المناسبة للمبتدئين
     Updated: 2025-09-19T00:23:42Z
+    Author: Abdullah ghanem
+  - [الدراجات الهوائية في الكويت وما هي افضلها ومن اين نشتريها](https://ultratoyskw.com/blogs/news/الدراجات-الهوائية-في-الكويت-وما-هي-افضلها)
+    Updated: 2025-09-27T22:58:50Z
     Author: Abdullah ghanem
 
 ## Store Pages
