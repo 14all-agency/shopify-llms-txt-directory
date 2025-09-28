@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-09-27T20:00:27.909Z
+- Updated At: 2025-09-28T00:00:29.447Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/28-opt.jpg?v=1751547430
   Price: $49.00 USD
 - [KeraFactor® Scalp Stimulating Solution](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-solution): KeraFactor® Scalp Stimulating Solution – 50ml Bottle Healthy-looking hair starts at the scalp. This 50ml bottle of KeraFactor® Scalp Stimulating Solution is formulated with our patented KeraFactor Peptide Complex (KFP™) and next-generation Nanofluorosome™ Technology to help nourish the scalp and support visibly thicker, fuller, and stronger hair. Why it works: KFP™ delivers a concentrated dose of 7 biomimetic growth factors and skin proteins that target thinning, weak, or dormant hair follicles. These ingredients are designed to boost circulation, improve scalp health, and encourage healthier hair growth. Now enhanced with Nanofluorosomes™—a patented delivery system containing a naturally fluorescent anti-inflammatory and anti-androgenic compound that can be activated with red-light therapy devices (630–690nm) for amplified results. Includes a precision dropper applicator for easy, mess-free application directly to the scalp. ✔ Supports Hair Density and Strength ✔ Drug-Free & Hormone-Free ✔ Ideal for Daily Use or Post /Microneedling ✔ Activates with Red-Light Therapy ✔ Developed by Dermatologists ✔ FDA Cosmetics Registered (MoCRA Compliant) How to Use: Apply a full dropper directly to the scalp once daily or as directed by your provider. Massage in gently. Do not rinse. Caution: Avoid use if allergic to curcumin. For external use only. Avoid eye contact. Not recommended for individuals under 18 or for those who are pregnant or nursing. Storage: Store in a cool, dry place. Do not freeze. Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Carbomer, Polysorbate 60, Xanthan gum, Lecithin, Curcumin, Tetrahydrocurcumin, 3-0-ethyl ascorbic acid, Phenoxyethanol, Hyaluronic Acid, Sodium Citrate, Citric Acid, p-Anisic Acid, Copper Tripeptide-1, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-09-27T05:06:08Z
+  Updated: 2025-09-27T23:23:57Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
