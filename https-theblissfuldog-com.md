@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-27T12:00:39.584Z
+- Updated At: 2025-09-28T00:00:39.466Z
 
 ## Products
 
@@ -7472,7 +7472,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBETAN_SPANIEL_RELAX_SPRAY_2500.jpg?v=1627048336
     Price: $13.95 USD
 - [Is Your Samoyed Afraid of Thunderstorms? Scared of Fireworks?](https://theblissfuldog.com/products/samoyed-relax-dog-aromatherapy): The Blissful Dog Relax Dog Aromatherapy calms the Samoyed afraid of thunder, fireworks, being alone using gentle essential oils. FREE Shipping USA
-  Updated: 2025-01-27T20:41:58Z
+  Updated: 2025-09-27T17:57:04Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -9143,7 +9143,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IT_GREYHOUND_RELAX_SPRAY_2500-copy.jpg?v=1623441919
     Price: $13.95 USD
 - [Is Your Greyhound Afraid of Thunder? Fireworks? Being Alone? Clowns?](https://theblissfuldog.com/products/greyhound-relax-dog-aromatherapy): Is your Greyhound afraid of thunderstorms? Fireworks? The calming blend of oils in Relax Dog Aromatherapy takes the edge off your dog's stress…naturally.
-  Updated: 2025-01-27T20:42:04Z
+  Updated: 2025-09-27T23:09:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -12363,7 +12363,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHOW_FOCUS_SPRAY_1080X_2021.jpg?v=1640106933
     Price: $13.95 USD
 - [German Shepherd Focus Dog Aromatherapy for Your Distracted Dog](https://theblissfuldog.com/products/german-shepherd-focus-dog-aromatherapy): German Shepherd Focus Dog Aromatherapy for the wound-tight, energy galore dog and attention deficit ones. Focus Dog Aromatherapy amps up canine concentration.
-  Updated: 2025-01-27T15:33:52Z
+  Updated: 2025-09-27T18:19:28Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
