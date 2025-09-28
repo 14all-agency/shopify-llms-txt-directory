@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-28T12:01:16.064Z
+- Updated At: 2025-09-28T16:01:16.362Z
 
 ## Products
 
@@ -1800,7 +1800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/detachable-3-in-1-pet-stroller-foldable-carrying-bag-brake-canopy-basket-storage-pet-stroller-black-943287.jpg?v=1700657948
     Price: £71.99 GBP
 - [Foldable Pet Stroller Med/Large Dogs | Easy Storage - Grey](https://veryimportantpets.shop/products/foldable-pet-stroller-for-medium-large-dogs-easy-storage-grey): Effortless travel with our Foldable Pet Stroller, ideal for medium/large dogs. Mesh windows, shock absorbers, safety leashes, and storage. Easy fold and store.
-  Updated: 2025-09-26T23:30:55Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -1814,7 +1814,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-stroller-for-mediumlarge-dogs-easy-storage-red-pet-stroller-red-474736.jpg?v=1700651518
   Price: £134.99 GBP
 - [2 in 1 Dog Bike Trailer for Large Dogs with Hitch, Quick-release 20" Wheels](https://veryimportantpets.shop/products/2-in-1-dog-bike-trailer-for-large-dogs-with-hitch-quick-release-20-wheels): With this PawHut stroller, pets will enjoy the outdoors, no matter their age or physical condition. Shop online at Very Important Pets
-  Updated: 2025-09-26T23:30:55Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: Bicycle Trailer
   Availability: Available
@@ -2326,7 +2326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-bed-for-small-sized-dogs-elevated-pet-chair-with-pu-cover-soft-cushion-cat-couch-lounger-with-anti-slip-legs-240493.jpg?v=1700657294
   Price: £53.99 GBP
 - [Dog Sofa for XS and S-Size Dogs with Thick Sponge Padded Cushion, Kitten Lounge Bed with Washable Cover, Wooden Frame](https://veryimportantpets.shop/products/dog-sofa-for-xs-and-s-size-dogs-with-thick-sponge-padded-cushion-kitten-lounge-bed-with-washable-cover-wooden-frame): This dark blue PawHut dog couch is perfect for your pet to relax and rest. Shop online at Very Important Pets
-  Updated: 2025-09-27T15:31:01Z
+  Updated: 2025-09-28T15:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2340,7 +2340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-with-storage-pet-chair-for-small-dogs-cat-couch-with-soft-cushion-light-blue-76-x-45-x-415-cm-light-blue-728983.jpg?v=1700656990
   Price: £80.99 GBP
 - [Dog Sofa for XS and S Size Dogs, Pet Chair Bed with Soft Cushion, Cat Sofa Couch with Washable Cover, Wooden Frame](https://veryimportantpets.shop/products/dog-sofa-for-xs-and-s-size-dogs-pet-chair-bed-with-soft-cushion-cat-sofa-couch-with-washable-cover-wooden-frame): This dog couch from PawHut is made for cats or dogs to lounge in luxury. Shop online at Very Important Pets
-  Updated: 2025-09-27T15:31:01Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2543,7 +2543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/adjustable-wooden-pet-gate-freestanding-dog-barrier-fence-doorway-3-panels-safety-gate-w-lockable-door-296121.jpg?v=1700662287
   Price: £62.99 GBP
 - [Freestanding Pet Gate 4 Panel Wooden Dog Barrier Folding Safety Fence with Support Feet up to 204cm Long 61cm Tall for Doorway Stairs](https://veryimportantpets.shop/products/freestanding-pet-gate-4-panel-wooden-dog-barrier-folding-safety-fence-with-support-feet-up-to-204cm-long-61cm-tall-for-doorway-stairs): This PawHut dog gate for doorway will safely and effectively limit the range of your pet's activities. Shop online at Very Important Pets
-  Updated: 2025-09-27T15:31:01Z
+  Updated: 2025-09-28T15:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2953,7 +2953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-bird-cage-with-stand-wheels-for-small-birds-bird-cage-white-654200.jpg?v=1700648388
     Price: £71.99 GBP
 - [1.53m Mobile Bird Cage with Feeding Stand & Perches | Very Important Pets](https://veryimportantpets.shop/products/1-53m-mobile-bird-cage-with-feeding-stand-perches): Elevate your feathered friends' habitat with our 1.53m tall bird cage on wheels. Designed for parrots and similar-sized birds, it features two perches, food and water containers, and a lower storage rack. The sturdy metal frame and easy-to-clean pull-out tray make maintenance effortless. Ideal for small spaces.
-  Updated: 2025-09-27T15:31:02Z
+  Updated: 2025-09-28T15:30:55Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
@@ -3325,7 +3325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:06Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4019,7 +4019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-28T07:30:57Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4117,7 +4117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-transparent-sliding-doors-breathable-mesh-for-lizards-horned-frogs-snakes-and-chameleons-205750.jpg?v=1700649306
   Price: £71.99 GBP
 - [Reptile Terrarium Vivarium, Climbing Pet Containers, Reptile Habitat with Sliding Doors, Breathable Mesh, Easy to Install, for Lizards, Horned Frogs, Snakes, Chameleons, 80 x 40 x 40 cm](https://veryimportantpets.shop/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-80-x-40-x-40-cm): Do you want to give your pets real wild heaven? Our PawHut reptile tank is your best choice. Shop online at Very Important Pets
-  Updated: 2025-09-28T07:30:56Z
+  Updated: 2025-09-28T15:30:55Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
@@ -4264,7 +4264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-443-x-65-cm-838158.jpg?v=1700645780
   Price: £80.99 GBP
 - [Enclosed Small Wooden Chicken Coop with Nesting Box](https://veryimportantpets.shop/products/enclosed-small-wooden-chicken-coop-with-nesting-box): Treat your chickens to the good life they deserve with this chicken chateau. Shop online at Very Important Pets
-  Updated: 2025-09-27T15:31:02Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: Chicken Coop
   Availability: Available
@@ -4292,7 +4292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-with-removable-trays-for-1-2-rabbits-rabbit-hutch-grey-927895.jpg?v=1700647117
   Price: £116.99 GBP
 - [Indoor Wooden Rabbit Hutch, Guinea Pig House, Two Tier with Openable Roof, Wheels, Slide-out Tray, 91.5 x 53.3 x 73 cm](https://veryimportantpets.shop/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-91-5-x-53-3-x-73-cm): Choose this indoor rabbit cage from PawHut to give your rabbit, guinea pig and other small animals a place to rest and play. Shop online at Very Important Pets
-  Updated: 2025-09-28T07:30:57Z
+  Updated: 2025-09-28T15:30:57Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4422,7 +4422,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wood-metal-rabbit-hutch-guinea-pig-hutch-elevated-pet-house-bunny-cage-with-slide-out-tray-openable-roof-outdoor-895-x-45-x-81cm-light-yellow-936892.jpg?v=1700646277
   Price: £98.99 GBP
 - [Wooden Metal Rabbit Hutch Guinea Pig Hutch Bunny Cage Pet House Bunny w/ Slide-Out Tray Outdoor Light Yellow,black](https://veryimportantpets.shop/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellow-black): Give your furry friend a comfortable living space from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:20Z
+  Updated: 2025-09-28T15:30:58Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4464,7 +4464,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-tier-hamster-cage-with-tunnel-wheel-ideal-for-dwarf-mice-small-animal-cage-958128.jpg?v=1700663926
   Price: £44.99 GBP
 - [Pet Playpen DIY Small Animal Cage Metal Fence with Door, 22 Pieces, for Bunny Chinchilla Hedgehog Guinea Pig](https://veryimportantpets.shop/products/pet-playpen-diy-small-animal-cage-metal-fence-with-door-22-pieces-for-bunny-chinchilla-hedgehog-guinea-pig): Small pets will have a spacious and secure area, thanks to this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-09-28T15:30:56Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4492,7 +4492,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:06Z
+  Updated: 2025-09-28T15:30:55Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -8378,7 +8378,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/sneyds-wonderdog-special-15-kg-working-dry-181837.png?v=1700648399
   Price: £32.95 GBP
 - [VetSpec Calm & Focused Dry Dog Food for Anxiety & Training](https://veryimportantpets.shop/products/vetspec-complete-dog-calm-focused): VetSpec Calm & Focused Formula Dry Dog Food: A cereal-grain-free, super-premium blend for anxious or over-excited dogs, aiding focus and obedience.
-  Updated: 2025-09-26T08:28:16Z
+  Updated: 2025-09-28T13:28:06Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -11716,13 +11716,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-calcium-bones-dog-treats-8-x-100g-natural-treats-495600.jpg?v=1722360311
   Price: £15.72 GBP
-- [Pet Munchies Chicken & Cheese 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-cheese-8-x-100g): These succulent strips of chicken can be given as a chew and are easy to break up for training and rewards. Shop online at Very Important Pets
-  Updated: 2025-09-26T13:36:06Z
-  Vendor: Pet Munchies
-  Product Type: Dog Treats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-cheese-8-x-100g-natural-treats-879652.jpg?v=1722356145
-  Price: £16.95 GBP
 - [Pet Munchies Chicken Dumbbells 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-dumbbells-8-x-100g): This premium gourmet treat is made from quality chicken breast meat and beef rawhide. Shop online at Very Important Pets
   Updated: 2025-09-17T17:35:57Z
   Vendor: Pet Munchies
@@ -23071,7 +23064,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/ancol-raised-twin-bowl-cat-feeder-cat-bowls-and-feeding-260438.jpg?v=1724722117
   Price: £14.46 GBP
 - [Felix Tasty Nuggets Beef & Lamb Cat Treats 8-pack 50g](https://veryimportantpets.shop/products/felix-tasty-nuggets-beef-lamb-cat-treats-8-x-50g): Give your cat a delicious treat with Felix Tasty Nuggets Beef & Lamb. Packed with protein and vitamins, it's the perfect snack for in between meals.
-  Updated: 2025-09-28T03:23:34Z
+  Updated: 2025-09-28T14:41:04Z
   Vendor: Felix
   Product Type: 
   Availability: Available
@@ -23745,7 +23738,7 @@ Omega-6 & 3 for skin.
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/arden-grange-adult-grain-free-duck-superfoods-adult-dry-12-kg-477113.webp?v=1732983824
     Price: £61.95 GBP
 - [Arden Grange Grain-Free Chicken Superfoods Dry Dog Food](https://veryimportantpets.shop/products/arden-grange-adult-grain-free-chicken-superfoods): Arden Grange Adult Dog Grain-Free Chicken & Superfoods Dry Dog Food - high-quality, complete pet food for active adult dogs. Fresh chicken, grain-free.
-  Updated: 2025-09-28T05:06:51Z
+  Updated: 2025-09-28T13:06:23Z
   Vendor: Arden Grange
   Product Type: Adult Dry
   Availability: Available
@@ -24102,8 +24095,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-09-28T11:36:44Z
-  Total Products: 410
+  Updated: 2025-09-28T15:34:01Z
+  Total Products: 409
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-09-22T18:54:02Z
   Total Products: 123
@@ -24192,8 +24185,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-09-28T11:36:44Z
-  Total Products: 1780
+  Updated: 2025-09-28T15:34:01Z
+  Total Products: 1779
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-09-22T18:51:59Z
   Total Products: 186
@@ -24843,8 +24836,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-09-28T11:36:44Z
-  Total Products: 2331
+  Updated: 2025-09-28T15:34:01Z
+  Total Products: 2330
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
   Total Products: 14
@@ -25145,7 +25138,7 @@ Omega-6 & 3 for skin.
 
 ## Blogs
 
-- [Pet Advice](https://veryimportantpets.shop/blogs/news)
+- [Dog & Cat Care Tips, Training & Health | Pet Advice Blog](https://veryimportantpets.shop/blogs/news): Expert dog & cat advice for UK pet owners. Read practical guides on training, health, grooming, behaviour & lifestyle care from Very Important Pets Shop.
   - [What Are Some Ways to Deal with a Dog's Separation Anxiety?](https://veryimportantpets.shop/blogs/news/what-are-some-ways-to-deal-with-a-dogs-separation-anxiety): <span>Does your furry friend suffer from separation anxiety when you leave the house? It's a common and challenging issue many pet parents face. But worry not! In this blog post, we'll explore "what are some ways to deal with a dog's separation anxiety", ensuring their happiness and well-being even when you're not around.</span>
     Updated: 2025-01-30T19:07:50Z
     Author: Graham Root
@@ -25221,6 +25214,10 @@ Omega-6 & 3 for skin.
   - [Very Important Pets: 2024 Merton Best Business Awards Finalist](https://veryimportantpets.shop/blogs/news/2024-merton-best-business-awards-finalist): Very Important Pets: 2024 Merton Best Business Awards Finalist
     Updated: 2024-09-20T21:21:56Z
     Author: Graham Root
+  - [The Ultimate Checklist for Bringing Home a New Puppy](https://veryimportantpets.shop/blogs/news/the-ultimate-checklist-for-bringing-home-a-new-puppy): The Ultimate Checklist for Bringing Home a New Puppy
+    Updated: 2025-09-28T14:32:26Z
+    Author: Very Important Pets Shop
+    Tags: Dog, New Home, Puppy
 
 ## Store Pages
 
