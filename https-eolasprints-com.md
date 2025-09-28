@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-09-28T10:30:34.587Z
+- Updated At: 2025-09-28T22:06:10.527Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -35,7 +35,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 ## Products
 
 - [Pla Ingeo 850 Filament for 3d Printing](https://eolasprints.com/products/pla-ingeo-850-filament): PLA Ingeo 850 Filament offers exceptional adhesion properties and impact resistance for 3D printing. This high-quality filament combines PLA simplicity with ABS-like durability.
-  Updated: 2025-09-24T18:32:11Z
+  Updated: 2025-09-28T22:02:03Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -65,7 +65,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-850-filament-teardrop-shaped-object-textured-1-75-mm-1-kg-850.webp?v=1725009693
     Price: €25.50 EUR
 - [Pla Ingeo 870 Filament for 3d Printing](https://eolasprints.com/products/pla-ingeo-870-filament): PLA Ingeo 870 Filament is a high-performance polymer developed for 3D printing technical parts. It offers exceptional printability, high strength, and improved properties after crystallization.
-  Updated: 2025-08-28T11:50:23Z
+  Updated: 2025-09-28T22:02:18Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Eolas Prints PLA Filament: Food-Safe 3D Printing](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament offers high-quality 3D printing material in 1.75mm size. Available in 20+ colors, this versatile filament ensures precise results for various projects.
-  Updated: 2025-09-26T19:55:06Z
+  Updated: 2025-09-28T22:02:28Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -301,7 +301,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-spool-white-3d-250-g-329.webp?v=1724892336
     Price: €117.50 EUR
 - [Eolas Prints PLA Filament 2.85mm for 3D Printing](https://eolasprints.com/products/pla-filament-2-85-mm): Eolas Prints PLA filament 2.85mm for 3D printing projects. Premium quality, eco-friendly material available in 20+ vibrant colors. Ideal for hobbyists and professionals seeking exceptional detail and accuracy.
-  Updated: 2025-09-11T11:33:50Z
+  Updated: 2025-09-28T22:02:40Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -447,7 +447,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-2-85-mm-3d-printed-prosthetic-leg-1-kg-natural-267.webp?v=1725569350
     Price: €117.50 EUR
 - [Eolas Prints Pla Transition Filament for 3d Printing](https://eolasprints.com/products/pla-transition-filament): PLA transition filament offers eco-friendly 3D printing with color-changing effects. This environmentally friendly material ensures high-quality, safe prints from renewable resources.
-  Updated: 2025-09-21T20:24:01Z
+  Updated: 2025-09-28T22:02:45Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -461,7 +461,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-transition-filament-pair-3d-printed-boots-1-75-mm-1-kg-960.webp?v=1725277266
     Price: €13.90 EUR
 - [Eolas Prints PETG Filament: High-Performance 3D Printing](https://eolasprints.com/products/petg-filament): Eolas Prints PETG filament offers high thermal stability, durability, and chemical resistance for 3D printing. This versatile material excels in clarity and impact strength for various applications.
-  Updated: 2025-09-10T09:04:17Z
+  Updated: 2025-09-28T22:02:58Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -611,173 +611,173 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [TPU Flex Filament 93A for Printing Flexible Parts](https://eolasprints.com/products/tpu-filament): TPU Flex Filament 93A offers versatile 3D printing for flexible, durable objects. This high-quality TPU material balances elasticity and strength, suitable for various applications requiring pliability.
-  Updated: 2025-09-26T15:51:27Z
+  Updated: 2025-09-28T22:05:15Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-green-3d-1-75-mm-250-g-dark-224.webp?v=1724858463
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-green-3d-1-75-mm-1-kg-dark-688.webp?v=1759096986
   - [1.75 mm / 1 Kg / Dark Green](https://eolasprints.com/products/tpu-filament?variant=42329778684163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-green-3d-1-75-mm-250-g-dark-224.webp?v=1724858463
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-green-3d-1-75-mm-1-kg-dark-688.webp?v=1759096986
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Green](https://eolasprints.com/products/tpu-filament?variant=42329778618627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-green-1-75-mm-250-g-294.webp?v=1724858642
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-green-1-75-mm-1-kg-766.webp?v=1759097027
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Cyan](https://eolasprints.com/products/tpu-filament?variant=42329778094339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-250-g-cyan-764.webp?v=1724858613
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-1-kg-cyan-822.webp?v=1759097020
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Mint](https://eolasprints.com/products/tpu-filament?variant=42329778225411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-green-1-75-mm-250-g-mint-899.webp?v=1724858805
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-green-1-75-mm-1-kg-mint-636.webp?v=1759097065
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Black](https://eolasprints.com/products/tpu-filament?variant=42324552614147)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-250-g-389.webp?v=1724858554
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-1-kg-740.webp?v=1759097007
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Blue](https://eolasprints.com/products/tpu-filament?variant=42329777930499)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-250-g-237.webp?v=1724858584
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-1-kg-820.webp?v=1759097014
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Orange](https://eolasprints.com/products/tpu-filament?variant=42329778028803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-250-g-419.webp?v=1724858697
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-1-kg-432.webp?v=1759097040
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Pink](https://eolasprints.com/products/tpu-filament?variant=42329778159875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-pink-3d-1-75-mm-250-g-961.webp?v=1724858851
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-pink-3d-1-75-mm-1-kg-346.webp?v=1759097079
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Beige](https://eolasprints.com/products/tpu-filament?variant=42329778290947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-250-g-beige-990.webp?v=1724858524
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-1-kg-beige-784.webp?v=1759097000
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / White](https://eolasprints.com/products/tpu-filament?variant=42329778356483)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-white-3d-1-75-mm-250-g-785.webp?v=1724858938
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-white-3d-1-75-mm-1-kg-110.webp?v=1759097102
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Dark Grey](https://eolasprints.com/products/tpu-filament?variant=42329778422019)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-250-g-dark-grey-483.webp?v=1724858670
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-1-kg-dark-grey-647.webp?v=1759097034
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Grey](https://eolasprints.com/products/tpu-filament?variant=42329778487555)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-gray-3d-1-75-mm-250-g-grey-825.webp?v=1724858830
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-gray-3d-1-75-mm-1-kg-grey-145.webp?v=1759097072
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Yellow](https://eolasprints.com/products/tpu-filament?variant=42329778553091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-yellow-1-75-mm-250-g-237.webp?v=1724858959
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-yellow-1-75-mm-1-kg-353.webp?v=1759097109
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Straw](https://eolasprints.com/products/tpu-filament?variant=42329778749699)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-red-3d-1-75-mm-250-g-straw-803.webp?v=1724858897
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-red-3d-1-75-mm-1-kg-straw-949.webp?v=1759097090
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Light Orange](https://eolasprints.com/products/tpu-filament?variant=42329778815235)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-250-g-light-635.webp?v=1724858727
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-1-kg-light-734.webp?v=1759097047
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Turquoise](https://eolasprints.com/products/tpu-filament?variant=42329778880771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-teal-3d-1-75-mm-250-g-turquoise-593.webp?v=1724858874
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-teal-3d-1-75-mm-1-kg-turquoise-793.webp?v=1759097084
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Violet](https://eolasprints.com/products/tpu-filament?variant=42329778946307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-purple-3d-printer-1-75-mm-250-g-violet-910.webp?v=1724858921
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-purple-3d-printer-1-75-mm-1-kg-violet-557.webp?v=1759097096
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Baby Blue](https://eolasprints.com/products/tpu-filament?variant=42329779011843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-blue-1-75-mm-250-g-baby-541.webp?v=1724858493
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-blue-1-75-mm-1-kg-baby-136.webp?v=1759096993
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Natural](https://eolasprints.com/products/tpu-filament?variant=42329779077379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-250-g-natural-757.webp?v=1724858780
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-1-kg-natural-944.webp?v=1759097059
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Red](https://eolasprints.com/products/tpu-filament?variant=42329779142915)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-250-g-557.webp?v=1724858752
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-1-kg-547.webp?v=1759097053
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Dark Green](https://eolasprints.com/products/tpu-filament?variant=42329779536131)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-green-3d-1-75-mm-250-g-dark-224.webp?v=1724858463
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-green-3d-1-75-mm-1-kg-dark-688.webp?v=1759096986
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Green](https://eolasprints.com/products/tpu-filament?variant=42329779503363)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-green-1-75-mm-250-g-294.webp?v=1724858642
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-green-1-75-mm-1-kg-766.webp?v=1759097027
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Cyan](https://eolasprints.com/products/tpu-filament?variant=42329779241219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-250-g-cyan-764.webp?v=1724858613
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-1-kg-cyan-822.webp?v=1759097020
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Mint](https://eolasprints.com/products/tpu-filament?variant=42329779306755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-green-1-75-mm-250-g-mint-899.webp?v=1724858805
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-green-1-75-mm-1-kg-mint-636.webp?v=1759097065
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Black](https://eolasprints.com/products/tpu-filament?variant=42324552679683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-250-g-389.webp?v=1724858554
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-1-kg-740.webp?v=1759097007
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Blue](https://eolasprints.com/products/tpu-filament?variant=42329779175683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-250-g-237.webp?v=1724858584
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-blue-3d-1-75-mm-1-kg-820.webp?v=1759097014
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Orange](https://eolasprints.com/products/tpu-filament?variant=42329779208451)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-250-g-419.webp?v=1724858697
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-1-kg-432.webp?v=1759097040
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Pink](https://eolasprints.com/products/tpu-filament?variant=42329779273987)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-pink-3d-1-75-mm-250-g-961.webp?v=1724858851
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-pink-3d-1-75-mm-1-kg-346.webp?v=1759097079
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Beige](https://eolasprints.com/products/tpu-filament?variant=42329779339523)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-250-g-beige-990.webp?v=1724858524
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-1-kg-beige-784.webp?v=1759097000
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / White](https://eolasprints.com/products/tpu-filament?variant=42329779372291)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-white-3d-1-75-mm-250-g-785.webp?v=1724858938
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-white-3d-1-75-mm-1-kg-110.webp?v=1759097102
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Dark Grey](https://eolasprints.com/products/tpu-filament?variant=42329779405059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-250-g-dark-grey-483.webp?v=1724858670
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-black-3d-1-75-mm-1-kg-dark-grey-647.webp?v=1759097034
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Grey](https://eolasprints.com/products/tpu-filament?variant=42329779437827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-gray-3d-1-75-mm-250-g-grey-825.webp?v=1724858830
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-gray-3d-1-75-mm-1-kg-grey-145.webp?v=1759097072
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Yellow](https://eolasprints.com/products/tpu-filament?variant=42329779470595)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-yellow-1-75-mm-250-g-237.webp?v=1724858959
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-yellow-1-75-mm-1-kg-353.webp?v=1759097109
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Straw](https://eolasprints.com/products/tpu-filament?variant=42329779568899)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-red-3d-1-75-mm-250-g-straw-803.webp?v=1724858897
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-red-3d-1-75-mm-1-kg-straw-949.webp?v=1759097090
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Light Orange](https://eolasprints.com/products/tpu-filament?variant=42329779601667)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-250-g-light-635.webp?v=1724858727
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-1-kg-light-734.webp?v=1759097047
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Turquoise](https://eolasprints.com/products/tpu-filament?variant=42329779667203)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-teal-3d-1-75-mm-250-g-turquoise-593.webp?v=1724858874
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-teal-3d-1-75-mm-1-kg-turquoise-793.webp?v=1759097084
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Violet](https://eolasprints.com/products/tpu-filament?variant=42329779699971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-purple-3d-printer-1-75-mm-250-g-violet-910.webp?v=1724858921
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-purple-3d-printer-1-75-mm-1-kg-violet-557.webp?v=1759097096
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Baby Blue](https://eolasprints.com/products/tpu-filament?variant=42329779732739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-blue-1-75-mm-250-g-baby-541.webp?v=1724858493
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-light-blue-1-75-mm-1-kg-baby-136.webp?v=1759096993
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Natural](https://eolasprints.com/products/tpu-filament?variant=42329779765507)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-250-g-natural-757.webp?v=1724858780
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-3d-printer-1-75-mm-1-kg-natural-944.webp?v=1759097059
     Price: €34.90 EUR
   - [2.85 mm / 1 Kg / Red](https://eolasprints.com/products/tpu-filament?variant=42329779798275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-250-g-557.webp?v=1724858752
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-1-kg-547.webp?v=1759097053
     Price: €34.90 EUR
 - [Eolas Prints Tpu Transition Filament for 3d Printing](https://eolasprints.com/products/tpu-transition-filament): Eolas Prints TPU transition filament offers 3D printing enthusiasts a flexible, durable material that creates stunning color gradients for visually striking and environmentally conscious prints.
-  Updated: 2025-09-16T13:30:20Z
+  Updated: 2025-09-28T22:05:30Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -795,7 +795,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
     Price: €22.50 EUR
 - [Petg Transition Filament by Eolas Prints](https://eolasprints.com/products/petg-transition-filament): PETG transition filament from Eolas Prints offers improved thermal stability and good sunlight resistance for 3D printing. This durable material ensures long-lasting prints for various applications.
-  Updated: 2025-09-16T21:28:21Z
+  Updated: 2025-09-28T22:05:27Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -813,7 +813,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-transition-filament-spool-blue-3d-1-75-mm-250-g-329.webp?v=1726049262
     Price: €17.40 EUR
 - [Eolas Prints Pla Pellets for 3d Printing](https://eolasprints.com/products/pla-pellets): PLA pellets from Eolas Prints offer a sustainable 3D printing solution. These biodegradable materials enable cost-effective manufacturing while reducing environmental impact for eco-conscious users.
-  Updated: 2025-09-15T10:45:16Z
+  Updated: 2025-09-28T22:05:32Z
   Vendor: Eolas Prints
   Product Type: Pellets
   Availability: Available
@@ -827,7 +827,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-pellets-white-sphere-subtle-500-g-628.webp?v=1726155657
     Price: €10.99 EUR
 - [Eolas Prints Tpu Pellets for 3d Printing](https://eolasprints.com/products/tpu-pellets): Eolas Prints offers high-quality TPU pellets, a sustainable alternative to traditional materials.
-  Updated: 2025-09-22T11:17:41Z
+  Updated: 2025-09-28T22:05:47Z
   Vendor: Eolas Prints
   Product Type: Pellets
   Availability: Available
@@ -841,7 +841,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-pellets-white-circular-disc-500-g-182.webp?v=1725010606
     Price: €18.90 EUR
 - [Eolas Prints Petg Pellets for 3d Printing](https://eolasprints.com/products/petg-pellets): PETG pellets from Eolas Prints offer a sustainable 3D printing material with exceptional versatility. These high-quality pellets provide impact resistance and transparency for various applications.
-  Updated: 2025-09-22T20:43:37Z
+  Updated: 2025-09-28T22:05:43Z
   Vendor: Eolas Prints
   Product Type: Pellets
   Availability: Available
@@ -855,7 +855,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-pellets-white-round-slightly-500-g-880.webp?v=1726221908
     Price: €18.90 EUR
 - [Pla Matte Filament for Eco-friendly 3d Printing](https://eolasprints.com/products/pla-matte-filament): PLA Matte Filament offers eco-friendly 3D printing with a sophisticated finish. This biodegradable material combines sustainability with visual appeal for environmentally conscious makers.
-  Updated: 2025-09-23T10:14:06Z
+  Updated: 2025-09-28T22:06:03Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1074,7 +1074,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/magigoo-original-3d-printing-adhesive-red-purple-gradient-280.webp?v=1726447625
   Price: €18.15 EUR
 - [PLA Silk Filament: Metallic Finish for 3D Printing](https://eolasprints.com/products/pla-silk-filament): PLA Silk Filament enhances 3D printing with a metallic finish and smooth texture. This premium material hides layer lines for polished, professional-looking prints.
-  Updated: 2025-09-07T23:03:21Z
+  Updated: 2025-09-28T14:20:21Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1408,7 +1408,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-mini-semi-assembled-orange-black-3d-848.webp?v=1745446094
   Price: €549.00 EUR
 - [PLA Neon Filament](https://eolasprints.com/products/pla-neon-filament): Enhance your 3D printing projects with our premium PLA Neon Filament. This high-quality material combines functionality and visual appeal, featuring a vibrant neon finish that adds a striking element to your creations. The unique properties of this filament help minimize layer lines, resulting in smoother and more refined prints.The neon color of this filament creates an eye-catching effect, elevating the overall appearance of your 3D printed objects. Compatible with most standard 3D printers, our neon filament offers excellent adhesion and minimal warping, ensuring consistent and reliable results.Ideal for a wide range of applications, from prototyping to artistic projects, this PLA Neon Filament allows you to produce bold, attention-grabbing prints. The vivid neon hue enhances the visual impact of your objects, making them stand out with a bright, luminous appearance.Experience the perfect balance of performance and aesthetics with our PLA Neon Filament, designed to take your 3D printing endeavors to the next level.
-  Updated: 2025-09-18T16:01:15Z
+  Updated: 2025-09-28T22:00:27Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1529,6 +1529,72 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-ad5x-multi-colour-3d-printer-two-439.webp?v=1756320499
   Price: €399.00 EUR
+- [Xtool F1 Laser Engraver for 3d Printing Projects](https://eolasprints.com/products/xtool-f1-portable-high-speed-laser-engraver): XTool F1 Portable High Speed Laser Engraver at Eolas Prints offers precision cutting and embossing for arts, crafts, and 3D printing projects.
+  Updated: 2025-09-28T22:00:50Z
+  Vendor: xTOOL
+  Product Type: Laser Engravers and Cutters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_us-f1standalone_5121-56673.jpg?v=1759083640
+  - [Standalone](https://eolasprints.com/products/xtool-f1-portable-high-speed-laser-engraver?variant=52430978482503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_us-f1standalone_5121-56673.jpg?v=1759083640
+    Price: €1,549.00 EUR
+  - [Slide Extension Bundle](https://eolasprints.com/products/xtool-f1-portable-high-speed-laser-engraver?variant=52430978515271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_us-f1slideextension_5121-56661.jpg?v=1759083768
+    Price: €1,799.00 EUR
+  - [Deluxe Bundle](https://eolasprints.com/products/xtool-f1-portable-high-speed-laser-engraver?variant=52430978548039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_us-f1deluxebundle_5121-56679.jpg?v=1759083768
+    Price: €2,149.00 EUR
+- [Xtool F1 Ultra 20w Dual Laser Engraver Precision Cutting](https://eolasprints.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver): XTool F1 Ultra 20W dual fiber and diode laser engraver offers professional precision cutting and embossing work capabilities at Eolas Prints online store.
+  Updated: 2025-09-28T22:01:15Z
+  Vendor: xTOOL
+  Product Type: Laser Engravers and Cutters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_f1ultra-standalone_5121-56759.jpg?v=1759086449
+  - [Standalone](https://eolasprints.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver?variant=52431240724807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_f1ultra-standalone_5121-56759.jpg?v=1759086449
+    Price: €3,899.00 EUR
+  - [Slide Conveyor Bundle](https://eolasprints.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver?variant=52431240757575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_f1ultra-conveyor_5121-56765.jpg?v=1759086578
+    Price: €4,299.00 EUR
+  - [Deluxe Bundle](https://eolasprints.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver?variant=52431240790343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_eu_pc_f1ultra-deluxebundle_5121-56800.jpg?v=1759086578
+    Price: €5,199.00 EUR
+- [Xtool F2 Ultra 60w Mopa & 40w Diode Laser Engraver](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver): The xTool F2 Ultra from Eolas Prints combines a 60W MOPA and 40W Diode dual laser. This engraver provides exceptional precision for creative arts and crafting.
+  Updated: 2025-09-28T21:52:24Z
+  Vendor: xTOOL
+  Product Type: Laser Engravers and Cutters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-standalone_5413-15482.jpg?v=1759094032
+  - [Dual Laser / Standard Bundle](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?variant=52431585018183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-standalone_5413-15482.jpg?v=1759094032
+    Price: €7,299.00 EUR
+  - [Dual Laser / Slide Conveyor Bundle](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?variant=52431597011271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-conveyor_5413-15485.jpg?v=1759094990
+    Price: €7,799.00 EUR
+  - [Dual Laser / Deluxe Bundle](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?variant=52431597044039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-deluxebundle_5413-15520.jpg?v=1759094990
+    Price: €9,099.00 EUR
+  - [Single Laser / Standard Bundle](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?variant=52431591866695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-standalone_5413-15482.jpg?v=1759094032
+    Price: €5,599.00 EUR
+  - [Single Laser / Slide Conveyor Bundle](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?variant=52431597076807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-conveyor_5413-15485.jpg?v=1759094990
+    Price: €6,149.00 EUR
+  - [Single Laser / Deluxe Bundle](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?variant=52431597109575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/mk-baidituyingyong_us_pc_f2ultra-deluxebundle_5413-15520.jpg?v=1759094990
+    Price: €7,399.00 EUR
 
 ## Collections
 
@@ -1569,8 +1635,8 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-09-27T11:11:44Z
   Total Products: 8
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): Eolas Prints offers a range of craft machines for creative projects. Our collection includes Cricut and xTOOL devices for cutting, engraving, and laser work.
-  Updated: 2025-08-05T13:05:14Z
-  Total Products: 4
+  Updated: 2025-09-28T21:52:20Z
+  Total Products: 7
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers professional 3D printers with ISO 2015 certified quality and environmental management standards for reliable 3D printing solutions.
   Updated: 2025-09-12T10:02:33Z
   Total Products: 16
