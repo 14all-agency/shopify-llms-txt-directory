@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-28T12:00:47.651Z
+- Updated At: 2025-09-28T20:00:46.626Z
 
 ## Products
 
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-28T11:20:36Z
+  Updated: 2025-09-28T16:21:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15205,7 +15205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Distressed-Denim-Overalls-with-Pockets-Brinxx-Couture-1240.jpg?v=1709876719
     Price: $68.00 USD
 - [Printed Tie Waist Mock Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/printed-tie-waist-mock-neck-lantern-sleeve-dress): Make a statement with this Printed Tie Waist Mock Neck Lantern Sleeve Dress. The bold print and elegant lantern sleeves will make you stand out in any crowd.
-  Updated: 2025-09-02T07:12:55Z
+  Updated: 2025-09-28T18:16:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-28T11:40:36Z
+  Updated: 2025-09-28T15:12:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25927,7 +25927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-09-28T00:06:40Z
+  Updated: 2025-09-28T19:39:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
