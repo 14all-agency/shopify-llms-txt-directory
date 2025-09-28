@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-09-28T00:00:35.055Z
+- Updated At: 2025-09-28T08:00:34.705Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -260,7 +260,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £192.00 GBP
 - [Neroli Natural, Essential Oil](https://inky-ingredients.com/products/neroli-natural-essential-oil): Neroli Essential Oil, derived from orange blossoms, exudes a sweet and floral fragrance. With calming properties, it promotes relaxation and emotional balance. It's a luxurious addition to skincare and aromatherapy.
-  Updated: 2025-09-26T08:17:18Z
+  Updated: 2025-09-28T06:36:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2279,7 +2279,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £201.00 GBP
 - [Spearmint, Essential Oil Organic](https://inky-ingredients.com/products/spearmint-essential-oil-organic): Organic Spearmint essential oil, sourced from Mentha spicata, provides a pure and natural option. With its crisp and sweet fragrance, it is commonly used in aromatherapy for its calming and uplifting effects on the mind and body.
-  Updated: 2025-09-26T09:14:57Z
+  Updated: 2025-09-28T06:36:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2540,7 +2540,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £31.05 GBP
 - [Sandalwood Australian, Essential Oil](https://inky-ingredients.com/products/sandalwood-australian-essential-oil): Sandalwood Australian Essential Oil emanates a distinctive woody scent. Known for its calming properties, it serves as a versatile ingredient in aromatherapy. This oil also contributes to skincare, providing a soothing and grounding experience.
-  Updated: 2025-09-26T12:18:37Z
+  Updated: 2025-09-28T06:36:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2948,7 +2948,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £56.00 GBP
 - [Peppermint Mentha Piperita, Essential Oil Organic](https://inky-ingredients.com/products/peppermint-mentha-piperita-essential-oil-organic): Organic Mentha Piperita Essential Oil provides a pure and natural option for enjoying the invigorating and refreshing scent of peppermint with potential therapeutic benefits.
-  Updated: 2025-09-26T09:45:50Z
+  Updated: 2025-09-28T06:36:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2972,7 +2972,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £402.00 GBP
 - [Marjoram Sweet, Essential Oil](https://inky-ingredients.com/products/marjoram-sweet-essential-oil): Sweet Marjoram Essential Oil exudes a warm and herbaceous aroma. It's cherished for its calming and relaxing properties, making it a popular choice for aromatherapy and promoting a sense of tranquility.
-  Updated: 2025-09-26T08:25:32Z
+  Updated: 2025-09-28T06:36:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4772,7 +4772,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £470.40 GBP
 - [Gotu Kola (Centella) Leaf, Extract](https://inky-ingredients.com/products/gotu-kola-centella-leaf-extract): Gotu Kola Leaf Extract is a botanical treasure for skincare. Renowned for its anti-aging and healing properties, it supports collagen production and helps reduce inflammation. A valuable addition to formulations aiming for skin rejuvenation and overall wellness.
-  Updated: 2025-09-26T11:40:57Z
+  Updated: 2025-09-28T07:53:20Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5578,7 +5578,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £52.00 GBP
 - [Frankincense (Boswellia Carterii), Essential Oil Organic](https://inky-ingredients.com/products/frankincense-boswellia-carterii-essential-oil-organic): Organic Frankincense Essential Oil, sourced from Boswellia Carterii, combines its earthy aroma with the purity of organic farming. Used in aromatherapy, it promotes tranquility, mental clarity, and overall wellness.
-  Updated: 2025-09-26T15:12:52Z
+  Updated: 2025-09-28T06:36:01Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7080,7 +7080,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £696.00 GBP
 - [Orange Bitter, Essential Oil](https://inky-ingredients.com/products/orange-bitter-essential-oil): Derived from bitter oranges, this essential oil offers a distinctive, intense citrus fragrance. It's employed in perfumery and blends, imparting a unique and bold aroma to various products.
-  Updated: 2025-09-26T08:48:28Z
+  Updated: 2025-09-28T06:36:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
