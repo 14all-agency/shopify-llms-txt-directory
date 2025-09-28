@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-28T00:00:38.958Z
+- Updated At: 2025-09-28T08:00:39.473Z
 
 ## Products
 
@@ -5287,7 +5287,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/laundry-liquid-blue-5l-refill-bottle-laundry-care-essential-supplies-886961.jpg?v=1719445320
   Price: $45.00 NZD
 - [Fragranced Fabric Softner - Pink, 5L Refill Bottle](https://essentialsupplies.co.nz/products/fragranced-fabric-softner-pink-5l-refill-bottle-2)
-  Updated: 2025-01-09T15:38:31Z
+  Updated: 2025-09-28T00:06:00Z
   Vendor: Mattews Packaging
   Product Type: Laundry Care
   Availability: Available
@@ -6827,7 +6827,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/floor-marking-tape-applicator-black-76mm-core-1-applicator-floor-marking-tape-essential-supplies-959867.jpg?v=1719445073
   Price: $230.00 NZD
 - [Kraft Paper Packaging Tape - Tan, 72mm x 50m x 125mu - 24 Rolls](https://essentialsupplies.co.nz/products/kraft-paper-packaging-tape-tan-72mm-x-50m-x-125mu-24): Kraft paper tape with a high quality adhesive designed for all timber, cardboard and paper applications. Kraft tape is strong, flexible and fully recyclable. Ideal for picture framing, sealing parcels and bookbinding.
-  Updated: 2025-09-27T02:46:31Z
+  Updated: 2025-09-28T05:15:01Z
   Vendor: Mattews Packaging
   Product Type: Paper Packaging Tape
   Availability: Available
@@ -7322,7 +7322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/newsprint-paper-roll-white-600mm-x-400m-45gsm-1-roll-newsprint-paper-rolls-essential-supplies-534213.jpg?v=1719445336
   Price: $86.00 NZD
 - [Newsprint Paper Roll - White, 800mm x 400m, 45gsm - 1 Roll](https://essentialsupplies.co.nz/products/newsprint-paper-roll-white-800mm-x-400m-45gsm-1): Newsprint paper rolls are 100% recyclable and are a cost effective product suitable for a wide range of uses around the home, office or warehouse. Can be used as a filler for boxes, for wrapping packages or for covering surfaces. Available in a 45gsm thickness with a range of widths for all packaging requirements.
-  Updated: 2025-02-18T16:40:10Z
+  Updated: 2025-09-28T02:36:00Z
   Vendor: Mattews Packaging
   Product Type: Newsprint Paper Rolls
   Availability: Available
