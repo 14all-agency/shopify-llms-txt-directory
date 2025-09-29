@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-29T16:00:45.038Z
+- Updated At: 2025-09-29T20:00:44.570Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -649,7 +649,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Seashore Bracelet | Silver Shell bracelet | Lily Blanche](https://www.lilyblanche.com/products/seashore-bracelet): A stunning silver seashore bracelet made up of clam shells starfish and silver dollars. This silver shell bracelet will leave you with holiday vibes. Free jewellery care kit worth £20
-  Updated: 2025-07-25T11:53:36Z
+  Updated: 2025-09-29T18:41:31Z
   Vendor: Lily Blanche
   Product Type: 
   Availability: Available
@@ -3456,7 +3456,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £120.00 GBP
 - [Four Picture Heart Locket | Silver Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-silver): Searching for the perfect personalised gift? This four photo heart-shaped photo locket in sterling silver is the perfect wearable family album. The charm locket is hallmarked in Edinburgh. Free Locket Photos & Luxury Jewellery Care Kit worth £20 included. Express Shipping Available. Order this locket online today.
-  Updated: 2025-09-25T10:50:45Z
+  Updated: 2025-09-29T19:47:37Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3880,7 +3880,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £305.00 GBP
 - [Four-Photo Heart Charm Locket Gold | Lily Blanche | Treasure Memories](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-gold): This Four-Photo Heart Charm Locket in Gold is a wonderful & unique way to treasure your precious memories. This stunning locket can hold up to four photos, making it the perfect love token or special gift. Order your Four-Photo Heart Charm Locket in gold online today and receive free photos, & jewellery care kit!
-  Updated: 2025-09-15T17:12:41Z
+  Updated: 2025-09-29T16:44:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9596,7 +9596,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain in White Gold Vermeil](https://www.lilyblanche.com/products/curb-chain-white-gold): Quality and strength assured, this classic, medium-weight white gold vermeil curb chain is the perfect chain for any occasion. Wear this bestselling chain on its own or with one of our white gold vermeil pendants or lockets. Free jewellery care kit included with all orders.
-  Updated: 2025-09-23T16:15:41Z
+  Updated: 2025-09-29T17:12:36Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16203,7 +16203,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £155.00 GBP
 - [Heart Shaped Gold Photo Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-gold): In need of a romantic gift? This pretty filigree style gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This high quality gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Jewellery Care Kit. Express delivery available when you shop online today.
-  Updated: 2025-09-25T20:42:20Z
+  Updated: 2025-09-29T19:36:01Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16808,7 +16808,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-09-28T19:15:45Z
+  Updated: 2025-09-29T18:37:01Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -21748,7 +21748,7 @@ From £119
     Price: £850.00 GBP
 - [Ruby Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/ruby-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Ruby Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced rubies. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 £425
-  Updated: 2025-09-29T15:39:42Z
+  Updated: 2025-09-29T17:10:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21785,7 +21785,7 @@ From £119
     Price: £755.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 From £425
-  Updated: 2025-09-29T15:29:37Z
+  Updated: 2025-09-29T17:24:30Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21822,7 +21822,7 @@ From £425
     Price: £755.00 GBP
 - [Amethyst Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold): Satisfaction 100% guaranteed with this stunning Amethyst Cross necklace in Solid Gold. An heirloom piece this real amethyst and  9-carat gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
 From £190.
-  Updated: 2025-09-29T15:27:38Z
+  Updated: 2025-09-29T17:05:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21858,7 +21858,7 @@ From £190.
     Availability: Available
     Price: £520.00 GBP
 - [Peridot Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/peridot-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20.
-  Updated: 2025-09-29T14:32:15Z
+  Updated: 2025-09-29T16:50:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21894,7 +21894,7 @@ From £190.
     Availability: Available
     Price: £525.00 GBP
 - [Blue Topaz Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/blue-topaz-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-29T14:30:17Z
+  Updated: 2025-09-29T16:55:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21930,7 +21930,7 @@ From £190.
     Availability: Available
     Price: £520.00 GBP
 - [Tsavorite Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/tsavorite-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-29T15:41:06Z
+  Updated: 2025-09-29T17:15:38Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21966,7 +21966,7 @@ From £190.
     Availability: Available
     Price: £755.00 GBP
 - [Tanzanite Cross Necklace in Solid White Gold](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold): Satisfaction 100% guaranteed with this stunning Diamond Cross necklace in Solid White Gold. An heirloom piece this real tanzanite and  9-carat white gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-09-28T19:25:49Z
+  Updated: 2025-09-29T17:04:10Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21974,22 +21974,22 @@ From £190.
   - [No chain](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044787518)
     Availability: Available
     Price: £275.00 GBP
-  - [9carat white gold Prince of Wales rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044820286)
+  - [9carat white gold rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044820286)
     Availability: Available
     Price: £395.00 GBP
-  - [9 carat white gold Prince of Wales rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044853054)
+  - [9 carat white gold rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044853054)
     Availability: Available
     Price: £405.00 GBP
-  - [9 carat white gold Prince of Wales rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044885822)
+  - [9 carat white gold rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044885822)
     Availability: Available
     Price: £415.00 GBP
-  - [9 carat white gold close curb chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044951358)
+  - [9 carat white gold curb chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044951358)
     Availability: Available
     Price: £455.00 GBP
-  - [9 carat white gold close curb chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044984126)
+  - [9 carat white gold curb chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044984126)
     Availability: Available
     Price: £470.00 GBP
-  - [9 carat white gold close chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441045016894)
+  - [9 carat white gold curb chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441045016894)
     Availability: Available
     Price: £485.00 GBP
 - [Sapphire & Diamond Solid Gold Eternity Ring | Fine Jewellery  Band](https://www.lilyblanche.com/products/sapphire-diamond-solid-gold-half-eternity-ring): Shop our sapphire and diamond eternity ring, in solid gold with 7  sapphires & 6 diamonds.  Free shipping, gift wrap & jewellery care kit.
