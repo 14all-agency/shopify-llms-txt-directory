@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-29T08:00:31.469Z
+- Updated At: 2025-09-29T12:00:30.969Z
 
 ## Products
 
@@ -3063,15 +3063,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-3.jpg?v=1751477965
   Price: ₹1,399.00 INR
-- [Buy ​EASYCARE (EC3402) Digital Baby Weighing Scale with Height Meter & Baby Tray - Surgismart](https://surgismart.in/products/easycare-digital-baby-weighing-scale-with-height-meter): Baby Weighing Tray: The contoured design of the baby weighing tray is safe to lay your infants while taking the measurement. Height Meter: This Digital baby weighing scale also has a height meter so that you can measure the height of your infants. Auto-On & Auto-Off: It has an auto power-on and auto shut-off feature to save batteries from draining. Low Battery Indicator: It also features a low battery indicator that helps you know when the battery needs to be replaced. LCD Display & Tare Button: Specially designed with a large LCD display to read the measurement easily. It also has a TARE button that resets the display to Zero. Keep track of your baby’s health & development as they grow constantly. EASYCARE Baby weighing scale is made from durable stainless steel & chemical-free material. It is equipped with four high-precision strain gauge sensors to get consistent & accurate measurements. The maximum weighing capacity of this scale is up to 20 kg. Keeping track of the market development, we are engaged in providing our customers the best Weighing Scale. Get the EASYCARE Digital baby weighing scale to monitor & track your baby’s growth. - Surgismart
-  Updated: 2025-08-13T07:36:55Z
+- [Buy EASYCARE Digital Baby Weighing Scale with Height Meter | Surgismart](https://surgismart.in/products/easycare-digital-baby-weighing-scale): Monitor your baby’s growth with EASYCARE Digital Baby Weighing Scale. Accurate, safe tray, height meter, LCD display & auto-on/off. Shop at Surgismart.
+  Updated: 2025-09-29T08:04:16Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/19.jpg?v=1751477964
-  Price: ₹3,299.00 INR
+  Price: ₹3,634.00 INR
 - [Buy EASYCARE Pulse Oximeter with LED Display & Accurate SpO2 Monitoring | Surgismart](https://surgismart.in/products/easycare-pulse-oximeter-spo2-monitor): EASYCARE Pulse Oximeter with LED display ensures accurate SpO2 & pulse monitoring. Portable, waterproof, durable & doctor-recommended. Shop now at Surgismart.
-  Updated: 2025-09-29T07:59:47Z
+  Updated: 2025-09-29T08:01:05Z
   Vendor: EASYCARE Global
   Product Type: Oximeter
   Availability: Available
@@ -3264,14 +3264,11 @@
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
   Updated: 2025-09-29T07:59:45Z
   Total Products: 150
-- [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
-  Updated: 2025-09-29T07:59:45Z
-  Total Products: 41
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
-  Updated: 2025-09-28T11:47:23Z
+  Updated: 2025-09-29T08:04:17Z
   Total Products: 22
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
-  Updated: 2025-09-29T07:56:57Z
+  Updated: 2025-09-29T08:04:17Z
   Total Products: 9
 - [Buy ​United Medicare - Surgismart](https://surgismart.in/collections/united-medicare): - Surgismart
   Updated: 2025-09-12T11:15:05Z
@@ -3342,9 +3339,6 @@
 - [Buy ​Omron Nebulizer - Surgismart](https://surgismart.in/collections/omron-nebulizer): - Surgismart
   Updated: 2025-08-01T11:05:30Z
   Total Products: 1
-- [Buy ​Omron BP Monitor - Surgismart](https://surgismart.in/collections/omron-bp-monitor): - Surgismart
-  Updated: 2025-08-01T11:05:30Z
-  Total Products: 0
 - [Buy ​Cervical Aids - Surgismart](https://surgismart.in/collections/cervical-aids): - Surgismart
   Updated: 2025-09-04T07:27:20Z
   Total Products: 10
@@ -3402,9 +3396,6 @@
 - [Buy ​Hospital & Home Care Beds - Surgismart](https://surgismart.in/collections/hospital-home-care-beds): - Surgismart
   Updated: 2025-09-18T14:01:32Z
   Total Products: 2
-- [Buy ​Walking Aids - Surgismart](https://surgismart.in/collections/walking-aids): - Surgismart
-  Updated: 2025-08-01T11:05:31Z
-  Total Products: 0
 - [Buy ​Uphealthy - Surgismart](https://surgismart.in/collections/uphealthy): - Surgismart
   Updated: 2025-09-18T14:02:27Z
   Total Products: 120
@@ -3418,16 +3409,16 @@
   Updated: 2025-08-01T11:05:31Z
   Total Products: 0
 - [Buy ​Weighing scale - Surgismart](https://surgismart.in/collections/weighing-scale): - Surgismart
-  Updated: 2025-09-28T11:35:36Z
+  Updated: 2025-09-29T08:04:17Z
   Total Products: 6
 - [Buy ​Digital Weighing scale - Surgismart](https://surgismart.in/collections/digital-weighing-scale): - Surgismart
-  Updated: 2025-09-28T11:35:36Z
+  Updated: 2025-09-29T08:04:17Z
   Total Products: 4
 - [Buy ​Manual Weighing scale - Surgismart](https://surgismart.in/collections/manual-weighing-scale): - Surgismart
   Updated: 2025-08-01T11:05:32Z
   Total Products: 2
 - [Buy ​Baby Weighing scale - Surgismart](https://surgismart.in/collections/baby-weighing-scale): - Surgismart
-  Updated: 2025-08-01T11:05:32Z
+  Updated: 2025-09-29T08:04:17Z
   Total Products: 3
 - [Buy ​Stethoscope - Surgismart](https://surgismart.in/collections/stethoscope): - Surgismart
   Updated: 2025-08-23T11:16:56Z
@@ -3444,18 +3435,6 @@
 - [Holloware](https://surgismart.in/collections/holloware)
   Updated: 2025-08-01T11:05:32Z
   Total Products: 0
-- [Syringes](https://surgismart.in/collections/syringes)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
-- [Absorbent Range](https://surgismart.in/collections/absorbent-range)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
-- [Medical Disposables](https://surgismart.in/collections/medical-disposables)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
-- [Tapes](https://surgismart.in/collections/tapes)
-  Updated: 2025-08-01T11:05:32Z
-  Total Products: 0
 - [Steamer](https://surgismart.in/collections/steamer)
   Updated: 2025-08-01T11:05:32Z
   Total Products: 0
@@ -3466,8 +3445,8 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-09-28T11:39:13Z
-  Total Products: 1
+  Updated: 2025-09-29T11:03:34Z
+  Total Products: 4
 
 ## Store Pages
 
@@ -3475,6 +3454,8 @@
   Updated: 2025-03-10T14:12:04Z
 - [HTML Sitemap](https://surgismart.in/pages/html-sitemap): Products United Medicare Lumbar Corset with Strap (A-01) United Medicare Contoured Back Support (A-02) United Medicare UTech Lumbar Corset Chair Ba...
   Updated: 2025-06-26T14:44:31Z
+- [Wishlist](https://surgismart.in/pages/wishlist)
+  Updated: 2025-09-29T11:43:25Z
 
 ## Policies
 
