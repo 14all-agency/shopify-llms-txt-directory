@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-29T00:00:40.448Z
+- Updated At: 2025-09-29T04:00:39.166Z
 
 ## Products
 
@@ -15906,7 +15906,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PBGV_15TUBE_COMBO-copy.jpg?v=1657042107
   Price: $19.95 USD
 - [Petit Basset Griffon Vendéen Combo For Your PBGV's Skin Care Needs](https://theblissfuldog.com/products/petit-vendome-basset-grisson-custom-combo): Petit Basset Griffon Vendéen Combo For Your Dog - Build your own custom combo for puppy skin care needs. In storage metal tin with PBGV on cover.
-  Updated: 2025-09-28T09:08:33Z
+  Updated: 2025-09-29T00:31:27Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
