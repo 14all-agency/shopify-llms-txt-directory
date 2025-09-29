@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-29T12:00:33.858Z
+- Updated At: 2025-09-29T20:00:34.016Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-09-25T14:08:06Z
+  Updated: 2025-09-29T15:30:30Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/natural1.jpg?v=1757517314
     Price: $1.00 USD
 - [Brocade Huntsville Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/unique-quality-fabrics-72-embossed-huntsville-velvet): Elevate your projects with Embossed Huntsville Velvet from Fabrics Star. With its unique texture and quality, this fabric adds a touch of sophistication to upholstery, drapery, and more.
-  Updated: 2025-09-16T00:42:45Z
+  Updated: 2025-09-29T17:44:56Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-09-26T18:37:30Z
+  Updated: 2025-09-29T17:03:01Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -1799,13 +1799,13 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-WHITE-1.jpg?v=1757517390
     Price: $1.00 USD
 - [Selectra Waves Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard): The Selectra Waves Stretch Velvet Sequin Fabric by the Yard is made of 100% polyester. It has a soft stretch velvet base that is heavily embellished with sequins.
-  Updated: 2025-09-16T00:42:46Z
+  Updated: 2025-09-29T19:19:15Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-SELECTRA-WAVE-1.jpg?v=1757517391
   - [Black/Gold / Cut by the Yard](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard?variant=47556485251353)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-BLACK-GOLD.jpg?v=1757517394
     Price: $24.20 USD
   - [Black/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard?variant=47556484890905)
