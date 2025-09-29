@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-09-29T04:00:32.440Z
+- Updated At: 2025-09-29T08:00:32.717Z
 
 ## Products
 
@@ -7093,7 +7093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/chic-italian-crystal-diamond-shoes-bag-set-partywedding-997492.webp?v=1743229702
     Price: $118.64 USD
 - [Women's Italian High Heel Sandals & Bag Set - African Style](https://milvertons.com/products/womens-italian-high-heel-sandals-bag-set-african-style): Women's Italian High Heel Sandals & Bag Set - African Style. Complete your look with this chic set and step out in style wherever you go. Shop now at Milvertons
-  Updated: 2025-09-26T20:28:47Z
+  Updated: 2025-09-29T07:14:23Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -11142,6 +11142,8 @@
   Updated: 2024-10-25T03:21:04Z
 - [Your privacy choices](https://milvertons.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:38:02Z
+- [Matching Shoe & Bag Sets - Curated Luxury](https://milvertons.com/pages/shoe-bag-sets): Matching Shoe & Bag Sets - Curated Luxury. Effortless luxury. Discover our curated collection of matching shoe and bag sets. Elevate any outfit wit...
+  Updated: 2025-09-29T05:47:16Z
 
 ## Policies
 
