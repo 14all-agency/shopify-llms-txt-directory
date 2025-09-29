@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-09-28T20:00:30.311Z
+- Updated At: 2025-09-29T00:00:28.818Z
 
 ## Products
 
 - [Plus Size Blue Floral Cotton Straight Cut Suit - The Plus Size Co.](https://theplussizeco.com/products/blue-floral-cotton-straight-cut-suit)
-  Updated: 2025-09-20T22:13:10Z
+  Updated: 2025-09-28T22:12:10Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -20,7 +20,7 @@
     Availability: Available
     Price: ₹994.00 INR
   - [7XL / 7XL](https://theplussizeco.com/products/blue-floral-cotton-straight-cut-suit?variant=44700019458101)
-    Availability: Available
+    Availability: Not Available
     Price: ₹994.00 INR
 - [Plus Size Blue Printed Cotton Straight Cut Suit Set- The Plus Size Co.](https://theplussizeco.com/products/blue-printed-cotton-straight-cut-suit-set)
   Updated: 2025-09-03T23:09:51Z
@@ -768,7 +768,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeSkyBlueSuitSet_1.png?v=1758623915
   Price: ₹1,295.00 INR
 - [Pink Bandhani Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-bandhani-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-09-28T18:13:42Z
+  Updated: 2025-09-28T22:25:26Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
