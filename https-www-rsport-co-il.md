@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-29T12:01:04.929Z
+- Updated At: 2025-09-29T16:01:02.036Z
 
 ## Products
 
@@ -37283,7 +37283,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro מתאימות לשחקנים ברמה מקצועית המחפשים שליטה ונוחות משופרת. טכנולוגיית Gripknit עם טקסטורה מיקרו-אחיזה משפרת את השליטה בכדור בכל תנאי מזג האוויר. סוליית Cyclone 360 מספקת אחיזה סיבובית משופרת לשינויי כיוון מהירים וזריזים. מבנה הנעל החדשני מעניק התאמה טבעית ונוחה יותר לכף הרגל, במיוחד באזור האצבעות. הנעל כוללת קרסול גבוה בעיצוב א-סימטרי לתמיכה נוחה ולהפחתת חיכוך. אזור בעיטה חלק ונקי ללא שרוכים לדיוק מירבי. מחזק העקב משפר את היציבות במהלך המשחק. סוליית SG-Pro מצוידת בפקקים מתכתיים מתכווננים לשימוש במגרשים רכים.
-  Updated: 2025-09-07T22:03:08Z
+  Updated: 2025-09-29T14:15:19Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37294,13 +37294,13 @@
   - [½36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541741306)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541774074)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541774074)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481022202)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541806842)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541806842)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481087738)
@@ -37346,7 +37346,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro נעלי כדורגל איכותיות לשחקנים התקפיים שמחפשים דיוק ושליטה מושלמים בדריבל ובעיטות. חלק עליון בטכנולוגיית Gripknit מיקרוטקסטורה לשיפור התחושה והדיוק בכדור. סוליית Cyclone 360 מאפשרת תנועות זריזות, שינויי כיוון יציבים ונוחות מרבית. עיצוב נוח עם התאמה טבעית באזור האצבעות, צווארון Flyknit אסימטרי למניעת גירויים ומערכת ייצוב עקב עם סנפירים. דגם Player Edition כולל סוליית SG-Pro עם מסמרים מתכתיים עמידים ומתכווננים (מפתחות נמכרים בנפרד). מיועדות למגרשי דשא טבעי רך.
-  Updated: 2025-09-27T02:35:56Z
+  Updated: 2025-09-29T14:15:20Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37357,13 +37357,13 @@
   - [½36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661311738)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661344506)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661344506)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661377274)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661410042)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661410042)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661442810)
@@ -37397,7 +37397,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite High FG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים תוקפניים המחפשים דיוק ושליטה מוחלטת. טכנולוגיית Gripknit עם טקסטורה מיוחדת על החלק העליון משפרת את השליטה בכדור לדריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי אצבעות סיבוביים מאפשרת שינויי כיוון מהירים וזורמים, ומפחיתה עומס על כף הרגל לנוחות ויציבות משופרות. העיצוב החדש מותאם למגוון צורות רגליים, במיוחד באזור האצבעות, לשיפור הנוחות והביצועים.
-  Updated: 2025-09-07T22:03:07Z
+  Updated: 2025-09-29T14:15:20Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37408,13 +37408,13 @@
   - [½36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480689950970)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480689983738)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480689983738)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690016506)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690049274)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690049274)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690082042)
@@ -37460,7 +37460,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg): נעלי כדורגל מקצועיות Phantom 6 Elite נמוכה FG בצבע כחול, לבן וכחול כהה. מיועדות לשחקנים התקפיים המחפשים דיוק ושליטה. טכנולוגיית Gripknit משפרת דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב לשינויי כיוון מהירים ונוחות גבוהה. עיצוב חדש מותאם לאזור האצבעות לנוחות והתאמה טובה יותר.
-  Updated: 2025-09-07T22:03:06Z
+  Updated: 2025-09-29T14:15:21Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37471,13 +37471,13 @@
   - [½36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717345018)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717377786)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717377786)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717410554)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717443322)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717443322)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717476090)
@@ -37523,7 +37523,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-09-11T12:03:57Z
+  Updated: 2025-09-29T14:15:21Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37531,13 +37531,13 @@
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480730943738)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731009274)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731009274)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731042042)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731074810)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731074810)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731107578)
@@ -37583,7 +37583,7 @@
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy Low FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg): נעלי כדורגל Phantom 6 Academy נמוכות FG/MG בצבע כחול, לבן וכחול כהה, לעיצוב תוקפני ולשליטה מדויקת בכדור. החלק העליון עשוי מבד איכותי שמשפר דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקים סיבוביים מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מתאים במיוחד לאזור האצבעות ומספק נוחות לאורך המשחק. הנעלות מתאימות למגרשי דשא טבעי ומלאכותי.
-  Updated: 2025-09-07T22:03:05Z
+  Updated: 2025-09-29T14:15:22Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37591,13 +37591,13 @@
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788091130)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788123898)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788123898)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788156666)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788189434)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788189434)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788222202)
@@ -37643,7 +37643,7 @@
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG מיועדות לשחקנים תוקפניים המחפשים שליטה מדויקת ונוחות גבוהה. החלק העליון בטכנולוגיית Gripknit מיקרו-טקסטורה משפר את השליטה והדיוק בדריבל ובעיטות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מותאם במיוחד לאזור האצבעות, עם קרסול גבוה לתמיכה ונוחות. מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות למגרשי דשא קשה.
-  Updated: 2025-09-07T22:03:04Z
+  Updated: 2025-09-29T14:15:22Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37654,13 +37654,13 @@
   - [½36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801624314)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801657082)
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801657082)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801689850)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801722618)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801722618)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801755386)
@@ -37733,7 +37733,7 @@
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High AG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro): נעלי כדורגל Phantom 6 Elite LE High AG-Pro עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות מקסימלית. עיצוב קרסול גבוה לתמיכה ונוחות, עם מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות במיוחד למגרשי דשא מלאכותי.
-  Updated: 2025-09-07T22:03:03Z
+  Updated: 2025-09-29T14:15:23Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37741,7 +37741,7 @@
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837374202)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837505274)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837505274)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837570810)
@@ -37772,7 +37772,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE Low AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag): נעלי כדורגל מקצועיות Phantom 6 Elite LE Low AG עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ותנועה חלקה. עיצוב קרסול נמוך לנוחות ותמיכה, עם מתיחת נעל מותאמת במיוחד לאזור האצבעות. מתאימות למגרשי דשא מלאכותי.
-  Updated: 2025-09-07T22:03:02Z
+  Updated: 2025-09-29T14:15:23Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37780,7 +37780,7 @@
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854282490)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854315258)
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854315258)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854348026)
@@ -43098,7 +43098,7 @@
     Availability: Available
     Price: ‏899.00 ‏₪ ILS
 - [נעלי כדורגל ילדים F50 Elite FG](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg): נעלי כדורגל לילדים F50 Elite FG Purple Rush/Ftwr White/Lucid Lemon מיועדות לילדים שמחפשים מהירות ושליטה בכדור הנעל קלה עם גפה Fibertouch שנותנת תמיכה ונוחות רק במקום שצריך וטקסטורת Sprintweb 3D משפרת את אחיזת הכדור לסיבובים וכדרורים מדויקים סוליית Sprintplate 360 כוללת פקקים עגולים במרכז כף הרגל לחיתוכים מהירים וה- external heel counter מייצב את הרגל גרסת השרוכים כוללת לשון Compression Fit Tunnel שמקיפה את כף הרגל לריתוק טוב יותר עם ריפוד ארגונומי בקרסול כוללת שני מדרסים לבחירה – SL למהירות מירבית או Comfort לספיגת זעזועים
-  Updated: 2025-09-26T05:42:37Z
+  Updated: 2025-09-29T14:15:02Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -43130,7 +43130,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625171194)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625203962)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625203962)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625236730)
@@ -43139,7 +43139,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625269498)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625302266)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625302266)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-fg?variant=47639625335034)
@@ -43158,7 +43158,7 @@
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
 - [נעלי כדורגל ילדים F50 League Mid FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg): נעלי כדורגל לילדים F50 League Mid FG/MG Purple Rush/Ftwr White/Lucid Lemon מיועדות לילדים שמחפשים מהירות ושליטה בכדור הנעל קלה עם גפה Fiberskin שנותנת תמיכה ונוחות רק במקום שצריך וטקסטורת Sprintgrid 2D משפרת אחיזה וביצועי כדרור סוליית Sprintplate 360 כוללת פקקים עגולים במרכז כף הרגל לחיתוכים מהירים וה- external heel counter מייצב את הרגל על מגוון משטחים
-  Updated: 2025-09-26T05:42:37Z
+  Updated: 2025-09-29T14:15:03Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -43190,7 +43190,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639668916474)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639668949242)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639668949242)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639668982010)
@@ -43199,7 +43199,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639669014778)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639669047546)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639669047546)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-mid-fg-mg?variant=47639669080314)
@@ -43218,7 +43218,7 @@
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
 - [נעלי כדורגל ילדים F50 League Laceless](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless): נעלי כדורגל לילדים F50 League Laceless FG/MG Purple Rush/Ftwr White/Lucid Lemon מיועדות לילדים שמחפשים מהירות ושליטה בכדור הנעל קלה עם גפה Fiberskin שנותנת תמיכה ונוחות רק במקום שצריך וטקסטורת Sprintgrid 2D משפרת אחיזה וביצועי כדרור סוליית Sprintplate 360 כוללת פקקים עגולים במרכז כף הרגל לחיתוכים מהירים וה- external heel counter מייצב את הרגל גרסת Laceless כוללת צווארון סרוג משולב וריפוד ארגונומי בקרסול לנוחות נוספת וגרסת ילדים כוללת רצועת משיכה להכניסה קלה
-  Updated: 2025-09-26T05:42:37Z
+  Updated: 2025-09-29T14:15:03Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -43250,7 +43250,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639678943482)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639678976250)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639678976250)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639679009018)
@@ -43259,7 +43259,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639679041786)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639679074554)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639679074554)
     Availability: Available
     Price: ‏500.00 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-laceless?variant=47639679107322)
@@ -43368,7 +43368,7 @@
     Availability: Available
     Price: ‏899.00 ‏₪ ILS
 - [נעלי כדורגל פקקים ילדים Predator League FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg): נעלי כדורגל ילדים Predator League FG/MG נעלי Predator בעיצוב מיוחד בהשראת דיוויד בקהאם, לשחקנים צעירים שרוצים דיוק ושליטה. חלק עליון מסינטטי חדשני HybridTouch 2.0 עם תוספות Strikeskin ולשונית מתקפלת ליציבות ונוחות. סביב הקרסול Primeknit לתמיכה וגמישות. מבנה חיצוני עם סוליית Controlframe 2.0 מספקת אחיזה יציבה ותגובה מהירה על דשא טבעי ו/או דשא סינטטי מהדור השני.
-  Updated: 2025-09-26T05:42:37Z
+  Updated: 2025-09-29T14:15:04Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -43400,7 +43400,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771807994)
     Availability: Available
     Price: ‏690.00 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771840762)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771840762)
     Availability: Available
     Price: ‏690.00 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771873530)
@@ -43409,7 +43409,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771906298)
     Availability: Available
     Price: ‏690.00 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771939066)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771939066)
     Availability: Available
     Price: ‏690.00 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-פקקים-ילדים-predator-league-fg-mg?variant=47639771971834)
@@ -45075,7 +45075,7 @@
     Availability: Available
     Price: ‏900.00 ‏₪ ILS
 - [נעלי כדורגל ילדים ללא שרוכים FG/MG Lamine Yamal](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal): תנו לילדים שלכם לחוות את המהירות והכיף של כדורגל מקצועי עם נעלי F50 League LL FG/MG – נעליים ללא שרוכים שמתאימות למגרשי דשא טבעי ולדשא מלאכותי דור שני. בהשראת דגמי F50 האיקוניים של הגדולים מהעבר, עיצוב זה חוגג את המשחק המהיר, הנועז והבלתי צפוי של הכוכב הצעיר למין ימל, ומזמין את הדור הבא לחלום בגדול חלק העליון קל במיוחד משלב Fiberskin עם טקסטורת Sprintgrid בקדמת כף הרגל, להענקת זריזות ושליטה מושלמת בכדור במצבי התקפה. הנעל מגיעה עם סוליה קלאסית, סגירה עם שרוכים, ריפוד טקסטילי ולשונית אלסטית להתאמה מדויקת, כדי להבטיח נוחות, יציבות ותנועה חופשית כמו ברק על הדשא סוליית Sprintplate 360 מאפשרת שימוש במגרשי דשא טבעי יבשים וגם במשטחים מרובי סוגים, כך שהנעל מתאימה למשחקים בבית ובחוץ מומלצת לשחקנים מתחילים שמחפשים נעליים עמידות ואיכותיות, המאפשרות לשפר את המשחק במגוון תנאים בלי להתפשר על ביצועים
-  Updated: 2025-09-26T05:50:03Z
+  Updated: 2025-09-29T14:15:05Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45107,7 +45107,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286614266)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286647034)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286647034)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286679802)
@@ -45116,7 +45116,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286712570)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286745338)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286745338)
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-ללא-שרוכים-fg-mg-lamine-yamal?variant=47715286778106)
@@ -45386,7 +45386,7 @@
     Availability: Available
     Price: ‏1,399.90 ‏₪ ILS
 - [נעלי כדורגל ילדים F50 Elite x Messi FG](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg): תנו לילדים שלכם לרוץ אחרי התהילה כמו ליאו עם נעלי F50 Elite x Messi FG – שילוב מושלם של מהירות, נוחות וסגנון אישי של מסי. בהשראת העיצוב החתום של הכוכב, הנעל כוללת את הלשונית “בוריטו” האהובה עליו ואת שלושת הפסים המותאמים לעיצוב ייחודי ולתמיכה נוספת הנעל האייקונית חזרה במהדורה קלה ומהירה מתמיד עם טכנולוגיות חדשניות להאצות פתאומיות ולריצות בקו ישר. סוליית Sprintframe 360 כוללת פקקים מעוגלים במרכז כף הרגל לתנועות חדות ומהירות שמבלבלות יריבים, ותומך העקב החיצוני שומר על איזון ושליטה בכל פריצה חלק העליון עשוי HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל, לצד לשונית Knit “בוריטו” שמאפשרת התאמה נוחה ומעט רחבה יותר לרגל כמו בדגמי F50 הקלאסיים, הנעל מגיעה עם שני סוגי מדרסים בקופסה – SL למהירות מקסימלית או Comfort לריכוך נוסף בעת נחיתה
-  Updated: 2025-09-26T05:51:07Z
+  Updated: 2025-09-29T14:15:05Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45418,7 +45418,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108296442)
     Availability: Available
     Price: ‏999.00 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108329210)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108329210)
     Availability: Available
     Price: ‏999.00 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108361978)
@@ -45427,7 +45427,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108394746)
     Availability: Available
     Price: ‏999.00 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108427514)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108427514)
     Availability: Available
     Price: ‏999.00 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-elite-x-messi-fg?variant=47732108460282)
@@ -45500,7 +45500,7 @@
     Availability: Available
     Price: ‏899.00 ‏₪ ILS
 - [נעלי כדורגל ילדים F50 League x Messi](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi): נעלי F50 League x Messi FG/MG לילדים שילוב מושלם של מהירות, נוחות וסגנון בהשראת ליאו מסי. סידור שרוכים קלאסי, לשונית “צפה” ושלושת הפסים לתמיכה נוספת מהדורה קלה ומהירה עם סוליית Sprintplate 360 לפקקים מעוגלים שמאפשרים תנועות חדות ומהירות ושמירה על איזון ושליטה. חלק עליון HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל לנוחות מירבית בזמן המשחק.
-  Updated: 2025-09-26T05:52:09Z
+  Updated: 2025-09-29T14:15:06Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45532,7 +45532,7 @@
   - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324827386)
     Availability: Available
     Price: ‏499.90 ‏₪ ILS
-  - [½33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324860154)
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324860154)
     Availability: Available
     Price: ‏499.90 ‏₪ ILS
   - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324892922)
@@ -45541,7 +45541,7 @@
   - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324925690)
     Availability: Available
     Price: ‏499.90 ‏₪ ILS
-  - [½35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324958458)
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324958458)
     Availability: Available
     Price: ‏499.90 ‏₪ ILS
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi?variant=47732324991226)
@@ -45808,6 +45808,147 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים?variant=47774213472506)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
+  Updated: 2025-09-29T15:17:21Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_378d6bdc-2c90-4dfe-a855-5bdf38184a16.jpg?v=1759152254
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200008442)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200041210)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200073978)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200106746)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200139514)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200172282)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200205050)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200237818)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200270586)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200303354)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200336122)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Phantom 6 Elite High FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc): ‏נעליים במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' לשיפור דיוק ושליטה בכדור Gripknit בצבעי RGB וסווש פיקסלואידי מעניקים טאץ' דיגיטלי מודרני וסוליית Cyclone 360 מאפשרת תנועה זריזה ושינוי כיוון חלק עם יציבות ונוחות מרבית להתאמה למגוון סוגי רגליים ולחוויית משחק התקפית ונוחה
+  Updated: 2025-09-29T14:15:19Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_37cc5a5a-f01d-49cd-9464-0ceb0d14f0f6.jpg?v=1759154705
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360669946)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360702714)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360735482)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360768250)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360801018)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360833786)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360866554)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360899322)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360932090)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360964858)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360997626)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361030394)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361063162)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361095930)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361128698)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361161466)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361194234)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361227002)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361259770)
+    Availability: Not Available
+    Price: ‏1,699.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות ילדים Phantom 6 Low FG/MG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
+  Updated: 2025-09-29T14:21:38Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_16c176a8-8875-43b5-bff4-ff0c53b4da3b.jpg?v=1759155351
+  - [32](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386622202)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [33](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386654970)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386687738)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [34](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386720506)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [35](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386753274)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386786042)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374694650)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779386818810)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374760186)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374792954)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374825722)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
 
 ## Collections
 
@@ -46187,11 +46328,11 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 12
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-09-19T10:56:54Z
-  Total Products: 46
+  Updated: 2025-09-29T14:21:35Z
+  Total Products: 49
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-09-19T10:56:54Z
-  Total Products: 41
+  Updated: 2025-09-29T14:21:35Z
+  Total Products: 44
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-09-29T11:17:23Z
   Total Products: 816
@@ -46286,8 +46427,8 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-29T11:17:23Z
-  Total Products: 2046
+  Updated: 2025-09-29T14:21:35Z
+  Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
   Total Products: 9
