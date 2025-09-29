@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-29T16:00:31.870Z
+- Updated At: 2025-09-29T20:00:31.559Z
 
 ## Products
 
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Einhorn_-_PAT_PATTY-4830105.jpg?v=1751449051
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Alpaka – naturweiß oder braun | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-alpaka): Superweiches Bio Kuschelkissen Alpaka mit Spelzfüllung – in Naturweiß oder Hellbraun. Handgemacht & schadstofffrei. Jetzt bei PAT&PATTY entdecken!
-  Updated: 2025-08-22T11:54:27Z
+  Updated: 2025-09-29T18:54:37Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -171,7 +171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-hund-hellbraun-handgemacht-weich-fuer-babys-pat-und-patty.jpg?v=1751452957
     Price: 57,90 € EUR
 - [Bio Kuschelkissen „Großer Esel“ –  handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-esel): Bio Kuschelkissen Esel grau mit natürlicher Spelzfüllung – weich, atmungsaktiv & nachhaltig. Jetzt bei PAT&PATTY entdecken und Wohlfühlmomente schenken!
-  Updated: 2025-09-19T05:04:43Z
+  Updated: 2025-09-29T18:54:36Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -263,13 +263,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Elefant_aus_Baumwolle-_PAT_PATTY-blau.jpg?v=1751454183
     Price: 37,90 € EUR
 - [Bio Kuschelkissen Mond mit Spelzfüllung – super weich | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-mond): Bio Kuschelkissen Mond – nachhaltig gefüllt mit Spelz, super weich & atmungsaktiv. Jetzt bei PAT&PATTY entdecken und Deinem Kind Geborgenheit schenken!
-  Updated: 2025-09-01T20:10:21Z
+  Updated: 2025-09-29T19:49:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Mond_-_PAT_PATTY-gelb.jpg?v=1751450591
   - [naturweiß / Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-mond?variant=45299752075532)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Mond_-_PAT_PATTY-naturweiss.jpg?v=1751450609
     Price: 39,90 € EUR
   - [naturweiß / Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-mond?variant=45299752108300)
@@ -357,7 +357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Rabe_-_PAT_PATTY-made-in-germany.jpg?v=1751452156
     Price: 40,50 € EUR
 - [Bio Steckenpferd Don Camillo – weich, fair & kreativ | PAT&PATTY](https://patundpatty.de/products/bio-steckenpferd-don-camillo): Bio Steckenpferd Don Camillo aus Plüsch – nachhaltig, handgefertigt & ideal für fantasievolles Spiel. Jetzt bei PAT&PATTY entdecken & bestellen!
-  Updated: 2025-09-25T08:52:06Z
+  Updated: 2025-09-29T17:12:41Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1914,7 +1914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-29T12:58:21Z
+  Updated: 2025-09-29T16:31:37Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1928,19 +1928,19 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 26,50 € EUR
   - [5000 gr. nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555344245004)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bastelwatte-Aus-100-Prozent-Bio-Baumwolle-Kba-GOTS-Zertifiziert-F_llmaterial-PAT-Und-PATTY.jpg?v=1752305310
     Price: 89,00 € EUR
   - [10 kg nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555344277772)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 168,00 € EUR
   - [20 kg nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555344310540)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 250,00 € EUR
   - [30 kg nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555394019596)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen Füllmaterial | PAT&PATTY](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Nachhaltige Bio Schurwolle Kügelchen zum Füllen von Kissen & Spielzeug. Weich, atmungsaktiv, waschbar & Made in Germany. Jetzt bei PAT&PATTY bestellen!
