@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-29T00:00:38.279Z
+- Updated At: 2025-09-29T08:00:38.902Z
 
 ## Products
 
@@ -774,7 +774,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-back-tie-apron-white-800mm-x-1250mm-x-30mu-500-pieces-heavy-duty-plastic-body-protection-essential-supplies-157171.jpg?v=1719445558
   Price: $119.00 NZD
 - [Polypropylene Full Face Balaclavas - Blue, Elasticated, 25gsm - 400 Pieces](https://essentialsupplies.co.nz/products/polypropylene-full-face-balaclavas-blue-elasticated-25gsm-400): Disposable balaclavas are made from non woven polypropylene designed for minimal interference to breathing or communication. Balaclava covers entire mouth and bottom of the nose for optimal warmth, containment, and cleanliness. Covers entire mouth and bottom of the nose for optimal warmth, containment, and cleanliness 25gsm Colour: Blue Pack:400 pieces
-  Updated: 2025-09-28T11:13:56Z
+  Updated: 2025-09-29T01:13:45Z
   Vendor: Mattews Packaging
   Product Type: Head Protection
   Availability: Available
@@ -1922,7 +1922,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-boot-covers-clear-510mm-x-70mu-250-pieces-foot-protection-essential-supplies-726714.jpg?v=1719445583
   Price: $99.00 NZD
 - [POR Polyethylene Sheet - Blue, 400mm x 700mm x 18mu - 2500 Sheets](https://essentialsupplies.co.nz/products/por-polyethylene-sheet-blue-400mm-x-700mm-x-18mu-2500): Polyethylene sheets offer great properties such as abrasion and chemical resistance, high impact strength and a low coefficient of friction.These sheets are also moisture, stain and odour resistant. It is one of the most versatile and durable plastic products available.It is widely recycled, and for a standard engineering material it has an amazingly high tensile strength. These sheets are moisture, stain and odour resistant Size: 400mm x 700mm x 18mu Content: 2500 sheets Colour: Blue
-  Updated: 2024-11-21T16:27:00Z
+  Updated: 2025-09-29T00:10:11Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Sheets
   Availability: Available
@@ -6694,7 +6694,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/low-noise-acrylic-packaging-tape-clear-48mm-x-200m-x-55mu-18-rolls-25mm-core-size-specialty-packaging-tape-essential-supplies-452382.jpg?v=1719445318
   Price: $90.00 NZD
 - [Mono Directional Filament Tape - Clear, 48mm x 50m x 140mu](https://essentialsupplies.co.nz/products/mono-directional-filament-tape-clear-48mm-x-50m-x-140mu-18): Mono directional filament tape has a self adhesive tack reinforced with longitudinal glass fibres for added strength. Featuring a hot melt rubber adhesive, and strong, low stretch. Ideal for packaging heavy boxes, strapping, and other uses where high performance against breaking is required.
-  Updated: 2025-01-10T19:10:41Z
+  Updated: 2025-09-29T03:34:00Z
   Vendor: Mattews Packaging
   Product Type: Filament Tape
   Availability: Available
@@ -7203,7 +7203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pp-machine-strapping-band-white-5mm-x-7000m-x-065mm-55kgf-1-roll-machine-strapping-band-essential-supplies-126013.jpg?v=1719445694
   Price: $92.00 NZD
 - [PET Strapping Band Embossed - Green, 9.2mm x 3000m x 0.65mm, 225kgf - 1 Roll](https://essentialsupplies.co.nz/products/pet-strapping-band-embossed-green-9-2mm-x-3000m-x-0-65mm-225kgf-1): PET strapping band is made from premium strength, lightweight polyester and offers a safe and recyclable alternative to steel strapping. Minimal elongation properties means strap tension is maintained with load settling during transit. Can be securely sealed with serrated seals or friction weld tools.
-  Updated: 2025-01-09T20:40:14Z
+  Updated: 2025-09-29T03:46:27Z
   Vendor: Mattews Packaging
   Product Type: PET Strapping Band
   Availability: Available
