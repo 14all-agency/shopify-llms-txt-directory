@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-28T20:00:31.597Z
+- Updated At: 2025-09-29T08:00:31.541Z
 
 ## Products
 
@@ -135,7 +135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Alpaka-Lama_-_PAT_PATTY-4830086.jpg?v=1733944805
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Ziege Spelzfüllung Plüsch | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-ziege): Entdecken Sie das Bio Kuschelkissen Ziege von PAT & PATTY. Aus Bio-Plüsch, mit natürlicher Spelzfüllung, weich, schadstofffrei und perfekt für Kinderträume.
-  Updated: 2025-09-03T10:20:46Z
+  Updated: 2025-09-29T04:04:16Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -703,7 +703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmekissen-Elefant-Eisblau-Frottee-Bio-PAT-Und-PATTY.jpg?v=1755606367
     Price: 31,90 € EUR
 - [Bio Wärmekissen Löwe weich handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-loewe-waermekissen): Bio Wärmekissen Löwe – handgemacht aus Bio-Baumwolle, weich & nachhaltig. Perfekt zum Kuscheln, Trösten & Entspannen. Jetzt das Wärmekissen Löwe kaufen!
-  Updated: 2025-09-16T14:11:11Z
+  Updated: 2025-09-29T04:04:15Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
