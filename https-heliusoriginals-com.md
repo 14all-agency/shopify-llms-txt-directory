@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-09-29T16:00:27.778Z
+- Updated At: 2025-09-29T20:00:28.173Z
 
 ## Products
 
@@ -80,7 +80,7 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/HeliusOriginalsSpringsmokerecipebookcocktailcover.png?v=1681489647
   Price: $0.00 USD
 - [Smoked Cocktail Recipes for Fall | Helius Originals Recipe Book](https://heliusoriginals.com/products/smoked-cocktail-book-fall): Discover our Fall Smoke Cocktail Recipe Book featuring smoked twists on the Manhattan cocktail recipe, Aviation, Zombie, Toronto, and more.
-  Updated: 2025-09-29T15:19:48Z
+  Updated: 2025-09-29T18:40:39Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
@@ -123,6 +123,9 @@
   - [Smoke Cocktails Kit Guide: What to Buy & How to Use It at Home](https://heliusoriginals.com/blogs/blog/smoke-cocktails-kit-guide): Smoke Cocktails Kit Guide: What to Buy & How to Use It at Home
     Updated: 2025-06-26T18:25:12Z
     Author: Helius Originals
+  - [Smoked Cocktail Recipes for Fall: Zombie, Aviation, Toronto & More](https://heliusoriginals.com/blogs/blog/fall-smoked-cocktail-recipes)
+    Updated: 2025-09-29T16:44:00Z
+    Author: Helius Originals
 - [Stay Up-to-Date on the Latest in Smoked Cocktails and Mixology](https://heliusoriginals.com/blogs/news): Stay up-to-date with the latest news and updates from Helius Originals, your source for smoked cocktail kits and unique mixology experiences. Our news section covers everything from new product releases and promotions to events and collaborations.
   - [Bilqees Grant Featured in The Story Exchange: Leading the Rise of Eco-Luxury Cocktail Culture](https://heliusoriginals.com/blogs/news/bilqees-grant-featured-in-the-story-exchange-leading-the-rise-of-eco-luxury-cocktail-culture)
     Updated: 2025-09-28T18:52:35Z
@@ -141,7 +144,7 @@
 - [About Helius Originals | Eco-Luxury Smoked Cocktail Kits](https://heliusoriginals.com/pages/about-us): 
   Updated: 2025-08-28T21:22:02Z
 - [Helius Originals FAQ | Product, Shipping & Returns Help](https://heliusoriginals.com/pages/faq): 
-  Updated: 2025-08-28T21:22:37Z
+  Updated: 2025-09-29T19:08:06Z
 - [Cocktail Recipe Books | Smoked Drink & Mixology Guides](https://heliusoriginals.com/pages/recipe-books): 
   Updated: 2025-08-28T21:24:19Z
 - [Privacy Policy | Helius Originals](https://heliusoriginals.com/pages/privacy-policy): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
