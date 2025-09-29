@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-29T12:00:40.270Z
+- Updated At: 2025-09-29T20:00:38.805Z
 
 ## Products
 
@@ -6428,7 +6428,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/high-visibility-daynight-safety-vest-orange-m-120g-polyester-fabric-24-vests-safety-vests-essential-supplies-402812.jpg?v=1719445184
   Price: $199.00 NZD
 - [High Visibility Day/Night Safety Vest - Orange, L, 120g Polyester Fabric - 24 Vests](https://essentialsupplies.co.nz/products/high-visibility-day-night-safety-vest-orange-l-120g-polyester-fabric-24): Orange Hi Visibility safety work vests made of lightweight polyester, that is strong and easily washable. With reflective tape as prescribed by AS/NZS 4602.1:2011 safety standards. Featuring a strong zip front and longtail for added visibility. Available in a wide range of sizes.
-  Updated: 2025-02-10T13:53:45Z
+  Updated: 2025-09-29T13:52:46Z
   Vendor: Mattews Packaging
   Product Type: Safety Vests
   Availability: Available
@@ -7203,7 +7203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pp-machine-strapping-band-white-5mm-x-7000m-x-065mm-55kgf-1-roll-machine-strapping-band-essential-supplies-126013.jpg?v=1719445694
   Price: $92.00 NZD
 - [PET Strapping Band Embossed - Green, 9.2mm x 3000m x 0.65mm, 225kgf - 1 Roll](https://essentialsupplies.co.nz/products/pet-strapping-band-embossed-green-9-2mm-x-3000m-x-0-65mm-225kgf-1): PET strapping band is made from premium strength, lightweight polyester and offers a safe and recyclable alternative to steel strapping. Minimal elongation properties means strap tension is maintained with load settling during transit. Can be securely sealed with serrated seals or friction weld tools.
-  Updated: 2025-09-29T03:46:27Z
+  Updated: 2025-09-29T19:08:01Z
   Vendor: Mattews Packaging
   Product Type: PET Strapping Band
   Availability: Available
