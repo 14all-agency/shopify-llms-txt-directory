@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-09-28T20:00:40.224Z
+- Updated At: 2025-09-29T00:00:40.448Z
 
 ## Products
 
@@ -6028,7 +6028,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DDB-BOOBOO-TIN-2500-DOG2copy.jpg?v=1738729109
     Price: $11.95 USD
 - [The Blissful Dog Chihuahua Skin Care Boo Boo Butter](https://theblissfuldog.com/products/chihuahua-boo-boo-butter): Chihuahua Skin Care Boo Boo Butter is our all natural, herbal balm for your Chi's minor skin irritations. Made in MN. Free Shipping in USA
-  Updated: 2025-09-14T18:06:11Z
+  Updated: 2025-09-28T20:46:24Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
