@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-29T04:00:48.769Z
+- Updated At: 2025-09-29T08:00:47.637Z
 
 ## Products
 
@@ -4600,7 +4600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cellulose-Propionate-Frame-Rectangle-Sunglasses-Brinxx-Couture-105.jpg?v=1709319547
   Price: $19.00 USD
 - [Ribbed Tie Back Bikini Set](https://www.brinxxcouture.com/products/ribbed-tie-back-bikini-set): Top type: No underwire Bottom type: High cut Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie Material composition: 80% polyamide, 20% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2025-09-19T02:43:41Z
+  Updated: 2025-09-29T04:37:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-29T03:02:55Z
+  Updated: 2025-09-29T07:30:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9829,92 +9829,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Surplice-Neck-Tie-Front-Pleated-Sweater-Dress-Brinxx-Couture-6923.jpg?v=1709851399
     Price: $59.99 USD
-- [Round Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress): This Round Neck Lantern Sleeve Dress is sure to make a statement. Crafted from quality material, this dress is designed for an elegant look that will keep you looking your best.
-  Updated: 2025-09-27T08:19:11Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-3577.jpg?v=1709851722
-  - [Wine / S](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317620918)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-3577.jpg?v=1709851722
-    Price: $37.00 USD
-  - [Wine / M](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317653686)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-3577.jpg?v=1709851722
-    Price: $37.00 USD
-  - [Wine / L](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317686454)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-3577.jpg?v=1709851722
-    Price: $37.00 USD
-  - [Wine / XL](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317719222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-3577.jpg?v=1709851722
-    Price: $37.00 USD
-  - [Dust Storm / S](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317751990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-7420.jpg?v=1709851764
-    Price: $37.00 USD
-  - [Dust Storm / M](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317784758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-7420.jpg?v=1709851764
-    Price: $37.00 USD
-  - [Dust Storm / L](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317817526)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-7420.jpg?v=1709851764
-    Price: $37.00 USD
-  - [Dust Storm / XL](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317850294)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-7420.jpg?v=1709851764
-    Price: $37.00 USD
-  - [Black / S](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317883062)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-16.jpg?v=1709851788
-    Price: $37.00 USD
-  - [Black / M](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317915830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-16.jpg?v=1709851788
-    Price: $37.00 USD
-  - [Black / L](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317948598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-16.jpg?v=1709851788
-    Price: $37.00 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387317981366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-16.jpg?v=1709851788
-    Price: $37.00 USD
-  - [Green / S](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318014134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-9533.jpg?v=1709851800
-    Price: $37.00 USD
-  - [Green / M](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318046902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-9533.jpg?v=1709851800
-    Price: $37.00 USD
-  - [Green / L](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318079670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-9533.jpg?v=1709851800
-    Price: $37.00 USD
-  - [Green / XL](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318112438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-9533.jpg?v=1709851800
-    Price: $37.00 USD
-  - [Misty  Blue / S](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318145206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-255.jpg?v=1709851818
-    Price: $37.00 USD
-  - [Misty  Blue / M](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318177974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-255.jpg?v=1709851818
-    Price: $37.00 USD
-  - [Misty  Blue / L](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318210742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-255.jpg?v=1709851818
-    Price: $37.00 USD
-  - [Misty  Blue / XL](https://www.brinxxcouture.com/products/round-neck-lantern-sleeve-dress?variant=42387318243510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-255.jpg?v=1709851818
-    Price: $37.00 USD
 - [Open Front Ribbed Hooded Coat - Brinxx Couture](https://www.brinxxcouture.com/products/open-front-ribbed-hooded-coat): This Open Front Ribbed Hooded Coat is designed for optimal comfort and durability. The ribbed fabric allows for a light yet resilient feel, while the open front gives a stylish look.
   Updated: 2025-08-28T06:47:23Z
   Vendor: Brinxx Couture
@@ -15641,7 +15555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/David-Jones-PU-Leather-Crossbody-Bag-Brinxx-Couture-5959.jpg?v=1709880244
     Price: $44.99 USD
 - [Slit Smocked Floral Flounce Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/slit-smocked-floral-flounce-sleeve-dress): This Slit Smocked Floral Flounce Sleeve Dress offers a perfect blend of style and comfort. The smocked design ensures a flattering fit.
-  Updated: 2025-09-10T08:20:41Z
+  Updated: 2025-09-29T05:00:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16815,7 +16729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mesh-Sunscreen-Striped-Shawl-Brinxx-Couture-2298.jpg?v=1712069566
     Price: $19.99 USD
 - [V Neck Pleated Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-neck-pleated-dress): This V-neck pleated dress is a must-have for any fashion-forward individual. Its flattering neckline and flowing design will make you stand out in any crowd.
-  Updated: 2025-09-04T07:20:43Z
+  Updated: 2025-09-29T06:45:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16825,7 +16739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/V-Neck-Pleated-Dress-Brinxx-Couture-9663.jpg?v=1712070403
     Price: $89.99 USD
   - [S / Light Blue](https://www.brinxxcouture.com/products/v-neck-pleated-dress?variant=42815932760246)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/V-Neck-Pleated-Dress-Brinxx-Couture-9663.jpg?v=1712070403
     Price: $89.99 USD
   - [M / Light Blue](https://www.brinxxcouture.com/products/v-neck-pleated-dress?variant=42815932793014)
@@ -20153,7 +20067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Wide-Leg-Pants-with-Pockets-Brinxx-Couture-7151.jpg?v=1730295166
     Price: $50.00 USD
 - [Lace Detail V-Neck Short Sleeve Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/lace-detail-v-neck-short-sleeve-bodysuit): Elevate your everyday look with our Lace Detail V-Neck Short Sleeve Bodysuit. Delicately designed with lace detailing and a flattering v-neck.
-  Updated: 2025-09-28T07:02:06Z
+  Updated: 2025-09-29T07:40:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-29T03:43:20Z
+  Updated: 2025-09-29T07:52:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -28530,7 +28444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Tube-Top-Solid-Color-Pleated-Lace-Jumpsuit-for-Women-Brinxx-Couture-2189.jpg?v=1735530171
     Price: $54.99 USD
 - [Contrast Two Piece Fashion Set - Brinxx Couture](https://www.brinxxcouture.com/products/contrast-two-piece-fashion-set): Unleash your inner fashionista with our Contrast Two Piece Fashion Set! This stylish set includes bold and eye-catching pieces that will elevate your wardrobe.
-  Updated: 2025-08-22T19:26:06Z
+  Updated: 2025-09-29T04:17:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
