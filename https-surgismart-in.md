@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-29T04:00:31.549Z
+- Updated At: 2025-09-29T08:00:31.469Z
 
 ## Products
 
@@ -3070,34 +3070,34 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/19.jpg?v=1751477964
   Price: ₹3,299.00 INR
-- [Buy ​EASYCARE (EC250E) Fingertip Pulse Oximeter - Surgismart](https://surgismart.in/products/easycare-fingertip-pulse-oximeter): Advanced Technology: It is made with the most advanced features like anti-shaking technology & a four directional rotation LED display for your convenience. Auto-OFF: The device automatically turns off in 5 seconds when not in use to save battery life. Low Battery Indicator: It has a low battery indicator & continuous bar graph display for reliable performance. Low Perfusion Index: It also features Low perfusion index to alarm if anything is wrong. IPX4 Water Proof: The screen brightness is adjustable for better eyesight and is IPX4 rated water splash proof. EASYCARE Pulse Oximeter is one of the best and most reliable devices to monitor your blood oxygen level, or the oxygen saturation level. It is a non-invasive test to get the readings of your spo2 level and pulse rate at home and hospital environments (including clinical use in internist/surgery, anaesthesia, intensive care, etc.) It is a lightweight & portable pulse oximeter easy to use & offers high accuracy and durability. It is quite easy to use and hence recommended by medical professionals to keep a check on your health, especially during these tougher times like the covid-19 pandemic. The pulse oximeter indicates the issue with blood oxygen levels which could be related to coronavirus. During this covid-19 pandemic, demand for pulse oximeters increased by a significant amount, and many cheap quality manufacturers took their rise. At EASYCARE, we do not compromise on quality and provides the best products to our customers EASYCARE Pulse Oximeter comes with accessories like neck/wrist cord, metal box, user manual, 2 AAA batteries, and also a hassle-free 1-year warranty. - Surgismart
-  Updated: 2025-08-13T07:36:55Z
+- [Buy EASYCARE Pulse Oximeter with LED Display & Accurate SpO2 Monitoring | Surgismart](https://surgismart.in/products/easycare-pulse-oximeter-spo2-monitor): EASYCARE Pulse Oximeter with LED display ensures accurate SpO2 & pulse monitoring. Portable, waterproof, durable & doctor-recommended. Shop now at Surgismart.
+  Updated: 2025-09-29T07:59:47Z
   Vendor: EASYCARE Global
   Product Type: Oximeter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/PulseOximeter.png?v=1751477963
   Price: ₹1,499.00 INR
-- [Buy ​EASYCARE (EC2070) Fetal Doppler for Mothers & Doctors - Surgismart](https://surgismart.in/products/easycare-fetal-doppler): Color LED Display: The device has a color LED display that projects the heartbeat per minute. Headphone Jack: The crystal-clear heartbeats are audible through the speakers and the device even supports the usage of earphones. Durable & Water-proof: It has a high sensitivity, waterproof and durable Doppler probe to monitor fetal’s heartbeat. Safe to use: This fetal Doppler has very low radiation and is thus completely safe to use. Auto-Off: The device automatically turns off when left unattended to save battery life. EASYCARE Fetal Doppler is a high performance device, which enables you to monitor fetal heartbeat in the convenience of your home, by producing a high-fidelity audible simulation of the unborn child’s heartbeat. Monitoring the fetal heartbeat is an important parameter to keep a tab on the growth of the child and EASYCARE Fetal Doppler provides you with the most favorable solution for the same. - Surgismart
-  Updated: 2025-08-13T07:36:54Z
+- [Buy EASYCARE Fetal Doppler for Baby Heartbeat Monitoring at Home | Surgismart](https://surgismart.in/products/easycare-fetal-doppler-heartbeat-monitor): Monitor your baby’s heartbeat at home with EASYCARE Fetal Doppler. Color LED display, headphone jack, safe, durable & easy to use. Shop at Surgismart.
+  Updated: 2025-09-29T07:57:45Z
   Vendor: EASYCARE Global
   Product Type: Fetal Doppler
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/FetalDoppler.png?v=1751477962
-  Price: ₹2,499.00 INR
-- [Buy ​EASYCARE 6-Inch Toilet Seat Riser with Lid & Safe Lock - Surgismart](https://surgismart.in/products/easycare-toilet-seat-riser-with-lid-commode-raiser-with-safe-lock-6-inch): Increase Toilet Height for Safety and ComfortThe EASYCARE Toilet Seat Riser adds 6 inches of height to your existing toilet, making it easier for seniors, individuals with limited mobility, or those recovering from surgery to use the toilet safely and independently. Key Features: 6-Inch Height Increase – Ideal for elderly users, people with stiff joints, or post-surgery recovery Secure Locking Mechanism – Locks tightly to the toilet bowl for added safety and stability Wide Seat with Lid – Features an extra-wide opening and lid for personal hygiene and easy cleaning Durable Construction – Made from heavy-duty molded plastic that supports up to 180 kg Tool-Free Installation – Easy to install without tools; fits most standard and elongated toilet bowls Cost-Effective Alternative – Avoids the need to install a new raised commode Use Cases: Seniors requiring additional toilet height Individuals recovering from hip, knee, or back surgery Disabled or mobility-impaired users needing extra support Caregivers seeking a hygienic and stable toilet seat solution This toilet seat riser is available in 4-inch and 6-inch variants and is designed to improve comfort and independence in the bathroom. - Surgismart
-  Updated: 2025-08-14T17:44:44Z
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1122-600x600.jpg?v=1759132617
+  Price: ₹3,999.00 INR
+- [Buy EASYCARE Toilet Seat Riser (6-Inch) for Seniors & Post-Surgery | Surgismart](https://surgismart.in/products/easycare-toilet-seat-riser-6-inch): EASYCARE Toilet Seat Riser adds 6" height for seniors & recovery. Secure, durable & tool-free install. Shop comfort & safety at Surgismart.
+  Updated: 2025-09-29T07:53:18Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-2.jpg?v=1751477961
-  Price: ₹1,499.00 INR
-- [Buy ​EASYCARE EC6012 Anti Decubitus Air Bed Mattress with Air Pump Tubular Type - Surgismart](https://surgismart.in/products/easycare-tubular-type-anti-decubitus-air-mattress-with-air-pump-to-prevent-bed-sores): EASYCARE EC6012 Anti Decubitus Air Mattress with Air Pump – Tubular Type for Bed Sores, Pressure Ulcers & Long-Term Bedridden Care The EASYCARE EC6012 Anti Decubitus Air Mattress is specially designed to prevent bedsores (pressure ulcers) and improve comfort for long-term bedridden patients, elderly individuals, and post-surgical recovery. Featuring tubular-type air cells, this medical-grade air mattress helps distribute pressure evenly across the body, reducing the risk of skin breakdown and enhancing circulation. 🔹 Key Features & Benefits ✅ Delicate Massage TherapyAlternating air flow technology gently massages the body to stimulate blood circulation, relieving pressure points and promoting faster healing. ✅ Adjustable Pressure with Silent OperationThe included low-noise air pump features an adjustable pressure knob, allowing caregivers to customize firmness for each patient’s comfort—ensuring restful, uninterrupted sleep. ✅ Non-Toxic & Skin-FriendlyCrafted from biocompatible, medical-grade nylon, this mattress is fungistatic, non-toxic, and safe for prolonged contact with the skin—ideal for sensitive or compromised patients. ✅ Durable & Safe DesignFlame-retardant and water-resistant, the EC6012 is built for safe, long-lasting use in both home and clinical environments. ✅ Modular Buckle-Type Tubular DesignEach air cell can be individually removed and replaced, extending the mattress lifespan and simplifying maintenance. 🛏️ Why Choose EASYCARE EC6012 Air Mattress? Bedsores, or decubitus ulcers, occur due to continuous pressure on the skin from lying in one position too long—often affecting hospitalized, paralyzed, or immobile patients. The EASYCARE EC6012 combats this with a clinically recommended air cell system, delivering continuous pressure relief and optimal airflow. Suitable for use in: Home care setups Nursing homes Hospitals and ICUs Whether for elderly care, post-operative recovery, or long-term immobilization, the EASYCARE EC6012 ensures safety, comfort, and prevention in one reliable solution. Frequently Asked Questions (FAQ) Q1. What is an Anti Decubitus Air Mattress used for?A: An Anti Decubitus Air Mattress is designed to prevent and manage bedsores (pressure ulcers) in individuals who are bedridden for extended periods. It uses alternating air pressure to reduce pressure on the skin and improve blood circulation. Q2. Who can use the EASYCARE EC6012 air mattress?A: This mattress is ideal for elderly patients, paralyzed individuals, post-operative patients, and anyone confined to bed due to illness or limited mobility—both at home and in medical care settings. Q3. How does the air pump work, and is it noisy?A: The included air pump operates with low noise and has an adjustable pressure knob to customize the firmness of the mattress. It provides quiet performance to ensure the user can sleep without disturbance. Q4. Is the mattress safe for sensitive skin?A: Yes, the mattress is made from biocompatible, medical-grade nylon that is non-toxic and fungistatic, making it safe for long-term contact with sensitive skin. Q5. Can I replace individual air tubes or sections?A: Yes. The tubular air cells are designed with a buckle-type connection, allowing individual air chambers to be removed or replaced if needed—making maintenance easier and cost-effective. Q6. Is this suitable for hospital and home use?A: Absolutely. The EASYCARE EC6012 is suitable for home care, nursing homes, and hospitals, and is built for both safety and durability in any environment. Q7. Does it help with existing bedsores or only prevent them?A: While primarily designed for prevention, the alternating pressure system can also assist in reducing discomfort and promoting healing of mild to moderate bedsores by improving circulation and reducing pressure. Q8. How do I clean the air mattress?A: You can clean the surface using a soft cloth with mild detergent and water. Make sure the mattress is unplugged and deflated before cleaning. Do not submerge in water. - Surgismart
-  Updated: 2025-08-13T07:36:54Z
+  Price: ₹1,999.00 INR
+- [Buy EASYCARE EC6012 Anti Decubitus Air Mattress with Pump | Surgismart](https://surgismart.in/products/easycare-ec6012-anti-decubitus-air-mattress): Shop EASYCARE EC6012 Anti Decubitus Air Mattress at Surgismart. Prevent bedsores & pressure ulcers with tubular design, quiet pump & medical-grade comfort.
+  Updated: 2025-09-29T07:39:16Z
   Vendor: EASYCARE Global
   Product Type: Air Mattress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-6012_1.jpg?v=1751477960
-  Price: ₹6,799.00 INR
+  Price: ₹7,999.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Pro - Surgismart](https://surgismart.in/products/medtech-compressor-nebulizer-handyneb-pro): Keep your respiratory problems at bay with MEDTECH Handyneb Pro Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Storage Compartment:The Medtech Handyneb Pro has an integrated storage compartment for you to store all the nebulizer accessories without having to worry about where to store them. Handle Design:The Medtech Handyneb Pro also has a handle integrated in the body which makes it convenient to carry around. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
   Updated: 2025-09-28T11:46:13Z
   Vendor: Medtechlife
@@ -3262,16 +3262,16 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-28T11:46:14Z
-  Total Products: 147
+  Updated: 2025-09-29T07:59:45Z
+  Total Products: 150
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
-  Updated: 2025-09-28T11:47:25Z
-  Total Products: 44
+  Updated: 2025-09-29T07:59:45Z
+  Total Products: 41
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-09-28T11:47:23Z
   Total Products: 22
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
-  Updated: 2025-08-01T11:05:28Z
+  Updated: 2025-09-29T07:56:57Z
   Total Products: 9
 - [Buy ​United Medicare - Surgismart](https://surgismart.in/collections/united-medicare): - Surgismart
   Updated: 2025-09-12T11:15:05Z
@@ -3328,7 +3328,7 @@
   Updated: 2025-08-01T11:05:29Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-09-28T11:47:25Z
+  Updated: 2025-09-29T07:56:57Z
   Total Products: 38
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
   Updated: 2025-09-28T11:47:25Z
@@ -3391,7 +3391,7 @@
   Updated: 2025-09-04T07:27:20Z
   Total Products: 53
 - [Buy ​Hospital Furniture - Surgismart](https://surgismart.in/collections/hospital-furniture): - Surgismart
-  Updated: 2025-09-18T14:01:29Z
+  Updated: 2025-09-29T07:53:19Z
   Total Products: 12
 - [Buy ​Trolley - Surgismart](https://surgismart.in/collections/trolley): - Surgismart
   Updated: 2025-09-18T14:01:28Z
@@ -3409,8 +3409,8 @@
   Updated: 2025-09-18T14:02:27Z
   Total Products: 120
 - [Buy ​Airbeds - Surgismart](https://surgismart.in/collections/airbeds): - Surgismart
-  Updated: 2025-09-28T11:47:24Z
-  Total Products: 4
+  Updated: 2025-09-29T07:18:09Z
+  Total Products: 3
 - [Buy ​Thermometer - Surgismart](https://surgismart.in/collections/thermometer): - Surgismart
   Updated: 2025-09-28T11:47:23Z
   Total Products: 4
@@ -3433,7 +3433,7 @@
   Updated: 2025-08-23T11:16:56Z
   Total Products: 27
 - [Buy ​Doctor's Corner - Surgismart](https://surgismart.in/collections/doctors-corner): - Surgismart
-  Updated: 2025-09-28T11:47:24Z
+  Updated: 2025-09-29T07:56:57Z
   Total Products: 15
 - [Buy ​Cushion - Surgismart](https://surgismart.in/collections/cushion): - Surgismart
   Updated: 2025-09-18T14:02:25Z
