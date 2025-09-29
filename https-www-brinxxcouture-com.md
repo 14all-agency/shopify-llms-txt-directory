@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-28T20:00:46.626Z
+- Updated At: 2025-09-29T00:00:49.293Z
 
 ## Products
 
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-28T16:21:00Z
+  Updated: 2025-09-28T20:20:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12443,7 +12443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Surplice-Long-Sleeve-Midi-Dress-Brinxx-Couture-6195.jpg?v=1709869030
     Price: $34.99 USD
 - [Plus Size Ruffle Trim Round Neck Long Sleeve Dress | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-ruffle-trim-round-neck-long-sleeve-dress): Step out in style with our Plus Size Ruffle Trim Round Neck Long Sleeve Dress. Perfect for any occasion, this dress offers both comfort and style. Shop now!
-  Updated: 2025-07-07T20:57:57Z
+  Updated: 2025-09-28T20:46:54Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12940,7 +12940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-28T09:40:46Z
+  Updated: 2025-09-28T23:21:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12954,7 +12954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / XL](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799565494)
@@ -19791,7 +19791,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-09-25T04:45:22Z
+  Updated: 2025-09-28T21:30:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23634,7 +23634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-28T15:12:31Z
+  Updated: 2025-09-28T23:21:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25476,7 +25476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Slim-Off-Shoulder-Long-Sleeve-Split-Dress-Brinxx-Couture-1961.jpg?v=1730299727
     Price: $39.99 USD
 - [Long Sleeve Sequined Evening Dress - Brinxx Couture](https://www.brinxxcouture.com/products/long-sleeve-sequined-evening-dress): Shop our Long Sleeve Sequined Evening Dress for a glamorous look at weddings, galas, and formal events. Shine bright with our elegant evening gown.
-  Updated: 2025-08-22T19:26:02Z
+  Updated: 2025-09-28T23:58:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
