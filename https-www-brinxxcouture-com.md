@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-29T08:00:47.637Z
+- Updated At: 2025-09-29T20:00:49.594Z
 
 ## Products
 
@@ -172,7 +172,7 @@
     Availability: Not Available
     Price: $44.99 USD
 - [Mocha Cable Pullover Top - Brinxx Couture](https://www.brinxxcouture.com/products/mocha-cable-pullover-top): Stay cozy and stylish with our Mocha Cable Pullover Top. Made with high-quality material, this top offers a comfortable fit and a classic cable knit design. Perfect for any occasion.
-  Updated: 2025-08-22T19:23:30Z
+  Updated: 2025-09-29T18:03:44Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-09-27T09:40:37Z
+  Updated: 2025-09-29T09:51:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8079,7 +8079,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Fringe-Detail-Long-Sleeve-Poncho-Brinxx-Couture-4145.jpg?v=1709844476
     Price: $37.00 USD
 - [Turtle Neck Long Sleeve Ribbed Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/turtle-neck-long-sleeve-ribbed-sweater-dress): Introducing the Turtle Neck Long Sleeve Ribbed Sweater Dress! This stylish piece is perfect for every wardrobe - featuring a ribbed design and comfortable turtle neck.
-  Updated: 2025-08-22T19:23:47Z
+  Updated: 2025-09-29T19:50:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-29T02:00:56Z
+  Updated: 2025-09-29T19:11:28Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-29T07:30:46Z
+  Updated: 2025-09-29T17:30:53Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10560,7 +10560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Up-Lug-Booties-Brinxx-Couture-206.jpg?v=1709859595
     Price: $60.00 USD
 - [Sport Tank and Leggings Set - Brinxx Couture](https://www.brinxxcouture.com/products/sport-tank-and-leggings-set): Dominate your workout with this stylish Sport Tank and Leggings Set! Offering complete flexibility and comfort, this set is perfect for any activity.
-  Updated: 2025-09-25T17:24:21Z
+  Updated: 2025-09-29T17:52:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12854,7 +12854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-28T23:21:10Z
+  Updated: 2025-09-29T09:31:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15119,7 +15119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Distressed-Denim-Overalls-with-Pockets-Brinxx-Couture-1240.jpg?v=1709876719
     Price: $68.00 USD
 - [Printed Tie Waist Mock Neck Lantern Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/printed-tie-waist-mock-neck-lantern-sleeve-dress): Make a statement with this Printed Tie Waist Mock Neck Lantern Sleeve Dress. The bold print and elegant lantern sleeves will make you stand out in any crowd.
-  Updated: 2025-09-28T18:16:36Z
+  Updated: 2025-09-29T09:20:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17139,7 +17139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-09-26T07:20:55Z
+  Updated: 2025-09-29T08:32:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19705,7 +19705,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-09-28T21:30:21Z
+  Updated: 2025-09-29T14:27:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20067,7 +20067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Wide-Leg-Pants-with-Pockets-Brinxx-Couture-7151.jpg?v=1730295166
     Price: $50.00 USD
 - [Lace Detail V-Neck Short Sleeve Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/lace-detail-v-neck-short-sleeve-bodysuit): Elevate your everyday look with our Lace Detail V-Neck Short Sleeve Bodysuit. Delicately designed with lace detailing and a flattering v-neck.
-  Updated: 2025-09-29T07:40:36Z
+  Updated: 2025-09-29T08:20:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21881,7 +21881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-09-27T09:20:41Z
+  Updated: 2025-09-29T10:00:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21891,7 +21891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
   - [Black / M](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater?variant=43390990876854)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater?variant=43390990909622)
@@ -23548,7 +23548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-29T07:52:51Z
+  Updated: 2025-09-29T19:30:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26208,7 +26208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-09-28T07:20:51Z
+  Updated: 2025-09-29T10:00:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35967,7 +35967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01sEVE9J1hc4cH7BdOP__2207411884297-0-cib.jpg?v=1758900136
     Price: $29.99 USD
 - [Leopard Print Long Sleeve Bodycon Dress - Sexy Slim Style](https://www.brinxxcouture.com/products/leopard-print-long-sleeve-bodycon-dress): Shop our stunning leopard print long sleeve bodycon dress. Sexy slim fit perfect for nights out, parties & special occasions. Bold animal print that stands out.
-  Updated: 2025-09-27T03:41:48Z
+  Updated: 2025-09-29T19:52:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
