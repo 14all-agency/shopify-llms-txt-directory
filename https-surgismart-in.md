@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-28T08:00:32.026Z
+- Updated At: 2025-09-29T04:00:31.549Z
 
 ## Products
 
 - [Buy ​United Medicare Lumbar Corset with Strap (A-01) - Surgismart](https://surgismart.in/products/a-01): Key Features:Lumbar corset provides support, restricts motion, and facilitates healing with uniform compression. UM Lumbar corset is an ideal back support for general use with mild back aches. Provides noticeable therapeutic relief for the lumbar spine and supports the back muscles. May promote good posture and even helps reduce pelvic anterotation. Anatomically rigid splints may provide effective immobilisation and maintain correct and comfortable posture. Hook and loop closures that adjust for the most comfortable and easy fit. Direction of use: Place on the lower back and stretch the elastic from both the sides to lock in the front. Stretch and lock the loop elastic for additional reinforcement. Safety information: Read the label instruction carefully before using Keep reach out of children UM lumbar corset provides therapeutic relief for the lumbar spine. It also provides firm support for the lower back and helps maintain correct posture with enhanced compression for the lumber. Yes, you can wear your UM lumbar corset daily; however, you should consult your physician.UM lumbar corset with strap is used for patients who have acute lower back pain, slip disc, disc herniation, lumbar spondylitis, or muscle weakness. A lumbar corset works by applying pressure to your abdomen; it relieves pressure on your spine and joints, allowing you to recover more quickly. The corset can also be used to relieve discomfort following a sprain or strain for a brief period of time. Discuss the fit of your corset with your healthcare professional. It is important that your corset is the correct size for you and fits properly. Your healthcare professional will advise you on how long and how tight to make the corset to cover the areas that require support.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-28T07:48:51Z
+  Updated: 2025-09-28T11:24:00Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
@@ -2650,7 +2650,7 @@
     Availability: Available
     Price: ₹15,379.00 INR
 - [Buy ​Mucus Extractor Infant (Without Filter) - Surgismart](https://surgismart.in/products/mucus-extractor): Specially designed for aspiration of secretions from oropharynx in newly born babies to ensure free respiration. Also ideal for obtaining mucus specimen for micro biological examinations. Transparent container manufactured from medical grade Polypropylene. Clear transparent container permits immediate visual examination of the aspirate collected. Low friction surface of catheter is provided with open end silk smooth round tip, for trauma free insertion and suction. Spare plug cap is provided to seal the container for safe transportation of specimen to laboratory or for aseptic disposal of container. Sterile, individually packed in a peelable soft Blister pack. Product Specifications: Brand Romsons Generic Name Oropharyngeal Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265305705 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:47Z
+  Updated: 2025-09-29T01:27:46Z
   Vendor: Romsons
   Product Type: Mucus Extractor
   Availability: Available
@@ -3098,139 +3098,64 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-6012_1.jpg?v=1751477960
   Price: ₹6,799.00 INR
-- [Buy ​Wellness Surgical Cotton Crepe Bandage for Pain Relief & Injury, 8cm X 4mt - Roll Sports Wrist Wrap Straps, Muscle Elastic Compression (Stretched length, Pack of 2) - Surgismart](https://surgismart.in/products/wellness-surgical-cotton-crepe-bandage-for-pain-relief-injury-8cm-x-4mt-roll-sports-wrist-wrap-straps-muscle-elastic-compression-stretched-length-pack-of-2): Product Overview Brand: Wellness SURGICAL Material: Cotton Size: 8cmx4mts Style: Elastic Sterility Rating: Sterile Product Features Pack of 2 Crepe Bandages: Provide Optimum Support to the Injured Area and Helps in Relieving Pain. Uses: Ideal for sports-related injuries, wrist support, compression therapy, and general wound dressing. Dimensions: 8 cm width x 4 meters length (Stretched length). Operational Considerations: Easily adjustable and provides optimal compression, allowing for customized support. The elastic nature ensures a secure and comfortable fit during movement. Age Rating: Suitable for individuals of all ages, making it versatile for both adults and children. Country of Origin: Manufactured in India, ensuring quality and adherence to international standards. Skill Level: User-friendly design for easy application, making it suitable for personal use at home or by healthcare professionals. - Surgismart
-  Updated: 2025-08-13T07:36:54Z
-  Vendor: Kramsons
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51WyopImxQL.jpg?v=1751477959
-  - [8cmx4mts](https://surgismart.in/products/wellness-surgical-cotton-crepe-bandage-for-pain-relief-injury-8cm-x-4mt-roll-sports-wrist-wrap-straps-muscle-elastic-compression-stretched-length-pack-of-2?variant=50406820774168)
-    Availability: Available
-    Price: ₹288.00 INR
-  - [10cmx4mts](https://surgismart.in/products/wellness-surgical-cotton-crepe-bandage-for-pain-relief-injury-8cm-x-4mt-roll-sports-wrist-wrap-straps-muscle-elastic-compression-stretched-length-pack-of-2?variant=50406820806936)
-    Availability: Available
-    Price: ₹480.00 INR
-  - [6x4mtr](https://surgismart.in/products/wellness-surgical-cotton-crepe-bandage-for-pain-relief-injury-8cm-x-4mt-roll-sports-wrist-wrap-straps-muscle-elastic-compression-stretched-length-pack-of-2?variant=50406820839704)
-    Availability: Available
-    Price: ₹288.00 INR
-  - [15cmx4mts](https://surgismart.in/products/wellness-surgical-cotton-crepe-bandage-for-pain-relief-injury-8cm-x-4mt-roll-sports-wrist-wrap-straps-muscle-elastic-compression-stretched-length-pack-of-2?variant=50406820872472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51WyopImxQL.jpg?v=1751477959
-    Price: ₹349.00 INR
-- [Buy ​Kramson Pure Cotton Roll for Medical Wound | Care and Personal Use | Chlorine Free and Lint Free | Highly Absorbent RO Water Processed | Multipurpose Cotton for Clinic Salon and Home (300 gm) - Surgismart](https://surgismart.in/products/kramson-pure-cotton-roll-for-medical-wound-care-and-personal-use-chlorine-free-and-lint-free-highly-absorbent-ro-water-processed-multipurpose-cotton-for-clinic-salon-and-home-500-gm): Product Overview Size: 300 gm Brand: Kramson Net Quantity: 1.0 count Manufacturer: Wellness Surgical and Pharma Product Features Pure and Chlorine-Free Cotton – Made from natural cotton, free from harsh chemicals and chlorine, safe for all skin types including sensitive skin. Highly Absorbent Material – Quickly soaks up fluids, ideal for wound dressing, cleaning, and medical procedures at clinics or at home. Lint-Free and Dust-Free – Smooth, clean texture ensures no fiber residue is left behind, perfect for hygienic use in medical and beauty settings. RO Water Processed for Hygiene – Processed using reverse osmosis purified water to maintain high cleanliness and safety standards for clinical use. Multipurpose Use – Suitable for hospitals, clinics, salons, beauty routines, personal care kits, first aid, and general hygiene purposes. Soft and Gentle Texture – Provides a non-irritating touch, ideal for delicate applications like baby care, facial cleansing, or wound dressing. - Surgismart
-  Updated: 2025-09-03T10:16:04Z
-  Vendor: Kramsons
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51sWEBzfczL._SL1080.jpg?v=1751477958
-  Price: ₹249.00 INR
-- [Buy ​Amkay Digital Thermometer With Quick Measurement of Oral & Underarm Temperature in Celsius & Fahrenheit (12 Months Warranty) | Water Resistant for Easy Cleaning (White) - Surgismart](https://surgismart.in/products/amkay-digital-thermometer-with-quick-measurement-of-oral-underarm-temperature-in-celsius-fahrenheit-12-months-warranty-water-resistant-for-easy-cleaning-white): Product Overview Brand: AMKAY Special Feature: High Accuracy Colour: white Age Range (Description): Adult Included Components: digital thermometer, user manual Product Features Fast and Accurate: Provides quick and reliable temperature readings in seconds. Multi-Use: Suitable for oral, rectal, and underarm temperature measurement. LCD Display: Clear digital display with easy-to-read results. Fever Alarm: Alerts you immediately if fever is detected. Safe for All Ages: Perfect for adults, children, and babies. Portable and Lightweight: Easy to carry for travel and home first aid kits. Memory Function: Stores last temperature reading for easy tracking. Auto Shut-Off: Battery-saving automatic power-off feature. Product Information Brand ‎AMKAY Special Feature ‎High Accuracy Colour ‎white Age Range (Description) ‎Adult Included Components ‎digital thermometer, user manual Outer Material ‎Plastic Specification Met ‎FDA Display Type ‎Digital Product Care Instructions ‎Hand Wash Only Net Quantity ‎1.0 count Power Source ‎Battery Powered Item Length ‎12.31 Centimetres Upper Temperature Rating ‎100 Degrees Fahrenheit Response Time ‎5 Seconds Reusability ‎Rechargeable Indoor/Outdoor Usage ‎Indoor Manufacturer ‎AMKAY PRODUCTS LIMITED Country of Origin ‎India Number of Memory Sticks ‎1 Item part number ‎AMKDTM-173-W Are batteries included? ‎Yes ASIN B0BZQ696QB Customer Reviews Best Sellers Rank Date First Available 27 March 2023 Manufacturer AMKAY PRODUCTS LIMITED Net Quantity 1.0 count - Surgismart
-  Updated: 2025-09-17T14:59:05Z
-  Vendor: Amkay
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51CjfRSKPUL._SL1000.jpg?v=1751477957
-  Price: ₹170.00 INR
-- [Buy ​Amkay Air Bed Anti-Bedsore Air Mattress with Compressor (Air Pump - White) is a Soft air Matress Designed for Patients. - Surgismart](https://surgismart.in/products/amkay-air-bed-anti-bedsore-air-mattress-with-compressor-air-pump-white-is-a-soft-air-matress-designed-for-patients): Product Overview Size: Single Special Feature: Breathable Brand: AMKAY Colour: White Product Dimensions: 2.2L x 0.96W Meters Material: Plastic Specific Uses For Product: Bed Included Components: Mattress Item Weight: 2720 Grams Product Care Instructions: Wipe With Damp Cloth Product Features ✅ Anti-Bedsore Technology – Alternating pressure design reduces the risk of bedsores and enhances patient comfort. ✅ Durable White Compressor (Air Pump) – Ensures consistent air flow and optimal mattress inflation. ✅ Comfortable & Skin-Friendly Material – Soft, high-quality vinyl material provides a gentle resting surface. ✅ Promotes Better Blood Circulation – Even weight distribution minimizes pressure points and improves circulation. ✅ Easy Setup & Maintenance – Quick installation with adjustable pressure settings for personalized comfort. ✅ Ideal for Home Care & Medical Facilities – Perfect for bedridden patients requiring extended care. Product Information Size ‎Single Special Feature ‎Breathable Brand ‎AMKAY Colour ‎White Product Dimensions ‎2.2L x 0.96W Meters Material ‎Plastic Specific Uses For Product ‎Bed Included Components ‎Mattress Item Weight ‎2720 Grams Product Care Instructions ‎Wipe With Damp Cloth Number of Items ‎1 Item Firmness Description ‎Plush Manufacturer ‎AMKAY PRODUCTS LIMITED Country of Origin ‎India Item model number ‎White ASIN ‎B0C14Y14F8 Manufacturer AMKAY PRODUCTS LIMITED Packer Amkay Products Pvt. Ltd. Item Weight 2 kg 720 g Net Quantity 1.0 count Included Components Mattress Best Sellers Rank - Surgismart
-  Updated: 2025-08-13T07:36:52Z
-  Vendor: Amkay
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/611XOT8BWpL._SL1000.jpg?v=1751477956
-  Price: ₹1,999.00 INR
-- [Buy ​Amkay Alcohol Swabs 100 Pcs – Individually Wrapped Sterile Wipes for Skin, Injection Prep, Wound Cleaning & First Aid | 70% Isopropyl Alcohol Pads for Personal & Medical Hygiene Use - Surgismart](https://surgismart.in/products/amkay-alcohol-swabs-100-pcs-individually-wrapped-sterile-wipes-for-skin-injection-prep-wound-cleaning-first-aid-70-isopropyl-alcohol-pads-for-personal-medical-hygiene-use): Product Overview Brand: AMKAY Skin Type: All Material Feature: Alcohol Saturated, Sterile, Disposable Net Quantity: 100.00 Count Number of Items: 100 Special Feature: Sterile, Disposable, Individually Wrapped, Alcohol Saturated Age Range (Description): Adult Material: Non-woven fibers Item Form: Pads Scent: Unscented Product Features High-Quality Cleansing: Saturated with 70% Isopropyl Alcohol for effective bacterial and germ reduction. Sterile & Safe: Each alcohol swab is individually wrapped to maintain sterility and ensure hygienic use. Multi-Purpose Use: Ideal for skin preparation, wound cleaning, injections, first aid, and sanitizing small surfaces. Compact & Portable: Travel-friendly packaging; perfect for home, clinic, hospital, or on-the-go use. Certified Quality: CE and ISO certified, trusted by healthcare professionals for superior hygiene standards. Soft and Gentle: Made with soft material that’s gentle on the skin while providing a thorough clean. - Surgismart
-  Updated: 2025-08-13T07:36:52Z
-  Vendor: Amkay
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51_1NRtVqoL._SL1080.jpg?v=1751477955
-  Price: ₹185.00 INR
-- [Buy ​Amkay Nebulizer Portable Kit - Surgismart](https://surgismart.in/products/amkay-nebulizer-portable-kit): Product Features Portable and Lightweight Design: The Amkay Nebulizer Kit is designed for on-the-go convenience. Its compact size and lightweight construction make it easy to carry for travel, offering relief whenever and wherever needed. Quiet Operation: Enjoy a peaceful experience with this nebulizer's ultra-quiet operation, making it ideal for use in public places or at night without disturbing others. Efficient Medication Delivery: The nebulizer uses advanced technology to deliver medication effectively in fine mist form, ensuring fast and targeted relief for asthma, COPD, or other respiratory conditions. Multiple Accessories Included: The kit comes with a mask and mouthpiece for versatile use, making it suitable for adults and children. The included USB charger and portable travel case offer added convenience. Family Health Essential: Don't let congestion slow you down. Our nebulizer is an essential for every family, perfect for prompt use at the first sign of colds, allergies, or sinus problems. Enjoy a convenient and happy life with this reliable health companion. Product Information Brand ‎AMKAY Manufacturer ‎AMKAY PRODUCTS LIMITED Country of Origin ‎India Number of Memory Sticks ‎1 Item part number ‎AMKNEB-140 ASIN B0BZRTBX2H Customer Reviews Best Sellers Rank Date First Available 28 March 2023 Manufacturer AMKAY PRODUCTS LIMITED, AMKAY PRODUCTS LIMITED Packer AMKAY PRODUCTS LIMITED - Surgismart
-  Updated: 2025-09-20T22:50:59Z
-  Vendor: Amkay
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51sMmDdcDZL._SL1080.jpg?v=1751477954
-  Price: ₹1,249.00 INR
-- [Buy ​MEDTECH WS05 Thin Automatic Personal Digital Weight Scale With 4 Sensor Technology (5 mm Glass) - Surgismart](https://surgismart.in/products/medtech-ws05-ultra-thin-automatic-personal-digital-bathroom-weight-scale-with-large-lcd-display-and-4-sensor-technology-for-accurate-weight-measurement): Step up your body fitness game with the new Medtech digital weight machine. Rely on its high precision sensors for accurate weight measurements in your highs and lows. It works in the range of 2.5 to 180 kg with an accuracy of 0.01 kg. The backlit LCD features weight and room temperature with low battery and overweight alerts. The electronic weighing scale features AUTO CALIBRATION technology for auto-activation and quick calibration. Please ignore the first reading while taking measurements. The top of the weight machine for the human body is made with tough-bearing glass which is anti-skid and extremely durable. The smooth corners and curved edges ensure no injuries or accidental damage during its use. To ensure the best customer experience, we offer a 1-year replacement warranty on manufacturing defects only. ✅[HIGH ACCURACY MEASUREMENT OF 0.05 KG]:The Medtech weight scale has 3 different units of measurements; kg, lbs & st lb. The high precision sensors measure the weight in the range from 2.5kg to 180 kg with an accuracy of 0.05 kg. ✅[AUTO-CALIBRATION]: With the AUTO CALIBRATION Technology the bathroom scale automatically turns on as soon as you step on it and starts calibrating the sensors. Step on the scale with one foot to start it and once the readings are 0.0kg, stand on the scale and the weight machine will take the reading ✅[BACKLIT LCD PANEL]: The electronic weight machine has a backlit display which shows prominent numbers making it easy to read even at a distance. The display also has a Overload and Low Power Indicator to alert the users. ✅[AUTO OFF FEATURE]: The weighing machine has an auto off feature that removes the hassle to turn off the device after use. Just take your reading and leave the device, it will turn off after 10 seconds of no use. ✅[PREMIUM DESIGN]: The Medtech WS05 has smooth rounded corners for increased safety. The device also has a 6 mm thick toughened tempered glass making it strong. The antiskid feet at the bottom makes the scale sturdy and stable when standing over it. This can be used for home, gym and clinic. ✅[12 MONTHS WARRANTY]: We offer an 12-month replacement warranty on manufacturing defects to ensure the best customer experience. We also offer a free pick up and drop service for repair and service requests for devices under warranty. Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:52Z
-  Vendor: Medtechlife
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/WeighingScaleWS05.jpg?v=1751477952
-  Price: ₹1,499.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Pro - Surgismart](https://surgismart.in/products/medtech-compressor-nebulizer-handyneb-pro): Keep your respiratory problems at bay with MEDTECH Handyneb Pro Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Storage Compartment:The Medtech Handyneb Pro has an integrated storage compartment for you to store all the nebulizer accessories without having to worry about where to store them. Handle Design:The Medtech Handyneb Pro also has a handle integrated in the body which makes it convenient to carry around. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:51Z
+  Updated: 2025-09-28T11:46:13Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Medtech-Pro-model-Product-kit.png?v=1751477951
-  Price: ₹1,599.00 INR
-- [Buy ​Medtech Massage Gun Massager GMV4 - Surgismart](https://surgismart.in/products/medtech-massage-gun-massager-gmv4): The Medtech Gun Massager - GMV4 is the best rechargeable percussive gun massager. It is the perfect Massager made of high-quality materials with a long-lasting USB - C rechargeable battery. Its 6-speed modes and 6 massage heads, and super silent operation make it the best combination for recovery after an intense workout. The Medtech Gun Massager GMV4 is your perfect gym companion. 1. Cordless Rechargeable Gun Massager The latest Medtech Gun Massager is designed to provide a strong deep tissue massage therapy with a high-performance motor. The rechargeable battery for longer run! 2. USB-C Charging The Massager is charged by a USB-C port which is the latest universal port and makes it highly convenient to charge along with your other devices - No need to carry around another power adaptor just for one device. The display area has a sleek 4 bar LED indicator to show the level of charge in the Massager. A USB - C Cable is also included in the box! 3. 6 Detachable Attachments The Massager comes with a set of six detachable attachments so that users can target all their body parts effectively. All massage heads are designed to meet the needs of all your different muscles. The massage heads can be easily removed and installed for use after cleaning. 4. 6 Speed Settings The Massager has 6 speed levels ranging from 1400 rpm right upto 3400 rpm offering a great deal of flexibility to the user. Using this Massager helps improve muscle recovery after a workout or a physical activity and also improves the speed of your results from training. 5. Travel Case included The Massager comes with a high quality travel case which makes it super convenient for you to carry your Massager and its accessories neatly and securely. 6. Ultra Quiet Operation Super quiet motor technology makes the Massager very quiet and easy to use. Intelligent safety features like speed indicator, auto-power off in 15 mins makes the Massager safe to use. 7. Touch Buttons The Medtech Gun Massager comes with a high quality set of touch buttons that just need to be lightly touched to operate. Just long touch the power button for 2 seconds to start the device and touch the + and - buttons to adjust the speed. 8. Safe a Premium Quality The Massager is made of soft silicone material that is soft and premium to touch. The soft silicone material and the compact, ergonomic design make the Massager really easy and safe to handle and non-slippery. The Massager is also very light in weight - just 0.650 kgs making it super convenient to use. It reaches deep into your muscle tissues providing you a quick relief from muscle soreness. Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-11T09:23:49Z
-  Vendor: Medtechlife
-  Product Type: Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GUNMASSAGERGMV4mainInfrograph.jpg?v=1751477950
-  Price: ₹2,699.00 INR
+  Price: ₹1,449.00 INR
 - [Buy ​Medtech Automatic Digital BP Machine Blood Pressure Monitor BP18 - Surgismart](https://surgismart.in/products/medtech-automatic-digital-bp-machine-blood-pressure-monitor-bp18): The Medtech Blood Pressure Monitor BP18 is the best blood pressure monitor that every household should have for monitoring their family's heart health. The highly accurate and quick reading device helps you monitor your blood pressure and pulse levels conveniently in the comfort of your home. It is the best blood pressure for home use. Pulse measurement accuracy: Fast and reliable, results can be obtained within seconds and avoid inaccurate results. Large Screen: The large LCD helps customers easily read the numbers on the screen. USB Cable Power Support: No need to worry if the batteries die. You can always use the Medtech Blood Pressure Monitor with a Micro-USB cable. Memory Function to store readings: The BP monitor also has a memory function that helps you to store 90 readings for two members each! Made In India: All Medtech Blood Pressure Monitors are made by us in India giving us the expertise in providing the best quality products and services to our customers Live Hassle-Free and Live-Healthy with the Medtech Blood Pressure Monitors! Stay on top of your health with the automatic digital best blood pressure monitor from Medtech.Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-18T00:27:45Z
+  Updated: 2025-09-28T23:01:34Z
   Vendor: Medtechlife
   Product Type: B. P. Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/27_cfb758e0-eddf-4785-a4b9-e176d627a962.png?v=1751477949
   Price: ₹1,349.00 INR
-- [Buy ​Medtech Manipol Handheld Full Body Massager Machine MPV1 - Surgismart](https://surgismart.in/products/medtech-manipol-massager-mpv-1): Unwind yourself and enjoy the ultimate relaxation experience with the Medtech Full Body Manipol Massager. It is the perfect way to relax your senses.The massager has many features like: 4 Detachable Heads for Customized Massage: The massager comes with 4 different massage heads for you to enjoy different types of massage experiences. The 4 massage heads are flathead, wavy head, ball head and dead skin removal head for delivering various massage effects. Powerful Strength: The uniquely designed massager operates at a high RPM rotation speed to deliver the best sensory experience. The smart button control panel allows the users to control the speed of the rotation between 4 levels for adjusting the massager to their perfect level of comfort. Targeted Massage for Instant Relief: The massager running at a high RPM increases blood circulation in the massaged area to relieve muscle tension quickly. The long handle makes it easy to maneuver the massager over tough-to-reach spots in just one hand. Easy to Use: The massager comes with a smart button panel, which is super convenient and helps users get the perfect massage they desire. Multiple Health Benefits: Regular use of this massager can relieve anxiety, depression, digestive disorders, fibromyalgia, headaches, insomnia related to stress, myofascial pain syndrome, soft tissue strains or injuries and sports injuries, etc. Protective Fabric Cover: The massager also comes with a protective fabric cover which helps you prevent any hair damage during the massage. You can simply attach the soft fabric over your massage head and remove it easily after use for washing. Portable and Compact: The high-quality massager from Medtech weighs less than 1 kg, making it convenient to carry along with you during traveling or to your office, gym, etc. Buy your Medtech Full Body Massager and enjoy the perfect relaxation experience. The massager has multiple uses A full body massagerA massager machine for pain reliefBack neck arms legs shoulder foot massage Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:51Z
-  Vendor: Medtechlife
-  Product Type: Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/DhruvCopyofphotos-3.png?v=1751477948
-  Price: ₹1,649.00 INR
 - [Buy ​Medtech Digital Thermometer TMP 02 - Surgismart](https://surgismart.in/products/medtech-digital-thermometer-tmp-2): Medtech Handy TMP 02 DIGITAL THERMOMETER is the ideal thermometer for home and hospital use.The high accuracy sensor makes sure you get an accurate reading every time. MANUFACTURED BY MEDTECH LIFE - INDIA’S LARGEST MANUFACTURER OF HOME CARE MEDICAL DEVICES It is packed with useful features like: Beep Sound:The thermometer gves off a beeping sound when it has completed taking the reading. This makes it very convenient to use and makes sure that you do not need to keep looking at the screen while the reading is being taken. Automatic Shut-off:The thermometer is smart to switch off when the reading is not taking place. Hence making sure that you get long battery life. No Mercury: The new age thermometer is digital. The Medtech Thermometer is completely mercury-free and hence environmentally friendly. Storage Case Included:The Medtech Thermometer has a storage case in the box, making it convenient for you to store your thermometer. F/C Switchable: The thermometer has a dual scale, and the unit can be changed between Fahrenheit and Celsius with the use of just one button. Suitable For Full Family:One unit serves the entire family Light Weight:The Medtech Thermometer is lightweight and easy to carry. The carrying case included helps you to store the device quickly and securely. A thermometer is a must-have for any family, and it is an essential device one should have in their first aid kit. Most common sicknesses have an element of fever in them, and an accurate thermometer helps you monitor and track the person's temperature at regular intervals, which makes the diagnosis and symptom management more straightforward.Get your Medtech Digital Thermometer Today! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:50Z
+  Updated: 2025-09-28T10:58:27Z
   Vendor: Medtechlife
   Product Type: Digital Thermometer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-digital-thermometer-tmp-02-681850.webp?v=1751477947
-  Price: ₹160.00 INR
+  Price: ₹179.00 INR
 - [Buy ​Medtech Steamer Machine Handyvap VAP-01 - Surgismart](https://surgismart.in/products/medtech-steam-inhaler-handyvap-vap-01): A convenient, practical, and portable solution that facilitates steam inhalation at home. The Medtechlife Handyvap is the best steam inhaler for colds & coughs, and other respiratory problems. Double Wall Body: Double wall body to avoid any injury due to hot water while handling the machine. This patented design helps users to safely pick the steamer even during steaming. This makes the steaming and facial steaming super convenient and useful. Special Locking Mechanism: Traditional Steamers have a very weak lock which makes working with hot water risky. The Medtech Handyvap has a special locking mechanism to avoid accidental opening to safeguard from spilling hot water and burn. The lock is designed such that it can withstand strong pressures so the steamer does not open accidentally thus ensuring maximum safety for the user. Made in India: Medtech is a Indian Company with over 20 years of experience in the industry. The Medtech Handyvap ensures that it has been built with the best quality standards and has been designed, engineered and manufactured by Medtech Life in India! The HandyVap is ideal for children and adults. With essential features like a 100% ABS and double-walled body to prevent shocks and a unique locking system keeps the inhaler securely locked in use, preventing hot water spillage. The double-wall construction keeps the outer surface cool enough to be held by hands during use.Steam has been used for hundreds of years as a therapy for treating congestion, colds, and various ailments of the nose, throat, and upper respiratory area. Steam inhalers today have very convenient. They instantly create steam that can be inhaled for the best effect. Steam inhalers are very easy to use. Doctors worldwide recommend steam as a natural decongestant for anyone who is suffering from congestion, cold, or having trouble with sinusitis. A steam inhaler essentially gives off a fine mist of steam that quickly reaches the inner areas of the nose, sinuses, and throat. The steam provides effective and quick relief to the user. Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:50Z
+  Updated: 2025-09-28T10:53:28Z
   Vendor: Medtechlife
   Product Type: Inhaler
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/315qPfgohKL._SL1080.jpg?v=1751477946
   Price: ₹398.00 INR
 - [Buy ​Medtech Needle Burner & Syringe Destroyer - Surgismart](https://surgismart.in/products/medtech-needle-burner-syringe-destroyer): Experience unparalleled efficiency with the Medtech Needle Burner Syringe Destroyer – the ultimate solution for seamless needle disposal. Boasting a swift 2-second operation, this device combines cutting-edge technology with a high-grade steel cutter for exceptional durability. Burn and cut needles in one hole effortlessly, providing a quick and hygienic solution to medical waste. Proudly made in India, the Medtech Needle Burner ensures top-notch quality while championing the 'Make in India' initiative. Prioritize safety with its innovative design that prevents needle injuries and infections, eliminating the need for cumbersome recapping. The shock-proof and fuse-protected features guarantee a secure user experience, while the device's minimal power consumption aligns with eco-friendly practices. Designed with practicality in mind, the Medtech Needle Burner features a compact design and a removable discharge tray for easy and convenient operation. Versatile enough to work on needles ranging from 19 to 35 gauge, this device is a valuable addition to any medical setting. Choose the Medtech Needle Burner Syringe Destroyer for a swift, safe, and efficient solution to needle disposal, raising the standards of your medical facility.Manufactured in India by MEDTECH LIFE Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-05T06:58:08Z
+  Updated: 2025-09-28T10:50:29Z
   Vendor: Medtechlife
   Product Type: Needle Burner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-needle-burner-syringe-destroyer-524534.webp?v=1751477944
-  Price: ₹2,499.00 INR
+  Price: ₹2,749.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Smart - Surgismart](https://surgismart.in/products/medtech-nebulizer-handyneb-smart): Keep your respiratory problems at bay with MEDTECH Handyneb Smart Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Light Weight:The Medtech Handyneb Smart weighs just 1.5kgs which is really light and easy to carry around. Handle Design:The Medtech Handyneb Smart also has a handle integrated in the body which makes it convenient to carry around. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:50Z
+  Updated: 2025-09-28T10:44:51Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Addasubheading.png?v=1751477943
-  Price: ₹1,249.00 INR
+  Price: ₹1,299.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Classic - Surgismart](https://surgismart.in/products/neb-classic): Keep your respiratory problems at bay with MEDTECH Handyneb Classic Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Light Weight:The Medtech Handyneb Classic weighs just 1.3kgs which is extremely light and easy to carry around. The design is compact ensuring that you can carry the device around with one hand. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-08-13T07:36:49Z
+  Updated: 2025-09-28T10:41:06Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitleddesign_1.png?v=1751477939
-  Price: ₹1,149.00 INR
+  Price: ₹1,249.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Gold - Surgismart](https://surgismart.in/products/medtech-nebulizer-handyneb-gold): Keep your respiratory problems at bay with MEDTECH Handyneb Gold Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Travel Pouch Included:Travel Hassle Free with the Handyneb Gold Nebulizer as you get an included travel pouch with the device that helps you to store your device and its accessories. Light Weight:The Medtech Handyneb Gold weighs just 1.5kgs which is really light and easy to carry around.Handle Design:The Medtech Handyneb Gold also has a handle integrated in the body which makes it convenient to carry around.Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T08:00:19Z
+  Updated: 2025-09-28T10:04:07Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1751477937
   Price: ₹1,499.00 INR
-- [Classic Scrub Suits | Ideal for doctors, dentists, vets, nurses & healthcare professionals](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-28T00:30:05Z
+- [Classic Scrub Suit](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
+  Updated: 2025-09-28T21:45:44Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3295,8 +3220,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
     Price: ₹799.00 INR
-- [Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-09-27T12:08:16Z
+- [Classic Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
+  Updated: 2025-09-28T23:35:50Z
   Vendor: Surgismart
   Product Type: Lab Coat
   Availability: Available
@@ -3337,14 +3262,14 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-28T08:00:16Z
-  Total Products: 139
+  Updated: 2025-09-28T11:46:14Z
+  Total Products: 147
 - [Buy ​GST 12% - Surgismart](https://surgismart.in/collections/gst-12): - Surgismart
-  Updated: 2025-09-28T08:00:16Z
-  Total Products: 50
+  Updated: 2025-09-28T11:47:25Z
+  Total Products: 44
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
-  Updated: 2025-09-18T14:01:29Z
-  Total Products: 23
+  Updated: 2025-09-28T11:47:23Z
+  Total Products: 22
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
   Updated: 2025-08-01T11:05:28Z
   Total Products: 9
@@ -3361,7 +3286,7 @@
   Updated: 2025-08-23T11:16:56Z
   Total Products: 9
 - [Buy ​Amkay - Surgismart](https://surgismart.in/collections/amkay): - Surgismart
-  Updated: 2025-08-01T11:05:28Z
+  Updated: 2025-09-28T11:47:25Z
   Total Products: 4
 - [Buy ​Samso - Surgismart](https://surgismart.in/collections/samso): - Surgismart
   Updated: 2025-09-16T10:36:42Z
@@ -3379,7 +3304,7 @@
   Updated: 2025-09-17T11:15:46Z
   Total Products: 65
 - [Buy ​Medtech - Surgismart](https://surgismart.in/collections/medtech): - Surgismart
-  Updated: 2025-09-28T08:00:17Z
+  Updated: 2025-09-28T11:46:14Z
   Total Products: 11
 - [Buy ​Surgical Instruments - Surgismart](https://surgismart.in/collections/surgical-instruments): - Surgismart
   Updated: 2025-08-01T11:05:29Z
@@ -3397,17 +3322,17 @@
   Updated: 2025-09-12T11:15:05Z
   Total Products: 266
 - [Buy ​BP Monitors - Surgismart](https://surgismart.in/collections/bp-monitors): - Surgismart
-  Updated: 2025-08-01T11:05:29Z
+  Updated: 2025-09-28T11:01:49Z
   Total Products: 6
 - [Buy ​Omron - Surgismart](https://surgismart.in/collections/omron): - Surgismart
   Updated: 2025-08-01T11:05:29Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-09-28T08:00:17Z
-  Total Products: 37
+  Updated: 2025-09-28T11:47:25Z
+  Total Products: 38
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
-  Updated: 2025-08-01T11:05:29Z
-  Total Products: 4
+  Updated: 2025-09-28T11:47:25Z
+  Total Products: 6
 - [Buy ​iCare - Surgismart](https://surgismart.in/collections/icare): - Surgismart
   Updated: 2025-09-18T13:57:02Z
   Total Products: 10
@@ -3472,7 +3397,7 @@
   Updated: 2025-09-18T14:01:28Z
   Total Products: 5
 - [Buy ​First Aid & Emergency Essentials - Surgismart](https://surgismart.in/collections/first-aid-emergency-essentials): - Surgismart
-  Updated: 2025-08-01T11:05:31Z
+  Updated: 2025-09-28T11:47:24Z
   Total Products: 1
 - [Buy ​Hospital & Home Care Beds - Surgismart](https://surgismart.in/collections/hospital-home-care-beds): - Surgismart
   Updated: 2025-09-18T14:01:32Z
@@ -3484,19 +3409,19 @@
   Updated: 2025-09-18T14:02:27Z
   Total Products: 120
 - [Buy ​Airbeds - Surgismart](https://surgismart.in/collections/airbeds): - Surgismart
-  Updated: 2025-09-18T14:01:32Z
+  Updated: 2025-09-28T11:47:24Z
   Total Products: 4
 - [Buy ​Thermometer - Surgismart](https://surgismart.in/collections/thermometer): - Surgismart
-  Updated: 2025-09-16T10:36:15Z
+  Updated: 2025-09-28T11:47:23Z
   Total Products: 4
 - [Buy ​Hearing Aid - Surgismart](https://surgismart.in/collections/hearing-aid): - Surgismart
   Updated: 2025-08-01T11:05:31Z
   Total Products: 0
 - [Buy ​Weighing scale - Surgismart](https://surgismart.in/collections/weighing-scale): - Surgismart
-  Updated: 2025-09-16T10:36:41Z
+  Updated: 2025-09-28T11:35:36Z
   Total Products: 6
 - [Buy ​Digital Weighing scale - Surgismart](https://surgismart.in/collections/digital-weighing-scale): - Surgismart
-  Updated: 2025-09-16T10:36:41Z
+  Updated: 2025-09-28T11:35:36Z
   Total Products: 4
 - [Buy ​Manual Weighing scale - Surgismart](https://surgismart.in/collections/manual-weighing-scale): - Surgismart
   Updated: 2025-08-01T11:05:32Z
@@ -3508,13 +3433,13 @@
   Updated: 2025-08-23T11:16:56Z
   Total Products: 27
 - [Buy ​Doctor's Corner - Surgismart](https://surgismart.in/collections/doctors-corner): - Surgismart
-  Updated: 2025-08-23T11:16:56Z
-  Total Products: 14
+  Updated: 2025-09-28T11:47:24Z
+  Total Products: 15
 - [Buy ​Cushion - Surgismart](https://surgismart.in/collections/cushion): - Surgismart
   Updated: 2025-09-18T14:02:25Z
   Total Products: 26
 - [Massagers](https://surgismart.in/collections/massagers)
-  Updated: 2025-08-01T11:05:32Z
+  Updated: 2025-09-28T11:02:40Z
   Total Products: 2
 - [Holloware](https://surgismart.in/collections/holloware)
   Updated: 2025-08-01T11:05:32Z
@@ -3535,11 +3460,14 @@
   Updated: 2025-08-01T11:05:32Z
   Total Products: 0
 - [Adult Diapers](https://surgismart.in/collections/adult-diapers)
-  Updated: 2025-08-20T18:23:31Z
+  Updated: 2025-09-28T11:47:24Z
   Total Products: 5
 - [Romsons](https://surgismart.in/collections/romsons)
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
+- [Medical Apparels](https://surgismart.in/collections/medical-apparels)
+  Updated: 2025-09-28T11:39:13Z
+  Total Products: 1
 
 ## Store Pages
 
