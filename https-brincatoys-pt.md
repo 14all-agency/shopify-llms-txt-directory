@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-29T00:01:03.597Z
+- Updated At: 2025-09-29T04:01:02.913Z
 
 ## Products
 
@@ -910,7 +910,7 @@ juego. Incluye mantita de color rosa. Edad recomendada +3 años.
   Price: 47,99 € EUR
 - [Boneca Sweet Baby 42 cm](https://brincatoys.pt/products/boneca-sweet-baby-42-cm): Linda boneca, de 42 cm, com chupeta.
 Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualidade.O corpo de pano enchido com um material macio.
-  Updated: 2025-09-28T14:31:40Z
+  Updated: 2025-09-29T02:31:47Z
   Vendor: Brincatoys
   Product Type: Bonecas
   Availability: Available
@@ -4017,7 +4017,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-sequence-tour-edition-847505021-brincatoys-1178693951.jpg?v=1752815892
   Price: 16,50 € EUR
 - [Jogo Summer Splash](https://brincatoys.pt/products/jogo-summer-splash): Os jogadores tomam decisões inteligentes sobre quando mover ou pular pelos espaços até a piscina. O objetivo é mover todos os seus animais para o outro lado e fazer o corredor avançar a cada rodada. O primeiro jogador a cruzar a linha de chegada na corrida para a piscina vence. Regras em português no interior.  Dimensão: 24 x 16 x 3 cm.Idade Recome
-  Updated: 2025-09-28T03:55:23Z
+  Updated: 2025-09-29T03:29:02Z
   Vendor: Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -8970,7 +8970,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-3-rodas-lightyear-172869822-toy-story-1178695558.jpg?v=1752807975
   Price: 39,99 € EUR
 - [Trotinete 3 rodas Peppa Pig](https://brincatoys.pt/products/trotinete-3-rodas-peppa-pig): Trotinete de 3 rodas da Peppa Pig colorida, com estrutura de metal resistente, ampla base para os pés e estabilidade garantida pelas três rodas (1 dianteira e 2 traseiras). Segura e adequada para as primeiras corridas sobre rodas e para o primeiro slalom dos seus filhos. Guiador ajustável em duas posições: 67 e 70 cm e rodas silenciosas e transl...
-  Updated: 2025-08-21T00:09:23Z
+  Updated: 2025-09-29T01:40:00Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -12359,7 +12359,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/frozen-elsa-e-nook-772215923-princesas-disney-1178696954.webp?v=1752902411
   Price: 34,99 € EUR
 - [Carro de brincar Lamborghini Countach LPI 800-4 preto](https://brincatoys.pt/products/lamborghini-countach-lpi-800-4-preto): Leve a emoção das pistas para casa com o carro de brincar Lamborghini Countach LPI 800-4 preto. Réplica detalhada e durável em escala 1/18. Colecione agora!
-  Updated: 2025-09-25T10:31:00Z
+  Updated: 2025-09-29T02:17:51Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14929,7 +14929,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-minifiguras-surpresa-233931724-043377357414-godzilla-vs-kong-1178698577.jpg?v=1752929177
   Price: 10,00 € EUR
 - [Carros Disney Mre Pillar Durev](https://brincatoys.pt/products/cars-mre-pillar-durev): Descubra o encanto do Cars - Mre Pillar Durev, um brinquedo estimulante e cativante diretamente do universo fascinante de "Cars", criado pela Disney Pixar, para as crianças colecionarem e construiemr a sua própria frota de carros! Repleto de cores vibrantes e com um design dinâmico, este veículo é confeccionado em metal resistente, desenhado para perdurar através de incontáveis aventuras imaginárias. Além disso, o Mre Pillar Durev destaca-se pelo seu acabamento impecável com detalhes meticulosos que encantam à primeira vista. Inicialmente, o que captura sua atenção é a lustruosa carroceria prateada adornada por chamas vermelhas e negras, conferindo ao brinquedo um ar de velocidade e paixão. Acompanhado por rodas duráveis e bem encaixadas, proporciona uma experiência de brincadeira suave e contínua. Ademais, a atenção aos detalhes estende-se até o interior do veículo, com um acabamento sofisticado que inspira admiração. Além do seu apelo visual, este modelo promove o desenvolvimento da coordenação motora e da criatividade nas crianças. Elas podem criar cenários emocionantes, estimulando a imaginação e incentivando o jogo cooperativo com amigos ou familiares. É, portanto, um veículo tanto para colecionadores como para crianças que adoram a série "Cars" e desejam levar sua paixão para o próximo nível. Falando em colecionabilidade, vale destacar que o Cars - Mre Pillar Durev vem numa embalagem atraente, que dá um vislumbre do universo "Cars" através do mapa dos Salt Flats incluído, adicionando valor ao artigo enquanto objeto colecionável. Cada emocionante veículo fundido na escala 1:55 apresenta detalhes fiéis aos filmes e rodas giratórias, sendo adequado para crianças a partir dos 3 anos, este carro metálico é robusto o suficiente para suportar as brincadeiras mais entusiásticas. Em suma, com o Mre Pillar Durev da coleção Disney Pixar "Cars",investe em: Design atraente inspirado no filme "Cars" Qualidade durável e acabamento detalhado Estímulo à criatividade e coordenação motora Dimensão: 14 x 16,50 x 3 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-09-21T17:16:48Z
+  Updated: 2025-09-29T01:52:51Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -15587,7 +15587,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-piplup-misdreavus-e-magmar-23360424-0191726709459-pokemon-1178699165.jpg?v=1752936741
   Price: 22,50 € EUR
 - [Figuras Pokémon - Machoc, Pikachu, Alolan Grotadmorv](https://brincatoys.pt/products/figuras-pokemon-machoc-pikachu-1-alolan-grotadmorv): Descubra as Figuras Pokémon articuladas - Machoc, Pikachu e Alolan Grotadmorv para colecionadores e fãs. Detalhes autênticos para construir a sua equipa.!
-  Updated: 2025-08-21T00:01:13Z
+  Updated: 2025-09-29T00:36:13Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -16056,7 +16056,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-festa-da-panqueca-diversao-criativa-na-cozinha-90127924-5010993779741-play-doh-1178699570.jpg?v=1752943822
   Price: 19,99 € EUR
 - [Pistola Nerf Elite 2.0 Prospect QS-4 | Brinquedo para Ação](https://brincatoys.pt/products/nerf-elite-2-0-prospect-qs-4): Pistola Nerf Elite 2.0 Prospect QS-4. Desafie amigos com disparos em rajada e preciseza! Ideal para aprimorar habilidades e criar aventuras.
-  Updated: 2025-09-28T14:44:15Z
+  Updated: 2025-09-29T02:53:37Z
   Vendor: Nerf
   Product Type: Nerf
   Availability: Available
@@ -16385,7 +16385,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-peluche-de-actividades-canguru-829121024-brincatoys-1178699880.jpg?v=1752789017
   Price: 28,50 € EUR
 - [Conjunto Maquilhagem Infantil Beauty](https://brincatoys.pt/products/conjunto-de-maquilhagem-infantil-beauty): Encante-se com o Conjunto de Maquilhagem Infantil Beauty! Seguro, duradouro e perfeito para o jogo criativo. Ideal para presentes
-  Updated: 2025-09-27T18:45:40Z
+  Updated: 2025-09-29T02:20:10Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -17932,7 +17932,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lol-surprise-tweens-hana-groove-moda-e-aventuras-incriveis-779165824-0035051591658-lol-surprise-1178701065.jpg?v=1752784095
   Price: 29,99 € EUR
 - [LOL Surprise Tweens - Flora Moon: A Boneca cheia de estilo](https://brincatoys.pt/products/l-o-l-surprise-tweens-flora-moon): Expresse a criatividade e a imaginação das crianças com a LOL Surprise Tweens - Flora Moon. A boneca dos sonhos com um look moderno e cheio de atitude!
-  Updated: 2025-09-25T17:21:22Z
+  Updated: 2025-09-29T03:26:59Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -18639,7 +18639,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77242-carro-de-corrida-ferrari-sf-24-667724225-5702017816098-lego-1178701549.jpg?v=1752973683
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77243 – Carro de Corrida Oracle Red Bul](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-oracle-red-bull-racing-rb20-f1): Viva a adrenalina com o LEGO Speed Champions 77243 – Carro de Corrida Oracle Red Bull Racing RB20 F1! Construa um modelo autêntico e surpreendente.
-  Updated: 2025-09-28T08:42:46Z
+  Updated: 2025-09-29T03:11:49Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -19815,7 +19815,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-cars-disney-sally-miniatura-oficial-1-55-035374325-0887961537437-cars-1193924060.jpg?v=1758484213
   Price: 11,99 € EUR
 - [Figura de Borracha Disney – Feliz para Crianças](https://brincatoys.pt/products/figura-de-borracha-disney-feliz): Traga a alegria do clássico 'Branca de Neve e os Sete Anões' para casa com a figura de borracha Disney – Feliz. Perfeita para mãos pequenas!
-  Updated: 2025-09-28T16:50:08Z
+  Updated: 2025-09-29T03:43:43Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
