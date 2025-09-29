@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-29T04:01:11.561Z
+- Updated At: 2025-09-29T08:01:16.458Z
 
 ## Products
 
@@ -2184,7 +2184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm-dog-kennel-352261.jpg?v=1700648234
   Price: £152.99 GBP
 - [43" Heavy Duty Foldable Dog Crate with Wheels & Removable Tray](https://veryimportantpets.shop/products/43-heavy-duty-dog-crate-foldable-dog-cage-with-openable-top-locks-removable-tray-wheels): Keep pets in place with this spacious PawHut dog cage. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-09-29T07:30:55Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2543,7 +2543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/adjustable-wooden-pet-gate-freestanding-dog-barrier-fence-doorway-3-panels-safety-gate-w-lockable-door-296121.jpg?v=1700662287
   Price: £62.99 GBP
 - [Freestanding Pet Gate 4 Panel Wooden Dog Barrier Folding Safety Fence with Support Feet up to 204cm Long 61cm Tall for Doorway Stairs](https://veryimportantpets.shop/products/freestanding-pet-gate-4-panel-wooden-dog-barrier-folding-safety-fence-with-support-feet-up-to-204cm-long-61cm-tall-for-doorway-stairs): This PawHut dog gate for doorway will safely and effectively limit the range of your pet's activities. Shop online at Very Important Pets
-  Updated: 2025-09-28T22:03:18Z
+  Updated: 2025-09-29T07:30:55Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2813,7 +2813,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/complete-dog-agility-training-set-with-portable-bag-dog-agility-177593.jpg?v=1700658529
   Price: £44.99 GBP
 - [Elevated Stainless Steel Pet Feeder 25H cm](https://veryimportantpets.shop/products/elevated-stainless-steel-pet-feeder-25h-cm): Make meal times easier for your pets with this cat bowl with stand from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-28T23:30:56Z
+  Updated: 2025-09-29T07:31:04Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3325,7 +3325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-28T15:30:56Z
+  Updated: 2025-09-29T07:30:56Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3977,7 +3977,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chic-cat-scratcher-lounge-bed-includes-catnip-58x295cm-scratching-bed-560328.jpg?v=1700659173
   Price: £26.99 GBP
 - [TV-Shaped Cat Scratcher - Fun & Durable for Indoor Cats | Very Important Pets](https://veryimportantpets.shop/products/tv-shaped-scratching-board-with-scratcher-catnip-toy-rat-cat-scratcher-for-indoor-cats-43-x-23-x-32-5cm): Channel your cat's scratching and play instincts with our TV-shaped scratcher. Perfect for indoor cats up to 3kg, it combines a hideout and a durable scratching board. Comes with a toy rat and catnip to entertain and attract your furry friend. Easy to assemble, eco-friendly, and keeps furniture safe.
-  Updated: 2025-09-26T15:31:20Z
+  Updated: 2025-09-29T07:30:55Z
   Vendor: PawHut
   Product Type: Cat Scratch Mat
   Availability: Available
@@ -4019,7 +4019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-28T23:30:55Z
+  Updated: 2025-09-29T07:30:58Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -8091,7 +8091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-lamb-rice-working-dry-15-kg-324816.png?v=1700648692
     Price: £38.01 GBP
 - [Skinners Field & Trial Maintenance Plus](https://veryimportantpets.shop/products/skinners-field-trial-maintenance-plus): Skinners Field &amp; Trial Maintenance Plus is a complete dog food specially developed and formulated to support dogs with a low to moderate activity level. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:56Z
+  Updated: 2025-09-29T06:47:20Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
