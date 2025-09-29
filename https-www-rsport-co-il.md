@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-29T04:01:02.939Z
+- Updated At: 2025-09-29T08:01:00.560Z
 
 ## Products
 
@@ -4448,7 +4448,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [חולצת פריז סן ז'רמן בית 24/25](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-בית-24-25): החולצה הביתית של פריז סן ז'רמן 24/25 עשויה 100% פוליאסטר מנדף לחות, שומרת עליך יבש ונוח.
-  Updated: 2025-09-18T17:18:22Z
+  Updated: 2025-09-29T06:27:47Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
