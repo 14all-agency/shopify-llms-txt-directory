@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-09-28T16:00:30.229Z
+- Updated At: 2025-09-29T04:00:29.022Z
 
 ## Products
 
@@ -2031,7 +2031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790759_1_3d.jpg?v=1756430532
     Price: $145.00 USD
 - [The Outspoken Box Tee](https://honestybrutal.com/products/the-outspoken-box-tee): The Artist Statement A declaration of identity and motion. The Honesty Brutal logo at the front speaks with clarity and force, while Serpentine Descent unfurls across the back—an alcohol ink work by Alex Z. Wang that channels fluidity, turbulence, and rhythm. More than a tee, it’s a canvas in motion: bold from every angle, unapologetically art. The Technicals Relaxed boxy fit Heavyweight 7.1 oz fabric 100% combed cotton Dropped shoulder design Wide ribbed neckline Preshrunk to minimize shrinkage Double-needle hems, shoulder-to-shoulder tape Transparency Made to order. Please allow about a week for production before shipping.
-  Updated: 2025-09-07T04:18:45Z
+  Updated: 2025-09-29T00:09:57Z
   Vendor: Apliiq
   Product Type: tshirts
   Availability: Available
@@ -2096,6 +2096,132 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429593_7536.jpg?v=1757218714
     Price: $75.00 USD
+- [The Quintessential Organic Tee](https://honestybrutal.com/products/the-quintessential-organic-tee): The AS Colour Staple Organic Tee (5001G) is the ultimate choice for brands looking to launch high-quality print on demand apparel. Made from soft, durable, and eco-friendly organic cotton, this premium tee is perfect for custom printing, offering a smooth surface for bold designs. Whether you're creating streetwear, merch drops, or sustainable fashion, this tee delivers a flawless print every time. Designed for comfort and durability, this organic cotton t-shirt is an ideal option for dropshipping and eCommerce fulfillment. Apliiq’s print on demand fulfillment solutions ensure fast production and direct shipping, so you can focus on growing your brand without inventory worries. Private labeling options make it easy to create a premium, retail-ready product. Get started with Apliiq and bring your designs to life on a high-quality, sustainable tee. From custom streetwear to branded essentials, the AS Colour Staple Organic Tee is the perfect canvas for your creative vision. Benefits Perfect for custom branding Soft, breathable, and comfortable Premium feel with long-lasting wear Eco-friendly choice for sustainable fashion Ideal for print-on-demand businesses Versatile for casual or streetwear High-quality fabric holds prints beautifully Resists shrinkage for a consistent fit Effortless style for everyday wear Ethically made for conscious consumers Features Regular fit Mid-weight, 5.3 oz fabric 100% combed organic cotton Marles blend with 15% viscose Neck ribbing with twin needle stitch Side-seamed construction Shoulder-to-shoulder tape Preshrunk to minimize shrinkage Sustainably grown cotton No herbicides or pesticides used For environmental and human friendly reason, this product is only made when you order it. Typically, this product will be made in about a week, we will send you tracking information as soon as it's in the mail.
+  Updated: 2025-09-29T00:13:47Z
+  Vendor: Apliiq
+  Product Type: tshirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+  - [black / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356685020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [black / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356717788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [black / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356750556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [black / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356783324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [black / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356816092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [black / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356848860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Walnut / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356914396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Walnut / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356947164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Walnut / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356979932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Walnut / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357012700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Walnut / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357045468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Walnut / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357078236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Price: $45.00 USD
+  - [Eucalyptus / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361403612)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Eucalyptus / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361436380)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Eucalyptus / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361469148)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Eucalyptus / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361501916)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Eucalyptus / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361534684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Eucalyptus / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361567452)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [white / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361632988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [white / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361665756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [white / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361698524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [white / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361731292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [white / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361764060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [white / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361796828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Natural / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361862364)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Natural / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361895132)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Natural / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361927900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Natural / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361960668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Natural / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361993436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Price: $45.00 USD
+  - [Natural / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974362026204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Price: $45.00 USD
 
 ## Collections
 
@@ -2121,11 +2247,11 @@
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-09-08T18:49:02Z
-  Total Products: 51
+  Updated: 2025-09-29T00:07:33Z
+  Total Products: 52
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
-  Updated: 2025-09-08T18:49:02Z
-  Total Products: 37
+  Updated: 2025-09-29T00:07:33Z
+  Total Products: 38
 - [Bombers](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
   Updated: 2025-08-29T01:24:33Z
   Total Products: 9
