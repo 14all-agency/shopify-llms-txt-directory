@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-28T20:00:36.094Z
+- Updated At: 2025-09-29T00:00:35.462Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -3379,7 +3379,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/FacebookMarketplace-PhotoRoom_d8200508-3881-4459-b6b4-996fa2162cce.jpg?v=1749460291
     Price: £19.80 GBP
 - [Elegant Citrine Bracelet – Radiate Positivity & Joy](https://crystalshealing.co.uk/products/citrine-bracelet-6-mm): Step into a world of elegance and positivity with the stunning Citrine Bracelet. This exquisite piece features 6mm citrine beads, known for their warm golden hues that attract abundance and joy. A delicate silver rondelle bead adds a refined touch, perfectly complementing the vibrant citrine gems on this comfortable, elasticated bracelet. Citrine, celebrated for its transformative energy, is believed to inspire success, confidence, and positivity. Each bead reflects meticulous craftsmanship and care, making this bracelet more than just an accessory—it’s a symbol of empowerment and optimism. Wear the Citrine bracelet as a reminder of your limitless potential and let its radiant charm uplift your spirit every day. Whether you’re dressing up or keeping it casual, this timeless piece is designed to shine with you on every step of your journey.
-  Updated: 2025-09-25T11:50:02Z
+  Updated: 2025-09-28T20:35:47Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
