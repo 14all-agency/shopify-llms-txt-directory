@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-09-28T20:00:34.914Z
+- Updated At: 2025-09-29T00:00:36.577Z
 
 ## Products
 
@@ -12512,7 +12512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-1sd-am109-17-spencersweater-black-modelwood.jpg?v=1719348313
     Price: $245.00 USD
 - [Buy Wellington Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/wellington-throw): buy wellington throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-28T16:13:30Z
+  Updated: 2025-09-28T20:21:30Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
