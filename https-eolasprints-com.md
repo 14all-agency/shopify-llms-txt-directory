@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-09-29T12:00:32.231Z
+- Updated At: 2025-09-29T16:00:31.562Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-09-29T11:52:04Z
+  Updated: 2025-09-29T14:22:57Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -855,7 +855,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-pellets-white-round-slightly-500-g-880.webp?v=1726221908
     Price: €18.90 EUR
 - [Pla Matte Filament 1.75mm 1kg Red Black Blue](https://eolasprints.com/products/pla-matte-filament): Eolas Prints PLA matte filament in red offers a smooth, professional finish for 3D models. This 1.75mm Eolas Prints PLA is also available in black and blue.
-  Updated: 2025-09-29T11:29:23Z
+  Updated: 2025-09-29T12:46:21Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
