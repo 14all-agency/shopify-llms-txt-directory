@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-09-29T08:00:29.008Z
+- Updated At: 2025-09-29T12:00:29.381Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-09-29T06:33:55Z
+  Updated: 2025-09-29T08:28:06Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -95,21 +95,21 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-09-29T07:38:15Z
+  Updated: 2025-09-29T11:29:05Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/iinew.jpg?v=1747010129
   Price: $69.95 NZD
 - [Fix Iron First by Dr Libby](https://www.bioblends.com/products/fix-iron-first): Fix Iron First - Dr Libby's new book out now You don’t have to accept feeling flat, foggy, anxious or exhausted as your “new normal”. When iron levels are low, everything feels harder. Your energy fades. Your mood shifts. Your resilience diminishes. And your body simply cannot function at its best – because so many of its vital processes depend on robust iron stores. Yet too often, the true impact of low iron is missed or misunderstood. Many people know – or suspect — that their iron is low, but they don’t realise how deeply it could be affecting them. Some have tried to correct it, only to find themselves back where they started. Others haven’t truly addressed it yet, thinking it couldn’t possibly be behind how lousy they feel. What’s not recognised often enough is that low iron doesn’t just make you tired. It can alter your brain chemistry, slow your metabolism, impact your thyroid, disturb your sleep and lower your emotional resilience. It affects how you think, how you feel, how you show up in the world – every single day. Fix Iron First is a call to change that. This book is for anyone who has ever felt persistently tired, anxious, low in mood, or disconnected from their spark – and not known why. It’s for parents watching a child struggle with energy or concentration. It’s for women navigating the rhythms of their menstrual cycle or the shifts of perimenopause. It’s for anyone who feels like they’re “doing everything right” but still doesn’t feel like themselves – or who has tried, unsuccessfully, to restore their iron levels and is still searching for answers.
-  Updated: 2025-09-29T05:44:46Z
+  Updated: 2025-09-29T10:26:59Z
   Vendor: Dr Libby
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1750636809
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-09-29T07:38:20Z
+  Updated: 2025-09-29T11:29:10Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -133,13 +133,13 @@
 ## Collections
 
 - [Home page](https://www.bioblends.com/collections/frontpage)
-  Updated: 2025-09-28T11:24:02Z
+  Updated: 2025-09-29T11:21:32Z
   Total Products: 2
 - [The Bio Blends Range](https://www.bioblends.com/collections/all)
-  Updated: 2025-09-28T11:24:02Z
+  Updated: 2025-09-29T11:21:32Z
   Total Products: 11
 - [FULL PRICED ITEMS](https://www.bioblends.com/collections/full-priced-items)
-  Updated: 2025-09-28T11:24:02Z
+  Updated: 2025-09-29T11:21:32Z
   Total Products: 13
 
 ## Blogs
