@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-28T16:00:38.458Z
+- Updated At: 2025-09-29T04:00:40.449Z
 
 ## Products
 
@@ -6000,7 +6000,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Plum exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:10Z
+  Updated: 2025-09-29T02:13:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -33729,6 +33729,9 @@
     Author: User
   - [Tablecloth Care Tips that Extend Their Lifespan](https://thetableclothstore.com/blogs/news/tablecloth-care-tips-that-extend-their-lifespan): Tablecloth Care Tips that Extend Their Lifespan
     Updated: 2025-09-25T01:32:14Z
+    Author: User
+  - [Trending Tablecloth Colors and Patterns for Modern Homes](https://thetableclothstore.com/blogs/news/trending-tablecloth-colors-and-patterns-for-modern-homes): Trending Tablecloth Colors and Patterns for Modern Homes
+    Updated: 2025-09-29T00:42:40Z
     Author: User
 
 ## Store Pages
