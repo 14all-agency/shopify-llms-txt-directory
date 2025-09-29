@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-29T04:00:45.050Z
+- Updated At: 2025-09-29T08:00:45.591Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -10248,7 +10248,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £70.00 GBP
 - [Engravable Disc Necklace | Gold | Lily Blanche](https://www.lilyblanche.com/products/engravable-disc-necklace-gold): Our gold engravable disc necklaces let you personalise your pendant with your choice  of engraving text and style. The ideal gift for her. Shop now.
-  Updated: 2025-09-01T14:14:58Z
+  Updated: 2025-09-29T07:31:02Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
