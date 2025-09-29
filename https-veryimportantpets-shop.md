@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-29T00:01:13.892Z
+- Updated At: 2025-09-29T04:01:11.561Z
 
 ## Products
 
@@ -10120,7 +10120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-just-6-lamb-with-veg-gravy-complete-grain-free-wet-dog-food-8-x-380g-adult-wet-649436.jpg?v=1708950872
   Price: £15.70 GBP
 - [Harringtons Just 6 Complete Adult Dog Multipack Trays 16x380g](https://veryimportantpets.shop/products/harringtons-just-6-complete-adult-dog-multipack-trays-16x380g): Harringtons Dog Just 6 Wet Multipack features tasty, natural ingredients for a happy, healthy pup. High in meat or fish content for optimal nutrition.
-  Updated: 2025-09-27T10:04:55Z
+  Updated: 2025-09-29T00:06:23Z
   Vendor: Harringtons
   Product Type: Adult Wet
   Availability: Available
@@ -14493,7 +14493,7 @@
     Availability: Available
     Price: £15.12 GBP
 - [Wahl Pet Cologne Bundle](https://veryimportantpets.shop/products/wahl-pet-cologne-bundle): Wahl Pet Cologne Bundle. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:54:10Z
+  Updated: 2025-09-29T02:18:08Z
   Vendor: Wahl
   Product Type: Cologne & Perfume
   Availability: Available
@@ -25139,7 +25139,7 @@ Omega-6 & 3 for skin.
     Author: G Root
     Tags: All Posts, Cat
   - [Sleepy Kitties: Why Cats Sleep So Much & What’s Normal](https://veryimportantpets.shop/blogs/news/sleepy-kitties-why-cats-sleep-so-much): Sleepy Kitties: Why Cats Sleep So Much & What’s Normal
-    Updated: 2025-09-28T21:18:29Z
+    Updated: 2025-09-29T02:02:20Z
     Author: Graham Root
     Tags: Cat, Cat Behaviour, Kitten
   - [Decoding Feline Behaviour: Common Cat Quirks](https://veryimportantpets.shop/blogs/news/decoding-feline-behavior-common-cat-quirks): <span>Cats have a range of peculiar habits, from kneading and box obsession to the enigmatic purpose of their whiskers. By exploring these quirks, we gain insights into the complex world of feline behaviour and how their evolutionary history and domestication process has shaped it.</span>
@@ -25194,11 +25194,11 @@ Omega-6 & 3 for skin.
     Updated: 2024-09-20T21:21:56Z
     Author: Graham Root
   - [The Psychology Behind Your Cat's Mysterious Behaviour](https://veryimportantpets.shop/blogs/news/the-psychology-behind-your-cats-mysterious-behaviour): The Psychology Behind Your Cat's Mysterious Behaviour
-    Updated: 2025-09-28T21:02:15Z
+    Updated: 2025-09-29T02:02:24Z
     Author: Very Important Pets Shop
     Tags: Cat, Cat Behaviour, Cat Psychology
   - [The Ultimate Checklist for Bringing Home a New Puppy](https://veryimportantpets.shop/blogs/news/the-ultimate-checklist-for-bringing-home-a-new-puppy): The Ultimate Checklist for Bringing Home a New Puppy
-    Updated: 2025-09-28T14:32:26Z
+    Updated: 2025-09-29T02:02:27Z
     Author: Very Important Pets Shop
     Tags: Dog, New Home, Puppy
 
