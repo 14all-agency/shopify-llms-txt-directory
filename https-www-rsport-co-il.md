@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-29T08:01:00.560Z
+- Updated At: 2025-09-29T12:01:04.929Z
 
 ## Products
 
@@ -12884,7 +12884,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק לבנה מהדורת זהב | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:36Z
+  Updated: 2025-09-29T09:36:54Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -18140,7 +18140,7 @@
     Availability: Not Available
     Price: ‏110.00 ‏₪ ILS
 - [חליפת ילדים ארוכה ריאל מדריד בית 24/25](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-בית-24-25): חליפת ילדים ארוכה ריאל מדריד בית 24/25 עשויה מבד נושם, מנדף זיעה, המתייבש במהירות ומתאים לכל פעילות ספורטיבית ממושכת. מושלם לריצה או הליכה
-  Updated: 2025-09-18T18:30:58Z
+  Updated: 2025-09-29T10:35:06Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -45818,7 +45818,7 @@
   Updated: 2025-09-27T11:19:20Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 928
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-24T19:15:59Z
@@ -45839,7 +45839,7 @@
   Updated: 2025-09-28T11:19:02Z
   Total Products: 36
 - [חולצות מילאן ומוצרי ספורט | Ac Milan](https://www.rsport.co.il/collections/מילאן): רכוש את חולצת מילאן המועדפת עליך. מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת מילאן במחירים משתלמים
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 41
 - [טוטנהאם חולצות כדורגל, חליפות ומוצרי ספורט | Tottenham Hotspur](https://www.rsport.co.il/collections/טוטנהאם): חולצות טוטנהאם, חליפות כדורגל ומוצרי אוהדים לקנייה אונליין מאובטחת. מבחר איכותי לכל גיל – אוהדי Tottenham נהנים מסטייל, נוחות ומקצועיות.
   Updated: 2025-09-19T11:16:57Z
@@ -45857,13 +45857,13 @@
   Updated: 2025-09-18T18:31:02Z
   Total Products: 18
 - [חולצות כדורגל ברצלונה ומוצרי ספורט של המועדון מבחר רחב של פריטים](https://www.rsport.co.il/collections/ברצלונה): רכוש את חולצת ברצלונה המועדפת עליך האתר המוביל למוצרי ספורט איכותיים תמצא מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת ברצלונה במחירים משתלמים. אל תפספס  היכנס עכשיו ותהיה חלק מההיסטוריה של המועדון
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 68
 - [חולצות כדורגל ומוצרי ספורט של הליגה הספרדית](https://www.rsport.co.il/collections/ליגה-ספרדית): גלה את המבחר הגדול של חולצות כדורגל מהליגה הספרדית – ברצלונה, ריאל מדריד, אתלטיקו מדריד ועוד
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 144
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
   Updated: 2025-09-28T11:19:02Z
@@ -45899,7 +45899,7 @@
   Updated: 2025-09-28T11:19:02Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 207
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
   Updated: 2025-09-28T11:19:02Z
@@ -45926,7 +45926,7 @@
   Updated: 2025-09-27T20:56:46Z
   Total Products: 194
 - [שיקגו בולס](https://www.rsport.co.il/collections/שיקגו-בולס): שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה... הצג עוד שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה. בנוסף לגופיות שחקנים, תמצא גם גופיות רטרו נוסטלגיות משנות ה-90, מכנסי כדורסל, מכנסי JUST DON ולצידן חולצות טי-שירט לייף סטייל שמתאימות לכל יום – גם מחוץ לפרקט. כל הפריטים עשויים מחומרים איכותיים, מתאימים לאימונים, למשחק או ליום יום, עם דגש על נוחות, עיצוב ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות שיקגו בולס – עבר מפואר, סגנון בולט והשראה לנצח. גופיות של ג'ורדן, פיפן, רוז ורודמן מחכות כאן – לצד לוק לייף סטייל אמיתי... הצג עוד גופיות השחקנים הכי חמות של שיקגו בולס – מייקל ג'ורדן, סקוטי פיפן, דריק רוז ודניס רודמן, לצד גופיות רטרו קלאסיות, מכנסי כדורסל, מכנסי JUST DON וחולצות טי שירט לייף סטייל שישלימו כל הופעה. הפריטים עשויים מחומרים איכותיים ומתאימים לאימונים, למשחק או פשוט ללבוש יומיומי מלא סטייל ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.getElementById('short-text-desktop'); const fullDesktop = document.getElementById('full-text-desktop'); const showMoreDesktop = document.getElementById('toggle-btn-desktop'); const showLessDesktop = document.getElementById('toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.getElementById('short-text'); const fullMobile = document.getElementById('full-text'); const showMoreMobile = document.getElementById('toggle-btn'); const showLessMobile = document.getElementById('toggle-btn-less'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'block'; }); } });
-  Updated: 2025-09-27T21:33:11Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 20
 - [חולצות כדורגל ומוצרי ספורט של נבחרת פורטוגל](https://www.rsport.co.il/collections/פורטוגל): מוצרי נבחרת פורטוגל למונדיאל 2026 – חולצות כדורגל, חולצות אוהדים, חליפות ילדים, אימוניות, מעילים רוח ועוד. כל הציוד של פורטוגל במחירים משתלמים
   Updated: 2025-09-18T19:46:24Z
@@ -45953,7 +45953,7 @@
   Updated: 2025-08-17T20:36:33Z
   Total Products: 3
 - [מכנסי כדורסל](https://www.rsport.co.il/collections/מכנסי-כדורסל): מכנסי כדורסל איכותיים לנוחות וביצועים מקסימליים על המגרש. עיצובים מודרניים, בדים נושמים וגמישים לכל סוגי האימונים והמשחקים
-  Updated: 2025-09-27T21:33:11Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 59
 - [ליגה אמריקאית](https://www.rsport.co.il/collections/ליגה-אמריקאית)
   Updated: 2025-09-18T18:28:19Z
@@ -45998,7 +45998,7 @@
   Updated: 2025-09-18T18:30:47Z
   Total Products: 29
 - [מכנסי כדורסל Just Don | סטייל ונוחות בסגנון רחוב יוקרתי](https://www.rsport.co.il/collections/just-don): מכנסי כדורסל ייחודיים של Just Don בעיצובים בהשראת קבוצות NBA כמו שיקגו בולס, לוס אנג'לס לייקרס, מיאמי היט, פיניקס סאנס ועוד. שילוב מושלם של סטייל ונוחות.
-  Updated: 2025-09-27T21:33:11Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 38
 - [גולדן סטייט ווריורס](https://www.rsport.co.il/collections/גולדן-סטייט-ווריורס)
   Updated: 2025-08-17T20:36:33Z
@@ -46034,7 +46034,7 @@
   Updated: 2025-09-27T19:27:56Z
   Total Products: 17
 - [טורונטו ראפטורס](https://www.rsport.co.il/collections/טורונטו-ראפטורס)
-  Updated: 2025-09-26T21:33:34Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 27
 - [יוטה ג'אז'](https://www.rsport.co.il/collections/יוטה-גאז)
   Updated: 2025-08-17T20:37:27Z
@@ -46193,7 +46193,7 @@
   Updated: 2025-09-19T10:56:54Z
   Total Products: 41
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-09-28T11:19:02Z
@@ -46286,13 +46286,13 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 2046
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-09-18T17:18:47Z
@@ -46469,10 +46469,10 @@
   Updated: 2025-09-18T18:20:00Z
   Total Products: 3
 - [Lamine Yamal | נעלי כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/נעלי-כדורגל-ומוצרים-lamine-yamal): Lamine Yamal F50 מגוון רחב של נעלי כדורגל וחולצות כדורגל ברצלונה, נבחרת ספרד , אימון וכל הפריטים של לאמין ימאל נעלי כדורגל
-  Updated: 2025-09-26T11:18:12Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-29T11:17:23Z
   Total Products: 156
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
   Updated: 2025-09-28T11:19:02Z
