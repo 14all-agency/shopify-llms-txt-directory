@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-28T20:00:38.823Z
+- Updated At: 2025-09-29T00:00:38.279Z
 
 ## Products
 
@@ -6204,7 +6204,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-bouffant-hats-yellow-610mm-wide-12gsm-600-hats-for-larger-hair-styles-head-protection-essential-supplies-195426.jpg?v=1719445583
   Price: $69.00 NZD
 - [Polypropylene Bouffant Hats - Black, 610mm Wide, 12gsm - 600 Hats - *For Larger Hair Styles](https://essentialsupplies.co.nz/products/polypropylene-bouffant-hats-black-610mm-wide-12gsm-600-for-larger-hair-styles): Disposable bouffant cap hair nets made from skin-friendly polypropylene material to provide complete head coverage while maintaining breathability. Designed for longer/larger hairstyles with a clip variation for added crimping. Available in a range of colours to minimise cross-contamination across workspaces.
-  Updated: 2025-01-19T18:32:08Z
+  Updated: 2025-09-28T23:52:53Z
   Vendor: Mattews Packaging
   Product Type: Head Protection
   Availability: Available
@@ -6365,7 +6365,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-domed-laboratory-coat-white-4xl-45gsm-25-coats-laboratory-coats-essential-supplies-706460.jpg?v=1719445562
   Price: $3.00 NZD
 - [High Visibility Day/Night Safety Vest - Yellow, S, 120g Polyester Fabric - 24 Vests](https://essentialsupplies.co.nz/products/high-visibility-day-night-safety-vest-yellow-s-120g-polyester-fabric-24): Yellow Hi Visibility safety work vests made of lightweight polyester, that is strong and easily washable. With reflective tape as prescribed by AS/ NZS 4602.1:2011 safety standards. Featuring a strong zip front and long tail for added visibility. Available in a wide range of sizes.
-  Updated: 2025-02-16T19:55:38Z
+  Updated: 2025-09-28T23:53:40Z
   Vendor: Mattews Packaging
   Product Type: Safety Vests
   Availability: Available
@@ -7322,7 +7322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/newsprint-paper-roll-white-600mm-x-400m-45gsm-1-roll-newsprint-paper-rolls-essential-supplies-534213.jpg?v=1719445336
   Price: $86.00 NZD
 - [Newsprint Paper Roll - White, 800mm x 400m, 45gsm - 1 Roll](https://essentialsupplies.co.nz/products/newsprint-paper-roll-white-800mm-x-400m-45gsm-1): Newsprint paper rolls are 100% recyclable and are a cost effective product suitable for a wide range of uses around the home, office or warehouse. Can be used as a filler for boxes, for wrapping packages or for covering surfaces. Available in a 45gsm thickness with a range of widths for all packaging requirements.
-  Updated: 2025-09-28T02:36:00Z
+  Updated: 2025-09-28T23:55:17Z
   Vendor: Mattews Packaging
   Product Type: Newsprint Paper Rolls
   Availability: Available
