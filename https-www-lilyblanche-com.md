@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-29T00:00:43.066Z
+- Updated At: 2025-09-29T04:00:45.050Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3229,7 +3229,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Four Photo Heart Charm Locket White Gold](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-white-gold): Hold special memories close to your heart with this Four-Photo Heart Charm Locket in white gold vermeil. This stunning locket necklace takes four photos, making it the perfect love token or gift. Order your Four-Photo Heart Charm Locket in silver online today and receive free photos, & jewellery care kit!
-  Updated: 2025-09-22T20:05:20Z
+  Updated: 2025-09-29T01:36:00Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9494,7 +9494,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £245.00 GBP
 - [Garnet Vintage Heart Locket | White Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-white-gold): Looking for a personalised, romantic gift? This Garnet Vintage Heart Locket features a gorgeous garnet, the birthstone of January. This beautiful vintage locket in white gold vermeil opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Order online today!
-  Updated: 2025-09-28T17:22:43Z
+  Updated: 2025-09-29T01:36:00Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
