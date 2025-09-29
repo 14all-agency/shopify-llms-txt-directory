@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-09-28T00:00:28.108Z
+- Updated At: 2025-09-29T00:00:28.402Z
 
 ## Products
 
@@ -633,10 +633,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-09-23T11:25:38Z
+  Updated: 2025-09-28T11:24:53Z
   Total Products: 89
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-09-23T11:25:38Z
+  Updated: 2025-09-28T11:24:53Z
   Total Products: 89
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-08-29T02:37:07Z
@@ -660,7 +660,7 @@
   Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Home Bread](https://www.lekue.co.nz/collections/home-bread)
-  Updated: 2025-09-19T11:18:07Z
+  Updated: 2025-09-28T11:24:53Z
   Total Products: 11
 - [Ice & Ice creams](https://www.lekue.co.nz/collections/ice-ice-creams)
   Updated: 2025-09-17T11:17:44Z
@@ -741,10 +741,10 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-09-23T11:25:38Z
+  Updated: 2025-09-28T11:24:53Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
-  Updated: 2025-09-23T11:25:38Z
+  Updated: 2025-09-28T11:24:53Z
   Total Products: 15
 
 ## Blogs
