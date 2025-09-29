@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-09-28T20:00:31.672Z
+- Updated At: 2025-09-29T00:00:32.415Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -4498,7 +4498,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/IMG_7776.heic?v=1758698569
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/Hand_wearing_a_diamond_ring_with_a_blurred_green_plant_background.heic?v=1759094092
   - [1.0 CT / 4.5](https://www.chantalvaulet.com/products/the-novalune-moissanite-solitaire-ring-1-0-ct-3-ct?variant=42111536103489)
     Availability: Available
     Price: €89.00 EUR
