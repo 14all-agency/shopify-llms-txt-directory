@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-29T08:00:31.541Z
+- Updated At: 2025-09-29T16:00:31.870Z
 
 ## Products
 
@@ -60,8 +60,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Eisbar_-_PAT_PATTY-4830131.jpg?v=1751446325
     Price: 60,50 € EUR
-- [Bio Kuschelkissen Pferd – superweich mit Spelzfüllung | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-pferd): Bio Kuschelkissen Pferd aus Bio-Plüsch mit Hirsespelzfüllung – atmungsaktiv, superweich & handgemacht. Jetzt bei PAT&PATTY entdecken & natürlich kuscheln!
-  Updated: 2025-09-09T16:51:44Z
+- [Bio Kuschelkissen Pferd – superweich mit Spelzfüllung | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-pferd): Bio-Kuschelkissen Pferd aus Bio-Plüsch mit Hirsespelzfüllung – handgemacht, atmungsaktiv & superweich. Jetzt bei PAT&PATTY entdecken!
+  Updated: 2025-09-29T09:32:36Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -830,6 +830,13 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Faultier-W_rmflasche-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1753258549
+  Price: 39,95 € EUR
+- [Bio Wärmflasche Fuchs Orange aus Naturgummi – langlebig | PAT&PATTY](https://patundpatty.de/products/bio-waermflasche-fuchs): Bio Wärmflasche Fuchs aus orangefarbenem Naturgummi – langlebig, sicher & umweltfreundlich. Perfekt für kuschelige Momente. Jetzt bei PAT&PATTY entdecken!
+  Updated: 2025-09-29T11:32:31Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmflasche-Fuchs-Bio-PAT-Und-PATTY.jpg?v=1753258089
   Price: 39,95 € EUR
 - [Bio Wärmflasche Wildschwein Braun – Naturgummi & Plüsch | PAT&PATTY](https://patundpatty.de/products/oeko-bio-waermflasche-wildschwein): Bio Wärmflasche Wildschwein aus Bio-Plüsch & Naturkautschuk – handgemacht, schadstofffrei & waschbar. Jetzt bei PAT&PATTY entdecken & bestellen!
   Updated: 2025-09-26T21:29:55Z
@@ -1907,7 +1914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY & Kissen | PAT & PATTY](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Nachhaltige Bio Baumwollwatte als Füllmaterial – weich, atmungsaktiv und schadstofffrei. Jetzt bei PAT&PATTY entdecken und natürlich einkaufen!
-  Updated: 2025-09-28T16:19:36Z
+  Updated: 2025-09-29T12:58:21Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2465,13 +2472,13 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-09-26T13:03:39Z
+  Updated: 2025-09-29T11:20:43Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-28T09:10:01Z
   Total Products: 21
 - [Bio Wärmekissen für Kinder in Tierform – PAT & PATTY ❤️](https://patundpatty.de/collections/waermekissen): Entdecke handgemachte Bio-Wärmekissen mit Tiermotiven. GOTS-zertifiziert, nachhaltig & handmade bei PAT & PATTY!
-  Updated: 2025-09-28T11:19:59Z
+  Updated: 2025-09-29T11:20:43Z
   Total Products: 19
 - [Bio Lavendelkissen mit natürlichem Duft | PAT & PATTY](https://patundpatty.de/collections/bio-mini-lavendelkissen): Entdecke das bio Lavendelkissen von PAT & PATTY – natürlich, handgefertigt und mit beruhigendem Duft für entspannte Nächte. Nachhaltig & schadstofffrei.
   Updated: 2025-09-24T11:20:35Z
@@ -2479,8 +2486,8 @@
 - [Bio Wärmflaschen Tiermotive – handgemacht & nachhaltig | PAT & PATTY](https://patundpatty.de/collections/bio-waermflaschen-im-tiermotiv-von-pat-und-patty): Handgemachte Bio Wärmflaschen mit Tiermotiven für Kinder & Erwachsene. Nachhaltig, weich & wohltuend – ideal als Geschenk oder für kalte Tage.
   Updated: 2025-09-27T11:19:05Z
   Total Products: 12
-- [Meistverkaufte Produkte von Pat & Patty - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-09-28T11:19:59Z
+- [Meistverkaufte Produkte - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
+  Updated: 2025-09-29T11:20:43Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
   Updated: 2025-09-28T11:19:59Z
@@ -2492,7 +2499,7 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-09-28T11:19:59Z
+  Updated: 2025-09-29T11:20:43Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-09-27T11:19:05Z
@@ -2513,7 +2520,7 @@
   Updated: 2025-09-08T11:21:28Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-09-28T11:19:59Z
+  Updated: 2025-09-29T11:20:43Z
   Total Products: 53
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
@@ -2735,21 +2742,28 @@
     Updated: 2025-09-28T05:22:32Z
     Author: Sharon
     Tags: was ist lernspielzeug
+  - [Der ultimative Leitfaden für Bio Steckenpferd Pontos als nachhaltiges Schmusetuch Baby Geschenk](https://patundpatty.de/blogs/news/der-ultimative-leitfaden-fur-bio-steckenpferd-pontos-als-nachhaltiges-schmusetuch-baby-geschenk): Der ultimative Leitfaden für Bio Steckenpferd Pontos als nachhaltiges Schmusetuch Baby Geschenk
+    Updated: 2025-09-29T10:05:29Z
+    Author: Sharon Engel
+  - [Warum Fair-Trade-Spielzeug wichtig ist für Kinder](https://patundpatty.de/blogs/news/warum-fair-trade-spielzeug): Erfahren Sie, warum fair-trade-spielzeug gut für Kinder ist und welche Vorteile es für Umwelt und Gesellschaft bietet.
+    Updated: 2025-09-29T11:14:10Z
+    Author: Sharon
+    Tags: warum fair-trade-spielzeug
 
 ## Store Pages
 
 - [❤️Der Bio-Spielzeughersteller ❤️ Über Uns | PATundPATTY.de](https://patundpatty.de/pages/uber-uns): IMPRESSUM / ÜBER UNS Kerstin Dorow - PAT & PATTY Maubacher Str. 4 52393 Hürtgenwald Tel.: +49 (0) 2429 908475 Fax: +49 (0) 2429 908475 E-Mail allge...
   Updated: 2025-07-15T14:06:17Z
-- [Allgemeine Geschäftsbedingungen & Infos | Bio-Spielzeug PAT & PATTY](https://patundpatty.de/pages/geschaftsbedingungen-von-pat-patty): Allgemeine Geschäftsbedingungen und Kundeninformationen I. Allgemeine Geschäftsbedingungen§ 1 Grundlegende Bestimmungen(1) Die nachstehenden Geschä...
-  Updated: 2025-09-03T07:57:14Z
+- [Allgemeine Geschäftsbedingungen & Infos | Bio-Spielzeug](https://patundpatty.de/pages/geschaftsbedingungen-von-pat-patty): Allgemeine Geschäftsbedingungen und Kundeninformationen I. Allgemeine Geschäftsbedingungen§ 1 Grundlegende Bestimmungen(1) Die nachstehenden Geschä...
+  Updated: 2025-09-29T09:14:47Z
 - [Widerrufsbelehrung & Formular | Bio-Spielzeug PAT & PATTY](https://patundpatty.de/pages/widerrufsbelehrung): WIDERRUFSBELEHRUNG UND -FORMULAR Widerrufsrecht für Verbraucher (Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschlie...
   Updated: 2025-09-03T18:47:12Z
 - [Lieferinformationen zu Bio-Spielzeug  Versand und Bezahlmethoden](https://patundpatty.de/pages/lieferinformationen): Allgemeine Informationen zum Versand: Versandkosten (inklusive gesetzlicher Mehrwertsteuer) Lieferfristen Soweit im jeweiligen Angebot keine andere...
   Updated: 2025-03-03T17:37:45Z
-- [Datenschutzrichtlinie & Hinweise | PAT & PATTY Bio-Spielzeug Store](https://patundpatty.de/pages/datenschutzrichtlinie): DATENSCHUTZERKLÄRUNG Soweit nachstehend keine anderen Angaben gemacht werden, ist die Bereitstellung Ihrer personenbezogenen Daten weder gesetzlich...
-  Updated: 2025-09-03T08:04:46Z
-- [Bio-Spielzeuge aus 100 % Bio-Baumwolle/GOTS von PAT & PATTY](https://patundpatty.de/pages/pat-patty): PAT & PATTY – Bio Wärmekissen, Kuschelkissen & Spielzeug handgefertigt in Deutschland Natürliche Wärme mit Bio Wärmekissen & Kuschelkissen PAT & PA...
-  Updated: 2025-06-04T12:47:53Z
+- [Datenschutzrichtlinie & Hinweise Bio-Spielzeug](https://patundpatty.de/pages/datenschutzrichtlinie): DATENSCHUTZERKLÄRUNG Soweit nachstehend keine anderen Angaben gemacht werden, ist die Bereitstellung Ihrer personenbezogenen Daten weder gesetzlich...
+  Updated: 2025-09-29T09:15:51Z
+- [Bio-Spielzeuge aus 100 % Bio-Baumwolle/GOTS](https://patundpatty.de/pages/pat-patty): PAT & PATTY – Bio Wärmekissen, Kuschelkissen & Spielzeug handgefertigt in Deutschland Natürliche Wärme mit Bio Wärmekissen & Kuschelkissen PAT & PA...
+  Updated: 2025-09-29T09:08:46Z
 - [GDPR Compliance](https://patundpatty.de/pages/gdpr-compliance): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2024-05-17T08:38:14Z
 - [PIPEDA Compliance](https://patundpatty.de/pages/pipeda-compliance): #form-pipeda-edit-account-request, #form-pipeda-requests-request, #form-pipeda-personal-information-request, #form-pipeda-orders-request, #form-pip...
@@ -2758,22 +2772,12 @@
   Updated: 2024-05-17T08:38:15Z
 - [Wishlist](https://patundpatty.de/pages/wishlist)
   Updated: 2024-07-26T09:56:11Z
-- [FAQ - PAT & PATTY: Häufige Fragen zu unseren Produkten & Service](https://patundpatty.de/pages/faq): FAQ - Häufig gestellte Fragen Willkommen auf der FAQ-Seite von PAT & PATTY! Hier finden Sie Antworten auf die häufigsten Fragen zu unseren Produkte...
-  Updated: 2025-07-02T14:44:53Z
-- [Kontakt PAT & PATTY - So erreichen Sie uns in Hürtgenwald](https://patundpatty.de/pages/kontakt): Hier sind die Kontaktmöglichkeiten zu PAT & PATTY im HürtgenwaldAdresse: Kerstin Dorow - PAT & PATTY Maubacher Str. 4 52393 Hürtgenwald Deutschland...
-  Updated: 2025-05-07T13:15:06Z
+- [FAQ - Häufige Fragen zu unseren Produkten & Service](https://patundpatty.de/pages/faq): FAQ - Häufig gestellte Fragen Willkommen auf der FAQ-Seite von PAT & PATTY! Hier finden Sie Antworten auf die häufigsten Fragen zu unseren Produkte...
+  Updated: 2025-09-29T09:09:23Z
+- [Kontakt - So erreichen Sie uns in Hürtgenwald](https://patundpatty.de/pages/kontakt): Hier sind die Kontaktmöglichkeiten zu PAT & PATTY im HürtgenwaldAdresse: Kerstin Dorow - PAT & PATTY Maubacher Str. 4 52393 Hürtgenwald Deutschland...
+  Updated: 2025-09-29T09:10:06Z
 - [Produktsicherheitsverordnung (GPSR) ab](https://patundpatty.de/pages/produktsicherheitsverordnung-gpsr): Produktsicherheitsverordnung (GPSR) von PAT & PATTY Adresse: Kerstin Dorow - PAT & PATTY Maubacher Str. 452393 HürtgenwaldDeutschland Kontakt: Tele...
   Updated: 2025-03-03T17:46:27Z
-- [Boomerang Landing Page](https://patundpatty.de/pages/https-patundpatty-de-pages-boomerang-suffix)
-  Updated: 2025-07-31T14:12:55Z
-- [Boomerang Landing Page](https://patundpatty.de/pages/https-b3046-cc-pages-boomerang-suffix)
-  Updated: 2025-07-31T14:13:23Z
-- [Boomerang Landing Page](https://patundpatty.de/pages/https-b3046-cc-pages-boomerang-suffix-1)
-  Updated: 2025-07-31T14:13:29Z
-- [Boomerang Landing Page](https://patundpatty.de/pages/https-b3046-cc-pages-boomerang-suffix-2)
-  Updated: 2025-07-31T14:13:40Z
-- [Boomerang Landing Page](https://patundpatty.de/pages/boomerang-landing-page)
-  Updated: 2025-08-05T14:17:51Z
 
 ## Policies
 
