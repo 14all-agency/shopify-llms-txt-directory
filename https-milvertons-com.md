@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-09-28T08:00:33.071Z
+- Updated At: 2025-09-29T00:00:33.711Z
 
 ## Products
 
@@ -3654,7 +3654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-matching-bag-for-parties-african-style-753358.webp?v=1715725352
     Price: $119.18 USD
 - [Cap Sleeve Round Neck Knit Two-Piece Set - Top & Pants](https://milvertons.com/products/cap-sleeve-round-neck-knit-two-piece-set-top-pants): Introducing the Cap Sleeve Round Neck Knit Two-Piece Set, a stylish addition to your wardrobe. Shop now at Milvertons and add this chic set to your collection.
-  Updated: 2025-09-26T20:21:22Z
+  Updated: 2025-09-28T22:17:17Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -4927,7 +4927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-09-28T05:40:40Z
+  Updated: 2025-09-28T23:21:41Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10455,7 +10455,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-09-26T09:25:15Z
+  Updated: 2025-09-28T09:26:01Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-09-26T06:52:17Z
@@ -10488,7 +10488,7 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-09-27T09:25:32Z
+  Updated: 2025-09-28T09:25:30Z
   Total Products: 163
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -11100,7 +11100,7 @@
     Author: The Milvertons Store
     Tags: best footwear for women, coordinated accessories, dresses, fashion, italian shoe and bag set, matching shoes and bag, shoe and bag set, shopping, style, stylish bags online, trendy outfits, women's clothing, women's fashion, women's shoe and bag set
   - [Harmonizing Actions: Installing Coordination in Women's Fashion](https://milvertons.com/blogs/blog/harmonizing-actions-installing-coordination-in-womens-fashion)
-    Updated: 2025-09-26T19:22:30Z
+    Updated: 2025-09-28T17:24:09Z
     Author: The Milvertons Store
     Tags: bags, best women's fashion, clothing, coordinating outfits, dresses, fashion accessories, italian shoe and bag set, matching shoes and bag, shoe and bag set, shoes, stylish shoes, women's bags, women's clothing, women's fashion, women's shoe and bag set
   - [Harmonizing Women's Fashion: Shoes Bag Sets with Dresses](https://milvertons.com/blogs/blog/harmonizing-womens-fashion-shoes-bag-sets-with-dresses): Harmonizing Women's Fashion: Shoes Bag Sets with Dresses
@@ -11142,6 +11142,8 @@
   Updated: 2024-10-25T03:21:04Z
 - [Your privacy choices](https://milvertons.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:38:02Z
+- [Matching Shoe & Bag Sets | Milvertons | Curated Luxury](https://milvertons.com/pages/shoe-bag-sets): Effortless luxury. Discover our curated collection of matching shoe and bag sets. Elevate any outfit with perfectly coordinated style. Shop the col...
+  Updated: 2025-09-28T23:58:22Z
 
 ## Policies
 
