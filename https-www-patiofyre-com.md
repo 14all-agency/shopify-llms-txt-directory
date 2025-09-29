@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-09-29T21:11:02.688Z
+- Updated At: 2025-09-29T21:12:15.541Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -246,10 +246,6 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2025-08-07T07:40:17-07:00
 - [Contact Information](https://www.patiofyre.com/policies/contact-information)
   Updated: 2024-03-21T05:59:20-07:00
-
-## Alternate Currencies & Languages
-
-- [United States (en / USD)](https://www.patiofyre.com/llms.txt?market=us)
 
 ## Optional
 
