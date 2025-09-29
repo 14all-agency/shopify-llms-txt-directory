@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-29T04:00:48.158Z
+- Updated At: 2025-09-29T08:00:48.979Z
 
 ## Products
 
@@ -5568,7 +5568,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [TOSHI Sunhat Olly - Indiana](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-25T04:45:02Z
+  Updated: 2025-09-29T07:22:57Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9548,7 +9548,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-surfs-up): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-08-06T22:40:38Z
+  Updated: 2025-09-29T07:22:56Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -10276,7 +10276,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $79.00 NZD
 - [CONNETIX Rainbow Motion Pack - 24pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-motion-pack-24pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:54:45Z
+  Updated: 2025-09-29T07:02:51Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -13245,7 +13245,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-09-23T00:16:46Z
+  Updated: 2025-09-29T07:18:40Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13264,7 +13264,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-09-15T00:22:40Z
+  Updated: 2025-09-29T07:02:45Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13351,7 +13351,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-09-29T03:42:45Z
+  Updated: 2025-09-29T07:42:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15712,14 +15712,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-29T03:22:42Z
+  Updated: 2025-09-29T07:42:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-29T03:22:46Z
+  Updated: 2025-09-29T07:42:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15749,7 +15749,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $7.99 NZD
 - [LIL MOO Spare Parts](https://www.littlebambinos.co.nz/products/dust-cap): Misplaced your dust cap or rubber seal of your bottle warmer? No worries, you can order a new one here! Make sure you press the middle of the dust cap down when on the warmer to ensure a secure fit. Please do not place rubber seal or any part of your Portable Bottle Warmer in a UV steriliser or dishwasher.
-  Updated: 2025-09-23T00:22:46Z
+  Updated: 2025-09-29T05:42:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15935,7 +15935,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [TOSHI Swim Sunhat Paradise - Congo Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-congo-seagrass): Toshi's renowned craftsmanship and quality come together in this exceptional baby swimwear collection. Rated UPF50+, the Toshi Swim line ensures excellent sun protection and water safety. Made from premium, quick-drying materials resistant to chlorine and salt water, the Swim Sunhat includes a wide, structured brim that keeps its shape even when wet. Adjustable sizing is achieved through a head tie with toggle, while the chin tie with toggle secures the hat comfortably. A safety release clasp on the chin tie adds extra protection. Featuring a unique, exclusive Toshi print, this sunhat combines style with functionality. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
-  Updated: 2025-09-28T20:23:14Z
+  Updated: 2025-09-29T07:22:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15944,7 +15944,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-congo-seagrass?variant=42000646537310)
-    Availability: Available
+    Availability: Not Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-congo-seagrass?variant=42000646570078)
     Availability: Available
@@ -16591,8 +16591,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 472
+  Updated: 2025-09-29T07:55:56Z
+  Total Products: 520
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17428,8 +17428,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 5614
+  Updated: 2025-09-29T07:55:56Z
+  Total Products: 5662
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-09-28T11:02:44Z
   Total Products: 242
@@ -17443,8 +17443,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 1366
+  Updated: 2025-09-29T07:55:56Z
+  Total Products: 1414
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-28T20:25:49Z
   Total Products: 501
@@ -17452,8 +17452,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 5660
+  Updated: 2025-09-29T07:55:56Z
+  Total Products: 5708
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
   Total Products: 0
@@ -17851,8 +17851,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 5627
+  Updated: 2025-09-29T07:55:57Z
+  Total Products: 5675
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-09-28T11:02:44Z
   Total Products: 43
@@ -17995,8 +17995,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:25:49Z
   Total Products: 552
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 5629
+  Updated: 2025-09-29T07:55:57Z
+  Total Products: 5677
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 37
@@ -18094,8 +18094,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:56:06Z
   Total Products: 2347
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 5681
+  Updated: 2025-09-29T07:55:57Z
+  Total Products: 5729
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
   Total Products: 22
@@ -18124,8 +18124,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:15Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2025-09-29T03:55:57Z
-  Total Products: 1672
+  Updated: 2025-09-29T07:55:57Z
+  Total Products: 1720
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
   Updated: 2025-09-28T20:25:40Z
   Total Products: 3099
