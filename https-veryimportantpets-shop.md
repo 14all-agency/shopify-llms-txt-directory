@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-30T04:01:12.878Z
+- Updated At: 2025-09-30T08:01:20.092Z
 
 ## Products
 
@@ -1689,7 +1689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/70cm-foldable-pet-carrier-for-cats-small-dogs-pet-carrier-grey-163207.jpg?v=1700663390
     Price: £44.99 GBP
 - [81cm Foldable Pet Carrier, with Cushion, for Medium Dogs and Cats](https://veryimportantpets.shop/products/81cm-foldable-carrier-for-medium-pets-with-cushion): Travel effortlessly with your medium-sized pets using our collapsible carrier. Designed for comfort, with a plush cushion, optimal airflow through a mesh window, and three doors for easy entry. Lightweight and easy to carry, this carrier ensures your pet's safety and comfort on the go or at home. Pets up to 20kg.
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-09-30T07:30:28Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -3156,7 +3156,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-stairs-4-steps-older-animal-climb-ladder-313879.jpg?v=1700650603
   Price: £35.99 GBP
 - [Outdoor Cat House with Balcony & Asphalt Roof | Cats up to 4 kg](https://veryimportantpets.shop/products/outdoor-cat-house-with-balcony-asphalt-roof): This outdoor cat kennel from PawHut provides a place for pets to relax, sleep, and roam. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:06Z
+  Updated: 2025-09-30T07:30:28Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3325,7 +3325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:30:58Z
+  Updated: 2025-09-30T07:30:28Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3742,7 +3742,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-piece-cat-wall-shelves-wall-mounted-cat-tree-for-indoor-use-brown-wall-mounted-cat-post-646505.jpg?v=1700664023
   Price: £89.99 GBP
 - [Cat Tree, Climbing Kitten Cat Tower Activity Center for Indoor Cats with Jute Scratching Post, Condo, Kitten Stand, Hanging Ball Toy, Beige](https://veryimportantpets.shop/products/cat-tree-climbing-kitten-cat-tower-activity-center-for-indoor-cats-with-jute-scratching-post-condo-kitten-stand-hanging-ball-toy-beige): Rest and play in one spot, with this cat tree for large cat from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-28T07:30:57Z
+  Updated: 2025-09-30T07:30:27Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3819,7 +3819,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-with-scratching-posts-hammock-toy-ball-beige-170242.jpg?v=1700659460
   Price: £35.99 GBP
 - [242cm Adjustable Floor-To-Ceiling Cat Tree, with Artificial Decoration, Perches, Anti-Slip Kit](https://veryimportantpets.shop/products/242cm-adjustable-floor-to-ceiling-cat-tree-with-artificial-decoration-perches-anti-slip-kit): The perfect pet haven exists, thanks to this PawHut floor to ceiling cat tree. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:05Z
+  Updated: 2025-09-30T07:30:25Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3970,7 +3970,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chic-cat-scratcher-lounge-bed-includes-catnip-58x295cm-scratching-bed-560328.jpg?v=1700659173
   Price: £26.99 GBP
 - [TV-Shaped Cat Scratcher - Fun & Durable for Indoor Cats | Very Important Pets](https://veryimportantpets.shop/products/tv-shaped-scratching-board-with-scratcher-catnip-toy-rat-cat-scratcher-for-indoor-cats-43-x-23-x-32-5cm): Channel your cat's scratching and play instincts with our TV-shaped scratcher. Perfect for indoor cats up to 3kg, it combines a hideout and a durable scratching board. Comes with a toy rat and catnip to entertain and attract your furry friend. Easy to assemble, eco-friendly, and keeps furniture safe.
-  Updated: 2025-09-29T15:30:55Z
+  Updated: 2025-09-30T07:30:28Z
   Vendor: PawHut
   Product Type: Cat Scratch Mat
   Availability: Available
@@ -4012,7 +4012,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-29T07:30:58Z
+  Updated: 2025-09-30T07:30:26Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4257,7 +4257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-443-x-65-cm-838158.jpg?v=1700645780
   Price: £80.99 GBP
 - [Enclosed Small Wooden Chicken Coop with Nesting Box](https://veryimportantpets.shop/products/enclosed-small-wooden-chicken-coop-with-nesting-box): Treat your chickens to the good life they deserve with this chicken chateau. Shop online at Very Important Pets
-  Updated: 2025-09-28T15:30:56Z
+  Updated: 2025-09-30T07:30:26Z
   Vendor: PawHut
   Product Type: Chicken Coop
   Availability: Available
@@ -4285,7 +4285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-with-removable-trays-for-1-2-rabbits-rabbit-hutch-grey-927895.jpg?v=1700647117
   Price: £116.99 GBP
 - [Indoor Wooden Rabbit Hutch, Guinea Pig House, Two Tier with Openable Roof, Wheels, Slide-out Tray, 91.5 x 53.3 x 73 cm](https://veryimportantpets.shop/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-91-5-x-53-3-x-73-cm): Choose this indoor rabbit cage from PawHut to give your rabbit, guinea pig and other small animals a place to rest and play. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:57Z
+  Updated: 2025-09-30T07:30:29Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4429,7 +4429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-1255-x-100-x-49cm-502292.jpg?v=1700650041
   Price: £107.99 GBP
 - [Rabbit Hutch Small Animal Guinea Pig House with Openable Main House & Run Roof](https://veryimportantpets.shop/products/rabbit-hutch-small-animal-guinea-pig-house-with-openable-main-house-run-roof): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:56Z
+  Updated: 2025-09-30T07:30:27Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4499,7 +4499,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:56Z
+  Updated: 2025-09-30T07:30:26Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -10954,7 +10954,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/natures-menu-dog-pouch-beef-tripe-8x300g-adult-wet-178688.png?v=1741090472
   Price: £18.03 GBP
 - [Natures Menu Dog Pouch Multipack 8x300g](https://veryimportantpets.shop/products/natures-menu-dog-pouch-multipack-8x300g): Natures Menu Dog Multipack is now available and ideal for holiday breaks and your weekly needs it’s the Natures Menu ADULT DOG MULTI PACK. Shop online at Very Important Pets
-  Updated: 2025-09-29T09:28:37Z
+  Updated: 2025-09-30T05:55:51Z
   Vendor: Natures Menu
   Product Type: Adult Wet
   Availability: Available
@@ -17589,7 +17589,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/webbox-naturals-adult-cat-meat-selection-in-gravy-pouches-56-x-100g-adult-cat-wet-2558535.webp?v=1758415776
   Price: £24.64 GBP
 - [Webbox Naturals Adult Cat Food Mixed Meat in Jelly - 5 Boxes](https://veryimportantpets.shop/products/webbox-naturals-cat-adult-mixed-in-jelly-5x-12x100g): Treat your cat to a variety of natural, complete wet food with Webbox Naturals Mixed Meat & Fish Variety in Jelly. No artificial additives, just tasty goodness!
-  Updated: 2025-09-29T19:10:02Z
+  Updated: 2025-09-30T07:06:04Z
   Vendor: Webbox
   Product Type: Adult Cat Wet
   Availability: Available
@@ -22892,7 +22892,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vixen-hip-joint-supplement-chews-for-dogs-supplements-remedies-911560.png?v=1715109529
   Price: £30.63 GBP
 - [Equine America Inflamex Joint Support for Active Adult Dogs](https://veryimportantpets.shop/products/equine-america-cortaflex-canine-inflamex-solution): Inflamex supports adult working dogs of all ages and breeds, promoting joint health and mobility with potent plant-based ingredients.
-  Updated: 2025-09-29T17:39:42Z
+  Updated: 2025-09-30T05:19:05Z
   Vendor: Equine America
   Product Type: Supplements & Remedies
   Availability: Available
@@ -23004,7 +23004,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/james-wellbeloved-senior-dog-lamb-chicken-in-gravy-48-x-90g-pouches-senior-wet-417471.jpg?v=1717287900
   Price: £43.40 GBP
 - [Royal Canin Light Weight Care Thin Slices In Jelly Pouches](https://veryimportantpets.shop/products/royal-canin-light-weight-care-thin-slices-in-jelly-adult-wet-cat-food-pouches-12-x-85g): ROYAL CANIN Light Weight Care Thin Slices in Jelly helps limit weight gain and maintain your cat's healthy weight with adapted protein and L-carnitine.
-  Updated: 2025-09-22T18:53:50Z
+  Updated: 2025-09-30T07:40:45Z
   Vendor: Royal Canin
   Product Type: Diet Cat Food
   Availability: Available
@@ -23078,7 +23078,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/gourmet-natures-creations-gravy-heart-chicken-wet-cat-food-12-x-85g-adult-cat-wet-349169.jpg?v=1724723610
   Price: £10.50 GBP
 - [Purina One Selective Palate Wet Cat Food Variety Pack](https://veryimportantpets.shop/products/purina-one-selective-palate-mixed-wet-cat-food): Purina One Adult Cat Selective Palate Mixed Pouches provide high-quality nutrition with tender filets, veggies, and gravy for a healthy digestive system.
-  Updated: 2025-09-29T09:28:30Z
+  Updated: 2025-09-30T05:35:10Z
   Vendor: Purina One
   Product Type: Adult Cat Wet
   Availability: Available
@@ -23675,7 +23675,7 @@ Omega-6 & 3 for skin.
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/arden-grange-seniorlight-grain-free-chicken-superfoods-senior-dry-12-kg-167324.webp?v=1732983823
     Price: £61.95 GBP
 - [Forthglade Turkey Lightly Baked Natural Dry Adult Dog Food](https://veryimportantpets.shop/products/forthglade-turkey-lightly-baked-natural-dry-dog-food): Forthglade Turkey Lightly Baked Natural Dry Adult Dog Food is packed with goodness. Shop online at Very Important Pets Shop
-  Updated: 2025-09-24T13:36:05Z
+  Updated: 2025-09-30T04:53:29Z
   Vendor: Forthglade
   Product Type: Adult Dry
   Availability: Available
@@ -25176,7 +25176,7 @@ Omega-6 & 3 for skin.
     Updated: 2024-09-20T21:21:56Z
     Author: Graham Root
   - [Dog Behaviour: 10 Surprising Facts](https://veryimportantpets.shop/blogs/news/10-surprising-facts-about-dog-behaviour): Dog Behaviour: 10 Surprising Facts
-    Updated: 2025-09-29T18:44:37Z
+    Updated: 2025-09-30T06:44:31Z
     Author: Very Important Pets Shop
     Tags: Dog, Dog Behaviour
   - [The Psychology Behind Your Cat's Mysterious Behaviour](https://veryimportantpets.shop/blogs/news/the-psychology-behind-your-cats-mysterious-behaviour): The Psychology Behind Your Cat's Mysterious Behaviour
