@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-09-29T16:00:32.239Z
+- Updated At: 2025-09-30T00:00:34.301Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -6873,11 +6873,10 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €75.00 EUR
 - [0.7 CT Round Moissanite Band – The Calina | Chantal Vaulet](https://www.chantalvaulet.com/products/the-calina-moissanite-seven-stone-band): The Calina features 0.7CT of round-cut Moissanites in a classic prong setting, perfect for weddings or stackable elegance.
-  Updated: 2025-09-28T19:26:10Z
+  Updated: 2025-09-29T20:44:39Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-calina-moissanite-seven-stone-band-07-ct-chantal-vaulet-880775_c89ecb3f-0349-4277-af99-b172507e1c87.webp?v=1758449146
   - [4.5](https://www.chantalvaulet.com/products/the-calina-moissanite-seven-stone-band?variant=42111508643905)
     Availability: Available
     Price: €89.00 EUR
