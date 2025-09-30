@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-30T12:00:45.443Z
+- Updated At: 2025-09-30T16:00:47.184Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15016,7 +15016,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Sapphire Heart Locket White Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-white-gold): Looking for a truly special gift? This Sapphire Vintage Heart Locket features a gorgeous sapphire, the birthstone of September. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Gift boxed. Free UK shipping & Express Delivery Available. Shop this sapphire necklace online today.
-  Updated: 2025-09-28T17:31:44Z
+  Updated: 2025-09-30T12:32:28Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15872,7 +15872,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_0dea4b76-9dff-46f5-a680-2ed1c2bff092.jpg?v=1741884338
   Price: £145.00 GBP
 - [Paperclip Chain Necklace | Silver | Lily Blanche](https://www.lilyblanche.com/products/paperclip-chain-necklace-silver): This extra strong sterling silver paperclip chain is a statement chain which will elevate your look. Express Shipping Available.
-  Updated: 2025-07-26T08:24:50Z
+  Updated: 2025-09-30T12:32:28Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16916,7 +16916,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-09-30T07:30:58Z
+  Updated: 2025-09-30T13:18:19Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21786,43 +21786,6 @@ From £119
   - [9 carat gold belcher chain 22 inch (56 cm)](https://www.lilyblanche.com/products/ruby-cross-necklace-in-solid-gold?variant=55737138610562)
     Availability: Available
     Price: £755.00 GBP
-- [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-From £425
-  Updated: 2025-09-30T00:57:13Z
-  Vendor: Lily Blanche
-  Product Type: Necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphire_gold_cross_necklace.webp?v=1741873629
-  - [No chain](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963064126)
-    Availability: Available
-    Price: £425.00 GBP
-  - [9 carat gold curb chain 18 inch (46 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963227966)
-    Availability: Available
-    Price: £670.00 GBP
-  - [9 carat gold curb chain 20 inch (51 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963260734)
-    Availability: Available
-    Price: £690.00 GBP
-  - [9 carat gold curb chain 22 inch (56 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963293502)
-    Availability: Available
-    Price: £710.00 GBP
-  - [9carat gold rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963096894)
-    Availability: Available
-    Price: £710.00 GBP
-  - [9 carat gold  rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963129662)
-    Availability: Available
-    Price: £740.00 GBP
-  - [9 carat gold  rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=50440963162430)
-    Availability: Available
-    Price: £770.00 GBP
-  - [9carat gold belcher chain 18 inch (46 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=55736148984194)
-    Availability: Available
-    Price: £705.00 GBP
-  - [9 carat gold belcher chain 20 inch (51 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=55736149016962)
-    Availability: Available
-    Price: £730.00 GBP
-  - [9 carat gold belcher chain 22 inch (56 cm)](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold?variant=55736149049730)
-    Availability: Available
-    Price: £755.00 GBP
 - [Amethyst Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold): Satisfaction 100% guaranteed with this stunning Amethyst Cross necklace in Solid Gold. An heirloom piece this real amethyst and  9-carat gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
 From £190.
   Updated: 2025-09-29T23:43:29Z
@@ -21969,7 +21932,7 @@ From £190.
     Availability: Available
     Price: £755.00 GBP
 - [Tanzanite Cross Necklace in Solid White Gold](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold): Satisfaction 100% guaranteed with this stunning Diamond Cross necklace in Solid White Gold. An heirloom piece this real tanzanite and  9-carat white gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-09-30T08:27:33Z
+  Updated: 2025-09-30T14:34:46Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21977,33 +21940,33 @@ From £190.
   - [No chain](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044787518)
     Availability: Available
     Price: £245.00 GBP
-  - [9carat white gold rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044820286)
-    Availability: Available
-    Price: £395.00 GBP
-  - [9 carat white gold rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044853054)
-    Availability: Available
-    Price: £405.00 GBP
-  - [9 carat white gold rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044885822)
-    Availability: Available
-    Price: £415.00 GBP
   - [9 carat white gold curb chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044951358)
     Availability: Available
-    Price: £455.00 GBP
+    Price: £530.00 GBP
   - [9 carat white gold curb chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044984126)
     Availability: Available
-    Price: £470.00 GBP
+    Price: £560.00 GBP
   - [9 carat white gold curb chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441045016894)
     Availability: Available
-    Price: £485.00 GBP
+    Price: £590.00 GBP
+  - [9carat white gold rope chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044820286)
+    Availability: Available
+    Price: £410.00 GBP
+  - [9 carat white gold rope chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044853054)
+    Availability: Available
+    Price: £425.00 GBP
+  - [9 carat white gold rope chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=50441044885822)
+    Availability: Available
+    Price: £445.00 GBP
   - [9carat white gold belcher chain 18 inch (46 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=55739785773442)
-    Availability: Not Available
-    Price: £275.00 GBP
+    Availability: Available
+    Price: £575.00 GBP
   - [9 carat white gold belcher chain 20 inch (51 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=55739785806210)
-    Availability: Not Available
-    Price: £275.00 GBP
+    Availability: Available
+    Price: £605.00 GBP
   - [9 carat white gold belcher chain 22 inch (56 cm)](https://www.lilyblanche.com/products/tanzanite-cross-necklace-in-solid-white-gold?variant=55739785838978)
-    Availability: Not Available
-    Price: £275.00 GBP
+    Availability: Available
+    Price: £635.00 GBP
 - [Sapphire & Diamond Solid Gold Eternity Ring | Fine Jewellery  Band](https://www.lilyblanche.com/products/sapphire-diamond-solid-gold-half-eternity-ring): Shop our sapphire and diamond eternity ring, in solid gold with 7  sapphires & 6 diamonds.  Free shipping, gift wrap & jewellery care kit.
   Updated: 2025-08-29T09:29:58Z
   Vendor: Lily Blanche
@@ -22902,7 +22865,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-09-27T10:16:10Z
+  Updated: 2025-09-30T13:52:21Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24313,7 +24276,7 @@ From £129
   Updated: 2025-09-17T11:32:55Z
   Total Products: 10
 - [Cross Necklaces](https://www.lilyblanche.com/collections/cross-necklaces): Explore our collection of cross necklaces, featuring elegant and meaningful designs in sterling silver, gold & gemstones. Each cross pendant is crafted with care and designed to be a timeless symbol of faith, hope, and protection. From classic gold cross necklaces to delicate silver cross pendants, this jewellery is perfect for religious gifts, christenings, confirmations, or personal wear.
-  Updated: 2025-09-30T11:34:38Z
+  Updated: 2025-09-30T12:37:46Z
   Total Products: 20
 - [St Christopher Necklaces](https://www.lilyblanche.com/collections/st-christopher-necklaces): Travel safely with a personalised St Christopher necklace, handcrafted in solid silver, gold or 18 carat gold vermeil. This traditional necklace for men and women has become the style icon of the season and has been worn by fashionable celebrities such as Taylor Swift, Harry Styles and Hailey Bieber. Our meaningful travel protection pendants are traditionally worn as a symbol of safe travels and guidance. St Christopher jewellery is a thoughtful gift for adventurers, graduates, and loved ones embarking on a new journey. Now trending as modern heirloom pieces, St Christopher necklaces combine spiritual significance with contemporary style. Choose from classic round pendants, engraved medallions, and personalised options for a gift that’s both stylish and symbolic.
   Updated: 2025-09-30T11:34:38Z
