@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-30T00:00:38.801Z
+- Updated At: 2025-09-30T04:00:41.718Z
 
 ## Products
 
@@ -263,7 +263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/silverlined-latex-gloves-powder-free-blue-l-300mm-cuff-700g-192-gloves-latex-examination-gloves-essential-supplies-329810.jpg?v=1719445924
   Price: $149.00 NZD
 - [Silverlined Latex Gloves Powder Free - Blue, M, 300mm Cuff, 70.0g - 192 Gloves](https://essentialsupplies.co.nz/products/silverlined-latex-gloves-powder-free-blue-m-300mm-cuff-70-0g-192): Blue silverlined rubber gloves designed for easy-on-easy off removal.Featuring sand pitch anti-slip pattern for enhanced grip in wet and dry conditions and chlorinated for low ex-tractable proteins and residual chemicals. Compliant with FDA regulation for use in repeated contact with food 300mm cuff 70.0g Colour: Blue Size: Medium Pack:96 packs x 2's (192 gloves) Note:*Other sizes available: Small, Large, Extra Large, Extra Extra Large (2XL)
-  Updated: 2025-02-18T23:07:27Z
+  Updated: 2025-09-30T01:51:21Z
   Vendor: Mattews Packaging
   Product Type: Latex Examination Gloves
   Availability: Available
@@ -1719,7 +1719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/microfibre-cloths-black-400mm-x-400mm-300gsm-50-pack-dry-cloths-essential-supplies-640669.jpg?v=1719445317
   Price: $79.00 NZD
 - [Microfibre Cloths - Blue, 400mm x 400mm, 300gsm - 50 Pack](https://essentialsupplies.co.nz/products/microfibre-cloths-blue-400mm-x-400mm-300gsm-50): Microfibre cleaning cloths are ideal for general use cleaning and can be used wet or dry on a variety of hard surfaces. When used dry, the static attracts the smallest dust and dirt particles for an efficient clean. Available in a range of colours to avoid cross contamination. Can be used wet or dry on a variety of hard surfaces Size: 400mm x 400mm x 300gsm Pack of 50 Colour: Blue
-  Updated: 2025-01-10T00:07:46Z
+  Updated: 2025-09-30T01:22:40Z
   Vendor: Mattews Packaging
   Product Type: Dry Cloths
   Availability: Available
