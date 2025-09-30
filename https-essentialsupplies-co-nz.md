@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-29T20:00:38.805Z
+- Updated At: 2025-09-30T00:00:38.801Z
 
 ## Products
 
@@ -2804,7 +2804,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/round-toilet-tidy-set-silver-plastic-toilet-brushes-essential-supplies-588419.jpg?v=1719445808
   Price: $15.00 NZD
 - [Round Toilet Tidy Set - White, Plastic](https://essentialsupplies.co.nz/products/round-toilet-tidy-set-white-plastic-6): Round toilet tidy set features a large premium model round brush head for thorough cleaning. With a safe-touch anti-bacterial plastic handle designed to kill germs.The large durable caddy and plastic skirt helps conceal brush head for a neat and tidy look. Colour: White
-  Updated: 2025-02-15T04:00:39Z
+  Updated: 2025-09-29T22:08:15Z
   Vendor: Mattews Packaging
   Product Type: Toilet Brushes
   Availability: Available
