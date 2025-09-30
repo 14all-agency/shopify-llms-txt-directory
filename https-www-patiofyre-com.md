@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-09-29T21:12:15.541Z
+- Updated At: 2025-09-30T16:00:27.813Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -145,10 +145,10 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2025-09-28T11:17:51Z
   Total Products: 3
 - [Best Selling Products](https://www.patiofyre.com/collections/best-selling-products)
-  Updated: 2025-09-29T11:15:07Z
+  Updated: 2025-09-30T11:17:48Z
   Total Products: 29
 - [Newest Products](https://www.patiofyre.com/collections/newest-products)
-  Updated: 2025-09-29T11:15:07Z
+  Updated: 2025-09-30T11:17:48Z
   Total Products: 29
 - [Jetlamp Only](https://www.patiofyre.com/collections/jetlamp-only)
   Updated: 2025-09-28T11:17:51Z
@@ -195,8 +195,11 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
     Updated: 2025-06-10T22:42:20Z
     Author: Shopify API
   - [We Made You a Playlist](https://www.patiofyre.com/blogs/patiofyre-blog/we-made-you-a-playlist): <p><meta charset="utf-8">Set the perfect vibe for your next fire with the Patiofyre Playlist. This no-skip Spotify mix blends indie grooves, mellow remixes, and slow-burn classics—curated for sunset hangs, post-dinner chills, and spontaneous backyard dance breaks. </p>
-    Updated: 2025-08-02T19:42:41Z
+    Updated: 2025-09-29T22:06:40Z
     Author: Sophie Eger
+  - [Small Space, Big Warmth: Patio Heating Solutions for Compact Areas](https://www.patiofyre.com/blogs/patiofyre-blog/small-space-big-warmth-patio-heating-solutions-for-compact-areas)
+    Updated: 2025-09-29T21:21:22Z
+    Author: Angela Korish
   - [Patiofyre in The Manual: Why the Metro Jetlamp Is Changing Outdoor Heat](https://www.patiofyre.com/blogs/patiofyre-blog/patiofyre-in-the-manual-why-the-metro-jetlamp-is-changing-outdoor-heat)
     Updated: 2025-09-11T18:17:25Z
     Author: Sophie Eger
