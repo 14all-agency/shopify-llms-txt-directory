@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-30T00:00:43.981Z
+- Updated At: 2025-09-30T04:00:44.523Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -21748,7 +21748,7 @@ From £119
     Price: £850.00 GBP
 - [Ruby Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/ruby-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Ruby Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced rubies. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 £425
-  Updated: 2025-09-29T17:10:37Z
+  Updated: 2025-09-30T03:33:57Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21785,7 +21785,7 @@ From £119
     Price: £755.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 From £425
-  Updated: 2025-09-29T17:24:30Z
+  Updated: 2025-09-30T00:57:13Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
