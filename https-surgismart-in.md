@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-09-29T12:00:30.969Z
+- Updated At: 2025-09-30T08:00:32.250Z
 
 ## Products
 
@@ -3064,35 +3064,35 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-3.jpg?v=1751477965
   Price: ₹1,399.00 INR
 - [Buy EASYCARE Digital Baby Weighing Scale with Height Meter | Surgismart](https://surgismart.in/products/easycare-digital-baby-weighing-scale): Monitor your baby’s growth with EASYCARE Digital Baby Weighing Scale. Accurate, safe tray, height meter, LCD display & auto-on/off. Shop at Surgismart.
-  Updated: 2025-09-29T08:04:16Z
+  Updated: 2025-09-29T20:03:39Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/19.jpg?v=1751477964
   Price: ₹3,634.00 INR
 - [Buy EASYCARE Pulse Oximeter with LED Display & Accurate SpO2 Monitoring | Surgismart](https://surgismart.in/products/easycare-pulse-oximeter-spo2-monitor): EASYCARE Pulse Oximeter with LED display ensures accurate SpO2 & pulse monitoring. Portable, waterproof, durable & doctor-recommended. Shop now at Surgismart.
-  Updated: 2025-09-29T08:01:05Z
+  Updated: 2025-09-29T19:59:51Z
   Vendor: EASYCARE Global
   Product Type: Oximeter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/PulseOximeter.png?v=1751477963
   Price: ₹1,499.00 INR
 - [Buy EASYCARE Fetal Doppler for Baby Heartbeat Monitoring at Home | Surgismart](https://surgismart.in/products/easycare-fetal-doppler-heartbeat-monitor): Monitor your baby’s heartbeat at home with EASYCARE Fetal Doppler. Color LED display, headphone jack, safe, durable & easy to use. Shop at Surgismart.
-  Updated: 2025-09-29T07:57:45Z
+  Updated: 2025-09-29T19:57:03Z
   Vendor: EASYCARE Global
   Product Type: Fetal Doppler
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1122-600x600.jpg?v=1759132617
   Price: ₹3,999.00 INR
 - [Buy EASYCARE Toilet Seat Riser (6-Inch) for Seniors & Post-Surgery | Surgismart](https://surgismart.in/products/easycare-toilet-seat-riser-6-inch): EASYCARE Toilet Seat Riser adds 6" height for seniors & recovery. Secure, durable & tool-free install. Shop comfort & safety at Surgismart.
-  Updated: 2025-09-29T07:53:18Z
+  Updated: 2025-09-29T19:44:53Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-2.jpg?v=1751477961
   Price: ₹1,999.00 INR
 - [Buy EASYCARE EC6012 Anti Decubitus Air Mattress with Pump | Surgismart](https://surgismart.in/products/easycare-ec6012-anti-decubitus-air-mattress): Shop EASYCARE EC6012 Anti Decubitus Air Mattress at Surgismart. Prevent bedsores & pressure ulcers with tubular design, quiet pump & medical-grade comfort.
-  Updated: 2025-09-29T07:39:16Z
+  Updated: 2025-09-29T19:17:54Z
   Vendor: EASYCARE Global
   Product Type: Air Mattress
   Availability: Available
