@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-30T12:00:49.188Z
+- Updated At: 2025-09-30T16:00:47.684Z
 
 ## Products
 
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-30T07:03:01Z
+  Updated: 2025-09-30T13:30:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15008,7 +15008,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Dolce-Gabbana-Light-Blue-Brinxx-Couture-7839.jpg?v=1709876298
     Price: $134.00 USD
 - [Black Slit Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/pu-slit-midi-dress): Introducing our Black Slit Midi Dress - the perfect addition to your wardrobe. Made from high-quality PU material, this dress offers both style and durability.
-  Updated: 2025-09-30T07:08:52Z
+  Updated: 2025-09-30T15:02:58Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18358,7 +18358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sequin-V-bar-Crisscross-Tube-Dress-Brinxx-Couture-7826_6d6f37fc-2343-4b5b-aa2c-17ffff1bf61b.jpg?v=1736049987
     Price: $49.99 USD
 - [Off Shoulders Stretch Dress](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740): Indulge in effortless style with our Off Shoulders Stretch Dress! This plus size dress features a flattering off-shoulder neckline and stretchy fabric for a comfortable and stylish fit. Perfect for any occasion, this dress will leave you feeling confident and chic!
-  Updated: 2025-08-29T11:57:41Z
+  Updated: 2025-09-30T12:40:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18396,7 +18396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Off-Shoulders-Stretch-Dress-Brinxx-Couture-3432.jpg?v=1726379914
     Price: $59.99 USD
   - [Gucci / 3XL](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740?variant=43330052227254)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Off-Shoulders-Stretch-Dress-Brinxx-Couture-3432.jpg?v=1726379914
     Price: $59.99 USD
 - [Solid Mesh Ruched Midi Dress | Brinxx Couture](https://www.brinxxcouture.com/products/solid-mesh-ruched-midi-dress): Shop the Solid Mesh Ruched Midi Dress at Brinxx Couture. Perfect for any occasion. Add a touch of elegance to your wardrobe today.
@@ -22001,7 +22001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-09-30T11:20:35Z
+  Updated: 2025-09-30T13:16:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23548,7 +23548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-30T11:10:37Z
+  Updated: 2025-09-30T13:51:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
