@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-09-29T16:00:34.233Z
+- Updated At: 2025-09-30T04:00:33.512Z
 
 ## Products
 
@@ -4913,7 +4913,7 @@
     Availability: Not Available
     Price: ₹36,999.00 INR
 - [Grownex Packaging Luxury Wooden Box with Gold Foiling & 3 Jars](https://grownexpackaging.com/products/3-jar-white-marble-wooden-box): Diwali gift packaging boxes with rich traditional designs—ideal for gifting mithai, dry fruits, and chocolates during the festive season.
-  Updated: 2025-09-29T12:23:09Z
+  Updated: 2025-09-29T17:04:23Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -5230,7 +5230,7 @@
     Availability: Available
     Price: ₹3,649.00 INR
 - [Blue Floral Print Dryfruit Box – 6 Compartments | Stylish & Durable Gift Packaging](https://grownexpackaging.com/products/blue-floral-print-6-dryfruit-box): Discover the Blue Floral Print 6-Compartment Dry Fruit Box — featuring an elegant floral design, durable build, and organized storage. Perfect for gifting during weddings, festivals, or special celebrations.
-  Updated: 2025-09-23T12:38:17Z
+  Updated: 2025-09-29T20:12:15Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -5618,7 +5618,7 @@
     Availability: Available
     Price: ₹28,749.00 INR
 - [Grownex Packaging: Premium Wooden Gift Box for 3 Jars with Embossed Print](https://grownexpackaging.com/products/3-jar-green-garden-print-wooden-box): Present dry fruits in style with our premium wooden gift box – perfect for Diwali, weddings, or corporate gifting. Elegant, reusable, and eco-friendly.
-  Updated: 2025-09-29T12:23:09Z
+  Updated: 2025-09-29T17:04:14Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -7453,7 +7453,7 @@
     Availability: Available
     Price: ₹1,879.00 INR
 - [Pink Peacock Foil Gift Combo Pack – Wooden Box, Envelope, Paper Bag & Chocolate Box | Luxury Festive Packaging](https://grownexpackaging.com/products/raksha-bandhan-gift-packaging-combo-pack-of-4-items): Shop the Pink Peacock Foil Festive Gift Combo Pack featuring a 4 jar wooden gift box, designer envelope, paper bag, and 15 cavity chocolate box. Elegant, reusable, and perfect for weddings, festivals, and corporate gifting.
-  Updated: 2025-09-29T12:23:09Z
+  Updated: 2025-09-29T22:20:51Z
   Vendor: Grownex Packaging
   Product Type: hamper box
   Availability: Available
