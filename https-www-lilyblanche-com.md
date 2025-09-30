@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-09-29T20:00:44.570Z
+- Updated At: 2025-09-30T00:00:43.981Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2022,7 +2022,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £190.00 GBP
 - [Silver & Rose Gold Bee Bangle | Lily Blanche](https://www.lilyblanche.com/products/bee-bangle-silver-rose-gold): Bees have long been a source of fascination and inspiration for me, stemming from the days when I kept bees myself. This beautiful LILY BLANCHE Bee bangle is made of sterling silver and features a tiny bee charm in 18 carat rose gold vermeil.
-  Updated: 2025-08-01T22:09:08Z
+  Updated: 2025-09-29T20:18:51Z
   Vendor: Lily Blanche
   Product Type: Bangle
   Availability: Available
@@ -3974,7 +3974,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_39f632e1-1ff3-4b2e-8a81-20f37e4770bd.jpg?v=1741878819
   Price: £75.00 GBP
 - [Blue Topaz Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-gold): Looking for the perfect gift for yourself or a loved one? This gold vermeil heart locket holds two of your precious photos and can be personalised for free. Featuring a Blue Topaz Gemstone. Hallmarked. Free UK Shipping & Luxury Jewellery Care Kit Included. Shop Photo Lockets Online Today. Express Delivery Available.
-  Updated: 2025-09-28T17:24:43Z
+  Updated: 2025-09-29T21:31:52Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16874,7 +16874,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £630.00 GBP
 - [Men's St Christopher Necklace In Silver & Free Engraving & Stylish](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver): Buy Men's St Christopher Necklaces at Lily Blanche. Our stylish silver St Christopher men's necklace comes with different chain lengths to suit your outfit choices. Uplift your fashion fits today with our popular men's necklaces. Shop & save on quality jewellery with Lily Blanche.
-  Updated: 2025-09-26T06:55:30Z
+  Updated: 2025-09-29T21:16:46Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17948,7 +17948,7 @@ From £119
     Availability: Available
     Price: £465.00 GBP
 - [Solid White Gold Rope Chain](https://www.lilyblanche.com/products/solid-white-gold-rope-chain): This solid 9-carat white gold Prince of Wales rope chain will add interest and texture to any look. Available in 5 lengths. The perfect gift, the rope chain comes with a complimentary jewellery care kit. Shop solid white gold chains today.
-  Updated: 2025-09-23T08:52:30Z
+  Updated: 2025-09-29T23:04:47Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -21822,7 +21822,7 @@ From £425
     Price: £755.00 GBP
 - [Amethyst Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/amethyst-cross-necklace-in-solid-gold): Satisfaction 100% guaranteed with this stunning Amethyst Cross necklace in Solid Gold. An heirloom piece this real amethyst and  9-carat gold cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
 From £190.
-  Updated: 2025-09-29T17:05:37Z
+  Updated: 2025-09-29T23:43:29Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21858,7 +21858,7 @@ From £190.
     Availability: Available
     Price: £520.00 GBP
 - [Peridot Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/peridot-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20.
-  Updated: 2025-09-29T16:50:37Z
+  Updated: 2025-09-30T00:00:17Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21894,7 +21894,7 @@ From £190.
     Availability: Available
     Price: £525.00 GBP
 - [Blue Topaz Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/blue-topaz-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-29T16:55:37Z
+  Updated: 2025-09-29T23:48:43Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21930,7 +21930,7 @@ From £190.
     Availability: Available
     Price: £520.00 GBP
 - [Tsavorite Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/tsavorite-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-09-29T17:15:38Z
+  Updated: 2025-09-29T23:42:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24836,8 +24836,8 @@ From £129
   Updated: 2025-03-26T11:37:00Z
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-09-22T17:51:40Z
-- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on September 29 202...
-  Updated: 2025-09-29T09:46:21Z
+- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on September 30 202...
+  Updated: 2025-09-29T23:05:48Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
