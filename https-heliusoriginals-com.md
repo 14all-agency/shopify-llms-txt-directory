@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-09-29T20:00:28.173Z
+- Updated At: 2025-09-30T08:00:29.213Z
 
 ## Products
 
@@ -80,7 +80,7 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/HeliusOriginalsSpringsmokerecipebookcocktailcover.png?v=1681489647
   Price: $0.00 USD
 - [Smoked Cocktail Recipes for Fall | Helius Originals Recipe Book](https://heliusoriginals.com/products/smoked-cocktail-book-fall): Discover our Fall Smoke Cocktail Recipe Book featuring smoked twists on the Manhattan cocktail recipe, Aviation, Zombie, Toronto, and more.
-  Updated: 2025-09-29T18:40:39Z
+  Updated: 2025-09-30T03:10:34Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
