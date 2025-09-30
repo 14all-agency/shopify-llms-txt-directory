@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-09-30T12:00:32.849Z
+- Updated At: 2025-09-30T16:00:32.305Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/200w-ac-adapter-for-oupes-series-102746.jpg?v=1741944119
   Price: $99.99 USD
 - [240W Portable Solar Panels - OUPES](https://oupes.com/products/oupes-portable-solar-panel-240w): Harness clean energy with OUPES 240W solar panels. These portable solar panels are perfect for charging your power station on the go, ideal for camping, RVs, and off-grid adventures.
-  Updated: 2025-09-27T09:15:25Z
+  Updated: 2025-09-30T12:17:01Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -157,14 +157,14 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-portable-folding-camping-chair-584797.jpg?v=1741944177
   Price: $89.00 USD
 - [Portable Solar Generator, Solar Panel Kit | OUPES Mega 3](https://oupes.com/products/mega-3-2-240w-solar-panel-solar-generator-kit): OUPES Mega 3 portable solar generator with solar panel kit, a 3600W 3072Wh power solution for home backup and outdoor energy needs.
-  Updated: 2025-09-30T09:43:06Z
+  Updated: 2025-09-30T15:08:40Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-3-2240w-solar-panel-solar-generator-kit-215324.webp?v=1741944178
   Price: $1,499.00 USD
 - [4000W Portable Solar Power Generator Kit | OUPES Mega 5](https://oupes.com/products/mega-5-2-240w-solar-panel-solar-generator-kit): OUPES Mega 5 portable solar power generator kit with 2*240W solar panels, a 4000W solar generator kit for home backup and outdoor use.
-  Updated: 2025-09-30T09:43:25Z
+  Updated: 2025-09-30T15:08:55Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -356,7 +356,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/20ft-12awg-solar-panel-extension-cables-595204.jpg?v=1741944300
   Price: $29.90 USD
 - [Mega 2 Portable Solar Generator Kit with 240W Solar Panel](https://oupes.com/products/mega-2-240w-solar-panel-solar-generator-kit): OUPES Mega 2 Portable Solar Generator Kit with a 240W Solar Panel. Our solar panel generator kit offering efficient solar charging and portable energy storage for your devices. Get more info.
-  Updated: 2025-09-30T09:42:35Z
+  Updated: 2025-09-30T15:08:57Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -503,7 +503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-1-2240w-solar-panel-solar-generator-kits-798466.png?v=1741944375
   Price: $1,539.00 USD
 - [Storage Shelves with Casters](https://oupes.com/products/storage-sheleves-with-casters): Durable Construction: Heavy-duty steel frame supports up to 1050 lbs on leveling feet. Adjustable Shelves: Customize shelf height for versatile storage needs. Lockable Wheels: Easily move or lock the unit in place with caster wheels. Ample Storage Space: 35.4" W x 23.8" D x 51.4" H provides large capacity for any room. Wide Application: Perfect for garages, kitchens, offices, and more. Easy to Assemble: Tool-free assembly in 15 minutes, no nuts or bolts required.
-  Updated: 2025-09-22T17:19:29Z
+  Updated: 2025-09-30T14:46:52Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -912,7 +912,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_240W_3.png?v=1759220673
   Price: $2,049.00 USD
 - [Mega 5 + B5 Extra Battery + 2*240W Solar Panel | Solar Generator Kit](https://oupes.com/products/mega-5-b5-extra-battery-2-240w-solar-panel-solar-generator-kit): Get reliable backup power with OUPES Mega 5, a 4000W 5040Wh home backup and portable power station. Stay powered up wherever you go!
-  Updated: 2025-09-30T09:35:38Z
+  Updated: 2025-09-30T14:46:53Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
