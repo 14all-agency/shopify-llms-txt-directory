@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-30T04:00:41.718Z
+- Updated At: 2025-09-30T12:00:39.637Z
 
 ## Products
 
@@ -263,7 +263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/silverlined-latex-gloves-powder-free-blue-l-300mm-cuff-700g-192-gloves-latex-examination-gloves-essential-supplies-329810.jpg?v=1719445924
   Price: $149.00 NZD
 - [Silverlined Latex Gloves Powder Free - Blue, M, 300mm Cuff, 70.0g - 192 Gloves](https://essentialsupplies.co.nz/products/silverlined-latex-gloves-powder-free-blue-m-300mm-cuff-70-0g-192): Blue silverlined rubber gloves designed for easy-on-easy off removal.Featuring sand pitch anti-slip pattern for enhanced grip in wet and dry conditions and chlorinated for low ex-tractable proteins and residual chemicals. Compliant with FDA regulation for use in repeated contact with food 300mm cuff 70.0g Colour: Blue Size: Medium Pack:96 packs x 2's (192 gloves) Note:*Other sizes available: Small, Large, Extra Large, Extra Extra Large (2XL)
-  Updated: 2025-09-30T01:51:21Z
+  Updated: 2025-09-30T04:57:21Z
   Vendor: Mattews Packaging
   Product Type: Latex Examination Gloves
   Availability: Available
@@ -7886,7 +7886,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Hand Stretch Film](https://essentialsupplies.co.nz/collections/hand-stretch-film)
-  Updated: 2025-09-02T11:15:59Z
+  Updated: 2025-09-30T11:13:35Z
   Total Products: 12
 - [Kraft Paper Rolls](https://essentialsupplies.co.nz/collections/kraft-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
@@ -7901,7 +7901,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Machine Stretch Film](https://essentialsupplies.co.nz/collections/machine-stretch-film)
-  Updated: 2025-09-02T11:15:59Z
+  Updated: 2025-09-30T11:13:35Z
   Total Products: 7
 - [Newsprint Paper Rolls](https://essentialsupplies.co.nz/collections/newsprint-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
@@ -7958,7 +7958,7 @@
   Updated: 2024-07-15T02:47:10Z
   Total Products: 5
 - [Premium Packaging Tape](https://essentialsupplies.co.nz/collections/premium-packaging-tape)
-  Updated: 2025-09-02T11:15:59Z
+  Updated: 2025-09-30T11:13:35Z
   Total Products: 4
 - [Printed Message Tape](https://essentialsupplies.co.nz/collections/printed-message-tape)
   Updated: 2024-07-15T02:47:11Z
