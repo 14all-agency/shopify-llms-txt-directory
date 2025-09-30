@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-09-29T20:00:34.481Z
+- Updated At: 2025-09-30T00:00:34.963Z
 
 ## Products
 
@@ -11147,7 +11147,7 @@
 - [Your privacy choices](https://milvertons.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:38:02Z
 - [Matching Shoe & Bag Sets - Curated Luxury](https://milvertons.com/pages/shoe-bag-sets): Matching Shoe & Bag Sets - Curated Luxury. Effortless luxury. Discover our curated collection of matching shoe and bag sets. Elevate any outfit wit...
-  Updated: 2025-09-29T09:32:01Z
+  Updated: 2025-09-29T23:29:34Z
 
 ## Policies
 
