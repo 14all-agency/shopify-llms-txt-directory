@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-29T12:00:49.159Z
+- Updated At: 2025-09-30T00:00:51.124Z
 
 ## Products
 
@@ -5568,7 +5568,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [TOSHI Sunhat Olly - Indiana](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-29T07:22:57Z
+  Updated: 2025-09-29T17:27:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5583,10 +5583,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest?variant=41998351335518)
-    Availability: Available
+    Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Sunhat Olly - Marsala](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-marsala): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-23T22:50:38Z
+  Updated: 2025-09-29T17:27:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5598,7 +5598,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-marsala?variant=40039501365342)
-    Availability: Available
+    Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Swim Baby Bell Hat Classic - Coral](https://www.littlebambinos.co.nz/products/swim-baby-bell-hat-classic-coral): Toshi Swim Bell Hat is a flattering and feminine bell shape baby sunhat. The baby sunhat features an adjustable head tie and chin tie to secure the hat. Pretty styling is created with a softly frilled border. Most importantly, the classic bell hat has a well structured brim that maintains shape when wet.Â DETAILSÂ UPF 50+ UV protection Chlorine safe and pool friendly Well structured brim maintains shape when wet Original and exclusive Toshi print design Quality crafting provides lasting durability SIZINGÂ Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-08-06T22:39:49Z
@@ -7098,7 +7098,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:54:45Z
+  Updated: 2025-09-29T22:20:46Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -9062,7 +9062,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Flap Cap Baby - Periwinkle](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle): The Toshi Flap Cap Baby is our most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS: A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Periwinkle features a French navy stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-08-28T23:48:21Z
+  Updated: 2025-09-29T21:18:26Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9095,7 +9095,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-07T06:07:02Z
+  Updated: 2025-09-29T17:27:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9110,7 +9110,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-25T04:43:00Z
+  Updated: 2025-09-29T17:27:35Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -10118,7 +10118,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_48_Piece_Roads_Creative_Pack.jpg?v=1725230414
   Price: $211.99 NZD
 - [CONNETIX Rainbow Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:54:45Z
+  Updated: 2025-09-29T22:20:45Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10868,7 +10868,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $68.00 NZD
 - [SUNNY FOLK Rock n roll beans organic jumper](https://www.littlebambinos.co.nz/products/rock-n-roll-beans-jumper): Rock n roll baby! You don't need nothin but a can a beans and some sticks - Bespoke hand-drawn illustration - GOTS-certified 100% organic brushed cotton: for softness and breathability - Oversized fit: with dropped shoulder: for extended wear - Designed in New Zealand Modelled by Iro, 3 years old and wearing size 3-4 years and Afia 5 years old and wearing size 4-5 years *Digital print will fade slightly with washing - please follow the care instructions to preserve your print
-  Updated: 2025-08-06T23:00:46Z
+  Updated: 2025-09-29T23:03:12Z
   Vendor: Sunny Folk Clothing
   Product Type: Jumper
   Availability: Available
@@ -13257,14 +13257,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-09-28T17:22:41Z
+  Updated: 2025-09-29T20:02:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-09-29T07:02:45Z
+  Updated: 2025-09-29T21:42:46Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13285,7 +13285,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
 - [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-09-27T21:00:42Z
+  Updated: 2025-09-29T21:40:46Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13350,13 +13350,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
-- [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-09-29T11:42:40Z
-  Vendor: Oria Skin
-  Product Type: Skincare
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
-  Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
   Updated: 2025-09-27T21:02:41Z
   Vendor: Oria Skin
@@ -13385,7 +13378,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-09-26T01:34:42Z
+  Updated: 2025-09-29T21:34:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -14093,7 +14086,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102529-p99103_1.jpg?v=1748424970
   Price: $99.00 NZD
 - [Homepark Check Large Waterproof Play Mat](https://www.littlebambinos.co.nz/products/copy-of-homepark-check-rose): At last a play mat that is practical and stylish! We have created a timeless yet contemporary design that will slide seamlessly into your living space, nursery, or child’s bedroom. A classic look guaranteed to fit most interiors for many years to come. Is it a rug or is it a play mat? It’s both! On the reverse, select from either Grey or Rose Homepark Check to provide an equally timeless alternative look from the same play mat.
-  Updated: 2025-08-15T10:16:42Z
+  Updated: 2025-09-29T21:58:45Z
   Vendor: Little Finch
   Product Type: 
   Availability: Available
@@ -15712,14 +15705,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-29T08:22:41Z
+  Updated: 2025-09-29T23:22:45Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-29T08:22:46Z
+  Updated: 2025-09-29T19:22:43Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16240,6 +16233,32 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [5y](https://www.littlebambinos.co.nz/products/grown-chunky-rib-organic-pull-over-stone?variant=42038991847518)
     Availability: Available
     Price: $75.00 NZD
+- [KONGES SLOJD 2 Pack Dinner Bibs With Sleeves - Tea Stripe + Flint Stone](https://www.littlebambinos.co.nz/products/konges-slojd-2-pack-dinner-bibs-with-sleeves-tea-stripe-flint-stone): This set includes two meal bibs with sleeves designed to keep your child clean and comfortable during mealtime.
+  Updated: 2025-09-29T21:43:06Z
+  Vendor: Konges slojd
+  Product Type: Bibs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103632-m00137_1.jpg?v=1758230721
+  - [6-12m](https://www.littlebambinos.co.nz/products/konges-slojd-2-pack-dinner-bibs-with-sleeves-tea-stripe-flint-stone?variant=42042022789214)
+    Availability: Available
+    Price: $75.00 NZD
+  - [18m-3y](https://www.littlebambinos.co.nz/products/konges-slojd-2-pack-dinner-bibs-with-sleeves-tea-stripe-flint-stone?variant=42042022821982)
+    Availability: Available
+    Price: $75.00 NZD
+- [KONGES SLOJD  2 pk Glitter Cups - Outer Space](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-outer-space): These glitter cups are made from durable Polyethylene Terephthalate Glycol (PCTG) with purified water and Polyethylene Terephthalate (PET) filler. They hold 180 ml and measure 6.5 cm in diameter by 9 cm in height. Please note, they are not dishwasher or microwave safe. Suitable for temperatures between 0°C and 100°C.
+  Updated: 2025-09-29T21:43:06Z
+  Vendor: Konges slojd
+  Product Type: Cup
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103638-s45073_1.jpg?v=1758230937
+  Price: $59.00 NZD
+- [KONGES SLOJD  2 pk Glitter Cups - Rainbow](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-rainbow): These glitter cups are made from durable Polyethylene Terephthalate Glycol (PCTG) with purified water and Polyethylene Terephthalate (PET) filler. They hold 180 ml and measure 6.5 cm in diameter by 9 cm in height. Please note, they are not dishwasher or microwave safe. Suitable for temperatures between 0°C and 100°C.
+  Updated: 2025-09-29T21:43:06Z
+  Vendor: Konges slojd
+  Product Type: Cup
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103638-s45082_1.jpg?v=1758231096
+  Price: $59.00 NZD
 - [TRYBIKE - Vintage Cream](https://www.littlebambinos.co.nz/products/trybike-vintage-cream): The Vintage Cream matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
   Updated: 2025-09-22T12:22:10Z
   Vendor: Trybike
@@ -16591,8 +16610,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 568
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 715
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17428,8 +17447,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 5710
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 5854
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-09-29T11:01:54Z
   Total Products: 242
@@ -17443,8 +17462,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 1462
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 1621
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-29T11:01:54Z
   Total Products: 501
@@ -17452,8 +17471,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 5756
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 5900
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
   Total Products: 0
@@ -17851,8 +17870,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 5723
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 5867
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-09-29T11:01:54Z
   Total Products: 43
@@ -17995,8 +18014,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-29T11:01:54Z
   Total Products: 552
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 5725
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 5869
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 37
@@ -18094,8 +18113,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-29T11:01:54Z
   Total Products: 2347
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 5777
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 5921
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
   Total Products: 22
@@ -18124,11 +18143,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:15Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2025-09-29T11:55:56Z
-  Total Products: 1768
+  Updated: 2025-09-29T23:55:56Z
+  Total Products: 1912
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-28T20:25:40Z
-  Total Products: 3099
+  Updated: 2025-09-29T22:11:50Z
+  Total Products: 3098
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-09-28T20:55:17Z
   Total Products: 3
@@ -18147,161 +18166,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
 - [Little Luxury](https://www.littlebambinos.co.nz/collections/little-luxury): Playmats as fun and functional as they are beautiful. Nurturing your family's transition from newborn to childhood and beyond, with understated elegance and purposeful design.
   Updated: 2025-09-23T00:10:27Z
   Total Products: 4
-
-## Blogs
-
-- [Journal](https://www.littlebambinos.co.nz/blogs/news)
-  - [Little Bambinos Collection | AW18](https://www.littlebambinos.co.nz/blogs/news/collection-aw18): Little Bambinos Collection | AW18
-    Updated: 2019-01-21T23:02:33Z
-    Author: Ulia Ash
-  - [Rylee + Cru Holiday '18](https://www.littlebambinos.co.nz/blogs/news/rylee-cru-holiday-18): <p><a href="https://www.littlebambinos.co.nz/collections/rylee-cru" target="_blank" rel="noopener noreferrer">Rylee + Cru</a> is a treasured gem amongst our collections at Little Bambinos.  Every season Kelli Murray delivers pieces somehow even better than the last, which</p>
-    Updated: 2019-01-21T23:01:39Z
-    Author: Ulia Ash
-  - [Little Bambinos | SS18/19](https://www.littlebambinos.co.nz/blogs/news/little-bambinos-ss18-19): <span>This season we one again asked the dream team </span><a href="https://www.instagram.com/sesandjen/" target="_blank" rel="noopener noreferrer">@sesandjen</a><span> and </span><a href="https://www.instagram.com/nikkidelesphotography/" target="_blank" rel="noopener noreferrer">@nikkidelesphotography</a><span> to create a summer editorial for us with their favourite </span>
-    Updated: 2019-01-21T22:58:39Z
-    Author: Ulia Ash
-  - [Introducing | G.NANCY](https://www.littlebambinos.co.nz/blogs/news/introducing-g-nancy): <span>This season we welcome G.NANCY to the fold with the launch of this seasons "Our Days are Golden".  </span>
-    Updated: 2019-01-21T23:02:15Z
-    Author: Ulia Ash
-  - [Introducing | Louise Misha](https://www.littlebambinos.co.nz/blogs/news/introducing-louise-misha): <p><span>Introducing Louise Misha AW18</span></p>
-    Updated: 2019-01-21T23:04:52Z
-    Author: Ulia Ash
-  - [Introducing | Dot Dot Swim](https://www.littlebambinos.co.nz/blogs/news/introducing-dot-dot-swim): <div>DOT DOT was born out of a simple ideal, to let little girls be just that – little.</div>
-<div>In a time where girls are growing up so quickly, DOT DOT embraces everything</div>
-    Updated: 2019-01-21T23:04:02Z
-    Author: Ulia Ash
-  - [FEATURE | Wildrising X Daughter](https://www.littlebambinos.co.nz/blogs/news/feature-wildrising-x-daughter): <span>We recently asked Kathleen + Sophia from </span><a href="https://www.instagram.com/_wildrising/" target="_blank" rel="noopener noreferrer">@_wildrising</a><span> to share with us their favourite pieces from the latest Daughter collection "Oh Somewhere '18"</span>
-    Updated: 2019-01-21T22:58:57Z
-    Author: Ulia Ash
-  - [STYLE INFLUENCER | Mandy Duncan](https://www.littlebambinos.co.nz/blogs/news/style-influencer-mandy-duncan): In our latest feature we talk to influencers and style legends alike.  Our first edition features Mandy Duncan - mum of soon to be 3, owner of Noah + Bowies and
-    Updated: 2019-01-21T23:00:57Z
-    Author: Ulia Ash
-  - [FEATURE | Birthday Celebrations](https://www.littlebambinos.co.nz/blogs/news/feature-birthday-celebrations): <div>Last month one of our favourite one year olds celebrated her first year milestone!<br>Olivia and big sister Georgia topped all levels of adorable decked out in Tutu du</div>
-    Updated: 2019-01-21T22:59:46Z
-    Author: Ulia Ash
-  - [Introducing | Ruffets + Co](https://www.littlebambinos.co.nz/blogs/news/introducing-ruffets-co): <span>This season we welcome Ruffets + Co to the Little Bambinos family, with the launch of their latest swimwear collection!</span>
-    Updated: 2019-01-21T22:59:20Z
-    Author: Ulia Ash
-  - [Introducing | Minouche SS18](https://www.littlebambinos.co.nz/blogs/news/introducing-minouche-ss18): <div>Another new brand to the Little Bambinos family this season is Minouche.</div>
-<div><span>If you're unfamiliar with this beautiful Australian brand, Minouche is synonymous</span></div>
-    Updated: 2019-01-21T22:58:14Z
-    Author: Ulia Ash
-  - [Preview | Jamie Kay Meadowlands Drop II](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-meadowlands-drop-ii): <div>Jamie Kay Meadowlands Drop II launches 11am (NZST) Monday 29th October!<br>Preview the collection below:</div>
-    Updated: 2019-01-21T22:57:55Z
-    Author: Ulia Ash
-  - [EXCLUSIVE | G.Nancy Christmas PJ Collection](https://www.littlebambinos.co.nz/blogs/news/exclusive-g-nancy-christmas-collection): <span>This year we welcome 'Eucalyptus' to the G.Nancy 'Very Merry Aussie Christmas PJ Collection'!  A little green on green for this beautiful vintage inspired collection, </span>
-    Updated: 2019-01-21T22:57:02Z
-    Author: Ulia Ash
-  - [EXCLUSIVE | Minouche Christmas '18](https://www.littlebambinos.co.nz/blogs/news/exclusive-minouche-christmas-18): <span>This Christmas we're excited to be the exclusive retailer for Minouche Christmas!  </span><span>A collection of festive red and white dresses and rompers for babies and little </span>
-    Updated: 2019-01-21T23:03:19Z
-    Author: Ulia Ash
-  - [Introducing | Quincy Mae](https://www.littlebambinos.co.nz/blogs/news/introducing-quincy-mae): <div>Quincy Mae is a darling new brand that we could not be more excited to receive!</div>
-<div>A beautiful collection of baby essentials in certified organic brushed cotton and </div>
-    Updated: 2019-01-21T22:55:25Z
-    Author: Ulia Ash
-  - [Introducing | Sleepy Doe Christmas](https://www.littlebambinos.co.nz/blogs/news/introducing-sleepy-doe-christmas): <span>Inspired by our favourite seasonal fruit. A collection designed carefully for Winter, Christmas and beyond.</span>
-    Updated: 2019-01-21T22:52:23Z
-    Author: Ulia Ash
-  - [FEATURE - Ses + Jen X Petite Amalie](https://www.littlebambinos.co.nz/blogs/news/feature-ses-jen-x-petite-amalie): <div>Petite Amalie is one of the latest brands to drop at Little Bambinos for SS18/19.</div>
-<div>This beautiful brand was born from a love of timeless fashion pieces your child </div>
-    Updated: 2019-01-21T22:53:31Z
-    Author: Ulia Ash
-  - [STYLE INFLUENCER | Stephina + Daisy](https://www.littlebambinos.co.nz/blogs/news/style-influencer-stephina-daisy): <span>In our latest Style Influencer series, we chat briefly to Stephina - one of our favourite new accounts to follow, mum to Daisy and all round Instagram icon.</span>
-    Updated: 2019-01-23T02:07:35Z
-    Author: Ulia Ash
-  - [MEET THE MAKERS | RaaRaa Kids](https://www.littlebambinos.co.nz/blogs/news/meet-the-makers-raaraa-kids): <span>Earlier this season we launched the first ever collection from RaaRaa Kids.  An ensemble brand based on trans-seasonal and mostly unisex pieces, </span>
-    Updated: 2019-02-12T21:44:53Z
-    Author: Ulia Ash
-  - [NEW SEASON | Rylee + Cru SS19](https://www.littlebambinos.co.nz/blogs/news/new-season-rylee-cru-ss19)
-    Updated: 2019-02-17T06:36:38Z
-    Author: Ulia Ash
-  - [NEW SEASON | Louise Misha SS19](https://www.littlebambinos.co.nz/blogs/news/new-season-louise-misha-ss19)
-    Updated: 2019-02-22T07:15:15Z
-    Author: Ulia Ash
-  - [NEW SEASON | Jamie Kay Grace Collection](https://www.littlebambinos.co.nz/blogs/news/new-season)
-    Updated: 2019-07-08T05:48:50Z
-    Author: Ulia Ash
-  - [INTRODUCING | Huxbaby Organic Essentials](https://www.littlebambinos.co.nz/blogs/news/introducing-huxbaby-organic-essentials)
-    Updated: 2019-07-08T22:38:54Z
-    Author: Ulia Ash
-  - [NEW SEASON | Rylee + Cru 'Snowbird' AW19](https://www.littlebambinos.co.nz/blogs/news/new-season-rylee-cru-snowbird-aw19)
-    Updated: 2019-07-29T08:11:55Z
-    Author: Ulia Ash
-    Tags: Rylee + Cru
-  - [FEATURE | Winter Jackets](https://www.littlebambinos.co.nz/blogs/news/feature-winter-jackets)
-    Updated: 2019-07-25T08:40:59Z
-    Author: Ulia Ash
-  - [NEW SEASON | Huxbaby "Golden" Drop 1](https://www.littlebambinos.co.nz/blogs/news/new-season-huxbaby-golden-drop-1)
-    Updated: 2019-07-31T09:30:11Z
-    Author: Ulia Ash
-    Tags: HUXBABY, NEW
-  - [PREVIEW | Jamie Kay Swim '19](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-swim-19)
-    Updated: 2019-08-20T21:49:09Z
-    Author: Ulia Ash
-    Tags: AUG-19, jamie kay, summer, swim
-  - [NEW SEASON | Louise Misha AW19](https://www.littlebambinos.co.nz/blogs/news/new-season-louise-misha-aw19)
-    Updated: 2019-09-02T03:32:17Z
-    Author: Ulia Ash
-  - [PREVIEW | Jamie Kay Maple Drop One](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-maple-drop-one)
-    Updated: 2019-10-24T23:49:42Z
-    Author: Ulia Ash
-  - [PREVIEW | Jamie Kay Maple Drop Two](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-maple-drop-two)
-    Updated: 2019-10-25T00:57:58Z
-    Author: Afterpay Integration
-  - [RECIPE | Nourishing Chicken Soup](https://www.littlebambinos.co.nz/blogs/news/recipe-nourishing-chicken-soup)
-    Updated: 2020-04-03T23:11:06Z
-    Author: Bold Commerce Collaborator
-  - [KEEP THEM BUSY | Lego Challenge](https://www.littlebambinos.co.nz/blogs/news/keep-them-busy-lego-challenge)
-    Updated: 2020-04-03T23:20:27Z
-    Author: Bold Commerce Collaborator
-  - [KEEP THEM BUSY | Rylee + Cru Colouring Book](https://www.littlebambinos.co.nz/blogs/news/keep-them-busy)
-    Updated: 2020-04-03T23:25:03Z
-    Author: Bold Commerce Collaborator
-  - [COLOURING CONTEST | Easter Bunny](https://www.littlebambinos.co.nz/blogs/news/colouring-in-contest-easter-bunny)
-    Updated: 2020-04-09T07:05:45Z
-    Author: Bold Commerce Collaborator
-  - [PREVIEW | Jamie Kay Wanderlust Collection](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-wonderlust)
-    Updated: 2020-07-22T00:41:31Z
-    Author: Bold Commerce Collaborator
-  - [Baby Shower Gift Ideas](https://www.littlebambinos.co.nz/blogs/news/baby-shower-gift-ideas)
-    Updated: 2020-08-16T20:46:14Z
-    Author: Bold Commerce Collaborator
-  - [PREVIEW | Carousel Collection by Jamie Kay](https://www.littlebambinos.co.nz/blogs/news/preview-flourish-collection-by-jamie-kay)
-    Updated: 2020-11-04T01:00:21Z
-    Author: Kate Dagg
-  - [Cardigans & Jumpers](https://www.littlebambinos.co.nz/blogs/news/cardigans-jumpers): <meta charset="utf-8">
-<p><span>Here are a few of our favourite cardigans and jumpers that will see your little ones through to winter and beyond.</span></p>
-    Updated: 2021-01-29T19:09:22Z
-    Author: Kate Dagg
-  - [Jamie Kay / The Secret Garden Collection](https://www.littlebambinos.co.nz/blogs/news/jamie-kay-the-secret-garden-collection)
-    Updated: 2021-02-18T23:22:41Z
-    Author: Kate Dagg
-  - [Misha & Puff | Passionate About Slow Fashion](https://www.littlebambinos.co.nz/blogs/news/misha-puff-passionate-about-slow-fashion): <meta charset="utf-8"><span>Misha &amp; Puff love slow fashion that's stylish, yet unfussy. Hardwearing and long lasting. Expertly crafted. Thoughtfully manufactured. Good for the planet. Kind to animals. Fair to all people involved in the process.</span>
-    Updated: 2021-03-03T00:14:21Z
-    Author: Kate Dagg
-  - [Rylee + Cru | Secret Garden](https://www.littlebambinos.co.nz/blogs/news/rylee-cru-secret-garden): <meta charset="utf-8"><span>The latest collection from Rylee + Cru is inspired by golden days and the soft hues of a blooming garden. This collection is full of sunny motifs, playful patterns, and their signature florals. </span>
-    Updated: 2021-03-23T01:21:38Z
-    Author: Kate Dagg
-  - [Quincy Mae | Drop 1 Preview](https://www.littlebambinos.co.nz/blogs/news/quincy-mae-drop-1-preview)
-    Updated: 2021-03-29T03:39:52Z
-    Author: Kate Dagg
-  - [The Lullaby Club | Autumn Collection](https://www.littlebambinos.co.nz/blogs/news/the-lullaby-club-autumn-collection): The new Autumn collection from The Lullaby Club has arrived. Shop the new Penny Midi Smock Dress and Sawyer Baby Doll Dress. Both styles are pregnancy and breastfeeding friendly. Free shipping within NZ on orders over $100.
-    Updated: 2021-04-07T23:21:38Z
-    Author: Kate Dagg
-  - [COMING SOON | MOONIE The Humming Friend](https://www.littlebambinos.co.nz/blogs/news/coming-soon-moonie-the-humming-friend): <meta charset="utf-8"><span>MOONIE the humming friend is a professional baby sleep aid, that helps babies easily fall asleep.</span>
-    Updated: 2021-06-12T02:14:54Z
-    Author: Kate Dagg
-  - [JAMIE KAY | MARIGOLD COLLECTION](https://www.littlebambinos.co.nz/blogs/news/jamie-kay-marigold-collection): <meta charset="utf-8">
-<div style="text-align: left;">Introducing the beautiful new Marigold collection from Jamie Kay designed with love for your little ones.</div>
-    Updated: 2021-08-15T05:08:01Z
-    Author: Kate Dagg
-  - [Colour & Win!](https://www.littlebambinos.co.nz/blogs/news/colour-win): Get your kids in the Christmas spirit with our festive colouring competition. Entries close Monday Dec 6 at 2PM.
-    Updated: 2021-12-03T07:10:32Z
-    Author: Kate Dagg
-  - [Grown Clothing AW22 Collection Preview](https://www.littlebambinos.co.nz/blogs/news/grown-clothing-aw22-collection-preview)
-    Updated: 2022-03-05T19:29:19Z
-    Author: Kate Dagg
-    Tags: grown
 
 ## Store Pages
 
