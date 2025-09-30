@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-09-30T08:00:37.192Z
+- Updated At: 2025-09-30T12:00:37.372Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4819,7 +4819,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-09-25T11:49:14Z
   Total Products: 5
 - [Amethyst Crystals](https://crystalshealing.co.uk/collections/amethyst-crystals): Each piece is crafted with care and carries the natural energy of amethyst. Learn more about its meaning and benefits here.
-  Updated: 2025-09-25T11:49:14Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 32
 - [Spa Crystal Sets](https://crystalshealing.co.uk/collections/spa-crystal-sets): Transform your self-care with crystal spa sets. Each bundle blends healing stones, oils, tools or salts — designed to soothe your body, calm your mind, and elevate your ritual with energy and intention.
   Updated: 2025-09-25T11:49:14Z
@@ -4954,10 +4954,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-09-25T11:49:16Z
   Total Products: 22
 - [Gua Sha](https://crystalshealing.co.uk/collections/gua-sha): Elevate your skincare and energy rituals with crystal Gua Sha tools. Ethically crafted from Rose Quartz, Jade, Amethyst & more – for glow, circulation & energetic flow.
-  Updated: 2025-09-25T11:49:16Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 19
 - [Crystal Skin Care](https://crystalshealing.co.uk/collections/skin-care): Elevate your skincare ritual with crystal tools. Discover Gua Sha, facial rollers & massage wands handcrafted from healing stones like Rose Quartz, Jade, and Amethyst — for beauty with energetic purpose.
-  Updated: 2025-09-25T11:49:16Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 11
 - [Crystal Grids](https://crystalshealing.co.uk/collections/crystal-grids): Explore crystal grids designed for love, abundance, protection & serenity. Framed and intuitively arranged with healing crystals to amplify intentions and elevate your spiritual practice. Ready to activate.
   Updated: 2025-09-25T11:49:16Z
@@ -4966,7 +4966,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-09-25T11:49:16Z
   Total Products: 4
 - [Shop Crystals](https://crystalshealing.co.uk/collections/shop-crystals): Shop our full crystal collection: raw stones, figurines, wands & sacred tools. Ethically sourced and intuitively selected for healing, manifestation and spiritual practice.
-  Updated: 2025-09-25T11:49:16Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 51
 - [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
   Updated: 2025-09-27T11:18:13Z
@@ -5002,7 +5002,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-09-25T11:49:16Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-09-27T11:18:13Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 373
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-09-25T11:49:17Z
@@ -5011,13 +5011,13 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-09-25T11:49:17Z
   Total Products: 0
 - [Crystal Massage Tools](https://crystalshealing.co.uk/collections/crystal-massage-tools): Discover crystal massage tools designed for natural beauty, and energy healing. Ethically sourced stones like Rose Quartz, Amethyst, and Jade – perfect for your daily self-care ritual.
-  Updated: 2025-09-25T11:49:17Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 15
 - [Tourmaline Crystals](https://crystalshealing.co.uk/collections/tourmaline-crystals): Protect your energy with Tourmaline crystals. Explore raw stones, tumbled pieces, bracelets & jewelry — crafted for grounding, emotional stability and energetic defense. Ethically sourced for daily support.
   Updated: 2025-09-25T11:49:17Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-09-27T11:18:13Z
+  Updated: 2025-09-30T11:20:01Z
   Total Products: 372
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-09-25T11:49:17Z
