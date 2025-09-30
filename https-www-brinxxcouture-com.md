@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-30T16:00:47.684Z
+- Updated At: 2025-09-30T20:00:46.915Z
 
 ## Products
 
@@ -5870,7 +5870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fashion-Square-Sunglasses-Brinxx-Couture-7815.jpg?v=1709356501
     Price: $15.00 USD
 - [Square UV400 Sunglasses](https://www.brinxxcouture.com/products/square-polycarbonate-uv400-sunglasses): These stylish Square UV400 Sunglasses offer the perfect combination of fashion and protection. Stylish and modern, the durable frames provide 100% protection from UV rays, allowing you to enjoy the outdoors with complete peace of mind. Embrace the summer in style!
-  Updated: 2025-07-07T20:44:51Z
+  Updated: 2025-09-30T17:00:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-29T19:11:28Z
+  Updated: 2025-09-30T16:11:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-30T13:30:41Z
+  Updated: 2025-09-30T16:50:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11862,84 +11862,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Detail-Hook-and-Eye-Shaping-Shorts-Brinxx-Couture-6301.jpg?v=1709866992
     Price: $32.99 USD
-- [Side Zip Up Wide Strap Shapewear - Brinxx Couture](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear): Look and feel your best with this Side Zip Up Wide Strap Shapewear. Crafted from high-quality fabric, it's designed to mold to your body for a comfortable.
-  Updated: 2025-07-21T02:01:06Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-4305.jpg?v=1709867170
-  - [Black / S](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919768246)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / M](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919801014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / L](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919833782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919866550)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / 2XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919899318)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / 3XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919932086)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / 4XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919964854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / 5XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482919997622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Black / 6XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920030390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-9926.jpg?v=1709867184
-    Price: $35.99 USD
-  - [Ivory / S](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920063158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / M](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920095926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / L](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920128694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920161462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / 2XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920194230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / 3XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920226998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / 4XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920292534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / 5XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920325302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
-  - [Ivory / 6XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=42482920358070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Zip-Up-Wide-Strap-Shapewear-Brinxx-Couture-822.jpg?v=1709867203
-    Price: $35.99 USD
 - [Hook and eye Shaping Shorts - Brinxx Couture](https://www.brinxxcouture.com/products/hook-and-eye-shaping-shorts): Feel more confident than ever in our Full Size Hook and eye Shaping Shorts. Featuring a hook and eye closure, these undergarments provide extra shaping.
   Updated: 2025-08-30T17:52:25Z
   Vendor: Brinxx Couture
@@ -12854,7 +12776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-30T09:10:37Z
+  Updated: 2025-09-30T19:10:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12864,7 +12786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -30844,7 +30766,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01p6KWO01GTq8HjjKFA__3408600624-0-cib.jpg?v=1738264112
     Price: $64.99 USD
 - [Champagne Sequin Backless Dress - Brinxx Couture](https://www.brinxxcouture.com/products/champagne-sequin-backless-dress): Experience the ultimate in luxury and style with our Champagne Sequin Backless Dress. Made with high-quality sequin fabric, this dress will shimmer and shine.
-  Updated: 2025-09-04T19:41:37Z
+  Updated: 2025-09-30T16:54:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36092,6 +36014,84 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
     Price: $69.99 USD
+- [Side Zip Up Wide Strap Shapewear - Brinxx Couture](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear): Look and feel your best with this Side Zip Up Wide Strap Shapewear. Crafted from high-quality fabric, it's designed to mold to your body for a comfortable.
+  Updated: 2025-09-30T19:53:14Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+  - [Black / S](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307505873078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / M](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307505905846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / L](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307505938614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307505971382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / 2XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506004150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / 3XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506036918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / 4XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506069686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / 5XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506102454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Black / 6XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506135222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2641fe022cb945d3bd0cf14343a01d89-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / S](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506167990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / M](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506200758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / L](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506233526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506266294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / 2XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506299062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / 3XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506331830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / 4XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506364598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / 5XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506397366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
+  - [Ivory / 6XL](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear?variant=44307506430134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ab00da41974d4812b044f60d6efded6f-Max.webp?v=1759255812
+    Price: $35.99 USD
 
 ## Collections
 
@@ -36153,7 +36153,7 @@
   Updated: 2025-08-22T19:23:30Z
   Total Products: 25
 - [Body Shapewear & Slimming Underwear - Brinxx Couture](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover flattering body shapewear & slimming underwear at Brinxx Couture. Smooth, sculpt & enhance your silhouette with comfortable, effective designs.
-  Updated: 2025-09-04T20:03:07Z
+  Updated: 2025-09-30T18:10:13Z
   Total Products: 22
 - [Trendy Women's Jewelry - Necklaces, Earrings & Bracelets - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-jewelry): Discover stunning women's jewelry at Brinxx Couture. Shop trendy necklaces, earrings, bracelets & rings. Affordable luxury pieces to complete any look.
   Updated: 2025-09-04T20:30:50Z
