@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-29T20:00:31.559Z
+- Updated At: 2025-09-30T04:00:32.562Z
 
 ## Products
 
@@ -263,7 +263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Elefant_aus_Baumwolle-_PAT_PATTY-blau.jpg?v=1751454183
     Price: 37,90 € EUR
 - [Bio Kuschelkissen Mond mit Spelzfüllung – super weich | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-mond): Bio Kuschelkissen Mond – nachhaltig gefüllt mit Spelz, super weich & atmungsaktiv. Jetzt bei PAT&PATTY entdecken und Deinem Kind Geborgenheit schenken!
-  Updated: 2025-09-29T19:49:51Z
+  Updated: 2025-09-29T20:35:30Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2749,6 +2749,10 @@
     Updated: 2025-09-29T11:14:10Z
     Author: Sharon
     Tags: warum fair-trade-spielzeug
+  - [Warum Tierspielzeug für Kinder wichtig ist: Eine Erklärung](https://patundpatty.de/blogs/news/warum-tierspielzeug-fuer-kinder): Erfahre warum Tierspielzeug für Kinder wichtig ist und welche Vorteile es für die Entwicklung deines Kindes bietet.
+    Updated: 2025-09-30T02:47:38Z
+    Author: Sharon
+    Tags: warum tierspielzeug für kinder
 
 ## Store Pages
 
