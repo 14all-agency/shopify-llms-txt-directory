@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-09-30T12:01:10.748Z
+- Updated At: 2025-09-30T16:01:11.627Z
 
 ## Products
 
@@ -4347,7 +4347,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-rajasaurus-ruge-e-ataca-853412322-jurassic-world-1178693988.jpg?v=1752848659
   Price: 28,90 € EUR
 - [Jurassic World T-Rex ataca e devora](https://brincatoys.pt/products/jurassic-world-t-rex-ataca-e-devora): Traga a ação à vida com o T-Rex que ataca e devora do Jurassic World! Divirta-se com suas articulações dinâmicas e sons de rugidos realistas.
-  Updated: 2025-09-29T21:12:11Z
+  Updated: 2025-09-30T14:04:51Z
   Vendor: Jurassic World
   Product Type: + 4 anos
   Availability: Available
@@ -9577,7 +9577,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vaiana-maui-621318623-brincatoys-1178695624.png?v=1752877572
   Price: 14,99 € EUR
 - [Vaiana Pua](https://brincatoys.pt/products/vaiana-pua): Figura em borracha termoplástica do filme Vaiana. Figura com aproximadamente 4,50 cm.Dimensão: 4,50 x 0 x 0 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-09-29T21:49:00Z
+  Updated: 2025-09-30T14:17:05Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -10448,7 +10448,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/linhas-curvas-para-pista-de-comboio-82377723-brincatoys-1178695906.jpg?v=1752806772
   Price: 9,99 € EUR
 - [Linhas Rectas para Pista de Comboio](https://brincatoys.pt/products/linhas-rectas-para-pista-de-comboio): Construa a sua própria linha férrea e adicione estas peças de madeira a ela. Quatro trilhos rectos longos de madeira adequados para pista de comboio de madeira. Dimensão: 13 x 26 x 3,50 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T02:48:57Z
+  Updated: 2025-09-30T15:02:12Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -12443,7 +12443,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/sabre-eletronico-star-wars-darth-vader-90116723-5010993848355-star-wars-1178696822.jpg?v=1752899895
   Price: 34,99 € EUR
 - [Jogo Cortex Challenge](https://brincatoys.pt/products/jogo-cortex-challenge): Cortex Challenge é um jogo que coloca o seu cérebro a funcionar tão depressa que parece que a determinada altura vai mesmo levantar voo. Com uma abordagem muito semelhante a jogos tão populares como Dobble e Jungle Speed, Cortex Challenge é um desafio de cartas que testa a memória, a cognição, e a percepção sensorial dos jogadores. Mas não fica por
-  Updated: 2025-09-29T23:35:07Z
+  Updated: 2025-09-30T12:07:49Z
   Vendor: Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -15110,15 +15110,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60403-ambulancia-de-emergencia-e-snowboarder-666040324-5702017566764-lego-1178698389.jpg?v=1752925220
   Price: 22,90 € EUR
-- [Lego City 60402 Monster Truck Azul – Aventura Acelerada](https://brincatoys.pt/products/lego-city-60402-monster-truck-azul): Lego City 60402 Monster Truck Azul, o presente perfeito para estimular a imaginação e desafiar os territórios mais árduos! Junte-se à corrida pela diversão.
-  Updated: 2025-09-29T23:18:25Z
-  Vendor: LEGO
-  Product Type: + 5 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60402-monster-truck-azul-aventura-acelerada-666040224-5702017566757-lego-1178698397.jpg?v=1752925564
-  Price: 17,50 € EUR
 - [Lego City 60401 Máquina de Construção com Cilindro](https://brincatoys.pt/products/lego-city-60401-maquina-de-construcao-com-cilindro): Descubra o Lego City 60401 Máquina de Construção com Cilindro. Um conjunto com 78 peças e uma minifigura inclusa, perfeito para pequenos construtores.
-  Updated: 2025-09-29T23:18:19Z
+  Updated: 2025-09-30T15:42:47Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -15257,6 +15250,36 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
+- [Cartão-presente](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
+  Updated: 2025-09-30T15:15:14Z
+  Vendor: Brincatoys
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartao-presente-brincatoys-1190870189.svg?v=1756907520
+  - [€20](https://brincatoys.pt/products/cartao-presente?variant=45469558604040)
+    Availability: Available
+    Price: 20,00 € EUR
+  - [€30](https://brincatoys.pt/products/cartao-presente?variant=45469558636808)
+    Availability: Available
+    Price: 30,00 € EUR
+  - [€40](https://brincatoys.pt/products/cartao-presente?variant=45469558669576)
+    Availability: Available
+    Price: 40,00 € EUR
+  - [€50](https://brincatoys.pt/products/cartao-presente?variant=45469558702344)
+    Availability: Available
+    Price: 50,00 € EUR
+  - [€60](https://brincatoys.pt/products/cartao-presente?variant=45469558735112)
+    Availability: Available
+    Price: 60,00 € EUR
+  - [€80](https://brincatoys.pt/products/cartao-presente?variant=45469558767880)
+    Availability: Available
+    Price: 80,00 € EUR
+  - [€100](https://brincatoys.pt/products/cartao-presente?variant=45469558800648)
+    Availability: Available
+    Price: 100,00 € EUR
+  - [€150](https://brincatoys.pt/products/cartao-presente?variant=45469558833416)
+    Availability: Available
+    Price: 150,00 € EUR
 - [Bluey Passar a Encomenda](https://brincatoys.pt/products/bluey-passar-a-encomenda): Apresentamos o emocionante conjunto de brinquedos Bluey Passar a Encomenda, o presente ideal para fascinar e estimular a imaginação das crianças em idade pré-escolar! Quem será o sortudo que abrirá o pacote e ganhará o prêmio do jato d'água quando a música parar? Bluey e Bingo usam os seus chapéus de festa neste pacote divertido, além de 2 acessórios de jogo engraçados. Este conjunto é inspirado na popular série de animação australiana ‘Bluey’ e promete horas de jogo interativo e educativo para os mais pequenos. Incluído neste conjunto estão quatro figuras adoráveis representando as personagens favoritas do programa: Bluey, Bingo, o pai do Lucky e Lila, acompanhadas por acessórios temáticos que enriquecem a brincadeira. Ademais, as figuras são desenhadas com detalhes autênticos e vibrantes que capturam a essência de cada personagem. Elas possuem um tamanho adequado para mãos pequenas, facilitando o manuseio e o jogo seguro. Além disso, a durabilidade destes brinquedos é garantida pela sua construção em materiais de alta qualidade, não tóxicos e seguros para as crianças. Cada figura vem com articulações móveis, permitindo que as crianças posicionem e movimentem as personagens durante as suas aventuras imaginárias. Os acessórios incluídos não só complementam as figuras mas também incentivam o jogo de faz de conta, permitindo que as crianças recriem cenas da série ou inventem as suas próprias histórias. Além do mais, este conjunto não é apenas uma fonte de entretenimento, mas também contribui para o desenvolvimento de habilidades sociais e criativas, promovendo a interação entre pares e o jogo cooperativo. Em suma, é um produto imprescindível para fãs de Bluey, adequado para crianças a partir dos 3 anos de idade. É também um excelente presente de aniversário ou para qualquer ocasião especial. Em suma... Conjunto de brinquedos inspirado na série ‘Bluey’; Inclui 4 figuras de personagens e acessórios temáticos; Promove criatividade e habilidades sociais; Feito com materiais seguros e duráveis; Ideal para crianças a partir dos 3 anos. Dimensão: 23 x 16 x 6 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-09-29T21:58:25Z
   Vendor: Bluey
@@ -16497,7 +16520,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-chase-554904125-0681147037502-patrulha-pata-1192379384.jpg?v=1757613001
   Price: 19,99 € EUR
 - [Brinquedos da Patrulha Pata Marshall - Aventura e Aprendizagem.](https://brincatoys.pt/products/patrulha-pata-marshall): Inspire heróis com os Brinquedos da Patrulha Pata Marshall. A escolha ideal para a diversão e aventura com a sua equipa canina favorita.
-  Updated: 2025-09-29T21:14:01Z
+  Updated: 2025-09-30T12:31:46Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -17708,7 +17731,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/so-pure-senso-ball-girafa-sofia-brinquedo-sensorial-para-bebes-102012524-3056562201253-girafa-sofia-1178700548.jpg?v=1752957616
   Price: 19,90 € EUR
 - [Anel de dentição So Pure Girafa Sofia](https://brincatoys.pt/products/anel-de-denticao-so-pure-girafa-sofia): Apresentamos o Anel de dentição So Pure Girafa Sofia, um brinquedo encantador que combina diversão e alívio para o seu bebé durante a fase de dentição. Primeiramente, este produto é cuidadosamente projetado para proporcionar conforto durante os momentos desafiadores do crescimento dos primeiros dentes. Por outro lado, fabricamos o Anel de dentição So'Pure Girafa Sofia com borracha 100% natural, garantindo a máxima segurança e suavidade para as gengivas sensíveis do seu bebé. A textura macia e flexível do anel de dentição oferece alívio imediato, enquanto as diferentes superfícies estimulam o desenvolvimento sensorial. O design icónico da girafa Sophie, com suas manchas laranja características, torna este brinquedo instantaneamente reconhecível e adorável para os bebés. Além disso, o tamanho compacto e o peso leve tornam-no fácil de segurar para as mãozinhas pequenas, promovendo o desenvolvimento motor fino. O Anel de dentição SO'PURE Girafa Sofia faz parte da coleção "So Pure", que se destaca pela utilização de materiais naturais e seguros. Concebida especialmente para os pais que procuram produtos de alta qualidade, livres de produtos químicos nocivos e respeitadores do ambiente. Por fim, o Anel de dentição SO'PURE Girafa Sofia é o companheiro perfeito para o seu bebé durante a fase de dentição, oferecendo conforto e estimulação num único produto de qualidade superior. Escolha este brinquedo versátil e natural para proporcionar momentos de alegria e alívio ao seu pequeno Em suma... Fabricado com borracha 100% natural Função anel de dentição Design icónico da Sophie la girafe Ideal para bebés a partir dos 0 meses Dimensão: 13 x 16,50 x 4 cm.Idade recomendada. + de 0 meses.
-  Updated: 2025-09-29T16:16:11Z
+  Updated: 2025-09-30T13:58:36Z
   Vendor: Girafa Sofia
   Product Type: + 0 meses
   Availability: Available
@@ -17743,7 +17766,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-megalodon-vs-hooked-770139424-0681147013940-brincatoys-1178700572.jpg?v=1752957963
   Price: 17,50 € EUR
 - [Monster Jam Marvel - Iron Man](https://brincatoys.pt/products/monster-jam-marvel-iron-man): Descubra o emocionante carro de brincar Monster Jam Marvel - Iron Man. Designdo Homem de Ferro, escala 1:64, rodas BKT. Diversão garantida.
-  Updated: 2025-09-30T01:05:27Z
+  Updated: 2025-09-30T12:45:16Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -17820,7 +17843,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-sonoro-animais-da-selva-brinquedo-educativo-26740325-3048700074034-brincatoys-1178700628.jpg?v=1752958922
   Price: 20,99 € EUR
 - [Jogo de Memória Ilustrado por Mélusine Allirol](https://brincatoys.pt/products/jogo-de-memoria-ilustrado-por-melusine-allirol): Descubra o jogo de memória ilustrado por Mélusine Allirol. 48 peças de madeira para crianças 2+, desenvolvendo memória e criatividade.
-  Updated: 2025-09-29T18:57:05Z
+  Updated: 2025-09-30T15:41:59Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -21035,7 +21058,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-road-trip-mater-030765725-0194735076574-cars-1193968420.jpg?v=1758534719
   Price: 11,99 € EUR
 - [Cars Disney - Speed Demon](https://brincatoys.pt/products/cars-disney-speed-demon): Dimensão: 14 x 16,50 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-09-29T16:09:19Z
+  Updated: 2025-09-30T14:06:36Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -21369,26 +21392,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:17:57Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 1318
+  Updated: 2025-09-30T12:45:53Z
+  Total Products: 1317
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 2424
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 2422
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 2886
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 2884
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3271
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3269
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3404
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3402
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3483
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3481
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3532
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3530
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-09-30T11:48:37Z
   Total Products: 362
@@ -21579,8 +21602,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3565
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3563
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-09-30T11:55:17Z
   Total Products: 282
@@ -21597,8 +21620,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:33:35Z
   Total Products: 468
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
-  Updated: 2025-09-30T11:15:54Z
-  Total Products: 135
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 134
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
   Updated: 2025-09-30T11:14:18Z
   Total Products: 184
@@ -21615,11 +21638,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:21:03Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3565
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3563
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3565
+  Updated: 2025-09-30T15:43:26Z
+  Total Products: 3563
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
   Total Products: 24
@@ -21630,8 +21653,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3072
+  Updated: 2025-09-30T14:05:21Z
+  Total Products: 3071
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -21639,11 +21662,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:45:06Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 3072
+  Updated: 2025-09-30T14:05:21Z
+  Total Products: 3071
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-09-30T11:38:04Z
-  Total Products: 609
+  Updated: 2025-09-30T15:32:54Z
+  Total Products: 487
 
 ## Blogs
 
