@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-09-30T00:01:17.553Z
+- Updated At: 2025-09-30T04:01:12.878Z
 
 ## Products
 
@@ -360,7 +360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/nylon-trio-bone-bacon-large.png?v=1708683304
     Price: £12.78 GBP
 - [TastyBone Nylon Trio Bone Beef | Multi Sizes](https://veryimportantpets.shop/products/tasty-bone-trio-beef): It’s triple the fun and very knobbly. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:54:01Z
+  Updated: 2025-09-30T00:29:13Z
   Vendor: TastyBone
   Product Type: Chewing Toy
   Availability: Available
@@ -1248,7 +1248,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-squeezz-orbitz-ball-dog-toy-fetch-dog-toys-607289.png?v=1700652639
   Price: £10.27 GBP
 - [KONG Squeezz Orbitz Saucer Dog Toy](https://veryimportantpets.shop/products/kong-squeezz-orbitz-saucer): Kong Squeezz Orbitz Saucer. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:22Z
+  Updated: 2025-09-30T03:44:46Z
   Vendor: Kong
   Product Type: Fetch Dog Toys
   Availability: Available
@@ -5783,7 +5783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-sensitive-chicken-and-wholegrain-maize-adult-senior-dog-food-sensitive-dry-6-kg-405930.jpg?v=1719009033
     Price: £32.89 GBP
 - [Burns Adult Sensitive Duck & Brown Rice - Natural Dog Food](https://veryimportantpets.shop/products/burns-sensitive-with-duck-brown-rice): Burns Sensitive Dog with Duck & Rice Dog Food is a healthy recipe formulated for dogs with sensitive skin or digestion. Made with simple, natural ingredients.
-  Updated: 2025-09-29T17:28:28Z
+  Updated: 2025-09-30T01:19:41Z
   Vendor: Burns
   Product Type: Sensitive Dry
   Availability: Available
