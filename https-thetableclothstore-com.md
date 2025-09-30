@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-30T00:00:40.169Z
+- Updated At: 2025-09-30T04:00:38.868Z
 
 ## Products
 
@@ -33732,6 +33732,9 @@
     Author: User
   - [Trending Tablecloth Colors and Patterns for Modern Homes](https://thetableclothstore.com/blogs/news/trending-tablecloth-colors-and-patterns-for-modern-homes): Trending Tablecloth Colors and Patterns for Modern Homes
     Updated: 2025-09-29T00:42:40Z
+    Author: User
+  - [Make Your Dinner Parties Stand Out with These Tablecloth Tips](https://thetableclothstore.com/blogs/news/make-your-dinner-parties-stand-out-with-these-tablecloth-tips): Make Your Dinner Parties Stand Out with These Tablecloth Tips
+    Updated: 2025-09-30T03:35:11Z
     Author: User
 
 ## Store Pages
