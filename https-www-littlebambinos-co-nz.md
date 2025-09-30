@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-30T00:00:51.124Z
+- Updated At: 2025-09-30T04:00:51.194Z
 
 ## Products
 
@@ -947,14 +947,14 @@
     Availability: Available
     Price: $50.00 NZD
 - [CONNETIX Rainbow Starter Pack 60pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-starter-pack-60pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The starter pack is a great way to introduce Connetix Magnetic Tiles to your little ones. The pack contains 62 magnetic building tiles in a range of six bright and vibrant colours. Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:55:15Z
+  Updated: 2025-09-30T01:45:43Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/60Rainbow.jpg?v=1697100552
   Price: $124.99 NZD
 - [CONNETIX Rainbow Mega Pack 212pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-maga-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The mega pack comes with enough tiles to build a city, with vehicles to explore it. It includes 212 magnetic building tiles including hexagonal pieces. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:55:15Z
+  Updated: 2025-09-30T01:45:43Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -1777,7 +1777,7 @@
     Availability: Not Available
     Price: $22.00 NZD
 - [CONNETIX Rainbow Replacement Ball Pack](https://www.littlebambinos.co.nz/products/connetix-rainbow-replacement-ball-pack): We know how much time we spend trying to find missing socks, so letâ€™s not worry about locating those runaway balls. The Rainbow Replacement Ball Pack features 12 wooden balls (x2 of each of our classic rainbow colours) â€“ perfect for supplementing or expanding your Rainbow Ball Run fun!
-  Updated: 2025-09-20T22:27:17Z
+  Updated: 2025-09-30T01:45:43Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2332,7 +2332,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ChangematRomangreen.jpg?v=1679356123
   Price: $65.00 NZD
 - [CONNETIX Rainbow Ball Run Expansion Pack 66pc](https://www.littlebambinos.co.nz/products/connetix-66-piece-rainbow-ball-run-expansion): When it comes to magnetic tile play, its all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-09-25T02:22:56Z
+  Updated: 2025-09-30T01:45:43Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -3807,7 +3807,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $80.00 NZD
 - [CONNETIX Rainbow Square Expansion Pack 42pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-square-pack-40pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T20:38:22Z
+  Updated: 2025-09-30T01:45:42Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -5631,7 +5631,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $50.00 NZD
 - [TOSHI Swim Flap Cap Classic - Athena Dusk](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-athena-dusk): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-08-06T22:39:51Z
+  Updated: 2025-09-30T02:43:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5667,7 +5667,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
 - [TOSHI Swim Flap Cap Classic - Sunny](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-sunny): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-08-06T22:39:53Z
+  Updated: 2025-09-30T02:43:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6706,14 +6706,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $24.00 NZD
 - [CONNETIX Pastel Rectangle Pack 24pc](https://www.littlebambinos.co.nz/products/connetix-pastel-rectangle-pack): Spark imagination and creativity with our 24 Piece Pastel Rectangle Pack! Inspire big ideas with multiple connection points and strong magnets as children explore their imagination to create long ramps, car tracks, roads, colourful carparks, towers and houses, plus so much more.
-  Updated: 2025-09-10T22:37:44Z
+  Updated: 2025-09-30T01:45:42Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_24pc-Pastel-Rectangle.jpg?v=1694642889
   Price: $133.99 NZD
 - [CONNETIX Pastel Mini Pack 32pc](https://www.littlebambinos.co.nz/products/connetix-pastel-mini-pack): Designed to encourage hours of creativity, fun and learning through PLAY, children will be inspired to explore colours, shapes and patterns, creating houses, boats, animals, car parks, mandalas and so much more. Showcasing the Connetix signature bevel design and safety-rated to international standards.
-  Updated: 2025-09-18T03:51:15Z
+  Updated: 2025-09-30T01:45:42Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7084,70 +7084,70 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $65.00 NZD
 - [CONNETIX Pastel Starter Pack 64pc](https://www.littlebambinos.co.nz/products/connetix-pastel-starter-pack-64pc): Discover your inner engineer, artist and designer when you build and create with the Pastel Starter Pack! Featuring a variety of small and large squares, as well as equilateral, isosceles and right-angled triangles in our unique earthy pastel colours, the 64 Piece Pastel Starter Pack offers limitless play potential.
-  Updated: 2025-09-28T07:40:35Z
+  Updated: 2025-09-30T01:45:42Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:55:15Z
+  Updated: 2025-09-30T01:45:41Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-29T22:20:46Z
+  Updated: 2025-09-30T01:45:41Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:54:45Z
+  Updated: 2025-09-30T02:08:46Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/102Rainbow_6c6b0505-af46-40ab-a958-391aea7b1485.jpg?v=1702936126
   Price: $169.99 NZD
 - [CONNETIX Pastel Mega Pack 202pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-mega-pack-202pc): Explore a rainbow of pastel delight and let your imagination soar with our 202 Piece Pastel Mega Pack! Featuring all our standard tile shapes in 8 unique earthy pastel colours PLUS two car bases, this pack is the ultimate option to kickstart or grow your magnetic tile collection. Expand the range of colours children know with our hues of rose, berry, peach, mint, emerald, lemon, violet and sapphire. Providing endless possibilities for creativity and learning through PLAY, the Pastel Mega Pack is the perfect option for siblings, family and/or friends to enjoy building MEGA Connetix creations together!
-  Updated: 2025-09-29T03:52:16Z
+  Updated: 2025-09-30T01:45:41Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
   Price: $349.99 NZD
 - [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
-  Updated: 2025-09-26T06:28:46Z
+  Updated: 2025-09-30T01:45:40Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelCreative2_1_b61dc548-95de-460a-9d4b-a51631622686.jpg?v=1702936343
   Price: $202.99 NZD
 - [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-09-28T23:55:16Z
+  Updated: 2025-09-30T01:45:40Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2BasePastelPinkBoxPhotocopy_db4a8a92-f237-410f-87a7-f290604fac12.jpg?v=1702936478
   Price: $70.99 NZD
 - [CONNETIX Pastel Ball Run Expansion Pack 80pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-ball-run-expansion-pack-80pc): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-09-10T22:37:41Z
+  Updated: 2025-09-30T01:45:40Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/80pceExpansion3D_1c17a925-a7bc-4020-8d81-18fa0ba0e27b.jpg?v=1702936631
   Price: $142.99 NZD
 - [CONNETIX Pastel Shape Expansion Pack 48 pc](https://www.littlebambinos.co.nz/products/connetix-pastel-shape-expansion-pack-48-pc): Expand play and learning possibilities with our 48 Piece Pastel Shape Expansion Pack. Featuring a range of exclusive magnetic tile shapes, including large triangles, right-angle triangles, quarter circles, pentagons, trapezoids and rhombi, this pack enhances design and play possibilities with Connetix.
-  Updated: 2025-09-24T23:50:51Z
+  Updated: 2025-09-30T01:45:40Z
   Vendor: Connetix
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_48pc-Pastel-Expansion_4947fee6-0589-4ced-9a05-0061bb2aa495.jpg?v=1702936696
   Price: $157.99 NZD
 - [CONNETIX 2 Piece Car Pack](https://www.littlebambinos.co.nz/products/connetix-2-piece-car-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The 2 piece Car Pack includes one blue and one yellow car motion base featuring REAL rubber wheels and Connetix's unique bevel design.Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-20T20:02:48Z
+  Updated: 2025-09-30T01:45:38Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7812,7 +7812,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/firstsigns_2048x_25a8214e-b66a-49fd-9f8b-877fb3a03b08.webp?v=1709695184
   Price: $30.00 NZD
 - [CONNETIX Pastel Replacement Ball Pack - 16 balls](https://www.littlebambinos.co.nz/products/connetix-pastel-replacement-ball-pack): We know how much time we spend trying to find missing socks, so letâ€™s not worry about locating those runaway balls. The Rainbow Replacement Ball Pack features 12 wooden balls (x2 of each of our classic rainbow colours) â€“ perfect for supplementing or expanding your Rainbow Ball Run fun!
-  Updated: 2025-09-18T03:57:11Z
+  Updated: 2025-09-30T01:45:38Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -9638,7 +9638,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.00 NZD
 - [TOSHI Swim Kids Bodysuit Classic - Moonlight Bloom](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-moonlight-bloom): DETAILS UPF 50+ UV protection Chlorine safe, pool & salt water friendly Quality Nylon fabrication for luxuriously soft hand feel Lightweight, fast drying & sun resistant Inner lining provides for modesty and comfort Enhanced elastic recovery High neckline and long sleeves for greater sun protection Seamless armhole, sleeve and sides for enhanced comfort Front opening zip for ease of dressing YKK zip for superior functionality and durability Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-09-03T22:11:05Z
+  Updated: 2025-09-30T02:44:42Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -9788,7 +9788,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-daintree): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-08-06T22:40:50Z
+  Updated: 2025-09-30T01:14:53Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -10104,28 +10104,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101756-s45004_1_b301b651-3a13-4637-af8e-cc1278efe203.jpg?v=1725856503
   Price: $49.00 NZD
 - [CONNETIX Roads - Ramps & Intersections 16pc](https://www.littlebambinos.co.nz/products/connetix-roads-ramps-intersections-16pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:43Z
+  Updated: 2025-09-30T01:45:38Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_16_Piece_Roads_R_I.jpg?v=1725229348
   Price: $124.99 NZD
 - [CONNETIX Creative Roads Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-creative-roads-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-28T23:55:16Z
+  Updated: 2025-09-30T01:45:38Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_48_Piece_Roads_Creative_Pack.jpg?v=1725230414
   Price: $211.99 NZD
 - [CONNETIX Rainbow Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-29T22:20:45Z
+  Updated: 2025-09-30T01:45:37Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Littlebambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-1_600x_7b6f12ea-376f-4ae5-bbdc-e8ebbc2431a4.webp?v=1725231069
   Price: $124.99 NZD
 - [CONNETIX Pastel Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-pastel-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-26T06:28:47Z
+  Updated: 2025-09-30T01:45:37Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10276,7 +10276,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $79.00 NZD
 - [CONNETIX Rainbow Motion Pack - 24pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-motion-pack-24pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-29T07:02:51Z
+  Updated: 2025-09-30T01:45:37Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11070,7 +11070,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
 - [TOSHI Swim Flap Cap - Sea Blossom](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-sea-blossom): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-08-06T22:40:55Z
+  Updated: 2025-09-30T02:43:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -11082,14 +11082,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $40.00 NZD
 - [BYEBYEBAD Blue Light Face Shield 75ml](https://www.littlebambinos.co.nz/products/blue-light-face-shield): Devices are everywhere, are not going anywhere and if you don’t use one then you’re lying because this is a website. While devices have brought much joy to the world, we are now learning that the light emitted from them can cause damage to skin much like the sun does. So just like we know to wear sunscreen before being in the sun, we need to protect our faces before hitting the screens for the day. Introducing the Blue Light Face Shield. A genius wee product designed to fend off the blue rays (not DVD’s) and protect all your lovely face skin. Featuring powerhouse antibacterial and antioxidant ingredients Bioactive Totarol™ from fallen NZ Tōtara trees and EnergiNius®, derived from Indian Ginseng roots that protects skin cells and helps prevent fine lines and wrinkles. A simple few pumps before you start your day will see you prepared and protected. Nice. 100% natural soothing protects skin cells through EnergiNius® antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly perfect for gaming nerds Ingredients: Aqua (Water); Aloe Barbadensis (Aloe Vera) Leaf Juice; Glycerin; Algae Extract [New Zealand Native Red Seaweed]; Cyathea Medullaris Extract [New Zealand Native Black Fern]; Camellia Sinensis [New Zealand Grown Certified Organic Green Tea]; Ribes Nigrum [New Zealand Grown Certified Organic Blackcurrant]; Fructose; Withania Somnifera (Indian Ginseng) Root Extract; Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Galactoarabinan; SodiumBenzoate, Potassium Sorbate; Caprylhydroxamic Acid; Glyceryl Caprylate; Gluconolactone, Calcium Gluconate; Phytic acid.
-  Updated: 2025-09-27T09:04:40Z
+  Updated: 2025-09-30T00:22:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-28T21:30:40Z
+  Updated: 2025-09-30T00:32:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -11348,7 +11348,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $185.00 NZD
 - [TOPSY TURVY Swedish Ladder](https://www.littlebambinos.co.nz/products/swedish-ladder): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products.*Please note: This item is the Ladder only, no accessories other than the Pikler Triangle and Slide. Designed with our tamariki in mind, the Topsy Turvy Swedish Ladders are a fantastic way to keep your little ones active, entertained and ensure that they are developing essential motor skills in a safe environment. This is so needed for many Kiwi kids to meet their active movement needs. Made from high-quality materials and NZS5828 certified, this ladder features wooden rungs that are tough enough to handle even the most rambunctious kids, and with a weight capacity of up to 110kg, they are also a great piece of exercise equipment for parents to join their kids and do pull ups, push ups, stretches etc. Our ladder is compliant with CE safety guidelines to ensure peace of mind. The swedish ladder is common in Europe as it is an exceptional tool for kids to develop their mobility, coordination, balance, and strength. Climbing up the ladder allows kids to see and explore their environment from a new perspective, fulfilling their natural built-in need to learn new things. Learning to climb is a wonderful way to get kids physically and mentally active and build their confidence while reducing screen time! Please also check out our range of purpose made accessories for swinging and climbing that are made for our ladder. Assembling this Swedish ladder is a breeze, we will include a detailed assembly and installation guide with every purchase. The ladder is designed to be mounted to the studs and nogs in the wall. We strongly recommend installation is completed by a local, reputable tradesperson. There is also the option for the Topsy Turvy team to install for an additional fee if you are within a 2 hour drive of Hamilton. Please contact us to organise this. Once it is set up, your tamariki can use it in a variety of ways - climbing up and down the rungs, doing chin-ups or even simply hanging off the bar like a bunch of monkeys. Available in three customised colour schemes: - Natural framing and natural rungs - White framing and natural rungs - Black framing and natural rungs This ladder also comes with our unique pikler triangle and slide which have three uses! 1. Floor Pikler Triangle and slide. 2. Monkey Bar - easily slides on to the frame allowing for younger kids to hang in safety at a lower height and also climb and slide off the ladder. 3. Bridge - mounted like a bridge on the base of the frame to allow for additional exploration and climbing for kids! Max Weight Capacity: Pikler Triangle: 30kg Slide: 30kg Swedish Ladder: Outer Bar: 80kg Swedish Ladder: Middle Bar: 110kg This ladder is perfect for indoor play, and its compact design means it won't take up too much space in your home or play area. With the Swedish Ladder for kids play, your children will have endless opportunities for fun and physical activity, all while building strength and coordination. Encourage your little ones to stay active, have fun, and develop their physical abilities with this exceptional ladder that provides both entertainment and exercise. Our Swedish Ladder will be a great long term investment for your tamariki with its durable and aesthetic design.
-  Updated: 2025-08-06T22:40:30Z
+  Updated: 2025-09-30T00:10:28Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -11365,6 +11365,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackframe.jpg?v=1736894989
     Price: $1,199.00 NZD
+  - [Select your colour](https://www.littlebambinos.co.nz/products/swedish-ladder?variant=42071536631902)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/addercutout_397d88a6-a850-4715-b6ef-b609554737a6.jpg?v=1736894989
+    Price: $1,049.00 NZD
 - [TOPSY TURVY Rope Ladder](https://www.littlebambinos.co.nz/products/rope-ladder): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Looking for a more challenging and exciting addition to your Topsy Turvy? Look no further than our high-quality rope ladder! Our rope ladder is made with durable materials that can withstand hours of climbing and play. With its sturdy construction and safe design, it's perfect for kids of all ages to enjoy. Not only is our rope ladder fun and engaging, but it also promotes physical activity and helps build strength, coordination, and balance in children. We strongly recommend this item for kids over the age of 4 as it provides a great challenge and a whole different dynamic of climbing. Order now and see your children's faces light up with excitement as they climb to new heights with our top-notch rope ladder! Order now and let the fun begin! Limited stock available, so don't wait!
   Updated: 2025-08-06T22:40:41Z
   Vendor: Topsy Turvy NZ
@@ -11394,7 +11398,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/15.jpg?v=1737426503
   Price: $90.00 NZD
 - [TOPSY TURVY Swedish Ladder Combo](https://www.littlebambinos.co.nz/products/swedish-ladder-combo): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. We recommend buying this combo as it includes: - Swedish ladder/triangle/slide - Floor mat - Rope ladder - Swing/trapeze - Climbing rope - Gymnastics rings Designed with our tamariki in mind, the Topsy Turvy Swedish Ladders are a fantastic way to keep your little ones active, entertained and ensure that they are developing essential motor skills in a safe environment. This is so needed for many Kiwi kids to meet their active movement needs. Made from high-quality materials and NZS5828 certified, this ladder features wooden rungs that are tough enough to handle even the most rambunctious kids, and with a weight capacity of up to 110kg, they are also a great piece of exercise equipment for parents to join their kids and do pull ups, push ups, stretches etc. Our ladder is compliant with CE safety guidelines to ensure peace of mind. The swedish ladder is common in Europe as it is an exceptional tool for kids to develop their mobility, coordination, balance, and strength. Climbing up the ladder allows kids to see and explore their environment from a new perspective, fulfilling their natural built-in need to learn new things. Learning to climb is a wonderful way to get kids physically and mentally active and build their confidence while reducing screen time! Please also check out our range of purpose made accessories for swinging and climbing that are made for our ladder. Assembling this Swedish ladder is a breeze, we will include a detailed assembly and installation guide with every purchase. The ladder is designed to be mounted to the studs and nogs in the wall. We strongly recommend installation is completed by a local, reputable tradesperson. There is also the option for the Topsy Turvy team to install for an additional fee if you are within a 1.5 hour drive of Hamilton. Please contact us to organise this. Once it is set up, your tamariki can use it in a variety of ways - climbing up and down the rungs, doing chin-ups or even simply hanging off the bar like a bunch of monkeys. Available in three colour schemes: - Natural framing and natural rungs - White framing and natural rungs - Black framing and natural rungs This ladder also comes with our unique pikler triangle and slide which have three uses! 1. Floor Pikler Triangle and slide. 2. Monkey Bar - easily slides on to the frame allowing for younger kids to hang in safety at a lower height and also climb and slide off the ladder. 3. Bridge - mounted like a bridge on the base of the frame to allow for additional exploration and climbing for kids! Max Weight Capacity: Pikler Triangle: 30kg Slide: 30kg Swedish Ladder: Outer Bar: 80kg Swedish Ladder: Middle Bar: 110kg This ladder is perfect for indoor play, and its compact design means it won't take up too much space in your home or play area. With the swedish ladder for kids play, your children will have endless opportunities for fun and physical activity, all while building strength and coordination. Encourage your little ones to stay active, have fun, and develop their physical abilities with this exceptional ladder that provides both entertainment and exercise. Our swedish ladder will be a great long term investment for your tamariki with its durable and aesthetic design.
-  Updated: 2025-09-17T20:32:44Z
+  Updated: 2025-09-30T00:00:39Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -14108,7 +14112,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Largepeach4.jpg?v=1745547024
     Price: $229.00 NZD
 - [LITTLE FINCH Homepark Check Small Waterproof Play Mat](https://www.littlebambinos.co.nz/products/homepark-check-small): At last a play mat that is practical and stylish! We have created a timeless yet contemporary design that will slide seamlessly into your living space, nursery, or child’s bedroom. A classic look guaranteed to fit most interiors for many years to come. Is it a rug or is it a play mat? It’s both! On the reverse, select from either Grey or Rose Homepark Check to provide an equally timeless alternative look from the same mat.
-  Updated: 2025-08-06T22:50:27Z
+  Updated: 2025-09-30T03:58:45Z
   Vendor: Little Finch
   Product Type: 
   Availability: Available
@@ -14490,749 +14494,749 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/midnightbluechildswing600800.webp?v=1750297516
     Price: $190.00 NZD
 - [BANWOOD Trike - Navy](https://www.littlebambinos.co.nz/products/trike): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This navy tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat is made of oak wood with a soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a navy coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-09-16T16:11:45Z
+  Updated: 2025-09-30T01:44:00Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-BLUE-1.jpg?v=1750297658
   Price: $329.95 NZD
 - [BANWOOD Trike - Green](https://www.littlebambinos.co.nz/products/trike-1): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This green tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a green coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-09-16T16:11:45Z
+  Updated: 2025-09-30T01:44:00Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-GREEN-1.jpg?v=1750297660
   Price: $329.95 NZD
 - [BANWOOD Trike - White](https://www.littlebambinos.co.nz/products/trike-2): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This white tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a white coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-09-16T16:11:48Z
+  Updated: 2025-09-30T01:44:06Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-WHITE-1.jpg?v=1750297661
   Price: $329.95 NZD
 - [BANWOOD Trike - Pink](https://www.littlebambinos.co.nz/products/trike-3): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This pink tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a pink coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-09-16T16:11:45Z
+  Updated: 2025-09-30T01:44:01Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-trike-pink-1.png?v=1750297664
   Price: $329.95 NZD
 - [BANWOOD Trike - Cream](https://www.littlebambinos.co.nz/products/trike-4): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This cream tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a cream coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-09-16T16:11:55Z
+  Updated: 2025-09-30T01:44:00Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-CREAM-1.jpg?v=1750297665
   Price: $329.95 NZD
 - [BANWOOD Trike - Red](https://www.littlebambinos.co.nz/products/trike-5): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This red tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a red coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-09-16T16:11:49Z
+  Updated: 2025-09-30T01:44:01Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-RED-1.jpg?v=1750297666
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - Navy](https://www.littlebambinos.co.nz/products/maxi-scooter-mint): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in navy
-  Updated: 2025-09-16T16:11:46Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterNavy1.png?v=1750297668
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - Red](https://www.littlebambinos.co.nz/products/maxi-scooter-red): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in red
-  Updated: 2025-09-16T16:54:22Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterRed1.png?v=1750297670
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - Green](https://www.littlebambinos.co.nz/products/maxi-scooter-green): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in green
-  Updated: 2025-09-16T16:11:11Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterGreen1.png?v=1750297671
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - Pink](https://www.littlebambinos.co.nz/products/maxi-scooter-pink): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in pink
-  Updated: 2025-09-16T16:11:14Z
+  Updated: 2025-09-30T01:43:40Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterPink1.png?v=1750297673
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - Cream](https://www.littlebambinos.co.nz/products/maxi-scooter-cream): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in cream
-  Updated: 2025-09-16T16:11:20Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterCream1.png?v=1750297675
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - White](https://www.littlebambinos.co.nz/products/maxi-scooter-white-copy): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in white
-  Updated: 2025-09-16T16:26:41Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterWhite1.png?v=1750297677
   Price: $329.95 NZD
 - [BANWOOD Eco Helmet - Ivory](https://www.littlebambinos.co.nz/products/eco-helmet-ivory): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:27:56Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetIvory1_ccf2d4b9-36cf-46cf-b219-35f01d7fcf64.png?v=1750297678
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Faded Pink](https://www.littlebambinos.co.nz/products/eco-helmet-faded-pink): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:25:25Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetFadedPink1_7b61168e-27cf-4b1b-a967-5d73175c57c6.png?v=1750297680
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Clay](https://www.littlebambinos.co.nz/products/eco-helmet-clay): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:11:10Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetClay1.png?v=1750297681
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Deep Sea](https://www.littlebambinos.co.nz/products/eco-helmet-deep-sea): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:30:26Z
+  Updated: 2025-09-30T01:43:25Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetDeepSea1_e1b8b919-547b-4f26-8d93-991c633a57e4.png?v=1750297682
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Dusty Rose](https://www.littlebambinos.co.nz/products/eco-helmet-dusty-rose): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:11:12Z
+  Updated: 2025-09-30T01:43:26Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetDustyRose1_229d2d0a-4ec4-40c0-8dd1-c217a929ce6f.png?v=1750297683
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Lavender](https://www.littlebambinos.co.nz/products/eco-helmet-lavender): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:11:16Z
+  Updated: 2025-09-30T01:43:26Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetLavender1_9bcc41a5-1d95-42ab-b2be-3b5c8717a0b1.png?v=1750297684
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Raspberry](https://www.littlebambinos.co.nz/products/eco-helmet-raspberry): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:11:08Z
+  Updated: 2025-09-30T01:43:26Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetRaspberry1_e9a23626-52af-4260-b1aa-e9258b71e10f.png?v=1750297685
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Sand](https://www.littlebambinos.co.nz/products/eco-helmet-sand): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:11:07Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetSand1_29201ce5-b53a-40be-b83d-e69a1be374fc.png?v=1750297686
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Teal](https://www.littlebambinos.co.nz/products/eco-helmet-teal): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:11:11Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetTeal1_346b755e-6e16-4a7c-9af3-31731d9240ca.png?v=1750297687
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Olive](https://www.littlebambinos.co.nz/products/eco-helmet-olive): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-09-16T16:24:40Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetOlive1_e936847e-da29-4522-ad2e-ff19752aa3e9.png?v=1750297689
   Price: $78.00 NZD
 - [BANWOOD Eco Scooter - Ivory](https://www.littlebambinos.co.nz/products/eco-scooter-ivory): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:39:55Z
+  Updated: 2025-09-30T01:43:40Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterIvory1_1bf38a5b-e8b7-4b0d-bbd1-b9bd3c2c201a.png?v=1750297690
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Faded Pink](https://www.littlebambinos.co.nz/products/eco-scooter-faded-pink): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:11:06Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterFadedPink1_dc2b5a79-800a-44ae-b3f1-f7504e1ae0f5.png?v=1750297692
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Dusty Rose](https://www.littlebambinos.co.nz/products/eco-scooter-dusty-rose): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:27:55Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterDustyRose1_85204aaa-3fea-4e2b-936f-937cc53af5e8.png?v=1750297693
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Raspberry](https://www.littlebambinos.co.nz/products/eco-scooter-raspberry): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:46:11Z
+  Updated: 2025-09-30T01:43:36Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterRaspberry1_5d53b701-662a-4c4c-aa3e-a9bb5fbe0a56.png?v=1750297695
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Lavender](https://www.littlebambinos.co.nz/products/eco-scooter-lavender): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:11:05Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterLavender1_729ebad7-36db-4795-be75-90500d369fd2.png?v=1750297698
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Clay](https://www.littlebambinos.co.nz/products/eco-scooter-clay): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:25:24Z
+  Updated: 2025-09-30T01:43:24Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterClay1_5b6a9bd7-d0b2-4ca6-a30d-2569e920528f.png?v=1750297699
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Sand](https://www.littlebambinos.co.nz/products/eco-scooter-sand): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:25:24Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterSand1_1a44c7ae-e3ad-4eab-b05a-d98cf092dce0.png?v=1750297701
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Olive](https://www.littlebambinos.co.nz/products/eco-scooter-olive): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:11:03Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterOlive1_906b48ed-52c8-4a52-b58c-ac01b086deaa.png?v=1750297703
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Teal](https://www.littlebambinos.co.nz/products/eco-scooter-teal): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:24:55Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterTeal1_f9abd83e-7378-42eb-a346-491474a35bde.png?v=1750297704
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Deep Sea](https://www.littlebambinos.co.nz/products/eco-scooter-deep-sea): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:11:10Z
+  Updated: 2025-09-30T01:43:26Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterDeepSea1_8f4869e9-d85f-4909-a680-b04e4594320c.png?v=1750297706
   Price: $188.00 NZD
 - [BANWOOD Skateboard - Pink](https://www.littlebambinos.co.nz/products/skateboard-pink): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:11:02Z
+  Updated: 2025-09-30T01:43:35Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-pink-1.png?v=1750297707
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Cream](https://www.littlebambinos.co.nz/products/skateboard-cream): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:11:05Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-cream-1.png?v=1750297709
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Green](https://www.littlebambinos.co.nz/products/skateboard-green): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:11:02Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-green-1.png?v=1750297710
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Pale Mint](https://www.littlebambinos.co.nz/products/skateboard-pale-mint): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:11:10Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-pale-mint-1.png?v=1750297712
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Navy](https://www.littlebambinos.co.nz/products/skateboard-navy): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:11:04Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-navy-1.png?v=1750297713
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Red](https://www.littlebambinos.co.nz/products/skateboard-red): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:11:08Z
+  Updated: 2025-09-30T01:43:35Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-red-1.png?v=1750297715
   Price: $169.95 NZD
 - [BANWOOD Skateboard - White](https://www.littlebambinos.co.nz/products/skateboard-white): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T16:46:10Z
+  Updated: 2025-09-30T01:43:35Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-white-1.png?v=1750297716
   Price: $169.95 NZD
 - [BANWOOD Skateboard Protective Gear - Tan/Brown](https://www.littlebambinos.co.nz/products/skateboard-protective-gear): Our 3-pack protection gear was designed with your little one's safety, comfort and utmost enjoyment in mind. Crafted to provide maximum protection - each pack includes knee pads, elbow pads and wrist guards. Designed in our classic colour ways to match with all your favourite Banwood products, every pack is suitable for use across our product line - perfect for our skateboards, bikes and scooters alike. One size. Recommended age 3+
-  Updated: 2025-09-16T16:11:02Z
+  Updated: 2025-09-30T01:43:36Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-PGEAR-ret.png?v=1750297717
   Price: $89.95 NZD
 - [BANWOOD Balance Bike Vintage - Dark Green](https://www.littlebambinos.co.nz/products/first-go-balance-bike-1): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cyclingThe bike has a child-friendly frame with a green finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with green-colored finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:11:02Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-DARKGREEN-1.jpg?v=1750297718
   Price: $329.95 NZD
 - [BANWOOD Balance Bike Vintage - Pink](https://www.littlebambinos.co.nz/products/first-go-balance-bike-2): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling The bike has a child-friendly frame with a pink finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with pink-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:11:02Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-PINK-1.jpg?v=1750297719
   Price: $329.95 NZD
 - [BANWOOD Balance Bike Vintage - Red](https://www.littlebambinos.co.nz/products/first-go-balance-bike-4): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cyclingThe bike has a child-friendly frame with a red finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with red-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:11:10Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-RED_1.jpg?v=1750297721
   Price: $329.95 NZD
 - [BANWOOD Balance Bike Vintage - Navy Blue](https://www.littlebambinos.co.nz/products/first-go-balance-bike-5): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cyclingThe bike has a child-friendly frame with a navy finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with navy-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:11:05Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-NAVYBLUE-1.jpg?v=1750297722
   Price: $329.95 NZD
 - [BANWOOD Classic Bicycle - Pink](https://www.littlebambinos.co.nz/products/classic-bicycle): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike. Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a pink finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻 • Lightweight alloy frame in pink finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7,9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T16:11:10Z
+  Updated: 2025-09-30T01:43:25Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL-PINK-1.jpg?v=1750297724
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - White](https://www.littlebambinos.co.nz/products/classic-bicycle-1): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike.Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a white finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻 • Lightweight alloy frame in white finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7.9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T16:31:55Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL-WHITE-1.jpg?v=1750297725
   Price: $599.95 NZD
 - [BANWOOD Balance Bike Vintage - Chrome](https://www.littlebambinos.co.nz/products/first-go-balance-bike-6): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling. Our FIRST GO! Chrome is a special edition of the balance bike; designed with a unique hand-brushed alloy frame and fork, and a soft saddle to give maximum comfort to your beginner cyclist. The alloy handlebar has high-end wooden end-caps and the 12" wheels come in a sporty black finish. The handlebar and saddle is adjustable which provides sufficient room for growth and adapts to your child’s size. Because of its unique lightness, the new FIRST GO! Chrome is a great way for growing adventurers and little rebels to discover the world. • Hand brushed alloy frame with silver finish • Alloy handlebar with wooden end caps • Handlebar height adjustable from 50 to 59 cm • Very light with 3,8 kg • Ergonomic and comfortable seat • Minimal seat height: 37 cm • Maximum seat height: 44 cm • Bell • 12” wheels in black • Suggested age from 2.5 years - 5 years • CE Certification.
-  Updated: 2025-09-16T16:32:39Z
+  Updated: 2025-09-30T01:43:24Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-CHROME-1.jpg?v=1750297726
   Price: $389.95 NZD
 - [BANWOOD Balance Bike Vintage - Cream](https://www.littlebambinos.co.nz/products/first-go-balance-bike-7): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling The bike has a child-friendly frame with a cream finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with cream-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:49:46Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-CREAM-1.jpg?v=1750297728
   Price: $329.95 NZD
 - [BANWOOD Classic Bicycle - Navy](https://www.littlebambinos.co.nz/products/classic-bicycle-2): This vintage-inspired children’s bike with 16” wheels has the perfect balance of Scandi and timeless retro design. The Classic Bicycle is suitable from 4 to 7 years and comes with optional training wheels for children not quite ready for two wheels.A retro bike for kids with a lightweight child-friendly alloy frame in navy, the matching vegan leather saddle and handlebars are adjustable which leaves room to grow with your child. With vintage design features including Banwood’s unique rosewood pedals and a detachable wicker basket for packing the essentials for a day’s adventure as well as a safety bell, kickstand, wheel, and back reflectors.Your mini-me cyclist will be the coolest cruiser on the block. Ride on 🤟🏻 • Lightweight alloy frame in navy finish. • Backpedal brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedals • Extra set of PVC pedals in white • Detachable front wicker basket included • Training Wheels • Kick Stand • Cream colored 16” tires • Suggested age from 4 to 7 years • Bell • Weight: 7.9 kg • Banwood brown vegan leather saddle and grips in matching colour • Wheel and back reflectors • Mudguards and chainguard • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57cm • Adjustable handlebar: 63 - 69cm
-  Updated: 2025-09-16T16:10:58Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL2-W-NAVY-1.jpg?v=1750297729
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - Green](https://www.littlebambinos.co.nz/products/classic-bicycle-3): This vintage-inspired children’s bike with 16” wheels has the perfect balance of Scandi and timeless retro design. The Classic Bicycle is suitable from 4 to 7 years and comes with optional training wheels for children not quite ready for two wheels.A retro bike for kids with a lightweight child-friendly alloy frame in green, the matching vegan leather saddle and handlebars are adjustable which leaves room to grow with your child. With vintage design features including Banwood’s unique rosewood pedals and a detachable wicker basket for packing the essentials for a day’s adventure as well as a safety bell, kickstand, wheel, and back reflectors.Your mini-me cyclist will be the coolest cruiser on the block. Ride on 🤟🏻 • Lightweight alloy frame in green finish. • Backpedal brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedals • Extra set of PVC pedals in white • Detachable front wicker basket included • Training Wheels • Kick Stand • Cream colored 16” tires • Suggested age from 4 to 7 years • Bell • Weight: 7.9 kg • Banwood brown vegan leather saddle and grips in matching colour • Wheel and back reflectors • Mudguards and chainguard • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57cm • Adjustable handlebar: 63 - 69cm
-  Updated: 2025-09-16T16:11:01Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL2-W-GREEN-1.jpg?v=1750297731
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - Pale Mint](https://www.littlebambinos.co.nz/products/classic-bicycle-4): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike.Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a white finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻• Lightweight alloy frame in white finish• Backpedal brake /security wheel brake• Front adjustable caliper brake lever suitable for children's hands• Banwood rosewood Vintage pedal• Security wheels brake• Front wicker basket• Training Wheels• Kick Stand• Cream 16” tires• Suggested age from 4-7 years• Bell• Weight: 7,9 kg• Banwood brown faux leather saddle and grips in matching colour• Wheel reflectors & Back reflectors• Mudguards and chainguards• Singelspeed gears• Adjustable saddle• Minimum seat height and maximum seat height: 46cm – 57 cm• Extra PVC pedal• Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T16:32:54Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-classic-bicycle-16-pale-mint-1.png?v=1750297732
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - Cream](https://www.littlebambinos.co.nz/products/classic-bicycle-5): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike. Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a white finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure. Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears. Ride on 🤟🏻 • Lightweight alloy frame in white finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7,9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T16:11:03Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-classic-bicycle-16-cream-1.png?v=1750297734
   Price: $599.95 NZD
 - [BANWOOD Balance Bike Vintage - Pale Mint](https://www.littlebambinos.co.nz/products/first-go-balance-bike-10): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling The bike has a child-friendly frame with a vanilla finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with pale mint coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:11:04Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-PMINT-1.png?v=1750297735
   Price: $329.95 NZD
 - [BANWOOD Banwood Carry Strap- Pink](https://www.littlebambinos.co.nz/products/banwood-carry-strap-1): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T16:10:57Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-PINK-01.png?v=1750297736
   Price: $49.95 NZD
 - [BANWOOD Banwood Carry Strap - Cream](https://www.littlebambinos.co.nz/products/banwood-carry-strap-2): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T16:25:21Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-CREAM-01.png?v=1750297737
   Price: $49.95 NZD
 - [BANWOOD Banwood Carry Strap - Black](https://www.littlebambinos.co.nz/products/banwood-carry-strap-3): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T16:32:37Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-BLACK-01.png?v=1750297739
   Price: $49.95 NZD
 - [BANWOOD Scooter - Navy](https://www.littlebambinos.co.nz/products/scooter): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T16:38:19Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Navy-1.png?v=1750297740
   Price: $279.95 NZD
 - [BANWOOD Scooter - Green](https://www.littlebambinos.co.nz/products/scooter-1): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T16:36:51Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Green-1.png?v=1750297742
   Price: $279.95 NZD
 - [BANWOOD Scooter - White](https://www.littlebambinos.co.nz/products/scooter-2): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:34Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-White-1.png?v=1750297743
   Price: $279.95 NZD
 - [BANWOOD Scooter - Pink](https://www.littlebambinos.co.nz/products/scooter-3): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T16:12:56Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Pink-1.png?v=1750297744
   Price: $279.95 NZD
 - [BANWOOD Scooter - Cream](https://www.littlebambinos.co.nz/products/scooter-4): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:34Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Cream-1.png?v=1750297745
   Price: $279.95 NZD
 - [BANWOOD Scooter - Red](https://www.littlebambinos.co.nz/products/scooter-5): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:41Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Red-1.png?v=1750297746
   Price: $279.95 NZD
 - [BANWOOD Banwood Carry Strap - Green](https://www.littlebambinos.co.nz/products/banwood-carry-strap): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T15:55:31Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-GREEN-01_a3ade794-3b59-47aa-b26b-25600b9593dd.png?v=1750297747
   Price: $49.95 NZD
 - [BANWOOD Scooter - Mint](https://www.littlebambinos.co.nz/products/scooter-pale-mint): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:32Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Banwood-Scooter-Pale-Mint-1.png?v=1750297749
   Price: $279.95 NZD
 - [BANWOOD Icon Balance Bike - Sage](https://www.littlebambinos.co.nz/products/icon-balance-bike-sage): Banwood is a long-time admirer of the iconic House of Rispal. Both, Banwood and Rispal, have brought their take of a modern design to the outside world, Rispal with its focus on the core of creating lighting designs from The Golden Age of French furniture and Banwood with establishing kid’s products in timeless designs and encouraging an active lifestyle. This collection is an homage of the 20th century French design to today’s children. The creation has been carefully done by the interior designer Douglas Mont and brought Banwood into the world of the House of Rispal. Douglas wanted to create a retro-design with elements from the 50s and 60s and a personal touch. The result is characterised by an extravagant design made of an exclusive selection of materials. The design of the frame is inspired by Streamline Moderne and characterised by curved structures and horizontal lines which represent the impression of movement and speed.The choice of wheels is based on Douglas personal connection to Clermont Ferrand, the city of Michelin, where he grew up. The Michelin tires give the bike the little extra personal touch and provide a secure ride. Seat: Handmade of genuine natural leather for maximum a comfort, durability and support.Handlebar height: 50-53 cmSaddle height: 38-45 cmBike weight: 4.5 kgSuggested age range 2.5 - 5 Years
-  Updated: 2025-09-16T15:55:33Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_5e5922ef-4770-4596-8c53-59ed7cba2e8b.png?v=1750297752
   Price: $445.00 NZD
 - [BANWOOD Icon Balance Bike - Rose](https://www.littlebambinos.co.nz/products/icon-balance-bike-rose): Banwood is a long-time admirer of the iconic House of Rispal. Both, Banwood and Rispal, have brought their take of a modern design to the outside world, Rispal with its focus on the core of creating lighting designs from The Golden Age of French furniture and Banwood with establishing kid’s products in timeless designs and encouraging an active lifestyle. This collection is an homage of the 20th century French design to today’s children. The creation has been carefully done by the interior designer Douglas Mont and brought Banwood into the world of the House of Rispal. Douglas wanted to create a retro-design with elements from the 50s and 60s and a personal touch. The result is characterised by an extravagant design made of an exclusive selection of materials. The design of the frame is inspired by Streamline Moderne and characterised by curved structures and horizontal lines which represent the impression of movement and speed.The choice of wheels is based on Douglas personal connection to Clermont Ferrand, the city of Michelin, where he grew up. The Michelin tires give the bike the little extra personal touch and provide a secure ride. Seat: Handmade of genuine natural leather for maximum a comfort, durability and support.Handlebar height: 50-53 cmSaddle height: 38-45 cmBike weight: 4.5 kgSuggested age range 2.5 - 5 Years
-  Updated: 2025-09-16T16:18:51Z
+  Updated: 2025-09-30T01:43:36Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_f9c4c395-337b-4eed-81f7-aa9c6876618e.png?v=1750297753
   Price: $445.00 NZD
 - [BANWOOD BANWOOD Icon Balance Bike - Cream](https://www.littlebambinos.co.nz/products/icon-balance-bike-rose-copy): Banwood is a long-time admirer of the iconic House of Rispal. Both, Banwood and Rispal, have brought their take of a modern design to the outside world, Rispal with its focus on the core of creating lighting designs from The Golden Age of French furniture and Banwood with establishing kid’s products in timeless designs and encouraging an active lifestyle. This collection is an homage of the 20th century French design to today’s children. The creation has been carefully done by the interior designer Douglas Mont and brought Banwood into the world of the House of Rispal. Douglas wanted to create a retro-design with elements from the 50s and 60s and a personal touch. The result is characterised by an extravagant design made of an exclusive selection of materials. The design of the frame is inspired by Streamline Moderne and characterised by curved structures and horizontal lines which represent the impression of movement and speed.The choice of wheels is based on Douglas personal connection to Clermont Ferrand, the city of Michelin, where he grew up. The Michelin tires give the bike the little extra personal touch and provide a secure ride. Seat: Handmade of genuine natural leather for maximum a comfort, durability and support.Handlebar height: 50-53 cmSaddle height: 38-45 cmBike weight: 4.5 kgSuggested age range 2.5 - 5 Years
-  Updated: 2025-09-16T16:08:42Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_53cde0cd-229c-4830-b9fc-672d0afd115d.png?v=1750297847
   Price: $445.00 NZD
 - [BANWOOD Eco Scooter - Clay](https://www.littlebambinos.co.nz/products/eco-scooter-clay-1): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T15:55:40Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterClay1_392ba6ba-17ac-4bcf-93b3-05fa80cc6daf.png?v=1750297861
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Sand](https://www.littlebambinos.co.nz/products/eco-scooter-sand-1): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T15:55:44Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterSand1_c7df3fa7-be29-4328-84b6-91122aa17aaf.png?v=1750297862
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Olive](https://www.littlebambinos.co.nz/products/eco-scooter-olive-1): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T15:55:31Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterOlive1_527be388-ad2e-451c-9330-14ab587fec3d.png?v=1750297864
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Teal](https://www.littlebambinos.co.nz/products/eco-scooter-teal-1): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T16:12:47Z
+  Updated: 2025-09-30T01:43:36Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterTeal1_23691160-5287-4c66-8c03-0e24c7b86e47.png?v=1750297866
   Price: $188.00 NZD
 - [BANWOOD Eco Scooter - Deep Sea](https://www.littlebambinos.co.nz/products/eco-scooter-deep-sea-1): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-09-16T15:55:43Z
+  Updated: 2025-09-30T01:43:25Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterDeepSea1_f46659c8-45da-4b4d-9816-394dc55e6d10.png?v=1750297868
   Price: $188.00 NZD
 - [BANWOOD Skateboard - Pink](https://www.littlebambinos.co.nz/products/skateboard-pink-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:48Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-pink-1_5b4b58b4-5372-42f0-bf4c-e3df4867af26.png?v=1750297869
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Cream](https://www.littlebambinos.co.nz/products/skateboard-cream-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:33Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-cream-1_870f23e3-4c65-4e81-ae71-67b231f9ef75.png?v=1750297871
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Green](https://www.littlebambinos.co.nz/products/skateboard-green-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:33Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-green-1_a02ad5b0-99d4-45c6-b90d-7e7ba322a393.png?v=1750297873
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Pale Mint](https://www.littlebambinos.co.nz/products/skateboard-pale-mint-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:30Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-pale-mint-1_bd108af5-e4c0-4345-bda9-93ac6b91ee0c.png?v=1750297874
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Navy](https://www.littlebambinos.co.nz/products/skateboard-navy-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:30Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-navy-1_56a4ee4e-76b1-4791-ac9c-829502e65c41.png?v=1750297876
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Red](https://www.littlebambinos.co.nz/products/skateboard-red-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:29Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-red-1_b9eb8c2a-b4e0-45db-88f2-2d492768ce22.png?v=1750297877
   Price: $169.95 NZD
 - [BANWOOD Skateboard - White](https://www.littlebambinos.co.nz/products/skateboard-white-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-16T15:55:30Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-white-1_eeec9a7f-fb1f-4402-aa4f-a1ad40e0cd6c.png?v=1750297878
   Price: $169.95 NZD
 - [BANWOOD Skateboard Protective Gear - Tan/Brown](https://www.littlebambinos.co.nz/products/skateboard-protective-gear-1): Our 3-pack protection gear was designed with your little one's safety, comfort and utmost enjoyment in mind. Crafted to provide maximum protection - each pack includes knee pads, elbow pads and wrist guards. Designed in our classic colour ways to match with all your favourite Banwood products, every pack is suitable for use across our product line - perfect for our skateboards, bikes and scooters alike. One size. Recommended age 3+
-  Updated: 2025-09-16T15:55:33Z
+  Updated: 2025-09-30T01:44:02Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-PGEAR-ret_95d76806-73f9-46e0-a80a-0e07a13279f8.png?v=1750297879
   Price: $89.95 NZD
 - [BANWOOD Balance Bike Vintage - Dark Green](https://www.littlebambinos.co.nz/products/first-go-balance-bike-3): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cyclingThe bike has a child-friendly frame with a green finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with green-colored finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T15:55:28Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-DARKGREEN-1_f4245db9-3ab3-44d5-a36c-79ffbda0890b.jpg?v=1750297881
   Price: $329.95 NZD
 - [BANWOOD Balance Bike Vintage - Pink](https://www.littlebambinos.co.nz/products/first-go-balance-bike-8): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling The bike has a child-friendly frame with a pink finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with pink-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:26:05Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-PINK-1_b7587a49-abe8-49f1-9c17-8eab27c0e217.jpg?v=1750297882
   Price: $329.95 NZD
 - [BANWOOD Balance Bike Vintage - Red](https://www.littlebambinos.co.nz/products/first-go-balance-bike-9): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cyclingThe bike has a child-friendly frame with a red finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with red-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T15:55:35Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-RED_1_e0341184-b2c5-4dab-8532-b9c0e6000444.jpg?v=1750297883
   Price: $329.95 NZD
 - [BANWOOD Balance Bike Vintage - Navy Blue](https://www.littlebambinos.co.nz/products/first-go-balance-bike-11): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cyclingThe bike has a child-friendly frame with a navy finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with navy-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T15:55:29Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-NAVYBLUE-1_2d608d40-e486-4cf6-bdac-2602118db9f4.jpg?v=1750297885
   Price: $329.95 NZD
 - [BANWOOD Classic Bicycle - Pink](https://www.littlebambinos.co.nz/products/classic-bicycle-6): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike. Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a pink finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻 • Lightweight alloy frame in pink finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7,9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T15:55:28Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL-PINK-1_8a500db9-5ac3-4760-bc10-7717c8756008.jpg?v=1750297886
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - White](https://www.littlebambinos.co.nz/products/classic-bicycle-7): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike.Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a white finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻 • Lightweight alloy frame in white finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7.9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T15:55:27Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL-WHITE-1_ef73bd11-9b64-4969-a8a8-8013eedd1241.jpg?v=1750297887
   Price: $599.95 NZD
 - [BANWOOD Balance Bike Vintage - Chrome](https://www.littlebambinos.co.nz/products/first-go-balance-bike-12): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling. Our FIRST GO! Chrome is a special edition of the balance bike; designed with a unique hand-brushed alloy frame and fork, and a soft saddle to give maximum comfort to your beginner cyclist. The alloy handlebar has high-end wooden end-caps and the 12" wheels come in a sporty black finish. The handlebar and saddle is adjustable which provides sufficient room for growth and adapts to your child’s size. Because of its unique lightness, the new FIRST GO! Chrome is a great way for growing adventurers and little rebels to discover the world. • Hand brushed alloy frame with silver finish • Alloy handlebar with wooden end caps • Handlebar height adjustable from 50 to 59 cm • Very light with 3,8 kg • Ergonomic and comfortable seat • Minimal seat height: 37 cm • Maximum seat height: 44 cm • Bell • 12” wheels in black • Suggested age from 2.5 years - 5 years • CE Certification.
-  Updated: 2025-09-16T15:55:28Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-CHROME-1_d5f72edb-6883-479f-ba2d-cfc3a0033800.jpg?v=1750297889
   Price: $389.95 NZD
 - [BANWOOD Balance Bike Vintage - Cream](https://www.littlebambinos.co.nz/products/first-go-balance-bike-13): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling The bike has a child-friendly frame with a cream finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with cream-coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T15:55:38Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-CREAM-1_a524b85e-bb57-4295-9d66-8d6e1b18f6f9.jpg?v=1750297891
   Price: $329.95 NZD
 - [BANWOOD Classic Bicycle - Navy](https://www.littlebambinos.co.nz/products/classic-bicycle-8): This vintage-inspired children’s bike with 16” wheels has the perfect balance of Scandi and timeless retro design. The Classic Bicycle is suitable from 4 to 7 years and comes with optional training wheels for children not quite ready for two wheels.A retro bike for kids with a lightweight child-friendly alloy frame in navy, the matching vegan leather saddle and handlebars are adjustable which leaves room to grow with your child. With vintage design features including Banwood’s unique rosewood pedals and a detachable wicker basket for packing the essentials for a day’s adventure as well as a safety bell, kickstand, wheel, and back reflectors.Your mini-me cyclist will be the coolest cruiser on the block. Ride on 🤟🏻 • Lightweight alloy frame in navy finish. • Backpedal brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedals • Extra set of PVC pedals in white • Detachable front wicker basket included • Training Wheels • Kick Stand • Cream colored 16” tires • Suggested age from 4 to 7 years • Bell • Weight: 7.9 kg • Banwood brown vegan leather saddle and grips in matching colour • Wheel and back reflectors • Mudguards and chainguard • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57cm • Adjustable handlebar: 63 - 69cm
-  Updated: 2025-09-16T15:55:26Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL2-W-NAVY-1_ff43274b-7edf-4b2e-a630-f926bf998df2.jpg?v=1750297892
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - Green](https://www.littlebambinos.co.nz/products/classic-bicycle-9): This vintage-inspired children’s bike with 16” wheels has the perfect balance of Scandi and timeless retro design. The Classic Bicycle is suitable from 4 to 7 years and comes with optional training wheels for children not quite ready for two wheels.A retro bike for kids with a lightweight child-friendly alloy frame in green, the matching vegan leather saddle and handlebars are adjustable which leaves room to grow with your child. With vintage design features including Banwood’s unique rosewood pedals and a detachable wicker basket for packing the essentials for a day’s adventure as well as a safety bell, kickstand, wheel, and back reflectors.Your mini-me cyclist will be the coolest cruiser on the block. Ride on 🤟🏻 • Lightweight alloy frame in green finish. • Backpedal brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedals • Extra set of PVC pedals in white • Detachable front wicker basket included • Training Wheels • Kick Stand • Cream colored 16” tires • Suggested age from 4 to 7 years • Bell • Weight: 7.9 kg • Banwood brown vegan leather saddle and grips in matching colour • Wheel and back reflectors • Mudguards and chainguard • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57cm • Adjustable handlebar: 63 - 69cm
-  Updated: 2025-09-16T15:55:34Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-CL2-W-GREEN-1_998b4972-e0db-4ce7-9597-4dc701efecb8.jpg?v=1750297893
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - Pale Mint](https://www.littlebambinos.co.nz/products/classic-bicycle-10): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike.Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a white finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻• Lightweight alloy frame in white finish• Backpedal brake /security wheel brake• Front adjustable caliper brake lever suitable for children's hands• Banwood rosewood Vintage pedal• Security wheels brake• Front wicker basket• Training Wheels• Kick Stand• Cream 16” tires• Suggested age from 4-7 years• Bell• Weight: 7,9 kg• Banwood brown faux leather saddle and grips in matching colour• Wheel reflectors & Back reflectors• Mudguards and chainguards• Singelspeed gears• Adjustable saddle• Minimum seat height and maximum seat height: 46cm – 57 cm• Extra PVC pedal• Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T16:12:29Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-classic-bicycle-16-pale-mint-1_f4aea770-a355-4903-b72b-fcc687b9333a.png?v=1750297895
   Price: $599.95 NZD
 - [BANWOOD Classic Bicycle - Cream](https://www.littlebambinos.co.nz/products/classic-bicycle-11): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike. Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a white finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure. Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears. Ride on 🤟🏻 • Lightweight alloy frame in white finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7,9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-09-16T16:12:37Z
+  Updated: 2025-09-30T01:43:25Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-classic-bicycle-16-cream-1_f7f6eeac-060e-426f-a25d-31d6e09e30f2.png?v=1750297896
   Price: $599.95 NZD
 - [BANWOOD Balance Bike Vintage - Pale Mint](https://www.littlebambinos.co.nz/products/first-go-balance-bike-14): Forget about training wheels. This vintage styled balance bike is a safe and comfortable ride for your little one that naturally develops their balance and steering. Toddlers love the independence and sense of achievement they get from riding a balance bike. The best present for kids to introduce them to cycling The bike has a child-friendly frame with a vanilla finish. The handlebar and saddle are adjustable which provides sufficient room for growth and adapts to your child’s size. The saddle is made from durable vegan leather, a material suitable for all types of weather and easy to wipe off. The front wicker basket is an all-time favourite to let the kids pack the essentials for a day’s adventure. Steel frame with pale mint coloured finish. Minimal seat height 37cm. Maximum seat height 44 cm. Adjustable handlebar Handlebar Height: adjustable from 50 to 59 cm. Wicker basket. Bell. 12" wheels. Ergonomic and comfortable seat Weight: 4.5 Kg Suggested age from 2.5 years - 5 Years. CE Certification.
-  Updated: 2025-09-16T16:25:48Z
+  Updated: 2025-09-30T01:43:27Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-PMINT-1_2806d225-d94c-4d87-87b9-091e9a5103c4.png?v=1750297897
   Price: $329.95 NZD
 - [BANWOOD Banwood Carry Strap- Pink](https://www.littlebambinos.co.nz/products/banwood-carry-strap-4): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T16:08:54Z
+  Updated: 2025-09-30T01:43:22Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-PINK-01_5f7ae077-233f-4127-9d32-35e3c409c071.png?v=1750297899
   Price: $49.95 NZD
 - [BANWOOD Banwood Carry Strap - Cream](https://www.littlebambinos.co.nz/products/banwood-carry-strap-5): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T15:55:36Z
+  Updated: 2025-09-30T01:43:23Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-CREAM-01_edfe3fba-b656-41cb-bca4-3307cecf50c7.png?v=1750297900
   Price: $49.95 NZD
 - [BANWOOD Banwood Carry Strap - Black](https://www.littlebambinos.co.nz/products/banwood-carry-strap-6): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T15:55:31Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-BLACK-01_2ddd03da-cb30-4a2f-8ea7-57b846e28831.png?v=1750297901
   Price: $49.95 NZD
 - [BANWOOD Scooter - Navy](https://www.littlebambinos.co.nz/products/scooter-6): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:33Z
+  Updated: 2025-09-30T01:43:40Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Navy-1_16341a5a-2c39-43fe-8d8b-b1e0dd2cee48.png?v=1750297903
   Price: $279.95 NZD
 - [BANWOOD Scooter - Green](https://www.littlebambinos.co.nz/products/scooter-7): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:26Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Green-1_4c372bfb-fdf7-417c-a9fd-a0c23fa9ce1f.png?v=1750297904
   Price: $279.95 NZD
 - [BANWOOD Scooter - White](https://www.littlebambinos.co.nz/products/scooter-8): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:25Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-White-1_2bdeb4ed-d760-48d6-8a1d-043cc485891e.png?v=1750297906
   Price: $279.95 NZD
 - [BANWOOD Scooter - Pink](https://www.littlebambinos.co.nz/products/scooter-9): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T16:24:57Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Pink-1_3d6aafe4-78b4-4dd0-9be3-9f5019e39238.png?v=1750297907
   Price: $279.95 NZD
 - [BANWOOD Scooter - Cream](https://www.littlebambinos.co.nz/products/scooter-10): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:30Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Cream-1_579eda06-c61a-46fb-b38c-5f1f26fcc89e.png?v=1750297908
   Price: $279.95 NZD
 - [BANWOOD Scooter - Red](https://www.littlebambinos.co.nz/products/scooter-11): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-16T15:55:37Z
+  Updated: 2025-09-30T01:43:37Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-Scooter-Red-1_0d6132b0-c4ef-42b7-80c5-7b941bc62be7.png?v=1750297909
   Price: $279.95 NZD
 - [BANWOOD Carry Strap - Green](https://www.littlebambinos.co.nz/products/banwood-carry-strap-7): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-09-16T15:55:37Z
+  Updated: 2025-09-30T01:43:21Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-SS-GREEN-01_c4256015-75f5-4b2e-842e-067a307d6d49.png?v=1750297910
   Price: $49.95 NZD
 - [BANWOOD Scooter - Mint](https://www.littlebambinos.co.nz/products/scooter-pale-mint-1): The three-wheel kick scooter for kids is created in line with BANWOOD's core values - timeless design, high quality and safety. The from BANWOOD patented Easy Ride Steering System provides a practical and safe scooter ride. Its unique and highly developed angle control system regulates the turning range of the front wheels which facilitates turning and navigation, making steering very easy! The design combines details with great functionality. This retro scooter is equipped with a T-handlebar that can be gradually adapted to three different heights as your kid grows. The rubber grips provide a good hold and the scooter deck with anti-slip tape ensures a stable and easy foothold. Going out for a scooter ride has numerous benefits for your child’s development since it improves the coordination, balance and fine motor skills, increasing confidence and making them unstoppable little kickers! PRODUCT INFORMATION: Suggested age from 3+ Banwood’s patented Easy Ride Steering System T-handlebar with 3 adjustable levels (70, 75 or 80cm) Wide and comfortable oak scooter deck with black rubber grip tape Size of the scooter deck (29,7 x 9,6 cm) Supports up to 50kg Bottom in Aluminum covered with the Banwood logo Three wheels: 2 front and 1 rear wheel with brake Rubber bar grips Weight: 2.8kg Add-on: Wicker basket Frame: Alloy with colored finish.
-  Updated: 2025-09-23T09:40:11Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Banwood-Scooter-Pale-Mint-1_21801d33-5467-4e0d-b5fd-32048918c896.png?v=1750297912
   Price: $279.95 NZD
 - [BANWOOD Icon Balance Bike - Sage](https://www.littlebambinos.co.nz/products/icon-balance-bike-sage-1): Banwood is a long-time admirer of the iconic House of Rispal. Both, Banwood and Rispal, have brought their take of a modern design to the outside world, Rispal with its focus on the core of creating lighting designs from The Golden Age of French furniture and Banwood with establishing kid’s products in timeless designs and encouraging an active lifestyle. This collection is an homage of the 20th century French design to today’s children. The creation has been carefully done by the interior designer Douglas Mont and brought Banwood into the world of the House of Rispal. Douglas wanted to create a retro-design with elements from the 50s and 60s and a personal touch. The result is characterised by an extravagant design made of an exclusive selection of materials. The design of the frame is inspired by Streamline Moderne and characterised by curved structures and horizontal lines which represent the impression of movement and speed.The choice of wheels is based on Douglas personal connection to Clermont Ferrand, the city of Michelin, where he grew up. The Michelin tires give the bike the little extra personal touch and provide a secure ride. Seat: Handmade of genuine natural leather for maximum a comfort, durability and support.Handlebar height: 50-53 cmSaddle height: 38-45 cmBike weight: 4.5 kgSuggested age range 2.5 - 5 Years
-  Updated: 2025-09-16T16:12:41Z
+  Updated: 2025-09-30T01:43:39Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_09aa0cbb-3938-43e9-a702-95f28a158c18.png?v=1750297914
   Price: $445.00 NZD
 - [BANWOOD Icon Balance Bike - Rose](https://www.littlebambinos.co.nz/products/icon-balance-bike-rose-1): Banwood is a long-time admirer of the iconic House of Rispal. Both, Banwood and Rispal, have brought their take of a modern design to the outside world, Rispal with its focus on the core of creating lighting designs from The Golden Age of French furniture and Banwood with establishing kid’s products in timeless designs and encouraging an active lifestyle. This collection is an homage of the 20th century French design to today’s children. The creation has been carefully done by the interior designer Douglas Mont and brought Banwood into the world of the House of Rispal. Douglas wanted to create a retro-design with elements from the 50s and 60s and a personal touch. The result is characterised by an extravagant design made of an exclusive selection of materials. The design of the frame is inspired by Streamline Moderne and characterised by curved structures and horizontal lines which represent the impression of movement and speed.The choice of wheels is based on Douglas personal connection to Clermont Ferrand, the city of Michelin, where he grew up. The Michelin tires give the bike the little extra personal touch and provide a secure ride. Seat: Handmade of genuine natural leather for maximum a comfort, durability and support.Handlebar height: 50-53 cmSaddle height: 38-45 cmBike weight: 4.5 kgSuggested age range 2.5 - 5 Years
-  Updated: 2025-09-16T15:55:25Z
+  Updated: 2025-09-30T01:43:40Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_ae441086-fb4b-4b88-8751-2ab24dac45fe.png?v=1750297916
   Price: $445.00 NZD
 - [BANWOOD Icon Balance Bike - Cream](https://www.littlebambinos.co.nz/products/icon-balance-bike-rose-copy-1): Banwood is a long-time admirer of the iconic House of Rispal. Both, Banwood and Rispal, have brought their take of a modern design to the outside world, Rispal with its focus on the core of creating lighting designs from The Golden Age of French furniture and Banwood with establishing kid’s products in timeless designs and encouraging an active lifestyle. This collection is an homage of the 20th century French design to today’s children. The creation has been carefully done by the interior designer Douglas Mont and brought Banwood into the world of the House of Rispal. Douglas wanted to create a retro-design with elements from the 50s and 60s and a personal touch. The result is characterised by an extravagant design made of an exclusive selection of materials. The design of the frame is inspired by Streamline Moderne and characterised by curved structures and horizontal lines which represent the impression of movement and speed.The choice of wheels is based on Douglas personal connection to Clermont Ferrand, the city of Michelin, where he grew up. The Michelin tires give the bike the little extra personal touch and provide a secure ride. Seat: Handmade of genuine natural leather for maximum a comfort, durability and support.Handlebar height: 50-53 cmSaddle height: 38-45 cmBike weight: 4.5 kgSuggested age range 2.5 - 5 Years
-  Updated: 2025-09-16T15:55:23Z
+  Updated: 2025-09-30T01:43:38Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
@@ -15670,49 +15674,49 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pure-mama-product-imagery-perineal-perinium-oil-labour-birth-peri-stretch_3785067f-a7be-4433-8377-bacc27af1fcc.webp?v=1753755612
   Price: $49.00 NZD
 - [CONNETIX Pro Constructor Set 70pc](https://www.littlebambinos.co.nz/products/connetix-pro-constructor-set-70pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-10T22:37:46Z
+  Updated: 2025-09-30T01:45:37Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-70-pieces-Pro-Constructor-Set-1_800x_b225b727-c3bd-4443-a346-c387b75c8ca0.webp?v=1754431894
   Price: $214.99 NZD
 - [CONNETIX Glitter Unicorn Pack 56pc](https://www.littlebambinos.co.nz/products/connetix-glitter-unicorn): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-24T23:49:56Z
+  Updated: 2025-09-30T01:45:36Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-56-pieces-Glitter-Unicorn-Pack-1_1000x1000_bc7d2a0a-f059-4579-a3bc-6aebf87dc1d2.webp?v=1754441899
   Price: $142.99 NZD
 - [CONNETIX Glitter Castle Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-glitter-castle-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-24T08:29:22Z
+  Updated: 2025-09-30T01:45:36Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Glitter-Castle-Pack-1_1000x1000_1d770295-9a1e-44ad-8bc8-925032e1ccce.webp?v=1754442140
   Price: $121.99 NZD
 - [CONNETIX Light Star Pack 28pc](https://www.littlebambinos.co.nz/products/connetix-light-star-pack-28pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-19T20:25:30Z
+  Updated: 2025-09-30T01:45:36Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-28-pieces-Light-Star-Pack-1_1000x1000_790fb978-0d4f-4f94-b426-2ae2df73e4b0.webp?v=1754442535
   Price: $103.99 NZD
 - [CONNETIX Bright Portal Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-bright-portal-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-16T05:08:56Z
+  Updated: 2025-09-30T01:45:36Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-29T23:22:45Z
+  Updated: 2025-09-30T03:42:45Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-29T19:22:43Z
+  Updated: 2025-09-30T03:42:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15832,7 +15836,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [TOSHI Swim Flap Cap Paradise - Congo Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-congo-seagrass): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-09-28T20:23:58Z
+  Updated: 2025-09-30T02:43:36Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15847,7 +15851,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Flap Cap Paradise - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-09-28T20:23:59Z
+  Updated: 2025-09-30T02:43:37Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -16260,63 +16264,63 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103638-s45082_1.jpg?v=1758231096
   Price: $59.00 NZD
 - [TRYBIKE - Vintage Cream](https://www.littlebambinos.co.nz/products/trybike-vintage-cream): The Vintage Cream matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T12:22:10Z
+  Updated: 2025-09-30T01:41:30Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cream-Vintage-TRYBIKE-Balance-Bike-Toddler-Child-Little-Bambinos_4.webp?v=1758500581
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Green](https://www.littlebambinos.co.nz/products/trybike-vintage-green): The Vintage Green matte edition of the popular Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T12:26:33Z
+  Updated: 2025-09-30T01:41:30Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREEN-VINTAGE-TRYBIKE-Little-Bambinos-1.webp?v=1758502464
   Price: $299.95 NZD
 - [TRYBIKE - Steel Pink](https://www.littlebambinos.co.nz/products/trybike-steel-pink): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-26T06:18:51Z
+  Updated: 2025-09-30T01:41:30Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink-Steel-TRYBIKE-Little-Bambinos-1.webp?v=1758504772
   Price: $299.95 NZD
 - [TRYBIKE - Steel Blue](https://www.littlebambinos.co.nz/products/trybike-steel-blue): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T13:37:32Z
+  Updated: 2025-09-30T01:41:31Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Blue-Steel-TRYBIKE-Little-Bambinos-1.webp?v=1758505048
   Price: $299.95 NZD
 - [TRYBIKE - Steel Grey](https://www.littlebambinos.co.nz/products/trybike-steel-grey): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T13:40:34Z
+  Updated: 2025-09-30T01:41:30Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/GREY-STEEL-TRYBIKE-Little-Bambinos-1.webp?v=1758505228
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Red](https://www.littlebambinos.co.nz/products/trybike-vintage-red): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T13:43:11Z
+  Updated: 2025-09-30T01:41:32Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Red-Vintage-TRYBIKE-Little-Bambinos-1.webp?v=1758505388
   Price: $299.95 NZD
 - [TRYBIKE - Vintage Black](https://www.littlebambinos.co.nz/products/trybike-vintage-black): Trybike is a versatile 2-in-1 tricycle and balance bike made from durable steel. Designed for children from 18 months old, it begins as a low tricycle offering stable support. When ready, it effortlessly converts to a balance bike, helping kids develop balance skills. Its unique footrest encourages coordination, making the transition to a pedal bike smoother—without the need for training wheels. Learning to ride has never been more enjoyable and confident.
-  Updated: 2025-09-22T13:46:45Z
+  Updated: 2025-09-30T01:41:30Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BLACK_VINTAGE_TRYBIKE_Little-Bambinos.webp?v=1758505598
   Price: $299.95 NZD
 - [TRYBIKE - Basket](https://www.littlebambinos.co.nz/products/trybike-basket): Children will love bringing their favorite items along on every ride with this basket. From toys and snacks to drinks, it offers plenty of room for little explorers' essentials. Made to fit the Trybike Steel and adaptable to other bikes with leather straps, it’s crafted from sturdy plastic woven wicker that endures rain, snow, and sun. This reliable basket is ready to accompany your child on many seasons of adventure and imaginative play.
-  Updated: 2025-09-26T06:18:52Z
+  Updated: 2025-09-30T01:41:30Z
   Vendor: Trybike
   Product Type: Bikes & Scooters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Trybike-Vintage-Bike-Bicycle-Basket-1.webp?v=1758505802
   Price: $64.95 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-everyday-denim-pant): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-09-28T20:23:25Z
+  Updated: 2025-09-30T00:47:21Z
   Vendor: Grown
   Product Type: Dress
   Availability: Available
@@ -16375,7 +16379,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/browncap-01_1728x_516403fc-c3b8-4528-ab0c-dffa34d5b505.webp?v=1758753802
   Price: $39.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-09-28T20:23:26Z
+  Updated: 2025-09-30T00:47:21Z
   Vendor: Grown
   Product Type: Tops
   Availability: Available
@@ -16387,7 +16391,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $57.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639353950)
-    Availability: Available
+    Availability: Not Available
     Price: $57.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639386718)
     Availability: Available
@@ -16610,8 +16614,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 715
+  Updated: 2025-09-30T03:43:11Z
+  Total Products: 435
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -16958,7 +16962,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-09-30T01:55:34Z
   Total Products: 1561
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
@@ -17120,10 +17124,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:25:40Z
   Total Products: 139
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-09-30T01:55:44Z
   Total Products: 5593
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-09-30T01:55:44Z
   Total Products: 5593
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-09-11T11:02:10Z
@@ -17447,8 +17451,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 5854
+  Updated: 2025-09-30T01:55:44Z
+  Total Products: 5526
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-09-29T11:01:54Z
   Total Products: 242
@@ -17462,8 +17466,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 1621
+  Updated: 2025-09-30T03:43:11Z
+  Total Products: 1330
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-29T11:01:54Z
   Total Products: 501
@@ -17471,8 +17475,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 5900
+  Updated: 2025-09-30T01:55:44Z
+  Total Products: 5572
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
   Total Products: 0
@@ -17870,8 +17874,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 5867
+  Updated: 2025-09-30T01:55:44Z
+  Total Products: 5539
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-09-29T11:01:54Z
   Total Products: 43
@@ -18014,8 +18018,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-29T11:01:54Z
   Total Products: 552
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 5869
+  Updated: 2025-09-30T01:55:44Z
+  Total Products: 5541
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 37
@@ -18032,7 +18036,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-09-30T01:55:44Z
   Total Products: 2277
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-09-14T11:02:26Z
@@ -18110,11 +18114,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-25T11:03:38Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-09-30T01:55:44Z
   Total Products: 2347
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 5921
+  Updated: 2025-09-30T01:55:44Z
+  Total Products: 5593
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
   Total Products: 22
@@ -18143,11 +18147,11 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:45:15Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2025-09-29T23:55:56Z
-  Total Products: 1912
+  Updated: 2025-09-30T00:08:46Z
+  Total Products: 1584
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-09-29T22:11:50Z
-  Total Products: 3098
+  Updated: 2025-09-30T01:18:07Z
+  Total Products: 3096
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-09-28T20:55:17Z
   Total Products: 3
@@ -18166,6 +18170,161 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
 - [Little Luxury](https://www.littlebambinos.co.nz/collections/little-luxury): Playmats as fun and functional as they are beautiful. Nurturing your family's transition from newborn to childhood and beyond, with understated elegance and purposeful design.
   Updated: 2025-09-23T00:10:27Z
   Total Products: 4
+
+## Blogs
+
+- [Journal](https://www.littlebambinos.co.nz/blogs/news)
+  - [Little Bambinos Collection | AW18](https://www.littlebambinos.co.nz/blogs/news/collection-aw18): Little Bambinos Collection | AW18
+    Updated: 2019-01-21T23:02:33Z
+    Author: Ulia Ash
+  - [Rylee + Cru Holiday '18](https://www.littlebambinos.co.nz/blogs/news/rylee-cru-holiday-18): <p><a href="https://www.littlebambinos.co.nz/collections/rylee-cru" target="_blank" rel="noopener noreferrer">Rylee + Cru</a> is a treasured gem amongst our collections at Little Bambinos.  Every season Kelli Murray delivers pieces somehow even better than the last, which</p>
+    Updated: 2019-01-21T23:01:39Z
+    Author: Ulia Ash
+  - [Little Bambinos | SS18/19](https://www.littlebambinos.co.nz/blogs/news/little-bambinos-ss18-19): <span>This season we one again asked the dream team </span><a href="https://www.instagram.com/sesandjen/" target="_blank" rel="noopener noreferrer">@sesandjen</a><span> and </span><a href="https://www.instagram.com/nikkidelesphotography/" target="_blank" rel="noopener noreferrer">@nikkidelesphotography</a><span> to create a summer editorial for us with their favourite </span>
+    Updated: 2019-01-21T22:58:39Z
+    Author: Ulia Ash
+  - [Introducing | G.NANCY](https://www.littlebambinos.co.nz/blogs/news/introducing-g-nancy): <span>This season we welcome G.NANCY to the fold with the launch of this seasons "Our Days are Golden".  </span>
+    Updated: 2019-01-21T23:02:15Z
+    Author: Ulia Ash
+  - [Introducing | Louise Misha](https://www.littlebambinos.co.nz/blogs/news/introducing-louise-misha): <p><span>Introducing Louise Misha AW18</span></p>
+    Updated: 2019-01-21T23:04:52Z
+    Author: Ulia Ash
+  - [Introducing | Dot Dot Swim](https://www.littlebambinos.co.nz/blogs/news/introducing-dot-dot-swim): <div>DOT DOT was born out of a simple ideal, to let little girls be just that – little.</div>
+<div>In a time where girls are growing up so quickly, DOT DOT embraces everything</div>
+    Updated: 2019-01-21T23:04:02Z
+    Author: Ulia Ash
+  - [FEATURE | Wildrising X Daughter](https://www.littlebambinos.co.nz/blogs/news/feature-wildrising-x-daughter): <span>We recently asked Kathleen + Sophia from </span><a href="https://www.instagram.com/_wildrising/" target="_blank" rel="noopener noreferrer">@_wildrising</a><span> to share with us their favourite pieces from the latest Daughter collection "Oh Somewhere '18"</span>
+    Updated: 2019-01-21T22:58:57Z
+    Author: Ulia Ash
+  - [STYLE INFLUENCER | Mandy Duncan](https://www.littlebambinos.co.nz/blogs/news/style-influencer-mandy-duncan): In our latest feature we talk to influencers and style legends alike.  Our first edition features Mandy Duncan - mum of soon to be 3, owner of Noah + Bowies and
+    Updated: 2019-01-21T23:00:57Z
+    Author: Ulia Ash
+  - [FEATURE | Birthday Celebrations](https://www.littlebambinos.co.nz/blogs/news/feature-birthday-celebrations): <div>Last month one of our favourite one year olds celebrated her first year milestone!<br>Olivia and big sister Georgia topped all levels of adorable decked out in Tutu du</div>
+    Updated: 2019-01-21T22:59:46Z
+    Author: Ulia Ash
+  - [Introducing | Ruffets + Co](https://www.littlebambinos.co.nz/blogs/news/introducing-ruffets-co): <span>This season we welcome Ruffets + Co to the Little Bambinos family, with the launch of their latest swimwear collection!</span>
+    Updated: 2019-01-21T22:59:20Z
+    Author: Ulia Ash
+  - [Introducing | Minouche SS18](https://www.littlebambinos.co.nz/blogs/news/introducing-minouche-ss18): <div>Another new brand to the Little Bambinos family this season is Minouche.</div>
+<div><span>If you're unfamiliar with this beautiful Australian brand, Minouche is synonymous</span></div>
+    Updated: 2019-01-21T22:58:14Z
+    Author: Ulia Ash
+  - [Preview | Jamie Kay Meadowlands Drop II](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-meadowlands-drop-ii): <div>Jamie Kay Meadowlands Drop II launches 11am (NZST) Monday 29th October!<br>Preview the collection below:</div>
+    Updated: 2019-01-21T22:57:55Z
+    Author: Ulia Ash
+  - [EXCLUSIVE | G.Nancy Christmas PJ Collection](https://www.littlebambinos.co.nz/blogs/news/exclusive-g-nancy-christmas-collection): <span>This year we welcome 'Eucalyptus' to the G.Nancy 'Very Merry Aussie Christmas PJ Collection'!  A little green on green for this beautiful vintage inspired collection, </span>
+    Updated: 2019-01-21T22:57:02Z
+    Author: Ulia Ash
+  - [EXCLUSIVE | Minouche Christmas '18](https://www.littlebambinos.co.nz/blogs/news/exclusive-minouche-christmas-18): <span>This Christmas we're excited to be the exclusive retailer for Minouche Christmas!  </span><span>A collection of festive red and white dresses and rompers for babies and little </span>
+    Updated: 2019-01-21T23:03:19Z
+    Author: Ulia Ash
+  - [Introducing | Quincy Mae](https://www.littlebambinos.co.nz/blogs/news/introducing-quincy-mae): <div>Quincy Mae is a darling new brand that we could not be more excited to receive!</div>
+<div>A beautiful collection of baby essentials in certified organic brushed cotton and </div>
+    Updated: 2019-01-21T22:55:25Z
+    Author: Ulia Ash
+  - [Introducing | Sleepy Doe Christmas](https://www.littlebambinos.co.nz/blogs/news/introducing-sleepy-doe-christmas): <span>Inspired by our favourite seasonal fruit. A collection designed carefully for Winter, Christmas and beyond.</span>
+    Updated: 2019-01-21T22:52:23Z
+    Author: Ulia Ash
+  - [FEATURE - Ses + Jen X Petite Amalie](https://www.littlebambinos.co.nz/blogs/news/feature-ses-jen-x-petite-amalie): <div>Petite Amalie is one of the latest brands to drop at Little Bambinos for SS18/19.</div>
+<div>This beautiful brand was born from a love of timeless fashion pieces your child </div>
+    Updated: 2019-01-21T22:53:31Z
+    Author: Ulia Ash
+  - [STYLE INFLUENCER | Stephina + Daisy](https://www.littlebambinos.co.nz/blogs/news/style-influencer-stephina-daisy): <span>In our latest Style Influencer series, we chat briefly to Stephina - one of our favourite new accounts to follow, mum to Daisy and all round Instagram icon.</span>
+    Updated: 2019-01-23T02:07:35Z
+    Author: Ulia Ash
+  - [MEET THE MAKERS | RaaRaa Kids](https://www.littlebambinos.co.nz/blogs/news/meet-the-makers-raaraa-kids): <span>Earlier this season we launched the first ever collection from RaaRaa Kids.  An ensemble brand based on trans-seasonal and mostly unisex pieces, </span>
+    Updated: 2019-02-12T21:44:53Z
+    Author: Ulia Ash
+  - [NEW SEASON | Rylee + Cru SS19](https://www.littlebambinos.co.nz/blogs/news/new-season-rylee-cru-ss19)
+    Updated: 2019-02-17T06:36:38Z
+    Author: Ulia Ash
+  - [NEW SEASON | Louise Misha SS19](https://www.littlebambinos.co.nz/blogs/news/new-season-louise-misha-ss19)
+    Updated: 2019-02-22T07:15:15Z
+    Author: Ulia Ash
+  - [NEW SEASON | Jamie Kay Grace Collection](https://www.littlebambinos.co.nz/blogs/news/new-season)
+    Updated: 2019-07-08T05:48:50Z
+    Author: Ulia Ash
+  - [INTRODUCING | Huxbaby Organic Essentials](https://www.littlebambinos.co.nz/blogs/news/introducing-huxbaby-organic-essentials)
+    Updated: 2019-07-08T22:38:54Z
+    Author: Ulia Ash
+  - [NEW SEASON | Rylee + Cru 'Snowbird' AW19](https://www.littlebambinos.co.nz/blogs/news/new-season-rylee-cru-snowbird-aw19)
+    Updated: 2019-07-29T08:11:55Z
+    Author: Ulia Ash
+    Tags: Rylee + Cru
+  - [FEATURE | Winter Jackets](https://www.littlebambinos.co.nz/blogs/news/feature-winter-jackets)
+    Updated: 2019-07-25T08:40:59Z
+    Author: Ulia Ash
+  - [NEW SEASON | Huxbaby "Golden" Drop 1](https://www.littlebambinos.co.nz/blogs/news/new-season-huxbaby-golden-drop-1)
+    Updated: 2019-07-31T09:30:11Z
+    Author: Ulia Ash
+    Tags: HUXBABY, NEW
+  - [PREVIEW | Jamie Kay Swim '19](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-swim-19)
+    Updated: 2019-08-20T21:49:09Z
+    Author: Ulia Ash
+    Tags: AUG-19, jamie kay, summer, swim
+  - [NEW SEASON | Louise Misha AW19](https://www.littlebambinos.co.nz/blogs/news/new-season-louise-misha-aw19)
+    Updated: 2019-09-02T03:32:17Z
+    Author: Ulia Ash
+  - [PREVIEW | Jamie Kay Maple Drop One](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-maple-drop-one)
+    Updated: 2019-10-24T23:49:42Z
+    Author: Ulia Ash
+  - [PREVIEW | Jamie Kay Maple Drop Two](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-maple-drop-two)
+    Updated: 2019-10-25T00:57:58Z
+    Author: Afterpay Integration
+  - [RECIPE | Nourishing Chicken Soup](https://www.littlebambinos.co.nz/blogs/news/recipe-nourishing-chicken-soup)
+    Updated: 2020-04-03T23:11:06Z
+    Author: Bold Commerce Collaborator
+  - [KEEP THEM BUSY | Lego Challenge](https://www.littlebambinos.co.nz/blogs/news/keep-them-busy-lego-challenge)
+    Updated: 2020-04-03T23:20:27Z
+    Author: Bold Commerce Collaborator
+  - [KEEP THEM BUSY | Rylee + Cru Colouring Book](https://www.littlebambinos.co.nz/blogs/news/keep-them-busy)
+    Updated: 2020-04-03T23:25:03Z
+    Author: Bold Commerce Collaborator
+  - [COLOURING CONTEST | Easter Bunny](https://www.littlebambinos.co.nz/blogs/news/colouring-in-contest-easter-bunny)
+    Updated: 2020-04-09T07:05:45Z
+    Author: Bold Commerce Collaborator
+  - [PREVIEW | Jamie Kay Wanderlust Collection](https://www.littlebambinos.co.nz/blogs/news/preview-jamie-kay-wonderlust)
+    Updated: 2020-07-22T00:41:31Z
+    Author: Bold Commerce Collaborator
+  - [Baby Shower Gift Ideas](https://www.littlebambinos.co.nz/blogs/news/baby-shower-gift-ideas)
+    Updated: 2020-08-16T20:46:14Z
+    Author: Bold Commerce Collaborator
+  - [PREVIEW | Carousel Collection by Jamie Kay](https://www.littlebambinos.co.nz/blogs/news/preview-flourish-collection-by-jamie-kay)
+    Updated: 2020-11-04T01:00:21Z
+    Author: Kate Dagg
+  - [Cardigans & Jumpers](https://www.littlebambinos.co.nz/blogs/news/cardigans-jumpers): <meta charset="utf-8">
+<p><span>Here are a few of our favourite cardigans and jumpers that will see your little ones through to winter and beyond.</span></p>
+    Updated: 2021-01-29T19:09:22Z
+    Author: Kate Dagg
+  - [Jamie Kay / The Secret Garden Collection](https://www.littlebambinos.co.nz/blogs/news/jamie-kay-the-secret-garden-collection)
+    Updated: 2021-02-18T23:22:41Z
+    Author: Kate Dagg
+  - [Misha & Puff | Passionate About Slow Fashion](https://www.littlebambinos.co.nz/blogs/news/misha-puff-passionate-about-slow-fashion): <meta charset="utf-8"><span>Misha &amp; Puff love slow fashion that's stylish, yet unfussy. Hardwearing and long lasting. Expertly crafted. Thoughtfully manufactured. Good for the planet. Kind to animals. Fair to all people involved in the process.</span>
+    Updated: 2021-03-03T00:14:21Z
+    Author: Kate Dagg
+  - [Rylee + Cru | Secret Garden](https://www.littlebambinos.co.nz/blogs/news/rylee-cru-secret-garden): <meta charset="utf-8"><span>The latest collection from Rylee + Cru is inspired by golden days and the soft hues of a blooming garden. This collection is full of sunny motifs, playful patterns, and their signature florals. </span>
+    Updated: 2021-03-23T01:21:38Z
+    Author: Kate Dagg
+  - [Quincy Mae | Drop 1 Preview](https://www.littlebambinos.co.nz/blogs/news/quincy-mae-drop-1-preview)
+    Updated: 2021-03-29T03:39:52Z
+    Author: Kate Dagg
+  - [The Lullaby Club | Autumn Collection](https://www.littlebambinos.co.nz/blogs/news/the-lullaby-club-autumn-collection): The new Autumn collection from The Lullaby Club has arrived. Shop the new Penny Midi Smock Dress and Sawyer Baby Doll Dress. Both styles are pregnancy and breastfeeding friendly. Free shipping within NZ on orders over $100.
+    Updated: 2021-04-07T23:21:38Z
+    Author: Kate Dagg
+  - [COMING SOON | MOONIE The Humming Friend](https://www.littlebambinos.co.nz/blogs/news/coming-soon-moonie-the-humming-friend): <meta charset="utf-8"><span>MOONIE the humming friend is a professional baby sleep aid, that helps babies easily fall asleep.</span>
+    Updated: 2021-06-12T02:14:54Z
+    Author: Kate Dagg
+  - [JAMIE KAY | MARIGOLD COLLECTION](https://www.littlebambinos.co.nz/blogs/news/jamie-kay-marigold-collection): <meta charset="utf-8">
+<div style="text-align: left;">Introducing the beautiful new Marigold collection from Jamie Kay designed with love for your little ones.</div>
+    Updated: 2021-08-15T05:08:01Z
+    Author: Kate Dagg
+  - [Colour & Win!](https://www.littlebambinos.co.nz/blogs/news/colour-win): Get your kids in the Christmas spirit with our festive colouring competition. Entries close Monday Dec 6 at 2PM.
+    Updated: 2021-12-03T07:10:32Z
+    Author: Kate Dagg
+  - [Grown Clothing AW22 Collection Preview](https://www.littlebambinos.co.nz/blogs/news/grown-clothing-aw22-collection-preview)
+    Updated: 2022-03-05T19:29:19Z
+    Author: Kate Dagg
+    Tags: grown
 
 ## Store Pages
 
