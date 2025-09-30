@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-09-29T20:00:34.016Z
+- Updated At: 2025-09-30T00:00:32.966Z
 
 ## Products
 
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-09-28T23:58:50Z
+  Updated: 2025-09-29T21:38:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2081,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-BEACH-TOBBACO-5.jpg?v=1757517441
     Price: $1.00 USD
 - [Newport Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport-1): Elevate your sewing projects with the Newport 1 Fabric Collection at Fabrics Star. Explore a diverse range of premium textiles, from elegant patterns to modern designs.
-  Updated: 2025-09-28T00:49:12Z
+  Updated: 2025-09-29T21:32:16Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -8159,7 +8159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-WHITE.jpg?v=1757518665
     Price: $1.00 USD
 - [COOL Fabric, 54 Inch. in Width](https://fabricsstar.com/products/cool)
-  Updated: 2025-09-16T00:43:15Z
+  Updated: 2025-09-29T23:46:06Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
