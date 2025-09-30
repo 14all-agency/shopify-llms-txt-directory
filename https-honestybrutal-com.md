@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-09-29T04:00:29.022Z
+- Updated At: 2025-09-30T00:00:31.525Z
 
 ## Products
 
@@ -2097,7 +2097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429593_7536.jpg?v=1757218714
     Price: $75.00 USD
 - [The Quintessential Organic Tee](https://honestybrutal.com/products/the-quintessential-organic-tee): The AS Colour Staple Organic Tee (5001G) is the ultimate choice for brands looking to launch high-quality print on demand apparel. Made from soft, durable, and eco-friendly organic cotton, this premium tee is perfect for custom printing, offering a smooth surface for bold designs. Whether you're creating streetwear, merch drops, or sustainable fashion, this tee delivers a flawless print every time. Designed for comfort and durability, this organic cotton t-shirt is an ideal option for dropshipping and eCommerce fulfillment. Apliiq’s print on demand fulfillment solutions ensure fast production and direct shipping, so you can focus on growing your brand without inventory worries. Private labeling options make it easy to create a premium, retail-ready product. Get started with Apliiq and bring your designs to life on a high-quality, sustainable tee. From custom streetwear to branded essentials, the AS Colour Staple Organic Tee is the perfect canvas for your creative vision. Benefits Perfect for custom branding Soft, breathable, and comfortable Premium feel with long-lasting wear Eco-friendly choice for sustainable fashion Ideal for print-on-demand businesses Versatile for casual or streetwear High-quality fabric holds prints beautifully Resists shrinkage for a consistent fit Effortless style for everyday wear Ethically made for conscious consumers Features Regular fit Mid-weight, 5.3 oz fabric 100% combed organic cotton Marles blend with 15% viscose Neck ribbing with twin needle stitch Side-seamed construction Shoulder-to-shoulder tape Preshrunk to minimize shrinkage Sustainably grown cotton No herbicides or pesticides used For environmental and human friendly reason, this product is only made when you order it. Typically, this product will be made in about a week, we will send you tracking information as soon as it's in the mail.
-  Updated: 2025-09-29T00:13:47Z
+  Updated: 2025-09-29T12:08:04Z
   Vendor: Apliiq
   Product Type: tshirts
   Availability: Available
@@ -2238,19 +2238,19 @@
   Updated: 2025-09-08T18:49:02Z
   Total Products: 16
 - [First Impressions](https://honestybrutal.com/collections/honesty-brutal): Logo as statement. Be the pioneer.
-  Updated: 2025-09-07T04:17:37Z
+  Updated: 2025-09-29T11:18:23Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-09-08T18:49:02Z
+  Updated: 2025-09-29T11:18:23Z
   Total Products: 60
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-09-29T00:07:33Z
+  Updated: 2025-09-29T11:18:23Z
   Total Products: 52
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
-  Updated: 2025-09-29T00:07:33Z
+  Updated: 2025-09-29T11:18:23Z
   Total Products: 38
 - [Bombers](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
   Updated: 2025-08-29T01:24:33Z
