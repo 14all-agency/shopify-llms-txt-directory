@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-30T08:00:50.070Z
+- Updated At: 2025-09-30T12:00:49.188Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-09-29T09:51:21Z
+  Updated: 2025-09-30T09:30:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8215,7 +8215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cutout-Long-Sleeve-Pencil-Dress-Brinxx-Couture-8363.jpg?v=1709845603
     Price: $27.00 USD
 - [Printed V-Neck Long Sleeve Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/printed-v-neck-long-sleeve-mini-dress): Stand out from the crowd with this beautiful Printed V-Neck Long Sleeve Mini Dress! Crafted from luxuriously soft material, this dress was designed to flatter your figure.
-  Updated: 2025-09-23T04:00:42Z
+  Updated: 2025-09-30T09:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11794,7 +11794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Hip-Lifting-Shaping-Shorts-Brinxx-Couture-3671.jpg?v=1709866906
     Price: $35.00 USD
 - [Lace Detail Hook-and-Eye Shaping Shorts - Brinxx Couture](https://www.brinxxcouture.com/products/lace-detail-hook-and-eye-shaping-shorts): Experience a perfect fit in these Lace Detail Hook-and-Eye Shaping Shorts. With delicate lace detail and comfortable hook-and-eye design.
-  Updated: 2025-08-06T06:28:22Z
+  Updated: 2025-09-30T11:28:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12854,7 +12854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-09-30T05:30:47Z
+  Updated: 2025-09-30T09:10:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12864,7 +12864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -22001,7 +22001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-09-30T06:40:41Z
+  Updated: 2025-09-30T11:20:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23548,7 +23548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-30T07:40:42Z
+  Updated: 2025-09-30T11:10:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26143,7 +26143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-09-28T07:01:25Z
+  Updated: 2025-09-30T10:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26208,7 +26208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-09-29T10:00:42Z
+  Updated: 2025-09-30T09:40:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34337,7 +34337,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002222.jpg?v=1747426418
   Price: $89.99 USD
 - [V-Back Bow Tie Denim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress): Elevate your style with our V-Back Bow Tie Denim Dress. This flattering silhouette features a charming bow-tie detail at the back, creating a vintage twist.
-  Updated: 2025-09-25T09:34:50Z
+  Updated: 2025-09-30T09:10:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34371,7 +34371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / XL](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614356150)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
 - [Crochet Cutout Camisole Boho Sun Suit - Brinxx Couture](https://www.brinxxcouture.com/products/crochet-cutout-camisole-boho-sun-suit): Elevate your summer style with our Crochet Cutout Camisole Boho Sun Suit. This eye-catching ensemble combines intricate crochet detailing with strategic cutouts
@@ -34659,7 +34659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/db2e5bf4b8074f08b45960df2db54255-Max.jpg?v=1756214639
     Price: $28.00 USD
 - [Sleeveless Drawstring Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/sleeveless-drawstring-mini-dress): Elevate your wardrobe with this Sleeveless Drawstring Mini Dress, designed for effortless style and comfort. The adjustable drawstring lets you adjust your fit.
-  Updated: 2025-09-26T01:26:25Z
+  Updated: 2025-09-30T09:57:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34689,7 +34689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025740.jpg?v=1756225423
     Price: $41.00 USD
   - [Blue / M](https://www.brinxxcouture.com/products/sleeveless-drawstring-mini-dress?variant=44222492377270)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025740.jpg?v=1756225423
     Price: $41.00 USD
   - [Blue / L](https://www.brinxxcouture.com/products/sleeveless-drawstring-mini-dress?variant=44222492410038)
