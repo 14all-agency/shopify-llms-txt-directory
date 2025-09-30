@@ -6,7 +6,7 @@
 - Timezone: America/Kentucky/Louisville
 - Created At: 2025-08-12T15:00:07Z
 - Contact Email: helplandu78@gmail.com
-- Updated At: 2025-09-30T00:00:32.028Z
+- Updated At: 2025-09-30T12:00:30.266Z
 
 ## Products
 
@@ -2244,27 +2244,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/1468521439629.jpg?v=1759167594
     Price: $82.00 USD
-- [Dog Training Collar For 2 Dogs](https://everskystore.com/products/dog-training-collar-for-2-dogs): Dog Training Collar For 2 Dogs
-  Updated: 2025-09-29T17:40:08Z
-  Vendor: DC-Fifth & Ninth
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/570a7c50-c184-436c-a730-87bc9158ee4c.jpg?v=1759167595
-  Price: $210.00 USD
-- [Dog Training Collar Black](https://everskystore.com/products/dog-training-collar-black): Dog Training Collar Black
-  Updated: 2025-09-29T17:40:00Z
-  Vendor: DC-Fifth & Ninth
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/c38b9ab6-9bb0-4348-b27a-b94628dcd3ae.jpg?v=1759167598
-  Price: $55.00 USD
-- [Top Dog Training Collar for Effective Training](https://everskystore.com/products/dog-training-collar): Explore our Dog Training Collar designed for effective pet training. Ideal for obedience and behavior correction.
-  Updated: 2025-09-29T17:40:15Z
-  Vendor: DC-Fifth & Ninth
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/8f5ed2d9-6400-45d3-aeb5-1e8f3eb00b99.jpg?v=1759167600
-  Price: $42.00 USD
 - [Dog Car Seat Cover: Safe Travel for Your Pet | Buy Now](https://everskystore.com/products/dog-car-seat-cover-view-mesh-pet-carrier-hammock-safety-protector-car-rear-back-seat-mat-with-zipper-and-pocket-for-travel): Discover the Dog Car Seat Cover with mesh views, zipper, and pocket for safe and comfortable travel. Protect your car's rear seat today!
   Updated: 2025-09-29T17:40:19Z
   Vendor: DC-Fifth & Ninth
@@ -2638,13 +2617,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/0c8dffd0-e77b-4047-8328-ba4c1888408d.jpg?v=1759167755
   Price: $35.00 USD
-- [L-Carnitine L-Tartrate Capsules](https://everskystore.com/products/l-carnitine-l-tartrate-capsules)
-  Updated: 2025-09-29T17:43:01Z
-  Vendor: DC-Fifth & Ninth
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/a7c1fe79-a160-4ccc-a8b4-6ae4da661da3.jpg?v=1759167772
-  Price: $36.00 USD
 - [BSYS 7 Day Colon Cleanse & Detox Formula 60's](https://everskystore.com/products/bsys-7-day-colon-cleanse-detox-formula-60s)
   Updated: 2025-09-29T17:43:29Z
   Vendor: DC-Fifth & Ninth
@@ -2660,7 +2632,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/024dce3c-741d-4535-a04c-efe8535bc635.jpg?v=1759167808
   Price: $29.00 USD
 - [BSYS 8IN1 SHILAJIT GUMMIES 60'S](https://everskystore.com/products/bsys-8in1-shilajit-gummies-60s): BSYS 8IN1 SHILAJIT GUMMIES 60'S
-  Updated: 2025-09-29T17:43:59Z
+  Updated: 2025-09-30T10:07:30Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3072,7 +3044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/0d9884ef-9270-4b78-83da-9ea0c76f3189.jpg?v=1759168252
     Price: $59.00 USD
 - [Silicone Dog Bath Massage Gloves Brush Pet Cat Bathroom Cleaning Tool Comb Brush For Dog Can Pour Shampoo Dog Grooming Supplies](https://everskystore.com/products/silicone-dog-bath-massage-gloves-brush-pet-cat-bathroom-cleaning-tool-comb-brush-for-dog-can-pour-shampoo-dog-grooming-supplies): Overview: 1. It leaves pet skin clean and helps restore sheen and luster to the coat. Our handheld grooming tool won’t pull on hair making it a perfect brush for pets with sensitive skin. 2. Turn grooming into a soothing massage for your pet that feels good, gets them clean and helps keep their skin and coat healthy. 3. At the top of the bottom, you can open the small ring and pour shampoo and water. 4. Dilute your pet's shampoo in advance, then hold it and distribute the blisters to the pet's fur during the bath. Specification: Product category: bath brush/massage brush Applicable object: Adult Name: Silicone Bath Brush Size: 7.9*8.5*5.5cm, weighs about 85g Packaging: single opp+carton packaging Packing Content: Silicone brush*1 Product Image:
-  Updated: 2025-09-29T18:07:26Z
+  Updated: 2025-09-30T06:01:18Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3094,7 +3066,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/bc62444f-e8e2-4e0c-9ab3-f7b05d3ca9b8.jpg?v=1759168882
     Price: $10.00 USD
 - [PU Leather Office Chair](https://everskystore.com/products/pu-leather-office-chair): Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1B-BK Specification: Black/Flip-up Armrest Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1B-WT Specification: Cream/Flip-up Armrest Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1A-BN Specification: Brown/Fixed Armrest Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1B-BN Specification: Brown/Flip-up Armrest Description: Material - The executive office chair is made of upholstered, carefully-selected PU material that is waterproof and resistant to stains, easy to wipe clean, and filled with high-density sponge padding for a natural leather look for an upscale look. Functional - Adjustable high-back computer chair for home or office workspaces; segmented padding on the seat and back. The lumbar zone expands and contracts as you lean forward and back; flip-up armrests to allow for more flexibility and motion range when desired. Ergonomic - armrest length 15", seat-to-armrest height 9.4", and the armrests can be flipped to adjust your relaxed posture. The thickly contoured upholstered ergonomic chair supports the waist. You can gain continuous comfort for long hours of gaming or work. High-Quality - It has 360-degree rotatable multi-directional wheels, which glide and move smoothly on the ground. The chair is extra-sturdy and stable, making it a long-lasting office accessory that bears 275 pounds of weight. Easy to Install - Office chairs come with all hardware & necessary tools. Follow the instructions, installation tools, and instructions to make the installation more convenient and complete within 20 minutes.
-  Updated: 2025-09-29T19:06:21Z
+  Updated: 2025-09-30T06:21:43Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3115,8 +3087,8 @@
 ## Collections
 
 - [Home page](https://everskystore.com/collections/frontpage)
-  Updated: 2025-09-29T18:21:47Z
-  Total Products: 10
+  Updated: 2025-09-30T01:47:20Z
+  Total Products: 9
 - [Best Sellers](https://everskystore.com/collections/best-sellers): Collection
   Updated: 2025-09-01T04:46:33Z
   Total Products: 2
