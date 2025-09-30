@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-09-30T04:00:32.562Z
+- Updated At: 2025-09-30T08:00:33.204Z
 
 ## Products
 
@@ -2020,8 +2020,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Einhorn-Ros_-Magisches-Fantasie-Spielzeug-PAT-Und-PATTY.jpg?v=1752231391
   Price: 39,95 € EUR
-- [Bio Kuscheltier Drache – Plüschtier handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuscheltier-drache-tattie): Bio Kuscheltier Drache Tattie aus Bio-Baumwolle – weich, handgemacht und ideal zum Kuscheln. Jetzt bei Pat & Patty kaufen – nachhaltig und liebevoll gefertigt.
-  Updated: 2025-09-26T21:29:55Z
+- [Bio Kuscheltier Drache – handgemachtes, weiches Plüschtier](https://patundpatty.de/products/bio-kuscheltier-drache-pluschtier): Bio Kuscheltier Drache von PAT & PATTY: handgemacht aus Bio-Baumwolle, weich, nachhaltig und liebevoll gefertigt – ideal zum Kuscheln für Kinder und Babys.
+  Updated: 2025-09-30T07:25:53Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
