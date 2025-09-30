@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-09-29T16:00:33.449Z
+- Updated At: 2025-09-30T00:00:35.017Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -2435,7 +2435,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £30.50 GBP
 - [Papaya Seed Oil, Refined](https://inky-ingredients.com/products/papaya-seed-oil-refined): Extracted from papaya seeds, this refined oil is rich in nutrients and antioxidants. Beneficial for skin and hair, it moisturises, rejuvenates, and imparts a radiant glow. A natural beauty enhancer.
-  Updated: 2025-09-26T08:19:51Z
+  Updated: 2025-09-29T16:56:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2540,7 +2540,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £31.05 GBP
 - [Sandalwood Australian, Essential Oil](https://inky-ingredients.com/products/sandalwood-australian-essential-oil): Sandalwood Australian Essential Oil emanates a distinctive woody scent. Known for its calming properties, it serves as a versatile ingredient in aromatherapy. This oil also contributes to skincare, providing a soothing and grounding experience.
-  Updated: 2025-09-28T06:36:00Z
+  Updated: 2025-09-29T17:52:42Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
