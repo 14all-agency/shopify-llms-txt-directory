@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-09-30T08:00:29.367Z
+- Updated At: 2025-09-30T12:00:28.977Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo and Conditioner](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): The KeraFactor 2 in 1 Shampoo and Conditioner exfoliates and stimulates the scalp and hair using a unique combination of conditioners and growth factors designed to enhance scalp circulation and reinvigorate the scalp and hair, leading to hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used daily for at least 1 month. Lasts for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. Leave in for 1 minute before rinsing. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair treatment than a shampoo wash. Lastly, condition your ends with your regular conditioner. List of Ingredients Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-09-30T07:33:48Z
+  Updated: 2025-09-30T11:58:46Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/10_affe34a8-1d19-4ef1-9214-d3c49ebe7bcd-opt.jpg?v=1751544973
   Price: $1,399.00 USD
 - [KeraSmooth Hair Brush](https://shop.mykerafactor.com/products/kerasmooth-hair-brush): Introducing the KeraSmooth Hair Brush by KeraFactor Discover the ultimate solution for delicate detangling with the KeraSmooth Hair Brush. Designed specifically for thinning or fine hair, KeraSmooth features innovative soft-flex teeth that ensure minimal breakage and gentle care for your locks. Key Features: Soft-Flex Teeth: Specially designed to reduce breakage and pulling, making it perfect for fragile or color-treated hair. Pain-Free Detangling: Effortlessly detangle wet hair without any discomfort. Ideal for use in the shower to distribute shampoo and conditioner evenly from root to tip. Versatile Use: Perfect for detangling after washing, prepping for blow drying, or embracing your natural hair texture. Gentle on Scalps: The soft-flex teeth are tough on knots but gentle on sensitive scalps, providing a soothing brushing experience. Patented Two-Tiered Design: Long teeth detangle and remove knots, while short teeth smooth hair for a glossy, frizz-free finish. How to Use: In the Shower: Use on wet hair to painlessly detangle and evenly distribute shampoo and conditioning treatments. Post-Wash: Detangle hair after washing to prepare for blow drying or to style your natural hair. Avoid Heat: Do not use with heat tools to maintain the integrity of the soft-flex teeth. Elevate your hair care routine with the KeraSmooth Hair Brush. Experience delicate detangling and healthier, shinier hair with every use.
-  Updated: 2025-09-30T04:19:06Z
+  Updated: 2025-09-30T11:58:23Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -108,20 +108,20 @@
 ## Collections
 
 - [All Products](https://shop.mykerafactor.com/collections/all-hair-products)
-  Updated: 2025-09-30T00:30:03Z
+  Updated: 2025-09-30T11:05:22Z
   Total Products: 16
 - [Catalogs for the website](https://shop.mykerafactor.com/collections/catalogs-for-the-website)
-  Updated: 2025-09-30T00:30:03Z
+  Updated: 2025-09-30T11:05:22Z
   Total Products: 2
 - [Lashes and Brows by KeraFactor®](https://shop.mykerafactor.com/collections/lashes-and-brows-by-kerafactor): Introducing the newest additions to the KeraFactor family!
 ﻿Elevate your natural beauty with our cutting-edge formulas designed to give you voluminous lashes and perfectly defined brows that make a statement.
-  Updated: 2025-09-29T11:04:30Z
+  Updated: 2025-09-30T11:05:22Z
   Total Products: 2
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/collections/keraflex-laser-cap)
   Updated: 2025-09-28T11:04:47Z
   Total Products: 2
 - [DTC Store](https://shop.mykerafactor.com/collections/dtc-store)
-  Updated: 2025-09-30T00:30:03Z
+  Updated: 2025-09-30T11:05:22Z
   Total Products: 13
 
 ## Blogs
