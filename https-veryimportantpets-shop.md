@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-01T00:01:15.903Z
+- Updated At: 2025-10-01T04:01:10.398Z
 
 ## Products
 
@@ -23499,7 +23499,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/animology-essentials-baby-powder-fragrance-spray-250ml-x-5-215126.jpg?v=1728205195
   Price: £10.26 GBP
 - [Beaphar Sensitive Skin Soothing Shampoo for Dogs & Cats 3pk](https://veryimportantpets.shop/products/beaphar-shampoo-soothing-3-x-250ml): Beaphar Sensitive Skincare Shampoo soothes irritated skin in dogs and cats. Free from harmful chemicals, enriched with Calendula and Aloe vera.
-  Updated: 2025-09-22T18:52:24Z
+  Updated: 2025-10-01T01:55:11Z
   Vendor: Beaphar
   Product Type: 
   Availability: Available
