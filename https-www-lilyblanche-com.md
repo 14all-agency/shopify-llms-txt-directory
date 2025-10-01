@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-01T04:00:42.612Z
+- Updated At: 2025-10-01T08:00:43.421Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -10144,7 +10144,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Grey Baroque Pearl Necklace | Rose Gold | Top Quality | Lily Blanche](https://www.lilyblanche.com/products/baroque-pearl-necklace-grey-rose-gold): This stunning real freshwater baroque pearl necklace features a large cultured black keshi pearl in a rose gold vermeil setting. Our sustainably sourced and undyed pearl necklaces are renowned for their lustre and luminosity. Next-day delivery is available. Gift one today and receive a free jewellery care kit worth £20
-  Updated: 2025-08-30T19:14:47Z
+  Updated: 2025-10-01T07:36:57Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16952,7 +16952,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-29T14:04:36Z
+  Updated: 2025-10-01T05:42:30Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17657,7 +17657,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_diamond_initial_necklace_R.jpg?v=1741872491
     Price: £260.00 GBP
 - [Solid White Gold Curb Chain | Premium Quality Chain | UK Made](https://www.lilyblanche.com/products/solid-white-gold-curb-chain): Quality & strength assured, this classic, medium-weight, solid 9 carat white gold curb chain is perfect for any occasion.  Free shipping & free care kit today
-  Updated: 2025-09-30T19:54:00Z
+  Updated: 2025-10-01T06:14:11Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -23082,7 +23082,7 @@ From £190.
     Price: £320.00 GBP
 - [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
 From £150
-  Updated: 2025-09-25T10:24:31Z
+  Updated: 2025-10-01T05:46:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
