@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-01T12:00:51.396Z
+- Updated At: 2025-10-01T16:00:50.381Z
 
 ## Products
 
@@ -5991,7 +5991,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $24.00 NZD
 - [TOSHI Baby Bloomers Yasmin - Honeysuckle](https://www.littlebambinos.co.nz/products/toshi-baby-bloomers-yasmin-honeysuckle): Toshi Baby Bloomer Athena is crafted from the finest quality 100% cotton. Our bloomers are designed for comfort and mobility during little adventures and moments of vigorous play. The elasticised waist offers ease of dressing and convenient nappy changes. An original and exclusive Toshi print design is featured.
-  Updated: 2025-10-01T07:50:19Z
+  Updated: 2025-10-01T14:52:36Z
   Vendor: Toshi
   Product Type: Bloomers
   Availability: Available
@@ -16568,7 +16568,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-01T11:43:12Z
+  Updated: 2025-10-01T15:43:13Z
   Total Products: 439
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17420,7 +17420,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-01T11:43:12Z
+  Updated: 2025-10-01T15:43:13Z
   Total Products: 1325
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-01T11:02:11Z
