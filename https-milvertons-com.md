@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-09-30T16:00:33.640Z
+- Updated At: 2025-10-01T04:00:32.650Z
 
 ## Products
 
@@ -4927,7 +4927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-09-30T15:09:34Z
+  Updated: 2025-09-30T19:10:55Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -6403,7 +6403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-round-toe-block-heel-pumps-stylish-comfort-330456.jpg?v=1742577635
     Price: $59.97 USD
 - [Drop Shoulder Hoodie & Drawstring Pants - Comfy Active Set](https://milvertons.com/products/drop-shoulder-hoodie-drawstring-pants-comfy-active-set): Introducing the Drop Shoulder Hoodie & Drawstring Pants - Comfy Active Set. Its versatile design makes it a must-have for any active woman. Order yours today.
-  Updated: 2025-09-30T15:12:15Z
+  Updated: 2025-09-30T19:31:56Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -10533,8 +10533,8 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 102
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-09-29T20:00:21Z
-  Total Products: 48
+  Updated: 2025-10-01T00:30:21Z
+  Total Products: 47
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-09-06T02:19:06Z
   Total Products: 145
@@ -11151,7 +11151,7 @@
 - [Your privacy choices](https://milvertons.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:38:02Z
 - [Matching Shoe & Bag Sets - Curated Luxury](https://milvertons.com/pages/shoe-bag-sets): Matching Shoe & Bag Sets - Curated Luxury. Effortless luxury. Discover our curated collection of matching shoe and bag sets. Elevate any outfit wit...
-  Updated: 2025-09-29T23:29:34Z
+  Updated: 2025-10-01T00:10:52Z
 
 ## Policies
 
