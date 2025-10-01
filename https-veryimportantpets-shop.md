@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-01T12:01:19.639Z
+- Updated At: 2025-10-01T16:01:09.126Z
 
 ## Products
 
@@ -967,7 +967,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-extreme-ring-dog-toy-tough-toys-347856.png?v=1700653035
   Price: £17.99 GBP
 - [KONG Flexball Dog Toy](https://veryimportantpets.shop/products/kong-flexball): KONG Flexball is built from a durable material that makes playtime last. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:20Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Kong
   Product Type: Fetch Dog Toys
   Availability: Available
@@ -1473,7 +1473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/steel-dog-bike-trailer-pet-cart-carrier-for-bicycle-kit-water-resistant-with-hitch-coupler-travel-bicycle-trailer-black-610565.jpg?v=1700648029
     Price: £116.99 GBP
 - [Pet Travel Stroller Cat Dog Pushchair Trolley Puppy Jogger Carrier Three Wheels for Small Miniature Dogs](https://veryimportantpets.shop/products/pet-travel-stroller-cat-dog-pushchair-trolley-puppy-jogger-carrier-three-wheels-for-small-miniature-dogs): Our 3-wheel dog buggy ensures a comfortable ride for your pet on walks and travels. Crafted from durable 600D Oxford cloth, it features a drink holder, ample storage, and reflective safety stripes. With breathable mesh and a washable pad, it's perfect for small pets under 10 kg.
-  Updated: 2025-09-30T15:30:41Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -1566,7 +1566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-stroller-for-dogscats-reversible-handle-folding-design-pet-stroller-beige-315706.jpg?v=1700650585
     Price: £62.99 GBP
 - [Pet Stroller, Foldable Cat Dog Pushchair, Pet Travel Carriage with 4 Wheels, Adjustable Canopy, Safety Leashes, Storage Basket and Cup Holder for Small Dogs](https://veryimportantpets.shop/products/pet-stroller-foldable-cat-dog-pushchair-for-small-dogs): Travel with ease using this compact pet stroller. Features a ventilated mesh panel, adjustable canopy, and secure safety leashes. It has a cup holder, storage basket, and smooth 360Â° wheels with brakes. Folds quickly for storage, ideal for small pets up to 4kg.
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -1584,7 +1584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-pet-stroller-easy-fold-airy-mesh-safety-leash-pet-stroller-red-315841.jpg?v=1700658578
     Price: £62.99 GBP
 - [Compact Dark Blue Pet Crate with Mesh Windows](https://veryimportantpets.shop/products/compact-dark-blue-pet-crate-with-mesh-windows): This fabric dog crate for small dogs and cats creates a roomy space for your furry friends. Shop online at Very Important Pets
-  Updated: 2025-10-01T07:30:30Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1598,14 +1598,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-dark-blue-pet-crate-with-mesh-windows-pet-carrier-70-x-51-x-50-cm-386549.jpg?v=1700658730
     Price: £44.99 GBP
 - [Pet Travel Backpack Bag Cat Puppy Dog Carrier w/ Trolley and Telescopic Handle Portable Stroller Wheel Luggage Bag, Grey](https://veryimportantpets.shop/products/pet-travel-backpack-bag-cat-puppy-dog-carrier-w-trolley-and-telescopic-handle-portable-stroller-wheel-luggage-bag-grey): Discover the convenience of our 2-in-1 pet carrier, doubling as a backpack and trolley. Crafted for comfort and safety with breathable mesh, extendable handle, secure interior strap, and smooth rolling wheels. Ideal for pet owners on the move.
-  Updated: 2025-09-03T07:31:03Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/versatile-2-in-1-puppy-carrier-backpack-with-wheels-pet-carrier-662900.jpg?v=1700646946
   Price: £35.99 GBP
 - [Dog Bike Trailer 2-in-1 Pet Stroller Cart Bicycle Carrier Attachment for Travel in steel frame with Universal Wheel Reflectors Flag](https://veryimportantpets.shop/products/dog-bike-trailer-2-in-1-pet-stroller-cart-bicycle-carrier-attachment-for-travel-in-steel-frame-with-universal-wheel): Embark on outdoor excursions with your pet using our versatile bike trailer/stroller. Designed for safety and comfort, it features a weather-resistant shell, smooth-rolling tires, and a secure inner leash. Mesh windows provide a view and ventilation, enhancing the travel experience for pets up to 18 kg.
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Bicycle Trailer
   Availability: Available
@@ -1619,7 +1619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/convertible-pet-bike-trailerstroller-with-safety-leash-bicycle-trailer-red-593050.jpg?v=1700658511
     Price: £116.99 GBP
 - [Foldable Pet Carrier, with Cushion, for Small Dogs and Cats, Khaki](https://veryimportantpets.shop/products/foldable-pet-carrier-with-cushion-for-small-dogs-and-cats-khaki): Effortlessly carry your pets with our portable travel carrier, perfect for cats and small dogs. Offering three doors, a breathable mesh window, and a comfy cushion inside, it's a cosy retreat for your companion. Foldable with an included bag, it's convenient for storage and versatile for both travel and home use.
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1654,7 +1654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/60cm-portable-pet-carrier-with-soft-cushion-mesh-window-for-miniature-dogs-pet-carrier-purple-358450.jpg?v=1700663534
     Price: £35.99 GBP
 - [69cm Pet Carrier, with Cushion, for Miniature and Small Dogs](https://veryimportantpets.shop/products/69cm-portable-pet-carrier-for-miniature-and-small-dogs): Discover the perfect travel companion for your small dog or cat with this versatile crate. Featuring a soft cushion, three easy-access doors, and breathable mesh windows, your pet travels in comfort. Its removable frame ensures easy storage. Ideal for pets under 44cm and 10kg, it doubles as a cosy home lounge.
-  Updated: 2025-08-11T15:30:48Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1689,7 +1689,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/51cm-foldable-pet-carrier-with-cushion-for-mini-dogs-and-cats-pet-carrier-brown-763401.jpg?v=1700663841
   Price: £35.99 GBP
 - [60cm Foldable Pet Carrier, with Cushion, for Mini Dogs and Cats](https://veryimportantpets.shop/products/60cm-foldable-pet-carrier-with-cushion-for-mini-dogs-and-cats): Travel with ease using our compact pet carrier, tailored for cats and dogs under 40cm in length and 4kg. Features an adjustable shoulder strap, three access doors, and a cosy washable cushion. The mesh window promotes airflow. Its foldable design with a carry bag makes it ideal for storage and home use.
-  Updated: 2025-09-03T07:30:57Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1785,7 +1785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pawhut-foldable-pet-stroller-jogger-with-three-wheels-canopy-for-medium-and-small-dogs-blue-417044.jpg?v=1700605430
     Price: £170.99 GBP
 - [Foldable Pet Stroller with Large Carriage, Brakes, Canopy, Basket, Storage Bag for XS & S Sized Pets](https://veryimportantpets.shop/products/foldable-pet-stroller-with-large-carriage-brakes-canopy-basket-storage-bag-small-sized-dogs): Take your small pet anywhere with our Compact Folding Pet Stroller, designed for convenience and comfort. It features a spacious carriage, breathable canopy, reliable brakes, and foldable for easy storage. Includes a cushion, safety leashes, a storage bag, and a basket for essentials.
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -1799,7 +1799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-folding-pet-stroller-large-carriage-brakes-for-small-sized-dogs-pet-stroller-grey-735420.jpg?v=1700658662
     Price: £71.99 GBP
 - [Detachable 3-in-1 Pet Stroller, Foldable, Carrying Bag, Brake, Canopy, Basket Storage](https://veryimportantpets.shop/products/detachable-3-in-1-pet-stroller-foldable-carrying-bag-brake-canopy-basket-storage): In need of a great pet stroller to take your furry little friend along with you? Then check out this PawHut dog stroller! This uniquely designed cat stroller is perfect for the pet owner on the go: the stroller has a detachable design that can be converted into a carrying bag. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -1835,7 +1835,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-stroller-for-mediumlarge-dogs-easy-storage-red-pet-stroller-red-474736.jpg?v=1700651518
   Price: £134.99 GBP
 - [2 in 1 Dog Bike Trailer for Large Dogs with Hitch, Quick-release 20" Wheels](https://veryimportantpets.shop/products/2-in-1-dog-bike-trailer-for-large-dogs-with-hitch-quick-release-20-wheels): With this PawHut stroller, pets will enjoy the outdoors, no matter their age or physical condition. Shop online at Very Important Pets
-  Updated: 2025-09-28T15:30:56Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: Bicycle Trailer
   Availability: Available
@@ -1924,7 +1924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-dog-paddling-poolf100-x-30h-cm-blue-639929.jpg?v=1700655127
     Price: £35.99 GBP
 - [2800W Dog Pet Grooming Hairdryer Heater w/ Three Nozzles](https://veryimportantpets.shop/products/2800w-dog-pet-grooming-hairdryer-heater-w-three-nozzles): Get your pet perfectly groomed by choosing this PawHut dog blaster dryer. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Grooming Hairdryer
   Availability: Available
@@ -1938,14 +1938,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2800w-dog-pet-grooming-hairdryer-heater-w-three-nozzles-purple-452529.jpg?v=1700664982
     Price: £80.99 GBP
 - [Folding Pet Grooming Table for Small Dogs with Adjustable Grooming Arm Max Load 30 KG, 81x48.5x80 cm](https://veryimportantpets.shop/products/folding-pet-grooming-table-for-small-dogs-with-adjustable-grooming-arm-max-load-30-kg-81x48-5x80-cm): Want your pet to always look their best? With this PawHut dog grooming table, they can. Shop online at Very Important Pets
-  Updated: 2025-08-11T15:30:55Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Grooming Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/folding-pet-grooming-table-for-small-dogs-with-adjustable-grooming-arm-max-load-30-kg-81x485x80-cm-276421.jpg?v=1700654784
   Price: £62.99 GBP
 - [Adjustable Dog Grooming Table Rubber Top 2 Safety Slings Mesh Storage Basket Heavy Metal 107 x 60 x 170cm](https://veryimportantpets.shop/products/adjustable-dog-grooming-table-rubber-top-2-safety-slings-mesh-storage-basket-heavy-metal-107-x-60-x-170cm): Whether it’s for washing, trimming their fur/hair or getting them into tip-top shape, this black PawHut grooming table provides you everything you need for your pet grooming needs. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Grooming Table
   Availability: Available
@@ -1966,42 +1966,42 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/170cm-splash-pad-with-sprinkler-for-pets-blue-220162.jpg?v=1700666374
   Price: £26.99 GBP
 - [Pet Foldable Grooming Table w/ Adjustable Arm Non-Slip Tabletop Leash](https://veryimportantpets.shop/products/pet-foldable-grooming-table-w-adjustable-arm-non-slip-tabletop-leash): This grooming table from PawHut is a great investment for any professional or in-home groomers. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Grooming Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-foldable-grooming-table-w-adjustable-arm-non-slip-tabletop-leash-173533.jpg?v=1700650829
   Price: £89.99 GBP
 - [Foldable Pet Grooming Arm with Clamp, 29" Height Adjustable Dog Grooming Holder for Table with 2 Haunch Holders, Grooming Loop for Medium Dogs](https://veryimportantpets.shop/products/foldable-pet-grooming-arm-with-clamp-29-height-adjustable-dog-grooming-holder-for-table-with-2-haunch-holders-grooming-loop-for-medium-dogs): This grooming arm from PawHut is an excellent investment for any professional or in-home groomer. Shop online at Very Important Pets
-  Updated: 2025-09-27T08:18:45Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Grooming Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-grooming-arm-with-clamp-29-height-adjustable-dog-grooming-holder-for-table-with-2-haunch-holders-grooming-loop-for-medium-dogs-686140.jpg?v=1700654950
   Price: £35.99 GBP
 - [Wooden Dog Kennel Elevated Dog Pet House w/ Open Top 82W x 58D x 58H cm](https://veryimportantpets.shop/products/elevated-wooden-dog-kennel-with-open-top-82x58x58cm): Offering comfort and shelter, this wooden kennel features weather-resistant construction, elevated floors for temperature control, and an open top for hassle-free cleaning. Perfect for small canines, it promises durability and simple assembly.
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Kennel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-wooden-dog-kennel-with-open-top-82x58x58cm-dog-kennel-934610.jpg?v=1700656040
   Price: £71.99 GBP
 - [38" Heavy Duty Metal Dog Kennel Pet Cage with Crate Tray and Wheels | Medium](https://veryimportantpets.shop/products/38-metal-dog-kennel-with-wheels-tray-medium): The PawHut dog crate offers exceptional convenience for both puppies and adult dogs. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/38-heavy-duty-metal-dog-kennel-pet-cage-with-crate-tray-and-wheels-medium-dog-crate-medium-868621.jpg?v=1700664440
   Price: £89.99 GBP
 - [43" Heavy Duty Metal Dog Kennel Pet Cage with Crate Tray and Wheels | Large](https://veryimportantpets.shop/products/heavy-duty-43-metal-dog-kennel-with-wheels-tray-large): This dog crate offers exceptional convenience for both puppies and adult dogs. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/43-heavy-duty-metal-dog-kennel-pet-cage-with-crate-tray-and-wheels-large-dog-crate-large-338633.jpg?v=1700664192
   Price: £116.99 GBP
 - [Wicker Dog House, Rattan Pet Bed, with Removable Cushion, Canopy, for Small and Medium Dogs](https://veryimportantpets.shop/products/wicker-dog-house-rattan-pet-bed-with-removable-cushion-canopy-for-small-and-medium-dogs): We all want the best for our pet – that's why this PawHut wicker dog basket is a must-have. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2022,14 +2022,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/collapsible-metal-dog-cage-with-handle-77x47x55cm-pet-carrier-979180.jpg?v=1700658898
   Price: £44.99 GBP
 - [Stylish Furniture-Style Dog Crate with 3 Doors for Small Dogs](https://veryimportantpets.shop/products/stylish-furniture-style-dog-crate-with-3-doors-small-dogs): Thanks to this dog crate furniture from PawHut, your pet will be safely enclosed in something that perfectly matches its surroundings. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-furniture-style-dog-crate-with-3-doors-for-small-dogs-dog-crate-white-544253.jpg?v=1700647803
   Price: £107.99 GBP
 - [Metal Dog Cage Kennel with Locking Door & Wheels, Removable Tray For Large or Extra Large Pets](https://veryimportantpets.shop/products/sturdy-metal-dog-kennel-cage-with-wheels-door): Keep dogs and puppies in a safe and secure place when needed. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:20Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2050,35 +2050,35 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-dog-house-kennel-with-canopy-top-secure-lock-rotating-bowl-holder-dog-kennel-563815.jpg?v=1700651377
   Price: £134.99 GBP
 - [Stylish Dog Crate Furniture with End Table for Small Dogs](https://veryimportantpets.shop/products/stylish-dog-crate-furniture-with-end-table-for-small-dogs): This PawHut dog cage, fused with a side table, gives your dog a comfortable place to relax while you have a spacious tabletop for showcasing your favourite pieces, bringing style into the home. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:06Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-furniture-with-end-table-for-small-dogs-dog-crate-645-x-48-x-705-cm-918394.jpg?v=1700647892
   Price: £89.99 GBP
 - [Stylish Dog Crate Table for Small/Medium Dogs with Magnetic Door](https://veryimportantpets.shop/products/stylish-dog-crate-table-for-small-medium-dogs-with-magnetic-door): This stylish dog cage, fused with a side table, is designed to keep pets safe. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-table-for-smallmedium-dogs-with-magnetic-door-dog-crate-865974.jpg?v=1700647833
   Price: £134.99 GBP
 - [XL Dog Crate Table with Magnetic Door, Indoor - Grey](https://veryimportantpets.shop/products/xl-dog-crate-table-with-magnetic-door-indoor-grey): Keep your pet secure – and bring your room to life. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/xl-dog-crate-table-with-magnetic-door-indoor-grey-817247.jpg?v=1700645424
   Price: £188.99 GBP
 - [Stylish Dog Crate Table for Medium/Large Dogs with Magnetic Door](https://veryimportantpets.shop/products/stylish-dog-crate-table-for-medium-large-dogs-with-magnetic-door): Keep your pet secure – and bring your room to life. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:05Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-table-for-mediumlarge-dogs-with-magnetic-door-dog-crate-977750.jpg?v=1700647863
   Price: £143.99 GBP
 - [Dual-Function Grey Dog Crate & End Table for Small/Medium Dogs](https://veryimportantpets.shop/products/dual-function-grey-dog-crate-end-table-for-small-medium-dogsdual-function-grey-dog-crate-end-table-for-small-medium-dogs): Protect your pets with this stylish dog cage from PawHut, which can also be used as a side table where you can display your favourite pieces or store supplies. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2092,7 +2092,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-door-white-dog-crate-furniture-for-medium-dogs-dog-crate-343297.jpg?v=1700656623
   Price: £143.99 GBP
 - [Dual-Function Dog Crate Table for Large or Small Dogs](https://veryimportantpets.shop/products/dual-function-dog-crate-table-for-large-or-small-dogs): Keep pets safe and secure while bringing style into the home – this PawHut dog cage table does it all. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2110,14 +2110,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-function-dog-crate-table-for-large-or-small-dogs-dog-crate-white-427909.jpg?v=1700656567
     Price: £314.99 GBP
 - [Dog Crate End Table with Wheels - White, for Medium Dogs](https://veryimportantpets.shop/products/dog-crate-end-table-with-wheels-white-for-medium-dogs): This stylish PawHut dog crate table also acts as a side table! Pets have a spot for relaxing, while you have a large top for displaying your favourite pieces. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-crate-end-table-with-wheels-white-for-medium-dogs-dog-crate-282041.jpg?v=1700657456
   Price: £224.99 GBP
 - [Dog Crate End Table on Wheels, Lockable, for Medium Dogs](https://veryimportantpets.shop/products/dog-crate-end-table-on-wheels-lockable-for-medium-dogs): This stylish PawHut dog crate table acts as a side table, too! Pets have a spot for relaxing, whilst you have a large top for displaying your favourite pieces. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:31:00Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2131,14 +2131,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-crate-end-table-for-small-large-dogs-120x60x885cm-dog-crate-986043.jpg?v=1700657485
   Price: £359.99 GBP
 - [Dog Cage Side Table, with Cushion, for Small and Medium Dogs](https://veryimportantpets.shop/products/dog-cage-side-table-with-cushion-for-small-and-medium-dogs): This PawHut dog cage, fused with a side table, is perfect for containing pets. Shop online at Very Important Pets
-  Updated: 2025-08-11T15:30:47Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-cage-side-table-with-cushion-for-small-and-medium-dogs-dog-crate-628148.jpg?v=1700657541
   Price: £116.99 GBP
 - [2-in-1 Dog Cage & Side Table, with Two Doors, Cushion, for Large Dogs](https://veryimportantpets.shop/products/2-in-1-dog-cage-side-table-with-two-doors-cushion-for-large-dogs): A PawHut dog cage where everyone benefits – pets have a safe and comfortable space to relax whilst you have a stylish tabletop to display your favourite pieces. Shop online at Very Important Pets
-  Updated: 2025-09-28T23:30:56Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2163,14 +2163,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-door-dog-crate-end-table-with-drawer-medium-size-grey-dog-crate-739823.jpg?v=1700656640
   Price: £143.99 GBP
 - [Stylish Dog Crate & End Table Combo for Medium Dogs - Grey](https://veryimportantpets.shop/products/stylish-dog-crate-end-table-combo-for-medium-dogs-grey): A safe space for pets whilst bringing style – this versatile PawHut dog cage has it. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-end-table-combo-for-medium-dogs-grey-dog-crate-796969.jpg?v=1700647941
   Price: £143.99 GBP
 - [Dual-Use Dog Crate & End Table with Cushion - Medium/Large Dogs | Two Colours](https://veryimportantpets.shop/products/dog-crate-furniture-dog-cage-end-table-with-soft-cushion-double-door): This PawHut dog cage, fused with a side table, is perfect for when you need pets to stay put. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2184,14 +2184,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-use-dog-crate-end-table-with-cushion-mediumlarge-dogs-two-colours-dog-crate-grey-834587.jpg?v=1700656456
     Price: £116.99 GBP
 - [Dual-Use Large Dog Crate with Cushion - Grey, 106x74x81.5cm](https://veryimportantpets.shop/products/dual-use-large-dog-crate-with-cushion-grey-106x74x81-5cm): This PawHut dog cage, fused with a side table, is perfect for when you need pets to stay put. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-use-large-dog-crate-with-cushion-grey-106x74x815cm-dog-crate-902299.jpg?v=1700656424
   Price: £188.99 GBP
 - [Stylish Dog Crate End Table with Cushion for Small/Medium Dogs](https://veryimportantpets.shop/products/stylish-dog-crate-end-table-with-cushion-for-small-medium-dogs): This PawHut dog crate cage, fused with a side table, is perfect for when you need pets to stay put. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2205,14 +2205,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm-dog-kennel-352261.jpg?v=1700648234
   Price: £152.99 GBP
 - [43" Heavy Duty Foldable Dog Crate with Wheels & Removable Tray](https://veryimportantpets.shop/products/43-heavy-duty-dog-crate-foldable-dog-cage-with-openable-top-locks-removable-tray-wheels): Keep pets in place with this spacious PawHut dog cage. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:41Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/43-heavy-duty-foldable-dog-crate-with-wheels-removable-tray-dog-crate-946747.jpg?v=1700664209
   Price: £242.99 GBP
 - [Wooden Pet Seesaw for Big Dogs, Dog Agility Equipment with Anti-Slip Surface - Grey](https://veryimportantpets.shop/products/wooden-pet-seesaw-for-big-dogs-dog-agility-equipment-with-anti-slip-surface-grey): Introducing the exciting world of agility training – our PawHut agility seesaw. Shop online at Very Important Pets
-  Updated: 2025-09-09T10:32:50Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2244,7 +2244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cooling-elevated-pet-cot-small-dog-bed-with-uv-canopy-dog-bed-blue-223358.jpg?v=1700658478
     Price: £26.99 GBP
 - [Raised Dog Bed, Waterproof Elevated Pet Cot with Breathable Mesh, UV Protection Canopy for Medium Dogs](https://veryimportantpets.shop/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-medium-dogs): Treat your pet to the ultimate in relaxation with an elevated pet bed from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2262,7 +2262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-medium-dogs-grey-213253.jpg?v=1700649616
     Price: £35.99 GBP
 - [Raised Dog Bed, Waterproof Elevated Pet Cot with Breathable Mesh, UV Protection Canopy for Large Dogs](https://veryimportantpets.shop/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-large-dogs): Treat your pet to the ultimate in relaxation with an elevated pet bed from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:20Z
+  Updated: 2025-10-01T15:30:44Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2280,13 +2280,13 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-large-dogs-grey-412523.jpg?v=1700649664
     Price: £35.99 GBP
 - [Raised Dog Bed, Waterproof Elevated Pet Cot with Breathable Mesh, UV Protection Canopy for XLarge Dogs](https://veryimportantpets.shop/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-xlarge-dogs): Treat your pet to the ultimate in relaxation with an elevated pet bed from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:51Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-xlarge-dogs-grey-423644.jpg?v=1700649558
   - [Grey](https://veryimportantpets.shop/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-xlarge-dogs?variant=47066373980450)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-xlarge-dogs-grey-423644.jpg?v=1700649558
     Price: £35.99 GBP
   - [Coffee](https://veryimportantpets.shop/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-xlarge-dogs?variant=47066374013218)
@@ -2297,6 +2297,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bed-waterproof-elevated-pet-cot-with-breathable-mesh-uv-protection-canopy-for-xlarge-dogs-grey-404164.jpg?v=1700649558
     Price: £44.99 GBP
+- [Elevated Pet Bed Cooling for Large Medium Sized Dogs with Non-slip Pads Breathable Mesh Fabric, 110 x 75 x 20 cm](https://veryimportantpets.shop/products/elevated-pet-bed-cooling-for-large-medium-sized-dogs-with-non-slip-pads-breathable-mesh-fabric-110-x-75-x-20-cm): Pets will have a comfortable spot to relax, thanks to this PawHut cooling bed for dogs. Shop online at Very Important Pets
+  Updated: 2025-10-01T15:30:47Z
+  Vendor: PawHut
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-pet-bed-cooling-for-large-medium-sized-dogs-with-non-slip-pads-breathable-mesh-fabric-110-x-75-x-20-cm-708483.jpg?v=1700656322
+  Price: £26.99 GBP
 - [Elevated Pet Bed Portable Camping Raised Dog Bed w/ Metal Frame and (Small)](https://veryimportantpets.shop/products/elevated-pet-bed-portable-camping-raised-dog-bed-w-metal-frame-and-small): Give your pet their own resting and relaxing spot with this lifted pet bed from PawHut. Shop online at Very Important Pets
   Updated: 2025-07-14T18:41:57Z
   Vendor: PawHut
@@ -2319,7 +2326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-pet-bed-portable-camping-raised-dog-bed-w-metal-frame-and-x-large-951658.jpg?v=1700656222
   Price: £35.99 GBP
 - [Velvet-Feel Small Dog Pet Bed](https://veryimportantpets.shop/products/velvet-feel-small-dog-pet-bed): This PawHut pet sofa is perfect for your pet to relax and rest, made with a wooden frame and is covered with a plush faux fur. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2332,13 +2339,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/velvet-feel-small-dog-pet-bed-black-259384.jpg?v=1700646978
     Price: £62.99 GBP
-- [Dog Sofa Pet Couch for XS Dogs w/ Removable Sponge Padded Cushion - Grey](https://veryimportantpets.shop/products/dog-sofa-pet-couch-for-xs-dogs-w-removable-sponge-padded-cushion-grey): This PawHut  raised dog bed is perfect for your pet to relax and rest, made with a wooden frame and is covered with a plush faux fur. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
-  Vendor: PawHut
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-pet-couch-for-xs-dogs-w-removable-sponge-padded-cushion-grey-650174.jpg?v=1700657007
-  Price: £53.99 GBP
 - [Dog Sofa Bed for Small-Sized Dogs, Elevated Pet Chair with PU Cover, Soft Cushion, Cat Couch Lounger with Anti-slip Legs](https://veryimportantpets.shop/products/dog-sofa-bed-for-small-sized-dogs-elevated-pet-chair-with-pu-cover-soft-cushion-cat-couch-lounger-with-anti-slip-legs): Give your pet the best in luxurious lounging with this sophisticated dog sofa bed from PawHut. Shop online at Very Important Pets
   Updated: 2025-09-26T15:31:12Z
   Vendor: PawHut
@@ -2347,7 +2347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-bed-for-small-sized-dogs-elevated-pet-chair-with-pu-cover-soft-cushion-cat-couch-lounger-with-anti-slip-legs-240493.jpg?v=1700657294
   Price: £53.99 GBP
 - [Dog Sofa for XS and S-Size Dogs with Thick Sponge Padded Cushion, Kitten Lounge Bed with Washable Cover, Wooden Frame](https://veryimportantpets.shop/products/dog-sofa-for-xs-and-s-size-dogs-with-thick-sponge-padded-cushion-kitten-lounge-bed-with-washable-cover-wooden-frame): This dark blue PawHut dog couch is perfect for your pet to relax and rest. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:30:55Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2382,7 +2382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-pet-couch-bed-for-medium-large-dogs-with-legs-cushion-grey-699425.jpg?v=1700656940
     Price: £98.99 GBP
 - [Dog Sofa, pet Bed, with Soft Cushion, Washable Cover, for Small, Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-pet-bed-with-soft-cushion-washable-cover-for-small-medium-large-dogs): Pet's comfort is a top priority, and that's why this PawHut pet sofa is the perfect choice. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:41Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2396,7 +2396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-sofa-bed-puppy-kitten-lounger-with-wooden-frame-short-plush-cover-washable-cushion-for-small-dog-70-x-47-x-30-cm-718253.jpg?v=1700650671
   Price: £80.99 GBP
 - [Dog Sofa, with Wooden Legs, Water-Resistant Fabric, for Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-with-wooden-legs-water-resistant-fabric-for-medium-large-dogs): Don't want pets on your furniture? The ideal solution is to give them their own. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:34Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2410,14 +2410,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-with-wooden-legs-water-resistant-fabric-for-medium-large-dogs-green-736192.jpg?v=1700656879
     Price: £134.99 GBP
 - [Elevated Dog Sofa Bed, with Cushion, for Medium and Small Dogs, Grey](https://veryimportantpets.shop/products/elevated-dog-sofa-bed-with-cushion-for-medium-and-small-dogs-grey): Don't want pets on your furniture? This PawHut pet sofa is your solution. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-dog-sofa-bed-with-cushion-for-medium-and-small-dogs-grey-272118.jpg?v=1700656338
   Price: £89.99 GBP
 - [Dog Sofa Bed w/ Soft Cushion for Medium Dogs - Grey](https://veryimportantpets.shop/products/dog-sofa-bed-w-soft-cushion-for-medium-dogs-grey): Don't want pets on your furniture? This PawHut pet sofa is your solution. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2431,14 +2431,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/retractable-safety-gate-dog-pet-barrier-folding-protector-home-doorway-room-divider-stair-guard-white-115lx825hcm-533139.jpg?v=1700649290
   Price: £35.99 GBP
 - [Freestanding Small Wooden Pet Safety Gate Room Separator - Dark Brown | Very Important Pets](https://veryimportantpets.shop/products/pet-gate-160lx1-2dx76h-cm-free-standing-folding-pet-safety-fence-dark-brown): Create a secure boundary for your pets with our freestanding fence, ideal for small dogs. Measuring 160L-1.2D-76H cm, this wooden gate features a high gloss dark brown finish, complementing any room decor. Its three-fold design is perfect for doorways or as a room divider, offering flexibility and portability. Set boundaries stylishly with this elegant and functional pet safety solution.
-  Updated: 2025-10-01T07:30:31Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/freestanding-small-wooden-pet-safety-gate-room-separator-dark-brown-pet-gate-643541.jpg?v=1700654463
   Price: £35.99 GBP
 - [PawHutPet Gates MDF Freestanding Expandable Dog Gate Wood Doorway Pet Barrier Fence w/ Latched Door Brown](https://veryimportantpets.shop/products/pawhutpet-gates-mdf-freestanding-expandable-dog-gate-wood-doorway-pet-barrier-fence-w-latched-door-brown): For when you need to keep your pets in one area at home, choose this freestanding pet gate from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2536,7 +2536,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/colourful-6-panel-pet-playpen-with-door-for-indoors-and-outdoors-dog-playpen-181702.jpg?v=1700658810
   Price: £26.99 GBP
 - [Foldable 4-Panel Heavy Duty Dog Playpen 82x82x60cm](https://veryimportantpets.shop/products/foldable-4-panel-heavy-duty-dog-playpen-82x82x60cm): Made of metal tubes and wires, this pet playpen will provide a secure area for a variety of pets. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Dog Playpen
   Availability: Available
@@ -2557,14 +2557,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/4-step-wooden-pet-stairs-for-beds-comfy-dog-ladder-non-slip-cushion-pet-steps-grey-456005.jpg?v=1700664314
     Price: £53.99 GBP
 - [Adjustable Wooden Pet Gate Freestanding Dog Barrier Fence Doorway 3 Panels Safety Gate w/ Lockable Door](https://veryimportantpets.shop/products/adjustable-wooden-pet-gate-freestanding-dog-barrier-fence-doorway-3-panels-safety-gate-w-lockable-door): This PawHut wooden gate is a safe and efficient way to keep your pets in an area whilst adding a decorative touch to your home. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/adjustable-wooden-pet-gate-freestanding-dog-barrier-fence-doorway-3-panels-safety-gate-w-lockable-door-296121.jpg?v=1700662287
   Price: £62.99 GBP
 - [Freestanding Pet Gate 4 Panel Wooden Dog Barrier Folding Safety Fence with Support Feet up to 204cm Long 61cm Tall for Doorway Stairs](https://veryimportantpets.shop/products/freestanding-pet-gate-4-panel-wooden-dog-barrier-folding-safety-fence-with-support-feet-up-to-204cm-long-61cm-tall-for-doorway-stairs): This PawHut dog gate for doorway will safely and effectively limit the range of your pet's activities. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:42Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2582,14 +2582,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/freestanding-pet-gate-4-panel-wooden-dog-barrier-folding-safety-fence-with-support-feet-up-to-204cm-long-61cm-tall-for-doorway-stairs-white-243129.jpg?v=1700654507
     Price: £71.99 GBP
 - [Pet Gate 4 Panel Wooden Foldable Fence Freestanding Dog Safety Barrier with 2 Support Feet for Doorways Stairs 80'' x 30''](https://veryimportantpets.shop/products/pet-gate-4-panel-wooden-foldable-fence-freestanding-dog-safety-barrier-with-2-support-feet-for-doorways-stairs-80-x-30): This PawHut pet gate will safely and effectively limit the range of your pet's activities. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-gate-4-panel-wooden-foldable-fence-freestanding-dog-safety-barrier-with-2-support-feet-for-doorways-stairs-80-x-30-813922.jpg?v=1700650813
   Price: £71.99 GBP
 - [Pet Ramp for Dogs Non-slip Carpet Top Platform Pine Wood 188 x 40.5 x 63.5](https://veryimportantpets.shop/products/pet-ramp-for-dogs-non-slip-carpet-top-platform-pine-wood-188-x-40-5-x-63-5): It's now easier for pets to reach their favourite spots, thanks to this ramp from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2603,7 +2603,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-freestanding-pet-gate-4-panels-91cm-foldable-dog-safety-fence-with-2-support-feet-walk-through-door-for-doorway-stairs-596277.jpg?v=1700645993
   Price: £98.99 GBP
 - [74-84cm Adjustable Metal Pet Gate Safety Barrier w/ Auto-Close Door Double Locking Easy-Open Doors Stairs Home Frames](https://veryimportantpets.shop/products/74-84cm-adjustable-metal-pet-gate-safety-barrier-w-auto-close-door-double-locking-easy-open-doors-stairs-home-frames): Keep pets away from specific places easily with this safety gate from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2624,7 +2624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-safety-gate-dog-barrier-for-doorways-corridors-staircases-with-three-extensions-and-adjustable-screws-black-118551.jpg?v=1700650699
     Price: £62.99 GBP
 - [Pet Metal Safety Gate Pressure Fitted Stair Barrier for Dog Expandable with Auto-Close Door Double Locking System 74cm to 84 cm](https://veryimportantpets.shop/products/pet-metal-safety-gate-pressure-fitted-stair-barrier-for-dog-expandable-with-auto-close-door-double-locking-system-74cm-to-84-cm): Keep pets away from specific places easily with this puppy gate from PawHut. Shop online at Very Important Pets
-  Updated: 2025-07-14T18:41:52Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2645,7 +2645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/five-panel-pet-playpen-or-safety-gate-with-walk-through-door-pet-gate-black-576943.jpg?v=1700655518
     Price: £80.99 GBP
 - [Three-Panel Pet Safety Gate Barrier with Walk Through Door](https://veryimportantpets.shop/products/three-panel-pet-safety-gate-barrier-with-walk-through-door): This pet gate from PawHut is designed to provide a safe and comfortable space for your lovely furry friends. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2659,7 +2659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/three-panel-pet-safety-gate-barrier-with-walk-through-door-pet-gate-black-790286.jpg?v=1700647506
     Price: £62.99 GBP
 - [Pet Playpen for Small Animals, Portable Plastic Fence 12 Panels for Rabbits, Chinchilla, Guinea Pig](https://veryimportantpets.shop/products/pet-playpen-for-small-animals-portable-plastic-fence-12-panels-for-rabbits-chinchilla-guinea-pig): This guinea pig cage from PawHut will give your pet a spacious and safe space to stay in when needed. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -2680,7 +2680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/heavy-duty-8-panel-dog-playpen-two-heights-dog-playpen-100h-cm-169880.webp?v=1705588635
     Price: £89.99 GBP
 - [4.3m Freestanding Wooden Pet Gate | Safety Barrier with Support Feet | Very Important Pets](https://veryimportantpets.shop/products/wooden-pet-gate-freestanding-dog-safety-barrier-with-2-support-feet-natual): Discover the versatile large wooden pet gate, perfect for keeping dogs safe indoors. This freestanding barrier with sturdy support feet adapts to various spaces and includes a safety lock. Ideal for doorways and stairs, it folds for easy storage, effortlessly matching any decor.
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2694,7 +2694,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/folding-pet-ramp-dog-ramps-for-cars-portable-non-slip-155-x-39-x-14-cm-416401.jpg?v=1700654769
   Price: £44.99 GBP
 - [Cat Stairs, 3 Steps for Sofa, Pet Steps with Sisal Scratching Board and Hanging Ball, Steel Frame, 47 x 45 x 47 cm,](https://veryimportantpets.shop/products/cat-stairs-3-steps-for-sofa-pet-steps-with-sisal-scratching-board-and-hanging-ball-steel-frame-47-x-45-x-47-cm): If your cat struggles to get to higher spots, they will need these pet steps in their life. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2708,21 +2708,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-steps-3-step-pet-stairs-with-kitten-house-and-2-storage-boxes-3-in-1-dog-ramp-for-sofa-with-washable-plush-cushion-910253.jpg?v=1700656845
   Price: £44.99 GBP
 - [Cat Stairs with Storage Boxes, 3 Steps Dog Stairs for Bed, Pet Ladder for Couch Sofa](https://veryimportantpets.shop/products/cat-stairs-with-storage-boxes-3-steps-dog-stairs-for-bed-pet-ladder-for-couch-sofa): Do you know that allowing pets to climb up and down may cause joint and knee pain? Especially for senior pets or pets with mobility issues. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-stairs-with-storage-boxes-3-steps-dog-stairs-for-bed-pet-ladder-for-couch-sofa-926771.jpg?v=1700660849
   Price: £35.99 GBP
 - [1m x 25m Chicken Wire Mesh, Foldable PVC Coated Welded Garden Fence, Roll Poultry Netting, for Rabbits, Ducks, Gooses, Dark](https://veryimportantpets.shop/products/1m-x-25m-chicken-wire-mesh-foldable-pvc-coated-welded-garden-fence-roll-poultry-netting-for-rabbits-ducks-gooses-dark): Have outdoor space? Then you'll benefit from this PawHut wire mesh fencing. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Wire Mesh Fencing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/1m-x-25m-chicken-wire-mesh-foldable-pvc-coated-welded-garden-fence-roll-poultry-netting-for-rabbits-ducks-gooses-dark-wire-mesh-fencing-886966.jpg?v=1700666160
   Price: £53.99 GBP
 - [16 Panel Heavy Duty Puppy Playpen, for Small and Medium Dogs, Indoor and Outdoor Use -](https://veryimportantpets.shop/products/16-panel-heavy-duty-puppy-playpen-for-small-and-medium-dogs-indoor-and-outdoor-use): With this PawHut pet pen, pets have a safe space to be themselves, whilst giving you peace of mind. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Dog Playpen
   Availability: Available
@@ -2736,7 +2736,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/folding-dog-ramp-for-car-for-extra-large-dogs-portable-pet-ramp-with-non-slip-surface-aluminium-alloy-frame-pet-ramp-127289.jpg?v=1700654840
   Price: £62.99 GBP
 - [Versatile 6-Panel Puppy Playpen Gate with Auto-Lock Door - White](https://veryimportantpets.shop/products/versatile-6-panel-puppy-playpen-gate-with-auto-lock-door-white): Sometimes, pets can get in the way - this PawHut pet playpen is needed. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2799,63 +2799,49 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/portable-pet-agility-training-obstacle-set-for-dogs-w-adjustable-high-jumping-pole-jumping-ring-turnstile-poles-tunnel-417541.jpg?v=1700650233
   Price: £62.99 GBP
 - [3-Course Portable Pet Agility Training Set for Dogs w/ Adjustable High Jumping Pole, Jumping Ring, Turnstile poles](https://veryimportantpets.shop/products/3-course-portable-pet-agility-training-set-for-dogs-w-adjustable-high-jumping-pole-jumping-ring-turnstile-poles): For dogs, physical activity and mental stimulation are both important to have a happy, healthy life. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:30:58Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-course-portable-pet-agility-training-set-for-dogs-w-adjustable-high-jumping-pole-jumping-ring-turnstile-poles-391809.jpg?v=1700664799
   Price: £53.99 GBP
 - [Dog Agility Training Set with Adjustable Height Jump Ring, High Jumper, Weave Poles, Square Pause Box, Carry Bag, Whistle](https://veryimportantpets.shop/products/dog-agility-training-set-with-adjustable-height-jump-ring-high-jumper-weave-poles-square-pause-box-carry-bag-whistle): This pet training set from PawHut is a great way to start, or continue, training your dog outdoors. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: Dog Agility
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-agility-training-set-with-adjustable-height-jump-ring-high-jumper-weave-poles-square-pause-box-carry-bag-whistle-258756.jpg?v=1700657739
   Price: £62.99 GBP
 - [Dog Agility Training Equipment w/ Weaves, Whistle and Carrying Bag](https://veryimportantpets.shop/products/dog-agility-training-equipment-w-weaves-whistle-and-carrying-bag): This pole weaving set from PawHut is a great way to start, or continue, training your dog outdoors. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Dog Agility
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-agility-training-equipment-w-weaves-whistle-and-carrying-bag-843955.jpg?v=1700657770
   Price: £35.99 GBP
 - [Six-Piece Dog Agility Set with 3m Long Tunnel, Whistle, Pause Box, Jumps, Weave Poles](https://veryimportantpets.shop/products/six-piece-dog-agility-set-with-3m-long-tunnel-whistle-pause-box-jumps-weave-poles): Unlock your dog's maximum potential with this PawHut agility set. Shop online at Very Important Pets
-  Updated: 2025-09-29T09:11:57Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Dog Agility
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/six-piece-dog-agility-set-with-3m-long-tunnel-whistle-pause-box-jumps-weave-poles-161290.jpg?v=1700648741
   Price: £80.99 GBP
 - [Complete Dog Agility Training Set with Portable Bag | Very Important Pets](https://veryimportantpets.shop/products/dog-agility-training-equipment-for-dogs-with-carry-bag): Enhance your dog's agility with a comprehensive training set. Includes adjustable jump hurdle, ring, weave poles, frisbee, and treat pouch. Promotes fitness, speed, and obedience. It comes with a whistle for focus and is easy to store and transport with the included carry bag. Perfect for outdoor fun
-  Updated: 2025-09-26T15:31:13Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Dog Agility
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/complete-dog-agility-training-set-with-portable-bag-dog-agility-177593.jpg?v=1700658529
   Price: £44.99 GBP
-- [Elevated Stainless Steel Pet Feeder 25H cm](https://veryimportantpets.shop/products/elevated-stainless-steel-pet-feeder-25h-cm): Make meal times easier for your pets with this cat bowl with stand from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:36Z
-  Vendor: PawHut
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-stainless-steel-pet-feeder-25h-cm-brown-682595.jpg?v=1700656205
-  - [Brown](https://veryimportantpets.shop/products/elevated-stainless-steel-pet-feeder-25h-cm?variant=47066427097378)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-stainless-steel-pet-feeder-25h-cm-brown-682595.jpg?v=1700656205
-    Price: £26.99 GBP
-  - [White](https://veryimportantpets.shop/products/elevated-stainless-steel-pet-feeder-25h-cm?variant=47066427130146)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-stainless-steel-pet-feeder-25h-cm-white-771214.jpg?v=1700656205
-    Price: £26.99 GBP
 - [Stainless Steel Pet Feeder 15H cm](https://veryimportantpets.shop/products/stainless-steel-pet-feeder-15h-cm): Make meal times easier for your pets with this feeding bowl duo from PawHut. Shop online at Very Important Pets
-  Updated: 2025-08-11T15:30:56Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stainless-steel-pet-feeder-15h-cm-brown-977323.jpg?v=1700648095
   Price: £26.99 GBP
 - [Raised Dog Bowls, with Storage, Two Stainless Steel Bowls, Elevated Base for Large Dogs](https://veryimportantpets.shop/products/raised-dog-bowls-with-storage-two-stainless-steel-bowls-elevated-base-for-large-dogs): When large dogs bend down to eat and drink, it can strain their neck and back, which can cause health problems in the future. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:44Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2869,7 +2855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bowls-with-storage-two-stainless-steel-bowls-elevated-base-for-large-dogs-grey-168293.jpg?v=1700649469
     Price: £44.99 GBP
 - [Raised Dog Bowls for Large Dogs Pet Feeding Station with Stand, Storage, 2 Stainless Steel Food and Water Bowls](https://veryimportantpets.shop/products/raised-dog-bowls-for-large-dogs-pet-feeding-station-with-stand-storage-2-stainless-steel-food-and-water-bowls): The PawHut dog bowls with stand for large dogs make pet area much more clean, organized, and nice. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:44Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2897,14 +2883,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stainless-steel-raised-dog-bowls-with-21l-storage-drawer-for-large-dogs-dog-feeding-grey-949643.jpg?v=1700648066
     Price: £53.99 GBP
 - [Raised Large Dog Feeding Station with Storage - Sleek & Functional | Very Important Pets](https://veryimportantpets.shop/products/raised-dog-bowls-pet-feeding-station-with-storage-food-and-water-bowls-for-large-dogs-grey): Enhance your large dog's mealtime with our raised feeding station. It features two removable stainless steel bowls with a 2000ml capacity each. The elevated design aids digestion and improves posture. Includes a handy storage cabinet for supplies. Its sleek grey finish complements any home decor.
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:44Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-large-dog-feeding-station-with-storage-sleek-functional-dog-feeding-217842.jpg?v=1700649440
   Price: £53.99 GBP
 - [Pet Carrier Travel Backpack For Cats or Dogs with Trolley and Telescopic Handle](https://veryimportantpets.shop/products/pet-carrier-travel-backpack-for-cats-or-dogs-with-trolley-and-telescopic-handle): This puppy carrier is a great accessory to have. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2974,7 +2960,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-bird-cage-with-stand-wheels-for-small-birds-bird-cage-white-654200.jpg?v=1700648388
     Price: £71.99 GBP
 - [1.53m Mobile Bird Cage with Feeding Stand & Perches | Very Important Pets](https://veryimportantpets.shop/products/1-53m-mobile-bird-cage-with-feeding-stand-perches): Elevate your feathered friends' habitat with our 1.53m tall bird cage on wheels. Designed for parrots and similar-sized birds, it features two perches, food and water containers, and a lower storage rack. The sturdy metal frame and easy-to-clean pull-out tray make maintenance effortless. Ideal for small spaces.
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
@@ -2988,7 +2974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/freestanding-wooden-garden-bird-feeder-stand-wild-bird-feeders-398314.jpg?v=1700654424
   Price: £35.99 GBP
 - [Portable Parrot Travel Cage with Handle & Accessories | Very Important Pets](https://veryimportantpets.shop/products/portable-parrot-travel-cage-with-handle-accessories): Ensure a comfortable journey for your feathered friends with our travel-friendly parrot cage. It features a strong steel wire build, two perches, stainless steel bowls, and a large handle for easy carrying. A secure lock door and easy-clean tray offer convenience and peace of mind.
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
@@ -3002,14 +2988,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/mobile-double-parrot-cage-with-perches-and-storage-bird-cage-711700.jpg?v=1700651937
   Price: £98.99 GBP
 - [Detachable Metal Canary Cage with Stand & Perches | Mobile Design | Very Important Pets](https://veryimportantpets.shop/products/detachable-metal-canary-cage-with-stand-perches-mobile-design): Discover the ideal bird cage for canaries, parakeets, and other small birds. Boasting a sturdy metal frame, easy-access doors, and cosy wood perches. Includes a rolling stand for mobility and a pull-out tray for effortless cleaning. Perfect for creating a comfortable, secure space for your feathered friends.
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/detachable-metal-canary-cage-with-stand-perches-mobile-design-bird-cage-723769.jpg?v=1700657890
   Price: £89.99 GBP
 - [Wooden Garden Bird Feeder Stand - Weatherproof, 49x45x139cm | Very Important Pets](https://veryimportantpets.shop/products/wooden-garden-bird-feeder-stand-weatherproof-49x45x139cm): Invite feathered friends to your garden with this elegant wooden bird feeder stand. Sized at 49x45x139cm, it boasts a quaint house design, dual feeding platforms, and a secure nesting hole. The durable fir wood and weatherproof asphalt roof ensure longevity. Assembly is simple with the included kit.
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Wild Bird Feeders
   Availability: Available
@@ -3023,7 +3009,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-wooden-wild-bird-feeder-stand-with-protective-roof-130cm-wild-bird-feeders-591069.jpg?v=1700651131
   Price: £44.99 GBP
 - [Freestanding Wooden Bird Feeder - Cross Support & Weatherproof | Very Important Pets](https://veryimportantpets.shop/products/freestanding-wooden-bird-feeder-cross-support-weatherproof): Experience the joy of birdwatching with this freestanding bird feeder. The sturdy fir wood design features a spacious top house, weather-resistant paint, and a sloped asphalt roof for protection. Its cross-shaped feet provide stability. Simple to assemble for years of enjoyment.
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Wild Bird Feeders
   Availability: Available
@@ -3037,14 +3023,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-metal-bird-cage-with-accessories-for-small-birds-bird-cage-617328.jpg?v=1700658596
   Price: £35.99 GBP
 - [Compact Metal Bird Cage w/ Perches & Swing for Small Birds | Very Important Pets](https://veryimportantpets.shop/products/compact-metal-bird-cage-w-perches-swing-for-small-birds): Our bird cage, perfect for budgies to canaries, combines a solid metal frame with a playful swing ring and perches for exercise. It's easy to clean with a pull-out tray and convenient feeding through the side doors. Includes a carry handle for easy transport.
-  Updated: 2025-07-14T18:41:45Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-metal-bird-cage-w-perches-swing-for-small-birds-bird-cage-502144.jpg?v=1700658614
   Price: £35.99 GBP
 - [Rolling Metal Bird Play Stand - Perch & Feeding Station](https://veryimportantpets.shop/products/rolling-metal-bird-play-stand-perch-feeding-station): This PawHut bird feeding station provides a spot for birds to relax, whilst having easy access to food and water, thanks to the two stainless steel bowls. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Bird Stand
   Availability: Available
@@ -3072,28 +3058,28 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-bird-cage-with-toys-tray-perches-for-small-birds-bird-cage-218427.jpg?v=1700648403
   Price: £44.99 GBP
 - [3-Tier Spacious Bird Cage with Toys, Ladders & Wheels | Very Important Pets](https://veryimportantpets.shop/products/3-tier-spacious-bird-cage-with-toys-ladders-wheels): Enhance your bird's life with a 3-tier cage perfect for canaries to parakeets. Offers perches, toys, ladders for enrichment, and easy access with multiple doors. Quick to clean with a slide-out tray. A wheeled stand ensures mobility while the storage shelf keeps supplies handy. Ideal for a bird-friendly habitat.
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-spacious-bird-cage-with-toys-ladders-wheels-bird-cage-597931.jpg?v=1700664624
   Price: £152.99 GBP
 - [Mobile Flight Bird Cage with Toys - Canaries, Finches, Lovebirds | Very Important Pets](https://veryimportantpets.shop/products/mobile-flight-bird-cage-with-toys-canaries-finches-lovebirds): Discover a mobile, spacious home for your birds. Our black flight cage comes with perches, toys, and a storage shelf. Designed for finches to lovebirds, it offers easy access with multiple doors and hassle-free cleaning with a slide-out tray. The secure wheels add stability and mobility.
-  Updated: 2025-09-26T15:31:14Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/mobile-flight-bird-cage-with-toys-canaries-finches-lovebirds-bird-cage-506914.jpg?v=1700651919
   Price: £89.99 GBP
 - [Mobile Bird Cage with Stand for Small Birds | Perches & Swing | Very Important Pets](https://veryimportantpets.shop/products/mobile-bird-cage-with-stand-for-small-birds-perches-swing): Explore our spacious bird cage perfect for small avians such as finches, canaries, and budgies. Features include a playful swing, multiple access doors, and easy-to-clean design with a slide-out tray. Comes with wheels and brakes for secure mobility.
-  Updated: 2025-09-26T15:31:13Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/mobile-bird-cage-with-stand-for-small-birds-perches-swing-bird-cage-770084.jpg?v=1700651953
   Price: £80.99 GBP
 - [11.5KG Capacity Automatic Outdoor Galvanised Chicken Poultry Feeder](https://veryimportantpets.shop/products/11-5kg-capacity-automatic-outdoor-galvanised-chicken-poultry-feeder): Can you enjoy a short trip because you are feeding chickens at home? Do you often forget to feed chickens and make them hungry? Let's take a look at this Rainproof Outdoor Chicken Feeder. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:05Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Chicken Feeder
   Availability: Available
@@ -3114,7 +3100,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/large-wooden-hamster-cage-for-small-animals-115-x-57-cm-small-animal-cage-959311.jpg?v=1700652137
   Price: £98.99 GBP
 - [Double Decker Rabbit Hutch 4FT Guinea Pig Cage with No Leak Trays for Outdoor, Orange](https://veryimportantpets.shop/products/double-decker-rabbit-hutch-4ft-guinea-pig-cage-with-no-leak-trays-for-outdoor-orange): This rabbit hutch for 2 rabbits from PawHut includes a treated wood finish for a stable structure that compliments your backyard decoration. Shop online at Very Important Pets
-  Updated: 2025-08-11T15:30:49Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -3142,14 +3128,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-steps-for-bed-4-step-pet-stairs-for-sofa-dog-cat-climb-ladder-63x43x60-cm-grey-820943.jpg?v=1700656828
   Price: £35.99 GBP
 - [Cat Tower Centre, Sisal Scratching Post, Toy, Climbing Tree, Bed, Multi Level 181cm(H)](https://veryimportantpets.shop/products/cat-tower-centre-sisal-scratching-post-toy-climbing-tree-bed-multi-level-181cm-h): Satisfy your cat's natural instincts in a safe way with this cat tree from PawHut! This multi-activity center features natural sisal covered scratching posts, teasing ball toy, roomy condos and perches. Shop online at Very Important Pets
-  Updated: 2025-09-26T23:30:55Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tower-centre-sisal-scratching-post-toy-climbing-tree-bed-multi-level-181cmh-399032.jpg?v=1700660793
   Price: £71.99 GBP
 - [Cat Tree Scratching House, Activity Play Centre](https://veryimportantpets.shop/products/cat-tree-scratching-house-activity-play-centre): Allow your pet to be their true selves, thanks to this PawHut cat tree. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:08Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3163,7 +3149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-scratching-house-activity-play-centre-beige-531332.jpg?v=1700660349
     Price: £53.99 GBP
 - [Cat Tree Tower Kitten Activity Center Scratching Post w/Hammock Condo Bed Basket 98H cm](https://veryimportantpets.shop/products/cat-tree-tower-kitten-activity-center-scratching-post-w-hammock-condo-bed-basket-98h-cm): Satisfy your cat's natural instincts safely with this cat climbing tower from PawHut! This multi-activity center features natural sisal covered scratching posts, ladder, cozy basket, hammock, roomy condo and perches. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:10Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3202,7 +3188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-cat-tree-for-indoor-cats-with-sisal-scratching-post-kitten-bed-cushion-ball-toy-brown-45x45x70-cm-114932.jpg?v=1700648490
   Price: £26.99 GBP
 - [Cat Tree Kitten Condo Fun House 240-260cm Deep Grey and White](https://veryimportantpets.shop/products/cat-tree-kitten-condo-fun-house-240-260cm-deep-grey-and-white): This PawHut cat tower is a perfect solution for your pet, a cat needs to be active and this modern cat tree can provide hours of fun while keeping your cat energized and healthy. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3244,14 +3230,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-garden-wooden-cat-house-with-water-resistant-door-window-outdoor-cat-house-800174.jpg?v=1700651312
   Price: £71.99 GBP
 - [Four Tier Cat Tree House, 131H cm Beige](https://veryimportantpets.shop/products/four-tier-cat-tree-house-131h-cm-beige): Stimulate your cat's natural instincts in a fun and safe way with a PawHut 131cm Cat Tower. Shop online at Very Important Pets
-  Updated: 2025-08-18T02:53:24Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/four-tier-cat-tree-house-131h-cm-beige-348031.jpg?v=1700654710
   Price: £35.99 GBP
 - [Four Tier Cat Tree House, 114H cm Beige](https://veryimportantpets.shop/products/four-tier-cat-tree-house-114h-cm-beige): Stimulate your cat's natural instincts in a fun and safe way with a 114 cm cat tower from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3272,7 +3258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/100-cm-cat-tree-climbing-tower-activity-centre-scratching-tree-beige-116925.webp?v=1704738252
     Price: £44.99 GBP
 - [Cat Tree, Cat Tower for Kittens, Small Cat Condo with Rotatable Top Bar, Sisal Scratching Post, Tunnel, Dangling Balls](https://veryimportantpets.shop/products/cat-tree-cat-tower-for-kittens-small-cat-condo-with-rotatable-top-bar-sisal-scratching-post-tunnel-dangling-balls): Every cat and kitten needs a place to relax and be entertained. Shop online at Very Important Pets
-  Updated: 2025-10-01T07:30:30Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3286,7 +3272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-cat-tower-for-kittens-small-cat-condo-with-rotatable-top-bar-sisal-scratching-post-tunnel-dangling-balls-brown-227766.jpg?v=1700659730
     Price: £26.99 GBP
 - [Cats 6-Tier Scratch Tree w/ Dangle Toy Beige 50Lx40Wx105H cm](https://veryimportantpets.shop/products/cats-6-tier-scratch-tree-w-dangle-toy-beige-50lx40wx105h-cm): Every cat and kitten needs a place to relax and be entertained. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3300,7 +3286,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-scratcher-sisal-cat-scratching-board-mat-pad-with-roller-feather-toy-44-x-24-x-16-cm-grey-scratching-bed-402732.jpg?v=1700660885
   Price: £26.99 GBP
 - [70cm High Cat Barrel Sisal Play House for Indoor Cats](https://veryimportantpets.shop/products/70cm-high-cat-barrel-sisal-play-house-for-indoor-cats): This sisal covered barrel from PawHut with three openings is sure to be a favorite with your cat. Shop online at Very Important Pets
-  Updated: 2025-07-14T18:41:41Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -3325,7 +3311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/floor-to-ceiling-cat-tree-for-indoor-cats-5-tier-kitty-tower-climbing-activity-center-scratching-post-adjustable-height-230-260-cm-brown-755509.jpg?v=1700655447
     Price: £44.99 GBP
 - [70cm Cat Tree for Indoor Cats Durable Natural Sisal Scratching Posts Hammock Bed Kitty Activity Center](https://veryimportantpets.shop/products/70cm-cat-tree-for-indoor-cats-durable-natural-sisal-scratching-posts-hammock-bed-kitty-activity-center): Give your cats their own mini playground indoors with this cat tree tower from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3339,7 +3325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/70cm-cat-tree-for-indoor-cats-durable-natural-sisal-scratching-posts-hammock-bed-kitty-activity-center-beige-595544.jpg?v=1700663423
     Price: £35.99 GBP
 - [Multi-Tier Outdoor Wooden Cat House with Roof & Terrace](https://veryimportantpets.shop/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace): Treat your cat to something it will love for years with a wooden cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3353,7 +3339,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2-floor-wooden-cat-house-stylish-outdoor-kitten-shelter-outdoor-cat-house-612128.jpg?v=1700665784
   Price: £80.99 GBP
 - [Wood Cat Shelves Wall-Mounted Shelter Curved Kitten Bed Cat Perch Climber Cat Furniture 41 x 28 x 21cm](https://veryimportantpets.shop/products/wood-cat-shelves-wall-mounted-shelter-curved-kitten-bed-cat-perch-climber-cat-furniture-41-x-28-x-21cm): Rattle up your pet's thirst for curiosity and adventure with this cat wall shelves from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
@@ -3367,14 +3353,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wood-cat-shelves-wall-mounted-shelter-curved-kitten-bed-cat-perch-climber-cat-furniture-41-x-28-x-21cm-wall-mounted-cat-post-brown-851312.jpg?v=1700646338
     Price: £35.99 GBP
 - [2-Floor Outdoor Cat House: Solid Wood, Wheels, 59x55x109cm](https://veryimportantpets.shop/products/2-floor-outdoor-cat-house-solid-wood-wheels-59x55x109cm): This outdoor cat house from PawHut offers a luxurious place for wandering cats to rest and hide. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:30:58Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2-floor-outdoor-cat-house-solid-wood-wheels-59x55x109cm-outdoor-cat-house-618917.jpg?v=1700665801
   Price: £107.99 GBP
 - [Dual-Level Wooden Cat House, Outdoor-Ready with Asphalt Roof](https://veryimportantpets.shop/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof): All cats are sure to enjoy this PawHut outdoor cat house. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:37Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3388,13 +3374,13 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof-outdoor-cat-house-grey-469173.jpg?v=1700656486
     Price: £116.99 GBP
 - [Rattan Elevated Cat Bed House Kitten Basket Ball Shaped Pet Furniture w/ Removable Cushion](https://veryimportantpets.shop/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion): With this PawHut PE rattan house, cats will have the cosiest spot going. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:52Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-347759.jpg?v=1700649376
   - [Natural](https://veryimportantpets.shop/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion?variant=47066488176930)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-347759.jpg?v=1700649376
     Price: £53.99 GBP
   - [Silver Grey](https://veryimportantpets.shop/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion?variant=47066488209698)
@@ -3402,7 +3388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-10-01T07:30:30Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3416,7 +3402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy-beige-877431.jpg?v=1700658429
     Price: £35.99 GBP
 - [Mult Level Cat Tree for Indoor Cats with Scratching Post Bed Condo Perch, Kitten Climbing Tower](https://veryimportantpets.shop/products/mult-level-cat-tree-for-indoor-cats-with-scratching-post-bed-condo-perch-kitten-climbing-tower): Never leave your cat bored alone again with this PawHut cat tree. Shop online at Very Important Pets
-  Updated: 2025-09-26T16:20:42Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3444,7 +3430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/91cm-cat-tower-scratching-posts-cat-tree-for-indoor-cats-kitten-activity-centre-light-brown-688599.jpg?v=1700662759
     Price: £44.99 GBP
 - [104cm Cat Tree Tower with Condo, Perch & Scratch Posts | Very Important Pets](https://veryimportantpets.shop/products/104-cm-cat-tree-cat-condo-tree-tower-cat-activity-centre-with-scratching-posts-plush-perch-hanging-ball): Provide a playground for your cat with a multi-level tree tower. Equipped with a plush condo, soft perch, and fun hanging ball, this cat activity centre fulfils your cat's desire to scratch, climb, and relax. The sturdy design ensures safety, while the scratching posts keep your furniture unharmed. Cats up to 4.5 kg.
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3469,21 +3455,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/adjustable-height-floor-to-ceiling-vertical-cat-tree-with-carpeted-platforms-condo-sisal-rope-scratching-areas-742572.jpg?v=1700662338
   Price: £53.99 GBP
 - [100cm Cat Tree for Indoor Cats, Cat Tower Condo for Kittens with Cat House Sisal Scratching Posts, Hanging Ball Toys, Perches - Grey](https://veryimportantpets.shop/products/100cm-cat-tree-for-indoor-cats-cat-tower-condo-for-kittens-with-cat-house-sisal-scratching-posts-hanging-ball-toys-perches-grey): Ensure your cat is happy and healthy with this PawHut cat activity centre. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/100cm-cat-tree-for-indoor-cats-cat-tower-condo-for-kittens-with-cat-house-sisal-scratching-posts-hanging-ball-toys-perches-grey-125843.jpg?v=1700666799
   Price: £44.99 GBP
 - [Cat Tree Tower Height 150CM Kittens Activity Stand House Scratching Posts](https://veryimportantpets.shop/products/cat-tree-tower-height-150cm-kittens-activity-stand-house-scratching-posts): Provide your lovely furry friends a comfortable and safe place with this Muliti-Tier Cat Climbing Tree Tower. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:05Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-tower-height-150cm-kittens-activity-stand-house-scratching-posts-115733.jpg?v=1700660028
   Price: £62.99 GBP
 - [Cat Tree for Indoor Cats Activity Center Kitten Scratching Post Climbing Tower](https://veryimportantpets.shop/products/cat-tree-for-indoor-cats-activity-center-kitten-scratching-post-climbing-tower): Whether your cat is feeling a bit mischievous or sleepy, this light grey activity tree will fulfill their needs. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3504,7 +3490,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/130cm-cat-tree-for-indoor-cats-multi-level-plush-cat-tower-with-five-scratching-posts-two-perches-cat-house-hammock-583588.jpg?v=1700666596
   Price: £53.99 GBP
 - [121cm Cat Tree Tower for Indoor Cats Kitten Activity Centre Scratching Post with Bed Tunnel Perch Interactive Ball Toy](https://veryimportantpets.shop/products/121cm-cat-tree-tower-for-indoor-cats-kitten-activity-centre-scratching-post-with-bed-tunnel-perch-interactive-ball-toy): A go-to spot for playing, relaxing, or satisfying the urge to scratch and climb with this cat tree for indoor cats from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3539,7 +3525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/260cm-floor-to-ceiling-cat-tree-w-3-perches-flannel-upholstery-brown-214176.jpg?v=1700665035
     Price: £44.99 GBP
 - [Tabletop Cat Litter Box Furniture with Storage Shelves](https://veryimportantpets.shop/products/tabletop-cat-litter-box-furniture-with-storage-shelves): This PawHut cat litter box furniture combines space for your pet with space for you. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3560,7 +3546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-scratching-barrel-736920.jpg?v=1700660867
   Price: £62.99 GBP
 - [Wooden Cat House for Small Cat w/ Removable Scratching Pad and Soft Cushion](https://veryimportantpets.shop/products/wooden-cat-house-for-small-cat-w-removable-scratching-pad-and-soft-cushion): Treat your pet to their own living space with this PawHut cat house. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3595,42 +3581,42 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey-615198.jpg?v=1700665454
   Price: £53.99 GBP
 - [Cat Tree, Kitten Tower, Condo, Multi-Layer Activity Center, Indoor Pet Play House with Solid Scratching Post Hanging Balls, Light Grey](https://veryimportantpets.shop/products/cat-tree-kitten-tower-condo-multi-layer-activity-center-indoor-pet-play-house-with-solid-scratching-post-hanging-balls-light-grey): The cat tree is designed with 4 layers, the bottom layer is sturdy and has a strong centre of gravity, the second and third layers are for amusing cat balls for cats to play. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-kitten-tower-condo-multi-layer-activity-center-indoor-pet-play-house-with-solid-scratching-post-hanging-balls-light-grey-603883.jpg?v=1700659531
   Price: £44.99 GBP
 - [Cat Tree for Indoor Cats 95cm Climbing Tower Kitten Activity Center with Sisal Scratching Post Perch Roomy Condo Hammock Removable Felt Hanging Toy, Grey](https://veryimportantpets.shop/products/cat-tree-for-indoor-cats-95cm-climbing-tower-kitten-activity-center-with-sisal-scratching-post-perch-roomy-condo-hammock-removable-felt-hanging-toy-grey): Give your furry friends a place of their own with this cat tree and tower. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-for-indoor-cats-95cm-climbing-tower-kitten-activity-center-with-sisal-scratching-post-perch-roomy-condo-hammock-removable-felt-hanging-toy-grey-199523.jpg?v=1700660640
   Price: £44.99 GBP
 - [100 cm Cat Tree, Cat Condo Tree Tower for Indoor Cats, Cat Activity Centre with Scratching Posts, Plush Perch, Ladder, Hanging Ball - Light Grey](https://veryimportantpets.shop/products/100-cm-cat-tree-cat-condo-tree-tower-for-indoor-cats-cat-activity-centre-with-scratching-posts-plush-perch-ladder-hanging-ball-light-grey): Safely satisfy your cat's instincts with this cat tree tower from PawHut! This cat tower multi-activity centre features scratching posts, a hanging ball, a comfortable condo, a ramp, and perches. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:30:58Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/100-cm-cat-tree-cat-condo-tree-tower-for-indoor-cats-cat-activity-centre-with-scratching-posts-plush-perch-ladder-hanging-ball-light-grey-762115.jpg?v=1700666817
   Price: £44.99 GBP
 - [Cat Tree Tower for Indoor Cats 120cm Climbing Kitten Activity Center with Jute Scratching Post Perch Hanging Ball Hammock Teasing Rope Condo Toy Light Grey](https://veryimportantpets.shop/products/cat-tree-tower-for-indoor-cats-120cm-climbing-kitten-activity-center-with-jute-scratching-post-perch-hanging-ball-hammock-teasing-rope-condo-toy-light-grey): Keep your cat/kitten happy with this cat tree for indoor cats from PawHut. Shop online at Very Important Pets
-  Updated: 2025-08-16T23:49:21Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-tower-for-indoor-cats-120cm-climbing-kitten-activity-center-with-jute-scratching-post-perch-hanging-ball-hammock-teasing-rope-condo-toy-light-grey-257129.jpg?v=1700660233
   Price: £44.99 GBP
 - [Cat Tree Tower Activity Center with Hanging Ball Toy Teasing Rope Dark grey](https://veryimportantpets.shop/products/cat-tree-tower-activity-center-with-hanging-ball-toy-teasing-rope-dark-grey): Give your furry friends a place of their own with this multi-level cat climbing Tree. Shop online at Very Important Pets
-  Updated: 2025-08-11T15:30:47Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-tower-activity-center-with-hanging-ball-toy-teasing-rope-dark-grey-398884.jpg?v=1700660300
   Price: £44.99 GBP
 - [255cm Floor To Ceiling Cat Tree for Indoor Cats Climber Scratching Post Adjustable Height Play Tower Removable Cover Grey](https://veryimportantpets.shop/products/255cm-floor-to-ceiling-cat-tree-for-indoor-cats-climber-scratching-post-adjustable-height-play-tower-removable-cover-grey): Ceiling to floor fun starts with this cat climbing tower from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3644,7 +3630,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-tower-climbing-kitten-activity-center-with-jute-scratching-post-grey-701896.jpg?v=1700660267
   Price: £44.99 GBP
 - [Cat Tree Tower for Indoor Cats Cat Scratching Post Climbing Activity Centre w/Jute Scratching Pad, Toy Ball, Cat House](https://veryimportantpets.shop/products/cat-tree-tower-for-indoor-cats-cat-scratching-post-climbing-activity-centre-w-jute-scratching-pad-toy-ball-cat-house): With this PawHut small cat tower, your pet's daily life won't be the same. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:05Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3665,14 +3651,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-for-indoor-cats-100cm-kitten-climbing-tower-activity-center-with-sisal-scratching-post-condo-perch-hanging-balls-teasing-rope-toy-cushion-799755.jpg?v=1700660658
   Price: £62.99 GBP
 - [Cat Tree Tower for Indoor Cats, 111cm Kitten Activity Centre with Scratching Post Pad Hammock Condo Bed Ball Toy, Grey](https://veryimportantpets.shop/products/cat-tree-tower-for-indoor-cats-111cm-kitten-activity-centre-with-scratching-post-pad-hammock-condo-bed-ball-toy-grey): Treat your pet to this fun-packed cat activity centre from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-tower-for-indoor-cats-111cm-kitten-activity-centre-with-scratching-post-pad-hammock-condo-bed-ball-toy-grey-118045.jpg?v=1700660080
   Price: £53.99 GBP
 - [Cat Tree, with Scratching Posts, Bed, Cat House - Natural Finish](https://veryimportantpets.shop/products/cat-tree-with-scratching-posts-bed-cat-house-natural-finish): A go-to spot for playing, climbing and relaxing - this PawHut cat tree has everything to satisfy your pet. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3707,7 +3693,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-4pcs-wall-mounted-shelf-set-climbing-frame-activity-center-wall-mounted-cat-post-430113.jpg?v=1700660709
   Price: £80.99 GBP
 - [Cat Tree, with Scratching Posts, Pad, Bed, Perch and Ball](https://veryimportantpets.shop/products/cat-tree-with-scratching-posts-pad-bed-perch-and-ball): A go-to spot for playing, relaxing, climbing and scratching – this PawHut cat tree has everything your pet desires. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3728,21 +3714,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-treadmill-wooden-cat-exercise-wheel-with-carpeted-runway-cat-running-wheel-with-brake-for-exercise-natural-wood-finish-715009.jpg?v=1700660726
   Price: £170.99 GBP
 - [Elevated Cat House, Kitten Bed, Pet Shelter, Wrapped with Scratcher, Soft Cushion, 41 x 38 x 43 cm, Khaki](https://veryimportantpets.shop/products/elevated-cat-house-kitten-bed-pet-shelter-wrapped-with-scratcher-soft-cushion-41-x-38-x-43-cm-khaki): Stimulate your cat's instincts in a fun and safe way with this cat shelter. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/elevated-cat-house-kitten-bed-pet-shelter-wrapped-with-scratcher-soft-cushion-41-x-38-x-43-cm-khaki-388959.jpg?v=1700656356
   Price: £44.99 GBP
 - [Wicker Cat Cave/House Stool with Soft Washable Cushion,Rattan Kitten Bed for Outdoor & Indoor Use， 44 x 43 x 41cm](https://veryimportantpets.shop/products/wicker-cat-cave-house-stool-with-soft-washable-cushion-rattan-kitten-bed-for-outdoor-indoor-use-44-x-43-x-41cm): It's well known that cats love small, enclosed spaces – now, they can have that, but with more comfort, thanks to this PawHut rattan cat house. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wicker-cat-cavehouse-stool-with-soft-washable-cushionrattan-kitten-bed-for-outdoor-indoor-use-44-x-43-x-41cm-176978.jpg?v=1700646444
   Price: £62.99 GBP
 - [Cat Climbing Barrel, Covered with Sisal, Cosy Platform - Light Grey](https://veryimportantpets.shop/products/cat-climbing-barrel-covered-with-sisal-cosy-platform-light-grey): Introducing our PawHut barrel scratching post – a secure spot, designed to keep pets comfortable. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -3763,7 +3749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-piece-cat-wall-shelves-wall-mounted-cat-tree-for-indoor-use-brown-wall-mounted-cat-post-646505.jpg?v=1700664023
   Price: £89.99 GBP
 - [Cat Tree, Climbing Kitten Cat Tower Activity Center for Indoor Cats with Jute Scratching Post, Condo, Kitten Stand, Hanging Ball Toy, Beige](https://veryimportantpets.shop/products/cat-tree-climbing-kitten-cat-tower-activity-center-for-indoor-cats-with-jute-scratching-post-condo-kitten-stand-hanging-ball-toy-beige): Rest and play in one spot, with this cat tree for large cat from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-30T07:30:27Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3777,7 +3763,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-with-sisal-wrapped-scratching-post-cream-864926.jpg?v=1700659402
   Price: £35.99 GBP
 - [Cat Tree Tower with Scratching Posts, Pad, Bed, Toy Ball-Dark Grey](https://veryimportantpets.shop/products/cat-tree-tower-with-scratching-posts-pad-bed-toy-ball-dark-grey): Give your cat a safe place to play with this cat tree from PawHut! This cat tree for indoor cats features sisal rope poles and hanging balls for added fun. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:26Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3798,14 +3784,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/4-piece-cat-shelf-with-scratching-post-wall-mounted-cat-tree-for-indoor-cat-wall-mounted-cat-post-beige-892413.jpg?v=1700664331
   Price: £44.99 GBP
 - [5 Piece Cat Shelf with Scratching Post, Wall-Mounted Cat Tree for Indoor Cat](https://veryimportantpets.shop/products/5-piece-cat-shelf-with-scratching-post-wall-mounted-cat-tree-for-indoor-cat): Spark your pet's curiosity with this PawHut cat climbing wall, turning any room into an adventurous and exciting haven. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-piece-cat-shelf-with-scratching-post-wall-mounted-cat-tree-for-indoor-cat-wall-mounted-cat-post-grey-716806.jpg?v=1700664040
   Price: £44.99 GBP
 - [4PCs Wall-Mounted Cat Shelves w/ Scratching Post, Hammock, Nest](https://veryimportantpets.shop/products/4pcs-wall-mounted-cat-shelves-w-scratching-post-hammock-nest): With this PawHut cat climbing wall, pets will enjoy higher spots, where they can play, rest and observe. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
@@ -3819,14 +3805,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/4pcs-wall-mounted-cat-shelves-w-scratching-post-hammock-nest-wall-mounted-cat-post-beige-806197.jpg?v=1700664073
     Price: £53.99 GBP
 - [5PCs Cat Wall Furniture with Perch, Cat House, Scratching Post](https://veryimportantpets.shop/products/5pcs-cat-wall-furniture-with-perch-cat-house-scratching-post): Transform limited space into a feline paradise, thanks to this PawHut cat shelf set. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:30:57Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5pcs-cat-wall-furniture-with-perch-cat-house-scratching-post-907409.jpg?v=1700663644
   Price: £53.99 GBP
 - [Four-Piece Wall-Mounted Cat Tree, with Steps, Perch, Cat House - Grey](https://veryimportantpets.shop/products/four-piece-wall-mounted-cat-tree-with-steps-perch-cat-house-grey): Have pets with limited space? No problem - all you need is this PawHut cat shelf set. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
@@ -3840,7 +3826,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-with-scratching-posts-hammock-toy-ball-beige-170242.jpg?v=1700659460
   Price: £35.99 GBP
 - [242cm Adjustable Floor-To-Ceiling Cat Tree, with Artificial Decoration, Perches, Anti-Slip Kit](https://veryimportantpets.shop/products/242cm-adjustable-floor-to-ceiling-cat-tree-with-artificial-decoration-perches-anti-slip-kit): The perfect pet haven exists, thanks to this PawHut floor to ceiling cat tree. Shop online at Very Important Pets
-  Updated: 2025-09-30T07:30:25Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3858,21 +3844,21 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/242cm-adjustable-floor-to-ceiling-cat-tree-with-artificial-decoration-perches-anti-slip-kit-yellow-525064.jpg?v=1700665346
     Price: £44.99 GBP
 - [240-270cm Floor-To-Ceiling Cat Tree, 5 Tier Cat Climbing Tower, with Bed, Hammock, Platforms, Black and Cream](https://veryimportantpets.shop/products/240-270cm-floor-to-ceiling-cat-tree-5-tier-cat-climbing-tower-with-bed-hammock-platforms-black-and-cream): Tired of pets destroying curtains and sofas? This PawHut floor-to-ceiling cat tree is your solution. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/240-270cm-floor-to-ceiling-cat-tree-5-tier-cat-climbing-tower-with-bed-hammock-platforms-black-and-cream-609696.jpg?v=1700665436
   Price: £62.99 GBP
 - [260cm Floor to Ceiling Cat Tree, Height Adjustable Kitten Tower with Anti-slip Kit, Multi-Layer Activity Center with Fish-shaped Perches Scratching Post Ball Toy, Yellow](https://veryimportantpets.shop/products/260cm-floor-to-ceiling-cat-tree-height-adjustable-kitten-tower-with-anti-slip-kit-multi-layer-activity-center-with-fish-shaped-perches-scratching-post-ball-toy-yellow): Satisfy your cat's natural instincts in a safe way with this cat tower from PawHut! This cat tree house includes scratching posts, perches and a ball toy for versatile play. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:30:58Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/260cm-floor-to-ceiling-cat-tree-height-adjustable-kitten-tower-with-anti-slip-kit-multi-layer-activity-center-with-fish-shaped-perches-scratching-post-ball-toy--104688.jpg?v=1700665000
   Price: £44.99 GBP
 - [72cm Cat Tree Kitten Tower, with Sisal Scratching Post, Two Beds, Toy Ball](https://veryimportantpets.shop/products/72cm-cat-tree-kitten-tower-with-sisal-scratching-post-two-beds-toy-ball): This PawHut cat tree will be your pet's go-to spot. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3886,7 +3872,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3pcs-wall-mounted-cats-shelves-cat-climbing-shelf-set-kitten-activity-center-with-jumping-platforms-hammock-scratching-post-oak-wall-mounted-cat-post-130199.jpg?v=1700664423
   Price: £71.99 GBP
 - [8 Piece Cat Shelves Set, with Cat House, Three Perches, Three Scratching Posts](https://veryimportantpets.shop/products/8-piece-cat-shelves-set-with-cat-house-three-perches-three-scratching-posts): Have pets with limited space? That's not a problem, thanks to this PawHut cat shelf set. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
@@ -3914,7 +3900,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-wooden-cat-house-with-flower-box-windows-outdoor-cat-house-172795.jpg?v=1700651181
   Price: £116.99 GBP
 - [2 in 1 Cat Bed Ottoman, Sleeping Cave w/ Removable Cushion, Scratching Pad, Handles, Anti-Slip Foot Pad, Toy Ball, Entrance - Grey](https://veryimportantpets.shop/products/2-in-1-cat-bed-ottoman-sleeping-cave-w-removable-cushion-scratching-pad-handles-anti-slip-foot-pad-toy-ball-entrance-grey): Something for you and your pet to enjoy – this 2 in 1 PawHut cat house, fused with an ottoman, lets you both fully relax. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:30:58Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -3928,7 +3914,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cosy-rattan-cat-cave-stylish-raised-bed-with-cushion-cat-bed-909123.jpg?v=1700658336
   Price: £35.99 GBP
 - [58cm Cat Scratching Post, with Covered Plush, Play Balls, for Corner Walls - Grey](https://veryimportantpets.shop/products/58cm-cat-scratching-post-with-covered-plush-play-balls-for-corner-walls-grey): Unleash your cat's playful spirit with this PawHut cat post. Shop online at Very Important Pets
-  Updated: 2025-08-07T20:05:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Post
   Availability: Available
@@ -3942,7 +3928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/255cm-floor-to-ceiling-cat-tree-with-scratching-posts-height-adjustable-cat-tower-with-hammock-house-anti-tipping-kit-perches-toys-grey-768840.jpg?v=1700665239
   Price: £62.99 GBP
 - [Three-Piece Wall-Mounted Cat Shelves, with Hammock, Ladder, Platforms, Scratching Post - Grey](https://veryimportantpets.shop/products/three-piece-wall-mounted-cat-shelves-with-hammock-ladder-platforms-scratching-post-grey): Bring in this practical PawHut cat shelf set, turning your wall into a comfortable pet haven. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:05Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
@@ -3963,14 +3949,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/52cm-small-cat-tree-for-indoor-cats-scratching-posts-with-two-beds-toy-ball-639873.jpg?v=1700663807
   Price: £26.99 GBP
 - [142cm Cat Tree Tower, with Scratching Post, Hammock, Toy Ball, Platforms - Green](https://veryimportantpets.shop/products/142cm-cat-tree-tower-with-scratching-post-hammock-toy-ball-platforms-green): True pet happiness lies with this PawHut cat tree - the ultimate haven for climbing, scratching, playing and relaxing. Shop online at Very Important Pets
-  Updated: 2025-09-28T23:30:56Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/142cm-cat-tree-tower-with-scratching-post-hammock-toy-ball-platforms-green-792447.jpg?v=1700666426
   Price: £53.99 GBP
 - [Floor to Ceiling Cat Tree, 6-Tier Play Tower Climbing Activity Center w/ Scratching Post, Hammock, Adjustable Height 230-250cm](https://veryimportantpets.shop/products/floor-to-ceiling-cat-tree-6-tier-play-tower-climbing-activity-center-w-scratching-post-hammock-adjustable-height-230-250cm): Give your furry friends a place of their own with this ceiling-to-floor cat climbing tree. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3983,13 +3969,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/floor-to-ceiling-cat-tree-6-tier-play-tower-climbing-activity-center-w-scratching-post-hammock-adjustable-height-230-250cm-beige-616727.jpg?v=1700655402
     Price: £71.99 GBP
-- [Chic Cat Scratcher Lounge Bed: Includes Catnip - 58x29.5cm | Very Important Pets](https://veryimportantpets.shop/products/cat-cardboard-scratcher-lounge-sofa-bed-with-catnip-58-x-29-5cm): Upgrade your cat's leisure time with our dual-purpose scratcher lounge bed. Designed for comfort and fun, it deters clawing on furniture and includes catnip to delight your pet. No setup is needed, and it is perfect for cats up to 4kg. Blends beautifully with home decor.
-  Updated: 2025-09-26T15:31:06Z
-  Vendor: PawHut
-  Product Type: Scratching Bed
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chic-cat-scratcher-lounge-bed-includes-catnip-58x295cm-scratching-bed-560328.jpg?v=1700659173
-  Price: £26.99 GBP
 - [TV-Shaped Cat Scratcher - Fun & Durable for Indoor Cats | Very Important Pets](https://veryimportantpets.shop/products/tv-shaped-scratching-board-with-scratcher-catnip-toy-rat-cat-scratcher-for-indoor-cats-43-x-23-x-32-5cm): Channel your cat's scratching and play instincts with our TV-shaped scratcher. Perfect for indoor cats up to 3kg, it combines a hideout and a durable scratching board. Comes with a toy rat and catnip to entertain and attract your furry friend. Easy to assemble, eco-friendly, and keeps furniture safe.
   Updated: 2025-09-30T23:30:25Z
   Vendor: PawHut
@@ -3998,7 +3977,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/tv-shaped-cat-scratcher-fun-durable-for-indoor-cats-cat-scratch-mat-386152.jpg?v=1700647320
   Price: £26.99 GBP
 - [Enclosed Cat Toilet Box with Scoop, Skylight - Easy Clean](https://veryimportantpets.shop/products/enclosed-cat-toilet-box-with-scoop-skylight-easy-clean): An excellent design like no other, this litter box from PawHut will give your cat complete privacy and put them at ease when they need to use it. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:13Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4012,7 +3991,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/enclosed-cat-toilet-box-with-scoop-skylight-easy-clean-litter-box-grey-527072.jpg?v=1700655946
     Price: £44.99 GBP
 - [Wooden Cat Litter Box Enclosure with Scratcher & Table Top](https://veryimportantpets.shop/products/wooden-cat-litter-box-enclosure-with-scratcher-table-top): Are you looking for a secure and comfortable litter house for your pet cat? The Pawhut cat box furniture can also be used as an enclosed cat bed and as a side table. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4033,7 +4012,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/practical-cat-litter-box-with-easy-clean-features-and-odour-control-litter-box-943713.jpg?v=1700650217
   Price: £35.99 GBP
 - [Enclosed Cat Litter Box with Filter, Scoop, and Tray - Ideal for Small Cats](https://veryimportantpets.shop/products/enclosed-small-cat-litter-box-with-filter-scoop-and-tray): Improve your pet's litter experience with this PawHut litter box. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4047,7 +4026,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/enclosed-cat-litter-box-with-filter-scoop-and-tray-ideal-for-small-cats-litter-box-white-690224.jpg?v=1700655993
     Price: £53.99 GBP
 - [Hooded Cat Litter Box with Scoop, Easy-Clean Design, 47.5L cm](https://veryimportantpets.shop/products/hooded-cat-litter-box-with-scoop-easy-clean-design-47-5l-cm): An excellent design like no other, this cat litter tray with a lid from PawHut will give your cat total privacy and make them feel comfortable when needed. Shop online at Very Important Pets
-  Updated: 2025-09-09T23:30:56Z
+  Updated: 2025-10-01T15:30:43Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4061,21 +4040,21 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hooded-cat-litter-box-with-scoop-easy-clean-design-475l-cm-litter-box-grey-900966.jpg?v=1700653961
     Price: £35.99 GBP
 - [Hooded Cat Litter Box - Large, 2-Way Entry, Deodorant, Scoop Included](https://veryimportantpets.shop/products/hooded-cat-litter-box-large-2-way-entry-deodorant-scoop-included): This cat litter box with a lid from PawHut has an excellent design like no other. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:13Z
+  Updated: 2025-10-01T15:30:44Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hooded-cat-litter-box-large-2-way-entry-deodorant-scoop-included-litter-box-297650.jpg?v=1700653976
   Price: £35.99 GBP
 - [Hooded Cat Litter Tray with Drawer, Scoop, and Deodorants](https://veryimportantpets.shop/products/hooded-cat-litter-tray-with-drawer-scoop-and-deodorants): An excellent piece, this PawHut litter box offers total privacy and comfort. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:56Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hooded-cat-litter-tray-with-drawer-scoop-and-deodorants-litter-box-103008.jpg?v=1700653929
   Price: £53.99 GBP
 - [Cat Litter Box Enclosure with Tree Tower & Hammock - Rustic Style](https://veryimportantpets.shop/products/cat-litter-box-enclosure-with-tree-tower-hammock-rustic-style): This is more than just a hidden litter box – it's also a place of rest, thanks to the mini cat house, which has a comfortable cushion. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4117,7 +4096,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/50-x-30-x-35-cm-reptile-terrarium-for-lizards-horned-frogs-snakes-black-283207.jpg?v=1700663876
   Price: £80.99 GBP
 - [Wooden Tortoise House, Small Pet Reptile Shelter, with Hide Den and Run - Grey](https://veryimportantpets.shop/products/wooden-tortoise-house-small-pet-reptile-shelter-with-hide-den-and-run-grey): Tortoises thrive ideal in their natural habitat – that's why they'll love this PawHut tortoise table. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:47Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
@@ -4138,14 +4117,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-764959.jpg?v=1700649323
   Price: £53.99 GBP
 - [Reptile Terrarium Vivarium, Climbing Pet Containers, Reptile Habitat with Sliding Doors, Breathable Mesh, Easy to Install, for Lizards, Horned Frogs, Snakes, Chameleons, 60 x 29.5 x 29.5 cm](https://veryimportantpets.shop/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-60-x-29-5-x-29-5-cm): Do you want to give your pets real wild heaven? Our PawHut reptile tank is your best choice. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-778531.jpg?v=1700649340
   Price: £53.99 GBP
 - [Wooden Rabbit Hutch Outdoor, Double Tier Guinea Pig Hutch, Small Animal House Water-Resistant Roof Ramp 147 x 54 x 84 cm](https://veryimportantpets.shop/products/wooden-rabbit-hutch-outdoor-double-tier-guinea-pig-hutch-small-animal-house-water-resistant-roof-ramp-147-x-54-x-84-cm): Create the perfect outdoor environment for your rabbit and other small pets they’ll love for years, thanks to this indoor guinea pig cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4159,7 +4138,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-hamster-cage-for-playful-small-rodents-small-animal-cage-307370.jpg?v=1700645950
   Price: £53.99 GBP
 - [Multi-Level Wooden Hamster Cage with Storage - 60x40x80cm](https://veryimportantpets.shop/products/multi-level-wooden-hamster-cage-with-storage-60x40x80cm): With the ramps and large size of this PawHut dwarf hamster cage, you can create a safe and active space for your hamster to feel at home. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:15Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4194,7 +4173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2-tier-wooden-rabbit-hutch-guinea-pig-hutch-duck-house-double-decker-pet-cage-with-sliding-tray-opening-top-597224.jpg?v=1700665474
   Price: £89.99 GBP
 - [3-Tier Wooden Hamster Cage with Entertainment Features](https://veryimportantpets.shop/products/3-tier-wooden-hamster-cage-with-entertainment-features): With three tiers, this PawHut dwarf hamster cage provides lots of space to roam, play and relax. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:38Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4243,7 +4222,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/large-rabbit-hutch-with-run-outdoor-bunny-cage-with-tray-ramp-light-grey-398618.jpg?v=1700652169
   Price: £188.99 GBP
 - [Four-Tier Cage, for Ferrets, Chinchillas with Wheels](https://veryimportantpets.shop/products/four-tier-cage-for-ferrets-chinchillas-with-wheels): Keep your pet stimulated, secure and happy with this four-tier PawHut chinchilla cage. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4271,14 +4250,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/deluxe-rabbit-hutch-outdoor-wooden-guinea-pig-hutch-two-storey-bunny-house-with-ladder-rabbit-run-box-slide-out-tray-210-x-455-x-845-cm-rabbit-hutch-770826.jpg?v=1700658082
   Price: £161.99 GBP
 - [Wooden Rabbit Hutch Guinea Pigs House Outdoor Small Animal Bunny Cage w/ Hinged Top Slide out Tray 115 x 44.3 x 65 cm](https://veryimportantpets.shop/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-44-3-x-65-cm): Give your rabbits and other small animals a place to call home with this rabbit house from Pawhut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:47Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-443-x-65-cm-838158.jpg?v=1700645780
   Price: £80.99 GBP
 - [Enclosed Small Wooden Chicken Coop with Nesting Box](https://veryimportantpets.shop/products/enclosed-small-wooden-chicken-coop-with-nesting-box): Treat your chickens to the good life they deserve with this chicken chateau. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:37Z
+  Updated: 2025-10-01T15:30:47Z
   Vendor: PawHut
   Product Type: Chicken Coop
   Availability: Available
@@ -4306,7 +4285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-with-removable-trays-for-1-2-rabbits-rabbit-hutch-grey-927895.jpg?v=1700647117
   Price: £116.99 GBP
 - [Indoor Wooden Rabbit Hutch, Guinea Pig House, Two Tier with Openable Roof, Wheels, Slide-out Tray, 91.5 x 53.3 x 73 cm](https://veryimportantpets.shop/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-91-5-x-53-3-x-73-cm): Choose this indoor rabbit cage from PawHut to give your rabbit, guinea pig and other small animals a place to rest and play. Shop online at Very Important Pets
-  Updated: 2025-10-01T07:30:30Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4324,7 +4303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-915-x-533-x-73-cm-brown-850710.jpg?v=1700653682
     Price: £116.99 GBP
 - [Wooden Indoor Rabbit Hutch Guinea Pig House Bunny Small Animal Cage W/ Wheels Enclosed Run 110 x 50 x 86 cm](https://veryimportantpets.shop/products/wooden-indoor-rabbit-hutch-guinea-pig-house-bunny-small-animal-cage-w-wheels-enclosed-run-110-x-50-x-86-cm): This indoor guinea pig house from PawHut is suitable for your rabbit, guinea pig and any other small animals you might own. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4366,7 +4345,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-animal-cage-with-hammock-wheels-pets-home-small-animal-cage-482199.jpg?v=1700648506
   Price: £71.99 GBP
 - [Mobile Small Animal Cage - Ideal for Small Rabbits, Guinea Pigs](https://veryimportantpets.shop/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs): Give your small pet their place to chill the day away with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-01T07:30:30Z
+  Updated: 2025-10-01T15:30:50Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4380,7 +4359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs-small-animal-cage-green-872640.jpg?v=1700651841
     Price: £44.99 GBP
 - [Two-Tier Small Mammal Cage with Ramp and Accessories](https://veryimportantpets.shop/products/two-tier-small-mammal-cage-with-ramp-and-accessories): Give your small pet double the space to move around with this two-tier small animal cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4401,14 +4380,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/blue-5-tier-dwarf-mice-cage-with-multiple-accessories-small-animal-cage-350491.jpg?v=1700661258
   Price: £53.99 GBP
 - [Expandable DIY 3-Tier Steel Animal Playpen Cage](https://veryimportantpets.shop/products/expandable-diy-3-tier-steel-animal-playpen-cage): Put yourself in control of your pet's home space with this expandable cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-07-14T18:41:21Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/expandable-diy-3-tier-steel-animal-playpen-cage-small-animal-cage-338833.jpg?v=1700655571
   Price: £71.99 GBP
 - [Two Tiers Rabbit Hutch and Run Wooden Guinea Pig Hutch Outdoor with Sliding Tray, Ramp and Water-resistant Roof, for 2-4 Rabbits](https://veryimportantpets.shop/products/two-tiers-rabbit-hutch-and-run-wooden-guinea-pig-hutch-outdoor-with-sliding-tray-ramp-and-water-resistant-roof-for-2-4-rabbits): This outdoor rabbit hutch from PawHut is great for use with rabbits, guinea pigs and similar sized animals. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:31:01Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4422,7 +4401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tiers-rabbit-hutch-and-run-wooden-guinea-pig-hutch-outdoor-with-sliding-tray-ramp-and-water-resistant-roof-for-2-4-rabbits-green-406863.jpg?v=1700647251
     Price: £116.99 GBP
 - [Wood-metal Rabbit Hutch Elevated Pet Bunny House Rabbit Cage with Slide-Out Tray Outdoor](https://veryimportantpets.shop/products/wood-metal-rabbit-hutch-elevated-pet-bunny-house-rabbit-cage-with-slide-out-tray-outdoor): Give your furry friend a comfortable living space from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:17Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4443,7 +4422,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellowblack-617038.jpg?v=1700645890
   Price: £152.99 GBP
 - [Rabbit Hutch Off-ground Small Animal Guinea Pig House 125.5 x 100 x 49cm](https://veryimportantpets.shop/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-125-5-x-100-x-49cm): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-09-28T06:12:12Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4478,7 +4457,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-tier-hamster-cage-with-tunnel-wheel-ideal-for-dwarf-mice-small-animal-cage-958128.jpg?v=1700663926
   Price: £44.99 GBP
 - [Pet Playpen DIY Small Animal Cage Metal Fence with Door, 22 Pieces, for Bunny Chinchilla Hedgehog Guinea Pig](https://veryimportantpets.shop/products/pet-playpen-diy-small-animal-cage-metal-fence-with-door-22-pieces-for-bunny-chinchilla-hedgehog-guinea-pig): Small pets will have a spacious and secure area, thanks to this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:30:57Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4506,21 +4485,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:36Z
+  Updated: 2025-10-01T15:30:51Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-gerbil-hamster-cage-with-accessories-white-small-animal-cage-116686.jpg?v=1700647200
   Price: £44.99 GBP
 - [Pet Playpen w/ Door Customisable Fence for Guinea Pigs Chinchillas Hedgehogs - Black](https://veryimportantpets.shop/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black): This rabbit cage from PawHut provides a spacious home for your pets. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4534,7 +4513,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2m-wide-galvanised-chicken-run-with-waterproof-cover-chicken-run-358855.jpg?v=1700664950
   Price: £179.99 GBP
 - [4m Walk-In Galvanised Chicken Cage with Weather-Resistant Cover](https://veryimportantpets.shop/products/4m-walk-in-galvanised-chicken-cage-with-weather-resistant-cover): PawHut outdoor cages are the perfect products to protect your pets while giving them the freedom of fresh air. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Chicken Run
   Availability: Available
@@ -4555,21 +4534,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-2-tier-guinea-pig-cage-bunny-run-small-animal-house-for-indoor-outdoor-with-sunlight-panel-roof-slide-out-tray-150-x-66-x-100cm-grey-rabbit--954286.jpg?v=1700645595
   Price: £143.99 GBP
 - [4 FT Rabbit Hutch Two Tier Wooden Guinea Pig Cage Bunny House w/ Rain Cover, Wheels - Grey](https://veryimportantpets.shop/products/4-ft-rabbit-hutch-two-tier-wooden-guinea-pig-cage-bunny-house-w-rain-cover-wheels-grey): A home your rabbits and small pets will love – this spacious hutch from PawHut has two tiers and a ramp, perfect for roaming, playing and sleeping, whilst the trough at the top lets you feed them. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:36Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/4-ft-rabbit-hutch-two-tier-wooden-guinea-pig-cage-bunny-house-w-rain-cover-wheels-grey-531610.jpg?v=1700664366
   Price: £170.99 GBP
 - [Wooden Rabbit Hutch, Guinea Pig Cage, Separable Bunny Run, Small Animal House for Indoor with Slide-out Tray, 161 x 50.5 x 53.3cm, Grey](https://veryimportantpets.shop/products/wooden-rabbit-hutch-guinea-pig-cage-separable-bunny-run-small-animal-house-for-indoor-with-slide-out-tray-161-x-50-5-x-53-3cm-grey): This large rabbit hutch from PawHut is perfect for use with rabbits, guinea pigs, and other similar-sized animals. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pig-cage-separable-bunny-run-small-animal-house-for-indoor-with-slide-out-tray-161-x-505-x-533cm-grey-rabbit-hutch-461777.jpg?v=1700645577
   Price: £125.99 GBP
 - [2 in 1 Rabbit Hutch Outdoor, Double Main House Guinea Pig Hutch, Bunny Run, Wooden Small Animal House with Run Box, Slide-out Tray, Ramp, 259 x 64 x 92cm, Grey](https://veryimportantpets.shop/products/2-in-1-rabbit-hutch-outdoor-double-main-house-guinea-pig-hutch-bunny-run-wooden-small-animal-house-with-run-box-slide-out-tray-ramp-259-x-64-x-92cm-grey): The ideal home for small pets – this PawHut small animals cage provides space and comfort. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:07Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4583,14 +4562,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pig-cage-with-wheels-run-slide-out-tray-ramp-rabbit-hutch-grey-554956.jpg?v=1700645562
   Price: £152.99 GBP
 - [Two-Tier Rabbit Hutch Outdoor and Run Wooden Mobile Guinea Pig Hutch Bunny Cage w/ Wheels, Run, Slide-Out Tray, Ramp 157.4 x 53 x 99.5 cm - Yellow](https://veryimportantpets.shop/products/two-tier-rabbit-hutch-outdoor-and-run-wooden-mobile-guinea-pig-hutch-bunny-cage-w-wheels-run-slide-out-tray-ramp-157-4-x-53-x-99-5-cm-yellow): The ideal home for rabbits and other small pets – this spacious rabbit cage from PawHut consists of two floors with a large house and a guinea pig run – they'll roam easily using the ramp. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:18Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-outdoor-and-run-wooden-mobile-guinea-pig-hutch-bunny-cage-w-wheels-run-slide-out-tray-ramp-1574-x-53-x-995-cm-yellow-yellowwhite-952166.jpg?v=1700647134
   Price: £152.99 GBP
 - [3-Tier Wooden Hamster Rodent Cage with Ladders - Natural Wood](https://veryimportantpets.shop/products/3-tier-wooden-hamster-rodent-cage-with-ladders-natural-wood): A spacious home where small pets can freely climb, play and roam. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4618,7 +4597,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hamster-gerbil-cage-with-ramp-wheel-and-food-bowl-small-animal-cage-311990.jpg?v=1700654197
   Price: £98.99 GBP
 - [Spacious Wooden Hamster Hutch with Shelf and Huts](https://veryimportantpets.shop/products/spacious-wooden-hamster-hutch-with-shelf-and-huts): The large size of this hamster cage creates a safe and active space for your hamster to feel at home. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-01T15:30:45Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4639,7 +4618,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-rabbit-hutch-with-run-removable-tray-asphalt-roof-120-x-555-x-80cm-rabbit-hutch-554161.jpg?v=1700651197
   Price: £143.99 GBP
 - [Wooden Rabbit Hutch with Openable Roof, Elevated Guinea Pig Cage with Ladder, Small Animal House for Indoor Use with Slide-out Tray, 90 x 53 x 87cm, Coffee Brown](https://veryimportantpets.shop/products/wooden-rabbit-hutch-with-openable-roof-elevated-guinea-pig-cage-with-ladder-small-animal-house-for-indoor-use-with-slide-out-tray-90-x-53-x-87cm-coffee-brown): This indoor rabbit hutch from PawHut is perfect for rabbits, guinea pigs, and other similar-sized animals. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:19Z
+  Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4688,7 +4667,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-gerbil-hamster-cage-with-glass-bottom-785-x-485-x-57cm-small-animal-cage-562990.jpg?v=1700664659
   Price: £134.99 GBP
 - [Dog Pushchair for Small Miniature Dogs Cats Foldable Travel Carriage with Wheels Zipper Entry Cup Holder Storage Basket | Very Important Pets](https://veryimportantpets.shop/products/dog-pushchair-for-small-miniature-dogs-cats-foldable-zipper-entry-cup-holder-storage-basket): Discover the convenience of our modern pet stroller, perfect for transporting your small dog or cat in comfort. With a solid steel frame, durable Oxford cloth, and multiple safety features like brakes and a safety leash, it is designed for the well-being of elderly or ailing pets. Easily foldable for storage.
-  Updated: 2025-09-26T15:31:12Z
+  Updated: 2025-10-01T15:30:41Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -4714,28 +4693,28 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-pushchair-for-small-miniature-dogs-cats-foldable-travel-carriage-with-wheels-zipper-entry-cup-holder-storage-basket-pet-stroller-black-110598.jpg?v=1700605144
     Price: £53.99 GBP
 - [8 Panel Foldable Pet Gate or Playpen with Support Feet - Small and Medium Dogs](https://veryimportantpets.shop/products/8-panels-foldable-pet-playpen-with-support-feet-for-house-doorway-stairs-small-and-medium-dogs): Turn pet safety into a delightful experience! Our PawHut eight-panel dog barrier offers a style, versatility and durability fusion. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/8-panel-foldable-pet-gate-or-playpen-with-support-feet-small-and-medium-dogs-pet-gate-white-375537.jpg?v=1700663216
   Price: £125.99 GBP
 - [Stylish Corner Dog Crate Furniture with Cushion - Grey](https://veryimportantpets.shop/products/dog-crate-with-cushion-conner-dog-crate-furniture-104-x-55-x-63-cm-grey): Enhance your living space with a contemporary dog crate that blends seamlessly with modern home aesthetics and natural wood textures. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:13Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-corner-dog-crate-furniture-with-cushion-grey-dog-crate-125701.jpg?v=1700647983
   Price: £134.99 GBP
 - [Enclosed Cat Litter Box & Play Area with Scratching Post](https://veryimportantpets.shop/products/enclosed-cat-litter-box-play-area-with-scratching-post): Providing your feline friends with the PawHut cat litter box to relax, play and poop. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:02Z
+  Updated: 2025-10-01T15:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/enclosed-cat-litter-box-play-area-with-scratching-post-scratching-post-with-bed-656212.jpg?v=1700656025
   Price: £107.99 GBP
 - [Colourful Small Animal Cage with Ramp & Accessories](https://veryimportantpets.shop/products/colourful-small-animal-cage-with-ramp-accessoriescolourful-small-animal-cage-with-ramp-accessories): Give your small pet a haven with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:11Z
+  Updated: 2025-10-01T15:30:37Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4791,14 +4770,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/alpha-adult-everyday-with-beef-chicken-veg-10-kg-working-dry-680233.jpg?v=1706353015
   Price: £15.50 GBP
 - [Alpha Grain Free Adult Working Dog Food - Hypoallergenic](https://veryimportantpets.shop/products/alpha-adult-grain-free-chicken-15-kg): Alpha Grain Free Adult Working Dog Food - hypoallergenic formula with chicken, potato & veg. No added grain, soya or dairy. Prebiotics for digestive health.
-  Updated: 2025-09-30T21:10:18Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/alpha-grain-free-with-chicken-potato-veg-dry-adult-dog-food-15-kg-working-dry-831162.jpg?v=1730373947
   Price: £36.39 GBP
 - [Alpha Sensitive Working Dog Food - Chicken & Rice Flavour](https://veryimportantpets.shop/products/alpha-sensitive-chicken-rice): Alpha Sensitive Working Dry Dog Food is hypoallergenic, wheat gluten-free, with chicken and rice for optimal digestion. Contains essential omega 3 oils.
-  Updated: 2025-10-01T09:35:26Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -4829,7 +4808,7 @@
     Availability: Available
     Price: £36.27 GBP
 - [Arden Grange Chicken & Rice Adult Dog Food, Complete Premium](https://veryimportantpets.shop/products/arden-grange-dog-chicken-rice): Arden Grange Chicken & Rice Adult Dog Food: complete, super premium pet food for active adult dogs. Contains fresh chicken, prebiotics, joint supplements.
-  Updated: 2025-10-01T09:28:02Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Arden Grange
   Product Type: Adult Dry
   Availability: Available
@@ -4907,7 +4886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/arden-grange-mini-adult-dog-with-lamb-rice-dry-food-adult-dry-6-kg-220090.webp?v=1733422210
     Price: £28.53 GBP
 - [Arden Grange Light Chicken & Rice for Weight Management](https://veryimportantpets.shop/products/arden-grange-dog-light): Arden Grange Light with fresh chicken & rice aids weight reduction with fewer calories, L-carnitine for fat conversion & Yucca extract for antioxidants.
-  Updated: 2025-10-01T09:28:00Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Arden Grange
   Product Type: Diet Dry
   Availability: Available
@@ -4925,7 +4904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/arden-grange-dry-light-dog-food-with-fresh-chicken-rice-diet-dry-12-kg-954963.jpg?v=1709684480
     Price: £45.07 GBP
 - [Arden Grange Salmon & Rice Adult Dog Food for Skin & Coat](https://veryimportantpets.shop/products/arden-grange-dog-salmon-rice): Arden Grange Salmon & Rice Dog Food: 26% fresh salmon for skin/coat health. Highly digestible for normal activity adult dogs. Find it here, Very Important Pets.
-  Updated: 2025-09-29T22:28:17Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Arden Grange
   Product Type: Adult Dry
   Availability: Available
@@ -4961,7 +4940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/arden-grange-dry-senior-dog-food-with-fresh-chicken-rice-senior-dry-12-kg-290185.jpg?v=1709684478
     Price: £45.07 GBP
 - [Arden Grange Sensitive Adult Ocean White Fish & Potato Dog Food](https://veryimportantpets.shop/products/arden-grange-dog-sensitive-adult): Give your sensitive dog the best with Arden Grange Sensitive Adult Ocean White Fish & Potato dry food. Grain-free, hypoallergenic, and nutrient-rich.
-  Updated: 2025-09-29T22:28:17Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Arden Grange
   Product Type: Sensitive Dry
   Availability: Available
@@ -5074,7 +5053,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/arkwrights-sporting-complete-extra-beef-15-kg-working-dry-610085.jpg?v=1701198305
   Price: £19.99 GBP
 - [Autarky Adult Chicken](https://veryimportantpets.shop/products/autarky-adult-chicken): Autarky Chicken Dog Food has been designed to suit the nutritional needs of adult dogs. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:27:55Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Autarky
   Product Type: Working Dry
   Availability: Available
@@ -5088,7 +5067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/autarky-adult-chicken-working-dry-12-kg-491779.png?v=1700661659
     Price: £28.00 GBP
 - [Autarky Adult Salmon](https://veryimportantpets.shop/products/autarky-adult-salmon): Autarky Salmon Dog Food has been specifically designed to suit the nutritional needs of active adult dogs that love the taste of fish. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:27Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Autarky
   Product Type: Working Dry
   Availability: Available
@@ -5102,7 +5081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/autarky-adult-salmon-working-dry-2-kg-783726.png?v=1700661654
     Price: £10.14 GBP
 - [Autarky Tantalising Turkey Grain-Free Adult Active Dog Food](https://veryimportantpets.shop/products/autarky-adult-turkey-grain-free): Autarky Tantalising Turkey Grain-Free Adult Dog Food: Balanced diet for active dogs with grain intolerance/sensitivity. Quality protein and joint care included.
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Autarky
   Product Type: Working Dry
   Availability: Available
@@ -5114,7 +5093,7 @@
     Availability: Available
     Price: £12.14 GBP
 - [Autarky Grain Free Tasty White Fish for Active Adult Dogs](https://veryimportantpets.shop/products/autarky-adult-white-fish-grain-free): Autarky Grain Free Tasty White Fish offers a balanced, grain-free diet for active dogs with intolerance to grain or poultry. Quality ingredients included.
-  Updated: 2025-09-30T21:10:18Z
+  Updated: 2025-10-01T13:28:28Z
   Vendor: Autarky
   Product Type: Working Dry
   Availability: Available
@@ -5168,7 +5147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/autarky-puppy-junior-chicken-working-dry-12-kg-355908.png?v=1700661632
     Price: £34.33 GBP
 - [Bakers Adult Dry Dog Food Beef & Vegetables - Complete](https://veryimportantpets.shop/products/bakers-adult-beef-veg): Bakers Adult Dry Dog Food Beef & Vegetables is a complete meal with natural superfoods for adult dogs. Supports natural defences and muscle strength.
-  Updated: 2025-09-30T13:27:56Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Bakers
   Product Type: Adult Dry
   Availability: Available
@@ -5200,7 +5179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-adult-dry-dog-food-chicken-with-veg-adult-dry-14-kg-941418.jpg?v=1735329335
     Price: £37.29 GBP
 - [Bakers Meaty Meals with Beef Dry Dog Food - Complete Meal](https://veryimportantpets.shop/products/bakers-meaty-meals-beef): Bakers Meaty Meals with Beef Dry Dog Food delivers a complete meal adult dogs love. Packed with tender meaty chunks, whole grains, and essential nutrients.
-  Updated: 2025-09-30T13:27:55Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Bakers
   Product Type: Adult Dry
   Availability: Available
@@ -5214,7 +5193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-meaty-meals-with-beef-dry-dog-food-adult-dry-5-x-1kg-537933.webp?v=1735319228
     Price: £21.58 GBP
 - [Bakers Meaty Meals with Chicken Dry Dog Food - Complete](https://veryimportantpets.shop/products/bakers-meaty-meals-chicken-2-7-kg): Keep your adult dog healthy and satisfied with Bakers Meaty Meals with Chicken Dry Dog Food. Packed with tender meaty chunks and nutrient-rich grains.
-  Updated: 2025-09-28T17:28:22Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Bakers
   Product Type: Adult Dry
   Availability: Available
@@ -5253,7 +5232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-puppy-chicken-with-veg-dry-dog-food-puppyjunior-dry-125-kg-111272.jpg?v=1735319241
     Price: £36.99 GBP
 - [Bakers Senior 7+ Dog Chicken with Veg Dry Dog Food](https://veryimportantpets.shop/products/bakers-senior-chicken-veg): Bakers Senior Chicken with Veg Dry Dog Food is a 100% complete recipe for dogs aged 7 years+, with natural ingredients and superfoods for taste and nutrition.
-  Updated: 2025-09-29T13:28:25Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Bakers
   Product Type: Senior Dry
   Availability: Available
@@ -5271,7 +5250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-senior-dry-dog-food-chicken-veg-senior-dry-125-kg-796774.jpg?v=1735319237
     Price: £36.99 GBP
 - [Bakers Small Dog Dry Food with Beef & Vegetables - Complete](https://veryimportantpets.shop/products/bakers-small-dog-beef-veg): Bakers Small Dog Dry Food with Beef & Vegetables is a 100% complete meal for adult small dogs, made with natural ingredients and superfoods. Smaller kibbles.
-  Updated: 2025-09-29T17:28:27Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Bakers
   Product Type: Adult Dry
   Availability: Available
@@ -5324,7 +5303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-adult-chicken-adult-dry-2-kg-509372.png?v=1706812181
     Price: £37.59 GBP
 - [BETA Adult Large Breed Turkey 14 kg](https://veryimportantpets.shop/products/beta-adult-large-breed-turkey-14-kg): Beta Adult Large Breed with Turkey has been designed to suit the nutritional requirements of large breed dogs that continue to live an active lifestyle. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:19Z
+  Updated: 2025-10-01T13:35:57Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
@@ -5359,14 +5338,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-sensitive-salmon-dry-adult-dog-food-sensitive-dry-14-kg-570168.jpg?v=1729300771
     Price: £42.38 GBP
 - [PURINA BETA Adult Small Breed Chicken Dry Dog Food - 2kg Bag](https://veryimportantpets.shop/products/beta-adult-small-dog-chicken-2-kg): Beta Adult Small Breed with Chicken Dry Dog Food is packed with essential nutrients for active dogs. Supports muscle maintenance and healthy digestion.
-  Updated: 2025-10-01T09:28:03Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-adult-small-breed-chicken-dry-dog-food-2-kg-adult-dry-346871.png?v=1706812181
   Price: £9.56 GBP
 - [PURINA BETA Adult Turkey and Lamb Dry Dog Food](https://veryimportantpets.shop/products/beta-adult-turkey-lamb): Nourish your active dog with Beta Adult Turkey and Lamb Dry Dog Food. Packed with essential vitamins, minerals, and protein for healthy bones and muscles.
-  Updated: 2025-10-01T09:35:28Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
@@ -5380,7 +5359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-adult-turkey-lamb-dry-dog-food-adult-dry-14-kg-640291.jpg?v=1741750873
     Price: £37.94 GBP
 - [Purina Beta Chicken Dry Dog Food for Growing Puppies](https://veryimportantpets.shop/products/beta-puppy-chicken): Give your growing puppy the nutrition they need with Purina Beta Puppy with Chicken Dry Dog Food. Antioxidants for natural defences and DHA for development.
-  Updated: 2025-09-30T21:10:18Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: PURINA BETA
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -5436,7 +5415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-senior-chicken-dry-dog-food-senior-dry-14-kg-627154.jpg?v=1741750872
     Price: £42.38 GBP
 - [BETA Working Dog Chicken 14 kg](https://veryimportantpets.shop/products/beta-working-dog-chicken-14-kg): Beta Working Dog with Chicken is a complete diet designed for dogs that like to live life at a frantic pace. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:18Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: PURINA BETA
   Product Type: Working Dry
   Availability: Available
@@ -5598,7 +5577,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-adult-large-giant-breed-dog-food-chicken-brown-rice-12-kg-adult-dry-123562.jpg?v=1719009033
   Price: £63.95 GBP
 - [Burns Toy & Small Breed Chicken & Rice Dog Food](https://veryimportantpets.shop/products/burns-adult-small-toy-breed): Burns Toy & Small Breed Chicken & Rice, perfect for little dogs with high metabolism. Trusted by UK pet owners for its quality ingredients.
-  Updated: 2025-09-24T09:27:56Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Burns
   Product Type: Adult Dry
   Availability: Available
@@ -5612,7 +5591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-adult-small-toy-breed-dog-food-chicken-rice-adult-dry-6-kg-113910.jpg?v=1719009029
     Price: £35.15 GBP
 - [Burns Alert Chicken & Brown Rice Dog Food for Working Dogs](https://veryimportantpets.shop/products/burns-alert-assistance-chicken): Burns Alert Chicken & Brown Rice Dog Food formulated for calm, attentive working dogs. Low fat, controlled protein, with blueberry & green tea extracts.
-  Updated: 2025-09-26T08:28:03Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Burns
   Product Type: Working Dry
   Availability: Available
@@ -5626,7 +5605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-alert-assistance-dog-food-chicken-brown-rice-working-dry-12-kg-183041.jpg?v=1719009031
     Price: £51.95 GBP
 - [Burns Alert Assistance Lamb & Rice Dog Food for Working Dogs](https://veryimportantpets.shop/products/burns-alert-assistance-lamb): Burns Alert Assistance Lamb & Brown Rice Dog Food supports brain function and alertness for working dogs. Developed by award-winning vet since 1993.
-  Updated: 2025-09-30T17:27:50Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Burns
   Product Type: Working Dry
   Availability: Available
@@ -5687,7 +5666,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-original-fish-brown-rice-adult-senior-dog-food-adult-dry-12-kg-585583.jpg?v=1719009031
     Price: £58.95 GBP
 - [Burns Original Lamb & Brown Rice Dog Food for Lifelong Health](https://veryimportantpets.shop/products/burns-original-with-lamb): Give your dog the best nutrition with Burns Original Lamb & Brown Rice Dog Food. Packed with wholesome ingredients for lifelong health and vitality.
-  Updated: 2025-09-30T13:27:53Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Burns
   Product Type: Adult Dry
   Availability: Available
@@ -5719,7 +5698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-grain-free-duck-potato-puppy-food-puppyjunior-dry-6-kg-452405.jpg?v=1719009028
     Price: £40.66 GBP
 - [Burns Puppy Mini Chicken & Rice Puppy Food for Small Breeds](https://veryimportantpets.shop/products/burns-puppy-mini): Burns Puppy Mini with Chicken & Rice Puppy Food provides small-breed puppies with essential nutrients for healthy growth and development.
-  Updated: 2025-09-29T13:28:25Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Burns
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -5744,7 +5723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-original-chicken-rice-puppy-food-puppyjunior-dry-12-kg-338149.jpg?v=1719009032
     Price: £58.95 GBP
 - [Burns Puppy Original Lamb - Natural Puppy Food](https://veryimportantpets.shop/products/burns-puppy-original-lamb): Give your puppy a healthy start in life with Burns Puppy Original Lamb & Rice Food. Made with natural ingredients for steady growth and optimal health.
-  Updated: 2025-09-28T17:28:21Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Burns
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -5811,7 +5790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-sensitive-chicken-and-wholegrain-maize-adult-senior-dog-food-sensitive-dry-6-kg-405930.jpg?v=1719009033
     Price: £32.89 GBP
 - [Burns Adult Sensitive Duck & Brown Rice - Natural Dog Food](https://veryimportantpets.shop/products/burns-sensitive-with-duck-brown-rice): Burns Sensitive Dog with Duck & Rice Dog Food is a healthy recipe formulated for dogs with sensitive skin or digestion. Made with simple, natural ingredients.
-  Updated: 2025-09-30T01:19:41Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Burns
   Product Type: Sensitive Dry
   Availability: Available
@@ -6033,7 +6012,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dr-john-grain-free-chicken-working-dry-125kg-878621.jpg?v=1701189209
     Price: £36.84 GBP
 - [Dr John Hypoallergenic Lamb with Rice for Sensitive Dogs](https://veryimportantpets.shop/products/dr-john-hypoallergenic-lamb): Dr. John Hypoallergenic Lamb with Rice is a wheat-free recipe with 26% lamb for sensitive stomachs in working dogs. Ideal for adult and senior dogs.
-  Updated: 2025-09-29T22:28:16Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Dr John
   Product Type: Working Dry
   Availability: Available
@@ -6096,13 +6075,13 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dr-john-titanium-working-dry-15-kg-187505.jpg?v=1701188345
     Price: £23.99 GBP
 - [Eukanuba Adult Large Breed Fresh Chicken Dry Dog Food](https://veryimportantpets.shop/products/eukanuba-adult-large-breed-chicken): Eukanuba Adult Large Breed Chicken dry food with fresh chicken for large adult dogs. Promotes healthy digestion, skin, coat, joints, and bones.
-  Updated: 2025-10-01T09:28:02Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-adult-large-breed-fresh-chicken-dry-dog-food-adult-dry-3-x-3-kg-9332662.webp?v=1757169238
   - [3 x 3 kg](https://veryimportantpets.shop/products/eukanuba-adult-large-breed-chicken?variant=47147494572322)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-adult-large-breed-fresh-chicken-dry-dog-food-adult-dry-3-x-3-kg-9332662.webp?v=1757169238
     Price: £54.52 GBP
   - [12 kg](https://veryimportantpets.shop/products/eukanuba-adult-large-breed-chicken?variant=47147494605090)
@@ -6152,7 +6131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-adult-small-breed-fresh-chicken-dry-dog-food-adult-dry-12-kg-320274.png?v=1709160215
     Price: £44.65 GBP
 - [Eukanuba Adult Small/Medium Breed Lamb & Rice Dry Dog Food](https://veryimportantpets.shop/products/eukanuba-adult-dog-small-medium-breed-lamb-dry): Eukanuba Adult Small/Medium Breed Lamb & Rice dry food with lamb, rice, and chicken for active dogs. Promotes healthy digestion and strong muscles.
-  Updated: 2025-09-26T08:28:14Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
@@ -6222,13 +6201,13 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-daily-care-sensitive-joints-adult-all-breeds-dry-dog-food-sensitive-dry-3x23kg-237608.png?v=1711204925
     Price: £41.31 GBP
 - [Eukanuba Daily Care Ocean Fish Dry Dog Food Sensitive Skin](https://veryimportantpets.shop/products/eukanuba-d-care-sensitive-skin): Eukanuba Daily Care Ocean Fish Dry Dog Food is hypoallergenic, with single source protein for sensitive dogs. Enriched with omega 6 & 3 for healthy skin & coat.
-  Updated: 2025-09-26T17:28:24Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Eukanuba
   Product Type: Sensitive Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-daily-care-sensitive-skin-adult-all-breeds-dry-dog-food-sensitive-dry-3x23kg-797447.png?v=1709160215
   - [3x2.3kg](https://veryimportantpets.shop/products/eukanuba-d-care-sensitive-skin?variant=47147499290914)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-daily-care-sensitive-skin-adult-all-breeds-dry-dog-food-sensitive-dry-3x23kg-797447.png?v=1709160215
     Price: £41.31 GBP
   - [12 kg](https://veryimportantpets.shop/products/eukanuba-d-care-sensitive-skin?variant=47147499258146)
@@ -6313,7 +6292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-mature-large-breed-fresh-chicken-dry-dog-food-12-kg-adult-dry-778341.png?v=1709160213
   Price: £44.65 GBP
 - [Eukanuba Mature Medium Breed Dog Food - Tailored Nutrition](https://veryimportantpets.shop/products/eukanuba-mature-medium-breed-chicken): Eukanuba Mature Medium Breed Chicken offers tailored nutrition for medium-sized mature dogs aged 7-10 years. Supports healthy ageing & weight management.
-  Updated: 2025-09-24T22:28:22Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
@@ -6334,13 +6313,13 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-mature-small-breed-fresh-chicken-dry-dog-food-4x2kg-adult-dry-442242.png?v=1709160217
   Price: £52.45 GBP
 - [Eukanuba Large Breed Puppy Food: Chicken Kibbles for Growth](https://veryimportantpets.shop/products/eukanuba-puppy-large-chicken): Nourish your large breed puppy with Eukanuba Dry Food made with fresh chicken for optimal growth and development, enriched with DHA and calcium.
-  Updated: 2025-10-01T09:28:02Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Eukanuba
   Product Type: Puppy/Junior Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-puppy-large-breed-fresh-chicken-dry-dog-food-puppyjunior-dry-3-x-3-kg-1892785.webp?v=1757068948
   - [3 x 3 kg](https://veryimportantpets.shop/products/eukanuba-puppy-large-chicken?variant=47147501388066)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-puppy-large-breed-fresh-chicken-dry-dog-food-puppyjunior-dry-3-x-3-kg-1892785.webp?v=1757068948
     Price: £55.95 GBP
   - [12 kg](https://veryimportantpets.shop/products/eukanuba-puppy-large-chicken?variant=47147501355298)
@@ -6432,14 +6411,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/fold-hill-mini-mixer-meal-15-kg-mixer-dog-biscuits-437223.png?v=1736528944
   Price: £31.47 GBP
 - [Fold Hill Adult Complimentary Mixer Meal for Dogs - 15kg](https://veryimportantpets.shop/products/fold-hill-mixer-15-kg): Fold Hill Adult Mixer Meal for a balanced diet for dogs, made with whole wheatmeal and natural oils for a shiny coat and overall health. Lincolnshire crafted.
-  Updated: 2025-09-30T13:27:54Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Fold Hill
   Product Type: Mixer Dog Biscuits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/fold-hill-adult-dog-mixer-meal-15-kg-mixer-dog-biscuits-854322.png?v=1736528944
   Price: £29.99 GBP
 - [Fold Hill Plain Terrier Meal Mixer Dry Dog Food - 15kg](https://veryimportantpets.shop/products/fold-hill-plain-terrier-meal-15-kg): Fold Hill Plain Terrier Meal Mixer Dry Dog Food, with natural fibre and essential nutrients, is the perfect crunchy complement to your dog's diet.
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Fold Hill
   Product Type: Mixer Dog Biscuits
   Availability: Available
@@ -6534,13 +6513,13 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gelert-country-choice-grain-free-turkey-veg-working-dry-12-kg-559334.jpg?v=1710018239
   Price: £40.09 GBP
 - [Gelert Country Choice Maintenance Chicken & Rice](https://veryimportantpets.shop/products/gelert-country-choice-maintenance-chicken-rice): Gelert Country Choice Maintenance Chicken Adult is a complete working dog food for those that enjoy the great taste of chicken. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:29Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Gelert
   Product Type: Working Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gelert-country-choice-maintenance-chicken-rice-working-dry-12-kg-927851.jpg?v=1700654379
   - [12 kg](https://veryimportantpets.shop/products/gelert-country-choice-maintenance-chicken-rice?variant=47147508433186)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gelert-country-choice-maintenance-chicken-rice-working-dry-12-kg-927851.jpg?v=1700654379
     Price: £28.28 GBP
   - [2 kg](https://veryimportantpets.shop/products/gelert-country-choice-maintenance-chicken-rice?variant=47147508465954)
@@ -6611,14 +6590,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gusto-puppy-junior-12-kg-working-dry-341488.jpg?v=1700654200
   Price: £22.68 GBP
 - [Harringtons Dog Active Worker Lamb & Rice 15 kg](https://veryimportantpets.shop/products/harringtons-dog-active-worker-lamb-15-kg): Harringtons Active Worker is a complete Dry food with Lamb &amp; Rice. Shop online at Very Important Pets
-  Updated: 2025-10-01T05:27:35Z
+  Updated: 2025-10-01T13:28:33Z
   Vendor: Harringtons
   Product Type: Working Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dog-active-worker-lamb-15-kg-working-dry-280745.jpg?v=1700654111
   Price: £30.99 GBP
 - [Harringtons Adult Beef and Rice Dog Food nutritious recipe](https://veryimportantpets.shop/products/harringtons-adult-dog-beef-rice): Give your dog a tasty and nutritious meal with Harringtons Adult Beef and Rice Dog Food. Rich in beef protein, vitamins, and minerals for a healthy life.
-  Updated: 2025-09-30T13:27:55Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6646,7 +6625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-adult-dog-food-rich-in-chicken-rice-adult-dry-3-x-4kg-697165.png?v=1709123459
     Price: £31.17 GBP
 - [Harringtons Adult Dog Grain-Free Superfoods Chicken with Veg](https://veryimportantpets.shop/products/harringtons-dog-grain-free-superfood-chicken): Harringtons Adult Grain Free Superfoods Chicken & Vegetables provides high meat protein for energy and vitality. Hypoallergenic with 6 superfoods.
-  Updated: 2025-09-30T21:10:23Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Harringtons
   Product Type: Sensitive Dry
   Availability: Available
@@ -6660,7 +6639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-adult-dog-grain-free-superfood-chicken-with-veg-sensitive-dry-12-kg-670147.png?v=1700654137
     Price: £37.99 GBP
 - [Harringtons Adult Dog Grain-Free Superfoods Salmon with Veg](https://veryimportantpets.shop/products/harringtons-dog-grain-free-superfood-salmon): Harringtons Superfoods Grain-Free Dry Dog Food is a hypoallergenic recipe with 6 superfoods and high meat Salmon for dogs with sensitive stomachs.
-  Updated: 2025-09-30T21:10:24Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Harringtons
   Product Type: Sensitive Dry
   Availability: Available
@@ -6723,7 +6702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/harringtons-just-6-salmon-dry-dog-food-adult-dry-4x2kg-351572.jpg?v=1727991994
     Price: £44.09 GBP
 - [Harringtons Adult Lamb and Rice Dog Food - Natural Goodness](https://veryimportantpets.shop/products/harringtons-dog-lamb-rice): Give your dog the best with Harringtons Adult Lamb and Rice Dog Food. Packed with freshly prepared meat, veggies, vitamins, and minerals for a healthy life.
-  Updated: 2025-09-29T17:28:26Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6783,7 +6762,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-senior-dog-food-rich-in-chicken-rice-senior-dry-12-kg-616304.png?v=1709123462
     Price: £31.47 GBP
 - [Harringtons Rich in Turkey & Veg Dry Dog Food](https://veryimportantpets.shop/products/harringtons-dog-turkey-veg): Harringtons Rich in Turkey with Veg is a premium complete dry dog food for dogs aged 8 weeks and over. Made with real meat and no artificial additives.
-  Updated: 2025-09-30T13:27:58Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6814,13 +6793,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-puppy-grain-free-dry-superfood-chicken-with-veg-puppyjunior-dry-10-kg-256913.png?v=1700654017
     Price: £35.20 GBP
-- [Harringtons Puppy Chicken & Rice 10 kg](https://veryimportantpets.shop/products/harringtons-puppy-chicken-rice-10-kg): Harringtons Dry Puppy Chicken & Rice is a nutritious and balanced food for growing puppies. Contains no artificial colours or flavours.
-  Updated: 2025-09-26T08:28:11Z
-  Vendor: Harringtons
-  Product Type: Puppy/Junior Dry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-puppy-food-rich-in-chicken-rice-10kg-puppyjunior-dry-271127.png?v=1708950806
-  Price: £29.38 GBP
 - [Harringtons Puppy Salmon & Rice 10 kg](https://veryimportantpets.shop/products/harringtons-puppy-salmon-rice-10-kg): Harringtons Puppy Salmon & Rice Food is carefully formulated for puppies from 3 weeks onward. No artificial colors or flavors, dairy, soya, or added wheat.
   Updated: 2025-09-26T22:28:06Z
   Vendor: Harringtons
@@ -6829,7 +6801,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-puppy-food-rich-in-salmon-rice-10kg-puppyjunior-dry-657206.png?v=1708950806
   Price: £29.32 GBP
 - [Harringtons Puppy Turkey & Rice](https://veryimportantpets.shop/products/harringtons-puppy-turkey-rice): Harringtons Puppy Rich in Turkey & Rice is a complete pet food for puppies from 3 weeks, with no artificial additives. Perfect for growing pups!
-  Updated: 2025-09-30T13:28:08Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Harringtons
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -6850,7 +6822,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-small-breed-adult-dog-food-rich-in-lamb-rice-adult-dry-5x1kg-655109.png?v=1708950806
   Price: £20.33 GBP
 - [Harringtons Small Breed Dog Adult Turkey & Rice Food 5x 1kg](https://veryimportantpets.shop/products/harringtons-small-dog-turkey-5x1kg): Harringtons Small Breed Dog Adult Turkey & Rice. Tasty, nutritious recipe with fresh meat, veggies, vitamins, minerals. No nasties, just natural goodness.
-  Updated: 2025-09-22T18:53:22Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6899,14 +6871,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/iams-adult-dog-vitality-large-breed-fresh-chicken-adult-dry-12-kg-399092.png?v=1700653904
     Price: £34.47 GBP
 - [IAMS for Vitality Adult Large Breed Lamb Dry Dog Food 12 kg](https://veryimportantpets.shop/products/iams-dog-adult-vitality-large-breed-lamb-12-kg): IAMS for Vitality large breed adult dog food is a 100% complete and balanced expert nutrition to help support your dog’s 7 signs of healthy vitality. Shop online at Very Important Pets
-  Updated: 2025-09-26T08:28:15Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: IAMS
   Product Type: Adult Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/iams-adult-dog-vitality-large-breed-lamb-12-kg-adult-dry-933476.png?v=1700653891
   Price: £34.47 GBP
 - [IAMS Vitality Light in fat Adult All Breed Fresh Chicken Dry](https://veryimportantpets.shop/products/iams-adult-dog-vitality-light-in-fat-chicken): IAMS for Vitality Light in fat dog food for all breed adult and senior dogs is a 100% complete and balanced expert nutrition that helps to support your dog’s 7 signs of healthy vitality whilst managing your canine companion’s weight.
-  Updated: 2025-09-28T17:28:21Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: IAMS
   Product Type: Diet Dry
   Availability: Available
@@ -7025,7 +6997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/james-wellbeloved-adult-fish-veg-grain-free-dry-dog-food-adult-dry-10-kg-697132.jpg?v=1741750842
     Price: £74.53 GBP
 - [James Wellbeloved Dog Adult Lamb & Rice](https://veryimportantpets.shop/products/james-wellbeloved-dog-adult-lamb-rice): James Wellbeloved Lamb &amp; Rice Adult Dog Food has been made with natural ingredients that have been enhanced with specialist vitamins &amp; minerals to provide a complete food. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:27Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: James Wellbeloved
   Product Type: Adult Dry
   Availability: Available
@@ -7113,7 +7085,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-dog-adult-small-breed-turkey-rice-adult-dry-75-kg-360419.jpg?v=1700653576
     Price: £41.00 GBP
 - [James Wellbeloved Grain-Free Small Breed Turkey Dog Food](https://veryimportantpets.shop/products/james-wellbeloved-dog-adult-grain-free-small-breed-turkey-veg): James Wellbeloved Adult Turkey & Veg Grain-Free Small Breed Dry Dog Food is a nutritionally balanced diet for small breed dogs, ideal for grain-free diets.
-  Updated: 2025-09-30T21:10:26Z
+  Updated: 2025-10-01T13:35:57Z
   Vendor: James Wellbeloved
   Product Type: Adult Dry
   Availability: Available
@@ -7243,7 +7215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-dog-senior-lamb-veg-grain-free-senior-dry-10-kg-731102.jpg?v=1700653492
     Price: £74.53 GBP
 - [James Wellbeloved Dog Senior Small Turkey & Rice](https://veryimportantpets.shop/products/james-wellbeloved-dog-senior-small-turkey-rice): James Wellbeloved Turkey &amp; Rice Small Senior Dog Food has no added artificial colours flavours or preservatives. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:26Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: James Wellbeloved
   Product Type: Senior Dry
   Availability: Available
@@ -7424,7 +7396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/lilys-kitchen-senior-recipe-8-senior-dry-7-kg-162619.jpg?v=1700652028
     Price: £62.56 GBP
 - [Natures Menu Superfood Mighty Mixer - Nutritious Dog Topper](https://veryimportantpets.shop/products/natures-menu-country-hunter-super-might-mix-1-2-kg): Natures Menu Superfood Mighty Mixer: Nutritious blend of oats, fruits, & veggies, gently baked for freshness. Ideal dry topper for your dog's raw meal.
-  Updated: 2025-09-22T18:53:31Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Natures Menu
   Product Type: Mixer Dog Biscuits
   Availability: Available
@@ -7508,7 +7480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-complete-junior-puppy-dry-dog-food-with-poultry-and-veg-puppyjunior-dry-3-x-3kg-309148.webp?v=1737269182
     Price: £29.80 GBP
 - [Pedigree Adult Small Bite Dry Mixer Original Dog Food - 12kg](https://veryimportantpets.shop/products/pedigree-small-bite-mixer-original-6x2kg): Pedigree Adult Small Dog Dry Mixer Original Dog Food complements Pedigree canned/pouched food for a healthy, balanced meal. Wet+dry combo for dental health.
-  Updated: 2025-10-01T09:28:02Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Pedigree
   Product Type: Mixer Dog Biscuits
   Availability: Available
@@ -7591,20 +7563,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pro-plan-small-and-mini-adult-dog-sensitive-skin-salmon-dry-dog-food-3kg-sensitive-dry-119468.png?v=1709037765
   Price: £22.12 GBP
-- [Pro Plan Large Robust Puppy Dry Chicken Food Healthy Start](https://veryimportantpets.shop/products/pro-plan-puppy-large-robust-chicken-dry): Pro Plan Puppy Large Robust Chicken. Complete pet food for large puppies with robust physique. Suitable for gestating/lactating bitches. Essential nutrients.
-  Updated: 2025-09-26T13:28:43Z
-  Vendor: Pro Plan
-  Product Type: Puppy/Junior Dry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pro-plan-large-robust-puppy-healthy-start-chicken-dry-dog-food-puppyjunior-dry-3-kg-567713.webp?v=1725695912
-  - [3 kg](https://veryimportantpets.shop/products/pro-plan-puppy-large-robust-chicken-dry?variant=49100874416418)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pro-plan-large-robust-puppy-healthy-start-chicken-dry-dog-food-puppyjunior-dry-3-kg-567713.webp?v=1725695912
-    Price: £20.10 GBP
-  - [12 kg](https://veryimportantpets.shop/products/pro-plan-puppy-large-robust-chicken-dry?variant=49100872450338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pro-plan-puppy-large-robust-chicken-12-kg-puppyjunior-dry-667451.jpg?v=1725633518
-    Price: £57.99 GBP
 - [Pro Plan Medium Puppy Sensitive Digestion Lamb Dry Food](https://veryimportantpets.shop/products/pro-plan-puppy-medium-sensitive-digestion-lamb): Support your medium puppy's sensitive digestion with Pro Plan Sensitive Digestion Lamb dry dog food. High-quality ingredients for a thriving digestive system.
   Updated: 2025-09-26T08:28:15Z
   Vendor: Pro Plan
@@ -7711,7 +7669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-cocker-spaniel-adult-dry-12-kg-304188.jpg?v=1700649060
     Price: £90.73 GBP
 - [Royal Canin Dachshund](https://veryimportantpets.shop/products/royal-canin-dachshund): Royal Canin Dachshund is a complete food designed to suit the unique nutritional needs that tis funny little breed faces on a day to day basis. Shop online at Very Important Pets
-  Updated: 2025-09-27T13:28:08Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Royal Canin
   Product Type: Adult Dry
   Availability: Available
@@ -8042,7 +8000,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-pug-puppy-15-kg-puppyjunior-dry-379287.png?v=1708686934
   Price: £19.37 GBP
 - [Royal Canin Shih Tzu 1.5 kg](https://veryimportantpets.shop/products/royal-canin-shih-tzu-1-5-kg): Royal Canin Shih Tzu is a complete food designed to keep the Shih Tzu in great shape if they are living a healthy active lifestyle. Shop online at Very Important Pets
-  Updated: 2025-09-29T17:28:30Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Royal Canin
   Product Type: Adult Dry
   Availability: Available
@@ -8119,7 +8077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-grain-free-chicken-working-dry-15-kg-679311.png?v=1700648701
     Price: £51.75 GBP
 - [Skinners Field & Trial Junior Chicken](https://veryimportantpets.shop/products/skinners-field-trial-junior-chicken): Skinners Field &amp; Trial Junior Chicken is a complete dog food specially developed and formulated to support the continued growth and development of puppies (from approximately six months old) and young dogs. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-01T13:28:40Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8273,7 +8231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-light-senior-working-dry-15-kg-664646.png?v=1700648687
     Price: £39.33 GBP
 - [Skinners Field & Trial Puppy Chicken](https://veryimportantpets.shop/products/skinners-field-trial-puppy-chicken): Skinners Field &amp; Trial Puppy Chicken is a complete dog food specially developed and formulated to support the early growth and development of puppies. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:28:01Z
+  Updated: 2025-10-01T13:28:37Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8406,7 +8364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/sneyds-wonderdog-special-15-kg-working-dry-181837.png?v=1700648399
   Price: £32.95 GBP
 - [VetSpec Calm & Focused Dry Dog Food for Anxiety & Training](https://veryimportantpets.shop/products/vetspec-complete-dog-calm-focused): VetSpec Calm & Focused Formula Dry Dog Food: A cereal-grain-free, super-premium blend for anxious or over-excited dogs, aiding focus and obedience.
-  Updated: 2025-09-29T22:28:17Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -8434,7 +8392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-healthy-dog-adult-formula-with-chicken-dry-dog-food-adult-dry-2-kg-893504.jpg?v=1731606869
     Price: £17.44 GBP
 - [VetSpec Healthy Dog Adult Salmon Formula Premium Grain-Free](https://veryimportantpets.shop/products/vetspec-complete-dog-healthy-adult-salmon): VetSpec Healthy Dog Adult Salmon Formula: 55% salmon, grain-free, enriched with Omega-3 for healthy joints. Ideal for dogs who prefer salmon over chicken.
-  Updated: 2025-09-30T13:28:01Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -8448,7 +8406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetspec-complete-dog-healthy-adult-salmon-adult-dry-2-kg-769576.png?v=1723823480
     Price: £18.45 GBP
 - [VetSpec Omega-3 Joint Mobility Formula Adult Dry Dog Food](https://veryimportantpets.shop/products/vetspec-complete-dog-joint-mobility): VetSpec Omega-3 Joint Mobility Formula - super-premium, cereal-grain-free formula rich in DHA, EPA, glucosamine, and chondroitin. Ideal for joint health.
-  Updated: 2025-09-29T17:28:31Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -8476,7 +8434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-complete-dog-super-lite-diet-dry-12-kg-173944.jpg?v=1731553571
     Price: £62.99 GBP
 - [VetSpec Puppy & Junior Chicken Formula Dry Dog Food](https://veryimportantpets.shop/products/vetspec-complete-puppy-junior-chicken): Give your young dog the best start in life with VetSpec Puppy & Junior Formula. Cereal-grain-free, 60% chicken, suitable from 4 weeks to 12 months.
-  Updated: 2025-09-30T13:28:01Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: VetSpec
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -8490,7 +8448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetspec-complete-puppy-junior-chicken-puppyjunior-dry-12-kg-168913.png?v=1708605425
     Price: £63.14 GBP
 - [VetSpec Complete Puppy & Junior Salmon Formula Dry Dog Food](https://veryimportantpets.shop/products/vetspec-complete-puppy-junior-salmon): Give your puppy the best start with VetSpec Complete Puppy & Junior Salmon Formula Dry Dog Food. 55% salmon, cereal-grain-free, and vet-approved.
-  Updated: 2025-09-22T18:54:06Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: VetSpec
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -8504,7 +8462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-complete-puppy-junior-salmon-puppyjunior-dry-12-kg-704975.jpg?v=1731553570
     Price: £64.71 GBP
 - [VetSpec SuperLite Senior Dog Dry Food Formula - Grain Free](https://veryimportantpets.shop/products/vetspec-complete-senior-super-lite): VetSpec SuperLite Senior Dog Dry Food Formula - A cereal-grain-free, super premium formula with 50% chicken, vegetables, herbs, and essential antioxidants.
-  Updated: 2025-09-30T13:28:03Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: VetSpec
   Product Type: Senior Dry
   Availability: Available
@@ -8658,7 +8616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-puppy-complete-puppyjunior-dry-6x2kg-921070.jpg?v=1700646723
     Price: £25.65 GBP
 - [Wagg Senior Complete](https://veryimportantpets.shop/products/wagg-senior-complete): Wagg Complete Senior Dog Food utilises Glucosamine &amp; Chondroitin to give older dogs the extra support that they need. Shop online at Very Important Pets
-  Updated: 2025-09-26T08:28:15Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Wagg
   Product Type: Senior Dry
   Availability: Available
@@ -8686,7 +8644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-wheat-free-complete-chicken-and-rice-sensitive-dry-12-kg-961666.jpg?v=1700646715
     Price: £24.62 GBP
 - [Alpha Working Maintenance - Balanced Diet for Active Dogs](https://veryimportantpets.shop/products/alpha-adult-maintainance-worker-dog-beef-15-kg): Alpha Working Maintenance provides balanced diet with freshly cooked meat and vitamins for energy control. Ideal for active and overweight adult dogs.
-  Updated: 2025-10-01T09:35:27Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -9071,7 +9029,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bow-wow-mini-salami-beef-dog-treats-60x20g-dog-treats-483598.jpg?v=1701107668
   Price: £30.65 GBP
 - [Bow Wow Super Sausage Dog Treat with Dandelion and Chamomile](https://veryimportantpets.shop/products/bow-wow-super-sausage-dog-treats-24x200g): Bow Wow Super Sausage Dog Treat: Thick, chewy meaty sausage dogs love! Rich beef flavour, cleans teeth, ideal for larger dogs with dandelion & chamomile.
-  Updated: 2025-09-27T22:28:05Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Bow Wow
   Product Type: Training Treats
   Availability: Available
@@ -9096,7 +9054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bow-wow-yum-yums-dog-treats-dog-treats-mint-572110.jpg?v=1754757899
     Price: £26.99 GBP
 - [Burns Hearty Lamb with Carrots and Brown Rice Wet Dog Food](https://veryimportantpets.shop/products/burns-dog-tray-hearty-lamb): Wholesome lamb with carrots and brown rice, hand-cooked in Wales. Ideal for adult & senior dogs, fussy eaters, and sensitive pups. No artificial ingredients.
-  Updated: 2025-09-30T13:27:57Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Burns
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -9110,7 +9068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/burns-dog-tray-hearty-lamb-adult-wet-6x395g-393647.jpg?v=1718991421
     Price: £3.30 GBP
 - [Burns Free Range Chicken with Carrots & Rice Wet Dog Food](https://veryimportantpets.shop/products/burns-dog-tray-organic-chicken): Hand cooked in Wales with responsibly sourced ingredients, our Free Range Chicken & Carrots wet dog food is hypoallergenic & gluten free. Perfect for all dogs.
-  Updated: 2025-09-30T13:27:56Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Burns
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -9138,7 +9096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-wholesome-turkey-with-carrots-brown-rice-wet-dog-food-trays-hypoallergenic-wet-8-x-395-g-7760900.jpg?v=1758299898
     Price: £3.30 GBP
 - [Burns Wild Fish with Carrots & Rice - Gluten Free Wet Food](https://veryimportantpets.shop/products/burns-dog-tray-wild-fish): Burns sustainably sourced Wild Fish with Carrots & Brown Rice is hand-cooked in Wales. Natural, hypoallergenic, gluten-free & low-fat for adult & senior dogs.
-  Updated: 2025-09-27T13:28:06Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Burns
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -9152,7 +9110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-wild-fish-carrots-brown-rice-wet-dog-food-trays-hypoallergenic-wet-8-x-395-g-3170355.jpg?v=1758299896
     Price: £3.30 GBP
 - [Cesar Pouch Deliciously Fresh Favourites in Jelly 4x (12x100g)](https://veryimportantpets.shop/products/cesar-pouch-deliciously-fresh-favourites-in-jelly-4x-12x100g): Cesar Pouch Deliciously Fresh Favourites in Jelly. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:31Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Cesar
   Product Type: Adult Wet
   Availability: Available
@@ -9236,7 +9194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chappie-tins-loaf-favourites-jumbo-pack-4x-6x412g-sensitive-wet-444044.jpg?v=1701107697
   Price: £43.10 GBP
 - [Chappie Tins Original 12x412g](https://veryimportantpets.shop/products/chappie-tins-original-12x412g): Chappie Tins original are made with fish chicken and cereal. Shop online at Very Important Pets
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:28Z
   Vendor: Chappie
   Product Type: Adult Wet
   Availability: Available
@@ -9256,13 +9214,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/classic-munchy-kebabs-x20-dog-treats-366698.jpg?v=1701107823
   Price: £10.99 GBP
-- [Classic Munchy Lollipop x50](https://veryimportantpets.shop/products/classic-munchy-lollipop-x50): Rawhide Munchy's are made from the finest Rawhide and Starch. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:41Z
-  Vendor: Classic
-  Product Type: Dog Treats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/classic-munchy-lollipop-x50-dog-treats-737822.jpg?v=1701107817
-  Price: £12.30 GBP
 - [Classic Munchy Mini Rolls Assorted 100x5"](https://veryimportantpets.shop/products/classic-munchy-mini-rolls-assorted-100x5): Rawhide Munchy's are made from the finest Rawhide and Starch. Shop online at Very Important Pets
   Updated: 2025-10-01T09:28:03Z
   Vendor: Classic
@@ -9320,7 +9271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/classic-rawhide-cigars-natural-treats-50x5-575838.jpg?v=1701107823
     Price: £19.99 GBP
 - [Classic Rawhide Flat Dog Chews 100x6.5"](https://veryimportantpets.shop/products/classic-rawhide-flat-dog-chews-100x6-5): Rawhide Flats from Classic provide a healthy long lasting natural treat that your dog will love. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:35Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Classic
   Product Type: Dog Chew
   Availability: Available
@@ -9353,7 +9304,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/classic-rawhide-knots-dog-chews-natural-treats-20x11cm-476448.jpg?v=1701107815
     Price: £13.12 GBP
 - [Classic Rawhide Knuckles 10x](https://veryimportantpets.shop/products/classic-rawhide-knuckles-10x): Rawhide knuckles from Classic provide a healthy long lasting natural treat that your dog will love. Shop online at Very Important Pets
-  Updated: 2025-10-01T09:28:03Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Classic
   Product Type: Natural Treats
   Availability: Available
@@ -9381,7 +9332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/classic-rawhide-knuckles-20x-natural-treats-17cm-942099.jpg?v=1701107821
     Price: £25.64 GBP
 - [Classic Rawhide Shoes 10x](https://veryimportantpets.shop/products/classic-rawhide-shoes-10x): Rawhide Shoes from Classic provide a healthy long lasting natural treat that your dog will love. Shop online at Very Important Pets
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Classic
   Product Type: Natural Treats
   Availability: Available
@@ -9514,14 +9465,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dentalife-small-dog-3x345g-63-sticks-dental-chew-treats-451657.jpg?v=1701107819
   Price: £10.60 GBP
 - [Forthglade Grain Free Beef Sweet Potato Veg Trays 18x395g](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-beef-with-sweet-potato-veg-trays-18x395g): Give your dog the best with Forthglade Complete Grain-Free Beef Wet Dog Food. 75% beef, sweet potato, and veggies for a tasty, nutritious, hypoallergenic meal.
-  Updated: 2025-09-30T13:27:55Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Sensitive Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-complete-grain-free-beef-with-sweet-potato-veg-trays-18x395g-adult-wet-910438.jpg?v=1723918287
   Price: £29.49 GBP
 - [Forthglade Adult Complete Grain Free Chicken with Liver Trays](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-chicken-with-liver-trays-18x395g): Delicious grain-free dog food with 75% chicken and liver. Packed with protein and gentle on sensitive tummies. Complete meal for your furry friend.
-  Updated: 2025-09-30T13:27:56Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Sensitive Wet
   Availability: Available
@@ -9535,35 +9486,35 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-dog-complete-grain-free-chicken-with-butternut-squash-veg-18x395g-hypoallergenic-wet-713705.jpg?v=1724006808
   Price: £29.49 GBP
 - [Forthglade Adult Complete Grain Free Duck with Veg 18x395g](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-duck-18x395g): Nutritious wet duck meal for dogs, grain-free & hypoallergenic. Packed with vegetables, gently steamed for natural goodness. Tail-waggingly good!
-  Updated: 2025-09-30T17:27:52Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Sensitive Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-complete-grain-free-duck-with-potatoes-veg-food-trays-18x395g-sensitive-wet-350146.jpg?v=1723918284
   Price: £29.49 GBP
 - [Forthglade Grain-Free Lamb Wet Dog Food 18x395g Tray Pack](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-lamb-18x395g): Give your dog a nutritious meal with Forthglade Complete Grain-Free Lamb Dog Food recipe, packed with natural goodness like butternut squash & veggies.
-  Updated: 2025-09-30T13:27:54Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Adult Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-complete-grain-free-lamb-with-butternut-squash-veg-18x395g-adult-wet-745903.jpg?v=1723918285
   Price: £29.49 GBP
 - [Forthglade Salmon Grain Free Adult Wet Dog Food 18x395g Pack](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-salmon-18x395g): Give your dog the best with Forthglade Complete Grain Free Salmon Adult Dog Food. Packed with 75% salmon and veggies, it's gentle on sensitive tummies.
-  Updated: 2025-09-24T13:28:27Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Forthglade
   Product Type: Sensitive Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-complete-grain-free-salmon-with-potato-veg-trays-18x395g-sensitive-wet-298158.jpg?v=1723918284
   Price: £29.49 GBP
 - [Forthglade Adult Complete Grain Free Sardines & Veg 18x395g](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-sardines-18x395g): Tasty grain-free fish wet food with 75% sardines, veggies, & added vitamins. Nutrient-rich, hypoallergenic, & easy to digest for happy, healthy dogs.
-  Updated: 2025-09-24T13:28:56Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Forthglade
   Product Type: Adult Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-dog-complete-grain-free-sardines-with-sweet-potato-veg-trays-18x395g-adult-wet-239234.jpg?v=1724006808
   Price: £29.49 GBP
 - [Forthglade Grain-Free Turkey Complete Wet Dog Food 18x395g](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-turkey-18x395g): Nutritionally balanced, grain free wet dog food with 75% turkey, sweet potato, veggies, & added vitamins for a healthy, tasty meal. Shop at Very Important Pets.
-  Updated: 2025-09-26T09:27:40Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Forthglade
   Product Type: Adult Wet
   Availability: Available
@@ -9605,7 +9556,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/OI_12x395g_Just_VP_Chick_Liv_Chick_Turk_ADT_FRONT_3c44751d-dba1-4aaf-8db8-278af36e79ca.jpg?v=1723930311
   Price: £19.48 GBP
 - [Forthglade Chicken & Brown Rice Trays 18x395g Adult Complete](https://veryimportantpets.shop/products/forthglade-adult-complete-chicken-trays-18x395g): Forthglade Complete with Chicken & Brown Rice is a hypoallergenic, wholegrain wet meal for dogs. 75% quality chicken mixed with veggies for a balanced diet.
-  Updated: 2025-09-26T09:27:45Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Adult Wet
   Availability: Available
@@ -9633,7 +9584,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-complete-turkey-lamb-chicken-with-rice-variety-pack-12x395g-adult-wet-595955.jpg?v=1723918413
   Price: £19.79 GBP
 - [Forthglade Adult Dog Turkey Brown Rice Veg Trays 18x395g](https://veryimportantpets.shop/products/forthglade-adult-complete-turkey-brown-rice-veg-trays-18x395g): Forthglade Complete Turkey with Brown Rice & Vegetables is a wholesome, easy to digest meal for dogs. 75% turkey, no junk, perfect for healthy digestion.
-  Updated: 2025-09-26T09:27:47Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Forthglade
   Product Type: Adult Wet
   Availability: Available
@@ -9703,21 +9654,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-fresh-breath-peppermint-parsley-dog-treats-8-x-90g-packs-dental-chew-treats-5710634.jpg?v=1751836308
   Price: £16.14 GBP
 - [Forthglade Lamb Soft Bites Dog Treats - Grain-Free 8 Pack](https://veryimportantpets.shop/products/forthglade-natural-soft-bites-lamb-treats-8-x-90g): Forthglade Natural Soft Bites Lamb Dog Treats - grain-free, hand-baked, high-reward snack for pups 2 months+. Easy on digestion, perfect for training.
-  Updated: 2025-10-01T09:35:26Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Forthglade
   Product Type: Sensitive Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-soft-bites-lamb-dog-treats-8-x-90g-sensitive-treats-9830152.jpg?v=1757439296
   Price: £15.66 GBP
 - [Forthglade Salmon Soft Bites Dog Treats - Grain-Free 8 Pack](https://veryimportantpets.shop/products/forthglade-natural-soft-bites-salmon-treats-8-x-90g): Forthglade Natural Soft Bites Salmon Dog Treats are grain-free, hand-baked treats crafted with only natural ingredients for fish-loving dogs.
-  Updated: 2025-09-30T21:10:22Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Forthglade
   Product Type: Sensitive Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-soft-bites-salmon-dog-treats-8-x-90g-sensitive-treats-9678389.jpg?v=1757439296
   Price: £15.66 GBP
 - [Forthglade Turkey Soft Bites Dog Treats - 8 x 90g Packs](https://veryimportantpets.shop/products/forthglade-natural-soft-bites-turkey-treats-8-x-90g): Forthglade Natural Soft Bites Turkey Dog Treats - hand-baked, grain-free, and made with only natural ingredients. Perfect for all dogs over 2 months old.
-  Updated: 2025-09-30T21:10:23Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Forthglade
   Product Type: Sensitive Treats
   Availability: Available
@@ -9745,7 +9696,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/forthglade-puppy-complete-grain-free-chicken-18x395g-puppyjunior-wet-198646.jpg?v=1701108004
   Price: £29.49 GBP
 - [Forthglade Puppy Complete Grain Free Lamb 18x395g](https://veryimportantpets.shop/products/forthglade-puppy-complete-grain-free-lamb-18x395g): Forthglade Complete  Grain Free Puppy Lamb with Liver &amp; Veg. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:50Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Puppy/Junior Wet
   Availability: Available
@@ -9773,7 +9724,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-soft-bites-rewards-chicken-liver-dog-training-treats-8-x-90g-training-treats-9254398.jpg?v=1757298514
   Price: £16.14 GBP
 - [Forthglade Senior Lamb & Butternut Squash 18x395g](https://veryimportantpets.shop/products/forthglade-complete-grain-free-senior-lamb-butternut-squash-veg-18x395g): Forthglade Senior Lamb with Butternut Squash & Veg is tailor-made for senior dogs. 60% lamb, grain-free, hypoallergenic, and calorie-controlled.
-  Updated: 2025-09-30T13:27:57Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Forthglade
   Product Type: Senior Wet
   Availability: Available
@@ -9787,7 +9738,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-senior-complete-grain-free-turkey-lamb-duo-variety-pack-12x395g-senior-wet-170128.jpg?v=1724006913
   Price: £19.79 GBP
 - [Forthglade Grain-Free Senior Turkey Butternut Squash Dog Food](https://veryimportantpets.shop/products/forthglade-complete-grain-free-senior-turkey-butternut-squash-veg-18x395g): Forthglade Senior Turkey Butter Squash & Veg recipe for older dogs, grain-free & hypoallergenic. Contains omega-3, chondroitin, glucosamine for joint health.
-  Updated: 2025-09-24T13:29:10Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Forthglade
   Product Type: Senior Wet
   Availability: Available
@@ -9941,7 +9892,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/good-boy-chewy-lamb-strips-dog-treats-10-x-80g-dental-chew-treats-105022.jpg?v=1741850742
   Price: £22.48 GBP
 - [Good Boy Chewy Twists Chicken 10 x 90g](https://veryimportantpets.shop/products/good-boy-chewy-twists-chicken-10-x-90g): Good Boy Chewy Twists Chicken is made from 100% natural roast chicken breast meat that is of human grade. Shop online at Very Important Pets
-  Updated: 2025-09-30T09:11:38Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Good Boy
   Product Type: Natural Treats
   Availability: Available
@@ -9990,7 +9941,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-chicken-carrot-sticks-3x320g-natural-treats-583854.jpg?v=1701108006
   Price: £22.72 GBP
 - [Good Boy Chewy Chicken with Sweet Potato Sticks 10 x 90g](https://veryimportantpets.shop/products/good-boy-chewy-chicken-with-sweet-potato-sticks-10-x-90g): Good Boy Chewy Chicken with Sweet Potato Sticks are the perfect complementary snack for your dog to enjoy between meals. Shop online at Very Important Pets
-  Updated: 2025-09-23T17:28:00Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Good Boy
   Product Type: Natural Treats
   Availability: Available
@@ -10039,7 +9990,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-crunchy-chicken-rice-bones-x-100g-dog-treats-222199.jpg?v=1701108058
   Price: £18.99 GBP
 - [Good Boy Chewy Duck with Carrot Sticks 10 x 90g](https://veryimportantpets.shop/products/good-boy-chewy-duck-with-carrot-sticks-10-x-90g): Good Boy Chewy Duck with Carrot Sticks are made with super duper tasty 100% natural duck breast meat so are sure to become one of your dog’s favourite treats. Shop online at Very Important Pets
-  Updated: 2025-09-26T17:28:31Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Good Boy
   Product Type: Natural Treats
   Availability: Available
@@ -10067,7 +10018,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/good-boy-jumbo-chewy-twists-with-chicken-dog-treat-12-x-100g-diet-treats-635883.jpg?v=1741850745
   Price: £33.45 GBP
 - [Good Boy Mega Chewy Twist with Chicken 18 x 70g](https://veryimportantpets.shop/products/good-boy-mega-chewy-twist-with-chicken-18-x-70g): Good Boy Mega Chewy Twist with Chicken is made with super duper tasty 100% natural chicken breast meat so is sure to become one of your dog’s favourite treats. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:55Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Good Boy
   Product Type: Natural Treats
   Availability: Available
@@ -10081,7 +10032,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-twist-with-chicken-carrot-14-x-100g-natural-treats-167865.jpg?v=1701108002
   Price: £38.07 GBP
 - [Good Boy Mega Chewy Twist with Duck 18 x 70g](https://veryimportantpets.shop/products/good-boy-mega-chewy-twist-with-duck-18-x-70g): Good Boy Mega Chewy Twist with Duck is made with super duper tasty 100% natural duck breast meat so is sure to become one of your dog’s favourite treats. Shop online at Very Important Pets
-  Updated: 2025-09-29T17:28:27Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Good Boy
   Product Type: Natural Treats
   Availability: Available
@@ -10151,7 +10102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gwf-nutrition-digestive-aid-for-dogs-500-g-dog-supplements-849644.jpg?v=1701108060
   Price: £25.28 GBP
 - [GWF Joint Aid for Dogs - High Specification Joint Supplement](https://veryimportantpets.shop/products/gwf-nutrition-joint-aid-for-dogs-joint-supplement): Give your furry friend the freedom of movement they deserve with GWF Joint Aid for Dogs, a high specification supplement supporting joint health and flexibility.
-  Updated: 2025-09-30T13:27:53Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: GWF Nutrition
   Product Type: Supplements & Remedies
   Availability: Available
@@ -10246,7 +10197,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-fresh-bakes-grain-free-salmon-fish-bites-8x100g-sensitive-treats-707492.jpg?v=1741090699
   Price: £12.54 GBP
 - [Harringtons Fresh Bakes GF Chicken Training Treats for Dogs](https://veryimportantpets.shop/products/harringtons-fresh-bakes-grain-free-grain-free-training-treats-9-x-100g): Harringtons Fresh Bakes Training Treats are grain-free, human-grade quality snacks for dogs. Easily digestible and made with fresh ingredients.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Harringtons
   Product Type: Sensitive Treats
   Availability: Available
@@ -10260,14 +10211,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/harringtons-puppy-complete-chicken-trays-8x380g-puppyjunior-wet-886692.webp?v=1733423610
   Price: £14.22 GBP
 - [Hollings 100% Natural Chicken Feet 8 x 100g](https://veryimportantpets.shop/products/hollings-100-natural-chicken-feet-8-x-100g): Hollings natural dog treats are loved by dogs and owners alike. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:31Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-100-natural-chicken-feet-8-x-100g-natural-treats-254445.jpg?v=1741090704
   Price: £16.15 GBP
 - [Hollings 100% Natural Chicken Hearts 12 x 60g](https://veryimportantpets.shop/products/hollings-100-natural-chicken-hearts-12-x-60g): Hollings Chicken Hearts. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:04Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10281,7 +10232,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-100-natural-chicken-necks-8-x-120g-natural-treats-265948.jpg?v=1741090706
   Price: £16.15 GBP
 - [Hollings 100% Natural Venison Strips 12 x 5 Pack](https://veryimportantpets.shop/products/hollings-100-natural-venison-strips-12-x-5-pack): Hollings Venison Strips. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:03Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10334,7 +10285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/hollings-filled-bone-with-lamb-rice-20-bone-pack-natural-treats-468994.jpg?v=1737415721
   Price: £28.41 GBP
 - [Hollings Beef Filled Smoked Bone - Natural Dog Treat 20 pk](https://veryimportantpets.shop/products/hollings-filled-bone-smoked-x-20-box): Hollings Filled Smoked Beef Bone - a natural, high-quality treat for dogs to enjoy. Long-lasting and stimulating, perfect for promoting calmness.
-  Updated: 2025-10-01T09:28:03Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10355,14 +10306,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/hollings-filled-hoof-with-beef-25-pack-box-loose-natural-treats-216304.jpg?v=1737415721
   Price: £17.92 GBP
 - [Hollings Hooves Plain Loose x25](https://veryimportantpets.shop/products/hollings-hooves-plain-loose-x25): Hollings Hooves Plain Loose. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:31Z
+  Updated: 2025-10-01T13:28:33Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-hooves-plain-loose-x25-natural-treats-588153.jpg?v=1741090699
   Price: £14.21 GBP
 - [Hollings Puffed Jerky 8 x 100g Box](https://veryimportantpets.shop/products/hollings-puffed-jerky-8-x-100g-box): Hollings natural dog treats are loved by dogs and owners alike. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:36Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10415,7 +10366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-pig-ear-strips-natural-treats-8x150g-194494.jpg?v=1741090712
     Price: £21.95 GBP
 - [Hollings Pig Ears 5x10 Pre Packed](https://veryimportantpets.shop/products/hollings-pig-ears-5x10-pre-packed): Hollings natural dog treats are loved by dogs and owners alike. Shop online at Very Important Pets
-  Updated: 2025-09-28T17:28:22Z
+  Updated: 2025-10-01T13:28:33Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10457,14 +10408,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/hollings-salmon-bites-10-x-75g-bags-natural-treats-341494.jpg?v=1737415721
   Price: £24.82 GBP
 - [Hollings Gourmet Chicken Sausages Dog Treats - 36 Sausages](https://veryimportantpets.shop/products/hollings-chicken-sausage-12-x-3-box): Hollings Gourmet Chicken Sausages Dog Treats - air-dried for nutrition and flavour. Made from quality chicken. Perfect for training or rewards.
-  Updated: 2025-09-29T17:28:25Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-gourmet-chicken-sausage-dog-treat-36-sausages-12x3pk-natural-treats-681389.jpg?v=1741090708
   Price: £22.52 GBP
 - [Hollings Venison Gourmet Sausages Dog Treats - 36 Sausages](https://veryimportantpets.shop/products/hollings-venison-sausage-12-x-3-box): Keep your dog happy with Hollings Venison Gourmet Sausages - a delicious, nutritious treat they'll love! Perfect for training or on-the-go rewards.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10478,7 +10429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/hollings-filled-smoked-shank-bone-10-bones-natural-treats-489630.jpg?v=1737415718
   Price: £28.45 GBP
 - [Hollings Sprats 100% Fresh Fish Treat for Dogs](https://veryimportantpets.shop/products/hollings-sprats): 100% natural air-dried Hollings Sprats are a tasty, grain-free, hypoallergenic treat for dogs. Rich in Omega 3 & 6 for healthy skin, coat, and joints.
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10491,20 +10442,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-sprats-pouches-natural-treats-8-x-400g-32kg-344013.jpg?v=1741090702
     Price: £3.30 GBP
-- [Hollings Sprats: 100% Natural Air-Dried Fish Treat for Dogs](https://veryimportantpets.shop/products/hollings-sprats-tub): Hollings Sprats in a tub: 100% natural, air-dried fish treats packed with Omega 3 & 6 for healthy skin, coat, and joints. Grain-free and hypoallergenic.
-  Updated: 2025-09-30T17:27:50Z
-  Vendor: Hollings
-  Product Type: Natural Treats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-sprats-in-tub-natural-treats-500-g-925251.jpg?v=1741090702
-  - [500 g](https://veryimportantpets.shop/products/hollings-sprats-tub?variant=47213176357154)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-sprats-in-tub-natural-treats-500-g-925251.jpg?v=1741090702
-    Price: £15.73 GBP
-  - [1 kg](https://veryimportantpets.shop/products/hollings-sprats-tub?variant=47213176389922)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-sprats-in-tub-natural-treats-1-kg-762031.jpg?v=1741090701
-    Price: £24.31 GBP
 - [Hollings Training Treat Venison 10 x 75g](https://veryimportantpets.shop/products/hollings-training-treat-venison-10-x-75g): Hollings Training Treat Venison . Shop online at Very Important Pets
   Updated: 2025-09-22T18:53:06Z
   Vendor: Hollings
@@ -10667,7 +10604,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/laughing-dog-wheat-free-fruity-paws-5-x-125g-sensitive-treats-401751.png?v=1741090703
   Price: £12.83 GBP
 - [Lilys Kitchen Organic Bedtime Biscuits (8 X 80g)](https://veryimportantpets.shop/products/lilys-kitchen-bedtime-biscuits-8x80g): Organic, oven-baked biscuits for dogs before bed. With honey, yoghurt, and chamomile to support immune and gut health for a peaceful sleep.
-  Updated: 2025-09-30T17:27:50Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Lily's Kitchen
   Product Type: Dog Treats
   Availability: Available
@@ -10694,12 +10631,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chicken-turkey-casserole-10-x-150g-trays-adult-wet-809245.jpg?v=1731704640
   Price: £15.59 GBP
+- [Lily's Kitchen Beef Chew Sticks for Dogs 6 Months+ 10 Pack](https://veryimportantpets.shop/products/lilys-kitchen-chew-sticks-with-beef-3-sticks-10-x-120g): Lily's Kitchen Chew Sticks with Beef are the perfect chewy treats for dogs 6 months+. Made with high-quality ingredients to keep your dog happy.
+  Updated: 2025-10-01T13:28:30Z
+  Vendor: Lily's Kitchen
+  Product Type: Dog Treats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chew-sticks-with-beef-10-x-120g-dog-treats-893276.jpg?v=1731300649
+  Price: £29.87 GBP
+- [Lily's Kitchen Chew Sticks with Chicken - 10 Pack](https://veryimportantpets.shop/products/lilys-kitchen-chew-sticks-with-chicken-3-sticks-10-x-120g): Lily's Kitchen Chew Sticks - delightful chewy treats for dogs. Made with chicken, peanut butter, banana, and mango. Grain-free recipe, suitable for adult dogs.
+  Updated: 2025-10-01T13:28:32Z
+  Vendor: Lily's Kitchen
+  Product Type: Dog Treats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chew-sticks-with-chicken-10-x-120g-dog-treats-692609.jpg?v=1731300649
+  Price: £29.87 GBP
+- [Lily's Kitchen Chew Sticks with Lamb - 10 Pack](https://veryimportantpets.shop/products/lilys-kitchen-chew-sticks-with-lamb-3-sticks-10-x-120g): Lily's Kitchen Chew Sticks with Lamb: Made with high-quality lamb, apples, peas, and mint. No meat meal, just wholesome ingredients for your furry friend.
+  Updated: 2025-10-01T13:28:32Z
+  Vendor: Lily's Kitchen
+  Product Type: Dog Treats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chew-sticks-with-lamb-10-x-120g-dog-treats-720663.jpg?v=1731300649
+  Price: £29.87 GBP
 - [Lily's Kitchen Salmon Chew Sticks - 10 Pack](https://veryimportantpets.shop/products/lilys-kitchen-chew-sticks-with-salmon-3-sticks-10-x-120g): Lily's Kitchen Chew Sticks with Salmon are delicious treats for adult dogs made with high-quality natural ingredients including salmon, sweet potato & spinach.
   Updated: 2025-09-29T09:28:30Z
   Vendor: Lily's Kitchen
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chew-sticks-with-salmon-10-x-120g-dog-treats-614777.jpg?v=1731300649
+  Price: £29.87 GBP
+- [Lily's Kitchen Chew Sticks with Turkey - 10 Pack](https://veryimportantpets.shop/products/lilys-kitchen-chew-sticks-with-turkey-3-sticks-10-x-120g): Treat your pup to Lily's Kitchen Chew Sticks with Turkey! Made with real turkey, honey, sweet potato, and broccoli. Perfect for rewarding good behavior.
+  Updated: 2025-10-01T13:28:32Z
+  Vendor: Lily's Kitchen
+  Product Type: Dog Treats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chew-sticks-with-turkey-10-x-120g-dog-treats-643821.jpg?v=1731300649
   Price: £29.87 GBP
 - [Lily's Kitchen Chomp-Away Chicken Bites Dog Treats 8 x 70g](https://veryimportantpets.shop/products/lilys-kitchen-chomp-away-chicken-bites-dog-treats-8-x-70g): Grain-free chicken and quinoa dog treats with ginger for digestion. Made with natural ingredients for adult dogs from 4 months. Ideal for training or snacking.
   Updated: 2025-09-28T17:28:25Z
@@ -10723,7 +10688,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-cottage-pie-wet-dog-food-10-x-150g-trays-adult-wet-428408.jpg?v=1731797304
   Price: £15.59 GBP
 - [Lily's Kitchen Grain-Free Cottage Pie 400g Cans Pack of 6](https://veryimportantpets.shop/products/lilys-kitchen-cottage-pie-tins-6x400g): Lily's Kitchen Cottage Pie: 6x400g cans of delicious, grain-free dog food with fresh beef, vegetables, herbs, vitamins, and minerals. Wholesome goodness!
-  Updated: 2025-09-30T13:28:00Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Lily's Kitchen
   Product Type: Adult Wet
   Availability: Available
@@ -10849,14 +10814,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-organic-dinner-for-puppies-foil-11x150g-puppyjunior-wet-590893.jpg?v=1725224046
   Price: £20.33 GBP
 - [Lily's Kitchen Chicken Puppy Recipe in Cans - 6 x 400g](https://veryimportantpets.shop/products/lilys-kitchen-chicken-dinner-for-puppies-tin-6x400g): Give your puppy the best start in life with Lily's Kitchen Grain-Free Chicken Puppy Recipe in Cans. Wholesome and complete, made with love and care.
-  Updated: 2025-09-22T18:53:26Z
+  Updated: 2025-10-01T13:28:33Z
   Vendor: Lily's Kitchen
   Product Type: Puppy/Junior Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-chicken-puppy-recipe-6-x-400g-cans-puppyjunior-wet-434263.jpg?v=1731797307
   Price: £20.54 GBP
 - [Lily's Kitchen Chicken Nibbles & Salmon Puppy Treats 8-pack](https://veryimportantpets.shop/products/lilys-kitchen-puppy-nibbles-chicken-salmon-treats-8-x-70g): Reward your mischievous puppy with Lily's Kitchen Chicken Nibbles with Salmon Puppy Treats. Made with fresh chicken and salmon, perfect for training!
-  Updated: 2025-09-30T17:27:52Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Lily's Kitchen
   Product Type: Puppy Treats
   Availability: Available
@@ -10870,7 +10835,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-rest-up-recipe-wet-dog-food-6-x-400g-cans-sensitive-wet-996016.jpg?v=1731704642
   Price: £20.54 GBP
 - [Lily's Kitchen Senior Recipe for Older Dogs 6-Pack 400g Cans](https://veryimportantpets.shop/products/lilys-kitchen-senior-recipe-dog-tins-6x400g): Lily's Kitchen Senior Recipe is a grain-free, hand-crafted dog food for older pups. Packed with turkey, fruits, veggies, and botanicals for top-notch nutrition.
-  Updated: 2025-09-29T09:28:34Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Lily's Kitchen
   Product Type: Senior Wet
   Availability: Available
@@ -10884,14 +10849,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-sunday-lunch-10-x-150g-trays-adult-wet-732464.jpg?v=1732380081
   Price: £15.59 GBP
 - [Lily's Kitchen Sunday Lunch Wet Dog Food - 6pk 400g Cans](https://veryimportantpets.shop/products/lilys-kitchen-sunday-lunch-tins-6x400g): Treat your furry friend to Lily's Kitchen Sunday Lunch Wet Dog Food. Nutritionally complete, grain-free recipe with fresh chicken and veggies.
-  Updated: 2025-09-30T13:28:00Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Lily's Kitchen
   Product Type: Adult Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-sunday-lunch-6-x-400g-cans-adult-wet-509526.jpg?v=1731704639
   Price: £20.54 GBP
 - [Lily's Kitchen Venison & Wild Boar Terrine Wet Dog Food Tins](https://veryimportantpets.shop/products/lilys-kitchen-venison-wild-boar-terrine-tins-6x400g): Lily's Kitchen Venison & Wild Boar Terrine is a complete, grain-free wet dog food with real meat, vegetables, and fruits. A magical meal for your furry friend!
-  Updated: 2025-09-28T17:28:25Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Lily's Kitchen
   Product Type: Adult Wet
   Availability: Available
@@ -10975,14 +10940,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/natures-menu-country-hunter-dog-tins-wild-boar-6x600g-adult-wet-842033.jpg?v=1741090481
   Price: £24.08 GBP
 - [Natures Menu Dog Pouch Beef & Tripe 8x300g](https://veryimportantpets.shop/products/natures-menu-dog-pouch-beef-tripe-8x300g): Natures Menu products are designed to deliver your pet's requirements from naturally balanced raw materials. Shop online at Very Important Pets
-  Updated: 2025-09-24T13:28:51Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Natures Menu
   Product Type: Adult Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/natures-menu-dog-pouch-beef-tripe-8x300g-adult-wet-178688.png?v=1741090472
   Price: £18.03 GBP
 - [Natures Menu Dog Pouch Multipack 8x300g](https://veryimportantpets.shop/products/natures-menu-dog-pouch-multipack-8x300g): Natures Menu Dog Multipack is now available and ideal for holiday breaks and your weekly needs it’s the Natures Menu ADULT DOG MULTI PACK. Shop online at Very Important Pets
-  Updated: 2025-09-30T05:55:51Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Natures Menu
   Product Type: Adult Wet
   Availability: Available
@@ -11192,7 +11157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/naturo-adult-mini-dog-with-rice-variety-pack-pouches-4x-150gx12-hypoallergenic-wet-755545.jpg?v=1741090475
   Price: £40.11 GBP
 - [Naturo Adult Dog Mixed Selection with Rice and Veg 12 Trays](https://veryimportantpets.shop/products/naturo-adult-variety-with-rice-veg-trays-12-for-11-x400g): Naturo Adult Dog Variety Selection provides a tasty choice of Chicken, Lamb, and Duck with Brown Rice and Vegetables for a nutritious, balanced meal.
-  Updated: 2025-09-22T18:53:34Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -11256,7 +11221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-dentastix-daily-large-dog-dental-chew-treats-105-sticks-281396.webp?v=1735895215
     Price: £24.93 GBP
 - [Pedigree Dentastix Daily Medium Dog](https://veryimportantpets.shop/products/pedigree-dentastix-daily-medium-dog): Pedigree Dentastix Daily Dental Chews. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:30Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Pedigree
   Product Type: Dental Chew Treats
   Availability: Available
@@ -11391,7 +11356,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-jumbone-mini-adult-small-dog-treats-chicken-lamb-4-chews-8x-bags-dog-treats-731873.jpg?v=1728843924
   Price: £18.50 GBP
 - [Pedigree Markies Dog Treats - Delicious and Nutritious](https://veryimportantpets.shop/products/pedigree-markies): Pedigree Markies Original Adult Dog Biscuit Treats with Marrowbone offer delicious playtime fun & ideal for training. Developed by experts for a healthy pup.
-  Updated: 2025-09-30T13:28:11Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Pedigree
   Product Type: Dog Treats
   Availability: Available
@@ -11500,7 +11465,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pedigree-mixed-selection-adult-in-gravy-pouches-mega-pack-40-for-36-x-100g-adult-wet-485535.jpg?v=1701108438
   Price: £18.09 GBP
 - [Pedigree Pouches Mixed in Gravy Wet Dog Food Mega 40 Pack](https://veryimportantpets.shop/products/pedigree-pouches-chicken-beef-turkey-lamb-in-gravy-mega-pack-40-x-100g): Pedigree Mixed Selection in Gravy Adult Wet Dog Food Mega Pack Pouches - 100% complete & balanced, supports digestion, skin/coat health, and natural defences.
-  Updated: 2025-09-30T21:10:29Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Pedigree
   Product Type: Adult Wet
   Availability: Available
@@ -11682,7 +11647,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-mixed-selection-tins-chunks-in-loaf-adult-wet-dog-food-24-x-400g-adult-wet-989962.webp?v=1738877474
   Price: £34.39 GBP
 - [Pedigree Chunks in Gravy Adult Wet Dog Food Tins 24 Pack](https://veryimportantpets.shop/products/pedigree-tins-mixed-in-gravy-2x-12x400g): Give your dog a delicious and nutritious meal with Pedigree Chunks in Gravy Adult Wet Dog Food - 24 cans of beef, chicken, and lamb chunks in gravy.
-  Updated: 2025-10-01T09:35:27Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Pedigree
   Product Type: Adult Wet
   Availability: Available
@@ -11717,7 +11682,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-medium-dental-buffalo-dog-chews-8-x-55g-dental-chew-treats-343535.jpg?v=1722360313
   Price: £20.26 GBP
 - [Pet Munchies Small Dental Buffalo Dog Chews - 32 Packs](https://veryimportantpets.shop/products/pet-munchies-buffalo-dental-chews-small-8-x-4-pack-55g): Premium gourmet dental chews made with 100% natural grass-fed Buffalo, infused with salmon oil for skin, coat, and joint health. Grain-free & delicious!
-  Updated: 2025-09-30T21:10:31Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Pet Munchies
   Product Type: Dental Chew Treats
   Availability: Available
@@ -11729,6 +11694,13 @@
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-calcium-bones-dog-treats-8-x-100g-natural-treats-495600.jpg?v=1722360311
+  Price: £20.26 GBP
+- [Pet Munchies Chicken & Cheese 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-cheese-8-x-100g): These succulent strips of chicken can be given as a chew and are easy to break up for training and rewards. Shop online at Very Important Pets
+  Updated: 2025-10-01T13:35:55Z
+  Vendor: Pet Munchies
+  Product Type: Dog Treats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-cheese-8-x-100g-natural-treats-879652.jpg?v=1722356145
   Price: £20.26 GBP
 - [Pet Munchies Chicken Dumbbells 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-dumbbells-8-x-100g): This premium gourmet treat is made from quality chicken breast meat and beef rawhide. Shop online at Very Important Pets
   Updated: 2025-09-30T21:10:32Z
@@ -11745,14 +11717,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-beef-liver-sticks-dog-treats-8-x-90g-natural-treats-537890.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Chicken Breast Fillets 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-breast-fillets-8-x-100g): Chicken Breast Fillets. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:32Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-breast-fillets-dog-treats-8-x-100g-natural-treats-703353.jpg?v=1722360312
   Price: £20.26 GBP
 - [3 x 320g Pet Munchies Chicken Strips Natural Dog Treats](https://veryimportantpets.shop/products/pet-munchies-dog-treat-chicken-strips-3x320g): Pet Munchies Chicken Strips Dog Treats: Quality real chicken, 100% natural, high protein, low fat and salt, wheat/gluten-free, no artificial flavours.
-  Updated: 2025-09-30T21:10:32Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11794,7 +11766,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-duck-drumsticks-dog-treats-8-x-100g-dental-chew-treats-929368.jpg?v=1722360310
   Price: £20.26 GBP
 - [Pet Munchies Duck Breast Fillets Dog Treats - 8 Pack.](https://veryimportantpets.shop/products/pet-munchies-duck-fillet-dog-treats-8-x-80g): High protein, low fat Real Duck treats. Made with 100% natural duck breast meat. Slow roasted for optimal flavour. Helps remove plaque.
-  Updated: 2025-09-30T21:10:33Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11822,18 +11794,18 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-wild-salmon-strips-dog-treats-8-x-80g-natural-treats-203979.jpg?v=1722360312
   Price: £20.26 GBP
 - [Pet Munchies Dog Treats Chicken Chips 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-dog-treats-chicken-chips-8-x-100g): Chicken Chips. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:32Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-chips-dog-treats-8-x-100g-training-treats-520451.jpg?v=1722360311
   Price: £20.26 GBP
-- [Pet Munchies Ocean White Fish 8 x 100g Pack Dog Treats](https://veryimportantpets.shop/products/pet-munchies-dog-treats-fish-8-x-100g): Premium gourmet white fish dog treats, made with 100% natural ingredients. Low fat, high Omega 3, and easily digestible. Ideal for dogs with meat intolerances.
-  Updated: 2025-09-30T21:10:34Z
+- [Pet Munchies Duck Strips Dog Treats 8 x 90g](https://veryimportantpets.shop/products/pet-munchies-duck-strips-dog-treats-8-x-90g): Pet Munchies Duck Strips Dog Treats are made from the highest quality duck breasts meat that can be given as a chew or broken up to make tasty moresels ideal for training. Shop online at Very Important Pets
+  Updated: 2025-10-01T13:35:57Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-ocean-white-fish-dog-treats-8-x-100g-natural-treats-916435.jpg?v=1722360312
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-duck-strips-dog-treats-8-x-90g-natural-treats-587311.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Chicken Twists Dog Treats 8 x 80g](https://veryimportantpets.shop/products/pet-munchies-chicken-twists-dog-treats-8-x-80g): Pet Munchies Chicken Twists are made from gourmet dental sticks wrapped in 10% chicken breast. Shop online at Very Important Pets
   Updated: 2025-09-30T21:10:32Z
@@ -11864,7 +11836,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-duck-dog-training-treats-8-x-50g-training-treats-326480.jpg?v=1722360311
   Price: £12.66 GBP
 - [Pet Munchies Premium Beef Liver & Chicken Treats for Dogs](https://veryimportantpets.shop/products/pet-munchies-dog-training-treat-chicken-liver): Made with 100% Natural Beef Liver & Chicken Breast. Premium gourmet dog treats, perfect for training or as a reward. Wheat and gluten free.
-  Updated: 2025-09-30T21:10:35Z
+  Updated: 2025-10-01T13:35:50Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
@@ -11885,7 +11857,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-munchies-wild-salmon-training-treats-8-x-50g-natural-treats-107341.jpg?v=1701108513
   Price: £12.66 GBP
 - [Premium Gourmet Dog Bites with Real Fish & Chicken Breast](https://veryimportantpets.shop/products/pet-munchies-dog-training-treat-sushi): Delicious gourmet dog bites made from real fish & chicken. Perfect for training or as a tasty treat. Low in fat and naturally made with quality ingredients.
-  Updated: 2025-10-01T09:35:27Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
@@ -11899,7 +11871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-sushi-dog-training-treats-natural-treats-8-x-150g-375505.jpg?v=1714763419
     Price: £31.43 GBP
 - [Pet Munchies Venison Strips Dog Treats 8 x 75g Multibuy Pack](https://veryimportantpets.shop/products/pet-munchies-venison-strips-8-x-75g): Premium Venison Strips Dog Treats made from 100% natural venison and beef liver. Low in fat, no artificial flavours/colours, wheat/gluten-free.
-  Updated: 2025-09-30T21:10:33Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11927,7 +11899,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pointer-assorted-mini-rolls-125kg-dog-treats-279736.jpg?v=1701108522
   Price: £57.41 GBP
 - [Pointer Assorted Small Bones 4x1.5kg](https://veryimportantpets.shop/products/pointer-assorted-small-bones-4x1-5kg): Pointer Assorted Small Bones Dog Treats are crunchy wheatmeal biscuits to help keep teeth clean. Shop online at Very Important Pets
-  Updated: 2025-09-23T13:28:09Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
@@ -11976,14 +11948,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pointer-cheese-flavoured-bones-10-kg-natural-treats-160820.png?v=1701108512
   Price: £40.71 GBP
 - [Pointer Chicken Flavour Gravy Bones 6x400g](https://veryimportantpets.shop/products/pointer-chicken-flavour-gravy-bones-6x400g): Pointer Chicken Flavour Gravy Bones Dog Treats. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:28:01Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pointer-chicken-flavour-gravy-bones-6x400g-dog-treats-405065.jpg?v=1701108521
   Price: £14.16 GBP
 - [Pointer Gravy Bones 4x1.5kg](https://veryimportantpets.shop/products/pointer-gravy-bones-4x1-5kg): Pointer Gravy Bones are tasty gravy basted wheatmeal bones. Shop online at Very Important Pets
-  Updated: 2025-09-29T22:28:16Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
@@ -11997,14 +11969,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pointer-gravy-bones-beef-flavoured-10-kg-dog-treats-150063.jpg?v=1724137919
   Price: £39.95 GBP
 - [Pointer Gravy Bones Chicken 10 kg](https://veryimportantpets.shop/products/pointer-gravy-bones-chicken-10-kg): Pointer Chicken Gravy Bones are the latest edition to the Chewdles biscuit range. Shop online at Very Important Pets
-  Updated: 2025-09-29T22:28:15Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pointer-gravy-bones-chicken-flavour-10-kg-dog-treats-725162.jpg?v=1724137922
   Price: £40.04 GBP
 - [Pointer Marrowbone/Meaty Beef Rolls 4x1.5kg](https://veryimportantpets.shop/products/pointer-marrowbone-meaty-beef-rolls-4x1-5kg): Pointer Marrowbones Rolls. Shop online at Very Important Pets
-  Updated: 2025-09-26T13:28:41Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
@@ -12025,7 +11997,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pointer-milky-mini-paws-10-kg-sensitive-treats-905737.png?v=1701108584
   Price: £56.85 GBP
 - [Pointer Milky Petite Bones 6x400g](https://veryimportantpets.shop/products/pointer-milky-petite-bones-6x400g): Pointer Milky Petite Bones dog treats. Shop online at Very Important Pets
-  Updated: 2025-09-29T22:28:16Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
@@ -12060,7 +12032,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pointer-wheat-free-peanut-butter-paws-10-kg-sensitive-treats-339699.webp?v=1702499692
   Price: £51.99 GBP
 - [Pointer Wheat Free Peanut Butter Paws 4 x 1.25kg](https://veryimportantpets.shop/products/pointer-wheat-free-peanut-butter-paws-4-x-1-25kg): Pointer Wheat Free Peanut Butter Paws Dog Treat. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:50Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Pointer
   Product Type: Sensitive Treats
   Availability: Available
@@ -12074,7 +12046,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pointer-plain-large-bones-10-kg-dog-treats-405208.jpg?v=1724137925
   Price: £38.24 GBP
 - [Pointer Puppy Love 6x400g](https://veryimportantpets.shop/products/pointer-puppy-love-6x400g): Pointer Puppy Love Puppy Treats. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:28:08Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Pointer
   Product Type: Puppy Treats
   Availability: Available
@@ -12088,7 +12060,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pointer-salmon-burgers-dog-treats-125kg-dog-treats-707931.webp?v=1728598949
   Price: £56.45 GBP
 - [Pointer Salmon Burgers Dog Treats 400g Bags x 3](https://veryimportantpets.shop/products/pointer-salmon-burgers-6x400g): Delicious Pointer Salmon Burgers Dog Treats 400g bags with calcium for healthy teeth and bones. New shape, crunchy texture, perfect snack or training reward.
-  Updated: 2025-09-29T17:28:31Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
@@ -12130,7 +12102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pointer-stars-with-turkey-10-kg-sensitive-treats-997468.png?v=1701108520
   Price: £56.45 GBP
 - [Pointer Toastees Bacon & Cheese Dog Treats 10 kg Pack](https://veryimportantpets.shop/products/pointer-toastees-bacon-cheese-10-kg): Give your dog a tasty and crunchy treat with Pointer Bacon & Cheese flavoured toastees. Packed with added calcium and joint support ingredients.
-  Updated: 2025-09-27T13:28:08Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Pointer
   Product Type: Dog Treats
   Availability: Available
@@ -12172,7 +12144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-tin-starter-mousse-12x195g-puppyjunior-wet-247810.jpg?v=1701108649
   Price: £35.05 GBP
 - [Rosewood Dog Choc Drops 10x200g](https://veryimportantpets.shop/products/rosewood-dog-choc-drops-10x200g): Introducing a traditional favourite to the Rosewood treats range. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:45Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Rosewood
   Product Type: Dog Treats
   Availability: Available
@@ -12343,13 +12315,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-healthy-dog-500g-supplements-remedies-864236.jpg?v=1731553570
   Price: £21.34 GBP
-- [VetSpec Joint Mobility 500g Dog Supplement](https://veryimportantpets.shop/products/vetspec-joint-mobility-500-g): Support joint flexibility and aid inflammation with this canine supplement containing Glucosamine, MSM, Chondroitin & antioxidants. Ideal for all dogs.
-  Updated: 2025-09-29T13:28:30Z
-  Vendor: VetSpec
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-joint-mobility-supplement-for-dogs-500g-supplements-remedies-198803.jpg?v=1731553570
-  Price: £20.48 GBP
 - [VetSpec Omega 3 Dog Joint Mobility Gravy Form 500g](https://veryimportantpets.shop/products/vetspec-omega-3-joint-mobility-gravy-500-g): Support your dog's joint health and flexibility with VetSpec Omega 3 Joint Mobility + Gravy. High-quality active ingredients in a tasty gravy form.
   Updated: 2025-09-22T18:54:06Z
   Vendor: VetSpec
@@ -12421,7 +12386,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-bbq-bangers-treats-7x125g-puppy-treats-671859.jpg?v=1701108774
   Price: £10.12 GBP
 - [Wagg Cookie Treats Peanut Butter & Banana 7 x 125g](https://veryimportantpets.shop/products/wagg-cookie-treats-peanut-butter-banana-7-x-125g): Wagg Cookie Treats with Peanut Butter &amp; Banana. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:32Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Wagg
   Product Type: Dog Treats
   Availability: Available
@@ -12491,7 +12456,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-steaklets-treats-7-x-125g-puppy-treats-616620.jpg?v=1701108782
   Price: £10.12 GBP
 - [Wagg Tasty Bones 7 x 125g](https://veryimportantpets.shop/products/wagg-tasty-bones-7-x-125g): Wagg Tasty Bones Chicken and Liver dog treats are Oven Baked in our Bakery in North Wales. Shop online at Very Important Pets
-  Updated: 2025-09-29T09:28:34Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Wagg
   Product Type: Training Treats
   Availability: Available
@@ -12519,21 +12484,21 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-training-treats-chicken-cheese-7-x-125g-puppy-treats-954368.jpg?v=1701108782
   Price: £10.12 GBP
 - [Wagg Yumms Crunchy Biscuit Dog Treats with Chicken](https://veryimportantpets.shop/products/wagg-yumms-chicken-5-x-400g): Wagg'mms with Chicken - Bone shaped biscuits for dogs. Contains vitamins A and E for a healthy immune system and yeast for digestion. Great as a treat or reward.
-  Updated: 2025-09-29T17:28:30Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Wagg
   Product Type: Training Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-yumms-crunchy-biscuit-dog-treats-with-chicken-5x400g-training-treats-410927.webp?v=1708773755
   Price: £8.83 GBP
 - [Wagg Yumms Crunchy Biscuit Dog Treats with Liver](https://veryimportantpets.shop/products/wagg-yumms-liver-5-x-400g): Delicious bone-shaped biscuits with Liver for dogs. Packed with vitamins A and E to support the immune system, aiding digestion and dental health.
-  Updated: 2025-09-29T13:28:32Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Wagg
   Product Type: Training Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-yumms-crunchy-biscuit-dog-treats-with-liver-5x400g-training-treats-691084.webp?v=1708773755
   Price: £8.83 GBP
 - [Webbox Chomping Chews Beef Dog Treats - Wheat & Gluten Free](https://veryimportantpets.shop/products/webbox-chomping-chews-beef): Webbox Beef Dog Treat with 50% fresh meat, wheat & gluten-free. No artificial colours, perfect for dogs with allergies. Satisfy chomping cravings.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Webbox
   Product Type: Dog Treats
   Availability: Available
@@ -12757,14 +12722,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-rice-bones-mediumlarge-9-bones-x-6-natural-treats-733626.jpg?v=1748368593
   Price: £40.06 GBP
 - [Whimzees Ricebone Medium / Large Dental Treats for Dogs x 50](https://veryimportantpets.shop/products/whimzees-rice-bones-box-medium-large-x-50): Whimzees Ricebone M/L Daily Dental Treats are gluten-free, vegetarian, and made with natural ingredients. Promote oral health with grooved shapes.
-  Updated: 2025-09-26T08:28:12Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Whimzees
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-rice-bones-box-medium-large-x-50-natural-treats-509364.jpg?v=1701108776
   Price: £49.99 GBP
 - [Whimzees Rice Bones Large Box of 23](https://veryimportantpets.shop/products/whimzees-rice-bones-large-box-of-23): Whimzees Rice Bones have six natural functional ingredients and no artificial ingredients colours flavours preservatives GMOs gluten or meat. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:54:15Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Whimzees
   Product Type: Dental Chew Treats
   Availability: Available
@@ -12778,7 +12743,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-stix-large-box-of-50-x-180mm-natural-treats-354489.jpg?v=1701108783
   Price: £64.95 GBP
 - [Whimzees Stix Medium - Box of 100 x 150mm](https://veryimportantpets.shop/products/whimzees-stix-medium-box-of-100-x-150mm): Whimzees are made with all-natural ingredients and are gluten free and vegetarian. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:35Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Whimzees
   Product Type: Natural Treats
   Availability: Available
@@ -12862,14 +12827,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whimzees-toothbrush-xs-6-x-48-treat-bag-dental-chew-treats-110261.jpg?v=1748278511
   Price: £40.06 GBP
 - [Whimzees Variety Box Large x 14](https://veryimportantpets.shop/products/whimzees-variety-box-large-x-14): Whimzees dental treats are made from all natural ingredients. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:30Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Whimzees
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-variety-box-large-x-14-dental-chew-treats-238626.jpg?v=1701108852
   Price: £14.72 GBP
 - [Whimzees Variety Box Medium x 28](https://veryimportantpets.shop/products/whimzees-variety-box-medium-x-28): Whimzees dental treats are made from all natural ingredients. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:30Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Whimzees
   Product Type: Dental Chew Treats
   Availability: Available
@@ -12883,7 +12848,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-variety-box-small-x-56-dental-chew-treats-355975.jpg?v=1701108848
   Price: £14.72 GBP
 - [Whimzees Veggie Ears Box of 18](https://veryimportantpets.shop/products/whimzees-veggie-ears-box-of-18): Whimzees are made with all-natural ingredients and are gluten free and vegetarian. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:30Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Whimzees
   Product Type: Natural Treats
   Availability: Available
@@ -12911,14 +12876,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/winalot-adult-meaty-chunks-in-jelly-mega-pack-40x100g-box-adult-wet-391101.jpg?v=1737478298
   Price: £17.61 GBP
 - [Winalot Adult Dog Sunday Dinners Mixed in Gravy - Mega Pack](https://veryimportantpets.shop/products/winalot-adult-sunday-dinner-in-gravy-mega-pack-40x100g-box): Winalot Adult Dog Sunday Dinner Mixed in Gravy is a hearty wet food pouch with succulent meaty chunks and essential vitamins for your dog's satisfaction.
-  Updated: 2025-09-30T22:27:31Z
+  Updated: 2025-10-01T13:28:39Z
   Vendor: Winalot
   Product Type: Adult Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/winalot-adult-sunday-dinner-in-gravy-mega-pack-40x100g-box-adult-wet-263460.jpg?v=1701108852
   Price: £17.61 GBP
 - [Winalot Chicken in Jelly Wet Dog Food Cans - Complete Diet](https://veryimportantpets.shop/products/winalot-classic-with-chicken-in-jelly-tins-12x400g-box): Give your adult dog a complete and balanced diet with Winalot Chicken in Jelly Wet Dog Food Cans. Packed with essential vitamins & minerals for overall health.
-  Updated: 2025-09-30T13:27:59Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Winalot
   Product Type: Adult Wet
   Availability: Available
@@ -12932,7 +12897,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/winalot-lamb-turkey-in-jelly-wet-dog-food-cans-12-x-400g-adult-wet-983636.webp?v=1737490725
   Price: £17.84 GBP
 - [Winalot Shapes](https://veryimportantpets.shop/products/winalot-shapes): Winalot Shapes are wholesome biscuits that help give your dog the bounce he needs to go out and enjoy family life. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:39Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Winalot
   Product Type: Natural Treats
   Availability: Available
@@ -12957,7 +12922,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/winalot-small-dog-mixed-meals-in-gravy-wet-dog-food-48-x-100g-pouches-adult-wet-693994.webp?v=1737490735
   Price: £25.40 GBP
 - [Woofbrush Dental Chew Large Size - 4 x Multipacks](https://veryimportantpets.shop/products/woofbrush-dental-chew-large-multipack-4-x-329g): Promote your dog's dental health with Lily's Kitchen Large Woofbrush Dental Chew. Expertly designed to reduce plaque and approved by veterinarians.
-  Updated: 2025-09-24T22:28:25Z
+  Updated: 2025-10-01T13:28:37Z
   Vendor: Lily's Kitchen
   Product Type: Dental Chew Treats
   Availability: Available
@@ -13408,7 +13373,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-dog-tick-removal-tool-tick-removal-tool-769890.jpg?v=1708414347
   Price: £4.86 GBP
 - [Ancol Ergo Undercoat Rake - Effective Moulting Tool](https://veryimportantpets.shop/products/ancol-undercoat-rake-medium): The Ancol Ergo Undercoat Rake is the perfect tool for moulting and removing loose fur from heavy-coated breeds. Easy to use for a comfortable grooming session.
-  Updated: 2025-09-22T18:52:06Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Ancol
   Product Type: Brushes, Combs & De-Shedding
   Availability: Available
@@ -13464,7 +13429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/animology-deep-clean-shampoo-6-x-250ml-shampoo-conditioners-731603.jpg?v=1701337922
   Price: £21.76 GBP
 - [Animology Derma Dog Sensitive Skin Shampoo 6 x 250ml](https://veryimportantpets.shop/products/animology-derma-dog-sensitive-skin-shampoo-6-x-250ml): Animology Derma Dog Sensitive Skin Shampoo is an extra mild formula designed to suit dogs that are prone to developing itchy skin conditions. Shop online at Very Important Pets
-  Updated: 2025-09-29T17:28:25Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Animology
   Product Type: 
   Availability: Available
@@ -13485,7 +13450,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/animology-flea-tick-dog-shampoo-6-x-250ml-flea-tick-shampoo-159911.jpg?v=1701337922
   Price: £21.76 GBP
 - [Animology Fox Poo Dog Shampoo 6 x 250ml](https://veryimportantpets.shop/products/animology-fox-poo-dog-shampoo-6-x-250ml): Animology Fox Poo Dog Shampoo was awarded the PPRA Pet Product of the Year title in 2013 thanks to its unique &amp; effective formula for getting out stubborn stains &amp; odours from a dogs coat. Shop online at Very Important Pets
-  Updated: 2025-09-29T17:28:28Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Animology
   Product Type: 
   Availability: Available
@@ -13562,7 +13527,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/animology-true-colours-shampoo-6-x-240ml-shampoo-conditioners-590181.jpg?v=1701337983
   Price: £21.76 GBP
 - [Animology White Wash Shampoo 6 x 250ml](https://veryimportantpets.shop/products/animology-white-wash-shampoo-6-x-250ml): Animology White Wash Dog Shampoo is a mild shampoo that is known as one of the best coat whitening shampoos in the world &amp; helps make coats dazzle. Shop online at Very Important Pets
-  Updated: 2025-09-29T17:28:26Z
+  Updated: 2025-10-01T13:28:28Z
   Vendor: Animology
   Product Type: 
   Availability: Available
@@ -14762,8 +14727,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-dry-mixer-adult-dog-food-12-kg-mixer-dog-biscuits-355507.webp?v=1737095949
   Price: £35.25 GBP
+- [Lily's Kitchen Puppy Turkey Duck Wet Dog Food 10 Pack Trays](https://veryimportantpets.shop/products/lilys-kitchen-puppy-recipe-turkey-and-duck-foils-12x150g): Lily's Kitchen Puppy Recipe Turkey and Duck Wet Dog Food offers optimal nutrition with a blend of turkey, duck, fruits, veggies, and omega-3 for a healthy pup.
+  Updated: 2025-10-01T13:28:30Z
+  Vendor: Lily's Kitchen
+  Product Type: Puppy/Junior Wet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-turkey-duck-puppy-recipe-10-x-150g-trays-puppyjunior-wet-952973.png?v=1748278380
+  Price: £15.59 GBP
 - [Alpha Cat Mix with Fish - Complete Nutrition for Cats](https://veryimportantpets.shop/products/alpha-cat-mix-fish-10-kg): Provide your cat with complete nutrition in every meal with Alpha Cat Mix with Fish. 100% balanced formula for all the protein, vitamins, and minerals needed.
-  Updated: 2025-09-22T18:51:58Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Alpha
   Product Type: Adult Cat Dry
   Availability: Available
@@ -15029,14 +15001,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/applaws-ocean-fish-in-broth-wet-cat-food-adult-cat-wet-24x156g-236178.jpg?v=1725415282
     Price: £41.89 GBP
 - [Applaws Cat Tuna Fillet with Prawn in Broth Pouches 12 x 70g](https://veryimportantpets.shop/products/applaws-cat-tuna-fillet-with-pacific-prawn-in-broth-pouches-12-x-70g): Applaws Cat Tuna Fillet with Prawn in Broth. Shop online at Very Important Pets
-  Updated: 2025-09-24T13:28:22Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Applaws
   Product Type: Adult Cat Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/applaws-cat-tuna-fillet-with-prawn-in-broth-pouches-12-x-70g-adult-cat-wet-967953.jpg?v=1725415215
   Price: £15.02 GBP
 - [Applaws Cats Senior Tuna Fillets with Salmon Tins 24 x 70g](https://veryimportantpets.shop/products/applaws-cats-senior-tuna-fillets-with-salmon-tins-24-x-70g): Applaws Cats Senior Tuna Fillets with Salmon. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:13Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Applaws
   Product Type: Senior Cat Wet
   Availability: Available
@@ -15121,7 +15093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beaphar-fiprotec-combo-flea-tick-spot-on-for-cats-cat-flea-tick-treatments-6-pipette-x-4-298884.jpg?v=1702498525
     Price: £89.40 GBP
 - [Beaphar Lactol Kitten Milk - Complete Nutrition for Kittens](https://veryimportantpets.shop/products/beaphar-lactol-kitten-milk-250-g): Beaphar Lactol Kitten Milk is a complete milk replacement for new-born kittens, rich in amino acids, vitamins, and minerals for balanced nutrition.
-  Updated: 2025-09-29T17:28:25Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Beaphar
   Product Type: Cat Milk
   Availability: Available
@@ -15209,7 +15181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/burgess-adult-cat-chicken-duck-adult-cat-dry-10-kg-649361.jpg?v=1741192989
     Price: £34.42 GBP
 - [Burgess Adult Cat Dry Food Rich in Salmon for Healthy Cats](https://veryimportantpets.shop/products/burgess-adult-cat-rich-in-scottish-salmon): Burgess Adult Cat Dry Food Rich in Salmon is formulated for adult cats with essential nutrients for dental, skin, heart, and digestive health.
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Burgess
   Product Type: Adult Cat Dry
   Availability: Available
@@ -15227,7 +15199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/burgess-adult-cat-rich-in-scottish-salmon-adult-cat-dry-10-kg-967329.jpg?v=1741188595
     Price: £34.42 GBP
 - [Burgess Kitten with Chicken Dry Cat Food for Healthy Growth](https://veryimportantpets.shop/products/burgess-kitten-chicken): Nourish your playful kitten with Burgess Kitten with Chicken Dry Cat Food for healthy growth. Complete recipe for kittens, pregnant, and nursing mothers.
-  Updated: 2025-09-28T17:28:22Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Burgess
   Product Type: Kitten Dry Food
   Availability: Available
@@ -15297,7 +15269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-adult-senior-cat-sensitive-grain-free-duck-potato-sensitive-cat-food-300g-611821.jpg?v=1723690999
     Price: £3.30 GBP
 - [Catsan Hygiene Plus Cat Litter](https://veryimportantpets.shop/products/catsan-hygiene-cat-litter): Cats love cleanliness and freshness and that's why cats love Catsan Cat Litter. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Catsan
   Product Type: 
   Availability: Available
@@ -15413,7 +15385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dreamies-chicken-cat-treats-mega-pack-6-x-200g-cat-treats-716272.jpg?v=1702498809
   Price: £25.52 GBP
 - [Dreamies Chicken Cat Treats Mega Tub 2 x 350g](https://veryimportantpets.shop/products/dreamies-chicken-cat-treats-mega-tub-2-x-350g): Dreamies Chicken Mega Tubs have a deliciously crunchy on the outside soft on the inside; Cats simply can’t resist the great taste of DREAMIES™ treats. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:18Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Dreamies
   Product Type: 
   Availability: Available
@@ -15586,7 +15558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/breeder-celect-plus-kitten-litter-25-l-litter-677121.jpg?v=1702498522
   Price: £17.99 GBP
 - [Friendly Natural Cat Litter](https://veryimportantpets.shop/products/friendly-natural-cat-litter): Friendly Natural Cat Litter has been developed to provide a highly absorbent clean economic product that at the same time as giving comfort to your cat cares for the environment. Shop online at Very Important Pets
-  Updated: 2025-09-29T13:28:36Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Friendly
   Product Type: 
   Availability: Available
@@ -15678,7 +15650,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/go-cat-senior-7-chicken-turkey-veg-2-kg-senior-cat-dry-452478.jpg?v=1702498912
   Price: £9.02 GBP
 - [Go-Cat Complete Adult Dry Cat Food with Tuna & Herring](https://veryimportantpets.shop/products/go-cat-tuna-herring-veg): Go-Cat Complete Adult Dry Cat Food with Tuna, Herring & Veg. 100% complete nutrition for health & happiness. Quality protein for cats & no artificial colors.
-  Updated: 2025-09-30T21:10:26Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Go-Cat
   Product Type: Adult Cat Dry
   Availability: Available
@@ -15710,14 +15682,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gourmet-gold-pate-with-ocean-fish-cat-food-12-x-85g-adult-cat-wet-146100.jpg?v=1702499038
   Price: £9.83 GBP
 - [Gourmet Gold Savoury Cake Chicken 12 x 85g](https://veryimportantpets.shop/products/gourmet-gold-savoury-cake-chicken-12-x-85g): Gourmet Gold Savoury Cake with Chicken. Shop online at Very Important Pets
-  Updated: 2025-09-29T09:28:23Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Gourmet
   Product Type: Adult Cat Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gourmet-gold-savoury-cake-chicken-12-x-85g-adult-cat-wet-201483.jpg?v=1702499040
   Price: £9.83 GBP
 - [Gourmet Gold Savoury Cake Salmon Cat Food 12 x 85g](https://veryimportantpets.shop/products/gourmet-gold-savoury-cake-salmon-cat-food-12-x-85g): Gourmet Gold Savoury Cake with Salmon. Shop online at Very Important Pets
-  Updated: 2025-09-24T22:28:23Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Gourmet
   Product Type: Adult Cat Wet
   Availability: Available
@@ -15850,7 +15822,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/iams-adult-cat-dry-food-with-fresh-chicken-adult-cat-dry-2x2kg-156599.jpg?v=1730751569
     Price: £21.22 GBP
 - [IAMS Hairball Control Dry Cat Food with Fresh Chicken 2x2kg](https://veryimportantpets.shop/products/iams-cat-adult-vitality-hairball-chicken-2x2kg): IAMS Hairball Control Dry Food for Adult Cats with Fresh Chicken reduces hairball formation and provides high-quality nutrition for your cat's digestive health.
-  Updated: 2025-09-24T17:28:36Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: IAMS
   Product Type: Adult Cat Dry
   Availability: Available
@@ -16297,7 +16269,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-connects-kitty-comber-single-cat-grooming-688418.jpg?v=1702499236
   Price: £9.99 GBP
 - [Versele-Laga Lara Adult Cat Salmon Flavour Dry Food](https://veryimportantpets.shop/products/versele-laga-lara-adult-salmon): Keep your adult cat healthy and satisfied with Versele-Laga Lara Adult Cat Salmon Flavour Dry Cat Food. Packed with salmon and essential minerals.
-  Updated: 2025-09-22T18:54:11Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Versele Laga
   Product Type: Adult Cat Dry
   Availability: Available
@@ -16333,7 +16305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/versele-laga-lara-adult-turkey-chicken-adult-cat-dry-10-kg-916558.jpg?v=1738347363
     Price: £29.61 GBP
 - [Versele-Laga Lara Adult Cat Urinary Care Dry Food 8kg Pack](https://veryimportantpets.shop/products/versele-laga-lara-adult-urinary-care-4x2kg): Promote your cat's urinary health with Versele-Laga Lara Adult Urinary Care Dry Food. Delicious chicken chunks help reduce the risk of urinary tract disease.
-  Updated: 2025-09-22T18:54:02Z
+  Updated: 2025-10-01T13:28:37Z
   Vendor: Versele Laga
   Product Type: Adult Cat Dry
   Availability: Available
@@ -16632,7 +16604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/purina-one-kitten-1-12-months-chicken-kitten-dry-food-4x750g-424826.jpg?v=1702499690
     Price: £30.51 GBP
 - [Purina One Senior 11+ Cat Dry Chicken - Nutritional Aging](https://veryimportantpets.shop/products/purina-one-senior-11-cat-chicken): Support your senior cat's needs with Purina One Senior 11+ Cat Dry Chicken. Scientifically formulated for cats aged 11+ for strong muscles and natural defences.
-  Updated: 2025-09-24T17:28:35Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Purina One
   Product Type: Senior Cat Dry
   Availability: Available
@@ -17085,7 +17057,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-urinary-care-2-kg-adult-cat-dry-127646.jpg?v=1702499764
   Price: £35.11 GBP
 - [Kittyfriend Antibacterial Cat Litter 25 L](https://veryimportantpets.shop/products/kittyfriend-antibacterial-cat-litter-25-l): Kittyfriend Antibacterial Cat Litter is an ultra hygienic cat litter which fights bacteria and offers superior odour control whilst also being ultra absorbent. Shop online at Very Important Pets
-  Updated: 2025-09-29T17:28:31Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Kittyfriend
   Product Type: 
   Availability: Available
@@ -17127,7 +17099,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/sanicat-aloe-vera-7-days-cat-litter-5x4l-litter-362949.jpg?v=1706181439
   Price: £16.09 GBP
 - [Sanicat Diamonds Fragrance Free Cat Litter 4x3.8L](https://veryimportantpets.shop/products/sanicat-diamonds-cat-litter-4x3-8l): Fragrance-free silica Gel Pearls that are practical and low-maintenance. Shop online at Very Important Pets
-  Updated: 2025-09-27T22:28:05Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Sanicat
   Product Type: 
   Availability: Available
@@ -17148,7 +17120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/sheba-fine-flakes-fish-selection-in-jelly-48-x-85g-adult-cat-wet-484263.webp?v=1740514504
   Price: £30.53 GBP
 - [Sheba Fish Flakes in Jelly Variety Pack 40 x 85g Mega-Pack](https://veryimportantpets.shop/products/sheba-fine-flakes-fish-collection-in-jelly-40-x-85g): Give your adult cat the complete nutrition they need with Sheba Fine Flakes Fish Collection in Jelly Mega Pack. No artificial colors or preservatives.
-  Updated: 2025-09-30T22:35:21Z
+  Updated: 2025-10-01T13:35:57Z
   Vendor: Sheba
   Product Type: Adult Cat Wet
   Availability: Available
@@ -17204,7 +17176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/sheba-natures-collection-poultry-selection-in-jelly-pouches-adult-cat-wet-48-x-85g-624640.webp?v=1740514506
     Price: £31.07 GBP
 - [Sheba Select Slices Poultry Selection in Gravy Pouch 40x85g](https://veryimportantpets.shop/products/sheba-select-slice-adult-poultry-selection-in-gravy-pouches-40-x-85g): Deluxe Sheba Select Slices Poultry Collection in Gravy provides complete nutrition for adult cats. Tender pieces in delicious gravy. 40 Pouch Mega-Pack
-  Updated: 2025-09-30T21:10:35Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Sheba
   Product Type: Adult Cat Wet
   Availability: Available
@@ -17324,7 +17296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/van-ness-pet-food-scoop-large-134567.jpg?v=1727002525
     Price: £5.12 GBP
 - [Van Ness High-Sided Cat Litter Tray - Prevent Spills & Mess](https://veryimportantpets.shop/products/van-ness-high-sided-cat-litter-tray): Van Ness High-Sided Cat Pan Litter Tray with modern design & high sides to prevent spills & reduce litter scatter. Easy to clean & odor/stain-resistant.
-  Updated: 2025-10-01T07:13:11Z
+  Updated: 2025-10-01T13:28:29Z
   Vendor: Van Ness
   Product Type: 
   Availability: Available
@@ -17484,7 +17456,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/versele-laga-opti-life-kitten-grain-free-chicken-kitten-dry-food-4-x-25kg-353925.jpg?v=1702500062
     Price: £52.95 GBP
 - [Versele Laga Classic Cat Variety Dry Food - Balanced Diet](https://veryimportantpets.shop/products/versele-laga-classic-cat-variety): Versele Laga Classic Cat Variety Dry Food: Complete feed for cats of all life stages with balanced nutrition. Protein 30%, fat 10%, taurine 0.2%.
-  Updated: 2025-09-30T17:27:50Z
+  Updated: 2025-10-01T13:28:38Z
   Vendor: Versele Laga
   Product Type: Adult Cat Dry
   Availability: Available
@@ -17596,7 +17568,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whiskas-dentabites-adult-cat-treats-with-chicken-6-x-40g-622746.webp?v=1748866484
   Price: £11.12 GBP
 - [Whiskas Dry 1+ Adult Chicken](https://veryimportantpets.shop/products/whiskas-dry-1-adult-chicken): Whiskas Dry 1+ Adult Chicken. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:39Z
+  Updated: 2025-10-01T13:28:36Z
   Vendor: Whiskas
   Product Type: Adult Cat Dry
   Availability: Available
@@ -19522,7 +19494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-redblue-coats-clothing-xl-60cm-length-474547.jpg?v=1708112217
     Price: £18.34 GBP
 - [Ancol Viva Rope Reflective Slip Lead for Active Pet Safety](https://veryimportantpets.shop/products/ancol-viva-slip-rope-reflective-dog-lead): Keep your dog safe with Ancol Viva Rope Reflective Slip Lead. Durable, comfortable, and weather-resistant, with reflective tape for enhanced visibility.
-  Updated: 2025-09-29T13:28:28Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Ancol
   Product Type: 
   Availability: Available
@@ -20513,7 +20485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gencon-lez-graham-slip-clip-lead-collars-leads-dog-blacksilver-557032.jpg?v=1708112875
     Price: £9.66 GBP
 - [Halti Headcollar: Train Your Dog to Stop Pulling](https://veryimportantpets.shop/products/halti-dog-headcollar): Train your dog to stop pulling with the Halti Headcollar. Patented design for comfort & safety. Lightweight & loved by pet parents and trainers.
-  Updated: 2025-09-26T13:28:37Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Halti
   Product Type: 
   Availability: Available
@@ -21305,7 +21277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/scruffs-icon-cream-pet-food-bowl-feeding-bowl-25-cm-785053.jpg?v=1708113680
     Price: £13.73 GBP
 - [Scruffs Icon Long Eared Dog Food & Water Bowl - Cream](https://veryimportantpets.shop/products/scruffs-icon-cream-non-tip-bowl): Scruffs Icon Cream Bowl. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:54Z
+  Updated: 2025-10-01T13:42:50Z
   Vendor: Scruffs
   Product Type: 
   Availability: Available
@@ -22077,7 +22049,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/arden-grange-tasty-turkey-treat-dog-cat-treat-75g-380346.jpg?v=1708461351
   Price: £5.89 GBP
 - [BONIO Chicken Dog Biscuits: Wholesome & Nutritious Treats](https://veryimportantpets.shop/products/bonio-with-chicken-dog-biscuits): Treat your dog to wholesome BONIO biscuits with Chicken, baked with love and enriched with essential vitamins. Perfect for training or playtime!
-  Updated: 2025-09-30T21:10:21Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Bonio
   Product Type: Dog Biscuits
   Availability: Available
@@ -22105,7 +22077,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bonio-meaty-chip-dog-biscuits-5-x-375g-dog-biscuits-399341.jpg?v=1708461562
   Price: £11.21 GBP
 - [BONIO Meaty Chip Bitesize Dog Biscuits - 5 Pack](https://veryimportantpets.shop/products/bonio-meaty-chip-bitesize-dog-biscuits-5-x-400g): PURINA BONIO Meaty Chip Bitesize Small Dog Biscuits: small in size, big in flavour. Packed with tasty meaty pieces for a wholesome, nutritious treat.
-  Updated: 2025-09-29T13:28:26Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Bonio
   Product Type: Dog Biscuits
   Availability: Available
@@ -22119,7 +22091,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bonio-mini-dog-biscuits-dog-biscuits-10kg-222663.jpg?v=1708461561
   Price: £32.99 GBP
 - [BONIO Original Dog Biscuits - Delicious Crunchy Dog Treats](https://veryimportantpets.shop/products/bonio-original-dog-biscuits): Nutritious PURINA BONIO Adult dog biscuits promote healthy teeth, gums, & digestion. Low fat, tasty, & full of vitamins for a happy tail-wagging pup!
-  Updated: 2025-09-30T21:10:22Z
+  Updated: 2025-10-01T13:35:56Z
   Vendor: Bonio
   Product Type: Dog Biscuits
   Availability: Available
@@ -22137,7 +22109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bonio-original-dog-biscuits-dog-biscuits-125kg-262622.jpg?v=1708461564
     Price: £51.95 GBP
 - [Good Boy Chewables Dog Treats - Rawhide Free Medium Chicken Bones - 2 Treats (8 x 158g)](https://veryimportantpets.shop/products/good-boy-chewables-dog-treats-rawhide-free-medium-chicken-bones-2-treats-8-x-158g): Good Boy Chewables Rawhide Free Chicken Medium Bones Dog Treats. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:54Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Good Boy
   Product Type: Dog Chew
   Availability: Available
@@ -22207,7 +22179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/yakers-blueberry-dog-chew-dog-chew-xl-768032.jpg?v=1708463304
     Price: £10.07 GBP
 - [Yakers Cranberry Dog Chew](https://veryimportantpets.shop/products/yakers-cranberry-dog-chew): Yakers Cranberry Dog Chew. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:50Z
+  Updated: 2025-10-01T13:28:35Z
   Vendor: Yakers
   Product Type: Dog Chew
   Availability: Available
@@ -22298,7 +22270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/connollys-red-mills-engage-salmon-rice-dog-food-working-dry-15-kg-947781.png?v=1708549160
     Price: £44.99 GBP
 - [Eukanuba German Shepherd Adult Dog Food 12kg](https://veryimportantpets.shop/products/eukanuba-breed-specific-german-shepherd-adult-dog-food-12kg): Supports healthy digestion, promotes firm stools, aids weight control, nourishes joints, enhances skin & coat. With prebiotics, glucosamine, and Omega-3s.
-  Updated: 2025-09-24T22:28:20Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
@@ -22668,7 +22640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-grain-free-recipes-in-gravy-adult-wet-dog-food-tins-adult-wet-18-x-400g-595393.jpg?v=1715110469
     Price: £21.04 GBP
 - [Butcher's Grain-Free Puppy Perfect: Healthy Start for Pups](https://veryimportantpets.shop/products/butchers-puppy-perfect-grain-free-wet-dog-food-tins): Give your new puppy the best start in life with Butcher's Grain Free Puppy Perfect recipes. Packed with vitamins, minerals, and essential fatty acids.
-  Updated: 2025-10-01T09:28:00Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Butcher's
   Product Type: Puppy/Junior Wet
   Availability: Available
@@ -22682,7 +22654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-puppy-perfect-grain-free-wet-dog-food-tins-puppyjunior-wet-18-x-400g-793298.jpg?v=1715110471
     Price: £21.04 GBP
 - [Butcher's Grain Free Recipes in Jelly Adult Wet Dog Food Tins](https://veryimportantpets.shop/products/butchers-grain-free-recipes-in-jelly-adult-wet-dog-food-tins): Give your dog a vitamin-rich and grain-free meal with Butcher's Grain Free Recipes in Jelly. Enjoy Chicken & Liver, Beef & Liver, or Lamb & Kidney flavours.
-  Updated: 2025-09-29T13:28:25Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Butcher's
   Product Type: Adult Wet
   Availability: Available
@@ -22710,7 +22682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-lean-tasty-wholegrain-wet-adult-dog-food-tins-diet-wet-18-x-390g-102112.jpg?v=1715110477
     Price: £21.04 GBP
 - [Butcher's Grain-Free Chicken & Tripe Loaf: High-Quality Protein & Nutrients](https://veryimportantpets.shop/products/butchers-grain-free-tripe-loaf-recipes-wet-adult-dog-food-tins): High-quality protein, calcium, Vitamin B12, Omega-3 & 6 in Grain-Free Chicken & Tripe Loaf. Green tripe from grass-fed cattle for natural nutrients.
-  Updated: 2025-09-24T13:28:52Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Butcher's
   Product Type: Adult Wet
   Availability: Available
@@ -22752,7 +22724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-grain-free-healthy-heart-adult-wet-dog-food-tins-adult-wet-18-x-390g-437469.png?v=1715110474
     Price: £21.04 GBP
 - [Butcher's Grain-Free Joint and Coat Recipes for Healthy Pets](https://veryimportantpets.shop/products/butchers-grain-free-joints-coat-mixed-wet-adult-dog-food-tins): Vet-recommended grain-free dog food with salmon oil for healthy joints, skin, and coat. Complete and balanced formula with natural active ingredients in tins.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Butcher's
   Product Type: Adult Wet
   Availability: Available
@@ -22836,7 +22808,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-grain-free-traditional-recipes-adult-wet-dog-food-trays-adult-wet-24-x-150g-629721.jpg?v=1715110472
   Price: £18.82 GBP
 - [Lily's Kitchen Beef Goulash with Wholesome Veg and Healthy Herbs](https://veryimportantpets.shop/products/lilys-kitchen-beef-goulash-wet-adult-dog-food-tins-6x400g): Indulge your pup with Lily's Kitchen Beef Goulash, filled with nutritious veggies and wholesome herbs for a truly delicious meal full of vitamins and minerals.
-  Updated: 2025-09-22T18:53:25Z
+  Updated: 2025-10-01T13:28:31Z
   Vendor: Lily's Kitchen
   Product Type: Adult Wet
   Availability: Available
@@ -22871,7 +22843,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/cesar-natural-goodness-grain-free-variety-pack-wet-dog-food-in-terrine-trays-adult-wet-24-x-100g-194104.png?v=1715110474
     Price: £25.06 GBP
 - [Chappie Complete Adult Wet Dog Food - Mixed Flavour Jumbo Pack](https://veryimportantpets.shop/products/chappie-adult-wet-dog-food-favourites-in-tins-24-x-412g): Chappie Complete Wet Dog Food Mixed Flavour Jumbo Pack is a balanced and nutritious option for your furry friend. Trusted favourites recipe since 1935.
-  Updated: 2025-09-29T13:28:28Z
+  Updated: 2025-10-01T13:28:26Z
   Vendor: Chappie
   Product Type: Adult Wet
   Availability: Available
@@ -23120,7 +23092,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/purina-one-senior-7-chicken-dry-cat-food-senior-cat-dry-28-kg-484890.jpg?v=1724538618
     Price: £18.88 GBP
 - [Felix Kitten Original Fish Selection Mix in Jelly Pouches](https://veryimportantpets.shop/products/felix-original-kitten-fish-selection-in-jelly-wet-cat-food): Felix Kitten Original Fish Selection in Jelly Pouches offers variety with Cod, Salmon, White Fish, and Plaice recipes for your kitten's first year. 48 Pouches.
-  Updated: 2025-09-24T13:29:27Z
+  Updated: 2025-10-01T14:51:09Z
   Vendor: Felix
   Product Type: Kitten Wet Food
   Availability: Available
@@ -23615,7 +23587,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/animology-essentials-detangling-spray-250ml-x-5-770727.jpg?v=1728205194
   Price: £10.26 GBP
 - [Hollings Gourmet Pork Sausage Dog Treats 100% Gluten Free](https://veryimportantpets.shop/products/hollings-gourmet-pork-sausage-dog-treats): Tasty, nutritious Hollings Gourmet Pork Sausage Dog Treats. Made with high-quality pork, gluten-free, perfect for training or a tasty snack on the go.
-  Updated: 2025-10-01T09:28:03Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -23630,7 +23602,7 @@ Omega-6 & 3 for skin.
     Availability: Available
     Price: £66.95 GBP
 - [Dr. John Hypoallergenic Activ Dry Dog Food for Working Dogs](https://veryimportantpets.shop/products/dr-john-hypoallergenic-activ): Dr. John Hypoallergenic Activ Dry Dog Food is high-energy nutrition for active working dogs, with 30% protein and 20% fat to support performance.
-  Updated: 2025-09-30T13:27:55Z
+  Updated: 2025-10-01T13:28:27Z
   Vendor: Dr John
   Product Type: Working Dry
   Availability: Available
@@ -23823,7 +23795,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-british-classics-chicken-family-lunch-wet-dog-food-adult-wet-18-x-395g-808238.jpg?v=1733587911
   Price: £32.95 GBP
 - [Arden Grange Duck & Superfood Dog Training Treats 10x 80g](https://veryimportantpets.shop/products/arden-grange-training-treats-duck-superfoods-grain-free): Arden Grange Dog Training Treats: grain-free with duck & superfoods. Ideal for dogs over 8 weeks. Antioxidants, joint & digestion support. Hypoallergenic.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:25Z
   Vendor: Arden Grange
   Product Type: Dog Treats
   Availability: Available
@@ -23844,7 +23816,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/ruffingtons-eclairs-artisan-dog-treats-2-pack-x-4-dog-treats-455620.jpg?v=1734215356
   Price: £15.78 GBP
 - [Good Boy Beef Bites Dog Treats - Oven-Baked Natural Beef 10x](https://veryimportantpets.shop/products/good-boy-pawsley-co-beef-bites-dog-treats-10-x-65g): Good Boy Beef Bites Dog Training Treats: 55% natural beef fillet, oven-baked, 100% human-grade meat, low fat, no artificial additives, puppy-friendly.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-01T13:28:30Z
   Vendor: Good Boy
   Product Type: Dog Treats
   Availability: Available
@@ -23879,7 +23851,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/autarky-grain-free-complete-variety-pack-adult-wet-dog-food-12-x-395g-working-wet-896437.jpg?v=1741893991
   Price: £18.60 GBP
 - [Naturo Adult Dog Grain & Gluten Free Meaty Jelly Selection](https://veryimportantpets.shop/products/naturo-adult-dog-grain-gluten-free-meaty-selection-in-herb-jelly): Naturo Adult Dog Grain & Gluten Free Meaty Variety Pack in Herb Jelly Tins promotes healthy digestion with carefully selected ingredients for sensitive dogs.
-  Updated: 2025-09-30T17:27:53Z
+  Updated: 2025-10-01T13:28:32Z
   Vendor: Naturo
   Product Type: Sensitive Wet
   Availability: Available
@@ -23942,7 +23914,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-senior-7-doubly-delicious-countryside-selection-in-jelly-wet-cat-food-48x85g-senior-cat-wet-658930.webp?v=1742187596
   Price: £27.09 GBP
 - [Felix AGAIL Favourites in Jelly Pouches Adult Cat Wet Food](https://veryimportantpets.shop/products/felix-as-good-as-it-looks-favourites-in-jelly): Treat your feline friend to Felix As Good As It Looks Favourites Selection in Jelly - a tasty variety pack of meat and fish recipes they'll adore!
-  Updated: 2025-09-30T21:10:21Z
+  Updated: 2025-10-01T13:35:55Z
   Vendor: Felix
   Product Type: Adult Cat Wet
   Availability: Available
@@ -24078,8 +24050,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-10-01T09:28:32Z
-  Total Products: 404
+  Updated: 2025-10-01T13:36:27Z
+  Total Products: 407
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-09-30T21:10:33Z
   Total Products: 123
@@ -24126,11 +24098,11 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-30T21:10:30Z
   Total Products: 107
 - [Dog Beds - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-beds): Dog Beds - Very Important Pets | Shop
-  Updated: 2025-10-01T11:40:05Z
+  Updated: 2025-10-01T15:31:18Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-09-30T21:10:36Z
-  Total Products: 586
+  Updated: 2025-10-01T13:29:11Z
+  Total Products: 584
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-09-22T18:52:15Z
   Total Products: 48
@@ -24144,8 +24116,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-06-30T11:51:20Z
   Total Products: 11
 - [Ultimate Cat Care Collection, Shop Food, Toys, Health & More](https://veryimportantpets.shop/collections/cat): Discover high-quality cat supplies for your Very Important Pets, featuring a wide range of cat foods, treats, toys, healthcare products, and accessories.
-  Updated: 2025-10-01T11:40:05Z
-  Total Products: 469
+  Updated: 2025-10-01T15:31:18Z
+  Total Products: 467
 - [e-Gift Cards - Very Important Pets | Shop](https://veryimportantpets.shop/collections/gift-cards): e-Gift Cards - Very Important Pets | Shop
   Updated: 2025-01-13T21:04:18Z
   Total Products: 1
@@ -24162,14 +24134,14 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-30T21:10:31Z
   Total Products: 144
 - [PawHut - Quality Pet Products for Home and Outdoors](https://veryimportantpets.shop/collections/pawhut): PawHut - Quality Pet Products for Home and Outdoors - Very Important Pets | Shop
-  Updated: 2025-09-30T15:30:35Z
-  Total Products: 364
+  Updated: 2025-10-01T15:31:18Z
+  Total Products: 362
 - [Small Animal Supplies - Foods, Habitats, Healthcare | VIPs](https://veryimportantpets.shop/collections/small-pets): Shop for premium small animal products at Very Important Pets. Find food, healthcare, toys, bedding, and more for your pet's health and happiness.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-01T11:40:05Z
-  Total Products: 1784
+  Updated: 2025-10-01T15:31:18Z
+  Total Products: 1783
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-09-22T18:51:59Z
   Total Products: 186
@@ -24555,8 +24527,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-30T21:10:38Z
   Total Products: 3
 - [Scratching and Furniture - Very Important Pets | Shop](https://veryimportantpets.shop/collections/scratching-and-furniture): Scratching and Furniture - Very Important Pets | Shop
-  Updated: 2025-09-29T15:31:27Z
-  Total Products: 85
+  Updated: 2025-10-01T15:31:13Z
+  Total Products: 84
 - [Scratching Posts - Very Important Pets | Shop](https://veryimportantpets.shop/collections/scratching-posts): Scratching Posts - Very Important Pets | Shop
   Updated: 2025-09-29T13:29:00Z
   Total Products: 6
@@ -24564,8 +24536,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-29T15:31:27Z
   Total Products: 57
 - [Cat Scratching Beds & Mats](https://veryimportantpets.shop/collections/cat-scratching-beds-mats)
-  Updated: 2025-08-11T15:31:27Z
-  Total Products: 2
+  Updated: 2025-10-01T15:31:13Z
+  Total Products: 1
 - [Wall Mounted Cat Scratcher](https://veryimportantpets.shop/collections/wall-mounted-cat-scratcher)
   Updated: 2025-08-19T23:31:05Z
   Total Products: 12
@@ -24615,7 +24587,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-01T11:40:05Z
+  Updated: 2025-10-01T13:36:27Z
   Total Products: 1950
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24819,8 +24791,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-01T11:40:05Z
-  Total Products: 2325
+  Updated: 2025-10-01T15:31:18Z
+  Total Products: 2323
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
   Total Products: 14
