@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-01T00:00:31.305Z
+- Updated At: 2025-10-01T04:00:31.650Z
 
 ## Products
 
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh-897054.webp?v=1759221005
     Price: $2,359.00 USD
 - [OUPES B2 Multi-functional Extra Battery](https://oupes.com/products/b2-battery): Discover the OUPES B2 Multi-functional Extra Battery—portable RV power with LiFePO4 safety and smart app control. Charge anywhere, anytime with ease.
-  Updated: 2025-09-30T18:53:57Z
+  Updated: 2025-10-01T02:56:22Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -592,7 +592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Exodus1500PortablePowerStation_240WSolarPanel2.jpg?v=1755138918
     Price: $1,389.00 USD
 - [OUPES Solar Panel Connector MC4 to DC7909 Male Adapter Cable](https://oupes.com/products/oupes-solar-panel-connector-mc4-to-dc7909-male-adapter-cable): Adapter cable for connecting solar panels with MC4 connectors to power stations with a 7909 input port. Or for DIY setups.
-  Updated: 2025-09-26T17:34:14Z
+  Updated: 2025-10-01T00:05:40Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
