@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-09-30T20:00:38.981Z
+- Updated At: 2025-10-01T00:00:38.642Z
 
 ## Products
 
@@ -1887,7 +1887,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/manual-polyethylene-pallet-cover-clear-1680mm-x-1680mm-x-20mu-250-sheets-pallet-top-covers-essential-supplies-339698.jpg?v=1719445314
   Price: $110.00 NZD
 - [PET Strapping Band Embossed - Green, 16mm x 1200m x 1.0mm, 600kgf - 1 Roll](https://essentialsupplies.co.nz/products/pet-strapping-band-embossed-green-16mm-x-1200m-x-1-0mm-600kgf-1): PET strapping band is made from premium strength, lightweight polyester and offers a safe and recyclable alternative to steel strapping.Minimal elongation properties means strap tension is maintained with load settling during transit. Can be securely sealed with serrated seals or friction weld tools. Maintain strap tension during transit Minimal elongation properties means strap tension is maintained with load settling Embossed Strength: 600kgf (KILOGRAM-FORCE WEIGHT) Colour: Green Size: 16mm x 1200mt x 1.0mm
-  Updated: 2025-01-15T17:26:05Z
+  Updated: 2025-09-30T23:57:39Z
   Vendor: Mattews Packaging
   Product Type: PET Strapping Band
   Availability: Available
@@ -1915,7 +1915,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-boot-covers-blue-510mm-x-70mu-250-pieces-foot-protection-essential-supplies-496441.jpg?v=1719445563
   Price: $99.00 NZD
 - [Polyethylene Boot Covers - Clear, 510mm x 70mu - 250 Pieces](https://essentialsupplies.co.nz/products/polyethylene-boot-covers-clear-510mm-x-70mu-250): Polyethylene boot covers are designed to mitigate contamination by creating an effective barrier between footwear and flooring. With a 510mm boot height and elasticated band to secure to clothing for complete coverage. Ideal for use in the medical, health care, animal care and food processing environments. 72mu Designed to mitigate contamination by creating an effective barrier between footwear and flooring Elasticated band to secure to clothing for complete coverageIdeal for use in medical, health care, animal care and food processing environments Size: 510mm high Content: 250 pieces Colour: Clear
-  Updated: 2025-01-09T08:40:42Z
+  Updated: 2025-09-30T21:46:07Z
   Vendor: Mattews Packaging
   Product Type: Foot Protection
   Availability: Available
