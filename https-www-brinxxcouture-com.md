@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-09-30T20:00:46.915Z
+- Updated At: 2025-10-01T00:00:51.988Z
 
 ## Products
 
@@ -9236,7 +9236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/One-Shoulder-Long-Sleeve-Dress-Brinxx-Couture-5470.jpg?v=1709848983
     Price: $44.00 USD
 - [Zip-Up High Neck Puffer Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/zip-up-high-neck-puffer-jacket): Stay warm and protected in any season with our insulated Zip-Up High Neck Puffer Jacket. The unique high-neck design provides enhanced insulation.
-  Updated: 2025-08-22T19:23:50Z
+  Updated: 2025-09-30T23:14:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-30T13:51:52Z
+  Updated: 2025-09-30T23:30:49Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29762,7 +29762,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8752f6cf5b91414fb0fd06a0dd136a96-Max.jpg?v=1736541194
     Price: $49.99 USD
 - [Stylish Lace-Up Backless Mesh Dress for Prom Night](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress): Shop our Stylish Lace-Up Backless Mesh Dress from Brinxx Couture for a unique prom look. Features an elegant lace-up backless design. Limited stock, order now!
-  Updated: 2025-09-30T06:51:31Z
+  Updated: 2025-09-30T23:41:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
