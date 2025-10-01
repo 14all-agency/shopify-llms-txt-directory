@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-01T16:00:47.100Z
+- Updated At: 2025-10-01T20:00:46.780Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-09-30T16:11:57Z
+  Updated: 2025-10-01T16:30:49Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-09-30T16:50:40Z
+  Updated: 2025-10-01T18:32:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14634,7 +14634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Solid-Hollow-Out-Cutout-Split-Dress-Top-Brinxx-Couture-6320.jpg?v=1709875308
     Price: $34.99 USD
 - [18K Gold-Plated Chain Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-chain-necklace): This 18K gold-plated chain necklace exudes elegance and luxury. Crafted with precision and coated in high-quality gold, it adds a touch of sophistication to any outfit.
-  Updated: 2025-09-26T03:15:14Z
+  Updated: 2025-10-01T16:22:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-01T15:51:00Z
+  Updated: 2025-10-01T18:10:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
