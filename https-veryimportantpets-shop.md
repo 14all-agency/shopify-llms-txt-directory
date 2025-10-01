@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-01T04:01:10.398Z
+- Updated At: 2025-10-01T08:01:10.289Z
 
 ## Products
 
@@ -1563,7 +1563,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/compact-pet-stroller-easy-fold-airy-mesh-safety-leash-pet-stroller-red-315841.jpg?v=1700658578
     Price: £62.99 GBP
 - [Compact Dark Blue Pet Crate with Mesh Windows](https://veryimportantpets.shop/products/compact-dark-blue-pet-crate-with-mesh-windows): This fabric dog crate for small dogs and cats creates a roomy space for your furry friends. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:30:57Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1703,7 +1703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/81cm-foldable-carrier-for-medium-pets-with-cushion-pet-carrier-grey-709943.jpg?v=1700662910
     Price: £44.99 GBP
 - [91cm Foldable Pet Carrier, with Cushion, for Medium Dogs and Cats](https://veryimportantpets.shop/products/91cm-foldable-pet-carrier-for-medium-dogs-and-cats): Need help to travel with pets? With this PawHut fabric dog crate, you'll struggle no more. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:30:56Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -2177,7 +2177,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-end-table-with-cushion-for-smallmedium-dogs-dog-crate-871691.jpg?v=1700647908
   Price: £107.99 GBP
 - [Spacious Outdoor Wooden Dog Kennel - Grey, 72x109x79cm](https://veryimportantpets.shop/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm): Dogs love the outdoors! So, let them enjoy it safely with this PawHut dog kennel. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:36Z
+  Updated: 2025-10-01T07:30:31Z
   Vendor: PawHut
   Product Type: Dog Kennel
   Availability: Available
@@ -2340,7 +2340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-with-storage-pet-chair-for-small-dogs-cat-couch-with-soft-cushion-light-blue-76-x-45-x-415-cm-light-blue-728983.jpg?v=1700656990
   Price: £80.99 GBP
 - [Dog Sofa for XS and S Size Dogs, Pet Chair Bed with Soft Cushion, Cat Sofa Couch with Washable Cover, Wooden Frame](https://veryimportantpets.shop/products/dog-sofa-for-xs-and-s-size-dogs-pet-chair-bed-with-soft-cushion-cat-sofa-couch-with-washable-cover-wooden-frame): This dog couch from PawHut is made for cats or dogs to lounge in luxury. Shop online at Very Important Pets
-  Updated: 2025-09-30T15:30:36Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2410,7 +2410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/retractable-safety-gate-dog-pet-barrier-folding-protector-home-doorway-room-divider-stair-guard-white-115lx825hcm-533139.jpg?v=1700649290
   Price: £35.99 GBP
 - [Freestanding Small Wooden Pet Safety Gate Room Separator - Dark Brown | Very Important Pets](https://veryimportantpets.shop/products/pet-gate-160lx1-2dx76h-cm-free-standing-folding-pet-safety-fence-dark-brown): Create a secure boundary for your pets with our freestanding fence, ideal for small dogs. Measuring 160L-1.2D-76H cm, this wooden gate features a high gloss dark brown finish, complementing any room decor. Its three-fold design is perfect for doorways or as a room divider, offering flexibility and portability. Set boundaries stylishly with this elegant and functional pet safety solution.
-  Updated: 2025-09-29T23:30:55Z
+  Updated: 2025-10-01T07:30:31Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -3251,7 +3251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/100-cm-cat-tree-climbing-tower-activity-centre-scratching-tree-beige-116925.webp?v=1704738252
     Price: £44.99 GBP
 - [Cat Tree, Cat Tower for Kittens, Small Cat Condo with Rotatable Top Bar, Sisal Scratching Post, Tunnel, Dangling Balls](https://veryimportantpets.shop/products/cat-tree-cat-tower-for-kittens-small-cat-condo-with-rotatable-top-bar-sisal-scratching-post-tunnel-dangling-balls): Every cat and kitten needs a place to relax and be entertained. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:56Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3381,7 +3381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:56Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3409,7 +3409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/mult-level-cat-tree-for-indoor-cats-with-scratching-post-bed-condo-perch-kitten-climbing-tower-beige-198831.jpg?v=1700651810
     Price: £44.99 GBP
 - [91cm Cat Tower Scratching Posts Cat Tree for Indoor Cats Kitten Activity Centre](https://veryimportantpets.shop/products/91cm-cat-tower-scratching-posts-cat-tree-for-indoor-cats-kitten-activity-centre): Treat your cat to somewhere new to rest and relax with this cat tower from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:55Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Scratching Post
   Availability: Available
@@ -4285,7 +4285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-rabbit-hutch-with-removable-trays-for-1-2-rabbits-rabbit-hutch-grey-927895.jpg?v=1700647117
   Price: £116.99 GBP
 - [Indoor Wooden Rabbit Hutch, Guinea Pig House, Two Tier with Openable Roof, Wheels, Slide-out Tray, 91.5 x 53.3 x 73 cm](https://veryimportantpets.shop/products/indoor-wooden-rabbit-hutch-guinea-pig-house-two-tier-with-openable-roof-wheels-slide-out-tray-91-5-x-53-3-x-73-cm): Choose this indoor rabbit cage from PawHut to give your rabbit, guinea pig and other small animals a place to rest and play. Shop online at Very Important Pets
-  Updated: 2025-09-30T07:30:29Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4345,7 +4345,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-animal-cage-with-hammock-wheels-pets-home-small-animal-cage-482199.jpg?v=1700648506
   Price: £71.99 GBP
 - [Mobile Small Animal Cage - Ideal for Small Rabbits, Guinea Pigs](https://veryimportantpets.shop/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs): Give your small pet their place to chill the day away with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T07:30:30Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4429,7 +4429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-1255-x-100-x-49cm-502292.jpg?v=1700650041
   Price: £107.99 GBP
 - [Rabbit Hutch Small Animal Guinea Pig House with Openable Main House & Run Roof](https://veryimportantpets.shop/products/rabbit-hutch-small-animal-guinea-pig-house-with-openable-main-house-run-roof): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T07:30:32Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -6583,7 +6583,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gusto-puppy-junior-12-kg-working-dry-341488.jpg?v=1700654200
   Price: £22.68 GBP
 - [Harringtons Dog Active Worker Lamb & Rice 15 kg](https://veryimportantpets.shop/products/harringtons-dog-active-worker-lamb-15-kg): Harringtons Active Worker is a complete Dry food with Lamb &amp; Rice. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:50Z
+  Updated: 2025-10-01T05:27:35Z
   Vendor: Harringtons
   Product Type: Working Dry
   Availability: Available
@@ -9745,7 +9745,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-senior-dog-complete-grain-free-lamb-with-butternut-squash-veg-18x395g-senior-wet-660503.jpg?v=1724006922
   Price: £29.49 GBP
 - [Forthglade Senior Turkey & Lamb Wet Dog Food Variety Pack](https://veryimportantpets.shop/products/forthglade-complete-grain-free-senior-variety-butternet-squash-veg-12x395g): Tailored senior dog recipes with 60% protein, omega 3-rich salmon oil, and joint health supplements to support your older pup's cognitive and mobility needs.
-  Updated: 2025-09-22T18:52:49Z
+  Updated: 2025-10-01T05:27:36Z
   Vendor: Forthglade
   Product Type: Senior Wet
   Availability: Available
@@ -15952,7 +15952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-adult-cat-grain-free-turkey-in-gravy-pouches-adult-cat-wet-4x-12x85g-869167.jpg?v=1702499161
     Price: £59.41 GBP
 - [James Wellbeloved Grain Free Turkey & Veg Cat Food](https://veryimportantpets.shop/products/james-wellbeloved-adult-cat-turkey-grain-free): James Wellbeloved Adult Cat Turkey Grain Free is hypo-allergenic, gentle on digestion & formulated without cereals for sensitive adult cats.
-  Updated: 2025-09-30T21:10:25Z
+  Updated: 2025-10-01T05:35:21Z
   Vendor: James Wellbeloved
   Product Type: Adult Cat Dry
   Availability: Available
@@ -15962,7 +15962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-adult-cat-turkey-grain-free-adult-cat-dry-15-kg-546470.jpg?v=1702499161
     Price: £21.94 GBP
   - [4 kg](https://veryimportantpets.shop/products/james-wellbeloved-adult-cat-turkey-grain-free?variant=47293776855330)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-adult-cat-turkey-grain-free-adult-cat-dry-4-kg-611184.jpg?v=1702499161
     Price: £43.46 GBP
   - [10 kg](https://veryimportantpets.shop/products/james-wellbeloved-adult-cat-turkey-grain-free?variant=47293776888098)
@@ -17275,7 +17275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/van-ness-pet-food-scoop-large-134567.jpg?v=1727002525
     Price: £5.12 GBP
 - [Van Ness High-Sided Cat Litter Tray - Prevent Spills & Mess](https://veryimportantpets.shop/products/van-ness-high-sided-cat-litter-tray): Van Ness High-Sided Cat Pan Litter Tray with modern design & high sides to prevent spills & reduce litter scatter. Easy to clean & odor/stain-resistant.
-  Updated: 2025-09-30T13:28:02Z
+  Updated: 2025-10-01T07:13:11Z
   Vendor: Van Ness
   Product Type: 
   Availability: Available
@@ -17818,7 +17818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whiskas-senior-11-fish-favourites-in-jelly-wet-cat-food-pouches-4x-12x85g-senior-cat-wet-736954.webp?v=1722185316
   Price: £24.02 GBP
 - [Whiskas Kitten Fish Favourites Wet Cat Food in Jelly - 48 pk](https://veryimportantpets.shop/products/whiskas-kitten-2-12-month-fish-favourites-in-jelly-pouches-4-x-12-x-85g): Whiskas Kitten 2-12 Month Fish Favourites Wet Cat Food in Jelly preserves natural goodness for happy, healthy kittens. Made with high-quality ingredients.
-  Updated: 2025-09-30T21:10:37Z
+  Updated: 2025-10-01T04:45:59Z
   Vendor: Whiskas
   Product Type: Kitten Wet Food
   Availability: Available
@@ -22193,7 +22193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/connollys-red-mills-engage-chicken-dog-food-working-dry-15-kg-223283.png?v=1708549160
     Price: £31.60 GBP
 - [Connolly's Red Mills Engage Duck & Rice Dog Food](https://veryimportantpets.shop/products/connollys-red-mills-engage-duck-rice-dog-food): Red Mills Engage Duck &amp; Rice is a hypoallergenic diet formulated to keep your dog ahead of the pack. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:37Z
+  Updated: 2025-10-01T05:27:21Z
   Vendor: Connolly's Red Mills
   Product Type: Working Dry
   Availability: Available
