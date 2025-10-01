@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-09-30T04:00:27.694Z
+- Updated At: 2025-10-01T04:00:27.562Z
 
 ## Products
 
@@ -329,7 +329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-09-26T20:24:58Z
+  Updated: 2025-09-30T08:27:16Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -656,6 +656,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/44aa0790-166e-4590-b544-0badfe026819_fine.jpg?v=1759126335
     Price: $13.78 USD
+- [Fusion Vibe Gift Card](https://fusionvibestore.com/products/fusion-vibe-gift-card): Give the gift of choice! 🎁The Fusion Vibe Gift Card lets your friends and loved ones pick their favorite gadgets and lifestyle products from our store.
+  Updated: 2025-09-30T10:08:59Z
+  Vendor: FusionVibestore
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ChatGPTImageSep13_2025_05_11_46PM.png?v=1759226757
+  - [$10.00](https://fusionvibestore.com/products/fusion-vibe-gift-card?variant=45611993432263)
+    Availability: Available
+    Price: $10.00 USD
+  - [$25.00](https://fusionvibestore.com/products/fusion-vibe-gift-card?variant=45611993465031)
+    Availability: Available
+    Price: $25.00 USD
+  - [$50.00](https://fusionvibestore.com/products/fusion-vibe-gift-card?variant=45611993497799)
+    Availability: Available
+    Price: $50.00 USD
+  - [$100.00](https://fusionvibestore.com/products/fusion-vibe-gift-card?variant=45611993530567)
+    Availability: Available
+    Price: $100.00 USD
 
 ## Collections
 
