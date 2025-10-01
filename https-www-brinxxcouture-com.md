@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-01T04:00:48.901Z
+- Updated At: 2025-10-01T08:00:45.358Z
 
 ## Products
 
@@ -7002,7 +7002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Collared-Short-Sleeve-Bodycon-Dress-Brinxx-Couture-7163.jpg?v=1730298808
     Price: $21.00 USD
 - [Gradient Sports Bra and Leggings Set - Brinxx Couture](https://www.brinxxcouture.com/products/gradient-sports-bra-and-leggings-set): Take your workouts to the next level with this gradient sports bra and leggings set. With maximum flexibility, the breathable fabric ensures maximum comfort.
-  Updated: 2025-09-10T11:04:00Z
+  Updated: 2025-10-01T05:43:58Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17061,7 +17061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-09-30T00:11:03Z
+  Updated: 2025-10-01T06:10:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22278,7 +22278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-09-30T01:30:56Z
+  Updated: 2025-10-01T07:30:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-01T03:52:26Z
+  Updated: 2025-10-01T05:30:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25126,7 +25126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sunken-Stripe-Long-Sleeve-Two-Piece-Set-Brinxx-Couture-1841.jpg?v=1730299488
     Price: $39.99 USD
 - [Chevron Crossbody Handbag - Brinxx Couture](https://www.brinxxcouture.com/products/chevron-crossbody-handbag): Experience chic style and convenience with our Chevron Crossbody Handbag! Featuring a trendy chevron pattern, this bag adds a pop of personality to any outfit.
-  Updated: 2025-08-22T19:26:02Z
+  Updated: 2025-10-01T05:05:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-01T02:00:35Z
+  Updated: 2025-10-01T04:20:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26168,7 +26168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-41_cebae25a-e813-4b8c-adbf-6a31c2dbba20.jpg?v=1736049314
     Price: $30.00 USD
   - [Brown / S](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893014710)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / M](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893047478)
@@ -26180,7 +26180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / XL](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893113014)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
@@ -36015,7 +36015,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01J0AbAk1e59asiNVgO__2212335093819-0-cib.jpg?v=1758900299
     Price: $69.99 USD
 - [Side Zip Up Wide Strap Shapewear - Brinxx Couture](https://www.brinxxcouture.com/products/side-zip-up-wide-strap-shapewear): Look and feel your best with this Side Zip Up Wide Strap Shapewear. Crafted from high-quality fabric, it's designed to mold to your body for a comfortable.
-  Updated: 2025-09-30T19:53:14Z
+  Updated: 2025-10-01T06:05:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
