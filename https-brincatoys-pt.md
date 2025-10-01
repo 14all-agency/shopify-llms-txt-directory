@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-01T00:01:03.085Z
+- Updated At: 2025-10-01T04:01:06.344Z
 
 ## Products
 
@@ -1232,7 +1232,7 @@ Possibilidade de guardar "tesouros" na gaveta.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/caixa-de-musica-animal-de-companhia-792007322-brincatoys-1178692972.jpg?v=1752820097
   Price: 21,99 € EUR
 - [Caixinha de Música Bailarina - Encanto Nostálgico](https://brincatoys.pt/products/caixinha-de-musica-bailarina): Adquira a Caixinha de Música Bailarina com detalhes delicados e melodia clássica. Perfeita para guardar tesouros com um toque de nostalgia.
-  Updated: 2025-09-30T11:30:30Z
+  Updated: 2025-10-01T00:14:25Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -12156,7 +12156,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-falcon-1000-pcs-gathering-on-the-couch-81129323-2600000-brincatoys-1178696712.jpg?v=1752804248
   Price: 16,95 € EUR
 - [Puzzle Falcon 1000 pçs - The Ice Cream Van](https://brincatoys.pt/products/puzzle-falcon-1000-pcs-the-ice-cream-van): O Ice Cream Van é um quebra-cabeça de 1000 peças de qualidade. Esta imagem encantadora retrata uma cena cheia de uma sensação de alegria atemporal, enquanto crianças e adultos se reúnem em torno da van de gelados local, esperando ansiosamente a sua vez de comprar uma guloseima deliciosa. É  feito de papelão de alta qualidade para garantir que cada
-  Updated: 2025-09-30T02:33:31Z
+  Updated: 2025-10-01T01:27:38Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -21392,8 +21392,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T20:40:30Z
   Total Products: 3525
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-09-30T11:48:37Z
-  Total Products: 362
+  Updated: 2025-10-01T00:07:24Z
+  Total Products: 361
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21644,8 +21644,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T18:04:21Z
   Total Products: 3068
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-01T00:00:10Z
-  Total Products: 939
+  Updated: 2025-10-01T00:07:24Z
+  Total Products: 940
 
 ## Blogs
 
