@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-01T00:00:43.793Z
+- Updated At: 2025-10-01T04:00:42.612Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -8195,7 +8195,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [White Quartz Drop Hoop Earrings | Rose Gold Earrings | Lily Blanche](https://www.lilyblanche.com/products/white-quartz-drop-hoop-earrings-rose-gold-april): Searching for some gorgeous birthstone earrings? Make a statement with our White Quartz Drop Hoop Earrings in 18 carat rose gold vermeil. As the birthstone for April, White Quartz symbolises strength. Free UK shipping & luxury jewellery care kit included worth £20. Shop online today. Express delivery available.
-  Updated: 2025-07-12T09:16:45Z
+  Updated: 2025-10-01T03:58:50Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
