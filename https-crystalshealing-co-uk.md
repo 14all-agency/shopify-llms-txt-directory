@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-01T16:00:35.341Z
+- Updated At: 2025-10-01T20:00:35.977Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -866,7 +866,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/Miyuki_Freshwater_Pearl_Bracelet_9.jpg?v=1739737533
     Price: £16.00 GBP
 - [Miyuki Geometric Friendship Bracelet - Unique & Stylish](https://crystalshealing.co.uk/products/miyuki-geometric-friendship-bracelet): Celebrate friendship with the Miyuki Geometric Friendship Bracelet, handcrafted for a unique, colorful style that symbolizes connection and joy.
-  Updated: 2025-10-01T15:00:58Z
+  Updated: 2025-10-01T17:29:01Z
   Vendor: Crystals Healing
   Product Type: Miyuki bracelet
   Availability: Available
@@ -2799,7 +2799,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/Untitleddesign_1_-min_5bcadc63-a6b4-44ef-9add-8e04e5ce14df.jpg?v=1739739019
     Price: £23.00 GBP
 - [Orgone Chakra Necklace - Energy Balance & Protection](https://crystalshealing.co.uk/products/orgone-energy-necklace): Align and protect your energy with the Orgone Chakra Necklace, designed to balance chakras, enhance positivity, and promote spiritual well-being.
-  Updated: 2025-10-01T15:01:11Z
+  Updated: 2025-10-01T19:23:19Z
   Vendor: Crystals Healing
   Product Type: Necklace
   Availability: Available
@@ -5289,7 +5289,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Wish List | Save Your Favorite Healing Crystals](https://crystalshealing.co.uk/pages/wish-list): Build your wish list collection of healing bracelets, necklaces, earrings, and rings.
   Updated: 2025-09-24T10:00:41Z
 - [Customer Reviews | Trusted Feedback on Crystal Products](https://crystalshealing.co.uk/pages/reviews): Discover insightful reviews and ratings on a wide range of products and services. Make informed decisions based on user experiences and recommendat...
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-10-01T17:29:49Z
 - [How to Use Clearpay for Easy Shopping | Step-by-Step](https://crystalshealing.co.uk/pages/how-can-i-use-clearpay): Master the art of shopping with How to use Clearpay. Enjoy now, pay later, and manage your budget effectively with our comprehensive guide. If you'...
   Updated: 2025-09-24T10:00:41Z
 - [How to Use Klarna for Flexible Payments | Step-by-Step](https://crystalshealing.co.uk/pages/how-can-i-use-klarna): How to use Klarna Shopping with Klarna is easy and convenient, and this guide will help you understand how to use it when shopping at Crystals Heal...
