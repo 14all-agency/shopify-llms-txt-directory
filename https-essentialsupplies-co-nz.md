@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-01T12:00:40.400Z
+- Updated At: 2025-10-01T20:00:39.227Z
 
 ## Products
 
@@ -2559,7 +2559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/glass-polishing-cloth-blue-400mm-x-400mm-300gsm-10-dry-cloths-essential-supplies-806181.jpg?v=1719445161
   Price: $149.00 NZD
 - [Recycled Jumbo Toilet Tissue Boxed - White, 2 Ply, 300m, FSC Recycled® - 8 Rolls](https://essentialsupplies.co.nz/products/recycled-jumbo-toilet-tissue-boxed-white-2-ply-300m-fsc-recycled®-8): Recycled jumbo toilet tissue is a great, environmentally friendly, economical choice for your toilet paper needs.Made from 100% FSC certified recycled tissue, the absorbent tissue is a great option for high traffic bathrooms. It contains no dyes, inks or chlorine and is sold in a sleeve of 8 rolls of non perforated toilet tissue. Environmentally friendly economical choice 100% FSC certified recycled tissue They contain no dyes, inks or chlorineNon perforated Ply: 2Roll Length: 300 metres Colour: White
-  Updated: 2025-10-01T07:41:29Z
+  Updated: 2025-10-01T14:19:16Z
   Vendor: Mattews Packaging
   Product Type: Jumbo Toilet Tissue
   Availability: Available
