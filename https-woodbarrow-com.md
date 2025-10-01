@@ -6,12 +6,12 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-10-01T00:00:32.771Z
+- Updated At: 2025-10-01T12:00:30.789Z
 
 ## Products
 
 - [QR Code Stand - Simple Acrylic Design with Wooden Base](https://woodbarrow.com/products/simple-acrylic-qr-code-stand-with-logo-wooden-base): Elevate your brand with our Simple Acrylic QR Code Stand featuring a stylish wooden base. Perfect for any space, this 8cm x 11cm stand showcases your logo and turns scanning into a breeze.
-  Updated: 2025-09-30T13:57:36Z
+  Updated: 2025-10-01T01:57:46Z
   Vendor: Wood Barrow
   Product Type: QR Code Box
   Availability: Available
