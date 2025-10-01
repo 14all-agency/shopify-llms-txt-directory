@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-01T01:51:17.592Z
+- Updated At: 2025-10-01T01:53:34.257Z
 
 ## Products
 
@@ -11482,6 +11482,12 @@
 
 - [Privacy Policy](https://soulthreads25.com/policies/privacy-policy)
   Updated: 2025-07-21T18:17:51-05:00
+
+## Alternate Currencies & Languages
+
+- [International (en / USD)](https://soulthreads25.com/llms.txt?market=international)
+- [Soulthreads25 (en / USD)](https://soulthreads25.com/llms.txt?market=soulthreads25)
+- [United States (en / USD)](https://soulthreads25.com/llms.txt?market=us)
 
 ## Optional
 
