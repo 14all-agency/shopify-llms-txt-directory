@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-01T12:00:47.148Z
+- Updated At: 2025-10-01T16:00:47.100Z
 
 ## Products
 
@@ -20867,7 +20867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a4330c70-4097-42b2-9373-36b589bc91b3-Max.jpg?v=1722968033
     Price: $45.00 USD
 - [Pocketed Open Front Long Sleeve Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/pocketed-open-front-long-sleeve-cardigan): This Pocketed Open Front Long Sleeve Cardigan is both stylish and functional. With its open front design, long sleeves, and convenient pockets. Great for layering.
-  Updated: 2025-09-30T02:47:56Z
+  Updated: 2025-10-01T12:48:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-01T11:10:35Z
+  Updated: 2025-10-01T15:51:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26272,7 +26272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Socialite-Bodycon-Mesh-Sleeve-Dress-Brinxx-Couture-9485.jpg?v=1730300860
     Price: $39.99 USD
 - [Plus Size Slim Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-slim-maxi-dress): Transform your look with our Plus Size Slim Maxi Dress. Designed for a flattering fit, The perfect choice for any occasion. Look elegant and feel confident.
-  Updated: 2025-07-07T20:59:34Z
+  Updated: 2025-10-01T12:05:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
