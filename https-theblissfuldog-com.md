@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-01T12:00:42.475Z
+- Updated At: 2025-10-01T16:00:38.849Z
 
 ## Products
 
@@ -5316,7 +5316,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIBA_RELAX_SPRAY_2500.jpg?v=1623594180
     Price: $13.95 USD
 - [Is Your Great Pyrenees Afraid of Thunder? Fireworks? Being Alone?](https://theblissfuldog.com/products/great-pyrenees-relax-dog-aromatherapy): Is your Great Pyrenees afraid of thunder? Relax Dog Aromatherapy soothes your Pyr's anxiety with our calming blend of essential oils. Free Shipping in USA
-  Updated: 2025-10-01T01:54:18Z
+  Updated: 2025-10-01T12:13:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -12563,7 +12563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/KUVASZ-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738724088
     Price: $11.95 USD
 - [The Blissful Dog Nose Butter® Moisturizes Dry Anatolian Shepherd Nose](https://theblissfuldog.com/products/anatolian-shepherd-nose-butter): Does your Anatolian Shepherd have a dry dog nose? Anatolian Shepherd NOSE BUTTER® moisturizes dry dog noses from just a bit dry to extreme nasal hyperkeratosis.
-  Updated: 2025-06-24T16:13:14Z
+  Updated: 2025-10-01T12:28:20Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -12744,7 +12744,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COTON_15TUBE_COMBO_ecf4a230-612d-4a3d-903d-22e39802da8c.jpg?v=1648396474
   Price: $19.95 USD
 - [Curly-Coated Retriever Skin Care Combo for Noses & Paws + Itchy Skin](https://theblissfuldog.com/products/curly-coated-retriever-tube-combo): The Blissful Dog Build Your Own Curly-Coated Retriever Skin Care Custom Combo. Our all natural balms soothe Curly Coat rough, dry noses, dry paws or itchy skin.
-  Updated: 2025-06-24T16:09:35Z
+  Updated: 2025-10-01T14:00:47Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
