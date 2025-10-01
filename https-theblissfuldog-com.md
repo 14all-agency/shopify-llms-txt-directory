@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-01T00:00:40.911Z
+- Updated At: 2025-10-01T08:00:38.007Z
 
 ## Products
 
@@ -5316,7 +5316,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIBA_RELAX_SPRAY_2500.jpg?v=1623594180
     Price: $13.95 USD
 - [Is Your Great Pyrenees Afraid of Thunder? Fireworks? Being Alone?](https://theblissfuldog.com/products/great-pyrenees-relax-dog-aromatherapy): Is your Great Pyrenees afraid of thunder? Relax Dog Aromatherapy soothes your Pyr's anxiety with our calming blend of essential oils. Free Shipping in USA
-  Updated: 2025-05-31T10:36:44Z
+  Updated: 2025-10-01T01:54:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -5592,7 +5592,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULLMASTIFF-RELAX-SPRAY-2024.jpg?v=1738771841
     Price: $13.95 USD
 - [Chinese Crested Nose Butter Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/chinese-crested-nose-butter): The Blissful Dog Chinese Crested Nose Butter® for your Crested's rough, dry nose AND skin.  In tins and tubes with Chinese Crested labels. Free Shipping in USA
-  Updated: 2025-06-24T16:11:43Z
+  Updated: 2025-10-01T03:55:26Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
