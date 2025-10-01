@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-01T08:00:45.358Z
+- Updated At: 2025-10-01T12:00:47.148Z
 
 ## Products
 
@@ -12677,7 +12677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Turtleneck-Long-Sleeve-Dress-Brinxx-Couture-3771.jpg?v=1709870425
     Price: $44.99 USD
 - [Mock Neck Long Sleeve Maxi Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-long-sleeve-maxi-dress): This Mock Neck Long Sleeve Maxi Bodycon Dress is the perfect mix of sophisticated and chic. Featuring a mock neck and long sleeves, this dress is perfect to rock any style.
-  Updated: 2025-09-26T15:40:45Z
+  Updated: 2025-10-01T11:55:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17670,7 +17670,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-09-18T03:21:03Z
+  Updated: 2025-10-01T08:40:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-01T05:30:56Z
+  Updated: 2025-10-01T11:10:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-01T04:20:36Z
+  Updated: 2025-10-01T10:20:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36153,7 +36153,7 @@
   Updated: 2025-08-22T19:23:30Z
   Total Products: 25
 - [Body Shapewear & Slimming Underwear - Brinxx Couture](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover flattering body shapewear & slimming underwear at Brinxx Couture. Smooth, sculpt & enhance your silhouette with comfortable, effective designs.
-  Updated: 2025-09-30T18:10:13Z
+  Updated: 2025-10-01T11:21:36Z
   Total Products: 22
 - [Trendy Women's Jewelry - Necklaces, Earrings & Bracelets - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-jewelry): Discover stunning women's jewelry at Brinxx Couture. Shop trendy necklaces, earrings, bracelets & rings. Affordable luxury pieces to complete any look.
   Updated: 2025-09-04T20:30:50Z
