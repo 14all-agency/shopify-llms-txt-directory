@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-01T00:00:51.988Z
+- Updated At: 2025-10-01T04:00:48.901Z
 
 ## Products
 
@@ -19243,7 +19243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Yoga-Pants-Brinxx-Couture-2979.jpg?v=1726380355
     Price: $32.00 USD
 - [Plus Size Gradient Sports Bra](https://www.brinxxcouture.com/products/plus-size-gradient-sports-bra): This Plus Size Gradient Sports Bra offers maximum support and comfort for any workout. Its gradient design not only adds a touch of style but also enhances breathability. With its plus size fit, this bra is perfect for all body types. Say goodbye to uncomfortable sports bras and hello to ultimate confidence and performance. Fabric: Nylon Seam Type: Non-seamless Closure Type: Non-Closure Strap Type: Regular Strap
-  Updated: 2025-07-07T20:58:50Z
+  Updated: 2025-10-01T03:17:54Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21923,7 +21923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-09-30T13:16:50Z
+  Updated: 2025-10-01T02:40:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-09-30T23:30:49Z
+  Updated: 2025-10-01T03:52:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23606,13 +23606,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fuzzy-Zip-Up-Long-Sleeve-Hooded-Jacket-Brinxx-Couture-2156.jpg?v=1730297285
     Price: $49.99 USD
 - [Suede Fringe Adjustable Strap Shoulder Bag - Brinxx Couture](https://www.brinxxcouture.com/products/suede-fringe-adjustable-strap-shoulder-bag): Effortlessly stylish and versatile, our Suede Fringe Adjustable Strap Shoulder Bag is a must-have addition. The soft material provide comfort and durability.
-  Updated: 2025-09-24T17:27:17Z
+  Updated: 2025-10-01T00:32:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Suede-Fringe-Adjustable-Strap-Shoulder-Bag-Brinxx-Couture-7729.jpg?v=1730297302
   - [Caramel / One Size](https://www.brinxxcouture.com/products/suede-fringe-adjustable-strap-shoulder-bag?variant=43445765243062)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Suede-Fringe-Adjustable-Strap-Shoulder-Bag-Brinxx-Couture-7729.jpg?v=1730297302
     Price: $29.99 USD
   - [Khaki / One Size](https://www.brinxxcouture.com/products/suede-fringe-adjustable-strap-shoulder-bag?variant=43445765275830)
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-09-30T09:40:43Z
+  Updated: 2025-10-01T02:00:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32453,7 +32453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01SSme5Z1uPKuVgjm6A__2652346029-0-cib.jpg?v=1743194313
     Price: $54.99 USD
 - [Square Neck Wide Strap Midi Tank Dress - Brinxx Couture](https://www.brinxxcouture.com/products/square-neck-wide-strap-midi-tank-dress): This midi tank dress boasts a flattering square neck and wide straps, perfect for any occasion. The timeless design adds a touch of sophistication to your wardrobe.
-  Updated: 2025-09-28T07:01:41Z
+  Updated: 2025-10-01T02:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
