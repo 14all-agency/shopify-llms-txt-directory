@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-01T00:00:38.642Z
+- Updated At: 2025-10-01T08:00:37.416Z
 
 ## Products
 
@@ -2265,7 +2265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-hand-stretch-film-black-500mm-x-400m-x-15mu-4-rolls-4-free-end-caps-hand-stretch-film-essential-supplies-168292.jpg?v=1719444780
   Price: $110.00 NZD
 - [Cast Hand Stretch Film - Clear, 500mm x 400m x 17mu - 4 Rolls + 4 Free End Caps](https://essentialsupplies.co.nz/products/cast-hand-stretch-film-clear-500mm-x-400m-x-17mu-4-4-free-end-caps): Premium grade hand stretch film is a top grade 15 micron film. It offers excellent value and superior strength when compared with conventional stretch film.This premium grade film offers reduced application noise, no pallet sticking and high clarity.Ideal for use in warehouses that need pallet wrapping on a daily basis with a roll size of 500mm wide by 400m long. Roll: 500mm x 400mt Strength: 17 micron Colour: Clear Pack of: 4 rolls Includes 4 end caps
-  Updated: 2025-01-08T23:23:32Z
+  Updated: 2025-10-01T03:26:56Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
@@ -2559,7 +2559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/glass-polishing-cloth-blue-400mm-x-400mm-300gsm-10-dry-cloths-essential-supplies-806181.jpg?v=1719445161
   Price: $149.00 NZD
 - [Recycled Jumbo Toilet Tissue Boxed - White, 2 Ply, 300m, FSC Recycled® - 8 Rolls](https://essentialsupplies.co.nz/products/recycled-jumbo-toilet-tissue-boxed-white-2-ply-300m-fsc-recycled®-8): Recycled jumbo toilet tissue is a great, environmentally friendly, economical choice for your toilet paper needs.Made from 100% FSC certified recycled tissue, the absorbent tissue is a great option for high traffic bathrooms. It contains no dyes, inks or chlorine and is sold in a sleeve of 8 rolls of non perforated toilet tissue. Environmentally friendly economical choice 100% FSC certified recycled tissue They contain no dyes, inks or chlorineNon perforated Ply: 2Roll Length: 300 metres Colour: White
-  Updated: 2025-01-16T06:28:27Z
+  Updated: 2025-10-01T07:41:29Z
   Vendor: Mattews Packaging
   Product Type: Jumbo Toilet Tissue
   Availability: Available
