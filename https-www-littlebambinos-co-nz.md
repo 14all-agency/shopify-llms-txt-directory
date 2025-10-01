@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-09-30T20:00:51.842Z
+- Updated At: 2025-10-01T04:00:50.466Z
 
 ## Products
 
@@ -954,7 +954,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/60Rainbow.jpg?v=1697100552
   Price: $124.99 NZD
 - [CONNETIX Rainbow Mega Pack 212pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-maga-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The mega pack comes with enough tiles to build a city, with vehicles to explore it. It includes 212 magnetic building tiles including hexagonal pieces. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T19:52:22Z
+  Updated: 2025-09-30T21:17:02Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2332,7 +2332,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ChangematRomangreen.jpg?v=1679356123
   Price: $65.00 NZD
 - [CONNETIX Rainbow Ball Run Expansion Pack 66pc](https://www.littlebambinos.co.nz/products/connetix-66-piece-rainbow-ball-run-expansion): When it comes to magnetic tile play, its all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-09-30T01:45:43Z
+  Updated: 2025-10-01T03:34:47Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2426,7 +2426,7 @@
     Availability: Available
     Price: $22.00 NZD
 - [KONGES SLOJD All You Need Bag - Navy](https://www.littlebambinos.co.nz/products/konges-slojd-all-you-need-bag-navy): The new and improved 'all you need' bag from Konges Slojd is waterproof and windproof.Designed to look like no ordinary change bag, it is for the parents who want to use their changing bag for more than diapers, bottles and pacifiers.The all you need bag has two outside pockets, one of them can be used for wet wipes. Inside the bag you will find a removable changing pad to use when your child needs a fresh diaper. There is one large pocket with a zipper, two regular pockets and one holder perfect for a bottle.
-  Updated: 2025-08-15T06:50:43Z
+  Updated: 2025-09-30T20:32:22Z
   Vendor: Konges slojd
   Product Type: Nappy Bag
   Availability: Available
@@ -3923,7 +3923,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $24.00 NZD
 - [KONGES SLOJD Large Shell Pool - Hearts](https://www.littlebambinos.co.nz/products/copy-of-konges-slojd-large-shell-pool-hearts): The large wading pool for kids is made for stylish splashing and paddling fun on sunny warm days. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-08-06T22:47:02Z
+  Updated: 2025-09-30T21:12:56Z
   Vendor: Konges slojd
   Product Type: Pool
   Availability: Available
@@ -5631,7 +5631,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $50.00 NZD
 - [TOSHI Swim Flap Cap Classic - Athena Dusk](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-athena-dusk): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-09-30T02:43:36Z
+  Updated: 2025-10-01T00:47:08Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5640,7 +5640,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $40.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-athena-dusk?variant=40039503364190)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 NZD
 - [TOSHI Swim Flap Cap Classic - Coral](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-coral): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
   Updated: 2025-08-06T22:39:51Z
@@ -5667,7 +5667,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
 - [TOSHI Swim Flap Cap Classic - Sunny](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-sunny): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-09-30T02:43:36Z
+  Updated: 2025-10-01T00:47:08Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -7091,7 +7091,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T19:52:22Z
+  Updated: 2025-09-30T20:18:21Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7105,7 +7105,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T07:42:21Z
+  Updated: 2025-10-01T00:17:14Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7119,7 +7119,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
   Price: $349.99 NZD
 - [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
-  Updated: 2025-09-30T01:45:40Z
+  Updated: 2025-10-01T00:52:00Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10125,7 +10125,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Littlebambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-1_600x_7b6f12ea-376f-4ae5-bbdc-e8ebbc2431a4.webp?v=1725231069
   Price: $124.99 NZD
 - [CONNETIX Pastel Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-pastel-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T01:45:37Z
+  Updated: 2025-10-01T02:08:57Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10868,7 +10868,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $68.00 NZD
 - [SUNNY FOLK Rock n roll beans organic jumper](https://www.littlebambinos.co.nz/products/rock-n-roll-beans-jumper): Rock n roll baby! You don't need nothin but a can a beans and some sticks - Bespoke hand-drawn illustration - GOTS-certified 100% organic brushed cotton: for softness and breathability - Oversized fit: with dropped shoulder: for extended wear - Designed in New Zealand Modelled by Iro, 3 years old and wearing size 3-4 years and Afia 5 years old and wearing size 4-5 years *Digital print will fade slightly with washing - please follow the care instructions to preserve your print
-  Updated: 2025-09-29T23:03:12Z
+  Updated: 2025-09-30T21:25:33Z
   Vendor: Sunny Folk Clothing
   Product Type: Jumper
   Availability: Available
@@ -11070,7 +11070,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
 - [TOSHI Swim Flap Cap - Sea Blossom](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-sea-blossom): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-09-30T02:43:36Z
+  Updated: 2025-10-01T00:47:09Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -11103,7 +11103,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-09-27T21:42:41Z
+  Updated: 2025-10-01T01:02:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -11348,7 +11348,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $185.00 NZD
 - [TOPSY TURVY Swedish Ladder](https://www.littlebambinos.co.nz/products/swedish-ladder): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products.*Please note: This item is the Ladder only, no accessories other than the Pikler Triangle and Slide. Designed with our tamariki in mind, the Topsy Turvy Swedish Ladders are a fantastic way to keep your little ones active, entertained and ensure that they are developing essential motor skills in a safe environment. This is so needed for many Kiwi kids to meet their active movement needs. Made from high-quality materials and NZS5828 certified, this ladder features wooden rungs that are tough enough to handle even the most rambunctious kids, and with a weight capacity of up to 110kg, they are also a great piece of exercise equipment for parents to join their kids and do pull ups, push ups, stretches etc. Our ladder is compliant with CE safety guidelines to ensure peace of mind. The swedish ladder is common in Europe as it is an exceptional tool for kids to develop their mobility, coordination, balance, and strength. Climbing up the ladder allows kids to see and explore their environment from a new perspective, fulfilling their natural built-in need to learn new things. Learning to climb is a wonderful way to get kids physically and mentally active and build their confidence while reducing screen time! Please also check out our range of purpose made accessories for swinging and climbing that are made for our ladder. Assembling this Swedish ladder is a breeze, we will include a detailed assembly and installation guide with every purchase. The ladder is designed to be mounted to the studs and nogs in the wall. We strongly recommend installation is completed by a local, reputable tradesperson. There is also the option for the Topsy Turvy team to install for an additional fee if you are within a 2 hour drive of Hamilton. Please contact us to organise this. Once it is set up, your tamariki can use it in a variety of ways - climbing up and down the rungs, doing chin-ups or even simply hanging off the bar like a bunch of monkeys. Available in three customised colour schemes: - Natural framing and natural rungs - White framing and natural rungs - Black framing and natural rungs This ladder also comes with our unique pikler triangle and slide which have three uses! 1. Floor Pikler Triangle and slide. 2. Monkey Bar - easily slides on to the frame allowing for younger kids to hang in safety at a lower height and also climb and slide off the ladder. 3. Bridge - mounted like a bridge on the base of the frame to allow for additional exploration and climbing for kids! Max Weight Capacity: Pikler Triangle: 30kg Slide: 30kg Swedish Ladder: Outer Bar: 80kg Swedish Ladder: Middle Bar: 110kg This ladder is perfect for indoor play, and its compact design means it won't take up too much space in your home or play area. With the Swedish Ladder for kids play, your children will have endless opportunities for fun and physical activity, all while building strength and coordination. Encourage your little ones to stay active, have fun, and develop their physical abilities with this exceptional ladder that provides both entertainment and exercise. Our Swedish Ladder will be a great long term investment for your tamariki with its durable and aesthetic design.
-  Updated: 2025-09-30T06:56:43Z
+  Updated: 2025-10-01T03:20:42Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -11366,35 +11366,35 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackframe.jpg?v=1736894989
     Price: $1,199.00 NZD
 - [TOPSY TURVY Rope Ladder](https://www.littlebambinos.co.nz/products/rope-ladder): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Looking for a more challenging and exciting addition to your Topsy Turvy? Look no further than our high-quality rope ladder! Our rope ladder is made with durable materials that can withstand hours of climbing and play. With its sturdy construction and safe design, it's perfect for kids of all ages to enjoy. Not only is our rope ladder fun and engaging, but it also promotes physical activity and helps build strength, coordination, and balance in children. We strongly recommend this item for kids over the age of 4 as it provides a great challenge and a whole different dynamic of climbing. Order now and see your children's faces light up with excitement as they climb to new heights with our top-notch rope ladder! Order now and let the fun begin! Limited stock available, so don't wait!
-  Updated: 2025-08-06T22:40:41Z
+  Updated: 2025-10-01T03:10:40Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_624a2f6c-0a61-4713-9dcb-bc20a86d4c33.jpg?v=1736894993
   Price: $65.00 NZD
 - [TOPSY TURVY Climbing Rope](https://www.littlebambinos.co.nz/products/climbing-rope): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Are your kids ready for a real climbing challenge? Our durable climbing ropes are perfect for kids who love to monkey around and test themselves! Made with the best materials for improving grip and being soft while strong, these ropes are designed to be manhandled and provide hours of fun and excitement. Not only are our climbing ropes a blast to play with, but they also offer a range of developmental benefits. They help improve motor skill planning, coordination, mental focus, and physical upper body strength. For an added challenge, we offer ropes without knots for a more advanced climbing experience. Installation is a breeze with the included indoor wooden eye loop, just throw over the top of your Topsy Turvy frame and secure! Maintenance is easy with our ropes, as they can be wiped down with any non-abrasive cleaner. Plus, with our Topsy Turvy safety and satisfaction guarantee, you can have peace of mind knowing that we stand behind our products. If you're not completely satisfied, we offer a 100% money back guarantee. Note: Proper spotting and supervision from an adult are required for any climbing activity to ensure safety.
-  Updated: 2025-08-06T22:50:27Z
+  Updated: 2025-10-01T03:18:42Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1.jpg?v=1736894994
   Price: $45.00 NZD
 - [TOPSY TURVY Wooden Swing/Trapeze](https://www.littlebambinos.co.nz/products/wooden-swing): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Simple, but oh so much fun! Our small, sturdy timber swing/trapeze is perfect for your kids to dangle from or swing for hours! The solid timber will give you peace of mind while the kids swing about and hang upside down like monkeys.Easy to install on your Topsy Turvy, with the pre drilled holes in the framing, this really compliments the whole frame. It is suitable for children between the ages of 3 and 12 years with a maximum weight rating of 50kg. This is our most popular accessory alongside the gymnastic rings.
-  Updated: 2025-08-06T22:40:34Z
+  Updated: 2025-10-01T03:14:42Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_8d3250ec-c4a1-4ca2-a4ad-b5925d79f211.jpg?v=1736894996
   Price: $65.00 NZD
 - [TOPSY TURVY Floor Mat](https://www.littlebambinos.co.nz/products/floor-mat): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. The TOPSY TURVY Floor Mat provides a comfortable surface for your little one's playtime adventures. This thoughtfully designed mat offers both protection and support, making it a wonderful addition to any child's space.
-  Updated: 2025-08-06T22:40:37Z
+  Updated: 2025-10-01T03:22:41Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/15.jpg?v=1737426503
   Price: $90.00 NZD
 - [TOPSY TURVY Swedish Ladder Combo](https://www.littlebambinos.co.nz/products/swedish-ladder-combo): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. We recommend buying this combo as it includes: - Swedish ladder/triangle/slide - Floor mat - Rope ladder - Swing/trapeze - Climbing rope - Gymnastics rings Designed with our tamariki in mind, the Topsy Turvy Swedish Ladders are a fantastic way to keep your little ones active, entertained and ensure that they are developing essential motor skills in a safe environment. This is so needed for many Kiwi kids to meet their active movement needs. Made from high-quality materials and NZS5828 certified, this ladder features wooden rungs that are tough enough to handle even the most rambunctious kids, and with a weight capacity of up to 110kg, they are also a great piece of exercise equipment for parents to join their kids and do pull ups, push ups, stretches etc. Our ladder is compliant with CE safety guidelines to ensure peace of mind. The swedish ladder is common in Europe as it is an exceptional tool for kids to develop their mobility, coordination, balance, and strength. Climbing up the ladder allows kids to see and explore their environment from a new perspective, fulfilling their natural built-in need to learn new things. Learning to climb is a wonderful way to get kids physically and mentally active and build their confidence while reducing screen time! Please also check out our range of purpose made accessories for swinging and climbing that are made for our ladder. Assembling this Swedish ladder is a breeze, we will include a detailed assembly and installation guide with every purchase. The ladder is designed to be mounted to the studs and nogs in the wall. We strongly recommend installation is completed by a local, reputable tradesperson. There is also the option for the Topsy Turvy team to install for an additional fee if you are within a 1.5 hour drive of Hamilton. Please contact us to organise this. Once it is set up, your tamariki can use it in a variety of ways - climbing up and down the rungs, doing chin-ups or even simply hanging off the bar like a bunch of monkeys. Available in three colour schemes: - Natural framing and natural rungs - White framing and natural rungs - Black framing and natural rungs This ladder also comes with our unique pikler triangle and slide which have three uses! 1. Floor Pikler Triangle and slide. 2. Monkey Bar - easily slides on to the frame allowing for younger kids to hang in safety at a lower height and also climb and slide off the ladder. 3. Bridge - mounted like a bridge on the base of the frame to allow for additional exploration and climbing for kids! Max Weight Capacity: Pikler Triangle: 30kg Slide: 30kg Swedish Ladder: Outer Bar: 80kg Swedish Ladder: Middle Bar: 110kg This ladder is perfect for indoor play, and its compact design means it won't take up too much space in your home or play area. With the swedish ladder for kids play, your children will have endless opportunities for fun and physical activity, all while building strength and coordination. Encourage your little ones to stay active, have fun, and develop their physical abilities with this exceptional ladder that provides both entertainment and exercise. Our swedish ladder will be a great long term investment for your tamariki with its durable and aesthetic design.
-  Updated: 2025-09-30T00:00:39Z
+  Updated: 2025-10-01T03:22:42Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -11424,14 +11424,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/naturalframe.jpg?v=1737426544
     Price: $1,354.00 NZD
 - [TOPSY TURVY Disc Swing](https://www.littlebambinos.co.nz/products/disc-swing): Add another dynamic to your Swedish Ladder with friends and family as you enjoy our new disc swing. Crafted from safe wood materials, our swing ensures a secure and joyful play experience for children. Our disc swing seat features a comfortable design, with a diameter of 30cm and a rope length of 200cm, providing peace of mind for parents while their little ones play.
-  Updated: 2025-09-28T03:22:43Z
+  Updated: 2025-10-01T03:22:41Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/disc11.png?v=1737426497
   Price: $90.00 NZD
 - [TOPSY TURVY Multi-Use Arch](https://www.littlebambinos.co.nz/products/climbing-arch): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Introducing the Topsy Turvy Climbing Arch and plush cushion – a revolutionary piece of children's furniture designed to inspire active play, foster development, and ignite imaginations. Our arch is designed to grow with your child, catering to different developmental stages and play preferences. From supporting infants with its use as a baby gym to providing endless entertainment for older children as a climbing arch, table, or storage unit, it offers something for everyone from ages 0 to 9. Our climbing arch is more than just a static structure; it's an invitation to adventure. Crafted to support active play, it encourages children to engage their gross motor skills, coordination, balance, and strength. As they climb the rungs, they not only build physical agility but also develop confidence in their abilities. Beyond its primary function as a climbing arch, it morphs into a range of imaginative play settings. From a cozy rerading rocker to a play fort, it adapts to suit every play scenario. It can even transform into an indoor football goal, sparking lively games and competitions. Used alone, or alongside a Swedish Ladder, this arch is the gateway to a world of exploration and fun for kids of all ages.Adult supervision is essential during play to ensure safe movement and prevent accidents. Experience the joy of play and the wonder of exploration with a Topsy Turvy climbing arch – where every climb is a step towards adventure! *Note: Includes cushion
-  Updated: 2025-09-09T00:02:43Z
+  Updated: 2025-10-01T03:22:41Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -13460,7 +13460,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/B2BEF6A2-05F8-4529-AFD7-CB6301D54DF5.jpg?v=1744073619
   Price: $139.00 NZD
 - [INKAH Rattan toy chest](https://www.littlebambinos.co.nz/products/rattan-toy-chest-1): Keep mess hidden away with our beautifully designed rattan toy box featuring chicken eye rattan weaving. Measures: 60cm long x 50cm high x 40cm deep Please note handles on the sides are decoration only, do not use to lift toy chest.
-  Updated: 2025-08-06T22:50:32Z
+  Updated: 2025-09-30T21:42:43Z
   Vendor: Inkah Limited
   Product Type: 
   Availability: Available
@@ -15698,14 +15698,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-09-30T19:22:47Z
+  Updated: 2025-09-30T22:22:41Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-09-30T19:22:47Z
+  Updated: 2025-10-01T03:22:41Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15825,7 +15825,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [TOSHI Swim Flap Cap Paradise - Congo Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-congo-seagrass): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-09-30T02:43:36Z
+  Updated: 2025-10-01T00:47:08Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15840,7 +15840,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Flap Cap Paradise - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-09-30T02:43:37Z
+  Updated: 2025-10-01T00:47:08Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -16603,8 +16603,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-09-30T19:43:14Z
-  Total Products: 435
+  Updated: 2025-10-01T03:43:12Z
+  Total Products: 439
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17455,8 +17455,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-09-30T19:43:14Z
-  Total Products: 1329
+  Updated: 2025-10-01T03:43:12Z
+  Total Products: 1328
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-09-30T11:01:58Z
   Total Products: 501
