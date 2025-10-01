@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-01T00:00:34.430Z
+- Updated At: 2025-10-01T08:00:33.870Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -347,7 +347,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £167.00 GBP
 - [Sea Buckthorn Fruit Pulp Oil, Cold Pressed](https://inky-ingredients.com/products/sea-buckthorn-fruit-pulp-oil-cold-pressed): Cold-pressed Sea Buckthorn Fruit Pulp Oil is a nutrient-rich elixir for skin health. Packed with antioxidants and fatty acids, it nourishes and revitalises the skin, promoting a radiant complexion. Its natural properties make it a valuable addition to skincare formulations.
-  Updated: 2025-09-30T13:53:56Z
+  Updated: 2025-10-01T07:48:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2606,7 +2606,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £475.24 GBP
 - [Pomegranate Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/pomegranate-seed-oil-cold-pressed-organic): Organic Cold-pressed Pomegranate Seed Oil, derived from organically grown seeds, ensures a pure and environmentally friendly skincare solution. Its natural antioxidants and nutrients promote healthy skin without synthetic additives.
-  Updated: 2025-09-30T06:22:31Z
+  Updated: 2025-10-01T07:48:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3059,7 +3059,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £361.20 GBP
 - [Manketti Seed Oil (Mongongo Oil), Cold Pressed](https://inky-ingredients.com/products/manketti-seed-oil-mongongo-oil-cold-pressed): Cold Pressed Manketti Seed Oil, or Mongongo Oil, retains its natural benefits for skin and hair. Its cold-pressed extraction method preserves its richness, offering deep hydration and a velvety texture.
-  Updated: 2025-09-26T08:25:48Z
+  Updated: 2025-10-01T07:48:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
