@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-09-30T16:00:27.813Z
+- Updated At: 2025-10-01T08:00:27.647Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -24,7 +24,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_full-safety-cage_JLMBC_1.jpg?v=1739922588
   Price: $869.00 USD
 - [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro): Discover the Metro Jetlamp: a sleek wood pellet patio heater that transforms outdoor heating with style and sustainability.
-  Updated: 2025-09-25T22:35:37Z
+  Updated: 2025-09-30T23:08:46Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_hopper-extension_AHEM.jpg?v=1731968837
   Price: $199.00 USD
 - [Jetlamp Cleaning Kit |Patiofyre](https://www.patiofyre.com/products/jetlamp-cleaning-kit): Maintain your Jetlamp with our cleaning kit, designed to keep your wood pellet patio heater in top condition for optimal performance
-  Updated: 2025-09-29T01:52:55Z
+  Updated: 2025-09-30T23:08:45Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_budeez-pellet-storage_ABPS_a7f8e2cd-6849-4934-b1b7-395ec0501a14.jpg?v=1731968837
   Price: $17.99 USD
 - [Propane Torch | Patiofyre](https://www.patiofyre.com/products/propane-torch): Light your wood pellet patio heater easily with our propane torch. Designed for quick, efficient ignition in any outdoor setting.
-  Updated: 2025-09-28T00:54:27Z
+  Updated: 2025-09-30T23:08:46Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
