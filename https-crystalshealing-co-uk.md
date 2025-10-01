@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-01T04:00:34.734Z
+- Updated At: 2025-10-01T08:00:33.949Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -866,7 +866,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/Miyuki_Freshwater_Pearl_Bracelet_9.jpg?v=1739737533
     Price: £16.00 GBP
 - [Miyuki Geometric Friendship Bracelet - Unique & Stylish](https://crystalshealing.co.uk/products/miyuki-geometric-friendship-bracelet): Celebrate friendship with the Miyuki Geometric Friendship Bracelet, handcrafted for a unique, colorful style that symbolizes connection and joy.
-  Updated: 2025-09-25T11:49:20Z
+  Updated: 2025-10-01T04:31:19Z
   Vendor: Crystals Healing
   Product Type: Miyuki bracelet
   Availability: Available
