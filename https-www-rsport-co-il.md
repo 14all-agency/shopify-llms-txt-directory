@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-09-30T20:01:02.228Z
+- Updated At: 2025-10-01T04:00:59.178Z
 
 ## Products
 
@@ -7606,8 +7606,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-צהובים-לוס-אנגלס-לייקרס?variant=46888862384378)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק רטרו לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-רטרו-לוס-אנגלס-לייקרס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-29T21:07:07Z
+- [מכנסיי משחק רטרו לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-רטרו-לוס-אנגלס-לייקרס): מכנסי משחק רטרו של לוס אנג'לס לייקרס משלבים סגנון קלאסי עם נוחות מודרנית. עשויים 100% פוליאסטר קל ונושם, הם מספקים חופש תנועה מירבי למשחקים, אימונים או שימוש יומיומי. הגזרה רגילה ומאפשרת תנועות מהירות ודיוק במגרש, בעוד העיצוב הרטרו מבטא את ההיסטוריה והסגנון המזוהה של הלייקרס. בד קל ונושם שמבטיח תחושת יובש ונוחות לאורך כל הפעילות, אידיאלי לכל אוהד או שחקן שרוצה להרגיש חלק מהקבוצה.
+  Updated: 2025-09-30T21:19:00Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7627,8 +7627,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-רטרו-לוס-אנגלס-לייקרס?variant=46888921759994)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק צבע לבן לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-לבן-לוס-אנגלס-לייקרס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-29T21:07:07Z
+- [מכנסיי משחק צבע לבן לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-לבן-לוס-אנגלס-לייקרס): מכנסי משחק לבנים של לוס אנג'לס לייקרס מציעים שילוב מושלם בין נוחות לסגנון מזוהה של הקבוצה. עשויים 100% פוליאסטר קל ונושם, הם מספקים תחושת יובש ונוחות לאורך כל אימון או משחק. הגזרה רגילה ומותאמת למגוון תנועות, אידיאלית לשחקנים שרוצים חופש תנועה מלא ולדיוק מירבי במגרש. מכנסיים אלה מתאימים גם לשימוש יומיומי או הופעות בסגנון רחוב. בד קל ונושם מאפשר לך להתרכז במשחק ללא הפרעות, ומעניק חוויית משחק מקצועית בכל מצב.
+  Updated: 2025-09-30T21:30:46Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7648,8 +7648,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-לבן-לוס-אנגלס-לייקרס?variant=46888935981306)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק צבע שחור לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-שחור-לוס-אנגלס-לייקרס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-29T21:07:07Z
+- [מכנסיי משחק צבע שחור לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-שחור-לוס-אנגלס-לייקרס): שפר את ביצועיך עם מכנסי משחק שחורים של לוס אנג'לס לייקרס. המכנסיים מיועדים לשחקנים שרוצים נוחות מרבית תוך שמירה על סגנון מקצועי ומראה מזוהה של הקבוצה. עשויים 100% פוליאסטר קל ונושם, הם מספקים תחושת יובש לאורך כל המשחק או האימון. הגזרה רגילה ומותאמת לחופש תנועה מלא, מושלמת לכל פעילות ספורטיבית או שימוש יומיומי. המכנסיים מעניקים נוחות, מראה אופנתי והרגשה מקצועית, עם התאמה מלאה למגרש וליום יום.
+  Updated: 2025-09-30T21:31:44Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7669,8 +7669,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-שחור-לוס-אנגלס-לייקרס?variant=46888943190266)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק צבע סגול לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-סגול-לוס-אנגלס-לייקרס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-29T21:07:07Z
+- [מכנסיי משחק צבע סגול לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-סגול-לוס-אנגלס-לייקרס): מכנסי משחק סגולים של לוס אנג'לס לייקרס מיועדים לאימון ומגרש עם נוחות מירבית. החומר קל ונושם ומספק תחושת יובש לאורך כל הפעילות. הגזרה רגילה מאפשרת חופש תנועה מלא, אידיאלית לשחקנים בכל רמות המשחק. העיצוב שומר על מראה המזוהה של הלייקרס, מתאים גם לשימוש יומיומי. בד 100% פוליאסטר קל ונושם שמבטיח נוחות לאורך כל המשחק או האימון.
+  Updated: 2025-09-30T21:33:14Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -9868,331 +9868,331 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ווסטהאם-יונייטד-שלישית-2024-25?variant=46897155768570)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [גופיית רטרו סטף קרי גולדן סטייט ווריורס 2009/10](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:44Z
+- [‏גופיית רטרו סטף קרי ווריורס 2009/10](https://www.rsport.co.il/products/gs-curr-rretro): ‏גופיית רטרו סטף קרי גולדן סטייט ווריורס בעיצוב איכותי ונוסטלגי, בהשראת עונת 2009/10 וה־NBA
+  Updated: 2025-09-30T21:50:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_0401c5d3-d577-43ba-bce4-fb8b57afe52a.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10?variant=46898455544058)
+  - [S](https://www.rsport.co.il/products/gs-curr-rretro?variant=46898455544058)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10?variant=46898455576826)
+  - [M](https://www.rsport.co.il/products/gs-curr-rretro?variant=46898455576826)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10?variant=46898455609594)
+  - [L](https://www.rsport.co.il/products/gs-curr-rretro?variant=46898455609594)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10?variant=46898455642362)
+  - [XL](https://www.rsport.co.il/products/gs-curr-rretro?variant=46898455642362)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10?variant=46898455675130)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-rretro?variant=46898455675130)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-גולדן-סטייט-ווריורס-2009-10?variant=46898455707898)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-rretro?variant=46898455707898)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו סטף קרי 2009/10 כתומה](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:44Z
+- [‏גופיית רטרו סטף קרי כתומה 2009/10 גולדן סטייט](https://www.rsport.co.il/products/gs-curr-rorg): ‏גופיית רטרו סטף קרי גולדן סטייט בצבע כתומה בעיצוב איכותי ונוסטלגי, בהשראת עונת 2009/10 וה־NBA
+  Updated: 2025-09-30T21:51:06Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_16bec550-59ca-44f7-9437-9d9e1a0c5abd.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה?variant=46898474057978)
+  - [S](https://www.rsport.co.il/products/gs-curr-rorg?variant=46898474057978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה?variant=46898474090746)
+  - [M](https://www.rsport.co.il/products/gs-curr-rorg?variant=46898474090746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה?variant=46898474123514)
+  - [L](https://www.rsport.co.il/products/gs-curr-rorg?variant=46898474123514)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה?variant=46898474156282)
+  - [XL](https://www.rsport.co.il/products/gs-curr-rorg?variant=46898474156282)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה?variant=46898474189050)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-rorg?variant=46898474189050)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-סטף-קרי-2009-10-כתומה?variant=46898474221818)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-rorg?variant=46898474221818)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו לבנה סטף קרי 2009/10](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:43Z
+- [‏גופיית רטרו סטף קרי לבנה 2009/10 גולדן סטייט](https://www.rsport.co.il/products/gs-curr-rwht): ‏גופיית רטרו סטף קרי גולדן סטייט בצבע לבנה בעיצוב איכותי ונוסטלגי, בהשראת עונת 2009/10 וה־NBA
+  Updated: 2025-09-30T21:51:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_0e2e75c0-12f0-41c8-953e-312e348196fe.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10?variant=46898480939258)
+  - [S](https://www.rsport.co.il/products/gs-curr-rwht?variant=46898480939258)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10?variant=46898480972026)
+  - [M](https://www.rsport.co.il/products/gs-curr-rwht?variant=46898480972026)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10?variant=46898481004794)
+  - [L](https://www.rsport.co.il/products/gs-curr-rwht?variant=46898481004794)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10?variant=46898481037562)
+  - [XL](https://www.rsport.co.il/products/gs-curr-rwht?variant=46898481037562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10?variant=46898481070330)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-rwht?variant=46898481070330)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-סטף-קרי-2009-10?variant=46898481103098)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-rwht?variant=46898481103098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק לבנה סטף קרי 24/25 Classic Edition](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:41Z
+- [‏גופיית משחק סטף קרי לבנה 24/25 גולדן סטייט](https://www.rsport.co.il/products/gs-curr-wht2425): ‏גופיית משחק סטף קרי גולדן סטייט לבנה בעונת 24/25 בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל ומגרש
+  Updated: 2025-09-30T21:52:30Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_351534ed-f0c3-4fdc-bd78-10c15b823d05.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition?variant=46898511773946)
+  - [S](https://www.rsport.co.il/products/gs-curr-wht2425?variant=46898511773946)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition?variant=46898511806714)
+  - [M](https://www.rsport.co.il/products/gs-curr-wht2425?variant=46898511806714)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition?variant=46898511839482)
+  - [L](https://www.rsport.co.il/products/gs-curr-wht2425?variant=46898511839482)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition?variant=46898511872250)
+  - [XL](https://www.rsport.co.il/products/gs-curr-wht2425?variant=46898511872250)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition?variant=46898511905018)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-wht2425?variant=46898511905018)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-סטף-קרי-24-25-classic-edition?variant=46898511937786)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-wht2425?variant=46898511937786)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק סטף קרי גולדן סטייט מהדורה קלאסית](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:41Z
+- [‏גופיית משחק סטף קרי מהדורה קלאסית גולדן סטייט](https://www.rsport.co.il/products/gs-curr-cl): ‏גופיית משחק סטף קרי גולדן סטייט במהדורה קלאסית בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל יומיומי ומגרש
+  Updated: 2025-09-30T22:08:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_51f5552b-d1fe-49a2-b812-78dc47a92b50.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית?variant=46898532352250)
+  - [S](https://www.rsport.co.il/products/gs-curr-cl?variant=46898532352250)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית?variant=46898532385018)
+  - [M](https://www.rsport.co.il/products/gs-curr-cl?variant=46898532385018)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית?variant=46898532417786)
+  - [L](https://www.rsport.co.il/products/gs-curr-cl?variant=46898532417786)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית?variant=46898532450554)
+  - [XL](https://www.rsport.co.il/products/gs-curr-cl?variant=46898532450554)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית?variant=46898532483322)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-cl?variant=46898532483322)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-גולדן-סטייט-מהדורה-קלאסית?variant=46898532516090)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-cl?variant=46898532516090)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק שחורה סטף קרי](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:40Z
+- [‏גופיית משחק סטף קרי שחורה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-blk-std): ‏גופיית משחק סטף קרי גולדן סטייט במהדורה קלאסית בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל יומיומי ומגרש
+  Updated: 2025-09-30T22:10:20Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_ab022c86-7dfa-46d5-977d-54958fb7b386.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי?variant=46898546540794)
+  - [S](https://www.rsport.co.il/products/gs-curr-blk-std?variant=46898546540794)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי?variant=46898546573562)
+  - [M](https://www.rsport.co.il/products/gs-curr-blk-std?variant=46898546573562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי?variant=46898546606330)
+  - [L](https://www.rsport.co.il/products/gs-curr-blk-std?variant=46898546606330)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי?variant=46898546639098)
+  - [XL](https://www.rsport.co.il/products/gs-curr-blk-std?variant=46898546639098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי?variant=46898546671866)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-blk-std?variant=46898546671866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-סטף-קרי?variant=46898546704634)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-blk-std?variant=46898546704634)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק שחור זהב גולדן סטייט סטף קרי](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:40Z
+- [גופיית משחק שחור זהב גולדן סטייט סטף קרי](https://www.rsport.co.il/products/gs-curr-blk): ‏גופיית משחק סטף קרי גולדן סטייט בצבע שחורה בעיצוב איכותי ונוח, בהשראת ה־ NBA לסטייל מודרני וספורטיבי
+  Updated: 2025-09-30T22:11:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_dc812a5c-37ff-4824-8056-f1ed47b1d55a.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי?variant=46899154092282)
+  - [S](https://www.rsport.co.il/products/gs-curr-blk?variant=46899154092282)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי?variant=46899154125050)
+  - [M](https://www.rsport.co.il/products/gs-curr-blk?variant=46899154125050)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי?variant=46899154157818)
+  - [L](https://www.rsport.co.il/products/gs-curr-blk?variant=46899154157818)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי?variant=46899154190586)
+  - [XL](https://www.rsport.co.il/products/gs-curr-blk?variant=46899154190586)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי?variant=46899154223354)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-blk?variant=46899154223354)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחור-זהב-גולדן-סטייט-סטף-קרי?variant=46899154256122)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-blk?variant=46899154256122)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק גולדן סטייט סטף קרי City Edition](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:40Z
+- [‏גופיית משחק סטף קרי City Edition גולדן סטייט](https://www.rsport.co.il/products/gs-curr-ce): ‏גופיית משחק סטף קרי גולדן סטייט במהדורת City Edition בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל יומיומי ומגרש
+  Updated: 2025-09-30T22:13:44Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_b091f430-b679-435a-af39-68ee2ff838a2.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition?variant=46899157008634)
+  - [S](https://www.rsport.co.il/products/gs-curr-ce?variant=46899157008634)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition?variant=46899157041402)
+  - [M](https://www.rsport.co.il/products/gs-curr-ce?variant=46899157041402)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition?variant=46899157074170)
+  - [L](https://www.rsport.co.il/products/gs-curr-ce?variant=46899157074170)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition?variant=46899157106938)
+  - [XL](https://www.rsport.co.il/products/gs-curr-ce?variant=46899157106938)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition?variant=46899157139706)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-ce?variant=46899157139706)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-גולדן-סטייט-סטף-קרי-city-edition?variant=46899157172474)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-ce?variant=46899157172474)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק צהובה סטף קרי](https://www.rsport.co.il/products/גופיית-משחק-צהובה-סטף-קרי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:39Z
+- [‏גופיית משחק סטף קרי צהובה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-yel): ‏גופיית משחק סטף קרי גולדן סטייט בצבע צהובה בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:16:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_4b73c5ab-6071-4e59-9af3-ebc3860410e4.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-צהובה-סטף-קרי?variant=46899160711418)
+  - [S](https://www.rsport.co.il/products/gs-curr-yel?variant=46899160711418)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-צהובה-סטף-קרי?variant=46899160744186)
+  - [M](https://www.rsport.co.il/products/gs-curr-yel?variant=46899160744186)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-צהובה-סטף-קרי?variant=46899160776954)
+  - [L](https://www.rsport.co.il/products/gs-curr-yel?variant=46899160776954)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-סטף-קרי?variant=46899160809722)
+  - [XL](https://www.rsport.co.il/products/gs-curr-yel?variant=46899160809722)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-סטף-קרי?variant=46899160842490)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-yel?variant=46899160842490)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק כחולה סטף קרי גולדן סטייט](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:39Z
+- [‏גופיית משחק סטף קרי כחולה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-blu): ‏גופיית משחק סטף קרי גולדן סטייט בצבע כחולה בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:16:59Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_c89915a2-5e1e-4edb-8137-c8cfe04fd6ab.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט?variant=46899164315898)
+  - [S](https://www.rsport.co.il/products/gs-curr-blu?variant=46899164315898)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט?variant=46899164348666)
+  - [M](https://www.rsport.co.il/products/gs-curr-blu?variant=46899164348666)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט?variant=46899164381434)
+  - [L](https://www.rsport.co.il/products/gs-curr-blu?variant=46899164381434)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט?variant=46899164414202)
+  - [XL](https://www.rsport.co.il/products/gs-curr-blu?variant=46899164414202)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט?variant=46899164446970)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-blu?variant=46899164446970)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-סטף-קרי-גולדן-סטייט?variant=46899164479738)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-blu?variant=46899164479738)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק כחול כהה סטף קרי](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:38Z
+- [‏גופיית משחק סטף קרי כחול כהה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-nvy): ‏גופיית משחק סטף קרי גולדן סטייט בצבע כחול כהה בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:17:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_836e6014-d2d0-4633-ba22-9bd3168771bb.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי?variant=46899167461626)
+  - [S](https://www.rsport.co.il/products/gs-curr-nvy?variant=46899167461626)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי?variant=46899167494394)
+  - [M](https://www.rsport.co.il/products/gs-curr-nvy?variant=46899167494394)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי?variant=46899167527162)
+  - [L](https://www.rsport.co.il/products/gs-curr-nvy?variant=46899167527162)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי?variant=46899167559930)
+  - [XL](https://www.rsport.co.il/products/gs-curr-nvy?variant=46899167559930)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי?variant=46899167592698)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-nvy?variant=46899167592698)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-כחול-כהה-סטף-קרי?variant=46899167625466)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-nvy?variant=46899167625466)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק סטף קרי ALL STAR](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:38Z
+- [‏גופיית משחק סטף קרי All-Star גולדן סטייט](https://www.rsport.co.il/products/gs-curr-as): ‏גופיית משחק סטף קרי גולדן סטייט במהדורת All-Star בעיצוב איכותי, נוח וספורטיבי להרגשה חלק מהמגרש
+  Updated: 2025-09-30T22:18:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_4d990405-c008-4164-bdc8-61e0cc6b007b.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star?variant=46899169165562)
+  - [S](https://www.rsport.co.il/products/gs-curr-as?variant=46899169165562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star?variant=46899169198330)
+  - [M](https://www.rsport.co.il/products/gs-curr-as?variant=46899169198330)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star?variant=46899169231098)
+  - [L](https://www.rsport.co.il/products/gs-curr-as?variant=46899169231098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star?variant=46899169263866)
+  - [XL](https://www.rsport.co.il/products/gs-curr-as?variant=46899169263866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star?variant=46899169296634)
+  - [2XL](https://www.rsport.co.il/products/gs-curr-as?variant=46899169296634)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-סטף-קרי-all-star?variant=46899169329402)
+  - [3XL](https://www.rsport.co.il/products/gs-curr-as?variant=46899169329402)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק כחולה גולדן סטייט | ילדים](https://www.rsport.co.il/products/גופיית-משחק-כחולה-גולדן-סטייט-ילדים): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:37Z
+- [‏גופיית משחק כחולה גולדן סטייט ילדים](https://www.rsport.co.il/products/gs-blu-kids): ‏גופיית משחק כחולה גולדן סטייט לילדים בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:19:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_ff52ac15-d7fa-4044-9435-876938d2a16c.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-כחולה-גולדן-סטייט-ילדים?variant=46899178832122)
+  - [S](https://www.rsport.co.il/products/gs-blu-kids?variant=46899178832122)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-כחולה-גולדן-סטייט-ילדים?variant=46899178864890)
+  - [M](https://www.rsport.co.il/products/gs-blu-kids?variant=46899178864890)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-כחולה-גולדן-סטייט-ילדים?variant=46899178897658)
+  - [L](https://www.rsport.co.il/products/gs-blu-kids?variant=46899178897658)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-גולדן-סטייט-ילדים?variant=46899178930426)
+  - [XL](https://www.rsport.co.il/products/gs-blu-kids?variant=46899178930426)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-גולדן-סטייט-ילדים?variant=46899217072378)
+  - [XXL](https://www.rsport.co.il/products/gs-blu-kids?variant=46899217072378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק לבנה גולדן סטייט | ילדים](https://www.rsport.co.il/products/גופיית-משחק-לבנה-גולדן-סטייט-ילדים): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:36Z
+- [‏גופיית משחק לבנה גולדן סטייט ילדים](https://www.rsport.co.il/products/gs-wht-kids): ‏גופיית משחק לבנה גולדן סטייט לילדים בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:20:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_6b888f97-bbd6-42c0-89c9-63a24d8363e3.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-גולדן-סטייט-ילדים?variant=46899218284794)
+  - [S](https://www.rsport.co.il/products/gs-wht-kids?variant=46899218284794)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-גולדן-סטייט-ילדים?variant=46899218317562)
+  - [M](https://www.rsport.co.il/products/gs-wht-kids?variant=46899218317562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-גולדן-סטייט-ילדים?variant=46899218350330)
+  - [L](https://www.rsport.co.il/products/gs-wht-kids?variant=46899218350330)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-גולדן-סטייט-ילדים?variant=46899218383098)
+  - [XL](https://www.rsport.co.il/products/gs-wht-kids?variant=46899218383098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-גולדן-סטייט-ילדים?variant=46899218415866)
+  - [XXL](https://www.rsport.co.il/products/gs-wht-kids?variant=46899218415866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק ALL STAR |  ג'ייסון טייטום](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
@@ -11947,244 +11947,244 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786728698)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוסטון רוקטס | ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:56Z
+- [‏גופיית משחק יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-harden): ‏גופיית משחק יוסטון רוקטס עם גיימס הארדן בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:30:06Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_554a22f4-102d-422d-80ed-e3a494d7917a.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן?variant=46905842237690)
+  - [S](https://www.rsport.co.il/products/hou-harden?variant=46905842237690)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן?variant=46905842270458)
+  - [M](https://www.rsport.co.il/products/hou-harden?variant=46905842270458)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן?variant=46905842303226)
+  - [L](https://www.rsport.co.il/products/hou-harden?variant=46905842303226)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן?variant=46905842335994)
+  - [XL](https://www.rsport.co.il/products/hou-harden?variant=46905842335994)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן?variant=46905842368762)
+  - [2XL](https://www.rsport.co.il/products/hou-harden?variant=46905842368762)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיימס-הארדן?variant=46905842401530)
+  - [3XL](https://www.rsport.co.il/products/hou-harden?variant=46905842401530)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק אדומה יוסטון רוקטס | ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:55Z
+- [‏גופיית משחק אדומה יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-red-harden): ‏גופיית משחק אדומה יוסטון רוקטס עם גיימס הארדן בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:31:18Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_6302ab74-4625-4e43-836b-6f3b7ed50429.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן?variant=46905912426746)
+  - [S](https://www.rsport.co.il/products/hou-red-harden?variant=46905912426746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן?variant=46905912459514)
+  - [M](https://www.rsport.co.il/products/hou-red-harden?variant=46905912459514)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן?variant=46905912492282)
+  - [L](https://www.rsport.co.il/products/hou-red-harden?variant=46905912492282)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן?variant=46905912525050)
+  - [XL](https://www.rsport.co.il/products/hou-red-harden?variant=46905912525050)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן?variant=46905912557818)
+  - [2XL](https://www.rsport.co.il/products/hou-red-harden?variant=46905912557818)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-יוסטון-רוקטס-גיימס-הארדן?variant=46905912590586)
+  - [3XL](https://www.rsport.co.il/products/hou-red-harden?variant=46905912590586)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוסטון רוקטס מהדורת זהב | ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:55Z
+- [‏גופיית משחק מהדורת זהב יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-gold-harden): ‏גופיית משחק יוסטון רוקטס מהדורת זהב עם גיימס הארדן בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל יומיומי
+  Updated: 2025-09-30T22:28:18Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_53e9fb2a-11c3-4c2f-a8d5-662a3d2cf07a.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן?variant=46905918128378)
+  - [S](https://www.rsport.co.il/products/hou-gold-harden?variant=46905918128378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן?variant=46905918161146)
+  - [M](https://www.rsport.co.il/products/hou-gold-harden?variant=46905918161146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן?variant=46905918193914)
+  - [L](https://www.rsport.co.il/products/hou-gold-harden?variant=46905918193914)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן?variant=46905918226682)
+  - [XL](https://www.rsport.co.il/products/hou-gold-harden?variant=46905918226682)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן?variant=46905918259450)
+  - [2XL](https://www.rsport.co.il/products/hou-gold-harden?variant=46905918259450)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-מהדורת-זהב-גיימס-הארדן?variant=46905918292218)
+  - [3XL](https://www.rsport.co.il/products/hou-gold-harden?variant=46905918292218)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוסטון רוקטס | ג'יילן גרין](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:54Z
+- [‏גופיית משחק יוסטון רוקטס גיילן גרין](https://www.rsport.co.il/products/hou-green): ‏גופיית משחק יוסטון רוקטס עם גיילן גרין בצבע ירוק בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:28:18Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_485fe9e4-e453-4284-9e7e-927f96a8dc40.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין?variant=46905925435642)
+  - [S](https://www.rsport.co.il/products/hou-green?variant=46905925435642)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין?variant=46905925468410)
+  - [M](https://www.rsport.co.il/products/hou-green?variant=46905925468410)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין?variant=46905925501178)
+  - [L](https://www.rsport.co.il/products/hou-green?variant=46905925501178)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין?variant=46905925533946)
+  - [XL](https://www.rsport.co.il/products/hou-green?variant=46905925533946)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין?variant=46905925566714)
+  - [2XL](https://www.rsport.co.il/products/hou-green?variant=46905925566714)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוסטון-רוקטס-גיילן-גרין?variant=46905925599482)
+  - [3XL](https://www.rsport.co.il/products/hou-green?variant=46905925599482)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק שחורה יוסטון רוקטס | ג'יילן גרין](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:54Z
+- [‏גופיית משחק שחורה יוסטון רוקטס גיילן גרין](https://www.rsport.co.il/products/hou-blk-green): ‏גופיית משחק שחורה יוסטון רוקטס עם גיילן גרין בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:28:18Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_1af99ba8-e6a2-41cf-85c6-509ec1f471b1.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין?variant=46905930350842)
+  - [S](https://www.rsport.co.il/products/hou-blk-green?variant=46905930350842)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין?variant=46905930383610)
+  - [M](https://www.rsport.co.il/products/hou-blk-green?variant=46905930383610)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין?variant=46905930416378)
+  - [L](https://www.rsport.co.il/products/hou-blk-green?variant=46905930416378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין?variant=46905930449146)
+  - [XL](https://www.rsport.co.il/products/hou-blk-green?variant=46905930449146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין?variant=46905930481914)
+  - [2XL](https://www.rsport.co.il/products/hou-blk-green?variant=46905930481914)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוסטון-רוקטס-גיילן-גרין?variant=46905930514682)
+  - [3XL](https://www.rsport.co.il/products/hou-blk-green?variant=46905930514682)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו  1996/97 יוסטון רוקטס | האקים אולאג'ואן](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:53Z
+- [‏גופיית רטרו 1996/97 יוסטון רוקטס האקים אולאגואן](https://www.rsport.co.il/products/hou-retro-9697): ‏גופיית רטרו 1996/97 יוסטון רוקטס עם האקים אולאגואן בעיצוב נוסטלגי ואיכותי, בהשראת עונת ה־NBA לסטייל
+  Updated: 2025-09-30T22:28:18Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_b4e410c8-dcd4-4020-ab6e-82eaed1f3ade.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן?variant=46905943392506)
+  - [S](https://www.rsport.co.il/products/hou-retro-9697?variant=46905943392506)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן?variant=46905943425274)
+  - [M](https://www.rsport.co.il/products/hou-retro-9697?variant=46905943425274)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן?variant=46905943458042)
+  - [L](https://www.rsport.co.il/products/hou-retro-9697?variant=46905943458042)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן?variant=46905943490810)
+  - [XL](https://www.rsport.co.il/products/hou-retro-9697?variant=46905943490810)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן?variant=46905943523578)
+  - [2XL](https://www.rsport.co.il/products/hou-retro-9697?variant=46905943523578)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-1996-97-יוסטון-רוקטס-האקים-אולאגואן?variant=46905943556346)
+  - [3XL](https://www.rsport.co.il/products/hou-retro-9697?variant=46905943556346)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסי יוסטון רוקטס JUST DON | לבן אדום](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס): מכנסי JUST DON של יוסטון רוקטס בצבעי לבן ואדום מציעים שילוב של סטייל רחוב מודרני ונוחות מקצועית. עשויים 100% פוליאסטר קל ונושם, מאפשרים חופש תנועה מלא ומתאימים לאימונים, משחקים ולשימוש יומיומי. הלוגו הרקום מעניק טאץ' ייחודי ומדגיש את זהות הקבוצה. רצועת המותן הסרוגה מבטיחה התאמה נוחה ואחידה, והרוכסנים מוסיפים פונקציונליות ונוחות בעת הלבישה. מכנסיים אלו מתאימים לאוהדי NBA שרוצים לשלב מראה מקצועי עם סטייל רחוב. הצבעים הלבן והאדום והעיצוב המדויק מבטיחים מראה מרשים שמשתלב עם תרבות ה-NBA.
-  Updated: 2025-09-28T08:57:02Z
+- [‏מכנסי JUST DON לבן-אדום יוסטון רוקטס](https://www.rsport.co.il/products/hou-just-wht-red): ‏מכנסי JUST DON בצבע לבן-אדום יוסטון רוקטס בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:28:17Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_386dddde-134a-4431-8338-2bbf82bdcad9.jpg?v=1738545103
-  - [S](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס?variant=46905971179770)
+  - [S](https://www.rsport.co.il/products/hou-just-wht-red?variant=46905971179770)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס?variant=46905971212538)
+  - [M](https://www.rsport.co.il/products/hou-just-wht-red?variant=46905971212538)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס?variant=46905971245306)
+  - [L](https://www.rsport.co.il/products/hou-just-wht-red?variant=46905971245306)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס?variant=46905971278074)
+  - [XL](https://www.rsport.co.il/products/hou-just-wht-red?variant=46905971278074)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס?variant=46905971310842)
+  - [2XL](https://www.rsport.co.il/products/hou-just-wht-red?variant=46905971310842)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-just-don-לבן-אדום-יוסטון-רוקטס?variant=46905971343610)
+  - [3XL](https://www.rsport.co.il/products/hou-just-wht-red?variant=46905971343610)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי יוסטון רוקטס JUST DON | כחול אדום](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס): מכנסי JUST DON של יוסטון רוקטס בצבעי כחול ואדום משלבים סטייל רחוב מרשים עם נוחות מקצועית. עשויים 100% פוליאסטר קל ונושם, הם מספקים חופש תנועה מלא ומתאימים לאימונים, משחקים ולשימוש יומיומי. הלוגו הרקום מדגיש את הזהות של הקבוצה ומעניק טאץ' אופנתי. רצועת המותן הסרוגה מבטיחה התאמה מושלמת לכל מבנה גוף, והרוכסנים מספקים פונקציונליות ונוחות בעת הלבישה. מכנסיים אלו מתאימים לאוהדי NBA שמחפשים מראה מקצועי וסטייל רחוב יחד עם אהבתם לקבוצה. הצבעים הכחול והאדום והעיצוב המדויק מבטיחים מראה מרשים ומשתלב עם תרבות ה-NBA.
-  Updated: 2025-09-28T08:55:56Z
+- [‏מכנסי JUST DON כחול-אדום יוסטון רוקטס](https://www.rsport.co.il/products/hou-just-blu-red): ‏מכנסי JUST DON בצבע כחול-אדום יוסטון רוקטס בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:28:17Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_293b0290-0008-46b7-bd5d-9621e36a5a48.jpg?v=1738545194
-  - [S](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס?variant=46905979076858)
+  - [S](https://www.rsport.co.il/products/hou-just-blu-red?variant=46905979076858)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס?variant=46905979109626)
+  - [M](https://www.rsport.co.il/products/hou-just-blu-red?variant=46905979109626)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס?variant=46905979142394)
+  - [L](https://www.rsport.co.il/products/hou-just-blu-red?variant=46905979142394)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס?variant=46905979175162)
+  - [XL](https://www.rsport.co.il/products/hou-just-blu-red?variant=46905979175162)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס?variant=46905979207930)
+  - [2XL](https://www.rsport.co.il/products/hou-just-blu-red?variant=46905979207930)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסיי-just-don-כחול-אדום-יוסטון-רוקטס?variant=46905979240698)
+  - [3XL](https://www.rsport.co.il/products/hou-just-blu-red?variant=46905979240698)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי משחק יוסטון רוקטס](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס): מכנסי המשחק של יוסטון רוקטס מעניקים נוחות וביצועים גבוהים על המגרש. עשויים 100% פוליאסטר קל ונושם, המספק חופש תנועה מלא ומאפשרים שימוש למשחקים, אימונים וליום יום. הלוגו הרקום מדגיש את הזהות של הקבוצה ומעניק טאץ' אופנתי. רצועת המותן הסרוגה מבטיחה התאמה נוחה, והרוכסנים מוסיפים פונקציונליות ונוחות בעת הלבישה. מכנסיים אלו מתאימים לאוהדי NBA שמחפשים מראה מקצועי יחד עם סטייל רחוב. העיצוב המדויק מבטיח מראה מרשים שמתאים גם מחוץ למגרש.
-  Updated: 2025-09-28T08:54:47Z
+- [‏מכנסי משחק יוסטון רוקטס](https://www.rsport.co.il/products/hou-shorts): ‏מכנסי משחק יוסטון רוקטס בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:28:17Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_c5a2a5a0-63a2-4676-9daa-3768e70e822e.jpg?v=1738545152
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס?variant=46905987793146)
+  - [S](https://www.rsport.co.il/products/hou-shorts?variant=46905987793146)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס?variant=46905987825914)
+  - [M](https://www.rsport.co.il/products/hou-shorts?variant=46905987825914)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס?variant=46905987858682)
+  - [L](https://www.rsport.co.il/products/hou-shorts?variant=46905987858682)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס?variant=46905987891450)
+  - [XL](https://www.rsport.co.il/products/hou-shorts?variant=46905987891450)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס?variant=46905987924218)
+  - [2XL](https://www.rsport.co.il/products/hou-shorts?variant=46905987924218)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס?variant=46905987956986)
+  - [3XL](https://www.rsport.co.il/products/hou-shorts?variant=46905987956986)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי משחק יוסטון רוקטס | אדום](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום): מכנסי משחק של יוסטון רוקטס בצבע אדום משלבים איכות מקצועית עם נוחות מקסימלית. עשויים 100% פוליאסטר קל ונושם, מאפשרים חופש תנועה מלא ומתאימים למשחקים, אימונים ולשימוש יום יומי. הלוגו של הקבוצה מודגש ברקמה איכותית, המדגישה את הזהות של יוסטון רוקטס. רצועת המותן הסרוגה מבטיחה התאמה מושלמת לכל מבנה גוף, והרוכסנים מספקים נוחות ופונקציונליות בעת הלבישה. מכנסיים אלו מתאימים לאוהדי NBA שרוצים לשלב מראה מקצועי עם סטייל רחוב. הצבע האדום והעיצוב המדויק מבטיחים מראה מרשים ואופנתי, שמתאים גם מחוץ למגרש.
-  Updated: 2025-09-28T08:52:57Z
+- [‏מכנסי משחק אדומים יוסטון רוקטס](https://www.rsport.co.il/products/hou-red-shorts): ‏מכנסי משחק אדומים יוסטון רוקטס בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-09-30T22:28:17Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_60f1a100-24c2-43e9-891c-7bcbf7581bd3.jpg?v=1738545153
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום?variant=46905994051834)
+  - [S](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994051834)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום?variant=46905994084602)
+  - [M](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994084602)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום?variant=46905994117370)
+  - [L](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994117370)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום?variant=46905994150138)
+  - [XL](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994150138)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום?variant=46905994182906)
+  - [2XL](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994182906)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-יוסטון-רוקטס-צבע-אדום?variant=46905994215674)
+  - [3XL](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994215674)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית משחק מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
@@ -23120,7 +23120,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק ספורטינג ליסבון 24/25 | אוקטובר הורוד](https://www.rsport.co.il/products/חולצת-משחק-ספורטינג-ליסבון-24-25-אוקטובר-הורוד): חולצת משחק ספורטינג ליסבון 24/25 בעיצוב אוקטובר הורוד, המשלבת צבעים מודרניים עם פרטים קלאסיים של המועדון. עשויה 100% פוליאסטר נושם וקל משקל, לשמירה על נוחות וקרירות במהלך פעילויות אינטנסיביות. כוללת לוגו רקום על החולצה ושרוולים קצרים שמתאימים למשחקים ספורטיביים וללבוש יומיומי.
-  Updated: 2025-09-18T17:19:14Z
+  Updated: 2025-09-30T22:26:27Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -33797,7 +33797,7 @@
     Availability: Available
     Price: ‏180.00 ‏₪ ILS
 - [חולצת כדורגל  ג'ובנטוד בית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-גובנטוד-בית-2024-גברים): חולצת הבית של ג'ובנטוד לעונת 2024 מציגה את הצבעים המסורתיים של המועדון עם עיצוב קלאסי שמדגיש את זהות הקבוצה. החולצה עשויה מ-100% פוליאסטר, עם בד נושם וקל משקל שמנדף זיעה ומעניק נוחות גבוהה בזמן משחק, אימון או שימוש יומיומי. מתאימה לאוהדים שרוצים לתמוך בקבוצה באיכות ובסטייל.
-  Updated: 2025-09-07T22:04:37Z
+  Updated: 2025-10-01T01:06:26Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37223,7 +37223,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת ברזיל חוץ 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גוניורס): תמוך בדור העתיד של ה־Selecao עם חולצת החוץ של נבחרת ברזיל 2025 לילדים, בעיצוב חדש ונועז בהשראת המדים של שחקניות הנבחרת. החולצה מגיעה בגוון כחול עמוק, ליצירת מראה מודרני שמושך את העין ועדיין נאמן למסורת. עשויה 100% פוליאסטר, מבד קל, נושם ונוח במיוחד אידיאלית למשחק, אימון או לבוש יומיומי. פריט מושלם לאוהדים צעירים שרוצים לבלוט ולתמוך בנבחרת הברזילאית בסגנון ייחודי ורענן.
-  Updated: 2025-09-27T18:37:51Z
+  Updated: 2025-10-01T00:31:52Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -45162,7 +45162,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק אותנטית אתלטיקו מדריד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-אותנטית-אתלטיקו-מדריד-שלישית-25-26-גברים): חולצת כדורגל משחקי אתלטיקו מדריד שלישית לעונת 2025/26 בגרסת שחקן עם גזרה צמודה המדמה את החולצה שלובשים הכוכבים על המגרש עשויה 100% פוליאסטר קל ונושם בטכנולוגיה מתקדמת לנידוף זיעה שמעניקה תחושת יובש ונוחות גם ברגעי מאמץ אינטנסיביים העיצוב בגווני כחול לבן ואדום משלב אלמנטים מודרניים עם הזהות המזוהה של אתלטיקו הסמל מתנוסס על החזה ואפשר להוסיף שם מספר או לבחור שחקן אהוב להתאמה אישית מושלם לאוהדים שרוצים להרגיש חלק מהמשחק עצמו וללבוש את הצבעים בגאווה בכל מקום
-  Updated: 2025-09-30T13:10:06Z
+  Updated: 2025-10-01T01:33:41Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45959,8 +45959,8 @@
   Updated: 2025-09-27T11:19:20Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-30T13:09:50Z
-  Total Products: 931
+  Updated: 2025-09-30T21:31:16Z
+  Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-24T19:15:59Z
   Total Products: 52
@@ -46337,7 +46337,7 @@
   Updated: 2025-09-30T13:09:50Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-09-30T23:03:22Z
   Total Products: 250
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-09-18T17:19:13Z
