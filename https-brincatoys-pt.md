@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-02T00:01:06.368Z
+- Updated At: 2025-10-02T04:01:10.329Z
 
 ## Products
 
@@ -112,21 +112,21 @@ desenvolvem a motricidade, a coordenação e o pensamento lógico.
   Price: 8,50 € EUR
 - [A Bela Adormecida -Maléfica-](https://brincatoys.pt/products/a-bela-adormecida-malefica): Figura em borracha termoplástica do filme A Bela Adormecida.
 Figura com aproximadamente  10,5 cm.
-  Updated: 2025-10-01T12:21:06Z
+  Updated: 2025-10-02T00:21:08Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/a-bela-adormecida-malefica-621255624-4007176125564-brincatoys-1178692665.jpg?v=1752820817
   Price: 11,50 € EUR
 - [A Bela Adormecida Aurora - Modelo 2](https://brincatoys.pt/products/a-bela-adormecida-aurora-3): Figura em borracha termoplástica do filme A Bela Adormecida.A bela princesa Aurora está sob uma maldição maligna: antes do seu aniversário de 16 anos, ela deve espetar-se num fuso e cair morta. Para ajudar a princesa e quebrar o feitiço, três fadas boas usam todos os seus poderes mágicos, mas a Bela Adormecida só adormece profundamente. Somente ...
-  Updated: 2025-10-01T12:15:46Z
+  Updated: 2025-10-02T00:14:13Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-aurora-edicao-limitada-do-filme-a-bela-adormecida-621288517-princesas-disney-1195130462.jpg?v=1759081919
   Price: 8,50 € EUR
 - [A Bela Adormecida Aurora - Modelo 1](https://brincatoys.pt/products/figura-aurora): Encante-se com a nostálgica figura coleccionável de Aurora de 2022, inspirada no conto de fadas "A Bela Adormecida", feita em borracha termoplástica de alta qualidade e com detalhes cuidados. Um presente perfeito para fãs de todas as idades!
-  Updated: 2025-10-01T12:15:41Z
+  Updated: 2025-10-02T00:15:47Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -593,7 +593,7 @@ defender-se ferozmente quando provocado.
 ombros, assim como pode pesar até 400 kg. Vive nas regiões árticas, e graças à
  sua pelagem felpuda aguenta temperaturas tão baixas como os -40°C. 
 Apesar do nome, os bois-almiscarados estão mais aparentados com as ca...
-  Updated: 2025-09-29T19:37:45Z
+  Updated: 2025-10-02T02:18:50Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -3865,7 +3865,7 @@ Norte da África.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-cluedo-junior-90033515-5010993386154-brincatoys-1178693814.jpg?v=1752845778
   Price: 23,90 € EUR
 - [Jogo de Tabuleiro Codenames Disney - Aventura Familiar](https://brincatoys.pt/products/jogo-de-tabuleiro-codenames-disney-en): Envolva-se num mundo de mistério e magia com o Jogo de Tabuleiro Codenames Disney. Ideal para todas as idades, com o encanto Disney para noites em família.
-  Updated: 2025-09-29T18:19:12Z
+  Updated: 2025-10-02T03:30:52Z
   Vendor: Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -4018,7 +4018,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-viagem-bingo-81295519-brincatoys-1178693852.png?v=1752846605
   Price: 14,99 € EUR
 - [Jogo de xadrez](https://brincatoys.pt/products/jogo-de-xadrez): Damas é um jogo de estratégia muito popular em todo o mundo! Este conjunto de damas vem na forma de uma caixa de madeira serigrafada com estampa de aparas de madeira. Dimensões da caixa aberta: 30 x 30 x 2 cm.   Dimensão: 30 x 15 x 4 cm Idade recomendada: + de 5 anos.
-  Updated: 2025-09-29T19:09:15Z
+  Updated: 2025-10-02T02:09:41Z
   Vendor: Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -8505,7 +8505,7 @@ espécie da família Mustelidae. Ocorrem na maioria da África e no Oeste e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneco-pvc-disney-simba-de-vida-as-brincadeiras-das-criancas-621401722-brincatoys-1178695299.jpg?v=1752871922
   Price: 9,00 € EUR
 - [Rei Leão Pumba](https://brincatoys.pt/products/rei-leao-pumba): Figura em borracha termoplástica do filme Rei Leão.  Para o javali Pumba, do clássico filme "O Rei Leão", as baratas são a comida favorita. Pumba e seu melhor amigo Timom ajudam o pequeno leão Simba após este ter desmaiado exausto no deserto. Figura com aproximadamente 6 cm.  Dimensão: 7,60 x 5,90 x 3,10 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-01T12:19:30Z
+  Updated: 2025-10-02T00:19:37Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -15568,7 +15568,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-purosangue-replica-perfeita-132603024-4893993260300-bburago-1178698833.jpg?v=1752932774
   Price: 26,50 € EUR
 - [Carro de Brincar Porsche 911 GT3 2021 à Escala 1:24](https://brincatoys.pt/products/porsche-911-gt3-2021): Com o carro de brincar Porsche 911 GT3 2021 e acrescente luxo e detalhes precisos à sua coleção! Perfeito para amantes de veículos desportivos.
-  Updated: 2025-10-01T12:03:57Z
+  Updated: 2025-10-02T00:04:03Z
   Vendor: Bburago
   Product Type: Bburago
   Availability: Available
@@ -15764,7 +15764,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-taycan-turbo-s-1-24-682109824-bburago-1178698998.jpg?v=1752934441
   Price: 23,50 € EUR
 - [Carro de brincar Porsche 911 GT3 2021 à Escala 1:24](https://brincatoys.pt/products/porsche-911-gt3-2023): Descubra o Carro de brincar Porsche 911 GT3 2021 à escala 1:24 da Bburago, perfeito para crianças e colecionadores. Detalhes realistas e qualidade superior.
-  Updated: 2025-10-01T12:06:32Z
+  Updated: 2025-10-02T00:06:48Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -17493,7 +17493,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-sheriff-replica-perfeita-555618624-887961561869-cars-1178700412.jpg?v=1752955566
   Price: 11,99 € EUR
 - [Carro da Disney - Rusteze Lightning McQueen](https://brincatoys.pt/products/cars-disney-pixar-rusteze-lightning-mcqueen): Descubra o carro da Disney - Rusteze Lightning McQueen na Brincatoys! Réplica metálica fiel, detalhes autênticos e diversão garantida para fãs de "Carros".
-  Updated: 2025-09-29T21:14:45Z
+  Updated: 2025-10-02T01:09:15Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -18403,7 +18403,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-range-rover-sport-1-18-131206924-4893993120697-bburago-1178701104.jpg?v=1752965653
   Price: 54,50 € EUR
 - [Carro de Brincar Aston Martin Valkyria: Peça Imponente](https://brincatoys.pt/products/aston-martin-valkyria): Descubra o mundo da velocidade com o incrível carro de brincar Aston Martin Valkyria. Perfeito para crianças e colecionadores apaixonados. 🏎️
-  Updated: 2025-10-01T12:17:15Z
+  Updated: 2025-10-02T00:17:27Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20370,14 +20370,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/branca-de-neve-e-os-sete-anoes-feliz-621247918-brincatoys-1195130474.jpg?v=1759082054
   Price: 7,50 € EUR
 - [figura de borracha Disney Zangado para coleção](https://brincatoys.pt/products/figura-de-borracha-disney-zangado): Diversão garantida com a figura de borracha Disney Zangado! Ideal para recriar cenas e encantar fãs de todas as idades. Compre agora!
-  Updated: 2025-10-01T12:18:05Z
+  Updated: 2025-10-02T01:15:38Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-zangado-para-colecao-621247824-40071761224789-brincatoys-1195121717.jpg?v=1759074606
   Price: 7,50 € EUR
 - [figura de borracha Disney Soneca para colecionar](https://brincatoys.pt/products/figura-de-borracha-disney-soneca): Traga a magia de Disney para casa com a figura de borracha Disney Soneca! Com detalhes incríveis, é adequada para as suas aventuras diárias.
-  Updated: 2025-10-01T12:19:13Z
+  Updated: 2025-10-02T00:19:19Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20421,14 +20421,14 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-cinderela-para-brincar-621259922-princesas-disney-1195031833.jpg?v=1759060807
   Price: 9,50 € EUR
 - [Figura de borracha Disney – Stitch para sua coleção](https://brincatoys.pt/products/figura-de-borracha-disney-stich): Conheça a Figura de borracha Disney – Stitch, uma miniatura vibrante que anima qualquer coleção! Leve a energia do experimento 626 para casa.
-  Updated: 2025-10-01T12:18:36Z
+  Updated: 2025-10-02T00:18:58Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-stitch-para-sua-colecao-621258725-4063847125875-brincatoys-1195027908.jpg?v=1759045806
   Price: 7,50 € EUR
 - [Figura de borracha Disney – Mufasa: Majestade em Miniatura](https://brincatoys.pt/products/figura-de-borracha-disney-mufasa): Adicione majestade à sua coleção com a figura de borracha Disney – Mufasa! Este personagem icónico é perfeito para recriar momentos épicos! 🦁
-  Updated: 2025-10-01T12:19:54Z
+  Updated: 2025-10-02T01:18:34Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20484,7 +20484,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-capitao-gancho-detalhada-621265125-4007176126516-brincatoys-1195041116.jpg?v=1759068241
   Price: 8,50 € EUR
 - [Figura de borracha Disney - Mike para coleção divertida](https://brincatoys.pt/products/figura-de-borracha-disney-mike): Traga a magia da Disney para sua coleção com a figura de borracha Disney - Mike! Com um design divertido, é perfeita para brincadeiras. 🎉
-  Updated: 2025-10-01T12:20:22Z
+  Updated: 2025-10-02T00:20:44Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20946,7 +20946,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/sonic-the-hedgehog-com-mapa-acao-e-diversao-imediata-774149525-0192995414952-sonic-the-hedgehog-1192494844.jpg?v=1757706607
   Price: 19,99 € EUR
 - [Carro de Brincar Aston Martin Valkyria: Peça Imponente](https://brincatoys.pt/products/aston-martin-valkyria-verde): Descubra o mundo da velocidade com o incrível carro de brincar Aston Martin Valkyria. Perfeito para crianças e colecionadores apaixonados. 🏎️
-  Updated: 2025-10-01T12:17:07Z
+  Updated: 2025-10-02T00:17:13Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
