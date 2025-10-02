@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-01T12:00:34.992Z
+- Updated At: 2025-10-02T16:00:35.174Z
 
 ## Products
 
@@ -3387,7 +3387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/INLINE-WHITE.jpg?v=1757517661
     Price: $1.00 USD
 - [Delhi Metallic Jacquard Fabric - 120 Inch Width](https://fabricsstar.com/products/delhi-metallic-flower-jacquard-fabric-120-inch-in-width-home-decor): Shop Delhi Metallic Flower Jacquard Fabric - 120 Inch. Wide. Perfect for wide tablecloths and home decor. Custom cut to order.
-  Updated: 2025-09-25T21:41:36Z
+  Updated: 2025-10-01T15:11:58Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5575,7 +5575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TRIANGLE-MIDNIGHT-501-1.jpg?v=1757518213
     Price: $1.00 USD
 - [Catch Jacquard Fabric, 110 Inch. in Width, | Home Decor](https://fabricsstar.com/products/catch-jacquard-fabric-110-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - The Catch jacquard fabric will add a touch of elegance to your event. The beautiful tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:43:03Z
+  Updated: 2025-10-01T17:02:06Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -9628,13 +9628,13 @@
   Updated: 2025-09-30T11:12:27Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-09-22T11:12:28Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
   Updated: 2025-09-16T00:47:43Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-09-17T11:11:23Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 533
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-01T11:11:59Z
+  Updated: 2025-10-02T11:12:52Z
   Total Products: 666
 
 ## Blogs
