@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-02T04:00:44.089Z
+- Updated At: 2025-10-02T08:00:44.170Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -8195,7 +8195,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [White Quartz Drop Hoop Earrings | Rose Gold Earrings | Lily Blanche](https://www.lilyblanche.com/products/white-quartz-drop-hoop-earrings-rose-gold-april): Searching for some gorgeous birthstone earrings? Make a statement with our White Quartz Drop Hoop Earrings in 18 carat rose gold vermeil. As the birthstone for April, White Quartz symbolises strength. Free UK shipping & luxury jewellery care kit included worth £20. Shop online today. Express delivery available.
-  Updated: 2025-10-01T03:58:50Z
+  Updated: 2025-10-02T04:40:00Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -10551,7 +10551,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £380.00 GBP
 - [Four Photo Heart Charm Locket Silver | Cherish Memories](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-silver): Hold special memories close to your heart with this Four-Photo Heart Charm Locket in sterling silver. This stunning locket necklace takes four photos, making it the perfect love token or gift. Order your Four-Photo Heart Charm Locket in silver online today and receive free photos, & free jewellery care kit!
-  Updated: 2025-09-25T21:10:25Z
+  Updated: 2025-10-02T05:47:16Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16988,7 +16988,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-01T12:37:15Z
+  Updated: 2025-10-02T06:41:51Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
