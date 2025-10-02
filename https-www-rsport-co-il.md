@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-01T04:00:59.178Z
+- Updated At: 2025-10-02T00:00:57.841Z
 
 ## Products
 
@@ -3317,7 +3317,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [גרבי כדורגל יובנטוס שלישית 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-יובנטוס-שלישית-24-25): גרבי כדורגל יובנטוס שלישית 24/25;גרביים אלה עשויות 92% פוליאסטר, 5% כותנה ו-3% ספנדקס, מספקות נוחות וגמישות מקסימלית כדי לעזור לך להתמודד עם כל אתגר על המגרש. הרם את המשחק שלך היום
-  Updated: 2025-09-18T18:31:18Z
+  Updated: 2025-10-01T16:26:38Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -7607,7 +7607,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסיי משחק רטרו לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-רטרו-לוס-אנגלס-לייקרס): מכנסי משחק רטרו של לוס אנג'לס לייקרס משלבים סגנון קלאסי עם נוחות מודרנית. עשויים 100% פוליאסטר קל ונושם, הם מספקים חופש תנועה מירבי למשחקים, אימונים או שימוש יומיומי. הגזרה רגילה ומאפשרת תנועות מהירות ודיוק במגרש, בעוד העיצוב הרטרו מבטא את ההיסטוריה והסגנון המזוהה של הלייקרס. בד קל ונושם שמבטיח תחושת יובש ונוחות לאורך כל הפעילות, אידיאלי לכל אוהד או שחקן שרוצה להרגיש חלק מהקבוצה.
-  Updated: 2025-09-30T21:19:00Z
+  Updated: 2025-10-01T09:37:12Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7628,7 +7628,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסיי משחק צבע לבן לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-לבן-לוס-אנגלס-לייקרס): מכנסי משחק לבנים של לוס אנג'לס לייקרס מציעים שילוב מושלם בין נוחות לסגנון מזוהה של הקבוצה. עשויים 100% פוליאסטר קל ונושם, הם מספקים תחושת יובש ונוחות לאורך כל אימון או משחק. הגזרה רגילה ומותאמת למגוון תנועות, אידיאלית לשחקנים שרוצים חופש תנועה מלא ולדיוק מירבי במגרש. מכנסיים אלה מתאימים גם לשימוש יומיומי או הופעות בסגנון רחוב. בד קל ונושם מאפשר לך להתרכז במשחק ללא הפרעות, ומעניק חוויית משחק מקצועית בכל מצב.
-  Updated: 2025-09-30T21:30:46Z
+  Updated: 2025-10-01T09:48:40Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7649,7 +7649,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסיי משחק צבע שחור לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-שחור-לוס-אנגלס-לייקרס): שפר את ביצועיך עם מכנסי משחק שחורים של לוס אנג'לס לייקרס. המכנסיים מיועדים לשחקנים שרוצים נוחות מרבית תוך שמירה על סגנון מקצועי ומראה מזוהה של הקבוצה. עשויים 100% פוליאסטר קל ונושם, הם מספקים תחושת יובש לאורך כל המשחק או האימון. הגזרה רגילה ומותאמת לחופש תנועה מלא, מושלמת לכל פעילות ספורטיבית או שימוש יומיומי. המכנסיים מעניקים נוחות, מראה אופנתי והרגשה מקצועית, עם התאמה מלאה למגרש וליום יום.
-  Updated: 2025-09-30T21:31:44Z
+  Updated: 2025-10-01T09:52:55Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7670,7 +7670,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסיי משחק צבע סגול לוס אנג'לס לייקרס](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-סגול-לוס-אנגלס-לייקרס): מכנסי משחק סגולים של לוס אנג'לס לייקרס מיועדים לאימון ומגרש עם נוחות מירבית. החומר קל ונושם ומספק תחושת יובש לאורך כל הפעילות. הגזרה רגילה מאפשרת חופש תנועה מלא, אידיאלית לשחקנים בכל רמות המשחק. העיצוב שומר על מראה המזוהה של הלייקרס, מתאים גם לשימוש יומיומי. בד 100% פוליאסטר קל ונושם שמבטיח נוחות לאורך כל המשחק או האימון.
-  Updated: 2025-09-30T21:33:14Z
+  Updated: 2025-10-01T09:52:08Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -7690,172 +7690,172 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-צבע-סגול-לוס-אנגלס-לייקרס?variant=46888943747322)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [גופיית משחק אדומה שיקגו בולס Swingman](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:25Z
+- [גופיית Swingman אדומה שיקגו בולס](https://www.rsport.co.il/products/chb-sw-red): גופיית Swingman אדומה עם עיצוב נוח וספורטיבי לאוהדים
+  Updated: 2025-10-01T23:59:42Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_b86ea9db-6e87-4e75-bf47-84916a7f9421.jpg?v=1738567373
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman?variant=46888947777786)
+  - [S](https://www.rsport.co.il/products/chb-sw-red?variant=46888947777786)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman?variant=46888947810554)
+  - [M](https://www.rsport.co.il/products/chb-sw-red?variant=46888947810554)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman?variant=46888947843322)
+  - [L](https://www.rsport.co.il/products/chb-sw-red?variant=46888947843322)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman?variant=46888947876090)
+  - [XL](https://www.rsport.co.il/products/chb-sw-red?variant=46888947876090)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman?variant=46888947908858)
+  - [2XL](https://www.rsport.co.il/products/chb-sw-red?variant=46888947908858)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-שיקגו-בולס-swingman?variant=46888947941626)
+  - [3XL](https://www.rsport.co.il/products/chb-sw-red?variant=46888947941626)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק לבנה שיקגו בולס Swingman](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:25Z
+- [גופיית Swingman לבנה שיקגו בולס](https://www.rsport.co.il/products/chb-sw-wht): גופיית Swingman לבנה של שיקגו בולס בעיצוב איכותי ונוח
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_e8868cb8-b6ee-4ca0-abc9-9bef773d9f87.jpg?v=1738567374
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman?variant=46888949612794)
+  - [S](https://www.rsport.co.il/products/chb-sw-wht?variant=46888949612794)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman?variant=46888949645562)
+  - [M](https://www.rsport.co.il/products/chb-sw-wht?variant=46888949645562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman?variant=46888949678330)
+  - [L](https://www.rsport.co.il/products/chb-sw-wht?variant=46888949678330)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman?variant=46888949711098)
+  - [XL](https://www.rsport.co.il/products/chb-sw-wht?variant=46888949711098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman?variant=46888949743866)
+  - [2XL](https://www.rsport.co.il/products/chb-sw-wht?variant=46888949743866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שיקגו-בולס-swingman?variant=46888949776634)
+  - [3XL](https://www.rsport.co.il/products/chb-sw-wht?variant=46888949776634)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו מייקל ג'ורדן 1997/98](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:25Z
+- [גופיית רטרו מייקל ג'ורדן 1997/98](https://www.rsport.co.il/products/chb-jr-9798): גופיית רטרו של מייקל ג'ורדן 1997/98, מתאימה לאוהדים ולאספנים כאחד. עשויה בד איכותי, מספקת נוחות ועמידות לאורך זמן ומאפשרת להרגיש את רוח הכדורסל האמיתית. העיצוב משלב את צבעי הקבוצה ומציע סטייל ייחודי שמושך תשומת לב במגרש ובחיי היום-יום. פריט חובה לכל חובב כדורסל וקולקציית רטרו.
+  Updated: 2025-10-01T17:35:52Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_ab36f302-1a89-460c-8ca4-45e0a6c24744.jpg?v=1738567375
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98?variant=46888957280506)
+  - [S](https://www.rsport.co.il/products/chb-jr-9798?variant=46888957280506)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98?variant=46888957313274)
+  - [M](https://www.rsport.co.il/products/chb-jr-9798?variant=46888957313274)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98?variant=46888957346042)
+  - [L](https://www.rsport.co.il/products/chb-jr-9798?variant=46888957346042)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98?variant=46888957378810)
+  - [XL](https://www.rsport.co.il/products/chb-jr-9798?variant=46888957378810)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98?variant=46888957411578)
+  - [2XL](https://www.rsport.co.il/products/chb-jr-9798?variant=46888957411578)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-1997-98?variant=46888957444346)
+  - [3XL](https://www.rsport.co.il/products/chb-jr-9798?variant=46888957444346)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו מייקל ג'ורדן שיקגו בולס](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:25Z
+- [גופיית רטרו מייקל ג'ורדן שיקגו בולס](https://www.rsport.co.il/products/chb-jr-bulls): גופיית רטרו מייקל ג'ורדן עם עיצוב קלאסי של Chicago Bulls
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_a90e4483-ce02-4c67-bcc9-54cf839a41fa.jpg?v=1738567377
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס?variant=46888958165242)
+  - [S](https://www.rsport.co.il/products/chb-jr-bulls?variant=46888958165242)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס?variant=46888958198010)
+  - [M](https://www.rsport.co.il/products/chb-jr-bulls?variant=46888958198010)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס?variant=46888958230778)
+  - [L](https://www.rsport.co.il/products/chb-jr-bulls?variant=46888958230778)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס?variant=46888958263546)
+  - [XL](https://www.rsport.co.il/products/chb-jr-bulls?variant=46888958263546)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס?variant=46888958296314)
+  - [2XL](https://www.rsport.co.il/products/chb-jr-bulls?variant=46888958296314)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-מייקל-גורדן-שיקגו-בולס?variant=46888958329082)
+  - [3XL](https://www.rsport.co.il/products/chb-jr-bulls?variant=46888958329082)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו שחורה מייקל ג'ורדן](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:24Z
+- [גופיית רטרו שחורה מייקל ג'ורדן](https://www.rsport.co.il/products/chb-jr-blk): גופיית רטרו שחורה של מייקל ג'ורדן בעיצוב אייקוני
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_3a4c3f6f-3c6c-47c4-8856-aafc3b95d9e5.jpg?v=1738567379
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן?variant=46888958820602)
+  - [S](https://www.rsport.co.il/products/chb-jr-blk?variant=46888958820602)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן?variant=46888958853370)
+  - [M](https://www.rsport.co.il/products/chb-jr-blk?variant=46888958853370)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן?variant=46888958886138)
+  - [L](https://www.rsport.co.il/products/chb-jr-blk?variant=46888958886138)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן?variant=46888958918906)
+  - [XL](https://www.rsport.co.il/products/chb-jr-blk?variant=46888958918906)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן?variant=46888958951674)
+  - [2XL](https://www.rsport.co.il/products/chb-jr-blk?variant=46888958951674)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-מייקל-גורדן?variant=46888958984442)
+  - [3XL](https://www.rsport.co.il/products/chb-jr-blk?variant=46888958984442)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו לבנה מייקל ג'ורדן 1996/97](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:24Z
+- [גופיית רטרו לבנה מייקל ג'ורדן 96/97](https://www.rsport.co.il/products/chb-jr-9697-wht): גופיית רטרו לבנה מייקל ג'ורדן מהעונה 96/97 בעיצוב נקי
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_d7d87aa0-1d45-430b-bce3-ebc80aa13de4.jpg?v=1738567380
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97?variant=46888960000250)
+  - [S](https://www.rsport.co.il/products/chb-jr-9697-wht?variant=46888960000250)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97?variant=46888960033018)
+  - [M](https://www.rsport.co.il/products/chb-jr-9697-wht?variant=46888960033018)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97?variant=46888960065786)
+  - [L](https://www.rsport.co.il/products/chb-jr-9697-wht?variant=46888960065786)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97?variant=46888960098554)
+  - [XL](https://www.rsport.co.il/products/chb-jr-9697-wht?variant=46888960098554)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97?variant=46888960131322)
+  - [2XL](https://www.rsport.co.il/products/chb-jr-9697-wht?variant=46888960131322)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-מייקל-גורדן-1996-97?variant=46888960164090)
+  - [3XL](https://www.rsport.co.il/products/chb-jr-9697-wht?variant=46888960164090)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו אדומה מייקל ג'ורדן 1996/97](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-27T21:26:24Z
+- [גופיית רטרו אדומה מייקל ג'ורדן 96/97](https://www.rsport.co.il/products/chbret-jr-9697-red): גופיית רטרו אדומה של מייקל ג'ורדן בעונת 96/97 בעיצוב קלאסי
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_b8bf3d64-a18d-4f80-9982-3cb22ce2dd74.jpg?v=1738567382
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97?variant=46888961769722)
+  - [S](https://www.rsport.co.il/products/chbret-jr-9697-red?variant=46888961769722)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97?variant=46888961802490)
+  - [M](https://www.rsport.co.il/products/chbret-jr-9697-red?variant=46888961802490)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97?variant=46888961835258)
+  - [L](https://www.rsport.co.il/products/chbret-jr-9697-red?variant=46888961835258)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97?variant=46888961868026)
+  - [XL](https://www.rsport.co.il/products/chbret-jr-9697-red?variant=46888961868026)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97?variant=46888961900794)
+  - [2XL](https://www.rsport.co.il/products/chbret-jr-9697-red?variant=46888961900794)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מייקל-גורדן-1996-97?variant=46888961933562)
+  - [3XL](https://www.rsport.co.il/products/chbret-jr-9697-red?variant=46888961933562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [חולצת משחק אסטון וילה חוץ 24/25](https://www.rsport.co.il/products/חולצת-משחק-אסטון-וילה-חוץ-24-25): החולצה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה הליכה החולצה עשויה מ100% פוליאסטר
@@ -9484,88 +9484,88 @@
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-יפן-y-3-חוץ-2024-25?variant=46894238400762)
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
-- [מכנסי משחק שיקאגו בולס צבע אדום](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-אדום): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-27T21:26:24Z
+- [מכנסי משחק שיקאגו בולס צבע אדום](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd): מכנסי משחק אדומים של שיקגו בולס עם מותניים אלסטיות ושרוך להתאמה אישית. עשויים בד קל ונושם, מתאימים לאימון, משחק או שימוש יומיומי.
+  Updated: 2025-10-01T17:36:15Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_e889024f-a84f-40b7-b979-23d877e2e413.jpg?v=1738545173
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-אדום?variant=46896411181306)
+  - [S](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd?variant=46896411181306)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-אדום?variant=46896411214074)
+  - [M](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd?variant=46896411214074)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-אדום?variant=46896411246842)
+  - [L](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd?variant=46896411246842)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-אדום?variant=46896411279610)
+  - [XL](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd?variant=46896411279610)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-אדום?variant=46896411312378)
+  - [2XL](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd?variant=46896411312378)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק שחורים שיקאגו בולס](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-שיקאגו-בולס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-27T21:26:23Z
+- [מכנסי משחק שחורים שיקאגו בולס](https://www.rsport.co.il/products/chbulb-pajd): מכנסי משחק שחורים של שיקגו בולס עם עיצוב מינימליסטי ונקי, עשויים מבד נושם ועמיד לנוחות מקסימלית על המגרש ובחיי היום יום. הדגם מגיע ללא שרוך ומתאים לאוהדים שמחפשים שילוב של סטייל ופשטות.
+  Updated: 2025-10-01T17:35:50Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_9ca87b70-bfa2-422b-89c2-64af77ee92d5.jpg?v=1738545170
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-שיקאגו-בולס?variant=46896418128122)
+  - [S](https://www.rsport.co.il/products/chbulb-pajd?variant=46896418128122)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-שיקאגו-בולס?variant=46896418160890)
+  - [M](https://www.rsport.co.il/products/chbulb-pajd?variant=46896418160890)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-שיקאגו-בולס?variant=46896418193658)
+  - [L](https://www.rsport.co.il/products/chbulb-pajd?variant=46896418193658)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-שיקאגו-בולס?variant=46896418226426)
+  - [XL](https://www.rsport.co.il/products/chbulb-pajd?variant=46896418226426)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-שיקאגו-בולס?variant=46896418259194)
+  - [2XL](https://www.rsport.co.il/products/chbulb-pajd?variant=46896418259194)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק שיקאגו בולס צבע לבן](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-לבן): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-27T21:26:23Z
+- [מכנסי משחק שיקאגו בולס צבע לבן](https://www.rsport.co.il/products/chbu-jd-wht-pajd): מכנסי משחק לבנים של שיקגו בולס בעיצוב קלאסי עם בד נושם וקליל לנוחות מרבית. מתאימים לאימונים, משחקים או ללבוש יום יומי ומציגים את הצבעים המובחנים של הקבוצה בסטייל נקי ומרשים.
+  Updated: 2025-10-01T17:35:50Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/29_072b944b-9925-4e55-9ad8-a1597b3d4900.jpg?v=1738545176
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-לבן?variant=46896426844410)
+  - [S](https://www.rsport.co.il/products/chbu-jd-wht-pajd?variant=46896426844410)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-לבן?variant=46896426877178)
+  - [M](https://www.rsport.co.il/products/chbu-jd-wht-pajd?variant=46896426877178)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-לבן?variant=46896426909946)
+  - [L](https://www.rsport.co.il/products/chbu-jd-wht-pajd?variant=46896426909946)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-לבן?variant=46896426942714)
+  - [XL](https://www.rsport.co.il/products/chbu-jd-wht-pajd?variant=46896426942714)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-שיקאגו-בולס-צבע-לבן?variant=46896426975482)
+  - [2XL](https://www.rsport.co.il/products/chbu-jd-wht-pajd?variant=46896426975482)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנס קצר שיקגו בולס | JUST DON 1997/98](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98): מכנסי JUST DON משנת 1997/98 של שיקגו בולס מביאים סגנון רטרו עם נוחות מודרנית. הבד קל ונושם, מאפשר חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום בסגנון רחוב. הלוגו הרקום והעיצוב הקלאסי מדגישים את הזהות ההיסטורית של הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה נוחה לכל מבנה גוף. מכנסיים קצרים אלו מתאימים לאוהדי NBA שמעריכים סגנון רטרו יחד עם מראה מקצועי וסטייל רחוב. צבע אדום עם נגיעות שחורות מוסיף נוכחות מרשימה לכל הופעה.
-  Updated: 2025-09-28T09:28:24Z
+- [מכנס קצר שיקגו בולס | JUST DON 1997/98](https://www.rsport.co.il/products/chbu-jd-redcl-pajd): מכנסי JUST DON משנת 1997/98 של שיקגו בולס מביאים סגנון רטרו עם נוחות מודרנית. הבד קל ונושם, מאפשר חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום בסגנון רחוב. הלוגו הרקום והעיצוב הקלאסי מדגישים את הזהות ההיסטורית של הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה נוחה לכל מבנה גוף. מכנסיים קצרים אלו מתאימים לאוהדי NBA שמעריכים סגנון רטרו יחד עם מראה מקצועי וסטייל רחוב. צבע אדום עם נגיעות שחורות מוסיף נוכחות מרשימה לכל הופעה.
+  Updated: 2025-10-01T17:35:50Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_43220ac7-a46a-43de-8caa-8317df6f9507.jpg?v=1738545086
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98?variant=46896490774778)
+  - [S](https://www.rsport.co.il/products/chbu-jd-redcl-pajd?variant=46896490774778)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98?variant=46896490807546)
+  - [M](https://www.rsport.co.il/products/chbu-jd-redcl-pajd?variant=46896490807546)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98?variant=46896490840314)
+  - [L](https://www.rsport.co.il/products/chbu-jd-redcl-pajd?variant=46896490840314)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98?variant=46896490873082)
+  - [XL](https://www.rsport.co.il/products/chbu-jd-redcl-pajd?variant=46896490873082)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-1997-98?variant=46896490905850)
+  - [2XL](https://www.rsport.co.il/products/chbu-jd-redcl-pajd?variant=46896490905850)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנסי JUST DON שיקגו בולס | שחור](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black): מכנסי JUST DON שיקגו בולס בצבע שחור מציעים שילוב מושלם של נוחות וסטייל עבור אוהדי NBA וחובבי אופנת רחוב עשויים 100% פוליאסטר קל ונושם, עם רצועת מותן סרוגה שמספקת התאמה מושלמת, לוגו וכיתוב רקום שמוסיפים טאץ' ייחודי, ורוכסנים לנוחות ופונקציונליות מקסימלית מתאימים ליום יום, אימונים או להופעות בסגנון רחוב, מה שהופך אותם לפריט אופנתי ושימושי בו זמנית.
@@ -9589,130 +9589,130 @@
   - [2XL](https://www.rsport.co.il/products/just-don-chicago-bulls-pants-black?variant=46896591765754)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנס שיקגו בולס JUST DON שחורים](https://www.rsport.co.il/products/just-don-bulls-black-pants): מכנסי שיקגו בולס JUST DON שחורים מציעים נוחות מרבית עם בד 100% פוליאסטר קל ונושם ורצועת מותן סרוגה לוגו וכיתוב רקום מוסיפים טאץ' ייחודי, הרוכסנים מספקים פונקציונליות גבוהה והופכים את המכנסיים לאידיאליים ליום יום, אימונים או סטייל רחוב פריט אופנתי שמאפשר חופש תנועה ומשדרג כל הופעה בסגנון NBA.
-  Updated: 2025-09-27T21:26:22Z
+- [מכנס שיקגו בולס JUST DON שחורים](https://www.rsport.co.il/products/chb-jr-9697-red): מכנסי שיקגו בולס JUST DON שחורים מציעים נוחות מרבית עם בד 100% פוליאסטר קל ונושם ורצועת מותן סרוגה לוגו וכיתוב רקום מוסיפים טאץ' ייחודי, הרוכסנים מספקים פונקציונליות גבוהה והופכים את המכנסיים לאידיאליים ליום יום, אימונים או סטייל רחוב פריט אופנתי שמאפשר חופש תנועה ומשדרג כל הופעה בסגנון NBA.
+  Updated: 2025-10-01T17:35:50Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_71bb851e-707d-4e62-997a-f561f2d058ea.jpg?v=1738545101
-  - [S](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615031034)
+  - [S](https://www.rsport.co.il/products/chb-jr-9697-red?variant=46896615031034)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615063802)
+  - [M](https://www.rsport.co.il/products/chb-jr-9697-red?variant=46896615063802)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615096570)
+  - [L](https://www.rsport.co.il/products/chb-jr-9697-red?variant=46896615096570)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615129338)
+  - [XL](https://www.rsport.co.il/products/chb-jr-9697-red?variant=46896615129338)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/just-don-bulls-black-pants?variant=46896615162106)
+  - [2XL](https://www.rsport.co.il/products/chb-jr-9697-red?variant=46896615162106)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנס קצר שיקגו בולס | JUST DON לבן](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים): מכנסי JUST DON של שיקגו בולס בצבע לבן מספקים שילוב מושלם של נוחות מקצועית וסטייל רחוב. הבד קל ונושם, מעניק חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום. הלוגו הרקום מוסיף טאץ' ייחודי המדגיש את זהות הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה מושלמת ונוחות מירבית. הרוכסנים מאפשרים פונקציונליות נוספת בעת הלבישה והסרה. מכנסיים קצרים אלו מתאימים לאוהדי NBA שרוצים מראה מקצועי לצד סטייל רחוב. הצבע הלבן מעניק מראה נקי ומרענן, קל לשילוב עם פריטי לבוש נוספים.
-  Updated: 2025-09-28T09:31:04Z
+- [מכנסי Just Don לבנים קלאסיים שיקגו בולס](https://www.rsport.co.il/products/chb-jd-whtcl-pjd): מכנסי Just Don לבנים עם עיצוב נקי ונוח, מושלם לאימון וליום יום
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_f52da2f2-6081-4835-924b-177e88cbdac9.jpg?v=1738545093
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים?variant=46896623419642)
+  - [S](https://www.rsport.co.il/products/chb-jd-whtcl-pjd?variant=46896623419642)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים?variant=46896623452410)
+  - [M](https://www.rsport.co.il/products/chb-jd-whtcl-pjd?variant=46896623452410)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים?variant=46896623485178)
+  - [L](https://www.rsport.co.il/products/chb-jd-whtcl-pjd?variant=46896623485178)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים?variant=46896623517946)
+  - [XL](https://www.rsport.co.il/products/chb-jd-whtcl-pjd?variant=46896623517946)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-לבנים?variant=46896623550714)
+  - [2XL](https://www.rsport.co.il/products/chb-jd-whtcl-pjd?variant=46896623550714)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיים קצרים אדומים שיקגו בולס | JUST DON](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-אדומים): מכנסיים קצרים אדומים מבית JUST DON עם עיצוב שיקגו בולס מציעים נוחות גבוהה וסטייל רחוב ייחודי. הבד קל ונושם, מעניק חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום. הלוגו הרקום מוסיף טאץ' מיוחד המדגיש את זהות הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה נוחה לכל מבנה גוף. הרוכסנים מספקים נוחות ופונקציונליות נוספת בעת הלבישה. מכנסיים קצרים אלו מאפשרים לשלב מראה מקצועי עם סטייל רחוב, והצבע האדום בולט ומוסיף נוכחות לכל הופעה.
-  Updated: 2025-09-28T09:31:35Z
+- [מכנסי Just Don אדומים קלאסיים שיקגו בולס](https://www.rsport.co.il/products/chb-jd-redcl-pjd): מכנסי Just Don אדומים עם עיצוב קלאסי ונוחות מירבית לאוהדים
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_e2b55247-5ace-4b70-afc9-91644c20dcd4.jpg?v=1738545089
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-אדומים?variant=46896628957434)
+  - [S](https://www.rsport.co.il/products/chb-jd-redcl-pjd?variant=46896628957434)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-אדומים?variant=46896628990202)
+  - [M](https://www.rsport.co.il/products/chb-jd-redcl-pjd?variant=46896628990202)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-אדומים?variant=46896629022970)
+  - [L](https://www.rsport.co.il/products/chb-jd-redcl-pjd?variant=46896629022970)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-אדומים?variant=46896629055738)
+  - [XL](https://www.rsport.co.il/products/chb-jd-redcl-pjd?variant=46896629055738)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-אדומים?variant=46896629088506)
+  - [2XL](https://www.rsport.co.il/products/chb-jd-redcl-pjd?variant=46896629088506)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנס קצר לבן שיקגו בולס | JUST DON](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-לבן): מכנס קצר בצבע לבן מבית JUST DON עם עיצוב שיקגו בולס מספק נוחות גבוהה ומראה מודרני. הבד קל ונושם, מאפשר חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום בסגנון רחוב. הלוגו הרקום מעניק טאץ' ייחודי המדגיש את זהות הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה נוחה לכל מבנה גוף. רוכסנים מספקים פונקציונליות נוספת ונוחות בלבישה והסרה. מכנסיים קצרים אלו מאפשרים לשלב מראה מקצועי עם סטייל רחוב, והצבע הלבן מעניק מראה נקי ורענן שקל לשלב עם פריטים נוספים.
-  Updated: 2025-09-28T10:11:07Z
+- [מכנסי Just Don לבנים שיקגו בולס](https://www.rsport.co.il/products/chb-jd-wht-pjd): מכנסי Just Don לבנים בעיצוב קלאסי ונוח, מושלם ליום יום
+  Updated: 2025-10-01T17:40:21Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_03780b68-1f01-4913-b4f3-9ee7614a64c1.jpg?v=1738545097
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-לבן?variant=46896717463802)
+  - [S](https://www.rsport.co.il/products/chb-jd-wht-pjd?variant=46896717463802)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-לבן?variant=46896717496570)
+  - [M](https://www.rsport.co.il/products/chb-jd-wht-pjd?variant=46896717496570)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-לבן?variant=46896717529338)
+  - [L](https://www.rsport.co.il/products/chb-jd-wht-pjd?variant=46896717529338)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-לבן?variant=46896717562106)
+  - [XL](https://www.rsport.co.il/products/chb-jd-wht-pjd?variant=46896717562106)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-לבן?variant=46896717594874)
+  - [2XL](https://www.rsport.co.il/products/chb-jd-wht-pjd?variant=46896717594874)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנס קצר ירוק שיקגו בולס | JUST DON](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-ירוק): מכנס קצר בצבע ירוק מבית JUST DON עם עיצוב שיקגו בולס מציע נוחות מעולה ומראה מודרני. הבד קל ונושם, מעניק חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום בסגנון רחוב. הלוגו הרקום מוסיף טאץ' ייחודי המדגיש את זהות הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה נוחה לכל מבנה גוף. הרוכסנים מוסיפים נוחות ופונקציונליות בעת הלבישה והסרה. מכנסיים קצרים אלו מתאימים לאוהדי NBA שמעוניינים לשלב מראה מקצועי עם סטייל רחוב. הצבע הירוק מעניק נוכחות מרעננת וייחודית לכל הופעה.
-  Updated: 2025-09-28T09:33:18Z
+- [מכנסי Just Don ירוקים שיקגו בולס](https://www.rsport.co.il/products/chb-jd-grn-pjd): מכנסי Just Don ירוקים בעיצוב ייחודי ונוחות מירבית לאוהדים
+  Updated: 2025-10-01T17:40:20Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_959e472f-29c9-43f9-a96e-a0cd1af9ff40.jpg?v=1738545095
-  - [S](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-ירוק?variant=46896722510074)
+  - [S](https://www.rsport.co.il/products/chb-jd-grn-pjd?variant=46896722510074)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-ירוק?variant=46896722542842)
+  - [M](https://www.rsport.co.il/products/chb-jd-grn-pjd?variant=46896722542842)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-ירוק?variant=46896722575610)
+  - [L](https://www.rsport.co.il/products/chb-jd-grn-pjd?variant=46896722575610)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-ירוק?variant=46896722608378)
+  - [XL](https://www.rsport.co.il/products/chb-jd-grn-pjd?variant=46896722608378)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-שיקגו-בולס-just-don-צבע-ירוק?variant=46896722641146)
+  - [2XL](https://www.rsport.co.il/products/chb-jd-grn-pjd?variant=46896722641146)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסיי JUST DON שיקגו בולס אדומים](https://www.rsport.co.il/products/מכנסיי-just-don-שיקגו-בולס-אדומים): מכנסי JUST DON של שיקגו בולס בצבע אדום מעניקים נוחות יוצאת דופן ומראה מודרני. הבד קל ונושם, מאפשר חופש תנועה מלא ומתאים לאימונים, משחקים וליום יום בסגנון רחוב. הלוגו הרקום מוסיף טאץ' ייחודי שמדגיש את זהות הקבוצה, ורצועת המותן הסרוגה מבטיחה התאמה נוחה לכל מבנה גוף. מכנסיים קצרים אלו מתאימים לאוהדי NBA שמעוניינים לשלב סטייל רחוב עם מראה מקצועי. הצבע האדום מוסיף נוכחות מרשימה ומראה ספורטיבי מושלם.
-  Updated: 2025-09-28T09:27:09Z
+- [מכנסי Just Don אדומים שיקגו בולס](https://www.rsport.co.il/products/chb-jd-red-pjd): מכנסי Just Don אדומים עם עיצוב איכותי ונוח לאוהדי Chicago Bulls
+  Updated: 2025-10-01T17:40:20Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_35d9cdd3-ea2b-486d-b256-7893b59d5409.jpg?v=1738545197
-  - [S](https://www.rsport.co.il/products/מכנסיי-just-don-שיקגו-בולס-אדומים?variant=46896735650042)
+  - [S](https://www.rsport.co.il/products/chb-jd-red-pjd?variant=46896735650042)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-just-don-שיקגו-בולס-אדומים?variant=46896735682810)
+  - [M](https://www.rsport.co.il/products/chb-jd-red-pjd?variant=46896735682810)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-just-don-שיקגו-בולס-אדומים?variant=46896735715578)
+  - [L](https://www.rsport.co.il/products/chb-jd-red-pjd?variant=46896735715578)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-just-don-שיקגו-בולס-אדומים?variant=46896735748346)
+  - [XL](https://www.rsport.co.il/products/chb-jd-red-pjd?variant=46896735748346)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-just-don-שיקגו-בולס-אדומים?variant=46896735781114)
+  - [2XL](https://www.rsport.co.il/products/chb-jd-red-pjd?variant=46896735781114)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [חולצת משחק ווסטהאם יונייטד בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ווסטהאם-יונייטד-בית-24-25): החולצה עשויה מ-100% פוליאסטר המספק נוחות ואוורור במהלך פעילות ספורטיבית. עם גזרה רגילה ולוגו רקום, היא מתאימה לשימוש יומיומי ולסגנונות ספורטיביים מגוונים.
@@ -9869,7 +9869,7 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [‏גופיית רטרו סטף קרי ווריורס 2009/10](https://www.rsport.co.il/products/gs-curr-rretro): ‏גופיית רטרו סטף קרי גולדן סטייט ווריורס בעיצוב איכותי ונוסטלגי, בהשראת עונת 2009/10 וה־NBA
-  Updated: 2025-09-30T21:50:14Z
+  Updated: 2025-10-01T10:10:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -9893,7 +9893,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית רטרו סטף קרי כתומה 2009/10 גולדן סטייט](https://www.rsport.co.il/products/gs-curr-rorg): ‏גופיית רטרו סטף קרי גולדן סטייט בצבע כתומה בעיצוב איכותי ונוסטלגי, בהשראת עונת 2009/10 וה־NBA
-  Updated: 2025-09-30T21:51:06Z
+  Updated: 2025-10-01T10:03:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -9917,7 +9917,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית רטרו סטף קרי לבנה 2009/10 גולדן סטייט](https://www.rsport.co.il/products/gs-curr-rwht): ‏גופיית רטרו סטף קרי גולדן סטייט בצבע לבנה בעיצוב איכותי ונוסטלגי, בהשראת עונת 2009/10 וה־NBA
-  Updated: 2025-09-30T21:51:48Z
+  Updated: 2025-10-01T10:12:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -9941,7 +9941,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי לבנה 24/25 גולדן סטייט](https://www.rsport.co.il/products/gs-curr-wht2425): ‏גופיית משחק סטף קרי גולדן סטייט לבנה בעונת 24/25 בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל ומגרש
-  Updated: 2025-09-30T21:52:30Z
+  Updated: 2025-10-01T09:52:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -9965,7 +9965,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי מהדורה קלאסית גולדן סטייט](https://www.rsport.co.il/products/gs-curr-cl): ‏גופיית משחק סטף קרי גולדן סטייט במהדורה קלאסית בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל יומיומי ומגרש
-  Updated: 2025-09-30T22:08:08Z
+  Updated: 2025-10-01T10:09:37Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -9989,7 +9989,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי שחורה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-blk-std): ‏גופיית משחק סטף קרי גולדן סטייט במהדורה קלאסית בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל יומיומי ומגרש
-  Updated: 2025-09-30T22:10:20Z
+  Updated: 2025-10-01T10:10:25Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10013,7 +10013,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק שחור זהב גולדן סטייט סטף קרי](https://www.rsport.co.il/products/gs-curr-blk): ‏גופיית משחק סטף קרי גולדן סטייט בצבע שחורה בעיצוב איכותי ונוח, בהשראת ה־ NBA לסטייל מודרני וספורטיבי
-  Updated: 2025-09-30T22:11:16Z
+  Updated: 2025-10-01T10:11:20Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10037,7 +10037,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי City Edition גולדן סטייט](https://www.rsport.co.il/products/gs-curr-ce): ‏גופיית משחק סטף קרי גולדן סטייט במהדורת City Edition בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל יומיומי ומגרש
-  Updated: 2025-09-30T22:13:44Z
+  Updated: 2025-10-01T10:13:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10061,7 +10061,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי צהובה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-yel): ‏גופיית משחק סטף קרי גולדן סטייט בצבע צהובה בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:16:08Z
+  Updated: 2025-10-01T10:16:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10082,7 +10082,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי כחולה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-blu): ‏גופיית משחק סטף קרי גולדן סטייט בצבע כחולה בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:16:59Z
+  Updated: 2025-10-01T10:16:59Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10106,7 +10106,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי כחול כהה גולדן סטייט](https://www.rsport.co.il/products/gs-curr-nvy): ‏גופיית משחק סטף קרי גולדן סטייט בצבע כחול כהה בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:17:36Z
+  Updated: 2025-10-01T10:28:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10130,7 +10130,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק סטף קרי All-Star גולדן סטייט](https://www.rsport.co.il/products/gs-curr-as): ‏גופיית משחק סטף קרי גולדן סטייט במהדורת All-Star בעיצוב איכותי, נוח וספורטיבי להרגשה חלק מהמגרש
-  Updated: 2025-09-30T22:18:13Z
+  Updated: 2025-10-01T10:24:42Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10154,7 +10154,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק כחולה גולדן סטייט ילדים](https://www.rsport.co.il/products/gs-blu-kids): ‏גופיית משחק כחולה גולדן סטייט לילדים בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:19:10Z
+  Updated: 2025-10-01T10:19:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10175,7 +10175,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק לבנה גולדן סטייט ילדים](https://www.rsport.co.il/products/gs-wht-kids): ‏גופיית משחק לבנה גולדן סטייט לילדים בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:20:16Z
+  Updated: 2025-10-01T10:20:23Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11948,7 +11948,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-harden): ‏גופיית משחק יוסטון רוקטס עם גיימס הארדן בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:30:06Z
+  Updated: 2025-10-01T10:30:11Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11972,7 +11972,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק אדומה יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-red-harden): ‏גופיית משחק אדומה יוסטון רוקטס עם גיימס הארדן בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:31:18Z
+  Updated: 2025-10-01T10:34:37Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11996,7 +11996,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק מהדורת זהב יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-gold-harden): ‏גופיית משחק יוסטון רוקטס מהדורת זהב עם גיימס הארדן בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל יומיומי
-  Updated: 2025-09-30T22:28:18Z
+  Updated: 2025-10-01T18:20:09Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12020,7 +12020,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק יוסטון רוקטס גיילן גרין](https://www.rsport.co.il/products/hou-green): ‏גופיית משחק יוסטון רוקטס עם גיילן גרין בצבע ירוק בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:28:18Z
+  Updated: 2025-10-01T18:18:56Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12044,7 +12044,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית משחק שחורה יוסטון רוקטס גיילן גרין](https://www.rsport.co.il/products/hou-blk-green): ‏גופיית משחק שחורה יוסטון רוקטס עם גיילן גרין בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
-  Updated: 2025-09-30T22:28:18Z
+  Updated: 2025-10-01T18:17:38Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12068,7 +12068,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [‏גופיית רטרו 1996/97 יוסטון רוקטס האקים אולאגואן](https://www.rsport.co.il/products/hou-retro-9697): ‏גופיית רטרו 1996/97 יוסטון רוקטס עם האקים אולאגואן בעיצוב נוסטלגי ואיכותי, בהשראת עונת ה־NBA לסטייל
-  Updated: 2025-09-30T22:28:18Z
+  Updated: 2025-10-01T18:15:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12764,7 +12764,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית משחק שחורה מילווקי באקס | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:38Z
+  Updated: 2025-10-01T06:59:53Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13726,626 +13726,626 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-just-don-טורונטו-ראפטורס?variant=46908620636410)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית משחק יוטה ג'אז' | ג'ורדן קלארקסון](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:17Z
+- [‏גופיית משחק יוטה גאז גורדן קלארקסון](https://www.rsport.co.il/products/uta-clarkson): ‏גופיית משחק יוטה גאז עם גורדן קלארקסון בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:24:00Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/Screenshot2024-04-15131441_540x_7010b25e-848d-410e-8a26-5f1dd613d238.webp?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון?variant=46908631220474)
+  - [S](https://www.rsport.co.il/products/uta-clarkson?variant=46908631220474)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון?variant=46908631253242)
+  - [M](https://www.rsport.co.il/products/uta-clarkson?variant=46908631253242)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון?variant=46908631286010)
+  - [L](https://www.rsport.co.il/products/uta-clarkson?variant=46908631286010)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון?variant=46908631318778)
+  - [XL](https://www.rsport.co.il/products/uta-clarkson?variant=46908631318778)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון?variant=46908631351546)
+  - [2XL](https://www.rsport.co.il/products/uta-clarkson?variant=46908631351546)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון?variant=46908631384314)
+  - [3XL](https://www.rsport.co.il/products/uta-clarkson?variant=46908631384314)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוטה ג'אז' ג'ורדן קלארקסון City edition](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-23T12:03:35Z
+- [‏גופיית משחק יוטה גאז גורדן קלארקסון City Edition](https://www.rsport.co.il/products/uta-ce-clarkson): ‏גופיית משחק יוטה גאז עם גורדן קלארקסון במהדורת City Edition בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל יומיומי
+  Updated: 2025-10-01T22:22:25Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/Screenshot2024-04-15131608_540x_3576bc5e-9b7d-4a56-bf0e-0b1c6d80d175.webp?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition?variant=46908634038522)
+  - [S](https://www.rsport.co.il/products/uta-ce-clarkson?variant=46908634038522)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition?variant=46908634071290)
+  - [M](https://www.rsport.co.il/products/uta-ce-clarkson?variant=46908634071290)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition?variant=46908634104058)
+  - [L](https://www.rsport.co.il/products/uta-ce-clarkson?variant=46908634104058)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition?variant=46908634136826)
+  - [XL](https://www.rsport.co.il/products/uta-ce-clarkson?variant=46908634136826)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition?variant=46908634169594)
+  - [2XL](https://www.rsport.co.il/products/uta-ce-clarkson?variant=46908634169594)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-גורדן-קלארקסון-city-edition?variant=46908634202362)
+  - [3XL](https://www.rsport.co.il/products/uta-ce-clarkson?variant=46908634202362)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוטה ג'אז' | לאורי מארקנן](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:16Z
+- [‏גופיית משחק יוטה גאז לאורי מארקנן](https://www.rsport.co.il/products/uta-markkanen): ‏גופיית משחק יוטה גאז עם לאורי מארקנן בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:21:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/Screenshot2024-04-15131253_540x_3d646469-3632-4122-9ef6-0de5c67a606b.webp?v=1738543765
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן?variant=46908635087098)
+  - [S](https://www.rsport.co.il/products/uta-markkanen?variant=46908635087098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן?variant=46908635119866)
+  - [M](https://www.rsport.co.il/products/uta-markkanen?variant=46908635119866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן?variant=46908635152634)
+  - [L](https://www.rsport.co.il/products/uta-markkanen?variant=46908635152634)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן?variant=46908635185402)
+  - [XL](https://www.rsport.co.il/products/uta-markkanen?variant=46908635185402)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן?variant=46908635218170)
+  - [2XL](https://www.rsport.co.il/products/uta-markkanen?variant=46908635218170)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-לאורי-מארקנן?variant=46908635250938)
+  - [3XL](https://www.rsport.co.il/products/uta-markkanen?variant=46908635250938)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוטה ג'אז' | קולין סקסטון](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-17T01:33:27Z
+- [‏גופיית משחק יוטה גאז קולין סקסטון](https://www.rsport.co.il/products/uta-sexton): ‏גופיית משחק יוטה גאז עם קולין סקסטון בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:20:30Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_963e5af0-2f1e-46b5-be4a-cdb981d5dc5f.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון?variant=46908644819194)
+  - [S](https://www.rsport.co.il/products/uta-sexton?variant=46908644819194)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון?variant=46908644851962)
+  - [M](https://www.rsport.co.il/products/uta-sexton?variant=46908644851962)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון?variant=46908644884730)
+  - [L](https://www.rsport.co.il/products/uta-sexton?variant=46908644884730)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון?variant=46908644917498)
+  - [XL](https://www.rsport.co.il/products/uta-sexton?variant=46908644917498)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון?variant=46908644950266)
+  - [2XL](https://www.rsport.co.il/products/uta-sexton?variant=46908644950266)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-קולין-סקסטון?variant=46908644983034)
+  - [3XL](https://www.rsport.co.il/products/uta-sexton?variant=46908644983034)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק לבנה יוטה ג'אז' | קולין סקסטון](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:15Z
+- [‏גופיית משחק לבנה יוטה גאז קולין סקסטון](https://www.rsport.co.il/products/uta-wht-sexton): ‏גופיית משחק לבנה יוטה גאז עם קולין סקסטון בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:19:22Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_c5a32c68-8212-458e-bbe9-58bdb2f1bfa7.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון?variant=46908645933306)
+  - [S](https://www.rsport.co.il/products/uta-wht-sexton?variant=46908645933306)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון?variant=46908645966074)
+  - [M](https://www.rsport.co.il/products/uta-wht-sexton?variant=46908645966074)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון?variant=46908645998842)
+  - [L](https://www.rsport.co.il/products/uta-wht-sexton?variant=46908645998842)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון?variant=46908646031610)
+  - [XL](https://www.rsport.co.il/products/uta-wht-sexton?variant=46908646031610)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון?variant=46908646064378)
+  - [2XL](https://www.rsport.co.il/products/uta-wht-sexton?variant=46908646064378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-יוטה-גאז-קולין-סקסטון?variant=46908646097146)
+  - [3XL](https://www.rsport.co.il/products/uta-wht-sexton?variant=46908646097146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק יוטה ג'אז' | דונובן מיצ'ל](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:15Z
+- [‏גופיית משחק יוטה גאז דונובן מיצל](https://www.rsport.co.il/products/uta-mitchell): ‏גופיית משחק יוטה גאז עם דונובן מיצל בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:18:06Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_7d6c2fa8-c39e-4dbf-93a4-ba06062b22b6.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל?variant=46908648521978)
+  - [S](https://www.rsport.co.il/products/uta-mitchell?variant=46908648521978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל?variant=46908648554746)
+  - [M](https://www.rsport.co.il/products/uta-mitchell?variant=46908648554746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל?variant=46908648587514)
+  - [L](https://www.rsport.co.il/products/uta-mitchell?variant=46908648587514)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל?variant=46908648620282)
+  - [XL](https://www.rsport.co.il/products/uta-mitchell?variant=46908648620282)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל?variant=46908648653050)
+  - [2XL](https://www.rsport.co.il/products/uta-mitchell?variant=46908648653050)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-יוטה-גאז-דונובן-מיצל?variant=46908648685818)
+  - [3XL](https://www.rsport.co.il/products/uta-mitchell?variant=46908648685818)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק צהובה יוטה ג'אז' | דונובן מיצ'ל](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:14Z
+- [‏גופיית משחק צהובה יוטה גאז דונובן מיצל](https://www.rsport.co.il/products/uta-yel-mitchell): ‏גופיית משחק צהובה יוטה גאז עם דונובן מיצל בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:16:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_345f4a82-0f24-4047-b586-27372868ec58.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל?variant=46908650062074)
+  - [S](https://www.rsport.co.il/products/uta-yel-mitchell?variant=46908650062074)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל?variant=46908650094842)
+  - [M](https://www.rsport.co.il/products/uta-yel-mitchell?variant=46908650094842)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל?variant=46908650127610)
+  - [L](https://www.rsport.co.il/products/uta-yel-mitchell?variant=46908650127610)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל?variant=46908650160378)
+  - [XL](https://www.rsport.co.il/products/uta-yel-mitchell?variant=46908650160378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל?variant=46908650193146)
+  - [2XL](https://www.rsport.co.il/products/uta-yel-mitchell?variant=46908650193146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-יוטה-גאז-דונובן-מיצל?variant=46908650225914)
+  - [3XL](https://www.rsport.co.il/products/uta-yel-mitchell?variant=46908650225914)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק שחורה יוטה ג'אז' | דונובן מיצ'ל](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:14Z
+- [‏גופיית משחק שחורה יוטה גאז דונובן מיצל](https://www.rsport.co.il/products/uta-blk-mitchell): ‏גופיית משחק שחורה יוטה גאז עם דונובן מיצל בעיצוב איכותי ונוח, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T22:14:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_d944c73c-b663-4f8c-b372-b7d49a5bb71a.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל?variant=46908650717434)
+  - [S](https://www.rsport.co.il/products/uta-blk-mitchell?variant=46908650717434)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל?variant=46908650750202)
+  - [M](https://www.rsport.co.il/products/uta-blk-mitchell?variant=46908650750202)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל?variant=46908650782970)
+  - [L](https://www.rsport.co.il/products/uta-blk-mitchell?variant=46908650782970)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל?variant=46908650815738)
+  - [XL](https://www.rsport.co.il/products/uta-blk-mitchell?variant=46908650815738)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל?variant=46908650848506)
+  - [2XL](https://www.rsport.co.il/products/uta-blk-mitchell?variant=46908650848506)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-יוטה-גאז-דונובן-מיצל?variant=46908650881274)
+  - [3XL](https://www.rsport.co.il/products/uta-blk-mitchell?variant=46908650881274)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו שחורה יוטה ג'אז' | קארל מאלון](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:13Z
+- [גופיית רטרו שחורה יוטה ג'אז' | קארל מאלון](https://www.rsport.co.il/products/uta-retro-blk-malon): ‏גופיית רטרו שחורה יוטה גאז עם קארל מאלון בעיצוב איכותי ונוסטלגי, בהשראת עונת ה־NBA לסטייל יומיומי
+  Updated: 2025-10-01T22:13:44Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_d2890985-8384-4d5e-ae31-e1d1b7c3b233.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון?variant=46908652486906)
+  - [S](https://www.rsport.co.il/products/uta-retro-blk-malon?variant=46908652486906)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון?variant=46908652519674)
+  - [M](https://www.rsport.co.il/products/uta-retro-blk-malon?variant=46908652519674)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון?variant=46908652552442)
+  - [L](https://www.rsport.co.il/products/uta-retro-blk-malon?variant=46908652552442)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון?variant=46908652585210)
+  - [XL](https://www.rsport.co.il/products/uta-retro-blk-malon?variant=46908652585210)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון?variant=46908652617978)
+  - [2XL](https://www.rsport.co.il/products/uta-retro-blk-malon?variant=46908652617978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-קארל-מאלון?variant=46908652650746)
+  - [3XL](https://www.rsport.co.il/products/uta-retro-blk-malon?variant=46908652650746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו שחורה יוטה ג'אז' | ג'ון סטוקטון](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-23T19:28:42Z
+- [‏גופיית רטרו שחורה יוטה גאז גון סטוקטון](https://www.rsport.co.il/products/uta-retro-blk-stok): ‏גופיית רטרו שחורה יוטה גאז עם גון סטוקטון בעיצוב איכותי ונוסטלגי, בהשראת עונת ה־NBA לסטייל יומיומי
+  Updated: 2025-10-01T22:12:11Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_765fe6cf-c7c4-40e9-8f50-6acb10538fce.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון?variant=46908653469946)
+  - [S](https://www.rsport.co.il/products/uta-retro-blk-stok?variant=46908653469946)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון?variant=46908653502714)
+  - [M](https://www.rsport.co.il/products/uta-retro-blk-stok?variant=46908653502714)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון?variant=46908653535482)
+  - [L](https://www.rsport.co.il/products/uta-retro-blk-stok?variant=46908653535482)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון?variant=46908653568250)
+  - [XL](https://www.rsport.co.il/products/uta-retro-blk-stok?variant=46908653568250)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון?variant=46908653601018)
+  - [2XL](https://www.rsport.co.il/products/uta-retro-blk-stok?variant=46908653601018)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-יוטה-גאז-גון-סטוקטון?variant=46908653633786)
+  - [3XL](https://www.rsport.co.il/products/uta-retro-blk-stok?variant=46908653633786)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו לבנה יוטה ג'אז' | ג'ון סטוקטון](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:12Z
+- [‏גופיית רטרו לבנה יוטה גאז גון סטוקטון](https://www.rsport.co.il/products/uta-retro-wht-stok): ‏גופיית רטרו לבנה יוטה גאז עם גון סטוקטון בעיצוב איכותי ונוסטלגי, בהשראת עונת ה־NBA לסטייל יומיומי
+  Updated: 2025-10-01T22:11:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_323c9ae9-b197-4a20-b6d6-de69332db969.jpg?v=1738543796
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908654878970)
+  - [S](https://www.rsport.co.il/products/uta-retro-wht-stok?variant=46908654878970)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908654911738)
+  - [M](https://www.rsport.co.il/products/uta-retro-wht-stok?variant=46908654911738)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908654944506)
+  - [L](https://www.rsport.co.il/products/uta-retro-wht-stok?variant=46908654944506)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908654977274)
+  - [XL](https://www.rsport.co.il/products/uta-retro-wht-stok?variant=46908654977274)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908655010042)
+  - [2XL](https://www.rsport.co.il/products/uta-retro-wht-stok?variant=46908655010042)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-יוטה-גאז-גון-סטוקטון?variant=46908655042810)
+  - [3XL](https://www.rsport.co.il/products/uta-retro-wht-stok?variant=46908655042810)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסיי JUST DON יוטה ג'אז'](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז): מכנסי יוטה ג'אז JUST DON מספקים חופש תנועה מירבי ונוחות יוצאת דופן, עשויים 100% פוליאסטר קל ונושם שמנדף זיעה ושומר על תחושת יובש לאורך כל הפעילות. רצועת המותן הסרוגה מבטיחה התאמה מדויקת ויציבות, והגזרה מותאמת למבוגרים ומאפשרת חופש פעולה מלא במהלך משחקים, אימונים או שימוש יומיומי. המכנסיים מתאפיינים בעיצוב מודרני ופונקציונלי, עם בד נושם שמספק אוורור יעיל ונוחות מקסימלית. פריט איכותי שמדגיש חופש תנועה, עמידות ונראות מקצועית, מתאים למי שמחפש מכנסיים שמספקים ביצועים גבוהים מבלי לפגוע במראה הכללי.
-  Updated: 2025-09-27T09:46:42Z
+- [‏מכנסי JUST DON יוטה גאז](https://www.rsport.co.il/products/uta-just-don): ‏מכנסי JUST DON יוטה גאז בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
+  Updated: 2025-10-01T10:10:05Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_0ed1cce9-daca-4c0a-9a62-0e40a83b54a5.jpg?v=1738545192
-  - [S](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז?variant=46908659532026)
+  - [S](https://www.rsport.co.il/products/uta-just-don?variant=46908659532026)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז?variant=46908659564794)
+  - [M](https://www.rsport.co.il/products/uta-just-don?variant=46908659564794)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז?variant=46908659597562)
+  - [L](https://www.rsport.co.il/products/uta-just-don?variant=46908659597562)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז?variant=46908659630330)
+  - [XL](https://www.rsport.co.il/products/uta-just-don?variant=46908659630330)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז?variant=46908659663098)
+  - [2XL](https://www.rsport.co.il/products/uta-just-don?variant=46908659663098)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסיי-just-don-יוטה-גאז?variant=46908659695866)
+  - [3XL](https://www.rsport.co.il/products/uta-just-don?variant=46908659695866)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית משחק דנבר נאגטס | ניקולה יוקיץ'](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:11Z
+- [‏גופיית משחק ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-yokic): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ, איכותית ונוחה, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:30:17Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_ea14f821-727b-4beb-9c5e-973ea1ab35a5.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908769566970)
+  - [S](https://www.rsport.co.il/products/den-yokic?variant=46908769566970)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908769599738)
+  - [M](https://www.rsport.co.il/products/den-yokic?variant=46908769599738)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908769632506)
+  - [L](https://www.rsport.co.il/products/den-yokic?variant=46908769632506)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908769665274)
+  - [XL](https://www.rsport.co.il/products/den-yokic?variant=46908769665274)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908769698042)
+  - [2XL](https://www.rsport.co.il/products/den-yokic?variant=46908769698042)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908769730810)
+  - [3XL](https://www.rsport.co.il/products/den-yokic?variant=46908769730810)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק שחורה דנבר נאגטס | ניקולה יוקיץ'](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:11Z
+- [‏גופיית משחק שחורה ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-blk-yokic): ‏גופיית משחק שחורה דנבר נאגטס עם ניקולה יוקיץ, איכותית ונוחה, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:27:58Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_42c15d70-5758-458b-82bf-650342401235.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908771336442)
+  - [S](https://www.rsport.co.il/products/den-blk-yokic?variant=46908771336442)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908771369210)
+  - [M](https://www.rsport.co.il/products/den-blk-yokic?variant=46908771369210)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908771401978)
+  - [L](https://www.rsport.co.il/products/den-blk-yokic?variant=46908771401978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908771434746)
+  - [XL](https://www.rsport.co.il/products/den-blk-yokic?variant=46908771434746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908771467514)
+  - [2XL](https://www.rsport.co.il/products/den-blk-yokic?variant=46908771467514)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908771500282)
+  - [3XL](https://www.rsport.co.il/products/den-blk-yokic?variant=46908771500282)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק כחולה דנבר נאגטס | ניקולה יוקיץ'](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:11Z
+- [‏גופיית משחק כחולה ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-blu-yokic): ‏גופיית משחק כחולה דנבר נאגטס עם ניקולה יוקיץ, איכותית ונוחה, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:26:05Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_b1002f17-eee4-4413-8e62-b12de01728d5.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908773990650)
+  - [S](https://www.rsport.co.il/products/den-blu-yokic?variant=46908773990650)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908774023418)
+  - [M](https://www.rsport.co.il/products/den-blu-yokic?variant=46908774023418)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908774056186)
+  - [L](https://www.rsport.co.il/products/den-blu-yokic?variant=46908774056186)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908774088954)
+  - [XL](https://www.rsport.co.il/products/den-blu-yokic?variant=46908774088954)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908774121722)
+  - [2XL](https://www.rsport.co.il/products/den-blu-yokic?variant=46908774121722)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908774154490)
+  - [3XL](https://www.rsport.co.il/products/den-blu-yokic?variant=46908774154490)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק 2018/19 דנבר נאגטס | ניקולה יוקיץ'](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:10Z
+- [גופיית משחק 2018/19 דנבר נאגטס | ניקולה יוקיץ'](https://www.rsport.co.il/products/den-1819-yokic): גופיית כדורסל של ניקולה יוקיץ' בעונת 2018/19 מציגה את סגנון דנבר נאגטס בצורה קלאסית ומדויקת. הבד עשוי 100% פוליאסטר קל ונושם לנוחות מלאה בזמן משחק או אימון, והגזרה הרגילה מאפשרת תנועה חופשית לכל כיוון. המספר ושם השחקן מודפסים באיכות גבוהה ומשלימים את המראה האותנטי של הגופייה. מתאימה לאוהדים שרוצים ללבוש את הצבעים בגאווה וגם לשימוש יום יומי.
+  Updated: 2025-10-01T23:21:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_031158bd-202f-420e-80dd-c2c0d5f1df1d.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908776644858)
+  - [S](https://www.rsport.co.il/products/den-1819-yokic?variant=46908776644858)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908776677626)
+  - [M](https://www.rsport.co.il/products/den-1819-yokic?variant=46908776677626)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908776710394)
+  - [L](https://www.rsport.co.il/products/den-1819-yokic?variant=46908776710394)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908776743162)
+  - [XL](https://www.rsport.co.il/products/den-1819-yokic?variant=46908776743162)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908776775930)
+  - [2XL](https://www.rsport.co.il/products/den-1819-yokic?variant=46908776775930)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-2018-19-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908776808698)
+  - [3XL](https://www.rsport.co.il/products/den-1819-yokic?variant=46908776808698)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק לבנה דנבר נאגטס | ניקולה יוקיץ'](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:10Z
+- [‏גופיית משחק 2018/19 ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-wht-yokic): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ עונת 2018/19, איכותית ונוחה, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:13:34Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_e4adfb5a-90ae-4603-8be0-09a87418778b.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908781330682)
+  - [S](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781330682)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908781363450)
+  - [M](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781363450)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908781396218)
+  - [L](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781396218)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908781428986)
+  - [XL](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781428986)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908781461754)
+  - [2XL](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781461754)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דנבר-נאגטס-ניקולה-יוקיץ?variant=46908781494522)
+  - [3XL](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781494522)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק ALL STAR  ניקולה יוקיץ'](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:08Z
+- [‏גופיית משחק All-Star ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-yokic-allstar): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star, נוחה ואיכותית, לסטייל NBA
+  Updated: 2025-10-01T23:10:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_c7d3b75f-b133-4c2f-805e-4c15a49679b7.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ?variant=46908782772474)
+  - [S](https://www.rsport.co.il/products/den-yokic-allstar?variant=46908782772474)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ?variant=46908782805242)
+  - [M](https://www.rsport.co.il/products/den-yokic-allstar?variant=46908782805242)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ?variant=46908782838010)
+  - [L](https://www.rsport.co.il/products/den-yokic-allstar?variant=46908782838010)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ?variant=46908782870778)
+  - [XL](https://www.rsport.co.il/products/den-yokic-allstar?variant=46908782870778)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ?variant=46908782903546)
+  - [2XL](https://www.rsport.co.il/products/den-yokic-allstar?variant=46908782903546)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-ניקולה-יוקיץ?variant=46908782936314)
+  - [3XL](https://www.rsport.co.il/products/den-yokic-allstar?variant=46908782936314)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו דנבר נאגטס 2006/07 | כרמלו אנתוני](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:08Z
+- [‏גופיית רטרו כרמלו אנטוני 2006/07 דנבר נאגטס](https://www.rsport.co.il/products/den-retro-0607-anthony): ‏גופיית רטרו דנבר נאגטס עם כרמלו אנטוני 2006/07, איכותית ונוסטלגית, לסטייל NBA
+  Updated: 2025-10-01T23:59:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/24_412c70d1-0fa8-464f-b930-d9f6529b9d5e.jpg?v=1738543796
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני?variant=46908791718138)
+  - [S](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791718138)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני?variant=46908791750906)
+  - [M](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791750906)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני?variant=46908791783674)
+  - [L](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791783674)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני?variant=46908791816442)
+  - [XL](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791816442)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני?variant=46908791849210)
+  - [2XL](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791849210)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-כרמלו-אנתוני?variant=46908791881978)
+  - [3XL](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791881978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו דנבר נאגטס  2003/04 | כרמלו אנתוני](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:07Z
+- [‏גופיית רטרו דנבר נאגטס עם כרמלו אנטוני 2003/04, איכותית ונוסטלגית, לסטייל NBA](https://www.rsport.co.il/products/den-retro-0304-anthony): ‏גופיית רטרו כרמלו אנטוני 2003/04 דנבר נאגטס
+  Updated: 2025-10-01T23:08:50Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_d355a826-4db3-4733-b315-45d3f033b81f.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני?variant=46908794503418)
+  - [S](https://www.rsport.co.il/products/den-retro-0304-anthony?variant=46908794503418)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני?variant=46908794536186)
+  - [M](https://www.rsport.co.il/products/den-retro-0304-anthony?variant=46908794536186)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני?variant=46908794568954)
+  - [L](https://www.rsport.co.il/products/den-retro-0304-anthony?variant=46908794568954)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני?variant=46908794601722)
+  - [XL](https://www.rsport.co.il/products/den-retro-0304-anthony?variant=46908794601722)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני?variant=46908794634490)
+  - [2XL](https://www.rsport.co.il/products/den-retro-0304-anthony?variant=46908794634490)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2003-04-כרמלו-אנתוני?variant=46908794667258)
+  - [3XL](https://www.rsport.co.il/products/den-retro-0304-anthony?variant=46908794667258)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו כחולה 2006/07 | כרמלו אנתוני](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-22T23:54:04Z
+- [‏גופיית רטרו כחולה כרמלו אנטוני 2006/07 דנבר נאגטס](https://www.rsport.co.il/products/den-retro-blu-0607-anthony): ‏גופיית רטרו כחולה דנבר נאגטס עם כרמלו אנטוני 2006/07, איכותית ונוסטלגית, לסטייל NBA
+  Updated: 2025-10-01T23:07:59Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_78ea481f-9a30-4721-a5b0-919366f24707.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני?variant=46908796698874)
+  - [S](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796698874)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני?variant=46908796731642)
+  - [M](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796731642)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני?variant=46908796764410)
+  - [L](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796764410)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני?variant=46908796797178)
+  - [XL](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796797178)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני?variant=46908796829946)
+  - [2XL](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796829946)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-2006-07-כרמלו-אנתוני?variant=46908796862714)
+  - [3XL](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796862714)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק ניקולה יוקיץ' ALL STAR](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-12T08:26:05Z
+- [‏גופיית משחק All-Star ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-yokic-as): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star בעיצוב איכותי, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:04:01Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/26_f67d07a8-2254-4588-b7e3-3caef58c6806.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star?variant=46908800303354)
+  - [S](https://www.rsport.co.il/products/den-yokic-as?variant=46908800303354)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star?variant=46908800336122)
+  - [M](https://www.rsport.co.il/products/den-yokic-as?variant=46908800336122)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star?variant=46908800368890)
+  - [L](https://www.rsport.co.il/products/den-yokic-as?variant=46908800368890)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star?variant=46908800401658)
+  - [XL](https://www.rsport.co.il/products/den-yokic-as?variant=46908800401658)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star?variant=46908800434426)
+  - [2XL](https://www.rsport.co.il/products/den-yokic-as?variant=46908800434426)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ניקולה-יוקיץ-all-star?variant=46908800467194)
+  - [3XL](https://www.rsport.co.il/products/den-yokic-as?variant=46908800467194)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו דנבר נאגטס 2006/07 | אלן אייברסון](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:06Z
+- [‏גופיית רטרו אלן אייברסון 2006/07 דנבר נאגטס](https://www.rsport.co.il/products/den-retro-0607-iverson): ‏גופיית רטרו דנבר נאגטס עם אלן אייברסון 2006/07, נוחה ואיכותית, לסטייל NBA נוסטלגי
+  Updated: 2025-10-01T23:02:53Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/22_1164e554-b844-4264-be8e-e0d1e760bb3f.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון?variant=46908801581306)
+  - [S](https://www.rsport.co.il/products/den-retro-0607-iverson?variant=46908801581306)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון?variant=46908801614074)
+  - [M](https://www.rsport.co.il/products/den-retro-0607-iverson?variant=46908801614074)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון?variant=46908801646842)
+  - [L](https://www.rsport.co.il/products/den-retro-0607-iverson?variant=46908801646842)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון?variant=46908801679610)
+  - [XL](https://www.rsport.co.il/products/den-retro-0607-iverson?variant=46908801679610)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון?variant=46908801712378)
+  - [2XL](https://www.rsport.co.il/products/den-retro-0607-iverson?variant=46908801712378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-דנבר-נאגטס-2006-07-אלן-אייברסון?variant=46908801745146)
+  - [3XL](https://www.rsport.co.il/products/den-retro-0607-iverson?variant=46908801745146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק דנבר נאגטס | ארון גורדון](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:13:06Z
+- [‏גופיית משחק ארון גורדון דנבר נאגטס](https://www.rsport.co.il/products/den-gordon): ‏גופיית משחק דנבר נאגטס עם ארון גורדון בעיצוב איכותי ונוח, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:01:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/27_2cdd8e70-0419-4e56-9812-e656ab92b887.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון?variant=46908808167674)
+  - [S](https://www.rsport.co.il/products/den-gordon?variant=46908808167674)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון?variant=46908808200442)
+  - [M](https://www.rsport.co.il/products/den-gordon?variant=46908808200442)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון?variant=46908808233210)
+  - [L](https://www.rsport.co.il/products/den-gordon?variant=46908808233210)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון?variant=46908808265978)
+  - [XL](https://www.rsport.co.il/products/den-gordon?variant=46908808265978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון?variant=46908808298746)
+  - [2XL](https://www.rsport.co.il/products/den-gordon?variant=46908808298746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-דנבר-נאגטס-ארון-גורדון?variant=46908808331514)
+  - [3XL](https://www.rsport.co.il/products/den-gordon?variant=46908808331514)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסי משחק דנבר נאגטס | אדום](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-אדום): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:05Z
+- [‏מכנסי משחק אדומים דנבר נאגטס](https://www.rsport.co.il/products/den-red-shorts): ‏מכנסי משחק אדומים דנבר נאגטס נוחים ואיכותיים, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T23:31:17Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_72aff5a6-4c1e-4b41-90ee-e4d6df77d283.jpg?v=1738545148
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-אדום?variant=46908810821882)
+  - [S](https://www.rsport.co.il/products/den-red-shorts?variant=46908810821882)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-אדום?variant=46908810854650)
+  - [M](https://www.rsport.co.il/products/den-red-shorts?variant=46908810854650)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-אדום?variant=46908810887418)
+  - [L](https://www.rsport.co.il/products/den-red-shorts?variant=46908810887418)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-אדום?variant=46908810920186)
+  - [XL](https://www.rsport.co.il/products/den-red-shorts?variant=46908810920186)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-אדום?variant=46908810952954)
+  - [2XL](https://www.rsport.co.il/products/den-red-shorts?variant=46908810952954)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק דנבר נאגטס | שחור](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:05Z
+- [‏מכנסי משחק שחורים דנבר נאגטס](https://www.rsport.co.il/products/den-blk-shorts): ‏מכנסי משחק שחורים דנבר נאגטס נוחים ואיכותיים, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T22:36:57Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_051dba0b-34f1-4c85-9dcd-02d22ce93799.jpg?v=1738545150
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור?variant=46908814229754)
+  - [S](https://www.rsport.co.il/products/den-blk-shorts?variant=46908814229754)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור?variant=46908814262522)
+  - [M](https://www.rsport.co.il/products/den-blk-shorts?variant=46908814262522)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור?variant=46908814295290)
+  - [L](https://www.rsport.co.il/products/den-blk-shorts?variant=46908814295290)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור?variant=46908814328058)
+  - [XL](https://www.rsport.co.il/products/den-blk-shorts?variant=46908814328058)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-דנבר-נאגטס-שחור?variant=46908814360826)
+  - [2XL](https://www.rsport.co.il/products/den-blk-shorts?variant=46908814360826)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [JUST DON דנבר נאגטס | מכנסי סטייל רחוב](https://www.rsport.co.il/products/pants-just-don-denver-nuggets): מכנסי דנבר נאגטס JUST DON מספקים חופש תנועה מלא ונוחות מירבית, עשויים 100% פוליאסטר קל ונושם שמנדף זיעה ושומר על תחושת יובש לאורך כל הפעילות. רצועת המותן הסרוגה מבטיחה התאמה מדויקת ויציבות, והגזרה מותאמת למבוגרים כך שמאפשרת חופש פעולה מלא בכל סוגי הפעילויות – משחק, אימון או יום יום. המכנסיים מתאפיינים בעיצוב פונקציונלי ומודרני שמתאים לשימוש יומיומי ולאימונים, עם בד נושם שמספק אוורור יעיל ונוחות מקסימלית במהלך פעילות ממושכת. פריט איכותי שמדגיש חופש תנועה, עמידות ונראות מקצועית, מתאים למי שמחפש מכנסיים שמספקים ביצועים גבוהים מבלי לפגוע במראה הכללי.
-  Updated: 2025-09-27T09:14:10Z
+- [JUST DON דנבר נאגטס | מכנסי סטייל רחוב](https://www.rsport.co.il/products/pants-just-don-denver-nuggets): ‏מכנסי JUST DON דנבר נאגטס בעיצוב איכותי ונוח, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-01T10:34:03Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -22459,46 +22459,46 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-אינטר-מיאמי-חוץ-2025?variant=47158652764410)
     Availability: Available
     Price: ‏122.00 ‏₪ ILS
-- [חולצת טי שירט לבנה שיקגו בולס](https://www.rsport.co.il/products/חולצת-טי-שירט-לבנה-שיקגו-בולס): הגופייה הזו מאפשרת לך לעודד את ה-Bulls עם לוגו Jumpman האיקוני, המשתלב בצורה מושלמת עם צבעי הקבוצה האהובה עליך, בעיצוב שמתאים ללבישה יומיומית הטכנולוגיה המתקדמת מסייעת בהעברת הזיעה מהעור שלך לאידוי מהיר יותר, מה שעוזר לך להישאר יבש ונוח הבד הסרוג מרגיש רך וקליל, ומעניק לך מגע עדין במיוחד לנוחות מירבית בשימוש יומיומי. גזרה סטנדרטית מספקת התאמה נוחה ורפויה.
-  Updated: 2025-09-27T21:26:21Z
+- [חולצת טי לבנה שיקגו בולס](https://www.rsport.co.il/products/chb-wh-tee): חולצת טי לבנה Chicago Bulls בעיצוב נקי ונוח, מתאימה למשחק או יום יום
+  Updated: 2025-10-01T17:40:20Z
   Vendor: R:Sport
   Product Type: חולצת טי שירט
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/vlt-i-shir-lbnh-shikgv-bvls-636664.jpg?v=1743310385
-  - [S](https://www.rsport.co.il/products/חולצת-טי-שירט-לבנה-שיקגו-בולס?variant=47169096188154)
+  - [S](https://www.rsport.co.il/products/chb-wh-tee?variant=47169096188154)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-טי-שירט-לבנה-שיקגו-בולס?variant=47169096220922)
+  - [M](https://www.rsport.co.il/products/chb-wh-tee?variant=47169096220922)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-טי-שירט-לבנה-שיקגו-בולס?variant=47169096253690)
+  - [L](https://www.rsport.co.il/products/chb-wh-tee?variant=47169096253690)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-טי-שירט-לבנה-שיקגו-בולס?variant=47169096286458)
+  - [XL](https://www.rsport.co.il/products/chb-wh-tee?variant=47169096286458)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/חולצת-טי-שירט-לבנה-שיקגו-בולס?variant=47169096319226)
+  - [2XL](https://www.rsport.co.il/products/chb-wh-tee?variant=47169096319226)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-- [חולצת טי שירט שחורה שיקגו בולס](https://www.rsport.co.il/products/חולצת-טי-שירט-שחורה-שיקגו-בולס): חולצת טי-שירט שחורה לגברים בעיצוב קלאסי עם צווארון עגול. החולצה עשויה מבד טכנולוגי ונושם, המנדף זיעה ומספק תחושת נוחות לאורך זמן בחזית החולצה מודפסים שמות הקבוצה "BULLS" ו-"BASKETBALL" בצבע אדום בולט, בנוסף לסמל הליגה, החולצה מתאימה לפעילות ספורטיבית וללבוש יומיומי.
-  Updated: 2025-09-27T21:26:21Z
+- [חולצת טי שחורה שיקגו בולס](https://www.rsport.co.il/products/chb-blk-tee): חולצת טי שחורה Chicago Bulls בעיצוב קלאסי ונוח, מושלמת ליום יום ולאוהדים
+  Updated: 2025-10-01T17:40:20Z
   Vendor: R:Sport
   Product Type: חולצת טי שירט
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/vlt-i-shir-shvrh-shikgv-bvls-388436.jpg?v=1743310375
-  - [S](https://www.rsport.co.il/products/חולצת-טי-שירט-שחורה-שיקגו-בולס?variant=47169126564090)
+  - [S](https://www.rsport.co.il/products/chb-blk-tee?variant=47169126564090)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-טי-שירט-שחורה-שיקגו-בולס?variant=47169126596858)
+  - [M](https://www.rsport.co.il/products/chb-blk-tee?variant=47169126596858)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-טי-שירט-שחורה-שיקגו-בולס?variant=47169126629626)
+  - [L](https://www.rsport.co.il/products/chb-blk-tee?variant=47169126629626)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-טי-שירט-שחורה-שיקגו-בולס?variant=47169126662394)
+  - [XL](https://www.rsport.co.il/products/chb-blk-tee?variant=47169126662394)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/חולצת-טי-שירט-שחורה-שיקגו-בולס?variant=47169126695162)
+  - [2XL](https://www.rsport.co.il/products/chb-blk-tee?variant=47169126695162)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת נבחרת אורוגוואי בית 2024](https://www.rsport.co.il/products/חולצת-נבחרת-אורוגוואי-בית-2024): חולצת נבחרת אורוגוואי בית 2024, שרוול קצר, בצבע תכלת, עשויה מ-100% פוליאסטר לנוחות מרבית ואוורור אידיאלי במהלך פעילות ספורטיבית. עם גזרה רגילה ולוגו רקום, החולצה מתאימה לשימוש יומיומי ולמגוון סגנונות ספורטיביים, תוך שמירה על עיצוב אלגנטי ומורשת הכדורגל של אורוגוואי.
@@ -25379,7 +25379,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק פלמיירס בית 23/24 | גברים](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-23-24-גברים): חולצת משחק פלמיירס בית 23/24 בצבע ירוק קלאסי עם שרוולים קצרים וגזרה רגילה, עשויה 100% פוליאסטר קליל ונושם עם טכנולוגיית נידוף זיעה מתקדמת המבטיחה תחושת יובש ורעננות, מושלמת לאוהדים שרוצים לשלב נוחות, סטייל ותמיכה בקבוצה.
-  Updated: 2025-09-07T22:08:18Z
+  Updated: 2025-10-01T06:06:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -28661,7 +28661,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_d6bc4ce6-488a-4a41-be20-927ffea9bede.jpg?v=1748506449
   Price: ‏80.00 ‏₪ ILS
 - [צעיף קבוצת מנצ'סטר סיטי תכלת](https://www.rsport.co.il/products/צעיף-קבוצת-מנצסטר-סיטי-תכלת): צעיף קבוצת מנצ'סטר סיטי בצבע תכלת, איכותי ונעים למגע, מושלם להראות תמיכה נלהבת בעונה הקרובה.
-  Updated: 2025-09-07T22:06:54Z
+  Updated: 2025-10-01T06:02:53Z
   Vendor: R:SPORT
   Product Type: צעיף
   Availability: Available
@@ -36140,7 +36140,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת צרפת חוץ 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-אותנטית-גברים): תמוך בנבחרת ננשים של צרפת כשהן יוצאות לשווייץ עם המבט על תואר אליפות אירופה עם חולצת חוץ אותנטית בגזרה צמודה כמו שחקנים בצבעי שנהב בהיר, כחול בוהק ואדום עדין. עיצוב יוקרתי בהשראת שמפניה צרפתית עם סמל התרנגול הגאלי ודגל צרפת על השרוול. עשויה 100% פוליאסטר, בד נושם וקל משקל לנוחות מירבית ותחושת יובש לאורך כל המשחק. פריט מושלם לאוהדים ולשחקנים המעוניינים בשילוב של סטייל ונאמנות.
-  Updated: 2025-09-18T19:46:14Z
+  Updated: 2025-10-01T18:00:34Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -45959,7 +45959,7 @@
   Updated: 2025-09-27T11:19:20Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-09-30T21:31:16Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-09-24T19:15:59Z
@@ -46001,7 +46001,7 @@
   Updated: 2025-09-29T11:17:23Z
   Total Products: 68
 - [חולצות כדורגל ומוצרי ספורט של הליגה הספרדית](https://www.rsport.co.il/collections/ליגה-ספרדית): גלה את המבחר הגדול של חולצות כדורגל מהליגה הספרדית – ברצלונה, ריאל מדריד, אתלטיקו מדריד ועוד
-  Updated: 2025-09-30T13:09:50Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 144
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
   Updated: 2025-09-29T11:17:23Z
@@ -46016,7 +46016,7 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 70
 - [ליגה צרפתית](https://www.rsport.co.il/collections/ליגה-צרפתית)
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 114
 - [באיירן מינכן](https://www.rsport.co.il/collections/באיירן-מינכן): אחת הקבוצות הגדולות והאהובות באירופה, עם מסורת מנצחת וכדורגל מרגש. אם גם אתם חלק מצבא האוהדים של "הכוכב הדרומי" הגעתם למקום הנכון, כאן תמצאו מגוון רחב של חולצות כדורגל של באיירן מינכן, כולל דגמי בית, חוץ ושלישית מהעונות האחרונות, לצד חליפות ילדים, חולצות אימון ועוד פריטים מעוצבים באווירת המועדון, החולצות מתאימות לאימונים, למשחקים או כפריט אופנתי לחובבי הקבוצה.
   Updated: 2025-09-20T15:25:27Z
@@ -46076,7 +46076,7 @@
   Updated: 2025-09-18T19:46:23Z
   Total Products: 10
 - [חולצות אימון קצרות](https://www.rsport.co.il/collections/חולצות-אימון-קצרות)
-  Updated: 2025-09-18T18:19:44Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 47
 - [הולנד](https://www.rsport.co.il/collections/הולנד): חולצות הכדורגל והאביזרים של נבחרת הולנד מבטאים את הרוח הייחודית של האורנג', עם הצבע הכתום הבוהק והמסורת העשירה. כל פריט משדר תשוקה, עוצמה וגאווה לאומית, ומאפשר לך להתחבר לאחת הנבחרות המשפיעות והאהובות בעולם הכדורגל. בין אם ביציע, ברחוב או במשחק עם חברים חולצת נבחרת הולנד תבליט את התמיכה שלך בצורה בלתי נשכחת.
   Updated: 2025-09-18T19:46:22Z
@@ -46319,7 +46319,7 @@
   Updated: 2025-09-18T17:19:05Z
   Total Products: 3
 - [ויאריאל](https://www.rsport.co.il/collections/ויאריאל)
-  Updated: 2025-09-27T21:50:56Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 6
 - [ריאל בטיס](https://www.rsport.co.il/collections/ריאל-בטיס)
   Updated: 2025-09-18T17:19:08Z
@@ -46334,7 +46334,7 @@
   Updated: 2025-09-29T14:21:35Z
   Total Products: 44
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-09-30T13:09:50Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-09-30T23:03:22Z
@@ -46343,7 +46343,7 @@
   Updated: 2025-09-18T17:19:13Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-09-28T11:19:02Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 700
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-09-28T11:19:02Z
@@ -46400,7 +46400,7 @@
   Updated: 2025-09-18T17:19:29Z
   Total Products: 11
 - [אולימפיק ליון | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אולימפיק-ליון): הצטרפו לרוח של אולימפיק ליון רכשו עכשיו חולצות כדורגל, מכנסיים, חליפות אימון ועוד, בעיצובים מיוחדים לעונה החדשה. בואו ליהנות מאיכות גבוהה ונוחות מושלמת על המגרש ומחוצה לו. אל תפספסו הזמינו עכשיו ותראו לכולם מי הקבוצה שלכם
-  Updated: 2025-09-18T18:31:16Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 13
 - [לאנס](https://www.rsport.co.il/collections/לאנס)
   Updated: 2025-09-18T17:19:33Z
@@ -46427,13 +46427,13 @@
   Updated: 2025-09-19T11:16:57Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-09-30T13:09:50Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-09-19T11:16:57Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-09-30T13:09:50Z
+  Updated: 2025-10-01T11:19:41Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-09-18T17:18:47Z
