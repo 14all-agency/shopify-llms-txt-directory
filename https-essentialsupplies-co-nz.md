@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-02T00:00:37.417Z
+- Updated At: 2025-10-02T04:00:39.510Z
 
 ## Products
 
@@ -3803,7 +3803,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/wall-mount-bin-42l-bag-support-white-hidden-design-rubbish-bins-essential-supplies-952599.jpg?v=1719445916
   Price: $9.00 NZD
 - [Wall Mount Bin 42L Hidden Lid - White, Hidden Design](https://essentialsupplies.co.nz/products/wall-mount-bin-42l-hidden-lid-white-hidden-design-6)
-  Updated: 2025-05-29T22:34:10Z
+  Updated: 2025-10-02T03:47:32Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bins
   Availability: Available
@@ -4706,7 +4706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/bathroom-squeegee-silver-includes-hook-window-cleaning-essential-supplies-396242.jpg?v=1719444761
   Price: $23.00 NZD
 - [Round Bucket - Red, 9.6L Capacity - 1 Bucket](https://essentialsupplies.co.nz/products/round-bucket-red-9-6l-capacity-1): Round buckets made from food safe and BPA free plastic are ideal for a wide range of storage applications around the workplace or home. They are lightweight and stackable offering a great portable solution for every day use.
-  Updated: 2025-02-16T22:27:28Z
+  Updated: 2025-10-02T01:33:27Z
   Vendor: Mattews Packaging
   Product Type: Buckets
   Availability: Available
