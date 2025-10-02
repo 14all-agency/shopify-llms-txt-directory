@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-02T12:01:09.936Z
+- Updated At: 2025-10-02T16:01:08.644Z
 
 ## Products
 
@@ -215,13 +215,6 @@ Figura com aproximadamente 7 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-jasmine-do-filme-aladino-disney-621245316-princesas-disney-1178692694.webp?v=1752825981
   Price: 6,50 € EUR
-- [Alce fêmea](https://brincatoys.pt/products/alce-femea): O alce norte-americano é uma das maiores espécies da família dos veados. As fêmeas são gentis habitantes da floresta, preferindo o clima temperado ao subártico.A maior diferença na aparência física entre um alce macho e uma fêmea são os chifres. Os machos têm chifres grandes e extensos, enquanto as fêmeas não têm nenhum.Figura em borracha termop...
-  Updated: 2025-09-29T20:31:32Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alce-femea-438082923-0095866180805-brincatoys-1178692697.jpg?v=1752826088
-  Price: 9,00 € EUR
 - [Boneco PVC Toy Story - Alien para Colecionadores](https://brincatoys.pt/products/boneco-pvc-toy-story-alien): Boneco PVC Toy Story - Alien - reviva as aventuras intergalácticas! Ideal para fãs e colecionadores, com design autêntico.
   Updated: 2025-09-30T01:31:41Z
   Vendor: Toy Story
@@ -3392,7 +3385,7 @@ do sul da
 garanhão mustang pinto é um cavalo macho de origem espanhola com uma 
 pelagem manchada. Pinto refere-se às manchas brancas distintas deste 
 belo cavalo.
-  Updated: 2025-09-29T20:12:05Z
+  Updated: 2025-10-02T12:42:09Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -7392,7 +7385,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-de-batalha-pokemon-pikachu-mudkip-e-boltund-23267622-8436195004745-pokemon-1178694947.jpg?v=1752866782
   Price: 22,99 € EUR
 - [Figuras de batalha Pokémon: Chikorita  + Abra + Jolteon](https://brincatoys.pt/products/pokemon-figuras-de-batalha-4): Descubra as Figuras de batalha Pokémon de Chikorita, Abra e Jolteon. Perfeitas para coleção, batalhas e recreação do universo Pokémon.
-  Updated: 2025-09-29T17:50:58Z
+  Updated: 2025-10-02T13:56:10Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -8062,7 +8055,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-hello-kitty-3-x-48-pcs-855246621-brincatoys-1178695163.jpg?v=1752869899
   Price: 9,99 € EUR
 - [Puzzle Hospital](https://brincatoys.pt/products/puzzle-hospital): 3 Puzzles com cenas de um Hospital - o hospital por dentro e a ambulância. Cada puzzle de cartão tem 24 peças e ilustrações cheias de detalhes.Fazer puzzles é divertido e desafia as crianças a resolverem um puzzle de muitas peças. Excelentes para desenvolver a concentração, a motricidade fina e a observação de pormenor, de uma maneira divertida.  D
-  Updated: 2025-09-30T02:38:18Z
+  Updated: 2025-10-02T14:57:25Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -10210,7 +10203,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-ballet-wishes-230066023-0194735006601-barbie-signature-1178695813.jpg?v=1752882131
   Price: 59,99 € EUR
 - [Figuras Zak Storm Caramba](https://brincatoys.pt/products/figuras-zak-storm-caramba): Figura articulada da série Zak Storm vem com uma característica acessória do personagem e com uma moeda. Recrie incríveis aventuras, com todas as figuras da série Zak Storm. O jovem capitão preso nos triângulos das Bermudas deve lutar para voltar para casa. Dimensão: 4 x 1.5 x 8 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-09-29T17:10:16Z
+  Updated: 2025-10-02T13:24:56Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -12506,7 +12499,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/porta-bebe-36-cm-260015923-brincatoys-1178696850.jpg?v=1752900374
   Price: 19,99 € EUR
 - [Veículos Magnéticos - Veículos de Emergência](https://brincatoys.pt/products/veiculos-magneticos-veiculos-de-emergencia): Quatro divertidos veículos magnéticos para montar e misturar para que as crianças possam criar os seus próprios veículos. Os carros magnéticos de madeira podem ser misturados e combinados infinitamente para criar os veículos mais loucos. Este conjunto é composto por três carros e um helicóptero. As ilustrações dos brinquedos são desenhadas pela con
-  Updated: 2025-09-29T19:05:58Z
+  Updated: 2025-10-02T12:32:12Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -14193,13 +14186,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carteira-squishmallows-fifi-fluffy-232634323-squishville-1178697816.jpg?v=1752914885
   Price: 13,90 € EUR
-- [Carteira Squishmallows - Squish Fluffy](https://brincatoys.pt/products/carteira-squishmallows-squish-fluffy): A Carteira Squishmallows - Squish Fluffy é um acessório divertido e funcional que não vai querer deixar de fora da sua coleção. Feita com a mesma qualidade premium e atenção aos detalhes que os amados Squishmallows, esta carteira irá surpreendê-lo com a sua macieza inigualável e design adorável. Perfeita para guardar dinheiro, cartões e pequenos itens essenciais, a Carteira Squishmallows - Squish Fluffy também é um item de moda incrível. O seu design único e divertido irá certamente chamar a atenção e fazer destacar-se. Dimensão: 13,50 x 12 x 3 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-29T18:20:05Z
-  Vendor: Squishville
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carteira-squishmallows-squish-fluffy-234286823-squishville-1178697818.jpg?v=1752914891
-  Price: 13,90 € EUR
 - [Videojogo Sony PSP Ace Combat: Joint Assault](https://brincatoys.pt/products/videojogo-sony-psp-festa-na-selva): A maior saga de jogos de combate aéreo surge no sistema PSP com um arsenal de novos recursos inovadores! ACE COMBAT JOINT ASSAULT leva o poder do sistema PSP ao limite, com um modo online robusto, modo de campanha cooperativa, novo sistema estratégico de IA e muito mais!  Dimensão: 10,50 x 17,50 x 1,50 cm.Idade Recomendada: + de 12 anos.
   Updated: 2025-09-29T16:21:05Z
   Vendor: Brincatoys
@@ -14488,7 +14474,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
 - [Lego Minecraft 21252 O Depósito de Armas: Mundo de Minecraft](https://brincatoys.pt/products/lego-minecraft-21252-o-deposito-de-armas): Seja parte do universo pixelizado de Minecraft com o Lego Minecraft 21252 O Depósito de Armas. Descubra o Ferreiro, a Alex e suas aventuras emocionantes! 💣
-  Updated: 2025-09-29T22:49:42Z
+  Updated: 2025-10-02T13:12:10Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -16212,7 +16198,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-de-pano-fada-arco-iris-companheira-magica-60750724-brincatoys-1178699359.jpg?v=1752939977
   Price: 24,90 € EUR
 - [Boneca de Pano Fada Angelina - A Amiga Mágica Ideal](https://brincatoys.pt/products/boneca-de-pano-fada-angelina): A Fada Angelina é uma boneca de pano feita à mão com asas cintilantes e vestido macio, perfeita para presentear e inspirar sonhos. Ideal para brincar.
-  Updated: 2025-09-29T21:26:42Z
+  Updated: 2025-10-02T13:12:05Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -16779,7 +16765,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-maquilhagem-infantil-beauty-82301424-6943478012066-brincatoys-1178699884.jpg?v=1752789492
   Price: 22,99 € EUR
 - [Lego Minecraft 21260 - Jardim das Cerejeiras](https://brincatoys.pt/products/lego-minecraft-o-jardim-das-cerejeiras): Entre no mundo de Minecraft com o colorido e criativo Lego Minecraft 21260 - O Jardim das Cerejeiras. Ideal para fãs de todas as idades.
-  Updated: 2025-09-29T22:51:24Z
+  Updated: 2025-10-02T12:31:34Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -17906,7 +17892,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-princesa-disney-rapunzel-15-cm-magia-disney-772337924-0192995233799-princesas-disney-1178700721.jpg?v=1752960368
   Price: 29,99 € EUR
 - [Conjunto Princesa Disney Bela 15 cm: Fantasia Disney](https://brincatoys.pt/products/conjunto-princesa-disney-bela-15-cm): Entre no mundo mágico da Disney com o Conjunto Princesa Bela de 15 cm! Recrie cenas favoritas e invente novas aventuras com acessórios encantadores. 🌟
-  Updated: 2025-09-30T01:28:49Z
+  Updated: 2025-10-02T12:24:22Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -20272,7 +20258,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-25-cm-peluche-fofinho-522203725-brincatoys-1178692429.jpg?v=1752822621
   Price: 26,50 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-rosa-25-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-09-29T20:50:52Z
+  Updated: 2025-10-02T15:43:00Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -21260,8 +21246,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:53:02Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-09-30T11:49:59Z
-  Total Products: 244
+  Updated: 2025-10-02T12:34:19Z
+  Total Products: 243
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
   Total Products: 1
@@ -21272,16 +21258,16 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T11:22:29Z
   Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-02T09:42:43Z
-  Total Products: 244
+  Updated: 2025-10-02T12:30:25Z
+  Total Products: 243
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
-  Updated: 2025-09-30T03:17:57Z
-  Total Products: 64
+  Updated: 2025-10-02T12:30:25Z
+  Total Products: 63
 - [Bonecas de Pano](https://brincatoys.pt/collections/bonecas-de-pano)
   Updated: 2025-09-29T20:47:46Z
   Total Products: 25
 - [Mundo Animal](https://brincatoys.pt/collections/bonecos-pvc-mundo-animal)
-  Updated: 2025-09-30T11:35:46Z
+  Updated: 2025-10-02T12:41:57Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
   Updated: 2025-10-01T12:20:46Z
@@ -21302,7 +21288,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:46:15Z
   Total Products: 46
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-10-01T11:22:29Z
+  Updated: 2025-10-02T12:31:45Z
   Total Products: 202
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-10-01T12:17:17Z
@@ -21332,7 +21318,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:53:02Z
   Total Products: 323
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-02T12:41:57Z
   Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-02T11:22:50Z
@@ -21350,26 +21336,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T18:04:17Z
   Total Products: 126
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 1315
+  Updated: 2025-10-02T12:41:04Z
+  Total Products: 1312
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 2418
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 2414
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 2884
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 2880
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3269
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3265
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3402
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3398
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3481
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3477
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3530
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3526
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-02T11:22:50Z
   Total Products: 369
@@ -21410,8 +21396,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-02T21:29:27Z
   Total Products: 15
 - [Squishville](https://brincatoys.pt/collections/squishville)
-  Updated: 2025-09-20T18:50:41Z
-  Total Products: 20
+  Updated: 2025-10-02T12:15:56Z
+  Total Products: 19
 - [DC Comics](https://brincatoys.pt/collections/dc-comics)
   Updated: 2025-09-10T11:30:51Z
   Total Products: 55
@@ -21518,8 +21504,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-16T10:31:39Z
   Total Products: 14
 - [Playmobil](https://brincatoys.pt/collections/playmobil)
-  Updated: 2025-09-29T22:35:24Z
-  Total Products: 133
+  Updated: 2025-10-02T12:34:19Z
+  Total Products: 132
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
   Updated: 2025-10-02T11:22:50Z
   Total Products: 101
@@ -21560,8 +21546,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3563
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3559
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-02T09:43:12Z
   Total Products: 285
@@ -21572,8 +21558,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T20:40:30Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-01T12:20:46Z
-  Total Products: 1162
+  Updated: 2025-10-02T12:37:41Z
+  Total Products: 1160
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-02T11:22:50Z
   Total Products: 470
@@ -21596,11 +21582,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:21:03Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3563
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3559
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3563
+  Updated: 2025-10-02T13:12:45Z
+  Total Products: 3559
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
   Total Products: 24
@@ -21611,8 +21597,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3072
+  Updated: 2025-10-02T12:41:04Z
+  Total Products: 3071
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -21620,11 +21606,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:06:33Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-02T11:22:50Z
-  Total Products: 3072
+  Updated: 2025-10-02T12:41:04Z
+  Total Products: 3071
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-02T09:42:43Z
-  Total Products: 948
+  Updated: 2025-10-02T12:41:04Z
+  Total Products: 947
 
 ## Blogs
 
