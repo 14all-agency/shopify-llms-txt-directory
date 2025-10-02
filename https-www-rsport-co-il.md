@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-02T12:00:56.109Z
+- Updated At: 2025-10-02T16:00:59.223Z
 
 ## Products
 
@@ -1646,29 +1646,29 @@
     Availability: Available
     Price: ‏154.90 ‏₪ ILS
 - [חולצת ליברפול בית 2024/25](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25): הכירו את חולצת הבית של ליברפול 24/25. חולצה זו עשויה מחומרים איכותיים וכוללת את הלוגו האייקוני של ליברפול. הראה את תמיכתך בצוות ותיהנה מנוחות מעולה. זמין במגוון גדלים ומושלם עבור כל מעריץ, זהו פריט חובה לעונה הקרובה.
-  Updated: 2025-10-02T11:30:26Z
+  Updated: 2025-10-02T12:34:20Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/sda54dwq8947e-514e65wq4qweq9-54e16q54qew.jpg?v=1738566901
   - [S](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25?variant=46852617797882)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25?variant=46852617830650)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25?variant=46852617863418)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25?variant=46852617896186)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25?variant=46852617928954)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-ליברפול-בית-2024-25?variant=46852617961722)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
 - [חולצת ליברפול חוץ 2024/25](https://www.rsport.co.il/products/חולצת-ליברפול-חוץ-2024-25): הראה את תמיכתך בליברפול עם חולצת החוץ של העונה. עם סמל הליברבירד האייקוני וקו התיוג של העונה, הצג בגאווה את נאמנות הצוות שלך תוך כדי שמירה על קור רוח ונוח בדרכים.
   Updated: 2025-09-18T18:06:29Z
   Vendor: R:SPORT
@@ -3107,29 +3107,29 @@
     Availability: Available
     Price: ‏142.99 ‏₪ ILS
 - [חולצת כדורגל רומא בית 24/25](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25): חולצת בית רומא לעונת 2024/25, עשויה מ-100% פוליאסטר, היא בחירה אידיאלית לכל אוהד שמעוניין להציג את תמיכתו בקבוצה בצורה אופנתית ונוחה. עם עיצוב מודרני וצבעים המזוהים עם הקבוצה, חולצה זו משלבת בין אהבת הספורט לאלמנטים של אופנה, כך שתוכל ללבוש אותה בכל עת ובכל מקום.
-  Updated: 2025-10-02T11:30:34Z
+  Updated: 2025-10-02T13:33:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/27-20241113_025242_0026.png?v=1738567021
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25?variant=46853814812922)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25?variant=46853814845690)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25?variant=46853814878458)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25?variant=46853814911226)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25?variant=46853814943994)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-בית-24-25?variant=46853814976762)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
 - [חולצת כדורגל רומא חוץ 2024/25](https://www.rsport.co.il/products/חולצת-כדורגל-רומא-חוץ-2024-25): חולצת חוץ רומא 2024/25 עשויה מ-100% פוליאסטר, ומאפשרת לך להציג את תמיכתך בקבוצה עם עיצוב מודרני וסטייל ייחודי. החולצה לא רק נוחה ונושמת, אלא גם מבטאת את האהבה שלך לקבוצת הכדורגל האהובה עליך. אל תהסס להוסיף אותה לארון שלך ולהתפאר בצבעים ובסמל של רומא בכל משחק!
   Updated: 2025-09-07T22:17:21Z
   Vendor: R:SPORT
@@ -10481,7 +10481,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק לבנים בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd): מכנסי משחק בצבע לבן עם עיצוב קלאסי ונוחות מירבית לאוהדי Celtics
-  Updated: 2025-10-02T06:00:13Z
+  Updated: 2025-10-02T16:00:04Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10502,7 +10502,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנס משחק ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd): מכנס משחק ירוק עם עיצוב נוח של Boston Celtics לסטייל ספורטיבי
-  Updated: 2025-10-02T06:00:12Z
+  Updated: 2025-10-02T15:59:01Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10523,7 +10523,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחור ירוק בוסטון סלטיקס City Edition](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd): מכנסי משחק City Edition בצבע שחור ירוק בעיצוב ייחודי של בוסטון סלטיקס
-  Updated: 2025-10-02T06:00:12Z
+  Updated: 2025-10-02T15:57:15Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10544,7 +10544,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחור ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd): מכנסי משחק שחור ירוק בעיצוב קלאסי של Boston Celtics לאוהדים אמיתיים
-  Updated: 2025-10-02T06:00:12Z
+  Updated: 2025-10-02T13:40:12Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -25331,29 +25331,29 @@
     Availability: Available
     Price: ‏104.99 ‏₪ ILS
 - [חולצת משחק פלמיירס בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים): חולצת משחק פלמיירס בית 25/26 בצבע ירוק ובגזרה רגילה, עשויה 100% פוליאסטר קליל ונושם לנוחות מרבית. מתאימה לגברים אוהדים, למשחקים, אימונים ועידוד, עם גזרה מחודשת לניידות מושלמת וטכנולוגיית נידוף זיעה לשמירה על יובש ורעננות.
-  Updated: 2025-09-18T17:13:54Z
+  Updated: 2025-10-02T12:34:20Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/vlt-mshk-flmiirs-bit-2526-gbrim-274527.jpg?v=1743310396
   - [S](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים?variant=47205514707194)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים?variant=47205514739962)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים?variant=47205514772730)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים?variant=47205514805498)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים?variant=47205514838266)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-25-26-גברים?variant=47205514871034)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
 - [חולצת משחק פלמיירס בית 24/25 | גברים](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-24-25-גברים): חולצת משחק פלמיירס בית 24/25 גברים בצבע ירוק, עשויה 100% פוליאסטר קליל ונושם לנוחות מקסימלית, עם גזרה רגילה המתאימה לגברים אוהדים וטכנולוגיית נידוף זיעה לשמירה על יובש ורעננות בכל מצב.
   Updated: 2025-10-02T11:31:24Z
   Vendor: R:SPORT
@@ -25379,7 +25379,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק פלמיירס בית 23/24 | גברים](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-בית-23-24-גברים): חולצת משחק פלמיירס בית 23/24 בצבע ירוק קלאסי עם שרוולים קצרים וגזרה רגילה, עשויה 100% פוליאסטר קליל ונושם עם טכנולוגיית נידוף זיעה מתקדמת המבטיחה תחושת יובש ורעננות, מושלמת לאוהדים שרוצים לשלב נוחות, סטייל ותמיכה בקבוצה.
-  Updated: 2025-10-01T06:06:19Z
+  Updated: 2025-10-02T13:19:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -25403,29 +25403,29 @@
     Availability: Available
     Price: ‏112.99 ‏₪ ILS
 - [חולצת משחק פלמיירס חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים): חולצת משחק פלמיירס חוץ 25/26 | גבריםחולצת המשחק בעיצוב החוץ לעונת 2025/26 מגיעה בצבע לבן אלגנטי עם שרוולים קצרים וגזרה רגילה, עשויה 100% פוליאסטר קליל ונושם לנוחות מקסימלית. החולצה כוללת טכנולוגיית נידוף זיעה מתקדמת השומרת על יובש ורעננות, מושלמת לאוהדים שמעוניינים לשלב סטייל ותמיכה בקבוצה בכל מקום.
-  Updated: 2025-09-18T17:13:54Z
+  Updated: 2025-10-02T12:34:20Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/vlt-mshk-flmiirs-v-2526-gbrim-900774.jpg?v=1743310376
   - [S](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים?variant=47205523652858)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים?variant=47205523685626)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים?variant=47205523718394)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים?variant=47205523751162)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים?variant=47205523783930)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-25-26-גברים?variant=47205523816698)
     Availability: Available
-    Price: ‏112.99 ‏₪ ILS
+    Price: ‏119.00 ‏₪ ILS
 - [חולצת משחק פלמיירס חוץ 24/25 | גברים](https://www.rsport.co.il/products/חולצת-משחק-פלמיירס-חוץ-24-25-גברים): חולצת משחק פלמיירס חוץ 24/25 חולצת המשחק בעיצוב החוץ לעונת 2024/25 מגיעה בצבע לבן עם שרוולים קצרים וגזרה רגילה, עשויה 100% פוליאסטר קליל ונושם לנוחות מרבית. כוללת טכנולוגיית נידוף זיעה מתקדמת לשמירה על יובש ורעננות, אידיאלית עבור אוהדים שרוצים לשלב סטייל ותמיכה בקבוצה בכל מקום.
   Updated: 2025-10-02T11:31:25Z
   Vendor: R:SPORT
@@ -29330,32 +29330,32 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת ריאל מדריד בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים): חולצת הבית של ריאל מדריד לעונת 25/26 בדיוק כמו שהאוהדים אוהבים. לבנה, אלגנטית, עם טאץ’ מודרני ושיק שמזכיר למה זה המועדון הכי גדול בעולם. עשויה 100% פוליאסטר נעים ונושם, בגזרה רגילה שמתאימה גם ליום רגוע בבית וגם למשחק עם חברים. הסמל רקום כמו שצריך, והבד שומר אותך יבש ונוח גם כשאתה בטירוף של המשחק. מושלמת למי שחי ונושם ריאל.
-  Updated: 2025-09-25T01:04:35Z
+  Updated: 2025-10-02T12:34:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20250606_120621_0000.jpg?v=1749201045
   - [S](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397343994)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397376762)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397409530)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397442298)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397475066)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397507834)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים?variant=47386397540602)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת ריאל מדריד משחקי בית 2025/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-משחקי-בית-2025-26-אותנטית-גברים): חולצת ריאל מדריד אותנטית לעונת 25/26 היא בדיוק מה שלובשים השחקנים על המגרש גזרה צמודה, בד טכנולוגי מתקדם, ונראות שלא משאירה מקום לספק מי המלכים של אירופה. עשויה מבד איכותי וקל במיוחד שמנדף זיעה ושומר על הגוף יבש ונעים גם בעומס של 90 דקות, הפרטים מדויקים עד רמת התפר, והעיצוב ממשיך את הקו האלגנטי של הלבנים ממדריד עם טאץ' עכשווי לעונה החדשה. מי שמחפש להרגיש חלק מהקבוצה זו החולצה האמיתית
   Updated: 2025-10-02T11:27:27Z
   Vendor: R:SPORT
@@ -30452,32 +30452,32 @@
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [חולצת חוץ אינטר 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים): חולצת החוץ של אינטר לעונת 2025/26 מביאה איתה מראה חדש ורענן בעיצוב מודרני שלא שוכח את המסורת. גזרה נוחה, בד נושם ומנדף זיעה, וצבעים שמושכים את העין – גם על המגרש וגם מחוצה לו. בין אם אתם באימון, בצפייה עם חברים או סתם ביום שגרתי זו החולצה שתגרום לכם להרגיש חלק מהמועדון.
-  Updated: 2025-09-18T18:15:23Z
+  Updated: 2025-10-02T12:34:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/36_2e49aeac-ff0d-459a-b0b3-a3d30bb780cb.jpg?v=1750249144
   - [S](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622097146)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622129914)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622162682)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622195450)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622228218)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622260986)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-חוץ-אינטר-25-26-גברים?variant=47419622293754)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
 - [חולצת משחק אותנטית אינטר חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-אותנטית-אינטר-חוץ-25-26-גברים): חולצת החוץ בגרסת השחקנים לעונת 2025/26 מביאה את הרמה הגבוהה ביותר של ביצועים ונראות בדיוק כמו שלובשים על הדשא בסן סירו ומעבר לו. עיצוב חדשני, גזרה צמודה, בד טכנולוגי קל משקל ונושם שמתאים את עצמו לגוף בזמן תנועה. נועדה לאוהדים שחיים את הקבוצה
   Updated: 2025-10-02T11:27:32Z
   Vendor: R:SPORT
@@ -30797,32 +30797,32 @@
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [חולצת חוץ ריאל מדריד 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים): חולצת חוץ ריאל מדריד 25/26 לגברים מציעה עיצוב מודרני ונקי בצבעים שמייצגים את המועדון בגאווה. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בניהול לחות ומעניק נוחות לאורך כל המשחק והיום יום. גזרה רגילה ונוחה שמתאימה לפעילות ספורטיבית וללבוש יומיומי.
-  Updated: 2025-09-24T19:15:57Z
+  Updated: 2025-10-02T12:34:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_5c36b0f4-ccdf-41ca-8ce8-b39ed10c1833.jpg?v=1750298121
   - [S](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094658298)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094691066)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094723834)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094756602)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094789370)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094822138)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים?variant=47421094854906)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת ריאל מדריד משחקי חוץ 2025/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-משחקי-חוץ-2025-26-אותנטית-גברים): חולצת ריאל מדריד משחקי חוץ 2025/26 אותנטית לגברים מגיעה בעיצוב מודרני ונקי, בגזרה צמודה כמו של השחקנים. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בניהול לחות ומעניק נוחות לאורך כל המשחק. מתאימה לאוהדים שרוצים מראה מקצועי ונאמנות למועדון.
   Updated: 2025-10-02T11:27:33Z
   Vendor: R:SPORT
@@ -30923,26 +30923,26 @@
     Availability: Available
     Price: ‏70.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד חוץ 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים): חולצת כדורגל ריאל מדריד חוץ 25/26 לנשים מציגה עיצוב נקי ומעודכן בגזרה נשית מחמיאה. החולצה עשויה 100% פוליאסטר, מבד נושם וקליל שמנדף זיעה ושומר על נוחות בזמן משחק, אימון או בלבוש יומיומי. מתאימה לאוהדות שרוצות לשלב בין סטייל ונאמנות למועדון.
-  Updated: 2025-09-24T19:15:56Z
+  Updated: 2025-10-02T12:34:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_3b1a3725-4b53-46ac-8dc4-981e8576acf8.jpg?v=1750299313
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים?variant=47421116121338)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים?variant=47421116154106)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים?variant=47421116186874)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים?variant=47421116219642)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים?variant=47421116252410)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [מכנסי כדורגל קצרים ריאל מדריד חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-ריאל-מדריד-חוץ-25-26-גוניורס): מכנסי כדורגל קצרים ריאל מדריד חוץ 25/26 בגזרת ג'וניורס מתאימים לילדים ולנוער שרוצים להשלים את מראה החולצה החיצונית של הקבוצה לעונת 2025/26. המכנסיים עשויים 100% פוליאסטר, מבד נושם וקל משקל שמנדף זיעה ומעניק נוחות מלאה בזמן אימון, משחק או פעילות יומיומית.
   Updated: 2025-09-18T18:30:27Z
   Vendor: R:SPORT
@@ -35744,29 +35744,29 @@
     Availability: Available
     Price: ‏149.90 ‏₪ ILS
 - [חולצת נבחרת אנגליה בית 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים): משמשת את הנבחרת ביורו נשים 2025,החולצה מעוצבת בהשראת סגל הזכייה ביורו 2022, עם בסיס לבן קלאסי וטלאים בולטים באדום וכחול על החזה. סמל שלושת האריות על החזה מדגיש את הגאווה והתשוקה שלך. משלבת מראה קלאסי ונגיעות מודרניות בצבעי הלאום בגאווה. עשויה מבד פוליאסטר נושם וקל משקל, עם גזרה נוחה שמתאימה לנשים ולגברים כאחד. מושלמת לאוהדים ואוהדות שרוצים להביע תמיכה בנבחרת בסטייל ובנוחות ביציע, ברחוב או באימון.
-  Updated: 2025-09-18T19:46:14Z
+  Updated: 2025-10-02T12:34:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_3186b5f8-a02d-47ea-a00c-cf46ca211e57.jpg?v=1751213210
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים?variant=47461034361082)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים?variant=47461034393850)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים?variant=47461034426618)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים?variant=47461034459386)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים?variant=47461034492154)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גברים?variant=47461034524922)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת אנגליה בית 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-אותנטית-גברים): חולצת הבית האותנטית של נבחרת אנגליה 2025, בהשראת חולצת הנשים של יורו 2025 החולצה משלבת בסיס לבן נקי עם דגשים בולטים בצבעי אדום וכחול על החזה, ומעוטרת בסמל שלושת האריות מעל הלב סמל לגאווה לאומית ותמיכה אמיתית, החולצה עשויה 100% פוליאסטר איכותי ונושם, עם בד קליל וגמיש שמאפשר תנועת חופש מלאה בזמן משחק, אימון או לבוש יומיומי. גזרה צמודה כמו השחקנים (Slim Fit) מבטיחה מראה מודרני וספורטיבי שמתאים לאוהדים שרוצים להרגיש חלק מהקבוצה.
   Updated: 2025-10-02T11:28:42Z
   Vendor: R:SPORT
@@ -35837,89 +35837,89 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת נבחרת אנגליה חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים): הראו את התמיכה שלכן בליונסס בזמן שהן יוצאות להגן על תואר אלופת אירופה עם חולצת החוץ של נבחרת אנגליה, חולצת נבחרת אנגליה חוץ 2025 לגברים בעיצוב מודרני ואלגנטי בגווני שחור וכחול בהיר, עם נגיעות צבע שמשדרגות את המראה הפשוט. החולצה עשויה 100% פוליאסטר קל ונושם, שמאפשר נוחות וגמישות מקסימלית במהלך פעילות ספורטיבית או יום יומי. סמל שלושת האריות על החזה מבטא את הגאווה והנאמנות לנבחרת.
-  Updated: 2025-09-18T19:46:15Z
+  Updated: 2025-10-02T12:34:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_f72f0c0d-6ba8-40a7-9023-b43c168d7ba1.jpg?v=1751237461
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים?variant=47461467324666)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים?variant=47461467357434)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים?variant=47461467390202)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים?variant=47461467422970)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים?variant=47461467455738)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גברים?variant=47461467488506)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת אנגליה חוץ 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים): חולצת החוץ של נבחרת אנגליה לעונת 2025 היא לא רק בגד זו הצהרת תמיכה. עיצוב ייחודי בגוונים של שחור, כחול בהיר, נגיעות סגול ואדום שילוב מדויק שמביא איתו נוכחות, עוצמה וסטייל בלתי מתפשר. זו הגרסה האותנטית – בדיוק כמו זו שלובשים השחקנים על המגרש. קלה, נושמת, בנויה לביצועים גבוהים ולתנועה חופשית בין אם אתה על הדשא, ביציע או פשוט מסתובב בגאווה ברחוב. הסמל הלאומי על הלב מזכיר את הרוח הלוחמת של שלושת האריות – ואת המחויבות שלך לנבחרת.
-  Updated: 2025-10-02T11:28:42Z
+  Updated: 2025-10-02T12:34:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_91cfc718-225c-4a86-8fea-e194fe9a413e.jpg?v=1751237614
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים?variant=47461480202490)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים?variant=47461480235258)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים?variant=47461480268026)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים?variant=47461480300794)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים?variant=47461480333562)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-אותנטית-גברים?variant=47461480366330)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
 - [חולצת נבחרת אנגליה בית 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גוניורס): חולצת הבית של נבחרת אנגליה לעונת 2025 בגזרת ג'וניורס היא הדרך הכי טובה בשביל הדור הבא להרגיש חלק מהנבחרת. בעיצוב קלאסי בלבן עם טאצ'ים מודרניים, היא מביאה שילוב מושלם בין מסורת לכוח חדש. קלה, נושמת ונוחה במיוחד מושלמת למשחקים, אימונים או סתם להסתובב בה בגאווה. עם הסמל של שלושת האריות על החזה, כל ילד יכול להרגיש שהוא על המגרש – מוכן להילחם, לחלום ולכבוש.
-  Updated: 2025-09-18T19:46:15Z
+  Updated: 2025-10-02T12:34:18Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_be9764bc-864f-480a-bef6-0bbb24420a6b.jpg?v=1751238668
   - [10-11Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גוניורס?variant=47461505597690)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [11-12Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גוניורס?variant=47461505630458)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [12-13Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גוניורס?variant=47461505663226)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [13-14Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-בית-2025-גוניורס?variant=47461505695994)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
 - [חולצת נבחרת אנגליה חוץ 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גוניורס): חולצת החוץ של נבחרת אנגליה 2025 בגזרת ג'וניורס מגיעה בצבעים עזים של שחור וכחול בהיר עם נגיעות סגול ואדום, שמעניקים לה מראה מודרני ונועז. החולצה קלה ונושמת, ומאפשרת תנועה חופשית לאורך כל המשחק או האימון. עם הסמל של שלושת האריות על החזה, כל ילד מרגיש חלק מהנבחרת – מוכן להראות יכולת, להתרגש ולחגוג כל רגע על המגרש.
-  Updated: 2025-09-18T19:46:16Z
+  Updated: 2025-10-02T12:34:17Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_09a17e86-a86f-493e-b86d-270d2d319b2f.jpg?v=1751239401
   - [10-11Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גוניורס?variant=47461518180602)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [11-12Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גוניורס?variant=47461518213370)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [12-13Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גוניורס?variant=47461518246138)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [13-14Y](https://www.rsport.co.il/products/חולצת-נבחרת-אנגליה-חוץ-2025-גוניורס?variant=47461518278906)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
 - [חליפת כדורגל נבחרת אנגליה בית 2025 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-נבחרת-אנגליה-בית-2025-ילדים): חליפת כדורגל נבחרת אנגליה בית 2025 לילדים מגיעה בעיצוב לבן קלאסי עם פרטים מודרניים, שמאפשרת לילדים להרגיש כמו שחקנים אמיתיים על המגרש. הבד נושם, קל ונוח, מתאים למשחקים ואימונים, ומאפשר תנועה חופשית. עם סמל שלושת האריות על החזה, החליפה מחברת כל ילד לרוח הנבחרת ולגאווה הלאומית, ומזמינה אותו להראות את הטירוף והאהבה לכדורגל בכל רגע
   Updated: 2025-10-02T11:52:06Z
   Vendor: R:SPORT
@@ -35981,32 +35981,32 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת צרפת בית 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים): החולצה משלבת עיצוב מודרני עם אלמנטים קלאסיים של הנבחרת, בצבעי כחול עמוק עם נגיעות אדום, הצבעים הכחולים המפורסמים מועשרים בגוונים מודגשים ונקודות אדומות שיוצרים מראה מושך ומיוחד. סמל התרנגול הגאלי על החזה יחד עם דגל צרפת משושה על השרוול מבטאים את התשוקה האינסופית שלך לנבחרת. . עשויה 100% פוליאסטר, עם בד נושם וקל משקל שמספק נוחות ותחושת יובש לאורך כל המשחק. מתאימה לאוהדים שרוצים להראות גאווה ולהרגיש בנוח על המגרש ובחיי היומיום.
-  Updated: 2025-09-18T19:46:17Z
+  Updated: 2025-10-02T12:34:17Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/33_3f40dbc7-8180-4f8c-9c3e-15e4020dd62c.jpg?v=1751243340
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461591253242)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461591286010)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461591318778)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461591351546)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461591384314)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461591417082)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-גברים?variant=47461606752506)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
 - [חולצת נבחרת צרפת בית 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-בית-2025-אותנטית-גברים): חולצת המשחק האותנטית של נבחרת צרפת לעונת 2025, בגזרה צמודה כמו של השחקנים על המגרש, בגווני כחול עמוקים עם נגיעות אדומות שמשדרות עוצמה וגאווה, משלבת צבעים עשירים וגוונים מדויקים שיוצרים מראה ייחודי וקורץ לעין. על החזה מתנוסס סמל התרנגול הגאלי המפורסם, לצד דגל צרפת בצורת משושה על השרוול, שמציגים את המחויבות והאהבה לנבחרת עשויה 100% פוליאסטר עם בד נושם וקל משקל, המעניק נוחות ונידוף זיעה מעולה בזמן המשחק.
   Updated: 2025-10-02T11:28:43Z
   Vendor: R:SPORT
@@ -36113,32 +36113,32 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת נבחרת צרפת חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים): תמוך בנבחרת הנשים של צרפת כשהן יוצאות לשווייץ עם המבט על תואר אלופת אירופה הראשון שלהן, עם חולצת החוץ ל-2025 בצבעים אלגנטיים של שנהב בהיר, כחול בוהק ונגיעות אדום עדין. החולצה, בהשראת שמפניה צרפתית מפורסמת, משדרת יוקרה, חגיגיות ותחכום. הבסיס החלק בגווני שנהב וכחול משלב עיצוב עדין עם אלמנטים שמבטאים אלגנטיות ושמחה, בעוד סמל התרנגול הגאלי על החזה ודגל צרפת על השרוול מציגים את התשוקה הבלתי מתפשרת שלך לנבחרת. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל המספק נוחות מירבית ותחושת יובש לאורך כל המשחק. פריט אידיאלי לאוהדים שרוצים להראות תמיכה בסגנון ולהרגיש בנוח גם על המגרש וגם מחוץ לו.
-  Updated: 2025-09-18T19:46:18Z
+  Updated: 2025-10-02T12:34:17Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/51_ce7fd52f-4fd9-45da-8a47-0fecfa8f1f49.jpg?v=1751245459
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686608122)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686640890)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686673658)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686706426)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686739194)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686771962)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-גברים?variant=47461686804730)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
 - [חולצת נבחרת צרפת חוץ 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-צרפת-חוץ-2025-אותנטית-גברים): תמוך בנבחרת ננשים של צרפת כשהן יוצאות לשווייץ עם המבט על תואר אליפות אירופה עם חולצת חוץ אותנטית בגזרה צמודה כמו שחקנים בצבעי שנהב בהיר, כחול בוהק ואדום עדין. עיצוב יוקרתי בהשראת שמפניה צרפתית עם סמל התרנגול הגאלי ודגל צרפת על השרוול. עשויה 100% פוליאסטר, בד נושם וקל משקל לנוחות מירבית ותחושת יובש לאורך כל המשחק. פריט מושלם לאוהדים ולשחקנים המעוניינים בשילוב של סטייל ונאמנות.
   Updated: 2025-10-02T11:28:43Z
   Vendor: R:SPORT
@@ -36203,59 +36203,59 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [חולצת נבחרת הולנד בית 2025](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025): הביעו את התמיכה שלכם בנבחרת הכתומה Leeuwinnen נבחרת הנשים של הולנד כשהן יוצאות לשווייץ במטרה לזכות בתואר אליפות אירופה שני, עם חולצת הבית לעונת 2025. החולצה מגיעה בגוון כתום עז ונועז, עם נגיעות לבנות ודפוסים עדינים בהשראת האמנות ההולנדית הקלאסית, המשדרים עוצמה, תנועה וגאווה לאומית, סמל האריה ההולנדי מתנוסס בגאווה על החזה, והצווארון המעוטר בצבעי דגל הולנד, אדום, לבן וכחול משלים את המראה הפטריוטי, החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמעניק נוחות לאורך כל היום בין אם ביציע או על הדשא
-  Updated: 2025-09-18T19:46:19Z
+  Updated: 2025-10-02T12:34:17Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/63_f8253df6-8436-4cf2-8bd2-2e9c726927f6.jpg?v=1751353860
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142288634)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142321402)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142354170)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142386938)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142419706)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142452474)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025?variant=47465142485242)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת הולנד חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים): חולצת החוץ של נבחרת הולנד 2025 מציגה עיצוב מרשים בגוון כחול עמוק עם נגיעות שחורות, בהשראת הקווים הנקיים והפשטות הנועזת של האמנות ההולנדית. המראה האלגנטי והמודרני מעניק תחושת עוצמה וסטייל, בין אם על המגרש או ביציע. סמל האריה ההולנדי מתנוסס במרכז החזה, והצווארון מעוטר בצבעי דגל הולנד אדום, לבן וכחול כסמל לגאווה ולאהבה לנבחרת. החולצה עשויה 100% פוליאסטר, עם בד נושם, קל ונוח שמנדף זיעה ומתייבש במהירות, ומעניק תנועה חופשית בכל מצב.
-  Updated: 2025-09-18T19:46:20Z
+  Updated: 2025-10-02T12:34:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/68_19689425-151b-4fd6-bc6d-cd0921e5eab2.jpg?v=1751354524
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163784442)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163817210)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163849978)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163882746)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163915514)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163948282)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-חוץ-2025-גברים?variant=47465163981050)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת הולנד בית 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-הולנד-בית-2025-אותנטית-גברים): תמוך בנבחרת האורנג' עם חולצת הבית לעונת 2025, בעיצוב דומה לזה שהשחקניות ילבשו בטורניר WEURO 2025. החולצה בגזרה צמודה בצבע כתום בוהק עם נגיעות לבן סביב סמל האריה שבמרכז החזה. צווארון עם צבעי הדגל ההולנדי מוסיף טאץ' ייחודי. עשויה 100% פוליאסטר קל ונושם שמאפשר נוחות ותחושת יובש במהלך המשחק.
   Updated: 2025-10-02T11:28:43Z
   Vendor: R:SPORT
@@ -36416,122 +36416,122 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת נבחרת בלגיה חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים): תמוך בשדים האדומים של בלגיה עם גרפיקה דינמית בהשראת כינוי הנבחרת "השדים האדומים", ליצירת מראה מודרני ובולט על המגרש ומחוצה לו. סמל הנבחרת על החזה יחד עם הכיתוב “Belgium” בגאווה משלימים את העיצוב עשויה 100% פוליאסטר, בד נושם וקל משקל שמספק נוחות מירבית ותחושת יובש לאורך כל המשחק והאימון.
-  Updated: 2025-09-18T19:46:21Z
+  Updated: 2025-10-02T12:34:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/71_881e64be-a1de-4a38-a3eb-7a76947ee9df.jpg?v=1751373075
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465250042)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465282810)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465315578)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465348346)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465381114)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465413882)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-גברים?variant=47465465446650)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת בלגיה חוץ 2025 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-אותנטית-גברים): תמוך בנבחרת הבלגית עם חולצת החוץ האותנטית 2025, בגזרה צמודה כמו של השחקנים על המגרש. החולצה מעוצבת בגווני צהוב עם נגיעות כתומות כוללת סמל הנבחרת וכיתוב “Belgium” עשויה 100% פוליאסטר, בד נושם וקל משקל המספק נוחות מירבית ותחושת יובש לאורך כל המשחק והאימון.
-  Updated: 2025-10-02T11:28:45Z
+  Updated: 2025-10-02T12:34:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/74_2baf9c80-4d5e-4695-a6c0-f57b071b9f30.jpg?v=1751373660
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-אותנטית-גברים?variant=47465480487162)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-אותנטית-גברים?variant=47465480519930)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-אותנטית-גברים?variant=47465480552698)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-אותנטית-גברים?variant=47465480585466)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-אותנטית-גברים?variant=47465480618234)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
 - [חולצת נבחרת בלגיה חוץ 2025 | נשים](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-נשים): תמכי בנבחרת הבלגית עם חולצת החוץ 2025, בהשראת החולצה שהשחקניות לובשות בטורניר WEURO 2025 בגזרה מותאמת לנשים המשלבת נוחות וביצועים. החולצה בצבעי שחור ואדום עזים עם סמל הנבחרת על החזה וצווארון עם פרטים בצבעי דגל בלגיה, ליצירת מראה אלגנטי וספורטיבי עשויה 100% פוליאסטר, בד נושם וקל משקל שמבטיח נוחות ותחושת יובש לאורך כל המשחק והאימון.
-  Updated: 2025-09-18T18:15:53Z
+  Updated: 2025-10-02T12:34:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/77_299cd903-d533-4994-8cdf-b93d9657a2c6.jpg?v=1751374409
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-נשים?variant=47465510699258)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-נשים?variant=47465510732026)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-נשים?variant=47465510764794)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-נשים?variant=47465510797562)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-בלגיה-חוץ-2025-נשים?variant=47465510830330)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת ספרד חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים): תמוך בנבחרת ספרד, אלופות העולם המכהנות, כשהן שואפות לזכות באליפות אירופה ביורו 2025 עם חולצת החוץ בצבע לבן גיר נקי. החולצה מעוצבת בהשראת ההיסטוריה האמנותית העשירה של המדינה, עם בסיס לבן ועז המעוטר בגרפיקות בהשראת הקוביזם ליצירת מראה מודרני ומרשים שמבליט כל תנועה על המגרש. סמל הנבחרת על החזה וכיתוב בגב הצוואר מבטאים בגאווה את הפטריוטיות, והפסים האייקוניים משלימים את העיצוב עשויה 100% פוליאסטר, בד נושם וקל משקל המבטיח נוחות ותחושת יובש לאורך כל המשחק והאימון.
-  Updated: 2025-09-18T19:46:22Z
+  Updated: 2025-10-02T12:34:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/82.jpg?v=1751375554
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465551823098)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465551855866)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465551888634)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465551921402)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465551954170)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465551986938)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גברים?variant=47465552019706)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת ספרד חוץ 2025 | נשים](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-נשים): תמכי בנבחרת ספרד אלופות העולם המכהנות, כשהן שואפות לזכות באליפות אירופה ביורו 2025 עם חולצת החוץ בצבע לבן גיר נקי, עם סמל הנבחרת על החזה למראה מלא עוצמה וסגנון עשויה 100% פוליאסטר, בד נושם וקל משקל שמספק נוחות ותחושת יובש לאורך כל הפעילות.
-  Updated: 2025-09-18T18:15:54Z
+  Updated: 2025-10-02T12:34:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/85.jpg?v=1751375857
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-נשים?variant=47465558081786)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-נשים?variant=47465558114554)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-נשים?variant=47465558147322)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-נשים?variant=47465558180090)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-נשים?variant=47465558212858)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת ספרד חוץ 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-ספרד-חוץ-2025-גוניורס): תמוך בנבחרת ספרד אלופות העולם המכהנות, כשהן שואפות לזכות באליפות אירופה ביורו 2025 עם חולצת החוץ לעונת 2025 בגזרה שמתאימה לילדים ונועי בצבע לבן גיר עם גרפיקות בהשראת הקוביזם. כוללת סמל הנבחרת וכיתוב בגב הצוואר, עשויה מ-100% פוליאסטר קל ונושם לנוחות מרבית בזמן משחק ואימון.
   Updated: 2025-10-02T11:52:05Z
   Vendor: R:SPORT
@@ -36551,26 +36551,26 @@
     Availability: Available
     Price: ‏130.00 ‏₪ ILS
 - [חולצת נבחרת פורטוגל בית 2025 | נשים](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-בית-2025-נשים): תמכי בנבחרת פורטוגל לנשים במסע שלהן לזכייה ביורו 2025 עם חולצת הבית של נבחרת פורטוגל לנשים, בעיצוב בולט בצבע אדום עמוק עם נגיעות של ירוק מנטה, העיצוב כולל דפוסים טונליים בהשראת סמל ה־Quinas, כשסמל הנבחרת מתנוסס בגאווה מעל הלב ביטוי לפטריוטיות שבלב כל אוהדת עשויה 100% פוליאסטר מבד נושם וקל משקל לנוחות מקסימלית.
-  Updated: 2025-09-18T19:46:23Z
+  Updated: 2025-10-02T12:34:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/90.jpg?v=1751392157
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-בית-2025-נשים?variant=47465889857786)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏130.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-בית-2025-נשים?variant=47465889890554)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏130.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-בית-2025-נשים?variant=47465889923322)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏130.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-בית-2025-נשים?variant=47465889956090)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏130.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-בית-2025-נשים?variant=47465889988858)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏130.00 ‏₪ ILS
 - [חולצת נבחרת פורטוגל חוץ 2025 | נשים](https://www.rsport.co.il/products/חולצת-נבחרת-פורטוגל-חוץ-2025-נשים): תמכי ב־As Navegadoras נבחרת הנשים של פורטוגל במסע שלהן ליורו 2025 החולצה מציגה עיצוב חדשני וקליל בגוון Fresh Mint עם נגיעות שחור ליצירת מראה רענן ואלגנטי. בהשראת סגנון מודרני ואסתטיקה נקייה, החולצה כוללת סמל נבחרת פורטוגל מעל הלב, כסמל לגאווה לאומית אמיתית. מתאימה לאימון, צפייה או סתם ללבוש יומיומי עם סטייל. עשויה 100% פוליאסטר מבד נושם וקל משקל לנוחות ותחושת יובש לאורך כל היום.
   Updated: 2025-09-18T18:15:56Z
   Vendor: R:SPORT
@@ -36677,32 +36677,32 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [חולצת כדורגל ברצלונה בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים): חולצת כדורגל ברצלונה לעונת 25/26 בגימור מודרני. קלי משקל ונושמת, מושלמת לכל אוהד מועדון
-  Updated: 2025-09-25T01:37:23Z
+  Updated: 2025-10-02T12:34:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_c19790ab-8818-4f64-8fc9-8a45f9a319d1.jpg?v=1751918627
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141467898)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141500666)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141533434)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141566202)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141598970)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141631738)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-בית-25-26-גברים?variant=47472141664506)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת ברצלונה משחקי בית 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ברצלונה-משחקי-בית-25-26-אותנטית-גברים): גלה את חולצת ברצלונה הביתית והאותנטית לעונת 25/26. איכות גבוהה, נוחות מרבית ועיצוב קלאסי. חובה לכל אוהד
   Updated: 2025-10-02T11:27:39Z
   Vendor: R:SPORT
@@ -36824,32 +36824,32 @@
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [חולצת מילאן חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים): חולצת החוץ של מילאן לעונת 2025/26 מביאה עיצוב אלגנטי ומעודכן שמחבר בין ההיסטוריה המפוארת של המועדון לבין סגנון מודרני וחדשני. החולצה מגיעה בגוון בהיר עם נגיעות אדומות ושחורות צבעי המועדון הקלאסיים וכוללת את סמל השד האדום של מילאן המתנוסס בגאווה על החזה החולצה עשויה 100% פוליאסטר, מבד קל ונושם שנועד לשמור על תחושת יובש ונוחות גם בזמן פעילות אינטנסיבית הבד הגמיש מאפשר חופש תנועה מלא מתאימה למשחק, לאימון או ללבוש יומיומיפריט מושלם לכל אוהד שרוצה לשלב סטייל, ביצועים וגאוות מועדון.
-  Updated: 2025-09-18T17:13:14Z
+  Updated: 2025-10-02T12:34:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_6f4352df-d034-4669-a0dd-0c938fad997d.jpg?v=1751538109
   - [S](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475476955386)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475476988154)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475477020922)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475477053690)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475477086458)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475477119226)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים?variant=47475477151994)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
 - [חולצת מילאן משחקי חוץ 2025/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-מילאן-משחקי-חוץ-2025-26-אותנטית-גברים): תמוך ברוסונרי בעונה החדשה עם חולצת החוץ של מילאן לעונת 2025/26 בגזרה צמודה כמו השחקנים על המגרש החולצה מציגה עיצוב מעודכן ונקי בגוון בהיר עם צבע לבן נגיעות אדום ושחור צבעי המועדון האייקוניים יחד עם סמל השד האדום המתנוסס על החזה בצד שמאל החולצה עשויה 100% פוליאסטר, מבד נושם וקל משקל שמתייבש במהירות ומספק תחושת נוחות ויובש לאורך כל היום אם אתה מחפש את הגרסה של שחקני הקבוצה, עם כל הפרטים הקטנים והתחושה האותנטית זו הבחירה המושלמת עבורך.
   Updated: 2025-10-02T11:27:39Z
   Vendor: R:SPORT
@@ -36971,53 +36971,53 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת נבחרת איטליה חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים): תמוך באזורי בסטייל עם חולצת החוץ החדשה לעונת 2025. עיצוב ייחודי בגוון ירקרק רענן עם נגיעות פרחוניות שמביא איתו וייב איטלקי קלאסי ומיוחד החולצה עשויה מ־100% פוליאסטר נושם וקל משקל, החולצה מתאימה למשחק, לאימון או ללבישה יומיומית עם טאץ' איטלקי קלאסי מושלמת לאוהדים שמחפשים סגנון, נוחות ונאמנות לאזורי.
-  Updated: 2025-09-18T19:46:23Z
+  Updated: 2025-10-02T12:34:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/94_ad5ecdc9-dad8-48c7-8357-8b596807e07a.jpg?v=1751656300
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479059808506)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479059841274)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479059874042)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479059906810)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479059939578)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479059972346)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גברים?variant=47479060005114)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת איטליה חוץ 2025 | נשים](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-נשים): תמכי בנבחרת איטליה כשהן יוצאות למסע חדש לעבר פסגת אירופה עם חולצת החוץ 2025, בעיצוב ייחודי בגוון Glory Mint האלגנטי. החולצה משלבת צבע לבן עם נגיעות ירוק ואדום בהשראת דגל המדינה, וסמל הנבחרת רקום על החזה בגאווה. עשויה מ-100% פוליאסטר נושם וקל משקל, בגזרה נשית שמותאמת לנוחות מקסימלית במהלך אימון, משחק או יום רגיל.
-  Updated: 2025-09-18T18:16:02Z
+  Updated: 2025-10-02T12:34:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/97_50d3a59d-fa97-45b9-a616-b436e07e0d51.jpg?v=1751656716
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-נשים?variant=47479068426490)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-נשים?variant=47479068459258)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-נשים?variant=47479068492026)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-נשים?variant=47479068524794)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-נשים?variant=47479068557562)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת איטליה חוץ 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-איטליה-חוץ-2025-גוניורס): תמוך בנבחרת איטליה עם חולצת החוץ 2025 בגזרת ג'וניורס. החולצה מעוצבת בגוון לבן עם נגיעות ירוק ואדום בהשראת דגל המדינה, וסמל הנבחרת רקום בגאווה על החזה. עשויה מ-100% פוליאסטר קל ונושם, לחוויית נוחות מרבית בזמן משחק או אימון. מושלמת לילדים שרוצים ללבוש את צבעי הנבחרת בגאווה ולהרגיש חלק מהקבוצה.
   Updated: 2025-10-02T11:52:04Z
   Vendor: R:SPORT
@@ -37064,53 +37064,53 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת גרמניה חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים): תמוך בנבחרת גרמניה עם חולצת החוץ לעונת 2025, בעיצוב נועז וייחודי בגוונים שונים של אדום-בורדו. הדוגמה כוללת פסים וצורות גיאומטריות באדום בהיר, שמעניקות לחולצה מראה דינמי ועוצמתי. סמל הנבחרת רקום על החזה מבטא את הגאווה הלאומית, וצווארון V מוסיף טאץ' אלגנטי שמשלים את העיצוב. החולצה עשויה מ־100% פוליאסטר ממוחזר עם בד קל ונושם, לגזרה נוחה ונעימה שמתאימה למשחק, אימון או שימוש יומיומי – שילוב של סטייל, ביצועים ותמיכה מלאה ב־Die Mannschaft.
-  Updated: 2025-09-18T19:46:25Z
+  Updated: 2025-10-02T12:34:15Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/108_dd07e6dd-af88-4b7b-903a-5cb07b7c095d.jpg?v=1751658792
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097524474)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097557242)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097590010)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097622778)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097655546)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097688314)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גברים?variant=47479097721082)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת גרמניה חוץ 2025 | נשים](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-נשים): תמכי בנבחרת המעוטרת ביותר בהיסטוריה של אליפות אירופה לנשים, כשהיא יוצאת למסע מחודש לכיבוש התואר ביורו 2025 חולצת נבחרת גרמניה חוץ 2025 לנשים בעיצוב בורדו עמוק עם גרפיקה בהשראת אמנות רחוב. כוללת סמל רקום על החזה וכיתוב “Deutschland” בגב. עשויה מ־100% פוליאסטר ממוחזר, עם גזרה נוחה ובד קל ונושם שמתאים למשחק, אימון או שימוש יומיומי.
-  Updated: 2025-09-18T18:16:04Z
+  Updated: 2025-10-02T12:34:14Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_5f5f01ee-37eb-48a2-abae-4ecc444ecb66.jpg?v=1751658982
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-נשים?variant=47479097786618)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏129.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-נשים?variant=47479097819386)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏129.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-נשים?variant=47479097852154)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏129.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-נשים?variant=47479097884922)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏129.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-נשים?variant=47479097917690)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏129.90 ‏₪ ILS
 - [חולצת נבחרת גרמניה חוץ 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-גוניורס): תמוך בנבחרת גרמניה המעוטרת ביותר בהיסטוריה של אליפות אירופה לנשים, כשהיא יוצאת למסע מחודש לכיבוש התואר ביורו 2025. עם חולצת החוץ לעונת 2025, בגזרה נוחה ומותאמת לילדים. החולצה בעיצוב בורדו עמוק עם גרפיקה בהשראת אמנות רחוב, כוללת סמל רקום וכיתוב “Deutschland” בגב. עשויה מ־100% פוליאסטר ממוחזר, בד קל ונושם לנוחות מקסימלית בזמן משחק או אימון.
   Updated: 2025-10-02T11:52:04Z
   Vendor: R:SPORT
@@ -37130,80 +37130,80 @@
     Availability: Available
     Price: ‏130.00 ‏₪ ILS
 - [חולצת נבחרת גרמניה חוץ 2025 אותנטית](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית): תמוך בנבחרת גרמניה המעוטרת ביותר בהיסטוריה של אליפות אירופה לנשים, כשהיא יוצאת למסע מחודש לכיבוש התואר ביורו 2025 חולצת נבחרת גרמניה חוץ 2025 אותנטית מעוצבת בגווני בורדו עמוק עם גרפיקה דינמית בהשראת אמנות רחוב. החולצה עשויה 100% פוליאסטר, עם גזרה צמודה כמו של השחקנים, המאפשרת חופש תנועה ואווירת משחק אותנטית.
-  Updated: 2025-10-02T11:28:45Z
+  Updated: 2025-10-02T12:34:14Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/105_b95486ad-7b53-471a-949f-27e168b6e03e.jpg?v=1751659348
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית?variant=47479104569594)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏135.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית?variant=47479104602362)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏135.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית?variant=47479104635130)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏135.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית?variant=47479104667898)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏135.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית?variant=47479104700666)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏135.00 ‏₪ ILS
 - [חולצת נבחרת ברזיל בית 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים): תמוך ב-Selecao במסע אל התואר הבא בקופה אמריקה 2025 עם חולצת הבית של הנבחרת, בעיצוב שמבוסס על חולצת הנשים. החולצה בגווני הטון על גבי הצהוב האייקוני, לצד הדגשים מינימליסטיים בכחול וירוק. שמשדרים עוצמה וגאווה לאומית. עשויה 100% פוליאסטר בד קל ונושם שמאפשר תנועה חופשית ונוחות לאורך כל המשחק. סמל הנבחרת על החזה מייצג את רוח הכדורגל הברזילאי ואהבת האוהדים. פריט מושלם לכל אוהד שרוצה להראות תמיכה בסגנון ייחודי.
-  Updated: 2025-09-18T19:46:27Z
+  Updated: 2025-10-02T12:34:14Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/113_460347fc-0e07-4e6e-8e03-f59778bc7d7c.jpg?v=1751661845
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144710394)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144743162)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144775930)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144808698)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144841466)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144874234)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גברים?variant=47479144907002)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת ברזיל חוץ 2025 | גברים](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים): תמוך ב־Selecao במסע אל התואר הבא בקופה אמריקה 2025 עם חולצת החוץ של הנבחרת, בעיצוב שמבוסס על חולצת הנשים. החולצה משלבת גוון כחול כהה, ליצירת מראה מודרני אך נאמן למסורת שמקרין רעננות, חדשנות וגאווה לאומית עשויה 100% פוליאסטר, מבד קל ונושם שמאפשר תנועה חופשית ונוחות לאורך כל המשחק. סמל הנבחרת על החזה מייצג את רוח הכדורגל הברזילאי ואהבת האוהדים. פריט מושלם לכל אוהד שרוצה להראות תמיכה בסגנון אלגנטי ועדכני בגוון שמביא טוויסט חדש למדים האגדיים של הסלסאו.
-  Updated: 2025-09-18T19:46:27Z
+  Updated: 2025-10-02T12:34:14Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/115_954eb729-286b-4ba1-8548-1183b229c8ca.jpg?v=1751662476
   - [S](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479149953274)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479149986042)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479150018810)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479150051578)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479150084346)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479150117114)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-חוץ-2025-גברים?variant=47479150149882)
     Availability: Available
-    Price: ‏89.99 ‏₪ ILS
+    Price: ‏140.00 ‏₪ ILS
 - [חולצת נבחרת ברזיל בית 2025 | ג'וניורס](https://www.rsport.co.il/products/חולצת-נבחרת-ברזיל-בית-2025-גוניורס): תמוך ב־Selecao במסע אל התואר הבא בקופה אמריקה 2025 עם חולצת הבית של נבחרת ברזיל לילדים, בעיצוב שמבוסס על חולצת הנשים. החולצה מגיעה בגווני טון על גבי הצהוב האייקוני, עם נגיעות כחול וירוק שמשדרות עוצמה וגאווה לאומית. עשויה 100% פוליאסטר, מבד קל, נושם ונוח במיוחד, שמאפשר תנועה חופשית לאורך כל משחק או אימון. פריט מושלם עבור אוהדים צעירים שרוצים להרגיש חלק מהנבחרת ולתמוך בסטייל ברזילאי אמיתי.
   Updated: 2025-10-02T11:52:04Z
   Vendor: R:SPORT
@@ -37811,26 +37811,26 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [חולצת נשים ברצלונה בית 25/26](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26): חולצת נשים ברצלונה בית 25/26 החולצה החדשה של ברצלונה לעונת 2025/26 מציעה עיצוב מודרני שמקפיד לשמור על רוח המועדון החולצה משלבת את הצבעים המסורתיים של כחול ואדום, אך עם גימור חדשני הכולל דפוסים גרפיים עדינים שמקנים לה מראה צעיר, טרנדי ונשי סמל המועדון נמצא בגאווה על החזה, ומחבר אותך ישירות לאחת הקבוצות הגדולות בעולם עשויה מ-100% פוליאסטר קל ונושם, החולצה מבטיחה נוחות מירבית לאורך כל היום, בין אם את משחקת, מתאמנת או סתם נושאת את הגאווה שלך בשגרת היומיום. חולצה מושלמת לכל אוהבת ברצלונה שרוצה לשדר גם סטייל וגם נוחות.
-  Updated: 2025-09-25T00:07:43Z
+  Updated: 2025-10-02T12:34:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_bd592165-1165-4870-a003-6344e12a7f4e.jpg?v=1751918896
   - [S](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26?variant=47485729308922)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26?variant=47485729341690)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26?variant=47485729374458)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26?variant=47485729407226)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26?variant=47485729439994)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
 - [גרבי כדורגל ברצלונה בית 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-ברצלונה-בית-25-26): השלימו את הלוק עם גרבי כדורגל לבית של ברצלונה לעונת 2025/26 עשויות מחומרים איכותיים לתמיכה ונוחות מרבית, כך שתוכלו להרגיש חלק מהקבוצה גם על המגרש.
   Updated: 2025-09-18T18:30:08Z
   Vendor: R:SPORT
@@ -40436,32 +40436,32 @@
     Availability: Available
     Price: ‏1,399.90 ‏₪ ILS
 - [חולצת כדורגל ברצלונה חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים): חולצת כדורגל ברצלונה חוץ 25/26 לגברים, בעיצוב מודרני ואלגנטי בגווני זהב, סגול ושחור. אידיאלית לאוהדים.
-  Updated: 2025-09-24T19:12:56Z
+  Updated: 2025-10-02T12:34:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_c0aba3be-dde3-439a-b3b9-360cba6d06a3.jpg?v=1753947332
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566830928122)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566830960890)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566830993658)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566831026426)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566831059194)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566831091962)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-כדורגל-ברצלונה-חוץ-25-26-גברים?variant=47566831124730)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת ברצלונה משחקי חוץ 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ברצלונה-משחקי-חוץ-25-26-אותנטית-גברים): חולצת ברצלונה משחקי חוץ 2025/26 לגברים, בסגנון מודרני, קל ונושם, מושלמת לאוהדים שרוצים לשדר תחושת מסלול
   Updated: 2025-10-02T11:27:45Z
   Vendor: R:SPORT
@@ -40505,23 +40505,23 @@
     Availability: Available
     Price: ‏149.90 ‏₪ ILS
 - [חולצת כדורגל ילדים ברצלונה חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-חוץ-25-26-גוניורס): חולצת כדורגל ילדים ברצלונה חוץ 25/26 בעיצוב איכותי, נוח ואידיאלי למשחקים ואימונים רכוש עכשיו
-  Updated: 2025-10-02T11:52:00Z
+  Updated: 2025-10-02T12:23:09Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_031a6da9-9e12-4c5e-9ed2-a41107089794.jpg?v=1753948230
   - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-חוץ-25-26-גוניורס?variant=47566932836602)
     Availability: Available
-    Price: ‏139.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-חוץ-25-26-גוניורס?variant=47566932869370)
     Availability: Available
-    Price: ‏139.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-חוץ-25-26-גוניורס?variant=47566932902138)
     Availability: Available
-    Price: ‏139.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-חוץ-25-26-גוניורס?variant=47566932934906)
     Availability: Available
-    Price: ‏139.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
 - [כדור כדורגל מקצועי Orbita Ultimate פרמייר ליג 25/26](https://www.rsport.co.il/products/כדור-כדורגל-מקצועי-orbita-ultimate-פרמייר-ליג-25-26): כדור כדורגל Orbita Ultimate פרמייר ליג 25/26 כדור משחק מקצועי בגווני לבן עם צבעים דינמיים. עשוי מבד PU איכותי עם טקסטורה לשיפור הדיוק והשליטה. כולל 12 פנלים מחוברים בטכנולוגיית thermo-bonded לאחידות ומשקל מאוזן. קליפת הכדור עמידה ומחזיקה מעמד לאורך זמן, עם שסתום אוויר שמבטיח שמירה על לחץ יציב במהלך המשחק.
   Updated: 2025-09-07T22:01:48Z
   Vendor: R:Sport
@@ -41367,32 +41367,32 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים): חולצת כדורגל ריאל מדריד שלישית 25/26 לגברים בצבעים כחול ולבן, מציעה עיצוב מודרני ופשוט בצבעים המזוהים עם המועדון. החולצה עשויה 100% פוליאסטר, בד קל ונושם שמסייע בשמירה על תחושת יובש ונוחות לאורך כל היום. הגזרה רגילה ונוחה, מתאימה לפעילות ספורטיבית ולשימוש יומיומי.
-  Updated: 2025-09-26T05:34:17Z
+  Updated: 2025-10-02T12:34:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_750533c1-a2d1-421b-8a1d-97a5a9dde3b8.jpg?v=1754761533
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826796794)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826829562)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826862330)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826895098)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826927866)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826960634)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים?variant=47599826993402)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏149.90 ‏₪ ILS
 - [חולצת משחקי ריאל מדריד שלישית 2025/26 אותנטית  | גברים](https://www.rsport.co.il/products/חולצת-משחקי-ריאל-מדריד-שלישית-2025-26-אותנטית-גברים): תמוך בריאל מדריד עם חולצת המשחק השלישית 2025/26 אותנטית לגברים בצבעים כחול ולבן, בהשראת החולצה שלובשים השחקנים על המגרש. החולצה בגרסת שחקן עם גזרה צמודה, מציעה עיצוב מודרני ונושם בצבעים המזוהים עם המועדון. עשויה 100% פוליאסטר, בד קל ונושם שמסייע לשמירה על נוחות וייבוש מהיר לאורך כל המשחק. מתאימה במיוחד לשימוש מקצועי ולמי שמחפש גזרה מדויקת ונוחה.
   Updated: 2025-10-02T11:27:48Z
   Vendor: R:SPORT
@@ -42492,26 +42492,26 @@
     Availability: Available
     Price: ‏220.00 ‏₪ ILS
 - [חולצת אימון קצרה נאפולי 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אימון-קצרה-נאפולי-25-26-גברים): חולצת אימון קצרה נאפולי 25/26 קלה ונושמת בצבע שחור עשויה 100% פוליאסטר המעניקה נוחות ותנועה חופשית במהלך אימונים או פעילות ספורטיבית בגזרה רגילה שמתאימה לכל אוהד שרוצה להראות תמיכה בקבוצה
-  Updated: 2025-09-26T05:40:31Z
+  Updated: 2025-10-02T12:34:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/24_a1b1180d-e6a5-4724-a89e-dad8e291a808.jpg?v=1755373687
   - [S](https://www.rsport.co.il/products/חולצת-אימון-קצרה-נאפולי-25-26-גברים?variant=47619139338490)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-אימון-קצרה-נאפולי-25-26-גברים?variant=47619139371258)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-אימון-קצרה-נאפולי-25-26-גברים?variant=47619139404026)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-אימון-קצרה-נאפולי-25-26-גברים?variant=47619139436794)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-אימון-קצרה-נאפולי-25-26-גברים?variant=47619139469562)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
 - [חולצת חוץ מנצ'סטר סיטי 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-סיטי-25-26-גברים): חולצת מנצ'סטר סיטי חוץ 25/26 לגברים, בעיצוב ייחודי בצבעי שחור וכסף המעניקים מראה יוקרתי ודינמי. החולצה עשויה 100% פוליאסטר איכותי, נושם וקליל, המבטיח נוחות מירבית ושמירה על תחושת יובש ורעננות לאורך כל היום. סמל המועדון משולב בגאווה בחזית הבחירה המושלמת עבור אוהדי מנצ'סטר סיטי שרוצים לשלב בין נאמנות לקבוצה לבין סטייל מודרני.
   Updated: 2025-10-02T11:28:00Z
   Vendor: R:SPORT
@@ -42699,26 +42699,26 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [חולצת קדם משחק ברצלונה 25/26 | גברים](https://www.rsport.co.il/products/חולצת-קדם-משחק-ברצלונה-25-26-גברים): חולצת קדם משחק של ברצלונה 25/26 לגברים, בגזרה נוחה ומותאמת לפעילות ספורטיבית או שימוש יומיומי. עשויה בד קל ונושם, המעניק נוחות ותנועה חופשית לאורך כל היום. פריט מושלם לאוהדים שרוצים לייצג את ברצלונה בגאווה ובסטייל.
-  Updated: 2025-09-26T05:41:34Z
+  Updated: 2025-10-02T12:25:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_cbce2315-b819-401c-9c39-286eaeae985e.jpg?v=1755678171
   - [S](https://www.rsport.co.il/products/חולצת-קדם-משחק-ברצלונה-25-26-גברים?variant=47631607791866)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-קדם-משחק-ברצלונה-25-26-גברים?variant=47631607824634)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-קדם-משחק-ברצלונה-25-26-גברים?variant=47631607857402)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-קדם-משחק-ברצלונה-25-26-גברים?variant=47631607890170)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-קדם-משחק-ברצלונה-25-26-גברים?variant=47631607922938)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏119.90 ‏₪ ILS
 - [נעלי כדורגל מקצועיות F50 Elite Laceless FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-fg): נעלי כדורגל מקצועיות F50 Elite Laceless FG דגם F50 Elite Laceless FG מיועד לשחקנים שמחפשים מהירות ושליטה בכדור הנעל עם צווארון Primeknit נטול שרוכים וגפה Fibertouch קלת משקל שנותנת תמיכה ונוחות בלי להכביד וטקסטורת Sprintweb תלת־ממדית לאחיזה מדויקת בכדור סוליית Sprintframe 360 עם פקקים עגולים מייצבת ומאפשרת חיתוכים מהירים הנעל קלה כ-188 גרם וכוללת מדרס SL למהירות או Comfort לספיגת זעזועים מתאימה לדשא טבעי ומיוצרת לפחות מ-20 אחוז מחומרים ממוחזרים
   Updated: 2025-09-26T05:41:34Z
   Vendor: R:SPORT
@@ -43548,41 +43548,41 @@
     Availability: Available
     Price: ‏220.00 ‏₪ ILS
 - [חליפת כדורגל ילדים ברצלונה שלישית 25/26](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ברצלונה-שלישית-25-26): חליפת ברצלונה שלישית לילדים לעונת 25/26 כוללת חולצה ומכנסיים קצרים בעיצוב מיוחד בהשראת מראה המשחקים של הקבוצה בצבעי כתום וכחול כהה החולצה עשויה 100% פוליאסטר קל ונושם לנוחות מקסימלית בזמן משחק או פעילות יומיומית עם סמל ברצלונה על החזה שמעניק תחושת חיבור וגאווה העיצוב המודרני מתאים לכל ילד שרוצה להרגיש חלק מהקבוצה האהובה עליו
-  Updated: 2025-10-02T11:28:22Z
+  Updated: 2025-10-02T12:23:09Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_b14a0059-9f39-47b0-8eeb-4bc66d483869.jpg?v=1756120719
   - [2-3Y](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ברצלונה-שלישית-25-26?variant=47649395900666)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [4-5Y](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ברצלונה-שלישית-25-26?variant=47649395933434)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [6-7Y](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ברצלונה-שלישית-25-26?variant=47649395966202)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [8-9Y](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ברצלונה-שלישית-25-26?variant=47649395998970)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
 - [חולצת כדורגל ילדים ברצלונה שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-שלישית-25-26-גוניורס): חולצת ברצלונה שלישית לילדים לעונת 25/26 מעניקה מראה נועז בהשראת עיצובי המשחק של הקבוצה בצבעי כתום וכחול כהה החולצה עשויה 100% פוליאסטר קל ונושם שמבטיח נוחות ותחושת יובש בזמן משחק או פעילות יומיומית סמל ברצלונה בחזה מוסיף גאווה וזהות ומאפשר לילדים להרגיש חלק מהקבוצה האהובה עליהם ולתמוך בבלוגראנה בכל הזדמנות
-  Updated: 2025-10-02T11:28:22Z
+  Updated: 2025-10-02T12:23:09Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_5399b073-17d0-4b3f-9f7e-dd05d5aef45e.jpg?v=1756120996
   - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-שלישית-25-26-גוניורס?variant=47649405042938)
     Availability: Available
-    Price: ‏140.00 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-שלישית-25-26-גוניורס?variant=47649405075706)
     Availability: Available
-    Price: ‏140.00 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-שלישית-25-26-גוניורס?variant=47649405108474)
     Availability: Available
-    Price: ‏140.00 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
   - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-ילדים-ברצלונה-שלישית-25-26-גוניורס?variant=47649405141242)
     Availability: Available
-    Price: ‏140.00 ‏₪ ILS
+    Price: ‏120.00 ‏₪ ILS
 - [מכנסיים קצרים ברצלונה תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-ברצלונה-תלבושת-שלישית-25-26-גברים): מכנסיים קצרים של ברצלונה בהשראת התלבושת השלישית לעונת 25/26 בעיצוב מודרני בצבעי כתום וכחול כהה עשויים 100% פוליאסטר קל ונושם לנוחות מקסימלית באימונים ובמשחקים עם סמל ברצלונה בצד שמעניק מראה ספורטיבי וגאווה במועדון מתאימים לגברים שרוצים לשלב סטייל ייחודי ותמיכה בקבוצה האהובה עליהם
   Updated: 2025-09-26T05:43:41Z
   Vendor: R:SPORT
@@ -43689,23 +43689,23 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [חליפת כדורגל צ'לסי תלבושת שלישית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-צלסי-תלבושת-שלישית-25-26-ילדים): חליפת כדורגל צ'לסי שלישית 25/26 לילדים כוללת חולצה ומכנסיים קצרים בהשראת התלבושת של שחקני הקבוצה בצבעי שחור כחול וכסף החולצה והמכנסיים עשויים 100% פוליאסטר קל ונושם המנדף זיעה ושומר על תחושת רעננות לאורך כל אימון או משחק החליפה אידיאלית לילדים שרוצים להרגיש כמו הכוכבים של הקבוצה ולהראות גאווה בבלוז
-  Updated: 2025-10-02T11:28:23Z
+  Updated: 2025-10-02T12:12:18Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_3e021742-54ec-4a31-92e4-64250467df04.jpg?v=1756121921
   - [2-3Y](https://www.rsport.co.il/products/חליפת-כדורגל-צלסי-תלבושת-שלישית-25-26-ילדים?variant=47649455341818)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [4-5Y](https://www.rsport.co.il/products/חליפת-כדורגל-צלסי-תלבושת-שלישית-25-26-ילדים?variant=47649455374586)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [6-7Y](https://www.rsport.co.il/products/חליפת-כדורגל-צלסי-תלבושת-שלישית-25-26-ילדים?variant=47649455407354)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [8-9Y](https://www.rsport.co.il/products/חליפת-כדורגל-צלסי-תלבושת-שלישית-25-26-ילדים?variant=47649455440122)
     Availability: Available
-    Price: ‏170.00 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת כדורגל צ'לסי תלבושת שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-צלסי-תלבושת-שלישית-25-26-גוניורס): חולצה שלישית של צ'לסי לילדים ג'וניורס לעונת 25/26 בהשראת עיצובי התלבושת השלישית של הקבוצה מגיעה בגזרה מותאמת לילדים עם בד 100% פוליאסטר קל ונושם המנדף זיעה ומספק נוחות מרבית בזמן משחק, אימון או לבוש יומיומי החולצה משלבת את צבעי הקבוצה השחור כחול וכסף ומאפשרת לילדים להרגיש חלק מהקבוצה ולהראות גאווה בבלוז
   Updated: 2025-10-02T11:28:23Z
   Vendor: R:SPORT
@@ -44031,77 +44031,77 @@
     Availability: Not Available
     Price: ‏1,499.00 ‏₪ ILS
 - [חולצת בית מונקו 25/26 | גברים](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים): חולצת הבית של מונקו לעונת 25/26 מגיעה בעיצוב האייקוני בצבעי אדום ולבן עם נגיעות זהב ייחודיות. היא עשויה מבד איכותי ונושם השומר על נוחות מקסימלית במהלך משחקים ופעילות ספורטיבית, עם גזרה ספורטיבית שמתאימה גם ליום-יום. פרטי עיצוב מודרניים מעניקים לה מראה אלגנטי ומרשים, שמשלב מסורת עם עדכניות.
-  Updated: 2025-09-26T05:45:50Z
+  Updated: 2025-10-02T12:25:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_13e69c20-792e-4fc8-8135-8842a59924d7.jpg?v=1756494129
   - [S](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים?variant=47671779164410)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים?variant=47671779197178)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים?variant=47671779229946)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים?variant=47671779262714)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים?variant=47671779295482)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-בית-מונקו-25-26-גברים?variant=47671779328250)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
 - [חולצת חוץ מונקו 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים): חולצת החוץ של מונקו לעונת 25/26 מעוצבת בגוון כחול עמוק עם נגיעות זהב אלגנטיות, שמעניקות לה מראה מודרני ויוקרתי. החולצה עשויה מבד נושם וקליל המבטיח נוחות מירבית גם במהלך משחק אינטנסיבי וגם בשימוש יום-יומי. הגזרה הספורטיבית והעיצוב החדשני משלבים בין סטייל ייחודי לבין פונקציונליות גבוהה, כך שתוכלו להרגיש חלק מהמועדון בכל מקום.
-  Updated: 2025-09-26T05:45:50Z
+  Updated: 2025-10-02T12:25:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_32b3064b-2c4b-4806-afd6-0fd7e0a46bd5.jpg?v=1756494544
   - [S](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים?variant=47671790338298)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים?variant=47671790371066)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים?variant=47671790403834)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים?variant=47671790436602)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים?variant=47671790469370)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-חוץ-מונקו-25-26-גברים?variant=47671790502138)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
 - [חולצת כדורגל מונקו שלישית  25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים): חולצת התלבושת השלישית של מונקו לעונת 25/26 מציגה עיצוב עדכני ונועז שמדגיש את הרוח החדשנית של המועדון. הבד הקליל והמאוורר מעניק תחושת נוחות מקסימלית, בעוד הגזרה הספורטיבית מותאמת גם לפעילות אינטנסיבית על המגרש וגם ללבישה יומיומית. עם שילוב צבעים ייחודי שמוסיף אופי וסגנון, החולצה מהווה פריט חובה לכל אוהד שמחפש להביע גאווה במונקו בצורה מודרנית ואופנתית.
-  Updated: 2025-09-26T05:45:50Z
+  Updated: 2025-10-02T12:25:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_872f5b85-3caf-4c90-8925-929c7ff8ea76.jpg?v=1756494679
   - [S](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים?variant=47671797252346)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים?variant=47671797285114)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים?variant=47671797317882)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים?variant=47671797350650)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים?variant=47671797383418)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-כדורגל-מונקו-שלישית-25-26-גברים?variant=47671797416186)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
 - [מכנסיים קצרים מונקו בית 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-מונקו-בית-25-26-גברים): מכנסי התלבושת הביתית של מונקו לעונת 25/26 מגיעים בעיצוב נקי ולבן שמשתלב בצורה מושלמת עם החולצה הביתית. הבד הקליל והנושם מאפשר חופש תנועה מלא ומעניק נוחות אידיאלית במהלך משחק או אימון. הגזרה הספורטיבית שומרת על מראה אלגנטי לצד פונקציונליות גבוהה, כך שתוכלו ליהנות גם מסגנון וגם מביצועים.
   Updated: 2025-09-26T05:45:50Z
   Vendor: R:SPORT
@@ -44154,68 +44154,68 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [חולצת משחק ליל בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ליל-בית-25-26-גברים): חולצת משחק ליל בית 25/26 בצבעי אדום לבן עשויה מבד קל ונושם לנוחות מירבית בזמן משחק או פעילות ספורטיבית עם גזרה ספורטיבית לחופש תנועה מלא ועיצוב מודרני המשלב את צבעי המועדון האיקוניים.
-  Updated: 2025-09-28T10:09:00Z
+  Updated: 2025-10-02T12:25:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_8b760472-a76d-4034-92e5-8bcf7436d039.jpg?v=1756544360
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ליל-בית-25-26-גברים?variant=47673951256826)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ליל-בית-25-26-גברים?variant=47673951289594)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ליל-בית-25-26-גברים?variant=47673951322362)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ליל-בית-25-26-גברים?variant=47673951355130)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ליל-בית-25-26-גברים?variant=47673951387898)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏145.00 ‏₪ ILS
 - [חולצת משחק ליל חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ליל-חוץ-25-26-גברים): חולצת משחק ליל חוץ 25/26 בצבעי אוף וייט אדום וכחול עשויה מבד נושם וקליל לנוחות מקסימלית בזמן משחק או פעילות יומיומית עם עיצוב אלגנטי שמשלב את צבעי המועדון ומעניק מראה מודרני וספורטיבי.
-  Updated: 2025-09-26T05:45:50Z
+  Updated: 2025-10-02T12:25:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_7652c92d-1192-49bc-a9c9-8cf68da5c479.jpg?v=1756543577
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ליל-חוץ-25-26-גברים?variant=47673963282682)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ליל-חוץ-25-26-גברים?variant=47673963315450)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ליל-חוץ-25-26-גברים?variant=47673963348218)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ליל-חוץ-25-26-גברים?variant=47673963380986)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ליל-חוץ-25-26-גברים?variant=47673963413754)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת משחק ליל שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ליל-שלישית-25-26-גברים): חולצת משחק ליל שלישית 25/26 בצבעי כחול כהה, זהב ושחור עשויה מבד קל ונושם לנוחות מקסימלית בזמן משחק או אימון עם עיצוב ספורטיבי שמשלב את צבעי המועדון בצורה מודרנית ומרשימה.
-  Updated: 2025-09-26T05:46:52Z
+  Updated: 2025-10-02T12:25:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_d38d56c5-feae-402a-afd4-5b45b71030fc.jpg?v=1756543740
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ליל-שלישית-25-26-גברים?variant=47673965674746)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ליל-שלישית-25-26-גברים?variant=47673965707514)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ליל-שלישית-25-26-גברים?variant=47673965740282)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ליל-שלישית-25-26-גברים?variant=47673965773050)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ליל-שלישית-25-26-גברים?variant=47673965805818)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [מכנסיים קצרים ליל בית 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-ליל-בית-25-26-גברים): מכנסיים קצרים ליל בית 25/26 בצבעים תואמי החולצה עשויים מבד קל ונושם לנוחות מרבית בזמן משחק או אימון עם גזרה ספורטיבית לחופש תנועה מלא ועיצוב שמשלים את מראה המועדון.
   Updated: 2025-09-26T05:46:52Z
   Vendor: R:SPORT
@@ -44259,116 +44259,116 @@
     Availability: Available
     Price: ‏89.90 ‏₪ ILS
 - [חולצת משחק ניס בית 25/26 גברים](https://www.rsport.co.il/products/חולצת-משחק-ניס-בית-25-26-גברים): חולצת משחק ניס בית 25/26 לגברים בצבעי אדום, שחור ולבן, עשויה 100% פוליאסטר לנוחות מרבית בזמן משחק.
-  Updated: 2025-09-26T05:46:52Z
+  Updated: 2025-10-02T12:25:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_eebcea35-ad89-4b03-891c-acdd19b4ada8.jpg?v=1756546320
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ניס-בית-25-26-גברים?variant=47674085933306)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ניס-בית-25-26-גברים?variant=47674085966074)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ניס-בית-25-26-גברים?variant=47674085998842)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ניס-בית-25-26-גברים?variant=47674086031610)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ניס-בית-25-26-גברים?variant=47674086064378)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת משחק ניס חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ניס-חוץ-25-26-גברים): גלה את חולצת משחק ניס חוץ 25/26 לגברים - נוחות מירבית וסגנון מודרני בצבעי המועדון.
-  Updated: 2025-09-26T05:46:52Z
+  Updated: 2025-10-02T12:25:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/21_01641e31-7497-4009-8942-3b4b3e596080.jpg?v=1756546528
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ניס-חוץ-25-26-גברים?variant=47674097598714)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ניס-חוץ-25-26-גברים?variant=47674097631482)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ניס-חוץ-25-26-גברים?variant=47674097664250)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ניס-חוץ-25-26-גברים?variant=47674097697018)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ניס-חוץ-25-26-גברים?variant=47674097729786)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת ניס שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ניס-שלישית-25-26-גברים): חולצת משחק ניס שלישית 25/26 לגברים, עשויה פוליאסטר קל ונושם, מציעה נוחות ועיצוב דינמי.
-  Updated: 2025-09-26T05:46:52Z
+  Updated: 2025-10-02T12:25:52Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_9dd67ca7-32b6-4712-820c-f754874b1c4a.jpg?v=1756546651
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ניס-שלישית-25-26-גברים?variant=47674097795322)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ניס-שלישית-25-26-גברים?variant=47674097828090)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ניס-שלישית-25-26-גברים?variant=47674097860858)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ניס-שלישית-25-26-גברים?variant=47674097893626)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ניס-שלישית-25-26-גברים?variant=47674097926394)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת משחק אולימפיק ליון בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים): חולצת משחק אולימפיק ליון לבית 25/26, איכותית ונוחה, בצבעי המועדון. אידיאלית לאוהדים ולשחקנים.
-  Updated: 2025-09-26T05:46:52Z
+  Updated: 2025-10-02T12:25:52Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_9fd7dc54-0225-408a-9184-602d42617745.jpg?v=1757282407
   - [S](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים?variant=47677566124282)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים?variant=47677566157050)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים?variant=47677566189818)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים?variant=47677566222586)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים?variant=47677566255354)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-בית-25-26-גברים?variant=47677566288122)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת משחק אולימפיק ליון חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים): חולצת משחק אולימפיק ליון חוץ 25/26 לגברים, עשויה פוליאסטר קל ונושם עם עיצוב מרשים וצבעי הקבוצה.
-  Updated: 2025-09-26T05:46:52Z
+  Updated: 2025-10-02T12:25:52Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/32_4eb9f536-cd6e-44f7-80eb-b95f4a18c847.jpg?v=1757282403
   - [S](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים?variant=47677820731642)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים?variant=47677820764410)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים?variant=47677820797178)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים?variant=47677820829946)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים?variant=47677820862714)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-אולימפיק-ליון-חוץ-25-26-גברים?variant=47677820895482)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חליפת כדורגל ילדים אולימפיק ליון בית 25/26](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-אולימפיק-ליון-בית-25-26): חליפת כדורגל ילדים אולימפיק ליון בית 25/26 כוללת חולצת משחק ומכנסיים בצבעי לבן, אדום וכחול עשויה מבד פוליאסטר קל ונושם המאפשר נוחות מירבית גם בזמן משחק וגם ביום יום בעיצוב מודרני שמציג את צבעי המועדון בגאווה החליפה מתאימה במיוחד לאוהדים הצעירים שרוצים להרגיש חלק מהקבוצה על המגרש וביציע
   Updated: 2025-10-02T11:28:27Z
   Vendor: R:SPORT
@@ -44472,101 +44472,101 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [חולצת בית אולימפיק מרסיי 25/26 | גברים](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים): גלה את חולצת בית אולימפיק מרסיי 25/26 לנוחות מקסימלית, סגנון אופנתי ועיצוב המבטא את אהבתך לקבוצתך.
-  Updated: 2025-09-26T05:47:56Z
+  Updated: 2025-10-02T12:25:52Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_4a9b152d-9c91-40be-8b4e-dbd77dc1ebe8.jpg?v=1757282384
   - [S](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678422614266)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678422647034)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678422679802)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678422712570)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678422745338)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678422778106)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת חוץ אולימפיק מרסיי 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים): חולצת חוץ אולימפיק מרסיי 25/26 לגברים, 100% פוליאסטר לנוחות מקסימלית ואווירת תחושות יובש וסטייל בכל אימון.
-  Updated: 2025-09-26T05:47:56Z
+  Updated: 2025-10-02T12:25:51Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_41d7d175-fe1e-4b0f-842d-27b5e62a819a.jpg?v=1757282378
   - [S](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים?variant=47678440210682)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים?variant=47678440243450)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים?variant=47678440276218)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים?variant=47678440308986)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים?variant=47678440341754)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-חוץ-אולימפיק-מרסיי-25-26-גברים?variant=47678440374522)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת אולימפיק מרסיי שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים): חולצת אולימפיק מרסיי שלישית 25/26 עשויה 100% פוליאסטר קל ונושם לנוחות מירבית ותחושת יובש בזמן משחק או אימון, בגזרה רגילה המאפשרת חופש תנועה מלא עם עיצוב ספורטיבי ומרענן שמשלב את צבעי הקבוצה ותומך באוהדים שרוצים להרגיש חלק מהקבוצה על המגרש ובחיי היום יום.
-  Updated: 2025-09-26T05:47:56Z
+  Updated: 2025-10-02T12:25:52Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/51_af31e12f-0fca-40ec-8932-5d9eabd6fef0.jpg?v=1757282373
   - [S](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים?variant=47678450925818)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים?variant=47678450958586)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים?variant=47678450991354)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים?variant=47678451024122)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים?variant=47678451056890)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-אולימפיק-מרסיי-שלישית-25-26-גברים?variant=47678451089658)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת משחקי בית אולימפיק מרסיי 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים): חולצת המשחקים הביתית האותנטית של אולימפיק מרסיי 24/25 בעיצוב מודרני בצבעי המועדון הקלאסיים. עשויה מ-100% פוליאסטר מנדף לחות, שמספק נוחות ושמירה על יובש לאורך כל המשחק. עם גזרה צמודה שמספקת חופש תנועה אופטימלי, החולצה אידיאלית עבור אוהדים ושחקנים כאחד, שרוצים להרגיש כמו חלק מהקבוצה ולהתפאר בלוק ספורטיבי ומרשים.
-  Updated: 2025-10-02T11:27:55Z
+  Updated: 2025-10-02T12:25:51Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_837b772f-b1fe-40b2-9603-686c812e4503.jpg?v=1757282368
   - [S](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678463901946)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678463934714)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678463967482)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678464000250)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678464033018)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-אולימפיק-מרסיי-25-26-גברים?variant=47678464065786)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת משחקי חוץ אולימפיק מרסיי 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-אולימפיק-מרסיי-25-26-גברים): חולצת משחקי חוץ אולימפיק מרסיי 25/26 בעיצוב בהשראת גרסת השחקנים שמופיעה על המגרש, עשויה 100% פוליאסטר קל ונושם שמספק נוחות מירבית ותחושת יובש לאורך כל המשחק או האימון. החולצה בגזרה צמודה שמעניקה חופש תנועה מלא ומאפשרת לאוהדים להרגיש כמו השחקנים וללבוש מראה ספורטיבי ומרשים עם הצבעים המסורתיים של המועדון.
   Updated: 2025-10-02T11:27:55Z
   Vendor: R:SPORT
@@ -44643,32 +44643,32 @@
     Availability: Available
     Price: ‏149.90 ‏₪ ILS
 - [חולצת פריז סן ז'רמן תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים): הראה את תמיכתך בפריז סן ז'רמן תמוך בקבוצה במגרש ומחוץ למגרש החולצה תלבושת שלישית 25/26 לגברים בגווני אדום וכחול עשויה 100% פוליאסטר קל ונושם המספק נוחות מירבית ותחושת יובש לאורך כל המשחק או האימון הגזרה רגילה ומאפשרת חופש תנועה מלא עם עיצוב שמשלב את צבעי הקבוצה בצורה ברורה ומרשימה מושלמת לאוהדים שרוצים להרגיש חלק מהקבוצה על המגרש ובחיי היום יום
-  Updated: 2025-09-26T05:47:57Z
+  Updated: 2025-10-02T12:25:51Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/55_2287ff35-7f84-47da-abb9-367004001152.jpg?v=1757282343
   - [S](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583083258)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583116026)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583148794)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583181562)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583214330)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583247098)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-תלבושת-שלישית-25-26-גברים?variant=47702583279866)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
 - [חולצת משחקי פריז סן ז'רמן שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-פריז-סן-זרמן-שלישית-25-26-גברים): הראה את תמיכתך בפריז סן ז'רמן תמוך בקבוצה במגרש ומחוץ למגרש החולצה משחקי שלישית 25/26 לגברים בצבעי אדום וכחול בהשראת החולצות של השחקנים הגזרה צמודה עשויה 100% פוליאסטר קל ונושם המעניק תחושת נוחות מקסימלית ושמירה על יובש במהלך המשחק או האימון העיצוב מאפשר חופש תנועה מלא ומתאים לאוהדים שרוצים להיות חלק מהקבוצה על המגרש ובחיי היום יום
   Updated: 2025-10-02T11:27:56Z
   Vendor: R:SPORT
@@ -45135,32 +45135,32 @@
     Availability: Available
     Price: ‏799.00 ‏₪ ILS
 - [חולצת אתלטיקו מדריד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים): חולצת אתלטיקו מדריד תלבושת שלישית 25/26 | גברים, בעיצוב ייחודי ונוחות מקסימלית בכל משחק.
-  Updated: 2025-10-02T11:27:57Z
+  Updated: 2025-10-02T12:25:50Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_3_2_f05499f9-a002-4273-9bdf-b0e1b5c6fd12.webp?v=1757942357
   - [S](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924559098)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924591866)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924624634)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924657402)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924690170)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924722938)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
   - [XXXXL](https://www.rsport.co.il/products/חולצת-אתלטיקו-מדריד-תלבושת-שלישית-25-26-גברים?variant=47721924755706)
     Availability: Available
-    Price: ‏89.90 ‏₪ ILS
+    Price: ‏160.00 ‏₪ ILS
 - [חולצת משחק אותנטית אתלטיקו מדריד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-אותנטית-אתלטיקו-מדריד-שלישית-25-26-גברים): חולצת כדורגל משחקי אתלטיקו מדריד שלישית לעונת 2025/26 בגרסת שחקן עם גזרה צמודה המדמה את החולצה שלובשים הכוכבים על המגרש עשויה 100% פוליאסטר קל ונושם בטכנולוגיה מתקדמת לנידוף זיעה שמעניקה תחושת יובש ונוחות גם ברגעי מאמץ אינטנסיביים העיצוב בגווני כחול לבן ואדום משלב אלמנטים מודרניים עם הזהות המזוהה של אתלטיקו הסמל מתנוסס על החזה ואפשר להוסיף שם מספר או לבחור שחקן אהוב להתאמה אישית מושלם לאוהדים שרוצים להרגיש חלק מהמשחק עצמו וללבוש את הצבעים בגאווה בכל מקום
   Updated: 2025-10-02T11:27:57Z
   Vendor: R:SPORT
@@ -45587,29 +45587,29 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת משחקי באיירן מינכן חוץ 2025/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים): הראה את תמיכתך בבאיירן מינכן במגרש ומחוץ למגרש עם חולצת החוץ לעונת 2025/26 לגברים בעיצוב מודרני בצבעי שחור אדום וירוק גרסת שחקן בגזרה צמודה שמדגישה חופש תנועה ונוחות בזמן משחק החולצה עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים מרשים שמביא מראה מקצועי ותומך באוהדים שרוצים ללבוש את הצבעים בגאווה בכל מקום
-  Updated: 2025-09-26T23:17:11Z
+  Updated: 2025-10-02T12:25:50Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_0198add2-05f5-4a8f-ab9c-8954f06a8ce8.webp?v=1758379166
   - [S](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409396474)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409429242)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409462010)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409494778)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409527546)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-באיירן-מינכן-חוץ-2025-26-גברים?variant=47734409560314)
     Availability: Available
-    Price: ‏109.90 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
 - [חולצת כדורגל באיירן מינכן חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-באיירן-מינכן-חוץ-25-26-גוניורס-1): הראה את התמיכה שלך בבאיירן מינכן עם חולצת החוץ לילדים ונוער לעונת 2025/26 בעיצוב מקצועי בגווני שחור אדום וירוק החולצה בגזרה רגילה לנוחות מרבית וחופש תנועה במהלך אימונים ומשחקים עשויה 100% פוליאסטר קל ונושם עם סמל המועדון על החזה שילוב צבעים דינמי שמביא מראה מודרני ותומך באוהדים הצעירים שרוצים ללבוש את צבעי הקבוצה בגאווה
   Updated: 2025-09-26T23:17:07Z
   Vendor: R:SPORT
@@ -45713,26 +45713,26 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחק ויאריאל בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-בית-25-26-גברים): תמוך בקבוצה במגרש ומחוץ למגרש עם חולצת המשחק של ויאריאל לבית עונת 25/26. החולצה בהשראת התלבושת שהשחקנים לובשים, עם עיצוב בגווני צהוב בוהק ופרטים כחולים שמחזיקים את המראה המזוהה של המועדון. הבד קל ונושם, עשוי 100% פוליאסטר, ומספק נוחות מירבית ותחושת יובש לאורך כל המשחק או האימון. הגזרה רגילה ומאפשרת חופש תנועה מלא, מתאימה גם לפעילות יומיומית או לאימון. סמל ויאריאל מופיע על החזה, ויש אפשרות להתאים את החולצה אישית עם שם, מספר או לבחור שחקן אהוב להדפסה. אידאלית לאוהדים שרוצים להרגיש חלק מהקבוצה בכל רגע.
-  Updated: 2025-09-28T09:37:59Z
+  Updated: 2025-10-02T13:14:27Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_2429de7f-cecf-4a29-a95c-b9da7742395b.jpg?v=1759009098
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-בית-25-26-גברים?variant=47774143676666)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-בית-25-26-גברים?variant=47774143709434)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-בית-25-26-גברים?variant=47774143742202)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-בית-25-26-גברים?variant=47774143774970)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-בית-25-26-גברים?variant=47774143807738)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
 - [חליפת כדורגל ילדים ויאריאל בית 25/26](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-ויאריאל-בית-25-26): ‏חליפת כדורגל לילדים בעיצוב נוח ואיכותי המשלבת סטייל ספורטיבי עם חופש תנועה למגרש ולפעילות יומיומית
   Updated: 2025-10-02T11:51:55Z
   Vendor: R:SPORT
@@ -45788,26 +45788,26 @@
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
 - [חולצת משחק ויאריאל חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים): חולצת המשחק של ויאריאל חוץ עונת 25/26 לגברים מציעה נוחות מקצועית ומראה מודרני בהשראת התלבושת שהשחקנים לובשים. הבד עשוי 100% פוליאסטר קל ונושם, המעניק תחושת יובש ונוחות לאורך כל המשחק או האימון. הגזרה רגילה ומאפשרת חופש תנועה מלא, כך שהיא מתאימה גם לאימונים וגם לשימוש יומיומי. העיצוב שומר על זהות המועדון עם פרטים מודרניים המדגישים את סגנון הקבוצה. סמל ויאריאל מופיע על החזה, עם אפשרות להתאים אישית שם, מספר או לבחור שחקן אהוב להדפסה, כך שתוכל להרגיש חלק מהקבוצה בכל פעילות.
-  Updated: 2025-09-28T09:49:39Z
+  Updated: 2025-10-02T13:14:27Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_faa406d0-31ba-46cf-95bb-789eb5d82090.jpg?v=1759009728
   - [S](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים?variant=47774213341434)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים?variant=47774213374202)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים?variant=47774213406970)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים?variant=47774213439738)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ויאריאל-חוץ-25-26-גברים?variant=47774213472506)
     Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+    Price: ‏150.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
   Updated: 2025-09-30T01:24:19Z
   Vendor: R:SPORT
@@ -45953,22 +45953,22 @@
 ## Collections
 
 - [ליגה אנגלית חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ליגה-אנגלית): המבחר הגדול ביותר של חולצות ומוצרי כדורגל מהליגה האנגלית – עכשיו באר ספורט מציעים לכם מגוון רחב של חולצות כדורגל מהפרמייר ליג, כולל חולצות משחק רשמיות, חולצות אוהד, חליפות ילדים, אימוניות, מעילי רוח, חולצות שוער, חולצות עבר, בגדי תינוקות ועוד. כל המוצרים באיכות הגבוהה ביותר ובמחירים אטרקטיביים. תמצאו כאן את המותגים של הקבוצות הגדולות בעולם – מנצ'סטר סיטי, מנצ'סטר יונייטד, ליברפול, ארסנל, צ'לסי, טוטנהאם ועוד.
-  Updated: 2025-10-02T11:52:13Z
+  Updated: 2025-10-02T12:34:21Z
   Total Products: 227
 - [ארסנל חולצות כדורגל, חליפות ספורט ומוצרי אוהדים | Arsenal FC](https://www.rsport.co.il/collections/ארסנל): חולצות ארסנל, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מבחר רחב של מוצרים לאוהדי Arsenal איכות, סטייל ונאמנות למועדון.
   Updated: 2025-10-02T11:51:59Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T13:33:14Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
-  Updated: 2025-09-24T19:15:59Z
+  Updated: 2025-10-02T12:34:20Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-10-02T11:52:14Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 333
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
-  Updated: 2025-10-02T11:52:13Z
+  Updated: 2025-10-02T12:12:20Z
   Total Products: 37
 - [מנצ'סטר יונייטד](https://www.rsport.co.il/collections/מנצסטר-יונייטד): גלה מגוון חולצות מנצ’סטר יונייטד לגברים, נשים וילדים. חולצות בית, חוץ, שלישיות וחולצות שוער. הדפסה עם שם ומספר של שחקנים או בהתאמה אישית. משלוח מהיר, אפשרות החלפה קלה. קנה עכשיו ב־ RSPORT
   Updated: 2025-10-02T11:52:12Z
@@ -45977,10 +45977,10 @@
   Updated: 2025-10-02T11:30:51Z
   Total Products: 44
 - [חולצות כדורגל ליברפול ומוצרי ספורט | איכות ומבחר למעריצים](https://www.rsport.co.il/collections/ליברפול): גלו את קולקציית חולצות הכדורגל של ליברפול לעונת 25/26 ומוצרי ספורט נבחרים. מבחר פריטים איכותיים ומעודכנים לכל אוהדי המועדון
-  Updated: 2025-10-02T11:52:01Z
+  Updated: 2025-10-02T12:34:21Z
   Total Products: 36
 - [חולצות מילאן ומוצרי ספורט | Ac Milan](https://www.rsport.co.il/collections/מילאן): רכוש את חולצת מילאן המועדפת עליך. מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת מילאן במחירים משתלמים
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T12:34:16Z
   Total Products: 41
 - [טוטנהאם חולצות כדורגל, חליפות ומוצרי ספורט | Tottenham Hotspur](https://www.rsport.co.il/collections/טוטנהאם): חולצות טוטנהאם, חליפות כדורגל ומוצרי אוהדים לקנייה אונליין מאובטחת. מבחר איכותי לכל גיל – אוהדי Tottenham נהנים מסטייל, נוחות ומקצועיות.
   Updated: 2025-10-02T11:52:12Z
@@ -45989,73 +45989,73 @@
   Updated: 2025-10-02T11:52:10Z
   Total Products: 37
 - [אינטר | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אינטר): גלה את חולצות הכדורגל של אינטר מהליגה האיטלקית, בגדי אימון איכותיים לאוהדים. חולצות בית וחוץ עם דגש על נוחות, איכות וסטייל איטלקי ייחודי.
-  Updated: 2025-10-02T11:52:11Z
+  Updated: 2025-10-02T12:34:20Z
   Total Products: 46
 - [רומא](https://www.rsport.co.il/collections/רומא): רומא הוא מועדון עם היסטוריה מפוארת, תשוקה אדירה ומסורת של כדורגל התקפי מרהיב. כאן תוכל למצוא את מגוון החולצות והאביזרים שמחברים אותך למועדון... הצג עוד רומא הוא לא רק מועדון כדורגל – זו תרבות של עוצמה, גאווה ורוח צעירה לצד מסורת אליפויות מרתקת. כאן תוכל למצוא את כל החולצות – בית, חוץ ושלישיות, בנוסף לחולצות אימון וחולצות לילדים בעיצוב מרהיב. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולבצע הצהרה של סטייל וגאווה בכל הזדמנות. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות והאהבה למועדון. לבש את צבעי רומא בגאווה. הצג פחות רומא הוא מועדון עם היסטוריה מפוארת, תשוקה אדירה ומסורת של כדורגל התקפי מרהיב... הצג עוד רומא הוא לא רק מועדון כדורגל – זו תרבות של עוצמה, גאווה ורוח צעירה לצד מסורת אליפויות מרתקת. כאן תוכל למצוא את כל החולצות – בית, חוץ ושלישיות, בנוסף לחולצות אימון וחולצות לילדים בעיצוב מרהיב. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולבצע הצהרה של סטייל וגאווה בכל הזדמנות. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות והאהבה למועדון. לבש את צבעי רומא בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #a91c1c; /* צבע רומא כהה */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.querySelector('.short-text-desktop'); const fullDesktop = document.querySelector('.full-text-desktop'); const showMoreDesktop = document.querySelector('.toggle-btn-desktop'); const showLessDesktop = document.querySelector('.toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
-  Updated: 2025-10-02T11:51:58Z
+  Updated: 2025-10-02T13:33:14Z
   Total Products: 24
 - [נאופלי](https://www.rsport.co.il/collections/נאופלי)
-  Updated: 2025-10-02T11:51:58Z
+  Updated: 2025-10-02T12:34:14Z
   Total Products: 18
 - [חולצות כדורגל ברצלונה ומוצרי ספורט של המועדון מבחר רחב של פריטים](https://www.rsport.co.il/collections/ברצלונה): רכוש את חולצת ברצלונה המועדפת עליך האתר המוביל למוצרי ספורט איכותיים תמצא מגוון רחב של חולצות כדורגל, בגדי אימון וציוד ספורט של קבוצת ברצלונה במחירים משתלמים. אל תפספס  היכנס עכשיו ותהיה חלק מההיסטוריה של המועדון
-  Updated: 2025-10-02T11:52:06Z
+  Updated: 2025-10-02T12:34:17Z
   Total Products: 68
 - [חולצות כדורגל ומוצרי ספורט של הליגה הספרדית](https://www.rsport.co.il/collections/ליגה-ספרדית): גלה את המבחר הגדול של חולצות כדורגל מהליגה הספרדית – ברצלונה, ריאל מדריד, אתלטיקו מדריד ועוד
-  Updated: 2025-10-02T11:52:12Z
+  Updated: 2025-10-02T12:34:20Z
   Total Products: 144
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
-  Updated: 2025-10-02T11:52:11Z
+  Updated: 2025-10-02T13:33:14Z
   Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
-  Updated: 2025-10-02T11:52:12Z
+  Updated: 2025-10-02T12:34:20Z
   Total Products: 105
 - [אתלטיקו מדריד](https://www.rsport.co.il/collections/אתלטיקו-מדריד): חולצת אתלטיקו מדריד היא הרבה יותר מפריט לבוש זו הצהרת אהבה לקבוצה אדומה-לבנה עם אופי לוחמני ומסורת מרגשת. בקטגוריה הזו תמצאו מגוון רחב של חולצות אתלטיקו מדריד לגברים, נשים וילדים, לצד חליפות כדורגל, בגדי אימון ואביזרים שישלימו את ההופעה שלכם כאוהדים אמיתיים. כל הפריטים עשויים מחומרים איכותיים ומעוצבים בהשראת הקבוצה מהוונדה מטרופוליטנו כדי שתוכלו להתחבר לרוח של אתלטיקו, בכל מקום.
-  Updated: 2025-10-02T11:52:11Z
+  Updated: 2025-10-02T12:25:51Z
   Total Products: 22
 - [פריז סן ז'רמן](https://www.rsport.co.il/collections/פריז-סן-זרמן): פריז סן ז’רמן, הידועה גם כ-PSG, היא אחת הקבוצות הפופולריות ביותר בליגת העל הצרפתית – ואולי בעולם כולו. אם גם אתה, כמו מיליונים אחרים, אוהד של המועדון הצרפתי המוביל, הגעת למקום הנכון. בחנות המקוונת שלנו תמצא את הפריטים הטובים, הייחודיים והעדכניים ביותר של פריז סן ז’רמן החל מחולצות כדורגל ומדים, בגדי אימון ועד אביזרים כמו מחזיקי מפתחות. כל זה במחירים מעולים.
-  Updated: 2025-10-02T11:52:11Z
+  Updated: 2025-10-02T12:25:53Z
   Total Products: 70
 - [ליגה צרפתית](https://www.rsport.co.il/collections/ליגה-צרפתית)
-  Updated: 2025-10-02T11:52:14Z
+  Updated: 2025-10-02T12:25:55Z
   Total Products: 114
 - [באיירן מינכן](https://www.rsport.co.il/collections/באיירן-מינכן): אחת הקבוצות הגדולות והאהובות באירופה, עם מסורת מנצחת וכדורגל מרגש. אם גם אתם חלק מצבא האוהדים של "הכוכב הדרומי" הגעתם למקום הנכון, כאן תמצאו מגוון רחב של חולצות כדורגל של באיירן מינכן, כולל דגמי בית, חוץ ושלישית מהעונות האחרונות, לצד חליפות ילדים, חולצות אימון ועוד פריטים מעוצבים באווירת המועדון, החולצות מתאימות לאימונים, למשחקים או כפריט אופנתי לחובבי הקבוצה.
-  Updated: 2025-10-02T11:52:03Z
+  Updated: 2025-10-02T12:25:51Z
   Total Products: 63
 - [ליגה גרמנית](https://www.rsport.co.il/collections/ליגה-גרמנית): כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר... הצג עוד כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר. כל הדגמים זמינים במידות שונות, עם אפשרות להדפיס שם ומספר בהתאמה אישית – בין אם של שחקן אהוב ובין אם שלכם. בין אם אתה מחפש חולצת אוהד או חולצת שחקן, לתמוך בקבוצה שלך בסטייל – כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר... הצג עוד כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר. כל הדגמים זמינים במידות שונות, עם אפשרות להדפיס שם ומספר בהתאמה אישית – בין אם של שחקן אהוב ובין אם שלכם. בין אם אתה מחפש חולצת אוהד או חולצת שחקן, לתמוך בקבוצה שלך בסטייל – כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T12:25:51Z
   Total Products: 136
 - [בורוסיה דורטמונד](https://www.rsport.co.il/collections/בורוסיה-דורטמונד): בורוסיה דורטמונד – אחת הקבוצות המלהיבות ביותר בבונדסליגה, שמביאה איתה אנרגיה בלתי נגמרת, רוח לחימה ויכולת מרשימה על המגרש. הקבוצה הצהובה-שחורה תמיד ידועה בהתקפה הדינמית ובמשחק האנרגטי שלה. כאן תוכלו למצוא את חולצות המשחק המפורסמות, חולצות אוהדים, חולצות אימון מקצועיות, חולצות שוער ועוד. תנו לנו לעזור לכם להראות את התמיכה בקבוצה שלכם בכל רגע – על המגרש, באימון או ביום יום. הצג עוד בורוסיה דורטמונד היא קבוצה בעלת מסורת עשירה בכדורגל הגרמני, עם שחקנים מוכשרים ששמים את המועדון על המפה העולמית. החולצות שלה, בעיצוב הצהוב-שחור האייקוני, הן סמל לאוהדים בכל רחבי העולם. אנחנו מציעים מגוון רחב של מוצרים – מחולצות משחק רשמיות ועד חולצות אוהדים בעיצובים מגוונים, חולצות אימון מקצועיות, בגדי ילדים, חולצות שוער ומידות שונות לכל הגילאים. אם אתם אוהדים את דורטמונד או סתם אוהבים את העיצוב שלה, תוכלו למצוא אצלנו את כל מה שצריך כדי להראות את אהבתכם לקבוצה. כל דגם ניתן להדפסה אישית עם שם ומספר של שחקן אהוב או אפילו השם שלכם. ההזמנה קלה ומהירה, השירות שלנו מקצועי, והמשלוח לכל הארץ. בחרו את המוצרים שלכם ותראו את הקבוצה שלכם בגאווה. הצג פחות בורוסיה דורטמונד – אחת הקבוצות המלהיבות ביותר בבונדסליגה, שמביאה איתה אנרגיה בלתי נגמרת, רוח לחימה ויכולת מרשימה על המגרש. הקבוצה הצהובה-שחורה תמיד ידועה בהתקפה הדינמית ובמשחק האנרגטי שלה. כאן תוכלו למצוא את חולצות המשחק המפורסמות, חולצות אוהדים, חולצות אימון מקצועיות, חולצות שוער ועוד... הצג עוד בורוסיה דורטמונד היא קבוצה בעלת מסורת עשירה בכדורגל הגרמני, עם שחקנים מוכשרים ששמים את המועדון על המפה העולמית. החולצות שלה, בעיצוב הצהוב-שחור האייקוני, הן סמל לאוהדים בכל רחבי העולם. אנחנו מציעים מגוון רחב של מוצרים – מחולצות משחק רשמיות ועד חולצות אוהדים בעיצובים מגוונים, חולצות אימון מקצועיות, בגדי ילדים, חולצות שוער ומידות שונות לכל הגילאים. אם אתם אוהדים את דורטמונד או סתם אוהבים את העיצוב שלה, תוכלו למצוא אצלנו את כל מה שצריך כדי להראות את אהבתכם לקבוצה. כל דגם ניתן להדפסה אישית עם שם ומספר של שחקן אהוב או אפילו השם שלכם. ההזמנה קלה ומהירה, השירות שלנו מקצועי, והמשלוח לכל הארץ. בחרו את המוצרים שלכם ותראו את הקבוצה שלכם בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:52:03Z
   Total Products: 23
 - [אנגליה](https://www.rsport.co.il/collections/אנגליה): חולצות הכדורגל והאביזרים של נבחרת אנגליה מבטאים עוצמה, מסורת וגאווה לאומית. עם עיצוב אלגנטי בצבעי הלבן והאדום המזוהים כל כך, תוכל להתחבר לאחת הנבחרות הגדולות בעולם ולהרגיש חלק מהמשחק. בין אם אתה ביציע, ברחוב או עם חברים חולצת נבחרת אנגליה תבליט את התמיכה שלך בדרך הכי בריטית שיש.
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 20
 - [חולצות נבחרת ארגנטינה ומוצרי ספורט | Argentina](https://www.rsport.co.il/collections/ארגנטינה): רכוש עכשיו את חולצת נבחרת ארגנטינה המועדפת עליך ותתחבר ללב האצטדיון מבחר עשיר של חולצות כדורגל, בגדי אימון וציוד ספורט
   Updated: 2025-10-02T11:28:37Z
   Total Products: 22
 - [צרפת](https://www.rsport.co.il/collections/צרפת): חולצות הכדורגל והאביזרים של נבחרת צרפת מבטאים אלגנטיות, עוצמה וגאווה לאומית בצבעי הכחול, הלבן והאדום. כל פריט מאפשר לך להתחבר למסורת ולהיסטוריה של אחת הנבחרות המובילות בעולם ולהרגיש חלק מהמשחק בכל מקום. בין אם ביציע, ברחוב או עם חברים חולצת נבחרת צרפת תבליט את התמיכה שלך בצורה היפה ביותר.
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:18Z
   Total Products: 19
 - [נבחרת ברזיל חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ברזיל): רכוש חולצות כדורגל נבחרת ברזיל – חולצות משחק, אוהדים, חולצות רטרו, חליפות ילדים ועוד במחירים אטרקטיביים ומשלוח מהיר לכל הארץ
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T12:34:15Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
   Updated: 2025-10-02T11:28:37Z
   Total Products: 207
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 150
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T12:34:16Z
   Total Products: 14
 - [אל נאסר | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אל-נאסר): גלה את קולקציית חולצות הכדורגל של אל נאסר מהליגה הסעודית ובגדי ספורט לאוהדים. חולצות בית וחוץ עם עיצובים מרשימים, דגש על נוחות, איכות וסטייל ייחודי של המועדון
   Updated: 2025-10-02T11:30:48Z
   Total Products: 4
 - [נבחרות אירופה](https://www.rsport.co.il/collections/נבחרות-אירופה)
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T12:34:15Z
   Total Products: 60
 - [לידס יונייטד](https://www.rsport.co.il/collections/לידס-יונייטד)
   Updated: 2025-10-02T11:52:13Z
@@ -46070,19 +46070,19 @@
   Updated: 2025-10-02T11:25:56Z
   Total Products: 20
 - [חולצות כדורגל ומוצרי ספורט של נבחרת פורטוגל](https://www.rsport.co.il/collections/פורטוגל): מוצרי נבחרת פורטוגל למונדיאל 2026 – חולצות כדורגל, חולצות אוהדים, חליפות ילדים, אימוניות, מעילים רוח ועוד. כל הציוד של פורטוגל במחירים משתלמים
-  Updated: 2025-10-02T11:28:41Z
+  Updated: 2025-10-02T12:34:17Z
   Total Products: 21
 - [ספרד](https://www.rsport.co.il/collections/ספרד): חולצות הכדורגל והאביזרים של נבחרת ספרד La Roja מבטאים את התשוקה, הכישרון והמסורת העשירה של אחת הנבחרות המובילות בעולם. עם עיצוב אלגנטי בצבעי האדום והזהב, כל פריט מאפשר לך להתחבר לרוח הנבחרת ולתמוך ב-La Roja בגאווה בכל מקום. בין אם ביציע, ברחוב או במשחק עם חברים – חולצת נבחרת ספרד תבליט את ההזדהות שלך בדרך הכי סוחפת שיש.
-  Updated: 2025-10-02T11:52:06Z
+  Updated: 2025-10-02T12:34:17Z
   Total Products: 10
 - [חולצות אימון קצרות](https://www.rsport.co.il/collections/חולצות-אימון-קצרות)
-  Updated: 2025-10-02T11:31:56Z
+  Updated: 2025-10-02T12:34:14Z
   Total Products: 47
 - [הולנד](https://www.rsport.co.il/collections/הולנד): חולצות הכדורגל והאביזרים של נבחרת הולנד מבטאים את הרוח הייחודית של האורנג', עם הצבע הכתום הבוהק והמסורת העשירה. כל פריט משדר תשוקה, עוצמה וגאווה לאומית, ומאפשר לך להתחבר לאחת הנבחרות המשפיעות והאהובות בעולם הכדורגל. בין אם ביציע, ברחוב או במשחק עם חברים חולצת נבחרת הולנד תבליט את התמיכה שלך בצורה בלתי נשכחת.
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:18Z
   Total Products: 17
 - [נאפולי](https://www.rsport.co.il/collections/נאפולי): נאפולי הוא יותר ממועדון – זו אהבה, תשוקה וכדורגל איכותי עם סגנון ייחודי מדרום איטליה. כאן תמצא את כל החולצות והאביזרים שמחברים אותך למועדון... הצג עוד נאפולי (SCC Napoli) הוא סמל של סגנון, מסורת ותשוקה אדירה לכדורגל, שמשלב היסטוריה מפוארת עם רוח צעירה וחדשנית. כאן תוכל למצוא מגוון רחב של חולצות – בית, חוץ ושלישיות – בנוסף לחולצות אימון ולפריטים לילדים בעיצובים מרהיבים. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולהצהיר על גאווה וסטייל בכל מקום. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות למועדון. לבש את צבעי נאפולי בגאווה. הצג פחות נאפולי הוא יותר ממועדון – זו אהבה, תשוקה וכדורגל איכותי מדרום איטליה... הצג עוד נאפולי (SCC Napoli) הוא סמל של סגנון, מסורת ותשוקה אדירה לכדורגל, שמשלב היסטוריה מפוארת עם רוח צעירה וחדשנית. כאן תוכל למצוא מגוון רחב של חולצות – בית, חוץ ושלישיות – בנוסף לחולצות אימון ולפריטים לילדים בעיצובים מרהיבים. כל פריט מאפשר לך להרגיש חלק ממשפחת האוהדים ולהצהיר על גאווה וסטייל בכל מקום. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות למועדון. לבש את צבעי נאפולי בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #1d4d92; /* צבע כחול נאפולי */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.querySelector('.short-text-desktop'); const fullDesktop = document.querySelector('.full-text-desktop'); const showMoreDesktop = document.querySelector('.toggle-btn-desktop'); const showLessDesktop = document.querySelector('.toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
-  Updated: 2025-10-02T11:51:58Z
+  Updated: 2025-10-02T12:34:14Z
   Total Products: 18
 - [גופיות כדורסל](https://www.rsport.co.il/collections/גופיות-כדורסל)
   Updated: 2025-10-02T11:26:59Z
@@ -46109,7 +46109,7 @@
   Updated: 2025-09-18T19:45:58Z
   Total Products: 3
 - [בלגיה](https://www.rsport.co.il/collections/בלגיה): חולצות הכדורגל והאביזרים של נבחרת בלגיה מזמינים אותך להיות חלק מהקסם של השדים האדומים נבחרת עם כוח בלתי נגמר, כישרון יוצא דופן וגאווה לאומית ענקית. עם עיצוב מודרני וייחודי בצבעי האדום, השחור והזהב, כל פריט מבטא את התשוקה, הנחישות והאהבה לכדורגל. תמוך בנבחרת השדים האדומים בגאווה בכל מקום ביציע, ברחוב או עם חברים, ותן לכוח של בלגיה ללוות אותך בכל צעד.
-  Updated: 2025-10-02T11:28:46Z
+  Updated: 2025-10-02T12:34:18Z
   Total Products: 7
 - [בוקה ג’וניורס](https://www.rsport.co.il/collections/בוקה-ג-וניורס): הצטרפו לרוח הלחימה של בוקה ג'וניורס עם הקולקציה המובילה שלנו. בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הצהובה והכחולה האייקונית, החולצה האורחת הלבנה והמהודרת, או החולצה השלישית המיוחדת שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות הצטרפו לרוח הלחימה של בוקה ג'וניורס עם הקולקציה המובילה שלנו. בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הצהובה והכחולה האייקונית, החולצה האורחת הלבנה והמהודרת, או החולצה השלישית המיוחדת שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:52:03Z
@@ -46268,7 +46268,7 @@
   Updated: 2025-10-02T11:30:58Z
   Total Products: 13
 - [ליגה ברזילאית](https://www.rsport.co.il/collections/ליגה-ברזילאית): .br-text-container { position: relative; font-family: 'Heebo', Arial, sans-serif; text-align: right; direction: rtl; margin: 0; } .br-text-content { display: block; } .br-text-toggle { display: none; color: #007aff; cursor: pointer; font-weight: bold; margin-top: 8px; } @media (max-width: 768px) { .br-text-content { max-height: 4.8em; /* בערך 3 שורות */ overflow: hidden; position: relative; } .br-text-container.expanded .br-text-content { max-height: none; } .br-text-toggle { display: inline-block; } } הליגה הברזילאית היא הלב הפועם של הכדורגל הדרום אמריקאי השחקנים הקהל האווירה והסטייל שמתחילים מהרחוב ומגיעים עד ליציעים כאן תמצאו חולצות כדורגל של הקבוצות הכי חמות הכי צבעוניות והכי אהובות בברזיל חולצות בית חוץ ושלישית שעוצבו בשביל אוהדים אמיתיים שחיים ונושמים כדורגל מועדונים כמו פלמנגו סאו פאולו פלומיננסה קורינתיאנס גרמיו אינטרנסיונל אתלטיקו מיניירו ואחרות כל חולצה מביאה איתה סיפור תשוקה ומסורת שנותנת לך להרגיש חלק ממשהו גדול חלק ממועדון חלק מהקהל כל צבע וכל סמל שייך לתרבות אמיתית שזורמת בכדורגל הברזילאי אין דבר שדומה לזה ואין תחליף לרגש הזה אם הכדורגל הברזילאי מדבר אליך תלבש את זה תרגיש את זה ותהיה חלק מהקסם הצג עוד const container = document.getElementById("brTextContainer"); const toggle = document.getElementById("brTextToggle"); toggle.addEventListener("click", function () { container.classList.toggle("expanded"); toggle.textContent = container.classList.contains("expanded") ? "הצג פחות" : "הצג עוד"; });
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:21Z
   Total Products: 111
 - [פלמנגו](https://www.rsport.co.il/collections/פלמנגו): פלמנגו היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה חסרת גבולות. עם קהל עצום ונאמן ורגעים בלתי נשכחים בליגה המקומית, Flamengo מייצגת גאווה ועוצמה בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של פלמנגו, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את האדום והשחור הגעת למקום הנכון.
   Updated: 2025-10-02T11:30:59Z
@@ -46319,7 +46319,7 @@
   Updated: 2025-10-02T11:31:11Z
   Total Products: 3
 - [ויאריאל](https://www.rsport.co.il/collections/ויאריאל)
-  Updated: 2025-10-02T11:51:56Z
+  Updated: 2025-10-02T12:25:51Z
   Total Products: 6
 - [ריאל בטיס](https://www.rsport.co.il/collections/ריאל-בטיס)
   Updated: 2025-10-02T11:31:13Z
@@ -46334,16 +46334,16 @@
   Updated: 2025-09-29T14:21:35Z
   Total Products: 44
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-02T11:52:08Z
+  Updated: 2025-10-02T13:33:14Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-10-02T11:52:14Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 250
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-10-02T11:31:50Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-10-02T11:52:14Z
+  Updated: 2025-10-02T13:33:14Z
   Total Products: 700
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-10-02T11:28:25Z
@@ -46379,7 +46379,7 @@
   Updated: 2025-10-02T11:15:17Z
   Total Products: 6
 - [אולימפיק מרסיי | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אולימפיק-מרסיי): גלה את קולקציית החולצות והאביזרים של אולימפיק מרסיי חולצות בית וחוץ, בגדי אימון איכותיים, נעלי ספורט ואקססוריז לאוהדים בכל הגילאים
-  Updated: 2025-10-02T11:52:14Z
+  Updated: 2025-10-02T12:25:53Z
   Total Products: 19
 - [לידס יונייטד רטרו](https://www.rsport.co.il/collections/לידס-יונייטד-רטרו)
   Updated: 2025-10-02T11:15:21Z
@@ -46391,25 +46391,25 @@
   Updated: 2025-10-02T11:31:23Z
   Total Products: 3
 - [גרמניה](https://www.rsport.co.il/collections/גרמניה): חולצות כדורגל ואביזרים של נבחרת גרמניה Die Mannschaft מבטאים את העוצמה, המצוינות והמסורת של אחת הנבחרות המובילות בעולם. עם עיצוב אלגנטי בצבעי השחור, האדום והזהב, כל פריט מאפשר לך להתחבר לרוח הנבחרת ולתמוך ב-Die Mannschaft בגאווה בכל מקום. בין אם ביציע, ברחוב או במשחק עם חברים חולצת נבחרת גרמניה תשדרג כל מראה ותבליט את התמיכה שלכם בגאווה.
-  Updated: 2025-10-02T11:52:05Z
+  Updated: 2025-10-02T12:34:16Z
   Total Products: 13
 - [פלומיננסה](https://www.rsport.co.il/collections/פלומיננסה)
   Updated: 2025-08-05T22:10:35Z
   Total Products: 9
 - [פלמיירס](https://www.rsport.co.il/collections/פלמיירס)
-  Updated: 2025-10-02T11:31:26Z
+  Updated: 2025-10-02T12:34:21Z
   Total Products: 11
 - [אולימפיק ליון | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אולימפיק-ליון): הצטרפו לרוח של אולימפיק ליון רכשו עכשיו חולצות כדורגל, מכנסיים, חליפות אימון ועוד, בעיצובים מיוחדים לעונה החדשה. בואו ליהנות מאיכות גבוהה ונוחות מושלמת על המגרש ומחוצה לו. אל תפספסו הזמינו עכשיו ותראו לכולם מי הקבוצה שלכם
-  Updated: 2025-10-02T11:52:13Z
+  Updated: 2025-10-02T12:25:53Z
   Total Products: 13
 - [לאנס](https://www.rsport.co.il/collections/לאנס)
   Updated: 2025-10-02T11:52:13Z
   Total Products: 4
 - [ליל](https://www.rsport.co.il/collections/ליל): ליל הוא מועדון עם מסורת עשירה בליגה הצרפתית, שמציע חולצות כדורגל מעוצבות ומרשימות לכל אוהד. בחולצות הבית, החוץ והשלישיות של ליל תמצא שילוב מנצח של צבעים עזים, עיצוב מודרני ובד איכותי לנוחות מירבית. כל חולצה נועדה לא רק למשחקים אלא גם להצהרה של סטייל וגאווה על התמיכה בקבוצה. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות למועדון. לבש את חולצת ליל בגאווה ובסטייל בכל הזדמנות. ליל הוא מועדון עם מסורת עשירה בליגה הצרפתית, שמציע חולצות כדורגל מעוצבות ומרשימות... הצג עוד ליל הוא מועדון עם מסורת עשירה בליגה הצרפתית, שמציע חולצות כדורגל מעוצבות ומרשימות לכל אוהד. בחולצות הבית, החוץ והשלישיות של ליל תמצא שילוב מנצח של צבעים עזים, עיצוב מודרני ובד איכותי לנוחות מירבית. כל חולצה נועדה לא רק למשחקים אלא גם להצהרה של סטייל וגאווה על התמיכה בקבוצה. הצטרף לאלפי אוהדים ברחבי העולם ותחווה את תחושת השייכות למועדון. לבש את חולצת ליל בגאווה ובסטייל בכל הזדמנות. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #d61f26; /* צבע אדום ליל */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
-  Updated: 2025-10-02T11:31:31Z
+  Updated: 2025-10-02T12:25:55Z
   Total Products: 8
 - [חולצת אוהד פומה](https://www.rsport.co.il/collections/חולצת-אוהד-פומה)
-  Updated: 2025-10-02T11:31:54Z
+  Updated: 2025-10-02T12:34:21Z
   Total Products: 49
 - [באייר לברקוזן](https://www.rsport.co.il/collections/באייר-לברקוזן): הכירו את הקבוצה המרתקת מבאייר לברקוזן – אחת הקבוצות הצעירות והמלהיבות בגרמניה. חולצות כדורגל של באייר לברקוזן מבטאות את רוח המועדון והאופי האגרסיבי של המשחק. אצלנו תמצאו חולצות משחק מדהימות, חולצות אוהדים בעיצובים שונים, חולצות אימון איכותיות, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל אוהד וגם בגדי תינוקות לקהל הצעיר. הצג עוד באייר לברקוזן, עם היסטוריה עשירה ומסורת של כדורגל איכותי, מביאה את סגנון המשחק שלה ישירות אליכם עם חולצות הכדורגל המובילות שלה. חולצות המשחק והאוהדים של הקבוצה עשויות מחומרים איכותיים המעניקים נוחות מרבית ומדגישים את הייחודיות של המועדון. כל חולצה מגיעה במידות שונות ומאפשרת להוסיף את השם או המספר האהוב עליכם, בין אם של שחקן המועדון או שלכם. בין אם אתם מחפשים חולצות עם העיצוב הקלאסי של הקבוצה, חולצות אימון או אפילו חולצות שוער מקצועיות, יש לנו את כל מה שצריך כדי להרגיש חלק מההצלחה של באייר לברקוזן. השירות מקצועי, ההזמנה קלה והמשלוח מגיע לכל הארץ. זה הזמן ללבוש את הקבוצה שלכם בגאווה עם כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות הכירו את הקבוצה המרתקת מבאייר לברקוזן – אחת הקבוצות הצעירות והמלהיבות בגרמניה. חולצות כדורגל של באייר לברקוזן מבטאות את רוח המועדון והאופי האגרסיבי של המשחק. אצלנו תמצאו חולצות משחק מדהימות, חולצות אוהדים בעיצובים שונים, חולצות אימון איכותיות, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל אוהד וגם בגדי תינוקות לקהל הצעיר... הצג עוד באייר לברקוזן, עם היסטוריה עשירה ומסורת של כדורגל איכותי, מביאה את סגנון המשחק שלה ישירות אליכם עם חולצות הכדורגל המובילות שלה. חולצות המשחק והאוהדים של הקבוצה עשויות מחומרים איכותיים המעניקים נוחות מרבית ומדגישים את הייחודיות של המועדון. כל חולצה מגיעה במידות שונות ומאפשרת להוסיף את השם או המספר האהוב עליכם, בין אם של שחקן המועדון או שלכם. בין אם אתם מחפשים חולצות עם העיצוב הקלאסי של הקבוצה, חולצות אימון או אפילו חולצות שוער מקצועיות, יש לנו את כל מה שצריך כדי להרגיש חלק מההצלחה של באייר לברקוזן. השירות מקצועי, ההזמנה קלה והמשלוח מגיע לכל הארץ. זה הזמן ללבוש את הקבוצה שלכם בגאווה עם כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:31:33Z
@@ -46427,13 +46427,13 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-02T11:52:14Z
+  Updated: 2025-10-02T13:33:14Z
   Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-02T11:52:13Z
+  Updated: 2025-10-02T12:34:20Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-10-02T11:30:57Z
@@ -46445,7 +46445,7 @@
   Updated: 2025-10-02T11:15:26Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-10-02T11:52:13Z
+  Updated: 2025-10-02T12:34:21Z
   Total Products: 366
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-10-02T11:52:10Z
@@ -46601,19 +46601,19 @@
   Updated: 2025-09-24T19:15:57Z
   Total Products: 23
 - [יורו נשים 2025](https://www.rsport.co.il/collections/יורו-נשים-2025)
-  Updated: 2025-10-02T11:52:07Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 49
 - [מונקו](https://www.rsport.co.il/collections/מונקו): המונו של הליגה הצרפתית הוא פריט חובה לכל אוהד – עיצוב ייחודי, נוחות מרבית וסגנון מובהק שמחבר אותך לכדורגל הצרפתי... הצג עוד המונו של הליגה הצרפתית משלב עיצוב מודרני עם השראה מהקבוצות המובילות בליגה. הפריט מיועד לכל אוהד שרוצה להרגיש חלק מהכדורגל הצרפתי – בין אם במשחקים, באימון או בלבוש יומיומי. מגוון צבעים ופרטים ייחודיים הופכים את המונו לפריט אופנתי ונוח. הצטרף לאלפי אוהדים ותן לסטייל שלך לדבר. המונו של הליגה הצרפתית – איכות ונוחות לצד אהבה לכדורגל. הצג פחות המונו של הליגה הצרפתית הוא פריט חובה לכל אוהד – עיצוב ייחודי, נוחות מרבית וסגנון מובהק... הצג עוד המונו של הליגה הצרפתית משלב עיצוב מודרני עם השראה מהקבוצות המובילות בליגה. הפריט מיועד לכל אוהד שרוצה להרגיש חלק מהכדורגל הצרפתי – בין אם במשחקים, באימון או בלבוש יומיומי. מגוון צבעים ופרטים ייחודיים הופכים את המונו לפריט אופנתי ונוח. הצטרף לאלפי אוהדים ותן לסטייל שלך לדבר. המונו של הליגה הצרפתית – איכות ונוחות לצד אהבה לכדורגל. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #d71920; /* צבע אדום צרפתי כהה */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.querySelector('.short-text-desktop'); const fullDesktop = document.querySelector('.full-text-desktop'); const showMoreDesktop = document.querySelector('.toggle-btn-desktop'); const showLessDesktop = document.querySelector('.toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
-  Updated: 2025-10-02T11:28:27Z
+  Updated: 2025-10-02T12:25:55Z
   Total Products: 5
 - [OGC Nice חולצות כדורגל ומוצרי ספורט של](https://www.rsport.co.il/collections/ניס): קנו עכשיו חולצות כדורגל של OGC Nice – חולצות בית וחוץ, לילדים ולמבוגרים. איכותיות, נוחות ועמידות למשחק או לאוסף. משלוחים מהירים והזמנה קלה אונליין.
-  Updated: 2025-09-18T18:20:00Z
+  Updated: 2025-10-02T12:25:54Z
   Total Products: 3
 - [Lamine Yamal | נעלי כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/נעלי-כדורגל-ומוצרים-lamine-yamal): Lamine Yamal F50 מגוון רחב של נעלי כדורגל וחולצות כדורגל ברצלונה, נבחרת ספרד , אימון וכל הפריטים של לאמין ימאל נעלי כדורגל
-  Updated: 2025-10-02T11:52:06Z
+  Updated: 2025-10-02T12:34:17Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
-  Updated: 2025-10-02T11:28:46Z
+  Updated: 2025-10-02T12:34:19Z
   Total Products: 156
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
   Updated: 2025-10-02T11:31:25Z
