@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-02T04:01:10.329Z
+- Updated At: 2025-10-02T08:01:08.640Z
 
 ## Products
 
@@ -690,7 +690,7 @@ O que está espera para conheccer?
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-alina-vichy-45-cm-42080521-brincatoys-1178692818.jpg?v=1752828014
   Price: 42,90 € EUR
 - [Boneca Carla 32 cm](https://brincatoys.pt/products/boneca-carla-32-cm): Carla é uma boneca de 32 cm, feita de vinil. Os seus olhos azuis brilham e os seus longos cabelos parecem uma cascata. O vestido clássico em cores vivas complementa este modelo.
-  Updated: 2025-09-29T19:24:27Z
+  Updated: 2025-10-02T07:50:13Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -1126,7 +1126,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bubble-guppies-nonny-239981816-brincatoys-1178692948.jpg?v=1752831005
   Price: 6,00 € EUR
 - [Bubble Guppies -Oona-](https://brincatoys.pt/products/bubble-guppies-oona): Figura em borracha termoplástica da série Bubble Guppies.Figura com aproximadamente 6 cm.
-  Updated: 2025-09-30T11:32:00Z
+  Updated: 2025-10-02T04:55:07Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -12471,7 +12471,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-petit-calin-cesar-28-cm-o-melhor-amigo-do-seu-filho-266283924-3523196628393-brincatoys-1178696843.jpg?v=1752900255
   Price: 48,50 € EUR
 - [Anibabies 28 cm "Lapinou"](https://brincatoys.pt/products/anibabies-28-cm-lapinou): Bebé Anibabies "Lapinou" de 28 cm. Cabeça e mãos em vinil muito flexível com um delicado aroma a baunilha. Corpo, braços e pernas em tecido macio. Olhos azuis adormecidos com cílios. Capuz removível. Lavável na máquina.  Dimensão: 17 x 36 x 11 cm.Idade Recomendada: + de 12 meses.
-  Updated: 2025-09-29T19:10:54Z
+  Updated: 2025-10-02T07:05:03Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -21272,7 +21272,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T11:22:29Z
   Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-01T11:22:29Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 241
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-09-30T03:17:57Z
@@ -21335,8 +21335,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:20:46Z
   Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-01T12:08:48Z
-  Total Products: 682
+  Updated: 2025-10-02T07:54:59Z
+  Total Products: 683
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-01T22:39:47Z
   Total Products: 312
@@ -21359,20 +21359,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:20:46Z
   Total Products: 2884
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3269
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3402
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3481
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3530
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-01T22:39:18Z
-  Total Products: 365
+  Updated: 2025-10-02T07:54:29Z
+  Total Products: 366
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21497,8 +21497,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T18:23:12Z
   Total Products: 5
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-09-30T11:33:35Z
-  Total Products: 35
+  Updated: 2025-10-02T07:54:59Z
+  Total Products: 36
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-08-31T21:21:50Z
   Total Products: 2
@@ -21560,7 +21560,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3563
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-01T12:12:43Z
@@ -21575,8 +21575,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:20:46Z
   Total Products: 1162
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-01T12:08:48Z
-  Total Products: 468
+  Updated: 2025-10-02T07:54:59Z
+  Total Products: 469
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-01T10:48:32Z
   Total Products: 139
@@ -21596,10 +21596,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:21:03Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3563
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3563
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
@@ -21611,7 +21611,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3072
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
@@ -21620,10 +21620,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:06:33Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 3072
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T07:54:30Z
   Total Products: 948
 
 ## Blogs
