@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-01T20:01:09.080Z
+- Updated At: 2025-10-02T00:01:06.368Z
 
 ## Products
 
@@ -3448,7 +3448,7 @@ exibir.As listras podem ser giratórias ou descendentes da coluna e geralmente s
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/georges-actividades-278677722-brincatoys-1178693695.png?v=1752843021
   Price: 33,99 € EUR
 - [Girafa](https://brincatoys.pt/products/girafa): O seu pescoço comprido faz com que consiga sempre chegar às árvores mais altas e os outros animais pedem-lhe sempre para lhes dar as folhas mais tenras.  Dimensão: 12,50 x 16,50 x 4,50 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T02:23:57Z
+  Updated: 2025-10-01T20:00:37Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14698,7 +14698,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-de-batalha-pokemon-para-colecionadores-brincatoys-23305424-0191726481331-pokemon-1178698145.jpg?v=1752920766
   Price: 23,99 € EUR
 - [Pokemon Select Mewtwo Figure: Detalhes Fantásticos | Brincatoys](https://brincatoys.pt/products/pokemon-select-mewtwo-figure): Descubra a força da Pokemon Select Mewtwo figure! Desenvolvida para colecionadores exigentes. 15cm de encanto com detalhes incríveis.
-  Updated: 2025-09-29T17:52:01Z
+  Updated: 2025-10-01T22:59:20Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -16121,7 +16121,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-safari-23050824-191726877028-squishville-1178699285.jpg?v=1752938524
   Price: 28,90 € EUR
 - [Figura de Batalha Pokémon - Tauros](https://brincatoys.pt/products/figura-de-batalha-pokemon-tauros): Descubra a Figura de Batalha Pokémon - Tauros! Ação interativa, durabilidade e detalhes fiéis ao personagem para fãs de todas as idades.
-  Updated: 2025-09-29T18:04:52Z
+  Updated: 2025-10-01T21:52:42Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -19278,7 +19278,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-09-29T18:39:39Z
+  Updated: 2025-10-01T21:49:10Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -21123,7 +21123,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/chevrolet-c10-cheyenne-super-blue-1974-miniatura-detalhada-683146725-8719247986061-brincatoys-1194811369.jpg?v=1758880326
   Price: 58,50 € EUR
 - [Transformers Age of The Primes - Sideways: Ação Épica](https://brincatoys.pt/products/transformers-age-of-the-primes-sideways): As asas do Transformers Age of The Primes - Sideways oferecem aventuras em modo robô e nave futurista. Junte-se à ação e crie batalhas épicas!
-  Updated: 2025-09-30T17:35:30Z
+  Updated: 2025-10-01T22:55:14Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -21165,14 +21165,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-fire-panther-experiencia-epica-de-brincar-232500925-0630996250099-brincatoys-1195661070.jpg?v=1759312198
   Price: 31,50 € EUR
 - [Mr. Beast Lab Lightning Panther: Diversão Sem Fim](https://brincatoys.pt/products/mr-beast-lab-lightning-panther): Prepare-se para uma aventura emocionante com o Mr. Beast Lab Lightning Panther. A câmara de mutação traz um pantera cibernético pronto para ação!
-  Updated: 2025-10-01T10:47:55Z
+  Updated: 2025-10-01T21:19:50Z
   Vendor: Brincatoys
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-lightning-panther-diversao-sem-fim-232500725-0630996250075-brincatoys-1195661066.jpg?v=1759312087
   Price: 31,50 € EUR
 - [Mr. Beast Lab Atomic Earth Panther: Diversão Sem Fim](https://brincatoys.pt/products/mr-beast-lab-atomic-earth-panther): Prepare-se para uma aventura emocionante com o Mr. Beast Lab Atomic Earth Panther. A câmara de mutação traz um pantera cibernético pronto para ação!
-  Updated: 2025-10-01T11:50:07Z
+  Updated: 2025-10-01T20:58:47Z
   Vendor: Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -21194,8 +21194,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-01T12:08:48Z
-  Total Products: 565
+  Updated: 2025-10-01T22:39:18Z
+  Total Products: 566
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-09-30T11:46:29Z
   Total Products: 28
@@ -21338,8 +21338,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:08:48Z
   Total Products: 682
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-01T12:11:29Z
-  Total Products: 311
+  Updated: 2025-10-01T22:39:47Z
+  Total Products: 312
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
   Total Products: 18
@@ -21359,20 +21359,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:20:46Z
   Total Products: 2884
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3269
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3402
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3481
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3530
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-01T11:58:22Z
-  Total Products: 364
+  Updated: 2025-10-01T22:39:18Z
+  Total Products: 365
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21452,8 +21452,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T21:44:01Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
-  Updated: 2025-10-01T11:58:22Z
-  Total Products: 46
+  Updated: 2025-10-01T22:39:18Z
+  Total Products: 47
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
   Updated: 2025-10-01T11:22:29Z
   Total Products: 32
@@ -21560,7 +21560,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3563
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-01T12:12:43Z
@@ -21587,8 +21587,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:12:43Z
   Total Products: 76
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-01T11:58:22Z
-  Total Products: 210
+  Updated: 2025-10-01T22:39:48Z
+  Total Products: 211
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-01T11:22:29Z
   Total Products: 90
@@ -21596,10 +21596,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:21:03Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3563
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3563
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
@@ -21611,7 +21611,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3072
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
@@ -21620,10 +21620,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:06:33Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 3072
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-01T12:12:42Z
+  Updated: 2025-10-01T22:39:18Z
   Total Products: 948
 
 ## Blogs
