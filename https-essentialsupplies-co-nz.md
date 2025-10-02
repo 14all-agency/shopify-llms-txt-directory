@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-02T16:00:38.574Z
+- Updated At: 2025-10-02T20:00:39.127Z
 
 ## Products
 
@@ -956,7 +956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-sleeveless-aprons-blue-800mm-x-1400mm-x-30mu-250-pieces-plastic-body-protection-essential-supplies-816274.jpg?v=1719445549
   Price: $119.00 NZD
 - [Polyethylene Sleeveless Aprons - Green, 800mm x 1400mm x 30mu - 250 Pieces](https://essentialsupplies.co.nz/products/polyethylene-sleeveless-aprons-green-800mm-x-1400mm-x-30mu-250): Disposable sleeveless aprons are designed from economic and light weight polyethylene to protect against splashes and spills. Full torso and back coverage for ultimate hygiene in the workplace. Ideal for use in the food processing and preparation industry. Designed from economic and light weight polyethylene to protect against splashes and spillsIdeal for use in the food processing and preparation industry Size: 800mm x 1400mm Content: 250 pieces Colour:Green
-  Updated: 2025-01-09T07:05:05Z
+  Updated: 2025-10-02T17:04:02Z
   Vendor: Mattews Packaging
   Product Type: Plastic Body Protection
   Availability: Available
