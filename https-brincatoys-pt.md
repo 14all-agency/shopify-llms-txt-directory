@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-02T16:01:08.644Z
+- Updated At: 2025-10-02T20:01:09.666Z
 
 ## Products
 
@@ -1791,7 +1791,7 @@ curta e roliça.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-creme-de-peluche-15-cm-amigo-para-criancas-522783024-7340031379571-brincatoys-1178693188.jpg?v=1752818774
   Price: 19,50 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-25-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-09-29T20:49:43Z
+  Updated: 2025-10-02T19:28:17Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -4920,17 +4920,6 @@ para combater contigo com a sua lança comprida e afiada. Será que
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76906-1970-ferrari-512-m-667690622-5702017119045-lego-1178694156.jpg?v=1752851778
   Price: 26,99 € EUR
-- [Lego Speed Champions Toyota GR Supra](https://brincatoys.pt/products/lego-speed-champions-toyota-gr-supra): Constrói e corre com um dos carros desportivos de mais elevada 
-performance a nível mundial – o Toyota GR Supra. Este impressionante 
-LEGO® Speed Champions réplica do carro de desporto icónico é agora teu 
-para colecionar e explorar. E quando tiveres acabado de construir, podes
- mostrá-lo aos teus amigos ou colocar o condutor dentro do cockpit d...
-  Updated: 2025-09-29T23:52:49Z
-  Vendor: LEGO
-  Product Type: + 7 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-speed-champions-toyota-gr-supra-667690122-5702016912470-lego-1178694159.jpg?v=1752851885
-  Price: 36,99 € EUR
 - [Nave espacial Star Wars A-Wing da Resistência](https://brincatoys.pt/products/nave-espacial-star-wars-x-wing-da-resistencia): A Nave espacial Star Wars A-Wing da Resistência é um veículo da saga Star Wars, Episódio 8, altamente detalhado. Possui aproximadamente 26 cm de altura e 30 de comprimento e conta ainda com uma figura. O veículo Resistance A-wing Fighter possui capacidade de disparo de projéteis. Quando as crianças carregam os projéteis, incluídos no veículo, recri
   Updated: 2025-09-29T17:42:40Z
   Vendor: Star Wars
@@ -8055,7 +8044,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-hello-kitty-3-x-48-pcs-855246621-brincatoys-1178695163.jpg?v=1752869899
   Price: 9,99 € EUR
 - [Puzzle Hospital](https://brincatoys.pt/products/puzzle-hospital): 3 Puzzles com cenas de um Hospital - o hospital por dentro e a ambulância. Cada puzzle de cartão tem 24 peças e ilustrações cheias de detalhes.Fazer puzzles é divertido e desafia as crianças a resolverem um puzzle de muitas peças. Excelentes para desenvolver a concentração, a motricidade fina e a observação de pormenor, de uma maneira divertida.  D
-  Updated: 2025-10-02T14:57:25Z
+  Updated: 2025-10-02T18:50:07Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -8454,7 +8443,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/rainbow-high-mila-berrymore-557829122-0035051578291-rainbow-high-1178695283.jpg?v=1752871577
   Price: 44,99 € EUR
 - [Raposa de peluche](https://brincatoys.pt/products/raposa-de-peluche): Colorida raposa feita com materiais sintéticos da melhor qualidade. Dimensão: 35 cm. Idade recomendada: + de 0 meses.
-  Updated: 2025-09-29T20:53:30Z
+  Updated: 2025-10-02T18:57:56Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -9086,7 +9075,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/torre-de-empilhar-panda-220818821-brincatoys-1178695485.jpg?v=1752876014
   Price: 22,50 € EUR
 - [Torre de Empilhar Peppo](https://brincatoys.pt/products/torre-de-empilhar-peppo): Já sabes como empilhar os anéis do grande ao maispequeno? Construir a torre sobre uma base arredondada faz balançar de um ladopara o outro tornando tudo difícil. Isso não sóestimula a motricidade, mas tambémcoordenação olho-mão.  Dimensão: 12 x 20 x 12 cm.Idade Recomendada: + de 2 anos.
-  Updated: 2025-09-29T20:38:54Z
+  Updated: 2025-10-02T18:35:50Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -13900,7 +13889,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-do-royce-disney-pixar-miniatura-de-colecao-550766323-0194735076635-cars-1178697633.jpg?v=1752798256
   Price: 11,99 € EUR
 - [Conjunto de chá Frozen](https://brincatoys.pt/products/conjunto-de-cha-frozen): Encantador Conjunto de Chá Frozen da Disney. Este conjunto magnífico é perfeito para pequenas princesas que amam a encantadora dupla da Disney, Anna e Elsa. Com este conjunto, a brincadeira da festa do chá nunca foi tão divertida! Feito com atenção aos detalhes e qualidade, este conjunto de chá é uma maneira maravilhosa das crianças trazerem a magia do Reino de Arendelle para casa. Deixe a imaginação dos seus pequenos correr solta com este Conjunto de Chá Frozen da Disney. Uma experiência de brincadeira que, com certeza, vão adorar e que vai proporcionar horas de diversão. Dimensão: 34 x 24 x 6,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:13:08Z
+  Updated: 2025-10-02T19:38:08Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -17094,7 +17083,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-starters-formas-criativas-kit-criativo-90853424-5010996136435-play-doh-1178700133.jpg?v=1752788414
   Price: 13,50 € EUR
 - [Brinquedo em Peluche da Bluey 20 cm](https://brincatoys.pt/products/peluche-bluey-20-cm): Encontre o brinquedo em peluche da Bluey de 20 cm e ofereça o abraço mais macio e divertido! Este peluche é perfeito para crianças criativas.
-  Updated: 2025-09-29T17:42:53Z
+  Updated: 2025-10-02T19:28:09Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -17983,7 +17972,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-gabby-conjuto-de-beleza-entre-em-um-mundo-magico-770294324-8445484394757-brincatoys-1178700788.jpg?v=1752961220
   Price: 17,90 € EUR
 - [Boneca L.O.L. Surprise Loves Hello Kitty: Uma colaboração mágica](https://brincatoys.pt/products/boneca-l-o-l-surprise-loves-hello-kitty): Prepare-se para a diversão com a boneca L.O.L Surprise Loves Hello Kitty! Uma colaboração única que combina o melhor dos dois mundos.
-  Updated: 2025-09-30T01:48:07Z
+  Updated: 2025-10-02T18:23:56Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -18031,13 +18020,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pista-de-carros-da-porquinha-peppa-corridas-emocionantes-853043724-4007486630437-peppa-pig-1178700820.jpg?v=1752785173
   Price: 39,99 € EUR
-- [Boneca Elegance com alcofa rosa: Conforto e estilo para brincar](https://brincatoys.pt/products/boneca-elegance-com-alcofa-rosa): Transporte a Boneca Elegance com alcofa rosa para onde quiser, com muito conforto e estilo. Deixe a imaginação da sua criança voar! ✨
-  Updated: 2025-09-30T03:17:53Z
-  Vendor: Brincatoys
-  Product Type: Bonecas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-com-alcofa-rosa-conforto-e-estilo-para-brincar-855072924-8427614507299-brincatoys-1178700824.jpg?v=1752961683
-  Price: 43,50 € EUR
 - [Boneca Elegance verde com alcofa: Conforto e estilo para brincar](https://brincatoys.pt/products/boneca-elegance-verde-com-alcofa): Transporte a Boneca Elegance verde com alcofa para onde quiser, com muito conforto e estilo. Deixe a imaginação da sua criança voar! ✨
   Updated: 2025-09-30T03:18:05Z
   Vendor: Brincatoys
@@ -18158,7 +18140,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76917-nissan-skyline-gt-r-r34-667691724-5702017424217-lego-1178700944.jpg?v=1752963736
   Price: 26,99 € EUR
 - [Lego Speed Champions 76918 McLaren Solus GT e McLaren F1](https://brincatoys.pt/products/lego-speed-champions-mclaren-solus-gt-e-mclaren-f1): Experimente a emoção das pistas com o Lego Speed Champions 76918 McLaren Solus GT e McLaren F1 LM. Um conjunto incrível para fãs.
-  Updated: 2025-09-29T23:54:45Z
+  Updated: 2025-10-02T17:59:26Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -19439,7 +19421,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60447-carrinha-de-montanha-4x4-todo-o-terreno-666044725-5702017812533-lego-1178701809.jpg?v=1752977406
   Price: 22,50 € EUR
 - [Lego City 60448 Carro Desportivo Vermelho: Acelera!](https://brincatoys.pt/products/lego-city-carro-desportivo-vermelho): Acelera a diversão com o Lego City 60448 Carro Desportivo Vermelho! Este set cativante de 109 peças vai encantar os pequenos fãs desde os 5 anos.
-  Updated: 2025-09-29T23:22:39Z
+  Updated: 2025-10-02T18:00:26Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -20103,6 +20085,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-racing-488-challenge-amarelo-682630724-8719247525871-bburago-1178700120.jpg?v=1752951251
   Price: 28,90 € EUR
+- [Boneca Monster High Draculaura com Armário Skulltime](https://brincatoys.pt/products/monster-high-venus-mcflytrap-com-armario-skulltime-secrets): Descubra a boneca Monster High - Draculaura com armário Skulltime Secrets, perfeita para apaixonados por moda gótica e histórias encantadas.
+  Updated: 2025-10-02T18:57:05Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-draculaura-com-armario-skulltime-775540525-0194735255405-monster-high-1195801132.jpg?v=1759406157
+  Price: 49,99 € EUR
 - [Carros da Disney Pixar - Komodo. Reviva as Corridas Mágicas](https://brincatoys.pt/products/cars-disney-komodo-copia): Descubra o carros da Disney Pixar - Komodo, a miniatura de metal inspirada em "Cars" da Disney*Pixar. Perfeito para fãs e coleccionadores.
   Updated: 2025-09-29T21:09:19Z
   Vendor: Cars
@@ -20588,6 +20577,13 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-devastation-optimus-prime-86062025-5010996297419-transformers-1182054155.jpg?v=1756213695
   Price: 36,50 € EUR
+- [Transformers Age of the Primes - Rescue Bot Heatwave](https://brincatoys.pt/products/transformers-age-of-the-primes-rescue-bot-heatwave): Aumenta a tua coleção com o Transformers Age of the Primes - Rescue Bot Heatwave! Este robô maravilhoso converte-se num camião de bombeiros. 🚒
+  Updated: 2025-10-02T18:51:01Z
+  Vendor: Transformers
+  Product Type: + 8 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-rescue-bot-heatwave-86101825-5010996319708-transformers-1195764890.jpg?v=1759369686
+  Price: 49,99 € EUR
 - [Figura Pokémon Select - Turtwig para Fãs e Colecionadores](https://brincatoys.pt/products/figura-pokemon-select-turtwig): Apresentamos a figura Pokémon Select - Turtwig, o adorável companheiro das suas aventuras! Adquira a sua e comece a sua jornada hoje!
   Updated: 2025-09-29T17:55:02Z
   Vendor: Pokémon
@@ -20763,6 +20759,27 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-gigante-leonardo-acao-e-aventura-233875225-0043377834014-tartarugas-ninja-1184244257.jpg?v=1756214772
   Price: 32,50 € EUR
+- [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-cleo-de-nile-com-tocador): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
+  Updated: 2025-10-02T18:57:38Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-772304325-0194735230433-monster-high-1195801128.jpg?v=1759406049
+  Price: 44,99 € EUR
+- [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-real-drama-draculaura): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
+  Updated: 2025-10-02T18:56:23Z
+  Vendor: Monster High
+  Product Type: + 6 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-771048125-0194735104819-monster-high-1195801136.jpg?v=1759406169
+  Price: 42,50 € EUR
+- [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-real-drama-clawdeen-wolf): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
+  Updated: 2025-10-02T18:56:06Z
+  Vendor: Monster High
+  Product Type: + 6 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-771048025-0194735104802-monster-high-1195801140.jpg?v=1759406279
+  Price: 42,50 € EUR
 - [Boneca Elegance com alcofa rosa: Conforto e estilo para brincar](https://brincatoys.pt/products/boneca-elegance-com-alcofa-rosa-copia): Transporte a Boneca Elegance com alcofa rosa para onde quiser, com muito conforto e estilo. Deixe a imaginação da sua criança voar! ✨
   Updated: 2025-09-30T03:17:59Z
   Vendor: Brincatoys
@@ -20770,6 +20787,34 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-com-alcofa-rosa-conforto-e-estilo-para-brincar-855072924-8427614507299-brincatoys-1178700824.jpg?v=1752961683
   Price: 44,90 € EUR
+- [Monster High Real Drama - Lagoona Blue](https://brincatoys.pt/products/monster-high-real-drama-lagoona-blue): A Monster High Real Drama – Lagoona Blue mergulha a tua coleção num estilo cinematográfico com atitude. Em primeiro lugar, esta edição inspirada no preto-e-branco faz a Lagoona brilhar com pele nacarada, cabelo longo ondulado com reflexos azuis e um look de praia urbano. Do mesmo modo, o top estampado, os calções com rede e as sandálias plataforma recriam o visual clássico da personagem, enquanto as barbatanas nas pernas dão o toque aquático inconfundível. Além disso, a boneca apresenta articulações completas para posar, sentar e dançar com naturalidade durante sessões de brincadeira ou exposição. Igualmente, incluí um poster colecionável em formato grande, um suporte transparente para exibição e o inseparável peixinho Neptuna. Assim, a criança recria cenas épicas e o colecionador exibe a peça com elegância na prateleira. Ademais, os acessórios prateados – brincos de argolas, colares em camadas e pulseira – combinam com o esquema monocromático, criando um contraste elegante com os toques de azul. Por isso, cada fotografia sai incrível e pronta a partilhar. Por outro lado, com cerca de 28 cm, a Monster High Real Drama – Lagoona Blue, a Lagoona é compatível com outras personagens da linha, pelo que podes misturar looks, criar narrativas cruzadas e montar um elenco completo para aventuras na Monster High. Por fim, escolhe esta edição para um presente que junta nostalgia e imaginação sem fim. E, claro, a presença do Neptuna acrescenta humor e personalidade a cada história. Assim, transforma o quarto numa sala de cinema onde a tua estrela das profundezas assume o papel principal! Resumo em pontos-chave Edição Real Drama com look preto-e-branco e reflexos azuis Boneca articulada ~28 cm; Inclui poster, suporte e mascote Neptuna Outfit: top estampado, calções com rede e sandálias plataforma Perfeito para brincar e colecionar Dimensão: 23 x 32,50 x 6,50 cm.Idade recomendada: + de 6 anos.
+  Updated: 2025-10-02T18:55:27Z
+  Vendor: Monster High
+  Product Type: + 6 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-lagoona-blue-770479625-0194735104796-monster-high-1195801144.jpg?v=1759406292
+  Price: 42,50 € EUR
+- [Monster High Scary Sweet Birthday - Draculaura](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-draculaura): A Monster High Scary Sweet Birthday – Draculaura transforma qualquer brincadeira numa festa sombria e super glam. Em primeiro lugar, esta edição especial destaca-se pelo vestido rosa com brilho, corpete em teia e detalhes de laços, além do cabelo comprido com madeixas cor-de-rosa e franja marcada. Do mesmo modo, a boneca chega com articulações completas, por isso posa, dança e “tira selfies” com facilidade. Graças aos acessórios temáticos — como o balão em forma de coração com asas de morcego, o leque gótico, a mala e o convite “Sweet 1600” — a criança cria histórias sem fim. Igualmente, concebida para mãos pequenas, a Draculaura mede cerca de 28 cm e apresenta acabamentos de qualidade Mattel. O conjunto inclui sandálias de plataforma e joias inspiradas em morcegos, que combinam com o visual dark-romântico da personagem. Além disso, a embalagem ilustrada funciona muito bem para oferecer e também para colecionar. Como é compatível com outras bonecas Monster High, a brincadeira cresce: trocas de looks, festas conjuntas e novas aventuras na escola mais arrepiante de sempre. Assim, a Monster High Scary Sweet Birthday – Draculaura não é apenas um presente bonito; é também uma ferramenta de imaginação que estimula a linguagem, a motricidade fina e a cooperação entre amigos e irmãos. Por fim, se procuras um presente marcante, escolhe esta estrela vampírica e prepara-te para fotos, risos e muitas histórias assustadoramente doces. Em suma... Edição Scary Sweet Birthday com look gótico-romântico Boneca articulada ~28 cm; Acessórios: balão, leque, mala e convite “Sweet 1600” Vestido com brilho e corpete em teia; sandálias de plataforma Embalagem ilustrada, ideal para oferecer e colecionar Compatível com outras Monster High para criar festas épicas Dimensão: 24,50 x 32,50 x 6 cm.Idade recomendada: + de 4 anos.
+  Updated: 2025-10-02T18:53:56Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-scary-sweet-birthday-draculaura-772598325-0194735259830-monster-high-1195791381.jpg?v=1759398598
+  Price: 39,99 € EUR
+- [Monster High Real Drama - Frankie Stein](https://brincatoys.pt/products/monster-high-real-drama-frankie-stein): A Monster High Real Drama – Frankie Stein traz um toque cinematográfico à tua coleção. Em primeiro lugar, inspirada no glamour do preto-e-branco, esta edição capta o espírito “film noir” com pele prateada, lábios escuros e cabelo longo com riscas pretas, brancas e azuis elétricas. Do mesmo modo, desde o primeiro olhar, a Frankie impressiona com o vestido xadrez, aplicações metálicas e brincos de caveira. Além disso, vem totalmente articulada, por isso posa, senta e dança com facilidade em qualquer cenário de brincadeira ou exposição. Ademais, inclui um poster colecionável em estilo vintage, um suporte transparente para exibição e o inseparável Watzit, o seu adorável mascote. Assim, a criança recria cenas da Monster High com mais realismo e, ao mesmo tempo, o colecionador exibe a peça com elegância na prateleira. Igualmente, as sandálias de plataforma com riscas, a gargantilha “costuras” e a corrente na saia completam um look eletrizante que homenageia a personagem clássica. Além disso, com cerca de 28 cm e acabamentos de qualidade Mattel, a Monster High Real Drama – Frankie Stein resiste ao uso diário e mantém o brilho em longas sessões de brincadeira criativa. Para ampliar a diversão, combina com outras bonecas Monster High e cria um elenco completo: troca de outfits, sessões de fotos e histórias cheias de atitude. Por fim, escolhe a Frankie para um presente que junta estilo, nostalgia e muitas horas de imaginação. Liga a tua criatividade, “acende os refletores” e deixa a Real Drama brilhar! Em suma... Edição Real Drama em estilo preto-e-branco com toques azuis Boneca articulada ~28 cm; ideal para brincar e colecionar Inclui poster, suporte de exposição e mascote Watzit Vestido xadrez, correntes, sandálias listadas e acessórios icónicos Excelente presente para fãs de Monster High Dimensão: 23 x 32,50 x 6,50 cm.Idade recomendada: + de 6 anos.
+  Updated: 2025-10-02T18:55:01Z
+  Vendor: Monster High
+  Product Type: + 6 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-frankie-stein-771047825-0194735104789-monster-high-1195791377.jpg?v=1759398485
+  Price: 42,50 € EUR
+- [Monster High Scary Sweet Birthday - Cupid Asteria](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-cupid-asteria): Celebra ao lado da boneca Monster High Scary Sweet Birthday – Cupid Asteria. Em primeiro lugar, inspirada nas festas de aniversário, esta edição encantadora chega com cabelo rosa em caracóis volumosos, asas trabalhadas, maquilhagem brilhante e um visual barroco irresistível. Por outro lado, desde o primeiro olhar, a Cupid Asteria conquista com detalhes românticos e um coração em destaque no corpete. Além disso, inclui acessórios temáticos para multiplicar histórias de fantasia em casa. Do mesmo modo, a boneca vem com mala em forma de flecha, balão de coração com “corda”, duas etiquetas temáticas, estojo de sombras, chávena com bule e convite “Sweet 1600”. Igualmente, as sandálias douradas com laços e rosas completam o conjunto, enquanto a saia em camadas com tule e renda acrescenta movimento a cada pose. Porque é totalmente articulada, a criança posiciona, senta e dança a personagem com facilidade, dando vida às aventuras Monster High. Ademais, com cerca de 28 cm, a Monster High Scary Sweet Birthday – Cupid Asteria oferece qualidade Mattel e uma experiência de brincadeira segura para fãs a partir dos 4 anos. Além disso, cabe perfeitamente na prateleira de colecionadores que procuram peças especiais para exibir. Graças à temática de aniversário, torna-se um presente ideal para surpreender, criar memórias e incentivar a imaginação. Ao brincar, as crianças desenvolvem motricidade fina, linguagem, cooperação e expressão emocional em contextos de faz-de-conta. Diversão segura, duradoura e memorável. Por fim, escolhe a Cupid Asteria para juntar estilo, fantasia e brincadeira criativa. Podes combiná-la com outras bonecas Monster High para montar cenários, trocar acessórios e inventar novas amizades no universo da escola mais assustadoramente divertida. Em suma... Edição Scary Sweet Birthday com visual barroco e asas decoradas Boneca articulada ~28 cm; Acessórios: mala-flecha, balão, maquilhagem, chávena/bule, etiquetas e convite Sandálias douradas e saia em camadas com tule/renda Perfeita para oferecer, brincar e colecionar Dimensão: 24,50 x 33,50 x 6 cm.Idade recomendada: + de 4 anos.
+  Updated: 2025-10-02T18:52:32Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-scary-sweet-birthday-cupid-asteria-772598725-0194735259878-monster-high-1195791385.jpg?v=1759398610
+  Price: 39,99 € EUR
 - [Conjunto Vaiana](https://brincatoys.pt/products/conjunto-vaiana-1): Este conjunto é perfeito para todos os fâs de Vaiana. Inclui a boneca Vaiana, de 15 cm, Maui, Heihei e Pua o porco.
   Updated: 2025-09-30T07:22:29Z
   Vendor: Princesas Disney
@@ -20791,6 +20836,13 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76916-porsche-963-detalhes-incriveis-667691623-5702017424200-lego-1178696113.jpg?v=1752887048
   Price: 26,99 € EUR
+- [Transformers Age of The Primes - Excellion em Ação](https://brincatoys.pt/products/transformers-age-of-the-primes-excellion): Leva a ação dos Autobots para casa com o Transformers Age of The Primes - Excellion! Transforme-o em 17 passos e divirta-se! 🚗
+  Updated: 2025-10-02T18:50:09Z
+  Vendor: Transformers
+  Product Type: + 8 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-excellion-em-acao-861490525-5010996312921-transformers-1195755872.jpg?v=1759362486
+  Price: 36,50 € EUR
 - [Lego Speed Champions 76919 - Carro de Corrida de Fórmula 1](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-de-formula-1-mclaren-2023-copiar-copia): Descubra o Lego Speed Champions 76919 - Carro de Corrida de Fórmula 1 McLaren 2023. Construa, aprenda e colecione este incrível modelo de F1.
   Updated: 2025-09-29T23:54:52Z
   Vendor: LEGO
@@ -21180,7 +21232,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-02T18:51:00Z
   Total Products: 566
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-09-30T11:46:29Z
@@ -21258,7 +21310,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T11:22:29Z
   Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-02T12:30:25Z
+  Updated: 2025-10-02T18:57:38Z
   Total Products: 243
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-02T12:30:25Z
@@ -21321,10 +21373,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-02T12:41:57Z
   Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-02T18:57:38Z
   Total Products: 684
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-02T18:51:00Z
   Total Products: 312
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
@@ -21345,19 +21397,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-02T13:12:45Z
   Total Products: 2880
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3265
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3263
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3398
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3396
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3477
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3475
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3526
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3524
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-02T18:57:38Z
   Total Products: 369
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21438,7 +21490,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T21:44:01Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T18:51:00Z
   Total Products: 47
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
   Updated: 2025-10-01T11:22:29Z
@@ -21483,7 +21535,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-02T11:22:50Z
   Total Products: 5
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-02T09:42:43Z
+  Updated: 2025-10-02T18:57:38Z
   Total Products: 39
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-08-31T21:21:50Z
@@ -21546,10 +21598,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3559
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3557
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-02T09:43:12Z
+  Updated: 2025-10-02T18:56:23Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-01T11:22:29Z
@@ -21561,19 +21613,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-02T12:37:41Z
   Total Products: 1160
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-02T18:57:38Z
   Total Products: 470
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-01T10:48:32Z
   Total Products: 139
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-02T09:43:12Z
+  Updated: 2025-10-02T18:56:23Z
   Total Products: 186
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
-  Updated: 2025-10-01T12:12:43Z
-  Total Products: 76
+  Updated: 2025-10-02T17:59:51Z
+  Total Products: 75
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-02T18:51:00Z
   Total Products: 211
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-01T11:22:29Z
@@ -21582,11 +21634,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:21:03Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3559
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3557
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-02T13:12:45Z
-  Total Products: 3559
+  Updated: 2025-10-02T18:57:38Z
+  Total Products: 3557
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
   Total Products: 24
@@ -21597,8 +21649,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-02T12:41:04Z
-  Total Products: 3071
+  Updated: 2025-10-02T18:58:26Z
+  Total Products: 3070
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
   Total Products: 20
@@ -21606,11 +21658,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:06:33Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-02T12:41:04Z
-  Total Products: 3071
+  Updated: 2025-10-02T18:58:26Z
+  Total Products: 3070
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-02T12:41:04Z
-  Total Products: 947
+  Updated: 2025-10-02T18:57:37Z
+  Total Products: 937
 
 ## Blogs
 
