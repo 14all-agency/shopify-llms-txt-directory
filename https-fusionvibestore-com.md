@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-01T12:00:27.904Z
+- Updated At: 2025-10-02T04:00:27.970Z
 
 ## Products
 
@@ -674,6 +674,169 @@
   - [$100.00](https://fusionvibestore.com/products/fusion-vibe-gift-card?variant=45611993530567)
     Availability: Available
     Price: $100.00 USD
+- [Women Retro Sunglasses](https://fusionvibestore.com/products/women-retro-sunglasses): Product information: Frame material: metal Lens color: grey, tawny Frame color: gold, silver Polarization or not: No Glasses structure: frame Glasses style: round frame
+  Updated: 2025-10-01T18:27:27Z
+  Vendor: FusionVibestore
+  Product Type: Sunglasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2976822005605.jpg?v=1759341531
+  - [Black + Grey](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311552711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2625354051408.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold + Green](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311585479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2432971789500.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold + Purple](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311618247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/328722470700.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold + Red](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311651015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/609581974489.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold + pink](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311683783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2591550256317.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold+blue](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311716551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1237895265750.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold+gold](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311749319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3160863614401.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Gold+gray](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311782087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1212088027596.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Silver + Blue](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311814855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1286481787605.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Silver + Green](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311847623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/785109614564.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Silver + Grey](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311880391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/120004004560.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Silver + Silver](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311913159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/787731533982.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Silver+gray](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311945927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9127145754175.jpg?v=1759341546
+    Price: $15.63 USD
+  - [Silver+pink](https://fusionvibestore.com/products/women-retro-sunglasses?variant=45615311978695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/725992634024.jpg?v=1759341546
+    Price: $15.63 USD
+- [5 In 1 Multifunctional Electric Shaver 5 Blade Razor For Men Shaved Head Rechargeable Shaving Machine Beard Nose Hair Trimmer](https://fusionvibestore.com/products/5-in-1-multifunctional-electric-shaver-5-blade-razor-for-men-shaved-head-rechargeable-shaving-machine-beard-nose-hair-trimmer): Overview： A waterproof design Can be used in the bathroom dry or wet shaving, You can use it with shaving cream, you can put it into the water to clean. Features: This trimmer is a 5-in-1 multifunctional electric shaver. The handle is comfortable to hold and easy to use. Adapt to the contours of your face and neck with a unique 4D rotating floating blade. The 5 floating blades have a larger contact surface and a tighter shaving experience. The appearance is more luxurious, and every shave becomes a perfect facial massage. IPX7 is waterproof and can be used with water, foam, or gel to make it smoother in the shower or even shaving. Comfortable, non-slip, detachable, easy to clean and maintain. USB fast charging, durable. The perfect razor is the best gift for a husband and father. Specification： Material: ABS Power mode:Rechargeable Cleaning method: Body wash Shaver charging time: 8 hours Shaver head: Other heads Maximum power: 3w Color: Black gold Specifications: 1 machine, 5 heads Accessories： Nose hair device head, cleansing instrument head, haircut head + caliper, brush Package Content: 1x Electric shaver CJXFZNZN00269-Black gold set=CJXFZNZN00269-Black gold+ CJXFZNZN00269-Accessories CJXFZNZN00269-Black gold EU Plug set =CJXFZNZN00269-Black gold EU plug + CJXFZNZN00269-Accessories
+  Updated: 2025-10-01T18:27:22Z
+  Vendor: FusionVibestore
+  Product Type: Electronics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/756325f6-82dc-4d87-969d-2bd23a02a285.jpg?v=1759342037
+  Price: $18.71 USD
+- [12V Kids Off-Road UTV Electric Ride On Car Black Camouflage High Roof Remote Control Lights MP3 Adventure Toys](https://fusionvibestore.com/products/12v-kids-off-road-utv-electric-ride-on-car-black-camouflage-high-roof-remote-control-lights-mp3-adventure-toys)
+  Updated: 2025-10-01T18:27:27Z
+  Vendor: FusionVibestore
+  Product Type: Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3f8fe164-1b33-4eb3-862e-205b550ef387.jpg?v=1759342689
+  Price: $476.24 USD
+- [1 Set Bedside Table Lamp Touch Control Lamp With Clock Wireless Charging LED Desk Lamp Dimmable Nightstand Reading Lamp](https://fusionvibestore.com/products/1-set-bedside-table-lamp-touch-control-lamp-with-clock-wireless-charging-led-desk-lamp-dimmable-nightstand-reading-lamp): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only,the actual shipping carrier would be depended by the location,address,package dimension, product category, geographic location. *Features*: *Dimmable Touch Sensor Lamp*:Come with a sensitive touch sensor and a dimmer,our touch control lamp offers a much more generous target than a tiny toggle switch. Just tap anywhere on the aluminum frame to alter the light mode(white light–natural light-warm light)or long press the aluminum frame to adjust the brightness steplessly. *Wireless Charging & USB Charging Port*:This bedside table lamp doubles as a wireless charging dock as well as a light source,effectively reducing desktop clutter and keeping cord wrangling to a minimum.10W wireless fast charging greatly saves charging time and is fit for iPhone 13/13 mini/13 Pro/13 Pro Max/iPhone 12/12 mini/12 Pro/12 Pro Max/11/11 Pro/11 Pro Max/XS MAX/XR/XS/X/8/8 Plus and Samsung Galaxy S20/S10 plus and etc.. Besides,the extra 5V 1A charging port makes it compatible with more devices. *Digital Clock*:The digital clock design allows you to check time anytime you want during working,reading,and studying. You can also customize the backlight brightness of the clock according to your own habits. *Eye-friendly*:Flicker-free LED light source ensures visual comfort while reading at night,ideal for office,college dorm,reading room,living room,bedroom and bedside. *Minimalism Decoration*:The stripped-down design could be perfect for those who want to cut down on their desktop clutter or distractions,a sharp way to elevate your living room,bedroom,or office. *Specifications*: Product Type: Table Lamp Color: White + Wood Material: Wood + Aluminum Input: 9V 2A Output: 5V 1A Power: 10W Luminous Flux: 2701lm Color Temperature: 3000K-4500K-6000K Table Lamp Size: 29.8*16*7.8cm/11.7*6.3*3.1in Table Lamp Weight: 0.66lbs USB Charging Cable Length: 102cm/40.2in Package Size: 30.5x17x8.5cm/12x6.69x3.34in Package Weight: 522g/1.15lbs *Package Lists*: 1*Table Lamp 1* USB Charging Cable 1* User Manual
+  Updated: 2025-10-02T02:27:10Z
+  Vendor: FusionVibestore
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5be583a0-90fd-4eff-9f5a-86bcf689a869.jpg?v=1759342969
+  Price: $50.07 USD
+- [Home Rechargeable Water Replenishing Instrument Steamed Face Sprayer](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer): Overview: 1.Nano technology: convert water into a large number of water molecules, water quickly penetrates into the bottom layer of the skin and replenishes the skin, make the skin smooth, elastic and tender. 2.Mini size and portable: fill water anytime, anywhere.Foreverlily Larger water tank, 38ML large visible water tank is convenient for water amount observation. 4.2 In 1 function: a facial mister, a skin tester, and a portable power bank. Note: 1. Due to the difference between different monitors, the picture may not reflect the actual color of the item. We guarantee the style is the same as shown in the pictures. 2. Please allow slight dimension differences due to different manual measurements. Specification: Model: v29.v27.v39 Gear position: 1 gear Spray heat: Cold spray Fog time: 121-180 seconds Color: (three in one) test card box white, (three in one) test card box pink, (two in one) V27 card box white, (two in one) V27 card box pink, (two in one) 1) V27 card box type green, (two in one) V27 card box type purple Use body parts: Face, eyes, whole body, nasal cavity Package Content: 1 * Facial Mister 1 * USB 1 * manual 1 * box
+  Updated: 2025-10-01T19:28:12Z
+  Vendor: FusionVibestore
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1620938845538.jpg?v=1759343543
+  - [Test card box pink / USB](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer?variant=45615342911687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1867694237516.jpg?v=1759343558
+    Price: $15.69 USD
+  - [Test card box white / USB](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer?variant=45615342944455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2731572304608.jpg?v=1759343558
+    Price: $15.69 USD
+  - [V27 card box green / USB](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer?variant=45615342977223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3631076282388.jpg?v=1759343558
+    Price: $15.69 USD
+  - [V27 card box pink / USB](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer?variant=45615343009991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6669661650195.jpg?v=1759343558
+    Price: $15.69 USD
+  - [V27 card box purple / USB](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer?variant=45615343042759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/870103619172.jpg?v=1759343558
+    Price: $15.69 USD
+  - [V27 card box white / USB](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer?variant=45615343075527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2903836891585.jpg?v=1759343558
+    Price: $15.69 USD
+- [V Back Scrunch Butt Workout Leggings Women Seamless Gym Yoga Leggings High Waist](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist): Temu platform sheet currently supports: USPS UPS FEDEX UNI Butt lift Leggings: sexy booty leggings for women butt lift, stretchy hips lifting leggings, push up your bum into a juicepeach, leg bottom leggings show your curve gorgeously. High Quality & Garment Care: 90%Polyamide 10%Elastane. Power stretch fit, Naturally breathable, Non see-through. It's made of high quality materials, Great for for your workout gym and casual. Machine wash cold, Do not bleach Stretchy Seamless Leggings: The fabric stretches in all directions, allowing you to move freely without any restrictions. From training to yoga, they are squat proof and truly stay in place during intense workout positions. Moisture wicking, Soft, Smooth, Low-friction and Long-lasting comfortable performance. High Waist: These yoga pants designed with high waistband and tummy control, contour your curves and give you a streamlined look. It offers all the support and compression for your tummy and butt to get back in its original shape. Ultra-supportive but less rubbing and chafing. Applicable Occasions:This leg workout pants can make you perfect for yoga, fitness, dancing, running, pilates, hiking and other sports. You can also use it in your daily life such as work, school, shopping, traveling, party and so on.
+  Updated: 2025-10-01T18:37:59Z
+  Vendor: FusionVibestore
+  Product Type: CLOTHING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99.jpg?v=1759343775
+  - [BGY / L](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346188487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f8a9cb0f-9ba0-4415-b712-01d49659a0bd.jpg?v=1759343804
+    Price: $18.69 USD
+  - [BGY / M](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346221255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f8a9cb0f-9ba0-4415-b712-01d49659a0bd.jpg?v=1759343804
+    Price: $18.69 USD
+  - [BGY / S](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346254023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f8a9cb0f-9ba0-4415-b712-01d49659a0bd.jpg?v=1759343804
+    Price: $18.69 USD
+  - [BLU / L](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346286791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e0b3bbdd-b07e-4d28-a3b1-1b38f2c594da.jpg?v=1759343804
+    Price: $18.69 USD
+  - [BLU / M](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346319559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e0b3bbdd-b07e-4d28-a3b1-1b38f2c594da.jpg?v=1759343804
+    Price: $18.69 USD
+  - [COF / L](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346352327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/39e09706-c81c-4309-82cc-5f5b27cfaa5a.jpg?v=1759343804
+    Price: $18.69 USD
+  - [COF / M](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346385095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/39e09706-c81c-4309-82cc-5f5b27cfaa5a.jpg?v=1759343804
+    Price: $18.69 USD
+  - [COF / S](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346417863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/39e09706-c81c-4309-82cc-5f5b27cfaa5a.jpg?v=1759343804
+    Price: $18.69 USD
+  - [LGY / L](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346450631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99_0a4d2bdb-34a4-452e-8d1d-d6815c056dd9.jpg?v=1759343804
+    Price: $18.69 USD
+  - [LGY / M](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346483399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99_0a4d2bdb-34a4-452e-8d1d-d6815c056dd9.jpg?v=1759343804
+    Price: $18.69 USD
+  - [LGY / S](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist?variant=45615346516167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99_0a4d2bdb-34a4-452e-8d1d-d6815c056dd9.jpg?v=1759343804
+    Price: $18.69 USD
 
 ## Collections
 
@@ -681,11 +844,11 @@
   Updated: 2025-09-29T06:12:19Z
   Total Products: 2
 - [Sunglasses](https://fusionvibestore.com/collections/sunglasses)
-  Updated: 2025-09-18T12:32:09Z
-  Total Products: 0
+  Updated: 2025-10-01T17:59:11Z
+  Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-09-26T08:35:29Z
-  Total Products: 3
+  Updated: 2025-10-01T18:32:40Z
+  Total Products: 6
 
 ## Store Pages
 
