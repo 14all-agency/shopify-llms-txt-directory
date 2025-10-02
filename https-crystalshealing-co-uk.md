@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-02T00:00:37.167Z
+- Updated At: 2025-10-02T20:00:35.665Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4807,10 +4807,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:55Z
   Total Products: 18
 - [Crystal Necklaces](https://crystalshealing.co.uk/collections/necklaces): Explore our crystal necklaces – handmade, ethically sourced, and charged with healing energy. Find the perfect piece for love, clarity, protection or intention.
-  Updated: 2025-10-01T15:00:55Z
+  Updated: 2025-10-02T12:05:13Z
   Total Products: 50
 - [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength.
-  Updated: 2025-10-01T15:00:55Z
+  Updated: 2025-10-02T12:04:34Z
   Total Products: 176
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
   Updated: 2025-10-01T15:00:55Z
