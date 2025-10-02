@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-01T20:01:14.666Z
+- Updated At: 2025-10-02T00:01:15.334Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/very-important-pets-e-gift-card-gift-cards-500-749933.jpg?v=1700646913
     Price: £100.00 GBP
 - [Bicycle Pet Trailer in Steel Frame-Red/Black](https://veryimportantpets.shop/products/bicycle-pet-trailer-in-steel-frame-red-black): Discover the Dog Bike Trailer, the ideal travel companion for pets up to 30kg. Featuring a sturdy steel frame, weather-resistant oxford fabric, and breathable mesh windows for a secure, airy ride. Easy-entry zip door, safety leash ring, and smooth-rolling 20" wheels ready for any terrain.
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-01T23:30:25Z
   Vendor: PawHut
   Product Type: Bicycle Trailer
   Availability: Available
@@ -3826,7 +3826,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-with-scratching-posts-hammock-toy-ball-beige-170242.jpg?v=1700659460
   Price: £35.99 GBP
 - [242cm Adjustable Floor-To-Ceiling Cat Tree, with Artificial Decoration, Perches, Anti-Slip Kit](https://veryimportantpets.shop/products/242cm-adjustable-floor-to-ceiling-cat-tree-with-artificial-decoration-perches-anti-slip-kit): The perfect pet haven exists, thanks to this PawHut floor to ceiling cat tree. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:37Z
+  Updated: 2025-10-01T23:30:25Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4180,7 +4180,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-wooden-hamster-cage-with-entertainment-features-small-animal-cage-569862.jpg?v=1700664605
   Price: £107.99 GBP
 - [Four-Tier Wooden Hamster Cage - 60L x 40W x 120H cm](https://veryimportantpets.shop/products/four-tier-wooden-hamster-cage-60l-x-40w-x-120h-cm): This Pawhut cage is an excellent place for your small pets as this home offers plenty of room with four tiers. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:55Z
+  Updated: 2025-10-01T23:30:25Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4257,7 +4257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-443-x-65-cm-838158.jpg?v=1700645780
   Price: £80.99 GBP
 - [Enclosed Small Wooden Chicken Coop with Nesting Box](https://veryimportantpets.shop/products/enclosed-small-wooden-chicken-coop-with-nesting-box): Treat your chickens to the good life they deserve with this chicken chateau. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:47Z
+  Updated: 2025-10-01T23:30:25Z
   Vendor: PawHut
   Product Type: Chicken Coop
   Availability: Available
@@ -4387,7 +4387,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/expandable-diy-3-tier-steel-animal-playpen-cage-small-animal-cage-338833.jpg?v=1700655571
   Price: £71.99 GBP
 - [Two Tiers Rabbit Hutch and Run Wooden Guinea Pig Hutch Outdoor with Sliding Tray, Ramp and Water-resistant Roof, for 2-4 Rabbits](https://veryimportantpets.shop/products/two-tiers-rabbit-hutch-and-run-wooden-guinea-pig-hutch-outdoor-with-sliding-tray-ramp-and-water-resistant-roof-for-2-4-rabbits): This outdoor rabbit hutch from PawHut is great for use with rabbits, guinea pigs and similar sized animals. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:46Z
+  Updated: 2025-10-01T23:30:25Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4457,7 +4457,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/5-tier-hamster-cage-with-tunnel-wheel-ideal-for-dwarf-mice-small-animal-cage-958128.jpg?v=1700663926
   Price: £44.99 GBP
 - [Pet Playpen DIY Small Animal Cage Metal Fence with Door, 22 Pieces, for Bunny Chinchilla Hedgehog Guinea Pig](https://veryimportantpets.shop/products/pet-playpen-diy-small-animal-cage-metal-fence-with-door-22-pieces-for-bunny-chinchilla-hedgehog-guinea-pig): Small pets will have a spacious and secure area, thanks to this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:42Z
+  Updated: 2025-10-01T23:30:25Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4788,12 +4788,12 @@
   - [4x3kg](https://veryimportantpets.shop/products/alpha-sensitive-chicken-rice?variant=47147451023650)
     Availability: Not Available
     Price: £35.95 GBP
-- [Alpha Sensitive Extra with Duck & Rice Adult Dog Food](https://veryimportantpets.shop/products/alpha-sensitive-extra-duck-rice-15-kg): Alpha Sensitive Extra, hypo-allergenic & wheat gluten free dog food with Duck & Rice is perfect for adult working dogs with dietary sensitivities.
-  Updated: 2025-09-30T21:10:18Z
+- [Alpha Sensitive Extra 25% Protein Duck & Rice Dry Dog Food](https://veryimportantpets.shop/products/alpha-sensitive-extra-duck-rice-15-kg): Alpha Sensitive Extra 25% Protein Adult Dry Dog Food, wheat gluten-free with Duck & Rice for sensitive adult dogs. Supports digestion & healthy skin/coat.
+  Updated: 2025-10-01T21:11:41Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/alpha-sensitive-extra-with-duck-rice-dry-adult-dog-food-15-kg-working-dry-348523.jpg?v=1730373947
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Sensitive-Extra-2.jpg?v=1759353006
   Price: £36.18 GBP
 - [Alpha Sporting Puppy Hypoallergenic Diet for Active Puppies](https://veryimportantpets.shop/products/alpha-sporting-puppy): Give your puppy the best start in life with Alpha Sporting Puppy - a hypoallergenic, wheat gluten-free diet high in protein for growth and development.
   Updated: 2025-09-30T21:10:19Z
@@ -8644,11 +8644,11 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-wheat-free-complete-chicken-and-rice-sensitive-dry-12-kg-961666.jpg?v=1700646715
     Price: £24.62 GBP
 - [Alpha Working Maintenance - Balanced Diet for Active Dogs](https://veryimportantpets.shop/products/alpha-adult-maintainance-worker-dog-beef-15-kg): Alpha Working Maintenance provides balanced diet with freshly cooked meat and vitamins for energy control. Ideal for active and overweight adult dogs.
-  Updated: 2025-10-01T13:35:55Z
+  Updated: 2025-10-01T20:59:52Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/alpha-working-maintenance-with-beef-dry-adult-dog-dog-food-15-kg-working-dry-929878.jpg?v=1730373947
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Working-Maintenance.jpg?v=1759351988
   Price: £21.79 GBP
 - [Adventuros Wild Boar Nuggets 6x90g](https://veryimportantpets.shop/products/adventuros-wild-boar-nuggets-6x90g): Adventurous Nuggets Dog Treats are a deliciously meaty snack that comes in a resealable pack to maintain the freshness of the boar flavoured treat. Shop online at Very Important Pets
   Updated: 2025-09-29T17:28:26Z
@@ -8878,7 +8878,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-rewards-variety-dog-training-treats-8-pack-training-treats-172197.webp?v=1735319222
   Price: £12.10 GBP
 - [BAKERS Sizzlers Dog Treats - Bacon Flavour & Low-Fat](https://veryimportantpets.shop/products/bakers-sizzlers-bacon-treats): BAKERS Sizzlers: Delicious chewy bacon-flavored treats packed with nutrients for a healthy dog. Omega 3 & 6, vitamins, antioxidants & B Vitamins included.
-  Updated: 2025-09-29T13:28:26Z
+  Updated: 2025-10-01T22:41:17Z
   Vendor: Bakers
   Product Type: Dog Treats
   Availability: Available
@@ -23271,7 +23271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/paddock-farm-natural-hairy-rabbit-ears-dog-chew-natural-treats-500g-764974.jpg?v=1725416641
   Price: £11.28 GBP
 - [Webbox Chicken Fillets 12x90g - Tasty & Nutritious Treats](https://veryimportantpets.shop/products/webbox-chicken-fillets-dog-treats): Give your dog the best with Webbox Chicken Fillets Dog Treats! 99% chicken, low fat, gluten-free, and great for dental health. Fussiest eaters approved!
-  Updated: 2025-09-26T08:28:07Z
+  Updated: 2025-10-01T20:14:30Z
   Vendor: Webbox
   Product Type: Natural Treats
   Availability: Available
@@ -24005,7 +24005,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T11:40:05Z
   Total Products: 204
 - [Dry Dog Food & Kibble - Premium Brands | Very Important Pets](https://veryimportantpets.shop/collections/dry-dog-food): Find tailored dry dog food nutrition for all breeds, ages, and diets, including grain-free and hypoallergenic. Perfect for your dog’s health and taste preferences.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 434
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
   Updated: 2025-09-30T21:10:31Z
@@ -24101,10 +24101,10 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T15:31:18Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 584
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
-  Updated: 2025-09-22T18:52:15Z
+  Updated: 2025-10-01T21:47:34Z
   Total Products: 48
 - [Dog Essentials - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-essentials): Dog Essentials - Very Important Pets | Shop
   Updated: 2025-09-30T11:38:03Z
@@ -24140,7 +24140,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 1783
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-09-22T18:51:59Z
@@ -24521,7 +24521,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T11:40:05Z
   Total Products: 12
 - [Cat Treats for Every Occasion | VIP Pets Shop](https://veryimportantpets.shop/collections/cat-treats): Discover crunchy, soft, and dental cat treats for all ages at Very Important Pets. 60+ nourishing options from leading brands to keep cats happy and healthy.
-  Updated: 2025-09-30T21:10:38Z
+  Updated: 2025-10-01T21:47:34Z
   Total Products: 59
 - [Cat Dental Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/cat-dental-treats): Cat Dental Treats - Very Important Pets | Shop
   Updated: 2025-09-30T21:10:38Z
@@ -24587,7 +24587,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 1950
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24662,7 +24662,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-01-13T21:04:22Z
   Total Products: 2
 - [Alpha: Premium Pet Nutrition With Heritage | Very Important Pets](https://veryimportantpets.shop/collections/alpha): Explore Alpha's century-long expertise in pet nutrition. Shop their high-quality, locally-sourced pet foods at Very Important Pets for optimal health and vitality.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 10
 - [Multi-Pack](https://veryimportantpets.shop/collections/pre-order)
   Updated: 2025-10-01T09:28:32Z
@@ -24764,7 +24764,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-30T21:10:36Z
   Total Products: 9
 - [Applaws: Natural Dog & Cat Food | Very Important Pets | Shop](https://veryimportantpets.shop/collections/applaws): Indulge in Applaws' natural, high-protein cat & dog food at Very Important Pets. Ethically sourced ingredients ensure your pet's health and vitality.
-  Updated: 2025-09-22T18:52:15Z
+  Updated: 2025-10-01T21:47:34Z
   Total Products: 40
 - [Cesar: Small Breed Gourmet Food | Very Important Pets | Shop](https://veryimportantpets.shop/collections/cesar): Find Cesar's sustainable, human-grade wet dog food for small breeds at Very Important Pets. Rich flavours, complete nutrition, and eco-friendly packaging.
   Updated: 2025-09-30T21:10:19Z
@@ -24773,7 +24773,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-21T11:32:20Z
   Total Products: 15
 - [Premium Working & Sporting Dog Food - For Active Canines](https://veryimportantpets.shop/collections/working-sporting-dog): Shop VAT-free premium dog food for active and assistance dogs at Very Important Pets. Top brands like Skinner's, Autarky, Dr. John.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 126
 - [Cold Pressed Dog Food | Natural Nutrition | Very Important Pets](https://veryimportantpets.shop/collections/cold-pressed): Discover Forthglade's Cold Pressed Dog Food at Very Important Pets for natural, nutrient-rich meals. Ideal for all dogs, especially with sensitive digestion.
   Updated: 2025-09-30T21:10:22Z
@@ -24791,7 +24791,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 2323
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
@@ -24875,7 +24875,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-08-26T15:31:10Z
   Total Products: 8
 - [VAT-Free Dry & Wet Working Dog Foods | Very Important Pets](https://veryimportantpets.shop/collections/vat-free-dog-foods): Shop VAT-Free Working Dog Food: Save 20%, high-protein & carb-rich for active dogs. Ideal for working & active breeds. Quality brands assured.
-  Updated: 2025-10-01T18:11:24Z
+  Updated: 2025-10-01T20:57:57Z
   Total Products: 126
 - [Sheba Cat Food: Gourmet Flavors for Discerning Felines](https://veryimportantpets.shop/collections/sheba-cat-food-range): Delight your cat with Sheba's gourmet wet food. Luxurious, sustainable choices in trays, domes and pouches for the ultimate feline dining experience.
   Updated: 2025-09-30T21:10:36Z
