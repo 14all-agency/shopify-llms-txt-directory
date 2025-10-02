@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-02T04:00:48.357Z
+- Updated At: 2025-10-02T08:00:48.449Z
 
 ## Products
 
@@ -7105,7 +7105,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-02T01:45:18Z
+  Updated: 2025-10-02T04:50:03Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11068,14 +11068,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $40.00 NZD
 - [BYEBYEBAD Blue Light Face Shield 75ml](https://www.littlebambinos.co.nz/products/blue-light-face-shield): Devices are everywhere, are not going anywhere and if you don’t use one then you’re lying because this is a website. While devices have brought much joy to the world, we are now learning that the light emitted from them can cause damage to skin much like the sun does. So just like we know to wear sunscreen before being in the sun, we need to protect our faces before hitting the screens for the day. Introducing the Blue Light Face Shield. A genius wee product designed to fend off the blue rays (not DVD’s) and protect all your lovely face skin. Featuring powerhouse antibacterial and antioxidant ingredients Bioactive Totarol™ from fallen NZ Tōtara trees and EnergiNius®, derived from Indian Ginseng roots that protects skin cells and helps prevent fine lines and wrinkles. A simple few pumps before you start your day will see you prepared and protected. Nice. 100% natural soothing protects skin cells through EnergiNius® antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly perfect for gaming nerds Ingredients: Aqua (Water); Aloe Barbadensis (Aloe Vera) Leaf Juice; Glycerin; Algae Extract [New Zealand Native Red Seaweed]; Cyathea Medullaris Extract [New Zealand Native Black Fern]; Camellia Sinensis [New Zealand Grown Certified Organic Green Tea]; Ribes Nigrum [New Zealand Grown Certified Organic Blackcurrant]; Fructose; Withania Somnifera (Indian Ginseng) Root Extract; Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Galactoarabinan; SodiumBenzoate, Potassium Sorbate; Caprylhydroxamic Acid; Glyceryl Caprylate; Gluconolactone, Calcium Gluconate; Phytic acid.
-  Updated: 2025-09-30T00:22:40Z
+  Updated: 2025-10-02T06:40:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-10-01T17:32:46Z
+  Updated: 2025-10-02T07:32:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -11096,7 +11096,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-09-27T03:18:41Z
+  Updated: 2025-10-02T07:36:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -15635,7 +15635,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-56-pieces-Glitter-Unicorn-Pack-1_1000x1000_bc7d2a0a-f059-4579-a3bc-6aebf87dc1d2.webp?v=1754441899
   Price: $142.99 NZD
 - [CONNETIX Glitter Castle Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-glitter-castle-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T01:45:36Z
+  Updated: 2025-10-02T07:03:40Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15656,7 +15656,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-10-01T22:22:43Z
+  Updated: 2025-10-02T05:22:41Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
@@ -16771,8 +16771,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-02T03:43:13Z
-  Total Products: 439
+  Updated: 2025-10-02T07:43:11Z
+  Total Products: 438
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17623,7 +17623,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-02T03:43:14Z
+  Updated: 2025-10-02T07:43:11Z
   Total Products: 1324
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-02T02:15:26Z
