@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-01T12:00:33.099Z
+- Updated At: 2025-10-02T08:00:35.240Z
 
 ## Products
 
@@ -2598,7 +2598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/chic-tie-neck-frill-dress-with-three-quarter-sleeves-415105.jpg?v=1715725367
     Price: $60.50 USD
 - [Lola's Flair: Women's Fashionable Flat Sandals](https://milvertons.com/products/lolas-flair-womens-fashionable-flat-sandals): Lola's Flair: Women's Fashionable Flat Sandals - a touch of sophistication in the right measure. If you were looking for a sandal for life, you've found them!
-  Updated: 2025-09-30T15:03:54Z
+  Updated: 2025-10-01T18:42:32Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -3654,7 +3654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-matching-bag-for-parties-african-style-753358.webp?v=1715725352
     Price: $119.18 USD
 - [Cap Sleeve Round Neck Knit Two-Piece Set - Top & Pants](https://milvertons.com/products/cap-sleeve-round-neck-knit-two-piece-set-top-pants): Introducing the Cap Sleeve Round Neck Knit Two-Piece Set, a stylish addition to your wardrobe. Shop now at Milvertons and add this chic set to your collection.
-  Updated: 2025-09-30T15:06:32Z
+  Updated: 2025-10-01T18:13:00Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -4474,13 +4474,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-monza-white-strappy-basket-weave-heel-by-oasis-society-1125965.jpg?v=1751555864
   Price: $68.00 USD
-- [The Zoey | Light Gold knotted band platform heel](https://milvertons.com/products/the-zoey-light-gold-knotted-band-platform-heel-by-oasis-society): The Zoey | Light Gold knotted band platform heels by Oasis Society - brought to you by Milvertons
-  Updated: 2025-09-30T15:08:12Z
-  Vendor: Oasis Society
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-zoey-light-gold-knotted-band-platform-heel-by-oasis-society-514383.jpg?v=1748887957
-  Price: $100.00 USD
 - [The Princess | White Pointed Toe Heel with Ankle Strap](https://milvertons.com/products/the-princess-white-pointed-toe-heel-with-ankle-strap-by-oasis-society): The Princess | White Pointed Toe Heel with Ankle Strap by Oasis Society - brought to you by Milvertons
   Updated: 2025-10-01T08:26:40Z
   Vendor: Oasis Society
@@ -4927,7 +4920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-09-30T19:10:55Z
+  Updated: 2025-10-01T22:10:46Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10533,8 +10526,8 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 102
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-01T06:30:22Z
-  Total Products: 46
+  Updated: 2025-10-01T22:28:13Z
+  Total Products: 45
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-09-06T02:19:06Z
   Total Products: 145
@@ -10563,8 +10556,8 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 55
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-09-27T21:58:46Z
-  Total Products: 350
+  Updated: 2025-10-01T22:28:38Z
+  Total Products: 349
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -10572,7 +10565,7 @@
   Updated: 2024-02-05T00:16:28Z
   Total Products: 0
 - [Carro Brand Partnerships](https://milvertons.com/collections/carro-brand-partnerships): This collection contains the products added from Carro Brand Partnerships with Suppliers.
-  Updated: 2025-08-29T05:26:55Z
+  Updated: 2025-10-01T22:28:12Z
   Total Products: 11
 - [Skirts Collection](https://milvertons.com/collections/skirts-1): Skirts Collection - Milvertons
   Updated: 2025-09-26T06:52:19Z
@@ -11116,7 +11109,7 @@
     Author: The Milvertons Store
     Tags: accessories, chic fashion staples, coordinated outfits for women, dresses, elegant bags, fashion, matching shoes and bag for women, shoe and bag set for women, shoe trends, style, women's clothing, women's fashion, women's shoe and bag set
   - [Mastering the Art of Outfit Coordination in Women's Fashion](https://milvertons.com/blogs/blog/mastering-the-art-of-outfit-coordination-in-womens-fashion): Mastering the Art of Outfit Coordination in Women's Fashion
-    Updated: 2025-10-01T09:06:48Z
+    Updated: 2025-10-01T14:27:28Z
     Author: The Milvertons Store
     Tags: accessorizing outfits, bags, clothing, dresses, matching shoes and bag for women, outfit ideas, shoe and bag set for women, shoes, style coordination, tips for dressing, women's clothing, women's fashion, women's shoe and bag set, women’s fashion
 
