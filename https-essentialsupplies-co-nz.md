@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-01T20:00:39.227Z
+- Updated At: 2025-10-02T00:00:37.417Z
 
 ## Products
 
@@ -4643,7 +4643,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/squeegee-window-washer-black-300mm-wide-window-cleaning-essential-supplies-840648.jpg?v=1719445811
   Price: $20.00 NZD
 - [Squeegee Window Washer - Black, 400mm Wide](https://essentialsupplies.co.nz/products/squeegee-window-washer-black-400mm-wide-6): Squeegee Pro window cleaners feature a premium quality reversible twin life blade for added durability and a streak free finish. Sturdy and robust with an anodised aluminum channel construction. Available in a range of head widths from 200mm to 400mm.
-  Updated: 2025-01-08T20:17:46Z
+  Updated: 2025-10-01T20:09:25Z
   Vendor: Mattews Packaging
   Product Type: Window Cleaning
   Availability: Available
