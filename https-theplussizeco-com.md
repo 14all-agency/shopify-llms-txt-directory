@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-02T04:00:30.405Z
+- Updated At: 2025-10-02T08:00:30.413Z
 
 ## Products
 
@@ -468,13 +468,6 @@
   - [10XL](https://theplussizeco.com/products/olive-printed-flared-dress-with-pockets?variant=44667541880885)
     Availability: Available
     Price: ₹894.00 INR
-- [Plus Size Vibrant Red Flared Dress with Pockets- plus size store](https://theplussizeco.com/products/vibrant-red-flared-dress-with-pockets): Step out in confidence with our Vibrant Red Flared Dress with Pockets. Features poly satin fabric and V neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-12T11:44:21Z
-  Vendor: The Plus Size Co.
-  Product Type: Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Vibrant_Red_Flared_Dress_with_Pockets.png?v=1756533109
-  Price: ₹995.00 INR
 - [Plus Size Navy Abstract Printed Dress with Pockets - plus size store](https://theplussizeco.com/products/navy-abstract-printed-dress-with-pockets): A dress that blends modern prints with our Navy Abstract Printed Dress with Pockets. Features polyester fabric and V neckline. Size in XL to 10XL.
   Updated: 2025-09-20T07:15:11Z
   Vendor: The Plus Size Co.
@@ -765,7 +758,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeMustardSuitSet_1.png?v=1758624630
   Price: ₹1,295.00 INR
 - [Magenta Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/magenta-floral-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-09-29T23:15:51Z
+  Updated: 2025-10-02T06:32:41Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -784,13 +777,6 @@
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeGreenFloralSuitSet_2.png?v=1758626259
-  Price: ₹1,395.00 INR
-- [Mauve Block Suit Set- The Plus Size Co.](https://theplussizeco.com/products/mauve-block-suit-set): Serenity in every stitch with our Mauve Block Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-01T19:43:37Z
-  Vendor: The Plus Size Co.
-  Product Type: Suit Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlsuSizeSoftPinkSuitSet_1.png?v=1758627028
   Price: ₹1,395.00 INR
 - [Sky Blue Block Print Suit Set- The Plus Size Co.](https://theplussizeco.com/products/sky-blue-block-print-suit-set): Serenity in every stitch with our Sky Blue Block Print Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
   Updated: 2025-09-29T05:20:14Z
@@ -837,7 +823,7 @@
   Updated: 2025-09-30T11:20:22Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2025-10-01T11:19:02Z
+  Updated: 2025-10-02T07:25:20Z
   Total Products: 57
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
   Updated: 2025-09-26T11:19:40Z
