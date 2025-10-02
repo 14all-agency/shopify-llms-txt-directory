@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-02T16:00:36.167Z
+- Updated At: 2025-10-02T20:00:37.523Z
 
 ## Products
 
@@ -88,11 +88,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS234-124-PortofinoShawl-Moss-white-web_1.jpg?v=1751375505
     Price: $355.00 USD
 - [Buy Rib Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rib-throw): buy rib throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T20:30:12Z
+  Updated: 2025-10-02T16:23:31Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-indiansummer-lighttaupebed_1_1.jpg?v=1754061758
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-mixedproduct-ribthrow-mysticpillow.jpg?v=1759422211
   - [Pink Powder](https://aliciaadamsalpaca.com/products/rib-throw?variant=40826839695475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH105-110PinkPowder.jpg?v=1758899748
@@ -360,11 +360,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW200-138-Swing-Coat-Cayenne-Lookbook-5.jpg?v=1756744533
     Price: $685.00 USD
 - [Buy Buckley Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/buckley-throw): Buy Buckley Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-30T19:17:03Z
+  Updated: 2025-10-02T16:23:09Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_0326.jpg?v=1756744508
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDbuckley-2__50827.1657336088.1280.1280.jpg?v=1759422189
   - [Ivory](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849263731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-01-BuckleyThrow-Ivory-white-web.jpg?v=1697649897
@@ -746,7 +746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as290-07-24-houndstoothscarf-brown-lightblue-white-web.jpg?v=1735832602
     Price: $95.00 USD
 - [Buy Alassio Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/alassio-wrap): Buy Alassio Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T20:18:21Z
+  Updated: 2025-10-02T19:54:31Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -1512,11 +1512,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak112-39-45-salzburgcardigan-lightpink-hotpink-f-white-web.jpg?v=1697553228
     Price: $145.00 USD
 - [Buy Morgan Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/morgan-throw): buy morgan throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-26T16:30:55Z
+  Updated: 2025-10-02T16:30:55Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_6846_bdb2cfa7-809f-428f-80e6-709cb112dfdd.jpg?v=1743504571
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-mixedproduct-morganthrow.jpg?v=1759422655
   - [Ivory](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40258464809075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-01-MorganThrow-Ivory-wood-web_1.jpg?v=1697650639
@@ -3020,11 +3020,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1960.jpg?v=1756744021
     Price: $495.00 USD
 - [Buy Graydon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-throw): buy graydon throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:26:38Z
+  Updated: 2025-10-02T16:25:06Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-hudsoneuro-mysticsquare-hudsonlumbar-kinghudson-gramercythrow-graydonthrow_e8d05cf6-a271-4417-b012-1dab929eef61.jpg?v=1756743990
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah516-90-01-graydonthrow-frenchyellow-ivory-wood.jpg?v=1759422306
   - [French Yellow / Ivory](https://aliciaadamsalpaca.com/products/graydon-throw?variant=40826894942323)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-1sd-ah516-90-01-graydonthrow-frenchyellow-ivory-flatwhite.jpg?v=1735831086
@@ -4040,14 +4040,14 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak212-27-98-charliehat-navy-peridot-white-hr.jpg?v=1692653972
     Price: $95.00 USD
 - [Buy Hudson Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/hudson-throw): buy hudson throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T18:45:16Z
+  Updated: 2025-10-02T16:31:20Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-IMG_60636.jpg?v=1749205253
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59063_44f03ef8-c86b-4187-8c04-6b7748495f84.jpg?v=1759422680
   - [Camel / Ivory](https://aliciaadamsalpaca.com/products/hudson-throw?variant=40826897301619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-IMG_60636.jpg?v=1749205253
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-IMG_60636.jpg?v=1759422564
     Price: $795.00 USD
   - [French Yellow / Beige](https://aliciaadamsalpaca.com/products/hudson-throw?variant=40826897268851)
     Availability: Available
@@ -4126,11 +4126,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AP217-14-16-AberdeenPillow-DarkGrey-Charcoal-white-web.jpg?v=1711566730
     Price: $295.00 USD
 - [Buy Aberdeen Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/aberdeen-throw): Buy Aberdeen Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-26T20:26:00Z
+  Updated: 2025-10-02T16:20:28Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aberdeenthrowcollection.jpg?v=1749204239
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_3862copy.jpg?v=1759422028
   - [Ivory / Orange](https://aliciaadamsalpaca.com/products/aberdeen-throw?variant=40826838122611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah217-01-69-aberdeenthrow-ivory-orange-white-hr.jpg?v=1719417187
@@ -5288,50 +5288,50 @@
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDCouch_1.jpg?v=1756743237
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SDCouch_1.jpg?v=1759423465
   - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850639987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-02-01-12-CanyonThrow-Beige-Ivory-LightGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-02-01-12-CanyonThrow-Beige-Ivory-LightGrey-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Light Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850672755)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-102-CanyonThrow-LightTaupe-white-web_1.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-102-CanyonThrow-LightTaupe-white-web_1.jpg?v=1759423465
     Price: $387.00 USD
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851229811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850574451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Light Grey / Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850607219)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-12-14-01-CanyonThrow-LightGrey-Grey-Ivory-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-12-14-01-CanyonThrow-LightGrey-Grey-Ivory-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851000435)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850836595)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Taupe / Dark Grey / Paprika](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851065971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40258962784371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51655979991412)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-24-12-01-CanyonThrow-LightBlue-LightGrey-Ivory-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-24-12-01-CanyonThrow-LightBlue-LightGrey-Ivory-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Ivory / Denim Blue / Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51655980056948)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114-01-114-27_2.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114-01-114-27_2.jpg?v=1759423465
     Price: $387.00 USD
   - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51656650064244)
     Availability: Available
@@ -5339,39 +5339,39 @@
     Price: $387.00 USD
   - [Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851033203)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Forest Green](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850738291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850508915)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-01-3.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-01-3.jpg?v=1759423465
     Price: $387.00 USD
   - [Charcoal](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850967667)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1759423465
     Price: $387.00 USD
   - [Black / Charcoal / Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850934899)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Chocolate / Black / Dark Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850902131)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-08-17-14-CanyonThrow-Chocolate-Black-DarkGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-08-17-14-CanyonThrow-Chocolate-Black-DarkGrey-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850771059)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1759423465
     Price: $387.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850803827)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-37-3.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-37-3.jpg?v=1759423465
     Price: $387.00 USD
   - [Camel](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850869363)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1759423465
     Price: $387.00 USD
 - [Buy Reversible Hat | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-hat-for-women): buy reversible hat for women, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-09-23T14:20:26Z
@@ -6496,7 +6496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
     Price: $195.00 USD
 - [Buy Samira Coat | Luxury Alpaca Women's Coat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/samira-coat): buy samira coat, luxury alpaca women's coat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T18:41:08Z
+  Updated: 2025-10-02T16:09:27Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -7045,7 +7045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH227-15-Millbrook-Throw-Dark-Grey-Wood.jpg?v=1705362374
     Price: $495.00 USD
 - [Buy Kingston Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/kingston-alpaca-throw): buy kingston throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T18:49:02Z
+  Updated: 2025-10-02T17:41:01Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -11681,208 +11681,208 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite.jpg?v=1705412906
     Price: $495.00 USD
 - [Buy Classic Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-throw): Discover luxurious comfort with our Alicia Adams Alpaca Classic Throws. Available in over 100 vibrant hues, these throws add elegance to any space. Perfect for cozy nights or stylish accents. Buy now & earn rewards! Shop our fair-trade, eco-friendly luxury goods.
-  Updated: 2025-10-01T18:15:04Z
+  Updated: 2025-10-02T18:56:11Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ivorybed_1_50b314eb-8ca9-48db-bd12-9ae5db2ee14f.jpg?v=1756734243
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-indiansummer-frenchyellowbed_1_1_20779fb3-b2fb-4940-b61a-8733e9a72c28.jpg?v=1759422715
   - [Solid White](https://aliciaadamsalpaca.com/products/classic-throw?variant=40559431647347)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-128-classicthrow-white-white-hr_c634138f-71d5-45d8-8694-136ccb4a6dbd.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-128-classicthrow-white-white-hr_c634138f-71d5-45d8-8694-136ccb4a6dbd.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Ivory](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874101875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-01-classicthrow-ivory-white-hr_6e7718e3-595b-457d-93de-b0af25e328ee.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-01-classicthrow-ivory-white-hr_6e7718e3-595b-457d-93de-b0af25e328ee.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Oatmeal](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874134643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-03-classicthrow-oatmeal-white-hr_3e13cead-b04d-4969-bdb7-494c441f3b5b.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-03-classicthrow-oatmeal-white-hr_3e13cead-b04d-4969-bdb7-494c441f3b5b.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Taupe](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874429555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-05-classicthrow-taupe-white-hr_8cabfeca-9c5b-4431-84e3-f0ff009b72d6.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-05-classicthrow-taupe-white-hr_8cabfeca-9c5b-4431-84e3-f0ff009b72d6.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Barley](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874167411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-02-classicthrow-barley-white-hr_75f87f85-34b0-411a-9225-810bcefa823e.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-02-classicthrow-barley-white-hr_75f87f85-34b0-411a-9225-810bcefa823e.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Fawn](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874200179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-129-classicthrow-fawn-white-hr_ebac8f23-c8e7-4f17-9d5c-12bd5df0f3a8.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-129-classicthrow-fawn-white-hr_ebac8f23-c8e7-4f17-9d5c-12bd5df0f3a8.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Craft](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874331251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-88-classicthrow-craft-white-hr_9046c597-fba7-4f85-a2f8-4b11d28b7a15.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-88-classicthrow-craft-white-hr_9046c597-fba7-4f85-a2f8-4b11d28b7a15.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Light Taupe](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874265715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-102-classicthrow-lighttaupe-white-hr_d1a25a15-d46b-4dde-8aef-47de8dad32cd.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-102-classicthrow-lighttaupe-white-hr_d1a25a15-d46b-4dde-8aef-47de8dad32cd.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Clay](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874396787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-77-classicthrow-clay-white-hr_e8e7421f-77a9-4287-a720-624a97890af0.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-77-classicthrow-clay-white-hr_e8e7421f-77a9-4287-a720-624a97890af0.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Cognac](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874527859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-11-classicthrow-cognac-white-hr_04fcfe47-6f91-4c0c-8f48-5bb9a11aaca1.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-11-classicthrow-cognac-white-hr_04fcfe47-6f91-4c0c-8f48-5bb9a11aaca1.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Camel](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874232947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-49-classicthrow-camel-white-hr_e622931e-ddfd-40b9-9cfc-6b1b9e8f676f.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-49-classicthrow-camel-white-hr_e622931e-ddfd-40b9-9cfc-6b1b9e8f676f.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Sand](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874298483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-04-classicthrow-sand-white-hr_0e3b136d-ee3e-4d99-850a-61248eb19700.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-04-classicthrow-sand-white-hr_0e3b136d-ee3e-4d99-850a-61248eb19700.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Chocolate](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874593395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-08-classicthrow-chocolate-white-hr_71045fa1-34ba-453b-96eb-2458994e1d19.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-08-classicthrow-chocolate-white-hr_71045fa1-34ba-453b-96eb-2458994e1d19.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Mocha](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874364019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-144-classicthrow-mocha-white-hr_2dcb4d22-79e5-427f-9432-3bc90cbc0658.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-144-classicthrow-mocha-white-hr_2dcb4d22-79e5-427f-9432-3bc90cbc0658.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Fudge](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874626163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-18-classicthrow-fudge-white-hr_46f7bf9d-1c23-43c0-afec-ac78116d6e3a.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-18-classicthrow-fudge-white-hr_46f7bf9d-1c23-43c0-afec-ac78116d6e3a.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Brown](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874495091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-09-classicthrow-brown-white-hr_859a5ac1-ee2c-4dcc-96a9-fdcc5b97713a.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-09-classicthrow-brown-white-hr_859a5ac1-ee2c-4dcc-96a9-fdcc5b97713a.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Whiskey](https://aliciaadamsalpaca.com/products/classic-throw?variant=42126026408051)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah102-10-classicsolidthrow-whiskey-white-web_4e171b54-5857-44eb-b947-094212620ff8.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah102-10-classicsolidthrow-whiskey-white-web_4e171b54-5857-44eb-b947-094212620ff8.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Cafe](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874462323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-07-classicthrow-cafe-white-hr_f8f65def-605b-43a0-9e9e-a6e6df40c897.jpg?v=1751370691
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-07-classicthrow-cafe-white-hr_f8f65def-605b-43a0-9e9e-a6e6df40c897.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Maroon](https://aliciaadamsalpaca.com/products/classic-throw?variant=53456835379572)
     Availability: Available
     Price: $475.00 USD
   - [Solid Bark](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874560627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-136-classicthrow-bark-white-hr_c56c5e22-d1ab-4ed0-93a8-84fb8de01d0d.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-136-classicthrow-bark-white-hr_c56c5e22-d1ab-4ed0-93a8-84fb8de01d0d.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Jet Black](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874658931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-17-classicthrow-jetblack-white-hr_094baca7-98fd-4343-9ce6-e56afe94c7b5.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-17-classicthrow-jetblack-white-hr_094baca7-98fd-4343-9ce6-e56afe94c7b5.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Smokey Heather](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874691699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-14-classicthrow-smokeyheather-white-hr_2a5f537d-deb2-4831-880e-a2a7953bb816.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-14-classicthrow-smokeyheather-white-hr_2a5f537d-deb2-4831-880e-a2a7953bb816.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Grey](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874757235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-79-classicthrow-grey-white-hr_2a1d0c92-4585-4f2a-9c29-7a41d7d9b317.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-79-classicthrow-grey-white-hr_2a1d0c92-4585-4f2a-9c29-7a41d7d9b317.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Dark Grey](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874724467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-15-classicthrow-darkgrey-white-hr_65d38a2e-bf2c-41bd-be9d-8882c81a43f0.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-15-classicthrow-darkgrey-white-hr_65d38a2e-bf2c-41bd-be9d-8882c81a43f0.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Platinum](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874790003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-12-classicthrow-platinum-white-hr_62cd5ddd-42e4-477b-ac06-5bf9ef0a5a26.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-12-classicthrow-platinum-white-hr_62cd5ddd-42e4-477b-ac06-5bf9ef0a5a26.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Pearl Grey](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874822771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-13-classicthrow-pearlgrey-white-hr_45193a4c-e015-4987-b101-bf3d14339b1d.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-13-classicthrow-pearlgrey-white-hr_45193a4c-e015-4987-b101-bf3d14339b1d.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Carbon](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874855539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-120-classicthrow-carbon-white-hr_0d25262f-6c5f-48f6-9b7f-18a239e52fef.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-120-classicthrow-carbon-white-hr_0d25262f-6c5f-48f6-9b7f-18a239e52fef.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Stone](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826877214835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-newcelery.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-newcelery.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Seafoam](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875248755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-106-classicthrow-seafoam-white-hr_23026a3f-6c6a-4d59-b24f-3d3faf86a3d2.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-106-classicthrow-seafoam-white-hr_23026a3f-6c6a-4d59-b24f-3d3faf86a3d2.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Sage](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875281523)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-54-classicthrow-sage-white-hr_b9803c9a-2d82-471a-bd46-3afe1fdba29f.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-54-classicthrow-sage-white-hr_b9803c9a-2d82-471a-bd46-3afe1fdba29f.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Peridot Aqua](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875052147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-98-classicthrow-peridotaqua-white-hr_8b32923f-9012-46d9-90ad-41c0364d9304.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-98-classicthrow-peridotaqua-white-hr_8b32923f-9012-46d9-90ad-41c0364d9304.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Jade](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875215987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-81-classicthrow-jade-white-hr_72a44417-79ac-4b36-badc-9ac0d0125c66.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-81-classicthrow-jade-white-hr_72a44417-79ac-4b36-badc-9ac0d0125c66.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Gimlet](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875084915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-61-classicthrow-gimlet-white-hr_fa3cb346-7eb3-4cc1-9776-a6ddadc42ed1.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-61-classicthrow-gimlet-white-hr_fa3cb346-7eb3-4cc1-9776-a6ddadc42ed1.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Grass Green](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875117683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-91-classicthrow-grassgreen-white-hr_5785a5b6-a0c9-49f2-a51e-b08e7024ba3d.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-91-classicthrow-grassgreen-white-hr_5785a5b6-a0c9-49f2-a51e-b08e7024ba3d.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Bottle Green](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875150451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-96-classicthrow-bottlegreen-white-hr_ec525926-a1d8-404f-84a7-4d9a78082560.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-96-classicthrow-bottlegreen-white-hr_ec525926-a1d8-404f-84a7-4d9a78082560.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Vibrant Green](https://aliciaadamsalpaca.com/products/classic-throw?variant=42126026211443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah102-198-classicthrowvibrantgreen_hr.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah102-198-classicthrowvibrantgreen_hr.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Kelly Green](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875183219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-212-classicherringbonethrow-kellygreen-flatwhite_b2f7ef27-54a6-428c-a5d1-4a7cb6a7d34f.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-212-classicherringbonethrow-kellygreen-flatwhite_b2f7ef27-54a6-428c-a5d1-4a7cb6a7d34f.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Evergreen](https://aliciaadamsalpaca.com/products/classic-throw?variant=41676044435571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah102-203-classic_solid_throw-evergreen-flat_white_accebc61-b8f0-4f5a-80ab-9374777edcd7.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah102-203-classic_solid_throw-evergreen-flat_white_accebc61-b8f0-4f5a-80ab-9374777edcd7.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Hunter](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874986611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-89-classicthrow-hunter-white-hr_93c8d6a4-1f75-4d3b-90fd-b78af7f873b8.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-89-classicthrow-hunter-white-hr_93c8d6a4-1f75-4d3b-90fd-b78af7f873b8.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Racing Green](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875019379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-48-classicthrow-racinggreen-white-hr_4471ecc1-7145-45fc-b8b9-417d6736a25a.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-48-classicthrow-racinggreen-white-hr_4471ecc1-7145-45fc-b8b9-417d6736a25a.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Mossgrey](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874888307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-146-classicthrow-mossgrey-white-hr_0385a37a-c73d-4a0b-b4ab-193e5d77056f.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-146-classicthrow-mossgrey-white-hr_0385a37a-c73d-4a0b-b4ab-193e5d77056f.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Moss](https://aliciaadamsalpaca.com/products/classic-throw?variant=53456835412340)
     Availability: Available
     Price: $475.00 USD
   - [Herringbone Olive](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874921075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-21-classicthrow-olive-white-hr_50e3477c-2dc8-4af1-badb-adf100031972.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-21-classicthrow-olive-white-hr_50e3477c-2dc8-4af1-badb-adf100031972.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Velvet Green](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826874953843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-52-classicthrow-velvetgreen-white-hr_62e6656d-c413-428f-b883-a150be4e99de.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-52-classicthrow-velvetgreen-white-hr_62e6656d-c413-428f-b883-a150be4e99de.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Spruce](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875314291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-classicthrow_spruce_onwhite_b6855930-8e3a-44d0-b655-e710be47a70e.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-classicthrow_spruce_onwhite_b6855930-8e3a-44d0-b655-e710be47a70e.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Oceanside](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875347059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-142-classicthrow-oceanside-white-hr_caedbfca-f126-4472-9637-37b76824dcf1.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-142-classicthrow-oceanside-white-hr_caedbfca-f126-4472-9637-37b76824dcf1.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Turquoise](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875379827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-50-classicthrow-turquoise-white-hr_6cb060df-d00d-40b4-8bfd-a12b50a7623b.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah101-50-classicthrow-turquoise-white-hr_6cb060df-d00d-40b4-8bfd-a12b50a7623b.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Teal](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875412595)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-67-classicthrow-teal-white-hr_73b90eba-412a-486e-983e-fa66b5cf2076.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-67-classicthrow-teal-white-hr_73b90eba-412a-486e-983e-fa66b5cf2076.jpg?v=1759421596
     Price: $475.00 USD
   - [Solid Aqua](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875445363)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-103-classicthrow-aqua-white-hr_fcf65e17-5c7e-4920-892d-fbb28a952104.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-103-classicthrow-aqua-white-hr_fcf65e17-5c7e-4920-892d-fbb28a952104.jpg?v=1759421596
     Price: $475.00 USD
   - [Herringbone Artic](https://aliciaadamsalpaca.com/products/classic-throw?variant=40826875641971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/ac-ah101-84-classicthrow-herringbonearctic-white-web.jpg?v=1758902637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/ac-ah101-84-classicthrow-herringbonearctic-white-web.jpg?v=1759421596
     Price: $475.00 USD
 - [Buy Big Sky Bed Blanket | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/big-sky-king-blanket): Buy Big Sky Bed Blanket, luxury alpaca Blanket at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-09-19T15:35:35Z
@@ -12908,7 +12908,7 @@
     Price: $650.00 USD
   - [Solid Maroon](https://aliciaadamsalpaca.com/products/classic-cape?variant=53456921723252)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1758904742
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1759421596
     Price: $650.00 USD
   - [Solid Bark](https://aliciaadamsalpaca.com/products/classic-cape?variant=41012006912115)
     Availability: Available
@@ -12996,7 +12996,7 @@
     Price: $650.00 USD
   - [Solid Moss](https://aliciaadamsalpaca.com/products/classic-cape?variant=53456921756020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-124ClassicSolidMoss_058cda97-3ab8-4a2f-b6b0-509155a225b6.jpg?v=1758904742
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-124ClassicSolidMoss_058cda97-3ab8-4a2f-b6b0-509155a225b6.jpg?v=1759421596
     Price: $650.00 USD
   - [Herringbone Olive](https://aliciaadamsalpaca.com/products/classic-cape?variant=41012007567475)
     Availability: Available
@@ -13186,11 +13186,11 @@
     Price: $2,900.00 USD
   - [Solid Maroon / Queen](https://aliciaadamsalpaca.com/products/classic-bed-blanket?variant=53456920052084)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1758904742
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1759421596
     Price: $2,200.00 USD
   - [Solid Maroon / King](https://aliciaadamsalpaca.com/products/classic-bed-blanket?variant=53456920084852)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1758904742
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1759421596
     Price: $2,200.00 USD
   - [Solid Bark / Queen](https://aliciaadamsalpaca.com/products/classic-bed-blanket?variant=41012204699763)
     Availability: Available
@@ -13392,11 +13392,11 @@
     Price: $2,200.00 USD
   - [Solid Maroon / Queen](https://aliciaadamsalpaca.com/products/classic-bed-scarf?variant=53456909926772)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1758904742
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1759421596
     Price: $2,200.00 USD
   - [Solid Maroon / King](https://aliciaadamsalpaca.com/products/classic-bed-scarf?variant=53456909959540)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1758904742
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH102-216ClassicSolidMaroon_e8020a3b-a428-4032-83de-7b81a1537964.jpg?v=1759421596
     Price: $2,200.00 USD
   - [Solid Bark / Queen](https://aliciaadamsalpaca.com/products/classic-bed-scarf?variant=41012238123123)
     Availability: Available
@@ -13798,74 +13798,74 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW204-17-KeatonTurtleneck-Black-Lookbook-6.jpg?v=1748891655
     Price: $295.00 USD
 - [Montauk Throw](https://aliciaadamsalpaca.com/products/montauk-throw): Experience rustic elegance with the alicia adams alpaca Montauk Throw, a versatile and eco-conscious throw blanket. Perfect for car rides or cozying up on the sofa, its heavier weight and rustic texture provide unmatched warmth and style. With a distinctive whipstitch trim, this fair-trade throw is a unique addition to any space. Reduce your carbon footprint with this sustainably sourced blanket, ensuring comfort for you and your loved ones. The Montauk Throw is being made using an upcycling process that was recently awarded the German Design Award. Dimensions: 51 in. x 71 in. Materials: 52% recycled alpaca, 33% recycled wool, 15% cotton Product Care: Dry clean only Proudly fair-trade made in Peru.
-  Updated: 2025-10-01T20:38:07Z
+  Updated: 2025-10-02T17:30:22Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-90-01MontaukFrenchYellow-ivory_3.jpg?v=1758900489
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-102_2.jpg?v=1759426222
   - [Army Green / Light Taupe](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740351091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-89-102-MontaukThrow-Hunter-LightTaupe-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-89-102-MontaukThrow-Hunter-LightTaupe-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Ivory / Light Taupe](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740187251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-102-MontaukThrow-Ivory-LightTaupe-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-102-MontaukThrow-Ivory-LightTaupe-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Beige / Light Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740383859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-02-12-MontaukThrow-Beige-LightGrey-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-02-12-MontaukThrow-Beige-LightGrey-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Navy / Light Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740285555)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Denim Blue / Chambray](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740220019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-114-111-MontaukThrow-DenimBlue-Chambray-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-114-111-MontaukThrow-DenimBlue-Chambray-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Ivory / Light Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740154483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-12-MontaukThrow-Ivory-LightGrey-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-12-MontaukThrow-Ivory-LightGrey-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Spa Blue / Ivory](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740252787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-215-01-MontaukThrow-SpaBlue-Ivory-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-215-01-MontaukThrow-SpaBlue-Ivory-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Pink Powder / Ivory](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740318323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-110-01-MontaukThrow-PinkPowder-Ivory-Flat-Wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-110-01-MontaukThrow-PinkPowder-Ivory-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Blue Sapphire / Chambray](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662867316)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-172-111-folded-wood.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-172-111-folded-wood.jpg?v=1759426222
     Price: $565.00 USD
   - [Ivory / Light Green](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662900084)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-01-219-folded.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-01-219-folded.jpg?v=1759426222
     Price: $565.00 USD
   - [French Yellow / Ivory](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662932852)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-90-01MontaukFrenchYellow-ivory_2.jpg?v=1758900367
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-90-01MontaukFrenchYellow-ivory_2.jpg?v=1759426222
     Price: $565.00 USD
   - [Light Taupe / Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662965620)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-102-218_3_57e41fec-8553-4ecf-84d8-c8790256870d.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-102-218_3_57e41fec-8553-4ecf-84d8-c8790256870d.jpg?v=1759426222
     Price: $565.00 USD
   - [Grey / Navy](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662998388)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-218-27_3.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-218-27_3.jpg?v=1759426222
     Price: $565.00 USD
   - [Navy / Pearl Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082663031156)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-112_3_e2c6412b-fccd-4cdf-81df-e76a1cebcfed.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-112_3_e2c6412b-fccd-4cdf-81df-e76a1cebcfed.jpg?v=1759426222
     Price: $565.00 USD
   - [Navy / Spa Blue](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082663063924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-215-folded_1a4c89d3-fcf2-4759-9c14-b4d8c24d8347.jpg?v=1758900358
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-215-folded_1a4c89d3-fcf2-4759-9c14-b4d8c24d8347.jpg?v=1759426222
     Price: $565.00 USD
   - [Cognac / Beige](https://aliciaadamsalpaca.com/products/montauk-throw?variant=53456800973172)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-10-02Cognac-Beige.jpg?v=1758900368
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-10-02Cognac-Beige.jpg?v=1759426222
     Price: $565.00 USD
 - [Swap Gift Card](https://aliciaadamsalpaca.com/products/swap-gift-card)
   Updated: 2025-08-01T13:20:59Z
@@ -13940,104 +13940,104 @@
     Availability: Available
     Price: $150.00 USD
 - [Buy Meadow Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/meadow-throw): Buy Meadow Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-23T00:02:32Z
+  Updated: 2025-10-02T17:28:52Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-27-94-boldmeadowthrow-navyenglishmanor-2.jpg?v=1756733430
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-02-01-boldmeadowthrow-beigeivory-2.jpg?v=1759426131
   - [Pink Powder / Ivory](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450625396)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-110-01-boldmeadowthrow-pinkpowder-ivory-flatwhite_e8bdf935-31ab-4621-9587-bcc6987f44bf.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-110-01-boldmeadowthrow-pinkpowder-ivory-flatwhite_e8bdf935-31ab-4621-9587-bcc6987f44bf.jpg?v=1759426131
     Price: $295.00 USD
   - [Beige / Ivory](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757423493492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-02-01-boldmeadowthrow-beigeivory-flatwhite_351d75b8-1e22-4779-b522-4c5a50073290.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-02-01-boldmeadowthrow-beigeivory-flatwhite_351d75b8-1e22-4779-b522-4c5a50073290.jpg?v=1759426131
     Price: $295.00 USD
   - [Ivory / Light Taupe](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450559860)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-01-102-boldmeadowthrow-ivorylighttaupe-flatwhite_8c1526e8-b312-4582-9328-112aef8d27ed.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-01-102-boldmeadowthrow-ivorylighttaupe-flatwhite_8c1526e8-b312-4582-9328-112aef8d27ed.jpg?v=1759426131
     Price: $295.00 USD
   - [Black / Dark Taupe](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450363252)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-17-06-boldmeadowthrow-black-darktaupe-flatwhite_0867bb8a-5abc-4d78-97a4-bb7fd4a1aefe.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-17-06-boldmeadowthrow-black-darktaupe-flatwhite_0867bb8a-5abc-4d78-97a4-bb7fd4a1aefe.jpg?v=1759426131
     Price: $295.00 USD
   - [Ivory / Light Grey](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450527092)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-01-12-boldmeadowthrow-ivorylightgrey-flatwhite_def32d31-50a5-4099-91f2-98bda77eb608.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-01-12-boldmeadowthrow-ivorylightgrey-flatwhite_def32d31-50a5-4099-91f2-98bda77eb608.jpg?v=1759426131
     Price: $295.00 USD
   - [Dark Grey / Carbon](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450396020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-14-120-boldmeadowthrow-darkgreycarbon-flatwhite_e1af5928-609b-4c79-8428-430a4177f459.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-14-120-boldmeadowthrow-darkgreycarbon-flatwhite_e1af5928-609b-4c79-8428-430a4177f459.jpg?v=1759426131
     Price: $295.00 USD
   - [Navy / English Manor](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450592628)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-27-94-boldmeadowthrow-navyenglishmanor-flatwhite_0df8b25e-a83e-404e-ab3e-83328fa5a975.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-27-94-boldmeadowthrow-navyenglishmanor-flatwhite_0df8b25e-a83e-404e-ab3e-83328fa5a975.jpg?v=1759426131
     Price: $295.00 USD
   - [Teal / Aqua](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450690932)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-67-103-boldmeadowthrow-tealaqua-flatwhite_39472223-af1e-4820-8f4d-7f41d44b9756.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-67-103-boldmeadowthrow-tealaqua-flatwhite_39472223-af1e-4820-8f4d-7f41d44b9756.jpg?v=1759426131
     Price: $295.00 USD
   - [Ivory / Blue](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450494324)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-01-26-boldmeadowthrow-ivoryblue-flatwhite_b10aad8b-3d08-4e31-9489-bc770f6a46ec.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-01-26-boldmeadowthrow-ivoryblue-flatwhite_b10aad8b-3d08-4e31-9489-bc770f6a46ec.jpg?v=1759426131
     Price: $295.00 USD
   - [Sage](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450658164)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-54-boldmeadowthrow-sage-flatwhite_c6de9b19-3a02-4ccd-bbfb-fdca817eb1ce.jpg?v=1737995637
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-54-boldmeadowthrow-sage-flatwhite_c6de9b19-3a02-4ccd-bbfb-fdca817eb1ce.jpg?v=1759426131
     Price: $295.00 USD
   - [Hunter / Charcoal](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450428788)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-89-16-boldmeadowthrow-huntercharcoal-flatwhite_93a48102-fe6b-4275-9361-79e28ebf0658.jpg?v=1737995618
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-89-16-boldmeadowthrow-huntercharcoal-flatwhite_93a48102-fe6b-4275-9361-79e28ebf0658.jpg?v=1759426131
     Price: $295.00 USD
   - [Indian Summer](https://aliciaadamsalpaca.com/products/meadow-throw?variant=51757450461556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahd302-93-boldmeadowthrow-indiansummer-flatwhite_2dc98b04-0cdc-4164-9ac5-9a671b22cc26.jpg?v=1737995618
     Price: $295.00 USD
 - [Amelia Coat](https://aliciaadamsalpaca.com/products/amelia-coat): Our Amelia coat is a classic fitted coat style made in Boucle fabric, with 3 button front closure, tie at waist, patch pockets on front bodice, notch lapel. Its belt may be tied in front, or behind if you prefer a more casual look. Wear it over denim, a dress or your favorite leggings! Materials: 58% Alpaca, 34% Wool, 8% Nylon. Lining: 100% Bemberg Product Care: Dry clean only Proudly fair-trade made in Peru.
-  Updated: 2025-09-19T15:38:55Z
+  Updated: 2025-10-02T17:27:39Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw21--01_3.jpg?v=1756733412
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_4.jpg?v=1759426039
   - [Ivory / XS](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540236148)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1759426039
     Price: $975.00 USD
   - [Ivory / S](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540268916)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1759426039
     Price: $975.00 USD
   - [Ivory / M](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540301684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1759426039
     Price: $975.00 USD
   - [Ivory / L](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540334452)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1759426039
     Price: $975.00 USD
   - [Ivory / XL](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540367220)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-01_1.jpg?v=1759426039
     Price: $975.00 USD
   - [Beige / XS](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540399988)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1759426059
     Price: $975.00 USD
   - [Beige / S](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540432756)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1759426059
     Price: $975.00 USD
   - [Beige / M](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540465524)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1759426059
     Price: $975.00 USD
   - [Beige / L](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540498292)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1759426059
     Price: $975.00 USD
   - [Beige / XL](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540531060)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1756733412
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-02_2.jpg?v=1759426059
     Price: $975.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/amelia-coat?variant=51780540563828)
     Availability: Available
@@ -14060,222 +14060,222 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw210-17_2.jpg?v=1738758932
     Price: $975.00 USD
 - [Hacienda Cardigan](https://aliciaadamsalpaca.com/products/hacienda-cardigan): The Hacienda Cardigan is made with 100% baby alpaca, fringe details, and tie at waist. Layer it over your favorite outfit to upscale your look! Materials: 100% baby alpaca Product Care: Dry clean only Proudly fair-trade made in Peru.
-  Updated: 2025-09-30T12:50:21Z
+  Updated: 2025-10-02T17:26:54Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-lifestyle_11.jpg?v=1754056292
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49_2.jpg?v=1759426014
   - [Ivory / Taupe / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587108212)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1748891464
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
     Price: $685.00 USD
   - [Ivory / Taupe / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587140980)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1748891464
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
     Price: $685.00 USD
   - [Ivory / Taupe / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587173748)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1748891464
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
     Price: $685.00 USD
   - [Ivory / Taupe / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587206516)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1748891464
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
     Price: $685.00 USD
   - [Ivory / Taupe / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51781587239284)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1748891464
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-01-04-haciendacardigan-ivory-taupe-model-white-lookbook.jpg?v=1759426014
     Price: $685.00 USD
   - [Moss / Carbon / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51794312233332)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1759426014
     Price: $685.00 USD
   - [Moss / Carbon / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51794312266100)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1759426014
     Price: $685.00 USD
   - [Moss / Carbon / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51794312298868)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1759426014
     Price: $685.00 USD
   - [Moss / Carbon / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51794312331636)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1759426014
     Price: $685.00 USD
   - [Moss / Carbon / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51794312364404)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-124-120_6.jpg?v=1759426014
     Price: $685.00 USD
   - [Black / Camel / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183174516)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
     Price: $685.00 USD
   - [Black / Camel / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183207284)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
     Price: $685.00 USD
   - [Black / Camel / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183240052)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
     Price: $685.00 USD
   - [Black / Camel / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183272820)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
     Price: $685.00 USD
   - [Black / Camel / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183305588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1746194489
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-17-49.jpg?v=1759426014
     Price: $685.00 USD
   - [Denim Blue / XS](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183338356)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1754056292
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
     Price: $685.00 USD
   - [Denim Blue / S](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183371124)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1754056292
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
     Price: $685.00 USD
   - [Denim Blue / M](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183403892)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1754056292
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
     Price: $685.00 USD
   - [Denim Blue / L](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183436660)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1754056292
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
     Price: $685.00 USD
   - [Denim Blue / XL](https://aliciaadamsalpaca.com/products/hacienda-cardigan?variant=51814183469428)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1754056292
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw209-114.jpg?v=1759426014
     Price: $685.00 USD
 - [Francis Sweater | Luxury Alpaca Sweater | alicia adams alpaca](https://aliciaadamsalpaca.com/products/francis-sweater): Experience unparalleled comfort with the Francis Sweater by alicia adams alpaca. Elevate your style effortlessly with sleek design details. Shop now and earn rewards with our fair-trade, eco-friendly luxury goods!
-  Updated: 2025-09-19T15:39:04Z
+  Updated: 2025-10-02T17:25:46Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2_2.jpg?v=1756733364
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model.jpg?v=1759425946
   - [Ivory / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222365044)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
     Price: $495.00 USD
   - [Ivory / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222397812)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
     Price: $495.00 USD
   - [Ivory / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222430580)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
     Price: $495.00 USD
   - [Ivory / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222463348)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-01-francisivory-model_av3_1.jpg?v=1759425946
     Price: $495.00 USD
   - [Oatmeal / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222528884)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Oatmeal / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222561652)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Oatmeal / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222594420)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Oatmeal / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222627188)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-03-francis-oatmeal-model_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Denim Blue / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222692724)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
     Price: $495.00 USD
   - [Denim Blue / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222725492)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
     Price: $495.00 USD
   - [Denim Blue / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222758260)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
     Price: $495.00 USD
   - [Denim Blue / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222791028)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1756733364
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-114-francisdenim-model_av2.jpg?v=1759425946
     Price: $495.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222856564)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1751380186
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Black / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222889332)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1751380186
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Black / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222922100)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1751380186
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Black / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814222954868)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1751380186
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw205-17-francisblack-model_av2_2.jpg?v=1759425946
     Price: $495.00 USD
   - [Coral Rose / XS](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228623732)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1740680042
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
     Price: $495.00 USD
   - [Coral Rose / S](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228656500)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1740680042
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
     Price: $495.00 USD
   - [Coral Rose / M](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228689268)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1740680042
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
     Price: $495.00 USD
   - [Coral Rose / L](https://aliciaadamsalpaca.com/products/francis-sweater?variant=51814228722036)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1740680042
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_0148.jpg?v=1759425946
     Price: $495.00 USD
 - [Jackie Sweater | Luxury Alpaca Sweater | alicia adams alpaca](https://aliciaadamsalpaca.com/products/jackie-sweater): Experience unparalleled comfort with the Jackie Sweater by alicia adams alpaca. Elevate your style effortlessly with sleek design details. Shop now and earn rewards with our fair-trade, eco-friendly luxury goods!
-  Updated: 2025-09-19T15:39:06Z
+  Updated: 2025-10-02T17:25:07Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1749205308
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__3.jpg?v=1759425907
   - [Ivory / Navy / XS](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264340852)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1749205308
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
     Price: $395.00 USD
   - [Ivory / Navy / S](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264373620)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1749205308
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
     Price: $395.00 USD
   - [Ivory / Navy / M](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264406388)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1749205308
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
     Price: $395.00 USD
   - [Ivory / Navy / L](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264439156)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1749205308
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
     Price: $395.00 USD
   - [Ivory / Navy / XL](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814274072948)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1749205308
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-01-27jackiesweater_ivory-navy__2.jpg?v=1759425907
     Price: $395.00 USD
   - [Black / Cognac / XS](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264471924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1741003780
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
     Price: $395.00 USD
   - [Black / Cognac / S](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264504692)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1741003780
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
     Price: $395.00 USD
   - [Black / Cognac / M](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264537460)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1741003780
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
     Price: $395.00 USD
   - [Black / Cognac / L](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814264570228)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1741003780
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
     Price: $395.00 USD
   - [Black / Cognac / XL](https://aliciaadamsalpaca.com/products/jackie-sweater?variant=51814274105716)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1741003780
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-aw153-17-10jackiesweater_black-cognac__1.jpg?v=1759425907
     Price: $395.00 USD
 - [Oslo Bed Blanket | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/oslo-bed-blanket): Experience rustic charm of the alicia adams alpaca Oslo Bed Blanket. Buy now for luxurious comfort and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
   Updated: 2025-09-26T15:55:58Z
@@ -14344,42 +14344,42 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah239-13.jpg?v=1749207839
     Price: $1,450.00 USD
 - [Buy Cabin Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/cabin-cape): buy cabin cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-01T15:27:26Z
+  Updated: 2025-10-02T17:24:36Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-1sd-ac522s-102-olsencape-lighttaupe-modelwhite.jpg?v=1754056229
   - [Light Grey / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945636212)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-12-Field-Blanket-Light-Grey-wood-web_7e316384-005c-4a6f-9282-3bdb73bdc7c5.jpg?v=1748891365
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-12-Field-Blanket-Light-Grey-wood-web_7e316384-005c-4a6f-9282-3bdb73bdc7c5.jpg?v=1759425876
     Price: $795.00 USD
   - [Charcoal / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945800052)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-16-Field-Blanket-Charcoal-wood-web_86828bfe-8a62-4171-842e-45aabd8e5c0b.jpg?v=1748891365
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-16-Field-Blanket-Charcoal-wood-web_86828bfe-8a62-4171-842e-45aabd8e5c0b.jpg?v=1759425876
     Price: $795.00 USD
   - [Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945865588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1714249599
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1759425876
     Price: $795.00 USD
   - [Camel / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945931124)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1714249599
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1759425876
     Price: $795.00 USD
   - [Light Taupe / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945996660)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1714249599
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1759425876
     Price: $795.00 USD
   - [Navy / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946062196)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-27-Field-Blanket-Navy-wood-web_ee60edf0-18df-4ab6-a3f3-1d8a8e1714af.jpg?v=1748891365
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-27-Field-Blanket-Navy-wood-web_ee60edf0-18df-4ab6-a3f3-1d8a8e1714af.jpg?v=1759425876
     Price: $795.00 USD
   - [Forest Green / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946127732)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1714249599
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1759425876
     Price: $795.00 USD
   - [Scarlet / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946226036)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1714249599
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1759425876
     Price: $795.00 USD
 - [Buy Zumita Cardigan | Luxury Alpaca Cardigan | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/zumita-cardigan): Buy Zumita Cardigan, luxury alpaca Cardigan at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-09-19T15:39:11Z
@@ -14448,112 +14448,112 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-17zumitacardiganblack.jpg?v=1748891348
     Price: $395.00 USD
 - [Buy Derby Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/derby-wrap): buy derby wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T00:14:58Z
+  Updated: 2025-10-02T16:56:47Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AS150-01-02Ivory-Beige_Front.jpg?v=1759234477
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AS150-69-102Firecracker-lighttaupe-Front-2.jpg?v=1759424197
   - [Admirals Blue / Ivory](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699502964)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0258.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0258.jpg?v=1759424197
     Price: $345.00 USD
   - [Light Grey / Ivory](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699568500)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0302.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0302.jpg?v=1759424197
     Price: $345.00 USD
   - [Chambray / Denim Blue](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699634036)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0261.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0261.jpg?v=1759424197
     Price: $345.00 USD
   - [Light Grey / Charcoal](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699830644)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0300.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0300.jpg?v=1759424197
     Price: $345.00 USD
   - [Cognac / Black](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699732340)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0271.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0271.jpg?v=1759424197
     Price: $345.00 USD
   - [Light Grey / Bark](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699699572)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0296.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0296.jpg?v=1759424197
     Price: $345.00 USD
   - [Dusted Red / Venetian Red](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699797876)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0278.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0278.jpg?v=1759424197
     Price: $345.00 USD
   - [Firecracker / Light Taupe](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52073605202292)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0284.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0284.jpg?v=1759424197
     Price: $345.00 USD
   - [Ivory / Beige](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699863412)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0290.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0290.jpg?v=1759424197
     Price: $345.00 USD
   - [Sweetheart / Pink Powder](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442269044)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0310.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0310.jpg?v=1759424197
     Price: $345.00 USD
   - [Mauve / Purple](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442236276)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0307.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0307.jpg?v=1759424197
     Price: $345.00 USD
   - [Teal / Aqua](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442301812)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0314.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0314.jpg?v=1759424197
     Price: $345.00 USD
   - [Velvet Green / Sage](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442334580)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0319.jpg?v=1758901662
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0319.jpg?v=1759424197
     Price: $345.00 USD
 - [Buy Glamper Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/glamper-blanket-2): Buy Glamper Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-22T23:25:41Z
+  Updated: 2025-10-02T16:44:26Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AH114-24-12-01-2.jpg?v=1756743237
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AH114S-102-2.jpg?v=1759423465
   - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673166708)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-02-01-12-CanyonThrow-Beige-Ivory-LightGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-02-01-12-CanyonThrow-Beige-Ivory-LightGrey-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Light Taupe](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673199476)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-102-CanyonThrow-LightTaupe-white-web_1.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-102-CanyonThrow-LightTaupe-white-web_1.jpg?v=1759423465
     Price: $495.00 USD
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673232244)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673265012)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Light Grey / Grey / Ivory](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673297780)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-12-14-01-CanyonThrow-LightGrey-Grey-Ivory-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-12-14-01-CanyonThrow-LightGrey-Grey-Ivory-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673330548)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673363316)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Taupe / Dark Grey / Paprika](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673396084)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673428852)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673461620)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-24-12-01-CanyonThrow-LightBlue-LightGrey-Ivory-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-24-12-01-CanyonThrow-LightBlue-LightGrey-Ivory-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Ivory / Denim Blue / Navy](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673494388)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114-01-114-27_2.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114-01-114-27_2.jpg?v=1759423465
     Price: $495.00 USD
   - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673527156)
     Availability: Not Available
@@ -14561,42 +14561,42 @@
     Price: $495.00 USD
   - [Navy](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673559924)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Forest Green](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673592692)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Ivory](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673625460)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-01-3.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-01-3.jpg?v=1759423465
     Price: $495.00 USD
   - [Charcoal](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673658228)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1759423465
     Price: $495.00 USD
   - [Black / Charcoal / Light Grey](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673690996)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Chocolate / Black / Dark Grey](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673723764)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-08-17-14-CanyonThrow-Chocolate-Black-DarkGrey-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-08-17-14-CanyonThrow-Chocolate-Black-DarkGrey-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673756532)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1759423465
     Price: $495.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673789300)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-37-3.jpg?v=1732046869
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-37-3.jpg?v=1759423465
     Price: $495.00 USD
   - [Camel](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673822068)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1689355303
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1759423465
     Price: $495.00 USD
 - [Big Sur Bed Scarf | luxury alpaca bed scarf | alicia adams alpaca](https://aliciaadamsalpaca.com/products/big-sur-bed-scarf): buy big sur bed scarf, luxury alpaca bed scarf at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:39:17Z
+  Updated: 2025-10-02T16:06:13Z
   Vendor: alicia adams alpaca
   Product Type: Bed Blankets
   Availability: Available
@@ -14614,37 +14614,37 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHBS124-79-12Grey-LightGreyHR.jpg?v=1751995270
     Price: $1,250.00 USD
 - [Big Sur Long Lumbar Pillow | luxury alpaca pillow | alicia adams alpaca](https://aliciaadamsalpaca.com/products/big-sur-long-lumbar-pillow): buy big sur long lumbar pillow, luxury alpaca pillow at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-30T18:37:26Z
+  Updated: 2025-10-02T16:03:54Z
   Vendor: alicia adams alpaca
   Product Type: Decorative Pillows
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_2858.jpg?v=1752073077
   - [Light Taupe / Ivory](https://aliciaadamsalpaca.com/products/big-sur-long-lumbar-pillow?variant=52373434794356)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-102-01LightTaupe-ivory.jpg?v=1751995254
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-102-01LightTaupe-ivory.jpg?v=1759421034
     Price: $395.00 USD
   - [Light Camel / Black](https://aliciaadamsalpaca.com/products/big-sur-long-lumbar-pillow?variant=52373434827124)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-143-17LightCamel-Black.jpg?v=1751995254
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-143-17LightCamel-Black.jpg?v=1759421034
     Price: $395.00 USD
   - [Grey / Light Grey](https://aliciaadamsalpaca.com/products/big-sur-long-lumbar-pillow?variant=52373434859892)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-79-12Grey-LightGrey.jpg?v=1751995254
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-79-12Grey-LightGrey.jpg?v=1759421034
     Price: $395.00 USD
   - [Spa Blue / Ivory](https://aliciaadamsalpaca.com/products/big-sur-long-lumbar-pillow?variant=52373535359348)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-215-01SpaBlue-Ivory.jpg?v=1751995254
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-215-01SpaBlue-Ivory.jpg?v=1759421034
     Price: $395.00 USD
   - [Pink Powder / Ivory](https://aliciaadamsalpaca.com/products/big-sur-long-lumbar-pillow?variant=52373535392116)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-110-01PinkPowder-Ivory.jpg?v=1751995254
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP126-110-01PinkPowder-Ivory.jpg?v=1759421034
     Price: $395.00 USD
 - [Big Sur Lumbar Pillow | luxury alpaca pillow | alicia adams alpaca](https://aliciaadamsalpaca.com/products/big-sur-lumbar-pillow): buy big sur lumbar pillow, luxury alpaca pillow at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-02T15:59:04Z
+  Updated: 2025-10-02T16:03:22Z
   Vendor: alicia adams alpaca
   Product Type: Decorative Pillows
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_2893_1.jpg?v=1752073066
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_2991_1.jpg?v=1759421002
   - [Light Taupe / Ivory](https://aliciaadamsalpaca.com/products/big-sur-lumbar-pillow?variant=52373615903092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP125-102-01LightTaupe-IvoryHR.jpg?v=1751995345
@@ -14886,7 +14886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownLeash.jpg?v=1756487296
     Price: $120.00 USD
 - [Rodeo Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rodeo-cape): buy rodeo cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-02T15:40:46Z
+  Updated: 2025-10-02T17:14:30Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -14958,8 +14958,8 @@
   Updated: 2025-10-02T13:44:59Z
   Total Products: 43
 - [Alicia Adams Alpaca | Alpaca Throw Blankets | Luxury Alpaca Throws](https://aliciaadamsalpaca.com/collections/decorative-throws): Discover our exquisite decorative alpaca throw blankets, crafted from 100% baby alpaca wool. Over 100 unique colors and patterns to complement any home style.
-  Updated: 2025-10-02T11:14:51Z
-  Total Products: 39
+  Updated: 2025-10-02T16:33:19Z
+  Total Products: 38
 - [Luxury Alpaca Baby & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-babies): Discover our collection of children’s alpaca apparel and accessories. Shop the ultimate selection of alpaca baby and shower gifts.
   Updated: 2025-09-19T11:15:00Z
   Total Products: 14
