@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-02T08:01:12.665Z
+- Updated At: 2025-10-02T12:01:13.867Z
 
 ## Products
 
@@ -520,7 +520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/K9_Cat_Gaming_Headset_With_LED_Light_-_Hifi_Media_Store-982495.jpg?v=1719028569
     Price: 60,99 € EUR
 - [K1 Pro Gaming Headset Stereo with LED Light Hifi Media Store](https://hifimediastore.com/products/k1-pro-gaming-headset-stereo-with-led-light): Sound Quality This gaming headsets sound quality is very accurate. Explosions, gunshots, and sound effects really flourish with bravado. The powerful sound drivers are spacious and can give you a nice punch that will make you feel like you are within the game itself. This Xbox One Gaming Headset volume very loud or soft. Led Light You will look super stylish with the nice design and excellent LED lighting extruding from its interior. Soft Earcups With the firm, comfortable fit these headphones provide, the isolation they provide is impeccable. These headphones have a great fit with their ability to stretch and their adjustable headband that slides up. The ear cushions and headband cushion are very comfortable. They are softer and thicker as the pictures show. Perfect for long gaming sessions. Note: The USB is just for the Led light, when you plug the USB, the LED will work. If you don't want it on, simply don't plug the USB cable in. Our package include the splitter cable (2 audio jacks), When the Gaming Headset use for PC, you need to use the splitter cable. 1 is for the microphone and 1 is for audio. The green wire goes in audio and the pink wire in the mic jack. Specifications: Model: K1 Pro Speaker Size: 50mm Sensitivity: 115+/-3db Microphone: 6.0*2.7mm Impedance:20Ω+/-15% Cable Length: 2.2M+/-15% Directionality: Omi-directional Microphone Impedance: 2.2k Frequency Range: 20Hz-20 KHz LED Working Voltage: DC5V Microphone Sensitivity: -38+/-1dB Working Current: headset Jack: USB+3.5mm 4Pin Cable length: Approx. 2.2m / 7.22ft Package Content: 1 x Gaming Headsets 1 x Splitter Cable 1 x User Manual
-  Updated: 2025-10-01T07:58:22Z
+  Updated: 2025-10-02T11:55:58Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -5785,7 +5785,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/corsair-hs55-stereo-auriculares-alambric_289815_5.jpg?v=1756464096
   Price: 88,99 € EUR
 - [Corsair HS65 Wireless V2 - Auriculares Gaming Inalámbricos 7.1 Negros](https://hifimediastore.com/products/corsair-hs65-wireless-v2-auriculares-gaming-inalambricos-7-1-negros): Los auriculares para juegos CORSAIR HS65 WIRELESS combinan audio inalámbrico de baja latencia a 2,4 GHz, Bluetooth y sonido envolvente Dolby Audio 7.1 inalámbrico de 2,4 GHz en PC con un diseño ligero reforzado con aluminio. Características: CONECTIVIDAD INALÁMBRICA DE BAJA LATENCIA: Disfrute de un audio de alta calidad sin cables, con un alcance de hasta 15 metros y compatibilidad con Bluetooth para dispositivos móviles, entre otros. SONIDO PERFECCIONADO PARA USTED: Obtenga la mejor experiencia auditiva en juegos y música con los HS65 WIRELESS con SoundID de Sonarworks. Integrado en el software CORSAIR iCUE, SoundID personaliza el perfil de audio de los auriculares a fin de adaptarse a sus preferencias auditivas únicas. Ya no hay que complicarse con los complejos controles deslizantes, simplemente hay que hacer una prueba rápida de preferencias para crear su perfil de sonido perfecto. A PUNTO PARA EL JUEGO: Los HS65 WIRELESS están diseñados para un confort duradero, reforzados mediante su fabricación y detalles en aluminio para un aspecto y una sensación de calidad, y con un peso de tan solo 275 g. AUDIO DURANTE TODO EL DÍA: Batería con hasta 24 horas de duración; además, con solo 15 minutos de carga, es posible disfrutar de hasta 6 horas de juego. MÁXIMA CALIDAD: Fabricación en resistente metal con diadema ajustable y orejeras de espuma viscoelástica y polipiel transpirable. CONTROL INTUITIVO: Cambie fácilmente entre dispositivos Bluetooth e inalámbricos de 2,4 GHZ con solo pulsar una tecla. SONIDO INMERSIVO: El sonido envolvente Dolby Audio 7.1*, junto con los controladores de audio de neodimio de 50 mm, ofrece un sonido con el rango y la calidad necesarios para oírlo todo en el campo de batalla. * Dolby Audio solo está disponible al utilizar el software CORSAIR iCUE en PC y Mac. Disfruta también del mejor sonido envolvente en tu PS5 a través de la compatibilidad con Tempest 3D Audio. UNA COMUNICACIÓN CON NITIDEZ CRISTALINA: Capture con precisión sus llamadas y comandos con una nitidez asombrosa gracias a un micrófono omnidireccional con una práctica función de silenciamiento con tan solo plegarlo. CONTROL SIN ESFUERZO: El potente software CORSAIR iCUE permite personalizar los ajustes del ecualizador de sonido, disfrutar de un sonido envolvente 7.1 y mucho más. Especificaciones: Software de CUE de audio Sí Sonido envolvente Sí Tempest 3D en PS5 Micrófono desmontable No Batería recargable Sí Peso 0.288 Respuesta de frecuencia de los auriculares 20 Hz - 20 kHz Duración de la batería del auricular Hasta 24 horas Sensibilidad de los auriculares 114dB (+/-3dB) Alcance inalámbrico de los auriculares hasta 50 pies Impedancia 32 ohmios a 1 kHz Tipo de auricular Inalámbrico Controladores de auriculares 50 mm Longitud del cable N / A Color Negro Audio Audio Dolby 7.1 Plataforma PC, PS4, PS5 Impedancia del micrófono 2.2k ohmios Tipo de micrófono Omnidireccional Respuesta de frecuencia del micrófono 100Hz a 10kHz Sensibilidad del micrófono -41dB (+/-2dB)
-  Updated: 2025-08-29T15:54:22Z
+  Updated: 2025-10-02T10:48:34Z
   Vendor: CORSAIR
   Product Type: Todos los auriculares
   Availability: Available
@@ -6611,12 +6611,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18146.jpg?v=1724962221
   Price: 818,85 € EUR
 - [Xiaomi Redmi Buds 3 Lite Auriculares Bluetooth Blanco](https://hifimediastore.com/products/xiaomi-redmi-buds-3-lite-auriculares-bluetooth-blanco): Xiaomi Redmi Buds 3 Lite Blanco  Bluetooth 5.2 18h de duración de batería Cancelación de ruido para llamadas Protección profesional contra el polvo IP54  DISCLAIMER: CABLE USB TIPO C NO INCLUIDO
-  Updated: 2025-10-02T06:40:10Z
+  Updated: 2025-10-02T08:46:57Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/10744.jpg?v=1725045321
-  Price: 31,44 € EUR
+  Price: 28,35 € EUR
 - [Xiaomi Redmi Buds 4 Auriculares Bluetooth Azul (Light Blue)](https://hifimediastore.com/products/xiaomi-redmi-buds-4-auriculares-bluetooth-azul-light-blue): REDMI BUDS 4 Anulacion de ruido activa hibrida de hasta 35 dB 3 opciones de nivel de ANC y modo ANC adaptativo Reduccion de ruido por IA Unidad de diafragma dinamico de 10 mm diafragma ultrafino de 0006 mm Hasta 30 horas de bateria con estuche Contro
   Updated: 2025-09-25T01:31:02Z
   Vendor: Xiaomi
@@ -6821,7 +6821,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18401.jpg?v=1726529707
   Price: 938,54 € EUR
 - [Apple iPhone 16 Pro 128GB Titano Desierto (Desert Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-128gb-titano-desierto-desert-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-10-02T05:20:15Z
+  Updated: 2025-10-02T12:00:17Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8341,14 +8341,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25808.jpg?v=1758298822
   Price: 1383,31 € EUR
 - [Apple iPhone Air 512GB Negro (Space Black)](https://hifimediastore.com/products/apple-iphone-air-512gb-negro-space-black): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-02T05:20:20Z
+  Updated: 2025-10-02T12:00:22Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25812.jpg?v=1758298828
   Price: 1602,00 € EUR
 - [Apple iPhone 17 Pro 1TB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-1tb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-01T18:37:15Z
+  Updated: 2025-10-02T12:00:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8362,7 +8362,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25859.jpg?v=1758660915
   Price: 1823,51 € EUR
 - [Apple iPhone 17 Pro 512GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-512gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-02T05:20:20Z
+  Updated: 2025-10-02T12:00:20Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8397,14 +8397,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25879.jpg?v=1758660951
   Price: 1383,31 € EUR
 - [Apple iPhone Air 512GB Azul Cielo (Sky Blue)](https://hifimediastore.com/products/apple-iphone-air-512gb-azul-cielo-sky-blue): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-01T22:40:30Z
+  Updated: 2025-10-02T12:00:20Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25883.jpg?v=1758660958
   Price: 1587,23 € EUR
 - [Apple iPhone Air 512GB Dorado Claro (Light Gold)](https://hifimediastore.com/products/apple-iphone-air-512gb-dorado-claro-light-gold): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-01T15:55:27Z
+  Updated: 2025-10-02T12:00:21Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8432,7 +8432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25915.jpg?v=1758737754
   Price: 2008,36 € EUR
 - [Apple iPhone 17 Pro Max 512GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-02T07:11:54Z
+  Updated: 2025-10-02T12:00:22Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8452,10 +8452,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 5441
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 5441
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-01T11:14:19Z
@@ -8473,13 +8473,13 @@
   Updated: 2025-08-31T14:00:43Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-10-02T06:24:12Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 462
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
   Updated: 2025-09-20T19:30:56Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-10-02T06:24:12Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 413
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
   Updated: 2025-10-02T06:24:12Z
@@ -8509,8 +8509,8 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-02T07:12:21Z
-  Total Products: 1365
+  Updated: 2025-10-02T12:00:47Z
+  Total Products: 1366
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8686,10 +8686,10 @@
   Updated: 2025-08-25T17:07:40Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 1055
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
-  Updated: 2025-10-02T02:40:43Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 52
 - [Acer](https://hifimediastore.com/collections/acer-1)
   Updated: 2025-06-22T07:51:33Z
@@ -8833,7 +8833,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 5440
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-08-31T11:51:35Z
@@ -8890,8 +8890,8 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-02T07:12:21Z
-  Total Products: 1368
+  Updated: 2025-10-02T12:00:48Z
+  Total Products: 1369
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
   Total Products: 24
@@ -8953,8 +8953,8 @@
   Updated: 2025-06-22T07:51:39Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-02T07:11:56Z
-  Total Products: 357
+  Updated: 2025-10-02T12:00:52Z
+  Total Products: 360
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-06-22T07:51:39Z
   Total Products: 1
@@ -9028,7 +9028,7 @@
   Updated: 2025-10-02T06:52:15Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 5071
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-02T02:33:02Z
@@ -9046,7 +9046,7 @@
   Updated: 2025-09-23T19:58:36Z
   Total Products: 3
 - [Bluetooth](https://hifimediastore.com/collections/bluetooth)
-  Updated: 2025-10-02T06:24:12Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 263
 - [sbs](https://hifimediastore.com/collections/sbs)
   Updated: 2025-06-22T07:51:40Z
@@ -9067,7 +9067,7 @@
   Updated: 2025-10-01T17:45:28Z
   Total Products: 12
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-02T07:11:56Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 4064
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-01T18:21:55Z
@@ -9124,7 +9124,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 5440
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-06-22T07:51:42Z
@@ -9139,7 +9139,7 @@
   Updated: 2025-08-25T16:36:25Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-02T07:12:21Z
+  Updated: 2025-10-02T08:46:58Z
   Total Products: 5440
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-09-30T23:53:17Z
