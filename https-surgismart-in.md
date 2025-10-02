@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-02T04:00:32.676Z
+- Updated At: 2025-10-02T08:00:32.215Z
 
 ## Products
 
@@ -382,7 +382,7 @@
     Availability: Available
     Price: ₹160.00 INR
 - [Buy ​United Medicare Posture Brace (C-15) - Surgismart](https://surgismart.in/products/c-15): Key Features:UM Posture Brace can be used for poor posture, slouching and pain in the thoracic spine. It provides strong posture for the upper back and pulls shoulder backs. Posture Brace is made of comfortable and breathable material, and it can be used under the cloth. The brace acts as a correction brace and may prevent the spine from attaining a crooked form. UM brace suitable for all and convenient to use at home, office or during workout. Direction of use Pass elastic straps through buckle locks to fit it to your shoulder that way you put on a backpack pull. Make sure the brace tightly but not tight. Safety information Do not dry clean, machine wash or iron. For single person use only. Sizes chart Body parts measurements Code sizes inches cms XXL 28-38 70-96 Chest, abdomen Measure circumference around the chest below underarms. C15 Universal 38-46 96-116 UM posture brace is designed to help in correcting poor posture in the back shoulder.It may align your shoulders and spine to help you maintain a healthy posture and keep your body in a neutral position.UM posture brace is available in universal and XXL sizes, so you can choose your suitable posture brace.UM posture brace is used to help your body muscles to get accustomed to their place, ensuring that your shoulder muscles are properly aligned.Yes, UM posture brace is made of comfortable and breathable material, and it can be used under the cloth.You can use this UM posture brace for poor posture or kyphotic posture correction. It is not recommended for use for more than 3 to 4 hours per day, so you should consult your doctor and follow the instructions.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:31Z
+  Updated: 2025-10-02T06:51:48Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
