@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-23T06:41:23Z
 - Contact Email: info.kbart@gmail.com
-- Updated At: 2025-10-02T04:00:28.986Z
+- Updated At: 2025-10-02T08:00:29.226Z
 
 ## Products
 
