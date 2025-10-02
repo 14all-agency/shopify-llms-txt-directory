@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-02T16:00:35.174Z
+- Updated At: 2025-10-02T20:00:34.328Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-09-21T20:26:59Z
+  Updated: 2025-10-02T16:22:45Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-09-29T21:38:51Z
+  Updated: 2025-10-02T18:03:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -5513,7 +5513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/PORTLAND-BLACK-GOLD-19.jpg?v=1757518194
     Price: $1.00 USD
 - [Triangle Metallic Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/triangle-metallic-jacquard-fabric-58-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Triangle jacquard fabric. The beautiful metallic triangle design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:43:02Z
+  Updated: 2025-10-02T18:29:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
