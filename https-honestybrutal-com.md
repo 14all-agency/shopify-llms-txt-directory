@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-01T08:00:29.236Z
+- Updated At: 2025-10-02T12:00:30.475Z
 
 ## Products
 
@@ -41,12 +41,12 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/High_Noon_Jacket_Front.jpg?v=1756430670
     Price: $245.00 USD
 - [Flow Crossbody Vegan Leather bag](https://honestybrutal.com/products/flow): The Artist Statement Movement without map. Flow captures a moment of raw directionlessness — cobalt, teal, and gold drifting in rhythm but not in line. Lifted from an original alcohol ink work by Alex Z. Wang, this piece vibrates with energy and surrender, like a current that knows exactly where it’s not going. Wear it crossbody, on the shoulder, or as a wristlet — and let it take you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-08-30T01:48:31Z
+  Updated: 2025-10-01T21:14:03Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/Flow_Bag_1.jpg?v=1756430668
-  Price: $75.00 USD
+  Price: $150.00 USD
 - [Move iPhone Case](https://honestybrutal.com/products/move): The Artist Statement Color in motion. Move captures a moment of pure energy—saturated blues, greens, and golds collide in a fluid burst that feels both electric and organic. Designed from an original alcohol ink painting, this case turns your phone into a handheld piece of art. The Technicals Polycarbonate outer shell Thermoplastic polyurethane inner liner Dual-layer protection Precisely aligned port openings MagSafe® and wireless charging compatible Transparency Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
   Updated: 2025-08-29T01:24:27Z
   Vendor: Honesty Brutal
@@ -1100,33 +1100,33 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/Joshua_Tree_Jacket_Front.jpg?v=1756430613
     Price: $245.00 USD
 - [Aurora Flora Crossbody Vegan Leather Bag](https://honestybrutal.com/products/aurora-flora-crossbody-bag): The Artist Statetment A bloom charged with light. Aurora Flora pulses in saturated green and deep ocean blue — a field of floral energy rendered in ink and shadow. Based on a painting by Alex Z Wang, this bag channels the raw beauty of nature filtered through electric atmosphere. It moves like light on water — crossbody, shoulder, or wrist — always in motion, never still. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-09-09T06:38:14Z
+  Updated: 2025-10-01T21:13:42Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/AuroraBag1.jpg?v=1756430611
-  Price: $75.00 USD
+  Price: $150.00 USD
 - [Green Tail Crossbody Vegan Leather bag](https://honestybrutal.com/products/green-tail-crossbody-bag): The Artist Statement A flicker of motion, frozen mid-escape. Green Tail captures the moment just before vanishing — a rush of emerald, moss, and shadow inked onto white like a creature darting through foliage. Lifted from an original painting by Alex Z Wang, this piece hums with feral energy and silent tension. Strap it across your body, sling it from your wrist — this crossbody adapts to your rhythm, day or night. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-08-30T01:47:45Z
+  Updated: 2025-10-01T21:13:21Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/GreenTailBag1.jpg?v=1756430609
-  Price: $75.00 USD
+  Price: $150.00 USD
 - [Night Pedal Crossbody Vegan Leather bag](https://honestybrutal.com/products/night-pedal-crossbody-bag): The Artist Statement Softness with bite. Night Pedal opens in bloom and ends in bruise — a swirl of lavender, plum, and bone drawn from an original alcohol ink painting by Alex Z. Wang. Like a flower blooming in the dark, this crossbody carries tension and elegance in equal measure. Whether worn across the chest or clipped to your wrist, the modular strap system adapts to wherever the night pulls you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-09-06T15:37:47Z
+  Updated: 2025-10-01T21:13:05Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/NightPedalBag1.jpg?v=1756430607
-  Price: $75.00 USD
+  Price: $150.00 USD
 - [Serpenti Crossbody Vegan Leather bag](https://honestybrutal.com/products/serpenti-crossbody-bag): A flash of venom, a cloud of color. The Serpenti crossbody pulses with electric greens, yellows, and blues pulled from Alex Z. Wang’s original alcohol ink painting. Like a serpent mid-strike, it’s fluid, powerful, and impossible to ignore. This all-over print bag moves with you — from daylight chaos to midnight calm — thanks to a shape-shifting strap system that transforms it into a crossbody, shoulder bag, or wristlet in seconds. Details: Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-08-30T02:02:52Z
+  Updated: 2025-10-01T21:12:37Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/SerpentiBag2.jpg?v=1756430605
-  Price: $75.00 USD
+  Price: $150.00 USD
 - [Delulu Cap](https://honestybrutal.com/products/delulu-hat): The Artist Statement Live your delulu era loud and proud. This bold embroidered snapback is for the dreamers, the schemers, and anyone who knows that a little delusion can take you a long way. With its structured fit and high-profile silhouette, it’s not just a hat—it’s a whole mindset. The Technicals • 85% acrylic, 15% wool• Structured 6-panel crown• Flat visor with grey under brim• Adjustable plastic snap closure• Head circumference: 22″–24″ (55–60 cm)Transparency Made to order. Please allow time for production and delivery.
   Updated: 2025-09-07T04:23:27Z
   Vendor: Honesty Brutal
@@ -2232,7 +2232,7 @@
   Updated: 2025-08-29T01:24:33Z
   Total Products: 17
 - [Surface & Form](https://honestybrutal.com/collections/surface-form): The finishing touch to bold self-expression. Honesty Brutal accessories bring the same raw energy as our apparel—statement-making, art-driven, and unapologetically real. From caps to bags, every piece is designed to elevate your look with an edge of rebellion. Complete the statement. Wear the art.
-  Updated: 2025-09-08T18:03:58Z
+  Updated: 2025-10-01T21:14:04Z
   Total Products: 16
 - [Burst, Bloom, and Flow](https://honestybrutal.com/collections/burst-bloom-and-flow): Energy. Motion. Transformation. Burst, Bloom, Flow captures the raw intensity of creation—bold, fluid, and alive. Wear the motion. Feel the flow.
   Updated: 2025-09-08T18:49:02Z
@@ -2241,7 +2241,7 @@
   Updated: 2025-09-29T11:18:23Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-09-29T11:18:23Z
+  Updated: 2025-10-01T21:14:04Z
   Total Products: 60
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
@@ -2256,13 +2256,13 @@
   Updated: 2025-08-29T01:24:33Z
   Total Products: 9
 - [Accessories](https://honestybrutal.com/collections/accessories): Where detail becomes declaration.
-  Updated: 2025-09-08T18:03:58Z
+  Updated: 2025-10-01T21:14:04Z
   Total Products: 19
 - [Caps](https://honestybrutal.com/collections/caps): Statements, framed in silhouette
   Updated: 2025-09-07T04:23:28Z
   Total Products: 4
 - [Bags & Totes](https://honestybrutal.com/collections/bags-totes): Art that holds its own.
-  Updated: 2025-09-08T18:03:58Z
+  Updated: 2025-10-01T21:14:04Z
   Total Products: 11
 - [iPhone Cases](https://honestybrutal.com/collections/iphone-cases): Art at your fingertips
   Updated: 2025-08-29T01:24:29Z
