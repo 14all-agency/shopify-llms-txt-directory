@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-02T00:00:48.792Z
+- Updated At: 2025-10-02T04:00:48.357Z
 
 ## Products
 
@@ -2332,7 +2332,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ChangematRomangreen.jpg?v=1679356123
   Price: $65.00 NZD
 - [CONNETIX Rainbow Ball Run Expansion Pack 66pc](https://www.littlebambinos.co.nz/products/connetix-66-piece-rainbow-ball-run-expansion): When it comes to magnetic tile play, its all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-10-01T03:34:47Z
+  Updated: 2025-10-02T02:29:54Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -4763,7 +4763,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $35.00 NZD
 - [SILLY SILAS Footless Tights - Peanut Blend](https://www.littlebambinos.co.nz/products/silly-silas-footless-tights-peanut-blend): These Footless tights are a soft, nutty tone that goes well with almost anything. A pretty blend of beige, caramel, cream and brown. Silly Silas footless tights with braces will keep pace with even the most active babies and toddlers allowing them to explore the world around barefoot.Exceptionally resistant, lusciously soft and made from 100% organic cotton suitable also for babies with the most sensitive skin.Made with love in the heart of Europe, Czech Republic. Traditionally crafted by people who cherish their work for decades.- Certified according to Global Organic Textile Standard (GOTS). GOTS is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent certification of the entire textile supply chain.- Certified by OEKO-TEXÂ® Standard 100 at the Class 1 level, the most rigorous certification designed specifically for newborns through toddlers up to the age of three. In addition to testing for harmful chemicals at the strictest limit values, the test and verification methods also focus on pronounced resistance to saliva as an additional requirement for the Class 1 certification. *Important:It is important that your little one always wears the tights with braces in the correct way (as shown in all our pictures) - with one brace securely placed on the left shoulder and the other brace on the right shoulder in order to avoid abrasions.The braces help the little adventurers to freely move while playing and exploring the world and should be always used in the correct position.This is not a sleepwear product, remember to not leave your child unattended when wearing tights with braces.
-  Updated: 2025-08-06T22:43:22Z
+  Updated: 2025-10-02T00:31:32Z
   Vendor: Silly Silas
   Product Type: Tights
   Availability: Available
@@ -6706,7 +6706,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $24.00 NZD
 - [CONNETIX Pastel Rectangle Pack 24pc](https://www.littlebambinos.co.nz/products/connetix-pastel-rectangle-pack): Spark imagination and creativity with our 24 Piece Pastel Rectangle Pack! Inspire big ideas with multiple connection points and strong magnets as children explore their imagination to create long ramps, car tracks, roads, colourful carparks, towers and houses, plus so much more.
-  Updated: 2025-09-30T01:45:42Z
+  Updated: 2025-10-02T03:07:47Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7098,14 +7098,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T07:42:21Z
+  Updated: 2025-10-02T01:45:19Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-01T08:12:47Z
+  Updated: 2025-10-02T01:45:18Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -13257,7 +13257,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-09-28T01:02:41Z
+  Updated: 2025-10-02T02:42:45Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13357,7 +13357,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hormone_helper_e27ec68c-c508-46d1-8d4d-a801a8d6d0b8.jpg?v=1744071968
   Price: $59.00 NZD
 - [ORIA SKIN Blemish Repair Balm](https://www.littlebambinos.co.nz/products/blemish-repair-balm): 100% Natural Soothe inflammation Heal breakoutsReduce redness Crafted for hormonal imbalances, Blemish Repair Balm works with your skin to naturally heal & soothe spots. Zinc oxide provides relief with an instant moisture barrier, alongside effective healers Chamomile & Lavender oils. How it works: Zinc - Significantly reduces the swelling and redness of a skin problem like acne. Can help heal the wound or spot overnight. German Chamomile - relieves irritation, removes redness and swelling. Niacinamide - helps treat acne by reducing inflammation, regulates excess oil production, a skin regenerator so helps the scarring caused by a pimple. Niacinamide, also known as Vitamin B3, is a highly effective ingredient for treating and preventing breakouts. Here's how it helps: Reduces Inflammation: Niacinamide has anti-inflammatory properties that can help calm the skin and reduce the redness and swelling associated with acne. Regulates Sebum Production: It helps balance the skin's oil production, preventing excessive sebum that can clog pores and contribute to breakouts. Minimizes Pore Size: Niacinamide can help tighten and refine pores, reducing the likelihood of clogged pores, which are a common cause of acne. Improves Skin Barrier: By strengthening the skin's natural barrier, niacinamide helps retain moisture and protect the skin from harmful bacteria, further preventing breakouts. Fights Hyperpigmentation: It helps to reduce post-acne marks and dark spots, promoting a more even skin tone over time. How to use Apply to pimples, spots, rashes & other skin breakouts. Patch test before use. Ingredients Zinc Oxide, , Butyrospermum parkii* (shea butter)*, Simmondsia chinensis seed oil* (Jojoba oil*) Matricaria recutita (Chamomile german essential oil). Lavandula angustifolia (Lavender oil*) *Organic
-  Updated: 2025-09-27T20:58:45Z
+  Updated: 2025-10-02T02:36:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13424,13 +13424,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/B2BEF6A2-05F8-4529-AFD7-CB6301D54DF5.jpg?v=1744073619
   Price: $139.00 NZD
-- [INKAH Rattan toy chest](https://www.littlebambinos.co.nz/products/rattan-toy-chest-1): Keep mess hidden away with our beautifully designed rattan toy box featuring chicken eye rattan weaving. Measures: 60cm long x 50cm high x 40cm deep Please note handles on the sides are decoration only, do not use to lift toy chest.
-  Updated: 2025-09-30T21:42:43Z
-  Vendor: Inkah Limited
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/IMG_0163.jpg?v=1744073628
-  Price: $419.00 NZD
 - [INKAH Rattan Shopping Trolley PRE ORDER SEPTEMBER](https://www.littlebambinos.co.nz/products/rattan-shopping-trolley): Get ready to shop in style with our Rattan Shopping Trolley! Made for kids, this trolley is perfect for little shoppers to carry their own items while also developing motor skills and independence. Pair with our rattan market stand for the ultimate shopping set up! Measures: 58cm high x 31cm wide x 48cm deep
   Updated: 2025-08-06T22:55:39Z
   Vendor: Inkah Limited
@@ -15628,7 +15621,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pure-mama-product-imagery-perineal-perinium-oil-labour-birth-peri-stretch_3785067f-a7be-4433-8377-bacc27af1fcc.webp?v=1753755612
   Price: $49.00 NZD
 - [CONNETIX Pro Constructor Set 70pc](https://www.littlebambinos.co.nz/products/connetix-pro-constructor-set-70pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-01T08:28:56Z
+  Updated: 2025-10-02T02:06:13Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15656,7 +15649,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-28-pieces-Light-Star-Pack-1_1000x1000_790fb978-0d4f-4f94-b426-2ae2df73e4b0.webp?v=1754442535
   Price: $103.99 NZD
 - [CONNETIX Bright Portal Pack 48pc](https://www.littlebambinos.co.nz/products/connetix-bright-portal-pack-48pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T04:52:16Z
+  Updated: 2025-10-02T03:07:47Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15670,7 +15663,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-01T23:42:50Z
+  Updated: 2025-10-02T01:22:48Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15700,7 +15693,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $7.99 NZD
 - [LIL MOO Spare Parts](https://www.littlebambinos.co.nz/products/dust-cap): Misplaced your dust cap or rubber seal of your bottle warmer? No worries, you can order a new one here! Make sure you press the middle of the dust cap down when on the warmer to ensure a secure fit. Please do not place rubber seal or any part of your Portable Bottle Warmer in a UV steriliser or dishwasher.
-  Updated: 2025-09-29T05:42:46Z
+  Updated: 2025-10-02T01:22:42Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16449,6 +16442,216 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [5y](https://www.littlebambinos.co.nz/products/grown-everyday-twill-short-overalls-milk?variant=42054667075678)
     Availability: Available
     Price: $69.00 NZD
+- [WILSON & FRENCHY Organic Sun Hat - Deep Blue Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sun-hat-deep-blue-stripe): Protect your child from the sun in style with this charming striped sun hat. Crafted from organic cotton, this soft-washed bucket hat features a wide brim and frayed edges, offering both comfort and sun protection for sunny days. Designed with care in Australia, it’s an essential addition to your little one’s summer wardrobe.
+  Updated: 2025-10-02T02:16:52Z
+  Vendor: Wilson & Frenchy
+  Product Type: sun hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/wilson-frenchy-accesories-hats-deep-blue-stripe-organic-sunhat-1192202011.webp?v=1758778154
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sun-hat-deep-blue-stripe?variant=42054678872158)
+    Availability: Available
+    Price: $44.00 NZD
+  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sun-hat-deep-blue-stripe?variant=42054678904926)
+    Availability: Available
+    Price: $44.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sun-hat-deep-blue-stripe?variant=42054680313950)
+    Availability: Available
+    Price: $44.00 NZD
+- [WILSON & FRENCHY Organic Terry Sunhat - Strawberry Wave](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-strawberry-wave): This organic terry towelling baby sun hat by Wilson and Frenchy is a great addition to your baby's summer wardrobe. Featuring an adjustable elasticated toggle around the head for the perfect fit, a cord and toggle under the chin to keep the hat in place, and a wide brim to ensure babies' skin is well protected from the sun's rays, this hat will be your little one's favourite accessory this summer
+  Updated: 2025-10-02T02:16:52Z
+  Vendor: Wilson & Frenchy
+  Product Type: sun hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/http___static.theiconic.com.au_p_wilson-and-frenchy-6631-0841362-1.jpg?v=1758603745
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-strawberry-wave?variant=42054683164766)
+    Availability: Available
+    Price: $44.00 NZD
+  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-strawberry-wave?variant=42054683197534)
+    Availability: Available
+    Price: $44.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-strawberry-wave?variant=42054683754590)
+    Availability: Available
+    Price: $44.00 NZD
+  - [3-5y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-strawberry-wave?variant=42054683787358)
+    Availability: Available
+    Price: $44.00 NZD
+- [WILSON & FRENCHY Organic Sunhat - Strawberry Kisses](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sunhat-strawberry-kisses): Your child’s new favourite sun hat for summer is here – crafted from soft, breathable organic cotton crinkle fabric. This lightweight hat offers full coverage with its wide brim and playful all-over print, ensuring extra sun protection. It’s designed for comfort and safety, featuring an adjustable fit and a breakaway safety clasp to stay secure during play. Key benefits include an adjustable chin strap with a safety breakaway, a customizable brim for a perfect fit, and eco-friendly biodegradable packaging. Made from 100% organic cotton, machine washable, and crafted in India.
+  Updated: 2025-10-02T02:16:52Z
+  Vendor: Wilson & Frenchy
+  Product Type: sun hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2523-03_1_2048x2048_98e0f90b-a21d-4600-967d-a6d050066a95.jpg?v=1758612505
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sunhat-strawberry-kisses?variant=42054781632606)
+    Availability: Available
+    Price: $39.00 NZD
+  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sunhat-strawberry-kisses?variant=42054781665374)
+    Availability: Available
+    Price: $39.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sunhat-strawberry-kisses?variant=42054781698142)
+    Availability: Available
+    Price: $39.00 NZD
+- [WILSON & FRENCHY Organic Henley Bodysuit - Mini Jungle](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle): This soft and cozy bodysuit is a must-have for your baby's wardrobe. Crafted from GOTS-certified organic cotton jersey, it showcases a charming mini jungle print and includes a side neck opening and snap crotch to make dressing and diaper changes simple. Designed to be gentle on sensitive skin and free from harmful chemicals, it’s ideal for daily wear. Features include short sleeves, easy snap leg closures, sustainable production, and biodegradable packaging.
+  Updated: 2025-10-02T02:16:52Z
+  Vendor: Wilson & Frenchy
+  Product Type: Bodysuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2852118_23734790_21536878.jpg?v=1758614653
+  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle?variant=42054885245022)
+    Availability: Available
+    Price: $39.00 NZD
+  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle?variant=42054885277790)
+    Availability: Available
+    Price: $39.00 NZD
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-henley-bodysuit-mini-jungle?variant=42054885310558)
+    Availability: Available
+    Price: $39.00 NZD
+- [WILSON & FRENCHY Organic Terry Sunhat - Lavender Shells](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-lavender-shells): This baby sun hat from Wilson and Frenchy, made with organic terry towelling, is an essential item for your little one's summer outfits. It includes an adjustable elastic toggle for a comfortable fit, a chin cord with a toggle to keep it secure, and a wide brim to shield delicate skin from the sun. This hat is designed to become a beloved summer companion for your baby.
+  Updated: 2025-10-02T02:16:52Z
+  Vendor: Wilson & Frenchy
+  Product Type: sun hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/http___static.theiconic.com.au_p_wilson-and-frenchy-6634-7741362-1.jpg?v=1758615324
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-lavender-shells?variant=42054887080030)
+    Availability: Available
+    Price: $39.00 NZD
+  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-lavender-shells?variant=42054887112798)
+    Availability: Available
+    Price: $39.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-terry-sunhat-lavender-shells?variant=42054887145566)
+    Availability: Available
+    Price: $39.00 NZD
+- [WILSON & FRENCHY Organic Tee - Yeti](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti): This short-sleeve tee is crafted from GOTS-certified organic cotton rib, providing a soft and flexible fit that’s kind to sensitive skin. It showcases a charming Yeti design on the chest and includes a convenient side button opening to make dressing simple. Ideal for daily wear, it’s comfortable, breathable, and made without harmful chemicals—making it a practical and delightful addition to your little one’s wardrobe.
+  Updated: 2025-10-02T02:16:53Z
+  Vendor: Wilson & Frenchy
+  Product Type: Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2589-05A_1.webp?v=1758615557
+  - [0-3m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888521822)
+    Availability: Available
+    Price: $35.00 NZD
+  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888226910)
+    Availability: Available
+    Price: $35.00 NZD
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888259678)
+    Availability: Available
+    Price: $35.00 NZD
+  - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-tee-yeti?variant=42054888292446)
+    Availability: Available
+    Price: $35.00 NZD
+- [WILSON & FRENCHY Long Sleeved Swimsuit - Strawberry Kisses](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses): This cute long-sleeved swimsuit from Wilson & Frenchy’s summer range showcases a delightful strawberry kisses pattern. Made with recycled polyester and providing UPF 50+ sun protection, it’s ideal for sunny pool or beach
+  Updated: 2025-10-02T02:16:39Z
+  Vendor: Wilson & Frenchy
+  Product Type: Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2568-03_1_1728x_4d091753-2bb7-454c-ba24-e390b401220f.webp?v=1758616233
+  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42054893404254)
+    Availability: Available
+    Price: $49.00 NZD
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42054893437022)
+    Availability: Available
+    Price: $49.00 NZD
+  - [1y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42064454582366)
+    Availability: Available
+    Price: $49.00 NZD
+  - [2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42064454615134)
+    Availability: Available
+    Price: $49.00 NZD
+  - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42064454647902)
+    Availability: Available
+    Price: $49.00 NZD
+- [WILSON & FRENCHY Long Sleeved Swimsuit - Hazel Floral](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral): This charming long-sleeved swimsuit from Wilson & Frenchy’s summer range showcases a lovely hazel floral pattern. Made with recycled polyester and providing UPF 50+ sun protection, it’s ideal for sunny beach or pool outings. Featuring an elasticated ruffled leg hem and a convenient front zipper, it ensures easy dressing while keeping your child comfortable and protected.
+  Updated: 2025-10-02T02:16:40Z
+  Vendor: Wilson & Frenchy
+  Product Type: Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2568-02_1.webp?v=1758616419
+  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054893699166)
+    Availability: Available
+    Price: $49.00 NZD
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054893731934)
+    Availability: Available
+    Price: $49.00 NZD
+  - [1y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054894092382)
+    Availability: Available
+    Price: $49.00 NZD
+  - [2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054894125150)
+    Availability: Available
+    Price: $49.00 NZD
+  - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054894157918)
+    Availability: Available
+    Price: $49.00 NZD
+- [WILSON & FRENCHY Swim Board Short - Green Bean Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe): Dress your children comfortably in Wilson & Frenchy’s collection, featuring items made with natural fibres to provide gentle care.
+  Updated: 2025-10-02T02:16:40Z
+  Vendor: Wilson & Frenchy
+  Product Type: Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/wilson-frenchy-green-bean-stripe-swim-board-short-boardshorts-wilson-frenchy-989432_1800x1800_0ccb040a-ce46-4a5d-971c-99592f098549.webp?v=1758616751
+  - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054893863006)
+    Availability: Available
+    Price: $39.00 NZD
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054893895774)
+    Availability: Available
+    Price: $39.00 NZD
+  - [1y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894190686)
+    Availability: Available
+    Price: $39.00 NZD
+  - [2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894223454)
+    Availability: Available
+    Price: $39.00 NZD
+  - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894256222)
+    Availability: Available
+    Price: $39.00 NZD
+- [WILSON & FRENCHY One Piece Boyleg Swimsuit - Sunny Scales](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales): Wilson and Frenchy’s long-sleeve, one-piece boyleg swimsuit is ideal for sunny adventures. Crafted from recycled polyester with full lining, it provides excellent UPF 50+ sun protection and resists chlorine for lasting durability. The front zip makes it easy to put on and take off, ensuring comfort throughout the day.
+  Updated: 2025-10-02T02:16:40Z
+  Vendor: Wilson & Frenchy
+  Product Type: Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2565-06_1.webp?v=1758616906
+  - [3-6M](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales?variant=42054895632478)
+    Availability: Available
+    Price: $55.00 NZD
+  - [6-12M](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales?variant=42054895665246)
+    Availability: Available
+    Price: $55.00 NZD
+  - [12 -18M](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales?variant=42054895698014)
+    Availability: Available
+    Price: $55.00 NZD
+  - [18-24M](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales?variant=42054895730782)
+    Availability: Available
+    Price: $55.00 NZD
+  - [3Y](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales?variant=42054895763550)
+    Availability: Available
+    Price: $55.00 NZD
+- [WILSON & FRENCHY Sun Hat - Green Bean Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-green-bean-stripe): Keep your child safe under the sun with our printed sunhat. Crafted from 100% cotton and offering UPF 50+ protection, it has a wide brim to provide ample shade throughout the day.
+  Updated: 2025-10-02T02:16:40Z
+  Vendor: Wilson & Frenchy
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2564-06_1.webp?v=1758617289
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-green-bean-stripe?variant=42054897827934)
+    Availability: Available
+    Price: $39.00 NZD
+  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-green-bean-stripe?variant=42054897860702)
+    Availability: Available
+    Price: $39.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-green-bean-stripe?variant=42054897893470)
+    Availability: Available
+    Price: $39.00 NZD
+- [WILSON & FRENCHY Swim Sun Hat - Hazel Floral](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral): Keep your child safe in the sun with our printed sun hat. Crafted from 100% cotton and offering UPF 50+ protection, it ensures excellent sun defense. The wide brim provides ample shade to keep your little one comfortable throughout the day.
+  Updated: 2025-10-02T02:16:40Z
+  Vendor: Wilson & Frenchy
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2563-02_1.webp?v=1758617502
+  - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral?variant=42054903398494)
+    Availability: Available
+    Price: $39.00 NZD
+  - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral?variant=42054903431262)
+    Availability: Available
+    Price: $39.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral?variant=42054903464030)
+    Availability: Available
+    Price: $39.00 NZD
 - [MUSHIE Silicone Place Mat - Lilac Flowers](https://www.littlebambinos.co.nz/products/mushie-silicone-place-mat-vanilla-confetti-copy): Keep your little one clean with this fun-loving silicone place mat. Made from food-grade silicone, these playful mats are BPA and phthalate free. Easy to clean, our silicone place mats resist stains and does not absorb water. Wash with soap.
   Updated: 2025-09-25T19:27:21Z
   Vendor: Mushie
@@ -16568,7 +16771,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-01T23:43:11Z
+  Updated: 2025-10-02T03:43:13Z
   Total Products: 439
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -16916,7 +17119,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:06Z
   Total Products: 1561
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
@@ -16976,7 +17179,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:37Z
   Total Products: 0
 - [ALL Baby](https://www.littlebambinos.co.nz/collections/all-baby)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 284
 - [RYLEE + CRU - HOMETOWN SS20](https://www.littlebambinos.co.nz/collections/hometown): RYLEE + CRU SS20 - HOMETOWN LAUNCHES 6AM 28.02 NZST FREE LOCAL SHIPPING - RCFREESHIP Ends Midnight 01.02.20 nzst
   Updated: 2025-07-02T08:33:07Z
@@ -17027,10 +17230,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:44:43Z
   Total Products: 1
 - [All Girls](https://www.littlebambinos.co.nz/collections/all-girls)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:09Z
   Total Products: 265
 - [All Boys](https://www.littlebambinos.co.nz/collections/all-boys)
-  Updated: 2025-09-30T11:01:58Z
+  Updated: 2025-10-02T02:15:09Z
   Total Products: 153
 - [Tiny Trove](https://www.littlebambinos.co.nz/collections/tiny-trove): Tiny Trove was simply born through a desire to curate an every-day wardrobe for little ones. Akin to opening up a treasure chest full of beloved pieces, each telling its own story and holding a memory - Tiny Trove hopes to create designs that will be well-worn, well-loved and cherished for a long time for all the tiny loves in your life.
   Updated: 2025-09-24T11:01:50Z
@@ -17078,10 +17281,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:25:40Z
   Total Products: 139
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5593
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5593
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-09-11T11:02:10Z
@@ -17147,7 +17350,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:34:55Z
   Total Products: 26
 - [Wilson & Frenchy | Clothing for Babies](https://www.littlebambinos.co.nz/collections/wilson-frenchy): Made from the softest cotton blend with prints as unique and special as your little one, Wilson and Frenchy pieces are designed to spark joy. Shop Wilson & Frenchy for babies. Free shipping within NZ on orders over $100.
-  Updated: 2025-09-28T20:25:51Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 233
 - [All Jackets, Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/all-jackets-jumpers-cardigans): Keep your little ones warm and toasty this winter in our collection of jackets, jumpers and cardigans.
   Updated: 2025-10-01T11:02:11Z
@@ -17303,7 +17506,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:41:33Z
   Total Products: 13
 - [Subscriber Only Sale](https://www.littlebambinos.co.nz/collections/little-bambinos-flash-winter-sale): Winter Sale! Take 20% OFF STOREWIDE with the code STOREWIDE20 at checkout! Exclusions Apply. This weekend only. Winter sale on baby clothing and accessories. Kids clothing sale New Zealand.
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 4670
 - [Mama Bear](https://www.littlebambinos.co.nz/collections/mama-bear): Mama Bear is an Auckland based company offering organic, natural and environmental friendly products catering for the while family.
   Updated: 2024-10-05T04:11:20Z
@@ -17405,7 +17608,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5526
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-10-01T11:02:11Z
@@ -17420,16 +17623,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-01T23:43:11Z
-  Total Products: 1325
+  Updated: 2025-10-02T03:43:14Z
+  Total Products: 1324
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 501
 - [Liewood](https://www.littlebambinos.co.nz/collections/liewood): With a focus on functionality and innovation, LIEWOOD designs and produces toys, interior, furniture, accessories, wear and footwear for babies and children all which made with aesthetics, quality, and consciousness in mind. Exactly the core values that makes us love LIEWOOD.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5572
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
@@ -17450,7 +17653,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-24T11:01:50Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 1731
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-09-28T11:02:44Z
@@ -17474,10 +17677,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T11:02:44Z
   Total Products: 326
 - [Baby Tops](https://www.littlebambinos.co.nz/collections/n-baby-tops): Shop our collection of baby tops
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 164
 - [Baby Bodysuits](https://www.littlebambinos.co.nz/collections/n-baby-bodysuits): Shop our collection of baby bodysuits
-  Updated: 2025-09-28T20:25:48Z
+  Updated: 2025-10-02T02:15:25Z
   Total Products: 119
 - [Baby Onesies & Zipsuits](https://www.littlebambinos.co.nz/collections/n-baby-onesies-sleepwear): Shop our collection of baby onesies and sleepwear
   Updated: 2025-09-28T11:02:44Z
@@ -17486,7 +17689,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-21T11:01:54Z
   Total Products: 20
 - [Baby Hats](https://www.littlebambinos.co.nz/collections/n-baby-hats): Shop our collection of baby hats
-  Updated: 2025-09-30T11:01:58Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 195
 - [Baby Beanies](https://www.littlebambinos.co.nz/collections/n-baby-beanies): Shop our collection of baby beanies
   Updated: 2025-09-27T11:02:31Z
@@ -17558,7 +17761,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:39Z
   Total Products: 44
 - [Girls Swimwear](https://www.littlebambinos.co.nz/collections/n-girls-swimwear-1): Shop our collection of girls swimwear
-  Updated: 2025-09-28T20:25:49Z
+  Updated: 2025-10-02T02:15:06Z
   Total Products: 208
 - [Boys Tops](https://www.littlebambinos.co.nz/collections/n-boys-tops-1): Shop our collection of boys tops
   Updated: 2025-10-01T11:02:11Z
@@ -17579,7 +17782,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:39Z
   Total Products: 44
 - [Boys Swimwear](https://www.littlebambinos.co.nz/collections/n-boys-swimwear-1): Shop our collection of boys swimwear
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-10-02T02:15:06Z
   Total Products: 133
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby)
   Updated: 2025-08-06T22:49:08Z
@@ -17591,7 +17794,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 32
 - [Hats](https://www.littlebambinos.co.nz/collections/n-hats): Shop our collection of hats
-  Updated: 2025-09-30T11:01:58Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 218
 - [Beanies](https://www.littlebambinos.co.nz/collections/n-beanies): Shop our collection of beanies
   Updated: 2025-09-27T11:02:31Z
@@ -17786,7 +17989,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-14T20:55:22Z
   Total Products: 16
 - [Wear](https://www.littlebambinos.co.nz/collections/n-wear): Shop our Wear Collection
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 2216
 - [Pure Mama](https://www.littlebambinos.co.nz/collections/pure-mama): PURE MAMA FOUNDER AND MAMA OF ONE - Lara Christie"When I fell pregnant I was really surprised by the lack of pregnancy-specific body products available, especially as our skin changes so much during this time and needs extra support.I wanted to create a product range that harnessed the powerful, natural ingredients often used in facial skincare, such as Pomegranate and Raspberry Seed Oil, and concentrated levels of Vitamin E, which are miracle workers for skin hydration, elasticity and repairing damage. We then married these with tried and trusted base blends of Coconut and Almond oils to create a new, more nourishing range of skincare for pregnant woman and nursing mothers."
   Updated: 2025-09-20T11:02:20Z
@@ -17807,13 +18010,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-01T11:02:11Z
   Total Products: 573
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 1731
 - [Baby Swimwear](https://www.littlebambinos.co.nz/collections/n-baby-swimwear): Shop our collection of baby swimwear
-  Updated: 2025-09-30T11:01:58Z
+  Updated: 2025-10-02T02:15:06Z
   Total Products: 250
 - [Baby Accessories](https://www.littlebambinos.co.nz/collections/n-baby-accessories-n): Shop our collection of baby accessories
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 516
 - [Nursery](https://www.littlebambinos.co.nz/collections/n-nursery): Shop our collection of nursery products
   Updated: 2025-10-01T11:02:11Z
@@ -17822,13 +18025,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-01T11:02:11Z
   Total Products: 215
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 976
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5539
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-10-01T11:02:11Z
@@ -17843,19 +18046,19 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:59Z
   Total Products: 21
 - [Girls](https://www.littlebambinos.co.nz/collections/n-girls-1): Shop our collection of all girls products
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:09Z
   Total Products: 1033
 - [Girls All Clothing](https://www.littlebambinos.co.nz/collections/n-girls-all-clothing): Shop our collection of girls clothing
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:06Z
   Total Products: 821
 - [Boys](https://www.littlebambinos.co.nz/collections/n-boys): Shop our boys collection
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:09Z
   Total Products: 673
 - [Boys All Clothing](https://www.littlebambinos.co.nz/collections/n-boys-all-clothing): Shop our collection of all boys clothing
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:06Z
   Total Products: 545
 - [Wear Accessories](https://www.littlebambinos.co.nz/collections/n-wear-accessories): Shop our Wear Accessories
-  Updated: 2025-09-30T11:01:58Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 794
 - [Home](https://www.littlebambinos.co.nz/collections/n-home): Shop our collection of home products
   Updated: 2025-10-01T11:02:11Z
@@ -17921,10 +18124,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-25T03:39:00Z
   Total Products: 146
 - [Christmas Gifts Under $50 2023](https://www.littlebambinos.co.nz/collections/christmas-gifts-under-50-2023): SIt's never too early to start shopping for Christmas right?! Get started with our Christmas gift guides and ease the last minute holiday stress. Shop our collection of Christmas gifts under $50
-  Updated: 2025-09-30T11:01:58Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 88
 - [Christmas Stocking Stuffers](https://www.littlebambinos.co.nz/collections/stocking-fillers-2023): Shop our curated collection of Stocking Stuffer ideas for your children to help with Christmas shopping this year x
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 154
 - [Gifts Under $100](https://www.littlebambinos.co.nz/collections/christmas-gifts-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $100 x
   Updated: 2025-10-01T11:02:11Z
@@ -17963,16 +18166,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-26T11:02:02Z
   Total Products: 565
 - [20% OFF GARAGE SALE COLLECTION](https://www.littlebambinos.co.nz/collections/bf-20): Shop our EPIC 20% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all sale purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2025-09-29T11:01:54Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 360
 - [10% OFF MID-YEAR SALE](https://www.littlebambinos.co.nz/collections/bf-10): *Black Friday T&Cs Prices as marked, no codes needed. Happy shopping!
   Updated: 2025-10-01T11:02:11Z
   Total Products: 88
 - [Summer Essentials](https://www.littlebambinos.co.nz/collections/summer-essentials)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:26Z
   Total Products: 552
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5541
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
@@ -17990,7 +18193,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 2277
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-09-14T11:02:26Z
@@ -18023,7 +18226,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:34:27Z
   Total Products: 3
 - [LAST CHANCE, FINAL SIZES!](https://www.littlebambinos.co.nz/collections/last-chance-final-sizes): Snap up some LAST CHANCE grabs! With only one size left, these won't last long. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-09-28T20:25:33Z
+  Updated: 2025-10-02T02:15:25Z
   Total Products: 198
 - [UNDER $15](https://www.littlebambinos.co.nz/collections/under-15): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
   Updated: 2025-09-20T11:02:20Z
@@ -18032,7 +18235,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-26T11:02:02Z
   Total Products: 157
 - [UNDER $50](https://www.littlebambinos.co.nz/collections/under-50): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-09-28T20:25:33Z
+  Updated: 2025-10-02T02:15:25Z
   Total Products: 347
 - [UNDER $75](https://www.littlebambinos.co.nz/collections/under-75): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
   Updated: 2025-09-14T20:55:23Z
@@ -18068,10 +18271,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-01T11:02:11Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 2347
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-01T11:02:11Z
+  Updated: 2025-10-02T02:15:27Z
   Total Products: 5593
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
