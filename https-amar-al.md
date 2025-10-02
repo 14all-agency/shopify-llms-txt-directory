@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-02T04:00:34.021Z
+- Updated At: 2025-10-02T08:00:33.556Z
 
 ## Products
 
