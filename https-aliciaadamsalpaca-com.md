@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-01T20:00:37.047Z
+- Updated At: 2025-10-02T08:00:36.398Z
 
 ## Products
 
 - [Buy Portofino Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/portofino-wrap): buy portofino wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-20T02:54:10Z
+  Updated: 2025-10-02T00:25:13Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS234-124-PortofinoShawl-Moss-white-web_1.jpg?v=1751375505
     Price: $355.00 USD
 - [Buy Rib Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rib-throw): buy rib throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T14:08:51Z
+  Updated: 2025-10-01T20:30:12Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -746,7 +746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as290-07-24-houndstoothscarf-brown-lightblue-white-web.jpg?v=1735832602
     Price: $95.00 USD
 - [Buy Alassio Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/alassio-wrap): Buy Alassio Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-29T15:01:12Z
+  Updated: 2025-10-01T20:18:21Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -800,7 +800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-02-39-Alassio-Wrap-Beige-Light-Pink-white-web.jpg?v=1719259343
     Price: $295.00 USD
   - [Grey / Woodrose / ONE SIZE](https://aliciaadamsalpaca.com/products/alassio-wrap?variant=40826821181555)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-14-127-Alassio-Wrap-Grey-Woodrose-2-white-web.jpg?v=1719259343
     Price: $295.00 USD
   - [Venetian Red / Dusted Red / ONE SIZE](https://aliciaadamsalpaca.com/products/alassio-wrap?variant=40826821279859)
@@ -898,7 +898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5413.jpg?v=1741012110
     Price: $495.00 USD
 - [Buy Ribbed Hot Water Bottle | Luxury Alpaca Accessory | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/ribbed-hot-water-bottle): buy ribbed hot water bottle, luxury alpaca accessory at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-30T12:06:02Z
+  Updated: 2025-10-01T20:37:41Z
   Vendor: alicia adams alpaca
   Product Type: Accessories
   Availability: Available
@@ -5050,7 +5050,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-leosweaterdenimblue_2.jpg?v=1692309324
     Price: $495.00 USD
 - [Buy Globetrotter Travel Set | Luxury Alpaca Travel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/globetrotter-travel-set): buy globetrotter travel set, luxury alpaca travel at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:28:27Z
+  Updated: 2025-10-01T20:39:01Z
   Vendor: alicia adams alpaca
   Product Type: Accessories
   Availability: Available
@@ -5400,7 +5400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-reversiblehat_deniumblue_charcoal_flatwhite.jpg?v=1735830604
     Price: $165.00 USD
 - [Buy Suri Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/suri-wrap): buy suri wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:28:47Z
+  Updated: 2025-10-01T20:15:12Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -5624,7 +5624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AW111-27-GiaJacket-Navy-Model-Lifestyle_1.jpg?v=1756735204
     Price: $675.00 USD
 - [Buy Jolene Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/jolene-wrap): buy jolene wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-30T12:51:26Z
+  Updated: 2025-10-01T20:18:53Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -5642,7 +5642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-JoleneWrap-Ivory-AdmiralsBlue-white-web.jpg?v=1735831453
     Price: $355.00 USD
   - [Artic / Ivory](https://aliciaadamsalpaca.com/products/jolene-wrap?variant=40826900185203)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-JoleneWrap-Arctic-Ivory-FlatWhite.jpg?v=1735831453
     Price: $355.00 USD
   - [Denim Blue / Beige](https://aliciaadamsalpaca.com/products/jolene-wrap?variant=40826900217971)
@@ -6997,7 +6997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw516-lounge-jogger-black-male-mannequin-white-front.jpg?v=1749205605
     Price: $195.00 USD
 - [Buy Gramercy Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gramercy-throw): buy gramercy throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:30:18Z
+  Updated: 2025-10-01T20:24:52Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -7063,7 +7063,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah228-15-kingston-throw-dark-grey.jpg?v=1705358019
     Price: $495.00 USD
 - [Buy Mystic Square Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mystic-square-pillow): buy mystic square pillow, luxury alpaca pillow at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-25T19:01:32Z
+  Updated: 2025-10-01T20:25:27Z
   Vendor: alicia adams alpaca
   Product Type: Decorative Pillows
   Availability: Available
@@ -9687,7 +9687,7 @@
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-siesta_crib_blanket_white.jpg?v=1687813301
   Price: $325.00 USD
 - [Buy Sydney Bed Blanket | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/sydney-blanket): buy sydney bed blanket, luxury alpaca blanket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:33:04Z
+  Updated: 2025-10-01T20:32:59Z
   Vendor: alicia adams alpaca
   Product Type: Bed Blankets
   Availability: Available
@@ -10165,7 +10165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-MazingBlanket_Ivory_ltgrey_onwhite_c7452324-c88c-4cea-a97a-1ef716fae841.jpg?v=1687276809
     Price: $1,480.00 USD
 - [Buy Chill Robe | Luxury Alpaca Robe | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/chill-robe): Buy Chill Robe, luxury alpaca Robe at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:33:39Z
+  Updated: 2025-10-01T20:43:51Z
   Vendor: alicia adams alpaca
   Product Type: Robes
   Availability: Available
@@ -10175,7 +10175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1692654601
     Price: $875.00 USD
   - [Pink Powder / XS](https://aliciaadamsalpaca.com/products/chill-robe?variant=40259338535027)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1692654601
     Price: $875.00 USD
   - [Pink Powder / S](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854015091)
@@ -10223,7 +10223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite.jpg?v=1692654601
     Price: $875.00 USD
   - [Navy / XXL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854441075)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite.jpg?v=1692654601
     Price: $875.00 USD
   - [Grey / XXS](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854572147)
@@ -10583,7 +10583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa117-205-benjidogsweater-redpear-flatwhite.jpg?v=1756734683
     Price: $225.00 USD
 - [Buy Heidi Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/heidi-sweater): buy heidi sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-19T15:34:06Z
+  Updated: 2025-10-01T20:40:36Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -10887,7 +10887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-f57558fe-2a48-48d0-ae5c-4611d2d37b26__83378.1656112890.1280.1280.jpg?v=1692886544
     Price: $590.00 USD
 - [Buy Bali Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/bali-throw): Buy Bali Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-29T16:25:30Z
+  Updated: 2025-10-01T20:10:08Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -11301,7 +11301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah102-49-classicthrow-camel-white-hr_6cdb69f0-7a32-4b1f-b5fc-e4918a88de83.jpg?v=1746195166
     Price: $225.00 USD
 - [Buy Mystic Long Lumbar Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mystic-long-lumbar-pillow): buy mystic long lumbar pillow, luxury alpaca pillow at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-09-24T19:37:30Z
+  Updated: 2025-10-01T20:39:50Z
   Vendor: alicia adams alpaca
   Product Type: Decorative Pillows
   Availability: Available
@@ -12677,7 +12677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/alicia-gift-card.jpg?v=1750855941
     Price: $5,000.00 USD
 - [Buy Club Sweater For Men | Luxury Alpaca Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/club-sweater): Shop our Men's Club Sweater and women at Alicia Adams Alpaca. Made with premium Pima Cotton and Baby Alpaca. Earn rewards with each purchase of our luxury alpaca unisex sweater. Discover our fair-trade made, eco-friendly luxury goods. Elevate your style with our sleek design and embrace extraordinary comfort. Shop now!
-  Updated: 2025-09-19T15:36:33Z
+  Updated: 2025-10-01T20:42:50Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -13621,7 +13621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-vicuna1952.jpg?v=1749208945
     Price: $2,200.00 USD
 - [Buy Vicuña Long Sleeve For Men | Luxury Vicuña Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vicuna-long-sleeve-polo-for-men): buy vicuña long sleeve polo for men, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-01T17:47:23Z
+  Updated: 2025-10-02T05:47:32Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -13798,7 +13798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW204-17-KeatonTurtleneck-Black-Lookbook-6.jpg?v=1748891655
     Price: $295.00 USD
 - [Montauk Throw](https://aliciaadamsalpaca.com/products/montauk-throw): Experience rustic elegance with the alicia adams alpaca Montauk Throw, a versatile and eco-conscious throw blanket. Perfect for car rides or cozying up on the sofa, its heavier weight and rustic texture provide unmatched warmth and style. With a distinctive whipstitch trim, this fair-trade throw is a unique addition to any space. Reduce your carbon footprint with this sustainably sourced blanket, ensuring comfort for you and your loved ones. The Montauk Throw is being made using an upcycling process that was recently awarded the German Design Award. Dimensions: 51 in. x 71 in. Materials: 52% recycled alpaca, 33% recycled wool, 15% cotton Product Care: Dry clean only Proudly fair-trade made in Peru.
-  Updated: 2025-10-01T19:08:08Z
+  Updated: 2025-10-01T20:38:07Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -15126,8 +15126,8 @@
   Updated: 2025-09-22T11:16:30Z
   Total Products: 7
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-10-01T19:03:26Z
-  Total Products: 243
+  Updated: 2025-10-01T20:19:23Z
+  Total Products: 242
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
   Updated: 2025-10-01T17:01:12Z
   Total Products: 90
