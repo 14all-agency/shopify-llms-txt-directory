@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-01T16:00:35.207Z
+- Updated At: 2025-10-02T04:00:36.803Z
 
 ## Products
 
 - [Umbra Cubiko Shower Caddy - Black](https://everydayhome.co.nz/products/cubiko-shower-caddy-black): Cubiko Shower Caddy, Black
-  Updated: 2025-09-28T19:07:10Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Mirror-Storage-Unit-Black-7.jpg?v=1727659219
   Price: $209.99 NZD
 - [Umbra Triflora Hanging Planter - White](https://everydayhome.co.nz/products/triflora-hanging-planter-white): Triflora Hanging Planter, White
-  Updated: 2025-09-25T14:42:57Z
+  Updated: 2025-10-02T03:39:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -81,21 +81,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hub-Leaning-Mirror-Black-0.jpg?v=1727658555
   Price: $299.99 NZD
 - [Umbra Bellwood Bar & Storage Cart - Black/Walnut](https://everydayhome.co.nz/products/bellwood-bar-serving-cart-black-walnut): Bellwood Bar/Serving Cart, Black/Walnut
-  Updated: 2025-09-25T13:00:25Z
+  Updated: 2025-10-02T03:39:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Bar-Serving-Cart-Black-Walnut-5.jpg?v=1727659739
-  Price: $379.99 NZD
+  Price: $249.99 NZD
 - [Umbra Bellwood Bar & Storage Cart - White/Natural](https://everydayhome.co.nz/products/bellwood-bar-serving-cart-white-natural): Bellwood Bar/Serving Cart, White/Natural
-  Updated: 2025-09-25T14:56:17Z
+  Updated: 2025-10-02T03:39:04Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Bar-Serving-Cart-White-Natural-8.jpg?v=1727659978
-  Price: $379.99 NZD
+  Price: $249.99 NZD
 - [Umbra Cascada Rotating Cosmetic Organiser - Clear](https://everydayhome.co.nz/products/cascada-cosmetic-organiser-clear): Cascada Cosmetic Organiser, Clear
-  Updated: 2025-10-01T09:37:06Z
+  Updated: 2025-10-01T16:07:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -199,13 +199,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Coffee-Table-Natural-3.jpg?v=1727659754
   Price: $299.99 NZD
-- [Umbra Triflora Hanging Planter - Set of 5 Black](https://everydayhome.co.nz/products/triflora-5-large-black): Triflora 5 Large  Black
-  Updated: 2025-09-25T13:00:50Z
+- [Triflora Hanging Planter Set of 5 - Black](https://everydayhome.co.nz/products/triflora-5-large-black): Triflora 5 Large  Black
+  Updated: 2025-10-02T03:38:45Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Triflora-Hanging-Planter-Set-of-5-Black-7.jpg?v=1727659563
-  Price: $159.99 NZD
+  Price: $99.99 NZD
 - [Umbra Ringo Chair - Black](https://everydayhome.co.nz/products/ringo-chair-black): Ringo Chair Black
   Updated: 2025-09-25T16:08:30Z
   Vendor: UMBRA
@@ -242,14 +242,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Metallic-Titanium-1.jpg?v=1727659051
   Price: $249.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 Black](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-black): Cubiko Adhesive Shower Bins, Black
-  Updated: 2025-09-28T19:22:17Z
+  Updated: 2025-10-01T21:22:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-10-01T09:37:06Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -424,40 +424,40 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Pull-Out-Clothesline-White-7.png?v=1727660196
   Price: $89.99 NZD
 - [ANA SANTL The Corner We Both Loved](https://everydayhome.co.nz/products/ana-santl-the-corner-we-both-loved): The photographs in The Summer Memories Collection are shot on analogue film. Compared to fast-paced digital photography, working with analog film gives moments of pause. There is a limit of exposures, that allows for only certain snapshots to be actually captured. The risk of technical imperfections becomes part of the story, Ana Santl explains. "I'm hoping that my work can serve as a mental holiday for those who decide to put them in their homes"
-  Updated: 2025-09-23T12:33:50Z
+  Updated: 2025-10-02T03:38:05Z
   Vendor: The Poster Club
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-ANA-SANTL-The-Corner-We-Both-Loved-5.jpg?v=1727659957
-  Price: $129.00 NZD
+  Price: $99.99 NZD
 - [ATELIER BY MINTSTUDIO The E1027 collection No 03](https://everydayhome.co.nz/products/atelier-by-mintstudio-the-e1027-collection-no-03): The E1027 Collection by Atelier by Mintstudio is inspired by the iconic E1027 house on the Azur, designed by the Irish designer Eileen Gray in 1927. With clean elongating lines, inspired by the textuality from the French riviera sunblinds and Grays sensitivity to a subtle colour scheme and geometrical surfaces, the print collection takes all the best from the 20th century architecture, affirms its role as a modern, inspiring and relevant era still today.
-  Updated: 2025-09-23T12:33:51Z
+  Updated: 2025-10-02T03:38:06Z
   Vendor: The Poster Club
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-ATELIER-BY-MINTSTUDIO-The-E1027-co-8.jpg?v=1727658625
-  Price: $129.00 NZD
+  Price: $99.99 NZD
 - [FRANKIE PENWILL Petunias](https://everydayhome.co.nz/products/frankie-penwill-petunias): Frankie Penwill’s work is heavily influenced by her obsession with everything botanical and floral. Originating from a small town in the county of Devon, England, she grew up surrounded by nature and being outdoors. It has followed her into her work as an artist, illustrator and print designer.
-  Updated: 2025-09-30T09:43:45Z
+  Updated: 2025-10-02T03:38:13Z
   Vendor: The Poster Club
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-FRANKIE-PENWILL-Petunias-6.jpg?v=1727660323
-  Price: $129.00 NZD
+  Price: $99.99 NZD
 - [LISA WIRENFELT Meringue](https://everydayhome.co.nz/products/lisa-wirenfelt-meringue): Fine art print created by Lisa Wirenfelt exclusively for The Poster Club. Lisa's inspiration mainly comes from colour combinations and patterns that she experiences in her everyday life and in the world when travelling. However, her entire body of work showcases an act of contrasts: Balancing between skinny sketching with very few colours and broad, soft strokes in lots of bright colours. She explains: “I think it’s like eating wasabi between your sushi rolls. I need to cleanse from colour once in a while and then go back.”
-  Updated: 2025-09-23T12:33:51Z
+  Updated: 2025-10-02T03:38:16Z
   Vendor: The Poster Club
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-LISA-WIRENFELT-Meringue-8.jpg?v=1727659525
-  Price: $85.00 NZD
+  Price: $84.99 NZD
 - [REBECCA HEIN Sea Lavender](https://everydayhome.co.nz/products/rebecca-hein-sea-lavender): Seeking out calmness, Danish artist Rebecca Hein has created a collection of artworks that explores the hushed depths of the ocean, the colours of coral reefs and their organic shapes. The result is The Sous La Mer Collection where art meets nature.
-  Updated: 2025-09-23T12:33:52Z
+  Updated: 2025-10-02T03:38:22Z
   Vendor: The Poster Club
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-REBECCA-HEIN-Sea-Lavender-6.jpg?v=1727658885
-  Price: $199.00 NZD
+  Price: $99.99 NZD
 - [Moon Breakfast Board - Oiled Walnut](https://everydayhome.co.nz/products/dutchdeluxes-moon-breakfast-board-oiled-walnut): These solid wooden breakfast boards can be used at both sides; one with a juice groove for cutting, while keeping the plain side for a deluxe presentation. Beautiful to combine the different shapes and materials. They are easy to store and easy to clean, no need to use the dishwasher.
   Updated: 2025-09-02T22:03:55Z
   Vendor: DUTCH DELUXES
@@ -487,320 +487,320 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Food-Stand-Medium-Platinum-5.jpg?v=1727660103
   Price: $29.99 NZD
 - [Therapy Kitchen Surface Spray - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy®-kitchen-surface-spray-lemongrass-lime-bergamot): Clean surfaces without the use of harsh ingredients. Naturally, revitalise and neutralise odours with a fresh and purifying aroma. Refill once empty with our Surface Spray concentrate (sold separately). Simply add the concentrate to your empty Therapy Kitchen Surface Spray bottle, then fill to the top with water. Reducing single-use plastic. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:05Z
+  Updated: 2025-10-02T03:38:30Z
   Vendor: The Aromatherapy Co
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Surface-Spray-5.jpg?v=1727659540
   Price: $19.99 NZD
 - [Therapy Home & Linen Spray Soothe - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-linen-room-spray-soothe-peony-petitgrain): Freshen your home or bedding with this peaceful and opulent aroma. Combining the essential oils of Petitgrain & Lavender with notes of Peony & Rose to help soothe today's stresses. Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver, Sandal
-  Updated: 2025-09-23T12:34:05Z
+  Updated: 2025-10-02T03:38:44Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Home-Linen-Spray-Sooth-1.jpg?v=1727660024
   Price: $18.99 NZD
 - [Therapy Hand & Body Wash Refill - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-hand-body-wash-refill-peony-petitgrain): Top-up with our one litre wash, refilling your Therapy hand & body wash bottle twice. Soothe and relax with this peaceful aroma. Enriched with Aloe Leaf extract, Kawakawa oil, Petitgrain & Lavender essential oils and the floral scent of Peony & Rose to gently cleanse your skin. Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver
-  Updated: 2025-09-23T12:34:08Z
+  Updated: 2025-10-02T03:38:41Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Wash-Refill-9.jpg?v=1727660423
   Price: $32.99 NZD
 - [Therapy Hand & Body Wash Refill - Coconut & Water Flower](https://everydayhome.co.nz/products/therapy-hand-body-wash-refill-coconut-water-flower): Top-up with our one litre wash, refilling your Therapy hand & body wash bottle twice. Unwind with this captivating sun-filled scent. Enriched with Aloe Leaf extract, Kawakawa oil, Patchouli & Orange essential oils and blended with sweet Coconut and Water Flower musk to gently cleanse your skin. Top notes:Coconut, Cyclamen, Almond, Ozonic, Orange, Green Heart notes:Jasmine, Rose, Muguet, Hyacinth, Violet, Peach, Patchouli Base notes:Musk, Moss, Vanilla, Tonka, Cedarwood, Lactone
-  Updated: 2025-09-23T12:34:09Z
+  Updated: 2025-10-02T03:38:40Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Wash-Refill-1.jpg?v=1727659842
   Price: $32.99 NZD
 - [Therapy Kitchen Hand Wash Refill - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy-kitchen-hand-wash-refill-lemongrass-lime-bergamot): Top-up with our one litre wash, refilling your Therapy Kitchen hand & body wash bottle twice. Refresh your skin with this uplifting and zesty wash. Enriched with the essential oil of Lemongrass, with added Aloe Leaf extract & Kawakawa oil, to naturally cleanse & nourish. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:10Z
+  Updated: 2025-10-02T03:38:43Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Hand-Wash-Refi-5.jpg?v=1727660078
   Price: $32.99 NZD
 - [Therapy Diffuser Refill Sticks](https://everydayhome.co.nz/products/therapy-diffuser-refill-sticks): Our Therapy Reed Stick Refill Pack is the perfect way to reuse your current diffuser vessel to keep your home smelling opulent and elegant.
-  Updated: 2025-09-23T12:34:12Z
+  Updated: 2025-10-02T03:38:34Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Refill-Sticks-5.jpg?v=1727659938
   Price: $3.49 NZD
 - [Therapy Diffuser Refill Unwind - Coconut & Water Flower](https://everydayhome.co.nz/products/therapy-diffuser-refill-unwind-coconut-water-flower): Press pause, unwind and drift off to tropical shores with this captivating sun-filled scent. Infused with the comforting essential oils of Patchouli & Orange and blended with sweet Coconut and Water Flower musk, this marine inspired fragrance will wind back the stress and calm your senses. Top notes:Coconut, Cyclamen, Almond, Ozonic, Orange, Green Heart notes:Jasmine, Rose, Muguet, Hyacinth, Violet, Peach, Patchouli Base notes:Musk, Moss, Vanilla, Tonka, Cedarwood, Lactone
-  Updated: 2025-09-23T12:34:15Z
+  Updated: 2025-10-02T03:38:35Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Refill-Unwind-0.jpg?v=1727659909
   Price: $34.99 NZD
 - [Therapy Diffuser Refill Soothe - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-diffuser-refill-soothe-peony-petitgrain): Relax in serene stillness with this peaceful, opulent aroma. Combining the essential oils of Petitgrain, Lavender & Cedarwood and notes of Peony and Rose, this floral scent can help to soothe today's stresses and prepare you for tomorrow's challenges. Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver, Sandal
-  Updated: 2025-09-23T12:34:16Z
+  Updated: 2025-10-02T03:38:34Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Refill-Soothe-7.jpg?v=1727659989
   Price: $34.99 NZD
 - [Therapy Diffuser Refill Balance - Cinnamon & Vanilla Bean](https://everydayhome.co.nz/products/therapy-diffuser-refill-balance-cinnamon-vanilla-bean): Savour the moment and indulge your cravings with this warm, sweetly spiced aroma. Distinguished by a combination of soft oriental notes, the sweet spices of Cinnamon Leaf essential oil and the rich warmth of Vanilla Bean will fill your room with this deeply sensuous fragrance. Top notes:Cinnamon, Almond, Cocoa, Bergamot, Rum, Aniseed Heart notes:Apple, Muguet, Freesia, Jasmine, Cardamom Base notes:Musk, Sandal, Vanilla, Caramel, Tonka, Vetiver
-  Updated: 2025-09-23T12:34:16Z
+  Updated: 2025-10-02T03:38:33Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Refill-Balanc-6.jpg?v=1727660219
   Price: $34.99 NZD
 - [Therapy Diffuser Refill Strength - Sandalwood & Cedar](https://everydayhome.co.nz/products/therapy-diffuser-refill-strength-sandalwood-cedar): Enrich your environment with this inspiring aroma to boost the mind, body & soul. With the energising combination of Cedarwood, Guaiacwood & Patchouli essential oils and earthy notes of Sandalwood, this deep, fragrant pick-me-up can help to refuel and strengthen your senses. Top notes:Wild Berries, Incense Heart notes:Amber, Patchouli Base notes:Cedarwood, Guaiacwood, Musk
-  Updated: 2025-09-23T12:34:17Z
+  Updated: 2025-10-02T03:38:35Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Refill-Streng-0.jpg?v=1727659887
   Price: $34.99 NZD
 - [Therapy Kitchen Room Spray - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy-kitchen-room-spray-lemongrass-lime-bergamot): Freshen your kitchen with an uplifting and zesty blend to neutralise lingering odours. The rich essential oil of Lemongrass will naturally revitalise your home with a fresh and purifying aroma. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:20Z
+  Updated: 2025-10-02T03:38:43Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Room-Spray-Lem-5.jpg?v=1727660264
   Price: $18.99 NZD
 - [Therapy Kitchen Hand Lotion - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy-kitchen-hand-lotion-lemongrass-lime-bergamot): Enrich your skin with this uplifting and zesty lotion infused with Lemongrass essential oil, Avocado, Coconut & Kawakawa oils and Mango Seed Butter to help strengthen and repair. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:21Z
+  Updated: 2025-10-02T03:38:42Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Hand-Lotion-Le-7.jpg?v=1727659372
   Price: $24.99 NZD
 - [Therapy Kitchen Hand Wash - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy-kitchen-hand-wash-lemongrass-lime-bergamot): Refresh your skin with this uplifting and zesty wash. Enriched with the essential oil of Lemongrass, with added Aloe Leaf extract & Kawakawa oil, to naturally cleanse & nourish. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:22Z
+  Updated: 2025-10-02T03:38:42Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Hand-Wash-Lemo-2.jpg?v=1727659214
   Price: $24.99 NZD
 - [Therapy Kitchen Hand Cream - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy-kitchen-hand-cream-lemongrass-lime-bergamot): A chef's favourite - refresh and hydrate your skin whilst eliminating cooking odours with this zesty citrus aroma. Lavished with Avocado, Kawakawa & Coconut oils to soothe & restore moisture and SPF15 to help protect against sun damage Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:24Z
+  Updated: 2025-10-02T03:38:41Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Hand-Cream-Lem-0.jpg?v=1727659432
   Price: $19.99 NZD
 - [Therapy Strength Hand Cream - Sandalwood & Cedar](https://everydayhome.co.nz/products/therapy-strength-hand-cream-sandalwood-cedar): Lavished with Avocado, Kawakawa & Coconut oils to soothe and restore moisture. Infused with the energising combination of Cedarwood, Guiacawood & Patchouli essential oils, and SPF15 to help protect against sun damage. Top notes:Wild Berries, Incense Heart notes:Amber, Patchouli Base notes:Cedarwood, Guaiacwood, Musk
-  Updated: 2025-09-23T12:34:26Z
+  Updated: 2025-10-02T03:38:45Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Strength-Hand-Cream-Sa-5.jpg?v=1727659135
   Price: $19.99 NZD
 - [Therapy Balance Hand Cream - Cinnamon & Vanilla Bean](https://everydayhome.co.nz/products/therapy-balance-hand-cream-cinnamon-vanilla-bean): Lavished with Avocado, Kawakawa & Coconut oils to soothe and restore moisture. Infused with the heavenly combination of Cinnamon Leaf essential oil and Vanilla essence, and SPF15 to help protect against sun damage. Top notes:Cinnamon, Almond, Cocoa, Bergamot, Rum, Aniseed Heart notes:Apple. Muguet, Freesia, Jasmine, Cardamom Base notes:Musk, Sandal, Vanilla, Caramel, Tonka, Vetiver
-  Updated: 2025-09-23T12:34:28Z
+  Updated: 2025-10-02T03:38:31Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Balance-Hand-Cream-Cin-8.jpg?v=1727659965
   Price: $19.99 NZD
 - [Therapy Hand & Body Lotion - Sandalwood & Cedar](https://everydayhome.co.nz/products/therapy-hand-body-lotion-sandalwood-cedar): Illuminate your inner energy with this combination of Cedarwood & Patchouli essential oils, fragranced with Sandalwood and enriched with Avocado, Coconut & Kawakawa oils to restore your skin's moisture. Top notes:Wild Berries, Incense Heart notes:Amber, Patchouli Base notes:Cedarwood, Guaiacwood, Musk
-  Updated: 2025-09-23T12:34:29Z
+  Updated: 2025-10-02T03:38:39Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Lotion-Sanda-3.jpg?v=1727659291
   Price: $24.99 NZD
 - [Therapy Hand & Body Lotion - Coconut & Water Flower](https://everydayhome.co.nz/products/therapy-hand-body-lotion-coconut-water-flower): Unwind with this captivating sun-filled scent enriched with Patchouli & Orange essential oils and blended with sweet Coconut and Water Flower musk. Infused with Mango Seed Butter, Avocado, Coconut & Kawakawa oils to restore your skin's moisture. Top notes:Coconut, Cyclamen, Almond, Ozonic, Orange, Green Heart notes:Jasmine, Rose, Muguet, Hyacinth, Violet, Peach, Patchouli Base notes:Musk, Moss, Vanilla, Tonka, Cedarwood, Lactone
-  Updated: 2025-09-23T12:34:29Z
+  Updated: 2025-10-02T03:38:38Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Lotion-Cocon-8.jpg?v=1727659839
   Price: $24.99 NZD
 - [Therapy Hand & Body Lotion - Cinnamon & Vanilla Bean](https://everydayhome.co.nz/products/therapy-hand-body-lotion-cinnamon-vanilla-bean): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:30Z
+  Updated: 2025-10-02T03:38:37Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Lotion-Cinna-8.jpg?v=1727660043
   Price: $24.99 NZD
 - [Therapy Hand & Body Lotion - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-hand-body-lotion-peony-petitgrain): Soothe and relax with this peaceful aroma enriched with Petitgrain & Lavender essential oils and the floral scent of Peony & Rose. Infused with Mango Seed Butter, Avocado, Coconut & Kawakawa oils to restore your skin's moisture. Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver, Sandal
-  Updated: 2025-09-23T12:34:30Z
+  Updated: 2025-10-02T03:38:38Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Lotion-Peony-8.jpg?v=1727660285
   Price: $24.99 NZD
 - [Therapy Hand & Body Wash - Cinnamon & Vanilla Bean](https://everydayhome.co.nz/products/therapy-hand-body-wash-cinnamon-vanilla-bean): Lavish your hands and body with Mango Seed Butter, Avocado, Coconut and Kawakawa Oil with Cinnamon essential oil. Delicately fragranced with sweet, spicy oriental notes. Top notes:Cinnamon, Almond, Cocoa, Bergamot, Rum, Aniseed Heart notes:Apple. Muguet, Freesia, Jasmine, Cardamom Base notes:Musk, Sandal, Vanilla, Caramel, Tonka, Vetiver
-  Updated: 2025-09-23T12:34:31Z
+  Updated: 2025-10-02T03:38:39Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Wash-Cinnamo-2.jpg?v=1727659098
   Price: $24.99 NZD
 - [Therapy Hand & Body Wash - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-hand-body-wash-peony-petitgrain): Soothe and relax with this peaceful aroma. Enriched with Aloe Leaf extract, Kawakawa oil, Petitgrain & Lavender essential oils and the floral scent of Peony & Rose to gently cleanse your skin. Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver, Sandal
-  Updated: 2025-09-23T12:34:32Z
+  Updated: 2025-10-02T03:38:40Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Wash-Peony-P-6.jpg?v=1727659795
   Price: $24.99 NZD
 - [Therapy Hand & Body Wash - Coconut & Water Flower](https://everydayhome.co.nz/products/therapy-hand-body-wash-coconut-water-flower): Unwind with this captivating sun-filled scent. Enriched with Aloe Leaf extract, Kawakawa oil, Patchouli & Orange essential oils and blended with sweet Coconut and Water Flower musk to gently cleanse your skin. Top notes:Coconut, Cyclamen, Almond, Ozonic, Orange, Green Heart notes:Jasmine, Rose, Muguet, Hyacinth, Violet, Peach, Patchouli Base notes:Musk, Moss, Vanilla, Tonka, Cedarwood, Lactone
-  Updated: 2025-09-23T12:34:32Z
+  Updated: 2025-10-02T03:38:39Z
   Vendor: The Aromatherapy Co
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Hand-Body-Wash-Coconut-5.jpg?v=1727660311
   Price: $24.99 NZD
 - [Therapy Diffuser Strength - Sandalwood & Cedar](https://everydayhome.co.nz/products/therapy-diffuser-strength-sandalwood-cedar): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:33Z
+  Updated: 2025-10-02T03:38:36Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Strength-Sand-8.jpg?v=1727659655
   Price: $49.99 NZD
 - [Therapy Diffuser Unwind - Coconut & Water Flower](https://everydayhome.co.nz/products/therapy-diffuser-unwind-coconut-water-flower): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:34Z
+  Updated: 2025-10-02T03:38:37Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Unwind-Coconu-0.jpg?v=1727659632
   Price: $49.99 NZD
 - [Therapy Diffuser Soothe - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-diffuser-soothe-peony-petitgrain): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:37Z
+  Updated: 2025-10-02T03:38:36Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Soothe-Peony-7.jpg?v=1727659495
   Price: $49.99 NZD
 - [Therapy Diffuser Balance - Cinnamon & Vanilla Bean](https://everydayhome.co.nz/products/therapy-diffuser-balance-cinnamon-vanilla-bean): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:38Z
+  Updated: 2025-10-02T03:38:33Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Diffuser-Balance-Cinna-1.jpg?v=1727658879
   Price: $49.99 NZD
 - [Therapy Candle Strength - Sandalwood & Cedar](https://everydayhome.co.nz/products/therapy-candle-strength-sandalwood-cedar): Enrich your environment with this inspiring aroma to boost the mind, body & soul. With the energising combination of Cedarwood, Guaiacwood & Patchouli essential oils and earthy notes of Sandalwood, this deep, fragrant pick-me-up can help to refuel and strengthen your senses. Top notes:Wild Berries, Incense Heart notes:Amber, Patchouli Base notes:Cedarwood, Guaiacwood, Musk
-  Updated: 2025-09-23T12:34:38Z
+  Updated: 2025-10-02T03:38:32Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Candle-Strength-Sandal-1.jpg?v=1727660262
   Price: $39.99 NZD
 - [Therapy Candle Unwind - Coconut & Water Flower](https://everydayhome.co.nz/products/therapy-candle-unwind-coconut-water-flower): Press pause, unwind and drift off to tropical shores with this captivating sun-filled scent. Infused with the comforting essential oils of Patchouli & Orange and blended with sweet Coconut and Water Flower musk, this marine inspired fragrance will wind back the stress and calm your senses. Top notes:Coconut, Cyclamen, Almond, Ozonic, Orange, Green Heart notes:Jasmine, Rose, Muguet, Hyacinth, Violet, Peach, Patchouli Base notes:Musk, Moss, Vanilla, Tonka, Cedarwood, Lactone
-  Updated: 2025-09-23T12:34:39Z
+  Updated: 2025-10-02T03:38:32Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Candle-Unwind-Coconut-1.jpg?v=1727659680
   Price: $39.99 NZD
 - [Therapy Candle Soothe - Peony & Petitgrain](https://everydayhome.co.nz/products/therapy-candle-soothe-peony-petitgrain): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:39Z
+  Updated: 2025-10-02T03:38:32Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Candle-Soothe-Peony-Pe-3.jpg?v=1727659242
   Price: $39.99 NZD
 - [Therapy Candle Balance - Cinnamon & Vanilla Bean](https://everydayhome.co.nz/products/therapy-candle-balance-cinnamon-vanilla-bean): The Aromatherapy Company, a leading supplier of Home Fragrance and Body Care products based in New Zealand.
-  Updated: 2025-09-23T12:34:40Z
+  Updated: 2025-10-02T03:38:31Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Candle-Balance-Cinnamo-4.jpg?v=1727659110
   Price: $39.99 NZD
 - [Therapy Home & Linen Spray Soothe - Peony & Petitgrain](https://everydayhome.co.nz/products/therapya®-linen-room-spray-soothe-peony-petitgrain): Freshen your home or bedding with this peaceful and opulent aroma. Combining the essential oils of Petitgrain & Lavender with notes of Peony & Rose to help soothe today's stresses. Details Size: 100ml Fragrance Notes Top notes:Petitgrain, Neroli, Lavender, Coriander, Mandarin, Tuberose, Ylang Ylang Heart notes:Orange Flower, Rose, Iris, Peony, Jasmine Base notes:Tonka Bean, Cedar, Musk, Amber, Vetiver, Sandal Ingredients Water, Caprylyl/Capryl Glucoside, Fragrance blend including essential oils, Benzyl Alcohol, Dehydroacetic Acid, Citric Acid. Peony Essential OilCan help to heal inflammation and aid relief to arthritis. Petitgrain Essential OilCarries antiseptic properties and can help with maintaining the moisture and oil balance of the skin.Â Â Tips Shake gently before each use. Spray liberally into the air or directly onto bed linen. Refresh yoga mats, wardrobes, luggage & washable fabrics while ironing. Do not spray directly onto skin. Use on washable fabrics only, spraying 20cm away. Avoid contact with eye area. For external use only. Keep out of children's reach.
-  Updated: 2025-09-23T12:34:42Z
+  Updated: 2025-10-02T03:38:30Z
   Vendor: The Aromatherapy Co
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Home-Linen-Spray-Sooth-4.jpg?v=1727659332
   Price: $18.99 NZD
 - [Therapy Kitchen Surface Spray - Lemongrass, Lime & Bergamot](https://everydayhome.co.nz/products/therapy-kitchen-surface-spray-lemongrass-lime-bergamot): Clean surfaces without the use of harsh ingredients. Naturally, revitalise and neutralise odours with a fresh and purifying aroma. Refill once empty with our Surface Spray concentrate (sold separately). Simply add the concentrate to your empty Therapy Kitchen Surface Spray bottle, then fill to the top with water. Reducing single-use plastic. Top notes:Lemongrass, Bergamot, Lime Heart notes:Jasmine, Rose, Pineapple, Apple Base notes:Caramel, Woody
-  Updated: 2025-09-23T12:34:42Z
+  Updated: 2025-10-02T03:38:44Z
   Vendor: The Aromatherapy Co
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/products/The-Aromatherapy-Co-Therapy-Kitchen-Surface-Spray-1.jpg?v=1727660362
   Price: $19.99 NZD
 - [Oasis Found - 1000 Piece Puzzle](https://everydayhome.co.nz/products/copy-of-shaken-stirred-1000-piece-puzzle): This artwork encapsulates the vibrancy and pleasure of summer holidays at the beach. This slice of summer was created during winter, so it speaks to the anticipation of future days with the sand in your toes and the freedom of floating in the ocean’s waves. Inspiration was also taken from the desire to create an artwork that would look as good as a puzzle as it would framed as art. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Bonnie BrownFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:43Z
+  Updated: 2025-10-02T03:38:07Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Oasis-Found-1000-Piece-Puzzle-5.webp?v=1727658559
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Golden Hour - 1000 Piece Puzzle](https://everydayhome.co.nz/products/golden-hour-1000-piece-puzzle): This artwork displays the emotion and ambiance of the freedom that summer brings. Wide open spaces, the delicate smell of freesias at the beach, and the gorgeous golden light that only happens at the end of a balmy summer’s day is cleverly visually depicted in the sun’s kaleidoscopic journey. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Kelly SpencerFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:43Z
+  Updated: 2025-10-02T03:38:14Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Golden-Hour-1000-Piece-Puzzle-7.webp?v=1727658663
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Ladies Who Lunch - 1000 Piece Puzzle](https://everydayhome.co.nz/products/ladies-who-lunch-1000-piece-puzzle): This piece is a joyous celebration of fabulous friends, fashion and food. With vibrant colour and ripe tastes for the palette to savour. This fashionable and trendy puzzle is rich and diverse, it’s a visual depiction of the sights, aromas and distinct sounds of a cherished day out with friends. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Hope McConnellFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:44Z
+  Updated: 2025-10-02T03:38:16Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Ladies-Who-Lunch-1000-Piece-Puzzle-8.webp?v=1727659854
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Flourish - 1000 Piece Puzzle](https://everydayhome.co.nz/products/flourish-1000-piece-puzzle): This gorgeous floral puzzle artwork celebrates the beauty of nature with a subtle reference to our duty as caretakers of the environment. As you complete this puzzle you will unearth hidden details which reveal the narrative behind this art piece, creating your own quiet poetry. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Laura ShallcrassFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:44Z
+  Updated: 2025-10-02T03:38:12Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Flourish-1000-Piece-Puzzle-7.webp?v=1727659624
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Day For It - 1000 Piece Puzzle](https://everydayhome.co.nz/products/day-for-it-1000-piece-puzzle): We’re never far from the water in New Zealand, and this action-packed scene celebrates a classic summer’s day. An explosion of sun, surf and sand, the crowds are soaking it up! What a Day For It. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Allan WrathFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:45Z
+  Updated: 2025-10-02T03:38:08Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Day-For-It-1000-Piece-Puzzle-8.webp?v=1727659971
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Reclaimed - 1000 Piece Puzzle](https://everydayhome.co.nz/products/reclaimed-1000-piece-puzzle): Welcome back to a time where nature was the predominant force, with no competition from smart homes, cars and the digital age. This artwork explores the idea of nature reclaiming the earth, where natural beauty in all its shapes and forms encourages curiosity and exploration. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Julia MurrayFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:45Z
+  Updated: 2025-10-02T03:38:22Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Reclaimed-1000-Piece-Puzzle-4.webp?v=1727658601
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Serenity - 1000 Piece Puzzle](https://everydayhome.co.nz/products/serenity-1000-piece-puzzle): A bucolic representation of a dreamy summer day with a sprinkling of imagination, this artwork is inspired by the Mediterranean Sea, famous for its crystal clear waters. The fish designs incorporate swirling and abstract shapes, sinuous lines, and wild colours, while the frame is a tribute to Sardinia’s majestic handmade textile heritage. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Maria Francesca MelisFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:46Z
+  Updated: 2025-10-02T03:38:24Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Serenity-1000-Piece-Puzzle-9.webp?v=1727660208
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Our Backyard - 1000 Piece Puzzle](https://everydayhome.co.nz/products/our-backyard-1000-piece-puzzle): This artwork recalls vibrant and bright Kiwi summers, when exploring local delights by road trip is a rite of passage. You can almost feel the heat and the smell of suntan lotion before you cool off with a classic ice block or water dip. Featuring New Zealand icons in Greg’s trademarked cut-up style of artwork, Kiwiana and national pride are at the fore in this colourful work. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Greg StraightFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:46Z
+  Updated: 2025-10-02T03:38:21Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Our-Backyard-1000-Piece-Puzzle-8.webp?v=1727659925
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Emporium - 1000 Piece Puzzle](https://everydayhome.co.nz/products/emporium-1000-piece-puzzle): This artwork represents an assortment of objects collected by the artist. These mementos serve a decorative purpose in the home, but more importantly, they spark nostalgia and sentiment. There’s an element of mystery in this work as Marcus draws inspiration from traditional eastern artwork and modern ideologies, then leaves it up to the viewer to decipher the meaning. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Marcus WatsonFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:46Z
+  Updated: 2025-10-02T03:38:09Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Emporium-1000-Piece-Puzzle-5.webp?v=1727659365
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Electric Bloom - 1000 Piece Puzzle](https://everydayhome.co.nz/products/electric-bloom-1000-piece-puzzle): This hyper-vivid puzzle artwork captivates the viewer with the bright hues of New Zealand’s native flora and fauna. A playful piece incorporating dance-like movement, its contrasting colours, disrupting space and fusion of realism and abstraction represents nature in a unique light. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Anna EvansFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:47Z
+  Updated: 2025-10-02T03:38:08Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Electric-Bloom-1000-Piece-Puzzle-3.webp?v=1727658723
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Sunday Bunch - 1000 Piece Puzzle](https://everydayhome.co.nz/products/sunday-bunch-1000-piece-puzzle): This artwork celebrates the vibrancy of Mexico with New Zealand’s natural environment in a whimsical design. Flamboyant Mexican colours are projected onto New Zealand flora and fauna to capture the imagination and bring joy for the viewer. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Cris PliegoFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:47Z
+  Updated: 2025-10-02T03:38:27Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Sunday-Bunch-1000-Piece-Puzzle-8.webp?v=1727659491
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Greetings From - 1000 Piece Puzzle](https://everydayhome.co.nz/products/greetings-from-1000-piece-puzzle): This puzzle artwork showcases handpicked iconic destinations and landmarks, blending vintage charm with a contemporary twist. The nostalgic 1950s poster design is the perfect backdrop for the recognisable elements in each location, spanning sand, sea, sky or mountains. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Lisa Nicole MoesFinished size: 75 x 52cm
-  Updated: 2025-09-23T12:34:48Z
+  Updated: 2025-10-02T03:38:15Z
   Vendor: Piece House
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Greetings-From-1000-Piece-Puzzle-4.webp?v=1727659457
-  Price: $49.00 NZD
+  Price: $49.99 NZD
 - [Umbra Bellwood Garment Rack - White/Natural](https://everydayhome.co.nz/products/bellwood-garment-rack-wht-nat): A clothing rack that saves space while adding a decorative touch, Bellwood Garment rack mixes soft curves with bentwood accents. This modern and multi-functional rack is perfect for organizing and displaying your clothes, shoes, bags and other accessories. With four space-saving shelves and integrated steel rod, Bellwood Rack can be used in your bedroom, laundry room, closet, entryway and more to store & organize your belongings.
   Updated: 2025-09-25T13:01:04Z
   Vendor: UMBRA
@@ -808,27 +808,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Garment-Rack-White-Natural-8.jpg?v=1727659545
   Price: $649.99 NZD
-- [Umbra Ribbon Wall Clock - Black](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-black): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
-  Updated: 2025-09-27T06:52:11Z
+- [Ribbon Wall Clock - Black](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-black): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
+  Updated: 2025-10-02T03:38:23Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Black-0.jpg?v=1727659987
-  Price: $109.99 NZD
-- [Umbra Ribbon Wall Clock - Steel](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-steel): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
-  Updated: 2025-09-25T13:30:50Z
+  Price: $99.99 NZD
+- [Ribbon Wall Clock - Steel](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-steel): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
+  Updated: 2025-10-02T03:38:23Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Steel-8.jpg?v=1727659533
-  Price: $109.99 NZD
-- [Umbra Ribbonwood Wall Clock - Natural](https://everydayhome.co.nz/products/ribbonwood-wall-clock-50-8cm-natural): This gorgeous clock is made from bent beech wood that has been shaped into folded ribbon shapes. Its contrasting minute and hour hands make it easy to tell the time. Ribbonwood's bent wood is part of a complex process of molding bent plywood.
-  Updated: 2025-09-25T13:43:41Z
+  Price: $99.99 NZD
+- [Ribbonwood Wall Clock - Natural](https://everydayhome.co.nz/products/ribbonwood-wall-clock-50-8cm-natural): This gorgeous clock is made from bent beech wood that has been shaped into folded ribbon shapes. Its contrasting minute and hour hands make it easy to tell the time. Ribbonwood's bent wood is part of a complex process of molding bent plywood.
+  Updated: 2025-10-02T03:38:24Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbonwood-Wall-Clock-Natural-4.jpg?v=1727660134
-  Price: $179.99 NZD
+  Price: $99.99 NZD
 - [Umbra Pillar Coat Rack - Black/Walnut](https://everydayhome.co.nz/products/pillar-coat-rack-black-walnut): This multi-functional coat rack boasts a sleek and stylish design that can easily fit into any space. With eight hooks for maximum storage, it offers a sophisticated solution for hanging coats and accessories in your home.
   Updated: 2025-09-25T14:08:49Z
   Vendor: UMBRA
@@ -885,15 +885,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-White-Natural-4.jpg?v=1727658613
   Price: $224.99 NZD
-- [Umbra Wobble Chess Set - Walnut](https://everydayhome.co.nz/products/wobble-chess-set-walnut): Get ready for a chess set like no other! Introducing the Wobble Chess Set - the perfect combination of classic and modern. With its concave landscape, this set brings a whole new level of excitement to the game. The freely quivering chess pieces add a lively interaction between the board and the pieces. It's the ultimate showpiece for your living room!
-  Updated: 2025-09-25T13:04:42Z
+- [Wobble Chess Set - Walnut](https://everydayhome.co.nz/products/wobble-chess-set-walnut): Get ready for a chess set like no other! Introducing the Wobble Chess Set - the perfect combination of classic and modern. With its concave landscape, this set brings a whole new level of excitement to the game. The freely quivering chess pieces add a lively interaction between the board and the pieces. It's the ultimate showpiece for your living room!
+  Updated: 2025-10-02T03:39:04Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Wobble-Chess-Set-Walnut-1.png?v=1727659667
-  Price: $669.99 NZD
+  Price: $439.99 NZD
 - [Umbra Woodrow Trash Can - 7.5L Black](https://everydayhome.co.nz/products/woodrow-can-7-5l-black): Introducing Woodrow, a stylish waste can that brings a modern vibe to any room. With its two-tone design, this can combines a natural wood interior with a stained finish on the outside, creating a cozy and grounded atmosphere. Its super easy to move around thanks to the integrated handles, making disposal a breeze. Plus, the unique curved shape turns a regular household item into a standout decor piece. Woodrow is perfect for compact spaces like powder rooms, offices, or studies. Upgrade your space with this eye-catching trash can!
-  Updated: 2025-09-25T14:52:31Z
+  Updated: 2025-10-01T22:02:25Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -913,22 +913,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $59.99 NZD
-- [Umbra Bird Café Feeder - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-09-25T13:00:53Z
+- [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
+  Updated: 2025-10-02T03:38:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bird-Cafe-Grey-8.jpg?v=1727660328
   Price: $79.99 NZD
-- [Umbra Stream Water Fountain - Grey](https://everydayhome.co.nz/products/stream-water-fountain-grey): USB-powered, Stream makes a great addition to your desk space, counter, entryway and more; providing an aesthetic and relaxing way to integrate decor into your space; also doubles as a great gift for any wellness lover.
-  Updated: 2025-09-25T13:01:06Z
+- [Stream Water Fountain - Grey](https://everydayhome.co.nz/products/stream-water-fountain-grey): USB-powered, Stream makes a great addition to your desk space, counter, entryway and more; providing an aesthetic and relaxing way to integrate decor into your space; also doubles as a great gift for any wellness lover.
+  Updated: 2025-10-02T03:38:27Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Stream-Water-Fountain-Grey-8.jpg?v=1727659011
-  Price: $29.99 NZD
-- [Umbra Slip Shoe Horn - Aluminium](https://everydayhome.co.nz/products/slip-shoe-horn-aluminium-matte): Ease on your shoes with this stylish and elegant slip shoehorn. The Slip long handle shoe horn is the solution to end the common struggle of slipping on shoes; but with a modern twist.
-  Updated: 2025-09-25T17:03:12Z
+  Price: $89.99 NZD
+- [Slip Shoe Horn - Aluminium](https://everydayhome.co.nz/products/slip-shoe-horn-aluminium-matte): Ease on your shoes with this stylish and elegant slip shoehorn. The Slip long handle shoe horn is the solution to end the common struggle of slipping on shoes; but with a modern twist.
+  Updated: 2025-10-02T03:38:25Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1257,7 +1257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wooden-Chopping-Board-Vegetables-7.png?v=1727658904
   Price: $89.95 NZD
 - [Brabantia Profile Wooden Chopping Board - Medium Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-medium-c): Need a multitasker in your kitchen? This sustainable Brabantia Profile Wooden Chopping Board is cut out for any cutting, chopping or serving job. And it can be used on both sides, for serving too! Medium size - compact in use, compact in storage. Space efficient!
-  Updated: 2025-09-23T12:35:20Z
+  Updated: 2025-10-01T21:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1467,7 +1467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-X-SearTech-10-Piece-Cookware-Set-Anolon-2.jpg?v=1731902137
   Price: $479.99 NZD
 - [Anolon X SearTech - 18Cm/2.8L Covered Saucepan](https://everydayhome.co.nz/products/ano-x-s-tech-ns-18cm-2-8l-cov-saucepan): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 18cm/2.8L covered saucepan features an ultra-durable, PFOA free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet.
-  Updated: 2025-09-17T22:07:11Z
+  Updated: 2025-10-01T21:37:10Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1495,7 +1495,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-12-Cup-Muffin-Pan-Anolon-3.jpg?v=1731903064
   Price: $39.99 NZD
 - [Anolon Ceramic Reinforced - 23cm Springform Pan](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-23cm-springform-pan): The springform pan is conveniently designed to ease the removal of culinary creations such as delicate cheesecakes, topped sponges and other fragile baked goods. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C, this unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-09-23T12:35:38Z
+  Updated: 2025-10-01T21:07:11Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1585,13 +1585,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-20-24-28cm-Skillet-Triple-Pack-An-6.jpg?v=1731902573
   Price: $324.99 NZD
-- [Anolon Endurance+ 20/26cm Open French Skillet Twin Pack](https://everydayhome.co.nz/products/anolon-endurance-20-26cm-open-french-skillet-twin-pack): Use these two perfectly sized skillets as the anchors of your well-equipped kitchen. The sloped sides of a skillet let foods slide out easily, and the non-stick surface makes clean-up effortless. Use the larger pan for your family weekday meals or for weekend entertaining. Use the smaller skillet for a tasty BLT or to make nutty browned butter to top your seared tuna fillet.
-  Updated: 2025-09-23T12:35:43Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-20-26cm-Open-French-Skillet-Twin-3.jpg?v=1731902464
-  Price: $324.99 NZD
 - [Anolon Endurance+ 20cm Open French Skillet](https://everydayhome.co.nz/products/anolon-endurance-20cm-open-french-skillet): Small is beautiful. When “just a little” is what you need, this is the pan to reach for. With less surface area to heat, it gets the job done quickly and holds the heat superbly. The SureGrip handle is comfortable to hold so you can transfer food eaily to another dish.
   Updated: 2025-09-28T20:37:10Z
   Vendor: Anolon
@@ -1620,13 +1613,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-24cm-7-6L-Stockpot-Bonus-Pasta-In-0.jpg?v=1731902099
   Price: $429.99 NZD
-- [Anolon Endurance+ 26cm Skillet & 28cm Sauteuse 2 Piece Set](https://everydayhome.co.nz/products/anolon-endurance-26cm-skillet-28cm-sauteuse-2-piece-set-p): Whether for company or for family meals, these generously sized pans are excellent for assembling a gala dinner of thick juicy pork chops, coq au vin, or steaks such as filets mignon. With this wonderful sautéuse, you'll have enough surface area to cook ingredients all at once, saving time and creating an impressive presentation. The large lid allows steam to collect, which hastens the cooking process even as it locks in nutrients and moisture. This 2 piece set is a great starter pack for those wanting the Gourmet Authority in Cooking.
-  Updated: 2025-09-23T12:35:49Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-26cm-Skillet-28cm-Sauteuse-2-Piec-9.jpg?v=1731902956
-  Price: $349.99 NZD
 - [Anolon Endurance+ 26cm/3.8L Covered Casserole](https://everydayhome.co.nz/products/anolon-endurance-26cm-3-8l-covered-casserole-p): Ideal for slow-cooking stews, baking casseroles, or roasting meats, this casserole ensures even cooking and retains heat for perfect results every time. Whether you're creating a gourmet meal for two or making a tasty weeknight dinner, you can rely on this casserole for consistent performance every time.
   Updated: 2025-09-23T12:35:49Z
   Vendor: Anolon
@@ -1662,13 +1648,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-30cm-French-Skillet-With-Bonus-Li-0.jpg?v=1731902627
   Price: $314.99 NZD
-- [Anolon Endurance+ 30cm/7.1L Covered Casserole](https://everydayhome.co.nz/products/anolon-endurance-30cm-7-1l-covered-casserole-p): Once this pan is in your kitchen you will wonder how you ever lived without it. Sauté seafood and vegetables for pasta, with plenty of room to stir the noodles right into the pan; or brown lamb shanks in this pan on the stovetop, and continue to braise them in the oven with root vegetables and red wine - there’s no need to even use another pan.
-  Updated: 2025-09-23T12:35:52Z
-  Vendor: Anolon
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-30cm-7-1L-Covered-Casserole-Anolo-4.jpg?v=1731903461
-  Price: $324.99 NZD
 - [Anolon Endurance+ 34cm Open French Skillet](https://everydayhome.co.nz/products/anolon-endurance-34cm-open-french-skillet): Perfect for large families, this generous sized skillet allows for versatile cooking with the convenience of both stovetop and oven use. Effortlessly prepare any recipe from start to finish!
   Updated: 2025-09-23T12:35:53Z
   Vendor: Anolon
@@ -1732,13 +1711,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Wall-Shelf-Black-Walnut-UMBRA-5.jpg?v=1731903251
   Price: $249.99 NZD
-- [Umbra Buddy Chess Set - Natural](https://everydayhome.co.nz/products/buddy-chess-set-natural): Buddy Chess Set is an elegant addition to any space, able to serve as eye-catching decor when not in use. It sports polished black and charcoal tiles and cast zinc chess pieces with nickel and titanium finishes. The board's glossy coating, in combination with the velvet lining under the individual pieces allows for optimal movement of the Buddy chess pieces.
-  Updated: 2025-09-25T16:27:10Z
+- [Buddy Chess Set - Natural](https://everydayhome.co.nz/products/buddy-chess-set-natural): Buddy Chess Set is an elegant addition to any space, able to serve as eye-catching decor when not in use. It sports polished black and charcoal tiles and cast zinc chess pieces with nickel and titanium finishes. The board's glossy coating, in combination with the velvet lining under the individual pieces allows for optimal movement of the Buddy chess pieces.
+  Updated: 2025-10-02T03:38:07Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Chess-Set-Natural-UMBRA-0.jpg?v=1731903504
-  Price: $369.99 NZD
+  Price: $239.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Assorted Colours](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
   Updated: 2025-10-01T06:33:53Z
   Vendor: UMBRA
@@ -1838,7 +1817,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-21-5-25-4cm-Skillet-Twi-2.jpg?v=1731902829
   Price: $249.99 NZD
 - [Circulon Scratchdefense A1 - 21.5cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5cm-open-skillet): Cook with complete confidence using this dishwasher-safe 21.5cm frying pan with a triple-layer nonstick cooking surface that lasts 130X longer than the competition and stands up to laboratory tests simulating 200+ years of daily wear and tear. An aluminium core delivers fast, all-over heat delivery and a thick, induction-suitable stainless steel base boosts durability and heat retention.
-  Updated: 2025-09-23T12:36:07Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1901,12 +1880,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Conceal-Shelf-Small-Set-3-Silver-UMBRA-4.png?v=1731902619
   Price: $69.99 NZD
 - [Umbra Cubiko Wall Planter - Black](https://everydayhome.co.nz/products/cubiko-wall-planter-black): Introducing the Umbra Cubiko Wall Planter – the perfect way to add a powerful statement to any wall, both indoors or out. This planter is made of durable, lightweight materials, making it perfect for a variety of plants, no matter their size. With a customizable configuration, you can decide how you want to arrange your plants, giving you the freedom to spruce up any space in your own unique style. Plus, with the included drainage trays, it’s easy to ensure your plants stay hydrated and healthy.
-  Updated: 2025-09-26T20:07:10Z
+  Updated: 2025-10-02T03:39:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cubiko-Wall-Planter-Black-UMBRA-6.png?v=1731902679
-  Price: $199.99 NZD
+  Price: $149.99 NZD
 - [Umbra Droplet Soap Dish - Clear](https://everydayhome.co.nz/products/droplet-soap-dish-clear): Made of durable, strong acrylic, Droplet gives off the illusion of delicate glass, but is practical and breakage-resistant. Droplet’s smooth wave-like ridges keep the soap bar from sitting in a pool of water and disintegrating. This is a clean, modern addition to any bathroom or kitchen.
   Updated: 2025-09-25T18:20:31Z
   Vendor: UMBRA
@@ -2236,20 +2215,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Organiser-Black-Walnut-UMBRA-9.jpg?v=1731902602
   Price: $44.99 NZD
-- [Umbra Exhibit Wall Picture Frame - Set of 3 Black](https://everydayhome.co.nz/products/exhibit-3-photo-display-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold three gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-09-25T18:20:37Z
+- [Exhibit Photo Display (Set of 3) - Black](https://everydayhome.co.nz/products/exhibit-3-photo-display-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold three gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
+  Updated: 2025-10-02T03:38:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Exhibit-Photo-Display-Set-of-3-Black-UMBRA-0.png?v=1731902610
   Price: $99.99 NZD
-- [Umbra Exhibit Wall Picture Frame - Set of 5 Black](https://everydayhome.co.nz/products/exhibit-photo-display-set-5-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold five gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-09-25T14:22:13Z
+- [Exhibit Photo Display (Set 5) - Black](https://everydayhome.co.nz/products/exhibit-photo-display-set-5-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold five gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
+  Updated: 2025-10-02T03:38:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Exhibit-Photo-Display-Set-5-Black-UMBRA-4.png?v=1731901805
-  Price: $139.99 NZD
+  Price: $99.99 NZD
 - [Umbra Flex Drain Stop & Hair Catcher - Grey](https://everydayhome.co.nz/products/flex-drain-stop-hair-catcher-grey): Say goodbye to clogged shower drains and tub stoppers that don't work with Flex drain stop and hair catcher you prevent hair from clogging your drain with this drain stop and hair catcher in one. Once inserted in your bathtub drain, simply push down on the center to convert it to either a hair catcher or tub stopper.
   Updated: 2025-09-25T15:59:04Z
   Vendor: UMBRA
@@ -2341,50 +2320,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Leana-Ladder-Rack-White-UMBRA-1.jpg?v=1731902202
   Price: $154.99 NZD
-- [Umbra Luna Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/luna-photo-display-black): Luna holds nine of your favorite 4x6 inch photos in a modern, gallery-style fashion and will effortlessly enhance your wall decor. At the same time, its practical design features a solid backing which allows you to clean and change your images easily. Use Luna to showcase your favorite photos or get creative and combine pictures, graphic text, illustrations, drawings, sketches, and other unique art for a one-of-a-kind, DIY collage photo frame.
-  Updated: 2025-09-25T14:22:38Z
+- [Luna Photo Display - Black](https://everydayhome.co.nz/products/luna-photo-display-black): Luna holds nine of your favorite 4x6 inch photos in a modern, gallery-style fashion and will effortlessly enhance your wall decor. At the same time, its practical design features a solid backing which allows you to clean and change your images easily. Use Luna to showcase your favorite photos or get creative and combine pictures, graphic text, illustrations, drawings, sketches, and other unique art for a one-of-a-kind, DIY collage photo frame.
+  Updated: 2025-10-02T03:38:17Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Luna-Photo-Display-Black-UMBRA-3.jpg?v=1731901901
-  Price: $119.99 NZD
-- [Umbra Montage Wall Shelf - Black](https://everydayhome.co.nz/products/montage-shelf-black): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-26T20:07:11Z
+  Price: $99.99 NZD
+- [Montage Shelf - Black](https://everydayhome.co.nz/products/montage-shelf-black): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
+  Updated: 2025-10-02T03:38:18Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Black-UMBRA-2.jpg?v=1731903161
-  Price: $139.99 NZD
-- [Umbra Montage Wall Shelf - Light Walnut](https://everydayhome.co.nz/products/montage-shelf-light-walnut): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-25T17:40:26Z
+  Price: $99.99 NZD
+- [Montage Shelf - Light Walnut](https://everydayhome.co.nz/products/montage-shelf-light-walnut): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
+  Updated: 2025-10-02T03:38:18Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Light-Walnut-UMBRA-7.jpg?v=1731902033
-  Price: $139.99 NZD
-- [Umbra Montage Wall Shelf - White](https://everydayhome.co.nz/products/montage-shelf-white): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-09-27T05:37:10Z
+  Price: $99.99 NZD
+- [Montage Shelf - White](https://everydayhome.co.nz/products/montage-shelf-white): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
+  Updated: 2025-10-02T03:38:19Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-White-UMBRA-4.jpg?v=1731903176
-  Price: $139.99 NZD
-- [Umbra Moona Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/moona-storage-box-black-walnut): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
-  Updated: 2025-09-29T08:07:12Z
+  Price: $99.99 NZD
+- [Moona Storage Box - Black/Walnut](https://everydayhome.co.nz/products/moona-storage-box-black-walnut): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
+  Updated: 2025-10-02T03:38:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Moona-Storage-Box-Black-Walnut-UMBRA-0.jpg?v=1731902649
-  Price: $129.99 NZD
-- [Umbra Moona Jewelry Box - White/Natural](https://everydayhome.co.nz/products/moona-storage-box-white-natural): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
-  Updated: 2025-09-29T08:07:10Z
+  Price: $99.99 NZD
+- [Moona Storage Box - White/Natural](https://everydayhome.co.nz/products/moona-storage-box-white-natural): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
+  Updated: 2025-10-02T03:38:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Moona-Storage-Box-White-Natural-UMBRA-0.jpg?v=1731901753
-  Price: $129.99 NZD
-- [Umbra Orchid Jewelry Stand - Gun Metal](https://everydayhome.co.nz/products/orchid-jewelry-stand-gun-metal): Inspired by the beautiful orchid flower, this unique jewelry stand makes an eye-catching statement while organizing your jewelry and keeping it in one place. Orchid stores and displays all of your favorite jewelry pieces with twelve hooks and a leaf-shaped dish, speeding the getting-reading process. Perfect to place on your dresser, vanity or nightstand.
-  Updated: 2025-09-25T16:26:59Z
+  Price: $99.99 NZD
+- [Orchid Jewelry Stand - Gun Metal](https://everydayhome.co.nz/products/orchid-jewelry-stand-gun-metal): Inspired by the beautiful orchid flower, this unique jewelry stand makes an eye-catching statement while organizing your jewelry and keeping it in one place. Orchid stores and displays all of your favorite jewelry pieces with twelve hooks and a leaf-shaped dish, speeding the getting-reading process. Perfect to place on your dresser, vanity or nightstand.
+  Updated: 2025-10-02T03:38:21Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2411,22 +2390,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Portaloo-Toilet-Paper-Stand-Reserve-White-Nickel-U-0.jpg?v=1731902775
   Price: $109.99 NZD
-- [Raco Contemporary - 14cm/1.4L Saucepan](https://everydayhome.co.nz/products/raco-contemporary-14cm-1-4l-ss-saucepan): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Handy Helper: The 14cm Stainless Steel Saucepan Our small Saucepan is perfect for small tasks like heating sauces, boiling eggs, or making single servings of soup.
-  Updated: 2025-10-01T05:37:06Z
-  Vendor: Raco
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-14cm-1-4L-Saucepan-Raco-0.jpg?v=1731902188
-  Price: $79.99 NZD
 - [Raco Contemporary - 16cm/1.9L Saucepan](https://everydayhome.co.nz/products/raco-contemporary-16cm-1-9l-ss-saucepan): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Everyday Essential: The 16cm Stainless Steel Saucepan This Saucepan is perfect for everyday cooking tasks like boiling pasta, making sauces, or preparing small portions of soup.
-  Updated: 2025-09-23T12:36:53Z
+  Updated: 2025-10-01T21:07:10Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-16cm-1-9L-Saucepan-Raco-0.jpg?v=1731903021
   Price: $89.99 NZD
 - [Raco Contemporary - 18cm/2.8L Saucepan](https://everydayhome.co.nz/products/raco-contemporary-18cm-2-8l-ss-saucepan): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Kitchen Favorite: The 18cm Stainless Steel Saucepan This Saucepan is perfect for a variety of cooking tasks, from boiling vegetables to simmering sauces or preparing grains.
-  Updated: 2025-09-23T12:36:54Z
+  Updated: 2025-10-01T21:07:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2579,22 +2551,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Step-Soap-Sanitiser-Dispenser-White-UMBRA-2.jpg?v=1731903201
   Price: $27.99 NZD
-- [Umbra Stowit Jewelry Box - White/Natural](https://everydayhome.co.nz/products/stowit-jewelry-box-white-natural): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
-  Updated: 2025-09-26T21:22:10Z
+- [Stowit Jewelry Box - White/Natural](https://everydayhome.co.nz/products/stowit-jewelry-box-white-natural): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
+  Updated: 2025-10-02T03:38:26Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Stowit-Jewelry-Box-White-Natural-UMBRA-8.png?v=1731901781
-  Price: $159.99 NZD
-- [Umbra Stowit Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-jewelry-box-black-walnut): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
-  Updated: 2025-09-25T14:54:43Z
+  Price: $99.99 NZD
+- [Stowit Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-jewelry-box-black-walnut): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
+  Updated: 2025-10-02T03:38:25Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Stowit-Jewelry-Box-Black-Walnut-UMBRA-6.png?v=1731902487
-  Price: $159.99 NZD
-- [Umbra Stowit Mini Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-mini-jewelry-box-black-walnut): Use Mini Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Multiple hidden compartments of various sizes allow you to store your rings, earrings, bracelets, watches, necklaces and other accessories in different configurations depending on what works best for you. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Mini Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Alternatively, Mini Stowit can also be used as a keepsake box, for storing small valuables and other trinkets from your adventures, or as a drawer organizer in your desk or nightstand.
-  Updated: 2025-09-25T14:22:16Z
+  Price: $99.99 NZD
+- [Stowit Mini Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-mini-jewelry-box-black-walnut): Use Mini Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Multiple hidden compartments of various sizes allow you to store your rings, earrings, bracelets, watches, necklaces and other accessories in different configurations depending on what works best for you. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Mini Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Alternatively, Mini Stowit can also be used as a keepsake box, for storing small valuables and other trinkets from your adventures, or as a drawer organizer in your desk or nightstand.
+  Updated: 2025-10-02T03:38:26Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2607,43 +2579,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Swivel-Napkin-Holder-Black-Nickel-UMBRA-6.jpg?v=1731903285
   Price: $34.99 NZD
-- [Umbra Terrace Jewelry Tray - Black/Walnut](https://everydayhome.co.nz/products/terrace-jewelry-tray-black-walnut): The Terrace Jewelry Tray features three stacked trays, each with dividers optimized for organizing jewelry and keeping it safe. Made of high-quality, Rubberwood with an elegant, walnut finish, and a black metal wire frame for stacking its trays, Terrace is a piece you will be proud to leave out in your home. This piece makes excellent use of vertical space, stacking the trays, freeing up space on your vanity or counter, while adding a nice decorative dimension of height and material to any space in your home.
-  Updated: 2025-09-25T20:32:06Z
+- [Terrace Jewelry Tray - Black/Walnut](https://everydayhome.co.nz/products/terrace-jewelry-tray-black-walnut): The Terrace Jewelry Tray features three stacked trays, each with dividers optimized for organizing jewelry and keeping it safe. Made of high-quality, Rubberwood with an elegant, walnut finish, and a black metal wire frame for stacking its trays, Terrace is a piece you will be proud to leave out in your home. This piece makes excellent use of vertical space, stacking the trays, freeing up space on your vanity or counter, while adding a nice decorative dimension of height and material to any space in your home.
+  Updated: 2025-10-02T03:38:28Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Terrace-Jewelry-Tray-Black-Walnut-UMBRA-3.jpg?v=1731903387
   Price: $99.99 NZD
-- [Umbra Tesora Storage Jewelry Box - Clear/Brass](https://everydayhome.co.nz/products/tesora-storage-box-glass-clear-brass): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost.
-  Updated: 2025-09-25T15:23:13Z
+- [Tesora Storage Box Glass - Clear/Brass](https://everydayhome.co.nz/products/tesora-storage-box-glass-clear-brass): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost.
+  Updated: 2025-10-02T03:38:28Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Storage-Box-Glass-Clear-Brass-UMBRA-9.png?v=1731903486
   Price: $74.99 NZD
-- [Umbra Tesora Wood Jewelry Box - Natural/Brass](https://everydayhome.co.nz/products/tesora-wood-jwl-box-nat-bras): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost. Wood is a unique natural material with variations in tone, texture, and grain. The product may vary from our imagery.
-  Updated: 2025-09-29T08:07:13Z
+- [Tesora Wood Storage Box - Natural/Brass](https://everydayhome.co.nz/products/tesora-wood-jwl-box-nat-bras): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost. Wood is a unique natural material with variations in tone, texture, and grain. The product may vary from our imagery.
+  Updated: 2025-10-02T03:38:29Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Wood-Storage-Box-Natural-Brass-UMBRA-3.png?v=1731903050
   Price: $74.99 NZD
-- [Umbra Tesora Wood Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/tesora-wood-storage-box-blk-wal): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost. Wood is a unique natural material with variations in tone, texture, and grain. The product may vary from our imagery.
-  Updated: 2025-09-25T13:01:16Z
+- [Tesora Wood Storage Box - Black/Walnut](https://everydayhome.co.nz/products/tesora-wood-storage-box-blk-wal): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost. Wood is a unique natural material with variations in tone, texture, and grain. The product may vary from our imagery.
+  Updated: 2025-10-02T03:38:29Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Wood-Storage-Box-Black-Walnut-UMBRA-6.png?v=1731901941
   Price: $74.99 NZD
-- [Umbra Triflora Hanging Planter - Set of 5 White](https://everydayhome.co.nz/products/triflora-5-large-white): Triflora is a hanging planter for indoor plants that combines the utility of a drapery rod with the beauty of potted plants. Great for herbs, succulents, vine plants and more, Triflora Hanging Planter mounts to your wall or ceiling and adds functionality to your window by turning it into a space for growing plants. Because its pots are made from durable recycled molded polypropylene, Triflora remains lightweight even once plants are potted, allowing Triflora to be the lightest weight possible. You can adjust the length of Triflora’s ropes and slide them anywhere along the metal rod to customize the position of each hanging pot.
-  Updated: 2025-09-25T13:04:23Z
+- [Triflora Hanging Planter (Set of 5) - White](https://everydayhome.co.nz/products/triflora-5-large-white): Triflora is a hanging planter for indoor plants that combines the utility of a drapery rod with the beauty of potted plants. Great for herbs, succulents, vine plants and more, Triflora Hanging Planter mounts to your wall or ceiling and adds functionality to your window by turning it into a space for growing plants. Because its pots are made from durable recycled molded polypropylene, Triflora remains lightweight even once plants are potted, allowing Triflora to be the lightest weight possible. You can adjust the length of Triflora’s ropes and slide them anywhere along the metal rod to customize the position of each hanging pot.
+  Updated: 2025-10-02T03:38:46Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Triflora-Hanging-Planter-Set-of-5-White-UMBRA-1.jpg?v=1731902130
-  Price: $159.99 NZD
-- [Umbra Trigem Jewelry Stand - White/Brass](https://everydayhome.co.nz/products/trigem-jwl-stand-kd-wht-bras): With the Trigem Jewelry Stand, three plated bars provide plenty of hanging space for all your favorite necklaces; keeping them safe, organized and tangle free. At 19-inches (48 cm) tall, Trigem is ideal for any type of necklace. The base of Trigem doubles as a jewelry holder for added accessory storage. Trigem’s sleek design compliments any modern decor and the protective padded base ensures your counter or table top surface doesn’t get damaged.
-  Updated: 2025-09-25T13:04:17Z
+  Price: $99.99 NZD
+- [Trigem Jewelry Stand - White/Brass](https://everydayhome.co.nz/products/trigem-jwl-stand-kd-wht-bras): With the Trigem Jewelry Stand, three plated bars provide plenty of hanging space for all your favorite necklaces; keeping them safe, organized and tangle free. At 19-inches (48 cm) tall, Trigem is ideal for any type of necklace. The base of Trigem doubles as a jewelry holder for added accessory storage. Trigem’s sleek design compliments any modern decor and the protective padded base ensures your counter or table top surface doesn’t get damaged.
+  Updated: 2025-10-02T03:38:47Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2811,7 +2783,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-01T03:07:11Z
+  Updated: 2025-10-01T20:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2895,7 +2867,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_KnifeBlockplusKnives-DarkGrey-8710755123061Brabantia_96dpi_1000x1000px_7_NR-15382.png?v=1733973505
   Price: $229.95 NZD
 - [Brabantia HangOn Drying Rack - 15m Matt Black](https://everydayhome.co.nz/products/hangon-drying-rack-15m-matt-black): Save time and energy by drying your laundry naturally - and save space by hanging them on this smart rack! With this Brabantia HangOn Drying Rack, with 15 metres of flexible drying space and room for 4 extra clothes hangers, you can dry your hanging trousers or flat dry delicate pieces anywhere in the house. And when all’s dried and done, fold it flat easily for compact storage. Lots of drying space for even the smallest home!
-  Updated: 2025-09-23T12:37:27Z
+  Updated: 2025-10-01T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2916,7 +2888,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $139.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-29T16:22:12Z
+  Updated: 2025-10-01T18:22:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2937,7 +2909,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CoffeeCapsuleDispenser-MattSteel-8710755418709Brabantia_96dpi_1000x1000px_7_NR-4765.png?v=1733864323
   Price: $109.99 NZD
 - [Brabantia Hanging Drying Rack - 4.5M Metallic Grey](https://everydayhome.co.nz/products/hanging-drying-rack-4-5m-metallic-grey): Want to dry a lil' laundry? Or just looking for a solution for drying your knitwear? This Brabantia Hanging Drying Rack has 4.5 metres of drying space, is easy to set up and fits thin doors, 11 cm thick walls and anything in-between. And drying naturally is better for the planet too. You’ll be hooked in no time!
-  Updated: 2025-09-23T12:37:29Z
+  Updated: 2025-10-01T18:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2965,7 +2937,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileDigitalKitchenScales_Round-MattSteel-8710755480560Brabantia_96dpi_1000x1000px_7_NR-5656.png?v=1734404799
   Price: $99.95 NZD
 - [Brabantia Tasty+ Digital Kitchen Scales - Dark Grey](https://everydayhome.co.nz/products/digital-kitchen-scale-dark-grey): Spice up your kitchen with this battery-operated Brabantia Tasty+ Digital Kitchen Scale. This cute kitchen helper has an LCD lit display and weighs everything from 1 gram to 5 kilos. Weighed out? Just wipe off the glass surface and hang your scale within easy reach from its loop. What else do you need to tip the scales in favour of this one?
-  Updated: 2025-09-23T12:37:31Z
+  Updated: 2025-10-01T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3175,7 +3147,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardplusServingTray-LightGrey-8710755123146Brabantia_96dpi_1000x1000px_7_NR-17716.png?v=1733802336
   Price: $49.95 NZD
 - [Brabantia ReNew Shower Squeegee - Dark Grey](https://everydayhome.co.nz/products/shower-squeegee-dark-grey): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-09-28T19:22:15Z
+  Updated: 2025-10-01T21:22:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3217,7 +3189,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkSideFoodWasteCaddy_1.8L-JadeGreen-8710755215803Brabantia_96dpi_1000x1000px_7_NR-25954.png?v=1733868191
   Price: $19.99 NZD
 - [Brabantia Sort & Go Waste Bin - 25L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-25l-grey): Don't waste any time thinking about waste disposal, organise it once and for all with the Brabantia Sort & Go Recycle Bin 25 litre. A beautiful, space saving solution for separating, collecting & transporting waste. Feed it your empty packaging, bottles, cans and anything else you want sorted. It fits snugly in corners, flat against the wall - you can even hang it. Easy to clean and it has a large handle for easy carrying and emptying too. Happy organising!
-  Updated: 2025-09-23T12:37:47Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3245,7 +3217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_XL_setof2-Transparent-8710755148965Brabantia_96dpi_1000x1000px_7_NR-26293.png?v=1733862417
   Price: $34.99 NZD
 - [Brabantia Stackable Glass Jar - 1.1L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-1l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-09-29T04:22:10Z
+  Updated: 2025-10-01T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3273,7 +3245,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/GroundSpikeMetal_Size3_O50mm-Galvanized-8710755311468Brabantia_96dpi_1000x1000px_7_NR-1855.png?v=1734403540
   Price: $34.99 NZD
 - [Brabantia Protective Clothes Cover - Medium Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-med-trans-gry): For anyone that wants a good-looking solution for keeping their clothes looking good, this set of two 60 x 100 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size M protect your blouses and shirts from dust and moths.
-  Updated: 2025-09-29T18:37:11Z
+  Updated: 2025-10-01T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4294,7 +4266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_6L-Grey-8710755109720Brabantia_300dpi_2000x2000px_9_NR-1255.jpg?v=1754605929
   Price: $79.99 NZD
 - [Brabantia Sort & Go Waste Bin - 3L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-grey): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
-  Updated: 2025-09-28T17:52:11Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4308,7 +4280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-LightGrey-8710755213229Brabantia_300dpi_2000x2000px_9_NR-25842.jpg?v=1754607295
   Price: $59.99 NZD
 - [Brabantia Sort & Go Waste Bin - 6L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-6l-lght-gry): This cute 6 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just put it on your worktop, in a drawer or hang it on the wall with its included wall bracket. Full? Grab it by its handy handle and empty it. And do you want a bin liner with that? The PerfectFit 100% compostable bags, code S, are a perfect match - and easy to fit too! XS size, XL ease.
-  Updated: 2025-09-28T19:07:11Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4322,7 +4294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_12L-LightGrey-8710755213281Brabantia_300dpi_2000x2000px_9_NR-25849.jpg?v=1754542506
   Price: $99.99 NZD
 - [Brabantia Sort & Go Waste Bin - 25L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-25l-lght-gry): Don't waste any time thinking about waste disposal, organise it once and for all with the Brabantia Sort & Go Recycle Bin 25 litre. A beautiful, space saving solution for separating, collecting & transporting waste. Feed it your empty packaging, bottles, cans and anything else you want sorted. It fits snugly in corners, flat against the wall - you can even hang it. Easy to clean and it has a large handle for easy carrying and emptying too. Happy organising!
-  Updated: 2025-09-23T12:39:00Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4574,7 +4546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardFeltUnderlayE_135x49cm-White-8710755196423Brabantia_300dpi_2000x2000px_9_NR-3688.jpg?v=1756269664
   Price: $24.99 NZD
 - [Brabantia SinkSide Microfiber Dish Drying Mat - Dark Grey](https://everydayhome.co.nz/products/brabantia-sinkside-microfiber-dish-drying-mat-dark-grey): Drying the dishes and keeping your countertop dry without even lifting a finger? Use the Brabantia SinkSide Microfibre Dish Drying Mat! This foldable mat absorbs 7 times its weight in water. And it's soft, so less chance of chipping. Done? Let it dry and fold it away, or put it in the washing machine first. Fibertastic!
-  Updated: 2025-09-28T23:52:10Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4714,21 +4686,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CONTEMPORARY_161640_CrepePan24cm_1.jpg?v=1756778881
   Price: $64.99 NZD
 - [Umbra Ferris Ring Holder - Black](https://everydayhome.co.nz/products/umbra-ferris-ring-holder-black): Make a statement with the Umbra Ferris Jewelry Organizer! This stylish jewelry holder is the perfect gift for yourself or a friend and is designed to hold and protect your rings with velvet-padded pillows. Crafted with renewable wood sources, the Ferris Jewelry Organizer is easy to keep clean and ready to impress. Its modern design is sure to complement any room in your home and will look great on your nightstand, dresser, or desk.
-  Updated: 2025-09-23T12:39:29Z
+  Updated: 2025-10-02T03:38:55Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_CC02.jpg?v=1756182743
   Price: $79.99 NZD
 - [Umbra Ferris Ring Holder - Natural](https://everydayhome.co.nz/products/umbra-ferris-ring-holder-natural): Make a statement with the Umbra Ferris Jewelry Organizer! This stylish jewelry holder is the perfect gift for yourself or a friend and is designed to hold and protect your rings with velvet-padded pillows. Crafted with renewable wood sources, the Ferris Jewelry Organizer is easy to keep clean and ready to impress. Its modern design is sure to complement any room in your home and will look great on your nightstand, dresser, or desk.
-  Updated: 2025-09-23T12:39:29Z
+  Updated: 2025-10-02T03:38:56Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-390_FERRISRINGHOLDER_NAT_CC01.jpg?v=1756182127
   Price: $79.99 NZD
 - [Umbra Ferris Ring Holder - Walnut](https://everydayhome.co.nz/products/umbra-ferris-ring-holder-walnut): Make a statement with the Umbra Ferris Jewelry Organizer! This stylish jewelry holder is the perfect gift for yourself or a friend and is designed to hold and protect your rings with velvet-padded pillows. Crafted with renewable wood sources, the Ferris Jewelry Organizer is easy to keep clean and ready to impress. Its modern design is sure to complement any room in your home and will look great on your nightstand, dresser, or desk.
-  Updated: 2025-09-23T12:39:29Z
+  Updated: 2025-10-02T03:38:56Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4742,7 +4714,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013258-149_BUDDYDOORSTOP_CHARCOAL_SETOF2.jpg?v=1756178593
   Price: $37.99 NZD
 - [Umbra Bolo Hanging Planter - Black](https://everydayhome.co.nz/products/umbra-bolo-hanging-planter-black): Instantly decorate your space with Bolo Hanging Planter. Its round soft curves and dimension make a dynamic balance with any indoor greenery. Perfect for displaying a variety of small to medium plants, this easy to hang planter mounts in just minutes.
-  Updated: 2025-09-24T20:52:11Z
+  Updated: 2025-10-02T03:39:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4763,7 +4735,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_I022.jpg?v=1756183228
   Price: $19.99 NZD
 - [Umbra Flex Shower Caddy - Black](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-black): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-10-01T00:07:12Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4819,21 +4791,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021300_1050_FLEXADHESIVEBIN_SLATE_CC01_EDITIED.jpg?v=1755824233
   Price: $37.99 NZD
 - [Umbra Flex Adhesive Soap Dish - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-soap-dish-white): Soap dishes tend to pool water, with the Umbra Adhesive Soap Dish you don’t need to worry because the integrated drainage holes prevent water from collecting at the bottom of the dish.
-  Updated: 2025-10-01T09:37:06Z
+  Updated: 2025-10-01T21:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-09-28T19:22:16Z
+  Updated: 2025-10-01T21:22:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $17.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-10-01T00:07:16Z
+  Updated: 2025-10-01T16:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4847,208 +4819,208 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I011.jpg?v=1755822158
   Price: $24.99 NZD
 - [Umbra Tesora Jewelry Stand - Clear/Brass](https://everydayhome.co.nz/products/umbra-tesora-jewelry-stand-clear-brass): The Tesora Jewelry Stand brings modern elegance to your jewelry storage. Featuring three posts of varying heights, it's perfect for hanging necklaces, bracelets, and other jewelry of all sizes. The base includes a built-in dish, ideal for organizing smaller accessories like earrings, rings, and brooches. Each post is enhanced with double-wire accents, providing a stylish and secure display for your earrings or cufflinks.
-  Updated: 2025-09-23T12:39:38Z
+  Updated: 2025-10-02T03:39:02Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1014862-104_TESORAGLASSSTAND_CC03.jpg?v=1755821313
   Price: $79.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 Chrome](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-chrome): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-09-23T12:39:38Z
+  Updated: 2025-10-02T03:38:54Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I022334534.jpg?v=1755748936
-  Price: $139.99 NZD
+  Price: $99.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 Matt Brass](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-matt-black): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-09-23T12:39:39Z
+  Updated: 2025-10-02T03:38:54Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I022334526123.jpg?v=1755748650
-  Price: $139.99 NZD
+  Price: $99.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 5 White](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-of-5-white): Upgrade your wall decor with Exhibit Photo Display. This modern, wall-mounted ledge includes clips and brackets to securely hold five gallery-style frames (two 4x6 and three 5x7). The frames hang from the ledge, so you can easily create layouts that suit your space, whether straight, angled, portrait, or landscape. Swap out photos anytime to refresh your look, all while minimizing wall damage. Perfect for stairways, living rooms, bedrooms, and more, Exhibit adds a fresh, contemporary touch to any room.
-  Updated: 2025-09-23T12:39:39Z
+  Updated: 2025-10-02T03:38:55Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I0223345.jpg?v=1755748377
-  Price: $139.99 NZD
+  Price: $99.99 NZD
 - [Umbra Exhibit Wall Picture Frame - Set of 3 8x10 Black](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-3-8x10-black): Create your own unique gallery wall with Exhibit 8x10 picture frames. An extension from the original Exhibit Photo Display, this set of three larger frames, each suspend on their own metal rod. Displayed vertically or horizontally, Exhibit is a unique way to hang and showoff your favorite photos. Each picture frame can float an image up to 8x10" in size. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-09-29T08:22:11Z
+  Updated: 2025-10-02T03:38:53Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_02copy.jpg?v=1755738808
-  Price: $139.99 NZD
+  Price: $99.99 NZD
 - [Umbra Infinity Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-4x6-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different finishes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-09-23T12:39:40Z
+  Updated: 2025-10-02T03:39:01Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_01.jpg?v=1755738282
   Price: $49.99 NZD
 - [Umbra Infinity Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-5x7-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different sizes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-09-23T12:39:41Z
+  Updated: 2025-10-02T03:39:01Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012272-040_INFINITY_PD_5x7_CLOSEDCROP_01.jpg?v=1755738165
   Price: $59.99 NZD
 - [Umbra Bellwood Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-5x7-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:41Z
+  Updated: 2025-10-02T03:38:50Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1019922-040_BELLWOODDESKFRAME_5X7_BLACK_CC01.jpg?v=1755736840
   Price: $69.99 NZD
 - [Umbra Bellwood Picture Frame - 5x7 Natural](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-5x7-natural): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:44Z
+  Updated: 2025-10-02T03:38:50Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1019922-390_BELLWOODDESKFRAME_5X7_NATURALCC01.jpg?v=1755736167
   Price: $69.99 NZD
 - [Umbra Bellwood Picture Frame - 5x7 Aged Walnut](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-5x7-aged-walnut): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:45Z
+  Updated: 2025-10-02T03:38:49Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1019922-746_BELLWOODDESKFRAME_5X7_WALNUT_CC01.jpg?v=1755736051
   Price: $69.99 NZD
 - [Umbra Wishbone Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-wishbone-picture-frame-5x7-black): Introducing Wishbone: the sculptural desk frame that will effortlessly elevate any space with its polished finish. Its trophy-inspired design ensures 360 degree beauty, allowing for photos to be showcased on both sides of the frame.
-  Updated: 2025-09-23T12:39:45Z
+  Updated: 2025-10-02T03:39:03Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1020820-040_WISHBONEPD_BLK_CC01.jpg?v=1755737791
   Price: $79.99 NZD
 - [Umbra Wishbone Picture Frame - 5x7 Chrome](https://everydayhome.co.nz/products/umbra-wishbone-picture-frame-5x7-chrome): Introducing Wishbone: the sculptural desk frame that will effortlessly elevate any space with its polished finish. Its trophy-inspired design ensures 360 degree beauty, allowing for photos to be showcased on both sides of the frame.
-  Updated: 2025-09-23T12:39:46Z
+  Updated: 2025-10-02T03:39:03Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1020820-158_WISHBONEPD_CHROME_CC01.jpg?v=1755737338
   Price: $79.99 NZD
 - [Umbra Flute Picture Frame 4x6 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-4x6-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 4x6 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-23T12:39:46Z
+  Updated: 2025-10-02T03:38:57Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416-040_FLUTEPICTUREFRAME4x6_BLACK_CC03.jpg?v=1755732297
   Price: $47.99 NZD
 - [Umbra Flute Picture Frame - 4x6 Chrome](https://everydayhome.co.nz/products/umbra-flute-picture-frame-4x6-chrome): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 4x6 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-23T12:39:47Z
+  Updated: 2025-10-02T03:38:57Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416-158_FLUTEPICTUREFRAME_4x6_CHROME_CC03.jpg?v=1755731979
   Price: $47.99 NZD
 - [Umbra Flute Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-8x10-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 8x10 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-26T23:22:11Z
+  Updated: 2025-10-02T03:38:59Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022482-040_FLUTEPICTUREFRAME_8X10_BLACK_CC01.jpg?v=1755731505
   Price: $79.99 NZD
 - [Umbra Flute Picture Frame - 8x10 Chrome](https://everydayhome.co.nz/products/umbra-flute-picture-frame-8x10-chrome): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 8x10 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-23T12:39:48Z
+  Updated: 2025-10-02T03:39:00Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022482-158_FLUTEPICTUREFRAME_8X10_CHROME_CC01.jpg?v=1755730968
   Price: $79.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:49Z
+  Updated: 2025-10-02T03:38:51Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022486-040_BELLWOODPD8X10_BLK_CC01.jpg?v=1755735865
   Price: $89.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Natural](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-natural): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:49Z
+  Updated: 2025-10-02T03:38:52Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022486-390_BELLWOODPD8X10_NAT_CC01.jpg?v=1755735701
   Price: $89.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Aged Walnut](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-aged-walnut): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:50Z
+  Updated: 2025-10-02T03:38:51Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022486-746_BELLWOODPD8X10_WAL_CC01.jpg?v=1755735584
   Price: $89.99 NZD
 - [Umbra Bellwood Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-4x6-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:50Z
+  Updated: 2025-10-02T03:38:49Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-040_BELLWOODDESKFRAME_4x6_BLACK_CC05.jpg?v=1755733525
   Price: $59.99 NZD
 - [Umbra Bellwood Picture Frame - 4x6 Natural](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-4x6-natural): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:51Z
+  Updated: 2025-10-02T03:38:49Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-390_BELLWOODDESKFRAME_4x6_NATURAL_CC05.jpg?v=1755733074
   Price: $59.99 NZD
 - [Umbra Bellwood Picture Frame - 4x6 Aged Walnut](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-4x6-aged-walnut): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-09-23T12:39:51Z
+  Updated: 2025-10-02T03:38:48Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-746_BELLWOODDESKFRAME_4x6_WALNUT_CC05.jpg?v=1755732917
   Price: $59.99 NZD
 - [Umbra Flute Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-5x7-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 5x7 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-23T12:39:51Z
+  Updated: 2025-10-02T03:38:58Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021416_FLUTE_5x7_BLACK_CC01.jpg?v=1755730666
   Price: $49.99 NZD
 - [Umbra Flute Picture Frame 5x7 - Chrome](https://everydayhome.co.nz/products/umbra-flute-picture-frame-5x7-chrome): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 5x7 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-09-23T12:39:52Z
+  Updated: 2025-10-02T03:38:59Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022845-158_FLUTEPICTUREFRAME_5X7_CHROME_CC01.jpg?v=1755729897
   Price: $49.99 NZD
 - [Umbra Ali Cat Ring Holder - Brass](https://everydayhome.co.nz/products/umbra-ali-cat-ring-holder-brass): Meet Ali Cat, a ring holder inspired by the playful charm of the munchkin cat breed. Designed with velvet-padded pillows to keep your rings safe and scratch-free, Ali Cat can hold up to 9 rings, making it as practical as it is adorable. Whether perched on a nightstand, dresser, or desk, this whimsical accessory adds a touch of feline fun to any space. Ali Cat is the ultimate gift for any cat lover in your life.
-  Updated: 2025-09-23T12:39:59Z
+  Updated: 2025-10-02T03:38:47Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1023419-104_MINOU_RINGHOLDER_BRASS_CC01.jpg?v=1755558422
   Price: $39.99 NZD
 - [Umbra Ali Cat Ring Holder - Chrome](https://everydayhome.co.nz/products/umbra-ali-cat-ring-holder-chrome): Meet Ali Cat, a ring holder inspired by the playful charm of the munchkin cat breed. Designed with velvet-padded pillows to keep your rings safe and scratch-free, Ali Cat can hold up to 9 rings, making it as practical as it is adorable. Whether perched on a nightstand, dresser, or desk, this whimsical accessory adds a touch of feline fun to any space. Ali Cat is the ultimate gift for any cat lover in your life.
-  Updated: 2025-09-23T12:40:00Z
+  Updated: 2025-10-02T03:38:48Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1023419-158_MINOU_RINGHOLDER_CHROME_CC01.jpg?v=1755558298
   Price: $39.99 NZD
 - [Umbra Tipsy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-tipsy-bottle-opener-chrome): This bar accessory is not just your average bottle opener, it's a decorative piece that will elevate any home bar setup. With its sleek cast metal construction and polished chrome finish, Tipsy is not only built to last, but it also exudes a sense of sophistication and elegance. But what sets Tipsy apart is its unique balancing stand (included), which allows it to stand upright on its own or on any edge surface. It's not just a bottle opener - it's a conversation starter and a sculptural masterpiece. Whether you're entertaining guests or enjoying a quiet drink by yourself, Tipsy is sure to impress.
-  Updated: 2025-09-26T02:26:35Z
+  Updated: 2025-10-02T03:39:02Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
   Price: $39.99 NZD
 - [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-09-23T12:40:01Z
+  Updated: 2025-10-02T03:39:01Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022635-158_RODEOBUDDY_CHROME_CC01.jpg?v=1755557046
   Price: $39.99 NZD
 - [Umbra Casita Diffuser - Sand](https://everydayhome.co.nz/products/umbra-casita-diffuser-sand): Enhance your space with Castia- where function meets thoughtful design. Made for use with 100% pure essential oils, Casita fills your home with calming aromas while doubling as a stylish decor piece. Designed with convenience and ambiance in mind, it features an integrated soft white LED light with two brightness settings (100% and dimmed), perfect for creating a relaxing environment. *Essential oils not included
-  Updated: 2025-09-23T12:40:01Z
+  Updated: 2025-10-02T03:38:52Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021884-1313_CASITADIFFUSER_SAND_CC08_1.jpg?v=1755556639
-  Price: $139.99 NZD
+  Price: $99.99 NZD
 
 ## Collections
 
@@ -5056,17 +5028,17 @@
   Updated: 2023-06-27T03:20:33Z
   Total Products: 0
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:38:48Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-09-25T00:53:00Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 56
 - [Kitchen & Dining](https://everydayhome.co.nz/collections/kitchen-dining)
   Updated: 2025-02-12T22:26:22Z
   Total Products: 0
 - [New Arrivals](https://everydayhome.co.nz/collections/new-arrivals)
-  Updated: 2025-10-01T11:08:11Z
-  Total Products: 60
+  Updated: 2025-10-02T03:39:34Z
+  Total Products: 22
 - [Office](https://everydayhome.co.nz/collections/office)
   Updated: 2025-09-23T12:12:59Z
   Total Products: 1
@@ -5074,13 +5046,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-10-01T02:26:33Z
@@ -5122,7 +5094,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-09-26T11:06:54Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 138
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -5134,7 +5106,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [The Poster Club](https://everydayhome.co.nz/collections/the-poster-club)
-  Updated: 2025-09-23T12:13:23Z
+  Updated: 2025-10-02T03:38:23Z
   Total Products: 7
 - [Dutch Deluxes](https://everydayhome.co.nz/collections/dutch-deluxe)
   Updated: 2025-09-23T12:13:34Z
@@ -5149,7 +5121,7 @@
   Updated: 2025-02-12T22:26:29Z
   Total Products: 0
 - [Bedroom](https://everydayhome.co.nz/collections/bedroom)
-  Updated: 2025-09-25T00:52:58Z
+  Updated: 2025-10-02T03:38:48Z
   Total Products: 51
 - [Kitchen Accessories](https://everydayhome.co.nz/collections/kitchen-accessories)
   Updated: 2025-02-12T22:26:29Z
@@ -5158,7 +5130,7 @@
   Updated: 2024-09-06T00:57:25Z
   Total Products: 0
 - [Piece House](https://everydayhome.co.nz/collections/piece-house)
-  Updated: 2025-09-23T12:14:27Z
+  Updated: 2025-10-02T03:38:29Z
   Total Products: 14
 - [For You](https://everydayhome.co.nz/collections/for-you)
   Updated: 2025-08-12T04:49:36Z
@@ -5185,10 +5157,10 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:38:48Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
   Updated: 2025-09-30T11:06:34Z
@@ -5215,7 +5187,7 @@
   Updated: 2025-10-01T02:26:32Z
   Total Products: 146
 - [Racks & Stands](https://everydayhome.co.nz/collections/racks-stands)
-  Updated: 2025-09-25T00:53:04Z
+  Updated: 2025-10-02T03:38:26Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
   Updated: 2025-09-23T12:19:45Z
@@ -5227,7 +5199,7 @@
   Updated: 2025-09-23T12:17:20Z
   Total Products: 6
 - [Clocks](https://everydayhome.co.nz/collections/clocks)
-  Updated: 2025-09-25T00:52:44Z
+  Updated: 2025-10-02T03:38:25Z
   Total Products: 3
 - [Built In Bins](https://everydayhome.co.nz/collections/built-in-bins)
   Updated: 2025-09-23T12:17:47Z
@@ -5245,7 +5217,7 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 31
 - [Shelves & Tables](https://everydayhome.co.nz/collections/shelves-tables)
-  Updated: 2025-09-25T00:53:00Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 24
 - [Coffee Tables](https://everydayhome.co.nz/collections/coffee-tables)
   Updated: 2025-09-25T00:52:25Z
@@ -5254,7 +5226,7 @@
   Updated: 2025-09-25T00:53:03Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-09-26T11:06:54Z
+  Updated: 2025-10-02T03:39:05Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
   Updated: 2025-10-01T11:08:11Z
@@ -5263,7 +5235,7 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 30
 - [Storage & Organisation](https://everydayhome.co.nz/collections/storage-organisation): Keep your home stylishly organised with Everyday Home's variety of storage solutions. Find everything from sleek pantry organisers to multi-functional cosmetic and shower caddies that will maximize space while adding style to any room. Shop now and enjoy free shipping across NZ on orders over $99*.
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:38:48Z
   Total Products: 42
 - [Wall Mirrors](https://everydayhome.co.nz/collections/wall-mirrors)
   Updated: 2025-09-25T00:53:03Z
@@ -5308,10 +5280,10 @@
   Updated: 2025-09-25T00:52:36Z
   Total Products: 10
 - [Shoe Racks & Accessories](https://everydayhome.co.nz/collections/shoe-racks-accessories)
-  Updated: 2025-09-25T00:53:04Z
+  Updated: 2025-10-02T03:38:26Z
   Total Products: 2
 - [Planters](https://everydayhome.co.nz/collections/planters)
-  Updated: 2025-09-25T00:52:29Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 10
 - [Oven Mitts](https://everydayhome.co.nz/collections/oven-mitts)
   Updated: 2025-09-04T22:58:22Z
@@ -5320,10 +5292,10 @@
   Updated: 2025-08-27T22:15:21Z
   Total Products: 1
 - [Wall Art](https://everydayhome.co.nz/collections/wall-art)
-  Updated: 2025-09-23T12:13:23Z
+  Updated: 2025-10-02T03:38:23Z
   Total Products: 7
 - [Candles & Home Fragrance](https://everydayhome.co.nz/collections/candles-home-fragrance)
-  Updated: 2025-09-23T12:21:22Z
+  Updated: 2025-10-02T03:38:53Z
   Total Products: 48
 - [Soap Refills](https://everydayhome.co.nz/collections/soap-refills)
   Updated: 2025-09-23T12:14:28Z
@@ -5335,10 +5307,10 @@
   Updated: 2025-09-23T12:14:08Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-01T02:26:33Z
-  Total Products: 145
+  Updated: 2025-10-02T03:39:35Z
+  Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-10-01T11:08:11Z
@@ -5374,20 +5346,20 @@
   Updated: 2025-09-25T00:52:41Z
   Total Products: 13
 - [Stylish Wall and Desk Frames | Shop Now](https://everydayhome.co.nz/collections/wall-desk-frames): Showcase your favourite memories with our collection of wall and desk frames. Available in a variety of styles and sizes, these frames are perfect for adding a personal touch to any room. Free shipping across NZ on orders over 99*
-  Updated: 2025-09-25T00:52:45Z
+  Updated: 2025-10-02T03:38:56Z
   Total Products: 31
 - [Functional Bathroom Accessories | Shop Now](https://everydayhome.co.nz/collections/bathroom-accessories): Bathroom accessories designed to bring both functionality and style to your space. Free shipping across NZ on orders over 99*
   Updated: 2025-09-25T00:51:34Z
   Total Products: 3
 - [Jewelry Organisation Solutions | Shop Now](https://everydayhome.co.nz/collections/jewelry-organisation): Jewelry organisation solutions to store and display your accessories. From elegant trays and stands to versatile organisers for rings, necklaces, and earrings, our collection helps you keep your jewelry neat, accessible, and tangle-free. Free shipping across NZ on orders over 99*
-  Updated: 2025-09-25T00:52:45Z
+  Updated: 2025-10-02T03:38:48Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-10-01T02:26:33Z
-  Total Products: 157
+  Updated: 2025-10-02T03:38:57Z
+  Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-10-01T11:08:11Z
-  Total Products: 921
+  Updated: 2025-10-02T03:39:36Z
+  Total Products: 893
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-10-01T11:08:11Z
   Total Products: 22
@@ -5431,13 +5403,13 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:39:06Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-10-01T11:08:11Z
-  Total Products: 921
+  Updated: 2025-10-02T03:39:36Z
+  Total Products: 893
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
-  Updated: 2025-09-25T00:52:45Z
+  Updated: 2025-10-02T03:38:30Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
   Updated: 2025-09-23T12:18:23Z
@@ -5452,7 +5424,7 @@
   Updated: 2025-09-23T12:19:51Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T03:38:48Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
   Updated: 2025-10-01T11:08:11Z
@@ -5460,6 +5432,9 @@
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
   Updated: 2025-09-28T11:08:21Z
   Total Products: 4
+- [Gifting](https://everydayhome.co.nz/collections/gifting)
+  Updated: 2025-10-02T03:57:48Z
+  Total Products: 123
 
 ## Store Pages
 
