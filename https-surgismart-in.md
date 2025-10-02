@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-02T08:00:32.215Z
+- Updated At: 2025-10-02T16:00:32.627Z
 
 ## Products
 
@@ -2485,7 +2485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/feeding_bag.png?v=1751478166
   Price: ₹1,788.00 INR
 - [Buy ​Feedy Infant Feeding Tube - Surgismart](https://surgismart.in/products/feedy): Infant feeding tube with graduation Made from DEHP Free, non-toxic PVC material completely non-irritant to delicate mucosa. The tube features low friction, super smooth frozen surface ensuring non-traumatic intubation. The tube is marked at every cm starting from tip at 5cm to 40cm to enable accurate placement. Distal end of the tube is coned for smooth intubation and equipped with two lateral eyes for efficient drainage and administration. Proximal end is provided with female luer mount for easy connection to feeding funnel or syringe. Radio-opaque line facilitates accurate tube placement. Color coded for immediate size identification. Sterile, straight packed in peelable soft blister pack. Product Specifications Brand Romsons Generic Name Feeding Tube Manufactured By Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra- 282006 (U.P.) India Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing License MFG/MD/2022/000125 EAN 8907265403824 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:50Z
+  Updated: 2025-10-02T12:48:51Z
   Vendor: Romsons
   Product Type: Feeding Tube
   Availability: Available
