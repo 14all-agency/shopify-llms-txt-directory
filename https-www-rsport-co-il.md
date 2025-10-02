@@ -6,12 +6,12 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-02T04:01:00.875Z
+- Updated At: 2025-10-02T08:00:59.403Z
 
 ## Products
 
 - [חולצת משחק ארסנל בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ארסנל-בית-24-25): חולצת משחק ארסנל בית 24/25 היא הדרך המושלמת להראות נאמנות לקבוצה שלך החולצה עשויה 100% פוליאסטר ומבטיחה נוחות ומענה לצרכים של האוהדים עם הסמל האייקוני של ארסנל, תוכל להרגיש חלק מהמשחק בכל מקום שבו אתה נמצא ולהגביר את התמיכה שלך בתותחנים פרטים צבע: אדום מגדר: גברים סמל: רקום גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: בית
-  Updated: 2025-09-25T18:11:01Z
+  Updated: 2025-10-02T07:04:56Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -2141,7 +2141,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת חוץ טוטנהאם 2024/25 אותנטית](https://www.rsport.co.il/products/חולצת-חוץ-טוטנהאם-2024-25-אותנטית): הראה את תמיכתך בטוטנהאם עם חולצת החוץ האותנטית של טוטנהאם 2024/25. עשוי מבד קל משקל, מנדף זיעה
-  Updated: 2025-09-07T22:17:45Z
+  Updated: 2025-10-02T06:15:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -9527,7 +9527,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שיקאגו בולס צבע לבן](https://www.rsport.co.il/products/chbu-jd-wht-pajd): מכנסי משחק לבנים של שיקגו בולס בעיצוב קלאסי עם בד נושם וקליל לנוחות מרבית. מתאימים לאימונים, משחקים או ללבוש יום יומי ומציגים את הצבעים המובחנים של הקבוצה בסטייל נקי ומרשים.
-  Updated: 2025-10-01T17:35:50Z
+  Updated: 2025-10-02T05:17:34Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10195,394 +10195,394 @@
   - [XXL](https://www.rsport.co.il/products/gs-wht-kids?variant=46899218415866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק ALL STAR |  ג'ייסון טייטום](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:35Z
+- [גופיית משחק All-Star ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey): גופיית All-Star בעיצוב רשמי של ג'ייסון טייטום מבוסטון סלטיקס
+  Updated: 2025-10-02T06:00:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_dbb0904b-84bd-4f75-be4f-bd2bb63cbb36.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום?variant=46899239125242)
+  - [S](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey?variant=46899239125242)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום?variant=46899239158010)
+  - [M](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey?variant=46899239158010)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום?variant=46899239190778)
+  - [L](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey?variant=46899239190778)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום?variant=46899239223546)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey?variant=46899239223546)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום?variant=46899239256314)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey?variant=46899239256314)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-גייסון-טייטום?variant=46899239289082)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey?variant=46899239289082)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס גרסת זהב |  ג'ייסון טייטום](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:35Z
+- [גופיית משחק גרסת זהב ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey): גופיית גרסת זהב של ג'ייסון טייטום בעיצוב מיוחד של Boston Celtics
+  Updated: 2025-10-02T06:00:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_926efdce-8b63-489c-b8c4-1e457c7bc583.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום?variant=46899254264058)
+  - [S](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey?variant=46899254264058)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום?variant=46899254296826)
+  - [M](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey?variant=46899254296826)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום?variant=46899254329594)
+  - [L](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey?variant=46899254329594)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום?variant=46899254362362)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey?variant=46899254362362)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום?variant=46899254395130)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey?variant=46899254395130)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-גרסת-זהב-גייסון-טייטום?variant=46899254427898)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey?variant=46899254427898)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס ירוקה |  ג'ייסון טייטום](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:34Z
+- [גופיית משחק ירוקה ג'ייסון טייטום בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey): גופיית משחק ירוקה של ג'ייסון טייטום בעיצוב איכותי של Boston Celtics
+  Updated: 2025-10-02T06:00:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_107c6b2e-60eb-4f6d-a4ab-740e7e374bd4.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום?variant=46899262030074)
+  - [S](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey?variant=46899262030074)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום?variant=46899262062842)
+  - [M](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey?variant=46899262062842)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום?variant=46899262095610)
+  - [L](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey?variant=46899262095610)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום?variant=46899262128378)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey?variant=46899262128378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום?variant=46899262161146)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey?variant=46899262161146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה-גייסון-טייטום?variant=46899262193914)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey?variant=46899262193914)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס שחורה | ג'ייסון טייטום](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:34Z
+- [גופיית משחק שחורה ג'ייסון טייטום בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey): גופיית משחק שחורה של ג'ייסון טייטום בעיצוב איכותי של Boston Celtics
+  Updated: 2025-10-02T06:00:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_f56218b4-f4de-4dd6-9168-a37fdb614144.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום?variant=46899267404026)
+  - [S](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey?variant=46899267404026)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום?variant=46899267436794)
+  - [M](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey?variant=46899267436794)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום?variant=46899267469562)
+  - [L](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey?variant=46899267469562)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום?variant=46899267502330)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey?variant=46899267502330)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום?variant=46899267535098)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey?variant=46899267535098)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה-גייסון-טייטום?variant=46899267567866)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey?variant=46899267567866)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק City edition |  ג'ייסון טייטום](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:33Z
+- [גופיית משחק City Edition ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey): גופיית City Edition של ג'ייסון טייטום בעיצוב ייחודי של Boston Celtics
+  Updated: 2025-10-02T06:00:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_2ebbfb64-928a-45ef-b025-1be285753050.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום?variant=46899269566714)
+  - [S](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey?variant=46899269566714)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום?variant=46899269599482)
+  - [M](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey?variant=46899269599482)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום?variant=46899269632250)
+  - [L](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey?variant=46899269632250)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום?variant=46899269665018)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey?variant=46899269665018)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום?variant=46899269697786)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey?variant=46899269697786)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גייסון-טייטום?variant=46899269730554)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey?variant=46899269730554)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית רטרו בוסטון סלטיקס 2007-08 פול פירס](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:32Z
+- [גופיית רטרו פול פירס 2007/08 בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey): גופיית רטרו פול פירס עונת 2007/08 בעיצוב קלאסי ונוסטלגי של Boston Celtics
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_774e64f7-0dc8-4d3a-bb96-bf51102375a2.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס?variant=46899274285306)
+  - [S](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey?variant=46899274285306)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס?variant=46899274318074)
+  - [M](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey?variant=46899274318074)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס?variant=46899274350842)
+  - [L](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey?variant=46899274350842)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס?variant=46899274383610)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey?variant=46899274383610)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס?variant=46899274416378)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey?variant=46899274416378)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-בוסטון-סלטיקס-2007-08-פול-פירס?variant=46899274449146)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey?variant=46899274449146)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס לבנה |  ג'יילן בראון](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:32Z
+- [גופיית משחק לבנה ג'יילן בראון בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey): גופיית משחק לבנה של ג'יילן בראון בעיצוב נוח ואיכותי של Boston Celtics
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_543ffd73-3a4d-4678-a261-6fa1b17e1d3d.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון?variant=46899284214010)
+  - [S](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey?variant=46899284214010)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון?variant=46899284246778)
+  - [M](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey?variant=46899284246778)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון?variant=46899284279546)
+  - [L](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey?variant=46899284279546)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון?variant=46899284312314)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey?variant=46899284312314)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון?variant=46899284345082)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey?variant=46899284345082)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-גיילן-בראון?variant=46899284377850)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey?variant=46899284377850)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס לבנה | קמבה ווקר](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:31Z
+- [גופיית משחק לבנה קמבה ווקר בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey): גופיית משחק לבנה של קמבה ווקר בעיצוב נוח ואיכותי של Boston Celtics
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_a6652321-50a4-4ab7-8fb2-33dcf5ee769c.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר?variant=46899286769914)
+  - [S](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286769914)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר?variant=46899286802682)
+  - [M](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286802682)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר?variant=46899286835450)
+  - [L](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286835450)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר?variant=46899286868218)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286868218)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר?variant=46899286900986)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286900986)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-לבנה-קמבה-ווקר?variant=46899286933754)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286933754)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס ירוקה](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:31Z
+- [גופיית משחק ירוקה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-jersey): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_4019e30a-8796-48e8-8896-fe9e3d44b334.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה?variant=46899288441082)
+  - [S](https://www.rsport.co.il/products/bostonceltics-grn-jersey?variant=46899288441082)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה?variant=46899288473850)
+  - [M](https://www.rsport.co.il/products/bostonceltics-grn-jersey?variant=46899288473850)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה?variant=46899288506618)
+  - [L](https://www.rsport.co.il/products/bostonceltics-grn-jersey?variant=46899288506618)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה?variant=46899288539386)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-grn-jersey?variant=46899288539386)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה?variant=46899288572154)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-grn-jersey?variant=46899288572154)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-ירוקה?variant=46899288604922)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-grn-jersey?variant=46899288604922)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס שחורה](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:30Z
+- [גופיית משחק שחורה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-jersey): גופיית משחק שחורה בעיצוב קלאסי של Boston Celtics לסטייל יומיומי ולמגרש
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_5b74ae7a-7922-4cdf-b93e-6b37f3591eb2.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה?variant=46899297353978)
+  - [S](https://www.rsport.co.il/products/bostonceltics-blk-jersey?variant=46899297353978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה?variant=46899297386746)
+  - [M](https://www.rsport.co.il/products/bostonceltics-blk-jersey?variant=46899297386746)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה?variant=46899297419514)
+  - [L](https://www.rsport.co.il/products/bostonceltics-blk-jersey?variant=46899297419514)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה?variant=46899297452282)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-blk-jersey?variant=46899297452282)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה?variant=46899297485050)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-blk-jersey?variant=46899297485050)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-שחורה?variant=46899297517818)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-blk-jersey?variant=46899297517818)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [גופיית משחק בוסטון סלטיקס | הורפורד](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-09-07T22:14:30Z
+- [גופיית משחק אל הורפורד בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-horford-jersey): גופיית משחק אל הורפורד בעיצוב איכותי של Boston Celtics לסטייל במגרש וביום יום
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_57481e32-2ca1-44d2-b82a-d9f06b2a4816.jpg?v=1738543767
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד?variant=46899301286138)
+  - [S](https://www.rsport.co.il/products/bostonceltics-horford-jersey?variant=46899301286138)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד?variant=46899301318906)
+  - [M](https://www.rsport.co.il/products/bostonceltics-horford-jersey?variant=46899301318906)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד?variant=46899301351674)
+  - [L](https://www.rsport.co.il/products/bostonceltics-horford-jersey?variant=46899301351674)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד?variant=46899301384442)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-horford-jersey?variant=46899301384442)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד?variant=46899301417210)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-horford-jersey?variant=46899301417210)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-בוסטון-סלטיקס-הורפורד?variant=46899301449978)
+  - [3XL](https://www.rsport.co.il/products/bostonceltics-horford-jersey?variant=46899301449978)
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
-- [מכנסיי משחק בוסטון סלטיקס City edition](https://www.rsport.co.il/products/מכנסיי-משחק-בוסטון-סלטיקס-city-edition): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:14:30Z
+- [מכנסי משחק בוסטון סלטיקס City Edition](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd): מכנסי משחק City Edition בעיצוב ייחודי של Boston Celtics עם נוחות וסטייל
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_bb097512-a2d8-4e45-b1ee-2fd8bbf6ec64.jpg?v=1738545206
-  - [S](https://www.rsport.co.il/products/מכנסיי-משחק-בוסטון-סלטיקס-city-edition?variant=46901806432506)
+  - [S](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd?variant=46901806432506)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-משחק-בוסטון-סלטיקס-city-edition?variant=46901806465274)
+  - [M](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd?variant=46901806465274)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-משחק-בוסטון-סלטיקס-city-edition?variant=46901806498042)
+  - [L](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd?variant=46901806498042)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-משחק-בוסטון-סלטיקס-city-edition?variant=46901806530810)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd?variant=46901806530810)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-בוסטון-סלטיקס-city-edition?variant=46901806563578)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd?variant=46901806563578)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק לבנים בוסטון סלטיקס](https://www.rsport.co.il/products/מכנסיי-משחק-לבנים-בוסטון-סלטיקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:14:29Z
+- [מכנסי משחק לבנים בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd): מכנסי משחק בצבע לבן עם עיצוב קלאסי ונוחות מירבית לאוהדי Celtics
+  Updated: 2025-10-02T06:00:13Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_61c6cf5d-09c7-44f3-b8fa-18999a2b1910.jpg?v=1738545207
-  - [S](https://www.rsport.co.il/products/מכנסיי-משחק-לבנים-בוסטון-סלטיקס?variant=46901810036986)
+  - [S](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd?variant=46901810036986)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-משחק-לבנים-בוסטון-סלטיקס?variant=46901810069754)
+  - [M](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd?variant=46901810069754)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-משחק-לבנים-בוסטון-סלטיקס?variant=46901810102522)
+  - [L](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd?variant=46901810102522)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-משחק-לבנים-בוסטון-סלטיקס?variant=46901810135290)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd?variant=46901810135290)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-לבנים-בוסטון-סלטיקס?variant=46901810168058)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd?variant=46901810168058)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנס משחק ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/מכנס-משחק-ירוק-בוסטון-סלטיקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:14:29Z
+- [מכנס משחק ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd): מכנס משחק ירוק עם עיצוב נוח של Boston Celtics לסטייל ספורטיבי
+  Updated: 2025-10-02T06:00:12Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_df3f79e7-1754-4465-b803-76a8b286d561.jpg?v=1738544950
-  - [S](https://www.rsport.co.il/products/מכנס-משחק-ירוק-בוסטון-סלטיקס?variant=46901815443706)
+  - [S](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd?variant=46901815443706)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-משחק-ירוק-בוסטון-סלטיקס?variant=46901815476474)
+  - [M](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd?variant=46901815476474)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-משחק-ירוק-בוסטון-סלטיקס?variant=46901815509242)
+  - [L](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd?variant=46901815509242)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-משחק-ירוק-בוסטון-סלטיקס?variant=46901815542010)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd?variant=46901815542010)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנס-משחק-ירוק-בוסטון-סלטיקס?variant=46901815574778)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd?variant=46901815574778)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק שחור ירוק בוסטון סלטיקס | City edition](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס-city-edition): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:14:28Z
+- [מכנסי משחק שחור ירוק בוסטון סלטיקס City Edition](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd): מכנסי משחק City Edition בצבע שחור ירוק בעיצוב ייחודי של בוסטון סלטיקס
+  Updated: 2025-10-02T06:00:12Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_1574bc19-c8da-4684-9cb1-819c9a6735fa.jpg?v=1738545217
-  - [S](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס-city-edition?variant=46901819015418)
+  - [S](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd?variant=46901819015418)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס-city-edition?variant=46901819048186)
+  - [M](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd?variant=46901819048186)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס-city-edition?variant=46901819080954)
+  - [L](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd?variant=46901819080954)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס-city-edition?variant=46901819113722)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd?variant=46901819113722)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס-city-edition?variant=46901819146490)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd?variant=46901819146490)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק שחור ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:14:28Z
+- [מכנסי משחק שחור ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd): מכנסי משחק שחור ירוק בעיצוב קלאסי של Boston Celtics לאוהדים אמיתיים
+  Updated: 2025-10-02T06:00:12Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_66f73a71-4c1b-42b8-b14d-89bdd936a3a6.jpg?v=1738545216
-  - [S](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס?variant=46901821407482)
+  - [S](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd?variant=46901821407482)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס?variant=46901821440250)
+  - [M](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd?variant=46901821440250)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס?variant=46901821473018)
+  - [L](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd?variant=46901821473018)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס?variant=46901821505786)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd?variant=46901821505786)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-שחור-ירוק-בוסטון-סלטיקס?variant=46901821538554)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd?variant=46901821538554)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסיי משחק שחורים בוסטון סלטיקס](https://www.rsport.co.il/products/מכנסיי-משחק-שחורים-בוסטון-סלטיקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:14:27Z
+- [מכנסי משחק שחורים בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd): מכנסי משחק שחורים בעיצוב איכותי של בוסטון סלטיקס לנוחות וסטייל במגרש וביום יום
+  Updated: 2025-10-02T06:01:28Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_1aa5ccf0-c62f-4bfa-8b10-fa8be87a8549.jpg?v=1738545219
-  - [S](https://www.rsport.co.il/products/מכנסיי-משחק-שחורים-בוסטון-סלטיקס?variant=46901828190458)
+  - [S](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd?variant=46901828190458)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיי-משחק-שחורים-בוסטון-סלטיקס?variant=46901828223226)
+  - [M](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd?variant=46901828223226)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיי-משחק-שחורים-בוסטון-סלטיקס?variant=46901828255994)
+  - [L](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd?variant=46901828255994)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיי-משחק-שחורים-בוסטון-סלטיקס?variant=46901828288762)
+  - [XL](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd?variant=46901828288762)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-שחורים-בוסטון-סלטיקס?variant=46901828321530)
+  - [2XL](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd?variant=46901828321530)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [גופיית משחק ברוקלין נטס | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-ברוקלין-נטס-קווין-דוראנט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
@@ -33797,7 +33797,7 @@
     Availability: Available
     Price: ‏180.00 ‏₪ ILS
 - [חולצת כדורגל  ג'ובנטוד בית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-גובנטוד-בית-2024-גברים): חולצת הבית של ג'ובנטוד לעונת 2024 מציגה את הצבעים המסורתיים של המועדון עם עיצוב קלאסי שמדגיש את זהות הקבוצה. החולצה עשויה מ-100% פוליאסטר, עם בד נושם וקל משקל שמנדף זיעה ומעניק נוחות גבוהה בזמן משחק, אימון או שימוש יומיומי. מתאימה לאוהדים שרוצים לתמוך בקבוצה באיכות ובסטייל.
-  Updated: 2025-10-01T01:06:26Z
+  Updated: 2025-10-02T04:17:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
