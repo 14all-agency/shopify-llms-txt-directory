@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-02T08:01:13.718Z
+- Updated At: 2025-10-02T12:01:15.615Z
 
 ## Products
 
@@ -1083,7 +1083,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-sherps-donkey-dog-toy-soft-dog-toys-381279.png?v=1700652899
   Price: £8.40 GBP
 - [KONG Sherps Llama Dog Toy](https://veryimportantpets.shop/products/kong-sherps-llama): The KONG Sherps Llama dog toy is all packed up with irresistibly soft plush material for the snuggles essential to every playtime expedition. Shop online at Very Important Pets
-  Updated: 2025-09-30T09:27:46Z
+  Updated: 2025-10-02T10:17:57Z
   Vendor: Kong
   Product Type: Soft Dog Toys
   Availability: Available
@@ -4782,7 +4782,7 @@
     Availability: Not Available
     Price: £35.95 GBP
 - [Alpha Sensitive Extra 25% Protein Duck & Rice Dry Dog Food](https://veryimportantpets.shop/products/alpha-sensitive-extra-duck-rice-15-kg): Alpha Sensitive Extra 25% Protein Adult Dry Dog Food, wheat gluten-free with Duck & Rice for sensitive adult dogs. Supports digestion & healthy skin/coat.
-  Updated: 2025-10-01T21:11:41Z
+  Updated: 2025-10-02T09:10:34Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -8637,7 +8637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-wheat-free-complete-chicken-and-rice-sensitive-dry-12-kg-961666.jpg?v=1700646715
     Price: £24.62 GBP
 - [Alpha Working Maintenance - Balanced Diet for Active Dogs](https://veryimportantpets.shop/products/alpha-adult-maintainance-worker-dog-beef-15-kg): Alpha Working Maintenance provides balanced diet with freshly cooked meat and vitamins for energy control. Ideal for active and overweight adult dogs.
-  Updated: 2025-10-01T20:59:52Z
+  Updated: 2025-10-02T08:59:05Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -10401,7 +10401,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/hollings-salmon-bites-10-x-75g-bags-natural-treats-341494.jpg?v=1737415721
   Price: £24.82 GBP
 - [Hollings Gourmet Chicken Sausages Dog Treats - 36 Sausages](https://veryimportantpets.shop/products/hollings-chicken-sausage-12-x-3-box): Hollings Gourmet Chicken Sausages Dog Treats - air-dried for nutrition and flavour. Made from quality chicken. Perfect for training or rewards.
-  Updated: 2025-10-01T13:28:31Z
+  Updated: 2025-10-02T09:05:41Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -17832,7 +17832,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whiskas-senior-11-fish-favourites-in-jelly-wet-cat-food-pouches-4x-12x85g-senior-cat-wet-736954.webp?v=1722185316
   Price: £24.02 GBP
 - [Whiskas Kitten Fish Favourites Wet Cat Food in Jelly - 48 pk](https://veryimportantpets.shop/products/whiskas-kitten-2-12-month-fish-favourites-in-jelly-pouches-4-x-12-x-85g): Whiskas Kitten 2-12 Month Fish Favourites Wet Cat Food in Jelly preserves natural goodness for happy, healthy kittens. Made with high-quality ingredients.
-  Updated: 2025-10-01T04:45:59Z
+  Updated: 2025-10-02T09:21:24Z
   Vendor: Whiskas
   Product Type: Kitten Wet Food
   Availability: Available
@@ -23995,16 +23995,16 @@ Omega-6 & 3 for skin.
 ## Collections
 
 - [Grain-Free Dog Food - Top Brands | Very Important Pets | Shop](https://veryimportantpets.shop/collections/grain-free-dog-food): Shop grain-free dog food at Very Important Pets for pets with sensitivities. Find leading brands that offer balanced nutrition in wet and dry forms.
-  Updated: 2025-10-01T11:40:05Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 204
 - [Dry Dog Food & Kibble - Premium Brands | Very Important Pets](https://veryimportantpets.shop/collections/dry-dog-food): Find tailored dry dog food nutrition for all breeds, ages, and diets, including grain-free and hypoallergenic. Perfect for your dog’s health and taste preferences.
-  Updated: 2025-10-01T20:57:57Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 434
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
-  Updated: 2025-09-30T21:10:31Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 302
 - [Durable Dog Bowls - Stainless Steel, Ceramic, Plastic Option](https://veryimportantpets.shop/collections/dog-bowls): Shop dog bowls including stainless steel, ceramic, plastic, and collapsible travel bowls. Find durable, stylish, and safe bowls for every dog.
-  Updated: 2025-08-10T08:56:15Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 32
 - [Dog Collars UK - Leather, Puppy & Everyday Collars](https://veryimportantpets.shop/collections/dog-collars): Explore our range of dog collars in the UK, including leather, puppy, and small dog collars. Durable, comfortable, and stylish for every breed and size.
   Updated: 2025-09-18T20:13:58Z
@@ -24043,7 +24043,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-10-01T13:36:27Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 407
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-09-30T21:10:33Z
@@ -24094,7 +24094,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T15:31:18Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-10-01T20:57:57Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 584
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-10-01T21:47:34Z
@@ -24133,7 +24133,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-01T20:57:57Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 1783
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-09-22T18:51:59Z
@@ -24220,7 +24220,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-29T23:31:26Z
   Total Products: 56
 - [Slow Feeding Dog Bowls - Slow Eating Solutions for Dogs](https://veryimportantpets.shop/collections/dog-slow-feeding): Shop slow feeder dog bowls to prevent gulping and improve digestion. Choose from ceramic and plastic options that promote slower, healthier eating for your dog.
-  Updated: 2025-09-19T11:34:09Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 8
 - [Dog Tie Out Cable & Stakes - Safe & Durable Outdoor Restraint](https://veryimportantpets.shop/collections/dog-tie-out-cable-stakes): Shop durable tie-out cables and stakes for safe outdoor play. Weather-resistant and suitable for all dog sizes. Keep your pet secure in any outdoor setting.
   Updated: 2025-09-18T19:58:21Z
@@ -24571,7 +24571,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-08-20T11:41:13Z
   Total Products: 25
 - [All Dog Accessories](https://veryimportantpets.shop/collections/dog-accessories)
-  Updated: 2025-09-21T21:24:02Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 154
 - [Top Dog Grooming Products for All Breeds | Very Important Pets](https://veryimportantpets.shop/collections/dog-grooming): Explore premium dog grooming essentials at Very Important Pets. Find shampoos, brushes, clippers, and more for a healthy, shiny coat.
   Updated: 2025-09-12T11:37:33Z
@@ -24580,7 +24580,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-01T20:57:57Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 1950
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24634,7 +24634,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-18T19:55:55Z
   Total Products: 14
 - [Webbox Pet Food & Treat Essentials | Very Important Pets](https://veryimportantpets.shop/collections/webbox): Indulge your pets with Webbox's nutritious food and treats at Very Important Pets. Enjoy natural ingredients and flavours that cater to their health and delight. Free next-day delivery over £49.
-  Updated: 2025-09-28T11:36:44Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 34
 - [Duck Houses](https://veryimportantpets.shop/collections/duck-house)
   Updated: 2025-07-20T07:31:27Z
@@ -24658,7 +24658,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T20:57:57Z
   Total Products: 10
 - [Multi-Pack](https://veryimportantpets.shop/collections/pre-order)
-  Updated: 2025-10-01T09:28:32Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 104
 - [Arden Grange: Premium Pet Care - Very Important Pets | Shop](https://veryimportantpets.shop/collections/arden-grange): Arden Grange: Over 20 years of premium, hypoallergenic pet food. No wheat, beef, dairy. UK-made with quality chicken, lamb, salmon. No artificial additives.
   Updated: 2025-09-22T18:52:18Z
@@ -24685,7 +24685,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-07-02T18:27:40Z
   Total Products: 5
 - [Bakers Dog Food: Balanced & Tasty | Very Important Pets](https://veryimportantpets.shop/collections/bakers): Indulge your dog with Bakers' complete and balanced meals at Very Important Pets. Offering delicious meaty chunks and wholegrains, each bowl is filled with essential nutrients for a happy, active canine. No artificial additives, just pure, savoury goodness.
-  Updated: 2025-09-30T21:10:19Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 21
 - [PURINA BETA Dry Dog Food - Pure, Balanced Nutrition](https://veryimportantpets.shop/collections/beta): Discover BETA from Purina, natural dog food at Very Important Pets. Their UK-made kibble, free from artificial additives, promotes healthy digestion and vitality.
   Updated: 2025-09-30T21:10:29Z
@@ -24742,7 +24742,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-22T18:53:34Z
   Total Products: 46
 - [Naturo Pet Foods: Purely Natural | Very Important Pets | Shop](https://veryimportantpets.shop/collections/naturo): Choose Naturo at Very Important Pets for natural, locally sourced pet nutrition. Rich in meat, free from additives for your dog's and cat's balanced diet.
-  Updated: 2025-09-22T18:53:36Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 32
 - [Pedigree Dog Food: Nutritious & Affordable | Very important Pets](https://veryimportantpets.shop/collections/pedigree): Shop Pedigree expertly crafted Dog and Cat nutrition range at Very Important Pets, offering balanced, complete meals for dogs and cats from puppies to seniors.
   Updated: 2025-10-01T11:40:05Z
@@ -24784,7 +24784,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-02T07:31:19Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 2322
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
@@ -24793,7 +24793,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-06-05T15:32:02Z
   Total Products: 3
 - [Hypoallergenic Dog Food - Sensitive Diet Options](https://veryimportantpets.shop/collections/hypoallergenic): Discover our range of Hypoallergenic Dog Food for sensitive pets. Quality brands and natural ingredients for allergy-prone dogs. Shop now for gentle nutrition.
-  Updated: 2025-09-30T21:10:36Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 106
 - [Animology Dog Grooming Supplies & Supplements | Shampoo](https://veryimportantpets.shop/collections/animology): Shop Animology at Very Important Pets for award-winning grooming and health products. Trusted in 50+ countries for superior pet care. Free Next day delivery.
   Updated: 2025-09-12T11:37:33Z
@@ -24802,7 +24802,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-19T21:52:58Z
   Total Products: 2
 - [Dog Dental Chews & Sticks - Oral Care Treats | VIPs](https://veryimportantpets.shop/collections/dog-dental-chews): Boost your pets dental health with our Dog Dental Chews & Sticks. Quality brands like DentaLife & Lily's Kitchen provide effective oral care and delicious flavours.
-  Updated: 2025-10-01T11:40:05Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 77
 - [Purina Dentalife: Expert Dog & Cat Dental Treats | Very Important Pets](https://veryimportantpets.shop/collections/purina-dentalife): Explore Purina Dentalife at Very Important Pets for premium dog and cat dental care—scientifically designed treats to reduce tartar and freshen breath.
   Updated: 2025-09-30T21:10:19Z
@@ -24841,7 +24841,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-29T20:27:59Z
   Total Products: 9
 - [Senior Dog Food- Optimal Nutrition for Older Dogs | VIPs](https://veryimportantpets.shop/collections/senior-dog-food): Shop for specialised senior or mature life-stage dog food - tailored nutrition for older dogs with joint support and essential vitamins for health and vitality.
-  Updated: 2025-09-30T21:10:29Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 75
 - [Verm-X Natural Supplements: Eco-Friendly, Vet Approved Care](https://veryimportantpets.shop/collections/verm-x): Explore Verm-X's natural supplements for pets at Very Important Pets. Ethically made in the UK, vet-approved, eco-friendly products promote holistic animal health.
   Updated: 2025-05-04T17:44:26Z
@@ -24988,7 +24988,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T11:40:05Z
   Total Products: 8
 - [Scruffs Luxury Pet Beds & Accessories | Very Important Pets](https://veryimportantpets.shop/collections/scruffs): Discover Scruffs luxurious dog beds, mattresses, and pet feeding bowls. Premium comfort and style meet innovation for your pet's well-being.
-  Updated: 2025-09-19T11:34:09Z
+  Updated: 2025-10-02T11:37:12Z
   Total Products: 24
 - [Vetbed Original Pet Beds: Comfort & Quality for Pets](https://veryimportantpets.shop/collections/vetbed): Discover Vetbed Original: Hypoallergenic, eco-friendly pet bedding for comfort, warmth, and well-being. Perfect for all pets.
   Updated: 2025-07-07T15:11:08Z
