@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-02T12:00:43.321Z
+- Updated At: 2025-10-02T20:00:46.889Z
 
 ## Products
 
@@ -19650,7 +19650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-114_3.jpg?v=1710502576
     Price: $876.00 USD
 - [Natural Salt And Pepper 1.26CT Kite Diamond Mid-Century Wedding Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-26ct-kite-diamond-mid-century-wedding-ring): Crafted For A Stylish Yet Timeless Look, This Mid-century Wedding Ring Features A Stunning 1.26ct Kite Diamond Adorned With Natural Salt And Pepper Inclusions. With Its Unique Shape And Natural Elements, This Ring Is A Perfect Choice For Those Seeking A One-of-a-kind Piece. Make A Statement With This Beautifully Crafted And Ethically Sourced Diamond Ring.
-  Updated: 2025-10-02T10:30:55Z
+  Updated: 2025-10-02T12:44:12Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
