@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-01T16:00:38.849Z
+- Updated At: 2025-10-02T00:00:40.115Z
 
 ## Products
 
@@ -5592,7 +5592,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULLMASTIFF-RELAX-SPRAY-2024.jpg?v=1738771841
     Price: $13.95 USD
 - [Chinese Crested Nose Butter Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/chinese-crested-nose-butter): The Blissful Dog Chinese Crested Nose Butter® for your Crested's rough, dry nose AND skin.  In tins and tubes with Chinese Crested labels. Free Shipping in USA
-  Updated: 2025-10-01T03:55:26Z
+  Updated: 2025-10-01T19:46:43Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
