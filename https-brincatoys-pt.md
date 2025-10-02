@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-02T08:01:08.640Z
+- Updated At: 2025-10-02T12:01:09.936Z
 
 ## Products
 
@@ -690,7 +690,7 @@ O que está espera para conheccer?
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-alina-vichy-45-cm-42080521-brincatoys-1178692818.jpg?v=1752828014
   Price: 42,90 € EUR
 - [Boneca Carla 32 cm](https://brincatoys.pt/products/boneca-carla-32-cm): Carla é uma boneca de 32 cm, feita de vinil. Os seus olhos azuis brilham e os seus longos cabelos parecem uma cascata. O vestido clássico em cores vivas complementa este modelo.
-  Updated: 2025-10-02T07:50:13Z
+  Updated: 2025-10-02T10:44:35Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -2924,7 +2924,7 @@ descem, adaptando-se perfeitamente à máquina de lavar. E na saída também
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/estabulo-em-madeira-618250615-brincatoys-1178693548.jpg?v=1752840381
   Price: 28,80 € EUR
 - [Ever  After High Briar Beauty](https://brincatoys.pt/products/ever-after-high-briar-beauty): Antes da fase Monster High existiu a fase Ever After High, onde as mais belas adolescentes de Ever After High, como a Briar Beauty, estão prontas para celebrar o Dia do Legado, o dia no qual nos comprometemos magicamente com as nossas lendárias histórias. Espere um pouco! Algumas de nós querem seguir os verdadeiros desejos de coração. Será Real ...
-  Updated: 2025-09-29T21:02:08Z
+  Updated: 2025-10-02T08:24:42Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -3239,7 +3239,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-masha-e-o-urso-urso-brincatoys-629980423-brincatoys-1178693633.jpg?v=1752816735
   Price: 7,00 € EUR
 - [Figuras Batman: The New Batman Adventures](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures): Conjunto de figuras em PVC não tóxico, flexíveis, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade das figuras permite a adopção de uma variedade de poses de ação.  Dimensão: 33 x 19 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-09-29T18:15:22Z
+  Updated: 2025-10-02T11:50:38Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -5732,63 +5732,63 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/monopoly-viaja-pelo-mundo-90400722-5010993951420-monopoly-1178694393.jpg?v=1752855857
   Price: 38,50 € EUR
 - [Monster High  Hauntlywood Viperine Gorgon](https://brincatoys.pt/products/monster-high-hauntlywood-viperine-gorgon): A boneca Monster High Frights, Camera, Action Viperine Gorgon está fantástica com o seu longo cabelo rosa e loiro, acentuado pelas cobras. Dimensão: 20 x 33 x 7 cm. Idade Recomendada. + de 6 anos.
-  Updated: 2025-09-29T20:54:45Z
+  Updated: 2025-10-02T08:24:42Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-hauntlywood-viperine-gorgon-550080821-monster-high-1178694397.jpg?v=1752855970
   Price: 84,90 € EUR
 - [Monster High Boo York, Boo York  Mouscedes King](https://brincatoys.pt/products/monster-high-boo-york-boo-york-mouscedes-king): A boneca Monster High Mouscedes King conhece bem Boo York, afinal, ela vem do Upper Beast Side! Então, quando as bonecas Monster High esbarram na socialite na cidade grande, ela junta-se à festa. Com o seu gosto caro para roupas, ela não vai se sentir dourada neste vestido dourado totalmente deslumbrante e tiara turquesa. Dimensão: 22,50 x 32,50 x
-  Updated: 2025-09-30T11:38:51Z
+  Updated: 2025-10-02T08:24:42Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-york-boo-york-mouscedes-king-551183021-2600000-monster-high-1178694401.jpg?v=1752813483
   Price: 89,90 € EUR
 - [Monster High Boo York, Boo York Catty Noir](https://brincatoys.pt/products/monster-high-boo-york-boo-york-catty-noir): Esta boneca Monster High Catty Noir parece o gato que ganhou um doce pois está prestes a roubar o show no Crystal Comet Gala, até que Nefera de Nile lhe roube a voz para cantar. Catty está vestida para matar com seu vestido roxo e prata e garante que o show continua.  Dimensão: 19 x 32 x 7 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-29T21:04:57Z
+  Updated: 2025-10-02T08:24:42Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-york-boo-york-catty-noir-551185021-2600000-monster-high-1178694405.jpg?v=1752813495
   Price: 104,90 € EUR
 - [Monster High Boo York, Boo York Elle Eedee](https://brincatoys.pt/products/monster-high-boo-york-boo-york-elle-eedee): Boneca Monster High Elle Eedee da colecção Boo York, Boo York. Quando as personagens e ghouls de Monster High vão para Boo York, para a passagem do Crystal Comet, Elle Eedee está a tocar algumas tumbas como DJ residente. Ela está vestida para relaxar. O seu vestido azul e cinto cintilante são um susto de se ver, enquanto o banda da Monster High cel
-  Updated: 2025-09-29T20:54:51Z
+  Updated: 2025-10-02T08:24:42Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-york-boo-york-elle-eedee-550118321-monster-high-1178694409.jpg?v=1752813607
   Price: 104,90 € EUR
 - [Monster High Boo York, Boo York Nefera de Nile](https://brincatoys.pt/products/monster-high-boo-york-boo-york-nefera-de-nile): Nefera de Nile apresenta-se com uma roupa azul-petróleo e ouro e pode vencer as suas rivais nas apostas da moda.  Dimensão: 19 x 32 x 7 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-29T21:05:03Z
+  Updated: 2025-10-02T08:24:42Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-york-boo-york-nefera-de-nile-55118521-monster-high-1178694413.jpg?v=1752813618
   Price: 104,90 € EUR
 - [Bonecas Monster High Draculaura - Moda Gótica e Diversão](https://brincatoys.pt/products/bonecas-monster-high-draculaura): Descubra as elegantes bonecas Monster High Draculaura na nossa loja! Estilo gótico-chic, acessórios encantadores e possibilidade para coleção e brincadeiras criativas. Adquira já a sua!
-  Updated: 2025-09-29T21:05:52Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bonecas-monster-high-draculaura-moda-gotica-e-diversao-55131321-monster-high-1178694417.jpg?v=1752813849
   Price: 69,90 € EUR
 - [Monster High Hautlywood Honey Swamp](https://brincatoys.pt/products/monster-high-hautlywood-honey-swamp): Boneca Monster High Frights, Camera, Action.  Dimensão: 20 x 33 x 7 cm. Idade recomendada: + de 6 anos.
-  Updated: 2025-09-29T21:02:14Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-hautlywood-honey-swamp-55080821-monster-high-1178694421.jpg?v=1752813861
   Price: 79,90 € EUR
 - [Monster High Mais Viva do que Morta  Spectra Vondergeist](https://brincatoys.pt/products/monster-high-mais-viva-do-que-morta-spectra-vondergeist): A boneca Monster High Spectra Vondergeist brilha ao ser apertada. PossuI um estilo assustadoramente fascinante e um design muito fashion. Uma boneca que vai proporcionar muitos momentos de diversão.  Dimensão: 24 x 32,50 x 7 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-29T20:58:00Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-mais-viva-do-que-morta-spectra-vondergeist-550421121-2600000-monster-high-1178694425.jpg?v=1752813972
   Price: 94,90 € EUR
 - [Monster High Mais Viva do que Morta -Spectra Vondergeist-](https://brincatoys.pt/products/monster-high-mais-viva-do-que-morta-frankie-stein): A boneca Monster High Spectra Vondergeist brilha ao ser apertada. PossuI um estilo assustadoramente fascinante e um design muito fashion.  Dimensão: 24 x 32,50 x 7 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-29T20:58:06Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -5886,7 +5886,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-first-pinypon-cozinheiro-649060721-brincatoys-1178694460.jpg?v=1752813261
   Price: 9,90 € EUR
 - [My First Pinypon Polícia](https://brincatoys.pt/products/my-first-pinypon-policia): Boneco My First Pinypon polícia ideal para crianças a partir de 1 ano. Estimulam o seu desenvolvimento a brincar. A figura mede 9 cm...  Dimensão: 10 x 12,50 x 8 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-09-29T22:03:03Z
+  Updated: 2025-10-02T08:07:21Z
   Vendor: Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -14698,7 +14698,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-de-batalha-pokemon-para-colecionadores-brincatoys-23305424-0191726481331-pokemon-1178698145.jpg?v=1752920766
   Price: 23,99 € EUR
 - [Pokemon Select Mewtwo Figure: Detalhes Fantásticos | Brincatoys](https://brincatoys.pt/products/pokemon-select-mewtwo-figure): Descubra a força da Pokemon Select Mewtwo figure! Desenvolvida para colecionadores exigentes. 15cm de encanto com detalhes incríveis.
-  Updated: 2025-10-01T22:59:20Z
+  Updated: 2025-10-02T09:06:49Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -14803,7 +14803,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cinto-de-treinador-pokemon-squirtle-23316124-pokemon-1178698213.jpg?v=1752921977
   Price: 34,99 € EUR
 - [Five Nights at Freddy's Snaps Roxanne Wolf](https://brincatoys.pt/products/five-nights-at-freddys-snaps-roxanne-wolf): Adicione terror e diversão à sua coleção com o Five Nights at Freddy`s Snaps Roxanne Wolf! Descubra a figura articulada e personalizável e reviva o jogo.
-  Updated: 2025-09-29T18:35:34Z
+  Updated: 2025-10-02T10:15:15Z
   Vendor: Five Nights at Freddy's
   Product Type: + 8 anos
   Availability: Available
@@ -16121,7 +16121,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-safari-23050824-191726877028-squishville-1178699285.jpg?v=1752938524
   Price: 28,90 € EUR
 - [Figura de Batalha Pokémon - Tauros](https://brincatoys.pt/products/figura-de-batalha-pokemon-tauros): Descubra a Figura de Batalha Pokémon - Tauros! Ação interativa, durabilidade e detalhes fiéis ao personagem para fãs de todas as idades.
-  Updated: 2025-10-01T21:52:42Z
+  Updated: 2025-10-02T09:02:45Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -16471,7 +16471,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/dinossauro-de-brinquedo-jurassic-world-regaliceratops-21162824-0194735116287-jurassic-world-1178699594.jpg?v=1752792020
   Price: 24,99 € EUR
 - [Brinquedos da Patrulha Pata - Chase:](https://brincatoys.pt/products/patrulha-pata-chase): Brinquedos da Patrulha Pata - Chase, para o seu pequeno fã da Patrulha Pata! Ideal para inspirar a imaginação e horas de jogo interativo.
-  Updated: 2025-09-29T21:14:08Z
+  Updated: 2025-10-02T11:49:01Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -17038,7 +17038,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-earthspark-warrior-shockwave-907842824-5010996178428-transformers-1178700072.jpg?v=1752950417
   Price: 19,99 € EUR
 - [Monster High Festa Monstros - Frankie Stein](https://brincatoys.pt/products/monster-high-festa-monstros-frankie-stein): Boneca Monster High Festa Monstros - Frankie Stein. Complete a sua coleção com estilo. Esta peça tem articulações móveis e acessórios imersivos.
-  Updated: 2025-09-30T01:27:26Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -17206,35 +17206,35 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-casa-da-familia-da-bluey-criativo-e-interativo-231302424-8056379131625-bluey-1178700207.jpg?v=1752787805
   Price: 59,99 € EUR
 - [Boneca Monster High - Lagoona Blue com roupa extra](https://brincatoys.pt/products/monster-high-lagoona-blue-com-roupa-extra): Descubra a boneca Monster High - Lagoona Blue com roupa extra com acessórios exclusivos. Estimule a criatividade e a imaginação.
-  Updated: 2025-09-30T01:52:56Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-lagoona-blue-com-roupa-extra-776979824-0194735069798-monster-high-1178700211.jpg?v=1752787818
   Price: 39,99 € EUR
 - [Boneca Monster High - Draculaura com Mascote Count Fabulous](https://brincatoys.pt/products/monster-high-draculaura): Mergulhe no elegante mundo de mistério com a boneca Monster High  -Draculaura, acompanhada pelo sua mascote, Count Fabulous, e crie aventuras.
-  Updated: 2025-09-30T01:53:03Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-draculaura-com-mascote-count-fabulous-776991024-0194735069910-monster-high-1178700215.jpg?v=1752952445
   Price: 39,99 € EUR
 - [Boneca Monster High Draculaura com Armário Skulltime](https://brincatoys.pt/products/monster-high-draculaura-com-armario-skulltime-secrets): Descubra a boneca Monster High - Draculaura com armário Skulltime Secrets, perfeita para apaixonados por moda gótica e histórias encantadas.
-  Updated: 2025-09-30T01:49:50Z
+  Updated: 2025-10-02T08:24:41Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-draculaura-com-armario-skulltime-775544325-0194735255443-monster-high-1178692541.jpg?v=1752824050
   Price: 49,99 € EUR
 - [Boneca Monster High - Lagoona Blue](https://brincatoys.pt/products/monster-high-lagoona-blue): Descubra a boneca Monster High - Lagoona Blue com acessórios exclusivos e a sua amiga Neptuna. . Estimule a criatividade e a imaginação.
-  Updated: 2025-09-30T01:37:01Z
+  Updated: 2025-10-02T08:24:40Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-lagoona-blue-773051824-0194735230518-monster-high-1178700219.jpg?v=1752952456
   Price: 39,99 € EUR
 - [Boneca Monster High - Draculaura com Mascote](https://brincatoys.pt/products/monster-high-draculaura-com-mascote): Descubra a boneca Monster High - Draculaura com mascote, uma peça essencial para fãs e colecionadores. Promova a imaginação com este brinquedo mágico.
-  Updated: 2025-09-30T01:57:07Z
+  Updated: 2025-10-02T08:24:40Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -17297,14 +17297,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-megalodon-azul-1-24-acao-realista-776667524-0778988459218-brincatoys-1178700264.jpg?v=1752787563
   Price: 21,50 € EUR
 - [Monster High Festa Monstruosa - Cleo de Nile](https://brincatoys.pt/products/monster-high-festa-monstuosa-cleo-de-nille): Boneca Monster High Festa Monstruosa - Cleo de Nile. Complete a sua coleção com estilo. Esta peça tem articulações móveis e acessórios imersivos.
-  Updated: 2025-09-30T01:25:25Z
+  Updated: 2025-10-02T08:24:40Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-festa-monstruosa-cleo-de-nile-772303724-0194735230372-monster-high-1178700267.jpg?v=1752787574
   Price: 39,99 € EUR
 - [Monster High Festa Monstruosa – Lagoona Blue](https://brincatoys.pt/products/monster-high-festa-monstruosa-lagoona-blue): Descubra a boneca Monster High Festa Monstruosa – Lagoona Blue, perfeita para colecionadores e crianças apaixonadas por aventuras submarinas.
-  Updated: 2025-09-30T01:25:40Z
+  Updated: 2025-10-02T08:24:40Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -17332,21 +17332,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/brinquedo-patrulha-pata-mighty-movie-rocky-854300924-0778988486665-patrulha-pata-1178700283.jpg?v=1752953298
   Price: 26,50 € EUR
 - [Boneca Monster High - Spectra Vondergeist](https://brincatoys.pt/products/monster-high-spectra-vondergeist): Descubra a Boneca Monster High - Spectra Vondergeist, uma adição espectacular com detalhes e acessórios únicos. Perfeita para fãs de histórias assombradas
-  Updated: 2025-09-30T01:27:13Z
+  Updated: 2025-10-02T08:24:39Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-spectra-vondergeist-772306225-0194735230624-monster-high-1178700291.jpg?v=1752953420
   Price: 42,50 € EUR
 - [Monster High Festa Monstruosa - Clawdeen Wolf](https://brincatoys.pt/products/monster-high-festa-monstruosa-clawdeen-wolf): Descubra a boneca Monster High Festa Monstruosa – Clawdeen Wolf , perfeita para colecionadores e crianças apaixonadas por aventuras submarinas.
-  Updated: 2025-09-30T01:27:33Z
+  Updated: 2025-10-02T08:24:39Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-festa-monstruosa-clawdeen-wolf-772306824-0194735230686-monster-high-1178700295.jpg?v=1752953533
   Price: 39,99 € EUR
 - [Boneca Monster High - Frankie Stein | Moda Gótica](https://brincatoys.pt/products/monster-high-frankie-stein): Boneca Monster High - Frankie Stein. Complete a sua coleção com estilo. Esta peça tem articulações móveis e acessórios imersivos.
-  Updated: 2025-09-30T01:26:18Z
+  Updated: 2025-10-02T08:24:40Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -17423,7 +17423,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-van-campbell-replica-perfeita-552003824-0194735200382-cars-1178700351.jpg?v=1752954612
   Price: 11,99 € EUR
 - [Puzzle Monster High 180 pçs - Diversão e Aprendizagem](https://brincatoys.pt/products/puzzle-monster-high-180-pcs): Encontre o puzzle perfeito para fãs de Monster High! Com peças de alta qualidade, o Puzzle Monster High 180 pçs proporciona educação e entretenimento.
-  Updated: 2025-09-30T01:35:26Z
+  Updated: 2025-10-02T08:24:40Z
   Vendor: Monster High
   Product Type: + 7 anos
   Availability: Available
@@ -17444,7 +17444,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-beleza-da-minnie-mouse-acessorio-encantador-779453524-8445484394535-brincatoys-1178700375.jpg?v=1752954980
   Price: 13,99 € EUR
 - [Puzzle Monster High 104 pçs - Diversão e Aprendizagem](https://brincatoys.pt/products/puzzle-monster-high-104-pcs): Encontre o puzzle perfeito para fãs de Monster High! Com peças de alta qualidade, o Puzzle Monster High 104 pçs proporciona educação e entretenimento.
-  Updated: 2025-09-30T01:29:43Z
+  Updated: 2025-10-02T08:24:39Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -17535,7 +17535,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60435-camiao-reboque-e-reparacao-de-carro-666043524-5702017587325-lego-1178700452.jpg?v=1752786860
   Price: 22,50 € EUR
 - [Lego DC Comics 76270 - Armadura Mech do Batman](https://brincatoys.pt/products/lego-dc-comics-76270-armadura-mech-do-batman): Descubra a Armadura Mech do Batman Lego DC Comics 76270. Construa, brinque e colecione o herói de Gotham em versão robô articulado.
-  Updated: 2025-09-29T23:43:20Z
+  Updated: 2025-10-02T10:51:45Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -17577,7 +17577,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76920-carro-desportivo-ford-mustang-667692024-5702017583730-lego-1178700476.jpg?v=1752956048
   Price: 29,99 € EUR
 - [Boneca Monster High - Venus McFlytrap](https://brincatoys.pt/products/monster-high-venus-mcflytrap): Descubra a incrível boneca Monster High - Venus McFlytrap! Com design único e acessórios divertidos, é a companheira perfeita para aventuras criativas.
-  Updated: 2025-09-30T01:57:14Z
+  Updated: 2025-10-02T08:24:39Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -17822,7 +17822,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/contas-de-madeira-animais-familiares-brinquedo-educativo-26150424-3048700015044-brincatoys-1178700644.jpg?v=1752959169
   Price: 22,50 € EUR
 - [Monster High Segredos Tumulares - Abbey Bominable Misteriosa](https://brincatoys.pt/products/monster-high-segredos-tumulares-abbey-bominable): Entre no mundo emocionante de Monster High Segredos Tumulares com Abbey Bominable! Personalize sua boneca e desbloqueie surpresas escondidas.
-  Updated: 2025-09-30T01:27:20Z
+  Updated: 2025-10-02T08:24:38Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -18613,7 +18613,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-edicao-european-car-culture-miniaturas-detalhadas-772380625-0194735023806-hot-wheels-1178701269.jpg?v=1752968643
   Price: 24,95 € EUR
 - [Boneco de Peluche da Bluey 45 cm: O Companheiro Perfeito](https://brincatoys.pt/products/peluche-da-bluey-45-cm): Descubra o irresistível boneco de peluche da Bluey, com 45 cm de altura. Perfeito para fãs da famosa personagem de animação australiana!
-  Updated: 2025-09-29T17:43:44Z
+  Updated: 2025-10-02T11:58:39Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -19019,14 +19019,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31153-casa-moderna-3-em-1-663115324-5702017585086-lego-1178699904.jpg?v=1752789849
   Price: 99,99 € EUR
 - [Monster High Skulltimate Secrets Twyla em Grande Estilo](https://brincatoys.pt/products/monster-high-skulltimate-secrets-twyla): Mergulhe no estilo misterioso da Monster High com a boneca Skulltimate Secrets Twyla! Descubra mais de 125 looks fabulosos e acessórios! 🌟
-  Updated: 2025-09-30T01:49:43Z
+  Updated: 2025-10-02T08:24:38Z
   Vendor: Monster High
   Product Type: Bonecas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-skulltimate-secrets-twyla-em-grande-estilo-775543625-0194735255436-monster-high-1178701517.jpg?v=1752972611
   Price: 44,90 € EUR
 - [Monster High Jinafire Long: Estilo e Exclusividade](https://brincatoys.pt/products/monster-high-jinafire-long): Descubra a fabulosa Monster High Jinafire Long, inspirada no misticismo dos dragões com um visual exuberante. Adquira esta boneca cheia de estilo!
-  Updated: 2025-09-30T01:51:15Z
+  Updated: 2025-10-02T08:24:38Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -19278,7 +19278,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-01T21:49:10Z
+  Updated: 2025-10-02T09:03:10Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -19565,14 +19565,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-toy-story-woody-o-heroi-dos-brinquedos-774600325-0194735046003-toy-story-1178701894.jpg?v=1752979091
   Price: 29,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-boo-riginal-operetta): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-09-29T17:53:11Z
+  Updated: 2025-10-02T08:24:38Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-232566025-194735256600-monster-high-1178701898.jpg?v=1752979101
   Price: 39,99 € EUR
 - [Monster High Boo-riginal Toralei: Estilo e Atitude](https://brincatoys.pt/products/monster-high-boo-riginal-toralei): Explore aventuras com a boneca Monster High Boo-riginal Toralei! Com 27 cm e um estilo feroz, ela é perfeita para histórias emocionantes. 🐾
-  Updated: 2025-09-29T17:53:18Z
+  Updated: 2025-10-02T08:24:37Z
   Vendor: Monster High
   Product Type: Bonecas
   Availability: Available
@@ -20792,7 +20792,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-vaiana-copia-772312723-princesas-disney-1178697759.jpg?v=1752913682
   Price: 39,99 € EUR
 - [Brinquedo para Bebé - Telefone Unicórnio](https://brincatoys.pt/products/telefone-unicornio-copiar-copia): Explore o brinquedo para Bebé - Telefone Unicórnio. Brinquedo, que estimula a aprendizagem sensorial e motora com luzes e sons divertidos!
-  Updated: 2025-09-30T07:22:10Z
+  Updated: 2025-10-02T11:04:45Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -21194,7 +21194,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-01T22:39:18Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 566
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-09-30T11:46:29Z
@@ -21272,8 +21272,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T11:22:29Z
   Total Products: 99
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-02T07:54:30Z
-  Total Products: 241
+  Updated: 2025-10-02T09:42:43Z
+  Total Products: 244
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-09-30T03:17:57Z
   Total Products: 64
@@ -21335,10 +21335,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:20:46Z
   Total Products: 1511
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-02T07:54:59Z
-  Total Products: 683
+  Updated: 2025-10-02T11:22:50Z
+  Total Products: 684
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-01T22:39:47Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 312
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-09-19T11:52:01Z
@@ -21350,29 +21350,29 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T18:04:17Z
   Total Products: 126
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 1315
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 2418
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-01T12:20:46Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 2884
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3269
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3402
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3481
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3530
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-02T07:54:29Z
-  Total Products: 366
+  Updated: 2025-10-02T11:22:50Z
+  Total Products: 369
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21431,7 +21431,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-22T16:19:55Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-09-30T11:12:35Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
   Updated: 2025-09-30T18:44:01Z
@@ -21494,11 +21494,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T18:39:46Z
   Total Products: 3
 - [Minions](https://brincatoys.pt/collections/minions)
-  Updated: 2025-09-29T18:23:12Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 5
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-02T07:54:59Z
-  Total Products: 36
+  Updated: 2025-10-02T09:42:43Z
+  Total Products: 39
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-08-31T21:21:50Z
   Total Products: 2
@@ -21521,7 +21521,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T22:35:24Z
   Total Products: 133
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-10-01T12:09:49Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 101
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-09-29T19:14:40Z
@@ -21560,11 +21560,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3563
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-01T12:12:43Z
-  Total Products: 282
+  Updated: 2025-10-02T09:43:12Z
+  Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-01T11:22:29Z
   Total Products: 167
@@ -21575,19 +21575,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:20:46Z
   Total Products: 1162
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-02T07:54:59Z
-  Total Products: 469
+  Updated: 2025-10-02T11:22:50Z
+  Total Products: 470
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-01T10:48:32Z
   Total Products: 139
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-01T12:10:40Z
-  Total Products: 183
+  Updated: 2025-10-02T09:43:12Z
+  Total Products: 186
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-01T12:12:43Z
   Total Products: 76
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-01T22:39:48Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 211
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-01T11:22:29Z
@@ -21596,10 +21596,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:21:03Z
   Total Products: 67
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3563
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3563
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
@@ -21611,7 +21611,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3072
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-09-16T10:30:16Z
@@ -21620,10 +21620,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-01T12:06:33Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T11:22:50Z
   Total Products: 3072
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-02T07:54:30Z
+  Updated: 2025-10-02T09:42:43Z
   Total Products: 948
 
 ## Blogs
