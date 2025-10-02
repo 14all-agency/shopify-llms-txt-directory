@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-02T00:00:40.115Z
+- Updated At: 2025-10-02T12:00:39.212Z
 
 ## Products
 
@@ -6725,7 +6725,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WESTIE_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632081974
     Price: $10.95 USD
 - [Is Your West Highland White Terrier Afraid of Thunderstorms?](https://theblissfuldog.com/products/west-highland-white-terrier-relax-dog-aromatherapy): Is Your West Highland White Terrier Afraid of Fireworks? Relax Dog Aromatherapy eases your Westie's stress and fears caused by common canine fear triggers.
-  Updated: 2025-06-18T18:05:07Z
+  Updated: 2025-10-02T04:34:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -11483,7 +11483,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CRESTED_CUSTOM-COMBO.jpg?v=1626822034
   Price: $29.95 USD
 - [Customize Your Dachshund Care Combo for Healthy Skin Care Needs](https://theblissfuldog.com/products/dachshund-custom-combos): The Blissful Dog Dachshund Care Kits Customized for your Doxie's dry noses, rough paws, dog elbow calluses, skin issues.
-  Updated: 2025-06-24T16:13:14Z
+  Updated: 2025-10-02T00:58:16Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -17116,13 +17116,13 @@
 ## Collections
 
 - [THE BLISSFUL DOG ALL NATURAL HANDCRAFTED GOOD STUFF](https://theblissfuldog.com/collections/frontpage)
-  Updated: 2025-10-01T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 110
 - [Dog Aromatherapy Sprays & Blends | Relaxing Spray for Dogs](https://theblissfuldog.com/collections/relax-dog-aromatherapy): Ease your dog's anxiety during stressful situations like rainstorms with our dog aromatherapy sprays! The essential oils help calm and relax frightened dogs.
   Updated: 2025-09-30T11:02:05Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-10-01T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
   Updated: 2025-10-01T11:01:51Z
@@ -17140,7 +17140,7 @@
   Updated: 2025-09-27T11:03:18Z
   Total Products: 13
 - [The Blissful Dog Border Collie Shop for Dry Noses, Rough Paws + more](https://theblissfuldog.com/collections/border-collie-collection): The Blissful Dog Border Collie Shop for your hard-working dog. All natural balms for dry noses, rough, paws, skin irritations + aromatherapy and shampoos.
-  Updated: 2025-09-18T11:02:00Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 11
 - [SHOP The Blissful Dog BOSTON TERRIER Collection for Your Dog's Care](https://theblissfuldog.com/collections/boston-terrier-collection): Boston Terrier Collection features everything blissful for your Boston Terrier's health & well-being. From nose to stumpy tail, we've got your Boston covered.
   Updated: 2025-09-28T11:02:10Z
@@ -17212,7 +17212,7 @@
   Updated: 2025-09-13T11:02:06Z
   Total Products: 11
 - [Yorkie Skin Care & Hair Grooming Products | The Blissful Dog](https://theblissfuldog.com/collections/yorkshire-terrier-collection): Find all the skin care and hair grooming products you need for your spirited little Yorkie! The Blissful Dog sells natural skin balms, shampoos, and more.
-  Updated: 2025-10-01T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 13
 - [Shop The Blissful Dog Brittany Dog Skin & Coat Care Collection](https://theblissfuldog.com/collections/brittany-spaniel-collection): Shop everything featuring the Brittany dog from our Brittany Collection. Nose Butter® for dry noses, rough paws, itchy skin issues and elbow calluses.
   Updated: 2025-09-27T11:03:18Z
@@ -17296,7 +17296,7 @@
   Updated: 2025-09-27T11:03:18Z
   Total Products: 14
 - [The Blissful Dog Doberman Pinscher Collection from  Nose to Tail](https://theblissfuldog.com/collections/doberman-pinscher-collection): Doberman Pinscher Shop for your Dobie's dry nose, rough paws, elbow calluses, skin issues & emotional well-being. Plus, shampoos for your dog's skincare needs.
-  Updated: 2025-09-18T11:02:00Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 10
 - [The Blissful Dog Dachshund Shop Collection for Your Doxie Nose to Tail](https://theblissfuldog.com/collections/dachshund-collection): Blissful Dog Dachshund Shop - balms for dry noses, rough paws, elbow calluses & skin issues, aromatherapy for stress & aging + shampoo to keep your Doxie clean.
   Updated: 2025-09-13T11:02:06Z
@@ -17371,7 +17371,7 @@
   Updated: 2025-09-27T11:03:18Z
   Total Products: 10
 - [The Blissful Dog Xoloitzcuintli Skin Care Collection](https://theblissfuldog.com/collections/xoloitzcuintli): The Blissful Dog Xoloitzcuintli Collection - Keep your Xolo looking and feeling their best with handcrafted, all natural; balms and shampoos for your Xolo.
-  Updated: 2025-09-29T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 8
 - [Shop The Blissful Dog Cocker Spaniel Collection for Nose to Tail Care](https://theblissfuldog.com/collections/cocker-spaniel-collection): The Blissful Dog Cocker Spaniel Shop Handcrafted balms for dry noses, rough paws, skin issues, aromatherapy for emotional issues, plus, complete shampoo line.
   Updated: 2025-09-27T11:03:18Z
@@ -17386,13 +17386,13 @@
   Updated: 2025-09-08T11:02:08Z
   Total Products: 5
 - [Blissful Dog Drama Queen & Rich Bitch Dog Shampoo For Your Doggie Diva](https://theblissfuldog.com/collections/rich-bitch-collection): Drama Queen & Rich Bitch Dog Shampoo for The Diva Dog who hires a dog to sniff butts for them. Moisturizing shampoo & luxury bar soap with G & PG-Rated Labels
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 35
 - [The Blissful Dog Stinky Filthy Dog Shampoo Gets Your Nasty Dog Clean](https://theblissfuldog.com/collections/stinky-filthy-dog-shampoo-soap-collection): The Blissful Dog Stinky Dog Collection Is your dog a stinky, filthy animal? From dirt to mud to SKUNKED, Stinky Filthy Dog Shampoo cleans your soiled dog FAST!
   Updated: 2025-08-17T11:01:54Z
   Total Products: 2
 - [Shampoos, Soap, Conditioners for Your Blissfully Clean Dog](https://theblissfuldog.com/collections/blissfully-clean-dog): Doesn't your dog deserve to be a blissfully clean dog? The Blissful Dog has dozens of shampoos, soaps, conditioners, sprays and more to pamper your pup!
-  Updated: 2025-09-28T11:02:10Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 57
 - [Gentle Touch Puppy Shampoo & Soap for Puppies, Seniors, Sensitive Dogs](https://theblissfuldog.com/collections/gentle-touch-collection): Gentle Touch Puppy Shampoo & Soap for puppies, senior dogs and dogs with more sensitive skin, tenderly cleans your best friend with no-tears sudsing.
   Updated: 2025-09-09T11:01:40Z
@@ -17470,13 +17470,13 @@
   Updated: 2025-09-28T11:02:10Z
   Total Products: 3
 - [Blissfully Brand New Products for Your Dog's Health & Happiness](https://theblissfuldog.com/collections/blissfully-brand-new): Blissfully Brand New Products for Your Dog's Health & Happiness - When was the last time someone was on their way over to visit and one of your dogs had a heinous, smelly accident? An awful eye-watering smelly mess! We can handle that disastrous event - FAST! Simply Everything Fresh Deodorizing Spray & NO H20 Shampoo.
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 32
 - [French Bulldog Nose Butter Collection](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection-1): French Bulldog Nose Butter Collection
   Updated: 2025-09-23T11:02:06Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-10-01T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
   Updated: 2025-09-18T11:02:00Z
@@ -17485,7 +17485,7 @@
   Updated: 2025-09-13T11:02:06Z
   Total Products: 34
 - [The AMP for Shopify Collection](https://theblissfuldog.com/collections/the-amp-for-shopify-collection): This is just a sample collection ----This collection is not published. Edit this collection Feel free to edit this collection and play around with it. If you need any help, just reach out to our team. We're excited to help you get started with AMP! Note: This is the only collection that will contain unpublished products from your Shopify Online Store. It is just for example purposes :) ---- Every product in the AMP by Shop Sheriff collection comes with the finest materials 14% suede 3% elastane 77% organic cotton
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 34
 - [Kuvasz Collection for Your Dog's Skin Care & Cleanliness](https://theblissfuldog.com/collections/kuvasz-collection): The Blissful Dog Kuvasz Collection showcases products featuring the Kuvasz on the label & those geared toward keeping these magnificent dogs looking their best.
   Updated: 2025-10-01T11:01:51Z
@@ -17537,16 +17537,16 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2024-08-27T20:32:54Z
   Total Products: 1
 - [Candy By The Cash Register | Dog Care With A Click](https://theblissfuldog.com/collections/candy-by-the-cash-register): Dog Care with a click is our version of how candy, magazines and must-have-stuff is right by the register in stores Wasn't it nice of them to put candy there?
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 33
 - [Blissfully Clean Dog Shampoos, Soaps & Conditioner](https://theblissfuldog.com/collections/shampoo-soap): Blissfully Clean Dog Shampoos, Soaps & Conditioner offers a complete range of shampoos, soap, and one heckuva conditioner to get your filthy dog clean.
-  Updated: 2025-09-28T11:02:10Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 51
 - [Specialty Dog Grooming Sprays](https://theblissfuldog.com/collections/specialty-sprays): Spritz & Spray The Funk Away Simply Everything Fresh Deodorizing Spray - Simply Fresh doesn't mask odors, it busts smells apart & gets your abode fresh-smelling FAST.
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-10-01T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-09-27T11:03:18Z
@@ -17573,13 +17573,13 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-09-21T11:02:06Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-01T11:01:51Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-09-27T11:03:18Z
   Total Products: 8
 - [Blissfully Fresh® Face Wash Keeps Your Dog Kissably Fresh](https://theblissfuldog.com/collections/fresh-face-wash-for-blissfully-clean-faces): Blissfully Fresh® Face Wash for Blissfully Clean, Kissably Cuddly, Fresh Faces -  when your dog needs a quick freshen-up to feel and smell great again
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 32
 - [Grooming](https://theblissfuldog.com/collections/grooming)
   Updated: 2024-08-27T20:32:55Z
@@ -17591,7 +17591,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2024-12-29T19:30:11Z
   Total Products: 4
 - [Rich Bitch Holiday Combo](https://theblissfuldog.com/collections/rich-bitch-holiday-combo): Naughty AND Nice! Is there someone on your shopping list who you KNOW will get a kick out of this shampoo? Everyone on my list would love it, so my shopping is done! Of course, it's a hardworking, professional shampoo, we just had a little fun with the name. We stumbled upon these squeaky toys and HAD to do something fun with them. Hence, our Rich Bitch Happy Holidays Gift Combo! Our Rich Bitch Holiday Combo Includes 4 oz Bottle of Rich Bitch Shampoo with your choice of Rich Bitches gracing the label 11.95 value3.5 oz Rich Bitch Soap in a black, luxury gift box with the same label as the Shampoo 12.95 valueA Fabulous Rich Bitch Canine Couture Squeaky Toy Handbag (retail averages $20.00 alone!) All this for $14.95. We're clutching our own pearls at this great bargain! Shipping is, as always, free! While supplies last, we don't have an infinite supply of the squeak toy handbag toys!
-  Updated: 2025-09-27T11:03:18Z
+  Updated: 2025-10-02T11:02:15Z
   Total Products: 26
 
 ## Blogs
