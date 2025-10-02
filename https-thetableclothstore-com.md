@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-02T00:00:38.216Z
+- Updated At: 2025-10-02T04:00:40.552Z
 
 ## Products
 
@@ -33738,6 +33738,9 @@
     Author: User
   - [Make Your Dinner Parties Stand Out with These Tablecloth Tips](https://thetableclothstore.com/blogs/news/make-your-dinner-parties-stand-out-with-these-tablecloth-tips): Make Your Dinner Parties Stand Out with These Tablecloth Tips
     Updated: 2025-09-30T03:35:11Z
+    Author: User
+  - [Comparing Tablecloth Materials: Linen vs Cotton vs Polyester](https://thetableclothstore.com/blogs/news/comparing-tablecloth-materials-linen-vs-cotton-vs-polyester): Comparing Tablecloth Materials: Linen vs Cotton vs Polyester
+    Updated: 2025-10-02T01:12:01Z
     Author: User
 
 ## Store Pages
