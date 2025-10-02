@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-02T00:00:57.841Z
+- Updated At: 2025-10-02T04:01:00.875Z
 
 ## Products
 
@@ -7715,7 +7715,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית Swingman לבנה שיקגו בולס](https://www.rsport.co.il/products/chb-sw-wht): גופיית Swingman לבנה של שיקגו בולס בעיצוב איכותי ונוח
-  Updated: 2025-10-01T17:40:21Z
+  Updated: 2025-10-02T00:00:38Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -7739,7 +7739,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית רטרו מייקל ג'ורדן 1997/98](https://www.rsport.co.il/products/chb-jr-9798): גופיית רטרו של מייקל ג'ורדן 1997/98, מתאימה לאוהדים ולאספנים כאחד. עשויה בד איכותי, מספקת נוחות ועמידות לאורך זמן ומאפשרת להרגיש את רוח הכדורסל האמיתית. העיצוב משלב את צבעי הקבוצה ומציע סטייל ייחודי שמושך תשומת לב במגרש ובחיי היום-יום. פריט חובה לכל חובב כדורסל וקולקציית רטרו.
-  Updated: 2025-10-01T17:35:52Z
+  Updated: 2025-10-02T00:02:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -7763,7 +7763,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית רטרו מייקל ג'ורדן שיקגו בולס](https://www.rsport.co.il/products/chb-jr-bulls): גופיית רטרו מייקל ג'ורדן עם עיצוב קלאסי של Chicago Bulls
-  Updated: 2025-10-01T17:40:21Z
+  Updated: 2025-10-02T00:03:32Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -7787,7 +7787,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית רטרו שחורה מייקל ג'ורדן](https://www.rsport.co.il/products/chb-jr-blk): גופיית רטרו שחורה של מייקל ג'ורדן בעיצוב אייקוני
-  Updated: 2025-10-01T17:40:21Z
+  Updated: 2025-10-02T00:05:04Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -7811,7 +7811,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית רטרו לבנה מייקל ג'ורדן 96/97](https://www.rsport.co.il/products/chb-jr-9697-wht): גופיית רטרו לבנה מייקל ג'ורדן מהעונה 96/97 בעיצוב נקי
-  Updated: 2025-10-01T17:40:21Z
+  Updated: 2025-10-02T00:06:20Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -7835,7 +7835,7 @@
     Availability: Available
     Price: ‏129.90 ‏₪ ILS
 - [גופיית רטרו אדומה מייקל ג'ורדן 96/97](https://www.rsport.co.il/products/chbret-jr-9697-red): גופיית רטרו אדומה של מייקל ג'ורדן בעונת 96/97 בעיצוב קלאסי
-  Updated: 2025-10-01T17:40:21Z
+  Updated: 2025-10-02T00:07:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -9485,7 +9485,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [מכנסי משחק שיקאגו בולס צבע אדום](https://www.rsport.co.il/products/chbulsjd-whtcl-pjd): מכנסי משחק אדומים של שיקגו בולס עם מותניים אלסטיות ושרוך להתאמה אישית. עשויים בד קל ונושם, מתאימים לאימון, משחק או שימוש יומיומי.
-  Updated: 2025-10-01T17:36:15Z
+  Updated: 2025-10-02T00:09:27Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -9506,7 +9506,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחורים שיקאגו בולס](https://www.rsport.co.il/products/chbulb-pajd): מכנסי משחק שחורים של שיקגו בולס עם עיצוב מינימליסטי ונקי, עשויים מבד נושם ועמיד לנוחות מקסימלית על המגרש ובחיי היום יום. הדגם מגיע ללא שרוך ומתאים לאוהדים שמחפשים שילוב של סטייל ופשטות.
-  Updated: 2025-10-01T17:35:50Z
+  Updated: 2025-10-02T00:10:35Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -28661,7 +28661,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_d6bc4ce6-488a-4a41-be20-927ffea9bede.jpg?v=1748506449
   Price: ‏80.00 ‏₪ ILS
 - [צעיף קבוצת מנצ'סטר סיטי תכלת](https://www.rsport.co.il/products/צעיף-קבוצת-מנצסטר-סיטי-תכלת): צעיף קבוצת מנצ'סטר סיטי בצבע תכלת, איכותי ונעים למגע, מושלם להראות תמיכה נלהבת בעונה הקרובה.
-  Updated: 2025-10-01T06:02:53Z
+  Updated: 2025-10-02T01:34:59Z
   Vendor: R:SPORT
   Product Type: צעיף
   Availability: Available
