@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-05-17T15:34:30Z
 - Contact Email: yoursportspt.store@gmail.com
-- Updated At: 2025-09-30T00:00:30.833Z
+- Updated At: 2025-10-02T00:00:30.674Z
 
 YourSportsPT is a Portuguese online fitness equipment store dedicated to home workout solutions. We specialize in quality fitness gear including yoga mats, resistance bands, foam rollers, balance balls, and professional exercise equipment. With affordable prices, fast shipping across Portugal and Europe, and dedicated Portuguese customer support, we help fitness enthusiasts achieve their goals from the comfort of their homes.
 
@@ -14,7 +14,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
 ## Products
 
 - [Bolsa Desportiva Portugal - Impermeável Fitness Ginásio](https://yoursportspt.com/products/waterproof-fitness-sports-bag): Bolsa desportiva impermeável 36-55L para ginásio e viagem. Material Oxford resistente, compartimentos. Envio €4.99 Portugal.
-  Updated: 2025-09-25T08:05:36Z
+  Updated: 2025-10-01T05:30:35Z
   Vendor: CJDropshipping
   Product Type: Gym Bags
   Availability: Available
@@ -80,7 +80,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/a795c38a-b682-4c96-95b4-7fa939ad7b02.jpg?v=1757858965
     Price: €29.99 EUR
 - [Toalha Desportiva Portugal - Microfibra Refrescante Ginásio](https://yoursportspt.com/products/microfiber-sports-towel): Toalha desportiva microfibra 30x100cm refrescante. Absorção rápida, antibacteriana. Ideal ginásio, yoga. Envio €4.99 Portugal.
-  Updated: 2025-09-25T07:12:41Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Training Accessories
   Availability: Available
@@ -130,7 +130,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/65273706880.jpg?v=1757859623
     Price: €8.99 EUR
 - [Relógio Fitness Portugal - Smartwatch Monitor Cardíaco](https://yoursportspt.com/products/fitness-watch-with-heart-rate-monitor): Smartwatch fitness com monitor cardíaco, contador passos, sono. Bluetooth, impermeável IPX7. Envio €4.99 Portugal.
-  Updated: 2025-09-25T07:58:40Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Fitness Technology
   Availability: Available
@@ -196,7 +196,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/1618494151844.jpg?v=1757860676
     Price: €26.99 EUR
 - [Roda Yoga - Wheel Flexibilidade Alongamento Portugal | YourSportsPT](https://yoursportspt.com/products/yoga-wheel-circle): Roda de yoga para melhorar flexibilidade e alongamentos profundos. Abre peito, alonga coluna. Ideal yoga avançada. Envio Portugal.
-  Updated: 2025-09-24T16:55:34Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Equipamento de Fitness
   Availability: Available
@@ -226,7 +226,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/9423274330427.jpg?v=1757861581
     Price: €41.99 EUR
 - [Bola Yoga Pilates - Exercício Equilíbrio Casa Portugal | YourSportsPT](https://yoursportspt.com/products/yoga-pilates-ball): Bola de yoga pilates para exercícios de equilíbrio e core. Fortalece músculos profundos, melhora postura. Ideal casa e estúdio. Portugal.
-  Updated: 2025-09-24T16:55:34Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Pilates Equipment
   Availability: Available
@@ -360,7 +360,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/591893482516.jpg?v=1757862831
     Price: €41.99 EUR
 - [Bandas Elásticas Resistência - Set Completo Treino Portugal | YourSportsPT](https://yoursportspt.com/products/complete-resistance-bands-set): Set completo de bandas elásticas para treino de resistência. Múltiplos níveis, portátil. Substitui ginásio completo. Envio Portugal.
-  Updated: 2025-09-24T16:55:35Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Resistance Training
   Availability: Available
@@ -386,7 +386,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/5a58b16a-5c39-4f32-ac3c-26ec2e46fab4.jpg?v=1757863628
     Price: €12.99 EUR
 - [Shaker Elétrico Proteína - Misturador Automático Portugal | YourSportsPT](https://yoursportspt.com/products/electric-protein-shaker-bottle): Shaker elétrico de proteína com mistura automática. Sem grumos, bateria recarregável. Ideal para suplementos e smoothies. Portugal.
-  Updated: 2025-09-24T16:55:35Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Nutrition Accessories
   Availability: Available
@@ -408,7 +408,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/bca94218-facb-4c44-9655-503003e0537e.jpg?v=1757864263
     Price: €39.99 EUR
 - [Corda Saltar Profissional - Equipamento Cardio Portugal | YourSportsPT](https://yoursportspt.com/products/professional-jump-rope): Corda de saltar profissional para treino cardio. Queima calorias rapidamente, melhora coordenação. Ajustável e durável. Portugal.
-  Updated: 2025-09-24T16:55:36Z
+  Updated: 2025-09-30T17:50:42Z
   Vendor: CJDropshipping
   Product Type: Cardio Equipment
   Availability: Available
@@ -430,7 +430,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/050a16da-80bb-4081-b86f-9091e2f087fe.jpg?v=1757864944
     Price: €37.99 EUR
 - [Luvas Ginásio Meio Dedo - Equipamento Fitness Portugal | YourSportsPT](https://yoursportspt.com/products/half-finger-gym-gloves): Luvas de ginásio meio dedo para proteção das mãos. Aderência superior, conforto máximo. Ideais para musculação e crossfit. Portugal.
-  Updated: 2025-09-24T16:55:36Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Equipamento de Fitness
   Availability: Available
@@ -484,7 +484,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/70377287007479.jpg?v=1757865323
     Price: €24.99 EUR
 - [Tapete Acupressão Agulhas - Alívio Dor Natural Portugal | YourSportsPT](https://yoursportspt.com/products/acupressure-massage-mat-with-needles-set): Tapete de acupressão com agulhas para alívio natural da dor. Reduz stress, melhora circulação. Terapia em casa. Envio rápido Portugal.
-  Updated: 2025-09-24T16:55:36Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Pilates Equipment
   Availability: Available
@@ -510,14 +510,14 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/1620885440934.jpg?v=1757869656
     Price: €44.99 EUR
 - [Bloco Yoga EVA - Acessório Yoga Posturas Portugal](https://yoursportspt.com/products/high-density-eva-yoga-block): Bloco de yoga EVA alta densidade para apoio em posturas. Leve, resistente e confortável. Melhora alinhamento e flexibilidade. Portugal.
-  Updated: 2025-09-24T16:55:37Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Pilates Equipment
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/3630527665570.jpg?v=1757870017
   Price: €12.99 EUR
 - [Foam Roller Portugal - Rolo Massagem Recuperação Muscular](https://yoursportspt.com/products/foam-massage-roller): Foam roller para recuperação muscular e fisioterapia. Alivia tensões, melhora flexibilidade. Ideal atletas. Envio €4.99 Portugal.
-  Updated: 2025-09-24T17:06:43Z
+  Updated: 2025-10-01T06:00:55Z
   Vendor: CJDropshipping
   Product Type: Pilates Equipment
   Availability: Available
@@ -567,7 +567,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/473706346314.jpg?v=1757870996
     Price: €26.99 EUR
 - [Tapete Yoga TPE Antiderrapante - Comprar Online Portugal](https://yoursportspt.com/products/tpe-yoga-mat-non-slip): Tapete de yoga TPE antiderrapante premium. Ideal para exercícios em casa, pilates e yoga. Envio rápido para Portugal. Qualidade garantida.
-  Updated: 2025-09-24T16:55:39Z
+  Updated: 2025-09-30T16:55:04Z
   Vendor: CJDropshipping
   Product Type: Pilates Equipment
   Availability: Available
@@ -649,7 +649,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/99b06a7d-3393-4b02-baf6-c88e3d56c795.jpg?v=1757871462
     Price: €99.99 EUR
 - [Barras Flexões Push-Up Portugal - Equipamento Fitness Casa](https://yoursportspt.com/products/push-up-handles-set): Barras flexões profissionais antiderrapantes. Fortalece peito, braços, core. Material resistente. Envio €4.99 Portugal. Treino casa.
-  Updated: 2025-09-24T17:06:33Z
+  Updated: 2025-10-01T06:00:20Z
   Vendor: CJDropshipping
   Product Type: Bodyweight Training
   Availability: Available
@@ -671,7 +671,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/173355872042_d5c00205-d9c6-4e2a-a6fc-842b2f7669cd.jpg?v=1757872092
     Price: €48.99 EUR
 - [Bola Equilíbrio Fitness Portugal - Treino Funcional Casa](https://yoursportspt.com/products/fitness-sports-bounce-trainer): Bola equilíbrio fitness para treino funcional casa. Fortalece core, melhora coordenação. Envio €4.99 Portugal. Qualidade premium.
-  Updated: 2025-09-24T17:02:34Z
+  Updated: 2025-09-30T16:55:05Z
   Vendor: CJDropshipping
   Product Type: Training Accessories
   Availability: Available
@@ -714,6 +714,9 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
 - [Recommended products (Seguno)](https://yoursportspt.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
   Updated: 2025-09-26T10:35:53Z
   Total Products: 15
+- [Promoções Equipamentos Desportivos Portugal - YourSportsPT](https://yoursportspt.com/collections/promocoes-ativas): Promoções especiais até 25% desconto em equipamentos fitness. Envio grátis €50+. Garantia 30 dias. Entrega rápida Portugal.
+  Updated: 2025-09-30T17:57:34Z
+  Total Products: 6
 
 ## Blogs
 
@@ -748,9 +751,19 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
 - [Track Order](https://yoursportspt.com/pages/track-order)
   Updated: 2025-05-17T15:55:40Z
 - [Your privacy choices](https://yoursportspt.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-03T18:03:17Z
-- [Sobre Nós](https://yoursportspt.com/pages/sobre-nos): Bem-vindos à YourSportsPT Somos uma loja portuguesa especializada em equipamentos de fitness e desporto de qualidade. A nossa missão é ajudar pesso...
-  Updated: 2025-09-03T20:12:13Z
+  Updated: 2025-09-30T16:46:17Z
+- [Política de Devoluções - 30 Dias Garantia | YourSportsPT](https://yoursportspt.com/pages/politica-de-devolucoes-e-reembolsos): 🔄 Política de Devoluções - YourSportsPT✅ Garantia de 30 DiasOferecemos 30 dias para devoluções a partir da data de entrega. Se não estiver 100% sat...
+  Updated: 2025-09-30T17:26:17Z
+- [Envios e Entregas Portugal - Grátis +€50 | YourSportsPT](https://yoursportspt.com/pages/envios-e-entregas): 🚚 Envios e Entregas - YourSportsPT📍 Enviamos para PortugalEntregamos em todo o território português continental e ilhas.⏰ Prazos de Entrega Portuga...
+  Updated: 2025-09-30T17:30:03Z
+- [Envios Internacionais - 37 Países | YourSportsPT](https://yoursportspt.com/pages/envios-internacionais): 🌍 Envios Internacionais - YourSportsPT📍 Países de EntregaEnviamos para 37 países incluindo toda a Europa, América do Norte, Ásia e Oceânia.⏰ Prazos...
+  Updated: 2025-09-30T17:31:40Z
+- [Devoluções Internacionais - 30 Dias Garantia Mundial | YourSportsPT](https://yoursportspt.com/pages/politica-de-devolucoes-internacional): 🔄 Política de Devoluções Internacional - YourSportsPT✅ Garantia de 30 Dias MundialOferecemos 30 dias para devoluções em todos os países onde enviam...
+  Updated: 2025-09-30T17:31:14Z
+- [Sobre Nós - YourSportsPT | Equipamento Fitness Portugal](https://yoursportspt.com/pages/sobre-nos-1): Bem-vindos à YourSportsPT 🏃♂️ A Sua Loja de Confiança para Equipamentos Desportivos Somos uma empresa portuguesa dedicada a fornecer equipamentos d...
+  Updated: 2025-09-30T17:29:35Z
+- [FAQ - Perguntas Frequentes | YourSportsPT](https://yoursportspt.com/pages/perguntas-frequentes-faq): ❓ Perguntas Frequentes - YourSportsPT🚚 ENVIOS E ENTREGASQuanto tempo demora a entrega?Portugal: 5-10 dias úteisEuropa: 7-15 dias úteisInternacional...
+  Updated: 2025-09-30T17:30:55Z
 
 ## Policies
 
