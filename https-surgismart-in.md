@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-01T04:00:31.678Z
+- Updated At: 2025-10-02T00:00:31.154Z
 
 ## Products
 
@@ -3447,6 +3447,13 @@
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
   Updated: 2025-09-29T11:03:34Z
   Total Products: 4
+
+## Blogs
+
+- [News](https://surgismart.in/blogs/news)
+  - [Surgismart: Your Trusted Surgical Shop in Chennai for Quality Medical Supplies](https://surgismart.in/blogs/news/surgical-shop-in-chennai): Surgismart: Your Trusted Surgical Shop in Chennai for Quality Medical Supplies
+    Updated: 2025-10-01T06:35:31Z
+    Author: Darshit Jain
 
 ## Store Pages
 
