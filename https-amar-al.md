@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-01T20:00:34.022Z
+- Updated At: 2025-10-02T04:00:34.021Z
 
 ## Products
 
@@ -1264,7 +1264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/672df60db6447_W_EN_10E14711_MELA_PROTECT.png?v=1757514255
   Price: ALL 3,592.00 ALL
 - [MELADERMIX PEEL   20% - Amar Pharma - Pharmaceris - Serum Fytyre](https://amar.al/products/meladermix-peel-20): Pharmaceris Meladermix Peel Exfoliating Pharmaceris Meladermix Peel Exfoliating është krijuar posaçërisht për të trajtuar njollat, tonin e pabarabartë të lëkurës, rrudhat e imëta. Formula shumë e përqendruar me acid glikolik, acid laktik dhe acid mandelik ka një efekt të provuar ndriçues të lëkurës që redukton njollat dhe stimulon rinovimin e qelizave. E bazuar në acide 20% ka një efekt në shumë nivele në procesin e melanogjenezës si eksfolimi dhe mbrojtja e lëkurës nga intensifikimi i njollave ekzistuese dhe parandalimi i formimit të njollave të reja. Zbardh njollat, barazon tonin e lëkurës dhe rikthen pigmentimin natyral. Redukton njollat. Stimulon rinovimin e qelizave. Redukton dukshmërinë e plagëve dhe poreve. E bën lëkurën më të lëmuar dhe më të fortë. Forcon barrierën mbrojtëse të lëkurës. Përbërësit aktivë Acidi Glikolik – Eksfolion qelizat e vdekura të epidermës. Acidi Laktik – Efekt eksfoljues, hidratues dhe rigjenerues. Rregullon pH dhe e mban atë në një nivel të ulët fiziologjik, duke ju mbrojtur kundër acarimeve dhe skuqjeve. Acidi Mandelik – Veti antibakteriale, anti-inflamatore, eksfolon butësisht qelizat e vdekura. Betaine – Efekte hidratuese, qetësuese, kundër plakjes dhe kundër rrudhave. Indikacionet Rekomandohet për përdorim (fytyrë, qafë, dekolte, krahë, duar) si trajtim për lëkurën me njolla dhe ton të pabarabartë të lëkurës, rrudha të imëta. Për përdorim në zonat e prekura nga ndryshimet e pigmentimit si p.sh. njollat e moshës, njollat post-inflamatore, njollat e diellit, njollat pas shtatëzanisë. Preparati tolerohet mirë për t’u përdorur si një trajtim intensiv eksfoljimi dhe zbardhues për njollat gjithashtu edhe për lëkurën e ndjeshme dhe tepër reaktive ndaj nikelit. Udhëzime mbi përdorimin Aplikojeni në zonat problematike të lëkurës 2-3 herë në javë në mbrëmje. Gjatë aplikimit të parë kryeni një test tolerance në një zonë të vogël të lëkurës. Aplikojeni në lëkurë të pastruar, duke shmangur zonën e syve dhe gojës. Gjatë trajtimit shmangni ekspozimin e drejtpërdrejtë të lëkurës në diell dhe përdorni fotoproteksion shumë të lartë. - Amar Pharma - Pharmaceris - Serum Fytyre
-  Updated: 2025-09-18T09:15:06Z
+  Updated: 2025-10-01T20:18:31Z
   Vendor: Pharmaceris
   Product Type: Serum Fytyre
   Availability: Available
@@ -1740,7 +1740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/89-RETINOL-NIGHT-CREAM-adult-acne-pure-RETINOL-0.3-40-ml-1.png?v=1757513957
   Price: ALL 3,367.70 ALL
 - [PURE-LUMINIUM - Amar Pharma - Pharmaceris - Shkumbë Pastuese](https://amar.al/products/pure-luminium): INDIKACIONEPër lëkurë me njolla të pigmentuara dhe ton të pabarabartë, me shenja plakjeje, si dhe lëkurë të shurdhër, njolla të errëta të shkaktuara nga ekspozimi në diell.I përshtatshëm për mbajtësit e lenteve të kontaktit.Pa sapun dhe alkool. VEPRIMShkuma largon në mënyrë efektive grimin dhe papastërtitë nga fytyra dhe zona e syve, duke ndriçuar lëkurën.Kombinimi i përbërësve që pengojnë melanogjenezën (niacinamide, azeloglicina dhe algat e ylberit) demonstron efikasitet të lartë në mbrëmje dhe zbardh tonin e lëkurës.Formula rikthen hidratimin optimal dhe e mban lëkurën të mos ndjehet e tendosur dhe e thatë.Formula ultra e butë nuk shkakton acarim ose tharje të tepërt të lëkurës. PËRBËRËSIT2% niacinamideazeloglicinaEkstrakti i Algave të Ylberit UDHËZIME PËR PËRDORIMAplikoni një sasi të vogël të shkumës në dorë dhe lani fytyrën.Më pas shpëlajeni me ujë. Përdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë mëngjesit dhe natës. SIGURIA DHE EFIKASITETIFORMULA E AVANCUAR E DIZAJUAR PËR LËKURË SHUMË TË NDJESHMETOLERANCË DHE EFEKTIVITET I LARTËTESTUAR OFTALMOLOGJIK DHE DERMATOLOGJIK - Amar Pharma - Pharmaceris - Shkumbë Pastuese
-  Updated: 2025-09-18T09:15:04Z
+  Updated: 2025-10-01T20:18:31Z
   Vendor: Pharmaceris
   Product Type: Shkumbë Pastuese
   Availability: Available
