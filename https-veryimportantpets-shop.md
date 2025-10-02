@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-02T00:01:15.334Z
+- Updated At: 2025-10-02T08:01:13.718Z
 
 ## Products
 
@@ -286,7 +286,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/tastybone-nylon-bone-lamb-xsmall-toy-dogs-chewing-toy-576379.png?v=1708687056
   Price: £6.71 GBP
 - [TastyBone Nylon Bone Lamb](https://veryimportantpets.shop/products/tasty-bone-lamb): Guess what? It's a bone, and it's really, really tasty… Like all of our nylon chews, this TastyBone product has been tested on the most vigorous chewers. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:28:00Z
+  Updated: 2025-10-02T04:13:09Z
   Vendor: TastyBone
   Product Type: Chewing Toy
   Availability: Available
@@ -3258,7 +3258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/100-cm-cat-tree-climbing-tower-activity-centre-scratching-tree-beige-116925.webp?v=1704738252
     Price: £44.99 GBP
 - [Cat Tree, Cat Tower for Kittens, Small Cat Condo with Rotatable Top Bar, Sisal Scratching Post, Tunnel, Dangling Balls](https://veryimportantpets.shop/products/cat-tree-cat-tower-for-kittens-small-cat-condo-with-rotatable-top-bar-sisal-scratching-post-tunnel-dangling-balls): Every cat and kitten needs a place to relax and be entertained. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:37Z
+  Updated: 2025-10-02T07:30:46Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3332,7 +3332,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-30T07:30:28Z
+  Updated: 2025-10-02T07:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3920,13 +3920,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/58cm-cat-scratching-post-with-covered-plush-play-balls-for-corner-walls-grey-123214.jpg?v=1700663662
   Price: £26.99 GBP
-- [255cm Floor to Ceiling Cat Tree with Scratching Posts, Height Adjustable Cat Tower with Hammock, House, Anti-tipping Kit, Perches, Toys, Grey](https://veryimportantpets.shop/products/255cm-floor-to-ceiling-cat-tree-with-scratching-posts-height-adjustable-cat-tower-with-hammock-house-anti-tipping-kit-perches-toys-grey): Say goodbye to ripped curtains, ruined carpets and damaged sofas and say hello to this PawHut floor-to-ceiling cat tree, designed to bring joy and adventure to pets. Shop online at Very Important Pets
-  Updated: 2025-09-28T23:30:56Z
-  Vendor: PawHut
-  Product Type: Scratching Tree
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/255cm-floor-to-ceiling-cat-tree-with-scratching-posts-height-adjustable-cat-tower-with-hammock-house-anti-tipping-kit-perches-toys-grey-768840.jpg?v=1700665239
-  Price: £62.99 GBP
 - [Three-Piece Wall-Mounted Cat Shelves, with Hammock, Ladder, Platforms, Scratching Post - Grey](https://veryimportantpets.shop/products/three-piece-wall-mounted-cat-shelves-with-hammock-ladder-platforms-scratching-post-grey): Bring in this practical PawHut cat shelf set, turning your wall into a comfortable pet haven. Shop online at Very Important Pets
   Updated: 2025-10-01T15:30:46Z
   Vendor: PawHut
@@ -3970,7 +3963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/floor-to-ceiling-cat-tree-6-tier-play-tower-climbing-activity-center-w-scratching-post-hammock-adjustable-height-230-250cm-beige-616727.jpg?v=1700655402
     Price: £71.99 GBP
 - [TV-Shaped Cat Scratcher - Fun & Durable for Indoor Cats | Very Important Pets](https://veryimportantpets.shop/products/tv-shaped-scratching-board-with-scratcher-catnip-toy-rat-cat-scratcher-for-indoor-cats-43-x-23-x-32-5cm): Channel your cat's scratching and play instincts with our TV-shaped scratcher. Perfect for indoor cats up to 3kg, it combines a hideout and a durable scratching board. Comes with a toy rat and catnip to entertain and attract your furry friend. Easy to assemble, eco-friendly, and keeps furniture safe.
-  Updated: 2025-09-30T23:30:25Z
+  Updated: 2025-10-02T07:30:47Z
   Vendor: PawHut
   Product Type: Cat Scratch Mat
   Availability: Available
@@ -4215,7 +4208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-pine-chicken-coop-with-nesting-box-chicken-coop-dark-grey-288626.jpg?v=1700651229
     Price: £134.99 GBP
 - [Large Rabbit Hutch with Run, Outdoor Bunny Cage, with Tray, Ramp - Light Grey](https://veryimportantpets.shop/products/large-rabbit-hutch-with-run-outdoor-bunny-cage-with-tray-ramp-light-grey): Need a safe home for small pets? This spacious PawHut rabbit hutch has it all. Shop online at Very Important Pets
-  Updated: 2025-09-29T23:30:56Z
+  Updated: 2025-10-02T07:30:47Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4499,7 +4492,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:46Z
+  Updated: 2025-10-02T07:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -10905,7 +10898,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/natures-menu-country-hunter-dog-tins-pheasant-goose-6x600g-adult-wet-640293.jpg?v=1741090484
   Price: £24.08 GBP
 - [Natures Menu Country Hunter Dog Tins Rabbit with Cranberry 6x600g](https://veryimportantpets.shop/products/natures-menu-country-hunter-dog-tins-rabbit-with-cranberry-6x600g): Natures Menu Country Hunter Rabbit with Cranberry is a complete grain free complete and balanced recipe suiable for all dogs. Shop online at Very Important Pets
-  Updated: 2025-09-24T13:29:08Z
+  Updated: 2025-10-02T03:31:15Z
   Vendor: Natures Menu
   Product Type: Adult Wet
   Availability: Available
@@ -14312,7 +14305,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-calm-focused-dog-supplement-500g-907237.jpg?v=1731553570
   Price: £19.16 GBP
 - [Versele-Laga Oropharma Ear Care Lotion for Cats and Dogs 3x](https://veryimportantpets.shop/products/versele-laga-oropharma-ear-care-ear-lotion-cat-dog-3-x-150ml): Soothe your pet's ears with Versele-Laga Oropharma Ear Care Lotion. Gentle formula infused with violets removes dirt and earwax effectively.
-  Updated: 2025-09-22T18:54:04Z
+  Updated: 2025-10-02T01:44:46Z
   Vendor: Versele Laga
   Product Type: 
   Availability: Available
@@ -14735,14 +14728,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-turkey-duck-puppy-recipe-10-x-150g-trays-puppyjunior-wet-952973.png?v=1748278380
   Price: £15.59 GBP
 - [Alpha Cat Mix with Fish - Complete Nutrition for Cats](https://veryimportantpets.shop/products/alpha-cat-mix-fish-10-kg): Provide your cat with complete nutrition in every meal with Alpha Cat Mix with Fish. 100% balanced formula for all the protein, vitamins, and minerals needed.
-  Updated: 2025-10-01T19:04:24Z
+  Updated: 2025-10-02T07:06:18Z
   Vendor: Alpha
   Product Type: Adult Cat Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/alpha-cat-mix-fish-10-kg-adult-cat-dry-522644.jpg?v=1702498209
   Price: £27.46 GBP
 - [Alpha Cat Mix with Meat 10kg - Complete Nutrition for Cats](https://veryimportantpets.shop/products/alpha-cat-mix-meat-10-kg): Alpha Cat Mix with Meat provides complete nutrition for your cat with quality ingredients and added Taurine for optimal digestion. 32% Protein.
-  Updated: 2025-10-01T18:54:30Z
+  Updated: 2025-10-02T06:55:38Z
   Vendor: Alpha
   Product Type: Adult Cat Dry
   Availability: Available
@@ -15668,7 +15661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/go-cat-tuna-herring-veg-adult-cat-dry-10-kg-965546.jpg?v=1702498913
     Price: £31.21 GBP
 - [Good Girl Teaser Laser Mouse x6](https://veryimportantpets.shop/products/good-girl-teaser-laser-mouse-x6): The Good Girl Laser Mouse Teaser Cat Toy is a fun interactive pet toy for your feline friend. Shop online at Very Important Pets
-  Updated: 2025-09-29T09:28:28Z
+  Updated: 2025-10-02T03:53:41Z
   Vendor: Good Girl
   Product Type: Cat Toys
   Availability: Available
@@ -16005,7 +15998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-adult-cat-hairball-turkey-adult-cat-dry-4-kg-818161.jpg?v=1702499160
     Price: £43.46 GBP
 - [James Wellbeloved Fish Adult Dry Cat Food for Weight Control](https://veryimportantpets.shop/products/james-wellbeloved-adult-cat-light-fish): James Wellbeloved Adult Fish Dry Cat Food Light is a hypoallergenic option for weight control in adult cats. Features sustainably sourced fish and rice.
-  Updated: 2025-09-30T21:10:26Z
+  Updated: 2025-10-02T06:00:35Z
   Vendor: James Wellbeloved
   Product Type: Diet Cat Food
   Availability: Available
@@ -22193,7 +22186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/yakers-cranberry-dog-chew-dog-chew-xl-704037.jpg?v=1708463302
     Price: £10.07 GBP
 - [Alpha Adult Performance Dry Dog Food - Endurance & Strength](https://veryimportantpets.shop/products/alpha-adult-performance-15kg): Alpha Adult Performance Dry Dog Food: High-protein feed for working dogs. No artificial colours or flavours. Rich in chicken & rice, VAT free.
-  Updated: 2025-10-01T18:12:17Z
+  Updated: 2025-10-02T06:11:25Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -22458,7 +22451,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/animology-essentials-tutti-frutti-shampoo-for-dogs-5x250ml-shampoo-conditioners-979697.jpg?v=1711735581
   Price: £12.18 GBP
 - [Animology Essentials Olive & Walnut Shampoo - All coat types](https://veryimportantpets.shop/products/animology-essentials-olive-walnut-shampoo): Keep your dog's coat clean and fresh with Animology Essentials Olive & Walnut shampoo. Suitable for all breeds and coat types. Built-in conditioner.
-  Updated: 2025-09-22T18:52:09Z
+  Updated: 2025-10-02T07:57:33Z
   Vendor: Animology
   Product Type: 
   Availability: Available
@@ -23327,7 +23320,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/dr-john-hypoallergenic-chicken-with-oats-dry-dog-food-working-dry-125-kg-493162.jpg?v=1725782591
   Price: £20.81 GBP
 - [Alpha Junior & Sporting Food for Junior & Adult Working Dogs](https://veryimportantpets.shop/products/alpha-adult-junior-sporting-dry-dog-food): Alpha Junior & Sporting Dog Food: Complete hypoallergenic food for junior dogs and working adults. No artificial colours, flavours, soya, or dairy.
-  Updated: 2025-10-01T18:01:17Z
+  Updated: 2025-10-02T05:56:10Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -24116,8 +24109,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-06-30T11:51:20Z
   Total Products: 11
 - [Ultimate Cat Care Collection, Shop Food, Toys, Health & More](https://veryimportantpets.shop/collections/cat): Discover high-quality cat supplies for your Very Important Pets, featuring a wide range of cat foods, treats, toys, healthcare products, and accessories.
-  Updated: 2025-10-01T15:31:18Z
-  Total Products: 467
+  Updated: 2025-10-02T07:31:19Z
+  Total Products: 466
 - [e-Gift Cards - Very Important Pets | Shop](https://veryimportantpets.shop/collections/gift-cards): e-Gift Cards - Very Important Pets | Shop
   Updated: 2025-01-13T21:04:18Z
   Total Products: 1
@@ -24134,8 +24127,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-01T17:55:50Z
   Total Products: 144
 - [PawHut - Quality Pet Products for Home and Outdoors](https://veryimportantpets.shop/collections/pawhut): PawHut - Quality Pet Products for Home and Outdoors - Very Important Pets | Shop
-  Updated: 2025-10-01T15:31:18Z
-  Total Products: 362
+  Updated: 2025-10-02T07:31:19Z
+  Total Products: 361
 - [Small Animal Supplies - Foods, Habitats, Healthcare | VIPs](https://veryimportantpets.shop/collections/small-pets): Shop for premium small animal products at Very Important Pets. Find food, healthcare, toys, bedding, and more for your pet's health and happiness.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
@@ -24527,14 +24520,14 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-30T21:10:38Z
   Total Products: 3
 - [Scratching and Furniture - Very Important Pets | Shop](https://veryimportantpets.shop/collections/scratching-and-furniture): Scratching and Furniture - Very Important Pets | Shop
-  Updated: 2025-10-01T15:31:13Z
-  Total Products: 84
+  Updated: 2025-10-02T07:31:19Z
+  Total Products: 83
 - [Scratching Posts - Very Important Pets | Shop](https://veryimportantpets.shop/collections/scratching-posts): Scratching Posts - Very Important Pets | Shop
   Updated: 2025-09-29T13:29:00Z
   Total Products: 6
 - [Cat Scratching Trees & Towers | Very Important Pets](https://veryimportantpets.shop/collections/cat-scratching-trees-towers): Cat Scratching Trees and Towers - Very Important Pets | Shop
-  Updated: 2025-09-29T15:31:27Z
-  Total Products: 57
+  Updated: 2025-10-02T07:31:19Z
+  Total Products: 56
 - [Cat Scratching Beds & Mats](https://veryimportantpets.shop/collections/cat-scratching-beds-mats)
   Updated: 2025-10-01T15:31:13Z
   Total Products: 1
@@ -24791,8 +24784,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-01T20:57:57Z
-  Total Products: 2323
+  Updated: 2025-10-02T07:31:19Z
+  Total Products: 2322
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
   Total Products: 14
