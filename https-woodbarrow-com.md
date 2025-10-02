@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-10-02T00:00:32.498Z
+- Updated At: 2025-10-02T08:00:31.126Z
 
 ## Products
 
@@ -17,8 +17,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/2377/0938/files/ChatGPT_Image_Aug_30_2025_12_30_26_PM.png?v=1756542695
   Price: AED 0.00 AED
-- [Elegant QR Code Stand - Acrylic and Wood | Made in UAE](https://woodbarrow.com/products/elegant-qr-code-stand-acrylic-and-wood): Enhance your workspace or retail environment with our Elegant QR Code Stand, expertly crafted from a premium blend of acrylic and wood. Measuring 10cm x 13cm, this stylish and durable stand is perfect for displaying QR codes, menus, business cards, or promotional materials with a touch of sophistication. Key Features: Premium Materials: Made from high-quality acrylic and sustainably sourced wood, combining modern aesthetics with natural beauty. Perfect Size: Compact dimensions of 10cm x 13cm, ideal for desks, counters, and tabletops. Versatile Use: Suitable for businesses, cafes, restaurants, and home offices to display QR codes, menus, and more. Sturdy and Durable: Designed to withstand daily use while maintaining its elegant appearance. Upgrade your display solutions with our Elegant QR Code Stand. Shop now at Wood Barrow and experience the perfect fusion of functionality and design.
-  Updated: 2025-09-30T13:44:06Z
+- [QR Code Stand - Acrylic and Wood - Made in UAE](https://woodbarrow.com/products/elegant-qr-code-stand-acrylic-and-wood): Discover the QR Code Stand, crafted from premium acrylic and wood. Measuring 10cm x 13cm, this stylish QR code stand enhances any display while ensuring easy access to your digital content.
+  Updated: 2025-10-02T07:43:32Z
   Vendor: Wood Barrow
   Product Type: QR Code Box
   Availability: Available
