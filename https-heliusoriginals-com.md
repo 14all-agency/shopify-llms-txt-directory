@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-10-01T20:00:28.410Z
+- Updated At: 2025-10-02T04:00:28.794Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $189.99 USD
 - [LuxeFume | Master the Art of Smoke-Infused Cocktails](https://heliusoriginals.com/products/luxefume): Elevate cocktails and cuisine with the LuxeFume Set. Handcrafted smoker kit with torch and reclaimed wood shavings for luxury mixology at home.
-  Updated: 2025-10-01T08:25:37Z
+  Updated: 2025-10-02T01:53:30Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
