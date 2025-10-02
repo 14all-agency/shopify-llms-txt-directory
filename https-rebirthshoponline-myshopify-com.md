@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-02T17:24:18.309Z
+- Updated At: 2025-10-02T20:00:27.638Z
 
 ## Products
 
@@ -2326,118 +2326,118 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/27fd36de-9c07-4202-ab0a-b670d2dd7550.webp?v=1759168777
     Price: $29.15 USD
 - [Sarcasm University Fleece Hoodie |](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie): Wrap yourself in comfort with this cozy fleece hoodie, perfect for lounging or casual outings. The soft hand-feel of the fabric provides a gentle touch against your skin, while the spacious kangaroo pocket keeps your hands warm and your essentials close. This hoodie emits a relaxed vibe, ideal for casual gatherings, movie nights, or outdoor adventures. It’s a fun addition for students, humor lovers, or anyone who enjoys expressing their personality through fashion. Suitable for birthdays, back-to-school celebrations, or simply treating yourself, this fleece hoodie promises warmth and style all year round.Product features- Adjustable hood with drawstrings for a customizable fit.- Twill neck tape adds comfort and durability.- Spacious kangaroo pocket keeps hands warm.- Soft fabric composition for a luxurious feel.- Medium-heavy fabric ensures warmth and quality.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-09-30T07:42:48Z
+  Updated: 2025-10-02T18:28:02Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
   - [XS / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407711995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [S / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407744763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [S / Red](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407777531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759174965
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759429667
     Price: $42.57 USD
   - [S / Pale Pink](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407810299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759174959
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [S / Sports Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407843067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759174962
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [M / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407875835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [M / Army Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407908603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2660408301225633034_2048.jpg?v=1759174961
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2660408301225633034_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [M / Red](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407941371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759174965
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759429667
     Price: $42.57 USD
   - [M / Pale Pink](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560407974139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759174959
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [M / Sports Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408006907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759174962
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [M / Lilac](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408039675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11245690358068429642_2048.jpg?v=1759174964
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11245690358068429642_2048.jpg?v=1759429667
     Price: $42.57 USD
   - [L / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408072443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [L / Army Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408105211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2660408301225633034_2048.jpg?v=1759174961
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2660408301225633034_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [L / Red](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408137979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759174965
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759429667
     Price: $42.57 USD
   - [L / Pale Pink](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408170747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759174959
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [L / Sports Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408203515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759174962
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [XL / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408236283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [XL / Army Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408269051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2660408301225633034_2048.jpg?v=1759174961
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2660408301225633034_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [XL / Red](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408301819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759174965
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759429667
     Price: $42.57 USD
   - [XL / Pale Pink](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408334587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759174959
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759429665
     Price: $42.57 USD
   - [XL / Sports Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408367355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759174962
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759429666
     Price: $42.57 USD
   - [2XL / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408400123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $46.10 USD
   - [2XL / Red](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408432891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759174965
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/10391344984846442426_2048.jpg?v=1759429667
     Price: $46.10 USD
   - [2XL / Pale Pink](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408465659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759174959
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759429665
     Price: $46.10 USD
   - [2XL / Sports Green](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408498427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759174962
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5230270215357429107_2048.jpg?v=1759429666
     Price: $46.10 USD
   - [3XL / Heather Grey](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408531195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759174957
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7899322479833843024_2048.jpg?v=1759429665
     Price: $48.08 USD
   - [3XL / Pale Pink](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie?variant=47560408563963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759174959
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9905119103452756131_2048.jpg?v=1759429665
     Price: $48.08 USD
 - [Feminist Crewneck Sweatshirt](https://rebirthshoponline.myshopify.com/products/feminist-crewneck-sweatshirt): Embrace comfort and style with this Lightweight Crewneck Sweatshirt. Perfect for casual outings or cozy nights in, this sweatshirt radiates a relaxed yet chic vibe. Made of 100% ring-spun cotton, it feels soft against your skin while offering a breathable fit. Ideal for anyone who enjoys a laid-back lifestyle, it makes a perfect gift for friends, family, or even yourself. This sweatshirt is great for various occasions, including birthdays, holidays, and casual gatherings with friends. It makes a bold statement while keeping you comfortable, making it the ideal piece for any wardrobe.Product features- 100% ring-spun cotton for a smooth, soft feel.- 1x1 ribbed cuffs and bottom hem for a snug fit.- Shoulder and neck tape to stabilize seams.- Seamless design reduces fabric waste and enhances style.- Light fabric weighs only 6.4 oz/yd² for all-day comfort.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-09-30T08:05:24Z
@@ -2939,21 +2939,195 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15037823125549178603_2048.jpg?v=1759184730
     Price: $69.68 USD
+- [Love Every Day Hoodie](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie): This Lightweight Hooded Sweatshirt embodies casual elegance and everyday comfort. Made from 100% ring-spun cotton, it feels soft against the skin while providing a durable fit perfect for various activities. The vibrant lavender hue and bold ‘LOVE every day’ print bring a cheerful vibe, ideal for spreading positivity wherever you go. Perfect for lounging at home, casual outings, or cozy gatherings with friends. Ideal for those who embrace love and positivity in their lives, this sweatshirt makes a great gift for birthdays, Valentine’s Day, or just to uplift someone's spirits. With its relaxed fit and thoughtful design details, it seamlessly balances style and comfort for anyone looking to express their warmest sentiments.Product features- Made from 100% ring-spun cotton for a soft, durable feel.- Jersey-lined hood with stylish flatcord adds detail.- Rolled forward shoulders enhance comfort and mobility.- Relaxed fit for a casual, comfortable wear experience.- Sustainable production with OEKO-TEX certified dyes.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
+  Updated: 2025-10-02T19:42:49Z
+  Vendor: Printify
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+  - [S / Black](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395107067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15896694503761490927_2048.jpg?v=1759431094
+    Price: $54.99 USD
+  - [S / Blue Jean](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395139835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15703232375384458148_2048.jpg?v=1759431084
+    Price: $54.99 USD
+  - [S / Butter](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395172603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6582542163079851735_2048.jpg?v=1759431067
+    Price: $54.99 USD
+  - [S / Grey](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395205371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8801018779999903677_2048.jpg?v=1759431075
+    Price: $54.99 USD
+  - [S / Neon Violet](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395238139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+    Price: $54.99 USD
+  - [S / Peachy](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395270907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17360754817673398137_2048.jpg?v=1759431052
+    Price: $54.99 USD
+  - [S / Pepper](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395303675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
+    Price: $54.99 USD
+  - [M / Black](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395336443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15896694503761490927_2048.jpg?v=1759431094
+    Price: $54.99 USD
+  - [M / Blue Jean](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395369211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15703232375384458148_2048.jpg?v=1759431084
+    Price: $54.99 USD
+  - [M / Butter](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395401979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6582542163079851735_2048.jpg?v=1759431067
+    Price: $54.99 USD
+  - [M / Grey](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395434747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8801018779999903677_2048.jpg?v=1759431075
+    Price: $54.99 USD
+  - [M / Neon Violet](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395467515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+    Price: $54.99 USD
+  - [M / Peachy](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395500283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17360754817673398137_2048.jpg?v=1759431052
+    Price: $54.99 USD
+  - [M / Pepper](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395533051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
+    Price: $54.99 USD
+  - [L / Black](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395565819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15896694503761490927_2048.jpg?v=1759431094
+    Price: $54.99 USD
+  - [L / Blue Jean](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395598587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15703232375384458148_2048.jpg?v=1759431084
+    Price: $54.99 USD
+  - [L / Butter](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395631355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6582542163079851735_2048.jpg?v=1759431067
+    Price: $54.99 USD
+  - [L / Grey](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395664123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8801018779999903677_2048.jpg?v=1759431075
+    Price: $54.99 USD
+  - [L / Neon Violet](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395696891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+    Price: $54.99 USD
+  - [L / Peachy](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395729659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17360754817673398137_2048.jpg?v=1759431052
+    Price: $54.99 USD
+  - [L / Pepper](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395762427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
+    Price: $54.99 USD
+  - [XL / Black](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395795195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15896694503761490927_2048.jpg?v=1759431094
+    Price: $54.99 USD
+  - [XL / Blue Jean](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395827963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15703232375384458148_2048.jpg?v=1759431084
+    Price: $54.99 USD
+  - [XL / Butter](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395860731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6582542163079851735_2048.jpg?v=1759431067
+    Price: $54.99 USD
+  - [XL / Grey](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395893499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8801018779999903677_2048.jpg?v=1759431075
+    Price: $54.99 USD
+  - [XL / Neon Violet](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395926267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+    Price: $54.99 USD
+  - [XL / Peachy](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395959035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17360754817673398137_2048.jpg?v=1759431052
+    Price: $54.99 USD
+  - [XL / Pepper](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575395991803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
+    Price: $54.99 USD
+  - [2XL / Black](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396024571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15896694503761490927_2048.jpg?v=1759431094
+    Price: $54.99 USD
+  - [2XL / Blue Jean](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396057339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15703232375384458148_2048.jpg?v=1759431084
+    Price: $54.99 USD
+  - [2XL / Butter](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396090107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6582542163079851735_2048.jpg?v=1759431067
+    Price: $54.99 USD
+  - [2XL / Grey](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396122875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8801018779999903677_2048.jpg?v=1759431075
+    Price: $54.99 USD
+  - [2XL / Neon Violet](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396155643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+    Price: $54.99 USD
+  - [2XL / Peachy](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396188411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17360754817673398137_2048.jpg?v=1759431052
+    Price: $54.99 USD
+  - [2XL / Pepper](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396221179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
+    Price: $54.99 USD
+  - [3XL / Black](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396253947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15896694503761490927_2048.jpg?v=1759431094
+    Price: $54.99 USD
+  - [3XL / Blue Jean](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396286715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15703232375384458148_2048.jpg?v=1759431084
+    Price: $54.99 USD
+  - [3XL / Butter](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396319483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6582542163079851735_2048.jpg?v=1759431067
+    Price: $54.99 USD
+  - [3XL / Grey](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396352251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8801018779999903677_2048.jpg?v=1759431075
+    Price: $54.99 USD
+  - [3XL / Neon Violet](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396385019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3014095173307902557_2048.jpg?v=1759431042
+    Price: $54.99 USD
+  - [3XL / Peachy](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396417787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17360754817673398137_2048.jpg?v=1759431052
+    Price: $54.99 USD
+  - [3XL / Pepper](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie?variant=47575396450555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
+    Price: $54.99 USD
 
 ## Collections
 
 - [Home page](https://rebirthshoponline.myshopify.com/collections/frontpage)
-  Updated: 2025-10-02T17:16:23Z
-  Total Products: 7
+  Updated: 2025-10-02T18:27:41Z
+  Total Products: 8
 - [Men's Apparel](https://rebirthshoponline.myshopify.com/collections/mens-apparel)
-  Updated: 2025-10-02T17:16:26Z
-  Total Products: 10
+  Updated: 2025-10-02T18:27:40Z
+  Total Products: 9
 - [Accessories](https://rebirthshoponline.myshopify.com/collections/accessories)
   Updated: 2025-10-02T17:16:27Z
   Total Products: 6
 - [Women's Hoodies](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt)
-  Updated: 2025-10-02T17:16:28Z
-  Total Products: 2
+  Updated: 2025-10-02T18:50:32Z
+  Total Products: 3
 - [Hats](https://rebirthshoponline.myshopify.com/collections/hats)
   Updated: 2025-10-02T17:16:30Z
   Total Products: 3
@@ -2970,10 +3144,10 @@
   Updated: 2025-10-02T17:16:36Z
   Total Products: 5
 - [Women's Apparel](https://rebirthshoponline.myshopify.com/collections/womens-apparel)
-  Updated: 2025-10-02T17:16:38Z
-  Total Products: 7
-- [Women's Sweatshirt](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt-1)
-  Updated: 2025-09-29T22:23:42Z
+  Updated: 2025-10-02T18:50:32Z
+  Total Products: 8
+- [Women's Sweatshirts](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt-1)
+  Updated: 2025-10-02T18:27:51Z
   Total Products: 5
 
 ## Store Pages
