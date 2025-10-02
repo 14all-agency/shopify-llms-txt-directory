@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-02T00:00:44.567Z
+- Updated At: 2025-10-02T04:00:44.089Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -10144,7 +10144,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Grey Baroque Pearl Necklace | Rose Gold | Top Quality | Lily Blanche](https://www.lilyblanche.com/products/baroque-pearl-necklace-grey-rose-gold): This stunning real freshwater baroque pearl necklace features a large cultured black keshi pearl in a rose gold vermeil setting. Our sustainably sourced and undyed pearl necklaces are renowned for their lustre and luminosity. Next-day delivery is available. Gift one today and receive a free jewellery care kit worth £20
-  Updated: 2025-10-01T07:36:57Z
+  Updated: 2025-10-02T03:59:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
