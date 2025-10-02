@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-02T04:00:36.803Z
+- Updated At: 2025-10-02T08:00:36.409Z
 
 ## Products
 
@@ -3816,7 +3816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Surfmist-Laundryup_70dde68c-1b23-4473-adca-f7d7e02ab5a2.jpg?v=1746478978
     Price: $181.00 NZD
 - [SwiftDry Loft Pulley Airer White (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-urban-loft-pulley-airer): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS White powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: White (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTES A longer 15 meter sash cord can be purchased if you have a ceiling higher than 3 meters
-  Updated: 2025-09-23T12:41:36Z
+  Updated: 2025-10-02T05:22:41Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -4350,112 +4350,112 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/RollTopBreadBin-White-8710755306020Brabantia_300dpi_2000x2000px_9_NR-21282.jpg?v=1756436710
   Price: $149.99 NZD
 - [Brabantia Profile Can Opener - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-can-opener-matt-steel): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-28T20:37:12Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCanOpener-MattSteel-8710755250187Brabantia_300dpi_2000x2000px_9_NR-19669.jpg?v=1756767159
   Price: $39.95 NZD
 - [Brabantia Profile Cheese Slicer - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-cheese-slicer-matt-steel): Cheese louise! This Brabantia Cheese Slicer is perfect for slicing all sorts of cheese. This sleek and stylish slicer has a sharp blade and great grip - made for easy slicing.
-  Updated: 2025-09-28T20:37:12Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCheeseSlicer-MattSteel-8710755250200Brabantia_96dpi_2000x2000px_9_NR-19671.jpg?v=1756436090
   Price: $29.95 NZD
 - [Brabantia Profile Pizza/Pastry Cutter - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-pizza-pastry-cutter-matt-steel): The wheel reinvented! This Brabantia Pizza/Pastry Cutter cuts your pizza and pastry into perfect parts. The stainless-steel wheel is large and sharp - made for easy cutting, even thick bakes.
-  Updated: 2025-09-28T20:37:11Z
+  Updated: 2025-10-02T04:07:14Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePizza_PastryCutter-MattSteel-8710755250446Brabantia_300dpi_2000x2000px_9_NR-19702.jpg?v=1756435812
   Price: $27.95 NZD
 - [Brabantia Profile Potatoe Masher - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-potatoe-masher-matt-steel): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-09-28T20:37:11Z
+  Updated: 2025-10-02T04:07:16Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePotatoMasher-MattSteel-8710755250484Brabantia_300dpi_2000x2000px_9_NR-19706.jpg?v=1756435278
   Price: $34.95 NZD
 - [Brabantia Profile Spatula Large Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-large-nonstick): Eggs, meat, oven dishes… Flip them and serve them with this Brabantia Non-Stick Large Spatula. This sturdy spatula has smart slots through which fat can easily run off. And it's made of resilient nylon, so safe for your non-stick cookware too. A turn for the better!
-  Updated: 2025-09-28T20:37:14Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Large_Non-Stick-MattSteel-8710755250705Brabantia_300dpi_2000x2000px_9_NR-19742.jpg?v=1756435037
   Price: $24.95 NZD
 - [Brabantia Profile Spatula Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-matt-steel): Eggs, meat, pancakes… Flip 'em and serve 'em with this Brabantia Profile Spatula, Small. This Matt Steel spatula has slots, so fat runs off easily. And it has no seams or welds, so it is also easy to clean and hygienic. A super spatula!
-  Updated: 2025-09-28T20:37:11Z
+  Updated: 2025-10-02T04:07:16Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small-MattSteel-8710755250729Brabantia_300dpi_2000x2000px_9_NR-19745.jpg?v=1756434802
   Price: $27.95 NZD
 - [Brabantia Profile Spatula Small Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-nonstick): Flipping a burger or spreading veggies in the pan? Use this Small Non-Stick Brabantia Spatula. This spatula has smart slots through which fat can easily run off - great for serving. And it's made of resilient nylon, so safe for your cookware. Start the flipping.
-  Updated: 2025-09-28T20:37:11Z
+  Updated: 2025-10-02T04:07:16Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small_Non-Stick-MattSteel-8710755250743Brabantia_300dpi_2000x2000px_9_NR-19748.jpg?v=1756434570
   Price: $21.95 NZD
 - [Brabantia Profile Serving Spoon Nonstick -Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-serving-spoon-nonstick): Get everything out of great diners and your pans. Meet the Brabantia Non-Stick Serving Spoon that lets you serve your vegetables and more with ease. Made of non-stick and non-scratch nylon, with a long handle. A stirring spoon!
-  Updated: 2025-09-28T20:37:12Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileServingSpoon_NonStick-MattSteel-8710755250828Brabantia_300dpi_2000x2000px_9_NR-19764.jpg?v=1756434339
   Price: $24.95 NZD
 - [Brabantia Profile Whisk Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-whisk-small-matt-steel): Whip up your style with this unbeatable yet small whisk. This Brabantia Whisk Small fits a glass, cup or small bowl with ease. A great little helper!
-  Updated: 2025-09-28T20:37:11Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileWhisk_Small-MattSteel-8710755250880Brabantia_300dpi_2000x2000px_9_NR-19768.jpg?v=1756433360
   Price: $24.95 NZD
 - [Brabantia Essential Peeler - White](https://everydayhome.co.nz/products/brabantia-essential-peeler-white): Cooking is even more fun with this Brabantia Food Peeler. It skins fruits, potatoes and other veggies easily and very thin. Very a-peeling!
-  Updated: 2025-09-28T20:37:12Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineFoodPeeler-White-8710755400308Brabantia_300dpi_2000x2000px_9_NR-4548.jpg?v=1756433145
   Price: $17.95 NZD
 - [Brabantia Essential Ice Cream Scoop - White](https://everydayhome.co.nz/products/brabantia-essential-ice-cream-scoop-white): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
-  Updated: 2025-09-28T20:37:10Z
+  Updated: 2025-10-02T04:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineIceCreamScoop-White-8710755400346Brabantia_300dpi_2000x2000px_9_NR-4550.jpg?v=1756432955
   Price: $29.95 NZD
 - [Brabantia Essential Silicone Pastry Brush Large - White](https://everydayhome.co.nz/products/brabantia-essential-silicone-pastry-brush-large-white): With this Brabantia Pastry Brush you turn your bakes into works of art. Made of soft silicone, this brush is ideal for buttering baking tins, glazing cakes, oiling veggies or basting meat. Boy, what a brush!
-  Updated: 2025-09-28T20:37:12Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLinePastryBrush-White-8710755400384Brabantia_300dpi_2000x2000px_9_NR-4551.jpg?v=1756432726
   Price: $19.95 NZD
 - [Brabantia Essential Potatoe Masher - White](https://everydayhome.co.nz/products/brabantia-essential-potatoe-masher-white): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-09-28T20:37:11Z
+  Updated: 2025-10-02T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLinePotatoMasher-White-8710755400483Brabantia_300dpi_2000x2000px_9_NR-4556.jpg?v=1756432332
   Price: $29.95 NZD
 - [Brabantia Essential Universal Opener - White](https://everydayhome.co.nz/products/brabantia-essential-universal-opener-white): Open your heart to this Brabantia Universal Opener. This multifunctional opener opens both lids and crown caps effortless. A turn for the better!
-  Updated: 2025-09-28T20:37:10Z
+  Updated: 2025-10-02T04:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineUniversalOpener-White-8710755400605Brabantia_300dpi_2000x2000px_9_NR-4562.jpg?v=1756432171
   Price: $31.95 NZD
 - [Brabantia Essential Can Opener - White](https://everydayhome.co.nz/products/brabantia-essential-can-opener-white): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-09-28T20:37:12Z
+  Updated: 2025-10-02T04:07:16Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineCanOpener-White-8710755400643Brabantia_300dpi_2000x2000px_9_NR-4564.jpg?v=1755820974
   Price: $34.95 NZD
 - [Brabantia Essential Garlic Press - White](https://everydayhome.co.nz/products/brabantia-essential-garlic-press-white): Have a crush on garlic, but wincing at the mincing? This Brabantia Garlic Press will brighten your mood and kitchen. Quick, efficient and easy to clean thanks to its removable anvil. A perfect press.
-  Updated: 2025-09-28T20:37:13Z
+  Updated: 2025-10-02T04:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4532,7 +4532,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverD_135x45cm2mmFoam-Metallised-8710755264528Brabantia_800x800px_E_NR-2952.jpg?v=1756431930
   Price: $64.99 NZD
 - [Brabantia Kitchen Roll Holder - Brilliant Steel](https://everydayhome.co.nz/products/brabantia-kitchen-roll-holder-brilliant-steel): Take your kitchen paper to where it is actually needed with this freestanding Brabantia Kitchen Roll Holder. Fitted with the unique 'roll-stop', preventing the paper from accidentally unrolling. It's very easy to fill and suitable for all standard sizes of kitchen paper. A roll holder to hold on to!
-  Updated: 2025-09-28T20:37:10Z
+  Updated: 2025-10-02T04:07:15Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -5024,18 +5024,12 @@
 
 ## Collections
 
-- [Home page](https://everydayhome.co.nz/collections/frontpage)
-  Updated: 2023-06-27T03:20:33Z
-  Total Products: 0
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-10-02T03:38:48Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:32Z
   Total Products: 56
-- [Kitchen & Dining](https://everydayhome.co.nz/collections/kitchen-dining)
-  Updated: 2025-02-12T22:26:22Z
-  Total Products: 0
 - [New Arrivals](https://everydayhome.co.nz/collections/new-arrivals)
   Updated: 2025-10-02T03:39:34Z
   Total Products: 22
@@ -5046,13 +5040,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-10-01T02:26:33Z
@@ -5066,35 +5060,17 @@
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-09-25T00:53:03Z
   Total Products: 25
-- [Storage](https://everydayhome.co.nz/collections/storage)
-  Updated: 2024-09-06T00:59:15Z
-  Total Products: 0
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
   Updated: 2025-10-01T11:08:11Z
   Total Products: 55
-- [Shelves](https://everydayhome.co.nz/collections/shelves)
-  Updated: 2024-09-06T00:59:12Z
-  Total Products: 0
-- [Caddies](https://everydayhome.co.nz/collections/caddies)
-  Updated: 2024-09-06T00:59:20Z
-  Total Products: 0
-- [Bathroom Storage and Organisation](https://everydayhome.co.nz/collections/bathroom-storage-and-organisation)
-  Updated: 2024-09-06T00:59:22Z
-  Total Products: 0
 - [Art & Decor](https://everydayhome.co.nz/collections/art-decor)
   Updated: 2025-09-23T12:13:00Z
   Total Products: 3
-- [Clotheslines](https://everydayhome.co.nz/collections/clotheslines)
-  Updated: 2024-09-06T00:57:58Z
-  Total Products: 0
-- [Clothes Storage](https://everydayhome.co.nz/collections/clothes-storage)
-  Updated: 2024-09-06T00:58:55Z
-  Total Products: 0
 - [Detergent & Accessories](https://everydayhome.co.nz/collections/detergent-accessories)
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:39Z
   Total Products: 138
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -5112,41 +5088,20 @@
   Updated: 2025-09-23T12:13:34Z
   Total Products: 27
 - [Natural Home Fragrance & Body Care | The Aromatherapy Co](https://everydayhome.co.nz/collections/the-aromatherapy-co): Discover The Aromatherapy Co.’s range of natural home fragrance and body care products. Designed in New Zealand, these products combine essential oils and premium ingredients to enhance your well-being and create a relaxing atmosphere in your home. Shop candles, diffusers, and skincare collections today.
-  Updated: 2025-09-23T12:14:21Z
+  Updated: 2025-10-02T04:08:33Z
   Total Products: 89
 - [Serveware](https://everydayhome.co.nz/collections/serveware)
   Updated: 2025-09-23T12:13:34Z
   Total Products: 21
-- [Home Fragrances and Candels](https://everydayhome.co.nz/collections/home-fragrances-and-candels)
-  Updated: 2025-02-12T22:26:29Z
-  Total Products: 0
 - [Bedroom](https://everydayhome.co.nz/collections/bedroom)
-  Updated: 2025-10-02T03:38:48Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 51
-- [Kitchen Accessories](https://everydayhome.co.nz/collections/kitchen-accessories)
-  Updated: 2025-02-12T22:26:29Z
-  Total Products: 0
-- [Bath & Beauty Products](https://everydayhome.co.nz/collections/bath-beauty-products)
-  Updated: 2024-09-06T00:57:25Z
-  Total Products: 0
 - [Piece House](https://everydayhome.co.nz/collections/piece-house)
   Updated: 2025-10-02T03:38:29Z
   Total Products: 14
-- [For You](https://everydayhome.co.nz/collections/for-you)
-  Updated: 2025-08-12T04:49:36Z
-  Total Products: 0
 - [Everdaily](https://everydayhome.co.nz/collections/everdaily)
   Updated: 2025-09-23T12:14:28Z
   Total Products: 3
-- [Hand Wash](https://everydayhome.co.nz/collections/hand-wash)
-  Updated: 2025-02-12T22:26:30Z
-  Total Products: 0
-- [Detergents & Accessories - Hands](https://everydayhome.co.nz/collections/detergents-accessories-hands)
-  Updated: 2025-02-12T22:26:31Z
-  Total Products: 0
-- [Chairs](https://everydayhome.co.nz/collections/chairs)
-  Updated: 2024-09-06T00:58:38Z
-  Total Products: 0
 - [Side Tables](https://everydayhome.co.nz/collections/side-tables)
   Updated: 2025-09-23T12:12:49Z
   Total Products: 1
@@ -5157,10 +5112,10 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:39Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-10-02T03:38:48Z
+  Updated: 2025-10-02T04:08:34Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
   Updated: 2025-09-30T11:06:34Z
@@ -5217,7 +5172,7 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 31
 - [Shelves & Tables](https://everydayhome.co.nz/collections/shelves-tables)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:32Z
   Total Products: 24
 - [Coffee Tables](https://everydayhome.co.nz/collections/coffee-tables)
   Updated: 2025-09-25T00:52:25Z
@@ -5235,7 +5190,7 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 30
 - [Storage & Organisation](https://everydayhome.co.nz/collections/storage-organisation): Keep your home stylishly organised with Everyday Home's variety of storage solutions. Find everything from sleek pantry organisers to multi-functional cosmetic and shower caddies that will maximize space while adding style to any room. Shop now and enjoy free shipping across NZ on orders over $99*.
-  Updated: 2025-10-02T03:38:48Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 42
 - [Wall Mirrors](https://everydayhome.co.nz/collections/wall-mirrors)
   Updated: 2025-09-25T00:53:03Z
@@ -5243,9 +5198,6 @@
 - [Cleaning Tools & Accessories](https://everydayhome.co.nz/collections/cleaning-tools-accessories)
   Updated: 2025-09-23T12:19:12Z
   Total Products: 8
-- [Steaming Accessories](https://everydayhome.co.nz/collections/steaming-accessories)
-  Updated: 2025-08-27T22:15:32Z
-  Total Products: 0
 - [Soap Dispensers](https://everydayhome.co.nz/collections/soap-dispensers)
   Updated: 2025-09-25T12:16:05Z
   Total Products: 25
@@ -5295,7 +5247,7 @@
   Updated: 2025-10-02T03:38:23Z
   Total Products: 7
 - [Candles & Home Fragrance](https://everydayhome.co.nz/collections/candles-home-fragrance)
-  Updated: 2025-10-02T03:38:53Z
+  Updated: 2025-10-02T04:08:33Z
   Total Products: 48
 - [Soap Refills](https://everydayhome.co.nz/collections/soap-refills)
   Updated: 2025-09-23T12:14:28Z
@@ -5307,10 +5259,10 @@
   Updated: 2025-09-23T12:14:08Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-02T03:39:35Z
+  Updated: 2025-10-02T04:08:32Z
   Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:39Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-10-01T11:08:11Z
@@ -5346,19 +5298,19 @@
   Updated: 2025-09-25T00:52:41Z
   Total Products: 13
 - [Stylish Wall and Desk Frames | Shop Now](https://everydayhome.co.nz/collections/wall-desk-frames): Showcase your favourite memories with our collection of wall and desk frames. Available in a variety of styles and sizes, these frames are perfect for adding a personal touch to any room. Free shipping across NZ on orders over 99*
-  Updated: 2025-10-02T03:38:56Z
+  Updated: 2025-10-02T04:08:39Z
   Total Products: 31
 - [Functional Bathroom Accessories | Shop Now](https://everydayhome.co.nz/collections/bathroom-accessories): Bathroom accessories designed to bring both functionality and style to your space. Free shipping across NZ on orders over 99*
   Updated: 2025-09-25T00:51:34Z
   Total Products: 3
 - [Jewelry Organisation Solutions | Shop Now](https://everydayhome.co.nz/collections/jewelry-organisation): Jewelry organisation solutions to store and display your accessories. From elegant trays and stands to versatile organisers for rings, necklaces, and earrings, our collection helps you keep your jewelry neat, accessible, and tangle-free. Free shipping across NZ on orders over 99*
-  Updated: 2025-10-02T03:38:48Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
   Updated: 2025-10-02T03:38:57Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-10-02T03:39:36Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 893
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-10-01T11:08:11Z
@@ -5378,9 +5330,6 @@
 - [Steaming & Ironing Accessories](https://everydayhome.co.nz/collections/steaming-ironing-accessories)
   Updated: 2025-09-23T12:19:10Z
   Total Products: 24
-- [Kitchen Knives](https://everydayhome.co.nz/collections/kitchen-knives)
-  Updated: 2025-02-12T22:26:51Z
-  Total Products: 0
 - [Knife Sets](https://everydayhome.co.nz/collections/knife-sets)
   Updated: 2025-09-23T12:17:23Z
   Total Products: 4
@@ -5403,10 +5352,10 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-02T03:39:06Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-10-02T03:39:36Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 893
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-10-02T03:38:30Z
@@ -5424,7 +5373,7 @@
   Updated: 2025-09-23T12:19:51Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-10-02T03:38:48Z
+  Updated: 2025-10-02T04:08:40Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
   Updated: 2025-10-01T11:08:11Z
@@ -5433,7 +5382,7 @@
   Updated: 2025-09-28T11:08:21Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-10-02T03:57:48Z
+  Updated: 2025-10-02T04:14:42Z
   Total Products: 123
 
 ## Store Pages
