@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-02T08:00:36.409Z
+- Updated At: 2025-10-02T12:00:35.567Z
 
 ## Products
 
@@ -977,7 +977,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-29T19:52:11Z
+  Updated: 2025-10-02T10:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1768,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $49.99 NZD
 - [Umbra Buddy Counter Top Paper Towel Holder - Black](https://everydayhome.co.nz/products/buddy-paper-twl-hldr-kd-black): Along with its unique appearance, Buddy is also highly practical; the molded figure provides friction and leverage for one-handed tearing and protects the roll from unravelling. Taking up little space on your countertop, maintenance is hassle-free; cleaning only requires a quick wipe-down.
-  Updated: 2025-09-25T13:44:00Z
+  Updated: 2025-10-02T08:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2944,7 +2944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DigitalKitchenScales-DarkGrey-8710755122644Brabantia_96dpi_1000x1000px_7_NR-15691.png?v=1733866488
   Price: $109.95 NZD
 - [Brabantia Kitchen Utensils Set Nonstick - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-set-n-stick-c): No more sticky situations in your kitchen with this Profile Non-Stick Kitchen Utensils Set. This top-team consists of a Soup Ladle, Vegetable Spoon, Spatula and Skimmer. All with durable stainless steel grips and nylon non-stick tops. For cooking with confidence.
-  Updated: 2025-09-29T02:22:11Z
+  Updated: 2025-10-02T08:52:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -5040,13 +5040,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-02T04:08:40Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-02T04:08:40Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-02T04:08:40Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-10-01T02:26:33Z
@@ -5112,13 +5112,13 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-02T04:08:39Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-10-02T04:08:34Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-09-30T11:06:34Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-09-23T12:19:45Z
@@ -5133,7 +5133,7 @@
   Updated: 2025-09-23T12:18:52Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 36
 - [Ironing & Steaming](https://everydayhome.co.nz/collections/ironing-steaming)
   Updated: 2025-09-23T12:19:10Z
@@ -5163,7 +5163,7 @@
   Updated: 2025-09-23T12:17:29Z
   Total Products: 7
 - [Open Top](https://everydayhome.co.nz/collections/open-top)
-  Updated: 2025-09-25T00:51:39Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 7
 - [Kitchen Textiles](https://everydayhome.co.nz/collections/kitchen-textiles)
   Updated: 2025-09-04T22:58:22Z
@@ -5187,7 +5187,7 @@
   Updated: 2025-10-01T11:08:11Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 30
 - [Storage & Organisation](https://everydayhome.co.nz/collections/storage-organisation): Keep your home stylishly organised with Everyday Home's variety of storage solutions. Find everything from sleek pantry organisers to multi-functional cosmetic and shower caddies that will maximize space while adding style to any room. Shop now and enjoy free shipping across NZ on orders over $99*.
   Updated: 2025-10-02T04:08:40Z
@@ -5262,7 +5262,7 @@
   Updated: 2025-10-02T04:08:32Z
   Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-02T04:08:39Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-10-01T11:08:11Z
@@ -5310,7 +5310,7 @@
   Updated: 2025-10-02T03:38:57Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-10-02T04:08:40Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 893
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-10-01T11:08:11Z
@@ -5352,10 +5352,10 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-02T04:08:40Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-10-02T04:08:40Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 893
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-10-02T03:38:30Z
@@ -5376,7 +5376,7 @@
   Updated: 2025-10-02T04:08:40Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-02T11:07:03Z
   Total Products: 240
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
   Updated: 2025-09-28T11:08:21Z
