@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-01T12:00:33.394Z
+- Updated At: 2025-10-02T00:00:33.372Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -461,7 +461,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-transition-filament-pair-3d-printed-boots-1-75-mm-1-kg-960.webp?v=1725277266
     Price: €13.90 EUR
 - [Durable Petg Filament Stronger than Pla Filament](https://eolasprints.com/products/petg-filament): Eolas Prints PETG filament offers superior mechanical properties and printing ease, bridging the performance gap between PLA filament and ABS for professional use.
-  Updated: 2025-10-01T10:12:40Z
+  Updated: 2025-10-01T15:03:56Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-09-29T09:12:12Z
+  Updated: 2025-10-01T15:44:41Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1523,7 +1523,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-s1-enclosed-diode-laser-cutter-engraver-bundle-40w-all-522.webp?v=1753101650
     Price: €3,099.00 EUR
 - [Flashforge Adventurer Ad5x Multi Colour 3d Printer](https://eolasprints.com/products/flashforge-ad5x-multi-colour): The Flashforge Adventurer AD5X delivers multi-colour printing with a dual filament direct extruder system, ensuring superior quality for prototypes and functional parts.
-  Updated: 2025-09-30T12:49:23Z
+  Updated: 2025-10-01T13:56:47Z
   Vendor: Flashforge
   Product Type: 3D Printer
   Availability: Available
