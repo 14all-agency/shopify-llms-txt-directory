@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-03T16:00:39.092Z
+- Updated At: 2025-10-03T20:00:39.992Z
 
 ## Products
 
@@ -5175,7 +5175,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/non-fragranced-flowing-hand-soap-clear-5l-refill-bottle-hand-care-essential-supplies-295527.jpg?v=1719445401
   Price: $35.00 NZD
 - [Fragranced Grit Hand Soap - Green, 5L Refill Bottle](https://essentialsupplies.co.nz/products/fragranced-grit-hand-soap-green-5l-refill-bottle-2): Fragranced grit hand soap is a citrus-based, heavy-duty hand cleaner with glass-dust abrasive for tough cleaning environments. Pleasant lime fragrance with a natural moisturiser to keep skin soft and conditioned.
-  Updated: 2025-01-18T09:36:18Z
+  Updated: 2025-10-03T19:54:32Z
   Vendor: Mattews Packaging
   Product Type: Hand Care
   Availability: Available
@@ -5686,7 +5686,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-blue-xl-240mm-cuff-30g-1000-gloves-nitrile-examination-gloves-essential-supplies-306948.jpg?v=1719445385
   Price: $81.00 NZD
 - [Nitrile Examination Gloves Powder Free - Blue, S, 240mm Cuff, 5.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-blue-s-240mm-cuff-5-0g-1000): Blue powder free nitrile gloves offer premium snag, puncture, cut and abrasion resistance, making them ideal for the chemical, tattooing, laboratory, and meat processing industries. With a longer shelf life and three times greater durability when compared to latex.
-  Updated: 2025-10-03T08:15:54Z
+  Updated: 2025-10-03T16:30:44Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
