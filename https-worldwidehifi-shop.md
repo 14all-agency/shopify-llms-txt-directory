@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-03T08:00:32.220Z
+- Updated At: 2025-10-03T12:00:31.978Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -875,7 +875,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8d0d83f2-b703-469b-aa55-77fb8c46f5b6.jpg?v=1748017242
   Price: 194,00 € EUR
 - [Bowers & Wilkins Loudspeaker Cable CDC 16T gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-loudspeaker-cable-cdc-16t-gebraucht-kaufen): Bowers & Wilkins Loudspeaker Cable CDC 16T gebraucht kaufen ✅ Geprüfte Lautsprecherkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:08Z
+  Updated: 2025-10-03T08:46:58Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1240,7 +1240,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
     Availability: Available
     Price: 86,00 € EUR
 - [Voodoo Cable PURE SILVER Teflon Cinch Kabel RCA gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/voodoo-cable-pure-silver-teflon-cinch-kabel-rca-gebraucht-kaufen): Voodoo Cable PURE SILVER Teflon Cinch Kabel RCA gebraucht kaufen ✅ Hochwertige Audioverbindung mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:56Z
+  Updated: 2025-10-03T10:41:18Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1561,13 +1561,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9fd86dfb-a2fb-45ce-86b6-fd2bf440d876.jpg?v=1751453532
   Price: 660,00 € EUR
-- [Linn Numerik DAC gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/linn-numerik-dac-gebraucht-kaufen): Linn Numerik DAC gebraucht kaufen ✅ Geprüfter Digital-Analog-Wandler mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:26Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8d8b2b08-7115-468a-adfd-738742d3ac00.jpg?v=1751453698
-  Price: 520,00 € EUR
 - [Spendor LS3/5A Monitor 15 Ohm Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/spendor-ls3-5a-monitor-gebraucht-kaufen): Spendor LS3/5A Monitor 15 Ohm Lautsprecher gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:26:57Z
   Vendor: WorldWideHifi
@@ -2002,13 +1995,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4cffd329-4268-4ecf-be62-e5e8c2fe8a4b.jpg?v=1755869281
   Price: 4.520,00 € EUR
-- [T+A Pulsar R 1220 R gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/t-a-pulsar-r-1220-r-gebraucht-kaufen-1): T+A Pulsar R 1220 R gebraucht kaufen ✅ Geprüfter HighEnd Receiver in Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:45Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_2bad7aff-2233-4521-9efc-cabf596060c3.jpg?v=1755869275
-  Price: 480,00 € EUR
 - [Burmester 961 MK III gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-961-mk-iii-original-gebraucht-kaufen): Burmester 961 MK III gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:09Z
   Vendor: WorldWideHiFi
@@ -2361,7 +2347,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-09-17T11:20:28Z
+  Updated: 2025-10-03T11:20:23Z
   Total Products: 29
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-08-16T15:57:20Z
@@ -2394,8 +2380,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-24T13:26:40Z
   Total Products: 5
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-09-30T21:11:33Z
-  Total Products: 98
+  Updated: 2025-10-03T11:20:23Z
+  Total Products: 100
 
 ## Store Pages
 
