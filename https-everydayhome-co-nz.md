@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-03T00:00:34.872Z
+- Updated At: 2025-10-03T04:00:37.204Z
 
 ## Products
 
@@ -1740,7 +1740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $49.99 NZD
 - [Umbra Buddy Counter Top Paper Towel Holder - Black](https://everydayhome.co.nz/products/buddy-paper-twl-hldr-kd-black): Along with its unique appearance, Buddy is also highly practical; the molded figure provides friction and leverage for one-handed tearing and protects the roll from unravelling. Taking up little space on your countertop, maintenance is hassle-free; cleaning only requires a quick wipe-down.
-  Updated: 2025-10-02T23:07:10Z
+  Updated: 2025-10-03T03:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
