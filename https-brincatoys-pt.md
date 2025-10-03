@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-02T20:01:09.666Z
+- Updated At: 2025-10-03T00:01:05.699Z
 
 ## Products
 
@@ -4011,7 +4011,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-viagem-bingo-81295519-brincatoys-1178693852.png?v=1752846605
   Price: 14,99 € EUR
 - [Jogo de xadrez](https://brincatoys.pt/products/jogo-de-xadrez): Damas é um jogo de estratégia muito popular em todo o mundo! Este conjunto de damas vem na forma de uma caixa de madeira serigrafada com estampa de aparas de madeira. Dimensões da caixa aberta: 30 x 30 x 2 cm.   Dimensão: 30 x 15 x 4 cm Idade recomendada: + de 5 anos.
-  Updated: 2025-10-02T02:09:41Z
+  Updated: 2025-10-02T23:52:01Z
   Vendor: Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -18987,14 +18987,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31153-casa-moderna-3-em-1-663115324-5702017585086-lego-1178699904.jpg?v=1752789849
   Price: 99,99 € EUR
 - [Monster High Skulltimate Secrets Twyla em Grande Estilo](https://brincatoys.pt/products/monster-high-skulltimate-secrets-twyla): Mergulhe no estilo misterioso da Monster High com a boneca Skulltimate Secrets Twyla! Descubra mais de 125 looks fabulosos e acessórios! 🌟
-  Updated: 2025-10-02T08:24:38Z
+  Updated: 2025-10-02T23:02:42Z
   Vendor: Monster High
   Product Type: Bonecas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-skulltimate-secrets-twyla-em-grande-estilo-775543625-0194735255436-monster-high-1178701517.jpg?v=1752972611
   Price: 44,90 € EUR
 - [Monster High Jinafire Long: Estilo e Exclusividade](https://brincatoys.pt/products/monster-high-jinafire-long): Descubra a fabulosa Monster High Jinafire Long, inspirada no misticismo dos dragões com um visual exuberante. Adquira esta boneca cheia de estilo!
-  Updated: 2025-10-02T08:24:38Z
+  Updated: 2025-10-02T22:19:51Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -19533,7 +19533,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-toy-story-woody-o-heroi-dos-brinquedos-774600325-0194735046003-toy-story-1178701894.jpg?v=1752979091
   Price: 29,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-boo-riginal-operetta): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-10-02T08:24:38Z
+  Updated: 2025-10-02T22:51:07Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -20086,7 +20086,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-racing-488-challenge-amarelo-682630724-8719247525871-bburago-1178700120.jpg?v=1752951251
   Price: 28,90 € EUR
 - [Boneca Monster High Draculaura com Armário Skulltime](https://brincatoys.pt/products/monster-high-venus-mcflytrap-com-armario-skulltime-secrets): Descubra a boneca Monster High - Draculaura com armário Skulltime Secrets, perfeita para apaixonados por moda gótica e histórias encantadas.
-  Updated: 2025-10-02T18:57:05Z
+  Updated: 2025-10-02T23:09:13Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -20767,14 +20767,14 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-772304325-0194735230433-monster-high-1195801128.jpg?v=1759406049
   Price: 44,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-real-drama-draculaura): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-10-02T18:56:23Z
+  Updated: 2025-10-02T23:26:21Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-771048125-0194735104819-monster-high-1195801136.jpg?v=1759406169
   Price: 42,50 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-real-drama-clawdeen-wolf): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-10-02T18:56:06Z
+  Updated: 2025-10-02T23:58:41Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -20788,28 +20788,28 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-com-alcofa-rosa-conforto-e-estilo-para-brincar-855072924-8427614507299-brincatoys-1178700824.jpg?v=1752961683
   Price: 44,90 € EUR
 - [Monster High Real Drama - Lagoona Blue](https://brincatoys.pt/products/monster-high-real-drama-lagoona-blue): A Monster High Real Drama – Lagoona Blue mergulha a tua coleção num estilo cinematográfico com atitude. Em primeiro lugar, esta edição inspirada no preto-e-branco faz a Lagoona brilhar com pele nacarada, cabelo longo ondulado com reflexos azuis e um look de praia urbano. Do mesmo modo, o top estampado, os calções com rede e as sandálias plataforma recriam o visual clássico da personagem, enquanto as barbatanas nas pernas dão o toque aquático inconfundível. Além disso, a boneca apresenta articulações completas para posar, sentar e dançar com naturalidade durante sessões de brincadeira ou exposição. Igualmente, incluí um poster colecionável em formato grande, um suporte transparente para exibição e o inseparável peixinho Neptuna. Assim, a criança recria cenas épicas e o colecionador exibe a peça com elegância na prateleira. Ademais, os acessórios prateados – brincos de argolas, colares em camadas e pulseira – combinam com o esquema monocromático, criando um contraste elegante com os toques de azul. Por isso, cada fotografia sai incrível e pronta a partilhar. Por outro lado, com cerca de 28 cm, a Monster High Real Drama – Lagoona Blue, a Lagoona é compatível com outras personagens da linha, pelo que podes misturar looks, criar narrativas cruzadas e montar um elenco completo para aventuras na Monster High. Por fim, escolhe esta edição para um presente que junta nostalgia e imaginação sem fim. E, claro, a presença do Neptuna acrescenta humor e personalidade a cada história. Assim, transforma o quarto numa sala de cinema onde a tua estrela das profundezas assume o papel principal! Resumo em pontos-chave Edição Real Drama com look preto-e-branco e reflexos azuis Boneca articulada ~28 cm; Inclui poster, suporte e mascote Neptuna Outfit: top estampado, calções com rede e sandálias plataforma Perfeito para brincar e colecionar Dimensão: 23 x 32,50 x 6,50 cm.Idade recomendada: + de 6 anos.
-  Updated: 2025-10-02T18:55:27Z
+  Updated: 2025-10-02T23:25:17Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-lagoona-blue-770479625-0194735104796-monster-high-1195801144.jpg?v=1759406292
   Price: 42,50 € EUR
 - [Monster High Scary Sweet Birthday - Draculaura](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-draculaura): A Monster High Scary Sweet Birthday – Draculaura transforma qualquer brincadeira numa festa sombria e super glam. Em primeiro lugar, esta edição especial destaca-se pelo vestido rosa com brilho, corpete em teia e detalhes de laços, além do cabelo comprido com madeixas cor-de-rosa e franja marcada. Do mesmo modo, a boneca chega com articulações completas, por isso posa, dança e “tira selfies” com facilidade. Graças aos acessórios temáticos — como o balão em forma de coração com asas de morcego, o leque gótico, a mala e o convite “Sweet 1600” — a criança cria histórias sem fim. Igualmente, concebida para mãos pequenas, a Draculaura mede cerca de 28 cm e apresenta acabamentos de qualidade Mattel. O conjunto inclui sandálias de plataforma e joias inspiradas em morcegos, que combinam com o visual dark-romântico da personagem. Além disso, a embalagem ilustrada funciona muito bem para oferecer e também para colecionar. Como é compatível com outras bonecas Monster High, a brincadeira cresce: trocas de looks, festas conjuntas e novas aventuras na escola mais arrepiante de sempre. Assim, a Monster High Scary Sweet Birthday – Draculaura não é apenas um presente bonito; é também uma ferramenta de imaginação que estimula a linguagem, a motricidade fina e a cooperação entre amigos e irmãos. Por fim, se procuras um presente marcante, escolhe esta estrela vampírica e prepara-te para fotos, risos e muitas histórias assustadoramente doces. Em suma... Edição Scary Sweet Birthday com look gótico-romântico Boneca articulada ~28 cm; Acessórios: balão, leque, mala e convite “Sweet 1600” Vestido com brilho e corpete em teia; sandálias de plataforma Embalagem ilustrada, ideal para oferecer e colecionar Compatível com outras Monster High para criar festas épicas Dimensão: 24,50 x 32,50 x 6 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-02T18:53:56Z
+  Updated: 2025-10-02T22:48:17Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-scary-sweet-birthday-draculaura-772598325-0194735259830-monster-high-1195791381.jpg?v=1759398598
   Price: 39,99 € EUR
 - [Monster High Real Drama - Frankie Stein](https://brincatoys.pt/products/monster-high-real-drama-frankie-stein): A Monster High Real Drama – Frankie Stein traz um toque cinematográfico à tua coleção. Em primeiro lugar, inspirada no glamour do preto-e-branco, esta edição capta o espírito “film noir” com pele prateada, lábios escuros e cabelo longo com riscas pretas, brancas e azuis elétricas. Do mesmo modo, desde o primeiro olhar, a Frankie impressiona com o vestido xadrez, aplicações metálicas e brincos de caveira. Além disso, vem totalmente articulada, por isso posa, senta e dança com facilidade em qualquer cenário de brincadeira ou exposição. Ademais, inclui um poster colecionável em estilo vintage, um suporte transparente para exibição e o inseparável Watzit, o seu adorável mascote. Assim, a criança recria cenas da Monster High com mais realismo e, ao mesmo tempo, o colecionador exibe a peça com elegância na prateleira. Igualmente, as sandálias de plataforma com riscas, a gargantilha “costuras” e a corrente na saia completam um look eletrizante que homenageia a personagem clássica. Além disso, com cerca de 28 cm e acabamentos de qualidade Mattel, a Monster High Real Drama – Frankie Stein resiste ao uso diário e mantém o brilho em longas sessões de brincadeira criativa. Para ampliar a diversão, combina com outras bonecas Monster High e cria um elenco completo: troca de outfits, sessões de fotos e histórias cheias de atitude. Por fim, escolhe a Frankie para um presente que junta estilo, nostalgia e muitas horas de imaginação. Liga a tua criatividade, “acende os refletores” e deixa a Real Drama brilhar! Em suma... Edição Real Drama em estilo preto-e-branco com toques azuis Boneca articulada ~28 cm; ideal para brincar e colecionar Inclui poster, suporte de exposição e mascote Watzit Vestido xadrez, correntes, sandálias listadas e acessórios icónicos Excelente presente para fãs de Monster High Dimensão: 23 x 32,50 x 6,50 cm.Idade recomendada: + de 6 anos.
-  Updated: 2025-10-02T18:55:01Z
+  Updated: 2025-10-02T22:29:43Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-frankie-stein-771047825-0194735104789-monster-high-1195791377.jpg?v=1759398485
   Price: 42,50 € EUR
 - [Monster High Scary Sweet Birthday - Cupid Asteria](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-cupid-asteria): Celebra ao lado da boneca Monster High Scary Sweet Birthday – Cupid Asteria. Em primeiro lugar, inspirada nas festas de aniversário, esta edição encantadora chega com cabelo rosa em caracóis volumosos, asas trabalhadas, maquilhagem brilhante e um visual barroco irresistível. Por outro lado, desde o primeiro olhar, a Cupid Asteria conquista com detalhes românticos e um coração em destaque no corpete. Além disso, inclui acessórios temáticos para multiplicar histórias de fantasia em casa. Do mesmo modo, a boneca vem com mala em forma de flecha, balão de coração com “corda”, duas etiquetas temáticas, estojo de sombras, chávena com bule e convite “Sweet 1600”. Igualmente, as sandálias douradas com laços e rosas completam o conjunto, enquanto a saia em camadas com tule e renda acrescenta movimento a cada pose. Porque é totalmente articulada, a criança posiciona, senta e dança a personagem com facilidade, dando vida às aventuras Monster High. Ademais, com cerca de 28 cm, a Monster High Scary Sweet Birthday – Cupid Asteria oferece qualidade Mattel e uma experiência de brincadeira segura para fãs a partir dos 4 anos. Além disso, cabe perfeitamente na prateleira de colecionadores que procuram peças especiais para exibir. Graças à temática de aniversário, torna-se um presente ideal para surpreender, criar memórias e incentivar a imaginação. Ao brincar, as crianças desenvolvem motricidade fina, linguagem, cooperação e expressão emocional em contextos de faz-de-conta. Diversão segura, duradoura e memorável. Por fim, escolhe a Cupid Asteria para juntar estilo, fantasia e brincadeira criativa. Podes combiná-la com outras bonecas Monster High para montar cenários, trocar acessórios e inventar novas amizades no universo da escola mais assustadoramente divertida. Em suma... Edição Scary Sweet Birthday com visual barroco e asas decoradas Boneca articulada ~28 cm; Acessórios: mala-flecha, balão, maquilhagem, chávena/bule, etiquetas e convite Sandálias douradas e saia em camadas com tule/renda Perfeita para oferecer, brincar e colecionar Dimensão: 24,50 x 33,50 x 6 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-02T18:52:32Z
+  Updated: 2025-10-02T21:00:48Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
