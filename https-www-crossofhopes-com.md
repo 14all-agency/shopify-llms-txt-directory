@@ -6,12 +6,12 @@
 - Timezone: Etc/UTC
 - Created At: 2025-05-26T09:59:33Z
 - Contact Email: crossofhopes@gmail.com
-- Updated At: 2025-10-02T12:00:28.440Z
+- Updated At: 2025-10-03T12:00:29.087Z
 
 ## Collections
 
 - [Home page](https://www.crossofhopes.com/collections/frontpage)
-  Updated: 2025-10-02T07:03:17Z
+  Updated: 2025-10-03T11:20:06Z
   Total Products: 1
 
 ## Blogs
