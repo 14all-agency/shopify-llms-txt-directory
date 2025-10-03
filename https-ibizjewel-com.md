@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-02T20:00:46.889Z
+- Updated At: 2025-10-03T04:00:45.040Z
 
 ## Products
 
@@ -16902,7 +16902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-22_1.jpg?v=1710396263
     Price: $710.00 USD
 - [Moissanite 0.22CT Pear Diamond Brutalist Anniversary Gift Band](https://ibizjewel.com/products/moissanite-0-22ct-pear-diamond-brutalist-anniversary-gift-band): This Elegant Moissanite 0.22ct Pear Diamond Brutalist Anniversary Gift Band Will Make A Timeless Statement Piece. Made With High-quality Materials, Its Unique Brutalist Design Showcases A Stunning 0.22ct Pear Diamond. Perfect For Anniversaries Or Special Occasions, This Band Will Add A Touch Of Sophistication To Any Outfit.
-  Updated: 2025-10-02T10:30:53Z
+  Updated: 2025-10-03T00:32:43Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Pear Diamond Band
   Availability: Available
