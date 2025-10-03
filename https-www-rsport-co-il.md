@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-03T08:01:00.893Z
+- Updated At: 2025-10-03T12:01:03.797Z
 
 ## Products
 
@@ -10196,7 +10196,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק All-Star ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey): גופיית All-Star בעיצוב רשמי של ג'ייסון טייטום מבוסטון סלטיקס
-  Updated: 2025-10-02T17:29:56Z
+  Updated: 2025-10-03T11:24:57Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10244,7 +10244,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ירוקה ג'ייסון טייטום בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey): גופיית משחק ירוקה של ג'ייסון טייטום בעיצוב איכותי של Boston Celtics
-  Updated: 2025-10-02T17:17:09Z
+  Updated: 2025-10-03T11:57:29Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12187,388 +12187,388 @@
   - [3XL](https://www.rsport.co.il/products/hou-red-shorts?variant=46905994215674)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית משחק מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:29Z
+- [גופיית משחק מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey): גופיית משחק מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל ומגרש
+  Updated: 2025-10-03T11:45:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_fa07f0c3-3458-47ea-979a-e5e5b5d3f240.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר?variant=46906193117434)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey?variant=46906193117434)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר?variant=46906193150202)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey?variant=46906193150202)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר?variant=46906193182970)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey?variant=46906193182970)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר?variant=46906193215738)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey?variant=46906193215738)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר?variant=46906193248506)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey?variant=46906193248506)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-גימי-באטלר?variant=46906193281274)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey?variant=46906193281274)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק צהובה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:29Z
+- [גופיית משחק צהובה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey): גופיית משחק צהובה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל וספורט
+  Updated: 2025-10-03T11:45:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_4725ca55-07d8-47ff-90c9-9c752b23aabe.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר?variant=46906204258554)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey?variant=46906204258554)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר?variant=46906204291322)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey?variant=46906204291322)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר?variant=46906204324090)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey?variant=46906204324090)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר?variant=46906204356858)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey?variant=46906204356858)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר?variant=46906204389626)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey?variant=46906204389626)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-צהובה-מיאמי-היט-גימי-באטלר?variant=46906204422394)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey?variant=46906204422394)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחורה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:30Z
+- [גופיית משחק שחורה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey): גופיית משחק שחורה מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל ומגרש
+  Updated: 2025-10-03T11:45:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_bfd8afbe-afc1-4174-928b-a58f4b709025.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר?variant=46906208977146)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey?variant=46906208977146)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר?variant=46906209009914)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey?variant=46906209009914)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר?variant=46906209042682)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey?variant=46906209042682)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר?variant=46906209075450)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey?variant=46906209075450)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר?variant=46906209108218)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey?variant=46906209108218)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מיאמי-היט-גימי-באטלר?variant=46906209140986)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey?variant=46906209140986)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק תכלת מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:30Z
+- [גופיית משחק תכלת מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey): גופיית משחק תכלת מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל וספורט
+  Updated: 2025-10-03T11:45:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_fca483ae-cbd4-425a-bef8-c362eac80812.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר?variant=46906215071994)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey?variant=46906215071994)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר?variant=46906215104762)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey?variant=46906215104762)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר?variant=46906215137530)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey?variant=46906215137530)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר?variant=46906215170298)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey?variant=46906215170298)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר?variant=46906215203066)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey?variant=46906215203066)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-תכלת-מיאמי-היט-גימי-באטלר?variant=46906215235834)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey?variant=46906215235834)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר): תמוך במיאמי היט בכל הזדמנות על המגרש ומחוצה לו הגופייה הלבנה מבטיחה מראה נקי ומרענן, עם צבעים שמזוהים עם הקבוצה ומעניקה הרגשה של שייכות לכל אוהד החומר קל ונושם, עשוי 100% פוליאסטר שמנדף זיעה ושומר על נוחות לאורך כל המשחק או האימון הגזרה מותאמת לגברים ומאפשרת חופש תנועה מלא, עם עיצוב מודרני המדגיש את צבעי הקבוצה בצורה ברורה ומרשימה
-  Updated: 2025-10-02T11:26:31Z
+- [גופיית משחק לבנה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey): גופיית משחק לבנה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל ומגרש
+  Updated: 2025-10-03T11:45:50Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_0e0bdb36-9dd9-41d0-bf30-e2341253e69e.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר?variant=46906217627898)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey?variant=46906217627898)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר?variant=46906217660666)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey?variant=46906217660666)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר?variant=46906217693434)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey?variant=46906217693434)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר?variant=46906217726202)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey?variant=46906217726202)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר?variant=46906217758970)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey?variant=46906217758970)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מיאמי-היט-גימי-באטלר?variant=46906217791738)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey?variant=46906217791738)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ורודה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר): הראה את תמיכתך מיאמי היט ותמוך בקבוצה במגרש ומחוץ למגרש גופיית המשחק מאפשרת לך להרגיש חלק מהקבוצה בכל רגע עם מראה מודרני וצבעים שמזוהים עם הקבוצה הגופייה עשויה 100% פוליאסטר קל ונושם שמספק נוחות מירבית ותחושת יובש לאורך כל המשחק הגזרה מותאמת לגברים ומעניקה חופש תנועה מלא עם עיצוב שמשלב את צבעי הקבוצה בצורה ברורה ומרשימה
-  Updated: 2025-10-02T11:26:31Z
+- [גופיית משחק ורודה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey): גופיית משחק ורודה מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל וספורט
+  Updated: 2025-10-03T11:45:50Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_490b7750-8eff-4091-90ef-d10de7a0c0c6.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר?variant=46906222903546)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey?variant=46906222903546)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר?variant=46906222936314)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey?variant=46906222936314)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר?variant=46906222969082)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey?variant=46906222969082)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר?variant=46906223001850)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey?variant=46906223001850)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר?variant=46906223034618)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey?variant=46906223034618)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-מיאמי-היט-גימי-באטלר?variant=46906223067386)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey?variant=46906223067386)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק רטרו מיאמי היט |  דווין וויד](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:31Z
+- [גופיית משחק רטרו מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro): גופיית משחק רטרו מיאמי היט עם דווין וייד, איכותית ונוסטלגית למגרש ולסטייל רחוב
+  Updated: 2025-10-03T11:45:50Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_21f13c33-1f29-46b2-aa27-1e6518de6fb3.jpg?v=1738543796
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד?variant=46906228605178)
+  - [S](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro?variant=46906228605178)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד?variant=46906228637946)
+  - [M](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro?variant=46906228637946)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד?variant=46906228670714)
+  - [L](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro?variant=46906228670714)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד?variant=46906228703482)
+  - [XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro?variant=46906228703482)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד?variant=46906228736250)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro?variant=46906228736250)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-רטרו-מיאמי-היט-דווין-וויד?variant=46906228769018)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro?variant=46906228769018)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו אדומה מיאמי היט 2005/06 |  דווין וויד](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:32Z
+- [גופיית רטרו אדומה מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro): גופיית רטרו אדומה מיאמי היט עם דווין וייד, איכותית ונוסטלגית, מושלמת לאוהדים
+  Updated: 2025-10-03T11:45:50Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_f81102c2-9eec-49d4-9a2c-09e04221b1e4.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד?variant=46906233028858)
+  - [S](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro?variant=46906233028858)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד?variant=46906233061626)
+  - [M](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro?variant=46906233061626)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד?variant=46906233094394)
+  - [L](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro?variant=46906233094394)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד?variant=46906233127162)
+  - [XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro?variant=46906233127162)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד?variant=46906233159930)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro?variant=46906233159930)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-מיאמי-היט-2005-06-דווין-וויד?variant=46906233192698)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro?variant=46906233192698)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו לבה מיאמי היט 2005/06 |  דווין וויד](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:32Z
+- [גופיית רטרו לבה מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro): גופיית רטרו לבה מיאמי היט עם דווין וייד, איכותית ונוסטלגית מעונת 2005/06
+  Updated: 2025-10-03T11:45:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/a2f7d6c5-8460-482d-b6a5-9932d3159136.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד?variant=46906237681914)
+  - [S](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro?variant=46906237681914)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד?variant=46906237714682)
+  - [M](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro?variant=46906237714682)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד?variant=46906237747450)
+  - [L](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro?variant=46906237747450)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד?variant=46906237780218)
+  - [XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro?variant=46906237780218)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד?variant=46906237812986)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro?variant=46906237812986)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבה-מיאמי-היט-2005-06-דווין-וויד?variant=46906237845754)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro?variant=46906237845754)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית משחק  City edition מיאמי היט ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:33Z
+- [גופיית משחק City Edition מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition): גופיית משחק City Edition מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל וספורט
+  Updated: 2025-10-03T11:45:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/21_d372891b-cde8-405f-8a79-b4ca0a52e7e3.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר?variant=46906267435258)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition?variant=46906267435258)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר?variant=46906267468026)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition?variant=46906267468026)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר?variant=46906267500794)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition?variant=46906267500794)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר?variant=46906267533562)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition?variant=46906267533562)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר?variant=46906267566330)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition?variant=46906267566330)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-מיאמי-היט-גימי-באטלר?variant=46906267599098)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition?variant=46906267599098)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק אדומה מיאמי היט | ג'ימי באטלר](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:33Z
+- [גופיית משחק אדומה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey): גופיית משחק אדומה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית למגרש ולסטייל יומיומי
+  Updated: 2025-10-03T11:45:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_d5e0915c-aff9-4b8f-aac7-fc937c336909.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר?variant=46906274251002)
+  - [S](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey?variant=46906274251002)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר?variant=46906274283770)
+  - [M](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey?variant=46906274283770)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר?variant=46906274316538)
+  - [L](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey?variant=46906274316538)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר?variant=46906274349306)
+  - [XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey?variant=46906274349306)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר?variant=46906274382074)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey?variant=46906274382074)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-מיאמי-היט-גימי-באטלר?variant=46906274414842)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey?variant=46906274414842)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק מיאמי היט | באם אדבאיו](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:33Z
+- [גופיית משחק מיאמי היט באם אדבאיו R:SPORT](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey): גופיית משחק מיאמי היט עם באם אדבאיו, נוחה ואיכותית, מושלמת לסטייל וספורט
+  Updated: 2025-10-03T11:45:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_54d6fc03-5859-4229-9106-3f1e46d71218.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו?variant=46906281263354)
+  - [S](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey?variant=46906281263354)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו?variant=46906281296122)
+  - [M](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey?variant=46906281296122)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו?variant=46906281328890)
+  - [L](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey?variant=46906281328890)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו?variant=46906281361658)
+  - [XL](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey?variant=46906281361658)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו?variant=46906281394426)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey?variant=46906281394426)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-מיאמי-היט-באם-אדבאיו?variant=46906281427194)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey?variant=46906281427194)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [מכנסי משחק מיאמי היט | צבע לבן](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:45Z
+- [מכנסי משחק לבן מיאמי היט R:SPORT](https://www.rsport.co.il/products/miami-heat-white-pants): מכנסי משחק מיאמי היט בצבע לבן, נוחים ואיכותיים למגרש ולחיי יום יום
+  Updated: 2025-10-03T11:54:04Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/25_800b744b-717d-48bb-9aa2-7ef8e07c7022.jpg?v=1738545159
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן?variant=46906290274554)
+  - [S](https://www.rsport.co.il/products/miami-heat-white-pants?variant=46906290274554)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן?variant=46906290307322)
+  - [M](https://www.rsport.co.il/products/miami-heat-white-pants?variant=46906290307322)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן?variant=46906290340090)
+  - [L](https://www.rsport.co.il/products/miami-heat-white-pants?variant=46906290340090)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן?variant=46906290372858)
+  - [XL](https://www.rsport.co.il/products/miami-heat-white-pants?variant=46906290372858)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן?variant=46906290405626)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-white-pants?variant=46906290405626)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-לבן?variant=46906290438394)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-white-pants?variant=46906290438394)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק מיאמי היט | צבע שחור](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:44Z
+- [מכנסי משחק מיאמי היט | צבע שחור R:SPORT](https://www.rsport.co.il/products/miami-heat-black-shorts): תמוך במיאמי היט עם מכנסי משחק בצבע שחור מבית R:SPORT. בד נושם ונעים, גזרה מותאמת לנוחות מלאה על המגרש וביום יום, מתאים לאוהדים שרוצים להרגיש חלק מהקבוצה.
+  Updated: 2025-10-03T11:51:25Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/32.jpg?v=1738545161
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור?variant=46906299220218)
+  - [S](https://www.rsport.co.il/products/miami-heat-black-shorts?variant=46906299220218)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור?variant=46906299252986)
+  - [M](https://www.rsport.co.il/products/miami-heat-black-shorts?variant=46906299252986)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור?variant=46906299285754)
+  - [L](https://www.rsport.co.il/products/miami-heat-black-shorts?variant=46906299285754)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור?variant=46906299318522)
+  - [XL](https://www.rsport.co.il/products/miami-heat-black-shorts?variant=46906299318522)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור?variant=46906299351290)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-black-shorts?variant=46906299351290)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-מיאמי-היט-צבע-שחור?variant=46906299384058)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-black-shorts?variant=46906299384058)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק שחוריים מיאמי היט](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-19T06:16:01Z
+- [מכנסי משחק שחורים מיאמי היט R:SPORT](https://www.rsport.co.il/products/miami-heat-black-pants): מכנסי משחק שחורים מיאמי היט נוחים ואיכותיים, מתאימים לסטייל רחוב ולספורט יומיומי
+  Updated: 2025-10-03T11:49:34Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/31_63d42dbc-a47c-4b94-90e0-ce441ed07db4.jpg?v=1738545165
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט?variant=46906306363642)
+  - [S](https://www.rsport.co.il/products/miami-heat-black-pants?variant=46906306363642)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט?variant=46906306396410)
+  - [M](https://www.rsport.co.il/products/miami-heat-black-pants?variant=46906306396410)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט?variant=46906306429178)
+  - [L](https://www.rsport.co.il/products/miami-heat-black-pants?variant=46906306429178)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט?variant=46906306461946)
+  - [XL](https://www.rsport.co.il/products/miami-heat-black-pants?variant=46906306461946)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט?variant=46906306494714)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-black-pants?variant=46906306494714)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-שחוריים-מיאמי-היט?variant=46906306527482)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-black-pants?variant=46906306527482)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק תכלת ורוד מיאמי היט](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:43Z
+- [מכנסי משחק תכלת/ורוד מיאמי היט R:SPORT](https://www.rsport.co.il/products/miami-heat-pink-teal-pants): מכנסי משחק תכלת/ורוד מיאמי היט נוחים ואיכותיים, מושלמים לאוהדי NBA לסטייל וספורט יומיומי
+  Updated: 2025-10-03T11:47:53Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/34.jpg?v=1738545180
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט?variant=46906312589562)
+  - [S](https://www.rsport.co.il/products/miami-heat-pink-teal-pants?variant=46906312589562)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט?variant=46906312622330)
+  - [M](https://www.rsport.co.il/products/miami-heat-pink-teal-pants?variant=46906312622330)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט?variant=46906312655098)
+  - [L](https://www.rsport.co.il/products/miami-heat-pink-teal-pants?variant=46906312655098)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט?variant=46906312687866)
+  - [XL](https://www.rsport.co.il/products/miami-heat-pink-teal-pants?variant=46906312687866)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט?variant=46906312720634)
+  - [2XL](https://www.rsport.co.il/products/miami-heat-pink-teal-pants?variant=46906312720634)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-ורוד-מיאמי-היט?variant=46906312753402)
+  - [3XL](https://www.rsport.co.il/products/miami-heat-pink-teal-pants?variant=46906312753402)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי מיאמי היט JUST DON | אדום](https://www.rsport.co.il/products/pants-just-don-miami-heat-red): ‏מכנסי מיאמי היט JUST DON לגברים בצבע אדום המשלבים סטייל רחוב ואופנה עם אהבה ל־ NBA בעיצוב מדויק למראה מרשים שמתאים למגרש וליום יום
@@ -12620,7 +12620,7 @@
     Availability: Available
     Price: ‏249.90 ‏₪ ILS
 - [מכנסי מיאמי היט JUST DON | ורוד](https://www.rsport.co.il/products/pants-just-don-miami-heat-pink): ‏מכנסי מיאמי היט JUST DON לגברים בצבע ורוד בעיצוב איכותי, נוח ועמיד בהשראת ה־ NBA לשימוש במגרש וביום יום עם מראה מודרני וספורטיבי
-  Updated: 2025-09-28T09:18:19Z
+  Updated: 2025-10-03T11:29:29Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12715,292 +12715,292 @@
   - [3XL](https://www.rsport.co.il/products/pants-just-don-miami-heat-red-black?variant=46906355187962)
     Availability: Available
     Price: ‏249.90 ‏₪ ILS
-- [גופיית משחק מילווקי באקס | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:34Z
+- [גופיית משחק יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-giannis): גופיית משחק של יאניס אנטטוקומפו מילווקי באקס עם עיצוב ספורטיבי שמתאים למגרש וליום יום.
+  Updated: 2025-10-03T11:28:37Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_56163087-e028-4c1c-bee3-16c54bc3e9f6.jpg?v=1748475215
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906455589114)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-giannis?variant=46906455589114)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906455621882)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-giannis?variant=46906455621882)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906455654650)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-giannis?variant=46906455654650)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906455687418)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-giannis?variant=46906455687418)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906455720186)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-giannis?variant=46906455720186)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906455752954)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-giannis?variant=46906455752954)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק מילווקי באקס 2024 | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:35Z
+- [גופיית משחק 2024 יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis): גופיית משחק של יאניס אנטטוקומפו לעונת 2024 בעיצוב חדשני ונוח לאוהדים.
+  Updated: 2025-10-03T11:25:31Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_0c04b6c1-595c-48ae-9cd1-eb21071ccdb5.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו?variant=46906462896378)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis?variant=46906462896378)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו?variant=46906462929146)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis?variant=46906462929146)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו?variant=46906462961914)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis?variant=46906462961914)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו?variant=46906462994682)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis?variant=46906462994682)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו?variant=46906463027450)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis?variant=46906463027450)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-מילווקי-באקס-2024-יאניס-אנטטוקומפו?variant=46906463060218)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis?variant=46906463060218)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחורה מילווקי באקס | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:35Z
+- [גופיית משחק שחורה יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis): גופיית משחק שחורה של יאניס אנטטוקומפו מילווקי באקס עם עיצוב ספורטיבי קלאסי.
+  Updated: 2025-10-03T11:22:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_8ae45dad-8dfb-4f42-b249-683b7018440d.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906469220602)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis?variant=46906469220602)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906469253370)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis?variant=46906469253370)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906469286138)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis?variant=46906469286138)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906469318906)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis?variant=46906469318906)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906469351674)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis?variant=46906469351674)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906469384442)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis?variant=46906469384442)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה מילווקי באקס | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:36Z
+- [גופיית משחק לבנה יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis): גופיית משחק לבנה של יאניס אנטטוקומפו מילווקי באקס, בעיצוב נקי ונוח ללבישה ספורטיבית.
+  Updated: 2025-10-03T11:20:35Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_b7099988-9a46-45c2-9020-0d5d553ec297.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906473054458)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis?variant=46906473054458)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906473087226)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis?variant=46906473087226)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906473119994)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis?variant=46906473119994)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906473152762)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis?variant=46906473152762)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906473185530)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis?variant=46906473185530)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906473218298)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis?variant=46906473218298)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק כחולה מילווקי באקס | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:36Z
+- [גופיית משחק כחולה יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis): גופיית משחק כחולה של יאניס אנטטוקומפו מילווקי באקס, מתאימה לאוהדים ולשימוש יומיומי.
+  Updated: 2025-10-03T11:19:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_75d29b77-eae0-45f6-b203-0660ba5c0fd6.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906477805818)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis?variant=46906477805818)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906477838586)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis?variant=46906477838586)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906477871354)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis?variant=46906477871354)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906477904122)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis?variant=46906477904122)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906477936890)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis?variant=46906477936890)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-מילווקי-באקס-יאניס-אנטטוקומפו?variant=46906477969658)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis?variant=46906477969658)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ALL STAR | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:36Z
+- [גופיית משחק ALL STAR יאניס אנטטוקומפו | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis): גופיית משחק בעיצוב ALL STAR של יאניס אנטטוקומפו עם גזרה נוחה ובד ספורטיבי לנוחות מרבית.
+  Updated: 2025-10-03T11:15:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_78773478-b399-447f-9a23-e485392023b2.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו?variant=46906499793146)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis?variant=46906499793146)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו?variant=46906499825914)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis?variant=46906499825914)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו?variant=46906499858682)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis?variant=46906499858682)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו?variant=46906499891450)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis?variant=46906499891450)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו?variant=46906499924218)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis?variant=46906499924218)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-all-star-יאניס-אנטטוקומפו?variant=46906499956986)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis?variant=46906499956986)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק מהדורת זהב | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:37Z
+- [גופיית משחק מהדורת זהב יאניס אנטטוקומפו | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis): גופיית משחק במהדורת זהב של יאניס אנטטוקומפו מילווקי באקס בעיצוב מודרני וייחודי.
+  Updated: 2025-10-03T11:13:55Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/33_047f76a1-4463-405e-82ad-91c1e688b7a3.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906504315130)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis?variant=46906504315130)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906504347898)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis?variant=46906504347898)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906504380666)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis?variant=46906504380666)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906504413434)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis?variant=46906504413434)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906504446202)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis?variant=46906504446202)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906504478970)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis?variant=46906504478970)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה מהדורת זהב | יאניס אנטטוקומפו](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:37Z
+- [גופיית משחק לבנה מהדורת זהב יאניס אנטטוקומפו | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis): גופיית משחק לבנה במהדורת זהב של יאניס אנטטוקומפו עם עיצוב מיוחד לגברים ונוחות מקסימלית.
+  Updated: 2025-10-03T11:12:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/32_15d63573-f84b-45ba-837e-93a8e04eeb0e.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906508017914)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis?variant=46906508017914)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906508050682)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis?variant=46906508050682)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906508083450)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis?variant=46906508083450)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906508116218)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis?variant=46906508116218)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906508148986)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis?variant=46906508148986)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-יאניס-אנטטוקומפו?variant=46906508181754)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis?variant=46906508181754)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית רטרו מילווקי באקס | ריי אלן](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:38Z
+- [גופיית רטרו ריי אלן מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen): גופיית רטרו של ריי אלן מילווקי באקס בעיצוב נוסטלגי ואייקוני, מתאימה לאוהדי הכדורסל והקבוצה.
+  Updated: 2025-10-03T11:10:44Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/29_790dd4d2-5bec-4cce-a1d2-774abdd3dabf.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן?variant=46906518438138)
+  - [S](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen?variant=46906518438138)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן?variant=46906518470906)
+  - [M](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen?variant=46906518470906)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן?variant=46906518503674)
+  - [L](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen?variant=46906518503674)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן?variant=46906518536442)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen?variant=46906518536442)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן?variant=46906518569210)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen?variant=46906518569210)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-מילווקי-באקס-ריי-אלן?variant=46906518601978)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen?variant=46906518601978)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [מכנסי משחק מילווקי באקס](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:35Z
+- [מכנסי משחק מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-shorts): מכנסי משחק בעיצוב הקלאסי של מילווקי באקס, נוחים לשימוש בספורט או לסטייל יומיומי.
+  Updated: 2025-10-03T11:09:23Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_cd5724ce-11f2-4cb4-8ea2-2f7bafafa114.jpg?v=1738545163
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס?variant=46908007252218)
+  - [S](https://www.rsport.co.il/products/mlwbucks-shorts?variant=46908007252218)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס?variant=46908007284986)
+  - [M](https://www.rsport.co.il/products/mlwbucks-shorts?variant=46908007284986)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס?variant=46908007317754)
+  - [L](https://www.rsport.co.il/products/mlwbucks-shorts?variant=46908007317754)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס?variant=46908007350522)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-shorts?variant=46908007350522)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס?variant=46908007383290)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-shorts?variant=46908007383290)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-מילווקי-באקס?variant=46908007416058)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-shorts?variant=46908007416058)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק שחורים מילווקי באקס](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:33Z
+- [מכנסי משחק שחורים מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-shorts-black): מכנסי משחק שחורים של מילווקי באקס עם בד נושם וגזרה ספורטיבית, מתאימים לאוהדים ולפעילות ספורט.
+  Updated: 2025-10-03T11:06:25Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_69126c10-d545-4438-a911-b0f630954f69.jpg?v=1738545168
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס?variant=46908013969658)
+  - [S](https://www.rsport.co.il/products/mlwbucks-shorts-black?variant=46908013969658)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס?variant=46908014002426)
+  - [M](https://www.rsport.co.il/products/mlwbucks-shorts-black?variant=46908014002426)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס?variant=46908014035194)
+  - [L](https://www.rsport.co.il/products/mlwbucks-shorts-black?variant=46908014035194)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס?variant=46908014067962)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-shorts-black?variant=46908014067962)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס?variant=46908014100730)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-shorts-black?variant=46908014100730)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-שחורים-מילווקי-באקס?variant=46908014133498)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-shorts-black?variant=46908014133498)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [מכנסי משחק לבים מילווקי באקס](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס): טכנולוגיית Dri-FIT® מנדפת לחותהמותניים האלסטיות מצוידות בשרוך כדי להתאים את הרפיוןתהליך הדפסה: השימוש בטכנולוגיית עיבוד חם לייצור דפוסיםפסים תפוריםחומר: 100% פוליאסטרכביסה במכונה כשהמכנס בתצורה ההפוכה שלו (פנימה החוצה), ייבוש במייבש נמוךלבוש של Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% תוכן ממוחזר כחלק מהמסע לעבר ללא פחמן ופסולת
-  Updated: 2025-09-07T22:13:33Z
+- [מכנסי משחק לבנים מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-shorts-green): מכנסי משחק לבנים של מילווקי באקס בעיצוב נוח ואיכותי, מתאימים למגרש וללבוש יום יומי.
+  Updated: 2025-10-03T11:04:21Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_43c88d1c-851c-4fab-a03e-3d3fefdc75cb.jpg?v=1738545154
-  - [S](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס?variant=46908017279226)
+  - [S](https://www.rsport.co.il/products/mlwbucks-shorts-green?variant=46908017279226)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס?variant=46908017311994)
+  - [M](https://www.rsport.co.il/products/mlwbucks-shorts-green?variant=46908017311994)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס?variant=46908017344762)
+  - [L](https://www.rsport.co.il/products/mlwbucks-shorts-green?variant=46908017344762)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס?variant=46908017377530)
+  - [XL](https://www.rsport.co.il/products/mlwbucks-shorts-green?variant=46908017377530)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס?variant=46908017410298)
+  - [2XL](https://www.rsport.co.il/products/mlwbucks-shorts-green?variant=46908017410298)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/מכנסי-משחק-לבים-מילווקי-באקס?variant=46908017443066)
+  - [3XL](https://www.rsport.co.il/products/mlwbucks-shorts-green?variant=46908017443066)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסיי JUSTO DON מילווקי באקס](https://www.rsport.co.il/products/mb-pants-just-don): ‏מכנסי מילווקי באקס JUST DON לגברים בעיצוב איכותי, נוח ועמיד בהשראת ה־NBA לשימוש במגרש וביום יום עם מראה מודרני וספורטיבי
@@ -16064,7 +16064,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי בית 2014/15](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:32Z
+  Updated: 2025-10-03T09:53:29Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -46328,10 +46328,10 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 12
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-09-29T14:21:35Z
+  Updated: 2025-10-03T11:18:38Z
   Total Products: 49
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-09-29T14:21:35Z
+  Updated: 2025-10-03T11:18:38Z
   Total Products: 44
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-02T13:33:14Z
@@ -46427,7 +46427,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-02T13:33:14Z
+  Updated: 2025-10-03T11:18:38Z
   Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
