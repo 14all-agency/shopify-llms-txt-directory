@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-02T20:00:34.328Z
+- Updated At: 2025-10-03T04:00:33.835Z
 
 ## Products
 
@@ -2705,7 +2705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CALCUTTA-MIDNIGHT-503-2.jpg?v=1711391576
     Price: $1.00 USD
 - [Gravel Metallic Jacquard Embroidery Fabric | Fabrics Star](https://fabricsstar.com/products/gravel-metallic-jacquard-embroidery-fabric): Gravel Metallic Jacquard Embroidery Fabric Jacquard fabric by the yard is medium-weight and made of 100% polyester. The beautiful glitzy tablecloth will uplift any occasion!
-  Updated: 2025-09-29T04:13:48Z
+  Updated: 2025-10-03T02:15:20Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
