@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-03T08:00:32.837Z
+- Updated At: 2025-10-03T16:00:32.810Z
 
 ## Products
 
@@ -316,7 +316,7 @@
     Availability: Available
     Price: ₹695.00 INR
 - [Buy ​United Medicare Ar Sling Tropica (C-07) - Surgismart](https://surgismart.in/products/c-07): Key Features:UM arm sling is designed to reduce neck and shoulder pressure and provide shoulder protection. Supports the arm and carries the weight across the back and shoulders. Thumb loop inside for desired hand rest. Easy closing and opening of the buckle allows easy application. It has an adjustment band that allows regulation of arm height and shoulder protection. Its inner layer is bonded with PU fabric to provide coolness and comfort Direction of use Place your arm inside the arm sling tropical. Connect the buckle system as per your comfortable resting height and angle of the arm. Safety information Hand wash with mild detergent and water. Dont dry clean. Dont iron or bleach. Keep out of reach of children UM Arm Sling Tropical holds, supports, and immobilises the sprained, broken, or surgically operated arm in the flexion position while it recuperates. A sleek and smart design is ideally suitable for hot and humid climatic conditions.An arm sling helps your arm or shoulder heal after an upper-body injury or surgery. It supports the arm and carries the weight across the back and shoulders.UM arm sling tropical has arm slide buckle with single touch opening and closing, so it provides very easy application as well as removal.UM arm sling is available in 5 different sizes: S, M, L, XL, and XXL. You can choose the suitable size.Arm sling tropical is made in lightweight PU laminated material and it provides comfort, durability & soft feel.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:32Z
+  Updated: 2025-10-03T10:33:58Z
   Vendor: United Medicare
   Product Type: Arm Support
   Availability: Available
@@ -2924,268 +2924,286 @@
     Availability: Available
     Price: ₹1,257.00 INR
 - [Buy ​iCare 105 Folding Wheel chair Swing Away Handrest Removable Leg Rest - Surgismart](https://surgismart.in/products/icare-folding-whelchair-swing-away-handrest-038-removable-leg-rest): The icare lightweight folding wheelchair has been cleverly designed to create the kind of minimalistic style that youd expect from a rigid wheelchair. Weight 17.00Kgs Seat Width 18 Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-09-07T20:19:06Z
+  Updated: 2025-10-03T08:08:31Z
   Vendor: iCare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-16.png?v=1751477983
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-16.png?v=1759478910
   Price: ₹7,499.00 INR
 - [Buy ​iCare Paediatric Wheel chair - 111P 14" - Surgismart](https://surgismart.in/products/icare-paediatric-whelchair-111p): The Swc-pc-111p special needs stroller features superior positioning and user-friendly functionality for children 0-15 years. Weight 14.00Kgs Seat Width 14,” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:02Z
+  Updated: 2025-10-03T08:08:31Z
   Vendor: iCare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-18.png?v=1751477982
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-18.png?v=1759478910
   Price: ₹11,857.00 INR
 - [Buy ​iCare 113T Compact Travel Wheelchair - Surgismart](https://surgismart.in/products/icare-compact-travel-wheelchair): Named for its built-in growth system, the Swc-pc-a113t offers frame and component growth with a folding or rigid frame to keep up with kids ever-changing lives! Weight 11.00Kgs Seat Width 18 Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:01Z
+  Updated: 2025-10-03T08:08:25Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-28.png?v=1751477982
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-28.png?v=1759478904
   Price: ₹8,799.00 INR
 - [Buy ​iCare Folding Aluminium Wheel chair - 122B - Surgismart](https://surgismart.in/products/icare-folding-aluminium-whelchair-122b): The Swc-pc A112s is versatile, modular, and available in an endless number of configurations. An industry favorite lightweight folding wheelchair for over 33 years. Weight 12.00Kgs Seat Width 18 Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:01Z
+  Updated: 2025-10-03T08:08:25Z
   Vendor: iCare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-39.png?v=1751477981
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-39.png?v=1759478904
   Price: ₹7,299.00 INR
 - [Buy ​iCare 109 Folding Commode Wheel chair - Surgismart](https://surgismart.in/products/icare-folding-commode-whelchair): The icare lightweight folding wheelchair has been cleverly designed to create the kind of minimalistic style that youd expect from a rigid wheelchair. Weight 18.00Kgs Seat Width 16 18 Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:01Z
+  Updated: 2025-10-03T08:08:24Z
   Vendor: iCare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-40.png?v=1751477980
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-40.png?v=1759478904
   Price: ₹7,999.00 INR
 - [Buy ​iCare 111CP 14" Cerebral Palsy Wheelchair - Surgismart](https://surgismart.in/products/icare-cerebral-palsy-wheelchair): Cerebral Palsy Wheelchair (swc-pc-111cp) This rotation-in-space wheelchair offers a superior combination of positioning, maneuverability, and portability with the food Table. Weight 15.00Kgs Seat Width 14,” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:00Z
+  Updated: 2025-10-03T08:08:23Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-42.png?v=1751477980
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-42.png?v=1759478903
   Price: ₹10,999.00 INR
 - [Buy ​iCare Udaan Black 888 Folding Wheelchair IN Epoxy Finish With Mag Wheel - Surgismart](https://surgismart.in/products/icare-folding-wheelchair-in-epoxy-finish-with-mag-wheel): Folding Wheelchair (udaan Swift) The Udaan Swift is versatile, modular, and available in an endless number of configurations. An industry favorite wheelchair manufacturing company in India for over 33 years. Weight 15.00Kgs Seat Width 14,16 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:00Z
+  Updated: 2025-10-03T08:08:23Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-43.png?v=1751477979
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-43.png?v=1759478902
   Price: ₹5,199.00 INR
 - [Buy ​iCare Folding Premium Wheel chair 143 - Surgismart](https://surgismart.in/products/icare-folding-premium-whelchair): The folding premium wheelchair is versatile, modular, and available in an endless number of configurations. An industry favorite lightweight folding wheelchair for over 33 years. Weight 15.00Kgs Seat Width 18” Load Capacity 120 Kgs - Surgismart
-  Updated: 2025-08-13T07:37:00Z
+  Updated: 2025-10-03T08:08:23Z
   Vendor: iCare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-44.png?v=1751477978
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-44.png?v=1759478902
   Price: ₹7,999.00 INR
 - [Buy ​iCare Reclining Commode Wheelchair U-cut - 108U - Surgismart](https://surgismart.in/products/icare-reclining-commode-wheelcahir-u-cut-108u): The first of its kind: A truly transportable commode wheelchair, specially designed for families on the move. Weight 17.00Kgs Seat Width 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-08-13T07:36:59Z
+  Updated: 2025-10-03T08:08:21Z
   Vendor: iCare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-46.png?v=1751477977
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-46.png?v=1759478901
   Price: ₹12,499.00 INR
 - [Buy ​iCare Folding Wheelchair IN Chrome Finish With Mag Wheel - Surgismart](https://surgismart.in/products/icare-folding-wheelchair-in-chrome-finish-with-mag-wheel): Folding Wheelchair (udaan Chrome) The Udaan Swift is versatile, modular, and available in an endless number of configurations. An industry favorite wheelchair manufacturing company in India for over 33 years. Weight 15.00Kgs Seat Width 14,16 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-09-18T12:49:44Z
+  Updated: 2025-10-03T08:08:22Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/YOUR-PATHWAY-TO-EFFORTLESS-MOBILITY-AND-BOUNDLESS-POSSIBILITIES-7.png?v=1751477977
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/YOUR-PATHWAY-TO-EFFORTLESS-MOBILITY-AND-BOUNDLESS-POSSIBILITIES-7.png?v=1759478901
   Price: ₹5,499.00 INR
 - [Buy ​Omron HEM 6161 Fully Automatic Wrist Blood Pressure Monitor - Surgismart](https://surgismart.in/products/omron-hem-6161-fully-automatic-wrist-blood-pressure-monitor-with-intellisense-technology-cuff-wrapping-guide-and-irregular-heartbeat-detection-for-most-accurate-measurement): OMRON HEM 6161 fully automatic blood pressure monitor with Phable’s Care 360 program for easily accessible healthcare anywhere, anytime This BP machine from Omron works on the oscillometer principle for precise measurements and can even detect irregular heartbeats. Phable app has a bunch of features to help simplify healthcare. Get real-time diagnosis and sync your BP reading from the OMRON HEM 7120 digital BP machine for home use Phable app can help you book appointments with specialised doctors for a hassle-free consultation, and it even helps you order medicines and healthcare devices per your diagnosis. With the app’s Digital Diary feature, you can easily manage your blood pressure conditions with your BP readings synced with the app directly from Omron blood pressure machine. You can also get health analysis done through the app for your high blood pressure, and it will give you risk scores based on the BP readings synced from the HEM 6161 bp monitor. Omron HEM-6161 wrist blood pressure monitor is a blood pressure monitor is to be worn on your wrist. This new blood pressure monitor uses the oscillometric method of blood pressure measurement. When the cuff inflates, this monitor senses the pressure pulsations of the artery underneath the cuff. The pulses are called oscillometric pulses. The electronic pressure sensor displays a digital reading of blood pressure. Irregular Heartbeat Detection An irregular heartbeat is a heartbeat rhythm that varies by more than 25% from the average heartbeat rhythm detected while the unit is measuring blood pressure. 1. If such an irregular rhythm is detected more than twice during measurement, the irregular heartbeat symbol appears on the display with the measurement result. 2. If the irregular heartbeats cause the measurement to be invalid, no result is shown. 3. If the irregular heartbeat symbol is shown after you have taken a measurement, repeat the measurement. 4. If the symbol continues to appear, we recommend you to consult your healthcare professional. - Surgismart
-  Updated: 2025-09-01T09:43:25Z
+  Updated: 2025-10-03T08:08:20Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61_qKt5gk7LSX679.jpg?v=1751477976
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61_qKt5gk7LSX679.jpg?v=1759478899
   Price: ₹1,899.00 INR
 - [Buy ​Omron HEM 7156 with 360° Accuracy IntelliWrap™ Cuff & Average of Last 3 Measurements - Surgismart](https://surgismart.in/products/omron-hem-7156-with-360-accuracy-intelliwrap™-cuff-average-of-last-3-measurements): Omron digital blood pressure besides being clinically validated are also known to give the most accurate BP readings. Omron HEM 7156 digital BP check machine now comes equipped with the 360° Accuracy IntelliWrap™ Cuff for first time users which can be worn with just one-hand. Made to fit most Asian arm sizes the IntelliWrap Cuff ensures highly reliable BP readings no matter how it is worn. - Surgismart
-  Updated: 2025-08-13T07:36:58Z
+  Updated: 2025-10-03T08:08:18Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Hem-7156-3-1-570x570.webp?v=1751477975
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Hem-7156-3-1-570x570.webp?v=1759478897
   Price: ₹3,099.00 INR
 - [Buy ​OMRON Digital Bluetooth Blood Pressure Monitor with Cuff Wrapping Guide & Intellisense Technology - HEM 7143T1A - Surgismart](https://surgismart.in/products/omron-digital-bluetooth-blood-pressure-monitor-with-cuff-wrapping-guide-and-intellisense-technology-hem-7143t1a): Irregular Heartbeat Detection - Helps to detect any abnormal rhythm of your heartbeat, so you can consult your physician for early diagnosis and treatment. The Smarter Way To Connect To Your Heart Health - Keep track of your blood pressure readings and stay on top of your heart health with OMRON connect anytime, anywhere. With Bluetooth wireless connectivity, you can sync your daily blood pressure readings from the device to the OMRON connect app, effortlessly. Intellisense Technology for Comfort & Accuracy - Intellisense, available in all OMRON Blood Pressure Monitors, can automatically personalise the cuff inflation just for you to ensure less pain and discomfort during measurement. Bluetooth Connectivity - Measurements can easily be transferred to the OMRON Connect app to help track your progress more precisely. Item Weight: 250.0 Grams; Unit Count Type: Count; Color Name: White; Batteries Required: False; Unit Count: 1.0 - Surgismart
-  Updated: 2025-08-13T07:36:58Z
+  Updated: 2025-10-03T08:08:17Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61tMuf2ciMLSX679.jpg?v=1751477974
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61tMuf2ciMLSX679.jpg?v=1759478896
   Price: ₹2,999.00 INR
 - [Buy ​Omron HEM-8712 Digital Automatic Blood Pressure monitor. - Surgismart](https://surgismart.in/products/omron-hem-8712-digital-automatic-blood-pressure-monitor): To keep track of your blood pressure and help you in effective health management, here is the Omron HEM 8712 Blood Pressure Monitor with a digital display. It is a convenient thing to be used by people with blood pressure or in clinical settings by healthcare professionals. It is a highly accurate device and features body movement detection that sets it apart from other blood monitors. Sporting a big screen that displays the pulse/min, this digital monitor has high functionality and easy operation. Its highlights include a hypertension detection mechanism that aids people with high blood pressure. The precision of its output is endorsed by its digital numerals that display the last reading as well. It is operated through a battery which ensures it long lasting performance and easy maintenance. The Omron HEM 8712 Blood Pressure Monitor awesome features such as irregular heart beat detection that makes it a super utility device. - Surgismart
-  Updated: 2025-08-13T07:36:58Z
+  Updated: 2025-10-03T08:08:17Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51NMDl-sr5LSX679.jpg?v=1751477973
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51NMDl-sr5LSX679.jpg?v=1759478895
   Price: ₹1,899.00 INR
 - [Buy ​Omron Compressor Nebulizer NEC-106 - Surgismart](https://surgismart.in/products/omron-ultra-compact-low-noise-compressor-nebulizer-nec-106-for-child-adult): Colour: White Style Name: Ultra Compact Pattern Name: Nebulizer Omron Compressor Nebulizer NE-C106 Fast and Effective nebulization - Break down the medication to 4.56 micrometer particle, ideal to reach lower airways, Assuring fast and effective treatment. Easy to clean and Easy to use Powerful performance: Uncompromising quality last through periods of time Batteries Required: False; Unit Count: 1; Item Weight: g 1000; Item Length: MM 180; Item Height: MM 210; Unit Count Type: Count; Item Width: MM 180 (1 Year Warranty to be claimed at local service centre) - Surgismart
-  Updated: 2025-08-13T07:36:57Z
+  Updated: 2025-10-03T08:08:14Z
   Vendor: OMRON
   Product Type: Compressor Nebulizer
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61RrjenC0VLX679.jpg?v=1751477972
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61RrjenC0VLX679.jpg?v=1759478892
   Price: ₹1,399.00 INR
 - [Buy ​Omron HEM 7121J Fully Automatic Digital Blood Pressure monitor - Surgismart](https://surgismart.in/products/omron-hem-7121j-fully-automatic-digital-blood-pressure-monitor-with-intellisense-technology-cuff-wrapping-guide-for-most-accurate-measurement): The Omron HEM 7121J is a compact, fully automatic bp monitor, operating on the oscillometric principle for precise measurements and accurate results. It measures your bp with easy one touch operation;The device uses its advanced “intellisense” technology for comfortable controlled inflation, even a slight pressure change can be detected, resulting most accurate measurement, Saves time & money. Quick deflation releases valve for speedy measurement Along with bp monitoring this product detects irregular heartbeat. Its loaded with body movement indicator and cuff wrapping guide which helps you keep even better watch on your cardiovascular health Omron HEM 7121J comes with 3 years warranty and lifetime support provided by Omron. This digital blood pressure monitor is guaranteed to meet your standards; This product is mainly designed for general household use. Please read the important safety information in the instruction manual before using the unit Tips- 1) wrap the cuff properly 2) measure at the same time of the day (within 1 hour after getting-up and before bed-time is recommended) 3) sit in a chair, straighten your back and be relaxed Unit Count Type: Count; Unit Count: 1; Batteries Required: True; Item Weight: Kg 0.5 - Surgismart
-  Updated: 2025-08-13T07:36:57Z
+  Updated: 2025-10-03T08:08:26Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7121j.jpg?v=1751477971
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7121j.jpg?v=1759478892
   Price: ₹1,848.00 INR
 - [Buy ​EASYCARE EC2016 Fetal Doppler Machine with High sensitivity Probe - Surgismart](https://surgismart.in/products/easycare-ec2016-fetal-doppler): Introducing the EasyCare Fetal Doppler Monitor, a high-quality, easy to use device designed for expecting mothers to monitor their baby’s heartbeat at home. This fetal doppler machine provides clear, real-time audio of your baby’s heartbeat, offering peace of mind throughout your pregnancy. Whether you're looking to track the fetal heartbeat early on or during any stage of your pregnancy, this fetal heart doppler is the perfect companion for baby care. Key Features: High Sensitivity: Accurately detects the fetal heartbeat, ensuring you can hear your baby’s voice even in the early stages of pregnancy. Radiation-Free: Safe for both mother and baby, making it ideal for regular use at home. The radiation-free fetal doppler ensures peace of mind while monitoring your baby’s health. LCD Display: Easily view your baby’s fetal heart rate in beats per minute on the backlit digital screen, ensuring accurate readings. Portable and Easy to Use: Compact and lightweight, this fetal heartbeat monitor is designed for home use, giving you the flexibility to monitor your baby’s heart anytime, anywhere. Clear Sound with Two Listening Methods: Hear your baby's heartbeat through the high-fidelity speaker or connect headphones for private listening. Low Battery Indicator: Stay informed with the low power indicator, so you never miss an opportunity to check on your little one. Affordable Price: Offering great value, this fetal doppler monitor is a must-have for every expectant mother looking to stay connected with their baby’s health. This doppler fetal monitor is a great tool for monitoring fetal health from the comfort of your home, eliminating the need for frequent doctor visits. It's also a wonderful way to share the joy of hearing your baby’s heartbeat with loved ones. Whether you're looking for a good fetal doppler, a fetal heartbeat machine, or an at home fetal heart monitor, the EasyCare Fetal Doppler is your trusted companion. Its high performance, easy-to-use features, and affordable doppler machine price make it a recommended choice for every expecting mother. Don’t miss out on this essential baby item for baby care experience the joy of hearing your baby’s fetal heartbeat with EasyCare Fetal Doppler today. - Surgismart
-  Updated: 2025-08-13T07:36:56Z
+  Updated: 2025-10-03T08:08:22Z
   Vendor: EASYCARE Global
   Product Type: Fetal Doppler
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/easycare-ec2016-fetal-doppler-machine-high-sensitivity-probe-radiation-free.jpg?v=1751477970
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/easycare-ec2016-fetal-doppler-machine-high-sensitivity-probe-radiation-free.jpg?v=1759478891
   Price: ₹2,499.00 INR
 - [Buy ​EASYCARE (EC1080) Stature Meter with Retractable measure tape for Kids & Adults - Surgismart](https://surgismart.in/products/easycare-manual-stature-meter): Special Design: Aesthetically designed for saving space with its roll-up mechanism. Multiple Application: This stature meter is perfect for office, school, doctor’s office, home convenience so that your family can measure the height easily. Quality Material: It has double-faced adhesive tape on the back and comes with 3 screws for firm wall mounting. Easy to Read: You can read the height measurement easily on display with less labor and time. Accurate: The height meter is lightweight portable, accurate & reliable. EASYCARE Manual stature meter has a retractable measure tape that is long enough for you to measure the height up to a range of 200cm. Measuring height is essential when tracking a child’s growth and it is also used to calculate your body mass index (BMI). EASYCARE Manual Stature Meter is made of high-quality ABS material that makes it durable. This unit only has metric measurements (centimeters) and does not measure in feet & inches. - Surgismart
-  Updated: 2025-08-13T07:36:56Z
+  Updated: 2025-10-03T08:08:10Z
   Vendor: EASYCARE Global
   Product Type: Retractable Measure Tape
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/StatureMeter_2_663ed0be-c23a-494b-a5be-ab34ac05367a.jpg?v=1751477968
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/StatureMeter_2_663ed0be-c23a-494b-a5be-ab34ac05367a.jpg?v=1759478883
   Price: ₹349.00 INR
 - [Buy ​EASYCARE (EC5080) Rigid Digital Thermometer for Kids & Adults - Surgismart](https://surgismart.in/products/easycare-rigid-digital-thermometer-for-kids-adults-lcd-display-with-fever-alarm): Rapid & Accurate: Offers fast & accurate reading with approximately 45 seconds on rectal, 60 seconds for oral body temperature and 60 seconds underarm measuring time. Easy to use: With one-button operation, you can easily switch between Celsius and Fahrenheit units within 3 seconds by long-pressing the power button. Safe & Easy to clean: The thermometer comes in a protective storage case which keeps the versatile thermometer safe and ready for use. It can be cleaned easily and hygienically for next use. Hi-Res LCD Display: Even in the darkroom, you can clearly see the readings on a high-resolution LCD display. Fever Alarm: It also features a tone signal (fever alarm) that indicates peak temperature and memory recall to the last reading. Product Dimensions: 11.5 x 1.7 x 1cm Using a thermometer is the most accurate way to take body temperature for testing fever. EASYCARE Digital Thermometer is a multifunctional device that offers rapid & accurate readings. It is the best digital thermometer available for oral, rectal, and armpit use. The precision is reasonable and is easy for adults and kids to use with a 15-second beep sound when flashing stops. EASYCARE Digital Thermometer is safer than glass thermometers as it does not contain mercury. We offer 100% satisfactory after-sales customer service and a hassle-free 1-year warranty against any manufacturing defects. - Surgismart
-  Updated: 2025-08-13T07:36:56Z
+  Updated: 2025-10-03T08:08:03Z
   Vendor: EASYCARE Global
   Product Type: Thermometer
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/ListingMainImg_EC5004.jpg?v=1751477966
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/ListingMainImg_EC5004.jpg?v=1759478882
   Price: ₹198.00 INR
 - [Buy ​EASYCARE (EC7060-D4) Toilet Seat Riser with Safe Lock & Lid (4-inch) - Surgismart](https://surgismart.in/products/easycare-toilet-seat-riser-with-lid-commode-raiser-with-safe-lock-4-inch): Adds extra 4 inches: The EASYCARE Commode Raiser elevates the toilet seat by 4 inches to assist senior citizens, handicap, and those who has stiff joints, recovering from (hip, knee or back) surgery. Safety Lock: The standard locking mechanism secures the elevated toilet seat to the toilet bowl so that it stays in place and ensures safety. Maximum Weight & Easy Installation: This toilet seat riser has a maximum weight-bearing capacity of 180 kg & No tools are required to install it. Wide opening: It has a wide area for sitting with extra wide opening for your comfort and ease of cleaning. Seat with Lid: The Elevated toilet seat has a lid cover attached with it for personal hygiene. -- The EASYCARE Toilet Seat Riser is well-designed for the convenience of those individuals who have difficulties in sitting & rising up from the toilet seat. It is cost-effective as it avoids refitting or installing a new commode by adapting easily on top of the existing seat. EASYCARE Commode Raiser is made from heavy-duty moulded plastic that ensures durability & reliable performance. It is suitable for all toilet seats and is available in two variants, i.e. 10 cm (4 Inches), and 15 cm (6 Inches). - Surgismart
-  Updated: 2025-08-13T07:36:55Z
+  Updated: 2025-10-03T08:08:01Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-3.jpg?v=1751477965
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-3.jpg?v=1759478880
   Price: ₹1,399.00 INR
 - [Buy EASYCARE Digital Baby Weighing Scale with Height Meter | Surgismart](https://surgismart.in/products/easycare-digital-baby-weighing-scale): Monitor your baby’s growth with EASYCARE Digital Baby Weighing Scale. Accurate, safe tray, height meter, LCD display & auto-on/off. Shop at Surgismart.
-  Updated: 2025-09-29T20:03:39Z
+  Updated: 2025-10-03T08:08:06Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/19.jpg?v=1751477964
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/19.jpg?v=1759478874
   Price: ₹3,634.00 INR
 - [Buy EASYCARE Pulse Oximeter with LED Display & Accurate SpO2 Monitoring | Surgismart](https://surgismart.in/products/easycare-pulse-oximeter-spo2-monitor): EASYCARE Pulse Oximeter with LED display ensures accurate SpO2 & pulse monitoring. Portable, waterproof, durable & doctor-recommended. Shop now at Surgismart.
-  Updated: 2025-09-29T19:59:51Z
+  Updated: 2025-10-03T08:08:07Z
   Vendor: EASYCARE Global
   Product Type: Oximeter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/PulseOximeter.png?v=1751477963
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/PulseOximeter.png?v=1759478873
   Price: ₹1,499.00 INR
 - [Buy EASYCARE Fetal Doppler for Baby Heartbeat Monitoring at Home | Surgismart](https://surgismart.in/products/easycare-fetal-doppler-heartbeat-monitor): Monitor your baby’s heartbeat at home with EASYCARE Fetal Doppler. Color LED display, headphone jack, safe, durable & easy to use. Shop at Surgismart.
-  Updated: 2025-09-29T19:57:03Z
+  Updated: 2025-10-03T08:07:53Z
   Vendor: EASYCARE Global
   Product Type: Fetal Doppler
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1122-600x600.jpg?v=1759132617
   Price: ₹3,999.00 INR
 - [Buy EASYCARE Toilet Seat Riser (6-Inch) for Seniors & Post-Surgery | Surgismart](https://surgismart.in/products/easycare-toilet-seat-riser-6-inch): EASYCARE Toilet Seat Riser adds 6" height for seniors & recovery. Secure, durable & tool-free install. Shop comfort & safety at Surgismart.
-  Updated: 2025-09-29T19:44:53Z
+  Updated: 2025-10-03T08:07:56Z
   Vendor: EASYCARE Global
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-2.jpg?v=1751477961
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-7060-D4-Commode-Raiser-2.jpg?v=1759478863
   Price: ₹1,999.00 INR
 - [Buy EASYCARE EC6012 Anti Decubitus Air Mattress with Pump | Surgismart](https://surgismart.in/products/easycare-ec6012-anti-decubitus-air-mattress): Shop EASYCARE EC6012 Anti Decubitus Air Mattress at Surgismart. Prevent bedsores & pressure ulcers with tubular design, quiet pump & medical-grade comfort.
-  Updated: 2025-09-29T19:17:54Z
+  Updated: 2025-10-03T08:07:45Z
   Vendor: EASYCARE Global
   Product Type: Air Mattress
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-6012_1.jpg?v=1751477960
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/EC-6012_1.jpg?v=1759478862
   Price: ₹7,999.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Pro - Surgismart](https://surgismart.in/products/medtech-compressor-nebulizer-handyneb-pro): Keep your respiratory problems at bay with MEDTECH Handyneb Pro Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Storage Compartment:The Medtech Handyneb Pro has an integrated storage compartment for you to store all the nebulizer accessories without having to worry about where to store them. Handle Design:The Medtech Handyneb Pro also has a handle integrated in the body which makes it convenient to carry around. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T11:46:13Z
+  Updated: 2025-10-03T08:07:27Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Medtech-Pro-model-Product-kit.png?v=1751477951
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Medtech-Pro-model-Product-kit.png?v=1759478840
   Price: ₹1,449.00 INR
 - [Buy ​Medtech Automatic Digital BP Machine Blood Pressure Monitor BP18 - Surgismart](https://surgismart.in/products/medtech-automatic-digital-bp-machine-blood-pressure-monitor-bp18): The Medtech Blood Pressure Monitor BP18 is the best blood pressure monitor that every household should have for monitoring their family's heart health. The highly accurate and quick reading device helps you monitor your blood pressure and pulse levels conveniently in the comfort of your home. It is the best blood pressure for home use. Pulse measurement accuracy: Fast and reliable, results can be obtained within seconds and avoid inaccurate results. Large Screen: The large LCD helps customers easily read the numbers on the screen. USB Cable Power Support: No need to worry if the batteries die. You can always use the Medtech Blood Pressure Monitor with a Micro-USB cable. Memory Function to store readings: The BP monitor also has a memory function that helps you to store 90 readings for two members each! Made In India: All Medtech Blood Pressure Monitors are made by us in India giving us the expertise in providing the best quality products and services to our customers Live Hassle-Free and Live-Healthy with the Medtech Blood Pressure Monitors! Stay on top of your health with the automatic digital best blood pressure monitor from Medtech.Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T23:01:34Z
+  Updated: 2025-10-03T08:07:18Z
   Vendor: Medtechlife
   Product Type: B. P. Monitor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/27_cfb758e0-eddf-4785-a4b9-e176d627a962.png?v=1751477949
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/27_cfb758e0-eddf-4785-a4b9-e176d627a962.png?v=1759478837
   Price: ₹1,349.00 INR
 - [Buy ​Medtech Digital Thermometer TMP 02 - Surgismart](https://surgismart.in/products/medtech-digital-thermometer-tmp-2): Medtech Handy TMP 02 DIGITAL THERMOMETER is the ideal thermometer for home and hospital use.The high accuracy sensor makes sure you get an accurate reading every time. MANUFACTURED BY MEDTECH LIFE - INDIA’S LARGEST MANUFACTURER OF HOME CARE MEDICAL DEVICES It is packed with useful features like: Beep Sound:The thermometer gves off a beeping sound when it has completed taking the reading. This makes it very convenient to use and makes sure that you do not need to keep looking at the screen while the reading is being taken. Automatic Shut-off:The thermometer is smart to switch off when the reading is not taking place. Hence making sure that you get long battery life. No Mercury: The new age thermometer is digital. The Medtech Thermometer is completely mercury-free and hence environmentally friendly. Storage Case Included:The Medtech Thermometer has a storage case in the box, making it convenient for you to store your thermometer. F/C Switchable: The thermometer has a dual scale, and the unit can be changed between Fahrenheit and Celsius with the use of just one button. Suitable For Full Family:One unit serves the entire family Light Weight:The Medtech Thermometer is lightweight and easy to carry. The carrying case included helps you to store the device quickly and securely. A thermometer is a must-have for any family, and it is an essential device one should have in their first aid kit. Most common sicknesses have an element of fever in them, and an accurate thermometer helps you monitor and track the person's temperature at regular intervals, which makes the diagnosis and symptom management more straightforward.Get your Medtech Digital Thermometer Today! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T10:58:27Z
+  Updated: 2025-10-03T08:06:58Z
   Vendor: Medtechlife
   Product Type: Digital Thermometer
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-digital-thermometer-tmp-02-681850.webp?v=1751477947
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-digital-thermometer-tmp-02-681850.webp?v=1759478817
   Price: ₹179.00 INR
 - [Buy ​Medtech Steamer Machine Handyvap VAP-01 - Surgismart](https://surgismart.in/products/medtech-steam-inhaler-handyvap-vap-01): A convenient, practical, and portable solution that facilitates steam inhalation at home. The Medtechlife Handyvap is the best steam inhaler for colds & coughs, and other respiratory problems. Double Wall Body: Double wall body to avoid any injury due to hot water while handling the machine. This patented design helps users to safely pick the steamer even during steaming. This makes the steaming and facial steaming super convenient and useful. Special Locking Mechanism: Traditional Steamers have a very weak lock which makes working with hot water risky. The Medtech Handyvap has a special locking mechanism to avoid accidental opening to safeguard from spilling hot water and burn. The lock is designed such that it can withstand strong pressures so the steamer does not open accidentally thus ensuring maximum safety for the user. Made in India: Medtech is a Indian Company with over 20 years of experience in the industry. The Medtech Handyvap ensures that it has been built with the best quality standards and has been designed, engineered and manufactured by Medtech Life in India! The HandyVap is ideal for children and adults. With essential features like a 100% ABS and double-walled body to prevent shocks and a unique locking system keeps the inhaler securely locked in use, preventing hot water spillage. The double-wall construction keeps the outer surface cool enough to be held by hands during use.Steam has been used for hundreds of years as a therapy for treating congestion, colds, and various ailments of the nose, throat, and upper respiratory area. Steam inhalers today have very convenient. They instantly create steam that can be inhaled for the best effect. Steam inhalers are very easy to use. Doctors worldwide recommend steam as a natural decongestant for anyone who is suffering from congestion, cold, or having trouble with sinusitis. A steam inhaler essentially gives off a fine mist of steam that quickly reaches the inner areas of the nose, sinuses, and throat. The steam provides effective and quick relief to the user. Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T10:53:28Z
+  Updated: 2025-10-03T08:06:57Z
   Vendor: Medtechlife
   Product Type: Inhaler
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/315qPfgohKL._SL1080.jpg?v=1751477946
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/315qPfgohKL._SL1080.jpg?v=1759478814
   Price: ₹398.00 INR
 - [Buy ​Medtech Needle Burner & Syringe Destroyer - Surgismart](https://surgismart.in/products/medtech-needle-burner-syringe-destroyer): Experience unparalleled efficiency with the Medtech Needle Burner Syringe Destroyer – the ultimate solution for seamless needle disposal. Boasting a swift 2-second operation, this device combines cutting-edge technology with a high-grade steel cutter for exceptional durability. Burn and cut needles in one hole effortlessly, providing a quick and hygienic solution to medical waste. Proudly made in India, the Medtech Needle Burner ensures top-notch quality while championing the 'Make in India' initiative. Prioritize safety with its innovative design that prevents needle injuries and infections, eliminating the need for cumbersome recapping. The shock-proof and fuse-protected features guarantee a secure user experience, while the device's minimal power consumption aligns with eco-friendly practices. Designed with practicality in mind, the Medtech Needle Burner features a compact design and a removable discharge tray for easy and convenient operation. Versatile enough to work on needles ranging from 19 to 35 gauge, this device is a valuable addition to any medical setting. Choose the Medtech Needle Burner Syringe Destroyer for a swift, safe, and efficient solution to needle disposal, raising the standards of your medical facility.Manufactured in India by MEDTECH LIFE Warranty and Repair Customer satisfaction is our first priority • Hassle-free 1 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T10:50:29Z
+  Updated: 2025-10-03T08:06:56Z
   Vendor: Medtechlife
   Product Type: Needle Burner
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-needle-burner-syringe-destroyer-524534.webp?v=1751477944
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-needle-burner-syringe-destroyer-524534.webp?v=1759478806
   Price: ₹2,749.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Smart - Surgismart](https://surgismart.in/products/medtech-nebulizer-handyneb-smart): Keep your respiratory problems at bay with MEDTECH Handyneb Smart Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Light Weight:The Medtech Handyneb Smart weighs just 1.5kgs which is really light and easy to carry around. Handle Design:The Medtech Handyneb Smart also has a handle integrated in the body which makes it convenient to carry around. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T10:44:51Z
+  Updated: 2025-10-03T08:06:47Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Addasubheading.png?v=1751477943
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Addasubheading.png?v=1759478805
   Price: ₹1,299.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Classic - Surgismart](https://surgismart.in/products/neb-classic): Keep your respiratory problems at bay with MEDTECH Handyneb Classic Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Light Weight:The Medtech Handyneb Classic weighs just 1.3kgs which is extremely light and easy to carry around. The design is compact ensuring that you can carry the device around with one hand. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T10:41:06Z
+  Updated: 2025-10-03T08:06:45Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitleddesign_1.png?v=1751477939
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitleddesign_1.png?v=1759478803
   Price: ₹1,249.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Gold - Surgismart](https://surgismart.in/products/medtech-nebulizer-handyneb-gold): Keep your respiratory problems at bay with MEDTECH Handyneb Gold Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Travel Pouch Included:Travel Hassle Free with the Handyneb Gold Nebulizer as you get an included travel pouch with the device that helps you to store your device and its accessories. Light Weight:The Medtech Handyneb Gold weighs just 1.5kgs which is really light and easy to carry around.Handle Design:The Medtech Handyneb Gold also has a handle integrated in the body which makes it convenient to carry around.Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-09-28T10:04:07Z
+  Updated: 2025-10-03T08:06:37Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1751477937
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1759478790
   Price: ₹1,499.00 INR
-- [Classic Scrub Suit, Navy](https://surgismart.in/products/classic-scrub-suit-navy): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-03T07:45:30Z
+- [Buy 18" Disposable Bouffant Caps – Pack of 100 – Blue, Latex-Free](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100): Comfortable 18" blue disposable bouffant caps by Surgismart. Ideal for medical, kitchen, salon & lab use. Pack of 100. Breathable, latex-free, secure fit.
+  Updated: 2025-10-03T08:06:40Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1754053943
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/CapImage1.jpg?v=1759478790
+  - [100 x ₹1.49](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693088024)
+    Availability: Available
+    Price: ₹149.00 INR
+  - [200 x ₹1.39](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693120792)
+    Availability: Available
+    Price: ₹278.00 INR
+  - [500 x ₹ 1.2](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693153560)
+    Availability: Available
+    Price: ₹625.00 INR
+  - [1000 x ₹1](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100?variant=50421693186328)
+    Availability: Available
+    Price: ₹1,000.00 INR
+- [Classic Scrub Suit, Navy](https://surgismart.in/products/classic-scrub-suit-navy): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
+  Updated: 2025-10-03T08:06:26Z
+  Vendor: Surgismart
+  Product Type: Free Shipping
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1759478785
   - [S](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589825816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1754053943
+    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1759478785
     Price: ₹749.00 INR
   - [M](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589858584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_06579a4e-cd05-4a24-a757-748d5d0e18d2.jpg?v=1754053943
+    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_06579a4e-cd05-4a24-a757-748d5d0e18d2.jpg?v=1759478785
     Price: ₹749.00 INR
   - [L](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589891352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_3eca6934-d333-4438-892f-1d51e626d595.jpg?v=1754053943
+    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_3eca6934-d333-4438-892f-1d51e626d595.jpg?v=1759478786
     Price: ₹749.00 INR
   - [XL](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589924120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4.jpg?v=1754053943
+    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4.jpg?v=1759478786
     Price: ₹749.00 INR
   - [XXL](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589956888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_2e9238a5-e38e-4959-9282-269cfb4c330e.jpg?v=1754053943
+    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_2e9238a5-e38e-4959-9282-269cfb4c330e.jpg?v=1759478785
     Price: ₹749.00 INR
 - [Classic Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-09-28T23:35:50Z
+  Updated: 2025-10-03T08:06:22Z
   Vendor: Surgismart
   Product Type: Lab Coat
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_760c961b-b710-484a-bd8c-37fb4be89217.png?v=1754663248
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_760c961b-b710-484a-bd8c-37fb4be89217.png?v=1759478768
   - [S](https://surgismart.in/products/lab-coat-apron?variant=50546604966168)
     Availability: Available
     Price: ₹495.00 INR
@@ -3219,11 +3237,11 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic Scrub Suit, Black](https://surgismart.in/products/classic-scrub-suit-black): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-03T07:45:52Z
+  Updated: 2025-10-03T09:01:15Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/11_62848245-3fb7-4852-8352-92887dc56bc8.png?v=1755347000
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/11_62848245-3fb7-4852-8352-92887dc56bc8.png?v=1759478787
   - [S](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191157528)
     Availability: Available
     Price: ₹749.00 INR
@@ -3240,11 +3258,11 @@
     Availability: Available
     Price: ₹749.00 INR
 - [Classic Scrub Suit, WIne](https://surgismart.in/products/classic-scrub-suit-wine): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-03T07:46:12Z
+  Updated: 2025-10-03T08:06:36Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_88f34cb3-a993-48e2-b65d-c921859d5f20.png?v=1755347000
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_88f34cb3-a993-48e2-b65d-c921859d5f20.png?v=1759478786
   - [S](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191649048)
     Availability: Available
     Price: ₹749.00 INR
