@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-03T04:00:47.649Z
+- Updated At: 2025-10-03T08:00:47.804Z
 
 ## Products
 
@@ -355,7 +355,7 @@
     Availability: Available
     Price: $55.00 NZD
 - [MARMAR COPENHAGEN Leggings - Hay](https://www.littlebambinos.co.nz/products/marmar-copenhagen-leggings-hay): Very comfortable & soft leggings. They are made to a high quality with a good fit making them a great basic for you little ones year-round wardrobe. DETAILS 47% TENCEL Modal 48% Cotton 5% Elasthane Standard 100 by OEKO-TEXÂ® certified SIZE Available from 2m - 8y CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2025-09-12T03:29:46Z
+  Updated: 2025-10-03T05:38:31Z
   Vendor: MarMar Copenhagen
   Product Type: Bottoms
   Availability: Available
@@ -7098,7 +7098,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-02T21:46:49Z
+  Updated: 2025-10-03T04:17:31Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -13418,7 +13418,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/E138ADFC-2992-4C48-BA86-6BC8ADDA6BDB.jpg?v=1744073617
   Price: $339.00 NZD
 - [INKAH Daisy Shelf](https://www.littlebambinos.co.nz/products/daisy-shelf): Our Daisy Shelf is the perfect way to add a touch of floral flair to your wall! This beautiful rattan shelf comes complete with a bar at the bottom, perfect for hanging any trinkets and treasures you have. Measures: 60cm wide x 60cm high x 25cm deep
-  Updated: 2025-08-06T23:00:32Z
+  Updated: 2025-10-03T06:32:41Z
   Vendor: Inkah Limited
   Product Type: 
   Availability: Available
@@ -15798,7 +15798,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Flap Cap Paradise - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-10-01T00:47:08Z
+  Updated: 2025-10-03T05:06:43Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15939,7 +15939,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Onesie L/S Ripple - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-ripple-daisy-watermelon): Toshi’s baby swimwear collection combines elegance, practical design, and high-quality materials. Providing UPF 50+ sun protection, the Swim Onsie safeguards your little one during water play. Made from fast-drying, chlorine- and saltwater-resistant fabric, it ensures durability and comfort. The playful frill detail on the shoulders adds charm, while the high neckline and long sleeves offer extra coverage. Convenient features include a front zip for easy dressing and press studs at the bottom for quick nappy changes. Seamless sides enhance comfort and fit, all showcased in a unique Toshi print. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-09-28T20:23:17Z
+  Updated: 2025-10-03T05:06:41Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -15948,7 +15948,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $54.95 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-ripple-daisy-watermelon?variant=42004005716062)
-    Availability: Available
+    Availability: Not Available
     Price: $54.95 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-ripple-daisy-watermelon?variant=42004005683294)
     Availability: Available
@@ -16771,7 +16771,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-03T03:43:11Z
+  Updated: 2025-10-03T07:43:11Z
   Total Products: 438
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17623,7 +17623,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-03T03:43:11Z
+  Updated: 2025-10-03T07:43:12Z
   Total Products: 1324
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-02T02:15:26Z
