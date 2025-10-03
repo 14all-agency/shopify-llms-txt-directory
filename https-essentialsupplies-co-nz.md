@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-03T12:00:41.132Z
+- Updated At: 2025-10-03T16:00:39.092Z
 
 ## Products
 
@@ -977,7 +977,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-splash-jacket-white-800mm-x-1300mm-x-30mu-200-pieces-plastic-body-protection-essential-supplies-915000.jpg?v=1719445556
   Price: $189.00 NZD
 - [Polyethylene Splash Jacket - Blue, 800mm x 1300mm x 30mu - 200 Pieces](https://essentialsupplies.co.nz/products/polyethylene-splash-jacket-blue-800mm-x-1300mm-x-30mu-200): Disposable splash jackets made from lightweight and durable polyethylene provide full length body protection against spills and contamination.Ideal for use in the medical, food processing, cleaning and farming industries. Available as one size fits all. Made from lightweight and durable polyethylene Provides full length body protection against spills and contamination Ideal for use in the medical, food processing, cleaning and farming industries Size: 800mm x 1300mm Content: 200 pieces Colour: White
-  Updated: 2025-02-18T23:05:58Z
+  Updated: 2025-10-03T12:57:54Z
   Vendor: Mattews Packaging
   Product Type: Plastic Body Protection
   Availability: Available
