@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-03T12:00:45.065Z
+- Updated At: 2025-10-03T16:00:45.472Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -10437,7 +10437,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £350.00 GBP
 - [Four Picture Heart Locket | 4 Photo Locket Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-white-gold): Need a luxurious romantic gift? This pretty four photo heart-shaped locket in 18 carat white gold vermeil is a charming way to keep loved ones close. The locket is hallmarked in Edinburgh. Free Locket Photos today.  Free UK shipping & Express Delivery Available. Shop this white gold necklace online today.
-  Updated: 2025-09-21T14:19:11Z
+  Updated: 2025-10-03T15:10:16Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15710,7 +15710,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-09-30T06:30:16Z
+  Updated: 2025-10-03T12:48:50Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -22673,7 +22673,7 @@ From £190.
     Availability: Available
     Price: £265.00 GBP
 - [Men's XL Dog Tag Necklace Silver + Engraving](https://www.lilyblanche.com/products/mens-xl-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother. Order today and receive a free jewellery care kit.
-  Updated: 2025-09-12T14:17:05Z
+  Updated: 2025-10-03T14:58:25Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22751,7 +22751,7 @@ From £190.
     Availability: Available
     Price: £175.00 GBP
 - [Solid White Gold Chunky Hoop Earrings | Premium Quality Classic Hoops](https://www.lilyblanche.com/products/solid-white-gold-chunky-hoop-earrings): Perfect for gifting & a jewellery box classic, these 9-carat solid white gold chunky hoop earrings come in 3 sizes. Order today with free shipping & care kit
-  Updated: 2025-08-29T08:57:13Z
+  Updated: 2025-10-03T13:07:01Z
   Vendor: Lily Blanche
   Product Type: Earring
   Availability: Available
@@ -22913,7 +22913,7 @@ From £190.
     Availability: Available
     Price: £250.00 GBP
 - [Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/heavy-gold-cross-necklace): Expertly crafted heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-01T15:54:14Z
+  Updated: 2025-10-03T13:52:14Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
