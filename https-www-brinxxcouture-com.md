@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-03T12:00:55.274Z
+- Updated At: 2025-10-03T16:00:47.053Z
 
 ## Products
 
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-03T08:22:40Z
+  Updated: 2025-10-03T12:20:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19627,7 +19627,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-01T22:32:25Z
+  Updated: 2025-10-03T14:35:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-03T09:02:21Z
+  Updated: 2025-10-03T13:50:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36254,6 +36254,114 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01IbIbSp1XBNjpfMrQG__1956822885-0-cib.jpg?v=1759435839
     Price: $45.00 USD
+- [Plus Size Round Neck Fold Short Sleeve Shirt | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt): Comfortable plus size shirt with round neck and unique fold detail. Short sleeves, solid colors. Perfect for casual everyday wear and layering.
+  Updated: 2025-10-03T14:53:46Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320.jpg?v=1759501750
+  - [Beige / 0xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343557814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Beige / 1XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343590582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Beige / 2XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343623350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Beige / 3XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343656118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Beige / 4xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343688886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Blue / 0xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343721654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320D.jpg?v=1759501751
+    Price: $35.00 USD
+  - [Blue / 1XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343754422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320D.jpg?v=1759501751
+    Price: $35.00 USD
+  - [Blue / 2XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343787190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320D.jpg?v=1759501751
+    Price: $35.00 USD
+  - [Blue / 3XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343819958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320D.jpg?v=1759501751
+    Price: $35.00 USD
+  - [Blue / 4xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343852726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320D.jpg?v=1759501751
+    Price: $35.00 USD
+  - [Green / 0xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343885494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320H.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Green / 1XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343918262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320H.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Green / 2XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343951030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320H.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Green / 3XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313343983798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320H.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Green / 4xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313344016566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320H.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Purple / 0xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313344049334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320L.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Purple / 1XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313344082102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320L.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Purple / 2XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313344114870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320L.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Purple / 3XL](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313344147638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320L.jpg?v=1759501750
+    Price: $35.00 USD
+  - [Purple / 4xl](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt?variant=44313344180406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320L.jpg?v=1759501750
+    Price: $35.00 USD
+- [Solid Knit Turtleneck Loose Sweater Long Sleeve | Brinxx Couture](https://www.brinxxcouture.com/products/solid-knit-turtleneck-loose-sweater-long-sleeve): Cozy oversized turtleneck sweater with long sleeves. Soft knit fabric, loose fit perfect for layering. Comfortable plus size friendly design.
+  Updated: 2025-10-03T14:42:22Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213.jpg?v=1759501852
+  - [Black / XL](https://www.brinxxcouture.com/products/solid-knit-turtleneck-loose-sweater-long-sleeve?variant=44313345523894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213.jpg?v=1759501852
+    Price: $29.99 USD
+  - [Black / 2XL](https://www.brinxxcouture.com/products/solid-knit-turtleneck-loose-sweater-long-sleeve?variant=44313345556662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213.jpg?v=1759501852
+    Price: $29.99 USD
+  - [Olive / XL](https://www.brinxxcouture.com/products/solid-knit-turtleneck-loose-sweater-long-sleeve?variant=44313345589430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213A.jpg?v=1759501851
+    Price: $29.99 USD
+  - [Olive / 2XL](https://www.brinxxcouture.com/products/solid-knit-turtleneck-loose-sweater-long-sleeve?variant=44313345622198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213A.jpg?v=1759501851
+    Price: $29.99 USD
 
 ## Collections
 
@@ -36270,8 +36378,8 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 59
 - [Plus Size Clothing | Stylish Dresses, Tops & More | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover flattering plus size clothing at Brinxx Couture. We offer trendy styles for all sizes. Shop dresses, tops, pants & more. Free shipping!
-  Updated: 2025-10-02T17:11:54Z
-  Total Products: 36
+  Updated: 2025-10-03T14:53:47Z
+  Total Products: 38
 - [Top Women’s Activewear - Stylish & Comfortable Fitness Gear](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover the best women’s activewear for all your fitness needs. Shop stylish, comfortable, and high-performance gear today!
   Updated: 2025-10-02T17:11:54Z
   Total Products: 17
@@ -36311,18 +36419,18 @@
 - [Chic Women's Swimwear | Trendy Bikinis & Swimsuits Online](https://www.brinxxcouture.com/collections/womens-swimwear): Discover the ultimate women's swimwear collection—bikinis, one-pieces & cover-ups. Flattering fits, bold designs & premium quality for every body. Dive in now!
   Updated: 2025-10-02T17:11:55Z
   Total Products: 33
-- [Women’s Fashion Sale | Brinxx Couture](https://www.brinxxcouture.com/collections/sale): Shop our sale for unbeatable deals on women’s clothing, accessories, and more. Don’t miss out on these limited-time offers at Brinxx Couture!
-  Updated: 2025-10-02T17:11:55Z
+- [Women's Fashion Sale - Up to 70% Off Clothing - Brinxx Couture](https://www.brinxxcouture.com/collections/sale): Shop our biggest sale! Save up to 70% on women's clothing, dresses, tops & accessories. Limited time offers on trendy fashion. Free shipping on all orders.
+  Updated: 2025-10-03T15:54:47Z
   Total Products: 25
 - [Body Shapewear & Slimming Underwear - Brinxx Couture](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover flattering body shapewear & slimming underwear at Brinxx Couture. Smooth, sculpt & enhance your silhouette with comfortable, effective designs.
   Updated: 2025-10-02T17:11:55Z
   Total Products: 22
-- [Trendy Women's Jewelry - Necklaces, Earrings & Bracelets - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-jewelry): Discover stunning women's jewelry at Brinxx Couture. Shop trendy necklaces, earrings, bracelets & rings. Affordable luxury pieces to complete any look.
-  Updated: 2025-10-02T17:11:55Z
+- [Women's Jewelry - Necklaces, Earrings, Bracelets & Rings](https://www.brinxxcouture.com/collections/womens-jewelry): Discover stunning women's jewelry at Brinxx Couture. Shop trendy necklaces, earrings, bracelets & rings. Affordable luxury pieces with free shipping.
+  Updated: 2025-10-03T15:34:59Z
   Total Products: 39
 - [Plus Size Tops & Curvy Women's Blouses - Brinxx Couture](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2025-10-02T20:51:42Z
-  Total Products: 24
+  Updated: 2025-10-03T14:53:47Z
+  Total Products: 26
 - [Plus Size Dresses | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
   Updated: 2025-10-02T17:11:55Z
   Total Products: 31
@@ -36351,8 +36459,8 @@
   Updated: 2025-10-02T17:11:55Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they sell out.
-  Updated: 2025-10-02T17:11:55Z
-  Total Products: 91
+  Updated: 2025-10-03T14:53:47Z
+  Total Products: 93
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2025-10-02T17:11:55Z
   Total Products: 13
