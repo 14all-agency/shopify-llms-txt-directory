@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-03T04:01:07.182Z
+- Updated At: 2025-10-03T08:01:11.292Z
 
 ## Products
 
@@ -18070,7 +18070,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-acura-nsx-azul-2018-replica-em-escala-1-24-681691924-8719247416919-brincatoys-1178700868.jpg?v=1752962289
   Price: 23,50 € EUR
 - [Carro de Brincar Lamborghini Huracán Performante](https://brincatoys.pt/products/lamborghini-huracan-performante): Divirta-se com o carro de brincar Lamborghini Huracán Performante à escala 1/24. Portas funcionais e interior detalhado para uma experiência completa. 🏁
-  Updated: 2025-10-03T01:28:07Z
+  Updated: 2025-10-03T04:56:30Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -20114,7 +20114,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-marlon-clutches-mckay-550363923-0194735036394-cars-1178697613.jpg?v=1752913206
   Price: 11,99 € EUR
 - [Carros da Disney – Carla Veloso](https://brincatoys.pt/products/cars-disney-carla-veloso-copia): Adicione o carisma de carros da Disney – Carla Veloso à sua coleção.  Brinquedo metálico durável e fiel ao filme "Cars", perfeito para fãs e colecionadores.
-  Updated: 2025-09-29T21:08:08Z
+  Updated: 2025-10-03T07:30:08Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
