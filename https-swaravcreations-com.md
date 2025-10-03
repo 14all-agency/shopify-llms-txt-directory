@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-03T04:00:27.744Z
+- Updated At: 2025-10-03T20:00:27.570Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $94.99 CAD
 - [Alluring Beauty Necklace | Designed with heart](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Swarav Creations — Designed with heart. Made to order. Why you’ll love it. Graceful and timeless, the Alluring Beauty Necklace features a petite ribbon-shaped pendant accented with shimmering stones and a brilliant 7 mm center. Elegant for every day, special enough for the moments that matter. Imagine her reaction when she opens this stunning gift! The Alluring Beauty necklace features a petite ribbon shaped pendant that is sure to dazzle your special someone. Whether it's a birthday or anniversary, make sure to get her a gift she will love for years to come. Details Finish: 14K White Gold or 18K Yellow Gold over stainless steel Center stone: 7 mm premium cubic zirconia During: 0.8" (20 mm) H × 0.4" (10 mm) W Chain: Adjustable 18–22" cable chain; lobster clasp Packaging: Includes standard gift box; upgrade to Mahogany-style Luxury Box with LED spotlight Perfect forBirthdays • Anniversaries • Valentine’s Day • “Just because” Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. CareWipe with a soft dry cloth after wear. Avoid perfumes, lotions, pools & chemicals. Store separately.
-  Updated: 2025-10-03T03:33:58Z
+  Updated: 2025-10-03T17:43:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -75,7 +75,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4366_transformation_12037.png?v=1756675494
     Price: $79.99 CAD
 - [Gold & Marble Dog Tag Necklace – Designed with ❤️ | Custom Engraved Gift for Him or Her](https://swaravcreations.com/products/swarav-creations-gold-marble-dog-tag-necklace-designed-with-custom-engraved-gift-for-him-or-her): Swarav Creations Gold & Marble Dog Tag Necklace – Designed with ❤️ Celebrate love, family, and meaningful moments with this elegant dog tag necklace. Crafted from high-quality surgical steel with an optional 18K gold finish, the piece features a unique marble background and the exclusive S&C monogram, paired with the heartfelt phrase “Designed with ❤️.” This necklace makes a perfect gift for him, her, couples, family, or even yourself. Personalize it with custom engraving to capture anniversaries, birthdays, graduations, or life’s milestones — a timeless keepsake that speaks from the heart. With a luxurious finish and lasting craftsmanship, this dog tag is not just jewelry but a symbol of love, connection, and strength, guaranteed to exceed expectations. Product Dimensions➜ Luxury Military Necklace: 24" (61cm) with upgraded clasp➜ Dog Tag: 28.5mm x 51mm
-  Updated: 2025-10-03T03:32:40Z
+  Updated: 2025-10-03T16:22:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -323,7 +323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $20.29 CAD
 - [Interlocking Hearts Necklace – A Symbol of Eternal Love](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love): ✨ Interlocking Hearts Necklace – A Symbol of Eternal Love Celebrate your everlasting bond with this stunning Interlocking Hearts Necklace, featuring two heart pendants delicately embellished with sparkling cubic zirconia crystals. A timeless symbol of love, it’s the perfect gift for anniversaries, birthdays, or simply reminding her how much she means to you. Crafted from polished stainless steel with a rose gold finish (or available in 18K yellow gold finish), this necklace is designed for both elegance and durability. Its adjustable chain ensures a comfortable fit, making it versatile for everyday wear or special occasions. 🌟 Product Details Two interlocking heart pendants with CZ crystal accents Materials: Polished stainless steel + rose gold finish or 18K yellow gold finish Pendant size: 0.6" (15mm) height x 1.1" (28mm) width Adjustable chain length: 18" – 22" (45.72 cm – 55.88 cm) Closure: Lobster clasp Packaging & Gift Options Comes beautifully packaged in a complimentary soft-touch box for easy gifting. Upgrade to the mahogany-style luxury box, complete with a built-in LED spotlight that illuminates the necklace the moment she opens it — creating a magical unboxing experience. Why She’ll Love It A romantic keepsake symbolizing unending love Sparkles with premium cubic zirconia accents Timeless design with rose gold or 18K gold finish Elegant packaging with luxury upgrade option
-  Updated: 2025-10-03T03:27:10Z
+  Updated: 2025-10-03T16:28:32Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
