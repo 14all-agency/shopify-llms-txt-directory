@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-03T16:01:15.496Z
+- Updated At: 2025-10-03T20:01:13.942Z
 
 ## Products
 
@@ -3956,7 +3956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/tv-shaped-cat-scratcher-fun-durable-for-indoor-cats-cat-scratch-mat-386152.jpg?v=1700647320
   Price: £26.99 GBP
 - [Enclosed Cat Toilet Box with Scoop, Skylight - Easy Clean](https://veryimportantpets.shop/products/enclosed-cat-toilet-box-with-scoop-skylight-easy-clean): An excellent design like no other, this litter box from PawHut will give your cat complete privacy and put them at ease when they need to use it. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:41Z
+  Updated: 2025-10-03T17:07:05Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4124,7 +4124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-level-wooden-hamster-cage-with-storage-60x40x80cm-small-animal-cage-143349.jpg?v=1700651632
   Price: £62.99 GBP
 - [Rabbit Hutch and Run Outdoor Bunny Cage Wooden Guinea Pig Hide House with Sliding Tray, Hay Rack, Ramp, 156 x 58 x 68cm](https://veryimportantpets.shop/products/rabbit-hutch-and-run-outdoor-bunny-cage-wooden-guinea-pig-hide-house-with-sliding-tray-hay-rack-ramp-156-x-58-x-68cm): This outdoor rabbit cage from PawHut is perfect for use with rabbits, guinea pigs, and other similar small-sized animals. Shop online at Very Important Pets
-  Updated: 2025-09-03T07:31:04Z
+  Updated: 2025-10-03T16:57:23Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -12263,7 +12263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/super-solvitax-pure-cod-liver-oil-capsules-3x90-dog-supplements-531948.jpg?v=1701108711
   Price: £16.09 GBP
 - [Super Solvitax Pure Cod Liver Oil Liquid](https://veryimportantpets.shop/products/super-solvitax-pure-cod-liver-oil-liquid): Super Solvitax Pure Cod Liver Oil is a great supply of vitamins A D and E. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:28:03Z
+  Updated: 2025-10-03T16:22:33Z
   Vendor: Seven Seas
   Product Type: Supplements & Remedies
   Availability: Available
