@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-03T12:00:31.978Z
+- Updated At: 2025-10-03T16:00:32.475Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1562,7 +1562,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9fd86dfb-a2fb-45ce-86b6-fd2bf440d876.jpg?v=1751453532
   Price: 660,00 € EUR
 - [Spendor LS3/5A Monitor 15 Ohm Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/spendor-ls3-5a-monitor-gebraucht-kaufen): Spendor LS3/5A Monitor 15 Ohm Lautsprecher gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:26:57Z
+  Updated: 2025-10-03T12:10:13Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
