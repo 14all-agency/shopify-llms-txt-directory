@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-10-02T16:00:29.051Z
+- Updated At: 2025-10-03T08:00:29.235Z
 
 ## Products
 
 - [Smoke N’ Luxe Cocktail Smoker | Luxury Smoke Infusion Barware](https://heliusoriginals.com/products/smoke-n-luxe-cocktail-enhancement-set-deluxe): Elevate cocktails & cuisine with the Smoke N’ Luxe Set. Handcrafted smoker, torch, and premium Ontario wood shavings for luxury entertaining.
-  Updated: 2025-09-19T19:44:27Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: $139.99 USD
 - [LuxeBlush Smoke Cocktail Kit | Pink Mixology Set by Helius Originals](https://heliusoriginals.com/products/luxeblush-smoke-cocktail-kit): Discover the LuxeBlush Smoke Cocktail Kit. Premium tools and pink wood shavings for crafting elegant, smoke-infused cocktails at home or events.
-  Updated: 2025-09-25T12:25:50Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $99.99 USD
 - [Smoked Cocktail Kit | Complete Mixology Set by Helius Originals](https://heliusoriginals.com/products/smoked-cocktail-kit-heluis-originals): Unleash your mixology skills with our Smoked Cocktail Kit. Premium tools, wood shavings, and accessories for the ultimate smoky cocktail experience.
-  Updated: 2025-09-19T19:44:27Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $189.99 USD
 - [LuxeFume | Master the Art of Smoke-Infused Cocktails](https://heliusoriginals.com/products/luxefume): Elevate cocktails and cuisine with the LuxeFume Set. Handcrafted smoker kit with torch and reclaimed wood shavings for luxury mixology at home.
-  Updated: 2025-10-02T01:53:30Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -59,28 +59,28 @@
     Availability: Available
     Price: $99.99 USD
 - [LuxeShavings Wood Collection | Premium Cocktail Smoking Woods](https://heliusoriginals.com/products/luxeshavings-wood-collection): Elevate cocktails with LuxeShavings Wood Collection. Four premium wood shavings for smoky flavors — a must-have for mixology lovers.
-  Updated: 2025-09-19T19:44:28Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/helius-originals-wood-shavings-sampler-box-black-walnut-cherry-maple-oak.jpg?v=1756413037
   Price: $34.99 USD
 - [Artisanal Aroma Boards | Handcrafted Cocktail Smoker Boards](https://heliusoriginals.com/products/artisanal-aroma-boards): Handcrafted aroma boards made from 100% reclaimed Ontario wood. Perfect for smoking cocktails, cheeses, and charcuterie. Eco-luxury by Helius Originals.
-  Updated: 2025-09-19T19:44:28Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/artisanal-aroma-boards-premium-ontario-wood.jpg?v=1756411679
   Price: $90.99 USD
 - [Spring Cocktail Recipe Book Vol.1](https://heliusoriginals.com/products/spring-cocktail-recipe-book-vol-1): Discover the captivating world of Helius Originals Spring Smoked Cocktail Recipe Book, your ultimate guide to crafting mesmerizing smoked cocktails that will elevate your mixology skills and delight your senses. Available as an easy-to-download digital edition, this beautifully designed recipe book is a must-have for cocktail enthusiasts and home bartenders alike who are looking to impress their guests and indulge in the enchanting flavors of spring.Our expert mixologists at Helius Originals have thoughtfully curated a collection of 10 exclusive spring-inspired smoked cocktail recipes that artfully blend classic techniques with innovative ingredients and unique presentations. Each recipe has been meticulously crafted to ensure you can recreate the magic of Helius Originals in the comfort of your own home.As you immerse yourself in the world of smoky spring cocktails, you'll discover enticing concoctions featuring an array of aromatic ingredients, such as elderflower, lavender, and rose, expertly paired with the rich, smoky notes of mezcal, peated scotch, and lapsang souchong tea syrup. The vivid step-by-step instructions and precise measurements make it simple for you to shake, stir, and savor these delightful creations.By downloading the Helius Originals Spring Smoked Cocktail Recipe Book, you'll expand your mixology repertoire and unlock the secrets to transforming ordinary gatherings into unforgettable experiences. So why wait? Embrace the allure of spring, master the art of smoked cocktails, and bring the magic of Helius Originals to your home with just a few clicks. Download your copy today and let your cocktail adventure begin!
-  Updated: 2025-09-29T09:13:16Z
+  Updated: 2025-10-03T00:50:05Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/HeliusOriginalsSpringsmokerecipebookcocktailcover.png?v=1681489647
   Price: $0.00 USD
 - [Smoked Cocktail Recipes for Fall | Helius Originals Recipe Book](https://heliusoriginals.com/products/smoked-cocktail-book-fall): Discover our Fall Smoke Cocktail Recipe Book featuring smoked twists on the Manhattan cocktail recipe, Aviation, Zombie, Toronto, and more.
-  Updated: 2025-09-30T03:10:34Z
+  Updated: 2025-10-03T00:50:06Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
@@ -90,7 +90,7 @@
 ## Collections
 
 - [Smoke Cocktail Kit & Cocktail Smoke Board - Helius Originals](https://heliusoriginals.com/collections/frontpage): Elevate your cocktail game with the Smoke Cocktail Kit and Cocktail Smoke Board from Helius Originals. Impress your guests with the unique and unforgettable smoky flavors and aromas in your drinks.
-  Updated: 2025-10-02T11:15:43Z
+  Updated: 2025-10-03T00:50:05Z
   Total Products: 6
 - [Recommended products (Seguno)](https://heliusoriginals.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
   Updated: 2025-10-02T11:15:43Z
