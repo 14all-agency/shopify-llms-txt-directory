@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-02T16:00:59.223Z
+- Updated At: 2025-10-03T00:00:59.546Z
 
 ## Products
 
@@ -10196,7 +10196,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק All-Star ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-as-tatum-jersey): גופיית All-Star בעיצוב רשמי של ג'ייסון טייטום מבוסטון סלטיקס
-  Updated: 2025-10-02T11:26:02Z
+  Updated: 2025-10-02T17:29:56Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10220,7 +10220,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק גרסת זהב ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey): גופיית גרסת זהב של ג'ייסון טייטום בעיצוב מיוחד של Boston Celtics
-  Updated: 2025-10-02T11:26:03Z
+  Updated: 2025-10-02T17:21:38Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10244,7 +10244,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ירוקה ג'ייסון טייטום בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-tatum-jersey): גופיית משחק ירוקה של ג'ייסון טייטום בעיצוב איכותי של Boston Celtics
-  Updated: 2025-10-02T11:26:03Z
+  Updated: 2025-10-02T17:17:09Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10268,7 +10268,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה ג'ייסון טייטום בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey): גופיית משחק שחורה של ג'ייסון טייטום בעיצוב איכותי של Boston Celtics
-  Updated: 2025-10-02T11:26:04Z
+  Updated: 2025-10-02T17:14:58Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10292,7 +10292,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק City Edition ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey): גופיית City Edition של ג'ייסון טייטום בעיצוב ייחודי של Boston Celtics
-  Updated: 2025-10-02T11:26:04Z
+  Updated: 2025-10-02T16:40:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10316,7 +10316,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית רטרו פול פירס 2007/08 בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey): גופיית רטרו פול פירס עונת 2007/08 בעיצוב קלאסי ונוסטלגי של Boston Celtics
-  Updated: 2025-10-02T11:26:05Z
+  Updated: 2025-10-02T16:36:34Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10340,7 +10340,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק לבנה ג'יילן בראון בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey): גופיית משחק לבנה של ג'יילן בראון בעיצוב נוח ואיכותי של Boston Celtics
-  Updated: 2025-10-02T11:26:05Z
+  Updated: 2025-10-02T16:30:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10364,7 +10364,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק לבנה קמבה ווקר בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey): גופיית משחק לבנה של קמבה ווקר בעיצוב נוח ואיכותי של Boston Celtics
-  Updated: 2025-10-02T11:26:05Z
+  Updated: 2025-10-02T16:29:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10387,8 +10387,8 @@
   - [3XL](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey?variant=46899286933754)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית משחק ירוקה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-jersey): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:06Z
+- [גופיית משחק ירוקה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-jersey): גופיית משחק ירוקה מבוסטון סלטיקס מציעה שילוב בין נוחות וסטייל ספורטיבי. עשויה 100% פוליאסטר קל ונושם לשמירה על יובש ונוחות לאורך כל המשחק. הגזרה רגילה ומאפשרת תנועתיות מלאה, עם צבעים המזוהים עם הקבוצה לחוויית משחק אותנטית.
+  Updated: 2025-10-02T16:23:00Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10412,7 +10412,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק שחורה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-jersey): גופיית משחק שחורה בעיצוב קלאסי של Boston Celtics לסטייל יומיומי ולמגרש
-  Updated: 2025-10-02T11:26:06Z
+  Updated: 2025-10-02T16:15:43Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10436,7 +10436,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק אל הורפורד בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-horford-jersey): גופיית משחק אל הורפורד בעיצוב איכותי של Boston Celtics לסטייל במגרש וביום יום
-  Updated: 2025-10-02T11:26:07Z
+  Updated: 2025-10-02T16:03:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10460,7 +10460,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [מכנסי משחק בוסטון סלטיקס City Edition](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd): מכנסי משחק City Edition בעיצוב ייחודי של Boston Celtics עם נוחות וסטייל
-  Updated: 2025-10-02T06:00:13Z
+  Updated: 2025-10-02T16:01:48Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10565,7 +10565,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחורים בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-shorts-pjd): מכנסי משחק שחורים בעיצוב איכותי של בוסטון סלטיקס לנוחות וסטייל במגרש וביום יום
-  Updated: 2025-10-02T06:01:28Z
+  Updated: 2025-10-02T19:52:45Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -33701,7 +33701,7 @@
     Availability: Available
     Price: ‏180.00 ‏₪ ILS
 - [חולצת כדורגל באהיה שלישית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-באהיה-שלישית-2024-גברים): חולצת השלישית של באהיה לעונת 2024 מתאפיינת בעיצוב ייחודי עם צבעים מיוחדים שמבדילים אותה מחולצות הבית והחוץ. החולצה עשויה 100% פוליאסטר קל משקל ונושם, שמנדף זיעה ומעניק נוחות מרבית בזמן אימונים ומשחקים. הגזרה רגילה ונוחה, מתאימה לשימוש יומיומי ולספורט.
-  Updated: 2025-09-07T22:04:38Z
+  Updated: 2025-10-02T18:24:37Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37523,7 +37523,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-09-29T14:15:21Z
+  Updated: 2025-10-02T19:51:21Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
