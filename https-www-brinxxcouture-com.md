@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-03T08:00:50.952Z
+- Updated At: 2025-10-03T12:00:55.274Z
 
 ## Products
 
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-03T05:21:01Z
+  Updated: 2025-10-03T08:22:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21923,7 +21923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-03T02:00:57Z
+  Updated: 2025-10-03T11:40:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22278,7 +22278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-10-01T22:26:30Z
+  Updated: 2025-10-03T09:01:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22344,7 +22344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
 - [Lapel Collar Sherpa Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-sherpa-coat): Step out in style with our Lapel Collar Sherpa Coat! This coat features a lapel collar design that adds a touch of sophistication to your ensemble.
-  Updated: 2025-10-01T22:51:27Z
+  Updated: 2025-10-03T11:04:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-03T06:40:41Z
+  Updated: 2025-10-03T09:02:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-03T07:40:37Z
+  Updated: 2025-10-03T09:20:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34259,7 +34259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002222.jpg?v=1747426418
   Price: $89.99 USD
 - [V-Back Bow Tie Denim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress): Elevate your style with our V-Back Bow Tie Denim Dress. This flattering silhouette features a charming bow-tie detail at the back, creating a vintage twist.
-  Updated: 2025-09-30T09:10:37Z
+  Updated: 2025-10-03T09:40:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36115,7 +36115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01DPW3V31z1aJHhC57K__2923906654-0-cib.jpg?v=1759426895
     Price: $35.00 USD
 - [Plus Size Striped Knitwear Top Long Sleeve | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-striped-knitwear-top-long-sleeve): Comfortable plus size striped knitwear top with long sleeves and crew neck. Soft jersey fabric, loose fit. Perfect for casual wear. Free Shipping!
-  Updated: 2025-10-02T20:30:23Z
+  Updated: 2025-10-03T08:15:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36137,7 +36137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01DNQ3X01z1aJKsPpP6__2923906654-0-cib.jpg?v=1759426993
     Price: $35.00 USD
 - [Plus Size Turtleneck Bodysuit Long Sleeve | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-turtleneck-long-sleeve-bodysuit): Sleek plus size turtleneck bodysuit with long sleeves. Perfect foundation piece for layering. Comfortable stretch fabric and flattering fit. Free Shipping!
-  Updated: 2025-10-03T04:57:22Z
+  Updated: 2025-10-03T10:15:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
