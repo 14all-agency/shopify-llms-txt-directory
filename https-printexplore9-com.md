@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-02T16:05:34.299Z
+- Updated At: 2025-10-03T12:00:30.510Z
 
 ## Products
 
@@ -632,11 +632,11 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
 - [Unisex  Selfcare Priority Cotton T-shirt](https://printexplore9.com/products/unisex-cotton-t-shirt-print-explore): Unises Selfcare Priority Cotton T-shirt, Made from 100% combed ring-spun organic cotton, for lasting comfort and durability! Made in USA.
-  Updated: 2025-09-28T17:51:36Z
+  Updated: 2025-10-03T10:57:37Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/MOTIVATIONAL_COTTON_T-SHIRT.jpg?v=1759081896
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Selfcare_Organic_Tshirt.png?v=1759488799
   - [White / S](https://printexplore9.com/products/unisex-cotton-t-shirt-print-explore?variant=45063003930891)
     Availability: Available
     Price: $29.95 USD
