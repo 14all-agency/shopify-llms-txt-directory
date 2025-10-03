@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-02T12:00:35.567Z
+- Updated At: 2025-10-03T00:00:34.872Z
 
 ## Products
 
@@ -73,13 +73,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Triflora-Hanging-Planter-White-7.jpg?v=1727658836
   Price: $99.99 NZD
-- [Umbra Hub Full Length Wall Mirror - Black](https://everydayhome.co.nz/products/hub-leaning-mirror-37-x-157cm-black): Hub Leaning Mirror, (37 X 157Cm), Black
-  Updated: 2025-09-28T05:37:11Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hub-Leaning-Mirror-Black-0.jpg?v=1727658555
-  Price: $299.99 NZD
 - [Umbra Bellwood Bar & Storage Cart - Black/Walnut](https://everydayhome.co.nz/products/bellwood-bar-serving-cart-black-walnut): Bellwood Bar/Serving Cart, Black/Walnut
   Updated: 2025-10-02T03:39:05Z
   Vendor: UMBRA
@@ -164,15 +157,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Cosmetic-Organiser-White-Grey-5.png?v=1727659177
   Price: $69.99 NZD
-- [Umbra Hubba Arched Wall Mirror - Brass](https://everydayhome.co.nz/products/hubba-arched-mirror-86-x-91cm-brass): Hubba, Arched Mirror, 86 X 91Cm - Brass
-  Updated: 2025-09-25T13:28:17Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Arched-Mirror-Brass-5.jpg?v=1727659771
-  Price: $299.99 NZD
 - [Umbra Hubba Arched Wall Mirror - Metal Titanium](https://everydayhome.co.nz/products/hubba-arched-mirror-86-x-91cm-metal-titanium): Hubba Arched Mirror (86 X 91Cm), Metal Titanium
-  Updated: 2025-09-25T13:37:11Z
+  Updated: 2025-10-02T23:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -200,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Coffee-Table-Natural-3.jpg?v=1727659754
   Price: $299.99 NZD
 - [Triflora Hanging Planter Set of 5 - Black](https://everydayhome.co.nz/products/triflora-5-large-black): Triflora 5 Large  Black
-  Updated: 2025-10-02T03:38:45Z
+  Updated: 2025-10-02T17:39:47Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -395,13 +381,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Replacement-Dish-Brush-Set-of-2-Dark-Gre-6.jpg?v=1727659117
   Price: $19.99 NZD
-- [Brabantia Bo Touch Bin - 11 + 23L White](https://everydayhome.co.nz/products/bo-touch-bin-11-23l-white): Bo Touch Bin, 11 + 23L, White
-  Updated: 2025-09-23T12:33:48Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-11-23L-White-7.jpg?v=1727658827
-  Price: $499.99 NZD
 - [Umbra Magino Stool With Magazine Rack - Clear](https://everydayhome.co.nz/products/magino-stool-w-magazine-rack-clear): Magino Stool W/Magazine Rack, Clear
   Updated: 2025-09-25T13:05:16Z
   Vendor: UMBRA
@@ -809,28 +788,28 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Garment-Rack-White-Natural-8.jpg?v=1727659545
   Price: $649.99 NZD
 - [Ribbon Wall Clock - Black](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-black): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
-  Updated: 2025-10-02T03:38:23Z
+  Updated: 2025-10-02T16:25:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Black-0.jpg?v=1727659987
   Price: $99.99 NZD
 - [Ribbon Wall Clock - Steel](https://everydayhome.co.nz/products/ribbon-wall-clock-31cm-steel): Add a modern, minimalist twist to telling time. With Ribbon, you get a stylish piece of wall decor and a functional wall clock all-in-one. Made with high-quality steel that’s been shaped to resemble overlapping ribbons, Ribbon is an excellent kitchen wall clock, but also makes a great addition to any room in your home or office.
-  Updated: 2025-10-02T03:38:23Z
+  Updated: 2025-10-02T16:09:47Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Steel-8.jpg?v=1727659533
   Price: $99.99 NZD
 - [Ribbonwood Wall Clock - Natural](https://everydayhome.co.nz/products/ribbonwood-wall-clock-50-8cm-natural): This gorgeous clock is made from bent beech wood that has been shaped into folded ribbon shapes. Its contrasting minute and hour hands make it easy to tell the time. Ribbonwood's bent wood is part of a complex process of molding bent plywood.
-  Updated: 2025-10-02T03:38:24Z
+  Updated: 2025-10-02T17:46:00Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbonwood-Wall-Clock-Natural-4.jpg?v=1727660134
   Price: $99.99 NZD
 - [Umbra Pillar Coat Rack - Black/Walnut](https://everydayhome.co.nz/products/pillar-coat-rack-black-walnut): This multi-functional coat rack boasts a sleek and stylish design that can easily fit into any space. With eight hooks for maximum storage, it offers a sophisticated solution for hanging coats and accessories in your home.
-  Updated: 2025-09-25T14:08:49Z
+  Updated: 2025-10-02T23:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -851,7 +830,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Pillar-Stool-Coatrack-White-Natural-0.jpg?v=1727659230
   Price: $329.99 NZD
 - [Umbra Flapper Coat Rack - Black/Walnut](https://everydayhome.co.nz/products/flapper-coat-rack-black-walnut): This wooden coat rack stands tall and sleek with nine flip-down hooks, offering ample storage with the ability to tuck away when not in use. Made of wood, Flapper has a tree-like aesthetic, while being entirely modern. Available in a variety of modern finishes, Flapper is sleek in design while keeping ample utility.
-  Updated: 2025-09-25T14:24:54Z
+  Updated: 2025-10-02T23:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -886,21 +865,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bellwood-Freestand-Shelf-White-Natural-4.jpg?v=1727658613
   Price: $224.99 NZD
 - [Wobble Chess Set - Walnut](https://everydayhome.co.nz/products/wobble-chess-set-walnut): Get ready for a chess set like no other! Introducing the Wobble Chess Set - the perfect combination of classic and modern. With its concave landscape, this set brings a whole new level of excitement to the game. The freely quivering chess pieces add a lively interaction between the board and the pieces. It's the ultimate showpiece for your living room!
-  Updated: 2025-10-02T03:39:04Z
+  Updated: 2025-10-02T16:02:33Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Wobble-Chess-Set-Walnut-1.png?v=1727659667
   Price: $439.99 NZD
 - [Umbra Woodrow Trash Can - 7.5L Black](https://everydayhome.co.nz/products/woodrow-can-7-5l-black): Introducing Woodrow, a stylish waste can that brings a modern vibe to any room. With its two-tone design, this can combines a natural wood interior with a stained finish on the outside, creating a cozy and grounded atmosphere. Its super easy to move around thanks to the integrated handles, making disposal a breeze. Plus, the unique curved shape turns a regular household item into a standout decor piece. Woodrow is perfect for compact spaces like powder rooms, offices, or studies. Upgrade your space with this eye-catching trash can!
-  Updated: 2025-10-01T22:02:25Z
+  Updated: 2025-10-02T23:07:10Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Black-2.jpg?v=1727660092
   Price: $59.99 NZD
 - [Umbra Woodrow Trash Can - 7.5L Natural](https://everydayhome.co.nz/products/woodrow-can-7-5l-natural): Introducing Woodrow, a stylish waste can that brings a modern vibe to any room. With its two-tone design, this can combines a natural wood interior with a stained finish on the outside, creating a cozy and grounded atmosphere. Its super easy to move around thanks to the integrated handles, making disposal a breeze. Plus, the unique curved shape turns a regular household item into a standout decor piece. Woodrow is perfect for compact spaces like powder rooms, offices, or studies. Upgrade your space with this eye-catching trash can!
-  Updated: 2025-09-25T18:41:58Z
+  Updated: 2025-10-02T23:07:11Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -914,21 +893,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $59.99 NZD
 - [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-10-02T03:38:06Z
+  Updated: 2025-10-02T16:38:02Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Bird-Cafe-Grey-8.jpg?v=1727660328
   Price: $79.99 NZD
 - [Stream Water Fountain - Grey](https://everydayhome.co.nz/products/stream-water-fountain-grey): USB-powered, Stream makes a great addition to your desk space, counter, entryway and more; providing an aesthetic and relaxing way to integrate decor into your space; also doubles as a great gift for any wellness lover.
-  Updated: 2025-10-02T03:38:27Z
+  Updated: 2025-10-02T16:06:53Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Stream-Water-Fountain-Grey-8.jpg?v=1727659011
   Price: $89.99 NZD
 - [Slip Shoe Horn - Aluminium](https://everydayhome.co.nz/products/slip-shoe-horn-aluminium-matte): Ease on your shoes with this stylish and elegant slip shoehorn. The Slip long handle shoe horn is the solution to end the common struggle of slipping on shoes; but with a modern twist.
-  Updated: 2025-10-02T03:38:25Z
+  Updated: 2025-10-02T17:13:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -977,7 +956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-10-02T10:37:10Z
+  Updated: 2025-10-02T16:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1150,13 +1129,6 @@
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-White-5.png?v=1727659038
-  Price: $579.99 NZD
-- [Brabantia Bo Pedal Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-pedal-bin-2-x-30l-platinum): Looking for a beautiful solution for waste separation? This Brabantia Bo Pedal Bin is a beauty inside and out, with two spacious 30 litre removable inner buckets for two kinds of waste. It fits snugly against a wall, has a protective non-skid base, hygienic and easy pedal opening and soft closure. A great bin in more ways than one!
-  Updated: 2025-09-29T16:22:10Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-Platinum-7.png?v=1727659390
   Price: $579.99 NZD
 - [Brabantia Bo Touch Bin Hi - 60L Matt Black](https://everydayhome.co.nz/products/bo-touch-bin-hi-60l-matt-black): Looking for a bin with great design and great capacity? This Brabantia Bo Touch Bin Hi is the one! This 60 litre XXL beauty has four elegant legs, a soft-touch opening system and integrated grips. It opens at the lightest touch and is designed with love for your home and care for our planet. A big help for every household.
   Updated: 2025-09-23T12:35:15Z
@@ -1712,7 +1684,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Wall-Shelf-Black-Walnut-UMBRA-5.jpg?v=1731903251
   Price: $249.99 NZD
 - [Buddy Chess Set - Natural](https://everydayhome.co.nz/products/buddy-chess-set-natural): Buddy Chess Set is an elegant addition to any space, able to serve as eye-catching decor when not in use. It sports polished black and charcoal tiles and cast zinc chess pieces with nickel and titanium finishes. The board's glossy coating, in combination with the velvet lining under the individual pieces allows for optimal movement of the Buddy chess pieces.
-  Updated: 2025-10-02T03:38:07Z
+  Updated: 2025-10-02T17:03:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1747,7 +1719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Multi-Colour-Lite-UMBRA-2.jpg?v=1731901823
   Price: $39.99 NZD
 - [Umbra Buddy Napkin Holder - Black](https://everydayhome.co.nz/products/buddy-napkin-holder-black): Add a pinch of whimsy to your table with the Buddy Napkin Holder. The Buddy Napkin Holder is a modern, youthful take on the traditional product. A part of Umbra’s Buddy Collection, it pairs with a coordinating paper towel holder.
-  Updated: 2025-10-01T06:33:52Z
+  Updated: 2025-10-02T23:07:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -1768,14 +1740,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $49.99 NZD
 - [Umbra Buddy Counter Top Paper Towel Holder - Black](https://everydayhome.co.nz/products/buddy-paper-twl-hldr-kd-black): Along with its unique appearance, Buddy is also highly practical; the molded figure provides friction and leverage for one-handed tearing and protects the roll from unravelling. Taking up little space on your countertop, maintenance is hassle-free; cleaning only requires a quick wipe-down.
-  Updated: 2025-10-02T08:07:11Z
+  Updated: 2025-10-02T23:07:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-09-28T16:07:15Z
+  Updated: 2025-10-02T20:56:35Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2216,14 +2188,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Organiser-Black-Walnut-UMBRA-9.jpg?v=1731902602
   Price: $44.99 NZD
 - [Exhibit Photo Display (Set of 3) - Black](https://everydayhome.co.nz/products/exhibit-3-photo-display-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold three gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-10-02T03:38:10Z
+  Updated: 2025-10-02T16:36:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Exhibit-Photo-Display-Set-of-3-Black-UMBRA-0.png?v=1731902610
   Price: $99.99 NZD
 - [Exhibit Photo Display (Set 5) - Black](https://everydayhome.co.nz/products/exhibit-photo-display-set-5-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold five gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-10-02T03:38:11Z
+  Updated: 2025-10-02T16:12:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2237,7 +2209,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-09-29T02:38:06Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2321,49 +2293,49 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Leana-Ladder-Rack-White-UMBRA-1.jpg?v=1731902202
   Price: $154.99 NZD
 - [Luna Photo Display - Black](https://everydayhome.co.nz/products/luna-photo-display-black): Luna holds nine of your favorite 4x6 inch photos in a modern, gallery-style fashion and will effortlessly enhance your wall decor. At the same time, its practical design features a solid backing which allows you to clean and change your images easily. Use Luna to showcase your favorite photos or get creative and combine pictures, graphic text, illustrations, drawings, sketches, and other unique art for a one-of-a-kind, DIY collage photo frame.
-  Updated: 2025-10-02T03:38:17Z
+  Updated: 2025-10-02T16:09:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Luna-Photo-Display-Black-UMBRA-3.jpg?v=1731901901
   Price: $99.99 NZD
 - [Montage Shelf - Black](https://everydayhome.co.nz/products/montage-shelf-black): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-10-02T03:38:18Z
+  Updated: 2025-10-02T16:09:19Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Black-UMBRA-2.jpg?v=1731903161
   Price: $99.99 NZD
 - [Montage Shelf - Light Walnut](https://everydayhome.co.nz/products/montage-shelf-light-walnut): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-10-02T03:38:18Z
+  Updated: 2025-10-02T16:53:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Light-Walnut-UMBRA-7.jpg?v=1731902033
   Price: $99.99 NZD
 - [Montage Shelf - White](https://everydayhome.co.nz/products/montage-shelf-white): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-10-02T03:38:19Z
+  Updated: 2025-10-02T16:26:24Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-White-UMBRA-4.jpg?v=1731903176
   Price: $99.99 NZD
 - [Moona Storage Box - Black/Walnut](https://everydayhome.co.nz/products/moona-storage-box-black-walnut): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
-  Updated: 2025-10-02T03:38:20Z
+  Updated: 2025-10-02T16:13:25Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Moona-Storage-Box-Black-Walnut-UMBRA-0.jpg?v=1731902649
   Price: $99.99 NZD
 - [Moona Storage Box - White/Natural](https://everydayhome.co.nz/products/moona-storage-box-white-natural): Moona features round, circular shapes for a one-of-a-kind jewelry organizer. Both decorative and functional, Moona has a large display top that doubles as a tray for smaller accessories, perfume, small plants or other items. Its three rotating drawers can provide hidden storage or be pushed out for easy access. With its unique semi-circle shape and beautiful wood accents, Moona can be displayed on your vanity, counter, dresser, desk and more.
-  Updated: 2025-10-02T03:38:20Z
+  Updated: 2025-10-02T17:20:20Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Moona-Storage-Box-White-Natural-UMBRA-0.jpg?v=1731901753
   Price: $99.99 NZD
 - [Orchid Jewelry Stand - Gun Metal](https://everydayhome.co.nz/products/orchid-jewelry-stand-gun-metal): Inspired by the beautiful orchid flower, this unique jewelry stand makes an eye-catching statement while organizing your jewelry and keeping it in one place. Orchid stores and displays all of your favorite jewelry pieces with twelve hooks and a leaf-shaped dish, speeding the getting-reading process. Perfect to place on your dresser, vanity or nightstand.
-  Updated: 2025-10-02T03:38:21Z
+  Updated: 2025-10-02T16:12:18Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2538,35 +2510,35 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Squire-Napkin-Holder-Black-UMBRA-0.jpg?v=1731901911
   Price: $23.99 NZD
 - [Umbra Squire Paper Towel Holder - Black](https://everydayhome.co.nz/products/squire-paper-towel-holder-black): With its sturdy built and convenient features, the Squire paper towel holder makes everyday cleaning tasks effortless. Its tear bar ensures precise dispensing while the built-in handle allows for easy portability throughout your home.
-  Updated: 2025-10-01T00:07:10Z
+  Updated: 2025-10-02T23:37:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Squire-Paper-Towel-Holder-Black-UMBRA-2.jpg?v=1731901906
   Price: $24.99 NZD
 - [Umbra Step Soap Pump - White](https://everydayhome.co.nz/products/step-soap-sanitiser-dispenser-white): Step has sleek, shiny, and modern, creating a contemporary version of a typical soap pump. The product’s crisp clean lines make it a modern fixture for your space. Constructed of highly durable material melamine, Step has a low-risk for breakage and is long-lasting. With a capacity of 13 ounces (384 mL) and a wide opening, Step is both easy to refill and holds a large quantity of soap. The dispenser has a beautiful glossy finish and is an ideal addition to any washroom, laundry room, or kitchen. Pair this soap pump with other accessories from the Step Bathroom Collection for a more cohesive look.
-  Updated: 2025-09-28T19:22:10Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Step-Soap-Sanitiser-Dispenser-White-UMBRA-2.jpg?v=1731903201
   Price: $27.99 NZD
 - [Stowit Jewelry Box - White/Natural](https://everydayhome.co.nz/products/stowit-jewelry-box-white-natural): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
-  Updated: 2025-10-02T03:38:26Z
+  Updated: 2025-10-02T16:37:58Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Stowit-Jewelry-Box-White-Natural-UMBRA-8.png?v=1731901781
   Price: $99.99 NZD
 - [Stowit Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-jewelry-box-black-walnut): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
-  Updated: 2025-10-02T03:38:25Z
+  Updated: 2025-10-02T16:03:00Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Stowit-Jewelry-Box-Black-Walnut-UMBRA-6.png?v=1731902487
   Price: $99.99 NZD
 - [Stowit Mini Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-mini-jewelry-box-black-walnut): Use Mini Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Multiple hidden compartments of various sizes allow you to store your rings, earrings, bracelets, watches, necklaces and other accessories in different configurations depending on what works best for you. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Mini Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Alternatively, Mini Stowit can also be used as a keepsake box, for storing small valuables and other trinkets from your adventures, or as a drawer organizer in your desk or nightstand.
-  Updated: 2025-10-02T03:38:26Z
+  Updated: 2025-10-02T16:39:55Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2580,42 +2552,42 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Swivel-Napkin-Holder-Black-Nickel-UMBRA-6.jpg?v=1731903285
   Price: $34.99 NZD
 - [Terrace Jewelry Tray - Black/Walnut](https://everydayhome.co.nz/products/terrace-jewelry-tray-black-walnut): The Terrace Jewelry Tray features three stacked trays, each with dividers optimized for organizing jewelry and keeping it safe. Made of high-quality, Rubberwood with an elegant, walnut finish, and a black metal wire frame for stacking its trays, Terrace is a piece you will be proud to leave out in your home. This piece makes excellent use of vertical space, stacking the trays, freeing up space on your vanity or counter, while adding a nice decorative dimension of height and material to any space in your home.
-  Updated: 2025-10-02T03:38:28Z
+  Updated: 2025-10-02T17:25:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Terrace-Jewelry-Tray-Black-Walnut-UMBRA-3.jpg?v=1731903387
   Price: $99.99 NZD
 - [Tesora Storage Box Glass - Clear/Brass](https://everydayhome.co.nz/products/tesora-storage-box-glass-clear-brass): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost.
-  Updated: 2025-10-02T03:38:28Z
+  Updated: 2025-10-02T16:17:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Storage-Box-Glass-Clear-Brass-UMBRA-9.png?v=1731903486
   Price: $74.99 NZD
 - [Tesora Wood Storage Box - Natural/Brass](https://everydayhome.co.nz/products/tesora-wood-jwl-box-nat-bras): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost. Wood is a unique natural material with variations in tone, texture, and grain. The product may vary from our imagery.
-  Updated: 2025-10-02T03:38:29Z
+  Updated: 2025-10-02T15:57:44Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Wood-Storage-Box-Natural-Brass-UMBRA-3.png?v=1731903050
   Price: $74.99 NZD
 - [Tesora Wood Storage Box - Black/Walnut](https://everydayhome.co.nz/products/tesora-wood-storage-box-blk-wal): Featuring two tiers that can be stacked or separated, this jewelry box is the perfect addition to help store and organize your accessory collection. The Tesora’s plated metal lid doubles as a tray to store and display easily accessible accessories. Its two-tiered stacking design makes this a versatile storage solution that can be stacked on top of one another to save room or kept separately. Its perfect size makes it easy to place by your bedside table for easy access and to ensure your jewelry does not get lost. Wood is a unique natural material with variations in tone, texture, and grain. The product may vary from our imagery.
-  Updated: 2025-10-02T03:38:29Z
+  Updated: 2025-10-02T16:13:34Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tesora-Wood-Storage-Box-Black-Walnut-UMBRA-6.png?v=1731901941
   Price: $74.99 NZD
 - [Triflora Hanging Planter (Set of 5) - White](https://everydayhome.co.nz/products/triflora-5-large-white): Triflora is a hanging planter for indoor plants that combines the utility of a drapery rod with the beauty of potted plants. Great for herbs, succulents, vine plants and more, Triflora Hanging Planter mounts to your wall or ceiling and adds functionality to your window by turning it into a space for growing plants. Because its pots are made from durable recycled molded polypropylene, Triflora remains lightweight even once plants are potted, allowing Triflora to be the lightest weight possible. You can adjust the length of Triflora’s ropes and slide them anywhere along the metal rod to customize the position of each hanging pot.
-  Updated: 2025-10-02T03:38:46Z
+  Updated: 2025-10-02T16:38:28Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Triflora-Hanging-Planter-Set-of-5-White-UMBRA-1.jpg?v=1731902130
   Price: $99.99 NZD
 - [Trigem Jewelry Stand - White/Brass](https://everydayhome.co.nz/products/trigem-jwl-stand-kd-wht-bras): With the Trigem Jewelry Stand, three plated bars provide plenty of hanging space for all your favorite necklaces; keeping them safe, organized and tangle free. At 19-inches (48 cm) tall, Trigem is ideal for any type of necklace. The base of Trigem doubles as a jewelry holder for added accessory storage. Trigem’s sleek design compliments any modern decor and the protective padded base ensures your counter or table top surface doesn’t get damaged.
-  Updated: 2025-10-02T03:38:47Z
+  Updated: 2025-10-02T16:05:40Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3266,7 +3238,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ConcreteTubePlastic_Size2_O45mm-Black-8710755296789Brabantia_96dpi_1000x1000px_7_NR-1806_a37b3a9a-dc8f-4293-ab16-6bbdcce3a7d4.png?v=1733865664
   Price: $31.99 NZD
 - [Brabantia Stackable Glass Jar - 0.7L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-0-7l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-09-27T23:22:07Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4259,21 +4231,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkSideFoodWasteCaddy_1.8L-DarkGrey-8710755117541Brabantia_300dpi_2000x2000px_9_NR-25993.jpg?v=1754620279
   Price: $54.99 NZD
 - [Brabantia Sort & Go Waste Bin - 6L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-6l-grey): This cute 6 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just put it on your worktop, in a drawer or hang it on the wall with its included wall bracket. Full? Grab it by its handy handle and empty it. And do you want a bin liner with that? The PerfectFit 100% compostable bags, code S, are a perfect match - and easy to fit too! XS size, XL ease.
-  Updated: 2025-09-28T17:52:10Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_6L-Grey-8710755109720Brabantia_300dpi_2000x2000px_9_NR-1255.jpg?v=1754605929
   Price: $79.99 NZD
 - [Brabantia Sort & Go Waste Bin - 3L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-grey): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
-  Updated: 2025-10-01T21:22:10Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-Grey-8710755209888Brabantia_300dpi_2000x2000px_9_NR-17479.jpg?v=1754606819
   Price: $59.99 NZD
 - [Brabantia Sort & Go Waste Bin - 3L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-lght-gry): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
-  Updated: 2025-09-28T18:07:10Z
+  Updated: 2025-10-02T21:37:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4287,7 +4259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_6L-LightGrey-8710755213267Brabantia_300dpi_2000x2000px_9_NR-25846.jpg?v=1754605417
   Price: $79.99 NZD
 - [Brabantia Sort & Go Waste Bin - 12L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-12l-lght-gry): Feed your empty packaging, bottles, cans or anything else you want sorted to the 12 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Now that's organising!
-  Updated: 2025-09-23T12:39:00Z
+  Updated: 2025-10-02T21:37:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4707,7 +4679,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-656_FERRISRINGHOLDER_WALNUT_CC01.jpg?v=1756181949
   Price: $79.99 NZD
 - [Umbra Buddy Doorstop - Set of 2 Charcoal](https://everydayhome.co.nz/products/umbra-buddy-doorstop-set-of-2-charcoal): A playful and helpful tool, the Buddy Doorstop features Umbra’s signature Buddy figurine. A new addition to the Buddy Family, this imaginative door stopper helps to keep your door open as it appears as if Buddy is stuck underneath the door.
-  Updated: 2025-09-23T12:39:31Z
+  Updated: 2025-10-02T21:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4763,14 +4735,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/71dNAc1ZPsL._AC_SX679.jpg?v=1756177559
   Price: $34.99 NZD
 - [Umbra Step Toothbrush Holder - White](https://everydayhome.co.nz/products/umbra-step-toothbrush-holder-white): This modern and sleek toothbrush holder will hold your toothbrushes upright, ensuring they remain clean and dry after use. Step is made of the highly durable material melamine, meaning it is less likely to break in busy washrooms and kitchens.
-  Updated: 2025-09-26T00:22:14Z
+  Updated: 2025-10-02T21:37:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $17.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-09-28T19:22:10Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -4791,28 +4763,28 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021300_1050_FLEXADHESIVEBIN_SLATE_CC01_EDITIED.jpg?v=1755824233
   Price: $37.99 NZD
 - [Umbra Flex Adhesive Soap Dish - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-soap-dish-white): Soap dishes tend to pool water, with the Umbra Adhesive Soap Dish you don’t need to worry because the integrated drainage holes prevent water from collecting at the bottom of the dish.
-  Updated: 2025-10-01T21:22:10Z
+  Updated: 2025-10-02T21:37:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-10-01T21:22:11Z
+  Updated: 2025-10-02T21:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $17.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-10-01T16:07:11Z
+  Updated: 2025-10-02T23:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $24.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-10-01T00:07:14Z
+  Updated: 2025-10-02T23:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
