@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-02T20:00:32.772Z
+- Updated At: 2025-10-03T08:00:32.837Z
 
 ## Products
 
@@ -3154,72 +3154,32 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1751477937
   Price: ₹1,499.00 INR
-- [Classic Scrub Suit](https://surgismart.in/products/classic-scrub-suit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-09-28T21:45:44Z
+- [Classic Scrub Suit, Navy](https://surgismart.in/products/classic-scrub-suit-navy): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
+  Updated: 2025-10-03T07:45:30Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1754053943
-  - [Navy / S](https://surgismart.in/products/classic-scrub-suit?variant=50425589825816)
+  - [S](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589825816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_cc7202d5-c320-4ef6-add4-79b5a540b04e.jpg?v=1754053943
-    Price: ₹799.00 INR
-  - [Navy / M](https://surgismart.in/products/classic-scrub-suit?variant=50425589858584)
+    Price: ₹749.00 INR
+  - [M](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589858584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_06579a4e-cd05-4a24-a757-748d5d0e18d2.jpg?v=1754053943
-    Price: ₹799.00 INR
-  - [Navy / L](https://surgismart.in/products/classic-scrub-suit?variant=50425589891352)
+    Price: ₹749.00 INR
+  - [L](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589891352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_3eca6934-d333-4438-892f-1d51e626d595.jpg?v=1754053943
-    Price: ₹799.00 INR
-  - [Navy / XL](https://surgismart.in/products/classic-scrub-suit?variant=50425589924120)
+    Price: ₹749.00 INR
+  - [XL](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589924120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4.jpg?v=1754053943
-    Price: ₹799.00 INR
-  - [Navy / XXL](https://surgismart.in/products/classic-scrub-suit?variant=50425589956888)
+    Price: ₹749.00 INR
+  - [XXL](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589956888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_2e9238a5-e38e-4959-9282-269cfb4c330e.jpg?v=1754053943
-    Price: ₹799.00 INR
-  - [Black / S](https://surgismart.in/products/classic-scrub-suit?variant=50570710384920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/11_62848245-3fb7-4852-8352-92887dc56bc8.png?v=1755347000
-    Price: ₹799.00 INR
-  - [Black / M](https://surgismart.in/products/classic-scrub-suit?variant=50570710417688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/12_3881e675-5dd9-467f-bdbf-045b3be6f30f.png?v=1755347000
-    Price: ₹799.00 INR
-  - [Black / L](https://surgismart.in/products/classic-scrub-suit?variant=50570710450456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/13_ca590421-1766-4f89-b8e2-bd2bf40f66fe.png?v=1755347001
-    Price: ₹799.00 INR
-  - [Black / XL](https://surgismart.in/products/classic-scrub-suit?variant=50570710483224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/14_8d1a7640-26c5-4378-a9e9-4c6e301a4444.png?v=1755347001
-    Price: ₹799.00 INR
-  - [Black / XXL](https://surgismart.in/products/classic-scrub-suit?variant=50570710515992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/15_1452869e-08c6-4378-a6c1-848ab2e9baee.png?v=1755347000
-    Price: ₹799.00 INR
-  - [Wine / S](https://surgismart.in/products/classic-scrub-suit?variant=50570710548760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_88f34cb3-a993-48e2-b65d-c921859d5f20.png?v=1755347000
-    Price: ₹799.00 INR
-  - [Wine / M](https://surgismart.in/products/classic-scrub-suit?variant=50570710581528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7_6a708753-31c2-4597-8fbf-3c9e58548ba7.png?v=1755347000
-    Price: ₹799.00 INR
-  - [Wine / L](https://surgismart.in/products/classic-scrub-suit?variant=50570710614296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/8_8609ab1d-e7af-49e9-9cbc-d1c9eaa1f150.png?v=1755347000
-    Price: ₹799.00 INR
-  - [Wine / XL](https://surgismart.in/products/classic-scrub-suit?variant=50570710647064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
-    Price: ₹799.00 INR
-  - [Wine / XXL](https://surgismart.in/products/classic-scrub-suit?variant=50570710679832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/10_9ba9211a-317c-4dcf-9f8f-ef92a77ba9ec.png?v=1755347001
-    Price: ₹799.00 INR
+    Price: ₹749.00 INR
 - [Classic Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
   Updated: 2025-09-28T23:35:50Z
   Vendor: Surgismart
@@ -3258,12 +3218,54 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
+- [Classic Scrub Suit, Black](https://surgismart.in/products/classic-scrub-suit-black): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
+  Updated: 2025-10-03T07:45:52Z
+  Vendor: Surgismart
+  Product Type: Free Shipping
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/11_62848245-3fb7-4852-8352-92887dc56bc8.png?v=1755347000
+  - [S](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191157528)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [M](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191190296)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [L](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191223064)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [XL](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191255832)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [XXL](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191288600)
+    Availability: Available
+    Price: ₹749.00 INR
+- [Classic Scrub Suit, WIne](https://surgismart.in/products/classic-scrub-suit-wine): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
+  Updated: 2025-10-03T07:46:12Z
+  Vendor: Surgismart
+  Product Type: Free Shipping
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_88f34cb3-a993-48e2-b65d-c921859d5f20.png?v=1755347000
+  - [S](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191649048)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [M](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191681816)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [L](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191714584)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [XL](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191747352)
+    Availability: Available
+    Price: ₹749.00 INR
+  - [XXL](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191780120)
+    Availability: Available
+    Price: ₹749.00 INR
 
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-09-29T07:59:45Z
-  Total Products: 150
+  Updated: 2025-10-03T08:00:30Z
+  Total Products: 152
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-09-29T08:04:17Z
   Total Products: 22
@@ -3445,8 +3447,8 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-09-29T11:03:34Z
-  Total Products: 4
+  Updated: 2025-10-03T07:45:31Z
+  Total Products: 6
 
 ## Blogs
 
