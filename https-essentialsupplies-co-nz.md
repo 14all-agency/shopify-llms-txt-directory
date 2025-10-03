@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-03T00:00:38.615Z
+- Updated At: 2025-10-03T04:00:38.727Z
 
 ## Products
 
@@ -5343,7 +5343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/commercial-vehicle-cleaner-green-5l-refill-bottle-fleet-care-essential-supplies-556790.jpg?v=1719444957
   Price: $52.00 NZD
 - [Plastic Funnel - White, 175mm Length](https://essentialsupplies.co.nz/products/plastic-funnel-white-175mm-length-72)
-  Updated: 2025-02-14T13:57:17Z
+  Updated: 2025-10-03T03:16:18Z
   Vendor: Mattews Packaging
   Product Type: Funnels
   Availability: Available
