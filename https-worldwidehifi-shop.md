@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-03T16:00:32.475Z
+- Updated At: 2025-10-03T20:00:32.455Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -875,7 +875,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8d0d83f2-b703-469b-aa55-77fb8c46f5b6.jpg?v=1748017242
   Price: 194,00 € EUR
 - [Bowers & Wilkins Loudspeaker Cable CDC 16T gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-loudspeaker-cable-cdc-16t-gebraucht-kaufen): Bowers & Wilkins Loudspeaker Cable CDC 16T gebraucht kaufen ✅ Geprüfte Lautsprecherkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-03T08:46:58Z
+  Updated: 2025-10-03T17:55:25Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
