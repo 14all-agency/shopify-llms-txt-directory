@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-03T16:01:09.832Z
+- Updated At: 2025-10-03T20:01:11.720Z
 
 ## Products
 
@@ -2304,7 +2304,7 @@ divertir-te pelo...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cubo-magico-rubik-s-revenge-4x4-847210921-brincatoys-1178693397.jpg?v=1752837728
   Price: 22,50 € EUR
 - [Cucaburra](https://brincatoys.pt/products/cucaburra): Cucaburra é uma ave de aproximadamente 40 cm de comprimento, com uma cabeça grande, olhos proeminentes cor de café e uma bico muito grande. Pode ser encontrado na parte oriental da Austrália.O seu canto assemelha-se a um riso humano.Figura em borracha termoplástica não tóxica e livre de BPA.
-  Updated: 2025-09-29T20:10:45Z
+  Updated: 2025-10-03T17:43:52Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -3036,7 +3036,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-marvel-legends-eternals-kro-86575521-marvel-1178693579.jpg?v=1752840849
   Price: 48,50 € EUR
 - [Figura Marvel Loki](https://brincatoys.pt/products/figura-marvel-loki): Informação adicional Apresentamos a Figura Marvel Loki, um produto essencial para qualquer colecionador e fã do universo Marvel! Ao abrir esta caixa, ingressará no mundo dos Avengers, encontrando a figura do astuto Deus do engano, Loki. Figura de 30 cm de Loki. Recria as melhores batalhas do Loki, irmão do Thor ou inventa as tuas próprias com esta figura de Ação do deus do engano! Esta figura foi habilmente esculpida para captar os detalhes icônicos da personagem, desde o seu capacete com chifres distintos até a sua armadura característica em tons de verde e dourado. Destinada a entusiastas a partir dos quatro anos, a figura é fabricada com materiais de qualidade e seguros para proporcionar horas de diversão e recriação das batalhas épicas de Loki contra os heróis mais poderosos da Terra. Além disso, a figura possui pontos de articulação que permitem múltiplas poses, elevando a brincadeira e a exibição a um novo patamar. Como um elo entre o entretenimento e a colecionabilidade, esta Figura Marvel Loki é pacientemente detalhada, refletindo o esmero da Hasbro em produzir itens que respeitem a essência dos personagens que todos amamos. Além de ser um item magnífico de exibição, pode ser uma ferramenta educativa para encorajar a criatividade e imaginação das crianças. Incluída numa embalagem vibrante, que destaca outros heróis do universo Avengers, esta figura é também uma ótima opção para um presente inesquecível. A embalagem transparente na parte frontal permite uma visão clara da figura, assegurando que aquilo que vê é exatamente o que vai receber. Não espere mais para adicionar o Deus do Engano à sua coleção ou para presentear um entusiasta jovem! Em suma... Figura articular de Loki da Marvel com detalhes fiéis ao personagem. Ideal para colecionadores e crianças a partir dos 4 anos. Materiais de alta qualidade e segurança. Embalagem apelativa e transparente, perfeita para presentes. Dimensão: 10 x 30,50 x 5 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-09-30T07:48:08Z
+  Updated: 2025-10-03T18:22:50Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -3218,7 +3218,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-marvel-titan-hero-hulk-brincatoys-907475524-5010996206527-marvel-1178693631.jpg?v=1752816729
   Price: 24,99 € EUR
 - [Figura Marvel Titan Thanos](https://brincatoys.pt/products/figura-titan-thanos): Figura Thanos com 30 cm.  Dimensão: 7.6 x 16.5 x 30.5 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-09-29T21:18:16Z
+  Updated: 2025-10-03T18:01:05Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -4144,7 +4144,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-mina-de-tesouros-810621223-brincatoys-1178693911.jpg?v=1752847458
   Price: 18,99 € EUR
 - [Jogo Monopoly Fortnite](https://brincatoys.pt/products/jogo-monopoly-fortnite): Monopoly agora com a versão Fortnite.Ganha pontos de vida e domina o jogo.  Dimensão: 40 x 27 x 5 cm Idade recomendada: + de 13 anos.
-  Updated: 2025-09-30T07:42:01Z
+  Updated: 2025-10-03T17:40:31Z
   Vendor: Monopoly
   Product Type: + 14 anos
   Availability: Available
@@ -5511,7 +5511,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-select-thor-237317319-marvel-1178694333.png?v=1752854766
   Price: 43,90 € EUR
 - [Marvel Spidey and His Amazing Friends - Miles Morales com Ar](https://brincatoys.pt/products/marvel-spidey-and-his-amazing-friends-miles-morales-com-aracno-triciclo): O membro mais jovem da equipa Aranha, Miles é entusiasmado, divertido e adora pintar e desenhar quase tanto quanto adora ser um herói! Miles pode ser um novo herói, mas ele com certeza é um especialista em divertir-se. Miles Morales tem super poderes de aranha: senso de aranha, super-força, escalar paredes e muito mais. Cada herói traz algo único p
-  Updated: 2025-10-03T11:46:32Z
+  Updated: 2025-10-03T17:07:08Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
@@ -9159,7 +9159,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-generations-war-for-cybertron-shadow-panther-238221522-transformers-1178695515.jpg?v=1752808926
   Price: 29,99 € EUR
 - [Boneco Transformers Legacy Crankcase](https://brincatoys.pt/products/transformers-legacy-crankcase): Boneco Transformers Legacy Crankcase, o brinquedo que transforma a sua diversão! Com armas removíveis proporciona uma experiência única para fãs.
-  Updated: 2025-09-30T03:29:49Z
+  Updated: 2025-10-03T18:22:45Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -12999,7 +12999,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-elsa-com-vestido-verde-elegancia-e-magia-770435523-0192995204355-princesas-disney-1178697101.jpg?v=1752904811
   Price: 42,50 € EUR
 - [Pinguim Musical sempre em pé](https://brincatoys.pt/products/pinguim-musical-sempre-em-pe): Com o Pinguim Musical Wobbler, as crianças podem experimentar o som e se deliciar com os sons suaves do tilintar e o gingado engraçado do pinguim.  Dimensão: 18 x 15 x 9,50 cm.Idade Recomendada: + de 6 meses.
-  Updated: 2025-09-30T02:40:56Z
+  Updated: 2025-10-03T17:19:15Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -13178,7 +13178,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cubos-de-madeira-conto-de-fadas-6-ilustracoes-encantadoras-26240724-3048700024077-brincatoys-1178697199.jpg?v=1752906362
   Price: 18,50 € EUR
 - [Puzzle Peppa Pig - Família](https://brincatoys.pt/products/puzzle-peppa-pig-familia): Um puzzle de 24 peças com Peppa Pig e a sua família numa caixa com uma forma divertida. Com este puzzle, as crianças têm a oportunidade de montar quebra-cabeças com peças grandes e fáceis de segurar e colocar. Quando montamos um quebra-cabeça, usamos os dois hemisférios do cérebro pois temos que visualizar/imaginar como o quebra-cabeça deve ser e a
-  Updated: 2025-09-29T20:46:09Z
+  Updated: 2025-10-03T18:38:10Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -13826,7 +13826,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-patrulha-pata-chase-27cm-778655824-2600000-patrulha-pata-1178697594.jpg?v=1752800532
   Price: 16,99 € EUR
 - [Uno Barbie The Movie](https://brincatoys.pt/products/uno-barbie-the-movie): Os fãs da ​Barbie vão adorar o jogo de cartas UNO do filme Barbie. Com um baralho com ilustrações inspiradas nos personagens e cenas favoritas, os jogadores tentam combinar cores e números, mas agora há uma regra especial "Brincou com Muita Coisa", que fará com que os jogadores descartem e comprem cartas. Quando tiver só uma carta na mão, não esqueça de gritar "UNO!" É um presente incrível para fãs da Barbie e amantes de jogos de cartas. Dimensão: 9 x 14 x 2 cm. Idade Recomendada: + de 7 anos.
-  Updated: 2025-09-29T17:47:24Z
+  Updated: 2025-10-03T16:54:10Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -15620,7 +15620,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-71819-ninjago-santuario-de-pedra-do-dragao-667181924-5702017584614-lego-1178698899.jpg?v=1752794883
   Price: 119,99 € EUR
 - [Lego 77046 Animal Crossing - Festa de Aniversário do Julian](https://brincatoys.pt/products/lego-animal-crossing-festa-de-anos-do-julian): Descubra o Lego 77046 Animal Crossing - Festa de anos do Julian, o set LEGO que traz a diversão da ilha para a sua casa! Perfeito para fãs e colecionadores.
-  Updated: 2025-09-30T00:00:39Z
+  Updated: 2025-10-03T18:41:35Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -16607,7 +16607,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-da-disney-jessica-carvill-reviva-as-corridas-magicas-772003424-0194735200344-cars-1178699796.jpg?v=1752947165
   Price: 11,99 € EUR
 - [Lego Friends 42622 - Campo de Aventuras de Tiro com Arco](https://brincatoys.pt/products/lego-friends-campo-de-aventuras-de-tiro-com-arco): Lego Friends 42622 - Campo de Aventuras de Tiro com Arco. Deixe as crianças mergulharem em aventuras emocionantes enquanto solta a imaginação com LEGO!
-  Updated: 2025-09-29T23:09:04Z
+  Updated: 2025-10-03T18:41:55Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -17139,7 +17139,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-jurassic-world-76965-missoes-de-dinossauros-667696524-5702017583198-lego-1178700194.jpg?v=1752952084
   Price: 69,90 € EUR
 - [Lego Jurassic World 76966 - Missões de Dinossauros](https://brincatoys.pt/products/lego-jurassic-world-missoes-de-dinossauros-camiao-de-transporte-de-alossauro): Descubra o Lego Jurassic World 76966 - Missões de Dinossauros: Camião de Transporte de Alossauro, um conjunto emocionante cheio de aventura!
-  Updated: 2025-09-29T23:57:17Z
+  Updated: 2025-10-03T19:58:01Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -17503,7 +17503,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60435-camiao-reboque-e-reparacao-de-carro-666043524-5702017587325-lego-1178700452.jpg?v=1752786860
   Price: 22,50 € EUR
 - [Lego DC Comics 76270 - Armadura Mech do Batman](https://brincatoys.pt/products/lego-dc-comics-76270-armadura-mech-do-batman): Descubra a Armadura Mech do Batman Lego DC Comics 76270. Construa, brinque e colecione o herói de Gotham em versão robô articulado.
-  Updated: 2025-10-02T10:51:45Z
+  Updated: 2025-10-03T19:49:13Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -18014,7 +18014,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pista-de-carros-da-porquinha-peppa-corridas-emocionantes-853043724-4007486630437-peppa-pig-1178700820.jpg?v=1752785173
   Price: 39,99 € EUR
 - [Boneca Elegance verde com alcofa: Conforto e estilo para brincar](https://brincatoys.pt/products/boneca-elegance-verde-com-alcofa): Transporte a Boneca Elegance verde com alcofa para onde quiser, com muito conforto e estilo. Deixe a imaginação da sua criança voar! ✨
-  Updated: 2025-09-30T03:18:05Z
+  Updated: 2025-10-03T19:58:10Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20823,7 +20823,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-telefone-unicornio-820541024-2600000-brincatoys-1178695471.jpg?v=1752875536
   Price: 24,50 € EUR
 - [Lego Speed Champions 76916 Porsche 963: Detalhes Incríveis](https://brincatoys.pt/products/lego-speed-champions-porsche-963-copia): Monte seu próprio  Lego Speed Champions 76916 Porsche 963! Apaixone-se pela réplica detalhada e sinta a emoção das pistas de Le Mans. 🏁
-  Updated: 2025-09-29T23:54:26Z
+  Updated: 2025-10-03T19:57:55Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -21649,8 +21649,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-03T14:48:40Z
-  Total Products: 3065
+  Updated: 2025-10-03T19:58:31Z
+  Total Products: 3064
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21658,8 +21658,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T14:48:40Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-03T14:48:40Z
-  Total Products: 3065
+  Updated: 2025-10-03T19:58:31Z
+  Total Products: 3064
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-03T11:22:09Z
   Total Products: 937
