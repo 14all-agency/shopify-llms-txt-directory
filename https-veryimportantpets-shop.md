@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-03T00:01:17.327Z
+- Updated At: 2025-10-03T04:01:12.788Z
 
 ## Products
 
@@ -2701,7 +2701,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-steps-3-step-pet-stairs-with-kitten-house-and-2-storage-boxes-3-in-1-dog-ramp-for-sofa-with-washable-plush-cushion-910253.jpg?v=1700656845
   Price: £44.99 GBP
 - [Cat Stairs with Storage Boxes, 3 Steps Dog Stairs for Bed, Pet Ladder for Couch Sofa](https://veryimportantpets.shop/products/cat-stairs-with-storage-boxes-3-steps-dog-stairs-for-bed-pet-ladder-for-couch-sofa): Do you know that allowing pets to climb up and down may cause joint and knee pain? Especially for senior pets or pets with mobility issues. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:37Z
+  Updated: 2025-10-03T03:35:38Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -14549,7 +14549,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wahl-pet-cologne-bundle-cologne-perfume-314528.jpg?v=1701339417
   Price: £118.95 GBP
 - [Wahl Pet Cologne Cherry](https://veryimportantpets.shop/products/wahl-pet-cologne-cherry): Wahl Pet Cologne Cherry. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:54:11Z
+  Updated: 2025-10-03T00:35:37Z
   Vendor: Wahl
   Product Type: Cologne & Perfume
   Availability: Available
@@ -22843,7 +22843,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-grain-free-healthy-heart-adult-wet-dog-food-trays-24-pack-150g-adult-wet-717928.jpg?v=1715110475
   Price: £18.82 GBP
 - [Butcher's Grain Free Succulent Recipes Adult Wet Dog Food Trays](https://veryimportantpets.shop/products/butchers-grain-free-succulent-recipes-adult-wet-dog-food-trays): Fuel your pup with Butcher's Grain-Free Succulent Recipes, packed with liver for a tasty, iron-rich meal that boosts energy and supports overall health.
-  Updated: 2025-09-22T18:52:35Z
+  Updated: 2025-10-03T02:42:08Z
   Vendor: Butcher's
   Product Type: Adult Wet
   Availability: Available
