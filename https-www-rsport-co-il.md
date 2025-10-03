@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-03T12:01:03.797Z
+- Updated At: 2025-10-03T16:00:58.743Z
 
 ## Products
 
@@ -4691,7 +4691,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חליפת ילדים פריז סן ז'רמן חוץ 24/25](https://www.rsport.co.il/products/חליפת-ילדים-פריז-סן-זרמן-חוץ-24-25): חליפת הילדים של פריז סן ז'רמן לחוץ לעונת 24/25 עשויה 100% פוליאסטר, מה שהופך אותה לקלה ונושמת, אידיאלית לפעילויות ספורטיביות. החליפה מגיעה עם גרביים שעוזרות להשלמת המראה והסגנון של הילד, מציעה גם נוחות וגם סטייל.
-  Updated: 2025-09-18T18:31:13Z
+  Updated: 2025-10-03T12:26:15Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -10292,7 +10292,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק City Edition ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-city-tatum-jersey): גופיית City Edition של ג'ייסון טייטום בעיצוב ייחודי של Boston Celtics
-  Updated: 2025-10-02T16:40:13Z
+  Updated: 2025-10-03T12:47:31Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10388,7 +10388,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק ירוקה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-jersey): גופיית משחק ירוקה מבוסטון סלטיקס מציעה שילוב בין נוחות וסטייל ספורטיבי. עשויה 100% פוליאסטר קל ונושם לשמירה על יובש ונוחות לאורך כל המשחק. הגזרה רגילה ומאפשרת תנועתיות מלאה, עם צבעים המזוהים עם הקבוצה לחוויית משחק אותנטית.
-  Updated: 2025-10-02T16:23:00Z
+  Updated: 2025-10-03T13:33:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11377,200 +11377,200 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-קוואי-לאונרד?variant=46904456282362)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה | דני אבדיה](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:16Z
+- [גופיית משחק לבנה | דני אבדיה](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia): גופייה בהשראת סגנון המשחק של הקבוצה, עשויה 100% פוליאסטר קל ונושם. מספקת חופש תנועה מלא ונוחות לאורך כל המשחק או האימון. העיצוב משלב סטייל מודרני וצבעי הקבוצה בצורה ברורה ומרשימה, אידיאלית לאוהדים שרוצים להרגיש חלק מהקבוצה על המגרש ובחיי היום-יום.
+  Updated: 2025-10-03T13:18:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_c5879501-79c3-4d33-b032-d7e0e670f449.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה?variant=46904493015290)
+  - [S](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia?variant=46904493015290)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה?variant=46904493048058)
+  - [M](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia?variant=46904493048058)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה?variant=46904493080826)
+  - [L](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia?variant=46904493080826)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה?variant=46904493113594)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia?variant=46904493113594)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה?variant=46904493146362)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia?variant=46904493146362)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-דני-אבדיה?variant=46904493179130)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia?variant=46904493179130)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק אדומה | דני אבדיה](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:16Z
+- [גופיית משחק אדומה | דני אבדיה](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia): הראה את התמיכה שלך עם גופיית המשחק האדומה של דני אבדיה. עשויה בד קל ונושם 100% פוליאסטר, מספקת נוחות מירבית ותנועות חופשיות, עיצוב מודרני ותואם למראה המקצועי של הוויזארדס.
+  Updated: 2025-10-03T13:17:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_3d5e9aa9-2bcd-46fd-9115-e3047c1738b0.jpg?v=1738543728
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה?variant=46904513364218)
+  - [S](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia?variant=46904513364218)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה?variant=46904513396986)
+  - [M](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia?variant=46904513396986)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה?variant=46904513429754)
+  - [L](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia?variant=46904513429754)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה?variant=46904513462522)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia?variant=46904513462522)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה?variant=46904513495290)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia?variant=46904513495290)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-דני-אבדיה?variant=46904513528058)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia?variant=46904513528058)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ורודה 22/23 דני אבדיה](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:17Z
+- [גופיית משחק ורודה 22/23 דני אבדיה](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia): גופיית משחק ורודה של דני אבדיה בעונת 22/23, בד קל ונושם 100% פוליאסטר. אידיאלית למגרש ולאימון, מספקת חופש תנועה, תחושת יובש ונוחות לאורך כל הפעילות, עם סטייל מקצועי ומודרני.
+  Updated: 2025-10-03T13:17:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_f0949397-6bb5-4779-af51-b8b338ea2138.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה?variant=46904529420538)
+  - [S](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia?variant=46904529420538)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה?variant=46904529453306)
+  - [M](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia?variant=46904529453306)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה?variant=46904529486074)
+  - [L](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia?variant=46904529486074)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה?variant=46904529518842)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia?variant=46904529518842)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה?variant=46904529551610)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia?variant=46904529551610)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-דני-אבדיה?variant=46904529584378)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia?variant=46904529584378)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ורודה 22/23 קייל קוזמה](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:17Z
+- [גופיית משחק ורודה 22/23 קייל קוזמה](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma): גופיית משחק ורודה של קייל קוזמה בעונת 22/23, עשויה 100% פוליאסטר קל ונושם. מספקת חופש תנועה ונוחות מירבית, עיצוב מודרני ומראה מקצועי המותאם לאימון, משחק או שימוש יום-יומי.
+  Updated: 2025-10-03T13:17:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_a5178133-5281-4380-abb4-44cb63e9a3ed.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה?variant=46904570872058)
+  - [S](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma?variant=46904570872058)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה?variant=46904570904826)
+  - [M](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma?variant=46904570904826)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה?variant=46904570937594)
+  - [L](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma?variant=46904570937594)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה?variant=46904570970362)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma?variant=46904570970362)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה?variant=46904571003130)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma?variant=46904571003130)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ורודה-22-23-קייל-קוזמה?variant=46904571035898)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma?variant=46904571035898)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה | בראדלי ביל](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:18Z
+- [גופיית משחק לבנה | בראדלי ביל](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal): גופיית משחק לבנה של בראדלי ביל בוויזארדס, עשויה בד קל ונושם 100% פוליאסטר. עיצוב קליל ונוח, מספקת תמיכה בתנועות חופשיות וחוויית משחק מקצועית עם סטייל מודרני.
+  Updated: 2025-10-03T13:17:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_10860b18-9fb0-4209-94f3-390cf61e6b04.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל?variant=46904595644666)
+  - [S](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal?variant=46904595644666)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל?variant=46904595677434)
+  - [M](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal?variant=46904595677434)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל?variant=46904595710202)
+  - [L](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal?variant=46904595710202)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל?variant=46904595742970)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal?variant=46904595742970)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל?variant=46904595775738)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal?variant=46904595775738)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-בראדלי-ביל?variant=46904595808506)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal?variant=46904595808506)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ווישינגטון וויזארדס לבנה | בראדלי ביל](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:18Z
+- [גופיית משחק ווישינגטון וויזארדס לבנה | בראדלי ביל](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey): הראה את התמיכה שלך עם גופיית המשחק של בראדלי ביל בוויזארדס, בד קל ונושם 100% פוליאסטר. מספקת תחושת יובש ונוחות בתנועות חופשיות, מתאימה לאימון, משחק או שימוש יום-יומי עם סטייל מקצועי.
+  Updated: 2025-10-03T13:17:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_2e9a85f6-18b8-44cf-a9e4-0edca1c42b7a.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל?variant=46904625922298)
+  - [S](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey?variant=46904625922298)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל?variant=46904625955066)
+  - [M](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey?variant=46904625955066)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל?variant=46904625987834)
+  - [L](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey?variant=46904625987834)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל?variant=46904626020602)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey?variant=46904626020602)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל?variant=46904626053370)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey?variant=46904626053370)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-בראדלי-ביל?variant=46904626086138)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey?variant=46904626086138)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ווישינגטון וויזארדס לבנה | רוי הצ'ימורה](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:19Z
+- [גופיית משחק ווישינגטון וויזארדס לבנה | רוי הצ'ימורה](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey): תמוך בקבוצה במגרש ומחוץ למגרש עם גופיית המשחק של רוי הצ'ימורה. עשויה בד קל ונושם 100% פוליאסטר, מספקת נוחות מירבית וחופש תנועה, עיצוב מודרני המותאם למראה המקצועי של הוויזארדס.
+  Updated: 2025-10-03T13:17:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_ebfb5828-e0a7-4f1f-a9d5-6271669d71cd.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה?variant=46904642404602)
+  - [S](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey?variant=46904642404602)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה?variant=46904642437370)
+  - [M](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey?variant=46904642437370)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה?variant=46904642470138)
+  - [L](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey?variant=46904642470138)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה?variant=46904642502906)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey?variant=46904642502906)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה?variant=46904642535674)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey?variant=46904642535674)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-לבנה-רוי-הצימורה?variant=46904642568442)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey?variant=46904642568442)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק ווישינגטון וויזארדס | ראסל ווסטברוק](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:20Z
+- [גופיית משחק ווישינגטון וויזארדס | ראסל ווסטברוק](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey): גופיית משחק איכותית של ראסל ווסטברוק בוויזארדס, עשויה 100% פוליאסטר קל ונושם. מספקת חופש תנועה מלא ותמיכה במגרש, מתאימה לאימון, משחק או שימוש יום-יומי, עם עיצוב מודרני וסטייל ספורטיבי.
+  Updated: 2025-10-03T13:17:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_0d8cb049-37b7-4afa-976f-bb5300274cf6.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק?variant=46904656822522)
+  - [S](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey?variant=46904656822522)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק?variant=46904656855290)
+  - [M](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey?variant=46904656855290)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק?variant=46904656888058)
+  - [L](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey?variant=46904656888058)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק?variant=46904656920826)
+  - [XL](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey?variant=46904656920826)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק?variant=46904656953594)
+  - [2XL](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey?variant=46904656953594)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ווישינגטון-וויזארדס-ראסל-ווסטברוק?variant=46904656986362)
+  - [3XL](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey?variant=46904656986362)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-לאמלו-בול): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:20Z
+- [גופיית משחק שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-לאמלו-בול): גופיית משחק שארלוט הורנטס בהשראת סגנון הקבוצה, עם שם ומספר של לאמלו בול בגב. עשויה בד קל ונושם, מתאימה לאוהדים ולשחקנים המעוניינים בלוק ספורטיבי איכותי.
+  Updated: 2025-10-03T14:04:35Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11593,358 +11593,358 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-לאמלו-בול?variant=46905559875834)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:21Z
+- [גופיית משחק לבנה שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets): גופיית משחק לבנה שארלוט הורנטס עם השראות סגנון הקבוצה ושם לאמלו בול בגב. בד קל ונושם לנוחות מירבית וחופש תנועה לאורך כל המשחק או האימון.
+  Updated: 2025-10-03T14:04:01Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_01a56722-1816-4c12-ad18-18226f231cf9.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול?variant=46905563906298)
+  - [S](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets?variant=46905563906298)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול?variant=46905563939066)
+  - [M](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets?variant=46905563939066)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול?variant=46905563971834)
+  - [L](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets?variant=46905563971834)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול?variant=46905564004602)
+  - [XL](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets?variant=46905564004602)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול?variant=46905564037370)
+  - [2XL](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets?variant=46905564037370)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-שארלוט-הורנטס-לאמלו-בול?variant=46905564070138)
+  - [3XL](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets?variant=46905564070138)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק סגולה שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:21Z
+- [גופיית משחק סגולה שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets): גופיית משחק סגולה שארלוט הורנטס בהשראת סגנון הקבוצה, עם שם ומספר של לאמלו בול בגב. עשויה בד קל ונושם ומעניקה חופש תנועה ונוחות במגרש ובאימונים.
+  Updated: 2025-10-03T14:03:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_649c95d7-a923-435b-a463-98f8cdc7e65f.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול?variant=46905565544698)
+  - [S](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets?variant=46905565544698)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול?variant=46905565577466)
+  - [M](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets?variant=46905565577466)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול?variant=46905565610234)
+  - [L](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets?variant=46905565610234)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול?variant=46905565643002)
+  - [XL](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets?variant=46905565643002)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול?variant=46905565675770)
+  - [2XL](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets?variant=46905565675770)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-סגולה-שארלוט-הורנטס-לאמלו-בול?variant=46905565708538)
+  - [3XL](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets?variant=46905565708538)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שארלוט הורנטס | ניקולא באטום](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:21Z
+- [גופיית משחק שארלוט הורנטס | ניקולא באטום](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets): גופיית משחק שארלוט הורנטס בהשראת סגנון הקבוצה, עם שם ומספר של ניקולא באטום בגב. עשויה בד קל ונושם, מספקת חופש תנועה ונוחות לאורך כל פעילות ספורטיבית.
+  Updated: 2025-10-03T14:02:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_93d30707-b026-460e-9d7d-770bc097a00b.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום?variant=46905567281402)
+  - [S](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets?variant=46905567281402)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום?variant=46905567314170)
+  - [M](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets?variant=46905567314170)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום?variant=46905567346938)
+  - [L](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets?variant=46905567346938)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום?variant=46905567379706)
+  - [XL](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets?variant=46905567379706)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום?variant=46905567412474)
+  - [2XL](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets?variant=46905567412474)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-ניקולא-באטום?variant=46905567445242)
+  - [3XL](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets?variant=46905567445242)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שארלוט הורנטס 2024](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:22Z
+- [גופיית משחק שארלוט הורנטס 2024](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets): גופיית משחק שארלוט הורנטס 2024 בהשראת סגנון הקבוצה, עשויה בד קל ונושם. מספקת חופש תנועה מלא ונוחות לאורך כל המשחק, עם עיצוב ספורטיבי מרשים.
+  Updated: 2025-10-03T14:02:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_b977c54c-3d18-40fd-b696-0a5b8ef1b438.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024?variant=46905572589818)
+  - [S](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets?variant=46905572589818)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024?variant=46905572622586)
+  - [M](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets?variant=46905572622586)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024?variant=46905572655354)
+  - [L](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets?variant=46905572655354)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024?variant=46905572688122)
+  - [XL](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets?variant=46905572688122)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024?variant=46905572720890)
+  - [2XL](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets?variant=46905572720890)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-2024?variant=46905572753658)
+  - [3XL](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets?variant=46905572753658)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [מכנסי שארלוט הורנטס JUST DON](https://www.rsport.co.il/products/מכנסי-שארלוט-הורנטס-just-don): מכנסי JUST DON של שארלוט הורנטס מציעים שילוב אידיאלי של סטייל רחוב ונוחות מקצועית. עשויים 100% פוליאסטר קל ונושם, מאפשרים חופש תנועה מלא ומתאימים לאימונים, משחקים ולשימוש יום יומי. הלוגו הרקום מעניק טאץ' ייחודי ומדגיש את הזהות של הקבוצה. רצועת המותן הסרוגה מבטיחה התאמה נוחה ואחידה, והרוכסנים מספקים פונקציונליות ונוחות בעת הלבישה. מכנסיים אלו מתאימים לאוהדי NBA שרוצים לשלב מראה מקצועי עם סטייל רחוב. העיצוב המדויק והפרטים האיכותיים מבטיחים מראה מרשים שמשתלב עם תרבות ה-NBA גם מחוץ למגרש.
-  Updated: 2025-09-28T09:02:51Z
+- [מכנסי שארלוט הורנטס JUST DON](https://www.rsport.co.il/products/pants-charlotte-hornets): מכנסי שארלוט הורנטס JUST DON, בד קל ונושם המעניק תחושת יובש ונוחות לאורך כל המשחק או האימון. אידיאליים לאוהדים ולשחקנים המעוניינים בסטייל ספורטיבי.
+  Updated: 2025-10-03T14:00:55Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_7d3df17f-8686-4900-91da-5ea5360b72b8.jpg?v=1738545183
-  - [S](https://www.rsport.co.il/products/מכנסי-שארלוט-הורנטס-just-don?variant=46905578422522)
+  - [S](https://www.rsport.co.il/products/pants-charlotte-hornets?variant=46905578422522)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-שארלוט-הורנטס-just-don?variant=46905578455290)
+  - [M](https://www.rsport.co.il/products/pants-charlotte-hornets?variant=46905578455290)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-שארלוט-הורנטס-just-don?variant=46905578488058)
+  - [L](https://www.rsport.co.il/products/pants-charlotte-hornets?variant=46905578488058)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-שארלוט-הורנטס-just-don?variant=46905578520826)
+  - [XL](https://www.rsport.co.il/products/pants-charlotte-hornets?variant=46905578520826)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-שארלוט-הורנטס-just-don?variant=46905578553594)
+  - [2XL](https://www.rsport.co.il/products/pants-charlotte-hornets?variant=46905578553594)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [מכנסי שארלוט הורנטס JUST DON | תכלת](https://www.rsport.co.il/products/מכנסי-just-don-תכלת-שארלוט-הורנטס): מכנסי JUST DON של שארלוט הורנטס בצבע תכלת משלבים סטייל רחוב עכשווי עם נוחות מקצועית. עשויים 100% פוליאסטר קל ונושם, הם מספקים חופש תנועה מלא ומתאימים לאימונים, משחקים ולשימוש יומיומי. הלוגו הרקום מעניק טאץ' ייחודי המדגיש את זהות הקבוצה. רצועת המותן הסרוגה מבטיחה התאמה נוחה ואחידה, והרוכסנים מספקים פונקציונליות ונוחות בעת הלבישה. מכנסיים אלו מתאימים לאוהדי NBA שרוצים לשלב מראה מקצועי עם סטייל רחוב. הצבע התכלת והעיצוב המדויק מבטיחים מראה מרשים שמשתלב עם תרבות ה-NBA.
-  Updated: 2025-09-28T10:55:35Z
+- [מכנסי שארלוט הורנטס JUST DON | תכלת](https://www.rsport.co.il/products/pants-lightblue-charlotte-hornets): מכנסי שארלוט הורנטס JUST DON בצבע תכלת, עשויים בד קל ונושם. מספקים נוחות מירבית וחופש תנועה לאימון, משחק או פעילות יום-יומית בסגנון ספורטיבי.
+  Updated: 2025-10-03T14:00:55Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_a101baae-e377-40f3-afa7-f542d867176d.jpg?v=1738545106
-  - [S](https://www.rsport.co.il/products/מכנסי-just-don-תכלת-שארלוט-הורנטס?variant=46905580749050)
+  - [S](https://www.rsport.co.il/products/pants-lightblue-charlotte-hornets?variant=46905580749050)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסי-just-don-תכלת-שארלוט-הורנטס?variant=46905580781818)
+  - [M](https://www.rsport.co.il/products/pants-lightblue-charlotte-hornets?variant=46905580781818)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסי-just-don-תכלת-שארלוט-הורנטס?variant=46905580814586)
+  - [L](https://www.rsport.co.il/products/pants-lightblue-charlotte-hornets?variant=46905580814586)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסי-just-don-תכלת-שארלוט-הורנטס?variant=46905580847354)
+  - [XL](https://www.rsport.co.il/products/pants-lightblue-charlotte-hornets?variant=46905580847354)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/מכנסי-just-don-תכלת-שארלוט-הורנטס?variant=46905580880122)
+  - [2XL](https://www.rsport.co.il/products/pants-lightblue-charlotte-hornets?variant=46905580880122)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית רטרו קליבלנד קאבלירס 15/16 | לברון ג'יימס](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:22Z
+- [גופיית רטרו קליבלנד קאבלירס 15/16 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers): גופיית רטרו מהעונה 15/16 של קליבלנד קאבלירס עם שם לברון ג'יימס בגב. בד קל ונושם המעניק חופש תנועה ונוחות לאורך כל הפעילות הספורטיבית.
+  Updated: 2025-10-03T14:16:23Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_c9ffe936-ccf3-4d2e-bf6a-d2ce37e59b37.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס?variant=46905752649978)
+  - [S](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers?variant=46905752649978)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס?variant=46905752682746)
+  - [M](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers?variant=46905752682746)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס?variant=46905752715514)
+  - [L](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers?variant=46905752715514)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס?variant=46905752748282)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers?variant=46905752748282)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס?variant=46905752781050)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers?variant=46905752781050)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-קליבלנד-קאבלירס-15-16-לברון-גיימס?variant=46905752813818)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers?variant=46905752813818)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו כחולה קליבלנד קאבלירס 08/09 | לברון ג'יימס](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:23Z
+- [גופיית רטרו כחולה קליבלנד קאבלירס 08/09 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers): סטייל רטרו כחול קליבלנד קאבלירס 08/09 עם שם ומספר של לברון ג'יימס. מתאימה למשחק, אימון או ללבישה יום-יומית בסגנון ספורטיבי איכותי.
+  Updated: 2025-10-03T14:15:54Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_5a7572d2-e9a2-4e60-bc31-653148f882fd.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס?variant=46905762054394)
+  - [S](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers?variant=46905762054394)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס?variant=46905762087162)
+  - [M](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers?variant=46905762087162)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס?variant=46905762119930)
+  - [L](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers?variant=46905762119930)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס?variant=46905762152698)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers?variant=46905762152698)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס?variant=46905762185466)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers?variant=46905762185466)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-כחולה-קליבלנד-קאבלירס-08-09-לברון-גיימס?variant=46905762218234)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers?variant=46905762218234)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו לבנה קליבלנד קאבלירס 2003/04 | לברון ג'יימס](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:23Z
+- [גופיית רטרו לבנה קליבלנד קאבלירס 2003/04 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers): גופיית רטרו לבנה בהשראת העונה המיתולוגית 03/04, עם שם לברון ג'יימס בגב. נוחה וקלילה, מספקת חופש תנועה מלא ומראה ספורטיבי אותנטי.
+  Updated: 2025-10-03T14:15:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_315693b4-b6e3-498d-97da-492a5795180a.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905766871290)
+  - [S](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers?variant=46905766871290)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905766904058)
+  - [M](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers?variant=46905766904058)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905766936826)
+  - [L](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers?variant=46905766936826)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905766969594)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers?variant=46905766969594)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905767002362)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers?variant=46905767002362)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905767035130)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers?variant=46905767035130)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו אדומה קליבלנד קאבלירס 2003/04 | לברון ג'יימס](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:23Z
+- [גופיית רטרו אדומה קליבלנד קאבלירס 2003/04 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers): חוויית רטרו אדומה של קליבלנד קאבלירס 03/04 עם שם ומספר של לברון ג'יימס. גופייה נושמת וגמישה, מושלמת לאוהדים ולשימוש במגרש.
+  Updated: 2025-10-03T14:14:37Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/31_e51cb14e-01f5-421b-b7f5-0a86de4839e4.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905771327738)
+  - [S](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers?variant=46905771327738)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905771360506)
+  - [M](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers?variant=46905771360506)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905771393274)
+  - [L](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers?variant=46905771393274)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905771426042)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers?variant=46905771426042)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905771458810)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers?variant=46905771458810)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-אדומה-קליבלנד-קאבלירס-2003-04-לברון-גיימס?variant=46905771491578)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers?variant=46905771491578)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית קליבלנד קאבלירס | קווין לאב](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:24Z
+- [גופיית קליבלנד קאבלירס | קווין לאב](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers): גופייה בהשראת הקבוצה עם שם ומספר של קווין לאב בגב. בד קל ונושם, מספק חוויית משחק נוחה ואידיאלית לאימון או פעילות יום-יומית.
+  Updated: 2025-10-03T14:14:09Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_a5de9244-262a-46ff-8509-f97eab1856df.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב?variant=46905775849722)
+  - [S](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers?variant=46905775849722)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב?variant=46905775882490)
+  - [M](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers?variant=46905775882490)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב?variant=46905775915258)
+  - [L](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers?variant=46905775915258)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב?variant=46905775948026)
+  - [XL](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers?variant=46905775948026)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב?variant=46905775980794)
+  - [2XL](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers?variant=46905775980794)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קווין-לאב?variant=46905776013562)
+  - [3XL](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers?variant=46905776013562)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית קליבלנד קאבלירס | קולין סקסטון](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:24Z
+- [גופיית קליבלנד קאבלירס | קולין סקסטון](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers): עיצוב קל ומרווח בגופיית קליבלנד קאבלירס עם שם קולין סקסטון בגב. אידיאלית לאוהדים המעוניינים בלבוש ספורטיבי עם חופש תנועה ונוחות מירבית.
+  Updated: 2025-10-03T14:13:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_63d13dcc-3bff-4946-aead-3c5bb0694cad.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון?variant=46905778274554)
+  - [S](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers?variant=46905778274554)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון?variant=46905778307322)
+  - [M](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers?variant=46905778307322)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון?variant=46905778340090)
+  - [L](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers?variant=46905778340090)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון?variant=46905778372858)
+  - [XL](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers?variant=46905778372858)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון?variant=46905778405626)
+  - [2XL](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers?variant=46905778405626)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-קולין-סקסטון?variant=46905778438394)
+  - [3XL](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers?variant=46905778438394)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית קליבלנד קאבלירס לבנה | דריוס גרלנד](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:24Z
+- [גופיית קליבלנד קאבלירס לבנה | דריוס גרלנד](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers): גופייה בהשראת סגנון הקבוצה בצבע לבן, עם שם דריוס גרלנד בגב. בד נושם וגמיש שמספק חופש תנועה מלא ותחושת נוחות במשחק או אימון.
+  Updated: 2025-10-03T14:13:05Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_e6920f05-1758-4b44-be89-101daded1bdf.jpg?v=1738543796
-  - [S](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד?variant=46905781780730)
+  - [S](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers?variant=46905781780730)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד?variant=46905781813498)
+  - [M](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers?variant=46905781813498)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד?variant=46905781846266)
+  - [L](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers?variant=46905781846266)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד?variant=46905781879034)
+  - [XL](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers?variant=46905781879034)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד?variant=46905781911802)
+  - [2XL](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers?variant=46905781911802)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דריוס-גרלנד?variant=46905781944570)
+  - [3XL](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers?variant=46905781944570)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית קליבלנד קאבלירס אדומה | דריוס גרלנד](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:25Z
+- [גופיית קליבלנד קאבלירס אדומה | דריוס גרלנד](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers): סטייל מודרני בגופיית קליבלנד קאבלירס אדומה, עם שם ומספר של דריוס גרלנד בגב. נוחה למשחק, אימון או שימוש יום-יומי בסגנון ספורטיבי.
+  Updated: 2025-10-03T14:12:35Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_799fd98c-5304-4528-9d31-93d6fe786eb6.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד?variant=46905785155834)
+  - [S](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers?variant=46905785155834)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד?variant=46905785188602)
+  - [M](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers?variant=46905785188602)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד?variant=46905785221370)
+  - [L](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers?variant=46905785221370)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד?variant=46905785254138)
+  - [XL](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers?variant=46905785254138)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד?variant=46905785286906)
+  - [2XL](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers?variant=46905785286906)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-אדומה-דריוס-גרלנד?variant=46905785319674)
+  - [3XL](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers?variant=46905785319674)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית קליבלנד קאבלירס לבנה | דונובן מיצ'ל](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:25Z
+- [גופיית קליבלנד קאבלירס לבנה | דונובן מיצ'ל](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers): גופייה לבנה בהשראת הקבוצה, עם פרטי דונובן מיצ'ל בגב. בד קל ונושם שמאפשר משחק חופשי ותנועות נוחות לאורך כל הפעילות הספורטיבית.
+  Updated: 2025-10-03T14:12:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_28faba39-9a5e-4a43-99ac-c1d8a803b72f.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786564858)
+  - [S](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers?variant=46905786564858)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786597626)
+  - [M](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers?variant=46905786597626)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786630394)
+  - [L](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers?variant=46905786630394)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786663162)
+  - [XL](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers?variant=46905786663162)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786695930)
+  - [2XL](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers?variant=46905786695930)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-קליבלנד-קאבלירס-לבנה-דונובן-מיצל?variant=46905786728698)
+  - [3XL](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers?variant=46905786728698)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [‏גופיית משחק יוסטון רוקטס גיימס הארדן](https://www.rsport.co.il/products/hou-harden): ‏גופיית משחק יוסטון רוקטס עם גיימס הארדן בעיצוב נוח ואיכותי, בהשראת ה־NBA לסטייל וספורטיביות יומיומית
@@ -12188,7 +12188,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית משחק מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey): גופיית משחק מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל ומגרש
-  Updated: 2025-10-03T11:45:51Z
+  Updated: 2025-10-03T12:48:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12212,7 +12212,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק צהובה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey): גופיית משחק צהובה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל וספורט
-  Updated: 2025-10-03T11:45:51Z
+  Updated: 2025-10-03T12:47:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12236,7 +12236,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey): גופיית משחק שחורה מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל ומגרש
-  Updated: 2025-10-03T11:45:51Z
+  Updated: 2025-10-03T12:47:12Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12260,7 +12260,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק תכלת מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey): גופיית משחק תכלת מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל וספורט
-  Updated: 2025-10-03T11:45:51Z
+  Updated: 2025-10-03T12:46:40Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12284,7 +12284,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-white-jersey): גופיית משחק לבנה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל ומגרש
-  Updated: 2025-10-03T11:45:50Z
+  Updated: 2025-10-03T12:46:04Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12308,7 +12308,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ורודה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey): גופיית משחק ורודה מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל וספורט
-  Updated: 2025-10-03T11:45:50Z
+  Updated: 2025-10-03T12:45:38Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12332,7 +12332,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק רטרו מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro): גופיית משחק רטרו מיאמי היט עם דווין וייד, איכותית ונוסטלגית למגרש ולסטייל רחוב
-  Updated: 2025-10-03T11:45:50Z
+  Updated: 2025-10-03T12:44:44Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12380,7 +12380,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו לבה מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro): גופיית רטרו לבה מיאמי היט עם דווין וייד, איכותית ונוסטלגית מעונת 2005/06
-  Updated: 2025-10-03T11:45:49Z
+  Updated: 2025-10-03T12:39:22Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12404,7 +12404,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק City Edition מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition): גופיית משחק City Edition מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל וספורט
-  Updated: 2025-10-03T11:45:49Z
+  Updated: 2025-10-03T12:40:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12428,7 +12428,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק אדומה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey): גופיית משחק אדומה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית למגרש ולסטייל יומיומי
-  Updated: 2025-10-03T11:45:49Z
+  Updated: 2025-10-03T12:37:39Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12452,7 +12452,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק מיאמי היט באם אדבאיו R:SPORT](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey): גופיית משחק מיאמי היט עם באם אדבאיו, נוחה ואיכותית, מושלמת לסטייל וספורט
-  Updated: 2025-10-03T11:45:49Z
+  Updated: 2025-10-03T12:36:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13123,296 +13123,296 @@
   - [3XL](https://www.rsport.co.il/products/mb-pants-just-don-dark-blue?variant=46908033925370)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:38Z
+- [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors): גופיית רטרו סגולה מהעונה 98-99 עם שם ומספר של טרייסי מקגריידי בגב. בד קל ונושם המעניק חופש תנועה מירבי למשחק או אימון.
+  Updated: 2025-10-03T14:22:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/31_3ef60d0e-9e0e-43a9-b91a-898d175d2fa0.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908291186938)
+  - [S](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors?variant=46908291186938)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908291219706)
+  - [M](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors?variant=46908291219706)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908291252474)
+  - [L](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors?variant=46908291252474)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908291285242)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors?variant=46908291285242)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908291318010)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors?variant=46908291318010)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908291350778)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors?variant=46908291350778)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו לבנה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:38Z
+- [גופיית רטרו לבנה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors): גופיית רטרו לבנה מהעונה 98-99 עם שם ומספר של טרייסי מקגריידי בגב. אידיאלית לאימון, משחק או ללבישה יום-יומית בסגנון ספורטיבי איכותי.
+  Updated: 2025-10-03T14:22:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/29_acb6f09d-8d48-49a7-8979-8cd401f1f645.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908292890874)
+  - [S](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors?variant=46908292890874)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908292923642)
+  - [M](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors?variant=46908292923642)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908292956410)
+  - [L](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors?variant=46908292956410)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908292989178)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors?variant=46908292989178)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908293021946)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors?variant=46908293021946)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908293054714)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors?variant=46908293054714)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:39Z
+- [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors): גופיית רטרו שחורה מהעונה 98-99 עם שם ומספר של טרייסי מקגריידי. בד קל ונושם, מספק חופש תנועה מלא ונוחות מירבית.
+  Updated: 2025-10-03T14:22:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_ea291787-6648-4cd0-9329-c7ac621e2609.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908294332666)
+  - [S](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors?variant=46908294332666)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908294365434)
+  - [M](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors?variant=46908294365434)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908294398202)
+  - [L](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors?variant=46908294398202)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908294430970)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors?variant=46908294430970)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908294463738)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors?variant=46908294463738)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-טרייסי-מקגריידי?variant=46908294496506)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors?variant=46908294496506)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו טורונטו ראפטורס | טרייסי מקגריידי](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:39Z
+- [גופיית רטרו טורונטו ראפטורס | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors): גופיית רטרו בהשראת הקבוצה עם שם ומספר של טרייסי מקגריידי בגב. מספקת חופש תנועה ונוחות מירבית במהלך משחקים או אימונים.
+  Updated: 2025-10-03T14:22:48Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_85213358-547a-4a4c-8ba9-c9180eef39a3.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי?variant=46908296855802)
+  - [S](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors?variant=46908296855802)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי?variant=46908296888570)
+  - [M](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors?variant=46908296888570)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי?variant=46908296921338)
+  - [L](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors?variant=46908296921338)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי?variant=46908296954106)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors?variant=46908296954106)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי?variant=46908296986874)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors?variant=46908296986874)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-טרייסי-מקגריידי?variant=46908297019642)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors?variant=46908297019642)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:40Z
+- [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors): גופיית רטרו סגולה עם שם ומספר של וינס קרטר בגב. אידיאלית למשחק, אימון או ללבישה יום-יומית בסגנון ספורטיבי.
+  Updated: 2025-10-03T14:22:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_02b7d490-523f-4107-943b-1ca75c82a323.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908498018554)
+  - [S](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors?variant=46908498018554)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908498051322)
+  - [M](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors?variant=46908498051322)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908498084090)
+  - [L](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors?variant=46908498084090)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908498116858)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors?variant=46908498116858)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908498149626)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors?variant=46908498149626)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908498182394)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors?variant=46908498182394)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:40Z
+- [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors): גופיית רטרו שחורה מהעונה 98-99 עם שם ומספר של וינס קרטר. בד קל ונושם, מספק חופש תנועה ונוחות מירבית.
+  Updated: 2025-10-03T14:22:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_56176ce3-2650-48fb-82b7-fc72ba70eb41.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908504342778)
+  - [S](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors?variant=46908504342778)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908504375546)
+  - [M](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors?variant=46908504375546)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908504408314)
+  - [L](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors?variant=46908504408314)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908504441082)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors?variant=46908504441082)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908504473850)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors?variant=46908504473850)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-שחורה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908504506618)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors?variant=46908504506618)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו לבנה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:41Z
+- [גופיית רטרו לבנה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors): גופיית רטרו לבנה מהעונה 98-99 עם שם ומספר של וינס קרטר בגב. אידיאלית לאימון, משחק או לאוהדים שאוהבים סגנון רטרו אותנטי.
+  Updated: 2025-10-03T14:22:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_4bc15411-1a0e-4b75-abd6-0715d43fcc1d.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908511289594)
+  - [S](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors?variant=46908511289594)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908511322362)
+  - [M](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors?variant=46908511322362)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908511355130)
+  - [L](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors?variant=46908511355130)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908511387898)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors?variant=46908511387898)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908511420666)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors?variant=46908511420666)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-לבנה-טורונטו-ראפטורס-1998-99-וינס-קרטר?variant=46908511453434)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-white-1998-99-vince-carter-toronto-raptors?variant=46908511453434)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית משחק לבנה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:41Z
+- [גופיית משחק לבנה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors): גופיית משחק לבנה עם השראות סגנון הקבוצה ושם סקוטי בארנס בגב. בד קל ונושם, מספק חופש תנועה מלא ונוחות מירבית.
+  Updated: 2025-10-03T14:22:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/28_6fbc68f2-3c04-48f0-b576-a17e036c9b5a.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908514435322)
+  - [S](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors?variant=46908514435322)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908514468090)
+  - [M](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors?variant=46908514468090)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908514500858)
+  - [L](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors?variant=46908514500858)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908514533626)
+  - [XL](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors?variant=46908514533626)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908514566394)
+  - [2XL](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors?variant=46908514566394)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908514599162)
+  - [3XL](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors?variant=46908514599162)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחורה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:42Z
+- [גופיית משחק שחורה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors): גופיית משחק שחורה עם שם ומספר של סקוטי בארנס בגב. אידיאלית למשחק, אימון או לבישה יום-יומית בסגנון ספורטיבי.
+  Updated: 2025-10-03T14:22:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/26_35cfe3ec-8d5a-4a0a-8b37-cb93ba3866a2.jpg?v=1738543796
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908569256186)
+  - [S](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors?variant=46908569256186)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908569288954)
+  - [M](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors?variant=46908569288954)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908569321722)
+  - [L](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors?variant=46908569321722)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908569354490)
+  - [XL](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors?variant=46908569354490)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908569387258)
+  - [2XL](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors?variant=46908569387258)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחורה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908569420026)
+  - [3XL](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors?variant=46908569420026)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק אדומה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:42Z
+- [גופיית משחק אדומה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors): גופיית משחק אדומה עם השראות סגנון הקבוצה ושם סקוטי בארנס בגב. בד קל ונושם, מספק חופש תנועה ונוחות למשחק ואימון.
+  Updated: 2025-10-03T14:22:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/27_1bb96b05-5118-4d5f-90b2-707fd23a91df.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908570992890)
+  - [S](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors?variant=46908570992890)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908571025658)
+  - [M](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors?variant=46908571025658)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908571058426)
+  - [L](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors?variant=46908571058426)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908571091194)
+  - [XL](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors?variant=46908571091194)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908571123962)
+  - [2XL](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors?variant=46908571123962)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-אדומה-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908571156730)
+  - [3XL](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors?variant=46908571156730)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק טורונטו ראפטורס | פסקאל סיאקאם](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:43Z
+- [גופיית משחק טורונטו ראפטורס | פסקאל סיאקאם](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam): גופיית משחק בהשראת הקבוצה עם שם ומספר של פסקאל סיאקאם בגב. אידיאלית למשחק, אימון או שימוש יום-יומי בסגנון ספורטיבי איכותי.
+  Updated: 2025-10-03T14:22:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_f253f1ff-564d-4186-8572-75c75da572e4.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם?variant=46908575187194)
+  - [S](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam?variant=46908575187194)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם?variant=46908575219962)
+  - [M](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam?variant=46908575219962)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם?variant=46908575252730)
+  - [L](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam?variant=46908575252730)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם?variant=46908575285498)
+  - [XL](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam?variant=46908575285498)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם?variant=46908575318266)
+  - [2XL](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam?variant=46908575318266)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פסקאל-סיאקאם?variant=46908575351034)
+  - [3XL](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam?variant=46908575351034)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק טורונטו ראפטורס | פרד ואן וליט](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:43Z
+- [גופיית משחק טורונטו ראפטורס | פרד ואן וליט](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet): גופיית משחק בהשראת סגנון הקבוצה עם שם ומספר של פרד ואן וליט בגב. בד קל ונושם, מאפשר תנועות חופשיות ונוחות לאורך כל הפעילות.
+  Updated: 2025-10-03T14:22:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_97354943-ba55-46c2-a634-0f7035b40fb8.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908579873018)
+  - [S](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet?variant=46908579873018)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908579905786)
+  - [M](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet?variant=46908579905786)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908579938554)
+  - [L](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet?variant=46908579938554)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908579971322)
+  - [XL](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet?variant=46908579971322)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908580004090)
+  - [2XL](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet?variant=46908580004090)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-פרד-ואן-וליט?variant=46908580036858)
+  - [3XL](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet?variant=46908580036858)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [מכנסי טורונטו ראפטורס JUST DON | סגול](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-purple-8673423229178): מכנסי JUST DON של טורונטו ראפטורס בצבע סגול משלבים נוחות מירבית עם סטייל רחוב מודרני. עשויים 100% פוליאסטר קל ונושם, הם מספקים חופש תנועה מלא ומתאימים לפעילות ספורטיבית וגם לשימוש יום יומי. הלוגו הרקום מוסיף טאץ' ייחודי ומדגיש את האותנטיות והסטייל של אוהדי NBA. רצועת המותן הסרוגה מבטיחה התאמה מושלמת, והרוכסנים מספקים פונקציונליות ונוחות מקסימלית בעת לבישה. מכנסיים אלו מתאימים ליום יום, אימונים או הופעות בסגנון רחוב. הצבע הסגול והעיצוב המקצועי מבטיחים מראה אופנתי שתואם את תרבות ה-NBA ומאפשר לאוהדים ללבוש את הצבעים בגאווה.
-  Updated: 2025-09-27T10:47:48Z
+  Updated: 2025-10-03T14:17:11Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13433,7 +13433,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנסי טורונטו ראפטורס JUST DON | לבן](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-white-8673424048378): מכנסי טורונטו ראפטורס JUST DON לבנים בעיצוב מודרני, בד קל ונושם לנוחות מירבית וחופש תנועה מושלם לאימון, יום-יום ואוהדים.
-  Updated: 2025-09-27T09:57:43Z
+  Updated: 2025-10-03T14:17:11Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13454,7 +13454,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנסי טורונטו ראפטורס JUST DON](https://www.rsport.co.il/products/toronto-raptors-pants-just-don-black-8673424539898): מכנסי JUST DON שחורים בעיצוב מודרני שמחבר בין אהבת NBA לסטייל רחוב בד קל ונושם לנוחות מירבית וחופש תנועה. מתאים לאימון וליום-יום.
-  Updated: 2025-09-27T10:08:55Z
+  Updated: 2025-10-03T14:17:11Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -13516,172 +13516,172 @@
   - [2XL](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don?variant=46908604219642)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית רטרו טורונטו ראפטורס סגולה | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:44Z
+- [גופיית רטרו טורונטו ראפטורס סגולה | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors): גופיית רטרו סגולה בהשראת הקבוצה עם שם ומספר של וינס קרטר בגב. מספקת נוחות מירבית וחופש תנועה במהלך משחק או אימון.
+  Updated: 2025-10-03T14:22:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_693470b7-8102-4bf8-a2cf-64d13a60311a.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר?variant=46908608741626)
+  - [S](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors?variant=46908608741626)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר?variant=46908608774394)
+  - [M](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors?variant=46908608774394)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר?variant=46908608807162)
+  - [L](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors?variant=46908608807162)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר?variant=46908608839930)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors?variant=46908608839930)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר?variant=46908608872698)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors?variant=46908608872698)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-סגולה-וינס-קרטר?variant=46908608905466)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors?variant=46908608905466)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו סגולה | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:44Z
+- [גופיית רטרו סגולה | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter): גופיית רטרו סגולה עם שם ומספר של וינס קרטר. בד קל ונושם המעניק חופש תנועה מלא ומראה ספורטיבי אותנטי לאוהדים ולשחקנים.
+  Updated: 2025-10-03T14:22:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_dbcbd15c-c5e6-4902-a754-f566ca467755.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר?variant=46908609626362)
+  - [S](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter?variant=46908609626362)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר?variant=46908609659130)
+  - [M](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter?variant=46908609659130)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר?variant=46908609691898)
+  - [L](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter?variant=46908609691898)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר?variant=46908609724666)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter?variant=46908609724666)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר?variant=46908609757434)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter?variant=46908609757434)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-סגולה-וינס-קרטר?variant=46908609790202)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter?variant=46908609790202)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו ירוקה טורונטו ראפטורס | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:44Z
+- [גופיית רטרו ירוקה טורונטו ראפטורס | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors): גופיית רטרו ירוקה בהשראת הקבוצה עם שם ומספר של וינס קרטר בגב. מספקת נוחות מירבית וחופש תנועה למשחקים, אימונים או פעילות יום-יומית.
+  Updated: 2025-10-03T14:22:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_fe016f8f-b4f3-4f75-b12b-85cf65b48b93.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר?variant=46908610576634)
+  - [S](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors?variant=46908610576634)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר?variant=46908610609402)
+  - [M](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors?variant=46908610609402)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר?variant=46908610642170)
+  - [L](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors?variant=46908610642170)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר?variant=46908610674938)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors?variant=46908610674938)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר?variant=46908610707706)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors?variant=46908610707706)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-ירוקה-טורונטו-ראפטורס-וינס-קרטר?variant=46908610740474)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors?variant=46908610740474)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו סגול לבן טורונטו ראפטורס | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:45Z
+- [גופיית רטרו סגול לבן טורונטו ראפטורס | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors): גופיית רטרו סגול-לבן עם שם ומספר של וינס קרטר בגב. בד קל ונושם, אידיאלית למשחק, אימון או ללבישה יום-יומית בסגנון ספורטיבי.
+  Updated: 2025-10-03T14:22:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_7e9f13cd-aa0e-42de-ae35-965e315e872f.jpg?v=1738543815
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר?variant=46908612411642)
+  - [S](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors?variant=46908612411642)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר?variant=46908612444410)
+  - [M](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors?variant=46908612444410)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר?variant=46908612477178)
+  - [L](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors?variant=46908612477178)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר?variant=46908612509946)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors?variant=46908612509946)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר?variant=46908612542714)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors?variant=46908612542714)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-סגול-לבן-טורונטו-ראפטורס-וינס-קרטר?variant=46908612575482)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors?variant=46908612575482)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו טורונטו ראפטורס מהדורת כוכבים | וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:45Z
+- [גופיית רטרו טורונטו ראפטורס מהדורת כוכבים | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors): גופיית רטרו מהדורת כוכבים עם השראות סגנון הקבוצה ושם וינס קרטר בגב. מספקת חופש תנועה ונוחות למשחק ואימון, עם מראה ספורטיבי אותנטי.
+  Updated: 2025-10-03T16:00:09Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_7d1dc039-2825-476b-98c5-593073f875e9.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר?variant=46908616605946)
+  - [S](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors?variant=46908616605946)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר?variant=46908616638714)
+  - [M](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors?variant=46908616638714)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר?variant=46908616671482)
+  - [L](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors?variant=46908616671482)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר?variant=46908616704250)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors?variant=46908616704250)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר?variant=46908616737018)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors?variant=46908616737018)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-כוכבים-וינס-קרטר?variant=46908616769786)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors?variant=46908616769786)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית רטרו טורונטו ראפטורס מהדורת מיוחדת| וינס קרטר](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:46Z
+- [גופיית רטרו טורונטו ראפטורס מהדורת מיוחדת| וינס קרטר](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors): גופיית רטרו מהדורת מיוחדת של טורונטו ראפטורס עם שם ומספר של וינס קרטר. בד קל ונושם, מספק חופש תנועה מירבי וחוויית משחק נוחה.
+  Updated: 2025-10-03T15:59:21Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_692e5365-2152-4d6b-9e3d-0e23aec43ab1.jpg?v=1738543795
-  - [S](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר?variant=46908617916666)
+  - [S](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors?variant=46908617916666)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר?variant=46908617949434)
+  - [M](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors?variant=46908617949434)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר?variant=46908617982202)
+  - [L](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors?variant=46908617982202)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר?variant=46908618014970)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors?variant=46908618014970)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר?variant=46908618047738)
+  - [2XL](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors?variant=46908618047738)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-רטרו-טורונטו-ראפטורס-מהדורת-מיוחדת-וינס-קרטר?variant=46908618080506)
+  - [3XL](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors?variant=46908618080506)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [גופיית משחק טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:46Z
+- [גופיית משחק טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes): גופיית משחק בהשראת סגנון הקבוצה, עם שם ומספר של סקוטי בארנס בגב. אידיאלית למשחק, אימון או פעילות יום-יומית בסגנון ספורטיבי איכותי.
+  Updated: 2025-10-03T15:58:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_f3e72db6-cf0f-4ad4-8f32-ca20a3eaac95.jpg?v=1738543766
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908618965242)
+  - [S](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes?variant=46908618965242)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908618998010)
+  - [M](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes?variant=46908618998010)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908619030778)
+  - [L](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes?variant=46908619030778)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908619063546)
+  - [XL](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes?variant=46908619063546)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908619096314)
+  - [2XL](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes?variant=46908619096314)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-טורונטו-ראפטורס-סקוטי-בארנס?variant=46908619129082)
+  - [3XL](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes?variant=46908619129082)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [מכנסי טורונטו ראפטורס JUST DON | סגול שחור](https://www.rsport.co.il/products/מכנסי-טורונטו-ראפטורס-just-don-סגול-שחור): מכנסי טורונטו ראפטורס JUST DON מספקים חופש תנועה מלא ונוחות מקסימלית, עשויים 100% פוליאסטר קל ונושם שמנדף זיעה ומאפשר תחושת יובש לאורך כל הפעילות. רצועת המותן הסרוגה מבטיחה התאמה מדויקת ויציבות, והגזרה מותאמת למבוגרים כך שניתן לבצע חופש פעולה מלא במשחקים, אימונים או שימוש יומיומי. המכנסיים מעוצבים בגישה מודרנית ופונקציונלית, עם בד נושם שמספק אוורור ונוחות לאורך כל פעילות. פריט איכותי המדגיש חופש תנועה, עמידות ומראה מקצועי, מתאים למי שמחפש מכנסיים שמספקים ביצועים גבוהים מבלי לפגוע בסגנון הכללי.
@@ -14134,8 +14134,8 @@
   - [3XL](https://www.rsport.co.il/products/den-wht-yokic?variant=46908781494522)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [‏גופיית משחק All-Star ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-yokic-allstar): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star, נוחה ואיכותית, לסטייל NBA
-  Updated: 2025-10-02T11:26:54Z
+- [גופיית משחק שחורה ALL STAR | ניקולה יוקיץ'](https://www.rsport.co.il/products/den-yokic-allstar): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star, נוחה ואיכותית, לסטייל NBA
+  Updated: 2025-10-03T13:02:50Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14182,8 +14182,8 @@
   - [3XL](https://www.rsport.co.il/products/den-retro-0607-anthony?variant=46908791881978)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [‏גופיית רטרו דנבר נאגטס עם כרמלו אנטוני 2003/04, איכותית ונוסטלגית, לסטייל NBA](https://www.rsport.co.il/products/den-retro-0304-anthony): ‏גופיית רטרו כרמלו אנטוני 2003/04 דנבר נאגטס
-  Updated: 2025-10-02T11:26:55Z
+- [גופיית רטרו דנבר נאגטס 03/04 | כרמלו אנתוני](https://www.rsport.co.il/products/den-retro-0304-anthony): גופיית רטרו דנבר נאגטס 03/04 של כרמלו אנתוני, איכותית ונושמת. מושלמת לאוהדים ואספנים, מביאה את הסטייל של העונה המיתולוגית למגרש וליום-יום.
+  Updated: 2025-10-03T13:05:25Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14230,8 +14230,8 @@
   - [3XL](https://www.rsport.co.il/products/den-retro-blu-0607-anthony?variant=46908796862714)
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
-- [‏גופיית משחק All-Star ניקולה יוקיץ דנבר נאגטס](https://www.rsport.co.il/products/den-yokic-as): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star בעיצוב איכותי, לסטייל NBA וספורט יומיומי
-  Updated: 2025-10-02T11:26:55Z
+- [גופיית משחק אדומה ALL STAR | ניקולה יוקיץ'](https://www.rsport.co.il/products/den-yokic-as): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star בעיצוב איכותי, לסטייל NBA וספורט יומיומי
+  Updated: 2025-10-03T13:02:06Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -21588,28 +21588,28 @@
   - [XXL](https://www.rsport.co.il/products/זקט-ספורט-ריאל-מדריד-24-25-גברים?variant=47105434026234)
     Availability: Available
     Price: ‏258.92 ‏₪ ILS
-- [גופיית משחק לבנה טורונטו ראפטורס | קוואי לנארד](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:57Z
+- [גופיית משחק לבנה טורונטו ראפטורס | קוואי לנארד](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors): גופיית משחק לבנה בהשראת סגנון טורונטו ראפטורס עם שם ומספר של קוואי לנארד בגב. בד קל ונושם המעניק חופש תנועה ונוחות לאורך כל המשחק או האימון.
+  Updated: 2025-10-03T15:57:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/45_3376ceab-61ec-4588-a168-29e09e677cc0.jpg?v=1738869938
-  - [S](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד?variant=47107840442618)
+  - [S](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors?variant=47107840442618)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד?variant=47107840475386)
+  - [M](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors?variant=47107840475386)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד?variant=47107840508154)
+  - [L](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors?variant=47107840508154)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד?variant=47107840540922)
+  - [XL](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors?variant=47107840540922)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד?variant=47107840573690)
+  - [2XL](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors?variant=47107840573690)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-טורונטו-ראפטורס-קוואי-לנארד?variant=47107840606458)
+  - [3XL](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors?variant=47107840606458)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת סנטוס צ'רלי בראון 24/25 | מהדורה מיוחדת](https://www.rsport.co.il/products/חולצת-סנטוס-צרלי-בראון-24-25-מהדורה-מיוחדת): חולצת סנטוס צ'רלי בראון 24/25 במחווה לצ'רלי בראון, שחורה עם פרטי זהב החולצה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר
@@ -46064,7 +46064,7 @@
   Updated: 2025-10-02T11:26:59Z
   Total Products: 31
 - [גופיות כדורסל NBA | מגוון רחב של עיצובים ונוחות](https://www.rsport.co.il/collections/nba): גלה מגוון גופיות כדורסל NBA בעיצובים מגוונים ונוחים. אידיאלי לאוהדים ולשחקנים שרוצים סטייל וביצועים.
-  Updated: 2025-10-02T11:26:59Z
+  Updated: 2025-10-03T13:05:25Z
   Total Products: 194
 - [שיקגו בולס](https://www.rsport.co.il/collections/שיקגו-בולס): שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה... הצג עוד שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה. בנוסף לגופיות שחקנים, תמצא גם גופיות רטרו נוסטלגיות משנות ה-90, מכנסי כדורסל, מכנסי JUST DON ולצידן חולצות טי-שירט לייף סטייל שמתאימות לכל יום – גם מחוץ לפרקט. כל הפריטים עשויים מחומרים איכותיים, מתאימים לאימונים, למשחק או ליום יום, עם דגש על נוחות, עיצוב ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות שיקגו בולס – עבר מפואר, סגנון בולט והשראה לנצח. גופיות של ג'ורדן, פיפן, רוז ורודמן מחכות כאן – לצד לוק לייף סטייל אמיתי... הצג עוד גופיות השחקנים הכי חמות של שיקגו בולס – מייקל ג'ורדן, סקוטי פיפן, דריק רוז ודניס רודמן, לצד גופיות רטרו קלאסיות, מכנסי כדורסל, מכנסי JUST DON וחולצות טי שירט לייף סטייל שישלימו כל הופעה. הפריטים עשויים מחומרים איכותיים ומתאימים לאימונים, למשחק או פשוט ללבוש יומיומי מלא סטייל ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.getElementById('short-text-desktop'); const fullDesktop = document.getElementById('full-text-desktop'); const showMoreDesktop = document.getElementById('toggle-btn-desktop'); const showLessDesktop = document.getElementById('toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.getElementById('short-text'); const fullMobile = document.getElementById('full-text'); const showMoreMobile = document.getElementById('toggle-btn'); const showLessMobile = document.getElementById('toggle-btn-less'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'block'; }); } });
   Updated: 2025-10-02T11:25:56Z
@@ -46085,10 +46085,10 @@
   Updated: 2025-10-02T12:34:14Z
   Total Products: 18
 - [גופיות כדורסל](https://www.rsport.co.il/collections/גופיות-כדורסל)
-  Updated: 2025-10-02T11:26:59Z
+  Updated: 2025-10-03T13:05:25Z
   Total Products: 169
 - [גופיות רטרו](https://www.rsport.co.il/collections/גופיות-רטרו)
-  Updated: 2025-10-02T11:26:57Z
+  Updated: 2025-10-03T13:05:25Z
   Total Products: 46
 - [גופיות ילדים](https://www.rsport.co.il/collections/גופיות-ילדים)
   Updated: 2025-10-02T11:26:03Z
@@ -46181,7 +46181,7 @@
   Updated: 2025-10-02T11:26:52Z
   Total Products: 12
 - [דנבר נאגטס](https://www.rsport.co.il/collections/דנבר-נאגטס)
-  Updated: 2025-10-02T11:26:57Z
+  Updated: 2025-10-03T13:05:25Z
   Total Products: 16
 - [חולצות רטרו](https://www.rsport.co.il/collections/חולצות-רטרו)
   Updated: 2025-10-02T11:15:32Z
@@ -46427,7 +46427,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-03T11:18:38Z
+  Updated: 2025-10-03T13:05:25Z
   Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
