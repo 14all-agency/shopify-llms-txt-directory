@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-02T12:00:30.475Z
+- Updated At: 2025-10-03T08:00:30.740Z
 
 ## Products
 
@@ -41,12 +41,12 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/High_Noon_Jacket_Front.jpg?v=1756430670
     Price: $245.00 USD
 - [Flow Crossbody Vegan Leather bag](https://honestybrutal.com/products/flow): The Artist Statement Movement without map. Flow captures a moment of raw directionlessness — cobalt, teal, and gold drifting in rhythm but not in line. Lifted from an original alcohol ink work by Alex Z. Wang, this piece vibrates with energy and surrender, like a current that knows exactly where it’s not going. Wear it crossbody, on the shoulder, or as a wristlet — and let it take you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-01T21:14:03Z
+  Updated: 2025-10-02T15:12:38Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/Flow_Bag_1.jpg?v=1756430668
-  Price: $150.00 USD
+  Price: $298.00 USD
 - [Move iPhone Case](https://honestybrutal.com/products/move): The Artist Statement Color in motion. Move captures a moment of pure energy—saturated blues, greens, and golds collide in a fluid burst that feels both electric and organic. Designed from an original alcohol ink painting, this case turns your phone into a handheld piece of art. The Technicals Polycarbonate outer shell Thermoplastic polyurethane inner liner Dual-layer protection Precisely aligned port openings MagSafe® and wireless charging compatible Transparency Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
   Updated: 2025-08-29T01:24:27Z
   Vendor: Honesty Brutal
@@ -1100,33 +1100,33 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/Joshua_Tree_Jacket_Front.jpg?v=1756430613
     Price: $245.00 USD
 - [Aurora Flora Crossbody Vegan Leather Bag](https://honestybrutal.com/products/aurora-flora-crossbody-bag): The Artist Statetment A bloom charged with light. Aurora Flora pulses in saturated green and deep ocean blue — a field of floral energy rendered in ink and shadow. Based on a painting by Alex Z Wang, this bag channels the raw beauty of nature filtered through electric atmosphere. It moves like light on water — crossbody, shoulder, or wrist — always in motion, never still. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-01T21:13:42Z
+  Updated: 2025-10-02T15:12:14Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/AuroraBag1.jpg?v=1756430611
-  Price: $150.00 USD
+  Price: $298.00 USD
 - [Green Tail Crossbody Vegan Leather bag](https://honestybrutal.com/products/green-tail-crossbody-bag): The Artist Statement A flicker of motion, frozen mid-escape. Green Tail captures the moment just before vanishing — a rush of emerald, moss, and shadow inked onto white like a creature darting through foliage. Lifted from an original painting by Alex Z Wang, this piece hums with feral energy and silent tension. Strap it across your body, sling it from your wrist — this crossbody adapts to your rhythm, day or night. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-01T21:13:21Z
+  Updated: 2025-10-02T15:12:00Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/GreenTailBag1.jpg?v=1756430609
-  Price: $150.00 USD
+  Price: $298.00 USD
 - [Night Pedal Crossbody Vegan Leather bag](https://honestybrutal.com/products/night-pedal-crossbody-bag): The Artist Statement Softness with bite. Night Pedal opens in bloom and ends in bruise — a swirl of lavender, plum, and bone drawn from an original alcohol ink painting by Alex Z. Wang. Like a flower blooming in the dark, this crossbody carries tension and elegance in equal measure. Whether worn across the chest or clipped to your wrist, the modular strap system adapts to wherever the night pulls you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-01T21:13:05Z
+  Updated: 2025-10-02T15:11:44Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/NightPedalBag1.jpg?v=1756430607
-  Price: $150.00 USD
+  Price: $298.00 USD
 - [Serpenti Crossbody Vegan Leather bag](https://honestybrutal.com/products/serpenti-crossbody-bag): A flash of venom, a cloud of color. The Serpenti crossbody pulses with electric greens, yellows, and blues pulled from Alex Z. Wang’s original alcohol ink painting. Like a serpent mid-strike, it’s fluid, powerful, and impossible to ignore. This all-over print bag moves with you — from daylight chaos to midnight calm — thanks to a shape-shifting strap system that transforms it into a crossbody, shoulder bag, or wristlet in seconds. Details: Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-01T21:12:37Z
+  Updated: 2025-10-02T15:11:32Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/SerpentiBag2.jpg?v=1756430605
-  Price: $150.00 USD
+  Price: $298.00 USD
 - [Delulu Cap](https://honestybrutal.com/products/delulu-hat): The Artist Statement Live your delulu era loud and proud. This bold embroidered snapback is for the dreamers, the schemers, and anyone who knows that a little delusion can take you a long way. With its structured fit and high-profile silhouette, it’s not just a hat—it’s a whole mindset. The Technicals • 85% acrylic, 15% wool• Structured 6-panel crown• Flat visor with grey under brim• Adjustable plastic snap closure• Head circumference: 22″–24″ (55–60 cm)Transparency Made to order. Please allow time for production and delivery.
   Updated: 2025-09-07T04:23:27Z
   Vendor: Honesty Brutal
@@ -1631,52 +1631,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/Aurora_Phone_Case.jpg?v=1756430573
     Price: $75.00 USD
-- [The Quintessential Tee](https://honestybrutal.com/products/blk-logo-tee): The Artist Statement: A symbol of raw expression. The Quintessential Tee isn’t just branding—it’s a declaration. Bold, unapologetic, and stripped of pretense, it represents a mindset that refuses to conform. With a structured fit and clean lines, this 100% cotton tee layers seamlessly into any streetwear look—built for those who wear their truth out loud. The Technicals: 100% cotton Fabric weight: 5.0–5.3 oz/yd² (170–180 g/m²) Open-end yarn, tubular knit Taped neck and shoulders Double-seamed sleeves and hem Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, or Mexico Transparency: Made to order. Please allow time for production and delivery.
-  Updated: 2025-08-29T02:35:10Z
-  Vendor: Honesty Brutal
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-white-front-68adff3919ee8.jpg?v=1756430570
-  - [Black / S](https://honestybrutal.com/products/blk-logo-tee?variant=46781951508700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-black-front-6887ab914a69e.jpg?v=1756430570
-    Price: $45.00 USD
-  - [Black / M](https://honestybrutal.com/products/blk-logo-tee?variant=46781951541468)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-black-front-6887ab914a69e.jpg?v=1756430570
-    Price: $45.00 USD
-  - [Black / L](https://honestybrutal.com/products/blk-logo-tee?variant=46781951574236)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-black-front-6887ab914a69e.jpg?v=1756430570
-    Price: $45.00 USD
-  - [Black / XL](https://honestybrutal.com/products/blk-logo-tee?variant=46781951607004)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-black-front-6887ab914a69e.jpg?v=1756430570
-    Price: $45.00 USD
-  - [Black / 2XL](https://honestybrutal.com/products/blk-logo-tee?variant=46781951639772)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-black-front-6887ab914a69e.jpg?v=1756430570
-    Price: $45.00 USD
-  - [White / S](https://honestybrutal.com/products/blk-logo-tee?variant=46863476621532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-white-front-68adff3919ee8.jpg?v=1756430570
-    Price: $45.00 USD
-  - [White / M](https://honestybrutal.com/products/blk-logo-tee?variant=46863476654300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-white-front-68adff3919ee8.jpg?v=1756430570
-    Price: $45.00 USD
-  - [White / L](https://honestybrutal.com/products/blk-logo-tee?variant=46863476687068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-white-front-68adff3919ee8.jpg?v=1756430570
-    Price: $45.00 USD
-  - [White / XL](https://honestybrutal.com/products/blk-logo-tee?variant=46863476719836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-white-front-68adff3919ee8.jpg?v=1756430570
-    Price: $45.00 USD
-  - [White / 2XL](https://honestybrutal.com/products/blk-logo-tee?variant=46863476752604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/unisex-classic-tee-white-front-68adff3919ee8.jpg?v=1756430570
-    Price: $45.00 USD
 - [Color Bloom Heavy Tee No.3](https://honestybrutal.com/products/color-bloom-tee-no-3): The Artist Statement: Color Bloom No. 3 drifts between turbulence and stillness. Across the chest, an expanse of cobalt, emerald, and luminous yellow surges outward—like light filtering through deep water, or blossoms erupting in the dark. On the back, a smaller flare of rust, indigo, and coral burns quietly, a fading ember against white. This is a meditation on contrast: bloom and decay, clarity and haze, movement suspended in time. A composition not worn so much as carried—art unfolding with every step. The Technicals: 100% carded cotton Heavyweight 8.2 oz fabric Crew neck with wide ribbing Oversized fit Side-seamed construction Shoulder-to-shoulder taping Double-needle hems Preshrunk to minimize shrinkage Transparency: Made to order. Ships in about a week.
   Updated: 2025-08-29T13:50:05Z
   Vendor: Honesty Brutal
@@ -1710,8 +1664,68 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/0043b32c-f4c8-438f-9423-d27ff4ee2ed0_00cbb8d8-94b3-4392-bf28-2cc51546650a.png?v=1756430563
   Price: $120.00 USD
+- [Portal of Reverie Track Jacket](https://honestybrutal.com/products/portal-of-reverie-track-jacket): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } The Artist Statement Portal of Reverie channels luminous streaks of yellow, green, and blue across a sleek track silhouette. With a smooth surface built for color intensity and motion, this jacket blurs the line between art and activewear — a statement piece designed for movement. The Technicals 95% recycled polyester / 5% spandex Fabric weight: 7.47 oz/yd² (250 g/m²) Nylon zipper front closure Soft-touch outer surface with two-way stretch Side pockets High-definition all-over print Transparency & Care Each jacket is handmade to order — no overproduction, no waste. Please allow 3–6 business days for production.
+  Updated: 2025-10-03T05:05:59Z
+  Vendor: Subliminator
+  Product Type: Track Jacket - AOP
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+  - [XS](https://honestybrutal.com/products/portal-of-reverie-track-jacket?variant=46830228996316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+    Price: $275.00 USD
+  - [S](https://honestybrutal.com/products/portal-of-reverie-track-jacket?variant=46830229029084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+    Price: $275.00 USD
+  - [M](https://honestybrutal.com/products/portal-of-reverie-track-jacket?variant=46830229061852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+    Price: $275.00 USD
+  - [L](https://honestybrutal.com/products/portal-of-reverie-track-jacket?variant=46830229094620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+    Price: $275.00 USD
+  - [XL](https://honestybrutal.com/products/portal-of-reverie-track-jacket?variant=46830229127388)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+    Price: $275.00 USD
+  - [2XL](https://honestybrutal.com/products/portal-of-reverie-track-jacket?variant=46830229160156)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/168f8bc5c7609822de730010a5d0191b_trackJacketPantSet_ghost-front.png?v=1756430561
+    Price: $275.00 USD
+- [Earth Dreams Baseball Jacket](https://honestybrutal.com/products/earth-dreams-baseball-jacket): The Artist Statement A varsity reimagined as wearable art. The Earth Dreams Baseball Jacket transforms painterly washes of green, teal, and blue into a heavyweight silhouette. More than outerwear, it’s a canvas in motion — a statement piece designed to carry presence. The Technicals 93% polyester / 7% spandex blend Heavyweight: 12.09 oz/yd² (410 g/m²) Snap-button closure Side welt pockets All-over print, individually cut and sewn for graphic alignment Transparency & Care Each jacket is made to order — no overproduction, no waste. Please allow 3–6 business days for production
+  Updated: 2025-10-03T07:58:42Z
+  Vendor: Honesty Brutal
+  Product Type: Baseball Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+  - [XS](https://honestybrutal.com/products/earth-dreams-baseball-jacket?variant=46830248132828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+    Price: $345.00 USD
+  - [S](https://honestybrutal.com/products/earth-dreams-baseball-jacket?variant=46830248165596)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+    Price: $345.00 USD
+  - [M](https://honestybrutal.com/products/earth-dreams-baseball-jacket?variant=46830248198364)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+    Price: $345.00 USD
+  - [L](https://honestybrutal.com/products/earth-dreams-baseball-jacket?variant=46830248231132)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+    Price: $345.00 USD
+  - [XL](https://honestybrutal.com/products/earth-dreams-baseball-jacket?variant=46830248263900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+    Price: $345.00 USD
+  - [2XL](https://honestybrutal.com/products/earth-dreams-baseball-jacket?variant=46830248296668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/46a143c9f706fdaaa6d291686be09f8b_baseballJacket_flat-front.png?v=1756430557
+    Price: $345.00 USD
 - [Escaped from AA Tee](https://honestybrutal.com/products/escaped-from-aa-tee-blk): The Artist Statement “Escaped from AA” is a declaration of self-reclamation—breaking free from labels, systems, and identities imposed by others. It challenges absolutes, asking what it means to heal or be “saved” on your own terms. This piece isn’t about denial; it’s about autonomy. About questioning the narratives we inherit and choosing our own path. Some escapes are acts of destruction. Others are acts of survival. This is for those who refuse to be defined by the systems they leave behind. Wear it. Speak it. Live it. The Technicals 100% combed cotton (Marles 85/15 cotton-viscose) Fabric weight: 5.3 oz./yd² (150 g/m²), 28 singles Pre-shrunk, soft, regular fit with crew neck Side-seamed construction, ribbed collar, double-needle hems Shoulder-to-shoulder taping for structure and durability Transparency Made to order—no bulk, no waste. Just what you need, when you need it.
-  Updated: 2025-08-29T01:22:34Z
+  Updated: 2025-10-02T13:25:59Z
   Vendor: Honesty Brutal
   Product Type: 
   Availability: Available
@@ -1847,28 +1861,28 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/GlacialEchoJacketFront.jpg?v=1756430547
     Price: $245.00 USD
 - [Drifting Bloom Nappa Leather Fanny Pack](https://honestybrutal.com/products/drifting-bloom-nappa-leather-fanny-pack): The Artist Statement Drawn from Alex Z. Wang’s original painting, Drifting Bloom translates abstraction into object. Deep green, indigo, and violet tones drift across supple Nappa leather, their blurred edges suggesting movement caught in suspension. The print resists immediacy; it reveals itself slowly, like memory surfacing through haze. As a fanny pack, the work takes on new form—functional yet unyieldingly aesthetic, an accessory that carries not only essentials but atmosphere. It is art reconfigured for motion, a piece that belongs as much to the street as to the gallery. The Technicals 100% real Nappa leather Handmade to order Adjustable strap for versatile styling (waist, crossbody, or shoulder) Luxe gold-toned zipper with leather pull tab Fully lined interior, structured yet lightweight Dimensions: 5.1” H × 13.0” W × 3.1” D Transparency Each piece is made to order—no overproduction, no waste—just deliberate craftsmanship that honors both the artwork and the material. Because leather is naturally textured, subtle surface variations are part of its character. Over time, your fanny pack will soften, crease, and develop a patina, making each one unique. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2025-08-29T01:22:26Z
+  Updated: 2025-10-03T00:00:30Z
   Vendor: Contrado
   Product Type: Fanny Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/DriftingBloomFannyPack1.jpg?v=1756430545
   Price: $248.00 USD
 - [Wistful Mirage Leather Shopper Bag](https://honestybrutal.com/products/wistful-mirage-leather-shopping-bag): The Artist Statement A shifting horizon of indigo, violet, and blue—Wistful Mirage captures that fleeting space between clarity and blur, where memory drifts into dream. Translated from an original abstract painting by Alex Z. Wang, the bag carries both presence and mystery: an atmosphere you can hold. The Technicals 100% real Nappa leather Handmade to order by expert leatherworkers Faux suede inner lining for a soft, premium finish Two internal pockets: one open, one zipped Structured silhouette with durable leather handles 15.7" x 13.4" x 7.1" / Weight: 2.4 lbs Transparency & Care Each bag is made to order—no overproduction, no waste—crafted to honor the original artwork. Because Nappa leather is a natural material, subtle variations in surface and texture are normal, and with time, the bag will age uniquely, developing its own patina. To keep your bag looking its best: Store in a protective dust bag or box when not in use Avoid prolonged exposure to heat, sunlight, water, or harsh chemicals Protect from contact with light-colored fabrics as color transfer may occur If wet, allow to dry naturally away from direct heat Clean gently with a damp, lint-free cotton cloth .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2025-08-29T13:43:37Z
+  Updated: 2025-10-02T13:25:33Z
   Vendor: Contrado
   Product Type: Leather Shopper Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790557_0_3d.jpg?v=1756430543
   Price: $995.00 USD
-- [The Boy Mini Denbigh Duffle Bag](https://honestybrutal.com/products/the-boy-mini-denbigh-duffle-bag): The Artist Statement Soft gradients of teal, blue, and muted green ripple across The Bog—an atmospheric composition by Alex Z. Wang, reimagined here as a refined duffle silhouette. Compact yet striking, the bag carries the quiet depth of mist rising over water, a landscape distilled into motion. The Technicals Genuine bubble-textured Nappa leather Handmade to order by skilled leatherworkers Double black leather handles with leather zip pullers Adjustable and detachable webbing shoulder strap (36.6”–58.1”) Luxurious faux suede inner lining with internal pocketing Four-panel design with customizable thread (cream, gray, or charcoal) Hardware available in gunmetal, nickel, or gold finish Dimensions: 11” × 7.9” × 6.3” (1.7 lbs) Transparency & Care Each duffle is crafted individually—no overproduction, no waste—using eco-friendly inks printed directly onto Nappa leather. Natural variations in surface texture and subtle creasing are part of the character of genuine leather, which will age gracefully into a unique patina. To preserve its look: Store in a protective dust bag or box when not in use Avoid prolonged exposure to heat, sunlight, water, or harsh chemicals Protect from contact with light-colored fabrics as color transfer may occur If wet, allow to dry naturally away from direct heat Clean gently with a damp, lint-free cotton cloth .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2025-09-08T15:43:44Z
+- [The Boy Mini Denbigh Duffle Bag](https://honestybrutal.com/products/the-boy-mini-denbigh-duffle-bag): The Artist Statement Soft gradients of teal, blue, and muted green ripple across The Boy—an atmospheric composition by Alex Z. Wang, reimagined here as a refined duffle silhouette. Compact yet striking, the bag carries the quiet depth of mist rising over water, a landscape distilled into motion. The Technicals Genuine bubble-textured Nappa leather Handmade to order by skilled leatherworkers Double black leather handles with leather zip pullers Adjustable and detachable webbing shoulder strap (36.6”–58.1”) Luxurious faux suede inner lining with internal pocketing Dimensions: 11” × 7.9” × 6.3” (1.7 lbs) Transparency & Care Each duffle is crafted individually—no overproduction, no waste—using eco-friendly inks printed directly onto Nappa leather. Natural variations in surface texture and subtle creasing are part of the character of genuine leather, which will age gracefully into a unique patina. To preserve its look: Store in a protective dust bag or box when not in use Avoid prolonged exposure to heat, sunlight, water, or harsh chemicals Protect from contact with light-colored fabrics as color transfer may occur If wet, allow to dry naturally away from direct heat Clean gently with a damp, lint-free cotton cloth .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
+  Updated: 2025-10-03T04:38:44Z
   Vendor: Contrado
   Product Type: Mini Denbigh Duffle bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790594_0_3d.jpg?v=1756430542
   Price: $595.00 USD
 - [The Face of Arrival Leather Shopper Bag](https://honestybrutal.com/products/the-face-of-arrival-leather-shopper-bag): The Artist Statement Bold planes of cobalt blue and radiant yellow collide in The Face of Arrival—a painting by Alex Z. Wang distilled into leather. The composition feels like a horizon at the moment of encounter: charged, expectant, and alive with contrast. As a shopper, it becomes more than a vessel—it carries presence, energy, and the unmistakable weight of arrival. The Technicals 100% real Nappa leather Handmade to order by expert leatherworkers Faux suede inner lining for a soft, premium finish Two internal pockets: one open, one zipped Structured silhouette with durable leather handles 15.7" x 13.4" x 7.1" / Weight: 2.4 lbs Transparency & Care Each bag is made to order—no overproduction, no waste—crafted to honor the original artwork. Because Nappa leather is a natural material, subtle variations in surface and texture are normal, and with time, the bag will age uniquely, developing its own patina. To keep your bag looking its best: Store in a protective dust bag or box when not in use Avoid prolonged exposure to heat, sunlight, water, or harsh chemicals Protect from contact with light-colored fabrics as color transfer may occur If wet, allow to dry naturally away from direct heat Clean gently with a damp, lint-free cotton cloth .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2025-08-29T13:45:11Z
+  Updated: 2025-10-02T13:05:49Z
   Vendor: Contrado
   Product Type: Leather Shopper Bag
   Availability: Available
@@ -1909,7 +1923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790635_luminous-currents-reversible-silk-bomber-jacket_0.jpg?v=1756430539
     Price: $595.00 USD
 - [High Noon Tracksuit Pants](https://honestybrutal.com/products/high-noon-tracksuit-pants): The Artist Statement High Noon blazes in saturated strokes of green, blue, and yellow, fractured with flashes of crimson and shadow. Drawn from an original painting by Alex Z. Wang, these tracksuit pants transform abstraction into motion, carrying the heat of the canvas into every step. A wearable composition—raw, energetic, and unapologetically alive. The Technicals Made from Rox Sports Jersey fabric for structure and comfort Sizes available: 2XS – XL Side-stripe detailing for a classic tracksuit finish Jacket and trousers sold separately Handmade to order with precision cut-and-sew craftsmanship Transparency Each pair is crafted individually—no overproduction, no waste. Artwork is applied using eco-friendly methods to preserve saturation and detail, ensuring that every piece reflects the originality of the painting it comes from.
-  Updated: 2025-08-29T04:47:43Z
+  Updated: 2025-10-02T13:04:37Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Trousers
   Availability: Available
@@ -2031,7 +2045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790759_1_3d.jpg?v=1756430532
     Price: $145.00 USD
 - [The Outspoken Box Tee](https://honestybrutal.com/products/the-outspoken-box-tee): The Artist Statement A declaration of identity and motion. The Honesty Brutal logo at the front speaks with clarity and force, while Serpentine Descent unfurls across the back—an alcohol ink work by Alex Z. Wang that channels fluidity, turbulence, and rhythm. More than a tee, it’s a canvas in motion: bold from every angle, unapologetically art. The Technicals Relaxed boxy fit Heavyweight 7.1 oz fabric 100% combed cotton Dropped shoulder design Wide ribbed neckline Preshrunk to minimize shrinkage Double-needle hems, shoulder-to-shoulder tape Transparency Made to order. Please allow about a week for production before shipping.
-  Updated: 2025-09-29T00:09:57Z
+  Updated: 2025-10-02T13:02:55Z
   Vendor: Apliiq
   Product Type: tshirts
   Availability: Available
@@ -2096,8 +2110,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429593_7536.jpg?v=1757218714
     Price: $75.00 USD
-- [The Quintessential Organic Tee](https://honestybrutal.com/products/the-quintessential-organic-tee): The AS Colour Staple Organic Tee (5001G) is the ultimate choice for brands looking to launch high-quality print on demand apparel. Made from soft, durable, and eco-friendly organic cotton, this premium tee is perfect for custom printing, offering a smooth surface for bold designs. Whether you're creating streetwear, merch drops, or sustainable fashion, this tee delivers a flawless print every time. Designed for comfort and durability, this organic cotton t-shirt is an ideal option for dropshipping and eCommerce fulfillment. Apliiq’s print on demand fulfillment solutions ensure fast production and direct shipping, so you can focus on growing your brand without inventory worries. Private labeling options make it easy to create a premium, retail-ready product. Get started with Apliiq and bring your designs to life on a high-quality, sustainable tee. From custom streetwear to branded essentials, the AS Colour Staple Organic Tee is the perfect canvas for your creative vision. Benefits Perfect for custom branding Soft, breathable, and comfortable Premium feel with long-lasting wear Eco-friendly choice for sustainable fashion Ideal for print-on-demand businesses Versatile for casual or streetwear High-quality fabric holds prints beautifully Resists shrinkage for a consistent fit Effortless style for everyday wear Ethically made for conscious consumers Features Regular fit Mid-weight, 5.3 oz fabric 100% combed organic cotton Marles blend with 15% viscose Neck ribbing with twin needle stitch Side-seamed construction Shoulder-to-shoulder tape Preshrunk to minimize shrinkage Sustainably grown cotton No herbicides or pesticides used For environmental and human friendly reason, this product is only made when you order it. Typically, this product will be made in about a week, we will send you tracking information as soon as it's in the mail.
-  Updated: 2025-09-29T12:08:04Z
+- [The Quintessential Organic Tee](https://honestybrutal.com/products/the-quintessential-organic-tee): The Artist Statement The Quintessential Organic Tee is a refined take on the classic logo t-shirt. Made from soft, breathable organic cotton, it’s designed for everyday wear while carrying a premium finish. A simple essential elevated to timeless style. Wear Art. Wear Your Truth. The Technicals Regular fit Mid-weight, 5.3 oz fabric 100% combed organic cotton Side-seamed construction Shoulder-to-shoulder taping Preshrunk for consistent fit Sustainably grown cotton, no herbicides or pesticides Transparency & Care Each tee is made to order—no overproduction, no waste.
+  Updated: 2025-10-03T06:25:20Z
   Vendor: Apliiq
   Product Type: tshirts
   Availability: Available
@@ -2105,123 +2119,190 @@
   - [black / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356685020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [black / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356717788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [black / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356750556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [black / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356783324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [black / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356816092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [black / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356848860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Walnut / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356914396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Walnut / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356947164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Walnut / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356979932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Walnut / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357012700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Walnut / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357045468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Walnut / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357078236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Eucalyptus / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361403612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Eucalyptus / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361436380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Eucalyptus / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361469148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Eucalyptus / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361501916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Eucalyptus / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361534684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Eucalyptus / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361567452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [white / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361632988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [white / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361665756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [white / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361698524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [white / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361731292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [white / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361764060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [white / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361796828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Natural / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361862364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Natural / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361895132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Natural / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361927900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Natural / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361960668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Natural / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361993436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [Natural / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974362026204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
-    Price: $45.00 USD
+    Price: $55.00 USD
+- [Serpentine Jogger](https://honestybrutal.com/products/serpentine-jogger): The Artist Statement The Serpentine Jogger flows with bold bands of green, yellow, and blue, turning a streetwear essential into a moving artwork. Designed with a modern fit and everyday comfort, these joggers balance function and form — made for both downtime and statement-making moments. The Technicals 60% cotton / 40% polyester premium fleece (14 oz) Shaped side seams for a modern fit Roomy side pockets Pill-resistant fabric to maintain a fresh look Durable, vibrant direct-to-film (DTF) print Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is produced on demand to eliminate overproduction and waste. Prints are embedded for lasting color that won’t fade with use or washing.
+  Updated: 2025-10-02T13:56:49Z
+  Vendor: Art of Where
+  Product Type: Unisex Joggers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+  - [X-Small / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549321436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Price: $195.00 USD
+  - [Small / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549354204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Price: $195.00 USD
+  - [Medium / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549386972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Price: $195.00 USD
+  - [Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549419740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Price: $195.00 USD
+  - [X-Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549452508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Price: $195.00 USD
+  - [2x-Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549485276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Price: $195.00 USD
+- [Serpentine Vegan Tote Bag](https://honestybrutal.com/products/vegan-leather-tote-bag-2025-08-17-9-08-pm): The Artist Statement The Serpentine Vegan Tote ripples with vivid streams of green, yellow, and deep blue — a composition that coils and flows across its surface. Functional yet striking. An everyday silhouette transformed into a living canvas. The Technicals Textured vegan pebble leather fabric Solid color straps, base, and detailing in black or brown Magnetic snap closure Full lining with inner pockets Sized to fit up to a 16” laptop Digitally printed with permanent UV inks Made to order in Montreal, Canada Transparency & Care Each tote is produced on demand to avoid overproduction and waste. Vegan leather is durable and designed for daily wear while retaining its structure and color. To preserve its look: Wipe clean with a damp cloth Avoid prolonged exposure to direct sunlight and moisture Store upright or flat when not in use
+  Updated: 2025-10-02T13:49:40Z
+  Vendor: Art of Where
+  Product Type: Vegan Leather Tote Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/d2252933-dcb3-4d16-a395-ef96f71f6ac1.png?v=1759412562
+  Price: $525.00 USD
+- [Azure in Rhapsody Elongated Cloak](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } The Artist Statement Azure in Rhapsody drapes deep gradients of blue and black across an elongated cloak silhouette. Oversized and fluid, with a generous hood and extended cut, it merges coziness with street-ready edge. A piece designed for layering, movement, and presence. The Technicals 93% polyester / 7% spandex blend Heavyweight: 12.09 oz/yd² (410 g/m²) Deep hood for comfort and style Elongated length with flowing drape Handcrafted to order, printed and sewn individually Transparency & Care Each cloak is made to order — no overproduction, no waste. Please allow 3–6 business days for production.
+  Updated: 2025-10-03T05:06:46Z
+  Vendor: Subliminator
+  Product Type: Heavyweight Elongated Cloak - AOP
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+  - [XS](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571112156)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Price: $425.00 USD
+  - [S](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571144924)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Price: $425.00 USD
+  - [M](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571177692)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Price: $425.00 USD
+  - [L](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571210460)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Price: $425.00 USD
+  - [XL](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571243228)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Price: $425.00 USD
+  - [2XL](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571275996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Price: $425.00 USD
 
 ## Collections
 
@@ -2229,47 +2310,47 @@
   Updated: 2025-09-07T04:23:28Z
   Total Products: 16
 - [Canvas to Street](https://honestybrutal.com/collections/abstract-me): Art isn’t meant to stay on the wall—it moves, breathes, and lives. Canvas to Street turns your outfit into bold expressions, transforming everyday motion into a masterpiece. Wear the art. Become the movement.
-  Updated: 2025-08-29T01:24:33Z
-  Total Products: 17
+  Updated: 2025-10-02T14:24:29Z
+  Total Products: 19
 - [Surface & Form](https://honestybrutal.com/collections/surface-form): The finishing touch to bold self-expression. Honesty Brutal accessories bring the same raw energy as our apparel—statement-making, art-driven, and unapologetically real. From caps to bags, every piece is designed to elevate your look with an edge of rebellion. Complete the statement. Wear the art.
-  Updated: 2025-10-01T21:14:04Z
-  Total Products: 16
+  Updated: 2025-10-02T15:12:39Z
+  Total Products: 17
 - [Burst, Bloom, and Flow](https://honestybrutal.com/collections/burst-bloom-and-flow): Energy. Motion. Transformation. Burst, Bloom, Flow captures the raw intensity of creation—bold, fluid, and alive. Wear the motion. Feel the flow.
-  Updated: 2025-09-08T18:49:02Z
+  Updated: 2025-10-02T13:56:49Z
   Total Products: 16
 - [First Impressions](https://honestybrutal.com/collections/honesty-brutal): Logo as statement. Be the pioneer.
-  Updated: 2025-09-29T11:18:23Z
+  Updated: 2025-10-02T13:13:11Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-10-01T21:14:04Z
-  Total Products: 60
+  Updated: 2025-10-02T15:12:39Z
+  Total Products: 66
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-09-29T11:18:23Z
+  Updated: 2025-10-02T14:24:48Z
   Total Products: 52
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
-  Updated: 2025-09-29T11:18:23Z
-  Total Products: 38
-- [Bombers](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
-  Updated: 2025-08-29T01:24:33Z
-  Total Products: 9
+  Updated: 2025-10-02T13:13:43Z
+  Total Products: 36
+- [Jackets](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
+  Updated: 2025-10-02T14:15:46Z
+  Total Products: 11
 - [Accessories](https://honestybrutal.com/collections/accessories): Where detail becomes declaration.
-  Updated: 2025-10-01T21:14:04Z
-  Total Products: 19
+  Updated: 2025-10-02T15:12:39Z
+  Total Products: 22
 - [Caps](https://honestybrutal.com/collections/caps): Statements, framed in silhouette
   Updated: 2025-09-07T04:23:28Z
   Total Products: 4
 - [Bags & Totes](https://honestybrutal.com/collections/bags-totes): Art that holds its own.
-  Updated: 2025-10-01T21:14:04Z
-  Total Products: 11
+  Updated: 2025-10-02T15:12:39Z
+  Total Products: 16
 - [iPhone Cases](https://honestybrutal.com/collections/iphone-cases): Art at your fingertips
   Updated: 2025-08-29T01:24:29Z
   Total Products: 4
 - [Pants](https://honestybrutal.com/collections/pants): Art in stride.
-  Updated: 2025-09-07T04:20:49Z
-  Total Products: 1
+  Updated: 2025-10-02T14:16:34Z
+  Total Products: 2
 - [Hoodie](https://honestybrutal.com/collections/hoodie): Softness with structure.
   Updated: 2025-08-29T00:25:31Z
   Total Products: 2
