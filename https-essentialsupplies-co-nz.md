@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-03T04:00:38.727Z
+- Updated At: 2025-10-03T12:00:41.132Z
 
 ## Products
 
@@ -606,7 +606,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/compact-paper-towel-white-1-ply-200mm-x-250mm-fsc-mix-20-packs-folded-paper-towels-essential-supplies-629267.jpg?v=1719444955
   Price: $66.00 NZD
 - [Compact Towel Dispenser - Silver, 600 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/compact-towel-dispenser-silver-600-sheet-capacity-1): Compact towel dispensers are designed for smaller washrooms with and unique overfill protection to prevent jamming and wastage. The contemporary high gloss white design features a lockable cover and viewing window to assess supply levels. Offers a 600 sheet capacity. Compact ergonomic design 600 sheets capacity Colour: Silver Suitable tissues: MPH27140, MPH27145
-  Updated: 2025-01-10T18:11:46Z
+  Updated: 2025-10-03T04:52:38Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
@@ -5686,7 +5686,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-blue-xl-240mm-cuff-30g-1000-gloves-nitrile-examination-gloves-essential-supplies-306948.jpg?v=1719445385
   Price: $81.00 NZD
 - [Nitrile Examination Gloves Powder Free - Blue, S, 240mm Cuff, 5.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-blue-s-240mm-cuff-5-0g-1000): Blue powder free nitrile gloves offer premium snag, puncture, cut and abrasion resistance, making them ideal for the chemical, tattooing, laboratory, and meat processing industries. With a longer shelf life and three times greater durability when compared to latex.
-  Updated: 2025-01-27T22:07:24Z
+  Updated: 2025-10-03T08:15:54Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -7955,7 +7955,7 @@
   Updated: 2024-07-15T02:47:10Z
   Total Products: 7
 - [Paper Packaging Tape](https://essentialsupplies.co.nz/collections/paper-packaging-tape)
-  Updated: 2024-07-15T02:47:10Z
+  Updated: 2025-10-03T11:13:10Z
   Total Products: 5
 - [Premium Packaging Tape](https://essentialsupplies.co.nz/collections/premium-packaging-tape)
   Updated: 2025-09-30T11:13:35Z
