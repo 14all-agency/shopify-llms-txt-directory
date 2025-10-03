@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-03T12:00:40.340Z
+- Updated At: 2025-10-03T16:00:41.223Z
 
 ## Products
 
@@ -2157,7 +2157,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/RIDGIE_225OZ_NOSE_2500.jpg?v=1632060040
     Price: $18.95 USD
 - [Rottweiler Nose Butter® Moisturizer for Your Rotties, Rough, Dry Nose](https://theblissfuldog.com/products/rottweiler): All natural Rottweiler Nose Butter® moisturizes your Rottie's rough, dry nose. In several sizes of tins and tubes with Rottie label. Free Shipping in the USA!
-  Updated: 2025-06-24T16:09:35Z
+  Updated: 2025-10-03T12:54:37Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -11483,7 +11483,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CRESTED_CUSTOM-COMBO.jpg?v=1626822034
   Price: $29.95 USD
 - [Customize Your Dachshund Care Combo for Healthy Skin Care Needs](https://theblissfuldog.com/products/dachshund-custom-combos): The Blissful Dog Dachshund Care Kits Customized for your Doxie's dry noses, rough paws, dog elbow calluses, skin issues.
-  Updated: 2025-10-02T00:58:16Z
+  Updated: 2025-10-03T13:31:49Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
