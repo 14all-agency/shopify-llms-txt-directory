@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-03T00:00:59.546Z
+- Updated At: 2025-10-03T08:01:00.893Z
 
 ## Products
 
@@ -10220,7 +10220,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק גרסת זהב ג'ייסון טייטום](https://www.rsport.co.il/products/bostonceltics-gold-tatum-jersey): גופיית גרסת זהב של ג'ייסון טייטום בעיצוב מיוחד של Boston Celtics
-  Updated: 2025-10-02T17:21:38Z
+  Updated: 2025-10-03T07:45:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10268,7 +10268,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה ג'ייסון טייטום בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-tatum-jersey): גופיית משחק שחורה של ג'ייסון טייטום בעיצוב איכותי של Boston Celtics
-  Updated: 2025-10-02T17:14:58Z
+  Updated: 2025-10-03T05:44:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10316,7 +10316,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית רטרו פול פירס 2007/08 בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-retro-pierce-jersey): גופיית רטרו פול פירס עונת 2007/08 בעיצוב קלאסי ונוסטלגי של Boston Celtics
-  Updated: 2025-10-02T16:36:34Z
+  Updated: 2025-10-03T04:36:46Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10340,7 +10340,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק לבנה ג'יילן בראון בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-brown-jersey): גופיית משחק לבנה של ג'יילן בראון בעיצוב נוח ואיכותי של Boston Celtics
-  Updated: 2025-10-02T16:30:48Z
+  Updated: 2025-10-03T04:32:55Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10364,7 +10364,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק לבנה קמבה ווקר בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-kemba-jersey): גופיית משחק לבנה של קמבה ווקר בעיצוב נוח ואיכותי של Boston Celtics
-  Updated: 2025-10-02T16:29:21Z
+  Updated: 2025-10-03T04:45:34Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10412,7 +10412,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק שחורה בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blk-jersey): גופיית משחק שחורה בעיצוב קלאסי של Boston Celtics לסטייל יומיומי ולמגרש
-  Updated: 2025-10-02T16:15:43Z
+  Updated: 2025-10-03T04:31:11Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10436,7 +10436,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק אל הורפורד בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-horford-jersey): גופיית משחק אל הורפורד בעיצוב איכותי של Boston Celtics לסטייל במגרש וביום יום
-  Updated: 2025-10-02T16:03:10Z
+  Updated: 2025-10-03T05:19:38Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10460,7 +10460,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [מכנסי משחק בוסטון סלטיקס City Edition](https://www.rsport.co.il/products/bostonceltics-city-shorts-pjd): מכנסי משחק City Edition בעיצוב ייחודי של Boston Celtics עם נוחות וסטייל
-  Updated: 2025-10-02T16:01:48Z
+  Updated: 2025-10-03T07:34:35Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10481,7 +10481,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק לבנים בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-wht-shorts-pjd): מכנסי משחק בצבע לבן עם עיצוב קלאסי ונוחות מירבית לאוהדי Celtics
-  Updated: 2025-10-02T16:00:04Z
+  Updated: 2025-10-03T06:08:29Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10502,7 +10502,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנס משחק ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-grn-shorts-pjd): מכנס משחק ירוק עם עיצוב נוח של Boston Celtics לסטייל ספורטיבי
-  Updated: 2025-10-02T15:59:01Z
+  Updated: 2025-10-03T04:58:26Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10523,7 +10523,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחור ירוק בוסטון סלטיקס City Edition](https://www.rsport.co.il/products/bostonceltics-city-blkgrn-shorts-pjd): מכנסי משחק City Edition בצבע שחור ירוק בעיצוב ייחודי של בוסטון סלטיקס
-  Updated: 2025-10-02T15:57:15Z
+  Updated: 2025-10-03T04:55:10Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -10544,7 +10544,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחור ירוק בוסטון סלטיקס](https://www.rsport.co.il/products/bostonceltics-blkgrn-shorts-pjd): מכנסי משחק שחור ירוק בעיצוב קלאסי של Boston Celtics לאוהדים אמיתיים
-  Updated: 2025-10-02T13:40:12Z
+  Updated: 2025-10-03T03:27:48Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
