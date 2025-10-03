@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-03T00:00:30.689Z
+- Updated At: 2025-10-03T20:00:28.191Z
 
 ## Products
 
@@ -2326,7 +2326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/27fd36de-9c07-4202-ab0a-b670d2dd7550.webp?v=1759168777
     Price: $29.15 USD
 - [Sarcasm University Fleece Hoodie |](https://rebirthshoponline.myshopify.com/products/sarcasm-university-fleece-hoodie): Wrap yourself in comfort with this cozy fleece hoodie, perfect for lounging or casual outings. The soft hand-feel of the fabric provides a gentle touch against your skin, while the spacious kangaroo pocket keeps your hands warm and your essentials close. This hoodie emits a relaxed vibe, ideal for casual gatherings, movie nights, or outdoor adventures. It’s a fun addition for students, humor lovers, or anyone who enjoys expressing their personality through fashion. Suitable for birthdays, back-to-school celebrations, or simply treating yourself, this fleece hoodie promises warmth and style all year round.Product features- Adjustable hood with drawstrings for a customizable fit.- Twill neck tape adds comfort and durability.- Spacious kangaroo pocket keeps hands warm.- Soft fabric composition for a luxurious feel.- Medium-heavy fabric ensures warmth and quality.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-02T18:28:02Z
+  Updated: 2025-10-03T13:08:19Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -2940,7 +2940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15037823125549178603_2048.jpg?v=1759184730
     Price: $69.68 USD
 - [Love Every Day Hoodie](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie): This Lightweight Hooded Sweatshirt embodies casual elegance and everyday comfort. Made from 100% ring-spun cotton, it feels soft against the skin while providing a durable fit perfect for various activities. The vibrant lavender hue and bold ‘LOVE every day’ print bring a cheerful vibe, ideal for spreading positivity wherever you go. Perfect for lounging at home, casual outings, or cozy gatherings with friends. Ideal for those who embrace love and positivity in their lives, this sweatshirt makes a great gift for birthdays, Valentine’s Day, or just to uplift someone's spirits. With its relaxed fit and thoughtful design details, it seamlessly balances style and comfort for anyone looking to express their warmest sentiments.Product features- Made from 100% ring-spun cotton for a soft, durable feel.- Jersey-lined hood with stylish flatcord adds detail.- Rolled forward shoulders enhance comfort and mobility.- Relaxed fit for a casual, comfortable wear experience.- Sustainable production with OEKO-TEX certified dyes.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-02T19:42:49Z
+  Updated: 2025-10-03T19:11:54Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
