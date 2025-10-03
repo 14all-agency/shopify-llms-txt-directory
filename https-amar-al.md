@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-02T20:00:35.014Z
+- Updated At: 2025-10-03T12:00:35.005Z
 
 ## Products
 
@@ -53,14 +53,14 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6752f15cd7cee_W_EN_10E14714_ANTIOX_VIT_C.png?v=1757514850
   Price: ALL 5,199.20 ALL
 - [Aqua Bubbles FACE FOAM - Amar Pharma - Lirene - Shkumë pastruese](https://amar.al/products/aqua-bubbles-face-foam): Shkume pastruese hidratuese per fytyren me uje deti, dhe 4 forma te ndryshme te acidit hialuronik. Masazhojeni shkumen ne lekuren e lagesht te fytyres. Shpelajeni me uje te ngrohte. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Shkumë Pastruese
-  Updated: 2025-10-02T10:22:39Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Lirene
   Product Type: Shkumë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/nawadniajaca-pianka-myjaca-10e07713.1gva.webp?v=1741428509
   Price: ALL 1,590.00 ALL
 - [Aqua Bubbles FACE GEL - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/aqua-bubbles-face-gel): Xhel hidratues, pastrues per fytyren me uje deti, acid hialuronik, aloe dhe vitamina. Masazhojeni xhelin ne lekuren e lagesht te fytyres, duke shmangur zonen e syve. Shpelajeni me uje te ngrohte. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:22:17Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/151-CREAM-WITH-VITAMIN-K-reducing-capillary-permeability-CAPINON-K-10-ml-1.png?v=1757514807
   Price: ALL 2,800.75 ALL
 - [Cleansing clay - Amar Pharma - Lirene - Pastë pastruese](https://amar.al/products/cleansing-clay): Paste pastruese kozmetike prej balte eksfolon butësisht epidermën e vdekur, zhbllokon dhe shtrëngon poret dhe eliminon yndyrën e tepërt, duke e lënë lëkurën të lëmuar dhe të shndritshme, pa u ndjerë e shtrënguar. Përdorimi i përditshëm i pastës së argjilës rregullon gjëndrat dhjamore dhe zvogëlon dukshmërinë e poreve. Aplikojeni në fytyrë të lagur dhe masazhojeni butësisht, duke shmangur zonën e syve. Më pas shpëlajeni tërësisht. Aplikojeni çdo ditë, mundësisht në mëngjes dhe në mbrëmje. Për të rritur efektin 2-3 herë në javë, mund ta lini pastën në lëkurë për 3-5 minuta dhe më pas ta shpëlani tërësisht me ujë të ngrohtë. - Amar Pharma - Lirene - Pastë Pastruese
-  Updated: 2025-10-02T10:22:01Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Lirene
   Product Type: Pastë Pastruese
   Availability: Available
@@ -410,14 +410,14 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/101-EMOTOPIC-SOOTHING-CREAM-FOR-ECZEMA-PRONE-SKIN-for-face-and-body-75-ml-1.png?v=1757514717
   Price: ALL 2,592.50 ALL
 - [EMOLLIENT WASH GEL 400 ml - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/emotopic-emollient-wash-gel-for-daily-body-care-400-ml): INDIKACIONEFormulë delikate, pa shkumë, e rekomanduar për kujdesin e përditshëm të lëkurës së ndjeshme, të thatë, të ashpër, të prirur për acarim, kruajtje dhe djegie.Gjithashtu të përdoret në mënyrë profilaktike për lëkurë të shëndetshme për të parandaluar tharjen dhe për të minimizuar rrezikun e zhvillimit, intensifikimit dhe përsëritjes së simptomave të dermatitit atopik.Asnjë kufizim moshe.Nuk kërkon përdorimin e një agjenti pastrues shtesë. VEPRIMXhel për larje trupi i bazuar në zbutës aktivë, pastron butësisht lëkurën, duke e lënë atë intensivisht të hidratuar, të lëmuar dhe të butë në prekje.Jashtëzakonisht delikate, biokompatibile me pH fiziologjik të lëkurës, baza larës nuk ndikon në barrierën e saj hidrolipide mbrojtëse. Parandalon tharjen e tepërt dhe rrëshqitjen e epidermës.Vaji kanola, për shkak të vetive unike ushqyese dhe qetësuese, ndihmon në rivendosjen e ekuilibrit natyror, fiziologjik të lëkurës.Në kombinim me vajin e kërpit, i pasur me acide yndyrore esenciale (acidet yndyrore esenciale) - acidet linoleike dhe α-linolenic me veti vaji, tregon efikasitet të lartë në kujdesin e lëkurës së thatë dhe atopike, duke i rikthyer komoditetin e saj dhe duke eliminuar tensionin dhe vrazhdësinë.Xheli përmban vitaminë E rigjeneruese të epidermës, e cila siguron lubrifikimin dhe ushqimin e duhur të epidermës, rindërton barrierën natyrale hidrolipide të lëkurës, duke e mbrojtur atë nga efektet negative të faktorëve të jashtëm. PËRBËRËSITVitamina EVaj kanolaVaji i kërpit (vaji i farës së kanabisit Sativa) UDHËZIME PËR PËRDORIMTë porsalindurit dhe foshnjat deri në 6 muaj:Shtoni disa doza (2-3) të xhelit në vaskën e foshnjës të mbushur me ujë, më pas përzieni ujin me dorën tuaj.Temperatura e ujit duhet të jetë rreth 37°C.Lani butësisht trupin dhe kokën e fëmijës.Thajeni butësisht lëkurën me një peshqir, duke shmangur fërkimin.FËMIJËT DHE TË RRITUR:Aplikoni një sasi të vogël xheli në lëkurë dhe përhapeni butësisht në sipërfaqen e saj.Më pas shpëlajeni me ujë dhe thajeni trupin me një peshqir, duke shmangur fërkimin. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-02T10:21:46Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/119-EMOTOPIC-EMOLLIENT-WASH-GEL-for-daily-body-care-400-ml-1.png?v=1737379677
   Price: ALL 2,413.15 ALL
 - [EMOTOPIC 3 IN 1 Shkumë (WASH GEL) - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/emotopic-physiological-moisturizing-foam-shampoo-200-ml): Pharmaceris Emotopic Physiological Moisturizing Foam Shampoo Shampo e cila rikthen ekuilibrin dhe heq tharjen e skalpit. Rekomandohet për larjen e përditshme të skalpit të ndjeshëm, të thatë e të irrituar të kokës së fëmijëve që nga dita e parë e jetës. Lehtëson thatësinë e tepërt dhe kruajtjen e kokës tek fëmijët, të rriturit dhe personat që vuajnë nga dermatiti atopik. Kjo formulë jashtëzakonisht e butë nuk shkakton lot dhe krijon një bollëk shkume për ta bërë kohën e banjës më argëtuese. Shampoja me një shkumë të lehtë përputhet me pH fiziologjik të lëkurës, duke mundësuar pastrim të plotë e të butë të kokës dhe flokëve pa dëmtuar shtresën hidrolipidike të epidermës. Përmbajtja e Pantenolit D Bio-Aktiv dhe betainës sigurojnë hidratim optimal të skalpit të kokës, duke ofruar mbrojtje natyrale kundër acarimit, thatësisë së tepërt dhe plasaritjes së lëkurës.Shampoja është për Fytyrë,Trup dhe Flokë Ekstrakti i kamomilit redukton ndjeshmërinë e tepërt ndaj faktorëve të jashtëm, ndërkohë që njëkohësisht rigjeneron lëkurën dhe forcon flokët. Shampoja qetëson lëkurën dhe lehtëson irritimet e lëkurës së kokës. Formula jashtëzakonisht e butë e larjes parandalon ndjesinë e djegies në sy. Shampo nuk i rëndon flokët, ka një efekt kundër ngatërrimit dhe i lë ato të buta dhe të mëndafshta në prekje. Formula me bazë shkume, përveç efikasitetit të saj të provuar, e bën kohën e banjës dhe larjen e flokëve më argëtuese për fëmijët. Udhëzime mbi përdorimin Për të porsalindurit: Hidhni një dozë të shampos direkt në vaskë. Lani butësisht kokën e foshnjës tuaj dhe shpëlajeni me ujë të pastër. Foshnjat, fëmijët dhe të rriturit: Aplikoni shampon në flokë të lagur dhe masazhoni të gjithë lëkurën e kokës. Shpëlajeni tërësisht me ujë. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-02T09:30:04Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -816,7 +816,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/188-Lirene-CITY-MATT-Mineral-matting-powder-9-g-1.jpg?v=1758104499
   Price: ALL 1,397.00 ALL
 - [Lirene Cleansing clay paste 150 ml - Amar Pharma - Lirene - Pastë pastruese](https://amar.al/products/lirene-cleansing-clay-paste-150-ml): Paste balte larese vegane me aromen e cajit jeshil, pastron ne menyre perfekte dhe matifikon lekuren, duke normalizuar punen e gjendravedhjamore dhe than imperfeksionet ekzistuese. Nuk bllokon poret dhe nuk shkakton ndjesi shtrengimi. Aplikojeni ne fytyre te lagur, masazhojeni butesisht duke shmangur zonen e syve, shpelajeni me uje. Per me shkume efekt perdoreni si maske. Mbajeni ne fytyre per 3-5 minuta. Mund te perdoret gjithashtu ne qafe, dekolte dhe kurriz. - Amar Pharma - Lirene - Pastë Pastruese
-  Updated: 2025-10-02T10:21:28Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Lirene
   Product Type: Pastë Pastruese
   Availability: Available
@@ -837,14 +837,14 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64ca611a92c46-przeciwzmarszczkowy-krem-wygladzajacy-50-10e07756-krt.tmdw.webp?v=1737122526
   Price: ALL 2,059.00 ALL
 - [Lirene Creamy almond wash gel with D-Panthenol 150 ml - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/lirene-creamy-almond-wash-gel-with-d-panthenol-150-ml): Xhel kremoz për larjen e bajameve përmban një bio-formulë qetësuese e cila pastron lëkurën butësisht, por në mënyrë efektive, duke hequr make-up-in dhe të gjitha llojet e papastërtive. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:21:10Z
+  Updated: 2025-10-03T09:17:06Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/263-Lirene-Creamy-almond-wash-gel-with-D-Panthenol-150-ml-1.png?v=1737122533
   Price: ALL 1,397.00 ALL
 - [Lirene Deeply moisturising hand and nail cream MAGNOLIA 75 ml - Amar Pharma - Lirene - Krem Duarsh](https://amar.al/products/lirene-deeply-moisturising-hand-and-nail-cream-magnolia-75-ml): Krem thellesisht hidratues per duart dhe thonjte i krijuar per lekure te thate dhe te ashper te duarve qe ka nevoje per noze ditore ushqyese. Formule me baze vaji me kompleks hidratues 15%: • hidraton intensivisht lekuren e ashper, • zbut dhe ushqen dukshem, • rikthen pamjen e bukur te duarve. Masazhojeni kremin plotesisht ne duar te lara dhe te thata. Per perdorim te perditshem. - Amar Pharma - Lirene - Krem Duarsh
-  Updated: 2025-10-01T14:59:16Z
+  Updated: 2025-10-03T02:16:53Z
   Vendor: Lirene
   Product Type: Krem Duarsh
   Availability: Available
@@ -1341,7 +1341,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/BUZZYDREM.jpg?v=1758104967
   Price: ALL 791.00 ALL
 - [Nurse Harvey’s Pro-Fort Spray - Amar Pharma - Nurse Harvey - Suplemente ProFort](https://amar.al/products/nurse-harveys-pro-fort-spray): Nurse Harvey’s Pro-Fort Spray  ProFort Spray natyral për qetësimin dhe mbrojtjen e fytit 🔹 Përshkrimi i Produktit:Nurse Harvey’s Pro-Fort është një spraj për fytin me përbërës natyralë si Propolisi, ekstrakti i Kalendulës dhe Glicerina. Ky kombinim unik ndihmon në lehtësimin e irritimeve, uljen e inflamacionit dhe parandalimin e zhvillimit të baktereve në zonën e fytit. Ideale për përdorim të përditshëm, veçanërisht gjatë stinëve të ftohta apo në rastet e fytit të thatë dhe të irrituar. 🔸 Përbërësit Kryesorë & Përfitimet: Propolis: Vepron si antibakterial natyral, ndihmon në mbrojtjen e traktit respirator dhe frenon zhvillimin e mikrobeve. Ekstrakt Kalendula: Qetëson dhe ndihmon në shërimin e lezioneve apo irritimeve të fytit. Glicerinë: Siguron hidratim të mukozës së fytit, duke ndihmuar në zbutjen e thatësisë dhe ndjesisë së djegies. 🟢 Pa konservues, pa ngjyrues dhe pa aroma artificiale – i sigurt për përdorim të përditshëm, edhe për persona me fyt të ndjeshëm. 🔹 Përdorimi i rekomanduar:Aplikoni 2–3 fryrje në gojë, deri në 3 herë në ditë ose sipas këshillës së mjekut. 🔸 Kushtet e ruajtjes:Ruajeni në një vend të thatë, larg nxehtësisë ekstreme dhe lagështirës. ✅ Përfitimet kryesore: Lehtëson dhe qetëson fytin e irrituar Hidraton mukozën e gojës dhe fytit Mbështet mbrojtjen natyrale ndaj baktereve Ideal për përdorim të shpeshtë dhe të sigurt për të gjithë familjen - Amar Pharma - Nurse Harvey - Suplemente ProFort
-  Updated: 2025-10-02T13:12:34Z
+  Updated: 2025-10-03T03:41:22Z
   Vendor: Nurse Harvey
   Product Type: Suplemente
   Availability: Available
@@ -1397,14 +1397,14 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/79-SUN-PROTECTION-FACE-AND-BODY-CREAM-SPF-50-for-babies-and-children-125-ml-1.png?v=1757514030
   Price: ALL 2,536.00 ALL
 - [PHYSIOPURIC-GEL - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/moisturizing-physiological-cleansing-gel-physiopuric-gel-190-ml): Pharmaceris Moisturizing Physiological Cleansing Gel For The Face and Eyes Ky xhel është përshtatur për nevojat e lëkurës e cila nuk toleron sapunin dhe është jashtëzakonisht e prirur ndaj acarimeve ose është duke u rikuperuar nga trajtimet dermatologjike. Përbërësit Dyll mango – një hidratues i fuqishëm që depërton në shtresat e thella të lëkurës. Mbron epidermën dhe nxit rigjenerimin e saj. Glucam – rrit hidratimin dhe ruan nivelin e saj optimal në epidermë për një kohë të gjatë. Ajo zbut lëkurën dhe rikthen qëndrueshmërinë dhe elasticitetin e humbur. Allantoin – ka një efekt qetësues; sjell lehtësim dhe nxit rigjenerimin e epidermës. D-pantenol – ka efekt qetësues dhe e bën lëkurën më pak të prirur ndaj reaksioneve. Udhëzime mbi përdorimin Një formulë me veprim të dyfishtë – për përdorim me ose pa ujë.Lani fytyrën tuaj me xhel të aplikuar në pëllëmbën e dorës ose në një tampon pambuku.Shpëlajeni me ujë ose hiqni çdo mbetje me anën e tamponit të pambukut. Shmangni çdo kontakt të xhelit me qeskën konjuktivale të konturit të zyve. Përdoreni sa herë që lani fytyrën si pjesë e rutinës tuaj të përditshme të kujdesit të lëkurës. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-02T10:17:01Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_39.png?v=1758876372
   Price: ALL 2,121.60 ALL
 - [Power of Plants ALMOND Creamy face cleansing gel - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/power-of-plants-almond-creamy-face-cleansing-gel): Power Of Plants Xhel kremi larës Almond është një zgjidhje e përshtatshme dhe e besueshme për kujdesin e lëkurës nga Lirene. Ai largon butësisht dhe me kujdes papastërtitë dhe mbetjet e grimit, ndërsa formula e tij e mbushur me vaj bajame hidraton dhe ushqen thellësisht lëkurën. Përfshirja e betainës zbutëse ndihmon në reduktimin e skuqjes dhe e lë lëkurën të ndjehet e butë dhe kadife në prekje. Për më tepër, pantenoli ndihmon në shërimin e mikro-dëmtimeve dhe rigjenerimin e barrierës së lëkurës. Ky produkt është i lirë nga komponentë komedogjenë, kështu që nuk keni nevojë të shqetësoheni për inflamacionin ose shpërthimet pas përdorimit. Përkundrazi, ajo rikthen pengesën natyrale të lëkurës, duke e lënë atë krejtësisht të pastër dhe të shëndetshme. Karakteristikat kryesore të Lirene Power Of Plants Xhel Larës Krem Migdal: - Përmban glicerinë dhe panthenol me bazë bimore, duke e bërë atë të përshtatshëm për veganët;- Betaina ndihmon në hidratimin e lëkurës dhe ruajtjen e lagështisë;- Panthenoli rigjeneron dhe ndihmon në parandalimin e acarimeve;- Vaji i bajames së ëmbël mbron lëkurën nga efektet e dëmshme dhe e zbut atë;- Përafërsisht 94% e përbërësve janë me origjinë natyrale;- Pa parabene, sulfate dhe silikone;- I përshtatshëm për të gjitha llojet e lëkurës. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:16:29Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1418,7 +1418,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-enzymatyczny-10e07715.jmym.webp?v=1737122810
   Price: ALL 1,190.00 ALL
 - [Power of Plants ALMOND Make-up removal creamy milk - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/power-of-plants-almond-make-up-removal-creamy-milk): Power Of Plants Xhel kremi larës Almond është një zgjidhje e përshtatshme dhe e besueshme për kujdesin e lëkurës nga Lirene. Ai largon butësisht dhe me kujdes papastërtitë dhe mbetjet e grimit, ndërsa formula e tij e mbushur me vaj bajame hidraton dhe ushqen thellësisht lëkurën. Përfshirja e betainës zbutëse ndihmon në reduktimin e skuqjes dhe e lë lëkurën të ndjehet e butë dhe kadife në prekje. Për më tepër, pantenoli ndihmon në shërimin e mikro-dëmtimeve dhe rigjenerimin e barrierës së lëkurës. Ky produkt është i lirë nga komponentë komedogjenë, kështu që nuk keni nevojë të shqetësoheni për inflamacionin ose shpërthimet pas përdorimit. Përkundrazi, ajo rikthen pengesën natyrale të lëkurës, duke e lënë atë krejtësisht të pastër dhe të shëndetshme. Karakteristikat kryesore të Lirene Power Of Plants Xhel Larës Krem Almond: - Përmban glicerinë dhe panthenol me bazë bimore, duke e bërë atë të përshtatshëm për veganët;- Betaina ndihmon në hidratimin e lëkurës dhe ruajtjen e lagështisë;- Panthenoli rigjeneron dhe ndihmon në parandalimin e acarimeve;- Vaji i bajames së ëmbël mbron lëkurën nga efektet e dëmshme dhe e zbut atë;- Përafërsisht 94% e përbërësve janë me origjinë natyrale;- Pa parabene, sulfate dhe silikone;- I përshtatshëm për të gjitha llojet e lëkurës. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:16:10Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1432,7 +1432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/krem-odzywczy-10e07714-krt.kpcp.webp?v=1737122817
   Price: ALL 1,689.00 ALL
 - [Power of Plants ALMOND Oil to gel make-up remover - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/power-of-plants-almond-oil-to-gel-make-up-remover): Xheli i vajit Lirene është një produkt vërtet unik që njëkohësisht vepron si vaj hidrofilik për të hequr edhe grimin më kokëfortë dhe si një pastrues delikat i lëkurës. Power Of Plants Almond Oil-Gel For Removal Makeup përmban afërsisht 97% përbërës natyralë, të cilët punojnë së bashku jo vetëm për të pastruar, por edhe për të ushqyer dhe forcuar barrierën lipidike të lëkurës. Përbërësi kryesor aktiv është vaji i bajames së ëmbël, i cili rigjeneron qelizat e lëkurës, zvogëlon inflamacionin dhe zbut lëkurën. Ky pastrues me shkumë heq në mënyrë efektive grimin e papërshkueshëm nga uji, nuk shkakton acarim gjatë përdorimit dhe siguron pastrim optimal pa fërkime ose shtrëngime. Karakteristikat e Lirene Power Of Plants Almond Oil-Gel për heqjen e grimit: - Përmban vaj bajame të ëmbël, i cili rikthen pengesën mbrojtëse të lëkurës pa bllokuar poret;- Panthenoli ofron efekte rigjeneruese;- Formula përfshin vitaminën E, e cila ndikon pozitivisht në oksigjenimin e lëkurës;- Përafërsisht 97% e përbërësve janë me origjinë natyrale;- Heq në mënyrë efektive edhe grimin e papërshkueshëm nga uji;- Nuk shkakton acarim me përdorim të përsëritur;- Nuk e than lëkurën;- I përshtatshëm për të gjitha llojet e lëkurës. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:15:50Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1460,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-gruboziarnisty-10e07726.zudh.webp?v=1737122829
   Price: ALL 1,196.00 ALL
 - [Power of Plants ALOE Moisturising face cleansing gel - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/power-of-plants-aloe-moisturising-face-cleansing-gel): Xhel hidratues qe pastron ne menyre perfete lekuren nga papastertite dhe makeup-i, duke e lene ate te bute dhe te mire-hidratuar. Eshte delikat ne lekure: nuk bllokon poret dhe nuk ndikon ne barrieren mbrojtese natyrale te lekures. Masazhojeni xhelin ne lekure te lagesht te fytyres, duke shmangur zonen e syve. Shpelajeni me uje. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:15:32Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1593,7 +1593,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/hydrolat-z-opuncji-10e07724.3092.webp?v=1737122889
   Price: ALL 1,831.00 ALL
 - [Power of Plants OPUNTIA Smoothing face cleansing foam - Amar Pharma - Lirene - Shkumë Pastruese](https://amar.al/products/power-of-plants-opuntia-smoothing-face-cleansing-foam): Seria Power Of Plants Opuntia nga Lirene zbulon një botë plot me vetitë e dobishme të kaktusit me gjemba. Ky kaktus është i njohur për vetitë e tij hidratuese, duke mos lënë asnjë shans për dehidrim. Shkuma pastrues me bazë hidrosoli Opuntia do t'i japë energji lëkurës tuaj me çdo larje. Formula e saj vegane heq butësisht papastërtitë, sebumin dhe mbetjet e grimit, duke e përgatitur lëkurën për kujdes të mëtejshëm. Karakteristikat e shkumës larëse Power Of Plants Opuntia nga Lirene: - ka një strukturë të këndshme shkumë;- pastron në mënyrë efektive dhe thellësisht lëkurën;- Hidrosoli i dardhës me gjemba ndihmon lëkurën të mbajë lagështinë;- Vitamina C lufton njollat ​​e pigmentimit dhe barazon tonin e lëkurës;- Formula 100% vegane, e pa testuar në kafshë;- Përmban 99% përbërës natyralë. - Amar Pharma - Lirene - Shkumbë Pastruese
-  Updated: 2025-10-02T10:15:12Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Lirene
   Product Type: Shkumë Pastrues
   Availability: Available
@@ -1642,7 +1642,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/krem-liftingujacy-10e07731-krt.ulcr.webp?v=1737122912
   Price: ALL 1,789.00 ALL
 - [Power of Plants ROSE Oil to foam make-up remover - Amar Pharma - Lirene - Shkumë](https://amar.al/products/power-of-plants-rose-oil-to-foam-make-up-remover): Ka shumë mjete për heqjen e grimit, por vaji në shkumë është bërë një bestseller i vërtetë në serinë Power Of Plants Rose nga Lirene. Vaji heq lehtësisht edhe grimin e papërshkueshëm nga uji, dhe kur ndërvepron me ujin, emulsifikohet dhe shndërrohet në një shkumë të qëndrueshme. Formula është e pasuruar me ujë trëndafili dhe ekstrakte bimore, të cilat parandalojnë shfaqjen e skuqjes dhe acarimit. Është një alternativë e shkëlqyer për ata që preferojnë të lajnë kozmetikën me ujë. Karakteristikat e Power Of Plants Rose Removal nga Lirene: - Vaji është i përshtatshëm për pastrimin e përditshëm dhe heqjen e grimit;- Ka një formulë transformuese që ndryshon nga vaj në shkumë;- Trajton lehtësisht edhe kozmetikën dekorative të qëndrueshme;- Nuk lë mbetje vajore ose film;- I përshtatshëm për lëkurë të pjekur dhe të thatë. - Amar Pharma - Lirene - Shkumë Pastruese
-  Updated: 2025-10-02T09:29:34Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Lirene
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -1663,7 +1663,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/hydrolat-z-rozy-10e07737.pafk.webp?v=1737122922
   Price: ALL 1,831.00 ALL
 - [Power of Plants ROSE Soothing face cleansing gel - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/power-of-plants-rose-soothing-face-cleansing-gel): Xhel delikat pastrues fytyre per perdorim te perditshem, pastron efektivisht lekuren nga cdo papasterti duke e lene te bute dhe te lemuar. Masazhojeni xhelin ne lekure te lagesht te fytyres, duke shmangur zonen e syve. Shpelajeni me uje te ngrohte. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:14:55Z
+  Updated: 2025-10-03T09:17:07Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1691,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-myjacy-opuntia-13e08549.0vee.webp?v=1737122934
   Price: ALL 1,789.00 ALL
 - [Power of Plants SMOOTHING OIL SHOWER GEL OPUNTIA - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/power-of-plants-smoothing-oil-shower-gel-opuntia): Kujdesi cilësor fillon me pastrimin e thellë. Për të mbushur përvojën rutinë të dushit me kuptime të reja, marka Lirene ka prezantuar një xhel dushi me ekstrakt të OPUNTIA - mbreti i shkretëtirës. OPUNTIA është i njohur për vetitë e tij ruajtëse të lagështirës, ​​duke lejuar që produkti jo vetëm të pastrojë lëkurën, por edhe të sigurojë hidratim të thellë. I kombinuar me vitaminën C, zvogëlon gradualisht shfaqjen e njollave të pigmentimit dhe jep një nxitje të fuqishme të energjisë për të gjithë ditën! Karakteristikat e Xhelit të Dushit Power Of Plants OPUNTIA nga Lirene: - Pastron butësisht sipërfaqen e trupit nga papastërtitë;- Ka formulë dhe aromë të këndshme;- E pasuruar me ekstrakt të gjembave për hidratim të thellë të lëkurës;- Vitamina C zvogëlon gradualisht dukshmërinë e pigmentimit;- Përmban 99% përbërës me origjinë natyrale;- Lë një ndjenjë të qëndrueshme freskie;- 100% vegan. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-02T10:13:58Z
+  Updated: 2025-10-03T09:17:09Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1740,28 +1740,28 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/89-RETINOL-NIGHT-CREAM-adult-acne-pure-RETINOL-0.3-40-ml-1.png?v=1757513957
   Price: ALL 3,367.70 ALL
 - [PURE-LUMINIUM - Amar Pharma - Pharmaceris - Shkumë Pastruese](https://amar.al/products/pure-luminium): INDIKACIONEPër lëkurë me njolla të pigmentuara dhe ton të pabarabartë, me shenja plakjeje, si dhe lëkurë të shurdhër, njolla të errëta të shkaktuara nga ekspozimi në diell.I përshtatshëm për mbajtësit e lenteve të kontaktit.Pa sapun dhe alkool. VEPRIMShkuma largon në mënyrë efektive grimin dhe papastërtitë nga fytyra dhe zona e syve, duke ndriçuar lëkurën.Kombinimi i përbërësve që pengojnë melanogjenezën (niacinamide, azeloglicina dhe algat e ylberit) demonstron efikasitet të lartë në mbrëmje dhe zbardh tonin e lëkurës.Formula rikthen hidratimin optimal dhe e mban lëkurën të mos ndjehet e tendosur dhe e thatë.Formula ultra e butë nuk shkakton acarim ose tharje të tepërt të lëkurës. PËRBËRËSIT2% niacinamideazeloglicinaEkstrakti i Algave të Ylberit UDHËZIME PËR PËRDORIMAplikoni një sasi të vogël të shkumës në dorë dhe lani fytyrën.Më pas shpëlajeni me ujë. Përdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë mëngjesit dhe natës. SIGURIA DHE EFIKASITETIFORMULA E AVANCUAR E DIZAJUAR PËR LËKURË SHUMË TË NDJESHMETOLERANCË DHE EFEKTIVITET I LARTËTESTUAR OFTALMOLOGJIK DHE DERMATOLOGJIK - Amar Pharma - Pharmaceris - Shkumë Pastruese
-  Updated: 2025-10-02T09:29:16Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/672df5fb9f407_w_en_10E14709_PURE_LUMINIUM.png?v=1757513950
   Price: ALL 1,996.80 ALL
 - [PURI-CAPILIQ MOUSSE - Amar Pharma - Pharmaceris - Shkumë Pastuese](https://amar.al/products/gentle-capillary-strengthening-cleansing-mousse-for-face-and-eyes-puri-capiliqmusse-150-ml): Ky mousse pastron në mënyrë efektive lëkurën, duke hequr çdo papastërti dhe make-up. Një kompleks përbërësish aktivë (përfshirë vitaminën B3 dhe ekstraktet e gjembaçit dhe acerolës) forcon enët e gjakut për të reduktuar skuqjen dhe djegien e lëkurës. Betaina natyrale dhe Glucam® hidratojnë intensivisht lëkurën dhe ruajnë ekuilibrin e saj hidro për një kohë të gjatë. D-pantenoli dhe alantoina ndihmojnë në qetësimin e acarimeve. Produkti e bën lëkurën më pak të prirur ndaj reaksioneve të mbindjeshmërisë ndaj agresorëve mjedisorë. Është pa sapun. Shpërndani një copë mousse pastruese në pëllëmbën e dorës dhe lani fytyrën duke përdorur lëvizje rrethore. Shpëlajeni me ujë. Kur lëkura është e thatë, ndiqeni me një tonik dhe një krem ​​të përshtatshëm Pharmaceris N. Përdoreni çdo ditë në mëngjes dhe para gjumit. - Amar Pharma - Pharmaceris - Shkumë Pastuese
-  Updated: 2025-10-02T09:29:03Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/140-GENTLE-CAPILLARY-STRENGTHENING-CLEANSING-MOUSSE-for-face-and-eyes-PURI-CAPILIQMUSSE-150-ml-1.png?v=1737381243
   Price: ALL 1,915.05 ALL
 - [PURI-CAPILIQUE - Amar Pharma - Pharmaceris - Shkumë Pastuese](https://amar.al/products/strengthening-cappillaries-gentle-face-toner-puri-capilique-200-ml): INDIKACIONE Ky tonik për pastrimin dhe kondicionimin e përditshëm të fytyrës rekomandohet për lëkurën e cila është e prirur ndaj kapilarëve të zgjeruar dhe të thyer.Është i përshtatshëm për lëkurën e të gjitha moshave. VEPRIMToneri rikthen nivelin e pH natyral të lëkurës dhe heq në mënyrë efektive papastërtitë dhe make-up-in.Ekstrakti Acerola dhe Glucam® sigurojnë hidratimin e duhur të lëkurës, qetësojnë irritimet dhe parandalojnë skuqjen e re.Toneri e bën lëkurën më pak të prirur ndaj reaksioneve të mbindjeshmërisë, minimizon eritemën dhe rikthen freskinë dhe rehatinë.TOLERANCË DHE EFIKASITETI I LARTËTESTUAR KLINIK DHE DERMATOLOGJIKVëllimi: 200 ml PËRBËRËSITEkstrakti i acerolësnjë antioksidant që mbron lëkurën nga efektet e dëmshme të agresorëve mjedisorë. Ai forcon enët e gjakut dhe nxit rinovimin e qelizave të lëkurës, në të njëjtën kohë duke reduktuar çdo skuqje.D-pantenolka një efekt qetësues dhe qetësues dhe e bën lëkurën më pak të prirur ndaj reaksioneve të mbindjeshmërisë.Glucam®lidh fort lagështinë dhe ruan nivelin e saj optimal në epidermë për një kohë të gjatë. Zbut lëkurën dhe rikthen qëndrueshmërinë dhe elasticitetin e humbur.UDHËZIME PËR PËRDORIMPastroni lëkurën duke përdorur produkte nga linja Pharmaceris N.Më pas lagni një copë pambuku me tonik dhe fshijeni butësisht mbi fytyrën tuaj.Ndiqni me një krem ​​të përshtatshëm nga vija N.Përdoreni çdo ditë në mëngjes dhe para gjumit.SIGURIA DHE EFIKASITETISiguria dhe toleranca e lartë e konfirmuar nga testet dermatologjike.Efikasiteti i konfirmuar nga testet dermatologjike në lëkurën e prirur ndaj kapilarëve të zgjeruar100% rifreskohet96% hidratonSpërkateni në fytyrë dhe dekolte (me sy të mbyllur) ose shpërndajeni në një copë pambuku dhe fshijeni lëkurën. Mos thithni. - Amar Pharma - Pharmaceris - Shkumë Pastuese
-  Updated: 2025-10-02T09:28:52Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/130-STRENGTHENING-CAPPILLARIES-gentle-face-toner-PURI-CAPILIQUE-200-ml-1.png?v=1757513943
   Price: ALL 1,861.50 ALL
 - [PURI-CAPILIUM - Amar Pharma - Pharmaceris - Shkumë Pastruese](https://amar.al/products/redness-soothing-face-and-eyes-gel-wash-puri-capilium-190-ml): Pharmaceris Puri-Capilium N Soothing Redness Cleansing Gel Xhel për pastrimin e përditshëm të lëkurës së fytyrës me kapilarë të zgjeruar, skuqje dhe eritemë. Gjithashtu siguron kujdes të butë për lëkurën e ndjeshme në zonën e syve. Është i përshtatshëm për lëkurën e të gjitha moshave. Xheli largon në mënyrë efektive papastërtitë dhe makeup-in nga fytyra dhe sytë pa e tharë lëkurën. Xheli nuk përmban sapun dhe ndihmon në ruajtjen e barrierës natyrore mbrojtëse të epidermës. Për shkak të përmbajtjes së ekstraktit të gjëmbaçit shfaq një efekt qetësues dhe redukton skuqjen e lëkurës. Dylli i mangos me vetitë e tij ushqyese dhe hidratuese eliminon ndjenjën e thatësisë. Alantoina dhe D-panthenoli kanë një efekt qetësues, duke reduktuar tendencën për acarim. Xheli tolerohet mirë, freskon dhe hidraton lëkurën. 100% pastron në mënyrë efektive. 90% qetëson dhe lehtëson irritimet. Tolerancë dhe efikasitet të lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni një sasi të vogël xheli në dorën tuaj të lagur me ujë dhe lani fytyrën. Pas shpëlarjes me ujë të pastër, aplikoni tonerin dhe kremin e duhur të lëkurës nga linja Pharmaceris N. - Amar Pharma - Pharmaceris - Shkumë Pastruese
-  Updated: 2025-10-02T10:13:21Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -1775,21 +1775,21 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/120-BODY-SCALP-CLEANSING-GEL-normalising-desquamation-PURI-ICHTILIUM-250-ml-1.png?v=1757513928
   Price: ALL 2,556.00 ALL
 - [PURI-ROSALGIN - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/soothing-physiological-face-gel-wash-for-the-face-and-the-skin-in-the-eye-area-puri-rosalgin-190-ml): Pharmaceris – Rosacea Puri-Rosalgin Xheli larës fiziologjik Rosalgin është menduar për pastrimin e përditshëm të lëkurës së ndjeshme, alergjike me rosacea, të prirur për skuqje, eritemë fikse, papula dhe pustula. Gjithashtu siguron kujdes të butë për lëkurën e ndjeshme në zonën e syve. Ai zëvendëson sapunin tradicional. Është i përshtatshëm për lëkurën e të gjitha moshave. Larësi në formë xheli bazohet në një përbërës pastrues jashtëzakonisht të butë pa sapun që ndihmon në ruajtjen e ekuilibrit fiziologjik të lëkurës pa cënuar barrierën natyrore mbrojtëse të epidermës. Largon papastërtitë në mënyrë efektive dhe make-up-in pa shkaktuar acarim ose tharje. Redukton me 90% formimin papulave dhe pustulave. Zvogëlon me 90% intensitetin e skuqjes. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni një sasi të vogël të xhelit në dorën tuaj dhe lani fytyrën. Më pas shpëlajeni me ujë. Pasoni larjen me një krem qetësues të duhur nga linja Pharmaceris R. Përdoreni çdo ditë në mëngjes dhe në darkë. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-02T10:12:52Z
+  Updated: 2025-10-03T09:17:10Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/125-SOOTHING-PHYSIOLOGICAL-FACE-GEL-WASH-for-the-face-and-the-skin-in-the-eye-area-PURI-ROSALGIN-190-ml-1.png?v=1757513920
   Price: ALL 2,121.60 ALL
 - [PURI-SEBOGEL - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/deep-cleansing-face-gel-puri-sebogel-190-ml): Pharmaceris – T Puri-Sebogel Antibacterial Face Gel Wash Falë vetive të tij antibakteriale, xheli pastron lëkurën e prirur ndaj akneve dhe rikthen ekuilibrin e duhur të florës së saj bakteriale.Salicilati i natriumit dhe acidi mandelik eksfolojnë butësisht qelizat e vdekura të epidermës dhe zvogëlojnë shfaqjen e akneve.Baza e xhelit përbëhet nga agjentë pastrimi jashtëzakonisht të butë të cilët nuk cenojnë barrierën mbrojtëse natyrore të lëkurës. Acidi Mandelik i cili ka veti antibakteriale rregullon sekretimin e sebumit dhe parandalon komedonet dhe shenjat ​e reja të akneve. Acid Mandelik – është një acid hidroksi aromatik me efekt antibakterial. Ai eksfolion dhe rigjeneron epidermën, rregullon formimin e komedoneve, duke minimizuar dukshmërinë e tyre dhe shpeshtësinë e shpërthimeve. Acidi salicilik – eksfolion butësisht qelizat e vdekura epidermale. Rivendos teksturën e njëtrajtshme të lëkurës dhe siguron një pamje të shëndetshme. Pastron në mënyrë efektive lëkurën. Dylli mangos – është një hidratues i fuqishëm që depërton në shtresat e thella të lëkurës dhe rimbush lipidet. Mbron epidermën dhe promovon rigjenerimin e saj. Testuar dermatologjikisht Testuar klinikisht - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-02T10:11:32Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/118-DEEP-CLEANSING-FACE-GEL-PURI-SEBOGEL-190-ml-1.png?v=1757513912
   Price: ALL 1,984.00 ALL
 - [PURI-SEBOSTATIC - Amar Pharma - Pharmaceris - Shkumë pastruese](https://amar.al/products/deeply-cleansing-face-foam-puri-sebostatic-150-ml): Pharmaceris – T Puri-Sebostatic Deeply Cleansing Foam Shkuma e butë pastron në mënyrë efektive lëkurën nga papastërtitë dhe make up-i. Acidi hidroksicitrik natyror që gjendet në ekstraktin e tamarindit ofron veti të shkëlqyera eksfoliuese që promovojnë heqjen e qelizave të vdekura të lëkurës dhe hidraton lëkurën për të rivendosur hidro-ekuilibrin e saj.Ekstrakti burdock dhe zinku PCA zvogëlojnë çrregullimet e lëkurës së yndyrshme, duke normalizuar sekretimin e sebumit. Acid Mandelik – një acid hidroksi aromatik me efekt antibakterial. Eksfolion dhe rigjeneron epidermën. Acidi salicilik – eksfolion butësisht qelizat e vdekura epidermale. Rivendos teksturën e njëtrajtshme të lëkurës dhe siguron një pamje të shëndetshme. Pastron në mënyrë efektive lëkurën. Dylli mango – hidratues i fuqishëm që depërton në shtresat e thella të lëkurës dhe rimbush lipidet. Mbron epidermën dhe promovon rigjenerimin e saj - Amar Pharma - Pharmaceris - Shkumë Pastuese
-  Updated: 2025-10-02T09:27:09Z
+  Updated: 2025-10-03T09:17:09Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -1810,7 +1810,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_38.png?v=1758876324
   Price: ALL 1,690.65 ALL
 - [PURI-SENSILIUM - Amar Pharma - Pharmaceris - Shkumë pastruese](https://amar.al/products/soothing-foam-face-and-eye-cleansing-puri-sensilium-150-ml): PURI-SENSILIUM Kjo shkumë për pastrimin e përditshëm të fytyrës dhe zonës së syve rekomandohet për lëkurën e cila është veçanërisht e ndjeshme dhe e prirur ndaj alergjive.Produkti është i përshtatshëm për lëkurë të të gjitha moshave.Ai zëvendëson sapunin tradicional. VEPRIM Kjo shkumë e butë e cila është shumë e këndshme për t'u përdorur largon në mënyrë efektive papastërtitë dhe make-up.D–panthenoli dhe Glucam® rikthen hidratimin optimal dhe e mbajnë lëkurën të mos ndjehet e tendosur dhe e thatë.FORMULA novatore IMMUNO-PREBIOTIKE qetëson irritimet dhe kontrollon mbindjeshmërinë e lëkurës.Shkuma është pa sapun. TOLERANCË DHE EFIKASITETI I LARTËTESTUAR KLINIK DHE DERMATOLOGJIKVëllimi: 150 ml PËRBËRËSIT Formula imuno-prebiotikenjë formulë që lehtëson irritimet dhe kontrollon mbindjeshmërinë e lëkurës.D-pantenolka një efekt qetësues dhe qetësues dhe e bën lëkurën më pak të prirur ndaj reaksioneve të mbindjeshmërisë.Glucam®lidh fort lagështinë dhe ruan nivelin e saj optimal në epidermë për një kohë të gjatë. Zbut lëkurën dhe rikthen qëndrueshmërinë dhe elasticitetin e humbur. UDHËZIME PËR PËRDORIMAplikoni një sasi të vogël të shkumës në dorë dhe lani fytyrën.Më pas shpëlajeni me ujë.Ndiqni me një tonik dhe një krem ​​të përshtatshëm nga linja Pharmaceris A.Përdoreni çdo ditë në mëngjes dhe para gjumit. SIGURIA DHE EFIKASITETISiguria dhe toleranca e lartë e konfirmuar nga testet klinike dhe dermatologjike.Pa sapunPA aromëE dëshmuar si efektive në testet klinike dhe dermatologjike për lëkurën alergjike dhe të ndjeshme.100% pastron në mënyrë efektive86% lehtëson irritimet - Amar Pharma - Pharmaceris - Shkumë Pastruese
-  Updated: 2025-10-02T10:11:13Z
+  Updated: 2025-10-03T09:17:09Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -2115,7 +2115,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/10e05108-bb-krem-tub.njbt.webp?v=1737123138
   Price: ALL 1,042.30 ALL
 - [Under Twenty Cleansing detoxifying foam 150 ml - Amar Pharma - Under 20 - Shkumë pastruese](https://amar.al/products/under-twenty-cleansing-detoxifying-foam-150-ml): Shkumë detoksifikuese Under Twenty Cleansing 150 mlZgjidhni një shkumë antibakteriale për të larë fytyrën. Molekulat e acidit glikolik që depërtojnë në mënyrë aktive në shtresat e thella të epidermës garantojnë performancë të lartë. Besoni, sepse arrini tek një shkumë eksperte, veprimi i së cilës është konfirmuar nga të rinj si ju *: • pastron në mënyrë efektive 81%• redukton sekretimin e sebumit me 85%• zbut 89% - Amar Pharma - Under 20 - Shkumë Pastruese
-  Updated: 2025-10-02T10:08:45Z
+  Updated: 2025-10-03T09:17:08Z
   Vendor: Under 20
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -2136,14 +2136,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/9jzuzs2xl4ko.jpg?v=1737381321
   Price: ALL 1,043.00 ALL
 - [Under Twenty FACE CLEANSING GEL - Amar Pharma - Under 20 - Shkumë pastruese](https://amar.al/products/face-cleansing-gel): Xhel për larjen e fytyrës Under Twenty Cleansing 190 mlZgjidhni një xhel për pastrimin e fytyrës. Është ideal për kujdesin e përditshëm të lëkurës që kërkon - të ndjeshme, të yndyrshme dhe të përzier, si dhe të thatë pas trajtimeve të akneve. Besoni, sepse arrini tek një xhel ekspert, veprimi i të cilit u konfirmua nga të rinj si ju *:• zvogëlon sasinë dhe dukshmërinë e pikave të zeza• freskon, zbut dhe hidraton• vepra antibakteriale - Amar Pharma - Under 20 - Shkumë Pastruese
-  Updated: 2025-10-02T10:08:25Z
+  Updated: 2025-10-03T09:17:12Z
   Vendor: Under 20
   Product Type: Shkumë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/5rf6j8swnetl.jpg?v=1737381218
   Price: ALL 1,085.70 ALL
 - [Under Twenty Mattifying Face Cleansing Paste - Amar Pharma - Under 20 - Pastë Pastruese](https://amar.al/products/mattifying-face-cleansing-paste): Pastë për larjen e fytyrës Under Twenty Matting 150 ml Zgjidhni një pastë larëse mat. Falë përmbajtjes së argjilës, pastron në mënyrë perfekte, mat lëkurën dhe redukton papërsosmëritë ekzistuese. Nuk bllokon poret dhe nuk shkakton një ndjenjë shtrëngimi. Besoni, sepse arrini pas një paste eksperte, veprimi i së cilës u konfirmua nga të rinj si ju *: • pastron thellësisht 91% • redukton sekretimin e sebumit me 76% • zbut 96% * Test në një grup njerëzish me lëkurë të re. - Amar Pharma - Under 20 - Pastë Pastruese
-  Updated: 2025-10-02T10:08:07Z
+  Updated: 2025-10-03T09:17:09Z
   Vendor: Under 20
   Product Type: Pastë Pastrues
   Availability: Available
@@ -2276,7 +2276,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitleddesign.jpg?v=1757513679
   Price: ALL 1,992.00 ALL
 - [CREAMY BODY SHOWER GEL - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/emotopic-creamy-body-shower-gel): EMOTOPIC CREAMY BODY SHOWER GEL Pharmaceris INDIKACIONEFormulë delikate, pa shkumë, e rekomanduar për kujdesin e përditshëm të lëkurës së ndjeshme, të thatë, të ashpër, të prirur për acarim, kruajtje dhe djegie.Gjithashtu të përdoret në mënyrë profilaktike për lëkurë të shëndetshme për të parandaluar tharjen dhe për të minimizuar rrezikun e zhvillimit, intensifikimit dhe përsëritjes së simptomave të dermatitit atopik.Asnjë kufizim moshe.Nuk kërkon përdorimin e një agjenti pastrues shtesë. VEPRIMXhel për larje trupi i bazuar në zbutës aktivë, pastron butësisht lëkurën, duke e lënë atë intensivisht të hidratuar, të lëmuar dhe të butë në prekje.Jashtëzakonisht delikate, biokompatibile me pH fiziologjik të lëkurës, baza larës nuk ndikon në barrierën e saj hidrolipide mbrojtëse. Parandalon tharjen e tepërt dhe rrëshqitjen e epidermës.Vaji kanola, për shkak të vetive unike ushqyese dhe qetësuese, ndihmon në rivendosjen e ekuilibrit natyror, fiziologjik të lëkurës.Në kombinim me vajin e kërpit, i pasur me acide yndyrore esenciale (acidet yndyrore esenciale) - acidet linoleike dhe α-linolenic me veti vaji, tregon efikasitet të lartë në kujdesin e lëkurës së thatë dhe atopike, duke i rikthyer komoditetin e saj dhe duke eliminuar tensionin dhe vrazhdësinë.Xheli përmban vitaminë E rigjeneruese të epidermës, e cila siguron lubrifikimin dhe ushqimin e duhur të epidermës, rindërton barrierën natyrale hidrolipide të lëkurës, duke e mbrojtur atë nga efektet negative të faktorëve të jashtëm. PËRBËRËSITVitamina EVaj kanolaVaji i kërpit (vaji i farës së kanabisit Sativa) UDHËZIME PËR PËRDORIMTë porsalindurit dhe foshnjat deri në 6 muaj:Shtoni disa doza (2-3) të xhelit në vaskën e foshnjës të mbushur me ujë, më pas përzieni ujin me dorën tuaj.Temperatura e ujit duhet të jetë rreth 37°C.Lani butësisht trupin dhe kokën e fëmijës.Thajeni butësisht lëkurën me një peshqir, duke shmangur fërkimin.FËMIJËT DHE TË RRITUR:Aplikoni një sasi të vogël xheli në lëkurë dhe përhapeni butësisht në sipërfaqen e saj.Më pas shpëlajeni me ujë dhe thajeni trupin me një peshqir, duke shmangur fërkimin. SIGURIA DHE EFIKASITETIQë në ditën e parë të jetës.Receta e zhvilluar dhe testuar dermatologjikisht dhe klinikisht nën mbikëqyrjen e dermatologëve të fëmijëve. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-02T09:34:02Z
+  Updated: 2025-10-03T09:17:09Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -2353,7 +2353,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/geske-blue-light-protection-serum-30ml-product-scaled.png?v=1741173940
   Price: ALL 2,240.00 ALL
 - [Cleansing Lotion - Amar Pharma - Geske - Xhel Pastrues](https://amar.al/products/cleansing-lotion): Kujdes intensiv dhe hidratim Filloni ditën tuaj me një notë të bukur me Locionin Pastrues të pasuruar me vaj bajame, vitaminë E dhe ekstrakt lajthie. Ky krem ​​pastrues mund të përdoret dy herë në ditë dhe largon butësisht mbetjet e make-up-it, papastërtitë dhe bakteret nga lëkura juaj. Aroma e lehtë dhe e këndshme e bajames është e detyruar të sjellë një buzëqeshje në fytyrën tuaj dhe të lë lëkurën tuaj të ndjehet e freskët dhe e pastër gjatë gjithë ditës. Për rezultate optimale, ne rekomandojmë përdorimin e furçave tona pastrues GESKE, për një lëkurë rrezatuese dhe të pastër brenda sekondave. Përbërës të çmuar për një çehre rrezatuese Ky krem ​​për larjen e fytyrës kujdeset për lëkurën tuaj edhe gjatë pastrimit dhe e lë fytyrën tuaj të ndjehet e butë dhe elastike. Vaji i bajames është konsideruar prej kohësh një kurë mrekullie në kujdesin e lëkurës. Shumë acide yndyrore të pangopura depërtojnë thellë në lëkurë dhe hidratojnë intensivisht. Vaji i bajames gjithashtu përmban acid palmitik, i cili është një përbërës natyror mbrojtës i lëkurës. Ekstrakti i lajthisë së shtrigës ka një efekt të butë anti-inflamator dhe mbron nga irritimet e lëkurës, yndyrat dhe djegiet nga dielli. Vitamina E promovon barrierën e lindur mbrojtëse të lëkurës, rrit rezistencën e saj dhe kontribuon në një çehre të pastër dhe të freskët. Mësoni më shumë rreth përbërësve aktivë: Vaji i bajames Plot acide yndyrore të pangopura që depërtojnë thellë në lëkurë dhe hidratojnë intensivisht. Ekstrakti i lajthisë së shtrigës Ka një efekt të butë anti-inflamator dhe mbron nga irritimet e lëkurës, yndyrat dhe djegiet nga dielli. Vitamina E Promovon barrierën e lindur mbrojtëse të lëkurës, rrit rezistencën e saj dhe kontribuon në një çehre të pastër dhe të freskët. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Xhel Pastrues
-  Updated: 2025-10-02T09:31:23Z
+  Updated: 2025-10-03T09:17:09Z
   Vendor: Geske
   Product Type: Xhel Pastrues
   Availability: Available
@@ -2942,7 +2942,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-09-17T13:52:06Z
   Total Products: 1
 - [Pharmaceris Shqipëri | Produkte Dermatologjike për Kujdes të Thellë – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-1): Pharmaceris – Kujdes Dermatologjik i Avancuar për Çdo Nevojë të Lëkurës dhe Flokëve Pharmaceris është një nga markat më të njohura dhe të besuara në fushën e dermatologjisë, me produkte të krijuara për të trajtuar dhe përmirësuar çdo tip lëkure dhe probleme të ndryshme si: akné, skuqje, hiperpigmentim, plakje, dhe gjithashtu kujdes profesional për flokët dhe skalpin. 🔬 Formulime të testuara dermatologjikisht dhe klinikisht🧴 Kremra, serume, shampo dhe trajtime specifike për lëkurë normale, të yndyrshme, të ndjeshme dhe me tendencë akné🌿 Përbërës aktivë si retinol, niacinamid, acid hialuronik, zink dhe vitamina për rezultate të dukshme✨ Zgjidhje të sigurta dhe efektive për përdorim të përditshëm Zgjidhni Pharmaceris për një kujdes gjithëpërfshirës të lëkurës dhe flokëve – ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 100
 - [Pharmaceris A | Kujdes për Lëkurë të Ndjeshme me Tendencë për Akne – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-a-1): Pharmaceris A – Kujdes i Butë dhe Efektiv për Lëkurë me Akne dhe Ndjeshmëri Pharmaceris A ofron produkte të specializuara për lëkurën e ndjeshme dhe me tendencë aknesh. Formulat e tyre të buta ndihmojnë në pastrimin e thellë të poreve, kontrollin e yndyrës dhe reduktimin e shenjave të akneve, pa irrituar lëkurën. ✔ Pastrues dhe kremra me përbërës anti-inflamatorë dhe antibakterialë✔ Produkte që balansojnë prodhimin e sebumit dhe qetësojnë irritimet✔ Ideale për lëkurë me akne aktive dhe të prirur ndaj skuqjeve✔ Të testuara dermatologjikisht për siguri dhe efikasitet ✨ Kujdes profesional për lëkurë të pastër dhe të shëndetshme – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-10-02T10:17:02Z
@@ -2951,7 +2951,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-09-29T11:11:21Z
   Total Products: 11
 - [Pharmaceris H | Kujdes Profesional për Flokë dhe Skalpin – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-h-1): Pharmaceris H – Kujdes i Specializuar për Flokë dhe Skalpin Pharmaceris H është linja dermatologjike e dedikuar për shëndetin dhe bukurinë e flokëve dhe skalpit. Produktet e saj ndihmojnë në parandalimin e rënies së flokëve, hidratimin dhe qetësimin e skalpit, duke promovuar rritjen e flokëve të fortë dhe të shëndetshëm. ✔ Shampo dhe serume kundër rënies së flokëve✔ Trajtime për qetësimin e skalpit të ndjeshëm ose me skuqje✔ Formula të pasura me përbërës aktivë që rigjenerojnë folikulat e flokëve✔ Për përdorim të përditshëm dhe rezultate të provuara klinikisht Rifito flokë të fortë dhe shkëlqim me linjën Pharmaceris H – në dispozicion ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 12
 - [Pharmaceris M Maternity – Parandaloni Strijat - Amar Pharma -](https://amar.al/collections/pharmaceris-m-1): Pharmaceris M Maternity ofron produkte të dedikuara për kujdesin e lëkurës gjatë shtatzënisë, të cilat ndihmojnë në parandalimin e strijave dhe mbështesin elasticitetin e lëkurës. Me përbërës të butë dhe efektivë, këto produkte ushqejnë dhe hidratojnë lëkurën, duke siguruar mbrojtje gjatë periudhës më të bukur dhe më të ndjeshme të jetës suaj - Amar Pharma
   Updated: 2025-09-17T13:52:07Z
@@ -3014,7 +3014,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-02T09:28:53Z
   Total Products: 11
 - [Trajtime Speciale për Lëkurën | Zgjidhje Dermatologjike – Amar.al - Amar Pharma -](https://amar.al/collections/trajtime-speciale-1): Ky koleksion ofron një gamë të zgjeruar të produkteve të formuluara për të trajtuar gjendje të veçanta të lëkurës. Të testuara dermatologjikisht dhe të bazuara në përbërës aktivë të fuqishëm, trajtimet speciale ndihmojnë në përmirësimin e strukturës dhe shëndetit të lëkurës, pavarësisht problematikës. ✔ Trajtime për akne – me acid salicilik, niacinamid dhe zinc për pastrim të thellë dhe reduktim të inflamacionit✔ Kundër rrudhave – me retinol, peptidet dhe acid hialuronik për rigjenerim dhe tonifikim✔ Hidratim dhe rigjenerim – për lëkurë të thatë ose të dëmtuar nga faktorët e jashtëm✔ Qetësim për lëkurë të ndjeshme & kuperozë – për eliminimin e skuqjes dhe forcimin e barrierës natyrale ✨ Zgjidhni një trajtim të veçantë, të përshtatur për ju – dhe përjetoni ndryshimin në vetëm pak ditë me produktet profesionale të Amar.al. - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 110
 - [Uji Micelar – Pastrim i Thellë dhe Kujdes i Butë për Lëkurën - Amar Pharma -](https://amar.al/collections/uje-micelar-1): Zbuloni ujin micelar, produktin ideal për pastrim të thellë të fytyrës dhe largimin e makeup-it dhe papastërtive pa irrituar lëkurën. Me formulë të butë dhe efektive, uji micelar përshtatet për çdo tip lëkure, duke ofruar hidratim dhe freski natyrale. Pas përdorimit, lëkura juaj do të jetë e pastër, e butë dhe e shëndetshme. - Amar Pharma
   Updated: 2025-09-17T13:52:08Z
@@ -3029,19 +3029,19 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-02T10:16:31Z
   Total Products: 12
 - [Produkte për Trajtimin e Zbokthit – Bli Shampo dhe Trajtime Online | Amar.al - Amar Pharma -](https://amar.al/collections/zbokthi-1): Në koleksionin Zbokthi gjeni produkte të specializuara për trajtimin dhe parandalimin e zbokthit. Shamponë, locione dhe trajtime efektive që pastrojnë thellë lëkurën e kokës, reduktojnë zbokthin dhe qetësojnë kruarjen. Produktet tona janë të përshtatura për çdo tip lëkure dhe janë të disponueshme për blerje online në Shqipëri, me dorëzim të shpejtë dhe të sigurt. - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 10
 - [Produktet Më të Shitura | Best Sellers – Amar.al - Amar Pharma -](https://amar.al/collections/best-sellers): Zbuloni bestseller-ët e Amar.al – produktet më të preferuara nga klientët tanë për kujdesin e lëkurës, trupit dhe flokëve. Bli ato që të gjithë po i duan! ✅ Collection Description (për në faqe): Më të Mirët nga më të Mirët – Best Sellers në Amar.al Ky koleksion përmbledh produktet më të shitura dhe më të vlerësuara nga klientët tanë. Nga pastruesit dhe kremrat për fytyrën, deri tek SPF-të më të fuqishme dhe suplementët më të kërkuar – këtu do të gjeni zgjedhjet më të besuara për rezultate të garantuara. 🔸 Zgjedhjet më të dashura nga klientët tanë🔸 Produkte me vlerësime të larta dhe efektivitet të provuar🔸 Ideale për ata që nuk dinë nga t’ia nisin – provo bestsellerët tanë🔸 Sasi të kufizuara për disa artikuj – mos i humb! 🛍️ Bashkohu me mijëra klientë të kënaqur dhe porosit bestseller-ët tanë sot! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 414
 - [Lirene | Produkte Cilësore për Kujdesin e Lëkurës dhe Trupit – Amar.al - Amar Pharma -](https://amar.al/collections/lirene): Lirene është marka e njohur për produktet e saj efektive dhe të sigurta për kujdesin e përditshëm të lëkurës dhe trupit. Gama e gjerë përfshin kremra hidratues, pastrues të butë dhe trajtime rigjeneruese që mbrojnë lëkurën nga faktorët e jashtëm dhe i japin shkëlqim natyral. ✔ Formulime të avancuara me përbërës aktivë të sigurt✔ Produkte për të gjitha tipet e lëkurës dhe nevojat specifike✔ Mbrojtje, rigjenerim dhe hidratim për fytyrën dhe trupin✔ Të testuara dermatologjikisht dhe me çmime të arsyeshme ✨ Zgjidhni Lirene për një lëkurë të bukur dhe të shëndetshme çdo ditë – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-10-02T10:22:40Z
   Total Products: 184
 - [Pharmaceris Shqipëri | Produkte Dermatologjike për Lëkurë të Ndjeshme – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-2): Pharmaceris – Kujdes Dermatologjik i Avancuar për Çdo Tip Lëkure Pharmaceris është një nga markat më të besuara dermatologjike në botë, e krijuar nga specialistë të lëkurës për të ofruar zgjidhje efektive për probleme të ndryshme dermatologjike. Koleksioni përfshin produkte për lëkurë të ndjeshme, akné, skuqje, hiperpigmentim, rënie flokësh dhe shumë më tepër. 🔬 Formuluar nga dermatologë dhe testuar klinikisht💧 Ideal për lëkurë të ndjeshme, të irrituar apo të trajtuar me procedura dermatologjike🧴 Përfshin kremra, serume, SPF, shampo dhe trajtime lokale🔍 Zgjidhje të personalizuara sipas nevojave të lëkurës tuaj: T, A, R, H, W, F, N, P, S ✨ Zbuloni fuqinë e një formule të sigurt, efektive dhe të përkushtuar – Pharmaceris, tani në Shqipëri me Amar.al! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 114
 - [Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri - Amar Pharma -](https://amar.al/collections/geske): Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri Geske sjell inovacionin më të avancuar në kujdesin për lëkurën, duke kombinuar teknologjinë gjermane me rezultate të shkëlqyera klinike. Produktet e Geske janë të dizajnuara për të transformuar rutinën tuaj të bukurisë në një përvojë profesionale nga komoditeti i shtëpisë. 🔹 Pajisje inteligjente për kujdesin e lëkurës – pastrues fytyre, masazherë dhe aparate kundër rrudhave🔹 Teknologji me frekuencë të lartë dhe dritë LED – për një lëkurë më të pastër dhe të tonifikuar🔹 Zgjidhje për çdo lloj lëkure – e yndyrshme, e thatë apo e ndjeshme🔹 Rezultate të provuara klinikisht – për rigjenerim, hidratim dhe zvogëlim të rrudhave ✨ Zbuloni fuqinë e teknologjisë së Geske dhe përjetoni një kujdes lëkure të nivelit të lartë në Shqipëri. Bli tani me ofertat ekskluzive të Amar.al! - Amar Pharma
-  Updated: 2025-10-02T09:31:24Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 27
 - [LN Age – Kapsula me Hekur për Shëndet dhe Kundër Plakjes | Amar.al - Amar Pharma -](https://amar.al/collections/ln-age): LN Age është një suplement ushqimor në formë kapsulash që përmban hekur elementar dhe përbërës të tjerë të zgjedhur për të përmirësuar shëndetin tuaj të përgjithshëm. Këto kapsula ndihmojnë në rritjen e niveleve të energjisë, forcimin e sistemit imunitar dhe rigjenerimin e trupit, duke luftuar shenjat e plakjes. Ideale për ata që dëshirojnë të mbajnë lëkurën dhe trupin e tyre të shëndetshëm, të rinovuar dhe me vitalitet. - Amar Pharma
   Updated: 2025-09-17T13:52:09Z
@@ -3053,7 +3053,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-02T10:08:46Z
   Total Products: 14
 - [Të Gjitha Produktet – Kujdes i Plotë për Lëkurën dhe Trupin | Amar.al - Amar Pharma -](https://amar.al/collections/all-products): Zbuloni gamën e gjerë të produkteve të kujdesit të lëkurës nga markat më të njohura: Lirene, Pharmaceris, Dr. Irena Eris, Opatra dhe LN Age.Zgjidhni nga kremrat hidratues, serumat inovative, pastruesit efektivë dhe trajtimet anti-rudhë që ofrojnë mbrojtje të avancuar dhe rigjenerim të lëkurës. Çdo produkt është i dizajnuar për t’ju dhënë një pamje të shëndetshme, të freskët dhe plot vitalitet. - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 371
 - [Nurse Harvey’s | Kujdes Natyral për Foshnjat dhe Fëmijët – Amar.al - Amar Pharma -](https://amar.al/collections/nurse-harveys): Nurse Harvey’s – Kujdes i Besuar dhe Natyral për Vegjëlit Tuaj Nurse Harvey’s ofron një gamë produktesh të formuluara me përbërës natyralë dhe të sigurt për foshnjat dhe fëmijët. Qetëson dhimbjet e barkut, hidraton lëkurën e butë dhe mbështet zhvillimin dhe imunitetin e tyre me suplemente cilësore. ✔ Shurupë për tretje dhe qetësim të gazrave te foshnjat✔ Vajra dhe balsame natyralë për lëkurë të hidratuar dhe të butë✔ Suplemente me vitamina për rritje dhe forcim imuniteti✔ Produktet e testuara dermatologjikisht dhe të sigurt për përdorim të përditshëm 👶 Jepi vegjëlushit tuaj kujdesin më të mirë me Nurse Harvey’s – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-09-17T13:52:09Z
@@ -3062,7 +3062,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-02T10:12:54Z
   Total Products: 4
 - [Pastrues Fytyre | Lëkurë e Pastër & e Shëndetshme – Amar.al - Amar Pharma -](https://amar.al/collections/pastrues-fytyre): Pastrues Fytyre – Hapi i Parë për një Lëkurë të Shëndetshme dhe të Pastër Koleksioni Pastrues Fytyre përfshin një përzgjedhje të gjerë produktesh për pastrimin e përditshëm të lëkurës, të formuluara për të hequr papastërtitë, yndyrën, make-up-in dhe ndotësit urbanë – pa e dëmtuar barrierën natyrale të lëkurës. ✔ Xhel pastrues, shkumë dhe micelarë për çdo tip lëkure✔ Pastrues delikatë për lëkurë të ndjeshme apo me akne✔ Formulime me përbërës aktivë si acid salicilik, aloe vera, panthenol, niacinamid✔ Hidratues dhe balancues, pa alkool dhe pa irritues Pastrimi i fytyrës është baza e çdo rutine të bukurisë. Për një ndjesi freskie dhe një pamje të pastër, zgjidh pastruesin që i përshtatet më së miri lëkurës tënde. ✨ Filloni çdo ditë me një pastrim të butë dhe efektiv – vetëm me Pastruesit e Amar.al! - Amar Pharma
-  Updated: 2025-10-02T10:22:40Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 37
 - [Toner – Kujdes i Thellë për Lëkurën e Fytyrës | Amar.al - Amar Pharma -](https://amar.al/collections/toner): Koleksioni i tonerve nga amar.al ofron produkte të ndryshme për pastrim të thellë dhe freskim të lëkurës së fytyrës. Tonerët ndihmojnë në largimin e papastërtive të mbetura pas pastrimit, rregullojnë pH-në natyrale të lëkurës dhe ngushtojnë poret, duke përgatitur lëkurën për hidratim dhe trajtime të mëtejshme. Formulat tona janë të përshtatshme për çdo tip lëkure, duke përfshirë edhe lëkurën e ndjeshme. - Amar Pharma
   Updated: 2025-10-02T09:28:53Z
@@ -3077,7 +3077,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-09-17T13:52:09Z
   Total Products: 1
 - [Zbokthi | Shampo & Trajtime Kundër Zbokthit – Amar.al - Amar Pharma -](https://amar.al/collections/zbokthi): Thuaji Lamtumirë Zbokthit – Kujdes Efektiv për Skalpin Ky koleksion përmban zgjidhje të specializuara kundër zbokthit, të dizajnuara për të rikthyer ekuilibrin natyral të skalpit dhe për të parandaluar rikthimin e zbokthit. Produktet tona janë të testuara dermatologjikisht dhe të sigurta për përdorim të rregullt. 🧴 Shampo të fuqishme kundër zbokthit për çdo tip lëkure🌿 Formula me përbërës aktivë si piroctone olamine, climbazole dhe zink💧 Trajtime qetësuese për kruarje dhe skuqje të skalpit🧘♀️ Për përdorim ditor ose si trajtim intensiv Pastro, qetëso dhe mbaj larg zbokthin me produktet më të mira – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 4
 - [Pharmaceris DS – Trajtim i Specializuar për Dermatitin Seborroik | Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-ds): Pharmaceris DS është një linjë e dedikuar për trajtimin dhe menaxhimin e dermatitit seborroik, një gjendje kronike që shkakton skuqje, zbokth dhe irritim në lëkurë. Produktet e kësaj linje përdorin formulime të avancuara me përbërës aktivë që ndihmojnë në qetësimin e lëkurës, eliminimin e zbokthit dhe rikthimin e balancës natyrale të saj. Ideale për lëkurë të ndjeshme dhe të prirur ndaj dermatitit seborroik, Pharmaceris DS ofron kujdes të specializuar dhe efektiv për një lëkurë të shëndetshme dhe të rehatshme. - Amar Pharma
   Updated: 2025-09-17T13:52:09Z
@@ -3128,7 +3128,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-09-17T13:52:10Z
   Total Products: 105
 - [All Products | Amar.al – Zbulo të gjitha produktet e kujdesit personal dhe bukurisë - Amar Pharma -](https://amar.al/collections/all): Mirë se vini në seksionin “Të Gjitha Produktet” të Amar.al. Këtu do të gjeni një përzgjedhje të gjerë të produkteve më të mira për kujdesin e lëkurës, flokëve, trupit, higjienës personale dhe suplementëve ushqimorë. Ne bashkëpunojmë me marka të njohura si Pharmaceris, Lirene, Bioliq dhe shumë të tjera për të sjellë zgjidhje cilësore për nevojat e përditshme. Filtroni, zbuloni dhe zgjidhni produktin ideal për ju. - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 520
 - [Power of Plants Aloe | Qetësim & Hidratim Natyral me Aloe Vera – Amar.al - Amar Pharma -](https://amar.al/collections/power-of-plants-aloe): POWER OF PLANTS ALOE – Qetësim Natyral dhe Hidratim i Thellë me Aloe Vera Koleksioni Power of Plants Aloe është i bazuar në përbërësin natyral aloe vera, të njohur për vetitë e tij qetësuese, hidratuese dhe rigjeneruese. Produktet janë ideale për lëkurë të ndjeshme, të dehidratuar, pas ekspozimit në diell ose të prirur ndaj irritimeve. ✔ Aloe vera e pasur me vitamina dhe minerale✔ Qetëson skuqjet dhe ndihmon në rikuperimin e shpejtë të lëkurës✔ Hidraton në thellësi dhe rivendos balancën natyrale✔ Formula të lehta, të testuara dermatologjikisht dhe pa irritues ✨ Zgjidh fuqinë e bimëve për lëkurë të freskët dhe të shëndetshme me POWER OF PLANTS ALOE – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-10-02T10:15:34Z
@@ -3137,13 +3137,13 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-02T10:11:33Z
   Total Products: 17
 - [Kujdes për Fytyrën | Pastrim, Hidratim dhe Trajtim – Amar.al - Amar Pharma -](https://amar.al/collections/fytyra): Në këtë koleksion gjeni gjithçka që i nevojitet lëkurës suaj të fytyrës për të qenë e pastër, e ushqyer dhe e mbrojtur. Nga rutina bazë e përditshme deri te trajtimet më të avancuara, produktet janë të formuluara për të përmbushur nevojat e çdo tipi lëkure. ✔ Pastrues fytyre për lëkurë të ndjeshme, mikse, të thatë apo me yndyrë✔ Kremra ditës dhe natës për hidratim, rigjenerim dhe mbrojtje✔ Serume me përbërës aktivë si acid hialuronik, niacinamid, vitaminë C dhe retinol✔ Trajtime specifike për akné, rrudha, pigmentim dhe kuperozë✔ SPF për mbrojtje ditore nga dielli ✨ Zgjidhje të sigurta, efektive dhe të testuara dermatologjikisht – për një fytyrë që rrezaton shëndet dhe bukuri – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 260
 - [Kujdes për Trupin | Hidratim, Higjienë dhe Trajtim – Amar.al - Amar Pharma -](https://amar.al/collections/trupi): Kujdes i Plotë për Trupin Tuaj – Çdo Ditë, Me Cilësi Dermatologjike Lëkura e trupit ka nevojë për kujdes po aq sa ajo e fytyrës. Ky koleksion përfshin gjithçka që ju nevojitet për të mbajtur trupin të pastër, të ushqyer dhe të mbrojtur – nga larja deri te trajtimi i problemeve si lëkura e thatë, iritimet apo ndjeshmëria. ✔ Xhele dhe locione dushi pa irritues për pastrim të butë✔ Kremra hidratues dhe ushqyes për çdo tip lëkure✔ Produkte qetësuese për lëkurë të ndjeshme apo me ekzemë✔ Trajtime të avancuara për zona specifike si bërrylat, thembrat apo duart ✨ Jepi trupit tënd kujdesin që meriton me formulime të sigurta dhe efikase – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-10-02T10:21:47Z
   Total Products: 77
 - [Flokët & Skalpi | Kujdes Dermatologjik për Flokë të Shëndetshëm – Amar.al - Amar Pharma -](https://amar.al/collections/floket-skalpi): Kujdes i Plotë për Flokët dhe Skalpin Tuaj Në këtë koleksion do të gjeni gjithçka që ju nevojitet për shëndetin dhe bukurinë e flokëve dhe skalpit. Nga pastrimi i butë deri tek trajtimet e avancuara, produktet tona ofrojnë rezultate të dukshme dhe të qëndrueshme. 💧 Shampo për lëkurë të ndjeshme, me zbokth apo yndyrë💆♀️ Serume dhe ampula për rritjen dhe forcimin e flokëve🌿 Maska ushqyese dhe hidratim për flokë të thatë apo të dëmtuar🧴 Produkte të testuara dermatologjikisht – të sigurta për përdorim të përditshëm Transformoni rutinën tuaj të kujdesit me zgjidhje profesionale për çdo tip floku dhe skalpi – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 16
 - [Zona Intime - Amar Pharma -](https://amar.al/collections/zona-intime): - Amar Pharma
   Updated: 2025-09-27T11:13:14Z
@@ -3197,7 +3197,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-09-28T11:13:35Z
   Total Products: 14
 - [Rënia e Flokëve | Produkte Kundër Rënies së Flokëve – Amar.al - Amar Pharma -](https://amar.al/collections/renia-e-flokeve): Ndalo Rënien, Rikthe Besimin – Kujdes i Avancuar për Flokët Koleksioni ynë për Rënien e Flokëve përmban produkte të zgjedhura me kujdes që ndihmojnë në forcimin e rrënjëve, nxitjen e rritjes së flokëve dhe reduktimin e rënies së tepërt. Të testuara dermatologjikisht dhe të përqendruara në rezultate të dukshme. 🔹 Shampo dhe serume kundër rënies së flokëve🔹 Ampula intensive me përbërës aktivë si biotina, kofeina dhe vitaminat🔹 Formula për meshkuj dhe femra, të përshtatshme për përdorim të përditshëm🔹 Zgjidhje për rënie sezonale, hormonale apo gjenetike 💪 Rifito volumin dhe dendësinë e flokëve me produktet më të mira në Amar.al – Bli tani! - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 4
 - [Krem Dielli për Trupin | Mbrojtje SPF e Lartë – Amar.al - Amar Pharma -](https://amar.al/collections/krem-dielli-per-trupin): Mbrojtje Maksimale për Lëkurën e Trupit në Diell Koleksioni Krem Dielli për Trupin përmban kremra dhe sprej me SPF 30, 50 dhe 50+, të përshtatshëm për çdo tip lëkure. Produktet janë të testuara dermatologjikisht, ofrojnë mbrojtje të gjerë ndaj rrezeve UVA/UVB dhe janë rezistente ndaj ujit – perfekte për përdorim gjatë verës apo gjatë aktiviteteve në natyrë. ✔ Kremra dielli për trupin me teksturë të lehtë dhe përthithje të shpejtë✔ Formula që nuk lënë ndjesi ngjitëse dhe nuk bllokojnë poret✔ Të përshtatshme për lëkurë të ndjeshme, të thatë apo të ekspozuar shpesh✔ Mbrojtje e gjatë dhe efektive kundër djegies dhe fotoplakjes 🌞 Për një verë të sigurt dhe një lëkurë të shëndetshme – zgjidh kremin e duhur të diellit në Amar.al! - Amar Pharma
   Updated: 2025-09-17T13:52:12Z
@@ -3260,7 +3260,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-09-17T13:52:13Z
   Total Products: 24
 - [APPPlaza - Best Sellers - Amar Pharma -](https://amar.al/collections/appplaza-best-sellers): - Amar Pharma
-  Updated: 2025-10-02T11:13:30Z
+  Updated: 2025-10-03T11:12:28Z
   Total Products: 414
 
 ## Blogs
