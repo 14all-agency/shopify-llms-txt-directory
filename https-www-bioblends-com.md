@@ -6,33 +6,33 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-10-03T04:00:30.101Z
+- Updated At: 2025-10-03T08:00:30.077Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-03T03:20:57Z
+  Updated: 2025-10-03T07:49:07Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Liver1_12dd3dd9-6f54-456a-a8f7-d856585cbfd9.jpg?v=1746054864
   Price: $69.95 NZD
 - [Cycle Essentials](https://www.bioblends.com/products/cycle-essentials): Cycle Essentials harnesses a potent blend of foods and botanicals (medicinal herbs) to support healthy progesterone production, easing challenges that can come with monthly hormonal shifts as well as those that can arise during perimenopause, fostering a smoother transition across this time. It is renown for reducing cycle-related anxiousness and mood lows, as well as bloating and fluid retention. This formula supports robust adrenal function for a milder stress response and aids in decreasing sweet cravings.
-  Updated: 2025-10-03T03:23:10Z
+  Updated: 2025-10-03T04:24:33Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-10-03T03:23:10Z
+  Updated: 2025-10-03T06:50:55Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Greens1_fa3078aa-1028-4491-ad52-90069ae7f000.jpg?v=1743047448
   Price: $69.95 NZD
 - [Organic Zinc](https://www.bioblends.com/products/organic-zinc-extract): Imagine you have a bucket inside you that can hold zinc. You want it nice and full, so zinc can be supplied when and where it’s needed. If the bucket doesn’t have much zinc in it, the body will have to prioritise where zinc goes, meaning numerous processes that require it, won’t be able to function well or at all. Zinc is an essential mineral that plays a pivotal role in maintaining so many aspects of health, particularly robust immune function, digestion, hormone production, mood, wound healing and skin clarity, as well as hair and nail quality – it’s indispensable to a wide range of physiological functions. Despite its importance, zinc deficiency is surprisingly common, typically due to inadequate dietary intake from diminished top soil quality.
-  Updated: 2025-10-03T01:29:40Z
+  Updated: 2025-10-03T07:58:05Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Calm1_7b0e0aae-4d7f-4a50-9d27-a4ece69051c6.jpg?v=1743047442
   Price: $69.95 NZD
 - [Meno Ease](https://www.bioblends.com/products/meno-magic): Meno Ease is for those seeking relief from hormone-related symptoms once menstruation has ceased or become highly irregular (such as three periods per year). Perimenopause has three stages, the last of which is the lead up to menopause, which is the 12 month anniversary of your last period. In this last stage of perimenopause as well as post-menopause, estrogen is low and ovulation has ceased, meaning progesterone is also low (only the adrenal production remains). Some women cruise through the menopausal transition while others suffer mildly or in a debilitating way.&nbsp;
-  Updated: 2025-10-02T21:08:41Z
+  Updated: 2025-10-03T07:49:06Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-10-03T03:21:02Z
+  Updated: 2025-10-03T07:58:10Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -95,21 +95,21 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron™](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-03T04:00:22Z
+  Updated: 2025-10-03T07:52:55Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/iinew.jpg?v=1747010129
   Price: $69.95 NZD
 - [Fix Iron First by Dr Libby](https://www.bioblends.com/products/fix-iron-first): Fix Iron First - Dr Libby's new book out now You don’t have to accept feeling flat, foggy, anxious or exhausted as your “new normal”. When iron levels are low, everything feels harder. Your energy fades. Your mood shifts. Your resilience diminishes. And your body simply cannot function at its best – because so many of its vital processes depend on robust iron stores. Yet too often, the true impact of low iron is missed or misunderstood. Many people know – or suspect — that their iron is low, but they don’t realise how deeply it could be affecting them. Some have tried to correct it, only to find themselves back where they started. Others haven’t truly addressed it yet, thinking it couldn’t possibly be behind how lousy they feel. What’s not recognised often enough is that low iron doesn’t just make you tired. It can alter your brain chemistry, slow your metabolism, impact your thyroid, disturb your sleep and lower your emotional resilience. It affects how you think, how you feel, how you show up in the world – every single day. Fix Iron First is a call to change that. This book is for anyone who has ever felt persistently tired, anxious, low in mood, or disconnected from their spark – and not known why. It’s for parents watching a child struggle with energy or concentration. It’s for women navigating the rhythms of their menstrual cycle or the shifts of perimenopause. It’s for anyone who feels like they’re “doing everything right” but still doesn’t feel like themselves – or who has tried, unsuccessfully, to restore their iron levels and is still searching for answers.
-  Updated: 2025-10-02T12:49:16Z
+  Updated: 2025-10-03T06:49:30Z
   Vendor: Dr Libby
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1750636809
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-10-03T04:00:26Z
+  Updated: 2025-10-03T07:53:00Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
