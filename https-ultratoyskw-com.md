@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-08-05T01:20:28Z
 - Contact Email: salesvicsv@gmail.com
-- Updated At: 2025-10-04T12:00:35.635Z
+- Updated At: 2025-10-04T20:00:35.960Z
 
 ## Products
 
@@ -3628,7 +3628,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/6befcf80-ca8a-11ee-a381-a3418448ce71.jpg?v=1758817952
   Price: ‏189.90 د.ك.‏ KWD
 - [ارجوحة ميزان اسباني (2X2) - استمتع بتجربة لعب ممتعة وآمنة](https://ultratoyskw.com/products/أرجوحة-feber-2x2-المزدوجة): أضف المرح والمغامرة إلى حديقتك مع ارجوحة ميزان اسباني (2X2). تصميم مزدوج ومصنوع من مواد عالية الجودة يضمن تجربة لعب ممتعة وآمنة للأطفال، بينما يعزز تطوير المهارات الحركية والتوازن لديهم.
-  Updated: 2025-09-26T08:05:15Z
+  Updated: 2025-10-04T14:08:11Z
   Vendor: Ultra Toys Kuwait
   Product Type: ألعاب أطفال
   Availability: Available
@@ -3704,27 +3704,23 @@
 
 ## Store Pages
 
-- [اتصل بنا - تواصل معنا بسهولة للحصول على المساعدة الفورية](https://ultratoyskw.com/pages/contact-us): اتصل بنا نحن هنا لتلبية احتياجاتك! إذا كنت تبحث عن معلومات أو دعم، فلا تتردد في الاتصال بنا. كيفية الاتصال بنا فريقنا من المتخصصين جاهز للإجابة على...
-  Updated: 2025-09-26T02:38:06Z
+- [اتصل بنا](https://ultratoyskw.com/pages/contact-us): 
+  Updated: 2025-10-04T19:45:47Z
 - [تسجيل الشريك - سجل شركتك بسهولة اليوم](https://ultratoyskw.com/pages/affiliate_registration_page): تسجيل الشريك: الطريقة الأمثل لبدء عملك ما هو تسجيل الشريك؟ تسجيل الشريك هو عملية رسمية تهدف إلى إنشاء شراكة قانونية بين طرفين أو أكثر. في هذه العمل...
   Updated: 2025-09-18T16:13:49Z
-- [أفضل منتجات خريطة الموقع HTML لتحسين SEO](https://ultratoyskw.com/pages/html-sitemap-products): منتجات خريطة الموقع html وأهميتها في تحسين SEO Products بقي للطرق الوعرة بقوة 150 سي س... باجي 8 إنش بمحرك 150 سي سي مع ... دراجة ثلاثية كهربائية ق...
-  Updated: 2025-09-18T16:24:50Z
-- [مجموعات خريطة الموقع HTML - تحسين تجربة المستخدم](https://ultratoyskw.com/pages/html-sitemap-collections): مجموعات خريطة الموقع html Collections بقيات كهربائية شحن وبنزين || ت... العاب الشحن Deals العاب الاطفال الرضع || توصيل م... العاب ومستلزمات الحضانا...
-  Updated: 2025-09-18T16:21:43Z
-- [مدونات خريطة الموقع HTML - دليل شامل](https://ultratoyskw.com/pages/html-sitemap-blogs): تفاصيل حول مدونات خريطة الموقع html Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } ....
-  Updated: 2025-09-18T16:15:57Z
-- [صفحات خريطة الموقع HTML: دليل شامل لتحسين محركات البحث](https://ultratoyskw.com/pages/html-sitemap-pages): صفحات خريطة الموقع html Pages Contact affiliate-registration-page html sitemap products html sitemap collections html sitemap blogs .seoant-html-si...
-  Updated: 2025-09-18T16:21:13Z
-- [أتش تي أم أل خريطة الموقع - الدليل الكامل](https://ultratoyskw.com/pages/html-sitemap): أتش تي أم أل خريطة الموقع Products بقي للطرق الوعرة بقوة 150 سي س... باجي 8 إنش بمحرك 150 سي سي مع ... دراجة ثلاثية كهربائية قوية (15... بقي 150 سي...
-  Updated: 2025-09-18T16:15:13Z
 
 ## Policies
 
 - [Privacy Policy](https://ultratoyskw.com/policies/privacy-policy)
-  Updated: 2025-08-28T03:30:25+03:00
+  Updated: 2025-10-04T21:24:11+03:00
+- [Shipping Policy](https://ultratoyskw.com/policies/shipping-policy)
+  Updated: 2025-10-04T21:41:39+03:00
 - [Refund Policy](https://ultratoyskw.com/policies/refund-policy)
-  Updated: 2025-09-21T14:12:39+03:00
+  Updated: 2025-10-04T20:14:25+03:00
+- [Terms of Service](https://ultratoyskw.com/policies/terms-of-service)
+  Updated: 2025-10-04T20:30:34+03:00
+- [Contact Information](https://ultratoyskw.com/policies/contact-information)
+  Updated: 2025-10-04T22:52:40+03:00
 
 ## Optional
 
