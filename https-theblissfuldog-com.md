@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-03T16:00:41.223Z
+- Updated At: 2025-10-04T00:00:40.657Z
 
 ## Products
 
@@ -6592,7 +6592,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DACHSHUND-RELAX-SPRAY-2024-MASK_c06e1eb3-a7ec-44fa-9cce-585dec050ffd.jpg?v=1738741712
     Price: $13.95 USD
 - [French Bulldog Focus Dog Aromatherapy for Your Distracted Dog](https://theblissfuldog.com/products/french-bulldog-focus-dog-aromatherapy): French Bulldog Focus Dog Aromatherapy for Your Distracted Frenchie. Calming and focusing blend of essential oils grabs your Frenchie's attention…naturally!
-  Updated: 2025-05-29T09:38:51Z
+  Updated: 2025-10-03T20:18:40Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -8131,7 +8131,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULLMASTIFF-BOOBOO-50TUBE-NEEM-OIL-2500.jpg?v=1738739124
     Price: $11.95 USD
 - [Is Your Greater Swiss Mountain Dog Afraid of Thunder? Fireworks?](https://theblissfuldog.com/products/greater-swiss-mountain-dog-relax-dog-aromatherapy): Is Your Greater Swiss Mountain Dog Afraid of Fireworks? Relax Dog Aromatherapy helps relieve the apprehension your Swissie may feel around thunderstorms.
-  Updated: 2025-01-27T20:44:34Z
+  Updated: 2025-10-03T18:29:29Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -12251,7 +12251,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BOXER_15TUBE_COMBOcopy.jpg?v=1648248281
   Price: $19.95 USD
 - [Brittany Spaniel Skin Care Combo for Smooth Noses, Happy Paws & Itches](https://theblissfuldog.com/products/brittany-tube-combo): Brittany Spaniel Skin Care Combo all natural, handcrafted balms for dry noses, rough paws, bug bites and itchy skin issues. In .15 oz travel sized tubes.
-  Updated: 2025-06-24T16:13:14Z
+  Updated: 2025-10-03T23:09:36Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -13223,7 +13223,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/tibetan-terrier-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738674749
     Price: $11.95 USD
 - [Xoloitzcuintlui Care for Your Dog's Dry Nose, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/xoloitzcuintli-dog-custom-combo): Customize your Xoloitzcuintlui Care Kit for your Xolo's dry nose, rough paws, itchy skin. Mix and match your choice of all natural, handcrafted balms.
-  Updated: 2025-06-24T16:12:27Z
+  Updated: 2025-10-03T19:55:51Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
