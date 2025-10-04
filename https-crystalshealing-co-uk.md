@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-03T12:00:36.165Z
+- Updated At: 2025-10-04T00:00:32.977Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -3170,7 +3170,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Price: £27.00 GBP
 - [Amethyst Eye Massage Sticks - Relax & Revitalize Skin](https://crystalshealing.co.uk/products/amethyst-eye-massage-stick): Rejuvenate tired eyes with Amethyst Eye Massage Sticks, designed to soothe puffiness, enhance relaxation, and promote skin vitality.
-  Updated: 2025-09-30T07:41:05Z
+  Updated: 2025-10-03T16:22:05Z
   Vendor: Crystals Healing
   Product Type: Health care
   Availability: Available
