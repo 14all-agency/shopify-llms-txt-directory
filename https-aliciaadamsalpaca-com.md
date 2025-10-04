@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-03T20:00:39.690Z
+- Updated At: 2025-10-04T00:00:35.193Z
 
 ## Products
 
@@ -4324,7 +4324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahk216-203-01-hudson_king_blanket-evergreen.jpg?v=1741025693
     Price: $2,390.00 USD
 - [Buy Mykonos Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mykonos-throw): buy mykonos throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-03T14:30:16Z
+  Updated: 2025-10-03T21:31:32Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -10312,7 +10312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
 - [Buy Ivy Coat | Luxury Alpaca Women's Coat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/ivy-coat): buy ivy coat, luxury alpaca women's coat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-03T14:35:33Z
+  Updated: 2025-10-03T20:49:45Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -10578,7 +10578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa117-205-benjidogsweater-redpear-flatwhite.jpg?v=1759491479
     Price: $225.00 USD
 - [Buy Heidi Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/heidi-sweater): buy heidi sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-03T14:35:50Z
+  Updated: 2025-10-03T23:05:27Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -11676,7 +11676,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite.jpg?v=1759490717
     Price: $495.00 USD
 - [Buy Classic Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-throw): Discover luxurious comfort with our Alicia Adams Alpaca Classic Throws. Available in over 100 vibrant hues, these throws add elegance to any space. Perfect for cozy nights or stylish accents. Buy now & earn rewards! Shop our fair-trade, eco-friendly luxury goods.
-  Updated: 2025-10-03T17:50:06Z
+  Updated: 2025-10-03T23:05:26Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12042,7 +12042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw127-17m-finncoat-blackmelange-modelwhite.jpg?v=1759490589
     Price: $675.00 USD
 - [Buy Big Sky Scarf | Luxury Alpaca Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/big-sky-scarf): Buy Big Sky Scarf, luxury alpaca Scarf at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-03T14:37:12Z
+  Updated: 2025-10-03T20:44:40Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
