@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-02-12T07:23:58Z
 - Contact Email: bluecubepvtltd@gmail.com
-- Updated At: 2025-10-03T09:57:29.321Z
+- Updated At: 2025-10-04T04:00:27.515Z
 
 ## Products
 
@@ -223,21 +223,21 @@
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/dscf0265.png?v=1758085966
   Price: ₹699.00 INR
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://gadgetgifters.com/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-03T06:22:57Z
+  Updated: 2025-10-03T22:01:10Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/8174244845.jpg?v=1759472564
   Price: ₹721.00 INR
 - [Press Wall-Mounted Dispenser Soap Manual](https://gadgetgifters.com/products/press-wall-mounted-dispenser-soap-manual): Product Name: Press Wall-Mounted Dispenser Soap ManualPackage Contains: It has 1 Wall-Mounted Dispenser Soap Color: As per availability Material: Plastic Combo: Pack of 1Dimension: 22*6.5*7.5(cm)Weight: 200
-  Updated: 2025-10-03T06:24:14Z
+  Updated: 2025-10-03T23:23:19Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/8376629622.jpg?v=1759472647
   Price: ₹460.00 INR
 - [Rods Clips Hook Self Adhesive Pack of 6](https://gadgetgifters.com/products/rods-clips-hook-self-adhesive-pack-of-6): Product Name: Rods Clips Hook Self Adhesive Pack of 6Package Contains: It has 6 Piece of Rods Clips Hook Self Adhesive Material: Plastic Product size: 6 x 6 cm / 2.36 x 2.36 inchLength: 12 Breadth: 12 Height: 14 cm Combo/Set Of: Pack of 6 Weight: 500
-  Updated: 2025-10-03T06:25:31Z
+  Updated: 2025-10-03T18:57:02Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
@@ -252,7 +252,7 @@
     Availability: Available
     Price: ₹527.00 INR
 - [Boot Up Converter & Fuel Injector (Cleaner) 100ml](https://gadgetgifters.com/products/boot-up-converter-fuel-injector-cleaner-100ml): Product Name: Boot Up Converter & Fuel Injector (Cleaner) 100mlPackage Contains: It has 1 Piece of Boot Up Converter & Fuel Injector (Cleaner) Product Type : LiquidUsed for: MetalProduct Quantity: 100mlWeight: 150gmAdditional Information?:Helps to clean the fuel injection system, as well as the cylinders, improving overall performance, Makes engines start easily and run smoothly,improves fuel economy and reduces emissions.
-  Updated: 2025-10-03T06:27:04Z
+  Updated: 2025-10-03T18:27:00Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
@@ -264,98 +264,98 @@
     Availability: Available
     Price: ₹466.00 INR
 - [Ginseng Gold Polypeptide Anti-Ageing Serum Pack of 2](https://gadgetgifters.com/products/ginseng-gold-polypeptide-anti-ageing-serum-pack-of-2): Product Name: Ginseng Gold Polypeptide Anti-Ageing Serum Package Contains: It has 1 Face Serum Composition: collagen, hyaluronic_acid Product Quantity: 100 ml Skin Type: All Skin Type Form: Liquid Combo: Pack of 1 Ideal for: Women Usage/ Benefits: Ginseng Gold Polypeptide Anti Wrinkle Essence produce a powerful anti-aging effect, smooth penetration into the skin, improve sagging, sagging and wrinkle problems and brighten the skin. Weight: 200
-  Updated: 2025-10-03T06:28:47Z
+  Updated: 2025-10-03T22:58:46Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/4511219273.jpg?v=1759472919
   Price: ₹432.00 INR
 - [Bee Venom Skin Cream 100ml Each (Pack of 2)](https://gadgetgifters.com/products/bee-venom-skin-cream-100ml-each-pack-of-2): Product Name: Bee Venom Skin Cream 100ml Each (Pack of 2) Package Contains: It has 2 Piece of Bee Venom Skin Cream Composition: Water, Glycerin, Mineral Oil, Carbomer, Bee Venom, Product Quantity: 100ml Skin Type: All Skin Type Form: CreamCombo: Pack of 2Ideal for: Women Weight: 250
-  Updated: 2025-10-03T06:32:20Z
+  Updated: 2025-10-04T00:25:21Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/8428888031.jpg?v=1759473130
   Price: ₹478.00 INR
 - [Beard Shaving Apron Cape For Men](https://gadgetgifters.com/products/beard-shaving-apron-cape-for-men): Product Name: Beard Shaving Apron Cape For Men Package Contains: It has 1 Piece of Beard Shaving Apron Cape For Men Material: PolyesterColor: As per availability Combo: Pack of 1Weight: 238gmAdditional InformationThe beard apron catches your Beard, Sideburns and hair trimmings for an easy disposal. No clogged drains or hair all over the counter and sink, no mess, save your time on cleaning, works with any beard trimmer.
-  Updated: 2025-10-03T06:35:02Z
+  Updated: 2025-10-03T18:37:46Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/7524576635.jpg?v=1759473289
   Price: ₹422.00 INR
 - [Fire Blanket](https://gadgetgifters.com/products/fire-blanket): Product Name: Fire BlanketPackage Contains: Pack of 1Combo: Pack of 1LBH: 12*9*4 CentimetersWeight: 864 gmFighting Fire Extinguishers Tent Boat Emergency Blanket Survival Fire Shelter Safety Cover
-  Updated: 2025-10-03T06:43:40Z
+  Updated: 2025-10-04T02:08:12Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/5802010719.jpg?v=1759473812
   Price: ₹1,200.00 INR
 - [Khanda Spiritual Mini Tag Chain](https://gadgetgifters.com/products/khanda-spiritual-mini-tag-chain): Product Name: Khanda Spiritual Mini Tag ChainPackage Contains: It has 1 Chains With Pendant Material: Alloy Size: Free Size Occasion: Casual Combo: Pack of 1 Ideal for: Men ?Weight: 100 gm
-  Updated: 2025-10-03T06:46:47Z
+  Updated: 2025-10-04T01:16:21Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/4655371619.jpg?v=1759474000
   Price: ₹499.00 INR
 - [Stainless Steel Retractable Clothesline](https://gadgetgifters.com/products/stainless-steel-retractable-clothesline): Product Name: Stainless Steel Retractable Clothesline Package Contains: It Has 1 Piece Of Retractable Clothesline Material: Stainless Steel / MetalDimension: Length (cm): 280cm & Thickness (mm): 2mmCombo/ Set Of: Pack of 1Weight: 250gm
-  Updated: 2025-10-03T06:47:46Z
+  Updated: 2025-10-03T19:13:40Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/5603690644.jpg?v=1759474059
   Price: ₹799.00 INR
 - [?Writing Tablet Pencil Case](https://gadgetgifters.com/products/writing-tablet-pencil-case): Product Name: ?Writing Tablet Pencil CasePackage Contains: Pack of 1Combo: Pack of 1Color: AssortedMaterial: PlasticLBH: 20*9*2 CentimetersWeight: 100 gmsPortable, LCD Display, Pencil Storage, 2-in-1 Design
-  Updated: 2025-10-03T06:48:46Z
+  Updated: 2025-10-03T19:33:57Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/4708780092.jpg?v=1759474113
   Price: ₹599.00 INR
 - [Glass Clean Polish Compound 150ml](https://gadgetgifters.com/products/glass-clean-polish-compound-150ml): Product Name: Glass Clean Polish Compound 150mlPackage Contains: Pack of 1Combo: Pack of 1LBH: 7*4.5*1.5 CentimetersWeight: 150 gmHow to use:1. Apply a small amount to the sponge2. Apply glass oil film cleaner evenly and thoroughly to the desired exterior decorative area3. Wipe off excess coating agent with a clean towel
-  Updated: 2025-10-03T06:50:07Z
+  Updated: 2025-10-04T00:54:27Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/7999985020.jpg?v=1759474193
   Price: ₹349.00 INR
 - [Monkey Tissue Holder](https://gadgetgifters.com/products/monkey-tissue-holder): Product Name: ??Monkey Tissue HolderPackage Contains: Pack of 1 Monkey Tissue HolderMaterial: Plush | CottonColor: As per availabilityStyle: Cartoon Product Dimensions: ?12L x 8W x 25HWeight: 200gm
-  Updated: 2025-10-03T06:50:31Z
+  Updated: 2025-10-03T19:08:09Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/5502051932.jpg?v=1759474229
   Price: ₹642.00 INR
 - [Realistic Flying Eagle Bird Toy with Spread Wings](https://gadgetgifters.com/products/realistic-flying-eagle-bird-toy-with-spread-wings): Product Name: Realistic Flying Eagle Bird Toy with Spread Wings Package Contains: It has 1 Piece Realistic Flying Eagle Bird Toy with Spread Wings Color: As per availability Material: Plastic Types: Flying Eagle Bird Combo/Set Of: Pack of 1 Dimension: 13 x 4 x 20 cmWeight: 260 gmAdditional Information:This eagle bird toy features intricate detailing and vibrant colours that accurately capture the majestic appearance of an eagle in flight. Durable Construction: Crafted from high-quality materials, this toy is designed to withstand rough play and last for years. Engaging Playtime: The bird's movable wings and beak encourage interactive play, allowing children to mimic the eagle's natural movements. Educational Value: This toy serves as an excellent teaching tool, helping children learn about the fascinating world of birds and their behaviors. Easy to Operate: Just turn on the switch to see the bird fly make it perfect for kids and beginners. Dimensions: Approximately 25 cm in length, making it a suitable size for both display and playtime.
-  Updated: 2025-10-03T06:51:24Z
+  Updated: 2025-10-03T20:10:28Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/6358474997.jpg?v=1759474270
   Price: ₹702.00 INR
 - [Wall Projector Digital Clock](https://gadgetgifters.com/products/wall-projector-digital-clock): Product Name: Wall Projector Digital ClockPackage Contains: Pack of 1Combo: Pack of 1LBH: 19*3*11 CentimetersWeight: 200 gmIn addition to the basic time display, this product also integrates the alarm clock and room temperature display function.
-  Updated: 2025-10-03T07:05:19Z
+  Updated: 2025-10-03T23:06:31Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/6374246519.jpg?v=1759475116
   Price: ₹1,200.00 INR
 - [Magnetic lamp light](https://gadgetgifters.com/products/magnetic-lamp-light): Product Name: Magnetic lamp lightPackage Contains: Pack of 1Combo: Pack of 1Material: PlasticColor - MulticolorFinish Type - PolishedProduct Dimensions - 14D x 7.5W x 7.5H CentimetersLamp Type - Desk Lamp, Night Lamp, Bedroom Lamp, Decor LampShade Colour - Grey
-  Updated: 2025-10-03T07:07:08Z
+  Updated: 2025-10-03T23:34:57Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/8273983222.jpg?v=1759475217
   Price: ₹1,200.00 INR
 - [USB LED Fan with Programmable CD Customized Message](https://gadgetgifters.com/products/usb-led-fan-with-programmable-cd-customized-message): Product Name: USB LED Fan with Programmable CD Customized MessagePackage Contains: It has 1 Piece of USB LED Fan with Programmable CD Customized MessageColor: Random ColorMaterial: Aluminum Alloy/ PlasticCombo: Pack of 1Dimension: 5 b x 9 h inchesWeight: 250gmAdditional Information:Self programming LED messages display for your own wording Support 9 paragraphs texts with different contents, each paragraph can reach up to 20 characters
-  Updated: 2025-10-03T07:08:06Z
+  Updated: 2025-10-04T00:39:46Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/6231905197.jpg?v=1759475273
   Price: ₹699.00 INR
 - [Gold Switch Stickers](https://gadgetgifters.com/products/gold-switch-stickers): Product Name: Gold Switch Stickers Package Contains: It has 1 Pcs of Gold Switch Stickers Material: Plastic Functional Icons: Includes clear symbols for fans, lights, AC, geyser, doorbell, and more.Color: Colour as per availability Combo/Set Of: Pack of 1 Weight: 100gm
-  Updated: 2025-10-03T07:09:34Z
+  Updated: 2025-10-04T00:23:01Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
@@ -367,77 +367,77 @@
     Availability: Available
     Price: ₹382.00 INR
 - [3D LED Light Glass Acrylic Writing pad](https://gadgetgifters.com/products/3d-led-light-glass-acrylic-writing-pad): Product Name: 3D LED Light Glass Acrylic Writing Pad with 12 PensPackage Contains: It has 1 Piece of 3D LED Light Glass Acrylic Writing Pad with 12 PensMaterial: GlassSize: 15cm x 15cmCombo Pack of : Pack of 1Weight: 450gm Additional information: Message board/night light, use modern transparent acrylic, with USB cable.Light is soft, can be used as a night light, children's bedroom bedside lamp.With a stand, it can be stably placed on the desktop, small in size, easy to carry.It is an exquisite home decoration.
-  Updated: 2025-10-03T07:10:20Z
+  Updated: 2025-10-03T14:51:34Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/7344044019.jpg?v=1759475407
   Price: ₹801.00 INR
 - [Glass Tumbler with Airtight Lid and Straw](https://gadgetgifters.com/products/glass-tumbler-with-airtight-lid-and-straw): Product Name: Glass Tumbler with Airtight Lid and Straw Pack of 1, 300ml Travel Coffee Sipper Mug for Juice Cocktail Iced Tea Smoothie Hot Cold Drink Cup Home & Office (Small Shake) Random Colour Package Contains: Pack of 1Combo: Pack of 1Material - Plastic Color- Ranodm Color Weight: 300 gm
-  Updated: 2025-10-03T07:11:32Z
+  Updated: 2025-10-04T00:02:05Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/8216680486.jpg?v=1759475482
   Price: ₹449.00 INR
 - [Wiper Hole Protection Cover (Pack of 2)](https://gadgetgifters.com/products/wiper-hole-protection-cover-pack-of-2): Product Name: Wiper Hole Protection Cover (Pack of 2) Package Contains: It has 2 Piece of Wiper Hole Protection Cover Material: Silicone Color: AssortedCombo: Pack of 2 PieceLBH: ???8.8cm x 7.5cm Weight: 200
-  Updated: 2025-10-03T07:13:53Z
+  Updated: 2025-10-03T20:03:45Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/6401466312.jpg?v=1759475624
   Price: ₹349.00 INR
 - [Money Magnet Pyramid](https://gadgetgifters.com/products/money-magnet-pyramid): Product Name: Money Magnet PyramidPackage Contains: Pack of 1Combo: Pack of 1LBH: 10*10*10 CentimetersWeight: 180 gmReal Crystal Original Crystal Money Magnet Pyramid with Tiger Eye, Pyrite, Green Aventurine & Citrine for Vastu Money Wealth Good Luck and Prosperity
-  Updated: 2025-10-03T07:16:11Z
+  Updated: 2025-10-03T22:31:13Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/5547658986.jpg?v=1759475764
   Price: ₹1,200.00 INR
 - [Magnetic Suction Phone Holder](https://gadgetgifters.com/products/magnetic-suction-phone-holder): Product Name: Magnetic Suction Phone HolderPackage Contains: Pack of 1Combo: Pack of 1Color: AssortedLBH: 20*15*10 CentimetersWeight: 100 gmMagnetic Suction Phone Holder, 360� Rotating Mobile Phone Stand for Car, Office, Gym, Kitchen, and Flat Surfaces ? Adhesive-Free, Stable, and Universal Magnetic Mount
-  Updated: 2025-10-03T07:19:30Z
+  Updated: 2025-10-04T00:58:15Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/6427500660.jpg?v=1759475960
   Price: ₹789.00 INR
 - [Portable Baby Seat for Scooters](https://gadgetgifters.com/products/portable-baby-seat-for-scooters): Product Name: Portable Baby Seat for Scooters Package Contains: It has 1 Pack of Baby SeatMaterial: Leather & Stainless SteelProduct Dimensions: 23D x 11.5W x 36H cmColor: Color as per availability Combo: Pack of 1 Weight: 834 gmAbout this item: Baby Seat For Ola, Activa, Iqube,Jupiter,Access,Burgman. Tvs Iqube/S/ST Stylish And Premium Design Side Footrest Guard. Side footrest guards are designed to enhance the safety of riders by providing an additional layer of protection in the event of a collision or accidental impact.
-  Updated: 2025-10-03T07:20:08Z
+  Updated: 2025-10-03T19:52:49Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/8109963651.jpg?v=1759476002
   Price: ₹1,200.00 INR
 - [Portable Air Compressor Tire Inflator](https://gadgetgifters.com/products/portable-air-compressor-tire-inflator): Product Name: Portable Air Compressor Tire InflatorPackage Contain: Pack Of 1Material - Power SourceBattery PoweredOperation - ModeAutomaticCombo: Pack of 1LBH - 25*20*15Weight - 440gram
-  Updated: 2025-10-03T07:21:24Z
+  Updated: 2025-10-04T00:05:59Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/6615223982.jpg?v=1759476070
   Price: ₹1,100.00 INR
 - [Realistic Moving Flame LED Light](https://gadgetgifters.com/products/realistic-moving-flame-led-light): Product Name: Realistic Moving Flame LED LightPackage Contains: Pack of 1Combo: Pack of 1Design: AssortedLBH: 11*10*6 CentimetersWeight: 132 gm
-  Updated: 2025-10-03T07:22:38Z
+  Updated: 2025-10-03T19:45:45Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/7983042949.jpg?v=1759476150
   Price: ₹699.00 INR
 - [Reusable Aluminum Foil Sealable Storage Bags (Pack of 20)](https://gadgetgifters.com/products/reusable-aluminum-foil-sealable-storage-bags-pack-of-20): Product Name: Reusable Aluminum Foil Sealable Storage Bags (Pack of 20) Package Contains: It has 20 PcsMaterial: Aluminum FoilColor: Random ColorCombo: Pack of 20 pcs
-  Updated: 2025-10-03T07:29:16Z
+  Updated: 2025-10-03T19:46:28Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/7266849194.jpg?v=1759476544
   Price: ₹498.00 INR
 - [Mini Door Spring Lock](https://gadgetgifters.com/products/mini-door-spring-lock): Product Name: Mini Door Spring LockPackage Contains: Pack of 1Combo: Pack of 1Material: Stainless SteelLBH: 12*12*6 CentimetersWeight: 172 gmHigh quality door bolt provides enhanced security for doors and gates. Suitable for home, room doors, sashes, etc.
-  Updated: 2025-10-03T07:30:20Z
+  Updated: 2025-10-03T19:39:53Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/9383/0004/files/5863954499.jpg?v=1759476610
   Price: ₹460.00 INR
 - [Crystal Suction Door Handle](https://gadgetgifters.com/products/crystal-suction-door-handle): Product Name: Crystal Suction Door Handle Package Contains: It has 1 Piece of Crystal Suction Door Handle Material: CrystalColor: Colour as per availability Combo/Set Of: Pack of 1 Weight: 332gmAdditional Information:Waterproof Design This suction cup door handle is waterproof designed to resist moisture intrusion and prevent damage or sliding that can occur in wet environments.
-  Updated: 2025-10-03T07:30:55Z
+  Updated: 2025-10-04T00:06:05Z
   Vendor: y3shvw-av
   Product Type: 
   Availability: Available
