@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-03T20:00:27.570Z
+- Updated At: 2025-10-04T00:00:29.483Z
 
 ## Products
 
 - [Eternal Love Knot Necklace | Designed with heart](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish): Swarav Creations — Designed with heart. Made to order, just for your loved ones. Why your loved one's will love itA symbol of connection that never comes undone. Our Eternal pairs everyday elegance with a brilliant 6 mm center stone. Dress it up or wear it daily—either way it shines. Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! Highlights• Choose your finish: White Gold or Yellow Gold• 6 mm premium• Dainty 0.62″ (15.7 mm) for• Adjustable 18–22″ cable chain, secure clasp• Gift-ready box (upgrade to Premium keepsake box) What’s includedLove Knot pendant Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Perfect Gift for Anniversary (dating or wedding) Birthday Valentine’s Day Mother’s Day Christmas / Holidays Wedding-day gift (from bride/groom) Bridesmaid / Maid of Honor gift Graduation New job / Promotion Long-distance reunion Just because / Thinking of you I’m sorry / Make-up gift Thank you New Year Festival Production & shippingMade to order. Typical production 2–5 business days, then shipped with tracking. Delivery time varies by destination. CareWipe with a soft dry cloth after wear. Store separately. Avoid chemicals, pools, lotions & perfumes.
-  Updated: 2025-10-03T03:38:29Z
+  Updated: 2025-10-03T21:38:33Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4380_transformation_12024.png?v=1756583910
     Price: $94.99 CAD
 - [Forever Love Necklace | Designed with heart](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish): Swarav Creations — Designed with heart. Made to order, just for you. A classic heart silhouette with a brilliant 6.5 mm CZ center. Choose White or Yellow Gold finish on an adjustable 18–22" chain. Gift-ready and perfect for birthdays, anniversaries, and everyday sparkle. The dazzling Forever Love Necklace is sure to make her heart melt! This necklace features a stunning 6.5mm CZ crystal surrounded by a polished heart pendant embellished with smaller crystals to add extra sparkle and shine. Beautifully crafted with either a white gold or yellow gold finish, be sure to give her a classic gift she can enjoy everyday. Why you’ll love itA symbol of love she can wear every day. Our Forever Love Necklace from 6.5 mm CZ crystal surrounded by a polished heart pendant embellished with smaller crystals to add extra sparkle and shine. Details Finish: 14K White Gold or 18K Yellow Gold Center stone: 6.5 mm premium cubic zirconia During: 0.8" (22 mm) H × 0.7" (18 mm) W Chain: Adjustable 18–22" cable chain; lobster clasp Packaging: Standard gift box (upgrade to Mahogany-style Premium box) Perfect Gift for Anniversary (dating or wedding) Birthday Valentine’s Day Mother’s Day Christmas / Holidays Wedding-day gift (from bride/groom) Bridesmaid / Maid of Honor gift Graduation New job / Promotion Long-distance reunion Just because / Thinking of you I’m sorry / Make-up gift Thank you New Year Festival Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. What’s includedPendant + chain • Gift box • Tracking on every order CareWipe with a soft dry cloth after wear. Avoid perfumes, lotions, pools & chemicals. Store separately to prevent scratches. Production & ShippingMade to order. Typical production 2–5 business days, then shipped with tracking; (delivery time varies by destination).
-  Updated: 2025-10-03T03:36:21Z
+  Updated: 2025-10-03T22:06:51Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_149_transformation_14474.jpg?v=1757221322
     Price: $59.99 CAD
 - [Men's Cuban Link Chain Necklace – 18K Gold or Stainless Steel | Adjustable Length 18–22” | Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him): Men's Cuban Link Chain Necklace – 18k Gold or Stainless Steel | Adjustable Length 18–22” | Luxury Gift for Him Luxury Cuban Link Chain – Strong, Stylish & Timeless Step up your style game with this bold Cuban Link Chain Necklace, available in high-polish stainless steel or 18K gold finish. Designed with a 5mm width and an adjustable length of 18–22 inches (45.7–56 cm), this necklace delivers the perfect fit whether worn alone or layered. Weighing 1 oz (28.5 g), this chain combines comfort with durability, making it a perfect accessory for daily wear or special occasions. Presented in a luxury box, it’s ready to gift to someone special — whether it’s for a birthday, anniversary, Valentine’s Day, Father’s Day, or simply to treat yourself. ✔ Premium Quality Materials – Stainless Steel or 18K Gold Finish✔ Adjustable Length – Fits 18–22” comfortably✔ Perfect Gift for Him – A timeless chain for men with bold style Polished stainless steel and 14k yellow gold over stainless steel Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Chain width: 5 mm Weight: 28.5 grams (1.005 oz) Parrot clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Whether dressing casual or formal, this Cuban link chain makes a powerful statement of confidence and class.
-  Updated: 2025-10-03T03:30:40Z
+  Updated: 2025-10-03T21:07:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -345,7 +345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4385_transformation_12067.png?v=1758394963
     Price: $94.99 CAD
 - [Baby Feet Heart Necklace](https://swaravcreations.com/products/baby-feet-heart-necklace-shop-224701-2544): Imagine her reaction receiving this heartfelt symbol of love, family, and precious beginnings. The Baby Feet Heart Necklace features a sparkling heart-shaped frame adorned with shimmering cubic zirconia, surrounding a delicate pair of rose gold baby feet. A touching tribute to motherhood and new life, this necklace is the perfect way to celebrate a new mom, a cherished child, or a growing family. Whether for a baby shower, Mother's Day, or just because, this timeless piece will hold a special place in her heart. Give a gift as meaningful as the bond it represents—order yours today! Product Specifications:Metal base: .925 sterling silver Finish: 14k rose gold finish with platinum plating 5A CZ gemstonePendant Dimensions: 5.5mmChain style: cable chainChain length: 40cm length + 5cm extra chain Clasp Type: Lobster ClaspGift box
-  Updated: 2025-10-03T03:24:41Z
+  Updated: 2025-10-03T22:13:47Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
