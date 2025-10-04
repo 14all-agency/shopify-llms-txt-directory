@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-04T12:00:47.015Z
+- Updated At: 2025-10-04T16:00:47.757Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-10-03T06:40:40Z
+  Updated: 2025-10-04T14:32:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -681,7 +681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [White / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461320886)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [Pink / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461353654)
@@ -745,15 +745,15 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5010.jpg?v=1739988641
     Price: $31.00 USD
   - [Gray / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461845174)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461877942)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461910710)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461943478)
@@ -797,7 +797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462271158)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462303926)
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
   - [Purple / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462566070)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
   - [Purple / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462598838)
@@ -12776,7 +12776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-04T09:50:50Z
+  Updated: 2025-10-04T12:10:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12786,7 +12786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -18280,7 +18280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sequin-V-bar-Crisscross-Tube-Dress-Brinxx-Couture-7826_6d6f37fc-2343-4b5b-aa2c-17ffff1bf61b.jpg?v=1736049987
     Price: $49.99 USD
 - [Off Shoulders Stretch Dress](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740): Indulge in effortless style with our Off Shoulders Stretch Dress! This plus size dress features a flattering off-shoulder neckline and stretchy fabric for a comfortable and stylish fit. Perfect for any occasion, this dress will leave you feeling confident and chic!
-  Updated: 2025-09-30T12:40:50Z
+  Updated: 2025-10-04T12:29:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-04T10:30:50Z
+  Updated: 2025-10-04T13:50:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33990,7 +33990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/efb32da1-2832-47bf-8fef-2fa76a585907-Max-Origin.webp?v=1746798144
     Price: $24.99 USD
 - [Ruffled Plunge Sleeveless Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruffled-plunge-sleeveless-maxi-dress): Elevate your style with our Ruffled Plunge Sleeveless Maxi Dress. Exude elegance in this luxurious dress, featuring delicate ruffles and a plunging neckline.
-  Updated: 2025-10-03T19:34:36Z
+  Updated: 2025-10-04T14:01:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
