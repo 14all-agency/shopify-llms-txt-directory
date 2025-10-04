@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-03T16:00:34.623Z
+- Updated At: 2025-10-04T16:00:34.023Z
 
 ## Products
 
@@ -4920,7 +4920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-01T22:10:46Z
+  Updated: 2025-10-04T12:10:56Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10411,6 +10411,152 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/enia-cascade-print-skirt-9098776.webp?v=1758251773
     Price: $36.95 USD
+- [Elegant Wedding Shoe and Bag Set with Handmade Flowers](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers): Elegant Wedding Shoe and Bag Set with Handmade Flowers. Ideal for weddings, parties and special occasions, this shoe and bag combo offer both style and comfort.
+  Updated: 2025-10-04T13:01:22Z
+  Vendor: Milvertons
+  Product Type: Women - Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+  - [Fuchsia / 37](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476602094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Fuchsia / 38](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476569326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Fuchsia / 39](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476667630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Fuchsia / 40](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476634862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Fuchsia / 41](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477519598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Fuchsia / 42](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477486830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Fuchsia / 43](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477585134)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8563595.webp?v=1759577645
+    Price: $119.40 USD
+  - [Green / 37](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476831470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Green / 38](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476929774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Green / 39](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476897006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Green / 40](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476733166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Green / 41](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476700398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Green / 42](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476798702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Green / 43](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476765934)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-4232123.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 37](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477683438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 38](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477650670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 39](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476995310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 40](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476962542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 41](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477060846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 42](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477028078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Dark blue / 43](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037476864238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-7421003.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 37](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477322990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 38](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477290222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 39](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477126382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 40](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477093614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 41](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477191918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 42](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477159150)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Taro purple / 43](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477617902)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-3009348.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 37](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477552366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 38](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477388526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 39](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477355758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 40](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477454062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 41](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477421294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 42](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477257454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
+  - [Brown / 43](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers?variant=47037477224686)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
+    Price: $119.40 USD
 
 ## Collections
 
@@ -10433,8 +10579,8 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-09-26T06:52:17Z
-  Total Products: 135
+  Updated: 2025-10-04T09:25:53Z
+  Total Products: 136
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
   Total Products: 44
@@ -10448,7 +10594,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-03T09:27:11Z
+  Updated: 2025-10-04T09:26:32Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-09-26T06:52:17Z
@@ -10463,8 +10609,8 @@
   Updated: 2025-09-25T17:45:57Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-09-26T06:52:17Z
-  Total Products: 99
+  Updated: 2025-10-04T04:49:05Z
+  Total Products: 100
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
   Updated: 2025-09-06T01:21:47Z
   Total Products: 173
@@ -10481,8 +10627,8 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-03T09:26:22Z
-  Total Products: 163
+  Updated: 2025-10-04T09:25:32Z
+  Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
   Total Products: 1
@@ -10508,26 +10654,26 @@
   Updated: 2023-03-20T02:45:03Z
   Total Products: 0
 - [All Products - Published but OOS](https://milvertons.com/collections/all-products-oos): Out of Stock Products.
-  Updated: 2025-09-25T17:45:34Z
-  Total Products: 156
+  Updated: 2025-10-04T04:49:05Z
+  Total Products: 157
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-09-25T17:45:57Z
-  Total Products: 192
+  Updated: 2025-10-04T04:49:05Z
+  Total Products: 193
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
-  Updated: 2025-09-25T17:45:34Z
-  Total Products: 155
+  Updated: 2025-10-04T04:49:05Z
+  Total Products: 156
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-09-25T17:45:34Z
-  Total Products: 514
+  Updated: 2025-10-04T04:49:05Z
+  Total Products: 515
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
 - [Milvertons Facebook Shop](https://milvertons.com/collections/milvertons-facebook-shop): Milvertons Facebook Shop
-  Updated: 2025-09-26T06:52:18Z
-  Total Products: 102
+  Updated: 2025-10-04T04:49:05Z
+  Total Products: 103
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-02T10:00:31Z
-  Total Products: 44
+  Updated: 2025-10-04T05:00:14Z
+  Total Products: 45
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-09-06T02:19:06Z
   Total Products: 145
@@ -10553,10 +10699,10 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 5
 - [Shoes with Matching Bag Sets Collection](https://milvertons.com/collections/shoes-with-matching-bag-sets): Explore our curated collection of shoes with matching bags that combine fashion-forward designs and impeccable craftsmanship. Shop now and complete your ensemble with our exquisite shoe and bag pairings.
-  Updated: 2025-09-26T06:52:19Z
-  Total Products: 55
+  Updated: 2025-10-04T09:26:10Z
+  Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-01T22:28:38Z
+  Updated: 2025-10-04T04:49:05Z
   Total Products: 349
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
