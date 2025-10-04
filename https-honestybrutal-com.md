@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-04T08:00:30.317Z
+- Updated At: 2025-10-04T16:00:30.153Z
 
 ## Products
 
@@ -829,33 +829,33 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/EmeraldNexusTeeFront.jpg?v=1756430630
     Price: $75.00 USD
-- [Prismatic Pedals Tee](https://honestybrutal.com/products/prismatic-pedals): The Artist Statement: Color bursts like a sudden bloom—Prismatic Pedals scatters saturated reds, violets, golds, and greens across the body in radiant, petal-like forms. Each cluster feels in motion, hovering between floral and flame. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
-  Updated: 2025-08-29T01:23:49Z
+- [Prismatic Petals Tee](https://honestybrutal.com/products/prismatic-petals): The Artist Statement: Color bursts like a sudden bloom—Prismatic Petals scatters saturated reds, violets, golds, and greens across the body in radiant, petal-like forms. Each cluster feels in motion, hovering between floral and flame. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
+  Updated: 2025-10-04T14:12:56Z
   Vendor: Honesty Brutal
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
-  - [XS](https://honestybrutal.com/products/prismatic-pedals?variant=46754582102236)
+  - [XS](https://honestybrutal.com/products/prismatic-petals?variant=46754582102236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
     Price: $75.00 USD
-  - [S](https://honestybrutal.com/products/prismatic-pedals?variant=46754582135004)
+  - [S](https://honestybrutal.com/products/prismatic-petals?variant=46754582135004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
     Price: $75.00 USD
-  - [M](https://honestybrutal.com/products/prismatic-pedals?variant=46754582167772)
+  - [M](https://honestybrutal.com/products/prismatic-petals?variant=46754582167772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
     Price: $75.00 USD
-  - [L](https://honestybrutal.com/products/prismatic-pedals?variant=46754582200540)
+  - [L](https://honestybrutal.com/products/prismatic-petals?variant=46754582200540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
     Price: $75.00 USD
-  - [XL](https://honestybrutal.com/products/prismatic-pedals?variant=46863223357660)
+  - [XL](https://honestybrutal.com/products/prismatic-petals?variant=46863223357660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
     Price: $75.00 USD
-  - [2XL](https://honestybrutal.com/products/prismatic-pedals?variant=46863223390428)
+  - [2XL](https://honestybrutal.com/products/prismatic-petals?variant=46863223390428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/PrismaticPedalsTeeFront.jpg?v=1756430628
     Price: $75.00 USD
@@ -2316,7 +2316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818578_1_3d.jpg?v=1759497994
     Price: $345.00 USD
 - [Whispered Passage Colville Leather Backpack](https://honestybrutal.com/products/wisful-mirage-colville-leather-backpack): The Artist Statement Whispered Passage drifts in moody layers of teal, yellow, and shadow, captured in a sleek Colville silhouette. Crafted in premium Nappa leather, this backpack pairs modern utility with an atmospheric depth — an everyday piece elevated into wearable art. The Technicals Genuine bubble-textured Nappa leather Dimensions: 10.6” × 15.4” × 7.1” Two interior pockets, spacious main compartment Adjustable shoulder straps for comfort Handmade to order Transparency & Care Each backpack is crafted individually — no overproduction, no waste. Natural variations in the leather surface and subtle creasing are part of its unique character, developing into a patina over time. To preserve its look: Store in a dust bag or box when not in use Avoid prolonged exposure to heat, sunlight, moisture, or harsh chemicals Protect from contact with light fabrics as color transfer may occur If wet, let dry naturally away from direct heat Clean gently with a damp, lint-free cotton cloth
-  Updated: 2025-10-03T13:25:24Z
+  Updated: 2025-10-04T14:38:15Z
   Vendor: Contrado
   Product Type: Colville Leather Backpack
   Availability: Available
@@ -2422,6 +2422,102 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
     Price: $245.00 USD
+- [Gossamer Jogger](https://honestybrutal.com/products/gossamer-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-04T15:46:01Z
+  Vendor: Honesty Brutal
+  Product Type: Unisex Joggers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/36e3ff4e-b081-40af-a891-6d1f93900776.png?v=1759592332
+  - [X-Small](https://honestybrutal.com/products/gossamer-jogger?variant=46986959093980)
+    Availability: Available
+    Price: $195.00 USD
+  - [Small](https://honestybrutal.com/products/gossamer-jogger?variant=46986959126748)
+    Availability: Available
+    Price: $195.00 USD
+  - [Medium](https://honestybrutal.com/products/gossamer-jogger?variant=46986959159516)
+    Availability: Available
+    Price: $195.00 USD
+  - [Large](https://honestybrutal.com/products/gossamer-jogger?variant=46986959192284)
+    Availability: Available
+    Price: $195.00 USD
+  - [X-Large](https://honestybrutal.com/products/gossamer-jogger?variant=46986959225052)
+    Availability: Available
+    Price: $195.00 USD
+  - [2x-Large](https://honestybrutal.com/products/gossamer-jogger?variant=46986959257820)
+    Availability: Available
+    Price: $195.00 USD
+- [Nebula Jogger](https://honestybrutal.com/products/nebula-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-04T15:50:46Z
+  Vendor: Honesty Brutal
+  Product Type: Unisex Joggers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/fe5f5d05-1e93-4170-a3e0-45aa50e12dbf.png?v=1759592247
+  - [X-Small](https://honestybrutal.com/products/nebula-jogger?variant=46986959290588)
+    Availability: Available
+    Price: $195.00 USD
+  - [Small](https://honestybrutal.com/products/nebula-jogger?variant=46986959323356)
+    Availability: Available
+    Price: $195.00 USD
+  - [Medium](https://honestybrutal.com/products/nebula-jogger?variant=46986959356124)
+    Availability: Available
+    Price: $195.00 USD
+  - [Large](https://honestybrutal.com/products/nebula-jogger?variant=46986959388892)
+    Availability: Available
+    Price: $195.00 USD
+  - [X-Large](https://honestybrutal.com/products/nebula-jogger?variant=46986959421660)
+    Availability: Available
+    Price: $195.00 USD
+  - [2x-Large](https://honestybrutal.com/products/nebula-jogger?variant=46986959454428)
+    Availability: Available
+    Price: $195.00 USD
+- [Obsidian Jogger](https://honestybrutal.com/products/obsidian-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-04T15:59:14Z
+  Vendor: Honesty Brutal
+  Product Type: Unisex Joggers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/8d803466-b338-4cb5-8cde-bca2a0b79d43.png?v=1759593464
+  - [X-Small](https://honestybrutal.com/products/obsidian-jogger?variant=46986959487196)
+    Availability: Available
+    Price: $195.00 USD
+  - [Small](https://honestybrutal.com/products/obsidian-jogger?variant=46986959519964)
+    Availability: Available
+    Price: $195.00 USD
+  - [Medium](https://honestybrutal.com/products/obsidian-jogger?variant=46986959552732)
+    Availability: Available
+    Price: $195.00 USD
+  - [Large](https://honestybrutal.com/products/obsidian-jogger?variant=46986959585500)
+    Availability: Available
+    Price: $195.00 USD
+  - [X-Large](https://honestybrutal.com/products/obsidian-jogger?variant=46986959618268)
+    Availability: Available
+    Price: $195.00 USD
+  - [2x-Large](https://honestybrutal.com/products/obsidian-jogger?variant=46986959651036)
+    Availability: Available
+    Price: $195.00 USD
+- [Night Petals Jogger](https://honestybrutal.com/products/night-petals-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-04T15:56:35Z
+  Vendor: Honesty Brutal
+  Product Type: Unisex Joggers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/f6e36d21-1533-494c-ae53-40b19b458fb0.png?v=1759593096
+  - [X-Small](https://honestybrutal.com/products/night-petals-jogger?variant=46986959847644)
+    Availability: Available
+    Price: $195.00 USD
+  - [Small](https://honestybrutal.com/products/night-petals-jogger?variant=46986959880412)
+    Availability: Available
+    Price: $195.00 USD
+  - [Medium](https://honestybrutal.com/products/night-petals-jogger?variant=46986959913180)
+    Availability: Available
+    Price: $195.00 USD
+  - [Large](https://honestybrutal.com/products/night-petals-jogger?variant=46986959945948)
+    Availability: Available
+    Price: $195.00 USD
+  - [X-Large](https://honestybrutal.com/products/night-petals-jogger?variant=46986959978716)
+    Availability: Available
+    Price: $195.00 USD
+  - [2x-Large](https://honestybrutal.com/products/night-petals-jogger?variant=46986960011484)
+    Availability: Available
+    Price: $195.00 USD
 
 ## Collections
 
@@ -2435,22 +2531,22 @@
   Updated: 2025-10-03T13:22:08Z
   Total Products: 21
 - [Burst, Bloom, and Flow](https://honestybrutal.com/collections/burst-bloom-and-flow): Energy. Motion. Transformation. Burst, Bloom, Flow captures the raw intensity of creation—bold, fluid, and alive. Wear the motion. Feel the flow.
-  Updated: 2025-10-03T11:55:17Z
+  Updated: 2025-10-04T14:12:57Z
   Total Products: 16
 - [First Impressions](https://honestybrutal.com/collections/honesty-brutal): Logo as statement. Be the pioneer.
   Updated: 2025-10-02T13:13:11Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-10-03T14:09:50Z
+  Updated: 2025-10-04T14:12:57Z
   Total Products: 71
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-10-03T14:08:44Z
-  Total Products: 53
+  Updated: 2025-10-04T15:49:12Z
+  Total Products: 57
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
-  Updated: 2025-10-03T11:55:17Z
+  Updated: 2025-10-04T14:12:57Z
   Total Products: 36
 - [Jackets](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
   Updated: 2025-10-02T14:15:46Z
@@ -2468,8 +2564,8 @@
   Updated: 2025-08-29T01:24:29Z
   Total Products: 4
 - [Pants](https://honestybrutal.com/collections/pants): Art in stride.
-  Updated: 2025-10-02T14:16:34Z
-  Total Products: 2
+  Updated: 2025-10-04T15:49:12Z
+  Total Products: 6
 - [Hoodie](https://honestybrutal.com/collections/hoodie): Softness with structure.
   Updated: 2025-10-03T14:08:44Z
   Total Products: 3
