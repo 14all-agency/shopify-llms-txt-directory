@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-04T04:01:02.343Z
+- Updated At: 2025-10-04T08:01:00.448Z
 
 ## Products
 
@@ -374,7 +374,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [מכנס קצר ארסנל תלבושת שלישית 24/25](https://www.rsport.co.il/products/מכנס-קצר-ארסנל-תלבושת-שלישית): מכנסי התלבושת השלישית של ארסנל לעונת 24/25 בגזרה רגילה משלבים עיצוב מודרני עם צבעי הקבוצה האלטרנטיביים. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בסגנון ייחודי.
-  Updated: 2025-10-03T17:44:54Z
+  Updated: 2025-10-04T06:41:56Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -422,7 +422,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [מכנס קצר משחקי בית ארסנל 24/25](https://www.rsport.co.il/products/מכנס-קצר-משחקי-בית-ארסנל-24-25): מכנסי הבית של ארסנל לעונת 24/25 בגרסת השחקן משלבים את צבעי הבית המסורתיים עם עיצוב מקצועי המותאם לביצועים גבוהים על המגרש. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים תובעניים ואימונים, ומעניק לכל אוהד תחושת חוויית השחקן האמיתית.
-  Updated: 2025-10-03T17:43:52Z
+  Updated: 2025-10-04T07:10:28Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -470,7 +470,7 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [מכנסיים קצרים משחקי ארסנל שלישית 2024/2025](https://www.rsport.co.il/products/מכנסיים-קצרים-משחקי-ארסנל-שלישית-2024-2025): מכנסי התלבושת השלישית של ארסנל לעונת 2024/25 בגרסת השחקן משלבים צבעים אלטרנטיביים של הקבוצה עם עיצוב מקצועי המותאם לביצועים על המגרש. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים תובעניים ואימונים ומאפשר לכל אוהד לחוות את תחושת השחקן האמיתית.
-  Updated: 2025-10-03T17:45:46Z
+  Updated: 2025-10-04T07:57:35Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -6107,7 +6107,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גרבי כדורגל צרפת בית 2024/2025](https://www.rsport.co.il/products/גרבי-כדורגל-צרפת-בית-2024-2025): גרבי הכדורגל של נבחרת צרפת לעונת 2024/2025 לבית עשויים 88% פוליאסטר, 6% כותנה ו‑6% ספנדקס, מה שמבטיח נוחות, גמישות ועמידות במהלך המשחקים. הגרביים מספקים תמיכה אופטימלית לכף הרגל ושומרים על תחושת רכות לאורך כל הפעילות. עם עיצוב רשמי בצבעי הבית של הנבחרת, הם משלימים את התלבושת בצורה ספורטיבית ומרשימה.
-  Updated: 2025-10-03T17:14:49Z
+  Updated: 2025-10-04T05:57:24Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -6641,7 +6641,7 @@
     Availability: Available
     Price: ‏119.99 ‏₪ ILS
 - [חולצת משחק אינטר מיאמי חוץ 24/25](https://www.rsport.co.il/products/חולצת-משחק-אינטר-מיאמי-חוץ-24-25): חולצת החוץ של אינטר מיאמי לעונת 24/25 משלבת את צבעי הקבוצה המסורתיים עם עיצוב מודרני ועדכני. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה גם מחוץ למגרש.
-  Updated: 2025-10-03T17:29:10Z
+  Updated: 2025-10-04T06:27:51Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -6662,7 +6662,7 @@
     Availability: Available
     Price: ‏119.99 ‏₪ ILS
 - [חולצת משחק אינטר מיאמי שלישית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אינטר-מיאמי-שלישית-24-25): חולצת המשחק השלישית של אינטר מיאמי לעונת 24/25 מציעה עיצוב מודרני עם צבעים אלטרנטיביים של הקבוצה. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בסגנון ייחודי ומעודכן.
-  Updated: 2025-10-03T17:26:58Z
+  Updated: 2025-10-04T06:05:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -8918,7 +8918,7 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [מכנס קצר  בוקה ג’וניורס בית 24/25](https://www.rsport.co.il/products/מכנס-קצר-בוקה-ג-וניורס-בית-24-25): מכנסי הבית של בוקה ג’וניורס לעונת 24/25 משלבים את צבעי הקבוצה המסורתיים עם עיצוב נוח ועדכני. הבד איכותי ונושם, מעניק חופש תנועה מלא ומנדף זיעה, מתאים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להרגיש חלק מהקבוצה ולהראות סגנון ספורטיבי ומעודכן.
-  Updated: 2025-10-03T17:58:35Z
+  Updated: 2025-10-04T07:12:30Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -9131,7 +9131,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת כדורגל אייאקס בית 24/25](https://www.rsport.co.il/products/חולצת-כדורגל-אייאקס-בית-24-25): חולצת הבית של אייאקס לעונת 24/25 משלבת עיצוב מודרני עם מסורת הקבוצה. עשויה מבד קל ונושם, שמנדף זיעה ומספק נוחות מלאה לאורך כל המשחק או האימון. הגזרה מותאמת למתן חופש תנועה מקסימלי, והסמל של אייאקס מודגש על החזה. מושלמת לאוהדים שרוצים להרגיש חלק מהקבוצה על המגרש או ביום-יום.
-  Updated: 2025-10-03T17:16:15Z
+  Updated: 2025-10-04T05:57:40Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -9437,7 +9437,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת יפן Y-3 בית 2024/25](https://www.rsport.co.il/products/חולצת-נבחרת-יפן-y-3-בית-2024-25): חולצת הבית של נבחרת יפן בעונת 2024/25 בעיצוב Y-3 משדרת חדשנות וסגנון ייחודי, עם מראה מודרני שמשלב אלגנטיות עם תפקוד ספורטיבי מלא. החולצה עשויה מבד איכותי ונושם, המנדף זיעה ומספק תחושת נוחות מרבית לאורך כל האימון או המשחק. הגזרה מותאמת למתן חופש תנועה מלא, כך שכל פעולת ריצה, דריבל או בעיטה מתבצעת בקלות. פרטי הסמל והלוגו מוקפדים ומודגשים על החזה, ומדגישים את זהות הנבחרת וצבעי הבית המוכרים לכל אוהד. חולצת הבית של יפן היא הבחירה המושלמת למי שרוצה להרגיש חלק מהקבוצה על המגרש וגם להראות תמיכה סגנונית מחוץ לו. היא משלבת עיצוב ייחודי עם פונקציונליות, ומהווה פריט חובה לכל אוהד או אספן של מדים רשמיים.
-  Updated: 2025-10-03T17:19:40Z
+  Updated: 2025-10-04T06:00:21Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -11288,7 +11288,7 @@
     Availability: Available
     Price: ‏249.90 ‏₪ ILS
 - [מכנסי משחק תכלת לוס אנג'לס קליפרס](https://www.rsport.co.il/products/מכנסי-משחק-תכלת-לוס-אנגלס-קליפרס): מכנסי המשחק בתכלת של לוס אנג'לס קליפרס משלבים צבע עדכני עם עיצוב מודרני ונוח. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בסגנון ייחודי ומעודכן.
-  Updated: 2025-10-03T17:55:25Z
+  Updated: 2025-10-04T06:48:38Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -11402,7 +11402,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק אדומה | דני אבדיה](https://www.rsport.co.il/products/washington-wizards-red-danny-abudia): הראה את התמיכה שלך עם גופיית המשחק האדומה של דני אבדיה. עשויה בד קל ונושם 100% פוליאסטר, מספקת נוחות מירבית ותנועות חופשיות, עיצוב מודרני ותואם למראה המקצועי של הוויזארדס.
-  Updated: 2025-10-03T13:17:46Z
+  Updated: 2025-10-04T04:37:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11474,7 +11474,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה | בראדלי ביל](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal): גופיית משחק לבנה של בראדלי ביל בוויזארדס, עשויה בד קל ונושם 100% פוליאסטר. עיצוב קליל ונוח, מספקת תמיכה בתנועות חופשיות וחוויית משחק מקצועית עם סטייל מודרני.
-  Updated: 2025-10-03T13:17:45Z
+  Updated: 2025-10-04T05:02:43Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11498,7 +11498,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ווישינגטון וויזארדס לבנה | בראדלי ביל](https://www.rsport.co.il/products/washington-wizards-white-bradley-beal-jersey): הראה את התמיכה שלך עם גופיית המשחק של בראדלי ביל בוויזארדס, בד קל ונושם 100% פוליאסטר. מספקת תחושת יובש ונוחות בתנועות חופשיות, מתאימה לאימון, משחק או שימוש יום-יומי עם סטייל מקצועי.
-  Updated: 2025-10-03T13:17:45Z
+  Updated: 2025-10-04T04:57:02Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11522,7 +11522,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ווישינגטון וויזארדס לבנה | רוי הצ'ימורה](https://www.rsport.co.il/products/washington-wizards-white-roy-hachimura-jersey): תמוך בקבוצה במגרש ומחוץ למגרש עם גופיית המשחק של רוי הצ'ימורה. עשויה בד קל ונושם 100% פוליאסטר, מספקת נוחות מירבית וחופש תנועה, עיצוב מודרני המותאם למראה המקצועי של הוויזארדס.
-  Updated: 2025-10-03T13:17:45Z
+  Updated: 2025-10-04T04:55:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11546,7 +11546,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ווישינגטון וויזארדס | ראסל ווסטברוק](https://www.rsport.co.il/products/washington-wizards-russell-westbrook-jersey): גופיית משחק איכותית של ראסל ווסטברוק בוויזארדס, עשויה 100% פוליאסטר קל ונושם. מספקת חופש תנועה מלא ותמיכה במגרש, מתאימה לאימון, משחק או שימוש יום-יומי, עם עיצוב מודרני וסטייל ספורטיבי.
-  Updated: 2025-10-03T13:17:45Z
+  Updated: 2025-10-04T04:42:53Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11570,7 +11570,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/גופיית-משחק-שארלוט-הורנטס-לאמלו-בול): גופיית משחק שארלוט הורנטס בהשראת סגנון הקבוצה, עם שם ומספר של לאמלו בול בגב. עשויה בד קל ונושם, מתאימה לאוהדים ולשחקנים המעוניינים בלוק ספורטיבי איכותי.
-  Updated: 2025-10-03T14:04:35Z
+  Updated: 2025-10-04T06:56:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11594,7 +11594,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/jersey-lamelo-bull-white-charlotte-hornets): גופיית משחק לבנה שארלוט הורנטס עם השראות סגנון הקבוצה ושם לאמלו בול בגב. בד קל ונושם לנוחות מירבית וחופש תנועה לאורך כל המשחק או האימון.
-  Updated: 2025-10-03T14:04:01Z
+  Updated: 2025-10-04T06:27:58Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11618,7 +11618,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק סגולה שארלוט הורנטס | לאמלו בול](https://www.rsport.co.il/products/jersey-lamelo-bull-charlotte-hornets): גופיית משחק סגולה שארלוט הורנטס בהשראת סגנון הקבוצה, עם שם ומספר של לאמלו בול בגב. עשויה בד קל ונושם ומעניקה חופש תנועה ונוחות במגרש ובאימונים.
-  Updated: 2025-10-03T14:03:24Z
+  Updated: 2025-10-04T04:18:55Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11642,7 +11642,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שארלוט הורנטס | ניקולא באטום](https://www.rsport.co.il/products/jersey-nicolas-batum-charlotte-hornets): גופיית משחק שארלוט הורנטס בהשראת סגנון הקבוצה, עם שם ומספר של ניקולא באטום בגב. עשויה בד קל ונושם, מספקת חופש תנועה ונוחות לאורך כל פעילות ספורטיבית.
-  Updated: 2025-10-03T14:02:45Z
+  Updated: 2025-10-04T04:44:33Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11666,7 +11666,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שארלוט הורנטס 2024](https://www.rsport.co.il/products/jersey-2024-charlotte-hornets): גופיית משחק שארלוט הורנטס 2024 בהשראת סגנון הקבוצה, עשויה בד קל ונושם. מספקת חופש תנועה מלא ונוחות לאורך כל המשחק, עם עיצוב ספורטיבי מרשים.
-  Updated: 2025-10-03T14:02:08Z
+  Updated: 2025-10-04T07:00:13Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11732,7 +11732,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית רטרו קליבלנד קאבלירס 15/16 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-15-16-lebron-james-cleveland-cavaliers): גופיית רטרו מהעונה 15/16 של קליבלנד קאבלירס עם שם לברון ג'יימס בגב. בד קל ונושם המעניק חופש תנועה ונוחות לאורך כל הפעילות הספורטיבית.
-  Updated: 2025-10-03T14:16:23Z
+  Updated: 2025-10-04T06:51:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11780,7 +11780,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו לבנה קליבלנד קאבלירס 2003/04 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-white-2003-04-lebron-james-cleveland-cavaliers): גופיית רטרו לבנה בהשראת העונה המיתולוגית 03/04, עם שם לברון ג'יימס בגב. נוחה וקלילה, מספקת חופש תנועה מלא ומראה ספורטיבי אותנטי.
-  Updated: 2025-10-03T14:15:14Z
+  Updated: 2025-10-04T06:03:14Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11828,7 +11828,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית קליבלנד קאבלירס | קווין לאב](https://www.rsport.co.il/products/jersey-kevin-love-cleveland-cavaliers): גופייה בהשראת הקבוצה עם שם ומספר של קווין לאב בגב. בד קל ונושם, מספק חוויית משחק נוחה ואידיאלית לאימון או פעילות יום-יומית.
-  Updated: 2025-10-03T14:14:09Z
+  Updated: 2025-10-04T04:15:59Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11900,7 +11900,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית קליבלנד קאבלירס אדומה | דריוס גרלנד](https://www.rsport.co.il/products/jersey-red-darius-garland-cleveland-cavaliers): סטייל מודרני בגופיית קליבלנד קאבלירס אדומה, עם שם ומספר של דריוס גרלנד בגב. נוחה למשחק, אימון או שימוש יום-יומי בסגנון ספורטיבי.
-  Updated: 2025-10-03T14:12:35Z
+  Updated: 2025-10-04T06:25:22Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12188,7 +12188,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית משחק מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-jersey): גופיית משחק מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל ומגרש
-  Updated: 2025-10-03T12:48:15Z
+  Updated: 2025-10-04T04:10:56Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12260,7 +12260,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק תכלת מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-teal-jersey): גופיית משחק תכלת מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל וספורט
-  Updated: 2025-10-03T12:46:40Z
+  Updated: 2025-10-04T04:04:58Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13148,7 +13148,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו לבנה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-white-1998-99-t-mcgrady-toronto-raptors): גופיית רטרו לבנה מהעונה 98-99 עם שם ומספר של טרייסי מקגריידי בגב. אידיאלית לאימון, משחק או ללבישה יום-יומית בסגנון ספורטיבי איכותי.
-  Updated: 2025-10-03T16:25:08Z
+  Updated: 2025-10-04T07:47:41Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13196,7 +13196,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו טורונטו ראפטורס | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-t-mcgrady-toronto-raptors): גופיית רטרו בהשראת הקבוצה עם שם ומספר של טרייסי מקגריידי בגב. מספקת חופש תנועה ונוחות מירבית במהלך משחקים או אימונים.
-  Updated: 2025-10-03T16:23:11Z
+  Updated: 2025-10-04T06:45:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13292,7 +13292,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק לבנה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-white-scottie-barnes-toronto-raptors): גופיית משחק לבנה עם השראות סגנון הקבוצה ושם סקוטי בארנס בגב. בד קל ונושם, מספק חופש תנועה מלא ונוחות מירבית.
-  Updated: 2025-10-03T16:18:12Z
+  Updated: 2025-10-04T06:13:39Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13340,7 +13340,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק אדומה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-red-scottie-barnes-toronto-raptors): גופיית משחק אדומה עם השראות סגנון הקבוצה ושם סקוטי בארנס בגב. בד קל ונושם, מספק חופש תנועה ונוחות למשחק ואימון.
-  Updated: 2025-10-03T16:14:44Z
+  Updated: 2025-10-04T06:33:57Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13388,7 +13388,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק טורונטו ראפטורס | פרד ואן וליט](https://www.rsport.co.il/products/jersey-toronto-raptors-fred-vanvleet): גופיית משחק בהשראת סגנון הקבוצה עם שם ומספר של פרד ואן וליט בגב. בד קל ונושם, מאפשר תנועות חופשיות ונוחות לאורך כל הפעילות.
-  Updated: 2025-10-03T16:11:35Z
+  Updated: 2025-10-04T06:24:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13517,7 +13517,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית רטרו טורונטו ראפטורס סגולה | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-vince-carter-toronto-raptors): גופיית רטרו סגולה בהשראת הקבוצה עם שם ומספר של וינס קרטר בגב. מספקת נוחות מירבית וחופש תנועה במהלך משחק או אימון.
-  Updated: 2025-10-03T16:31:20Z
+  Updated: 2025-10-04T05:36:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13589,7 +13589,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו סגול לבן טורונטו ראפטורס | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-white-vince-carter-toronto-raptors): גופיית רטרו סגול-לבן עם שם ומספר של וינס קרטר בגב. בד קל ונושם, אידיאלית למשחק, אימון או ללבישה יום-יומית בסגנון ספורטיבי.
-  Updated: 2025-10-03T16:02:55Z
+  Updated: 2025-10-04T07:58:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13661,7 +13661,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-toronto-raptors-scottie-barnes): גופיית משחק בהשראת סגנון הקבוצה, עם שם ומספר של סקוטי בארנס בגב. אידיאלית למשחק, אימון או פעילות יום-יומית בסגנון ספורטיבי איכותי.
-  Updated: 2025-10-03T16:27:18Z
+  Updated: 2025-10-04T06:54:53Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14135,7 +14135,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה ALL STAR | ניקולה יוקיץ'](https://www.rsport.co.il/products/den-yokic-allstar): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star, נוחה ואיכותית, לסטייל NBA
-  Updated: 2025-10-03T13:02:50Z
+  Updated: 2025-10-04T04:17:03Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14183,7 +14183,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו דנבר נאגטס 03/04 | כרמלו אנתוני](https://www.rsport.co.il/products/den-retro-0304-anthony): גופיית רטרו דנבר נאגטס 03/04 של כרמלו אנתוני, איכותית ונושמת. מושלמת לאוהדים ואספנים, מביאה את הסטייל של העונה המיתולוגית למגרש וליום-יום.
-  Updated: 2025-10-03T13:05:25Z
+  Updated: 2025-10-04T06:37:28Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14470,25 +14470,25 @@
   - [XXL](https://www.rsport.co.il/products/retro-shirt-fran-2004?variant=46908984328442)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת צרפת 2006](https://www.rsport.co.il/products/retro-jersey-france-away-2006-2): חולצת רטרו נבחרת צרפת חוץ 2006
-  Updated: 2025-10-03T17:08:55Z
+- [חולצת רטרו נבחרת צרפת 2006](https://www.rsport.co.il/products/retro-jersey-france-home-2006): חולצת רטרו נבחרת צרפת חוץ 2006
+  Updated: 2025-10-04T06:53:58Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2006-07_9056c5a5-c6df-4973-bd0d-e507413a02fc.jpg?v=1738544684
-  - [S](https://www.rsport.co.il/products/retro-jersey-france-away-2006-2?variant=46908987605242)
+  - [S](https://www.rsport.co.il/products/retro-jersey-france-home-2006?variant=46908987605242)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-jersey-france-away-2006-2?variant=46908987638010)
+  - [M](https://www.rsport.co.il/products/retro-jersey-france-home-2006?variant=46908987638010)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-jersey-france-away-2006-2?variant=46908987670778)
+  - [L](https://www.rsport.co.il/products/retro-jersey-france-home-2006?variant=46908987670778)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-jersey-france-away-2006-2?variant=46908987703546)
+  - [XL](https://www.rsport.co.il/products/retro-jersey-france-home-2006?variant=46908987703546)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-jersey-france-away-2006-2?variant=46908987736314)
+  - [XXL](https://www.rsport.co.il/products/retro-jersey-france-home-2006?variant=46908987736314)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת 1990](https://www.rsport.co.il/products/retro-jersey-france-1990): חולצת רטרו נבחרת צרפת 1990, עיצוב קלאסי ונוסטלגי למי שאוהב כדורגל
@@ -14513,7 +14513,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת 1994](https://www.rsport.co.il/products/retro-jersey-france-1994): חולצת רטרו נבחרת צרפת 1994, נוחה ואיכותית למגרש וליום יום
-  Updated: 2025-10-03T17:08:33Z
+  Updated: 2025-10-04T05:34:29Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14597,7 +14597,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת חוץ 2006](https://www.rsport.co.il/products/retro-jersey-france-away-2006): חולצת רטרו נבחרת צרפת חוץ 2006, עיצוב איכותי לנוסטלגיה וליום יום
-  Updated: 2025-10-03T16:56:23Z
+  Updated: 2025-10-04T07:49:13Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14833,193 +14833,193 @@
   - [XXL](https://www.rsport.co.il/products/retro-kids-arge-away-1994?variant=46912902594810)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:08Z
+- [חולצת רטרו נבחרת ברזיל 1998](https://www.rsport.co.il/products/retro-shirt-brazil-1998): חולצת רטרו נבחרת ברזיל 1998 איכותית ונוסטלגית לאוהדים אמיתיים
+  Updated: 2025-10-04T07:04:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_80d1e6d0-0272-49e8-b245-bb0a67b5516c.jpg?v=1738544652
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998?variant=46913002373370)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-1998?variant=46913002373370)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998?variant=46913002406138)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-1998?variant=46913002406138)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998?variant=46913002438906)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-1998?variant=46913002438906)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998?variant=46913002471674)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-1998?variant=46913002471674)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1998?variant=46913002504442)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-1998?variant=46913002504442)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 2002](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2002): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:08Z
+- [חולצת רטרו נבחרת ברזיל 2002](https://www.rsport.co.il/products/retro-shirt-brazil-2002): חולצת רטרו נבחרת ברזיל 2002 בעיצוב איקוני שמזכיר רגעי אליפות גדולים
+  Updated: 2025-10-04T07:05:11Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2002_2_aac409e9-b9aa-498d-b14c-ecfcf453c66f.jpg?v=1738544653
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2002?variant=46913056112890)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-2002?variant=46913056112890)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2002?variant=46913056145658)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-2002?variant=46913056145658)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2002?variant=46913056178426)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-2002?variant=46913056178426)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2002?variant=46913056211194)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-2002?variant=46913056211194)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2002?variant=46913056243962)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-2002?variant=46913056243962)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 1993/94](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1993-94): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:09Z
+- [חולצת רטרו נבחרת ברזיל 1993/94](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94): חולצת רטרו נבחרת ברזיל 1993/94 עם עיצוב קלאסי ונוסטלגי
+  Updated: 2025-10-04T07:06:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/93_94_63b26b79-f1af-4328-91b6-2347e0d22a86.jpg?v=1738544649
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1993-94?variant=46913060536570)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94?variant=46913060536570)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1993-94?variant=46913060569338)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94?variant=46913060569338)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1993-94?variant=46913060602106)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94?variant=46913060602106)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1993-94?variant=46913060634874)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94?variant=46913060634874)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1993-94?variant=46913060667642)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94?variant=46913060667642)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 2006](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2006): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:09Z
+- [חולצת רטרו נבחרת ברזיל 2006](https://www.rsport.co.il/products/retro-shirt-brazil-2006): חולצת רטרו נבחרת ברזיל 2006 בסגנון איקוני, נוחה וקלה ללבישה
+  Updated: 2025-10-04T07:07:51Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2006_0a8f287d-11bd-47e3-8f66-02bd1d138d10.jpg?v=1738544656
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2006?variant=46913064665338)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-2006?variant=46913064665338)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2006?variant=46913064698106)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-2006?variant=46913064698106)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2006?variant=46913064730874)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-2006?variant=46913064730874)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2006?variant=46913064763642)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-2006?variant=46913064763642)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2006?variant=46913064796410)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-2006?variant=46913064796410)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 2004/06](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2004-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:09Z
+- [חולצת רטרו נבחרת ברזיל 2004/06](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06): חולצת רטרו נבחרת ברזיל 2004/06 באיכות גבוהה, מתאימה לאימון ולחיי היום יום
+  Updated: 2025-10-04T07:12:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2004_06.jpg?v=1738544655
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2004-06?variant=46913068400890)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06?variant=46913068400890)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2004-06?variant=46913068433658)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06?variant=46913068433658)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2004-06?variant=46913068466426)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06?variant=46913068466426)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2004-06?variant=46913068499194)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06?variant=46913068499194)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-2004-06?variant=46913068531962)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06?variant=46913068531962)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 1997](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1997): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:10Z
+- [חולצת רטרו נבחרת ברזיל 1997](https://www.rsport.co.il/products/retro-shirt-brazil-1997): חולצת רטרו נבחרת ברזיל 1997 נוחה ונוסטלגית למגרש וליום יום
+  Updated: 2025-10-04T07:12:14Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1997.jpg?v=1738544652
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1997?variant=46913071022330)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-1997?variant=46913071022330)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1997?variant=46913071055098)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-1997?variant=46913071055098)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1997?variant=46913071087866)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-1997?variant=46913071087866)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1997?variant=46913071120634)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-1997?variant=46913071120634)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1997?variant=46913071153402)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-1997?variant=46913071153402)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל 1991/93](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1991-93): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:10Z
+- [חולצת רטרו נבחרת ברזיל 1991/93](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93): חולצת רטרו נבחרת ברזיל 1991/93 עם עיצוב מיוחד שמחזיר את רוח המשחק
+  Updated: 2025-10-04T07:13:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/91_93_86d93426-e264-4851-b750-77d5d4580c86.jpg?v=1738544648
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1991-93?variant=46913073381626)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93?variant=46913073381626)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1991-93?variant=46913073414394)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93?variant=46913073414394)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1991-93?variant=46913073447162)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93?variant=46913073447162)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1991-93?variant=46913073479930)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93?variant=46913073479930)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-1991-93?variant=46913073512698)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93?variant=46913073512698)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל חוץ 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:11Z
+- [חולצת רטרו נבחרת ברזיל חוץ 1998](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998): חולצת רטרו נבחרת ברזיל חוץ 1998 בסגנון קלאסי ונוסטלגי לאוהדים
+  Updated: 2025-10-04T07:15:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_4dd007f8-524f-4bbd-ae73-be78551c64c0.jpg?v=1738544657
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-1998?variant=46913084489978)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998?variant=46913084489978)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-1998?variant=46913084522746)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998?variant=46913084522746)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-1998?variant=46913084555514)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998?variant=46913084555514)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-1998?variant=46913084588282)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998?variant=46913084588282)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-1998?variant=46913084621050)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998?variant=46913084621050)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת ברזיל חוץ 2004/06](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:11Z
+- [חולצת רטרו נבחרת ברזיל חוץ 2004/06](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06): חולצת רטרו נבחרת ברזיל חוץ 2004/06 בעיצוב איכותי, מושלמת לאוהדים וליום יום
+  Updated: 2025-10-04T07:16:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2002_0782d705-fc2c-4309-a454-efcb1140c896.jpg?v=1738544659
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06?variant=46913088520442)
+  - [S](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06?variant=46913088520442)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06?variant=46913088553210)
+  - [M](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06?variant=46913088553210)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06?variant=46913088585978)
+  - [L](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06?variant=46913088585978)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06?variant=46913088618746)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06?variant=46913088618746)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-ברזיל-חוץ-2004-06?variant=46913088651514)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06?variant=46913088651514)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חליפת ילדים ברזיל 1998 | רטרו בצבעי הסלסאו](https://www.rsport.co.il/products/retro-kids-suit-braz-1998): חליפת ילדים רטרו נבחרת ברזיל 1998 מחזירה את האווירה של מונדיאל צרפת והתקופה בה הנבחרת הציגה כדורגל מרגש עם שחקנים אגדיים. החליפה כוללת חולצה ומכנס, עשויה 100% פוליאסטר קל ונושם, המנדף זיעה ושומר על תחושת יובש לאורך כל פעילות. הגזרה מותאמת לילדים לנוחות מקסימלית, ומאפשרת חופש תנועה מלא במשחק, באימון או ביום יום. עיצוב בצבעי הצהוב-ירוק המזוהים עם הסלסאו, לחיבור אמיתי בין הדור הצעיר למסורת הכדורגל הברזילאי.
@@ -16903,109 +16903,109 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-באיירן-מינכן-חוץ-1998-00?variant=46915316613370)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת הולנד בית 1988](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1988): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:49Z
+- [חולצת רטרו נבחרת הולנד בית 1988](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1988): חולצת רטרו נבחרת הולנד בית 1988 עם עיצוב אלמותי שמזכיר רגעי זהב במגרש
+  Updated: 2025-10-04T07:26:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_68ebf677-b9bb-4233-a67b-61e1469a0e6c.jpg?v=1738544669
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1988?variant=46915332178170)
+  - [S](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1988?variant=46915332178170)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1988?variant=46915332210938)
+  - [M](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1988?variant=46915332210938)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1988?variant=46915332243706)
+  - [L](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1988?variant=46915332243706)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1988?variant=46915332276474)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1988?variant=46915332276474)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1988?variant=46915332309242)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1988?variant=46915332309242)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת הולנד בית 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:49Z
+- [חולצת רטרו נבחרת הולנד בית 1998](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998): חולצת רטרו נבחרת הולנד בית 1998 בעיצוב מודרני עם נגיעה נוסטלגית
+  Updated: 2025-10-04T07:24:02Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_79f9ff59-dc85-4107-b19e-fc74ea780f22.jpg?v=1738544671
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1998?variant=46915333718266)
+  - [S](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998?variant=46915333718266)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1998?variant=46915333751034)
+  - [M](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998?variant=46915333751034)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1998?variant=46915333783802)
+  - [L](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998?variant=46915333783802)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1998?variant=46915333816570)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998?variant=46915333816570)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1998?variant=46915333849338)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998?variant=46915333849338)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת הולנד חוץ 1988](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-חוץ-1988): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:50Z
+- [חולצת רטרו נבחרת הולנד חוץ 1988](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988): חולצת רטרו נבחרת הולנד חוץ 1988 בעיצוב איקוני שמחזיר את רוח האליפות
+  Updated: 2025-10-04T07:23:07Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_579ee65a-9761-4027-9d12-2787ceebfc12.jpg?v=1738544676
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-חוץ-1988?variant=46915334603002)
+  - [S](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988?variant=46915334603002)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-חוץ-1988?variant=46915334635770)
+  - [M](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988?variant=46915334635770)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-חוץ-1988?variant=46915334668538)
+  - [L](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988?variant=46915334668538)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-חוץ-1988?variant=46915334701306)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988?variant=46915334701306)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-חוץ-1988?variant=46915334734074)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988?variant=46915334734074)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת הולנד בית 1990](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1990): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:50Z
+- [חולצת רטרו נבחרת הולנד בית 1990](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990): חולצת רטרו נבחרת הולנד בית 1990 עם עיצוב אייקוני ונוסטלגי לאוהדים אמיתיים
+  Updated: 2025-10-04T07:22:21Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8ff9ee68-845f-472e-8898-b7710fd45673.jpg?v=1738544671
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1990?variant=46915335356666)
+  - [S](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990?variant=46915335356666)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1990?variant=46915335389434)
+  - [M](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990?variant=46915335389434)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1990?variant=46915335422202)
+  - [L](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990?variant=46915335422202)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1990?variant=46915335454970)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990?variant=46915335454970)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-1990?variant=46915335487738)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990?variant=46915335487738)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת הולנד בית 2002/04](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-2002-04): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:51Z
+- [חולצת רטרו נבחרת הולנד בית 2002/04](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04): חולצת רטרו נבחרת הולנד בית 2002/04 בעיצוב קלאסי ונוח, מושלמת לאוהדים וליום יום
+  Updated: 2025-10-04T07:21:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_b89625a7-0d44-44fe-9bf5-099dd6b1a359.jpg?v=1738544673
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-2002-04?variant=46915345514746)
+  - [S](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04?variant=46915345514746)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-2002-04?variant=46915345547514)
+  - [M](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04?variant=46915345547514)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-2002-04?variant=46915345580282)
+  - [L](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04?variant=46915345580282)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-2002-04?variant=46915345613050)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04?variant=46915345613050)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-הולנד-בית-2002-04?variant=46915345645818)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04?variant=46915345645818)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה חוץ 1992/95](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-חוץ-1992-95): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -17386,193 +17386,193 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-2005-06?variant=46915537043706)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה 1990](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-1990): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:59Z
+- [חולצת רטרו נבחרת גרמניה 1990](https://www.rsport.co.il/products/retro-shirt-germany-1990): חולצת רטרו נבחרת גרמניה 1990 בעיצוב נוסטלגי ואיכותי, חוויה מושלמת למגרש וליום יום
+  Updated: 2025-10-04T07:30:21Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_86f96620-2062-48f5-a7dc-114513ca72b0.jpg?v=1738544660
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-1990?variant=46915578265850)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578265850)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-1990?variant=46915578298618)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578298618)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-1990?variant=46915578331386)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578331386)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-1990?variant=46915578364154)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578364154)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-1990?variant=46915578396922)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578396922)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמנית בית 1994](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמנית-בית-1994): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:00Z
+- [חולצת רטרו נבחרת גרמנית בית 1994](https://www.rsport.co.il/products/retro-shirt-germany-home-1994): חולצת רטרו נבחרת גרמניה בית 1994 בעיצוב איכותי, מושלמת לאוהדים ונוסטלגיה
+  Updated: 2025-10-04T07:30:21Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_84df819f-6d6d-45e8-b08a-da47c102ca60.jpg?v=1738544668
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמנית-בית-1994?variant=46915585376506)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585376506)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמנית-בית-1994?variant=46915585409274)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585409274)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמנית-בית-1994?variant=46915585442042)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585442042)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמנית-בית-1994?variant=46915585474810)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585474810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמנית-בית-1994?variant=46915585507578)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585507578)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה בית 1996](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1996): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:00Z
+- [חולצת רטרו נבחרת גרמניה בית 1996](https://www.rsport.co.il/products/retro-shirt-germany-home-1996): חולצת רטרו נבחרת גרמניה בית 1996 בעיצוב אייקוני ונוח, חוויה מושלמת לאוהדים
+  Updated: 2025-10-04T07:30:21Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_0b1d9fd9-8cc7-4e4c-ac83-6ebba0580337.jpg?v=1738544660
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1996?variant=46915587080442)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587080442)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1996?variant=46915587113210)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587113210)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1996?variant=46915587145978)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587145978)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1996?variant=46915587178746)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587178746)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1996?variant=46915587211514)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587211514)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה בית 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:00Z
+- [חולצת רטרו נבחרת גרמניה בית 1998](https://www.rsport.co.il/products/retro-shirt-germany-home-1998): חולצת רטרו נבחרת גרמניה בית 1998 בעיצוב קלאסי לנוסטלגיה של משחקים גדולים
+  Updated: 2025-10-04T07:30:21Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_b18c08b3-8b25-44fd-adb2-697568d20412.jpg?v=1738544662
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1998?variant=46915589734650)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589734650)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1998?variant=46915589767418)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589767418)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1998?variant=46915589800186)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589800186)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1998?variant=46915589832954)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589832954)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-1998?variant=46915589865722)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589865722)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה בית 2014](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2014): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:01Z
+- [חולצת רטרו נבחרת גרמניה בית 2014](https://www.rsport.co.il/products/retro-shirt-germany-home-2014): חולצת רטרו נבחרת גרמניה בית 2014 בעיצוב אלגנטי ומודרני, חוויה מושלמת למגרש וליום יום
+  Updated: 2025-10-04T07:30:21Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_9d50b96d-42ce-4c33-86dc-2118e49cd018.jpg?v=1738544664
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2014?variant=46915594125562)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-2014?variant=46915594125562)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2014?variant=46915594158330)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-2014?variant=46915594158330)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2014?variant=46915594191098)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-2014?variant=46915594191098)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2014?variant=46915594223866)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-2014?variant=46915594223866)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2014?variant=46915594256634)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-2014?variant=46915594256634)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה בית 2006](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2006): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:01Z
+- [חולצת רטרו נבחרת גרמניה בית 2006](https://www.rsport.co.il/products/retro-shirt-germany-home-2006): חולצת רטרו נבחרת גרמניה בית 2006 בעיצוב איכותי ונוח, מושלמת לאוהדים ומגרש
+  Updated: 2025-10-04T07:30:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_74833985-2b41-495c-9d2a-61fa559a1bf2.jpg?v=1738544663
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2006?variant=46915597402362)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-2006?variant=46915597402362)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2006?variant=46915597435130)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-2006?variant=46915597435130)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2006?variant=46915597467898)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-2006?variant=46915597467898)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2006?variant=46915597500666)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-2006?variant=46915597500666)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-בית-2006?variant=46915597533434)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-2006?variant=46915597533434)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה חוץ 1994](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1994): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:13Z
+- [חולצת רטרו נבחרת גרמניה חוץ 1994](https://www.rsport.co.il/products/retro-shirt-germany-away-1994): חולצת רטרו נבחרת גרמניה חוץ 1994 עם עיצוב אייקוני לנוסטלגיה וספורטיביות יומיומית
+  Updated: 2025-10-04T07:30:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_c4c87b56-f95d-48e5-9ac2-dcbca480e18b.jpg?v=1738544665
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1994?variant=46915598811386)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-away-1994?variant=46915598811386)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1994?variant=46915598844154)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-away-1994?variant=46915598844154)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1994?variant=46915598876922)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-away-1994?variant=46915598876922)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1994?variant=46915598909690)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-away-1994?variant=46915598909690)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1994?variant=47144504852730)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-away-1994?variant=47144504852730)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה חוץ 1998](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1998): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:02Z
+- [חולצת רטרו נבחרת גרמניה חוץ 96-98](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98): חולצת רטרו נבחרת גרמניה חוץ 96-98 בעיצוב קלאסי ונוח, לאוהדים שרוצים להרגיש חלק מהנבחרת
+  Updated: 2025-10-04T07:42:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_a25d58c0-5ab9-4c96-999d-e14b651b4c68.jpg?v=1738544666
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1998?variant=46915601760506)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98?variant=46915601760506)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1998?variant=46915601793274)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98?variant=46915601793274)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1998?variant=46915601826042)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98?variant=46915601826042)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1998?variant=46915601858810)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98?variant=46915601858810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-1998?variant=46915601891578)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98?variant=46915601891578)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו נבחרת גרמניה חוץ 2014](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:15:02Z
+- [חולצת רטרו נבחרת גרמניה חוץ 2014](https://www.rsport.co.il/products/retro-shirt-germany-away-2014): חולצת רטרו נבחרת גרמניה חוץ 2014 בעיצוב מודרני ונוסטלגי, מושלמת לאוהדים
+  Updated: 2025-10-04T07:32:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_70b73952-3354-4fe5-b317-b66a22992a3d.jpg?v=1738544667
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014?variant=46915605364986)
+  - [S](https://www.rsport.co.il/products/retro-shirt-germany-away-2014?variant=46915605364986)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014?variant=46915605397754)
+  - [M](https://www.rsport.co.il/products/retro-shirt-germany-away-2014?variant=46915605397754)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014?variant=46915605430522)
+  - [L](https://www.rsport.co.il/products/retro-shirt-germany-away-2014?variant=46915605430522)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014?variant=46915605463290)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-germany-away-2014?variant=46915605463290)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-נבחרת-גרמניה-חוץ-2014?variant=46915605496058)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-away-2014?variant=46915605496058)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חליפת אימון ז'קט מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/man-utd-training-jacket-24-25-men): חליפת אימון ארוכה הכוללת ז'קט ומכנס ארוך היא פתרון מעולה לאימונים במהלך החורף עשויה מ-100% פוליאסטר קל ונושם, המסייע בהסרת לחות ושמירה על חום הגוף. עם עיצוב הכולל רוכסן מלא, ניתן להסדיר את הטמפרטורה בקלות, מה שהופך אותה למתאימה גם לשימוש יומיומי. הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: ז'קט אימון ומכנס ארוך אורך שרוול: ארוך צווארון: רוכסן מלא גזרה: רגילה מכנס ארוך תואם
@@ -46184,10 +46184,10 @@
   Updated: 2025-10-03T13:05:25Z
   Total Products: 16
 - [חולצות רטרו](https://www.rsport.co.il/collections/חולצות-רטרו)
-  Updated: 2025-10-02T11:15:32Z
+  Updated: 2025-10-04T07:41:43Z
   Total Products: 203
 - [נבחרות רטרו](https://www.rsport.co.il/collections/נבחרות-רטרו)
-  Updated: 2025-10-02T11:15:14Z
+  Updated: 2025-10-04T07:41:43Z
   Total Products: 46
 - [נבחרת צרפת רטרו](https://www.rsport.co.il/collections/נבחרת-צרפת-רטרו)
   Updated: 2025-10-02T11:14:05Z
@@ -46247,7 +46247,7 @@
   Updated: 2025-10-02T11:15:15Z
   Total Products: 18
 - [גרמניה רטרו](https://www.rsport.co.il/collections/גרמניה-רטרו)
-  Updated: 2025-10-02T11:15:14Z
+  Updated: 2025-10-04T07:41:43Z
   Total Products: 9
 - [אימוניות](https://www.rsport.co.il/collections/אימוניות)
   Updated: 2025-09-26T15:26:05Z
@@ -46343,7 +46343,7 @@
   Updated: 2025-10-02T11:31:50Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-10-02T13:33:14Z
+  Updated: 2025-10-04T07:41:43Z
   Total Products: 700
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-10-02T11:28:25Z
@@ -46427,7 +46427,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-03T17:44:54Z
+  Updated: 2025-10-04T07:41:43Z
   Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
