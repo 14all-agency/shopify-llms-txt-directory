@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-04T16:01:03.483Z
+- Updated At: 2025-10-04T20:01:07.619Z
 
 ## Products
 
@@ -2656,7 +2656,7 @@ ainda um cartão de crédito!
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/domino-de-28-pecas-86632721-brincatoys-1178693486.jpg?v=1752839644
   Price: 13,50 € EUR
 - [Dominó Patrulha Pata](https://brincatoys.pt/products/domino-patrulha-pata): No dominó Patrulha Pata, as crianças revezam-se na colocação das suas cartas de dominó. Os cartões só podem ser colocados nas duas extremidades e as mesmas imagens devem estar sempre próximas uma da outra. Ganha quem for o primeiro a colocar todas as suas cartas de dominó. Neste jogo clássico, a percepção e a concentração são promovidas de forma...
-  Updated: 2025-10-04T13:21:07Z
+  Updated: 2025-10-04T17:15:55Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -2987,7 +2987,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-arrow-felicity-smoak-23033315-0761941332796-dc-comics-1178693563.jpg?v=1752840842
   Price: 26,90 € EUR
 - [Figura Avengers Infinity War](https://brincatoys.pt/products/figura-avengers-infinity-war): Figura Black Widow da Marvel com 25 cm. Dimensão: 30 x 8 x 4 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-09-30T07:30:31Z
+  Updated: 2025-10-04T18:03:46Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -3886,7 +3886,7 @@ Norte da África.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-top-trump-lol-177021319-brincatoys-1178693821.png?v=1752845899
   Price: 6,00 € EUR
 - [Jogo de cartas Top Trump Patrulha da Pata](https://brincatoys.pt/products/jogo-de-cartas-top-trump-patrulha-da-pata): Junta-te ao Chase e à sua equipa em algumas missões incríveis da Patrulha Pata. Descobre as suas aventuras, heroísmo, diversão e trabalho de equipa neste pack incrível de Top Trumps Patrulha Pata. Como jogar top trumps ?  1 - Baralham-se todas as cartas e distribuem-se com a face voltada para baixo;  2 - Cada jogador pode ver apenas a primeira das
-  Updated: 2025-09-29T17:11:03Z
+  Updated: 2025-10-04T17:15:55Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -3943,7 +3943,7 @@ As cartas são em plástico, mais duradouras e resistentes à água para jogar e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-memoria-862087722-brincatoys-1178693834.jpg?v=1752846136
   Price: 16,99 € EUR
 - [Jogo de Memória Fada Arco-íris](https://brincatoys.pt/products/jogo-de-memoria-fada-arco-iris): Há muita diversão neste jogo de Memória com 36 super cartões empilhados num lindo estojo reutilizável. Estes lindos cartões são ilustrados com o fantástico design Rainbow Fairy com fadas, unicórnios, arco-íris, ursos e muito mais. Com fabulosos detalhes folheados e padrões encantadores, você encontrará 18 pares de imagens correspondentes neste pres
-  Updated: 2025-09-30T00:50:55Z
+  Updated: 2025-10-04T16:31:24Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -6124,14 +6124,14 @@ por que são cães pastores tão populares.Figura em borracha termoplástica nã
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pato-real-433322925-0095866233204-brincatoys-1178694533.webp?v=1752858138
   Price: 6,00 € EUR
 - [Brinquedos da Patrulha Pata Rubble - Diversão para Crianças](https://brincatoys.pt/products/patrulha-pata-rubble): Descubra os Brinquedos da Patrulha Pata Rubble eco-friendly e robusto para horas de jogo imaginativo e educação ambientaL do seu pequeno herói.
-  Updated: 2025-10-04T09:57:36Z
+  Updated: 2025-10-04T17:15:55Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-rubble-diversao-para-criancas-550375425-0681147037540-patrulha-pata-1183753454.jpg?v=1756214411
   Price: 19,99 € EUR
 - [Brinquedos da Patrulha Pata Ryder – Aventura para Crianças](https://brincatoys.pt/products/patrulha-pata-ryder): Liderança e diversão ecológica aguardam com o Brinquedo da Patrulha Pata Ryder! Perfeito e com diversão garantida para jovens fãs da série.
-  Updated: 2025-09-29T20:56:38Z
+  Updated: 2025-10-04T17:15:55Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -7769,7 +7769,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-2x20-unicornios-e-fadas-551806420-brincatoys-1178695075.png?v=1752868564
   Price: 9,50 € EUR
 - [Puzzle 33 peças -Patrulha Pata-](https://brincatoys.pt/products/puzzle-33-pecas-patrulha-pata): Puzzle composto por grandes peças, perfeitamente acabadas para que o manuseamento pelas crianças seja simples e seguro.  Dimensão: 37 x 29 x 1 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-30T03:26:22Z
+  Updated: 2025-10-04T17:15:55Z
   Vendor: Patrulha Pata
   Product Type: + 4 anos
   Availability: Available
@@ -8240,7 +8240,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-progressivo-quatro-estacoes-220265821-brincatoys-1178695228.jpg?v=1752810380
   Price: 15,99 € EUR
 - [Puzzle Rainbow High 104 pçs](https://brincatoys.pt/products/puzzle-rainbow-high-104-pcs): Estimule a imaginação e as habilidades motoras com o Puzzle Rainbow High 104 pçs. As crianças vão adorar montar a ilustração das personagens encantadoras!
-  Updated: 2025-09-30T03:06:28Z
+  Updated: 2025-10-04T16:31:23Z
   Vendor: Rainbow High
   Product Type: + 6 anos
   Availability: Available
@@ -8429,14 +8429,14 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/quinta-em-madeira-618285515-brincatoys-1178695277.jpg?v=1752871460
   Price: 17,10 € EUR
 - [Rainbow High Meena Fleur](https://brincatoys.pt/products/rainbow-high-meena-fleur): Meena é de Nova Delhi, na Índia, e adora compartilhar sua herança com os amigos, como a arte corporal mehndi nas suas mãos. O foco de Meena é o design de acessórios e adora criar joias especiais para incrementar suas roupas de moda. Ela veste um top de um ombro com detalhes de tachas, calça dourada metalizada com cordão na panturrilha, sapatos plat
-  Updated: 2025-09-29T21:18:22Z
+  Updated: 2025-10-04T16:37:11Z
   Vendor: Rainbow High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/rainbow-high-meena-fleur-557828422-0035051578284-rainbow-high-1178695280.jpg?v=1752871569
   Price: 44,99 € EUR
 - [Rainbow High Mila Berrymore](https://brincatoys.pt/products/rainbow-high-mila-berrymore): Rainbow High Mila Berrymore tem um desenho único e está completamente vestida de vermelho borgonha. Cada boneca vem com dois fatos e acessórios a condizer. O primeiro fato da Mila é um casaco em pele semi-couro, saia plissada, top em malha, collants e botas com padrão RH. O segundo é um vestido de veludo com botas de joelho alto.Cada boneca vem com
-  Updated: 2025-09-29T21:18:28Z
+  Updated: 2025-10-04T16:37:03Z
   Vendor: Rainbow High
   Product Type: + 6 anos
   Availability: Available
@@ -9236,7 +9236,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-2-rodas-toy-story-850361922-toy-story-1178695544.jpg?v=1752877202
   Price: 36,99 € EUR
 - [Trotinete 3 Rodas da Patrulha Pata](https://brincatoys.pt/products/trotinete-3-rodas-da-patrulha-pata): Trotinete decorada com as cores e desenhos da Patrulha Pata com 3 rodas (2 traseiras e 1 dianteira), com grande estabilidade, ideal para os mais pequenos.. A base de apoio para os pés é larga e anti-derrapante. Uma trotinete com bolsa porta-objetos frontal. Peso máximo: 20kg.  Dimensão: 47,50 x 22 x 14 cm. Idade Recomendada: + de 2 anos.
-  Updated: 2025-09-29T17:08:58Z
+  Updated: 2025-10-04T17:15:55Z
   Vendor: Patrulha Pata
   Product Type: + 2 anos
   Availability: Available
@@ -9302,7 +9302,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-de-2-rodas-da-frozen-172822121-princesas-disney-1178695564.jpg?v=1752808214
   Price: 34,50 € EUR
 - [Trotinete de 2  Rodas da Patrulha Pata](https://brincatoys.pt/products/trotinete-de-2-rodas-da-patrulha-pata): A Trotinete de alumínio da Patrulha Pata é leve e fácil de manejar, apresentando 2 rodas de silicone, travão na roda traseira, plataforma anti-derrapante, guiador ajustável em altura e estrutura dobrável. O guiador é ajustável em diferentes alturas (72 a 76,5 cm) e a trotinete suporta o peso de uma criança até 50 Kg. A trotinete em alumínio da Patr
-  Updated: 2025-09-29T17:08:52Z
+  Updated: 2025-10-04T17:15:54Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
@@ -11263,7 +11263,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/roblox-brookhaven-hair-nails-brincatoys-230023523-roblox-1178696298.jpg?v=1752805341
   Price: 23,50 € EUR
 - [Roblox - Tower of Hell: Chromatic Climb | Brincatoys](https://brincatoys.pt/products/roblox-tower-of-hell-chromatic-climb): Inspirado na Torre do Inferno da YXCeptional Studios, mostra que tu tens o que é preciso para chegar ao topo com estes aventureiros icônicos! Pule em plataformas coloridas, suba em vigas brilhantes e faça o possível para evitar a trilha de armadilhas antes que o tempo acabe. Um caldeirão ardente para marcar a sua vitória espera no alto. Apenas lemb
-  Updated: 2025-09-29T17:32:00Z
+  Updated: 2025-10-04T19:10:07Z
   Vendor: Roblox
   Product Type: + 6 anos
   Availability: Available
@@ -11543,7 +11543,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-fashionista-meschas-violeta-brincatoys-20020223-0194735002023-barbie-1178696442.jpg?v=1752892930
   Price: 15,99 € EUR
 - [Brinquedos da Patrulha Pata Rocky - Aprender com diversão](https://brincatoys.pt/products/patrulha-pata-rocky): Explore a diversão e a educação ambiental com o Brinquedo da Patrulha Pata Rocky! Ideal para crianças criativas e preocupadas com o planeta.
-  Updated: 2025-09-29T21:14:21Z
+  Updated: 2025-10-04T17:18:29Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -11557,7 +11557,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-batman-classico-30-cm-brincatoys-773439023-dc-comics-1178696453.jpg?v=1752893181
   Price: 18,99 € EUR
 - [Patrulha Pata Cavaleiros - Rocky | Brincatoys](https://brincatoys.pt/products/patrulha-pata-cavaleiros-rocky): Ao resgate com o veículo medieval da Patrulha Pata Rocky. Apresenta detalhes realistas. Leva o patrulheiro Rocky para o céu com o seu veículo e cria aventuras e resgates inesquecíveis.O veículo não necessita de pilhas, para que tu possas entrar em ação. Empurra o spoiler para activar a sua ferramenta de resgate articulada e usa-a para eliminar obst
-  Updated: 2025-09-30T01:12:19Z
+  Updated: 2025-10-04T17:18:29Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -12530,7 +12530,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-das-setas-magnetico-america-diversao-familiar-segura-128201824-5414561820185-brincatoys-1178696868.jpg?v=1752900732
   Price: 29,99 € EUR
 - [Frasco de Coloridos Berlindes Sortidos: Uma Explosão de Cores](https://brincatoys.pt/products/frasco-de-coloridos-berlindes-sortidos): Descubra um mundo de cores e texturas com o incrível Frasco de Coloridos Berlindes Sortidos! Divirta-se por horas com esta coleção encantadora.
-  Updated: 2025-09-29T19:13:15Z
+  Updated: 2025-10-04T19:10:12Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -13234,7 +13234,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/firebuds-violet-axl-778979623-firebuds-1178697221.webp?v=1752906724
   Price: 22,99 € EUR
 - [Brinquedo da Patrulha Pata - Zuma Hovercraft](https://brincatoys.pt/products/patrulha-pata-zuma): Brinquedo da Patrulha Pata - Zuma Hovercraft. Leve para casa a ação aquática da série favorita das crianças. Figura e hovercraft realista para divertir!
-  Updated: 2025-10-04T15:16:49Z
+  Updated: 2025-10-04T17:18:28Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -13262,7 +13262,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pinguim-de-peluche-521903323-7340031379908-brincatoys-1178697236.jpg?v=1752907088
   Price: 22,99 € EUR
 - [Princesa Disney Rapunzel](https://brincatoys.pt/products/princesa-disney-rapunzel): Recria e imagina as tuas histórias e aventuras favoritas com a boneca Princesas Disney Rapunzel (15 cm), articulada, com lindos detalhes no seu vestido e um mini pente para brincar com os seus cabelos.  Dimensão:10,50 x 19 x 6 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:22:25Z
+  Updated: 2025-10-04T17:27:37Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -13500,7 +13500,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-aventura-de-ferias-no-iglu-664176023-5702017463513-lego-1178697378.jpg?v=1752909016
   Price: 54,50 € EUR
 - [Brinquedos da Patrulha Pata: The Mighty Movie - Zuma](https://brincatoys.pt/products/patrulha-pata-the-mighty-movie-zuma): Descubra os Brinquedos da Patrulha Pata: The Mighty Movie - Zuma! Perfeito para aventuras criativas, compra agora e ofereça diversão e educação.
-  Updated: 2025-09-30T01:45:28Z
+  Updated: 2025-10-04T17:18:28Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -13805,7 +13805,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-cinderela-772187623-2600000-princesas-disney-1178697576.jpg?v=1752800658
   Price: 19,99 € EUR
 - [Freak Marbles Surpresa](https://brincatoys.pt/products/freak-marbles-surpresa): Freak Marbles é o novo brinquedo da moda! Estes berlindes são feitos de vidro de alta qualidade e estão disponíveis numa variedade de cores e designs. São perfeitos para brincar, colecionar ou simplesmente admirar! Cada embalagem surpresa Freak Marbles contém 1 berlinde Freak Marble aleatório e 1 uma Skin. Não sabes qual encontrarás, por isso, prepara-te para te surpreender! Freak Marbles são um ótimo presente para qualquer ocasião. Encomende hoje a tua embalagem surpresa Freak Marbles e descobre que surpresa te espera! Dimensão: 13 x 16,50 x 3 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-10-04T15:57:55Z
+  Updated: 2025-10-04T17:24:02Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -13819,7 +13819,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/triciclo-de-equilibrio-globber-para-criancas-823821023-brincatoys-1178697588.jpg?v=1752912855
   Price: 98,50 € EUR
 - [Peluche Patrulha Pata - Chase 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-chase-27cm): Apreciem a diversão e alegria de brincar com o incrível Peluche Patrulha Pata - Chase 27cm! Este adorável boneco de peluche, feito com materiais de alta qualidade, é suave ao toque e perfeito para abraços aconchegantes. O Peluche Patrulha Pata - Chase é uma réplica fiel do corajoso e aventureiro cão policia da popular série de televisão Patrulha Pata. Este brinquedo não só serve como um companheiro de brincadeiras, mas também ajuda a desenvolver a imaginação das crianças ao recriar as suas cenas favoritas da série. E não esqueçamos que Chase é sempre um exemplo de bravura e lealdade - valores importantes que queremos incutir nos nossos pequenos. Surpreenda o seu filho com o Peluche Patrulha Pata - Chase 27cm e observe o sorriso no rosto dele ao brincar com o seu novo amigo. Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-09-30T01:57:41Z
+  Updated: 2025-10-04T17:15:53Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
@@ -13833,7 +13833,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/uno-barbie-the-movie-231708423-0194735170845-uno-1178697598.webp?v=1752912962
   Price: 16,99 € EUR
 - [Carteira Squishmallows - Cam Fluffy](https://brincatoys.pt/products/carteira-squishmallows-cam-fluffy): A Carteira Squishmallows - Cam Fluffy é um acessório divertido e funcional que não vai querer deixar de fora da sua coleção. Feita com a mesma qualidade premium e atenção aos detalhes que os amados Squishmallows, esta carteira irá surpreendê-lo com a sua macieza inigualável e design adorável. Perfeita para guardar dinheiro, cartões e pequenos itens essenciais, a Carteira Squishmallows - Cam Fluffy também é um item de moda incrível. O seu design único e divertido irá certamente chamar a atenção e fazer destacar-se. Dimensão: 13,50 x 12 x 3 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-29T17:39:10Z
+  Updated: 2025-10-04T17:03:56Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -13896,21 +13896,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-de-cha-frozen-771792823-princesas-disney-1178697644.webp?v=1752798494
   Price: 16,99 € EUR
 - [Build a Bot - Chase](https://brincatoys.pt/products/build-a-bot-chase): Build a Bot e leva a experiência de robótica a um patamar superior, permitindo que as crianças construam e personalizem o seu próprio robô de estimação, que ganha vida com um simples bater de mãos. Esta ferramenta educativa proporciona uma experiência de aprendizagem STEAM, ajudando as crianças a construir um personagem funcional enquanto aprendem sobre engrenagens, energia elétrica e robótica. Com mais de 20 peças e um sistema exclusivo de clique e criação, as crianças podem construir o seu próprio personagem da Patrulha Pata. Além disso, o Build a Bot proporciona às crianças a confiança para desmontar e brincar com peças mecânicas, fomentando uma compreensão sólida da tecnologia. Este robô funciona com 2 pilhas AA, que não estão incluídas no pacote. Dimensão: 24,50 x 30 x 5,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T03:05:01Z
+  Updated: 2025-10-04T17:15:53Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/build-a-bot-chase-848555223-patrulha-pata-1178697646.jpg?v=1752798502
   Price: 32,50 € EUR
 - [Build a Bot - Skye](https://brincatoys.pt/products/build-a-bot-skye): Build a Bot e leva a experiência de robótica a um patamar superior, permitindo que as crianças construam e personalizem o seu próprio robô de estimação, que ganha vida com um simples bater de mãos. Esta ferramenta educativa proporciona uma experiência de aprendizagem STEAM, ajudando as crianças a construir um personagem funcional enquanto aprendem sobre engrenagens, energia elétrica e robótica. Com mais de 20 peças e um sistema exclusivo de clique e criação, as crianças podem construir o seu próprio personagem da Patrulha Pata. Além disso, o Build a Bot proporciona às crianças a confiança para desmontar e brincar com peças mecânicas, fomentando uma compreensão sólida da tecnologia. Este robô funciona com 2 pilhas AA, que não estão incluídas no pacote. Dimensão: 24,50 x 30 x 5,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T03:05:07Z
+  Updated: 2025-10-04T17:15:53Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/build-a-bot-skye-848556923-patrulha-pata-1178697648.jpg?v=1752798728
   Price: 32,50 € EUR
 - [Build a Bot - Marshall](https://brincatoys.pt/products/build-a-bot-marshall): Build a Bot e leva a experiência de robótica a um patamar superior, permitindo que as crianças construam e personalizem o seu próprio robô de estimação, que ganha vida com um simples bater de mãos. Esta ferramenta educativa proporciona uma experiência de aprendizagem STEAM, ajudando as crianças a construir um personagem funcional enquanto aprendem sobre engrenagens, energia elétrica e robótica. Com mais de 20 peças e um sistema exclusivo de clique e criação, as crianças podem construir o seu próprio personagem da Patrulha Pata. Além disso, o Build a Bot proporciona às crianças a confiança para desmontar e brincar com peças mecânicas, fomentando uma compreensão sólida da tecnologia. Este robô funciona com 2 pilhas AA, que não estão incluídas no pacote. Dimensão: 24,50 x 30 x 5,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T03:04:55Z
+  Updated: 2025-10-04T17:15:53Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -14029,28 +14029,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-signature-mariah-carey-559739523-0194735097395-barbie-signature-1178697720.jpg?v=1752799813
   Price: 124,90 € EUR
 - [Boneca Crystal Flyers Rainbow Glitter](https://brincatoys.pt/products/boneca-crystal-flyers-rainbow-glitter): Ilumina o céu com a boneca Crystal Flyers Rainbow Glitter. Crystal Flyers são as primeiros que podem realmente voar com a tua ajuda. Dentro do lindo ovo de cristal, encontrarás uma linda Crystal Flyer com asas brilhantes, um vestido de arco-íris e maquilhagem colorida a combinar. Remove a boneca do ovo e carrega-a com o cabo USB incluído. Quando estiver totalmente carregada, está pronta para dançar no ar e encher o céu com uma explosão de cores! Liga a tua boneca fada Pixie e as luzes LED no seu vestido começarão a pulsar e as suas asas brilhantes começarão a vibrar e girar. Deixa-a ir e ela voará magicamente para longe - usa o teu Pixie Power para guiá-la! Com um sensor integrado, a tua boneca Rainbow Glitter Idol Pixie pode sentir onde estão as tuas mãos enquanto a ajudas a voar dentro de casa. Levanta as mãos bem alto e ela voará alto, move-as para baixo e ela voará baixo, dançando no ar. Enquanto ela paira sobre as tuas mãos, o seu vestido brilha e as suas asas brilhantes brilham enquanto ela voa. Ela é tão linda! Com bastante prática, tu e o teu Pixie estão no caminho certo para se tornarem os melhores dançarinos aéreos da Hatchmosphere! No meio do vôo, podes agarrar com segurança as pernas da tua Pixie para reposicioná-la. Quando não estiver a voar, exibe a tua Pixie dentro do seu brilhante ovo de vidro transparente. Dimensão: 19 x 25 x 19 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-30T01:45:49Z
+  Updated: 2025-10-04T16:31:22Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-crystal-flyers-rainbow-glitter-774456923-brincatoys-1178697723.jpg?v=1752799822
   Price: 49,90 € EUR
 - [Shadow High - Rosie Redwood](https://brincatoys.pt/products/shadow-high-rosie-redwood): O arco-íris é para todos, incluindo as lindas amigas de Shadow High. Rosie Redwood está vestida de vermelho brilhante da cabeça aos pés. Ela expressa o seu próprio estilo num vestido vermelho, jaqueta branca de pele sintética, botas de cano alto e brincos grandes. O seu cabelo ruivo brilhante está penteado em 2 rabos de cavalo extralongos. O foco de Rosie é Cosmetologia, e ela adora testar a sua maquilhagem em si mesma e nas amigas e vem com pó compacto quadrado, pó compacto para blush e pó compacto para sombra. Possui cabeça, braços, mãos e pernas totalmente articulados para que possas posicioná-la de várias maneiras e exibi-la no suporte da boneca. Inclui 1 boneca Rosie Redwood Shadow High, 1 roupa, 1 par de botas, 1 brincos, 1 compacto de maquilhagem quadrado, 1 compacto de blush, 1 compacto de sombra para os olhos, 1 garrafa de água com canudo e suporte para boneca. Dimensão: 25,50 x 30,50 x 8 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-30T02:00:35Z
+  Updated: 2025-10-04T16:37:03Z
   Vendor: Rainbow High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/shadow-high-rosie-redwood-779279223-0035051592792-rainbow-high-1178697730.jpg?v=1752800061
   Price: 39,99 € EUR
 - [Shadow High - Lavender Lynn](https://brincatoys.pt/products/shadow-high-lavender-lynn): Deixe as suas verdadeiras cores brilharem – o arco-íris é para todos, incluindo as nossas lindas amigas únicos de Shadow High. A personalidade individual de cada boneca é expressa em seu estilo único e acessórios pessoais. Lavender Lynn está vestida de roxo lavanda da cabeça aos pés. Ela expressa o seu estilo próprio num vestido com detalhes em renda, botinhas, brincos de pérolas, colar com pingente. Além disso, ela usa óculos de leitura recatados e uma boina. O seu cabelo roxo lilás extra longo e muito claro está preso num único rabo de cavalo. Tem longos cílios reais e olhos de vidro. Na Shadow High, todos os alunos são criativos. Lavender Lynn, focada em fotografia, adora tirar fotos com a sua câmera e adora folhear a sua revista favorita durante a hora do chá. Como ela é totalmente articulada, a sua cabeça, braços, mãos e pernas dobram-se para muitas poses divertidas, incluindo aberturas! Ou podes exibi-la no suporte incluído. Inclui 1 Boneca fashion, 1 roupa completa de boneca, 1 par de botas de boneca, 1 par de brincos, 1 gancho de cabelo, 1 par de óculos, 1 câmera, 1 revista, 1 chávena e pires de chá e suporte de chá. Esta boneca proporcionará às crianças alegria sem fim e diversão imaginativa ao contar histórias. Dimensão: 25,50 x 30,50 x 8 cm.Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-30T02:00:42Z
+  Updated: 2025-10-04T16:37:03Z
   Vendor: Rainbow High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/shadow-high-lavender-lynn-779281523-rainbow-high-1178697736.jpg?v=1752800299
   Price: 39,99 € EUR
 - [Shadow High - Pinkie James](https://brincatoys.pt/products/shadow-high-pinkie-james): Deixe suas verdadeiras cores brilharem – o arco-íris é para todos, incluindo as nossas lindas amigas de Shadow High. A personalidade individual de cada boneca é expressa em seu estilo único e acessórios pessoais. Pinkie James está vestida de rosa da cabeça aos pés. Ela expressa o seu próprio estilo com sua blusa de ombros largos com mangas bufantes bordadas e uma saia com lindos gráficos de alfinetes de segurança. Tem lindos cabelos longos e trançados de um rosa brilhante, cílios longos e olhos de vidro. Na Shadow High, todos os alunos são criativos. Pinkie James é uma cineasta que adora criar, jogar e ler sobre jogos. Como ela é totalmente articulada, a sua cabeça, braços, mãos e pernas dobram-se para muitas poses divertidas, incluindo aberturas! Ou podes exibi-la no suporte incluído. Inclui 1 Boneca fashion, 1 roupa completa de boneca, 1 par de botas de boneca, 1 par de brincos, 1 par de óculos de sol, 1 consola de videojogo, 1 fone de ouvido, 1 revista e suporte para boneca. Com seu fone de ouvido Gamer, consola de jogo e evista de jogo, esta boneca proporcionará às crianças alegria sem fim e diversão imaginativa ao contar histórias. Dimensão: 25,50 x 30.50 x 8 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-09-30T02:00:49Z
+  Updated: 2025-10-04T16:37:03Z
   Vendor: Rainbow High
   Product Type: Bonecas
   Availability: Available
@@ -14169,7 +14169,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/veiculo-de-equilibrio-girafa-760495323-brincatoys-1178697814.jpg?v=1752914782
   Price: 44,99 € EUR
 - [Carteira Squishmallows - Fifi Fluffy](https://brincatoys.pt/products/carteira-squishmallows-fifi-fluffy): A Carteira Squishmallows - Fifi Fluffy é um acessório divertido e funcional que não vai querer deixar de fora da sua coleção. Feita com a mesma qualidade premium e atenção aos detalhes que os amados Squishmallows, esta carteira irá surpreendê-lo com a sua macieza inigualável e design adorável. Perfeita para guardar dinheiro, cartões e pequenos itens essenciais, a Carteira Squishmallows - Fifi Fluffy também é um item de moda incrível. O seu design único e divertido irá certamente chamar a atenção e fazer destacar-se. Dimensão: 13,50 x 12 x 3 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-29T17:54:42Z
+  Updated: 2025-10-04T17:03:56Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14379,7 +14379,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alcofa-para-bonecas-com-estampagem-unicornios-29210724-8435083692071-brincatoys-1178697944.jpg?v=1752916933
   Price: 28,50 € EUR
 - [Figura Pokémon Charizard - Brinquedo Select](https://brincatoys.pt/products/figura-pokemon-charizard): Adquira a sua Figura Pokémon Charizard articulada e reviva as batalhas épicas de Pokémon. Ótima para colecionadores e amantes das aventuras Pokémon!
-  Updated: 2025-09-29T17:51:05Z
+  Updated: 2025-10-04T17:23:51Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -14428,7 +14428,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-pikachu-e-quaxly-colecao-select-23335723-pokemon-1178697976.jpg?v=1752917643
   Price: 12,90 € EUR
 - [Carteira Squishmallows Mix Squish Fluffy - Fofo e Prático](https://brincatoys.pt/products/squishmallows-mix-squish-fluffy): Carteira Squishmallows Mix Squish Fluffy. Perfeita para um dia cheio de estilo, este acessório embala seus pertences com todo o conforto dos Squishmallows.
-  Updated: 2025-09-29T18:04:08Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14519,28 +14519,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-john-deere-9700-forage-harvester-664216824-5702017583532-lego-1178698044.jpg?v=1752796813
   Price: 48,99 € EUR
 - [Squishville Mini Squishmallows Esquadrão do Quadro de Honra](https://brincatoys.pt/products/squishmallows-esquadrao-do-quadro-de-honra): Conjunto Squishville Mini Squishmallows Esquadrão do Quadro de Honra! Brinquedos macios, seguros e perfeitos para crianças colecionarem e partilharem alegria.
-  Updated: 2025-09-29T17:36:20Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishville-mini-squishmallows-esquadrao-do-quadro-de-honra-23047224-squishville-1178698051.jpg?v=1752918498
   Price: 28,90 € EUR
 - [Squishville Mini Squishmallows Esquadrão Gastronómico](https://brincatoys.pt/products/squishmallows-esquadrao-gastronomico): Encontre os Squishville Mini Squishmallows Esquadrão Gastronómico para uma doce aventura! Peluches macios e detalhados, ideais para brincadeiras.
-  Updated: 2025-09-29T17:36:33Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishville-mini-squishmallows-esquadrao-gastronomico-23047424-squishville-1178698055.jpg?v=1752918728
   Price: 28,90 € EUR
 - [Squishville Mini Squishmallows Esquadrão Universitário](https://brincatoys.pt/products/squishmallows-esquadrao-universitario): Descubra os adoráveis Squishville Mini Squishmallows Esquadrão Universitário. Conheça estas fofuras de peluche que encantam pela suavidade e design único,
-  Updated: 2025-09-29T17:36:26Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishville-mini-squishmallows-esquadrao-universitario-23047324-squishville-1178698059.jpg?v=1752918741
   Price: 28,90 € EUR
 - [Squishmallows Esquadrão Violeta - Peluches Mágicos](https://brincatoys.pt/products/squishmallows-esquadrao-violeta): Descubra os Squishmallows Esquadrão Violeta! Peluches incrivelmente macios e adoráveis que são o presente ideal para estimular a imaginação.
-  Updated: 2025-09-29T17:37:17Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14750,21 +14750,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cinto-pokemon-pikachu-clip-n-go-com-figura-23316224-0191726483151-pokemon-1178698189.jpg?v=1752921609
   Price: 34,99 € EUR
 - [Squishmallows Prehistoric Squad - Peluches 5 cm](https://brincatoys.pt/products/squishville-mini-squishmallows-prehistoric-squad): Descubra os Squishville Mini Squishmallows Prehistoric Squad, uma coleção de mini pelúcias suaves inspiradas na pré-história. Perfeitos para abraçar e colecionar, ideais para todas as idades!
-  Updated: 2025-09-29T17:36:01Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishmallows-prehistoric-squad-peluches-5-cm-23046924-squishville-1178698201.jpg?v=1752921843
   Price: 22,99 € EUR
 - [Squishmallows Autumn Friends Squad - Peluches 5 cm](https://brincatoys.pt/products/squishville-mini-squishmallows-autumn-friends-squad): Encontre o presente ideal com o Squishville Mini Squishmallows Autumn Friends Squad. Macios, colecionáveis e prontos para brincadeiras outonais.
-  Updated: 2025-09-29T17:36:08Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishmallows-autumn-friends-squad-peluches-5-cm-23047024-squishville-1178698205.jpg?v=1752921854
   Price: 22,99 € EUR
 - [Squishmallows Cheer Squad - Peluche 5 cm](https://brincatoys.pt/products/squishville-mini-squishmallows-cheer-squad): Adquira o Squishville Mini Squishmallows Cheer Squad para a sua coleção ou como um presente encantador. Peluches macios e coloridas para alegria garantida.
-  Updated: 2025-09-29T17:35:55Z
+  Updated: 2025-10-04T17:03:55Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14820,7 +14820,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-marvel-divertimento-com-os-super-herois-233063824-marvel-1178698245.jpg?v=1752922568
   Price: 10,00 € EUR
 - [Squishville Mini Squishmallows – Dream Couple Squad](https://brincatoys.pt/products/squishmallows-dream-couple-squad): Dois amigos pensam melhor que um, principalmente quando se encaixam perfeitamente, como os amigos do casal dos sonhos Squad! O pack de 4 vem com alguns dos mini squishmallows mais populares no tamanho exclusivo de 5 cm, O Squishville Mini Squishmallows Dream Couple Squad é uma coleção de pequenos bonecos de peluche, de aproximadamente 5 cm cada um, com uma personalidade única e encantadora. Inclui as melhores amigas Jackie, Andreina, Melly e Neoona O Squishville Mini Squishmallows Dream Couple Squad é uma ótima opção para os amantes de Squishmallows, para aqueles que desejam adicionar mais personagens à sua coleção ou para aqueles que desejam dar um presente encantador e único. Com uma variedade de personagens e cores disponíveis, há algo para todos os gostos e preferências. Cada Squishmallow Dream Couple Squad vem com a sua própria personalidade e design exclusivo, destacando-se pela textura macia e confortável para as brincadeiras do dia-a-dia. Com aproximadamente 5 centímetros de altura, estes mini amigos são perfeitos para colecionar, trocar com amigos ou até como companheiros de viagem. A durabilidade e a qualidade são uma promessa da marca Squishmallows, e estes pequeninos não são exceção. São construídos para durar, resistindo ao desgaste do uso contínuo sem perder a sua forma ou apelo visual. São também fáceis de limpar, o que é ideal para os pais preocupados com a higiene dos brinquedos dos filhos. Clientes que procuram um presente especial para crianças acima de três anos vão encontrar no Squishville Mini Squishmallows Autumn Friends Squad a opção perfeita. São tão adequados para momentos de brincadeira imaginativa quanto para a hora da história ou como tranquilizadores companheiros na hora de dormir. Em suma... Conjunto de quatro Mini Squishmallows temáticos. Duráveis e fáceis de limpar. Perfeitos para coleccionar e partilhar. Ideal para crianças a partir dos três anos. Dimensão: 12,50 x 15,50 x 5 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-29T17:36:14Z
+  Updated: 2025-10-04T17:02:39Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -15120,13 +15120,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71801-o-ataque-do-dragao-em-ascensao-do-kai-667180124-5702017566122-lego-1178698465.jpg?v=1752926778
   Price: 12,50 € EUR
-- [Lego Ninjago 71802 O Ataque do Dragão em Ascensão da Nya](https://brincatoys.pt/products/lego-ninjago-71802-o-ataque-do-dragao-em-ascensao): Voe alto com o impressionante dragão de Nya do conjunto Lego Ninjago 71802 O Ataque do Dragão em Ascensão da Nya. Um modelo para fãs.
-  Updated: 2025-09-29T23:29:06Z
-  Vendor: LEGO
-  Product Type: + 6 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71802-o-ataque-do-dragao-em-ascensao-da-nya-667180224-5702017565088-lego-1178698469.jpg?v=1752927009
-  Price: 12,50 € EUR
 - [Lego Ninjago 71803 O Ataque do Dragão em Ascensão](https://brincatoys.pt/products/lego-ninjago-71803-o-ataque-do-dragao-em-ascensao): Lego Ninjago 71803 O Ataque do Dragão em Ascensão do Arin um conjunto empolgante que inspira a criatividade! Construa aventuras épicas com heróis corajosos.
   Updated: 2025-09-29T23:29:12Z
   Vendor: LEGO
@@ -15163,7 +15156,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71805-pack-de-combate-robo-do-jay-667180524-5702017565552-lego-1178698497.jpg?v=1752927731
   Price: 12,50 € EUR
 - [Lego Ninjago 71807 Robô Tecnológico Elemental Sora](https://brincatoys.pt/products/lego-ninjago-71807-robo-tecnologico-elemental-sora): Descubra o mundo de Ninjago com o Lego Ninjago 71807 Robô Tecnológico Elemental Sora! Articulações flexíveis, design detalhado e batalhas épicas.
-  Updated: 2025-09-29T23:29:32Z
+  Updated: 2025-10-04T17:27:31Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -15248,6 +15241,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-evoluido-com-raio-de-calor-233930324-0043377352020-godzilla-vs-kong-1178698541.jpg?v=1752928455
   Price: 19,99 € EUR
+- [Godzilla x Kong - Godzilla com raio de calor: Poder Incrível](https://brincatoys.pt/products/godzilla-x-kong-godzilla-com-raio-de-calor-1): Descubra o poder de Godzilla com raio de calor! Este incrível coletável captura a icônica batalha entre titãs de forma épica. Não perca!
+  Updated: 2025-10-04T20:00:25Z
+  Vendor: Godzilla vs Kong
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-com-raio-de-calor-233930224-0043377352013-godzilla-vs-kong-1178698545.jpg?v=1752928687
+  Price: 17,99 € EUR
 - [Puzzle Jurassic World de 200 pçs XXL](https://brincatoys.pt/products/puzzle-jurassic-world-200-pcs): Divirta-se a montar este emocionante quebra-cabeça de 200 peças, apresentando alguns dinossauros icônicos e explore um mundo de pré-históricos enigmas com o incrível Puzzle Jurassic World de 200 peças XXL! Mergulhe num ambiente onde a vida e os dinossauros se misturam! Imagine conduzir por uma estrada costeira e encontrar 8 dinossauros gigantescos! O que faria? Perfeito para crianças a partir dos 8 anos, este quebra-cabeça apresenta uma imagem vibrante e emocionante, repleta de dinossauros ferozes e cenas de ação tiradas diretamente do épico cinematográfico "Jurassic World". Começando com a imagem, os detalhados retratos de T-Rex, Velociraptors e outros gigantes jurássicos prometem horas de entretenimento e educação, à medida que os pequenos paleontólogos em formação mergulham na era dos dinossauros. Cada peça XXL foi cuidadosamente cortada para garantir uma montagem fácil e confortável, A qualidade dos materiais usados é digna de nota, com a Ravensburger orgulhando-se de utilizar cartão exclusivo com acabamento em linho para reduzir o reflexo da luz sobre o puzzle e proporcionar uma experiência mais agradável. Além disso, graças ao encaixe perfeito das peças, a imagem final é suave e sem problemas de interseção irregular das peças. Sendo um puzzle da gama Premium da Ravensburger, a durabilidade e o design deste produto são de alto padrão. O Puzzle Jurassic World de 200 pçs XXL constitui não apenas um passatempo divertido, mas também uma ferramenta educativa que pode ajudar no desenvolvimento de habilidades vitais, como a resolução de problemas, a coordenação motora e a paciência. Ao completar o puzzle, os jovens aventureiros terão uma imagem espetacular para decorar o quarto ou para desmontar e iniciar a aventura novamente! Em suma... Imagem vibrante de dinossauros de Jurassic World em 200 peças XXL. Qualidade Premium e encaixe perfeito para facilitar a montagem. Estimula habilidades como resolução de problemas e coordenação motora. Cartão com acabamento em linho para minimizar reflexos de luz. Ideal para crianças a partir dos 8 anos e fãs de puzzles e dinossauros. Dimensão: 33 x 23 x 3,50 cm. Idade recomendada: + de 8 anos.
   Updated: 2025-09-29T17:32:13Z
   Vendor: Jurassic World
@@ -15375,7 +15375,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-bluey-fantasias-divertidas-90437424-5010993981359-bluey-1178698665.jpg?v=1752796098
   Price: 19,99 € EUR
 - [NERF Elite 2.0 Set de 50 Dardos](https://brincatoys.pt/products/nerf-elite-2-0-set-de-50-dardos): Apresentamos o NERF Elite 2.0 Set de 50 Dardos, um complemento essencial para qualquer aficionado da emblemática marca de brinquedos de ação. Com este conjunto de 50 dardos oficiais Nerf Elite 2.0 terás todo o poder de que precisas em mãos. Muitas vezes, quando estás em batalha Nerf, alguns dardos desaparecem. Em vez de parar o jogo e procurares os dardos, mantem as recargas à mão para gastar menos tempo à procura dos dardos e mais tempo a jogar. Assim, este conjunto NERF Elite 2.0 Set de 50 Dardos oferece aos jogadores uma quantidade abundante de munições para prolongar as suas intensas batalhas. Além disso, assegura que estejas sempre preparado para qualquer desafio que surja durante o jogo. Ademais, cada dardo foi desenhado com a precisão e durabilidade características da NERF. Possuem uma ponta oca e flexível que se destaca pela sua segurança, minimizando o risco de ferimentos durante o jogo animado. Além disso, a aerodinâmica dos dardos foi otimizada para proporcionar uma trajetória mais reta e um alcance prolongado, garantindo assim que atingirás o teu alvo com maior precisão. Os dardos estão aptos a serem usados com qualquer lançador NERF Elite 2.0, bem como com os modelos anteriores da linha NERF Elite, o que significa que não precisarás de preocupar-te com a compra de equipamentos adicionais. Esta versatilidade permite-te manter um arsenal diversificado para enfrentares qualquer tipo de batalha. O design em azul e laranja não só é esteticamente agradável, mas também facilita a localização dos dardos após serem lançados. Este aspeto é particularmente útil em ambientes exteriores, onde os dardos podem facilmente se misturar com a paisagem. Finalmente, o conjunto é apresentado numa embalagem prática, que não só resguarda os dardos antes de serem usados, mas também serve como uma excelente opção de presente para qualquer entusiasta da gama NERF. Deste modo, com este conjunto de 50 dardos, podes recarregar os lançadores Nerf Elite 2.0 e continuar a batalha Nerf. Em suma... Conjunto de 50 dardos de alta precisão e durabilidade. Compatíveis com todos os lançadores NERF Elite 2.0 e modelos Elite anteriores. Design colorido para fácil recuperação e embalagem ideal para presente. Dimensão: 15,50 x 22,50 x 4,50 cm. Idade Recomendada: + de 8 anos.
-  Updated: 2025-09-30T07:52:56Z
+  Updated: 2025-10-04T18:27:38Z
   Vendor: Nerf
   Product Type: Nerf
   Availability: Available
@@ -15515,7 +15515,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-para-criancas-stitch-104-pcs-diversao-tropical-772575524-8005125257553-brincatoys-1178698809.jpg?v=1752932404
   Price: 10,99 € EUR
 - [Brinquedos da Patrulha Pata Tracker - Aventura na Selva](https://brincatoys.pt/products/patrulha-pata-tracker): Inspire as crianças com os Brinquedos da Patrulha Pata Tracker! Entre na selva com o Jungle Cruiser e aprenda sobre sustentabilidade através da diversão.
-  Updated: 2025-09-29T21:14:33Z
+  Updated: 2025-10-04T17:15:53Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -15725,7 +15725,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-bugatti-divo-amarelo-maisto-1-24-683152624-8719247933072-brincatoys-1178698993.jpg?v=1752934328
   Price: 23,50 € EUR
 - [Carro de Brincar Mini Cooper 1:24 – Réplica Detalhada](https://brincatoys.pt/products/carro-de-brincar-mini-cooper): Carro de brincar Mini Cooper à escala 1:24, com detalhes autênticos e durabilidade para pequenos entusiastas e colecionadores. Réplica fiel.
-  Updated: 2025-09-30T00:22:07Z
+  Updated: 2025-10-04T16:51:33Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -15893,42 +15893,42 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-weavile-7-50-cm-articulada-brincatoys-23300324-pokemon-1178699133.jpg?v=1752936610
   Price: 12,90 € EUR
 - [Squishville Mini Squishmallows - Esquadrão Nocturno](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao-nocturno): Conheça o Squishville Mini Squishmallows - Esquadrão Nocturno. Quatro peluches macios e adoráveis perfeitos para brincar e imaginar aventuras incríveis.
-  Updated: 2025-09-29T17:37:30Z
+  Updated: 2025-10-04T17:02:39Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-nocturno-23050424-squishville-1178699138.jpg?v=1752936722
   Price: 22,99 € EUR
 - [Squishville Mini Squishmallows - Esquadrão do Celeiro](https://brincatoys.pt/products/squishville-mini-squishmallows): Descubra o Squishville Mini Squishmallows - Esquadrão do Celeiro. Peluches macios e cativantes para coleção e brincadeiras. Compre agora e encante-se!
-  Updated: 2025-09-29T17:37:42Z
+  Updated: 2025-10-04T17:02:38Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-do-celeiro-23050624-squishville-1178699141.jpg?v=1752936731
   Price: 22,99 € EUR
 - [Squishville Mini Squishmallows do Super Esquadrão da Lagoa](https://brincatoys.pt/products/squishville-mini-squishmallows-super-esquadrao-da-lagoa): Squishville Mini Squishmallows - Super Esquadrão da Lagoa, um mundo de ternura com estes peluches macios e alegres. Ideais para colecionar e, brincar.
-  Updated: 2025-09-29T17:37:36Z
+  Updated: 2025-10-04T17:02:38Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-do-super-esquadrao-da-lagoa-23050524-squishville-1178699145.jpg?v=1752793332
   Price: 22,99 € EUR
 - [Squishville Mini Squishmallows - Esquadrão do Pijama](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao-da-lagoa): Conheça o Squishville Mini Squishmallows – Esquadrão do Pijama, os peluches mais macios e adoráveis! Perfeitos para crianças e festas do pijama.
-  Updated: 2025-09-29T17:37:24Z
+  Updated: 2025-10-04T17:00:01Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-do-pijama-23050324-191726876960-squishville-1178699150.jpg?v=1752793215
   Price: 22,99 € EUR
 - [Squishville Mini Squishmallows - Esquadrão Preto e Branco](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao): Descubra a coleção Squishville Mini Squishmallows - Esquadrão Preto e Branco! Personagens irresistíveis e tecido ultra macio esperam por si.
-  Updated: 2025-09-29T17:38:01Z
+  Updated: 2025-10-04T17:02:38Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-preto-e-branco-23050924-squishville-1178699153.jpg?v=1752793335
   Price: 28,90 € EUR
 - [Squishville Mini Squishmallows - Amigos Perfeitos](https://brincatoys.pt/products/squishville-mini-squishmallows-amigos-perfeitos): Complete a sua coleção com os Squishville Mini Squishmallows - Amigos Perfeitos! Descubra os seus amigos de, peluche suaves ideais para colecionar e jogar.
-  Updated: 2025-09-29T17:38:08Z
+  Updated: 2025-10-04T17:02:37Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -15963,7 +15963,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-entei-15-cm-essencial-para-colecao-23320124-0191726483625-pokemon-1178699173.jpg?v=1752936843
   Price: 37,90 € EUR
 - [Squishville Mini Squishmallows - Esquadrão Colorido](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao-colorido): Adicione uma pitada de cor e alegria à sua coleção com o Squishville Mini Squishmallows - Esquadrão Colorido. Peluches macios e cativantes.
-  Updated: 2025-09-29T17:37:49Z
+  Updated: 2025-10-04T17:02:37Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -16089,7 +16089,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-signature-65-aniversario-boneca-de-colecao-elegante-771810324-0194735181032-barbie-signature-1178699281.jpg?v=1752938412
   Price: 84,90 € EUR
 - [Squishville Mini Squishmallows - Esquadrão Safari](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao-safari): Descubra o Squishville Mini Squishmallows - Esquadrão Safari! Conquiste corações com estes 6 adoráveis amigos macios, perfeitos para brincadeiras.
-  Updated: 2025-09-29T17:37:55Z
+  Updated: 2025-10-04T17:02:37Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -16362,14 +16362,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesas-disney-ariel-e-eric-casamento-encantado-771736224-0192995217362-princesas-disney-1178699531.jpg?v=1752943328
   Price: 32,50 € EUR
 - [Puzzle Patrulha Pata 2 x 20 Peças - Diversão para Crianças](https://brincatoys.pt/products/puzzle-patrulha-pata-2-x-20-pecas): Puzzle Patrulha Pata 2 x 20 Peças para um entretenimento educativo que combina diversão e desenvolvimento cognitivo com os seus heróis caninos favoritos.
-  Updated: 2025-09-30T01:29:09Z
+  Updated: 2025-10-04T17:15:53Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-patrulha-pata-2-x-20-pecas-diversao-para-criancas-772477924-8005125247790-patrulha-pata-1178699534.jpg?v=1752943337
   Price: 9,99 € EUR
 - [Puzzle Patrulha Pata 2 x 60 Peças - Diversão para Crianças](https://brincatoys.pt/products/puzzle-patrulha-pata-2-x-60-pecas): Puzzle Patrulha Pata 2 x 60 Peças para um entretenimento educativo que combina diversão e desenvolvimento cognitivo com os seus heróis caninos favoritos.
-  Updated: 2025-09-30T01:21:49Z
+  Updated: 2025-10-04T17:15:52Z
   Vendor: Patrulha Pata
   Product Type: + 4 anos
   Availability: Available
@@ -16418,7 +16418,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-festa-da-panqueca-diversao-criativa-na-cozinha-90127924-5010993779741-play-doh-1178699570.jpg?v=1752943822
   Price: 19,99 € EUR
 - [Pistola Nerf Elite 2.0 Prospect QS-4 | Brinquedo para Ação](https://brincatoys.pt/products/nerf-elite-2-0-prospect-qs-4): Pistola Nerf Elite 2.0 Prospect QS-4. Desafie amigos com disparos em rajada e preciseza! Ideal para aprimorar habilidades e criar aventuras.
-  Updated: 2025-09-29T21:12:44Z
+  Updated: 2025-10-04T17:23:56Z
   Vendor: Nerf
   Product Type: Nerf
   Availability: Available
@@ -16446,21 +16446,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/dinossauro-de-brinquedo-jurassic-world-regaliceratops-21162824-0194735116287-jurassic-world-1178699594.jpg?v=1752792020
   Price: 24,99 € EUR
 - [Brinquedos da Patrulha Pata - Chase:](https://brincatoys.pt/products/patrulha-pata-chase): Brinquedos da Patrulha Pata - Chase, para o seu pequeno fã da Patrulha Pata! Ideal para inspirar a imaginação e horas de jogo interativo.
-  Updated: 2025-10-02T11:49:01Z
+  Updated: 2025-10-04T17:15:52Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-chase-554904125-0681147037502-patrulha-pata-1192379384.jpg?v=1757613001
   Price: 19,99 € EUR
 - [Brinquedos da Patrulha Pata Marshall - Aventura e Aprendizagem.](https://brincatoys.pt/products/patrulha-pata-marshall): Inspire heróis com os Brinquedos da Patrulha Pata Marshall. A escolha ideal para a diversão e aventura com a sua equipa canina favorita.
-  Updated: 2025-10-03T12:51:33Z
+  Updated: 2025-10-04T17:15:52Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-marshall-aventura-e-aprendizagem-554903325-0681147037397-patrulha-pata-1192379385.jpg?v=1757613003
   Price: 19,99 € EUR
 - [Brinquedos da Patrulha Pata - Skye Helicóptero Eco-Amigável](https://brincatoys.pt/products/patrulha-pata-skye): Descubra o helicóptero da Skye, um dos mais adorados brinquedos da Patrulha Pata, feito com plástico parcialmente reciclado. Para jovens aventureiros!
-  Updated: 2025-09-29T21:14:14Z
+  Updated: 2025-10-04T17:15:52Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -16509,7 +16509,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-figuras-stumble-guys-pack-6-colecao-para-fas-238965624-7290117589656-stumble-guys-1178699637.jpg?v=1752791662
   Price: 17,99 € EUR
 - [Brinquedos da Patrulha Pata Skye - Jato Transformável](https://brincatoys.pt/products/patrulha-pata-the-mighty-movie-skye): Descubra o jato transformável dos brinquedos da Patrulha Pata Skye. Perfeito para inspirar aventuras heroicas. Estimula a imaginação e a coordenação motora.
-  Updated: 2025-09-30T10:00:47Z
+  Updated: 2025-10-04T17:18:28Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -16530,7 +16530,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-911-gt3-preto-a-escala-1-24-682248925-8719247922489-bburago-1178699649.jpg?v=1752944645
   Price: 24,50 € EUR
 - [Rato de Peluche Ingefrid 30 cm - Companheiro Fofo](https://brincatoys.pt/products/rato-de-peluche-ingefrid): Conheça o Rato de Peluche Ingefrid 30 cm, o peluche macio e carinhoso que promete ser o amigo de todas as brincadeiras. Ideal para abraços e aventuras.
-  Updated: 2025-09-29T20:49:11Z
+  Updated: 2025-10-04T17:05:28Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -16628,7 +16628,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-friends-42635-cabeleireiro-movel-para-caes-664263524-5702017588841-lego-1178699812.jpg?v=1752947413
   Price: 12,00 € EUR
 - [Brinquedo para bebé - Chocalho Vaca Shake Me](https://brincatoys.pt/products/brinquedo-para-bebe-chocalho-vaca-shake-me): Brinquedo para bebé - Chocalho Vaca Shake Me, perfeito para estimulação sensorial e desenvolvimento motor. Cores vivas, para a felicidade do seu bebé!
-  Updated: 2025-09-29T16:39:43Z
+  Updated: 2025-10-04T17:27:27Z
   Vendor: Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -16642,7 +16642,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-chocalho-galo-shake-me-124013324-7290107721332-brincatoys-1178699821.jpg?v=1752947537
   Price: 13,99 € EUR
 - [Brinquedo para bebé - Chocalho Cão Shake Me](https://brincatoys.pt/products/brinquedo-para-bebe-chocalho-cao-shake-me): Brinquedo para bebé - Chocalho Cão Shake Me, perfeito para estimulação sensorial e desenvolvimento motor. Cores vivas, para a felicidade do seu bebé!
-  Updated: 2025-09-29T16:40:46Z
+  Updated: 2025-10-04T17:38:45Z
   Vendor: Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -16684,7 +16684,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-mordedor-urso-mimo-129074624-brincatoys-1178699840.jpg?v=1752948131
   Price: 16,99 € EUR
 - [Boneco PVC My Little Pony - Rainbow Dash](https://brincatoys.pt/products/my-little-pony-rainbow-dash): Boneco PVC My Little Pony - Rainbow Dash - Deixe-se encantar pela fidelidade desta peça coleccionável! Perfeito para presentear e cativar fãs,
-  Updated: 2025-09-30T01:58:55Z
+  Updated: 2025-10-04T16:37:03Z
   Vendor: My Little Pony
   Product Type: + 3 anos
   Availability: Available
@@ -16929,7 +16929,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75389-a-dark-falcon-667538925-5702017584454-lego-1178700024.jpg?v=1752949458
   Price: 184,90 € EUR
 - [Minifiguras Colecionáveis One Piece 7 cm](https://brincatoys.pt/products/mini-figuras-coleccionaveis-one-piece-7-cm): Minifiguras Colecionáveis One Piece 7 cm! Perfeitas para fãs., Descubra a qualidade e o detalhe que estas figuras trazem para o seu display de anime.
-  Updated: 2025-09-29T18:16:53Z
+  Updated: 2025-10-04T17:27:52Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -16991,13 +16991,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-venom-epic-hero-brinquedo-marvel-90697523-marvel-1178696555.jpg?v=1752895452
   Price: 12,99 € EUR
-- [Transformers Earthspark - Warrior Terrah Trash](https://brincatoys.pt/products/transformers-earthspark-warrior-optimus-prime): Transformers Earthspark - Warrior Terrah Trash. Transforme o seu tempo de diversão. Figura articulada perfeita para brincar e coleccionar.
-  Updated: 2025-09-30T07:28:35Z
-  Vendor: Transformers
-  Product Type: + 6 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-earthspark-warrior-terrah-trash-901633824-5010996116338-transformers-1178700068.jpg?v=1752950405
-  Price: 19,99 € EUR
 - [Transformers Earthspark - Warrior Shockwave](https://brincatoys.pt/products/transformers-earthspark-warrior-shockwave): Transformers Earthspark - Warrior Shockwave. Transforme o seu tempo de diversão. Figura articulada perfeita para brincar e coleccionar.
   Updated: 2025-09-30T07:47:55Z
   Vendor: Transformers
@@ -17034,7 +17027,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-terzo-millennio-verde-139904924-4893993210947-bburago-1178700092.jpg?v=1752950773
   Price: 22,99 € EUR
 - [Carro de Brincar Mercedes 190 E 2.6](https://brincatoys.pt/products/carro-de-brincar-mercedes-190-e-2-6): Descubra o carro de brincar Mercedes 190 E 2.6 da Burago à escala 1/24. Réplica detalhada, qualidade superior e horas de diversão garantida.
-  Updated: 2025-09-30T00:13:20Z
+  Updated: 2025-10-04T17:12:07Z
   Vendor: Bburago
   Product Type: Bburago
   Availability: Available
@@ -17293,7 +17286,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-bff-talents-dreamy-rym-diversao-magica-858779824-8421134087798-brincatoys-1178700279.jpg?v=1752953286
   Price: 42,50 € EUR
 - [Brinquedo Patrulha Pata Mighty Movie - Rocky](https://brincatoys.pt/products/patrulha-pata-the-mighty-movie-rocky): Descubra o brinquedo da Patrulha Pata: The Mighty Movie - Rocky com camião de reciclagem para aventuras e aprendizagem sobre cuidados ambientais.
-  Updated: 2025-09-30T01:45:07Z
+  Updated: 2025-10-04T17:18:27Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -17629,7 +17622,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-super-cortex-challenge-31031924-3558380123286-brincatoys-1178700536.jpg?v=1752957141
   Price: 19,99 € EUR
 - [Rainbow High Littles - Daisy Madison | Boneca Fashion](https://brincatoys.pt/products/rainbow-high-littles-daisy-madison): Descubra a Rainbow High Littles - Daisy Madison! Boneca fashion com acessórios, ideal para estimular a criatividade e o estilo das crianças.
-  Updated: 2025-09-30T01:37:22Z
+  Updated: 2025-10-04T16:37:03Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
@@ -17797,7 +17790,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-segredos-tumulares-abbey-bominable-misteriosa-772306324-0194735230631-monster-high-1178700658.jpg?v=1752959529
   Price: 49,99 € EUR
 - [Conjunto de Chá musical Rainbow: Imaginação e Criatividade](https://brincatoys.pt/products/conjunto-de-cha-musical-rainbow): Encante seus pequenos com o Conjunto de Chá musical Rainbow. Com 14 peças adoráveis e designs de animais, é diversão garantida! 💫🐼
-  Updated: 2025-09-29T19:02:51Z
+  Updated: 2025-10-04T16:34:17Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -17993,7 +17986,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-ken-da-barbie-dia-de-praia-acessorios-divertidos-851624324-0194735162437-barbie-1178700813.jpg?v=1752961572
   Price: 23,99 € EUR
 - [Pista de Carros Patrulha Pata Carrera First - Chase e Marshall](https://brincatoys.pt/products/pista-de-carros-patrulha-pata): Ofereça aos pequenos fãs da Patrulha Pata uma experiência cheia de adrenalina com a Pista de Carros Patrulha Pata Carrera First - Chase e Marshall.
-  Updated: 2025-09-30T03:16:03Z
+  Updated: 2025-10-04T17:15:50Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -18322,7 +18315,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lol-surprise-tweens-flora-moon-a-boneca-cheia-de-estilo-779166524-0035051591665-lol-surprise-1178701069.jpg?v=1752784565
   Price: 29,99 € EUR
 - [Rainbow High Littles - Opal Raine: A Boneca Encantadora](https://brincatoys.pt/products/rainbow-high-littles-opal-raine): Encante sua criança com a magia da Rainbow High Littles - Opal Raine! Uma linda boneca com cabelos arco-íris e um vestido deslumbrante em tons degradê.
-  Updated: 2025-09-30T01:37:15Z
+  Updated: 2025-10-04T16:36:15Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
@@ -19281,35 +19274,35 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-harry-potter-76441-o-castelo-de-hogwarts-clube-de-duelos-667644125-5702017812793-lego-1178701721.jpg?v=1752976096
   Price: 27,50 € EUR
 - [Rainbow High Crystal Skyler: Diversão Criativa e Glamourosa](https://brincatoys.pt/products/rainbow-high-crystal-skyler): Explore a moda com a Rainbow High Crystal Skyler! Crie acessórios únicos com o kit de cristais e destaque-se com estilo. ✨
-  Updated: 2025-09-30T01:20:38Z
+  Updated: 2025-10-04T16:36:14Z
   Vendor: Rainbow High
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-crystal-skyler-diversao-criativa-e-glamourosa-772137425-0035051121374-rainbow-high-1178701725.jpg?v=1752780964
   Price: 39,99 € EUR
 - [Rainbow High Crystal Bella Parker: Moda e Criatividade](https://brincatoys.pt/products/rainbow-high-crystal-bella-parker): A Rainbow High Crystal Bella Parker traz cristais e estilo adorável! Aperfeiçoe suas criações com esse conjunto cheio de possibilidades!
-  Updated: 2025-09-30T01:20:31Z
+  Updated: 2025-10-04T16:36:14Z
   Vendor: Rainbow High
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-crystal-bella-parker-moda-e-criatividade-772136725-0035051121367-rainbow-high-1178701729.jpg?v=1752780975
   Price: 39,99 € EUR
 - [Rainbow High Hair Chalk & Style Meline Luxe: Diversão](https://brincatoys.pt/products/rainbow-high-hair-chalk-style-meline-luxe): Dê vida ao visual com a Rainbow High Hair Chalk & Style Meline Luxe! Estilize e pinte o cabelo de forma divertida e criativa. 🖌️
-  Updated: 2025-09-30T01:31:26Z
+  Updated: 2025-10-04T16:36:14Z
   Vendor: Rainbow High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-hair-chalk-style-meline-luxe-diversao-772679725-0035051526797-rainbow-high-1178701737.jpg?v=1752976222
   Price: 34,90 € EUR
 - [Rainbow High Crystal Iris Bow: Crie e Personalize Acessórios](https://brincatoys.pt/products/rainbow-high-crystal-iris-bow): Descobre a Rainbow High Crystal Iris Bow e a experiência de criatividade que traz! Personaliza acessórios com estilo e diversifica a diversão!
-  Updated: 2025-09-30T01:20:45Z
+  Updated: 2025-10-04T16:36:14Z
   Vendor: Rainbow High
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-crystal-iris-bow-crie-e-personalize-acessorios-772138125-0035051121381-rainbow-high-1178701741.jpg?v=1752976332
   Price: 39,99 € EUR
 - [Rainbow High Crystal Amaya Raine: Crie Acessórios Únicos](https://brincatoys.pt/products/rainbow-high-crystal-amaya-raine): Explore a criatividade com a boneca Rainbow High Crystal Amaya Raine! Crie acessórios personalizados e torne cada detalhe incrível.
-  Updated: 2025-09-30T01:21:28Z
+  Updated: 2025-10-04T16:36:13Z
   Vendor: Rainbow High
   Product Type: + 8 anos
   Availability: Available
@@ -19337,21 +19330,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-harry-potter-76453-mansao-dos-malfoy-epica-667645325-5702017812915-lego-1178701757.jpg?v=1752976459
   Price: 149,99 € EUR
 - [Rainbow High Crystal Violet Willow: Boneca Glamourosa](https://brincatoys.pt/products/rainbow-high-crystal-violet-willow): A Rainbow High Crystal Violet Willow é perfeita para crianças criativas! Crie acessórios únicos com a resina mágica e demonstre seu estilo!
-  Updated: 2025-09-30T01:21:21Z
+  Updated: 2025-10-04T16:36:13Z
   Vendor: Rainbow High
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-crystal-violet-willow-boneca-glamourosa-772140425-0035051121404-rainbow-high-1178701761.jpg?v=1752976690
   Price: 39,99 € EUR
 - [Rainbow High Sparkle & Shine Clementine: Estilo Único](https://brincatoys.pt/products/rainbow-high-sparkle-shine-clementine): A Rainbow High Sparkle & Shine Clementine é perfeita para quem ama estilo! Com cabelos vibrantes e acessórios incríveis, ela é uma boneca única!
-  Updated: 2025-09-30T01:31:48Z
+  Updated: 2025-10-04T16:36:14Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-sparkle-shine-clementine-estilo-unico-772780325-0035051427803-rainbow-high-1178701769.jpg?v=1752976813
   Price: 39,99 € EUR
 - [Rainbow High Sparkle & Shine Viola: Estilo e Magia](https://brincatoys.pt/products/rainbow-high-sparkle-shine-viola): Deixe-se encantar pela Rainbow High Sparkle & Shine Viola! Com cabelo lilás e pernas brilhantes, é a boneca perfeita para brilhar nas brincadeiras.
-  Updated: 2025-09-30T01:32:48Z
+  Updated: 2025-10-04T16:36:13Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
@@ -19757,7 +19750,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-lb-works-mclaren-720s-modelo-premium-232622525-194735262250-hot-wheels-1178702026.jpg?v=1752980886
   Price: 14,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças Divertidas](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pcs): Desperte a imaginação com o Puzzle Patrulha Pata 3 x 48 peças! Ideal para pequenos fãs, este jogo estimula o raciocínio lógico. Compre agora!
-  Updated: 2025-10-04T13:21:01Z
+  Updated: 2025-10-04T17:15:50Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
@@ -19868,8 +19861,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/buggy-acrobatico-857569725-8005125175697-brincatoys-1178702070.jpg?v=1752981851
   Price: 19,99 € EUR
-- [Dress To Impress - Bonecas Mistério](https://brincatoys.pt/products/dress-to-impress-bonecas-misterio): Dimensão: 10 x 14,50 x 6 cm.Idade recomendada: + de 6 anos.
-  Updated: 2025-09-29T18:19:06Z
+- [Dress To Impress - Bonecas Mistério com Estilo e Surpresa](https://brincatoys.pt/products/dress-to-impress-bonecas-misterio): Descobre a magia do Dress To Impress - Bonecas Mistério! Com uma embalagem em forma de estrela, cada conjunto revela uma nova estilista! ⭐
+  Updated: 2025-10-04T17:38:15Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -20338,7 +20331,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-soneca-para-colecionar-621247724-4007176124772-brincatoys-1195121721.jpg?v=1759074717
   Price: 7,50 € EUR
 - [figura de borracha Disney – Tímido: Encanto e Diversão](https://brincatoys.pt/products/figura-de-borracha-disney-timido): Adiciona à tua coleção a figura de borracha Disney – Tímido! Esta adorável peça de 5,5 cm traz encanto e diversão para todas as idades. 🌟
-  Updated: 2025-09-29T21:39:49Z
+  Updated: 2025-10-04T17:43:09Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20431,7 +20424,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-frozen-elsa-disney-brincatoys-771207524-0194735120758-princesas-disney-1178699245.jpg?v=1752937809
   Price: 18,99 € EUR
 - [Figura de borracha Disney – Capitão Gancho Detalhada](https://brincatoys.pt/products/figura-de-borracha-disney-capitao-gancho): Traga a magia do Capitão Gancho para as suas brincadeiras! Esta Figura de borracha Disney – Capitão Gancho é perfeita para aventuras emocionantes.
-  Updated: 2025-09-29T21:43:51Z
+  Updated: 2025-10-04T17:44:04Z
   Vendor: Brincatoys
   Product Type: Bullyland
   Availability: Available
@@ -20585,7 +20578,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-allosaurus-detalhado-232700425-0194735270040-jurassic-world-1181899610.jpg?v=1756213336
   Price: 56,90 € EUR
 - [Boneca Barbie 80º Aniversário: Elegância e Estilo](https://brincatoys.pt/products/boneca-barbie-80-aniversario-com-vestido-vermelho): Celebrando 80 anos de elegância, a boneca Barbie 80º Aniversário encanta com seu vestido vermelho deslumbrante. Adquira já essa edição especial!
-  Updated: 2025-09-29T18:02:41Z
+  Updated: 2025-10-04T17:18:10Z
   Vendor: Barbie
   Product Type: Barbie
   Availability: Available
@@ -20620,21 +20613,21 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-studio-series-bumblebee-figura-articulada-86056425-5010996308016-transformers-1182660515.jpg?v=1756213937
   Price: 36,50 € EUR
 - [Autocolantes reutilizáveis - Espaço](https://brincatoys.pt/products/autocolantes-reutilizaveis-espaco): Transforma quartos, janelas ou mesas num universo cósmico com o set de Autocolantes Reutilizáveis para crianças – Espaço. Em primeiro lugar, este kit lúdico inclui um cenário de 40×30 cm com ilustração de superfície lunar e céu estrelado, além de quatro folhas com mais de 50 autocolantes temáticos – planetas, foguetes, satélites, rovers e até astronautas animais. Além disso, graças ao adesivo suave, as crianças podem colar, descolar e reposicionar as figuras inúmeras vezes sem danificar superfícies, tornando cada brincadeira sempre diferente. Do mesmo modo, o material resistente à água facilita a limpeza: basta passar um pano húmido para remover resíduos de pó e permitir novas composições. Por isso, o kit adapta-se a várias superfícies lisas – vidro, metal, plástico ou paredes pintadas – sem deixar vestígios. Ademais, o design colorido e divertido estimula a coordenação motora fina e a criatividade, permitindo que miúdos e graúdos criem histórias espaciais com total liberdade. Por outro lado, a embalagem compacta mantém todos os elementos organizados e fáceis de transportar, ideal para levar em viagens ou atividades em grupo. Igualmente, a aplicação é simples: basta destacar a figura, colar no local pretendido e ajustar a composição conforme a imaginação de cada criança. Desta forma, os Autocolantes Reutilizáveis para crianças – Espaço revelam-se perfeito para passatempo educativo. Contudo, não se trata apenas de diversão: o jogo desenvolve também vocabulário de astronomia básica, enquanto os pequenos aprendem a reconhecer planetas e compreender o conceito de gravidade de uma forma divertida. Por fim, brincar com adesivos é uma atividade básica que permite que as crianças estimulem o desenvolvimento psicomotor fino e trabalhem múltiplas capacidades e habilidades cognitivas. Em suma... Cenário de 40×30 cm com paisagem lunar +50 autocolantes reutilizáveis: planetas, foguetes, astronautas e mais Adesivo suave, sem PVC, não danifica superfícies Fácil limpeza com pano húmido e reposicionamento ilimitado Estimula coordenação motora fina, criatividade e vocabulário científico Recomendado para maiores de 3 anos, certificado CE Dimensão: 22 x 23,40 x 1 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-09-30T07:54:57Z
+  Updated: 2025-10-04T17:45:57Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-reutilizaveis-espaco-921937625-8410782193760-brincatoys-1182944554.jpg?v=1756214052
   Price: 9,80 € EUR
 - [Autocolantes reutilizáveis - Bombeiros](https://brincatoys.pt/products/autocolantes-reutilizaveis-bombeiros): Transforma quartos, janelas ou mesas num universo cósmico com o set de Autocolantes Reutilizáveis para crianças – Bombeiros. Em primeiro lugar, este kit lúdico inclui um cenário de 40×30 cm com ilustração de uma cena de estação de bombeiros em ação – viatura, garagem, árvore e edifício em chamas, além de quatro folhas com mais de 50 autocolantes temáticos – bombeiros em diferentes posições, escadas, machados, cones de sinalização, labaredas e até animais resgatados Além disso, graças ao adesivo suave, as crianças podem colar, descolar e reposicionar as figuras inúmeras vezes sem danificar superfícies, tornando cada brincadeira sempre diferente. Do mesmo modo, o material resistente à água facilita a limpeza: basta passar um pano húmido para remover resíduos de pó e permitir novas composições. Por isso, o kit adapta-se a várias superfícies lisas – vidro, metal, plástico ou paredes pintadas – sem deixar vestígios. Ademais, o design colorido e divertido estimula a coordenação motora fina e e o sentido de sequência narrativa. Consequentemente, as crianças desenvolvem competências cognitivas enquanto montam missões de socorro – desde apagar fogos, socorrer animais até orientar tráfego em situação de emergência. Igualmente, o set promove o vocabulário de segurança, ao incluir sinais e equipamentos típicos de bombeiros.espaciais com total liberdade. Por outro lado, a embalagem compacta mantém todos os elementos organizados e fáceis de transportar, ideal para levar em viagens ou atividades em grupo. Do mesmo modo, a aplicação é simples: basta destacar a figura, colar no local pretendido e ajustar a composição conforme a imaginação de cada criança. Desta forma, os Autocolantes Reutilizáveis para crianças – Bombeiros revelam-se perfeitos para passatempo educativo. Contudo, não se trata apenas de diversão: o jogo desenvolve também o vocabulário, combinando diversão e educação. Com este set, a imaginação não conhece limites e cada parede ou janela torna-se palco de uma missão de salvação inesquecível de uma forma divertida. Por fim, brincar com adesivos é uma atividade básica que permite que as crianças estimulem o desenvolvimento psicomotor fino e trabalhem múltiplas capacidades e habilidades cognitivas. Em suma... Cenário de 40×30 cm com paisagem relacionada com bombeiros +50 autocolantes reutilizáveis: bombeiros, veículos, equipamentos, labaredas e mais Adesivo suave, sem PVC, não danifica superfícies Fácil limpeza com pano húmido e reposicionamento ilimitado Estimula coordenação motora fina, criatividade e vocabulário Recomendado para maiores de 3 anos, certificado CE Dimensão: 22 x 23,40 x 1 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-09-30T07:54:37Z
+  Updated: 2025-10-04T17:46:32Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-reutilizaveis-bombeiros-921937325-8410782193739-brincatoys-1182965216.jpg?v=1756214283
   Price: 9,80 € EUR
 - [Autocolantes reutilizáveis - Dinossauros](https://brincatoys.pt/products/autocolantes-reutilizaveis-dinossauros): Transforma quartos, janelas ou mesas numa numa viagem ao período jurássico que cabe na palma da mão.com o set de Autocolantes Reutilizáveis para crianças – Dinossauros. Em primeiro lugar, este kit inclui um painel de 40×30 cm com uma ilustração vibrante de paisagem pré-histórica — pântanos, florestas tropicais e vulcões em erupção — que serve de cenário para as tuas criações. Além disso, quatro folhas com mais de 50 autocolantes reutilizáveis trazem ao teu alcance espécies icónicas como T-Rex, Velociraptor, Triceratops, Pterodáctilo e muito mais, bem como folhas, ovos e pequenos insetos fósseis. Por outro lado, graças ao adesivo suave, as crianças podem colar, descolar e reposicionar as figuras inúmeras vezes sem danificar superfícies, tornando cada brincadeira sempre diferente. Do mesmo modo, o material resistente à água facilita a limpeza: basta passar um pano húmido para remover resíduos de pó e permitir novas composições. Por isso, o kit adapta-se a várias superfícies lisas – vidro, metal, plástico ou paredes pintadas – sem deixar vestígios. Ademais, o design colorido e divertido estimula a coordenação motora fina e e o sentido de sequência narrativa. Consequentemente, esta atividade desenvolve a coordenação motora fina e estimula a criatividade, ao mesmo tempo que apresenta conceitos básicos de paleontologia. Ademais, ao identificar cada dinossauro, a criança aprende a relacionar formas, cores e nomes científicos num contexto lúdico. Ganha-se vocabulário especializado e reforça-se o interesse pela ciência de forma divertida. Do mesmo modo, a aplicação é simples: basta destacar a figura, colar no local pretendido e ajustar a composição conforme a imaginação de cada criança. Desta forma, os Autocolantes Reutilizáveis para crianças – Dinossauros revelam-se perfeitos para passatempo educativo. Por outro lado, a embalagem compacta mantém todos os elementos organizados e fáceis de transportar, ideal para levar em viagens ou atividades em grupo. Por fim, o Autocolantes Reutilizáveis – Dinossauros transforma qualquer espaço num verdadeiro museu de história natural, onde cada história pré-histórica ganha vida com um simples toque. Em suma... Cenário de 40×30 cm com cenário jurássico detalhado +50 autocolantes reutilizáveis: dinossauros, plantas, ovos e insetos Adesivo suave, sem PVC, não danifica superfícies Fácil limpeza com pano húmido e reposicionamento ilimitado Estimula coordenação motora fina, criatividade e vocabulário Recomendado para maiores de 3 anos, certificado CE Dimensão: 22 x 23,40 x 1 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-10-03T09:14:25Z
+  Updated: 2025-10-04T17:47:28Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20711,7 +20704,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-combaticon-vortex-acao-total-861028525-5010996327147-transformers-1184379125.jpg?v=1756215019
   Price: 36,50 € EUR
 - [Brinquedos da Patrulha Pata Rubble - Diversão para Crianças](https://brincatoys.pt/products/patrulha-pata-everest): Descubra os Brinquedos da Patrulha Pata Rubble eco-friendly e robusto para horas de jogo imaginativo e educação ambientaL do seu pequeno herói.
-  Updated: 2025-09-29T20:56:50Z
+  Updated: 2025-10-04T17:18:25Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -20809,7 +20802,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-telefone-unicornio-820541024-2600000-brincatoys-1178695471.jpg?v=1752875536
   Price: 24,50 € EUR
 - [Lego Speed Champions 76916 Porsche 963: Detalhes Incríveis](https://brincatoys.pt/products/lego-speed-champions-porsche-963-copia): Monte seu próprio  Lego Speed Champions 76916 Porsche 963! Apaixone-se pela réplica detalhada e sinta a emoção das pistas de Le Mans. 🏁
-  Updated: 2025-10-03T19:57:55Z
+  Updated: 2025-10-04T17:52:32Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -20914,7 +20907,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-uno-show-em-no-mercy-diversao-estrategica-772080924-0194735220809-uno-1178699924.jpg?v=1752790206
   Price: 17,90 € EUR
 - [Patrulha Pata Rex – Veículo de Resgate para Crianças](https://brincatoys.pt/products/patrulha-pata-rex): Transforme a diversão em casa com o Patrulha Pata Rex – Veículo de Resgate. Pronto para aventuras, o jipe azul e a figura do Rex trazem ação!
-  Updated: 2025-10-04T09:57:18Z
+  Updated: 2025-10-04T17:15:48Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -21206,8 +21199,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
 ## Collections
 
 - [Ar livre](https://brincatoys.pt/collections/ar-livre)
-  Updated: 2025-10-03T13:39:35Z
-  Total Products: 68
+  Updated: 2025-10-04T18:27:38Z
+  Total Products: 67
 - [Caixas de música](https://brincatoys.pt/collections/caixas-de-musica)
   Updated: 2025-10-03T12:44:27Z
   Total Products: 63
@@ -21218,7 +21211,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-02T18:51:00Z
+  Updated: 2025-10-04T19:06:57Z
   Total Products: 566
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-03T13:38:29Z
@@ -21272,7 +21265,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T23:47:10Z
   Total Products: 10
 - [Lego Technic](https://brincatoys.pt/collections/lego-technic): Os conjuntos LEGO® Technic oferecem experiências de construção avançadas e complexas com base em veículos reais grandes e pequenos, como carros desportivos, veículos de construção e motas. Estes veículos estão repletos de detalhes autênticos, como caixas de velocidade, rodas e eixos funcionais.
-  Updated: 2025-09-29T23:05:23Z
+  Updated: 2025-10-04T18:12:26Z
   Total Products: 21
 - [Outras coleções](https://brincatoys.pt/collections/outras-colecoes)
   Updated: 2025-09-23T18:59:21Z
@@ -21284,8 +21277,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:21:04Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-10-03T14:46:41Z
-  Total Products: 243
+  Updated: 2025-10-04T18:10:18Z
+  Total Products: 242
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
   Total Products: 1
@@ -21326,8 +21319,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T13:37:25Z
   Total Products: 46
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-10-03T11:05:59Z
-  Total Products: 202
+  Updated: 2025-10-04T18:23:54Z
+  Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-10-03T14:48:40Z
   Total Products: 166
@@ -21356,14 +21349,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T11:19:23Z
   Total Products: 329
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 1534
+  Updated: 2025-10-04T18:23:54Z
+  Total Products: 1532
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-03T14:47:10Z
-  Total Products: 709
+  Updated: 2025-10-04T19:06:57Z
+  Total Products: 710
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-03T13:40:04Z
-  Total Products: 314
+  Updated: 2025-10-04T18:27:38Z
+  Total Products: 313
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-03T13:38:28Z
   Total Products: 20
@@ -21374,28 +21367,28 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T11:19:23Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-04T10:59:27Z
+  Updated: 2025-10-04T19:49:40Z
   Total Products: 1310
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 2410
+  Updated: 2025-10-04T19:49:40Z
+  Total Products: 2414
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 2876
+  Updated: 2025-10-04T19:49:40Z
+  Total Products: 2880
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3259
+  Updated: 2025-10-04T19:49:40Z
+  Total Products: 3263
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3392
+  Updated: 2025-10-04T19:49:40Z
+  Total Products: 3396
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3471
+  Updated: 2025-10-04T19:49:40Z
+  Total Products: 3475
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3520
+  Updated: 2025-10-04T19:49:40Z
+  Total Products: 3524
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-03T14:48:40Z
+  Updated: 2025-10-04T19:06:57Z
   Total Products: 370
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21476,8 +21469,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-29T21:44:01Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
-  Updated: 2025-10-02T18:51:00Z
-  Total Products: 47
+  Updated: 2025-10-04T18:14:42Z
+  Total Products: 46
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
   Updated: 2025-10-01T11:22:29Z
   Total Products: 32
@@ -21500,10 +21493,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-31T17:42:37Z
   Total Products: 1
 - [Hot Wheels](https://brincatoys.pt/collections/hot-wheels)
-  Updated: 2025-09-30T11:47:12Z
-  Total Products: 30
+  Updated: 2025-10-04T18:23:54Z
+  Total Products: 29
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T18:12:26Z
   Total Products: 345
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-04T15:10:09Z
@@ -21530,8 +21523,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:23:06Z
   Total Products: 7
 - [Nerf](https://brincatoys.pt/collections/nerf)
-  Updated: 2025-10-03T13:39:35Z
-  Total Products: 13
+  Updated: 2025-10-04T18:27:38Z
+  Total Products: 12
 - [Overwatch](https://brincatoys.pt/collections/overwatch)
   Updated: 2025-09-13T14:45:06Z
   Total Products: 0
@@ -21542,8 +21535,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T13:40:01Z
   Total Products: 14
 - [Playmobil](https://brincatoys.pt/collections/playmobil)
-  Updated: 2025-10-03T14:46:41Z
-  Total Products: 132
+  Updated: 2025-10-04T18:10:18Z
+  Total Products: 131
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
   Updated: 2025-10-02T11:22:50Z
   Total Products: 101
@@ -21584,11 +21577,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3553
+  Updated: 2025-10-04T19:49:41Z
+  Total Products: 3557
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-03T14:00:32Z
-  Total Products: 286
+  Updated: 2025-10-04T18:18:58Z
+  Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-03T11:22:09Z
   Total Products: 185
@@ -21599,14 +21592,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T15:15:15Z
   Total Products: 1178
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-03T14:47:10Z
-  Total Products: 486
+  Updated: 2025-10-04T19:26:42Z
+  Total Products: 488
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-03T14:01:02Z
   Total Products: 142
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-03T14:00:32Z
-  Total Products: 187
+  Updated: 2025-10-04T18:14:42Z
+  Total Products: 185
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-02T17:59:51Z
   Total Products: 75
@@ -21620,23 +21613,23 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:22:09Z
   Total Products: 85
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3553
+  Updated: 2025-10-04T19:49:41Z
+  Total Products: 3557
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 3553
+  Updated: 2025-10-04T19:49:41Z
+  Total Products: 3557
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
   Total Products: 24
 - [Godzilla vs Kong](https://brincatoys.pt/collections/godzilla-vs-kong)
-  Updated: 2025-09-21T11:28:46Z
-  Total Products: 6
+  Updated: 2025-10-04T19:26:42Z
+  Total Products: 8
 - [Stumble Guys](https://brincatoys.pt/collections/stumble-guys)
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-04T09:18:39Z
-  Total Products: 3063
+  Updated: 2025-10-04T19:49:41Z
+  Total Products: 3069
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21644,11 +21637,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T14:48:40Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-04T09:18:39Z
-  Total Products: 3063
+  Updated: 2025-10-04T19:49:41Z
+  Total Products: 3069
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-03T11:22:09Z
-  Total Products: 937
+  Updated: 2025-10-04T19:49:26Z
+  Total Products: 942
 
 ## Blogs
 
