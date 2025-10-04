@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-03T20:01:01.441Z
+- Updated At: 2025-10-04T04:01:02.343Z
 
 ## Products
 
@@ -11378,7 +11378,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה | דני אבדיה](https://www.rsport.co.il/products/washington-wizards-white-danny-abudia): גופייה בהשראת סגנון המשחק של הקבוצה, עשויה 100% פוליאסטר קל ונושם. מספקת חופש תנועה מלא ונוחות לאורך כל המשחק או האימון. העיצוב משלב סטייל מודרני וצבעי הקבוצה בצורה ברורה ומרשימה, אידיאלית לאוהדים שרוצים להרגיש חלק מהקבוצה על המגרש ובחיי היום-יום.
-  Updated: 2025-10-03T13:18:10Z
+  Updated: 2025-10-04T02:30:15Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11426,7 +11426,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ורודה 22/23 דני אבדיה](https://www.rsport.co.il/products/washington-wizards-pink-22-23-danny-abudia): גופיית משחק ורודה של דני אבדיה בעונת 22/23, בד קל ונושם 100% פוליאסטר. אידיאלית למגרש ולאימון, מספקת חופש תנועה, תחושת יובש ונוחות לאורך כל הפעילות, עם סטייל מקצועי ומודרני.
-  Updated: 2025-10-03T13:17:46Z
+  Updated: 2025-10-04T02:06:39Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11450,7 +11450,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ורודה 22/23 קייל קוזמה](https://www.rsport.co.il/products/washington-wizards-pink-22-23-kyle-kuzma): גופיית משחק ורודה של קייל קוזמה בעונת 22/23, עשויה 100% פוליאסטר קל ונושם. מספקת חופש תנועה ונוחות מירבית, עיצוב מודרני ומראה מקצועי המותאם לאימון, משחק או שימוש יום-יומי.
-  Updated: 2025-10-03T13:17:46Z
+  Updated: 2025-10-04T03:07:07Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11756,7 +11756,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו כחולה קליבלנד קאבלירס 08/09 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-blue-08-09-lebron-james-cleveland-cavaliers): סטייל רטרו כחול קליבלנד קאבלירס 08/09 עם שם ומספר של לברון ג'יימס. מתאימה למשחק, אימון או ללבישה יום-יומית בסגנון ספורטיבי איכותי.
-  Updated: 2025-10-03T14:15:54Z
+  Updated: 2025-10-04T03:20:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11804,7 +11804,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו אדומה קליבלנד קאבלירס 2003/04 | לברון ג'יימס](https://www.rsport.co.il/products/retro-jersey-red-2003-04-lebron-james-cleveland-cavaliers): חוויית רטרו אדומה של קליבלנד קאבלירס 03/04 עם שם ומספר של לברון ג'יימס. גופייה נושמת וגמישה, מושלמת לאוהדים ולשימוש במגרש.
-  Updated: 2025-10-03T14:14:37Z
+  Updated: 2025-10-04T02:47:29Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11852,7 +11852,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית קליבלנד קאבלירס | קולין סקסטון](https://www.rsport.co.il/products/jersey-collin-sexton-cleveland-cavaliers): עיצוב קל ומרווח בגופיית קליבלנד קאבלירס עם שם קולין סקסטון בגב. אידיאלית לאוהדים המעוניינים בלבוש ספורטיבי עם חופש תנועה ונוחות מירבית.
-  Updated: 2025-10-03T14:13:36Z
+  Updated: 2025-10-04T02:51:07Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11924,7 +11924,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית קליבלנד קאבלירס לבנה | דונובן מיצ'ל](https://www.rsport.co.il/products/jersey-white-donovan-mitchell-cleveland-cavaliers): גופייה לבנה בהשראת הקבוצה, עם פרטי דונובן מיצ'ל בגב. בד קל ונושם שמאפשר משחק חופשי ותנועות נוחות לאורך כל הפעילות הספורטיבית.
-  Updated: 2025-10-03T14:12:08Z
+  Updated: 2025-10-04T03:40:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12212,7 +12212,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק צהובה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-yellow-jersey): גופיית משחק צהובה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית לסטייל וספורט
-  Updated: 2025-10-03T12:47:46Z
+  Updated: 2025-10-04T01:46:28Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12236,7 +12236,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-black-jersey): גופיית משחק שחורה מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל ומגרש
-  Updated: 2025-10-03T12:47:12Z
+  Updated: 2025-10-04T02:00:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12308,7 +12308,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ורודה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-pink-jersey): גופיית משחק ורודה מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל וספורט
-  Updated: 2025-10-03T12:45:38Z
+  Updated: 2025-10-04T02:15:35Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12332,7 +12332,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק רטרו מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-retro): גופיית משחק רטרו מיאמי היט עם דווין וייד, איכותית ונוסטלגית למגרש ולסטייל רחוב
-  Updated: 2025-10-03T12:44:44Z
+  Updated: 2025-10-04T03:56:10Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12380,7 +12380,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו לבה מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-lava-retro): גופיית רטרו לבה מיאמי היט עם דווין וייד, איכותית ונוסטלגית מעונת 2005/06
-  Updated: 2025-10-03T12:39:22Z
+  Updated: 2025-10-04T02:01:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12404,7 +12404,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק City Edition מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-city-edition): גופיית משחק City Edition מיאמי היט עם ג'ימי באטלר, איכותית ונוחה לסטייל וספורט
-  Updated: 2025-10-03T12:40:21Z
+  Updated: 2025-10-04T02:07:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12428,7 +12428,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק אדומה מיאמי היט ג'ימי באטלר R:SPORT](https://www.rsport.co.il/products/miami-heat-jimmy-butler-red-jersey): גופיית משחק אדומה מיאמי היט עם ג'ימי באטלר, נוחה ואיכותית למגרש ולסטייל יומיומי
-  Updated: 2025-10-03T12:37:39Z
+  Updated: 2025-10-04T03:42:00Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12452,7 +12452,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק מיאמי היט באם אדבאיו R:SPORT](https://www.rsport.co.il/products/miami-heat-bam-adabayo-jersey): גופיית משחק מיאמי היט עם באם אדבאיו, נוחה ואיכותית, מושלמת לסטייל וספורט
-  Updated: 2025-10-03T12:36:47Z
+  Updated: 2025-10-04T03:42:09Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12476,7 +12476,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [מכנסי משחק לבן מיאמי היט R:SPORT](https://www.rsport.co.il/products/miami-heat-white-pants): מכנסי משחק מיאמי היט בצבע לבן, נוחים ואיכותיים למגרש ולחיי יום יום
-  Updated: 2025-10-03T11:54:04Z
+  Updated: 2025-10-04T01:14:56Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12500,7 +12500,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק מיאמי היט | צבע שחור R:SPORT](https://www.rsport.co.il/products/miami-heat-black-shorts): תמוך במיאמי היט עם מכנסי משחק בצבע שחור מבית R:SPORT. בד נושם ונעים, גזרה מותאמת לנוחות מלאה על המגרש וביום יום, מתאים לאוהדים שרוצים להרגיש חלק מהקבוצה.
-  Updated: 2025-10-03T11:51:25Z
+  Updated: 2025-10-04T00:15:43Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12524,7 +12524,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחורים מיאמי היט R:SPORT](https://www.rsport.co.il/products/miami-heat-black-pants): מכנסי משחק שחורים מיאמי היט נוחים ואיכותיים, מתאימים לסטייל רחוב ולספורט יומיומי
-  Updated: 2025-10-03T11:49:34Z
+  Updated: 2025-10-04T00:53:36Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12548,7 +12548,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק תכלת/ורוד מיאמי היט R:SPORT](https://www.rsport.co.il/products/miami-heat-pink-teal-pants): מכנסי משחק תכלת/ורוד מיאמי היט נוחים ואיכותיים, מושלמים לאוהדי NBA לסטייל וספורט יומיומי
-  Updated: 2025-10-03T11:47:53Z
+  Updated: 2025-10-04T00:51:56Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12716,7 +12716,7 @@
     Availability: Available
     Price: ‏249.90 ‏₪ ILS
 - [גופיית משחק יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-giannis): גופיית משחק של יאניס אנטטוקומפו מילווקי באקס עם עיצוב ספורטיבי שמתאים למגרש וליום יום.
-  Updated: 2025-10-03T11:28:37Z
+  Updated: 2025-10-04T01:15:41Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12740,7 +12740,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק 2024 יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-2024-giannis): גופיית משחק של יאניס אנטטוקומפו לעונת 2024 בעיצוב חדשני ונוח לאוהדים.
-  Updated: 2025-10-03T11:25:31Z
+  Updated: 2025-10-04T00:26:49Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12764,7 +12764,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-black-giannis): גופיית משחק שחורה של יאניס אנטטוקומפו מילווקי באקס עם עיצוב ספורטיבי קלאסי.
-  Updated: 2025-10-03T11:22:47Z
+  Updated: 2025-10-04T01:30:09Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12788,7 +12788,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-white-giannis): גופיית משחק לבנה של יאניס אנטטוקומפו מילווקי באקס, בעיצוב נקי ונוח ללבישה ספורטיבית.
-  Updated: 2025-10-03T11:20:35Z
+  Updated: 2025-10-04T00:22:43Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12812,7 +12812,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק כחולה יאניס אנטטוקומפו מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-blue-giannis): גופיית משחק כחולה של יאניס אנטטוקומפו מילווקי באקס, מתאימה לאוהדים ולשימוש יומיומי.
-  Updated: 2025-10-03T11:19:13Z
+  Updated: 2025-10-04T01:09:11Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12836,7 +12836,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ALL STAR יאניס אנטטוקומפו | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-allstar-giannis): גופיית משחק בעיצוב ALL STAR של יאניס אנטטוקומפו עם גזרה נוחה ובד ספורטיבי לנוחות מרבית.
-  Updated: 2025-10-03T11:15:15Z
+  Updated: 2025-10-04T00:24:37Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12860,7 +12860,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק מהדורת זהב יאניס אנטטוקומפו | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-gold-giannis): גופיית משחק במהדורת זהב של יאניס אנטטוקומפו מילווקי באקס בעיצוב מודרני וייחודי.
-  Updated: 2025-10-03T11:13:55Z
+  Updated: 2025-10-04T00:46:26Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12884,7 +12884,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה מהדורת זהב יאניס אנטטוקומפו | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-white-gold-giannis): גופיית משחק לבנה במהדורת זהב של יאניס אנטטוקומפו עם עיצוב מיוחד לגברים ונוחות מקסימלית.
-  Updated: 2025-10-03T11:12:10Z
+  Updated: 2025-10-04T00:47:29Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12908,7 +12908,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית רטרו ריי אלן מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-jersey-retro-rayallen): גופיית רטרו של ריי אלן מילווקי באקס בעיצוב נוסטלגי ואייקוני, מתאימה לאוהדי הכדורסל והקבוצה.
-  Updated: 2025-10-03T11:10:44Z
+  Updated: 2025-10-04T00:49:11Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12932,7 +12932,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [מכנסי משחק מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-shorts): מכנסי משחק בעיצוב הקלאסי של מילווקי באקס, נוחים לשימוש בספורט או לסטייל יומיומי.
-  Updated: 2025-10-03T11:09:23Z
+  Updated: 2025-10-03T23:42:29Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12956,7 +12956,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק שחורים מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-shorts-black): מכנסי משחק שחורים של מילווקי באקס עם בד נושם וגזרה ספורטיבית, מתאימים לאוהדים ולפעילות ספורט.
-  Updated: 2025-10-03T11:06:25Z
+  Updated: 2025-10-04T00:22:10Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -12980,7 +12980,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [מכנסי משחק לבנים מילווקי באקס | R:Sport](https://www.rsport.co.il/products/mlwbucks-shorts-green): מכנסי משחק לבנים של מילווקי באקס בעיצוב נוח ואיכותי, מתאימים למגרש וללבוש יום יומי.
-  Updated: 2025-10-03T11:04:21Z
+  Updated: 2025-10-03T23:41:24Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -14231,7 +14231,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית משחק אדומה ALL STAR | ניקולה יוקיץ'](https://www.rsport.co.il/products/den-yokic-as): ‏גופיית משחק דנבר נאגטס עם ניקולה יוקיץ במהדורת All-Star בעיצוב איכותי, לסטייל NBA וספורט יומיומי
-  Updated: 2025-10-03T13:02:06Z
+  Updated: 2025-10-04T03:35:22Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
