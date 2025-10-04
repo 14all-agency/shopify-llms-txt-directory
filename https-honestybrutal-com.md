@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-04T00:00:28.657Z
+- Updated At: 2025-10-04T04:00:30.548Z
 
 ## Products
 
@@ -1114,7 +1114,7 @@
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/GreenTailBag1.jpg?v=1756430609
   Price: $298.00 USD
 - [Night Petal Crossbody Vegan Leather bag](https://honestybrutal.com/products/night-petal-crossbody-bag): The Artist Statement Softness with bite. Night Petal opens in bloom and ends in bruise — a swirl of lavender, plum, and bone drawn from an original alcohol ink painting by Alex Z. Wang. Like a flower blooming in the dark, this crossbody carries tension and elegance in equal measure. Whether worn across the chest or clipped to your wrist, the modular strap system adapts to wherever the night pulls you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-03T13:23:06Z
+  Updated: 2025-10-04T02:10:55Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
@@ -2287,7 +2287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
 - [Undergrowth Backpack](https://honestybrutal.com/products/undergrowth-packpack): The Artist Statement The Undergrowth Backpack layers deep greens, earthy golds, and flashes of magenta into a dynamic composition — a canvas inspired by organic textures and raw movement. Built for daily use yet elevated as wearable art, it blends utility with statement. The Technicals Leather and padded canvas construction Waterproof lining Fits laptops up to 17” Dimensions: 13.4” × 15.75” × 5.12” Adjustable straps for comfort Handmade to order Transparency & Care Each backpack is handcrafted individually — no overproduction, no waste. Designed for function and style in equal measure. To preserve its look: Surface wipe only Clean gently by hand with a mild, soapy damp cloth Avoid harsh chemicals or machine washing
-  Updated: 2025-10-03T13:03:01Z
+  Updated: 2025-10-04T03:30:29Z
   Vendor: Contrado
   Product Type: Backpack
   Availability: Available
