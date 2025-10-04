@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-02T04:38:14.095Z
+- Updated At: 2025-10-04T12:00:31.071Z
 
 ## Products
 
@@ -469,7 +469,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/1046.png?v=1673509141
   Price: RM 360.00 MYR
 - [DOCASA Square Counter Mounting Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-square-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-cap): Material: Ceramic Dimension: 400 (W) x 400 (L) x 145 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2024-04-18T15:04:06Z
+  Updated: 2025-10-03T04:58:21Z
   Vendor: DOCASA
   Product Type: Counter Top Basin
   Availability: Available
@@ -980,7 +980,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTMR602-BL4.jpg?v=1674139034
   Price: RM 450.00 MYR
 - [SORENTO 800mm Rectangle Matte Black Finish Mirror](https://bath2u.com/products/sorento-800mm-rectangle-matte-black-finish-mirror): With its trendy brushed brass matte black frame, this striking Rectangle Mirror is ideal for creating a stylish urban look.Product Details Diameter: 800 (W) x 600 (H) mm Finish: Brushed Brass Material: Stainless Steel Shape: Rectangle Wall hung
-  Updated: 2024-04-18T15:04:55Z
+  Updated: 2025-10-03T07:28:06Z
   Vendor: SORENTO
   Product Type: Bathroom Mirror
   Availability: Available
