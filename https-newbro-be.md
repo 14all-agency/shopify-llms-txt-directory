@@ -1,12 +1,16 @@
 # BRO Webshop (https://newbro.be)
 
+> Ontdek onze collectie hijabs en islamitische kleding – stijlvol, bescheiden en gemaakt voor elke dag én speciale momenten.
+Discover our collection of hijabs and Islamic clothing – stylish, modest, and made for everyday wear as well as special occasions.
+Découvrez notre collection de hijabs et de vêtements islamiques – élégants, modestes et conçus pour le quotidien comme pour les occasions spéciales.
+
 - Domain: https://newbro.be
 - Locale: nl
 - Currency: EUR
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-04T21:51:05.771Z
+- Updated At: 2025-10-04T21:57:41.536Z
 
 ## Products
 
@@ -6423,12 +6427,6 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 - [Elegante Burkini Collectie voor Dames Online](https://newbro.be/collections/elegante-burkini-collectie-voor-dames-bij-bro-webshop): Elegante burkini collectie voor dames. Modieuze, sneldrogende burkinis die comfort en stijl combineren. Ideaal voor strand en zwembad - BRO Webshop
   Updated: 2025-10-04T21:39:41Z
   Total Products: 10
-- [Specials](https://newbro.be/collections/specials): Speciale aanbiedingen.
-  Updated: 2025-10-04T13:39:03Z
-  Total Products: 2
-- [Volumediscounts](https://newbro.be/collections/volumediscounts): Alle producten die in aanmerking komen voor volumediscounts maar niet afgeprijst zijn (of maw vergelijkingsprijs is leeg)
-  Updated: 2025-09-27T22:07:20Z
-  Total Products: 73
 - [Stretchy & comfortabel](https://newbro.be/collections/stretchy-comfortabel-premium-jersey)
   Updated: 2025-10-04T13:39:03Z
   Total Products: 3
@@ -6496,10 +6494,6 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 
 - [Privacy Policy](https://newbro.be/policies/privacy-policy)
   Updated: 2025-07-10T23:25:28+02:00
-- [Shipping Policy](https://newbro.be/policies/shipping-policy)
-  Updated: 2025-07-10T21:29:12+02:00
-- [Refund Policy](https://newbro.be/policies/refund-policy)
-  Updated: 2025-06-20T20:39:22+02:00
 - [Terms of Service](https://newbro.be/policies/terms-of-service)
   Updated: 2025-08-03T20:36:54+02:00
 - [Contact Information](https://newbro.be/policies/contact-information)
