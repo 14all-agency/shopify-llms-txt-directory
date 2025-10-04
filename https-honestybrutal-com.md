@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-04T04:00:30.548Z
+- Updated At: 2025-10-04T08:00:30.317Z
 
 ## Products
 
@@ -1808,7 +1808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/LushMirageTeeFront.jpg?v=1756430552
     Price: $75.00 USD
 - [Night Petal Tee](https://honestybrutal.com/products/night-petal-tee): The Artistic Statement: Velvety violets and bruised mauves unfold in layered motion. Night Petal blooms from shadow, each petal-like form pulsing with the rhythm of dusk—dark, radiant, and quietly hypnotic. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
-  Updated: 2025-10-03T11:55:17Z
+  Updated: 2025-10-04T04:47:14Z
   Vendor: Honesty Brutal
   Product Type: 
   Availability: Available
@@ -2294,7 +2294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818587_undergrowth-packpack_0.jpg?v=1759496365
   Price: $345.00 USD
 - [Start Ash Crossbody Leather Bag](https://honestybrutal.com/products/start-ash-crossbody-bag): The Artist Statement Star Ash drifts in muted blues and soft ash tones, an atmospheric composition reimagined as a sleek crossbody. Compact yet refined, the piece carries quiet depth while remaining effortlessly versatile — equally at home for day or evening. The Technicals Genuine leather construction Dimensions: 9.6” × 7.3” 42” detachable nickel-plated chain strap Round metal zip pull Handmade to order Transparency & Care Each crossbody is crafted individually — no overproduction, no waste. Natural variations in leather surface and creasing are part of its character, developing into a unique patina over time.
-  Updated: 2025-10-03T13:26:35Z
+  Updated: 2025-10-04T04:03:11Z
   Vendor: Contrado
   Product Type: Crossbody Bag With Chain
   Availability: Available
@@ -2331,7 +2331,7 @@
     Availability: Available
     Price: $1,245.00 USD
 - [Aurora Handbag](https://honestybrutal.com/products/aurora-handbag): The Artist Statement Aurora blooms in luminous greens and deep blues, flowing across a classic tote silhouette. Bold yet versatile, this handbag balances refined structure with fluid artistry, carrying the energy of light breaking through shadow. The Technicals Genuine leather handles Two internal pockets Printed on both sides Double press-stud closure Handmade to order Transparency & Care Each handbag is crafted individually — no overproduction, no waste. Prints are embedded directly into the material for lasting vibrancy.
-  Updated: 2025-10-03T13:24:48Z
+  Updated: 2025-10-04T05:24:26Z
   Vendor: Contrado
   Product Type: Handbags
   Availability: Available
@@ -2345,7 +2345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818573_1_3d.jpg?v=1759497887
     Price: $450.00 USD
 - [The Weight Pigment Dyed Hoodie](https://honestybrutal.com/products/independent-pigment-dyed-hoodie): The Artist Statement The Weight Hoodie grounds the Honesty Brutal logo in a pigment-dyed wash, giving each piece a lived-in depth and individuality. Simple, direct, and built for comfort — it’s an everyday essential elevated with edge. The back makes Alex Z. Wang's painting, The Weight of Lightness, comes to life in motion. The Technicals 9 oz (300 gm) 80% cotton / 20% polyester blend Ring-spun cotton with 30 singles face yarn Standard unisex fit Pigment-dyed for a unique, washed look (color variations expected) Transparency & Care Each hoodie is pigment-dyed for a natural, vintage character. No two are identical — variations in tone and print are part of its design.
-  Updated: 2025-10-03T14:16:22Z
+  Updated: 2025-10-04T07:17:10Z
   Vendor: Apliiq
   Product Type: hoodie
   Availability: Available
