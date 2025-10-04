@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-03T16:00:32.810Z
+- Updated At: 2025-10-04T16:00:32.351Z
 
 ## Products
 
@@ -1235,7 +1235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Multi-Pro-2.jpg?v=1751478455
   Price: ₹1,050.00 INR
 - [Buy ​Samso Slimmer Mechanical Bathroom Scale - Surgismart](https://surgismart.in/products/samso-slimmer): Strong Mild Steel Body with high precision mechanism for greater accuracy Unique D Shape design Large View Scratch resistant lens Beautiful powder coated colours with stylish mats - Surgismart
-  Updated: 2025-08-13T07:38:39Z
+  Updated: 2025-10-03T16:48:20Z
   Vendor: Samso
   Product Type: Mechanical
   Availability: Available
@@ -2485,7 +2485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/feeding_bag.png?v=1751478166
   Price: ₹1,788.00 INR
 - [Buy ​Feedy Infant Feeding Tube - Surgismart](https://surgismart.in/products/feedy): Infant feeding tube with graduation Made from DEHP Free, non-toxic PVC material completely non-irritant to delicate mucosa. The tube features low friction, super smooth frozen surface ensuring non-traumatic intubation. The tube is marked at every cm starting from tip at 5cm to 40cm to enable accurate placement. Distal end of the tube is coned for smooth intubation and equipped with two lateral eyes for efficient drainage and administration. Proximal end is provided with female luer mount for easy connection to feeding funnel or syringe. Radio-opaque line facilitates accurate tube placement. Color coded for immediate size identification. Sterile, straight packed in peelable soft blister pack. Product Specifications Brand Romsons Generic Name Feeding Tube Manufactured By Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra- 282006 (U.P.) India Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing License MFG/MD/2022/000125 EAN 8907265403824 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-02T12:48:51Z
+  Updated: 2025-10-03T19:33:07Z
   Vendor: Romsons
   Product Type: Feeding Tube
   Availability: Available
@@ -3173,7 +3173,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suit, Navy](https://surgismart.in/products/classic-scrub-suit-navy): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-03T08:06:26Z
+  Updated: 2025-10-03T19:59:43Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3237,7 +3237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic Scrub Suit, Black](https://surgismart.in/products/classic-scrub-suit-black): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-03T09:01:15Z
+  Updated: 2025-10-03T19:43:33Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3258,7 +3258,7 @@
     Availability: Available
     Price: ₹749.00 INR
 - [Classic Scrub Suit, WIne](https://surgismart.in/products/classic-scrub-suit-wine): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-03T08:06:36Z
+  Updated: 2025-10-03T20:01:49Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
