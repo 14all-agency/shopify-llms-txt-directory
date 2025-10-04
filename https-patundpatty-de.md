@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-03T00:00:31.184Z
+- Updated At: 2025-10-04T00:00:30.603Z
 
 ## Products
 
@@ -1945,7 +1945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Temperaturausgleichende-Schurwollkugelchen-Naturf_llung-Aus-KbT-Wolle-PAT-Und-PATTY.jpg?v=1752305096
     Price: 215,90 € EUR
 - [Maiswatte Bastelwatte für Kissen, Spielzeug & Kuscheltiere](https://patundpatty.de/products/100-maiswatte-bastelwatte-als-fullwatte): Maiswatte Bastelwatte von PAT & PATTY: 100 % Maiswatte, weich, waschbar, nachhaltig und umweltfreundlich ideal für Kissen, Kuscheltiere, Puppen & DIY-Projekte.
-  Updated: 2025-10-01T18:56:03Z
+  Updated: 2025-10-03T09:46:05Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1967,7 +1967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-01T05:57:46Z
+  Updated: 2025-10-03T08:48:05Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2000,7 +2000,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Einhorn-Ros_-Magisches-Fantasie-Spielzeug-PAT-Und-PATTY.jpg?v=1752231391
   Price: 39,95 € EUR
 - [Bio Kuscheltier Drache – handgemachtes, weiches Plüschtier](https://patundpatty.de/products/bio-kuscheltier-drache-pluschtier): Bio Kuscheltier Drache von PAT & PATTY: handgemacht aus Bio-Baumwolle, weich, nachhaltig und liebevoll gefertigt – ideal zum Kuscheln für Kinder und Babys.
-  Updated: 2025-09-30T07:25:53Z
+  Updated: 2025-10-03T22:52:00Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2478,7 +2478,7 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-02T11:22:53Z
+  Updated: 2025-10-03T11:20:29Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-10-01T11:22:45Z
@@ -2743,6 +2743,13 @@
     Updated: 2025-10-02T04:19:17Z
     Author: Sharon
     Tags: was ist antiallergenes spielzeug
+  - [10 Gründe warum das Bio Lavendelkissen Schwein das perfekte nachhaltige Schnuffeltuch für Ihr Baby ist Bio Schmusetuch Pat & Patty online entdecke](https://patundpatty.de/blogs/news/10-grunde-warum-das-bio-lavendelkissen-schwein-das-perfekte-nachhaltige-schnuffeltuch-fur-ihr-baby-ist-bio-schmusetuch-pat-patty-online-entdecke): 10 Gründe warum das Bio Lavendelkissen Schwein das perfekte nachhaltige Schnuffeltuch für Ihr Baby ist Bio Schmusetuch Pat & Patty online entdecke
+    Updated: 2025-10-03T10:06:27Z
+    Author: Sharon Engel
+  - [Was ist waldorfpädagogisches Spielzeug? Verstehen und Erklären](https://patundpatty.de/blogs/news/was-ist-waldorfpaedagogisches-spielzeug): Erfahren Sie, was waldorfpädagogisches Spielzeug ist und warum es wichtig für die kindliche Entwicklung ist. Umfassende Erklärungen angestrebt.
+    Updated: 2025-10-03T10:55:23Z
+    Author: Sharon
+    Tags: was ist waldorfpädagogisches spielzeug
 
 ## Store Pages
 
