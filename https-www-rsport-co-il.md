@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-04T16:01:01.117Z
+- Updated At: 2025-10-04T20:01:01.145Z
 
 ## Products
 
@@ -11267,7 +11267,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [מכנס משחק כחול לוס אנג'לס קליפרס](https://www.rsport.co.il/products/מכנס-משחק-כחול-לוס-אנגלס-קליפרס): מכנסי המשחק הכחולים של לוס אנג'לס קליפרס משלבים את צבעי הקבוצה המסורתיים עם עיצוב מודרני ונוח. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בסגנון עדכני.
-  Updated: 2025-10-03T17:53:36Z
+  Updated: 2025-10-04T16:17:09Z
   Vendor: R:Sport
   Product Type: מכנס כדורסל
   Availability: Available
@@ -45949,6 +45949,20 @@
   - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374825722)
     Availability: Available
     Price: ‏899.90 ‏₪ ILS
+- [כדור כדורגל מקצועי גביע העולם 2026 Trionda](https://www.rsport.co.il/products/8947028558074-kgh26ad): תחווה את רמת המשחק של גביע העולם 2026 עם כדור הכדורגל Trionda. איכות מקצועית, עמידות גבוהה וביצועים מדויקים לכל משחק או אימון.
+  Updated: 2025-10-04T19:00:51Z
+  Vendor: R:Sport
+  Product Type: כדור רגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-04T215839.850.jpg?v=1759604342
+  Price: ‏850.00 ‏₪ ILS
+- [כדור רגל גביע העולם 2026 חצי מקצועי Trionda Competition Football](https://www.rsport.co.il/products/football-2026-competition-8947031015674): תשדרג את חוויית המשחק עם כדור רגל חצי מקצועי Trionda Competition לגביע העולם 2026. עמיד, מדויק ונוח למשחקים ואימונים.
+  Updated: 2025-10-04T19:00:36Z
+  Vendor: R:Sport
+  Product Type: כדור רגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_9ef75fde-2b24-485c-8d5c-fd5f3266b6ae.jpg?v=1759603603
+  Price: ‏550.00 ‏₪ ILS
 
 ## Collections
 
@@ -46283,8 +46297,8 @@
   Updated: 2025-10-02T11:52:11Z
   Total Products: 20
 - [כדורים](https://www.rsport.co.il/collections/כדורים)
-  Updated: 2025-09-18T14:52:05Z
-  Total Products: 11
+  Updated: 2025-10-04T19:01:49Z
+  Total Products: 14
 - [ריאל מדריד רטרו](https://www.rsport.co.il/collections/ריאל-מדריד-רטרו)
   Updated: 2025-10-02T11:15:14Z
   Total Products: 16
@@ -46427,8 +46441,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-04T13:59:26Z
-  Total Products: 2049
+  Updated: 2025-10-04T18:59:53Z
+  Total Products: 2052
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -46621,6 +46635,9 @@
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
   Updated: 2025-10-02T11:28:37Z
   Total Products: 62
+- [כדורי מונדיאל 2026 | World Cup Ball](https://www.rsport.co.il/collections/world-cup-ball): קנו עכשיו את כדורי מונדיאל 2026 בעיצוב בהשראת גביע העולם FIFA 2026. כולל טכנולוגיות SPEEDSHELL ו-CTR CORE, מושלם לאימון, משחק ואספנות. תמיכה בקבוצות כמו ספרד, ברזיל, ארגנטינה וגרמניה. World Cup Ball עדכני לכל אוהד כדורגל
+  Updated: 2025-10-04T19:23:24Z
+  Total Products: 3
 
 ## Blogs
 
