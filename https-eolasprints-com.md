@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-04T12:00:32.746Z
+- Updated At: 2025-10-04T23:05:21.846Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-10-03T08:29:22Z
+  Updated: 2025-10-04T13:35:45Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -677,7 +677,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-orange-1-75-mm-1-kg-light-734.webp?v=1759097047
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Turquoise](https://eolasprints.com/products/tpu-filament?variant=42329778880771)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-teal-3d-1-75-mm-1-kg-turquoise-793.webp?v=1759097084
     Price: €34.90 EUR
   - [1.75 mm / 1 Kg / Violet](https://eolasprints.com/products/tpu-filament?variant=42329778946307)
@@ -777,7 +777,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-1-kg-547.webp?v=1759097053
     Price: €34.90 EUR
 - [Tpu Transition Filament for 3d Printing](https://eolasprints.com/products/tpu-transition-filament): Eolas Prints TPU transition filament offers seamless multi-color blending for striking gradient effects. This durable, flexible TPU creates visually unique 3D prints.
-  Updated: 2025-09-29T11:53:29Z
+  Updated: 2025-10-04T13:35:47Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -787,7 +787,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
     Price: €11.49 EUR
   - [1.75 mm / 1 Kg / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558381315)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
     Price: €22.50 EUR
   - [2.85 mm / 1 Kg / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558446851)
@@ -813,7 +813,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-transition-filament-spool-blue-3d-1-75-mm-250-g-329.webp?v=1726049262
     Price: €17.40 EUR
 - [Pla Pellets Carbon Neutral Shipping Soil Forest](https://eolasprints.com/products/pla-pellets): PLA pellets from Eolas Prints offer a sustainable, biodegradable alternative for 3D printing. A cost-effective material with carbon-neutral shipping for eco-friendly use.
-  Updated: 2025-09-29T11:53:19Z
+  Updated: 2025-10-04T12:35:36Z
   Vendor: Eolas Prints
   Product Type: Pellets
   Availability: Available
@@ -1387,12 +1387,19 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/cricut-maker-3-739.webp?v=1734022402
   Price: €496.55 EUR
 - [Prusa Core one E3d V6 Motors Rpm Monitoring](https://eolasprints.com/products/prusa-core-one): The Prusa Core One at Eolas Prints offers pro 3D printing with a CoreXY design. It is E3D V6 compatible and features motors RPM monitoring for precision.
-  Updated: 2025-09-29T23:52:41Z
+  Updated: 2025-10-04T12:38:17Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-black-orange-3d-636.webp?v=1759097462
-  Price: €1,499.00 EUR
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-black-orange-3d-636.webp?v=1759585750
+  - [Assembled](https://eolasprints.com/products/prusa-core-one?variant=52470317285703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-black-orange-3d-636.webp?v=1759585750
+    Price: €1,499.00 EUR
+  - [Kit](https://eolasprints.com/products/prusa-core-one?variant=52470317318471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-black-orange-3d-kit-570.webp?v=1759585750
+    Price: €1,099.00 EUR
 - [Prusa Pro Ht90 Swappable Direct-drive Loadcell Sensor](https://eolasprints.com/products/prusa-pro-ht90): The Prusa Pro HT90 delta 3D printer offers precision with its swappable direct-drive, loadcell sensor, and a spacious Ø300 × 400 mm build volume.
   Updated: 2025-09-28T23:14:53Z
   Vendor: Prusa Research
@@ -1595,6 +1602,18 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-machine-250.webp?v=1759190199
     Price: €7,399.00 EUR
+- [Prusa Core one Ultimate Edition E3d V6 Compatible](https://eolasprints.com/products/prusa-core-one-ultimate-edition): The Prusa Core One Ultimate Edition is a professional CoreXY 3D printer with an enclosed chamber, motors rpm monitoring, and an E3D V6 compatible system for speed.
+  Updated: 2025-10-04T21:13:51Z
+  Vendor: Prusa Research
+  Product Type: 3D Printer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-ultimate-edition-3d-printer-accessories-294.webp?v=1759586566
+  - [Assembled](https://eolasprints.com/products/prusa-core-one-ultimate-edition?variant=52470902980935)
+    Availability: Available
+    Price: €1,799.00 EUR
+  - [Kit](https://eolasprints.com/products/prusa-core-one-ultimate-edition?variant=52470903013703)
+    Availability: Available
+    Price: €1,499.00 EUR
 
 ## Collections
 
@@ -1638,8 +1657,8 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-09-28T22:41:04Z
   Total Products: 7
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
-  Updated: 2025-09-28T22:41:24Z
-  Total Products: 16
+  Updated: 2025-10-04T13:50:07Z
+  Total Products: 17
 
 ## Blogs
 
