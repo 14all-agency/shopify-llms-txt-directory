@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-04T04:00:50.141Z
+- Updated At: 2025-10-04T08:00:47.269Z
 
 ## Products
 
@@ -7098,7 +7098,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-04T03:01:20Z
+  Updated: 2025-10-04T07:23:17Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -8694,7 +8694,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $110.00 NZD
 - [TINY TROVE Woodie 3D Logo Tracksuit - Seafoam](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-seafoam): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D logo detail on sweater & pant and hand-stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only. Photos by @ohmycookies_
-  Updated: 2025-08-06T22:36:14Z
+  Updated: 2025-10-04T07:18:23Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
@@ -8715,7 +8715,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $110.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-seafoam?variant=40691805061214)
-    Availability: Available
+    Availability: Not Available
     Price: $110.00 NZD
   - [5y](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-3d-logo-tracksuit-seafoam?variant=40691805093982)
     Availability: Available
@@ -11781,13 +11781,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $30.00 NZD
 - [QUINCY MAE Finn Rashguard + Short Set - Mint Stripe](https://www.littlebambinos.co.nz/products/quincy-mae-finn-rashguard-short-set-mint-stripe): The most adorable booties! The Miro knit boots are super warm and cosy and feature little berry pompoms on a tie string for an adjustable fit. Made from 100% merino wool.
-  Updated: 2025-08-06T22:36:36Z
+  Updated: 2025-10-04T07:40:12Z
   Vendor: Quincy Mae
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM130COBB-MINT-1.jpg?v=1739759537
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-finn-rashguard-short-set-mint-stripe?variant=41416330117214)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/quincy-mae-finn-rashguard-short-set-mint-stripe?variant=41416330149982)
     Availability: Not Available
@@ -13236,7 +13236,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sleep_support_34e79e0c-b239-44d4-95b7-ae165fdd3735.jpg?v=1744072650
   Price: $39.00 NZD
 - [ORIA SKIN Stress Relief](https://www.littlebambinos.co.nz/products/peaceofmindrollerblend): 100% Natural Balance moodRelieve burnout Soothe your mind Crafted to bring your hormones & mind into balance, Stress Relief uses the therapeutic power of nature’s most calming oils. Roll on & let frankincense & clary sage provide a sense of peace & relief from agitated feelings. Previously named Peace of Mind roller. 10ml Ritual Roll onto pulse points (neck, wrists, soles of the feet) when in need of calm. Take a deep breath to inhale the aromas. Not recommended for early stages of pregnancy.
-  Updated: 2025-09-27T06:42:40Z
+  Updated: 2025-10-04T06:02:45Z
   Vendor: Oria Skin
   Product Type: Roller Blend
   Availability: Available
@@ -15352,7 +15352,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $99.00 NZD
 - [KONGES SLOJD Frankie Overall Dress - Felice](https://www.littlebambinos.co.nz/products/konges-slojd-frankie-overall-dress-felice): Classic spencer dress in a soft cotton twill quality. Designed with buckle closure in front and a slightly A-shaped silhouette.
-  Updated: 2025-10-01T06:47:26Z
+  Updated: 2025-10-04T07:18:23Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
@@ -15367,7 +15367,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $99.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-frankie-overall-dress-felice?variant=41854692851806)
-    Availability: Available
+    Availability: Not Available
     Price: $99.00 NZD
   - [5-6y](https://www.littlebambinos.co.nz/products/konges-slojd-frankie-overall-dress-felice?variant=41854695309406)
     Availability: Available
@@ -15656,7 +15656,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-03T19:22:43Z
+  Updated: 2025-10-04T05:22:45Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16764,7 +16764,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-04T03:43:12Z
+  Updated: 2025-10-04T07:43:12Z
   Total Products: 439
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17616,7 +17616,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-04T03:43:13Z
+  Updated: 2025-10-04T07:43:12Z
   Total Products: 1323
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-03T11:02:02Z
