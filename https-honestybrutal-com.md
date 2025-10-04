@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-03T08:00:30.740Z
+- Updated At: 2025-10-04T00:00:28.657Z
 
 ## Products
 
@@ -1113,13 +1113,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/GreenTailBag1.jpg?v=1756430609
   Price: $298.00 USD
-- [Night Pedal Crossbody Vegan Leather bag](https://honestybrutal.com/products/night-pedal-crossbody-bag): The Artist Statement Softness with bite. Night Pedal opens in bloom and ends in bruise — a swirl of lavender, plum, and bone drawn from an original alcohol ink painting by Alex Z. Wang. Like a flower blooming in the dark, this crossbody carries tension and elegance in equal measure. Whether worn across the chest or clipped to your wrist, the modular strap system adapts to wherever the night pulls you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
-  Updated: 2025-10-02T15:11:44Z
+- [Night Petal Crossbody Vegan Leather bag](https://honestybrutal.com/products/night-petal-crossbody-bag): The Artist Statement Softness with bite. Night Petal opens in bloom and ends in bruise — a swirl of lavender, plum, and bone drawn from an original alcohol ink painting by Alex Z. Wang. Like a flower blooming in the dark, this crossbody carries tension and elegance in equal measure. Whether worn across the chest or clipped to your wrist, the modular strap system adapts to wherever the night pulls you. The Technicals Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Transparency Made to order. No overproduction. No waste. Just what you need, when you need it.
+  Updated: 2025-10-03T13:23:06Z
   Vendor: Honesty Brutal
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/NightPedalBag1.jpg?v=1756430607
-  Price: $298.00 USD
+  - [White](https://honestybrutal.com/products/night-petal-crossbody-bag?variant=46985337667804)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/NightPedalBag1.jpg?v=1756430607
+    Price: $298.00 USD
+  - [Black](https://honestybrutal.com/products/night-petal-crossbody-bag?variant=46985337700572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-crossbody-bag-black-front-68dfc877457ae.jpg?v=1759496661
+    Price: $298.00 USD
 - [Serpenti Crossbody Vegan Leather bag](https://honestybrutal.com/products/serpenti-crossbody-bag): A flash of venom, a cloud of color. The Serpenti crossbody pulses with electric greens, yellows, and blues pulled from Alex Z. Wang’s original alcohol ink painting. Like a serpent mid-strike, it’s fluid, powerful, and impossible to ignore. This all-over print bag moves with you — from daylight chaos to midnight calm — thanks to a shape-shifting strap system that transforms it into a crossbody, shoulder bag, or wristlet in seconds. Details: Printed on premium faux leather Lined with 100% polyester Zip-top closure with dark gray hardware Interior zip and slip pockets Adjustable, removable wrist and shoulder straps Size: 11″ × 8″ × 1.5″ Strap drop length: 14″–27″ Made to order. No overproduction. No waste. Just what you need, when you need it.
   Updated: 2025-10-02T15:11:32Z
   Vendor: Honesty Brutal
@@ -1800,33 +1807,33 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/LushMirageTeeFront.jpg?v=1756430552
     Price: $75.00 USD
-- [Night Pedal Tee](https://honestybrutal.com/products/night-pedal-tee): The Artistic Statement: Velvety violets and bruised mauves unfold in layered motion. Night Pedal blooms from shadow, each petal-like form pulsing with the rhythm of dusk—dark, radiant, and quietly hypnotic. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
-  Updated: 2025-09-04T12:05:33Z
+- [Night Petal Tee](https://honestybrutal.com/products/night-petal-tee): The Artistic Statement: Velvety violets and bruised mauves unfold in layered motion. Night Petal blooms from shadow, each petal-like form pulsing with the rhythm of dusk—dark, radiant, and quietly hypnotic. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
+  Updated: 2025-10-03T11:55:17Z
   Vendor: Honesty Brutal
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
-  - [XS](https://honestybrutal.com/products/night-pedal-tee?variant=46864178413788)
+  - [XS](https://honestybrutal.com/products/night-petal-tee?variant=46864178413788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
     Price: $75.00 USD
-  - [S](https://honestybrutal.com/products/night-pedal-tee?variant=46864178446556)
+  - [S](https://honestybrutal.com/products/night-petal-tee?variant=46864178446556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
     Price: $75.00 USD
-  - [M](https://honestybrutal.com/products/night-pedal-tee?variant=46864178479324)
+  - [M](https://honestybrutal.com/products/night-petal-tee?variant=46864178479324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
     Price: $75.00 USD
-  - [L](https://honestybrutal.com/products/night-pedal-tee?variant=46864178512092)
+  - [L](https://honestybrutal.com/products/night-petal-tee?variant=46864178512092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
     Price: $75.00 USD
-  - [XL](https://honestybrutal.com/products/night-pedal-tee?variant=46864178544860)
+  - [XL](https://honestybrutal.com/products/night-petal-tee?variant=46864178544860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
     Price: $75.00 USD
-  - [2XL](https://honestybrutal.com/products/night-pedal-tee?variant=46864178577628)
+  - [2XL](https://honestybrutal.com/products/night-petal-tee?variant=46864178577628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/all-over-print-mens-crew-neck-t-shirt-white-front-68ae42296c64e_55793d6a-5b7e-4dff-893a-0fcc2d27b0f4.jpg?v=1756430550
     Price: $75.00 USD
@@ -1923,30 +1930,30 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790635_luminous-currents-reversible-silk-bomber-jacket_0.jpg?v=1756430539
     Price: $595.00 USD
 - [High Noon Tracksuit Pants](https://honestybrutal.com/products/high-noon-tracksuit-pants): The Artist Statement High Noon blazes in saturated strokes of green, blue, and yellow, fractured with flashes of crimson and shadow. Drawn from an original painting by Alex Z. Wang, these tracksuit pants transform abstraction into motion, carrying the heat of the canvas into every step. A wearable composition—raw, energetic, and unapologetically alive. The Technicals Made from Rox Sports Jersey fabric for structure and comfort Sizes available: 2XS – XL Side-stripe detailing for a classic tracksuit finish Jacket and trousers sold separately Handmade to order with precision cut-and-sew craftsmanship Transparency Each pair is crafted individually—no overproduction, no waste. Artwork is applied using eco-friendly methods to preserve saturation and detail, ensuring that every piece reflects the originality of the painting it comes from.
-  Updated: 2025-10-02T13:04:37Z
+  Updated: 2025-10-03T13:46:11Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Trousers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_0_3d.jpg?v=1756430537
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_0_3d.jpg?v=1759499069
   - [M / Black](https://honestybrutal.com/products/high-noon-tracksuit-pants?variant=46869159117020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1756430537
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1759499086
     Price: $255.00 USD
   - [L / Black](https://honestybrutal.com/products/high-noon-tracksuit-pants?variant=46869159149788)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1756430537
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1759499086
     Price: $255.00 USD
   - [XL / Black](https://honestybrutal.com/products/high-noon-tracksuit-pants?variant=46869159182556)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1756430537
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1759499086
     Price: $255.00 USD
   - [S / Black](https://honestybrutal.com/products/high-noon-tracksuit-pants?variant=46869159215324)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1756430537
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1759499086
     Price: $255.00 USD
   - [XS / Black](https://honestybrutal.com/products/high-noon-tracksuit-pants?variant=46869159248092)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1756430537
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790659_1_3d.jpg?v=1759499086
     Price: $255.00 USD
 - [Whispered Passage Hood](https://honestybrutal.com/products/whispered-passage-hood): The Artist Statement Whispered Passage moves like a memory half-heard—shadows dissolving into light, colors slipping between presence and absence. Drawn from an original painting by Alex Z. Wang, this hood carries that quiet intensity into everyday wear. A piece that doesn’t shout but lingers, leaving its mark in the silence. The Technicals Unisex with a relaxed fit Cut and sewn to order from high-quality woven poly fabric Soft yet durable, with smooth hand-feel Ribbed cuffs and hem for structure Certified to meet OEKO-TEX® Standards Transparency & Care Each hoodie is responsibly handmade to order—no overproduction, no waste. Subtle variations reflect its craftsmanship. Care instructions: Wash at 85°F, tumble dry on low heat, or hang to dry. Do not wring. Iron on low if needed. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
   Updated: 2025-08-29T05:22:28Z
@@ -2111,198 +2118,310 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429593_7536.jpg?v=1757218714
     Price: $75.00 USD
 - [The Quintessential Organic Tee](https://honestybrutal.com/products/the-quintessential-organic-tee): The Artist Statement The Quintessential Organic Tee is a refined take on the classic logo t-shirt. Made from soft, breathable organic cotton, it’s designed for everyday wear while carrying a premium finish. A simple essential elevated to timeless style. Wear Art. Wear Your Truth. The Technicals Regular fit Mid-weight, 5.3 oz fabric 100% combed organic cotton Side-seamed construction Shoulder-to-shoulder taping Preshrunk for consistent fit Sustainably grown cotton, no herbicides or pesticides Transparency & Care Each tee is made to order—no overproduction, no waste.
-  Updated: 2025-10-03T06:25:20Z
+  Updated: 2025-10-03T13:32:43Z
   Vendor: Apliiq
   Product Type: tshirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
   - [black / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356685020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
     Price: $55.00 USD
   - [black / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356717788)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
     Price: $55.00 USD
   - [black / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356750556)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
     Price: $55.00 USD
   - [black / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356783324)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
     Price: $55.00 USD
   - [black / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356816092)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
     Price: $55.00 USD
   - [black / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356848860)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474650_7066.jpg?v=1759498344
     Price: $55.00 USD
   - [Walnut / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356914396)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759498329
     Price: $55.00 USD
   - [Walnut / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356947164)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759498329
     Price: $55.00 USD
   - [Walnut / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974356979932)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759498329
     Price: $55.00 USD
   - [Walnut / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357012700)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759498329
     Price: $55.00 USD
   - [Walnut / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357045468)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759498329
     Price: $55.00 USD
   - [Walnut / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974357078236)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759104426
-    Price: $55.00 USD
-  - [Eucalyptus / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361403612)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $55.00 USD
-  - [Eucalyptus / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361436380)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $55.00 USD
-  - [Eucalyptus / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361469148)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $55.00 USD
-  - [Eucalyptus / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361501916)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $55.00 USD
-  - [Eucalyptus / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361534684)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
-    Price: $55.00 USD
-  - [Eucalyptus / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361567452)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474671_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474653_7066.jpg?v=1759498329
     Price: $55.00 USD
   - [white / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361632988)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759498273
     Price: $55.00 USD
   - [white / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361665756)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759498273
     Price: $55.00 USD
   - [white / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361698524)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759498273
     Price: $55.00 USD
   - [white / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361731292)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759498273
     Price: $55.00 USD
   - [white / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361764060)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759498273
     Price: $55.00 USD
   - [white / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361796828)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474670_7066.jpg?v=1759498273
     Price: $55.00 USD
   - [Natural / xs](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361862364)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
   - [Natural / s](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361895132)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
   - [Natural / m](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361927900)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
   - [Natural / l](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361960668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
   - [Natural / xl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974361993436)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
   - [Natural / xxl](https://honestybrutal.com/products/the-quintessential-organic-tee?variant=46974362026204)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759104750
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
 - [Serpentine Jogger](https://honestybrutal.com/products/serpentine-jogger): The Artist Statement The Serpentine Jogger flows with bold bands of green, yellow, and blue, turning a streetwear essential into a moving artwork. Designed with a modern fit and everyday comfort, these joggers balance function and form — made for both downtime and statement-making moments. The Technicals 60% cotton / 40% polyester premium fleece (14 oz) Shaped side seams for a modern fit Roomy side pockets Pill-resistant fabric to maintain a fresh look Durable, vibrant direct-to-film (DTF) print Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is produced on demand to eliminate overproduction and waste. Prints are embedded for lasting color that won’t fade with use or washing.
-  Updated: 2025-10-02T13:56:49Z
+  Updated: 2025-10-03T13:47:25Z
   Vendor: Art of Where
   Product Type: Unisex Joggers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
   - [X-Small / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549321436)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
   - [Small / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549354204)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
   - [Medium / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549386972)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
   - [Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549419740)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
   - [X-Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549452508)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
   - [2x-Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549485276)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759413022
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
 - [Serpentine Vegan Tote Bag](https://honestybrutal.com/products/vegan-leather-tote-bag-2025-08-17-9-08-pm): The Artist Statement The Serpentine Vegan Tote ripples with vivid streams of green, yellow, and deep blue — a composition that coils and flows across its surface. Functional yet striking. An everyday silhouette transformed into a living canvas. The Technicals Textured vegan pebble leather fabric Solid color straps, base, and detailing in black or brown Magnetic snap closure Full lining with inner pockets Sized to fit up to a 16” laptop Digitally printed with permanent UV inks Made to order in Montreal, Canada Transparency & Care Each tote is produced on demand to avoid overproduction and waste. Vegan leather is durable and designed for daily wear while retaining its structure and color. To preserve its look: Wipe clean with a damp cloth Avoid prolonged exposure to direct sunlight and moisture Store upright or flat when not in use
-  Updated: 2025-10-02T13:49:40Z
+  Updated: 2025-10-03T09:29:58Z
   Vendor: Art of Where
   Product Type: Vegan Leather Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/d2252933-dcb3-4d16-a395-ef96f71f6ac1.png?v=1759412562
   Price: $525.00 USD
 - [Azure in Rhapsody Elongated Cloak](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } The Artist Statement Azure in Rhapsody drapes deep gradients of blue and black across an elongated cloak silhouette. Oversized and fluid, with a generous hood and extended cut, it merges coziness with street-ready edge. A piece designed for layering, movement, and presence. The Technicals 93% polyester / 7% spandex blend Heavyweight: 12.09 oz/yd² (410 g/m²) Deep hood for comfort and style Elongated length with flowing drape Handcrafted to order, printed and sewn individually Transparency & Care Each cloak is made to order — no overproduction, no waste. Please allow 3–6 business days for production.
-  Updated: 2025-10-03T05:06:46Z
+  Updated: 2025-10-03T13:28:57Z
   Vendor: Subliminator
   Product Type: Heavyweight Elongated Cloak - AOP
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
   - [XS](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571112156)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
   - [S](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571144924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
   - [M](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571177692)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
   - [L](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571210460)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
   - [XL](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571243228)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
   - [2XL](https://honestybrutal.com/products/azure-in-rhapsody-elongated-cloak?variant=46983571275996)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759414166
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/6d146bff206421c6cb8636ea2278b2e2_elongatedCloak_ghost-front.jpg?v=1759498115
     Price: $425.00 USD
+- [Undergrowth Backpack](https://honestybrutal.com/products/undergrowth-packpack): The Artist Statement The Undergrowth Backpack layers deep greens, earthy golds, and flashes of magenta into a dynamic composition — a canvas inspired by organic textures and raw movement. Built for daily use yet elevated as wearable art, it blends utility with statement. The Technicals Leather and padded canvas construction Waterproof lining Fits laptops up to 17” Dimensions: 13.4” × 15.75” × 5.12” Adjustable straps for comfort Handmade to order Transparency & Care Each backpack is handcrafted individually — no overproduction, no waste. Designed for function and style in equal measure. To preserve its look: Surface wipe only Clean gently by hand with a mild, soapy damp cloth Avoid harsh chemicals or machine washing
+  Updated: 2025-10-03T13:03:01Z
+  Vendor: Contrado
+  Product Type: Backpack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818587_undergrowth-packpack_0.jpg?v=1759496365
+  Price: $345.00 USD
+- [Start Ash Crossbody Leather Bag](https://honestybrutal.com/products/start-ash-crossbody-bag): The Artist Statement Star Ash drifts in muted blues and soft ash tones, an atmospheric composition reimagined as a sleek crossbody. Compact yet refined, the piece carries quiet depth while remaining effortlessly versatile — equally at home for day or evening. The Technicals Genuine leather construction Dimensions: 9.6” × 7.3” 42” detachable nickel-plated chain strap Round metal zip pull Handmade to order Transparency & Care Each crossbody is crafted individually — no overproduction, no waste. Natural variations in leather surface and creasing are part of its character, developing into a unique patina over time.
+  Updated: 2025-10-03T13:26:35Z
+  Vendor: Contrado
+  Product Type: Crossbody Bag With Chain
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818578_0_3d.jpg?v=1759497953
+  - [Textured Nappa Leather / Silver](https://honestybrutal.com/products/start-ash-crossbody-bag?variant=46983622426844)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818578_1_3d.jpg?v=1759497994
+    Price: $345.00 USD
+  - [Textured Nappa Leather / Gold](https://honestybrutal.com/products/start-ash-crossbody-bag?variant=46983622459612)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818578_1_3d.jpg?v=1759497994
+    Price: $345.00 USD
+  - [Smooth Nappa Leather / Silver](https://honestybrutal.com/products/start-ash-crossbody-bag?variant=46983622557916)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818578_1_3d.jpg?v=1759497994
+    Price: $345.00 USD
+  - [Smooth Nappa Leather / Gold](https://honestybrutal.com/products/start-ash-crossbody-bag?variant=46983622590684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818578_1_3d.jpg?v=1759497994
+    Price: $345.00 USD
+- [Whispered Passage Colville Leather Backpack](https://honestybrutal.com/products/wisful-mirage-colville-leather-backpack): The Artist Statement Whispered Passage drifts in moody layers of teal, yellow, and shadow, captured in a sleek Colville silhouette. Crafted in premium Nappa leather, this backpack pairs modern utility with an atmospheric depth — an everyday piece elevated into wearable art. The Technicals Genuine bubble-textured Nappa leather Dimensions: 10.6” × 15.4” × 7.1” Two interior pockets, spacious main compartment Adjustable shoulder straps for comfort Handmade to order Transparency & Care Each backpack is crafted individually — no overproduction, no waste. Natural variations in the leather surface and subtle creasing are part of its unique character, developing into a patina over time. To preserve its look: Store in a dust bag or box when not in use Avoid prolonged exposure to heat, sunlight, moisture, or harsh chemicals Protect from contact with light fabrics as color transfer may occur If wet, let dry naturally away from direct heat Clean gently with a damp, lint-free cotton cloth
+  Updated: 2025-10-03T13:25:24Z
+  Vendor: Contrado
+  Product Type: Colville Leather Backpack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818585_0_3d.jpg?v=1759497908
+  - [Gunmetal](https://honestybrutal.com/products/wisful-mirage-colville-leather-backpack?variant=46983622623452)
+    Availability: Available
+    Price: $1,245.00 USD
+  - [Nickel](https://honestybrutal.com/products/wisful-mirage-colville-leather-backpack?variant=46983622656220)
+    Availability: Available
+    Price: $1,245.00 USD
+  - [Gold](https://honestybrutal.com/products/wisful-mirage-colville-leather-backpack?variant=46983622688988)
+    Availability: Available
+    Price: $1,245.00 USD
+- [Aurora Handbag](https://honestybrutal.com/products/aurora-handbag): The Artist Statement Aurora blooms in luminous greens and deep blues, flowing across a classic tote silhouette. Bold yet versatile, this handbag balances refined structure with fluid artistry, carrying the energy of light breaking through shadow. The Technicals Genuine leather handles Two internal pockets Printed on both sides Double press-stud closure Handmade to order Transparency & Care Each handbag is crafted individually — no overproduction, no waste. Prints are embedded directly into the material for lasting vibrancy.
+  Updated: 2025-10-03T13:24:48Z
+  Vendor: Contrado
+  Product Type: Handbags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818573_0_3d.jpg?v=1759497870
+  - [Large [15" long x 11" high x 3" wide] / Leather](https://honestybrutal.com/products/aurora-handbag?variant=46983622754524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818573_1_3d.jpg?v=1759497887
+    Price: $525.00 USD
+  - [Small [11" long x 8" high x 2" wide] / Leather](https://honestybrutal.com/products/aurora-handbag?variant=46983622820060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2818573_1_3d.jpg?v=1759497887
+    Price: $450.00 USD
+- [The Weight Pigment Dyed Hoodie](https://honestybrutal.com/products/independent-pigment-dyed-hoodie): The Artist Statement The Weight Hoodie grounds the Honesty Brutal logo in a pigment-dyed wash, giving each piece a lived-in depth and individuality. Simple, direct, and built for comfort — it’s an everyday essential elevated with edge. The back makes Alex Z. Wang's painting, The Weight of Lightness, comes to life in motion. The Technicals 9 oz (300 gm) 80% cotton / 20% polyester blend Ring-spun cotton with 30 singles face yarn Standard unisex fit Pigment-dyed for a unique, washed look (color variations expected) Transparency & Care Each hoodie is pigment-dyed for a natural, vintage character. No two are identical — variations in tone and print are part of its design.
+  Updated: 2025-10-03T14:16:22Z
+  Vendor: Apliiq
+  Product Type: hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+  - [Pigment Cement / s](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985394815196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+    Price: $245.00 USD
+  - [Pigment Cement / m](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985394847964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+    Price: $245.00 USD
+  - [Pigment Cement / l](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985394880732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+    Price: $245.00 USD
+  - [Pigment Cement / xl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985394913500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+    Price: $245.00 USD
+  - [Pigment Cement / xxl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985394946268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+    Price: $245.00 USD
+  - [Pigment Cement / xxxl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985394979036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429622_4566.jpg?v=1759500697
+    Price: $245.00 USD
+  - [Pigment Ivory / s](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395011804)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429621_4567-2025-09-03-22-22-58-121.jpg?v=1759500794
+    Price: $245.00 USD
+  - [Pigment Ivory / m](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395044572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429621_4567-2025-09-03-22-22-58-121.jpg?v=1759500794
+    Price: $245.00 USD
+  - [Pigment Ivory / l](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395077340)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429621_4567-2025-09-03-22-22-58-121.jpg?v=1759500794
+    Price: $245.00 USD
+  - [Pigment Ivory / xl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395110108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429621_4567-2025-09-03-22-22-58-121.jpg?v=1759500794
+    Price: $245.00 USD
+  - [Pigment Ivory / xxl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395142876)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429621_4567-2025-09-03-22-22-58-121.jpg?v=1759500794
+    Price: $245.00 USD
+  - [Pigment Ivory / xxxl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395175644)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429621_4567-2025-09-03-22-22-58-121.jpg?v=1759500794
+    Price: $245.00 USD
+  - [Pigment Black / s](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395241180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
+    Price: $245.00 USD
+  - [Pigment Black / m](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395273948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
+    Price: $245.00 USD
+  - [Pigment Black / l](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395306716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
+    Price: $245.00 USD
+  - [Pigment Black / xl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395339484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
+    Price: $245.00 USD
+  - [Pigment Black / xxl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395372252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
+    Price: $245.00 USD
+  - [Pigment Black / xxxl](https://honestybrutal.com/products/independent-pigment-dyed-hoodie?variant=46985395405020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
+    Price: $245.00 USD
 
 ## Collections
 
@@ -2310,40 +2429,40 @@
   Updated: 2025-09-07T04:23:28Z
   Total Products: 16
 - [Canvas to Street](https://honestybrutal.com/collections/abstract-me): Art isn’t meant to stay on the wall—it moves, breathes, and lives. Canvas to Street turns your outfit into bold expressions, transforming everyday motion into a masterpiece. Wear the art. Become the movement.
-  Updated: 2025-10-02T14:24:29Z
-  Total Products: 19
+  Updated: 2025-10-03T14:09:50Z
+  Total Products: 20
 - [Surface & Form](https://honestybrutal.com/collections/surface-form): The finishing touch to bold self-expression. Honesty Brutal accessories bring the same raw energy as our apparel—statement-making, art-driven, and unapologetically real. From caps to bags, every piece is designed to elevate your look with an edge of rebellion. Complete the statement. Wear the art.
-  Updated: 2025-10-02T15:12:39Z
-  Total Products: 17
+  Updated: 2025-10-03T13:22:08Z
+  Total Products: 21
 - [Burst, Bloom, and Flow](https://honestybrutal.com/collections/burst-bloom-and-flow): Energy. Motion. Transformation. Burst, Bloom, Flow captures the raw intensity of creation—bold, fluid, and alive. Wear the motion. Feel the flow.
-  Updated: 2025-10-02T13:56:49Z
+  Updated: 2025-10-03T11:55:17Z
   Total Products: 16
 - [First Impressions](https://honestybrutal.com/collections/honesty-brutal): Logo as statement. Be the pioneer.
   Updated: 2025-10-02T13:13:11Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-10-02T15:12:39Z
-  Total Products: 66
+  Updated: 2025-10-03T14:09:50Z
+  Total Products: 71
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-10-02T14:24:48Z
-  Total Products: 52
+  Updated: 2025-10-03T14:08:44Z
+  Total Products: 53
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
-  Updated: 2025-10-02T13:13:43Z
+  Updated: 2025-10-03T11:55:17Z
   Total Products: 36
 - [Jackets](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
   Updated: 2025-10-02T14:15:46Z
   Total Products: 11
 - [Accessories](https://honestybrutal.com/collections/accessories): Where detail becomes declaration.
-  Updated: 2025-10-02T15:12:39Z
+  Updated: 2025-10-03T13:22:09Z
   Total Products: 22
 - [Caps](https://honestybrutal.com/collections/caps): Statements, framed in silhouette
   Updated: 2025-09-07T04:23:28Z
   Total Products: 4
 - [Bags & Totes](https://honestybrutal.com/collections/bags-totes): Art that holds its own.
-  Updated: 2025-10-02T15:12:39Z
+  Updated: 2025-10-03T13:22:09Z
   Total Products: 16
 - [iPhone Cases](https://honestybrutal.com/collections/iphone-cases): Art at your fingertips
   Updated: 2025-08-29T01:24:29Z
@@ -2352,8 +2471,8 @@
   Updated: 2025-10-02T14:16:34Z
   Total Products: 2
 - [Hoodie](https://honestybrutal.com/collections/hoodie): Softness with structure.
-  Updated: 2025-08-29T00:25:31Z
-  Total Products: 2
+  Updated: 2025-10-03T14:08:44Z
+  Total Products: 3
 
 ## Blogs
 
