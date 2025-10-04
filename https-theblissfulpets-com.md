@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-04T12:00:29.788Z
+- Updated At: 2025-10-04T16:00:29.818Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/products/3OLD_FRIENDS_ALL_PRODUCTS_32d8efec-608f-43f8-8fa9-f4e2c299464e.jpg?v=1709909119
   Price: $39.95 USD
 - [Fresh Face Wash Combo - Your Go-To Flat/Wrinkled Dog Face Cleaner Kit](https://theblissfulpets.com/products/fresh-flat-faces-combo-kit): The Blissful Dog Fresh Face Wash Combo - Any Size of FF Wash + one .15 oz tube of Boo Boo Butter + one .15 oz. tube of Nose Butter, 12x16 logo towel+ backpack
-  Updated: 2025-07-27T05:05:07Z
+  Updated: 2025-10-04T15:27:19Z
   Vendor: The Blissful Dog® Inc.
   Product Type: FACE WASH
   Availability: Available
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BODY-GALLON-2024.jpg?v=1712674979
     Price: $72.95 USD
 - [Gentle Touch Puppy Shampoo for Puppies, Seniors and Sensitive Dogs](https://theblissfulpets.com/products/gentle-touch-dog-shampoo): Gentle Touch Puppy Shampoo Tearless, gentle shampoo so puppy's first bath is positive. Not just for puppies ideal for seniors and dogs with more sensitive skin.
-  Updated: 2025-07-28T13:02:58Z
+  Updated: 2025-10-04T15:44:47Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -490,7 +490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/GENTLE_TOUCH_DOG_SOAP_REV.jpg?v=1742486850
     Price: $12.95 USD
 - [Stinky Filthy Dog Shampoo for Your Stinky, Filthy Animal of a Dog](https://theblissfulpets.com/products/stinky-filthy-dog-shampoo): Stinky Filthy Dog Shampoo for Your Filthy Animal. Stinky Filthy Dog Shampoo deep cleans your stinky dog with odor-neutralizing good-smelling ingredients.
-  Updated: 2025-07-26T15:13:55Z
+  Updated: 2025-10-04T15:30:56Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -586,7 +586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-SOS-GALLON-2024.jpg?v=1712685611
     Price: $72.95 USD
 - [Blissfully Fresh® Dog Ear Cleaner | Ear Wash Solution for Dogs](https://theblissfulpets.com/products/simply-clean-dog-ear-cleaner): Blissfully Fresh® Dog Ear Cleaner keeps your dogs ears fresh & clean. Eliminating odor and wax, reduces yeast build-up+ for fresh, clean ears.
-  Updated: 2025-07-26T15:52:45Z
+  Updated: 2025-10-04T12:03:35Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SPRAY
   Availability: Available
@@ -785,7 +785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/PAW-2.25OZ-2024.jpg?v=1711047570
     Price: $18.95 USD
 - [Fresh Face Wash Cleans and Refreshes Your Cat's Face | Blissful Cat](https://theblissfulpets.com/products/fresh-face-wash-the-blissful-cat): The Blissful Cat | Fresh Face Wash Clean & Refreshes Your Cat's Face In Minutes. No more funky cat faces!
-  Updated: 2025-07-26T14:33:59Z
+  Updated: 2025-10-04T14:05:24Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -939,7 +939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-FF-GALLON-2024.jpg?v=1711386088
     Price: $72.95 USD
 - [The Blissful Cat Relax Aromatherapy Takes the Edge Off Your Cat Stress](https://theblissfulpets.com/products/relax-cat-aromatherapy): Relax Cat Aromatherapy uses a very gentle blend of classic calming oils in both roll-on and spray formulations for your cat's stress relief.
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-04T13:37:43Z
   Vendor: The Blissful Cat
   Product Type: Aromatherapy
   Availability: Available
@@ -983,7 +983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-GT-SOAP-2024.jpg?v=1711386857
     Price: $12.95 USD
 - [The Blissful Cat Stinky Smelly Cat Shampoo For Your Filthy, Nasty Cat](https://theblissfulpets.com/products/dirty-smelly-cat-shampoo): Blissful Cat Stinky Smelly Cat Shampoo for Your Filthy Cat! Does your smelly cat cause you to gasp and gag? You need funk-busting Stinky Smelly Cat Shampoo!
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-04T14:49:44Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -1195,7 +1195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-BB-SOAP-2024.jpg?v=1712005432
     Price: $12.95 USD
 - [The Blissful Horses Gentle Touch All Purpose Horse Shampoo](https://theblissfulpets.com/products/gentle-touch-horse-shampoo): From foals to seniors, Gentle Touch Horse Shampoo is the perfect all-purpose cleanser for every horse in the barn. Made in the USA.
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-04T12:05:33Z
   Vendor: The Blissful Horses
   Product Type: SHAMPOO
   Availability: Available
@@ -1265,7 +1265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-BUGSOAP-2024.jpg?v=1711992926
     Price: $12.95 USD
 - [The Blissful Horses Summer Care Butter For Horse Sun Protection](https://theblissfulpets.com/products/summer-care-butter): Horse Sun Protection, our all natural, handcrafted herbal balm is your horses’ natural alternative to chemical laden human sunscreens. In Tins & Tubes.
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-04T13:46:16Z
   Vendor: The Blissful Horses
   Product Type: SUNSCREEN
   Availability: Available
@@ -1375,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-HOOF-TIN-2024.jpg?v=1711998144
     Price: $65.95 USD
 - [The Blissful Dog Visibly Vibrant Color Enhancing Cat Shampoo](https://theblissfulpets.com/products/visibly-vibrant-cat-shampoo): Visibly Vibrant color enhancing cat shampoo brightens and revitalizes your cats coat. Reds, bronzes, merles, tricolors + are all enhanced.
-  Updated: 2025-07-26T04:45:34Z
+  Updated: 2025-10-04T12:09:04Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -1567,7 +1567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/LARGE-BUG-KIT.jpg?v=1713888032
     Price: $62.95 USD
 - [The Blissful Dog Care Kit Combo, Shampoo, Sprays and Butters](https://theblissfulpets.com/products/the-blissful-dog-care-kit-combo-shampoo-sprays-and-butters): The Blissful Dog Care Kit offers our most popular products creating an all-around care kit good for any dog. Packaged in our branded dog bowl this combo includes Gentle Touch Shampoo, Blissfully Fresh Deodorizing Spray, Blissfully Fresh Ear Cleaner, Relax Dog Aromatherapy Spray, Nose Butter, Boo Boo Butter & Paw Butter and a branded rally towel. *2oz Gentle Touch Shampoo - Hypoallergenic, tearless shampoo for dogs of all ages and all stages. *2oz Blissfully Fresh Deodorizing Spray - The only deodorizer needed for the home, car, dogs, and cats.*2oz Blissfully Fresh Ear Cleaner - Natural ear cleaner that cleans ears and leaves them smelling & looking fresh. *1oz Relax Spray - All-natural aromatherapy spray takes the edge off your dog's stress & anxiety*0.15oz Nose Butter - Soothes & Moisturizes all levels of dry dog noses.*0.15oz Paw Butter - Moisturizes dry, cracked dog paws. *0.15oz Boo Boo Butter - Go-to balm for scratches, scrapes & skin irritations. *Bowl filler may vary*
-  Updated: 2025-07-29T08:41:44Z
+  Updated: 2025-10-04T15:51:48Z
   Vendor: The Blissful Pets
   Product Type: 
   Availability: Available
