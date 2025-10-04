@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-03T16:00:49.281Z
+- Updated At: 2025-10-04T00:00:47.491Z
 
 ## Products
 
@@ -1777,7 +1777,7 @@
     Availability: Not Available
     Price: $22.00 NZD
 - [CONNETIX Rainbow Replacement Ball Pack](https://www.littlebambinos.co.nz/products/connetix-rainbow-replacement-ball-pack): We know how much time we spend trying to find missing socks, so letâ€™s not worry about locating those runaway balls. The Rainbow Replacement Ball Pack features 12 wooden balls (x2 of each of our classic rainbow colours) â€“ perfect for supplementing or expanding your Rainbow Ball Run fun!
-  Updated: 2025-09-30T01:45:43Z
+  Updated: 2025-10-03T18:44:28Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -2820,13 +2820,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/to-my-child-prompted-childhood-baby-book.png?v=1665389534
-  Price: $55.00 NZD
-- [Forget Me Not Journal - To My Child, Latte](https://www.littlebambinos.co.nz/products/copy-of-forget-me-not-journal-to-my-child-latte): A completely unique baby book & childhood journal By spending a few minutes to record the most precious moments, you can create an heirloom book of baby and childhood memories to cherish for a lifetime. Suitable to start from any age. Included are 140 prompts across three pages of glossy gold foil stickers and a 200 page journal with delicate dotted lines, space for a date and internal pocket for mementos. Benefits of our unique child / baby journal & beautiful gold foil prompt stickers Create the ideal journal for your own needs & you decide the order of stickers used, which to use, and which aren't suitable for you at this moment. Start anytime, can be used during your fertility and pregnancy journal, as an IVF journal, or a healing miscarriage journal (free-writing, not prompted) before moving onto a journal of newborn, baby and childhood experiences. Never run out of space while filling in your journal, whether you need three lines or three pages for your memories, the pages are yours to make your own. Leave no blank spaces left for prompts you don't feel like answering. As many photo/memento pages as you like, each page can be used to record baby milestones, use the journal prompts, write letters to your child, free-writing, or for photos. Gender neutral, suitable for either parent, same-sex parents, surrogacy and adoptive parents. Perfect baby shower gift or for new parents, or Mothers Day/Fathers Day.
-  Updated: 2025-08-06T22:35:58Z
-  Vendor: Forget Me Not Journals
-  Product Type: Book
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/to-my-child-latte.png?v=1665389739
   Price: $55.00 NZD
 - [Lion + Lamb Kids Sunglasses](https://www.littlebambinos.co.nz/products/copy-of-elle-porte-daisy-sunglasses-liquorice): Summer style but make it sustainable. Check outÂ these brand new kids sunglasses made from recycledÂ plastic. Available in 7 fun unisex shades. A great comfortable design to fit a wide range of ages. Each pair of sunglasses comes in a L+L the Label branded protection case.Â COLOURSÂ - Terracotta, Cream, Fawn, Mustard, Sky, Fairy Floss, Sage DETAILS UV400 protection LCE Certified.Â SIZE Approximately 12.5cm x 14cm. Suitable for ages 18m - 8yrs. IMPORTANTÂ - Supervise babies & children at all times whilst wearing. Sunglasses are not to be used whilst sleeping.
   Updated: 2025-08-21T09:11:20Z
@@ -7105,7 +7098,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $142.99 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-02T15:52:30Z
+  Updated: 2025-10-03T22:22:34Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -10078,7 +10071,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $99.00 NZD
 - [KONGES SLOJD Nia Maternity Package GOTS - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-nia-maternity-package-gots-lemon): The perfect gift for new parents: A thoughtful maternity package with a soft wrap cardigan, footed pants, a baby hat, and a soft snuggle bunny. Made from 80% organic cotton and 20% recycled polyester. DETAILS GOTS, made with 80% organic materials, certified by CU 1094701. 80% organic cotton, 20% recycled polyester.
-  Updated: 2025-09-01T18:54:26Z
+  Updated: 2025-10-03T22:03:42Z
   Vendor: Konges slojd
   Product Type: Matching Set
   Availability: Available
@@ -13439,13 +13432,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/417AD6E6-2B49-4352-BBD2-5CE40945796C.jpg?v=1744073635
   Price: $149.00 NZD
 - [INKAH Woven Rattan Wall Shelf](https://www.littlebambinos.co.nz/products/woven-rattan-shelf): Add some texture to your walls with our Woven Rattan Shelves. Available in three styles - Arch, Moon, and Circle - these wall shelves are both functional and visually stunning. Use them individually or combine them for a unique, sophisticated display. Measurements: Arch: 42cm high x 26cm wide x 15cm deep Moon: 25cm high x 42cm wide x 15cm deep Circle: 40cm high x 40cm wide x 15cm deep Purchased individually
-  Updated: 2025-08-27T16:58:08Z
+  Updated: 2025-10-03T21:18:42Z
   Vendor: Inkah Limited
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/027009FA-776C-4D89-BA3F-869789513C1C.jpg?v=1744073644
   - [Arch](https://www.littlebambinos.co.nz/products/woven-rattan-shelf?variant=41615550775390)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/0C7F3AC3-F873-455D-A57E-A8EBF9EF9196.jpg?v=1744080429
     Price: $75.00 NZD
   - [Moon](https://www.littlebambinos.co.nz/products/woven-rattan-shelf?variant=41615550808158)
@@ -13457,7 +13450,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/AF117B64-FA70-42E0-9AA1-252B06BF2E6E.jpg?v=1744073643
     Price: $75.00 NZD
   - [Trio (set of all three)](https://www.littlebambinos.co.nz/products/woven-rattan-shelf?variant=41615550873694)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/16EA58A6-AEE0-4D43-AEB0-47C1DAAD09CB.jpg?v=1744080429
     Price: $199.00 NZD
 - [WILSON & FRENCHY Organic Knitted Blanket - Cinnamon Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-cinnamon-stripe-organic-knitted-blanket-cinnamon-stripe): Perfect for the nursery, pram or car this beautifully crafted knit blanket is made from a luxurious blend of cotton, bamboo and wool. Made from 50% cotton, 43% bamboo, 7% wool.
@@ -15628,7 +15621,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-70-pieces-Pro-Constructor-Set-1_800x_b225b727-c3bd-4443-a346-c387b75c8ca0.webp?v=1754431894
   Price: $214.99 NZD
 - [CONNETIX Glitter Unicorn Pack 56pc](https://www.littlebambinos.co.nz/products/connetix-glitter-unicorn): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T07:42:21Z
+  Updated: 2025-10-03T21:54:47Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15642,7 +15635,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Glitter-Castle-Pack-1_1000x1000_1d770295-9a1e-44ad-8bc8-925032e1ccce.webp?v=1754442140
   Price: $121.99 NZD
 - [CONNETIX Light Star Pack 28pc](https://www.littlebambinos.co.nz/products/connetix-light-star-pack-28pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-09-30T01:45:36Z
+  Updated: 2025-10-03T21:54:47Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -15663,7 +15656,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-03T10:22:45Z
+  Updated: 2025-10-03T19:22:43Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16771,8 +16764,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-03T15:43:17Z
-  Total Products: 438
+  Updated: 2025-10-03T23:43:12Z
+  Total Products: 439
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17623,8 +17616,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:36:01Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-03T15:43:17Z
-  Total Products: 1324
+  Updated: 2025-10-03T23:43:12Z
+  Total Products: 1323
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-03T11:02:02Z
   Total Products: 501
