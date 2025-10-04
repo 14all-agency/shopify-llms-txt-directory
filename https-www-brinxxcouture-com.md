@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-04T08:00:48.392Z
+- Updated At: 2025-10-04T12:00:47.015Z
 
 ## Products
 
@@ -12776,7 +12776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-03T22:32:45Z
+  Updated: 2025-10-04T09:50:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12786,7 +12786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -21803,7 +21803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-10-01T22:51:39Z
+  Updated: 2025-10-04T08:40:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-04T07:30:41Z
+  Updated: 2025-10-04T10:30:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26065,7 +26065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-09-30T10:20:37Z
+  Updated: 2025-10-04T08:20:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-04T04:20:35Z
+  Updated: 2025-10-04T08:22:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36255,7 +36255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01IbIbSp1XBNjpfMrQG__1956822885-0-cib.jpg?v=1759435839
     Price: $45.00 USD
 - [Plus Size Round Neck Fold Short Sleeve Shirt | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-round-neck-fold-short-sleeve-shirt): Comfortable plus size shirt with round neck and unique fold detail. Short sleeves, solid colors. Perfect for casual everyday wear and layering.
-  Updated: 2025-10-03T19:54:25Z
+  Updated: 2025-10-04T08:28:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36474,7 +36474,7 @@
   Updated: 2025-10-02T17:11:56Z
   Total Products: 16
 - [Stylish Women's Coats | Winter, Trench, Wool & More](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2025-10-02T17:11:56Z
+  Updated: 2025-10-04T11:16:12Z
   Total Products: 34
 - [Fashionable Women’s Scarves | Brinxx Couture](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2025-10-02T17:11:56Z
