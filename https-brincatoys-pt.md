@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-04T12:01:05.725Z
+- Updated At: 2025-10-04T16:01:03.483Z
 
 ## Products
 
@@ -526,7 +526,7 @@ com os animais, que encaixam no barco ou podem ser usados como fantoches
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barco-de-banho-3-amigos-810386622-brincatoys-1178692771.jpg?v=1752827302
   Price: 18,99 € EUR
 - [Barco Rebocador](https://brincatoys.pt/products/barco-rebocador): Esta embarcação colorida, com 24 cm, flutua muito bem e tem um grande bucal para recolher e despejar água. Feito nos EUA com recipientes de leite de plástico 100% reciclado que economizam energia e reduzem as emissões de gases de efeito estufa.  Dimensão: 11.4 x 23.5 x 11.5 cm Idade recomendada: + de 6 meses.
-  Updated: 2025-09-29T16:37:26Z
+  Updated: 2025-10-04T15:00:27Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -2656,7 +2656,7 @@ ainda um cartão de crédito!
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/domino-de-28-pecas-86632721-brincatoys-1178693486.jpg?v=1752839644
   Price: 13,50 € EUR
 - [Dominó Patrulha Pata](https://brincatoys.pt/products/domino-patrulha-pata): No dominó Patrulha Pata, as crianças revezam-se na colocação das suas cartas de dominó. Os cartões só podem ser colocados nas duas extremidades e as mesmas imagens devem estar sempre próximas uma da outra. Ganha quem for o primeiro a colocar todas as suas cartas de dominó. Neste jogo clássico, a percepção e a concentração são promovidas de forma...
-  Updated: 2025-09-30T03:40:56Z
+  Updated: 2025-10-04T13:21:07Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -3879,8 +3879,8 @@ Norte da África.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-miau-miau-810610622-brincatoys-1178693820.jpg?v=1752845894
   Price: 6,00 € EUR
 - [Jogo de cartas Top Trump Lol](https://brincatoys.pt/products/jogo-de-cartas-top-trump-lol): Este pack Top Trumps LOL Surprise está repleto de factos divertidos e frases dos teus personagens favoritos. Descobre quão raro é o “Surfer Babe” comparado com o “Roller Sk8er” e quem tem a pontuação Top Trump mais elevada. Podes mesmo encontrar 2 cartas surpresa do “The Glitterati Club”, quem te irá calhar? Como jogar top trumps?  1 - Baralham-se
-  Updated: 2025-09-29T17:11:09Z
-  Vendor: Brincatoys
+  Updated: 2025-10-04T15:10:35Z
+  Vendor: LOL Surprise
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-top-trump-lol-177021319-brincatoys-1178693821.png?v=1752845899
@@ -5186,7 +5186,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lobo-guara-430036723-brincatoys-1178694235.jpg?v=1752853205
   Price: 9,00 € EUR
 - [LOL Surprise OMG Swag](https://brincatoys.pt/products/lol-surprise-omg-swag): Fá-lo sem medo. Make it Fashion. Faça-a Feroz. Encontra o teu FIERCE com a LOL Surpresa OMG Fierce Fashion Dolls! As bonecas LOL Surprise OMG Fierce são de colecção, podem ser posadas na perfeição, destacam-se com um novo tamanho de 30 cm, novo rosto com características impressionantes, esculturas de corpo, e novas modas elegantes e de alta qualida
-  Updated: 2025-09-29T21:19:57Z
+  Updated: 2025-10-04T15:12:46Z
   Vendor: LOL Surprise
   Product Type: + 4 anos
   Availability: Available
@@ -5658,7 +5658,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/minimates-stealth-iron-man-and-ghost-868376921-marvel-1178694370.jpg?v=1752855611
   Price: 13,99 € EUR
 - [Mochila Glitter LOL Surprise](https://brincatoys.pt/products/mochila-glitter-lol-surprise): Mochila da personagem LOL Surprise para crianças com altura máxima de 100 cm. Este produto foi concebido especificamente para oferecer um bom apoio nas costas, apresentando um fecho de correr, punho superior para pendurar, puxadores traseiros ajustáveis e compartimento lateral do porta-garrafas.  Dimensão: 31 x 25 x 10 cm.Idade Recomendada: + de 12
-  Updated: 2025-09-30T01:40:01Z
+  Updated: 2025-10-04T15:10:35Z
   Vendor: LOL Surprise
   Product Type: + 12 meses
   Availability: Available
@@ -6240,7 +6240,7 @@ acasalmento.Alimentam-se de insetos e outros pequenos invertebrados, mas também
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-ignace-278324921-brincatoys-1178694568.jpg?v=1752858618
   Price: 26,50 € EUR
 - [Peluche Lola Rosa](https://brincatoys.pt/products/peluche-lola-rosa): Peluche de tamanho médio cor-de-rosa produzido com algodão orgânico.  Dimensão: 46 x 21 x 15 cm.Idade Recomendada: + de 0 meses.
-  Updated: 2025-09-29T16:39:30Z
+  Updated: 2025-10-04T15:10:35Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -8387,21 +8387,21 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wacky-world-paris-841924221-brincatoys-1178695268.jpg?v=1752810245
   Price: 11,99 € EUR
 - [Puzzle Wasgij Destiny](https://brincatoys.pt/products/puzzle-wasgij-destiny): "Pagando o preço!" é o título deste fantástico puzzle de mistério de 1.000 peças.Lembra-se dos velhos tempos`? Quando a gasolina era barata, havia menos carros na estrada e era abastecido por um funcionário.Dizem que algumas coisas nunca mudam, mas e as que mudam?Usando a sua imaginação e as dicas fornecidas na caixa, você consegue imaginar como...
-  Updated: 2025-09-30T02:39:22Z
+  Updated: 2025-10-04T15:46:46Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-destiny-81914119-brincatoys-1178695269.png?v=1752810248
   Price: 15,99 € EUR
 - [Puzzle Wasgij Destiny](https://brincatoys.pt/products/puzzle-wasgij-destiny-1): "Como os tempos mudaram" é o título deste fantástico puzzle de 1.000 peças. Os estilos de moda terão mudado, é claro, mas o que mais pode ser diferente para os personagens mostrados nesta comunidade de estilo dos anos 50/60? Os motociclistas ainda usarão as suas jaquetas de couro pretas? Será que as jovens dançam com suas saias até os tornozelos, e
-  Updated: 2025-09-30T02:38:24Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-destiny-81740718-brincatoys-1178695270.webp?v=1752810251
   Price: 13,99 € EUR
 - [Puzzle Wasgij Destiny](https://brincatoys.pt/products/puzzle-wasgij-destiny-2): The Puzzlers Arms ’! é o título deste puzzle de 1.000 peças. Lembra-se de quando podia entrar num pub e conhecer todos os clientes? Tente imaginar como seria esse pub nos dias de hoje, o interior teria mudado, mas o que mais poderia ser? Esta é a cena que você terá que decifrar. O puzzle acabado mede aproximadamente 68x49 cm.     Dimensão: 36.5 x 6
-  Updated: 2025-09-30T02:39:34Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -8858,7 +8858,7 @@ da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/story-box-quinta-22852419-brincatoys-1178695418.png?v=1752874202
   Price: 25,95 € EUR
 - [Submarino Azul e Amarelo](https://brincatoys.pt/products/submarino-azul-e-amarelo): As crianças podem aproveitar para brincar na praia ou na piscina de uma forma inovadora, optando pelo Submarino azul. Este brinquedo é feito com garrafas de leite de plástico 100% reciclado, que são seguros para a terra e também para o seu filho. Este brinquedo para piscina ou praia é livre de BPA e ftalato e está em conformidade com os padrões do
-  Updated: 2025-09-29T16:38:47Z
+  Updated: 2025-10-04T15:03:17Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -9047,7 +9047,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tigre-femea-de-bengala-439452921-brincatoys-1178695476.png?v=1752875768
   Price: 9,50 € EUR
 - [Top Trumps Match LOL Surprise](https://brincatoys.pt/products/top-trumps-match-lol-surprise): Top Trumps Match, o incrível jogo dos cubos, recebe um makeover L.O.L Surprise. Sê o primeiro a combinar 5 personagens fofinhos de L.O.L Surprise para ganhares o jogo. Mas espera, o jogo ainda não acabou, será que o teu rival te pode tirar a vitória no último momento? Se o personagem que alinhaste coincidir com uma das suas cartas Top Trumps, eles
-  Updated: 2025-09-29T18:04:15Z
+  Updated: 2025-10-04T15:10:35Z
   Vendor: LOL Surprise
   Product Type: + 4 anos
   Availability: Available
@@ -12068,49 +12068,49 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-a-piece-of-pride-81918123-2600000-brincatoys-1178696696.jpg?v=1752898095
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pcs - New Year Resolutions](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-new-year-resolutions): "Resoluções de Ano Novo!" é o título deste hilariante quebra-cabeça Wasgij Original de 1.000 peças. O ano novo está aqui e isso só pode significar uma coisa, hora de um novo eu! Mas na aula de aeróbica parece mais fácil falar do que fazer! Algo na classe deixou uma senhora chocada, e não é apenas a rotina de exercícios. O que poderia ter deixado es
-  Updated: 2025-09-30T02:49:33Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-new-year-resolutions-82500023-2600000-brincatoys-1178696698.webp?v=1752898100
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Mountain Mayhem!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-mountain-mayhem): Wasgij Mystery 'Mountain Mayhem!' é o título deste quebra-cabeça de 1.000 peças fantasticamente engraçado. O sol está a brilhar para mais um belo dia neste idílico retiro nas montanhas. Os locais fazem compras e passeiam com os cães, os turistas admiram os arredores, enquanto outros arrumam o carro para começar a viagem de volta para casa. O que po
-  Updated: 2025-09-30T02:50:05Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-mountain-mayhem-82500223-2600000-brincatoys-1178696700.jpg?v=1752898327
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Chinese New Year!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-chinese-new-year): As celebrações do Ano Novo Chinês estão a iluminar as ruas, com multidões reunindo-se para dar as boas-vindas ao Ano do Tigre e aproveitar a diversão e os fogos de artifício, mas o que poderia impedir o temível desfile com o tema de tigre? O que a mulher com o smartphone viu que poderia ter feito o seu queixo cair? Essa é a imagem que precisa decif
-  Updated: 2025-09-30T02:50:41Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-chinese-new-year-82501123-2600000-brincatoys-1178696702.jpg?v=1752898333
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Winter Games](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-winter-games): É a cerimônia de abertura dos Jogos de Inverno e os olhos do mundo estão voltados para os orgulhosos atletas enquanto eles desfilam e acenam para a multidão, com alguns até exibindo as suas habilidades desportivas ao longo do caminho. Esta ocasião importante ocorrerá sem problemas ou o evento está em gelo fino? Use a sua imaginação e as pistas forn
-  Updated: 2025-09-30T02:50:47Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-winter-games-82501223-2600000-brincatoys-1178696704.jpg?v=1752898338
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Pooch Parlour](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-pooch-parlour): Às vezes, até mesmo os nossos amigos de quatro patas precisam de um pouco de mimos e no Pooch Parlour, cães fofinhos de todas as formas e tamanhos estão a ser tratados com perfeição. A serenidade continuará ou um cliente empolgado está prestes a deixar todo o mundo louco? Use a sua imaginação e as pistas fornecidas na caixa para descobrir o que aco
-  Updated: 2025-09-30T02:51:33Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-pooch-parlour-82501823-2600000-brincatoys-1178696706.jpg?v=1752898442
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Time Travel!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-time-travel): Wasgij Retro Destiny 5: 'Time Travel' é o título deste hilariante quebra-cabeça de 1000 peças. Houve um tempo em que viajar pelo mundo significava levar dias, ou mesmo semanas, para ir de um lugar a outro. Mas até onde a tecnologia chegou para permitir que os passageiros cheguem de A a B rapidamente? Esta é a cena que terá de decifrar. Wasgij Desti
-  Updated: 2025-09-30T02:50:29Z
+  Updated: 2025-10-04T15:46:45Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-time-travel-82500823-2600000-brincatoys-1178696708.jpg?v=1752898449
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Market Meltdown](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-market-meltdown): O mercado de queijos holandês está mais movimentado do que nunca, com moradores e turistas reunindo-se para comprar algumas iguarias locais – nem mesmo as nuvens escuras podem abalar os seus ânimos! Felizmente para eles, o sol rompeu a escuridão e começou a brilhar forte nas bancas do mercado mas por que será que a mudança repentina no clima deixa-
-  Updated: 2025-09-30T02:50:35Z
+  Updated: 2025-10-04T15:46:44Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -12159,42 +12159,42 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-falcon-1000-pcs-the-milkman-81132423-2600000-brincatoys-1178696722.jpg?v=1752803898
   Price: 16,95 € EUR
 - [Puzzles Wasgij? 1000 pçs - Grabbing a Quick Bite!](https://brincatoys.pt/products/puzzles-wasgij-1000-pcs-grabbing-a-quick-bite): Grabbing a Quick Bite' é o título deste fantástico quebra-cabeça Wasgij Mystery de 1.000 peças. Faça uma paragem para almoçar no café Val's le clairs. É uma bela tarde e todos estão a aproveitar para almoçar. Mas o que poderia estragar o apetite das pessoas? Use  a sua imaginação e as pistas fornecidas na caixa para descobrir o que  acontecerá a s
-  Updated: 2025-09-30T02:39:46Z
+  Updated: 2025-10-04T15:46:44Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzles-wasgij-1000-pcs-grabbing-a-quick-bite-81917923-2600000-brincatoys-1178696724.jpg?v=1752804003
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Highway Hold-up!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-highway-hold-up): Assalto rodoviário!' é o título deste brilhantemente engraçado Wasgij Destiny 21, quebra-cabeça de 1.000 peças. Uau… houve um assalto e eles foram forçados a parar. Mas quão diferente seria o mundo de hoje se você (infelizmente) fosse parado? Tente imaginar como seria essa cena nos dias modernos, os veículos teriam mudado, mas o que mais poderia t
-  Updated: 2025-09-30T02:39:52Z
+  Updated: 2025-10-04T15:46:44Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-highway-hold-up-81918023-2600000-brincatoys-1178696726.jpg?v=1752804009
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Holiday Fiasco!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-holiday-fiasco): Uma família de turistas chegou para umas férias cheias de sol, mar e sangria, mas o seu magnífico resort não é exatamente o que parecia nos folhetos. A avó viu algo que a deixou tão chocada que quase deixou cair o protector solar, e não é só o preço das bebidas! O que poderia ter arruinado as férias da avó antes mesmo de começar? Essa é a imagem qu
-  Updated: 2025-10-01T09:03:31Z
+  Updated: 2025-10-04T15:46:44Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-holiday-fiasco-82500423-2600000-brincatoys-1178696728.jpg?v=1752804016
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Trouble Brewing!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-trouble-brewing): "Fermentação com Problemas" é o título deste quebra-cabeça de 1000 peças fantasticamente engraçado Wasgij Mystery 20. Um passeio pela cervejaria está em andamento e o guia está a esforçar-se para manter o grupo turbulento focado, especialmente uma visitante que teve muitas provas grátis! As placas dizem 'não toque', mas os visitantes podem manter a
-  Updated: 2025-09-30T02:50:17Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-trouble-brewing-82500623-2600000-brincatoys-1178696730.jpg?v=1752804021
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Trip to the Tip!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-trip-to-the-tip): Viagem ao centro de reciclagem !' é o título deste hilariante Wasgij Destiny 22, quebra-cabeça de 1.000 peças. As viagens ao centro de reciclagem têm sido o paraíso para alguns e o inferno para outros durante décadas. Hoje não é exceção, pois as crianças brincam na confusão, os carros errados vão para a sucata e os gatos vigiam famílias de ratos c
-  Updated: 2025-09-30T02:49:39Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-trip-to-the-tip-82500123-2600000-brincatoys-1178696732.jpg?v=1752804127
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Calm on the Canal!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-calm-on-the-canal): "Calma no Canal!" é o quebra-cabeça brilhantemente engraçado de 1.000 peças que ilustra um lindo dia no canal. A imagem impressa na frente da caixa mostra um homem a navegar pelo canal no seu barco. Quando de repente ele ouve algo atrás dele, fazendo com que ele e as pessoas ao redor parem e olhem! O que poderia estar a acontecer para que tenha hav
-  Updated: 2025-09-30T02:39:40Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -12215,28 +12215,28 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-jumbo-1000-pcs-costa-de-amalfi-81887823-2600000-brincatoys-1178696738.jpg?v=1752804261
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Camping Commotion!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-camping-commotion): Uma família de campistas encontrou o local perfeito para as suas férias, rodeado pela natureza no coração da uma paisagem idílica. O pai está tão animado por estar ali que já começou a pescar, mas será que ele continuará tão entusiasmado quando pescar? O que poderia atrapalhar uma tarde tão divertida? Essa é a cena que deve decifrar. Use  a sua ima
-  Updated: 2025-09-30T02:51:27Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-camping-commotion-82501623-2600000-brincatoys-1178696740.jpg?v=1752898461
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Business as Usual!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-business-as-usual): O mundo dos negócios de alta pressão há muito tempo que gira à volta de escritórios elegantes e modernos com a tecnologia mais recente e funcionários elegantemente vestidos, apresentand  gráficos e números na ponta dos dedos. .... até 2020. Depois dessa data alterou a vida profissional de cabeça para baixo. O escritório de hoje ainda pode contar co
-  Updated: 2025-09-30T02:50:53Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-business-as-usual-82501323-2600000-brincatoys-1178696742.jpg?v=1752898566
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Car Boot Capers!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-car-boot-capers): Car Boot Capers' é o título deste quebra-cabeça Wasgij Original 35 histericamente engraçado de 1.000 peças. É o melhor momento de compras para os caçadores de pechinchas no Lower Frumpington Car Boot Sale, com muitos negócios deslumbrantes disponíveis. Mas algo chamou a atenção dos nossos compradores experientes e eles estão a achar difícil resist
-  Updated: 2025-09-30T02:40:04Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-car-boot-capers-81918423-2600000-brincatoys-1178696744.jpg?v=1752803765
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Late Booking!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-late-booking): Wasgij Retro Original 5: 'Late Booking!' é o título deste quebra-cabeça Wasgij Original de 1000 peças extremamente divertido. Umas férias com a 'Cheepo Tours' podem parecer um bom negócio a princípio, mas esses viajantes estão prestes a receber mais do que esperavam! Coloque-se no lugar de 'Angela', a representante da empresa, para adivinhar o que
-  Updated: 2025-09-30T02:50:23Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -12327,63 +12327,63 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-falcon-1000-pcs-the-queen-s-platinum-jubilee-81137123-2600000-brincatoys-1178696770.jpg?v=1752803658
   Price: 16,95 € EUR
 - [Figura Petronix Defenders - Jia (com mochila incluída)](https://brincatoys.pt/products/petronix-defenders-jia-figura-com-mochila): Adquira a figura de ação Petronix Defenders - Jia, com uma mini-mochila de coleção incluída. A figura tem cerca de 7,5 cm de altura e é uma peça perfeita para colecionar ou brincar com os seus amigos que também tenham brinquedos da série Petronix Defenders. Encomende já a sua!
-  Updated: 2025-09-29T22:00:22Z
+  Updated: 2025-10-04T14:54:20Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-petronix-defenders-jia-com-mochila-incluida-644840123-8056379148401-petronix-defenders-1178696772.webp?v=1752898812
   Price: 9,59 € EUR
 - [Figura Petronix Defenders - Tim (com mochila incluída)](https://brincatoys.pt/products/petronix-defenders-tim-figura-com-mochila): Apresentamos a Figura Petronix Defenders - Tim, uma figura de ação com aproximadamente 7,5 cm e com uma mochila incluída, perfeita para os pequenos fãs de aventuras e super-heróis. Esta figura incrivelmente detalhada é feita de materiais de alta qualidade e é ideal para colecionar ou brincar. A mochila incluída adiciona um toque extra de diversão e
-  Updated: 2025-09-29T22:00:28Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-petronix-defenders-tim-com-mochila-incluida-644840223-petronix-defenders-1178696775.jpg?v=1752898822
   Price: 9,59 € EUR
 - [Figura Petronix Defenders - Matt (com mochila incluída)](https://brincatoys.pt/products/petronix-defenders-matt-figura-com-mochila): Adquira a figura de ação Petronix Defenders - Matt, com uma mini-mochila de coleção incluída. A figura tem cerca de 7,5 cm de altura e é uma peça perfeita para colecionar ou brincar com os seus amigos que também tenham brinquedos da série Petronix Defenders. Encomende já o seu!
-  Updated: 2025-09-29T22:00:35Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-petronix-defenders-matt-com-mochila-incluida-644840323-petronix-defenders-1178696776.webp?v=1752898922
   Price: 9,59 € EUR
 - [Figura Petronix Defenders - Emma (com mochila incluída)](https://brincatoys.pt/products/petronix-defenders-emma-figura-com-mochila): Adquira a figura de ação Petronix Defenders - Emma, com uma mini-mochila de coleção incluída. A figura tem cerca de 7,5 cm de altura e é uma peça perfeita para colecionar ou brincar com os seus amigos que também tenham brinquedos da série Petronix Defenders. Encomende já a sua!
-  Updated: 2025-09-29T22:00:41Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-petronix-defenders-emma-com-mochila-incluida-644840423-petronix-defenders-1178696778.jpg?v=1752898928
   Price: 9,59 € EUR
 - [Brinquedo Petronix Defenders - Jia's Pet Mobile & Paul-E](https://brincatoys.pt/products/petronix-defenders-jias-pet-mobile-paul-e): Adquira o Petronix Defenders - Jia's Pet Mobile & Paul-E e proporcione horas de diversão e aventuras interplanetárias ao seu filho. Brinquedo articulado com a figura de Paul-E incluída!
-  Updated: 2025-09-29T21:59:51Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/brinquedo-petronix-defenders-jia-s-pet-mobile-paul-e-644834023-8056379148340-petronix-defenders-1178696786.webp?v=1752899171
   Price: 11,19 € EUR
 - [Moto do Petronix Defenders - Tim's Pet Mobile & Shell-E](https://brincatoys.pt/products/petronix-defenders-tims-pet-mobile-shell-e): Descubra o incrível mundo de Petronix Defenders com Tim's Pet Mobile & Shell-E, um conjunto que inclui uma moto, uma personagem da série e o seu pequeno animal robótico. Encomende agora a sua moto Pet Mobile na nossa loja de brinquedos!
-  Updated: 2025-09-29T21:59:57Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/moto-do-petronix-defenders-tim-s-pet-mobile-shell-e-644834123-8056379148340-petronix-defenders-1178696794.jpg?v=1752899414
   Price: 11,19 € EUR
 - [Brinquedo Petronix Defenders - Matt's Pet Mobile & Pup-E](https://brincatoys.pt/products/petronix-defenders-matts-pet-mobile-pup-e): Conheça o Petronix Defenders - Matt's Pet Mobile & Pup-E! Um emocionante conjunto que inclui Matt, uma moto Pet Mobile e um cão robótico para inúmeras horas de diversão e aventura. Ideal para crianças a partir dos 3 anos de idade! Descubra-os a todos na Brincatoys!
-  Updated: 2025-09-29T22:00:03Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/brinquedo-petronix-defenders-matt-s-pet-mobile-pup-e-644834223-8056379148340-petronix-defenders-1178696801.webp?v=1752803522
   Price: 11,19 € EUR
 - [Brinquedos Petronix Defenders - Emma's Pet Mobile & Kitt-10](https://brincatoys.pt/products/petronix-defenders-emma-pet-mobile-kitt-10): Descubra a Petronix Defenders - Emma's Pet Mobile & Kitt-10, a emocionante moto de aventura com um animal de estimação robótico incluído. Perfeito para crianças a partir dos 3 anos de idade. Encomende já a sua!
-  Updated: 2025-09-29T22:00:10Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/brinquedos-petronix-defenders-emma-s-pet-mobile-kitt-10-644834323-8056379148340-petronix-defenders-1178696809.webp?v=1752899657
   Price: 11,19 € EUR
 - [Brinquedo Petronix Defenders - Max Mode Pet Paul-E](https://brincatoys.pt/products/petronix-defenders-max-mode-pet-paul-e-robo-transformavel-combinavel): Descubra o Petronix Defenders - Max Mode Pet Paul-E, um incrível robô transformável e combinável que garante horas de diversão e criatividade para crianças a partir dos 3 anos de idade!
-  Updated: 2025-09-29T22:00:16Z
+  Updated: 2025-10-04T14:56:48Z
   Vendor: Petronix Defenders
   Product Type: + 3 anos
   Availability: Available
@@ -12516,7 +12516,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-equilibrismo-gatos-e-ratos-26777823-brincatoys-1178696862.jpg?v=1752803292
   Price: 22,99 € EUR
 - [Barco Rebocador Topo Amarelo](https://brincatoys.pt/products/barco-rebocador-topo-amarelo): Embarque num cruzeiro pela banheira. Navegue na piscina rasa. Mergulhe na poça de água ocasional. Não há fim para a diversão que os jovens marinheiros podem ter com este rebocador. Esta embarcação colorida flutua e tem um bico largo para colher e despejar água. Feitonos EUA com recipientes de leite de plástico 100% reciclado que economizam energia
-  Updated: 2025-09-29T16:39:11Z
+  Updated: 2025-10-04T15:01:35Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -12628,7 +12628,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-de-vegetais-82316123-brincatoys-1178696908.jpg?v=1752901566
   Price: 22,99 € EUR
 - [L.O.L. Surprise! OMG - Roller Chick](https://brincatoys.pt/products/lol-surprise-omg-roller-chick): As bonecas da moda OMG estão de volta: diga olá para Roller Chick! Ela é sempre a alma da festa e acredita firmemente que os patins são 100% melhores do que os saltos. Roller Chick concentra a sua energia no que a faz feliz e segue as vibrações onde quer que elas a levem. Além disso, ela é a irmã mais velha do eclético personagem LOL Surprise, Roll
-  Updated: 2025-10-04T02:21:07Z
+  Updated: 2025-10-04T15:07:02Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -13076,7 +13076,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/sabre-de-luz-star-wars-ahoska-tano-90742623-5010996136978-star-wars-1178697144.jpg?v=1752905415
   Price: 34,99 € EUR
 - [LOL Surprise OMG - Victory](https://brincatoys.pt/products/lol-surprise-omg-victory): LOL Surprise OMG Victory tem traços deslumbrantes, cabelo lindo, o seu próprio equipamento de corrida fabuloso e é articulada para inúmeras oportunidades de poseVista Victory com as suas roupas e acessórios únicos, incluindo a sua elegante jaqueta 707, pochete acolchoada, luvas de coração e arco e muito mais para mostrar o seu talento fashion na pi
-  Updated: 2025-09-29T21:21:39Z
+  Updated: 2025-10-04T15:12:46Z
   Vendor: LOL Surprise
   Product Type: Bonecas
   Availability: Available
@@ -13234,7 +13234,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/firebuds-violet-axl-778979623-firebuds-1178697221.webp?v=1752906724
   Price: 22,99 € EUR
 - [Brinquedo da Patrulha Pata - Zuma Hovercraft](https://brincatoys.pt/products/patrulha-pata-zuma): Brinquedo da Patrulha Pata - Zuma Hovercraft. Leve para casa a ação aquática da série favorita das crianças. Figura e hovercraft realista para divertir!
-  Updated: 2025-09-29T20:56:56Z
+  Updated: 2025-10-04T15:16:49Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -13381,7 +13381,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-aventador-coupe-amarelo-682403323-4891761240332-brincatoys-1178697307.jpg?v=1752908171
   Price: 22,99 € EUR
 - [Lamborghini Countach Lpi 800-4 vermelho](https://brincatoys.pt/products/lamborghini-countach-lpi-800-4-vermelho): Veículo Lamborghini Countach Lpi 800-4 vermelho em metal, da marca Welly, reproduzido na escala 1:24, com peças de plástico, portas que abrem e fecham e pneus de borracha. Dimensão: 23 x 11,50 x 10,00 cm. Idade Recomendada: + de 8 anos.
-  Updated: 2025-09-30T00:16:08Z
+  Updated: 2025-10-04T15:28:31Z
   Vendor: Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -13402,7 +13402,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-gallardo-superleggera-687334623-brincatoys-1178697314.jpg?v=1752908292
   Price: 21,99 € EUR
 - [Lamborghini Murcielago Lp 670-4 SV](https://brincatoys.pt/products/lamborghini-murcielago-lp-670-4-sv): Veículo da Rastar, na escala 1:24, muito detalhado do Lamborghini Murcielago Lp 670-4. O design angular foi cuidadosamente recriado com detalhes meticulosos, com portas e capô, que se abrem, rodas livres e um interior primorosamente detalhado a condizer. A Lamborghini demonstra as suas competências excecionais no setor da construção ligeira e na utilização de materiais de tecnologia avançada, como a fibra de carbono. Com o seu V12 de 6,5 litros - agora 30 CV mais potente - e o seu peso reduzido em 100 kg, o Murciélago LP 670-4 SuperVeloce leva apenas 3,2 segundos para saltar de 0 a 100 km/h e pode atingir uma velocidade máxima de 342 km/h. Dimensão: 24,50 x 13 x 11 cm. Idade Recomendada: + de 14 anos.
-  Updated: 2025-09-30T00:40:18Z
+  Updated: 2025-10-04T15:43:29Z
   Vendor: Brincatoys
   Product Type: + 14 anos
   Availability: Available
@@ -13535,7 +13535,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ferrari-gtc4-lusso-inspired-by-f2003-ga-685550723-bburago-1178697404.jpg?v=1752909490
   Price: 26,50 € EUR
 - [Lamborghini Gallardo LP560-4 1:24](https://brincatoys.pt/products/lamborghini-gallardo-lp560-4-124): Veículo da Rastar, na escala 1:24, muito detalhado do Lamborghini Gallardo. O design angular foi cuidadosamente recriado com detalhes meticulosos, com portas e capô, que se abrem, rodas livres e um interior primorosamente detalhado a condizer. O Gallardo foi um modelo desportivo da Lamborghini lançado em 2004, sendo o primeiro modelo da marca equipado com motor V10, agora com 520 CV. No Salão de Genebra de 2008 a Lamborghini apresentou uma versão atualizada o Gallardo denominada LP560-4. O modelo teve seu motor 5.2 V10 retrabalhado para alcançar a potência de 560 cv. Dimensão: 25,50 x 14,50 x 11 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T00:36:43Z
+  Updated: 2025-10-04T15:43:09Z
   Vendor: Brincatoys
   Product Type: + 14 anos
   Availability: Available
@@ -13651,7 +13651,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-speed-champions-lotus-evija-667690723-5702017156712-lego-1178697493.jpg?v=1752911163
   Price: 26,99 € EUR
 - [Puzzle Wasgij? 1000 pçs - Blooming Marvellous!,](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-blooming-marvellous): Wasgij Retro Original 6 Blooming Marvellous! É um divertido quebra-cabeça de 1.000 peças. É um dia escaldante de verão e parece que todos na rua estão nos seus jardins a aproveitar o sol. Mas o que chamou a atenção dos vizinhos ? Tente imaginar que é o homem que corta o arbusto; O que ele poderia ter visto que o fez falhar o corte ? Essa é a imagem que tem de decifrar. Wasgij Original é o conceito único de quebra-cabeça onde deve descobrir a causa da cena que se apresenta na imagem da caixa do quebra-cabeça e descobrir por que os personagens da ilustração parecem tão surpresos. Dimensão: 36,50 x 27 x 6,30 cm Idade recomendada: + de 12 anos.
-  Updated: 2025-09-30T02:50:59Z
+  Updated: 2025-10-04T15:46:43Z
   Vendor: Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -13805,7 +13805,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-cinderela-772187623-2600000-princesas-disney-1178697576.jpg?v=1752800658
   Price: 19,99 € EUR
 - [Freak Marbles Surpresa](https://brincatoys.pt/products/freak-marbles-surpresa): Freak Marbles é o novo brinquedo da moda! Estes berlindes são feitos de vidro de alta qualidade e estão disponíveis numa variedade de cores e designs. São perfeitos para brincar, colecionar ou simplesmente admirar! Cada embalagem surpresa Freak Marbles contém 1 berlinde Freak Marble aleatório e 1 uma Skin. Não sabes qual encontrarás, por isso, prepara-te para te surpreender! Freak Marbles são um ótimo presente para qualquer ocasião. Encomende hoje a tua embalagem surpresa Freak Marbles e descobre que surpresa te espera! Dimensão: 13 x 16,50 x 3 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-09-30T01:45:42Z
+  Updated: 2025-10-04T15:57:55Z
   Vendor: Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -13826,7 +13826,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-patrulha-pata-chase-27cm-778655824-2600000-patrulha-pata-1178697594.jpg?v=1752800532
   Price: 16,99 € EUR
 - [Uno Barbie The Movie](https://brincatoys.pt/products/uno-barbie-the-movie): Os fãs da ​Barbie vão adorar o jogo de cartas UNO do filme Barbie. Com um baralho com ilustrações inspiradas nos personagens e cenas favoritas, os jogadores tentam combinar cores e números, mas agora há uma regra especial "Brincou com Muita Coisa", que fará com que os jogadores descartem e comprem cartas. Quando tiver só uma carta na mão, não esqueça de gritar "UNO!" É um presente incrível para fãs da Barbie e amantes de jogos de cartas. Dimensão: 9 x 14 x 2 cm. Idade Recomendada: + de 7 anos.
-  Updated: 2025-10-03T16:54:10Z
+  Updated: 2025-10-04T15:48:44Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -15396,7 +15396,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-disney-kay-pillar-550765124-0194735076512-cars-1178698713.jpg?v=1752931090
   Price: 11,99 € EUR
 - [Cartas Uno - The Amazing Spider-Man](https://brincatoys.pt/products/cartas-uno-the-amazing-spider-man): Mergulhe no universo do teu super-herói favorito com as Cartas Uno - The Amazing Spider-Man! Os fãs de The Amazing Spider-Man vão adorar jogar este jogo de cartas UNO temático. Com um baralho que apresenta gráficos inspirados nas personagens e cenas favoritas, os jogadores tentam fazer corresponder cores e números. Esta edição especial do clássico jogo de Cartas Uno traz a emociónante ação das aventuras do Homem-Aranha para o conforto da tua casa. Com ilustrações vibrantes retratando o icónico Homem-Aranha e seus inimigos, cada jogo de Cartas Uno - The Amazing Spider-Man torna-se uma batalha épica de estratégia e sorte. A caixa contém um deck personalizado de 112 cartas, cada uma adornada com imagens vívidas que capturam a essência do mundo do Spider-Man. Além das regras tradicionais do jogo de Cartas Uno, esta versão especial introduz uma regra única que adiciona uma reviravolta temática ao jogo. Os jogadores poderão empregar poderes especiais, tal como o Spidey Swing, para ganhar vantagem sobre os adversários. Esta adição garantirá que cada jogo seja uma experiência nova e excitante, perfeito tanto para fãs do Uno quanto do Homem-Aranha. Desenhado para entusiastas de todas as idades, é adequado para jogadores a partir dos 7 anos, tornando-se um item essencial para noites de jogos em família. Concebido para 2 a 10 jogadores o jogo de cartas coleccionável é um excelente presente para os fãs da série de banda desenhada da Marvel! Além disso, a embalagem prática e durável mantém tuas cartas seguras e organizadas, seja em casa ou em viagem. Utilizando ou não a regra especial de "Web Swing" que pode acabar por saltar vários jogadores, quando faltar a última carta, não te esqueças de gritar "UNO! Em suma... Edição especial Uno com tema The Amazing Spider-Man. Regra única para uma nova dimensão estratégica. Ilustrações dinâmicas e cartas personalizadas. Dimensão: 9 x 14,50 x 2 cm. Idade recomendada: + de 7 anos.
-  Updated: 2025-09-29T17:51:55Z
+  Updated: 2025-10-04T15:48:44Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -16229,7 +16229,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-disney-ken-enginoki-e-justin-roadritter-771992824-0194735199280-cars-1178699411.jpg?v=1752941046
   Price: 22,50 € EUR
 - [Jogo de Cartas Uno Flex – Diversão Estratégica Reinventada](https://brincatoys.pt/products/jogo-cartas-uno-flex): Jogo de Cartas Uno Flex. Intensifique suas noites de jogo. Estratégia e surpresas aguardam com novas cartas de ação para todas as idades.
-  Updated: 2025-09-30T01:39:27Z
+  Updated: 2025-10-04T15:48:44Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -16796,7 +16796,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42170-mota-kawasaki-ninja-h2r-664217024-5702017583556-lego-1178699916.jpg?v=1752788891
   Price: 82,50 € EUR
 - [Jogo de cartas UNO All Wild - Mais Diversão e Estratégia](https://brincatoys.pt/products/jogo-de-cartas-uno-all-wild): Leve o clássico Jogo de cartas UNO All Wild para casa e experimente uma versão totalmente nova e emocionante. Ideal para 2-10 jogadores.
-  Updated: 2025-09-30T01:53:17Z
+  Updated: 2025-10-04T15:48:43Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -17958,7 +17958,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-gabby-conjuto-de-beleza-entre-em-um-mundo-magico-770294324-8445484394757-brincatoys-1178700788.jpg?v=1752961220
   Price: 17,90 € EUR
 - [Boneca L.O.L. Surprise Loves Hello Kitty: Uma colaboração mágica](https://brincatoys.pt/products/boneca-l-o-l-surprise-loves-hello-kitty): Prepare-se para a diversão com a boneca L.O.L Surprise Loves Hello Kitty! Uma colaboração única que combina o melhor dos dois mundos.
-  Updated: 2025-10-02T18:23:56Z
+  Updated: 2025-10-04T15:12:46Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -18308,14 +18308,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-toyota-gr-yaris-2021-vermelho-130675224-0090159067528-brincatoys-1178701055.jpg?v=1752784443
   Price: 21,99 € EUR
 - [LOL Surprise Tweens - Hana Groove: Moda e Aventuras Incríveis!](https://brincatoys.pt/products/l-o-l-surprise-tweens-hana-groove): Descubra a boneca Hana Groove, da LOL Surprise Tweens, com seu estilo vibrante e 10 surpresas emocionantes. Deixe a diversão começar e colecione todas!
-  Updated: 2025-09-30T01:59:44Z
+  Updated: 2025-10-04T15:12:46Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lol-surprise-tweens-hana-groove-moda-e-aventuras-incriveis-779165824-0035051591658-lol-surprise-1178701065.jpg?v=1752784095
   Price: 29,99 € EUR
 - [LOL Surprise Tweens - Flora Moon: A Boneca cheia de estilo](https://brincatoys.pt/products/l-o-l-surprise-tweens-flora-moon): Expresse a criatividade e a imaginação das crianças com a LOL Surprise Tweens - Flora Moon. A boneca dos sonhos com um look moderno e cheio de atitude!
-  Updated: 2025-09-30T11:32:33Z
+  Updated: 2025-10-04T15:12:46Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -18399,7 +18399,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/kit-de-tatuagem-infantil-kawaii-personalize-seu-visual-490302924-3760301403029-brincatoys-1178701132.jpg?v=1752966131
   Price: 8,00 € EUR
 - [Jogo Uno Lilo e Stitch: Edição Especial com Ilustrações Vibrantes](https://brincatoys.pt/products/jogo-uno-lilo-e-stitch): Divirta-se com o Jogo Uno Lilo e Stitch! Uma edição especial da Disney com ilustrações vibrantes que encantam todas as idades. Compre já e aproveite!
-  Updated: 2025-09-29T17:55:14Z
+  Updated: 2025-10-04T15:48:43Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -18658,7 +18658,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-volkswagen-beetle-escala-1-24-683192624-8719247125156-brincatoys-1178699964.jpg?v=1752790820
   Price: 23,50 € EUR
 - [Lego Minecraft 21267 - A Patrulha do Deserto Illager](https://brincatoys.pt/products/lego-minecraft-a-patrulha-do-deserto-illager): Divirta-se com o conjunto Lego Minecraft 21267 - A Patrulha do Deserto Illager! Construa um posto avançado, dispare mísseis e encontre um tesouro.
-  Updated: 2025-09-29T22:51:48Z
+  Updated: 2025-10-04T12:24:02Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -18959,7 +18959,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mochila-bluey-best-friends-aventura-e-conforto-230029225-8712645315082-brincatoys-1178701513.jpg?v=1752972501
   Price: 19,99 € EUR
 - [jogo de cartas UNO - Minecraft: Diversão para Todos](https://brincatoys.pt/products/cartas-uno-minecraft): Descobre a diversão do jogo de cartas UNO - Minecraft com Steve e Alex! Joga agora e explora um mundo cheio de surpresas explosivas! 💥
-  Updated: 2025-09-29T18:29:02Z
+  Updated: 2025-10-04T15:48:43Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -19498,7 +19498,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60461-trator-agricola-vermelho-com-reboque-666046125-5702017812618-lego-1178701877.jpg?v=1752978741
   Price: 22,50 € EUR
 - [Jogo de Cartas Lobisomens d’Aldeia Velha: Diverte](https://brincatoys.pt/products/jogo-de-cartas-lobisomens-da-aldeia-velha): Descubra o emocionante Jogo de Cartas Lobisomens d’Aldeia Velha! Divirta-se em família ou com amigos enquanto desvenda mistérios escondidos.
-  Updated: 2025-09-29T19:18:37Z
+  Updated: 2025-10-04T12:31:23Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -19757,7 +19757,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-lb-works-mclaren-720s-modelo-premium-232622525-194735262250-hot-wheels-1178702026.jpg?v=1752980886
   Price: 14,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças Divertidas](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pcs): Desperte a imaginação com o Puzzle Patrulha Pata 3 x 48 peças! Ideal para pequenos fãs, este jogo estimula o raciocínio lógico. Compre agora!
-  Updated: 2025-09-30T03:12:40Z
+  Updated: 2025-10-04T13:21:01Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
@@ -19799,7 +19799,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-09-30T01:20:10Z
+  Updated: 2025-10-04T15:48:43Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -20261,7 +20261,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-blue-15-cm-amigo-para-criancas-527921224-7340031379212-brincatoys-1178699653.jpg?v=1752944658
   Price: 19,50 € EUR
 - [Coelho Creme de Peluche 15 cm - Amigo para Crianças](https://brincatoys.pt/products/coelho-creme-de-peluche-15-cm-copia): Coelho Creme de Peluche 15 cm, o brinquedo suave e seguro que encanta crianças e decora quartos. Este peluche promete conforto e companheirismo.
-  Updated: 2025-09-29T20:51:38Z
+  Updated: 2025-10-04T15:18:27Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -21147,7 +21147,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/chevrolet-c10-cheyenne-super-blue-1974-miniatura-detalhada-683146725-8719247986061-brincatoys-1194811369.jpg?v=1758880326
   Price: 58,50 € EUR
 - [Transformers Age of The Primes - Sideways: Ação Épica](https://brincatoys.pt/products/transformers-age-of-the-primes-sideways): As asas do Transformers Age of The Primes - Sideways oferecem aventuras em modo robô e nave futurista. Junte-se à ação e crie batalhas épicas!
-  Updated: 2025-10-01T22:55:14Z
+  Updated: 2025-10-04T12:03:30Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -21332,7 +21332,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T14:48:40Z
   Total Products: 166
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-09-30T11:52:44Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 110
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-09-23T18:58:24Z
@@ -21356,7 +21356,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T11:19:23Z
   Total Products: 329
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-03T14:49:09Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 1534
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-03T14:47:10Z
@@ -21377,22 +21377,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T10:59:27Z
   Total Products: 1310
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 2410
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 2876
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3259
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3392
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3471
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3520
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-03T14:48:40Z
@@ -21428,7 +21428,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-09T10:07:25Z
   Total Products: 2
 - [Patrulha Pata](https://brincatoys.pt/collections/patrulha-pata)
-  Updated: 2025-09-30T11:14:17Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 28
 - [Five Nights at Freddy's](https://brincatoys.pt/collections/five-nights-at-freddys)
   Updated: 2025-09-02T21:29:27Z
@@ -21506,8 +21506,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T11:19:23Z
   Total Products: 345
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
-  Updated: 2025-10-03T13:36:17Z
-  Total Products: 10
+  Updated: 2025-10-04T15:10:09Z
+  Total Products: 11
 - [LadyBug](https://brincatoys.pt/collections/ladybug)
   Updated: 2025-10-03T13:35:48Z
   Total Products: 7
@@ -21584,7 +21584,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3553
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-03T14:00:32Z
@@ -21596,7 +21596,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:21:04Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-04T10:50:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 1178
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-03T14:47:10Z
@@ -21620,10 +21620,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:22:09Z
   Total Products: 85
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3553
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-04T11:19:23Z
+  Updated: 2025-10-04T15:15:15Z
   Total Products: 3553
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
