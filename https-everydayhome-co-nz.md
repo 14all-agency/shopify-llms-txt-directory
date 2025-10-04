@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-03T16:00:36.512Z
+- Updated At: 2025-10-04T00:00:35.813Z
 
 ## Products
 
@@ -766,13 +766,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Electric-Bloom-1000-Piece-Puzzle-3.webp?v=1727658723
   Price: $49.99 NZD
-- [Sunday Bunch - 1000 Piece Puzzle](https://everydayhome.co.nz/products/sunday-bunch-1000-piece-puzzle): This artwork celebrates the vibrancy of Mexico with New Zealand’s natural environment in a whimsical design. Flamboyant Mexican colours are projected onto New Zealand flora and fauna to capture the imagination and bring joy for the viewer. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Cris PliegoFinished size: 75 x 52cm
-  Updated: 2025-10-02T03:38:27Z
-  Vendor: Piece House
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Piece-House-Sunday-Bunch-1000-Piece-Puzzle-8.webp?v=1727659491
-  Price: $49.99 NZD
 - [Greetings From - 1000 Piece Puzzle](https://everydayhome.co.nz/products/greetings-from-1000-piece-puzzle): This puzzle artwork showcases handpicked iconic destinations and landmarks, blending vintage charm with a contemporary twist. The nostalgic 1950s poster design is the perfect backdrop for the recognisable elements in each location, spanning sand, sea, sky or mountains. Premium quality adult jigsaw puzzleArtwork by New Zealand artist Lisa Nicole MoesFinished size: 75 x 52cm
   Updated: 2025-10-02T03:38:15Z
   Vendor: Piece House
@@ -928,7 +921,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Natural-8.png?v=1727660128
   Price: $99.99 NZD
 - [Umbra Picket 5 Hook - Aged Walnut](https://everydayhome.co.nz/products/picket-5-hook-aged-walnut): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-09-28T03:37:10Z
+  Updated: 2025-10-03T23:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -977,7 +970,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flip-5-Hook-Black-Walnut-2.jpg?v=1727659015
   Price: $69.99 NZD
 - [Umbra Flip 5 Hook - Natural](https://everydayhome.co.nz/products/flip-5-hook-natural): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-29T02:22:11Z
+  Updated: 2025-10-03T19:52:35Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2622,7 +2615,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Drying-Rack-Drying-Mat-Charcoal-UMBRA-1.jpg?v=1731901813
   Price: $37.99 NZD
 - [Umbra Udry Mini Dish Rack - Charcoal](https://everydayhome.co.nz/products/udry-mini-drying-rack-drying-mat-charcoal): UDry is an innovative solution to dry dishes quickly and easily. Constructed of durable polypropylene, the lightweight, microfiber mat absorbs water from drying dishes, while also protecting countertops from scratching and water buildup. UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism.
-  Updated: 2025-09-25T13:43:07Z
+  Updated: 2025-10-03T23:07:06Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2755,7 +2748,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-01T20:07:10Z
+  Updated: 2025-10-03T19:52:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3119,7 +3112,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardplusServingTray-LightGrey-8710755123146Brabantia_96dpi_1000x1000px_7_NR-17716.png?v=1733802336
   Price: $49.95 NZD
 - [Brabantia ReNew Shower Squeegee - Dark Grey](https://everydayhome.co.nz/products/shower-squeegee-dark-grey): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-10-01T21:22:11Z
+  Updated: 2025-10-03T21:54:01Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3140,7 +3133,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReplacementLine_65mwith16connectors-8710755297243Brabantia_96dpi_1000x1000px_7_NR-3708.png?v=1734573677
   Price: $49.99 NZD
 - [Brabantia Coffee Pad Canister - Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/canister-18-coffee-teapads-matt-steel-fpp-w-red-lid): Keep your head clear and your coffee fresh with this Brabantia Coffee Pad Canister. It happily holds up to 18 coffee pads, and getting them out is easy because of the nifty lifting system on the inside. The lid and the hoist have the same colour - made for organising your morning brew.
-  Updated: 2025-09-23T12:37:43Z
+  Updated: 2025-10-03T20:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3374,7 +3367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Screenshot2024-06-27115015.png?v=1746478922
     Price: $990.00 NZD
 - [SwiftDry Lifestyle Colonial Airer - Black (3 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-colonial-clothes-airer-1-8-meter): The traditional Lifestyle Colonial Clothes Airer was one of the early designs of its kind made and distributed in New Zealand for the Ceiling mounted clothes drying rack, and it’s sleek, compact, design and ease of use has made it a much loved addition to thousands of New Zealand homes. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Featuring Antique powder coated aluminium end brackets hand-cast in the traditional way, and the four wooden rails are crafted from imported kiln-dried American White Ash, specially selected for its straight, beautiful grain and warp-resistant stability. The rails are supplied fine sanded and ready to use but can be stained and clear-coated by the purchaser to match existing décor if required. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES 2x powder coated aluminium end brackets Pulleys and screw mounting hooks 10m length of braided sash cord with cleat hook and screws (15m available for high ceilings) Easy DIY assembly instructions 30 day money back guarantee 30 yr Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Soft, easy to handle braided pulley cord Length: 1.2m / 1.8m / 2.4m Width: 500mm Rack End Colour Options: Black Weight: approx. 5kg ALSO AVAILABLE AT: Mitre 10 Mega Hornby - ChristchurchMitre 10 Mega Papanui - Christchurch
-  Updated: 2025-09-23T12:40:42Z
+  Updated: 2025-10-03T21:02:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3392,7 +3385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22213_IMG-001_2ceaf433-6f46-475e-b8b5-f77b0d368dcc.png?v=1746478925
     Price: $354.00 NZD
 - [SwiftDry Lifestyle Folding Laundry Rack (3 Sizes)](https://everydayhome.co.nz/products/lifestyle-fold-up-laundry-rack-wall-mounted-1-2-meter): Simplify your Laundry days... The Lifestyle Folding Laundry Rack is a must-have for your laundry, bathroom, or garage! It is our wall-mounted version of our early Lifestyle Airer design that became a much-loved addition in thousands of NZ homes. Features: Black powder-coated end brackets 3 wooden rails - crafted from kiln-dried American White Ash, specially selected for its straight grain and warp-resistant stability. The rails are fine sanded to be gentle on your washing. This also makes it easy for you to stain, varnish, or paint the rails to match your décor if preferred. 130mm spaces between each wooden lath - to fit larger items on with ease, and with more air circulation space, they will dry faster than ever. The Laundry Rack will hold up to 20kgs of washing. Multipurpose - can even be used in a bathroom (in this case we recommend to coat with polyurethane varnish to waterproof the rails) SwiftDry 30 Year Warranty Made in New Zealand KITSET INCLUDES (everything you need) 2x powder-coated foldable end brackets 3x wooden rails Stainless Steel bolts, and removable pins to fold down Wood Screws for mounting Easy DIY assembly instructions SPECIFICATIONS & MATERIALS Black powder coated aluminum end brackets. American White Ash Laths Wall-facing mounting bracket: 125 mm high by 50 mm wide Mounting screw holes: 80mm between centers Length: 1.2m / 1.8m / 2.4m wooden laths Depth out from wall: 400mm Weight: approx. 3kg
-  Updated: 2025-09-23T12:41:16Z
+  Updated: 2025-10-03T23:37:06Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3846,7 +3839,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_SpatulaplusFork-AubergineRed-8710755122781Brabantia_96dpi_2000x2000px_T_NR-28079.png?v=1750899938
   Price: $5.99 NZD
 - [Brabantia Profile Soup Ladle Nonstick - Matt Steel](https://everydayhome.co.nz/products/profile-soup-ladle-non-stick): Scoop and serve your soup with this Brabantia Non-Stick Soup Ladle. This long-stemmed portion sized ladle is ideal for serving soup without spilling or scrathing your pans. Smooth!
-  Updated: 2025-09-28T18:22:11Z
+  Updated: 2025-10-03T19:52:38Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4623,7 +4616,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ESSTEELE_PERBENESSERE_161450_20CM2.9LCOVEREDSAUCEPAN_1.jpg?v=1756780161
   Price: $229.99 NZD
 - [Raco Contemporary Nonstick Induction Stir Fry - 32cm](https://everydayhome.co.nz/products/raco-contemporary-nonstick-induction-stir-fry-32cm): The Raco Contemporary Nonstick Induction 32cm Stirfry Pan offers professional-quality performance for your kitchen. Designed with a durable nonstick coating, it ensures food releases effortlessly while requiring less oil for healthier cooking. Its induction-compatible base heats quickly and evenly, providing precise temperature control for perfect stir-frying, sautéing, or searing. The 32cm size offers ample space for cooking family-sized portions, and the sturdy handle provides comfortable, secure grip for safe tossing and stirring.
-  Updated: 2025-09-23T12:39:26Z
+  Updated: 2025-10-03T19:52:38Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
