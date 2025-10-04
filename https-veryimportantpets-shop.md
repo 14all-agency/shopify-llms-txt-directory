@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-04T04:01:10.062Z
+- Updated At: 2025-10-04T08:01:13.763Z
 
 ## Products
 
@@ -2361,7 +2361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-for-xs-and-s-size-dogs-pet-chair-bed-with-soft-cushion-cat-sofa-couch-with-washable-cover-wooden-frame-835153.jpg?v=1700657244
   Price: £53.99 GBP
 - [Dog Sofa, Pet Couch Bed for Medium, Large Dogs, with Legs, Cushion](https://veryimportantpets.shop/products/dog-sofa-pet-couch-bed-for-medium-large-dogs-with-legs-cushion): Don't want pets on your sofa? Then why not give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-02T15:30:45Z
+  Updated: 2025-10-04T07:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2953,7 +2953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-bird-cage-with-stand-wheels-for-small-birds-bird-cage-white-654200.jpg?v=1700648388
     Price: £71.99 GBP
 - [1.53m Mobile Bird Cage with Feeding Stand & Perches | Very Important Pets](https://veryimportantpets.shop/products/1-53m-mobile-bird-cage-with-feeding-stand-perches): Elevate your feathered friends' habitat with our 1.53m tall bird cage on wheels. Designed for parrots and similar-sized birds, it features two perches, food and water containers, and a lower storage rack. The sturdy metal frame and easy-to-clean pull-out tray make maintenance effortless. Ideal for small spaces.
-  Updated: 2025-10-03T23:30:46Z
+  Updated: 2025-10-04T07:30:47Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
@@ -3381,7 +3381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-10-02T23:30:45Z
+  Updated: 2025-10-04T07:30:47Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3567,7 +3567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-09-29T15:30:57Z
+  Updated: 2025-10-04T07:30:47Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4096,7 +4096,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-transparent-sliding-doors-breathable-mesh-for-lizards-horned-frogs-snakes-and-chameleons-205750.jpg?v=1700649306
   Price: £71.99 GBP
 - [Reptile Terrarium Vivarium, Climbing Pet Containers, Reptile Habitat with Sliding Doors, Breathable Mesh, Easy to Install, for Lizards, Horned Frogs, Snakes, Chameleons, 80 x 40 x 40 cm](https://veryimportantpets.shop/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-80-x-40-x-40-cm): Do you want to give your pets real wild heaven? Our PawHut reptile tank is your best choice. Shop online at Very Important Pets
-  Updated: 2025-10-02T15:30:49Z
+  Updated: 2025-10-04T07:30:47Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
@@ -25128,7 +25128,7 @@ Omega-6 & 3 for skin.
     Author: Very Important Pets Shop
     Tags: Dog, New Home, Puppy
   - [Dog Training Tips: Ultimate Guide | Very Important Pets Shop](https://veryimportantpets.shop/blogs/news/the-ultimate-guide-to-dog-training-tips): Dog Training Tips: Ultimate Guide | Very Important Pets Shop
-    Updated: 2025-10-03T20:57:30Z
+    Updated: 2025-10-04T06:30:15Z
     Author: Very Important Pets Shop
     Tags: Dog, Dog Training, Puppy
 
