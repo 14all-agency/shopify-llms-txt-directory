@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-03T08:00:30.169Z
+- Updated At: 2025-10-04T04:00:30.134Z
 
 ## Products
 
@@ -420,7 +420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-AW-COMBO-2024.jpg?v=1713373631
     Price: $22.95 USD
 - [The Blissful Dog Flawless Finish Dog Coat Conditioner A+ Performance](https://theblissfulpets.com/products/flawless-finish-dog-coat-conditioner): Tame your dog's matted coat with Flawless Finish dog coat conditioner. Flawless Finish moisturizes, conditions and adds volume. Free Shipping USA!
-  Updated: 2025-07-27T15:49:36Z
+  Updated: 2025-10-04T01:50:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -626,7 +626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/GOLDEN-DOG-RELAX-MAIN-BOTH-2024.jpg?v=1712945887
     Price: $22.95 USD
 - [The Blissful Dog Boo Boo Butter Balm for Minor Dog Skin Irritations](https://theblissfulpets.com/products/ouch-boo-boo-butter): Boo Boo Butter Handcrafted, all natural herbal balm for dog skin irritations; bug bites, abrasions, rashes, crusty ears, nose wrinkles+ Free Shipping USA
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-04T00:52:26Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -671,7 +671,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBUG-BULLDOG-SOAP-2025.jpg?v=1742486577
   Price: $12.95 USD
 - [The Blissful Dog Nose Butter® All Natural Balm For Dry Dog Noses](https://theblissfulpets.com/products/just-a-nose-butter): Does your dog have a dry or crusty nose? The Blissful Dog Nose Butter® moisturizes all ranges of dry dog noses from just a bit to extreme nasal hyperkeratosis.
-  Updated: 2025-09-17T14:55:36Z
+  Updated: 2025-10-04T02:30:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1517,7 +1517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BUNDLE-BUTTER-LARGE-2024_9d8f6a9a-6297-437f-81ca-ff6819e1303c.jpg?v=1713888959
     Price: $32.95 USD
 - [Blissful Butter Bundle for Horses](https://theblissfulpets.com/products/horse-blissful-butter-bundle): Here's your chance to try all of our Blissful Butters - Bye Bye Boo Boo, Bye Bye Bug, Hoof & Summer Care Butter in one convenient bundle.
-  Updated: 2025-07-26T05:48:18Z
+  Updated: 2025-10-04T03:53:46Z
   Vendor: The Blissful Pets
   Product Type: 
   Availability: Available
@@ -1598,7 +1598,7 @@
   Updated: 2025-09-28T11:26:40Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
-  Updated: 2025-09-28T11:26:40Z
+  Updated: 2025-10-03T11:20:32Z
   Total Products: 14
 - [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy)
   Updated: 2025-08-24T11:19:59Z
@@ -1619,13 +1619,13 @@
   Updated: 2025-09-05T11:19:00Z
   Total Products: 4
 - [Cat Sensitive Skin](https://theblissfulpets.com/collections/cat-sensitive-skin)
-  Updated: 2025-09-28T11:26:40Z
+  Updated: 2025-10-03T11:20:32Z
   Total Products: 5
 - [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse)
   Updated: 2025-09-21T11:19:34Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-09-28T11:26:40Z
+  Updated: 2025-10-03T11:20:32Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-09-23T11:17:18Z
