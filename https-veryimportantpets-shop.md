@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-04T08:01:13.763Z
+- Updated At: 2025-10-04T16:01:16.133Z
 
 ## Products
 
@@ -1745,7 +1745,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-stroller-rain-cover-cover-for-dog-pram-stroller-buggy-w-rear-side-entry-pet-stroller-815460.jpg?v=1700656812
   Price: £26.99 GBP
 - [Foldable Pet Pushchair with 4 Wheels, Cushion, Safety Leashes and Storage Bags, for Small and Medium Dogs](https://veryimportantpets.shop/products/foldable-pet-pushchair-with-4-wheels-cushion-safety-leashes-and-storage-bags-for-small-and-medium-dogs): A pet's day out should be smooth and comfortable and thanks to this PawHut dog stroller, it is. Shop online at Very Important Pets
-  Updated: 2025-09-30T23:30:26Z
+  Updated: 2025-10-04T15:30:50Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -2883,7 +2883,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-large-dog-feeding-station-with-storage-sleek-functional-dog-feeding-217842.jpg?v=1700649440
   Price: £53.99 GBP
 - [Pet Carrier Travel Backpack For Cats or Dogs with Trolley and Telescopic Handle](https://veryimportantpets.shop/products/pet-carrier-travel-backpack-for-cats-or-dogs-with-trolley-and-telescopic-handle): This puppy carrier is a great accessory to have. Shop online at Very Important Pets
-  Updated: 2025-10-02T23:30:45Z
+  Updated: 2025-10-04T15:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3325,7 +3325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-03T23:30:47Z
+  Updated: 2025-10-04T15:30:50Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3353,7 +3353,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2-floor-outdoor-cat-house-solid-wood-wheels-59x55x109cm-outdoor-cat-house-618917.jpg?v=1700665801
   Price: £107.99 GBP
 - [Dual-Level Wooden Cat House, Outdoor-Ready with Asphalt Roof](https://veryimportantpets.shop/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof): All cats are sure to enjoy this PawHut outdoor cat house. Shop online at Very Important Pets
-  Updated: 2025-10-03T23:30:46Z
+  Updated: 2025-10-04T15:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3567,7 +3567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-04T07:30:47Z
+  Updated: 2025-10-04T15:30:48Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4096,7 +4096,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-transparent-sliding-doors-breathable-mesh-for-lizards-horned-frogs-snakes-and-chameleons-205750.jpg?v=1700649306
   Price: £71.99 GBP
 - [Reptile Terrarium Vivarium, Climbing Pet Containers, Reptile Habitat with Sliding Doors, Breathable Mesh, Easy to Install, for Lizards, Horned Frogs, Snakes, Chameleons, 80 x 40 x 40 cm](https://veryimportantpets.shop/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-80-x-40-x-40-cm): Do you want to give your pets real wild heaven? Our PawHut reptile tank is your best choice. Shop online at Very Important Pets
-  Updated: 2025-10-04T07:30:47Z
+  Updated: 2025-10-04T15:30:49Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
@@ -4401,7 +4401,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wood-metal-rabbit-hutch-guinea-pig-hutch-elevated-pet-house-bunny-cage-with-slide-out-tray-openable-roof-outdoor-895-x-45-x-81cm-light-yellow-936892.jpg?v=1700646277
   Price: £98.99 GBP
 - [Wooden Metal Rabbit Hutch Guinea Pig Hutch Bunny Cage Pet House Bunny w/ Slide-Out Tray Outdoor Light Yellow,black](https://veryimportantpets.shop/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellow-black): Give your furry friend a comfortable living space from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-03T15:30:30Z
+  Updated: 2025-10-04T15:30:48Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4471,7 +4471,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-10-02T15:30:48Z
+  Updated: 2025-10-04T15:30:51Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4485,7 +4485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-10-03T23:30:45Z
+  Updated: 2025-10-04T15:30:48Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -6088,21 +6088,25 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-adult-medium-breed-fresh-chicken-dry-dog-food-adult-dry-12-kg-4995641.webp?v=1757169234
     Price: £44.65 GBP
 - [Eukanuba Adult Small Breed Chicken Dry Food for Adult Dogs](https://veryimportantpets.shop/products/eukanuba-adult-small-breed-chicken): Eukanuba Adult Small Breed Chicken - Rich in fresh chicken, supports weight management, promotes digestion, and enhances skin and coat health.
-  Updated: 2025-10-03T20:28:01Z
+  Updated: 2025-10-04T15:14:49Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-adult-small-breed-fresh-chicken-dry-dog-food-adult-dry-3x2kg-446796.png?v=1709160215
-  - [3x2kg](https://veryimportantpets.shop/products/eukanuba-adult-small-breed-chicken?variant=47147495620898)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-adult-small-breed-fresh-chicken-dry-dog-food-adult-dry-3x2kg-446796.png?v=1709160215
-    Price: £3.30 GBP
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003697_158953_6ee284a211.webp?v=1759581455
+  - [7.5 kg](https://veryimportantpets.shop/products/eukanuba-adult-small-breed-chicken?variant=56054885581173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003697_158953_6ee284a211.webp?v=1759581455
+    Price: £33.29 GBP
   - [12 kg](https://veryimportantpets.shop/products/eukanuba-adult-small-breed-chicken?variant=47147495588130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-adult-small-breed-fresh-chicken-dry-dog-food-adult-dry-12-kg-320274.png?v=1709160215
-    Price: £44.65 GBP
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003698_158953_0c61bcec88.webp?v=1759581455
+    Price: £49.25 GBP
+  - [3 x 3 kg](https://veryimportantpets.shop/products/eukanuba-adult-small-breed-chicken?variant=47147495620898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003696_158953_1690bff4e5.webp?v=1759581455
+    Price: £54.52 GBP
 - [Eukanuba Adult Small/Medium Breed Lamb & Rice Dry Dog Food](https://veryimportantpets.shop/products/eukanuba-adult-dog-small-medium-breed-lamb-dry): Eukanuba Adult Small/Medium Breed Lamb & Rice dry food with lamb, rice, and chicken for active dogs. Promotes healthy digestion and strong muscles.
-  Updated: 2025-10-01T13:28:27Z
+  Updated: 2025-10-04T16:00:36Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
@@ -6112,7 +6116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-adult-smallmedium-breed-lamb-rice-dry-dog-food-12kg-adult-dry-662024.png?v=1709160219
     Price: £44.62 GBP
   - [3 x 2.5 kg](https://veryimportantpets.shop/products/eukanuba-adult-dog-small-medium-breed-lamb-dry?variant=49100237996322)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-adult-smallmedium-breed-lamb-rice-dry-dog-food-adult-dry-3-x-25-kg-590018.jpg?v=1725694894
     Price: £55.45 GBP
 - [Eukanuba Boxer Dog Food with Chicken - Heart-Healthy Formula](https://veryimportantpets.shop/products/eukanuba-breed-boxer-12-kg): Eukanuba Breed Specific Boxer Dog Food with Chicken promotes heart health and strong natural defenses for Boxers, Setters and Dobermans.
@@ -6360,20 +6364,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-senior-medium-breed-fresh-chicken-dry-dog-food-senior-dry-12-kg-4908207.webp?v=1757298670
     Price: £44.65 GBP
-- [Eukanuba Senior Small Breed Chicken Kibble for Active Dogs](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken): Eukanuba dry food for senior small breed dogs aged 11+ years, rich in chicken. L-Carnitine for weight control & joint health. Fiber blend for gut health.
-  Updated: 2025-10-04T00:22:51Z
+- [Eukanuba Senior Small Breed Chicken Kibble for Active Dogs](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken): Eukanuba dry food for senior small breed dogs aged 11+ years, rich in chicken. L-Carnitine for weight control & joint health. Fibre blend for gut health.
+  Updated: 2025-10-04T10:59:52Z
   Vendor: Eukanuba
   Product Type: Senior Dry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-senior-small-breed-fresh-chicken-dry-dog-food-senior-dry-3x3kg-874479.png?v=1709160216
-  - [3x3kg](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken?variant=47147507351842)
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003725_158953_11376bcba4.webp?v=1759571418
+  - [7.5 kg](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken?variant=56052247232885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-senior-small-breed-fresh-chicken-dry-dog-food-senior-dry-3x3kg-874479.png?v=1709160216
-    Price: £55.45 GBP
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003725_158953_11376bcba4.webp?v=1759571418
+    Price: £33.29 GBP
   - [12 kg](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken?variant=47147507319074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-senior-small-breed-fresh-chicken-dry-dog-food-senior-dry-12-kg-425187.png?v=1709160216
-    Price: £44.65 GBP
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003726_158953_33dfd8da79.webp?v=1759571418
+    Price: £49.25 GBP
+  - [3 x 3 kg](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken?variant=47147507351842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003724_158953_dd063e4d42.webp?v=1759571418
+    Price: £55.95 GBP
 - [Fold Hill Mini Mixer - Complementary Puppy/Small Dog Food](https://veryimportantpets.shop/products/fold-hill-mini-mixer-15-kg): Fold Hill Mini Mixer for Dogs is a top-quality, nutritious option for puppies and small dogs with sensitive mouths. Mix with meat for a balanced diet. 15kg bag.
   Updated: 2025-10-02T12:28:19Z
   Vendor: Fold Hill
@@ -10967,7 +10975,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-adult-dog-grain-gluten-free-duck-gravy-tins-12x390g-sensitive-wet-921663.jpg?v=1741090478
   Price: £18.03 GBP
 - [Naturo Adult Grain & Gluten Free Variety in Herb Gravy Tins](https://veryimportantpets.shop/products/naturo-adult-grain-gluten-free-variety-in-herb-gravy-tins): Naturo Adult Grain & Gluten Free Variety in Herb Gravy Tins - specially made for tummy sensitivities, promoting health and happiness for your dog.
-  Updated: 2025-09-30T13:28:00Z
+  Updated: 2025-10-04T15:50:49Z
   Vendor: Naturo
   Product Type: Sensitive Wet
   Availability: Available
@@ -17203,7 +17211,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/thomas-cat-litter-16-l-litter-261338.jpg?v=1702499861
   Price: £12.35 GBP
 - [Cat Litter Trays from Van Ness - Odour & Stain Resistant](https://veryimportantpets.shop/products/van-ness-cat-litter-tray): Van Ness Cat Litter Trays are high-polished, odour-resistant, and stain-resistant for easy cleaning. Available in four sizes. Stylish design, made in USA.
-  Updated: 2025-09-30T09:27:49Z
+  Updated: 2025-10-04T10:40:21Z
   Vendor: Van Ness
   Product Type: 
   Availability: Available
@@ -17217,7 +17225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/van-ness-cat-litter-tray-medium-897580.jpg?v=1745454650
     Price: £7.02 GBP
   - [Large](https://veryimportantpets.shop/products/van-ness-cat-litter-tray?variant=47293906747682)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/van-ness-cat-litter-tray-large-145940.jpg?v=1745454647
     Price: £7.86 GBP
   - [Giant](https://veryimportantpets.shop/products/van-ness-cat-litter-tray?variant=47293906780450)
@@ -23221,7 +23229,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whimzees-large-alligator-dental-dog-treat-chew-6-x-6-pack-dental-chew-treats-692330.jpg?v=1725414754
   Price: £40.06 GBP
 - [Good Boy Chicken Mini Knots - Tough & Tasty Bite-sized Treat](https://veryimportantpets.shop/products/good-boy-tough-tasty-chicken-mini-knots): Good Boy Tough & Tasty Chicken Mini Knots- healthy rawhide alternative made from collagen and real chicken. Reduces plaque & tartar while providing chewing fun.
-  Updated: 2025-09-22T18:52:57Z
+  Updated: 2025-10-04T09:53:46Z
   Vendor: Good Boy
   Product Type: Dog Treats
   Availability: Available
@@ -23955,7 +23963,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T20:28:02Z
   Total Products: 204
 - [Dry Dog Food & Kibble - Premium Brands | Very Important Pets](https://veryimportantpets.shop/collections/dry-dog-food): Find tailored dry dog food nutrition for all breeds, ages, and diets, including grain-free and hypoallergenic. Perfect for your dog’s health and taste preferences.
-  Updated: 2025-10-03T20:28:02Z
+  Updated: 2025-10-04T15:10:05Z
   Total Products: 434
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
   Updated: 2025-10-03T20:28:02Z
@@ -24000,7 +24008,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-10-03T20:28:48Z
+  Updated: 2025-10-04T11:37:41Z
   Total Products: 395
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-10-03T20:28:01Z
@@ -24051,7 +24059,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T11:38:27Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-10-03T20:36:10Z
+  Updated: 2025-10-04T15:10:05Z
   Total Products: 582
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-10-01T21:47:34Z
@@ -24090,7 +24098,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-03T20:36:10Z
+  Updated: 2025-10-04T15:10:05Z
   Total Products: 1772
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-10-03T20:28:01Z
@@ -24537,7 +24545,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-03T20:28:48Z
+  Updated: 2025-10-04T15:10:05Z
   Total Products: 1722
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24561,7 +24569,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T20:28:01Z
   Total Products: 87
 - [Good Boy Dog Treats & Toys | Very Important Pets | Shop](https://veryimportantpets.shop/collections/good-boy): Indulge your pooch with Good Boy treats and toys at Very Important Pets. Savour high-quality, safe products perfect for play and training. Shop for dental care treats and fun toys!
-  Updated: 2025-09-22T18:52:57Z
+  Updated: 2025-10-04T11:37:41Z
   Total Products: 71
 - [Small Animal Playpen](https://veryimportantpets.shop/collections/small-animal-playpen)
   Updated: 2025-01-13T21:04:22Z
@@ -24669,7 +24677,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T11:38:27Z
   Total Products: 11
 - [Eukanuba: Tailored Life-Stage Pet Food | Very Important Pets](https://veryimportantpets.shop/collections/eukanuba): Explore Eukanuba premium pet nutrition, expertly crafted for every life stage. Advanced, high-quality formulas for optimal health from puppy to senior years.
-  Updated: 2025-10-03T20:28:02Z
+  Updated: 2025-10-04T15:10:05Z
   Total Products: 34
 - [Gelert Country Choice Dog Food UK | Hypoallergenic & Grain-Free](https://veryimportantpets.shop/collections/gelert): Gelert dog food from Wales since 1982. Hypoallergenic, small-batch recipes—grain-free, no wheat, soya or dairy—for working dogs, puppies & adults. Shop now.
   Updated: 2025-10-01T11:40:05Z
@@ -24702,7 +24710,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T11:38:27Z
   Total Products: 32
 - [Pedigree Dog Food: Nutritious & Affordable | Very important Pets](https://veryimportantpets.shop/collections/pedigree): Shop Pedigree expertly crafted Dog and Cat nutrition range at Very Important Pets, offering balanced, complete meals for dogs and cats from puppies to seniors.
-  Updated: 2025-10-02T18:55:14Z
+  Updated: 2025-10-04T11:37:41Z
   Total Products: 71
 - [Skinner's Working Dog Nutrition | Very Important Pets | Shop](https://veryimportantpets.shop/collections/skinners): Find Skinner's Field & Trial for working dogs at Very Important Pets. Natural, high-energy nutrition with quality British ingredients, free from artificial additives.
   Updated: 2025-10-02T18:55:17Z
@@ -24741,7 +24749,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-03T20:36:11Z
+  Updated: 2025-10-04T15:10:05Z
   Total Products: 2317
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
@@ -24759,7 +24767,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-19T21:52:58Z
   Total Products: 2
 - [Dog Dental Chews & Sticks - Oral Care Treats | VIPs](https://veryimportantpets.shop/collections/dog-dental-chews): Boost your pets dental health with our Dog Dental Chews & Sticks. Quality brands like DentaLife & Lily's Kitchen provide effective oral care and delicious flavours.
-  Updated: 2025-10-02T18:55:12Z
+  Updated: 2025-10-04T11:37:41Z
   Total Products: 77
 - [Purina Dentalife: Expert Dog & Cat Dental Treats | Very Important Pets](https://veryimportantpets.shop/collections/purina-dentalife): Explore Purina Dentalife at Very Important Pets for premium dog and cat dental care—scientifically designed treats to reduce tartar and freshen breath.
   Updated: 2025-10-02T18:55:10Z
@@ -24798,7 +24806,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-29T20:27:59Z
   Total Products: 9
 - [Senior Dog Food- Optimal Nutrition for Older Dogs | VIPs](https://veryimportantpets.shop/collections/senior-dog-food): Shop for specialised senior or mature life-stage dog food - tailored nutrition for older dogs with joint support and essential vitamins for health and vitality.
-  Updated: 2025-10-02T18:55:20Z
+  Updated: 2025-10-04T11:37:41Z
   Total Products: 75
 - [Verm-X Natural Supplements: Eco-Friendly, Vet Approved Care](https://veryimportantpets.shop/collections/verm-x): Explore Verm-X's natural supplements for pets at Very Important Pets. Ethically made in the UK, vet-approved, eco-friendly products promote holistic animal health.
   Updated: 2025-05-04T17:44:26Z
@@ -24897,7 +24905,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T18:55:50Z
   Total Products: 178
 - [Discount Dog Food Offers & Treats Sale - Save Big Now!](https://veryimportantpets.shop/collections/dog-supply-discounts): Discover incredible savings with our dog food offers! Shop now & enjoy up to 60% off on high-quality dog food and treats. Find the best UK deals and save more.
-  Updated: 2025-10-02T18:55:49Z
+  Updated: 2025-10-04T11:37:41Z
   Total Products: 205
 - [YAKERS: Natural Himalayan Yak Milk Dog Chews](https://veryimportantpets.shop/collections/yakers): Indulge your dog with YAKERS natural yak milk chews. Crafted in the Himalayas for lasting enjoyment and dental health. Perfect for dogs of all ages.
   Updated: 2025-10-03T20:28:01Z
