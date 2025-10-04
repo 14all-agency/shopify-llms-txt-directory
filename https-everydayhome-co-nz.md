@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-04T00:00:35.813Z
+- Updated At: 2025-10-04T08:00:36.133Z
 
 ## Products
 
@@ -312,14 +312,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Clothes-Rack-Black-9.jpg?v=1727659594
   Price: $399.99 NZD
 - [Brabantia Linn Clothes Rack - Large White](https://everydayhome.co.nz/products/linn-clothes-rack-large-white): Linn Clothes Rack, Large, White
-  Updated: 2025-09-23T12:33:42Z
+  Updated: 2025-10-04T05:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Clothes-Rack-White-6.jpg?v=1727659793
   Price: $399.99 NZD
 - [Brabantia Bo Touch Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-platinum): Bo Touch Bin, 2 X 30L, Platinum
-  Updated: 2025-09-23T12:33:43Z
+  Updated: 2025-10-04T00:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -949,7 +949,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-10-02T16:07:11Z
+  Updated: 2025-10-04T04:20:50Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1299,7 +1299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Laundry-Bin-60L-Matt-Black-2.png?v=1727659088
   Price: $279.99 NZD
 - [Brabantia Laundry Bin - 60L White](https://everydayhome.co.nz/products/laundry-bin-60l-white-w-dark-grey-plastic-lid): Change laundry day bigtime with this 60 litre Brabantia Laundry Bin. Its top lid keeps your laundry out of sight, and thanks to its clever Quick-Drop opening, you don’t even have to remove it to put in your laundry. On washdays, take off the lid to easily remove the perfectly fitting cotton laundry bag inside. Of course it is corrosion free, and it has ventilation holes and a protective bottom ring, so it can be used anywhere in your home. Laundry at its loveliest.
-  Updated: 2025-09-27T04:52:11Z
+  Updated: 2025-10-04T05:37:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1425,7 +1425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chairs-Grey-Set-of-4-1_a576cdf5-35c3-4bee-aa31-337385321e91.jpg?v=1731547593
   Price: $399.99 NZD
 - [Anolon X SearTech - 10 Piece Cookware Set](https://everydayhome.co.nz/products/ano-x-s-tech-ns-10pc-cookware-set): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 10 piece cookware set features an ultra-durable, PFOA-free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet. Metal utensil safe, oven safe to 260°C degrees for the perfect finish, and dishwasher safe for the easiest cleanup.
-  Updated: 2025-09-17T22:07:10Z
+  Updated: 2025-10-04T04:20:50Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1691,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-UMBRA-2.jpg?v=1731903410
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Monochrome](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted-grey): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-09-25T15:00:33Z
+  Updated: 2025-10-04T04:20:51Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1817,7 +1817,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-30-4cm-Open-Skillet-Cir-2.jpg?v=1731903168
   Price: $219.99 NZD
 - [Circulon Scratchdefense A1 - 34cm Open Stirfry](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-34cm-open-stirfry-w-hh): The Open Stirfry with Helper Handle is your culinary companion for mastering the art of stir-frying. This premium kitchen essential boasts a generous 34cm diameter and a convenient helper handle for effortless manoeuvring.
-  Updated: 2025-09-23T12:36:12Z
+  Updated: 2025-10-04T06:07:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2139,7 +2139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-24cm-9-0L-Covered-Stockpot-Esste-9.jpg?v=1731902107
   Price: $399.99 NZD
 - [Essteele Per Vita - 28cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-vita-28cm-open-french-skillet): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This 28cm open French skillet is perfect for cooking meat, fish, vegetables and family meals, providing frying and searing perfection.
-  Updated: 2025-09-23T12:36:32Z
+  Updated: 2025-10-04T01:37:06Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2159,13 +2159,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-30cm-4-7L-Covered-Multicooker-Wi-4.jpg?v=1731903153
   Price: $489.99 NZD
-- [Essteele Per Vita - 14/16/18cm 3 Piece Covered Saucepan Set](https://everydayhome.co.nz/products/essteele-per-vita-3pc-saucepan-set): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This covered 3 piece saucepan set is perfect for boiling eggs, making sauces and so much more. Set Includes: 14CM/1.2L Covered Saucepan 16CM/1.9L Covered Saucepan 18CM/2.8L Covered Saucepan
-  Updated: 2025-09-28T08:37:11Z
-  Vendor: Essteele
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-14-16-18cm-3-Piece-Covered-Sauce-3.jpg?v=1731902975
-  Price: $649.99 NZD
 - [Umbra Estique Multi Organiser - White](https://everydayhome.co.nz/products/estique-multi-organiser-white): Estique Multi Organizer by Umbra features 14 hooks, providing easy access to your belongings. Estique can be either wall-mounted, or hung over a door using over-the-door hooks that are included. In addition to adding a warm touch to Estique’s design, these pegs prevent delicate items from pulling or snagging.
   Updated: 2025-09-28T03:37:10Z
   Vendor: UMBRA
@@ -2762,7 +2755,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $54.95 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-09-30T01:37:11Z
+  Updated: 2025-10-04T04:52:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3462,7 +3455,7 @@
     Availability: Available
     Price: $65.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-10-01T02:02:41Z
+  Updated: 2025-10-04T06:20:55Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3860,7 +3853,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_SliceGraterplusCover-DarkGrey-8710755121661Brabantia_96dpi_2000x2000px_T_NR-15157.png?v=1750901784
   Price: $9.99 NZD
 - [Brabantia Tasty+ Ice Cream Scoop - Terracotta Pink](https://everydayhome.co.nz/products/tasty-ice-cream-scoop): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
-  Updated: 2025-08-15T13:43:26Z
+  Updated: 2025-10-04T04:20:51Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3956,13 +3949,6 @@
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-SoftBeige-8710755149986Brabantia_300dpi_2000x2000px_9_NR-27507.jpg?v=1755046435
-  Price: $309.99 NZD
-- [Brabantia New Touch Bin - 30L Dreamy Blue](https://everydayhome.co.nz/products/touch-bin-new-30l-dreamy-blue): Ready for the next step in organising your home? Get your hands on the Brabantia Touch Bin 30 litre. Just touch the lid and it opens smoothly. It really is seriously easy – to open, to change the bin bags, to clean... This touch bin also has a round design, is sturdy, and protects your floor thanks to the protection rim. Bring on the years of intensive, problem free use with 30 litres of value for money.
-  Updated: 2025-09-23T12:38:36Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-DreamyBlue-8710755202728Brabantia_300dpi_2000x2000px_9_NR-27449.jpg?v=1755046273
   Price: $309.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Confident Grey](https://everydayhome.co.nz/products/pedal-bin-newicon-12l-confident-grey): A Brabantia Pedal Bin NewIcon 12 litre is a great way to pick up waste management. Small enough to hide under your worktop, stylish enough to put in plain sight. And of course this hygienic NewIcon pedal bin comes with an odour-proof, soft closing lid and nifty anti-tilting block. A timeless design and handy addition to your home office, hobby room or kid's room - or any other room that could use a winning bin!
   Updated: 2025-09-28T17:37:10Z
@@ -4336,7 +4322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePizza_PastryCutter-MattSteel-8710755250446Brabantia_300dpi_2000x2000px_9_NR-19702.jpg?v=1756435812
   Price: $27.95 NZD
 - [Brabantia Profile Potatoe Masher - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-potatoe-masher-matt-steel): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-10-02T04:07:16Z
+  Updated: 2025-10-04T05:37:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
