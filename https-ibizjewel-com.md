@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-03T12:00:50.410Z
+- Updated At: 2025-10-04T04:00:45.329Z
 
 ## Products
 
@@ -4221,7 +4221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-41_2.jpg?v=1703830780
     Price: $2,299.00 USD
 - [Natural Salt And Pepper 1.50CT Kite Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-50ct-kite-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This Natural Salt And Pepper 1.50CT Kite Diamond Art Deco Unique Engagement Ring is the perfect way to say "I love you". It features a beautiful 1.50CT kite-shaped diamond set in an exquisite handmade Art Deco design. This stunning ring is the perfect choice for any special occasion.
-  Updated: 2025-10-02T10:30:41Z
+  Updated: 2025-10-03T16:54:28Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
@@ -10620,7 +10620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-35_2.jpg?v=1709800740
     Price: $864.00 USD
 - [Moissanite 1.50CT Cushion Diamond Boho & Hippie Wedding Ring](https://ibizjewel.com/products/moissanite-1-50ct-cushion-diamond-boho-hippie-wedding-ring): This Moissanite 1.50ct Cushion Diamond Boho & Hippie Wedding Ring Is The Perfect Choice For Bohemian And Hippie Brides. The 1.50ct Cushion Diamond Is Cut To Perfection, Providing A Sparkling And Unique Look. Crafted With Expert Precision And The Highest Quality Materials, This Ring Is Sure To Make A Statement On Your Special Day.
-  Updated: 2025-10-02T10:30:47Z
+  Updated: 2025-10-03T19:06:00Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
@@ -16524,7 +16524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-13_1.jpg?v=1710392850
     Price: $712.00 USD
 - [Moissanite 0.25CT Round & Baguette Diamond Art Deco Valentine Gift Band](https://ibizjewel.com/products/moissanite-0-25ct-round-baguette-diamond-art-deco-valentine-gift-band): Expertly Crafted For The Perfect Valentine's Day Gift, This Moissanite 0.25ct Round And Baguette Diamond Art Deco Band Adds A Touch Of Elegance And Sparkle To Any Outfit. With A High Quality And Expertly Cut Moissanite, This Band Offers The Same Brilliance And Fire Of A Diamond At A Fraction Of The Cost. A Stunning Addition To Any Jewelry Collection.
-  Updated: 2025-10-02T10:30:53Z
+  Updated: 2025-10-03T19:16:59Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Baguette Diamond Band
   Availability: Available
@@ -19650,7 +19650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-114_3.jpg?v=1710502576
     Price: $876.00 USD
 - [Natural Salt And Pepper 1.26CT Kite Diamond Mid-Century Wedding Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-26ct-kite-diamond-mid-century-wedding-ring): Crafted For A Stylish Yet Timeless Look, This Mid-century Wedding Ring Features A Stunning 1.26ct Kite Diamond Adorned With Natural Salt And Pepper Inclusions. With Its Unique Shape And Natural Elements, This Ring Is A Perfect Choice For Those Seeking A One-of-a-kind Piece. Make A Statement With This Beautifully Crafted And Ethically Sourced Diamond Ring.
-  Updated: 2025-10-02T12:44:12Z
+  Updated: 2025-10-03T17:22:19Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
@@ -37238,7 +37238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-118_3.jpg?v=1711607516
     Price: $971.00 USD
 - [Moissanite 3.0 CT Oval Diamond Edwardian Anniversary Ring](https://ibizjewel.com/products/moissanite-3-0-ct-oval-diamond-edwardian-anniversary-ring): This Moissanite 3.0 Ct Oval Diamond Edwardian Anniversary Ring Is A Stunning And Elegant Choice For Your Special Occasion. Crafted With Precision And Featuring A Dazzling 3.0 Carat Oval Moissanite Diamond, This Ring Exudes Luxury And Sophistication. The Edwardian Design Adds A Touch Of Vintage Charm, Making It A Timeless Piece To Cherish For Years To Come.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-10-03T17:13:54Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
