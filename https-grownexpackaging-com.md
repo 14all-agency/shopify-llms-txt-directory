@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-03T20:00:34.679Z
+- Updated At: 2025-10-04T04:00:35.244Z
 
 ## Products
 
@@ -3161,7 +3161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/88.jpg?v=1751628363
     Price: ₹20,999.00 INR
 - [Handcrafted Wooden Gift Basket | Eco-friendly MDF Hamper Basket](https://grownexpackaging.com/products/floral-gold-basket): Luxury handcrafted wooden gift basket made with high quality MDF. Eco-friendly, reusable hamper basket for gifts, corporate, Diwali & special occasions.
-  Updated: 2025-09-27T04:48:15Z
+  Updated: 2025-10-03T20:28:00Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -5715,7 +5715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
     Price: ₹21,999.00 INR
 - [Stylish Blue Bird Print Hamper Baskets - Quality Cardboard | Grownex Packaging](https://grownexpackaging.com/products/blue-bird-print-room-hamper-basket): Stylish and sturdy cardboard gift basket perfect for festive hampers, sweets, or dry fruit packaging. Ideal for Diwali, weddings, and corporate gifting.
-  Updated: 2025-10-03T16:51:31Z
+  Updated: 2025-10-03T20:28:00Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
