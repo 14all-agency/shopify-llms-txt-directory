@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-04T08:01:00.448Z
+- Updated At: 2025-10-04T12:00:58.277Z
 
 ## Products
 
@@ -353,7 +353,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [מכנס קצר ארסנל חוץ 24/25](https://www.rsport.co.il/products/מכנס-קצר-ארסנל-חוץ-24-25): מכנסי החוץ של ארסנל לעונת 24/25 מגיעים בעיצוב מודרני עם צבעי החוץ של הקבוצה. עשויים מבד איכותי ונושם שמספק נוחות וחופש תנועה מלא, מתאימים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה.
-  Updated: 2025-10-03T17:43:02Z
+  Updated: 2025-10-04T08:33:58Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -5390,7 +5390,7 @@
     Availability: Available
     Price: ‏104.00 ‏₪ ILS
 - [חולצת כדורגל לידס יונייטד חוץ 24/25](https://www.rsport.co.il/products/חולצת-כדורגל-לידס-יונייטד-חוץ-24-25): חולצת החוץ של לידס יונייטד לעונת 24/25 משלבת את צבעי הקבוצה המסורתיים עם עיצוב מודרני ומעודכן. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה גם מחוץ למגרש.
-  Updated: 2025-10-03T17:33:25Z
+  Updated: 2025-10-04T11:16:08Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -6620,7 +6620,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [חולצת משחק אינטר מיאמי בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אינטר-מיאמי-בית-24-25): חולצת הבית של אינטר מיאמי לעונת 24/25 משלבת את צבעי הקבוצה המסורתיים עם עיצוב מודרני ומעודכן. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בכל מקום.
-  Updated: 2025-10-03T17:29:56Z
+  Updated: 2025-10-04T09:11:58Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -6944,7 +6944,7 @@
     Availability: Available
     Price: ‏142.99 ‏₪ ILS
 - [חולצת משחק אסטון וילה בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אסטון-וילה-בית-24-25): חולצת הבית של אסטון וילה לעונת 24/25 משלבת את צבעי הקבוצה המסורתיים עם עיצוב מודרני ועדכני. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בכל מקום.
-  Updated: 2025-10-03T17:26:33Z
+  Updated: 2025-10-04T10:42:08Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -7859,7 +7859,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [חולצת משחק אסטון וילה חוץ 24/25](https://www.rsport.co.il/products/חולצת-משחק-אסטון-וילה-חוץ-24-25): חולצת החוץ של אסטון וילה לעונת 24/25 משלבת עיצוב מודרני עם צבעי הקבוצה המסורתיים. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה גם מחוץ למגרש.
-  Updated: 2025-10-03T17:25:41Z
+  Updated: 2025-10-04T08:52:06Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -7880,7 +7880,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק אסטון וילה שלישית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אסטון-וילה-שלישית-24-25): חולצת המשחק השלישית של אסטון וילה לעונת 24/25 משלבת עיצוב מודרני עם צבעים אלטרנטיביים של הקבוצה. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או ללבישה יומיומית כאוהד שרוצה להראות תמיכה בקבוצה.
-  Updated: 2025-10-03T17:25:09Z
+  Updated: 2025-10-04T09:45:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -8366,7 +8366,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [מכנס קצר נבחרת ספרד חוץ 2024](https://www.rsport.co.il/products/מכנס-קצר-נבחרת-ספרד-חוץ-2024): מכנסי החוץ של נבחרת ספרד לעונת 2024 בצבע צהוב משלבים עיצוב מודרני עם צבעי הקבוצה המסורתיים. הבד איכותי ונושם, מספק חופש תנועה מלא ומנדף זיעה, מתאים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בנבחרת בסגנון ספורטיבי ומעודכן.
-  Updated: 2025-10-03T17:59:47Z
+  Updated: 2025-10-04T08:45:01Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -8996,7 +8996,7 @@
     Availability: Available
     Price: ‏89.99 ‏₪ ILS
 - [חולצת נבחרת קולומביה 100 שנים 2024](https://www.rsport.co.il/products/חולצת-נבחרת-קולומביה-100-שנים-2024): חולצת נבחרת קולומביה 100 שנים 2024 מציינת את מאה שנות ההיסטוריה של הנבחרת עם עיצוב מודרני וצבעי הבית המסורתיים. החולצה עשויה בד איכותי ונושם שמנדף זיעה ומספק נוחות וחופש תנועה מלא, מתאימה למשחקים, אימונים או להראות תמיכה בנבחרת ביום-יום.
-  Updated: 2025-10-03T17:23:01Z
+  Updated: 2025-10-04T09:19:36Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -9716,7 +9716,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [חולצת משחק ווסטהאם יונייטד בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-ווסטהאם-יונייטד-בית-24-25): חולצת הבית של ווסטהאם יונייטד לעונת 24/25 מביאה את צבעי הקבוצה המסורתיים עם עיצוב מודרני ועדכני. עשויה בד קל ונושם, שמנדף זיעה ומספק נוחות מרבית לאורך כל המשחק או האימון. הגזרה מותאמת לחופש תנועה מלא, והסמל של המועדון מודגש על החזה. מושלמת לאוהדים שרוצים להראות תמיכה בנבחרת גם במגרש וגם ביום-יום.
-  Updated: 2025-10-03T17:17:11Z
+  Updated: 2025-10-04T08:25:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -11876,7 +11876,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית קליבלנד קאבלירס לבנה | דריוס גרלנד](https://www.rsport.co.il/products/jersey-white-darius-garland-cleveland-cavaliers): גופייה בהשראת סגנון הקבוצה בצבע לבן, עם שם דריוס גרלנד בגב. בד נושם וגמיש שמספק חופש תנועה מלא ותחושת נוחות במשחק או אימון.
-  Updated: 2025-10-03T14:13:05Z
+  Updated: 2025-10-04T08:07:59Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13124,7 +13124,7 @@
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
 - [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-t-mcgrady-toronto-raptors): גופיית רטרו סגולה מהעונה 98-99 עם שם ומספר של טרייסי מקגריידי בגב. בד קל ונושם המעניק חופש תנועה מירבי למשחק או אימון.
-  Updated: 2025-10-03T16:13:10Z
+  Updated: 2025-10-04T10:00:53Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13172,7 +13172,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | טרייסי מקגריידי](https://www.rsport.co.il/products/retro-jersey-black-1998-99-t-mcgrady-toronto-raptors): גופיית רטרו שחורה מהעונה 98-99 עם שם ומספר של טרייסי מקגריידי. בד קל ונושם, מספק חופש תנועה מלא ונוחות מירבית.
-  Updated: 2025-10-03T16:24:18Z
+  Updated: 2025-10-04T08:36:04Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13220,7 +13220,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו סגולה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-purple-1998-99-vince-carter-toronto-raptors): גופיית רטרו סגולה עם שם ומספר של וינס קרטר בגב. אידיאלית למשחק, אימון או ללבישה יום-יומית בסגנון ספורטיבי.
-  Updated: 2025-10-03T16:21:45Z
+  Updated: 2025-10-04T09:43:58Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13244,7 +13244,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו שחורה טורונטו ראפטורס 1998-99 | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-black-1998-99-vince-carter-toronto-raptors): גופיית רטרו שחורה מהעונה 98-99 עם שם ומספר של וינס קרטר. בד קל ונושם, מספק חופש תנועה ונוחות מירבית.
-  Updated: 2025-10-03T16:26:13Z
+  Updated: 2025-10-04T10:02:52Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13316,7 +13316,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחורה טורונטו ראפטורס | סקוטי בארנס](https://www.rsport.co.il/products/jersey-black-scottie-barnes-toronto-raptors): גופיית משחק שחורה עם שם ומספר של סקוטי בארנס בגב. אידיאלית למשחק, אימון או לבישה יום-יומית בסגנון ספורטיבי.
-  Updated: 2025-10-03T16:16:35Z
+  Updated: 2025-10-04T09:37:29Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13364,7 +13364,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק טורונטו ראפטורס | פסקאל סיאקאם](https://www.rsport.co.il/products/jersey-toronto-raptors-pascal-siakam): גופיית משחק בהשראת הקבוצה עם שם ומספר של פסקאל סיאקאם בגב. אידיאלית למשחק, אימון או שימוש יום-יומי בסגנון ספורטיבי איכותי.
-  Updated: 2025-10-03T16:11:01Z
+  Updated: 2025-10-04T08:10:30Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13565,7 +13565,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו ירוקה טורונטו ראפטורס | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-green-vince-carter-toronto-raptors): גופיית רטרו ירוקה בהשראת הקבוצה עם שם ומספר של וינס קרטר בגב. מספקת נוחות מירבית וחופש תנועה למשחקים, אימונים או פעילות יום-יומית.
-  Updated: 2025-10-03T16:32:36Z
+  Updated: 2025-10-04T09:26:26Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13613,7 +13613,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו טורונטו ראפטורס מהדורת כוכבים | וינס קרטר](https://www.rsport.co.il/products/retro-jersey-allstars-vince-carter-toronto-raptors): גופיית רטרו מהדורת כוכבים עם השראות סגנון הקבוצה ושם וינס קרטר בגב. מספקת חופש תנועה ונוחות למשחק ואימון, עם מראה ספורטיבי אותנטי.
-  Updated: 2025-10-03T16:29:42Z
+  Updated: 2025-10-04T08:54:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -13637,7 +13637,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו טורונטו ראפטורס מהדורת מיוחדת| וינס קרטר](https://www.rsport.co.il/products/retro-jersey-special-vince-carter-toronto-raptors): גופיית רטרו מהדורת מיוחדת של טורונטו ראפטורס עם שם ומספר של וינס קרטר. בד קל ונושם, מספק חופש תנועה מירבי וחוויית משחק נוחה.
-  Updated: 2025-10-03T16:30:36Z
+  Updated: 2025-10-04T08:40:24Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14534,7 +14534,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת 1996](https://www.rsport.co.il/products/retro-jersey-france-1996): חולצת רטרו נבחרת צרפת 1996, עיצוב קלאסי ונוסטלגי לאוהדים וליום יום
-  Updated: 2025-10-03T17:08:25Z
+  Updated: 2025-10-04T11:12:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14576,7 +14576,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת צרפת חוץ 1998](https://www.rsport.co.il/products/retro-jersey-france-away-1998): חולצת רטרו נבחרת צרפת חוץ 1998, עיצוב קלאסי ונוסטלגי לאוהדים וליום יום
-  Updated: 2025-10-03T16:56:54Z
+  Updated: 2025-10-04T11:14:37Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14939,11 +14939,11 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 1997](https://www.rsport.co.il/products/retro-shirt-brazil-1997): חולצת רטרו נבחרת ברזיל 1997 נוחה ונוסטלגית למגרש וליום יום
-  Updated: 2025-10-04T07:12:14Z
+  Updated: 2025-10-04T09:05:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1997.jpg?v=1738544652
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-04T120354.708.jpg?v=1759568696
   - [S](https://www.rsport.co.il/products/retro-shirt-brazil-1997?variant=46913071022330)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
@@ -15076,634 +15076,634 @@
   - [XXL](https://www.rsport.co.il/products/retro-kids-suit-braz-2002?variant=46913124729082)
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
-- [חולצת רטרו מילאן בית 2000/02](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:11Z
+- [חולצת רטרו מילאן בית 2000/02](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02): חולצת רטרו מילאן בית 2000/02 בעיצוב איכותי ונוסטלגי, מושלמת למגרש
+  Updated: 2025-10-04T09:43:55Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/00_02_8b63bb22-947e-43bc-b9a2-8aebf0cb5f80.jpg?v=1738544591
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02?variant=46913203831034)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02?variant=46913203831034)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02?variant=46913203863802)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02?variant=46913203863802)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02?variant=46913203896570)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02?variant=46913203896570)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02?variant=46913203929338)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02?variant=46913203929338)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2000-02?variant=46913203962106)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02?variant=46913203962106)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן בית 2002/03](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2002-03): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:12Z
+- [חולצת רטרו מילאן בית 2002/03](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03): חולצת רטרו מילאן בית 2002/03 בעיצוב קלאסי לאוהדים ולזכרונות
+  Updated: 2025-10-04T09:42:46Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/02_03_132b4e29-93a2-4f78-88c6-a0eb40f759b6.jpg?v=1738544593
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2002-03?variant=46913217855738)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03?variant=46913217855738)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2002-03?variant=46913217888506)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03?variant=46913217888506)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2002-03?variant=46913217921274)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03?variant=46913217921274)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2002-03?variant=46913217954042)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03?variant=46913217954042)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2002-03?variant=46913217986810)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03?variant=46913217986810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן בית 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:12Z
+- [חולצת רטרו מילאן בית 2006/07](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07): חולצת רטרו מילאן בית 2006/07 בעיצוב איכותי, מושלמת לנוסטלגיה ולמגרש
+  Updated: 2025-10-04T09:41:42Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/bb39e925-e0b4-4797-b72b-f32d01a238ae.jpg?v=1738544595
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2006-07?variant=46913226735866)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07?variant=46913226735866)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2006-07?variant=46913226768634)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07?variant=46913226768634)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2006-07?variant=46913226801402)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07?variant=46913226801402)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2006-07?variant=46913226834170)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07?variant=46913226834170)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2006-07?variant=46913226866938)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07?variant=46913226866938)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן בית 2009/10](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2009-10): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:13Z
+- [חולצת רטרו מילאן בית 2009/10](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10): חולצת רטרו מילאן בית 2009/10 בעיצוב מודרני לאוהדים
+  Updated: 2025-10-04T09:40:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/09_10_b4152115-95f2-403a-8a86-0ad63edf007c.jpg?v=1738544596
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2009-10?variant=46913234993402)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10?variant=46913234993402)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2009-10?variant=46913235026170)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10?variant=46913235026170)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2009-10?variant=46913235058938)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10?variant=46913235058938)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2009-10?variant=46913235091706)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10?variant=46913235091706)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-2009-10?variant=46913235124474)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10?variant=46913235124474)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן בית 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1998-99): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:13Z
+- [חולצת רטרו מילאן בית 1998/99](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99): חולצת רטרו מילאן בית 1998/99 בעיצוב קלאסי ונוסטלגי
+  Updated: 2025-10-04T09:37:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_99_0569f5ac-659e-4900-97e8-f4e037c540b1.jpg?v=1738544589
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1998-99?variant=46913239646458)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99?variant=46913239646458)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1998-99?variant=46913239679226)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99?variant=46913239679226)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1998-99?variant=46913239711994)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99?variant=46913239711994)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1998-99?variant=46913239744762)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99?variant=46913239744762)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1998-99?variant=46913239777530)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99?variant=46913239777530)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן בית 1999/00](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1999-00): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:14Z
+- [חולצת רטרו מילאן בית 1999/00](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00): חולצת רטרו מילאן בית 1999/00 בעיצוב איכותי, חוויה מושלמת למגרש
+  Updated: 2025-10-04T09:35:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/99_00_69068acd-8744-4852-b2a6-7ae4f8d5af02.jpg?v=1738544590
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1999-00?variant=46913247215866)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00?variant=46913247215866)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1999-00?variant=46913247248634)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00?variant=46913247248634)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1999-00?variant=46913247281402)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00?variant=46913247281402)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1999-00?variant=46913247314170)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00?variant=46913247314170)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1999-00?variant=46913247346938)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00?variant=46913247346938)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן שלישית 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:14Z
+- [חולצת רטרו מילאן שלישית 2006/07](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07): חולצת רטרו מילאן שלישית 2006/07 בעיצוב מודרני ונוסטלגי
+  Updated: 2025-10-04T09:31:43Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/06_07_2_3e246731-64db-4664-9a22-601fb658d2ce.jpg?v=1738544605
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-2006-07?variant=46913248428282)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07?variant=46913248428282)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-2006-07?variant=46913248461050)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07?variant=46913248461050)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-2006-07?variant=46913248493818)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07?variant=46913248493818)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-2006-07?variant=46913248526586)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07?variant=46913248526586)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-2006-07?variant=46913248559354)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07?variant=46913248559354)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן גמר ליגת האלופות 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:14Z
+- [חולצת רטרו מילאן גמר ליגת האלופות 2006/07](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07): חולצת רטרו מילאן 2006/07 בעיצוב אייקוני, מושלמת לאוהדים ולזכרונות מהגמר
+  Updated: 2025-10-04T09:28:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2006-2007_fbdbc3fa-e4e5-43d5-bbc7-50996f76391a.jpg?v=1738544598
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913252491514)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07?variant=46913252491514)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913252524282)
+    Price: ‏169.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07?variant=46913252524282)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913252557050)
+    Price: ‏169.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07?variant=46913252557050)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913252589818)
+    Price: ‏169.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07?variant=46913252589818)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-גמר-ליגת-האלופות-2006-07?variant=46913252622586)
+    Price: ‏169.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07?variant=46913252622586)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן גמר ליגת האלופות 2006/07 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07): חולצת רטרו ארוכה מילאן גמר ליגת האלופות 2006/07 – מחברת את האוהדים לרגע היסטורי בכדורגל האיטלקי עם עיצוב מסורתי ונוסטלגי עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא וגזרה רגילה לנוחות יומיומית וספורטיבית
-  Updated: 2025-10-02T11:14:15Z
+    Price: ‏169.90 ‏₪ ILS
+- [חולצת רטרו מילאן גמר ליגת האלופות 2006/07 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07-long): חולצת רטרו ארוכה מילאן גמר ליגת האלופות 2006/07 – מחברת את האוהדים לרגע היסטורי בכדורגל האיטלקי עם עיצוב מסורתי ונוסטלגי עשויה 100% פוליאסטר קל ונושם המנדף זיעה ומספק חופש תנועה מלא וגזרה רגילה לנוחות יומיומית וספורטיבית
+  Updated: 2025-10-04T09:18:40Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/a742e92b-4ace-48e4-81f3-ed306d8b6b35.jpg?v=1738544507
-  - [S](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263173882)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07-long?variant=46913263173882)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263206650)
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07-long?variant=46913263206650)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263239418)
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07-long?variant=46913263239418)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263272186)
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07-long?variant=46913263272186)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-acm-cl-2006-07?variant=46913263304954)
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07-long?variant=46913263304954)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן שלישית 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:15Z
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת רטרו מילאן שלישית 1995/96](https://www.rsport.co.il/products/retro-shirt-milan-third-1995-96): חולצת רטרו מילאן שלישית 1995/96 בעיצוב איכותי ונוסטלגי לאוהדים
+  Updated: 2025-10-04T09:25:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_89d40562-318b-4543-8c81-c56ff103dbfd.jpg?v=1738544602
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96?variant=46913322615034)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-third-1995-96?variant=46913322615034)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96?variant=46913322647802)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-third-1995-96?variant=46913322647802)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96?variant=46913322680570)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-third-1995-96?variant=46913322680570)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96?variant=46913322713338)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-third-1995-96?variant=46913322713338)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1995-96?variant=46913322746106)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-third-1995-96?variant=46913322746106)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן בית 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:16Z
+- [חולצת רטרו מילאן בית 1995/96](https://www.rsport.co.il/products/retro-shirt-milan-home-1995-96): חולצת רטרו מילאן בית 1995/96 בעיצוב קלאסי ומושלם למגרש וליום יום
+  Updated: 2025-10-04T09:23:48Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_3_314d2e62-d72f-42bf-b13c-26b0d3c5292b.jpg?v=1738544587
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1995-96?variant=46913326252282)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-home-1995-96?variant=46913326252282)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1995-96?variant=46913326285050)
+    Price: ‏159.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-home-1995-96?variant=46913326285050)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1995-96?variant=46913326317818)
+    Price: ‏159.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-home-1995-96?variant=46913326317818)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1995-96?variant=46913326350586)
+    Price: ‏159.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-home-1995-96?variant=46913326350586)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-בית-1995-96?variant=46913326383354)
+    Price: ‏159.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-home-1995-96?variant=46913326383354)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן רביעית 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-רביעית-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:16Z
+    Price: ‏159.90 ‏₪ ILS
+- [חולצת רטרו מילאן רביעית 1995/96](https://www.rsport.co.il/products/retro-shirt-milan-fourth-1995-96): חולצת רטרו מילאן רביעית 1995/96 בעיצוב אייקוני ונוח לאוהדים
+  Updated: 2025-10-04T09:21:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_5_a9ce02b5-9d6b-4af3-bffd-dfda089c4a98.jpg?v=1738544600
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-רביעית-1995-96?variant=46913328480506)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-fourth-1995-96?variant=46913328480506)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-רביעית-1995-96?variant=46913328513274)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-fourth-1995-96?variant=46913328513274)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-רביעית-1995-96?variant=46913328546042)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-fourth-1995-96?variant=46913328546042)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-רביעית-1995-96?variant=46913328578810)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-fourth-1995-96?variant=46913328578810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-רביעית-1995-96?variant=46913328611578)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-fourth-1995-96?variant=46913328611578)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מילאן שלישית 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1998-99): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:17Z
+- [חולצת רטרו מילאן שלישית 1998/99](https://www.rsport.co.il/products/retro-shirt-milan-third-1998-99): חולצת רטרו מילאן שלישית 1998/99 בעיצוב איכותי, מושלמת לאוהדים ולנוסטלגיה
+  Updated: 2025-10-04T09:20:30Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_99_c2a9b16c-b292-4dd9-983b-d6824ee44154.jpg?v=1738544604
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1998-99?variant=46913330544890)
+  - [S](https://www.rsport.co.il/products/retro-shirt-milan-third-1998-99?variant=46913330544890)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1998-99?variant=46913330577658)
+  - [M](https://www.rsport.co.il/products/retro-shirt-milan-third-1998-99?variant=46913330577658)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1998-99?variant=46913330610426)
+  - [L](https://www.rsport.co.il/products/retro-shirt-milan-third-1998-99?variant=46913330610426)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1998-99?variant=46913330643194)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-milan-third-1998-99?variant=46913330643194)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מילאן-שלישית-1998-99?variant=46913330675962)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-milan-third-1998-99?variant=46913330675962)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר מילאנו שלישית 1997/98](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-שלישית-1997-98): חולצת רטרו אינטר מילאנו שלישית 1997/98 מציגה את העיצוב הייחודי של החולצות השלישיות של הקבוצה בעידן ההוא החולצה משדרת סגנון קלאסי ונוסטלגי ומחברת את האוהדים למסורת והמורשת של אינטר מילאנו החולצה לבשה שחקנים בולטים והפכה לפריט מרכזי במלתחת המועדון עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק נוחות מקסימלית גם באימונים וגם בלבישה יומיומית הגזרה הרגילה מאפשרת חופש תנועה מלא והעיצוב משדר אותנטיות וסטייל ייחודי חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
-  Updated: 2025-10-02T11:14:17Z
+- [חולצת רטרו אינטר מילאנו שלישית 1997/98](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-1997-98): חולצת רטרו אינטר שלישית 1997/98 בעיצוב אייקוני ונוסטלגי, מושלמת למגרש
+  Updated: 2025-10-04T09:47:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/97_98_4185091b-3a87-404d-a75f-6a0c506c18c0.jpg?v=1738544497
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-שלישית-1997-98?variant=46913373995258)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-1997-98?variant=46913373995258)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-שלישית-1997-98?variant=46913374028026)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-1997-98?variant=46913374028026)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-שלישית-1997-98?variant=46913374060794)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-1997-98?variant=46913374060794)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-שלישית-1997-98?variant=46913374093562)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-1997-98?variant=46913374093562)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-שלישית-1997-98?variant=46913374126330)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-1997-98?variant=46913374126330)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר מילאנו חוץ 1997/98](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-97-98): חולצת רטרו אינטר מילאנו חוץ 1997/98 מביאה את העיצוב הקלאסי של הקבוצה החולצה מציגה שילוב ייחודי של צבעי החוץ המסורתיים ומסמלת את הסגנון המוכר של אינטר מילאנו בעידן זה החולצה לבשה שחקנים בולטים והפכה לפריט חובה לאוהדים ולחובבי נוסטלגיה הבד עשוי 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק נוחות מלאה גם באימונים אינטנסיביים וגם בלבישה יומיומית הגזרה הרגילה מאפשרת חופש תנועה מלא ועיצוב הצבעים מבטיח מראה אותנטי ומרשים חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
-  Updated: 2025-10-02T11:14:17Z
+- [חולצת רטרו אינטר מילאנו חוץ 1997/98](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-1997-98): חולצת רטרו אינטר חוץ 1997/98 בעיצוב איכותי, מושלמת לאוהדים ולנוסטלגיה
+  Updated: 2025-10-04T09:47:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_b2ad2d68-a7b5-4d72-82a1-fe048d0f3a29.jpg?v=1738544497
-  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-97-98?variant=46913377435898)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-1997-98?variant=46913377435898)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-97-98?variant=46913377468666)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-1997-98?variant=46913377468666)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-97-98?variant=46913377501434)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-1997-98?variant=46913377501434)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-97-98?variant=46913377534202)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-1997-98?variant=46913377534202)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-97-98?variant=46913377566970)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-away-1997-98?variant=46913377566970)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר בית 1997/98](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-בית-1997-98): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח.
-  Updated: 2025-10-02T11:15:31Z
+- [חולצת רטרו אינטר בית 1997/98](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98): חולצת רטרו אינטר בית 1997/98 בעיצוב איכותי ונוסטלגי, מושלמת למגרש
+  Updated: 2025-10-04T09:47:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_e888aa55-09dd-4b71-95d3-af0f317a1f67.jpg?v=1738544489
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-בית-1997-98?variant=46913377829114)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98?variant=46913377829114)
     Availability: Available
     Price: ‏148.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-בית-1997-98?variant=47493350097146)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98?variant=47493350097146)
     Availability: Available
     Price: ‏148.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-בית-1997-98?variant=46913377894650)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98?variant=46913377894650)
     Availability: Available
     Price: ‏148.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-בית-1997-98?variant=47144474050810)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98?variant=47144474050810)
     Availability: Available
     Price: ‏148.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-בית-1997-98?variant=47144482373882)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98?variant=47144482373882)
     Availability: Available
     Price: ‏148.00 ‏₪ ILS
-- [חולצת רטרו אינטר מילאן בית 2008/09](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-08-09): חולצת רטרו אינטר מילאן בית 2008/09 היא יותר מחולצת כדורגל רגילה החולצה מחווה לנוסטלגיה של הכדורגל האיטלקי ומחזירה את סגנון הקבוצה מהטורניר ההיסטורי של 2008/09 חולצות רטרו מעניקות תחושה ייחודית של מסורת והיסטוריה ומשלבות את העיצובים הקלאסיים שהפכו לחלק בלתי נפרד מהזהות של הקבוצה החולצה עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומאפשר תחושת יובש ונוחות גם באימונים אינטנסיביים או משחקים הגזרה הרגילה מותאמת לחופש תנועה מלא ומספקת נוחות מלאה במהלך פעילות ספורטיבית וגם ללבישה יומיומית שילוב הצבעים של הבית המסורתי כחול ושחור משדרג את המראה ומקנה תחושת אותנטיות של כבוד למסורת המועדון חולצות רטרו כמו זו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאן הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת של המועדון תוך שמירה על נוחות ופונקציונליות מודרנית
-  Updated: 2025-10-02T11:14:18Z
+- [חולצת רטרו אינטר מילאן בית 2008/09](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-2008-09): חולצת רטרו אינטר בית 2008/09 בעיצוב קלאסי ונוסטלגי למגרש וליום יום
+  Updated: 2025-10-04T09:47:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_57e309d0-e1dd-4421-9cbc-e9488c7df11a.webp?v=1758651481
-  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-08-09?variant=46913378124026)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-2008-09?variant=46913378124026)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-08-09?variant=46913378156794)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-2008-09?variant=46913378156794)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-08-09?variant=46913378189562)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-2008-09?variant=46913378189562)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-08-09?variant=46913378222330)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-2008-09?variant=46913378222330)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-08-09?variant=46913378255098)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-2008-09?variant=46913378255098)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר מילאנו בית 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-בית-1998-99): חולצת רטרו אינטר מילאנו בית 1998/99 משחזרת את המראה הקלאסי של הקבוצה עם פסים כחולים ושחורים מסורתיים החולצה לבשה שחקנים בולטים ומסמלת את הסגנון האיטלקי המסורתי בכדורגל חולצות רטרו מעניקות חיבור לנוסטלגיה ולמורשת של המועדון הבד עשוי 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק נוחות מירבית גם בפעילות ספורטיבית וגם בלבישה יומיומית הגזרה הרגילה מאפשרת חופש תנועה מלא ועיצוב הצבעים מספק תחושת אותנטיות מודרנית חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
-  Updated: 2025-10-02T11:15:12Z
+- [חולצת רטרו אינטר מילאנו בית 1998/99](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-1998-99): חולצת רטרו אינטר בית 1998/99 בעיצוב איכותי, חוויה מושלמת לאוהדים
+  Updated: 2025-10-04T09:47:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_99_9066248f-dad0-4c61-afe0-0644bc9464b2.jpg?v=1738544495
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-בית-1998-99?variant=46913378943226)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-1998-99?variant=46913378943226)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-בית-1998-99?variant=46913378975994)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-1998-99?variant=46913378975994)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-בית-1998-99?variant=46913379008762)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-1998-99?variant=46913379008762)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-בית-1998-99?variant=47144476311802)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-1998-99?variant=47144476311802)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-מילאנו-בית-1998-99?variant=46913379074298)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-home-1998-99?variant=46913379074298)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010): חולצת רטרו אינטר מילאן (Inter Milan) גמר ליגת האלופות 2010 היא חולצת כדורגל קלאסית לגברים מבוגרים, שרוולים קצרים, בגזרה רגילה. החולצה עשויה 100% פוליאסטר קל ונושם, המנדף זיעה ומתייבש במהירות, ומספק נוחות מלאה בימי אימון, משחק או לבישה יומיומית. עיצוב אותנטי בהשראת סגנון הקלאסי של אינטר מילאן, עם שילוב צבעי כחול ושחור, מושלם לאוהדים ולחובבי חולצות רטרו כדורגל.
-  Updated: 2025-10-02T11:14:19Z
+- [חולצת רטרו אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010): חולצת רטרו אינטר 2010 בעיצוב אייקוני לגמר ליגת האלופות, מושלמת לאוהדים
+  Updated: 2025-10-04T09:47:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_869b040f-4396-41e6-85f8-e204c9867592.jpg?v=1738544490
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010?variant=46913381826810)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010?variant=46913381826810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010?variant=46913381859578)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010?variant=46913381859578)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010?variant=46913381892346)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010?variant=46913381892346)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010?variant=46913381925114)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010?variant=46913381925114)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-גמר-ליגת-האלופות-2010?variant=46913381957882)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010?variant=46913381957882)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו ארוכה אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010): חולצת רטרו אינטר גמר ליגת האלופות 2010 מביאה את ההתרגשות והנוסטלגיה של הרגעים הגדולים באירופה החולצה מחברת את האוהדים לזיכרונות של השחקנים הבולטים, שתרמו לניצחונות המכריעים בעונה זו העיצוב משלב אלמנטים קלאסיים המזוהים עם אינטר מילאנו יחד עם פונקציונליות מודרנית שמתאימה ללבישה יומיומית ואימונים עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק נוחות מירבית הגזרה הרגילה מאפשרת חופש תנועה מלא תוך שמירה על סטייל ייחודי וחיבור למסורת הקבוצה חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
-  Updated: 2025-10-02T11:14:20Z
+- [חולצת רטרו ארוכה אינטר גמר ליגת האלופות 2010](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010-long): חולצת רטרו ארוכה אינטר 2010 עם עיצוב ייחודי לגמר ליגת האלופות
+  Updated: 2025-10-04T09:47:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_a70bec46-47f7-40d9-bf93-eabd81410168.jpg?v=1738544502
-  - [S](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382580474)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010-long?variant=46913382580474)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382613242)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010-long?variant=46913382613242)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382646010)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010-long?variant=46913382646010)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382678778)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010-long?variant=46913382678778)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-intm-cl-2010?variant=46913382711546)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-champions-final-2010-long?variant=46913382711546)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר שלישית 1998/99](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99): חולצת רטרו אינטר מילאנו שלישית 1998/99 חולצת רטרו אינטר מילאנו שלישית 1998/99 מציגה את העיצוב הייחודי של החולצות השלישיות מתקופה זו החולצה מחברת את האוהדים לנוסטלגיה של אינטר מילאנו ומזכירה את השחקנים הבולטים שהובילו את הקבוצה בשנות ה-90 החולצה משלבת סגנון קלאסי ואותנטי עם פונקציונליות מודרנית ומאפשרת חווית לבישה יומיומית ואימונים נוחים עשויה 100% פוליאסטר קל ונושם המנדף זיעה במהירות ומספק חופש תנועה מלא הגזרה הרגילה מותאמת לכל פעילות ספורטיבית תוך שמירה על סטייל ייחודי וחיבור למסורת הקבוצה חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא בהיסטוריה של אינטר מילאנו הפריט מתאים למי שמעוניין להרגיש חלק מהמסורת תוך שמירה על נוחות ופונקציונליות מודרנית
-  Updated: 2025-10-02T11:14:20Z
+- [חולצת רטרו אינטר שלישית 1998/99](https://www.rsport.co.il/products/retro-shirt-inter-third-1998-99): חולצת רטרו אינטר שלישית 1998/99 בעיצוב אייקוני ונוסטלגי, מושלמת למגרש
+  Updated: 2025-10-04T09:47:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/98_99_6c39b33c-cf28-4210-b4dd-98180616b1df.jpg?v=1738544500
-  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99?variant=46913383661818)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-third-1998-99?variant=46913383661818)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99?variant=46913383694586)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-third-1998-99?variant=46913383694586)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99?variant=46913383727354)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-third-1998-99?variant=46913383727354)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99?variant=46913383760122)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-third-1998-99?variant=46913383760122)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-98-99?variant=46913383792890)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-third-1998-99?variant=46913383792890)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר שלישית 1995/96](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-95-96): חולצת רטרו אינטר מילאנו שלישית 1995/96 מציגה את העיצוב הייחודי של הקבוצה בעשור הקודם. החולצה משחזרת את המראה המזוהה של אינטר מילאנו ומחברת בין אוהדים ותיקים לסגנון קלאסי שמזכיר את התקופה ההיסטורית של הקבוצה. החולצה עשויה 100% פוליאסטר איכותי ונושם שמנדף זיעה במהירות, מספק נוחות מירבית ומתאימה גם לאימונים אינטנסיביים וגם ללבישה יומיומית. הגזרה הרגילה מאפשרת חופש תנועה מלא, והעיצוב משלב את צבעי הקבוצה המסורתיים בצורה מרשימה ומודרנית. חולצות רטרו מספקות חיבור אמיתי בין אוהדים לדורות הקודמים של הקבוצה עם עיצוב שמחזיר את רגעי השיא של אינטר מילאנו. החולצה מתאימה למי שמעוניין לחוות את המסורת ולהרגיש חלק מההיסטוריה תוך שמירה על נוחות ופונקציונליות מודרנית.
-  Updated: 2025-10-02T11:15:13Z
+- [חולצת רטרו אינטר שלישית 1995/96](https://www.rsport.co.il/products/retro-shirt-inter-third-1995-96): חולצת רטרו אינטר שלישית 1995/96 בעיצוב קלאסי ונוח, לאוהדים ולנוסטלגיה
+  Updated: 2025-10-04T09:47:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_52fa7b09-4cbd-4238-a4e1-d7f779f1d3bb.jpg?v=1738544498
-  - [S](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-95-96?variant=46913384186106)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-third-1995-96?variant=46913384186106)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-95-96?variant=46913384218874)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-third-1995-96?variant=46913384218874)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-95-96?variant=46913384251642)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-third-1995-96?variant=46913384251642)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-95-96?variant=47144489091322)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-third-1995-96?variant=47144489091322)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-milan-third-95-96?variant=46913384317178)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-third-1995-96?variant=46913384317178)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו אינטר חוץ 2010/11](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-חוץ-2010-11): חולצת רטרו אינטר חוץ 2010/11 מציגה סגנון קלאסי מעונת 2010/11 של אינטר מילאן, בעיצוב שמחייה את צבעי החוץ המסורתיים. החולצה עשויה 100% פוליאסטר קל ונושם, המנדף זיעה במהירות ומספק תחושת יובש ונוחות גם באימונים אינטנסיביים או משחקים. הגזרה מאפשרת חופש תנועה מלא, והיא מתאימה ללבישה יומיומית ולפעילות ספורטיבית.
-  Updated: 2025-10-02T11:14:21Z
+- [חולצת רטרו אינטר חוץ 2010/11](https://www.rsport.co.il/products/retro-shirt-inter-away-2010-11): חולצת רטרו אינטר חוץ 2010/11 בעיצוב איכותי ונוסטלגי, מושלמת לאוהדים
+  Updated: 2025-10-04T09:47:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_b36182c2-705f-4176-8633-f15c63ec32be.jpg?v=1738544493
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-חוץ-2010-11?variant=46913385300218)
+  - [S](https://www.rsport.co.il/products/retro-shirt-inter-away-2010-11?variant=46913385300218)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-חוץ-2010-11?variant=46913385332986)
+  - [M](https://www.rsport.co.il/products/retro-shirt-inter-away-2010-11?variant=46913385332986)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-חוץ-2010-11?variant=46913385365754)
+  - [L](https://www.rsport.co.il/products/retro-shirt-inter-away-2010-11?variant=46913385365754)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-חוץ-2010-11?variant=46913385398522)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-inter-away-2010-11?variant=46913385398522)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-אינטר-חוץ-2010-11?variant=46913385431290)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-inter-away-2010-11?variant=46913385431290)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו יובנטוס בית 2002/03](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-2002-03): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:21Z
+- [חולצת רטרו יובנטוס בית 2002/03](https://www.rsport.co.il/products/retro-shirt-home-2002-03-juv): חולצת רטרו יובנטוס בית 2002/03 בעיצוב איכותי ונוח, חוויה מושלמת לאוהדים
+  Updated: 2025-10-04T10:38:25Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/02_03_a891f19d-9c5f-445e-9196-78e7e983aa7f.jpg?v=1738544580
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-2002-03?variant=46914481291514)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-2002-03-juv?variant=46914481291514)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-2002-03?variant=46914481324282)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-2002-03-juv?variant=46914481324282)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-2002-03?variant=46914481357050)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-2002-03-juv?variant=46914481357050)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-2002-03?variant=46914481389818)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-2002-03-juv?variant=46914481389818)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-2002-03?variant=46914481422586)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-2002-03-juv?variant=46914481422586)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו יובנטוס בית 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-1995-96): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:22Z
+- [חולצת רטרו יובנטוס בית 1995/96](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv): חולצת רטרו יובנטוס בית 1995/96 בעיצוב קלאסי ונוסטלגי, מושלמת למגרש וליום יום
+  Updated: 2025-10-04T10:36:28Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_f16c68bd-a568-4374-b27a-04ab4711e6d4.jpg?v=1738544579
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-1995-96?variant=46914505670906)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv?variant=46914505670906)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-1995-96?variant=46914505703674)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv?variant=46914505703674)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-1995-96?variant=46914505736442)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv?variant=46914505736442)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-1995-96?variant=46914505769210)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv?variant=46914505769210)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-בית-1995-96?variant=46914505801978)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv?variant=46914505801978)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת שוער רטרו יובנטוס 2002/03](https://www.rsport.co.il/products/חולצת-שוער-רטרו-יובנטוס-2002-03): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:22Z
+- [חולצת שוער רטרו יובנטוס 2002/03](https://www.rsport.co.il/products/retro-goalkeeper-2002-03-juv): חולצת שוער רטרו יובנטוס 2002/03 בעיצוב איכותי ונוח, חוויה מושלמת לאוהדים
+  Updated: 2025-10-04T10:34:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/95_96_ac52c4f8-2d7f-435e-8d13-65fb47b8cd4f.jpg?v=1738544741
-  - [S](https://www.rsport.co.il/products/חולצת-שוער-רטרו-יובנטוס-2002-03?variant=46914506588410)
+  - [S](https://www.rsport.co.il/products/retro-goalkeeper-2002-03-juv?variant=46914506588410)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-שוער-רטרו-יובנטוס-2002-03?variant=46914506621178)
+  - [M](https://www.rsport.co.il/products/retro-goalkeeper-2002-03-juv?variant=46914506621178)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-שוער-רטרו-יובנטוס-2002-03?variant=46914506653946)
+  - [L](https://www.rsport.co.il/products/retro-goalkeeper-2002-03-juv?variant=46914506653946)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-שוער-רטרו-יובנטוס-2002-03?variant=46914506686714)
+  - [XL](https://www.rsport.co.il/products/retro-goalkeeper-2002-03-juv?variant=46914506686714)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-שוער-רטרו-יובנטוס-2002-03?variant=46914506719482)
+  - [XXL](https://www.rsport.co.il/products/retro-goalkeeper-2002-03-juv?variant=46914506719482)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו יובנטוס חוץ 2012/13](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2012-13): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:23Z
+- [חולצת רטרו יובנטוס חוץ 2012/13](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv): חולצת רטרו יובנטוס חוץ 2012/13 בעיצוב מודרני ונוח, אידיאלית למגרש וליום יום
+  Updated: 2025-10-04T10:31:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_13_d4b00e18-8002-4e60-9f0d-f3e5f5113652.jpg?v=1738544583
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2012-13?variant=46914507505914)
+  - [S](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv?variant=46914507505914)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2012-13?variant=46914507538682)
+  - [M](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv?variant=46914507538682)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2012-13?variant=46914507571450)
+  - [L](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv?variant=46914507571450)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2012-13?variant=46914507604218)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv?variant=46914507604218)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2012-13?variant=46914507636986)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv?variant=46914507636986)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו יובנטוס חוץ 2001/03](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2001-03): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:23Z
+- [חולצת רטרו יובנטוס חוץ 2001/03](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv): חולצת רטרו יובנטוס חוץ 2001/03 בעיצוב קלאסי ונוח, מושלמת לאוהדים ונוסטלגיה
+  Updated: 2025-10-04T10:30:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2001-03_c8a24562-4e88-43fc-a324-067d64bb9f2e.jpg?v=1738544581
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2001-03?variant=46914508226810)
+  - [S](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv?variant=46914508226810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2001-03?variant=46914508259578)
+  - [M](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv?variant=46914508259578)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2001-03?variant=46914508292346)
+  - [L](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv?variant=46914508292346)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2001-03?variant=46914508325114)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv?variant=46914508325114)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-חוץ-2001-03?variant=46914508357882)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv?variant=46914508357882)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו יובנטוס שלישית 2015/16](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:23Z
+- [חולצת רטרו יובנטוס שלישית 2015/16](https://www.rsport.co.il/products/retro-shirt-third-2015-16-juv): חולצת רטרו יובנטוס שלישית 2015/16 בעיצוב מודרני ונוח, מושלמת לאוהדים וליום יום
+  Updated: 2025-10-04T10:30:34Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_16_c660427a-781a-49ad-84b8-22935cb33a03.jpg?v=1738544585
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16?variant=46914509046010)
+  - [S](https://www.rsport.co.il/products/retro-shirt-third-2015-16-juv?variant=46914509046010)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16?variant=46914509078778)
+  - [M](https://www.rsport.co.il/products/retro-shirt-third-2015-16-juv?variant=46914509078778)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16?variant=46914509111546)
+  - [L](https://www.rsport.co.il/products/retro-shirt-third-2015-16-juv?variant=46914509111546)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16?variant=46914509144314)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-third-2015-16-juv?variant=46914509144314)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-יובנטוס-שלישית-2015-16?variant=46914509177082)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-third-2015-16-juv?variant=46914509177082)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו יובנטוס בית 1997/98 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98): חולצת רטרו ארוכה יובנטוס בית 1997/98 עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם לגזרה רגילה ונוחות מלאה
-  Updated: 2025-10-02T11:14:24Z
+- [חולצת רטרו יובנטוס בית 1997/98 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-shirt-long-home-1997-98-juv): חולצת רטרו ארוכה יובנטוס בית 1997/98 עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם לגזרה רגילה ונוחות מלאה
+  Updated: 2025-10-04T10:27:02Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/97_98_547ea190-88dc-40cb-9d4e-5eb9e1c89df7.jpg?v=1738544506
-  - [S](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510684410)
+  - [S](https://www.rsport.co.il/products/retro-shirt-long-home-1997-98-juv?variant=46914510684410)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510717178)
+  - [M](https://www.rsport.co.il/products/retro-shirt-long-home-1997-98-juv?variant=46914510717178)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510749946)
+  - [L](https://www.rsport.co.il/products/retro-shirt-long-home-1997-98-juv?variant=46914510749946)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510782714)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-long-home-1997-98-juv?variant=46914510782714)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-juv-home-1997-98?variant=46914510815482)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-long-home-1997-98-juv?variant=46914510815482)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ארסנל בית 2005/06 | עיצוב קלאסי ונוסטלגי](https://www.rsport.co.il/products/retro-shirt-ars-home-2005-06): חולצת רטרו ארסנל בית 2005/06 עם עיצוב קלאסי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
@@ -16063,193 +16063,193 @@
   - [XXL](https://www.rsport.co.il/products/retro-shirt-ars-third-2007-08?variant=46914682945786)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי בית 2014/15](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-03T09:53:29Z
+- [חולצת רטרו צ'לסי בית 2014/15](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea): חולצת רטרו צ'לסי בית 2014/15 בעיצוב איכותי ונוח, חוויית משחק מושלמת למגרש וליום יום
+  Updated: 2025-10-04T11:08:24Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_1d06af45-1455-49d8-a8bb-194bdbd93898.jpg?v=1738544694
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15?variant=46914705195258)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea?variant=46914705195258)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15?variant=46914705228026)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea?variant=46914705228026)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15?variant=46914705260794)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea?variant=46914705260794)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15?variant=46914705293562)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea?variant=46914705293562)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2014-15?variant=46914705326330)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea?variant=46914705326330)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי בית 1999/01](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-1999-01): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:32Z
+- [חולצת רטרו צ'לסי בית 1999/01](https://www.rsport.co.il/products/retro-shirt-home-1999-01-chelsea): חולצת רטרו צ'לסי בית 1999/01 בעיצוב קלאסי ונוסטלגי, נוחה ומרשימה לאוהדים
+  Updated: 2025-10-04T11:06:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_74501e6f-594d-4096-a126-e98271ac4e53.jpg?v=1738544690
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-1999-01?variant=46914708898042)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-1999-01-chelsea?variant=46914708898042)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-1999-01?variant=46914708930810)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-1999-01-chelsea?variant=46914708930810)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-1999-01?variant=46914708963578)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-1999-01-chelsea?variant=46914708963578)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-1999-01?variant=46914708996346)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-1999-01-chelsea?variant=46914708996346)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-1999-01?variant=46914709029114)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-1999-01-chelsea?variant=46914709029114)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי בית 2012/13](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2012-13): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:33Z
+- [חולצת רטרו צ'לסי בית 2012/13](https://www.rsport.co.il/products/retro-shirt-home-2012-13-chelsea): חולצת רטרו צ'לסי בית 2012/13 בעיצוב מודרני ונוח, אידיאלית למגרש וליום יום
+  Updated: 2025-10-04T11:04:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_00ed366f-142d-4e97-a6e3-5dfcda07d61a.jpg?v=1738544693
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2012-13?variant=46914709848314)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-2012-13-chelsea?variant=46914709848314)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2012-13?variant=46914709881082)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-2012-13-chelsea?variant=46914709881082)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2012-13?variant=46914709913850)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-2012-13-chelsea?variant=46914709913850)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2012-13?variant=46914709946618)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-2012-13-chelsea?variant=46914709946618)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2012-13?variant=46914709979386)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-2012-13-chelsea?variant=46914709979386)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2011-12): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:33Z
+- [חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea): חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12 בעיצוב איכותי ומיוחד, חוויית משחק מושלמת
+  Updated: 2025-10-04T11:03:04Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_8c5c3a11-4639-41d3-93de-600dbe0f2160.jpg?v=1738544699
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2011-12?variant=46914710175994)
+  - [S](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea?variant=46914710175994)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2011-12?variant=46914710208762)
+  - [M](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea?variant=46914710208762)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2011-12?variant=46914710241530)
+  - [L](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea?variant=46914710241530)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2011-12?variant=46914710274298)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea?variant=46914710274298)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2011-12?variant=46914710307066)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea?variant=46914710307066)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי בית 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2005-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:33Z
+- [חולצת רטרו צ'לסי בית 2005/06](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea): חולצת רטרו צ'לסי בית 2005/06 בעיצוב קלאסי ונוח, מושלמת למגרש וליום יום
+  Updated: 2025-10-04T11:01:22Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_eac1f0b9-a6dc-46fd-8001-77dadb2e676e.jpg?v=1738544691
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2005-06?variant=46914711159034)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea?variant=46914711159034)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2005-06?variant=46914711191802)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea?variant=46914711191802)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2005-06?variant=46914711224570)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea?variant=46914711224570)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2005-06?variant=46914711257338)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea?variant=46914711257338)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-בית-2005-06?variant=46914711290106)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea?variant=46914711290106)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי גמר ליגת האלופות 2008/09](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2008-09): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:34Z
+- [חולצת רטרו צ'לסי גמר ליגת האלופות 2008/09](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea): חולצת רטרו צ'לסי גמר ליגת האלופות 2008/09 בעיצוב ייחודי לנוסטלגיה וחוויית משחק
+  Updated: 2025-10-04T11:00:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_c29f1e8b-1479-4b26-90e4-2d8e72c6ea58.jpg?v=1738544697
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2008-09?variant=46914711453946)
+  - [S](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea?variant=46914711453946)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2008-09?variant=46914711486714)
+  - [M](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea?variant=46914711486714)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2008-09?variant=46914711519482)
+  - [L](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea?variant=46914711519482)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2008-09?variant=46914711552250)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea?variant=46914711552250)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-גמר-ליגת-האלופות-2008-09?variant=46914711585018)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea?variant=46914711585018)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי חוץ 2010/11](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2010-11): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:34Z
+- [חולצת רטרו צ'לסי חוץ 2010/11](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea): חולצת רטרו צ'לסי חוץ 2010/11 בעיצוב איכותי ונוח, אידיאלית למגרש וליום יום
+  Updated: 2025-10-04T10:49:56Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_276c1afe-f2e8-4175-8d3d-4c35e6811db0.jpg?v=1738544701
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2010-11?variant=46914711978234)
+  - [S](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea?variant=46914711978234)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2010-11?variant=46914712011002)
+  - [M](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea?variant=46914712011002)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2010-11?variant=46914712043770)
+  - [L](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea?variant=46914712043770)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2010-11?variant=46914712076538)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea?variant=46914712076538)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2010-11?variant=46914712109306)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea?variant=46914712109306)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי שלישית 2011/12](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-שלישית-2011-12): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:35Z
+- [חולצת רטרו צ'לסי שלישית 2011/12](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea): חולצת רטרו צ'לסי שלישית 2011/12 בעיצוב מודרני ונוח, מושלמת לאוהדים וליום יום
+  Updated: 2025-10-04T10:47:31Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_ee10449b-9de0-4e17-9adb-a89d2cb4197e.jpg?v=1738544704
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-שלישית-2011-12?variant=46914715418874)
+  - [S](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea?variant=46914715418874)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-שלישית-2011-12?variant=46914715451642)
+  - [M](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea?variant=46914715451642)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-שלישית-2011-12?variant=46914715484410)
+  - [L](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea?variant=46914715484410)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-שלישית-2011-12?variant=46914715517178)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea?variant=46914715517178)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-שלישית-2011-12?variant=46914715549946)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea?variant=46914715549946)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו צ'לסי חוץ 2003/05](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:35Z
+- [חולצת רטרו צ'לסי חוץ 2003/05](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea): חולצת רטרו צ'לסי חוץ 2003/05 בעיצוב קלאסי ונוסטלגי, נוחה למגרש וליום יום
+  Updated: 2025-10-04T10:45:38Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_2a9f0ea3-a6d7-4b8f-9432-9d4172d44053.jpg?v=1738544701
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05?variant=46914723119354)
+  - [S](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea?variant=46914723119354)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05?variant=46914723152122)
+  - [M](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea?variant=46914723152122)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05?variant=46914723184890)
+  - [L](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea?variant=46914723184890)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05?variant=46914723217658)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea?variant=46914723217658)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-צלסי-חוץ-2003-05?variant=46914723250426)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea?variant=46914723250426)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו אתלטיקו מדריד בית 2004/05](https://www.rsport.co.il/products/retro-shirt-atm-home-2004-05): חולצת רטרו אתלטיקו מדריד בית 2004/05 עם עיצוב מסורתי ונוסטלגי, עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה וגזרה רגילה לנוחות יומיומית וספורטיבית
@@ -16315,277 +16315,277 @@
   - [XXL](https://www.rsport.co.il/products/retro-shirt-atm-away-2004-05?variant=46915145302266)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד 2000/02](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:37Z
+- [חולצת רטרו מנצ'סטר יונייטד 2000/02](https://www.rsport.co.il/products/retro-shirt-2000-02-manu): חולצת רטרו מנצ'סטר יונייטד 2006/07 בעיצוב קלאסי ונוסטלגי, נוחה ומרשימה
+  Updated: 2025-10-04T11:49:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_30f52608-31aa-4fb5-9f36-38c5ea301233.jpg?v=1738544606
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02?variant=46915181052154)
+  - [S](https://www.rsport.co.il/products/retro-shirt-2000-02-manu?variant=46915181052154)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02?variant=46915181084922)
+    Price: ‏160.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-2000-02-manu?variant=46915181084922)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02?variant=46915181117690)
+    Price: ‏160.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-2000-02-manu?variant=46915181117690)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02?variant=46915181150458)
+    Price: ‏160.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-2000-02-manu?variant=46915181150458)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2000-02?variant=46915181183226)
+    Price: ‏160.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-2000-02-manu?variant=46915181183226)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד 2006/07](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2006-07): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:37Z
+    Price: ‏160.00 ‏₪ ILS
+- [חולצת רטרו מנצ'סטר יונייטד 2006/07](https://www.rsport.co.il/products/retro-shirt-2006-07-manu): חולצת רטרו מנצ'סטר יונייטד 2012/13 בעיצוב מודרני ונוח, אידיאלית למגרש וליום יום
+  Updated: 2025-10-04T11:49:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_c88407fd-dc32-4a71-98d8-93614ca98341.jpg?v=1738544608
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2006-07?variant=46915187409146)
+  - [S](https://www.rsport.co.il/products/retro-shirt-2006-07-manu?variant=46915187409146)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2006-07?variant=46915187441914)
+    Price: ‏169.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-2006-07-manu?variant=46915187441914)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2006-07?variant=46915187474682)
+    Price: ‏169.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-2006-07-manu?variant=46915187474682)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2006-07?variant=46915187507450)
+    Price: ‏169.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-2006-07-manu?variant=46915187507450)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2006-07?variant=46915187540218)
+    Price: ‏169.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-2006-07-manu?variant=46915187540218)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד 2012/13](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2012-13): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:38Z
+    Price: ‏169.90 ‏₪ ILS
+- [חולצת רטרו מנצ'סטר יונייטד 2012/13](https://www.rsport.co.il/products/retro-shirt-2012-13-manu): חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 איכותית ונוחה, נבחרת האוהדים
+  Updated: 2025-10-04T11:47:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_50090b4f-6dd2-47fa-90b5-f678020b1369.jpg?v=1738544610
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2012-13?variant=46915187966202)
+  - [S](https://www.rsport.co.il/products/retro-shirt-2012-13-manu?variant=46915187966202)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2012-13?variant=46915187998970)
+  - [M](https://www.rsport.co.il/products/retro-shirt-2012-13-manu?variant=46915187998970)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2012-13?variant=46915188031738)
+  - [L](https://www.rsport.co.il/products/retro-shirt-2012-13-manu?variant=46915188031738)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2012-13?variant=46915188064506)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-2012-13-manu?variant=46915188064506)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-2012-13?variant=46915188097274)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-2012-13-manu?variant=46915188097274)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:38Z
+- [חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu): חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 בעיצוב קלאסי ונוסטלגי
+  Updated: 2025-10-04T11:49:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_ec3aaef4-4924-4c49-a33a-eaff1adef320.jpg?v=1738544620
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915189637370)
+  - [S](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu?variant=46915189637370)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915189670138)
+    Price: ‏170.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu?variant=46915189670138)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915189702906)
+    Price: ‏170.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu?variant=46915189702906)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915189735674)
+    Price: ‏170.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu?variant=46915189735674)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-גמר-ליגת-האלופות-2007-08?variant=46915189768442)
+    Price: ‏170.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu?variant=46915189768442)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08): חולצת רטרו ארוכה מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם לגזרה רגילה ונוחות מלאה
-  Updated: 2025-10-02T11:14:39Z
+    Price: ‏170.00 ‏₪ ILS
+- [חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 – עיצוב קלאסי](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-manu): חולצת רטרו ארוכה מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 עם עיצוב קלאסי ונוסטלגי עשויה 100% פוליאסטר קל ונושם לגזרה רגילה ונוחות מלאה
+  Updated: 2025-10-04T11:49:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_9943c711-d070-4076-8daf-54641f1ef14c.jpg?v=1738544508
-  - [S](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191210234)
+  - [S](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-manu?variant=46915191210234)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191243002)
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-manu?variant=46915191243002)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191275770)
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-manu?variant=46915191275770)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191308538)
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-manu?variant=46915191308538)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/retro-long-shirt-mnu-cl-2007-08?variant=46915191341306)
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-manu?variant=46915191341306)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד שלישית 1993/94](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:39Z
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת רטרו מנצ'סטר יונייטד שלישית 1993/94](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu): חולצת רטרו מנצ'סטר יונייטד שלישית 1993/94 בעיצוב ייחודי, איכותית ונוסטלגית
+  Updated: 2025-10-04T11:49:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_ed912f7f-e9b4-4467-bfb9-4115488a94b6.jpg?v=1738544625
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94?variant=46915212771578)
+  - [S](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu?variant=46915212771578)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94?variant=46915212804346)
+    Price: ‏159.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu?variant=46915212804346)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94?variant=46915212837114)
+    Price: ‏159.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu?variant=46915212837114)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94?variant=46915212869882)
+    Price: ‏159.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu?variant=46915212869882)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-שלישית-1993-94?variant=46915212902650)
+    Price: ‏159.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu?variant=46915212902650)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד בית 2004/06](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2004-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:40Z
+    Price: ‏159.90 ‏₪ ILS
+- [חולצת רטרו מנצ'סטר יונייטד בית 2004/06](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu): חולצת רטרו מנצ'סטר יונייטד בית 2004/06 בעיצוב קלאסי ואיכותי, נוחה למגרש וליום יום
+  Updated: 2025-10-04T11:49:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_d70e71dd-0200-4cc4-b737-73ff2f60dfbd.jpg?v=1738544619
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2004-06?variant=46915217719546)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu?variant=46915217719546)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2004-06?variant=46915217752314)
+    Price: ‏159.90 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu?variant=46915217752314)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2004-06?variant=46915217785082)
+    Price: ‏159.90 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu?variant=46915217785082)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2004-06?variant=46915217817850)
+    Price: ‏159.90 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu?variant=46915217817850)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2004-06?variant=46915217850618)
+    Price: ‏159.90 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu?variant=46915217850618)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד בית 2002/04](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2002-04): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:40Z
+    Price: ‏159.90 ‏₪ ILS
+- [חולצת רטרו מנצ'סטר יונייטד בית 2002/04](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu): חולצת רטרו מנצ'סטר יונייטד בית 2002/04 בעיצוב איכותי ונוח, אידיאלית למגרש וליום יום
+  Updated: 2025-10-04T11:47:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/0203_3747b57a-33a6-41f7-bf49-8bb8283c305a.jpg?v=1738544618
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2002-04?variant=46915218735354)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu?variant=46915218735354)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2002-04?variant=46915218768122)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu?variant=46915218768122)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2002-04?variant=46915218800890)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu?variant=46915218800890)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2002-04?variant=46915218833658)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu?variant=46915218833658)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-2002-04?variant=46915218866426)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu?variant=46915218866426)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד בית 1992/94](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1992-94): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:40Z
+- [חולצת רטרו מנצ'סטר יונייטד בית 1992/94](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu): חולצת רטרו מנצ'סטר יונייטד בית 1992/94 בעיצוב קלאסי ונוסטלגי, נוחה ומרשימה
+  Updated: 2025-10-04T11:47:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_42545ef4-1f00-41f5-a2a9-4e928e94d686.jpg?v=1738544612
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1992-94?variant=46915220996346)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu?variant=46915220996346)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1992-94?variant=46915221029114)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu?variant=46915221029114)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1992-94?variant=46915221061882)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu?variant=46915221061882)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1992-94?variant=46915221094650)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu?variant=46915221094650)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1992-94?variant=46915221127418)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu?variant=46915221127418)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד בית 1996/98](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1996-98): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:41Z
+- [חולצת רטרו מנצ'סטר יונייטד בית 1996/98](https://www.rsport.co.il/products/retro-shirt-home-1996-98-manu): חולצת רטרו מנצ'סטר יונייטד בית 1996/98 בעיצוב איכותי ונוח, אידיאלית למגרש וליום יום
+  Updated: 2025-10-04T11:47:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_e81912d9-9ada-4202-9d42-4d409080c592.jpg?v=1738544614
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1996-98?variant=46915221553402)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-1996-98-manu?variant=46915221553402)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1996-98?variant=46915221586170)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-1996-98-manu?variant=46915221586170)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1996-98?variant=46915221618938)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-1996-98-manu?variant=46915221618938)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1996-98?variant=46915221651706)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-1996-98-manu?variant=46915221651706)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1996-98?variant=46915221684474)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-1996-98-manu?variant=46915221684474)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד בית 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1998-99): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:41Z
+- [חולצת רטרו מנצ'סטר יונייטד בית 1998/99](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu): חולצת רטרו מנצ'סטר יונייטד בית 1998/99 בעיצוב קלאסי ונוסטלגי, איכותית למגרש וליום יום
+  Updated: 2025-10-04T11:47:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_c448d540-a4bf-4ede-b177-6b9790b69652.jpg?v=1738544616
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1998-99?variant=46915222143226)
+  - [S](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu?variant=46915222143226)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1998-99?variant=46915222175994)
+  - [M](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu?variant=46915222175994)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1998-99?variant=46915222208762)
+  - [L](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu?variant=46915222208762)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1998-99?variant=46915222241530)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu?variant=46915222241530)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-בית-1998-99?variant=46915222274298)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu?variant=46915222274298)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד חוץ 2010/11](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2010-11): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:42Z
+- [חולצת רטרו מנצ'סטר יונייטד חוץ 2010/11](https://www.rsport.co.il/products/retro-shirt-away-2010-11-manu): חולצת רטרו מנצ'סטר יונייטד חוץ 2010/11 בעיצוב איכותי, נוחה ואידיאלית לאוהדים
+  Updated: 2025-10-04T11:47:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_d020fe6f-f914-4087-ac4a-7330ac5e8267.jpg?v=1738544623
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2010-11?variant=46915232760058)
+  - [S](https://www.rsport.co.il/products/retro-shirt-away-2010-11-manu?variant=46915232760058)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2010-11?variant=46915232792826)
+  - [M](https://www.rsport.co.il/products/retro-shirt-away-2010-11-manu?variant=46915232792826)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2010-11?variant=46915232825594)
+  - [L](https://www.rsport.co.il/products/retro-shirt-away-2010-11-manu?variant=46915232825594)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2010-11?variant=46915232858362)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-away-2010-11-manu?variant=46915232858362)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2010-11?variant=46915232891130)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2010-11-manu?variant=46915232891130)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר יונייטד חוץ 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2005-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:42Z
+- [חולצת רטרו מנצ'סטר יונייטד חוץ 2005/06](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu): חולצת רטרו מנצ'סטר יונייטד חוץ 2005/06 בעיצוב קלאסי, נוחה ומושלמת למגרש וליום יום
+  Updated: 2025-10-04T11:47:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_edc0e56b-1cb5-4b47-8a72-2860e9c32962.jpg?v=1738544621
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2005-06?variant=46915233513722)
+  - [S](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu?variant=46915233513722)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2005-06?variant=46915233546490)
+  - [M](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu?variant=46915233546490)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2005-06?variant=46915233579258)
+  - [L](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu?variant=46915233579258)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2005-06?variant=46915233612026)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu?variant=46915233612026)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-יונייטד-חוץ-2005-06?variant=46915233644794)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu?variant=46915233644794)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר סיטי 2013/14](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
@@ -17323,8 +17323,8 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-בית-2013-14?variant=46915518333178)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו ברצלונה בית 2012/13](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-בית-2012-13): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:58Z
+- [חולצת רטרו ברצלונה בית 2012/13](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-בית-2012-13): חולצת רטרו ברצלונה בית 2012/13 היא פריט חובה לכל אוהד כדורגל. עם עיצוב קלאסי שמזכיר את הימים הגדולים של הקבוצה, היא מציעה שילוב מושלם של סגנון ונוחות.עשויה מ-100% פוליאסטר, החולצה מספקת יכולת נשימה גבוהה ונוחות מקסימלית. הבד המנדף זיעה מתייבש במהירות, כך שתוכל להרגיש יבש ונעים גם במהלך הפעילות הספורטיבית הממושכת.עם שרוולים ארוכים ועיצוב רטרו, החולצה מתאימה ללבוש יומיומי ולכל אירוע ספורטיבי. הוסף את המגע הקלאסי הזה לארון הבגדים שלך!
+  Updated: 2025-10-04T11:57:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17344,8 +17344,8 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-בית-2012-13?variant=46915523608826)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו ברצלונה גמר ליגת האלופות 2005](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-גמר-ליגת-האלופות-2005): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:58Z
+- [חולצת רטרו ברצלונה גמר ליגת האלופות 2005](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-גמר-ליגת-האלופות-2005): חולצת רטרו ברצלונה גמר ליגת האלופות 2005 היא פריט חובה לכל אוהד כדורגל. עם עיצוב קלאסי שמזכיר את הרגעים הגדולים של הקבוצה, היא מציעה שילוב מושלם של סגנון ונוחות.עשויה מ-100% פוליאסטר, החולצה מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח.עם שרוולים ארוכים ועיצוב רטרו, החולצה מתאימה לכל אוהד שרוצה להרגיש חלק מההיסטוריה של ברצלונה.
+  Updated: 2025-10-04T11:56:51Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17365,8 +17365,8 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-גמר-ליגת-האלופות-2005?variant=46915533832442)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו ברצלונה 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-2005-06): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:59Z
+- [חולצת רטרו ברצלונה 2005/06](https://www.rsport.co.il/products/חולצת-רטרו-ברצלונה-2005-06): חולצת רטרו ברצלונה 2005/06 היא פריט ייחודי שמחייה את רוח הכדורגל הקלאסי. עשויה 100% פוליאסטר, היא מציעה נוחות בלתי מתפשרת ויכולת נשימה גבוהה, מה שהופך אותה לבחירה מושלמת ללבוש יומיומי.הבד המנדף זיעה מתייבש במהירות, שומר עליך יבש ונעים גם במהלך הפעילות הספורטיבית הממושכת. עם שרוולים ארוכים ועיצוב רטרו, החולצה הזו לא רק נראית טוב, אלא גם מספקת את התמיכה הנדרשת לכל אוהד כדורגל.
+  Updated: 2025-10-04T11:56:36Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17387,91 +17387,91 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה 1990](https://www.rsport.co.il/products/retro-shirt-germany-1990): חולצת רטרו נבחרת גרמניה 1990 בעיצוב נוסטלגי ואיכותי, חוויה מושלמת למגרש וליום יום
-  Updated: 2025-10-04T07:30:21Z
+  Updated: 2025-10-04T08:55:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_86f96620-2062-48f5-a7dc-114513ca72b0.jpg?v=1738544660
   - [S](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578265850)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578298618)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578331386)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578364154)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-1990?variant=46915578396922)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏169.90 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמנית בית 1994](https://www.rsport.co.il/products/retro-shirt-germany-home-1994): חולצת רטרו נבחרת גרמניה בית 1994 בעיצוב איכותי, מושלמת לאוהדים ונוסטלגיה
-  Updated: 2025-10-04T07:30:21Z
+  Updated: 2025-10-04T08:55:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_84df819f-6d6d-45e8-b08a-da47c102ca60.jpg?v=1738544668
   - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585376506)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585409274)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585442042)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585474810)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-1994?variant=46915585507578)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏170.00 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 1996](https://www.rsport.co.il/products/retro-shirt-germany-home-1996): חולצת רטרו נבחרת גרמניה בית 1996 בעיצוב אייקוני ונוח, חוויה מושלמת לאוהדים
-  Updated: 2025-10-04T07:30:21Z
+  Updated: 2025-10-04T08:55:22Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_0b1d9fd9-8cc7-4e4c-ac83-6ebba0580337.jpg?v=1738544660
   - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587080442)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587113210)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587145978)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587178746)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-1996?variant=46915587211514)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 1998](https://www.rsport.co.il/products/retro-shirt-germany-home-1998): חולצת רטרו נבחרת גרמניה בית 1998 בעיצוב קלאסי לנוסטלגיה של משחקים גדולים
-  Updated: 2025-10-04T07:30:21Z
+  Updated: 2025-10-04T08:55:22Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_b18c08b3-8b25-44fd-adb2-697568d20412.jpg?v=1738544662
   - [S](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589734650)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589767418)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589800186)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589832954)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/retro-shirt-germany-home-1998?variant=46915589865722)
     Availability: Available
-    Price: ‏148.99 ‏₪ ILS
+    Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 2014](https://www.rsport.co.il/products/retro-shirt-germany-home-2014): חולצת רטרו נבחרת גרמניה בית 2014 בעיצוב אלגנטי ומודרני, חוויה מושלמת למגרש וליום יום
-  Updated: 2025-10-04T07:30:21Z
+  Updated: 2025-10-04T08:36:25Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17492,7 +17492,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 2006](https://www.rsport.co.il/products/retro-shirt-germany-home-2006): חולצת רטרו נבחרת גרמניה בית 2006 בעיצוב איכותי ונוח, מושלמת לאוהדים ומגרש
-  Updated: 2025-10-04T07:30:20Z
+  Updated: 2025-10-04T08:35:28Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17513,7 +17513,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה חוץ 1994](https://www.rsport.co.il/products/retro-shirt-germany-away-1994): חולצת רטרו נבחרת גרמניה חוץ 1994 עם עיצוב אייקוני לנוסטלגיה וספורטיביות יומיומית
-  Updated: 2025-10-04T07:30:20Z
+  Updated: 2025-10-04T08:33:30Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17555,7 +17555,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה חוץ 2014](https://www.rsport.co.il/products/retro-shirt-germany-away-2014): חולצת רטרו נבחרת גרמניה חוץ 2014 בעיצוב מודרני ונוסטלגי, מושלמת לאוהדים
-  Updated: 2025-10-04T07:32:04Z
+  Updated: 2025-10-04T08:29:27Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -21589,7 +21589,7 @@
     Availability: Available
     Price: ‏258.92 ‏₪ ILS
 - [גופיית משחק לבנה טורונטו ראפטורס | קוואי לנארד](https://www.rsport.co.il/products/jersey-white-kawhi-leonard-toronto-raptors): גופיית משחק לבנה בהשראת סגנון טורונטו ראפטורס עם שם ומספר של קוואי לנארד בגב. בד קל ונושם המעניק חופש תנועה ונוחות לאורך כל המשחק או האימון.
-  Updated: 2025-10-03T16:28:16Z
+  Updated: 2025-10-04T10:40:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -22694,7 +22694,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [גרבי כדורגל בנפיקה ליסבון בית 24/25](https://www.rsport.co.il/products/גרבי-כדורגל-בנפיקה-ליסבון-בית-24-25): גרבי הכדורגל של בנפיקה ליסבון לעונת 24/25 לבית עשויים מחומרים איכותיים, הכוללים 88% פוליאסטר, 6% כותנה ו-6% ספנדקס. הגרביים מספקים נוחות וגמישות מרבית במהלך המשחקים, עם תמיכה טובה למרפקים ולרגליים ותחושת רכות לאורך כל הפעילות. העיצוב משדר מראה ספורטיבי ומעודכן, מושלם לשחקנים ואוהדים כאחד.
-  Updated: 2025-10-03T17:13:59Z
+  Updated: 2025-10-04T08:43:23Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -28958,7 +28958,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת רטרו ליברפול בית 2008/09](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-בית-2008-09): חולצת רטרו של ליברפול בית 2008/09 מהעונה הזכורה של טורס וג'רארד – אדומה עם פסי כתפיים לבנים ולוגו בולט של Carlsberg בחזית. עשויה 100% פוליאסטר קליל ונעים, יושבת נוח ומתאימה גם ליציע, גם לבית וגם לכל מי שרוצה להרגיש חלק מההיסטוריה של אחת הקבוצות האהובות באנגליה. פריט שפשוט אי אפשר להתעלם ממנו – קלאסיקה אמיתית לאוהדים של פעם.
-  Updated: 2025-10-02T11:15:26Z
+  Updated: 2025-10-04T11:55:09Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29042,7 +29042,7 @@
     Availability: Available
     Price: ‏164.99 ‏₪ ILS
 - [חולצת רטרו ליברפול חוץ 1996/97](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-חוץ-1996-97): חולצת רטרו ליברפול חוץ 1996/97 בצבע לבן עיצוב אלגנטי וייחודי מהתקופה של פאולר, מייקל אואן, מקמנמן ורדנאפ. עם לוגו Carlsberg בחזית וסמל רקום בגאווה, זו חולצה שמחזירה ישר לרוח של הפרמייר ליג של סוף שנות ה-90. עשויה 100% פוליאסטר נעים ונושם, מתאימה גם ללבישה יומיומית וגם לאוסף של כל אוהד עם לב אדום. פריט נוסטלגי עם סטייל על-זמני.
-  Updated: 2025-10-02T11:15:28Z
+  Updated: 2025-10-04T11:55:09Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29063,7 +29063,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת רטרו ליברפול חוץ 1995/96](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-חוץ-1995-96): חולצת רטרו ליברפול חוץ 1995/96 בצבע ירוק-לבן אחת מהחולצות הכי בלתי נשכחות שיצאו למגרש. עיצוב נועז וייחודי שמזוהה מיידית עם תקופת הזהב של שנות ה-90, כששחקנים כמו רובי פאולר, סטיב מקמנמן וג’יימי רדנאפ הובילו את הקבוצה. הלוגו של Carlsberg מופיע במרכז החזה, וסמל ליברפול רקום בגאווה. עשויה 100% פוליאסטר איכותי, קל ונושם – מושלמת לאספנים, לאוהדים שרוצים לבלוט, או לכל מי שמתגעגע לעידן שבו הכדורגל נראה אחרת
-  Updated: 2025-10-02T11:15:28Z
+  Updated: 2025-10-04T11:55:09Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29084,7 +29084,7 @@
     Availability: Available
     Price: ‏166.00 ‏₪ ILS
 - [חולצת רטרו ליברפול בית 1992/93](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-בית-1992-93): חולצת רטרו ליברפול בית 1992/93 בעיצוב אדום עמוק עם שלושה פסים לבנים אייקוניים על הכתפיים אחד הדגמים הזכורים מהתקופה בה ליברפול נכנסה לעידן הפרמייר ליג., כולל לוגו Carlsberg המפורסם במרכז, סמל רקום בגאווה, וטקסטורת משולשים עדינה בבד שמוסיפה טאץ' של רטרו אמיתי. החולצה נלבשה על ידי אגדות כמו ג’ון בארנס, איאן ראש וסטיב מקמנמן, והיא פריט חובה לכל אוהד אדום עם לב לנוסטלגיה.
-  Updated: 2025-10-02T11:15:28Z
+  Updated: 2025-10-04T11:55:09Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29105,7 +29105,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת רטרו ליברפול בית 1993/95](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-בית-1993-95): חולצת רטרו ליברפול בית 1993/95 בצבע אדום עם טקסטורת פסים רחבים בבד, שלושה פסים לבנים בכל אחד מצידי הגוף, לוגו Carlsberg מודפס במרכז, סמל ליברפול רקום על החזה. עשויה 100% פוליאסטר בגזרה רגילה, מתאימה ללבישה יומיומית או לאספנות
-  Updated: 2025-10-02T11:15:29Z
+  Updated: 2025-10-04T11:55:08Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29126,7 +29126,7 @@
     Availability: Available
     Price: ‏168.90 ‏₪ ILS
 - [חולצת רטרו ליברפול חוץ 1993/95](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-חוץ-1993-95): חולצת רטרו ליברפול חוץ 1994/95 בצבע לבן, שלושה פסים שחורים לאורך צידי הגוף. לוגו Carlsberg מודפס במרכז וסמל ליברפול רקום על החזה. החולצה עשויה 100% פוליאסטר בגזרה רגילה, עם מראה קלאסי וניחוח נוסטלגי של שנות ה־90.
-  Updated: 2025-10-02T11:15:29Z
+  Updated: 2025-10-04T11:55:08Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29168,7 +29168,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו ליברפול בית 1989/91](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-בית-1989-91): חולצת רטרו ליברפול בית 1989/91 בצבע אדום עם טקסטורת משולשים גאומטרית ייחודית לוגו Candy מודפס במרכז וסמל ליברפול רקום על החזה. עשויה 100% פוליאסטר קל ונושם בגזרה רגילה חולצה איקונית מתקופת הסיום של שנות ה־80 ותחילת ה־90, כששמות כמו ג’ון בארנס, איאן ראש ופיטר ביזלי שלטו באנפילד.
-  Updated: 2025-10-02T11:15:30Z
+  Updated: 2025-10-04T11:55:08Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -29189,7 +29189,7 @@
     Availability: Available
     Price: ‏164.99 ‏₪ ILS
 - [חולצת רטרו ליברפול בית 1998/00](https://www.rsport.co.il/products/חולצת-רטרו-ליברפול-בית-1998-00): חולצת רטרו ליברפול בית 1998/00 בצבע אדום לוגו Carlsberg במרכז וסמל ליברפול רקום על החזה. עשויה 100% פוליאסטר בגזרה רגילה, עם בד נושם ונעים למגע. חולצה זכורה מתקופה של שחקנים כמו מייקל אואן, רובי פאולר וסטיב מקמנמן – שילוב של נוסטלגיה ואיכות קלאסית.
-  Updated: 2025-10-02T11:15:31Z
+  Updated: 2025-10-04T11:55:08Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -45959,7 +45959,7 @@
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-03T17:44:54Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-02T12:34:20Z
@@ -45971,7 +45971,7 @@
   Updated: 2025-10-02T12:12:20Z
   Total Products: 37
 - [מנצ'סטר יונייטד](https://www.rsport.co.il/collections/מנצסטר-יונייטד): גלה מגוון חולצות מנצ’סטר יונייטד לגברים, נשים וילדים. חולצות בית, חוץ, שלישיות וחולצות שוער. הדפסה עם שם ומספר של שחקנים או בהתאמה אישית. משלוח מהיר, אפשרות החלפה קלה. קנה עכשיו ב־ RSPORT
-  Updated: 2025-10-02T11:52:12Z
+  Updated: 2025-10-04T11:49:12Z
   Total Products: 67
 - [מנצ’סטר סיטי חולצות כדורגל, חליפות ומוצרי ספורט | Manchester City](https://www.rsport.co.il/collections/מנצסטר-סיטי): חולצות מנצ’סטר סיטי, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מגוון עיצובים עדכניים ואיכותיים לאוהדי Manchester City – סטייל ונאמנות למועדון.
   Updated: 2025-10-02T11:30:51Z
@@ -46112,10 +46112,10 @@
   Updated: 2025-10-02T12:34:18Z
   Total Products: 7
 - [בוקה ג’וניורס](https://www.rsport.co.il/collections/בוקה-ג-וניורס): הצטרפו לרוח הלחימה של בוקה ג'וניורס עם הקולקציה המובילה שלנו. בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הצהובה והכחולה האייקונית, החולצה האורחת הלבנה והמהודרת, או החולצה השלישית המיוחדת שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות הצטרפו לרוח הלחימה של בוקה ג'וניורס עם הקולקציה המובילה שלנו. בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד בוקה ג'וניורס לא רק קבוצה, זו תופעה עולמית. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את החום, האהבה והאנרגיה של אחד המועדונים הגדולים ביותר בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הצהובה והכחולה האייקונית, החולצה האורחת הלבנה והמהודרת, או החולצה השלישית המיוחדת שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
-  Updated: 2025-10-02T11:52:03Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 12
 - [ליגה ארגנטינאית](https://www.rsport.co.il/collections/ליגה-ארגנטינאית)
-  Updated: 2025-10-02T11:52:03Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 20
 - [קולומביה](https://www.rsport.co.il/collections/קולומביה)
   Updated: 2025-09-18T19:46:03Z
@@ -46184,10 +46184,10 @@
   Updated: 2025-10-03T13:05:25Z
   Total Products: 16
 - [חולצות רטרו](https://www.rsport.co.il/collections/חולצות-רטרו)
-  Updated: 2025-10-04T07:41:43Z
+  Updated: 2025-10-04T11:49:12Z
   Total Products: 203
 - [נבחרות רטרו](https://www.rsport.co.il/collections/נבחרות-רטרו)
-  Updated: 2025-10-04T07:41:43Z
+  Updated: 2025-10-04T08:55:24Z
   Total Products: 46
 - [נבחרת צרפת רטרו](https://www.rsport.co.il/collections/נבחרת-צרפת-רטרו)
   Updated: 2025-10-02T11:14:05Z
@@ -46199,13 +46199,13 @@
   Updated: 2025-10-02T11:14:12Z
   Total Products: 11
 - [מילאן רטרו](https://www.rsport.co.il/collections/מילאן-רטרו)
-  Updated: 2025-10-02T11:14:18Z
+  Updated: 2025-10-04T09:19:07Z
   Total Products: 13
 - [אינטר רטרו | חולצות כדורגל רטרו ומוצרי ספורט](https://www.rsport.co.il/collections/אינטר-רטרו): גלה את קולקציית החולצות הרטרו של אינטר מילאנו חולצות כדורגל קלאסיים לאוהדים. חולצות בית וחוץ עם עיצובים נוסטלגיים ומרשימים, דגש על נוחות, איכות וסטייל איטלקי
   Updated: 2025-10-02T11:15:32Z
   Total Products: 10
 - [ליגה איטלקית רטרו](https://www.rsport.co.il/collections/ליגה-איטלקית-רטרו)
-  Updated: 2025-10-02T11:15:32Z
+  Updated: 2025-10-04T09:19:07Z
   Total Products: 39
 - [יובנטוס רטרו](https://www.rsport.co.il/collections/יובנטוס-רטרו)
   Updated: 2025-10-02T11:14:25Z
@@ -46214,7 +46214,7 @@
   Updated: 2025-10-02T11:14:32Z
   Total Products: 17
 - [ליגה אנגלית רטרו](https://www.rsport.co.il/collections/ליגה-אנגלית-רטרו)
-  Updated: 2025-10-02T11:15:32Z
+  Updated: 2025-10-04T11:49:12Z
   Total Products: 69
 - [צ'לסי רטרו](https://www.rsport.co.il/collections/צלסי-רטרו)
   Updated: 2025-10-02T11:14:36Z
@@ -46226,7 +46226,7 @@
   Updated: 2025-10-02T11:14:37Z
   Total Products: 3
 - [מנצ'סטר יונייטד רטרו](https://www.rsport.co.il/collections/מנצסטר-יונייטד-רטרו)
-  Updated: 2025-10-02T11:14:43Z
+  Updated: 2025-10-04T11:49:12Z
   Total Products: 13
 - [מנצ'סטר סיטי רטרו](https://www.rsport.co.il/collections/מנצסטר-סיטי-רטרו)
   Updated: 2025-10-02T11:14:46Z
@@ -46247,7 +46247,7 @@
   Updated: 2025-10-02T11:15:15Z
   Total Products: 18
 - [גרמניה רטרו](https://www.rsport.co.il/collections/גרמניה-רטרו)
-  Updated: 2025-10-04T07:41:43Z
+  Updated: 2025-10-04T08:55:24Z
   Total Products: 9
 - [אימוניות](https://www.rsport.co.il/collections/אימוניות)
   Updated: 2025-09-26T15:26:05Z
@@ -46268,16 +46268,16 @@
   Updated: 2025-10-02T11:30:58Z
   Total Products: 13
 - [ליגה ברזילאית](https://www.rsport.co.il/collections/ליגה-ברזילאית): .br-text-container { position: relative; font-family: 'Heebo', Arial, sans-serif; text-align: right; direction: rtl; margin: 0; } .br-text-content { display: block; } .br-text-toggle { display: none; color: #007aff; cursor: pointer; font-weight: bold; margin-top: 8px; } @media (max-width: 768px) { .br-text-content { max-height: 4.8em; /* בערך 3 שורות */ overflow: hidden; position: relative; } .br-text-container.expanded .br-text-content { max-height: none; } .br-text-toggle { display: inline-block; } } הליגה הברזילאית היא הלב הפועם של הכדורגל הדרום אמריקאי השחקנים הקהל האווירה והסטייל שמתחילים מהרחוב ומגיעים עד ליציעים כאן תמצאו חולצות כדורגל של הקבוצות הכי חמות הכי צבעוניות והכי אהובות בברזיל חולצות בית חוץ ושלישית שעוצבו בשביל אוהדים אמיתיים שחיים ונושמים כדורגל מועדונים כמו פלמנגו סאו פאולו פלומיננסה קורינתיאנס גרמיו אינטרנסיונל אתלטיקו מיניירו ואחרות כל חולצה מביאה איתה סיפור תשוקה ומסורת שנותנת לך להרגיש חלק ממשהו גדול חלק ממועדון חלק מהקהל כל צבע וכל סמל שייך לתרבות אמיתית שזורמת בכדורגל הברזילאי אין דבר שדומה לזה ואין תחליף לרגש הזה אם הכדורגל הברזילאי מדבר אליך תלבש את זה תרגיש את זה ותהיה חלק מהקסם הצג עוד const container = document.getElementById("brTextContainer"); const toggle = document.getElementById("brTextToggle"); toggle.addEventListener("click", function () { container.classList.toggle("expanded"); toggle.textContent = container.classList.contains("expanded") ? "הצג פחות" : "הצג עוד"; });
-  Updated: 2025-10-02T12:34:21Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 111
 - [פלמנגו](https://www.rsport.co.il/collections/פלמנגו): פלמנגו היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה חסרת גבולות. עם קהל עצום ונאמן ורגעים בלתי נשכחים בליגה המקומית, Flamengo מייצגת גאווה ועוצמה בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של פלמנגו, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את האדום והשחור הגעת למקום הנכון.
   Updated: 2025-10-02T11:30:59Z
   Total Products: 11
 - [כפפות שוער](https://www.rsport.co.il/collections/כפפות-שוער)
-  Updated: 2025-09-25T22:08:17Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 15
 - [שוערים](https://www.rsport.co.il/collections/שוערים)
-  Updated: 2025-10-02T11:52:11Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 28
 - [חולצות שוער](https://www.rsport.co.il/collections/חולצות-שוער)
   Updated: 2025-10-02T11:52:11Z
@@ -46334,7 +46334,7 @@
   Updated: 2025-10-03T11:18:38Z
   Total Products: 44
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-02T13:33:14Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-10-02T12:34:19Z
@@ -46343,7 +46343,7 @@
   Updated: 2025-10-02T11:31:50Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-10-04T07:41:43Z
+  Updated: 2025-10-04T11:49:12Z
   Total Products: 700
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-10-02T11:28:25Z
@@ -46427,7 +46427,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-04T07:41:43Z
+  Updated: 2025-10-04T11:49:12Z
   Total Products: 2049
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
@@ -46445,7 +46445,7 @@
   Updated: 2025-10-02T11:15:26Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-10-02T12:34:21Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 366
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-10-02T11:52:10Z
@@ -46520,7 +46520,7 @@
   Updated: 2025-10-02T11:52:07Z
   Total Products: 6
 - [ואסקו דה גאמה](https://www.rsport.co.il/collections/ואסקו-דה-גאמה): ואסקו דה גאמה היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית עמוקה, היסטוריה מפוארת ואהבה שאין לה גבולות. עם קהל נאמן ורגעים בלתי נשכחים בליגה המקומית, Vasco da Gama מייצגת גאווה וכבוד בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של ואסקו דה גאמה, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור, הלבן והאדום הגעת למקום הנכון.
-  Updated: 2025-08-05T22:10:38Z
+  Updated: 2025-10-04T11:18:52Z
   Total Products: 5
 - [מועדון ספורט אינטרנסיונל](https://www.rsport.co.il/collections/מועדון-ספורט-אינטרנסיונל): מועדון ספורט אינטרנסיונל זו פשוט תשוקה וכוח בכדורגל הברזילאי. כאן תמצאו את כל חולצות הכדורגל בית, חוץ ושלישית שיביאו את האדום והלבן שלכם לכל משחק. חולצות איכותיות ונוחות, עם עיצוב שיגרום לכם לבלוט ביציעים וירגישו את האנרגיה של האוהדים בכל תפר. בנוסף, יש גם בגדי אימון ואקססוריז שמשלימים את הלוק ונותנים את התחושה שאתם חלק מהקבוצה. בין אם אתם באיצטדיון או ברחוב, עם הפריטים האלה תראו שאתם חיים ונושמים אינטרנסיונל בכל רגע. הצטרפו למיליוני האוהדים שנושאים את הדגל בגאווה ותחוו את התחושה של להיות באמת חלק מהמשפחה האדומה-לבנה.
   Updated: 2025-08-05T22:10:38Z
@@ -46616,7 +46616,7 @@
   Updated: 2025-10-02T12:34:19Z
   Total Products: 156
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
-  Updated: 2025-10-02T11:31:25Z
+  Updated: 2025-10-04T09:18:41Z
   Total Products: 31
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
   Updated: 2025-10-02T11:28:37Z
