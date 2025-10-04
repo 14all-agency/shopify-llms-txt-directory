@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-04T16:00:29.818Z
+- Updated At: 2025-10-04T20:00:30.326Z
 
 ## Products
 
@@ -242,7 +242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-RD-GALLON-2024.jpg?v=1712675136
     Price: $72.95 USD
 - [Blissfully Fresh® Pet Deodorizing Spray | Pet Odor Neutralizer](https://theblissfulpets.com/products/simply-everything-fresh-deodorizing-refreshing-spray): Get rid of nasty pet odors with this natural neutralizer. Blissfully Fresh® Pet Deodorizing Spray keeps your home smelling clean and fresh.
-  Updated: 2025-07-29T03:20:38Z
+  Updated: 2025-10-04T19:47:15Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO SPRAY
   Availability: Available
@@ -516,7 +516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BULLDOG-STINKY-SOAP-BOX-2025.jpg?v=1742486704
     Price: $12.95 USD
 - [Bye Bye Boo Boo® Herbal Dog Shampoo for Itchy Skin Irritations](https://theblissfulpets.com/products/bye-bye-boo-boo-dog-shampoo): The Blissful Dog Bye Bye Boo Boo® herbal dog shampoo soothes itchy skin irritations. Part of our 3-step program for itch relief for your dog. That's blissful!
-  Updated: 2025-07-29T07:09:11Z
+  Updated: 2025-10-04T19:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BBBB SHAMPOO
   Availability: Available
@@ -747,7 +747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/ELBOW-2.25OZ-2024_7f241e9f-5fe4-454d-8429-44a73fdf2309.jpg?v=1711116614
     Price: $18.95 USD
 - [The Blissful Dog PAW BUTTER All Natural Good Stuff for Dry Paw Pads](https://theblissfulpets.com/products/paw-butter): The Blissful Dog PAW BUTTER provides layers of moisturizing support for your dog's paw pads…naturally! In 8 sizes of tins & tubes - because dogs are all sizes!
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-04T16:07:17Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -829,7 +829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-BB-GALLON-2024.jpg?v=1711385563
     Price: $72.95 USD
 - [The Blissful Cat Razzle Dazzle Cat White Shampoo Next Level Whiteness](https://theblissfulpets.com/products/razzle-dazzle-cat-shampoo): Keep your white cat looking their brightest with our cat white shampoo. Razzle Dazzle Cat Shampoo offers gentle herbal cleansing with no bleach or dyes.
-  Updated: 2025-08-10T05:30:03Z
+  Updated: 2025-10-04T17:55:14Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -851,7 +851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-RD-GALLON-2024.jpg?v=1711387351
     Price: $72.95 USD
 - [Blissfully Fresh® Deodorizing Spray for Smelly Cat](https://theblissfulpets.com/products/simply-everything-fresh-deodorizing-spray): Blissfully Fresh® Deodorizing Spray eliminates odor with a spritz. No one will ask just how many smelly cat you have, with THAT look on their face, again!
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-04T17:42:47Z
   Vendor: The Blissful Cat
   Product Type: Deodorizing Spray
   Availability: Available
@@ -1005,7 +1005,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-SC-GALLON-2024.jpg?v=1711136392
     Price: $72.95 USD
 - [The Blissful Cat Drama Queen Cat Shampoo for Your Demanding Diva Cat](https://theblissfulpets.com/products/drama-queen-cat-shampoo): The Blissful Cat Drama Queen Cat Shampoo moisturizes as it cleanses any residue, clarifies and nurtures your cat's fur. As it should.
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-04T19:10:52Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -1243,7 +1243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-BUGBUTTER-TIN-2024.jpg?v=1711995864
     Price: $65.95 USD
 - [The Blissful Horse® Bye Bye Bug® Natural Horse Fly Spray & Soap](https://theblissfulpets.com/products/the-blissful-horses-bug-off-spray): Bye Bye Bug® Spray & Soap is your horse's natural alternative to repel nasty biting bugs using essential oils creating a safe Horse Fly Spray.
-  Updated: 2025-07-30T18:20:33Z
+  Updated: 2025-10-04T19:49:24Z
   Vendor: The Blissful Horses
   Product Type: BYE BYE BUG
   Availability: Available
