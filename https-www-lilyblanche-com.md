@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-05T04:00:43.703Z
+- Updated At: 2025-10-05T08:00:44.362Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16260,7 +16260,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £285.00 GBP
 - [Heart Shaped White Gold Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-white-gold): Looking for a personalised gift? This pretty filigree style white gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This white gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Express delivery available when you shop online today.
-  Updated: 2025-10-04T17:29:26Z
+  Updated: 2025-10-05T06:39:11Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16817,7 +16817,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-10-04T16:49:30Z
+  Updated: 2025-10-05T07:37:37Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -19722,7 +19722,7 @@ From £119
     Availability: Available
     Price: £165.00 GBP
 - [Carnelian Drop Hoop Earrings Gold | July Birthstone](https://www.lilyblanche.com/products/carnelian-drop-hoop-earrings-gold-july-birthstone): These gold vermeil hoop earrings, July's birthstone,  feature a real Carnelian gemstone. The stone for happiness, the gems are detachable. Order today with free shipping.
-  Updated: 2025-09-09T15:47:52Z
+  Updated: 2025-10-05T07:16:27Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
