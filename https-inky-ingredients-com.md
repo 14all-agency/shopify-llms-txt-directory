@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-05T04:00:33.556Z
+- Updated At: 2025-10-05T08:00:34.545Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -392,7 +392,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £97.20 GBP
 - [Sheanut Butter, Unrefined Organic](https://inky-ingredients.com/products/sheanut-butter-unrefined-organic): Unrefined Organic Sheanut Butter is a pure and natural cosmetic ingredient. Cold-pressed and certified organic, it retains its full nutrient profile, offering deep moisturisation for the skin. This unrefined butter is perfect for organic skincare formulations, promoting a healthy complexion.
-  Updated: 2025-09-30T12:59:02Z
+  Updated: 2025-10-05T06:43:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1535,7 +1535,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £265.80 GBP
 - [Bakuchi (Bakuchiol) Oil, Cold Pressed](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-cold-pressed): Embrace the benefits of Bakuchi Oil with this cold-pressed variant. Known for its natural retinol alternative, Bakuchiol nourishes and rejuvenates the skin, promoting a youthful complexion without the sensitivity associated with traditional retinol.
-  Updated: 2025-10-03T13:17:13Z
+  Updated: 2025-10-05T07:38:05Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2390,7 +2390,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £55.90 GBP
 - [Orange Blood, Essential Oil](https://inky-ingredients.com/products/orange-blood-essential-oil): Orange Blood Essential Oil, extracted from vibrant blood oranges, offers a sweet and citrusy aroma. This uplifting oil is rich in antioxidants and may be used in aromatherapy to boost mood and create a refreshing ambiance, adding a bright note to skincare blends.
-  Updated: 2025-09-26T09:41:10Z
+  Updated: 2025-10-05T06:43:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3101,7 +3101,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £310.80 GBP
 - [Mango, Butter Organic (Buckets)](https://inky-ingredients.com/products/mango-butter-organic-buckets): Mango Butter Organic, sourced from quality mangoes, is a nourishing ingredient for skincare. Packed in convenient buckets, it offers a rich blend of vitamins and antioxidants, promoting skin moisture and elasticity. Its natural goodness enhances the luxurious feel of skincare formulations.
-  Updated: 2025-09-29T12:40:13Z
+  Updated: 2025-10-05T06:43:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4814,7 +4814,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £132.60 GBP
 - [GoldenWax 494](https://inky-ingredients.com/products/goldenwax-494): Discover the brilliance of GoldenWax 494, the ideal choice for wax melts. With exceptional scent throw and smooth performance, it offers versatility and quality for creating lasting, aromatic delights. Melt into luxury!
-  Updated: 2025-09-26T09:10:12Z
+  Updated: 2025-10-05T08:00:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5578,7 +5578,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1756297273
   Price: £55.80 GBP
 - [Olive Extra Virgin Oil, Cold Pressed Organic](https://inky-ingredients.com/products/olive-extra-virgin-oil-cold-pressed-organic): Organic Cold Pressed Extra Virgin Olive Oil is a premium culinary and skincare oil. Extracted from organically grown olives, it preserves the oil's natural integrity. Its rich flavor and nourishing properties make it a favoured choice for both culinary and cosmetic applications.
-  Updated: 2025-10-04T17:43:55Z
+  Updated: 2025-10-05T05:51:51Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7101,7 +7101,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £696.00 GBP
 - [Orange Bitter, Essential Oil](https://inky-ingredients.com/products/orange-bitter-essential-oil): Derived from bitter oranges, this essential oil offers a distinctive, intense citrus fragrance. It's employed in perfumery and blends, imparting a unique and bold aroma to various products.
-  Updated: 2025-09-28T06:36:00Z
+  Updated: 2025-10-05T06:43:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
