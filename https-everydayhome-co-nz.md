@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-04T20:00:36.965Z
+- Updated At: 2025-10-05T12:00:35.803Z
 
 ## Products
 
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Cosmetic-Organiser-White-Grey-5.png?v=1727659177
   Price: $69.99 NZD
 - [Umbra Hubba Arched Wall Mirror - Metal Titanium](https://everydayhome.co.nz/products/hubba-arched-mirror-86-x-91cm-metal-titanium): Hubba Arched Mirror (86 X 91Cm), Metal Titanium
-  Updated: 2025-10-02T23:07:11Z
+  Updated: 2025-10-05T01:37:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chair-Grey-8.jpg?v=1727659384
   Price: $269.99 NZD
 - [Umbra Hubba Pebble Wall Mirror - Brass](https://everydayhome.co.nz/products/hubba-pebble-mirror-92x61cm-brass): Hubba Pebble Mirror 92X61Cm -  Brass
-  Updated: 2025-09-25T13:03:59Z
+  Updated: 2025-10-04T22:52:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Silicone-Dish-Drying-Mat-Dark-Grey-7.jpg?v=1727659323
   Price: $64.99 NZD
 - [Brabantia SinkSide Silicone Dish Drying Mat - Light Grey](https://everydayhome.co.nz/products/silicone-dish-drying-mat-44-x-32cm-light-grey): Silicone Dish Drying Mat, 44 X 32Cm, Light Grey
-  Updated: 2025-09-23T12:33:40Z
+  Updated: 2025-10-04T22:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -935,7 +935,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Skyline-Multi-Hook-Black-8.jpg?v=1727658777
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - Black](https://everydayhome.co.nz/products/sticks-multi-hook-black): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-09-30T01:37:12Z
+  Updated: 2025-10-04T22:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1355,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Compact-Dish-Drying-Rack-Light-Grey-2.png?v=1727659676
   Price: $99.99 NZD
 - [Brabantia SinkSide Dish Drying Rack - Light Grey](https://everydayhome.co.nz/products/dish-drying-rack-light-grey): This Brabantia SinkSide Dish Drying Rack is designed for keeping your dripping dishes. It has a sleek design, but space for up to 13 plates plus bowls, cutlery and glasses. It has a removable cutlery basket and a sloping drip tray too, so drippings run directly into the sink. This rack is on track!
-  Updated: 2025-09-23T12:35:32Z
+  Updated: 2025-10-05T06:29:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1390,7 +1390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Foldable-Steaming-Board-Pepper-Black-0.png?v=1727659263
   Price: $119.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Grey](https://everydayhome.co.nz/products/foldable-steaming-board-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-09-28T05:07:11Z
+  Updated: 2025-10-05T03:22:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1740,7 +1740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-10-02T20:56:35Z
+  Updated: 2025-10-05T07:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2167,7 +2167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Multi-Organiser-White-UMBRA-0.jpg?v=1731902280
   Price: $59.99 NZD
 - [Umbra Estique Organiser - Black/Walnut](https://everydayhome.co.nz/products/estique-org-blk-wal): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-09-28T03:37:11Z
+  Updated: 2025-10-05T04:37:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2251,7 +2251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Arched-Mirror-Black-UMBRA-1.jpg?v=1731903533
   Price: $279.99 NZD
 - [Umbra Hub Oval Wall Mirror - Black](https://everydayhome.co.nz/products/hub-oval-mirror-45-x-61cm-black): Hub Oval Mirror is the perfect wall decor for heavily trafficked areas like entryways and washrooms. Its rubber rim makes it more durable than most other mirrors while providing a modern, industrialized look. This decorative mirror is a great solution because it helps bounce light around your room, making space appear larger and brighter.
-  Updated: 2025-09-25T13:00:20Z
+  Updated: 2025-10-05T05:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2300,7 +2300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Light-Walnut-UMBRA-7.jpg?v=1731902033
   Price: $99.99 NZD
 - [Montage Shelf - White](https://everydayhome.co.nz/products/montage-shelf-white): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-10-02T16:26:24Z
+  Updated: 2025-10-04T21:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2657,7 +2657,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBin_60L-MattBlack-8710755402562Brabantia_96dpi_1000x1000px_7_NR-4644.png?v=1734487787
   Price: $469.99 NZD
 - [Brabantia Touch Bin - 60L White](https://everydayhome.co.nz/products/touch-bin-60l-white-w-white-lid): No time to waste? This XXL Brabantia Touch Bin 60 litre is a big help in many ways. The lid has a soft-touch opening - easy and light operation at the touch of your fingers. It also has a protection rim and it is big enough to empty a dustpan without spilling. Simply one big plus!
-  Updated: 2025-09-23T12:37:16Z
+  Updated: 2025-10-05T04:07:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2741,7 +2741,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-03T19:52:10Z
+  Updated: 2025-10-05T01:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2853,7 +2853,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBatteryFreeBathroomScale-DarkGrey-8710755281341Brabantia_96dpi_1000x1000px_7_NR-22057.png?v=1734407312
   Price: $119.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - White](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-white): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-09-29T07:22:10Z
+  Updated: 2025-10-05T05:37:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2957,15 +2957,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattSteel-8710755385285Brabantia_96dpi_1000x1000px_7_NR-24802.png?v=1734469205
   Price: $74.95 NZD
-- [Brabantia Tasty+ Chopping Board Set - Mixed Colours](https://everydayhome.co.nz/products/chopping-board-set-3-boards-mixed-colours): Dicing, slicing, chopping or cutting, it's easier on this Tasty+ Chopping Board Set. Three non-slip stylish chopping boards that can be used on both sides. There is a multifunctional M size board, a compact S size board and a roomy L size board. Easy to use, easy to clean and easy to nest. Get them on board now!
-  Updated: 2025-09-28T08:07:13Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardSet-Mixed-8710755123160Brabantia_96dpi_1000x1000px_7_NR-17723.png?v=1733802099
-  Price: $79.95 NZD
 - [Brabantia Knife Block with Utensil Holder - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-utensil-holder-dark-grey): Cut the clutter in your kitchen with this Brabantia Profile Knife Block with Utensil Holder. This stylish dark grey block keeps all your favourite kitchen tools together. Ultimate organising!
-  Updated: 2025-09-29T21:23:27Z
+  Updated: 2025-10-04T22:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3042,7 +3035,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-DarkGrey-8710755203480Brabantia_96dpi_1000x1000px_7_NR-27947.png?v=1734393319
   Price: $17.99 NZD
 - [Brabantia Make & Take Bento Box - Large Jade Green](https://everydayhome.co.nz/products/make-take-bento-box-large-jade-green): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-31T00:58:16Z
+  Updated: 2025-10-05T02:22:30Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3112,7 +3105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerSqueegee-DarkGrey-8710755280160Brabantia_300dpi_4303x6455px_6_NR-20019_96dpi_1000x1000px_7_NR-22283.png?v=1734479174
   Price: $41.95 NZD
 - [Brabantia ReNew Shower Squeegee - White](https://everydayhome.co.nz/products/shower-squeegee-white): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-09-28T17:37:10Z
+  Updated: 2025-10-05T07:07:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -4991,28 +4984,28 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-10-04T11:06:40Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-09-25T00:53:03Z
   Total Products: 25
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 55
 - [Art & Decor](https://everydayhome.co.nz/collections/art-decor)
   Updated: 2025-09-23T12:13:00Z
@@ -5060,7 +5053,7 @@
   Updated: 2025-09-25T00:52:25Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-10-04T11:06:40Z
@@ -5135,7 +5128,7 @@
   Updated: 2025-10-04T11:06:40Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
-  Updated: 2025-10-01T11:08:11Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
   Updated: 2025-10-04T11:06:40Z
@@ -5210,13 +5203,13 @@
   Updated: 2025-09-23T12:14:08Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
   Updated: 2025-10-04T11:06:40Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-09-23T12:19:45Z
@@ -5258,10 +5251,10 @@
   Updated: 2025-10-02T04:08:40Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 893
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-10-04T11:06:40Z
@@ -5294,7 +5287,7 @@
   Updated: 2025-10-04T11:06:40Z
   Total Products: 54
 - [On The Go](https://everydayhome.co.nz/collections/on-the-go)
-  Updated: 2025-09-18T11:08:07Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
   Updated: 2025-09-23T12:18:22Z
@@ -5303,10 +5296,10 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-10-04T11:06:40Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 893
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-10-04T11:06:40Z
@@ -5327,7 +5320,7 @@
   Updated: 2025-10-04T11:06:40Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-10-02T11:07:03Z
+  Updated: 2025-10-05T11:08:12Z
   Total Products: 240
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
   Updated: 2025-10-04T11:06:40Z
