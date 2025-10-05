@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-05T04:00:31.930Z
+- Updated At: 2025-10-05T12:00:31.534Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1561,13 +1561,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9fd86dfb-a2fb-45ce-86b6-fd2bf440d876.jpg?v=1751453532
   Price: 660,00 € EUR
-- [Spendor LS3/5A Monitor 15 Ohm Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/spendor-ls3-5a-monitor-gebraucht-kaufen): Spendor LS3/5A Monitor 15 Ohm Lautsprecher gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-03T12:10:13Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a4a6dce1-d7cd-4b90-885f-c493311df3a2.jpg?v=1751377426
-  Price: 1.960,00 € EUR
 - [ELV RVV 100 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/elv-rvv-100-gebraucht-kaufen): ELV RVV 100 gebraucht kaufen ✅ Geprüfter Röhrenvorverstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:14Z
   Vendor: WorldWideHifi
@@ -2191,13 +2184,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_61fb322c-3656-4a11-9542-27d00a9cff2b.jpg?v=1759251011
   Price: 186,00 € EUR
-- [Denon Network Receiver DRA-100 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/denon-network-receiver-dra-100-gebraucht-kaufen): Denon Network Receiver DRA-100 gebraucht kaufen ✅ Geprüfter Netzwerk Verstärker gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T05:00:41Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a15427b1-c295-4a06-a974-cd808937f5d1.jpg?v=1759251014
-  Price: 290,00 € EUR
 - [Maxell 35-180 XLII Studio Recording Tape kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/maxell-35-180-xlii-studio-recording-tape-metal-kaufen): Maxell 35-180 XLII Studio Recording Tape kaufen ✅ Hochwertiges Tape NEU, SEALED kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-01T04:50:23Z
   Vendor: WorldWideHiFi
@@ -2268,13 +2254,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_ef9e83ca-84da-458d-aaa8-5811734e14af.jpg?v=1759251054
   Price: 3.920,00 € EUR
-- [Thorens TD 2001 RDC gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/thorens-td-2001-rdc-gebraucht-kaufen): Thorens TD 2001 RDC gebraucht kaufen ✅ Plattenspieler in geprüftem Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-01T04:51:10Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c08a1b77-ec9a-42c1-8a04-e17aadd10049.jpg?v=1759251059
-  Price: 1.086,00 € EUR
 - [Dual CS 731 Q Turntable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/dual-cs-731-q-audio-technica-gebraucht-kaufen): Dual CS 731 Q Turntable gebraucht kaufen ✅ Geprüfter Plattenspieler mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-01T04:51:14Z
   Vendor: WorldWideHiFi
@@ -2300,7 +2279,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-10-04T11:27:35Z
+  Updated: 2025-10-05T11:21:19Z
   Total Products: 48
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-30T11:22:02Z
@@ -2324,7 +2303,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-30T17:12:44Z
   Total Products: 12
 - [Gebrauchte Plattenspieler kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-plattenspieler-kaufen): Gebrauchte Plattenspieler kaufen ✓ HiFi Schallplattenspeieler & Turntables im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-09-30T17:12:44Z
+  Updated: 2025-10-05T11:21:19Z
   Total Products: 38
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-09-30T17:09:19Z
@@ -2366,8 +2345,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-24T13:26:40Z
   Total Products: 5
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-04T18:31:23Z
-  Total Products: 102
+  Updated: 2025-10-05T11:21:19Z
+  Total Products: 105
 
 ## Store Pages
 
