@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-05T16:00:35.122Z
+- Updated At: 2025-10-05T20:00:34.653Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -101,7 +101,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £77.40 GBP
 - [Watermelon Seed Oil, Refined](https://inky-ingredients.com/products/watermelon-seed-oil-refined): Refined Watermelon Seed Oil is a lightweight, fast-absorbing oil, known for its hydrating and rejuvenating properties. Suitable for skincare and haircare, it imparts moisture, promoting a healthy and vibrant appearance.
-  Updated: 2025-10-01T11:43:30Z
+  Updated: 2025-10-05T19:47:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3059,7 +3059,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £184.80 GBP
 - [Marula Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/marula-seed-oil-cold-pressed-organic): Organic cold-pressed Marula Seed Oil is rich in antioxidants and fatty acids, providing deep hydration and nourishment to the skin. It absorbs quickly, leaving a silky finish, making it a luxurious addition to skincare routines.
-  Updated: 2025-10-03T19:12:56Z
+  Updated: 2025-10-05T19:47:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4277,7 +4277,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £32.34 GBP
 - [Borage Seed Oil 19% GLA, Refined](https://inky-ingredients.com/products/borage-seed-oil-19-gla-refined): Refined Borage Seed Oil, with 19% GLA, is a skin-friendly oil. Its purity and essential fatty acids contribute to skin vitality, offering hydration and promoting a balanced and rejuvenated complexion.
-  Updated: 2025-10-01T11:43:30Z
+  Updated: 2025-10-05T19:47:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4388,7 +4388,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £876.00 GBP
 - [Blueberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/blueberry-seed-oil-cold-pressed): Cold-pressed Blueberry Seed Oil is a nourishing oil packed with antioxidants and essential fatty acids. It supports skin hydration and elasticity, making it a valuable addition to skincare formulations. Its cold-pressed extraction method ensures the preservation of its natural benefits.
-  Updated: 2025-09-26T09:31:47Z
+  Updated: 2025-10-05T19:47:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4430,7 +4430,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £115.60 GBP
 - [Blackberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/blackberry-seed-oil-cold-pressed): Cold-pressed Blackberry Seed Oil is a nourishing elixir for the skin. Packed with essential fatty acids and antioxidants, it promotes hydration, elasticity, and a youthful radiance for all skin types.
-  Updated: 2025-10-03T19:12:55Z
+  Updated: 2025-10-05T19:47:20Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4793,7 +4793,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £470.40 GBP
 - [Gotu Kola (Centella) Leaf, Extract](https://inky-ingredients.com/products/gotu-kola-centella-leaf-extract): Gotu Kola Leaf Extract is a botanical treasure for skincare. Renowned for its anti-aging and healing properties, it supports collagen production and helps reduce inflammation. A valuable addition to formulations aiming for skin rejuvenation and overall wellness.
-  Updated: 2025-09-30T20:43:55Z
+  Updated: 2025-10-05T18:29:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
