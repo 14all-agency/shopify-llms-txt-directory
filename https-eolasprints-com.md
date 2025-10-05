@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-05T08:00:32.223Z
+- Updated At: 2025-10-05T12:00:33.493Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1624,7 +1624,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-03T11:16:01Z
   Total Products: 5
 - [TPU - Eolas Prints](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-10-03T11:16:01Z
+  Updated: 2025-10-05T11:13:04Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1633,7 +1633,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-09-30T11:15:46Z
   Total Products: 5
 - [3D Filament Offers - Eolas Prints](https://eolasprints.com/collections/3d-filament-offers): Eolas Prints presents certified PLA filament and materials in our transition filament sale. Find quality ISO and REACH compliant supplies for your 3D printing projects.
-  Updated: 2025-09-28T22:38:23Z
+  Updated: 2025-10-05T11:13:04Z
   Total Products: 3
 - [ABS - Eolas Prints](https://eolasprints.com/collections/abs): Eolas Prints provides high-performance ABS filament for 3D printing, certified for quality and environmental standards, reflecting our calidad y servicio promise.
   Updated: 2025-09-28T22:38:47Z
@@ -1642,7 +1642,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-09-28T22:39:05Z
   Total Products: 5
 - [Shop the Best 3D Printer Filaments - PLA, TPU, PETG, ABS, ASA & More](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-10-04T11:12:11Z
+  Updated: 2025-10-05T11:13:04Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-09-29T11:12:35Z
