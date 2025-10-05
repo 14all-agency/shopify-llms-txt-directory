@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-05T12:01:00.333Z
+- Updated At: 2025-10-05T16:01:00.125Z
 
 ## Products
 
@@ -859,418 +859,418 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-כדורגל-ילדים-צלסי-שלישית-2024-25?variant=46850545582330)
     Availability: Available
     Price: ‏110.00 ‏₪ ILS
-- [חולצת בית מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25): הראה את תמיכתך בשדות האדומים עם חולצת הבית הזו של מנצ'סטר יונייטד 24/25. עם העיצוב המקצועי שלה, חולצה זו מושלמת להצגת אהבתך לצוות בצורה מסוגננת ועדינה. לבשו אותו בגאווה והראו את מסירותכם למשחק היפה.
-  Updated: 2025-10-02T11:30:48Z
+- [חולצת בית מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25): הראה את תמיכתך בשדות האדומים עם חולצת הבית הזו של מנצ'סטר יונייטד 24/25. עם העיצוב המקצועי שלה, חולצה זו מושלמת להצגת אהבתך לצוות בצורה מסוגננת ועדינה. לבשו אותו בגאווה והראו את מסירותכם למשחק היפה.
+  Updated: 2025-10-05T13:38:38Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4e489e3a-6a47-4b35-a826-888644d33d75.png?v=1738566854
-  - [S](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46851094708474)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46851094708474)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46851094741242)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46851094741242)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46851094774010)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46851094774010)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46851094806778)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46851094806778)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46851094839546)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46851094839546)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46851094872314)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46851094872314)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-בית-מנצסטר-יונייטד-24-25?variant=46881234878714)
+  - [XXXXL](https://www.rsport.co.il/products/football-shirt-mnu-home-24-25?variant=46881234878714)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-- [חולצת חוץ מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25): שחרר את התשוקה שלך למנצ'סטר יונייטד עם חולצת חוץ מסוגננת זו. חולצה זו תוכננה להפגין את אהבתך לקבוצה, והיא מושלמת להפגין את גאוות הקבוצה שלך על המגרש ומחוצה לו. תמכו בקבוצה האהובה עליכם בסטייל עם חולצת החוץ הזו של מנצ'סטר יונייטד 24/25.
-  Updated: 2025-10-02T11:30:48Z
+- [חולצת חוץ מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25): שחרר את התשוקה שלך למנצ'סטר יונייטד עם חולצת חוץ מסוגננת זו. חולצה זו תוכננה להפגין את אהבתך לקבוצה, והיא מושלמת להפגין את גאוות הקבוצה שלך על המגרש ומחוצה לו. תמכו בקבוצה האהובה עליכם בסטייל עם חולצת החוץ הזו של מנצ'סטר יונייטד 24/25.
+  Updated: 2025-10-05T13:38:38Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/ad21cxb4a-4456gdfs-564648-4894-4eq89q.jpg?v=1738566856
-  - [S](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46851105489146)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46851105489146)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46851105521914)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46851105521914)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46851105554682)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46851105554682)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46851105587450)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46851105587450)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46851105620218)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46851105620218)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46851105652986)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46851105652986)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-חוץ-מנצסטר-יונייטד-24-25?variant=46881238712570)
+  - [XXXXL](https://www.rsport.co.il/products/football-shirt-mnu-away-24-25?variant=46881238712570)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-- [חולצת מנצ'סטר יונייטד שלישית 24/25](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25): הראה את תמיכתך על המגרש עם מנצ'סטר יונייטד 24/25 ג'רזי שלישי. חולצה זו, שעוצבה במומחיות לנוחות אולטימטיבית, מציגה בגאווה את רוח הצוות שלך. מייצגים בגאווה ותשוקה לאורך כל העונה.
-  Updated: 2025-10-02T11:30:49Z
+- [חולצת מנצ'סטר יונייטד שלישית 24/25](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25): הראה את תמיכתך על המגרש עם מנצ'סטר יונייטד 24/25 ג'רזי שלישי. חולצה זו, שעוצבה במומחיות לנוחות אולטימטיבית, מציגה בגאווה את רוח הצוות שלך. מייצגים בגאווה ותשוקה לאורך כל העונה.
+  Updated: 2025-10-05T13:38:38Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/dsa21da6-126bg498aq-98q49qw-8wer87q8.jpg?v=1738566857
-  - [S](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46851107062010)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46851107062010)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46851107094778)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46851107094778)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46851107127546)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46851107127546)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46851107160314)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46851107160314)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46851107193082)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46851107193082)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46851107225850)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46851107225850)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-שלישית-24-25?variant=46881245626618)
+  - [XXXXL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25?variant=46881245626618)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-- [חולצת שוער שלישית מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25): חולצת השוער השלישית הזו של מנצ'סטר יונייטד (24/25) בשחור נועדה לספק נוחות ותמיכה יוצאי דופן לשוערים במהלך משחקים. העיצוב המלוטש והמסוגנן שלו מושלם עבור כל אוהד מנצ'סטר יונייטד. צבע: שחור מגדר: גברים גיל: בוגרים מחלקה: גברים סוג בד: 100% פוליאסטר סוג תלבושת: שלישית
-  Updated: 2025-10-02T11:30:24Z
+- [חולצת שוער שלישית מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper): חולצת השוער השלישית הזו של מנצ'סטר יונייטד (24/25) בשחור נועדה לספק נוחות ותמיכה יוצאי דופן לשוערים במהלך משחקים. העיצוב המלוטש והמסוגנן שלו מושלם עבור כל אוהד מנצ'סטר יונייטד. צבע: שחור מגדר: גברים גיל: בוגרים מחלקה: גברים סוג בד: 100% פוליאסטר סוג תלבושת: שלישית
+  Updated: 2025-10-05T13:38:37Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/eqw1eqw4qw9_-84eq89489wqe4561qwe-21.jpg?v=1738566859
-  - [S](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25?variant=46851112730874)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper?variant=46851112730874)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25?variant=46851112763642)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper?variant=46851112763642)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25?variant=46851112796410)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper?variant=46851112796410)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25?variant=46851112829178)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper?variant=46851112829178)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25?variant=46851112861946)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper?variant=46851112861946)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-שוער-מנצסטר-יונייטד-24-25?variant=46851112894714)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-third-24-25-goalkeeper?variant=46851112894714)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-- [מכנסיים קצרים מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25): השלם את התלבושת הביתית שלך עם מכנסי 24/25 העונה של מנצ'סטר יונייטד. הפגינו את גאוות הצוות שלכם והישארו בנוח במכנסיים הקצרים המסוגננים האלה. מושלם עבור כל אוהד או חובב כדורגל. צבע: לבן מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: בית
-  Updated: 2025-09-07T22:18:13Z
+- [מכנסיים קצרים מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men): השלם את התלבושת הביתית שלך עם מכנסי 24/25 העונה של מנצ'סטר יונייטד. הפגינו את גאוות הצוות שלכם והישארו בנוח במכנסיים הקצרים המסוגננים האלה. מושלם עבור כל אוהד או חובב כדורגל. צבע: לבן מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: בית
+  Updated: 2025-10-05T13:38:37Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/eq21qew8-54654eq-21ewq8re-eqw8ew.jpg?v=1738566860
-  - [S](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25?variant=46851114336506)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men?variant=46851114336506)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25?variant=46851114369274)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men?variant=46851114369274)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25?variant=46851114402042)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men?variant=46851114402042)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25?variant=46851114434810)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men?variant=46851114434810)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25?variant=46851114467578)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men?variant=46851114467578)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-24-25?variant=46851114500346)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-home-24-25-men?variant=46851114500346)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-- [מכנסיים קצרים מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25): השלם את התלבושת הביתית שלך עם מכנסי החוץ של מנצ'סטר יונייטד ל-24/25. המכנסיים הקצרים האיכותיים הללו מותאמים לנוחות וכוללים את הלוגו האייקוני של מנצ'סטר יונייטד. מושלם עבור כל מעריץ או ספורטאי, מכנסיים קצרים אלה מספקים גם סגנון וגם פונקציונליות. צבע: כחול מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: חוץ
-  Updated: 2025-09-07T22:18:12Z
+- [מכנסיים קצרים מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men): השלם את התלבושת הביתית שלך עם מכנסי החוץ של מנצ'סטר יונייטד ל-24/25. המכנסיים הקצרים האיכותיים הללו מותאמים לנוחות וכוללים את הלוגו האייקוני של מנצ'סטר יונייטד. מושלם עבור כל מעריץ או ספורטאי, מכנסיים קצרים אלה מספקים גם סגנון וגם פונקציונליות. צבע: כחול מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: חוץ
+  Updated: 2025-10-05T13:38:37Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/da2187897qrw-5464da98-87987q-897.jpg?v=1738566862
-  - [S](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25?variant=46851116400890)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men?variant=46851116400890)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25?variant=46851116433658)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men?variant=46851116433658)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25?variant=46851116466426)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men?variant=46851116466426)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25?variant=46851116499194)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men?variant=46851116499194)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25?variant=46851116531962)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men?variant=46851116531962)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-24-25?variant=46851116564730)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-away-24-25-men?variant=46851116564730)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-- [מכנסיים קצרים מנצ'סטר יונייטד שלישי 24/25](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25): הרם את המשחק שלך עם ה-Third Shorts של מנצ'סטר יונייטד 24/25! השלם את הערכה השלישית שלך עם מכנסיים קצרים מסוגננים ונוחים אלה, המיועדים לביצועים מקסימליים בשטח. השלם את אוסף מנצ'סטר יונייטד שלך והשתלט על המשחק. צבע: שחור מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: שלישי
-  Updated: 2025-09-07T22:18:12Z
+- [מכנסיים קצרים מנצ'סטר יונייטד שלישי 24/25](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men): הרם את המשחק שלך עם ה-Third Shorts של מנצ'סטר יונייטד 24/25! השלם את הערכה השלישית שלך עם מכנסיים קצרים מסוגננים ונוחים אלה, המיועדים לביצועים מקסימליים בשטח. השלם את אוסף מנצ'סטר יונייטד שלך והשתלט על המשחק. צבע: שחור מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: שלישי
+  Updated: 2025-10-05T13:38:37Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/322ads564-87eqw97q-5498897dsa-dada489.jpg?v=1738566862
-  - [S](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=47355934703866)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men?variant=47355934703866)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=46851121643770)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men?variant=46851121643770)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=46851121676538)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men?variant=46851121676538)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=46851121709306)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men?variant=46851121709306)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=46851121742074)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men?variant=46851121742074)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=46851121774842)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-third-24-25-men?variant=46851121774842)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-- [גרביים כדורגל מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/football-socks-mnu-home-black-24-25): גרביים כדורגל מנצ'סטר יונייטד בית 24/25 מיועדות לאוהדים שרוצים נוחות וביצועים במגרש. עשויות מבד איכותי שמנדף זיעה ומעניק תחושת יובש לאורך כל המשחק. הגרביים מספקות גמישות ותמיכה מקסימלית, מתאימות לאימונים, למשחקים או ללבוש יום-יומי. השלימו את הלוק שלכם ותמכו בקבוצה עם פריט פונקציונלי ומעוצב, שמבטיח נוחות לאורך כל הפעילות.
-  Updated: 2025-10-05T11:06:08Z
+- [גרביים כדורגל מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/football-socks-mnu-home-24-25): גרביים כדורגל מנצ'סטר יונייטד בית 24/25 מיועדות לאוהדים שרוצים נוחות וביצועים במגרש. עשויות מבד איכותי שמנדף זיעה ומעניק תחושת יובש לאורך כל המשחק. הגרביים מספקות גמישות ותמיכה מקסימלית, מתאימות לאימונים, למשחקים או ללבוש יום-יומי. השלימו את הלוק שלכם ותמכו בקבוצה עם פריט פונקציונלי ומעוצב, שמבטיח נוחות לאורך כל הפעילות.
+  Updated: 2025-10-05T13:38:28Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/babq87w92s4f8hg-5484-58889-5eq4eq84q.jpg?v=1738566864
-  - [ילדים 28 - 37](https://www.rsport.co.il/products/football-socks-mnu-home-black-24-25?variant=46862038302970)
+  - [ילדים 28 - 37](https://www.rsport.co.il/products/football-socks-mnu-home-24-25?variant=46862038302970)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-  - [בוגרים 38 - 47](https://www.rsport.co.il/products/football-socks-mnu-home-black-24-25?variant=46862038335738)
+  - [בוגרים 38 - 47](https://www.rsport.co.il/products/football-socks-mnu-home-24-25?variant=46862038335738)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [חולצת משחקי בית מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית): תמכו בקבוצה האהובה עליכם עם חולצת המשחק הביתית האותנטית הזו של מנצ'סטר יונייטד 24/25. עשוי מחומרים איכותיים, ג'רזי זה מיועד לנוחות ועמידות. החולצה הזו, חובה לכל אוהד, תגרום לך להרגיש שאתה חלק מהצוות. מושלם ליום משחק או ללבוש קז'ואל.
-  Updated: 2025-09-07T22:18:11Z
+- [חולצת משחקי בית מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25): תמכו בקבוצה האהובה עליכם עם חולצת המשחק הביתית האותנטית הזו של מנצ'סטר יונייטד 24/25. עשוי מחומרים איכותיים, ג'רזי זה מיועד לנוחות ועמידות. החולצה הזו, חובה לכל אוהד, תגרום לך להרגיש שאתה חלק מהצוות. מושלם ליום משחק או ללבוש קז'ואל.
+  Updated: 2025-10-05T13:38:28Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/a458e-231qew8-21qew-878954qewq87.jpg?v=1738566865
-  - [S](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=47404595380474)
+  - [S](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25?variant=47404595380474)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=46851826385146)
+  - [M](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25?variant=46851826385146)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=46851826417914)
+  - [L](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25?variant=46851826417914)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=46881267024122)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25?variant=46881267024122)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=47404595413242)
+  - [XL](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25?variant=47404595413242)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=47404595446010)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-match-mnu-home-24-25?variant=47404595446010)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-- [חולצת משחקי חוץ מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית): תמוך במנצ'סטר יונייטד עם חולצת החוץ לעונת 2024/25 בעיצוב עדכני שמביא נגיעה מודרנית למראה הקלאסי של המועדון עשויה 100% פוליאסטר קל ונושם, מספקת נוחות מרבית ותחושת יובש לאורך כל משחק או אימון הגזרה האותנטית בהשראת החולצה שלובשים השחקנים על המגרש, מתאימה לאוהדים שרוצים להרגיש חלק מהקבוצה בכל רגע
-  Updated: 2025-10-05T10:47:43Z
+- [חולצת משחקי חוץ מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25): תמוך במנצ'סטר יונייטד עם חולצת החוץ לעונת 2024/25 בעיצוב עדכני שמביא נגיעה מודרנית למראה הקלאסי של המועדון עשויה 100% פוליאסטר קל ונושם, מספקת נוחות מרבית ותחושת יובש לאורך כל משחק או אימון הגזרה האותנטית בהשראת החולצה שלובשים השחקנים על המגרש, מתאימה לאוהדים שרוצים להרגיש חלק מהקבוצה בכל רגע
+  Updated: 2025-10-05T13:38:28Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/n4ad8ewq789-6eq4648q9-87eq98dfg45_19f8554f-52fa-4559-928d-3fd93914f274.jpg?v=1738566867
-  - [S](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית?variant=46851917611258)
+  - [S](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25?variant=46851917611258)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית?variant=46851917644026)
+  - [M](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25?variant=46851917644026)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית?variant=46851917676794)
+  - [L](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25?variant=46851917676794)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית?variant=46851917709562)
+  - [XL](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25?variant=46851917709562)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית?variant=46851917742330)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25?variant=46851917742330)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית?variant=46881268171002)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25?variant=46881268171002)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-- [חולצת משחקי מנצ'סטר יונייטד שלישית  24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית): חווה אותנטיות עם החולצה הרשמית של מנצ'סטר יונייטד 24/25. העיצוב המלוטש, ההתאמה ההדוקה והפרטים האמיתיים גורמים לך להרגיש כמו חלק מהצוות. הראה את תמיכתך ותרגיש כמו שחקן אמיתי.
-  Updated: 2025-09-07T22:18:10Z
+- [חולצת משחקי מנצ'סטר יונייטד שלישית  24/25 אותנטית](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25): חווה אותנטיות עם החולצה הרשמית של מנצ'סטר יונייטד 24/25. העיצוב המלוטש, ההתאמה ההדוקה והפרטים האמיתיים גורמים לך להרגיש כמו חלק מהצוות. הראה את תמיכתך ותרגיש כמו שחקן אמיתי.
+  Updated: 2025-10-05T13:38:28Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/das12123adsqe789wq-87eq9q54das6.jpg?v=1738566869
-  - [S](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית?variant=46851920527610)
+  - [S](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25?variant=46851920527610)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית?variant=46851920560378)
+  - [M](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25?variant=46851920560378)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית?variant=46851920593146)
+  - [L](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25?variant=46851920593146)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית?variant=46851920625914)
+  - [XL](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25?variant=46851920625914)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית?variant=46851920658682)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25?variant=46851920658682)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-24-25-אותנטית?variant=46881269416186)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-match-mnu-third-24-25?variant=46881269416186)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-- [מכנס קצר אותנטי מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25): הישאר קריר ונוח עם מכנסי הבית האותנטיים האלה של מנצ'סטר יונייטד לעונת 24/25. מעוצב עם אותן תכונות כמו מכנסיים קצרים של השחקנים, אתה יכול לשחק בביטחון ובסגנון. מושלם עבור כל מעריץ או ספורטאי. צבע: לבן מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: בית
-  Updated: 2025-09-07T22:18:10Z
+- [מכנס קצר אותנטי מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25): הישאר קריר ונוח עם מכנסי הבית האותנטיים האלה של מנצ'סטר יונייטד לעונת 24/25. מעוצב עם אותן תכונות כמו מכנסיים קצרים של השחקנים, אתה יכול לשחק בביטחון ובסגנון. מושלם עבור כל מעריץ או ספורטאי. צבע: לבן מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: בית
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2145ad879eqw978hg456jh-eqw8778q-51456q12.jpg?v=1738566870
-  - [S](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25?variant=46851922788602)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25?variant=46851922788602)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25?variant=46851922821370)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25?variant=46851922821370)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25?variant=46851922854138)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25?variant=46851922854138)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25?variant=46851922886906)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25?variant=46851922886906)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25?variant=46851922919674)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25?variant=46851922919674)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-בית-24-25?variant=46881270563066)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-match-home-24-25?variant=46881270563066)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [מכנס קצר אותנטי מנצ'סטר יונייטד חוץ](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ): מכנסי החוץ האותנטיים של מנצ'סטר יונייטד משלבים את צבעי הקבוצה המסורתיים עם עיצוב מודרני ונוח. עשויים מבד איכותי ונושם שמנדף זיעה ומספק חופש תנועה מלא, מתאימים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להרגיש חלק מהקבוצה גם מחוץ למגרש.
-  Updated: 2025-10-04T13:46:05Z
+- [מכנס קצר אותנטי מנצ'סטר יונייטד חוץ](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25): מכנסי החוץ האותנטיים של מנצ'סטר יונייטד משלבים את צבעי הקבוצה המסורתיים עם עיצוב מודרני ונוח. עשויים מבד איכותי ונושם שמנדף זיעה ומספק חופש תנועה מלא, מתאימים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להרגיש חלק מהקבוצה גם מחוץ למגרש.
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/a654dsa8ew78q-78t89y-da546a21qew-213.jpg?v=1738566872
-  - [S](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ?variant=46851923542266)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25?variant=46851923542266)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ?variant=46851923575034)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25?variant=46851923575034)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ?variant=46851923607802)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25?variant=46851923607802)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ?variant=46851923640570)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25?variant=46851923640570)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ?variant=46851923673338)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25?variant=46851923673338)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-חוץ?variant=46881273741562)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-match-away-24-25?variant=46881273741562)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [מכנס קצר אותנטי מנצ'סטר יונייטד 24/25 שלישי](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי): השלם את המראה שלך עם המכנסיים הקצרים האותנטיים של מנצ'סטר יונייטד 24/25. המכנס הקצר הזה עשוי מחומרים איכותיים ומבטיח נוחות וסטייל תוך הצגת תמיכתך בצוות. קבל את ההתאמה המושלמת והשלם את לבוש המעריצים שלך עם פריט חובה זה. צבע: לבן מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: שלישית
-  Updated: 2025-09-07T22:18:08Z
+- [מכנס קצר אותנטי מנצ'סטר יונייטד 24/25 שלישי](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25): השלם את המראה שלך עם המכנסיים הקצרים האותנטיים של מנצ'סטר יונייטד 24/25. המכנס הקצר הזה עשוי מחומרים איכותיים ומבטיח נוחות וסטייל תוך הצגת תמיכתך בצוות. קבל את ההתאמה המושלמת והשלם את לבוש המעריצים שלך עם פריט חובה זה. צבע: לבן מגדר: גברים גיל: בוגרים סוג בד: 100% פוליאסטר סוג תלבושת: שלישית
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/n456das45a-748qew97q32.jpg?v=1738566874
-  - [S](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי?variant=46852101079290)
+  - [S](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25?variant=46852101079290)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי?variant=46852101112058)
+  - [M](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25?variant=46852101112058)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי?variant=46852101144826)
+  - [L](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25?variant=46852101144826)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי?variant=46852101177594)
+  - [XL](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25?variant=46852101177594)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי?variant=46852101210362)
+  - [XXL](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25?variant=46852101210362)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנס-קצר-אותנטי-מנצסטר-יונייטד-24-25-שלישי?variant=46881274855674)
+  - [XXXL](https://www.rsport.co.il/products/football-match-shorts-mnu-third-24-25?variant=46881274855674)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת ילדים מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25): הכינו את ילדכם ליום המשחקים עם ערכת הבית הזו של מנצ'סטר יונייטד! ערכה זו, עשויה מחומרים איכותיים, תשמור על ילדכם נוח ומסוגנן תוך הצגת תמיכה בקבוצה האהובה עליו. מושלם לעונת 24/25. צבע: אדום חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: בית
-  Updated: 2025-09-25T01:05:32Z
+- [חליפת ילדים מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25): הכינו את ילדכם ליום המשחקים עם ערכת הבית הזו של מנצ'סטר יונייטד! ערכה זו, עשויה מחומרים איכותיים, תשמור על ילדכם נוח ומסוגנן תוך הצגת תמיכה בקבוצה האהובה עליו. מושלם לעונת 24/25. צבע: אדום חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: בית
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/ads321qew879-89489-4e984-849q12das.jpg?v=1738566874
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=46852408377594)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=46852408377594)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=47404606554362)
+  - [XS](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=47404606554362)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=46852408410362)
+  - [S](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=46852408410362)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=46852408443130)
+  - [M](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=46852408443130)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=47404606587130)
+  - [L](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=47404606587130)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=47404606619898)
+  - [XL](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=47404606619898)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-24-25?variant=46852408541434)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-mnu-home-24-25?variant=46852408541434)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת ילדים מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25): חולצת חוץ לילדים של מנצ'סטר יונייטד בעיצוב מקצועי לעונת 2024/2025. חומר איכותי מבטיח נוחות ועמידות במגרש ומחוצה לו. הצג את תמיכתך בצוות בסטייל. צבע: שחור חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: חוץ
-  Updated: 2025-09-25T23:25:54Z
+- [חליפת ילדים מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25): חולצת חוץ לילדים של מנצ'סטר יונייטד בעיצוב מקצועי לעונת 2024/2025. חומר איכותי מבטיח נוחות ועמידות במגרש ומחוצה לו. הצג את תמיכתך בצוות בסטייל. צבע: שחור חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: חוץ
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/eq84eq9-1231eqw98-321eqw9.jpg?v=1738566875
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410081530)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410081530)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410048762)
+  - [XS](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410048762)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410114298)
+  - [S](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410114298)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410147066)
+  - [M](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410147066)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410179834)
+  - [L](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410179834)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410212602)
+  - [XL](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410212602)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-24-25?variant=46852410245370)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-mnu-away-24-25?variant=46852410245370)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חליפת ילדים מנצ'סטר יונייטד שלישית 24/25](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25): תמכו בקבוצה האהובה על הילד הקטן שלכם עם ערכת הבית הזו של מנצ'סטר יונייטד לעונת 24/25. עשויה מחומרים איכותיים, ערכה שלישית זו בטוח תשמור אותם נוחים ומסוגננים במגרש ומחוצה לו. צבע: לבן חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: שלישית
-  Updated: 2025-09-18T18:31:24Z
+- [חליפת ילדים מנצ'סטר יונייטד שלישית 24/25](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25): תמכו בקבוצה האהובה על הילד הקטן שלכם עם ערכת הבית הזו של מנצ'סטר יונייטד לעונת 24/25. עשויה מחומרים איכותיים, ערכה שלישית זו בטוח תשמור אותם נוחים ומסוגננים במגרש ומחוצה לו. צבע: לבן חליפה כולל גרביים מחלקה: ילדים סוג בד: 100% פוליאסטר סוג תלבושת: שלישית
+  Updated: 2025-10-05T13:38:25Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/das51eqw894-87qe9w1565eqw4.jpg?v=1748475243
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=46852413849850)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=46852413849850)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=46852413817082)
+  - [XS](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=46852413817082)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=46852413882618)
+  - [S](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=46852413882618)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=46852413915386)
+  - [M](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=46852413915386)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=47354513228026)
+  - [L](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=47354513228026)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=46852413980922)
+  - [XL](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=46852413980922)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-שלישית-24-25?variant=46852414013690)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-mnu-third-24-25?variant=46852414013690)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [חולצת משחק מנצ'סטר סיטי בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-מנצסטר-סיטי-בית-24-25): הראה את תמיכתך על המגרש ומחוצה לו עם החולצה הביתית של מנצ'סטר סיטי 24/25. עם העיצוב הנועז שלה והתכונות בהשראת האוהדים, החולצה הזו מושלמת לכל אוהד שמעוניין להפגין את גאוות הצוות שלו. עשוי מחומרים איכותיים, מספק גם נוחות וגם סגנון. קבל את שלך היום והראה לעולם את אהבתך למנצ'סטר סיטי!
@@ -6988,8 +6988,8 @@
   - [3XL](https://www.rsport.co.il/products/icon-edition-גופיית-משחק-לברון-גיימס-לוס-אנגלס-לייקרס?variant=46887375274234)
     Availability: Available
     Price: ‏161.42 ‏₪ ILS
-- [גופיית משחק צהובה לברון ג'יימס](https://www.rsport.co.il/products/גופיית-משחק-צהובה-לברון-גיימס): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:25:42Z
+- [גופיית משחק צהובה לברון ג'יימס](https://www.rsport.co.il/products/גופיית-משחק-צהובה-לברון-גיימס): גופיית המשחק הצהובה של לברון ג'יימס מיועדת למשחקים, אימונים וללבישה יומיומית. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא ושומרת על תחושת יובש לאורך כל הפעילות. עיצוב מודרני ונוח שמתאים לכל אוהד שרוצה להרגיש חלק מהקבוצה ולחוות חוויית משחק איכותית.
+  Updated: 2025-10-05T12:53:25Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10609,8 +10609,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-ברוקלין-נטס-קווין-דוראנט?variant=46901847982330)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק City edition | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-city-edition-קווין-דוראנט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:07Z
+- [גופיית משחק City edition | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-city-edition-קווין-דוראנט): גופיית המשחק מהדורת City של קווין דוראנט מספקת נוחות וביצועים גבוהים במגרש. עשויה 100% פוליאסטר קל ונושם, מעניקה חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים ומשחקים. פריט אידיאלי לאוהדים שרוצים ללבוש את צבעי הקבוצה ואת השם של דוראנט במגרש וביום-יום.
+  Updated: 2025-10-05T12:58:08Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10633,8 +10633,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-city-edition-קווין-דוראנט?variant=46901879701754)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחורה City edition | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-שחורה-city-edition-קווין-דוראנט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:08Z
+- [גופיית משחק שחורה City edition | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-שחורה-city-edition-קווין-דוראנט): גופיית המשחק השחורה מהדורת City של קווין דוראנט מספקת נוחות וביצועים גבוהים במגרש. עשויה 100% פוליאסטר קל ונושם, מאפשרת חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים ומשחקים. פריט אידיאלי לכל אוהד שרוצה ללבוש את צבעי הקבוצה ואת השם של דוראנט במגרש וביום-יום.
+  Updated: 2025-10-05T12:55:59Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10681,8 +10681,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-קווין-דוראנט?variant=46901897298170)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחורה מהדורת זהב | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מהדורת-זהב-קווין-דוראנט): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:09Z
+- [גופיית משחק שחורה מהדורת זהב | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-שחורה-מהדורת-זהב-קווין-דוראנט): גופיית המשחק השחורה מהדורת זהב של קווין דוראנט מספקת חוויית משחק איכותית ונוחות מירבית. עשויה 100% פוליאסטר קל ונושם, מאפשרת חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים ומשחקים. מתאימה לאוהדים שרוצים ללבוש את צבעי הקבוצה ואת השם של דוראנט במגרש וביום-יום.
+  Updated: 2025-10-05T12:54:29Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10729,8 +10729,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-city-edition-קווין-דוראנט?variant=46901919908090)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק לבנה Swingman | ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-לבנה-swingman-גיימס-הארדן): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:10Z
+- [גופיית משחק לבנה Swingman | ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-לבנה-swingman-גיימס-הארדן): גופיית המשחק הלבנה Swingman של ג'יימס הארדן מציעה נוחות וביצועים במגרש. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים או משחקים. פריט אידיאלי לכל אוהד שרוצה ללבוש את צבעי הקבוצה ואת השם של הארדן.
+  Updated: 2025-10-05T12:51:02Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11062,8 +11062,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסי-ברוקלין-נטס-שחורים-just-don?variant=46902060482810)
     Availability: Available
     Price: ‏159.99 ‏₪ ILS
-- [גופיית משחק לבנה Swingman | פול ג'ורג'](https://www.rsport.co.il/products/גופיית-משחק-לבנה-swingman-פול-גורג): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:13Z
+- [גופיית משחק לבנה Swingman | פול ג'ורג'](https://www.rsport.co.il/products/גופיית-משחק-לבנה-swingman-פול-גורג): גופיית המשחק הלבנה Swingman של פול ג'ורג' מספקת נוחות וביצועים במגרש. עשויה 100% פוליאסטר קל ונושם, מעניקה חופש תנועה מלא ושומרת על תחושת יובש לאורך כל הפעילות. פריט אידיאלי לכל אוהד שרוצה ללבוש את צבעי הקבוצה ואת השם של פול ג'ורג'.
+  Updated: 2025-10-05T12:51:52Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11086,8 +11086,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-לבנה-swingman-פול-גורג?variant=46902082863354)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחור City Edition | פול ג'ורג'](https://www.rsport.co.il/products/גופיית-משחק-שחור-city-edition-פול-גורג): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:13Z
+- [גופיית משחק שחור City Edition | פול ג'ורג'](https://www.rsport.co.il/products/גופיית-משחק-שחור-city-edition-פול-גורג): גופיית המשחק השחורה מהדורת City של פול ג'ורג' מעניקה חוויית משחק נוחה וביצועים גבוהים. עשויה 100% פוליאסטר קל ונושם, מאפשרת חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים ומשחקים. פריט אידיאלי לכל אוהד שרוצה ללבוש את צבעי הקבוצה ואת השם של פול ג'ורג' במגרש וביום-יום.
+  Updated: 2025-10-05T12:56:47Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11110,32 +11110,32 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-שחור-city-edition-פול-גורג?variant=46902106423546)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [City edition גופיית משחק פול ג'ורג'](https://www.rsport.co.il/products/city-edition): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:14Z
+- [City edition גופיית משחק פול ג'ורג'](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26): גופיית המשחק City Edition של פול ג'ורג' עשויה 100% פוליאסטר קל ונושם. הגזרה נוחה ומאפשרת חופש תנועה מלא במהלך משחקים ואימונים. פריט מתאים לאוהדים שרוצים ללבוש את צבעי הקבוצה במגרש וביום-יום.
+  Updated: 2025-10-05T13:01:54Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_fa5b39ae-0cf9-4119-a517-668f74ae4aaa.jpg?v=1738543727
-  - [S](https://www.rsport.co.il/products/city-edition?variant=46902109208826)
+  - [S](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26?variant=46902109208826)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/city-edition?variant=46902109241594)
+  - [M](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26?variant=46902109241594)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/city-edition?variant=46902109274362)
+  - [L](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26?variant=46902109274362)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/city-edition?variant=46902109307130)
+  - [XL](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26?variant=46902109307130)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [2XL](https://www.rsport.co.il/products/city-edition?variant=46902109339898)
+  - [2XL](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26?variant=46902109339898)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-  - [3XL](https://www.rsport.co.il/products/city-edition?variant=46902109372666)
+  - [3XL](https://www.rsport.co.il/products/jersey-city-edition-pg-25-26?variant=46902109372666)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק כחולה | פול ג'ורג'](https://www.rsport.co.il/products/גופיית-משחק-כחולה-פול-גורג): גופיית המשחק הכחולה של פול ג'ורג' עשויה 100% פוליאסטר קל ונושם, מעניקה חופש תנועה מלא ונוחות מרבית. מושלמת למשחקים, אימונים וללבישה יום-יומית, עם עיצוב מודרני שמדגיש את הביצועים והסטייל של פול ג'ורג' במגרש.
-  Updated: 2025-10-04T13:49:54Z
+  Updated: 2025-10-05T13:56:20Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11158,8 +11158,8 @@
   - [3XL](https://www.rsport.co.il/products/גופיית-משחק-כחולה-פול-גורג?variant=46902112944378)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [גופיית משחק שחורה | פול ג'ורג' Swingman](https://www.rsport.co.il/products/גופיית-משחק-שחורה-פול-גורג-swingman): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:15Z
+- [גופיית משחק שחורה | פול ג'ורג' Swingman](https://www.rsport.co.il/products/גופיית-משחק-שחורה-פול-גורג-swingman): גופיית המשחק השחורה Swingman של פול ג'ורג' מעניקה חוויית משחק נוחה וביצועים גבוהים. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים ומשחקים. פריט אידיאלי לאוהדים שרוצים ללבוש את צבעי הקבוצה ואת השם של פול ג'ורג' במגרש וביום-יום.
+  Updated: 2025-10-05T12:55:16Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -11329,8 +11329,8 @@
   - [2XL](https://www.rsport.co.il/products/מכנסיי-משחק-לוס-אנגלס-קליפרס-city-edition?variant=46904439898362)
     Availability: Available
     Price: ‏249.90 ‏₪ ILS
-- [גופיית משחק City edition | ראסל ווסטברוק](https://www.rsport.co.il/products/גופיית-משחק-city-edition-ראסל-ווסטברוק): בד רשת סרוג דו צדדי בשילוב טכנולוגיית Dri-FIT שומר על הגוף יבש ונוח תהליך הדפסה: שימוש בטכנולוגיית עיבוד חם לייצור דפוסים חומר: המוצר עשוי 100% סיבי פוליאסטר ממוחזרים לבוש Move To Zero שכותרתו "חומרים ברי קיימא" מיוצר עם לפחות 50% חומרים ממוחזרים כחלק מהמסע לעבר עתיד ללא פחמן ופסולת.
-  Updated: 2025-10-02T11:26:15Z
+- [גופיית משחק City edition | ראסל ווסטברוק](https://www.rsport.co.il/products/גופיית-משחק-city-edition-ראסל-ווסטברוק): גופיית המשחק City Edition של ראסל ווסטברוק עשויה 100% פוליאסטר קל ונושם. הגזרה נוחה ומאפשרת חופש תנועה מלא במשחקים ואימונים. פריט שימושי לכל אוהד שרוצה ללבוש את צבעי הקבוצה במגרש או ביום-יום.
+  Updated: 2025-10-05T12:59:56Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14876,7 +14876,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 1993/94](https://www.rsport.co.il/products/retro-shirt-brazil-1993-94): חולצת רטרו נבחרת ברזיל 1993/94 עם עיצוב קלאסי ונוסטלגי
-  Updated: 2025-10-04T07:06:44Z
+  Updated: 2025-10-05T14:30:34Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14897,7 +14897,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 2006](https://www.rsport.co.il/products/retro-shirt-brazil-2006): חולצת רטרו נבחרת ברזיל 2006 בסגנון איקוני, נוחה וקלה ללבישה
-  Updated: 2025-10-04T07:07:51Z
+  Updated: 2025-10-05T13:12:40Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14918,7 +14918,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 2004/06](https://www.rsport.co.il/products/retro-shirt-brazil-2004-06): חולצת רטרו נבחרת ברזיל 2004/06 באיכות גבוהה, מתאימה לאימון ולחיי היום יום
-  Updated: 2025-10-04T07:12:23Z
+  Updated: 2025-10-05T12:08:02Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15161,7 +15161,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן בית 1998/99](https://www.rsport.co.il/products/retro-shirt-milan-home-1998-99): חולצת רטרו מילאן בית 1998/99 בעיצוב קלאסי ונוסטלגי
-  Updated: 2025-10-04T09:37:44Z
+  Updated: 2025-10-05T13:20:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15392,7 +15392,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו אינטר בית 1997/98](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98): חולצת רטרו אינטר בית 1997/98 בעיצוב איכותי ונוסטלגי, מושלמת למגרש
-  Updated: 2025-10-04T09:47:04Z
+  Updated: 2025-10-05T12:23:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16064,7 +16064,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי בית 2014/15](https://www.rsport.co.il/products/retro-shirt-home-2014-15-chelsea): חולצת רטרו צ'לסי בית 2014/15 בעיצוב איכותי ונוח, חוויית משחק מושלמת למגרש וליום יום
-  Updated: 2025-10-04T11:08:24Z
+  Updated: 2025-10-05T15:39:37Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16127,7 +16127,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea): חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12 בעיצוב איכותי ומיוחד, חוויית משחק מושלמת
-  Updated: 2025-10-05T10:36:23Z
+  Updated: 2025-10-05T12:19:05Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16148,7 +16148,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי בית 2005/06](https://www.rsport.co.il/products/retro-shirt-home-2005-06-chelsea): חולצת רטרו צ'לסי בית 2005/06 בעיצוב קלאסי ונוח, מושלמת למגרש וליום יום
-  Updated: 2025-10-04T11:01:22Z
+  Updated: 2025-10-05T15:33:14Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16442,7 +16442,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד בית 2004/06](https://www.rsport.co.il/products/retro-shirt-home-2004-06-manu): חולצת רטרו מנצ'סטר יונייטד בית 2004/06 בעיצוב קלאסי ואיכותי, נוחה למגרש וליום יום
-  Updated: 2025-10-04T11:49:10Z
+  Updated: 2025-10-05T14:56:58Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16588,130 +16588,130 @@
   - [XXL](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu?variant=46915233644794)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר סיטי 2013/14](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:43Z
+- [חולצת רטרו מנצ'סטר סיטי 2013/14](https://www.rsport.co.il/products/retro-shirt-mnc-home-13-14): חולצת רטרו מנצ'סטר סיטי 2013/14 מביאה את האווירה של עונה בלתי נשכחת, בה הקבוצה הציגה יכולת מרשימה והשאירה חותם על אוהדיה עם רגעים מכריעים על המגרש. החולצה משחזרת את העיצוב המיוחד של הקבוצה באותה עונה, עם מראה קלאסי ומסורתי. עשויה 100% פוליאסטר קל ונושם, היא מספקת נוחות מירבית וחופש תנועה מלא במהלך משחקים, אימונים או ללבישה יום-יומית. פריט אידיאלי לכל אוהד מנצ'סטר סיטי שמעוניין לשחזר את הזיכרונות של עונה מרגשת ולהרגיש חלק מהקבוצה גם מחוץ למגרש.
+  Updated: 2025-10-05T12:45:56Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_14_d98425c5-1423-420e-a3bd-c07b3a51f24e.jpg?v=1738544629
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14?variant=46915244720378)
+  - [S](https://www.rsport.co.il/products/retro-shirt-mnc-home-13-14?variant=46915244720378)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14?variant=46915244753146)
+  - [M](https://www.rsport.co.il/products/retro-shirt-mnc-home-13-14?variant=46915244753146)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14?variant=46915244785914)
+  - [L](https://www.rsport.co.il/products/retro-shirt-mnc-home-13-14?variant=46915244785914)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14?variant=46915244818682)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-mnc-home-13-14?variant=46915244818682)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2013-14?variant=46915244851450)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-mnc-home-13-14?variant=46915244851450)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר סיטי 2002/03](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2002-03): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:43Z
+- [חולצת רטרו מנצ'סטר סיטי 2002/03](https://www.rsport.co.il/products/retro-shirt-mnc-home-02-03): חולצת רטרו מנצ'סטר סיטי 2002/03 נושאת עיצוב קלאסי שמדגיש את אופיו המסורתי של המועדון בתקופה זו. החולצה מציעה חוויה אותנטית למי שרוצה לחוות את הרוח של המגרש בעונות הראשונות של המילניום החדש. עשויה בד קל ונושם 100% פוליאסטר, היא מאפשרת תנועה חופשית ונוחות לאורך כל משחק או אימון, ומתאימה גם ללבישה יום-יומית. פריט מושלם לאוהדים שמעוניינים להוסיף מראה ספורטיבי עם נגיעה היסטורית לארון הבגדים שלהם ולהרגיש חלק מהקבוצה בכל פעילות.
+  Updated: 2025-10-05T12:45:56Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_b7462ec4-f018-42a5-be45-5d83238415c0.jpg?v=1738544628
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2002-03?variant=46915245342970)
+  - [S](https://www.rsport.co.il/products/retro-shirt-mnc-home-02-03?variant=46915245342970)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2002-03?variant=46915245375738)
+  - [M](https://www.rsport.co.il/products/retro-shirt-mnc-home-02-03?variant=46915245375738)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2002-03?variant=46915245408506)
+  - [L](https://www.rsport.co.il/products/retro-shirt-mnc-home-02-03?variant=46915245408506)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2002-03?variant=46915245441274)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-mnc-home-02-03?variant=46915245441274)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-2002-03?variant=46915245474042)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-mnc-home-02-03?variant=46915245474042)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר סיטי 1999/01](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1999-01): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:43Z
+- [חולצת רטרו מנצ'סטר סיטי 1999/01](https://www.rsport.co.il/products/retro-shirt-mnc-home-99-01): חולצת רטרו מנצ'סטר סיטי 1999/01 משחזרת את העיצוב הקלאסי והאותנטי של הקבוצה מעונות 1999 עד 2001. החולצה מאפשרת לאוהדים לחוות את האווירה ההיסטורית ואת הרגעים המרגשים מהמגרש, עם עיצוב מוקפד שמדגיש את הזהות הייחודית של הקבוצה. החולצה עשויה 100% פוליאסטר איכותי ונושם, ומספקת נוחות מירבית וחופש תנועה במהלך משחקים, אימונים או שימוש יום-יומי בסגנון ספורטיבי אותנטי. פריט אידיאלי לכל אוהד מנצ'סטר סיטי שמעוניין להחזיר את האווירה ההיסטורית, להרגיש חלק מהקבוצה ולהציג תמיכה בסגנון קלאסי ומודרני גם מחוץ למגרש.
+  Updated: 2025-10-05T12:45:55Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2001_02_0228e9bc-20d6-4726-9605-67d1c1ec7747.jpg?v=1738544627
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1999-01?variant=46915245736186)
+  - [S](https://www.rsport.co.il/products/retro-shirt-mnc-home-99-01?variant=46915245736186)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1999-01?variant=46915245768954)
+  - [M](https://www.rsport.co.il/products/retro-shirt-mnc-home-99-01?variant=46915245768954)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1999-01?variant=46915245801722)
+  - [L](https://www.rsport.co.il/products/retro-shirt-mnc-home-99-01?variant=46915245801722)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1999-01?variant=46915245834490)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-mnc-home-99-01?variant=46915245834490)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1999-01?variant=46915245867258)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-mnc-home-99-01?variant=46915245867258)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר סיטי 1997/98](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1997-98): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:44Z
+- [חולצת רטרו מנצ'סטר סיטי 1997/98](https://www.rsport.co.il/products/retro-shirt-mnc-home-97-98): חולצת רטרו מנצ'סטר סיטי 1997/98 מביאה חזרה את העיצוב הקלאסי והייחודי של הקבוצה מעונת 1997/98. החולצה משחזרת את הסגנון האותנטי של הקבוצה ומאפשרת לאוהדים לחוות את הרגעים המרגשים והבלתי נשכחים מהמגרש. עשויה 100% פוליאסטר איכותי ונושם, החולצה מספקת חופש תנועה מלא ונוחות מירבית במהלך משחקים, אימונים או ללבישה יום-יומית בסגנון ספורטיבי. פריט אידיאלי לכל אוהד מנצ'סטר סיטי שרוצה להחזיר את האווירה ההיסטורית של הקבוצה, להרגיש חלק מהקבוצה ולהראות תמיכה בסגנון קלאסי ומודרני גם מחוץ למגרש.
+  Updated: 2025-10-05T12:45:55Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_164893f0-f6bd-459f-8f6b-83b20b99cf33.jpg?v=1738544626
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1997-98?variant=46915249701114)
+  - [S](https://www.rsport.co.il/products/retro-shirt-mnc-home-97-98?variant=46915249701114)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1997-98?variant=46915249733882)
+  - [M](https://www.rsport.co.il/products/retro-shirt-mnc-home-97-98?variant=46915249733882)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1997-98?variant=46915249766650)
+  - [L](https://www.rsport.co.il/products/retro-shirt-mnc-home-97-98?variant=46915249766650)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1997-98?variant=46915249799418)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-mnc-home-97-98?variant=46915249799418)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-1997-98?variant=46915249832186)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-mnc-home-97-98?variant=46915249832186)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר סיטי חוץ 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-1998-99): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:45Z
+- [חולצת רטרו מנצ'סטר סיטי חוץ 1998/99](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99): חולצת החוץ של מנצ'סטר סיטי בעונת 1998/99 משחזרת את העיצוב הקלאסי והייחודי של הקבוצההחולצה עשויה 100% פוליאסטר קל ונושם, ומספקת נוחות וחופש תנועה במהלך משחקים ואימוניםפריט אידיאלי לאוהדים שרוצים להרגיש את האווירה של העונה ההיסטורית ולהראות תמיכה בקבוצה
+  Updated: 2025-10-05T12:45:55Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/8_22a9df8e-b374-48b6-93c1-d5de4cb6a945.jpg?v=1738544632
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-1998-99?variant=46915250192634)
+  - [S](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99?variant=46915250192634)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-1998-99?variant=46915250225402)
+  - [M](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99?variant=46915250225402)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-1998-99?variant=46915250258170)
+  - [L](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99?variant=46915250258170)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-1998-99?variant=46915250290938)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99?variant=46915250290938)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-1998-99?variant=46915250323706)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99?variant=46915250323706)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-- [חולצת רטרו מנצ'סטר סיטי חוץ 2007/08](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-2007-08): חולצת כדורגל רטרו, היא פריט שמהווה מחווה לסגנונות קלאסיים בעולם הכדורגל עשויה 100% פוליאסטר, מספקת נוחות ויכולת נשימה גבוהה, מה שהופך אותה לבחירה אידיאלית ללבוש יומיומי ולפעילות ספורטיבית ממושכת. הבד המנדף זיעה מתייבש במהירות, מרחיק את הזיעה מהעור ומאפשר לך להרגיש יבש ונוח. פרטים שרוולים : ארוכים הרכב בד/חומר: 100% פוליאסטר סוג תלבושת: רטרו
-  Updated: 2025-10-02T11:14:45Z
+- [חולצת רטרו מנצ'סטר סיטי חוץ 2007/08](https://www.rsport.co.il/products/retro-shirt-mnc-away-07-08): חולצת החוץ של מנצ'סטר סיטי בעונת 2007/08 משחזרת את העיצוב הקלאסי של הקבוצההחולצה עשויה 100% פוליאסטר קל ונושם, ומספקת נוחות וחופש תנועה במהלך משחקים או אימוניםפריט אידיאלי לאוהדים שרוצים להרגיש את האווירה של העונה ההיסטורית ולהראות תמיכה בקבוצה
+  Updated: 2025-10-05T12:45:55Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/07_08_7967a897-d0ee-460b-a644-bb895586a856.jpg?v=1738544633
-  - [S](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-2007-08?variant=46915253895418)
+  - [S](https://www.rsport.co.il/products/retro-shirt-mnc-away-07-08?variant=46915253895418)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-2007-08?variant=46915253928186)
+  - [M](https://www.rsport.co.il/products/retro-shirt-mnc-away-07-08?variant=46915253928186)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-2007-08?variant=46915253960954)
+  - [L](https://www.rsport.co.il/products/retro-shirt-mnc-away-07-08?variant=46915253960954)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-2007-08?variant=46915253993722)
+  - [XL](https://www.rsport.co.il/products/retro-shirt-mnc-away-07-08?variant=46915253993722)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-רטרו-מנצסטר-סיטי-חוץ-2007-08?variant=46915254026490)
+  - [XXL](https://www.rsport.co.il/products/retro-shirt-mnc-away-07-08?variant=46915254026490)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו בורוסיה דורטמונד בית 1988/89](https://www.rsport.co.il/products/retro-shirt-home-1988-89-borussia-dortmund): חולצת רטרו בית 1988/89 של בורוסיה דורטמונד מזכירה את העונות הגדולות. בד נושם ונוח, מושלם לאוהדים נוסטלגיים.
@@ -16841,7 +16841,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו באיירן מינכן בית 1999/01](https://www.rsport.co.il/products/retro-shirt-home-1999-01-bayern-munich): תחזור לזיכרונות היסטוריים עם חולצת רטרו בית 1999/01 של באיירן מינכן. בד קל ונושם, מושלם למשחק או יום יום.
-  Updated: 2025-10-04T13:30:16Z
+  Updated: 2025-10-05T15:19:06Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16946,7 +16946,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת הולנד חוץ 1988](https://www.rsport.co.il/products/retro-shirt-netherlands-away-1988): חולצת רטרו נבחרת הולנד חוץ 1988 בעיצוב איקוני שמחזיר את רוח האליפות
-  Updated: 2025-10-04T07:23:07Z
+  Updated: 2025-10-05T12:34:59Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17072,7 +17072,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה חוץ 2004/05](https://www.rsport.co.il/products/retro-shirt-away-2004-05-barcelona): חולצת רטרו ברצלונה חוץ 2004/05 איכותית ונוחה, מושלמת לאוהדים
-  Updated: 2025-10-04T12:49:02Z
+  Updated: 2025-10-05T15:39:54Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17156,7 +17156,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 1998/99](https://www.rsport.co.il/products/retro-shirt-home-1998-99-barcelona): חולצת רטרו ברצלונה בית 1998/99 איכותית ומסורתית, מושלמת למגרש
-  Updated: 2025-10-04T12:49:02Z
+  Updated: 2025-10-05T12:57:19Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17198,7 +17198,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 2004/05](https://www.rsport.co.il/products/retro-shirt-home-2004-05-barcelona): חולצת רטרו ברצלונה בית 2004/05 איכותית ומסורתית, נוחה למגרש
-  Updated: 2025-10-04T12:49:02Z
+  Updated: 2025-10-05T15:28:11Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17429,7 +17429,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 1996](https://www.rsport.co.il/products/retro-shirt-germany-home-1996): חולצת רטרו נבחרת גרמניה בית 1996 בעיצוב אייקוני ונוח, חוויה מושלמת לאוהדים
-  Updated: 2025-10-04T08:55:22Z
+  Updated: 2025-10-05T13:40:57Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17555,7 +17555,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה חוץ 2014](https://www.rsport.co.il/products/retro-shirt-germany-away-2014): חולצת רטרו נבחרת גרמניה חוץ 2014 בעיצוב מודרני ונוסטלגי, מושלמת לאוהדים
-  Updated: 2025-10-04T08:29:27Z
+  Updated: 2025-10-05T14:54:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17659,46 +17659,46 @@
   - [XXL](https://www.rsport.co.il/products/man-utd-black-tracksuit-24-25-men?variant=46916917887226)
     Availability: Available
     Price: ‏269.91 ‏₪ ILS
-- [מעיל חורף מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25): מעיל חורף של מנצ'סטר יונייטד לעונת 24/25 עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל הרכב בד/חומר: 100% פוליאסטר
-  Updated: 2025-09-07T22:11:41Z
+- [מעיל חורף מנצ'סטר יונייטד 24/25](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket): מעיל חורף של מנצ'סטר יונייטד לעונת 24/25 עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל הרכב בד/חומר: 100% פוליאסטר
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_8772ac09-5783-47c1-9c32-8e25cf183acc.jpg?v=1738545231
-  - [S](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25?variant=46916937482490)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket?variant=46916937482490)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25?variant=46916937515258)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket?variant=46916937515258)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25?variant=46916937548026)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket?variant=46916937548026)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25?variant=46916937580794)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket?variant=46916937580794)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25?variant=46916937613562)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket?variant=46916937613562)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-- [מעיל חורף מנצ'סטר יונייטד 24/25 | צבע לבן](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן): מעיל חורף של מנצ'סטר יונייטד בצבע לבן לעונת 24/25 עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש תוך הקפדה על נוחות וביצועים גבוהים בשטח מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
-  Updated: 2025-09-07T22:11:41Z
+- [מעיל חורף מנצ'סטר יונייטד 24/25 | צבע לבן](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket-white): מעיל חורף של מנצ'סטר יונייטד בצבע לבן לעונת 24/25 עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש תוך הקפדה על נוחות וביצועים גבוהים בשטח מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
+  Updated: 2025-10-05T13:38:26Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_541fc57a-03fd-4d4e-93a0-4f924d7abb5b.jpg?v=1738545232
-  - [S](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן?variant=46916944789754)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket-white?variant=46916944789754)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן?variant=46916944822522)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket-white?variant=46916944822522)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן?variant=46916944855290)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket-white?variant=46916944855290)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן?variant=46916944888058)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket-white?variant=46916944888058)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מעיל-חורף-מנצסטר-יונייטד-24-25-צבע-לבן?variant=46916944920826)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-winter-jacket-white?variant=46916944920826)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [אימונית כדורגל מנצ'סטר יונייטד 24/25 | ילדים](https://www.rsport.co.il/products/ls-training-top-mu-24-25-kids): אימונית כדורגל מנצ'סטר יונייטד 24/25 ילדים עשויה 100% פוליאסטר קל ונושם שמספק נוחות והגנה בימי גשם וחורף הרוכסן הקצר בחזית מאפשר התאמה אישית לטמפרטורה והעיצוב המודרני מתאים גם לאימונים על המגרש וגם ללבישה יומיומית עם שילוב של אוורור ועמידות למים
@@ -17764,8 +17764,8 @@
   - [XXL](https://www.rsport.co.il/products/גופיית-אימון-ריאל-מדריד-2024-25-צבע-לבן?variant=46916963729658)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-- [חולצת משחק אל הילאל בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-בית-24-25): החולצה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר
-  Updated: 2025-10-02T11:30:56Z
+- [חולצת משחק אל הילאל בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-בית-24-25): חולצת הבית של אל הילאל בעונת 24/25 מיועדת למשחקים, אימונים וללבישה יומיומית. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא ותחושת יובש לאורך כל הפעילות. פריט מושלם לכל אוהד שרוצה לתמוך בקבוצה.
+  Updated: 2025-10-05T12:48:20Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -17788,8 +17788,8 @@
   - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-בית-24-25?variant=46921644146938)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-- [חולצת משחק אל הילאל שלישית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-שלישית-24-25): החולצה עשויה מבד נושם מנדף זיעה ומתייבש במהירות מתאים לכל פעילות ספורטיבית ממושכת ומגוונת מתאימה לריצה או הליכה עשוי מ100% פוליאסטר
-  Updated: 2025-10-02T11:30:57Z
+- [חולצת משחק אל הילאל שלישית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-שלישית-24-25): חולצת המשחק השלישית של אל הילאל בעונת 24/25 מספקת נוחות וביצועים במגרש ובאימון. עשויה 100% פוליאסטר קל ונושם, מעניקה חופש תנועה מלא ושומרת על תחושת יובש לאורך כל הפעילות. מתאימה לאוהדים שרוצים ללבוש את צבעי הקבוצה בכל הזדמנות.
+  Updated: 2025-10-05T12:49:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -18262,58 +18262,58 @@
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ארסנל-בית-24-25?variant=46940143190266)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-- [חליפת ילדים ארוכה מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25): חליפת ילדים ארוכה מנצ'סטר יונייטד בית 24/25 עשויה 100% פוליאסטר מנדף זיעה, מה שמבטיח נוחות ואוורור במהלך משחקים ואימונים. החליפה מעוצבת בסגנון מודרני, עם פרטים המזוהים עם הקבוצה, ומספקת לילדים את ההזדמנות להרגיש חלק מהשחקנים האהובים עליהם.
-  Updated: 2025-09-18T18:30:58Z
+- [חליפת ילדים ארוכה מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25): חליפת ילדים ארוכה מנצ'סטר יונייטד בית 24/25 עשויה 100% פוליאסטר מנדף זיעה, מה שמבטיח נוחות ואוורור במהלך משחקים ואימונים. החליפה מעוצבת בסגנון מודרני, עם פרטים המזוהים עם הקבוצה, ומספקת לילדים את ההזדמנות להרגיש חלק מהשחקנים האהובים עליהם.
+  Updated: 2025-10-05T13:38:25Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20241210_150743_0000.jpg?v=1738544772
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144566522)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144566522)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144599290)
+  - [XS](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144599290)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144632058)
+  - [S](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144632058)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144664826)
+  - [M](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144664826)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144697594)
+  - [L](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144697594)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144730362)
+  - [XL](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144730362)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-בית-24-25?variant=46940144763130)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-ls-mnu-home-24-25?variant=46940144763130)
     Availability: Available
     Price: ‏135.00 ‏₪ ILS
-- [חליפת ילדים ארוכה מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25): חליפת ילדים ארוכה מנצ'סטר יונייטד חוץ 24/25 עשויה 100% פוליאסטר מנדף זיעה, מה שמבטיח נוחות ואוורור במהלך משחקים ואימונים. החליפה מעוצבת בסגנון מודרני, עם פרטים המזוהים עם הקבוצה, ומספקת לילדים את ההזדמנות להרגיש חלק מהשחקנים האהובים עליהם.
-  Updated: 2025-09-18T18:30:57Z
+- [חליפת ילדים ארוכה מנצ'סטר יונייטד חוץ 24/25](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25): חליפת ילדים ארוכה מנצ'סטר יונייטד חוץ 24/25 עשויה 100% פוליאסטר מנדף זיעה, מה שמבטיח נוחות ואוורור במהלך משחקים ואימונים. החליפה מעוצבת בסגנון מודרני, עם פרטים המזוהים עם הקבוצה, ומספקת לילדים את ההזדמנות להרגיש חלק מהשחקנים האהובים עליהם.
+  Updated: 2025-10-05T13:38:25Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20241210_151105_0000.jpg?v=1738544773
-  - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940146958586)
+  - [XXS](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940146958586)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-  - [XS](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940146991354)
+  - [XS](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940146991354)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-  - [S](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940147024122)
+  - [S](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940147024122)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940147056890)
+  - [M](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940147056890)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940147089658)
+  - [L](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940147089658)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940147122426)
+  - [XL](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940147122426)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-מנצסטר-יונייטד-חוץ-24-25?variant=46940147155194)
+  - [XXL](https://www.rsport.co.il/products/kids-suit-ls-mnu-away-24-25?variant=46940147155194)
     Availability: Available
     Price: ‏155.00 ‏₪ ILS
 - [כפפות שוער מקצועיות Predator Pro Hybrid | גברים](https://www.rsport.co.il/products/gk-gloves-predator-pro-hybrid): כפפות השוער adidas Predator Pro Hybrid מציעות שילוב מצוין של טכנולוגיה ועמידות, עם מרקם אחורי אגרסיבי לספיגה של חבטות חזקות וסנפירי גומי לשיפור האחיזה בכד.-URG 2.0 לטקס מספק אחיזה מעולה בתנאים שונים, וגוף הסריג המהונדס מבטיח התאמה בטוחה שמגדילה את הגמישות והנוחות. מבנה החיתוך השלילי מעניק תחושה טבעית ומאפשר שליטה טובה יותר בכדור, אך שימו לב שהכפפות יכולות להתבלות מהר יותר בעת שימוש על משטחים מחוספסים.
@@ -18901,25 +18901,25 @@
   - [XXL](https://www.rsport.co.il/products/זקט-חורף-מילאן-ורסיטי-אוף-ווייט-אפור?variant=46961151672570)
     Availability: Available
     Price: ‏495.00 ‏₪ ILS
-- [מעיל רוח מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/מעיל-רוח-מנצסטר-יונייטד-24-25-גברים): מעיל רוח מנצ'סטר יונייטד 24/25 בצבע שחור עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
-  Updated: 2025-09-07T22:11:11Z
+- [מעיל רוח מנצ'סטר יונייטד 24/25 | גברים](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-windbreaker): מעיל רוח מנצ'סטר יונייטד 24/25 בצבע שחור עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
+  Updated: 2025-10-05T13:38:24Z
   Vendor: R:Sport
   Product Type: מעיל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_b4d36830-4725-42a2-8728-57a510a6d27b.jpg?v=1738545246
-  - [S](https://www.rsport.co.il/products/מעיל-רוח-מנצסטר-יונייטד-24-25-גברים?variant=46967220470010)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-windbreaker?variant=46967220470010)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מעיל-רוח-מנצסטר-יונייטד-24-25-גברים?variant=46967220502778)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-windbreaker?variant=46967220502778)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מעיל-רוח-מנצסטר-יונייטד-24-25-גברים?variant=46967220535546)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-windbreaker?variant=46967220535546)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מעיל-רוח-מנצסטר-יונייטד-24-25-גברים?variant=46967220568314)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-windbreaker?variant=46967220568314)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מעיל-רוח-מנצסטר-יונייטד-24-25-גברים?variant=46967220601082)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-24-25-men-windbreaker?variant=46967220601082)
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [מעיל רוח ריאל מדריד 24/25 | גברים](https://www.rsport.co.il/products/מעיל-רוח-ריאל-מדריד-24-25-גברים): מעיל רוח ריאל מדריד 24/25 בצבע אפור עשוי 100% פוליאסטר, מה שהופך אותו לבחירה מצוינת בימי גשם ובחורף. עיצובו מותאם במיוחד לפעילויות ספורטיביות כמו אימונים על המגרש וריצות תוך הקפדה על נוחות וביצועים גבוהים בשטח. מתאים לא רק לאימונים אלא גם ללבוש יומיומי, והוא משלב סטייל
@@ -19885,7 +19885,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד בית 1997/98](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-בית-1997-98): תחווה שוב את עונת 1997/98 עם חולצת רטרו בית של ריאל מדריד. בד קל ונושם, מושלם לאוהדים נוסטלגיים.
-  Updated: 2025-10-04T13:13:40Z
+  Updated: 2025-10-05T14:52:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -20011,7 +20011,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד חוץ 2003/04](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-חוץ-2003-04): תחווה שוב את עונת 2003/04 עם חולצת רטרו חוץ של ריאל מדריד. בד קל ונושם, מושלם למשחק או יום יום.
-  Updated: 2025-10-04T13:04:28Z
+  Updated: 2025-10-05T15:37:06Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -20074,7 +20074,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד בית 2003/04](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-בית-2003-04): תחזור לעונת 2003/04 עם חולצת רטרו בית של ריאל מדריד. בד נושם וגזרה רגילה, מושלם לאוהדים שמעריכים רגעי עבר.
-  Updated: 2025-10-04T12:57:38Z
+  Updated: 2025-10-05T13:37:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -24940,28 +24940,28 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-טי-קדם-משחק-ריאל-מדריד-24-25-אותנטית?variant=47198994792698)
     Availability: Available
     Price: ‏130.99 ‏₪ ILS
-- [חולצת טי שירט מנצ'סטר יונייטד | גברים](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים): החולצה הזו היא חולצת טי שירט לגברים ממנצ'סטר יונייטד. היא עשויה מחומר איכותי, שמספק נוחות לאורך כל היום, עם עיצוב פשוט אך אלגנטי. החולצה כוללת את הלוגו האייקוני של מנצ'סטר יונייטד בחזית, המייצג את הגאווה וההיסטוריה של המועדון. עם גזרה קלאסית שמתאימה לכל גוף, זו חולצה מושלמת לאוהדי המועדון שרוצים להציג את נאמנותם בסגנון ספורטיבי ונוח.
-  Updated: 2025-09-07T22:08:28Z
+- [חולצת טי שירט מנצ'סטר יונייטד | גברים](https://www.rsport.co.il/products/football-shirt-mnu-men-t): החולצה הזו היא חולצת טי שירט לגברים ממנצ'סטר יונייטד. היא עשויה מחומר איכותי, שמספק נוחות לאורך כל היום, עם עיצוב פשוט אך אלגנטי. החולצה כוללת את הלוגו האייקוני של מנצ'סטר יונייטד בחזית, המייצג את הגאווה וההיסטוריה של המועדון. עם גזרה קלאסית שמתאימה לכל גוף, זו חולצה מושלמת לאוהדי המועדון שרוצים להציג את נאמנותם בסגנון ספורטיבי ונוח.
+  Updated: 2025-10-05T13:38:24Z
   Vendor: R:SPORT
   Product Type: חולצת טי שירט
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/vlt-i-shir-mnsr-ivniid-gbrim-568391.jpg?v=1743310390
-  - [S](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים?variant=47199073140986)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-men-t?variant=47199073140986)
     Availability: Available
     Price: ‏132.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים?variant=47199073173754)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-men-t?variant=47199073173754)
     Availability: Available
     Price: ‏132.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים?variant=47199073206522)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-men-t?variant=47199073206522)
     Availability: Available
     Price: ‏132.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים?variant=47199073239290)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-men-t?variant=47199073239290)
     Availability: Available
     Price: ‏132.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים?variant=47199073272058)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-men-t?variant=47199073272058)
     Availability: Available
     Price: ‏132.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-טי-שירט-מנצסטר-יונייטד-גברים?variant=47199073304826)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-men-t?variant=47199073304826)
     Availability: Available
     Price: ‏132.00 ‏₪ ILS
 - [חולצת טי שירט ארסנל | גברים](https://www.rsport.co.il/products/חולצת-טי-שירט-ארסנל-גברים): חולצת טי שירט לגברים ממועדון ארסנל. החולצה עשויה מחומר איכותי ונעים למגע, המספק נוחות לאורך כל היום. העיצוב שלה כולל את הלוגו המוכר של ארסנל בחזית, המייצג את הגאווה וההיסטוריה של המועדון. עם גזרה קלאסית שמתאימה לכל גוף, החולצה מציעה שילוב של סגנון ספורטיבי וטרנדי. מושלמת לאוהדים שמחפשים להציג את נאמנותם למועדון בצורה נוחה ואופנתית.
@@ -29707,163 +29707,163 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-באיירן-מינכן-בית-25-26?variant=47407996993786)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [חולצת מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים): חולצת מנצ'סטר יונייטד בית 25/26, עם גזרה נוחה שמתאימה לכל פעילות. עשויה 100% פוליאסטר נושם וקליל, שמספק תחושת רעננות ויובש לאורך כל היום. מגיעה בצבע האדום הקלאסי של השדים האדומים, עם סמל הקבוצה ופרטים מהעונה החדשה מושלמת לאוהדים שרוצים ללבוש את צבעי מנצ'סטר יונייטד בגאווה ובסטייל.
-  Updated: 2025-09-18T18:07:56Z
+- [חולצת מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men): חולצת מנצ'סטר יונייטד בית 25/26, עם גזרה נוחה שמתאימה לכל פעילות. עשויה 100% פוליאסטר נושם וקליל, שמספק תחושת רעננות ויובש לאורך כל היום. מגיעה בצבע האדום הקלאסי של השדים האדומים, עם סמל הקבוצה ופרטים מהעונה החדשה מושלמת לאוהדים שרוצים ללבוש את צבעי מנצ'סטר יונייטד בגאווה ובסטייל.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_2210b3e2-c8ba-4c1e-826f-345c0fa27856.jpg?v=1749834414
-  - [S](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409371119866)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409371119866)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409371152634)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409371152634)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409371185402)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409371185402)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409371218170)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409371218170)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409371250938)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409371250938)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409371283706)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409371283706)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409386127610)
+  - [XXXXL](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-men?variant=47409386127610)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-- [חולצת משחקי בית מנצ'סטר יונייטד 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים): חולצת משחקי בית מנצ'סטר יונייטד 25/26, בגזרה צמודה גרסת שחקן, עשויה 100% פוליאסטר איכותי ונושם שמספק תחושת קלילות ונוחות לאורך כל המשחק. מתייבשת במהירות ומותאמת לביצועים גבוהים על המגרש. העיצוב כולל את הצבע האדום הקלאסי של הקבוצה, גרפיקה בהשראת אולד טראפורד מושלמת לאוהדים שרוצים ללבוש את מדים בסטייל של המקצוענים.
-  Updated: 2025-10-02T11:27:29Z
+- [חולצת משחקי בית מנצ'סטר יונייטד 25/26 אותנטית | גברים](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men): חולצת משחקי בית מנצ'סטר יונייטד 25/26, בגזרה צמודה גרסת שחקן, עשויה 100% פוליאסטר איכותי ונושם שמספק תחושת קלילות ונוחות לאורך כל המשחק. מתייבשת במהירות ומותאמת לביצועים גבוהים על המגרש. העיצוב כולל את הצבע האדום הקלאסי של הקבוצה, גרפיקה בהשראת אולד טראפורד מושלמת לאוהדים שרוצים ללבוש את מדים בסטייל של המקצוענים.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_3c268636-6993-4805-babd-dd28d7c1fc84.jpg?v=1749835145
-  - [S](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47409390911738)
+  - [S](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men?variant=47409390911738)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47409390944506)
+  - [M](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men?variant=47409390944506)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47409390977274)
+  - [L](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men?variant=47409390977274)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47409391010042)
+  - [XL](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men?variant=47409391010042)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47409391042810)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men?variant=47409391042810)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47409391075578)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-match-mnu-home-25-26-men?variant=47409391075578)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [חליפת ילדים מנצ'סטר יונייטד בית 25/26](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-25-26): חליפת ילדים מנצ'סטר יונייטד בית 25/26, הכוללת חולצה ומכנסיים קצרים, עשויה 100% פוליאסטר איכותי ונושם. הגזרה נוחה ומותאמת במיוחד לילדים, מאפשרת תנועה חופשית ותחושת נוחות לאורך כל הפעילות. העיצוב בצבע האדום הקלאסי של הקבוצה, עם סמל ארוג ופרטים מהעונה החדשה אידאלית לאוהדים הצעירים שרוצים ללבוש את צבעי מנצ'סטר יונייטד בגאווה.
-  Updated: 2025-10-02T11:52:11Z
+- [חליפת ילדים מנצ'סטר יונייטד בית 25/26](https://www.rsport.co.il/products/kids-suit-mnu-home-25-26): חליפת ילדים מנצ'סטר יונייטד בית 25/26, הכוללת חולצה ומכנסיים קצרים, עשויה 100% פוליאסטר איכותי ונושם. הגזרה נוחה ומותאמת במיוחד לילדים, מאפשרת תנועה חופשית ותחושת נוחות לאורך כל הפעילות. העיצוב בצבע האדום הקלאסי של הקבוצה, עם סמל ארוג ופרטים מהעונה החדשה אידאלית לאוהדים הצעירים שרוצים ללבוש את צבעי מנצ'סטר יונייטד בגאווה.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_8b909f8f-aab6-4c5f-a5d6-a55b0299224d.jpg?v=1749835441
-  - [2-3Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-25-26?variant=47409396711674)
+  - [2-3Y](https://www.rsport.co.il/products/kids-suit-mnu-home-25-26?variant=47409396711674)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [4-5Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-25-26?variant=47409396744442)
+  - [4-5Y](https://www.rsport.co.il/products/kids-suit-mnu-home-25-26?variant=47409396744442)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [6-7Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-25-26?variant=47409396777210)
+  - [6-7Y](https://www.rsport.co.il/products/kids-suit-mnu-home-25-26?variant=47409396777210)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [8-9Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-בית-25-26?variant=47409396809978)
+  - [8-9Y](https://www.rsport.co.il/products/kids-suit-mnu-home-25-26?variant=47409396809978)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-- [חולצת כדורגל מנצ'סטר יונייטד בית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-גוניורס): חולצת מנצ'סטר יונייטד בית 25/26 בגזרת, בצבע האדום הקלאסי של השדים האדומים עם גרפיקה ייחודית בהשראת אולד טראפורד על השרוולים. עשויה 100% פוליאסטר איכותי, קל ונושם מושלמת לילדים ונוער שאוהבים את הקבוצה ורוצים להרגיש חלק מהקבוצה, כיתוב פנימי "Theatre of Dreams". מתאימה למשחק, אימון או ליום-יום.
-  Updated: 2025-09-18T18:30:34Z
+- [חולצת כדורגל מנצ'סטר יונייטד בית 25/26 | ג'וניורס](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-juniors): חולצת מנצ'סטר יונייטד בית 25/26 בגזרת, בצבע האדום הקלאסי של השדים האדומים עם גרפיקה ייחודית בהשראת אולד טראפורד על השרוולים. עשויה 100% פוליאסטר איכותי, קל ונושם מושלמת לילדים ונוער שאוהבים את הקבוצה ורוצים להרגיש חלק מהקבוצה, כיתוב פנימי "Theatre of Dreams". מתאימה למשחק, אימון או ליום-יום.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_bfee6165-0773-4f47-9b18-2ce01b91f5b2.jpg?v=1749848914
-  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47409794384122)
+  - [10-11Y](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-juniors?variant=47409794384122)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47409794416890)
+  - [11-12Y](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-juniors?variant=47409794416890)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47409794449658)
+  - [12-13Y](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-juniors?variant=47409794449658)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47409794482426)
+  - [13-14Y](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-juniors?variant=47409794482426)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-- [מכנסיים קצרים מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים): מכנסיים קצרים של מנצ'סטר יונייטד לעונת 2025/26, בגזרה נוחה ומאווררת שמתאימה למשחק, אימון או ללבוש יומיומי. עשויים מ-100% פוליאסטר איכותי ונושם, בצבע לבן עם פסים שחורים בצדדים שילוב קלאסי שמשלים את החולצה הביתית של הקבוצה. כוללים גומי אלסטי במותן וסמל רקום של מנצ'סטר יונייטד לגימור מדויק ומלא סטייל.
-  Updated: 2025-09-18T18:15:10Z
+- [מכנסיים קצרים מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men): מכנסיים קצרים של מנצ'סטר יונייטד לעונת 2025/26, בגזרה נוחה ומאווררת שמתאימה למשחק, אימון או ללבוש יומיומי. עשויים מ-100% פוליאסטר איכותי ונושם, בצבע לבן עם פסים שחורים בצדדים שילוב קלאסי שמשלים את החולצה הביתית של הקבוצה. כוללים גומי אלסטי במותן וסמל רקום של מנצ'סטר יונייטד לגימור מדויק ומלא סטייל.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_4046d5c8-5d64-49a7-bef5-8988944ac9ad.jpg?v=1749849019
-  - [S](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409797136634)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409797136634)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409797169402)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409797169402)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409797202170)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409797202170)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409797234938)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409797234938)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409797267706)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409797267706)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409797300474)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409797300474)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409799758074)
+  - [XXXXL](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-men?variant=47409799758074)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [חולצת כדורגל מנצ'סטר יונייטד בית 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-נשים): חולצת הבית של מנצ'סטר יונייטד לעונת 2025/26 בגזרה נשית מחמיאה ובד נושם ונעים למגע. עשויה מ־100% פוליאסטר איכותי ומתייבש במהירות, בצבע האדום הקלאסי עם גרפיקה בהשראת אולד טראפורד על השרוולים כיתוב "Theatre of Dreams". אידיאלית לאוהדות שמחפשות שילוב של סטייל, נוחות ונאמנות לקבוצה.
-  Updated: 2025-09-18T18:07:57Z
+- [חולצת כדורגל מנצ'סטר יונייטד בית 25/26 | נשים](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-women): חולצת הבית של מנצ'סטר יונייטד לעונת 2025/26 בגזרה נשית מחמיאה ובד נושם ונעים למגע. עשויה מ־100% פוליאסטר איכותי ומתייבש במהירות, בצבע האדום הקלאסי עם גרפיקה בהשראת אולד טראפורד על השרוולים כיתוב "Theatre of Dreams". אידיאלית לאוהדות שמחפשות שילוב של סטייל, נוחות ונאמנות לקבוצה.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_34604da7-d71c-4a54-a3fb-ac55ee42e6e3.jpg?v=1749849432
-  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-נשים?variant=47409801298170)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-women?variant=47409801298170)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-נשים?variant=47409801330938)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-women?variant=47409801330938)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-נשים?variant=47409801363706)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-women?variant=47409801363706)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-נשים?variant=47409801396474)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-women?variant=47409801396474)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-בית-25-26-נשים?variant=47409801429242)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-home-25-26-women?variant=47409801429242)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-- [חולצת משחק ארוכה מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים): חולצה ארוכה במראה ביתי של מנצ'סטר יונייטד לעונת 2025/26, בגזרה רגילה ונוחה. עשויה 100% פוליאסטר איכותי ונושם, שמספק תחושת נוחות לאורך כל היום. העיצוב כולל את הצבע האדום הקלאסי של הקבוצה, סמל רקום וגרפיקה בהשראת אולד טראפורד על השרוולים. מתאימה למשחק, אימון או ללבוש יומיומי, עם דגש על נוחות וסטייל.
-  Updated: 2025-09-18T18:07:58Z
+- [חולצת משחק ארוכה מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men): חולצה ארוכה במראה ביתי של מנצ'סטר יונייטד לעונת 2025/26, בגזרה רגילה ונוחה. עשויה 100% פוליאסטר איכותי ונושם, שמספק תחושת נוחות לאורך כל היום. העיצוב כולל את הצבע האדום הקלאסי של הקבוצה, סמל רקום וגרפיקה בהשראת אולד טראפורד על השרוולים. מתאימה למשחק, אימון או ללבוש יומיומי, עם דגש על נוחות וסטייל.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_ef279443-f888-4fe3-8f8a-b6e5ea7e904e.jpg?v=1749849632
-  - [S](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409806573818)
+  - [S](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men?variant=47409806573818)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409806606586)
+  - [M](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men?variant=47409806606586)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409806639354)
+  - [L](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men?variant=47409806639354)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409806672122)
+  - [XL](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men?variant=47409806672122)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409806704890)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men?variant=47409806704890)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-ארוכה-מנצסטר-יונייטד-בית-25-26-גברים?variant=47409806737658)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men?variant=47409806737658)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [חולצת פריז סן ז'רמן בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-פריז-סן-זרמן-בית-25-26-גברים): חולצת פריז סן ז'רמן בית לעונת 2025/26 לגברים מביאה את הסטייל של הבירה הצרפתית אל הדשא. עם עיצוב חדש בגווני כחול כהה, אדום ולבן החולצה הזו שומרת על המראה המזוהה של המועדון, עם טאצ' מודרני שמתאים גם ליום יום. הבד נושם, נעים וקליל, והגזרה מותאמת לגברים לנוחות מקסימלית. הסמל של PSG מופיע על החזה, ואפשר להוסיף שם, מספר או לבחור שחקן אהוב להתאמה אישית. מושלמת למי שאוהב את פריז סן ז'רמן ורוצה ללבוש את הצבעים בגאווה במגרש, ברחוב או מול המסך.
@@ -30028,16 +30028,16 @@
   - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-פריז-סן-זרמן-בית-25-26?variant=47412095156474)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [גרבי כדורגל מנצ'סטר יונייטד בית 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-בית-25-26): השלימו את מראה המשחק שלכם עם גרבי הכדורגל של מנצ'סטר יונייטד לעונת 2025/26. בצבע השחור, ומציעים נוחות מקסימלית לאורך כל המשחק או האימון. עשויים מבד נושם וגמיש, עם תמיכה מיוחדת בכף הרגל והקרסול לשמירה על יציבות וביצועים גבוהים.
-  Updated: 2025-09-18T18:30:33Z
+- [גרבי כדורגל מנצ'סטר יונייטד בית 25/26](https://www.rsport.co.il/products/football-socks-mnu-home-25-26): השלימו את מראה המשחק שלכם עם גרבי הכדורגל של מנצ'סטר יונייטד לעונת 2025/26. בצבע השחור, ומציעים נוחות מקסימלית לאורך כל המשחק או האימון. עשויים מבד נושם וגמיש, עם תמיכה מיוחדת בכף הרגל והקרסול לשמירה על יציבות וביצועים גבוהים.
+  Updated: 2025-10-05T13:38:23Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/rn-image_picker_lib_temp_116a796a-7a11-4234-a9d6-4bd0010b7e8c.jpg?v=1750037591
-  - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-בית-25-26?variant=47412403634426)
+  - [בוגרים 38 - 47](https://www.rsport.co.il/products/football-socks-mnu-home-25-26?variant=47412403634426)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-  - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-בית-25-26?variant=47412403667194)
+  - [ילדים 28 - 37](https://www.rsport.co.il/products/football-socks-mnu-home-25-26?variant=47412403667194)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חליפת שוער ריאל מדריד בית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-שוער-ריאל-מדריד-בית-25-26-ילדים): הדור הבא של שוערי ריאל מתחיל כאן חליפת שוער ריאל מדריד לעונת 2025/26 בגרסת הילדים מביאה את התחושה של לעמוד בין הקורות באצטדיון סנטיאגו ברנבאו. החליפה כוללת חולצה ארוכה ומכנסיים תואמים בגזרה יוניסקס לילדים, עשויה מבד פוליאסטר נושם, מנדף זיעה ונוח במיוחד, עם צבעים מודרניים, שרוולים קצרים וסטייל של אלופים. מושלמת למשחק, אימונים או תחפושת איכותית במיוחד.
@@ -36613,25 +36613,25 @@
   - [XXL](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-ארסנל?variant=47466080895226)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [גברים | US Pack חולצה מכופתרת מנצ'סטר יונייטד](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-מנצסטר-יונייטד): חולצה מכופתרת של מנצ'סטר יונייטד משלבת בין סגנון אמריקאי קלאסי של חולצת בייסבול לבין עיצוב כדורגל מסורתי בגאוות השדים האדומים. החולצה מגיעה בגוון אדום עם פסים שחורים, סגירת כפתורים וסמל המועדון על החזה, עשויה מ־100% פוליאסטר קל משקל ונושם.בין אם אתם מעודדים באולד טראפורד או פשוט נהנים מיום בחוץ, החולצה הזו מציעה מראה ספורטיבי, אלגנטי וייחודי שמתאים לכל הזדמנות מושלמת לאוהדים שרוצים לייצג את מנצ'סטר יונייטד בסטייל יומיומי ורענן.
-  Updated: 2025-09-07T22:03:26Z
+- [גברים | US Pack חולצה מכופתרת מנצ'סטר יונייטד](https://www.rsport.co.il/products/shirt-mnu-us-pack-25-26-men): חולצה מכופתרת של מנצ'סטר יונייטד משלבת בין סגנון אמריקאי קלאסי של חולצת בייסבול לבין עיצוב כדורגל מסורתי בגאוות השדים האדומים. החולצה מגיעה בגוון אדום עם פסים שחורים, סגירת כפתורים וסמל המועדון על החזה, עשויה מ־100% פוליאסטר קל משקל ונושם.בין אם אתם מעודדים באולד טראפורד או פשוט נהנים מיום בחוץ, החולצה הזו מציעה מראה ספורטיבי, אלגנטי וייחודי שמתאים לכל הזדמנות מושלמת לאוהדים שרוצים לייצג את מנצ'סטר יונייטד בסטייל יומיומי ורענן.
+  Updated: 2025-10-05T13:38:22Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_32c2b7dc-a7dc-4b2b-894d-8e328272ed1c.jpg?v=1751401912
-  - [S](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-מנצסטר-יונייטד?variant=47466085318906)
+  - [S](https://www.rsport.co.il/products/shirt-mnu-us-pack-25-26-men?variant=47466085318906)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-מנצסטר-יונייטד?variant=47466085351674)
+  - [M](https://www.rsport.co.il/products/shirt-mnu-us-pack-25-26-men?variant=47466085351674)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-מנצסטר-יונייטד?variant=47466085384442)
+  - [L](https://www.rsport.co.il/products/shirt-mnu-us-pack-25-26-men?variant=47466085384442)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-מנצסטר-יונייטד?variant=47466085417210)
+  - [XL](https://www.rsport.co.il/products/shirt-mnu-us-pack-25-26-men?variant=47466085417210)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-מנצסטר-יונייטד?variant=47466085449978)
+  - [XXL](https://www.rsport.co.il/products/shirt-mnu-us-pack-25-26-men?variant=47466085449978)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [גברים | US Pack חולצה מכופתרת באיירן מינכן](https://www.rsport.co.il/products/גברים-us-pack-חולצה-מכופתרת-באיירן-מינכן): חולצה מכופתרת של באיירן מינכן משלבת בין סגנון אמריקאי קלאסי של חולצת בייסבול לבין עיצוב כדורגל מסורתי החולצה מגיעה בצבע אפור עם פסים עדינים, סגירת כפתורים וסמל המועדון על החזה, עשויה 100% פוליאסטר קל ונושם, בין אם אתם מעודדים באליאנץ ארנה או נהנים מיום רגוע בחוץ, החולצה הזו מציעה מראה ספורטיבי, אלגנטי וייחודי שמתאים לכל הזדמנות מושלמת לאוהדים שרוצים לייצג את באיירן מינכן בסטייל יומיומי ורענן.
@@ -36805,22 +36805,22 @@
   - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-ברצלונה-בית-25-26-גוניורס?variant=47472241508602)
     Availability: Available
     Price: ‏50.00 ‏₪ ILS
-- [מכנסי כדורגל קצרים מנצ'סטר יונייטד בית 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-בית-25-26-גוניורס): השלם את הלוק עם מכנסי מנצ'סטר יונייטד הקצרים לעונת 25/26 בגזרת ג'וניורס. המכנסיים מגיעים בגוון לבן עם דיטיילים תואמים לעיצוב החולצה, וכוללים גומי נוח במותן להתאמה מושלמת. עשויים מ־100% פוליאסטר נושם וקל משקל, לנוחות מקסימלית בזמן משחק, אימון או סתם יום של אהבה לקבוצה.
-  Updated: 2025-09-18T18:30:11Z
+- [מכנסי כדורגל קצרים מנצ'סטר יונייטד בית 25/26 | ג'וניורס](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-juniors): השלם את הלוק עם מכנסי מנצ'סטר יונייטד הקצרים לעונת 25/26 בגזרת ג'וניורס. המכנסיים מגיעים בגוון לבן עם דיטיילים תואמים לעיצוב החולצה, וכוללים גומי נוח במותן להתאמה מושלמת. עשויים מ־100% פוליאסטר נושם וקל משקל, לנוחות מקסימלית בזמן משחק, אימון או סתם יום של אהבה לקבוצה.
+  Updated: 2025-10-05T13:38:22Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_0ea1cdef-7b55-4621-ae56-cb9f3615ddfd.jpg?v=1751488630
-  - [10-11Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47472815997178)
+  - [10-11Y](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-juniors?variant=47472815997178)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [11-12Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47472816029946)
+  - [11-12Y](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-juniors?variant=47472816029946)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [12-13Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47472816062714)
+  - [12-13Y](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-juniors?variant=47472816062714)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-בית-25-26-גוניורס?variant=47472816095482)
+  - [13-14Y](https://www.rsport.co.il/products/football-shorts-mnu-home-25-26-juniors?variant=47472816095482)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [חולצת מילאן חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מילאן-חוץ-25-26-גברים): חולצת החוץ של מילאן לעונת 2025/26 מביאה עיצוב אלגנטי ומעודכן שמחבר בין ההיסטוריה המפוארת של המועדון לבין סגנון מודרני וחדשני. החולצה מגיעה בגוון בהיר עם נגיעות אדומות ושחורות צבעי המועדון הקלאסיים וכוללת את סמל השד האדום של מילאן המתנוסס בגאווה על החזה החולצה עשויה 100% פוליאסטר, מבד קל ונושם שנועד לשמור על תחושת יובש ונוחות גם בזמן פעילות אינטנסיבית הבד הגמיש מאפשר חופש תנועה מלא מתאימה למשחק, לאימון או ללבוש יומיומיפריט מושלם לכל אוהד שרוצה לשלב סטייל, ביצועים וגאוות מועדון.
@@ -37283,7 +37283,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro מתאימות לשחקנים ברמה מקצועית המחפשים שליטה ונוחות משופרת. טכנולוגיית Gripknit עם טקסטורה מיקרו-אחיזה משפרת את השליטה בכדור בכל תנאי מזג האוויר. סוליית Cyclone 360 מספקת אחיזה סיבובית משופרת לשינויי כיוון מהירים וזריזים. מבנה הנעל החדשני מעניק התאמה טבעית ונוחה יותר לכף הרגל, במיוחד באזור האצבעות. הנעל כוללת קרסול גבוה בעיצוב א-סימטרי לתמיכה נוחה ולהפחתת חיכוך. אזור בעיטה חלק ונקי ללא שרוכים לדיוק מירבי. מחזק העקב משפר את היציבות במהלך המשחק. סוליית SG-Pro מצוידת בפקקים מתכתיים מתכווננים לשימוש במגרשים רכים.
-  Updated: 2025-09-29T14:15:19Z
+  Updated: 2025-10-05T15:06:39Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37309,7 +37309,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481120506)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541839610)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541839610)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541872378)
@@ -37346,7 +37346,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro נעלי כדורגל איכותיות לשחקנים התקפיים שמחפשים דיוק ושליטה מושלמים בדריבל ובעיטות. חלק עליון בטכנולוגיית Gripknit מיקרוטקסטורה לשיפור התחושה והדיוק בכדור. סוליית Cyclone 360 מאפשרת תנועות זריזות, שינויי כיוון יציבים ונוחות מרבית. עיצוב נוח עם התאמה טבעית באזור האצבעות, צווארון Flyknit אסימטרי למניעת גירויים ומערכת ייצוב עקב עם סנפירים. דגם Player Edition כולל סוליית SG-Pro עם מסמרים מתכתיים עמידים ומתכווננים (מפתחות נמכרים בנפרד). מיועדות למגרשי דשא טבעי רך.
-  Updated: 2025-09-29T14:15:20Z
+  Updated: 2025-10-05T15:06:40Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37372,7 +37372,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661475578)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661508346)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661508346)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661541114)
@@ -37397,7 +37397,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite High FG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים תוקפניים המחפשים דיוק ושליטה מוחלטת. טכנולוגיית Gripknit עם טקסטורה מיוחדת על החלק העליון משפרת את השליטה בכדור לדריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי אצבעות סיבוביים מאפשרת שינויי כיוון מהירים וזורמים, ומפחיתה עומס על כף הרגל לנוחות ויציבות משופרות. העיצוב החדש מותאם למגוון צורות רגליים, במיוחד באזור האצבעות, לשיפור הנוחות והביצועים.
-  Updated: 2025-09-29T14:15:20Z
+  Updated: 2025-10-05T15:06:40Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37423,7 +37423,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690114810)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690147578)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690147578)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690180346)
@@ -37460,7 +37460,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg): נעלי כדורגל מקצועיות Phantom 6 Elite נמוכה FG בצבע כחול, לבן וכחול כהה. מיועדות לשחקנים התקפיים המחפשים דיוק ושליטה. טכנולוגיית Gripknit משפרת דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב לשינויי כיוון מהירים ונוחות גבוהה. עיצוב חדש מותאם לאזור האצבעות לנוחות והתאמה טובה יותר.
-  Updated: 2025-09-29T14:15:21Z
+  Updated: 2025-10-05T15:06:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37486,7 +37486,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717508858)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717541626)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717541626)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717574394)
@@ -37523,7 +37523,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-10-05T06:58:11Z
+  Updated: 2025-10-05T15:06:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37546,7 +37546,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731140346)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731173114)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731173114)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731205882)
@@ -37583,7 +37583,7 @@
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy Low FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg): נעלי כדורגל Phantom 6 Academy נמוכות FG/MG בצבע כחול, לבן וכחול כהה, לעיצוב תוקפני ולשליטה מדויקת בכדור. החלק העליון עשוי מבד איכותי שמשפר דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקים סיבוביים מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מתאים במיוחד לאזור האצבעות ומספק נוחות לאורך המשחק. הנעלות מתאימות למגרשי דשא טבעי ומלאכותי.
-  Updated: 2025-09-29T14:15:22Z
+  Updated: 2025-10-05T15:06:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37606,7 +37606,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788254970)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788287738)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788287738)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788320506)
@@ -37643,7 +37643,7 @@
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG מיועדות לשחקנים תוקפניים המחפשים שליטה מדויקת ונוחות גבוהה. החלק העליון בטכנולוגיית Gripknit מיקרו-טקסטורה משפר את השליטה והדיוק בדריבל ובעיטות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מותאם במיוחד לאזור האצבעות, עם קרסול גבוה לתמיכה ונוחות. מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות למגרשי דשא קשה.
-  Updated: 2025-09-29T14:15:22Z
+  Updated: 2025-10-05T15:06:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37669,7 +37669,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801788154)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801820922)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801820922)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801853690)
@@ -37733,7 +37733,7 @@
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High AG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro): נעלי כדורגל Phantom 6 Elite LE High AG-Pro עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות מקסימלית. עיצוב קרסול גבוה לתמיכה ונוחות, עם מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות במיוחד למגרשי דשא מלאכותי.
-  Updated: 2025-09-29T14:15:23Z
+  Updated: 2025-10-05T15:06:43Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37747,7 +37747,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837570810)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837603578)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837603578)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837636346)
@@ -37772,7 +37772,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE Low AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag): נעלי כדורגל מקצועיות Phantom 6 Elite LE Low AG עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ותנועה חלקה. עיצוב קרסול נמוך לנוחות ותמיכה, עם מתיחת נעל מותאמת במיוחד לאזור האצבעות. מתאימות למגרשי דשא מלאכותי.
-  Updated: 2025-09-29T14:15:23Z
+  Updated: 2025-10-05T15:06:43Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37786,7 +37786,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854348026)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854380794)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854380794)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854413562)
@@ -40216,169 +40216,169 @@
   - [XXXXL](https://www.rsport.co.il/products/חולצת-רומא-בית-25-26-גברים?variant=47510048669946)
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
-- [חולצת מנצ'סטר יונייטד חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים): חולצת מנצ'סטר יונייטד חוץ לעונת 25/26 מגיעה בצבעים לבן וסגול, שילוב שמתבל את העיצוב המודרני שלה. עשויה מ-100% פוליאסטר נושם וקל, החולצה מציעה נוחות מקסימלית ותחושת יובש לאורך כל היום עם סמל הקבוצה ופרטים עיצוביים עדכניים, החולצה מושלמת עבור אוהדים שרוצים לשדר את הגאווה שלהם לקבוצה בכל סיטואציה מהאימון ועד הלבוש היומיומי.
-  Updated: 2025-09-18T18:07:58Z
+- [חולצת מנצ'סטר יונייטד חוץ 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men): חולצת מנצ'סטר יונייטד חוץ לעונת 25/26 מגיעה בצבעים לבן וסגול, שילוב שמתבל את העיצוב המודרני שלה. עשויה מ-100% פוליאסטר נושם וקל, החולצה מציעה נוחות מקסימלית ותחושת יובש לאורך כל היום עם סמל הקבוצה ופרטים עיצוביים עדכניים, החולצה מושלמת עבור אוהדים שרוצים לשדר את הגאווה שלהם לקבוצה בכל סיטואציה מהאימון ועד הלבוש היומיומי.
+  Updated: 2025-10-05T13:38:22Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_e5771ac3-0716-4b39-a96b-f4744e66fa6e.jpg?v=1752762830
-  - [S](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119048954)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119048954)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119081722)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119081722)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119114490)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119114490)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119147258)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119147258)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119180026)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119180026)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119212794)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119212794)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47519119245562)
+  - [XXXXL](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-men?variant=47519119245562)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-- [חולצת משחקי חוץ מנצ'סטר יונייטד 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים): חולצת משחק החוץ האותנטית של מנצ'סטר יונייטד לעונת 25/26 בהשראת החולצה שלובשים השחקנים על המגרש, מציעה עיצוב מדויק עם ביצועים גבוהים. בגווני לבן וסגול, החולצה מגיעה בגזרה צמודה ומיוצרת מ-100% פוליאסטר קל ונושם, המבטיח נידוף לחות יעיל ונוחות מתמשכת. אידיאלית לאוהדים שמחפשים תחושת משחק אמיתית, מראה מקצועי ונוחות מקסימלית במהלך אימונים, משחקים ובלבוש יומיומי.
-  Updated: 2025-10-02T11:27:45Z
+- [חולצת משחקי חוץ מנצ'סטר יונייטד 25/26 אותנטית | גברים](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men): חולצת משחק החוץ האותנטית של מנצ'סטר יונייטד לעונת 25/26 בהשראת החולצה שלובשים השחקנים על המגרש, מציעה עיצוב מדויק עם ביצועים גבוהים. בגווני לבן וסגול, החולצה מגיעה בגזרה צמודה ומיוצרת מ-100% פוליאסטר קל ונושם, המבטיח נידוף לחות יעיל ונוחות מתמשכת. אידיאלית לאוהדים שמחפשים תחושת משחק אמיתית, מראה מקצועי ונוחות מקסימלית במהלך אימונים, משחקים ובלבוש יומיומי.
+  Updated: 2025-10-05T13:38:22Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_b455dd1d-1f84-42ae-8849-134ca2a620e7.jpg?v=1752763150
-  - [S](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47519156764922)
+  - [S](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men?variant=47519156764922)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47519156797690)
+  - [M](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men?variant=47519156797690)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47519156830458)
+  - [L](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men?variant=47519156830458)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47519156863226)
+  - [XL](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men?variant=47519156863226)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47519156895994)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men?variant=47519156895994)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-25-26-אותנטית-גברים?variant=47519156928762)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-match-mnu-away-25-26-men?variant=47519156928762)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [חליפת ילדים מנצ'סטר יונייטד חוץ 25/26](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-25-26): חליפת ילדים מנצ'סטר יונייטד חוץ 25/26 בצבע לבן וסגול, כוללת חולצה ומכנסיים קצרים עשויים 100% פוליאסטר איכותי ונושם. הגזרה מותאמת במיוחד לילדים ומאפשרת תנועה חופשית ונוחות לאורך כל הפעילות. העיצוב משלב את הצבעים לבן וסגול של החוץ, עם סמל ארוג ופרטים מעונת 25/26, אידיאלית לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד מחוץ למגרש.
-  Updated: 2025-10-02T11:52:00Z
+- [חליפת ילדים מנצ'סטר יונייטד חוץ 25/26](https://www.rsport.co.il/products/kids-suit-mnu-away-25-26): חליפת ילדים מנצ'סטר יונייטד חוץ 25/26 בצבע לבן וסגול, כוללת חולצה ומכנסיים קצרים עשויים 100% פוליאסטר איכותי ונושם. הגזרה מותאמת במיוחד לילדים ומאפשרת תנועה חופשית ונוחות לאורך כל הפעילות. העיצוב משלב את הצבעים לבן וסגול של החוץ, עם סמל ארוג ופרטים מעונת 25/26, אידיאלית לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד מחוץ למגרש.
+  Updated: 2025-10-05T13:38:21Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_59481398-84d6-452d-a29e-22e4594ab449.jpg?v=1752814554
-  - [2-3Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-25-26?variant=47520923746554)
+  - [2-3Y](https://www.rsport.co.il/products/kids-suit-mnu-away-25-26?variant=47520923746554)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [4-5Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-25-26?variant=47520923779322)
+  - [4-5Y](https://www.rsport.co.il/products/kids-suit-mnu-away-25-26?variant=47520923779322)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [6-7Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-25-26?variant=47520923812090)
+  - [6-7Y](https://www.rsport.co.il/products/kids-suit-mnu-away-25-26?variant=47520923812090)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [8-9Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-חוץ-25-26?variant=47520923844858)
+  - [8-9Y](https://www.rsport.co.il/products/kids-suit-mnu-away-25-26?variant=47520923844858)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-- [חולצת כדורגל מנצ'סטר יונייטד חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-גוניורס): חולצת כדורגל לילדים מנצ'סטר יונייטד בעונת 25/26, דגם חוץ בצבע לבן וסגול. עשויה 100% פוליאסטר איכותי ונושם, עם גזרה נוחה שמאפשרת תנועה חופשית וקלילה. העיצוב משלב את סמל הקבוצה, מושלמת לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד לאורך כל הפעילות.
-  Updated: 2025-10-02T11:52:00Z
+- [חולצת כדורגל מנצ'סטר יונייטד חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-juniors): חולצת כדורגל לילדים מנצ'סטר יונייטד בעונת 25/26, דגם חוץ בצבע לבן וסגול. עשויה 100% פוליאסטר איכותי ונושם, עם גזרה נוחה שמאפשרת תנועה חופשית וקלילה. העיצוב משלב את סמל הקבוצה, מושלמת לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד לאורך כל הפעילות.
+  Updated: 2025-10-05T13:38:21Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_52066302-a130-44b4-a556-e9841e9c3288.jpg?v=1752814870
-  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520931381498)
+  - [10-11Y](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-juniors?variant=47520931381498)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520931414266)
+  - [11-12Y](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-juniors?variant=47520931414266)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520931447034)
+  - [12-13Y](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-juniors?variant=47520931447034)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520931479802)
+  - [13-14Y](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-juniors?variant=47520931479802)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-- [מכנסיים קצרים מנצ'סטר יונייטד חוץ 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים): מכנסיים קצרים מנצ'סטר יונייטד חוץ 25/26 לגברים, עשויים 100% פוליאסטר איכותי ונושם. הגזרה נוחה ומותאמת למתן חופש תנועה מלא במהלך אימון או משחק. מגיעים בצבע סגול, מושלמים לאוהדים שרוצים להרגיש חלק מהקבוצה גם מחוץ למגרש.
-  Updated: 2025-09-18T18:16:42Z
+- [מכנסיים קצרים מנצ'סטר יונייטד חוץ 25/26 | גברים](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men): מכנסיים קצרים מנצ'סטר יונייטד חוץ 25/26 לגברים, עשויים 100% פוליאסטר איכותי ונושם. הגזרה נוחה ומותאמת למתן חופש תנועה מלא במהלך אימון או משחק. מגיעים בצבע סגול, מושלמים לאוהדים שרוצים להרגיש חלק מהקבוצה גם מחוץ למגרש.
+  Updated: 2025-10-05T13:38:21Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_a9455a49-2a7f-408f-99a2-069f885d25f3.jpg?v=1752815072
-  - [S](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936395002)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936395002)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936427770)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936427770)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936460538)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936460538)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936493306)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936493306)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936526074)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936526074)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936558842)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936558842)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-חוץ-25-26-גברים?variant=47520936591610)
+  - [XXXXL](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-men?variant=47520936591610)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [מכנסי כדורגל קצרים מנצ'סטר יונייטד חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-חוץ-25-26-גוניורס): השלים את הלוק עם מכנסי מנצ'סטר יונייטד הקצרים לעונת 25/26 המכנסיים מגיעים בגוון סגול התואמים לעיצוב החולצה, וכוללים גומי נוח במותן להתאמה מדויקת ונוחה. עשויים 100% פוליאסטר קל ונושם, שמעניק נוחות מקסימלית בזמן משחק, אימון או פשוט יום של אהבה לקבוצה
-  Updated: 2025-10-02T11:28:00Z
+- [מכנסי כדורגל קצרים מנצ'סטר יונייטד חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-juniors): השלים את הלוק עם מכנסי מנצ'סטר יונייטד הקצרים לעונת 25/26 המכנסיים מגיעים בגוון סגול התואמים לעיצוב החולצה, וכוללים גומי נוח במותן להתאמה מדויקת ונוחה. עשויים 100% פוליאסטר קל ונושם, שמעניק נוחות מקסימלית בזמן משחק, אימון או פשוט יום של אהבה לקבוצה
+  Updated: 2025-10-05T13:38:21Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_06fd5d92-ad01-4090-a25f-b365e5f4cf36.jpg?v=1752815461
-  - [10-11Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520943603962)
+  - [10-11Y](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-juniors?variant=47520943603962)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [11-12Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520943636730)
+  - [11-12Y](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-juniors?variant=47520943636730)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [12-13Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520943669498)
+  - [12-13Y](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-juniors?variant=47520943669498)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-חוץ-25-26-גוניורס?variant=47520943702266)
+  - [13-14Y](https://www.rsport.co.il/products/football-shorts-mnu-away-25-26-juniors?variant=47520943702266)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-- [חולצת כדורגל מנצ'סטר יונייטד חוץ 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-נשים): תוסיפי טאץ' של מנצ'סטר יונייטד לסטייל היומי שלך עם חולצת חוץ 25/26 לנשים. עשויה 100% פוליאסטר קל ונושם, עם גזרה שמחמיאה לגוף ומאפשרת תנועה חופשית. הצבעים לבן וסגול מעניקים לך מראה צעיר ורענן, אידיאלי לאוהדות שרוצות להראות תמיכה אמיתית בלי לוותר על נוחות וסטייל.
-  Updated: 2025-09-18T18:08:00Z
+- [חולצת כדורגל מנצ'סטר יונייטד חוץ 25/26 | נשים](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-women): תוסיפי טאץ' של מנצ'סטר יונייטד לסטייל היומי שלך עם חולצת חוץ 25/26 לנשים. עשויה 100% פוליאסטר קל ונושם, עם גזרה שמחמיאה לגוף ומאפשרת תנועה חופשית. הצבעים לבן וסגול מעניקים לך מראה צעיר ורענן, אידיאלי לאוהדות שרוצות להראות תמיכה אמיתית בלי לוותר על נוחות וסטייל.
+  Updated: 2025-10-05T13:38:20Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_1cfa285f-7fcc-468e-b581-9af015e18411.jpg?v=1752815637
-  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-נשים?variant=47520948519162)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-women?variant=47520948519162)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-נשים?variant=47520948551930)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-women?variant=47520948551930)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-נשים?variant=47520948584698)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-women?variant=47520948584698)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-נשים?variant=47520948617466)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-women?variant=47520948617466)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-חוץ-25-26-נשים?variant=47520948650234)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-away-25-26-women?variant=47520948650234)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-- [גרבי כדורגל מנצ'סטר יונייטד חוץ 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-חוץ-25-26): גרבי כדורגל מנצ'סטר יונייטד חוץ 25/26, עשויים מבד איכותי ונושם שמספק תמיכה ונוחות לאורך כל המשחק. עם עיצוב בצבעים לבן וסגול שמשלים את הלוק של קבוצת החוץ, הגמישות וההתאמה המדויקת במקומות הנכונים מאפשרות תנועה חופשית וללא הגבלות. אידיאליים לכל אוהד שרוצה להרגיש חלק מהקבוצה.
-  Updated: 2025-09-18T18:29:59Z
+- [גרבי כדורגל מנצ'סטר יונייטד חוץ 25/26](https://www.rsport.co.il/products/football-socks-mnu-away-25-26): גרבי כדורגל מנצ'סטר יונייטד חוץ 25/26, עשויים מבד איכותי ונושם שמספק תמיכה ונוחות לאורך כל המשחק. עם עיצוב בצבעים לבן וסגול שמשלים את הלוק של קבוצת החוץ, הגמישות וההתאמה המדויקת במקומות הנכונים מאפשרות תנועה חופשית וללא הגבלות. אידיאליים לכל אוהד שרוצה להרגיש חלק מהקבוצה.
+  Updated: 2025-10-05T13:38:20Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_6fc7c18d-1fee-4e3c-8b09-b1103087b2a1.jpg?v=1752816042
-  - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-חוץ-25-26?variant=47520955793658)
+  - [בוגרים 38 - 47](https://www.rsport.co.il/products/football-socks-mnu-away-25-26?variant=47520955793658)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-  - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-חוץ-25-26?variant=47520955826426)
+  - [ילדים 28 - 37](https://www.rsport.co.il/products/football-socks-mnu-away-25-26?variant=47520955826426)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות F50+ FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-fg): נעלי כדורגל מקצועיות F50+ FG דגם F50+ FG בנוי לשחקנים המחפשים מהירות ודיוק במגרש. עם צווארון Primeknit נטול שרוכים וגפה Fibertouch קלת משקל, הנעל מספקת תחושת תמיכה מדויקת מבלי להכביד. טקסטורת Sprintweb תלת־ממדית מחזקת את האחיזה בכדור בזמן כדרור. סוליית Sprintframe 360+ עם קצף Lightstrike Pro מעצימה את התאוצה ומייצבת את הרגל במהלך שינויים מהירים בכיוון, עם פקקים עגולים במרכז לניהוג חד וחלק. משקל הנעל הוא כ-188 גרם בלבד, מה שהופך אותה לקלה במיוחד. הנעל מגיעה עם שני מדרסים לבחירה – SL למהירות מירבית, או Comfort לספיגת זעזועים משופרת. מיועדת למשטחי דשא טבעיים, ומיוצרת לפחות מ-20% מחומרים ממוחזרים. שים לב, גימור הלכה התחתון עלול לדהות במהלך משחק – אך לא משפיע על ביצועי הנעל.
@@ -41555,217 +41555,217 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-תלבושת-שלישית-25-26-נשים?variant=47599841706234)
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
-- [חולצת מנצ'סטר יונייטד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים): התלבושת השלישית לעונת 25/26 מציגה שילוב מרהיב של שחור, צהוב וכחול, שמוסיף לה נגיעה ייחודית ואנרגטית. עשויה מבד פוליאסטר איכותי, קל ונושם, המעניק תחושת נוחות מקסימלית גם בזמן משחק אינטנסיבי וגם ביום יום, סמל המועדון בגימור מודגש יחד עם פרטים עיצוביים עכשוויים הופכים את החולצה לפריט חובה עבור כל אוהד שמעוניין להציג בגאווה את תמיכתו בקבוצה בכל סיטואציה.
-  Updated: 2025-09-26T05:35:18Z
+- [חולצת מנצ'סטר יונייטד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men): התלבושת השלישית לעונת 25/26 מציגה שילוב מרהיב של שחור, צהוב וכחול, שמוסיף לה נגיעה ייחודית ואנרגטית. עשויה מבד פוליאסטר איכותי, קל ונושם, המעניק תחושת נוחות מקסימלית גם בזמן משחק אינטנסיבי וגם ביום יום, סמל המועדון בגימור מודגש יחד עם פרטים עיצוביים עכשוויים הופכים את החולצה לפריט חובה עבור כל אוהד שמעוניין להציג בגאווה את תמיכתו בקבוצה בכל סיטואציה.
+  Updated: 2025-10-05T13:40:46Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/17_ff6ce0f0-8fd4-4c63-b7df-59fa9f483025.jpg?v=1755087315
-  - [S](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969030906)
+  - [S](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969030906)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969063674)
+  - [M](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969063674)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969096442)
+  - [L](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969096442)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969129210)
+  - [XL](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969129210)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969161978)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969161978)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969194746)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969194746)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610969227514)
+  - [XXXXL](https://www.rsport.co.il/products/football-shirt-ss-mnu-third-25-26-men?variant=47610969227514)
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
-- [חליפת ילדים מנצ'סטר יונייטד תלבושת שלישית 25/26](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-תלבושת-שלישית-25-26): חליפת ילדים מנצ'סטר יונייטד תלבושת שלישית 25/26 כוללת חולצה ומכנסיים קצרים בצבעי שחור צהוב וכחול 100% פוליאסטר איכותי ונושם הגזרה מותאמת במיוחד לילדים ומאפשרת תנועה חופשית ונוחות לאורך כל הפעילות העיצוב משלב את צבעי התלבושת השלישית אידיאלית לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד בכל מקום
-  Updated: 2025-10-02T11:51:58Z
+- [חליפת ילדים מנצ'סטר יונייטד תלבושת שלישית 25/26](https://www.rsport.co.il/products/kids-suit-mnu-third-25-26): חליפת ילדים מנצ'סטר יונייטד תלבושת שלישית 25/26 כוללת חולצה ומכנסיים קצרים בצבעי שחור צהוב וכחול 100% פוליאסטר איכותי ונושם הגזרה מותאמת במיוחד לילדים ומאפשרת תנועה חופשית ונוחות לאורך כל הפעילות העיצוב משלב את צבעי התלבושת השלישית אידיאלית לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד בכל מקום
+  Updated: 2025-10-05T13:38:20Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_76482a19-385e-4f75-929f-9c7f5e9e22c0.jpg?v=1755087608
-  - [2-3Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-תלבושת-שלישית-25-26?variant=47610973913338)
+  - [2-3Y](https://www.rsport.co.il/products/kids-suit-mnu-third-25-26?variant=47610973913338)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [4-5Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-תלבושת-שלישית-25-26?variant=47610973946106)
+  - [4-5Y](https://www.rsport.co.il/products/kids-suit-mnu-third-25-26?variant=47610973946106)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [6-7Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-תלבושת-שלישית-25-26?variant=47610973978874)
+  - [6-7Y](https://www.rsport.co.il/products/kids-suit-mnu-third-25-26?variant=47610973978874)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-  - [8-9Y](https://www.rsport.co.il/products/חליפת-ילדים-מנצסטר-יונייטד-תלבושת-שלישית-25-26?variant=47610974011642)
+  - [8-9Y](https://www.rsport.co.il/products/kids-suit-mnu-third-25-26?variant=47610974011642)
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
-- [חולצת כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס): חולצת כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 ג'וניורס בצבעי שחור צהוב וכחול בהשראת התלבושת שהשחקנים לובשים על המגרש עשויה 100% פוליאסטר איכותי ונושם עם גזרה נוחה שמאפשרת תנועה חופשית וקלילה העיצוב משלב את סמל הקבוצה אידיאלית לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד לאורך כל הפעילות
-  Updated: 2025-10-02T11:51:58Z
+- [חולצת כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-juniors): חולצת כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 ג'וניורס בצבעי שחור צהוב וכחול בהשראת התלבושת שהשחקנים לובשים על המגרש עשויה 100% פוליאסטר איכותי ונושם עם גזרה נוחה שמאפשרת תנועה חופשית וקלילה העיצוב משלב את סמל הקבוצה אידיאלית לאוהדים הצעירים שרוצים ללבוש בגאווה את צבעי מנצ'סטר יונייטד לאורך כל הפעילות
+  Updated: 2025-10-05T13:38:19Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_499e7e52-6f37-4cc0-ba72-1b5af4608ea6.jpg?v=1755087942
-  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610981515514)
+  - [10-11Y](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-juniors?variant=47610981515514)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610981548282)
+  - [11-12Y](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-juniors?variant=47610981548282)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610981581050)
+  - [12-13Y](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-juniors?variant=47610981581050)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610981613818)
+  - [13-14Y](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-juniors?variant=47610981613818)
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
-- [מכנסיים קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים): מכנסיים קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 לגברים בצבעי שחור וצהוב עשויים בד פוליאסטר איכותי ונושם המעניק נוחות ותנועה חופשית בכל אימון או פעילות ספורטיבית הגזרה מותאמת למבוגרים ומדגישה את צבעי התלבושת השלישית השלימו את הלוק, הראו את אהבתכם למועדון והרגישו חלק מהקבוצה בכל רגע
-  Updated: 2025-09-26T05:35:18Z
+- [מכנסיים קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men): מכנסיים קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 לגברים בצבעי שחור וצהוב עשויים בד פוליאסטר איכותי ונושם המעניק נוחות ותנועה חופשית בכל אימון או פעילות ספורטיבית הגזרה מותאמת למבוגרים ומדגישה את צבעי התלבושת השלישית השלימו את הלוק, הראו את אהבתכם למועדון והרגישו חלק מהקבוצה בכל רגע
+  Updated: 2025-10-05T13:38:19Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/32_f870d37b-2418-47d1-8d4a-a8abae7070ef.jpg?v=1755088076
-  - [S](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610985906426)
+  - [S](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610985906426)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610985939194)
+  - [M](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610985939194)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610985971962)
+  - [L](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610985971962)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610986004730)
+  - [XL](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610986004730)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610986037498)
+  - [XXL](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610986037498)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610986070266)
+  - [XXXL](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610986070266)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-  - [XXXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גברים?variant=47610986103034)
+  - [XXXXL](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-men?variant=47610986103034)
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
-- [מכנסי כדורגל קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס): מכנסי כדורגל קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 ג'וניורס בצבעי שחור וצהוב עשויים 100% פוליאסטר איכותי ונושם המעניק נוחות ותנועה חופשית לאורך כל אימון או משחק הגזרה מותאמת במיוחד לילדים עם פרטים שמדגישים את צבעי התלבושת השלישית אידיאליים לילדים שרוצים ללבוש בגאווה את צבעי המועדון
-  Updated: 2025-10-02T11:28:12Z
+- [מכנסי כדורגל קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-juniors): מכנסי כדורגל קצרים מנצ'סטר יונייטד תלבושת שלישית 25/26 ג'וניורס בצבעי שחור וצהוב עשויים 100% פוליאסטר איכותי ונושם המעניק נוחות ותנועה חופשית לאורך כל אימון או משחק הגזרה מותאמת במיוחד לילדים עם פרטים שמדגישים את צבעי התלבושת השלישית אידיאליים לילדים שרוצים ללבוש בגאווה את צבעי המועדון
+  Updated: 2025-10-05T13:38:19Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/26_976859c7-c8d1-4c09-a78d-66ea3d59c775.jpg?v=1755088312
-  - [10-11Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610989248762)
+  - [10-11Y](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-juniors?variant=47610989248762)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [11-12Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610989281530)
+  - [11-12Y](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-juniors?variant=47610989281530)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [12-13Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610989314298)
+  - [12-13Y](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-juniors?variant=47610989314298)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-  - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-יונייטד-תלבושת-שלישית-25-26-גוניורס?variant=47610989347066)
+  - [13-14Y](https://www.rsport.co.il/products/football-shorts-mnu-third-25-26-juniors?variant=47610989347066)
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
-- [חולצת כדורגל מנצ'סטר יונייטד שלישית 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-שלישית-25-26-נשים): חולצת כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 נשים בצבעי שחור צהוב וכחול מוסיפה טאץ' של מנצ'סטר יונייטד לסטייל היומי שלך עשויה 100% פוליאסטר קל ונושם עם גזרה שמחמיאה לגוף ומאפשרת תנועה חופשית הצבעים מעניקים מראה צעיר ורענן אידיאלית לאוהדות שרוצות להראות תמיכה אמיתית בלי לוותר על נוחות וסטייל
-  Updated: 2025-09-26T05:36:20Z
+- [חולצת כדורגל מנצ'סטר יונייטד שלישית 25/26 | נשים](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-women): חולצת כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 נשים בצבעי שחור צהוב וכחול מוסיפה טאץ' של מנצ'סטר יונייטד לסטייל היומי שלך עשויה 100% פוליאסטר קל ונושם עם גזרה שמחמיאה לגוף ומאפשרת תנועה חופשית הצבעים מעניקים מראה צעיר ורענן אידיאלית לאוהדות שרוצות להראות תמיכה אמיתית בלי לוותר על נוחות וסטייל
+  Updated: 2025-10-05T13:38:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/34_dc67f020-df8d-436a-9562-58908a46f5e5.jpg?v=1755088437
-  - [S](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-שלישית-25-26-נשים?variant=47610990723322)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-women?variant=47610990723322)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-שלישית-25-26-נשים?variant=47610990756090)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-women?variant=47610990756090)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-שלישית-25-26-נשים?variant=47610990788858)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-women?variant=47610990788858)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-שלישית-25-26-נשים?variant=47610990821626)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-women?variant=47610990821626)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-יונייטד-שלישית-25-26-נשים?variant=47610990854394)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-women?variant=47610990854394)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
-- [חולצת משחק שלישית מנצ'סטר יונייטד 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים): חולצת משחק שלישית מנצ'סטר יונייטד 25/26 גברים בצבעי שחור צהוב וכחול בהשראת החולצה שהשחקנים לובשים על המגרש עשויה 100% פוליאסטר קל ונושם המבטיח נידוף לחות יעיל ונוחות מתמשכת הגזרה צמודה ומדגישה את קווי הגוף אידיאלית לאוהדים שרוצים מראה מקצועי ותחושת משחק אמיתית במהלך אימונים, משחקים או בלבוש יומיומי
-  Updated: 2025-10-02T11:27:49Z
+- [חולצת משחק שלישית מנצ'סטר יונייטד 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men): חולצת משחק שלישית מנצ'סטר יונייטד 25/26 גברים בצבעי שחור צהוב וכחול בהשראת החולצה שהשחקנים לובשים על המגרש עשויה 100% פוליאסטר קל ונושם המבטיח נידוף לחות יעיל ונוחות מתמשכת הגזרה צמודה ומדגישה את קווי הגוף אידיאלית לאוהדים שרוצים מראה מקצועי ותחושת משחק אמיתית במהלך אימונים, משחקים או בלבוש יומיומי
+  Updated: 2025-10-05T13:38:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/29_803b9506-626d-4d95-9d3e-fb374ed9fff4.jpg?v=1755088682
-  - [S](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים?variant=47610996850938)
+  - [S](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men?variant=47610996850938)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים?variant=47610996883706)
+  - [M](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men?variant=47610996883706)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים?variant=47610996916474)
+  - [L](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men?variant=47610996916474)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים?variant=47610996949242)
+  - [XL](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men?variant=47610996949242)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים?variant=47610996982010)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men?variant=47610996982010)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחק-שלישית-מנצסטר-יונייטד-25-26-גברים?variant=47610997014778)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-mnu-third-25-26-men?variant=47610997014778)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [גרבי כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26): גרבי כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 בצבעי שחור צהוב וכחול עשויים מבד איכותי ונושם המעניק תמיכה ונוחות לאורך כל המשחק אידיאליים לאוהדים שרוצים להרגיש חלק מהמועדון ולשלם את הלוק של התלבושת השלישית
-  Updated: 2025-09-26T05:36:20Z
+- [גרבי כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26](https://www.rsport.co.il/products/football-socks-mnu-third-25-26): גרבי כדורגל מנצ'סטר יונייטד תלבושת שלישית 25/26 בצבעי שחור צהוב וכחול עשויים מבד איכותי ונושם המעניק תמיכה ונוחות לאורך כל המשחק אידיאליים לאוהדים שרוצים להרגיש חלק מהמועדון ולשלם את הלוק של התלבושת השלישית
+  Updated: 2025-10-05T13:38:18Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/43_9eaf91f2-075c-46d5-84bb-7ba3eeb29abc.jpg?v=1755089093
-  - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26?variant=47611001143546)
+  - [בוגרים 38 - 47](https://www.rsport.co.il/products/football-socks-mnu-third-25-26?variant=47611001143546)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-  - [ילדים 28 - 37](https://www.rsport.co.il/products/גרבי-כדורגל-מנצסטר-יונייטד-תלבושת-שלישית-25-26?variant=47611001176314)
+  - [ילדים 28 - 37](https://www.rsport.co.il/products/football-socks-mnu-third-25-26?variant=47611001176314)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-- [חולצה ארוכה מנצ'סטר יונייטד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים): חולצה ארוכה מנצ'סטר יונייטד שלישית 25/26 גברים בצבעי שחור וצהוב עשויה 100% פוליאסטר איכותי ונושם עם גזרה רגילה ונוחה המעניקה תחושת נוחות לאורך כל היום העיצוב משלב את צבעי התלבושת השלישית וסמל הקבוצה מתאים לאימון, משחק או ללבוש יומיומי
-  Updated: 2025-09-26T05:36:20Z
+- [חולצה ארוכה מנצ'סטר יונייטד שלישית 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men): חולצה ארוכה מנצ'סטר יונייטד שלישית 25/26 גברים בצבעי שחור וצהוב עשויה 100% פוליאסטר איכותי ונושם עם גזרה רגילה ונוחה המעניקה תחושת נוחות לאורך כל היום העיצוב משלב את צבעי התלבושת השלישית וסמל הקבוצה מתאים לאימון, משחק או ללבוש יומיומי
+  Updated: 2025-10-05T13:38:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/37_2456340d-a772-4fd1-b0aa-d9a0e9412dd3.jpg?v=1755089215
-  - [S](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611003633914)
+  - [S](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men?variant=47611003633914)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611003666682)
+  - [M](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men?variant=47611003666682)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611003699450)
+  - [L](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men?variant=47611003699450)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611003732218)
+  - [XL](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men?variant=47611003732218)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611003764986)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men?variant=47611003764986)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצה-ארוכה-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611003797754)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-ls-mnu-third-25-26-men?variant=47611003797754)
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
-- [חולצת משחקי מנצ'סטר יונייטד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים): חולצת משחק שלישית מנצ'סטר יונייטד 25/26 גברים בצבעי שחור וצהוב בגזרה צמודה שמאפשרת תנועה חופשית ונוחות מירבית עשויה 100% פוליאסטר קל ונושם בהשראת החולצה שהשחקנים לובשים על המגרש עם סמל הקבוצה על החזה ופרטים שמדגישים את צבעי התלבושת אידיאלית לאוהדים שרוצים להרגיש חלק מהמועדון בכל פעילות
-  Updated: 2025-10-02T11:27:49Z
+- [חולצת משחקי מנצ'סטר יונייטד ארוכה שלישית 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men): חולצת משחק שלישית מנצ'סטר יונייטד 25/26 גברים בצבעי שחור וצהוב בגזרה צמודה שמאפשרת תנועה חופשית ונוחות מירבית עשויה 100% פוליאסטר קל ונושם בהשראת החולצה שהשחקנים לובשים על המגרש עם סמל הקבוצה על החזה ופרטים שמדגישים את צבעי התלבושת אידיאלית לאוהדים שרוצים להרגיש חלק מהמועדון בכל פעילות
+  Updated: 2025-10-05T13:38:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/40_411f9c2d-575b-449f-9dbf-c997ac92ef24.jpg?v=1755089463
-  - [S](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611006648570)
+  - [S](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men?variant=47611006648570)
     Availability: Available
     Price: ‏250.00 ‏₪ ILS
-  - [M](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611006681338)
+  - [M](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men?variant=47611006681338)
     Availability: Available
     Price: ‏250.00 ‏₪ ILS
-  - [L](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611006714106)
+  - [L](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men?variant=47611006714106)
     Availability: Available
     Price: ‏250.00 ‏₪ ILS
-  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611006746874)
+  - [XL](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men?variant=47611006746874)
     Availability: Available
     Price: ‏250.00 ‏₪ ILS
-  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611006779642)
+  - [XXL](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men?variant=47611006779642)
     Availability: Available
     Price: ‏250.00 ‏₪ ILS
-  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-יונייטד-שלישית-25-26-גברים?variant=47611006812410)
+  - [XXXL](https://www.rsport.co.il/products/football-shirt-ls-match-mnu-third-25-26-men?variant=47611006812410)
     Availability: Available
     Price: ‏250.00 ‏₪ ILS
 - [חולצת ארסנל תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-ארסנל-תלבושת-שלישית-25-26-גברים): חולצת ארסנל תלבושת שלישית 25/26 גברים בצבע שמנת בגזרה רגילה שמתאימה לאוהדים עשויה 100% פוליאסטר קל ונושם המעניק נוחות מירבית לאורך כל היום העיצוב כולל את סמל הקבוצה על החזה ומתאים למשחק, אימון או ללבוש יומיומי
@@ -45809,7 +45809,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
-  Updated: 2025-09-30T01:24:19Z
+  Updated: 2025-10-05T15:06:44Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45817,7 +45817,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200008442)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200041210)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200041210)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200073978)
@@ -45848,7 +45848,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc): ‏נעליים במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' לשיפור דיוק ושליטה בכדור Gripknit בצבעי RGB וסווש פיקסלואידי מעניקים טאץ' דיגיטלי מודרני וסוליית Cyclone 360 מאפשרת תנועה זריזה ושינוי כיוון חלק עם יציבות ונוחות מרבית להתאמה למגוון סוגי רגליים ולחוויית משחק התקפית ונוחה
-  Updated: 2025-09-30T01:46:39Z
+  Updated: 2025-10-05T15:06:39Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45874,7 +45874,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360866554)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360899322)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360899322)
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360932090)
@@ -45957,12 +45957,142 @@
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-04T215839.850.jpg?v=1759604342
   Price: ‏850.00 ‏₪ ILS
 - [כדור רגל גביע העולם 2026 חצי מקצועי Trionda Competition Football](https://www.rsport.co.il/products/football-2026-competition-8947031015674): תשדרג את חוויית המשחק עם כדור רגל חצי מקצועי Trionda Competition לגביע העולם 2026. עמיד, מדויק ונוח למשחקים ואימונים.
-  Updated: 2025-10-05T09:02:48Z
+  Updated: 2025-10-05T12:29:23Z
   Vendor: R:Sport
   Product Type: כדור רגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_9ef75fde-2b24-485c-8d5c-fd5f3266b6ae.jpg?v=1759603603
   Price: ‏550.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Future 8 Ultimate FG Hot Pursuit](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-05T15:46:20Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_e88a1b61-69ff-4ad2-be09-0e1ce742c29a.jpg?v=1759676343
+  - [36](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978338554)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978371322)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978404090)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978436858)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978469626)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978502394)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978535162)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973095674)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978567930)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973128442)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973161210)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973193978)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973226746)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973259514)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973292282)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973325050)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973357818)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973390586)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973423354)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Future 8 Ultimate Low FG](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-05T15:46:27Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_bddc94b2-4159-4294-b068-2b5ddd393d99.jpg?v=1759677465
+  - [36](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981189370)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981222138)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981254906)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981287674)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981320442)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981353210)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981385978)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981418746)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981451514)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981484282)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981517050)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981549818)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981582586)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981615354)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981648122)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981680890)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981713658)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981746426)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981779194)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
 
 ## Collections
 
@@ -45973,7 +46103,7 @@
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-04T11:18:52Z
+  Updated: 2025-10-05T13:12:11Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-02T12:34:20Z
@@ -45985,7 +46115,7 @@
   Updated: 2025-10-02T12:12:20Z
   Total Products: 37
 - [מנצ'סטר יונייטד](https://www.rsport.co.il/collections/מנצסטר-יונייטד): גלה מגוון חולצות מנצ’סטר יונייטד לגברים, נשים וילדים. חולצות בית, חוץ, שלישיות וחולצות שוער. הדפסה עם שם ומספר של שחקנים או בהתאמה אישית. משלוח מהיר, אפשרות החלפה קלה. קנה עכשיו ב־ RSPORT
-  Updated: 2025-10-04T11:49:12Z
+  Updated: 2025-10-05T13:12:11Z
   Total Products: 67
 - [מנצ’סטר סיטי חולצות כדורגל, חליפות ומוצרי ספורט | Manchester City](https://www.rsport.co.il/collections/מנצסטר-סיטי): חולצות מנצ’סטר סיטי, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מגוון עיצובים עדכניים ואיכותיים לאוהדי Manchester City – סטייל ונאמנות למועדון.
   Updated: 2025-10-02T11:30:51Z
@@ -46339,16 +46469,16 @@
   Updated: 2025-10-02T11:31:13Z
   Total Products: 5
 - [Predator](https://www.rsport.co.il/collections/predator)
-  Updated: 2025-08-28T14:16:51Z
-  Total Products: 12
+  Updated: 2025-10-05T15:45:50Z
+  Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-05T11:18:53Z
-  Total Products: 49
+  Updated: 2025-10-05T15:45:50Z
+  Total Products: 51
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-10-05T11:18:53Z
-  Total Products: 44
+  Updated: 2025-10-05T15:45:50Z
+  Total Products: 46
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-04T11:18:52Z
+  Updated: 2025-10-05T13:12:11Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-10-02T12:34:19Z
@@ -46441,13 +46571,13 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-05T11:18:53Z
-  Total Products: 2052
+  Updated: 2025-10-05T15:45:50Z
+  Total Products: 2054
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-02T12:34:20Z
+  Updated: 2025-10-05T13:12:11Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-10-02T11:30:57Z
@@ -46627,10 +46757,10 @@
   Updated: 2025-10-02T12:34:17Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
-  Updated: 2025-10-02T12:34:19Z
+  Updated: 2025-10-05T13:12:11Z
   Total Products: 156
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
-  Updated: 2025-10-04T09:18:41Z
+  Updated: 2025-10-05T13:12:11Z
   Total Products: 31
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
   Updated: 2025-10-02T11:28:37Z
