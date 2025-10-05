@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-05T12:00:38.072Z
+- Updated At: 2025-10-05T20:00:37.126Z
 
 ## Products
 
@@ -4462,7 +4462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-santafecape-model-web_5.jpg?v=1759499299
     Price: $865.00 USD
 - [Buy Vienna Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vienna-cape): Discover modern sophistication with our alicia adamas alpaca's Vienna Cape, a statement piece for fashion enthusiasts. Featuring a reversible design and chic alcantara trim, this luxury alpaca cape exudes elegance. Shop now! Buy Vienna Cape at alicia adams alpaca, eco-friendly luxury goods and earn rewards.
-  Updated: 2025-10-03T14:30:25Z
+  Updated: 2025-10-05T18:15:35Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
