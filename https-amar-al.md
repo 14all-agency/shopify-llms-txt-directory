@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-04T16:00:34.822Z
+- Updated At: 2025-10-05T04:00:34.270Z
 
 ## Products
 
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/159-ANTI-COMEDONE-CREAM-unclogs-and-refines-skin-pores-COMEDO-ACNE-40-ml-1.png?v=1757514773
   Price: ALL 2,696.00 ALL
 - [CORNEO-SENSILIUM - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium](https://amar.al/products/dermo-regenerating-soothing-cream-face-body-cream-corneo-sensilium-75-ml): Pharmaceris – A Corneo-Sensilium Dermo-Regenerating Soothing Cream Krem i cili ka një veprim korrigjues në epidermën e dëmtuar. Rigjeneron intensivisht lëkurën pas trajtimeve, dëmtimit mikro, irritimit dhe gërvishtjeve. Ka një efekt forcues dhe rikthyes në trashësinë fiziologjike të epidermës. Hidraton lëkurën, duke eleminuar thatësinë e epidermës dhe rivendosjen e ekuilibrit natyror të shtresës mbrojtëse të shtresës-kornesë. Vaji i kërpit ka një efikasitet mjekësor në lehtësimin e irritimit, kruajtjes dhe eritemës. Tolerancë dhe efikasitet të lartë Testuar klinikisht dhe dermatologjikisht Udhëzime mbi përdorimin Kremi duhet të aplikohet 1 ose 2 herë në ditë ose, në varësi të nevojave, në lëkurën e pastruar dhe tharë më parë. - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium
-  Updated: 2025-10-04T07:38:05Z
+  Updated: 2025-10-04T21:22:21Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -1973,7 +1973,7 @@ Remover | 7 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://a
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0012_4099702000780_1.png?v=1751544378
   Price: ALL 7,518.30 ALL
 - [SmartAppGuided™ MicroNeedle Face Roller | 9 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Dermaroller](https://amar.al/products/smartappguided-microneedle-face-roller-9-in-1): Stimuloni lëkurën tuaj me rulin tonë të fytyrës me mikrogjilpërë SmartAppGuided™ | 9 në 1. Kjo pajisje inovative bukurie vjen me një Microgjilpërë, një ftohje dhe një kokë kuarci trëndafili. - Amar Pharma - Geske - Paisje të kujdesit personal Dermaroller
-  Updated: 2025-10-04T09:17:14Z
+  Updated: 2025-10-04T22:29:18Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
