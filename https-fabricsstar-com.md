@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-04T20:00:33.538Z
+- Updated At: 2025-10-05T08:00:34.202Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-01T11:56:57Z
+  Updated: 2025-10-05T02:29:30Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-10-04T01:01:06Z
+  Updated: 2025-10-05T00:04:56Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -9690,6 +9690,9 @@
     Author: User
   - [Comparing Natural and Synthetic Fabrics What's Best for You](https://fabricsstar.com/blogs/news/comparing-natural-and-synthetic-fabrics-whats-best-for-you): Comparing Natural and Synthetic Fabrics What's Best for You
     Updated: 2025-10-01T02:35:00Z
+    Author: User
+  - [Expert Advice on Styling Fabrics for All Seasons](https://fabricsstar.com/blogs/news/expert-advice-on-styling-fabrics-for-all-seasons): Expert Advice on Styling Fabrics for All Seasons
+    Updated: 2025-10-05T00:10:35Z
     Author: User
 
 ## Store Pages
