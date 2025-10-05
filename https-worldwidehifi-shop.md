@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-05T12:00:31.534Z
+- Updated At: 2025-10-05T16:00:31.816Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -20,13 +20,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b927be3f-d399-4954-95de-9eb8e493eb44.jpg?v=1742831523
   Price: 349,00 € EUR
-- [Bowers & Wilkins 802 D3 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-802-d3-gebraucht-kaufen): Bowers & Wilkins 802 D3 gebraucht kaufen ✅ Geprüfte Standlautsprecher mit 9 Jahren Restgarantie kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:08Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_27eac830-114a-4359-aa34-362c643b12b7.jpg?v=1742831597
-  Price: 12.900,00 € EUR
 - [Backes & Müller BM Line 25 MK II kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/backes-mueller-bm-line-25-mk-ii-kaufen): Backes & Müller BM Line 25 MK II kaufen ✅ Neugerät kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:06Z
   Vendor: WorldWideHifi
@@ -657,20 +650,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_6607b29a-3939-4cf7-8c19-ead2323e1cdb.jpg?v=1745853218
   Price: 99,00 € EUR
-- [Tascam MSR 16 16-Spur Recorder gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/tascam-msr-16-gebraucht-kaufen): Tascam MSR 16 16-Spur Recorder gebraucht kaufen ✅ Geprüftes Gerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:46Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_42981dd0-0650-4f2e-a98a-0f94f7ccd1cd.jpg?v=1745857688
-  Price: 1.640,00 € EUR
-- [Otari MX-55 1/4" Tape Recorder gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/otari-mx-55-defektes-geraet-kaufen): Otari MX-55 1/4" Tape Recorder defekt kaufen ✅ Professionelles Gerät mit Gebrauchsspuren kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:32Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_bb6fad61-c605-4808-9fdd-1224f5ffebd3.jpg?v=1745852826
-  Price: 2.480,00 € EUR
 - [Thorens Stabilizer Schallplatten Gewicht gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/thorens-stabilizer-schallplatten-gewicht-gebraucht-kaufen): Thorens Stabilizer Schallplatten Gewicht gebraucht kaufen ✅ Geprüftes Plattenspieler Zubehör mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:47Z
   Vendor: WorldWideHifi
@@ -1806,13 +1785,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_ef5713e1-ea00-4fe9-b7fe-a8e09cce190d.jpg?v=1754667910
   Price: 2.420,00 € EUR
-- [Dynaudio Consequence Ultimate Edition gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/dynaudio-consequence-ultimate-edition-gebraucht-kaufen): Dynaudio Consequence Ultimate Edition gebraucht kaufen ✅ Geprüfte Lautsprecher wie neu kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:26:58Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_42240afc-7b05-48dc-b29e-e68d85172180.jpg?v=1754668675
-  Price: 36.400,00 € EUR
 - [Finite Elemente Rack Pagode Master Reference Edition gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/finite-elemente-pagode-master-reference-edition-gebraucht-kaufen): Finite Elemente Rack Pagode Master Reference Edition gebraucht kaufen ✅ Geprüftes HiFi-Rack mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:15Z
   Vendor: WorldWideHifi
@@ -1932,13 +1904,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c21a2f2e-92d8-49ff-b84b-eaf7c273eebc.jpg?v=1755180820
   Price: 1.699,00 € EUR
-- [Infinity IRS Sigma gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/infinity-irs-sigma-gebruacht-kaufen): Infinity IRS Sigma gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:20Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_00358e42-032d-441d-b82a-f976180eb2dd.jpg?v=1755180728
-  Price: 4.520,00 € EUR
 - [PIEGA P4 XL MK II Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/piega-p4-xl-mk-ii-gebraucht-kaufen): PIEGA P4 XL MK II Lautsprecher gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-16T02:07:55Z
   Vendor: WorldWideHifi
@@ -1967,20 +1932,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7aec44fe-456e-4b6e-b180-96b17f0cc697.jpg?v=1755180617
   Price: 2.420,00 € EUR
-- [Burmester 961 MK III gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-961-mk-iii-gepruft-gebraucht-kaufen): Burmester 961 MK III gebraucht kaufen ✅ Geprüfte Lautsprecher in sehr gutem Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:09Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_917a3a86-3275-43a1-bc1c-b0ed887666f0.png?v=1755181732
-  Price: 4.620,00 € EUR
-- [DALI EPICON 6 gebraucht kaufen - Lautsprecher gebraucht - WorldWideHiFi](https://worldwidehifi.shop/products/dali-epicon-6-gebraucht-kaufen-1): DALI EPICON 6 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:13Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b6c93c4b-9eed-4148-95fb-c10801c9fb34.jpg?v=1755869261
-  Price: 4.920,00 € EUR
 - [Infinity IRS Sigma gebraucht kaufen - Lautsprecher - WorldWideHiFi](https://worldwidehifi.shop/products/infinity-irs-sigma-traum-lautsprecher-gebraucht-kaufen): Infinity IRS Sigma gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:20Z
   Vendor: WorldWideHiFi
@@ -2079,6 +2030,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4b5d8a9f-8f6c-4dc9-8b99-3541607d3eaa.jpg?v=1756382522
   Price: 16.820,00 € EUR
+- [Q-Acoustics Concept 500 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/q-acoustics-concept-500-gebraucht-kaufen): Q-Acoustics Concept 500 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T15:05:03Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1c83782a-5a92-4d32-b007-6cef7a0fbc04.png?v=1756382464
+  Price: 2.620,00 € EUR
 - [AVM MA 30.3 MK2 Mono Endstufen gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/avm-ma-30-3-mk2-gebraucht-kaufen): AVM MA 30.3 MK2 Mono Endstufen gebraucht kaufen ✅ Geprüfte Power Amplifiers mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:06Z
   Vendor: WorldWideHiFi
@@ -2135,57 +2093,57 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5b06a4b2-2ad3-438b-a8d4-0f8def1f08ee.jpg?v=1759250989
   Price: 192,00 € EUR
-- [2x Dynaudio Consequence "Ultimate Edition" Lautsprecher, OVP. Wie Neu! Near mint](https://worldwidehifi.shop/products/2x-dynaudio-consequence-ultimate-edition-lautsprecher-ovp-wie-neu-near-mint): Bei ernsthaftem Interesse kann das angebotene Produkt - auch vor einem Kauf - in unserem Hörraum probegehört und technisch von Ihnen überprüft werden! Dafür aber bitte unbedingt einen Termin vorab vereinbaren. Bei Selbstabholung ist außerdem immer ein höherer Preisnachlaß als sonst möglich Your template | Trixum Consequence - mit Rechnung vom Händler- alle Fotos sind vom angebotenen Produkt- perfekter technischer Zustand- sicherer Versand in stabiler Verpackung (auf Palette)- Alle Geräte können bei ernsthaftem Interesse in unserem Hörraum getestet werden und Sie können sich von der Richtigkeit unserer Angaben überzeugen.Preisnachlaß bei Selbstabholung möglich! Infos gerne auch per Tel. Unsere Nummer finden Sie unten in den Pflichtangaben. .trixum-mx-auto{margin-left:auto;margin-right:auto}.trixum-mb-2{margin-bottom:.5rem}.trixum-text-center{text-align:center}.trixum-img{max-width:100%;-o-object-fit:contain;object-fit:contain} Informationen zum Produkt / Product information Beschreibung:Ganz sicher einer der besten Lautsprecher, die jemals gebaut wurden. Werden kaum mehr angeboten weil sich die meisten Exemplare bereits in Sammlerhand befinden. Wer sie einmal hat, gibt sie nicht mehr her...Dies ist eine seltene Gelegenheit. Vielleicht auch die letzte. Im Internet finden Sie viele Stimmen und Testberichte. Das Pärchen stammt vom Erstbesitzer. Die originale Verpackung (zwei große Holzkisten) ist komplett vorhanden. Ohne Bespannung.Achtung: ein sicherer Versand dieser wertvollen Stücke ist in Deutschland nur per Spedition möglich. Das ist sehr teuer: Versandkosten, Versicherung (ca. 400 Euro). Besser wäre Selbstabholung - dann können wir Ihnen auch vom Preis her noch besser entgegenkommen. Bitte vereinbaren Sie aber vorher einen Termin. Unsere Nummer finden Sie ganz unten in den Pflichtangaben. Zustand:Die Lautsprecher sind in einem sehr guten Zustand. Unserer Meinung nach sind sie wie neu.Versand:In Deutschland: per Spedition auf 2 Paletten, mit Versicherung 870,00 Euro. Selbstabholung nach Terminvereinbarung möglich. Unsere Nummer ist in den Pflichtangaben angegeben. Description:These are undoubtedly one of the best speakers ever built. They're rarely offered anymore because most examples are already in the hands of collectors. Once you get them, you won't want to let them go... Without front covers.This is a rare opportunity. Perhaps the last.You can find many reviews and testimonials online. This pair comes from the original owner. The original packaging (two large wooden crates) is complete.In our opinion, the speakers are in mint condition. Technically perfect!Shipping:In EU: 1640,00 Euro with a forwarder, on two big pallets. This means that we need a working telephonenumber and the buyer has to be available for the forwarder. If you have a cheaper or better solution, please let us know. Only insurance is ca. 600 Euro....Worldwide: 6380,00 Euro. See above Sicher einkaufen Bei einem Händler sind Sie auf der sicheren Seite! Seit dem es das Internet gibt, gab es noch nie so viele Betrugsfälle und Betrugsversuche, wie im Moment! Die Methoden der Betrüger sind mittlerweile so ausgefeilt, dass selbst Profis darauf hereinfallen können. Ein Gewerblicher Händler bietet Ihnen davor Schutz. Er ermöglicht Ihnen: einen persönlichen Telefonkontakt (Nummer im Impressum) eine persönliche Besichtigung vor Ort Selbstabholung Barzahlung nach Probelauf Paypal-Zahlung Rückgaberecht gemäß Fernabsatzgesetz gesetzliche Gewährleistung (AGB´s beachten) Möglicherweise eine Garantie (AGB´s beachten) einen sicheren Versand professionelle Verpackung ... und viele weitere Serviceleistungen Garantiebedingungen und Allgemeine Angaben In unseren Rechnungen wird wegen Differenzbesteuerung KEINE Mehrwertsteuer ausgewiesen. Fragen versuchen wir so schnell wie möglich zu beantworten. Im Einzelfall kann es aber mal zwei bis drei Tage dauern. Keine Garantie für die Angaben im Ebay-Produktkatalog. Für Fragen bitte den entsprechenden Button hier bei Ebay benutzen nicht das Telefon. Verwendete Markennamen sind Eigentum des Herstellers und werden nur verwendet um das Produkt uns seine hervorragende Qualität zu beschreiben. *GARANTIEBEDINGUNGEN: Wenn in unseren Angeboten eine Haltbarkeitsgarantie angegeben ist, dann bleiben Ihre weiteren gesetzlichen Rechte (z. B. Gewährleistung) davon unberührt. Die Garantie umfasst alle technischen Fehlfunktionen, soweit diese nicht durch falschen Gebrauch hervorgerufen wurden. Ausgenommen von der hier dargestellten Garantie sind Batterien, Lautsprechersicken, Folien und Magnete, Laser, CD-Laufwerke und Akkus (auch festinstallierte). Der Garantiegeber ist Harald Leichtle, Kobergerstraße 37, 90408 Nürnberg. Die Garantie ist deutschlandweit und ist auf den oben im Angebot angegebenen Zeitrahmen beschränkt. Zur Prüfung und Abwicklung des Garantiefalles setzen Sie sich bitte telefonisch oder schriftlich mit uns in Verbindung. Zur Prüfung und eventuellen Schadensbehebung muss uns der Kaufgegenstand und eine Kopie der Rechnung kostenfrei zur Verfügung gestellt werden. Ist eine Reperatur oder eine Ersatzlieferung nicht möglich, erhält der Käufer den Kaufpreis zuzüglich Rücksendekosten zurück. Hinweis nach dem Batteriegesetz: Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Versandadresse) zurückgeben. Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung: Das Symbol der durchgekreuzten Mülltonne bedeutet, dass die Batterie nicht in den Hausmüll gegeben werden darf. Pb = Batterie enthält mehr als 0,004 Masseprozent Blei. Cd = Batterie enthält mehr als 0,002 Masseprozent Cadmium. Hg = Batterie enthält mehr als 0,0005 Masseprozent Quecksilber. Bitte beachten Sie auch unsere AGB´s und unser Impressum. Beide sind auf dieser Seite hinterlegt. Photos are original. We will try to answer your questions as soon as possible. No guarantee for the informations of the Ebay-catalogue. For questions please use the button here on Ebay.
-  Updated: 2025-10-01T05:00:04Z
+- [Dynaudio Consequence Ultimate Edition Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/dynaudio-consequence-ultimate-edition-kaufen): Dynaudio Consequence Ultimate Edition gebraucht kaufen ✅ Geprüfte Lautsprecher Near Mint kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T15:27:29Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3c36360b-252d-4440-9439-228b386cc98b.jpg?v=1759250992
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_df80ad04-1dff-489a-a444-f7a2b050c5f4.jpg?v=1759678048
   Price: 36.400,00 € EUR
-- [Lautsprecher B&W Bowers&Wilkins 802 D3 Diamond Tweeter. Fast wie neu! Near Mint!](https://worldwidehifi.shop/products/lautsprecher-b-w-bowers-wilkins-802-d3-diamond-tweeter-fast-wie-neu-near-mint): Bei ernsthaftem Interesse kann das angebotene Produkt - auch vor einem Kauf - in unserem Hörraum probegehört und technisch von Ihnen überprüft werden! Dafür aber bitte unbedingt einen Termin vorab vereinbaren. Bei Selbstabholung ist außerdem immer ein höherer Preisnachlaß als sonst möglich Your template | Trixum Bowers & Wilkins 802 D3 - mit Rechnung vom Händler- alle Fotos sind vom angebotenen Produkt- perfekter technischer Zustand- sicherer Versand in stabiler Verpackung (auf Palette)- Alle Geräte können bei ernsthaftem Interesse in unserem Hörraum getestet werden und Sie können sich von der Richtigkeit unserer Angaben überzeugen.Preisnachlaß bei Selbstabholung möglich! Infos gerne auch per Tel. Unsere Nummer finden Sie unten in den Pflichtangaben. .trixum-mx-auto{margin-left:auto;margin-right:auto}.trixum-mb-2{margin-bottom:.5rem}.trixum-text-center{text-align:center}.trixum-img{max-width:100%;-o-object-fit:contain;object-fit:contain} Informationen zum Produkt / Product information Beschreibung: Traumlautsprecher von B&W. Testberichte, Erfahrungsberichte und die technischen Daten finden Sie ganz leicht im www. Achtung: ein sicherer Versand dieser wertvollen Stücke ist in Deutschland nur per Spedition möglich. Das ist sehr teuer: Versandkosten, Palette und Verpackungsmaterial (ca. 30 Euro!), Versicherung (alleine ca. 250 Euro!). Besser wäre Selbstabholung - dann können wir Ihnen auch vom Preis her noch besser entgegenkommen. Bitte vereinbaren Sie aber vorher einen Termin. Unsere Nummer finden Sie ganz unten in den Pflichtangaben. Zustand: Die Lautsprecher sind in einem fast neuwertigen Zustand. Minimalste Putzspuren. Ein absolutes Schmuckstück im Hörraum. Versand: In Deutschland: per Spedition auf Palette, mit Versicherung: 469,00 Euro. Selbstabholung nach Terminvereinbarung möglich. Description: Dream speakers from B&W. Hard to get for good reason. You can easily find further test reports and technical data at www. The speakers are in fantastic condition. Minimal traces of cleaning. An absolute gem in the listening room. Shipping: In EU: 789,00 Euro with a forwarder, on a pallet. If you have a cheaper or better solution, please let us know. Please remember that only packaging costs ca. 80 Euros. Only Insurance is ca. 480 Euro....!For shipping with a forwarder we need a working telephonenumber and the buyer should be available.Worldwide: not possible Sicher einkaufen Bei einem Händler sind Sie auf der sicheren Seite! Seit dem es das Internet gibt, gab es noch nie so viele Betrugsfälle und Betrugsversuche, wie im Moment! Die Methoden der Betrüger sind mittlerweile so ausgefeilt, dass selbst Profis darauf hereinfallen können. Ein Gewerblicher Händler bietet Ihnen davor Schutz. Er ermöglicht Ihnen: einen persönlichen Telefonkontakt (Nummer im Impressum) eine persönliche Besichtigung vor Ort Selbstabholung Barzahlung nach Probelauf Paypal-Zahlung Rückgaberecht gemäß Fernabsatzgesetz gesetzliche Gewährleistung (AGB´s beachten) Möglicherweise eine Garantie (AGB´s beachten) einen sicheren Versand professionelle Verpackung ... und viele weitere Serviceleistungen Garantiebedingungen und Allgemeine Angaben In unseren Rechnungen wird wegen Differenzbesteuerung KEINE Mehrwertsteuer ausgewiesen. Fragen versuchen wir so schnell wie möglich zu beantworten. Im Einzelfall kann es aber mal zwei bis drei Tage dauern. Keine Garantie für die Angaben im Ebay-Produktkatalog. Für Fragen bitte den entsprechenden Button hier bei Ebay benutzen nicht das Telefon. Verwendete Markennamen sind Eigentum des Herstellers und werden nur verwendet um das Produkt uns seine hervorragende Qualität zu beschreiben. *GARANTIEBEDINGUNGEN: Wenn in unseren Angeboten eine Haltbarkeitsgarantie angegeben ist, dann bleiben Ihre weiteren gesetzlichen Rechte (z. B. Gewährleistung) davon unberührt. Die Garantie umfasst alle technischen Fehlfunktionen, soweit diese nicht durch falschen Gebrauch hervorgerufen wurden. Ausgenommen von der hier dargestellten Garantie sind Batterien, Lautsprechersicken, Folien und Magnete, Laser, CD-Laufwerke und Akkus (auch festinstallierte). Der Garantiegeber ist Harald Leichtle, Kobergerstraße 37, 90408 Nürnberg. Die Garantie ist deutschlandweit und ist auf den oben im Angebot angegebenen Zeitrahmen beschränkt. Zur Prüfung und Abwicklung des Garantiefalles setzen Sie sich bitte telefonisch oder schriftlich mit uns in Verbindung. Zur Prüfung und eventuellen Schadensbehebung muss uns der Kaufgegenstand und eine Kopie der Rechnung kostenfrei zur Verfügung gestellt werden. Ist eine Reperatur oder eine Ersatzlieferung nicht möglich, erhält der Käufer den Kaufpreis zuzüglich Rücksendekosten zurück. Hinweis nach dem Batteriegesetz: Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Versandadresse) zurückgeben. Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung: Das Symbol der durchgekreuzten Mülltonne bedeutet, dass die Batterie nicht in den Hausmüll gegeben werden darf. Pb = Batterie enthält mehr als 0,004 Masseprozent Blei. Cd = Batterie enthält mehr als 0,002 Masseprozent Cadmium. Hg = Batterie enthält mehr als 0,0005 Masseprozent Quecksilber. Bitte beachten Sie auch unsere AGB´s und unser Impressum. Beide sind auf dieser Seite hinterlegt. Photos are original. We will try to answer your questions as soon as possible. No guarantee for the informations of the Ebay-catalogue. For questions please use the button here on Ebay.
-  Updated: 2025-10-01T04:50:28Z
+- [Bowers & Wilkins 802 D3 Diamond Tweeter gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-802-d3-diamond-tweeter-gebraucht-kaufen): Bowers & Wilkins 802 D3 Diamond Tweeter gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
+  Updated: 2025-10-05T15:43:40Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_856a63b2-a13b-4d6c-888c-2d0aa474d1a6.jpg?v=1759250995
   Price: 12.900,00 € EUR
 - [Technics Tape Transport 9900 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/technics-tape-transport-9900-record-reproduce-amplifier-9900-remote-rp-9690-gebraucht-kaufen): Technics Tape Transport 9900 gebraucht kaufen ✅ Geprüfte HiFi Geräte mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:57:29Z
+  Updated: 2025-10-05T15:02:27Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5a5ab21e-05ad-4334-b3c9-99efefec5bcf.jpg?v=1759250998
   Price: 3.760,00 € EUR
 - [Accuphase E-204 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/accuphase-e-204-integrierter-stereo-vollverstaerker-gebraucht-kaufen): Accuphase E-204 gebraucht kaufen ✅ Geprüfter Verstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:57:41Z
+  Updated: 2025-10-05T15:02:26Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_49409245-6ae2-4450-b5c9-f620e28a6b80.jpg?v=1759251002
   Price: 968,00 € EUR
 - [Nakamichi CR-4E Stereo Kassettendeck gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/nakamichi-cr-4e-stereo-kassettendeck-gebraucht-kaufen): Nakamichi CR-4E Stereo Kassettendeck gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:50:13Z
+  Updated: 2025-10-05T15:02:25Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_88da491e-8321-43ec-b447-8c59e7c972af.jpg?v=1759251005
   Price: 880,00 € EUR
 - [Denon AVR-4310 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/denon-avr-4310-av-receiver-gebraucht-kaufen): Denon AVR-4310 gebraucht kaufen ✅ Geprüfter AV-Receiver 7.1 für Heimkino kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-01T04:50:16Z
+  Updated: 2025-10-05T15:02:25Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_87c3ce21-85d2-45f8-9cc7-4bc5a5feba14.jpg?v=1759251008
   Price: 470,00 € EUR
 - [Nakaoka Crystal Stabilizer GL 601 MK II gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/nagaoka-crystal-stabilizer-gl-601-mk-ii-gebraucht-kaufen): Nakaoka Crystal Stabilizer GL 601 MK II gebraucht kaufen ✅ Geprüftes Plattengewicht mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:50:24Z
+  Updated: 2025-10-05T15:02:25Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_61fb322c-3656-4a11-9542-27d00a9cff2b.jpg?v=1759251011
   Price: 186,00 € EUR
 - [Maxell 35-180 XLII Studio Recording Tape kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/maxell-35-180-xlii-studio-recording-tape-metal-kaufen): Maxell 35-180 XLII Studio Recording Tape kaufen ✅ Hochwertiges Tape NEU, SEALED kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:50:23Z
+  Updated: 2025-10-05T15:02:23Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
@@ -2199,133 +2157,182 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_2d3d7ca6-45a8-4583-a03f-72af576fe6ba.jpg?v=1759251024
   Price: 89,00 € EUR
 - [EMT TSD 15 Tondose kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/emt-tsd-15-tondose-neugerat-kaufen): EMT TSD 15 Tondose kaufen ✅ Hochwertiger MC-Tonabnehmer neu kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:50:35Z
+  Updated: 2025-10-05T15:02:28Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_6436b13b-071f-4408-b8b6-5e6909d2f277.jpg?v=1759251027
   Price: 980,00 € EUR
 - [EMT XSD 15 Tondose für Plattenspieler kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/emt-xsd-15-tondose-plattenspieler-tonabnehmer-neu-kaufen): EMT XSD 15 Tondose für Plattenspieler kaufen ✅ Hochwertiger MC-Tonabnehmer neu kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:51:06Z
+  Updated: 2025-10-05T15:02:27Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_28fe8c7c-af28-4c55-bc31-552ff0b43027.jpg?v=1759251030
   Price: 1.280,00 € EUR
 - [Audiocraft SD-600 Disc Stabilizer gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audiocraft-sd-600-gebraucht-kaufen): Audiocraft SD-600 Disc Stabilizer gebraucht kaufen ✅ Schallplatten-Beschwerer mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:58:11Z
+  Updated: 2025-10-05T15:02:28Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4883f62f-451a-4902-ae43-aa590122a69e.jpg?v=1759251033
   Price: 129,00 € EUR
 - [Martin Logan DEPTH-i gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/martin-logan-depth-i-gebraucht-kaufen): Martin Logan DEPTH-i gebraucht kaufen ✅ Geprüfter Subwoofer mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-01T05:01:18Z
+  Updated: 2025-10-05T15:02:22Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_10c925a0-38a0-4c1a-8fd7-ea45a3d07969.jpg?v=1759251040
   Price: 780,00 € EUR
-- [Technics SE-A3 Stereo Power Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/technics-se-a3-stereo-power-amplifier-gebraucht-kaufen): Technics SE-A3 Stereo Power Amplifier gebraucht kaufen ✅ Geprüfte Endstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:50:50Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_2aab49ca-3626-4384-a06d-f7ab4dd205d8.jpg?v=1759251042
-  Price: 2.180,00 € EUR
 - [Sansui B-2102 Stereo Power Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sansui-b-2102-stereo-endstufe-verstaerker-gebraucht-kaufen): Sansui B-2102 Stereo Power Amplifier gebraucht kaufen ✅ Geprüfte Endstufe Verstärker gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T05:00:26Z
+  Updated: 2025-10-05T15:02:22Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_bde05a76-4dfb-4538-90ee-583e1a2a23b2.jpg?v=1759251045
   Price: 1.680,00 € EUR
 - [Sansui C-2102 Stereo Control Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sansui-c-2102-gebraucht-kaufen): Sansui C-2102 Stereo Control Amplifier gebraucht kaufen ✅ Geprüfte Vorstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:50:55Z
+  Updated: 2025-10-05T15:02:21Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_888210f3-dc81-4fc3-b62e-7033da93f477.jpg?v=1759251048
   Price: 1.220,00 € EUR
-- [Harbeth Super HL5 Plus XD Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/harbeth-super-hl5-plus-xd-gebraucht-kaufen): Harbeth Super HL5 Plus XD gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T05:00:54Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_ef9e83ca-84da-458d-aaa8-5811734e14af.jpg?v=1759251054
-  Price: 3.920,00 € EUR
-- [Dual CS 731 Q Turntable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/dual-cs-731-q-audio-technica-gebraucht-kaufen): Dual CS 731 Q Turntable gebraucht kaufen ✅ Geprüfter Plattenspieler mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-01T04:51:14Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_ebdbe902-c052-418f-bbe0-59f08e7f28a3.jpg?v=1759251063
-  Price: 340,00 € EUR
 - [Accuphase T-105 FM Stereo Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/accuphase-t-105-gebraucht-kaufen): Accuphase T-105 FM Stereo Tuner gebraucht kaufen ✅ Geprüftes Radio in Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-01T04:54:15Z
+  Updated: 2025-10-05T14:45:51Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7ad32187-757d-474b-ae41-d622bde0dcf8.jpg?v=1759251066
   Price: 599,00 € EUR
 - [Van den Hul The Colibri-XGM-H.O. gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/van-den-hul-the-colibri-xgm-ho-gebraucht-kaufen): Van den Hul The Colibri-XGM-H.O. gebraucht kaufen ✅ Geprüfter Tonabnehmer mit neuem Diamanten kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-01T04:51:19Z
+  Updated: 2025-10-05T14:45:52Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_381a8b79-e925-4b06-a2b7-4596657775d5.jpg?v=1759251069
   Price: 2.850,00 € EUR
+- [Harbeth Super HL5 Plus XD gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/harbeth-super-hl5-plus-xd-gebraucht-kaufen-1): Harbeth Super HL5 Plus XD gebraucht kaufen ✅ Geprüfte Lautsprecher in Originalverpackung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:52Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b17871b3-5a29-4bf5-88e6-3e27bfae433f.jpg?v=1759669034
+  Price: 3.920,00 € EUR
+- [DALI Epicon 6 Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/dali-epicon-6-gebraucht-kaufen): DALI Epicon 6 Lautsprecher gebraucht kaufen ✅ Geprüftes Gerät im TOP-Zustand mit OVP kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:51Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a4659883-e9fc-4b06-9619-fe0a3075de7f.jpg?v=1759669038
+  Price: 4.920,00 € EUR
+- [McIntosh MA 12000 75th Anniversary AC gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mcintosh-ma12000-75th-anniversary-ac-gebraucht-kaufen): McIntosh MA 12000 75th Anniversary AC gebraucht kaufen ✅ Geprüfter Hybrid-Vollverstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:50Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5eb71e21-aa6b-4ad4-b02b-b4054577495e.jpg?v=1759669040
+  Price: 14.600,00 € EUR
+- [Burmester Compact Disc Laufwerk CD 939 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-cd-939-gebraucht-kaufen): Burmester Compact Disc Laufwerk CD 939 gebraucht kaufen ✅ Geprüftes Transportgerät in Near Mint Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:50Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_292335af-7937-498b-b41d-9af84d1aa70c.jpg?v=1759669044
+  Price: 1.649,00 € EUR
+- [SUN LEISTE 6-fach HighEnd HiFi Netzleiste gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sun-leiste-6-fach-highend-hifi-netzleiste-stromleiste-gebraucht-kaufen-1): SUN LEISTE 6-fach HighEnd HiFi Netzleiste gebraucht kaufen ✅ Geprüfte Power Bar mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
+  Updated: 2025-10-05T14:45:50Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_cb606acf-cf53-4dda-b73b-e131db70985d.jpg?v=1759669046
+  Price: 290,00 € EUR
+- [McIntosh MCD 12000 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mcintosh-mcd-12000-75th-anniversary-cd-sacd-player-gebraucht-kaufen): McIntosh MCD 12000 gebraucht kaufen ✅ CD SACD Player wie neu in OVP kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T15:24:29Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_78a3d873-2aca-4447-be3c-1d07e3a25d2f.jpg?v=1759669049
+  Price: 15.600,00 € EUR
+- [Burmester HighEnd Lautsprecher 949 First Speakers gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-949-first-speakers-gebraucht-kaufen): Burmester HighEnd Lautsprecher 949 First Speakers gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:48Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8e360efa-2791-4196-8bb0-5b057de92f3f.jpg?v=1759669052
+  Price: 2.980,00 € EUR
+- [Burmester FM Stereo Tuner 993 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-fm-stereo-tuner-993-gebraucht-kaufen): Burmester FM Stereo Tuner 993 gebraucht kaufen ✅ Geprüfte Radio mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T15:24:29Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_cc4d5908-3b04-43dd-9cb4-6ab18115b345.jpg?v=1759669054
+  Price: 649,00 € EUR
+- [KEF R300 Kompakt-Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kef-r300-kompakt-lautsprecher-gebraucht-kaufen): KEF R300 Kompakt-Lautsprecher gebraucht kaufen ✅ Geprüfte Bookshelf speakers im Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:48Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b89c82ab-12ce-4319-9109-8a405f0d8211.jpg?v=1759669057
+  Price: 890,00 € EUR
+- [Klipsch Heresy IV Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/klipsch-heresy-iv-gebraucht-kaufen): Klipsch Heresy IV gebraucht kaufen ✅ Geprüfte Lautsprecher fast wie neu mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-10-05T14:45:48Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_46017ed6-1262-4b75-8532-538660a54c8d.jpg?v=1759669060
+  Price: 2.780,00 € EUR
 
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-10-05T11:21:19Z
+  Updated: 2025-10-05T15:50:14Z
   Total Products: 48
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-09-30T17:12:39Z
-  Total Products: 91
+  Updated: 2025-10-05T15:11:22Z
+  Total Products: 86
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
-  Updated: 2025-09-30T17:12:39Z
+  Updated: 2025-10-05T15:03:55Z
   Total Products: 11
 - [Vorverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/vorverstaerker-gebraucht-kaufen): Vorverstärker gebraucht kaufen ✓ Vorverstärker / gebrauchte Vorstufen im Top-Zustand! ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-09-30T17:03:53Z
-  Total Products: 28
+  Updated: 2025-10-05T15:11:22Z
+  Total Products: 26
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-09-30T17:09:13Z
-  Total Products: 29
+  Updated: 2025-10-05T15:11:21Z
+  Total Products: 26
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-22T15:35:41Z
   Total Products: 5
 - [Plattenspieler Zubehör & Tonarme gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/collections/plattenspieler-zubehoer-tonarme-gebraucht): Plattenspieler Zubehör & Tonarme gebraucht kaufen ✓ Plattenspieler Zubehör & Tonarme im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-09-30T17:12:44Z
+  Updated: 2025-10-05T15:02:26Z
   Total Products: 12
 - [Gebrauchte Plattenspieler kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-plattenspieler-kaufen): Gebrauchte Plattenspieler kaufen ✓ HiFi Schallplattenspeieler & Turntables im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-10-05T11:21:19Z
-  Total Products: 38
+  Updated: 2025-10-05T15:02:26Z
+  Total Products: 36
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-09-30T17:09:19Z
+  Updated: 2025-10-05T15:02:26Z
   Total Products: 3
 - [Tonbandgeräte gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/tonbandgeraet-gebraucht-kaufen): Tonbandgeräte gebraucht kaufen ✓ Gebrauchte Tonbandgeräte & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-10-03T11:20:23Z
-  Total Products: 29
+  Updated: 2025-10-05T14:45:51Z
+  Total Products: 31
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-08-16T15:57:20Z
   Total Products: 6
 - [HiFi Tuner gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/netzwerkplayer-gebraucht-kaufen): HiFi Tuner gebraucht kaufen ✓ Netzwerkplayer, HiFi-Tuner, HiFi-Streamer & mehr im Top-Zustand ✓ Weltweit sicherer Versand ✓ Preiswertes High-End HiFi bestellen
-  Updated: 2025-09-30T17:02:18Z
-  Total Products: 10
+  Updated: 2025-10-05T13:03:39Z
+  Total Products: 11
 - [HiFi Möbel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-moebel-gebraucht-kaufen): HiFi Möbel gebraucht kaufen ✓ Gebrauchte HiFi Möbel & HiFi Racks im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-09-20T11:23:49Z
-  Total Products: 159
+  Updated: 2025-10-05T14:45:51Z
+  Total Products: 160
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-08-22T15:35:40Z
   Total Products: 38
@@ -2333,8 +2340,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-13T11:21:19Z
   Total Products: 47
 - [HiFi-Netzleisten gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-netzleisten-gebraucht-kaufen): HiFi-Netzleisten gebraucht kaufen ✓ Gebrauchte Netzleisten für HiFi-Geräte im Top-Zustand! ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
-  Updated: 2025-09-20T11:23:49Z
-  Total Products: 6
+  Updated: 2025-10-05T14:45:51Z
+  Total Products: 7
 - [Leermedien online bestellen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/leermedien-online-bestellen): Leermedien online bestellen ✓ Schallplatten, Audiokassetten, Tonbänder & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
   Updated: 2025-09-02T11:20:04Z
   Total Products: 2
@@ -2342,11 +2349,11 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-02T11:20:04Z
   Total Products: 7
 - [Vorgestellte Produkte](https://worldwidehifi.shop/collections/featured)
-  Updated: 2025-08-24T13:26:40Z
-  Total Products: 5
+  Updated: 2025-10-05T15:40:06Z
+  Total Products: 4
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-05T11:21:19Z
-  Total Products: 105
+  Updated: 2025-10-05T15:59:53Z
+  Total Products: 98
 
 ## Store Pages
 
