@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-13T10:49:24Z
 - Contact Email: ofek@spclr.com
-- Updated At: 2025-10-05T13:18:15.792Z
+- Updated At: 2025-10-05T13:48:38.951Z
 
 ## Products
 
@@ -542,5 +542,3 @@
 
 ## Optional
 
-- [robots.txt](https://vibes.specularo.com/robots.txt)
-- [sitemap.xml](https://vibes.specularo.com/sitemap.xml)
