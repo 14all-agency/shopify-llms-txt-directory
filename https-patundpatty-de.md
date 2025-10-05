@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-05T08:00:32.799Z
+- Updated At: 2025-10-05T20:00:32.790Z
 
 ## Products
 
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Pferd_-_PAT_PATTY-naturweiss-plush.jpg?v=1757436566
     Price: 63,90 € EUR
 - [Bio Kuscheltier Einhorn XXL – Nachhaltig & handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-einhorn): Entdecke das große Bio Kuscheltier Einhorn mit Hirsefüllung – handgefertigt in Deutschland, plastikfrei und perfekt zum Kuscheln, Spielen & Schlafen.
-  Updated: 2025-10-02T07:34:10Z
+  Updated: 2025-10-05T11:10:36Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -262,8 +262,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Elefant_aus_Baumwolle-_PAT_PATTY-blau.jpg?v=1751454183
     Price: 37,90 € EUR
-- [Bio Kuschelkissen Mond mit Spelzfüllung – super weich | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-mond): Bio Kuschelkissen Mond – nachhaltig gefüllt mit Spelz, super weich & atmungsaktiv. Jetzt bei PAT&PATTY entdecken und Deinem Kind Geborgenheit schenken!
-  Updated: 2025-09-29T20:35:30Z
+- [Bio Kuschelkissen Mond – mit Spelzfüllung, superweich & fair](https://patundpatty.de/products/bio-kuschelkissen-mond): Bio Kuschelkissen Mond von PAT & PATTY – superweich, handgemacht & nachhaltig mit Spelzfüllung. Ideal zum Kuscheln, Schlafen & süße Träume schenken.Jetzt bei
+  Updated: 2025-10-05T12:55:55Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -593,7 +593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Waermekissen-Esel-Grau-Pluesch-PAT-Und-PATTY.jpg?v=1755778711
     Price: 31,50 € EUR
 - [Bio Wärmekissen Hund – weicher Plüsch, fair und nachhaltig](https://patundpatty.de/products/bio-warmekissen-hund): Kuscheliges Bio Wärmekissen Hund aus weichem Plüsch mit Naturfüllung. Handgemacht, nachhaltig & ideal für Babys und Kinder. Jetzt Wärme & Geborgenheit sichern!
-  Updated: 2025-10-04T12:27:41Z
+  Updated: 2025-10-05T14:21:11Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1893,7 +1893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY-Projekte und Kissen](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Bio Baumwollwatte von PAT & PATTY: nachhaltig, weich, atmungsaktiv, schadstofffrei, hochwertig und perfekt zum Füllen von Kissen, Kuscheltieren & DIY-Projekten.
-  Updated: 2025-09-30T16:07:10Z
+  Updated: 2025-10-05T15:54:05Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1967,7 +1967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-05T05:51:30Z
+  Updated: 2025-10-05T14:16:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2014,7 +2014,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Esel-Emil-GOTS-Zertifiziert-Handgefertigt-PAT-Und-PATTY.jpg?v=1752230690
   Price: 39,95 € EUR
 - [Bio Kuscheltier Wildschwein – fair, handgemacht & nachhaltig](https://patundpatty.de/products/bio-kuscheltier-wildschwein): Bio Kuscheltier Wildschwein aus 100 % Bio-Baumwolle mit Maiswatte / Schurwolle-Füllung, waschbar und kuschelweich – perfekt für Babys. Jetzt nachhaltig kaufen!
-  Updated: 2025-10-02T07:37:30Z
+  Updated: 2025-10-05T19:19:27Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2451,7 +2451,7 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-10-02T11:22:53Z
+  Updated: 2025-10-05T11:19:32Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-30T11:20:54Z
@@ -2478,7 +2478,7 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-03T11:20:29Z
+  Updated: 2025-10-05T11:19:32Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-10-04T11:19:46Z
@@ -2754,6 +2754,10 @@
     Updated: 2025-10-04T15:50:24Z
     Author: Sharon
     Tags: ideen für umweltfreundliche kuschelkissen
+  - [10 Tipps zur Pflege von Bio-Spielzeug für Kinder](https://patundpatty.de/blogs/news/10-tipps-zur-pflege-von-bio-spielzeug): Entdecken Sie 10 wertvolle Tipps zur Pflege von Bio-Spielzeug. Schützen Sie die Sicherheit und Langlebigkeit Ihrer Spielsachen.
+    Updated: 2025-10-05T13:13:33Z
+    Author: Sharon
+    Tags: tipps zur pflege von bio-spielzeug
 
 ## Store Pages
 
