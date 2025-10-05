@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-05T16:00:48.905Z
+- Updated At: 2025-10-05T20:00:48.545Z
 
 ## Products
 
@@ -4642,7 +4642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Tie-Back-Bikini-Set-Brinxx-Couture-7579.jpg?v=1709321201
     Price: $22.00 USD
 - [Halter Neck Crisscross Ribbed Bikini Set](https://www.brinxxcouture.com/products/halter-neck-crisscross-ribbed-bikini-set): Top type: No underwire Bottom type: High cut Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2025-10-03T17:29:05Z
+  Updated: 2025-10-05T17:29:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-04T05:10:51Z
+  Updated: 2025-10-05T19:30:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8159,7 +8159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
     Price: $37.00 USD
   - [Ochre / M](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470323894)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
     Price: $37.00 USD
   - [Ochre / L](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470356662)
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-05T14:51:42Z
+  Updated: 2025-10-05T18:12:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10048,7 +10048,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Candy-Metallic-Hot-Girl-Short-Skirt-Brinxx-Couture-8458.jpg?v=1709855085
     Price: $20.00 USD
 - [Two-Tone Openwork Rib-Knit Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/woven-right-two-tone-openwork-rib-knit-sweater): This stylish two-tone openwork rib-knit sweater features a unique design that adds texture and dimension to any ensemble. The rib-knit construction ensures lasting comfort.
-  Updated: 2025-10-05T01:37:20Z
+  Updated: 2025-10-05T18:42:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12776,7 +12776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-05T06:50:37Z
+  Updated: 2025-10-05T19:10:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12786,7 +12786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -22256,7 +22256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Long-Sleeve-Hooded-Teddy-Coat-Brinxx-Couture-8665_e09500d5-52f1-410f-b415-8b0fd4433a7b.jpg?v=1736049876
     Price: $54.99 USD
 - [Round Neck Long Sleeve Top and Pants Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-long-sleeve-top-and-pants-lounge-set): Indulge in ultimate comfort with our Round Neck Long Sleeve Top and Pants Lounge Set! Made from high-quality materials, this lounge set is perfect for relaxing.
-  Updated: 2025-09-17T01:02:11Z
+  Updated: 2025-10-05T16:50:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
