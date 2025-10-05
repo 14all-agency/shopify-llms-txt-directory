@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-05T00:01:11.434Z
+- Updated At: 2025-10-05T04:01:15.397Z
 
 ## Products
 
@@ -6365,7 +6365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-senior-medium-breed-fresh-chicken-dry-dog-food-senior-dry-12-kg-4908207.webp?v=1757298670
     Price: £49.25 GBP
 - [Eukanuba Senior Small Breed Chicken Kibble for Active Dogs](https://veryimportantpets.shop/products/eukanuba-senior-small-breed-chicken): Eukanuba dry food for senior small breed dogs aged 11+ years, rich in chicken. L-Carnitine for weight control & joint health. Fibre blend for gut health.
-  Updated: 2025-10-04T10:59:52Z
+  Updated: 2025-10-05T03:30:33Z
   Vendor: Eukanuba
   Product Type: Senior Dry
   Availability: Available
