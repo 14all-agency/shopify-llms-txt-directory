@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-05T08:00:59.125Z
+- Updated At: 2025-10-05T12:01:00.333Z
 
 ## Products
 
@@ -373,8 +373,8 @@
   - [XXL](https://www.rsport.co.il/products/מכנס-קצר-ארסנל-חוץ-24-25?variant=46843773387002)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-- [מכנס קצר ארסנל תלבושת שלישית 24/25](https://www.rsport.co.il/products/מכנס-קצר-ארסנל-תלבושת-שלישית): מכנסי התלבושת השלישית של ארסנל לעונת 24/25 בגזרה רגילה משלבים עיצוב מודרני עם צבעי הקבוצה האלטרנטיביים. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים, אימונים או ללבישה יומיומית לאוהדים שרוצים להראות תמיכה בקבוצה בסגנון ייחודי.
-  Updated: 2025-10-04T06:41:56Z
+- [מכנס קצר ארסנל תלבושת שלישית 24/25](https://www.rsport.co.il/products/מכנס-קצר-ארסנל-תלבושת-שלישית): מכנסי התלבושת השלישית של ארסנל לעונת 24/25 מביאים שילוב בין מראה חדשני לבין הצבעים האלטרנטיביים של המועדון.עשויים מבד נושם וקליל שמנדף זיעה ושומר על תחושת רעננות גם במאמץ גבוה.הגזרה הרגילה מאפשרת תנועה חופשית, כך שתוכלו ליהנות מהם במגרש, באימון או ביום-יום בסגנון אוהדים אמיתי.
+  Updated: 2025-10-05T10:55:05Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -422,7 +422,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [מכנס קצר משחקי בית ארסנל 24/25](https://www.rsport.co.il/products/מכנס-קצר-משחקי-בית-ארסנל-24-25): מכנסי הבית של ארסנל לעונת 24/25 בגרסת השחקן משלבים את צבעי הבית המסורתיים עם עיצוב מקצועי המותאם לביצועים גבוהים על המגרש. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים תובעניים ואימונים, ומעניק לכל אוהד תחושת חוויית השחקן האמיתית.
-  Updated: 2025-10-04T07:10:28Z
+  Updated: 2025-10-05T10:52:27Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -446,7 +446,7 @@
     Availability: Available
     Price: ‏120.00 ‏₪ ILS
 - [מכנס קצר משחקי חוץ ארסנל 24/25](https://www.rsport.co.il/products/מכנס-קצר-משחקי-חוץ-ארסנל-24-25): מכנסי החוץ של ארסנל לעונת 24/25 בגרסת השחקן משלבים את צבעי הקבוצה המסורתיים עם עיצוב מקצועי המותאם לביצועים על המגרש. הבד איכותי ונושם, מנקז זיעה ומספק חופש תנועה מלא, מתאים למשחקים תובעניים ואימונים, ומאפשר לכל אוהד לחוש את חוויית השחקן האמיתית.
-  Updated: 2025-10-04T12:16:27Z
+  Updated: 2025-10-05T10:50:02Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -1036,16 +1036,16 @@
   - [XXXL](https://www.rsport.co.il/products/מכנסיים-קצרים-מנצסטר-יונייטד-שלישי-24-25?variant=46851121774842)
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
-- [גרביים כדורגל מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/גרביים-כדורגל-מנצסטר-יונייטד-בית-24-25): גרבי הבית הללו של מנצ'סטר יונייטד לעונת 24/25 הם האביזר המושלם עבור כל אוהד כדורגל. עשויים מחומרים איכותיים, הם מציעים נוחות ועמידות לחוויית משחק אולטימטיבית. הצג את תמיכתך בקבוצה האהובה עליך עם גרבי הקבוצה הרשמיות האלה.
-  Updated: 2025-09-18T18:31:25Z
+- [גרביים כדורגל מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/football-socks-mnu-home-black-24-25): גרביים כדורגל מנצ'סטר יונייטד בית 24/25 מיועדות לאוהדים שרוצים נוחות וביצועים במגרש. עשויות מבד איכותי שמנדף זיעה ומעניק תחושת יובש לאורך כל המשחק. הגרביים מספקות גמישות ותמיכה מקסימלית, מתאימות לאימונים, למשחקים או ללבוש יום-יומי. השלימו את הלוק שלכם ותמכו בקבוצה עם פריט פונקציונלי ומעוצב, שמבטיח נוחות לאורך כל הפעילות.
+  Updated: 2025-10-05T11:06:08Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/babq87w92s4f8hg-5484-58889-5eq4eq84q.jpg?v=1738566864
-  - [ילדים 28 - 37](https://www.rsport.co.il/products/גרביים-כדורגל-מנצסטר-יונייטד-בית-24-25?variant=46862038302970)
+  - [ילדים 28 - 37](https://www.rsport.co.il/products/football-socks-mnu-home-black-24-25?variant=46862038302970)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
-  - [בוגרים 38 - 47](https://www.rsport.co.il/products/גרביים-כדורגל-מנצסטר-יונייטד-בית-24-25?variant=46862038335738)
+  - [בוגרים 38 - 47](https://www.rsport.co.il/products/football-socks-mnu-home-black-24-25?variant=46862038335738)
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת משחקי בית מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית): תמכו בקבוצה האהובה עליכם עם חולצת המשחק הביתית האותנטית הזו של מנצ'סטר יונייטד 24/25. עשוי מחומרים איכותיים, ג'רזי זה מיועד לנוחות ועמידות. החולצה הזו, חובה לכל אוהד, תגרום לך להרגיש שאתה חלק מהצוות. מושלם ליום משחק או ללבוש קז'ואל.
@@ -1072,8 +1072,8 @@
   - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-בית-מנצסטר-יונייטד-24-25-אותנטית?variant=47404595446010)
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
-- [חולצת משחקי חוץ מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית): הפוך לאוהד אמיתי עם חולצת החוץ האותנטית הזו של מנצ'סטר יונייטד ל-24/25. הצג את תמיכתך עם החולצה הרשמית הזו הכוללת את הצבעים והסמל של הקבוצה. חולצה זו, שעוצבה במומחיות לנוחות וסטייל, תגרום לך להרגיש חלק מהצוות המנצח.
-  Updated: 2025-09-13T06:23:29Z
+- [חולצת משחקי חוץ מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/חולצת-משחקי-חוץ-מנצסטר-יונייטד-24-25-אותנטית): תמוך במנצ'סטר יונייטד עם חולצת החוץ לעונת 2024/25 בעיצוב עדכני שמביא נגיעה מודרנית למראה הקלאסי של המועדון עשויה 100% פוליאסטר קל ונושם, מספקת נוחות מרבית ותחושת יובש לאורך כל משחק או אימון הגזרה האותנטית בהשראת החולצה שלובשים השחקנים על המגרש, מתאימה לאוהדים שרוצים להרגיש חלק מהקבוצה בכל רגע
+  Updated: 2025-10-05T10:47:43Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -10586,7 +10586,7 @@
     Availability: Available
     Price: ‏200.00 ‏₪ ILS
 - [גופיית משחק ברוקלין נטס | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-ברוקלין-נטס-קווין-דוראנט): גופיית המשחק של קווין דוראנט בברוקלין נטס משלבת עיצוב מודרני ונוחות מירבית. עשויה 100% פוליאסטר קל ונושם, מעניקה חופש תנועה מלא למשחקים, אימונים ושימוש יום-יומי, עם דגש על איכות וביצועים כמו במגרש.
-  Updated: 2025-10-04T13:56:41Z
+  Updated: 2025-10-05T09:02:56Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10706,7 +10706,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה City edition | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-לבנה-city-edition-קווין-דוראנט): גופיית המשחק הלבנה מהדורת City של קווין דוראנט משלבת סטייל מודרני עם נוחות מקצועית. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא, תחושת יובש ונוחות מירבית לאורך כל המשחקים, אימונים או שימוש יום-יומי, עם צבע לבן נקי וטאצ' ייחודי שמבליט את סגנון ה-City edition.
-  Updated: 2025-10-04T14:02:10Z
+  Updated: 2025-10-05T09:41:57Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -15119,7 +15119,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן בית 2006/07](https://www.rsport.co.il/products/retro-shirt-milan-home-2006-07): חולצת רטרו מילאן בית 2006/07 בעיצוב איכותי, מושלמת לנוסטלגיה ולמגרש
-  Updated: 2025-10-04T09:41:42Z
+  Updated: 2025-10-05T08:31:34Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15623,7 +15623,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו יובנטוס חוץ 2012/13](https://www.rsport.co.il/products/retro-shirt-away-2012-13-juv): חולצת רטרו יובנטוס חוץ 2012/13 בעיצוב מודרני ונוח, אידיאלית למגרש וליום יום
-  Updated: 2025-10-04T10:31:36Z
+  Updated: 2025-10-05T11:56:47Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15644,7 +15644,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו יובנטוס חוץ 2001/03](https://www.rsport.co.il/products/retro-shirt-away-2001-03-juv): חולצת רטרו יובנטוס חוץ 2001/03 בעיצוב קלאסי ונוח, מושלמת לאוהדים ונוסטלגיה
-  Updated: 2025-10-04T10:30:26Z
+  Updated: 2025-10-05T08:03:06Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16127,7 +16127,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12](https://www.rsport.co.il/products/retro-shirt-cl-finals-2011-12-chelsea): חולצת רטרו צ'לסי גמר ליגת האלופות 2011/12 בעיצוב איכותי ומיוחד, חוויית משחק מושלמת
-  Updated: 2025-10-04T11:03:04Z
+  Updated: 2025-10-05T10:36:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16211,7 +16211,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי שלישית 2011/12](https://www.rsport.co.il/products/retro-shirt-third-2011-12-chelsea): חולצת רטרו צ'לסי שלישית 2011/12 בעיצוב מודרני ונוח, מושלמת לאוהדים וליום יום
-  Updated: 2025-10-04T10:47:31Z
+  Updated: 2025-10-05T09:52:45Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16316,7 +16316,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד 2000/02](https://www.rsport.co.il/products/retro-shirt-2000-02-manu): חולצת רטרו מנצ'סטר יונייטד 2006/07 בעיצוב קלאסי ונוסטלגי, נוחה ומרשימה
-  Updated: 2025-10-04T11:49:10Z
+  Updated: 2025-10-05T11:51:19Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16463,7 +16463,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד בית 2002/04](https://www.rsport.co.il/products/retro-shirt-home-2002-04-manu): חולצת רטרו מנצ'סטר יונייטד בית 2002/04 בעיצוב איכותי ונוח, אידיאלית למגרש וליום יום
-  Updated: 2025-10-04T11:47:35Z
+  Updated: 2025-10-05T08:31:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16526,7 +16526,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד בית 1998/99](https://www.rsport.co.il/products/retro-shirt-home-1998-99-manu): חולצת רטרו מנצ'סטר יונייטד בית 1998/99 בעיצוב קלאסי ונוסטלגי, איכותית למגרש וליום יום
-  Updated: 2025-10-04T11:47:35Z
+  Updated: 2025-10-05T08:38:05Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16568,7 +16568,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד חוץ 2005/06](https://www.rsport.co.il/products/retro-shirt-away-2005-06-manu): חולצת רטרו מנצ'סטר יונייטד חוץ 2005/06 בעיצוב קלאסי, נוחה ומושלמת למגרש וליום יום
-  Updated: 2025-10-04T11:47:35Z
+  Updated: 2025-10-05T09:16:00Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16736,7 +16736,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו בורוסיה דורטמונד בית 1995/96](https://www.rsport.co.il/products/retro-shirt-home-1995-96-borussia-dortmund): תחזור לזיכרונות היסטוריים עם חולצת רטרו בית 1995/96 של בורוסיה דורטמונד. בד קל ונושם, מושלם למשחק או יום יום.
-  Updated: 2025-10-04T13:40:55Z
+  Updated: 2025-10-05T11:41:14Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16862,7 +16862,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו באיירן מינכן בית 2001/02](https://www.rsport.co.il/products/retro-shirt-home-2001-02-bayern-munich): חולצת רטרו בית 2001/02 של באיירן מינכן מזכירה עונות קלאסיות. בד נושם ונוח, מושלם לאוהדים שרוצים להרגיש את ההיסטוריה על המגרש.
-  Updated: 2025-10-04T13:29:21Z
+  Updated: 2025-10-05T09:54:51Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17009,7 +17009,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה חוץ 1992/95](https://www.rsport.co.il/products/retro-shirt-away-1992-95-barcelona): חולצת רטרו ברצלונה חוץ 1992/95 נוחה ואיכותית, מושלמת למגרש
-  Updated: 2025-10-04T12:49:03Z
+  Updated: 2025-10-05T10:19:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17135,7 +17135,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 1992/95](https://www.rsport.co.il/products/retro-shirt-home-1992-95-barcelona): חולצת רטרו ברצלונה בית 1992/95 נוסטלגית ואיכותית, מושלמת לאוהדים
-  Updated: 2025-10-04T12:49:02Z
+  Updated: 2025-10-05T08:16:38Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17177,7 +17177,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 2001/02](https://www.rsport.co.il/products/retro-shirt-home-2001-02-barcelona): חולצת רטרו ברצלונה בית 2001/02 איכותית ונוסטלגית, מושלמת לאוהדים
-  Updated: 2025-10-04T12:49:02Z
+  Updated: 2025-10-05T09:54:49Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17303,7 +17303,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 2013/14](https://www.rsport.co.il/products/retro-shirt-home-2013-14-barcelona): תמוך בברצלונה עם חולצת רטרו בית 2013/14 בהשראת הקבוצה. בד קל ונושם וגזרה מותאמת לנוחות מקסימלית.
-  Updated: 2025-10-04T12:50:07Z
+  Updated: 2025-10-05T10:16:47Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17408,7 +17408,7 @@
     Availability: Available
     Price: ‏169.90 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמנית בית 1994](https://www.rsport.co.il/products/retro-shirt-germany-home-1994): חולצת רטרו נבחרת גרמניה בית 1994 בעיצוב איכותי, מושלמת לאוהדים ונוסטלגיה
-  Updated: 2025-10-04T08:55:23Z
+  Updated: 2025-10-05T10:04:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19801,7 +19801,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_ecc496fb-cb3d-4f87-a137-5cd662e1bff0.jpg?v=1738544894
   Price: ‏749.90 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד שלישית 1996/97](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-שלישית-1996-97): חולצת רטרו שלישית 1996/97 של ריאל מדריד מחזירה אותך לרגעי ההיסטוריה של הקבוצה. בד קל ונושם לנוחות מקסימלית.
-  Updated: 2025-10-04T13:21:32Z
+  Updated: 2025-10-05T11:41:02Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19969,7 +19969,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד בית 2002/03](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-בית-2002-03): תחזור לעונת 2002/03 עם חולצת רטרו בית של ריאל מדריד. בד קל ונושם לנוחות מרבית, מושלם לאוהדים שאוהבים זיכרונות מהעבר.
-  Updated: 2025-10-04T13:08:03Z
+  Updated: 2025-10-05T11:08:17Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -20053,7 +20053,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד שלישית 1997/98](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-שלישית-1997-98): חולצת רטרו שלישית ריאל מדריד 1997/98 מזכירה עונות קלאסיות. בד קל ונושם לנוחות מקסימלית, מושלם לאוהדים נוסטלגיים.
-  Updated: 2025-10-04T13:02:18Z
+  Updated: 2025-10-05T09:24:12Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -45950,14 +45950,14 @@
     Availability: Available
     Price: ‏899.90 ‏₪ ILS
 - [כדור כדורגל מקצועי גביע העולם 2026 Trionda](https://www.rsport.co.il/products/football-trionda-worldcup-2026-white-royalblue-solarblue-red-green): תחווה את רמת המשחק של גביע העולם 2026 עם כדור הכדורגל Trionda. איכות מקצועית, עמידות גבוהה וביצועים מדויקים לכל משחק או אימון.
-  Updated: 2025-10-04T20:50:06Z
+  Updated: 2025-10-05T08:42:46Z
   Vendor: R:Sport
   Product Type: כדור רגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-04T215839.850.jpg?v=1759604342
   Price: ‏850.00 ‏₪ ILS
 - [כדור רגל גביע העולם 2026 חצי מקצועי Trionda Competition Football](https://www.rsport.co.il/products/football-2026-competition-8947031015674): תשדרג את חוויית המשחק עם כדור רגל חצי מקצועי Trionda Competition לגביע העולם 2026. עמיד, מדויק ונוח למשחקים ואימונים.
-  Updated: 2025-10-04T20:05:12Z
+  Updated: 2025-10-05T09:02:48Z
   Vendor: R:Sport
   Product Type: כדור רגל
   Availability: Available
@@ -46078,10 +46078,10 @@
   Updated: 2025-10-02T11:26:59Z
   Total Products: 31
 - [גופיות כדורסל NBA | מגוון רחב של עיצובים ונוחות](https://www.rsport.co.il/collections/nba): גלה מגוון גופיות כדורסל NBA בעיצובים מגוונים ונוחים. אידיאלי לאוהדים ולשחקנים שרוצים סטייל וביצועים.
-  Updated: 2025-10-04T13:59:26Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 194
 - [שיקגו בולס](https://www.rsport.co.il/collections/שיקגו-בולס): שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה... הצג עוד שיקגו בולס – אחד הסמלים האייקוניים של ה-NBA. עם עבר מפואר שכולל את מייקל ג'ורדן, סגנון לבוש ייחודי והיסטוריה שמדברת בעד עצמה, הגיע הזמן ללבוש את האדום-שחור בגאווה. כאן אתה יכול למצוא את הגופיות הכי חמות של ג'ורדן, סקוטי פיפן, דריק רוז, דניס רודמן ועוד כוכבים ששיחקו בקבוצה. בנוסף לגופיות שחקנים, תמצא גם גופיות רטרו נוסטלגיות משנות ה-90, מכנסי כדורסל, מכנסי JUST DON ולצידן חולצות טי-שירט לייף סטייל שמתאימות לכל יום – גם מחוץ לפרקט. כל הפריטים עשויים מחומרים איכותיים, מתאימים לאימונים, למשחק או ליום יום, עם דגש על נוחות, עיצוב ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות שיקגו בולס – עבר מפואר, סגנון בולט והשראה לנצח. גופיות של ג'ורדן, פיפן, רוז ורודמן מחכות כאן – לצד לוק לייף סטייל אמיתי... הצג עוד גופיות השחקנים הכי חמות של שיקגו בולס – מייקל ג'ורדן, סקוטי פיפן, דריק רוז ודניס רודמן, לצד גופיות רטרו קלאסיות, מכנסי כדורסל, מכנסי JUST DON וחולצות טי שירט לייף סטייל שישלימו כל הופעה. הפריטים עשויים מחומרים איכותיים ומתאימים לאימונים, למשחק או פשוט ללבוש יומיומי מלא סטייל ואותנטיות. בין אם אתה מחפש גופיית שחקן, מכנסיים נועזים או לוק שלם עם טאצ' של סטייל – תוכל למצוא הכל אצלנו. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.getElementById('short-text-desktop'); const fullDesktop = document.getElementById('full-text-desktop'); const showMoreDesktop = document.getElementById('toggle-btn-desktop'); const showLessDesktop = document.getElementById('toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.getElementById('short-text'); const fullMobile = document.getElementById('full-text'); const showMoreMobile = document.getElementById('toggle-btn'); const showLessMobile = document.getElementById('toggle-btn-less'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'block'; }); } });
-  Updated: 2025-10-02T11:25:56Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 20
 - [חולצות כדורגל ומוצרי ספורט של נבחרת פורטוגל](https://www.rsport.co.il/collections/פורטוגל): מוצרי נבחרת פורטוגל למונדיאל 2026 – חולצות כדורגל, חולצות אוהדים, חליפות ילדים, אימוניות, מעילים רוח ועוד. כל הציוד של פורטוגל במחירים משתלמים
   Updated: 2025-10-02T12:34:17Z
@@ -46099,10 +46099,10 @@
   Updated: 2025-10-02T12:34:14Z
   Total Products: 18
 - [גופיות כדורסל](https://www.rsport.co.il/collections/גופיות-כדורסל)
-  Updated: 2025-10-04T13:59:26Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 169
 - [גופיות רטרו](https://www.rsport.co.il/collections/גופיות-רטרו)
-  Updated: 2025-10-03T13:05:25Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 46
 - [גופיות ילדים](https://www.rsport.co.il/collections/גופיות-ילדים)
   Updated: 2025-10-02T11:26:03Z
@@ -46342,10 +46342,10 @@
   Updated: 2025-08-28T14:16:51Z
   Total Products: 12
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-03T11:18:38Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 49
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-10-03T11:18:38Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 44
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-04T11:18:52Z
@@ -46441,7 +46441,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-04T18:59:53Z
+  Updated: 2025-10-05T11:18:53Z
   Total Products: 2052
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
