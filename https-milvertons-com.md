@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-05T16:00:34.332Z
+- Updated At: 2025-10-05T20:00:34.031Z
 
 ## Products
 
@@ -4920,7 +4920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-05T06:50:40Z
+  Updated: 2025-10-05T19:10:41Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10412,7 +10412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/enia-cascade-print-skirt-9098776.webp?v=1758251773
     Price: $36.95 USD
 - [Elegant Wedding Shoe and Bag Set with Handmade Flowers](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers): Elegant Wedding Shoe and Bag Set with Handmade Flowers. Ideal for weddings, parties and special occasions, this shoe and bag combo offer both style and comfort.
-  Updated: 2025-10-05T06:47:01Z
+  Updated: 2025-10-05T18:19:44Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10561,7 +10561,7 @@
 ## Collections
 
 - [Featured Collection](https://milvertons.com/collections/frontpage): From stylish shoes and bags to trendy clothing and accessories, our collection is sure to impress. Shop our featured collection today for an exciting experience
-  Updated: 2025-09-26T06:52:17Z
+  Updated: 2025-10-05T19:25:29Z
   Total Products: 17
 - [Wedding Collection](https://milvertons.com/collections/wedding): Wedding Accessories. Shop our Wedding collection for an exciting and memorable experience!
   Updated: 2025-05-01T08:40:41Z
@@ -10579,7 +10579,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-04T09:25:53Z
+  Updated: 2025-10-05T19:25:30Z
   Total Products: 136
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -10594,10 +10594,10 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-04T09:26:32Z
+  Updated: 2025-10-05T19:25:31Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
-  Updated: 2025-09-26T06:52:17Z
+  Updated: 2025-10-05T19:25:32Z
   Total Products: 21
 - [Wireless Phone Chargers](https://milvertons.com/collections/wireless-phone-chargers): Wireless Phone Chargers
   Updated: 2024-04-16T16:48:33Z
@@ -10609,25 +10609,25 @@
   Updated: 2025-09-25T17:45:57Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-10-04T04:49:05Z
+  Updated: 2025-10-05T19:25:34Z
   Total Products: 100
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
   Updated: 2025-09-06T01:21:47Z
   Total Products: 173
 - [Fashion Boxes and Bags](https://milvertons.com/collections/fashion-boxes-and-bags): Fashion Boxes and Bags
-  Updated: 2025-09-26T06:52:18Z
+  Updated: 2025-10-05T19:25:35Z
   Total Products: 17
 - [Trending High Quality Ethnic Lace Fabric](https://milvertons.com/collections/ethnic-lace-fabric): Shop Ethnic Lace Fabric. This collection includes Handmade African Lace Fabric, Aso Oke, and more.
   Updated: 2025-09-01T20:10:02Z
   Total Products: 25
 - [Latest Trendy Clothing Accessories](https://milvertons.com/collections/trendy-clothing-accessories): Shop Latest Trendy Clothing Accessories. Stone-studded Belts, Caftan Belts, Fashion Breastplates, Baguette Cut Rings, Beaded Necklaces, Water Drop Earrings, etc
-  Updated: 2025-09-26T06:52:18Z
+  Updated: 2025-10-05T19:25:36Z
   Total Products: 45
 - [Ethnic Headties, Headwear and Turbans](https://milvertons.com/collections/headties-headwear-turbans): Shop Ethnic Headties, Headwear and Turbans. This collection includes classy African Auto-Gele, unique, handmade, and more.
-  Updated: 2025-09-26T06:52:18Z
+  Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-05T09:25:32Z
+  Updated: 2025-10-05T19:25:39Z
   Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -11270,19 +11270,19 @@
 ## Store Pages
 
 - [About Us](https://milvertons.com/pages/about-us): Milvertons4757 Snyder Ln, Rohnert Park, California 94928, United StatesEmail: sales@milvertons.com Milvertons is a US-based online retail store tha...
-  Updated: 2025-09-23T16:42:47Z
+  Updated: 2025-10-05T19:25:55Z
 - [The Milvertons Store - Contact Us](https://milvertons.com/pages/contact-us): Milvertons4757 Snyder Ln, Rohnert Park, California 94928, United StatesEmail: sales@milvertons.com Business Hours:Weekdays - All DayWeekends - All ...
-  Updated: 2025-09-23T16:43:31Z
+  Updated: 2025-10-05T19:26:10Z
 - [Brand Ambassador Terms & Conditions](https://milvertons.com/pages/brand-ambassador-terms-conditions): Thanks for considering our brand ambassador program! Our Company is dedicated to providing the best shopping experience for our customers. Since we...
-  Updated: 2021-06-08T10:06:25Z
+  Updated: 2025-10-05T19:26:08Z
 - [Milvertons Brand Awareness Video](https://milvertons.com/pages/milvertons-brand-awareness-video): [{"url":"https://vimeo.com/796216858","thumbnailUrl":"https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1604331130-...
   Updated: 2023-03-03T02:12:11Z
 - [GDPR Compliance](https://milvertons.com/pages/gdpr-compliance): The app used for assuring the GDPR/CCPA/APPI/PIPEDA compliance of this site, collects your IP and the email address in order to process the data. F...
-  Updated: 2023-10-30T20:24:14Z
+  Updated: 2025-10-05T19:26:14Z
 - [CCPA Compliance](https://milvertons.com/pages/ccpa-compliance): #form-ccpa-edit-account-request, #form-ccpa-data-account-request, #form-ccpa-personal-data-report-request, #form-ccpa-delete-account-request , #for...
-  Updated: 2023-02-20T00:32:32Z
+  Updated: 2025-10-05T19:26:09Z
 - [APPI Compliance](https://milvertons.com/pages/appi-compliance): #form-appi-edit-account-request, #form-appi-data-account-request, #form-appi-personal-data-report-request, #form-appi-delete-account-request , #for...
-  Updated: 2023-02-20T00:34:13Z
+  Updated: 2025-10-05T19:26:06Z
 - [PIPEDA Compliance](https://milvertons.com/pages/pipeda-compliance): #form-pipeda-edit-account-request, #form-pipeda-requests-request, #form-pipeda-personal-information-request, #form-pipeda-orders-request, #form-pip...
   Updated: 2024-10-08T04:54:46Z
 - [Women's Sizing Chart](https://milvertons.com/pages/womens-sizing-chart): 
@@ -11298,7 +11298,7 @@
 - [Join our Affiliate Program - Become an Affiliate](https://milvertons.com/pages/become-an-affiliate): Join our Affiliate Program - Become an Affiliate. Join us in our journey to spread the allure of style and elegance through our curated collection ...
   Updated: 2024-10-23T12:20:23Z
 - [Affiliate Program Terms & Conditions](https://milvertons.com/pages/affiliate-program-terms-conditions): Welcome to Milvertons! Thanks for joining our Affiliate program. These following terms and conditions apply to individuals who are accessing or usi...
-  Updated: 2024-10-25T03:21:04Z
+  Updated: 2025-10-05T19:25:56Z
 - [Your privacy choices](https://milvertons.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:38:02Z
 - [Matching Shoe & Bag Sets - Curated Luxury](https://milvertons.com/pages/shoe-bag-sets): Matching Shoe & Bag Sets - Curated Luxury. Effortless luxury. Discover our curated collection of matching shoe and bag sets. Elevate any outfit wit...
