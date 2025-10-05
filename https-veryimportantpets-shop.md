@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-04T20:01:11.408Z
+- Updated At: 2025-10-05T00:01:11.434Z
 
 ## Products
 
@@ -2191,7 +2191,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-end-table-with-cushion-for-smallmedium-dogs-dog-crate-871691.jpg?v=1700647908
   Price: £107.99 GBP
 - [Spacious Outdoor Wooden Dog Kennel - Grey, 72x109x79cm](https://veryimportantpets.shop/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm): Dogs love the outdoors! So, let them enjoy it safely with this PawHut dog kennel. Shop online at Very Important Pets
-  Updated: 2025-10-02T15:30:47Z
+  Updated: 2025-10-04T23:30:47Z
   Vendor: PawHut
   Product Type: Dog Kennel
   Availability: Available
@@ -2953,7 +2953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-bird-cage-with-stand-wheels-for-small-birds-bird-cage-white-654200.jpg?v=1700648388
     Price: £71.99 GBP
 - [1.53m Mobile Bird Cage with Feeding Stand & Perches | Very Important Pets](https://veryimportantpets.shop/products/1-53m-mobile-bird-cage-with-feeding-stand-perches): Elevate your feathered friends' habitat with our 1.53m tall bird cage on wheels. Designed for parrots and similar-sized birds, it features two perches, food and water containers, and a lower storage rack. The sturdy metal frame and easy-to-clean pull-out tray make maintenance effortless. Ideal for small spaces.
-  Updated: 2025-10-04T07:30:47Z
+  Updated: 2025-10-04T23:30:47Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
@@ -3325,7 +3325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-04T15:30:50Z
+  Updated: 2025-10-04T23:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3567,7 +3567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-04T15:30:48Z
+  Updated: 2025-10-04T23:30:47Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3735,7 +3735,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-for-indoor-cats-cute-giraffe-kitten-play-tower-with-scratching-posts-tunnel-ball-toy-485-x-345-x-101-cm-104858.jpg?v=1700660513
   Price: £35.99 GBP
 - [5 Piece Cat Wall Shelves, Wall-Mounted Cat Tree for Indoor Use - Brown](https://veryimportantpets.shop/products/5-piece-cat-wall-shelves-wall-mounted-cat-tree-for-indoor-use-brown): Spark your pet's curiosity with this PawHut wall mounted cat furniture, turning any room into an adventurous and exciting haven. Shop online at Very Important Pets
-  Updated: 2025-09-27T23:31:05Z
+  Updated: 2025-10-04T23:30:45Z
   Vendor: PawHut
   Product Type: Wall Mounted Cat Post
   Availability: Available
@@ -4415,7 +4415,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-1255-x-100-x-49cm-502292.jpg?v=1700650041
   Price: £107.99 GBP
 - [Rabbit Hutch Small Animal Guinea Pig House with Openable Main House & Run Roof](https://veryimportantpets.shop/products/rabbit-hutch-small-animal-guinea-pig-house-with-openable-main-house-run-roof): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-10-01T07:30:32Z
+  Updated: 2025-10-04T23:30:47Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4471,7 +4471,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-10-04T15:30:51Z
+  Updated: 2025-10-04T23:30:47Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4485,7 +4485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-10-04T15:30:48Z
+  Updated: 2025-10-04T23:30:45Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -5268,12 +5268,12 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-small-dog-dry-food-with-chicken-veg-adult-dry-5x11kg-139434.jpg?v=1735319237
     Price: £21.40 GBP
 - [Barking Head All Hounder Bowl Chicken 4x2kg](https://veryimportantpets.shop/products/barking-head-all-hound-bowl-chicken-4x2kg): Barking Heads All Hounder Bowl Lickin Goodness Chicken Adult Dry Dog Food. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:19Z
+  Updated: 2025-10-04T21:27:47Z
   Vendor: Barking Heads
   Product Type: Adult Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/barking-head-all-hound-bowl-chicken-4x2kg-adult-dry-975330.jpg?v=1700661509
-  Price: £57.95 GBP
+  Price: £52.95 GBP
 - [Beta Adult Chicken](https://veryimportantpets.shop/products/beta-adult-chicken): Beta Adult with Chicken Being a Real Dog means running jumping chasing and living a life unleashed. Shop online at Very Important Pets
   Updated: 2025-10-02T17:28:12Z
   Vendor: PURINA BETA
@@ -5330,20 +5330,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-adult-small-breed-chicken-dry-dog-food-2-kg-adult-dry-346871.png?v=1706812181
   Price: £9.56 GBP
-- [PURINA BETA Adult Turkey and Lamb Dry Dog Food](https://veryimportantpets.shop/products/beta-adult-turkey-lamb): Nourish your active dog with Beta Adult Turkey and Lamb Dry Dog Food. Packed with essential vitamins, minerals, and protein for healthy bones and muscles.
-  Updated: 2025-10-03T20:28:00Z
+- [PURINA BETA Adult Turkey and Lamb Dry Dog Food 14kg](https://veryimportantpets.shop/products/beta-adult-turkey-lamb): Nourish your active dog with Beta Adult Turkey and Lamb Dry Dog Food. Packed with essential vitamins, minerals, and protein for healthy bones and muscles.
+  Updated: 2025-10-04T21:00:22Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-adult-turkey-lamb-dry-dog-food-adult-dry-2-kg-678318.jpg?v=1741750874
-  - [2 kg](https://veryimportantpets.shop/products/beta-adult-turkey-lamb?variant=47147471044898)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-adult-turkey-lamb-dry-dog-food-adult-dry-2-kg-678318.jpg?v=1741750874
-    Price: £3.30 GBP
-  - [14 kg](https://veryimportantpets.shop/products/beta-adult-turkey-lamb?variant=47147471012130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-adult-turkey-lamb-dry-dog-food-adult-dry-14-kg-640291.jpg?v=1741750873
-    Price: £37.94 GBP
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-adult-turkey-lamb-dry-dog-food-adult-dry-14-kg-640291.jpg?v=1741750873
+  Price: £37.94 GBP
 - [Purina Beta Chicken Dry Dog Food for Growing Puppies](https://veryimportantpets.shop/products/beta-puppy-chicken): Give your growing puppy the nutrition they need with Purina Beta Puppy with Chicken Dry Dog Food. Antioxidants for natural defences and DHA for development.
   Updated: 2025-10-02T17:28:12Z
   Vendor: PURINA BETA
@@ -9850,7 +9843,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-braids-small-breed-12x55g-dog-treats-965420.jpg?v=1701107999
   Price: £19.34 GBP
 - [Good Boy Chewy Chicken Dumbbells - 100% Natural Dog Treats](https://veryimportantpets.shop/products/good-boy-chewy-chicken-dumbbells): Good Boy Chewy Chicken Dumbbells are made with super duper tasty 100% natural chicken breast meat so are sure to become one of your dog’s favourite treats.
-  Updated: 2025-10-04T19:46:34Z
+  Updated: 2025-10-04T22:27:52Z
   Vendor: Good Boy
   Product Type: Natural Treats
   Availability: Available
@@ -9860,9 +9853,9 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/good-boy-chewy-chicken-dumbbells-natural-treats-8x100g-394725.jpg?v=1758464456
     Price: £18.99 GBP
   - [4 x 350 g](https://veryimportantpets.shop/products/good-boy-chewy-chicken-dumbbells?variant=47213132513570)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-chewy-chicken-dumbbells-natural-treats-3x350g-372110.jpg?v=1758464456
-    Price: £3.30 GBP
+    Price: £29.81 GBP
 - [Good Boy Chewy Chicken Fillets 3x320g](https://veryimportantpets.shop/products/good-boy-chewy-chicken-fillets-3x320g): Good Boy Chewy Chicken Fillets these low fat dog treats are made with 100% natural chicken breast meat and are sure to get your dogs' tail wagging. Shop online at Very Important Pets
   Updated: 2025-09-24T17:28:29Z
   Vendor: Good Boy
@@ -14630,7 +14623,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/arden-grange-adult-grain-free-chicken-superfoods-6x395g-adult-wet-211817.jpg?v=1702325158
   Price: £17.51 GBP
 - [Barking Heads All Hounder Golden Years Chicken](https://veryimportantpets.shop/products/barking-heads-all-hounder-golden-years-chicken): Barking Heads All Hounder Golden Years Chicken Senior Dry Dog Food. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:52:20Z
+  Updated: 2025-10-04T21:27:47Z
   Vendor: Barking Heads
   Product Type: Senior Dry
   Availability: Available
@@ -14638,11 +14631,11 @@
   - [4x2kg](https://veryimportantpets.shop/products/barking-heads-all-hounder-golden-years-chicken?variant=47252625326370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/barking-heads-all-hounder-golden-years-chicken-senior-dry-4x2kg-753436.jpg?v=1728955560
-    Price: £57.95 GBP
+    Price: £52.95 GBP
   - [12 kg](https://veryimportantpets.shop/products/barking-heads-all-hounder-golden-years-chicken?variant=47252625359138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/barking-heads-all-hounder-golden-years-chicken-senior-dry-12-kg-954188.jpg?v=1702325346
-    Price: £56.26 GBP
+    Price: £57.95 GBP
 - [Barking Heads All Hounder Puppy Days Grain Free Turkey 6 kg](https://veryimportantpets.shop/products/barking-heads-all-hounder-puppy-days-grain-free-turkey-6-kg): Barking Heads All Hounder Puppy Days Grain Free Turkey Dry Dog Food. Shop online at Very Important Pets
   Updated: 2025-09-22T18:52:20Z
   Vendor: Barking Heads
@@ -18834,7 +18827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-buckle-collar-collars-leads-dog-35-43cm-295584.jpg?v=1708112232
     Price: £5.88 GBP
 - [Ancol Viva Comfort Mesh Dog Harness](https://veryimportantpets.shop/products/ancol-viva-comfort-mesh-dog-harness): Ancol Viva Comfort Mesh Harness have a breathable mesh with increased reflectivity. Shop online at Very Important Pets
-  Updated: 2025-10-02T21:27:50Z
+  Updated: 2025-10-04T20:07:02Z
   Vendor: Ancol
   Product Type: 
   Availability: Available
@@ -18859,10 +18852,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-comfort-mesh-dog-harness-harness-dog-xs-28-40cm-956922.jpg?v=1708112232
     Price: £9.60 GBP
-  - [S 34-45cm / Lime](https://veryimportantpets.shop/products/ancol-viva-comfort-mesh-dog-harness?variant=47604228358434)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-comfort-mesh-dog-harness-harness-dog-s-34-45cm-919467.jpg?v=1708112232
-    Price: £3.30 GBP
   - [M 44-57cm / Lime](https://veryimportantpets.shop/products/ancol-viva-comfort-mesh-dog-harness?variant=47604228391202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-comfort-mesh-dog-harness-harness-dog-m-44-57cm-663143.jpg?v=1708112232
@@ -19436,7 +19425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-pinkpurple-coats-clothing-xl-60cm-length-767645.jpg?v=1708112220
     Price: £3.30 GBP
 - [Ancol Viva Reversible Dog Coat Red/Blue](https://veryimportantpets.shop/products/ancol-viva-reversible-dog-coat-red-blue): Ancol Viva Reversible Coat. Shop online at Very Important Pets
-  Updated: 2025-10-03T20:28:00Z
+  Updated: 2025-10-04T20:10:53Z
   Vendor: Ancol
   Product Type: 
   Availability: Available
@@ -19453,14 +19442,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-redblue-coats-clothing-sm-35cm-length-762850.jpg?v=1708112217
     Price: £14.95 GBP
-  - [M - 40cm Length](https://veryimportantpets.shop/products/ancol-viva-reversible-dog-coat-red-blue?variant=47604237074722)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-redblue-coats-clothing-m-40cm-length-868457.jpg?v=1708112217
-    Price: £3.30 GBP
-  - [L - 50cm Length](https://veryimportantpets.shop/products/ancol-viva-reversible-dog-coat-red-blue?variant=47604237107490)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-redblue-coats-clothing-l-50cm-length-660612.jpg?v=1708112217
-    Price: £3.30 GBP
   - [XL - 60cm Length](https://veryimportantpets.shop/products/ancol-viva-reversible-dog-coat-red-blue?variant=47604237140258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-redblue-coats-clothing-xl-60cm-length-474547.jpg?v=1708112217
@@ -23967,14 +23948,14 @@ Omega-6 & 3 for skin.
 ## Collections
 
 - [Grain-Free Dog Food - Top Brands | Very Important Pets | Shop](https://veryimportantpets.shop/collections/grain-free-dog-food): Shop grain-free dog food at Very Important Pets for pets with sensitivities. Find leading brands that offer balanced nutrition in wet and dry forms.
-  Updated: 2025-10-04T19:30:45Z
-  Total Products: 202
+  Updated: 2025-10-04T21:27:48Z
+  Total Products: 201
 - [Dry Dog Food & Kibble - Premium Brands | Very Important Pets](https://veryimportantpets.shop/collections/dry-dog-food): Find tailored dry dog food nutrition for all breeds, ages, and diets, including grain-free and hypoallergenic. Perfect for your dog’s health and taste preferences.
-  Updated: 2025-10-04T19:30:45Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 432
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
-  Updated: 2025-10-03T20:28:02Z
-  Total Products: 302
+  Updated: 2025-10-04T21:07:04Z
+  Total Products: 301
 - [Durable Dog Bowls - Stainless Steel, Ceramic, Plastic Option](https://veryimportantpets.shop/collections/dog-bowls): Shop dog bowls including stainless steel, ceramic, plastic, and collapsible travel bowls. Find durable, stylish, and safe bowls for every dog.
   Updated: 2025-10-02T11:37:12Z
   Total Products: 32
@@ -23982,13 +23963,13 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-18T20:13:58Z
   Total Products: 33
 - [Dog Harness UK - No Pull, Car Safety & Reflective Harnesses](https://veryimportantpets.shop/collections/dog-harnesses): Discover our range of dog harnesses, including Halti no-pull, car safety, and reflective options. Suits all breeds. Ensure safe, comfortable walks and travel.
-  Updated: 2025-10-02T21:27:51Z
+  Updated: 2025-10-04T20:07:03Z
   Total Products: 11
 - [Dog Apparel - Coats, Jackets & Waterproof Dog Clothing UK](https://veryimportantpets.shop/collections/dog-coats-jackets-and-clothing): Explore our range of dog apparel in the UK: coats, jackets, waterproof, and reflective wear. Keep your dog warm, dry, and stylish in all weather conditions.
-  Updated: 2025-10-03T20:28:01Z
+  Updated: 2025-10-04T20:10:17Z
   Total Products: 9
 - [Premium Dry Puppy Food - Nutritious Choices for Growing Pups](https://veryimportantpets.shop/collections/dry-puppy-food): Shop quality Dry Puppy Food at Very Important Pets. Discover our range of gluten-free, hypoallergenic, breed-specific foods for healthy puppy growth.
-  Updated: 2025-10-04T17:28:03Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 85
 - [Quality Puppy Wet Food - Top Brands & Nutritious Varieties](https://veryimportantpets.shop/collections/wet-puppy-food): Explore our Puppy Wet Food collection at Very Important Pets. Grain-free options, essential nutrients for growth. Featuring brands like James Wellbeloved & more
   Updated: 2025-10-02T18:55:20Z
@@ -24015,7 +23996,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-10-04T18:05:05Z
+  Updated: 2025-10-04T22:27:50Z
   Total Products: 395
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-10-04T18:04:16Z
@@ -24027,7 +24008,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T20:28:01Z
   Total Products: 8
 - [Natural Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/natural-dog-treats): Natural Dog Treats - Very Important Pets | Shop
-  Updated: 2025-10-04T18:04:16Z
+  Updated: 2025-10-04T22:27:50Z
   Total Products: 238
 - [Dog Throwing Toy Balls - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-balls): Dog Balls - Very Important Pets | Shop
   Updated: 2025-10-04T17:56:50Z
@@ -24066,7 +24047,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T11:38:27Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-10-04T17:28:03Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 582
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-10-01T21:47:34Z
@@ -24090,13 +24071,13 @@ Omega-6 & 3 for skin.
   Updated: 2024-02-20T09:42:01Z
   Total Products: 0
 - [Most Shopped - Very Important Pets | Shop](https://veryimportantpets.shop/collections/most-shopped): Most Shopped - Very Important Pets | Shop
-  Updated: 2025-10-02T18:55:19Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 8
 - [Staff Pick - Very Important Pets | Shop](https://veryimportantpets.shop/collections/staff-pick): Staff Pick - Very Important Pets | Shop
   Updated: 2024-06-07T16:22:33Z
   Total Products: 0
 - [Puppy - Very Important Pets | Shop](https://veryimportantpets.shop/collections/puppy): Puppy - Very Important Pets | Shop
-  Updated: 2025-10-04T17:28:03Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 144
 - [PawHut - Quality Pet Products for Home and Outdoors](https://veryimportantpets.shop/collections/pawhut): PawHut - Quality Pet Products for Home and Outdoors - Very Important Pets | Shop
   Updated: 2025-10-03T15:31:00Z
@@ -24105,10 +24086,10 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-04T18:05:05Z
+  Updated: 2025-10-04T22:27:50Z
   Total Products: 1772
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
-  Updated: 2025-10-03T20:28:01Z
+  Updated: 2025-10-04T20:10:17Z
   Total Products: 186
 - [Small Animal Carrier - Very Important Pets | Shop](https://veryimportantpets.shop/collections/small-animal-carrier): Small Animal Carrier - Very Important Pets | Shop
   Updated: 2024-06-07T16:29:47Z
@@ -24543,8 +24524,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T21:27:51Z
   Total Products: 25
 - [All Dog Accessories](https://veryimportantpets.shop/collections/dog-accessories)
-  Updated: 2025-10-03T20:28:02Z
-  Total Products: 154
+  Updated: 2025-10-04T20:32:46Z
+  Total Products: 153
 - [Top Dog Grooming Products for All Breeds | Very Important Pets](https://veryimportantpets.shop/collections/dog-grooming): Explore premium dog grooming essentials at Very Important Pets. Find shampoos, brushes, clippers, and more for a healthy, shiny coat.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 154
@@ -24552,7 +24533,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-04T18:05:05Z
+  Updated: 2025-10-04T22:27:50Z
   Total Products: 1722
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24573,10 +24554,10 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-18T21:16:27Z
   Total Products: 2
 - [Rosewood Pet Products | Shop Online | Very Important Pets](https://veryimportantpets.shop/collections/rosewood): Explore Rosewood pet accessories and treats, comfy beds, fun toys and tasty treats. For over 50 years, Rosewood has provided quality for your pet's well-being.
-  Updated: 2025-10-03T20:28:01Z
-  Total Products: 87
+  Updated: 2025-10-04T20:32:46Z
+  Total Products: 86
 - [Good Boy Dog Treats & Toys | Very Important Pets | Shop](https://veryimportantpets.shop/collections/good-boy): Indulge your pooch with Good Boy treats and toys at Very Important Pets. Savour high-quality, safe products perfect for play and training. Shop for dental care treats and fun toys!
-  Updated: 2025-10-04T18:05:05Z
+  Updated: 2025-10-04T22:27:50Z
   Total Products: 71
 - [Small Animal Playpen](https://veryimportantpets.shop/collections/small-animal-playpen)
   Updated: 2025-01-13T21:04:22Z
@@ -24651,7 +24632,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-08-22T11:37:22Z
   Total Products: 13
 - [Barking Heads: Premium Dog Nutrition | Very Important Pets](https://veryimportantpets.shop/collections/barking-heads): Shop Barking Heads at Very Important Pets for natural dog food. Perfect for all life stages with free-range meats and fresh veggies for your dog's health and joy.
-  Updated: 2025-09-22T18:52:23Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 28
 - [Arkwrights Working & Sporting Dog | Very Important Pets](https://veryimportantpets.shop/collections/arkwrights): Arkwrights premium dog food at Very Important Pets, perfect for working dogs. Over 85% of British ingredients for health, vitality, and peak performance.
   Updated: 2025-07-02T18:27:40Z
@@ -24660,7 +24641,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T18:55:02Z
   Total Products: 21
 - [PURINA BETA Dry Dog Food - Pure, Balanced Nutrition](https://veryimportantpets.shop/collections/beta): Discover BETA from Purina, natural dog food at Very Important Pets. Their UK-made kibble, free from artificial additives, promotes healthy digestion and vitality.
-  Updated: 2025-10-03T20:28:01Z
+  Updated: 2025-10-04T21:00:24Z
   Total Products: 12
 - [Wagg Dog & Small Pet Food | Affordable Goodness](https://veryimportantpets.shop/collections/wagg): Discover Wagg affordable pet food range. Designed for complete nutrition and pure enjoyment. Packed with vitamins for health and find treats for training.
   Updated: 2025-10-03T11:38:27Z
@@ -24708,8 +24689,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T18:55:11Z
   Total Products: 83
 - [Lily's Kitchen: Natural Feasts for Cats & Dogs | VIPs](https://veryimportantpets.shop/collections/lilys-kitchen): Delight your pets with Lily's Kitchen natural food, crafted with fresh meats and veggies. Over 25 years of delicious, complete recipes for health and happiness.
-  Updated: 2025-10-03T20:28:01Z
-  Total Products: 75
+  Updated: 2025-10-04T21:07:04Z
+  Total Products: 74
 - [Natures Menu: Wholesome Pet Meals | Shop Online](https://veryimportantpets.shop/collections/natures-menu): Treat pets to Natures Menu at Very Important Pets: vet-approved, human-grade meat, fresh produce for a balanced diet. Supports health and well-being.
   Updated: 2025-10-04T18:27:50Z
   Total Products: 46
@@ -24756,7 +24737,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-04T18:05:05Z
+  Updated: 2025-10-04T22:27:50Z
   Total Products: 2317
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
@@ -24813,7 +24794,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-29T20:27:59Z
   Total Products: 9
 - [Senior Dog Food- Optimal Nutrition for Older Dogs | VIPs](https://veryimportantpets.shop/collections/senior-dog-food): Shop for specialised senior or mature life-stage dog food - tailored nutrition for older dogs with joint support and essential vitamins for health and vitality.
-  Updated: 2025-10-04T17:28:03Z
+  Updated: 2025-10-04T21:27:48Z
   Total Products: 76
 - [Verm-X Natural Supplements: Eco-Friendly, Vet Approved Care](https://veryimportantpets.shop/collections/verm-x): Explore Verm-X's natural supplements for pets at Very Important Pets. Ethically made in the UK, vet-approved, eco-friendly products promote holistic animal health.
   Updated: 2025-05-04T17:44:26Z
@@ -24930,8 +24911,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-08-08T22:27:54Z
   Total Products: 13
 - [LED & Reflective Dog Collars, Harnesses, and Night Safety Gear](https://veryimportantpets.shop/collections/night-safety-flashing-and-reflective-wear): Shop reflective and LED dog accessories: collars, harnesses, leashes, & coats. Keep your dog visible and safe during nighttime walks with high-visibility kit.
-  Updated: 2025-10-03T20:28:01Z
-  Total Products: 21
+  Updated: 2025-10-04T20:32:46Z
+  Total Products: 20
 - [Sensitive Dog Treats for Dietary Needs | Very Important Pets](https://veryimportantpets.shop/collections/sensitive-dog-treats): Explore hypoallergenic dog treats ideal for sensitive stomachs. Grain-free, gluten-free options that support digestive health and alleviate allergies.
   Updated: 2025-10-04T19:52:15Z
   Total Products: 63
