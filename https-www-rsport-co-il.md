@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-04T20:01:01.145Z
+- Updated At: 2025-10-05T00:00:56.946Z
 
 ## Products
 
@@ -14834,7 +14834,7 @@
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 1998](https://www.rsport.co.il/products/retro-shirt-brazil-1998): חולצת רטרו נבחרת ברזיל 1998 איכותית ונוסטלגית לאוהדים אמיתיים
-  Updated: 2025-10-04T07:04:15Z
+  Updated: 2025-10-04T21:17:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14855,7 +14855,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 2002](https://www.rsport.co.il/products/retro-shirt-brazil-2002): חולצת רטרו נבחרת ברזיל 2002 בעיצוב איקוני שמזכיר רגעי אליפות גדולים
-  Updated: 2025-10-04T07:05:11Z
+  Updated: 2025-10-04T22:06:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14939,7 +14939,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 1997](https://www.rsport.co.il/products/retro-shirt-brazil-1997): חולצת רטרו נבחרת ברזיל 1997 נוחה ונוסטלגית למגרש וליום יום
-  Updated: 2025-10-04T09:05:01Z
+  Updated: 2025-10-04T21:26:47Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15002,7 +15002,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל חוץ 2004/06](https://www.rsport.co.il/products/retro-shirt-brazil-away-2004-06): חולצת רטרו נבחרת ברזיל חוץ 2004/06 בעיצוב איכותי, מושלמת לאוהדים וליום יום
-  Updated: 2025-10-04T07:16:26Z
+  Updated: 2025-10-04T21:08:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15098,7 +15098,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן בית 2002/03](https://www.rsport.co.il/products/retro-shirt-milan-home-2002-03): חולצת רטרו מילאן בית 2002/03 בעיצוב קלאסי לאוהדים ולזכרונות
-  Updated: 2025-10-04T09:42:46Z
+  Updated: 2025-10-04T22:43:25Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16190,7 +16190,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי חוץ 2010/11](https://www.rsport.co.il/products/retro-shirt-away-2010-11-chelsea): חולצת רטרו צ'לסי חוץ 2010/11 בעיצוב איכותי ונוח, אידיאלית למגרש וליום יום
-  Updated: 2025-10-04T10:49:56Z
+  Updated: 2025-10-04T23:41:33Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16232,7 +16232,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי חוץ 2003/05](https://www.rsport.co.il/products/retro-shirt-away-2003-05-chelsea): חולצת רטרו צ'לסי חוץ 2003/05 בעיצוב קלאסי ונוסטלגי, נוחה למגרש וליום יום
-  Updated: 2025-10-04T10:45:38Z
+  Updated: 2025-10-04T23:56:38Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16925,7 +16925,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת הולנד בית 1998](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1998): חולצת רטרו נבחרת הולנד בית 1998 בעיצוב מודרני עם נגיעה נוסטלגית
-  Updated: 2025-10-04T07:24:02Z
+  Updated: 2025-10-04T21:36:41Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16967,7 +16967,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת הולנד בית 1990](https://www.rsport.co.il/products/retro-shirt-netherlands-home-1990): חולצת רטרו נבחרת הולנד בית 1990 עם עיצוב אייקוני ונוסטלגי לאוהדים אמיתיים
-  Updated: 2025-10-04T07:22:21Z
+  Updated: 2025-10-04T21:32:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16988,7 +16988,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת הולנד בית 2002/04](https://www.rsport.co.il/products/retro-shirt-netherlands-home-2002-04): חולצת רטרו נבחרת הולנד בית 2002/04 בעיצוב קלאסי ונוח, מושלמת לאוהדים וליום יום
-  Updated: 2025-10-04T07:21:36Z
+  Updated: 2025-10-04T21:32:05Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -45949,15 +45949,15 @@
   - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374825722)
     Availability: Available
     Price: ‏899.90 ‏₪ ILS
-- [כדור כדורגל מקצועי גביע העולם 2026 Trionda](https://www.rsport.co.il/products/8947028558074-kgh26ad): תחווה את רמת המשחק של גביע העולם 2026 עם כדור הכדורגל Trionda. איכות מקצועית, עמידות גבוהה וביצועים מדויקים לכל משחק או אימון.
-  Updated: 2025-10-04T19:00:51Z
+- [כדור כדורגל מקצועי גביע העולם 2026 Trionda](https://www.rsport.co.il/products/football-trionda-worldcup-2026-white-royalblue-solarblue-red-green): תחווה את רמת המשחק של גביע העולם 2026 עם כדור הכדורגל Trionda. איכות מקצועית, עמידות גבוהה וביצועים מדויקים לכל משחק או אימון.
+  Updated: 2025-10-04T20:50:06Z
   Vendor: R:Sport
   Product Type: כדור רגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-04T215839.850.jpg?v=1759604342
   Price: ‏850.00 ‏₪ ILS
 - [כדור רגל גביע העולם 2026 חצי מקצועי Trionda Competition Football](https://www.rsport.co.il/products/football-2026-competition-8947031015674): תשדרג את חוויית המשחק עם כדור רגל חצי מקצועי Trionda Competition לגביע העולם 2026. עמיד, מדויק ונוח למשחקים ואימונים.
-  Updated: 2025-10-04T19:00:36Z
+  Updated: 2025-10-04T20:05:12Z
   Vendor: R:Sport
   Product Type: כדור רגל
   Availability: Available
@@ -46636,7 +46636,7 @@
   Updated: 2025-10-02T11:28:37Z
   Total Products: 62
 - [כדורי מונדיאל 2026 | World Cup Ball](https://www.rsport.co.il/collections/world-cup-ball): קנו עכשיו את כדורי מונדיאל 2026 בעיצוב בהשראת גביע העולם FIFA 2026. כולל טכנולוגיות SPEEDSHELL ו-CTR CORE, מושלם לאימון, משחק ואספנות. תמיכה בקבוצות כמו ספרד, ברזיל, ארגנטינה וגרמניה. World Cup Ball עדכני לכל אוהד כדורגל
-  Updated: 2025-10-04T19:23:24Z
+  Updated: 2025-10-04T20:33:30Z
   Total Products: 3
 
 ## Blogs
