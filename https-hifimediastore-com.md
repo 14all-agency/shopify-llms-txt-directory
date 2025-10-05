@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-05T12:01:10.564Z
+- Updated At: 2025-10-05T16:01:13.623Z
 
 ## Products
 
@@ -5526,7 +5526,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auriculares-con-cable-pantone-pt-wdh002g_331872_2_e50709f1-9b60-4fba-bc68-e53c67598602.jpg?v=1756405378
   Price: 24,99 € EUR
 - [Xiaomi Redmi A3X 3GB/64GB Blanco (Moonlight White) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-a3x-3gb-64gb-blanco-moonlight-white-dual-sim): Xiaomi Redmi A3X:  Pantalla de 6,71" de 90 Hz Chip Unisoc T603 Sistema de cámara dual con IA Batería de 5000 mAh Carga rápida de 10 W Huella dactilar y desbloqueo facial Android 14
-  Updated: 2025-10-04T22:45:26Z
+  Updated: 2025-10-05T12:10:31Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -6324,12 +6324,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13148.jpg?v=1723761966
   Price: 205,75 € EUR
 - [Xiaomi Redmi Pad SE 11" 8GB/256GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-8gb-256gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-10-03T04:13:29Z
+  Updated: 2025-10-05T12:57:35Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13500.jpg?v=1723762254
-  Price: 222,34 € EUR
+  Price: 232,03 € EUR
 - [Samsung Galaxy Tab A9+ 11,0" 4GB/64GB WiFi Gris (Graphite) X210](https://hifimediastore.com/products/samsung-galaxy-tab-a9-110-4gb-64gb-wifi-gris-graphite-x210): Samsung Galaxy Tab A9+:  Pantalla TFT LCD 11,0" Cámara Principal 8MP y Cámara delantera 5MP Android 13, One UI 5.1 Octa-core - Qualcomm Snapdragon Batería 7040 mAh con carga rápida 15W Wi-Fi, Bluetooth 5.1, GPS Auriculares 3.5mm
   Updated: 2025-10-05T00:32:22Z
   Vendor: Samsung
@@ -8459,10 +8459,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 5452
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 5452
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-01T11:14:19Z
@@ -8516,7 +8516,7 @@
   Updated: 2025-08-30T16:04:44Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-05T10:25:41Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 1384
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8693,7 +8693,7 @@
   Updated: 2025-08-25T17:07:40Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 1058
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
   Updated: 2025-10-04T09:33:09Z
@@ -8840,7 +8840,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 5451
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-08-31T11:51:35Z
@@ -8897,7 +8897,7 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-05T10:25:41Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 1387
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
@@ -8960,8 +8960,8 @@
   Updated: 2025-06-22T07:51:39Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-05T11:00:52Z
-  Total Products: 368
+  Updated: 2025-10-05T12:15:46Z
+  Total Products: 367
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-06-22T07:51:39Z
   Total Products: 1
@@ -9017,7 +9017,7 @@
   Updated: 2025-08-31T09:26:14Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-10-05T06:51:26Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 516
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-10-04T22:45:23Z
@@ -9035,10 +9035,10 @@
   Updated: 2025-10-05T06:51:26Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 5082
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
-  Updated: 2025-10-03T21:00:21Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 37
 - [Honor](https://hifimediastore.com/collections/honor-1)
   Updated: 2025-10-04T21:45:11Z
@@ -9074,7 +9074,7 @@
   Updated: 2025-10-05T00:43:34Z
   Total Products: 12
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-05T06:51:26Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 4064
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-03T21:46:11Z
@@ -9131,7 +9131,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 5451
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-06-22T07:51:42Z
@@ -9146,7 +9146,7 @@
   Updated: 2025-08-25T16:36:25Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-05T08:12:16Z
+  Updated: 2025-10-05T12:57:36Z
   Total Products: 5451
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-09-30T23:53:17Z
