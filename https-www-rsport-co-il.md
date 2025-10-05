@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-05T04:01:00.908Z
+- Updated At: 2025-10-05T08:00:59.125Z
 
 ## Products
 
@@ -10754,7 +10754,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק אפורה Swingman | ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-אפורה-swingman-גיימס-הארדן): גופיית ה-Swingman האפורה של ג'יימס הארדן מעניקה מראה מודרני ונוחות מירבית. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא למשחקים, אימונים או שימוש יום-יומי. עיצוב איכותי שמדגיש את הסגנון והביצועים של הארדן במגרש.
-  Updated: 2025-10-04T13:54:15Z
+  Updated: 2025-10-05T05:59:41Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10850,7 +10850,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק ברוקלין נטס City edition Notorious B.I.G | "Biggie"](https://www.rsport.co.il/products/גופיית-משחק-ברוקלין-נטס-city-edition-notorious-b-i-g-biggie): הגופייה City edition של ברוקלין נטס מוקדשת לאייקון ההיפ-הופ Notorious B.I.G, עם עיצוב ייחודי שמחבר בין סגנון המגרש לבין תרבות רחוב.עשויה 100% פוליאסטר קל ונושם, הגופייה מספקת תחושת יובש ונוחות מירבית, מתאימה למשחק פעיל, אימון אינטנסיבי או שימוש יום-יומי.הגזרה מותאמת לגברים ומאפשרת חופש תנועה מלא, תוך שמירה על מראה מודרני ומרשים.הסמלים והפרטים המודפסים על החזה והגב משדרים הערכה לאייקון ומדגישים את הקשר בין התרבות לספורט.פריט ייחודי לכל אוהד ברוקלין נטס או חובב תרבות ההיפ-הופ, שמחפש שילוב של סגנון, איכות ונוחות על המגרש ומחוצה לו.
-  Updated: 2025-10-04T13:59:36Z
+  Updated: 2025-10-05T07:38:45Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -14960,7 +14960,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל 1991/93](https://www.rsport.co.il/products/retro-shirt-brazil-1991-93): חולצת רטרו נבחרת ברזיל 1991/93 עם עיצוב מיוחד שמחזיר את רוח המשחק
-  Updated: 2025-10-04T07:13:36Z
+  Updated: 2025-10-05T05:47:33Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -14981,7 +14981,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ברזיל חוץ 1998](https://www.rsport.co.il/products/retro-shirt-brazil-away-1998): חולצת רטרו נבחרת ברזיל חוץ 1998 בסגנון קלאסי ונוסטלגי לאוהדים
-  Updated: 2025-10-04T07:15:18Z
+  Updated: 2025-10-05T05:47:56Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15140,7 +15140,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן בית 2009/10](https://www.rsport.co.il/products/retro-shirt-milan-home-2009-10): חולצת רטרו מילאן בית 2009/10 בעיצוב מודרני לאוהדים
-  Updated: 2025-10-04T09:40:44Z
+  Updated: 2025-10-05T05:01:22Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15224,7 +15224,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן גמר ליגת האלופות 2006/07](https://www.rsport.co.il/products/retro-shirt-milan-champions-final-2006-07): חולצת רטרו מילאן 2006/07 בעיצוב אייקוני, מושלמת לאוהדים ולזכרונות מהגמר
-  Updated: 2025-10-04T09:28:01Z
+  Updated: 2025-10-05T05:29:23Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15581,7 +15581,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו יובנטוס בית 1995/96](https://www.rsport.co.il/products/retro-shirt-home-1995-96-juv): חולצת רטרו יובנטוס בית 1995/96 בעיצוב קלאסי ונוסטלגי, מושלמת למגרש וליום יום
-  Updated: 2025-10-04T10:36:28Z
+  Updated: 2025-10-05T06:31:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16421,7 +16421,7 @@
     Availability: Available
     Price: ‏180.00 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד שלישית 1993/94](https://www.rsport.co.il/products/retro-shirt-third-1993-94-manu): חולצת רטרו מנצ'סטר יונייטד שלישית 1993/94 בעיצוב ייחודי, איכותית ונוסטלגית
-  Updated: 2025-10-04T11:49:10Z
+  Updated: 2025-10-05T06:58:51Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16715,7 +16715,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו בורוסיה דורטמונד בית 1988/89](https://www.rsport.co.il/products/retro-shirt-home-1988-89-borussia-dortmund): חולצת רטרו בית 1988/89 של בורוסיה דורטמונד מזכירה את העונות הגדולות. בד נושם ונוח, מושלם לאוהדים נוסטלגיים.
-  Updated: 2025-10-04T13:38:20Z
+  Updated: 2025-10-05T04:06:33Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16883,7 +16883,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו באיירן מינכן חוץ 1998/00](https://www.rsport.co.il/products/retro-shirt-away-1998-00-bayern-munich): תחווה שוב את עונות 1998–2000 עם חולצת רטרו חוץ של באיירן מינכן. בד קל ונושם, מושלם למשחק או יום יום לאוהדים נוסטלגיים.
-  Updated: 2025-10-04T13:28:10Z
+  Updated: 2025-10-05T07:17:20Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17219,7 +17219,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 1999/00](https://www.rsport.co.il/products/retro-shirt-home-1999-00-barcelona): חולצת רטרו ברצלונה בית 1999/00 נוחה ומסורתית, מושלמת לאוהדים
-  Updated: 2025-10-04T12:49:02Z
+  Updated: 2025-10-05T05:38:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17261,7 +17261,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 2009/10](https://www.rsport.co.il/products/retro-shirt-home-2009-10-barcelona): תמוך בברצלונה עם חולצת רטרו בית 2009/10 בהשראת הקבוצה. בד קל ונושם עם גזרה רגילה, מושלמת למשחק או יום יום.
-  Updated: 2025-10-04T12:49:01Z
+  Updated: 2025-10-05T07:32:03Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17534,7 +17534,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה חוץ 96-98](https://www.rsport.co.il/products/retro-shirt-germany-away-96-98): חולצת רטרו נבחרת גרמניה חוץ 96-98 בעיצוב קלאסי ונוח, לאוהדים שרוצים להרגיש חלק מהנבחרת
-  Updated: 2025-10-04T07:42:26Z
+  Updated: 2025-10-05T05:17:26Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19843,7 +19843,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד חוץ 1996/97](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-חוץ-1996-97): תחזור לעונת 1996/97 עם חולצת רטרו חוץ של ריאל מדריד. בד קל ונושם, מושלם למשחק או יום יום.
-  Updated: 2025-10-04T13:17:27Z
+  Updated: 2025-10-05T07:33:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19906,7 +19906,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד בית 1998/00](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-בית-1998-00): תמוך בריאל מדריד עם חולצת רטרו בית 1998/00. בד נושם ונוח, מושלם לאוהדים שמעריכים נוסטלגיה.
-  Updated: 2025-10-04T13:13:01Z
+  Updated: 2025-10-05T05:30:52Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19990,7 +19990,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד חוץ 2002/03](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-חוץ-2002-03): תמוך בריאל מדריד עם חולצת רטרו חוץ 2002/03. בד קל ונושם וגזרה רגילה לנוחות מקסימלית, חוויה נוסטלגית אמיתית.
-  Updated: 2025-10-04T13:08:29Z
+  Updated: 2025-10-05T04:55:15Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -20032,7 +20032,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד שלישית 2004/05](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-שלישית-2004-05): תתמוך בריאל מדריד עם חולצת רטרו שלישית 2004/05. בד נושם ונוח, מחזיר אותך לרגעי הזכייה והמשחקים הגדולים.
-  Updated: 2025-10-04T13:03:39Z
+  Updated: 2025-10-05T07:41:51Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -37523,7 +37523,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-10-02T19:51:21Z
+  Updated: 2025-10-05T06:58:11Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
