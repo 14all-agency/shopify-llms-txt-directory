@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-05T00:00:29.956Z
+- Updated At: 2025-10-05T12:00:28.516Z
 
 ## Products
 
@@ -116,7 +116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-09-26T20:25:21Z
+  Updated: 2025-10-05T08:26:10Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -831,7 +831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99_0a4d2bdb-34a4-452e-8d1d-d6815c056dd9.jpg?v=1759343804
     Price: $18.69 USD
 - [P9 Pro Max Wireless Over-Ear Headphones | Hi-Fi Stereo Bass, ENC Noise Cancelling, Bluetooth 5.4, Gaming & Sports Headset with Mic](https://fusionvibestore.com/products/p9-pro-max-wireless-over-ear-headphones-hi-fi-stereo-bass-enc-noise-cancelling-bluetooth-5-4-gaming-sports-headset-with-mic): Experience immersive sound and next-level comfort with the P9 Pro Max Wireless Headphones. Designed for music lovers and gamers alike, these over-ear headphones deliver Hi-Fi stereo audio with deep bass and Environmental Noise Cancellation (ENC) for clear calls and distraction-free listening. Featuring Bluetooth 5.4 for fast, stable connectivity and a low wireless delay, they are perfect for gaming, movies, and everyday use. With 10–15 hours of playtime and a quick Type-C fast charge (1–3 hours), you’ll enjoy all-day entertainment without interruptions. The touch + button controls, built-in microphone, and LED battery indicator make them easy to use, while the lightweight over-ear design ensures comfort during long listening sessions. ✅ Key Features: Over-ear Hi-Fi stereo headset with dynamic sound Powerful bass & ENC noise cancellation Bluetooth v5.4 with stable wireless connection 10–15 hours battery life, fast Type-C charging LED battery indicator & intuitive touch controls Built-in microphone for hands-free calls Perfect for music, gaming, and sports Upgrade your audio experience with the P9 Pro Max Wireless Headphones – where style meets performance.
-  Updated: 2025-10-04T12:15:28Z
+  Updated: 2025-10-05T02:41:05Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -849,14 +849,14 @@
     Availability: Available
     Price: $28.30 USD
 - [Kalobee SK45 Pro Smart Watch with 3 Straps | 1.53" HD IPS Screen, Waterproof IP68, Bluetooth Calling, Fitness & Health Tracker](https://fusionvibestore.com/products/kalobee-sk45-pro-smart-watch-with-3-straps-1-53-hd-ips-screen-waterproof-ip68-bluetooth-calling-fitness-health-tracker): Stay connected and track your health in style with the Kalobee SK45 Pro Smart Watch. Designed for both men and women, this high-performance smartwatch combines premium materials with advanced features, making it perfect for fitness, work, and everyday use. Equipped with a 1.53” IPS HD display (360×360 resolution), the SK45 Pro offers crystal-clear visuals and a customizable dial interface. With Bluetooth 3.0/5.3 support, you can enjoy hands-free calls, message reminders, and AI voice assistant access right from your wrist. The watch includes multiple health and fitness features such as heart rate monitoring, sleep tracking, calorie tracking, step counting, GPS motion trajectory (via app), and multiple sports modes. With its IP68 waterproof rating, it’s safe for daily use, workouts, and outdoor activities. Its 300mAh battery provides up to 4 days of usage on a single charge, and the magnetic wireless charging ensures quick and hassle-free power-ups. The package includes 3 interchangeable straps (silica gel) for versatile style and comfort. ✅ Key Features: 1.53” IPS HD screen, 360×360 resolution IP68 waterproof design for fitness & daily wear Bluetooth calling, message & notification reminders AI assistant, music control & camera remote Health tracking: heart rate, sleep monitor, calorie & step counter GPS sports tracking (via FitCloudPro app) 300mAh battery with wireless magnetic charging Includes 3 stylish interchangeable straps Supports 20+ languages including English, Hindi, Arabic, Spanish & more Upgrade your lifestyle with the Kalobee SK45 Pro Smart Watch – a perfect mix of fashion, fitness, and functionality.
-  Updated: 2025-10-04T13:29:49Z
+  Updated: 2025-10-05T04:20:57Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_148_H371464a5a4e448c8a843e92c608ae9ffs.jpg_350x350_c7547447-da18-4890-b075-9f435cd6e8d0.jpg?v=1759584396
   Price: $35.98 USD
 - [High-Quality Camouflage Wireless Headphones | Graffiti Style, Bluetooth 5.3, LED Battery Indicator, Gaming & Music Headset with Mic](https://fusionvibestore.com/products/high-quality-camouflage-wireless-headphones-graffiti-style-bluetooth-5-3-led-battery-indicator-gaming-music-headset-with-mic): Add bold style to your music and gaming sessions with the Camouflage Graffiti Wireless Headphones. Built for both performance and looks, these lightweight open-ear headphones deliver dynamic sound with powerful bass—perfect for mobile, PC, or gaming use. Featuring Bluetooth 5.3 for fast, stable connectivity and 30ms low latency, they ensure seamless audio whether you’re gaming, watching movies, or listening to music. With 5–10 hours of playtime, a 200–500mAh battery, and quick Type-C charging (1–3 hours), you’ll never miss a beat. Designed with IPX4 waterproof protection, LED battery indicator, and a stylish graffiti camouflage finish, they’re both durable and eye-catching. The built-in microphone lets you chat clearly during calls or online games, while the adjustable design provides comfort for extended use. ✅ Key Features: Stylish graffiti & camouflage design (5 color options) Bluetooth v5.3 with stable wireless connection 30ms low latency – ideal for gaming 5–10 hours battery life, 200–500mAh capacity LED battery indicator & quick 1–3 hour charging IPX4 waterproof for sweat & splash resistance Dynamic sound with built-in microphone Lightweight ABS construction, durable build Perfect for mobile, PC, and gaming Upgrade your audio style with the Camouflage Graffiti Wireless Headphones – where powerful sound meets street-inspired design.
-  Updated: 2025-10-04T16:14:00Z
+  Updated: 2025-10-05T10:46:41Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
