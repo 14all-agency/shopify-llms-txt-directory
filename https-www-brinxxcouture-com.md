@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-05T08:00:47.005Z
+- Updated At: 2025-10-05T12:00:49.129Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-10-05T04:50:37Z
+  Updated: 2025-10-05T11:50:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-05T06:50:42Z
+  Updated: 2025-10-05T10:10:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10356,7 +10356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Lantern-Sleeve-Dress-Brinxx-Couture-1723.jpg?v=1709856542
     Price: $29.99 USD
 - [Ruched Short Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-short-sleeve-dress): This Ruched Short Sleeve Dress is a versatile look, crafted from a lightweight and stretchy material. This dress features a classic design with an ruched neck.
-  Updated: 2025-10-02T17:12:12Z
+  Updated: 2025-10-05T09:27:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10862,7 +10862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Caramel-Platform-Combat-Boots-Brinxx-Couture-3438.jpg?v=1709862667
     Price: $50.00 USD
 - [Round Neck Puff Sleeve Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-puff-sleeve-sleeve-blouse): This Round Neck Puff Sleeve Sleeve Blouse is perfect for any occasion! Its round neck design and puff long sleeves add a touch of elegance to your style.
-  Updated: 2025-10-02T17:12:13Z
+  Updated: 2025-10-05T08:50:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-05T08:00:35Z
+  Updated: 2025-10-05T08:20:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
