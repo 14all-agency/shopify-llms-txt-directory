@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-05T00:00:31.895Z
+- Updated At: 2025-10-05T08:00:30.839Z
 
 ## Products
 
@@ -774,7 +774,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-54-style-180cm-838.webp?v=1755890855
     Price: € 9,00 EUR
 - [Monochrome Pearl Chiffon Hijab Sjaal 70x180cm | Elegante accessoires](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal): Ervaar elegantie met onze 70x180cm Monochrome Pearl Chiffon Hijab Sjaal. Perfect voor elke gelegenheid, stijlvol en veelzijdig. Shop nu je favoriete hijab op webshop.newbro.be !
-  Updated: 2025-10-04T22:49:32Z
+  Updated: 2025-10-05T07:26:28Z
   Vendor: BRO Webshop
   Product Type: 
   Availability: Available
@@ -6282,7 +6282,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Price: € 22,95 EUR
 - [Jersey hijab van hoogwaardig lycra](https://newbro.be/products/hijab-van-premium-jersey-lycra): Een elegante en veelzijdige jersey hijab van hoogwaardig lycra is perfect voor dagelijks gebruik.
 Levertermijn : 3 à 4 werkdagen
-  Updated: 2025-10-04T22:42:12Z
+  Updated: 2025-10-05T07:51:19Z
   Vendor: BRO Webshop
   Product Type: Direct sales
   Availability: Available
