@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-04T20:00:48.798Z
+- Updated At: 2025-10-05T00:00:45.452Z
 
 ## Products
 
@@ -10662,7 +10662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-03T19:19:00Z
+  Updated: 2025-10-04T21:58:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16166,7 +16166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-04T17:17:36Z
+  Updated: 2025-10-04T23:50:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-04T19:31:27Z
+  Updated: 2025-10-04T23:30:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -27768,7 +27768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Color-Matched-Short-Sleeve-Two-Piece-Set-Brinxx-Couture-1746.jpg?v=1733888596
     Price: $39.99 USD
 - [Built-In Shapewear Maxi Dress | Style & Comfort](https://www.brinxxcouture.com/products/built-in-shapewear-maxi-dress): Shop Brinxx Couture’s Built-In Shapewear Maxi Dress! Smooth and shape your figure while looking fabulous in this stylish long sleeve design. Shop Now Ships Free
-  Updated: 2025-09-16T22:43:20Z
+  Updated: 2025-10-04T20:08:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
