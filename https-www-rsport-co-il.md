@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-05T16:01:00.125Z
+- Updated At: 2025-10-05T20:00:59.449Z
 
 ## Products
 
@@ -10802,7 +10802,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק City edition| ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-city-edition-גיימס-הארדן): גופיית המשחק City edition של ג'יימס הארדן משדרת סגנון מודרני ותחושת מקצועיות במגרש. עם חומרים קלים ונושמים, הגופייה מתאימה למשחקי כדורסל תובעניים, אימונים אינטנסיביים ושימוש יום-יומי בסגנון ספורטיבי. הבד מספק תחושת יובש ונוחות לאורך כל הפעילות, ומעניק חופש תנועה מלא לשחקנים בכל מצב. עיצוב ה-City edition מביא טאצ' ייחודי ומסוגנן, שמבליט את ההזדהות עם הקבוצה והסגנון האורבני של הסדרה. עשויה 100% פוליאסטר קל ונושם, גופייה אידיאלית לאוהדים ולספורטאים שרוצים לשלב סטייל וביצועים במגרש.
-  Updated: 2025-10-04T13:42:06Z
+  Updated: 2025-10-05T16:24:37Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -10826,7 +10826,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה City edition| ג'יימס הארדן](https://www.rsport.co.il/products/גופיית-משחק-לבנה-city-edition-גיימס-הארדן): הגופייה City edition של ג'יימס הארדן קלה ונושמת, מספקת חופש תנועה מלא ונוחות מירבית למשחק, אימון או שימוש יום-יומי. עשויה 100% פוליאסטר איכותי, מושלמת לשילוב של סטייל וביצועים במגרש.
-  Updated: 2025-10-04T13:43:54Z
+  Updated: 2025-10-05T19:52:06Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -12356,7 +12356,7 @@
     Availability: Available
     Price: ‏195.42 ‏₪ ILS
 - [גופיית רטרו אדומה מיאמי היט דווין וייד R:SPORT](https://www.rsport.co.il/products/miami-heat-dwyane-wade-red-retro): גופיית רטרו אדומה מיאמי היט עם דווין וייד, איכותית ונוסטלגית, מושלמת לאוהדים
-  Updated: 2025-10-04T13:48:29Z
+  Updated: 2025-10-05T16:23:36Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -15077,7 +15077,7 @@
     Availability: Available
     Price: ‏229.90 ‏₪ ILS
 - [חולצת רטרו מילאן בית 2000/02](https://www.rsport.co.il/products/retro-shirt-milan-home-2000-02): חולצת רטרו מילאן בית 2000/02 בעיצוב איכותי ונוסטלגי, מושלמת למגרש
-  Updated: 2025-10-04T09:43:55Z
+  Updated: 2025-10-05T16:54:28Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15182,7 +15182,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן בית 1999/00](https://www.rsport.co.il/products/retro-shirt-milan-home-1999-00): חולצת רטרו מילאן בית 1999/00 בעיצוב איכותי, חוויה מושלמת למגרש
-  Updated: 2025-10-04T09:35:04Z
+  Updated: 2025-10-05T16:37:30Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -15203,7 +15203,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מילאן שלישית 2006/07](https://www.rsport.co.il/products/retro-shirt-milan-third-2006-07): חולצת רטרו מילאן שלישית 2006/07 בעיצוב מודרני ונוסטלגי
-  Updated: 2025-10-04T09:31:43Z
+  Updated: 2025-10-05T18:36:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16169,7 +16169,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו צ'לסי גמר ליגת האלופות 2008/09](https://www.rsport.co.il/products/retro-shirt-cl-finals-2008-09-chelsea): חולצת רטרו צ'לסי גמר ליגת האלופות 2008/09 בעיצוב ייחודי לנוסטלגיה וחוויית משחק
-  Updated: 2025-10-04T11:00:23Z
+  Updated: 2025-10-05T17:05:45Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16358,7 +16358,7 @@
     Availability: Available
     Price: ‏169.90 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד 2012/13](https://www.rsport.co.il/products/retro-shirt-2012-13-manu): חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 איכותית ונוחה, נבחרת האוהדים
-  Updated: 2025-10-04T11:47:36Z
+  Updated: 2025-10-05T18:27:30Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16379,7 +16379,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08](https://www.rsport.co.il/products/retro-shirt-cl-finals-2007-08-short-manu): חולצת רטרו מנצ'סטר יונייטד גמר ליגת האלופות 2007/08 בעיצוב קלאסי ונוסטלגי
-  Updated: 2025-10-04T11:49:10Z
+  Updated: 2025-10-05T16:36:45Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16484,7 +16484,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר יונייטד בית 1992/94](https://www.rsport.co.il/products/retro-shirt-home-1992-94-manu): חולצת רטרו מנצ'סטר יונייטד בית 1992/94 בעיצוב קלאסי ונוסטלגי, נוחה ומרשימה
-  Updated: 2025-10-04T11:47:36Z
+  Updated: 2025-10-05T19:32:10Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16778,7 +16778,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו בורוסיה דורטמונד בית 1989/00](https://www.rsport.co.il/products/retro-shirt-home-1989-00-borussia-dortmund): תחווה שוב את עונות 1989–2000 עם חולצת רטרו בית של בורוסיה דורטמונד. בד קל ונושם, מושלם למשחק או יום יום לאוהדים נוסטלגיים.
-  Updated: 2025-10-04T13:38:20Z
+  Updated: 2025-10-05T16:27:17Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17051,7 +17051,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה חוץ 1998/99](https://www.rsport.co.il/products/retro-shirt-away-1998-99-barcelona): חולצת רטרו ברצלונה חוץ 1998/99 נוסטלגית ואיכותית, מושלמת למגרש
-  Updated: 2025-10-04T12:49:03Z
+  Updated: 2025-10-05T16:33:54Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17282,7 +17282,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 2014/15](https://www.rsport.co.il/products/retro-shirt-home-2014-15-barcelona): חולצת רטרו בהשראת מדים ביתיים של ברצלונה 2014/15. בד קל ונושם, מושלמת לאוהדים על המגרש ובחיי היום יום.
-  Updated: 2025-10-04T12:49:01Z
+  Updated: 2025-10-05T17:20:49Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17366,7 +17366,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה 2005/06](https://www.rsport.co.il/products/retro-shirt-2005-06-barcelona): תמוך בברצלונה עם חולצת רטרו 2005/06 בהשראת הקבוצה. עשויה בד פוליאסטר נושם ונוחה למשחק או יום יום.
-  Updated: 2025-10-04T12:49:01Z
+  Updated: 2025-10-05T18:54:34Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17387,7 +17387,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה 1990](https://www.rsport.co.il/products/retro-shirt-germany-1990): חולצת רטרו נבחרת גרמניה 1990 בעיצוב נוסטלגי ואיכותי, חוויה מושלמת למגרש וליום יום
-  Updated: 2025-10-04T08:55:23Z
+  Updated: 2025-10-05T16:16:44Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17450,7 +17450,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 1998](https://www.rsport.co.il/products/retro-shirt-germany-home-1998): חולצת רטרו נבחרת גרמניה בית 1998 בעיצוב קלאסי לנוסטלגיה של משחקים גדולים
-  Updated: 2025-10-04T08:55:22Z
+  Updated: 2025-10-05T16:18:42Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17471,7 +17471,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 2014](https://www.rsport.co.il/products/retro-shirt-germany-home-2014): חולצת רטרו נבחרת גרמניה בית 2014 בעיצוב אלגנטי ומודרני, חוויה מושלמת למגרש וליום יום
-  Updated: 2025-10-04T08:36:25Z
+  Updated: 2025-10-05T17:01:32Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17492,7 +17492,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה בית 2006](https://www.rsport.co.il/products/retro-shirt-germany-home-2006): חולצת רטרו נבחרת גרמניה בית 2006 בעיצוב איכותי ונוח, מושלמת לאוהדים ומגרש
-  Updated: 2025-10-04T08:35:28Z
+  Updated: 2025-10-05T16:38:00Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17513,7 +17513,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת גרמניה חוץ 1994](https://www.rsport.co.il/products/retro-shirt-germany-away-1994): חולצת רטרו נבחרת גרמניה חוץ 1994 עם עיצוב אייקוני לנוסטלגיה וספורטיביות יומיומית
-  Updated: 2025-10-04T08:33:30Z
+  Updated: 2025-10-05T16:30:30Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19864,7 +19864,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד חוץ 1998/99](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-חוץ-1998-99): חולצת רטרו חוץ 1998/99 של ריאל מדריד מזכירה רגעי עבר גדולים. בד קל ונושם לנוחות מקסימלית.
-  Updated: 2025-10-04T13:14:25Z
+  Updated: 2025-10-05T19:19:27Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19948,7 +19948,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד בית 2000/01](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-בית-2000-01): חולצת רטרו ריאל מדריד בית 2000/01 נוחה ואיכותית, מושלמת לאוהדים
-  Updated: 2025-10-04T13:07:28Z
+  Updated: 2025-10-05T19:02:22Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -20116,7 +20116,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו שרוול ארוך ריאל מדריד חוץ גמר ליגת האלופות 2016/17](https://www.rsport.co.il/products/חולצת-רטרו-שרוול-ארוך-ריאל-מדריד-חוץ-גמר-ליגת-האלופות-2016-17): תחווה שוב את רגעי ההיסטוריה עם חולצת רטרו חוץ של ריאל מדריד מעונת גמר ליגת האלופות 2016/17. בד נושם, נוח, מושלם לאוהדים שמחפשים נוסטלגיה.
-  Updated: 2025-10-04T12:55:58Z
+  Updated: 2025-10-05T18:40:46Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -45966,7 +45966,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate FG Hot Pursuit](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-05T15:46:20Z
+  Updated: 2025-10-05T17:57:15Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
