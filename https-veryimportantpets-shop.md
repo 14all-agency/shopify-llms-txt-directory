@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-05T12:01:14.640Z
+- Updated At: 2025-10-05T16:01:13.138Z
 
 ## Products
 
@@ -2191,7 +2191,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-end-table-with-cushion-for-smallmedium-dogs-dog-crate-871691.jpg?v=1700647908
   Price: £107.99 GBP
 - [Spacious Outdoor Wooden Dog Kennel - Grey, 72x109x79cm](https://veryimportantpets.shop/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm): Dogs love the outdoors! So, let them enjoy it safely with this PawHut dog kennel. Shop online at Very Important Pets
-  Updated: 2025-10-05T07:30:46Z
+  Updated: 2025-10-05T15:30:56Z
   Vendor: PawHut
   Product Type: Dog Kennel
   Availability: Available
@@ -2953,7 +2953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-bird-cage-with-stand-wheels-for-small-birds-bird-cage-white-654200.jpg?v=1700648388
     Price: £71.99 GBP
 - [1.53m Mobile Bird Cage with Feeding Stand & Perches | Very Important Pets](https://veryimportantpets.shop/products/1-53m-mobile-bird-cage-with-feeding-stand-perches): Elevate your feathered friends' habitat with our 1.53m tall bird cage on wheels. Designed for parrots and similar-sized birds, it features two perches, food and water containers, and a lower storage rack. The sturdy metal frame and easy-to-clean pull-out tray make maintenance effortless. Ideal for small spaces.
-  Updated: 2025-10-04T23:30:47Z
+  Updated: 2025-10-05T15:30:55Z
   Vendor: PawHut
   Product Type: Bird Cage
   Availability: Available
@@ -3567,7 +3567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-04T23:30:47Z
+  Updated: 2025-10-05T15:30:55Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3756,7 +3756,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-with-sisal-wrapped-scratching-post-cream-864926.jpg?v=1700659402
   Price: £35.99 GBP
 - [Cat Tree Tower with Scratching Posts, Pad, Bed, Toy Ball-Dark Grey](https://veryimportantpets.shop/products/cat-tree-tower-with-scratching-posts-pad-bed-toy-ball-dark-grey): Give your cat a safe place to play with this cat tree from PawHut! This cat tree for indoor cats features sisal rope poles and hanging balls for added fun. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:42Z
+  Updated: 2025-10-05T15:30:53Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4166,7 +4166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-wooden-hamster-cage-with-entertainment-features-small-animal-cage-569862.jpg?v=1700664605
   Price: £107.99 GBP
 - [Four-Tier Wooden Hamster Cage - 60L x 40W x 120H cm](https://veryimportantpets.shop/products/four-tier-wooden-hamster-cage-60l-x-40w-x-120h-cm): This Pawhut cage is an excellent place for your small pets as this home offers plenty of room with four tiers. Shop online at Very Important Pets
-  Updated: 2025-10-03T15:30:31Z
+  Updated: 2025-10-05T15:30:52Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4331,7 +4331,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-animal-cage-with-hammock-wheels-pets-home-small-animal-cage-482199.jpg?v=1700648506
   Price: £71.99 GBP
 - [Mobile Small Animal Cage - Ideal for Small Rabbits, Guinea Pigs](https://veryimportantpets.shop/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs): Give your small pet their place to chill the day away with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-03T15:30:30Z
+  Updated: 2025-10-05T15:30:53Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4373,7 +4373,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/expandable-diy-3-tier-steel-animal-playpen-cage-small-animal-cage-338833.jpg?v=1700655571
   Price: £71.99 GBP
 - [Two Tiers Rabbit Hutch and Run Wooden Guinea Pig Hutch Outdoor with Sliding Tray, Ramp and Water-resistant Roof, for 2-4 Rabbits](https://veryimportantpets.shop/products/two-tiers-rabbit-hutch-and-run-wooden-guinea-pig-hutch-outdoor-with-sliding-tray-ramp-and-water-resistant-roof-for-2-4-rabbits): This outdoor rabbit hutch from PawHut is great for use with rabbits, guinea pigs and similar sized animals. Shop online at Very Important Pets
-  Updated: 2025-10-01T23:30:25Z
+  Updated: 2025-10-05T15:30:55Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4415,7 +4415,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rabbit-hutch-off-ground-small-animal-guinea-pig-house-1255-x-100-x-49cm-502292.jpg?v=1700650041
   Price: £107.99 GBP
 - [Rabbit Hutch Small Animal Guinea Pig House with Openable Main House & Run Roof](https://veryimportantpets.shop/products/rabbit-hutch-small-animal-guinea-pig-house-with-openable-main-house-run-roof): Give your furry friends an ideal mix of freedom and security with a PawHut rabbit playpen. Shop online at Very Important Pets
-  Updated: 2025-10-04T23:30:47Z
+  Updated: 2025-10-05T15:30:52Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4471,7 +4471,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-10-04T23:30:47Z
+  Updated: 2025-10-05T15:30:54Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4485,7 +4485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
 - [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-10-04T23:30:45Z
+  Updated: 2025-10-05T15:30:57Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -6274,7 +6274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-mature-medium-breed-fresh-chicken-dry-dog-food-adult-dry-12-kg-8821432.webp?v=1757169175
     Price: £49.25 GBP
 - [Eukanuba Mature Small Breed Dog Fresh Chicken Dry Food](https://veryimportantpets.shop/products/eukanuba-mature-small-breed-chicken): Eukanuba Mature Small Breed Fresh Chicken Dry Dog Food offers premium nutrition for small mature dogs aged 8-11, supporting healthy aging and vitality.
-  Updated: 2025-10-05T08:15:51Z
+  Updated: 2025-10-05T14:47:02Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
@@ -9990,7 +9990,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-fresh-breath-bonies-x-18-dental-chew-treats-905078.jpg?v=1701108000
   Price: £34.04 GBP
 - [Good Boy Fresh Breath Rolls x 18](https://veryimportantpets.shop/products/good-boy-fresh-breath-rolls-x-18): Armitage Good Boy Fresh Breath Rolls has a white mint flavour for fresher breath is a tasty treat which promotes healthy teeth &amp; gums and helps fight plaque &amp; tartar. Shop online at Very Important Pets
-  Updated: 2025-10-04T18:05:03Z
+  Updated: 2025-10-05T14:31:13Z
   Vendor: Good Boy
   Product Type: Dog Treats
   Availability: Available
@@ -12414,7 +12414,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-yumms-crunchy-biscuit-dog-treats-with-liver-5x400g-training-treats-691084.webp?v=1708773755
   Price: £8.83 GBP
 - [Webbox Chomping Chews Beef Dog Treats - Wheat & Gluten Free](https://veryimportantpets.shop/products/webbox-chomping-chews-beef): Webbox Beef Dog Treat with 50% fresh meat, wheat & gluten-free. No artificial colours, perfect for dogs with allergies. Satisfy chomping cravings.
-  Updated: 2025-10-03T09:28:03Z
+  Updated: 2025-10-05T12:28:56Z
   Vendor: Webbox
   Product Type: Dog Treats
   Availability: Available
@@ -12428,7 +12428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/webbox-chomping-chews-beef-dog-treats-10x200g-770012.jpg?v=1701108774
     Price: £14.08 GBP
 - [Webbox Chomping Chews Chicken - Delicious Dog Treats](https://veryimportantpets.shop/products/webbox-chomping-chews-chicken): Give your furry friend a tasty treat with Webbox Chomping Chews Chicken Dog Treats, made with 50% fresh meat and packed with juicy chicken flavours.
-  Updated: 2025-09-22T18:54:10Z
+  Updated: 2025-10-05T12:28:56Z
   Vendor: Webbox
   Product Type: Dog Treats
   Availability: Available
@@ -16326,7 +16326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/lilys-kitchen-mature-cat-smooth-chicken-pate-19-x-85g-trays-senior-cat-wet-335519.jpg?v=1731797305
   Price: £21.95 GBP
 - [Natures Menu for Cats Adult Beef & Chicken Tins 18 x 85g](https://veryimportantpets.shop/products/natures-menu-for-cats-adult-beef-chicken-tins-18-x-85g): Natures Menu For Cats Adult Beef &amp; Chicken. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:28:17Z
+  Updated: 2025-10-05T12:05:42Z
   Vendor: Natures Menu
   Product Type: Adult Cat Wet
   Availability: Available
