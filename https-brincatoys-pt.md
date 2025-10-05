@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-04T20:01:07.619Z
+- Updated At: 2025-10-05T00:01:05.034Z
 
 ## Products
 
@@ -15221,28 +15221,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bluey-camiao-dos-bombeiros-641761024-8056379165521-bluey-1178698521.jpg?v=1752928097
   Price: 40,90 € EUR
 - [Godzilla X Kong - Shimo com mordida de gelo explosiva](https://brincatoys.pt/products/godzilla-x-kong-shimo): Retorne à Hollow Earth com Godzilla x Kong em uma aventura totalmente nova! Quando uma ameaça colossal é descoberta no nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência e a nossa. Este exemplar magnífico, parte da empolgante linha Monsterverse, traz uma reprodução detalhada e dinâmica de Shimo, uma criatura inspirada nas batalhas épicas entre o gigante Godzilla e o poderoso Kong. Acima de tudo, este produto é um convite para explorar os confins da imaginação, oferecendo horas de aventura e recreação das cenas mais icônicas dos seus filmes favoritos. O brinquedo Godzilla x Kong apresenta articulações flexíveis que permitem posicionar a figura em várias posturas, recriando a ação e a intensidade dos embates entre monstros. Além disso, Shimo vem com a característica 'mordida de gelo explosiva', uma habilidade que agrada a fãs de todas as idades, providenciando uma experiência de brincadeira interativa e realista. A qualidade da pintura e o acabamento impecável são evidentes, assegurando fidelidade ao design original visto na tela grande. Esta figura será, sem dúvida, o centro das atenções em qualquer coleção. Com a aproximação de aniversários ou datas especiais, o "Godzilla x Kong: Shimo com Mordida de Gelo Explosiva" destaca-se como um presente excepcional para colecionadores e entusiastas. A robustez do material garante sua durabilidade, resistindo ao desgaste do uso contínuo. O brinquedo é aconselhável para crianças a partir dos 4 anos, obedecendo às normas de segurança e qualidade. Em suma... Qualidade na reprodução e detalhes fiéis ao design do personagem. Funcionalidade de mordida de gelo para uma brincadeira mais interativa. Resistência e durabilidade testadas para uso prolongado. Presente perfeito para fãs da saga e colecionadores. Descubra o poder e a bravura de Shimo, aliando diversão a colecionismo! O "Godzilla x Kong: Shimo com Mordida de Gelo Explosiva" aguarda para dar vida às suas aventuras mais selvagens. Dimensão: 19 x 23 x 7,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-29T18:14:49Z
+  Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-shimo-com-mordida-de-gelo-explosiva-233930624-0043377352068-godzilla-vs-kong-1178698533.jpg?v=1752928332
   Price: 19,99 € EUR
 - [Godzilla x Kong -  Skar King com chicote de ossos](https://brincatoys.pt/products/godzilla-x-kong-skar-king): Mergulhe na aventura épica com o inovador Godzilla x Kong - Skar King com chicote de ossos, uma figura de ação que promete elevar a brincadeira a um novo nível! Skar King está pronto para reinar em qualquer exibição ou ambiente de jogo. Traga a ação para casa com a arma de chicote de osso do Skar King. A arma de chicote de osso é altamente detalhada para combinar com o design do filme, adicionando um elemento realista ao seu tempo de jogo ou exibição. Inicialmente, aprecie a robustez do design, uma verdadeira obra de engenharia pensada para fãs de todas as idades. Com suas articulações flexíveis e o imponente chicote de ossos, Skar King está pronto para reimaginar as cenas mais icônicas do filme "Godzilla x Kong". Além disso, a atenção aos detalhes nesta peça é impressionante. As texturas e cores são fiéis aos designs originais dos personagens de Monsterverse, proporcionando uma experiência autêntica para os colecionadores. Equipado com seu chicote, Skar King oferece um toque de interatividade — balance o acessório e sinta a força desse líder temível no campo de batalha. Ademais, é importante destacar que o produto é confeccionado com materiais seguros e duráveis, garantindo horas de jogo sem precedentes. Apesar de ser indicada para crianças a partir de 4 anos, a figura de ação Godzilla x Kong - Skar King com chicote de ossos fascina igualmente adultos, encorajando fãs de todas as idades a colecionar e partilhar momentos de diversão. Sendo assim, este colecionável não é apenas um brinquedo; é um convite para explorar a imaginação e recriar batalhas épicas entre monstros. Vale ressaltar o potencial deste item enquanto um presente memorável para entusiastas do universo cinematográfico de monstros. Em suma... Design detalhado e articulações flexíveis. Chicote de ossos para jogabilidade interativa. Materiais seguros e resistentes. Fiel ao universo Monsterverse. Adequado para todas as idades a partir dos 4 anos. Dimensão: 19 x 23 x 7,50 cm Idade recomendada: + de 4 anos
-  Updated: 2025-09-29T18:14:43Z
+  Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-skar-king-com-chicote-de-ossos-233930524-0043377352051-godzilla-vs-kong-1178698537.jpg?v=1752928443
   Price: 19,99 € EUR
-- [Godzilla x Kong - Godzilla Evoluído com raio de calor](https://brincatoys.pt/products/godzilla-x-kong-godzilla-evoluido): Retorne à Hollow Earth com Godzilla e Kong em uma aventura totalmente nova! Quando uma ameaça colossal é descoberta em nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência – e a nossa. O Godzilla x Kong - Godzilla Evolved, com aproximadamente 15 cm, traz o Rei dos Monstros para a sua coleção, com novos detalhes épicos que capturam a sua forma evoluída. Desperte o monstro interior com o novo Godzilla x Kong - Godzilla Evoluído com raio de calor, uma verdadeira maravilha colecionável que promete deslumbrar fãs e entusiastas. Primeiramente, este fascinante produto captura a essência épica da rivalidade lendária entre duas das maiores forças da natureza. A figura articulada apresenta detalhes intrincados que refletem a poderosa estatura de Godzilla, com texturas que simulam a pele escamosa do icónico Rei dos Monstros. Além disso, esta edição especial inclui uma característica absolutamente eletrizante: um raio de calor que pode ser acoplado à boca de Godzilla para recriar as suas famosas cenas de batalha. As crianças e coleccionadores poderão recriar os embates memoráveis de Godzilla x Kong"ou criar os próprios cenarios, dando asas à imaginação. Adicionalmente, a figura é feita com materiais de alta qualidade garantindo durabilidade e resistência, tornando-a perfeita tanto para brincadeiras ativas quanto para exposição em prateleiras. O produto é projetado para ser manuseado facilmente, com pontos de articulação que permitem posicionar Godzilla em várias poses ameaçadoras. Este aspecto é fundamental, pois contribui para uma experiência de jogo ou exibição mais dinâmica e versátil. Faça a sua compra e receba em casa este símbolo de força e poder que é o Godzilla Evoluído. Esta figura será um acréscimo valioso para qualquer coleção. Em suma... Figura colecionável de Godzilla com detalhes intrincados e textura realista. Inclui raio de calor removível para recriação de cenas icónicas. Materiais duráveis e pontos de articulação para variadas poses. Embalagem colecionável vibrante e atraente. Dimensão: 19 x 23 x 7,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-29T18:14:36Z
+- [Godzilla x Kong - Godzilla Evoluído com raio de calor](https://brincatoys.pt/products/godzilla-x-kong-godzilla-evoluido-com-raio-de-calor): Retorne à Hollow Earth com Godzilla e Kong em uma aventura totalmente nova! Quando uma ameaça colossal é descoberta em nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência – e a nossa. O Godzilla x Kong - Godzilla Evolved, com aproximadamente 15 cm, traz o Rei dos Monstros para a sua coleção, com novos detalhes épicos que capturam a sua forma evoluída. Desperte o monstro interior com o novo Godzilla x Kong - Godzilla Evoluído com raio de calor, uma verdadeira maravilha colecionável que promete deslumbrar fãs e entusiastas. Primeiramente, este fascinante produto captura a essência épica da rivalidade lendária entre duas das maiores forças da natureza. A figura articulada apresenta detalhes intrincados que refletem a poderosa estatura de Godzilla, com texturas que simulam a pele escamosa do icónico Rei dos Monstros. Além disso, esta edição especial inclui uma característica absolutamente eletrizante: um raio de calor que pode ser acoplado à boca de Godzilla para recriar as suas famosas cenas de batalha. As crianças e coleccionadores poderão recriar os embates memoráveis de Godzilla x Kong"ou criar os próprios cenarios, dando asas à imaginação. Adicionalmente, a figura é feita com materiais de alta qualidade garantindo durabilidade e resistência, tornando-a perfeita tanto para brincadeiras ativas quanto para exposição em prateleiras. O produto é projetado para ser manuseado facilmente, com pontos de articulação que permitem posicionar Godzilla em várias poses ameaçadoras. Este aspecto é fundamental, pois contribui para uma experiência de jogo ou exibição mais dinâmica e versátil. Faça a sua compra e receba em casa este símbolo de força e poder que é o Godzilla Evoluído. Esta figura será um acréscimo valioso para qualquer coleção. Em suma... Figura colecionável de Godzilla com detalhes intrincados e textura realista. Inclui raio de calor removível para recriação de cenas icónicas. Materiais duráveis e pontos de articulação para variadas poses. Embalagem colecionável vibrante e atraente. Dimensão: 19 x 23 x 7,50 cm. Idade recomendada: + de 4 anos.
+  Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-evoluido-com-raio-de-calor-233930324-0043377352020-godzilla-vs-kong-1178698541.jpg?v=1752928455
   Price: 19,99 € EUR
-- [Godzilla x Kong - Godzilla com raio de calor: Poder Incrível](https://brincatoys.pt/products/godzilla-x-kong-godzilla-com-raio-de-calor-1): Descubra o poder de Godzilla com raio de calor! Este incrível coletável captura a icônica batalha entre titãs de forma épica. Não perca!
-  Updated: 2025-10-04T20:00:25Z
+- [Godzilla x Kong - Godzilla com raio de calor: Poder Incrível](https://brincatoys.pt/products/godzilla-x-kong-godzilla-com-raio-de-calor): Domine a tua coleção com o Godzilla x Kong - Godzilla com Raio de Calor! Revive batalhas épicas com acessórios dinâmicos e poses variadas.
+  Updated: 2025-10-04T20:20:31Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15256,21 +15256,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-jurassic-world-de-200-pcs-xxl-230105824-jurassic-world-1178698549.jpg?v=1752928698
   Price: 14,99 € EUR
 - [Godzilla x Kong: Skar King Gigante](https://brincatoys.pt/products/godzilla-x-kong-skar-gigante): Descubra a fera que irá dominar a sua coleção! A escapada perfeita para os amantes de figuras de ação e fãs do universo cinematográfico Monsterverse, o Godzilla x Kong: Skar King Gigante com Whiplash é a escolha definitiva para entretenimento e exibição. Com 28 cm de altura, a figura do Rei Skar Gigante está pronta para reinar em qualquer lugar. Com múltiplos pontos de articulação, Skar King está pronto para a ação, para que possa recriar as suas cenas favoritas das batalhas épicas! Skar King de Godzilla x Kong é altamente detalhada com designs intrincados para capturar a essência do novo e perigoso desafiante de Godzilla e Kong em seu visual de filme Com detalhes meticulosos, essa figura de ação capta de forma incrível a essência selvagem do Skar King. Desde a textura realista da pele até às expressões ferozes, cada polegada foi esculpida com precisão, fazendo com que essa criatura pareça sair diretamente das telonas para a realidade. O Skar King é articulado, permitindo recriar cenas icônicas ou criar novas batalhas épicas. Os braços, pernas e a cauda com ação "Whiplash" promovem uma jogabilidade interativa e a possibilidade de posar a figura para impressionar qualquer espectador. Construído para resistir ao tempo e às aventuras mais selvagens, este colecionável é feito com materiais de alta qualidade, garantindo que o Skar King se mantenha em pé e firme, confrontando todos os desafios que vierem pela frente. Para os jovens fãs ou para os eternos entusiastas de figuras de ação, o Godzilla x Kong: Skar King Gigante é o presente que vai despertar a paixão pela Monsterverse e pelos confrontos épicos entre titãs. Em suma... Detalhes realistas e design imponente Articulações para máxima interatividade Materiais de alta qualidade para durabilidade Embalagem chamativa e ideal para colecionadores Presente perfeito para fãs de todas as idades Dimensão: 28 x 31,50 x 15 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-29T18:15:09Z
+  Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-skar-king-gigante-233931624-0043377355533-godzilla-vs-kong-1178698569.jpg?v=1752929054
   Price: 42,50 € EUR
 - [Godzilla x Kong: Kong Gigante com luva B.E.A.S.T](https://brincatoys.pt/products/godzilla-x-kong-kong-gigante): Descubra o poder e a majestade do rei dos primatas com o incrível brinquedo Godzilla x Kong: Kong Gigante com luva B.E.A.S.T.! Com 28 centímetros de altura, a figura do Giant Kong está pronta para reinar em qualquer lugar. Esta impressionante figura de ação, inspirada no blockbuster cinematográfico, está pronta para reacender a batalha épica entre gigantes no conforto da sua casa. Com um design detalhado e robusto, Kong apresenta-se em uma escala massiva que captura a sua poderosa presença no universo Monsterverse. Inicialmente, os fãs serão atraídos pela autenticidade do visual de Kong, com a sua textura de pelo realista e articulações móveis que proporcionam uma variedade de poses imponentes. Adicionalmente, Kong vem equipado com a luva B.E.A.S.T. amovível, um acessório que aumenta a sua força e contribui para um jogo imaginativo mais dinâmico. As crianças poderão criar cenas de lutas emocionantes ou recriar momentos icónicos dos filmes. Por outro lado, coleccionadores irão apreciar a atenção ao detalhe e a qualidade de construção desta figura, tornando-a uma peça central magnífica para qualquer exposição dedicada ao Monsterverse. Complete sua monstruosa coleção com outras figuras e acessórios da nova linha Godzilla x Kong. Em suma... Figura grande e detalhada de Kong com design autêntico. Acessório luva B.E.A.S.T. removível para recriação de batalhas épicas. Articulações móveis que permitem várias poses e cenas de ação. Packaging atraente perfeito para colecionadores e entusiastas. Dimensão: 28 x 31,50 x 15 cm.Idade recomendada: + 4 anos.
-  Updated: 2025-09-29T18:15:03Z
+  Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-kong-gigante-com-luva-b-e-a-s-t-233931524-0043377355526-godzilla-vs-kong-1178698573.jpg?v=1752929166
   Price: 36,99 € EUR
 - [Godzilla x Kong: Minifiguras Surpresa](https://brincatoys.pt/products/godzilla-x-kong-minifiguras-surpresa): Apresentamos as fascinantes Minifiguras Surpresa da coleção Godzilla x Kong, uma linha de brinquedos que captura a essência épica da batalha dos titãs diretamente para a sua casa. O Godzilla x Kong Hollow Earth Crystal com surpresa de minifigura de 5 cm de altura traz um monstro misterioso para a sua coleção! O conjunto inclui uma minifigura e vem numa embalagem cega exclusiva do Godzilla X Kong! Abra um cristal para revelar o seu monstro misterioso. Inicialmente, estas minifiguras surpresa vêm em embalagens vibrantes e colecionáveis, garantindo que cada abertura seja uma aventura emocionante. Além disso, cada embalagem oculta uma de entre várias figuras espetaculares baseadas nos personagens icônicos - sejam elas o imponente Godzilla ou o poderoso Kong, e até mesmo outros monstros do MonsterVerse. Designadas com um detalhismo impressionante, as minifiguras oferecem um grau de realismo e qualidade que irá, sem dúvida, encantar colecionadores e fãs jovens. As texturas e cores das minifiguras foram cuidadosamente escolhidas para refletir os traços característicos dos personagens cinematográficos, desde o tom azulado e espinhos luminescentes de Godzilla até a expressividade e força simbolizadas por Kong. Além disso, a versatilidade das minifiguras é notável, permitindo que se criem cenas épicas de combate ou que simplesmente se adicionem a uma estante de exposição como um artefato de admiração. Estes brinquedos não são apenas um passatempo divertido, mas também um meio de estimular a imaginação e a criatividade nas crianças, encorajando a narrativa e a recriação de cenas dos filmes. Além de proporcionar horas de entretenimento, as Minifiguras Surpresa Godzilla x Kong ajudam a desenvolver habilidades motoras finas e coordenação através do manuseamento e posicionamento das figuras em variadas posturas. Em suma... Embalagens colecionáveis surpresa com personagens do MonsterVerse. Detalhismo e realismo impressionante nas minifiguras de Godzilla e Kong. Estímulo à imaginação, criatividade e desenvolvimento de habilidades motoras. Ideal para fãs, colecionadores e crianças acima de 4 anos. Dimensão: 11 x 7 x 4,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-09-29T18:15:16Z
+  Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -21195,6 +21195,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-atomic-earth-panther-diversao-sem-fim-232500825-0630996250082-brincatoys-1195667607.jpg?v=1759319406
   Price: 31,50 € EUR
+- [Godzilla x Kong - Godzilla Energizado: Luta Poderosa](https://brincatoys.pt/products/godzilla-x-kong-godzilla-energizado): Sinta a energia do Godzilla x Kong - Godzilla Energizado! Esta figura impressionante traz ação e realismo do Monsterverse para a sua coleção. 🦖
+  Updated: 2025-10-04T21:48:07Z
+  Vendor: Godzilla vs Kong
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-energizado-luta-poderosa-233981125-0043377352129-godzilla-vs-kong-1196090517.jpg?v=1759614486
+  Price: 17,99 € EUR
+- [Godzilla x Kong: Rugido de batalha de Kong em Ação](https://brincatoys.pt/products/godzilla-x-kong-rugido-de-batalha-de-kong): Sinta a intensidade das batalhas com o Godzilla x Kong: Rugido de batalha de Kong. Crie poses e ouça sons que trazem realismo à brincadeira! 🔊
+  Updated: 2025-10-04T23:52:06Z
+  Vendor: Godzilla vs Kong
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-rugido-de-batalha-de-kong-em-acao-233931125-0043377355076-godzilla-vs-kong-1196092359.jpg?v=1759621926
+  Price: 24,90 € EUR
 
 ## Collections
 
@@ -21211,8 +21225,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-04T19:06:57Z
-  Total Products: 566
+  Updated: 2025-10-04T21:45:10Z
+  Total Products: 569
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-03T13:38:29Z
   Total Products: 28
@@ -21277,8 +21291,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:21:04Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-10-04T18:10:18Z
-  Total Products: 242
+  Updated: 2025-10-04T22:22:13Z
+  Total Products: 243
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
   Total Products: 1
@@ -21349,11 +21363,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T11:19:23Z
   Total Products: 329
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-04T18:23:54Z
-  Total Products: 1532
+  Updated: 2025-10-04T21:53:28Z
+  Total Products: 1533
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-04T19:06:57Z
-  Total Products: 710
+  Updated: 2025-10-04T21:45:31Z
+  Total Products: 713
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-04T18:27:38Z
   Total Products: 313
@@ -21370,26 +21384,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T19:49:40Z
   Total Products: 1310
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-04T19:49:40Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 2414
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-04T19:49:40Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 2880
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-04T19:49:40Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3263
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-04T19:49:40Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3396
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-04T19:49:40Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3475
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-04T19:49:40Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3524
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-04T19:06:57Z
-  Total Products: 370
+  Updated: 2025-10-04T22:22:13Z
+  Total Products: 374
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21577,7 +21591,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-04T19:49:41Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3557
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-04T18:18:58Z
@@ -21589,11 +21603,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:21:04Z
   Total Products: 115
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-04T15:15:15Z
-  Total Products: 1178
+  Updated: 2025-10-04T21:53:28Z
+  Total Products: 1179
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-04T19:26:42Z
-  Total Products: 488
+  Updated: 2025-10-04T21:05:45Z
+  Total Products: 490
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-03T14:01:02Z
   Total Products: 142
@@ -21613,22 +21627,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:22:09Z
   Total Products: 85
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-04T19:49:41Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3557
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-04T19:49:41Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3557
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-09-30T11:45:25Z
   Total Products: 24
 - [Godzilla vs Kong](https://brincatoys.pt/collections/godzilla-vs-kong)
-  Updated: 2025-10-04T19:26:42Z
-  Total Products: 8
+  Updated: 2025-10-04T21:05:45Z
+  Total Products: 10
 - [Stumble Guys](https://brincatoys.pt/collections/stumble-guys)
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-04T19:49:41Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3069
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
@@ -21637,11 +21651,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T14:48:40Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-04T19:49:41Z
+  Updated: 2025-10-04T21:52:59Z
   Total Products: 3069
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-04T19:49:26Z
-  Total Products: 942
+  Updated: 2025-10-04T21:52:59Z
+  Total Products: 940
 
 ## Blogs
 
