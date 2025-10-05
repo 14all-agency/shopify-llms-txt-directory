@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-08-05T01:20:28Z
 - Contact Email: salesvicsv@gmail.com
-- Updated At: 2025-10-04T20:00:35.960Z
+- Updated At: 2025-10-05T00:00:36.708Z
 
 ## Products
 
@@ -2326,7 +2326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/62.jpg?v=1758035462
   Price: ‏280.00 د.ك.‏ KWD
 - [سكوتر Citycoco: أداء قوي وتصميم فريد - Ultra Toy](https://ultratoyskw.com/products/سكوتر-citycoco-أداء-قوي-وتصميم-فريد): يعمل السكوتر بمحرك محوري قوي بدون فرشاة بقوة 1500 واط وبطارية ليثيوم أيون بسعة 60 فولت / 12 أمبير/ساعة. هذا المزيج يتيح له الوصول إلى سرعة تتراوح بين 30-50 كم/ساعة،
-  Updated: 2025-09-28T15:21:58Z
+  Updated: 2025-10-04T20:25:15Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
@@ -3644,7 +3644,7 @@
   Updated: 2025-09-26T02:44:57Z
   Total Products: 57
 - [أفضل عروض متجر الترا تويز - تسوق الآن](https://ultratoyskw.com/collections/ultra-toy): اكتشف أفضل عروض متجر الترا تويز للألعاب والمنتجات، تسوق بأفضل الأسعار لتمتع بأوقات ممتعة!
-  Updated: 2025-09-27T21:29:32Z
+  Updated: 2025-10-04T20:11:44Z
   Total Products: 15
 - [أفضل العاب الرضع لتنمية المهارات](https://ultratoyskw.com/collections/infanttoys-العاب-الرضع): استكشف مجموعة من العاب الرضع التي تعزز النمو والتعلم. مثالية لتعزيز الاستكشاف والمشاركة للأطفال.
   Updated: 2025-09-27T21:50:21Z
@@ -3714,13 +3714,13 @@
 - [Privacy Policy](https://ultratoyskw.com/policies/privacy-policy)
   Updated: 2025-10-04T21:24:11+03:00
 - [Shipping Policy](https://ultratoyskw.com/policies/shipping-policy)
-  Updated: 2025-10-04T21:41:39+03:00
+  Updated: 2025-10-04T23:13:21+03:00
 - [Refund Policy](https://ultratoyskw.com/policies/refund-policy)
   Updated: 2025-10-04T20:14:25+03:00
 - [Terms of Service](https://ultratoyskw.com/policies/terms-of-service)
   Updated: 2025-10-04T20:30:34+03:00
 - [Contact Information](https://ultratoyskw.com/policies/contact-information)
-  Updated: 2025-10-04T22:52:40+03:00
+  Updated: 2025-10-04T23:01:24+03:00
 
 ## Optional
 
