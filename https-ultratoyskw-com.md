@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-08-05T01:20:28Z
 - Contact Email: salesvicsv@gmail.com
-- Updated At: 2025-10-05T08:00:35.522Z
+- Updated At: 2025-10-05T16:00:35.732Z
 
 ## Products
 
@@ -2326,7 +2326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0644/6458/4803/files/62.jpg?v=1758035462
   Price: ‏280.00 د.ك.‏ KWD
 - [سكوتر Citycoco: أداء قوي وتصميم فريد - Ultra Toy](https://ultratoyskw.com/products/سكوتر-citycoco-أداء-قوي-وتصميم-فريد): يعمل السكوتر بمحرك محوري قوي بدون فرشاة بقوة 1500 واط وبطارية ليثيوم أيون بسعة 60 فولت / 12 أمبير/ساعة. هذا المزيج يتيح له الوصول إلى سرعة تتراوح بين 30-50 كم/ساعة،
-  Updated: 2025-10-04T20:25:15Z
+  Updated: 2025-10-05T09:04:39Z
   Vendor: Ultra Toys Kuwait
   Product Type: سيارة أطفال كهربائية
   Availability: Available
