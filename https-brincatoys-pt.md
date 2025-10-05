@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-05T00:01:05.034Z
+- Updated At: 2025-10-05T08:01:08.314Z
 
 ## Products
 
@@ -2517,7 +2517,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-suicide-squad-harley-quinn-23396417-dc-comics-1178693451.png?v=1752838924
   Price: 24,90 € EUR
 - [DC Comics Suicide Squad – Joker-](https://brincatoys.pt/products/dc-comics-suicide-squad-joker): Os heróicos vilões do filme Esquadrão Suicida apresentados numa embalagem com alguns elementos únicos para cada personagem.A figura Joker, em PVC não tóxico, flexível, com aproximadamente 14 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-04T09:30:06Z
+  Updated: 2025-10-05T06:13:36Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -3169,14 +3169,14 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-suicide-squad-joker-861267217-0889698126724-dc-comics-1178693617.png?v=1752841457
   Price: 18,90 € EUR
 - [Figura Suicide Squad Katana](https://brincatoys.pt/products/figura-suicide-squad-katana): Os heróicos vilões do filme Esquadrão Suicida apresentados numa embalagem com a forma clássica de bomba e alguns elementos únicos para cada personagem.A figura Katana tem aproximadamente 10 cm.  Dimensão: 2,54 x 17,78 x 15,24 cm.Idade recomendada: + de 14 anos.
-  Updated: 2025-10-04T09:29:21Z
+  Updated: 2025-10-05T06:45:35Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-suicide-squad-katana-861267417-0889698126748-dc-comics-1178693616.png?v=1752841455
   Price: 18,90 € EUR
 - [Figura Suicide Squad Killer Croc](https://brincatoys.pt/products/figura-suicide-squad-killer-croc): Os heróicos vilões do filme Esquadrão Suicida apresentados numa embalagem com a forma clássica de bomba e alguns elementos únicos para cada personagem. A figura Killer Croc tem aproximadamente 10 cm. Dimensão: 2,54 x 17,78 x 15,24 cm.Idade recomendada: + de 14 anos.
-  Updated: 2025-10-04T09:29:21Z
+  Updated: 2025-10-05T04:17:42Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -3879,7 +3879,7 @@ Norte da África.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-miau-miau-810610622-brincatoys-1178693820.jpg?v=1752845894
   Price: 6,00 € EUR
 - [Jogo de cartas Top Trump Lol](https://brincatoys.pt/products/jogo-de-cartas-top-trump-lol): Este pack Top Trumps LOL Surprise está repleto de factos divertidos e frases dos teus personagens favoritos. Descobre quão raro é o “Surfer Babe” comparado com o “Roller Sk8er” e quem tem a pontuação Top Trump mais elevada. Podes mesmo encontrar 2 cartas surpresa do “The Glitterati Club”, quem te irá calhar? Como jogar top trumps?  1 - Baralham-se
-  Updated: 2025-10-04T15:10:35Z
+  Updated: 2025-10-05T04:12:07Z
   Vendor: LOL Surprise
   Product Type: + 6 anos
   Availability: Available
@@ -5658,7 +5658,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/minimates-stealth-iron-man-and-ghost-868376921-marvel-1178694370.jpg?v=1752855611
   Price: 13,99 € EUR
 - [Mochila Glitter LOL Surprise](https://brincatoys.pt/products/mochila-glitter-lol-surprise): Mochila da personagem LOL Surprise para crianças com altura máxima de 100 cm. Este produto foi concebido especificamente para oferecer um bom apoio nas costas, apresentando um fecho de correr, punho superior para pendurar, puxadores traseiros ajustáveis e compartimento lateral do porta-garrafas.  Dimensão: 31 x 25 x 10 cm.Idade Recomendada: + de 12
-  Updated: 2025-10-04T15:10:35Z
+  Updated: 2025-10-05T04:56:31Z
   Vendor: LOL Surprise
   Product Type: + 12 meses
   Availability: Available
@@ -5903,7 +5903,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-aventuras-do-cristal-sunny-starscout-90245422-my-little-pony-1178694472.jpg?v=1752856802
   Price: 12,99 € EUR
 - [Mystery Minis: Batman vs Superman](https://brincatoys.pt/products/mystery-minis-batman-vs-superman): Os seus personagens favoritos do filme Batman vs Superman, apresentados numa mini figura de vinil com aproximadamente 6 cm.O produto vem numa caixa misteriosa e nunca sabemos qual a persongem que nos vai sair.  Dimensão: 5.08 x 5.08 x 7.62 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-04T09:51:13Z
+  Updated: 2025-10-05T02:27:24Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -6247,7 +6247,7 @@ acasalmento.Alimentam-se de insetos e outros pequenos invertebrados, mas também
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-lola-rosa-122927421-brincatoys-1178694571.jpg?v=1752858726
   Price: 34,90 € EUR
 - [Peluche Luigi 30 cm](https://brincatoys.pt/products/peluche-luigi-30-cm): Luigi é o irmão mais novo de Super Mario e usa o seu macacão azul escuro com a camisa verde, as suas luvas brancas e o chapéu verde com a sua letra inicial. O peluche Luigi tem 30 cm de altura e é feito de um material macio e fofinho que estimula o abraço com Luigi.  Dimensão: 30 cmIdade Recomendada: + de 12 meses.
-  Updated: 2025-10-04T10:02:33Z
+  Updated: 2025-10-05T07:07:00Z
   Vendor: Super Mario
   Product Type: + 12 meses
   Availability: Available
@@ -9208,7 +9208,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-x-jurassicpark-tyrannocon-rex-vs-autobot-jp93-232644222-transformers-1178695538.jpg?v=1752876968
   Price: 99,99 € EUR
 - [Triominos Tour Edition](https://brincatoys.pt/products/triominos-tour-edition): Leve consigo a emoção e a diversão com este fantástico jogo Triominos Tour Edition, o jogo de tabuleiro mais simples e emocionante. Divirta-se com esta nova versão do Triominos, com uma caixa de metal, criada especialmente para a maioria dos viajantes. O famoso jogo de dominó triangular, agora num tamanho especial e prático.  Dimensão: 19 x 12 x 5
-  Updated: 2025-09-30T03:03:16Z
+  Updated: 2025-10-05T00:04:55Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -20766,8 +20766,8 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-lagoona-blue-770479625-0194735104796-monster-high-1195801144.jpg?v=1759406292
   Price: 42,50 € EUR
-- [Monster High Scary Sweet Birthday - Draculaura](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-draculaura): A Monster High Scary Sweet Birthday – Draculaura transforma qualquer brincadeira numa festa sombria e super glam. Em primeiro lugar, esta edição especial destaca-se pelo vestido rosa com brilho, corpete em teia e detalhes de laços, além do cabelo comprido com madeixas cor-de-rosa e franja marcada. Do mesmo modo, a boneca chega com articulações completas, por isso posa, dança e “tira selfies” com facilidade. Graças aos acessórios temáticos — como o balão em forma de coração com asas de morcego, o leque gótico, a mala e o convite “Sweet 1600” — a criança cria histórias sem fim. Igualmente, concebida para mãos pequenas, a Draculaura mede cerca de 28 cm e apresenta acabamentos de qualidade Mattel. O conjunto inclui sandálias de plataforma e joias inspiradas em morcegos, que combinam com o visual dark-romântico da personagem. Além disso, a embalagem ilustrada funciona muito bem para oferecer e também para colecionar. Como é compatível com outras bonecas Monster High, a brincadeira cresce: trocas de looks, festas conjuntas e novas aventuras na escola mais arrepiante de sempre. Assim, a Monster High Scary Sweet Birthday – Draculaura não é apenas um presente bonito; é também uma ferramenta de imaginação que estimula a linguagem, a motricidade fina e a cooperação entre amigos e irmãos. Por fim, se procuras um presente marcante, escolhe esta estrela vampírica e prepara-te para fotos, risos e muitas histórias assustadoramente doces. Em suma... Edição Scary Sweet Birthday com look gótico-romântico Boneca articulada ~28 cm; Acessórios: balão, leque, mala e convite “Sweet 1600” Vestido com brilho e corpete em teia; sandálias de plataforma Embalagem ilustrada, ideal para oferecer e colecionar Compatível com outras Monster High para criar festas épicas Dimensão: 24,50 x 32,50 x 6 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-02T22:48:17Z
+- [Monster High Scary Sweet Birthday - Draculaura: Festa Glam](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-draculaura): Transforme a brincadeira em uma festa sombria com a Monster High Scary Sweet Birthday - Draculaura! A coleção para o seu pequeno criar histórias! 🎉
+  Updated: 2025-10-05T07:59:53Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -20780,8 +20780,8 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-frankie-stein-771047825-0194735104789-monster-high-1195791377.jpg?v=1759398485
   Price: 42,50 € EUR
-- [Monster High Scary Sweet Birthday - Cupid Asteria](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-cupid-asteria): Celebra ao lado da boneca Monster High Scary Sweet Birthday – Cupid Asteria. Em primeiro lugar, inspirada nas festas de aniversário, esta edição encantadora chega com cabelo rosa em caracóis volumosos, asas trabalhadas, maquilhagem brilhante e um visual barroco irresistível. Por outro lado, desde o primeiro olhar, a Cupid Asteria conquista com detalhes românticos e um coração em destaque no corpete. Além disso, inclui acessórios temáticos para multiplicar histórias de fantasia em casa. Do mesmo modo, a boneca vem com mala em forma de flecha, balão de coração com “corda”, duas etiquetas temáticas, estojo de sombras, chávena com bule e convite “Sweet 1600”. Igualmente, as sandálias douradas com laços e rosas completam o conjunto, enquanto a saia em camadas com tule e renda acrescenta movimento a cada pose. Porque é totalmente articulada, a criança posiciona, senta e dança a personagem com facilidade, dando vida às aventuras Monster High. Ademais, com cerca de 28 cm, a Monster High Scary Sweet Birthday – Cupid Asteria oferece qualidade Mattel e uma experiência de brincadeira segura para fãs a partir dos 4 anos. Além disso, cabe perfeitamente na prateleira de colecionadores que procuram peças especiais para exibir. Graças à temática de aniversário, torna-se um presente ideal para surpreender, criar memórias e incentivar a imaginação. Ao brincar, as crianças desenvolvem motricidade fina, linguagem, cooperação e expressão emocional em contextos de faz-de-conta. Diversão segura, duradoura e memorável. Por fim, escolhe a Cupid Asteria para juntar estilo, fantasia e brincadeira criativa. Podes combiná-la com outras bonecas Monster High para montar cenários, trocar acessórios e inventar novas amizades no universo da escola mais assustadoramente divertida. Em suma... Edição Scary Sweet Birthday com visual barroco e asas decoradas Boneca articulada ~28 cm; Acessórios: mala-flecha, balão, maquilhagem, chávena/bule, etiquetas e convite Sandálias douradas e saia em camadas com tule/renda Perfeita para oferecer, brincar e colecionar Dimensão: 24,50 x 33,50 x 6 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-02T21:00:48Z
+- [Monster High Scary Sweet Birthday - Cupid Asteria Fantástico](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-cupid-asteria): Celebre aniversários com a muñeca Monster High Scary Sweet Birthday - Cupid Asteria, que encanta com seu visual barroco. Adicione à sua coleção! 🎉
+  Updated: 2025-10-05T07:57:36Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -21203,7 +21203,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-energizado-luta-poderosa-233981125-0043377352129-godzilla-vs-kong-1196090517.jpg?v=1759614486
   Price: 17,99 € EUR
 - [Godzilla x Kong: Rugido de batalha de Kong em Ação](https://brincatoys.pt/products/godzilla-x-kong-rugido-de-batalha-de-kong): Sinta a intensidade das batalhas com o Godzilla x Kong: Rugido de batalha de Kong. Crie poses e ouça sons que trazem realismo à brincadeira! 🔊
-  Updated: 2025-10-04T23:52:06Z
+  Updated: 2025-10-05T06:42:34Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
