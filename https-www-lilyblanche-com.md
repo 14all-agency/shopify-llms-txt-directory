@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-05T12:00:44.052Z
+- Updated At: 2025-10-05T16:00:44.792Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2526,7 +2526,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Garnet Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-silver): Looking for a romantic gift? The Garnet Vintage Heart Locket features a gorgeous garnet gemstone, the birthstone of January. This beautiful vintage locket opens to take two photos, use our free locket photo service. Hallmarked in Edinburgh. Free UK shipping & Luxury Jewellery Care Kit Included. Shop this Locket Online.
-  Updated: 2025-10-02T23:25:03Z
+  Updated: 2025-10-05T15:52:58Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2765,7 +2765,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a956e96e-a597-4ec5-8a20-9d55b1a02068.jpg?v=1741877344
   Price: £85.00 GBP
 - [Garnet Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-gold): Looking for a personalised gift? This gold vintage locket necklace features a heart-shaped garnet at its centre. The Garnet Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-10-02T23:16:02Z
+  Updated: 2025-10-05T15:43:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3009,7 +3009,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Amethyst Vintage Heart Locket Rose Gold Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-rose-gold): Looking for a gift with meaning? Made of 18-carat rose gold vermeil, this Amethyst Vintage Heart Locket is based on a vintage design. The locket features a heart-shaped, faceted-cut, high-grade amethyst gemstone at its centre.  Shop today with free UK Shipping +Photos. Get a free jewellery care kit with every order!
-  Updated: 2025-10-02T23:01:02Z
+  Updated: 2025-10-05T15:28:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3841,7 +3841,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £465.00 GBP
 - [Garnet Vintage Heart Locket Rose Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-rose-gold): Hold special memories close with this garnet vintage heart locket, featuring a genuine garnet gemstone. The locket is also hallmarked and comes with a free chain. This is a perfect gift for a loved one or for yourself. Free Locket Photos & UK Shipping. Express Delivery Option available. Shop Online Today.
-  Updated: 2025-10-02T22:59:02Z
+  Updated: 2025-10-05T15:25:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3974,7 +3974,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_39f632e1-1ff3-4b2e-8a81-20f37e4770bd.jpg?v=1741878819
   Price: £75.00 GBP
 - [Blue Topaz Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-gold): Looking for the perfect gift for yourself or a loved one? This gold vermeil heart locket holds two of your precious photos and can be personalised for free. Featuring a Blue Topaz Gemstone. Hallmarked. Free UK Shipping & Luxury Jewellery Care Kit Included. Shop Photo Lockets Online Today. Express Delivery Available.
-  Updated: 2025-10-02T23:17:02Z
+  Updated: 2025-10-05T15:44:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -4010,7 +4010,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £315.00 GBP
 - [Amethyst Vintage Heart Locket Silver + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-silver): Looking for a truly special gift? This Amethyst Heart Necklace holds two of your precious photos. Made from sterling silver, the necklace features a genuine heart-shaped amethyst gemstone, the birthstone for February. Hallmarked in Edinburgh. Order online today to receive free UK shipping & Luxury Jewellery Care Kit.
-  Updated: 2025-10-02T22:57:02Z
+  Updated: 2025-10-05T15:24:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -4043,7 +4043,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £240.00 GBP
 - [Blue Topaz Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-white-gold): Looking for a personalised gift? Keep your loved ones close with this Blue Topaz Vintage Heart Locket in white gold. Featuring a heart-shaped blue topaz gemstone. Let us fill your locket for free with 2 photos for a personalised locket you'll love. Hallmarked in Edinburgh. Buy online today with Free UK Shipping.
-  Updated: 2025-10-02T23:07:02Z
+  Updated: 2025-10-05T15:34:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9494,7 +9494,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £245.00 GBP
 - [Garnet Vintage Heart Locket | White Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-white-gold): Looking for a personalised, romantic gift? This Garnet Vintage Heart Locket features a gorgeous garnet, the birthstone of January. This beautiful vintage locket in white gold vermeil opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Order online today!
-  Updated: 2025-10-02T23:15:02Z
+  Updated: 2025-10-05T15:42:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14716,7 +14716,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_420abc11-e61e-41db-a3c8-047a6dc4dfec.jpg?v=1741882489
   Price: £110.00 GBP
 - [Emerald Mini Stud Earrings Solid Gold | Quality May Birthstone Earrings](https://www.lilyblanche.com/products/emerald-mini-stud-earrings-gold-may): Looking for your forever earrings? Our real emerald stud earrings in a solid 9 carat gold setting are classics. The birthstone for May and the gemstone for happiness, emeralds are the perfect gift for a May birthday. Shop now with free shipping & free jewellery care kit.
-  Updated: 2025-08-15T10:14:15Z
+  Updated: 2025-10-05T12:24:37Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14779,7 +14779,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_4d08452f-fb6e-40dc-a8b3-daec90b7305e.jpg?v=1741882713
   Price: £65.00 GBP
 - [Ruby Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-gold): Looking for the perfect romantic gift? This Ruby Vintage Heart Locket features a gorgeous garnet, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Full UK Hallmark. This is a perfect gift for a loved one or for yourself. Free UK Shipping & Luxury Gift Wrap. Shop Online Today.
-  Updated: 2025-10-02T23:14:02Z
+  Updated: 2025-10-05T15:40:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14812,7 +14812,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Ruby Heart Locket White Gold  | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold): Looking for the perfect personalised gift? This white gold vintage locket necklace features a heart-shaped ruby at its centre. The Ruby Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-10-02T23:04:02Z
+  Updated: 2025-10-05T15:30:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14836,7 +14836,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Ruby Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-silver): Keep your loved ones close with this Ruby Vintage Heart Locket, featuring a gorgeous ruby gemstone, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Luxury Jewellery Care Kit Included. Express Delivery Available. Shop Online Today.
-  Updated: 2025-10-02T23:05:02Z
+  Updated: 2025-10-05T15:32:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14869,7 +14869,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Ruby Heart Locket Rose Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-rose-gold): Need a luxurious romantic gift? This Ruby Vintage Heart Locket features a gorgeous ruby gemstone, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Scented Gift Wrap. Express Delivery is Available. Order Yours Online Today.
-  Updated: 2025-10-02T23:00:02Z
+  Updated: 2025-10-05T15:27:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14893,7 +14893,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket Silver | Genuine Emerald Necklace | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-silver): Give the perfect gift with this personalised Emerald Vintage Heart Locket featuring a gorgeous emerald, the birthstone for May. This beautiful vintage locket opens to take two of your photos, inserted for free by our expert team. Express Delivery Available. Free Shipping & Luxury Gift Wrap. Order Yours Online Today.
-  Updated: 2025-10-02T23:20:02Z
+  Updated: 2025-10-05T15:47:58Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14926,7 +14926,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Sapphire Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-silver): Searching for the perfect romantic gift? This Sapphire Vintage Heart Locket features a genuine sapphire, the birthstone of September. This beautiful vintage locket opens to take two of your personal photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Shop Sapphire Necklaces Online.
-  Updated: 2025-10-03T09:24:06Z
+  Updated: 2025-10-05T15:23:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14959,7 +14959,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Sapphire Heart Locket Rose Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-rose-gold): Keep your loved ones close with this Sapphire Vintage Heart Locket, featuring a gorgeous sapphire, the birthstone of Sapphire. This beautiful vintage locket opens to take two photos, use our free photo service to personalise yours. Free UK Shipping & Jewellery Care Kit Included. Express Delivery Available Online.
-  Updated: 2025-10-03T09:24:08Z
+  Updated: 2025-10-05T15:29:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -14983,7 +14983,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket in Gold  |Free Photos | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-gold): Need a heartfelt, personalised gift? The Emerald Vintage Heart Locket features a gorgeous emerald, the birthstone of May. Use our free photo service to insert two of your cherished photos. Hallmarked. Free UK shipping & Luxury Jewellery Care Kit Included. Buy Online Today with Express Delivery.
-  Updated: 2025-10-02T23:06:02Z
+  Updated: 2025-10-05T15:33:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15016,7 +15016,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £365.00 GBP
 - [Emerald Heart Locket Rose Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-rose-gold): Keep your loved ones close with this Emerald Vintage Heart Locket, featuring a gorgeous emerald, the birthstone of May. This beautiful vintage locket opens to take two photos, inserted for free by our expert personalisation team. Hallmarked. Free Shipping & Luxury Jewellery Care Kit Included. See Online Today.
-  Updated: 2025-10-02T23:11:02Z
+  Updated: 2025-10-05T15:38:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15040,7 +15040,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £345.00 GBP
 - [Emerald Heart Locket White Gold  | Emerald Necklace | Lily Blanche](https://www.lilyblanche.com/products/emerald-vintage-heart-locket-white-gold): Keep loved ones close with this personalised gift. The Emerald Vintage Heart Locket in White Gold features a gorgeous emerald, the birthstone of May. This beautiful locket opens to take two photos, inserted for free by our expert team. Hallmarked in Edinburgh. Free Shipping & Luxury Jewellery Care Kit Included.
-  Updated: 2025-10-02T23:22:02Z
+  Updated: 2025-10-05T15:49:58Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15071,7 +15071,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphire_gold_claw_earring1_1080_copy_b8dfc2c1-a02e-4bbd-bd7d-aa721e7b42da.jpg?v=1741883077
   Price: £190.00 GBP
 - [Amethyst Vintage Heart Locket Gold + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-gold): Need a romantic gift? This gold vermeil Amethyst Heart Locket is the ultimate love token and holds two of your precious photos. It is made of 18-carat gold vermeil and features a beautiful genuine amethyst gemstone. Hallmarked with a full UK hallmark. Order online today & receive a free Jewellery Care Kit worth £20!
-  Updated: 2025-10-02T23:10:02Z
+  Updated: 2025-10-05T15:37:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15104,7 +15104,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £315.00 GBP
 - [Amethyst Vintage Heart Locket  White Gold Necklace + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-white-gold): Cherish your precious memories with this Amethyst Vintage Heart Locket in white gold vermeil. Hallmarked in Edinburgh. Order online today with free UK shipping.
-  Updated: 2025-10-02T23:12:02Z
+  Updated: 2025-10-05T15:39:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15137,7 +15137,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £340.00 GBP
 - [Blue Topaz Rose Gold Heart Locket | Free Locket Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-rose-gold): Looking for a truly romantic gift? This Blue Topaz Vintage Heart Locket is based on an antique design & holds 2 photos. This necklace in 18 carat rose gold vermeil features a heart-shaped, high-grade blue topaz gemstone. Free UK Delivery & Gift Wrap. Express delivery available. Shop Online today!
-  Updated: 2025-10-02T23:09:02Z
+  Updated: 2025-10-05T15:35:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16817,7 +16817,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-10-05T10:19:41Z
+  Updated: 2025-10-05T12:27:23Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16925,7 +16925,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-03T17:10:35Z
+  Updated: 2025-10-05T15:55:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22949,7 +22949,7 @@ From £190.
     Availability: Available
     Price: £250.00 GBP
 - [Heavy Silver Cross Necklace | High Quality](https://www.lilyblanche.com/products/heavy-silver-cross-necklace): Elevate your style with this bold, heavyweight sterling silver cross necklace—a timeless yet on-trend accessory. Includes a free £20 Jewellery Care Kit!
-  Updated: 2025-10-02T23:39:14Z
+  Updated: 2025-10-05T15:49:41Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23379,7 +23379,7 @@ From £129
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/white_gold_initial_necklace_Q.webp?v=1755082435
     Price: £145.00 GBP
 - [Men's Extra Large Sterling Silver Cross Necklace | XL Bold Statement Cross](https://www.lilyblanche.com/products/mens-heavy-xl-silver-cross-necklace): Make a bold statement with our extra-large sterling silver cross necklace for men. Handcrafted from solid sterling silver, this premium XL pendant (67mm x 35mm) is our largest men's cross, designed for a powerful and striking look.
-  Updated: 2025-10-04T14:14:51Z
+  Updated: 2025-10-05T15:47:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
