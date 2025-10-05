@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-04T20:00:33.938Z
+- Updated At: 2025-10-05T16:00:34.332Z
 
 ## Products
 
@@ -4920,7 +4920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-04T12:10:56Z
+  Updated: 2025-10-05T06:50:40Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10412,7 +10412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/enia-cascade-print-skirt-9098776.webp?v=1758251773
     Price: $36.95 USD
 - [Elegant Wedding Shoe and Bag Set with Handmade Flowers](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers): Elegant Wedding Shoe and Bag Set with Handmade Flowers. Ideal for weddings, parties and special occasions, this shoe and bag combo offer both style and comfort.
-  Updated: 2025-10-04T13:01:22Z
+  Updated: 2025-10-05T06:47:01Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10627,7 +10627,7 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-04T09:25:32Z
+  Updated: 2025-10-05T09:25:32Z
   Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
