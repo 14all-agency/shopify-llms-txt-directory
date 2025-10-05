@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-05T04:01:15.397Z
+- Updated At: 2025-10-05T08:01:13.445Z
 
 ## Products
 
@@ -2131,7 +2131,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-cage-side-table-with-cushion-for-small-and-medium-dogs-dog-crate-628148.jpg?v=1700657541
   Price: £116.99 GBP
 - [2-in-1 Dog Cage & Side Table, with Two Doors, Cushion, for Large Dogs](https://veryimportantpets.shop/products/2-in-1-dog-cage-side-table-with-two-doors-cushion-for-large-dogs): A PawHut dog cage where everyone benefits – pets have a safe and comfortable space to relax whilst you have a stylish tabletop to display your favourite pieces. Shop online at Very Important Pets
-  Updated: 2025-10-02T23:30:45Z
+  Updated: 2025-10-05T07:30:47Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2191,7 +2191,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/stylish-dog-crate-end-table-with-cushion-for-smallmedium-dogs-dog-crate-871691.jpg?v=1700647908
   Price: £107.99 GBP
 - [Spacious Outdoor Wooden Dog Kennel - Grey, 72x109x79cm](https://veryimportantpets.shop/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm): Dogs love the outdoors! So, let them enjoy it safely with this PawHut dog kennel. Shop online at Very Important Pets
-  Updated: 2025-10-04T23:30:47Z
+  Updated: 2025-10-05T07:30:46Z
   Vendor: PawHut
   Product Type: Dog Kennel
   Availability: Available
@@ -2424,7 +2424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/retractable-safety-gate-dog-pet-barrier-folding-protector-home-doorway-room-divider-stair-guard-white-115lx825hcm-533139.jpg?v=1700649290
   Price: £35.99 GBP
 - [Freestanding Small Wooden Pet Safety Gate Room Separator - Dark Brown | Very Important Pets](https://veryimportantpets.shop/products/pet-gate-160lx1-2dx76h-cm-free-standing-folding-pet-safety-fence-dark-brown): Create a secure boundary for your pets with our freestanding fence, ideal for small dogs. Measuring 160L-1.2D-76H cm, this wooden gate features a high gloss dark brown finish, complementing any room decor. Its three-fold design is perfect for doorways or as a room divider, offering flexibility and portability. Set boundaries stylishly with this elegant and functional pet safety solution.
-  Updated: 2025-10-03T23:30:45Z
+  Updated: 2025-10-05T07:30:45Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -3325,7 +3325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/multi-tier-outdoor-wooden-cat-house-with-roof-terrace-outdoor-cat-house-grey-674740.jpg?v=1700651618
   Price: £134.99 GBP
 - [2-Floor Wooden Cat House: Stylish Outdoor Kitten Shelter](https://veryimportantpets.shop/products/2-floor-wooden-cat-house-kitten-shelter): A private enclosure in a stylish design - stray cats will love this outdoor cat house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-04T23:30:47Z
+  Updated: 2025-10-05T07:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3381,7 +3381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-10-04T07:30:47Z
+  Updated: 2025-10-05T07:30:46Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3956,7 +3956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/floor-to-ceiling-cat-tree-6-tier-play-tower-climbing-activity-center-w-scratching-post-hammock-adjustable-height-230-250cm-beige-616727.jpg?v=1700655402
     Price: £71.99 GBP
 - [TV-Shaped Cat Scratcher - Fun & Durable for Indoor Cats | Very Important Pets](https://veryimportantpets.shop/products/tv-shaped-scratching-board-with-scratcher-catnip-toy-rat-cat-scratcher-for-indoor-cats-43-x-23-x-32-5cm): Channel your cat's scratching and play instincts with our TV-shaped scratcher. Perfect for indoor cats up to 3kg, it combines a hideout and a durable scratching board. Comes with a toy rat and catnip to entertain and attract your furry friend. Easy to assemble, eco-friendly, and keeps furniture safe.
-  Updated: 2025-10-03T15:30:30Z
+  Updated: 2025-10-05T07:30:47Z
   Vendor: PawHut
   Product Type: Cat Scratch Mat
   Availability: Available
@@ -4243,7 +4243,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-443-x-65-cm-838158.jpg?v=1700645780
   Price: £80.99 GBP
 - [Enclosed Small Wooden Chicken Coop with Nesting Box](https://veryimportantpets.shop/products/enclosed-small-wooden-chicken-coop-with-nesting-box): Treat your chickens to the good life they deserve with this chicken chateau. Shop online at Very Important Pets
-  Updated: 2025-10-03T15:30:31Z
+  Updated: 2025-10-05T07:30:47Z
   Vendor: PawHut
   Product Type: Chicken Coop
   Availability: Available
@@ -4303,7 +4303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-indoor-rabbit-hutch-guinea-pig-house-bunny-small-animal-cage-w-wheels-enclosed-run-110-x-50-x-86-cm-brown-580437.jpg?v=1700645918
     Price: £143.99 GBP
 - [Wooden Rabbit Hutch Portable Indoor Guinea Pigs House Bunny Small Animal Cage Openable Roof Enclosed Run 90 x 53 x 59 cm](https://veryimportantpets.shop/products/wooden-rabbit-hutch-portable-indoor-guinea-pigs-house-bunny-small-animal-cage-openable-roof-enclosed-run-90-x-53-x-59-cm): Give your rabbit their own private space, even when they're indoors with this rabbit house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-03T15:30:31Z
+  Updated: 2025-10-05T07:30:47Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -9955,7 +9955,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/good-boy-chicken-cheese-sticks-10x80g-natural-treats-802028.jpg?v=1701107994
   Price: £22.95 GBP
 - [Good Boy Chicken Flavour Bonies x18](https://veryimportantpets.shop/products/good-boy-chicken-flavour-bonies-x18): Ingredients: rawhide rice starch colourings &amp; flavours. Shop online at Very Important Pets
-  Updated: 2025-10-04T18:03:30Z
+  Updated: 2025-10-05T07:46:34Z
   Vendor: Good Boy
   Product Type: Training Treats
   Availability: Available
@@ -17512,7 +17512,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/webbox-naturals-adult-cat-meat-selection-in-gravy-pouches-56-x-100g-adult-cat-wet-2558535.webp?v=1758415776
   Price: £24.64 GBP
 - [Webbox Naturals Adult Cat Food Mixed Meat in Jelly - 5 Boxes](https://veryimportantpets.shop/products/webbox-naturals-cat-adult-mixed-in-jelly-5x-12x100g): Treat your cat to a variety of natural, complete wet food with Webbox Naturals Mixed Meat & Fish Variety in Jelly. No artificial additives, just tasty goodness!
-  Updated: 2025-09-30T07:06:04Z
+  Updated: 2025-10-05T07:31:03Z
   Vendor: Webbox
   Product Type: Adult Cat Wet
   Availability: Available
