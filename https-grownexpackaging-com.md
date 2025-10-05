@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-04T12:00:33.823Z
+- Updated At: 2025-10-05T12:00:34.637Z
 
 ## Products
 
@@ -128,7 +128,7 @@
     Availability: Available
     Price: ₹7,999.00 INR
 - [4 Line 1 Kg Sweet Box with Laminated Tray - Grownex Packaging](https://grownexpackaging.com/products/1-kg-yellow-leaf-4-line-premium-sweet-box): 1 Kg Yellow Leaf 4 Line Premium Sweet Box: Perfect for sweets gifting. BPA free laminated partitions & eco-friendly material. Shop now!
-  Updated: 2025-10-02T09:15:46Z
+  Updated: 2025-10-04T12:08:15Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -344,7 +344,7 @@
     Availability: Not Available
     Price: ₹6,399.00 INR
 - [Indulge in 500 gm Premium Sweet Box - Beautifully Packaged by Grownex](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box): 500 gm Green Elephant 4 Line Premium Sweet Box: Perfect for celebrations and gifting. Features a diverse assortment of premium sweets. Shop now!
-  Updated: 2025-10-04T11:19:22Z
+  Updated: 2025-10-04T13:25:57Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -353,31 +353,31 @@
     Availability: Available
     Price: ₹132.00 INR
   - [500 gm / 15](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846886850851)
-    Availability: Not Available
+    Availability: Available
     Price: ₹929.00 INR
   - [500 gm / 30](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846886883619)
-    Availability: Not Available
+    Availability: Available
     Price: ₹1,799.00 INR
   - [500 gm / 45](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846886916387)
-    Availability: Not Available
+    Availability: Available
     Price: ₹2,599.00 INR
   - [500 gm / 60](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846886981923)
-    Availability: Not Available
+    Availability: Available
     Price: ₹3,399.00 INR
   - [500 gm / 75](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846887014691)
-    Availability: Not Available
+    Availability: Available
     Price: ₹4,199.00 INR
   - [500 gm / 90](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846887047459)
-    Availability: Not Available
+    Availability: Available
     Price: ₹4,999.00 INR
   - [500 gm / 105](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846887080227)
-    Availability: Not Available
+    Availability: Available
     Price: ₹5,699.00 INR
   - [500 gm / 120](https://grownexpackaging.com/products/500-gm-green-elephant-4-line-premium-sweet-box?variant=51846887112995)
-    Availability: Not Available
+    Availability: Available
     Price: ₹6,399.00 INR
 - [5 Partitions Lawana Box Lid Pattern](https://grownexpackaging.com/products/lawana-box-lid-pink-5-partition): Golden Foil Pink 5 Partitions Lawana Box Lid Pattern: Perfect for gifting sweets on special occasions. Matt finish with golden foiling and 5 partitions. Shop now!
-  Updated: 2025-10-03T12:23:51Z
+  Updated: 2025-10-04T12:23:57Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: ₹19,899.00 INR
 - [8 Partitions Lawana Box Lid Pattern](https://grownexpackaging.com/products/lawana-box-lid-pink-8-partition): Golden Foil Pink 8 Partitions Lawana Box Lid Pattern: Perfect for gifting sweets at celebrations. Matt finish with golden foiling. Shop now!
-  Updated: 2025-10-03T12:23:50Z
+  Updated: 2025-10-04T12:23:57Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -449,7 +449,7 @@
     Availability: Not Available
     Price: ₹15,999.00 INR
 - [Wedding Theme 5 Partitions Lawana Box](https://grownexpackaging.com/products/wedding-theme-foil-lawana-box-5-partition): Wedding Theme 5 Partitions Lawana Box Lid Pattern: Perfect for gifting or celebrations. Matt finish with golden foiling. Shop now!
-  Updated: 2025-10-03T10:33:20Z
+  Updated: 2025-10-05T08:37:35Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -620,7 +620,7 @@
     Availability: Available
     Price: ₹9,999.00 INR
 - [Durable 500 gm Heritage Blue Sweet Box - Stylish Packaging Solution | Grownex Packaging](https://grownexpackaging.com/products/500-gm-heritage-blue-4-line-premium-file-sweet-box): Perfect for weddings, parties, and festive occasions. Premium quality material ensures durability and protection. Shop now!
-  Updated: 2025-10-03T10:44:02Z
+  Updated: 2025-10-05T07:22:06Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -761,7 +761,7 @@
     Availability: Not Available
     Price: ₹3,599.00 INR
 - [High-Quality 9-Cavity Chocolate Box - Easy-Fold Design | Grownex Packaging](https://grownexpackaging.com/products/9-pcs-folding-chocolate-box-purple): 9 Cavity Folding Chocolates Packing Box - Purple: Perfect for gifting chocolates. High quality 300gsm SBS paperboard with matte finish and food safe quality. Shop now!
-  Updated: 2025-09-30T11:37:56Z
+  Updated: 2025-10-05T07:22:06Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -977,7 +977,7 @@
     Availability: Not Available
     Price: ₹5,299.00 INR
 - [6 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/6-pcs-cavity-chocolate-box-red): 6 Pcs Cavity Chocolate Box - Red: Perfect for gifting and presenting chocolates. High quality Kapaboard material with cavity tray included. Shop now!
-  Updated: 2025-09-16T01:31:47Z
+  Updated: 2025-10-05T07:22:06Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -2891,7 +2891,7 @@
     Availability: Available
     Price: ₹2,149.00 INR
 - [8x8 inch Gift Hamper Packing Baskets- Lime Green](https://grownexpackaging.com/products/lime-green-basket): Elevate your festive gifts with reusable and eco-friendly Diwali gift basket packaging, ideal for home or office celebrations.
-  Updated: 2025-10-04T11:08:07Z
+  Updated: 2025-10-04T12:23:57Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_h5a4jbh5a4jbh5a4_8624acbc-2cab-4930-8960-eec7fa91c435.png?v=1759576087
     Price: ₹22,999.00 INR
 - [8x8 inch Decorative Hamper Packing Baskets- Royal Blue](https://grownexpackaging.com/products/floral-blue-basket): Elegant Floral Blue Gift Hamper Basket – a versatile festive basket, gift basket, or dry fruit basket perfect for weddings and celebrations.
-  Updated: 2025-10-04T11:23:54Z
+  Updated: 2025-10-05T09:36:20Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3071,7 +3071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_y50qw8y50qw8y50q_0bf3b211-a653-411e-9ab7-d08c9c21e758.png?v=1759577033
     Price: ₹20,999.00 INR
 - [8x8 inch Decorative Hamper Packing Baskets- Royal Orange](https://grownexpackaging.com/products/floral-orange-basket): Diwali-ready gift baskets with rich packaging designs – perfect for family, friends, and corporate clients.
-  Updated: 2025-10-04T11:40:52Z
+  Updated: 2025-10-04T12:23:57Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3161,7 +3161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_f818bbf818bbf818_9472211b-a7cb-4ab5-a3d8-33c09ec32783.png?v=1759578052
     Price: ₹20,999.00 INR
 - [Handcrafted Wooden Gift Basket | Eco-friendly MDF Hamper Basket](https://grownexpackaging.com/products/floral-gold-basket): Luxury handcrafted wooden gift basket made with high quality MDF. Eco-friendly, reusable hamper basket for gifts, corporate, Diwali & special occasions.
-  Updated: 2025-10-04T11:48:51Z
+  Updated: 2025-10-05T07:43:22Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3251,94 +3251,94 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_80lnie80lnie80ln_708a93c0-af2b-48a8-bc26-51c9f1924e19.png?v=1759577325
     Price: ₹20,999.00 INR
 - [8x8 inch Wedding Hamper Packing Baskets- Royal White](https://grownexpackaging.com/products/royal-white-basket): Elegant Diwali hamper baskets filled with handpicked treats. Ideal for premium festive gifting to family, friends, or corporate clients.
-  Updated: 2025-09-24T23:22:43Z
+  Updated: 2025-10-05T10:45:28Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/1_7aa1b94d-bd55-4c6f-a114-50504da49eb4.jpg?v=1750741327
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_xh8h9uxh8h9uxh8h_24017b15-4f0a-405c-a63b-658650f10969.png?v=1759583376
   - [Small / 1](https://grownexpackaging.com/products/royal-white-basket?variant=52061738369315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹169.00 INR
   - [Small / 5](https://grownexpackaging.com/products/royal-white-basket?variant=52061738402083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹799.00 INR
   - [Small / 10](https://grownexpackaging.com/products/royal-white-basket?variant=52061738467619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹1,569.00 INR
   - [Small / 20](https://grownexpackaging.com/products/royal-white-basket?variant=52061738533155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹3,099.00 INR
   - [Small / 50](https://grownexpackaging.com/products/royal-white-basket?variant=52061738565923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹7,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/royal-white-basket?variant=52061738598691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹11,499.00 INR
   - [Small / 100](https://grownexpackaging.com/products/royal-white-basket?variant=52061738631459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1751628747
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/95.jpg?v=1759583376
     Price: ₹13,499.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/royal-white-basket?variant=52061738664227)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/royal-white-basket?variant=52061738696995)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/royal-white-basket?variant=52061738729763)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/royal-white-basket?variant=52061738762531)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹3,499.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/royal-white-basket?variant=52061738795299)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹8,499.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/royal-white-basket?variant=52061738828067)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹13,499.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/royal-white-basket?variant=52061738860835)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1751628761
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/96.jpg?v=1759583376
     Price: ₹16,499.00 INR
   - [Large / 1](https://grownexpackaging.com/products/royal-white-basket?variant=52061738893603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹279.00 INR
   - [Large / 5](https://grownexpackaging.com/products/royal-white-basket?variant=52061738926371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹1,389.00 INR
   - [Large / 10](https://grownexpackaging.com/products/royal-white-basket?variant=52061738959139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹2,699.00 INR
   - [Large / 20](https://grownexpackaging.com/products/royal-white-basket?variant=52061738991907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹4,899.00 INR
   - [Large / 50](https://grownexpackaging.com/products/royal-white-basket?variant=52061739057443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹11,199.00 INR
   - [Large / 80](https://grownexpackaging.com/products/royal-white-basket?variant=52061739090211)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹17,299.00 INR
   - [Large / 100](https://grownexpackaging.com/products/royal-white-basket?variant=52061739122979)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1751628779
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/97.jpg?v=1759583376
     Price: ₹20,999.00 INR
 - [8x8 inch Baby Shower Hamper Packing Baskets- Baby Pink](https://grownexpackaging.com/products/polka-pink-basket): Discover beautifully crafted Diwali packaging solutions for sweets, dry fruits, and gifts – perfect for festive gifting.
   Updated: 2025-09-05T05:35:14Z
@@ -3431,97 +3431,97 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/82.jpg?v=1757050513
     Price: ₹22,999.00 INR
 - [Durable Baby Pink Storage Basket - Versatile & Lightweight | Grownex Packaging](https://grownexpackaging.com/products/baby-pink-basket): Traditional Diwali hamper baskets filled with sweets, dry fruits & festive delights. A perfect way to celebrate and share the joy of the festival of lights.
-  Updated: 2025-09-29T13:48:31Z
+  Updated: 2025-10-05T06:43:32Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/46.jpg?v=1750741339
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_fkz9rhfkz9rhfkz9.png?v=1759583327
   - [Small / 1](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818509603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹179.00 INR
   - [Small / 5](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818542371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹889.00 INR
   - [Small / 10](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818575139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹1,749.00 INR
   - [Small / 20](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818607907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹3,399.00 INR
   - [Small / 50](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818640675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹8,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818673443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹12,199.00 INR
   - [Small / 100](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818706211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1751630467
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/104_b0abcae6-aa92-44a2-8cf3-5d60b7e44b64.jpg?v=1759583327
     Price: ₹13,999.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818738979)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818771747)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818804515)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818837283)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹3,699.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818870051)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹8,779.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818902819)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹13,999.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818935587)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1751630486
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/105_96a5d639-7220-4b21-a569-c90df1cd27d0.jpg?v=1759583327
     Price: ₹16,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/baby-pink-basket?variant=51873818968355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/baby-pink-basket?variant=51873819001123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹1,499.00 INR
   - [Large / 10](https://grownexpackaging.com/products/baby-pink-basket?variant=51873819033891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹2,599.00 INR
   - [Large / 20](https://grownexpackaging.com/products/baby-pink-basket?variant=51873819066659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹4,759.00 INR
   - [Large / 50](https://grownexpackaging.com/products/baby-pink-basket?variant=51873819099427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹11,599.00 INR
   - [Large / 80](https://grownexpackaging.com/products/baby-pink-basket?variant=51873819132195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹17,999.00 INR
   - [Large / 100](https://grownexpackaging.com/products/baby-pink-basket?variant=51873819164963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1751630501
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/106_cb87b92a-3d5a-4c3f-bd0f-a640ac50d60e.jpg?v=1759583327
     Price: ₹21,999.00 INR
 - [8x8 inch Fruits Hamper Packing Baskets- Orange](https://grownexpackaging.com/products/orange-basket): Add a traditional yet premium touch to your Diwali gifting with our beautifully crafted wooden hamper basket. Make your Diwali gifts stand out with our reusable wooden hamper basket – where tradition meets luxury.
-  Updated: 2025-10-04T11:45:14Z
+  Updated: 2025-10-05T06:43:32Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3611,7 +3611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_qsn505qsn505qsn5.png?v=1759578314
     Price: ₹21,999.00 INR
 - [8x8 inch Shagun Hamper Packing Baskets- Royal Blue](https://grownexpackaging.com/products/royal-blue-basket): Impress clients, partners, and employees with a refined wooden box that redefines corporate gifting. Redefine gifting with our handcrafted luxury wooden Basket  – where premium aesthetics meet purposeful packaging.
-  Updated: 2025-10-04T11:56:58Z
+  Updated: 2025-10-05T06:43:32Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3701,7 +3701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_tw56yitw56yitw56_d04f4b1a-7e88-4703-8f5f-2ae5e30778e7.png?v=1759579018
     Price: ₹21,999.00 INR
 - [8x8 inch Haldi Ceremony Hamper Packing Baskets- Yellow](https://grownexpackaging.com/products/yellow-basket): Bring ethnic charm to your celebrations with a reusable traditional wooden basket – perfect for premium gifting.
-  Updated: 2025-10-04T11:58:51Z
+  Updated: 2025-10-05T11:39:06Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3791,7 +3791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_d9eivqd9eivqd9ei_29bc71b9-f818-4141-9cdf-0c6c1272d92b.png?v=1759579131
     Price: ₹21,999.00 INR
 - [8x8 inch Festive Gift Hamper Packing Baskets- Rani Pink](https://grownexpackaging.com/products/rani-pink-basket): Celebrate with the Rani Pink Gift Hamper Basket – a premium basket ideal as a return gift basket, hamper basket, or festive storage solution.
-  Updated: 2025-10-04T11:49:51Z
+  Updated: 2025-10-05T07:59:19Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3881,454 +3881,454 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_e132xle132xle132_32753ce3-6a5a-43f2-809f-8e93a87fd240.png?v=1759578591
     Price: ₹21,999.00 INR
 - [8x8 inch Bride Gift Hamper Packing Baskets- Rose Red](https://grownexpackaging.com/products/red-basket): Handcrafted traditional wooden basket for sweets, dry fruits & gifts – ideal for Diwali, weddings & special occasions.
-  Updated: 2025-09-29T10:13:29Z
+  Updated: 2025-10-05T06:43:32Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/28_aeb273bd-ce5f-4ecd-927f-97436b5545c6.jpg?v=1757075338
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_7tlfgc7tlfgc7tlf.png?v=1759583351
   - [Small / 1](https://grownexpackaging.com/products/red-basket?variant=52061749444899)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹179.00 INR
   - [Small / 5](https://grownexpackaging.com/products/red-basket?variant=52061749477667)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹889.00 INR
   - [Small / 10](https://grownexpackaging.com/products/red-basket?variant=52061749510435)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹1,749.00 INR
   - [Small / 20](https://grownexpackaging.com/products/red-basket?variant=52061749543203)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹3,399.00 INR
   - [Small / 50](https://grownexpackaging.com/products/red-basket?variant=52061749575971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹8,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/red-basket?variant=52061749608739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹12,199.00 INR
   - [Small / 100](https://grownexpackaging.com/products/red-basket?variant=52061749674275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/83.jpg?v=1759583351
     Price: ₹13,999.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/red-basket?variant=52061749707043)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/red-basket?variant=52061749739811)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/red-basket?variant=52061749772579)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/red-basket?variant=52061749805347)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹3,699.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/red-basket?variant=52061749870883)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹8,779.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/red-basket?variant=52061749903651)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹13,999.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/red-basket?variant=52061749936419)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84.jpg?v=1759583351
     Price: ₹16,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/red-basket?variant=52061749969187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/red-basket?variant=52061750001955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹1,499.00 INR
   - [Large / 10](https://grownexpackaging.com/products/red-basket?variant=52061750034723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹2,599.00 INR
   - [Large / 20](https://grownexpackaging.com/products/red-basket?variant=52061750067491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹4,759.00 INR
   - [Large / 50](https://grownexpackaging.com/products/red-basket?variant=52061750100259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹11,599.00 INR
   - [Large / 80](https://grownexpackaging.com/products/red-basket?variant=52061750133027)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹17,999.00 INR
   - [Large / 100](https://grownexpackaging.com/products/red-basket?variant=52061750165795)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1757075339
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/85.jpg?v=1759583351
     Price: ₹21,999.00 INR
 - [Grownex Packaging's Sturdy Golden Jute Basket for Weddings & Decor](https://grownexpackaging.com/products/golden-jute-basket): Beautifully designed hamper baskets perfect for gifting sweets, dry fruits, chocolates & festive treats. A stylish way to present your love.
-  Updated: 2025-10-04T11:48:56Z
+  Updated: 2025-10-04T13:07:33Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/18_b69a0602-587c-4429-9a20-5f73b5b5cf3e.jpg?v=1757075341
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_kes28xkes28xkes2.png?v=1759583253
   - [Small / 1](https://grownexpackaging.com/products/golden-jute-basket?variant=52061750984995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹189.00 INR
   - [Small / 5](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751017763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹899.00 INR
   - [Small / 10](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751050531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹1,699.00 INR
   - [Small / 20](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751083299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹3,389.00 INR
   - [Small / 50](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751148835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹7,499.00 INR
   - [Small / 80](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751181603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹11,899.00 INR
   - [Small / 100](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751214371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_386906a7-aff9-452c-9290-e0e9e10eae22.jpg?v=1759583253
     Price: ₹14,499.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751247139)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹209.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751279907)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹1,039.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751312675)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹2,069.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751345443)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹3,999.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751378211)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹9,699.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751410979)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹15,399.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751443747)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/108_066441e7-e762-4d96-a0cd-d3282911ac23.jpg?v=1759583253
     Price: ₹18,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751476515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751869731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹1,539.00 INR
   - [Large / 10](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751902499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹3,069.00 INR
   - [Large / 20](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751935267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹5,199.00 INR
   - [Large / 50](https://grownexpackaging.com/products/golden-jute-basket?variant=52061751968035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹11,999.00 INR
   - [Large / 80](https://grownexpackaging.com/products/golden-jute-basket?variant=52061752000803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹19,099.00 INR
   - [Large / 100](https://grownexpackaging.com/products/golden-jute-basket?variant=52061752033571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1757075341
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹22,999.00 INR
 - [8x8 inch Traditional Hamper Packing Baskets- Rani Pink](https://grownexpackaging.com/products/square-lace-rani-pink-basket): Celebrate timeless charm with this beautifully crafted traditional wooden basket. Made from high-quality wood, it brings an ethnic touch to your festive gifting and home décor. Ideal for packing sweets, dry fruits, or hampers during Diwali, weddings, and special occasions.
-  Updated: 2025-10-04T07:52:30Z
+  Updated: 2025-10-05T06:43:50Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_075ca246-df18-441b-b818-09afbe54ecb2.jpg?v=1757075343
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_siv4v3siv4v3siv4.png?v=1759584626
   - [Small / 1](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754294563)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹179.00 INR
   - [Small / 5](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754327331)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹889.00 INR
   - [Small / 10](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754360099)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹1,749.00 INR
   - [Small / 20](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754425635)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹3,399.00 INR
   - [Small / 50](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754458403)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹8,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754491171)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹12,199.00 INR
   - [Small / 100](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754523939)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/122.jpg?v=1759584626
     Price: ₹13,999.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754556707)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754589475)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754622243)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754655011)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹3,699.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754687779)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹8,779.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754720547)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹13,999.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754753315)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/123.jpg?v=1759584626
     Price: ₹16,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754818851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754884387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹1,499.00 INR
   - [Large / 10](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754917155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹2,599.00 INR
   - [Large / 20](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754949923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹4,759.00 INR
   - [Large / 50](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061754982691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹11,599.00 INR
   - [Large / 80](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061755015459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹17,999.00 INR
   - [Large / 100](https://grownexpackaging.com/products/square-lace-rani-pink-basket?variant=52061755048227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1757075343
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹21,999.00 INR
 - [8x8 inch Traditional Hamper Packing Baskets- Red](https://grownexpackaging.com/products/square-lace-red-basket): Impress clients & colleagues with premium Diwali hamper baskets—filled with gourmet sweets, dry fruits, and beautifully arranged festive gifts.
-  Updated: 2025-10-04T08:39:00Z
+  Updated: 2025-10-05T06:43:50Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/102_12c7b868-e70b-4087-88d9-212553cb7fa8.jpg?v=1757075345
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_faml2ofaml2ofaml.png?v=1759584893
   - [Small / 1](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756424483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹179.00 INR
   - [Small / 5](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756457251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹889.00 INR
   - [Small / 10](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756490019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹1,749.00 INR
   - [Small / 20](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756522787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹3,399.00 INR
   - [Small / 50](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756555555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹8,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756588323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹12,199.00 INR
   - [Small / 100](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756621091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/113_fb50298b-04d5-49e6-822d-74931e52d8fb.jpg?v=1759584893
     Price: ₹13,999.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756653859)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756686627)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756719395)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756752163)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹3,699.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756784931)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹8,779.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756817699)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹13,999.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756850467)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1757075345
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/114.jpg?v=1759584893
     Price: ₹16,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756916003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756948771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹1,499.00 INR
   - [Large / 10](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061756981539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹2,599.00 INR
   - [Large / 20](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061757014307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹4,759.00 INR
   - [Large / 50](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061757047075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹11,599.00 INR
   - [Large / 80](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061757112611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹17,999.00 INR
   - [Large / 100](https://grownexpackaging.com/products/square-lace-red-basket?variant=52061757145379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1757075346
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/115.jpg?v=1759584893
     Price: ₹21,999.00 INR
 - [8x8 inch Festive Gift Hamper Packing Baskets- Yellow](https://grownexpackaging.com/products/square-lace-yellow-basket): Add joy with the Square Lace Yellow Basket – a beautiful festive basket perfect as a wedding basket, dry fruit basket, or return gift basket.
-  Updated: 2025-09-24T22:24:56Z
+  Updated: 2025-10-05T07:20:54Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/107_28543bdc-5134-4a77-a491-87a18e797dd6.jpg?v=1757075347
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_imus1bimus1bimus.png?v=1759585228
   - [Small / 1](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758685475)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹179.00 INR
   - [Small / 5](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758718243)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹889.00 INR
   - [Small / 10](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758751011)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹1,749.00 INR
   - [Small / 20](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758783779)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹3,399.00 INR
   - [Small / 50](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758816547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹8,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758849315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹12,199.00 INR
   - [Small / 100](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758882083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1757075347
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/119_c790617c-086c-4dd9-a0c2-94ca89e952c8.jpg?v=1759585228
     Price: ₹13,999.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758914851)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758947619)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061758980387)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759013155)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹3,699.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759045923)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹8,779.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759078691)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹13,999.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759176995)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/120.jpg?v=1759585228
     Price: ₹16,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759209763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759242531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹1,499.00 INR
   - [Large / 10](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759275299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹2,599.00 INR
   - [Large / 20](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759308067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹4,759.00 INR
   - [Large / 50](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759340835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹11,599.00 INR
   - [Large / 80](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759373603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹17,999.00 INR
   - [Large / 100](https://grownexpackaging.com/products/square-lace-yellow-basket?variant=52061759406371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1757075348
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/121.jpg?v=1759585228
     Price: ₹21,999.00 INR
 - [Grownex Packaging Handle Basket Green - Stylish & Sustainable Solution](https://grownexpackaging.com/products/handle-basket-green): Discover the stylish Handle Basket Green – a versatile gift basket for weddings, festivals, or storage. A perfect hamper basket that combines elegance with utility.
   Updated: 2025-09-29T10:53:43Z
@@ -4822,7 +4822,7 @@
     Availability: Not Available
     Price: ₹55,999.00 INR
 - [Grownex Packaging 6 Jar Wooden Gift Box - Elegant Wedding Essentials](https://grownexpackaging.com/products/6-jar-red-circle-foil-wooden-box): Elegant and durable wooden box for dry fruits – your perfect festive and corporate gift packaging solution. Add charm to your Diwali gifts with this premium dry fruit box made of fine wood. Sustainable, classy, and gift-ready.
-  Updated: 2025-10-04T07:07:14Z
+  Updated: 2025-10-04T12:23:58Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -4885,7 +4885,7 @@
     Availability: Not Available
     Price: ₹77,599.00 INR
 - [High-Quality Wooden Box with Partitions - Radha Krishna Design | Grownex Packaging](https://grownexpackaging.com/products/radha-krishna-print-wooden-box): Celebrate Diwali with beautifully packed sweet gift boxes—perfect for gifting traditional mithai to family, friends, and colleagues.
-  Updated: 2025-10-03T11:15:05Z
+  Updated: 2025-10-05T09:44:30Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -4924,7 +4924,7 @@
     Availability: Available
     Price: ₹4,319.00 INR
 - [Net Pattern Dry fruit Folding Box – Purple | Elegant, Compact Storage & Gifting Box](https://grownexpackaging.com/products/purple-net-pattern-dryfruit-folding-box): Shop the Purple Net-Pattern 4-Compartment Folding Dry fruit Box — durable, hygienic, and compact. Ideal for stylish dry fruit storage, gifting, and pantry organization.
-  Updated: 2025-10-04T07:52:30Z
+  Updated: 2025-10-04T15:53:17Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -5167,186 +5167,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/IMG_7982.jpg?v=1749566873
     Price: ₹9,499.00 INR
-- [11x11 inch Designer Gift Hamper Triangle Basket - Green](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding): Designer Gift Hamper Triangle Basket - Green: Perfect for gifting and multipurpose occasions. Handmade with high quality MDF, shiny net cover. Shop now!
-  Updated: 2025-09-28T18:39:38Z
-  Vendor: Grownex Packaging
-  Product Type: Basket & Tray
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-  - [Small / 1](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059456803)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹199.00 INR
-  - [Small / 5](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059489571)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹979.00 INR
-  - [Small / 10](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059522339)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹1,949.00 INR
-  - [Small / 20](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059555107)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹3,359.00 INR
-  - [Small / 50](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059587875)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹7,549.00 INR
-  - [Small / 80](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059620643)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹11,999.00 INR
-  - [Small / 100](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059653411)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹14,499.00 INR
-  - [Medium / 1](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059686179)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹279.00 INR
-  - [Medium / 5](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059718947)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹1,389.00 INR
-  - [Medium / 10](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059751715)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹2,499.00 INR
-  - [Medium / 20](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059784483)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹4,599.00 INR
-  - [Medium / 50](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059817251)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹10,299.00 INR
-  - [Medium / 80](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059850019)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹16,099.00 INR
-  - [Medium / 100](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059882787)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹19,199.00 INR
-  - [Large / 1](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059915555)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹319.00 INR
-  - [Large / 5](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059948323)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹1,589.00 INR
-  - [Large / 10](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090059981091)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹3,099.00 INR
-  - [Large / 20](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090060013859)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹5,999.00 INR
-  - [Large / 50](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090060046627)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹14,799.00 INR
-  - [Large / 80](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090060079395)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹20,999.00 INR
-  - [Large / 100](https://grownexpackaging.com/products/triangle-basket-green-with-jar-padding?variant=52090060112163)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/dUSHYANT.jpg?v=1757075349
-    Price: ₹24,999.00 INR
-- [11x11 inch Designer Gift Hamper Triangle Basket - Royal Blue](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding): Designer Gift Hamper Triangle Basket - Royal Blue: Perfect for multi purpose use baskets set. Made with high quality MDF board. Shop now!
-  Updated: 2025-10-04T08:39:00Z
-  Vendor: Grownex Packaging
-  Product Type: Basket & Tray
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-  - [Small / 1](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090060865827)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹199.00 INR
-  - [Small / 5](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090060898595)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹979.00 INR
-  - [Small / 10](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090060931363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹1,949.00 INR
-  - [Small / 20](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090060964131)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹3,359.00 INR
-  - [Small / 50](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090060996899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹7,549.00 INR
-  - [Small / 80](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061029667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹11,999.00 INR
-  - [Small / 100](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061062435)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹14,499.00 INR
-  - [Medium / 1](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061127971)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹279.00 INR
-  - [Medium / 5](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061160739)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹1,389.00 INR
-  - [Medium / 10](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061193507)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹2,499.00 INR
-  - [Medium / 20](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061226275)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹4,599.00 INR
-  - [Medium / 50](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061259043)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹10,299.00 INR
-  - [Medium / 80](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061291811)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹16,099.00 INR
-  - [Medium / 100](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061357347)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹19,199.00 INR
-  - [Large / 1](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061390115)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹319.00 INR
-  - [Large / 5](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061422883)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹1,589.00 INR
-  - [Large / 10](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061455651)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹3,099.00 INR
-  - [Large / 20](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061488419)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹5,999.00 INR
-  - [Large / 50](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061553955)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹14,799.00 INR
-  - [Large / 80](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061586723)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹20,999.00 INR
-  - [Large / 100](https://grownexpackaging.com/products/triangle-basket-blue-with-jar-padding?variant=52090061619491)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1757075351
-    Price: ₹24,999.00 INR
 - [Textured Finish Grey Jewellery Box with Inner Padding | Grownex Packaging](https://grownexpackaging.com/products/earrings-box-lid-pattern-grey): Lid Pattern Earrings Box - Grey: Perfect for gifting or storing earrings. Textured finish paper and foam padding for protection. Shop now!
   Updated: 2025-09-03T09:47:09Z
   Vendor: Grownex Packaging
@@ -5464,7 +5284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/1_201dbb09-02d4-4efc-933e-a769a7b68268.jpg?v=1759122249
     Price: ₹42,299.00 INR
 - [Grownex Packaging Royal Blue Wooden Box - High-Quality Design](https://grownexpackaging.com/products/royal-blue-foil-print-wooden-box): Celebrate Diwali with beautifully packed gift boxes—ideal for sweets, dry fruits, and chocolates. Perfect for festive gifting to loved ones.
-  Updated: 2025-10-04T07:52:31Z
+  Updated: 2025-10-04T12:23:59Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -5535,184 +5355,184 @@
     Availability: Available
     Price: ₹21,899.00 INR
 - [Floral Red Gift Basket Set – Festive, Elegant Hampers](https://grownexpackaging.com/products/floral-red-gift-basket): Shop Floral Red Gift Basket Set of 3 – perfect for festive hampers, prasad baskets, corporate hampers, dry fruits baskets, and return gift trays. Durable & reusable.
-  Updated: 2025-09-24T23:54:46Z
+  Updated: 2025-10-04T13:06:59Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC04056.jpg?v=1757075353
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_9159oh9159oh9159.png?v=1759583219
   - [Small / 1](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605574435)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹169.00 INR
   - [Small / 5](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605607203)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹799.00 INR
   - [Small / 10](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605639971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹1,569.00 INR
   - [Small / 20](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605672739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹3,099.00 INR
   - [Small / 50](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605705507)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹7,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605738275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹11,499.00 INR
   - [Small / 100](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605771043)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/110_ac349b2b-24d0-42d7-b880-dcc7902dcf08.jpg?v=1759583219
     Price: ₹13,499.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605803811)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605836579)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605869347)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605902115)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹3,499.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605934883)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹8,499.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062605967651)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹13,499.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606000419)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/111_5e63d7a3-a90e-4fbb-b0e5-8b7392a26d35.jpg?v=1759583219
     Price: ₹16,499.00 INR
   - [Large / 1](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606033187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹279.00 INR
   - [Large / 5](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606065955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹1,389.00 INR
   - [Large / 10](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606098723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹2,699.00 INR
   - [Large / 20](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606131491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹4,899.00 INR
   - [Large / 50](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606164259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹11,199.00 INR
   - [Large / 80](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606197027)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹17,299.00 INR
   - [Large / 100](https://grownexpackaging.com/products/floral-red-gift-basket?variant=52062606229795)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1757075354
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/112_3d1c2d45-cbb8-4553-a18d-8f837d12eec2.jpg?v=1759583219
     Price: ₹20,999.00 INR
 - [High Quality Square Lace Orange Baskets - 3 Sizes Available | Grownex Packaging](https://grownexpackaging.com/products/square-lace-orange-basket): Ready-to-gift Diwali hamper baskets designed with love. Filled with curated treats, they’re perfect for festive celebrations and memorable gifting.
-  Updated: 2025-09-24T21:49:23Z
+  Updated: 2025-10-05T11:54:22Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/02_11965d58-fdeb-43b2-a8d1-758f98d585c8.jpg?v=1757075355
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_u4chn7u4chn7u4ch.png?v=1759584639
   - [Small / 1](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955077923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹179.00 INR
   - [Small / 5](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955110691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹889.00 INR
   - [Small / 10](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955143459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹1,749.00 INR
   - [Small / 20](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955176227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹3,399.00 INR
   - [Small / 50](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955208995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹8,299.00 INR
   - [Small / 80](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955241763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹12,199.00 INR
   - [Small / 100](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955274531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/116.jpg?v=1759584639
     Price: ₹13,999.00 INR
   - [Medium / 1](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955307299)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹199.00 INR
   - [Medium / 5](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955340067)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹989.00 INR
   - [Medium / 10](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955372835)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹1,959.00 INR
   - [Medium / 20](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955405603)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹3,699.00 INR
   - [Medium / 50](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955438371)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹8,779.00 INR
   - [Medium / 80](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955471139)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹13,999.00 INR
   - [Medium / 100](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955503907)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/117.jpg?v=1759584639
     Price: ₹16,999.00 INR
   - [Large / 1](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955536675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹309.00 INR
   - [Large / 5](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955569443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹1,499.00 INR
   - [Large / 10](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955602211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹2,599.00 INR
   - [Large / 20](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955634979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹4,759.00 INR
   - [Large / 50](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955667747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹11,599.00 INR
   - [Large / 80](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955700515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹17,999.00 INR
   - [Large / 100](https://grownexpackaging.com/products/square-lace-orange-basket?variant=52062955733283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1757075356
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹21,999.00 INR
 - [Stylish Blue Bird Print Hamper Baskets - Quality Cardboard | Grownex Packaging](https://grownexpackaging.com/products/blue-bird-print-room-hamper-basket): Stylish and sturdy cardboard gift basket perfect for festive hampers, sweets, or dry fruit packaging. Ideal for Diwali, weddings, and corporate gifting.
   Updated: 2025-10-03T20:28:00Z
@@ -5822,96 +5642,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_6952_bf74c7c8-6fae-4d09-8903-0f30133e469b.jpg?v=1757075359
     Price: ₹7,559.00 INR
-- [High-Quality Cherry Red Gift Hamper Baskets - Grownex Packaging](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red): Traditional Diwali hamper boxes inspired by Indian artistry—ideal for gifting dry fruits, snacks, or sweets in decorative style.
-  Updated: 2025-09-28T18:40:08Z
-  Vendor: Grownex Packaging
-  Product Type: Basket & Tray
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-  - [Small / 1](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062209315)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹199.00 INR
-  - [Small / 5](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062242083)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹979.00 INR
-  - [Small / 10](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062274851)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹1,949.00 INR
-  - [Small / 20](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062307619)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹3,359.00 INR
-  - [Small / 50](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062340387)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹7,549.00 INR
-  - [Small / 80](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062373155)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹11,999.00 INR
-  - [Small / 100](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062405923)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹14,499.00 INR
-  - [Medium / 1](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062438691)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹279.00 INR
-  - [Medium / 5](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062471459)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹1,389.00 INR
-  - [Medium / 10](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062504227)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹2,499.00 INR
-  - [Medium / 20](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062536995)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹4,599.00 INR
-  - [Medium / 50](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062569763)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹10,299.00 INR
-  - [Medium / 80](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062602531)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹16,099.00 INR
-  - [Medium / 100](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062635299)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹19,199.00 INR
-  - [Large / 1](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062668067)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹319.00 INR
-  - [Large / 5](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062700835)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹1,589.00 INR
-  - [Large / 10](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062733603)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹3,099.00 INR
-  - [Large / 20](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062766371)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹5,999.00 INR
-  - [Large / 50](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062799139)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹14,799.00 INR
-  - [Large / 80](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062831907)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹20,999.00 INR
-  - [Large / 100](https://grownexpackaging.com/products/designer-gift-hamper-triangle-basket-cherry-red?variant=52090062864675)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167dfgdf.jpg?v=1757075360
-    Price: ₹24,999.00 INR
 - [Premium 15 Pcs Cavity Chocolate Box - Machine Made Quality | Grownex](https://grownexpackaging.com/products/15-pcs-cavity-chocolate-box-brown): 15 Pcs Cavity Chocolate Box - Brown: Perfect for gifting chocolates or special occasions. High quality Kapaboard material with included cavity tray. Shop now!
   Updated: 2025-09-16T11:45:53Z
   Vendor: Grownex Packaging
@@ -6240,7 +5970,7 @@
     Availability: Available
     Price: ₹7,999.00 INR
 - [500gm Designer Floral Premium Sweet Packing Box](https://grownexpackaging.com/products/500gm-designer-floral-premium-sweet-packing-box): 500gm Designer Floral Premium Sweet Packing Box: Perfect for sweets gifting and celebrations. BPA free laminated partitions tray included. Shop now!
-  Updated: 2025-09-30T09:34:10Z
+  Updated: 2025-10-04T13:27:31Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -6267,10 +5997,10 @@
     Availability: Not Available
     Price: ₹4,999.00 INR
   - [500 gm / 105](https://grownexpackaging.com/products/500gm-designer-floral-premium-sweet-packing-box?variant=53531064828195)
-    Availability: Not Available
+    Availability: Available
     Price: ₹5,699.00 INR
   - [500 gm / 120](https://grownexpackaging.com/products/500gm-designer-floral-premium-sweet-packing-box?variant=53531064860963)
-    Availability: Not Available
+    Availability: Available
     Price: ₹6,399.00 INR
 - [500gm Royal Blue Designer Premium Sweet Packaging Box](https://grownexpackaging.com/products/500gm-royal-blue-designer-premium-sweet-packing-box): 500gm Royal Blue Designer Premium Sweet Packing Box: Perfect for sweets gifting. Eco friendly, BPA free laminated tray included. Shop now!
   Updated: 2025-10-04T07:52:30Z
@@ -6568,7 +6298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/9_d8304f57-6bad-4e18-b91c-128f0624d38a.jpg?v=1757075364
     Price: ₹44,999.00 INR
 - [Polka Pink Basket Set – Festive & Return Gift Hampers](https://grownexpackaging.com/products/polka-pink-basket-setof3): Shop Polka Pink Basket Set of 3 – perfect for Karvachauth hampers, Navratri return gifts, prasad baskets, corporate hampers, and dry fruits baskets. Elegant & reusable.
-  Updated: 2025-10-04T11:32:27Z
+  Updated: 2025-10-05T08:01:02Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -7155,7 +6885,7 @@
     Availability: Available
     Price: ₹4,199.00 INR
 - [15 Cavity Folding Chocolate Box - White Marble Vertical](https://grownexpackaging.com/products/15-cavity-folding-chocolate-box-white-marble-vertical): Key Features : Sophisticated White Marble Finish – A sleek vertical marble texture that adds refined elegance to chocolate presentation. 15 Distinct Cavities – Keeps confections separated, secure, and beautifully showcased. Space-Saving Flat Shipping + Quick Assembly – Flat-packed for efficient delivery; folds into a robust box in moments. Sturdy Paperboard Build – Delivers a premium feel while protecting contents during transport. Ideal for Premium & Modern Gifting – Well-suited for upscale events, corporate gifting such as Diwali hampers, or minimalist luxury packaging. Box Size: 23.5 x 14.6 x 3.18 cm.
-  Updated: 2025-09-30T11:37:56Z
+  Updated: 2025-10-05T07:22:06Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -8180,7 +7910,7 @@ Festival packaging box
     Availability: Available
     Price: ₹399.00 INR
 - [Handmade with Love Wooden Plaque - Rustic Home Decor Sign](https://grownexpackaging.com/products/handmade-with-love-wooden-plaque): Shop the Handmade with Love Wooden Plaque, a rustic and charming wooden sign perfect for adding a personal touch to your home or gifting to loved ones. Natural wood grain and heartwarming design.
-  Updated: 2025-09-03T09:48:21Z
+  Updated: 2025-10-05T07:22:06Z
   Vendor: Grownex Packaging
   Product Type: Tags & Stickers
   Availability: Available
@@ -8304,7 +8034,7 @@ Festival packaging box
     Availability: Available
     Price: ₹38,099.00 INR
 - [3 Jar White Marble Wooden Gift Box | Luxury Diwali Gift Packaging](https://grownexpackaging.com/products/3-jar-white-marble-wooden-gift-box): Shop 3 Jar White Marble Wooden Gift Box with premium jars & satin base. Perfect festive packaging for dry fruits, sweets & Diwali hampers.
-  Updated: 2025-09-22T02:16:27Z
+  Updated: 2025-10-04T18:45:37Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -8358,7 +8088,7 @@ Festival packaging box
     Availability: Available
     Price: ₹29,699.00 INR
 - [Luxury 6-Jar White Marble Wooden Gift Box – Premium Diwali & Wedding Packaging](https://grownexpackaging.com/products/white-marble-wooden-gift-box-6-jars): Discover the Luxury 6-Jar White Marble Wooden Gift Box—Made from high-quality MDF with gold foil. Perfect for Diwali, weddings, and corporate gifting. Reusable & elegant.
-  Updated: 2025-09-18T12:21:15Z
+  Updated: 2025-10-04T18:13:50Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -8442,7 +8172,7 @@ Festival packaging box
     Availability: Available
     Price: ₹1,999.00 INR
 - [Happy Diwali Sticker – Maroon Gold Floral Circle](https://grownexpackaging.com/products/happy-diwali-maroon-golden-floral-sticker): Royal Happy Diwali sticker with golden floral designs and maroon round base. Perfect for festive décor and gifting. Elevate your celebration with elegance!
-  Updated: 2025-10-04T07:52:30Z
+  Updated: 2025-10-05T07:22:05Z
   Vendor: Grownex Packaging
   Product Type: Tags & Stickers
   Availability: Available
@@ -8646,7 +8376,7 @@ Festival packaging box
     Availability: Available
     Price: ₹23,499.00 INR
 - [Luxury Happy Diwali Floral Wooden Gift Box – 6 Jar Festive Hamper](https://grownexpackaging.com/products/happy-diwali-floral-wooden-gift-box-6-jar-hamper): Buy the Luxury Happy Diwali Floral Wooden Gift Box with 6 airtight jars – perfect for dry fruits, sweets, or chocolates. Premium mandala artwork, gold plaque, and satin lining. Ideal for Diwali, weddings, and festive gifting.
-  Updated: 2025-10-03T12:23:50Z
+  Updated: 2025-10-04T12:23:58Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -8664,7 +8394,7 @@ Festival packaging box
     Availability: Available
     Price: ₹39,599.00 INR
 - [Luxury Shubh Diwali Floral Wooden Gift Box – 6 Jar Festive Hamper](https://grownexpackaging.com/products/shubh-diwali-floral-wooden-gift-box-6-jar-hamper): Shop Luxury Shubh Diwali Floral Wooden Gift Box with 6 airtight jars for dry fruits, sweets, or chocolates. Designer mandala art, gold Diwali plaque, and premium satin lining – perfect for Diwali, wedding, and premium gifting.
-  Updated: 2025-10-03T12:23:50Z
+  Updated: 2025-10-04T12:23:58Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -8724,7 +8454,7 @@ Festival packaging box
     Availability: Not Available
     Price: ₹11,999.00 INR
 - [Diwali Special 1Kg Gift Box | Perfect for Dry Fruits, Mithai & Chocolates](https://grownexpackaging.com/products/diwali-special-1kg-gift-box-dry-fruits-mithai-chocolates): Celebrate Diwali with our premium 1Kg festive gift box – ideal for dry fruits, mithai, and chocolates. Elegant packaging for family & corporate gifting.
-  Updated: 2025-10-03T10:35:21Z
+  Updated: 2025-10-04T13:54:11Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -8784,7 +8514,7 @@ Festival packaging box
     Availability: Available
     Price: ₹49,350.00 INR
 - [Grownex Packaging Royal Blue Wooden Box - High-Quality Design](https://grownexpackaging.com/products/royal-blue-premium-foil-print-wooden-box-for-sweets-chocolate-packaging-copy): Celebrate Diwali with beautifully packed gift boxes—ideal for sweets, dry fruits, and chocolates. Perfect for festive gifting to loved ones.
-  Updated: 2025-10-03T12:23:50Z
+  Updated: 2025-10-04T12:23:58Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -9044,10 +8774,10 @@ Festival packaging box
 ## Collections
 
 - [Sweet Box](https://grownexpackaging.com/collections/sweet-box): Explore Sweet Boxes filled with traditional and modern Indian sweets, beautifully packaged for weddings, festivals, and special celebrations. Perfect gifting choice.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 64
 - [Chocolate Box](https://grownexpackaging.com/collections/chocolate-box): Shop gourmet Chocolate Boxes with handcrafted, luxurious chocolates. Perfect for festive gifting, weddings, and corporate celebrations. Delight your loved ones today.
-  Updated: 2025-10-01T11:19:13Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 64
 - [Hamper Box](https://grownexpackaging.com/collections/hamper-box): Discover luxury Hamper Boxes for festive, corporate, and personal gifting. Stylish, secure, and functional packaging for elegant gift presentations.
   Updated: 2025-10-03T12:02:10Z
@@ -9059,16 +8789,16 @@ Festival packaging box
   Updated: 2025-09-15T11:18:01Z
   Total Products: 15
 - [Recommended products (Seguno)](https://grownexpackaging.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-10-04T11:19:52Z
-  Total Products: 387
+  Updated: 2025-10-05T11:19:10Z
+  Total Products: 384
 - [Wooden Dry Fruit Boxes](https://grownexpackaging.com/collections/wooden-boxes): Discover eco-friendly Wooden Boxes combining rustic charm and durability. Ideal for gifting jewelry, dry fruits, or sweets with sustainable and elegant packaging.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 55
 - [Hamper Basket - Gifting Basket & Trays Online](https://grownexpackaging.com/collections/basket-tray): Choose from decorative and functional Baskets ideal for gift hampers, festive gifting, and home décor. Stylish, versatile options in various sizes and designs.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 62
 - [Dry Fruit Box](https://grownexpackaging.com/collections/dry-fruit-box): Experience the luxury of premium Dry Fruits Boxes filled with assorted nuts and dried fruits, perfectly packaged for festive, wedding, and corporate gifting. Shop now for healthy, elegant gift options.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 27
 - [Paper Bags](https://grownexpackaging.com/collections/paper-bags): Shop eco-friendly Paper Bags with stylish designs for gifting and retail. Sustainable, elegant, and versatile packaging options for various needs.
   Updated: 2025-10-03T11:19:12Z
@@ -9077,10 +8807,10 @@ Festival packaging box
   Updated: 2025-07-13T09:33:39Z
   Total Products: 26
 - [Smart Products Filter Index - Do not delete](https://grownexpackaging.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 522
 - [test](https://grownexpackaging.com/collections/test)
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 39
 - [Tray](https://grownexpackaging.com/collections/tray): Shop our premium Tray Collection featuring elegant and durable trays ideal for festive gifting, weddings, Puja thalis, and corporate events. Perfect for presenting sweets, dry fruits, and gifts with style.
   Updated: 2025-10-03T13:50:29Z
@@ -9089,17 +8819,17 @@ Festival packaging box
   Updated: 2025-09-30T11:19:30Z
   Total Products: 14
 - [Rakhi](https://grownexpackaging.com/collections/rakhi)
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 110
 - [Diwali Gifts for Gifting Sweets, Dry Fruits,Baskets and many more...](https://grownexpackaging.com/collections/diwali-gifts): Explore luxury Diwali hampers, handcrafted wooden boxes, elegant baskets, stylish envelopes, and sweet gift boxes in Jaipur. Perfect festive packaging solutions for your Diwali gifts.
 Shop premium Diwali packaging featuring wooden gift boxes, festive baskets, decorative envelopes, and sweet boxes. Celebrate Diwali with exquisite and unique gift packaging.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 161
 - [Ganesh Chaturthi](https://grownexpackaging.com/collections/ganesh-chaturthi): Ganesh Chaturthi Celebration Boxes with traditional sweets, puja items, and décor. Perfect festive gifting made simple and thoughtful.
   Updated: 2025-08-29T11:58:10Z
   Total Products: 32
 - [All](https://grownexpackaging.com/collections/all)
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 522
 - [Rakhi Gift Box](https://grownexpackaging.com/collections/rakhi-gift-box)
   Updated: 2025-08-05T13:00:14Z
@@ -9114,25 +8844,25 @@ Shop premium Diwali packaging featuring wooden gift boxes, festive baskets, deco
   Updated: 2025-08-29T11:57:40Z
   Total Products: 26
 - [Tags & Stickers](https://grownexpackaging.com/collections/tags-stickers): Add a personal and festive touch to your gifts with creative Tags & Stickers. Perfect for enhancing gift packaging for festivals, weddings, and special occasions.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 29
 - [Luxury Gifting Combo](https://grownexpackaging.com/collections/luxury-gifting-combo): Shop Luxury Gifting Combos with premium dry fruits, chocolates, and décor. Ideal for corporate, weddings, and festive gifting.
   Updated: 2025-09-29T10:19:28Z
   Total Products: 7
 - [Wedding Collection](https://grownexpackaging.com/collections/wedding-collection): Discover the 2025 Wedding Collection with elegant gift hampers, personalized baskets, and luxurious dry fruit gifts perfect for weddings, return gifts, and corporate gifting. Shop online with fast delivery and special offers.
-  Updated: 2025-10-01T11:19:13Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 16
 - [Navaratri](https://grownexpackaging.com/collections/navaratri): Navaratri is a sacred and vibrant festival in India, celebrated over nine nights honoring the nine forms of Goddess Durga. Each day is dedicated to worshipping a different form—from Shailaputri to Siddhidatri—symbolizing strength, courage, and devotion. This festival is not just a religious celebration but also a cultural extravaganza. In Gujarat, the nights come alive with energetic Garba and Dandiya Raas dances, while West Bengal hosts grand Durga Puja pandals with beautifully crafted idols. In South India, families display Golu (arranged dolls) and sing devotional songs every evening. Navaratri is also a booming time for festive shopping, with new clothes, jewelry, and gifts in high demand. It’s a perfect occasion to celebrate devotion, joy, and togetherness with loved ones.
-  Updated: 2025-10-04T11:19:52Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 37
 - [Customized Wedding Return Gift](https://grownexpackaging.com/collections/customized-wedding-return-gift-1)
   Updated: 2025-09-27T12:27:01Z
   Total Products: 3
 - [Folding Chocolate Box](https://grownexpackaging.com/collections/folding-chocolate-box)
-  Updated: 2025-10-01T11:19:13Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 23
 - [Rigid Box](https://grownexpackaging.com/collections/rigid-box)
-  Updated: 2025-09-24T14:36:55Z
+  Updated: 2025-10-05T11:19:10Z
   Total Products: 35
 
 ## Blogs
