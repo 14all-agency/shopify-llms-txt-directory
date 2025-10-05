@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-05T00:00:45.613Z
+- Updated At: 2025-10-05T04:00:45.190Z
 
 ## Products
 
@@ -44578,6 +44578,10 @@
     Updated: 2025-10-01T10:08:32Z
     Author: Heris K.
     Tags: allure of diamonds, buy salt and pepper rings, diamond, diamond jewelry collection, jewelry, ring, salt and pepper, salt and pepper diamond ring, unique rings
+  - [Exploring the Eco-Friendly Beauty of Salt and Pepper Diamond Rings](https://ibizjewel.com/blogs/news/exploring-the-eco-friendly-beauty-of-salt-and-pepper-diamond-rings): Exploring the Eco-Friendly Beauty of Salt and Pepper Diamond Rings
+    Updated: 2025-10-05T00:12:05Z
+    Author: Heris K.
+    Tags: diamond rings, eco-friendly, eco-friendly jewelry options, ethical gems, jewelry, responsible gemstone sourcing, salt and pepper, salt and pepper diamond ring, sustainable
 
 ## Store Pages
 
