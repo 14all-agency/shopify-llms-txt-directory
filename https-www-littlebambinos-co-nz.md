@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-05T00:00:48.397Z
+- Updated At: 2025-10-05T04:00:47.064Z
 
 ## Products
 
@@ -3308,13 +3308,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/810052460499_1.jpg?v=1712880287
   Price: $42.00 NZD
-- [LUNE & CO Milky Moon - Coconut](https://www.littlebambinos.co.nz/products/lune-co-milky-moon-coconut): Soft & cuddly and made out of teddy boucle fabric, the milky moon is a fab take on the standard nursing pillow. Perfect for those early days and months, it is designed to help position your baby comfortably whether you are breast or bottle feeding. It make a gorgeous pillow once babe is a little older. Outer 100% polyester ~ Inner 100% polyester Approx. 50cm long - 25cm wide - 18cm high Available in Vanilla (natural), Coconut (white) and Cookie Dough (light brown). We recommend handwashing or spot cleaning carefully, machine wash only if necessary on cold handwash/delicate program, lowest spin. Each one is hand made & unique and may deviate slightly from the ones shown in the photo.
-  Updated: 2025-08-06T22:41:15Z
-  Vendor: Lune & Co
-  Product Type: Nursing Pillow Cover
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ScreenShot2022-12-10at10.03.53PM.png?v=1670665202
-  Price: $149.00 NZD
 - [LUNE & CO Shushu Moon - Mango](https://www.littlebambinos.co.nz/products/lune-co-shushu-moon-mango): Cutest & softest dummy holders,Â the Shushu Moons will soon become your babe's new favorite. They are made out of teddy boucle fabricÂ andÂ come with a protective carry tote bag. Colour: yellow with a hint of orangeÂ | 13cm long Outer 100% polyester ~Â Inner 100%Â polyester String 100% polyester | 11cm long We recommend handwashing or spot cleaning our cushions. Â Each one is hand made & unique and may deviate slightly from the ones shown in the photo. Until 1 year of age, your babe should not sleep with a cushion/comforter/dummy holder, please remove from cot when baby is sleeping.
   Updated: 2025-08-06T22:46:42Z
   Vendor: Lune & Co
@@ -7084,7 +7077,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-03T12:45:37Z
+  Updated: 2025-10-05T03:55:12Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7119,7 +7112,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelCreative2_1_b61dc548-95de-460a-9d4b-a51631622686.jpg?v=1702936343
   Price: $202.99 NZD
 - [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-09-30T19:52:21Z
+  Updated: 2025-10-05T03:55:12Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -13308,6 +13301,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
+- [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
+  Updated: 2025-10-05T03:42:43Z
+  Vendor: Oria Skin
+  Product Type: Skincare
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
+  Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
   Updated: 2025-10-03T03:42:42Z
   Vendor: Oria Skin
@@ -13806,7 +13806,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [WILSON & FRENCHY Coco Speckle Organic Knitted Bear Hat - Coco Speckle](https://www.littlebambinos.co.nz/products/wilson-frenchy-coco-speckle-organic-knitted-bear-hat-coco-speckle): This knitted hat with bear ears is the cutest way to keep little heads warm this winter. Made from organic cotton, bamboo, and wool, it features a soft turn up ribbed cuff for added warmth and comfort. A playful addition to any winter outfit. DETAILS Cute bear ears, soft ribbed turn up, gentle on baby's delicate skin, packaged in a bio-degradable bag. Made in India.
-  Updated: 2025-07-23T22:11:06Z
+  Updated: 2025-10-05T02:14:48Z
   Vendor: Wilson & Frenchy
   Product Type: Hat
   Availability: Available
@@ -16764,7 +16764,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-04T23:43:14Z
+  Updated: 2025-10-05T03:43:14Z
   Total Products: 439
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17616,7 +17616,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-04T23:43:14Z
+  Updated: 2025-10-05T03:43:14Z
   Total Products: 1323
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-03T11:02:02Z
