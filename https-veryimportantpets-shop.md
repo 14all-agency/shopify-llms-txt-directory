@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-06T04:01:16.343Z
+- Updated At: 2025-10-06T08:01:16.680Z
 
 ## Products
 
@@ -1724,7 +1724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/81cm-foldable-carrier-for-medium-pets-with-cushion-pet-carrier-grey-709943.jpg?v=1700662910
     Price: £44.99 GBP
 - [91cm Foldable Pet Carrier, with Cushion, for Medium Dogs and Cats](https://veryimportantpets.shop/products/91cm-foldable-pet-carrier-for-medium-dogs-and-cats): Need help to travel with pets? With this PawHut fabric dog crate, you'll struggle no more. Shop online at Very Important Pets
-  Updated: 2025-10-05T23:30:47Z
+  Updated: 2025-10-06T07:30:48Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -4401,7 +4401,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wood-metal-rabbit-hutch-guinea-pig-hutch-elevated-pet-house-bunny-cage-with-slide-out-tray-openable-roof-outdoor-895-x-45-x-81cm-light-yellow-936892.jpg?v=1700646277
   Price: £98.99 GBP
 - [Wooden Metal Rabbit Hutch Guinea Pig Hutch Bunny Cage Pet House Bunny w/ Slide-Out Tray Outdoor Light Yellow,black](https://veryimportantpets.shop/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellow-black): Give your furry friend a comfortable living space from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-05T23:30:47Z
+  Updated: 2025-10-06T07:30:47Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4484,13 +4484,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-playpen-w-door-customisable-fence-for-guinea-pigs-chinchillas-hedgehogs-black-850100.jpg?v=1700650732
   Price: £35.99 GBP
-- [Two-Tier Wooden Rabbit Hutch Guinea Pig Cage w/ Openable Roof, Slide-Out Tray, Ramp - Grey](https://veryimportantpets.shop/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey): Pets have the freedom to roam in this spacious PawHut rabbit hutch. Shop online at Very Important Pets
-  Updated: 2025-10-05T15:30:57Z
-  Vendor: PawHut
-  Product Type: Rabbit Hutch
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/two-tier-wooden-rabbit-hutch-guinea-pig-cage-w-openable-roof-slide-out-tray-ramp-grey-606392.jpg?v=1700647053
-  Price: £143.99 GBP
 - [2m Wide Galvanised Chicken Run with Waterproof Cover](https://veryimportantpets.shop/products/2m-width-walk-in-galvanized-chicken-coop-hen-poultry-house-cage-with-water-resist-cover): PawHut outdoor cages are the perfect products to protect your pets while giving them the freedom of fresh air. Shop online at Very Important Pets
   Updated: 2025-09-26T15:31:07Z
   Vendor: PawHut
@@ -4872,7 +4865,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/arden-grange-mini-adult-dog-with-lamb-rice-dry-food-adult-dry-6-kg-220090.webp?v=1733422210
     Price: £28.53 GBP
 - [Arden Grange Light Chicken & Rice for Weight Management](https://veryimportantpets.shop/products/arden-grange-dog-light): Arden Grange Light with fresh chicken & rice aids weight reduction with fewer calories, L-carnitine for fat conversion & Yucca extract for antioxidants.
-  Updated: 2025-10-05T17:28:19Z
+  Updated: 2025-10-06T05:27:57Z
   Vendor: Arden Grange
   Product Type: Diet Dry
   Availability: Available
@@ -19314,7 +19307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-retractable-5m-tape-dog-lead-collars-leads-dog-53-kg-924345.jpg?v=1708112225
     Price: £21.09 GBP
 - [Ancol Viva Reversible Dog Coat Pink/Purple](https://veryimportantpets.shop/products/ancol-viva-reversible-dog-coat-pink-purple): Ancol Viva Reversible Coat. Shop online at Very Important Pets
-  Updated: 2025-10-05T16:21:28Z
+  Updated: 2025-10-06T06:04:56Z
   Vendor: Ancol
   Product Type: 
   Availability: Available
@@ -23967,8 +23960,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-04T21:27:48Z
   Total Products: 144
 - [PawHut - Quality Pet Products for Home and Outdoors](https://veryimportantpets.shop/collections/pawhut): PawHut - Quality Pet Products for Home and Outdoors - Very Important Pets | Shop
-  Updated: 2025-10-03T15:31:00Z
-  Total Products: 359
+  Updated: 2025-10-06T07:31:16Z
+  Total Products: 358
 - [Small Animal Supplies - Foods, Habitats, Healthcare | VIPs](https://veryimportantpets.shop/collections/small-pets): Shop for premium small animal products at Very Important Pets. Find food, healthcare, toys, bedding, and more for your pet's health and happiness.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
@@ -24042,8 +24035,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-07-04T15:31:21Z
   Total Products: 24
 - [Rabbit & Guinea Pig Hutches | Very Important Pets | Shop](https://veryimportantpets.shop/collections/rabbit-guinea-pigs-hutch): Small Animal Hutch - Rabbit & Guinea Pigs - Very Important Pets | Shop
-  Updated: 2025-09-23T23:31:00Z
-  Total Products: 39
+  Updated: 2025-10-06T07:31:16Z
+  Total Products: 38
 - [Small Animal Supplies - Very Important Pets | Shop](https://veryimportantpets.shop/collections/small-animal-supplies): Small Animal Supplies - Very Important Pets | Shop
   Updated: 2024-05-25T13:19:49Z
   Total Products: 0
@@ -24624,8 +24617,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-04-24T15:30:45Z
   Total Products: 7
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-05T22:36:17Z
-  Total Products: 2306
+  Updated: 2025-10-06T07:31:16Z
+  Total Products: 2305
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
   Total Products: 14
