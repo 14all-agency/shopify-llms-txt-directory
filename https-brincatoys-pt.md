@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-06T08:01:10.326Z
+- Updated At: 2025-10-06T12:01:10.985Z
 
 ## Products
 
@@ -5179,7 +5179,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lobo-guara-430036723-brincatoys-1178694235.jpg?v=1752853205
   Price: 9,00 € EUR
 - [LOL Surprise OMG Swag](https://brincatoys.pt/products/lol-surprise-omg-swag): Fá-lo sem medo. Make it Fashion. Faça-a Feroz. Encontra o teu FIERCE com a LOL Surpresa OMG Fierce Fashion Dolls! As bonecas LOL Surprise OMG Fierce são de colecção, podem ser posadas na perfeição, destacam-se com um novo tamanho de 30 cm, novo rosto com características impressionantes, esculturas de corpo, e novas modas elegantes e de alta qualida
-  Updated: 2025-10-04T15:12:46Z
+  Updated: 2025-10-06T08:06:01Z
   Vendor: LOL Surprise
   Product Type: + 4 anos
   Availability: Available
@@ -10722,7 +10722,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/nerf-microshots-fortnite-micro-rl-90673919-nerf-1178696037.png?v=1752885132
   Price: 11,50 € EUR
 - [Bluey Restaurante Chique](https://brincatoys.pt/products/bluey-restaurante-chique): Coleccione todos os personagens que representam os protagonistas da popular série de TV Bluey. Todas as figuras têm aproximadamente 7 cm de altura e são adequadas para mãos pequenas! Divirta-se recriando as aventuras do desenho animado com os seus filhos. Dimensão: 14 x 15,50 x 6,50 cm.Idade Recomendada. + de 3 anos.
-  Updated: 2025-09-29T21:59:14Z
+  Updated: 2025-10-06T09:23:01Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -15331,7 +15331,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/nerf-elite-2-0-set-de-50-dardos-90948424-5010993747580-nerf-1178698673.jpg?v=1752796323
   Price: 12,50 € EUR
 - [Mercedes Atego 1530F Magirus](https://brincatoys.pt/products/mercedes-atego-1530f-magirus): Apresentamos o espetacular Mercedes Atego 1530F Magirus, uma réplica em miniatura deste robusto e confiável veículo de combate a incêndios. Inicialmente, vale ressaltar que este produto é um testemunho da engenharia e do design, não somente útil mas também uma peça colecionável encantadora. O modelo ostenta cores vibrantes típicas dos veículos de emergência, com um vermelho dominante que promete capturar a atenção onde quer que seja exposto. Conceituada pela qualidade, esta miniatura Bburago apresenta um acabamento impecável, evidente ao primeiro olhar. Além disso, inclui detalhes intrincados, como portas que se abrem e uma escada extensível, que promovem uma experiência interativa e realista. Cada componente da miniatura foi construído com o intuito de refletir fielmente o veículo original, satisfazendo assim os colecionadores mais exigentes. Importante destacar o seu material de alta resistência. Constituído predominantemente de metal die-cast com partes em plástico, garante durabilidade e a possibilidade de manipulação sem receios. Igualmente notável é a escala 1:50, que oferece o equilíbrio perfeito entre detalhe e conveniência de tamanho, propiciando fácil manuseio e exposição. Este produto é adequado para entusiastas de todas as idades, desde o jovem admirador de caminhões de bombeiros até o colecionador veterano em busca de uma adição distinta à sua coleção. Além disso, enriquece qualquer ambiente, pois seu caráter educativo e decorativo é inegável, despertando curiosidade e admiração. Outrossim, constitui um presente perfeito para qualquer ocasião, simbolizando proteção e bravura. Apresente ao seu filho o mundo dos veículos de emergência com o carro de brinquedo à escala 1:50 do Mercedes-Benz Atego Magirus DLK 23/12 Red da Bburago. Adquira já o seu Mercedes Atego 1530F Magirus e dê asas à imaginação, celebrando o heroísmo dos bombeiros e a excelência automobilística da Mercedes. Em suma... Réplica detalhada e fiel à original; Materiais de alta qualidade que asseguram durabilidade; Escala 1:50, ideal para colecionadores e entusiastas; Elementos interativos como portas móveis e escada extensível. Dimensão: 22 x 9 x 6,50 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-05T15:59:59Z
+  Updated: 2025-10-06T08:56:26Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -16150,7 +16150,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-princesa-disney-elsa-com-vestido-prateado-772187524-2600000-princesas-disney-1178699372.jpg?v=1752940216
   Price: 19,99 € EUR
 - [Boneca Princesa Disney - Elsa com Vestido Azul](https://brincatoys.pt/products/boneca-princesa-disney-elsa-com-vestido-azul): A encantadora Boneca Princesa Disney - Elsa com vestido azul inspira magia e aventura. O presente ideal para os fãs de Frozen. Estimule a imaginação!
-  Updated: 2025-10-05T14:50:33Z
+  Updated: 2025-10-06T10:34:13Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -20231,7 +20231,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/urso-de-peluche-eva-30-cm-522215925-7340031318723-brincatoys-1178692441.jpg?v=1752822852
   Price: 29,99 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-cornelia-40-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-09-29T20:50:45Z
+  Updated: 2025-10-06T10:48:00Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -20345,7 +20345,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cry-babies-loving-care-jenna-boneca-interativa-850980925-8421134909809-brincatoys-1178692414.jpg?v=1752822603
   Price: 31,90 € EUR
 - [Boneca Frozen - Elsa Viajante: Magia e Aventura](https://brincatoys.pt/products/boneca-frozen-elsa-viajante): Descubra a Boneca Frozen - Elsa Viajante e inspire a imaginação com sua elegância! As crianças vão adorar recriar cenas mágicas! ❄️
-  Updated: 2025-10-05T15:55:53Z
+  Updated: 2025-10-06T10:43:53Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -21173,7 +21173,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mealheiro-dos-smurfs-smurfette-16-cm-para-poupar-238009925-3521320802985-brincatoys-1196092352.jpg?v=1759621805
   Price: 22,50 € EUR
 - [Godzilla x Kong - One-Eye: O Tenente do Skar King](https://brincatoys.pt/products/godzilla-x-kong-one-eye): Prepare-se para intensas batalhas com Godzilla x Kong - One-Eye! Esta figura impressionante traz detalhes incríveis e articulações para poses dinâmicas. 🦖
-  Updated: 2025-10-05T16:19:56Z
+  Updated: 2025-10-06T09:50:28Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -21208,7 +21208,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-05T11:20:43Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 184
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-09-30T11:41:23Z
@@ -21313,7 +21313,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T14:59:05Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-05T15:00:33Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 169
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-10-05T15:21:00Z
@@ -21340,7 +21340,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T17:12:02Z
   Total Products: 332
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 1571
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-05T16:19:56Z
@@ -21361,22 +21361,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T19:22:59Z
   Total Products: 1307
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 2410
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 2874
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3256
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3389
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3468
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3517
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-05T19:24:23Z
@@ -21448,7 +21448,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T16:51:43Z
   Total Products: 18
 - [Monopoly](https://brincatoys.pt/collections/monopoly)
-  Updated: 2025-09-30T11:21:03Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 13
 - [Play-Doh](https://brincatoys.pt/collections/play-doh)
   Updated: 2025-10-05T15:18:37Z
@@ -21568,19 +21568,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3550
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-05T19:22:59Z
   Total Products: 291
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-10-05T15:16:44Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 185
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-10-05T15:32:48Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 1211
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-05T16:19:56Z
@@ -21601,13 +21601,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:16:44Z
   Total Products: 91
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-10-05T10:36:33Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3550
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3550
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-05T14:54:25Z
@@ -21619,7 +21619,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3064
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
@@ -21628,7 +21628,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:40:01Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T11:23:20Z
   Total Products: 3064
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-05T19:24:22Z
