@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-05T16:00:34.869Z
+- Updated At: 2025-10-06T00:00:32.926Z
 
 ## Products
 
@@ -1033,7 +1033,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/222-Lirene-PERFECT-TAN-Self-tanning-mousse-foam-for-face-and-body-MACCHIATO-150-ml-1.png?v=1737381476
   Price: ALL 2,015.00 ALL
 - [Lirene PERFECT TONE Skin color matching foundation 30 ml - Amar Pharma - Lirene - Fondatinë](https://amar.al/products/lirene-perfect-tone-skin-color-matching-foundation-30-ml): Pigmentet inovative “soft focus” perputhen me tonin natyral te lekures duke shtuar rrezatim, freski dhe shkelqim te shendetshem. Fondatina siguron mbulim te mjaftueshem pa u ndjere shume e rende ne lekure. Pas perthithjes se kremit tuaj te preferur, aplikoni fondatine ne lekuren e fytyres duke perdorur duart, nje furce apo sfungjer makeup-i. Mund ta rrisni mbulimin e fondatines duke aplikuar nje tjeter shtrese ne gjithe fytyren ose ne fragmete te saj. Per mbulik akoma me te mire aplikoni nje shtrese te dyte. - Amar Pharma - Lirene - Fondatinë
-  Updated: 2025-10-04T15:30:52Z
+  Updated: 2025-10-05T17:05:08Z
   Vendor: Lirene
   Product Type: Fondatinë
   Availability: Available
