@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-06T08:00:28.810Z
+- Updated At: 2025-10-06T12:00:29.126Z
 
 ## Products
 
 - [Jellyfish Mood Lamp LED Color Changing Night Light & Room Decor](https://fusionvibestore.com/products/jellyfish-mood-lamp-led-jellyfish-night-light-portable-jellyfish-lamp-jellyfish-decorations-smart-table-lamp-for-bedside-desk): Create a calming atmosphere! The Julyfish LED mood lamp projects a beautiful aquatic light, perfect for night lights, meditation, or modern home decor. Portable with multiple colors. Shop today. Product Information: Size: 85 * 166mm Specifications: hanging, hanging base Product Name: voice control jellyfish lamp Light color: full-color gradient. Jellyfish lamp number of touching feet: 9 (6 short and 3 long) Charging Interface: Type-C Charging duration: 1.5h Battery capacity: 1000mAh Operating voltage: 5V Packing List: 1*Jellyfish Lamp Product Image:
-  Updated: 2025-09-26T20:34:58Z
+  Updated: 2025-10-06T09:56:37Z
   Vendor: null
   Product Type: Gadgets
   Availability: Available
@@ -41,28 +41,28 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-09-26T20:31:49Z
+  Updated: 2025-10-06T09:56:37Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5043419837.jpg?v=1757492266
   Price: $1,238.00 USD
 - [Professional Electronic Pedicure Tool | Callus & Dead Skin Remover](https://fusionvibestore.com/products/electronic-pedicure-tool): Salon-quality pedicures at home! This electronic pedicure tool safely and effectively removes calluses and dead skin. Leaves your feet feeling soft and smooth. Order now.
-  Updated: 2025-10-05T16:32:56Z
+  Updated: 2025-10-06T09:56:37Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4981101820.jpg?v=1757492380
   Price: $9.56 USD
 - [Magnetic Desk Lamp | Flexible Gooseneck LED Light for Office & Study](https://fusionvibestore.com/products/magnetic-lamp-light): Illuminate your workspace! This magnetic base lamp features a flexible gooseneck for perfect positioning. Bright LED light ideal for desks, workshops, or reading. Get yours today!
-  Updated: 2025-09-26T20:27:16Z
+  Updated: 2025-10-06T09:56:37Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8273983222.jpg?v=1757520343
   Price: $11.56 USD
 - [Women's Long Sleeve Casual Dress | Fashion Everyday & Office Wear](https://fusionvibestore.com/products/womens-long-sleeve-fashion-casual-dress): Stay stylish and comfortable. This women's long sleeve casual dress is perfect for everyday wear, the office, or a day out. Flattering fit and versatile design. Shop the collection now. Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
-  Updated: 2025-09-26T20:22:38Z
+  Updated: 2025-10-06T09:56:37Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-10-05T08:26:10Z
+  Updated: 2025-10-06T09:56:37Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-05T14:35:10Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -336,7 +336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b08e3a55-0f55-442b-8355-85b43df714d4.jpg?v=1758013104
     Price: $47.78 USD
 - [YD03 Wireless Earbuds with Large Screen Case | Bluetooth 5.3 TWS Headphones](https://fusionvibestore.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light): Experience crystal-clear sound! The YD03 TWS earbuds feature a large display case, Bluetooth 5.3, and long battery life. Perfect for music, calls, and gaming. Order your wireless headset now. Specification: Item model number: Yd03 Battery life: 4~5 hours Bluetooth version: 5.3 Transmission distance: Within 10 meters Charging compartment size: 80.8*55*30.7 mm Headphone size: 24* 16.8* 14.5mm Packing list: Earphone*1+usb data cable*1+instruction manual*1
-  Updated: 2025-09-26T20:14:45Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -358,7 +358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1758013249
     Price: $25.36 USD
 - [3-Piece Cozy Pajama & Lounge Set | Matching Winter Loungewear](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set): Ultimate comfort! This adorable 3-piece pajama set is perfect for lounging or sleeping. Soft, warm, and stylish. Get your matching winter loungewear set today with fast delivery. Specification: Style: a pants suit Top style: vest Top sleeve length: long sleeve Pants style: wide-leg pants Length: trousers Craft: Collage/Stitching Fabric Name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 30%-50% Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 100% Lining composition: polyester fiber (polyester) Lining ingredient content: 100% Color: white, pink, camel Size: S, M, L, XL Package content: 1 x Set 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size is between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose a size, please contact our customer service. 3. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-02T08:27:03Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -460,7 +460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f984af29-004b-4ad7-9cc1-863347f45a1c.jpg?v=1758036902
     Price: $40.46 USD
 - [High-Waisted Seamless Butt-Lifting Shorts | Sexy Ladies' Pants](https://fusionvibestore.com/products/high-waisted-ladies-triangle-seamless-waist-pants-sexy-shorts-with-raised-buttocks): Material information: Get the perfect lift! These high-waisted seamless shorts are designed to enhance your curves. Made with stretchy, comfortable fabric for a sexy, smooth look under any outfit. Free shipping. Size Information: Size: S, XXXL, M-L, XL-XXL S M~L XL~XXL 3XL Waist width 28.01 29.98 31.89 34.09 Waist 26.04 27.94 30.48 31.75 Total length 37.47 30.05 40.54 41.81 Foot circumference 21.36 22.93 24 25.47 Unit: cm 1.Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. P acking list: Waist pants*1
-  Updated: 2025-09-26T20:10:12Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -578,7 +578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1653352004645.jpg?v=1758038890
     Price: $18.98 USD
 - [Creative Q Sunrise Alarm Clock with Digital Display](https://fusionvibestore.com/products/creative-q-light-analog-sunrise-digital-display-alarm-clock-bluetooth-audio-intelligent-wake-up-q-colorful-atmosphere-light): Wake up naturally! The Creative Q Sunrise Alarm Clock combines a gentle light simulation with a clear digital display. Features a full-spectrum sunrise, FM radio, and customizable sounds. Shop now. Product Image:
-  Updated: 2025-09-26T20:07:57Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -608,7 +608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/01332ecd-7d2e-4cb5-b901-47edd90100cf.jpg?v=1758616058
     Price: $48.56 USD
 - [Men's And Women's Warm Running Beanie Biking Mountain Climbing Training Sports Cap](https://fusionvibestore.com/products/mens-and-womens-warm-running-beanie-biking-mountain-climbing-training-sports-cap): Product information: Pattern: solid color Applicable scenario: Running Color: black, white, dark gray, light gray, navy blue, sky blue, royal blue, army green, purple, Ocean green, red, Rose Red, camel, brown, orange, yellow, pink, fluorescent green, wine red, army green camouflage, black basketball grid, blue and white grid, red camouflage, blue and gray camouflage, orange camouflage, khaki green grid Fabric: Spandex/Lycra Application scenario: Outdoor Size: average size Applicable gender: neutral/both men and women Inventory Type: whole transaction Applicable age: Adult Style: Sports Packing list: Cap x Light Grey2pcs+Sapphire Blue2PCS+Black2PCS Product Image:
-  Updated: 2025-10-02T20:44:25Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -650,7 +650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/44aa0790-166e-4590-b544-0badfe026819_fine.jpg?v=1759126335
     Price: $13.78 USD
 - [Fusion Vibe Gift Card](https://fusionvibestore.com/products/fusion-vibe-gift-card): Give the gift of choice! 🎁The Fusion Vibe Gift Card lets your friends and loved ones pick their favorite gadgets and lifestyle products from our store.
-  Updated: 2025-09-30T10:08:59Z
+  Updated: 2025-10-06T09:56:38Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -668,7 +668,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Women Retro Sunglasses](https://fusionvibestore.com/products/women-retro-sunglasses): Product information: Frame material: metal Lens color: grey, tawny Frame color: gold, silver Polarization or not: No Glasses structure: frame Glasses style: round frame
-  Updated: 2025-10-02T19:33:22Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: Sunglasses
   Availability: Available
@@ -730,28 +730,28 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/725992634024.jpg?v=1759341546
     Price: $15.63 USD
 - [5-in-1 Electric Shaver for Men | Rechargeable Beard & Nose Trimmer](https://fusionvibestore.com/products/5-in-1-multifunctional-electric-shaver-5-blade-razor-for-men-shaved-head-rechargeable-shaving-machine-beard-nose-hair-trimmer): Overview： A waterproof design Can be used in the bathroom dry or wet shaving, You can use it with shaving cream, you can put it into the water to clean. Features: This trimmer is a 5-in-1 multifunctional electric shaver. The handle is comfortable to hold and easy to use. Adapt to the contours of your face and neck with a unique 4D rotating floating blade. The 5 floating blades have a larger contact surface and a tighter shaving experience. The appearance is more luxurious, and every shave becomes a perfect facial massage. IPX7 is waterproof and can be used with water, foam, or gel to make it smoother in the shower or even shaving. Comfortable, non-slip, detachable, easy to clean and maintain. USB fast charging, durable. The perfect razor is the best gift for a husband and father. Specification： Material: ABS Power mode:Rechargeable Cleaning method: Body wash Shaver charging time: 8 hours Shaver head: Other heads Maximum power: 3w Color: Black gold Specifications: 1 machine, 5 heads Accessories： Nose hair device head, cleansing instrument head, haircut head + caliper, brush Package Content: 1x Electric shaver CJXFZNZN00269-Black gold set=CJXFZNZN00269-Black gold+ CJXFZNZN00269-Accessories CJXFZNZN00269-Black gold EU Plug set =CJXFZNZN00269-Black gold EU plug + CJXFZNZN00269-Accessories
-  Updated: 2025-10-02T20:13:23Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/756325f6-82dc-4d87-969d-2bd23a02a285.jpg?v=1759342037
   Price: $18.71 USD
 - [12V Kids Electric Ride-On UTV | Remote Control Off-Road Toy Car](https://fusionvibestore.com/products/12v-kids-off-road-utv-electric-ride-on-car-black-camouflage-high-roof-remote-control-lights-mp3-adventure-toys)
-  Updated: 2025-10-02T21:06:42Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3f8fe164-1b33-4eb3-862e-205b550ef387.jpg?v=1759342689
   Price: $476.24 USD
 - [1 Set Bedside Table Lamp Touch Control Lamp With Clock Wireless Charging LED Desk Lamp Dimmable Nightstand Reading Lamp](https://fusionvibestore.com/products/1-set-bedside-table-lamp-touch-control-lamp-with-clock-wireless-charging-led-desk-lamp-dimmable-nightstand-reading-lamp): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only,the actual shipping carrier would be depended by the location,address,package dimension, product category, geographic location. *Features*: *Dimmable Touch Sensor Lamp*:Come with a sensitive touch sensor and a dimmer,our touch control lamp offers a much more generous target than a tiny toggle switch. Just tap anywhere on the aluminum frame to alter the light mode(white light–natural light-warm light)or long press the aluminum frame to adjust the brightness steplessly. *Wireless Charging & USB Charging Port*:This bedside table lamp doubles as a wireless charging dock as well as a light source,effectively reducing desktop clutter and keeping cord wrangling to a minimum.10W wireless fast charging greatly saves charging time and is fit for iPhone 13/13 mini/13 Pro/13 Pro Max/iPhone 12/12 mini/12 Pro/12 Pro Max/11/11 Pro/11 Pro Max/XS MAX/XR/XS/X/8/8 Plus and Samsung Galaxy S20/S10 plus and etc.. Besides,the extra 5V 1A charging port makes it compatible with more devices. *Digital Clock*:The digital clock design allows you to check time anytime you want during working,reading,and studying. You can also customize the backlight brightness of the clock according to your own habits. *Eye-friendly*:Flicker-free LED light source ensures visual comfort while reading at night,ideal for office,college dorm,reading room,living room,bedroom and bedside. *Minimalism Decoration*:The stripped-down design could be perfect for those who want to cut down on their desktop clutter or distractions,a sharp way to elevate your living room,bedroom,or office. *Specifications*: Product Type: Table Lamp Color: White + Wood Material: Wood + Aluminum Input: 9V 2A Output: 5V 1A Power: 10W Luminous Flux: 2701lm Color Temperature: 3000K-4500K-6000K Table Lamp Size: 29.8*16*7.8cm/11.7*6.3*3.1in Table Lamp Weight: 0.66lbs USB Charging Cable Length: 102cm/40.2in Package Size: 30.5x17x8.5cm/12x6.69x3.34in Package Weight: 522g/1.15lbs *Package Lists*: 1*Table Lamp 1* USB Charging Cable 1* User Manual
-  Updated: 2025-10-02T06:37:26Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: Gadgets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5be583a0-90fd-4eff-9f5a-86bcf689a869.jpg?v=1759342969
   Price: $50.07 USD
 - [Rechargeable Facial Steamer & Sprayer | At-Home Hydration](https://fusionvibestore.com/products/home-rechargeable-water-replenishing-instrument-steamed-face-sprayer): Overview: 1.Nano technology: convert water into a large number of water molecules, water quickly penetrates into the bottom layer of the skin and replenishes the skin, make the skin smooth, elastic and tender. 2.Mini size and portable: fill water anytime, anywhere.Foreverlily Larger water tank, 38ML large visible water tank is convenient for water amount observation. 4.2 In 1 function: a facial mister, a skin tester, and a portable power bank. Note: 1. Due to the difference between different monitors, the picture may not reflect the actual color of the item. We guarantee the style is the same as shown in the pictures. 2. Please allow slight dimension differences due to different manual measurements. Specification: Model: v29.v27.v39 Gear position: 1 gear Spray heat: Cold spray Fog time: 121-180 seconds Color: (three in one) test card box white, (three in one) test card box pink, (two in one) V27 card box white, (two in one) V27 card box pink, (two in one) 1) V27 card box type green, (two in one) V27 card box type purple Use body parts: Face, eyes, whole body, nasal cavity Package Content: 1 * Facial Mister 1 * USB 1 * manual 1 * box
-  Updated: 2025-10-02T06:38:10Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: Gadgets
   Availability: Available
@@ -781,7 +781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2903836891585.jpg?v=1759343558
     Price: $15.69 USD
 - [V Back Scrunch Butt Leggings for Women | Seamless Gym & Yoga](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist): Temu platform sheet currently supports: USPS UPS FEDEX UNI Butt lift Leggings: sexy booty leggings for women butt lift, stretchy hips lifting leggings, push up your bum into a juicepeach, leg bottom leggings show your curve gorgeously. High Quality & Garment Care: 90%Polyamide 10%Elastane. Power stretch fit, Naturally breathable, Non see-through. It's made of high quality materials, Great for for your workout gym and casual. Machine wash cold, Do not bleach Stretchy Seamless Leggings: The fabric stretches in all directions, allowing you to move freely without any restrictions. From training to yoga, they are squat proof and truly stay in place during intense workout positions. Moisture wicking, Soft, Smooth, Low-friction and Long-lasting comfortable performance. High Waist: These yoga pants designed with high waistband and tummy control, contour your curves and give you a streamlined look. It offers all the support and compression for your tummy and butt to get back in its original shape. Ultra-supportive but less rubbing and chafing. Applicable Occasions:This leg workout pants can make you perfect for yoga, fitness, dancing, running, pilates, hiking and other sports. You can also use it in your daily life such as work, school, shopping, traveling, party and so on.
-  Updated: 2025-10-02T20:07:44Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: CLOTHING
   Availability: Available
@@ -831,7 +831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f9185498-1690-49d7-bb9a-bdb229ba3d99_0a4d2bdb-34a4-452e-8d1d-d6815c056dd9.jpg?v=1759343804
     Price: $18.69 USD
 - [P9 Pro Max Wireless Over-Ear Headphones | Hi-Fi Stereo Bass, ENC Noise Cancelling, Bluetooth 5.4, Gaming & Sports Headset with Mic](https://fusionvibestore.com/products/p9-pro-max-wireless-over-ear-headphones-hi-fi-stereo-bass-enc-noise-cancelling-bluetooth-5-4-gaming-sports-headset-with-mic): Experience immersive sound and next-level comfort with the P9 Pro Max Wireless Headphones. Designed for music lovers and gamers alike, these over-ear headphones deliver Hi-Fi stereo audio with deep bass and Environmental Noise Cancellation (ENC) for clear calls and distraction-free listening. Featuring Bluetooth 5.4 for fast, stable connectivity and a low wireless delay, they are perfect for gaming, movies, and everyday use. With 10–15 hours of playtime and a quick Type-C fast charge (1–3 hours), you’ll enjoy all-day entertainment without interruptions. The touch + button controls, built-in microphone, and LED battery indicator make them easy to use, while the lightweight over-ear design ensures comfort during long listening sessions. ✅ Key Features: Over-ear Hi-Fi stereo headset with dynamic sound Powerful bass & ENC noise cancellation Bluetooth v5.4 with stable wireless connection 10–15 hours battery life, fast Type-C charging LED battery indicator & intuitive touch controls Built-in microphone for hands-free calls Perfect for music, gaming, and sports Upgrade your audio experience with the P9 Pro Max Wireless Headphones – where style meets performance.
-  Updated: 2025-10-05T02:41:05Z
+  Updated: 2025-10-06T09:56:39Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
@@ -849,21 +849,21 @@
     Availability: Available
     Price: $28.30 USD
 - [Kalobee SK45 Pro Smart Watch with 3 Straps | 1.53" HD IPS Screen, Waterproof IP68, Bluetooth Calling, Fitness & Health Tracker](https://fusionvibestore.com/products/kalobee-sk45-pro-smart-watch-with-3-straps-1-53-hd-ips-screen-waterproof-ip68-bluetooth-calling-fitness-health-tracker): Stay connected and track your health in style with the Kalobee SK45 Pro Smart Watch. Designed for both men and women, this high-performance smartwatch combines premium materials with advanced features, making it perfect for fitness, work, and everyday use. Equipped with a 1.53” IPS HD display (360×360 resolution), the SK45 Pro offers crystal-clear visuals and a customizable dial interface. With Bluetooth 3.0/5.3 support, you can enjoy hands-free calls, message reminders, and AI voice assistant access right from your wrist. The watch includes multiple health and fitness features such as heart rate monitoring, sleep tracking, calorie tracking, step counting, GPS motion trajectory (via app), and multiple sports modes. With its IP68 waterproof rating, it’s safe for daily use, workouts, and outdoor activities. Its 300mAh battery provides up to 4 days of usage on a single charge, and the magnetic wireless charging ensures quick and hassle-free power-ups. The package includes 3 interchangeable straps (silica gel) for versatile style and comfort. ✅ Key Features: 1.53” IPS HD screen, 360×360 resolution IP68 waterproof design for fitness & daily wear Bluetooth calling, message & notification reminders AI assistant, music control & camera remote Health tracking: heart rate, sleep monitor, calorie & step counter GPS sports tracking (via FitCloudPro app) 300mAh battery with wireless magnetic charging Includes 3 stylish interchangeable straps Supports 20+ languages including English, Hindi, Arabic, Spanish & more Upgrade your lifestyle with the Kalobee SK45 Pro Smart Watch – a perfect mix of fashion, fitness, and functionality.
-  Updated: 2025-10-05T04:20:57Z
+  Updated: 2025-10-06T09:56:40Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_148_H371464a5a4e448c8a843e92c608ae9ffs.jpg_350x350_c7547447-da18-4890-b075-9f435cd6e8d0.jpg?v=1759584396
   Price: $35.98 USD
 - [High-Quality Camouflage Wireless Headphones | Graffiti Style, Bluetooth 5.3, LED Battery Indicator, Gaming & Music Headset with Mic](https://fusionvibestore.com/products/high-quality-camouflage-wireless-headphones-graffiti-style-bluetooth-5-3-led-battery-indicator-gaming-music-headset-with-mic): Add bold style to your music and gaming sessions with the Camouflage Graffiti Wireless Headphones. Built for both performance and looks, these lightweight open-ear headphones deliver dynamic sound with powerful bass—perfect for mobile, PC, or gaming use. Featuring Bluetooth 5.3 for fast, stable connectivity and 30ms low latency, they ensure seamless audio whether you’re gaming, watching movies, or listening to music. With 5–10 hours of playtime, a 200–500mAh battery, and quick Type-C charging (1–3 hours), you’ll never miss a beat. Designed with IPX4 waterproof protection, LED battery indicator, and a stylish graffiti camouflage finish, they’re both durable and eye-catching. The built-in microphone lets you chat clearly during calls or online games, while the adjustable design provides comfort for extended use. ✅ Key Features: Stylish graffiti & camouflage design (5 color options) Bluetooth v5.3 with stable wireless connection 30ms low latency – ideal for gaming 5–10 hours battery life, 200–500mAh capacity LED battery indicator & quick 1–3 hour charging IPX4 waterproof for sweat & splash resistance Dynamic sound with built-in microphone Lightweight ABS construction, durable build Perfect for mobile, PC, and gaming Upgrade your audio style with the Camouflage Graffiti Wireless Headphones – where powerful sound meets street-inspired design.
-  Updated: 2025-10-05T10:46:41Z
+  Updated: 2025-10-06T09:56:40Z
   Vendor: FusionVibestore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_371_H40574c3e309a4245a6a2b55cf679c175Y.png?v=1759594440
   Price: $35.26 USD
 - [Letter Printed Men's Casual Sweater Suit](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit): Product information: Pattern: letter printing Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: Loose Applicable scenarios: Leisure Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's top + pants *1 Product Image:
-  Updated: 2025-10-06T07:58:32Z
+  Updated: 2025-10-06T09:56:40Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -916,11 +916,217 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
     Price: $28.48 USD
+- [Spring And Autumn Long-sleeved White Shirt Formal Wear Slim Fit Business Workwear](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear): Product information: Pattern: solid color Number of threads: 40 Color: gray, navy blue, slabstone gray, white, olive green, light blue, black, Burgundy, royal blue, brown, khaki Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: general Fabric name: four-sided elastic band Applicable scenarios: Leisure Main fabric composition: Cotton Style: light business Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shirt x1 Product Image:
+  Updated: 2025-10-06T09:56:40Z
+  Vendor: z60ja0-0n
+  Product Type: CLOTHING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01JqRfnV2IMdN7e7bNY__2218673939272-0-cib.jpg?v=1759739171
+  - [Black / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658409159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01Kyd5hY2IMdN95gAGn__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Black / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658441927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01Kyd5hY2IMdN95gAGn__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Black / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658474695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01Kyd5hY2IMdN95gAGn__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Black / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658507463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01Kyd5hY2IMdN95gAGn__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Black / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658540231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01Kyd5hY2IMdN95gAGn__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Black / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658572999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01Kyd5hY2IMdN95gAGn__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Brown / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658605767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01RzNnKY2IMdOnaGEA9__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Brown / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658638535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01RzNnKY2IMdOnaGEA9__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Brown / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658671303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01RzNnKY2IMdOnaGEA9__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Brown / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658704071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01RzNnKY2IMdOnaGEA9__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Brown / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658736839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01RzNnKY2IMdOnaGEA9__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Brown / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658769607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01RzNnKY2IMdOnaGEA9__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Gray / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658802375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01mZfD8P2IMdN95XdjO__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Gray / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658835143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01mZfD8P2IMdN95XdjO__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Gray / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658867911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01mZfD8P2IMdN95XdjO__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Gray / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658900679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01mZfD8P2IMdN95XdjO__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Gray / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658933447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01mZfD8P2IMdN95XdjO__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Gray / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658966215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01mZfD8P2IMdN95XdjO__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Khaki / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625658998983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01cxNfRX2IMdOnt6Hij__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Khaki / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659031751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01cxNfRX2IMdOnt6Hij__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Khaki / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659064519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01cxNfRX2IMdOnt6Hij__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Khaki / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659097287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01cxNfRX2IMdOnt6Hij__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Khaki / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659130055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01cxNfRX2IMdOnt6Hij__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Khaki / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659162823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01cxNfRX2IMdOnt6Hij__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Light Blue / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659195591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01IjXc4U2IMdN5r02I2__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Light Blue / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659228359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01IjXc4U2IMdN5r02I2__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Light Blue / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659261127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01IjXc4U2IMdN5r02I2__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Light Blue / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659293895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01IjXc4U2IMdN5r02I2__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Light Blue / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659326663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01IjXc4U2IMdN5r02I2__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Light Blue / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659359431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01IjXc4U2IMdN5r02I2__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Olive Green / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659392199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01oPUN3U2IMdN7802lr__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Olive Green / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659424967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01oPUN3U2IMdN7802lr__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Olive Green / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659457735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01oPUN3U2IMdN7802lr__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Olive Green / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659490503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01oPUN3U2IMdN7802lr__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Olive Green / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659523271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01oPUN3U2IMdN7802lr__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Olive Green / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659556039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01oPUN3U2IMdN7802lr__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sapphire Blue / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659588807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01yvu2qO2IMdOocfICm__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sapphire Blue / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659621575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01yvu2qO2IMdOocfICm__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sapphire Blue / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659654343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01yvu2qO2IMdOocfICm__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sapphire Blue / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659687111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01yvu2qO2IMdOocfICm__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sapphire Blue / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659719879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01yvu2qO2IMdOocfICm__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sapphire Blue / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659752647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01yvu2qO2IMdOocfICm__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sea Blue / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659785415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01W3JRfG2IMdN7d7bad__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sea Blue / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659818183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01W3JRfG2IMdN7d7bad__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sea Blue / M](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659850951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01W3JRfG2IMdN7d7bad__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sea Blue / S](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659883719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01W3JRfG2IMdN7d7bad__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sea Blue / XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659916487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01W3JRfG2IMdN7d7bad__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Sea Blue / XXL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659949255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01W3JRfG2IMdN7d7bad__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Slabstone Gray / 3XL](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625659982023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
+  - [Slabstone Gray / L](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear?variant=45625660014791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
+    Price: $15.45 USD
 
 ## Collections
 
 - [Home page](https://fusionvibestore.com/collections/frontpage)
-  Updated: 2025-09-29T06:12:19Z
+  Updated: 2025-10-06T09:56:37Z
   Total Products: 2
 - [Sunglasses](https://fusionvibestore.com/collections/sunglasses)
   Updated: 2025-10-01T17:59:11Z
@@ -929,10 +1135,10 @@
   Updated: 2025-10-05T16:32:57Z
   Total Products: 13
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
-  Updated: 2025-10-06T07:56:56Z
-  Total Products: 6
+  Updated: 2025-10-06T09:56:37Z
+  Total Products: 7
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-10-05T16:32:57Z
+  Updated: 2025-10-06T09:56:37Z
   Total Products: 11
 
 ## Store Pages
