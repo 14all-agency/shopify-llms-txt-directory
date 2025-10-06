@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-06T12:27:30.480Z
+- Updated At: 2025-10-06T20:00:27.809Z
 
 ## Products
 
@@ -1319,6 +1319,8 @@
   Updated: 2025-08-23T11:52:51Z
 - [Shipping & Return Policy](https://lnlboutiquexo.myshopify.com/pages/book-collection): Thank you so much for supporting my small handmade shop! Every order means the world to me, and I truly take the time to make each piece with love ...
   Updated: 2025-09-19T00:34:34Z
+- [Your privacy choices](https://lnlboutiquexo.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-10-06T19:15:08Z
 
 ## Policies
 
