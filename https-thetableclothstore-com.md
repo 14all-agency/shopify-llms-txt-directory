@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-06T00:00:38.327Z
+- Updated At: 2025-10-06T04:00:39.204Z
 
 ## Products
 
@@ -33741,6 +33741,9 @@
     Author: User
   - [Comparing Tablecloth Materials: Linen vs Cotton vs Polyester](https://thetableclothstore.com/blogs/news/comparing-tablecloth-materials-linen-vs-cotton-vs-polyester): Comparing Tablecloth Materials: Linen vs Cotton vs Polyester
     Updated: 2025-10-02T01:12:01Z
+    Author: User
+  - [Choosing the Right Tablecloth for Different Types of Events](https://thetableclothstore.com/blogs/news/choosing-the-right-tablecloth-for-different-types-of-events): Choosing the Right Tablecloth for Different Types of Events
+    Updated: 2025-10-06T01:03:49Z
     Author: User
 
 ## Store Pages
