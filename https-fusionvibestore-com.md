@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-06T04:00:29.615Z
+- Updated At: 2025-10-06T08:00:28.810Z
 
 ## Products
 
@@ -862,6 +862,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_371_H40574c3e309a4245a6a2b55cf679c175Y.png?v=1759594440
   Price: $35.26 USD
+- [Letter Printed Men's Casual Sweater Suit](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit): Product information: Pattern: letter printing Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: Loose Applicable scenarios: Leisure Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's top + pants *1 Product Image:
+  Updated: 2025-10-06T07:58:32Z
+  Vendor: z60ja0-0n
+  Product Type: CLOTHING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/301ecc40-a227-4b67-b635-01b521292d69.jpg?v=1759737406
+  - [Black / 2XL](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642483911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8948261a-3aad-4d36-b9f6-2c1d4b4aeadf.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Black / 3XL](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642516679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8948261a-3aad-4d36-b9f6-2c1d4b4aeadf.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Black / L](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642549447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8948261a-3aad-4d36-b9f6-2c1d4b4aeadf.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Black / M](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642582215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8948261a-3aad-4d36-b9f6-2c1d4b4aeadf.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Black / S](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642614983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8948261a-3aad-4d36-b9f6-2c1d4b4aeadf.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Black / XL](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642647751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8948261a-3aad-4d36-b9f6-2c1d4b4aeadf.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Green / 2XL](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642680519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Green / 3XL](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642713287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Green / L](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642746055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Green / M](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642778823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Green / S](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642811591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
+    Price: $28.48 USD
+  - [Green / XL](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit?variant=45625642844359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
+    Price: $28.48 USD
 
 ## Collections
 
@@ -875,8 +929,8 @@
   Updated: 2025-10-05T16:32:57Z
   Total Products: 13
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
-  Updated: 2025-10-02T15:38:26Z
-  Total Products: 5
+  Updated: 2025-10-06T07:56:56Z
+  Total Products: 6
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
   Updated: 2025-10-05T16:32:57Z
   Total Products: 11
