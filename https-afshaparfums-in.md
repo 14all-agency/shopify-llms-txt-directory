@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-06-07T09:35:30Z
 - Contact Email: afshaparfumsofficial@gmail.com
-- Updated At: 2025-10-05T16:00:29.859Z
+- Updated At: 2025-10-06T08:00:30.015Z
 
 ## Products
 
