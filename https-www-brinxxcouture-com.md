@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-06T08:00:48.054Z
+- Updated At: 2025-10-06T20:00:52.334Z
 
 ## Products
 
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-06T02:33:25Z
+  Updated: 2025-10-06T19:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10662,7 +10662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-06T04:38:35Z
+  Updated: 2025-10-06T10:41:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19627,7 +19627,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-06T01:00:27Z
+  Updated: 2025-10-06T14:27:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19797,7 +19797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Stretchy-Stitch-Pants-Brinxx-Couture-9428.jpg?v=1730295075
     Price: $39.99 USD
   - [Dusty Blue / 3XL](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae?variant=43370694803638)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Stretchy-Stitch-Pants-Brinxx-Couture-9428.jpg?v=1730295075
     Price: $39.99 USD
   - [Burgundy / S](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae?variant=43370694836406)
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-06T03:51:36Z
+  Updated: 2025-10-06T19:20:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24515,7 +24515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Fur-Large-Collared-Coat-Brinxx-Couture-4154.jpg?v=1730298299
     Price: $69.99 USD
 - [Eclipse Elegence Square Sunglasses - Brinxx Couture](https://www.brinxxcouture.com/products/eclipse-elegence-square-sunglasses): Shine bright with our Eclipse Elegence Square Sunglasses! These stylish frames are designed to make a statement and protect your eyes with UV400 lenses.
-  Updated: 2025-10-02T20:13:27Z
+  Updated: 2025-10-06T18:28:53Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -27977,7 +27977,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-7500.jpg?v=1733888716
     Price: $49.99 USD
 - [Brinxx Couture: Round Toe Block Heel Boots for Chic Style](https://www.brinxxcouture.com/products/round-toe-block-heel-boots): Shop the Round Toe Block Heel Boots at Brinxx Couture. Stylish and comfortable, these versatile boots are perfect for any occasion. Elevate your look today!
-  Updated: 2025-10-01T22:51:37Z
+  Updated: 2025-10-06T12:49:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33536,7 +33536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/438619e8-08fd-4295-810d-32b72d549014-Max-Origin.webp?v=1745331155
     Price: $29.99 USD
 - [Cutout Square Neck Wide Strap Knit Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cutout-square-neck-wide-strap-knit-dress): Get ready to turn heads with our Cutout Square Neck Wide Strap Knit Dress! This versatile piece features a unique cutout square neck design and wide straps.
-  Updated: 2025-10-03T17:28:37Z
+  Updated: 2025-10-06T12:39:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36362,6 +36362,194 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213A.jpg?v=1759501851
     Price: $29.99 USD
+- [Plus Size Surplice Short Sleeve T-Shirt | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt): Flattering plus size surplice t-shirt with ruched detailing. Stretchy, comfortable fabric in sizes L-5XL. Perfect for casual wear & layering. Shop now!
+  Updated: 2025-10-06T19:55:05Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+  - [Apricot / L](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317440966838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Apricot / XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317440999606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Apricot / 2XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441032374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Apricot / 3XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441065142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Apricot / 4XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441097910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Apricot / 5XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441130678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/ca16698a09094374b2a7c453c188dd5c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Burgundy / L](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441163446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/e0dafc096f704a959dcb6c2767f22736-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Burgundy / XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441196214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/e0dafc096f704a959dcb6c2767f22736-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Burgundy / 2XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441228982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/e0dafc096f704a959dcb6c2767f22736-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Burgundy / 3XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441261750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/e0dafc096f704a959dcb6c2767f22736-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Burgundy / 4XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441294518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/e0dafc096f704a959dcb6c2767f22736-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Burgundy / 5XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441327286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/e0dafc096f704a959dcb6c2767f22736-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Dark Green / L](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441360054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3bc9ed8506941ae9efc9d61444c567c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Dark Green / XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441392822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3bc9ed8506941ae9efc9d61444c567c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Dark Green / 2XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441425590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3bc9ed8506941ae9efc9d61444c567c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Dark Green / 3XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441458358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3bc9ed8506941ae9efc9d61444c567c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Dark Green / 4XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441491126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3bc9ed8506941ae9efc9d61444c567c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Dark Green / 5XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441523894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3bc9ed8506941ae9efc9d61444c567c-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Black / L](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441556662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Black / XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441589430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Black / 2XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441622198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Black / 3XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441654966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Black / 4XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441687734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+  - [Black / 5XL](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt?variant=44317441720502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
+    Price: $29.99 USD
+- [Lapel Collar Long Sleeve Coat - Classic Style | Brinxx](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat): Discover timeless elegance with our Lapel Collar Long Sleeve Coat. Classic tailoring meets modern style. Perfect for professional & casual wear. Free Shipping!
+  Updated: 2025-10-06T19:55:05Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/65176bf3-79fe-402b-bbd7-92366a092324-Max-Origin.webp?v=1759770640
+  - [Khaki / S](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444145334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/65176bf3-79fe-402b-bbd7-92366a092324-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Khaki / M](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444178102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/65176bf3-79fe-402b-bbd7-92366a092324-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Khaki / L](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444210870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/65176bf3-79fe-402b-bbd7-92366a092324-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Khaki / XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444243638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/65176bf3-79fe-402b-bbd7-92366a092324-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Khaki / 2XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444276406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/65176bf3-79fe-402b-bbd7-92366a092324-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Black / S](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444309174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/f46be09c-8dfe-410e-9f7b-b736bb724156-Max-Origin.webp?v=1759770641
+    Price: $54.99 USD
+  - [Black / M](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444341942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/f46be09c-8dfe-410e-9f7b-b736bb724156-Max-Origin.webp?v=1759770641
+    Price: $54.99 USD
+  - [Black / L](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444374710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/f46be09c-8dfe-410e-9f7b-b736bb724156-Max-Origin.webp?v=1759770641
+    Price: $54.99 USD
+  - [Black / XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444407478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/f46be09c-8dfe-410e-9f7b-b736bb724156-Max-Origin.webp?v=1759770641
+    Price: $54.99 USD
+  - [Black / 2XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444440246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/f46be09c-8dfe-410e-9f7b-b736bb724156-Max-Origin.webp?v=1759770641
+    Price: $54.99 USD
+  - [Brown / S](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444473014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/0a807bda-7813-43a7-bf51-c2b36aefea0b-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Brown / M](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444505782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/0a807bda-7813-43a7-bf51-c2b36aefea0b-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Brown / L](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444538550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/0a807bda-7813-43a7-bf51-c2b36aefea0b-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Brown / XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444571318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/0a807bda-7813-43a7-bf51-c2b36aefea0b-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Brown / 2XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444604086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/0a807bda-7813-43a7-bf51-c2b36aefea0b-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Gray / S](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444636854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Gray / M](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444669622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Gray / L](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444702390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Gray / XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444735158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
+  - [Gray / 2XL](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat?variant=44317444767926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
+    Price: $54.99 USD
 
 ## Collections
 
@@ -36429,8 +36617,8 @@
   Updated: 2025-10-03T15:34:59Z
   Total Products: 39
 - [Plus Size Tops & Curvy Women's Blouses - Brinxx Couture](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2025-10-03T14:53:47Z
-  Total Products: 26
+  Updated: 2025-10-06T17:09:46Z
+  Total Products: 27
 - [Plus Size Dresses | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
   Updated: 2025-10-02T17:11:55Z
   Total Products: 31
@@ -36474,8 +36662,8 @@
   Updated: 2025-10-02T17:11:56Z
   Total Products: 16
 - [Stylish Women's Coats | Winter, Trench, Wool & More](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2025-10-04T11:16:12Z
-  Total Products: 34
+  Updated: 2025-10-06T17:11:08Z
+  Total Products: 35
 - [Fashionable Women’s Scarves | Brinxx Couture](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2025-10-02T17:11:56Z
   Total Products: 5
