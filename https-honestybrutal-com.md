@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-04T16:00:30.153Z
+- Updated At: 2025-10-06T16:00:31.013Z
 
 ## Products
 
@@ -830,7 +830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/EmeraldNexusTeeFront.jpg?v=1756430630
     Price: $75.00 USD
 - [Prismatic Petals Tee](https://honestybrutal.com/products/prismatic-petals): The Artist Statement: Color bursts like a sudden bloom—Prismatic Petals scatters saturated reds, violets, golds, and greens across the body in radiant, petal-like forms. Each cluster feels in motion, hovering between floral and flame. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
-  Updated: 2025-10-04T14:12:56Z
+  Updated: 2025-10-05T17:02:19Z
   Vendor: Honesty Brutal
   Product Type: T-Shirt
   Availability: Available
@@ -2423,11 +2423,11 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5429620_4567-2025-09-03-22-16-02-176.jpg?v=1759500879
     Price: $245.00 USD
 - [Gossamer Jogger](https://honestybrutal.com/products/gossamer-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
-  Updated: 2025-10-04T15:46:01Z
+  Updated: 2025-10-05T10:02:53Z
   Vendor: Honesty Brutal
   Product Type: Unisex Joggers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/36e3ff4e-b081-40af-a891-6d1f93900776.png?v=1759592332
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/36e3ff4e-b081-40af-a891-6d1f93900776.png?v=1759594079
   - [X-Small](https://honestybrutal.com/products/gossamer-jogger?variant=46986959093980)
     Availability: Available
     Price: $195.00 USD
@@ -2446,12 +2446,12 @@
   - [2x-Large](https://honestybrutal.com/products/gossamer-jogger?variant=46986959257820)
     Availability: Available
     Price: $195.00 USD
-- [Nebula Jogger](https://honestybrutal.com/products/nebula-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
-  Updated: 2025-10-04T15:50:46Z
+- [Nebula Jogger](https://honestybrutal.com/products/nebula-jogger): Artist Statement The Nebula Jogger evokes the cosmic bloom of distant galaxies—bursts of emerald green, violet, and deep indigo colliding across black space. Inspired by Alex Z. Wang’s exploration of celestial abstraction, the design translates the boundless energy of the universe into wearable form, grounding the infinite in a daily essential. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-06T08:10:35Z
   Vendor: Honesty Brutal
   Product Type: Unisex Joggers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/fe5f5d05-1e93-4170-a3e0-45aa50e12dbf.png?v=1759592247
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/fe5f5d05-1e93-4170-a3e0-45aa50e12dbf.png?v=1759594045
   - [X-Small](https://honestybrutal.com/products/nebula-jogger?variant=46986959290588)
     Availability: Available
     Price: $195.00 USD
@@ -2470,12 +2470,12 @@
   - [2x-Large](https://honestybrutal.com/products/nebula-jogger?variant=46986959454428)
     Availability: Available
     Price: $195.00 USD
-- [Obsidian Jogger](https://honestybrutal.com/products/obsidian-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
-  Updated: 2025-10-04T15:59:14Z
+- [Obsidian Jogger](https://honestybrutal.com/products/obsidian-jogger): Artist Statement The Obsidian Jogger channels the molten drama of fire meeting stone—deep blacks, scorched orange, and cooled mineral blues flowing into one another. Inspired by volcanic landscapes, Alex Z. Wang translates the tension of heat and stillness into a wearable canvas that feels both raw and refined. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-05T11:23:51Z
   Vendor: Honesty Brutal
   Product Type: Unisex Joggers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/8d803466-b338-4cb5-8cde-bca2a0b79d43.png?v=1759593464
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/8d803466-b338-4cb5-8cde-bca2a0b79d43.png?v=1759594004
   - [X-Small](https://honestybrutal.com/products/obsidian-jogger?variant=46986959487196)
     Availability: Available
     Price: $195.00 USD
@@ -2494,12 +2494,12 @@
   - [2x-Large](https://honestybrutal.com/products/obsidian-jogger?variant=46986959651036)
     Availability: Available
     Price: $195.00 USD
-- [Night Petals Jogger](https://honestybrutal.com/products/night-petals-jogger): Artist Statement Bursts of crimson, moss green, and mineral blues collide in the Gossamer Jogger—a wearable translation of Alex Z. Wang’s layered abstractions. The shifting fields of color echo movement and rhythm, grounding this piece somewhere between painting and streetwear. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
-  Updated: 2025-10-04T15:56:35Z
+- [Night Petals Jogger](https://honestybrutal.com/products/night-petals-jogger): Artist Statement The Night Petals Jogger carries the drama of ink-soaked violets and muted blush tones—an echo of petals dissolving into twilight. Drawn from Alex Z. Wang’s Night Petals series, the design captures the tension between fragility and strength, making the jogger both statement and staple. Details • Made from 14oz 60% cotton / 40% polyester premium fleece • Shaped side seams for a modern, flattering fit • Roomy pockets for function and ease • Pill-resistant fabric for longer wear • Durable, high-definition direct-to-film (DTF) print • Sizes XS–2XL • Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is made to order—no overproduction, no waste. Prints are embedded directly into the fabric to resist fading through wear and wash. Because of the custom process, expect subtle variations that make every piece unique.
+  Updated: 2025-10-05T23:15:34Z
   Vendor: Honesty Brutal
   Product Type: Unisex Joggers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/f6e36d21-1533-494c-ae53-40b19b458fb0.png?v=1759593096
+  Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/f6e36d21-1533-494c-ae53-40b19b458fb0.png?v=1759593972
   - [X-Small](https://honestybrutal.com/products/night-petals-jogger?variant=46986959847644)
     Availability: Available
     Price: $195.00 USD
@@ -2531,19 +2531,19 @@
   Updated: 2025-10-03T13:22:08Z
   Total Products: 21
 - [Burst, Bloom, and Flow](https://honestybrutal.com/collections/burst-bloom-and-flow): Energy. Motion. Transformation. Burst, Bloom, Flow captures the raw intensity of creation—bold, fluid, and alive. Wear the motion. Feel the flow.
-  Updated: 2025-10-04T14:12:57Z
-  Total Products: 16
+  Updated: 2025-10-04T16:07:44Z
+  Total Products: 20
 - [First Impressions](https://honestybrutal.com/collections/honesty-brutal): Logo as statement. Be the pioneer.
   Updated: 2025-10-02T13:13:11Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-10-04T14:12:57Z
-  Total Products: 71
+  Updated: 2025-10-04T16:08:32Z
+  Total Products: 75
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-10-04T15:49:12Z
+  Updated: 2025-10-04T16:05:14Z
   Total Products: 57
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
   Updated: 2025-10-04T14:12:57Z
@@ -2594,6 +2594,8 @@
   Updated: 2025-09-08T17:55:17Z
 - [About Us | Honesty Brutal by Alex Z Wang](https://honestybrutal.com/pages/about-us): About Us Honesty Brutal is the vision of Alex Z. Wang, a New York–based multidisciplinary artist whose work spans oil painting, alcohol ink, and ph...
   Updated: 2025-09-09T13:47:49Z
+- [Honesty Brutal](https://honestybrutal.com/pages/product-genius): const n = document.querySelectorAll('main *:not(.gamalon-app *)'); n.forEach(e => { if(e.childNodes.length === 1 && e.firstChild.nodeType === 3 && ...
+  Updated: 2025-10-05T12:26:00Z
 
 ## Policies
 
