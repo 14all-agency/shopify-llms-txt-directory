@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-05T20:00:59.449Z
+- Updated At: 2025-10-06T00:01:01.472Z
 
 ## Products
 
@@ -1037,7 +1037,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [גרביים כדורגל מנצ'סטר יונייטד בית 24/25](https://www.rsport.co.il/products/football-socks-mnu-home-24-25): גרביים כדורגל מנצ'סטר יונייטד בית 24/25 מיועדות לאוהדים שרוצים נוחות וביצועים במגרש. עשויות מבד איכותי שמנדף זיעה ומעניק תחושת יובש לאורך כל המשחק. הגרביים מספקות גמישות ותמיכה מקסימלית, מתאימות לאימונים, למשחקים או ללבוש יום-יומי. השלימו את הלוק שלכם ותמכו בקבוצה עם פריט פונקציונלי ומעוצב, שמבטיח נוחות לאורך כל הפעילות.
-  Updated: 2025-10-05T13:38:28Z
+  Updated: 2025-10-05T23:01:34Z
   Vendor: R:SPORT
   Product Type: גרביים
   Availability: Available
@@ -1073,7 +1073,7 @@
     Availability: Available
     Price: ‏142.00 ‏₪ ILS
 - [חולצת משחקי חוץ מנצ'סטר יונייטד 24/25 אותנטית](https://www.rsport.co.il/products/football-shirt-match-mnu-away-24-25): תמוך במנצ'סטר יונייטד עם חולצת החוץ לעונת 2024/25 בעיצוב עדכני שמביא נגיעה מודרנית למראה הקלאסי של המועדון עשויה 100% פוליאסטר קל ונושם, מספקת נוחות מרבית ותחושת יובש לאורך כל משחק או אימון הגזרה האותנטית בהשראת החולצה שלובשים השחקנים על המגרש, מתאימה לאוהדים שרוצים להרגיש חלק מהקבוצה בכל רגע
-  Updated: 2025-10-05T13:38:28Z
+  Updated: 2025-10-05T22:47:45Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -10658,7 +10658,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק לבנה מהדורת זהב | קווין דוראנט](https://www.rsport.co.il/products/גופיית-משחק-לבנה-מהדורת-זהב-קווין-דוראנט): גופיית המשחק הלבנה מהדורת הזהב של קווין דוראנט משלבת עיצוב אלגנטי ומודרני עם איכות מקצועית. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא ונוחות לאורך כל המשחקים, אימונים או שימוש יום-יומי, עם צבע לבן מרהיב וטאצ' יוקרתי שמדגיש את הייחודיות של מהדורה זו.
-  Updated: 2025-10-04T14:01:06Z
+  Updated: 2025-10-05T21:12:22Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -16757,7 +16757,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו בורוסיה דורטמונד בית 1997/98](https://www.rsport.co.il/products/retro-shirt-home-1997-98-borussia-dortmund): חולצת רטרו בית 1997/98 של בורוסיה דורטמונד מזכירה עונות קלאסיות. בד נושם ונוח, מושלם לאוהדים שרוצים להרגיש את ההיסטוריה על המגרש.
-  Updated: 2025-10-04T13:38:20Z
+  Updated: 2025-10-05T22:39:11Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16799,7 +16799,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו באיירן מינכן חוץ 1998/99](https://www.rsport.co.il/products/retro-shirt-away-1998-99-bayern-munich): תמוך בבאיירן מינכן עם חולצת רטרו חוץ 1998/99. בד קל ונושם, מושלם למשחק או יום יום לאוהדים שמעריכים את העבר.
-  Updated: 2025-10-04T13:32:05Z
+  Updated: 2025-10-05T21:32:18Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -16820,7 +16820,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו באיירן מינכן בית 1995/97](https://www.rsport.co.il/products/retro-shirt-home-1995-97-bayern-munich): חולצת רטרו בית 1995/97 של באיירן מינכן מזכירה את העונות הגדולות. בד נושם ונוח, מושלם לאוהדים נוסטלגיים.
-  Updated: 2025-10-04T13:31:05Z
+  Updated: 2025-10-05T22:32:32Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17324,7 +17324,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ברצלונה בית 2012/13](https://www.rsport.co.il/products/retro-shirt-home-2012-13-barcelona): חולצת רטרו בהשראת מדים ביתיים של ברצלונה 2012/13. בד קל ונושם לנוחות מקסימלית ביום יום ובמשחק.
-  Updated: 2025-10-04T12:50:07Z
+  Updated: 2025-10-05T23:07:59Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -19927,7 +19927,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו ריאל מדריד חוץ 1999/00](https://www.rsport.co.il/products/חולצת-רטרו-ריאל-מדריד-חוץ-1999-00): חולצת רטרו ריאל מדריד חוץ 1999/00 איכותית ונוסטלגית, מושלמת למגרש
-  Updated: 2025-10-04T13:12:14Z
+  Updated: 2025-10-05T20:37:32Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
