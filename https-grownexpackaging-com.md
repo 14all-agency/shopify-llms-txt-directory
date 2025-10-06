@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-05T16:00:33.943Z
+- Updated At: 2025-10-06T00:00:36.429Z
 
 ## Products
 
@@ -1349,7 +1349,7 @@
     Availability: Not Available
     Price: ₹25,999.00 INR
 - [Grownex Black Matt Hamper Box, Durable Kapaboard - 9.5x7x3 Inch](https://grownexpackaging.com/products/black-matt-hamper-box-9-5x5x2-inch): Black Matt Hamper Box 9.5x7x3 inch: Perfect for creating elegant gift hampers. Features a glossy finish and machine made quality. Shop now!
-  Updated: 2025-09-22T05:39:33Z
+  Updated: 2025-10-05T19:15:30Z
   Vendor: Grownex Packaging
   Product Type: Hamper Box
   Availability: Available
@@ -3881,7 +3881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/Gemini_Generated_Image_e132xle132xle132_32753ce3-6a5a-43f2-809f-8e93a87fd240.png?v=1759578591
     Price: ₹21,999.00 INR
 - [8x8 inch Bride Gift Hamper Packing Baskets- Rose Red](https://grownexpackaging.com/products/red-basket): Handcrafted traditional wooden basket for sweets, dry fruits & gifts – ideal for Diwali, weddings & special occasions.
-  Updated: 2025-10-05T12:24:06Z
+  Updated: 2025-10-05T21:43:50Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -4061,7 +4061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/109_84fa66da-1c0d-4bb0-ace3-9dcb66405d63.jpg?v=1759583253
     Price: ₹22,999.00 INR
 - [8x8 inch Traditional Hamper Packing Baskets- Rani Pink](https://grownexpackaging.com/products/square-lace-rani-pink-basket): Celebrate timeless charm with this beautifully crafted traditional wooden basket. Made from high-quality wood, it brings an ethnic touch to your festive gifting and home décor. Ideal for packing sweets, dry fruits, or hampers during Diwali, weddings, and special occasions.
-  Updated: 2025-10-05T12:24:06Z
+  Updated: 2025-10-05T17:49:57Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -4151,7 +4151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/124.jpg?v=1759584626
     Price: ₹21,999.00 INR
 - [8x8 inch Traditional Hamper Packing Baskets- Red](https://grownexpackaging.com/products/square-lace-red-basket): Impress clients & colleagues with premium Diwali hamper baskets—filled with gourmet sweets, dry fruits, and beautifully arranged festive gifts.
-  Updated: 2025-10-05T12:24:06Z
+  Updated: 2025-10-05T21:25:55Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -6903,7 +6903,7 @@
     Availability: Available
     Price: ₹4,199.00 INR
 - [15 Cavity Folding Chocolate Box - Pink Peacock Vertical](https://grownexpackaging.com/products/15-cavity-folding-chocolate-box-pink-peacock-vertical): Key Features: Box Size: 23.5 x 14.6 x 3.18 cm. 15 individual cavities to keep chocolates neatly separated Sturdy and lightweight construction for durable and convenient use Folding design for secure packaging and elegant presentation Attractive pink peacock vertical design for a stylish look Perfect for gifting, festivals, and special occasions
-  Updated: 2025-09-30T11:37:56Z
+  Updated: 2025-10-05T21:11:06Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
