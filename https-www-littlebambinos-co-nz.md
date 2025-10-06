@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-06T00:00:48.787Z
+- Updated At: 2025-10-06T04:00:50.026Z
 
 ## Products
 
@@ -7077,28 +7077,28 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $159.00 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-05T21:25:56Z
+  Updated: 2025-10-06T00:19:22Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $185.00 NZD
 - [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-05T21:25:10Z
+  Updated: 2025-10-06T02:57:48Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
   Price: $159.00 NZD
 - [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-05T21:25:54Z
+  Updated: 2025-10-06T01:26:30Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/102Rainbow_6c6b0505-af46-40ab-a958-391aea7b1485.jpg?v=1702936126
   Price: $189.00 NZD
 - [CONNETIX Pastel Mega Pack 202pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-mega-pack-202pc): Explore a rainbow of pastel delight and let your imagination soar with our 202 Piece Pastel Mega Pack! Featuring all our standard tile shapes in 8 unique earthy pastel colours PLUS two car bases, this pack is the ultimate option to kickstart or grow your magnetic tile collection. Expand the range of colours children know with our hues of rose, berry, peach, mint, emerald, lemon, violet and sapphire. Providing endless possibilities for creativity and learning through PLAY, the Pastel Mega Pack is the perfect option for siblings, family and/or friends to enjoy building MEGA Connetix creations together!
-  Updated: 2025-10-05T20:10:20Z
+  Updated: 2025-10-06T00:19:22Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -7112,7 +7112,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelCreative2_1_b61dc548-95de-460a-9d4b-a51631622686.jpg?v=1702936343
   Price: $225.00 NZD
 - [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-10-05T20:10:22Z
+  Updated: 2025-10-06T00:19:21Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -9059,7 +9059,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-chestnut-copy): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-25T04:42:12Z
+  Updated: 2025-10-06T00:13:53Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9071,7 +9071,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-chestnut-copy?variant=41090983919710)
-    Availability: Available
+    Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
   Updated: 2025-09-29T17:27:36Z
@@ -16757,8 +16757,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-05T23:43:13Z
-  Total Products: 438
+  Updated: 2025-10-06T03:43:15Z
+  Total Products: 437
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17609,7 +17609,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-05T23:43:13Z
+  Updated: 2025-10-06T03:43:15Z
   Total Products: 1323
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-03T11:02:02Z
