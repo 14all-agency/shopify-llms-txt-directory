@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-05T16:00:44.792Z
+- Updated At: 2025-10-06T00:00:44.621Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2765,7 +2765,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a956e96e-a597-4ec5-8a20-9d55b1a02068.jpg?v=1741877344
   Price: £85.00 GBP
 - [Garnet Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-gold): Looking for a personalised gift? This gold vintage locket necklace features a heart-shaped garnet at its centre. The Garnet Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-10-05T15:43:57Z
+  Updated: 2025-10-05T20:15:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3229,7 +3229,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Four Photo Heart Charm Locket White Gold](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-white-gold): Hold special memories close to your heart with this Four-Photo Heart Charm Locket in white gold vermeil. This stunning locket necklace takes four photos, making it the perfect love token or gift. Order your Four-Photo Heart Charm Locket in silver online today and receive free photos, & jewellery care kit!
-  Updated: 2025-10-01T10:17:28Z
+  Updated: 2025-10-05T17:26:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15924,7 +15924,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Sterling Silver Men's Dog Tag Necklace | High Quality | Lily Blanche](https://www.lilyblanche.com/products/mens-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother, this necklace is a jewellery box classic. Order online today and receive a free jewellery care kit worth £20!
-  Updated: 2025-10-04T14:25:49Z
+  Updated: 2025-10-05T20:35:51Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -15957,7 +15957,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-10-04T14:32:49Z
+  Updated: 2025-10-05T18:18:47Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16341,7 +16341,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Hexagon Locket Necklace | Solid Silver | High Quality & Fast Delivery](https://www.lilyblanche.com/products/hexagon-locket-necklace-silver): Treasure precious memories with this solid silver Hexagon Locket necklace. Personalise  with our complimentary photo service & add engraving. High Quality. Fast delivery. Order online today..
-  Updated: 2025-10-01T17:31:40Z
+  Updated: 2025-10-05T17:52:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16817,7 +16817,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-10-05T12:27:23Z
+  Updated: 2025-10-05T19:47:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16850,7 +16850,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
-  Updated: 2025-09-28T13:22:12Z
+  Updated: 2025-10-05T20:43:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16886,7 +16886,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £630.00 GBP
 - [Men's St Christopher Necklace In Silver & Free Engraving & Stylish](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver): Buy Men's St Christopher Necklaces at Lily Blanche. Our stylish silver St Christopher men's necklace comes with different chain lengths to suit your outfit choices. Uplift your fashion fits today with our popular men's necklaces. Shop & save on quality jewellery with Lily Blanche.
-  Updated: 2025-10-04T16:48:11Z
+  Updated: 2025-10-05T20:37:10Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16961,7 +16961,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-02T11:42:51Z
+  Updated: 2025-10-05T20:52:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16991,7 +16991,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [St Christopher Necklace  Solid Gold + Engraving](https://www.lilyblanche.com/products/st-christopher-necklace-gold): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a perfect gift for special birthdays. Personalise with engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-04T22:11:51Z
+  Updated: 2025-10-05T20:49:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19068,7 +19068,7 @@ From £119
   Price: £65.00 GBP
 - [Men's St Christopher Necklace 9ct Gold | Free Engraving & UK Delivery](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold): Discover our handcrafted men's 9ct solid gold St Christopher necklace with free personalised engraving. UK hallmarked octagonal design, perfect for travellers. Free UK delivery, 4.9★ rated. Award-winning British jewellery.
 £315
-  Updated: 2025-09-27T11:37:00Z
+  Updated: 2025-10-05T20:41:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19106,7 +19106,7 @@ From £119
     Availability: Available
     Price: £730.00 GBP
 - [Men's St Christopher Necklace Silver + Engraving](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver): Give a meaningful gift with our timeless and stylish Men's St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift for men and women. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-04T14:52:41Z
+  Updated: 2025-10-05T20:34:10Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19152,7 +19152,7 @@ From £119
     Availability: Available
     Price: £150.00 GBP
 - [Men's St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-white-gold): Give a meaningful gift with our classic Men's St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-09-18T22:57:03Z
+  Updated: 2025-10-05T20:45:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20280,7 +20280,7 @@ From £119
     Availability: Available
     Price: £135.00 GBP
 - [Large St Christopher Necklace Solid Gold Octagonal](https://www.lilyblanche.com/products/large-st-christopher-necklace-solid-gold-engraving): Give a meaningful gift with our timeless and stylish  Large Octagonal St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift for men and women. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-24T18:20:27Z
+  Updated: 2025-10-05T20:24:10Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20322,7 +20322,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_hexagon_st_christopher_necklace_curb_square.webp?v=1741872849
     Price: £730.00 GBP
 - [St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/large-st-christopher-necklace-white-gold-engraving): Give a meaningful gift with our timeless & stylish St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-09-18T22:38:02Z
+  Updated: 2025-10-05T20:26:10Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20359,7 +20359,7 @@ From £119
     Availability: Available
     Price: £530.00 GBP
 - [St Christopher Necklace Silver + Engraving](https://www.lilyblanche.com/products/large-st-christopher-necklace-silver-engraving): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift for men and women. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-09-18T22:59:03Z
+  Updated: 2025-10-05T20:47:11Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21450,7 +21450,7 @@ From £119
     Price: £125.00 GBP
 - [Men's 9ct Solid Gold Cross Necklace | UK Handcrafted](https://www.lilyblanche.com/products/mens-large-gold-cross-necklace): Discover our Men's Solid 9ct Gold Cross Necklace, handcrafted. Hallmarked British gold, choice of chain styles, and complimentary luxury packaging. Free UK delivery & care kit
 £175
-  Updated: 2025-10-04T22:53:27Z
+  Updated: 2025-10-05T23:02:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22985,7 +22985,7 @@ From £190.
     Availability: Available
     Price: £205.00 GBP
 - [Men's St Christopher Locket Necklace Silver + Free Photos](https://www.lilyblanche.com/products/st-christopher-locket-silver): Men's sterling silver St Christopher locket. A travel protection necklace holding two photos & engraving. The perfect gift for life's next adventure.
-  Updated: 2025-09-22T09:04:16Z
+  Updated: 2025-10-05T22:07:37Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -23057,7 +23057,7 @@ From £190.
     Availability: Available
     Price: £245.00 GBP
 - [Men's Engravable Compass Locket Gold + Photos](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos): Men's Compass Locket Necklace in 18ct gold vermeil. Engravable, holds 2 photos, & features a symbolic compass design for guidance and adventure. Free UK delivery. From £195
-  Updated: 2025-09-22T16:31:43Z
+  Updated: 2025-10-05T20:35:46Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
