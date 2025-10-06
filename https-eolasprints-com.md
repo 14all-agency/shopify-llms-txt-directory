@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-05T12:00:33.493Z
+- Updated At: 2025-10-06T04:00:34.116Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-10-03T18:21:41Z
+  Updated: 2025-10-05T19:35:58Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1387,7 +1387,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/cricut-maker-3-739.webp?v=1734022402
   Price: €496.55 EUR
 - [Prusa Core one E3d V6 Motors Rpm Monitoring](https://eolasprints.com/products/prusa-core-one): The Prusa Core One at Eolas Prints offers pro 3D printing with a CoreXY design. It is E3D V6 compatible and features motors RPM monitoring for precision.
-  Updated: 2025-10-04T12:38:17Z
+  Updated: 2025-10-06T01:50:10Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -1603,7 +1603,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-machine-250.webp?v=1759190199
     Price: €7,399.00 EUR
 - [Prusa Core one Ultimate Edition E3d V6 Compatible](https://eolasprints.com/products/prusa-core-one-ultimate-edition): The Prusa Core One Ultimate Edition is a professional CoreXY 3D printer with an enclosed chamber, motors rpm monitoring, and an E3D V6 compatible system for speed.
-  Updated: 2025-10-04T21:13:51Z
+  Updated: 2025-10-06T01:50:18Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
