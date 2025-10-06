@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-06T12:00:57.898Z
+- Updated At: 2025-10-06T20:01:02.090Z
 
 ## Products
 
@@ -11087,7 +11087,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [גופיית משחק שחור City Edition | פול ג'ורג'](https://www.rsport.co.il/products/גופיית-משחק-שחור-city-edition-פול-גורג): גופיית המשחק השחורה מהדורת City של פול ג'ורג' מעניקה חוויית משחק נוחה וביצועים גבוהים. עשויה 100% פוליאסטר קל ונושם, מאפשרת חופש תנועה מלא ושומרת על תחושת יובש במהלך אימונים ומשחקים. פריט אידיאלי לכל אוהד שרוצה ללבוש את צבעי הקבוצה ואת השם של פול ג'ורג' במגרש וביום-יום.
-  Updated: 2025-10-05T12:56:47Z
+  Updated: 2025-10-06T15:21:51Z
   Vendor: R:Sport
   Product Type: גופיית כדורסל
   Availability: Available
@@ -16673,7 +16673,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו מנצ'סטר סיטי חוץ 1998/99](https://www.rsport.co.il/products/retro-shirt-mnc-away-98-99): חולצת החוץ של מנצ'סטר סיטי בעונת 1998/99 משחזרת את העיצוב הקלאסי והייחודי של הקבוצההחולצה עשויה 100% פוליאסטר קל ונושם, ומספקת נוחות וחופש תנועה במהלך משחקים ואימוניםפריט אידיאלי לאוהדים שרוצים להרגיש את האווירה של העונה ההיסטורית ולהראות תמיכה בקבוצה
-  Updated: 2025-10-05T12:45:55Z
+  Updated: 2025-10-06T15:19:01Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -17765,7 +17765,7 @@
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
 - [חולצת משחק אל הילאל בית 24/25](https://www.rsport.co.il/products/חולצת-משחק-אל-הילאל-בית-24-25): חולצת הבית של אל הילאל בעונת 24/25 מיועדת למשחקים, אימונים וללבישה יומיומית. עשויה 100% פוליאסטר קל ונושם, מספקת חופש תנועה מלא ותחושת יובש לאורך כל הפעילות. פריט מושלם לכל אוהד שרוצה לתמוך בקבוצה.
-  Updated: 2025-10-05T12:48:20Z
+  Updated: 2025-10-06T16:25:50Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -43953,7 +43953,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Future 8 Ultimate Playmakers FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-playmakers-fg): נעלי כדורגל Future 8 Ultimate Playmakers בצבעי אדום, שחור, כחול וורוד עם גרפיקות בהשראת מוזיקה שיעזרו לך לשלוט בקצב על המגרש הנעליים מיועדות ליצירתיים ולמי שאוהב להביא את עצמו לידי ביטוי בכל הזדמנות החלק העליון עשוי מבד FUZIONSKIN עם לייקרה לגמישות והתאמה מושלמת לכף הרגל, ו-3D FUZIONPODS בקדמת הנעל מגנים ומאפשרים תנועה טבעית PWRTAPE במרכז כף הרגל שומר אותך יציב כשאתה חוצה שחקנים שכנים השכבה החיצונית עם GripControl Pro משפרת שליטה בכדור ומסייעת לדריבל חד ומדויק הסוליה עם מסמרות בעיצוב מיוחד מאפשרת סיבוביות ותנועות מהירות ללא עצירה הרגש את הכדור, שלוט בקצב,
-  Updated: 2025-09-26T05:45:50Z
+  Updated: 2025-10-06T16:39:33Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -43992,7 +43992,7 @@
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות  Future 8 Match Playmakers FG/AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-match-playmakers-fg-ag): נעלי כדורגל מקצועיות Future 8 Match Playmakers FG/AG בצבעי אדום, שחור, כחול וורוד מציעות עיצוב בהשראת מוזיקה שמכניס אנרגיה ויצירתיות לכל משחק. הדגם מיועד לשחקנים יצירתיים על המגרש ומעניק חופש ביטוי בכל תנועה. החלק העליון עשוי שילוב של רשת קלה וגמישה עם בד סרוג אלסטי להתאמה אישית ותמיכה מלאה, יחד עם סרט חיזוק במרכז כף הרגל שמספק יציבות ומאפשר לעבור שחקנים בקלות. בחזית הנעל נוספו הטבעות מיוחדות וציפוי GripControl לשיפור השליטה בכדור, לדריבלים מדויקים ולמסירות ובעיטות עם מגע מושלם. הסוליה מצוידת במסמרות בצורות ומיקומים ייחודיים המאפשרים תנועה חופשית ב־360 מעלות, שינויי כיוון מהירים וזרימה רצופה של מהלכים. עם Future 8 אתה שולט בקצב המשחק ומביא את ההבדל למגרש.
-  Updated: 2025-09-26T05:45:50Z
+  Updated: 2025-10-06T16:39:32Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45966,7 +45966,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate FG Hot Pursuit](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-05T17:57:15Z
+  Updated: 2025-10-06T16:39:32Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46031,7 +46031,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate Low FG](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-06T11:07:26Z
+  Updated: 2025-10-06T18:29:01Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46093,6 +46093,251 @@
   - [48½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981779194)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Future 8 Ultimate AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-06T19:08:06Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_57dc502e-f3df-45a3-903a-bfa2ac78b750.png?v=1759757437
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531457274)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531490042)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531522810)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531555578)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531588346)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531621114)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531653882)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531686650)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531719418)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531752186)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531784954)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531817722)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531850490)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531883258)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Future 8 Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-06T19:08:24Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_1af9fc0d-bc73-44aa-a7ff-c59d95583b67.png?v=1759746283
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665314554)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665347322)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665380090)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665412858)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665445626)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618652922)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618685690)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618751226)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618718458)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618783994)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618816762)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618849530)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618882298)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618915066)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618947834)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618980602)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798619013370)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798619046138)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798619078906)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Ultra 6 Ultimate FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-06T18:29:44Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/13_84e074de-53c9-43cb-bfd0-b197976a3674.png?v=1759765023
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298097402)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298130170)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298162938)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298195706)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298228474)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298261242)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298294010)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298326778)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298359546)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298392314)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298425082)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298457850)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298490618)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298523386)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298556154)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298588922)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298621690)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298654458)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298687226)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Ultra 6 Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-06T19:55:53Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/19_88bbfafd-9ddb-4c0b-9524-9d36e7dd6306.png?v=1759779923
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634460922)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634493690)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634526458)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634559226)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634591994)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634624762)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634657530)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634690298)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634723066)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634755834)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634788602)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634821370)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634854138)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634886906)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634919674)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634952442)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634985210)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799635017978)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799635050746)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
 
 ## Collections
 
@@ -46469,14 +46714,14 @@
   Updated: 2025-10-02T11:31:13Z
   Total Products: 5
 - [Predator](https://www.rsport.co.il/collections/predator)
-  Updated: 2025-10-06T10:21:55Z
-  Total Products: 15
+  Updated: 2025-10-06T19:08:54Z
+  Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-06T10:21:55Z
-  Total Products: 52
-- [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-10-06T10:31:57Z
-  Total Products: 46
+  Updated: 2025-10-06T19:53:27Z
+  Total Products: 55
+- [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
+  Updated: 2025-10-06T18:51:02Z
+  Total Products: 47
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-05T13:12:11Z
   Total Products: 816
@@ -46571,8 +46816,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-06T11:17:45Z
-  Total Products: 2055
+  Updated: 2025-10-06T19:53:27Z
+  Total Products: 2058
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -46768,9 +47013,27 @@
 - [כדורי מונדיאל 2026 | World Cup Ball](https://www.rsport.co.il/collections/world-cup-ball): קנו עכשיו את כדורי מונדיאל 2026 בעיצוב בהשראת גביע העולם FIFA 2026. כולל טכנולוגיות SPEEDSHELL ו-CTR CORE, מושלם לאימון, משחק ואספנות. תמיכה בקבוצות כמו ספרד, ברזיל, ארגנטינה וגרמניה. World Cup Ball עדכני לכל אוהד כדורגל
   Updated: 2025-10-04T20:33:30Z
   Total Products: 3
-- [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. אנרגיית יום ההעברות. עשו את הצעד הנכון עם נעלי כדורגל מהחנות הגדולה בעולם, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
-  Updated: 2025-10-06T12:00:04Z
+- [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. עשו את הצעד הנכון עם נעלי כדורגל, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
+  Updated: 2025-10-06T13:31:40Z
   Total Products: 3
+- [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
+  Updated: 2025-10-06T19:53:27Z
+  Total Products: 6
+- [נעלי כדורגל Puma Future](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-future)
+  Updated: 2025-10-06T19:53:27Z
+  Total Products: 7
+- [נעלי כדורגל Puma Ultra](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra)
+  Updated: 2025-10-06T16:23:38Z
+  Total Products: 1
+- [נעלי כדורגל פומה FG](https://www.rsport.co.il/collections/football-boots-puma-fg-adult)
+  Updated: 2025-10-06T16:44:12Z
+  Total Products: 5
+- [נעלי כדורגל PUMA Ultra Ultimate](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra-ultimate)
+  Updated: 2025-10-06T19:53:27Z
+  Total Products: 2
+- [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
+  Updated: 2025-10-06T19:53:27Z
+  Total Products: 5
 
 ## Blogs
 
@@ -46779,11 +47042,13 @@
     Updated: 2025-09-07T22:18:20Z
     Author: R Sport
   - [adidas x BAPE Drop A Game-Changing Collection](https://www.rsport.co.il/blogs/נעלי-כדורגל/adidas-x-bape-drop-a-game-changing-collection)
-    Updated: 2025-09-10T16:13:19Z
+    Updated: 2025-10-06T13:51:16Z
     Author: R- SPORT
+    Tags: נעלי כדורגל
   - [נעלי כדורגל עם חתימה לאמין ימאל](https://www.rsport.co.il/blogs/נעלי-כדורגל/נעלי-כדורגל-עם-חתימה-לאמין-ימאל)
-    Updated: 2025-09-15T16:07:34Z
+    Updated: 2025-10-06T13:49:15Z
     Author: R- SPORT
+    Tags: נעלי כדורגל
 - [מדריכים](https://www.rsport.co.il/blogs/מדריכים)
   - [חולצות כדורגל: למה לא לקנות מכל מקום?](https://www.rsport.co.il/blogs/מדריכים/חולצות-כדורגל-לא-רוכשים-מכל-מקום-1): חולצות כדורגל: למה לא לקנות מכל מקום?
     Updated: 2025-09-07T22:18:21Z
