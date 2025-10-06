@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-05T20:00:30.902Z
+- Updated At: 2025-10-06T04:00:31.685Z
 
 ## Products
 
@@ -6364,7 +6364,7 @@ Levertermijn : 3 à 4 werkdagen
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Lissabon_Bruin_f4ee55d6-ad9d-4ca2-8820-0964240e0940.jpg?v=1759584577
     Price: € 9,85 EUR
 - [No Snag Hijab Clip.](https://newbro.be/products/no-snag-hijab-clip-een-set-van-vier): No Snag Hijab Clip, een set van vier niet-uitzakkende hijabpinnen zijn een praktische en stijlvolle oplossing om twee stukken stof aan elkaar te bevestigen, met name gebruikt voor hijaabs. Deze pinnen zijn zo ontworpen dat ze gemakkelijk op de stof kunnen worden geschoven en zorgen voor een stevige grip zonder dat ze doorzakken of hangen.
-  Updated: 2025-10-04T23:05:21Z
+  Updated: 2025-10-05T23:10:04Z
   Vendor: BRO Webshop
   Product Type: 
   Availability: Available
@@ -6385,6 +6385,56 @@ Levertermijn : 3 à 4 werkdagen
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
+- [Premium Jersey Hijab met subtiele lijnafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
+  Updated: 2025-10-06T00:10:58Z
+  Vendor: BRO Webshop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/jersey_hijab_met_golfjewebp.webp?v=1759702985
+  - [#2 Black](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822897020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#10 Clam Shell](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822929788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#11 Pine Cone](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822962556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#12 Dove Grey](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822995324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#13 Russet](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823028092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#14 Almond Frost](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823060860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#15 Bone](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823093628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#16 Tarawera](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823126396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#17 Pickled Bluewood](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823159164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#20 Corduroy](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823191932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
+  - [#21 Cork](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823224700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Afbeelding_van_WhatsApp_op_2025-09-28_om_00.28.12_cdd03451.jpg?v=1759708705
+    Price: € 9,85 EUR
 
 ## Collections
 
@@ -6416,8 +6466,8 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-05T18:39:39Z
   Total Products: 90
 - [Hijab kopen online](https://newbro.be/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
-  Updated: 2025-10-05T18:39:46Z
-  Total Products: 59
+  Updated: 2025-10-06T00:08:01Z
+  Total Products: 60
 - [Moderne kleding voor de moslim man](https://newbro.be/collections/moderne-kleding-voor-de-moslim-man): Deze collectie biedt een verfijnde selectie moderne kleding voor de moslim man die elegantie moeiteloos combineren met islamitische waarden - BRO Webshop
   Updated: 2025-10-05T18:39:39Z
   Total Products: 27
@@ -6428,8 +6478,8 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-05T18:39:39Z
   Total Products: 10
 - [Stretchy & comfortabel](https://newbro.be/collections/stretchy-comfortabel-premium-jersey)
-  Updated: 2025-10-05T18:39:46Z
-  Total Products: 2
+  Updated: 2025-10-06T00:00:19Z
+  Total Products: 3
 - [Superzacht, ademend & eco-vriendelijk](https://newbro.be/collections/superzacht-ademend-eco-vriendelijk-bamboo-jersey)
   Updated: 2025-10-04T23:02:16Z
   Total Products: 0
