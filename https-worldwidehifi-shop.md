@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-05T16:00:31.816Z
+- Updated At: 2025-10-06T00:00:34.800Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2051,13 +2051,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8d0e15e7-643e-4907-92e3-0bd6c1e0a159.jpg?v=1756382023
   Price: 699,00 € EUR
-- [Sony CDP-XA5ES gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sony-cdp-xa5es-gebraucht-kaufen): Sony CDP-XA5ES gebraucht kaufen ✅ Geprüfter CD Player in top Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:40Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_6b1d2d18-5628-4a7e-b2a9-d21748fee5a4.jpg?v=1756381947
-  Price: 920,00 € EUR
 - [Revox B 226 CD-Player gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/revox-b-226-cd-player-gebraucht-kaufen-2): Revox B 226 CD-Player gebraucht kaufen ✅ Geprüftes Gerät near mint Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:36Z
   Vendor: WorldWideHiFi
@@ -2108,7 +2101,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_856a63b2-a13b-4d6c-888c-2d0aa474d1a6.jpg?v=1759250995
   Price: 12.900,00 € EUR
 - [Technics Tape Transport 9900 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/technics-tape-transport-9900-record-reproduce-amplifier-9900-remote-rp-9690-gebraucht-kaufen): Technics Tape Transport 9900 gebraucht kaufen ✅ Geprüfte HiFi Geräte mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-05T15:02:27Z
+  Updated: 2025-10-05T16:00:33Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
@@ -2313,8 +2306,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-05T15:02:26Z
   Total Products: 36
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-05T15:02:26Z
-  Total Products: 3
+  Updated: 2025-10-05T16:01:03Z
+  Total Products: 4
 - [Tonbandgeräte gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/tonbandgeraet-gebraucht-kaufen): Tonbandgeräte gebraucht kaufen ✓ Gebrauchte Tonbandgeräte & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
@@ -2349,11 +2342,14 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-02T11:20:04Z
   Total Products: 7
 - [Vorgestellte Produkte](https://worldwidehifi.shop/collections/featured)
-  Updated: 2025-10-05T15:40:06Z
-  Total Products: 4
+  Updated: 2025-10-05T16:39:25Z
+  Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-05T15:59:53Z
-  Total Products: 98
+  Updated: 2025-10-05T20:36:18Z
+  Total Products: 99
+- [Highest End](https://worldwidehifi.shop/collections/highest-end)
+  Updated: 2025-10-05T16:11:44Z
+  Total Products: 22
 
 ## Store Pages
 
