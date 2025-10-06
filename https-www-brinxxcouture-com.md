@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-06T00:00:47.157Z
+- Updated At: 2025-10-06T08:00:48.054Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-05T19:30:42Z
+  Updated: 2025-10-06T00:51:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8163,7 +8163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
     Price: $37.00 USD
   - [Ochre / L](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470356662)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
     Price: $37.00 USD
   - [Ochre / XL](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470389430)
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-05T18:12:31Z
+  Updated: 2025-10-06T02:33:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9332,7 +9332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sports-Tank-and-Leggings-Set-Brinxx-Couture-8329.jpg?v=1709849852
     Price: $39.99 USD
 - [One-Shoulder Twisted Split Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-one-shoulder-twisted-split-dress): Look beautiful and feel confident with this Plus Size One-Shoulder Twisted Split Dress. Enjoy the sleek one-shoulder design and flatter your figure with the twisted split skirt.
-  Updated: 2025-10-02T17:12:10Z
+  Updated: 2025-10-06T05:09:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9346,7 +9346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/One-Shoulder-Twisted-Split-Dress-Brinxx-Couture-9181.jpg?v=1709850350
     Price: $39.99 USD
   - [Green / 3XL](https://www.brinxxcouture.com/products/plus-size-one-shoulder-twisted-split-dress?variant=42379419844790)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/One-Shoulder-Twisted-Split-Dress-Brinxx-Couture-9181.jpg?v=1709850350
     Price: $39.99 USD
   - [Green / 4XL](https://www.brinxxcouture.com/products/plus-size-one-shoulder-twisted-split-dress?variant=42379419877558)
@@ -10048,7 +10048,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Candy-Metallic-Hot-Girl-Short-Skirt-Brinxx-Couture-8458.jpg?v=1709855085
     Price: $20.00 USD
 - [Two-Tone Openwork Rib-Knit Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/woven-right-two-tone-openwork-rib-knit-sweater): This stylish two-tone openwork rib-knit sweater features a unique design that adds texture and dimension to any ensemble. The rib-knit construction ensures lasting comfort.
-  Updated: 2025-10-05T18:42:38Z
+  Updated: 2025-10-06T04:38:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10662,7 +10662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-04T21:58:07Z
+  Updated: 2025-10-06T04:38:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18212,7 +18212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3-Piece-Washed-Square-Neck-Wide-Strap-Active-Set-Brinxx-Couture-9343.jpg?v=1730294620
     Price: $50.00 USD
 - [Plus Size Twisted One Shoulder Sleeveless Midi Dress](https://www.brinxxcouture.com/products/plus-size-twisted-one-shoulder-sleeveless-midi-dress): Features: Twisted Sheer: Opaque Stretch: Moderate stretch Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Size Bust Length 1XL 38.6 42.1 2XL 40.9 42.7 3XL 43.3 43.3 4XL 45.7 43.9 5XL 48 44.5
-  Updated: 2025-10-01T22:27:05Z
+  Updated: 2025-10-06T02:06:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19627,7 +19627,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-05T15:45:17Z
+  Updated: 2025-10-06T01:00:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21923,7 +21923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-03T11:40:37Z
+  Updated: 2025-10-06T06:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-05T23:30:49Z
+  Updated: 2025-10-06T03:51:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
