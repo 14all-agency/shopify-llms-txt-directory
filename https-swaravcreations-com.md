@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-05T20:00:27.332Z
+- Updated At: 2025-10-06T08:00:27.795Z
 
 ## Products
 
-- [Eternal Love Knot Necklace | Designed with heart](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish): Swarav Creations — Designed with heart. Made to order, just for your loved ones. Why your loved one's will love itA symbol of connection that never comes undone. Our Eternal pairs everyday elegance with a brilliant 6 mm center stone. Dress it up or wear it daily—either way it shines. Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! Highlights• Choose your finish: White Gold or Yellow Gold• 6 mm premium• Dainty 0.62″ (15.7 mm) for• Adjustable 18–22″ cable chain, secure clasp• Gift-ready box (upgrade to Premium keepsake box) What’s includedLove Knot pendant Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Perfect Gift for Anniversary (dating or wedding) Birthday Valentine’s Day Mother’s Day Christmas / Holidays Wedding-day gift (from bride/groom) Bridesmaid / Maid of Honor gift Graduation New job / Promotion Long-distance reunion Just because / Thinking of you I’m sorry / Make-up gift Thank you New Year Festival Production & shippingMade to order. Typical production 2–5 business days, then shipped with tracking. Delivery time varies by destination. CareWipe with a soft dry cloth after wear. Store separately. Avoid chemicals, pools, lotions & perfumes.
-  Updated: 2025-10-05T19:34:06Z
+- [Eternal Love Knot Necklace - Timeless Jewelry by Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish): Shop the Eternal Love Knot Necklace from Swarav Creations. This exquisite piece symbolizes everlasting love, making it the perfect gift for someone special. Order yours today!
+  Updated: 2025-10-06T02:27:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -32,8 +32,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4380_transformation_12024.png?v=1756583910
     Price: $94.99 CAD
-- [Forever Love Necklace | Designed with heart](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish): Swarav Creations — Designed with heart. Made to order, just for you. A classic heart silhouette with a brilliant 6.5 mm CZ center. Choose White or Yellow Gold finish on an adjustable 18–22" chain. Gift-ready and perfect for birthdays, anniversaries, and everyday sparkle. The dazzling Forever Love Necklace is sure to make her heart melt! This necklace features a stunning 6.5mm CZ crystal surrounded by a polished heart pendant embellished with smaller crystals to add extra sparkle and shine. Beautifully crafted with either a white gold or yellow gold finish, be sure to give her a classic gift she can enjoy everyday. Why you’ll love itA symbol of love she can wear every day. Our Forever Love Necklace from 6.5 mm CZ crystal surrounded by a polished heart pendant embellished with smaller crystals to add extra sparkle and shine. Details Finish: 14K White Gold or 18K Yellow Gold Center stone: 6.5 mm premium cubic zirconia During: 0.8" (22 mm) H × 0.7" (18 mm) W Chain: Adjustable 18–22" cable chain; lobster clasp Packaging: Standard gift box (upgrade to Mahogany-style Premium box) Perfect Gift for Anniversary (dating or wedding) Birthday Valentine’s Day Mother’s Day Christmas / Holidays Wedding-day gift (from bride/groom) Bridesmaid / Maid of Honor gift Graduation New job / Promotion Long-distance reunion Just because / Thinking of you I’m sorry / Make-up gift Thank you New Year Festival Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. What’s includedPendant + chain • Gift box • Tracking on every order CareWipe with a soft dry cloth after wear. Avoid perfumes, lotions, pools & chemicals. Store separately to prevent scratches. Production & ShippingMade to order. Typical production 2–5 business days, then shipped with tracking; (delivery time varies by destination).
-  Updated: 2025-10-03T22:06:51Z
+- [Forever Love Necklace - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish): Discover the stunning Forever Love Necklace by Swarav Creations. This elegant jewelry piece symbolizes endless love, making it the perfect gift for cherished moments.
+  Updated: 2025-10-06T02:56:58Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -52,8 +52,8 @@
   - [18k Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish?variant=46963773014272)
     Availability: Available
     Price: $94.99 CAD
-- [Alluring Beauty Necklace | Designed with heart](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Swarav Creations — Designed with heart. Made to order. Why you’ll love it. Graceful and timeless, the Alluring Beauty Necklace features a petite ribbon-shaped pendant accented with shimmering stones and a brilliant 7 mm center. Elegant for every day, special enough for the moments that matter. Imagine her reaction when she opens this stunning gift! The Alluring Beauty necklace features a petite ribbon shaped pendant that is sure to dazzle your special someone. Whether it's a birthday or anniversary, make sure to get her a gift she will love for years to come. Details Finish: 14K White Gold or 18K Yellow Gold over stainless steel Center stone: 7 mm premium cubic zirconia During: 0.8" (20 mm) H × 0.4" (10 mm) W Chain: Adjustable 18–22" cable chain; lobster clasp Packaging: Includes standard gift box; upgrade to Mahogany-style Luxury Box with LED spotlight Perfect forBirthdays • Anniversaries • Valentine’s Day • “Just because” Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. CareWipe with a soft dry cloth after wear. Avoid perfumes, lotions, pools & chemicals. Store separately.
-  Updated: 2025-10-03T17:43:14Z
+- [Alluring Beauty Necklace | Elevate Elegance with Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Discover the Alluring Beauty Necklace from Swarav Creations. Elevate your elegance with this stunning piece that adds charm and sophistication to any outfit. Perfect for every occasion!
+  Updated: 2025-10-06T02:36:38Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -74,8 +74,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4366_transformation_12037.png?v=1756675494
     Price: $79.99 CAD
-- [Gold & Marble Dog Tag Necklace – Designed with ❤️ | Custom Engraved Gift for Him or Her](https://swaravcreations.com/products/swarav-creations-gold-marble-dog-tag-necklace-designed-with-custom-engraved-gift-for-him-or-her): Swarav Creations Gold & Marble Dog Tag Necklace – Designed with ❤️ Celebrate love, family, and meaningful moments with this elegant dog tag necklace. Crafted from high-quality surgical steel with an optional 18K gold finish, the piece features a unique marble background and the exclusive S&C monogram, paired with the heartfelt phrase “Designed with ❤️.” This necklace makes a perfect gift for him, her, couples, family, or even yourself. Personalize it with custom engraving to capture anniversaries, birthdays, graduations, or life’s milestones — a timeless keepsake that speaks from the heart. With a luxurious finish and lasting craftsmanship, this dog tag is not just jewelry but a symbol of love, connection, and strength, guaranteed to exceed expectations. Product Dimensions➜ Luxury Military Necklace: 24" (61cm) with upgraded clasp➜ Dog Tag: 28.5mm x 51mm
-  Updated: 2025-10-03T16:22:16Z
+- [Dog Tag Necklace - Custom Engraved Gift | Swarav Creations](https://swaravcreations.com/products/swarav-creations-gold-marble-dog-tag-necklace-designed-with-custom-engraved-gift-for-him-or-her): Elevate your style with our Gold Marble Dog Tag Necklace. Custom engraved for him or her, this unique piece makes a perfect gift. Order now for a personalized touch!
+  Updated: 2025-10-06T03:34:18Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -96,8 +96,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_149_transformation_14474.jpg?v=1757221322
     Price: $59.99 CAD
-- [Men's Cuban Link Chain Necklace – 18K Gold or Stainless Steel | Adjustable Length 18–22” | Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him): Men's Cuban Link Chain Necklace – 18k Gold or Stainless Steel | Adjustable Length 18–22” | Luxury Gift for Him Luxury Cuban Link Chain – Strong, Stylish & Timeless Step up your style game with this bold Cuban Link Chain Necklace, available in high-polish stainless steel or 18K gold finish. Designed with a 5mm width and an adjustable length of 18–22 inches (45.7–56 cm), this necklace delivers the perfect fit whether worn alone or layered. Weighing 1 oz (28.5 g), this chain combines comfort with durability, making it a perfect accessory for daily wear or special occasions. Presented in a luxury box, it’s ready to gift to someone special — whether it’s for a birthday, anniversary, Valentine’s Day, Father’s Day, or simply to treat yourself. ✔ Premium Quality Materials – Stainless Steel or 18K Gold Finish✔ Adjustable Length – Fits 18–22” comfortably✔ Perfect Gift for Him – A timeless chain for men with bold style Polished stainless steel and 14k yellow gold over stainless steel Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Chain width: 5 mm Weight: 28.5 grams (1.005 oz) Parrot clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Whether dressing casual or formal, this Cuban link chain makes a powerful statement of confidence and class.
-  Updated: 2025-10-03T21:07:14Z
+- [Men's Cuban Link Chain Necklace - Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him): Elevate his style with our Men's Cuban Link Chain Necklace, crafted from 18K gold and stainless steel. Adjustable 18-22" length makes it the perfect luxury gift for him!
+  Updated: 2025-10-06T03:03:04Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -116,8 +116,8 @@
   - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him?variant=46992339468544)
     Availability: Available
     Price: $89.99 CAD
-- [Shipping Protection by Route](https://swaravcreations.com/products/routeins): Add Route at checkout to protect your package against loss, theft and damage, and make shipping 100% carbon neutral. Visit route.com/sustainability to learn more.
-  Updated: 2025-10-05T19:23:57Z
+- [Shipping Protection for Deliveries - Hassle-Free Deliveries with Route](https://swaravcreations.com/products/routeins): Ensure your packages arrive safely with our Shipping Protection for Deliveries. Enjoy hassle-free deliveries and peace of mind. Protect your orders today with Route!
+  Updated: 2025-10-06T07:22:58Z
   Vendor: Route
   Product Type: Insurance
   Availability: Available
@@ -322,8 +322,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $20.36 CAD
-- [Interlocking Hearts Necklace – A Symbol of Eternal Love](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love): ✨ Interlocking Hearts Necklace – A Symbol of Eternal Love Celebrate your everlasting bond with this stunning Interlocking Hearts Necklace, featuring two heart pendants delicately embellished with sparkling cubic zirconia crystals. A timeless symbol of love, it’s the perfect gift for anniversaries, birthdays, or simply reminding her how much she means to you. Crafted from polished stainless steel with a rose gold finish (or available in 18K yellow gold finish), this necklace is designed for both elegance and durability. Its adjustable chain ensures a comfortable fit, making it versatile for everyday wear or special occasions. 🌟 Product Details Two interlocking heart pendants with CZ crystal accents Materials: Polished stainless steel + rose gold finish or 18K yellow gold finish Pendant size: 0.6" (15mm) height x 1.1" (28mm) width Adjustable chain length: 18" – 22" (45.72 cm – 55.88 cm) Closure: Lobster clasp Packaging & Gift Options Comes beautifully packaged in a complimentary soft-touch box for easy gifting. Upgrade to the mahogany-style luxury box, complete with a built-in LED spotlight that illuminates the necklace the moment she opens it — creating a magical unboxing experience. Why She’ll Love It A romantic keepsake symbolizing unending love Sparkles with premium cubic zirconia accents Timeless design with rose gold or 18K gold finish Elegant packaging with luxury upgrade option
-  Updated: 2025-10-03T16:28:32Z
+- [Interlocking Hearts Necklace - Timeless Gift of Eternal Love for Her](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love): Discover the elegance of our Interlocking Hearts Necklace, the perfect timeless gift of eternal love. Ideal for any occasion, this necklace symbolizes unbreakable bonds. Shop now!
+  Updated: 2025-10-06T03:09:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -344,15 +344,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4385_transformation_12067.png?v=1758394963
     Price: $94.99 CAD
-- [Baby Feet Heart Necklace](https://swaravcreations.com/products/baby-feet-heart-necklace-shop-224701-2544): Imagine her reaction receiving this heartfelt symbol of love, family, and precious beginnings. The Baby Feet Heart Necklace features a sparkling heart-shaped frame adorned with shimmering cubic zirconia, surrounding a delicate pair of rose gold baby feet. A touching tribute to motherhood and new life, this necklace is the perfect way to celebrate a new mom, a cherished child, or a growing family. Whether for a baby shower, Mother's Day, or just because, this timeless piece will hold a special place in her heart. Give a gift as meaningful as the bond it represents—order yours today! Product Specifications:Metal base: .925 sterling silver Finish: 14k rose gold finish with platinum plating 5A CZ gemstonePendant Dimensions: 5.5mmChain style: cable chainChain length: 40cm length + 5cm extra chain Clasp Type: Lobster ClaspGift box
-  Updated: 2025-10-03T22:13:47Z
+- [Baby Feet Heart Necklace - Adorable Pendant to Cherish Every Step](https://swaravcreations.com/products/baby-feet-heart-necklace-shop-224701-2544): Meta Description: Discover our Baby Feet Heart Necklace, a charming pendant to cherish every step. Perfect for celebrating milestones, this necklace is a heartfelt gift for any occasion.
+  Updated: 2025-10-06T03:10:39Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_8717_transformation_26843.jpg?v=1759097159
   Price: $69.99 CAD
-- [Personalized Flower Name Necklace – Elegant Custom Jewelry](https://swaravcreations.com/products/personalized-flower-name-necklace-elegant-custom-jewelry-shop-224701-1973): Celebrate individuality and elegance with our Personalized Flower Name Necklace, a timeless keepsake designed to capture both beauty and meaning. Crafted in your choice of polished stainless steel or 18K yellow gold finish, this necklace combines the delicate charm of a flower with the uniqueness of your name. Each piece is fully customizable, featuring:✨ Choice of 12 unique flower designs – pick the one that resonates with your personality or story.✨ Custom name engraving (up to 10 characters) – make it truly yours or gift it to someone special.✨ Adjustable cable chain (18″–20″) – designed for everyday comfort and layering.✨ Elegant design width (0.4″) – bold enough to stand out, subtle enough for everyday wear. Perfect for birthdays, anniversaries, Valentine’s Day, Mother’s Day, or “just because,” this necklace is more than jewelry—it’s a personal statement and a heartfelt gift. Presented in a luxury gift box, it’s ready to surprise your loved one the moment it arrives. 💖 Why Customers Love It A meaningful way to wear your name or that of someone you love. A unique blend of nature and identity through flower and script design. Durable, stylish, and versatile—suitable for any outfit or occasion. 📦 Package Includes: 1 × Custom Flower Name Necklace (Stainless Steel or 18K Gold Finish) 1 × Adjustable Cable Chain (18″–20″) 1 × Complimentary Gift Box (with optional upgrade to Mahogany LED box) Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2025-10-03T03:16:23Z
+- [Personalized Flower Name Necklace - Elegant Custom Jewelry for You](https://swaravcreations.com/products/personalized-flower-name-necklace-elegant-custom-jewelry-shop-224701-1973): Discover our Personalized Flower Name Necklace, the perfect blend of elegance and individuality. Wear your unique style with this stunning custom jewelry piece. Ideal gift!
+  Updated: 2025-10-06T03:13:11Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -545,8 +545,8 @@
   - [18K Yellow Gold Finish / Luxury Box / December](https://swaravcreations.com/products/personalized-flower-name-necklace-elegant-custom-jewelry-shop-224701-1973?variant=47053788610816)
     Availability: Available
     Price: $94.99 CAD
-- [Personalized Zodiac Sign Necklace for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452): Celebrate the power of the stars with this elegant Zodiac Sign Necklace, a timeless piece that reflects personality, destiny, and charm. Handcrafted with care, this necklace is available in polished stainless steel or an 18K yellow gold finish, making it both durable and stylish. Choose from 12 unique zodiac designs – Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus, or Virgo – and carry your star sign close to your heart. Perfect for birthdays, anniversaries, Valentine’s Day, Christmas, or just because, this necklace is a meaningful gift for your partner, family, or friends who believe in the magic of astrology. 💖 Features: Custom Zodiac Pendant – 12 astrology signs to choose from Durable & Stylish – Polished stainless steel or dipped in 18K yellow gold Adjustable Cable Chain (18”–22”) – Comfortable for daily wear Secure 9mm Lobster Clasp – Designed for everyday confidence Luxury Packaging – Comes in a complimentary gift box (upgrade to mahogany style LED box for a premium touch) This stylish necklace features the astrological sign of your choice suspended on an 18”-22” adjustable chain. Your necklace will be custom made upon ordering. It's a gift that they will surely want to keep close to their heart. 🎁 Why It’s Special: This necklace isn’t just jewelry—it’s a symbol of identity and self-expression. Whether she’s a passionate Leo, a grounded Taurus, or a dreamy Pisces, this piece celebrates her star sign in a sleek, fashionable way. Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2025-10-05T18:13:53Z
+- [Personalized Zodiac Sign Necklace - Perfect Gift for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452): Unlock your celestial charm with our Personalized Zodiac Sign Necklace. Perfect for every star sign, this custom piece makes a unique gift or a stunning addition to your jewelry collection.
+  Updated: 2025-10-06T03:14:42Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -739,8 +739,8 @@
   - [Gold Finish / Luxury Box / Pisces](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452?variant=47053894746368)
     Availability: Available
     Price: $84.99 CAD
-- [Endless Love Necklace – Timeless Heart-Infinity Pendant in 14K White Gold or 18K Yellow Gold Finish | Romantic Gift for Her by Swarav Creations](https://swaravcreations.com/products/endless-love-necklace-timeless-heart-infinity-pendant-in-14k-white-gold-or-18k-yellow-gold-finish-romantic-gift-for-her-by-swarav-creations-shop-224701-4923): Celebrate a love that never ends.Express your everlasting affection with the Endless Love Necklace from Swarav Creations. Crafted with precision and care, this elegant heart-shaped infinity pendant beautifully symbolizes eternal connection and devotion — a perfect way to say “I’ll love you till the end of time.” Expertly artisan-crafted in your choice of a radiant 14K white gold finish or a lustrous 18K yellow gold finish, this graceful piece is hand-polished to capture light from every angle, showcasing its mesmerizing shine. Its balanced design ensures it rests delicately on the neckline, making it suitable for daily wear or special occasions such as anniversaries, birthdays, weddings, or Valentine’s Day. ✨ Product Specifications Pendant Height: 0.5" (1.3 cm) Pendant Width: 1" (2.5 cm) Material: Choice of 14K White Gold Finish or 18K Yellow Gold Finish Chain Length: Adjustable Cable Chain (16" – 22") with Secure Lobster Clasp Design: Heart-Infinity Symbol – represents eternal love and connection Each order arrives beautifully packaged in an elegant gift box — ready to be cherished for a lifetime or presented to someone special as a meaningful surprise. 🛍 Perfect Gift For Romantic partner | Wife | Girlfriend | Fiancée | Mother | Best Friend
-  Updated: 2025-10-05T18:55:28Z
+- [Endless Love Necklace - Heart-Infinity Pendant in 14K White Gold](https://swaravcreations.com/products/endless-love-necklace-timeless-heart-infinity-pendant-in-14k-white-gold-or-18k-yellow-gold-finish-romantic-gift-for-her-by-swarav-creations-shop-224701-4923): Discover our Endless Love Necklace featuring a heart-infinity pendant in 14K white gold or 18K yellow gold finish. A perfect romantic gift for her by Swarav Creations.
+  Updated: 2025-10-06T06:55:36Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -761,8 +761,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1595_transformation_8617.png?v=1759633357
     Price: $76.80 CAD
-- [Lucky in Love Necklace - Dancing CZ White Gold Pendant | Swarav Creations](https://swaravcreations.com/products/lucky-in-love-necklace-elegant-white-gold-pendant-with-dancing-cubic-zirconia-romantic-gift-for-her-by-swarav-creations-shop-224701-1724): Some call it fate... some call it destiny... others call it pure luck.The Lucky in Love Necklace from Swarav Creations beautifully captures the magic of finding that special someone who makes your world complete. This radiant pendant symbolizes gratitude, love, and connection — a perfect way to say “I’m so lucky to have you in my life.” Artfully handcrafted with intricate details, this necklace is plated in luxe white gold over stainless steel and features a dancing Cubic Zirconia centerpiece that sparkles with every heartbeat. The stone gently moves within its teardrop frame — creating a mesmerizing shimmer that catches light from all angles. Its versatile and elegant design makes it a heartfelt gift for Valentine’s Day, anniversaries, birthdays, or just because — a daily reminder of love and appreciation. ✨ Product Specifications Material: White Gold Over Stainless Steel Stone Type: Premium Cubic Zirconia Crystal Pendant Size: 0.77” x 0.62” (19.5mm x 16mm) Chain Type: Adjustable Box Chain (16"–18") Clasp: Secure Lobster Clasp Packaging: Presented in an elegant Swarav Creations gift box, ready for gifting 🎁 Perfect For Romantic partner, wife, girlfriend, fiancée, mother, or best friend — ideal for expressing love, luck, and appreciation.
-  Updated: 2025-10-05T19:38:52Z
+- [Lucky in Love Necklace - CZ White Gold Pendant | Swarav Creations](https://swaravcreations.com/products/lucky-in-love-necklace-elegant-white-gold-pendant-with-dancing-cubic-zirconia-romantic-gift-for-her-by-swarav-creations-shop-224701-1724): Discover elegance with the Lucky in Love Necklace from Swarav Creations. This stunning white gold pendant adorned with dancing CZ will elevate your style and bring charm to any outfit.
+  Updated: 2025-10-06T07:27:34Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -775,8 +775,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3643_transformation_11113.png?v=1759634484
     Price: $99.99 CAD
-- [Eternal Love Knot Necklace with Preserved Rose Gift Box | Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-with-preserved-rose-gift-box-swarav-creations-shop-224701-2963): Surprise her with the timeless Love Knot Necklace — a sparkling symbol of eternal love, presented in a luxurious rose box that never fades. Perfect for her. Celebrate your everlasting bond with the Love Knot Necklace from Swarav Creations. This elegant piece symbolizes an unbreakable connection between two souls — beautifully handcrafted with premium cubic zirconia stones set in a 14k white or 18k yellow gold finish.Each necklace arrives in a luxurious keepsake box featuring a real preserved red rose that never fades. With a simple turn of the golden knob, your heartfelt gift is revealed — creating a truly unforgettable unboxing moment. Perfect for Valentine’s Day, anniversaries, birthdays, or just because. Specifications: 14k white gold finish or 18k yellow gold finish 6mm round-cut cubic zirconia centerpiece Pendant size: 0.62" × 0.62" (15.7mm × 15.7mm) Adjustable cable chain: 18"–22" (45.7cm–55.9cm) Lobster clasp closure Premium gift box with preserved rose (80mm × 80mm × 80mm)
-  Updated: 2025-10-05T19:34:06Z
+- [Eternal Love Knot Necklace - Preserved Rose Gift Box| Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-with-preserved-rose-gift-box-swarav-creations-shop-224701-2963): Discover the exquisite Eternal Love Knot Necklace paired with a stunning preserved rose gift box from Swarav Creations. A timeless symbol of love, perfect for any occasion!
+  Updated: 2025-10-06T06:43:31Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -789,8 +789,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9580_transformation_28211.jpg?v=1759689538
     Price: $89.99 CAD
-- [Forever Love Necklace | Preserved Rose Gift Box – Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-preserved-rose-gift-box-swarav-creations-shop-224701-3113): Surprise her with the Forever Love Necklace — a dazzling white or yellow gold pendant in a rose box that lasts forever. Perfect romantic gift for her. Show your love in the most timeless way with the Forever Love Necklace from Swarav Creations.This elegant pendant symbolizes everlasting affection, featuring a 6.5mm cubic zirconia crystal that sparkles with every heartbeat. Encased in a luxurious rose gift box, this necklace creates an unforgettable unboxing experience. The preserved red rose never fades — just like your bond. Perfect for anniversaries, Valentine’s Day, birthdays, or any moment you want to say “Forever Yours.” Specifications: 14k white gold or 18k yellow gold finish over stainless steel 6.5mm round-cut cubic zirconia stone Pendant size: 0.8" (2.2cm) x 0.7" (1.8cm) Adjustable chain: 18"–22" (45.7cm–55.9cm) Lobster clasp closure Gift box: Preserved rose, 80mm x 80mm x 80mm, acrylic & plastic
-  Updated: 2025-10-05T19:34:06Z
+- [Forever Love Necklace | Preserved Rose Gift Box | Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-preserved-rose-gift-box-swarav-creations-shop-224701-3113): Discover the Forever Love Necklace, beautifully presented in a preserved rose gift box. A perfect romantic gesture from Swarav Creations for any special occasion.
+  Updated: 2025-10-06T06:56:15Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -803,8 +803,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9564_transformation_28132.jpg?v=1759690293
     Price: $94.99 CAD
-- [Alluring Beauty Necklace | Cubic Zirconia Gold Pendant – Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-cubic-zirconia-gold-pendant-swarav-creations-shop-224701-3509): Surprise her with the Alluring Beauty Necklace — a sparkling CZ pendant in white or yellow gold, elegantly presented in a preserved rose gift box. Perfect for her. Make every moment shine with the Alluring Beauty Necklace from Swarav Creations.This graceful pendant features a brilliant 7 mm cubic zirconia stone, expertly crafted in a 14k white gold or 18k yellow gold finish over stainless steel. Its delicate curves symbolize love and elegance, making it a timeless piece for the woman you cherish. Presented in a luxurious keepsake box that holds a preserved red rose that never fades, this gift delivers a touch of romance and sophistication. Perfect for Valentine’s Day, anniversaries, birthdays, or any moment to say “I love you.” Specifications: 14k white gold finish or 18k yellow gold finish over stainless steel 7 mm cubic zirconia stone Pendant size: 0.8" (20 mm) x 0.4" (10 mm) Adjustable chain length: 18"–22" (45.7 cm–55.9 cm) Lobster clasp closure Gift box with preserved red rose (80 mm x 80 mm x 80 mm, acrylic & plastic)
-  Updated: 2025-10-05T19:34:27Z
+- [Alluring Beauty Necklace|Cubic Zirconia Gold Pendant- Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-cubic-zirconia-gold-pendant-swarav-creations-shop-224701-3509): Elevate your style with the Alluring Beauty Necklace. This stunning gold pendant adorned with sparkling cubic zirconia is perfect for any occasion. Shop now at Swarav Creations!
+  Updated: 2025-10-06T07:32:30Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -817,8 +817,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9559_transformation_28131.jpg?v=1759692674
     Price: $84.99 CAD
-- [Luxury Photo Necklace – Personalized Heart Pendant in Gold or Steel | Swarav Creations](https://swaravcreations.com/products/luxury-photo-necklace-personalized-heart-pendant-in-gold-or-steel-swarav-creations-shop-224701-6390): Celebrate memories in style with the Luxury Photo Necklace by Swarav Creations.This elegant personalized heart pendant — available in 18K yellow gold or .316 surgical steel — lets you add a cherished photo and custom engraving.A timeless keepsake, beautifully packaged and crafted to express love, gratitude, and connection. Perfect for birthdays, anniversaries, or Valentine’s Day. Make every moment unforgettable with the Luxury Photo Necklace (.316 Surgical Steel) or 18K Yellow Gold Finish | Swarav Creations.Expertly handcrafted and personalized, this heart-shaped pendant captures love, memory, and emotion in one timeless piece. Upload your favorite photo and add a custom engraved message to create a meaningful keepsake that lasts forever. Each necklace is precision-made from premium materials — durable .316 surgical steel or elegant 18K yellow gold finish — ensuring long-lasting shine and hypoallergenic comfort.The adjustable chain (18"–22") offers a perfect fit, while the 24mm x 24mm pendant beautifully frames your cherished memory. Designed and personalized with care, this necklace is more than jewelry — it’s a story of love, connection, and memory. Whether it’s for your partner, mom, or best friend, it’s the perfect gift for Valentine’s Day, Mother’s Day, anniversaries, or just because. ✨ Why You’ll Love It: Personalized photo + engraving option Crafted from .316 surgical steel or 18K gold finish Adjustable length: 18"–22" (45–56 cm) Pendant size: 24 mm x 24 mm Hypoallergenic and fade-resistant Comes in a luxury gift box ready to impress Make her day special with the Luxury Photo Necklace by Swarav Creations — where elegance meets emotion.
-  Updated: 2025-10-05T19:56:49Z
+- [Luxury Photo Necklace | Personalized Heart Pendant in Gold or Steel](https://swaravcreations.com/products/luxury-photo-necklace-personalized-heart-pendant-in-gold-or-steel-swarav-creations-shop-224701-6390): Elevate your style with our Luxury Photo Necklace. Personalize the heart pendant in gold or steel, making it a unique keepsake. Perfect for gifting or a special treat!
+  Updated: 2025-10-06T07:53:23Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -843,22 +843,22 @@
 ## Collections
 
 - [Home page](https://swaravcreations.com/collections/frontpage)
-  Updated: 2025-10-03T03:38:28Z
+  Updated: 2025-10-06T03:33:23Z
   Total Products: 2
 - [New Arrivals | Swarav Creations](https://swaravcreations.com/collections/new-arrivals): Discover the newest jewelry in white or yellow gold finishes. Limited stock, fast shipping, 30-day returns.
-  Updated: 2025-10-05T19:57:18Z
-  Total Products: 12
+  Updated: 2025-10-06T04:23:28Z
+  Total Products: 15
 - [Best Sellers](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations Best Sellers—top-rated necklaces in 14k white or 18k yellow gold finishes, brilliant CZ stones, gift-ready packaging, and fast, tracked shipping.
-  Updated: 2025-10-05T19:57:18Z
-  Total Products: 12
+  Updated: 2025-10-06T04:19:47Z
+  Total Products: 15
 - [Gifts Under $60](https://swaravcreations.com/collections/gifts-under-60)
-  Updated: 2025-10-05T19:57:19Z
-  Total Products: 8
+  Updated: 2025-10-06T04:21:20Z
+  Total Products: 10
 - [Gifts $60–$100](https://swaravcreations.com/collections/gifts-60-100)
-  Updated: 2025-10-05T19:50:50Z
-  Total Products: 16
+  Updated: 2025-10-06T04:22:48Z
+  Total Products: 15
 - [Gifts Over $100](https://swaravcreations.com/collections/gifts-over-100)
-  Updated: 2025-10-05T19:39:22Z
+  Updated: 2025-10-06T03:08:05Z
   Total Products: 1
 
 ## Store Pages
