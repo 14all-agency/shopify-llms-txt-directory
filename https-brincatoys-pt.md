@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-06T12:01:10.985Z
+- Updated At: 2025-10-06T16:01:11.409Z
 
 ## Products
 
@@ -1363,7 +1363,7 @@ de altura.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/camelo-bactriano-439092923-0095866290900-brincatoys-1178693009.jpg?v=1752831861
   Price: 10,00 € EUR
 - [Camião de Transporte de veículos](https://brincatoys.pt/products/camiao-de-transporte-de-veiculos): Camião de Empilhar Veículos, um jogo de encaixe e também uma brincadeira divertida! Este brinquedo da Vilac é um camião em madeira com reboque.  Nele as crianças podem empilhar os vários veículos, transformando a brincadeira num jogo de motricidade. Depois de brincarem com os carros é tempo de arrumar uns sobre os outros no grande camião de transpo
-  Updated: 2025-09-29T19:05:16Z
+  Updated: 2025-10-06T15:14:56Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -1919,7 +1919,7 @@ Esse gênero possui duas características notáveis.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-animais-magnetico-26770321-3048700077035-brincatoys-1178693259.jpg?v=1752818175
   Price: 24,99 € EUR
 - [Conjunto Ariel](https://brincatoys.pt/products/conjunto-ariel): Este conjunto é perfeito para todos os fâs de Ariel. Inclui a boneca com 15 cm, Ursula, Sebastian, Flounder e um pente.
-  Updated: 2025-09-30T01:28:00Z
+  Updated: 2025-10-06T13:01:42Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -2128,7 +2128,7 @@ Qualquer menino adoraria estes carros de madeira que Incluem 7 veículos icônic
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-de-roupa-nenuco-brincatoys-856818721-nenuco-1178693346.jpg?v=1752836404
   Price: 13,99 € EUR
 - [Conjunto Encanto Habitação Mágica Maribel](https://brincatoys.pt/products/conjunto-encanto-habitacao-magica-maribel): As crianças  podem explorar o mundo mágico do Encanto da Disney com o conjunto habitação mágica da Mirabel. Este conjunto foi projectado para se parecer com o quarto de Mirabel no filme e vem com uma boneca Mirabel e 6 acessórios para contar histórias, incluindo a sua cama, mesa de máquina de costura, acordeão e o brinquedo que ela dá de present...
-  Updated: 2025-09-30T01:19:43Z
+  Updated: 2025-10-06T13:02:15Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -7494,14 +7494,14 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-sofia-com-livro-621293116-brincatoys-1178695000.jpg?v=1752867849
   Price: 6,50 € EUR
 - [Princesas Disney Jasmin](https://brincatoys.pt/products/princesas-disney-jasmin): Recria as melhores cenas de Aladdin, ou inventa as tuas próprias aventuras com esta boneca 13 cm de Jasmine na sua versão Royal Shimmer! Inclui uma saia brilhante, diadema e sapatos.  Dimensão: 12,50 x 32 x 5 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-05T09:41:36Z
+  Updated: 2025-10-06T13:05:18Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesas-disney-jasmin-90090222-princesas-disney-1178695003.jpg?v=1752867857
   Price: 17,99 € EUR
 - [Princesas Disney Tiana](https://brincatoys.pt/products/princesas-disney-tiana): Dê destaque a este estilo contemporâneo único com esta boneca da moda elegantemente vestida. A amada princesa Tiana da Disney está a entrar no mundo moderno com um vestido que combina elegância contemporânea e o seu estilo icônico de A Princesa e o Sapo da Disney. O seu vestido, inspirado nos jardins de Nova Orleans, apresenta tons de verde e refle
-  Updated: 2025-09-30T07:28:22Z
+  Updated: 2025-10-06T13:05:17Z
   Vendor: Princesas Disney
   Product Type: + 6 anos
   Availability: Available
@@ -8436,21 +8436,21 @@ espécie da família Mustelidae. Ocorrem na maioria da África e no Oeste e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ratel-430027223-brincatoys-1178695287.jpg?v=1752871689
   Price: 7,50 € EUR
 - [Raya e o Último Dragão -Boneca Sisu-](https://brincatoys.pt/products/raya-e-o-ultimo-dragao-boneca-sisu): Boneca de Sisu, uma das protagonista do filme Raya e o Último Dragão, da Disney. Com as roupas e os pormenores realistas da personagem. Uma boneca ideal para recriar as cenas mais emocionantes do filme. Dimensão: 14 x 32 x5 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T07:53:08Z
+  Updated: 2025-10-06T13:05:17Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/raya-e-o-ultimo-dragao-boneca-sisu-90956921-princesas-disney-1178695289.jpg?v=1752809523
   Price: 16,95 € EUR
 - [Raya e o Último Dragão Conjunto Estilo e Fortaleza](https://brincatoys.pt/products/raya-e-o-ultimo-dragao-conjunto-estilo-e-fortaleza): Boneca de Raya com trança e acessórios para o cabelo. Usa as molas e a escova para o cabelo. Cria diferentes looks inspirados nas terras de Kumandra. Inclui as engraçadas mascotas do filme.   Dimensão: 20 x 32 x 5,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T07:51:39Z
+  Updated: 2025-10-06T13:05:17Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/raya-e-o-ultimo-dragao-conjunto-estilo-e-fortaleza-909469521-princesas-disney-1178695291.jpg?v=1752809530
   Price: 28,90 € EUR
 - [Raya e o Último Dragão Raya e Flor de Kumandra](https://brincatoys.pt/products/raya-e-o-ultimo-dragao-raya-e-flor-de-kumandra): Boneca Raya com a Flor de Kumandra. Levanta o seu braço para escutares a sua canção e veres a Flor de Kumandra iluminar-se! Funciona com pilhas.  Dimensão: 18 x 32 x 5,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T07:51:32Z
+  Updated: 2025-10-06T13:05:17Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -9994,7 +9994,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-sonic-3-x-48-pecas-diversao-garantida-775280022-sonic-the-hedgehog-1178695747.webp?v=1752880442
   Price: 10,99 € EUR
 - [Princesa Mérida](https://brincatoys.pt/products/princesa-merida): A Mérida é valente, atrevida, aventureira e independente e está pronta para viver brilhantes aventuras!Mérida tem um vestido que luze as suas cores distintivas, que brilha de uma maneira muito especial.Tem o cabelo longo, e podes completar o seu look com a bandelete.  Além disso, vem com sapatos de tira e põe para completar o seu conjunto. Estás pr
-  Updated: 2025-09-29T21:02:20Z
+  Updated: 2025-10-06T13:05:16Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -11163,7 +11163,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-duplo-mota-da-policia-661096723-5702017153636-lego-1178696268.jpg?v=1752890052
   Price: 12,50 € EUR
 - [Princesa Disney Mulan | Brincatoys](https://brincatoys.pt/products/princesa-disney-mulan): Corajosa e determinada, Mulan desafia a tradição e torna-se uma grande guerreira, salvando a sua terra. Com esta boneca Royal Shimmer Disney Princess, as crianças podem imaginar a ousada e destemida Mulan juntando-se a elas numa aventura! Inspirada no personagem animado, esta boneca da Disney inclui uma saia de boneca e acessórios - uma tiara e sap
-  Updated: 2025-09-29T21:20:23Z
+  Updated: 2025-10-06T13:05:16Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -11177,7 +11177,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-cinderela-brilho-real-557904823-5010993779048-princesas-disney-1178696278.jpg?v=1752890182
   Price: 16,99 € EUR
 - [Princesa Disney Aurora Brilho Real](https://brincatoys.pt/products/princesa-disney-aurora-brilho-real): Conhece a boneca Aurora, inspirada na princesa positiva e criativa do filme A Bela Adormecida da Disney. Esta boneca vem com uma roupa brilhante e acessórios que incluem sapatos e tiara. Com o seu visual característico do filme, a boneca Aurora está pronta para qualquer aventura!  Recria as melhores cenas da Bela Adormecida com esta boneca de 30 cm
-  Updated: 2025-09-29T21:20:03Z
+  Updated: 2025-10-06T13:05:16Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -11191,7 +11191,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-ariel-brilho-real-557902423-5010993779024-princesas-disney-1178696284.jpg?v=1752805446
   Price: 16,99 € EUR
 - [Princesa Disney Pocahontas Brilho Real](https://brincatoys.pt/products/princesa-disney-pocahontas-brilho-real): De espírito livre, corajoso e sábio, Pocahontas procura trazer paz ao mundo em seu redor e "pintar com todas as cores o vento." Com esta boneca Royal Shimmer Disney Princess, com aproximadamente 30 cm, as crianças podem imaginar a forte e destemida Pocahontas juntando-se a elas numa aventura! Inspirada no seu personagem animado, esta boneca Disney
-  Updated: 2025-09-29T21:20:16Z
+  Updated: 2025-10-06T13:03:10Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -12626,14 +12626,14 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-anna-com-coroa-35-cm-boneca-magica-de-frozen-772149023-0192995214903-princesas-disney-1178696942.jpg?v=1752902177
   Price: 39,99 € EUR
 - [Princesa Disney 35 cm - Rainha Elsa](https://brincatoys.pt/products/princesa-disney-35-cm-rainha-elsa): Inspirado em Frozen 2! Reviva as suas cenas favoritas e momentos da história! Detalhes de moda complexos e luxuosos, incluindo capa delicada e transparente. A boneca apresenta longos cabelos ondulados e ondulados para diversão extra. Detalhes e designs de filmes autênticos para os fãs de Frozen 2! Junte-se a Elsa no final da sua jornada para descob
-  Updated: 2025-09-30T01:21:35Z
+  Updated: 2025-10-06T13:00:53Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-35-cm-rainha-elsa-772148923-princesas-disney-1178696947.jpg?v=1752902291
   Price: 39,99 € EUR
 - [Frozen - Elsa e Nook](https://brincatoys.pt/products/frozen-elsa-e-nook): As crianças podem criar aventuras congelantes em Arendelle com o Conjunto Disney Frozen Elsa e Nokk. Na épica aventura que vive no filme frozen 2, Elsa conhece o Nokk, um místico espírito das águas com um poder que rivaliza com o seu. Juntos, os dois exploram a terra e o mar, em busca de respostas acerca do passado e dos poderes de Elsa. Fãs miúdos
-  Updated: 2025-09-30T01:23:54Z
+  Updated: 2025-10-06T13:00:53Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -12829,7 +12829,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-diversao-com-o-buggy-de-praia-664172523-5702017412849-lego-1178697022.jpg?v=1752802804
   Price: 12,00 € EUR
 - [Princesa Disney - Tiana 35 cm](https://brincatoys.pt/products/princesa-disney-tiana): A Boneca Tiana da Disney é perfeita para aqueles que querem mergulhar no mágico mundo das princesas Disney! Esta boneca de 35 cm de altura apresenta olhos refletores reais que lhe conferem um brilho único. Ela também possui um vestido icónico com detalhes glitter, uma tiara brilhante e sapatos a condizer que lhe dão um toque de elegância. Além diss
-  Updated: 2025-09-30T01:49:57Z
+  Updated: 2025-10-06T12:57:50Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -12941,7 +12941,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-mechs-da-equipa-ninja-de-lloyd-e-arin-667179423-5702017413082-lego-1178697097.jpg?v=1752904701
   Price: 84,99 € EUR
 - [Princesa Disney Elsa com Vestido Verde: Elegância e Magia](https://brincatoys.pt/products/princesa-disney-elsa-com-vestido-verde-35-cm): Traga a magia de Frozen para a sua casa com a Princesa Disney Elsa com vestido verde! Uma boneca encantadora de 35cm com detalhes inspirados no gelo.
-  Updated: 2025-10-06T03:47:23Z
+  Updated: 2025-10-06T12:58:17Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -13211,14 +13211,14 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pinguim-de-peluche-521903323-7340031379908-brincatoys-1178697236.jpg?v=1752907088
   Price: 22,99 € EUR
 - [Princesa Disney Rapunzel](https://brincatoys.pt/products/princesa-disney-rapunzel): Recria e imagina as tuas histórias e aventuras favoritas com a boneca Princesas Disney Rapunzel (15 cm), articulada, com lindos detalhes no seu vestido e um mini pente para brincar com os seus cabelos.  Dimensão:10,50 x 19 x 6 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-04T17:27:37Z
+  Updated: 2025-10-06T12:58:46Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-rapunzel-772187223-2600000-princesas-disney-1178697240.jpg?v=1752907101
   Price: 19,99 € EUR
 - [Princesa Disney Bela](https://brincatoys.pt/products/princesa-disney-bela): Recria e imagina as tuas histórias e aventuras favoritas com a boneca Princesa Disney Bela (15 cm), articulada, com lindos detalhes no seu vestido charmoso e um mini pente para brincar com os seus cabelos. A linda pequena Bela. com o visual característico, vai chamar a atenção das crianças e oferecer brincadeiras alegres e intermináveis. Dimensão:10,50 x 19 x 6 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:23:05Z
+  Updated: 2025-10-06T12:59:23Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -13407,7 +13407,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-huracan-lp-610-4-683150923-2600000-brincatoys-1178697360.jpg?v=1752908762
   Price: 22,99 € EUR
 - [Lamborghini Huracán LP 610-4 Amarelo](https://brincatoys.pt/products/lamborghini-huracan-lp-610-4-amarelo): Veículo Lamborghini Huracán LP 610-4, em metal, da marca Maisto, reproduzido na escala 1:24, com peças de plástico, portas que abrem e fecham e pneus de borracha. O Lamborghini Huracán é um desportivo construído pela empresa italiana Lamborghini, substituindo o lendário Gallardo, uns dos carros mais bem sucedidos da história da companhia. O Huracán utiliza o mesmo bloco do motor do anterior Gallardo, um 5,2 litros V10. As alterações introduzidas permitiram aumentar a potência dos 520 cv do Gallardo LP-520-4 para 610 cv. O Huracan acelera dos 0 a 100 km/h em apenas 3,2 segundos e alcança a marca de 200 km/h em 9,5 segundos. Dimensão: 23 x 11,50 x 10,50 cm Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T00:41:27Z
+  Updated: 2025-10-06T13:20:43Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -13475,13 +13475,6 @@ Figura com aproximadamente 10,8 cm.
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-de-brincar-ferrari-f50-a-essencia-de-velocidade-e-design-682601024-8719247331960-bburago-1178697401.jpg?v=1752909381
-  Price: 26,50 € EUR
-- [Ferrari GTC4 Lusso inspired by F2003-GA](https://brincatoys.pt/products/ferrari-gtc4-lusso-inspired-by-f2003-ga): Veículo Ferrari GTC4 Lusso inspired by F2003-GA, em metal, da marca BBURAGO, reproduzido na escala 1:24, com portas, tampa de motor que abrem e fecham, pneus de borracha. O GTC4 Lusso com motor V12 é ainda uma solução técnica que continua fascinante e que garante um som de motor puro e uma série de emoções difíceis de obter com qualquer outro esquema de motor. Afinal, os 690 cavalos do V12 do GTC4Lusso não superam em nada os 610 cv do V8 instalado no GTC4 Lusso T, mas a experiência que um V12 pode oferecer continua a ser algo inesquecível. Com boa relação peso/potência, o GTC4 Lusso acelera de 0 a 100 km/h em 3”4, já com 80% do torque disponível a 5750 rpm. O comportamento seguro do GTC4 Lusso é garantido pelas quatro rodas (aciona os ângulos das rodas traseiras e as gira em conjunto com as rodas dianteiras) , graças aos quais o carro se mantém muito ágil mesmo na cidade... com quatro pessoas a bordo. Dimensão: 22 x 12 x 8 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-05T16:00:30Z
-  Vendor: Bburago
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ferrari-gtc4-lusso-inspired-by-f2003-ga-685550723-bburago-1178697404.jpg?v=1752909490
   Price: 26,50 € EUR
 - [Lamborghini Gallardo LP560-4 1:24](https://brincatoys.pt/products/lamborghini-gallardo-lp560-4-124): Veículo da Rastar, na escala 1:24, muito detalhado do Lamborghini Gallardo. O design angular foi cuidadosamente recriado com detalhes meticulosos, com portas e capô, que se abrem, rodas livres e um interior primorosamente detalhado a condizer. O Gallardo foi um modelo desportivo da Lamborghini lançado em 2004, sendo o primeiro modelo da marca equipado com motor V10, agora com 520 CV. No Salão de Genebra de 2008 a Lamborghini apresentou uma versão atualizada o Gallardo denominada LP560-4. O modelo teve seu motor 5.2 V10 retrabalhado para alcançar a potência de 560 cv. Dimensão: 25,50 x 14,50 x 11 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-10-04T15:43:09Z
@@ -13747,7 +13740,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-minnie-com-saia-cor-de-rosa-772164523-brincatoys-1178697574.jpg?v=1752800653
   Price: 15,99 € EUR
 - [Princesa Disney Cinderela](https://brincatoys.pt/products/princesa-disney-cinderela): Entre no mundo mágico da Disney com a Princesa Disney Cinderela. Esta encantadora boneca de 15 cm é o brinquedo perfeito para recriar e imaginar as histórias e aventuras favoritas da Cinderela. A Cinderela é articulada, permitindo posá-la em inúmeras posturas reais. Ela apresenta lindos detalhes no seu vestido charmoso, replicando o icônico vestido azul que todos nós conhecemos do filme clássico da Disney. E não nos esqueçamos dos seus lindos cabelos loiros! Incluído com a boneca vem um mini pente para que a sua criança possa brincar e estilizar os cabelos da Cinderela, adicionando uma camada extra de diversão e interatividade à brincadeira. Com o seu visual característico, a nossa pequena Cinderela não passará despercebida. Ela é feita para chamar a atenção das crianças e oferecer brincadeiras alegres e intermináveis. Não perca a oportunidade de trazer um pouco de magia Disney para a sua casa com a Princesa Disney Cinderela! Dimensão:10,50 x 19 x 6 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:23:19Z
+  Updated: 2025-10-06T12:53:30Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -14034,21 +14027,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-ariel-38-cm-cabelos-ruivos-e-longos-777656323-0192995230125-princesas-disney-1178697757.jpg?v=1752913578
   Price: 39,99 € EUR
 - [Princesa Disney Asha 15 cm](https://brincatoys.pt/products/princesa-disney-asha-15-cm): Faça uma viagem emocionante com um desejo verdadeiro no seu coração com esta pequena boneca Asha. Vestida com a sua roupa roxa, assim como no novo filme de animação da Disney, Wish, Asha vem com o seu diário, o cabelo comprido e o pescoço, os ombros e os quadris flexíveis para ainda mais aventuras. Esta pequena boneca está pronta para uma grande brincadeira! Perfeita para caber no bolso, graças aos seus 15 cm, Asha pode viajar para qualquer lugar em aventuras mágicas. Dimensão: 10,50 x 19,50 x 6,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:35:40Z
+  Updated: 2025-10-06T12:57:50Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-asha-15-cm-773000223-princesas-disney-1178697761.jpg?v=1752913689
   Price: 19,99 € EUR
 - [Boneca Disney Dahlia 15 cm](https://brincatoys.pt/products/boneca-disney-dahlia-15-cm): Embarque numa aventura mágica com esta pequena boneca Dahlia com 15 cm. Vestida com o seu vestido vermelho com desenhos florais e bandolete exclusiva, como no novo filme de animação da Disney, Wish, a melhor amiga de Asha, Dahlia, também vem com o seu visual de personagem fiel ao filme, apresentando o pescoço, os ombros e os quadris flexíveis para mais aventuras e diversão. !Perfeitamente compacta, Dahlia pode viajar para qualquer lugar como uma verdadeira melhor amiga. Recria e imagina momentos do filme Wish com a melhor amiga de Asha. Dimensão: 9,50 x 19,50 x 6,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:37:29Z
+  Updated: 2025-10-06T12:57:49Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-disney-dahlia-15-cm-773144323-princesas-disney-1178697763.jpg?v=1752913695
   Price: 19,99 € EUR
 - [Conjunto Disney Wish - Asha e Queen Amaya](https://brincatoys.pt/products/conjunto-disney-wish-asha-e-queen-amaya): Dá vida ao novo filme de animação da Disney, Wish, com o conjunto Asha & Queen Amaya. Estas pequenas bonecas de 15 cm estão prontas para uma grande brincadeira! Recria momentos favoritos da história com Asha, o seu adorável amigo cabra falante, Valentino, e sua companheira magicamente divertida, Star. A Rainha Amaya, com o seu espelho sempre pronto, faz uma aparição real vestida com a sua linda capa e coroa dourada. Estas pequenas bonecas têm o tamanho perfeito para brincar em qualquer lugar, para que possas criar as tuas próprias aventuras cinematográficas onde quer que vás. Dimensão: 30,50 x 19 x 7,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T01:35:33Z
+  Updated: 2025-10-06T12:57:49Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -15625,7 +15618,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/marcadores-duplos-top-model-para-artistas-251139824-brincatoys-1178698945.jpg?v=1752933611
   Price: 9,50 € EUR
 - [Jogo de Cartas Ponyo Studio - Produto Oficial Studio Ghibli](https://brincatoys.pt/products/jogo-de-cartas-ponyo-studio): Jogo de Cartas Ponyo Studio licenciado pelo Studio Ghibli. Design encantador, qualidade premium e diversão garantida para toda a família.
-  Updated: 2025-10-05T15:59:52Z
+  Updated: 2025-10-06T12:40:25Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -15737,7 +15730,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-peluche-de-actividades-girafa-826081024-2600000-brincatoys-1178699041.jpg?v=1752935047
   Price: 29,99 € EUR
 - [Brinquedo de construção Magna-Tiles Animais da Floresta](https://brincatoys.pt/products/magna-tiles-animais-da-floresta): Descubra o Magna-Tiles Animais da Floresta, o brinquedo de construção magnético que encanta crianças, desenvolvendo habilidades STEM e criatividade.
-  Updated: 2025-09-30T01:24:01Z
+  Updated: 2025-10-06T12:42:32Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -16143,28 +16136,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-de-pano-fada-angelina-a-amiga-magica-ideal-602105024-brincatoys-1178699361.jpg?v=1752940083
   Price: 24,90 € EUR
 - [Boneca Princesa Disney – Elsa com Vestido Prateado](https://brincatoys.pt/products/princesa-disney-elsa-com-vestido-prateado): Descubra a magia de 'Frozen' com a Boneca Princesa Disney - Elsa com Vestido Prateado. Perfeita para recriar cenas mágicas e inspirar aventuras criativas
-  Updated: 2025-10-06T04:43:16Z
+  Updated: 2025-10-06T12:55:23Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-princesa-disney-elsa-com-vestido-prateado-772187524-2600000-princesas-disney-1178699372.jpg?v=1752940216
   Price: 19,99 € EUR
 - [Boneca Princesa Disney - Elsa com Vestido Azul](https://brincatoys.pt/products/boneca-princesa-disney-elsa-com-vestido-azul): A encantadora Boneca Princesa Disney - Elsa com vestido azul inspira magia e aventura. O presente ideal para os fãs de Frozen. Estimule a imaginação!
-  Updated: 2025-10-06T10:34:13Z
+  Updated: 2025-10-06T12:57:49Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-princesa-disney-elsa-com-vestido-azul-772187724-2600000-princesas-disney-1178699375.jpg?v=1752940443
   Price: 19,99 € EUR
 - [Boneca Princesa Disney – Anna com vestido preto](https://brincatoys.pt/products/boneca-princesa-disney-anna-com-vestido-preto): Descubra a magia da Boneca Princesa Disney - Anna com vestido preto. Perfeita para fãs de Frozen, uma boneca que traz o mundo de Arendelle para sua casa.
-  Updated: 2025-10-06T04:43:15Z
+  Updated: 2025-10-06T12:57:49Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-princesa-disney-anna-com-vestido-preto-772187824-2600000-princesas-disney-1178699378.jpg?v=1752940452
   Price: 19,99 € EUR
 - [Boneca Princesa Disney – Anna com Coroa](https://brincatoys.pt/products/boneca-princesa-disney-anna-com-coroa): Descubra a magia da Boneca Princesa Disney – Anna com coroa, com detalhes autênticos e acessórios, perfeita para colecionadores e fãs de "Frozen".
-  Updated: 2025-10-06T03:44:54Z
+  Updated: 2025-10-06T12:44:50Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -17508,7 +17501,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-vintage-custom-ford-maverick-771858924-0194735185894-hot-wheels-1178700500.jpg?v=1752956540
   Price: 6,00 € EUR
 - [Hot Wheels Vintage - Custom Datsun 240Z](https://brincatoys.pt/products/hot-wheels-vintage-custom-datsun-240z): Descubra o carro de brincar Hot Wheels Vintage - Custom Datsun 240Z. Réplica detalhada, ideal para colecionadores e crianças.
-  Updated: 2025-09-30T01:14:40Z
+  Updated: 2025-10-06T15:47:46Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -17956,7 +17949,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-verde-com-alcofa-conforto-e-estilo-para-brincar-855073024-8427614507305-brincatoys-1178700825.jpg?v=1752961686
   Price: 43,50 € EUR
 - [Boneca Enchantimals - Texie Tiger e Sabre: Diversão na Praia](https://brincatoys.pt/products/boneca-enchantimals-texie-tiger-e-sabre): Encante-se com a boneca Enchantimals Texie Tiger e o seu amigo Sabre. Essa dupla cheia de estilo está pronta para arrasar na praia com suas roupas tropicais
-  Updated: 2025-10-05T14:54:57Z
+  Updated: 2025-10-06T15:41:22Z
   Vendor: Enchantimals
   Product Type: + 4 anos
   Availability: Available
@@ -18726,7 +18719,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42199-pull-back-monster-jam-digatron-664219925-5702017816227-lego-1178701405.jpg?v=1752970572
   Price: 29,99 € EUR
 - [Lego Technic 42200 - Pull-Back Monster Jam ThunderROARus](https://brincatoys.pt/products/lego-technic-pull-back-monster-jam™-thunderroarus): Obtenha ação explosiva com o Lego Technic 42200 - Pull-Back Monster Jam ThunderROARus! Construa, lance e prepare-se para uma corrida emocionante.
-  Updated: 2025-09-29T23:05:38Z
+  Updated: 2025-10-06T13:25:05Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -19370,7 +19363,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60452-carrinha-de-donutes-divertida-666045225-5702017812427-lego-1178701821.jpg?v=1752977542
   Price: 22,50 € EUR
 - [Little Live Pets Tartaruga Azul: Brinquedo Divertido](https://brincatoys.pt/products/little-live-pets-tartaruga-azul): Conheça o brinquedo Little Live Pets Tartaruga Azul que caminha e nada, oferecendo diversão e educação ambiental. Iincentiva o amor pela vida marinha.
-  Updated: 2025-10-05T15:58:34Z
+  Updated: 2025-10-06T13:25:22Z
   Vendor: Little Live Pets
   Product Type: + 5 anos
   Availability: Available
@@ -19797,7 +19790,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cubo-12-pecas-spidey-and-his-amazing-friends-diversao-854119825-8005125411986-spidey-and-amazing-friends-1178692582.jpg?v=1752824301
   Price: 12,50 € EUR
 - [Cubo 12 Peças - Princesas Disney para Brincar e Aprender](https://brincatoys.pt/products/cubo-12-pecas-princesas-disney): Desperte a criatividade das crianças com o Cubo 12 Peças - Princesas Disney! Um divertido quebra-cabeças que também é educativo. 🎨
-  Updated: 2025-10-05T15:58:23Z
+  Updated: 2025-10-06T12:59:48Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -19825,7 +19818,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-dragon-ball-z-104-pcs-diversao-e-aventura-852577425-8005125257744-dragon-ball-1178702074.jpg?v=1752981963
   Price: 12,99 € EUR
 - [Barbie Signature Miss Astronaut 1965: Edição Limitada](https://brincatoys.pt/products/barbie-signature-miss-astronaut-1965): Celebre o 60.º aniversário da Barbie com a Barbie Signature Miss Astronaut 1965! Experimente a nostalgia da exploração espacial. Adquira a sua!
-  Updated: 2025-10-05T15:58:19Z
+  Updated: 2025-10-06T12:15:50Z
   Vendor: Barbie
   Product Type: + 12 anos
   Availability: Available
@@ -21268,7 +21261,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T17:12:02Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-10-05T19:24:23Z
+  Updated: 2025-10-06T13:24:22Z
   Total Products: 243
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-08-20T23:28:51Z
@@ -21343,7 +21336,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 1571
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-05T16:19:56Z
+  Updated: 2025-10-06T13:24:22Z
   Total Products: 716
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-05T15:18:06Z
@@ -21361,23 +21354,23 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T19:22:59Z
   Total Products: 1307
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-06T11:23:20Z
+  Updated: 2025-10-06T13:24:22Z
   Total Products: 2410
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 2874
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3256
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3255
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3389
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3468
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3517
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-05T19:24:23Z
   Total Products: 378
@@ -21496,7 +21489,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T13:35:48Z
   Total Products: 7
 - [Little Live Pets](https://brincatoys.pt/collections/little-live-pets)
-  Updated: 2025-09-29T22:47:58Z
+  Updated: 2025-10-06T13:24:22Z
   Total Products: 17
 - [Matchbox](https://brincatoys.pt/collections/matchbox)
   Updated: 2025-09-29T18:39:46Z
@@ -21568,8 +21561,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T03:55:06Z
   Total Products: 10
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3550
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3549
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-05T19:22:59Z
   Total Products: 291
@@ -21580,13 +21573,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:32:48Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 1211
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 1210
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-05T16:19:56Z
   Total Products: 490
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
-  Updated: 2025-10-05T16:51:43Z
+  Updated: 2025-10-06T13:24:22Z
   Total Products: 141
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
   Updated: 2025-10-05T19:22:59Z
@@ -21604,11 +21597,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3550
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3549
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3550
+  Updated: 2025-10-06T16:01:02Z
+  Total Products: 3549
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-05T14:54:25Z
   Total Products: 24
@@ -21619,8 +21612,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3064
+  Updated: 2025-10-06T15:15:27Z
+  Total Products: 3062
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21628,8 +21621,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:40:01Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 3064
+  Updated: 2025-10-06T15:15:27Z
+  Total Products: 3062
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-05T19:24:22Z
   Total Products: 937
