@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-06T12:00:29.126Z
+- Updated At: 2025-10-06T20:00:29.408Z
 
 ## Products
 
@@ -863,7 +863,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_371_H40574c3e309a4245a6a2b55cf679c175Y.png?v=1759594440
   Price: $35.26 USD
 - [Letter Printed Men's Casual Sweater Suit](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit): Product information: Pattern: letter printing Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: Loose Applicable scenarios: Leisure Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's top + pants *1 Product Image:
-  Updated: 2025-10-06T09:56:40Z
+  Updated: 2025-10-06T19:56:52Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
