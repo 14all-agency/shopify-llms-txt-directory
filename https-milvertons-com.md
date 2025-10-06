@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-06T04:00:36.264Z
+- Updated At: 2025-10-06T08:00:35.086Z
 
 ## Products
 
@@ -10412,7 +10412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/enia-cascade-print-skirt-9098776.webp?v=1758251773
     Price: $36.95 USD
 - [Elegant Wedding Shoe and Bag Set with Handmade Flowers](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers): Elegant Wedding Shoe and Bag Set with Handmade Flowers. Ideal for weddings, parties and special occasions, this shoe and bag combo offer both style and comfort.
-  Updated: 2025-10-05T18:19:44Z
+  Updated: 2025-10-06T06:19:53Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
