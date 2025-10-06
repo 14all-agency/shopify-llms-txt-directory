@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-06T04:00:35.545Z
+- Updated At: 2025-10-06T08:00:34.906Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -37,7 +37,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1756297273
   Price: £100.80 GBP
 - [Melt & Pour SLS - Free White Solid Base](https://inky-ingredients.com/products/melt-pour-sls-free-white-base): Formulate mild and SLS-free white soaps effortlessly using Melt & Pour SLS - Free White Base. This base provides a gentle cleansing experience while offering a blank canvas for creative soap designs.
-  Updated: 2025-10-02T11:14:01Z
+  Updated: 2025-10-06T06:58:40Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3779,7 +3779,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £237.12 GBP
 - [Eucalyptus Citriodora, Essential Oil](https://inky-ingredients.com/products/eucalyptus-citriodora-essential-oil): Eucalyptus Citriodora Essential Oil, with its lemony aroma, offers refreshing and uplifting qualities. It's a natural insect repellent and is commonly used to promote respiratory well-being in aromatherapy.
-  Updated: 2025-09-26T09:01:18Z
+  Updated: 2025-10-06T06:58:40Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
