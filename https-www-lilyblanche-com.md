@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-06T16:00:46.191Z
+- Updated At: 2025-10-06T20:00:46.727Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2107,7 +2107,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_26af69b2-bf30-45bd-beec-0d6243ca0840.jpg?v=1741876452
   Price: £85.00 GBP
 - [Key to My Heart Locket | Gold Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/key-locket-gold): Keep your loved ones close to your heart with this pretty filigree style gold vermeil heart locket which opens to take two of your pictures. Hallmarked in the UK. This gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Shop this necklace online today. Express Shipping Available.
-  Updated: 2025-09-08T18:57:56Z
+  Updated: 2025-10-06T16:55:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15710,7 +15710,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-10-03T12:48:50Z
+  Updated: 2025-10-06T16:47:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16230,7 +16230,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Heart Shaped Rose Gold Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-rose-gold): Looking for an extra special necklace? This pretty filigree style rose gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This rose gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Express delivery available. Personalise online today.
-  Updated: 2025-09-23T21:09:16Z
+  Updated: 2025-10-06T17:20:20Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16925,7 +16925,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-06T03:53:45Z
+  Updated: 2025-10-06T18:19:56Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17176,7 +17176,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphirehuggyearringssilver2_1080.jpg?v=1741874025
   Price: £85.00 GBP
 - [Blue Twinkle Huggie Earrings Gold](https://www.lilyblanche.com/products/sapphire-gold-huggie-hoop-earrings): Looking for the perfect gift? Our blue Twinkle Huggie earrings in gold are ideal for making a curated ear stack. Also available in green. Shop today and get a free jewellery care kit worth £20
-  Updated: 2025-07-26T13:27:14Z
+  Updated: 2025-10-06T16:55:56Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -23024,7 +23024,7 @@ From £190.
     Price: £245.00 GBP
 - [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
 From £150
-  Updated: 2025-10-01T05:46:50Z
+  Updated: 2025-10-06T17:08:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
