@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-05T12:00:28.516Z
+- Updated At: 2025-10-06T04:00:29.615Z
 
 ## Products
 
@@ -48,12 +48,12 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5043419837.jpg?v=1757492266
   Price: $1,238.00 USD
 - [Professional Electronic Pedicure Tool | Callus & Dead Skin Remover](https://fusionvibestore.com/products/electronic-pedicure-tool): Salon-quality pedicures at home! This electronic pedicure tool safely and effectively removes calluses and dead skin. Leaves your feet feeling soft and smooth. Order now.
-  Updated: 2025-09-26T20:27:45Z
+  Updated: 2025-10-05T16:32:56Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4981101820.jpg?v=1757492380
-  Price: $956.00 USD
+  Price: $9.56 USD
 - [Magnetic Desk Lamp | Flexible Gooseneck LED Light for Office & Study](https://fusionvibestore.com/products/magnetic-lamp-light): Illuminate your workspace! This magnetic base lamp features a flexible gooseneck for perfect positioning. Bright LED light ideal for desks, workshops, or reading. Get yours today!
   Updated: 2025-09-26T20:27:16Z
   Vendor: z60ja0-0n
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-03T09:27:06Z
+  Updated: 2025-10-05T14:35:10Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -330,11 +330,11 @@
   - [Ivory White / Digital display L8](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars?variant=45547037491399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7c540b1c-2fad-484f-b0c0-a29b60548052.jpg?v=1758013104
-    Price: $4,778.00 USD
+    Price: $47.78 USD
   - [Ivory White / L7 Humidifying Air Cooler](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars?variant=45547037524167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b08e3a55-0f55-442b-8355-85b43df714d4.jpg?v=1758013104
-    Price: $4,778.00 USD
+    Price: $47.78 USD
 - [YD03 Wireless Earbuds with Large Screen Case | Bluetooth 5.3 TWS Headphones](https://fusionvibestore.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light): Experience crystal-clear sound! The YD03 TWS earbuds feature a large display case, Bluetooth 5.3, and long battery life. Perfect for music, calls, and gaming. Order your wireless headset now. Specification: Item model number: Yd03 Battery life: 4~5 hours Bluetooth version: 5.3 Transmission distance: Within 10 meters Charging compartment size: 80.8*55*30.7 mm Headphone size: 24* 16.8* 14.5mm Packing list: Earphone*1+usb data cable*1+instruction manual*1
   Updated: 2025-09-26T20:14:45Z
   Vendor: z60ja0-0n
@@ -872,13 +872,13 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-10-02T15:44:15Z
+  Updated: 2025-10-05T16:32:57Z
   Total Products: 13
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-02T15:38:26Z
   Total Products: 5
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-10-02T15:52:46Z
+  Updated: 2025-10-05T16:32:57Z
   Total Products: 11
 
 ## Store Pages
