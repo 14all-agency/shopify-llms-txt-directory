@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-05T20:00:48.545Z
+- Updated At: 2025-10-06T00:00:47.157Z
 
 ## Products
 
@@ -21821,7 +21821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
 - [Ribbed Round Neck Top and Shorts Set - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-round-neck-top-and-shorts-set): Get ready to rock this Ribbed Round Neck Top and Shorts Set! Made from high-quality ribbed material, this set boasts a snug fit and stylish design. Perfect for lounging!
-  Updated: 2025-10-01T22:27:19Z
+  Updated: 2025-10-05T20:43:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-05T14:51:52Z
+  Updated: 2025-10-05T23:30:49Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25606,7 +25606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cat-Eye-Frame-Sunglasses-Brinxx-Couture-9392.jpg?v=1730300065
     Price: $15.00 USD
 - [Lapel Collar Long Sleeve Blazer and Pants Set - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-blazer-pants-set-women): Discover the Lapel Collar Long Sleeve Blazer and Pants Set for Women. Professional, stylish, and perfect for any occasion. Shop now for a wardrobe upgrade.
-  Updated: 2025-10-01T22:51:10Z
+  Updated: 2025-10-05T23:01:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
