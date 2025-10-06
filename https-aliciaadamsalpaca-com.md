@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-06T00:00:35.220Z
+- Updated At: 2025-10-06T04:00:37.429Z
 
 ## Products
 
@@ -5759,7 +5759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-1sd-img_1812_1.jpg?v=1759498004
     Price: $195.00 USD
 - [Buy Sail Kimono | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/sail-kimono): buy sail kimono, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-04T02:41:36Z
+  Updated: 2025-10-06T01:27:11Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
