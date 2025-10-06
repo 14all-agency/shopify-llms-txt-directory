@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-06T08:00:32.965Z
+- Updated At: 2025-10-06T12:00:33.950Z
 
 ## Products
 
@@ -1893,7 +1893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY-Projekte und Kissen](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Bio Baumwollwatte von PAT & PATTY: nachhaltig, weich, atmungsaktiv, schadstofffrei, hochwertig und perfekt zum Füllen von Kissen, Kuscheltieren & DIY-Projekten.
-  Updated: 2025-10-05T15:54:05Z
+  Updated: 2025-10-06T08:04:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1907,19 +1907,19 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 26,50 € EUR
   - [5000 gr. nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555344245004)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bastelwatte-Aus-100-Prozent-Bio-Baumwolle-Kba-GOTS-Zertifiziert-F_llmaterial-PAT-Und-PATTY.jpg?v=1752305310
     Price: 89,00 € EUR
   - [10 kg nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555344277772)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 168,00 € EUR
   - [20 kg nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555344310540)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 250,00 € EUR
   - [30 kg nachfüllpack](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial?variant=45555394019596)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen als Füllmaterial für Kissen](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Bio Schurwolle Kügelchen von PAT & PATTY: weich, atmungsaktiv, nachhaltig, waschbar und Made in Germany ideal zum Füllen von Kissen, Spielzeug & DIY-Projekten.
@@ -2451,22 +2451,22 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-10-05T11:19:32Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-30T11:20:54Z
   Total Products: 21
 - [Bio Wärmekissen für Kinder in Tierform – PAT & PATTY ❤️](https://patundpatty.de/collections/waermekissen): Entdecke handgemachte Bio-Wärmekissen mit Tiermotiven. GOTS-zertifiziert, nachhaltig & handmade bei PAT & PATTY!
-  Updated: 2025-10-02T11:22:53Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 19
 - [Bio Lavendelkissen mit natürlichem Duft | PAT & PATTY](https://patundpatty.de/collections/bio-mini-lavendelkissen): Entdecke das bio Lavendelkissen von PAT & PATTY – natürlich, handgefertigt und mit beruhigendem Duft für entspannte Nächte. Nachhaltig & schadstofffrei.
-  Updated: 2025-09-24T11:20:35Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 10
 - [Bio Wärmflaschen Tiermotive – handgemacht & nachhaltig | PAT & PATTY](https://patundpatty.de/collections/bio-waermflaschen-im-tiermotiv-von-pat-und-patty): Handgemachte Bio Wärmflaschen mit Tiermotiven für Kinder & Erwachsene. Nachhaltig, weich & wohltuend – ideal als Geschenk oder für kalte Tage.
   Updated: 2025-10-01T11:22:45Z
   Total Products: 12
 - [Meistverkaufte Produkte - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-10-04T11:19:46Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
   Updated: 2025-09-28T11:19:59Z
@@ -2478,10 +2478,10 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-05T11:19:32Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
-  Updated: 2025-10-04T11:19:46Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 11
 - [Bio-Spieluhren mit waschbarem Spielwerk - Nachhaltig & sicher](https://patundpatty.de/collections/bio-spieluhren-waschbaremspielwerk): Entdecken Sie Bio-Spieluhren von PAT & PATTY mit waschbarem Spielwerk – aus natürlichen Materialien, nachhaltig und ideal für Babys und Kinder.
   Updated: 2025-08-22T11:54:27Z
@@ -2499,7 +2499,7 @@
   Updated: 2025-10-02T11:22:53Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-10-04T11:19:46Z
+  Updated: 2025-10-06T11:22:00Z
   Total Products: 62
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
@@ -2758,6 +2758,13 @@
     Updated: 2025-10-05T13:13:33Z
     Author: Sharon
     Tags: tipps zur pflege von bio-spielzeug
+  - [Steckenpferd Ständer aus Buchenholz und das kuschelige Bio Schmusetuch für Babys entdecken](https://patundpatty.de/blogs/news/steckenpferd-stander-aus-buchenholz-und-das-kuschelige-bio-schmusetuch-fur-babys-entdecken): Steckenpferd Ständer aus Buchenholz und das kuschelige Bio Schmusetuch für Babys entdecken
+    Updated: 2025-10-06T10:06:25Z
+    Author: Sharon Engel
+  - [Was bedeutet didaktisches Spielzeug? Ein verständlicher Leitfaden](https://patundpatty.de/blogs/news/was-bedeutet-didaktisches-spielzeug): Erfahren Sie, was bedeutet didaktisches Spielzeug und warum es für die Entwicklung von Kindern wichtig ist. Erhalten Sie umfassende Erklärungen.
+    Updated: 2025-10-06T11:39:51Z
+    Author: Sharon
+    Tags: was bedeutet didaktisches spielzeug
 
 ## Store Pages
 
