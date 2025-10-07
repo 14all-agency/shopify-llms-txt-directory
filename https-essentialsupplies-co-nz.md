@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-07T08:00:39.195Z
+- Updated At: 2025-10-07T12:00:39.657Z
 
 ## Products
 
@@ -7907,7 +7907,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 4
 - [Pallet Top Covers](https://essentialsupplies.co.nz/collections/pallet-top-covers)
-  Updated: 2024-07-15T02:47:09Z
+  Updated: 2025-10-07T11:11:54Z
   Total Products: 2
 - [PET Strapping Band](https://essentialsupplies.co.nz/collections/pet-strapping-band)
   Updated: 2024-07-15T02:47:09Z
