@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-07T12:00:45.698Z
+- Updated At: 2025-10-07T16:00:46.825Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1711,7 +1711,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [Memory Keeper Locket® Silver | Lily Blanche | Keep Loved Ones Close](https://www.lilyblanche.com/products/memory-keeper-locket-silver): The Memory Keeper Locket in Sterling Silver is a beautiful & unique way to keep your loved ones close to your heart. This stunning locket can hold up to 6 photos, making it the perfect way to cherish your most precious memories. Order your silver Memory Keeper Locket online & get free photos, shipping & care kit today!
-  Updated: 2025-10-07T08:53:19Z
+  Updated: 2025-10-07T12:35:03Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -10518,7 +10518,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £305.00 GBP
 - [Four Picture Oval Locket | White Gold Photo Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-oval-locket-white-gold): Need a truly personalised gift? This beautiful four photo oval shaped locket in 18 carat white  gold vermeil is the perfect way to keep your loved ones close to your heart. The locket holds four of your photos and can be engraved. Personalise your locket online today with Free UK Shipping & Luxury Gift Wrap Included!
-  Updated: 2025-09-02T09:21:53Z
+  Updated: 2025-10-07T15:47:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15728,7 +15728,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-10-06T16:47:42Z
+  Updated: 2025-10-07T15:07:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17745,11 +17745,23 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £390.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-09-30T08:09:41Z
+  Updated: 2025-10-07T15:46:12Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_necklace_-_A_2_1080_-2.webp?v=1748517379
+  - [A / gold curb chain 16 inches (41 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=49230646509886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_necklace_-_A_2_1080_-2.webp?v=1748517379
+    Price: £119.00 GBP
+  - [A / gold curb chain 18 inches (45 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=50253414957374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_necklace_-_A_2_1080_-2.webp?v=1748517379
+    Price: £124.00 GBP
+  - [A / gold curb chain 20 inches (51 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=50253420757310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_necklace_-_A_2_1080_-2.webp?v=1748517379
+    Price: £135.00 GBP
   - [B / gold curb chain 16 inches (41 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=49230646542654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/goldletternecklace-B_1080.jpg?v=1751452492
@@ -17937,18 +17949,6 @@ From £119
   - [Q / gold curb chain 18 inches (45 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=50253415481662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_Q.jpg?v=1751452492
-    Price: £124.00 GBP
-  - [Q / gold curb chain 20 inches (51 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=50253422297406)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_Q.jpg?v=1751452492
-    Price: £130.00 GBP
-  - [R / gold curb chain 16 inches (41 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=49230647066942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_R.jpg?v=1751452492
-    Price: £119.00 GBP
-  - [R / gold curb chain 18 inches (45 cm)](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z?variant=50253415514430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_R.jpg?v=1751452492
     Price: £124.00 GBP
 - [Rope Chain in Solid 9 Carat Gold](https://www.lilyblanche.com/products/solid-gold-rope-chain): This beautiful, 9-carat solid gold Prince of Wales rope chain will add interest and texture to any pendant or locket. Wear on its own or layered for added sophistication. Free jewellery care kit with all orders. Free UK shipping today
   Updated: 2025-09-28T19:43:52Z
@@ -19086,7 +19086,7 @@ From £119
   Price: £65.00 GBP
 - [Men's St Christopher Necklace 9ct Gold | Free Engraving & UK Delivery](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold): Discover our handcrafted men's 9ct solid gold St Christopher necklace with free personalised engraving. UK hallmarked octagonal design, perfect for travellers. Free UK delivery, 4.9★ rated. Award-winning British jewellery.
 £315
-  Updated: 2025-10-05T20:41:11Z
+  Updated: 2025-10-07T13:29:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19123,54 +19123,8 @@ From £119
   - [24 inch (61 cm) solid 9 carat gold belcher chain](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold?variant=55414966649218)
     Availability: Available
     Price: £730.00 GBP
-- [Men's St Christopher Necklace Silver + Engraving](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver): Give a meaningful gift with our timeless and stylish Men's St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift for men and women. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-05T20:34:10Z
-  Vendor: Lily Blanche
-  Product Type: Necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_curb_square.webp?v=1741872889
-  - [18 inch (46 cm) solid silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=49917952721214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_curb_square.webp?v=1741872889
-    Price: £95.00 GBP
-  - [20 inch (51 cm) solid silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=49917952753982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_curb_square.webp?v=1741872889
-    Price: £115.00 GBP
-  - [22 inch (56 cm) solid silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=49917952786750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_curb_square.webp?v=1741872889
-    Price: £120.00 GBP
-  - [24 inch (61 cm) solid silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=50107848753470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_curb_square.webp?v=1741872889
-    Price: £120.00 GBP
-  - [18 in (46 cm) solid silver rope (1.5 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=49917952622910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_rope_square.webp?v=1744284163
-    Price: £105.00 GBP
-  - [20 inch (51 cm) solid silver rope (1.5 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=49917952655678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_rope_square.webp?v=1744284163
-    Price: £110.00 GBP
-  - [24 inch (61 cm) solid silver rope (1.5 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=49917952688446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/silver_hexagon_st_christopher_necklace_rope_square.webp?v=1744284163
-    Price: £130.00 GBP
-  - [18 inch (46 cm) solid silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=55535504064898)
-    Availability: Available
-    Price: £135.00 GBP
-  - [20 inch (51 cm) solid silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=55535504097666)
-    Availability: Available
-    Price: £140.00 GBP
-  - [22 inch (56 cm) solid silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=55535504130434)
-    Availability: Available
-    Price: £145.00 GBP
-  - [24 inch (61 cm) solid silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-silver?variant=55535504163202)
-    Availability: Available
-    Price: £150.00 GBP
 - [Men's St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-white-gold): Give a meaningful gift with our classic Men's St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-10-05T20:45:11Z
+  Updated: 2025-10-07T13:29:12Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24789,8 +24743,8 @@ From £129
   Updated: 2025-03-26T11:37:00Z
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-09-22T17:51:40Z
-- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 6 2025, ...
-  Updated: 2025-10-06T20:13:05Z
+- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 7 2025, ...
+  Updated: 2025-10-07T12:58:13Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
