@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-06T20:00:46.727Z
+- Updated At: 2025-10-07T00:00:43.967Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2421,7 +2421,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Sapphire Heart Locket Gold | Genuine Sapphire Necklace + Free Photos](https://www.lilyblanche.com/products/sapphire-heart-locket): Looking for a personalised necklace? This 18 carat gold vermeil sapphire locket hides a secret photo inside. A perfect 16th, 18th or 21st birthday gift, this pretty and romantic locket is hallmarked in Edinburgh.  Free Shipping & Luxury Jewellery Care Kit worth £20 Included. Personalise your own locket online today.
-  Updated: 2025-09-14T17:01:45Z
+  Updated: 2025-10-06T22:27:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16925,7 +16925,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-06T18:19:56Z
+  Updated: 2025-10-06T21:20:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24772,7 +24772,7 @@ From £129
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-09-22T17:51:40Z
 - [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 6 2025, ...
-  Updated: 2025-10-06T09:40:21Z
+  Updated: 2025-10-06T20:13:05Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
