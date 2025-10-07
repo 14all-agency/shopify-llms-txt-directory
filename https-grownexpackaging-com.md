@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-06T20:00:34.761Z
+- Updated At: 2025-10-07T04:00:33.577Z
 
 ## Products
 
@@ -1475,7 +1475,7 @@
     Availability: Not Available
     Price: ₹19,199.00 INR
 - [Textured Black Jewellery Box with Inner Padding | Grownex Packaging](https://grownexpackaging.com/products/earrings-box-lid-pattern-black): Lid Pattern Earrings Box - Black: Perfect for storing earrings safely. Features textured finish paper and inner foam padding. Shop now!
-  Updated: 2025-10-06T13:02:44Z
+  Updated: 2025-10-07T01:02:49Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1505,7 +1505,7 @@
     Availability: Available
     Price: ₹27,149.00 INR
 - [Grownex Jewellery Box - Green Textured 9x9x4 cm, Kapaboard Design Jewellery Box](https://grownexpackaging.com/products/earrings-box-lid-pattern-green): Lid Pattern Earrings Box - Green: Perfect for gifting and storing earrings. Textured finish paper and inner foam padding for added protection. Shop now!
-  Updated: 2025-10-06T12:52:04Z
+  Updated: 2025-10-07T00:52:10Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1535,7 +1535,7 @@
     Availability: Available
     Price: ₹27,149.00 INR
 - [Stylish Black Ring Box - Kapaboard Material Jewellery Box, Foam Padding | Grownex Packaging](https://grownexpackaging.com/products/ring-box-lid-pattern-black): Lid Pattern Ring Box - Black: Perfect for presenting rings elegantly. Features textured finish paper and inner foam padding for protection. Shop now!
-  Updated: 2025-10-06T12:53:47Z
+  Updated: 2025-10-07T00:53:52Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1565,7 +1565,7 @@
     Availability: Available
     Price: ₹19,129.00 INR
 - [Durable Machine-Made Beige Jewellery Box - Foam Padding | Grownex Packaging](https://grownexpackaging.com/products/ring-box-lid-pattern-beige): Lid Pattern Ring Box - Beige: Perfect for gifting and storing rings. Textured finish paper with inner foam padding. Shop now!
-  Updated: 2025-10-06T12:56:17Z
+  Updated: 2025-10-07T00:56:22Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1595,7 +1595,7 @@
     Availability: Available
     Price: ₹19,129.00 INR
 - [Textured Green Ring Box, Jewellery Box - 5x5x4.5 cm | Grownex Packaging Quality](https://grownexpackaging.com/products/ring-box-lid-pattern-green): Lid Pattern Ring Box - Green: Perfect for presenting cherished jewelry gifts. Features a textured finish and inner foam padding. Shop now!
-  Updated: 2025-10-06T12:56:25Z
+  Updated: 2025-10-07T00:55:02Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1625,7 +1625,7 @@
     Availability: Available
     Price: ₹19,129.00 INR
 - [Grownex Ring Box - Grey Textured Kapaboard Jewellery Box with Foam Padding](https://grownexpackaging.com/products/ring-box-lid-pattern-grey): Lid Pattern Ring Box - Grey: Perfect for presenting rings on special occasions. Textured finish paper and inner foam padding for added protection. Shop now!
-  Updated: 2025-10-06T12:58:05Z
+  Updated: 2025-10-07T00:58:11Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1655,7 +1655,7 @@
     Availability: Available
     Price: ₹19,129.00 INR
 - [Stylish Black Jewellery Box - Lid Pattern & Kapaboard | Grownex Packaging](https://grownexpackaging.com/products/chain-box-lid-pattern-black): Lid Pattern Chain Box - Black: Perfect for storing your jewelry securely. Textured finish paper machine made box with inner foam padding. Shop now!
-  Updated: 2025-10-06T12:58:46Z
+  Updated: 2025-10-07T00:58:51Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1685,7 +1685,7 @@
     Availability: Available
     Price: ₹28,749.00 INR
 - [Stylish Chain Box - 20.5x5x4 cm Textured Finish Jewellery Box | Grownex Packaging](https://grownexpackaging.com/products/chain-box-lid-pattern-beige): Lid Pattern Chain Box - Beige: Perfect for storing and protecting your jewelry. Textured finish paper, Kapaboard material, inner foam padding. Shop now!
-  Updated: 2025-10-06T13:03:20Z
+  Updated: 2025-10-07T01:03:26Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1715,7 +1715,7 @@
     Availability: Not Available
     Price: ₹28,749.00 INR
 - [Green Kapaboard Jewellery Box - Perfect for Storing Accessories | Grownex Packaging](https://grownexpackaging.com/products/chain-box-lid-pattern-green): Lid Pattern Chain Box - Green: Perfect for gifting or storing your jewelry. Textured finish paper, machine made with inner foam padding. Shop now!
-  Updated: 2025-10-06T13:03:45Z
+  Updated: 2025-10-07T01:03:49Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1745,7 +1745,7 @@
     Availability: Available
     Price: ₹28,749.00 INR
 - [Grownex Jewellery Box with Inner Foam - Stylish Grey Design](https://grownexpackaging.com/products/chain-box-lid-pattern-grey): Lid Pattern Chain Box - Grey: Perfect for keeping jewellery safe and organized. Textured finish paper machine made box with inner foam padding. Shop now!
-  Updated: 2025-10-06T13:04:28Z
+  Updated: 2025-10-07T01:04:33Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -4505,7 +4505,7 @@
     Availability: Available
     Price: ₹2,339.00 INR
 - [1 Pond Cake Box Blue](https://grownexpackaging.com/products/1-pond-cake-box-blue): 1 Pond Cake Box Blue: Perfect for safely transporting cakes and baked goods. High quality corrugated paper, easy to fold and store. Shop now!
-  Updated: 2025-10-06T13:08:55Z
+  Updated: 2025-10-07T01:08:59Z
   Vendor: Grownex Packaging
   Product Type: Bakery Box
   Availability: Available
@@ -5150,7 +5150,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/IMG_7982.jpg?v=1749566873
     Price: ₹9,499.00 INR
 - [Textured Finish Grey Jewellery Box with Inner Padding | Grownex Packaging](https://grownexpackaging.com/products/earrings-box-lid-pattern-grey): Lid Pattern Earrings Box - Grey: Perfect for gifting or storing earrings. Textured finish paper and foam padding for protection. Shop now!
-  Updated: 2025-10-06T12:59:40Z
+  Updated: 2025-10-07T00:59:45Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -5180,7 +5180,7 @@
     Availability: Available
     Price: ₹27,149.00 INR
 - [Grownex Lavender Ring Jewellery Box with Foam Padding - Premium Packaging Solution](https://grownexpackaging.com/products/ring-box-lid-pattern-lavender): Lid Pattern Ring Box - Lavender: Perfect for presenting rings in style. Textured finish paper and inner foam padding for added elegance. Shop now!
-  Updated: 2025-10-06T12:51:12Z
+  Updated: 2025-10-07T00:51:17Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -5210,7 +5210,7 @@
     Availability: Available
     Price: ₹19,129.00 INR
 - [Beautiful Lid Pattern Chain Box - Quality Foam Padding Jewellery Box | Grownex Packaging](https://grownexpackaging.com/products/chain-box-lid-pattern-lavender): Lid Pattern Chain Box - Lavender: Perfect for storing and protecting your jewellery. Textured finish paper, machine-made box with inner foam padding. Shop now!
-  Updated: 2025-10-06T13:04:43Z
+  Updated: 2025-10-07T01:04:47Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -6114,7 +6114,7 @@
     Availability: Available
     Price: ₹7,249.00 INR
 - [2 Pcs Cupcake Folding Box Beige](https://grownexpackaging.com/products/2-pcs-cupcake-folding-box-beige): 2 Pcs Cupcake Folding Box Beige: Perfect for gifting and presenting cupcakes. High quality food safe SBS paperboard with window cut design. Shop now!
-  Updated: 2025-10-06T13:10:24Z
+  Updated: 2025-10-07T01:10:29Z
   Vendor: Grownex Packaging
   Product Type: Bakery Box
   Availability: Available
@@ -6138,7 +6138,7 @@
     Availability: Not Available
     Price: ₹5,799.00 INR
 - [2 Pcs Cupcake Folding Box Pink](https://grownexpackaging.com/products/2-pcs-cupcake-folding-box-pink): 2 Pcs Cupcake Folding Box Pink: Perfect for gifting cupcakes or muffins. Window cut design. High quality, food safe SBS paperboard. Shop now!
-  Updated: 2025-10-06T13:09:32Z
+  Updated: 2025-10-07T01:09:37Z
   Vendor: Grownex Packaging
   Product Type: Bakery Box
   Availability: Available
