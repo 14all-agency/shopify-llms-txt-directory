@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-07T08:01:02.337Z
+- Updated At: 2025-10-07T12:01:02.564Z
 
 ## Products
 
@@ -46338,6 +46338,71 @@
   - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799635050746)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
+- [נעלי כדורגל King Ultimate FG/AG](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-07T11:40:01Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/25_97a787de-cde0-40b2-bdd8-d6419c09e211.png?v=1759835857
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304252666)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304285434)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304318202)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304350970)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304383738)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304416506)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304449274)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304482042)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304514810)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304547578)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304580346)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304613114)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304645882)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304678650)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304711418)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304744186)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304776954)
+    Availability: Not Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304809722)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304842490)
+    Availability: Available
+    Price: ‏1,299.90 ‏₪ ILS
 
 ## Collections
 
@@ -46348,7 +46413,7 @@
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-06T22:56:06Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-06T22:42:14Z
@@ -46405,7 +46470,7 @@
   Updated: 2025-10-02T12:25:53Z
   Total Products: 70
 - [ליגה צרפתית](https://www.rsport.co.il/collections/ליגה-צרפתית)
-  Updated: 2025-10-02T12:25:55Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 114
 - [באיירן מינכן](https://www.rsport.co.il/collections/באיירן-מינכן): אחת הקבוצות הגדולות והאהובות באירופה, עם מסורת מנצחת וכדורגל מרגש. אם גם אתם חלק מצבא האוהדים של "הכוכב הדרומי" הגעתם למקום הנכון, כאן תמצאו מגוון רחב של חולצות כדורגל של באיירן מינכן, כולל דגמי בית, חוץ ושלישית מהעונות האחרונות, לצד חליפות ילדים, חולצות אימון ועוד פריטים מעוצבים באווירת המועדון, החולצות מתאימות לאימונים, למשחקים או כפריט אופנתי לחובבי הקבוצה.
   Updated: 2025-10-02T12:25:51Z
@@ -46420,19 +46485,19 @@
   Updated: 2025-10-06T22:42:09Z
   Total Products: 20
 - [חולצות נבחרת ארגנטינה ומוצרי ספורט | Argentina](https://www.rsport.co.il/collections/ארגנטינה): רכוש עכשיו את חולצת נבחרת ארגנטינה המועדפת עליך ותתחבר ללב האצטדיון מבחר עשיר של חולצות כדורגל, בגדי אימון וציוד ספורט
-  Updated: 2025-10-06T22:41:37Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 22
 - [צרפת](https://www.rsport.co.il/collections/צרפת): חולצות הכדורגל והאביזרים של נבחרת צרפת מבטאים אלגנטיות, עוצמה וגאווה לאומית בצבעי הכחול, הלבן והאדום. כל פריט מאפשר לך להתחבר למסורת ולהיסטוריה של אחת הנבחרות המובילות בעולם ולהרגיש חלק מהמשחק בכל מקום. בין אם ביציע, ברחוב או עם חברים חולצת נבחרת צרפת תבליט את התמיכה שלך בצורה היפה ביותר.
-  Updated: 2025-10-06T22:56:06Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 19
 - [נבחרת ברזיל חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ברזיל): רכוש חולצות כדורגל נבחרת ברזיל – חולצות משחק, אוהדים, חולצות רטרו, חליפות ילדים ועוד במחירים אטרקטיביים ומשלוח מהיר לכל הארץ
-  Updated: 2025-10-06T22:57:14Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
   Updated: 2025-10-06T22:41:50Z
   Total Products: 207
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-10-06T22:57:14Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 150
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
   Updated: 2025-10-06T22:56:44Z
@@ -46441,10 +46506,10 @@
   Updated: 2025-10-02T11:30:48Z
   Total Products: 4
 - [נבחרות אירופה](https://www.rsport.co.il/collections/נבחרות-אירופה)
-  Updated: 2025-10-06T22:56:44Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
-  Updated: 2025-10-06T22:57:14Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 60
 - [לידס יונייטד](https://www.rsport.co.il/collections/לידס-יונייטד)
   Updated: 2025-10-02T11:52:13Z
@@ -46717,13 +46782,13 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-06T19:53:27Z
-  Total Products: 55
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 56
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
-  Updated: 2025-10-06T18:51:02Z
-  Total Products: 47
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 48
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-06T22:56:06Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-10-06T22:57:14Z
@@ -46768,7 +46833,7 @@
   Updated: 2025-10-02T11:15:17Z
   Total Products: 6
 - [אולימפיק מרסיי | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אולימפיק-מרסיי): גלה את קולקציית החולצות והאביזרים של אולימפיק מרסיי חולצות בית וחוץ, בגדי אימון איכותיים, נעלי ספורט ואקססוריז לאוהדים בכל הגילאים
-  Updated: 2025-10-02T12:25:53Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 19
 - [לידס יונייטד רטרו](https://www.rsport.co.il/collections/לידס-יונייטד-רטרו)
   Updated: 2025-10-02T11:15:21Z
@@ -46798,7 +46863,7 @@
   Updated: 2025-10-02T12:25:55Z
   Total Products: 8
 - [חולצת אוהד פומה](https://www.rsport.co.il/collections/חולצת-אוהד-פומה)
-  Updated: 2025-10-06T22:42:04Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 49
 - [באייר לברקוזן](https://www.rsport.co.il/collections/באייר-לברקוזן): הכירו את הקבוצה המרתקת מבאייר לברקוזן – אחת הקבוצות הצעירות והמלהיבות בגרמניה. חולצות כדורגל של באייר לברקוזן מבטאות את רוח המועדון והאופי האגרסיבי של המשחק. אצלנו תמצאו חולצות משחק מדהימות, חולצות אוהדים בעיצובים שונים, חולצות אימון איכותיות, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל אוהד וגם בגדי תינוקות לקהל הצעיר. הצג עוד באייר לברקוזן, עם היסטוריה עשירה ומסורת של כדורגל איכותי, מביאה את סגנון המשחק שלה ישירות אליכם עם חולצות הכדורגל המובילות שלה. חולצות המשחק והאוהדים של הקבוצה עשויות מחומרים איכותיים המעניקים נוחות מרבית ומדגישים את הייחודיות של המועדון. כל חולצה מגיעה במידות שונות ומאפשרת להוסיף את השם או המספר האהוב עליכם, בין אם של שחקן המועדון או שלכם. בין אם אתם מחפשים חולצות עם העיצוב הקלאסי של הקבוצה, חולצות אימון או אפילו חולצות שוער מקצועיות, יש לנו את כל מה שצריך כדי להרגיש חלק מההצלחה של באייר לברקוזן. השירות מקצועי, ההזמנה קלה והמשלוח מגיע לכל הארץ. זה הזמן ללבוש את הקבוצה שלכם בגאווה עם כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות הכירו את הקבוצה המרתקת מבאייר לברקוזן – אחת הקבוצות הצעירות והמלהיבות בגרמניה. חולצות כדורגל של באייר לברקוזן מבטאות את רוח המועדון והאופי האגרסיבי של המשחק. אצלנו תמצאו חולצות משחק מדהימות, חולצות אוהדים בעיצובים שונים, חולצות אימון איכותיות, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל אוהד וגם בגדי תינוקות לקהל הצעיר... הצג עוד באייר לברקוזן, עם היסטוריה עשירה ומסורת של כדורגל איכותי, מביאה את סגנון המשחק שלה ישירות אליכם עם חולצות הכדורגל המובילות שלה. חולצות המשחק והאוהדים של הקבוצה עשויות מחומרים איכותיים המעניקים נוחות מרבית ומדגישים את הייחודיות של המועדון. כל חולצה מגיעה במידות שונות ומאפשרת להוסיף את השם או המספר האהוב עליכם, בין אם של שחקן המועדון או שלכם. בין אם אתם מחפשים חולצות עם העיצוב הקלאסי של הקבוצה, חולצות אימון או אפילו חולצות שוער מקצועיות, יש לנו את כל מה שצריך כדי להרגיש חלק מההצלחה של באייר לברקוזן. השירות מקצועי, ההזמנה קלה והמשלוח מגיע לכל הארץ. זה הזמן ללבוש את הקבוצה שלכם בגאווה עם כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:31:33Z
@@ -46816,13 +46881,13 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-06T22:57:14Z
-  Total Products: 2058
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 2059
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-06T22:57:14Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-10-02T11:30:57Z
@@ -46990,7 +47055,7 @@
   Updated: 2025-09-24T19:15:57Z
   Total Products: 23
 - [יורו נשים 2025](https://www.rsport.co.il/collections/יורו-נשים-2025)
-  Updated: 2025-10-06T22:56:44Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 49
 - [מונקו](https://www.rsport.co.il/collections/מונקו): המונו של הליגה הצרפתית הוא פריט חובה לכל אוהד – עיצוב ייחודי, נוחות מרבית וסגנון מובהק שמחבר אותך לכדורגל הצרפתי... הצג עוד המונו של הליגה הצרפתית משלב עיצוב מודרני עם השראה מהקבוצות המובילות בליגה. הפריט מיועד לכל אוהד שרוצה להרגיש חלק מהכדורגל הצרפתי – בין אם במשחקים, באימון או בלבוש יומיומי. מגוון צבעים ופרטים ייחודיים הופכים את המונו לפריט אופנתי ונוח. הצטרף לאלפי אוהדים ותן לסטייל שלך לדבר. המונו של הליגה הצרפתית – איכות ונוחות לצד אהבה לכדורגל. הצג פחות המונו של הליגה הצרפתית הוא פריט חובה לכל אוהד – עיצוב ייחודי, נוחות מרבית וסגנון מובהק... הצג עוד המונו של הליגה הצרפתית משלב עיצוב מודרני עם השראה מהקבוצות המובילות בליגה. הפריט מיועד לכל אוהד שרוצה להרגיש חלק מהכדורגל הצרפתי – בין אם במשחקים, באימון או בלבוש יומיומי. מגוון צבעים ופרטים ייחודיים הופכים את המונו לפריט אופנתי ונוח. הצטרף לאלפי אוהדים ותן לסטייל שלך לדבר. המונו של הליגה הצרפתית – איכות ונוחות לצד אהבה לכדורגל. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #d71920; /* צבע אדום צרפתי כהה */ text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } document.addEventListener("DOMContentLoaded", function () { // דסקטופ const shortDesktop = document.querySelector('.short-text-desktop'); const fullDesktop = document.querySelector('.full-text-desktop'); const showMoreDesktop = document.querySelector('.toggle-btn-desktop'); const showLessDesktop = document.querySelector('.toggle-btn-less-desktop'); if (showMoreDesktop && showLessDesktop) { showMoreDesktop.addEventListener('click', function () { shortDesktop.style.display = 'none'; fullDesktop.style.display = 'inline'; }); showLessDesktop.addEventListener('click', function () { fullDesktop.style.display = 'none'; shortDesktop.style.display = 'inline'; }); } // מובייל const shortMobile = document.querySelector('.short-text-mobile'); const fullMobile = document.querySelector('.full-text-mobile'); const showMoreMobile = document.querySelector('.toggle-btn-mobile'); const showLessMobile = document.querySelector('.toggle-btn-less-mobile'); if (showMoreMobile && showLessMobile) { showMoreMobile.addEventListener('click', function () { shortMobile.style.display = 'none'; fullMobile.style.display = 'block'; }); showLessMobile.addEventListener('click', function () { fullMobile.style.display = 'none'; shortMobile.style.display = 'inline'; }); } });
   Updated: 2025-10-02T12:25:55Z
@@ -47008,32 +47073,38 @@
   Updated: 2025-10-06T22:42:07Z
   Total Products: 31
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
-  Updated: 2025-10-06T22:41:37Z
+  Updated: 2025-10-07T11:18:18Z
   Total Products: 62
 - [כדורי מונדיאל 2026 | World Cup Ball](https://www.rsport.co.il/collections/world-cup-ball): קנו עכשיו את כדורי מונדיאל 2026 בעיצוב בהשראת גביע העולם FIFA 2026. כולל טכנולוגיות SPEEDSHELL ו-CTR CORE, מושלם לאימון, משחק ואספנות. תמיכה בקבוצות כמו ספרד, ברזיל, ארגנטינה וגרמניה. World Cup Ball עדכני לכל אוהד כדורגל
   Updated: 2025-10-04T20:33:30Z
   Total Products: 3
 - [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. עשו את הצעד הנכון עם נעלי כדורגל, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
-  Updated: 2025-10-06T13:31:40Z
-  Total Products: 3
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 4
 - [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
-  Updated: 2025-10-06T19:53:27Z
-  Total Products: 6
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 7
 - [נעלי כדורגל Puma Future](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-future)
   Updated: 2025-10-06T19:53:27Z
   Total Products: 7
 - [נעלי כדורגל Puma Ultra](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra)
-  Updated: 2025-10-06T16:23:38Z
+  Updated: 2025-10-07T11:23:06Z
   Total Products: 1
 - [נעלי כדורגל פומה FG](https://www.rsport.co.il/collections/football-boots-puma-fg-adult)
-  Updated: 2025-10-06T16:44:12Z
-  Total Products: 5
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 6
 - [נעלי כדורגל PUMA Ultra Ultimate](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra-ultimate)
-  Updated: 2025-10-06T19:53:27Z
+  Updated: 2025-10-07T11:23:06Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
   Updated: 2025-10-06T19:53:27Z
   Total Products: 5
+- [נעלי כדורגל Puma King](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-king)
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 1
+- [PUMA King Ultimate נעלי כדורגל](https://www.rsport.co.il/collections/puma-king-ultimate-נעלי-כדורגל)
+  Updated: 2025-10-07T11:38:09Z
+  Total Products: 1
 
 ## Blogs
 
