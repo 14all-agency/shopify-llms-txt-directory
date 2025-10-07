@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-06T12:00:36.654Z
+- Updated At: 2025-10-07T00:00:36.202Z
 
 ## Products
 
@@ -19,13 +19,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/luxury-italian-shoes-and-bag-set-for-party-decorated-with-rhinestones-880188.jpg?v=1715725357
   Price: $128.65 USD
-- [Black Golden Print Luxury African Dashiki Long Shirt Men](https://milvertons.com/products/black-golden-print-luxury-african-dashiki-long-shirt-men-fashion-rich-bazin-african-clothes-men-slim-fit-long-sleeve-shirt): Black Golden Print Luxury African Dashiki Long Shirt Men Fashion Rich bazin African Clothes Men Slim Fit Long Sleeve Shirt Brand Name: Sisjuly Shirts Type:
-  Updated: 2025-09-30T14:58:54Z
-  Vendor: Milvertons
-  Product Type: Men - Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/black-golden-print-luxury-african-dashiki-long-shirt-men-fashion-rich-bazin-african-clothes-men-slim-fit-long-sleeve-shirt-569623.jpg?v=1715725343
-  Price: $86.21 USD
 - [Fashion African Style Black Luxury Golden Printed Man Casual](https://milvertons.com/products/fashion-african-style-black-luxury-golden-printed-man-casual-dashiki-long-shirts-plus-size-riche-bazin-africa-men-clothing-tops): Brand Name: Sisjuly Shirts Type: Casual Shirts Sleeve Length(cm): Full Material: Polyester Fabric Type: Broadcloth Pattern Type: Print Closure Type: Pullover
   Updated: 2025-09-30T14:58:55Z
   Vendor: Milvertons
@@ -40,13 +33,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-mens-printed-long-sleeve-shirt-riche-bazin-white-striped-plus-size-dashiki-long-tops-african-man-clothing-male-chemise-438362.jpg?v=1715725365
   Price: $64.06 USD
-- [African Men Dashiki Long Shirt White Casual Fashion Clothing](https://milvertons.com/products/african-men-dashiki-long-shirt-white-casual-fashion-clothing): Shop Milvertons for the African Men Dashiki Long Shirt White Casual Fashion Clothing - Traditional Rich Bazin Top. Stylish shirt, perfect for any occasion.
-  Updated: 2025-09-30T14:58:56Z
-  Vendor: Milvertons
-  Product Type: Men - Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-men-dashiki-long-shirt-white-casual-fashion-africa-clothes-traditional-rich-bazin-tops-big-sizes-m-6xl-plus-size-122546.jpg?v=1715725393
-  Price: $69.69 USD
 - [African Style Men's Shirt African Clothing Stand Collar Long](https://milvertons.com/products/african-style-mens-shirt-african-clothing-stand-collar-long-sleeve-t-shirt-men-african-dashiki-traditional-maxi-man-shirt-tops): African Style Men's Shirt African Clothing Stand Collar Long Sleeve T Shirt Men African Dashiki Traditional Maxi Man Shirt TopsBrand Name: Sisjuly Shirts Type:
   Updated: 2025-09-30T14:58:57Z
   Vendor: Milvertons
@@ -2143,24 +2129,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-sporty-ankle-boots-994688.jpg?v=1715725542
     Price: $42.75 USD
-- [Crazy Women's Lace-up Sneakers](https://milvertons.com/products/crazy-womens-lace-up-sneakers): Crazy Women's Lace-up Sneakers - Must be in every wardrobe, you will look and feel great in these shoes - see for yourself : ) The interior is lined with fabric
-  Updated: 2025-09-30T15:02:51Z
-  Vendor: Milvertons
-  Product Type: Women - Snoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/crazy-womens-lace-up-sneakers-802165.jpg?v=1715725376
-  - [37 / Beige](https://milvertons.com/products/crazy-womens-lace-up-sneakers?variant=43995416068334)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/crazy-womens-lace-up-sneakers-802165.jpg?v=1715725376
-    Price: $50.75 USD
-  - [39 / Beige](https://milvertons.com/products/crazy-womens-lace-up-sneakers?variant=43995416133870)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/crazy-womens-lace-up-sneakers-802165.jpg?v=1715725376
-    Price: $50.75 USD
-  - [41 / Beige](https://milvertons.com/products/crazy-womens-lace-up-sneakers?variant=43995416199406)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/crazy-womens-lace-up-sneakers-802165.jpg?v=1715725376
-    Price: $50.75 USD
 - [Stylish Pencil Pants for Women](https://milvertons.com/products/stylish-pencil-pants-for-women-29750): Stylish Pencil Pants for Women - Crafted with a soft blend of material to provide a light airy feel while keeping you comfy. Shop now and rock any occasion!
   Updated: 2025-09-30T15:03:01Z
   Vendor: Milvertons
@@ -10579,7 +10547,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-05T19:25:30Z
+  Updated: 2025-10-06T14:35:34Z
   Total Products: 136
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -10597,7 +10565,7 @@
   Updated: 2025-10-05T19:25:31Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
-  Updated: 2025-10-05T19:25:32Z
+  Updated: 2025-10-06T18:28:51Z
   Total Products: 21
 - [Wireless Phone Chargers](https://milvertons.com/collections/wireless-phone-chargers): Wireless Phone Chargers
   Updated: 2024-04-16T16:48:33Z
@@ -10609,10 +10577,10 @@
   Updated: 2025-09-25T17:45:57Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-10-05T19:25:34Z
-  Total Products: 100
+  Updated: 2025-10-06T14:35:57Z
+  Total Products: 99
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
-  Updated: 2025-09-06T01:21:47Z
+  Updated: 2025-10-06T14:35:34Z
   Total Products: 173
 - [Fashion Boxes and Bags](https://milvertons.com/collections/fashion-boxes-and-bags): Fashion Boxes and Bags
   Updated: 2025-10-05T19:25:35Z
@@ -10627,8 +10595,8 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-06T09:25:34Z
-  Total Products: 164
+  Updated: 2025-10-06T18:28:51Z
+  Total Products: 163
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
   Total Products: 1
@@ -10645,7 +10613,7 @@
   Updated: 2025-06-30T01:57:26Z
   Total Products: 22
 - [Women's Shoes and Bags - Multiple Size Variants](https://milvertons.com/collections/womens-shoes-and-bags-multiple-size-variants): Women's Shoes and Bags - Multiple Size Variants
-  Updated: 2025-09-05T22:32:03Z
+  Updated: 2025-10-06T14:35:34Z
   Total Products: 58
 - [Best Selling Products](https://milvertons.com/collections/best-selling-products): Best Selling Products
   Updated: 2023-03-20T02:46:07Z
@@ -10654,28 +10622,28 @@
   Updated: 2023-03-20T02:45:03Z
   Total Products: 0
 - [All Products - Published but OOS](https://milvertons.com/collections/all-products-oos): Out of Stock Products.
-  Updated: 2025-10-04T04:49:05Z
+  Updated: 2025-10-06T14:35:34Z
   Total Products: 157
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-10-04T04:49:05Z
-  Total Products: 193
+  Updated: 2025-10-06T18:28:51Z
+  Total Products: 192
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
-  Updated: 2025-10-04T04:49:05Z
+  Updated: 2025-10-06T14:35:34Z
   Total Products: 156
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-10-04T04:49:05Z
+  Updated: 2025-10-06T18:28:51Z
   Total Products: 515
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
 - [Milvertons Facebook Shop](https://milvertons.com/collections/milvertons-facebook-shop): Milvertons Facebook Shop
-  Updated: 2025-10-04T04:49:05Z
-  Total Products: 103
+  Updated: 2025-10-06T14:35:58Z
+  Total Products: 102
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
   Updated: 2025-10-04T05:00:14Z
   Total Products: 45
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
-  Updated: 2025-09-06T02:19:06Z
+  Updated: 2025-10-06T14:35:34Z
   Total Products: 145
 - [Shirts and Blouses](https://milvertons.com/collections/shirts-and-blouses): Women's Apparel - Shirts and Blouses
   Updated: 2025-03-30T00:47:53Z
@@ -10693,7 +10661,7 @@
   Updated: 2025-09-26T06:52:18Z
   Total Products: 5
 - [Clothing Tops](https://milvertons.com/collections/shirts-tops): Clothing Tops - Shirts, Blouses, Cardigans, Sweaters
-  Updated: 2025-09-26T06:52:18Z
+  Updated: 2025-10-06T18:28:51Z
   Total Products: 15
 - [Coats & Jackets](https://milvertons.com/collections/coats-jackets): Coats & Jackets
   Updated: 2025-09-26T06:52:19Z
@@ -10702,8 +10670,8 @@
   Updated: 2025-10-04T09:26:10Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-04T04:49:05Z
-  Total Products: 349
+  Updated: 2025-10-06T18:28:51Z
+  Total Products: 348
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -10720,16 +10688,16 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 0
 - [BFCM Sale Collection - Not On Sale - Pre-BFCM](https://milvertons.com/collections/not-sale-pre-bfcm): BFCM Sale Collection - Not On Sale - Pre-BFCM
-  Updated: 2025-09-25T17:45:57Z
+  Updated: 2025-10-06T18:28:51Z
   Total Products: 160
 - [BFCM Sale Collection](https://milvertons.com/collections/on-sale-for-bfcm): BFCM Sale Collection
-  Updated: 2025-09-25T17:45:57Z
+  Updated: 2025-10-06T18:28:51Z
   Total Products: 160
 - [TikTok Trending Collection](https://milvertons.com/collections/tiktok-trending-collection): TikTok Trending Collection at Milvertons
   Updated: 2025-09-26T06:52:19Z
   Total Products: 82
 - [T-shirt Collective](https://milvertons.com/collections/t-shirt-collective): T-shirt Collective - Shop stylish and expressive t-shirts at T-shirt Collective. Find your next favorite tee! Browse our collection.
-  Updated: 2025-09-26T06:52:19Z
+  Updated: 2025-10-06T18:28:51Z
   Total Products: 24
 - [Apparel & Accessories](https://milvertons.com/collections/apparel-accessories)
   Updated: 2025-09-18T18:33:00Z
