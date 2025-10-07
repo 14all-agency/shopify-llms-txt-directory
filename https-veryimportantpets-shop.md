@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-07T00:01:14.518Z
+- Updated At: 2025-10-07T08:01:16.459Z
 
 ## Products
 
@@ -1738,7 +1738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/81cm-foldable-carrier-for-medium-pets-with-cushion-pet-carrier-grey-709943.jpg?v=1700662910
     Price: £44.99 GBP
 - [91cm Foldable Pet Carrier, with Cushion, for Medium Dogs and Cats](https://veryimportantpets.shop/products/91cm-foldable-pet-carrier-for-medium-dogs-and-cats): Need help to travel with pets? With this PawHut fabric dog crate, you'll struggle no more. Shop online at Very Important Pets
-  Updated: 2025-10-06T07:30:48Z
+  Updated: 2025-10-07T07:30:47Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -2212,7 +2212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/spacious-outdoor-wooden-dog-kennel-grey-72x109x79cm-dog-kennel-352261.jpg?v=1700648234
   Price: £152.99 GBP
 - [43" Heavy Duty Foldable Dog Crate with Wheels & Removable Tray](https://veryimportantpets.shop/products/43-heavy-duty-dog-crate-foldable-dog-cage-with-openable-top-locks-removable-tray-wheels): Keep pets in place with this spacious PawHut dog cage. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:38Z
+  Updated: 2025-10-07T07:30:49Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -3574,7 +3574,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-06T15:30:53Z
+  Updated: 2025-10-07T07:30:48Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3963,7 +3963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/floor-to-ceiling-cat-tree-6-tier-play-tower-climbing-activity-center-w-scratching-post-hammock-adjustable-height-230-250cm-beige-616727.jpg?v=1700655402
     Price: £71.99 GBP
 - [TV-Shaped Cat Scratcher - Fun & Durable for Indoor Cats | Very Important Pets](https://veryimportantpets.shop/products/tv-shaped-scratching-board-with-scratcher-catnip-toy-rat-cat-scratcher-for-indoor-cats-43-x-23-x-32-5cm): Channel your cat's scratching and play instincts with our TV-shaped scratcher. Perfect for indoor cats up to 3kg, it combines a hideout and a durable scratching board. Comes with a toy rat and catnip to entertain and attract your furry friend. Easy to assemble, eco-friendly, and keeps furniture safe.
-  Updated: 2025-10-06T15:30:52Z
+  Updated: 2025-10-07T07:30:46Z
   Vendor: PawHut
   Product Type: Cat Scratch Mat
   Availability: Available
@@ -4173,7 +4173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-wooden-hamster-cage-with-entertainment-features-small-animal-cage-569862.jpg?v=1700664605
   Price: £107.99 GBP
 - [Four-Tier Wooden Hamster Cage - 60L x 40W x 120H cm](https://veryimportantpets.shop/products/four-tier-wooden-hamster-cage-60l-x-40w-x-120h-cm): This Pawhut cage is an excellent place for your small pets as this home offers plenty of room with four tiers. Shop online at Very Important Pets
-  Updated: 2025-10-05T15:30:52Z
+  Updated: 2025-10-07T07:30:46Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -6264,7 +6264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/eukanuba-grain-free-puppy-smallmedium-breed-ocean-fish-dry-dog-food-puppyjunior-dry-12-kg-167589.png?v=1711205673
     Price: £49.99 GBP
 - [Eukanuba Junior Dry Dog Food for Large Breeds 12-18 Months](https://veryimportantpets.shop/products/eukanuba-junior-large-breed-chicken-12-kg): Give your junior dog the best start in life with Eukanuba dry food enriched with fresh chicken, DHA for training, and a blend of prebiotics for digestion.
-  Updated: 2025-10-06T18:25:21Z
+  Updated: 2025-10-07T06:19:54Z
   Vendor: Eukanuba
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -21984,7 +21984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-breed-specific-german-shepherd-adult-dog-food-12kg-adult-dry-859652.png?v=1711912470
   Price: £49.01 GBP
 - [Eukanuba Puppy Small/Medium Breed Lamb & Rice Dog Food](https://veryimportantpets.shop/products/eukanuba-puppy-small-medium-breed-lamb-rice-dog-food): Keep your growing puppy happy and healthy with Eukanuba dry food. Made with fresh lamb and rice, it's perfect for small to medium breeds aged 1-12 months.
-  Updated: 2025-10-06T22:27:51Z
+  Updated: 2025-10-07T05:42:49Z
   Vendor: Eukanuba
   Product Type: Puppy/Junior Dry
   Availability: Available
