@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-06T20:00:29.408Z
+- Updated At: 2025-10-07T08:00:28.705Z
 
 ## Products
 
@@ -863,7 +863,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_371_H40574c3e309a4245a6a2b55cf679c175Y.png?v=1759594440
   Price: $35.26 USD
 - [Letter Printed Men's Casual Sweater Suit](https://fusionvibestore.com/products/letter-printed-mens-casual-sweater-suit): Product information: Pattern: letter printing Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: Loose Applicable scenarios: Leisure Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's top + pants *1 Product Image:
-  Updated: 2025-10-06T19:56:52Z
+  Updated: 2025-10-07T05:15:55Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -917,7 +917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/63d4cb32-16f7-45a8-876e-cdcdd22cfb56.jpg?v=1759737412
     Price: $28.48 USD
 - [Spring And Autumn Long-sleeved White Shirt Formal Wear Slim Fit Business Workwear](https://fusionvibestore.com/products/spring-and-autumn-long-sleeved-white-shirt-formal-wear-slim-fit-business-workwear): Product information: Pattern: solid color Number of threads: 40 Color: gray, navy blue, slabstone gray, white, olive green, light blue, black, Burgundy, royal blue, brown, khaki Suitable for people: Youth Size: S,M,L,XL,XXL,XXXL Version: general Fabric name: four-sided elastic band Applicable scenarios: Leisure Main fabric composition: Cotton Style: light business Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shirt x1 Product Image:
-  Updated: 2025-10-06T09:56:40Z
+  Updated: 2025-10-07T05:11:19Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1122,6 +1122,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
+- [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
+  Updated: 2025-10-07T06:18:54Z
+  Vendor: z60ja0-0n
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5952737729.jpg?v=1759815705
+  Price: $11.00 USD
 
 ## Collections
 
