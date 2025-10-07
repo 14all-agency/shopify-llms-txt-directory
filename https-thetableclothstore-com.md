@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-06T04:00:39.204Z
+- Updated At: 2025-10-07T04:00:38.357Z
 
 ## Products
 
@@ -2846,7 +2846,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Teal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-teal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:02Z
+  Updated: 2025-10-06T20:54:17Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -7515,7 +7515,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-16T21:58:20Z
+  Updated: 2025-10-06T19:13:43Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7523,12 +7523,12 @@
   - [Fabric Sample](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store?variant=46418269569249)
     Availability: Available
     Price: $1.00 USD
-  - [52 x 70](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store?variant=46418269602017)
-    Availability: Available
-    Price: $54.99 USD
   - [52 x 102](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store?variant=46418269634785)
     Availability: Available
     Price: $71.99 USD
+  - [52 x 70](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store?variant=46418269602017)
+    Availability: Available
+    Price: $54.99 USD
   - [90 x 132](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store?variant=46418269667553)
     Availability: Available
     Price: $160.99 USD
@@ -33744,6 +33744,9 @@
     Author: User
   - [Choosing the Right Tablecloth for Different Types of Events](https://thetableclothstore.com/blogs/news/choosing-the-right-tablecloth-for-different-types-of-events): Choosing the Right Tablecloth for Different Types of Events
     Updated: 2025-10-06T01:03:49Z
+    Author: User
+  - [Picnic Perfect: Tablecloth Tips for Outdoor Gatherings](https://thetableclothstore.com/blogs/news/picnic-perfect-tablecloth-tips-for-outdoor-gatherings): Picnic Perfect: Tablecloth Tips for Outdoor Gatherings
+    Updated: 2025-10-07T01:41:31Z
     Author: User
 
 ## Store Pages
