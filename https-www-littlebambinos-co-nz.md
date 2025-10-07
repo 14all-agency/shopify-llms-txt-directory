@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-07T04:00:47.072Z
+- Updated At: 2025-10-07T08:00:47.675Z
 
 ## Products
 
@@ -7077,7 +7077,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $159.00 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-06T00:19:22Z
+  Updated: 2025-10-07T07:59:35Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -9041,7 +9041,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Flap Cap Baby - Periwinkle](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle): The Toshi Flap Cap Baby is our most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS: A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Periwinkle features a French navy stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-09-29T21:18:26Z
+  Updated: 2025-10-07T07:25:21Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9050,7 +9050,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
   - [XS](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle?variant=41090971140190)
-    Availability: Available
+    Availability: Not Available
     Price: $39.95 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle?variant=41090971172958)
     Availability: Available
@@ -10083,7 +10083,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks101756-s45004_1_b301b651-3a13-4637-af8e-cc1278efe203.jpg?v=1725856503
   Price: $49.00 NZD
 - [CONNETIX Roads - Ramps & Intersections 16pc](https://www.littlebambinos.co.nz/products/connetix-roads-ramps-intersections-16pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-10-05T20:10:26Z
+  Updated: 2025-10-07T04:16:01Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -11075,7 +11075,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-10-04T23:42:44Z
+  Updated: 2025-10-07T06:22:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13220,7 +13220,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-10-06T21:22:41Z
+  Updated: 2025-10-07T05:02:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13268,7 +13268,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-07T01:22:48Z
+  Updated: 2025-10-07T05:02:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13313,8 +13313,15 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
+- [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
+  Updated: 2025-10-07T07:42:41Z
+  Vendor: Oria Skin
+  Product Type: Skincare
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
+  Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-10-06T21:42:56Z
+  Updated: 2025-10-07T05:02:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13362,7 +13369,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blemish_repair_balm_fed36dba-cb91-4f3e-bb5c-dffe157c5cc7.jpg?v=1744071930
   Price: $39.00 NZD
 - [ORIA SKIN Claw Clip](https://www.littlebambinos.co.nz/products/oria-skin-claw-clip): Say goodbye to bad hair days and hello to effortless elegance with our Oria Skin Claw Clips. These sleek, stylish clips are the perfect mix of function and flair, designed to keep your hair in place while you apply your skincare products! Featuring our beautiful crescent moon 'O' logo mark. Use them to gently sweep your hair out of the way while applying your Oria Skin masks, serums and creams. No more stray strands in your face or getting stuck in your products—just smooth, clear skin and hassle-free beauty rituals. Made with durable materials built to last. All-day comfort, no tugging, just hassle free sophistication. Add a pop of effortless style to your collection with the Oria Skin Claw Clips—because great hair and perfect skincare should never be a struggle!
-  Updated: 2025-09-25T02:22:41Z
+  Updated: 2025-10-07T05:02:42Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13388,7 +13395,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/OriaBag_aafbfa32-2e73-47de-a4bd-0d9d52b282b3.png?v=1744001857
   Price: $25.00 NZD
 - [ORIA SKIN The Mini Set](https://www.littlebambinos.co.nz/products/the-mini-set): The Mini Set Discover the perfect introduction to Oria Skin with The Mini Set, a travel-friendly collection designed to cover all your skincare needs, no matter where life takes you. This set includes mini travel-sized jars and bottles, so you can sample our bestsellers or pack them easily for your next getaway. $121 in value for only $69! Inside, you'll find: Gentle Cleansing Milk (30g) – A mild, nourishing cleanser that gently removes impurities without disrupting your skin’s natural balance. Balancing Day Cream (30g) – Lightweight yet hydrating, this day cream helps maintain your skin’s moisture and balance throughout the day. Overnight Firming Cream (30g) – Wake up to rejuvenated skin with this rich, firming cream that works overnight to restore and smooth. Rejuvenating Face Oil (5ml) – A luxurious, nutrient-packed oil that revitalises and restores a healthy glow. Hydration Booster Serum (5ml) – A powerful serum that locks in moisture, leaving your skin soft, dewy, and deeply hydrated. Whether you're just starting to explore Oria Skin’s natural formulations or need compact sizes for your travels, The Mini Set is the perfect way to experience a full, balanced routine on the go. All products are designed to work together, providing your skin with the care it deserves—anytime, anywhere.
-  Updated: 2025-10-06T09:02:43Z
+  Updated: 2025-10-07T05:02:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -14294,7 +14301,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Black Multi-Use Cover](https://www.littlebambinos.co.nz/products/black-multi-use-cover): Protect your baby with the versatile Black Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-10-05T06:00:42Z
+  Updated: 2025-10-07T05:20:42Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -15684,7 +15691,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-10-07T00:22:43Z
+  Updated: 2025-10-07T06:22:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
@@ -15826,7 +15833,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Flap Cap Paradise - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-10-03T05:06:43Z
+  Updated: 2025-10-07T06:17:00Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -16799,8 +16806,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-07T03:43:13Z
-  Total Products: 439
+  Updated: 2025-10-07T07:43:11Z
+  Total Products: 438
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -17651,7 +17658,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-07T03:43:13Z
+  Updated: 2025-10-07T07:43:11Z
   Total Products: 1326
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-03T11:02:02Z
