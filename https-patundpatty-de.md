@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-06T12:00:33.950Z
+- Updated At: 2025-10-07T08:00:34.051Z
 
 ## Products
 
@@ -263,7 +263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Elefant_aus_Baumwolle-_PAT_PATTY-blau.jpg?v=1751454183
     Price: 37,90 € EUR
 - [Bio Kuschelkissen Mond – mit Spelzfüllung, superweich & fair](https://patundpatty.de/products/bio-kuschelkissen-mond): Bio Kuschelkissen Mond von PAT & PATTY – superweich, handgemacht & nachhaltig mit Spelzfüllung. Ideal zum Kuscheln, Schlafen & süße Träume schenken.Jetzt bei
-  Updated: 2025-10-05T12:55:55Z
+  Updated: 2025-10-06T13:47:32Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2765,6 +2765,10 @@
     Updated: 2025-10-06T11:39:51Z
     Author: Sharon
     Tags: was bedeutet didaktisches spielzeug
+  - [Kuscheltiere sicher verwenden: Schutz und Pflege für Kinder](https://patundpatty.de/blogs/news/kuscheltiere-sicher-verwenden): Lernen Sie, wie Sie Kuscheltiere sicher verwenden können. Ein Schritt-für-Schritt-Prozess für Eltern, um Sicherheit und Hygiene zu gewährleisten.
+    Updated: 2025-10-07T05:20:17Z
+    Author: Sharon
+    Tags: kuscheltiere sicher verwenden
 
 ## Store Pages
 
