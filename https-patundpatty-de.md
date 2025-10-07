@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-07T08:00:34.051Z
+- Updated At: 2025-10-07T12:00:33.458Z
 
 ## Products
 
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Pferd_-_PAT_PATTY-naturweiss-plush.jpg?v=1757436566
     Price: 63,90 € EUR
 - [Bio Kuscheltier Einhorn XXL – Nachhaltig & handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-einhorn): Entdecke das große Bio Kuscheltier Einhorn mit Hirsefüllung – handgefertigt in Deutschland, plastikfrei und perfekt zum Kuscheln, Spielen & Schlafen.
-  Updated: 2025-10-05T11:10:36Z
+  Updated: 2025-10-07T10:13:14Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -107,11 +107,11 @@
   - [Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-einhorn?variant=45297403887884)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Einhorn_-_PAT_PATTY-4830089.jpg?v=1751448942
-    Price: 60,90 € EUR
+    Price: 61,90 € EUR
   - [Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-einhorn?variant=45297403920652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Einhorn_-_PAT_PATTY-4830105.jpg?v=1751449051
-    Price: 60,50 € EUR
+    Price: 61,50 € EUR
 - [Bio Kuschelkissen Alpaka – naturweiß oder braun | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-alpaka): Superweiches Bio Kuschelkissen Alpaka mit Spelzfüllung – in Naturweiß oder Hellbraun. Handgemacht & schadstofffrei. Jetzt bei PAT&PATTY entdecken!
   Updated: 2025-09-29T18:54:37Z
   Vendor: PAT & PATTY
@@ -454,6 +454,20 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenesel_Jule_-_PAT_PATTY-4832736.jpg?v=1746688673
     Price: 116,00 € EUR
+- [Bio Steckenpferd Einhorn aus Plüsch – handgemacht und fair](https://patundpatty.de/products/bio-steckendpferd-einhorn): Bio Steckenpferd Einhorn aus weichem Plüsch mit echter Mähne, liebevoll handgemacht & nachhaltig gefertigt ideal für fantasievolles Spielen kleiner Reiter:innen!
+  Updated: 2025-10-07T10:11:56Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckendpferd_Einhorn_-_PAT_PATTY-4832668.jpg?v=1729713285
+  - [Mini Einhorn "Rosa"](https://patundpatty.de/products/bio-steckendpferd-einhorn?variant=45303232889100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckendpferd_Einhorn_-_PAT_PATTY-4832692.jpg?v=1750145377
+    Price: 102,90 € EUR
+  - [Einhorn "Rosa"](https://patundpatty.de/products/bio-steckendpferd-einhorn?variant=45303232921868)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckendpferd_Einhorn_-_PAT_PATTY-4832680.jpg?v=1750145377
+    Price: 115,90 € EUR
 - [Steckenpferd Ständer aus Holz – stabil, handgemacht & robust](https://patundpatty.de/products/steckenpferd-stander-aus-buchenholz): Stabiler Holzständer für Steckenpferde – handgemacht, robust & naturbelassen. Perfekt zum Präsentieren, Aufräumen & dekorativem Einsatz.Jetzt online bestellen!
   Updated: 2025-10-04T18:18:14Z
   Vendor: PAT & PATTY
@@ -2451,7 +2465,7 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-10-06T11:22:00Z
+  Updated: 2025-10-07T10:13:01Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-30T11:20:54Z
@@ -2466,7 +2480,7 @@
   Updated: 2025-10-01T11:22:45Z
   Total Products: 12
 - [Meistverkaufte Produkte - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-10-06T11:22:00Z
+  Updated: 2025-10-07T10:13:01Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
   Updated: 2025-09-28T11:19:59Z
@@ -2499,7 +2513,7 @@
   Updated: 2025-10-02T11:22:53Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-10-06T11:22:00Z
+  Updated: 2025-10-07T10:13:01Z
   Total Products: 62
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
