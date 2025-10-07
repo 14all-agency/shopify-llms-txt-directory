@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-07T12:00:32.846Z
+- Updated At: 2025-10-07T20:00:32.097Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2269,7 +2269,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7a831c5f-cb22-48ed-907e-d1ce75e61f73.jpg?v=1759771456
   Price: 3.280,00 € EUR
 - [Ayon CD-5s Röhren-CD-Player gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/ayon-cd-5s-roehren-cd-player-gebraucht-kaufen-1): Ayon CD-5s Röhren-CD-Player gebraucht kaufen ✅ Geprüftes Gerät in Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-07T05:24:24Z
+  Updated: 2025-10-07T18:00:04Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
