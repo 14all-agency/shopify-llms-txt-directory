@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-10-07T04:00:30.176Z
+- Updated At: 2025-10-07T16:00:29.868Z
 
 ## Products
 
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07293-12-oz.TumblerSeastheDay-SC.jpg?v=1749440266
     Price: $34.99 NZD
 - [Owala 1185ML Tumbler | NZ](https://www.owalalife.co.nz/products/1185ml-tumbler): Stay hydrated with our 1185ml tumbler with handle! Featuring a removable straw, wide ice-friendly opening, and spill resistance, it's perfect for your busy life.
-  Updated: 2025-10-06T21:27:04Z
+  Updated: 2025-10-07T09:31:17Z
   Vendor: My Store
   Product Type: TUMBLER
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07292-15-oz.TumblerSkatePark-SC.jpg?v=1749439853
     Price: $24.99 NZD
 - [Owala Kids FreeSip Waterbottle | NZ](https://www.owalalife.co.nz/products/kids-freesip): Owala Kids FreeSip waterbottle, fun, colourful and easy to use. Built-in straw, spill-resistant design and a perfect size for school or play. Available now.
-  Updated: 2025-10-07T01:46:31Z
+  Updated: 2025-10-07T08:34:55Z
   Vendor: My Store
   Product Type: FREESIP KIDS
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1749429110
     Price: $54.99 NZD
 - [Owala FreeSip Water Bottle | NZ](https://www.owalalife.co.nz/products/freesip): Shop Owala FreeSip water bottles in NZ. Leak-proof, reusable, BPA-free plastic, with sip or swig 2 in 1 straw. Perfect for gym, work & everyday hydration.
-  Updated: 2025-10-07T03:35:41Z
+  Updated: 2025-10-07T13:31:05Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
@@ -593,22 +593,22 @@
 ## Collections
 
 - [Owala's Best Sellers | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/best-selling-products): Shop Owala Best Sellers NZ - our most popular water bottles, tumblers & accessories. Fan favourites and show stoppers, stylish & durable hydration.
-  Updated: 2025-10-06T11:11:21Z
+  Updated: 2025-10-07T11:08:58Z
   Total Products: 27
 - [Owala Accessories NZ | Bottle Boots, Brushes & More](https://www.owalalife.co.nz/collections/accessories): Shop Owala accessories in NZ, silicone bottle boots, 2-in-1 brushes & pet bowls. Durable, practical add-ons to protect, clean & care for your bottles.
   Updated: 2025-10-06T11:11:21Z
   Total Products: 5
 - [Shop Owala Drinkware | FreeSip, Twist, Coffee Mugs & Tumblers | NZ](https://www.owalalife.co.nz/collections/drinkware): Shop Owala Drinkware items in NZ - FreeSip, FreeSip Twist, SmoothSip Slider & Kids bottles. Stylish, reusable, BPA-free plastic bottles for everyday hydration.
-  Updated: 2025-10-06T11:11:21Z
+  Updated: 2025-10-07T11:08:58Z
   Total Products: 9
 - [Owala Tumblers | NZ](https://www.owalalife.co.nz/collections/tumblers): Shop Owala Tumblers NZ, 710ml & 1185ml insulated tumblers for hot or cold drinks. Cupholder friendly, perfect for coffee, tea, smoothies & water. Available now
   Updated: 2025-10-06T11:11:21Z
   Total Products: 2
 - [Owala Kid's Products | NZ](https://www.owalalife.co.nz/collections/kids-products): Shop Owala Kids FreeSip Bottles & Tumblers in NZ, BPA free plastic & insulated stainless steel. Fun, durable, spill-resistant drinkware for life's adventures.
-  Updated: 2025-10-06T11:11:21Z
+  Updated: 2025-10-07T11:08:58Z
   Total Products: 8
 - [Shop All Owala | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/shop-all): Explore all Owala bottles & accessories in NZ, FreeSip, FreeSip Twist, SmoothSip Slider, Kids items & more. Stylish, durable hydration for every lifestyle.
-  Updated: 2025-10-06T11:11:21Z
+  Updated: 2025-10-07T11:08:58Z
   Total Products: 12
 
 ## Store Pages
