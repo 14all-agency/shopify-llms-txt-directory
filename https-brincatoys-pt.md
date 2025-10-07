@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-07T08:01:10.446Z
+- Updated At: 2025-10-07T12:01:12.729Z
 
 ## Products
 
@@ -5783,13 +5783,6 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mordedor-coelho-810482322-brincatoys-1178694433.jpg?v=1752813975
   Price: 9,99 € EUR
-- [Mordedor de dentição Capuchinho Vermelho](https://brincatoys.pt/products/mordedor-de-denticao-capuchinho-vermelho): Com sua forma perfeitamente adaptada às mãos das crianças, este chocalho ajuda o bebê a desenvolver habilidades motoras e coordenação muscular. Obviamente, o silicone deste chocalho permitirá que o bebê o mastigue na boca e o ajudará a tirar os primeiros dentes.  Dimensão. 12 x 9 cm.Idade Recomendada: + de 0 meses.
-  Updated: 2025-09-30T00:04:39Z
-  Vendor: Brincatoys
-  Product Type: + 0 meses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mordedor-de-denticao-capuchinho-vermelho-671008322-brincatoys-1178694435.jpg?v=1752813981
-  Price: 12,99 € EUR
 - [Mordedor de tecido Rato](https://brincatoys.pt/products/mordedor-de-tecido-rato): Este mordedor é fácil de segurar na mão do bebé. O bebé pode sentir, mas também pode morder. Dimensão: 11,5 x 9 cm. Idade recomendada: + de 0 meses.
   Updated: 2025-09-30T02:36:48Z
   Vendor: Brincatoys
@@ -17200,7 +17193,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-festa-monstruosa-lagoona-blue-772304624-0194735230464-monster-high-1178700271.jpg?v=1752953163
   Price: 39,99 € EUR
 - [Boneca Cry Babies Tiny Minnie - Brinquedo Interativo](https://brincatoys.pt/products/cry-babies-tiny-minnie): Boneca Cry Babies Tiny Minnie para emocionar e ensinar crianças com mais de 18 meses. Interativa, ela chora lágrimas verdadeiras e promove a empatia.
-  Updated: 2025-10-06T02:53:14Z
+  Updated: 2025-10-07T10:20:42Z
   Vendor: Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -18432,7 +18425,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/polly-pocket-atelier-de-pintura-estudio-de-arte-portatil-20570124-194735057016-polly-pocket-1178701210.jpg?v=1752967576
   Price: 19,99 € EUR
 - [Polly Pocket - Aventura do Lama: Horas de Diversão Criativa](https://brincatoys.pt/products/polly-pocket-aventura-do-lama): Desperte a imaginação das crianças com a Polly Pocket - Aventura do Lama! Um compacto cheio de surpresas e diversão para horas de brincadeira criativa. 😊
-  Updated: 2025-09-29T17:19:19Z
+  Updated: 2025-10-07T10:20:31Z
   Vendor: Polly Pocket
   Product Type: + 4 anos
   Availability: Available
@@ -20224,7 +20217,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-25-cm-peluche-fofinho-522224925-7340031319126-brincatoys-1178692425.jpg?v=1752822375
   Price: 29,99 € EUR
 - [carro Cars Disney - Sally: Miniatura Oficial 1:55](https://brincatoys.pt/products/cars-disney-sally): Traga a diversão de Radiator Springs com o carro Cars Disney - Sally. Esta miniatura die-cast perfeita para crianças é irresistível! 🚗
-  Updated: 2025-10-05T15:56:06Z
+  Updated: 2025-10-07T10:36:36Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -21268,7 +21261,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T16:38:05Z
   Total Products: 24
 - [Mundo Animal](https://brincatoys.pt/collections/bonecos-pvc-mundo-animal)
-  Updated: 2025-10-06T19:10:04Z
+  Updated: 2025-10-07T11:23:31Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
   Updated: 2025-10-05T15:26:17Z
@@ -21310,8 +21303,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-24T12:31:41Z
   Total Products: 8
 - [+ 0 meses](https://brincatoys.pt/collections/0-meses)
-  Updated: 2025-10-06T16:31:01Z
-  Total Products: 97
+  Updated: 2025-10-07T11:15:58Z
+  Total Products: 96
 - [+ 10 anos](https://brincatoys.pt/collections/10-anos)
   Updated: 2025-09-24T21:25:56Z
   Total Products: 22
@@ -21319,7 +21312,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:24:39Z
   Total Products: 326
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-06T19:11:47Z
+  Updated: 2025-10-07T11:23:31Z
   Total Products: 1556
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-06T19:02:19Z
@@ -21337,26 +21330,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:24:09Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 1306
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 1305
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 2409
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 2408
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 2871
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 2870
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 3253
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3252
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 3386
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3385
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 3465
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3464
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-06T19:10:37Z
-  Total Products: 3514
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3513
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-06T16:39:25Z
   Total Products: 378
@@ -21547,8 +21540,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-06T19:10:38Z
-  Total Products: 3547
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3546
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-06T17:34:36Z
   Total Products: 287
@@ -21559,7 +21552,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:32:48Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-06T19:10:38Z
+  Updated: 2025-10-07T11:23:31Z
   Total Products: 1210
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-06T17:07:16Z
@@ -21583,11 +21576,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-06T19:10:38Z
-  Total Products: 3547
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3546
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-06T19:10:38Z
-  Total Products: 3547
+  Updated: 2025-10-07T11:23:31Z
+  Total Products: 3546
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-06T18:36:55Z
   Total Products: 23
@@ -21598,7 +21591,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-06T15:15:27Z
+  Updated: 2025-10-07T11:23:31Z
   Total Products: 3062
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
@@ -21607,7 +21600,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:54:16Z
   Total Products: 123
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-06T15:15:27Z
+  Updated: 2025-10-07T11:23:31Z
   Total Products: 3062
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-06T17:49:52Z
