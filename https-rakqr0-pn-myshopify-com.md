@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-07T10:32:49.795Z
+- Updated At: 2025-10-07T16:00:49.835Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://rakqr0-pn.myshopify.com/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-07T09:16:55Z
+  Updated: 2025-10-07T14:23:46Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -20791,7 +20791,7 @@
     Availability: Available
     Price: ₹398.00 INR
 - [Feeding Kurti Women's Rayon Floral Printed Anarkali Maternity Feeding Kurti](https://rakqr0-pn.myshopify.com/products/feeding-kurti-womens-rayon-floral-printed-anarkali-maternity-feeding-kurti): Product Details Name : "Feeding Kurti" Women's Rayon Floral Printed Anarkali Maternity Feeding Kurti Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 zipper maternity top, breast feeding dress : : breast feeding kurti, breast feeding kurti for women :: maternity top, feeding top :: pregnancy kurti, feeding top and kurti under :: maternity gown, feeding top and kurti under Sizes : M (Bust Size : 38 in, Length Size: 52 in, Waist Size: 36 in) L (Bust Size : 40 in, Length Size: 52 in, Waist Size: 38 in) XXL Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:31Z
+  Updated: 2025-10-07T13:50:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20924,7 +20924,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cymkm_512.webp?v=1759772402
   Price: ₹0.00 INR
 - [Womens Rayon Anarkali zip kurta & Kurti (2)](https://rakqr0-pn.myshopify.com/products/womens-rayon-anarkali-zip-kurta-kurti-2): Product Details Name : Womens Rayon Anarkali zip kurta & Kurti Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Checked Net Quantity (N) : 1 THIS GOWN IS MADE UP RAYON FABRIC. THIS GOWN IS SUITABLE FOR PREGNANT LADY AND THIS GOWN IS ALSO A PARTY WEAR. SO THIS GOWN IS SUITABLE FOR ALL LADIES. THIS IS VERY BEAUTIFUL GOWN. Sizes : M (Bust Size : 38 in, Length Size: 52 in, Shoulder Size: 14 in, Waist Size: 37 in) L (Bust Size : 40 in, Length Size: 52 in, Shoulder Size: 15 in, Waist Size: 39 in) XL (Bust Size : 42 in, Length Size: 52 in, Shoulder Size: 16 in, Waist Size: 41 in) XXL (Bust Size : 44 in, Length Size: 52 in, Shoulder Size: 16 in, Waist Size: 43 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:26:03Z
+  Updated: 2025-10-07T13:50:23Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21262,7 +21262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vri6t_512.webp?v=1759772595
   Price: ₹0.00 INR
 - [Women's Pure Cotton Maternity Gown/Maternity wear/Feeding Nighty (2)](https://rakqr0-pn.myshopify.com/products/womens-pure-cotton-maternity-gown-maternity-wear-feeding-nighty-2): Product Details Name : Women's Pure Cotton Maternity Gown/Maternity wear/Feeding Nighty Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 100% COTTON : Very Comfortable & Elegant Maternity Nursing Dress in Floral & Ethnic Prints made with finest quality of soft cotton fabric to give you the smoothest touch and carefully hand designed to fit your changing body shape for pre and post Pregnancy. This Maternity Women's Dress is great to wear at Work, Casual events and for Maternity Photoshoots. ELEGANT DESIGN : Exemplifying expert craftsmanship, it features careful pleats detailing running down the front to support your belly during the nine happy months of pregnancy. Wear it with Maternity Leggings that are the ideal pair with a soft and stretchable over-the-belly support. Occasion : One of the best Gifts for Baby Shower. Feeding Kurta To Hide Pre And Post Pregnancy Baby Tummy Bump : The Feeding top has been designed uniquely around tummy area to hide Pre and Post Pregnancy baby bump beautifully. Purpose : Night dress | Night Suit | Ladies Maternity Gown | Maternity Night Wear| Night Gown. Feeding Dress With Breathable Fabric : Maternity Dress made of breathable cotton fabric that allows air circulation and keeps you cool all day long. This Anarkali Gown Style Western Dress is lightweight, breathable, stretchy & incredibly soft to the skin. Name : Women's Pure Cotton Printed Maternity Gown/Maternity wear/Feeding Nighty A-line Maternity Feeding Dress Maternity Kurti Gown for Women Fabric : Rayon Sleeve Length : Three- Sizes : M (Bust Size : 10 in, Length Size: 10 in, Shoulder Size: 14 in, Waist Size: 10 in) L (Bust Size : 10 in, Length Size: 10 in, Shoulder Size: 14 in, Waist Size: 10 in) XL (Bust Size : 10 in, Length Size: 10 in, Shoulder Size: 15 in, Waist Size: 10 in) XXL (Bust Size : 10 in, Length Size: 10 in, Shoulder Size: 15 in, Waist Size: 10 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:25:32Z
+  Updated: 2025-10-07T13:50:36Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21586,7 +21586,7 @@
     Availability: Available
     Price: ₹391.00 INR
 - [WOMENS PRINTED NIGHTDRESS-NIGHTY -MAXI-NIGHTWEAR](https://rakqr0-pn.myshopify.com/products/womens-printed-nightdress-nighty-maxi-nightwear): Product Details Name : womens printed nightdress -nighty- maxi-nightwear Fabric : Satin Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : L (Bust Size : 40 in, Length Size: 53 in) XL (Bust Size : 42 in, Length Size: 55 in) XXL (Bust Size : 44 in, Length Size: 56 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:25:57Z
+  Updated: 2025-10-07T13:51:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21787,7 +21787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/clwf4_512.webp?v=1759772898
   Price: ₹0.00 INR
 - [womens printed nightdress -nighty- maxi-nightwear (2)](https://rakqr0-pn.myshopify.com/products/womens-printed-nightdress-nighty-maxi-nightwear-2): Product Details Name : womens printed nightdress -nighty- maxi-nightwear Fabric : Satin Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : L (Bust Size : 40 in, Length Size: 53 in) XL (Bust Size : 42 in, Length Size: 55 in) XXL (Bust Size : 40 in, Length Size: 56 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:26:02Z
+  Updated: 2025-10-07T13:50:56Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21949,7 +21949,7 @@
     Availability: Available
     Price: ₹254.00 INR
 - [womens printed nightdress -nighty- maxi-nightwear (3)](https://rakqr0-pn.myshopify.com/products/womens-printed-nightdress-nighty-maxi-nightwear-3): Product Details Name : WOMENS PRINTED NIGHTDRESS-NIGHTY -MAXI-NIGHTWEAR Fabric : Satin Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : L (Bust Size : 40 in, Length Size: 53 in) XL (Bust Size : 42 in, Length Size: 54 in) XXL (Bust Size : 44 in, Length Size: 57 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:26:02Z
+  Updated: 2025-10-07T13:50:57Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21967,7 +21967,7 @@
     Availability: Available
     Price: ₹276.00 INR
 - [womens printed nightdress -nighty- maxi-nightwear (4)](https://rakqr0-pn.myshopify.com/products/womens-printed-nightdress-nighty-maxi-nightwear-4): Product Details Name : womens printed nightdress -nighty- maxi-nightwear Fabric : Satin Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : L (Bust Size : 40 in, Length Size: 53 in) XL (Bust Size : 42 in, Length Size: 55 in) XXL (Bust Size : 44 in, Length Size: 57 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:25:57Z
+  Updated: 2025-10-07T13:51:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22064,7 +22064,7 @@
     Availability: Available
     Price: ₹233.00 INR
 - [womens printed nightdress -nighty- maxi-nightwear (5)](https://rakqr0-pn.myshopify.com/products/womens-printed-nightdress-nighty-maxi-nightwear-5): Product Details Name : womens printed nightdress -nighty- maxi-nightwear Fabric : Satin Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXL (Bust Size : 44 in, Length Size: 57 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:26:02Z
+  Updated: 2025-10-07T13:51:08Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22287,7 +22287,7 @@
     Availability: Available
     Price: ₹217.00 INR
 - [plazzo (2)](https://rakqr0-pn.myshopify.com/products/plazzo-2): Product Details Name : plazzo Fabric : Lycra Pattern : Solid Net Quantity (N) : 2 Sizes : 30 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 39 in, Hip Size: 34 in) 36 (Waist Size : 36 in, Length Size: 39 in, Hip Size: 36 in) M (Waist Size : 34 in, Length Size: 38 in, Hip Size: 34 in) L (Waist Size : 34 in, Length Size: 38 in, Hip Size: 34 in) XL (Waist Size : 34 in, Length Size: 38 in, Hip Size: 34 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:19:01Z
+  Updated: 2025-10-07T13:51:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22341,7 +22341,7 @@
     Availability: Available
     Price: ₹216.00 INR
 - [plazzo (3)](https://rakqr0-pn.myshopify.com/products/plazzo-3): Product Details Name : plazzo Fabric : Lycra Pattern : Printed Net Quantity (N) : 1 Sizes : M, L, XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:19:01Z
+  Updated: 2025-10-07T13:51:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22395,7 +22395,7 @@
     Availability: Available
     Price: ₹236.00 INR
 - [plazzo (4)](https://rakqr0-pn.myshopify.com/products/plazzo-4): Product Details Name : plazzo Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 Sizes : 28, 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 38 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 38 in, Hip Size: 34 in) 36 (Waist Size : 36 in, Length Size: 38 in, Hip Size: 36 in) XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:19:01Z
+  Updated: 2025-10-07T13:51:19Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22503,7 +22503,7 @@
     Availability: Available
     Price: ₹236.00 INR
 - [plazzo (5)](https://rakqr0-pn.myshopify.com/products/plazzo-5): Product Details Name : plazzo Fabric : Rayon Pattern : Printed Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in, Length Size: 39 in, Hip Size: 30 in) 30 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 39 in, Hip Size: 34 in) 36 (Waist Size : 36 in, Length Size: 39 in, Hip Size: 36 in) 38 (Waist Size : 38 in, Length Size: 39 in, Hip Size: 38 in) 40 (Waist Size : 40 in, Length Size: 39 in, Hip Size: 40 in) XL (Waist Size : 30 in, Length Size: 39 in, Hip Size: 30 in) XXL (Waist Size : 40 in, Length Size: 39 in, Hip Size: 42 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:19:00Z
+  Updated: 2025-10-07T13:51:21Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22539,7 +22539,7 @@
     Availability: Available
     Price: ₹193.00 INR
 - [plazzo (6)](https://rakqr0-pn.myshopify.com/products/plazzo-6): Product Details Name : plazzo Fabric : Lycra Pattern : Solid Net Quantity (N) : 3 Sizes : 30 (Waist Size : 30 in, Length Size: 30 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 32 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 34 in, Hip Size: 34 in) 36 (Waist Size : 36 in, Length Size: 36 in, Hip Size: 36 in) XL (Waist Size : 30 in, Length Size: 38 in, Hip Size: 30 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:19:00Z
+  Updated: 2025-10-07T13:51:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22701,7 +22701,7 @@
     Availability: Available
     Price: ₹339.00 INR
 - [Winter Woolen Plazo for Women | Cozy & Stylish Woolen Pants | Warm and Trendy Winter Wear | Comfortable Winter Bottomwear](https://rakqr0-pn.myshopify.com/products/winter-woolen-plazo-for-women-cozy-stylish-woolen-pants-warm-and-trendy-winter-wear-comfortable-winter-bottomwear): Product Details Name : "Winter Woolen Plazo for Women | Cozy & Stylish Woolen Pants | Warm and Trendy Winter Wear | Comfortable Winter Bottomwear" Fabric : Wool Pattern : Printed Net Quantity (N) : 1 Stay warm and stylish this winter with our Women Winter Woolen Plazo! Made from premium quality woolen fabric, these plazos are perfect for the chilly weather while offering maximum comfort and style. Designed to keep you cozy without compromising on fashion, these plazos are an essential addition to your winter wardrobe. Whether you're heading to work, a casual outing, or a family gathering, these plazos will ensure you look chic and stay warm. Key Features : Premium Woolen Fabric : Soft, breathable, and warm material perfect for winter wear. Cozy & Comfortable : Provides a snug fit, ensuring warmth all day long. Stylish & Trendy : Fashion-forward design that complements any outfit, perfect for casual or semi-formal occasions. Perfect for Winter & Cold Weather : Ideal for wearing during the cold months (Autumn, Winter). Versatile : Pairs easily with tunics, kurtis, or western tops. Durable & Long-Lasting : High-quality stitching and fabric designed for regular use. Colors : Available in a variety of colors to suit every taste. Why Choose Our Woolen Plazo? Easy Maintenance : Machine washable and resistant to wear and tear. Comfortable Fit : Designed to fit all body types with a flattering silhouette. Winter Essential : Stay cozy without compromising on style, perfect for chilly mornings and evenings. Affordable Winter Wear : High-quality product at an affordable price, great value for Sizes : XS, S, M, L, Free Size Country of Origin : India More Information
-  Updated: 2025-10-07T09:23:11Z
+  Updated: 2025-10-07T13:51:42Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23727,8 +23727,8 @@
 - [men watch](https://rakqr0-pn.myshopify.com/collections/men-watch)
   Updated: 2025-09-30T10:19:46Z
   Total Products: 89
-- [men t shirt](https://rakqr0-pn.myshopify.com/collections/men-t-shirt)
-  Updated: 2025-09-30T12:20:11Z
+- [T-shirt](https://rakqr0-pn.myshopify.com/collections/men-t-shirt)
+  Updated: 2025-10-07T13:08:52Z
   Total Products: 111
 - [kitehen](https://rakqr0-pn.myshopify.com/collections/kitehen)
   Updated: 2025-09-30T06:44:41Z
@@ -23736,8 +23736,8 @@
 - [kids](https://rakqr0-pn.myshopify.com/collections/kids)
   Updated: 2025-09-30T23:38:01Z
   Total Products: 77
-- [saree](https://rakqr0-pn.myshopify.com/collections/saree)
-  Updated: 2025-09-30T10:16:10Z
+- [Saree](https://rakqr0-pn.myshopify.com/collections/saree)
+  Updated: 2025-10-07T11:45:45Z
   Total Products: 83
 - [home decore](https://rakqr0-pn.myshopify.com/collections/home-decore)
   Updated: 2025-10-01T05:11:17Z
@@ -23775,23 +23775,23 @@
 - [fitness](https://rakqr0-pn.myshopify.com/collections/empty-8)
   Updated: 2025-10-07T07:08:57Z
   Total Products: 98
-- [narkali kurti](https://rakqr0-pn.myshopify.com/collections/empty-9)
-  Updated: 2025-10-07T07:07:33Z
+- [Anarkali kurti](https://rakqr0-pn.myshopify.com/collections/empty-9)
+  Updated: 2025-10-07T11:55:11Z
   Total Products: 43
-- [long kurti](https://rakqr0-pn.myshopify.com/collections/empty-10)
-  Updated: 2025-10-07T07:08:35Z
+- [Long kurti](https://rakqr0-pn.myshopify.com/collections/empty-10)
+  Updated: 2025-10-07T11:48:52Z
   Total Products: 42
-- [skirt](https://rakqr0-pn.myshopify.com/collections/skirt)
-  Updated: 2025-10-07T07:01:59Z
+- [Skirt](https://rakqr0-pn.myshopify.com/collections/skirt)
+  Updated: 2025-10-07T11:50:46Z
   Total Products: 38
-- [maternaak dres s](https://rakqr0-pn.myshopify.com/collections/maternaak-dres-s)
-  Updated: 2025-10-07T07:06:11Z
+- [Maternity wear](https://rakqr0-pn.myshopify.com/collections/maternaak-dres-s)
+  Updated: 2025-10-07T11:47:14Z
   Total Products: 45
 - [plazoo](https://rakqr0-pn.myshopify.com/collections/plazoo)
   Updated: 2025-10-07T07:02:56Z
   Total Products: 44
-- [nighty](https://rakqr0-pn.myshopify.com/collections/nighty)
-  Updated: 2025-10-07T07:05:04Z
+- [Night wear](https://rakqr0-pn.myshopify.com/collections/nighty)
+  Updated: 2025-10-07T11:48:35Z
   Total Products: 39
 - [jeans](https://rakqr0-pn.myshopify.com/collections/jeans)
   Updated: 2025-10-07T07:44:01Z
@@ -23799,29 +23799,29 @@
 - [t shirt](https://rakqr0-pn.myshopify.com/collections/t-shirt)
   Updated: 2025-10-07T07:46:43Z
   Total Products: 41
-- [jum suit](https://rakqr0-pn.myshopify.com/collections/jum-suit)
-  Updated: 2025-10-07T07:45:29Z
+- [Jumpsuit](https://rakqr0-pn.myshopify.com/collections/jum-suit)
+  Updated: 2025-10-07T11:47:42Z
   Total Products: 33
-- [dress](https://rakqr0-pn.myshopify.com/collections/dress)
-  Updated: 2025-10-07T07:48:57Z
+- [Dresses](https://rakqr0-pn.myshopify.com/collections/dress)
+  Updated: 2025-10-07T11:49:45Z
   Total Products: 43
-- [tops](https://rakqr0-pn.myshopify.com/collections/tops)
-  Updated: 2025-10-07T07:52:24Z
+- [Crop top](https://rakqr0-pn.myshopify.com/collections/tops)
+  Updated: 2025-10-07T11:48:18Z
   Total Products: 39
-- [suit](https://rakqr0-pn.myshopify.com/collections/suit)
-  Updated: 2025-10-07T07:53:21Z
+- [Suit](https://rakqr0-pn.myshopify.com/collections/suit)
+  Updated: 2025-10-07T11:47:57Z
   Total Products: 39
 - [mobile asseccerie](https://rakqr0-pn.myshopify.com/collections/mobile-asseccerie)
   Updated: 2025-10-07T07:54:03Z
   Total Products: 0
-- [kurti](https://rakqr0-pn.myshopify.com/collections/kurti)
-  Updated: 2025-10-07T07:56:10Z
+- [Kurti](https://rakqr0-pn.myshopify.com/collections/kurti)
+  Updated: 2025-10-07T11:46:08Z
   Total Products: 45
-- [jacket](https://rakqr0-pn.myshopify.com/collections/jacket)
-  Updated: 2025-10-07T10:26:09Z
+- [Jacket](https://rakqr0-pn.myshopify.com/collections/jacket)
+  Updated: 2025-10-07T13:05:13Z
   Total Products: 98
-- [shirt](https://rakqr0-pn.myshopify.com/collections/shirt)
-  Updated: 2025-10-07T10:31:41Z
+- [Shirt](https://rakqr0-pn.myshopify.com/collections/shirt)
+  Updated: 2025-10-07T12:58:41Z
   Total Products: 45
 
 ## Store Pages
