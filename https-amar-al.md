@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-06T16:00:35.206Z
+- Updated At: 2025-10-07T04:00:35.692Z
 
 ## Products
 
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/01-1-1.png?v=1737381275
   Price: ALL 2,195.00 ALL
 - [SmartAppGuided™ Aqua-Stream Face Cleanser | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial](https://amar.al/products/smartappguided-aqua-stream-face-cleanser-8-in-1): Po kërkoni një marrje të shpejtë? Pastruesi i fytyrës SmartAppGuided™ Aqua-Stream | 8 në 1 rinovon dhe hidraton lëkurën tuaj në përsosmëri rrezatuese. - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial
-  Updated: 2025-10-05T07:56:00Z
+  Updated: 2025-10-06T20:05:25Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -1958,7 +1958,7 @@ Massager - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/p
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0013_4099702000896_1.png?v=1751544634
   Price: ALL 5,010.30 ALL
 - [SmartAppGuided™ MicroCurrent Face-Lifter | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microcurrent-face-lifter-6-in-1): Ngritësi i fytyrës MicroCurrent SmartAppGuided™ | 6 në 1 përdor teknologjitë MicroCurrent dhe SmartSonic Pulsation për të forcuar dhe ngritur lëkurën tuaj, duke i dhënë asaj një pamje rinore dhe një shkëlqim të shëndetshëm. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-09-21T00:14:35Z
+  Updated: 2025-10-06T20:05:25Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
