@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-07T12:01:02.564Z
+- Updated At: 2025-10-07T16:00:59.816Z
 
 ## Products
 
@@ -46403,6 +46403,86 @@
   - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304842490)
     Availability: Available
     Price: ‏1,299.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות King Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-07T12:27:56Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/31_cc6da199-62b3-42a6-a33b-af38eb910c5c.png?v=1759838875
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369559290)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369624826)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369657594)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369690362)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369723130)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369755898)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369788666)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369821434)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369854202)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369886970)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369919738)
+    Availability: Not Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369952506)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369985274)
+    Availability: Available
+    Price: ‏1,399.00 ‏₪ ILS
+- [כפפות שוער Puma Future Ultimate Negative Cut](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult): כפפות השוער Puma Future Ultimate Negative Cut מעניקות שליטה ומגע מושלם עם הכדור, עם חיתוך שלילי שמקרב את היד לכדור ומאפשר תחושת דיוק גבוהה בכל פעולה. החלק האחורי כולל חוטי אחיזה משולבים לפונצ'ינג עוצמתי, ללא נפח מיותר, בעוד שהחומר האלסטי והנושם מתאים בצורה טבעית לכף היד ומאפשר תנועה חופשית של האצבעות. ניקובים בחומר משפרים את זרימת האוויר לנוחות מירבית. כף היד עשויה מלך ELITE+ Dual Grip 2.0 איכותי, עם חלקיקים דביקים במיוחד לאחיזה יציבה בכל תנאי מזג האוויר. מערכת הסגירה ללא רצועה אלסטית שומרת על התאמה צמודה ונוחה לאורך כל המשחק.
+  Updated: 2025-10-07T13:22:19Z
+  Vendor: R:Sport
+  Product Type: כפפות שוער
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_b2a3ca37-4a42-43cf-b8b7-e1de2c266b2f.jpg?v=1759841849
+  - [7](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801470910714)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [7.5](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801470943482)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [8](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801470976250)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [8.5](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801471009018)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [9](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801471041786)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [9.5](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801471074554)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [10](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801471107322)
+    Availability: Available
+    Price: ‏849.90 ‏₪ ILS
+  - [10.5](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801492013306)
+    Availability: Available
+    Price: ‏369.90 ‏₪ ILS
+  - [11](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801492046074)
+    Availability: Available
+    Price: ‏369.90 ‏₪ ILS
 
 ## Collections
 
@@ -46728,11 +46808,11 @@
   Updated: 2025-10-02T11:30:59Z
   Total Products: 11
 - [כפפות שוער](https://www.rsport.co.il/collections/כפפות-שוער)
-  Updated: 2025-10-04T11:18:52Z
-  Total Products: 15
+  Updated: 2025-10-07T13:22:15Z
+  Total Products: 16
 - [שוערים](https://www.rsport.co.il/collections/שוערים)
-  Updated: 2025-10-04T11:18:52Z
-  Total Products: 28
+  Updated: 2025-10-07T13:22:15Z
+  Total Products: 29
 - [חולצות שוער](https://www.rsport.co.il/collections/חולצות-שוער)
   Updated: 2025-10-02T11:52:11Z
   Total Products: 20
@@ -46782,8 +46862,8 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 56
+  Updated: 2025-10-07T12:25:17Z
+  Total Products: 57
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
   Updated: 2025-10-07T11:38:09Z
   Total Products: 48
@@ -46881,8 +46961,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 2059
+  Updated: 2025-10-07T13:22:15Z
+  Total Products: 2061
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -47082,10 +47162,10 @@
   Updated: 2025-10-07T11:38:09Z
   Total Products: 4
 - [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 7
+  Updated: 2025-10-07T12:25:17Z
+  Total Products: 8
 - [נעלי כדורגל Puma Future](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-future)
-  Updated: 2025-10-06T19:53:27Z
+  Updated: 2025-10-07T12:07:39Z
   Total Products: 7
 - [נעלי כדורגל Puma Ultra](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra)
   Updated: 2025-10-07T11:23:06Z
@@ -47094,17 +47174,17 @@
   Updated: 2025-10-07T11:38:09Z
   Total Products: 6
 - [נעלי כדורגל PUMA Ultra Ultimate](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra-ultimate)
-  Updated: 2025-10-07T11:23:06Z
+  Updated: 2025-10-07T12:07:39Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
-  Updated: 2025-10-06T19:53:27Z
-  Total Products: 5
+  Updated: 2025-10-07T12:25:17Z
+  Total Products: 6
 - [נעלי כדורגל Puma King](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-king)
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 1
+  Updated: 2025-10-07T12:25:17Z
+  Total Products: 2
 - [PUMA King Ultimate נעלי כדורגל](https://www.rsport.co.il/collections/puma-king-ultimate-נעלי-כדורגל)
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 1
+  Updated: 2025-10-07T12:25:17Z
+  Total Products: 2
 
 ## Blogs
 
@@ -47190,8 +47270,8 @@
   Updated: 2024-11-18T14:49:35Z
 - [קניה בטוחה](https://www.rsport.co.il/pages/קניה-בטוחה): עם אבטחת המידע שלנו אתם יכולים לקנות בראש שקט. אנו ב- בארספורט מייחסים חשיבות עליונה לאבטחת המידע של לקוחותינו ומיישמים מערכות ונהלים מתקדמים ביותר...
   Updated: 2024-11-18T13:10:43Z
-- [ליגות כדורגל](https://www.rsport.co.il/pages/ליגות-כדורגל)
-  Updated: 2024-12-25T22:55:05Z
+- [Fan Shop -  חולצות כדורגל](https://www.rsport.co.il/pages/fan-shop): חולצות כדורגל ומוצרי כדורגל תמוך בקבוצה או בנבחרת האהובה עליך עם מבחר ענק של מוצרי כדורגל ב-R:Sport. אצלנו תמצא חולצות משחק, חולצות מעריצים, גרביים...
+  Updated: 2025-10-07T14:15:16Z
 - [אודותינו](https://www.rsport.co.il/pages/אודותינו): צוות אר ספורט נמצא בתעשיית ביגוד הספורט החל משנת 2008, בשנים אלו פעלנו רבות בשוק הבין לאומי. בשנת 2018, עקב צורך וביקוש שהגיע אלינו מהקהל הישראלי, ...
   Updated: 2024-11-18T18:07:01Z
 - [הצהרת נגישות](https://www.rsport.co.il/pages/הצהרת-נגישות): אנחנו מייחסת חשיבות עליונה להתאמת אתר האינטרנט שלה לגולשים עם מוגבלויות פיזיות, חושיות וקוגניטיביות מתוך תפיסת עולם לפיה יש לאפשר לכל האנשים הזדמנו...
