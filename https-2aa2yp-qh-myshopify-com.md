@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-06-12T08:19:34Z
 - Contact Email: maruko.fang.1993@gmail.com
-- Updated At: 2025-10-07T08:00:36.431Z
+- Updated At: 2025-10-07T20:00:36.696Z
 
 ## Products
 
@@ -16253,6 +16253,9 @@
 - [Home page](https://2aa2yp-qh.myshopify.com/collections/frontpage)
   Updated: 2025-09-26T11:21:57Z
   Total Products: 1
+- [AVADA - Best Sellers](https://2aa2yp-qh.myshopify.com/collections/avada-best-sellers)
+  Updated: 2025-10-07T15:50:57Z
+  Total Products: 765
 
 ## Store Pages
 
