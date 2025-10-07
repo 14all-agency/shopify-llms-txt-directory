@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-10-06T20:00:31.035Z
+- Updated At: 2025-10-07T12:00:31.106Z
 
 ## Products
 
@@ -585,7 +585,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/IndustrialIceCubeTraywithLid-Turquoise-8710755882302Lekue_96dpi_1000x1000px_7_NR-33296.png?v=1752622170
   Price: $27.98 NZD
 - [Microwave Egg Cup, Cylinder, Clear](https://www.lekue.co.nz/products/egg-poacher-copy): Microwave Ovo is a 100% Silicone mould to cook eggs in microwave in a healthy, original, fast and simple way in less than 1 minute. Features Create surprising round shapes for some original and fun dishes. Each mould can hold one egg, and you can add your favourite ingredients to enhance its flavour. Just break the egg into the Microwave Ovo and add any ingredients you want. The microwave cooking process only takes a few seconds; Place the mould with the egg at the edge of the microwave turntable, and follow the times indicated for your preferred type of egg. With Microwave Ovo you can prepare different types of eggs; A soft-boiled egg is an egg whose yolk is still runny and whose white is slightly set. A mollet egg; an egg where the white is more set and the yolk is firmer but still runny. And a hard-boiled egg; an egg where the yolk and white are completely set. It includes a cooking guide with the times indicated for your preferred type of egg, as well as ideas for tasty, varied, healthy and fat-free recipes. Prepare fun and tasty microwave eggs the easy way! They’ll be a hit with kids and adults alike.
-  Updated: 2025-08-29T02:37:06Z
+  Updated: 2025-10-07T08:02:37Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
