@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-07T08:00:31.083Z
+- Updated At: 2025-10-07T16:00:30.930Z
 
 ## Products
 
@@ -6252,7 +6252,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Price: € 22,95 EUR
 - [Jersey hijab van hoogwaardig lycra](https://newbro.be/products/hijab-van-premium-jersey-lycra): Een elegante en veelzijdige jersey hijab van hoogwaardig lycra is perfect voor dagelijks gebruik.
 Levertermijn : 3 à 4 werkdagen
-  Updated: 2025-10-06T23:18:23Z
+  Updated: 2025-10-07T10:55:29Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
@@ -6356,7 +6356,7 @@ Levertermijn : 3 à 4 werkdagen
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium Jersey Hijab met subtiele lijnafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
-  Updated: 2025-10-06T23:19:42Z
+  Updated: 2025-10-07T10:56:00Z
   Vendor: Diellla - Netazone
   Product Type: 
   Availability: Available
