@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-04T20:00:28.148Z
+- Updated At: 2025-10-07T12:00:28.533Z
 
 ## Products
 
@@ -2940,7 +2940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15037823125549178603_2048.jpg?v=1759184730
     Price: $69.68 USD
 - [Love Every Day Hoodie](https://rebirthshoponline.myshopify.com/products/love-every-day-hoodie): This Lightweight Hooded Sweatshirt embodies casual elegance and everyday comfort. Made from 100% ring-spun cotton, it feels soft against the skin while providing a durable fit perfect for various activities. The vibrant lavender hue and bold ‘LOVE every day’ print bring a cheerful vibe, ideal for spreading positivity wherever you go. Perfect for lounging at home, casual outings, or cozy gatherings with friends. Ideal for those who embrace love and positivity in their lives, this sweatshirt makes a great gift for birthdays, Valentine’s Day, or just to uplift someone's spirits. With its relaxed fit and thoughtful design details, it seamlessly balances style and comfort for anyone looking to express their warmest sentiments.Product features- Made from 100% ring-spun cotton for a soft, durable feel.- Jersey-lined hood with stylish flatcord adds detail.- Rolled forward shoulders enhance comfort and mobility.- Relaxed fit for a casual, comfortable wear experience.- Sustainable production with OEKO-TEX certified dyes.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-04T15:39:41Z
+  Updated: 2025-10-05T23:06:35Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
