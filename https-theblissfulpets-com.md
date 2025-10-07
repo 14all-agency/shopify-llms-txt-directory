@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-04T20:00:30.326Z
+- Updated At: 2025-10-07T12:00:29.889Z
 
 ## Products
 
 - [The Blissful Dog Visibly Vibrant Color Enhancing Dog Shampoo](https://theblissfulpets.com/products/visibly-vibrant-pet-shampoo): Visibly Vibrant color enhancing dog shampoo brightens and revitalizes your dogs coat. Reds, bronzes, merles, tricolors, harlequin color + are all enhanced.
-  Updated: 2025-07-26T01:50:52Z
+  Updated: 2025-10-05T06:33:12Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-VV-GALLON-2024.jpg?v=1712675446
     Price: $72.95 USD
 - [Blissfully Fresh® Face Wash For a Fresh, Sweet Face](https://theblissfulpets.com/products/blissfully-fresh-face-wash): Blissfully Fresh® Face Wash cleans & refreshes the dirtiest Bulldog face for up-close cuddles.  Used as directed, your dog's face will be FRESH!
-  Updated: 2025-07-27T13:23:05Z
+  Updated: 2025-10-05T16:01:02Z
   Vendor: The Blissful Dog® Inc.
   Product Type: FACE WASH
   Availability: Available
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-FFW-COMBO-SIZES-2024.jpg?v=1713295485
     Price: $35.95 USD
 - [The Blissful Dog | Age Well Senior Dog Support for Your Aging Dog](https://theblissfulpets.com/products/age-well-senior-support-combo): Age Well Senior Dog Combo has senior shampoos, Age Well Aromatherapy and skin care balm for your senior dog's aging comfort emotionally, mentally & physically
-  Updated: 2025-09-20T17:43:56Z
+  Updated: 2025-10-05T12:52:26Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -92,7 +92,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-FFW-COMBO-MAIN-2024.jpg?v=1713890035
     Price: $35.95 USD
 - [The Blissful Dog | Dog Lust Buster Balm Helps Deter Hormonal Boy Dogs](https://theblissfulpets.com/products/lust-buster-butter): The Blissful Dog Lust Buster Butter helps deter boy dogs from girl dogs in heat for SHORT periods of time; training class, dog shows, events. Not for long terms
-  Updated: 2025-08-06T17:00:10Z
+  Updated: 2025-10-05T13:44:59Z
   Vendor: The Blissful Dog® Inc.
   Product Type: LUST BUSTER BUTTER
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BUG-SPRAY-GALLON-2024.jpg?v=1713368405
     Price: $72.95 USD
 - [The Blissful Dog Focus Dog Aromatherapy for Your Distracted Dog](https://theblissfulpets.com/products/show-me-focus-dog-aromatherapy): The Blissful Dog Focus Dog Aromatherapy for Your Distracted Dog - for obedience, agility, rally or any event your dog will be training for and competing in.
-  Updated: 2025-07-26T19:21:24Z
+  Updated: 2025-10-05T05:00:04Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -176,7 +176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-FS-GALLON-2024.jpg?v=1713287070
     Price: $72.95 USD
 - [Simply CC Dog Cologne Deodorizer for Crisp, Clean Refreshing Scent](https://theblissfulpets.com/products/simply-cc-dog-cologne-for-the-classically-confident-canine): Simply CC Canine Cologne - Your go-to dog cologne deodorizer for a quick refresher. Your dog will smell clean and cool and ready for good clean fun fast!
-  Updated: 2025-07-28T16:26:42Z
+  Updated: 2025-10-05T07:39:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: Cologne
   Availability: Available
@@ -198,7 +198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-CC-GALLON-2024.jpg?v=1713286009
     Price: $72.95 USD
 - [Dog Cologne Spray | Dog Grooming Perfume Spray](https://theblissfulpets.com/products/strut-dog-cologne): Give your dog a boost of confidence with our Strut dog cologne spray! This perfume will not only make your dog smell great but will also detangle their coat.
-  Updated: 2025-07-28T06:47:41Z
+  Updated: 2025-10-05T04:16:06Z
   Vendor: The Blissful Dog® Inc.
   Product Type: Cologne
   Availability: Available
@@ -220,7 +220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-ST-GALLON-2024.jpg?v=1713286477
     Price: $72.95 USD
 - [The Blissful Dog Whitening Shampoo Brightens White, Gray, Silver Coats](https://theblissfulpets.com/products/razzle-dazzle-white-pet-shampoo): Keep your white dog their brightest with our natural dog whitening shampoo. Razzle Dazzle offers gentle herbal cleansing with no bleach or dyes.
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-06T04:41:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -264,7 +264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BF-GALLON-2024.jpg?v=1712687799
     Price: $72.95 USD
 - [The Blissful Dog NO H20 Spray Dog Shampoo Keeps Your Dog Fresh & Clean](https://theblissfulpets.com/products/no-h20-waterless-pet-shampoo): The Blissful Dog NO H20 Spray Dog Shampoo cleans and refreshes your dog in-between baths.Just spray on & wipe off! Perfect for puppies, senior dogs and travel.
-  Updated: 2025-07-29T20:04:38Z
+  Updated: 2025-10-06T00:50:04Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SPRAY SHAMPOO
   Availability: Available
@@ -286,14 +286,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-NOH2O-GALLON-2024.jpg?v=1712685887
     Price: $72.95 USD
 - [The Blissful Dog Itchy Skin - Bye Bye Boo Boo® Hello Bliss Combo Kit](https://theblissfulpets.com/products/bye-bye-boo-boo-hello-bliss-combo-kit): The Blissful Dog Itchy Skin Bye Bye Boo Boo® Say Good-Bye to Itchy Annoyances! Good-Bye to Vexing Skin Frustrations with our 3-Step Plan for your dog's comfort
-  Updated: 2025-07-25T07:39:22Z
+  Updated: 2025-10-05T00:44:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BBBB SHAMPOO COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BB-KIT-2024.jpg?v=1713887912
   Price: $27.95 USD
 - [The Blissful Dog Bye Bye Bug® Soap, Spray & Butter Bug Banishing Combo](https://theblissfulpets.com/products/bug-off-biting-bugs-combo-kit): The Blissful Dog Bye Bye Bug® Combo- Includes all-natural Bye Bye Bug® Soap, Bye Bye Bug® Spray & Butter...all you need to keep your dog blissfully bug-free.
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-04T23:13:34Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BYE BYE BUG COMBO
   Availability: Available
@@ -311,14 +311,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BUG-COMBO-LARGE-2024.jpg?v=1713809298
     Price: $45.95 USD
 - [Looking Good! Blissfully Clean Dog Shampoo Conditioning Combo Kit](https://theblissfulpets.com/products/looking-good-combo-kit): Keep Your Blissful Dog Looking and Feeling Fresh & Clean. Body & Bounce dog shampoo, Flawless Finish Conditioner and Shine-On+Sheen De-Tangling coat spray.
-  Updated: 2025-07-28T23:39:14Z
+  Updated: 2025-10-05T18:45:27Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/products/LOOKING_GOOD_ALL3_SQ_CHIC.jpg?v=1709910963
   Price: $22.95 USD
 - [The Blissful Dog Rich Bitch & Drama Queen Shampoo for Diva Dogs](https://theblissfulpets.com/products/drama-queen-shampoo-soap): Rich Bitch & Drama Queen Shampoo & Soap has moisturizing botanicals that infuse the coat with brilliance. Drama Queen label for PG bathing. FREE Shipping USA
-  Updated: 2025-09-08T11:33:37Z
+  Updated: 2025-10-05T02:11:59Z
   Vendor: The Blissful Dog
   Product Type: SHAMPOO
   Availability: Available
@@ -364,7 +364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBB-DQ-SOAP-IN-BOX-2025.jpg?v=1742486978
     Price: $12.95 USD
 - [The Blissful Dog® Bye Bye Bug® Butter Blissfully Banishes Biting Bugs!](https://theblissfulpets.com/products/bye-bye-bug-butter): The Blissful Dog® Bye Bye Bug® Butter provides relief from those nasty biting bugs that plague our dogs…naturally! All-natural balm is available in tins & tubes.
-  Updated: 2025-06-07T23:46:09Z
+  Updated: 2025-10-05T11:30:31Z
   Vendor: The Blissful Dog
   Product Type: BUG OFF BUTTER
   Availability: Available
@@ -402,7 +402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BUG-2.25OZ-2024.jpg?v=1713368841
     Price: $18.95 USD
 - [The Blissful Dog Age Well Senior Dog Aromatherapy Ease Stress of Aging](https://theblissfulpets.com/products/3-old-friends-age-well-dog-aromatherapy): Age Well Senior Dog Aromatherapy helps your dog age more peacefully. Our supportive blend of essential oils supports your dog's aging cognitive function.
-  Updated: 2025-07-27T23:58:51Z
+  Updated: 2025-10-05T15:05:56Z
   Vendor: The Blissful Dog
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -542,7 +542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBB-SOAP-IN-BOX-2025.jpg?v=1742486784
     Price: $12.95 USD
 - [Bye Bye Boo Boo® Natural Herbal Dog Spray for Itchy Dogs](https://theblissfulpets.com/products/bye-bye-boo-boo-dog-spray): Bye Bye Boo Boo® natural, herbal dog spray helps relieve your dog's itchiness and break the itch, scratch, repeat cycle. In 4, 8, 16 oz bottles & gallons.
-  Updated: 2025-07-29T05:50:15Z
+  Updated: 2025-10-05T21:24:11Z
   Vendor: The Blissful Dog
   Product Type: BBBB SPRAY
   Availability: Available
@@ -564,7 +564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BB-SPRAY-GALLON-2024.jpg?v=1713888724
     Price: $72.95 USD
 - [The Blissful Dog Spray Conditioner Leave-in De-Tangling, Dematt +Shine](https://theblissfulpets.com/products/shine-on-sheen-coat-spray): Blissful Dog Shine-On+Sheen leave-in, dog spray conditioner de-tangles, de-matts, adds shine and polish.  Refreshes, dematts, adds shine to any dog coat.
-  Updated: 2025-09-08T11:30:18Z
+  Updated: 2025-10-05T08:54:56Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SPRAY
   Availability: Available
@@ -608,7 +608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-EAR-GALLON-2024.jpg?v=1712683474
     Price: $72.95 USD
 - [Is Your Dog Afraid of Thunder? Relax Aromatherapy Helps Dog Anxiety](https://theblissfulpets.com/products/three-cute-puppies-relax-dog-aromatherapy): Thunder, fireworks & being alone are the top three fear triggers for dogs. Relax Dog Aromatherapy eases their dog anxiety with our calming essential oil blend.
-  Updated: 2025-08-11T14:30:07Z
+  Updated: 2025-10-05T21:07:05Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -664,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/1-BB-2.25OZ-2024_14089dc4-efc1-4ef0-8a02-c66d41477c22.jpg?v=1711044938
     Price: $18.95 USD
 - [Bye Bye Bug® Dog Soap | Bug All Natural Repellent Bar Soap for Dogs](https://theblissfulpets.com/products/bug-off-bar-soap): Keep biting bugs away from your dog with Bye Bye Bug® Dog Soap. Our bug-repellent bar soap is made with all-natural ingredients that are safe for your dog & you!
-  Updated: 2025-07-28T16:55:12Z
+  Updated: 2025-10-04T20:22:28Z
   Vendor: The Blissful Dog
   Product Type: BUG OFF SOAP
   Availability: Available
@@ -807,7 +807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-FFW-GALLON-2024.jpg?v=1711386548
     Price: $72.95 USD
 - [The Blissful Cat Body & Bounce Cat Shampoo for Volume, Volume, Volume!](https://theblissfulpets.com/products/body-bounce-cat-shampoo): Body & Bounce Cat Shampoo plumps up coat that craves volume, adds oomph and clarifies it for the next stage of grooming. Nice!
-  Updated: 2025-07-29T19:16:47Z
+  Updated: 2025-10-05T13:10:15Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -873,7 +873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-BF-GALLON-2024.jpg?v=1711136844
     Price: $72.95 USD
 - [NO H20 Cat Spray Shampoo for No Stress Cat Bathing | Blissful Cat](https://theblissfulpets.com/products/no-h20-spray-shampoo): The Blissful Cat | NO H20 Cat Spray Shampoo Saves Time & Stress NO H20 Spray Cat Shampoo Clean & Refreshes Your Cat In Minutes.
-  Updated: 2025-08-07T14:25:11Z
+  Updated: 2025-10-05T01:25:47Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -917,7 +917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-NOSE-50OZ-2024.jpg?v=1711135794
     Price: $10.95 USD
 - [Flawless Finish Cat Coat Conditioner Ends Your Cat Bath Perfectly](https://theblissfulpets.com/products/flawless-finish-coat-conditioner): The Blissful Cat Flawless Finish Cat Coat Conditioner works in synergy with any of our shampoos to smooth and infuse your cat's coat with moisture.
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-05T08:40:07Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -957,7 +957,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-RELAX-DUO-2024.jpg?v=1711983435
     Price: $22.95 USD
 - [Gentle Touch Cat Shampoo For Kittens, Seniors and Sensitive Cats](https://theblissfulpets.com/products/gentle-touch-cat-shampoo): The Blissful Cat Gentle Touch Shampoo for Kittens, Senior Cats and Cats With More Sensitive Skin.
-  Updated: 2025-09-16T14:09:31Z
+  Updated: 2025-10-05T06:57:29Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -1027,7 +1027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-DQ-GALLON-2024.jpg?v=1711385843
     Price: $72.95 USD
 - [The Blissful Cat Shine-On + Sheen Cat Coat Spray De-Tangler & Polish](https://theblissfulpets.com/products/shine-on-sheen-cat-coat-spray): Shine-On + Sheen! Cat Coat Spray De-Tangler Every coat type from the sleekest of Bengals to abundantly coated Persians benefits from SHINE ON + SHEEN Spray.
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-05T09:51:37Z
   Vendor: The Blissful Cat
   Product Type: Grooming
   Availability: Available
@@ -1049,7 +1049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-SOS-GALLON-2024.jpg?v=1711387691
     Price: $72.95 USD
 - [Blissful Cat® Bye Bye Boo Boo® Cat Shampoo Soothes Your Sensitive Cat](https://theblissfulpets.com/products/bye-bye-boo-boo-cat-shampoo): Bye Bye Boo Boo® Cat Shampoo offers Soothing Relief for Your itchy Cat; itchy, sensitive skin, eczema, ringworm, yeasty seborrhea & minor skin irritations.
-  Updated: 2025-08-07T14:25:12Z
+  Updated: 2025-10-05T13:05:36Z
   Vendor: The Blissful Cat
   Product Type: Shampoo
   Availability: Available
@@ -1093,7 +1093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-BBS-GALLON-2024.jpg?v=1711571347
     Price: $72.95 USD
 - [Simply Clean Cat Ear Cleaner for Your Cat's Stinky, Dirty Ears](https://theblissfulpets.com/products/simply-clean-ear-cleaner): The Blissful Cat Simply Clean Cat Ear Cleaner does just that...simply cleans cat ears. Boom. Done.  Time for Simply Clean Cat Ear Cleaner!
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-04T22:55:11Z
   Vendor: The Blissful Cat
   Product Type: Grooming
   Availability: Available
@@ -1115,7 +1115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-EAR-GALLON-2024.jpg?v=1714671685
     Price: $72.95 USD
 - [All Natural Cat Boo Boo Butter for Minor Skin Issues | Blissful Cat](https://theblissfulpets.com/products/boo-boo-butter): Cat Boo Boo Butter soothes your cat's minor skin issues. Boo Boo Butter is great when your cat needs extra attention, but is not a pearl clutching emergency.
-  Updated: 2025-09-03T10:24:02Z
+  Updated: 2025-10-05T01:57:02Z
   Vendor: The Blissful Cat
   Product Type: APOTHECARY
   Availability: Available
@@ -1137,7 +1137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-BB-50OZ-2024.jpg?v=1711477166
     Price: $11.95 USD
 - [The Blissful Horses Shine-On+Sheen De-Tangler, Mane and Tail Spray](https://theblissfulpets.com/products/the-blissful-horses-shine-on-sheen-detangler-polish): The Blissful Horses Shine-On+Sheen Mane and Tail Spray For Every horse from the sleekest of Arabian to the abundantly coated Gypsy Vanner benefits from SHINE-ON
-  Updated: 2025-07-21T13:23:35Z
+  Updated: 2025-10-05T05:52:27Z
   Vendor: The Blissful Horses
   Product Type: GROOMING
   Availability: Available
@@ -1173,7 +1173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-BB-SPRAY-GALLON-2024.jpg?v=1712006232
     Price: $72.95 USD
 - [Bye Bye Boo Boo® Horse Shampoo Soothes Your Horse's Itchy Skin](https://theblissfulpets.com/products/bye-bye-boo-boo-horse-shampoo): The Blissful Horse® Bye Bye Boo Boo® Horse Shampoo is an ideal general shampoo, especially for horses prone to dry, itchy skin. Use as needed to stop the itch.
-  Updated: 2025-07-29T01:48:51Z
+  Updated: 2025-10-05T08:54:08Z
   Vendor: The Blissful Horses
   Product Type: SHAMPOO | SOAP
   Availability: Available
@@ -1291,7 +1291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-SC-TIN-2024.jpg?v=1711999666
     Price: $65.95 USD
 - [The Blissful Horses Focus Aromatherapy Corrals Your Horses Attention](https://theblissfulpets.com/products/focus-aromatherapy): The Blissful Horses Focus Horse Aromatherapy amps up your horses Attention. All natural essential oil blend & handcrafted in far northern Minnesota.
-  Updated: 2025-07-28T23:50:27Z
+  Updated: 2025-10-05T11:41:30Z
   Vendor: The Blissful Horses
   Product Type: AROMATHERAPY
   Availability: Available
@@ -1309,7 +1309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-FOCUS-BOTH-2024_4eeb79a9-b7e3-4bbd-a774-3c6aedc27f06.jpg?v=1713903657
     Price: $22.95 USD
 - [The Blissful Horses Age Well Aromatherapy Supports Your Senior Horse](https://theblissfulpets.com/products/age-well-aromatherapy): The Blissful Horses Age Well Aromatherapy Supports Your Senior Horse As They Age Essential oil blend helps your horse stay present and peaceful...naturally.
-  Updated: 2025-07-28T08:01:19Z
+  Updated: 2025-10-05T11:19:22Z
   Vendor: The Blissful Horses
   Product Type: AROMATHERAPY
   Availability: Available
@@ -1327,7 +1327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/AGEWELL_MOUNTAINS_HORSE.jpg?v=1711129663
     Price: $22.95 USD
 - [The Blissful Horses Relax Horse Aromatherapy Calms Spooked Horses](https://theblissfulpets.com/products/relax-aromatherapy): The Blissful Horses calming, safe blend of essential oils takes the edge off stress, fear and anxiety for your horse…naturally!
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-05T00:11:52Z
   Vendor: The Blissful Horses
   Product Type: AROMATHERAPY
   Availability: Available
@@ -1349,7 +1349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-RELAX-16OZ-2024.jpg?v=1712676555
     Price: $33.95 USD
 - [The Blissful Horses Hoof Butter Nourishes Rough, Dry Hooves](https://theblissfulpets.com/products/hoof-butter): The Blissful Horses Hoof Butter All natural, handcrafted all-purpose hoof care balm. Indulge your horse with this rich herbal balm. Made in the uSA.
-  Updated: 2025-08-11T16:22:45Z
+  Updated: 2025-10-05T13:34:43Z
   Vendor: The Blissful Horses
   Product Type: HOOF BUTTER
   Availability: Available
@@ -1397,7 +1397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-VV-GALLON-2024.jpg?v=1711388005
     Price: $72.95 USD
 - [Blissful Cat® Blissful Paw® Butter Good Stuff for Dry Paw Pads](https://theblissfulpets.com/products/blissful-paw-butter): Blissful Cat® Blissful Paw® ButterR provides layers of moisturizing support for your cat's paw pads…naturally! In 4 sizes of tins & tubes.
-  Updated: 2025-08-11T16:33:27Z
+  Updated: 2025-10-05T16:21:37Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -1437,7 +1437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-RD-GALLON-2024.jpg?v=1711990679
     Price: $72.95 USD
 - [The Blissful Horse® Visibly Vibrant Color Enhancing Horse Shampoo](https://theblissfulpets.com/products/visibly-vibrant-horse-shampoo): Visibly Vibrant color enhancing horse shampoo brightens and revitalizes your horses coat.
-  Updated: 2025-07-27T20:51:58Z
+  Updated: 2025-10-05T20:59:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SHAMPOO
   Availability: Available
@@ -1455,7 +1455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-VV-GALLON-2024.jpg?v=1711990980
     Price: $72.95 USD
 - [Bye Bye Boo Boo® Butter for Your Horses Minor Skin Irritations](https://theblissfulpets.com/products/bye-bye-boo-boo®-butter-skin-care-for-your-horse): Bye Bye Boo Boo® Butter Handcrafted, all natural herbal balm for horse skin irritations; bug bites, abrasions, rashes, crusty ears, ringworm, rainrot and more + Free Shipping USA
-  Updated: 2025-07-28T05:19:15Z
+  Updated: 2025-10-04T22:00:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -1481,7 +1481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-BBBUTTER-TIN-2024.jpg?v=1712003725
     Price: $65.95 USD
 - [Blissful Butter Bundle for Dogs](https://theblissfulpets.com/products/blissful-butter-bundle): Here's your chance to try all of our Blissful Butters - Nose, Paw, Elbow & Boo Boo Butter in one convenient bundle.
-  Updated: 2025-07-27T23:29:30Z
+  Updated: 2025-10-04T21:44:38Z
   Vendor: The Blissful Pets
   Product Type: 
   Availability: Available
@@ -1499,7 +1499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BUNDLE-BUTTER-LARGE-2024.jpg?v=1713888879
     Price: $52.95 USD
 - [Blissful Butter Bundle for Cats](https://theblissfulpets.com/products/cat-blissful-butter-bundle): Here's your chance to try all of our Blissful Butters - Nose, Paw, Elbow & Boo Boo Butter in one convenient bundle.
-  Updated: 2025-08-03T14:10:03Z
+  Updated: 2025-10-05T21:35:45Z
   Vendor: The Blissful Pets
   Product Type: 
   Availability: Available
@@ -1535,14 +1535,14 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BUNDLE-BUTTER-LARGE-2024_dded1d59-6571-4cce-9d78-d31d59d45269.jpg?v=1713889053
     Price: $52.95 USD
 - [The Blissful Horse® - Bye Bye Boo Boo® Hello Bliss Combo Kit](https://theblissfulpets.com/products/bye-bye-boo-boo®-hello-bliss-combo-kit-for-horses): The Blissful Horse® Bye Bye Boo Boo® Say Good-Bye to Itchy Annoyances! Good-Bye to Vexing Skin Frustrations with our 3-Step Plan for your horse's comfort
-  Updated: 2025-08-06T23:55:09Z
+  Updated: 2025-10-05T09:22:28Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BBBB SHAMPOO COMBO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBKIT-MAIN2.jpg?v=1713888169
   Price: $39.95 USD
 - [The Blissful Dog Itchy Skin - Bye Bye Boo Boo™ Hello Bliss Combo Kit](https://theblissfulpets.com/products/bye-bye-boo-boo®-hello-bliss-combo-kit-for-cats): The Blissful Dog Itchy Skin Bye Bye Boo Boo™ Say Good-Bye to Itchy Annoyances! Good-Bye to Vexing Skin Frustrations with our 3-Step Plan for your dog's comfort
-  Updated: 2025-07-25T22:57:20Z
+  Updated: 2025-10-05T13:49:55Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BBBB SHAMPOO COMBO
   Availability: Available
@@ -1580,13 +1580,13 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-09-29T11:17:57Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-10-01T11:20:57Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-10-01T11:20:57Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-09-29T11:17:57Z
@@ -1595,7 +1595,7 @@
   Updated: 2025-09-18T11:19:34Z
   Total Products: 4
 - [Cat Moisturizing Butters](https://theblissfulpets.com/collections/cat-moisturizing-butters)
-  Updated: 2025-09-28T11:26:40Z
+  Updated: 2025-10-07T11:19:48Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
   Updated: 2025-10-04T11:19:30Z
@@ -1613,28 +1613,28 @@
   Updated: 2025-07-31T01:55:16Z
   Total Products: 3
 - [Equine Insect Control](https://theblissfulpets.com/collections/equine-insect-control)
-  Updated: 2025-09-18T11:19:34Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 3
 - [Equine Sensitive Skin](https://theblissfulpets.com/collections/equine-sensitive-skin)
   Updated: 2025-09-05T11:19:00Z
   Total Products: 4
 - [Cat Sensitive Skin](https://theblissfulpets.com/collections/cat-sensitive-skin)
-  Updated: 2025-10-03T11:20:32Z
+  Updated: 2025-10-07T11:19:48Z
   Total Products: 5
 - [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse)
-  Updated: 2025-10-04T11:19:30Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-10-04T11:19:30Z
+  Updated: 2025-10-07T11:19:48Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-09-23T11:17:18Z
   Total Products: 3
 - [Blissful Bundles](https://theblissfulpets.com/collections/blissful-bundles)
-  Updated: 2025-09-21T11:19:34Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 14
 - [Holiday Combos](https://theblissfulpets.com/collections/holiday-combos)
-  Updated: 2025-09-21T11:19:34Z
+  Updated: 2025-10-06T11:17:39Z
   Total Products: 12
 
 ## Blogs
