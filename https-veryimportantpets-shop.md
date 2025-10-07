@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-07T08:01:16.459Z
+- Updated At: 2025-10-07T12:01:16.060Z
 
 ## Products
 
@@ -265,7 +265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/tastybone-nylon-bone-bacon-multi-sizes-chewing-toy-large-254503.png?v=1708687056
     Price: £9.62 GBP
 - [TastyBone Nylon Bone Chicken | Multi Sizes](https://veryimportantpets.shop/products/tasty-bone-chicken): Our Super Tough range is made from 100% virgin nylon, guaranteed to last. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:28Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: TastyBone
   Product Type: Chewing Toy
   Availability: Available
@@ -712,7 +712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-airdog-squeaker-bone-dog-toy-fetch-dog-toys-medium-573206.jpg?v=1700653433
     Price: £9.13 GBP
 - [KONG AirDog Squeaker Dumbbell Dog Toy](https://veryimportantpets.shop/products/kong-air-squeaker-dumbbell): Kong AirDog Squeaker Dumbbell combines two classic dog toys - the tennis ball and the squeaker toy - in an instantly recognizable shape to create the perfect fetch toy. Shop online at Very Important Pets
-  Updated: 2025-10-05T17:28:22Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Kong
   Product Type: Fetch Dog Toys
   Availability: Available
@@ -942,7 +942,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-eon-paw-dog-toy-fetch-dog-toys-517783.png?v=1700653073
   Price: £9.13 GBP
 - [KONG Extreme Dog Toy](https://veryimportantpets.shop/products/kong-extreme): The KONG Extreme dog toy represents the most durable strength of KONG rubber. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:20Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Kong
   Product Type: Fetch Dog Toys
   Availability: Available
@@ -1311,7 +1311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-wavz-bunji-ball-dog-toy-fetch-dog-toys-large-928640.jpg?v=1700652575
     Price: £3.30 GBP
 - [KONG Wild Knots Bear Dog Toy](https://veryimportantpets.shop/products/kong-wildknot-bears): KONG Wild Knots are soft and cuddly on the outside while durable and strong on the inside. Shop online at Very Important Pets
-  Updated: 2025-10-02T17:28:16Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Kong
   Product Type: Soft Dog Toys
   Availability: Available
@@ -4763,7 +4763,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/alpha-grain-free-with-chicken-potato-veg-dry-adult-dog-food-15-kg-working-dry-831162.jpg?v=1730373947
   Price: £36.39 GBP
 - [Alpha Sensitive Working Dog Food - Chicken & Rice Flavour](https://veryimportantpets.shop/products/alpha-sensitive-chicken-rice): Alpha Sensitive Working Dry Dog Food is hypoallergenic, wheat gluten-free, with chicken and rice for optimal digestion. Contains essential omega 3 oils.
-  Updated: 2025-10-06T13:28:20Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Alpha
   Product Type: Working Dry
   Availability: Available
@@ -5272,7 +5272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bakers-small-dog-beef-veg-adult-dry-10-kg-374717.jpg?v=1735288804
     Price: £24.60 GBP
 - [Bakers Complete Small Dog Dry Food with Chicken & Veg](https://veryimportantpets.shop/products/bakers-small-dog-chicken-veg): Give your small dog a balanced and delicious meal with Bakers Small Dog Dry Food Chicken. Packed with protein, vitamins, and superfoods for optimal health.
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Bakers
   Product Type: Adult Dry
   Availability: Available
@@ -5307,7 +5307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-adult-chicken-adult-dry-2-kg-509372.png?v=1706812181
     Price: £37.59 GBP
 - [BETA Adult Large Breed Turkey 14 kg](https://veryimportantpets.shop/products/beta-adult-large-breed-turkey-14-kg): Beta Adult Large Breed with Turkey has been designed to suit the nutritional requirements of large breed dogs that continue to live an active lifestyle. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:15Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
@@ -5328,7 +5328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-adult-light-turkey-diet-dry-2-kg-330939.png?v=1706812184
     Price: £42.38 GBP
 - [BETA Adult Sensitive Salmon & Rice Dry Dog Food](https://veryimportantpets.shop/products/beta-adult-sensitive-salmon-rice): Purina BETA Sensitive with Salmon and Rice, formulated for dogs with food sensitivities. High-quality protein and Omega 3 & 6 for digestion and skin health.
-  Updated: 2025-10-06T09:28:24Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: PURINA BETA
   Product Type: Sensitive Dry
   Availability: Available
@@ -5342,14 +5342,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-sensitive-salmon-dry-adult-dog-food-sensitive-dry-14-kg-570168.jpg?v=1729300771
     Price: £42.38 GBP
 - [PURINA BETA Adult Small Breed Chicken Dry Dog Food - 2kg Bag](https://veryimportantpets.shop/products/beta-adult-small-dog-chicken-2-kg): Beta Adult Small Breed with Chicken Dry Dog Food is packed with essential nutrients for active dogs. Supports muscle maintenance and healthy digestion.
-  Updated: 2025-10-06T13:28:13Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-adult-small-breed-chicken-dry-dog-food-2-kg-adult-dry-346871.png?v=1706812181
   Price: £9.56 GBP
 - [PURINA BETA Adult Turkey and Lamb Dry Dog Food 14kg](https://veryimportantpets.shop/products/beta-adult-turkey-lamb): Nourish your active dog with Beta Adult Turkey and Lamb Dry Dog Food. Packed with essential vitamins, minerals, and protein for healthy bones and muscles.
-  Updated: 2025-10-05T22:28:22Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: PURINA BETA
   Product Type: Adult Dry
   Availability: Available
@@ -5398,7 +5398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/beta-puppy-turkey-lamb-dry-dog-food-puppyjunior-dry-14-kg-867713.jpg?v=1741750875
   Price: £42.38 GBP
 - [Beta Senior Chicken Dry Dog Food for Active Golden Years](https://veryimportantpets.shop/products/beta-senior-chicken): Keep your senior dog active and curious with PURINA BETA Senior Dog Food. Formulated with Omega 3 and antioxidants for joint mobility and natural defences.
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-07T09:28:10Z
   Vendor: PURINA BETA
   Product Type: Senior Dry
   Availability: Available
@@ -5612,7 +5612,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-hypoallergenic-mixer-adult-senior-dog-food-2-kg-mixer-topper-dog-foods-825023.jpg?v=1719009029
   Price: £13.34 GBP
 - [Burns Original Chicken & Brown Rice Dry Dog Food](https://veryimportantpets.shop/products/burns-original-with-chicken): Burns Original Chicken & Brown Rice Dry Dog Food - A trusted choice for lifelong health and vitality. Simple ingredients for healthy skin, coat, and digestion.
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:10Z
   Vendor: Burns
   Product Type: Adult Dry
   Availability: Available
@@ -5648,7 +5648,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-original-fish-brown-rice-adult-senior-dog-food-adult-dry-12-kg-585583.jpg?v=1719009031
     Price: £58.95 GBP
 - [Burns Original Lamb & Brown Rice Dog Food for Lifelong Health](https://veryimportantpets.shop/products/burns-original-with-lamb): Give your dog the best nutrition with Burns Original Lamb & Brown Rice Dog Food. Packed with wholesome ingredients for lifelong health and vitality.
-  Updated: 2025-10-06T13:28:11Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Burns
   Product Type: Adult Dry
   Availability: Available
@@ -5822,7 +5822,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burns-sensitive-pork-potato-adult-senior-dog-food-sensitive-dry-12-kg-710026.jpg?v=1719009053
     Price: £58.99 GBP
 - [Burns Weight Control Chicken - Healthy Weight Management](https://veryimportantpets.shop/products/burns-weight-control-chicken): Burns Weight Control Chicken & Oats is ideal for overweight dogs, formulated by Veterinary Surgeon John Burns for healthy weight maintenance or loss.
-  Updated: 2025-10-06T13:28:16Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Burns
   Product Type: Diet Dry
   Availability: Available
@@ -5840,7 +5840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/001.-Hero-image-23.jpg?v=1718985366
     Price: £58.99 GBP
 - [Chappie Dry with Beef & Cereal](https://veryimportantpets.shop/products/chappie-dry-with-beef-cereal): Chappie Complete Adult Beef &amp; Cereal dry dog food developed with vets. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Chappie
   Product Type: Adult Dry
   Availability: Available
@@ -5854,7 +5854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chappie-dry-with-beef-cereal-adult-dry-3-kg-972236.jpg?v=1700659185
     Price: £12.62 GBP
 - [Chappie Dry with Chicken & Cereal](https://veryimportantpets.shop/products/chappie-dry-with-chicken-cereal): Chappie Complete Adult Chicken &amp; Cereal dry dog food developed with vets. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:12Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Chappie
   Product Type: Adult Dry
   Availability: Available
@@ -5889,7 +5889,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chudleys-lamb-sensitive-14-kg-working-dry-886329.jpg?v=1700658920
   Price: £34.60 GBP
 - [Chudleys Lite 14 kg](https://veryimportantpets.shop/products/chudleys-lite-14-kg): Chudleys Lite is a nutritionally complete reduced-calorie diet which is ideally suited to dogs that easily gain weight or have a tendency to be overweight. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Chudleys
   Product Type: Working Dry
   Availability: Available
@@ -6085,7 +6085,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-adult-large-breed-lamb-rice-dry-dog-food-adult-dry-12-kg-1380660.webp?v=1757298835
     Price: £49.25 GBP
 - [Eukanuba Adult Medium Breed Chicken Dry Dog Food](https://veryimportantpets.shop/products/eukanuba-adult-medium-breed-chicken): Eukanuba Adult Medium Breed Chicken dry food with L-Carnitine for weight control, prebiotic FOS for digestion, and benefits for skin and coat.
-  Updated: 2025-10-06T13:28:20Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Eukanuba
   Product Type: Adult Dry
   Availability: Available
@@ -6145,7 +6145,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-breed-specific-jack-russell-terrier-adult-dry-dog-food-4x2kg-adult-dry-797963.jpg?v=1728353037
   Price: £42.39 GBP
 - [Eukanuba Daily Care Dry Dog Food for Overweight Dogs](https://veryimportantpets.shop/products/eukanuba-d-care-overweight): Eukanuba Daily Care Dry Dog Food for Overweight and Sterilised Dogs helps reduce body fat, preserve muscle, support healthy weight management.
-  Updated: 2025-10-03T09:28:31Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Eukanuba
   Product Type: Diet Dry
   Availability: Available
@@ -6601,7 +6601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-adult-dog-grain-free-superfood-chicken-with-veg-sensitive-dry-12-kg-670147.png?v=1700654137
     Price: £34.97 GBP
 - [Harringtons Adult Dog Grain-Free Superfoods Salmon with Veg](https://veryimportantpets.shop/products/harringtons-dog-grain-free-superfood-salmon): Harringtons Superfoods Grain-Free Dry Dog Food is a hypoallergenic recipe with 6 superfoods and high meat Salmon for dogs with sensitive stomachs.
-  Updated: 2025-10-05T22:35:47Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Harringtons
   Product Type: Sensitive Dry
   Availability: Available
@@ -6636,7 +6636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/harringtons-just-6-chicken-dry-dog-food-adult-dry-4x2kg-478616.jpg?v=1727991995
     Price: £35.54 GBP
 - [Harringtons Dog Just 6 Lamb: Grain-Free Dry Dog Food](https://veryimportantpets.shop/products/harringtons-dog-just-6-lamb): Harringtons Dog Just 6 Lamb: Delicious grain-free dry dog food with over 50% lamb & salmon for taste, nutrition, and digestion. Hypoallergenic recipe.
-  Updated: 2025-10-06T20:38:05Z
+  Updated: 2025-10-07T09:27:59Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6664,7 +6664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/harringtons-just-6-salmon-dry-dog-food-adult-dry-4x2kg-351572.jpg?v=1727991994
     Price: £44.09 GBP
 - [Harringtons Adult Lamb and Rice Dog Food - Natural Goodness](https://veryimportantpets.shop/products/harringtons-dog-lamb-rice): Give your dog the best with Harringtons Adult Lamb and Rice Dog Food. Packed with freshly prepared meat, veggies, vitamins, and minerals for a healthy life.
-  Updated: 2025-10-06T17:28:11Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6696,7 +6696,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-adult-dog-large-breed-rich-in-turkey-rice-14-kg-adult-dry-266547.png?v=1707674929
   Price: £39.41 GBP
 - [Harringtons Salmon & Potato Adult Dry Dog Food](https://veryimportantpets.shop/products/harringtons-dog-salmon-potato): Harringtons Adult Salmon & Potato Dog Food: Tasty, nutritious recipe with fresh meat, veggies, vitamins, minerals. Rich in Salmon for energy & repair.
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6724,7 +6724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-senior-dog-food-rich-in-chicken-rice-senior-dry-12-kg-616304.png?v=1709123462
     Price: £31.47 GBP
 - [Harringtons Rich in Turkey & Veg Dry Dog Food](https://veryimportantpets.shop/products/harringtons-dog-turkey-veg): Harringtons Rich in Turkey with Veg is a premium complete dry dog food for dogs aged 8 weeks and over. Made with real meat and no artificial additives.
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6763,7 +6763,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-puppy-food-rich-in-salmon-rice-10kg-puppyjunior-dry-657206.png?v=1708950806
   Price: £29.32 GBP
 - [Harringtons Puppy Turkey & Rice](https://veryimportantpets.shop/products/harringtons-puppy-turkey-rice): Harringtons Puppy Rich in Turkey & Rice is a complete pet food for puppies from 3 weeks, with no artificial additives. Perfect for growing pups!
-  Updated: 2025-10-06T17:28:16Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Harringtons
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -6784,7 +6784,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-dry-small-breed-adult-dog-food-rich-in-lamb-rice-adult-dry-5x1kg-655109.png?v=1708950806
   Price: £20.33 GBP
 - [Harringtons Small Breed Dog Adult Turkey & Rice Food 5x 1kg](https://veryimportantpets.shop/products/harringtons-small-dog-turkey-5x1kg): Harringtons Small Breed Dog Adult Turkey & Rice. Tasty, nutritious recipe with fresh meat, veggies, vitamins, minerals. No nasties, just natural goodness.
-  Updated: 2025-10-02T13:28:07Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -6805,7 +6805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/iams-adult-dog-vitality-smallmedium-breed-lamb-adult-dry-12-kg-378475.png?v=1700653869
     Price: £34.47 GBP
 - [IAMS for Vitality Adult Small/Medium Breed Fresh Chicken Dry](https://veryimportantpets.shop/products/iams-dog-adult-vitality-small-medium-breed-chicken): IAMS for Vitality small and medium breed adult dog food is 100% complete and balanced expert nutrition to help support your dog’s 7 signs of healthy vitality. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:28:18Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: IAMS
   Product Type: Adult Dry
   Availability: Available
@@ -6868,7 +6868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/iams-puppy-vitality-smallmedium-breed-fresh-chicken-puppyjunior-dry-2x2kg-387905.jpg?v=1700653852
     Price: £14.48 GBP
 - [IAMS for Vitality Puppy Large Breed Fresh Chicken Dry Food](https://veryimportantpets.shop/products/iams-puppy-vitality-large-breed-chicken): IAMS for Vitality for large breed puppies is a 100% complete and balanced expert nutrition to help support your puppy’s 7 signs of healthy vitality including their growth and development.
-  Updated: 2025-10-03T09:28:08Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: IAMS
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -6917,7 +6917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-dog-adult-chicken-rice-adult-dry-15-kg-881763.jpg?v=1700653638
     Price: £57.99 GBP
 - [James Wellbeloved Dog Adult Duck & Rice](https://veryimportantpets.shop/products/james-wellbeloved-dog-adult-duck-rice): James Wellbeloved Duck &amp; Rice Adult Dog Food is a complete &amp; naturally hypoallergenic food that is suitable for all adult dogs. Shop online at Very Important Pets
-  Updated: 2025-10-05T17:35:57Z
+  Updated: 2025-10-07T09:35:49Z
   Vendor: James Wellbeloved
   Product Type: Adult Dry
   Availability: Available
@@ -7121,7 +7121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-dog-adult-turkey-rice-adult-dry-15-kg-234079.jpg?v=1700653565
     Price: £57.99 GBP
 - [James Wellbeloved Grain-Free Turkey & Veg Dry Adult Dog Food](https://veryimportantpets.shop/products/james-wellbeloved-dog-adult-turkey-veg-grain-free): Keep your adult dog healthy and happy with James Wellbeloved Grain-Free Turkey & Vegetable Dry Dog Food. High-quality ingredients for optimal nutrition.
-  Updated: 2025-10-06T09:35:47Z
+  Updated: 2025-10-07T09:35:48Z
   Vendor: James Wellbeloved
   Product Type: Adult Dry
   Availability: Available
@@ -7414,7 +7414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-adult-dog-grain-free-dry-turkey-and-potato-with-vegetables-adult-dry-10-kg-407504.jpg?v=1715371790
     Price: £44.53 GBP
 - [Naturo Senior Grain Free Turkey Dog Food - Joint Support & Easy Digestion](https://veryimportantpets.shop/products/naturo-senior-grain-free-turkey-potato-veg-4x2kg): Naturo Senior Grain Free Turkey with Potato & Vegetables Dry food: easy digestion, gentle on Senior Dogs, supports joint flexibility & pain reduction.
-  Updated: 2025-10-02T12:28:14Z
+  Updated: 2025-10-07T08:20:27Z
   Vendor: Naturo
   Product Type: Senior Dry
   Availability: Available
@@ -7764,7 +7764,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-medium-ageing-10-3-kg-senior-dry-428092.jpg?v=1700649001
   Price: £25.12 GBP
 - [Royal Canin Medium Digestive Care](https://veryimportantpets.shop/products/royal-canin-medium-digestive-care): Royal Canin Medium Digestive Care is specially tailored to support the nutritional needs of medium-sized dogs with digestive sensitivities. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:28:22Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Royal Canin
   Product Type: Sensitive Dry
   Availability: Available
@@ -7778,7 +7778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-medium-digestive-care-sensitive-dry-3-kg-683254.jpg?v=1700648876
     Price: £27.97 GBP
 - [Royal Canin Medium Light Weight Care](https://veryimportantpets.shop/products/royal-canin-medium-light-weight-care): Royal Canin Medium Light Weight Care is formulated for dogs predisposed to weight gain to achieve and maintain an ideal bodyweight. Shop online at Very Important Pets
-  Updated: 2025-10-05T17:28:22Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Royal Canin
   Product Type: Diet Dry
   Availability: Available
@@ -7820,7 +7820,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-minature-schnauzer-3-kg-adult-dry-408613.jpg?v=1700648861
   Price: £30.21 GBP
 - [Royal Canin Mini Adult](https://veryimportantpets.shop/products/royal-canin-mini-adult): Royal Canin Mini Adult is a uniquely formulated food designed to meet the nutritional needs of smaller dogs that live an active lifestyle. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:28:26Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Royal Canin
   Product Type: Adult Dry
   Availability: Available
@@ -7997,7 +7997,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-x-small-puppy-15-kg-puppyjunior-dry-727196.jpg?v=1708686934
   Price: £18.00 GBP
 - [Royal Canin Yorkshire Terrier 1.5 kg](https://veryimportantpets.shop/products/royal-canin-yorkshire-terrier-1-5-kg): Royal Canin Yorkshire Terrier is a complete food designed to suit these lively little breeds &amp; the unique nutritional needs that the face on a day to day basis. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:54Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Royal Canin
   Product Type: Adult Dry
   Availability: Available
@@ -8123,7 +8123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-working-23-working-dry-25-kg-514383.png?v=1700648645
     Price: £9.23 GBP
 - [Skinners Field & Trial Working 26](https://veryimportantpets.shop/products/skinners-field-trial-working-26): Skinners Field &amp; Trial Working 26 (previously known as Crunchy) is a complete dog food specially developed and formulated to support dogs who are regularly working at a moderate to high activity intensity. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:36Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8165,7 +8165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-chicken-rice-working-dry-15-kg-590837.png?v=1700648710
     Price: £36.56 GBP
 - [Skinner's Grain-Free Salmon & Sweet Potato Dog Food](https://veryimportantpets.shop/products/skinners-field-trial-grain-free-salmon): Skinner's Field & Trial Grain-Free dog food promotes joint health and glossy coats for working dogs with grain sensitivities, made with salmon and sweet potato.
-  Updated: 2025-10-02T12:28:22Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8193,7 +8193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-light-senior-working-dry-15-kg-664646.png?v=1700648687
     Price: £39.33 GBP
 - [Skinners Field & Trial Puppy Chicken](https://veryimportantpets.shop/products/skinners-field-trial-puppy-chicken): Skinners Field &amp; Trial Puppy Chicken is a complete dog food specially developed and formulated to support the early growth and development of puppies. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:35:57Z
+  Updated: 2025-10-07T09:35:46Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8203,7 +8203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-puppy-chicken-working-dry-25-kg-238273.png?v=1700648669
     Price: £11.35 GBP
   - [15 kg](https://veryimportantpets.shop/products/skinners-field-trial-puppy-chicken?variant=47147568791842)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-puppy-chicken-working-dry-15-kg-305522.png?v=1700648669
     Price: £39.99 GBP
 - [Skinners Field & Trial Puppy Duck](https://veryimportantpets.shop/products/skinners-field-trial-puppy-duck): Skinners Field &amp; Trial Puppy &amp; Junior Duck &amp; Rice is brilliant all-round nutrition for puppies and young working dogs with a balance of essential nutrients to support their growth and development from weaning to adulthood. Shop online at Very Important Pets
@@ -8221,7 +8221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-puppy-duck-working-dry-15-kg-714985.png?v=1700648664
     Price: £55.45 GBP
 - [Skinners Field & Trial Puppy Lamb](https://veryimportantpets.shop/products/skinners-field-trial-puppy-lamb): Skinners Field &amp; Trial Puppy Lamb &amp; Rice. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8249,7 +8249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/skinners-field-trial-salmon-rice-working-dry-25-kg-278950.png?v=1700648654
     Price: £12.09 GBP
 - [Skinners Field & Trial Turkey & Rice](https://veryimportantpets.shop/products/skinners-field-trial-turkey-rice): Skinners Field &amp; Trial Turkey &amp; Rice  is a complete dog food specially developed and formulated to support active dogs who are regularly working at a moderate activity intensity and who might benefit from additional nutrients to support joint health. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:31Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Skinners
   Product Type: Working Dry
   Availability: Available
@@ -8326,7 +8326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/sneyds-wonderdog-special-15-kg-working-dry-181837.png?v=1700648399
   Price: £32.95 GBP
 - [VetSpec Calm & Focused Dry Dog Food for Anxiety & Training](https://veryimportantpets.shop/products/vetspec-complete-dog-calm-focused): VetSpec Calm & Focused Formula Dry Dog Food: A cereal-grain-free, super-premium blend for anxious or over-excited dogs, aiding focus and obedience.
-  Updated: 2025-10-06T17:35:59Z
+  Updated: 2025-10-07T09:35:48Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -8354,7 +8354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vetspec-healthy-dog-adult-formula-with-chicken-dry-dog-food-adult-dry-2-kg-893504.jpg?v=1731606869
     Price: £17.44 GBP
 - [VetSpec Healthy Dog Adult Salmon Formula Premium Grain-Free](https://veryimportantpets.shop/products/vetspec-complete-dog-healthy-adult-salmon): VetSpec Healthy Dog Adult Salmon Formula: 55% salmon, grain-free, enriched with Omega-3 for healthy joints. Ideal for dogs who prefer salmon over chicken.
-  Updated: 2025-10-02T12:28:28Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -8368,7 +8368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetspec-complete-dog-healthy-adult-salmon-adult-dry-2-kg-769576.png?v=1723823480
     Price: £18.45 GBP
 - [VetSpec Omega-3 Joint Mobility Formula Adult Dry Dog Food](https://veryimportantpets.shop/products/vetspec-complete-dog-joint-mobility): VetSpec Omega-3 Joint Mobility Formula - super-premium, cereal-grain-free formula rich in DHA, EPA, glucosamine, and chondroitin. Ideal for joint health.
-  Updated: 2025-10-02T12:28:26Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: VetSpec
   Product Type: Adult Dry
   Availability: Available
@@ -8557,7 +8557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-meaty-goodness-chicken-veg-adult-dry-4x2kg-316564.jpg?v=1700646727
     Price: £17.32 GBP
 - [Wagg Puppy Complete](https://veryimportantpets.shop/products/wagg-puppy-complete): Wagg Complete Puppy Food that has been formulated to give puppies the best start in life. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:28:28Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Wagg
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -8606,7 +8606,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/alpha-working-maintenance-with-beef-dry-adult-dry-dog-food-15-kg-working-dry-5202619.jpg?v=1759435428
   Price: £21.79 GBP
 - [Adventuros Wild Boar Nuggets 6x90g](https://veryimportantpets.shop/products/adventuros-wild-boar-nuggets-6x90g): Adventurous Nuggets Dog Treats are a deliciously meaty snack that comes in a resealable pack to maintain the freshness of the boar flavoured treat. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:35:58Z
+  Updated: 2025-10-07T09:35:48Z
   Vendor: Adventuros
   Product Type: Dog Treats
   Availability: Available
@@ -8648,7 +8648,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/adventuros-wild-venison-strips-6x90g-natural-treats-833273.jpg?v=1701107506
   Price: £8.82 GBP
 - [Highland Antler Dog Chews - Natural & Long-Lasting](https://veryimportantpets.shop/products/highland-antler-dog-chews): Shop Highland Antler Chews, the perfect natural dog chew. Rich in minerals, safe, non-splintering, odour-free, and sustainably sourced from Scottish highlands.
-  Updated: 2025-10-06T17:28:17Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Nova Dog Chews
   Product Type: Natural Treats
   Availability: Available
@@ -8735,7 +8735,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/arden-grange-dog-crunchy-bites-duck-225-g-hypoallergenic-treats-607306.jpg?v=1701107580
   Price: £5.70 GBP
 - [Arden Grange Crunchy Lamb Bites for Training and Rewards](https://veryimportantpets.shop/products/arden-grange-dog-crunchy-bites-lamb-225-g): Arden Grange Crunchy Bites with fresh lamb are the perfect training reward, packed with nutritious ingredients for joint support and immune boosting.
-  Updated: 2025-10-06T13:28:15Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Arden Grange
   Product Type: Hypoallergenic Treats
   Availability: Available
@@ -8749,7 +8749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/arden-grange-crunchy-bites-light-dog-treats-hypoallergenic-treats-658950.jpg?v=1733184740
   Price: £6.00 GBP
 - [Arden Grange Salmon Crunchy Bites for Healthy Joint and Skin](https://veryimportantpets.shop/products/arden-grange-dog-crunchy-bites-salmon-225-g): Arden Grange Crunchy Bites with fresh salmon are a nutritious treat perfect for training. Packed with antioxidants and joint support.
-  Updated: 2025-10-06T13:28:11Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Arden Grange
   Product Type: Hypoallergenic Treats
   Availability: Available
@@ -8817,13 +8817,6 @@
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-dental-delicious-medium-dog-chicken-dog-chews-6-x-pack-dental-chew-treats-920433.webp?v=1735329318
-  Price: £11.03 GBP
-- [Bakers Medium Dog Chicken Joint Support Chews (6 Pack)](https://veryimportantpets.shop/products/bakers-joint-delicious-chicken-medium-dogs-6x180g): Support joint mobility for medium-size adult dogs with Bakers Joint Delicious Medium Dog Chicken Chews. Real chicken, glucosamine & vitamins for healthy joints.
-  Updated: 2025-10-06T17:35:57Z
-  Vendor: Bakers
-  Product Type: Dog Treats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bakers-joint-delicious-medium-dog-chicken-dog-chews-6-pack-dog-treats-617246.jpg?v=1735329321
   Price: £11.03 GBP
 - [Bakers Rewards Variety Dog Training Treats - Meaty 8 Pack](https://veryimportantpets.shop/products/bakers-rewards-variety-training-treats-8x100g): Reward your adult dog with Bakers Rewards Variety Dog Training Treats! Bursting with meaty flavours, fortified with omega 3 and 6, vitamins, and antioxidants.
   Updated: 2025-10-02T18:55:01Z
@@ -8921,7 +8914,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bow-wow-goose-liver-sausage-dog-treats-12x150g-dog-treats-888140.jpg?v=1701107665
   Price: £20.26 GBP
 - [Bow Wow Meaty Jumbos Chicken Dog Treats for Clean Teeth](https://veryimportantpets.shop/products/bow-wow-meaty-jumbo-chicken-dog-treats): Bow Wow Meaty Jumbos Chicken Dog Treats keep teeth clean with chew-friendly tubes enriched with yucca, inulin, and joint-supporting nutrients.
-  Updated: 2025-09-22T18:52:25Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Bow Wow
   Product Type: Dog Treats
   Availability: Available
@@ -8956,7 +8949,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bow-wow-pudding-sticks-insect-collagen-bacon-flavour-dog-treats-2372999.png?v=1754742952
   Price: £12.31 GBP
 - [Bow Wow Pudding Sticks Beef & Collagen Dog Treats](https://veryimportantpets.shop/products/bow-wow-pudding-sticks-beef-6x170g): Bow Wow Pudding Sticks Beef & Collagen Dog Treats are a top-quality reward infused with rosehip and cranberries for joint health and immune support.
-  Updated: 2025-09-24T13:28:25Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Bow Wow
   Product Type: Dog Treats
   Availability: Available
@@ -8970,7 +8963,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bow-wow-pudding-sticks-tripe-collagen-caramel-flavour-dog-treats-dog-treats-8765781.png?v=1754742950
   Price: £12.31 GBP
 - [Bow Wow Poultry & Collagen Pudding Sticks Treats with Yucca](https://veryimportantpets.shop/products/bow-wow-pudding-sticks-poultry-6x170g): Bow Wow Pudding Sticks: Delicious dog treats with poultry, collagen, and Yucca for joint health and digestion. High collagen levels for top-quality nutrition.
-  Updated: 2025-10-05T17:28:17Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Bow Wow
   Product Type: Dog Treats
   Availability: Available
@@ -8991,7 +8984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/bow-wow-super-sausage-dog-treats-training-treats-2801459.png?v=1754742952
   Price: £65.98 GBP
 - [Bow Wow Yum Yums Dog Treats - Chicken, Smoked Meat, and Mint](https://veryimportantpets.shop/products/bow-wow-yum-yums-dog-treats-35x40g): Keep your medium to large dog's teeth clean and joints healthy with Bow Wow Yum Yums Dog Treats. Flavours include Chicken, Smoked Meat, and Mint.
-  Updated: 2025-10-02T12:28:22Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Bow Wow
   Product Type: Dog Treats
   Availability: Available
@@ -9142,7 +9135,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/chappie-tins-chicken-rice-4x-6x412g-sensitive-wet-963306.jpg?v=1701107687
   Price: £42.91 GBP
 - [Chappie Tins Loaf Favourites Jumbo Pack 4x (6x412g)](https://veryimportantpets.shop/products/chappie-tins-loaf-favourites-jumbo-pack-4x-6x412g): Chappie Complete Wet Dog Food is a 100% complete and balanced dog food developed with vets. Shop online at Very Important Pets
-  Updated: 2025-10-05T17:28:17Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Chappie
   Product Type: Adult Wet
   Availability: Available
@@ -9301,7 +9294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/classic-rawhide-shoes-colour-lace-50x25-dog-treats-145521.jpg?v=1701107819
   Price: £17.74 GBP
 - [Classic Rawhide Twists 100x13cm](https://veryimportantpets.shop/products/classic-rawhide-twists-100x13cm): Rawhide Twists from Classic provide a healthy long lasting natural treat that your dog will love. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Classic
   Product Type: Natural Treats
   Availability: Available
@@ -9441,7 +9434,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-complete-grain-free-lamb-with-butternut-squash-veg-18x395g-adult-wet-745903.jpg?v=1723918285
   Price: £29.49 GBP
 - [Forthglade Salmon Grain Free Adult Wet Dog Food 18x395g Pack](https://veryimportantpets.shop/products/forthglade-adult-complete-grain-free-salmon-18x395g): Give your dog the best with Forthglade Complete Grain Free Salmon Adult Dog Food. Packed with 75% salmon and veggies, it's gentle on sensitive tummies.
-  Updated: 2025-10-05T17:28:16Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Forthglade
   Product Type: Sensitive Wet
   Availability: Available
@@ -9532,7 +9525,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-adult-dog-complete-turkey-with-brown-rice-veg-trays-18x395g-adult-wet-606401.jpg?v=1723918415
   Price: £29.49 GBP
 - [Forthglade Just Beef Complementary Wet Dog Food - 18 Trays](https://veryimportantpets.shop/products/forthglade-adult-just-grain-free-beef-trays-18x395g): Forthglade Just Beef wet dog food: 90% beef, added minerals, grain-free, gentle steaming for sensitive stomachs. No artificial ingredients.
-  Updated: 2025-10-02T12:35:58Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Forthglade
   Product Type: Adult Wet
   Availability: Available
@@ -9581,14 +9574,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-soft-bites-calming-dog-treats-with-camomile-lavender-8-x-90g-sensitive-treats-4664432.jpg?v=1757298512
   Price: £16.14 GBP
 - [Forthglade Plant Based Dog Dental Stick Treat - 10 bags](https://veryimportantpets.shop/products/forthglade-dental-grain-free-sticks): Forthglade Grain-Free Dog Dental Sticks promote strong teeth and fresh breath. Crafted with natural ingredients, vet-developed for easy dental care.
-  Updated: 2025-10-01T09:28:01Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Forthglade
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-plant-based-dog-dental-sticks-10-bags-50-sticks-dental-chew-treats-6451570.jpg?v=1751836305
   Price: £20.64 GBP
 - [Forthglade Peppermint & Parsley Fresh Breath Dog Treats 8 pk](https://veryimportantpets.shop/products/forthglade-natural-soft-bites-fresh-breath-grain-free-peppermint-parsley-treats-8x90g): Start your dog's day with Forthglade Natural Soft Bites Fresh Bites - peppermint & parsley for fresh breath. Grain-free, no artificial colours/preservatives.
-  Updated: 2025-10-02T12:36:03Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Forthglade
   Product Type: Dental Chew Treats
   Availability: Available
@@ -9609,7 +9602,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-soft-bites-salmon-dog-treats-8-x-90g-sensitive-treats-9678389.jpg?v=1757439296
   Price: £15.66 GBP
 - [Forthglade Turkey Soft Bites Dog Treats - 8 x 90g Packs](https://veryimportantpets.shop/products/forthglade-natural-soft-bites-turkey-treats-8-x-90g): Forthglade Natural Soft Bites Turkey Dog Treats - hand-baked, grain-free, and made with only natural ingredients. Perfect for all dogs over 2 months old.
-  Updated: 2025-10-06T13:28:20Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Forthglade
   Product Type: Sensitive Treats
   Availability: Available
@@ -9623,7 +9616,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/forthglade-national-trust-chicken-duck-dog-treats-8-x-90g-natural-treats-2358627.jpg?v=1757298511
   Price: £20.03 GBP
 - [Forthglade National Trust Salmon & Herring Dog Treats 8 Pack](https://veryimportantpets.shop/products/forthglade-national-trust-soft-bites-salmon-herring-treats-8-x-90g): Reward your dog with Forthglade National Trust Soft Bites Salmon & Herring Dog Treats. Hand-baked, grain-free, and supporting preservation efforts.
-  Updated: 2025-09-30T21:10:22Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Forthglade
   Product Type: Natural Treats
   Availability: Available
@@ -9728,7 +9721,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/gelert-country-choice-variety-in-jelly-dog-food-tins-12x400g-working-wet-379613.jpg?v=1701108051
   Price: £11.99 GBP
 - [Gelert Country Choice Adult Dog Variety in Jelly Dog Food 6x1200g | Very Important Pets](https://veryimportantpets.shop/products/gelert-country-choice-adult-dog-variety-in-jelly-dog-food-6x1200g): Delicious Gelert Country Choice Adult Dog Variety in Jelly Dog Food, perfect for a nutritious and flavorful meal. 6x1200g.
-  Updated: 2025-09-22T18:52:51Z
+  Updated: 2025-10-07T09:28:10Z
   Vendor: Gelert
   Product Type: Working Wet
   Availability: Available
@@ -10061,7 +10054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-just-6-lamb-with-veg-gravy-complete-grain-free-wet-dog-food-8-x-380g-adult-wet-649436.jpg?v=1708950872
   Price: £17.43 GBP
 - [Harringtons Just 6 Complete Adult Dog Multipack Trays 16x380g](https://veryimportantpets.shop/products/harringtons-just-6-complete-adult-dog-multipack-trays-16x380g): Harringtons Dog Just 6 Wet Multipack features tasty, natural ingredients for a happy, healthy pup. High in meat or fish content for optimal nutrition.
-  Updated: 2025-10-02T13:28:12Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Harringtons
   Product Type: Adult Wet
   Availability: Available
@@ -10110,14 +10103,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-turkey-potato-dog-food-trays-8x400g-adult-wet-462478.jpg?v=1701108251
   Price: £14.12 GBP
 - [Harringtons Fresh Bakes Grain Free Turkey Low Fat Treats](https://veryimportantpets.shop/products/harringtons-fresh-bakes-grain-free-low-fat-treats-7-x-100g): Harringtons Fresh Bakes: human-grade ingredients gently baked for tastier, more digestible treats. Grain-free, suitable for all dogs from 8 weeks.
-  Updated: 2025-10-06T13:28:22Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Harringtons
   Product Type: Sensitive Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-fresh-bakes-grain-free-lean-turkey-low-fat-treats-7x100g-sensitive-treats-827862.jpg?v=1733407453
   Price: £10.99 GBP
 - [Harringtons Fresh Bakes Salmon Bites - Grain-Free Dog Treats](https://veryimportantpets.shop/products/harringtons-fresh-bakes-grain-free-salmon-roll-treats-8-x-100g): 8 pack of Harringtons Fresh Bakes Salmon Fish Bites: human-grade ingredients, gently baked for locked-in nutrition. Suitable for all dogs from 8 weeks old.
-  Updated: 2025-10-06T13:28:17Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Harringtons
   Product Type: Sensitive Treats
   Availability: Available
@@ -10131,7 +10124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/harringtons-fresh-bakes-grain-free-chicken-liver-training-treats-9x100g-sensitive-treats-177389.jpg?v=1741090700
   Price: £13.50 GBP
 - [Harringtons Puppy Complete Chicken Trays 8x380g](https://veryimportantpets.shop/products/harringtons-puppy-complete-chicken-trays-8x380g): Harringtons Wet Chicken Puppy Food. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:11Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Harringtons
   Product Type: Puppy/Junior Wet
   Availability: Available
@@ -10159,7 +10152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-chicken-feet-2-kg-natural-treats-318312.jpg?v=1741090709
   Price: £20.78 GBP
 - [100% Natural Cows Ears - High Protein Chews for Dogs](https://veryimportantpets.shop/products/hollings-cow-ears): Healthy, long-lasting chew for dogs. 100% natural Cows Ears are high in protein, cartilage, and Chondroitin. Grain-free with no additives.
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10180,7 +10173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/hollings-filled-bone-with-lamb-rice-20-bone-pack-natural-treats-468994.jpg?v=1737415721
   Price: £28.41 GBP
 - [Hollings Beef Filled Hoof Dog Treats 100% Natural 25 pk Box](https://veryimportantpets.shop/products/hollings-hooves-filled-loose-x25): Hollings Filled Hoof with Beef Dog Treats - 100% natural cow hoof filled with delicious beef. Promotes dental health and long-lasting chew.
-  Updated: 2025-10-02T22:27:50Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10194,7 +10187,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-hooves-plain-loose-x25-natural-treats-588153.jpg?v=1741090699
   Price: £14.21 GBP
 - [Hollings Puffed Jerky 8 x 100g Box](https://veryimportantpets.shop/products/hollings-puffed-jerky-8-x-100g-box): Hollings natural dog treats are loved by dogs and owners alike. Shop online at Very Important Pets
-  Updated: 2025-10-03T20:28:15Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -10296,7 +10289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hollings-tripe-sticks-25kg-25-kg-sensitive-treats-546616.jpg?v=1741090697
   Price: £35.36 GBP
 - [Hollings Tripe Sticks 5 x 500g](https://veryimportantpets.shop/products/hollings-tripe-sticks-5-x-500g): Hollings natural dog treats are loved by dogs and owners alike. Shop online at Very Important Pets
-  Updated: 2025-09-26T08:28:14Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Hollings
   Product Type: Sensitive Treats
   Availability: Available
@@ -10408,7 +10401,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/laughing-dog-grain-free-fish-tricks-5-x-125g-sensitive-treats-664800.png?v=1741090700
   Price: £12.83 GBP
 - [Laughing Dog Grain Free Sleep Tight 5 x 125g](https://veryimportantpets.shop/products/laughing-dog-grain-free-sleep-tight-5-x-125g): Laughing Dog Grain Free Sleep Tight. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:54Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Laughing Dog
   Product Type: Sensitive Treats
   Availability: Available
@@ -10625,7 +10618,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/lilys-kitchen-on-the-go-bar-chicken-with-coconut-turmeric-2-pack-16-x-40g-natural-treats-785822.jpg?v=1741090484
   Price: £36.73 GBP
 - [Lily's Kitchen Organic Beef Supper - Premium Wet Dog Trays](https://veryimportantpets.shop/products/lilys-kitchen-organic-beef-foil-11x150g): Lily's Kitchen Organic Beef Supper is a premium wet dog food with hearty beef, chicken, and pork, carrots, peas, spelt, botanical herbs, and essential vitamins.
-  Updated: 2025-09-27T13:28:05Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Lily's Kitchen
   Product Type: Adult Wet
   Availability: Available
@@ -10954,7 +10947,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-adult-dog-light-chicken-with-rice-and-veg-tray-400g-x-7-hypoallergenic-wet-858484.jpg?v=1741090463
   Price: £12.13 GBP
 - [Naturo Adult Mini Dog Duck with Rice & Veg Pouches 150g x 8](https://veryimportantpets.shop/products/naturo-adult-mini-dog-duck-with-rice-veg-pouches-150g-x-8): Naturo Adult Mini Duck with Rice &amp; Vegetables Pouches. Shop online at Very Important Pets
-  Updated: 2025-09-30T17:27:51Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -10968,14 +10961,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-adult-mini-dog-grain-free-chicken-with-potato-veg-pouches-150g-x-8-hypoallergenic-wet-324618.jpg?v=1741090480
   Price: £9.82 GBP
 - [Naturo Adult Mini Dog Salmon with Rice and Vegetables Pouch 150g x 8](https://veryimportantpets.shop/products/naturo-adult-mini-dog-salmon-with-rice-and-vegetables-pouch-150g-x-8): Naturo Adult Mini Salmon with Rice &amp; Vegetables Pouches. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:17Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-adult-mini-dog-salmon-with-rice-and-vegetables-pouch-150g-x-8-hypoallergenic-wet-148369.jpg?v=1725695750
   Price: £9.82 GBP
 - [Naturo Adult Mini Dog Turkey with Rice & Vegetables Pouch 150g x 8](https://veryimportantpets.shop/products/naturo-adult-mini-dog-turkey-with-rice-vegetables-pouch-150g-x-8): Naturo Adult Mini Turkey with Rice &amp; Vegetables Pouches. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:22Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
@@ -11053,7 +11046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-dentastix-daily-large-dog-dental-chew-treats-105-sticks-281396.webp?v=1735895215
     Price: £24.93 GBP
 - [Pedigree Dentastix Daily Medium Dog](https://veryimportantpets.shop/products/pedigree-dentastix-daily-medium-dog): Pedigree Dentastix Daily Dental Chews. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:35:57Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Pedigree
   Product Type: Dental Chew Treats
   Availability: Available
@@ -11075,7 +11068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-dentastix-daily-medium-dog-dental-chew-treats-105-sticks-336583.webp?v=1735895211
     Price: £19.66 GBP
 - [Pedigree Dentastix Daily Small Dog](https://veryimportantpets.shop/products/pedigree-dentastix-daily-small-dog): Pedigree Dentastix Daily Dental Chews. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:35:57Z
+  Updated: 2025-10-07T09:35:48Z
   Vendor: Pedigree
   Product Type: Dental Chew Treats
   Availability: Available
@@ -11206,7 +11199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-markies-adult-dog-treat-biscuits-dog-treats-12-x-500g-490697.jpg?v=1735890222
     Price: £28.49 GBP
 - [Pedigree Markies Mini Treat Biscuits for Small Dogs](https://veryimportantpets.shop/products/pedigree-markies-mini): Pedigree Markies Minis adult small dog treats have a crunchy biscuit with a tasty centre, Omega 3, vitamins, and minerals for a healthy reward.
-  Updated: 2025-10-06T17:28:16Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Pedigree
   Product Type: Dog Treats
   Availability: Available
@@ -11276,14 +11269,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-adult-wet-dog-food-pouches-poultry-selection-in-gravy-48-x-100g-adult-wet-253470.webp?v=1736637280
   Price: £20.59 GBP
 - [Pedigree Pouch Favourites Jelly 4x (12x100g)](https://veryimportantpets.shop/products/pedigree-pouch-favourites-jelly-4x-12x100g): Pedigree Pouch Favourites in Jelly provide 100% complete fresh and healthy nutrition. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:35:56Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Pedigree
   Product Type: Adult Wet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pedigree-pouch-favourites-jelly-4x-12x100g-adult-wet-484682.jpg?v=1701108443
   Price: £20.59 GBP
 - [Pedigree Mixed Selection Adult in Jelly Pouches Mega Pack 40 for 36 x 100g](https://veryimportantpets.shop/products/pedigree-mixed-selection-adult-in-jelly-pouches-mega-pack-40-for-36-x-100g): Pedigree Pouches Mixed Selection in Jelly Dog Pouches. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:35:58Z
+  Updated: 2025-10-07T09:35:46Z
   Vendor: Pedigree
   Product Type: Adult Wet
   Availability: Available
@@ -11304,7 +11297,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-mixed-selection-in-gravy-adult-dog-pouches-40-x-100g-mega-pack-adult-wet-635008.webp?v=1736637281
   Price: £16.08 GBP
 - [Pedigree Adult Wet Dog Food Pouch Mixed Selection - 40 Pack](https://veryimportantpets.shop/products/pedigree-pouch-beef-chicken-lamb-poultry-in-jelly-40-x-100g-mega-pack): Give your dog a delicious, nutritious meal with Pedigree Adult Wet Dog Food Mixed Selection in Jelly. 40-pouch pack of balanced recipes with natural ingredients
-  Updated: 2025-10-06T17:35:57Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Pedigree
   Product Type: Adult Wet
   Availability: Available
@@ -11479,35 +11472,35 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-puppy-mixed-selection-chunks-in-jelly-tins-24-x-400g-puppyjunior-wet-899203.webp?v=1735829964
   Price: £33.49 GBP
 - [Pet Munchies Buffalo Dental Chew Large 8 x 90g](https://veryimportantpets.shop/products/pet-munchies-buffalo-dental-chew-large-8-x-90g): Pet Munchies Buffalo Chews. Shop online at Very Important Pets
-  Updated: 2025-10-01T09:35:26Z
+  Updated: 2025-10-07T09:28:10Z
   Vendor: Pet Munchies
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-large-dental-buffalo-dog-chews-8-x-90g-dental-chew-treats-799753.jpg?v=1722376132
   Price: £25.88 GBP
 - [Pet Munchies Buffalo Dental Chew Medium 8 x 55g](https://veryimportantpets.shop/products/pet-munchies-buffalo-dental-chew-medium-8-x-55g): Pet Munchies Buffalo Chews. Shop online at Very Important Pets
-  Updated: 2025-09-30T21:10:31Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Pet Munchies
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-medium-dental-buffalo-dog-chews-8-x-55g-dental-chew-treats-343535.jpg?v=1722360313
   Price: £20.26 GBP
 - [Pet Munchies Small Dental Buffalo Dog Chews - 32 Packs](https://veryimportantpets.shop/products/pet-munchies-buffalo-dental-chews-small-8-x-4-pack-55g): Premium gourmet dental chews made with 100% natural grass-fed Buffalo, infused with salmon oil for skin, coat, and joint health. Grain-free & delicious!
-  Updated: 2025-10-02T12:35:58Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Pet Munchies
   Product Type: Dental Chew Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-small-dental-buffalo-dog-chews-8-x-4-pack-55g-dental-chew-treats-498104.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Chicken & Calcium 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-calcium-8-x-100g): This is the ultimate treat for growing dogs. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:36:01Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-calcium-bones-dog-treats-8-x-100g-natural-treats-495600.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Chicken & Cheese 8 x 100g](https://veryimportantpets.shop/products/pet-munchies-chicken-cheese-8-x-100g): These succulent strips of chicken can be given as a chew and are easy to break up for training and rewards. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Dog Treats
   Availability: Available
@@ -11521,7 +11514,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-rawhide-dumbbells-dog-treats-8-x-100g-natural-treats-318427.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Beef Liver Sticks 8 x 90g](https://veryimportantpets.shop/products/pet-munchies-beef-liver-sticks-8-x-90g): Pet Munchies Beef Liver Sticks are 100% natural sticks of quality beef liver have been roasted to perfection they’re soft and succulent which makes them perfect to break up for training and rewards. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:28Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11549,14 +11542,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-strips-treats-for-dogs-3-x-320g-natural-treats-2352480.jpg?v=1757542593
   Price: £24.99 GBP
 - [Premium Pet Munchies Chicken Strips Dog Treats - 8x 90g Bags](https://veryimportantpets.shop/products/pet-munchies-chicken-strips-dog-treats-8-x-90g): Give your furry friend a gourmet treat with Pet Munchies Chicken Strips - 100% natural chicken breast, high in protein, low in fat and salt. Multibuy 8 Bag Pack
-  Updated: 2025-10-06T13:28:22Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-strips-dog-treats-8-x-90g-natural-treats-404794.jpg?v=1722360312
   Price: £20.26 GBP
 - [Pet Munchies Chicken Twists Dog Treat 3 x 290g](https://veryimportantpets.shop/products/pet-munchies-chicken-twists-dog-treat-3-x-290g): Pet Munchies Chicken Twists Dog Treat. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:21Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Pet Munchies
   Product Type: Dental Chew Treats
   Availability: Available
@@ -11577,7 +11570,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-duck-strips-treats-for-dogs-3-x-320g-natural-treats-8774693.jpg?v=1757643864
   Price: £24.99 GBP
 - [Pet Munchies Dog Treats Duck & Sweet Potato Dental Sticks 8 x 90g](https://veryimportantpets.shop/products/pet-munchies-dog-treats-duck-sweet-potato-dental-sticks-8-x-90g): Pet Munchies Chicken &amp; Sweet Potato Treats are premium gourmet dental sticks made from 100% natural quality human grade chicken and sweet potato. Shop online at Very Important Pets
-  Updated: 2025-10-05T17:28:21Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Dental Chew Treats
   Availability: Available
@@ -11612,14 +11605,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-beef-liver-crunch-dog-treats-8-x-90g-natural-treats-945582.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Wild Salmon & Sweet Potato Dog Treats 8x 90g Pk](https://veryimportantpets.shop/products/pet-munchies-dog-treats-wild-salmon-sweet-potato-dental-sticks-8-x-90g): Pet Munchies Wild Salmon & Sweet Potato Dog Treats 8 x 90g pack. Premium, healthy dental sticks made with 100% natural ingredients. Wheat & gluten-free.
-  Updated: 2025-10-06T13:28:27Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-wild-salmon-sweet-potato-dog-treats-8-x-90g-natural-treats-128593.jpg?v=1722376132
   Price: £20.26 GBP
 - [Pet Munchies Wild Salmon Strips Dog Treats - 8 x 80g pack](https://veryimportantpets.shop/products/pet-munchies-wild-salmon-strips-8-x-80g): Give your dog a healthy and delicious treat with Pet Munchies Wild Salmon Strips. Made from 100% natural wild salmon, high in omega-3 and vitamins.
-  Updated: 2025-10-06T13:28:18Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11633,7 +11626,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-chips-dog-treats-8-x-100g-training-treats-520451.jpg?v=1722360311
   Price: £20.26 GBP
 - [Pet Munchies Duck Strips Dog Treats 8 x 90g](https://veryimportantpets.shop/products/pet-munchies-duck-strips-dog-treats-8-x-90g): Pet Munchies Duck Strips Dog Treats are made from the highest quality duck breasts meat that can be given as a chew or broken up to make tasty moresels ideal for training. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:35:58Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11647,7 +11640,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-twists-dog-treats-8-x-80g-dental-chew-treats-774240.jpg?v=1722360312
   Price: £20.26 GBP
 - [Premium Chicken Breast Training Bites for Dogs, Naturally Low Fat](https://veryimportantpets.shop/products/pet-munchies-dog-training-treats-chicken): Pet Munchies Premium gourmet chicken breast dog treats made with natural ingredients. Perfect for training or as a reward. Low in fat, wheat and gluten free.
-  Updated: 2025-10-06T17:28:17Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
@@ -11661,14 +11654,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-chicken-dog-training-treats-natural-treats-8-x-150g-336853.jpg?v=1714763420
     Price: £31.43 GBP
 - [Pet Munchies Duck Training Treat 8 x 50g](https://veryimportantpets.shop/products/pet-munchies-duck-training-treat-8-x-50g): Pet Munchies Duck Training Treat. Shop online at Very Important Pets
-  Updated: 2025-10-02T12:36:00Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-duck-dog-training-treats-8-x-50g-training-treats-326480.jpg?v=1722360311
   Price: £12.66 GBP
 - [Pet Munchies Premium Beef Liver & Chicken Treats for Dogs](https://veryimportantpets.shop/products/pet-munchies-dog-training-treat-chicken-liver): Made with 100% Natural Beef Liver & Chicken Breast. Premium gourmet dog treats, perfect for training or as a reward. Wheat and gluten free.
-  Updated: 2025-10-06T13:28:34Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
@@ -11682,14 +11675,14 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-liver-and-chicken-dog-training-treats-natural-treats-8-x-150g-607796.jpg?v=1714763421
     Price: £31.43 GBP
 - [Pet Munchies Wild Salmon Dog Training Treats - 8 x 50g Pack](https://veryimportantpets.shop/products/pet-munchies-wild-salmon-training-treats-8-x-50g): Premium Pet Munchies Wild Salmon Dog Training Treats made with 100% natural, high-quality wild salmon. Ideal for training aids, rich in omega-3 & vitamin D.
-  Updated: 2025-10-06T13:28:34Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-munchies-wild-salmon-training-treats-8-x-50g-natural-treats-107341.jpg?v=1701108513
   Price: £12.66 GBP
 - [Premium Gourmet Dog Bites with Real Fish & Chicken Breast](https://veryimportantpets.shop/products/pet-munchies-dog-training-treat-sushi): Delicious gourmet dog bites made from real fish & chicken. Perfect for training or as a tasty treat. Low in fat and naturally made with quality ingredients.
-  Updated: 2025-10-03T13:28:10Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Pet Munchies
   Product Type: Training Treats
   Availability: Available
@@ -11703,7 +11696,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pet-munchies-sushi-dog-training-treats-natural-treats-8-x-150g-375505.jpg?v=1714763419
     Price: £31.43 GBP
 - [Pet Munchies Venison Strips Dog Treats 8 x 75g Multibuy Pack](https://veryimportantpets.shop/products/pet-munchies-venison-strips-8-x-75g): Premium Venison Strips Dog Treats made from 100% natural venison and beef liver. Low in fat, no artificial flavours/colours, wheat/gluten-free.
-  Updated: 2025-10-06T13:28:17Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Pet Munchies
   Product Type: Natural Treats
   Availability: Available
@@ -11940,13 +11933,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-baby-dog-milk-2-kg-dog-milk-162494.jpg?v=1708686793
   Price: £39.39 GBP
-- [Royal Canin Mini Adult Pouches 12x85g](https://veryimportantpets.shop/products/royal-canin-mini-adult-pouches-12x85g): Royal Canin Mini Adult Wet Dog Food Pouches in Gravy 85g is sure to keep tails wagging! This is a complete wet food for adult small breed dogs (from 1 to 10kg) from 10 months to 12 years. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:28:00Z
-  Vendor: Royal Canin
-  Product Type: Adult Wet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/royal-canin-mini-adult-pouches-12x85g-adult-wet-725590.jpg?v=1701108645
-  Price: £14.60 GBP
 - [Royal Canin Wet Puppy Food In Gravy for Mini Breeds 12 x 85g](https://veryimportantpets.shop/products/royal-canin-mini-puppy-pouches-12x85g): Royal Canin Mini Puppy Pouches. Shop online at Very Important Pets
   Updated: 2025-10-05T17:28:22Z
   Vendor: Royal Canin
@@ -12155,13 +12141,13 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetzyme-cod-liver-oil-liquid-3x150ml-dog-supplements-152383.jpg?v=1701108710
   Price: £12.79 GBP
 - [Vetzyme Flexible Joint High Strength Tablets](https://veryimportantpets.shop/products/vetzyme-flex-histrength-joint-tablets): Vetzyme Flex High Strength Joint Tabs are specifically formulated to help maintain pain-free supple and mobile joints. Shop online at Very Important Pets
-  Updated: 2025-10-02T17:28:16Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Vetzyme
   Product Type: Supplements & Remedies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetzyme-flex-histrength-joint-tablets-dog-supplements-3x30-154442.jpg?v=1701108706
   - [3 x 30 Pack](https://veryimportantpets.shop/products/vetzyme-flex-histrength-joint-tablets?variant=47213363790114)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetzyme-flex-histrength-joint-tablets-dog-supplements-3x30-154442.jpg?v=1701108706
     Price: £19.96 GBP
   - [3 x 90 Pack](https://veryimportantpets.shop/products/vetzyme-flex-histrength-joint-tablets?variant=47213363822882)
@@ -12204,7 +12190,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/versele-laga-oropharma-opti-joint-700-g-dog-supplements-574676.jpg?v=1701108712
   Price: £20.79 GBP
 - [Wagg Bacon Roll Tasty Bites 7x125g](https://veryimportantpets.shop/products/wagg-bacon-roll-tasty-bites-7x125g): Wagg Bacon Roll Dog Treat available in 125g re sealable pack Oven baked Semi Moist treats ideal for reward based training or just a treat! Shop online at Very Important Pets
-  Updated: 2025-10-05T17:28:21Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Wagg
   Product Type: Training Treats
   Availability: Available
@@ -12274,7 +12260,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wagg-steak-pie-gravy-tasty-bites-treats-7-x-125g-natural-treats-196496.jpg?v=1701108775
   Price: £10.12 GBP
 - [Wagg Steaklets Treats 7 x 125g](https://veryimportantpets.shop/products/wagg-steaklets-treats-7-x-125g): Wagg Steaklets are oven baked Semi Moist meaty treats with Beef &amp; Cheese to tempt even the fussiest of dogs. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Wagg
   Product Type: Puppy Treats
   Availability: Available
@@ -12673,7 +12659,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whimzees-veggie-ears-box-of-18-natural-treats-978343.jpg?v=1701108840
   Price: £21.18 GBP
 - [Winalot Meaty Chunks Gravy 40 Mega Pack - Wet Adult Dog Food](https://veryimportantpets.shop/products/winalot-adult-meaty-chunks-in-gravy-mega-pack-40x100g-box): Winalot Meaty Chunks in Gravy 40 pack-pouches. Succulent meaty chunks & high-quality ingredients for complete & balanced nutrition for adult dogs.
-  Updated: 2025-10-06T13:28:21Z
+  Updated: 2025-10-07T09:28:11Z
   Vendor: Winalot
   Product Type: Adult Wet
   Availability: Available
@@ -12789,7 +12775,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/yakers-crunchy-strips-70g-dog-treats-533056.jpg?v=1701108900
   Price: £7.20 GBP
 - [Yakers Yak and Cow Milk Dog Chews - Natural Flavoured Treats](https://veryimportantpets.shop/products/yakers-dog-chew): Yakers are natural dog chews made from Yak & Cow milk, lime juice, and salt. Compressed, smoke dried for 28 days for a unique flavour.
-  Updated: 2025-10-06T13:28:34Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Yakers
   Product Type: Dog Treats
   Availability: Available
@@ -14420,7 +14406,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wahl-stainless-steel-coarse-comb-15cm-brushes-combs-de-shedding-554160.jpg?v=1701339415
   Price: £7.32 GBP
 - [Wahl Stainless Steel Curved Scissors 15cm](https://veryimportantpets.shop/products/wahl-stainless-steel-curved-scissors-15cm): Wahl Stainless Steel Curved Scissors. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:54:11Z
+  Updated: 2025-10-07T09:28:10Z
   Vendor: Wahl
   Product Type: Grooming Scissors
   Availability: Available
@@ -15238,7 +15224,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/dreamies-cheese-cat-treats-mega-tub-2-x-tubs-cat-treats-186827.jpg?v=1728955863
   Price: £12.19 GBP
 - [Dreamies Chicken Cat Treats Mega Tub 2 x 350g](https://veryimportantpets.shop/products/dreamies-chicken-cat-treats-mega-tub-2-x-350g): Dreamies Chicken Mega Tubs have a deliciously crunchy on the outside soft on the inside; Cats simply can’t resist the great taste of DREAMIES™ treats. Shop online at Very Important Pets
-  Updated: 2025-10-02T18:55:05Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Dreamies
   Product Type: 
   Availability: Available
@@ -15252,7 +15238,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/dreamies-creamy-snack-cat-kitten-with-chicken-salmon-7-x-12-pack-cat-treats-825187.jpg?v=1728755017
   Price: £27.33 GBP
 - [Dreamies Meaty Sticks Chicken Cat Treats 14 x 30g](https://veryimportantpets.shop/products/dreamies-meaty-sticks-chicken-cat-treats-14-x-30g): Dreamies Meaty Sticks Chicken Cat Treats. Shop online at Very Important Pets
-  Updated: 2025-10-03T13:35:36Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Dreamies
   Product Type: 
   Availability: Available
@@ -15489,7 +15475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/go-cat-senior-7-chicken-turkey-veg-2-kg-senior-cat-dry-452478.jpg?v=1702498912
   Price: £8.27 GBP
 - [Go-Cat Complete Adult Dry Cat Food with Tuna & Herring](https://veryimportantpets.shop/products/go-cat-tuna-herring-veg): Go-Cat Complete Adult Dry Cat Food with Tuna, Herring & Veg. 100% complete nutrition for health & happiness. Quality protein for cats & no artificial colors.
-  Updated: 2025-10-06T13:35:56Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Go-Cat
   Product Type: Adult Cat Dry
   Availability: Available
@@ -15688,13 +15674,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/iams-adult-cat-dry-food-with-lamb-adult-cat-dry-10-kg-224850.jpg?v=1730751568
     Price: £44.29 GBP
-- [IAMS Ocean Fish Dry Cat Food for Adults - Advanced Nutrition](https://veryimportantpets.shop/products/iams-cat-adult-vitality-ocean-fish-2x2kg): IAMS Dry Cat Food for Adults with Ocean Fish - 87% animal protein for natural nourishment, antioxidant blend for immunity, omega-3 & 6 for skin health.
-  Updated: 2025-10-02T12:28:18Z
-  Vendor: IAMS
-  Product Type: Adult Cat Dry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/iams-adult-cat-dry-food-with-ocean-fish-2-x-2kg-adult-cat-dry-207829.jpg?v=1730751565
-  Price: £21.22 GBP
 - [IAMS Cat Sensitive Digestion Adult Turkey Dry Cat Food](https://veryimportantpets.shop/products/iams-cat-adult-vitality-sensitive-digestion-turkey): IAMS Cat Sensitive Digestion Adult Turkey Dry Cat Food: 88% animal protein, promotes gut flora with prebiotics, easily digestible rice for smooth digestion.
   Updated: 2025-09-30T13:27:59Z
   Vendor: IAMS
@@ -15922,7 +15901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-senior-cat-chicken-rice-15-kg-senior-cat-dry-719145.jpg?v=1702499160
   Price: £14.24 GBP
 - [James Wellbeloved Senior Cat Fish & Rice Dry Food](https://veryimportantpets.shop/products/james-wellbeloved-senior-cat-fish): James Wellbeloved Fish & Rice Senior cat food: made with pure natural ingredients for a delightful taste cats adore. Wholesome, low-fat recipe.
-  Updated: 2025-10-05T22:28:21Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: James Wellbeloved
   Product Type: Senior Cat Dry
   Availability: Available
@@ -15954,7 +15933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/james-wellbeloved-senior-cat-turkey-senior-cat-dry-10-kg-916175.jpg?v=1702499162
     Price: £79.95 GBP
 - [James Wellbeloved Kitten Fish - Nutritious Growth Recipe](https://veryimportantpets.shop/products/james-wellbeloved-kitten-fish-1-5-kg): Give your growing kitten a taste of James Wellbeloved Kitten Fish, packed with protein, energy, vitamins, and minerals for healthy development.
-  Updated: 2025-10-02T18:55:09Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: James Wellbeloved
   Product Type: Kitten Dry Food
   Availability: Available
@@ -16338,7 +16317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/purina-one-chicken-dry-adult-cat-food-adult-cat-dry-6-kg-191887.jpg?v=1724500375
     Price: £34.30 GBP
 - [Purina One Adult Cat Chicken & Beef Pouches 5x (8x85g)](https://veryimportantpets.shop/products/purina-one-adult-cat-chicken-beef-pouches-5x-8x85g): Purina One Adult Cat Chicken &amp; Beef Pouches. Shop online at Very Important Pets
-  Updated: 2025-09-28T17:28:28Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Purina One
   Product Type: Adult Cat Wet
   Availability: Available
@@ -16359,7 +16338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/purina-one-adult-cat-coat-and-hairball-chicken-adult-cat-dry-4x750g-739278.jpg?v=1702499692
     Price: £25.45 GBP
 - [Purina One Adult Cat Ocean Fish & Lamb Pouches 5x (8x85g)](https://veryimportantpets.shop/products/purina-one-adult-cat-ocean-fish-lamb-pouches-5x-8x85g): Purina One Adult Cat Ocean Fish &amp; Lamb Pouches. Shop online at Very Important Pets
-  Updated: 2025-09-24T22:28:22Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Purina One
   Product Type: Adult Cat Wet
   Availability: Available
@@ -16492,7 +16471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rosewood-romeo-hood-cat-litter-box-large-litter-box-mocha-112389.jpg?v=1702499768
     Price: £18.39 GBP
 - [Royal Canin Ageing +12](https://veryimportantpets.shop/products/royal-canin-ageing-12): Royal Canin Ageing +12 has been designed to suit the nutritional profiles of cats that are over 12 years of age. Shop online at Very Important Pets
-  Updated: 2025-09-28T17:28:26Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Royal Canin
   Product Type: Senior Cat Dry
   Availability: Available
@@ -16924,7 +16903,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/sheba-fine-flakes-fish-selection-in-jelly-48-x-85g-adult-cat-wet-484263.webp?v=1740514504
   Price: £27.86 GBP
 - [Sheba Fish Flakes in Jelly Variety Pack 40 x 85g Mega-Pack](https://veryimportantpets.shop/products/sheba-fine-flakes-fish-collection-in-jelly-40-x-85g): Give your adult cat the complete nutrition they need with Sheba Fine Flakes Fish Collection in Jelly Mega Pack. No artificial colors or preservatives.
-  Updated: 2025-10-02T18:55:15Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Sheba
   Product Type: Adult Cat Wet
   Availability: Available
@@ -16938,7 +16917,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/sheba-fine-flakes-poultry-selection-in-jelly-adult-cat-food-48-x-85g-adult-cat-wet-497152.webp?v=1740514507
   Price: £23.99 GBP
 - [Sheba Poultry Selection Wet Cat Food 40 Pouch Mega-Pack](https://veryimportantpets.shop/products/sheba-fine-flakes-poultry-collection-in-jelly-40-x-85g): Indulge your feline friend with Sheba Fine Flakes in Jelly Mega-Pack Poultry Selection. High-quality ingredients, no artificial colours or preservatives.
-  Updated: 2025-10-06T13:35:55Z
+  Updated: 2025-10-07T09:35:46Z
   Vendor: Sheba
   Product Type: Adult Cat Wet
   Availability: Available
@@ -16966,7 +16945,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/sheba-natures-collection-mixed-selection-in-gravy-pouches-40-x-85g-adult-cat-wet-332589.webp?v=1740514507
   Price: £19.73 GBP
 - [Sheba Nature's Collection Poultry in Jelly Pouches](https://veryimportantpets.shop/products/sheba-natures-collection-poultry-selection-in-jelly-pouches): Indulge your cat with Sheba Nature's Collection Poultry in Jelly Pouches - a globally inspired, balanced, and tasty meal in a convenient serving size.
-  Updated: 2025-10-02T18:55:18Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Sheba
   Product Type: Adult Cat Wet
   Availability: Available
@@ -17036,7 +17015,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/thomas-cat-litter-16-l-litter-261338.jpg?v=1702499861
   Price: £12.35 GBP
 - [Cat Litter Trays from Van Ness - Odour & Stain Resistant](https://veryimportantpets.shop/products/van-ness-cat-litter-tray): Van Ness Cat Litter Trays are high-polished, odour-resistant, and stain-resistant for easy cleaning. Available in four sizes. Stylish design, made in USA.
-  Updated: 2025-10-06T13:28:28Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Van Ness
   Product Type: 
   Availability: Available
@@ -17405,7 +17384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whiskas-dry-1-adult-lamb-adult-cat-dry-5-x-800g-825228.jpg?v=1702500118
     Price: £19.45 GBP
 - [Whiskas Dry 1+ Adult Salmon](https://veryimportantpets.shop/products/whiskas-dry-1-adult-salmon): Whiskas Dry 1+ Adult Salmon. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:35:56Z
+  Updated: 2025-10-07T09:35:46Z
   Vendor: Whiskas
   Product Type: Adult Cat Dry
   Availability: Available
@@ -17419,7 +17398,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whiskas-dry-1-adult-salmon-adult-cat-dry-5-x-800g-120981.jpg?v=1702500115
     Price: £19.45 GBP
 - [Whiskas Dry 1+ Adult Tuna](https://veryimportantpets.shop/products/whiskas-dry-1-adult-tuna): Whiskas Dry 1+ Adult Tuna. Shop online at Very Important Pets
-  Updated: 2025-10-02T18:55:21Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Whiskas
   Product Type: Adult Cat Dry
   Availability: Available
@@ -17441,7 +17420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whiskas-dry-1-adult-tuna-adult-cat-dry-6-x-300g-467680.jpg?v=1702500117
     Price: £12.57 GBP
 - [Whiskas Dry Kitten Food 2-12 Months with Chicken](https://veryimportantpets.shop/products/whiskas-dry-2-12-month-kitten-chicken): Give your growing kitten the essential nutrients they need with Whiskas Dry Kitten Food with delicious chicken. Supports dental health and overall wellbeing.
-  Updated: 2025-10-06T17:35:55Z
+  Updated: 2025-10-07T09:35:46Z
   Vendor: Whiskas
   Product Type: Kitten Dry Food
   Availability: Available
@@ -17608,7 +17587,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whiskas-adult-1-tasty-mix-catch-of-the-day-pouches-in-gravy-48-x-85g-adult-cat-wet-357127.webp?v=1738956709
   Price: £21.38 GBP
 - [Whiskas Adult 1+ Tasty Mix Chefs Choice in Gravy Pouches](https://veryimportantpets.shop/products/whiskas-adult-1-tasty-mix-chefs-choice-in-gravy-pouches): Whiskas Adult 1+ Tasty Mix Chef's Choice in Gravy is a delicious wet cat food for adult cats, providing pure satisfaction and balanced nutrition.
-  Updated: 2025-10-06T17:35:58Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Whiskas
   Product Type: Adult Cat Wet
   Availability: Available
@@ -17636,14 +17615,14 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whiskas-senior-11-fish-favourites-in-jelly-wet-cat-food-pouches-4x-12x85g-senior-cat-wet-736954.webp?v=1722185316
   Price: £21.38 GBP
 - [Whiskas Kitten Fish Favourites Wet Cat Food in Jelly - 48 pk](https://veryimportantpets.shop/products/whiskas-kitten-2-12-month-fish-favourites-in-jelly-pouches-4-x-12-x-85g): Whiskas Kitten 2-12 Month Fish Favourites Wet Cat Food in Jelly preserves natural goodness for happy, healthy kittens. Made with high-quality ingredients.
-  Updated: 2025-10-03T09:35:51Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Whiskas
   Product Type: Kitten Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/whiskas-kitten-2-12-month-fish-favourites-in-jelly-pouches-4x-12x85g-kitten-wet-food-322705.webp?v=1722185314
   Price: £21.38 GBP
 - [Whiskas Kitten Mixed Menu in Jelly Wet Cat Food Pouches 48x](https://veryimportantpets.shop/products/whiskas-kitten-2-12-month-mixed-menu-in-jelly-4-x-12-x-85g): Give your kitten the best start in life with Whiskas Kitten Mixed Menu in Jelly Wet Cat Food Pouches. 100% high-quality ingredients for happy, healthy growth.
-  Updated: 2025-10-06T09:35:49Z
+  Updated: 2025-10-07T09:35:48Z
   Vendor: Whiskas
   Product Type: Kitten Wet Food
   Availability: Available
@@ -17724,7 +17703,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/whiskas-1-adult-meaty-menu-in-jelly-4x-6x400g-adult-cat-wet-547987.jpg?v=1702500117
   Price: £39.95 GBP
 - [Whiskas 1+ Adult Ocean Menu in Jelly Tins 4x (6x400g)](https://veryimportantpets.shop/products/whiskas-1-adult-ocean-menu-in-jelly-tins-4x-6x400g): Whiskas 1+ Adult Ocean Menu in Jelly Tins. Shop online at Very Important Pets
-  Updated: 2025-10-05T17:28:22Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Whiskas
   Product Type: Adult Cat Wet
   Availability: Available
@@ -18083,7 +18062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-nylon-chain-check-collar-collars-leads-dog-35-45-cm-639002.jpg?v=1708112219
     Price: £6.66 GBP
 - [Ancol Heritage Deluxe Rope Slip Lead Brown 1.5m x 12mm](https://veryimportantpets.shop/products/ancol-heritage-deluxe-rope-slip-lead-brown-1-5m-x-12mm): Ancol Deluxe Nylon Rope Slip Lead are more functional than traditional cotton nylon repels water and soiling and can be more easily cleaned. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:51:58Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Ancol
   Product Type: 
   Availability: Available
@@ -19257,7 +19236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-reversible-dog-coat-redblue-coats-clothing-xl-60cm-length-474547.jpg?v=1708112217
     Price: £18.34 GBP
 - [Ancol Viva Rope Reflective Slip Lead for Active Pet Safety](https://veryimportantpets.shop/products/ancol-viva-slip-rope-reflective-dog-lead): Keep your dog safe with Ancol Viva Rope Reflective Slip Lead. Durable, comfortable, and weather-resistant, with reflective tape for enhanced visibility.
-  Updated: 2025-10-03T13:28:09Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Ancol
   Product Type: 
   Availability: Available
@@ -19295,7 +19274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-slip-rope-reflective-dog-lead-collars-leads-dog-150-cm-x-08-cm-831509.jpg?v=1708112231
     Price: £7.38 GBP
   - [120 cm x 1.2 cm / Lime](https://veryimportantpets.shop/products/ancol-viva-slip-rope-reflective-dog-lead?variant=47604237435170)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/ancol-viva-slip-rope-reflective-dog-lead-collars-leads-dog-120-cm-x-12-cm-223235.jpg?v=1708112231
     Price: £8.58 GBP
   - [150 cm x 1.2 cm / Lime](https://veryimportantpets.shop/products/ancol-viva-slip-rope-reflective-dog-lead?variant=47604237467938)
@@ -19962,7 +19941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/flexi-classic-tape-dog-lead-large-5m-collars-leads-dog-red-232983.jpg?v=1714427341
     Price: £20.99 GBP
 - [Flexi Classic Tape Dog Lead Medium 5m](https://veryimportantpets.shop/products/flexi-classic-tape-dog-lead-medium-5m): Flexi Classic Tape Dog Lead. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:20Z
+  Updated: 2025-10-07T09:28:08Z
   Vendor: Flexi
   Product Type: 
   Availability: Available
@@ -19984,7 +19963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/flexi-classic-tape-dog-lead-medium-5m-collars-leads-dog-red-883662.jpg?v=1714427343
     Price: £20.04 GBP
 - [Flexi Classic Tape Dog Lead Small 5m](https://veryimportantpets.shop/products/flexi-classic-tape-dog-lead-small-5m): Flexi Classic Tape Dog Lead. Shop online at Very Important Pets
-  Updated: 2025-10-03T09:28:11Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Flexi
   Product Type: 
   Availability: Available
@@ -20602,7 +20581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/vetbed-nonslip-grey-with-white-stars-paws-dog-baskets-beds-101cm-x-76cm-518851.jpg?v=1708113813
     Price: £36.69 GBP
 - [VetBed Nonslip Mink with Cream Bones & Brown Paws](https://veryimportantpets.shop/products/vetbed-nonslip-mink-with-cream-bones-brown-paws): Vetbed Mink Cream Bones &amp; Brown Paws. Shop online at Very Important Pets
-  Updated: 2025-09-30T13:27:59Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Vetbed
   Product Type: 
   Availability: Available
@@ -20701,7 +20680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rosewood-pink-heart-dog-collar-collars-leads-dog-46-71-cm-720039.jpg?v=1708113551
     Price: £7.51 GBP
 - [Rosewood 40 Winks Grey Jumbo Cord Dog Bed](https://veryimportantpets.shop/products/rosewood-40-winks-grey-jumbo-cord-dog-bed): Ensure your dog gets forty winks in style and comfort in this soft and cosy grey oval sleeper! Stylish and modern for today's home. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:31Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Rosewood
   Product Type: 
   Availability: Available
@@ -20719,7 +20698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rosewood-40-winks-grey-jumbo-cord-dog-bed-dog-baskets-beds-81-cm-775354.jpg?v=1708113522
     Price: £27.97 GBP
 - [Rosewood Deluxe Stainless Steel Bowl](https://veryimportantpets.shop/products/rosewood-deluxe-stainless-steel-bowl): High quality stainless steel pet bowl. Shop online at Very Important Pets
-  Updated: 2025-10-06T09:28:19Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Rosewood
   Product Type: 
   Availability: Available
@@ -20846,7 +20825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rosewood-tie-out-cable-tie-out-chains-stakes-45m-124241.jpg?v=1708113550
     Price: £13.10 GBP
 - [Rosewood Luxury Tweed Check Leather Dog Collar](https://veryimportantpets.shop/products/rosewood-luxury-tweed-check-leather-dog-collar): Rosewood Tweed Check Leather Collar. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:28:24Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Rosewood
   Product Type: 
   Availability: Available
@@ -20868,7 +20847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rosewood-luxury-tweed-check-leather-dog-collar-collars-leads-dog-51cm-61cm-786182.jpg?v=1708113523
     Price: £11.06 GBP
 - [Rosewood Luxury Tweed Check Leather Dog Lead](https://veryimportantpets.shop/products/rosewood-luxury-tweed-check-leather-dog-lead): Rosewood Tweed Check Leather Lead. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:45Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Rosewood
   Product Type: 
   Availability: Available
@@ -21237,7 +21216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/snug-cosy-san-remo-chunky-cord-dog-bed-dog-baskets-beds-l-76-cm-896877.jpg?v=1708113816
     Price: £38.99 GBP
 - [Durable Pet Food Storage Container with Fresh-Tight Seal](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container): Keep your pet's food fresh and secure with Pure Ness Pet Food Storage Container. Made in the USA, with a fresh-tight seal and durable construction.
-  Updated: 2025-10-06T21:49:23Z
+  Updated: 2025-10-07T09:06:59Z
   Vendor: Van Ness
   Product Type: 
   Availability: Available
@@ -21777,7 +21756,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bonio-happy-fibre-dog-biscuits-dog-biscuits-125kg-681125.png?v=1708461560
   Price: £49.99 GBP
 - [PURINA BONIO Meaty Chip Dog Biscuits 5-Pack Bundle](https://veryimportantpets.shop/products/bonio-meaty-chip-dog-biscuits-5-x-375g): BONIO Meaty Chip Dog Biscuits are a delicious snack packed with meaty pieces. Developed by PURINA, they're wholesome, nutritious, and perfect for any time.
-  Updated: 2025-10-05T17:28:17Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Bonio
   Product Type: Dog Biscuits
   Availability: Available
@@ -21798,7 +21777,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/bonio-mini-dog-biscuits-dog-biscuits-10kg-222663.jpg?v=1708461561
   Price: £29.91 GBP
 - [BONIO Original Dog Biscuits - Delicious Crunchy Dog Treats](https://veryimportantpets.shop/products/bonio-original-dog-biscuits): Nutritious PURINA BONIO Adult dog biscuits promote healthy teeth, gums, & digestion. Low fat, tasty, & full of vitamins for a happy tail-wagging pup!
-  Updated: 2025-10-06T17:35:57Z
+  Updated: 2025-10-07T09:35:46Z
   Vendor: Bonio
   Product Type: Dog Biscuits
   Availability: Available
@@ -21935,7 +21914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/connollys-red-mills-engage-chicken-dog-food-working-dry-15-kg-223283.png?v=1708549160
     Price: £31.60 GBP
 - [Connolly's Red Mills Engage Duck & Rice Dog Food](https://veryimportantpets.shop/products/connollys-red-mills-engage-duck-rice-dog-food): Red Mills Engage Duck &amp; Rice is a hypoallergenic diet formulated to keep your dog ahead of the pack. Shop online at Very Important Pets
-  Updated: 2025-10-01T05:27:21Z
+  Updated: 2025-10-07T09:28:09Z
   Vendor: Connolly's Red Mills
   Product Type: Working Dry
   Availability: Available
@@ -22019,7 +21998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/vitalin-puppy-chicken-with-thyme-root-veg-dry-puppy-food-puppyjunior-dry-8-kg-625374.jpg?v=1737416431
     Price: £36.29 GBP
 - [Laughing Dog Adult Traditional Mixer Meal for Dogs](https://veryimportantpets.shop/products/laughing-dog-adult-traditional-mixer-meal-for-dogs): Laughing Dog Traditional Mixer Meal. Shop online at Very Important Pets
-  Updated: 2025-10-03T13:28:04Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Laughing Dog
   Product Type: Mixer Dog Biscuits
   Availability: Available
@@ -22389,7 +22368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-grain-free-recipes-in-jelly-adult-wet-dog-food-tins-adult-wet-18-x-400g-796285.jpg?v=1715110470
     Price: £21.04 GBP
 - [Butcher's Wholegrain Lean & Tasty Recipes - Vet Recommended](https://veryimportantpets.shop/products/butchers-lean-tasty-wholegrain-wet-adult-dog-food-tins): Discover Butcher's Wholegrain Lean & Tasty recipes - 20% less fat, Vet Recommended, and carefully crafted for a healthy weight with natural ingredients.
-  Updated: 2025-10-06T17:28:11Z
+  Updated: 2025-10-07T09:28:07Z
   Vendor: Butcher's
   Product Type: Diet Wet
   Availability: Available
@@ -22445,7 +22424,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/butchers-grain-free-healthy-heart-adult-wet-dog-food-tins-adult-wet-18-x-390g-437469.png?v=1715110474
     Price: £21.04 GBP
 - [Butcher's Grain-Free Joint and Coat Recipes for Healthy Pets](https://veryimportantpets.shop/products/butchers-grain-free-joints-coat-mixed-wet-adult-dog-food-tins): Vet-recommended grain-free dog food with salmon oil for healthy joints, skin, and coat. Complete and balanced formula with natural active ingredients in tins.
-  Updated: 2025-10-06T17:28:11Z
+  Updated: 2025-10-07T09:28:05Z
   Vendor: Butcher's
   Product Type: Adult Wet
   Availability: Available
@@ -22704,7 +22683,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/royal-canin-light-weight-care-thin-slices-in-jelly-adult-wet-cat-food-12-x-85g-diet-cat-food-911545.jpg?v=1724872820
   Price: £22.30 GBP
 - [Felix Original Adult Cat Fish Variety Pack in Jelly Pouches](https://veryimportantpets.shop/products/felix-original-fish-selection-in-jelly-wet-cat-food): Give your cat the variety they crave with Felix Adult Original Fish Selection in Jelly Pouches. Quality ingredients for a balanced diet and happy cat!
-  Updated: 2025-10-06T17:35:58Z
+  Updated: 2025-10-07T09:35:48Z
   Vendor: Felix
   Product Type: Adult Cat Wet
   Availability: Available
@@ -22869,7 +22848,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/gourmet-natures-creations-gravy-heart-variety-wet-cat-food-6-boxes-8x85g-adult-cat-wet-734438.webp?v=1724723613
   Price: £37.17 GBP
 - [Felix Senior 7+ Original Mixed Selection in Jelly Pouches](https://veryimportantpets.shop/products/felix-original-senior-7-mixed-selection-in-jelly-wet-cat-food): Give your older cat a wide range of tasty recipes with Felix Senior 7+ Original Mixed Selection in Jelly Pouches. Specially designed for cats aged 7 and older.
-  Updated: 2025-10-06T17:28:12Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Felix
   Product Type: Senior Cat Wet
   Availability: Available
@@ -23344,7 +23323,7 @@ Omega-6 & 3 for skin.
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/animology-essentials-detangling-spray-250ml-x-5-770727.jpg?v=1728205194
   Price: £10.26 GBP
 - [Hollings Gourmet Pork Sausage Dog Treats 100% Gluten Free](https://veryimportantpets.shop/products/hollings-gourmet-pork-sausage-dog-treats): Tasty, nutritious Hollings Gourmet Pork Sausage Dog Treats. Made with high-quality pork, gluten-free, perfect for training or a tasty snack on the go.
-  Updated: 2025-10-06T17:28:13Z
+  Updated: 2025-10-07T09:28:06Z
   Vendor: Hollings
   Product Type: Natural Treats
   Availability: Available
@@ -23682,7 +23661,7 @@ Omega-6 & 3 for skin.
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-as-good-as-it-looks-favourites-in-jelly-wet-cat-food-adult-cat-wet-80-x-85g-673962.jpg?v=1742187592
     Price: £29.44 GBP
 - [Felix AGAIL Ocean Feasts Selection in Jelly Wet Cat Food](https://veryimportantpets.shop/products/felix-as-good-as-it-looks-ocean-feasts-selection-in-jelly): Treat your fish-loving cat to Felix As Good As It Looks Adult Ocean Feasts in Jelly. Packed with cod, plaice, salmon, and tuna for a varied diet.
-  Updated: 2025-10-06T09:35:47Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Felix
   Product Type: Adult Cat Wet
   Availability: Available
@@ -23702,20 +23681,6 @@ Omega-6 & 3 for skin.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-as-good-as-it-looks-meaty-selection-in-jelly-chick-lamb-beef-ham-48-x-85g-adult-cat-wet-400046.webp?v=1742187596
   Price: £20.86 GBP
-- [Felix Senior 7+ AGAIL Mixed Selection in Jelly Wet Cat Food](https://veryimportantpets.shop/products/felix-as-good-as-it-looks-senior-7-mixed-selection-in-jelly): Keep your senior cat healthy and active with Felix As Good As It Looks Senior 7+ Mixed Selection in Jelly Wet Cat Food. Formulated by Purina experts.
-  Updated: 2025-10-06T17:35:58Z
-  Vendor: Felix
-  Product Type: Senior Cat Wet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-senior-7-as-good-as-it-looks-mixed-selection-in-jelly-wet-cat-food-senior-cat-wet-48-x-85g-245329.jpg?v=1742187592
-  - [48 x 85g](https://veryimportantpets.shop/products/felix-as-good-as-it-looks-senior-7-mixed-selection-in-jelly?variant=55164359377269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-senior-7-as-good-as-it-looks-mixed-selection-in-jelly-wet-cat-food-senior-cat-wet-48-x-85g-245329.jpg?v=1742187592
-    Price: £20.84 GBP
-  - [40 x 85g](https://veryimportantpets.shop/products/felix-as-good-as-it-looks-senior-7-mixed-selection-in-jelly?variant=55164359410037)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-senior-7-as-good-as-it-looks-mixed-selection-in-jelly-wet-cat-food-senior-cat-wet-40-x-85g-316419.jpg?v=1742187594
-    Price: £15.78 GBP
 - [Felix Doubly Delicious Countryside Jelly Selection Cat Food](https://veryimportantpets.shop/products/felix-doubly-delicious-countryside-selection-in-jelly): Felix Doubly Delicious Countryside Selection in Jelly is a variety of tender meats and fish packed in pouches, ensuring your cat's happiness and health.
   Updated: 2025-10-06T17:35:59Z
   Vendor: Felix
@@ -23735,7 +23700,7 @@ Omega-6 & 3 for skin.
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/felix-doubly-delicious-countryside-selection-in-jelly-adult-wet-cat-food-adult-cat-wet-80-x-85g-371351.jpg?v=1742187592
     Price: £29.44 GBP
 - [Felix Senior 7+ AGAIL Meaty Selection in Jelly Cat Food- 48x](https://veryimportantpets.shop/products/felix-as-good-as-it-looks-senior-7-meaty-selection-in-jelly): Keep your senior cat happy and healthy with Felix As Good As It Looks Senior 7+ Mixed Selection in Jelly Wet Cat Food. Delicious meaty flavours they'll love!
-  Updated: 2025-10-02T18:55:04Z
+  Updated: 2025-10-07T09:35:47Z
   Vendor: Felix
   Product Type: Senior Cat Wet
   Availability: Available
@@ -23752,10 +23717,10 @@ Omega-6 & 3 for skin.
 ## Collections
 
 - [Grain-Free Dog Food - Top Brands | Very Important Pets | Shop](https://veryimportantpets.shop/collections/grain-free-dog-food): Shop grain-free dog food at Very Important Pets for pets with sensitivities. Find leading brands that offer balanced nutrition in wet and dry forms.
-  Updated: 2025-10-05T11:32:41Z
+  Updated: 2025-10-07T11:39:41Z
   Total Products: 201
 - [Dry Dog Food & Kibble - Premium Brands | Very Important Pets](https://veryimportantpets.shop/collections/dry-dog-food): Find tailored dry dog food nutrition for all breeds, ages, and diets, including grain-free and hypoallergenic. Perfect for your dog’s health and taste preferences.
-  Updated: 2025-10-06T22:27:47Z
+  Updated: 2025-10-07T11:39:41Z
   Total Products: 432
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
   Updated: 2025-10-05T11:32:41Z
@@ -23800,8 +23765,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-12T11:37:33Z
   Total Products: 21
 - [Dog Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-treats): Dog Treats - Very Important Pets | Shop
-  Updated: 2025-10-06T17:28:45Z
-  Total Products: 391
+  Updated: 2025-10-07T09:36:18Z
+  Total Products: 390
 - [Dog Training Treats - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-training-treats): Dog Training Treats - Very Important Pets | Shop
   Updated: 2025-10-04T18:04:16Z
   Total Products: 123
@@ -23851,8 +23816,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T15:50:25Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-10-06T22:27:47Z
-  Total Products: 571
+  Updated: 2025-10-07T11:39:41Z
+  Total Products: 570
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-10-01T21:47:34Z
   Total Products: 48
@@ -23866,8 +23831,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-06-30T11:51:20Z
   Total Products: 11
 - [Ultimate Cat Care Collection, Shop Food, Toys, Health & More](https://veryimportantpets.shop/collections/cat): Discover high-quality cat supplies for your Very Important Pets, featuring a wide range of cat foods, treats, toys, healthcare products, and accessories.
-  Updated: 2025-10-06T17:28:44Z
-  Total Products: 463
+  Updated: 2025-10-07T09:36:16Z
+  Total Products: 461
 - [e-Gift Cards - Very Important Pets | Shop](https://veryimportantpets.shop/collections/gift-cards): e-Gift Cards - Very Important Pets | Shop
   Updated: 2025-01-13T21:04:18Z
   Total Products: 1
@@ -23890,8 +23855,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-06T22:27:47Z
-  Total Products: 1756
+  Updated: 2025-10-07T11:39:41Z
+  Total Products: 1754
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-10-05T16:40:58Z
   Total Products: 185
@@ -24238,8 +24203,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T20:28:02Z
   Total Products: 31
 - [Premium Cat Food Collection - Very Important Pets | Shop](https://veryimportantpets.shop/collections/cat-food): Explore our premium Cat Food range featuring top brands like James Wellbeloved & Lily's Kitchen; we cater to all feline dietary needs. Fast delivery available!
-  Updated: 2025-10-06T17:28:44Z
-  Total Products: 201
+  Updated: 2025-10-07T09:36:16Z
+  Total Products: 199
 - [Adult Dry Cat Food - Premium Brands & Nutrition](https://veryimportantpets.shop/collections/dry-cat-food): Shop top adult dry cat food brands like Royal Canin & James Wellbeloved at Very Important Pets. Nutritionally rich, varied flavours for every adult cat.
   Updated: 2025-10-02T18:55:19Z
   Total Products: 69
@@ -24337,8 +24302,8 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-06T22:27:47Z
-  Total Products: 1702
+  Updated: 2025-10-07T11:39:41Z
+  Total Products: 1700
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
   Total Products: 2
@@ -24415,8 +24380,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-05T11:32:41Z
   Total Products: 10
 - [Multi-Pack](https://veryimportantpets.shop/collections/pre-order)
-  Updated: 2025-10-06T17:36:27Z
-  Total Products: 100
+  Updated: 2025-10-07T11:39:41Z
+  Total Products: 99
 - [Arden Grange: Premium Pet Care - Very Important Pets | Shop](https://veryimportantpets.shop/collections/arden-grange): Arden Grange: Over 20 years of premium, hypoallergenic pet food. No wheat, beef, dairy. UK-made with quality chicken, lamb, salmon. No artificial additives.
   Updated: 2025-10-04T19:30:45Z
   Total Products: 49
@@ -24481,7 +24446,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-02T13:28:05Z
   Total Products: 3
 - [Harringtons: Natural Pet Foods | Very Important Pets | Shop](https://veryimportantpets.shop/collections/harringtons): Discover Harringtons: natural, additive-free pet food with eco-friendly packaging. British heritage meets sustainability for dogs, cats, and small animals.
-  Updated: 2025-10-02T18:55:07Z
+  Updated: 2025-10-07T11:39:41Z
   Total Products: 43
 - [Hill's Pet Food: Science-Led Nutrition | Very Important Pets](https://veryimportantpets.shop/collections/hills): Shop Hill's Pet Nutrition at Very Important Pets for tailored, science-backed food for every life stage. Your pet will benefit from the biologically appropriate recipes developed by experts to promote health, vitality, and enjoyment.
   Updated: 2024-02-22T15:04:03Z
@@ -24499,7 +24464,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T11:37:49Z
   Total Products: 46
 - [Naturo Pet Foods: Purely Natural | Very Important Pets | Shop](https://veryimportantpets.shop/collections/naturo): Choose Naturo at Very Important Pets for natural, locally sourced pet nutrition. Rich in meat, free from additives for your dog's and cat's balanced diet.
-  Updated: 2025-10-05T11:32:41Z
+  Updated: 2025-10-07T11:39:41Z
   Total Products: 32
 - [Pedigree Dog Food: Nutritious & Affordable | Very important Pets](https://veryimportantpets.shop/collections/pedigree): Shop Pedigree expertly crafted Dog and Cat nutrition range at Very Important Pets, offering balanced, complete meals for dogs and cats from puppies to seniors.
   Updated: 2025-10-04T11:37:41Z
@@ -24541,8 +24506,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T15:31:21Z
   Total Products: 6
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-06T22:27:47Z
-  Total Products: 2291
+  Updated: 2025-10-07T11:39:41Z
+  Total Products: 2287
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
   Total Products: 14
@@ -24550,7 +24515,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-06-05T15:32:02Z
   Total Products: 3
 - [Hypoallergenic Dog Food - Sensitive Diet Options](https://veryimportantpets.shop/collections/hypoallergenic): Discover our range of Hypoallergenic Dog Food for sensitive pets. Quality brands and natural ingredients for allergy-prone dogs. Shop now for gentle nutrition.
-  Updated: 2025-10-05T11:32:41Z
+  Updated: 2025-10-07T11:39:41Z
   Total Products: 106
 - [Animology Dog Grooming Supplies & Supplements | Shampoo](https://veryimportantpets.shop/collections/animology): Shop Animology at Very Important Pets for award-winning grooming and health products. Trusted in 50+ countries for superior pet care. Free Next day delivery.
   Updated: 2025-09-12T11:37:33Z
@@ -24598,7 +24563,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-29T20:27:59Z
   Total Products: 9
 - [Senior Dog Food- Optimal Nutrition for Older Dogs | VIPs](https://veryimportantpets.shop/collections/senior-dog-food): Shop for specialised senior or mature life-stage dog food - tailored nutrition for older dogs with joint support and essential vitamins for health and vitality.
-  Updated: 2025-10-05T11:32:41Z
+  Updated: 2025-10-07T11:39:41Z
   Total Products: 76
 - [Verm-X Natural Supplements: Eco-Friendly, Vet Approved Care](https://veryimportantpets.shop/collections/verm-x): Explore Verm-X's natural supplements for pets at Very Important Pets. Ethically made in the UK, vet-approved, eco-friendly products promote holistic animal health.
   Updated: 2025-05-04T17:44:26Z
