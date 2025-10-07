@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-07T08:00:47.557Z
+- Updated At: 2025-10-07T16:00:47.241Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-10-07T06:40:41Z
+  Updated: 2025-10-07T13:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -6249,7 +6249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Mock-Neck-Flutter-Sleeve-Peplum-Top-Brinxx-Couture-931.jpg?v=1709369452
     Price: $20.00 USD
 - [Printed Tube Jumpsuit With Belt - Brinxx Couture](https://www.brinxxcouture.com/products/kgl2-24-ej1527x-id-56843): This stylish jumpsuit is perfect for any occasion. The sleeveless design and self-tie belt create a flattering silhouette, while the printed fabric adds a touch of personality. Whether you're dressing up for a night out or down for a casual day, this jumpsuit is sure to turn heads.
-  Updated: 2025-10-02T17:12:06Z
+  Updated: 2025-10-07T12:27:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -6263,7 +6263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Printed-Tube-Jumpsuit-With-Belt-Brinxx-Couture-6539.jpg?v=1709370387
     Price: $48.00 USD
   - [Orange / 3XL](https://www.brinxxcouture.com/products/kgl2-24-ej1527x-id-56843?variant=42247401996470)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Printed-Tube-Jumpsuit-With-Belt-Brinxx-Couture-6539.jpg?v=1709370387
     Price: $48.00 USD
   - [Blue / 1XL](https://www.brinxxcouture.com/products/kgl2-24-ej1527x-id-56843?variant=42247402029238)
@@ -7470,7 +7470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Short-Sleeve-Mini-Dress-Brinxx-Couture-3030.jpg?v=1709841777
     Price: $19.99 USD
 - [Long Tie Waist Pocketed Pants - Brinxx Couture](https://www.brinxxcouture.com/products/long-tie-waist-pocketed-pants): Look good and feel confident in our Long Tie Waist Pocketed Pants. Crafted with breathable fabric, these pants have a unique tie waist for flattering comfort.
-  Updated: 2025-10-02T17:12:08Z
+  Updated: 2025-10-07T09:01:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8482,7 +8482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-07T06:21:22Z
+  Updated: 2025-10-07T13:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9544,7 +9544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Gradient-Sports-Tank-and-Leggings-Set-Brinxx-Couture-5408.jpg?v=1709850856
     Price: $34.99 USD
 - [Snap Down Collared Winter Coat - Brinxx Couture](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat): Stay warm and stylish in this Snap Down Collared Winter Coat. The high-quality fabric and unique snap closure ensures a weatherproof fit.
-  Updated: 2025-10-02T17:12:11Z
+  Updated: 2025-10-07T09:41:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12315,7 +12315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Printed-Bodysuit-Brinxx-Couture-3828.jpg?v=1709869547
     Price: $16.99 USD
 - [Turtleneck Long Sleeve Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/turtleneck-long-sleeve-bodysuit): This ultra-soft and stretchy bodysuit is designed to keep you comfortable all day long. Its stylish turtleneck and long sleeves make it perfect for a fashionable everyday look.
-  Updated: 2025-10-01T22:27:52Z
+  Updated: 2025-10-07T09:55:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21923,7 +21923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-06T06:20:37Z
+  Updated: 2025-10-07T08:21:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-07T07:41:31Z
+  Updated: 2025-10-07T15:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26065,7 +26065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-10-04T08:20:36Z
+  Updated: 2025-10-07T08:40:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26075,7 +26075,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Lace-Long-Sleeve-Blouse-Brinxx-Couture-246.jpg?v=1730300529
     Price: $29.99 USD
   - [Black / M](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse?variant=43531889606838)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Lace-Long-Sleeve-Blouse-Brinxx-Couture-246.jpg?v=1730300529
     Price: $29.99 USD
   - [Black / L](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse?variant=43531889639606)
@@ -26130,7 +26130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-07T07:20:57Z
+  Updated: 2025-10-07T11:00:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36341,7 +36341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025320L.jpg?v=1759501750
     Price: $35.00 USD
 - [Solid Knit Turtleneck Loose Sweater Long Sleeve | Brinxx Couture](https://www.brinxxcouture.com/products/solid-knit-turtleneck-loose-sweater-long-sleeve): Cozy oversized turtleneck sweater with long sleeves. Soft knit fabric, loose fit perfect for layering. Comfortable plus size friendly design.
-  Updated: 2025-10-04T07:42:00Z
+  Updated: 2025-10-07T12:27:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
