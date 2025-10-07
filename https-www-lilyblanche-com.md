@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-07T00:00:43.967Z
+- Updated At: 2025-10-07T04:00:43.591Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16886,7 +16886,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £630.00 GBP
 - [Men's St Christopher Necklace In Silver & Free Engraving & Stylish](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver): Buy Men's St Christopher Necklaces at Lily Blanche. Our stylish silver St Christopher men's necklace comes with different chain lengths to suit your outfit choices. Uplift your fashion fits today with our popular men's necklaces. Shop & save on quality jewellery with Lily Blanche.
-  Updated: 2025-10-06T14:12:29Z
+  Updated: 2025-10-07T02:04:48Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22277,7 +22277,7 @@ From £190.
     Availability: Available
     Price: £510.00 GBP
 - [Solid White Gold Diamond Cross Ring | Luxury Fine Diamond Band](https://www.lilyblanche.com/products/solid-white-gold-diamond-cross-ring): Shop our Solid White Gold Diamond Cross Ring featuring 42 sparkling diamonds in interlocking bands. Sizes J - Q. Order today and receive a free care kit.
-  Updated: 2025-10-06T12:25:13Z
+  Updated: 2025-10-07T00:23:40Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
