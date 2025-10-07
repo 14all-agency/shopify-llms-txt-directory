@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-06T20:01:14.473Z
+- Updated At: 2025-10-07T00:01:14.518Z
 
 ## Products
 
@@ -1640,7 +1640,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-carrier-with-cushion-for-small-dogs-and-cats-khaki-pet-carrier-533818.jpg?v=1700655031
   Price: £62.99 GBP
 - [48.5cm Pet Carrier, with Cushion, for Miniature Dogs](https://veryimportantpets.shop/products/compact-48-5cm-pet-carrier-for-miniature-dogs-with-cushion): Transport and comfort your pet with ease using our versatile fabric dog crate. Featuring a removable steel tube frame for compact storage, a washable soft cushion, and three doors with mesh windows for ventilation. This portable pet haven doubles as a cosy lounge at home and comes with a handy storage bag.
-  Updated: 2025-09-26T15:31:10Z
+  Updated: 2025-10-06T23:30:45Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -3374,7 +3374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof-outdoor-cat-house-grey-469173.jpg?v=1700656486
     Price: £116.99 GBP
 - [Rattan Elevated Cat Bed House Kitten Basket Ball Shaped Pet Furniture w/ Removable Cushion](https://veryimportantpets.shop/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion): With this PawHut PE rattan house, cats will have the cosiest spot going. Shop online at Very Important Pets
-  Updated: 2025-10-05T23:30:42Z
+  Updated: 2025-10-06T23:30:39Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4103,7 +4103,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-transparent-sliding-doors-breathable-mesh-for-lizards-horned-frogs-snakes-and-chameleons-205750.jpg?v=1700649306
   Price: £71.99 GBP
 - [Reptile Terrarium Vivarium, Climbing Pet Containers, Reptile Habitat with Sliding Doors, Breathable Mesh, Easy to Install, for Lizards, Horned Frogs, Snakes, Chameleons, 80 x 40 x 40 cm](https://veryimportantpets.shop/products/reptile-terrarium-vivarium-climbing-pet-containers-reptile-habitat-with-sliding-doors-breathable-mesh-easy-to-install-for-lizards-horned-frogs-snakes-chameleons-80-x-40-x-40-cm): Do you want to give your pets real wild heaven? Our PawHut reptile tank is your best choice. Shop online at Very Important Pets
-  Updated: 2025-10-06T15:30:52Z
+  Updated: 2025-10-06T23:30:42Z
   Vendor: PawHut
   Product Type: Reptile & Amphibian Houses
   Availability: Available
@@ -4208,7 +4208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-pine-chicken-coop-with-nesting-box-chicken-coop-dark-grey-288626.jpg?v=1700651229
     Price: £134.99 GBP
 - [Large Rabbit Hutch with Run, Outdoor Bunny Cage, with Tray, Ramp - Light Grey](https://veryimportantpets.shop/products/large-rabbit-hutch-with-run-outdoor-bunny-cage-with-tray-ramp-light-grey): Need a safe home for small pets? This spacious PawHut rabbit hutch has it all. Shop online at Very Important Pets
-  Updated: 2025-10-02T15:30:49Z
+  Updated: 2025-10-06T23:30:45Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4478,7 +4478,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-10-06T15:30:52Z
+  Updated: 2025-10-06T23:30:42Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4679,7 +4679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-pushchair-for-small-miniature-dogs-cats-foldable-travel-carriage-with-wheels-zipper-entry-cup-holder-storage-basket-pet-stroller-black-110598.jpg?v=1700605144
     Price: £53.99 GBP
 - [8 Panel Foldable Pet Gate or Playpen with Support Feet - Small and Medium Dogs](https://veryimportantpets.shop/products/8-panels-foldable-pet-playpen-with-support-feet-for-house-doorway-stairs-small-and-medium-dogs): Turn pet safety into a delightful experience! Our PawHut eight-panel dog barrier offers a style, versatility and durability fusion. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:37Z
+  Updated: 2025-10-06T23:30:41Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -6636,7 +6636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/harringtons-just-6-chicken-dry-dog-food-adult-dry-4x2kg-478616.jpg?v=1727991995
     Price: £35.54 GBP
 - [Harringtons Dog Just 6 Lamb: Grain-Free Dry Dog Food](https://veryimportantpets.shop/products/harringtons-dog-just-6-lamb): Harringtons Dog Just 6 Lamb: Delicious grain-free dry dog food with over 50% lamb & salmon for taste, nutrition, and digestion. Hypoallergenic recipe.
-  Updated: 2025-10-06T19:49:50Z
+  Updated: 2025-10-06T20:38:05Z
   Vendor: Harringtons
   Product Type: Adult Dry
   Availability: Available
@@ -15404,7 +15404,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/breeder-celect-plus-kitten-litter-25-l-litter-677121.jpg?v=1702498522
   Price: £17.99 GBP
 - [Friendly Natural Cat Litter](https://veryimportantpets.shop/products/friendly-natural-cat-litter): Friendly Natural Cat Litter has been developed to provide a highly absorbent clean economic product that at the same time as giving comfort to your cat cares for the environment. Shop online at Very Important Pets
-  Updated: 2025-10-06T17:28:14Z
+  Updated: 2025-10-06T22:27:51Z
   Vendor: Friendly
   Product Type: 
   Availability: Available
@@ -20337,7 +20337,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-snaffle-pack-bowl-set-single-travel-bowl-480916.jpg?v=1708113050
   Price: £28.25 GBP
 - [Henry Wag Store Fresh Food Box](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box): Henry Wag Store Fresh Food Box. Shop online at Very Important Pets
-  Updated: 2025-09-24T13:28:31Z
+  Updated: 2025-10-06T21:53:35Z
   Vendor: Henry Wag
   Product Type: 
   Availability: Available
@@ -21236,27 +21236,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/snug-cosy-san-remo-chunky-cord-dog-bed-dog-baskets-beds-l-76-cm-896877.jpg?v=1708113816
     Price: £38.99 GBP
-- [Van Ness Pet Food Storage Container](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container): Pure Ness Pet Food Storage Containers. Shop online at Very Important Pets
-  Updated: 2025-10-06T13:35:57Z
+- [Durable Pet Food Storage Container with Fresh-Tight Seal](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container): Keep your pet's food fresh and secure with Pure Ness Pet Food Storage Container. Made in the USA, with a fresh-tight seal and durable construction.
+  Updated: 2025-10-06T21:49:23Z
   Vendor: Van Ness
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/van-ness-pet-food-storage-container-pet-food-storage-45-kg-494803.jpg?v=1708113815
-  - [2.3 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265976098)
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Petlife-Van-Ness-Pet-Food-Storage-Container-2.2g.jpg?v=1759784811
+  - [2.2 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265976098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/van-ness-pet-food-storage-container-pet-food-storage-23-kg-162032.jpg?v=1708113815
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Petlife-Van-Ness-Pet-Food-Storage-Container-2.2g.jpg?v=1759784811
     Price: £11.75 GBP
   - [4.5 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265877794)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/van-ness-pet-food-storage-container-pet-food-storage-45-kg-494803.jpg?v=1708113815
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Petlife-Van-Ness-Pet-Food-Storage-Container-4.6kg.jpg?v=1759784987
     Price: £13.42 GBP
-  - [11.3 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265910562)
+  - [11 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265910562)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/van-ness-pet-food-storage-container-pet-food-storage-113-kg-698359.jpg?v=1708113815
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/FC25_v7-scaled.jpg?v=1759785863
     Price: £24.51 GBP
-  - [22.6 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265943330)
+  - [22 kg](https://veryimportantpets.shop/products/van-ness-pet-food-storage-container?variant=47604265943330)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/van-ness-pet-food-storage-container-pet-food-storage-226-kg-314797.jpg?v=1708113815
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/FC50_v7-scaled.jpg?v=1759786084
     Price: £37.76 GBP
 - [VetBed Nonslip Charcoal with Red Polka Dots](https://veryimportantpets.shop/products/vetbed-nonslip-charcoal-with-red-polka-dots): VetBed Polka Nonslip. Shop online at Very Important Pets
   Updated: 2025-09-22T18:54:04Z
@@ -21984,7 +21984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/eukanuba-breed-specific-german-shepherd-adult-dog-food-12kg-adult-dry-859652.png?v=1711912470
   Price: £49.01 GBP
 - [Eukanuba Puppy Small/Medium Breed Lamb & Rice Dog Food](https://veryimportantpets.shop/products/eukanuba-puppy-small-medium-breed-lamb-rice-dog-food): Keep your growing puppy happy and healthy with Eukanuba dry food. Made with fresh lamb and rice, it's perfect for small to medium breeds aged 1-12 months.
-  Updated: 2025-10-06T19:27:48Z
+  Updated: 2025-10-06T22:27:51Z
   Vendor: Eukanuba
   Product Type: Puppy/Junior Dry
   Availability: Available
@@ -21994,9 +21994,9 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003693_158953_06e56beffa.webp?v=1759771670
     Price: £49.55 GBP
   - [3 x 3 kg](https://veryimportantpets.shop/products/eukanuba-puppy-small-medium-breed-lamb-rice-dog-food?variant=56062600544629)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/csm_T90003692_158953_58aa73a293.webp?v=1759771670
-    Price: £3.30 GBP
+    Price: £54.52 GBP
 - [Versele Laga Opti Life Adult Dog All Breed Active Dry 12.5kg](https://veryimportantpets.shop/products/versele-laga-opti-life-adult-active-for-all-breeds-12-5kg): Versele Laga Opti Life Adult Active Chicken Dry Food- balanced diet for active dogs, suitable for all breeds, nursing dogs, and those recovering from illness.
   Updated: 2025-09-22T18:54:03Z
   Vendor: Versele Laga
@@ -23755,7 +23755,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-05T11:32:41Z
   Total Products: 201
 - [Dry Dog Food & Kibble - Premium Brands | Very Important Pets](https://veryimportantpets.shop/collections/dry-dog-food): Find tailored dry dog food nutrition for all breeds, ages, and diets, including grain-free and hypoallergenic. Perfect for your dog’s health and taste preferences.
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 432
 - [Wet Dog Food: Premium Brands & Nutritious Meals | VIPs](https://veryimportantpets.shop/collections/wet-dog-food): Explore premium wet dog food at Very Important Pets for all breeds. Shop hydrating, nutritious meals from Royal Canin, James Wellbeloved, Forthglade, and more.
   Updated: 2025-10-05T11:32:41Z
@@ -23773,7 +23773,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-05T16:21:28Z
   Total Products: 8
 - [Premium Dry Puppy Food - Nutritious Choices for Growing Pups](https://veryimportantpets.shop/collections/dry-puppy-food): Shop quality Dry Puppy Food at Very Important Pets. Discover our range of gluten-free, hypoallergenic, breed-specific foods for healthy puppy growth.
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 85
 - [Quality Puppy Wet Food - Top Brands & Nutritious Varieties](https://veryimportantpets.shop/collections/wet-puppy-food): Explore our Puppy Wet Food collection at Very Important Pets. Grain-free options, essential nutrients for growth. Featuring brands like James Wellbeloved & more
   Updated: 2025-10-02T18:55:20Z
@@ -23851,7 +23851,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T15:50:25Z
   Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 571
 - [B Corp: Ethical & Sustainable Choices | Very Important Pets](https://veryimportantpets.shop/collections/b-corp): Shop ethically with B Corp-certified pet supplies at Very Important Pets! Find products focused on environmental care, social responsibility, and animal welfare.
   Updated: 2025-10-01T21:47:34Z
@@ -23881,7 +23881,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-06-07T16:22:33Z
   Total Products: 0
 - [Puppy - Very Important Pets | Shop](https://veryimportantpets.shop/collections/puppy): Puppy - Very Important Pets | Shop
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 144
 - [PawHut - Quality Pet Products for Home and Outdoors](https://veryimportantpets.shop/collections/pawhut): PawHut - Quality Pet Products for Home and Outdoors - Very Important Pets | Shop
   Updated: 2025-10-06T15:31:21Z
@@ -23890,7 +23890,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 1756
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-10-05T16:40:58Z
@@ -24319,8 +24319,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-04T17:42:45Z
   Total Products: 13
 - [Cat Bowls and Feeding](https://veryimportantpets.shop/collections/cat-bowls-and-feeding)
-  Updated: 2025-05-04T17:44:07Z
-  Total Products: 9
+  Updated: 2025-10-06T21:20:03Z
+  Total Products: 14
 - [Play Tunnels](https://veryimportantpets.shop/collections/play-tunnels)
   Updated: 2025-08-08T09:28:53Z
   Total Products: 2
@@ -24337,7 +24337,7 @@ Omega-6 & 3 for skin.
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 1702
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24469,7 +24469,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-03T11:38:27Z
   Total Products: 11
 - [Eukanuba: Tailored Life-Stage Pet Food | Very Important Pets](https://veryimportantpets.shop/collections/eukanuba): Explore Eukanuba premium pet nutrition, expertly crafted for every life stage. Advanced, high-quality formulas for optimal health from puppy to senior years.
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 34
 - [Gelert Country Choice Dog Food UK | Hypoallergenic & Grain-Free](https://veryimportantpets.shop/collections/gelert): Gelert dog food from Wales since 1982. Hypoallergenic, small-batch recipes—grain-free, no wheat, soya or dairy—for working dogs, puppies & adults. Shop now.
   Updated: 2025-10-01T11:40:05Z
@@ -24541,7 +24541,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T15:31:21Z
   Total Products: 6
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-06T18:27:50Z
+  Updated: 2025-10-06T22:27:47Z
   Total Products: 2291
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
