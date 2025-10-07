@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-10-07T16:00:27.103Z
+- Updated At: 2025-10-07T20:00:27.729Z
 
 ## Products
 
@@ -107,81 +107,81 @@
     Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/siokilif4.jpg?v=1759851714
     Price: ₺325,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Turuncu](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-turuncu): Apple iPhone 12 Pro Wlons Hill Kılıf Turuncu rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:04:56Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172694-17-B_1800x1800_ac36ba60-8a23-4c62-8331-7aa5d4ab7034.jpg?v=1759852144
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Sarı](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-sari): Apple iPhone 12 Pro Wlons Hill Kılıf Sarı rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:08:03Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172695-17-B_1800x1800_jpg.webp?v=1758375427
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172695-17-B_1800x1800_jpg.webp?v=1759856882
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Pembe](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-pembe): Apple iPhone 12 Pro Wlons Hill Kılıf Pembe rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:34:09Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172696-17-B_1800x1800_jpg.webp?v=1758375433
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172696-17-B_1800x18002_b0801a98-8e8b-4ac4-8840-664634da8ee6.png?v=1759858448
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Mavi](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-mavi): Apple iPhone 12 Pro Wlons Hill Kılıf Mavi rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:12:34Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172697-17-B_1800x1800_jpg.webp?v=1758375439
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172697-17-B_1800x1800_jpg.webp?v=1759857154
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Açık Yeşil](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-acik-yesil): Apple iPhone 12 Pro Wlons Hill Kılıf Açık Yeşil rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:12:57Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172698-17-B_1800x1800_jpg.webp?v=1758375445
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172698-17-B_1800x1800_jpg.webp?v=1759857176
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Beyaz](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-beyaz): Apple iPhone 12 Pro Wlons Hill Kılıf Beyaz rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:13:45Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173456-17-B_1800x1800_jpg.webp?v=1758375451
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173456-17-B_1800x1800_jpg.webp?v=1759857224
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Siyah](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-siyah): Apple iPhone 12 Pro Wlons Hill Kılıf Siyah rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:15:06Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173450-17-B_1800x1800_jpg.webp?v=1758375457
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173450-17-B_1800x1800_jpg.webp?v=1759857305
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Su Yeşili](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-su-yesili): Apple iPhone 12 Pro Wlons Hill Kılıf Su Yeşili rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:04:56Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173451-17-B_1800x1800_jpg.webp?v=1758375463
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Kırmızı](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-kirmizi): Apple iPhone 12 Pro Wlons Hill Kılıf Kırmızı rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:16:33Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173452-17-B_1800x1800_jpg.webp?v=1758375470
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173452-17-B_1800x1800_jpg.webp?v=1759857392
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Lacivert](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-lacivert): Apple iPhone 12 Pro Wlons Hill Kılıf Lacivert rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:17:36Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173453-17-B_1800x1800_jpg.webp?v=1758375475
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173453-17-B_1800x1800_jpg.webp?v=1759857455
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Haki Yeşil](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-haki-yesil): Apple iPhone 12 Pro Wlons Hill Kılıf Haki Yeşil rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T15:55:46Z
+  Updated: 2025-10-07T17:18:00Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173455-17-B_1800x1800_jpg.webp?v=1758375480
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173455-17-B_1800x1800_jpg.webp?v=1759857479
   Price: ₺850,00 TRY
 - [iPhone 13 Zebana NeoFiber Silikon MagSafe Özellikli Kılıf](https://etycase.com/products/iphone-13-zebana-neofiber-silikon-magsafe-ozellikli-kilif): iPhone 13 Zebana NeoFiber Silikon MagSafe Özellikli Kılıf (Kablosuz Şarj)Gücünü Karbon Fiberden Alan Teknoloji Zebana NeoFiber Kılıf ile cihazınız her an güvende! Hafifliğini ve dayanıklılığını karbon fiberden alan bu kılıf, aynı zamanda Kablosuz Şarj uyumluluğu ile fonksiyonelliği artırıyor.
   Updated: 2025-10-07T08:27:06Z
