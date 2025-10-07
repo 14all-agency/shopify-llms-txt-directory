@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-07T12:00:33.458Z
+- Updated At: 2025-10-07T16:00:32.734Z
 
 ## Products
 
