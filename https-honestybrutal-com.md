@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-06T16:00:31.013Z
+- Updated At: 2025-10-07T08:00:30.224Z
 
 ## Products
 
@@ -1808,7 +1808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/LushMirageTeeFront.jpg?v=1756430552
     Price: $75.00 USD
 - [Night Petal Tee](https://honestybrutal.com/products/night-petal-tee): The Artistic Statement: Velvety violets and bruised mauves unfold in layered motion. Night Petal blooms from shadow, each petal-like form pulsing with the rhythm of dusk—dark, radiant, and quietly hypnotic. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
-  Updated: 2025-10-04T04:47:14Z
+  Updated: 2025-10-07T02:38:42Z
   Vendor: Honesty Brutal
   Product Type: 
   Availability: Available
