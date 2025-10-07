@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-06T20:00:32.393Z
+- Updated At: 2025-10-07T00:00:34.258Z
 
 ## Products
 
@@ -10115,7 +10115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/2936c753-a09a-41b1-8f59-b206d1e8a581.jpg?v=1759296964
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-aspect-hd-fitbit-versa-3-and-sense-1-watch-band): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-10-06T18:55:12Z
+  Updated: 2025-10-06T22:15:51Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10571,7 +10571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8-PickleballBlue-HDA_634b800f-85ba-4316-a65b-00202f2f552b.jpg?v=1759297222
     Price: $29.99 USD
 - [Pickleball iPhone 16 Mag-Safe Case for Stylish Protection on the Go](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case): Protect your iPhone 16 in style with our Pickleball iPhone 16 Mag-Safe Case. Enjoy ultimate durability and a sleek design, perfect for pickleball lovers on the go!
-  Updated: 2025-10-06T18:56:18Z
+  Updated: 2025-10-06T22:17:15Z
   Vendor: Affinity Bands
   Product Type: Pickleball HD iPhone 16 Case
   Availability: Available
@@ -10705,7 +10705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/57c9ebdf-6f5d-40c4-a5f9-ed75f6745a78.jpg?v=1759297276
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-apple-watch-band): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-06T15:33:34Z
+  Updated: 2025-10-06T22:16:07Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10855,7 +10855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/9-Edge-Snow.jpg?v=1759297333
     Price: $29.99 USD
 - [Pride HD iPhone 16 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case): Protect your iPhone 16 in style with the Pride HD iPhone 16 Mag-Safe Case. Experience ultimate durability and a sleek design that enhances your device's look and feel.
-  Updated: 2025-10-06T18:56:17Z
+  Updated: 2025-10-06T22:17:00Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone 16 Case
   Availability: Available
@@ -11412,6 +11412,38 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/basic-unisex-windbreaker-forest-green-front-68db51c488464.jpg?v=1759297460
     Price: $25.00 USD
+- [Under Armour® Backpack - Soul threads](https://soulthreads25.com/products/under-armour®-backpack): Your go-to backpack for work, workouts, and everything in between. Water-resistant with a soft-lined laptop sleeve, expandable storage, and a balanced strap system for all-day comfort. • 93% polyester, 7% nylon • Highly water-resistant and stain-resistant UA Storm fabric • Dimensions: H 20.1″ (51.1 cm), W 12.6″ (32 cm), D 6.6″ (16.8 cm) • Capacity: 7.24 gal. (27.4 l) • LEVELED™ strap system for an even weight distribution • Soft-lined laptop pocket that fits a 16″ laptop • Side water bottle pocket that fits a 32 oz. bottle • Secure zip front pockets • Blank product sourced from Cambodia - Soul threads
+  Updated: 2025-10-06T20:06:10Z
+  Vendor: Soul threads
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/under-armour-backpack-black-front-68e42123c14dd.jpg?v=1759781169
+  Price: $67.50 USD
+- [Eco Tote Bag - Soul threads](https://soulthreads25.com/products/eco-tote-bag): Say goodbye to plastic, and bag your goodies in this organic cotton tote bag. There’s more than enough room for groceries, books, and anything in between. • 100% certified organic cotton 3/1 twill • Fabric weight: 8 oz/yd² (272 g/m²) • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg) • 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length • Open main compartment • Blank product sourced from India This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! - Soul threads
+  Updated: 2025-10-06T20:29:35Z
+  Vendor: Soul threads
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/eco-tote-bag-black-front-68e42186dc097.jpg?v=1759781260
+  Price: $19.50 USD
+- [Throw Blanket - Soul threads](https://soulthreads25.com/products/throw-blanket): Do you feel that your home is missing an eye-catching, yet practical design element? Solve this problem with a soft silk touch throw blanket that's ideal for lounging on the couch during chilly evenings. • 100% polyester • Soft silk touch fabric • Printing on one side • White reverse side • Machine-washable • Hypoallergenic • Flame retardant • Blank product sourced from China - Soul threads
+  Updated: 2025-10-06T20:19:27Z
+  Vendor: Soul threads
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/throw-blanket-50x60-front-68e42427793c1.jpg?v=1759781959
+  - [30″×40″](https://soulthreads25.com/products/throw-blanket?variant=51460532764903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/throw-blanket-30x40-front-68e4242779a28.jpg?v=1759781966
+    Price: $31.50 USD
+  - [50″×60″](https://soulthreads25.com/products/throw-blanket?variant=51460532797671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/throw-blanket-50x60-front-68e42427793c1.jpg?v=1759781959
+    Price: $37.50 USD
+  - [60″×80″](https://soulthreads25.com/products/throw-blanket?variant=51460532830439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/throw-blanket-60x80-front-68e4242779988.jpg?v=1759781963
+    Price: $51.00 USD
 
 ## Collections
 
@@ -11434,17 +11466,17 @@
   Updated: 2025-09-25T23:24:38Z
   Total Products: 1
 - [Spiritual Bags for Every Journey - Embrace Your Path with Style](https://soulthreads25.com/collections/bags): Explore our Spiritual Bags Collection for Every Journey. Perfectly crafted spiritual bags to enhance your travels and uplift your soul. Find the perfect bag for your journey today!
-  Updated: 2025-10-04T01:36:06Z
-  Total Products: 4
+  Updated: 2025-10-06T20:19:15Z
+  Total Products: 7
 - [Phone Cases - Stylish Accessories for Every Lifestyle You Love](https://soulthreads25.com/collections/accessories): Discover our collection of stylish phone cases designed for every lifestyle. Protect your phone in style with our trendy and durable accessories. Shop now for the perfect case!
   Updated: 2025-09-28T21:35:26Z
   Total Products: 15
 - [spiritual clothing - AVADA Best Sellers Top Collection for You](https://soulthreads25.com/collections/avada-best-sellers): Discover our AVADA Best Sellers - Top Spiritual Clothing Collection. Elevate your style and spirit with our unique spiritual clothing designed for mindfulness and self-expression.
-  Updated: 2025-10-06T15:41:55Z
-  Total Products: 112
+  Updated: 2025-10-06T20:19:41Z
+  Total Products: 115
 - [Spirital Clothing - APPPlaza Best Sellers for Mindful Living](https://soulthreads25.com/collections/spiritual-wear): Discover APPPlaza's best sellers in spirital clothing. Embrace comfort and style while showcasing your unique spirit. Shop now for exclusive designs that inspire!
-  Updated: 2025-10-06T15:41:55Z
-  Total Products: 112
+  Updated: 2025-10-06T20:19:41Z
+  Total Products: 115
 
 ## Blogs
 
