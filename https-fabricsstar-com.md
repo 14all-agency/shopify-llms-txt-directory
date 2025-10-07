@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-06T00:00:34.051Z
+- Updated At: 2025-10-07T12:00:34.887Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-09-30T01:58:31Z
+  Updated: 2025-10-07T02:02:02Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-10-02T18:03:31Z
+  Updated: 2025-10-06T16:06:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-05T02:29:30Z
+  Updated: 2025-10-06T19:07:33Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -4607,7 +4607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/QUINCY-BLUSH.jpg?v=1757517987
     Price: $1.00 USD
 - [FIESTA Striped Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Arts and Crafts](https://fabricsstar.com/products/fiesta-striped-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-25T20:04:38Z
+  Updated: 2025-10-07T07:58:25Z
   Vendor: Fabrics Star
   Product Type: Striped Sequin Fabric
   Availability: Available
@@ -9625,10 +9625,10 @@
   Updated: 2025-09-16T00:42:42Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-10-03T11:13:41Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-05T11:12:03Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-09-22T11:12:28Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-09-17T11:11:23Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-05T11:12:03Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-05T11:12:03Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-05T11:12:03Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 533
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-05T11:12:03Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-05T11:12:03Z
+  Updated: 2025-10-07T11:12:53Z
   Total Products: 666
 
 ## Blogs
@@ -9693,6 +9693,9 @@
     Author: User
   - [Expert Advice on Styling Fabrics for All Seasons](https://fabricsstar.com/blogs/news/expert-advice-on-styling-fabrics-for-all-seasons): Expert Advice on Styling Fabrics for All Seasons
     Updated: 2025-10-05T00:10:35Z
+    Author: User
+  - [Exploring Textural Traditions in Global Fabric Cultures](https://fabricsstar.com/blogs/news/exploring-textural-traditions-in-global-fabric-cultures): Exploring Textural Traditions in Global Fabric Cultures
+    Updated: 2025-10-06T03:13:01Z
     Author: User
 
 ## Store Pages
