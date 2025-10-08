@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-07T16:00:28.540Z
+- Updated At: 2025-10-08T20:00:29.479Z
 
 ## Products
 
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO](https://verdesmeraldaolive.us/collections/aove)
-  Updated: 2025-10-05T11:15:35Z
+  Updated: 2025-10-08T11:15:57Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -102,16 +102,16 @@
   Updated: 2025-09-30T18:02:33Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-10-05T11:15:35Z
+  Updated: 2025-10-08T11:15:57Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-10-05T11:15:35Z
+  Updated: 2025-10-08T11:15:57Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-10-05T11:15:35Z
+  Updated: 2025-10-08T11:15:57Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-10-05T11:15:35Z
+  Updated: 2025-10-08T11:15:57Z
   Total Products: 10
 
 ## Blogs
