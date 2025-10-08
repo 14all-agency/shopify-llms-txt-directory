@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-07T12:00:28.533Z
+- Updated At: 2025-10-08T08:00:29.509Z
 
 ## Products
 
@@ -1426,7 +1426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d65873d1-a72c-4d75-af18-a23c05e9db52.webp?v=1758910294
     Price: $20.00 USD
 - [Women's Cropped Sweatshirt |](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt): Make a statement with head-turning style with the Bella+Canvas 7503 women's cropped sweatshirt. This sweatshirt is designed to meet your fashion-forward desires. Crafted with breathable and smooth fleece material, it offers a luxurious touch. These classic women's cropped shirts are the ideal choice for everyday wear. The drop-shoulder seam and relaxed fit combine to create a comfortable yet flattering look that effortlessly enhances your silhouette. Elevate your wardrobe with this must-have piece that exudes both comfort and style. Features: Dropped shoulders, ribbed-knit cuffs and collar, raw bottom hem, tear-away label Fabrication: 52% Airlume combed and ringspun cotton, 48% Polyester This product is made on demand. No minimums. Size guide S M L XL 2XL A) Length (cm) 47 48.9 52.1 56.5 56.9 B) Width (cm) 108.6 115.6 127.6 137.8 148 B) Half Chest (cm) 54.3 57.8 63.8 68.9 74 S M L XL 2XL A) Length (inches) 18.5 19.3 20.5 22.2 22.4 B) Width (inches) 42.8 45.5 50.2 54.3 58.3 B) Half Chest (inches) 21.4 22.8 25.1 27.1 29.1 Care instructions Wash Machine wash warm (max 40C or 105F) Bleach Only non-chlorine Tumble Dry Tumble dry: low heat Iron Do not iron Dry Clean Do not dry clean
-  Updated: 2025-09-28T09:23:46Z
+  Updated: 2025-10-07T20:24:06Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
@@ -1480,35 +1480,35 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/97d165b4-11bd-48f2-8355-6d0ddc6e14b6.webp?v=1759008220
     Price: $50.00 USD
   - [Brick / S](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218585339)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/247c3633-92ad-475e-aa34-daf69fe24cfc.webp?v=1759008215
     Price: $50.00 USD
   - [Brick / M](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218618107)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/247c3633-92ad-475e-aa34-daf69fe24cfc.webp?v=1759008215
     Price: $50.00 USD
   - [Brick / L](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218650875)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/247c3633-92ad-475e-aa34-daf69fe24cfc.webp?v=1759008215
     Price: $50.00 USD
   - [Brick / XL](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218683643)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/247c3633-92ad-475e-aa34-daf69fe24cfc.webp?v=1759008215
     Price: $50.00 USD
   - [Navy / S](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218716411)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a41685c3-c038-4dfd-a08e-54278b235630.webp?v=1759008217
     Price: $50.00 USD
   - [Navy / M](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218749179)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a41685c3-c038-4dfd-a08e-54278b235630.webp?v=1759008217
     Price: $50.00 USD
   - [Navy / L](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218781947)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a41685c3-c038-4dfd-a08e-54278b235630.webp?v=1759008217
     Price: $50.00 USD
   - [Navy / XL](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218814715)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a41685c3-c038-4dfd-a08e-54278b235630.webp?v=1759008217
     Price: $50.00 USD
   - [Black / S](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218847483)
@@ -1524,7 +1524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6c99dfcf-6599-4538-8b30-232367463adb.webp?v=1759008219
     Price: $50.00 USD
   - [Black / XL](https://rebirthshoponline.myshopify.com/products/womens-cropped-sweatshirt?variant=47556218945787)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6c99dfcf-6599-4538-8b30-232367463adb.webp?v=1759008219
     Price: $50.00 USD
 - [Artistic Pullover Hoodie |](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie): Experience ultimate comfort and style with our unisex sponge fleece pullover hoodie. The front of the hoodie features a spacious pouch-style pocket that adds both functionality and visual appeal. The hood can be easily adjusted using the white draw cord for a personalized fit. To ensure a secure and snug feel, both the cuffs and waistband are designed with ribbing. Embrace this hoodie's cozy embrace and elevate your casual look with ease. Features: Adjustable hood with white drawstrings, spacious pockets, ribbed-knit cuffs and waistband, side seamed This product is made on demand. No minimums. Size guide S M L XL 2XL 3XL A) Length (cm) 67 69.9 72.7 75.6 78.4 81.3 B) Width (cm) 99 109.2 119.4 129.6 139.8 149.8 B) Half Chest (cm) 49.5 54.6 59.7 64.8 69.9 74.9 C) Sleeve Length (cm) 67.3 69.9 72.4 74.9 76.2 77.5 S M L XL 2XL 3XL A) Length (inches) 26.4 27.5 28.6 29.8 30.9 32 B) Width (inches) 39 43 47 51 55 59 B) Half Chest (inches) 19.5 21.5 23.5 25.5 27.5 29.5 C) Sleeve Length (inches) 26.5 27.5 28.5 29.5 30 30.5 Care instructions Wash Machine wash cold (max 30C or 90F) Bleach Only non-chlorine Tumble Dry Tumble dry: low heat Iron Do not iron Dry clean Do not dry clean
