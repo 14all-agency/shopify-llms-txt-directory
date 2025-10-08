@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-07T20:01:00.958Z
+- Updated At: 2025-10-08T04:01:02.722Z
 
 ## Products
 
@@ -46031,7 +46031,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate Low FG](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-06T18:29:01Z
+  Updated: 2025-10-07T23:49:24Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46096,7 +46096,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-06T22:31:31Z
+  Updated: 2025-10-07T23:49:24Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46341,7 +46341,7 @@
 - [נעלי כדורגל King Ultimate FG/AG](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T11:40:01Z
+  Updated: 2025-10-07T23:22:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46406,7 +46406,7 @@
 - [נעלי כדורגל מקצועיות King Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T12:27:56Z
+  Updated: 2025-10-08T00:07:12Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46451,7 +46451,7 @@
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
 - [כפפות שוער Puma Future Ultimate Negative Cut](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult): כפפות השוער Puma Future Ultimate Negative Cut מעניקות שליטה ומגע מושלם עם הכדור, עם חיתוך שלילי שמקרב את היד לכדור ומאפשר תחושת דיוק גבוהה בכל פעולה. החלק האחורי כולל חוטי אחיזה משולבים לפונצ'ינג עוצמתי, ללא נפח מיותר, בעוד שהחומר האלסטי והנושם מתאים בצורה טבעית לכף היד ומאפשר תנועה חופשית של האצבעות. ניקובים בחומר משפרים את זרימת האוויר לנוחות מירבית. כף היד עשויה מלך ELITE+ Dual Grip 2.0 איכותי, עם חלקיקים דביקים במיוחד לאחיזה יציבה בכל תנאי מזג האוויר. מערכת הסגירה ללא רצועה אלסטית שומרת על התאמה צמודה ונוחה לאורך כל המשחק.
-  Updated: 2025-10-07T13:22:19Z
+  Updated: 2025-10-08T01:06:55Z
   Vendor: R:Sport
   Product Type: כפפות שוער
   Availability: Available
@@ -46479,10 +46479,49 @@
     Price: ‏849.90 ‏₪ ILS
   - [10.5](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801492013306)
     Availability: Available
-    Price: ‏369.90 ‏₪ ILS
+    Price: ‏849.90 ‏₪ ILS
   - [11](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801492046074)
     Availability: Available
-    Price: ‏369.90 ‏₪ ILS
+    Price: ‏849.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly X Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
+  Updated: 2025-10-08T01:17:29Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_e9f29bd2-55d5-4c18-b45a-b487890d8d72.jpg?v=1759886249
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095796474)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095829242)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095862010)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095894778)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095927546)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095960314)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095993082)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096025850)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096091386)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096124154)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096156922)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
 
 ## Collections
 
@@ -46808,11 +46847,11 @@
   Updated: 2025-10-02T11:30:59Z
   Total Products: 11
 - [כפפות שוער](https://www.rsport.co.il/collections/כפפות-שוער)
-  Updated: 2025-10-07T13:22:15Z
-  Total Products: 16
+  Updated: 2025-10-07T20:49:59Z
+  Total Products: 17
 - [שוערים](https://www.rsport.co.il/collections/שוערים)
-  Updated: 2025-10-07T13:22:15Z
-  Total Products: 29
+  Updated: 2025-10-07T20:49:59Z
+  Total Products: 30
 - [חולצות שוער](https://www.rsport.co.il/collections/חולצות-שוער)
   Updated: 2025-10-02T11:52:11Z
   Total Products: 20
@@ -46862,8 +46901,8 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-07T12:25:17Z
-  Total Products: 57
+  Updated: 2025-10-08T00:15:34Z
+  Total Products: 58
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
   Updated: 2025-10-07T11:38:09Z
   Total Products: 48
@@ -46961,8 +47000,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-07T13:22:15Z
-  Total Products: 2061
+  Updated: 2025-10-08T00:15:34Z
+  Total Products: 2063
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -47177,14 +47216,17 @@
   Updated: 2025-10-07T12:07:39Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
-  Updated: 2025-10-07T12:25:17Z
-  Total Products: 6
+  Updated: 2025-10-08T00:15:34Z
+  Total Products: 7
 - [נעלי כדורגל Puma King](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-king)
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
 - [PUMA King Ultimate נעלי כדורגל](https://www.rsport.co.il/collections/puma-king-ultimate-נעלי-כדורגל)
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
+- [Mercurial Superfly נעלי כדורגל](https://www.rsport.co.il/collections/football-boots-mercurial-superfly-נעלי-כדורגל)
+  Updated: 2025-10-08T01:15:00Z
+  Total Products: 1
 
 ## Blogs
 
