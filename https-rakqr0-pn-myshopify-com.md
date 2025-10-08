@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-08T12:00:51.310Z
+- Updated At: 2025-10-08T20:00:52.243Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://rakqr0-pn.myshopify.com/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-08T11:16:00Z
+  Updated: 2025-10-08T13:47:35Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -4854,13 +4854,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/pn5f4_512.webp?v=1759057154
   Price: ₹253.00 INR
-- [Wolfcraft mens wallet with zipper close I 1 coin pocket I 2 money clip I 3 card slot](https://rakqr0-pn.myshopify.com/products/wolfcraft-mens-wallet-with-zipper-close-i-1-coin-pocket-i-2-money-clip-i-3-card-slot-1): Product Details Name : Wolfcraft mens wallet with zipper close I 1 coin pocket I 2 money clip I 3 card slot Material : Faux Leather/Leatherette No. of Compartments : 2 Pattern : Solid Net Quantity (N) : 1 Sizes : Free Size (Length Size: 11 cm, Width Size: 8 cm) This artificial leather wallet is all you need to carry your essentials in one place. This classy wallet is equipped with multiple compartments to store your cards, cash, coins and ID so that you have everything neatly kept. Durable Material This functional wallet is constructed using durable grain leather to ensure lasting service. Durable fabric inner lining adds to its utility. These wallets use leather and premium materials to customize card wallet standard products; Also meet the needs of customers. This component provides the strength to withstand many external influences. The careful and detailed stitches along the edges highlight the strong ability to protect your things. Country of Origin : India More Information
-  Updated: 2025-09-28T10:59:31Z
-  Vendor: DoneDeals
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hx2sb_512.webp?v=1759057165
-  Price: ₹0.00 INR
 - [Men's Cream PU Leather Wallet | Multi-Card Holder | Coin Pocket & Money Clip | Stylish & Durable Wallet](https://rakqr0-pn.myshopify.com/products/mens-cream-pu-leather-wallet-multi-card-holder-coin-pocket-money-clip-stylish-durable-wallet): Product Details Name : Men's Cream PU Leather Wallet | Multi-Card Holder | Coin Pocket & Money Clip | Stylish & Durable Wallet Material : Faux Leather/Leatherette No. of Compartments : 4 Pattern : Solid Net Quantity (N) : 1 Sizes : Free Size (Length Size: 10 cm, Width Size: 11 cm) Upgrade your everyday style with this Men's Black PU Leather Wallet, designed for both elegance and utility. Crafted from premium-quality faux leather, this wallet offers a soft texture and long-lasting durability. Key Features : - – Comes with a dedicated coin pocket, zipper section, and multiple card slots. – Includes a removable card holder for added convenience. – Securely holds your notes in place without bulking up the wallet. & - – Slim design fits easily in your back or front pocket. Perfect for daily use, gifting, or business travel. A must-have accessory for every modern man. Color : Black Material : PU Leather Style : Bi-fold with Coin Pocket, Zip Section & Extra Card Holder Ideal For : Men | Boys | Gifting Country of Origin : India More Information
   Updated: 2025-09-28T11:38:56Z
   Vendor: DoneDeals
@@ -9198,12 +9191,23 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/mc2nr_512.webp?v=1759220636
   Price: ₹592.00 INR
 - [COTTEN BLEND MEN'S REGULAR T-SHIRT](https://rakqr0-pn.myshopify.com/products/cotten-blend-mens-regular-t-shirt): Product Details Name : COTTEN BLEND MEN'S REGULAR T-SHIRT Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 26 in) L (Chest Size : 40 in, Length Size: 27 in) XL (Chest Size : 42 in, Length Size: 28 in) XXL (Chest Size : 44 in, Length Size: 29 in) XXXL, 4XL COTTON PLAIN MENS T-SHIRT WITH POCKET Country of Origin : India More Information
-  Updated: 2025-09-30T09:11:16Z
+  Updated: 2025-10-08T12:06:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/2xuai_512.webp?v=1759220645
-  Price: ₹368.00 INR
+  - [S](https://rakqr0-pn.myshopify.com/products/cotten-blend-mens-regular-t-shirt?variant=43673411125299)
+    Availability: Available
+    Price: ₹368.00 INR
+  - [M](https://rakqr0-pn.myshopify.com/products/cotten-blend-mens-regular-t-shirt?variant=43673411158067)
+    Availability: Available
+    Price: ₹368.00 INR
+  - [L](https://rakqr0-pn.myshopify.com/products/cotten-blend-mens-regular-t-shirt?variant=43673411190835)
+    Availability: Available
+    Price: ₹368.00 INR
+  - [XL](https://rakqr0-pn.myshopify.com/products/cotten-blend-mens-regular-t-shirt?variant=43673411223603)
+    Availability: Available
+    Price: ₹368.00 INR
 - [Cotton Blend Men Cotton Blend Regular Tshirts](https://rakqr0-pn.myshopify.com/products/cotton-blend-men-cotton-blend-regular-tshirts): Product Details Name : Cotton Blend Men Cotton Blend Regular Tshirts Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : XS (Chest Size : 32 in, Length Size: 21 in) S (Chest Size : 34 in, Length Size: 22 in) M (Chest Size : 36 in, Length Size: 23 in) L (Chest Size : 38 in, Length Size: 24 in) XL (Chest Size : 40 in, Length Size: 25 in) XXL (Chest Size : 42 in, Length Size: 26 in) Elevate your everyday look with this essential, ultra-soft plain T-shirt. Crafted from high-quality cotton for a comfortable, breathable fit, it's perfect for layering or wearing on its own. With its timeless design and versatile color options, this T-shirt is a must-have in any wardrobe. Whether you're dressing up for a casual day out or just relaxing at home, this classic piece offers both style and comfort. Key Features : Soft and breathable fabric Classic crew neck design Available in multiple colors Perfect for layering or standalone wear Available in sizes S to XXL Country of Origin : India More Information
   Updated: 2025-09-30T09:11:17Z
   Vendor: DoneDeals
@@ -23698,8 +23702,8 @@
 ## Collections
 
 - [men leather wallet](https://rakqr0-pn.myshopify.com/collections/frontpage)
-  Updated: 2025-10-08T09:12:11Z
-  Total Products: 44
+  Updated: 2025-10-08T12:25:22Z
+  Total Products: 43
 - [clothes](https://rakqr0-pn.myshopify.com/collections/clothes)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
