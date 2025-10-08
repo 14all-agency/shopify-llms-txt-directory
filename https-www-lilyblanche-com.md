@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-08T12:00:46.255Z
+- Updated At: 2025-10-08T16:00:47.144Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16071,7 +16071,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £185.00 GBP
 - [Round Photo Locket | High Quality Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/round-locket-necklace-gold): Looking for a stylish statement necklace? This slimline round 18 carat gold vermeil photo locket, which can be engraved, opens to take two photos or a tiny keepsake.  Free UK Shipping & Luxury Jewellery Care Kit included.
-  Updated: 2025-09-12T07:59:12Z
+  Updated: 2025-10-08T12:57:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16943,7 +16943,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-07T23:54:57Z
+  Updated: 2025-10-08T15:51:18Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16979,7 +16979,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-05T20:52:11Z
+  Updated: 2025-10-08T15:50:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17951,7 +17951,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_letter_initial_necklace_Q.jpg?v=1751452492
     Price: £124.00 GBP
 - [Rope Chain in Solid 9 Carat Gold](https://www.lilyblanche.com/products/solid-gold-rope-chain): This beautiful, 9-carat solid gold Prince of Wales rope chain will add interest and texture to any pendant or locket. Wear on its own or layered for added sophistication. Free jewellery care kit with all orders. Free UK shipping today
-  Updated: 2025-09-28T19:43:52Z
+  Updated: 2025-10-08T15:21:26Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -22815,7 +22815,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-08T11:31:21Z
+  Updated: 2025-10-08T15:43:17Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22851,7 +22851,7 @@ From £190.
     Availability: Available
     Price: £250.00 GBP
 - [Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/heavy-gold-cross-necklace): Expertly crafted heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-03T13:52:14Z
+  Updated: 2025-10-08T15:36:17Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22887,7 +22887,7 @@ From £190.
     Availability: Available
     Price: £250.00 GBP
 - [Heavy Silver Cross Necklace | High Quality](https://www.lilyblanche.com/products/heavy-silver-cross-necklace): Elevate your style with this bold, heavyweight sterling silver cross necklace—a timeless yet on-trend accessory. Includes a free £20 Jewellery Care Kit!
-  Updated: 2025-10-06T15:58:55Z
+  Updated: 2025-10-08T15:28:17Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22996,7 +22996,7 @@ From £190.
     Price: £245.00 GBP
 - [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
 From £150
-  Updated: 2025-10-06T17:08:40Z
+  Updated: 2025-10-08T13:22:46Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24744,7 +24744,7 @@ From £129
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-09-22T17:51:40Z
 - [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 7 2025, ...
-  Updated: 2025-10-07T12:58:13Z
+  Updated: 2025-10-08T13:39:15Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
