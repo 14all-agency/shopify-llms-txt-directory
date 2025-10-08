@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-08T04:00:33.590Z
+- Updated At: 2025-10-08T08:00:33.524Z
 
 ## Products
 
@@ -2783,6 +2783,10 @@
     Updated: 2025-10-07T05:20:17Z
     Author: Sharon
     Tags: kuscheltiere sicher verwenden
+  - [Was ist plastikfreies Spielzeug? Die Bedeutung verstehen](https://patundpatty.de/blogs/news/was-ist-plastikfreies-spielzeug): Entdecken Sie, was ist plastikfreies Spielzeug, warum es wichtig ist und wie es funktioniert. Erfahren Sie mehr über nachhaltige Spielzeugalternativen.
+    Updated: 2025-10-08T04:44:04Z
+    Author: Sharon
+    Tags: was ist plastikfreies spielzeug
 
 ## Store Pages
 
