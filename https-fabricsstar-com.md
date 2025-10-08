@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-08T04:00:35.509Z
+- Updated At: 2025-10-08T20:00:35.276Z
 
 ## Products
 
@@ -9628,7 +9628,7 @@
   Updated: 2025-10-07T11:12:53Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-07T11:12:53Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-09-22T11:12:28Z
@@ -9637,25 +9637,25 @@
   Updated: 2025-10-02T11:12:52Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2025-09-16T00:47:43Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 38
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://fabricsstar.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
   Updated: 2025-09-17T11:11:23Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-07T11:12:53Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-07T11:12:53Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-07T11:12:53Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 533
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-07T11:12:53Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-07T11:12:53Z
+  Updated: 2025-10-08T11:13:32Z
   Total Products: 666
 
 ## Blogs
