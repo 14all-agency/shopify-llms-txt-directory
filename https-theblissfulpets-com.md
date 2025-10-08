@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-07T12:00:29.889Z
+- Updated At: 2025-10-08T00:00:28.649Z
 
 ## Products
 
@@ -608,7 +608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-EAR-GALLON-2024.jpg?v=1712683474
     Price: $72.95 USD
 - [Is Your Dog Afraid of Thunder? Relax Aromatherapy Helps Dog Anxiety](https://theblissfulpets.com/products/three-cute-puppies-relax-dog-aromatherapy): Thunder, fireworks & being alone are the top three fear triggers for dogs. Relax Dog Aromatherapy eases their dog anxiety with our calming essential oil blend.
-  Updated: 2025-10-05T21:07:05Z
+  Updated: 2025-10-07T15:21:19Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
