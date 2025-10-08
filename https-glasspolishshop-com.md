@@ -2,7 +2,7 @@
 
 > Glass Polish Shop offers professional and DIY solutions for restoring glass, plastic, and metal surfaces. Explore a complete range of glass scratch repair kits, polishing compounds, abrasives, pads, backing plates, and polishers, plus expert training in glass polishing and restoration. Founded in 2003, GLASS POLISH is trusted worldwide for quality, efficiency, and free expert technical support.
 
-- Updated At: 2025-10-08T11:51:59.802Z
+- Updated At: 2025-10-08T11:56:06.362Z
 
 ## Products
 
