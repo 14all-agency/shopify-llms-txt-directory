@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-08T12:00:35.440Z
+- Updated At: 2025-10-08T16:00:35.578Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -101,7 +101,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £77.40 GBP
 - [Watermelon Seed Oil, Refined](https://inky-ingredients.com/products/watermelon-seed-oil-refined): Refined Watermelon Seed Oil is a lightweight, fast-absorbing oil, known for its hydrating and rejuvenating properties. Suitable for skincare and haircare, it imparts moisture, promoting a healthy and vibrant appearance.
-  Updated: 2025-10-06T14:05:02Z
+  Updated: 2025-10-08T15:39:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -572,7 +572,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £241.50 GBP
 - [Moringa Seed Oil, Cold Pressed](https://inky-ingredients.com/products/moringa-seed-oil-cold-pressed): Cold-pressed Moringa Seed Oil preserves its natural goodness. Packed with vitamins and antioxidants, it deeply moisturises and revitalises skin, promoting a healthy complexion and shiny, manageable hair.
-  Updated: 2025-10-02T04:46:35Z
+  Updated: 2025-10-08T15:39:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -638,7 +638,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £43.50 GBP
 - [Rose, Absolute](https://inky-ingredients.com/products/rose-absolute): Rose Absolute, an aromatic extract from rose flowers, is prized in perfumery. Renowned for its rich and deep floral scent, it adds opulence to fragrances. This precious absolute is a key ingredient in high-end perfumes and luxurious beauty products.
-  Updated: 2025-10-05T10:06:21Z
+  Updated: 2025-10-08T15:39:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1703,7 +1703,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £290.40 GBP
 - [Almond (Sweet) EP9 Oil, Refined](https://inky-ingredients.com/products/almond-sweet-ep9-oil-refined): Refined Sweet Almond Oil (EP9) is a cosmetic-grade oil that nourishes and moisturises the skin. With its light and non-greasy texture, it absorbs quickly, leaving the skin soft and supple. A versatile ingredient for skincare formulations seeking a silky and revitalised appearance.
-  Updated: 2025-09-26T08:40:09Z
+  Updated: 2025-10-08T15:39:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3236,7 +3236,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £283.80 GBP
 - [Jasmine, Absolute (Grandiflorum)](https://inky-ingredients.com/products/jasmine-absolute-grandiflorum): Jasmine Absolute, extracted from Grandiflorum flowers, boasts a rich, floral scent. Renowned for its calming properties, it enhances emotional well-being. In skincare, it rejuvenates and adds a touch of luxury.
-  Updated: 2025-09-26T08:55:37Z
+  Updated: 2025-10-08T15:39:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3602,7 +3602,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £195.00 GBP
 - [Eucalyptus Smithii, Essential Oil](https://inky-ingredients.com/products/eucalyptus-smithii-essential-oil): Eucalyptus Smithii Essential Oil, with a fresh and camphoraceous scent, is known for respiratory support and promoting a sense of vitality. It blends well in diffusers and massage oils for an invigorating experience.
-  Updated: 2025-09-26T09:25:48Z
+  Updated: 2025-10-08T13:35:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3692,7 +3692,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £49.20 GBP
 - [Coconut Oil, Fractionated](https://inky-ingredients.com/products/coconut-oil-fractionated-mct): Fractionated Coconut Oil, rich in MCTs, is a versatile beauty aid. Its lightweight and non-greasy formula make it an excellent choice for skincare, massage, and hair care routines.
-  Updated: 2025-10-07T21:31:07Z
+  Updated: 2025-10-08T15:39:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4061,7 +4061,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.92 GBP
 - [Calendula, Infused in Sunflower Oil](https://inky-ingredients.com/products/calendula-infused-in-sunflower-oil): Calendula infused in Sunflower Oil combines the soothing properties of Calendula officinalis with Sunflower Oil's nourishing benefits. This infusion is known for its skin-calming effects, making it a popular choice for skincare formulations, offering natural support for healthy and radiant skin.
-  Updated: 2025-10-04T18:28:55Z
+  Updated: 2025-10-08T15:39:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4493,7 +4493,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Not Available
     Price: £136.60 GBP
 - [Black Cumin Seed Oil, Cold Pressed](https://inky-ingredients.com/products/black-cumin-seed-oil-cold-pressed): Cold-pressed Black Cumin Seed Oil is a nutrient-rich oil with diverse applications. Renowned for its potential health and skincare benefits, it is commonly used in cosmetics, hair care, and as a nutritional supplement.
-  Updated: 2025-10-03T13:17:12Z
+  Updated: 2025-10-08T15:39:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6238,7 +6238,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £30.00 GBP
 - [Free Gift - Chaulmoogra Seed Oil, Cold Pressed - 50ml](https://inky-ingredients.com/products/free-gift-chaulmoogra-seed-oil-cold-pressed-50ml): A free gift on orders over £85. Cold-pressed Chaulmoogra Seed Oil is a traditional skincare remedy. Renowned for its therapeutic benefits, it soothes and nourishes the skin, making it a valuable addition to formulations targeting various skin concerns.
-  Updated: 2025-10-07T14:11:17Z
+  Updated: 2025-10-08T15:39:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
