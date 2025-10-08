@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-07T20:01:10.754Z
+- Updated At: 2025-10-08T04:01:08.550Z
 
 ## Products
 
@@ -17955,6 +17955,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-huracan-performante-682109225-8719247525376-bburago-1178700866.jpg?v=1752962283
   Price: 23,99 € EUR
+- [Lamborghini Sian FKP 37 vermelho e preto: Experiência Interativa](https://brincatoys.pt/products/lamborghini-sian-fkp-37-vermelho-preto): Para os apaixonados por carros desportivos, o Lamborghini Sian FKP 37 em vermelho e preto é o presente perfeito. Réplica em escala 1:24.
+  Updated: 2025-10-07T21:54:18Z
+  Vendor: Bburago
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lamborghini-sian-fkp-37-vermelho-e-preto-experiencia-interativa-682109924-8719247696106-bburago-1178700871.jpg?v=1752962300
+  Price: 23,50 € EUR
 - [Atividades Manuais Criativas Fantasia e Diamantes](https://brincatoys.pt/products/atividade-manuais-criativass-fantasia-e-diamantes): Divirta-se com as atividades manuais criativas Fantasia e Diamantes. Crie cartões artísticos únicos com diamantes brilhantes. A partir de 5 anos. ✨
   Updated: 2025-09-30T00:51:16Z
   Vendor: Brincatoys
@@ -19118,7 +19125,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-02T09:03:10Z
+  Updated: 2025-10-07T23:13:10Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -21257,8 +21264,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:03:45Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-07T19:24:08Z
-  Total Products: 169
+  Updated: 2025-10-07T21:56:23Z
+  Total Products: 172
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-10-07T18:38:53Z
   Total Products: 107
@@ -21284,8 +21291,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:03:24Z
   Total Products: 326
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-07T19:24:38Z
-  Total Products: 1556
+  Updated: 2025-10-07T21:56:53Z
+  Total Products: 1559
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-07T19:07:25Z
   Total Products: 698
@@ -21305,26 +21312,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T15:26:35Z
   Total Products: 1303
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 2410
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 2872
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3254
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3391
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3470
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3519
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-07T19:24:08Z
-  Total Products: 378
+  Updated: 2025-10-07T21:56:23Z
+  Total Products: 381
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21512,7 +21519,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3552
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-07T18:55:44Z
@@ -21524,8 +21531,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:32:48Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-07T19:24:38Z
-  Total Products: 1213
+  Updated: 2025-10-07T21:56:53Z
+  Total Products: 1216
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-07T16:08:01Z
   Total Products: 488
@@ -21548,10 +21555,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3552
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3552
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-06T18:36:55Z
@@ -21563,20 +21570,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3070
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-10-07T18:34:27Z
-  Total Products: 123
+  Updated: 2025-10-07T21:56:53Z
+  Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-07T19:24:09Z
+  Updated: 2025-10-07T21:56:23Z
   Total Products: 3070
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-07T19:24:09Z
-  Total Products: 934
+  Updated: 2025-10-07T21:56:23Z
+  Total Products: 933
 
 ## Blogs
 
