@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-08T12:01:01.226Z
+- Updated At: 2025-10-08T16:00:59.259Z
 
 ## Products
 
@@ -46516,43 +46516,43 @@
   - [11](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028687610)
     Availability: Available
     Price: ‏749.00 ‏₪ ILS
-- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly X Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
-  Updated: 2025-10-08T09:08:13Z
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly X Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
+  Updated: 2025-10-08T15:32:26Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_e9f29bd2-55d5-4c18-b45a-b487890d8d72.jpg?v=1759886249
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095796474)
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095796474)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095829242)
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095829242)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095862010)
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095862010)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095894778)
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095894778)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095927546)
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095927546)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095960314)
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095960314)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802095993082)
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095993082)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096025850)
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096025850)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096091386)
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096091386)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096124154)
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096124154)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg?variant=47802096156922)
+  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096156922)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 
@@ -47258,7 +47258,13 @@
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
 - [Mercurial Superfly נעלי כדורגל](https://www.rsport.co.il/collections/football-boots-mercurial-superfly-נעלי-כדורגל)
-  Updated: 2025-10-08T01:15:00Z
+  Updated: 2025-10-08T15:32:09Z
+  Total Products: 1
+- [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
+  Updated: 2025-10-08T13:44:46Z
+  Total Products: 1
+- [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
+  Updated: 2025-10-08T15:33:53Z
   Total Products: 1
 
 ## Blogs
