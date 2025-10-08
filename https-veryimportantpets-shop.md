@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-07T20:01:17.556Z
+- Updated At: 2025-10-08T00:01:16.536Z
 
 ## Products
 
@@ -1633,7 +1633,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-carrier-with-cushion-for-small-dogs-and-cats-khaki-pet-carrier-533818.jpg?v=1700655031
   Price: £62.99 GBP
 - [48.5cm Pet Carrier, with Cushion, for Miniature Dogs](https://veryimportantpets.shop/products/compact-48-5cm-pet-carrier-for-miniature-dogs-with-cushion): Transport and comfort your pet with ease using our versatile fabric dog crate. Featuring a removable steel tube frame for compact storage, a washable soft cushion, and three doors with mesh windows for ventilation. This portable pet haven doubles as a cosy lounge at home and comes with a handy storage bag.
-  Updated: 2025-10-06T23:30:45Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -2346,13 +2346,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-bed-for-small-sized-dogs-elevated-pet-chair-with-pu-cover-soft-cushion-cat-couch-lounger-with-anti-slip-legs-240493.jpg?v=1700657294
   Price: £53.99 GBP
-- [Dog Sofa for XS and S-Size Dogs with Thick Sponge Padded Cushion, Kitten Lounge Bed with Washable Cover, Wooden Frame](https://veryimportantpets.shop/products/dog-sofa-for-xs-and-s-size-dogs-with-thick-sponge-padded-cushion-kitten-lounge-bed-with-washable-cover-wooden-frame): This dark blue PawHut dog couch is perfect for your pet to relax and rest. Shop online at Very Important Pets
-  Updated: 2025-10-03T23:30:46Z
-  Vendor: PawHut
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-for-xs-and-s-size-dogs-with-thick-sponge-padded-cushion-kitten-lounge-bed-with-washable-cover-wooden-frame-blue-148937.jpg?v=1700657210
-  Price: £71.99 GBP
 - [Dog Sofa with Storage, Pet Chair for Small Dogs, Cat Couch with Soft Cushion, Light Blue, 76 x 45 x 41.5 cm](https://veryimportantpets.shop/products/dog-sofa-with-storage-pet-chair-for-small-dogs-cat-couch-with-soft-cushion-light-blue-76-x-45-x-41-5-cm): Bring comfort into your pet's life whilst keeping you home tidy, thanks to this stylish raised dog bed from PawHut. Shop online at Very Important Pets
   Updated: 2025-09-03T07:31:01Z
   Vendor: PawHut
@@ -2368,7 +2361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-for-xs-and-s-size-dogs-pet-chair-bed-with-soft-cushion-cat-sofa-couch-with-washable-cover-wooden-frame-835153.jpg?v=1700657244
   Price: £53.99 GBP
 - [Dog Sofa, Pet Couch Bed for Medium, Large Dogs, with Legs, Cushion](https://veryimportantpets.shop/products/dog-sofa-pet-couch-bed-for-medium-large-dogs-with-legs-cushion): Don't want pets on your sofa? Then why not give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-04T07:30:46Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2396,7 +2389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-sofa-bed-puppy-kitten-lounger-with-wooden-frame-short-plush-cover-washable-cushion-for-small-dog-70-x-47-x-30-cm-718253.jpg?v=1700650671
   Price: £80.99 GBP
 - [Dog Sofa, with Wooden Legs, Water-Resistant Fabric, for Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-with-wooden-legs-water-resistant-fabric-for-medium-large-dogs): Don't want pets on your furniture? The ideal solution is to give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:41Z
+  Updated: 2025-10-07T23:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2431,7 +2424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/retractable-safety-gate-dog-pet-barrier-folding-protector-home-doorway-room-divider-stair-guard-white-115lx825hcm-533139.jpg?v=1700649290
   Price: £35.99 GBP
 - [Freestanding Small Wooden Pet Safety Gate Room Separator - Dark Brown | Very Important Pets](https://veryimportantpets.shop/products/pet-gate-160lx1-2dx76h-cm-free-standing-folding-pet-safety-fence-dark-brown): Create a secure boundary for your pets with our freestanding fence, ideal for small dogs. Measuring 160L-1.2D-76H cm, this wooden gate features a high gloss dark brown finish, complementing any room decor. Its three-fold design is perfect for doorways or as a room divider, offering flexibility and portability. Set boundaries stylishly with this elegant and functional pet safety solution.
-  Updated: 2025-10-07T15:30:45Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Pet Gate
   Availability: Available
@@ -2869,7 +2862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-dog-bowls-for-large-dogs-pet-feeding-station-with-stand-storage-2-stainless-steel-food-and-water-bowls-black-103888.jpg?v=1700649515
     Price: £44.99 GBP
 - [Stainless Steel Raised Dog Bowls with 21L Storage Drawer for Large Dogs | Very Important Pets](https://veryimportantpets.shop/products/stainless-steel-raised-dog-bowls-with-21l-storage-drawer-for-large-dogs): Elevate your pet's dining with our Stainless Steel Raised Dog Bowls, designed for large breeds and senior pets. The 21L storage drawer neatly tucks away food and supplies, while the removable bowls ensure easy cleaning. Its ergonomic height prevents neck strain, and the sleek design seamlessly blends into your home.
-  Updated: 2025-09-26T15:31:16Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2890,7 +2883,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/raised-large-dog-feeding-station-with-storage-sleek-functional-dog-feeding-217842.jpg?v=1700649440
   Price: £53.99 GBP
 - [Pet Carrier Travel Backpack For Cats or Dogs with Trolley and Telescopic Handle](https://veryimportantpets.shop/products/pet-carrier-travel-backpack-for-cats-or-dogs-with-trolley-and-telescopic-handle): This puppy carrier is a great accessory to have. Shop online at Very Important Pets
-  Updated: 2025-10-07T15:30:46Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3353,7 +3346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2-floor-outdoor-cat-house-solid-wood-wheels-59x55x109cm-outdoor-cat-house-618917.jpg?v=1700665801
   Price: £107.99 GBP
 - [Dual-Level Wooden Cat House, Outdoor-Ready with Asphalt Roof](https://veryimportantpets.shop/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof): All cats are sure to enjoy this PawHut outdoor cat house. Shop online at Very Important Pets
-  Updated: 2025-10-04T15:30:47Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3381,7 +3374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-10-05T07:30:46Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4303,7 +4296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-indoor-rabbit-hutch-guinea-pig-house-bunny-small-animal-cage-w-wheels-enclosed-run-110-x-50-x-86-cm-brown-580437.jpg?v=1700645918
     Price: £143.99 GBP
 - [Wooden Rabbit Hutch Portable Indoor Guinea Pigs House Bunny Small Animal Cage Openable Roof Enclosed Run 90 x 53 x 59 cm](https://veryimportantpets.shop/products/wooden-rabbit-hutch-portable-indoor-guinea-pigs-house-bunny-small-animal-cage-openable-roof-enclosed-run-90-x-53-x-59-cm): Give your rabbit their own private space, even when they're indoors with this rabbit house from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-05T23:30:48Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4331,7 +4324,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-animal-cage-with-hammock-wheels-pets-home-small-animal-cage-482199.jpg?v=1700648506
   Price: £71.99 GBP
 - [Mobile Small Animal Cage - Ideal for Small Rabbits, Guinea Pigs](https://veryimportantpets.shop/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs): Give your small pet their place to chill the day away with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-05T15:30:53Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4373,7 +4366,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/expandable-diy-3-tier-steel-animal-playpen-cage-small-animal-cage-338833.jpg?v=1700655571
   Price: £71.99 GBP
 - [Two Tiers Rabbit Hutch and Run Wooden Guinea Pig Hutch Outdoor with Sliding Tray, Ramp and Water-resistant Roof, for 2-4 Rabbits](https://veryimportantpets.shop/products/two-tiers-rabbit-hutch-and-run-wooden-guinea-pig-hutch-outdoor-with-sliding-tray-ramp-and-water-resistant-roof-for-2-4-rabbits): This outdoor rabbit hutch from PawHut is great for use with rabbits, guinea pigs and similar sized animals. Shop online at Very Important Pets
-  Updated: 2025-10-05T15:30:55Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4471,7 +4464,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-level-hamster-gerbil-cage-with-exercise-accessories-small-animal-cage-812885.jpg?v=1700664784
   Price: £35.99 GBP
 - [Two-Tier Gerbil & Hamster Cage with Accessories, White](https://veryimportantpets.shop/products/two-tier-gerbil-hamster-cage-with-accessories-white): This pet cage from PawHut is a new home for your hamster. Shop online at Very Important Pets
-  Updated: 2025-10-07T15:30:47Z
+  Updated: 2025-10-07T23:30:46Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -5419,7 +5412,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/beta-working-dog-chicken-dry-food-14-kg-working-dry-145460.png?v=1706812182
   Price: £32.95 GBP
 - [Burgess Sensitive Complete Adult Dry Dog Food with Lamb](https://veryimportantpets.shop/products/burgess-sensitive-dog-lamb-rice): Burgess Sensitive Adult Dry Dog Food with Lamb - hypoallergenic, supports strong bones and joints, promotes a healthy shiny coat. Ideal for adult dogs.
-  Updated: 2025-10-07T13:35:57Z
+  Updated: 2025-10-07T22:35:43Z
   Vendor: Burgess
   Product Type: Sensitive Dry
   Availability: Available
@@ -5475,7 +5468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burgess-sensitive-puppy-turkey-rice-puppyjunior-dry-125-kg-932545.jpg?v=1732219504
     Price: £30.99 GBP
 - [Burgess Sensitive Senior 7+ years Dog Food with Turkey](https://veryimportantpets.shop/products/burgess-sensitive-senior-7-dog-turkey): Burgess Sensitive Senior Dog Food with Turkey- dry food for mature dogs age 7+. Supports sensitive tummy, brain health, bones/joints, coat, gut bacteria.
-  Updated: 2025-09-28T17:28:22Z
+  Updated: 2025-10-07T22:27:56Z
   Vendor: Burgess
   Product Type: Sensitive Dry
   Availability: Available
@@ -13883,26 +13876,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/handiscoop-bio-bags-x80-x80-poop-955163.jpg?v=1701338619
   Price: £6.44 GBP
-- [Henry Wag Microfibre Cleaning Glove Towel](https://veryimportantpets.shop/products/henry-wag-microfibre-cleaning-glove-towel): Henry Wag Microfibre Cleaning Glove Towel. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:03Z
+- [Henry Wag Eco-Friendly Microfibre Pet Cleaning Glove Towel](https://veryimportantpets.shop/products/henry-wag-microfibre-cleaning-glove-towel): The Henry Wag Microfibre Pet Cleaning Glove Towel is an eco-friendly option for pet owners, efficiently removing dirt and water from your dog's coat and paws.
+  Updated: 2025-10-07T21:40:39Z
   Vendor: Henry Wag
   Product Type: Grooming Glove
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-microfibre-cleaning-glove-towel-grooming-glove-178949.jpg?v=1706997704
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Pet-Glove-Towel-Bathroom.png?v=1759872925
   Price: £9.32 GBP
-- [Henry Wag Noodle Drying & Cleaning Glove Towel](https://veryimportantpets.shop/products/henry-wag-noodle-drying-glove-towel): Henry Wag Noodle Drying Glove Towel. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:02Z
+- [Henry Wag Microfibre Pet Drying Glove - High-Quality Towel](https://veryimportantpets.shop/products/henry-wag-noodle-drying-glove-towel): Efficiently remove dirt and water with the Henry Wag Noodle Drying Glove Towel. Made from high-quality microfiber noodles for quick clean-ups on the go!
+  Updated: 2025-10-07T21:32:54Z
   Vendor: Henry Wag
   Product Type: Grooming Glove
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-noodle-microfibre-pet-drying-glove-grooming-glove-125081.jpg?v=1706997704
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Drying-Glove-1.png?v=1759872718
   Price: £8.65 GBP
-- [Henry Wag Pet Noodle Glove Towel](https://veryimportantpets.shop/products/henry-wag-pet-noodle-glove-towel): Henry Wag Pet Noodle Glove Towel. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:31Z
+- [Henry Wag Pet Noodle Glove Towel - High-Quality Dog Drying](https://veryimportantpets.shop/products/henry-wag-pet-noodle-glove-towel): Keep your dog clean and dry with the Henry Wag Pet Noodle Glove Towel. Made from recycled polyester, this highly absorbent towel is a must-have for pet owners.
+  Updated: 2025-10-07T21:26:23Z
   Vendor: Henry Wag
   Product Type: Grooming Glove
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-pet-noodle-glove-towel-grooming-glove-224137.jpg?v=1701338621
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Henry-Wag-Noode-Glove-Towel-face-uai-640x640.webp?v=1759872057
   Price: £18.29 GBP
 - [Johnsons One Dose Wormer for Puppies and Small Dogs - Size 1 (6x)](https://veryimportantpets.shop/products/johnsons-one-dose-wormer-for-puppies-and-small-dogs-size-1): A single-dose treatment to kill both roundworms and tapeworms. Shop online at Very Important Pets
   Updated: 2025-10-06T13:28:17Z
@@ -15094,7 +15087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/burgess-kitten-with-chicken-dry-food-kitten-dry-food-4-kg-770289.png?v=1741206136
     Price: £15.91 GBP
 - [Burgess Mature Cat 7+ with Turkey & Cranberry Dry Cat Food](https://veryimportantpets.shop/products/burgess-turkey-cranberry-mature-cat-food): Burgess Mature Cat with Turkey & Cranberry is a vet-designed, nutrient-rich food for cats aged 7+. Supports heart, joints, dental, urinary, immunity.
-  Updated: 2025-10-05T17:35:58Z
+  Updated: 2025-10-07T22:35:41Z
   Vendor: Burgess
   Product Type: Senior Cat Dry
   Availability: Available
@@ -20441,26 +20434,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-car-booster-seat-for-dogs-single-car-booster-seat-844975.jpg?v=1708113047
   Price: £39.80 GBP
-- [Henry Wag Snaffle Pack Bowl Set Single](https://veryimportantpets.shop/products/henry-wag-snaffle-pack-bowl-set-single): Henry Wag Snaffle Pack Bowl Set. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:03Z
+- [Henry Wag Snaffle Pack Travel Pet Bowl Set - Dual Bowls](https://veryimportantpets.shop/products/henry-wag-snaffle-pack-bowl-set-single): The Henry Wag Snaffle Pack Portable Pet Bowl Set includes dual foldable bowls for feeding and hydrating your dog on the go. Compact and convenient.
+  Updated: 2025-10-07T21:07:25Z
   Vendor: Henry Wag
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-snaffle-pack-bowl-set-single-travel-bowl-480916.jpg?v=1708113050
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/Henry-Wag-snaffle-pack-two-in-one-hydration-and-feeding-solution-e1716212372928.png?v=1759871245
   Price: £28.25 GBP
-- [Henry Wag Store Fresh Food Box](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box): Henry Wag Store Fresh Food Box. Shop online at Very Important Pets
-  Updated: 2025-10-07T15:41:07Z
+- [Henry Wag Store Fresh Pet Food Box - Ideal Storage Solution](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box): The Henry Wag Store Fresh Food Box keeps pet food fresh, secure, and accessible. Ideal for storing dry pet food, bird seed, horse supplements, and poultry feed.
+  Updated: 2025-10-07T20:34:45Z
   Vendor: Henry Wag
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-store-fresh-food-box-pet-food-storage-medium-710832.jpg?v=1708113049
-  - [Medium](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box?variant=47604252442914)
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/henry-wag-store-fresh-food-box-large-1405545.png?v=1759868822
+  - [Medium 7.5kg](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box?variant=47604252442914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-store-fresh-food-box-pet-food-storage-medium-710832.jpg?v=1708113049
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/henry-wag-store-fresh-food-box-large-1405545.png?v=1759868822
     Price: £18.29 GBP
-  - [Large](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box?variant=47604252475682)
+  - [Large 15kg](https://veryimportantpets.shop/products/henry-wag-store-fresh-food-box?variant=47604252475682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/henry-wag-store-fresh-food-box-pet-food-storage-large-753674.jpg?v=1708113049
+    Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/henry-wag-store-fresh-food-box-large-3140685.png?v=1759868822
     Price: £21.64 GBP
 - [House of Paws Artic Fox Snuggle Oval Dog Bed](https://veryimportantpets.shop/products/house-of-paws-artic-fox-snuggle-oval-dog-bed): House of Paws Arctic Fox Snuggle Bed. Shop online at Very Important Pets
   Updated: 2025-09-22T18:53:08Z
@@ -20592,8 +20585,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/laura-ashley-rosemore-deep-duvet-dog-baskets-beds-large-487772.jpg?v=1708113282
     Price: £53.95 GBP
-- [Lilly & Jake LED Dog Collar Red](https://veryimportantpets.shop/products/lilly-jake-led-dog-collar-red): Lilly and Jake LED Collar Red. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:24Z
+- [Lilly and Jake Red LED Dog Collar for Nighttime Safety](https://veryimportantpets.shop/products/lilly-jake-led-dog-collar-red): Keep your pet safe during evening walks with Lilly and Jake's Red LED Dog Collar. Super bright LEDs and durable construction make it ideal for winter walks.
+  Updated: 2025-10-07T22:03:11Z
   Vendor: Lilly & Jake
   Product Type: 
   Availability: Available
@@ -20610,12 +20603,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/lilly-jake-led-dog-collar-red-dog-night-safety-large-870381.jpg?v=1708113282
     Price: £13.94 GBP
-- [Lilly & Jake LED Dog Lead Red](https://veryimportantpets.shop/products/lilly-jake-led-dog-lead-red): Lilly and Jake LED Lead Red. Shop online at Very Important Pets
-  Updated: 2025-09-22T18:53:25Z
+- [Lilly and Jake Red LED Dog Lead for Safe Evening Walks](https://veryimportantpets.shop/products/lilly-jake-led-dog-lead-red): Keep your furry friend safe and visible during evening walks with the Lilly and Jake Red LED Dog Lead. Durable, comfortable, and rechargeable for dark evenings.
+  Updated: 2025-10-07T21:56:00Z
   Vendor: Lilly & Jake
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/lilly-jake-led-dog-lead-red-dog-night-safety-727528.jpg?v=1708113281
+  Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/IMG-20200320-WA0003-1024x768.jpg?v=1759874004
   Price: £18.29 GBP
 - [Pet Remedy Low Voltage Heat Pad for Pets - BSAVA Approved](https://veryimportantpets.shop/products/pet-remedy-low-voltage-heat-pad): The Pet Remedy Low Voltage Heat Pad is safe, effective, and perfect for post-operative care. Ideal for pet beds, crates, and baskets. 2 thermostats for safety!
   Updated: 2025-10-07T17:28:13Z
@@ -23852,10 +23845,10 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-05T11:32:41Z
   Total Products: 301
 - [Durable Dog Bowls - Stainless Steel, Ceramic, Plastic Option](https://veryimportantpets.shop/collections/dog-bowls): Shop dog bowls including stainless steel, ceramic, plastic, and collapsible travel bowls. Find durable, stylish, and safe bowls for every dog.
-  Updated: 2025-10-02T11:37:12Z
+  Updated: 2025-10-07T20:59:23Z
   Total Products: 32
 - [Dog Collars UK - Leather, Puppy & Everyday Collars](https://veryimportantpets.shop/collections/dog-collars): Explore our range of dog collars in the UK, including leather, puppy, and small dog collars. Durable, comfortable, and stylish for every breed and size.
-  Updated: 2025-09-18T20:13:58Z
+  Updated: 2025-10-07T22:00:20Z
   Total Products: 33
 - [Dog Harness UK - No Pull, Car Safety & Reflective Harnesses](https://veryimportantpets.shop/collections/dog-harnesses): Discover our range of dog harnesses, including Halti no-pull, car safety, and reflective options. Suits all breeds. Ensure safe, comfortable walks and travel.
   Updated: 2025-10-04T20:07:03Z
@@ -23885,7 +23878,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-22T18:52:23Z
   Total Products: 57
 - [Premium Dog Grooming Towels & Gloves - Very Important Pets](https://veryimportantpets.shop/collections/dog-towels-and-gloves): Discover super-absorbent dog towels & gloves at VIP. Gentle, quick-drying options for all breeds. Keep your pet dry & comfy after baths or rainy walks.
-  Updated: 2025-05-04T17:44:31Z
+  Updated: 2025-10-07T21:31:14Z
   Total Products: 7
 - [Dog Cologne & Perfumes: Fresh Scents for Stylish Pets](https://veryimportantpets.shop/collections/dog-cologne): Find the perfect dog cologne and perfumes from Ancol, Animology, and more. Keep your pet smelling fresh with our safe, stylish scents. Shop Very Important Pets.
   Updated: 2025-09-12T11:37:33Z
@@ -23939,8 +23932,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T18:55:17Z
   Total Products: 107
 - [Dog Beds - Very Important Pets | Shop](https://veryimportantpets.shop/collections/dog-beds): Dog Beds - Very Important Pets | Shop
-  Updated: 2025-10-07T17:28:43Z
-  Total Products: 79
+  Updated: 2025-10-07T23:31:16Z
+  Total Products: 78
 - [Dog Food - Premium Nutrition for Every Canine | VIPs](https://veryimportantpets.shop/collections/dog-food): Discover top dog food brands for all ages at Very Important Pets. Wet, dry, special diets – everything for your dog's health and happiness.
   Updated: 2025-10-07T17:36:26Z
   Total Products: 576
@@ -23957,8 +23950,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-06-30T11:51:20Z
   Total Products: 11
 - [Ultimate Cat Care Collection, Shop Food, Toys, Health & More](https://veryimportantpets.shop/collections/cat): Discover high-quality cat supplies for your Very Important Pets, featuring a wide range of cat foods, treats, toys, healthcare products, and accessories.
-  Updated: 2025-10-07T17:36:31Z
-  Total Products: 474
+  Updated: 2025-10-07T23:31:16Z
+  Total Products: 473
 - [e-Gift Cards - Very Important Pets | Shop](https://veryimportantpets.shop/collections/gift-cards): e-Gift Cards - Very Important Pets | Shop
   Updated: 2025-01-13T21:04:18Z
   Total Products: 1
@@ -23975,14 +23968,14 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T22:27:47Z
   Total Products: 144
 - [PawHut - Quality Pet Products for Home and Outdoors](https://veryimportantpets.shop/collections/pawhut): PawHut - Quality Pet Products for Home and Outdoors - Very Important Pets | Shop
-  Updated: 2025-10-06T15:31:21Z
-  Total Products: 357
+  Updated: 2025-10-07T23:31:17Z
+  Total Products: 356
 - [Small Animal Supplies - Foods, Habitats, Healthcare | VIPs](https://veryimportantpets.shop/collections/small-pets): Shop for premium small animal products at Very Important Pets. Find food, healthcare, toys, bedding, and more for your pet's health and happiness.
   Updated: 2025-05-07T15:30:41Z
   Total Products: 84
 - [Complete Dog Care Shop - Food, Treats, Toys & More | VIPs](https://veryimportantpets.shop/collections/dog): Top dog care essentials at Very Important Pets, including premium foods, treats, toys, grooming and health products. A huge range for your dog's well-being.
-  Updated: 2025-10-07T17:36:26Z
-  Total Products: 1759
+  Updated: 2025-10-07T23:31:17Z
+  Total Products: 1758
 - [Ancol Pet Accessories | Very Important Pets | Shop Online](https://veryimportantpets.shop/collections/ancol): Discover Ancol's premium pet accessories at VIPs. Celebrating 50+ years of innovation, quality, and eco-conscious pet products for dogs, cats, and more.
   Updated: 2025-10-05T16:40:58Z
   Total Products: 185
@@ -24410,7 +24403,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-05-04T17:42:45Z
   Total Products: 13
 - [Cat Bowls and Feeding](https://veryimportantpets.shop/collections/cat-bowls-and-feeding)
-  Updated: 2025-10-06T21:20:03Z
+  Updated: 2025-10-07T20:33:14Z
   Total Products: 14
 - [Play Tunnels](https://veryimportantpets.shop/collections/play-tunnels)
   Updated: 2025-08-08T09:28:53Z
@@ -24419,16 +24412,16 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T21:27:51Z
   Total Products: 25
 - [All Dog Accessories](https://veryimportantpets.shop/collections/dog-accessories)
-  Updated: 2025-10-05T16:21:28Z
+  Updated: 2025-10-07T22:00:20Z
   Total Products: 152
 - [Top Dog Grooming Products for All Breeds | Very Important Pets](https://veryimportantpets.shop/collections/dog-grooming): Explore premium dog grooming essentials at Very Important Pets. Find shampoos, brushes, clippers, and more for a healthy, shiny coat.
-  Updated: 2025-09-12T11:37:33Z
+  Updated: 2025-10-07T21:31:14Z
   Total Products: 154
 - [Best Sellers](https://veryimportantpets.shop/collections/best-seller)
   Updated: 2024-09-14T12:17:37Z
   Total Products: 1
 - [Undiscounted Products](https://veryimportantpets.shop/collections/undiscounted-products)
-  Updated: 2025-10-07T17:28:50Z
+  Updated: 2025-10-07T22:00:20Z
   Total Products: 1714
 - [Pet Birthday](https://veryimportantpets.shop/collections/pet-birthday)
   Updated: 2025-09-23T13:28:26Z
@@ -24632,8 +24625,8 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-06T15:31:21Z
   Total Products: 6
 - [All Pet Products at Very Important Pets](https://veryimportantpets.shop/collections/all): Shop at Very Important Pets for all your pet needs: premium foods, engaging toys, cosy beds, and grooming essentials. Find quality products for a happy, healthy pet.
-  Updated: 2025-10-07T17:36:31Z
-  Total Products: 2305
+  Updated: 2025-10-07T23:31:17Z
+  Total Products: 2304
 - [Gerbils](https://veryimportantpets.shop/collections/gerbils)
   Updated: 2025-06-05T15:31:42Z
   Total Products: 14
@@ -24707,7 +24700,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-30T21:10:34Z
   Total Products: 12
 - [Pet Steps](https://veryimportantpets.shop/collections/pet-steps)
-  Updated: 2025-05-04T17:43:27Z
+  Updated: 2025-10-07T21:12:46Z
   Total Products: 15
 - [Sensitive Tummy & Skin Dog Food at Very Important Pets](https://veryimportantpets.shop/collections/sensitive-tummy-skin-dry-dog-foods): Explore our specially formulated dog foods for sensitive tummies and skin, designed to promote optimal digestion and overall well-being for your pet.
   Updated: 2025-10-05T11:32:41Z
@@ -24800,13 +24793,13 @@ Omega-6 & 3 for skin.
   Updated: 2025-09-23T11:37:46Z
   Total Products: 6
 - [Henry Wag: Enhance Outdoor Pet Adventures | Shop Accessories](https://veryimportantpets.shop/collections/henry-wag): Elevate your pet's lifestyle with Henry Wag's innovative accessories, designed for comfort. Shop solutions that make outdoor adventures with your pet a breeze.
-  Updated: 2025-05-04T17:43:28Z
+  Updated: 2025-10-07T21:31:14Z
   Total Products: 11
 - [Bow Wow Dog Treats: Nutritious Snacks for All Breeds](https://veryimportantpets.shop/collections/bow-wow): Discover Bow Wow's delicious, high-quality dog treats. Perfect for all breeds, including grain-free options for sensitive pets. Shop now for happy tails!
   Updated: 2025-08-08T22:27:54Z
   Total Products: 13
 - [LED & Reflective Dog Collars, Harnesses, and Night Safety Gear](https://veryimportantpets.shop/collections/night-safety-flashing-and-reflective-wear): Shop reflective and LED dog accessories: collars, harnesses, leashes, & coats. Keep your dog visible and safe during nighttime walks with high-visibility kit.
-  Updated: 2025-10-04T20:32:46Z
+  Updated: 2025-10-07T22:00:20Z
   Total Products: 20
 - [Sensitive Dog Treats for Dietary Needs | Very Important Pets](https://veryimportantpets.shop/collections/sensitive-dog-treats): Explore hypoallergenic dog treats ideal for sensitive stomachs. Grain-free, gluten-free options that support digestive health and alleviate allergies.
   Updated: 2025-10-04T19:52:15Z
@@ -24920,7 +24913,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-01-13T21:04:30Z
   Total Products: 0
 - [Dog Feeding Mats & Accessories - Clean & Easy Mealtimes](https://veryimportantpets.shop/collections/dog-feeding-mats-accessories): Shop dog feeding mats & accessories, including food storage containers, travel water bottles, and feeding tools. Keep mealtime clean and organised for your dog.
-  Updated: 2025-10-02T18:55:17Z
+  Updated: 2025-10-07T20:33:14Z
   Total Products: 11
 - [Raised Dog Bowls - Elevate Comfort with Stand Feeders](https://veryimportantpets.shop/collections/elevated-and-stand-dog-bowls): Shop raised and stand dog bowls. Reduce strain and improve digestion with elevated feeders. Perfect for large breeds and senior dogs. Buy now!
   Updated: 2025-05-04T17:43:11Z
