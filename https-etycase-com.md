@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-10-07T20:00:27.729Z
+- Updated At: 2025-10-08T00:00:31.016Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/iPhone12-kilif-you.png?v=1759826091
     Price: ₺990,00 TRY
 - [Apple iPhone 12 Pro Max Uyumlu MagSafe Özellikli Kılıf](https://etycase.com/products/apple-iphone-12-pro-uyumlu-kablosuz-wireless-sarj-ozellikli-kilif): Apple iPhone 12 Pro Max Uyumlu MagSafe Özellikli Kılıf, farklı renkleri kenar korumaları ile hem telefonuzu korur hem de estetik bir görünüm kazandırır.
-  Updated: 2025-10-07T08:53:00Z
+  Updated: 2025-10-07T20:53:11Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/Ekran_Resmi_2025-09-16_14.24.52.png?v=1759826756
     Price: ₺960,00 TRY
 - [iPhone 12 Pro Uyumlu Negro Karbon Tasarımlı Kılıf](https://etycase.com/products/iphone-12-pro-uyumlu-karbon-tasarim-kilif): iPhone 12 Pro Uyumlu Negro Karbon Tasarımlı Kılıf asarımı Karbon görüntüsüyle oldukça şık dururken aynı zaman da telefonunuzu tam koruma altına alır
-  Updated: 2025-10-07T09:50:11Z
+  Updated: 2025-10-07T21:50:07Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: 
   Availability: Available
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173455-17-B_1800x1800_jpg.webp?v=1759857479
   Price: ₺850,00 TRY
 - [iPhone 13 Zebana NeoFiber Silikon MagSafe Özellikli Kılıf](https://etycase.com/products/iphone-13-zebana-neofiber-silikon-magsafe-ozellikli-kilif): iPhone 13 Zebana NeoFiber Silikon MagSafe Özellikli Kılıf (Kablosuz Şarj)Gücünü Karbon Fiberden Alan Teknoloji Zebana NeoFiber Kılıf ile cihazınız her an güvende! Hafifliğini ve dayanıklılığını karbon fiberden alan bu kılıf, aynı zamanda Kablosuz Şarj uyumluluğu ile fonksiyonelliği artırıyor.
-  Updated: 2025-10-07T08:27:06Z
+  Updated: 2025-10-07T20:27:12Z
   Vendor: Zebana
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
