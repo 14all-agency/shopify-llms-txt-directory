@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-07T20:00:45.051Z
+- Updated At: 2025-10-08T00:00:45.364Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9590,7 +9590,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain | Rose Gold | Lily Blanche](https://www.lilyblanche.com/products/curb-chain-rose-gold): This classic, medium weight 18 carat rose gold vermeil curb chain is the perfect chain for any occasion. Wear on it is own, with one of our rose gold vermiel pendants. Free gift wrap.
-  Updated: 2025-10-04T18:09:59Z
+  Updated: 2025-10-07T23:58:40Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9854,7 +9854,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £160.00 GBP
 - [Belcher Chain Solid Silver](https://www.lilyblanche.com/products/belcher-chain-silver): This strong sterling silver heavy-weight belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look. Order today and receive a free jewellery care kit
-  Updated: 2025-09-27T14:24:25Z
+  Updated: 2025-10-07T23:57:35Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16943,7 +16943,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-07T11:55:11Z
+  Updated: 2025-10-07T23:54:57Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17478,7 +17478,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/ivory_pearl_on_gold_paperclip_chain_2_1080_0f620459-b075-4794-bd8c-47a031351a77.jpg?v=1741872397
     Price: £215.00 GBP
 - [Diamond Initial Necklace | Solid Gold | A to Z](https://www.lilyblanche.com/products/diamond-initial-necklace-solid-9-carat-gold-charm-a-to-z): Make a sparkling initial impression with our diamond and solid gold Initial Necklaces. Featuring up to 19 white diamonds, these diamond initial pendants make luxurious personalised gifts.  Shop now and receive a free jewellery care kit with all orders.
-  Updated: 2025-09-14T06:46:35Z
+  Updated: 2025-10-07T22:23:25Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17745,7 +17745,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £390.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-10-07T15:46:12Z
+  Updated: 2025-10-07T23:59:15Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22815,7 +22815,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-05T03:46:36Z
+  Updated: 2025-10-07T23:56:00Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
