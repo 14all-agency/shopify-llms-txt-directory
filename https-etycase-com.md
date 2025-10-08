@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-10-08T00:00:31.016Z
+- Updated At: 2025-10-08T12:00:27.781Z
 
 ## Products
 
@@ -121,7 +121,7 @@
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-172695-17-B_1800x1800_jpg.webp?v=1759856882
   Price: ₺850,00 TRY
 - [Apple iPhone 12 Pro Wlons Hill Kılıf Pembe](https://etycase.com/products/apple-iphone-12-pro-wlons-hill-kilif-pembe): Apple iPhone 12 Pro Wlons Hill Kılıf Pembe rengi, ince yapısı ve koruyucu kenarları ile telefonunuzu hep şık gösterir hemde olası düşmelerden korur.
-  Updated: 2025-10-07T17:34:09Z
+  Updated: 2025-10-08T05:23:20Z
   Vendor: EtyCase Premium Cep Telefonu Kılıfları
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
