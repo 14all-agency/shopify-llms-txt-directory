@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-08T04:01:13.693Z
+- Updated At: 2025-10-08T08:01:15.159Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/very-important-pets-e-gift-card-gift-cards-500-749933.jpg?v=1700646913
     Price: £100.00 GBP
 - [Bicycle Pet Trailer in Steel Frame-Red/Black](https://veryimportantpets.shop/products/bicycle-pet-trailer-in-steel-frame-red-black): Discover the Dog Bike Trailer, the ideal travel companion for pets up to 30kg. Featuring a sturdy steel frame, weather-resistant oxford fabric, and breathable mesh windows for a secure, airy ride. Easy-entry zip door, safety leash ring, and smooth-rolling 20" wheels ready for any terrain.
-  Updated: 2025-10-06T15:30:52Z
+  Updated: 2025-10-08T07:30:46Z
   Vendor: PawHut
   Product Type: Bicycle Trailer
   Availability: Available
@@ -1633,7 +1633,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-carrier-with-cushion-for-small-dogs-and-cats-khaki-pet-carrier-533818.jpg?v=1700655031
   Price: £62.99 GBP
 - [48.5cm Pet Carrier, with Cushion, for Miniature Dogs](https://veryimportantpets.shop/products/compact-48-5cm-pet-carrier-for-miniature-dogs-with-cushion): Transport and comfort your pet with ease using our versatile fabric dog crate. Featuring a removable steel tube frame for compact storage, a washable soft cushion, and three doors with mesh windows for ventilation. This portable pet haven doubles as a cosy lounge at home and comes with a handy storage bag.
-  Updated: 2025-10-07T23:30:46Z
+  Updated: 2025-10-08T07:30:47Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -2184,7 +2184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-use-dog-crate-end-table-with-cushion-mediumlarge-dogs-two-colours-dog-crate-grey-834587.jpg?v=1700656456
     Price: £116.99 GBP
 - [Dual-Use Large Dog Crate with Cushion - Grey, 106x74x81.5cm](https://veryimportantpets.shop/products/dual-use-large-dog-crate-with-cushion-grey-106x74x81-5cm): This PawHut dog cage, fused with a side table, is perfect for when you need pets to stay put. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:42Z
+  Updated: 2025-10-08T07:30:47Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2375,7 +2375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-pet-couch-bed-for-medium-large-dogs-with-legs-cushion-grey-699425.jpg?v=1700656940
     Price: £98.99 GBP
 - [Dog Sofa, pet Bed, with Soft Cushion, Washable Cover, for Small, Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-pet-bed-with-soft-cushion-washable-cover-for-small-medium-large-dogs): Pet's comfort is a top priority, and that's why this PawHut pet sofa is the perfect choice. Shop online at Very Important Pets
-  Updated: 2025-10-06T15:30:56Z
+  Updated: 2025-10-08T07:30:47Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2389,7 +2389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-sofa-bed-puppy-kitten-lounger-with-wooden-frame-short-plush-cover-washable-cushion-for-small-dog-70-x-47-x-30-cm-718253.jpg?v=1700650671
   Price: £80.99 GBP
 - [Dog Sofa, with Wooden Legs, Water-Resistant Fabric, for Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-with-wooden-legs-water-resistant-fabric-for-medium-large-dogs): Don't want pets on your furniture? The ideal solution is to give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-07T23:30:47Z
+  Updated: 2025-10-08T07:30:46Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3560,7 +3560,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-07T15:30:47Z
+  Updated: 2025-10-08T07:30:47Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3700,7 +3700,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-treadmill-wooden-cat-exercise-wheel-with-carpeted-runway-cat-running-wheel-with-brake-for-exercise-natural-wood-finish-715009.jpg?v=1700660726
   Price: £170.99 GBP
 - [Elevated Cat House, Kitten Bed, Pet Shelter, Wrapped with Scratcher, Soft Cushion, 41 x 38 x 43 cm, Khaki](https://veryimportantpets.shop/products/elevated-cat-house-kitten-bed-pet-shelter-wrapped-with-scratcher-soft-cushion-41-x-38-x-43-cm-khaki): Stimulate your cat's instincts in a fun and safe way with this cat shelter. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:41Z
+  Updated: 2025-10-08T07:30:47Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -4324,7 +4324,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/small-animal-cage-with-hammock-wheels-pets-home-small-animal-cage-482199.jpg?v=1700648506
   Price: £71.99 GBP
 - [Mobile Small Animal Cage - Ideal for Small Rabbits, Guinea Pigs](https://veryimportantpets.shop/products/mobile-small-animal-cage-ideal-for-small-rabbits-guinea-pigs): Give your small pet their place to chill the day away with this cage from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-07T23:30:46Z
+  Updated: 2025-10-08T07:30:46Z
   Vendor: PawHut
   Product Type: Small Animal Cage
   Availability: Available
@@ -4520,7 +4520,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pig-cage-separable-bunny-run-small-animal-house-for-indoor-with-slide-out-tray-161-x-505-x-533cm-grey-rabbit-hutch-461777.jpg?v=1700645577
   Price: £125.99 GBP
 - [2 in 1 Rabbit Hutch Outdoor, Double Main House Guinea Pig Hutch, Bunny Run, Wooden Small Animal House with Run Box, Slide-out Tray, Ramp, 259 x 64 x 92cm, Grey](https://veryimportantpets.shop/products/2-in-1-rabbit-hutch-outdoor-double-main-house-guinea-pig-hutch-bunny-run-wooden-small-animal-house-with-run-box-slide-out-tray-ramp-259-x-64-x-92cm-grey): The ideal home for small pets – this PawHut small animals cage provides space and comfort. Shop online at Very Important Pets
-  Updated: 2025-10-07T15:30:47Z
+  Updated: 2025-10-08T07:30:47Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -6408,7 +6408,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/fold-hill-mini-mixer-meal-15-kg-mixer-dog-biscuits-437223.png?v=1736528944
   Price: £31.47 GBP
 - [Fold Hill Adult Complimentary Mixer Meal for Dogs - 15kg](https://veryimportantpets.shop/products/fold-hill-mixer-15-kg): Fold Hill Adult Mixer Meal for a balanced diet for dogs, made with whole wheatmeal and natural oils for a shiny coat and overall health. Lincolnshire crafted.
-  Updated: 2025-10-07T17:28:15Z
+  Updated: 2025-10-08T05:27:52Z
   Vendor: Fold Hill
   Product Type: Mixer Dog Biscuits
   Availability: Available
