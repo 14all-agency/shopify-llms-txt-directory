@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-08T16:00:37.843Z
+- Updated At: 2025-10-08T20:00:39.339Z
 
 ## Products
 
@@ -1195,7 +1195,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/LightBrown-Color-Swatches-Curiosa-23.jpg?v=1554212016
     Price: 19,50 € EUR
 - [Henna Penna - Tatouage au Henné (feutre) - plusieurs coloris](https://ma-boutique-henne.com/products/henna-penna-tatouage-au-henne-feutre-plusieurs-coloris): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna penna, tatouage au henné, tattoo henna, henna lips, henna eyes, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, crayon yeux, rouge à lèvres
-  Updated: 2025-10-06T16:08:03Z
+  Updated: 2025-10-08T17:20:12Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -1761,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Ce henné 100% naturel, du Soudan, rouge cerise renforcé sodium picramate BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, soudanais, coloration, coloration cheveux gris, henna, algérie
-  Updated: 2025-10-08T15:27:06Z
+  Updated: 2025-10-08T18:39:42Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
