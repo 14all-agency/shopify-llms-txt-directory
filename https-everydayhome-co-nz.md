@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-07T20:00:36.367Z
+- Updated At: 2025-10-08T00:00:35.922Z
 
 ## Products
 
@@ -312,7 +312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Clothes-Rack-White-6.jpg?v=1727659793
   Price: $399.99 NZD
 - [Brabantia Bo Touch Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-platinum): Bo Touch Bin, 2 X 30L, Platinum
-  Updated: 2025-10-04T00:07:11Z
+  Updated: 2025-10-07T22:22:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1117,7 +1117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Pedal-Bin-2-X-30L-White-5.png?v=1727659038
   Price: $579.99 NZD
 - [Brabantia Bo Touch Bin Hi - 60L Matt Black](https://everydayhome.co.nz/products/bo-touch-bin-hi-60l-matt-black): Looking for a bin with great design and great capacity? This Brabantia Bo Touch Bin Hi is the one! This 60 litre XXL beauty has four elegant legs, a soft-touch opening system and integrated grips. It opens at the lightest touch and is designed with love for your home and care for our planet. A big help for every household.
-  Updated: 2025-09-23T12:35:15Z
+  Updated: 2025-10-07T22:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -1250,7 +1250,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Hangon-Drying-Rack-25M-Matt-Black-8_5e698c18-5350-4b34-b198-0eca35a632a5.png?v=1730849647
   Price: $176.99 NZD
 - [Brabantia Ironing Board B - Denim Blue](https://everydayhome.co.nz/products/ironing-board-b-124x38cm-sir-22mm-black-frame-denim-blue): Sturdy, stable and designed for easy ironing - this standard Brabantia Ironing Board B is setting the standards. It has a steam iron rest that is suitable for left and righthanded use, a sturdy and stable frame and more. Check out all those other nifty features that make this board great value for great ironing.
-  Updated: 2025-09-23T12:35:26Z
+  Updated: 2025-10-07T23:52:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2951,7 +2951,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattSteel-8710755385285Brabantia_96dpi_1000x1000px_7_NR-24802.png?v=1734469205
   Price: $74.95 NZD
 - [Brabantia Knife Block with Utensil Holder - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-utensil-holder-dark-grey): Cut the clutter in your kitchen with this Brabantia Profile Knife Block with Utensil Holder. This stylish dark grey block keeps all your favourite kitchen tools together. Ultimate organising!
-  Updated: 2025-10-04T22:07:10Z
+  Updated: 2025-10-07T22:52:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3217,7 +3217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/StackableGlassJar_0.6L-Transparent-8710755298288Brabantia_96dpi_1000x1000px_7_NR-1814.png?v=1734562722
   Price: $29.99 NZD
 - [Brabantia Premium Clothes Peg Bag - Mixed Colours](https://everydayhome.co.nz/products/clothes-peg-bag-premium-assorted-colours): Keep your clothes pegs close – store up to 150 of them in Brabantia's Premium Clothes Peg Bag. Attach it to your rotary dryer, line, drying rack or your trouser belt, to keep your pegs handy. This durable and solid Peg Bag even has a closing cord to keep your clothes pegs together and clean. Premium quality!
-  Updated: 2025-09-23T12:37:53Z
+  Updated: 2025-10-07T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4287,28 +4287,28 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/RollTopBreadBin-White-8710755306020Brabantia_300dpi_2000x2000px_9_NR-21282.jpg?v=1756436710
   Price: $149.99 NZD
 - [Brabantia Profile Can Opener - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-can-opener-matt-steel): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-10-05T20:07:11Z
+  Updated: 2025-10-07T20:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCanOpener-MattSteel-8710755250187Brabantia_300dpi_2000x2000px_9_NR-19669.jpg?v=1756767159
   Price: $39.95 NZD
 - [Brabantia Profile Cheese Slicer - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-cheese-slicer-matt-steel): Cheese louise! This Brabantia Cheese Slicer is perfect for slicing all sorts of cheese. This sleek and stylish slicer has a sharp blade and great grip - made for easy slicing.
-  Updated: 2025-10-02T04:07:11Z
+  Updated: 2025-10-07T20:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCheeseSlicer-MattSteel-8710755250200Brabantia_96dpi_2000x2000px_9_NR-19671.jpg?v=1756436090
   Price: $29.95 NZD
 - [Brabantia Profile Pizza/Pastry Cutter - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-pizza-pastry-cutter-matt-steel): The wheel reinvented! This Brabantia Pizza/Pastry Cutter cuts your pizza and pastry into perfect parts. The stainless-steel wheel is large and sharp - made for easy cutting, even thick bakes.
-  Updated: 2025-10-05T20:07:10Z
+  Updated: 2025-10-07T20:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePizza_PastryCutter-MattSteel-8710755250446Brabantia_300dpi_2000x2000px_9_NR-19702.jpg?v=1756435812
   Price: $27.95 NZD
 - [Brabantia Profile Potatoe Masher - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-potatoe-masher-matt-steel): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-10-05T20:07:11Z
+  Updated: 2025-10-07T20:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4322,7 +4322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Large_Non-Stick-MattSteel-8710755250705Brabantia_300dpi_2000x2000px_9_NR-19742.jpg?v=1756435037
   Price: $24.95 NZD
 - [Brabantia Profile Spatula Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-matt-steel): Eggs, meat, pancakes… Flip 'em and serve 'em with this Brabantia Profile Spatula, Small. This Matt Steel spatula has slots, so fat runs off easily. And it has no seams or welds, so it is also easy to clean and hygienic. A super spatula!
-  Updated: 2025-10-02T04:07:16Z
+  Updated: 2025-10-07T20:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4343,7 +4343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileServingSpoon_NonStick-MattSteel-8710755250828Brabantia_300dpi_2000x2000px_9_NR-19764.jpg?v=1756434339
   Price: $24.95 NZD
 - [Brabantia Profile Whisk Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-whisk-small-matt-steel): Whip up your style with this unbeatable yet small whisk. This Brabantia Whisk Small fits a glass, cup or small bowl with ease. A great little helper!
-  Updated: 2025-10-02T04:07:11Z
+  Updated: 2025-10-07T20:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4399,7 +4399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineGarlicPress-White-8710755400667Brabantia_300dpi_2000x2000px_9_NR-4565.jpg?v=1755820698
   Price: $29.95 NZD
 - [Brabantia Ironing Board Cover B - Denim Black](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-b-denim-black): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable, practical and fair - all cotton is Fairtrade certified. A real top layer for your Brabantia Ironing Board B!
-  Updated: 2025-10-05T19:07:11Z
+  Updated: 2025-10-07T23:52:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4476,7 +4476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/KitchenRollHolder_FreeStanding-BrilliantSteel-8710755493546Brabantia_300dpi_2000x2000px_9_NR-6492.jpg?v=1756269963
   Price: $59.99 NZD
 - [Brabantia Ironing Board Felt Underlay - White](https://everydayhome.co.nz/products/brabantia-ironing-board-felt-underlay-white): Did you know that this extra thick, resilient underlay is the base of great ironing results? The polyester felt keeps your cover dry, for a smooth-gliding iron, even if you are a heavy steamer. And its resilience allows you to put extra pressure on those pesky creases, getting rid of them easier. Just what you need!
-  Updated: 2025-10-05T17:37:14Z
+  Updated: 2025-10-07T23:52:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
