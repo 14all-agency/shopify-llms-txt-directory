@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-07T16:00:34.226Z
+- Updated At: 2025-10-08T04:00:35.509Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-10-07T02:02:02Z
+  Updated: 2025-10-08T02:00:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LOBBY.jpg?v=1757517229
     Price: $1.00 USD
 - [Brocade Damask Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-damask-velvet-fabric): Transform your upholstery projects with Brocade Damask Velvet Fabric from Fabrics Star. This embossed material adds elegance and sophistication to coaches, chairs, and more.
-  Updated: 2025-10-03T16:07:55Z
+  Updated: 2025-10-07T20:42:37Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3947,7 +3947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AZALEA-DARK-NAVY.jpg?v=1757517782
     Price: $1.00 USD
 - [SPRING GARDEN Floral Digital Print Fabric | 58 Inch Wide](https://fabricsstar.com/products/floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Discover the SPRING GARDEN Floral Digital Print Fabric, 58" wide for home decor. Medium weight, 100% polyester, sold by the yard. Order now!
-  Updated: 2025-09-16T00:42:56Z
+  Updated: 2025-10-07T18:35:05Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-09-29T02:39:26Z
+  Updated: 2025-10-07T20:35:17Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9696,6 +9696,9 @@
     Author: User
   - [Exploring Textural Traditions in Global Fabric Cultures](https://fabricsstar.com/blogs/news/exploring-textural-traditions-in-global-fabric-cultures): Exploring Textural Traditions in Global Fabric Cultures
     Updated: 2025-10-06T03:13:01Z
+    Author: User
+  - [Mastering Fabric Terminology for Informed Purchases](https://fabricsstar.com/blogs/news/mastering-fabric-terminology-for-informed-purchases): Mastering Fabric Terminology for Informed Purchases
+    Updated: 2025-10-08T02:38:14Z
     Author: User
 
 ## Store Pages
