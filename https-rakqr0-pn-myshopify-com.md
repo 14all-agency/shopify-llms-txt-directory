@@ -6,26 +6,26 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-08T08:00:51.673Z
+- Updated At: 2025-10-08T12:00:51.310Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://rakqr0-pn.myshopify.com/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-08T07:46:55Z
+  Updated: 2025-10-08T11:16:00Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/8174244845.jpg?v=1755391542
   Price: ₹599.00 INR
 - [Press Wall-Mounted Dispenser Soap Manual](https://rakqr0-pn.myshopify.com/products/press-wall-mounted-dispenser-soap-manual): Product Name: Press Wall-Mounted Dispenser Soap ManualPackage Contains: It has 1 Wall-Mounted Dispenser Soap Color: As per availability Material: Plastic Combo: Pack of 1Dimension: 22*6.5*7.5(cm)Weight: 200
-  Updated: 2025-10-07T09:19:25Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/8376629622.jpg?v=1755391594
   Price: ₹399.00 INR
 - [Loafers For Men (Tan)](https://rakqr0-pn.myshopify.com/products/loafers-for-men-tan): MYTACO Men's Casual Shoes - Loafers For Men in Tan color. Made with synthetic leather outer material and synthetic inner material. Features slip-on closure, solid heel pattern, and stitch details ornamentation. Ideal for casual occasions. Size UK/India 10 (Euro Size 44). Care instructions: dust any dry dirt from the surface using a clean cloth, do not polish or shiner. Article Number: MTC_501_TAN. Brand: MYTACO.
-  Updated: 2025-10-07T09:17:06Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -43,7 +43,7 @@
     Availability: Available
     Price: ₹307.00 INR
 - [Kcandy Running,Walking,Training,Sports Shoes,Casual shoe Sneakers For Men (White)](https://rakqr0-pn.myshopify.com/products/kcandy-running-walking-training-sports-shoes-casual-shoe-sneakers-for-men-white): RESTINSHOES brand sneakers for men in white color. These uniquely designed shoes give you the comfort you need with the style you want. Made with synthetic outer material and comfort foam inner material. Features lace-up closure. Ideal for casual occasions. Available in various sizes (6-10 UK/India). Care instructions: Avoid from excess heat, dust any dry dirt from the surface using a clean cloth, rinse with soap and water to remove excess dirt from sole. Article Number: WHITE 1F. Style Code: F1.
-  Updated: 2025-10-07T09:16:22Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -61,7 +61,7 @@
     Availability: Available
     Price: ₹286.00 INR
 - [For Men (White)](https://rakqr0-pn.myshopify.com/products/for-men-white): BOKZZON brand casual shoes for men in white color. Made with synthetic outer material and features lace-up closure. Ideal for casual occasions. Size UK/India 9 (Euro Size 43). Article Number: 28_SPY_SKU-WHITE HEARTBEAT. Brand: BOKZZON.
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
     Availability: Available
     Price: ₹392.00 INR
 - [Sneakers For Men (Black)](https://rakqr0-pn.myshopify.com/products/sneakers-for-men-black): Sender brand sneakers for men in black color. Made with mesh outer material and synthetic inner material. Features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 44). Article Number: SHOPSY-SOCKS101-BLK. Brand: Sender. Available in multiple colors including Black, Blue, Green, Grey, Orange, and White.
-  Updated: 2025-10-07T09:20:36Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
     Availability: Available
     Price: ₹288.00 INR
 - [WHITE HIGH TOPS CASUAL SHOES FOR MEN & BOYS High Tops For Men (White)](https://rakqr0-pn.myshopify.com/products/white-high-tops-casual-shoes-for-men-boys-high-tops-for-men-white): ESHANO brand white high tops casual shoes for men and boys. Made with synthetic leather outer material and comfort foam inner material. Features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 40). Article Number: 2844. Brand: ESHANO. Best quality shoes with care instructions: DO NOT WASH.
-  Updated: 2025-10-07T09:23:02Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -115,7 +115,7 @@
     Availability: Available
     Price: ₹301.00 INR
 - [Casuals For Men (Black)](https://rakqr0-pn.myshopify.com/products/casuals-for-men-black): jootiyapa brand casual shoes for men in black color. Made with mesh outer material and features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 41). Article Number: S-ADVANCHAR. Brand: jootiyapa. Available in multiple colors including Black, Grey, and TBlue.
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: ₹299.00 INR
 - [Casuals For Men (Grey)](https://rakqr0-pn.myshopify.com/products/casuals-for-men-grey): Trendzone brand casual shoes for men in grey color. Made with mesh outer material. Ideal for casual occasions. Available in sizes 6-10 UK/India. Article Number: 12543. Brand: Trendzone. Available in multiple colors including Black, Blue, Grey, and Navy Blue. Bestseller with 50+ users rated 5 stars.
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
     Availability: Available
     Price: ₹283.00 INR
 - [JOOTIYAPA PREMIUM TRENDING SNEAKER SHOES FOR MEN Sneakers For Men (White)](https://rakqr0-pn.myshopify.com/products/jootiyapa-premium-trending-sneaker-shoes-for-men-sneakers-for-men-white): jootiyapa brand premium trending sneaker shoes for men in white color. Made with synthetic outer material and features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 42). Article Number: TSHOPSY-MOUNT. Brand: jootiyapa.
-  Updated: 2025-10-07T09:16:11Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -169,7 +169,7 @@
     Availability: Available
     Price: ₹280.00 INR
 - [JOOTIYAPA PREMIUM NEW TRENDING CASUAL SHOES FOR MEN Casuals For Men (Blue)](https://rakqr0-pn.myshopify.com/products/jootiyapa-premium-new-trending-casual-shoes-for-men-casuals-for-men-blue): jootiyapa brand premium new trending casual shoes for men in blue (TBLUE) color. Made with mesh outer material and features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India. Article Number: S-ADVANCHAR. Brand: jootiyapa. Available in multiple colors including Black, Grey, and TBlue. Sole material: PVC.
-  Updated: 2025-10-07T09:16:11Z
+  Updated: 2025-10-08T09:12:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -187,7 +187,7 @@
     Availability: Available
     Price: ₹299.00 INR
 - [Ontour Trendy Casual Sports Mens Shoes Canvas Shoes For Men (Green)](https://rakqr0-pn.myshopify.com/products/ontour-trendy-casual-sports-mens-shoes-canvas-shoes-for-men-green): ONTOUR brand trendy casual sports mens canvas shoes in green color. Made with EVA outer material and features lace-up closure. Inner material includes skin fit and memory foam technology for enhanced comfort. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 42). Article Number: 1124. Brand: ONTOUR. Available in multiple colors including Black, Black/Grey, Black_org, Green, Grey_Red, N blue gry red, Nevy_blue, Red, and Sky_blue. Bestseller product. Washable and designed for running, sports, and casual wear.
-  Updated: 2025-10-07T09:18:47Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -205,7 +205,7 @@
     Availability: Available
     Price: ₹297.00 INR
 - [Men's Stylish Grey Sports Shoes For Running, Walking, Gym & Casual Shoes Sneakers For Men (Grey, Black)](https://rakqr0-pn.myshopify.com/products/mens-stylish-grey-sports-shoes-for-running-walking-gym-casual-shoes-sneakers-for-men-grey-black): Scull Wings brand men's stylish grey sports shoes designed for running, walking, gym and casual wear. Made with synthetic outer material and breathable mesh fabric with lightweight cushioned sole. Features non-slip durable sole for firm grip on all surfaces. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 40). Article Number: SP-3. Brand: Scull Wings. Care instructions: clean with dry cloth or soft brush. Perfect for men looking for lightweight, breathable, and durable sports sneakers for all-day wear.
-  Updated: 2025-09-23T12:40:05Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -223,7 +223,7 @@
     Availability: Available
     Price: ₹395.00 INR
 - [Loafers For Men (Black)](https://rakqr0-pn.myshopify.com/products/loafers-for-men-black): Umax brand loafers for men in black color. Made with synthetic leather outer material and features laser cut ornamentation. Ideal for casual occasions. Available in sizes 7-8 UK/India (Euro Size 41). Article Number: ART-5008-BLACK. Brand: Umax. Available in Black and Tan colors. Not suitable for formal wear, designed for casual use.
-  Updated: 2025-10-07T09:17:06Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -241,7 +241,7 @@
     Availability: Available
     Price: ₹304.00 INR
 - [RKM Casual Shoes For Men Walking , Sneakers ,Loafer casual shoes for Men blue Sneakers For Men (Blue)](https://rakqr0-pn.myshopify.com/products/rkm-casual-shoes-for-men-walking-sneakers-loafer-casual-shoes-for-men-blue-sneakers-for-men-blue): Pennon brand RKM casual shoes for men in blue color. Made with canvas outer material and features lace-up closure. Lightweight and breathable design suitable for daily wear and home washable. Made with air cushion outsoles for shock absorption, durability and slip resistance. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 41). Article Number: PEN-1011. Brand: Pennon. Available in Black, Blue, T-Blue, and White colors. Weight approximately 450 grams.
-  Updated: 2025-10-07T09:20:02Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -259,7 +259,7 @@
     Availability: Available
     Price: ₹264.00 INR
 - [Sneakers For Men (Black, White)](https://rakqr0-pn.myshopify.com/products/sneakers-for-men-black-white): JAMARION brand sneakers for men in black and white colors. Made with canvas outer material. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 43). Article Number: AAKHADAA99. Brand: JAMARION. Lightweight design.
-  Updated: 2025-10-07T09:20:47Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -277,7 +277,7 @@
     Availability: Available
     Price: ₹330.00 INR
 - [JOOTIYAPA PREMIUM TRENDY SNEAKERS Sneakers For Men (White)](https://rakqr0-pn.myshopify.com/products/jootiyapa-premium-trendy-sneakers-sneakers-for-men-white): jootiyapa brand premium trendy sneakers for men in white color. Made with synthetic outer material and features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 41). Article Number: ZSHOPSY-LEAF. Brand: jootiyapa. Available in Black and White colors.
-  Updated: 2025-10-07T09:16:11Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -295,7 +295,7 @@
     Availability: Available
     Price: ₹285.00 INR
 - [Sneakers For Men (Blue)](https://rakqr0-pn.myshopify.com/products/sneakers-for-men-blue): Joyrun brand sneakers for men in blue color. Made with mesh outer material and lightweight EVA foam midsole with rubber sole for superior grip and stability. Ultra-lightweight, breathable, and comfortable design perfect for everyday wear. Features lace-up design with padded tongue for added comfort. Ideal for casual occasions. Available in sizes 6-10 UK/India. Article Number: 92030. Brand: Joyrun. Care instructions: Machine wash only. Bestseller with 50+ users rated 5 stars.
-  Updated: 2025-10-07T09:20:47Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -313,7 +313,7 @@
     Availability: Available
     Price: ₹264.00 INR
 - [For Men (White) - BOKZZON Men's Casual Shoes](https://rakqr0-pn.myshopify.com/products/for-men-white-bokzzon-mens-casual-shoes): BOKZZON Men's Casual Shoes in White color. These are synthetic casual shoes with lace-up closure, ideal for men. Features include Euro Size 43, UK/India Size 9, and suitable for casual occasions. The shoes are white colored with synthetic outer material.
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -331,7 +331,7 @@
     Availability: Available
     Price: ₹392.00 INR
 - [Roadster Boots For Men (Grey , 10)](https://rakqr0-pn.myshopify.com/products/roadster-boots-for-men-grey-10): Roadster Boots For Men in Grey color with 1 inch heel height. Made with synthetic outer material, ideal for men's casual wear. Features include Grey brand color, Euro size 44, UK/India size 10, and article number AW-23RD-LPB08C. Suitable for casual occasions with boots type design.
-  Updated: 2025-10-07T09:20:02Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -349,7 +349,7 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Vellinto Boots For Men Boots For Men (Brown , 6)](https://rakqr0-pn.myshopify.com/products/vellinto-boots-for-men-boots-for-men-brown-6): Vellinto Boots For Men in Brown color with 0.8 inch heel height. Made with leather outer material and synthetic leather inner material. Features lace-up closure, Napa leather type, Airmix sole material, and weighs 700g per shoe. Available in multiple colors (Beige, Black, Brown, Tan) with Euro size 40, UK/India size 6. Article number ART_CA182BWN. Suitable for casual occasions with round tip shape.
-  Updated: 2025-10-07T09:22:46Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -367,7 +367,7 @@
     Availability: Available
     Price: ₹956.00 INR
 - [Layasa Men's Synthetic Leather Casual Oxford Lace-up Ankle Dress Boots For Men (Brown , 7)](https://rakqr0-pn.myshopify.com/products/layasa-mens-synthetic-leather-casual-oxford-lace-up-ankle-dress-boots-for-men-brown-7): Layasa Men's Synthetic Leather Casual Oxford Lace-up Ankle Dress Boots in Brown color with 2 inch heel height. Made with synthetic outer material, TPR sole material, and weighs 800g per shoe. Features lace-up closure, self design pattern, round toe tip shape, and applique ornamentation. Available in Black and Brown colors with Euro size 41, UK/India size 7. Article number LD5322. Suitable for casual occasions and can be worn for formals.
-  Updated: 2025-10-07T09:17:01Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -385,7 +385,7 @@
     Availability: Available
     Price: ₹982.00 INR
 - [Luciano BOOT SHOES FOR MEN Boots For Men (Brown , 10)](https://rakqr0-pn.myshopify.com/products/luciano-boot-shoes-for-men-boots-for-men-brown-10): Luciano BOOT SHOES FOR MEN in Brown color made from nubuck leather with soft, velvety texture. Features ankle-length design, pointed toe for sleek look, Airmix sole for enhanced cushioning and support. Lightweight construction with synthetic leather outer material and synthetic leather inner material. Available in Black and Brown colors. Designed for durability and comfort with proper grip on various surfaces.
-  Updated: 2025-10-07T09:17:07Z
+  Updated: 2025-10-08T09:12:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -403,7 +403,7 @@
     Availability: Available
     Price: ₹540.00 INR
 - [OMEE GOLD Military Army Tactical Combat Camouflage Boots For Men (Black , 10)](https://rakqr0-pn.myshopify.com/products/omee-gold-military-army-tactical-combat-camouflage-boots-for-men-black-10): OMEE GOLD Military Army Tactical Combat Camouflage Boots made from top grain leather ensuring stylish and durable construction. Features camouflage pattern, leather outer and inner material, lace-up closure, PU sole material, and weighs 1135g per shoe. Available in Black and Green colors with Euro size 44, UK/India size 10. Article number PRINT KAPDA-10. Suitable for casual occasions, hiking & trekking, and can be used for NCC parades. Round tip shape with 0 inch heel height.
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -421,7 +421,7 @@
     Availability: Available
     Price: ₹621.00 INR
 - [LEE COOPER LC4800ETAN Boots For Men (Tan , 6)](https://rakqr0-pn.myshopify.com/products/lee-cooper-lc4800etan-boots-for-men-tan-6): These boots are a perfect blend of classic and stylish design. The tan leather exterior gives them a timeless appeal, making them a versatile choice for any casual occasion. Features: Colour: Tan, 0.5 inch Heel Height, Outer Material: Leather, Closure: Lace-Ups, Split leather type, TPR sole material, Weight: 600g per shoe.
-  Updated: 2025-10-07T09:16:56Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -439,7 +439,7 @@
     Availability: Available
     Price: ₹1,789.00 INR
 - [Vellinto Boots For Men (Beige , 6)](https://rakqr0-pn.myshopify.com/products/vellinto-boots-for-men-beige-6): Vellinto Boots For Men in Beige color with 0.5 inch heel height. Made with synthetic leather outer material and fabric inner material. Features lace-up closure, nubuck leather type, solid heel pattern, and weighs 900g per shoe. Available in Beige, Black, Brown, and Tan colors with Euro size 40, UK/India size 6. Article number ART_CA386BEG. Suitable for casual occasions with round tip shape. Water resistant and can be polished.
-  Updated: 2025-10-07T09:22:47Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -457,7 +457,7 @@
     Availability: Available
     Price: ₹989.00 INR
 - [Xylus Xylus Casual High Tops For Men Training & Gym Walking Shoes Boots For Men (Multicolor , 8)](https://rakqr0-pn.myshopify.com/products/xylus-xylus-casual-high-tops-for-men-training-gym-walking-shoes-boots-for-men-multicolor-8): Xylus Casual High Tops For Men made from Napa leather with soft and smooth surface that feels pleasant to touch. Features 0.5 inch heel height, synthetic outer material, soft and cushioned inner material, lace-up closure, and self design pattern. Available in Grey and Red colors. Classic lace-up fastening allows adjustable fit, durable PU sole provides solid support, and round toe shape gives toes more room to move naturally. Ideal for training, gym activities, and long walks.
-  Updated: 2025-10-07T09:26:17Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -475,7 +475,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [Rising Wolf Lightweight Comfort Extra Soft Summer Trendy Premium Stylish Party Boots For Men (Black , 8)](https://rakqr0-pn.myshopify.com/products/rising-wolf-lightweight-comfort-extra-soft-summer-trendy-premium-stylish-party-boots-for-men-black-8): These boots are designed to add a touch of style to your casual outfits. Whether you're going for a walk in the park or meeting friends for a coffee, these boots will elevate your look with their sleek design. Features: Colour: Black, 0.2 inch Heel Height, Outer Material: Synthetic Leather, Closure: Lace-Ups, Split leather type, Lightweight technology, Weight: 200g per shoe.
-  Updated: 2025-10-07T09:20:02Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -493,7 +493,7 @@
     Availability: Available
     Price: ₹759.00 INR
 - [Benera Boots For Men (Multicolor , 7 UK/India)](https://rakqr0-pn.myshopify.com/products/benera-boots-for-men-multicolor-7-uk-india): Benera Boots For Men in Multicolor with 1 inch heel height. Made with PU outer material and soft fabric lining inner material. Features lace-up closure, top grain leather type, solid heel pattern, and weighs 900g per shoe. Euro size 41, UK/India size 7. Article number GOD-106 DIGITAL JUNGLE. Suitable for casual occasions, hiking & trekking with military high tops theme. Round tip shape with stuck-on technology and skinfit lining. Note: This product runs a size smaller.
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -511,7 +511,7 @@
     Availability: Available
     Price: ₹1,322.00 INR
 - [Aqualite ATR-102 Casual Trekking Shoes, Foam, Mesh Boots For Men (Black , 9)](https://rakqr0-pn.myshopify.com/products/aqualite-atr-102-casual-trekking-shoes-foam-mesh-boots-for-men-black-9): These casual boots are designed to help you walk swiftly and with style. Wear them with pride on various casual occasions and events. Features: Colour: Black, Outer Material: Mesh, Inner Material: Comfortable Cushioned Insole, Closure: Lace-Ups, Sole material: PU, 0 inch Heel Height, Round Toe tip shape.
-  Updated: 2025-10-07T07:57:27Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
     Availability: Available
     Price: ₹963.00 INR
 - [3SIX5 Premium Quality & Comfortable Partywear Boots For Men (Black , 8)](https://rakqr0-pn.myshopify.com/products/3six5-premium-quality-comfortable-partywear-boots-for-men-black-8): These boots are designed to add a touch of style to your casual outfits. With a solid black color and a rounded shape, they are perfect for men who want to make a fashion statement. Features: Colour: Black, 0.5 inch Heel Height, Outer Material: Synthetic, Inner Material: Mesh, Closure: Zip, Pattern: Solid, Sole material: Airmix, Weight: 200g per shoe.
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -547,7 +547,7 @@
     Availability: Available
     Price: ₹546.00 INR
 - [SHOELINE Classic Stylish Comfortable Outdoor HIGH-TOP Ankle Length Boots For Men (Tan , 7)](https://rakqr0-pn.myshopify.com/products/shoeline-classic-stylish-comfortable-outdoor-high-top-ankle-length-boots-for-men-tan-7): These lace-up boots are designed for casual occasions, offering a stylish and versatile option for your footwear collection. With their solid construction and trendy lace ornamentation, these boots are sure to elevate your fashion game. Features: Colour: Tan, 1.5 inch Heel Height, Outer Material: Synthetic Leather, Inner Material: Mesh and Breathable cushion Lining, Closure: Lace-Ups, Pattern: Self Design, Sole material: EVA, Weight: 900g per shoe.
-  Updated: 2025-10-07T09:20:23Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -565,7 +565,7 @@
     Availability: Available
     Price: ₹646.00 INR
 - [Creer Boots For Men (White , 8)](https://rakqr0-pn.myshopify.com/products/creer-boots-for-men-white-8): Casual boots designed for men with comfortable features. Features: Colour: White, Outer Material: Synthetic, Inner Material: COMFORT FOAM, Closure: Lace-Ups, Pattern: Solid, Sole material: PVC, 0 inch Heel Height, Round tip shape, Care instructions: Wash in Lukewarm Water, Do Not Bleach.
-  Updated: 2025-10-07T09:09:17Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -583,7 +583,7 @@
     Availability: Available
     Price: ₹434.00 INR
 - [WOODLAND Boots For Men (Camel , 8)](https://rakqr0-pn.myshopify.com/products/woodland-boots-for-men-camel-8): These camel boots are designed to help you make a style statement while keeping your feet comfortable. Suitable for casual occasions these leather boots add a touch of sophistication to your outfit. Colour: Camel Outer Material: Leather
-  Updated: 2025-10-07T09:26:16Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -601,7 +601,7 @@
     Availability: Available
     Price: ₹2,130.00 INR
 - [Layasa Men's Ankle Mid-Top Hiking Casual Outdoor Lightweight Boots For Men (Beige , 6)](https://rakqr0-pn.myshopify.com/products/layasa-mens-ankle-mid-top-hiking-casual-outdoor-lightweight-boots-for-men-beige-6): Layasa Men's Ankle Mid-Top Hiking Casual Outdoor Lightweight Boots in Beige color with 2 inch heel height. Made with synthetic outer material, Airmix sole material, and weighs 800g per shoe. Features lace-up closure, self design pattern, solid heel pattern, and applique ornamentation. Available in Black, Brown, and Tan colors with Euro size 40, UK/India size 6. Article number LB502. Suitable for casual occasions and outdoor activities with hand made technology and round tip shape.
-  Updated: 2025-10-07T09:16:56Z
+  Updated: 2025-10-08T09:12:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -619,7 +619,7 @@
     Availability: Available
     Price: ₹658.00 INR
 - [OMEE GOLD Mens Black Tactical Combat Army/Military Boots (Kala Kapda) Boots For Men (Black , 7)](https://rakqr0-pn.myshopify.com/products/omee-gold-mens-black-tactical-combat-army-military-boots-kala-kapda-boots-for-men-black-7): OMEE GOLD Mens Black Tactical Combat Army/Military Boots (Kala Kapda) in Black color. Made with leather outer and inner material, lace-up closure, and solid pattern. Available in Black and Green colors. Weighs approximately 1300g per shoe. Suitable for casual occasions, NCC parades, and trekking. Very comfortable design with tactical combat features for army/military use.
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -637,7 +637,7 @@
     Availability: Available
     Price: ₹632.00 INR
 - [WOODLAND Boots For Men (Khaki , 9)](https://rakqr0-pn.myshopify.com/products/woodland-boots-for-men-khaki-9): Combining function and style, these shoes are ideal for day-to-day wear. Coordinate them with a solid T-shirt, mid-rise jeans, and retro round sunglasses. Features: Colour: Khaki, Outer Material: Leather, Closure: Lace-Ups, Snow resistant but not water resistant.
-  Updated: 2025-10-07T09:26:17Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -655,7 +655,7 @@
     Availability: Available
     Price: ₹2,089.00 INR
 - [BOLLERO Outdoor,Riding,Casual Boot For Men Boots For Men (Brown , 8)](https://rakqr0-pn.myshopify.com/products/bollero-outdoor-riding-casual-boot-for-men-boots-for-men-brown-8): These high top boots are designed to help you walk swiftly and with an attitude. Wear them with pride on casual occasions and events. Colour: Brown, 0.5 inch Heel Height, Outer Material: Synthetic Leather, Closure: Lace-Ups, Pattern: Self Design
-  Updated: 2025-10-07T09:07:17Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -673,7 +673,7 @@
     Availability: Available
     Price: ₹669.00 INR
 - [Zsyto Boots For Men (Tan , 8)](https://rakqr0-pn.myshopify.com/products/zsyto-boots-for-men-tan-8): These boots are designed to give you a stylish and durable footwear option for your casual occasions. With their round toe and solid construction they offer a sleek and timeless look that complements any outfit. Colour: Tan, Outer Material: Synthetic, Inner Material: Comfort foam, Closure: Lace-Ups, Pattern: Solid
-  Updated: 2025-09-22T07:29:43Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -691,7 +691,7 @@
     Availability: Available
     Price: ₹432.00 INR
 - [Harrykson London Lightweight Men's adventure hiking & Trekking, All Terrain Grip Rugged Sole Boots For Men (Olive , 7)](https://rakqr0-pn.myshopify.com/products/harrykson-london-lightweight-mens-adventure-hiking-trekking-all-terrain-grip-rugged-sole-boots-for-men-olive-7): Harrykson London Lightweight Men's adventure hiking & Trekking boots in Olive color with 0.8 inch heel height. Made with genuine leather outer material and fabric & mesh inner material. Features lace-up closure, top grain leather type, EVA sole material, and weighs 800g per shoe. Euro size 41, UK/India size 7. Article number HRWOOD7040. Suitable for casual occasions with handmade technology, round tip shape, and lace ornamentation. Extremely lightweight yet sturdy design ideal for adventure activities.
-  Updated: 2025-10-07T09:12:43Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -709,7 +709,7 @@
     Availability: Available
     Price: ₹1,840.00 INR
 - [JK PORT Boots For Men (Tan , 9)](https://rakqr0-pn.myshopify.com/products/jk-port-boots-for-men-tan-9): These boots are designed for the outdoors, combining style and functionality. Perfect for casual occasions, they are the ideal choice for men who want to make a statement. Features: Colour: Tan, 1 inch Heel Height, Outer Material: Synthetic, Inner Material: Anti-Sweat, Closure: Lace-Ups, Pattern: Self Design, Sole material: Airmix.
-  Updated: 2025-10-07T09:16:11Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -727,7 +727,7 @@
     Availability: Available
     Price: ₹499.00 INR
 - [foot trends Gumboot For Men Flexible PVC 12-inch Labour/Worker Purpose for Men Boots For Men (Black , 10)](https://rakqr0-pn.myshopify.com/products/foot-trends-gumboot-for-men-flexible-pvc-12-inch-labour-worker-purpose-for-men-boots-for-men-black-10): Professional grade gumboots designed for industrial and labor work. Features flexible PVC construction for durability and comfort. Colour: Black, 1 inch Heel Height, Outer Material: PVC, Inner Material: PVC, Closure: Slip-On
-  Updated: 2025-10-07T09:11:12Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -745,7 +745,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [EEGO ITALY Outdoor Boots For Men (Black , 7)](https://rakqr0-pn.myshopify.com/products/eego-italy-outdoor-boots-for-men-black-7): EEGO ITALY Outdoor Boots For Men in Black color with 0 inch heel height. Made with synthetic outer material, rubber sole material, and synthetic lining. Features lace-up closure and round tip shape. Available in Black, Blue, and Tan colors with Euro size 41, UK/India size 7. Article number LEE-1-BLACK. Suitable for casual occasions. Note: This product runs a size larger. Nice and comfortable design for outdoor activities.
-  Updated: 2025-10-07T09:09:47Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -763,7 +763,7 @@
     Availability: Available
     Price: ₹930.00 INR
 - [RED TAPE Genuine Leather Ankle Length Boots for Men | Soft Cushioned Insole Boots For Men (Black , 7)](https://rakqr0-pn.myshopify.com/products/red-tape-genuine-leather-ankle-length-boots-for-men-soft-cushioned-insole-boots-for-men-black-7): Red Tape offers a wide range of footwear, clothing, and accessories for men, women, and kids. Red Tape has become a popular choice for families looking for both everyday and special occasion wear. Features: Colour: Black, Outer Material: Leather, Closure: Lace-Ups, Zip, Pattern: Solid, Slip Resistance, Soft Cushioned Insole, Dynamic Feet Support, Polishable, Runs one size larger.
-  Updated: 2025-10-07T09:19:51Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -781,7 +781,7 @@
     Availability: Available
     Price: ₹1,999.00 INR
 - [Dicolus Boots For Men (Black , 7)](https://rakqr0-pn.myshopify.com/products/dicolus-boots-for-men-black-7): Stylish genuine leather boots perfect for party occasions. Features solid textured design with comfortable cushioning. Colour: Black, 1 inch Heel Height, Outer Material: Genuine Leather, Ideal for: Men, Occasion: Party
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -799,7 +799,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [Zixer Premium Street Hip-hop Shoes Men Casual Sneakers Footwear Running Sport Shoes Boots For Men (Blue , 9)](https://rakqr0-pn.myshopify.com/products/zixer-premium-street-hip-hop-shoes-men-casual-sneakers-footwear-running-sport-shoes-boots-for-men-blue-9): Zixer Premium Street Hip-hop Shoes Men Casual Sneakers in Blue color with 0 inch heel height. Made with synthetic leather outer material. Euro size 43, UK/India size 9. Article number BBD-IN-05-Blue-. Suitable for casual occasions. Premium street hip-hop style design ideal for running and sport activities. Trendy sneakers footwear for men.
-  Updated: 2025-10-07T09:26:15Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -817,7 +817,7 @@
     Availability: Available
     Price: ₹974.00 INR
 - [GOOD MINAR Boots For Men (Brown , 6)](https://rakqr0-pn.myshopify.com/products/good-minar-boots-for-men-brown-6): Crafted with suede outer material, these boots offer a unique and textured appearance in a sophisticated brown hue. Features: Colour: Brown, 1 inch Heel Height, Outer Material: Suede, Inner Material: Synthetic, Closure: Lace-Ups, Sole material: Airmix, Weight: 300g per shoe, Care instructions: Wipe gently with a dry cloth to remove any dried-on dirt and dust.
-  Updated: 2025-10-07T09:12:21Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -835,7 +835,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [Elecant PVC Sole Industrial Safety Shoes With Steel Toe Protection Boots For Men (Black , 6)](https://rakqr0-pn.myshopify.com/products/elecant-pvc-sole-industrial-safety-shoes-with-steel-toe-protection-boots-for-men-black-6): Industrial safety boots with steel toe protection designed for workplace safety. Features PVC sole construction for durability. Colour: Black, 1.5 inch Heel Height, Outer Material: Synthetic Synthetic Leather, Inner Material: PVC, Closure: Lace-Ups, Pattern: Solid
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -853,7 +853,7 @@
     Availability: Available
     Price: ₹469.00 INR
 - [OMEE GOLD Men's Black Leather Tactical Combat Ring NCC/Army/Military Boot Boots For Men (Black , 9)](https://rakqr0-pn.myshopify.com/products/omee-gold-mens-black-leather-tactical-combat-ring-ncc-army-military-boot-boots-for-men-black-9): Very nice DMS boots, very comfortable. These boots are rough and tough quality wise. Features: Colour: Black, 1 inch Heel Height, Outer Material: Genuine Leather, Inner Material: leather, Closure: Lace-Ups, Pattern: Solid, High ankle shoes, Water resistant, Suitable for bootcut jeans.
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -871,7 +871,7 @@
     Availability: Available
     Price: ₹740.00 INR
 - [leo shoes Light Weight Quick dry Breathable for Trekking, Hiking Boots For Men (Red , 7)](https://rakqr0-pn.myshopify.com/products/leo-shoes-light-weight-quick-dry-breathable-for-trekking-hiking-boots-for-men-red-7): Leo shoes Light Weight Quick dry Breathable for Trekking, Hiking Boots in Red color with 1.5 inch heel height. Made with mesh and PU outer material, cushioned foot bed with synthetic lining inner material. Features lace-up closure and mesh pattern. Available in Black, Blue, and Red Black colors. Lightweight design with soft rubberized sole, washable, and breathable construction ideal for trekking and hiking activities.
-  Updated: 2025-10-07T09:16:57Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -889,7 +889,7 @@
     Availability: Available
     Price: ₹903.00 INR
 - [RED CHIEF Forge Casual Outdoors High-Top Boots For Men (Tan , 7)](https://rakqr0-pn.myshopify.com/products/red-chief-forge-casual-outdoors-high-top-boots-for-men-tan-7): Premium genuine leather boots featuring textured design for outdoor and casual wear. Constructed from high-quality solid materials with TPR sole for excellent traction. Colour: Tan, 0.5 inch Heel Height, Outer Material: Genuine Leather, Inner Material: Comfortable cushioning from Inside, Closure: Lace-Ups, Pattern: Solid
-  Updated: 2025-10-07T09:19:51Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -907,7 +907,7 @@
     Availability: Available
     Price: ₹1,774.00 INR
 - [Riya Gold Boots For Men (Black , 7)](https://rakqr0-pn.myshopify.com/products/riya-gold-boots-for-men-black-7): High ankle shoes made with pure leather. Features: Colour: Black, 1 inch Heel Height, Outer Material: Genuine Leather, Suitable for Casual, Formal (Lace Up), and Sports (Running Shoes) occasions, Rubber sole construction.
-  Updated: 2025-10-07T09:20:02Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -925,7 +925,7 @@
     Availability: Available
     Price: ₹941.00 INR
 - [Kraasa Climber Boots For Men (Black , 7)](https://rakqr0-pn.myshopify.com/products/kraasa-climber-boots-for-men-black-7): Designed for everyday wear these shoes are stylish as well as comfortable. Perfect for casual occasions with synthetic leather construction and solid pattern. Colour: Black, 0.85 mm Heel Height, Outer Material: Synthetic Leather, Closure: Lace-Ups, Pattern: Solid
-  Updated: 2025-10-07T09:16:21Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -943,7 +943,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [OMEE GOLD ARMY LONG DMS Boots For Men (Black , 8)](https://rakqr0-pn.myshopify.com/products/omee-gold-army-long-dms-boots-for-men-black-8): Military-style long DMS boots made with genuine leather construction and cotton inner material. Lightweight design with air mix sole for comfort. Colour: Black, 1 inch Heel Height, Outer Material: Genuine Leather, Inner Material: COTTON, Closure: Lace-Ups, Pattern: Solid
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -961,7 +961,7 @@
     Availability: Available
     Price: ₹559.00 INR
 - [Knoos Chelsea Boots For Mens Boots For Men (Black , 8)](https://rakqr0-pn.myshopify.com/products/knoos-chelsea-boots-for-mens-boots-for-men-black-8): Stylish Chelsea boots with zip closure and TPR sole for comfort. Perfect for casual occasions with synthetic outer material. Colour: Black, 1 inch Heel Height, Outer Material: Synthetic, Closure: Zip, Sole material: TPR, Weight: 400g per shoe
-  Updated: 2025-10-07T09:16:21Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -979,7 +979,7 @@
     Availability: Available
     Price: ₹924.00 INR
 - [OMEE GOLD New DMS Steel Toe Army/NCC/Police Boots For Men (Black , 8)](https://rakqr0-pn.myshopify.com/products/omee-gold-new-dms-steel-toe-army-ncc-police-boots-for-men-black-8): Top quality leather, very comfortable DMS boots. Features: Colour: Black, 0.5 inch Heel Height, Outer Material: Genuine Leather, Inner Material: COTTON, Closure: Lace-Ups, Pattern: Solid, Steel toe protection, Heavy weight construction, Suitable for electrical substations, Very comfortable.
-  Updated: 2025-10-07T09:18:46Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -997,7 +997,7 @@
     Availability: Available
     Price: ₹798.00 INR
 - [OMEE GOLD Boots For Men (Black , 6)](https://rakqr0-pn.myshopify.com/products/omee-gold-boots-for-men-black-6): Genuine leather boots with lightweight design and air mix sole. Military-style construction with comfortable fit. Colour: Black, 1 inch Heel Height, Outer Material: Genuine Leather, Lightweight design, Air mix sole
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1015,7 +1015,7 @@
     Availability: Available
     Price: ₹553.00 INR
 - [KILLER Brown Casual Boots For Men Boots For Men (Brown , 6)](https://rakqr0-pn.myshopify.com/products/killer-brown-casual-boots-for-men-boots-for-men-brown-6): Casual boots designed for men with synthetic construction. Features: Colour: Brown, Outer Material: Synthetic, Closure: Lace-Ups, Pattern: Solid, Sole material: AIRMIX, 0 inch Heel Height, Round tip shape, Care instructions: Clean your shoes using a good quality brush to remove loose surface dirt.
-  Updated: 2025-10-07T09:16:22Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1033,7 +1033,7 @@
     Availability: Available
     Price: ₹977.00 INR
 - [Zavier Boots For Men (Brown , 10)](https://rakqr0-pn.myshopify.com/products/zavier-boots-for-men-brown-10): These brown boots are designed to help you walk swiftly and with an attitude. Wear them with pride on casual occasions and events. Features: Colour: Brown, Outer Material: Synthetic Leather, 0 inch Heel Height, Dark brown colour.
-  Updated: 2025-10-07T09:26:17Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1051,7 +1051,7 @@
     Availability: Available
     Price: ₹717.00 INR
 - [Red Eleven Suide Leather Walking Outdoor Slip On Chelsea Boots Boots For Men (Black , 9)](https://rakqr0-pn.myshopify.com/products/red-eleven-suide-leather-walking-outdoor-slip-on-chelsea-boots-boots-for-men-black-9): Handmade suede leather Chelsea boots with slip-on design and elastic closure. Perfect for walking and outdoor activities with airmix sole. Colour: Black, 1 inch Heel Height, Outer Material: Suede, Inner Material: Synthetic, Closure: Elastic Slip-On, Pattern: Self Design, Sole material: Airmix
-  Updated: 2025-10-07T09:19:51Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1069,7 +1069,7 @@
     Availability: Available
     Price: ₹498.00 INR
 - [BIG FOX Side Zip Chelsea Boots For Men (Black , 8)](https://rakqr0-pn.myshopify.com/products/big-fox-side-zip-chelsea-boots-for-men-black-8): Side zip Chelsea boots with lightweight technology. Features: Colour: Black, 0.5 inch Heel Height, Outer Material: Synthetic, Inner Material: Synthetic, Sole material: PVC, Weight: 800g per shoe, Lightweight technology, Round toe tip shape, Care instructions: Wipe with a clean, dry cloth to remove the dust.
-  Updated: 2025-10-07T09:06:43Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1087,7 +1087,7 @@
     Availability: Available
     Price: ₹697.00 INR
 - [Robbie jones Trekking Hiking Biker Boots For Men Boots For Men (Tan , 8)](https://rakqr0-pn.myshopify.com/products/robbie-jones-trekking-hiking-biker-boots-for-men-boots-for-men-tan-8): Trekking hiking biker boots designed for outdoor activities. Features: Colour: Tan, 2 inch Heel Height, Outer Material: PU, Inner Material: Canvas, Closure: Lace-Ups, Pattern: Solid, Sole material: Rubber, Round tip shape, Platform heel type, Care instructions: Clean with synthetic cleaner or shampoo, use fine brush to remove dirt, air-dry at room temperature, never expose to sun.
-  Updated: 2025-10-07T09:20:02Z
+  Updated: 2025-10-08T09:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1105,7 +1105,7 @@
     Availability: Available
     Price: ₹759.00 INR
 - [Zsyto Boots For Men (Brown Beige Black , 7)](https://rakqr0-pn.myshopify.com/products/zsyto-boots-for-men-brown-beige-black-7): Stylish and versatile boots designed to help you make a statement with your casual attire. Perfect for walks or casual meetings with synthetic construction and comfort foam inner material. Colour: Brown Beige Black, Outer Material: Synthetic, Inner Material: COMFORT FOAM, Closure: Lace-Ups, Pattern: Solid, Sole material: PVC
-  Updated: 2025-09-22T07:29:47Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1123,7 +1123,7 @@
     Availability: Available
     Price: ₹428.00 INR
 - [foot trends PVC Safety Gumboots 15-inch Non-Metallic Toe Cap Oil and Acid Resistant Boots For Men (Black , 11)](https://rakqr0-pn.myshopify.com/products/foot-trends-pvc-safety-gumboots-15-inch-non-metallic-toe-cap-oil-and-acid-resistant-boots-for-men-black-11): Professional grade 15-inch PVC safety gumboots with non-metallic toe cap designed for industrial use. Oil and acid resistant with slip-on closure for easy wear. Colour: Black, 1 inch Heel Height, Outer Material: PVC, Inner Material: PVC, Closure: Slip-On, Pattern: Solid
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1141,7 +1141,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [3SIX5 Premium Quality & Comfortable Partywear Boots For Men (Tan , 7)](https://rakqr0-pn.myshopify.com/products/3six5-premium-quality-comfortable-partywear-boots-for-men-tan-7): Stylish and versatile boots designed to be your go-to footwear for casual occasions. With their stylish design they add a touch of sophistication to any outfit. Colour: Tan, 0.5 inch Heel Height, Outer Material: Synthetic, Inner Material: Mesh, Closure: Zip, Pattern: Self Design, Sole material: Airmix, Weight: 200g per shoe
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1159,7 +1159,7 @@
     Availability: Available
     Price: ₹486.00 INR
 - [Layasa Men Chelsea Slip-On Synthetic Leather Comfortable Boots For Men (Brown , 6)](https://rakqr0-pn.myshopify.com/products/layasa-men-chelsea-slip-on-synthetic-leather-comfortable-boots-for-men-brown-6): High-quality synthetic leather Chelsea boots with stylish and sophisticated look. Durable and easy to maintain making them great for everyday wear. Colour: Brown, 1 inch Heel Height, Outer Material: Synthetic Leather, Closure: Slip-On, Pattern: Self Design, Sole material: TPR, Tip shape: Round Toe
-  Updated: 2025-10-07T09:17:01Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1177,7 +1177,7 @@
     Availability: Available
     Price: ₹834.00 INR
 - [OLKRANT Rich Quality|Partywear|Casualwear|Stylish Look Boots For Men (Black , 6)](https://rakqr0-pn.myshopify.com/products/olkrant-rich-quality-partywear-casualwear-stylish-look-boots-for-men-black-6): Handmade patent leather ankle boots with mesh and cushion inner material. Perfect for party and casual wear with laser cut ornamentation. Colour: Black, 1 inch Heel Height, Outer Material: Patent Leather, Inner Material: Mesh and Cushion, Closure: Lace-Ups, Pattern: Solid, Sole material: Airmix, Weight: 250g per shoe, Technology: Handmade
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1195,7 +1195,7 @@
     Availability: Available
     Price: ₹460.00 INR
 - [Classic Slippers](https://rakqr0-pn.myshopify.com/products/classic-slippers): Men's Slippers by Bhains Ki Ankh. Color: Black. Available sizes: 6, 7, 8, 9, 10. Material: Rubber strap with printed flip flops sole. Weight: 149g. Shoe Length: 30cm. 71% off from original price of ₹699.
-  Updated: 2025-10-07T09:08:17Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1213,7 +1213,7 @@
     Availability: Available
     Price: ₹249.00 INR
 - [Cozy House Slippers](https://rakqr0-pn.myshopify.com/products/cozy-house-slippers): ADJ Men's Slippers & Flip Flops - Green color, EVA sole material, PVC strap material, available in multiple sizes (5-10), 81% off original price, 610 ratings & 14 reviews
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1231,7 +1231,7 @@
     Availability: Available
     Price: ₹239.00 INR
 - [Everyday Flip Flops](https://rakqr0-pn.myshopify.com/products/everyday-flip-flops): Men's Flip Flops by PANTOUF. Color: Black with Grey secondary color. Available sizes: 5, 6, 7, 8, 9, 10. Soft, lightweight and comfortable. Adjustable side straps. 83% off from original price of ₹999. Highly rated with 10,590 ratings and 433 reviews.
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1249,7 +1249,7 @@
     Availability: Available
     Price: ₹213.00 INR
 - [Plush Memory Foam Slippers](https://rakqr0-pn.myshopify.com/products/plush-memory-foam-slippers): Made of High Quality Material. Comfortable, Stylish and Trendy , This slipper is made of highly soft High Quality Sole with excellent grip and stability. You can wear this slipper inside or outside anywhere.
-  Updated: 2025-10-07T09:19:01Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1267,7 +1267,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Beach-Ready Flip Flops](https://rakqr0-pn.myshopify.com/products/beach-ready-flip-flops): Men's Flip Flops by ABIDA. Color: Tan (also available in Black and Brown). Available sizes: 6, 7, 8, 9, 10. Material: Synthetic strap and sole. Weight: 200g. Care instructions: Hand Wash. Pack of 1. 70% off from original price of ₹699. Highly rated with 11,278 ratings and 290 reviews.
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1285,7 +1285,7 @@
     Availability: Available
     Price: ₹255.00 INR
 - [Fuzzy Indoor Slippers](https://rakqr0-pn.myshopify.com/products/fuzzy-indoor-slippers): 1 Pair Slider made with Rexine strap material and Air Mix sole material. Dry and Clean Only care instructions.
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1303,7 +1303,7 @@
     Availability: Available
     Price: ₹254.00 INR
 - [Casual Summer Flip Flops](https://rakqr0-pn.myshopify.com/products/casual-summer-flip-flops): PANTOUF Men's Flip Flops - TAN color, 300g weight, Euro Size 40, adjustable side straps, soft lightweight and comfortable, 81% off original price, 10,590 ratings & 433 reviews
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1321,7 +1321,7 @@
     Availability: Available
     Price: ₹238.00 INR
 - [Lightweight Sport Flip Flops](https://rakqr0-pn.myshopify.com/products/lightweight-sport-flip-flops): Light Weight And Slip Resistance Slippers For Men. EVA sole material, available in White color, Euro Size 43, Weight 140g
-  Updated: 2025-10-07T09:16:58Z
+  Updated: 2025-10-08T09:12:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1339,7 +1339,7 @@
     Availability: Available
     Price: ₹263.00 INR
 - [Warm Moccasin Slippers](https://rakqr0-pn.myshopify.com/products/warm-moccasin-slippers): Green color slippers with synthetic strap material, rubber sole material, weight 288g, pack of 1
-  Updated: 2025-10-07T09:22:46Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1357,7 +1357,7 @@
     Availability: Available
     Price: ₹244.00 INR
 - [Athletic Slides](https://rakqr0-pn.myshopify.com/products/athletic-slides): OMIKA Men's Slides - DARK GREY color, 0.3g weight, EVA sole material, Euro Size 40, pack of 1, 73% off original price, 2,586 ratings & 63 reviews
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1375,7 +1375,7 @@
     Availability: Available
     Price: ₹310.00 INR
 - [Cushioned Poolside Flip Flops](https://rakqr0-pn.myshopify.com/products/cushioned-poolside-flip-flops): Lightweight flip flops with Airmix sole material. Washable no care required. Available in Black and Red colors.
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1393,7 +1393,7 @@
     Availability: Available
     Price: ₹200.00 INR
 - [Terry Cloth Spa Slippers](https://rakqr0-pn.myshopify.com/products/terry-cloth-spa-slippers): Green colored slippers with synthetic strap material and rubber sole. Pack of 1 with secondary brown color. Waterproof and comfortable design.
-  Updated: 2025-10-07T09:21:41Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1411,7 +1411,7 @@
     Availability: Available
     Price: ₹243.00 INR
 - [Ultra-Soft Comfort Slippers](https://rakqr0-pn.myshopify.com/products/ultra-soft-comfort-slippers): Oxygen Men's Slippers - Olive color, lightweight, minimum 2 items required, 91% off original price, 2,277 ratings & 52 reviews
-  Updated: 2025-10-07T09:22:22Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1429,7 +1429,7 @@
     Availability: Available
     Price: ₹166.00 INR
 - [Arch Support Flip Flops](https://rakqr0-pn.myshopify.com/products/arch-support-flip-flops): Black color flip flops with synthetic strap material, synthetic sole material, weight 200g, Euro Size 36, pack of 1, hand wash care instructions
-  Updated: 2025-10-07T07:57:27Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1447,7 +1447,7 @@
     Availability: Available
     Price: ₹235.00 INR
 - [Basic Rubber Flip Flops](https://rakqr0-pn.myshopify.com/products/basic-rubber-flip-flops): Buy Flip Flops for Rs.999 online. Flip Flops at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1465,7 +1465,7 @@
     Availability: Available
     Price: ₹269.00 INR
 - [Classic Thong Sandals](https://rakqr0-pn.myshopify.com/products/classic-thong-sandals): FITORY Men's Flip Flops - Black color, comfortable design, 80% off original price, available in sizes 5-10 UK/India, weight 300g, shoe length 26cm
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1483,7 +1483,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Non-Slip Sole Slippers](https://rakqr0-pn.myshopify.com/products/non-slip-sole-slippers): Blue colored slippers with Rexine strap material and Air Mix sole. Dry and Clean Only care instructions. Pack of 1.
-  Updated: 2025-10-07T09:18:31Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1501,7 +1501,7 @@
     Availability: Available
     Price: ₹263.00 INR
 - [Open-Toe Slippers](https://rakqr0-pn.myshopify.com/products/open-toe-slippers): Bersache Men's Slippers - Green color, EVA sole material, Euro Size 41, lightweight and durable, pack of 1, 85% off original price, 273 ratings & 11 reviews
-  Updated: 2025-10-07T09:18:46Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1519,7 +1519,7 @@
     Availability: Available
     Price: ₹336.00 INR
 - [Faux Fur Lined Slippers](https://rakqr0-pn.myshopify.com/products/faux-fur-lined-slippers): Men's Slippers by WARLANDER. Color: Grey (also available in Beige, Black, Blue, Gray). Available sizes: 6, 7, 8, 9, 10. 80% off from original price of ₹899. Rated with 2,262 ratings and 35 reviews. Not waterproof.
-  Updated: 2025-10-07T09:10:32Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1537,7 +1537,7 @@
     Availability: Available
     Price: ₹227.00 INR
 - [Warm Winter Slippers](https://rakqr0-pn.myshopify.com/products/warm-winter-slippers): Tan color slippers with rubber strap material, rubber sole material, weight 0.3g, Euro Size 40, pack of 1, hand wash care instructions
-  Updated: 2025-10-07T09:23:01Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1555,7 +1555,7 @@
     Availability: Available
     Price: ₹255.00 INR
 - [Comfortable Cloud Slides](https://rakqr0-pn.myshopify.com/products/comfortable-cloud-slides): Buy Slides for Rs.499 online. Slides at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-08T09:12:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1573,7 +1573,7 @@
     Availability: Available
     Price: ₹205.00 INR
 - [Durable Outdoor Flip Flops](https://rakqr0-pn.myshopify.com/products/durable-outdoor-flip-flops): Tzen Men's Flip Flops - Grey and Black colors available, synthetic leather strap, air mix sole, 86% off original price, available in sizes 6-10 UK/India, weight 280g, 100% customer satisfaction with unique style and great comfort
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1591,7 +1591,7 @@
     Availability: Available
     Price: ₹258.00 INR
 - [Minimalist Flip Flops](https://rakqr0-pn.myshopify.com/products/minimalist-flip-flops): Men's Flip Flops by PANTOUF. Color: Black with Grey secondary color (also available in Black and Tan). Available sizes: 5, 6, 7, 8, 9, 10. Material: GP strap with Rubber sole. Weight: 300g. Shoe Length: 27.5cm. EVA sole with shock-absorbing properties, good for walking exercise. 83% off from original price of ₹999. Highly rated with 10,590 ratings and 433 reviews. 1 month warranty.
-  Updated: 2025-10-07T09:17:46Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1609,7 +1609,7 @@
     Availability: Available
     Price: ₹217.00 INR
 - [Suede Slippers](https://rakqr0-pn.myshopify.com/products/suede-slippers): PKKART Men's Slippers - Red and Black color, EVA sole material, 200g weight, water resistant, pack of 2 pairs, 82% off original price, 512 ratings & 16 reviews
-  Updated: 2025-10-07T09:21:27Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1627,7 +1627,7 @@
     Availability: Available
     Price: ₹229.00 INR
 - [Water-Resistant Flip Flops](https://rakqr0-pn.myshopify.com/products/water-resistant-flip-flops): Blue and Orange color flip flops with Niwar strap material, EVA sole material, weight 100g, Euro Size 40, shoe length 26.2cm, pack of 1, waterproof
-  Updated: 2025-10-07T09:23:02Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1645,7 +1645,7 @@
     Availability: Available
     Price: ₹220.00 INR
 - [Clog-Style Slippers](https://rakqr0-pn.myshopify.com/products/clog-style-slippers): Black colored EVA slippers with EVA strap and sole material. 1 Pair Of Footwear. Wash and wipe with dry cloth care instructions. Lightweight at 200g.
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1663,7 +1663,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Adjustable Strap Slides](https://rakqr0-pn.myshopify.com/products/adjustable-strap-slides): Buy Slides for Rs.899 online. Slides at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1681,7 +1681,7 @@
     Availability: Available
     Price: ₹327.00 INR
 - [Everyday Comfort Slides](https://rakqr0-pn.myshopify.com/products/everyday-comfort-slides): Tzen Men's Slides - Grey and Red colors available, EVA strap material, air mix sole, 82% off original price, available in sizes 6-10 UK/India, weight 300g, dry and clean only care instructions
-  Updated: 2025-10-07T09:10:05Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1699,7 +1699,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Hard-Sole Outdoor Slippers](https://rakqr0-pn.myshopify.com/products/hard-sole-outdoor-slippers): Men's Slippers by Maan. Color: Brown with Pink secondary color. Available sizes: 6, 7, 8, 9, 10. Material: Synthetic strap with rubber sole. Weight: 288g. Pack of 1. 75% off from original price of ₹799. Rated with 2,331 ratings and 54 reviews. Made of rubber, not plastic.
-  Updated: 2025-10-07T09:12:44Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1717,7 +1717,7 @@
     Availability: Available
     Price: ₹243.00 INR
 - [Platform Flip Flops](https://rakqr0-pn.myshopify.com/products/platform-flip-flops): Brown colored flip flops made with rexine material. Good quality and comfortable design.
-  Updated: 2025-10-07T09:19:01Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1735,7 +1735,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Bedroom Slippers](https://rakqr0-pn.myshopify.com/products/bedroom-slippers): Maan Men's Slippers - Blue color, synthetic strap material, rubber sole material, 288g weight, waterproof, pack of 1, 75% off original price, 1,063 ratings & 19 reviews
-  Updated: 2025-10-07T09:06:42Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1753,7 +1753,7 @@
     Availability: Available
     Price: ₹221.00 INR
 - [Scuff Slippers](https://rakqr0-pn.myshopify.com/products/scuff-slippers): Black color slippers with lightweight synthetic straps, rubber sole material, slip-on closure, versatile wear, attractive look, suitable for water wear
-  Updated: 2025-10-07T09:20:27Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1771,7 +1771,7 @@
     Availability: Available
     Price: ₹228.00 INR
 - [Travel Slippers](https://rakqr0-pn.myshopify.com/products/travel-slippers): Buy Slippers for Rs.999 online. Slippers at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:21:55Z
+  Updated: 2025-10-08T09:12:18Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23698,130 +23698,130 @@
 ## Collections
 
 - [men leather wallet](https://rakqr0-pn.myshopify.com/collections/frontpage)
-  Updated: 2025-09-28T11:48:07Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 44
 - [clothes](https://rakqr0-pn.myshopify.com/collections/clothes)
-  Updated: 2025-09-22T07:29:37Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [shoes](https://rakqr0-pn.myshopify.com/collections/tes-2)
-  Updated: 2025-09-30T10:18:24Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 67
 - [Men Boots](https://rakqr0-pn.myshopify.com/collections/men-boots)
-  Updated: 2025-09-22T07:29:37Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 48
 - [men slippers](https://rakqr0-pn.myshopify.com/collections/men-slippers)
-  Updated: 2025-09-22T07:29:37Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 45
 - [woman kurti combo](https://rakqr0-pn.myshopify.com/collections/woman-kurti-combo)
-  Updated: 2025-09-23T20:26:59Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 66
 - [men t -shirt combo](https://rakqr0-pn.myshopify.com/collections/men-t-shirt-combo)
-  Updated: 2025-09-23T20:28:04Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 48
 - [kitchen tools](https://rakqr0-pn.myshopify.com/collections/kitchen-tools)
-  Updated: 2025-09-23T21:16:49Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://rakqr0-pn.myshopify.com/collections/all)
-  Updated: 2025-10-07T10:13:22Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 2015
 - [men watch](https://rakqr0-pn.myshopify.com/collections/men-watch)
-  Updated: 2025-09-30T10:19:46Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 89
 - [T-shirt](https://rakqr0-pn.myshopify.com/collections/men-t-shirt)
-  Updated: 2025-10-07T13:08:52Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 111
 - [kitehen](https://rakqr0-pn.myshopify.com/collections/kitehen)
-  Updated: 2025-09-30T06:44:41Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 100
 - [kids](https://rakqr0-pn.myshopify.com/collections/kids)
-  Updated: 2025-09-30T23:38:01Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 77
 - [Saree](https://rakqr0-pn.myshopify.com/collections/saree)
-  Updated: 2025-10-07T11:45:45Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 83
 - [home decore](https://rakqr0-pn.myshopify.com/collections/home-decore)
-  Updated: 2025-10-01T05:11:17Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 96
 - [health hacks](https://rakqr0-pn.myshopify.com/collections/health-hacks)
-  Updated: 2025-10-01T06:19:28Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 33
 - [kitchen hacks](https://rakqr0-pn.myshopify.com/collections/kitchen-hacks)
-  Updated: 2025-10-01T06:22:27Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 35
 - [cool bottles](https://rakqr0-pn.myshopify.com/collections/cool-bottles)
-  Updated: 2025-10-01T06:21:20Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 39
 - [men side bags](https://rakqr0-pn.myshopify.com/collections/men-side-bags)
-  Updated: 2025-10-04T18:39:32Z
+  Updated: 2025-10-08T09:12:11Z
   Total Products: 48
 - [jewellery](https://rakqr0-pn.myshopify.com/collections/jewellery)
-  Updated: 2025-10-04T18:41:08Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 42
 - [ear buds](https://rakqr0-pn.myshopify.com/collections/emoty)
-  Updated: 2025-10-07T07:06:55Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 38
 - [boy sidebag](https://rakqr0-pn.myshopify.com/collections/empty-2)
-  Updated: 2025-10-07T07:10:39Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 45
 - [haelth hacks](https://rakqr0-pn.myshopify.com/collections/empty-3)
-  Updated: 2025-10-07T07:10:16Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 35
 - [handbag](https://rakqr0-pn.myshopify.com/collections/epmty-5)
-  Updated: 2025-10-07T07:09:45Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 46
 - [small purse](https://rakqr0-pn.myshopify.com/collections/epmty-7)
-  Updated: 2025-10-07T07:09:28Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 48
 - [fitness](https://rakqr0-pn.myshopify.com/collections/empty-8)
-  Updated: 2025-10-07T07:08:57Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 98
 - [Anarkali kurti](https://rakqr0-pn.myshopify.com/collections/empty-9)
-  Updated: 2025-10-07T11:55:11Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 43
 - [Long kurti](https://rakqr0-pn.myshopify.com/collections/empty-10)
-  Updated: 2025-10-07T11:48:52Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 42
 - [Skirt](https://rakqr0-pn.myshopify.com/collections/skirt)
-  Updated: 2025-10-07T11:50:46Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 38
 - [Maternity wear](https://rakqr0-pn.myshopify.com/collections/maternaak-dres-s)
-  Updated: 2025-10-07T11:47:14Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 45
 - [plazoo](https://rakqr0-pn.myshopify.com/collections/plazoo)
-  Updated: 2025-10-07T07:02:56Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 44
 - [Night wear](https://rakqr0-pn.myshopify.com/collections/nighty)
-  Updated: 2025-10-07T11:48:35Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 39
 - [jeans](https://rakqr0-pn.myshopify.com/collections/jeans)
-  Updated: 2025-10-07T07:44:01Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 35
 - [t shirt](https://rakqr0-pn.myshopify.com/collections/t-shirt)
-  Updated: 2025-10-07T07:46:43Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 41
 - [Jumpsuit](https://rakqr0-pn.myshopify.com/collections/jum-suit)
-  Updated: 2025-10-07T11:47:42Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 33
 - [Dresses](https://rakqr0-pn.myshopify.com/collections/dress)
-  Updated: 2025-10-07T11:49:45Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 43
 - [Crop top](https://rakqr0-pn.myshopify.com/collections/tops)
-  Updated: 2025-10-07T11:48:18Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 39
 - [Suit](https://rakqr0-pn.myshopify.com/collections/suit)
-  Updated: 2025-10-07T11:47:57Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 39
 - [mobile asseccerie](https://rakqr0-pn.myshopify.com/collections/mobile-asseccerie)
-  Updated: 2025-10-07T07:54:03Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 0
 - [Kurti](https://rakqr0-pn.myshopify.com/collections/kurti)
-  Updated: 2025-10-07T11:46:08Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 45
 - [Jacket](https://rakqr0-pn.myshopify.com/collections/jacket)
-  Updated: 2025-10-07T13:05:13Z
+  Updated: 2025-10-08T09:12:12Z
   Total Products: 98
 - [Shirt](https://rakqr0-pn.myshopify.com/collections/shirt)
-  Updated: 2025-10-07T12:58:41Z
+  Updated: 2025-10-08T09:12:13Z
   Total Products: 45
 
 ## Store Pages
