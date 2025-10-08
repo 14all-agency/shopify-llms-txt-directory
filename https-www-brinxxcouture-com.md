@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-08T12:00:52.342Z
+- Updated At: 2025-10-08T16:00:49.638Z
 
 ## Products
 
@@ -6249,7 +6249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Mock-Neck-Flutter-Sleeve-Peplum-Top-Brinxx-Couture-931.jpg?v=1709369452
     Price: $20.00 USD
 - [Printed Tube Jumpsuit With Belt - Brinxx Couture](https://www.brinxxcouture.com/products/kgl2-24-ej1527x-id-56843): This stylish jumpsuit is perfect for any occasion. The sleeveless design and self-tie belt create a flattering silhouette, while the printed fabric adds a touch of personality. Whether you're dressing up for a night out or down for a casual day, this jumpsuit is sure to turn heads.
-  Updated: 2025-10-07T12:27:27Z
+  Updated: 2025-10-08T12:47:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-08T08:40:50Z
+  Updated: 2025-10-08T15:00:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23448,7 +23448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-08T11:40:51Z
+  Updated: 2025-10-08T15:58:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23458,7 +23458,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819539126)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819571894)
@@ -26108,7 +26108,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-08T09:40:35Z
+  Updated: 2025-10-08T13:00:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
