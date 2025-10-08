@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-05-17T15:34:30Z
 - Contact Email: yoursportspt.store@gmail.com
-- Updated At: 2025-10-07T00:00:29.035Z
+- Updated At: 2025-10-08T04:00:30.566Z
 
 YourSportsPT is a Portuguese online fitness equipment store dedicated to home workout solutions. We specialize in quality fitness gear including yoga mats, resistance bands, foam rollers, balance balls, and professional exercise equipment. With affordable prices, fast shipping across Portugal and Europe, and dedicated Portuguese customer support, we help fitness enthusiasts achieve their goals from the comfort of their homes.
 
@@ -649,7 +649,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/99b06a7d-3393-4b02-baf6-c88e3d56c795.jpg?v=1757871462
     Price: €99.99 EUR
 - [Barras Flexões Push-Up Portugal - Equipamento Fitness Casa](https://yoursportspt.com/products/push-up-handles-set): Barras flexões profissionais antiderrapantes. Fortalece peito, braços, core. Material resistente. Envio €4.99 Portugal. Treino casa.
-  Updated: 2025-10-06T19:57:05Z
+  Updated: 2025-10-07T07:57:12Z
   Vendor: CJDropshipping
   Product Type: Bodyweight Training
   Availability: Available
