@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-08T12:01:10.419Z
+- Updated At: 2025-10-08T20:01:12.361Z
 
 ## Products
 
@@ -7309,7 +7309,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-ataque-surpresa-charmander-vs-riolu-23250522-0191726409533-pokemon-1178694934.jpg?v=1752866646
   Price: 36,99 € EUR
 - [Pokemon Ataque Surpresa Pikachu vs Bulbasaur](https://brincatoys.pt/products/pokemon-ataque-surpresa-pikachu-vs-bulbasaur): Com o Pokémon Surprise Attack Game podes testar as tuas habilidades como treinador Pokémon! Este pacote Pokémon Surprise Attack Game vem com tudo o que precisas para começar a lutar: duas Poké Balls Surprise Attack, duas figuras Pokémon e seis discos de ataque com diferentes tipos para tu escolheres. O Pokémon Surprise Attack Game é fácil de aprend
-  Updated: 2025-09-29T17:52:33Z
+  Updated: 2025-10-08T17:41:15Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -10064,7 +10064,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/flauta-com-32-cm-111400623-brincatoys-1178695784.jpg?v=1752881409
   Price: 11,99 € EUR
 - [Tambor](https://brincatoys.pt/products/tambor-1): Vamos divertir-nos e fazer barulho com o colorido tambor de latão- Leve, com duas baquetas, 3 bolas dentro e uma alça de transporte, é a maneira perfeita para começar a explorar o mundo mágico da música. Dimensão: 18 x 18 x 13 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-29T16:37:07Z
+  Updated: 2025-10-08T13:15:30Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -13280,6 +13280,13 @@ Figura com aproximadamente 10,8 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-ovelha-negra-810613423-brincatoys-1178697297.jpg?v=1752908163
   Price: 8,50 € EUR
+- [Carro de Brincar Lamborghini Sian FKP 37](https://brincatoys.pt/products/carro-de-brincar-lamborghini-sian-fkp-37): Descubra o carro de brincar Lamborghini Sian FKP 37 na escala 1/18, uma miniatura de luxo perfeita para colecionadores e entusiastas.
+  Updated: 2025-10-08T13:54:07Z
+  Vendor: Bburago
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-sian-fkp-37-131104625-4893993014378-bburago-1196632593.jpg?v=1759931646
+  Price: 56,50 € EUR
 - [Lamborghini Sian FKP 37 Vermelho: Réplica Fiél à Escala 1:18](https://brincatoys.pt/products/lamborghini-sian-fkp-37-vermelho): Lamborghini Sian FKP 37 Vermelho. Design icónico, acabamento metálico vibrante e jantes douradas fiéis ao modelo original.
   Updated: 2025-09-30T00:45:05Z
   Vendor: Bburago
@@ -13837,13 +13844,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-asha-com-acessorios-21698823-princesas-disney-1178697656.jpg?v=1752798969
   Price: 29,99 € EUR
-- [Barbie e os Cãezinhos Recém-Nascidos: Acessórios e Surpresas](https://brincatoys.pt/products/barbie-e-os-caezinhos-recem-nascidos): Com a Barbie e os Cãezinhos Recém-Nascidos, a diversão é garantida! Vestida com um vestido rosa, a Barbie cuidará dos filhotes e revelará as surpresas.
-  Updated: 2025-09-30T01:05:13Z
-  Vendor: Barbie
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-e-os-caezinhos-recem-nascidos-acessorios-e-surpresas-770124424-0194735012442-barbie-1178697664.jpg?v=1752799092
-  Price: 39,99 € EUR
 - [Princesa Disney - Asha](https://brincatoys.pt/products/princesa-disney-asha): Inspirada em “Wish” da Walt Disney, a boneca Rosa Kingdom Asha reúne a magia e o encanto deste fascinante filme musical de animação. Com cinco pontos de articulação, roupas e acessórios intercambiáveis, a boneca da moda apresenta o estilo característico da personagem com detalhes fiéis aos do filme, como seus longos cabelos trançados. Com a boneca Rosa Kingdom Asha, as crianças podem reviver os momentos mais engraçados e encantadores do filme "Wish". Elas podem recriar as cenas icônicas do filme, ou usar sua imaginação para criar suas próprias aventuras. Esta boneca é a companheira perfeita para qualquer fã de "Wish", proporcionando horas de diversão e criatividade. Dimensão: 12 x 32,50 x 6,50 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-09-29T17:20:57Z
   Vendor: Princesas Disney
@@ -14706,7 +14706,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-bluey-e-familia-brinquedos-para-criancas-231300924-8056379133865-bluey-1178698233.jpg?v=1752922335
   Price: 24,50 € EUR
 - [figura Bluey e o Camião do Lixo para Brincar](https://brincatoys.pt/products/bluey-camiao-do-lixo): Conheça o divertida figura Bluey e o Camião do Lixo, que ensina as crianças sobre reciclagem de forma divertida! Leve para casa essa aventura agora!
-  Updated: 2025-10-05T16:00:11Z
+  Updated: 2025-10-08T19:07:41Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -15266,13 +15266,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-dos-bombeiros-renault-premium-1-50-683200224-8719247537799-bburago-1178698649.jpg?v=1752796452
-  Price: 18,50 € EUR
-- [Mercedes-Benz Unimog U5000](https://brincatoys.pt/products/mercedes-benz-unimog-u5000-1-50): Apresentamos um excitante complemento para a coleção de qualquer entusiasta de veículos de emergência: o Carro dos Bombeiros Mercedes-Benz Unimog U5000. Este modelo, impressionante no seu realismo e atenção ao detalhe, foi meticulosamente desenhado para refletir o poder e a versatilidade do verdadeiro Mercedes-Benz Unimog U5000. Inicialmente, destaca-se a vibrante cor vermelha, símbolo universal de veículos de emergência, que imediatamente capta a atenção. Além disso, a riqueza de detalhes, como as marcações autênticas dos "Marins Pompiers de Marseille", acrescenta um nível de autenticidade fascinante. Primeiramente, a robustez deste modelo é inquestionável, com uma estrutura feita de metal fundido e peças plásticas que garantem durabilidade e longevidade. Ademais, o seu design italiano é uma promessa de qualidade e estética requintada, combinando forma e função com maestria. O Unimog U5000 é famoso pela sua capacidade todo-o-terreno, e este modelo em escala reflete essa característica através das suas rodas e pneus bem modelados. Além disso, o veículo não é apenas um exemplar estático; ele é acompanhado por funcionalidades que realçam ainda mais a experiência de jogo, incluindo partes móveis que simulam as operações de um carro de bombeiros real. Além de fomentar a coordenação motora e o jogo simbólico, este carro dos bombeiros ajuda a desenvolver habilidades sociais, pois incentiva o jogo coletivo. As crianças podem criar cenários de equipa e colaboração, aprendendo a importância do trabalho em grupo e do altruísmo enquanto se divertem. A idade recomendada para este divertido brinquedo começa nos 3 anos, tornando-o ideal para pequenos aventureiros que estão prontos para explorar o mundo do socorro e salvamento. Portanto, vai além de ser um mero objeto de coleção, podendo também proporcionar horas de entretenimento para as crianças. Em suma... Réplica detalhada do Mercedes-Benz Unimog U5000 adequada para coleccionadores e brincadeiras interativas. Fabricado com materiais de alta qualidade, garantindo durabilidade e detalhe autêntico. Recomendado para maiores de 3 anos, promovendo um ambiente lúdico e educativo. Dimensão: 22 x 9 x 6,50 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-09-30T00:33:18Z
-  Vendor: Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-benz-unimog-u5000-683201724-brincatoys-1178698653.jpg?v=1752930259
   Price: 18,50 € EUR
 - [Carro dos bombeiros com escada giratória](https://brincatoys.pt/products/carro-dos-bombeiros-com-escada-giratoria): Apresentamos com entusiasmo o carro dos bombeiros com escada giratória, um brinquedo emocionante que promete trazer a ação heróica dos bombeiros para as mãos das crianças. Este veículo robusto, desenhado com atenção aos detalhes, reflete o verdadeiro espírito de aventura e coragem. Inicialmente, é impossível ignorar o vermelho vibrante do carro, uma cor sinônimo de valentia e serviço. Equilibrando-se sobre rodas firmes e duradouras, este carro dos bombeiros foi construído pensando na resistência e na capacidade de enfrentar os desafios de uma brincadeira intensa. Por outro lado, a inclusão de uma escada giratória extensível, permite que os pequenos heróis alcancem alturas impressionantes para salvar o dia. Além disso, a funcionalidade de rotação da escada proporciona uma experiência de jogo realista, inspirando imaginação e promovendo a coordenação motora fina. Cada elemento deste carro dos bombeiros reflecte qualidade, desde a sua construção em metal fundido com partes de plástico, até ao design de inspiração italiana que se faz notar em cada linha. Além de fomentar a coordenação motora e o jogo simbólico, este carro dos bombeiros ajuda a desenvolver habilidades sociais, pois incentiva o jogo coletivo. As crianças podem criar cenários de equipa e colaboração, aprendendo a importância do trabalho em grupo e do altruísmo enquanto se divertem. Projetado para crianças a partir dos 3 anos, este veículo não só garante diversão sem fim, como também educa sobre a importância dos bombeiros na nossa comunidade. Completamente seguro e conformável com os padrões de segurança vigentes, pais e educadores podem estar descansados quanto à integridade deste brinquedo. Em suma, o carro dos bombeiros com escada giratória é: Robusto e duradouro com construção de metal e plástico; Equipado com escada giratória para uma experiência realista e interactiva; Design italiano que proporciona um visual atrativo e detalhado; Ideal para crianças com 3 anos ou mais, promovendo o jogo imaginativo e a aprendizagem sobre o papel vital dos bombeiros na sociedade. Dimensão: 22 x 9 x 6,50 cm. Idade recomendada: + de 3 anos.
   Updated: 2025-10-05T16:00:00Z
@@ -16542,7 +16535,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-friends-42635-cabeleireiro-movel-para-caes-664263524-5702017588841-lego-1178699812.jpg?v=1752947413
   Price: 12,00 € EUR
 - [Brinquedo para bebé - Chocalho Vaca Shake Me](https://brincatoys.pt/products/brinquedo-para-bebe-chocalho-vaca-shake-me): Brinquedo para bebé - Chocalho Vaca Shake Me, perfeito para estimulação sensorial e desenvolvimento motor. Cores vivas, para a felicidade do seu bebé!
-  Updated: 2025-10-05T15:59:21Z
+  Updated: 2025-10-08T14:24:30Z
   Vendor: Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -16934,7 +16927,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/dodge-viper-gts-2013-amarelo-683112824-8719247938077-brincatoys-1178700088.jpg?v=1752950660
   Price: 54,99 € EUR
 - [Carro de Brincar Lamborghini Terzo Millennio verde](https://brincatoys.pt/products/lamborghini-terzo-millennio-verde): Descubra o carro de brincar Lamborghini Terzo Millennio verde à escala 1/24 da Bburago, a combinação perfeita de design autêntico e durabilidade.
-  Updated: 2025-10-05T15:59:12Z
+  Updated: 2025-10-08T17:18:35Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -18278,7 +18271,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-minecraft-21259-a-viagem-do-barco-pirata-662125924-5702017583358-lego-1178701120.jpg?v=1752965897
   Price: 17,50 € EUR
 - [Conjunto de Beleza Frozen da Disney - Acessório Encantador](https://brincatoys.pt/products/conjunto-de-beleza-frozen-da-disney): Encante-se com a Conjunto de Beleza Frozen da Disney e surpreenda sua pequena com acessórios de cabelo e pulseiras da personagem favorita da Disney.
-  Updated: 2025-09-30T01:06:56Z
+  Updated: 2025-10-08T19:48:50Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18642,7 +18635,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coleccao-black-bburago-1-64-carros-desportivos-em-escala-1-64-681032525-8719247910325-bburago-1178701377.jpg?v=1752782526
   Price: 19,99 € EUR
 - [Colecção Vintage Bburago 1/64: Carros Clássicos](https://brincatoys.pt/products/coleccao-vintage-bburago-1-64): A  Colecção Vintage Bburago 1/64 of:erece cinco miniaturas de supercarros realistas, perfeitas para colecionadores e fãs de corridas.
-  Updated: 2025-09-30T00:05:39Z
+  Updated: 2025-10-08T17:18:30Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -20133,7 +20126,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rato-de-peluche-ingefrid-30-cm-companheiro-fofo-521514224-7340031315142-brincatoys-1178699668.jpg?v=1752944900
   Price: 26,50 € EUR
 - [Coelho de Peluche com Vestido rosa 30 cm - Ideal para Crianças](https://brincatoys.pt/products/coelho-de-peluche-com-vestido-rosa-30-cm): Encante-se com o Coelho de Peluche com vestido rosa! Este adorável amigo de 30 cm está pronto para ser o companheiro de todas as suas aventuras.
-  Updated: 2025-10-06T17:20:12Z
+  Updated: 2025-10-08T19:58:36Z
   Vendor: Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -20674,7 +20667,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-frankie-stein-771047825-0194735104789-monster-high-1195791377.jpg?v=1759398485
   Price: 42,50 € EUR
 - [Monster High Scary Sweet Birthday - Cupid Asteria Fantástico](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-cupid-asteria): Celebre aniversários com a muñeca Monster High Scary Sweet Birthday - Cupid Asteria, que encanta com seu visual barroco. Adicione à sua coleção! 🎉
-  Updated: 2025-10-05T15:54:18Z
+  Updated: 2025-10-08T19:59:40Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -21166,11 +21159,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-land-rover-series-ii-com-detalhes-realistas-132206325-4893993220632-bburago-1196561448.jpg?v=1759881726
   Price: 22,50 € EUR
 - [Godzilla x Kong - Kong com Machado de Batalha Único](https://brincatoys.pt/products/godzilla-x-kong-kong-com-machado-de-batalha): Traga a ação do Monsterverse para casa com o Godzilla x Kong - Kong com machado de batalha! Crie aventuras épicas com figuras dinâmicas.
-  Updated: 2025-10-08T11:22:55Z
+  Updated: 2025-10-08T13:55:58Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Godzilla_x_Kong_-_Kong_com_machado_de_batalha_page1.jpg?v=1759920773
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-kong-com-machado-de-batalha-unico-233980925-0043377352037-godzilla-vs-kong-1196632597.jpg?v=1759931758
   Price: 17,99 € EUR
 
 ## Collections
@@ -21299,7 +21292,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:03:45Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-08T11:02:37Z
+  Updated: 2025-10-08T12:40:47Z
   Total Products: 172
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-10-07T18:38:53Z
@@ -21326,7 +21319,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-08T11:21:45Z
   Total Products: 326
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-08T11:02:37Z
+  Updated: 2025-10-08T12:40:47Z
   Total Products: 1559
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-08T11:21:45Z
@@ -21347,26 +21340,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-08T11:21:45Z
   Total Products: 1303
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 2410
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 2409
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 2873
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 2872
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3255
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3253
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3392
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3390
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3471
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3469
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3520
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3518
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-08T11:24:43Z
-  Total Products: 381
+  Updated: 2025-10-08T12:40:47Z
+  Total Products: 382
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21374,8 +21367,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-03T11:21:04Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
-  Updated: 2025-10-05T15:26:46Z
-  Total Products: 23
+  Updated: 2025-10-08T12:17:31Z
+  Total Products: 22
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
   Updated: 2025-10-05T15:15:06Z
   Total Products: 19
@@ -21554,8 +21547,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3553
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3551
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-08T11:21:45Z
   Total Products: 285
@@ -21566,8 +21559,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:32:48Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-08T11:02:37Z
-  Total Products: 1216
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 1214
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-08T11:33:02Z
   Total Products: 491
@@ -21590,11 +21583,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3553
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3551
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-08T11:57:07Z
-  Total Products: 3553
+  Updated: 2025-10-08T17:12:01Z
+  Total Products: 3551
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
   Total Products: 23
@@ -21605,20 +21598,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-08T11:33:03Z
-  Total Products: 3073
+  Updated: 2025-10-08T19:08:11Z
+  Total Products: 3071
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-10-08T11:02:37Z
+  Updated: 2025-10-08T12:40:47Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-08T11:33:03Z
-  Total Products: 3073
+  Updated: 2025-10-08T19:08:11Z
+  Total Products: 3071
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-08T11:06:24Z
-  Total Products: 928
+  Updated: 2025-10-08T12:40:35Z
+  Total Products: 927
 
 ## Blogs
 
