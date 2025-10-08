@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-08T08:01:09.850Z
+- Updated At: 2025-10-08T12:01:10.419Z
 
 ## Products
 
@@ -4192,13 +4192,6 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-rei-dos-numeros-810359022-brincatoys-1178693936.jpg?v=1752847688
   Price: 16,99 € EUR
-- [Jogo Rummikub de Viagem Caixa Metálica](https://brincatoys.pt/products/jogo-rummikub-de-viagem-caixa-metalica): Rummikub de Viagem - Caixa Metálica, é um jogo com números para entreter-te e iniciar-te nesta grande habilidade. Desfruta do jogo de mesa e estratégia mais divertido! Faz escadas e trios e combina os números até que fiques sem fichas. Se consegues ser o primeiro em ficar sem fichas, ganhas! Um jogo familiar e divertido que, graças ao formato de vi
-  Updated: 2025-09-30T03:02:59Z
-  Vendor: Brincatoys
-  Product Type: + 6 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-rummikub-de-viagem-caixa-metalica-845010521-brincatoys-1178693940.jpg?v=1752847700
-  Price: 18,90 € EUR
 - [Jogo Rummikub de Viagem Caixa Metálica](https://brincatoys.pt/products/jogo-rummikub-de-viagem-caixa-metalica-1): Rummikub de Viagem - Caixa Metálica, é um jogo com números para entreter-te e iniciar-te nesta grande habilidade. Desfruta do jogo de mesa e estratégia mais divertido! Faz escadas e trios e combina os números até que fiques sem fichas. Se consegues ser o primeiro em ficar sem fichas, ganhas!Um jogo familiar e divertido que, graças ao formato de via
   Updated: 2025-10-05T16:02:24Z
   Vendor: Brincatoys
@@ -11541,7 +11534,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tractor-da-quinta-com-atrelado-brincatoys-721108623-brincatoys-1178696470.jpg?v=1752893528
   Price: 31,99 € EUR
 - [Puzzle Magnético - Músicos | Brincatoys](https://brincatoys.pt/products/puzzle-magnetico-musicos): Este conjunto apresenta dois puzzles magnéticos que vem com ilustrações pintadas à mão sobre a temática de um conjunto de músicos. É fácil de jogar enquanto se viaja, no carro ou num restaurante, pois é compacto e tem um lado magnético que permite que as peças do quebra-cabeças fiquem no lugar. O conjunto inclui dois quebra-cabeças magnéticos, cada
-  Updated: 2025-09-30T00:58:15Z
+  Updated: 2025-10-08T09:41:56Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -12892,7 +12885,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-estilo-do-dia-zipp-storm-90645223-my-little-pony-1178697077.jpg?v=1752904324
   Price: 28,95 € EUR
 - [Puzzle Magnético - Floresta](https://brincatoys.pt/products/puzzle-magnetico-floresta): Abra as abas deste jogo magnético e descubra dois quebra-cabeças de 20 peças sobre o tema da floresta. Com dois desenhos de animais da floresta, com ilustrações pintadas à mão sobre a temática da floresta, este conjunto é óptimo para fazer no carro, em viagem, num restaurante ou num passeio e é fácil de transportar graças ao seu lado magnético.Com
-  Updated: 2025-09-30T00:58:07Z
+  Updated: 2025-10-08T09:41:51Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14531,7 +14524,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-carvanha-jolteon-e-wooloo-brincatoys-23305024-pokemon-1178698109.jpg?v=1752919822
   Price: 23,99 € EUR
 - [Figuras Pokémon Togepi Wartortle e Pancham - Conjunto de Batalha](https://brincatoys.pt/products/figuras-pokemon-togepi-wartortle-e-pancham): Conjunto de figuras Pokémon Togepi Wartortle e Pancham, perfeitas para colecionar ou brincar. Detalhadas e design autêntico para uma experiência imersiva.
-  Updated: 2025-10-03T12:11:00Z
+  Updated: 2025-10-08T10:12:21Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15127,6 +15120,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bluey-camiao-dos-bombeiros-641761024-8056379165521-bluey-1178698521.jpg?v=1752928097
   Price: 40,90 € EUR
+- [Godzilla x Kong - Kong com luva B.E.A.S.T.](https://brincatoys.pt/products/godzilla-x-kong-kong): Retorne à Hollow Earth com Godzilla e Kong numa aventura totalmente nova! Quando uma ameaça colossal é descoberta no nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência e a nossa. Prepare-se para a batalha épica com o novo brinquedo da série Monsterverse: Godzilla x Kong – Kong com luva B.E.A.S.T.! Recrie cenas memoráveis ou crie as suas próprias aventuras com esta figura de Kong, meticulosamente desenhada para proporcionar uma experiência autêntica e emocionante. Primeiramente, destaca-se a atenção aos detalhes na textura e cor da pele, imitando perfeitamente a aparência robusta e selvagem deste icónico titã. Além disso, esta figura vem equipada com a icónica luva B.E.A.S.T., aumentando o poder de Kong e oferecendo-lhe uma artilharia extra contra qualquer adversário. A luva não só é um adereço visual impressionante, mas também atua como uma ferramenta interativa para brincadeiras cheias de ação. As crianças vão ficar fascinadas com a capacidade de equipar Kong para batalha, incentivando a criatividade e o jogo imaginativo. Nem só de aparência vive este brinquedo, pois também foi concebido para ser durável e seguro para crianças a partir dos 4 anos, cumprindo com todas as normas de segurança. Contudo, é importante notar que o produto contém peças pequenas, o que requer supervisão perto de crianças mais novas para evitar o risco de asfixia. Ideal para colecionadores e jovens fãs, o Godzilla x Kong – Kong com luva B.E.A.S.T. é um aditivo perfeito para qualquer coleção Monsterverse que possam ter. Pode ser o presente ideal para cativar a mente e estimular a imaginação dos aspirantes a pequenos guerreiros ou entusiastas do universo de Godzilla e King Kong. Em suma... Figura detalhada de Kong com texturas realistas. Luva B.E.A.S.T. interativa e destacável. Feito para durabilidade e segurança das crianças. Ideal para fãs de todas as idades, colecionadores e como um presente estimulante. Dimensão: 19 x 23 x 7,50 cm Idade recomendada: + de 4 anos.
+  Updated: 2025-10-08T11:22:52Z
+  Vendor: Godzilla vs Kong
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-kong-com-luva-b-e-a-s-t-233930424-0043377352044-godzilla-vs-kong-1178698529.jpg?v=1752928222
+  Price: 17,99 € EUR
 - [Godzilla X Kong - Shimo com mordida de gelo explosiva](https://brincatoys.pt/products/godzilla-x-kong-shimo): Retorne à Hollow Earth com Godzilla x Kong em uma aventura totalmente nova! Quando uma ameaça colossal é descoberta no nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência e a nossa. Este exemplar magnífico, parte da empolgante linha Monsterverse, traz uma reprodução detalhada e dinâmica de Shimo, uma criatura inspirada nas batalhas épicas entre o gigante Godzilla e o poderoso Kong. Acima de tudo, este produto é um convite para explorar os confins da imaginação, oferecendo horas de aventura e recreação das cenas mais icônicas dos seus filmes favoritos. O brinquedo Godzilla x Kong apresenta articulações flexíveis que permitem posicionar a figura em várias posturas, recriando a ação e a intensidade dos embates entre monstros. Além disso, Shimo vem com a característica 'mordida de gelo explosiva', uma habilidade que agrada a fãs de todas as idades, providenciando uma experiência de brincadeira interativa e realista. A qualidade da pintura e o acabamento impecável são evidentes, assegurando fidelidade ao design original visto na tela grande. Esta figura será, sem dúvida, o centro das atenções em qualquer coleção. Com a aproximação de aniversários ou datas especiais, o "Godzilla x Kong: Shimo com Mordida de Gelo Explosiva" destaca-se como um presente excepcional para colecionadores e entusiastas. A robustez do material garante sua durabilidade, resistindo ao desgaste do uso contínuo. O brinquedo é aconselhável para crianças a partir dos 4 anos, obedecendo às normas de segurança e qualidade. Em suma... Qualidade na reprodução e detalhes fiéis ao design do personagem. Funcionalidade de mordida de gelo para uma brincadeira mais interativa. Resistência e durabilidade testadas para uso prolongado. Presente perfeito para fãs da saga e colecionadores. Descubra o poder e a bravura de Shimo, aliando diversão a colecionismo! O "Godzilla x Kong: Shimo com Mordida de Gelo Explosiva" aguarda para dar vida às suas aventuras mais selvagens. Dimensão: 19 x 23 x 7,50 cm. Idade recomendada: + de 4 anos.
   Updated: 2025-10-05T16:00:04Z
   Vendor: Godzilla vs Kong
@@ -15162,6 +15162,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-jurassic-world-de-200-pcs-xxl-230105824-jurassic-world-1178698549.jpg?v=1752928698
   Price: 14,99 € EUR
+- [Godzilla x Kong: Godzilla Gigante](https://brincatoys.pt/products/godzilla-x-kong-godzilla-gigante): Descubra o gigante dos mares e protetor das profundezas, o Godzilla Gigante da coleção exclusiva Godzilla x Kong. Com aproximadamente 28 cm de altura, a figura gigante do Godzilla está pronta para reinar em qualquer lugar. Com múltiplos pontos de articulação, Godzilla está pronto para a ação, para que você possa recriar suas cenas favoritas de suas batalhas épicas. Este formidável brinquedo Godzilla x Kong: Godzilla Gigante não é apenas um item de coleção espetacular, mas também uma representação autêntica que captura a majestade do icônico Rei dos Monstros. Com detalhes intricados e cores vibrantes, a figura reflete a ferocidade e a força de Godzilla, como visto no filme Godzilla vs. Kong. Iniciando com a escultura detalhada, o Godzilla x Kong: Godzilla Gigante apresenta texturas realistas que imitam a escala e a robustez da pele do monstro. As protuberâncias dorsais translúcidas ressaltam em um laranja flamejante, sugerindo a capacidade de Godzilla de libertar o seu devastador sopro atômico. Posicionadas dinamicamente, as patas do Godzilla exibem garras formidáveis capazes de enfrentar qualquer adversário. Além disso, o design articulado permite aos fãs recriarem cenas épicas do embate entre Godzilla e Kong. A cauda flexível estende-se para criar poses imponentes, assemelhando-se às cenas de batalha do filme. Cada aspecto desta figura foi criado para trazer um nível de jogabilidade e exposição sem igual, ideal para colecionadores e entusiastas do Universo Monstro. Além de seu apelo estético, o Godzilla Gigante é construído com materiais duráveis, garantindo que possa suportar horas de brincadeiras imaginativas ou ficar em exibição sem perder qualidade. Em suma... Os fãs de todas as idades ficarão encantados ao adicionar esta peça imponente à sua coleção MonsterVerse. Detalhes realistas e alta fidelidade ao design do filme. Articulação para recriação de cenas e poses dinâmicas. Cores e texturas vibrantes para um efeito visual impressionante. Materiais duráveis para longevidade na coleção ou brincadeira. Dimensão: 28 x 31 x 15 cm Idade recomendada: + de 4 anos
+  Updated: 2025-10-08T11:32:32Z
+  Vendor: Godzilla vs Kong
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-godzilla-gigante-233931424-0043377355519-godzilla-vs-kong-1178698565.jpg?v=1752929043
+  Price: 29,99 € EUR
 - [Godzilla x Kong: Skar King Gigante](https://brincatoys.pt/products/godzilla-x-kong-skar-gigante): Descubra a fera que irá dominar a sua coleção! A escapada perfeita para os amantes de figuras de ação e fãs do universo cinematográfico Monsterverse, o Godzilla x Kong: Skar King Gigante com Whiplash é a escolha definitiva para entretenimento e exibição. Com 28 cm de altura, a figura do Rei Skar Gigante está pronta para reinar em qualquer lugar. Com múltiplos pontos de articulação, Skar King está pronto para a ação, para que possa recriar as suas cenas favoritas das batalhas épicas! Skar King de Godzilla x Kong é altamente detalhada com designs intrincados para capturar a essência do novo e perigoso desafiante de Godzilla e Kong em seu visual de filme Com detalhes meticulosos, essa figura de ação capta de forma incrível a essência selvagem do Skar King. Desde a textura realista da pele até às expressões ferozes, cada polegada foi esculpida com precisão, fazendo com que essa criatura pareça sair diretamente das telonas para a realidade. O Skar King é articulado, permitindo recriar cenas icônicas ou criar novas batalhas épicas. Os braços, pernas e a cauda com ação "Whiplash" promovem uma jogabilidade interativa e a possibilidade de posar a figura para impressionar qualquer espectador. Construído para resistir ao tempo e às aventuras mais selvagens, este colecionável é feito com materiais de alta qualidade, garantindo que o Skar King se mantenha em pé e firme, confrontando todos os desafios que vierem pela frente. Para os jovens fãs ou para os eternos entusiastas de figuras de ação, o Godzilla x Kong: Skar King Gigante é o presente que vai despertar a paixão pela Monsterverse e pelos confrontos épicos entre titãs. Em suma... Detalhes realistas e design imponente Articulações para máxima interatividade Materiais de alta qualidade para durabilidade Embalagem chamativa e ideal para colecionadores Presente perfeito para fãs de todas as idades Dimensão: 28 x 31,50 x 15 cm. Idade recomendada: + de 4 anos.
   Updated: 2025-10-04T20:28:52Z
   Vendor: Godzilla vs Kong
@@ -15254,7 +15261,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-cayenne-turbo-replica-elegante-682105625-bburago-1178698645.jpg?v=1752930256
   Price: 23,99 € EUR
 - [Carro dos Bombeiros Renault Premium: Brinquedo Divertido](https://brincatoys.pt/products/carro-dos-bombeiros-renault-premium-1-50): Descubra o divertido Carro dos Bombeiros Renault Premium 1:50. Este brinquedo de alta qualidade é perfeito para incentivar a imaginação das crianças!
-  Updated: 2025-10-06T03:47:06Z
+  Updated: 2025-10-08T11:28:07Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -16003,7 +16010,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-safari-23050824-191726877028-squishville-1178699285.jpg?v=1752938524
   Price: 28,90 € EUR
 - [Figura de Batalha Pokémon - Tauros](https://brincatoys.pt/products/figura-de-batalha-pokemon-tauros): Descubra a Figura de Batalha Pokémon - Tauros! Ação interativa, durabilidade e detalhes fiéis ao personagem para fãs de todas as idades.
-  Updated: 2025-10-02T09:02:45Z
+  Updated: 2025-10-08T10:09:26Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -17543,7 +17550,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/so-pure-senso-ball-girafa-sofia-brinquedo-sensorial-para-bebes-102012524-3056562201253-girafa-sofia-1178700548.jpg?v=1752957616
   Price: 19,90 € EUR
 - [Anel de dentição So Pure Girafa Sofia](https://brincatoys.pt/products/anel-de-denticao-so-pure-girafa-sofia): Apresentamos o Anel de dentição So Pure Girafa Sofia, um brinquedo encantador que combina diversão e alívio para o seu bebé durante a fase de dentição. Primeiramente, este produto é cuidadosamente projetado para proporcionar conforto durante os momentos desafiadores do crescimento dos primeiros dentes. Por outro lado, fabricamos o Anel de dentição So'Pure Girafa Sofia com borracha 100% natural, garantindo a máxima segurança e suavidade para as gengivas sensíveis do seu bebé. A textura macia e flexível do anel de dentição oferece alívio imediato, enquanto as diferentes superfícies estimulam o desenvolvimento sensorial. O design icónico da girafa Sophie, com suas manchas laranja características, torna este brinquedo instantaneamente reconhecível e adorável para os bebés. Além disso, o tamanho compacto e o peso leve tornam-no fácil de segurar para as mãozinhas pequenas, promovendo o desenvolvimento motor fino. O Anel de dentição SO'PURE Girafa Sofia faz parte da coleção "So Pure", que se destaca pela utilização de materiais naturais e seguros. Concebida especialmente para os pais que procuram produtos de alta qualidade, livres de produtos químicos nocivos e respeitadores do ambiente. Por fim, o Anel de dentição SO'PURE Girafa Sofia é o companheiro perfeito para o seu bebé durante a fase de dentição, oferecendo conforto e estimulação num único produto de qualidade superior. Escolha este brinquedo versátil e natural para proporcionar momentos de alegria e alívio ao seu pequeno Em suma... Fabricado com borracha 100% natural Função anel de dentição Design icónico da Sophie la girafe Ideal para bebés a partir dos 0 meses Dimensão: 13 x 16,50 x 4 cm.Idade recomendada. + de 0 meses.
-  Updated: 2025-09-30T13:58:36Z
+  Updated: 2025-10-08T11:08:56Z
   Vendor: Girafa Sofia
   Product Type: + 0 meses
   Availability: Available
@@ -18809,13 +18816,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-para-bonecas-olivia-de-la-nina-elegancia-e-diversao-80028125-brincatoys-1178701477.jpg?v=1752971779
   Price: 67,50 € EUR
-- [Lego Disney 43261 -  Mini Casa de Encanto Criativa](https://brincatoys.pt/products/lego-disney-mini-casa-de-encanto): Entre no mundo mágico com o LEGO Disney 43261 - Mini Casa de Encanto! Com minifiguras e detalhes encantadores, crie suas próprias aventuras!
-  Updated: 2025-09-29T23:13:55Z
-  Vendor: LEGO
-  Product Type: + 5 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-43261-mini-casa-de-encanto-criativa-664326125-5702017814506-lego-1178701489.jpg?v=1752972013
-  Price: 22,50 € EUR
 - [LEGO Disney 43262 - Castelo de Gelo de Arendelle Diversão](https://brincatoys.pt/products/lego-disney-castelo-de-gelo-de-arendelle): Entre no mundo de Frozen com o LEGO Disney 43262 - Castelo de Gelo de Arendelle. Descubra a magia com minifiguras e 177 peças encantadoras!
   Updated: 2025-09-29T23:14:08Z
   Vendor: LEGO
@@ -18922,7 +18922,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77242-carro-de-corrida-ferrari-sf-24-667724225-5702017816098-lego-1178701549.jpg?v=1752973683
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77243 – Carro de Corrida Oracle Red Bul](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-oracle-red-bull-racing-rb20-f1): Viva a adrenalina com o LEGO Speed Champions 77243 – Carro de Corrida Oracle Red Bull Racing RB20 F1! Construa um modelo autêntico e surpreendente.
-  Updated: 2025-09-30T00:02:46Z
+  Updated: 2025-10-08T09:10:42Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -19083,7 +19083,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75405-cruzador-home-one-replica-incrivel-667540525-5702017817576-lego-1178701661.jpg?v=1752781684
   Price: 69,90 € EUR
 - [LEGO Star Wars 75404 Nave de Assalto de Classe Acclamator](https://brincatoys.pt/products/lego-star-wars-75404-nave-de-assalto-de-classe-acclamator): Construa a emblemática Nave de Assalto de Classe Acclamator com o LEGO Star Wars 75404! Uma peça perfeita para fãs adultos da saga. 🛸
-  Updated: 2025-09-29T23:38:21Z
+  Updated: 2025-10-08T09:47:17Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -19125,7 +19125,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-07T23:13:10Z
+  Updated: 2025-10-08T09:01:35Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -20112,7 +20112,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-25-cm-peluche-fofinho-522203725-brincatoys-1178692429.jpg?v=1752822621
   Price: 26,50 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-rosa-25-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-10-02T15:43:00Z
+  Updated: 2025-10-08T09:47:11Z
   Vendor: Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -20933,7 +20933,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-tailgate-035617725-0887961561777-cars-1193979369.jpg?v=1758541920
   Price: 11,99 € EUR
 - [Cars Disney - Lightning Mcqueen With Racing Wheels](https://brincatoys.pt/products/cars-disney-lightning-mcqueen-with-racing-wheels): Dimensão: 14 x 16,50 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-05T09:35:22Z
+  Updated: 2025-10-08T09:16:25Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -21137,6 +21137,41 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/minifiguras-coleccionaveis-naruto-shippuden-para-fas-234007425-7290120511866-naruto-1196131068.jpg?v=1759657685
   Price: 11,99 € EUR
+- [Carro de Brincar Toyota Sprinter Trueno AE86 Detalhado](https://brincatoys.pt/products/carro-de-brincar-toyota-sprinter-trueno-ae86): Leva para casa o carro de brincar Toyota Sprinter Trueno AE86, uma réplica perfeita para jovens e adultos. Crie cenas de ação inesquecíveis!
+  Updated: 2025-10-08T11:22:44Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-toyota-sprinter-trueno-ae86-detalhado-133291625-0090159061830-brincatoys-1196494927.jpg?v=1759873796
+  Price: 22,50 € EUR
+- [Carro de brincar Fiat 124 Spider Vermelho com Detalhes](https://brincatoys.pt/products/carro-de-brincar-fiat-124-spider-vermelho-1-24): Desperte a imaginação com o carro de brincar Fiat 124 Spider Vermelho! Este modelo robusto e elegante é o presente perfeito para os amantes de carros.
+  Updated: 2025-10-08T11:23:03Z
+  Vendor: Bburago
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-fiat-124-spider-vermelho-com-detalhes-132108325-4893993210831-bburago-1196494923.jpg?v=1759873685
+  Price: 22,50 € EUR
+- [Carro de brincar BMW 3 Series M3 1988 em metal fundido](https://brincatoys.pt/products/carro-de-brincar-bmw-3-series-m3-1988-1-24): Leve para casa o carro de brincar BMW 3 Series M3 1988 e reviva os ralis! A réplica em metal die-cast oferece detalhes impressionantes.
+  Updated: 2025-10-08T11:23:21Z
+  Vendor: Bburago
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-bmw-3-series-m3-1988-em-metal-fundido-132110025-4893993014309-bburago-1196561452.jpg?v=1759881836
+  Price: 22,50 € EUR
+- [Carro de brincar Land Rover Series II com Detalhes Realistas](https://brincatoys.pt/products/carro-de-brincar-land-rover-series-ii-1-24): Desperte a imaginação com o carro de brincar Land Rover Series II. Explore aventuras sem fim com detalhes autênticos e portas que abrem! 🚗
+  Updated: 2025-10-08T11:23:40Z
+  Vendor: Bburago
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-land-rover-series-ii-com-detalhes-realistas-132206325-4893993220632-bburago-1196561448.jpg?v=1759881726
+  Price: 22,50 € EUR
+- [Godzilla x Kong - Kong com Machado de Batalha Único](https://brincatoys.pt/products/godzilla-x-kong-kong-com-machado-de-batalha): Traga a ação do Monsterverse para casa com o Godzilla x Kong - Kong com machado de batalha! Crie aventuras épicas com figuras dinâmicas.
+  Updated: 2025-10-08T11:22:55Z
+  Vendor: Godzilla vs Kong
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Godzilla_x_Kong_-_Kong_com_machado_de_batalha_page1.jpg?v=1759920773
+  Price: 17,99 € EUR
 
 ## Collections
 
@@ -21153,8 +21188,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-07T18:41:13Z
-  Total Products: 563
+  Updated: 2025-10-08T11:21:45Z
+  Total Products: 564
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
@@ -21189,7 +21224,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:09:07Z
   Total Products: 5
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-09-30T11:21:03Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 29
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
   Updated: 2025-10-01T12:11:29Z
@@ -21225,7 +21260,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-20T23:28:51Z
   Total Products: 1
 - [Puzzle Infantil](https://brincatoys.pt/collections/puzzles-infantis)
-  Updated: 2025-10-06T17:34:36Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 101
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
   Updated: 2025-10-06T18:30:00Z
@@ -21255,7 +21290,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T18:45:47Z
   Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
-  Updated: 2025-10-07T19:03:24Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 121
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
   Updated: 2025-10-03T13:37:25Z
@@ -21264,7 +21299,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:03:45Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-07T21:56:23Z
+  Updated: 2025-10-08T11:02:37Z
   Total Products: 172
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-10-07T18:38:53Z
@@ -21288,16 +21323,16 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-24T21:25:56Z
   Total Products: 22
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-10-07T19:03:24Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 326
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-07T21:56:53Z
+  Updated: 2025-10-08T11:02:37Z
   Total Products: 1559
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-07T19:07:25Z
-  Total Products: 698
+  Updated: 2025-10-08T11:21:45Z
+  Total Products: 699
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-07T19:09:07Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 315
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-03T13:38:28Z
@@ -21306,31 +21341,31 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T17:12:02Z
   Total Products: 54
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
-  Updated: 2025-10-07T15:16:16Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-07T15:26:35Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 1303
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-07T21:56:23Z
+  Updated: 2025-10-08T11:57:07Z
   Total Products: 2410
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 2872
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3254
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3255
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3391
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3392
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3470
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3471
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3519
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3520
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-07T21:56:23Z
+  Updated: 2025-10-08T11:24:43Z
   Total Products: 381
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21390,10 +21425,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-22T16:19:55Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
-  Updated: 2025-09-30T18:44:01Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 116
 - [My Little Pony](https://brincatoys.pt/collections/my-little-pony)
   Updated: 2025-10-05T16:51:43Z
@@ -21405,7 +21440,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:18:37Z
   Total Products: 13
 - [Peppa Pig](https://brincatoys.pt/collections/peppa-pig)
-  Updated: 2025-09-29T21:53:21Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 29
 - [Toy Story](https://brincatoys.pt/collections/toy-story)
   Updated: 2025-09-29T21:44:01Z
@@ -21438,7 +21473,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T18:23:54Z
   Total Products: 29
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-07T19:09:07Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 340
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-05T14:47:19Z
@@ -21519,10 +21554,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3552
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3553
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-07T18:55:44Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-06T18:54:16Z
@@ -21531,22 +21566,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:32:48Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-07T21:56:53Z
+  Updated: 2025-10-08T11:02:37Z
   Total Products: 1216
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-07T16:08:01Z
-  Total Products: 488
+  Updated: 2025-10-08T11:33:02Z
+  Total Products: 491
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
-  Updated: 2025-10-06T13:24:22Z
-  Total Products: 141
+  Updated: 2025-10-08T09:28:56Z
+  Total Products: 140
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-07T15:24:21Z
-  Total Products: 189
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-07T15:39:12Z
   Total Products: 75
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-05T15:18:06Z
+  Updated: 2025-10-08T11:21:45Z
   Total Products: 217
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-05T15:16:44Z
@@ -21555,35 +21590,35 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3552
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3553
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3552
+  Updated: 2025-10-08T11:57:07Z
+  Total Products: 3553
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
-  Updated: 2025-10-06T18:36:55Z
+  Updated: 2025-10-08T10:33:18Z
   Total Products: 23
 - [Godzilla vs Kong](https://brincatoys.pt/collections/godzilla-vs-kong)
-  Updated: 2025-10-05T16:19:56Z
-  Total Products: 11
+  Updated: 2025-10-08T11:33:03Z
+  Total Products: 14
 - [Stumble Guys](https://brincatoys.pt/collections/stumble-guys)
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3070
+  Updated: 2025-10-08T11:33:03Z
+  Total Products: 3073
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-10-07T21:56:53Z
+  Updated: 2025-10-08T11:02:37Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 3070
+  Updated: 2025-10-08T11:33:03Z
+  Total Products: 3073
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-07T21:56:23Z
-  Total Products: 933
+  Updated: 2025-10-08T11:06:24Z
+  Total Products: 928
 
 ## Blogs
 
