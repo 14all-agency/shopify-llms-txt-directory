@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-10-08T04:00:34.762Z
+- Updated At: 2025-10-08T08:00:34.231Z
 
 ## Products
 
@@ -613,7 +613,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/460_Sticky_Be_Socks_230731.jpg?v=1744057939
   Price: $21.00 USD
 - [Buy Mens Be Focused *13-17* Grip Socks (Oxford) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-focused-13-17-grip-socks-oxford): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Focused *13-17* Grip Socks (Oxford).
-  Updated: 2025-10-07T19:22:24Z
+  Updated: 2025-10-08T04:16:25Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -872,7 +872,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Copy_of_Copy_of_Copy_of_MOBILE_OPTIMIZED_IMAGE_SIZE_2000_x_1400_px_24.png?v=1744056280
   Price: $18.00 USD
 - [Buy Mens Be Focused *13-17* Grip Socks (Loch) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-focused-13-17-grip-socks-loch): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Focused *13-17* Grip Socks (Loch).
-  Updated: 2025-10-07T19:22:11Z
+  Updated: 2025-10-08T04:16:21Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
