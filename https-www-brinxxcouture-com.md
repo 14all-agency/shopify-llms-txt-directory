@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-08T16:00:49.638Z
+- Updated At: 2025-10-08T20:00:49.642Z
 
 ## Products
 
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-08T15:00:46Z
+  Updated: 2025-10-08T19:22:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23448,7 +23448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-08T15:58:40Z
+  Updated: 2025-10-08T19:21:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23766,7 +23766,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Houndstooth-Button-Up-Long-Sleeve-Cardigan-Brinxx-Couture-6915.jpg?v=1730297608
     Price: $39.00 USD
 - [Pocketed Button Up Long Sleeve Hooded Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/pocketed-button-up-long-sleeve-hooded-cardigan): Experience ultimate comfort and style with our Pocketed Button Up Long Sleeve Hooded Cardigan. Made with soft, high-quality fabric.
-  Updated: 2025-10-01T22:27:13Z
+  Updated: 2025-10-08T16:24:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26162,7 +26162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
-  Updated: 2025-10-02T23:20:55Z
+  Updated: 2025-10-08T18:01:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
