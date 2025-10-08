@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-08T16:00:59.259Z
+- Updated At: 2025-10-08T20:01:00.427Z
 
 ## Products
 
@@ -44967,7 +44967,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-laceless-x-lamine-yamal-fg): נעלי כדורגל מקצועיות F50 Elite Laceless x Lamine Yamal FG עם עיצוב חדשני וטכנולוגיות מתקדמות להאצת ריצות חדות.
-  Updated: 2025-09-26T23:18:28Z
+  Updated: 2025-10-08T17:23:27Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45332,7 +45332,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_f5b65384-3d53-42ec-97ae-f34b4f1f136e.jpg?v=1758206958
   Price: ‏749.90 ‏₪ ILS
 - [נעלי כדורגל מקצועיות  F50 Elite x Messi FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-f50-elite-x-messi-fg): רוצו אחרי התהילה כמו ליאו עם נעלי F50 Elite x Messi FG – שילוב מושלם של מהירות, נוחות וסגנון אישי של מסי. בהשראת העיצוב החתום של הכוכב, הנעל כוללת את הלשונית “בוריטו” האהובה עליו ואת שלושת הפסים המותאמים לעיצוב ייחודי ולתמיכה נוספת הנעל האייקונית חזרה במהדורה קלה ומהירה מתמיד עם טכנולוגיות חדשניות להאצות פתאומיות ולריצות בקו ישר. סוליית Sprintframe 360 כוללת פקקים מעוגלים במרכז כף הרגל לתנועות חדות ומהירות שמבלבלות יריבים, ותומך העקב החיצוני שומר על איזון ושליטה בכל פריצה חלק העליון עשוי HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל, לצד לשונית Knit “בוריטו” שמאפשרת התאמה נוחה ומעט רחבה יותר לרגל כמו בדגמי F50 הקלאסיים, הנעל מגיעה עם שני סוגי מדרסים בקופסה – SL למהירות מקסימלית או Comfort לריכוך נוסף בעת נחיתה
-  Updated: 2025-09-26T05:51:07Z
+  Updated: 2025-10-08T18:42:53Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45500,7 +45500,7 @@
     Availability: Available
     Price: ‏899.00 ‏₪ ILS
 - [נעלי כדורגל ילדים F50 League x Messi](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-f50-league-x-messi): נעלי F50 League x Messi FG/MG לילדים שילוב מושלם של מהירות, נוחות וסגנון בהשראת ליאו מסי. סידור שרוכים קלאסי, לשונית “צפה” ושלושת הפסים לתמיכה נוספת מהדורה קלה ומהירה עם סוליית Sprintplate 360 לפקקים מעוגלים שמאפשרים תנועות חדות ומהירות ושמירה על איזון ושליטה. חלק עליון HybridTouch סינטטי עם פרטי סוויד ותמיכה מובנית לשלד הנעל לנוחות מירבית בזמן המשחק.
-  Updated: 2025-09-29T14:15:06Z
+  Updated: 2025-10-08T18:49:54Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46516,8 +46516,8 @@
   - [11](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028687610)
     Availability: Available
     Price: ‏749.00 ‏₪ ILS
-- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly X Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
-  Updated: 2025-10-08T15:32:26Z
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite SG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
+  Updated: 2025-10-08T18:20:06Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46553,6 +46553,51 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096156922)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 10 Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Vapor 16 Elite SG-Pro משלבות מהירות, תגובה מהירה ושליטה גבוהה בכדור. הדגם בצבע Limelight/Volt/Hyper Crimson מציע ביצועים מיטביים על מגרשים רטובים ויבשים. מערכת ה-Zoom Air תוכננה לשפר את התגובה והאנרגיה בכל צעד. החלק הקדמי כולל מבנה גלים חדש שמגדיל את שטח המגע עם הקרקע ומספק החזרת אנרגיה יעילה יותר, לשמירה על מהירות גבוהה לאורך זמן. סוליית ה-SG Pro כוללת יתדות בעיצוב מתקדם לאחיזה יציבה ולתמרון מהיר, עם שילוב בין בליידים ויתדות עגולות לשינויי כיוון חלקים ובטוחים. החלק העליון של הנעל עשוי שלוש שכבות קלות במיוחד בשילוב טכנולוגיות Knit מתקדמות: Flyknit לנוחות וגמישות, Atomknit לתמיכה, ו-Gripknit לשליטה מדויקת בכדור. Gripknit הוא חומר דביק וגמיש העמיד בפני מזג אוויר משתנה, המספק מגע עקבי עם הכדור ושליטה טובה גם במהירות גבוהה.
+  Updated: 2025-10-08T18:57:39Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/26_68101cf6-ebed-4f91-9d79-936d519783cd.jpg?v=1759946554
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804575351034)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557623546)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557656314)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557689082)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557721850)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557754618)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557787386)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557820154)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557852922)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804597436666)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557885690)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557918458)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557951226)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 
@@ -46934,8 +46979,8 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-08T00:15:34Z
-  Total Products: 58
+  Updated: 2025-10-08T18:37:27Z
+  Total Products: 59
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
   Updated: 2025-10-07T11:38:09Z
   Total Products: 48
@@ -47033,8 +47078,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-08T11:53:52Z
-  Total Products: 2063
+  Updated: 2025-10-08T18:37:27Z
+  Total Products: 2064
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -47216,7 +47261,7 @@
   Updated: 2025-10-02T12:25:54Z
   Total Products: 3
 - [Lamine Yamal | נעלי כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/נעלי-כדורגל-ומוצרים-lamine-yamal): Lamine Yamal F50 מגוון רחב של נעלי כדורגל וחולצות כדורגל ברצלונה, נבחרת ספרד , אימון וכל הפריטים של לאמין ימאל נעלי כדורגל
-  Updated: 2025-10-06T22:41:48Z
+  Updated: 2025-10-08T17:24:41Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
   Updated: 2025-10-05T13:12:11Z
@@ -47225,7 +47270,7 @@
   Updated: 2025-10-06T22:42:07Z
   Total Products: 31
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-08T18:42:32Z
   Total Products: 62
 - [כדורי מונדיאל 2026 | World Cup Ball](https://www.rsport.co.il/collections/world-cup-ball): קנו עכשיו את כדורי מונדיאל 2026 בעיצוב בהשראת גביע העולם FIFA 2026. כולל טכנולוגיות SPEEDSHELL ו-CTR CORE, מושלם לאימון, משחק ואספנות. תמיכה בקבוצות כמו ספרד, ברזיל, ארגנטינה וגרמניה. World Cup Ball עדכני לכל אוהד כדורגל
   Updated: 2025-10-04T20:33:30Z
@@ -47249,8 +47294,8 @@
   Updated: 2025-10-07T12:07:39Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
-  Updated: 2025-10-08T00:15:34Z
-  Total Products: 7
+  Updated: 2025-10-08T18:37:27Z
+  Total Products: 8
 - [נעלי כדורגל Puma King](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-king)
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
@@ -47258,14 +47303,14 @@
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
 - [Mercurial Superfly נעלי כדורגל](https://www.rsport.co.il/collections/football-boots-mercurial-superfly-נעלי-כדורגל)
-  Updated: 2025-10-08T15:32:09Z
+  Updated: 2025-10-08T18:21:35Z
   Total Products: 1
 - [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-08T13:44:46Z
-  Total Products: 1
+  Updated: 2025-10-08T18:37:27Z
+  Total Products: 2
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
-  Updated: 2025-10-08T15:33:53Z
-  Total Products: 1
+  Updated: 2025-10-08T18:37:27Z
+  Total Products: 2
 
 ## Blogs
 
