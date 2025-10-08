@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-08T16:00:35.902Z
+- Updated At: 2025-10-08T23:16:16.204Z
 
 ## Products
 
@@ -2351,42 +2351,42 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Carbide-Burr-Drill-Bits-10pk-22107.jpg?v=1737645315
   Price: €41.95 EUR
 - [Gliptone Iron Eater](https://glasspolishshop.com/products/gliptone-iron-eater-1-litre-32-oz): GLIPTONE GT IRON EATER® is a fast acting, pH Neutral gel formula that clings to surfaces providing added dwell time and exceptional cleaning action. The pH neutral
-  Updated: 2025-10-08T10:37:05Z
+  Updated: 2025-10-08T22:37:14Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-iron-Eater-1-litre-_2832-oz_29-GT16932.jpg?v=1737645340
   Price: €29.95 EUR
 - [Gliptone Deep Clean](https://glasspolishshop.com/products/gliptone-deep-clean-1-litre-32-oz): Gliptone Deep Clean Highly effective liquid cleanser. Environmentally safe formula. Safely and effectively breaks down wide range of soils, grease and oils.
-  Updated: 2025-10-08T10:37:05Z
+  Updated: 2025-10-08T22:37:11Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Deep-Clean-1-litre-_2832-oz_29-GT85832.jpg?v=1737645365
   Price: €19.95 EUR
 - [Gliptone Blue Bubbles](https://glasspolishshop.com/products/gliptone-blue-bubbles-boat-and-rv-wash-1-litre-32-oz): Gliptone Blue Bubbles Boat and RV Wash concentrate boat and RV wash with surface protection quart. High sudsing, gentle cleaning, soap.
-  Updated: 2025-10-08T10:37:05Z
+  Updated: 2025-10-08T22:37:10Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Blue-Bubbles-Boat-and-RV-Wash-1-litre-_2832-oz_29-GT84532.jpg?v=1737645390
   Price: €22.95 EUR
 - [Gliptone Black Streak Remover](https://glasspolishshop.com/products/gliptone-black-streak-remover-1-litre-32-oz): Gliptone Black Streak Remover
-  Updated: 2025-10-08T10:37:05Z
+  Updated: 2025-10-08T22:37:11Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Black-Streak-Remover-1-litre-_2832-oz_29-GT85032.jpg?v=1737645413
   Price: €24.95 EUR
 - [Gliptone Water Spot Remover](https://glasspolishshop.com/products/gliptone-water-spot-remover-1-litre-32-oz): Gliptone Water Spot Remover A unique liquid formula that removes water spot stains and mineral deposits from most glass, fiberglass and painted surfaces. Helps restore optical clarity by removing debris that has built over time.
-  Updated: 2025-10-08T10:37:04Z
+  Updated: 2025-10-08T22:37:08Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Water-Spot-Remover-1-litre-_2832-oz_29-GT86032.jpg?v=1737645433
   Price: €26.95 EUR
 - [Gliptone Leather Cleaner](https://glasspolishshop.com/products/gliptone-leather-cleaner-1-litre-32-oz): Gliptone Leather Cleaner is specially formulated to restore the beauty and resilience of leather as it cleans without harmfully removing any natural oils.
-  Updated: 2025-10-08T10:37:04Z
+  Updated: 2025-10-08T22:37:08Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
@@ -2400,14 +2400,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Carbon-Steel-Blades-25pk-for-MK3-and-MK2-Scraper-15124.jpg?v=1737645536
   Price: €19.95 EUR
 - [GP Tool Bag / S-size](https://glasspolishshop.com/products/gp-heavy-duty-tool-bag-small): GP Tool Bag / S-size Heavy Duty Glass Polish Tool bag made of made of high quality and durable polyester.
-  Updated: 2025-10-08T14:37:16Z
+  Updated: 2025-10-08T22:37:09Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-Heavy-Duty-Tool-Bag-Small-15019.jpg?v=1737645557
   Price: €29.95 EUR
 - [GP Tool Bag / L-size](https://glasspolishshop.com/products/gp-heavy-duty-tool-bag-large): GP Tool Bag, approved and used daily by Glass polish technicians. The large size allows you to easily carry the polishing machine with all required discs, pads and compounds.
-  Updated: 2025-10-08T14:37:16Z
+  Updated: 2025-10-08T22:37:11Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2554,7 +2554,7 @@
     Availability: Available
     Price: €44.95 EUR
 - [Car Detailing Essential Kit](https://glasspolishshop.com/products/car-detailing-essential-kit): Auto Detailing Essential Kit with a rotary polishing machine.  Everything you need for the paintwork, tires and wheels, interior and leather.
-  Updated: 2025-10-08T10:37:27Z
+  Updated: 2025-10-08T22:37:37Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2582,35 +2582,35 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90012-2.jpg?v=1739292295
   Price: €195.95 EUR
 - [Gliptone - Clean Bundle](https://glasspolishshop.com/products/gliptone-interior-clean-bundle): Gliptone - Interior Clean Bundle - GB2 - Clean and Polish - Bundle Contains:Express Polish Surface ProtectionExpress Interior DetailerOdor Goblin - Odor Elimination System
-  Updated: 2025-10-08T10:37:03Z
+  Updated: 2025-10-08T22:37:08Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-interior-Clean-Bundle-GB2.jpg?v=1737646009
   Price: €32.95 EUR
 - [Gliptone - Paint Care Bundle](https://glasspolishshop.com/products/gliptone-paint-care-bundle): Gliptone - Paint Care Bundle - GB4 - Paint Sealants &amp; Waxes - Bundle Contains:Pro Buff Cleaner WaxPlatinum Series Paint Sealant Clear-Coat CompoundClear Coat Polish
-  Updated: 2025-10-08T10:37:03Z
+  Updated: 2025-10-08T22:37:13Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Paint-Care-Bundle-GB4.jpg?v=1737646036
   Price: €69.95 EUR
 - [Gliptone - Tire and Wheel Bundle](https://glasspolishshop.com/products/gliptone-tire-and-wheel-bundle): Gliptone - Tire and Wheel Bundle - GB5 - Wheel Wash &amp; Protect - Bundle Contains:Rimguard polymer protectionTrue Blue Tire ShineMagtastik Wheel-Rim Cleaner
-  Updated: 2025-10-08T10:37:02Z
+  Updated: 2025-10-08T22:37:09Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Tire-and-Wheel-Bundle-GB5.jpg?v=1737646061
   Price: €26.95 EUR
 - [Gliptone - Clean and Protect Bundle](https://glasspolishshop.com/products/gliptone-clean-and-protect-bundle): Gliptone - Clean and Protect Bundle - GB6 - Clean and Polish - Bundle Contains:Sap off SprayBody Gloss spray-n-wipeMetal Wash Plus Cleaner
-  Updated: 2025-10-08T10:37:02Z
+  Updated: 2025-10-08T22:37:09Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Clean-and-Protect-Bundle-GB6.jpg?v=1737646089
   Price: €25.95 EUR
 - [AutoMate Car Care Bundle](https://glasspolishshop.com/products/automate-car-care-bundle): AutoMate Car Care Bundle - AMB1 - Special Offers &amp; Bundles - AutoMate Car Care Bundle Including: Carpet and Fabric CleanerAcid Free Wheel CleanerRainguard Glass CleanerDash and Interior Cleaner Car Bodywork ShampooRapid Car Spray WaxHigh Gloss Wax
-  Updated: 2025-10-08T10:37:02Z
+  Updated: 2025-10-08T22:37:07Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
@@ -2652,7 +2652,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/32006_29d9df40-6a87-4723-a6d0-beeabd640cce.jpg?v=1758027878
   Price: €59.95 EUR
 - [Flex VCE 26 L MC 110V / BS Professional Water Vacuum Cleaner - VCE 26 L MC 110V / BS](https://glasspolishshop.com/products/flex-vce-26-l-mc-110v-bs-professional-water-vacuum-cleaner): Flex VCE 26 L MC 110V / BS Professional Water Vacuum Cleaner - VCE 26 L MC 110V / BS - Flex tools - ✔️The high-performance turbine ensures both a high suction capacity and a high vacuum. The outcome is an excellent extraction result.✔️Level monitor, no ma
-  Updated: 2025-10-08T10:37:00Z
+  Updated: 2025-10-08T22:37:07Z
   Vendor: Flex
   Product Type: 
   Availability: Available
@@ -2746,7 +2746,7 @@
     Availability: Available
     Price: €159.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-75mm-3-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-08T09:23:55Z
+  Updated: 2025-10-08T21:12:55Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2897,8 +2897,8 @@
   - [20 Discs](https://glasspolishshop.com/products/promesh-p500-foam-backed-sanding-discs-125mm-5-inch?variant=56003808657743)
     Availability: Available
     Price: €34.95 EUR
-- [ProMesh™ P500 Foam Backed Silicon Carbide Sanding Discs 125mm (5”)](https://glasspolishshop.com/products/promesh-p180-scratch-removal-sanding-discs-125mm-5-inch): Foam-backed P180 grit sanding discs for glass scratch removal with even pressure and swirl-free results. Ideal for the first step in glass restoration system.
-  Updated: 2025-10-07T15:22:16Z
+- [ProMesh™ P180 Foam Backed Flexible Sanding Discs 125mm (5”)](https://glasspolishshop.com/products/promesh-p180-scratch-removal-sanding-discs-125mm-5-inch): ProMesh™ P180 Foam Backed Flexible Sanding Discs for glass scratch removal with even pressure and swirl-free results. Essential for glass restoration system.
+  Updated: 2025-10-08T21:10:14Z
   Vendor: Glass Polish
   Product Type: ProMesh™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -3031,9 +3031,6 @@
 - [Glass Polish Automotive Glass](https://glasspolishshop.com/collections/windscreen-polish): Glass Polish Automotive Glass Restoration ,  Removes wipe blade damage, side windows scratched from any car glass by using DIY or PRO kit
   Updated: 2025-10-06T11:22:35Z
   Total Products: 14
-- [Windscreens &amp; Laminated Glass Chip &amp; Crack Repair Kits](https://glasspolishshop.com/collections/crack-chip-repair): Do It Yourself &amp; Professional Glass Crack &amp; Chip Repair Kits.  Repair Chips, Cracks and Stone damage from any type of windscreen or laminated glass.
-  Updated: 2025-10-05T11:23:17Z
-  Total Products: 10
 - [Glass Polish metal and stainless steel polishing](https://glasspolishshop.com/collections/metal-stainless-steel-polishing): Metal &amp; Stainless Steel Polishing
   Updated: 2025-10-07T11:25:03Z
   Total Products: 8
@@ -3077,17 +3074,11 @@
   Updated: 2025-10-04T00:05:19Z
   Total Products: 10
 - [Glass Polishing Cleaning](https://glasspolishshop.com/collections/cleaning-supplies): Glass Polishing Cleaning  accessorises for glass, plastic, marble. For professionals and every day use. Worldwide shipping available.
-  Updated: 2025-10-04T00:05:19Z
-  Total Products: 10
+  Updated: 2025-10-08T22:02:46Z
+  Total Products: 12
 - [Glass Polish Health and Safety](https://glasspolishshop.com/collections/safety-gear): Glass Polish accessories, backing pad adapters, spare polishing brushes, tool bags, ppe equipment and much more. Worldwide shipping available.
   Updated: 2025-10-04T00:05:20Z
   Total Products: 4
-- [Glass Polish chip and crack consumables](https://glasspolishshop.com/collections/crack-and-chip-repair-supplies): Glass Polish chip and crack consumables, curing resin, pit filler, drill bits, curing tape used in chip and crack repair process.
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 8
-- [Glass Polish Spares Parts](https://glasspolishshop.com/collections/spare-parts): Glass Polish Spares Parts for polishing machines, spare brushes, gear box and much more.
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 6
 - [Gliptone full range](https://glasspolishshop.com/collections/gliptone-car-leather-care): Full range of gliptone products.  Professional and consumer car care products. “Try it once, use it forever” that's been our motto since 1947.
   Updated: 2025-10-04T11:20:59Z
   Total Products: 43
@@ -3097,12 +3088,6 @@
 - [Headlight Restoration Kits – Easy to use DIY & Professional Systems](https://glasspolishshop.com/collections/headlights-restoration-kits): Explore our Headlight Restoration Kits for restoring clarity and safety. Remove scratches, haze, and yellowing, protect with UV sealant for lasting results.
   Updated: 2025-10-04T00:05:20Z
   Total Products: 3
-- [Plastic Polishing Compound](https://glasspolishshop.com/collections/plastic-polishing-1): Polishing Compounds
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 8
-- [Plastic Cleaners and Sealants](https://glasspolishshop.com/collections/cleaners-sealants): Cleaners &amp; Sealants
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 5
 - [Glass Polishing Compound](https://glasspolishshop.com/collections/polishing-compounds-1): Polishing Compounds
   Updated: 2025-10-06T11:22:35Z
   Total Products: 8
@@ -3118,9 +3103,6 @@
 - [Metal Sealants and Protectants](https://glasspolishshop.com/collections/metal-sealants): Metal Sealants
   Updated: 2025-10-04T00:05:20Z
   Total Products: 4
-- [Leather, Vinyl &amp; Fabric Repair Kits](https://glasspolishshop.com/collections/leather-repair-kits): Leather Repair kits -
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 3
 - [Fabric and Carpet Repair Kits](https://glasspolishshop.com/collections/carpet-floor-repair): Carpet / Floor Repair -
   Updated: 2025-10-04T00:05:20Z
   Total Products: 2
@@ -3133,15 +3115,12 @@
 - [Automotive Care and Repair Products](https://glasspolishshop.com/collections/automotive-care-repair): Automotive Care &amp; Repair -
   Updated: 2025-10-07T11:25:03Z
   Total Products: 92
-- [Windscreen Chip and Crack Repair Kits](https://glasspolishshop.com/collections/chip-crack-repair): Chip &amp; Crack Repair -
-  Updated: 2025-10-05T11:23:17Z
+- [Windscreen Chip & Crack Repair Supplies for Professional Repair Kits](https://glasspolishshop.com/collections/crack-and-chip-repair-supplies): Shop professional chip and crack consumables, curing resin, pit filler, drill bits, curing tape used in car windscreen chip and crack repair process.
+  Updated: 2025-10-08T21:51:06Z
   Total Products: 10
 - [Paint Clean and Polish](https://glasspolishshop.com/collections/clean-and-polish): Clean and Polish -
   Updated: 2025-10-04T00:05:20Z
   Total Products: 28
-- [Headlights Restoration Kits | Repair Polish &amp; Protect](https://glasspolishshop.com/collections/headlights-polishing): With our polishing kits you can Repair tired foggy headlights, Polish Haziness, Remove Scratches, Scuffs &amp; Marks from vehicle Headlights &amp; Tail-Lights.
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 14
 - [Wheel Cleaners and Protectants](https://glasspolishshop.com/collections/wheel-detailing): Wheel Detailing -
   Updated: 2025-10-07T11:25:03Z
   Total Products: 14
@@ -3169,9 +3148,6 @@
 - [Gliptone Speciality Products](https://glasspolishshop.com/collections/speciality-products): Speciality Products
   Updated: 2025-10-04T11:20:59Z
   Total Products: 12
-- [Metal Cleaners and Polish](https://glasspolishshop.com/collections/metal-polish-clean): Metal Polish & Clean -
-  Updated: 2025-09-30T21:11:57Z
-  Total Products: 2
 - [Car Polishing, Compounding and Buffing Pads](https://glasspolishshop.com/collections/detailing-foam-polishing-pads): Wide Range of Polishing, Compounding and Buffing Foams and wool pads used in automotive industry.
   Updated: 2025-10-07T11:25:03Z
   Total Products: 27
@@ -3181,9 +3157,6 @@
 - [Carbon brushes for electric rotary polishing machines.](https://glasspolishshop.com/collections/carbon-brushes): Carbon Brushes
   Updated: 2025-10-04T00:05:21Z
   Total Products: 3
-- [Tool Bags, Water proof strong, Professional Glass Polish Tool Bag](https://glasspolishshop.com/collections/tool-bags): Tool Bags
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 2
 - [Giptone Marine and RV Environmentally safe and highly effective cleaning, enhancing and protection products.](https://glasspolishshop.com/collections/marine-rv-care): Environmentally safe and highly effective marine and RV cleaning, enhancing and protection products.
   Updated: 2025-10-04T00:05:21Z
   Total Products: 6
@@ -3230,11 +3203,11 @@
   Updated: 2025-10-04T00:05:22Z
   Total Products: 34
 - [Professional Glass Restoration Scratch Removal Kits & Consumables](https://glasspolishshop.com/collections/professional-glass-restoration-kits-consumables): Explore our range of professional glass restoration kits, abrasives, pads and polishing compounds. Trusted by technicians worldwide for expert scratch removal.
-  Updated: 2025-10-08T15:16:15Z
-  Total Products: 85
+  Updated: 2025-10-08T22:04:19Z
+  Total Products: 87
 - [Glass Polishing & Restoration Consumables for Glass Scratch Repair](https://glasspolishshop.com/collections/glass-restoration-consumables): Everything You Need to Polish, Restore, and Protect Glass Surfaces. Abrasives, compounds, pads and tools for professional clarity and long-lasting protection.
-  Updated: 2025-10-08T15:16:15Z
-  Total Products: 81
+  Updated: 2025-10-08T22:04:43Z
+  Total Products: 83
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-04T00:05:22Z
   Total Products: 2
@@ -3326,8 +3299,8 @@
     Updated: 2025-10-07T10:36:01Z
     Author: Shane OBrart
     Tags: Glass Polishing
-  - [Watch how to Repair Scratched Glass Using the DIY xNet Glass System](https://glasspolishshop.com/blogs/video-tutorials/diy-scratched-glass-repair-xnet-system): Watch how to Repair Scratched Glass Using the DIY xNet Glass System
-    Updated: 2025-04-30T19:15:58Z
+  - [Watch DIY Scratched Glass Repair Kit Video Tutorial](https://glasspolishshop.com/blogs/video-tutorials/diy-scratched-glass-repair-xnet-system): Watch DIY Scratched Glass Repair Kit Video Tutorial
+    Updated: 2025-10-08T20:33:18Z
     Author: Shane OBrart
     Tags: Glass Polishing, Glass Scratch Removal
 - [Glass Polish Articles – Guides for Glass, Plastic & Metal Restoration](https://glasspolishshop.com/blogs/articles): Discover expert guides and tips from GLASS POLISH on repairing scratches and restoring glass, plastic, and metal surfaces for smooth, professional results.
@@ -3335,8 +3308,8 @@
   </iframe></div>
     Updated: 2025-05-12T11:31:24Z
     Author: Shane OBrart
-  - [Understanding Glass Scratch Repair Essential Techniques and Tools](https://glasspolishshop.com/blogs/articles/understanding-glass-scratch-repair-essential-techniques-and-tools): Understanding Glass Scratch Repair Essential Techniques and Tools
-    Updated: 2025-10-08T10:44:10Z
+  - [Understanding Glass Scratch Repair Essential Techniques](https://glasspolishshop.com/blogs/articles/understanding-glass-scratch-repair-essential-techniques-and-tools): Understanding Glass Scratch Repair Essential Techniques
+    Updated: 2025-10-08T20:22:25Z
     Author: GLASS POLISH
 
 ## Store Pages
