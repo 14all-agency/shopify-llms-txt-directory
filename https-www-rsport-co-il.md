@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-08T04:01:02.722Z
+- Updated At: 2025-10-08T12:01:01.226Z
 
 ## Products
 
@@ -46483,8 +46483,41 @@
   - [11](https://www.rsport.co.il/products/goalkeeper-gloves-puma-future-ultimate-negative-cut-adult?variant=47801492046074)
     Availability: Available
     Price: ‏849.90 ‏₪ ILS
+- [כפפות שוער Ultra Ultimate Hybrid GK Gloves](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves): כפפות השוער PUMA Ultra Ultimate Hybrid מעניקות אחיזה מצוינת ושליטה מדויקת בכדור, עם שילוב חיתוך היברידי המשלב Negative ו־Rollfinger לנוחות מירבית ומגע טבעי עם הכדור. הגב עשוי מבד קל, נושם וגמיש, עם אלמנטים מסיליקון הממוקמים בדיוק לשיפור אחיזת הכדור ותנועת היד. המבנה החדש מאפשר גמישות מלאה, כך שתפיסות ואגרופים מרגישים חלקים ונוחים. פתחים בבד משפרים את זרימת האוויר ושומרים על רעננות גם בזמן משחק אינטנסיבי. כף היד עשויה מלטקס Superior Grip איכותי של PUMA, המספק אחיזה מעולה בתנאים רטובים ויבשים כאחד. הסגירה האלסטית מעניקה התאמה יציבה ונוחה לאורך כל המשחק, כך שתוכלו להתרכז רק בביצועים על המגרש.
+  Updated: 2025-10-08T11:53:54Z
+  Vendor: R:Sport
+  Product Type: כפפות שוער
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/4_49973fd7-0074-41aa-8e04-46554175a51f.jpg?v=1759869785
+  - [7](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028425466)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [7.5](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028458234)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [8](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028491002)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [8.5](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028523770)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [9](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028556538)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [9.5](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028589306)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [10](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028622074)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [10.5](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028654842)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
+  - [11](https://www.rsport.co.il/products/כפפות-שוער-ultra-ultimate-hybrid-gk-gloves?variant=47802028687610)
+    Availability: Available
+    Price: ‏749.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly X Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-x-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
-  Updated: 2025-10-08T01:17:29Z
+  Updated: 2025-10-08T09:08:13Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46532,7 +46565,7 @@
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-08T11:19:14Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-06T22:42:14Z
@@ -46601,7 +46634,7 @@
   Updated: 2025-10-02T11:52:03Z
   Total Products: 23
 - [אנגליה](https://www.rsport.co.il/collections/אנגליה): חולצות הכדורגל והאביזרים של נבחרת אנגליה מבטאים עוצמה, מסורת וגאווה לאומית. עם עיצוב אלגנטי בצבעי הלבן והאדום המזוהים כל כך, תוכל להתחבר לאחת הנבחרות הגדולות בעולם ולהרגיש חלק מהמשחק. בין אם אתה ביציע, ברחוב או עם חברים חולצת נבחרת אנגליה תבליט את התמיכה שלך בדרך הכי בריטית שיש.
-  Updated: 2025-10-06T22:42:09Z
+  Updated: 2025-10-08T11:19:14Z
   Total Products: 20
 - [חולצות נבחרת ארגנטינה ומוצרי ספורט | Argentina](https://www.rsport.co.il/collections/ארגנטינה): רכוש עכשיו את חולצת נבחרת ארגנטינה המועדפת עליך ותתחבר ללב האצטדיון מבחר עשיר של חולצות כדורגל, בגדי אימון וציוד ספורט
   Updated: 2025-10-07T11:18:18Z
@@ -46616,7 +46649,7 @@
   Updated: 2025-10-06T22:41:50Z
   Total Products: 207
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-08T11:19:14Z
   Total Products: 150
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
   Updated: 2025-10-06T22:56:44Z
@@ -46625,7 +46658,7 @@
   Updated: 2025-10-02T11:30:48Z
   Total Products: 4
 - [נבחרות אירופה](https://www.rsport.co.il/collections/נבחרות-אירופה)
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-08T11:19:14Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
   Updated: 2025-10-07T11:18:18Z
@@ -46847,10 +46880,10 @@
   Updated: 2025-10-02T11:30:59Z
   Total Products: 11
 - [כפפות שוער](https://www.rsport.co.il/collections/כפפות-שוער)
-  Updated: 2025-10-07T20:49:59Z
+  Updated: 2025-10-08T11:53:52Z
   Total Products: 17
 - [שוערים](https://www.rsport.co.il/collections/שוערים)
-  Updated: 2025-10-07T20:49:59Z
+  Updated: 2025-10-08T11:53:52Z
   Total Products: 30
 - [חולצות שוער](https://www.rsport.co.il/collections/חולצות-שוער)
   Updated: 2025-10-02T11:52:11Z
@@ -46907,7 +46940,7 @@
   Updated: 2025-10-07T11:38:09Z
   Total Products: 48
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-08T11:19:14Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-10-06T22:57:14Z
@@ -47000,7 +47033,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-08T00:15:34Z
+  Updated: 2025-10-08T11:53:52Z
   Total Products: 2063
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
@@ -47346,7 +47379,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.rsport.co.il/policies/privacy-policy)
-  Updated: 2025-08-18T10:48:30+03:00
+  Updated: 2025-10-08T14:52:24+03:00
 - [Shipping Policy](https://www.rsport.co.il/policies/shipping-policy)
   Updated: 2025-02-23T02:04:29+02:00
 - [Refund Policy](https://www.rsport.co.il/policies/refund-policy)
