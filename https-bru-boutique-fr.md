@@ -231,7 +231,7 @@ Préparation du thé à température précise
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-02-11T09:01:59Z
-- Updated At: 2025-10-08T08:00:28.034Z
+- Updated At: 2025-10-08T16:00:28.848Z
 
 Nous aimons le thé.  
 
