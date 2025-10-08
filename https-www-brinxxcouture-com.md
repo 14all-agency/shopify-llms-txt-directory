@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-07T20:00:49.863Z
+- Updated At: 2025-10-08T00:00:50.294Z
 
 ## Products
 
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-07T16:21:17Z
+  Updated: 2025-10-07T20:20:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10662,7 +10662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-07T16:22:56Z
+  Updated: 2025-10-07T23:30:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15828,7 +15828,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/SO-PINK-BEAUTY-Faux-Mink-Eyelashes-Variety-Pack-5-Pairs-Brinxx-Couture-8507.jpg?v=1709883269
   Price: $15.00 USD
 - [SO PINK BEAUTY Faux Mink Eyelashes 5 Pairs - Brinxx Couture](https://www.brinxxcouture.com/products/so-pink-beauty-faux-mink-eyelashes-5-pairs): Upgrade your lash game with SO PINK BEAUTY Faux Mink Eyelashes. Individually handcrafted with luxurious mink hair, these lightweight lashes give a natural yet dramatic flare to your eyes.
-  Updated: 2025-09-10T09:55:43Z
+  Updated: 2025-10-07T21:38:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23470,7 +23470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-07T16:21:27Z
+  Updated: 2025-10-07T23:40:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
