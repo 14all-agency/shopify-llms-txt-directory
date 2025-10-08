@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-08T00:01:16.536Z
+- Updated At: 2025-10-08T04:01:13.693Z
 
 ## Products
 
@@ -10968,7 +10968,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/naturo-adult-mini-dog-grain-free-chicken-with-potato-veg-pouches-150g-x-8-hypoallergenic-wet-324618.jpg?v=1741090480
   Price: £9.82 GBP
 - [Naturo Adult Mini Dog Salmon with Rice and Vegetables Pouch 150g x 8](https://veryimportantpets.shop/products/naturo-adult-mini-dog-salmon-with-rice-and-vegetables-pouch-150g-x-8): Naturo Adult Mini Salmon with Rice &amp; Vegetables Pouches. Shop online at Very Important Pets
-  Updated: 2025-10-07T09:28:08Z
+  Updated: 2025-10-08T01:11:42Z
   Vendor: Naturo
   Product Type: Hypoallergenic Wet
   Availability: Available
