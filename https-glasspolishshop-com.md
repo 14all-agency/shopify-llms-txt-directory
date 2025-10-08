@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-08T12:04:56.828Z
+- Updated At: 2025-10-08T16:00:35.902Z
 
 ## Products
 
@@ -334,7 +334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Hand-held-Abrasive-Sponge-Kit-15923.jpg?v=1737638338
   Price: €14.95 EUR
 - [Glass Polish Rotary Backing Pad 12600](https://glasspolishshop.com/products/50mm-2-inch-rotary-backing-pad-m14-medium): Backing Plate  suitable for use with any rotary polishing machine.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:25Z
+  Updated: 2025-10-08T14:59:10Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -2012,7 +2012,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Micro-Fibre-Cloth-25pk-15002.jpg?v=1737643922
   Price: €25.95 EUR
 - [Glass Polish Water Spray Bottle with Spray Trigger](https://glasspolishshop.com/products/water-spray-bottle-with-spray-trigger-2pk): Glass Polish 500ml / 16.9oz Pack of 2 Water Spray Bottle with Spray Trigger.  Chemical resistant, Ideal for a wide range of uses, including cleaning fluids or just water
-  Updated: 2025-10-04T00:06:02Z
+  Updated: 2025-10-08T15:24:04Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2169,154 +2169,154 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/carbon_20brushes_20K53.jpg?v=1737644519
   Price: €26.95 EUR
 - [Gliptone Leather Spray Conditioner](https://glasspolishshop.com/products/gliptone-leather-spray-conditioner-500ml-17-oz): GLIPTONE's Liquid Leather Conditioner is specially formulated to preserve the unique, natural qualities and beauty of fine leather. Breathes new life and resilience into neglected leather restoring life and luster. Requires no vigorous rubbing.
-  Updated: 2025-10-04T00:06:08Z
+  Updated: 2025-10-08T15:23:12Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Leather-Spray-Conditioner-500ml-_2817-oz_29-GT1117s.jpg?v=1737644588
   Price: €18.95 EUR
 - [GLIPTONE's Anti-Static](https://glasspolishshop.com/products/gliptone-static-eliminator-236-ml-8-oz): 236ml (8 oz)  GLIPTONE's Anti-Static formula to aid in the removal of pet hair, lint, and light soiling for the interior or exterior of your vehicle.
-  Updated: 2025-10-04T00:06:08Z
+  Updated: 2025-10-08T15:23:12Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Static-Eliminator-236-ml-_288-oz_29-GT19008.jpg?v=1737644639
   Price: €12.95 EUR
 - [Gliptone Pro Buff Cleaner Wax](https://glasspolishshop.com/products/gliptone-pro-buff-cleaner-wax-475-ml-16-oz): Gliptone Pro Buff Cleaner Wax: Cleans and waxes in one step. For hand and machine use. Removes fine scratches and oxidation.
-  Updated: 2025-10-04T00:06:09Z
+  Updated: 2025-10-08T15:23:11Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Pro-Buff-Cleaner-Wax-475-ml-_2816-oz_29-GT0616.jpg?v=1737644711
   Price: €21.95 EUR
 - [Gliptone Tire and Trim Jelly](https://glasspolishshop.com/products/gliptone-tire-and-trim-jelly-475-ml-16-oz): Gliptone Tire and Trim Jelly The greatest protection and gloss of any tire &amp; trim dressing. Thick, easy-to-apply gel allows for maximum control during application.
-  Updated: 2025-10-04T00:06:09Z
+  Updated: 2025-10-08T15:23:11Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Tire-and-Trim-Jelly-475-ml-_2816-oz_29-GT1516.jpg?v=1737644738
   Price: €24.95 EUR
 - [Gliptone Platinum Series Paint Sealant](https://glasspolishshop.com/products/gliptone-platinum-series-paint-sealant-475-ml-16-oz): Gliptone Platinum Series Paint Sealant #1 Rated for new car finishes. Advanced bonding formula Platinum Series™.
-  Updated: 2025-10-04T00:06:09Z
+  Updated: 2025-10-08T15:23:11Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Platinum-Series-Paint-Sealant-475-ml-_2816-oz_29-GT1016.jpg?v=1737644763
   Price: €22.95 EUR
 - [Gliptone Clear Coat Compound](https://glasspolishshop.com/products/gliptone-clear-coat-compound-475-ml-16-oz): Gliptone Clear Coat Compound Hi-Tech formula contains a &quot;non-scouring&quot;, abrasive-free cleanser that permanently removes scratches, swirl marks, oxidation and blemishes
-  Updated: 2025-10-04T00:06:10Z
+  Updated: 2025-10-08T15:23:11Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Clear-Coat-Compound-475-ml-_2816-oz_29-GT22016.jpg?v=1737644788
   Price: €24.95 EUR
 - [Gliptone Clear Coat Polish](https://glasspolishshop.com/products/gliptone-clear-coat-polish-475-ml-16-oz): Gliptone Clear Coat Polish Designed for paint finishes that are new, clean and very well maintained. Clear coat car wax with Clirilium.
-  Updated: 2025-10-04T00:06:10Z
+  Updated: 2025-10-08T15:23:10Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Clear-Coat-Polish-475-ml-_2816-oz_29-GT0816.jpg?v=1737644813
   Price: €24.95 EUR
 - [Gliptone True Blue Tire Shine](https://glasspolishshop.com/products/gliptone-true-blue-tire-shine-650-ml-22-oz): Gliptone True Blue Tire Shine Premium Professional quality exterior dressing for tires, moldings, bumpers and vinyl trim.
-  Updated: 2025-10-04T00:06:10Z
+  Updated: 2025-10-08T15:23:10Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-True-Blue-Tire-Shine-650-ml-_2822-oz_29-GT1822.jpg?v=1737644841
   Price: €20.95 EUR
 - [Gliptone Magtastik Wheel-Rim Cleaner](https://glasspolishshop.com/products/gliptone-magtastik-wheel-rim-cleaner-650-ml-22-oz): Gliptone Magtastik Wheel-Rim Cleaner removes brake dust, road grime and surface rust while leaving a heat resistant polymer coating of protection
-  Updated: 2025-10-04T00:06:11Z
+  Updated: 2025-10-08T15:23:10Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Magtastik-Wheel-Rim-Cleaner-650-ml-_2822-oz_29-GT2522.jpg?v=1737644865
   Price: €17.95 EUR
 - [Gliptone Metal Wash Plus Cleaner](https://glasspolishshop.com/products/gliptone-metal-wash-plus-cleaner-650-ml-22-oz): Gliptone Metal Wash Plus Cleaner is a highly effective metal cleaner that safely and effectively removes grime, oxidation and corrosion without dulling
-  Updated: 2025-10-04T00:06:11Z
+  Updated: 2025-10-08T15:23:10Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Metal-Wash-Plus-Cleaner-650-ml-_2822-oz_29-GT15922.jpg?v=1737644889
   Price: €18.95 EUR
 - [Gliptone Rimguard polymer protection](https://glasspolishshop.com/products/gliptone-rimguard-polymer-protection-650-ml-22-oz): Gliptone Rimguard polymer protection most durable spray polymer sealant. RIMGUARD forms a semi-permanent, high heat resistant, barrier of protection.
-  Updated: 2025-10-04T00:06:11Z
+  Updated: 2025-10-08T15:23:08Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Rimguard-polymer-protection-650-ml-_2822-oz_29-GT3022.jpg?v=1737644918
   Price: €17.95 EUR
 - [Gliptone White Satin Dressing](https://glasspolishshop.com/products/gliptone-white-satin-dressing-650-ml-22-oz): Gliptone White Satin Dressing Premium quality water based, silicone dressing. Restores and renews.
-  Updated: 2025-10-04T00:06:12Z
+  Updated: 2025-10-08T15:23:08Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-White-Satin-Dressing-650-ml-_2822-oz_29-GT2122.jpg?v=1737644944
   Price: €18.95 EUR
 - [Gliptone Glipgloss wax-after-wash](https://glasspolishshop.com/products/gliptone-glipgloss-wax-after-wash-650-ml-22-oz): GLIPTONE’S Express WAX-AFTER-WASH is truly a state of the art formulation combining Curable polymers, Hydrophobic Polymers and Real Carnauba Wax to quickly shine and protect all exterior automotive surfaces.
-  Updated: 2025-10-04T00:06:12Z
+  Updated: 2025-10-08T15:23:08Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Glipgloss-wax-after-wash-650-ml-_2822-oz_29-GT2622.jpg?v=1737644968
   Price: €17.95 EUR
 - [Gliptone Body Gloss](https://glasspolishshop.com/products/gliptone-body-gloss-spray-n-wipe-650-ml-22-oz): Gliptone Body Gloss Simply spray and wipe. Quickly removes dust and fingerprints from paint, chrome, glass, plastic, and vinyl surfaces
-  Updated: 2025-10-04T00:06:13Z
+  Updated: 2025-10-08T15:23:08Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Body-Gloss-spray-n-wipe-650-ml-_2822-oz_29-GT2022.jpg?v=1737644991
   Price: €17.95 EUR
 - [Gliptone Body Protection with Glipguard](https://glasspolishshop.com/products/gliptone-body-protection-with-glipguard-650-ml-22-oz): GLIPTONE® TOTAL BODY PROTECTION with Glipguard® brings durability in a spray ‘detailer-type’ product, to a whole new level.
-  Updated: 2025-10-04T00:06:13Z
+  Updated: 2025-10-08T15:23:07Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Body-Protection-with-Glipguard-650-ml-_2822-oz_29-GT2822.jpg?v=1737645015
   Price: €16.95 EUR
 - [Gliptone Express Polish Surface Protection](https://glasspolishshop.com/products/gliptone-express-polish-surface-protection-650-ml-22-oz): Gliptone Express Polish Surface Protection Excellent for vinyl wrap and primer painted vehicles. The formula gently cleans, conditions and protects the surface from damaging
-  Updated: 2025-10-04T00:06:13Z
+  Updated: 2025-10-08T15:23:07Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Express-Polish-Surface-Protection-650-ml-_2822-oz_29-GT26922.jpg?v=1737645040
   Price: €17.95 EUR
 - [Gliptone Sap Pff Spray](https://glasspolishshop.com/products/gliptone-sap-pff-spray-650-ml-22-oz): GLIPTONE's SAP OFF provides excellent and immediate results on fresh and dried-on sap, tar, and bug residue.
-  Updated: 2025-10-04T00:06:13Z
+  Updated: 2025-10-08T15:23:07Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Sap-Pff-Spray-650-ml-_2822-oz_29-GT16222.jpg?v=1737645065
   Price: €16.95 EUR
 - [Gliptone Glass Cleaner with Anti Static](https://glasspolishshop.com/products/gliptone-glass-cleaner-with-anti-static-650-ml-22-oz): Gliptone Glass Cleaner with Anti Static  GLIPTONE's Glass Cleaner is a non-streak formulation that requires no dilution.
-  Updated: 2025-10-04T00:06:14Z
+  Updated: 2025-10-08T15:23:07Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Glass-Cleaner-with-Anti-Static-650-ml-_2822-oz_29-GT16422.jpg?v=1737645090
   Price: €13.95 EUR
 - [Gliptone Express Interior Detailer](https://glasspolishshop.com/products/gliptone-express-interior-detailer-650-ml-22-oz): Gliptone Express Interior Detailer
-  Updated: 2025-10-04T00:06:14Z
+  Updated: 2025-10-08T15:23:05Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Express-interior-Detailer-650-ml-_2822-oz_29-GT2222.jpg?v=1737645115
   Price: €16.95 EUR
 - [Gliptone Emerald Clean](https://glasspolishshop.com/products/gliptone-emerald-clean-650-ml-22-oz): Gliptone Emerald Clean Works great to clean and degrease engines, fender wells, rocker panels, door jambs, grease stains from carpet, venal, plastic, seat-belts, upholstery, road film and tar from painted surfaces, driveways and garage floors.
-  Updated: 2025-10-04T00:06:14Z
+  Updated: 2025-10-08T15:23:05Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Emerald-Clean-650-ml-_2822-oz_29-GT1722.jpg?v=1737645139
   Price: €16.95 EUR
 - [Glass Polish in Resin UV Cure](https://glasspolishshop.com/products/crack-and-chip-thin-resin-uv-cure-20-ml-0-67-oz): Glass polish Glass thin resin is a professional crack and chip repair solution that works with any glass or windscreen repair system.
-  Updated: 2025-10-04T00:06:15Z
+  Updated: 2025-10-08T15:23:05Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Crack-and-Chip-Thin-Resin-UV-Cure-20-ml-_280.67-oz_29-22105.jpg?v=1737645166
   Price: €44.95 EUR
 - [Crack and Chip Pit Filler UV Cure](https://glasspolishshop.com/products/pit-filler-uv-cure-10-ml-0-33-oz): Glass polish Glass Pit Fill Resin is thicker repair resin and is used to fill the pit when completing a repair.
-  Updated: 2025-10-04T00:06:15Z
+  Updated: 2025-10-08T15:23:05Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2330,14 +2330,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Thin-Resin-and-Pit-Filler-UV-Cure-Bundle-22109.jpg?v=1737645217
   Price: €65.95 EUR
 - [Glass Curing Film Tape](https://glasspolishshop.com/products/glass-curing-film-tape-20m-65-6-ft): Curing Film Tape for windscreen and rock chip repairs.  Approximately 20m (65.6 ft) long tape can be cut to required size.
-  Updated: 2025-10-04T00:06:15Z
+  Updated: 2025-10-08T15:05:19Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Glass-Curing-Film-Tape-20m-_2865.6-ft_29-22106.jpg?v=1737645243
   Price: €19.95 EUR
 - [Glass Curing Film Tabs](https://glasspolishshop.com/products/glass-curing-film-tabs-20-pk): Curing Film Tabs for windscreen and rock chip repairs.  Pack of 20 pre-cut tabs.  Size: 85 x 60 mm
-  Updated: 2025-10-04T00:06:16Z
+  Updated: 2025-10-08T15:05:20Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2393,28 +2393,28 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Leather-Cleaner-1-litre-_2832-oz_29-GT1232.jpg?v=1737645457
   Price: €26.95 EUR
 - [Glass Polish MK2 MK3 Scraper Carbon Steel  blades](https://glasspolishshop.com/products/carbon-steel-blades-25pk-for-mk3-and-mk2-scraper): Carbon Steel Replacement Bladed for Handy MK2 Glass Scraper / 10pk. High quality stainless steel material far more resistant to rust and more flexible then any other type of blades.
-  Updated: 2025-10-04T00:06:18Z
+  Updated: 2025-10-08T14:46:15Z
   Vendor: JBF
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Carbon-Steel-Blades-25pk-for-MK3-and-MK2-Scraper-15124.jpg?v=1737645536
   Price: €19.95 EUR
 - [GP Tool Bag / S-size](https://glasspolishshop.com/products/gp-heavy-duty-tool-bag-small): GP Tool Bag / S-size Heavy Duty Glass Polish Tool bag made of made of high quality and durable polyester.
-  Updated: 2025-10-08T10:37:04Z
+  Updated: 2025-10-08T14:37:16Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-Heavy-Duty-Tool-Bag-Small-15019.jpg?v=1737645557
   Price: €29.95 EUR
 - [GP Tool Bag / L-size](https://glasspolishshop.com/products/gp-heavy-duty-tool-bag-large): GP Tool Bag, approved and used daily by Glass polish technicians. The large size allows you to easily carry the polishing machine with all required discs, pads and compounds.
-  Updated: 2025-10-08T10:37:03Z
+  Updated: 2025-10-08T14:37:16Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-Heavy-Duty-Tool-Bag-Large-15020.jpg?v=1737645577
   Price: €44.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 50mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-2-inch-50mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-06T09:06:47Z
+  Updated: 2025-10-08T14:31:18Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2426,7 +2426,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 120 Medium  Grade Silicon Carbide Disc 50mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-2-inch-50mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-04T08:36:56Z
+  Updated: 2025-10-08T14:31:18Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2438,7 +2438,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-07T15:36:10Z
+  Updated: 2025-10-08T14:31:18Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2450,7 +2450,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-3-inch-75mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-06T12:56:52Z
+  Updated: 2025-10-08T14:31:18Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2462,7 +2462,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasNet 200 Coarse Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasnet-200-coarse-grade-abrasive-3-inch-75mm): GlasNet 200 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-04T00:06:19Z
+  Updated: 2025-10-08T14:31:17Z
   Vendor: Glass Polish
   Product Type: GlasNet™ Net Abrasive Discs
   Availability: Available
@@ -2474,7 +2474,7 @@
     Availability: Available
     Price: €29.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 125mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-5-inch-125mm): GlasX™ 120  Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-08T07:59:22Z
+  Updated: 2025-10-08T14:31:17Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2486,7 +2486,7 @@
     Availability: Available
     Price: €49.95 EUR
 - [GlasNet 200 Coarse Grade Silicon Carbide Disc 125mm](https://glasspolishshop.com/products/glasnet-200-coarse-grade-abrasive-5-inch-125mm): GlasNet 200 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-04T00:06:20Z
+  Updated: 2025-10-08T14:31:17Z
   Vendor: Glass Polish
   Product Type: GlasNet™ Net Abrasive Discs
   Availability: Available
@@ -2498,7 +2498,7 @@
     Availability: Available
     Price: €32.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-125mm-5-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-08T11:24:17Z
+  Updated: 2025-10-08T14:11:49Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2510,21 +2510,21 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-08T02:05:11Z
+  Updated: 2025-10-08T14:11:49Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/28003_6b0c43c7-2f91-4497-9d51-5bc66b3710b5.jpg?v=1747663827
   Price: €44.95 EUR
 - [Deluxe DIY Glass Scratch Removal Kit – 50mm + 75mm for Deep Scratches](https://glasspolishshop.com/products/deluxe-diy-glass-scratch-removal-kit): DIY deluxe glass polishing kit with 50mm and 75mm pads. Remove deep scratches, water stains, acid etching, restore clarity to all glass types using your drill.
-  Updated: 2025-10-04T00:06:20Z
+  Updated: 2025-10-08T14:11:49Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/28004.jpg?v=1747667602
   Price: €49.95 EUR
 - [Professional Glass Scratch Removal System with FLEX L1503VR Polisher](https://glasspolishshop.com/products/professional-glass-scratch-removal-xnet-system): Restore any glass surface with the xNet™ system featuring the FLEX L1503VR. Fast, cost-effective scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-04T00:06:21Z
+  Updated: 2025-10-08T14:07:21Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2542,7 +2542,7 @@
     Availability: Available
     Price: €895.95 EUR
 - [Windscreen Scratch Repair Kit - Do-It-Yourself xNet™ System](https://glasspolishshop.com/products/automotive-glass-scratch-removal-kit-do-it-yourself-xnet-system): Comes with 75mm (3 inch) backing pad, use with drill to remove wiper blade damage, scratches, abrasions, acid etching, limescale mineral deposits, chemical stains, surface marks and scuffs.
-  Updated: 2025-10-04T00:06:21Z
+  Updated: 2025-10-08T14:05:31Z
   Vendor: Glass Polish
   Product Type: Windscreen Repair Kit
   Availability: Available
@@ -2617,7 +2617,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/AutoMate-Car-Care-Bundle-AMB1.jpg?v=1737646115
   Price: €39.95 EUR
 - [Auto Paint Care and Protection Kit](https://glasspolishshop.com/products/auto-paint-care-and-protection-kit): Get your car protected before the winter. To keep your vehicle clean and protected all winter long make sure to thoroughly wax your car before the cold weather hits
-  Updated: 2025-10-04T00:06:23Z
+  Updated: 2025-10-08T14:05:31Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
@@ -2951,6 +2951,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/adaptorM6long.jpg?v=1759153110
   Price: €5.95 EUR
+- [75mm (3") PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-08T15:09:50Z
+  Vendor: Glass Polish
+  Product Type: Rotary Polisher Backing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12675.jpg?v=1759935066
+  Price: €12.95 EUR
+- [75mm (3") PRO Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-08T15:18:01Z
+  Vendor: Glass Polish
+  Product Type: Rotary Polisher Backing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12675.jpg?v=1759935066
+  Price: €12.95 EUR
 
 ## Collections
 
@@ -2970,14 +2984,14 @@
   Updated: 2025-10-04T00:05:18Z
   Total Products: 5
 - [Backing Pads for Drills, Rotary Polishers, DA and Orbital Sanders](https://glasspolishshop.com/collections/backing-pads): Discover high-quality backing pads for drills, rotary polishers, dual action and orbital sanders, Multiple sizes, thread types and densities, worldwide shipping
-  Updated: 2025-10-06T11:22:35Z
-  Total Products: 122
+  Updated: 2025-10-08T15:16:15Z
+  Total Products: 124
 - [Drill Spindle Backing Pads – Hook & Loop and PSA Pads](https://glasspolishshop.com/collections/drill-spindle-backing-pads): Shop high-quality drill spindle backing pads with hook & loop or PSA self-stick fixing. Durable, versatile and ideal for sanding, polishing and restoration.
   Updated: 2025-10-06T11:22:35Z
   Total Products: 20
 - [Glass Polish Rotary Backing Pads](https://glasspolishshop.com/collections/rotary-device): Glass Polish, backing pads for rotary devices. Full range of backing plates, variety of grip types, thread sizes, diameters. Worldwide shipping available.
-  Updated: 2025-10-04T11:20:59Z
-  Total Products: 50
+  Updated: 2025-10-08T15:16:15Z
+  Total Products: 52
 - [Dual Action Sander Backing Pads – 1/4”-20, M6, 5/16”-24 Threads](https://glasspolishshop.com/collections/dual-action-backing-pads): Explore durable hook & loop dual action backing pads for sanding, polishing, spot repair and surface restoration, with various dust extraction hole options.
   Updated: 2025-10-04T00:05:18Z
   Total Products: 16
@@ -3216,11 +3230,11 @@
   Updated: 2025-10-04T00:05:22Z
   Total Products: 34
 - [Professional Glass Restoration Scratch Removal Kits & Consumables](https://glasspolishshop.com/collections/professional-glass-restoration-kits-consumables): Explore our range of professional glass restoration kits, abrasives, pads and polishing compounds. Trusted by technicians worldwide for expert scratch removal.
-  Updated: 2025-10-08T11:24:45Z
-  Total Products: 83
+  Updated: 2025-10-08T15:16:15Z
+  Total Products: 85
 - [Glass Polishing & Restoration Consumables for Glass Scratch Repair](https://glasspolishshop.com/collections/glass-restoration-consumables): Everything You Need to Polish, Restore, and Protect Glass Surfaces. Abrasives, compounds, pads and tools for professional clarity and long-lasting protection.
-  Updated: 2025-10-08T11:24:45Z
-  Total Products: 79
+  Updated: 2025-10-08T15:16:15Z
+  Total Products: 81
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-04T00:05:22Z
   Total Products: 2
@@ -3397,6 +3411,10 @@
   Updated: 2025-10-02T11:03:55Z
 - [DIY Chip and Crack Support](https://glasspolishshop.com/pages/diy-chip-and-crack-support)
   Updated: 2025-10-07T13:36:34Z
+- [PRO 75mm Glass Scratch Repair Kit Support](https://glasspolishshop.com/pages/pro-glass-scratch-repair-kit-support)
+  Updated: 2025-10-08T14:25:40Z
+- [PRO Glass Scratch Repair Kit Support](https://glasspolishshop.com/pages/pro-glass-scratch-repair-kit-support-1)
+  Updated: 2025-10-08T12:34:38Z
 
 ## Policies
 
