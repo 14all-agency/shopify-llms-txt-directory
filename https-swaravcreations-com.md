@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-08T08:00:28.825Z
+- Updated At: 2025-10-08T12:00:28.523Z
 
 ## Products
 
@@ -117,7 +117,7 @@
     Availability: Available
     Price: $89.99 CAD
 - [Shipping Protection by Route](https://swaravcreations.com/products/routeins): Ensure your packages arrive safely with our Shipping Protection for Deliveries. Enjoy hassle-free deliveries and peace of mind. Protect your orders today with Route!
-  Updated: 2025-10-08T08:00:19Z
+  Updated: 2025-10-08T10:58:03Z
   Vendor: Route
   Product Type: Insurance
   Availability: Available
@@ -165,7 +165,7 @@
   - [2.95](https://swaravcreations.com/products/routeins?variant=47012051353856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $4.11 CAD
+    Price: $4.12 CAD
   - [3.15](https://swaravcreations.com/products/routeins?variant=47012051386624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
@@ -205,7 +205,7 @@
   - [4.95](https://swaravcreations.com/products/routeins?variant=47012051681536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $6.90 CAD
+    Price: $6.91 CAD
   - [5.15](https://swaravcreations.com/products/routeins?variant=47012051714304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
@@ -245,7 +245,7 @@
   - [6.95](https://swaravcreations.com/products/routeins?variant=47012052009216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $9.69 CAD
+    Price: $9.70 CAD
   - [7.15](https://swaravcreations.com/products/routeins?variant=47012052041984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
@@ -281,15 +281,15 @@
   - [8.75](https://swaravcreations.com/products/routeins?variant=47012052304128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $12.20 CAD
+    Price: $12.21 CAD
   - [8.95](https://swaravcreations.com/products/routeins?variant=47012052336896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $12.48 CAD
+    Price: $12.49 CAD
   - [9.38](https://swaravcreations.com/products/routeins?variant=47012052369664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $13.08 CAD
+    Price: $13.09 CAD
   - [10.03](https://swaravcreations.com/products/routeins?variant=47012052402432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
@@ -301,7 +301,7 @@
   - [11.33](https://swaravcreations.com/products/routeins?variant=47012052467968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $15.80 CAD
+    Price: $15.81 CAD
   - [11.98](https://swaravcreations.com/products/routeins?variant=47012052500736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
@@ -313,7 +313,7 @@
   - [13.28](https://swaravcreations.com/products/routeins?variant=47012052566272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-    Price: $18.52 CAD
+    Price: $18.53 CAD
   - [13.93](https://swaravcreations.com/products/routeins?variant=47012052599040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
