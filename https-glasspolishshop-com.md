@@ -2,7 +2,7 @@
 
 > Glass Polish Shop offers professional and DIY solutions for restoring glass, plastic, and metal surfaces. Explore a complete range of glass scratch repair kits, polishing compounds, abrasives, pads, backing plates, and polishers, plus expert training in glass polishing and restoration. Founded in 2003, GLASS POLISH is trusted worldwide for quality, efficiency, and free expert technical support.
 
-- Updated At: 2025-10-08T10:07:30.041Z
+- Updated At: 2025-10-08T11:51:59.802Z
 
 ## Products
 
@@ -55,8 +55,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14055.jpg?v=1740210658
   Price: €31.95 EUR
-- [PRO Glass Polishing Compound 500ml | High-Grade 2.3 Microns – GP14055](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-500ml-16-9oz): Glass Polishing Compound Polish away, surface marks, water damage, stain and lime scale, removes hairline scratches for any type of glass
-  Updated: 2025-10-04T08:36:56Z
+- [PRO Glass Polishing Compound 500ml | High-Grade 2.3 Microns – GP14056](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-500ml-16-9oz): Glass Polishing Compound Polish away, surface marks, water damage, stain and lime scale, removes hairline scratches for any type of glass
+  Updated: 2025-10-08T10:57:32Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -93,8 +93,8 @@
   - [5/8"-11](https://glasspolishshop.com/products/diy-glass-polishing-kit?variant=55178758127951)
     Availability: Available
     Price: €21.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13201](https://glasspolishshop.com/products/gp20-ultra-fine-abrasive-disc-2-inch-50mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:20Z
+- [Glass Polish GP20 – Ultra Fine 2” (50 mm) Abrasive Discs for Glass](https://glasspolishshop.com/products/gp20-ultra-fine-abrasive-disc-2-inch-50mm): Smooth and refine delicate glass, plastic, and acrylic with GP20 Ultra Fine 2” discs. Hook-and-loop design fits any backing pad for precise polishing.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -108,8 +108,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp20-ultra-fine-abrasive-disc-2-inch-50mm?variant=54282330079567)
     Availability: Available
     Price: €23.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13203](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-2-inch-50mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:20Z
+- [Glass Polish GP100 – Medium 2” (50 mm) Abrasive Discs for Repair](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-2-inch-50mm): Durable medium-grade sanding discs for glass, acrylic, and plastic. Perfect for surface preparation and scratch repair with any hook-and-loop pad.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -123,8 +123,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-2-inch-50mm?variant=54282337517903)
     Availability: Available
     Price: €23.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13303](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-3-inch-75mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:20Z
+- [Glass Polish GP100 – Medium 3” (75 mm) Abrasive Discs for Glass](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-3-inch-75mm): High-quality medium discs for removing marks and fine scratches on glass or acrylic. Hook-and-loop backing fits any standard polishing pad.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -138,8 +138,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-3-inch-75mm?variant=54282346037583)
     Availability: Available
     Price: €27.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13304](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-3-inch-75mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:21Z
+- [Glass Polish GP150 – Coarse 3” (75 mm) Abrasive Discs for Restoration](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-3-inch-75mm): Aggressive cutting 3” discs for fast scratch removal and shaping on glass, plastic, or metal. Time-saving hook-and-loop pads for quick changes.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1705,8 +1705,8 @@
   - [Pack of 10 Pads](https://glasspolishshop.com/products/pro-line-cutting-foam-6-inch-150mm-1?variant=54283065819471)
     Availability: Available
     Price: €81.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13402](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-4-5-inch-115mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:56Z
+- [Glass Polish GP50 – Fine 4.5” (115 mm) Abrasive Discs for Finishing](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-4-5-inch-115mm): Fine-grade sanding discs ideal for refining surfaces and edge finishing on glass and acrylic. Long-lasting hook-and-loop velour backing.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1720,8 +1720,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-4-5-inch-115mm?variant=54283067425103)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13403](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-4-5-inch-115mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:57Z
+- [Glass Polish GP100 – Medium 4.5” (115 mm) Abrasive Discs for Glass](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-4-5-inch-115mm): Reliable medium-cut 4.5” abrasive discs for repairing glass and plastic. Provides balanced sanding power with reusable hook-and-loop fit.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1735,8 +1735,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-4-5-inch-115mm?variant=54283068670287)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13404](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-4-5-inch-115mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:57Z
+- [Glass Polish GP150 – Coarse 4.5” (115 mm) Abrasive Discs for Repair](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-4-5-inch-115mm): Coarse sanding discs deliver rapid material removal on damaged glass, plastic, or metal surfaces. Durable hook-and-loop system for easy use.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1750,8 +1750,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-4-5-inch-115mm?variant=54283069882703)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13405](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-4-5-inch-115mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:57Z
+- [Glass Polish GP175 – Extra Coarse 4.5” (115 mm) Abrasive Discs for Glass](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-4-5-inch-115mm): Extra-coarse abrasive discs for heavy scratch removal and restoration on glass and hard materials. Ideal for large projects and fast results.
+  Updated: 2025-10-08T11:50:16Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1765,8 +1765,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-4-5-inch-115mm?variant=54283072831823)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13502](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-5-inch-125mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:57Z
+- [Glass Polish GP50 – Fine 5” (125 mm) Abrasive Discs for Finishing](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-5-inch-125mm): Fine-grade 5” discs for final surface refinement on glass, acrylic, or metal. Produces smooth, uniform results with hook-and-loop backing.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1780,8 +1780,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-5-inch-125mm?variant=54283073683791)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13503](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-5-inch-125mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T08:36:56Z
+- [Glass Polish GP100 – Medium 5” (125 mm) Abrasive Discs for Repair](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-5-inch-125mm): Medium-grade 5” abrasive discs designed for efficient scratch repair and polishing prep on glass and plastic surfaces. Hook-and-loop backed.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1795,8 +1795,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-5-inch-125mm?variant=54283074371919)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13504](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-5-inch-125mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:57Z
+- [Glass Polish GP150 – Coarse 5” (125 mm) Abrasive Discs for Restoration](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-5-inch-125mm): Coarse sanding discs ideal for fast scratch removal and shaping on glass, metal, and plastic. Durable construction for extended use.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1810,8 +1810,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-5-inch-125mm?variant=54283075125583)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13505](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-5-inch-125mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-06T10:12:56Z
+- [Glass Polish GP175 – Extra Coarse 5” (125 mm) Abrasive Discs for Repair](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-5-inch-125mm): Extra-coarse 5” discs for rapid material removal and restoration of deep scratches on glass, plastic, or metal. Time-saving hook-and-loop fit.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1825,8 +1825,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-5-inch-125mm?variant=54283075453263)
     Availability: Available
     Price: €33.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13602](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-6-inch-150mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:58Z
+- [Glass Polish GP50 – Fine 6” (150 mm) Abrasive Discs for Glass Finishing](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-6-inch-150mm): Fine 6” abrasive discs deliver smooth finishing on large glass and acrylic panels. Hook-and-loop design ensures easy pad changes and reuse.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1837,8 +1837,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp50-fine-abrasive-disc-6-inch-150mm?variant=54283075846479)
     Availability: Available
     Price: €39.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13603](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-6-inch-150mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:58Z
+- [Glass Polish GP100 – Medium 6” (150 mm) Abrasive Discs for Polishing](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-6-inch-150mm): Medium-grade 6” abrasive discs for repairing surface marks and scratches on glass, plastic, or metal. Reusable hook-and-loop backing.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1849,8 +1849,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp100-medium-abrasive-disc-6-inch-150mm?variant=54283077353807)
     Availability: Available
     Price: €39.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13604](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-6-inch-150mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:58Z
+- [Glass Polish Sanding Abrasive Disc Glass Polish GP150 – Coarse 6” (150 mm) Abrasive Discs for Restoration](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-6-inch-150mm): Coarse 6” sanding discs for aggressive surface leveling and glass restoration. Long-lasting abrasive structure saves time on large projects.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -1861,8 +1861,8 @@
   - [Pack of 50 Discs](https://glasspolishshop.com/products/gp150-coarse-abrasive-disc-6-inch-150mm?variant=54283077747023)
     Availability: Available
     Price: €39.95 EUR
-- [Glass Polish Sanding Abrasive Disc 13605](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-6-inch-150mm): Glass Polish silicon carbide sanding discs for glass, plastic or acrylic with hook and loop velour to fir any velcro backing pad
-  Updated: 2025-10-04T00:05:58Z
+- [Glass Polish GP175 – Extra Coarse 6” (150 mm) Abrasive Discs for Repair](https://glasspolishshop.com/products/gp175-extra-coarse-abrasive-disc-6-inch-150mm): Extra-coarse 6” abrasive discs remove deep scratches and tough imperfections on glass and hard surfaces. Fits any hook-and-loop backing pad.
+  Updated: 2025-10-08T11:50:15Z
   Vendor: Glass Polish
   Product Type: GP-PRO Waterproof Abrasive Discs
   Availability: Available
@@ -2346,42 +2346,42 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Carbide-Burr-Drill-Bits-10pk-22107.jpg?v=1737645315
   Price: €41.95 EUR
 - [Gliptone Iron Eater](https://glasspolishshop.com/products/gliptone-iron-eater-1-litre-32-oz): GLIPTONE GT IRON EATER® is a fast acting, pH Neutral gel formula that clings to surfaces providing added dwell time and exceptional cleaning action. The pH neutral
-  Updated: 2025-10-04T00:06:17Z
+  Updated: 2025-10-08T10:37:05Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-iron-Eater-1-litre-_2832-oz_29-GT16932.jpg?v=1737645340
   Price: €29.95 EUR
 - [Gliptone Deep Clean](https://glasspolishshop.com/products/gliptone-deep-clean-1-litre-32-oz): Gliptone Deep Clean Highly effective liquid cleanser. Environmentally safe formula. Safely and effectively breaks down wide range of soils, grease and oils.
-  Updated: 2025-10-04T00:06:17Z
+  Updated: 2025-10-08T10:37:05Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Deep-Clean-1-litre-_2832-oz_29-GT85832.jpg?v=1737645365
   Price: €19.95 EUR
 - [Gliptone Blue Bubbles](https://glasspolishshop.com/products/gliptone-blue-bubbles-boat-and-rv-wash-1-litre-32-oz): Gliptone Blue Bubbles Boat and RV Wash concentrate boat and RV wash with surface protection quart. High sudsing, gentle cleaning, soap.
-  Updated: 2025-10-04T00:06:17Z
+  Updated: 2025-10-08T10:37:05Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Blue-Bubbles-Boat-and-RV-Wash-1-litre-_2832-oz_29-GT84532.jpg?v=1737645390
   Price: €22.95 EUR
 - [Gliptone Black Streak Remover](https://glasspolishshop.com/products/gliptone-black-streak-remover-1-litre-32-oz): Gliptone Black Streak Remover
-  Updated: 2025-10-04T00:06:17Z
+  Updated: 2025-10-08T10:37:05Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Black-Streak-Remover-1-litre-_2832-oz_29-GT85032.jpg?v=1737645413
   Price: €24.95 EUR
 - [Gliptone Water Spot Remover](https://glasspolishshop.com/products/gliptone-water-spot-remover-1-litre-32-oz): Gliptone Water Spot Remover A unique liquid formula that removes water spot stains and mineral deposits from most glass, fiberglass and painted surfaces. Helps restore optical clarity by removing debris that has built over time.
-  Updated: 2025-10-04T00:06:18Z
+  Updated: 2025-10-08T10:37:04Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Water-Spot-Remover-1-litre-_2832-oz_29-GT86032.jpg?v=1737645433
   Price: €26.95 EUR
 - [Gliptone Leather Cleaner](https://glasspolishshop.com/products/gliptone-leather-cleaner-1-litre-32-oz): Gliptone Leather Cleaner is specially formulated to restore the beauty and resilience of leather as it cleans without harmfully removing any natural oils.
-  Updated: 2025-10-04T00:06:18Z
+  Updated: 2025-10-08T10:37:04Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
@@ -2395,14 +2395,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Carbon-Steel-Blades-25pk-for-MK3-and-MK2-Scraper-15124.jpg?v=1737645536
   Price: €19.95 EUR
 - [GP Tool Bag / S-size](https://glasspolishshop.com/products/gp-heavy-duty-tool-bag-small): GP Tool Bag / S-size Heavy Duty Glass Polish Tool bag made of made of high quality and durable polyester.
-  Updated: 2025-10-04T00:06:18Z
+  Updated: 2025-10-08T10:37:04Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-Heavy-Duty-Tool-Bag-Small-15019.jpg?v=1737645557
   Price: €29.95 EUR
 - [GP Tool Bag / L-size](https://glasspolishshop.com/products/gp-heavy-duty-tool-bag-large): GP Tool Bag, approved and used daily by Glass polish technicians. The large size allows you to easily carry the polishing machine with all required discs, pads and compounds.
-  Updated: 2025-10-04T00:06:18Z
+  Updated: 2025-10-08T10:37:03Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2493,7 +2493,7 @@
     Availability: Available
     Price: €32.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-125mm-5-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-05T08:39:18Z
+  Updated: 2025-10-08T11:24:17Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2549,63 +2549,63 @@
     Availability: Available
     Price: €44.95 EUR
 - [Car Detailing Essential Kit](https://glasspolishshop.com/products/car-detailing-essential-kit): Auto Detailing Essential Kit with a rotary polishing machine.  Everything you need for the paintwork, tires and wheels, interior and leather.
-  Updated: 2025-10-04T00:06:21Z
+  Updated: 2025-10-08T10:37:27Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Car-Detailing-Essential-Kit-16230.jpg?v=1737645872
   Price: €179.95 EUR
 - [Microfiber Foam Applicator Pad / 2pk](https://glasspolishshop.com/products/microfiber-foam-applicator-pad-2pk): Microfiber Foam Applicator Pad / 2pk Soft foam for smooth application of conditioners, lotions, gels, dressings, cleaners. Ideal for use on All leather, vinyl, glass, metal, plastic surfaces. Automotive Paintwork waxing.
-  Updated: 2025-10-04T00:06:21Z
+  Updated: 2025-10-08T11:34:21Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Microfiber-Foam-Applicator-Pad-2pk-15013.jpg?v=1737645896
   Price: €8.95 EUR
 - [Applicator Sponge Pad / 2pk](https://glasspolishshop.com/products/applicator-sponge-pad-2pk): Applicator Sponge Pad / 2pk Soft foam for smooth application of conditioners, lotions, gels, dressings, cleaners.  Ideal for use on All leather, vinyl, glass, metal, plastic surfaces.
-  Updated: 2025-10-04T00:06:21Z
+  Updated: 2025-10-08T11:34:19Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Applicator-Sponge-Pad-2pk-15022.jpg?v=1737645918
   Price: €11.95 EUR
 - [Cerium Oxide High-Grade 5kg | TREO 85% | 3.5 Microns - GP90012](https://glasspolishshop.com/products/cerium-oxide-high-grade-5-kg-11-lbs): Bulk cerium oxide polishing powder for professionals. Restores clarity to large glass surfaces, removing scratches, etching, and oxidation efficiently.
-  Updated: 2025-10-06T15:40:19Z
+  Updated: 2025-10-08T11:34:19Z
   Vendor: Glass Polish
   Product Type: Cerium Oxide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90012-2.jpg?v=1739292295
   Price: €195.95 EUR
 - [Gliptone - Clean Bundle](https://glasspolishshop.com/products/gliptone-interior-clean-bundle): Gliptone - Interior Clean Bundle - GB2 - Clean and Polish - Bundle Contains:Express Polish Surface ProtectionExpress Interior DetailerOdor Goblin - Odor Elimination System
-  Updated: 2025-10-04T00:06:22Z
+  Updated: 2025-10-08T10:37:03Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-interior-Clean-Bundle-GB2.jpg?v=1737646009
   Price: €32.95 EUR
 - [Gliptone - Paint Care Bundle](https://glasspolishshop.com/products/gliptone-paint-care-bundle): Gliptone - Paint Care Bundle - GB4 - Paint Sealants &amp; Waxes - Bundle Contains:Pro Buff Cleaner WaxPlatinum Series Paint Sealant Clear-Coat CompoundClear Coat Polish
-  Updated: 2025-10-04T00:06:22Z
+  Updated: 2025-10-08T10:37:03Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Paint-Care-Bundle-GB4.jpg?v=1737646036
   Price: €69.95 EUR
 - [Gliptone - Tire and Wheel Bundle](https://glasspolishshop.com/products/gliptone-tire-and-wheel-bundle): Gliptone - Tire and Wheel Bundle - GB5 - Wheel Wash &amp; Protect - Bundle Contains:Rimguard polymer protectionTrue Blue Tire ShineMagtastik Wheel-Rim Cleaner
-  Updated: 2025-10-04T00:06:22Z
+  Updated: 2025-10-08T10:37:02Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Tire-and-Wheel-Bundle-GB5.jpg?v=1737646061
   Price: €26.95 EUR
 - [Gliptone - Clean and Protect Bundle](https://glasspolishshop.com/products/gliptone-clean-and-protect-bundle): Gliptone - Clean and Protect Bundle - GB6 - Clean and Polish - Bundle Contains:Sap off SprayBody Gloss spray-n-wipeMetal Wash Plus Cleaner
-  Updated: 2025-10-04T00:06:22Z
+  Updated: 2025-10-08T10:37:02Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Clean-and-Protect-Bundle-GB6.jpg?v=1737646089
   Price: €25.95 EUR
 - [AutoMate Car Care Bundle](https://glasspolishshop.com/products/automate-car-care-bundle): AutoMate Car Care Bundle - AMB1 - Special Offers &amp; Bundles - AutoMate Car Care Bundle Including: Carpet and Fabric CleanerAcid Free Wheel CleanerRainguard Glass CleanerDash and Interior Cleaner Car Bodywork ShampooRapid Car Spray WaxHigh Gloss Wax
-  Updated: 2025-10-04T00:06:22Z
+  Updated: 2025-10-08T10:37:02Z
   Vendor: GLASS POLISH SHOP
   Product Type: 
   Availability: Available
@@ -2619,35 +2619,35 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Auto-Paint-Care-and-Protection-Kit-Bundle_12_2020_1.jpg?v=1737646141
   Price: €59.95 EUR
 - [Scratchless Professional Glass Scraper](https://glasspolishshop.com/products/scratchless-professional-glass-scraper-150-mm): SCRATCHLESS Professional Glass Scraper made from durable PVC with anti-slip rubber grip for enhanced comfort and safe use.
-  Updated: 2025-10-04T00:06:23Z
+  Updated: 2025-10-08T11:19:27Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/SCRATCHLESS-Professional-Glass-Scraper-150-mm-15041.jpg?v=1737646168
   Price: €21.95 EUR
 - [SCRATCHLESS Stainless Steel Blades 25pk - 150 mm](https://glasspolishshop.com/products/scratchless-stainless-steel-blades-25pk-150-mm): SCRATCHLESS Stainless Steel Blades 25pk - 150 mm for Scratchelss glass scraper Glass Polish
-  Updated: 2025-10-04T00:06:23Z
+  Updated: 2025-10-08T11:19:27Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/SCRATCHLESS-Stainless-Steel-Blades-25pk-150-mm-15043.jpg?v=1737646189
   Price: €19.95 EUR
 - [SCRATCHLESS Carbon Steel Blades 25pk - 150 mm](https://glasspolishshop.com/products/scratchless-carbon-steel-blades-25pk-150-mm): SCRATCHLESS Carbon Steel Blades 25pk - 150 mm for Scratchelss glass scraper Glass Polish
-  Updated: 2025-10-04T00:06:23Z
+  Updated: 2025-10-08T11:19:27Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/SCRATCHLESS-Carbon-Steel-Blades-25pk-150-mm-15044.jpg?v=1737646209
   Price: €19.95 EUR
 - [PRO Metal & Stainless Steel Restoration Kit – Professional Polishing](https://glasspolishshop.com/products/pro-metal-and-stainless-steel-restoration-kit): Achieve professional results with our PRO Metal & Stainless Steel Restoration Kit. Removes rust, oxidation & water damage from stainless steel, brass, copper & aluminium.
-  Updated: 2025-10-04T00:06:23Z
+  Updated: 2025-10-08T11:19:27Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/32006_29d9df40-6a87-4723-a6d0-beeabd640cce.jpg?v=1758027878
   Price: €59.95 EUR
 - [Flex VCE 26 L MC 110V / BS Professional Water Vacuum Cleaner - VCE 26 L MC 110V / BS](https://glasspolishshop.com/products/flex-vce-26-l-mc-110v-bs-professional-water-vacuum-cleaner): Flex VCE 26 L MC 110V / BS Professional Water Vacuum Cleaner - VCE 26 L MC 110V / BS - Flex tools - ✔️The high-performance turbine ensures both a high suction capacity and a high vacuum. The outcome is an excellent extraction result.✔️Level monitor, no ma
-  Updated: 2025-10-04T00:06:24Z
+  Updated: 2025-10-08T10:37:00Z
   Vendor: Flex
   Product Type: 
   Availability: Available
@@ -2950,10 +2950,10 @@
 ## Collections
 
 - [Repair Kits – DIY & Professional Restoration for Glass, Plastic & More](https://glasspolishshop.com/collections/repair-kits): Complete range of DIY & professional repair kits for glass, plastic, acrylic, metal and leather. Cost-effective solutions with step-by-step instructions.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 28
 - [Glass Restoration Kits | DIY & Professional Scratch Removal Solutions](https://glasspolishshop.com/collections/glass-restoration-kits): Explore our range of DIY and professional glass restoration kits. Remove scratches, polish glass, and restore clarity with easy-to-use, all-in-one repair kits.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 13
 - [Plastic, Acrylic Restoration kits | Plastic Polishing Kits](https://glasspolishshop.com/collections/plastic-acrylic-restoration): Plastic, Acrylic Polishing kits, use our plastics, acrylic restoration products to polish and remove stains, scratches, scuffs, haziness, and discolouration from plastic and acrylic surfaces. Restore it to a beautiful new looking finish.
   Updated: 2025-10-07T11:25:03Z
@@ -2980,7 +2980,7 @@
   Updated: 2025-10-04T00:05:18Z
   Total Products: 19
 - [Abrasive Sanding & Polishing Discs – For Glass, Plastic & Paint](https://glasspolishshop.com/collections/abrasive-discs-pads): Discover abrasive sanding and polishing discs for scratch removal, surface refining and finishing on glass, plastic, paint, wood, ceramics, metal and more.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 30
 - [GP-PRO Waterproof Abrasive Discs – Silicon Carbide Surface Restoration](https://glasspolishshop.com/collections/gp-pro-waterproof-abrasive-discs): Shop GP-PRO waterproof abrasive discs made with premium silicon carbide. Professional-grade sanding discs for surface restoration, polishing and damage removal.
   Updated: 2025-10-06T11:22:35Z
@@ -3007,7 +3007,7 @@
   Updated: 2025-10-07T11:25:03Z
   Total Products: 32
 - [Glass Scratch Removal Kits for DIY & Professional Glass Repair](https://glasspolishshop.com/collections/glass-scratch-removal-kits): Shop glass scratch removal kits for all glass surfaces. Professional and DIY systems to repair, polish and restore original glass clarity and shine
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 8
 - [Glass Polish Automotive Glass](https://glasspolishshop.com/collections/windscreen-polish): Glass Polish Automotive Glass Restoration ,  Removes wipe blade damage, side windows scratched from any car glass by using DIY or PRO kit
   Updated: 2025-10-06T11:22:35Z
@@ -3169,10 +3169,10 @@
   Updated: 2025-10-04T00:05:21Z
   Total Products: 6
 - [GLASS POLISH SHOP - Special Offers &amp; Bundles](https://glasspolishshop.com/collections/special-offers-bundles): Huge savings on the products you like
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 35
 - [GlasX™ Premium Foam-Backed Abrasive Discs – Scratch Removal & Sanding](https://glasspolishshop.com/collections/glasx-foam-backed-abrasive-discs): Shop GlasX™ foam-backed abrasive discs for glass, plastic and headlights. Ideal for scratch removal and pre-polish sanding with smooth, consistent results.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 6
 - [flex power tools,](https://glasspolishshop.com/collections/flex-tools): flex tools power tools accessories for professional craftspeople. System solutions for Refurbishment, renovation &amp; modernization, metalworking, automotive
   Updated: 2025-10-04T00:05:21Z
@@ -3193,7 +3193,7 @@
   Updated: 2025-10-04T00:05:21Z
   Total Products: 6
 - [DIY Glass Scratch Removal & Polishing Kits for Home Use](https://glasspolishshop.com/collections/diy-glass-restoration-kits): Remove scratches, restore clarity, and polish glass at home with our easy-to-use DIY kits for windscreens, windows, doors, shower glass, ceramic hobs and more.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 8
 - [Flex power Saws and Angles Grinders](https://glasspolishshop.com/collections/saws-and-angle-grinders): Flex power Saws and Angles Grinders
   Updated: 2025-10-04T00:05:21Z
@@ -3211,10 +3211,10 @@
   Updated: 2025-10-04T00:05:22Z
   Total Products: 34
 - [Professional Glass Restoration Scratch Removal Kits & Consumables](https://glasspolishshop.com/collections/professional-glass-restoration-kits-consumables): Explore our range of professional glass restoration kits, abrasives, pads and polishing compounds. Trusted by technicians worldwide for expert scratch removal.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 83
 - [Glass Polishing & Restoration Consumables for Glass Scratch Repair](https://glasspolishshop.com/collections/glass-restoration-consumables): Everything You Need to Polish, Restore, and Protect Glass Surfaces. Abrasives, compounds, pads and tools for professional clarity and long-lasting protection.
-  Updated: 2025-10-07T11:25:03Z
+  Updated: 2025-10-08T11:24:45Z
   Total Products: 79
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-04T00:05:22Z
@@ -3311,11 +3311,14 @@
     Updated: 2025-04-30T19:15:58Z
     Author: Shane OBrart
     Tags: Glass Polishing, Glass Scratch Removal
-- [News](https://glasspolishshop.com/blogs/news)
-  - [GLASS POLISH VSP860 Variable Speed Rotary Polisher Product Overview](https://glasspolishshop.com/blogs/news/vsp860-variable-speed-rotary-polisher-overview): <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Glass Polish Rotary Polisher VSP860 - product overview." src="https://www.youtube.com/embed/oX6LQDpyZYU">
+- [Glass Polish Articles – Guides for Glass, Plastic & Metal Restoration](https://glasspolishshop.com/blogs/articles): Discover expert guides and tips from GLASS POLISH on repairing scratches and restoring glass, plastic, and metal surfaces for smooth, professional results.
+  - [GLASS POLISH VSP860 Variable Speed Rotary Polisher Product Overview](https://glasspolishshop.com/blogs/articles/vsp860-variable-speed-rotary-polisher-overview): <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Glass Polish Rotary Polisher VSP860 - product overview." src="https://www.youtube.com/embed/oX6LQDpyZYU">
   </iframe></div>
     Updated: 2025-05-12T11:31:24Z
     Author: Shane OBrart
+  - [Understanding Glass Scratch Repair Essential Techniques and Tools](https://glasspolishshop.com/blogs/articles/understanding-glass-scratch-repair-essential-techniques-and-tools): Understanding Glass Scratch Repair Essential Techniques and Tools
+    Updated: 2025-10-08T10:44:10Z
+    Author: GLASS POLISH
 
 ## Store Pages
 
@@ -3389,6 +3392,17 @@
   Updated: 2025-10-02T11:03:55Z
 - [DIY Chip and Crack Support](https://glasspolishshop.com/pages/diy-chip-and-crack-support)
   Updated: 2025-10-07T13:36:34Z
+
+## Policies
+
+- [Privacy Policy](https://glasspolishshop.com/policies/privacy-policy)
+  Updated: 2025-01-23T10:54:11+00:00
+- [Shipping Policy](https://glasspolishshop.com/policies/shipping-policy)
+  Updated: 2025-10-01T13:11:57+01:00
+- [Refund Policy](https://glasspolishshop.com/policies/refund-policy)
+  Updated: 2025-10-01T12:01:00+01:00
+- [Terms of Service](https://glasspolishshop.com/policies/terms-of-service)
+  Updated: 2025-10-01T13:19:25+01:00
 
 ## Alternate Currencies & Languages
 
