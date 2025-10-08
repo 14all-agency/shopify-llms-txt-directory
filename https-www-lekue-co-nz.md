@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-10-08T00:00:30.481Z
+- Updated At: 2025-10-08T12:00:32.615Z
 
 ## Products
 
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/MicrowaveBaconCooker-Red-8710755881725Lekue_96dpi_1000x1000px_7_NR-33780.png?v=1737496950
   Price: $44.98 NZD
 - [Microwave Quick Pasta Cooker](https://www.lekue.co.nz/products/quick-pasta-recipes-cooker): Prepare all types of pasta dishes and sauces in the microwave, in the fastest and cleanest way possible. Features You can also cook, drain, and serve using the same container. Add all the ingredients in the container and cook in the microwave. Very fast: it is not necessary to boil water first. Up to 4 servings in 10 minutes. Clean: the foam does not come out and the microwave remains clean. Guide of portions for spaghetti in the base. From the kitchen to the table! Its design allows serving directly to the table.
-  Updated: 2025-07-15T23:38:25Z
+  Updated: 2025-10-08T00:16:40Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/0660106_2.jpg?v=1723848708
   Price: $39.99 NZD
 - [Essential Homemade Bread Baking Kit](https://www.lekue.co.nz/products/kit-homemade-bread-essential): Discover the basics of baking homemade bread with this kit. Everything you need to start your bread-making journey. Includes: Bread maker, mini baguette, spoon, recipes and information for home bread making. Features Includes: Bread maker, mini baguette, spoon, recipes and information for home bread making. Bread Maker: Create homemade bread effortlessly in a single container. Weigh, knead, and bake mess-free. Mini Baguette Mould: Micro-perforated design shapes perfect loaves with a crunchy crust and no soggy base. Easy step-by-step guide and recipes included to master the process quickly.
-  Updated: 2025-07-15T23:38:32Z
+  Updated: 2025-10-08T00:30:22Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -633,10 +633,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-09-28T11:24:53Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 89
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-09-28T11:24:53Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 89
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-08-29T02:37:07Z
@@ -660,7 +660,7 @@
   Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Home Bread](https://www.lekue.co.nz/collections/home-bread)
-  Updated: 2025-09-28T11:24:53Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 11
 - [Ice & Ice creams](https://www.lekue.co.nz/collections/ice-ice-creams)
   Updated: 2025-09-17T11:17:44Z
@@ -672,7 +672,7 @@
   Updated: 2025-09-23T11:25:38Z
   Total Products: 1
 - [Microwave cooking](https://www.lekue.co.nz/collections/microwave-cooking)
-  Updated: 2025-08-29T02:37:09Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 19
 - [Removable moulds](https://www.lekue.co.nz/collections/removable-moulds)
   Updated: 2025-08-29T02:37:07Z
@@ -693,7 +693,7 @@
   Updated: 2025-07-15T23:38:20Z
   Total Products: 1
 - [Bread Maker](https://www.lekue.co.nz/collections/bread-maker)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 3
 - [Steam cooker](https://www.lekue.co.nz/collections/steam-cooker)
   Updated: 2025-08-29T02:37:09Z
@@ -720,7 +720,7 @@
   Updated: 2025-08-28T11:19:43Z
   Total Products: 1
 - [Pasta Cooker](https://www.lekue.co.nz/collections/pasta-cooker)
-  Updated: 2025-07-15T23:38:21Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 1
 - [Cheese Maker](https://www.lekue.co.nz/collections/cheese-maker)
   Updated: 2025-07-15T23:38:21Z
@@ -741,10 +741,10 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-09-28T11:24:53Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
-  Updated: 2025-09-28T11:24:53Z
+  Updated: 2025-10-08T11:23:27Z
   Total Products: 15
 
 ## Blogs
