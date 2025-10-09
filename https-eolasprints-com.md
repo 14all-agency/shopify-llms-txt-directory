@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-09T04:00:33.701Z
+- Updated At: 2025-10-09T08:00:33.480Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-10-08T13:03:32Z
+  Updated: 2025-10-09T07:57:34Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -461,7 +461,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-transition-filament-pair-3d-printed-boots-1-75-mm-1-kg-960.webp?v=1725277266
     Price: €13.90 EUR
 - [Durable Petg Filament Stronger than Pla Filament](https://eolasprints.com/products/petg-filament): Eolas Prints PETG filament offers superior mechanical properties and printing ease, bridging the performance gap between PLA filament and ABS for professional use.
-  Updated: 2025-10-06T11:18:56Z
+  Updated: 2025-10-09T07:35:31Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1160,7 +1160,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d60-uv-resistant-white-spool-3d-1-75-m-1-kg-812.webp?v=1759097274
     Price: €37.90 EUR
 - [Premium Asa Filament for Professional 3d Printing](https://eolasprints.com/products/asa-filament): Eolas Prints premium ASA filament delivers exceptional performance for challenging environments. An advanced material with superior capabilities for any ASA 3D printer.
-  Updated: 2025-09-28T23:10:16Z
+  Updated: 2025-10-09T07:57:32Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1337,7 +1337,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-m1-smart-laser-engraver-and-vinyl-cutter-white-rectangular-494.webp?v=1729078200
   Price: €1,199.00 EUR
 - [Magigoo Pro Flex Printing Adhesive for Fff 3d Printers](https://eolasprints.com/products/magigoo-pro-flex-the-3d-printing-adhesive-for-flexible-materials): Magigoo Pro Flex is a professional printing adhesive for FFF 3D printers using flexible TPU, TPE, and TPC filaments. It ensures strong adhesion and easy removal.
-  Updated: 2025-09-29T23:52:05Z
+  Updated: 2025-10-09T07:57:30Z
   Vendor: Thought3D
   Product Type: 3D Printer Accessories
   Availability: Available
