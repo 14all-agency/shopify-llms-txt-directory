@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-10-09T08:00:31.895Z
+- Updated At: 2025-10-09T20:00:32.597Z
 
 ## Products
 
