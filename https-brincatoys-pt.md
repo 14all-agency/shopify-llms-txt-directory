@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-09T12:01:09.198Z
+- Updated At: 2025-10-09T16:01:13.492Z
 
 ## Products
 
@@ -1016,7 +1016,7 @@ Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualid
 As crianças vão adorar este conjunto encantador de quatro borrachas de unicórnio, cada uma com um lindo tom pastel e todas embaladas numa pequena caixa de presente em forma de arco-íris.
 
 E por mais adoráveis ​​que sejam, estas borrachas de unicórnio são óptimas para apagar todos os se...
-  Updated: 2025-09-30T02:57:34Z
+  Updated: 2025-10-09T12:16:20Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -9683,7 +9683,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vet-squad-yara-luna-the-rabbit-843421121-vet-squad-1178695674.jpg?v=1752807497
   Price: 9,90 € EUR
 - [Vet Squad Yara 4x4 Expedição Safari](https://brincatoys.pt/products/vet-squad-yara-4x4-expedicao-safari): Sobe ao jipe 4 x 4 da Yara pensado para realizar expedições de Safari enquanto observa que animais necessitam de ajuda.Quando encontrares um animal em perigo poderás converter o jipe numa clínica móvel.Pega na poção mágica e faz um raio-X para teres a certeza que curou os animais. O 4x4 possui um chuveiro, aparelho de raio X e área de tratamento, p
-  Updated: 2025-09-30T03:02:14Z
+  Updated: 2025-10-09T12:13:51Z
   Vendor: Vet Squad
   Product Type: + 3 anos
   Availability: Available
@@ -13719,7 +13719,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/triciclo-de-equilibrio-globber-para-criancas-823821023-brincatoys-1178697588.jpg?v=1752912855
   Price: 98,50 € EUR
 - [Peluche Patrulha Pata - Chase 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-chase-27cm): Apreciem a diversão e alegria de brincar com o incrível Peluche Patrulha Pata - Chase 27cm! Este adorável boneco de peluche, feito com materiais de alta qualidade, é suave ao toque e perfeito para abraços aconchegantes. O Peluche Patrulha Pata - Chase é uma réplica fiel do corajoso e aventureiro cão policia da popular série de televisão Patrulha Pata. Este brinquedo não só serve como um companheiro de brincadeiras, mas também ajuda a desenvolver a imaginação das crianças ao recriar as suas cenas favoritas da série. E não esqueçamos que Chase é sempre um exemplo de bravura e lealdade - valores importantes que queremos incutir nos nossos pequenos. Surpreenda o seu filho com o Peluche Patrulha Pata - Chase 27cm e observe o sorriso no rosto dele ao brincar com o seu novo amigo. Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-05T17:48:33Z
+  Updated: 2025-10-09T14:57:55Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
@@ -20771,13 +20771,6 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lamborghini-revuelto-amarelo-1-18-miniatura-detalhada-683146325-8719247002853-brincatoys-1192016544.jpg?v=1757418728
   Price: 59,90 € EUR
-- [Jogo de cartas UNO Show 'Em No Mercy - Diversão Estratégica](https://brincatoys.pt/products/jogo-de-cartas-uno-show-em-no-mercy-copia): Explore o Jogo de cartas UNO Show 'Em No Mercy e viva momentos de pura adrenalina com familiares e amigos. Versão repleta de emoção e estratégia!
-  Updated: 2025-10-05T15:54:14Z
-  Vendor: UNO
-  Product Type: + 7 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-uno-show-em-no-mercy-diversao-estrategica-772080924-0194735220809-uno-1178699924.jpg?v=1752790206
-  Price: 17,90 € EUR
 - [Patrulha Pata Rex – Veículo de Resgate para Crianças](https://brincatoys.pt/products/patrulha-pata-rex): Transforme a diversão em casa com o Patrulha Pata Rex – Veículo de Resgate. Pronto para aventuras, o jipe azul e a figura do Rex trazem ação!
   Updated: 2025-10-05T15:54:13Z
   Vendor: Patrulha Pata
@@ -21159,18 +21152,18 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-911-targa-4-gts-em-escala-1-18-133147025-0090159314707-brincatoys-1196919823.jpg?v=1760003285
   Price: 56,50 € EUR
 - [Carro de brincar Mercedes-Benz 280 SE 1967 1/18](https://brincatoys.pt/products/carro-de-brincar-mercedes-benz-280-se-1967-1-18): Traga a elegância dos anos 60 para casa com o carro de brincar Mercedes-Benz 280 SE 1967 1/18. Uma peça perfeita para colecionadores e amantes! 🚗
-  Updated: 2025-10-09T10:48:09Z
+  Updated: 2025-10-09T12:03:57Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro_de_brincar_Mercedes-Benz_280_SE_1967_118_page1.jpg?v=1760006870
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-mercedes-benz-280-se-1967-1-18-133181125-0090159318118-brincatoys-1196929118.jpg?v=1760011436
   Price: 56,50 € EUR
 - [Carro de brincar Ford Bronco Wildtrak 2021 Preto](https://brincatoys.pt/products/carro-de-brincar-ford-bronco-wildtrak-2021-preto-1-18): Experimente a emoção da aventura com o carro de brincar Ford Bronco Wildtrak 2021 Preto. Com detalhes realistas, é o modelo perfeito para colecionadores!
-  Updated: 2025-10-09T10:48:32Z
+  Updated: 2025-10-09T12:02:07Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro_de_brincar_Ford_Bronco_Wildtrak_2021_Preto_118_page1.jpg?v=1760006893
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ford-bronco-wildtrak-2021-preto-133145625-0090159069485-brincatoys-1196929114.jpg?v=1760011326
   Price: 56,50 € EUR
 - [Godzilla x Kong - Kong com Machado de Batalha Único](https://brincatoys.pt/products/godzilla-x-kong-kong-com-machado-de-batalha): Traga a ação do Monsterverse para casa com o Godzilla x Kong - Kong com machado de batalha! Crie aventuras épicas com figuras dinâmicas.
   Updated: 2025-10-08T22:46:19Z
@@ -21201,7 +21194,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-06T18:16:29Z
+  Updated: 2025-10-09T15:34:31Z
   Total Products: 182
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-06T16:42:49Z
@@ -21273,8 +21266,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:30:00Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-07T18:36:52Z
-  Total Products: 237
+  Updated: 2025-10-09T14:53:39Z
+  Total Products: 238
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-06T19:06:40Z
   Total Products: 59
@@ -21336,8 +21329,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 1563
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-08T11:21:45Z
-  Total Products: 699
+  Updated: 2025-10-09T14:53:46Z
+  Total Products: 700
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-08T11:21:45Z
   Total Products: 315
@@ -21354,26 +21347,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:43:57Z
   Total Products: 1302
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 2407
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 2408
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 2870
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 2871
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3251
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3253
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3388
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3390
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3467
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3469
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3516
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3518
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-09T11:22:38Z
-  Total Products: 386
+  Updated: 2025-10-09T14:53:39Z
+  Total Products: 387
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21393,7 +21386,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-02T20:27:39Z
   Total Products: 0
 - [UNO](https://brincatoys.pt/collections/uno)
-  Updated: 2025-10-01T12:12:43Z
+  Updated: 2025-10-09T15:34:31Z
   Total Products: 14
 - [Brawl Stars](https://brincatoys.pt/collections/brawl-stars)
   Updated: 2025-08-20T23:28:53Z
@@ -21498,8 +21491,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T19:02:19Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-05T14:56:52Z
-  Total Products: 39
+  Updated: 2025-10-09T14:54:21Z
+  Total Products: 40
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-05T19:22:59Z
   Total Products: 3
@@ -21561,10 +21554,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3549
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3551
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-09T11:22:38Z
+  Updated: 2025-10-09T15:34:31Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-06T18:54:16Z
@@ -21576,8 +21569,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 1217
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-08T11:33:02Z
-  Total Products: 491
+  Updated: 2025-10-09T14:58:18Z
+  Total Products: 492
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-08T09:28:56Z
   Total Products: 140
@@ -21585,7 +21578,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
-  Updated: 2025-10-07T15:39:12Z
+  Updated: 2025-10-09T15:34:31Z
   Total Products: 75
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
   Updated: 2025-10-08T11:21:45Z
@@ -21597,11 +21590,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3549
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3551
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 3549
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3551
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
   Total Products: 23
@@ -21612,8 +21605,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-09T11:28:46Z
-  Total Products: 3070
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3073
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21621,11 +21614,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-09T11:28:46Z
-  Total Products: 3070
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 3073
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-09T09:16:28Z
-  Total Products: 923
+  Updated: 2025-10-09T15:34:31Z
+  Total Products: 925
 
 ## Blogs
 
