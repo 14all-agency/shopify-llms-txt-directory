@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-09T00:00:36.132Z
+- Updated At: 2025-10-09T04:00:36.727Z
 
 ## Products
 
@@ -423,13 +423,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-LISA-WIRENFELT-Meringue-8.jpg?v=1727659525
   Price: $84.99 NZD
-- [REBECCA HEIN Sea Lavender](https://everydayhome.co.nz/products/rebecca-hein-sea-lavender): Seeking out calmness, Danish artist Rebecca Hein has created a collection of artworks that explores the hushed depths of the ocean, the colours of coral reefs and their organic shapes. The result is The Sous La Mer Collection where art meets nature.
-  Updated: 2025-10-02T03:38:22Z
-  Vendor: The Poster Club
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/The-Poster-Club-REBECCA-HEIN-Sea-Lavender-6.jpg?v=1727658885
-  Price: $99.99 NZD
 - [Moon Breakfast Board - Oiled Walnut](https://everydayhome.co.nz/products/dutchdeluxes-moon-breakfast-board-oiled-walnut): These solid wooden breakfast boards can be used at both sides; one with a juice groove for cutting, while keeping the plain side for a deluxe presentation. Beautiful to combine the different shapes and materials. They are easy to store and easy to clean, no need to use the dishwasher.
   Updated: 2025-09-02T22:03:55Z
   Vendor: DUTCH DELUXES
@@ -1460,7 +1453,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-23cm-Square-Cake-Pan-Ano-9.jpg?v=1731902143
   Price: $29.99 NZD
 - [Anolon Ceramic Reinforced - 12 x 23cm Loaf Pan](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-23cm-x-12cm-loaf-pan): Let this high quality loaf pan help you create such delights as mouth watering banana bread, succulent carrot cake or a delicious meatloaf. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C, this unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-09-23T12:35:39Z
+  Updated: 2025-10-09T03:07:11Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1502,7 +1495,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-33cm-Crisper-Tray-Anolon-7.jpg?v=1731903291
   Price: $39.99 NZD
 - [Anolon Ceramic Reinforced - 35 x 40cm Cookie Sheet](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-35cm-x-40cm-cookie-sheet): Chocolate chip, Anzac, shortbread , yo-yo's... whatever your cookie or biscuit choice is, this huge 35cm x 40cm Cookie Sheet will ensure there are plenty to share. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C, this unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-09-23T12:35:41Z
+  Updated: 2025-10-09T03:07:12Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1677,7 +1670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-UMBRA-2.jpg?v=1731903410
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Monochrome](https://everydayhome.co.nz/products/buddy-hook-set-3-assorted-grey): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-10-04T04:20:51Z
+  Updated: 2025-10-09T03:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1789,21 +1782,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-25-4cm-Open-Skillet-Cir-2.jpg?v=1731903078
   Price: $169.99 NZD
 - [Circulon Scratchdefense A1 - 28cm/4.7L Covered Sauteuse](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-28cm-4-7l-covered-sauteuse): Elevate your culinary creations with the Covered Sauteuse 28cm/4.7L, a premium addition to your kitchen arsenal. This versatile sauté pan is perfect for searing, braising, simmering, and more. Its spacious capacity accommodates family-sized meals, while the included lid locks in flavours and moisture. Crafted with precision and durability, this sauteuse ensures even heat distribution and exceptional nonstick performance.
-  Updated: 2025-10-07T00:22:10Z
+  Updated: 2025-10-09T03:07:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-28cm-4-7L-Covered-Saute-7.jpg?v=1731902661
   Price: $299.99 NZD
 - [Circulon Scratchdefense A1 - 30.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-30-4cm-open-skillet): Discover culinary excellence with the Circulon Open Skillet in 30.4cm. This premium skillet is your key to exceptional cooking. Its versatile size makes it perfect for searing succulent steaks, sautéing fresh veggies, and whipping up delightful omelettes. Crafted for even heat distribution, it ensures every dish is a masterpiece.
-  Updated: 2025-09-29T22:07:10Z
+  Updated: 2025-10-09T00:37:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-30-4cm-Open-Skillet-Cir-2.jpg?v=1731903168
   Price: $219.99 NZD
 - [Circulon Scratchdefense A1 - 34cm Open Stirfry](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-34cm-open-stirfry-w-hh): The Open Stirfry with Helper Handle is your culinary companion for mastering the art of stir-frying. This premium kitchen essential boasts a generous 34cm diameter and a convenient helper handle for effortless manoeuvring.
-  Updated: 2025-10-04T06:07:11Z
+  Updated: 2025-10-09T00:37:12Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1880,7 +1873,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Stainless-Steel-Stovetop-Kettle-1-9L-Silv-7.jpg?v=1731902005
   Price: $219.99 NZD
 - [Essteele 16/18/20Cm Universal Steamer](https://everydayhome.co.nz/products/essteele-16-18-20cm-universal-steamer): This versatile steamer fits comfortably into 16, 18 and 20cm saucepans. An ideal accessory for steaming vegetables as well as dim sims, clams and fish, you can stack multiple steamers for extra capacity. Made from high quality stainless steel, this steamer offers strength and a lustrous shine that will last for years. The precision engineered handles are also made from professional high quality cast stainless steel and are stylish and comfortable to hold.
-  Updated: 2025-09-23T12:36:16Z
+  Updated: 2025-10-09T00:37:13Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2131,13 +2124,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-30cm-4-7L-Covered-Multicooker-Wi-4.jpg?v=1731903153
   Price: $489.99 NZD
-- [Essteele Per Vita - 14/16/18cm 3 Piece Covered Saucepan Set](https://everydayhome.co.nz/products/essteele-per-vita-3pc-saucepan-set): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This covered 3 piece saucepan set is perfect for boiling eggs, making sauces and so much more. Set Includes: 14CM/1.2L Covered Saucepan 16CM/1.9L Covered Saucepan 18CM/2.8L Covered Saucepan
-  Updated: 2025-10-05T22:52:08Z
-  Vendor: Essteele
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-14-16-18cm-3-Piece-Covered-Sauce-3.jpg?v=1731902975
-  Price: $649.99 NZD
 - [Essteele Per Vita - 5 Piece Cookware Set](https://everydayhome.co.nz/products/essteele-per-vita-5-piece-cookware-set-14cm-1-2l-milk-pan-20cm-3-8l-saucepan-24cm-5-5l-stockpot-24cm-open-french-skillet-20cm-universal-steamer): This high-quality Essteele Per Vita 5 Piece Cookware set is a must-have for every kitchen. Including two saucepans, a steamer and covered stockpot plus a skillet, this set provides the ultimate beginnings of a gourmet kitchen. Crafted from high quality stainless steel with a solid copper base for optimal heat control, the exceptional quality of Essteele Per Vita makes cooking a delight. The Per Vita collection combines Italian elegance with a 60 year Australian heritage, bringing you flawless, beautiful looking cookware that continually performs. Set Includes: 14cm/1.2L Milkpan 20cm/3.8L Saucepan 24cm/5.5L Stockpot 24cm Open French Skillet 20cm Universal Steamer
   Updated: 2025-10-05T22:52:10Z
   Vendor: Essteele
@@ -2720,7 +2706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-05T01:37:11Z
+  Updated: 2025-10-09T00:37:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2825,7 +2811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DrawerKnifeBlockplusKnives-DarkGrey-8710755123023Brabantia_96dpi_1000x1000px_7_NR-15373.png?v=1733867878
   Price: $139.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - Dark Grey](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-dark-grey): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-10-01T18:22:10Z
+  Updated: 2025-10-09T03:37:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2965,7 +2951,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-Platinum-8710755477324Brabantia_96dpi_1000x1000px_7_NR-20245.png?v=1734478231
   Price: $74.95 NZD
 - [Brabantia ReNew Toilet Brush and Holder - White](https://everydayhome.co.nz/products/renew-toilet-brush-and-holder-white): Not too hot on cleaning the loo? Armed with this reliable Brabantia ReNew Toilet Brush and Holder, cleaning the toilet is a lot easier and faster. Bonus: the holder keeps your brush out of sight, but ready whenever you need it. Made of corrosion-resistant materials, the holder keeps its beauty - even in humid conditions. Designed to be discreet!
-  Updated: 2025-10-05T17:37:14Z
+  Updated: 2025-10-09T03:07:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -4322,7 +4308,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineCanOpener-White-8710755400643Brabantia_300dpi_2000x2000px_9_NR-4564.jpg?v=1755820974
   Price: $34.95 NZD
 - [Brabantia Essential Garlic Press - White](https://everydayhome.co.nz/products/brabantia-essential-garlic-press-white): Have a crush on garlic, but wincing at the mincing? This Brabantia Garlic Press will brighten your mood and kitchen. Quick, efficient and easy to clean thanks to its removable anvil. A perfect press.
-  Updated: 2025-10-02T04:07:12Z
+  Updated: 2025-10-09T03:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
