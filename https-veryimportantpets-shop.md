@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-09T04:01:14.439Z
+- Updated At: 2025-10-09T08:01:16.403Z
 
 ## Products
 
@@ -1717,7 +1717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/70cm-foldable-pet-carrier-for-cats-small-dogs-pet-carrier-grey-163207.jpg?v=1700663390
     Price: £44.99 GBP
 - [81cm Foldable Pet Carrier, with Cushion, for Medium Dogs and Cats](https://veryimportantpets.shop/products/81cm-foldable-carrier-for-medium-pets-with-cushion): Travel effortlessly with your medium-sized pets using our collapsible carrier. Designed for comfort, with a plush cushion, optimal airflow through a mesh window, and three doors for easy entry. Lightweight and easy to carry, this carrier ensures your pet's safety and comfort on the go or at home. Pets up to 20kg.
-  Updated: 2025-10-03T23:30:46Z
+  Updated: 2025-10-09T07:30:34Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -3286,7 +3286,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/70cm-height-cat-post-tree-scratching-barrel-sisal-activity-center-condo-kitten-bed-scratcher-climbing-climber-play-house-for-indoor-cats-458838.jpg?v=1700663357
   Price: £62.99 GBP
 - [Floor to Ceiling Cat Tree for Indoor Cats 5-Tier Kitty Tower Climbing Activity Center Scratching Post Adjustable Height 230-260 cm](https://veryimportantpets.shop/products/floor-to-ceiling-cat-tree-for-indoor-cats-5-tier-kitty-tower-climbing-activity-center-scratching-post-adjustable-height-230-260-cm): Give your kittens and cats the perfect place to rest, relax and play thanks to this cat play tower from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-08T23:30:26Z
+  Updated: 2025-10-09T07:30:32Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3360,7 +3360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof-outdoor-cat-house-grey-469173.jpg?v=1700656486
     Price: £116.99 GBP
 - [Rattan Elevated Cat Bed House Kitten Basket Ball Shaped Pet Furniture w/ Removable Cushion](https://veryimportantpets.shop/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion): With this PawHut PE rattan house, cats will have the cosiest spot going. Shop online at Very Important Pets
-  Updated: 2025-10-08T23:30:24Z
+  Updated: 2025-10-09T07:30:25Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3374,7 +3374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/rattan-elevated-cat-bed-house-kitten-basket-ball-shaped-pet-furniture-w-removable-cushion-natural-211164.jpg?v=1700649376
     Price: £53.99 GBP
 - [Corner Cat Tree for Indoor Cats, Kitten Tower with Scratching Post House Ladder Toy](https://veryimportantpets.shop/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy): Treat your pet to this comfortable PawHut cat tree tower, designed to fit in the corner of your room. Shop online at Very Important Pets
-  Updated: 2025-10-08T15:30:27Z
+  Updated: 2025-10-09T07:30:32Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3560,7 +3560,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-08T15:30:26Z
+  Updated: 2025-10-09T07:30:33Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3700,7 +3700,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-treadmill-wooden-cat-exercise-wheel-with-carpeted-runway-cat-running-wheel-with-brake-for-exercise-natural-wood-finish-715009.jpg?v=1700660726
   Price: £170.99 GBP
 - [Elevated Cat House, Kitten Bed, Pet Shelter, Wrapped with Scratcher, Soft Cushion, 41 x 38 x 43 cm, Khaki](https://veryimportantpets.shop/products/elevated-cat-house-kitten-bed-pet-shelter-wrapped-with-scratcher-soft-cushion-41-x-38-x-43-cm-khaki): Stimulate your cat's instincts in a fun and safe way with this cat shelter. Shop online at Very Important Pets
-  Updated: 2025-10-08T07:30:47Z
+  Updated: 2025-10-09T07:30:31Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -4026,7 +4026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hooded-cat-litter-box-large-2-way-entry-deodorant-scoop-included-litter-box-297650.jpg?v=1700653976
   Price: £35.99 GBP
 - [Hooded Cat Litter Tray with Drawer, Scoop, and Deodorants](https://veryimportantpets.shop/products/hooded-cat-litter-tray-with-drawer-scoop-and-deodorants): An excellent piece, this PawHut litter box offers total privacy and comfort. Shop online at Very Important Pets
-  Updated: 2025-10-05T23:30:47Z
+  Updated: 2025-10-09T07:30:32Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4194,7 +4194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/outdoor-pine-chicken-coop-with-nesting-box-chicken-coop-dark-grey-288626.jpg?v=1700651229
     Price: £134.99 GBP
 - [Large Rabbit Hutch with Run, Outdoor Bunny Cage, with Tray, Ramp - Light Grey](https://veryimportantpets.shop/products/large-rabbit-hutch-with-run-outdoor-bunny-cage-with-tray-ramp-light-grey): Need a safe home for small pets? This spacious PawHut rabbit hutch has it all. Shop online at Very Important Pets
-  Updated: 2025-10-08T15:30:26Z
+  Updated: 2025-10-09T07:30:31Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4236,7 +4236,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wooden-rabbit-hutch-guinea-pigs-house-outdoor-small-animal-bunny-cage-w-hinged-top-slide-out-tray-115-x-443-x-65-cm-838158.jpg?v=1700645780
   Price: £80.99 GBP
 - [Enclosed Small Wooden Chicken Coop with Nesting Box](https://veryimportantpets.shop/products/enclosed-small-wooden-chicken-coop-with-nesting-box): Treat your chickens to the good life they deserve with this chicken chateau. Shop online at Very Important Pets
-  Updated: 2025-10-08T15:30:27Z
+  Updated: 2025-10-09T07:30:32Z
   Vendor: PawHut
   Product Type: Chicken Coop
   Availability: Available
@@ -4639,7 +4639,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-gerbil-hamster-cage-with-glass-bottom-785-x-485-x-57cm-small-animal-cage-562990.jpg?v=1700664659
   Price: £134.99 GBP
 - [Dog Pushchair for Small Miniature Dogs Cats Foldable Travel Carriage with Wheels Zipper Entry Cup Holder Storage Basket | Very Important Pets](https://veryimportantpets.shop/products/dog-pushchair-for-small-miniature-dogs-cats-foldable-zipper-entry-cup-holder-storage-basket): Discover the convenience of our modern pet stroller, perfect for transporting your small dog or cat in comfort. With a solid steel frame, durable Oxford cloth, and multiple safety features like brakes and a safety leash, it is designed for the well-being of elderly or ailing pets. Easily foldable for storage.
-  Updated: 2025-10-08T15:30:27Z
+  Updated: 2025-10-09T07:30:33Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -7437,7 +7437,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/files/pedigree-complete-adult-dry-dog-food-beef-veg-12-kg-adult-dry-675075.webp?v=1737095953
   Price: £32.67 GBP
 - [Pedigree Complete Adult Dry Dog Food with Poultry and Veg](https://veryimportantpets.shop/products/pedigree-chicken-veg): Give your dog the balanced nutrition they need with Pedigree Complete Poultry Adult Dry Dog Food. Made with natural ingredients, prebiotics, and superfoods.
-  Updated: 2025-10-08T17:27:58Z
+  Updated: 2025-10-09T05:27:36Z
   Vendor: Pedigree
   Product Type: Adult Dry
   Availability: Available
