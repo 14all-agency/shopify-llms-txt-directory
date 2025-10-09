@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-08T04:00:28.991Z
+- Updated At: 2025-10-09T00:00:30.927Z
 
 ## Products
 
@@ -661,7 +661,7 @@
     Availability: Available
     Price: $9.50 USD
 - [Love Lost Skeletons (Men’s Long Sleeve Shirt](https://lachrymalgems.store/products/love-lost-skeletons-men-s-long-sleeve-shirt): A good long-sleeved shirt is a men's fashion must-have. This design is a must have from our limited collection of a love that has been lost skeletons. Rich with glitch neon vaporwave story telling aesthetics. Add this wardrobe essential to your collection, and have a great to-go option for a casual look, or a relaxed business outfit. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Classic fit with long sleeves and rib cuffs • Pre-shrunk jersey knit • Seamless double-needle 7⁄8'' (2.2 cm) collar • Double-needle bottom hem • Taped neck and shoulders • Quarter-turned to avoid crease down the middle Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 4XL 34 30
-  Updated: 2025-10-08T03:15:05Z
+  Updated: 2025-10-08T15:15:01Z
   Vendor: Lachrymal Gems
   Product Type: T-SHIRT
   Availability: Available
@@ -694,6 +694,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/mens-long-sleeve-shirt-black-back-68e5d7016c599.jpg?v=1759893295
     Price: $55.50 USD
+- [Enchanting Neon Memento Mori Mystic Ladies Slippers - Cozy Footwear for Home,](https://lachrymalgems.store/products/enchanting-neon-memento-mori-mystic-ladies-slippers-cozy-footwear-for-home): Slip into cozy bliss and become the vibe with these Indoor Slippers. Designed with a beatiful plea they radiate a fun, energetic vibe that’s perfect for cozy nights in or casual lounging, remind us to enjoy the good and comfy moments in life because we must die eventually. Ideal for relaxing at home, these slippers add a pop of color to your daily monotone gloom. The perfect gift for mothers, daughters, or friends, especially during Holidays or just self-care moments. Embrace comfort and mystic mystery in your everyday journey US 7 - 8 EU size 39 - 40 Heel to toe (inside), in 10.20 Width, in 4.02 !Product features- Soft flannel fleece fabric for ultimate comfort and durability.- Anti-slip textured outsole for safe movement on various surfaces.- Removable insole for easy cleaning and quick drying.- Crafted from 100% polyester for a lightweight feel.- Stylish black rubber sole for a modern touch.Care instructions- To maintain clean, use warm water with dish soap to clean off any dirt spots. It’s not necessary to soak the whole item. For hard-to-clean spots, use a soft-bristled brush.
+  Updated: 2025-10-08T18:56:16Z
+  Vendor: Printify
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/975804952342055602_2048.jpg?v=1759906571
+  Price: $15.66 USD
+- [Beauty in the Dark Heart Statement Necklace,](https://lachrymalgems.store/products/beauty-in-the-dark-heart-statement-necklace): This Heart Necklace is a timeless Dark aesthetic piece that radiates love and elegance. Reminds us to enjoy our loved ones in life and dare not wait till we come to our end. Crafted from high-quality stainless steel, this necklace not only adds a touch of sophistication to any outfit but also gives a sense of enduring charm. Its sleek, engraved design offers a personal touch, making it the perfect gift for a loved one or a treasured self-purchase. Ideal for romantic occasions such as anniversaries, Valentine’s Day, or simply to celebrate a special bond. Its hypoallergenic properties ensure comfort for all, making it a delightful accessory for anyone. This versatile necklace fits seamlessly into any jewelry collection, bringing both grace and affection to everyday life.Product features- Durable stainless steel construction ensures longevity and resistance to rust and corrosion.- Hypoallergenic, making it suitable for those with sensitive skin.- Engraved design offers a sleek, high-end look without the fear of fading or peeling.- Compact size of 0.63'' x 0.55'' inches, making it a delicate and trendy accessory.- Crafted from 316L Surgical Grade Stainless Steel, ensuring quality and elegance.Care instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2025-10-08T19:03:26Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_c59cae78-3dd1-4bc3-a7b5-8f53b2b679ba.png?v=1759915166
+  Price: $24.02 USD
+- [Sad Boy Aesthetic, Memento Mori Mens Joggers](https://lachrymalgems.store/products/sad-boy-aesthetic-memento-mori-mens-joggers): Step into comfort and style with these fashionable Dark Aesthetic Athletic Joggers. Designed for both leisure and activewear, they offer a fresh vibe that is perfect for athletic enthusiasts and casual wearers alike with love for the era or fallen legends dark vaporwave nostalgia. L Waist width, in 16.93 Hips, in 21.97 Inseam, in 27.95 Length, in 39.37 Ankle cuff circumference, in 9.00 Ideal for anyone who cherishes a blend of functionality and trendiness, these joggers are suitable for workouts, lounging at home, or casual outings. Their unique all-over print adds a touch of personality, making them a fun addition to your wardrobe. Perfect for any season, they’re great for gifting during holidays, birthdays, or special celebrations, helping the recipient express their unique style and comfort needs.Product features- Made of 95% polyester and 5% spandex for a soft, lightweight feel.- Side-seam construction includes double layer pockets for convenience.- Adjustable drawstring waist ensures a perfect fit.- Vibrant all-over print adds a trendy flair.- Seam thread color matched to the design for a polished look.Care instructions- Do not dryclean- Iron, steam or dry: low heat- Do not tumble dry- Do not bleach- Machine wash: cold (max 30C or 90F)
+  Updated: 2025-10-08T19:26:54Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Price: $57.70 USD
 
 ## Collections
 
@@ -704,11 +724,23 @@
   Updated: 2025-10-07T01:58:46Z
   Total Products: 9
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-07T02:00:36Z
-  Total Products: 6
+  Updated: 2025-10-08T07:26:46Z
+  Total Products: 7
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-07T02:02:00Z
+  Updated: 2025-10-08T06:56:05Z
+  Total Products: 3
+- [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
+  Updated: 2025-10-08T06:21:55Z
+  Total Products: 3
+- [Spiritual Drip](https://lachrymalgems.store/collections/spiritual-drip): For the girl who smudges her crystals and her contour.Every piece has a secret meaning — only the wearer knows.
+  Updated: 2025-10-08T07:02:56Z
   Total Products: 2
+- [Magic Mirror](https://lachrymalgems.store/collections/magic-mirror): Rituals for your face, your frequency, and your feels.Reflections that remind you — you are the main character.
+  Updated: 2025-10-08T06:34:19Z
+  Total Products: 1
+- [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
+  Updated: 2025-10-08T06:36:06Z
+  Total Products: 6
 
 ## Blogs
 
