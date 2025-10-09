@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-09T08:00:33.938Z
+- Updated At: 2025-10-09T10:26:50.003Z
 
 ## Products
 
@@ -2019,28 +2019,28 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Water-Spray-Bottle-with-Spray-Trigger-2pk-98006.jpg?v=1737643943
   Price: €4.95 EUR
 - [Glass Polish Glass and Mirror Cleaner](https://glasspolishshop.com/products/glass-and-mirror-cleaner-660ml-22oz): Glass Polish 660ml / 22oz Glass and Mirror Cleaner. Used by our technicians every day. The best glass and mirror cleaner available.
-  Updated: 2025-10-04T00:06:02Z
+  Updated: 2025-10-09T10:25:01Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Glass-and-Mirror-Cleaner-660ml-22oz-15010.jpg?v=1737643964
   Price: €9.95 EUR
 - [Soft Foam Applicator Pad  / 3pk](https://glasspolishshop.com/products/soft-foam-applicator-pad-3pk): Glass Polish 125mm  Ultra-Soft foam applicator pad / pack of 3.  soft and absorbent ideal for multiply applications i.e. applying waxes, sealants, glazes, dressings and much more.
-  Updated: 2025-10-04T00:06:02Z
+  Updated: 2025-10-09T10:25:02Z
   Vendor: Glass Polish
   Product Type: Applicator Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Soft-Foam-Applicator-Pad-3pk-15001.jpg?v=1737643991
   Price: €8.95 EUR
 - [Glass Polish M14 x 2 to 6mm Backing Plate Adaptor](https://glasspolishshop.com/products/m14-x-2-to-6mm-backing-plate-adaptor): Glass Polish M14 x 2 to 6mm Backing Plate Adaptor Allows you to use M14 x2 threaded backing pad with any hand held power drill. Heavy Duty  - made of  the highest quality hardened steel.
-  Updated: 2025-10-04T00:06:03Z
+  Updated: 2025-10-09T10:25:00Z
   Vendor: Glass Polish
   Product Type: Backing Pads Drill Adaptor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/adapter.jpg?v=1737644015
   Price: €9.95 EUR
 - [Glass Polish 5/8&quot;-11 to 6mm Backing Plate Adaptor](https://glasspolishshop.com/products/5-8-inch-11-to-6mm-backing-plate-adaptor): Glass Polish 5/8&quot;-11 to 6mm Backing Plate Adaptor Allows you to use 5/8&quot;-11 threaded backing pad with any hand held power drill. Heavy Duty  - made of  the highest quality hardened steel.
-  Updated: 2025-10-04T00:06:03Z
+  Updated: 2025-10-09T10:25:01Z
   Vendor: Glass Polish
   Product Type: Backing Pads Drill Adaptor
   Availability: Available
@@ -2075,7 +2075,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Half-Face-Dust-Mask-GP720-15011.jpg?v=1737644122
   Price: €26.95 EUR
 - [PRO Glass Polishing Kit for Rotary Polishers – Restore Clarity & Shine](https://glasspolishshop.com/products/pro-glass-polishing-kit-for-rotary-polisher): Professional kit for rotary polishers to restore clarity and shine to glass. Removes fine scratches, limescale, stains, and wiper streaks from all glass types
-  Updated: 2025-10-06T15:24:42Z
+  Updated: 2025-10-09T10:08:23Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Kit
   Availability: Available
@@ -2087,28 +2087,28 @@
     Availability: Available
     Price: €94.95 EUR
 - [Glass Polish Plastic and Acrylic Hand Polishing Kit](https://glasspolishshop.com/products/plastic-and-acrylic-hand-polishing-kit): Glass Polish Plastic and Acrylic Hand Polishing Kit ideal for cleaning and polishing plastic and acrylic surfaces by hand, no additional tools required to get the job done.
-  Updated: 2025-10-06T12:56:52Z
+  Updated: 2025-10-09T10:08:21Z
   Vendor: Glass Polish
   Product Type: Plastic Restoration Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/31001_d0eda9d1-b023-46c6-8c24-3976cd988aa0.jpg?v=1757933058
   Price: €15.95 EUR
 - [Plastic and Acrylic Restoration Kit - Do-It-Yourself - GlasX™ Abrasives](https://glasspolishshop.com/products/plastic-and-acrylic-restoration-kit-do-it-yourself): Restore scratched, scuffed, dull, foggy and discoloured plastic and acrylic surfaces, remove abrasions, haziness, water marks, limescale, mineral deposits, chemical stains, surface marks, tree sap and acid rain residue.
-  Updated: 2025-10-04T00:06:05Z
+  Updated: 2025-10-09T10:08:21Z
   Vendor: Glass Polish
   Product Type: Plastic Restoration Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/31007_dba68de3-d20a-4279-b0f2-084ec486f905.jpg?v=1757933672
   Price: €24.95 EUR
 - [DIY Headlights and Tail-Lights Restoration Kit 31016](https://glasspolishshop.com/products/diy-headlight-and-tail-light-restoration-kit): Glass Polish Headlights Polishing Kit. This kit will allow you to restore dull, foggy, discoloured car headlights and tail-lights, can also be used on any other type of plastic or acrylic surface
-  Updated: 2025-10-04T00:06:05Z
+  Updated: 2025-10-09T10:08:20Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/31016_8bb258f8-027b-4e0f-b352-966e8127760c.jpg?v=1747741871
   Price: €22.95 EUR
 - [Headlights and Taillights Professional Restoration Kit by GLASS POLISH](https://glasspolishshop.com/products/pro-headlights-and-taillights-restoration-kit): Restore scratched, scuffed, dull, foggy and discoloured car headlights and taillights, repair abrasions, scuffs, haziness, water marks, limescale, mineral deposits, chemical stains, surface marks, tree sap and acid rain residue.
-  Updated: 2025-10-04T00:06:05Z
+  Updated: 2025-10-09T10:02:34Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
@@ -2120,49 +2120,49 @@
     Availability: Available
     Price: €124.95 EUR
 - [Leather &amp; Vinyl Repair Kit - Do It Yourself - Air Dry - 91001](https://glasspolishshop.com/products/leather-and-vinyl-repair-kit-do-it-yourself-air-dry): Repair small holes, rips, tears and burns in leather and vinyl, Air Dry curing artificial leather allows everyone to get a near perfect results at home. No additional tools required, fast repair takes only 24 hours to cure.
-  Updated: 2025-10-04T00:06:06Z
+  Updated: 2025-10-09T09:43:10Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Leather-Vinyl-Repair-Kit-Do-it-yourself-Air-Dry-91001.jpg?v=1737644362
   Price: €15.95 EUR
 - [Leather &amp; Vinyl Repair Kit - Do It Yourself - Heat Cure - 91002](https://glasspolishshop.com/products/leather-and-vinyl-repair-kit-do-it-yourself-heat-cure): Repair small holes, rips, tears and burns in leather and vinyl, Heat Cure with special tool allows anyone to achieve professional fast repairs in minutes with a near perfect results.
-  Updated: 2025-10-04T00:06:06Z
+  Updated: 2025-10-09T09:43:10Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Leather-Vinyl-Repair-Kit-Do-it-yourself-Heat-Cure-91002.jpg?v=1737644398
   Price: €15.95 EUR
 - [Glass Polish DIY Fabric, Carpet, Upholstery Repair Kit 91006](https://glasspolishshop.com/products/diy-fabric-carpet-and-upholstery-repair-kit): Our DIY Fabric, Carpet, Upholstery Repair Kit will allow everyone to get near perfect results repair at home. Kit will repair small holes, rips, tears and burns. No additional tools are required, repairs takes 24 hrs to cure
-  Updated: 2025-10-04T00:06:06Z
+  Updated: 2025-10-09T09:43:10Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/91006.jpg?v=1747822090
   Price: €18.95 EUR
 - [Vinyl Floor &amp; Vinyl Tile Repair Kit - Do It Yourself - Heat Cure - 91007](https://glasspolishshop.com/products/vinyl-floor-and-vinyl-tile-repair-kit-do-it-yourself-heat-cure): Repair holes, gouges, scrapes, and burns in vinyl flooring and vinyl tiles, Heat Cure with special tool allows anyone to achieve professional fast repairs in minutes with a near perfect results all you need is an ordinary household iron.
-  Updated: 2025-10-04T00:06:07Z
+  Updated: 2025-10-09T09:43:09Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/91007.jpg?v=1747822668
   Price: €18.95 EUR
 - [Glass Polish DIY Colorize Leather, Vinyl, Fabric, Carpet  Repair Kit 91004](https://glasspolishshop.com/products/diy-colorize-leather-vinyl-fabric-and-carpet-repair-kit): Glass Polish DIY Colorize Leather, Vinyl, Fabric, Carpet  Repair Kit Repairs Stains, Discoloration and Natural Wear. Easy to use No Additional tools required to complete repairs.
-  Updated: 2025-10-04T00:06:07Z
+  Updated: 2025-10-09T09:43:09Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Diy-Colorize-Leather_2C-Vinyl_2C-Fabric-and-Carpet-Repair-Kit-91004.jpg?v=1737644475
   Price: €15.95 EUR
 - [Glass Polish Flex K44 Replacement Carbon Brushes](https://glasspolishshop.com/products/k88-carbon-brushes-for-flex-l1503vr-110v): Glass Polish Flex K44 Replacement Carbon Brushes pack of 2. Suitable for Flex L1503VR / 110v
-  Updated: 2025-10-04T00:06:07Z
+  Updated: 2025-10-09T09:43:09Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/carbon_20brushes_20K88.jpg?v=1737644497
   Price: €26.95 EUR
 - [Glass Polish Flex K53 Replacement Carbon Brushes](https://glasspolishshop.com/products/k53-carbon-brushes-for-flex-l1503vr-230v): Glass Polish Flex K53 Replacement Carbon Brushes pack of 2. Suitable for Flex L1503VR / 230v
-  Updated: 2025-10-04T00:06:08Z
+  Updated: 2025-10-09T09:43:09Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2898,7 +2898,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [ProMesh™ P180 Foam Backed Flexible Sanding Discs 125mm (5”)](https://glasspolishshop.com/products/promesh-p180-scratch-removal-sanding-discs-125mm-5-inch): ProMesh™ P180 Foam Backed Flexible Sanding Discs for glass scratch removal with even pressure and swirl-free results. Essential for glass restoration system.
-  Updated: 2025-10-08T21:10:14Z
+  Updated: 2025-10-09T09:10:21Z
   Vendor: Glass Polish
   Product Type: ProMesh™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -3031,9 +3031,6 @@
 - [Glass Polish Automotive Glass](https://glasspolishshop.com/collections/windscreen-polish): Glass Polish Automotive Glass Restoration ,  Removes wipe blade damage, side windows scratched from any car glass by using DIY or PRO kit
   Updated: 2025-10-06T11:22:35Z
   Total Products: 14
-- [Glass Polish metal and stainless steel polishing](https://glasspolishshop.com/collections/metal-stainless-steel-polishing): Metal &amp; Stainless Steel Polishing
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 8
 - [Glass Polishing Compounds – Remove Scratches & Restore Clarity](https://glasspolishshop.com/collections/glass-polishing-compounds): High-performance glass polishing compounds remove fine scratches, sanding marks, haziness and limescale, restoring clarity to glass, ceramics, metals, and more
   Updated: 2025-10-06T11:22:35Z
   Total Products: 8
@@ -3049,9 +3046,6 @@
 - [Glass Polish Surface Sealant Water Repellent](https://glasspolishshop.com/collections/surface-sealants): Surface Sealants
   Updated: 2025-10-04T00:05:19Z
   Total Products: 4
-- [Glass Polish Leather, Vinyl, Fabric Care](https://glasspolishshop.com/collections/leather-vinyl-care): Leather &amp; Vinyl Care
-  Updated: 2025-10-04T00:05:19Z
-  Total Products: 10
 - [Hand Held Sanding](https://glasspolishshop.com/collections/hand-sanding-pads): Hand Held Sanding, Hand Held Sanding - GLASS POLISH SHOP - Smart Repair &amp; Polishing Products
   Updated: 2025-10-04T00:05:19Z
   Total Products: 23
@@ -3061,9 +3055,6 @@
 - [Water Feed Rotary Polisher Backing Pads – Heavy Duty Wet Use Pads](https://glasspolishshop.com/collections/water-feed-rotary-polisher-backing-pads): Shop heavy duty water feed polisher backing pads for continuous wet sanding and polishing. Durable hook & loop pads for glass, stone and surface restoration.
   Updated: 2025-10-04T00:05:19Z
   Total Products: 10
-- [Glass Polish Polishing machines](https://glasspolishshop.com/collections/power-tools): Glass Polish full range of polishing  machines, Rotary polishers, Orbital, Dual action. Ideal for DIY projects and for professional use. Worldwide shipping available.
-  Updated: 2025-10-04T00:05:19Z
-  Total Products: 37
 - [Glass Polish Rotary Polishing Machine](https://glasspolishshop.com/collections/rotary-polishers): Glass Polish Rotary Polishing Machines used in glass, plastic, acrylic and automotive renovation industry. Great range at best price. Worldwide shipping.
   Updated: 2025-10-04T00:05:19Z
   Total Products: 13
@@ -3088,66 +3079,18 @@
 - [Headlight Restoration Kits – Easy to use DIY & Professional Systems](https://glasspolishshop.com/collections/headlights-restoration-kits): Explore our Headlight Restoration Kits for restoring clarity and safety. Remove scratches, haze, and yellowing, protect with UV sealant for lasting results.
   Updated: 2025-10-04T00:05:20Z
   Total Products: 3
-- [Glass Polishing Compound](https://glasspolishshop.com/collections/polishing-compounds-1): Polishing Compounds
-  Updated: 2025-10-06T11:22:35Z
-  Total Products: 8
-- [Glass Cleaners and Sealants](https://glasspolishshop.com/collections/cleaners-sealants-1): Cleaners &amp; Sealants
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 9
-- [Metal Polishing Compounds](https://glasspolishshop.com/collections/polishing-compounds-2): Polishing Compounds
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 4
-- [Metal Stainless Steal Cleaners](https://glasspolishshop.com/collections/metal-cleaners): Metal Cleaners
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 2
-- [Metal Sealants and Protectants](https://glasspolishshop.com/collections/metal-sealants): Metal Sealants
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 4
-- [Fabric and Carpet Repair Kits](https://glasspolishshop.com/collections/carpet-floor-repair): Carpet / Floor Repair -
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 2
-- [Leather, Vinyl Cleaners](https://glasspolishshop.com/collections/leather-cleaners): Leather Cleaners
-  Updated: 2025-10-04T11:20:59Z
-  Total Products: 5
-- [Leather, Vinyl Conditioners and Protectants](https://glasspolishshop.com/collections/leather-conditioners): Leather Conditioners
-  Updated: 2025-10-04T11:20:59Z
-  Total Products: 9
 - [Automotive Care and Repair Products](https://glasspolishshop.com/collections/automotive-care-repair): Automotive Care &amp; Repair -
   Updated: 2025-10-07T11:25:03Z
   Total Products: 92
 - [Windscreen Chip & Crack Repair Supplies for Professional Repair Kits](https://glasspolishshop.com/collections/crack-and-chip-repair-supplies): Shop professional chip and crack consumables, curing resin, pit filler, drill bits, curing tape used in car windscreen chip and crack repair process.
   Updated: 2025-10-08T21:51:06Z
   Total Products: 10
-- [Paint Clean and Polish](https://glasspolishshop.com/collections/clean-and-polish): Clean and Polish -
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 28
 - [Wheel Cleaners and Protectants](https://glasspolishshop.com/collections/wheel-detailing): Wheel Detailing -
   Updated: 2025-10-07T11:25:03Z
   Total Products: 14
-- [Car Paint Sealants and Waxes](https://glasspolishshop.com/collections/paint-sealants-waxes): Paint Sealants & Waxes -
-  Updated: 2025-10-04T00:05:20Z
-  Total Products: 12
 - [Car Interior Detail and Protect](https://glasspolishshop.com/collections/interior-detail-protect): Interior Detail & Protect -
   Updated: 2025-10-07T11:25:03Z
   Total Products: 17
-- [Car paint Washing and Prep](https://glasspolishshop.com/collections/paint-washing-prep): Paint Washing &amp; Prep
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 9
-- [Car Paint Polish and Sealant](https://glasspolishshop.com/collections/paint-polish-sealants): Paint Polish &amp; Sealants
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 11
-- [Car Wheel wash and protect](https://glasspolishshop.com/collections/wheel-wash-protect): Wheel Wash &amp; Protect
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 7
-- [Car Interior Clean and Detail](https://glasspolishshop.com/collections/interior-detailing): Interior Detailing
-  Updated: 2025-10-04T11:20:59Z
-  Total Products: 9
-- [Gliptone Leather, Vinyl Care](https://glasspolishshop.com/collections/leather-care): Leather Care
-  Updated: 2025-10-04T11:20:59Z
-  Total Products: 11
-- [Gliptone Speciality Products](https://glasspolishshop.com/collections/speciality-products): Speciality Products
-  Updated: 2025-10-04T11:20:59Z
-  Total Products: 12
 - [Car Polishing, Compounding and Buffing Pads](https://glasspolishshop.com/collections/detailing-foam-polishing-pads): Wide Range of Polishing, Compounding and Buffing Foams and wool pads used in automotive industry.
   Updated: 2025-10-07T11:25:03Z
   Total Products: 27
@@ -3157,9 +3100,6 @@
 - [Carbon brushes for electric rotary polishing machines.](https://glasspolishshop.com/collections/carbon-brushes): Carbon Brushes
   Updated: 2025-10-04T00:05:21Z
   Total Products: 3
-- [Giptone Marine and RV Environmentally safe and highly effective cleaning, enhancing and protection products.](https://glasspolishshop.com/collections/marine-rv-care): Environmentally safe and highly effective marine and RV cleaning, enhancing and protection products.
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 6
 - [GLASS POLISH SHOP - Special Offers &amp; Bundles](https://glasspolishshop.com/collections/special-offers-bundles): Huge savings on the products you like
   Updated: 2025-10-08T11:24:45Z
   Total Products: 35
@@ -3169,36 +3109,9 @@
 - [flex power tools,](https://glasspolishshop.com/collections/flex-tools): flex tools power tools accessories for professional craftspeople. System solutions for Refurbishment, renovation &amp; modernization, metalworking, automotive
   Updated: 2025-10-04T00:05:21Z
   Total Products: 31
-- [Cordless Range](https://glasspolishshop.com/collections/cordless-range): Cordless Range -
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 21
-- [Corded Range](https://glasspolishshop.com/collections/corded-range): Corded Range -
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 11
-- [Batteries and Chargers](https://glasspolishshop.com/collections/batteries-and-chargers): Batteries and Chargers -
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 4
-- [Sets / Bundles](https://glasspolishshop.com/collections/sets-bundles): Sets / Bundles -
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 5
-- [Random Orbital Polishers](https://glasspolishshop.com/collections/random-orbital-polishers): Random Orbit Polishers -
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 6
 - [DIY Glass Scratch Removal & Polishing Kits for Home Use](https://glasspolishshop.com/collections/diy-glass-restoration-kits): Remove scratches, restore clarity, and polish glass at home with our easy-to-use DIY kits for windscreens, windows, doors, shower glass, ceramic hobs and more.
   Updated: 2025-10-08T11:24:45Z
   Total Products: 8
-- [Flex power Saws and Angles Grinders](https://glasspolishshop.com/collections/saws-and-angle-grinders): Flex power Saws and Angles Grinders
-  Updated: 2025-10-04T00:05:21Z
-  Total Products: 5
-- [Flex power Drills and Screwdrivers](https://glasspolishshop.com/collections/drills-and-scredrivers): Flex power Drills and Screwdrivers
-  Updated: 2025-10-04T00:05:22Z
-  Total Products: 2
-- [Flex Power Vacuum Cleaners and Blowers](https://glasspolishshop.com/collections/vacuum-cleaners-and-blowers): Flex power Vacuum Cleaners and Blowers
-  Updated: 2025-10-04T00:05:22Z
-  Total Products: 4
-- [VSP860 Rotary Polisher](https://glasspolishshop.com/collections/vsp860-rotary-polisher)
-  Updated: 2025-10-04T00:05:22Z
-  Total Products: 4
 - [Discs & Pads – Abrasive, Backing, Polishing & Sanding Pads for Repairs](https://glasspolishshop.com/collections/discs-and-pads): Discover abrasive discs, backing pads, polishing pads, and sanding pads for professional and DIY use. Achieve precision and durability on any surface.
   Updated: 2025-10-04T00:05:22Z
   Total Products: 34
@@ -3211,12 +3124,6 @@
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-04T00:05:22Z
   Total Products: 2
-- [Compact Polishers](https://glasspolishshop.com/collections/compact-polishers)
-  Updated: 2025-10-04T00:05:22Z
-  Total Products: 0
-- [Carbon Brushes](https://glasspolishshop.com/collections/carbon-brushes-1)
-  Updated: 2025-10-04T00:05:22Z
-  Total Products: 1
 
 ## Blogs
 
