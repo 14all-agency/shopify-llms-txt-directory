@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-09T04:01:04.156Z
+- Updated At: 2025-10-09T08:00:59.800Z
 
 ## Products
 
@@ -46517,7 +46517,7 @@
     Availability: Available
     Price: ‏749.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite SG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
-  Updated: 2025-10-08T18:20:06Z
+  Updated: 2025-10-09T05:53:14Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46556,7 +46556,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 10 Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Vapor 16 Elite SG-Pro משלבות מהירות, תגובה מהירה ושליטה גבוהה בכדור. הדגם בצבע Limelight/Volt/Hyper Crimson מציע ביצועים מיטביים על מגרשים רטובים ויבשים. מערכת ה-Zoom Air תוכננה לשפר את התגובה והאנרגיה בכל צעד. החלק הקדמי כולל מבנה גלים חדש שמגדיל את שטח המגע עם הקרקע ומספק החזרת אנרגיה יעילה יותר, לשמירה על מהירות גבוהה לאורך זמן. סוליית ה-SG Pro כוללת יתדות בעיצוב מתקדם לאחיזה יציבה ולתמרון מהיר, עם שילוב בין בליידים ויתדות עגולות לשינויי כיוון חלקים ובטוחים. החלק העליון של הנעל עשוי שלוש שכבות קלות במיוחד בשילוב טכנולוגיות Knit מתקדמות: Flyknit לנוחות וגמישות, Atomknit לתמיכה, ו-Gripknit לשליטה מדויקת בכדור. Gripknit הוא חומר דביק וגמיש העמיד בפני מזג אוויר משתנה, המספק מגע עקבי עם הכדור ושליטה טובה גם במהירות גבוהה.
-  Updated: 2025-10-08T18:57:39Z
+  Updated: 2025-10-09T06:02:38Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
