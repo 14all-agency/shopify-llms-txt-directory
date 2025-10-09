@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-08T20:00:36.786Z
+- Updated At: 2025-10-09T00:00:34.386Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -5265,9 +5265,9 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Privacy Policy | Protecting Your Data & Crystal Purchases](https://crystalshealing.co.uk/pages/privacy-policy): Crystals Healing – Privacy Policy Last updated: 21 September 2025 At Crystals Healing, we respect your privacy. This notice explains what personal ...
   Updated: 2025-09-24T10:00:41Z
 - [FAQ | Crystals Healing Support - Find Answers Here](https://crystalshealing.co.uk/pages/faq): Navigate through our Frequently Asked Questions. Get quick answers to your queries and understand our services better. We’re here to help you.
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-10-08T21:40:17Z
 - [Contact Us – We're Here to Help | Crystals Healing Shop](https://crystalshealing.co.uk/pages/contact-us): Get in touch with us for any questions, support, or assistance with your crystal needs. We're here to help you on your healing journey. Contact us ...
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-10-08T21:37:33Z
 - [Bracelet & Necklace Size Guide | Crystals Healing](https://crystalshealing.co.uk/pages/size-guide): 📏 Size Guide Use this guide to find your perfect bracelet and necklace size. For current stock, check our crystal bracelets. ✨ Measuring Your Wrist...
   Updated: 2025-09-24T10:00:41Z
 - [Quality Products & Support | Trusted Crystal Healing](https://crystalshealing.co.uk/pages/things-you-need-to-know): Things You Need To Know Experience our commitment to Quality Products & Support. We ensure top-notch products and exceptional customer service for ...
