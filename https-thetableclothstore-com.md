@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-08T20:00:42.963Z
+- Updated At: 2025-10-09T04:00:39.045Z
 
 ## Products
 
@@ -33747,6 +33747,9 @@
     Author: User
   - [Picnic Perfect: Tablecloth Tips for Outdoor Gatherings](https://thetableclothstore.com/blogs/news/picnic-perfect-tablecloth-tips-for-outdoor-gatherings): Picnic Perfect: Tablecloth Tips for Outdoor Gatherings
     Updated: 2025-10-07T01:41:31Z
+    Author: User
+  - [How to Elevate Your Dining Experience with the Right Table Design](https://thetableclothstore.com/blogs/news/how-to-elevate-your-dining-experience-with-the-right-table-design): How to Elevate Your Dining Experience with the Right Table Design
+    Updated: 2025-10-09T01:09:27Z
     Author: User
 
 ## Store Pages
