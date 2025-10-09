@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-09T08:01:10.818Z
+- Updated At: 2025-10-09T12:01:11.350Z
 
 ## Products
 
@@ -4266,7 +4266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Grey_Dual_SIM_2201122G_-_Hifi_Media_Store-999933.jpg?v=1719091525
   Price: 584,27 € EUR
 - [Xiaomi 12 Lite 5G 8GB/128GB Negro (Black) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-8gb-128gb-negro-black-dual-sim-2203129g): Xiaomi 12 Lite 5G 128GB  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-10-08T00:45:30Z
+  Updated: 2025-10-09T10:10:28Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -4854,7 +4854,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Awesome_Navy_Dual_SIM_SM-A556_-_Hifi_Media_Store-994176.jpg?v=1719059421
   Price: 370,98 € EUR
 - [Xiaomi 12 Lite 5G 6GB/128GB Rosa (Lite Pink) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-6gb-128gb-rosa-lite-pink-dual-sim-2203129g): Xiaomi 12 Lite 5G:  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-10-08T22:14:46Z
+  Updated: 2025-10-09T10:10:27Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -6309,13 +6309,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14106.jpg?v=1723762525
   Price: 716,10 € EUR
-- [Xiaomi Pad 6 11" 6GB/128GB WiFi Gris (Gravity Grey)](https://hifimediastore.com/products/xiaomi-pad-6-11-6gb-128gb-wifi-gris-gravity-grey): Xiaomi Pad 6 11":  Chip Qualcomm® Snapdragon™ 870 Pantalla WQHD++ de 11", HDR10 y 144 Hz Cámara frontal de 13 MP con vídeo en 4K 4 altavoces estéreo de sonido envolvente Dolby Atoms Batería 8840 mAh y carga rápida de 33W Android 13 MIUI 14
-  Updated: 2025-10-08T00:50:25Z
-  Vendor: Xiaomi
-  Product Type: Tablet's
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14363.jpg?v=1723762553
-  Price: 346,53 € EUR
 - [Samsung Galaxy Tab A9 8,7" 4GB/64GB WiFi Plata (Mystic Silver) X110](https://hifimediastore.com/products/samsung-galaxy-tab-a9-87-4gb-64gb-wifi-plata-mystic-silver-x110): Samsung Galaxy Tab A9 Pantalla TFT LCD 87 Camara Principal 8MP y Camara delantera 2MP Android 13 One UI 51 Octacore Mediatek Helio G99 Amplicion de memoria hasta 1 TB Bateria 5100 mAh con carga rapida 15W Wi Fi Bluetooth 53 GPS USB Tipo C 20
   Updated: 2025-10-08T00:35:21Z
   Vendor: Samsung
@@ -6597,7 +6590,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18018.jpg?v=1725048954
   Price: 35,07 € EUR
 - [Motorola Moto Buds Auriculares Bluetooth Azul (Glacier Blue)](https://hifimediastore.com/products/motorola-moto-buds-auriculares-bluetooth-azul-glacier-blue): Motorola Moto Buds:  Dolby Atmos Cancelación de ruido inteligente Hasta 42 horas de reproducción Diseño repelente al agua Aplicación Moto Buds Bluetooth 5.3
-  Updated: 2025-10-08T19:50:11Z
+  Updated: 2025-10-09T09:15:10Z
   Vendor: Motorola
   Product Type: Bluetooth
   Availability: Available
@@ -6877,7 +6870,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19294.jpg?v=1730316067
   Price: 1111,75 € EUR
 - [Samsung Galaxy A16 5G 4GB/128GB Gris (Light Gray) Dual SIM SM-A166](https://hifimediastore.com/products/samsung-galaxy-a16-5g-4gb-128gb-gris-light-gray-dual-sim-sm-a166): Samsung Galaxy A16 5G:  Pantalla FHD+ Super AMOLED de 6,7" Cámara triple de 50 MP y cámara selfie de 13 MP Batería de 5000 mAh Carga rápida de 25W Procesador Octa-core Conexión 5G  *Términos de Samsung Pay en la descripción.
-  Updated: 2025-10-08T07:15:15Z
+  Updated: 2025-10-09T10:00:24Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8411,8 +8404,8 @@
   Updated: 2025-10-08T18:10:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-09T03:47:58Z
-  Total Products: 1366
+  Updated: 2025-10-09T10:15:52Z
+  Total Products: 1365
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8792,8 +8785,8 @@
   Updated: 2025-08-29T10:01:57Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-09T03:47:58Z
-  Total Products: 1369
+  Updated: 2025-10-09T10:15:52Z
+  Total Products: 1368
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-08-29T10:27:26Z
   Total Products: 24
@@ -8855,8 +8848,8 @@
   Updated: 2025-06-22T07:51:39Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-09T03:47:58Z
-  Total Products: 357
+  Updated: 2025-10-09T10:15:52Z
+  Total Products: 356
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-06-22T07:51:39Z
   Total Products: 1
