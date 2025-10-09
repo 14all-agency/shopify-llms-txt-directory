@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-09T10:26:50.003Z
+- Updated At: 2025-10-09T10:43:59.452Z
 
 ## Products
 
@@ -2561,14 +2561,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Car-Detailing-Essential-Kit-16230.jpg?v=1737645872
   Price: €179.95 EUR
 - [Microfiber Foam Applicator Pad / 2pk](https://glasspolishshop.com/products/microfiber-foam-applicator-pad-2pk): Microfiber Foam Applicator Pad / 2pk Soft foam for smooth application of conditioners, lotions, gels, dressings, cleaners. Ideal for use on All leather, vinyl, glass, metal, plastic surfaces. Automotive Paintwork waxing.
-  Updated: 2025-10-08T11:34:21Z
+  Updated: 2025-10-09T10:43:51Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Microfiber-Foam-Applicator-Pad-2pk-15013.jpg?v=1737645896
   Price: €8.95 EUR
 - [Applicator Sponge Pad / 2pk](https://glasspolishshop.com/products/applicator-sponge-pad-2pk): Applicator Sponge Pad / 2pk Soft foam for smooth application of conditioners, lotions, gels, dressings, cleaners.  Ideal for use on All leather, vinyl, glass, metal, plastic surfaces.
-  Updated: 2025-10-08T11:34:19Z
+  Updated: 2025-10-09T10:43:51Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2765,21 +2765,21 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/28002_fb141904-f9ca-4eb9-94d5-d24d4b19a244.jpg?v=1757941110
   Price: €39.95 EUR
 - [Rotary Polishing Machine VSP860 - 230v - UK - 82101](https://glasspolishshop.com/products/rotary-polishing-machine-vsp860-230v-uk): Rotary Polishing Machine VSP860 - 230v - UK - 82101 - Rotary Polishers - • Enhance your polishing and sanding capabilities with this Rotary Polisher, a reliable and efficient tool for both professional and DIY applications.• Variable Speed Control: Achiev
-  Updated: 2025-10-07T15:18:38Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0.jpg?v=1758705738
   Price: €109.95 EUR
 - [Rotary Polishing Machine VSP860 - 230v - EU - 82102](https://glasspolishshop.com/products/rotary-polishing-machine-vsp860-230v-eu): Rotary Polishing Machine VSP860 - 230v - EU - 82102 - Rotary Polishers - • Enhance your polishing and sanding capabilities with this Rotary Polisher, a reliable and efficient tool for both professional and DIY applications.• Variable Speed Control: Achiev
-  Updated: 2025-10-07T15:18:38Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0_65cbea44-b9d9-45d3-9570-d7bbb4a7cf6c.jpg?v=1758705729
   Price: €109.95 EUR
 - [Rotary Polishing Machine VSP860 - 120v - US - 82103](https://glasspolishshop.com/products/rotary-polishing-machine-vsp860-120v-us): Rotary Polishing Machine VSP860 - 120v - US - 82103 - Rotary Polishers - • Enhance your polishing and sanding capabilities with this Rotary Polisher, a reliable and efficient tool for both professional and DIY applications.• Variable Speed Control: Achiev
-  Updated: 2025-10-07T15:18:38Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2910,14 +2910,14 @@
     Availability: Available
     Price: €34.95 EUR
 - [Rotary Polishing Machine VSP860 - 230v - UK - 82101](https://glasspolishshop.com/products/rotary-polishing-machine-vsp860-230v-au): Rotary Polishing Machine VSP860 - 230v - UK - 82101 - Rotary Polishers - • Enhance your polishing and sanding capabilities with this Rotary Polisher, a reliable and efficient tool for both professional and DIY applications.• Variable Speed Control: Achiev
-  Updated: 2025-10-07T14:44:06Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0.jpg?v=1758705738
   Price: €109.95 EUR
 - [Flex L1503VR - 230v](https://glasspolishshop.com/products/flex-rotary-polishing-machine-l1503vr-230v-eu): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-07T14:44:06Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Flex
   Product Type: 
   Availability: Available
@@ -2931,35 +2931,35 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP850_carbonbrushes_7564cb3c-8892-4634-a194-2524c33d0e5d.jpg?v=1758891114
   Price: €11.95 EUR
 - [Premium Dual-Sided Microfiber Cloth - 2pk](https://glasspolishshop.com/products/premium-dual-sided-microfiber-cloth-2pk): ✅ DUAL-SIDED: Our microfiber cloth features two sides – one ultra-soft side for polishing and another extra absorbent side for efficient drying.✅ ULTRA-SIFT POLISHING: The soft side of the towel is perfect for gentle polishing, leaving surfaces smooth and streak-free.✅ EXTRA ABSORBENCY: The absorbent side quickly soaks up water and moisture, making it ideal for drying cars, dishes, or any surface that needs a thorough wipe-down.✅ SCRATCH-FREE: The high-quality microfiber material ensures a scratch-free cleaning experience on delicate surfaces like glass, paint, and electronic screens.✅ LINT-FREE FINISH: Say goodbye to annoying lint or streaks! Our premium microfiber towel guarantees a flawless finish every time.✅ SIZE: 40x40cm - Pack of 2 cloths
-  Updated: 2025-10-07T14:44:05Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-LineCloth.jpg?v=1759144607
   Price: €7.95 EUR
 - [M6 to 6.3 mm Backing Pad Adaptor](https://glasspolishshop.com/products/m6-to-6-3-mm-backing-pad-adaptor): ✅ VERSATILE USE: Converts M6 thread backing pads to 6.3mm (¼”) shank✅ UNIVERSAL FIT: Compatible with all M6 backing pads✅ DRILL COMPATIBILITY: Allows M6 backing pads to be used with any standard electric drill✅ DURABLE BUILD: Made from high-quality steel for strength and long service life
-  Updated: 2025-10-04T00:06:30Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/adaptorM6.jpg?v=1759152498
   Price: €5.95 EUR
 - [M6 to 6.3 mm Backing Pad Adaptor](https://glasspolishshop.com/products/m6-to-6-3-mm-backing-pad-adaptor-1): ✅ VERSATILE USE: Converts M6 thread backing pads to 6.3mm (¼”) shank✅ UNIVERSAL FIT: Compatible with all M6 backing pads✅ DRILL COMPATIBILITY: Allows M6 backing pads to be used with any standard electric drill✅ DURABLE BUILD: Made from high-quality steel for strength and long service life
-  Updated: 2025-10-04T00:06:30Z
+  Updated: 2025-10-09T10:41:00Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/adaptorM6long.jpg?v=1759153110
   Price: €5.95 EUR
 - [75mm (3") PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-09T02:51:17Z
+  Updated: 2025-10-09T10:32:08Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12675.jpg?v=1759935066
   Price: €12.95 EUR
 - [75mm (3") PRO Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-09T03:15:34Z
+  Updated: 2025-10-09T10:32:09Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -2974,9 +2974,6 @@
 - [Glass Restoration Kits | DIY & Professional Scratch Removal Solutions](https://glasspolishshop.com/collections/glass-restoration-kits): Explore our range of DIY and professional glass restoration kits. Remove scratches, polish glass, and restore clarity with easy-to-use, all-in-one repair kits.
   Updated: 2025-10-08T11:24:45Z
   Total Products: 13
-- [Plastic, Acrylic Restoration kits | Plastic Polishing Kits](https://glasspolishshop.com/collections/plastic-acrylic-restoration): Plastic, Acrylic Polishing kits, use our plastics, acrylic restoration products to polish and remove stains, scratches, scuffs, haziness, and discolouration from plastic and acrylic surfaces. Restore it to a beautiful new looking finish.
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 19
 - [Metal Polishing Kits | Stainless Steel Polishing Kits](https://glasspolishshop.com/collections/metal-polishing-kits): Metal and Stainless Steel Polishing kits with Advanced Metal Polish Compound that cleans, shines and protects the surface, kits can be used by hand, with an electric drill or polisher.
   Updated: 2025-10-04T00:05:18Z
   Total Products: 3
@@ -3079,21 +3076,9 @@
 - [Headlight Restoration Kits – Easy to use DIY & Professional Systems](https://glasspolishshop.com/collections/headlights-restoration-kits): Explore our Headlight Restoration Kits for restoring clarity and safety. Remove scratches, haze, and yellowing, protect with UV sealant for lasting results.
   Updated: 2025-10-04T00:05:20Z
   Total Products: 3
-- [Automotive Care and Repair Products](https://glasspolishshop.com/collections/automotive-care-repair): Automotive Care &amp; Repair -
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 92
 - [Windscreen Chip & Crack Repair Supplies for Professional Repair Kits](https://glasspolishshop.com/collections/crack-and-chip-repair-supplies): Shop professional chip and crack consumables, curing resin, pit filler, drill bits, curing tape used in car windscreen chip and crack repair process.
   Updated: 2025-10-08T21:51:06Z
   Total Products: 10
-- [Wheel Cleaners and Protectants](https://glasspolishshop.com/collections/wheel-detailing): Wheel Detailing -
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 14
-- [Car Interior Detail and Protect](https://glasspolishshop.com/collections/interior-detail-protect): Interior Detail & Protect -
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 17
-- [Car Polishing, Compounding and Buffing Pads](https://glasspolishshop.com/collections/detailing-foam-polishing-pads): Wide Range of Polishing, Compounding and Buffing Foams and wool pads used in automotive industry.
-  Updated: 2025-10-07T11:25:03Z
-  Total Products: 27
 - [Spindle Adaptors M14 x 2 and 5/8&quot;-11 to 6mm Backing pad adaptor](https://glasspolishshop.com/collections/drill-adaptors): M14 x 2 and 5/8&quot;-11 to 6mm Backing pad adaptor. use threaded backing pad with power drill.
   Updated: 2025-10-04T00:05:21Z
   Total Products: 4
