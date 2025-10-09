@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-09T16:00:48.255Z
+- Updated At: 2025-10-09T20:00:48.176Z
 
 ## Products
 
@@ -7719,7 +7719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Contrast-Sequin-Sleeveless-Mini-Dress-Brinxx-Couture-3034.jpg?v=1730294334
     Price: $59.00 USD
 - [Rib-Knit Slit Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rib-knit-slit-sweater-dress): Look stylish and feel comfortable in this Rib-Knit Slit Sweater Dress. Featuring a rib-knit fabric for a unique look and slit openings for extra movement.
-  Updated: 2025-10-03T21:27:31Z
+  Updated: 2025-10-09T17:09:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9354,7 +9354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Square-Neck-Long-Sleeve-Slit-Dress-Brinxx-Couture-845.jpg?v=1709850380
     Price: $34.99 USD
 - [Surplice Neck Slit Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-surplice-neck-slit-dress): This Plus Size Surplice Neck Slit Dress is designed to flatter your figure. Crafted from tailored fabric with a surplice neck, it features a slit for ease of movement.
-  Updated: 2025-10-02T17:12:10Z
+  Updated: 2025-10-09T19:19:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10640,7 +10640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-07T23:30:00Z
+  Updated: 2025-10-09T16:42:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14832,13 +14832,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-Heart-Ring-Brinxx-Couture-3038.jpg?v=1730298932
     Price: $99.99 USD
 - [18K Gold-Plated Titanium Steel Bracelet - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-titanium-steel-bracelet): This 18K gold-plated titanium steel bracelet is the perfect accessory for any outfit. Made from high-quality titanium steel, it is durable and long-lasting.
-  Updated: 2025-10-01T22:26:11Z
+  Updated: 2025-10-09T19:02:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Titanium-Steel-Bracelet-Brinxx-Couture-179.jpg?v=1709876057
   - [Gold / One Size](https://www.brinxxcouture.com/products/18k-gold-plated-titanium-steel-bracelet?variant=42583481483446)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Titanium-Steel-Bracelet-Brinxx-Couture-179.jpg?v=1709876057
     Price: $15.00 USD
   - [Silver / One Size](https://www.brinxxcouture.com/products/18k-gold-plated-titanium-steel-bracelet?variant=42583481516214)
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-09T10:32:05Z
+  Updated: 2025-10-09T18:30:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
