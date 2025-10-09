@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-09T00:00:31.191Z
+- Updated At: 2025-10-09T12:00:29.553Z
 
 ## Products
 
@@ -41,12 +41,12 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-10-06T09:56:37Z
+  Updated: 2025-10-09T08:15:48Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5043419837.jpg?v=1757492266
-  Price: $1,238.00 USD
+  Price: $12.38 USD
 - [Professional Electronic Pedicure Tool | Callus & Dead Skin Remover](https://fusionvibestore.com/products/electronic-pedicure-tool): Salon-quality pedicures at home! This electronic pedicure tool safely and effectively removes calluses and dead skin. Leaves your feet feeling soft and smooth. Order now.
   Updated: 2025-10-06T09:56:37Z
   Vendor: z60ja0-0n
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-10-09T09:27:23Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1130,7 +1130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5952737729.jpg?v=1759815705
   Price: $11.00 USD
 - [LEING FST Virtual Laser Keyboard Bluetooth Wireless Projector Phone Keyboard For Computer Pad Laptop With Mouse Function](https://fusionvibestore.com/products/leing-fst-virtual-laser-keyboard-bluetooth-wireless-projector-phone-keyboard-for-computer-pad-laptop-with-mouse-function): Overview: Using a new independent research and development algorithm to deal with the chip A80, the A80 algorithm chip can effectively identify 7 different points at the same time, the change is to better improve the anti-interference of the keyboard, so that the sensitivity and accuracy of the keyboard input are compared. The previous generation has a significant improvement. At the same time, the mouse mode also supports the enlargement and reduction of the picture in the WINDOWS7 system and the recognition of the page turning gesture. Specification 1. White Keyboard name:KB630-M1 Keyboard size: 9cm*4.5cm*5cm Projection size: 10cm*25cm Connection method: USB cable, Bluetooth (imported Bluetooth chip) Battery capacity: 2500mAh(MAX)@3.7V Battery life: 6 hours Main functions: stand function, power bank function, USB cable Direct connection to computer, keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 2. Black Keyboard name: KB560S Keyboard size: 7.8cm*4cm*1.9cm Projection size: 10cm*24cm Connection method: Bluetooth (if there is no Bluetooth, a Bluetooth adapter is required) Battery capacity: 700mAh(MAX)@3.7V Battery life: 120 minutes Main function: keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Recognition rate: 350 words/min Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 Package Content : 1*Laser Keyboard
-  Updated: 2025-10-08T16:52:50Z
+  Updated: 2025-10-09T07:25:16Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
@@ -1155,6 +1155,98 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1207903256782.jpg?v=1759899171
     Price: $52.00 USD
+- [LED Night Light Folding Book Light USB Port Rechargeable Wooden Magnet  Lamp](https://fusionvibestore.com/products/led-night-light-folding-book-light-usb-port-rechargeable-wooden-magnet-lamp): Features: *Charging easily: Users can charge the book light easily with any USB port devices; *Book Design: The book design light is really a great decoration for home, desk, table, bookcase, ceiling, etc. *Open freely: 360 degree open design, users can open the book at preferred angle; Open-off to change color; *Good durability: DuPont Tyvek delivers unparalleled strength in an ultra-lightweight paper material. *Portable and small, just bring wireless book anywhere you like; *Tender and changing color light on and beautify your life; *Amazing gift for your families, friends, lover etc. NOTE: Open and Close the book to get Color Changing Specifications: Name: led wooden cover book lamp Color: white/warm white Working voltage: 300mA DC5V Battery voltage: 3.7V/2500mA Charge voltage: 5V/500mA Charging time: 5H Working time: 8H Charging status: red light means charging, blue color means done Material: walnut cover/white maple cover + Dupont tear-resistant paper of united states Dimmer: no Book size: 215 * 165* 30mm(L * W * H) Item weight: 375g Package list: 1 * LED Book Light 1 * USB Cable
+  Updated: 2025-10-09T07:26:18Z
+  Vendor: z60ja0-0n
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/42899840705647.jpg?v=1759992984
+  - [Walnut / Warm White](https://fusionvibestore.com/products/led-night-light-folding-book-light-usb-port-rechargeable-wooden-magnet-lamp?variant=45630786502855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2154069460284.jpg?v=1759992992
+    Price: $41.43 USD
+  - [White Maple / White](https://fusionvibestore.com/products/led-night-light-folding-book-light-usb-port-rechargeable-wooden-magnet-lamp?variant=45630786535623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1311429722600.jpg?v=1759992992
+    Price: $48.13 USD
+- [Wireless Charger Solar Portable Power Source](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source): Product information: Color: red and black, orange Black, Black green, blue black, black, 2401 orange Black, 2401 green black, 2401 Blue Black, 2401 Black Shell Material: Plastic Function: Solar energy Size: 173*89 * 28mm Packing list: Power Bank X1 Product Image:
+  Updated: 2025-10-09T08:28:14Z
+  Vendor: z60ja0-0n
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b7e58ac6-0fbf-4726-bc0d-72813bf017dc_trans.jpg?v=1759996641
+  - [2401 Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872715463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/08e92155-7fb2-4b37-b58f-b879e67185e3_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872748231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/08e92155-7fb2-4b37-b58f-b879e67185e3_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Blue And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872780999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c58baa54-d23c-4886-b9be-d18d3a5fc505_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Blue And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872813767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c58baa54-d23c-4886-b9be-d18d3a5fc505_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Green And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872846535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/236d5eb4-6c96-41db-86fb-faddfb1f1a90_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Green And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872879303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/236d5eb4-6c96-41db-86fb-faddfb1f1a90_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Orange Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872912071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7b8d2437-9ef3-4991-8263-cce12d988a92_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [2401 Orange Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872944839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7b8d2437-9ef3-4991-8263-cce12d988a92_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Black And Green / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630872977607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f59f14dd-7198-42b7-8e62-4dffd0d64bdb_fine.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Black And Green / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873010375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f59f14dd-7198-42b7-8e62-4dffd0d64bdb_fine.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873043143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/77db3b75-db28-45fd-91fc-65e30d86646e_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873075911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/77db3b75-db28-45fd-91fc-65e30d86646e_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Blue And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873108679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dc7a207f-5ba7-47b7-acce-7f381df24e70_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Blue And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873141447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dc7a207f-5ba7-47b7-acce-7f381df24e70_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Orange Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873174215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e40cc5c5-f599-4ff8-b1bb-2cf0fcb8eb6e_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Orange Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873206983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e40cc5c5-f599-4ff8-b1bb-2cf0fcb8eb6e_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Red And Black / Real Standard 10000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873239751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
+    Price: $28.30 USD
+  - [Red And Black / Real Standard 20000mAh](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source?variant=45630873272519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
+    Price: $28.30 USD
 
 ## Collections
 
@@ -1165,13 +1257,13 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-10-08T04:52:53Z
-  Total Products: 14
+  Updated: 2025-10-09T08:15:49Z
+  Total Products: 15
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-06T09:56:37Z
   Total Products: 7
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-10-06T09:56:37Z
+  Updated: 2025-10-09T08:15:49Z
   Total Products: 11
 
 ## Store Pages
